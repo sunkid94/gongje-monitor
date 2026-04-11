@@ -1,37 +1,25 @@
-import html
-import requests
+import calendar
 from datetime import datetime, timedelta
-from email.utils import parsedate_to_datetime
 
-from config import NAVER_CLIENT_ID, NAVER_CLIENT_SECRET, KEYWORDS
+import feedparser
 
-NAVER_NEWS_URL = "https://openapi.naver.com/v1/search/news.json"
+from config import KEYWORDS
 
-
-def _strip_html(text: str) -> str:
-    text = text.replace("<b>", "").replace("</b>", "")
-    return html.unescape(text)
+GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={}&hl=ko&gl=KR&ceid=KR:ko"
 
 
-def search_news(keyword: str) -> list:
-    headers = {
-        "X-Naver-Client-Id": NAVER_CLIENT_ID,
-        "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
-    }
-    params = {"query": keyword, "display": 20, "sort": "date"}
-    response = requests.get(NAVER_NEWS_URL, headers=headers, params=params)
-    response.raise_for_status()
-    items = response.json().get("items", [])
-    return [
-        {
+def fetch_news_rss(keyword: str) -> list:
+    feed = feedparser.parse(GOOGLE_NEWS_RSS.format(keyword))
+    articles = []
+    for entry in feed.entries:
+        articles.append({
             "keyword": keyword,
-            "title": _strip_html(item["title"]),
-            "link": item["link"],
-            "description": _strip_html(item["description"]),
-            "pubDate": item["pubDate"],
-        }
-        for item in items
-    ]
+            "title": entry.get("title", ""),
+            "link": entry.get("link", ""),
+            "description": entry.get("summary", ""),
+            "published_parsed": entry.get("published_parsed"),
+        })
+    return articles
 
 
 def fetch_new_articles(seen: set) -> list:
@@ -39,15 +27,17 @@ def fetch_new_articles(seen: set) -> list:
     articles = []
     collected_links = set(seen)
     for keyword in KEYWORDS:
-        for item in search_news(keyword):
+        for item in fetch_news_rss(keyword):
             if item["link"] in collected_links:
                 continue
-            try:
-                pub_dt = parsedate_to_datetime(item["pubDate"]).replace(tzinfo=None)
-                if pub_dt < cutoff:
-                    continue
-            except (ValueError, TypeError):
-                pass  # 날짜 파싱 실패 시 포함
+            pub_struct = item.pop("published_parsed")
+            if pub_struct:
+                try:
+                    pub_dt = datetime.fromtimestamp(calendar.timegm(pub_struct))
+                    if pub_dt < cutoff:
+                        continue
+                except (ValueError, TypeError, OverflowError):
+                    pass
             articles.append(item)
             collected_links.add(item["link"])
     return articles

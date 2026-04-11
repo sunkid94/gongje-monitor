@@ -1,96 +1,69 @@
 from unittest.mock import patch, MagicMock
-import pytest
+import time
 
 
-MOCK_API_RESPONSE = {
-    "items": [
-        {
-            "title": "<b>기계설비</b>건설공제조합 신규 공시",
-            "link": "http://news.example.com/1",
-            "description": "기계설비건설공제조합이 <b>신규</b> 사업 계획을 발표했다.",
-            "pubDate": "Fri, 11 Apr 2026 10:00:00 +0900",
-        }
-    ]
-}
+MOCK_FEED_ENTRY = MagicMock()
+MOCK_FEED_ENTRY.get = lambda key, default="": {
+    "title": "기계설비건설공제조합 신규 공시",
+    "link": "http://news.google.com/articles/1",
+    "summary": "기계설비건설공제조합이 신규 사업 계획을 발표했다.",
+    "published_parsed": time.strptime("2026-04-12 10:00:00", "%Y-%m-%d %H:%M:%S"),
+}.get(key, default)
 
 
-def test_search_news_strips_html_tags():
-    mock_resp = MagicMock()
-    mock_resp.json.return_value = MOCK_API_RESPONSE
-    mock_resp.raise_for_status = MagicMock()
-
-    with patch("crawler.requests.get", return_value=mock_resp), \
-         patch("crawler.NAVER_CLIENT_ID", "test_id"), \
-         patch("crawler.NAVER_CLIENT_SECRET", "test_secret"):
-        import crawler
-        import importlib
-        importlib.reload(crawler)
-        result = crawler.search_news("기계설비건설공제조합")
-
-    assert len(result) == 1
-    assert "<b>" not in result[0]["title"]
-    assert "<b>" not in result[0]["description"]
-    assert result[0]["keyword"] == "기계설비건설공제조합"
-    assert result[0]["link"] == "http://news.example.com/1"
+def _mock_feed(entries):
+    feed = MagicMock()
+    feed.entries = entries
+    return feed
 
 
-def test_fetch_new_articles_excludes_seen_urls():
-    mock_resp = MagicMock()
-    mock_resp.json.return_value = MOCK_API_RESPONSE
-    mock_resp.raise_for_status = MagicMock()
-
-    seen = {"http://news.example.com/1"}
-
-    with patch("crawler.requests.get", return_value=mock_resp), \
-         patch("crawler.NAVER_CLIENT_ID", "test_id"), \
-         patch("crawler.NAVER_CLIENT_SECRET", "test_secret"), \
+def test_fetch_news_rss_returns_articles():
+    with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
          patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
         import crawler
         import importlib
         importlib.reload(crawler)
-        result = crawler.fetch_new_articles(seen)
+        result = crawler.fetch_news_rss("기계설비건설공제조합")
+
+    assert len(result) == 1
+    assert result[0]["keyword"] == "기계설비건설공제조합"
+    assert result[0]["link"] == "http://news.google.com/articles/1"
+    assert result[0]["title"] == "기계설비건설공제조합 신규 공시"
+
+
+def test_fetch_new_articles_excludes_seen_urls():
+    with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
+         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
+        import crawler
+        import importlib
+        importlib.reload(crawler)
+        result = crawler.fetch_new_articles({"http://news.google.com/articles/1"})
 
     assert result == []
 
 
 def test_fetch_new_articles_includes_unseen_urls():
-    mock_resp = MagicMock()
-    mock_resp.json.return_value = MOCK_API_RESPONSE
-    mock_resp.raise_for_status = MagicMock()
-
-    seen = set()
-
-    with patch("crawler.requests.get", return_value=mock_resp), \
-         patch("crawler.NAVER_CLIENT_ID", "test_id"), \
-         patch("crawler.NAVER_CLIENT_SECRET", "test_secret"), \
+    with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
          patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
         import crawler
         import importlib
         importlib.reload(crawler)
-        result = crawler.fetch_new_articles(seen)
+        result = crawler.fetch_new_articles(set())
 
     assert len(result) == 1
-    assert result[0]["link"] == "http://news.example.com/1"
+    assert result[0]["link"] == "http://news.google.com/articles/1"
 
 
 def test_fetch_new_articles_excludes_old_articles():
-    old_response = {
-        "items": [
-            {
-                "title": "기계설비건설공제조합 오래된 기사",
-                "link": "http://news.example.com/old",
-                "description": "오래된 기사입니다.",
-                "pubDate": "Mon, 01 Jan 2024 10:00:00 +0900",
-            }
-        ]
-    }
-    mock_resp = MagicMock()
-    mock_resp.json.return_value = old_response
-    mock_resp.raise_for_status = MagicMock()
+    old_entry = MagicMock()
+    old_entry.get = lambda key, default="": {
+        "title": "오래된 기사",
+        "link": "http://news.google.com/articles/old",
+        "summary": "오래된 내용",
+        "published_parsed": time.strptime("2024-01-01 10:00:00", "%Y-%m-%d %H:%M:%S"),
+    }.get(key, default)
 
-    with patch("crawler.requests.get", return_value=mock_resp), \
-         patch("crawler.NAVER_CLIENT_ID", "test_id"), \
-         patch("crawler.NAVER_CLIENT_SECRET", "test_secret"), \
+    with patch("crawler.feedparser.parse", return_value=_mock_feed([old_entry])), \
          patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
         import crawler
         import importlib

@@ -4,12 +4,9 @@ from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-logger = logging.getLogger(__name__)
-
 from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, RECIPIENTS
 
-_ICON = {"긍정": "✅", "부정": "⚠️", "중립": "➖"}
-_BADGE = {"긍정": "🟢 긍정", "부정": "🔴 부정", "중립": "⚪ 중립"}
+logger = logging.getLogger(__name__)
 
 
 def build_email_subject(articles: list) -> str:
@@ -26,16 +23,16 @@ def build_email_subject(articles: list) -> str:
 def build_email_body(articles: list) -> str:
     lines = []
     for a in articles:
-        icon = _ICON.get(a["importance"], "➖")
-        badge = _BADGE.get(a["importance"], "⚪ 중립")
+        desc = a.get("description", "")
+        if len(desc) > 200:
+            desc = desc[:200] + "..."
         lines += [
             "━" * 40,
-            f"[{a['keyword']}] {icon} {a['importance']}",
+            f"[{a['keyword']}]",
             "━" * 40,
             f"제목: {a['title']}",
             f"링크: {a['link']}",
-            f"요약: {a['summary']}",
-            f"중요도: {badge}",
+            f"내용: {desc}",
             "",
         ]
     return "\n".join(lines)
