@@ -2,20 +2,8 @@ import json
 import os
 from datetime import datetime
 
-# Use setdefault-style initialization so that importlib.reload does not
-# overwrite values that have already been patched by tests.
-import sys as _sys
-_mod = _sys.modules[__name__]
-
-if not hasattr(_mod, "ARTICLES_FILE"):
-    ARTICLES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "articles.json")
-else:
-    ARTICLES_FILE = _mod.ARTICLES_FILE  # preserve patched value across reload
-
-if not hasattr(_mod, "MAX_ARTICLES"):
-    MAX_ARTICLES = 500
-else:
-    MAX_ARTICLES = _mod.MAX_ARTICLES  # preserve patched value across reload
+ARTICLES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "articles.json")
+MAX_ARTICLES = 500
 
 
 def load_articles() -> list:

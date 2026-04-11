@@ -1,4 +1,3 @@
-import json
 from unittest.mock import patch
 
 
@@ -22,8 +21,6 @@ def test_load_articles_returns_empty_list_when_file_missing(tmp_path):
     articles_file = str(tmp_path / "articles.json")
     with patch("article_store.ARTICLES_FILE", articles_file):
         import article_store
-        import importlib
-        importlib.reload(article_store)
         result = article_store.load_articles()
     assert result == []
 
@@ -32,8 +29,6 @@ def test_save_and_load_articles_roundtrip(tmp_path):
     articles_file = str(tmp_path / "articles.json")
     with patch("article_store.ARTICLES_FILE", articles_file):
         import article_store
-        import importlib
-        importlib.reload(article_store)
         article_store.save_articles(SAMPLE_ARTICLES)
         result = article_store.load_articles()
     assert len(result) == 2
@@ -46,8 +41,6 @@ def test_save_articles_truncates_to_max(tmp_path):
     with patch("article_store.ARTICLES_FILE", articles_file), \
          patch("article_store.MAX_ARTICLES", 10):
         import article_store
-        import importlib
-        importlib.reload(article_store)
         article_store.save_articles(many)
         result = article_store.load_articles()
     assert len(result) == 10
@@ -57,8 +50,6 @@ def test_add_articles_prepends_with_collected_at(tmp_path):
     articles_file = str(tmp_path / "articles.json")
     with patch("article_store.ARTICLES_FILE", articles_file):
         import article_store
-        import importlib
-        importlib.reload(article_store)
         article_store.add_articles(SAMPLE_ARTICLES)
         result = article_store.load_articles()
     assert len(result) == 2
@@ -71,8 +62,6 @@ def test_add_articles_prepends_to_existing(tmp_path):
     existing = [{"keyword": "k", "title": "old", "link": "http://old/1", "description": "", "collected_at": "2026-01-01T00:00:00"}]
     with patch("article_store.ARTICLES_FILE", articles_file):
         import article_store
-        import importlib
-        importlib.reload(article_store)
         article_store.save_articles(existing)
         article_store.add_articles([SAMPLE_ARTICLES[0]])
         result = article_store.load_articles()
