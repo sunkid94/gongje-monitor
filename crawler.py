@@ -1,3 +1,4 @@
+import html
 import requests
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
@@ -8,7 +9,8 @@ NAVER_NEWS_URL = "https://openapi.naver.com/v1/search/news.json"
 
 
 def _strip_html(text: str) -> str:
-    return text.replace("<b>", "").replace("</b>", "")
+    text = text.replace("<b>", "").replace("</b>", "")
+    return html.unescape(text)
 
 
 def search_news(keyword: str) -> list:
@@ -44,7 +46,7 @@ def fetch_new_articles(seen: set) -> list:
                 pub_dt = parsedate_to_datetime(item["pubDate"]).replace(tzinfo=None)
                 if pub_dt < cutoff:
                     continue
-            except Exception:
+            except (ValueError, TypeError):
                 pass  # 날짜 파싱 실패 시 포함
             articles.append(item)
             collected_links.add(item["link"])

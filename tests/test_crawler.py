@@ -71,3 +71,30 @@ def test_fetch_new_articles_includes_unseen_urls():
 
     assert len(result) == 1
     assert result[0]["link"] == "http://news.example.com/1"
+
+
+def test_fetch_new_articles_excludes_old_articles():
+    old_response = {
+        "items": [
+            {
+                "title": "기계설비건설공제조합 오래된 기사",
+                "link": "http://news.example.com/old",
+                "description": "오래된 기사입니다.",
+                "pubDate": "Mon, 01 Jan 2024 10:00:00 +0900",
+            }
+        ]
+    }
+    mock_resp = MagicMock()
+    mock_resp.json.return_value = old_response
+    mock_resp.raise_for_status = MagicMock()
+
+    with patch("crawler.requests.get", return_value=mock_resp), \
+         patch("crawler.NAVER_CLIENT_ID", "test_id"), \
+         patch("crawler.NAVER_CLIENT_SECRET", "test_secret"), \
+         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
+        import crawler
+        import importlib
+        importlib.reload(crawler)
+        result = crawler.fetch_new_articles(set())
+
+    assert result == []
