@@ -23,10 +23,9 @@ def main() -> None:
     logger.info("새 기사 %d건 발견. 저장 및 이메일 발송 중...", len(new_articles))
 
     new_urls = {a["link"] for a in new_articles}
+    send_email(new_articles)
     save_seen(seen | new_urls)
     add_articles(new_articles)
-
-    send_email(new_articles)
     logger.info("%d건 이슈 이메일 발송 완료.", len(new_articles))
 
 
