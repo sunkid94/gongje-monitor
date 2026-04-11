@@ -1,7 +1,10 @@
+import logging
 import smtplib
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+
+logger = logging.getLogger(__name__)
 
 from config import GMAIL_ADDRESS, GMAIL_APP_PASSWORD, RECIPIENTS
 
@@ -10,6 +13,8 @@ _BADGE = {"긍정": "🟢 긍정", "부정": "🔴 부정", "중립": "⚪ 중�
 
 
 def build_email_subject(articles: list) -> str:
+    if not articles:
+        raise ValueError("articles 목록이 비어있습니다.")
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     first_keyword = articles[0]["keyword"]
     count = len(articles)
@@ -46,6 +51,10 @@ def send_email(articles: list) -> None:
     msg["Subject"] = subject
     msg.attach(MIMEText(body, "plain", "utf-8"))
 
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
-        server.sendmail(GMAIL_ADDRESS, RECIPIENTS, msg.as_string())
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
+            server.sendmail(GMAIL_ADDRESS, RECIPIENTS, msg.as_string())
+    except smtplib.SMTPException as e:
+        logger.error("이메일 발송 실패: %s", e)
+        raise
