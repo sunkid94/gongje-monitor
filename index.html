@@ -31,11 +31,11 @@
     <p id="last-updated">로딩 중...</p>
   </header>
   <div class="filters" id="filters">
-    <button class="filter-btn active" data-keyword="전체" onclick="setFilter('전체')">전체</button>
-    <button class="filter-btn" data-keyword="기계설비건설공제조합" onclick="setFilter('기계설비건설공제조합')">기계설비</button>
-    <button class="filter-btn" data-keyword="엔지니어링공제조합" onclick="setFilter('엔지니어링공제조합')">엔지니어링</button>
-    <button class="filter-btn" data-keyword="건설공제조합" onclick="setFilter('건설공제조합')">건설</button>
-    <button class="filter-btn" data-keyword="전문건설공제조합" onclick="setFilter('전문건설공제조합')">전문건설</button>
+    <button class="filter-btn active" data-keyword="전체">전체</button>
+    <button class="filter-btn" data-keyword="기계설비건설공제조합">기계설비</button>
+    <button class="filter-btn" data-keyword="엔지니어링공제조합">엔지니어링</button>
+    <button class="filter-btn" data-keyword="건설공제조합">건설</button>
+    <button class="filter-btn" data-keyword="전문건설공제조합">전문건설</button>
   </div>
   <div class="container">
     <div id="article-count" class="count"></div>
@@ -45,9 +45,25 @@
     let allArticles = [];
     let currentFilter = '전체';
 
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function safeHref(url) {
+      try {
+        const u = new URL(url);
+        return (u.protocol === 'http:' || u.protocol === 'https:') ? url : '#';
+      } catch { return '#'; }
+    }
+
     function formatDate(iso) {
       if (!iso) return '';
       const d = new Date(iso);
+      if (isNaN(d.getTime())) return '';
       return d.toLocaleDateString('ko-KR') + ' ' + d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
     }
 
@@ -77,13 +93,13 @@
       container.innerHTML = filtered.map(a => `
         <div class="article">
           <div class="article-meta">
-            <span class="keyword-badge">${a.keyword}</span>
+            <span class="keyword-badge">${escapeHtml(a.keyword)}</span>
             ${formatDate(a.collected_at)}
           </div>
           <div class="article-title">
-            <a href="${a.link}" target="_blank" rel="noopener">${a.title}</a>
+            <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
           </div>
-          <div class="article-desc">${a.description || ''}</div>
+          <div class="article-desc">${escapeHtml(a.description || '')}</div>
         </div>
       `).join('');
     }
@@ -91,6 +107,7 @@
     fetch('articles.json?t=' + Date.now())
       .then(r => r.json())
       .then(data => {
+        if (!Array.isArray(data)) throw new Error('Invalid data format');
         allArticles = data;
         const lastUpdated = data.length > 0 ? data[0].collected_at : null;
         document.getElementById('last-updated').textContent =
@@ -101,6 +118,11 @@
         document.getElementById('articles').innerHTML = '<div class="empty">articles.json을 불러올 수 없습니다.</div>';
         document.getElementById('last-updated').textContent = '로딩 실패';
       });
+
+    document.getElementById('filters').addEventListener('click', e => {
+      const btn = e.target.closest('.filter-btn');
+      if (btn) setFilter(btn.dataset.keyword);
+    });
   </script>
 </body>
 </html>
