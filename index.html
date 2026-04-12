@@ -97,7 +97,7 @@
             ${formatDate(a.collected_at)}
           </div>
           <div class="article-title">
-            <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
+            <a href="${escapeHtml(safeHref(a.link))}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
           </div>
           <div class="article-desc">${escapeHtml(a.description || '')}</div>
         </div>
