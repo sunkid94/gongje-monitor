@@ -13,14 +13,19 @@
     .filters { padding: 16px 32px; background: white; border-bottom: 1px solid #e0e0e0; display: flex; gap: 8px; flex-wrap: wrap; }
     .filter-btn { padding: 6px 14px; border: 1px solid #ccc; border-radius: 20px; background: white; cursor: pointer; font-size: 0.85rem; }
     .filter-btn.active { background: #1a1a2e; color: white; border-color: #1a1a2e; }
+    .filter-btn.industry { border-color: #2e7d32; color: #2e7d32; }
+    .filter-btn.industry.active { background: #2e7d32; color: white; border-color: #2e7d32; }
     .container { max-width: 860px; margin: 24px auto; padding: 0 16px; }
     .article { background: white; border-radius: 8px; padding: 16px 20px; margin-bottom: 12px; border-left: 4px solid #1a1a2e; }
+    .article.industry { border-left-color: #2e7d32; }
     .article-meta { font-size: 0.78rem; color: #888; margin-bottom: 6px; }
     .keyword-badge { background: #e8eaf6; color: #3949ab; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; margin-right: 8px; }
+    .keyword-badge.industry { background: #e8f5e9; color: #2e7d32; }
     .article-title { font-size: 1rem; font-weight: 600; margin-bottom: 6px; }
     .article-title a { color: #1a1a2e; text-decoration: none; }
     .article-title a:hover { text-decoration: underline; }
-    .article-desc { font-size: 0.875rem; color: #555; line-height: 1.5; }
+    .article-summary { font-size: 0.875rem; color: #555; line-height: 1.5; }
+    .summary-label { font-size: 0.75rem; color: #888; font-weight: 600; margin-bottom: 2px; }
     .empty { text-align: center; padding: 60px; color: #999; }
     .count { font-size: 0.85rem; color: #666; margin-bottom: 16px; }
   </style>
@@ -31,17 +36,24 @@
     <p id="last-updated">로딩 중...</p>
   </header>
   <div class="filters" id="filters">
-    <button class="filter-btn active" data-keyword="전체">전체</button>
-    <button class="filter-btn" data-keyword="기계설비건설공제조합">기계설비</button>
-    <button class="filter-btn" data-keyword="엔지니어링공제조합">엔지니어링</button>
-    <button class="filter-btn" data-keyword="건설공제조합">건설</button>
-    <button class="filter-btn" data-keyword="전문건설공제조합">전문건설</button>
+    <button class="filter-btn active" data-filter="전체" onclick="setFilter('전체')">전체</button>
+    <button class="filter-btn" data-filter="기계설비건설공제조합" onclick="setFilter('기계설비건설공제조합')">기계설비</button>
+    <button class="filter-btn" data-filter="엔지니어링공제조합" onclick="setFilter('엔지니어링공제조합')">엔지니어링</button>
+    <button class="filter-btn" data-filter="건설공제조합" onclick="setFilter('건설공제조합')">건설</button>
+    <button class="filter-btn" data-filter="전문건설공제조합" onclick="setFilter('전문건설공제조합')">전문건설</button>
+    <button class="filter-btn industry" data-filter="건설산업" onclick="setFilter('건설산업')">건설산업</button>
   </div>
   <div class="container">
     <div id="article-count" class="count"></div>
     <div id="articles"></div>
   </div>
   <script>
+    const INDUSTRY_KEYWORDS = [
+      "건설산업기본법", "국토교통부 건설", "건설업 규제",
+      "건설경기", "건설 PF", "건설수주",
+      "중대재해 건설", "건설현장 안전", "건설 노동"
+    ];
+
     let allArticles = [];
     let currentFilter = '전체';
 
@@ -67,10 +79,14 @@
       return d.toLocaleDateString('ko-KR') + ' ' + d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
     }
 
+    function isIndustry(keyword) {
+      return INDUSTRY_KEYWORDS.includes(keyword);
+    }
+
     function setFilter(keyword) {
       currentFilter = keyword;
       document.querySelectorAll('.filter-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.keyword === keyword);
+        btn.classList.toggle('active', btn.dataset.filter === keyword);
       });
       render();
     }
@@ -78,6 +94,8 @@
     function render() {
       const filtered = currentFilter === '전체'
         ? allArticles
+        : currentFilter === '건설산업'
+        ? allArticles.filter(a => INDUSTRY_KEYWORDS.includes(a.keyword))
         : allArticles.filter(a => a.keyword === currentFilter);
 
       const container = document.getElementById('articles');
@@ -90,24 +108,31 @@
         return;
       }
 
-      container.innerHTML = filtered.map(a => `
-        <div class="article">
-          <div class="article-meta">
-            <span class="keyword-badge">${escapeHtml(a.keyword)}</span>
-            ${formatDate(a.collected_at)}
+      container.innerHTML = filtered.map(a => {
+        const industry = isIndustry(a.keyword);
+        const badgeClass = industry ? 'keyword-badge industry' : 'keyword-badge';
+        const cardClass = industry ? 'article industry' : 'article';
+        const displayText = escapeHtml(a.summary || a.description || '');
+        const summaryLabel = a.summary ? 'AI 요약' : '내용';
+        return `
+          <div class="${cardClass}">
+            <div class="article-meta">
+              <span class="${badgeClass}">${escapeHtml(a.keyword)}</span>
+              ${escapeHtml(formatDate(a.collected_at))}
+            </div>
+            <div class="article-title">
+              <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
+            </div>
+            <div class="summary-label">${summaryLabel}</div>
+            <div class="article-summary">${displayText}</div>
           </div>
-          <div class="article-title">
-            <a href="${escapeHtml(safeHref(a.link))}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
-          </div>
-          <div class="article-desc">${escapeHtml(a.description || '')}</div>
-        </div>
-      `).join('');
+        `;
+      }).join('');
     }
 
     fetch('articles.json?t=' + Date.now())
       .then(r => r.json())
       .then(data => {
-        if (!Array.isArray(data)) throw new Error('Invalid data format');
         allArticles = data;
         const lastUpdated = data.length > 0 ? data[0].collected_at : null;
         document.getElementById('last-updated').textContent =
@@ -118,11 +143,6 @@
         document.getElementById('articles').innerHTML = '<div class="empty">articles.json을 불러올 수 없습니다.</div>';
         document.getElementById('last-updated').textContent = '로딩 실패';
       });
-
-    document.getElementById('filters').addEventListener('click', e => {
-      const btn = e.target.closest('.filter-btn');
-      if (btn) setFilter(btn.dataset.keyword);
-    });
   </script>
 </body>
 </html>
