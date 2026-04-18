@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 import feedparser
 
-from config import KEYWORDS
+from config import INDUSTRY_KEYWORDS, KEYWORDS
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={}&hl=ko&gl=KR&ceid=KR:ko"
 
@@ -26,7 +26,7 @@ def fetch_new_articles(seen: set) -> list:
     cutoff = datetime.now() - timedelta(hours=24)
     articles = []
     collected_links = set(seen)
-    for keyword in KEYWORDS:
+    for keyword in KEYWORDS + INDUSTRY_KEYWORDS:
         for item in fetch_news_rss(keyword):
             if item["link"] in collected_links:
                 continue

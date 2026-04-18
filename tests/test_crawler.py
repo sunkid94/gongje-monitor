@@ -7,7 +7,7 @@ MOCK_FEED_ENTRY.get = lambda key, default="": {
     "title": "기계설비건설공제조합 신규 공시",
     "link": "http://news.google.com/articles/1",
     "summary": "기계설비건설공제조합이 신규 사업 계획을 발표했다.",
-    "published_parsed": time.strptime("2026-04-12 10:00:00", "%Y-%m-%d %H:%M:%S"),
+    "published_parsed": time.strptime("2026-04-18 10:00:00", "%Y-%m-%d %H:%M:%S"),
 }.get(key, default)
 
 
