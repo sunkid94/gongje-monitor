@@ -23,16 +23,16 @@ def build_email_subject(articles: list) -> str:
 def build_email_body(articles: list) -> str:
     lines = []
     for a in articles:
-        desc = a.get("description", "")
-        if len(desc) > 200:
-            desc = desc[:200] + "..."
+        body_text = a.get("summary") or a.get("description", "")
+        if not a.get("summary") and len(body_text) > 200:
+            body_text = body_text[:200] + "..."
         lines += [
             "━" * 40,
             f"[{a['keyword']}]",
             "━" * 40,
             f"제목: {a['title']}",
             f"링크: {a['link']}",
-            f"내용: {desc}",
+            f"요약: {body_text}",
             "",
         ]
     return "\n".join(lines)

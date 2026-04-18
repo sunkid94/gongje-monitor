@@ -84,3 +84,46 @@ def test_send_email_calls_smtp():
         mailer.send_email(SAMPLE_ARTICLES)
 
     mock_smtp.assert_called_once_with("smtp.gmail.com", 465)
+
+
+def test_build_email_body_uses_summary_when_available():
+    articles_with_summary = [
+        {
+            "keyword": "건설공제조합",
+            "title": "건설공제조합 소식",
+            "link": "http://news.google.com/articles/3",
+            "description": "원문 내용입니다.",
+            "summary": "AI가 요약한 내용입니다.",
+        }
+    ]
+    with patch("mailer.GMAIL_ADDRESS", "test@gmail.com"), \
+         patch("mailer.GMAIL_APP_PASSWORD", "pw"), \
+         patch("mailer.RECIPIENTS", ["exec@company.com"]):
+        import mailer
+        import importlib
+        importlib.reload(mailer)
+        body = mailer.build_email_body(articles_with_summary)
+
+    assert "AI가 요약한 내용입니다." in body
+    assert "원문 내용입니다." not in body
+
+
+def test_build_email_body_falls_back_to_description_when_no_summary():
+    articles_no_summary = [
+        {
+            "keyword": "건설경기",
+            "title": "건설경기 동향",
+            "link": "http://news.google.com/articles/4",
+            "description": "원문 내용 fallback입니다.",
+            "summary": None,
+        }
+    ]
+    with patch("mailer.GMAIL_ADDRESS", "test@gmail.com"), \
+         patch("mailer.GMAIL_APP_PASSWORD", "pw"), \
+         patch("mailer.RECIPIENTS", ["exec@company.com"]):
+        import mailer
+        import importlib
+        importlib.reload(mailer)
+        body = mailer.build_email_body(articles_no_summary)
+
+    assert "원문 내용 fallback입니다." in body
