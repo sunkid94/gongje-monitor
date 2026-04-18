@@ -1,5 +1,6 @@
 import calendar
 from datetime import datetime, timedelta
+from urllib.parse import quote
 
 import feedparser
 
@@ -9,7 +10,7 @@ GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={}&hl=ko&gl=KR&ceid=KR:k
 
 
 def fetch_news_rss(keyword: str) -> list:
-    feed = feedparser.parse(GOOGLE_NEWS_RSS.format(keyword))
+    feed = feedparser.parse(GOOGLE_NEWS_RSS.format(quote(keyword)))
     articles = []
     for entry in feed.entries:
         articles.append({
