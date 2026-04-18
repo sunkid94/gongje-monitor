@@ -38,6 +38,6 @@ def summarize_article(title: str, description: str) -> Optional[str]:
 def summarize_articles(articles: list) -> list:
     result = []
     for article in articles:
-        summary = summarize_article(article["title"], article.get("description", ""))
+        summary = summarize_article(article.get("title", ""), article.get("description", ""))
         result.append({**article, "summary": summary})
     return result
