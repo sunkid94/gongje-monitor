@@ -1,6 +1,9 @@
+from datetime import datetime
 from unittest.mock import patch, MagicMock
 import time
 
+
+FIXED_NOW = datetime(2026, 4, 18, 12, 0, 0)
 
 MOCK_FEED_ENTRY = MagicMock()
 MOCK_FEED_ENTRY.get = lambda key, default="": {
@@ -15,6 +18,13 @@ def _mock_feed(entries):
     feed = MagicMock()
     feed.entries = entries
     return feed
+
+
+def _make_datetime_mock():
+    mock_dt = MagicMock(spec=datetime)
+    mock_dt.now.return_value = FIXED_NOW
+    mock_dt.fromtimestamp.side_effect = datetime.fromtimestamp
+    return mock_dt
 
 
 def test_fetch_news_rss_returns_articles():
@@ -32,22 +42,32 @@ def test_fetch_news_rss_returns_articles():
 
 
 def test_fetch_new_articles_excludes_seen_urls():
+    import crawler
+    import importlib
+
+    mock_dt = _make_datetime_mock()
+
     with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
-         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
-        import crawler
-        import importlib
+         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("crawler.INDUSTRY_KEYWORDS", []):
         importlib.reload(crawler)
+        crawler.datetime = mock_dt
         result = crawler.fetch_new_articles({"http://news.google.com/articles/1"})
 
     assert result == []
 
 
 def test_fetch_new_articles_includes_unseen_urls():
+    import crawler
+    import importlib
+
+    mock_dt = _make_datetime_mock()
+
     with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
-         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
-        import crawler
-        import importlib
+         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("crawler.INDUSTRY_KEYWORDS", []):
         importlib.reload(crawler)
+        crawler.datetime = mock_dt
         result = crawler.fetch_new_articles(set())
 
     assert len(result) == 1
@@ -55,6 +75,11 @@ def test_fetch_new_articles_includes_unseen_urls():
 
 
 def test_fetch_new_articles_excludes_old_articles():
+    import crawler
+    import importlib
+
+    mock_dt = _make_datetime_mock()
+
     old_entry = MagicMock()
     old_entry.get = lambda key, default="": {
         "title": "오래된 기사",
@@ -64,10 +89,10 @@ def test_fetch_new_articles_excludes_old_articles():
     }.get(key, default)
 
     with patch("crawler.feedparser.parse", return_value=_mock_feed([old_entry])), \
-         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
-        import crawler
-        import importlib
+         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("crawler.INDUSTRY_KEYWORDS", []):
         importlib.reload(crawler)
+        crawler.datetime = mock_dt
         result = crawler.fetch_new_articles(set())
 
     assert result == []
