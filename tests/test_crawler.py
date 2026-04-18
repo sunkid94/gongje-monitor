@@ -46,11 +46,11 @@ def test_fetch_new_articles_excludes_seen_urls():
     import importlib
 
     mock_dt = _make_datetime_mock()
+    importlib.reload(crawler)
 
     with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
          patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
          patch("crawler.INDUSTRY_KEYWORDS", []):
-        importlib.reload(crawler)
         crawler.datetime = mock_dt
         result = crawler.fetch_new_articles({"http://news.google.com/articles/1"})
 
@@ -62,11 +62,11 @@ def test_fetch_new_articles_includes_unseen_urls():
     import importlib
 
     mock_dt = _make_datetime_mock()
+    importlib.reload(crawler)
 
     with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
          patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
          patch("crawler.INDUSTRY_KEYWORDS", []):
-        importlib.reload(crawler)
         crawler.datetime = mock_dt
         result = crawler.fetch_new_articles(set())
 
@@ -88,10 +88,11 @@ def test_fetch_new_articles_excludes_old_articles():
         "published_parsed": time.strptime("2024-01-01 10:00:00", "%Y-%m-%d %H:%M:%S"),
     }.get(key, default)
 
+    importlib.reload(crawler)
+
     with patch("crawler.feedparser.parse", return_value=_mock_feed([old_entry])), \
          patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
          patch("crawler.INDUSTRY_KEYWORDS", []):
-        importlib.reload(crawler)
         crawler.datetime = mock_dt
         result = crawler.fetch_new_articles(set())
 
