@@ -140,3 +140,46 @@ def test_enrich_article_normalizes_invalid_sentiment():
         result = enrich_article("제목", "내용")
 
     assert result["sentiment"] == "neutral"
+
+
+from datetime import datetime, timedelta
+
+
+def test_calc_importance_minimum_is_zero():
+    from enrich import calc_importance
+    art = {"is_company": False, "sentiment": "neutral", "collected_at": "2020-01-01T00:00:00"}
+    assert calc_importance(art, cluster_size=1, now=datetime(2026, 4, 23)) == 1  # cluster_size 1 → +1
+
+
+def test_calc_importance_company_plus_negative_plus_recent():
+    from enrich import calc_importance
+    now = datetime(2026, 4, 23, 12, 0, 0)
+    recent = (now - timedelta(hours=2)).strftime("%Y-%m-%dT%H:%M:%S")
+    art = {"is_company": True, "sentiment": "negative", "collected_at": recent}
+    # 5 (company) + 3 (neg) + 1 (cluster_size 1) + 2 (recent) = 11 → round(11*10/15)=7
+    assert calc_importance(art, cluster_size=1, now=now) == 7
+
+
+def test_calc_importance_caps_cluster_size_at_5():
+    from enrich import calc_importance
+    now = datetime(2026, 4, 23)
+    art = {"is_company": False, "sentiment": "neutral", "collected_at": "2020-01-01T00:00:00"}
+    # cluster_size 10 → 5 (capped) / 15 * 10 = 3.33 → round = 3
+    assert calc_importance(art, cluster_size=10, now=now) == 3
+
+
+def test_calc_importance_max_is_10():
+    from enrich import calc_importance
+    now = datetime(2026, 4, 23, 12, 0, 0)
+    recent = (now - timedelta(hours=1)).strftime("%Y-%m-%dT%H:%M:%S")
+    art = {"is_company": True, "sentiment": "negative", "collected_at": recent}
+    # 5 + 3 + 5 (cluster cap) + 2 = 15 → 10
+    assert calc_importance(art, cluster_size=20, now=now) == 10
+
+
+def test_calc_importance_handles_missing_collected_at():
+    from enrich import calc_importance
+    now = datetime(2026, 4, 23)
+    art = {"is_company": False, "sentiment": "positive"}  # no collected_at
+    # 0 + 0 + 1 + 0 = 1 → round(1*10/15) = 1
+    assert calc_importance(art, cluster_size=1, now=now) == 1

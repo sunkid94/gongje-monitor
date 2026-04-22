@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import re
+from datetime import datetime, timedelta
 from typing import Optional
 
 import anthropic
@@ -60,6 +61,29 @@ def enrich_article(title: str, description: str) -> dict:
     except Exception as e:
         logger.warning("enrich_article 폴백 (title=%s): %s", title[:30], e)
         return fallback
+
+
+def calc_importance(article: dict, cluster_size: int, now: Optional[datetime] = None) -> int:
+    if now is None:
+        now = datetime.now()
+
+    score = 0
+    if article.get("is_company"):
+        score += 5
+    if article.get("sentiment") == "negative":
+        score += 3
+    score += min(cluster_size, 5)
+
+    collected_at_str = article.get("collected_at")
+    if collected_at_str:
+        try:
+            collected = datetime.strptime(collected_at_str, "%Y-%m-%dT%H:%M:%S")
+            if (now - collected) < timedelta(hours=24):
+                score += 2
+        except ValueError:
+            pass
+
+    return min(round(score * 10 / 15), 10)
 
 
 def extract_publisher(title: str) -> str:
