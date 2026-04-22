@@ -102,6 +102,7 @@ def enrich_articles(articles: list) -> list:
 
     enriched = []
     now = datetime.now()
+    now_str = now.strftime("%Y-%m-%dT%H:%M:%S")
     for a in clustered:
         title = a["title"]
         publisher = extract_publisher(title)
@@ -113,6 +114,9 @@ def enrich_articles(articles: list) -> list:
             "title_clean": title_clean,
             "summary": ai["summary"],
             "sentiment": ai["sentiment"],
+            # collected_at 가짜 세팅 — calc_importance 의 24h 가산점 활성화용.
+            # article_store.add_articles 가 나중에 진짜 시각으로 덮어쓰지만 importance 는 유지.
+            "collected_at": a.get("collected_at") or now_str,
         }
         out["importance"] = calc_importance(out, cluster_sizes[a["cluster_id"]], now=now)
         enriched.append(out)

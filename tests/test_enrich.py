@@ -247,3 +247,17 @@ def test_enrich_articles_preserves_original_fields():
         result = enrich_articles(articles)
 
     assert result[0]["extra"] == "keep me"
+
+
+def test_enrich_articles_applies_recent_importance_boost():
+    """방금 수집된 기사는 24h 가산점(+2)을 받아 importance 가 올라가야 한다."""
+    articles = [{
+        "keyword": "현대건설", "category": "종합건설사", "is_company": False,
+        "title": "현대건설 사우디 수주 확대", "link": "l1", "description": "d",
+    }]
+    with patch("enrich.enrich_article", return_value={"summary": "s", "sentiment": "negative"}):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+
+    # neg(+3) + cluster=1(+1) + recent(+2) = 6 → round(6*10/15) = 4
+    assert result[0]["importance"] == 4
