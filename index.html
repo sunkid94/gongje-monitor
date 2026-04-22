@@ -3,50 +3,239 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>공제조합 이슈 모니터</title>
+  <title>기계설비건설공제조합 이슈 모니터</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
   <style>
+    :root {
+      --navy: #1a3a6b;
+      --navy-deep: #0f2647;
+      --navy-soft: #3a5a8c;
+      --sky: #b8d4e8;
+      --sky-light: #e6f0f9;
+      --mint: #a8e0d0;
+      --accent-red: #d94936;
+      --ink: #1f2328;
+      --ink-sub: #5a6270;
+      --line: #e3e8ef;
+      --surface: #f6f8fb;
+    }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f5; color: #333; }
-    header { background: #1a1a2e; color: white; padding: 24px 32px; }
-    header h1 { font-size: 1.5rem; font-weight: 700; }
-    header p { font-size: 0.85rem; opacity: 0.7; margin-top: 4px; }
-    .filters { padding: 16px 32px; background: white; border-bottom: 1px solid #e0e0e0; display: flex; gap: 8px; flex-wrap: wrap; }
-    .filter-btn { padding: 6px 14px; border: 1px solid #ccc; border-radius: 20px; background: white; cursor: pointer; font-size: 0.85rem; }
-    .filter-btn.active { background: #1a1a2e; color: white; border-color: #1a1a2e; }
-    .filter-btn.industry { border-color: #2e7d32; color: #2e7d32; }
-    .filter-btn.industry.active { background: #2e7d32; color: white; border-color: #2e7d32; }
-    .container { max-width: 860px; margin: 24px auto; padding: 0 16px; }
-    .article { background: white; border-radius: 8px; padding: 16px 20px; margin-bottom: 12px; border-left: 4px solid #1a1a2e; }
-    .article.industry { border-left-color: #2e7d32; }
-    .article-meta { font-size: 0.78rem; color: #888; margin-bottom: 6px; }
-    .keyword-badge { background: #e8eaf6; color: #3949ab; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; margin-right: 8px; }
-    .keyword-badge.industry { background: #e8f5e9; color: #2e7d32; }
-    .article-title { font-size: 1rem; font-weight: 600; margin-bottom: 6px; }
-    .article-title a { color: #1a1a2e; text-decoration: none; }
-    .article-title a:hover { text-decoration: underline; }
-    .article-summary { font-size: 0.875rem; color: #555; line-height: 1.5; }
-    .summary-label { font-size: 0.75rem; color: #888; font-weight: 600; margin-bottom: 2px; }
-    .empty { text-align: center; padding: 60px; color: #999; }
-    .count { font-size: 0.85rem; color: #666; margin-bottom: 16px; }
+    html, body { font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    body { background: var(--surface); color: var(--ink); -webkit-font-smoothing: antialiased; }
+
+    /* ===== Hero ===== */
+    .hero {
+      position: relative;
+      background: linear-gradient(135deg, var(--navy-deep) 0%, var(--navy) 55%, var(--navy-soft) 100%);
+      color: white;
+      padding: 28px 32px 120px;
+      overflow: hidden;
+    }
+    .hero-inner { position: relative; z-index: 2; max-width: 1080px; margin: 0 auto; }
+    .brand-en {
+      font-size: 0.7rem; letter-spacing: 0.18em; font-weight: 600;
+      color: rgba(255,255,255,0.7); margin-bottom: 4px;
+    }
+    .brand-row {
+      display: flex; align-items: center; gap: 10px; margin-bottom: 40px;
+    }
+    .logo-mark {
+      width: 22px; height: 22px; border-radius: 50%;
+      background: var(--accent-red);
+      display: inline-flex; align-items: center; justify-content: center;
+      font-size: 0.7rem; color: white; font-weight: 800;
+    }
+    .logo-text {
+      font-size: 0.88rem; font-weight: 700; letter-spacing: 0.02em;
+    }
+    .logo-text .sep { opacity: 0.4; margin: 0 8px; }
+    .slogan {
+      display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+      font-size: 0.95rem; font-weight: 500;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 12px;
+    }
+    .slogan .dash { width: 24px; height: 1px; background: rgba(255,255,255,0.5); }
+    .hero-title {
+      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      font-weight: 800; letter-spacing: -0.02em;
+      margin-bottom: 10px;
+    }
+    .hero-sub {
+      font-size: 0.88rem; color: rgba(255,255,255,0.7);
+    }
+
+    /* ===== Skyline SVG ===== */
+    .skyline {
+      position: absolute; left: 0; right: 0; bottom: -1px;
+      width: 100%; height: 110px;
+      z-index: 1; opacity: 0.55;
+      pointer-events: none;
+    }
+
+    /* ===== Filters ===== */
+    .filters-wrap {
+      background: white; border-bottom: 1px solid var(--line);
+      position: sticky; top: 0; z-index: 10;
+      box-shadow: 0 1px 0 rgba(0,0,0,0.02);
+    }
+    .filters {
+      max-width: 1080px; margin: 0 auto;
+      padding: 14px 32px;
+      display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+    }
+    .filter-label {
+      font-size: 0.78rem; color: var(--ink-sub); font-weight: 600;
+      margin-right: 6px;
+    }
+    .filter-btn {
+      padding: 7px 14px; border: 1px solid var(--line);
+      border-radius: 999px; background: white;
+      cursor: pointer; font-size: 0.82rem; font-weight: 500;
+      color: var(--ink-sub);
+      font-family: inherit;
+      transition: all 0.15s ease;
+    }
+    .filter-btn:hover { border-color: var(--navy); color: var(--navy); }
+    .filter-btn.active {
+      background: var(--navy); color: white; border-color: var(--navy);
+    }
+    .filter-btn.industry { color: #2c6f5a; border-color: #c9e4d8; }
+    .filter-btn.industry:hover { border-color: #2c6f5a; }
+    .filter-btn.industry.active {
+      background: #2c6f5a; color: white; border-color: #2c6f5a;
+    }
+
+    /* ===== Articles ===== */
+    .container { max-width: 1080px; margin: 28px auto 60px; padding: 0 32px; }
+    .count {
+      font-size: 0.82rem; color: var(--ink-sub);
+      margin-bottom: 18px; font-weight: 500;
+    }
+    .count strong { color: var(--navy); font-weight: 700; }
+
+    .article {
+      background: white;
+      border-radius: 10px;
+      padding: 20px 22px;
+      margin-bottom: 12px;
+      border-top: 3px solid var(--navy);
+      border-left: 1px solid var(--line);
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      transition: box-shadow 0.15s ease, transform 0.15s ease;
+    }
+    .article:hover {
+      box-shadow: 0 4px 16px rgba(26,58,107,0.08);
+      transform: translateY(-1px);
+    }
+    .article.industry { border-top-color: #2c6f5a; }
+
+    .article-meta {
+      display: flex; align-items: center; gap: 10px;
+      font-size: 0.75rem; color: var(--ink-sub);
+      margin-bottom: 10px; flex-wrap: wrap;
+    }
+    .keyword-badge {
+      background: var(--sky-light); color: var(--navy);
+      padding: 3px 10px; border-radius: 4px;
+      font-size: 0.72rem; font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+    .keyword-badge.industry { background: #e4f1ec; color: #2c6f5a; }
+
+    .article-title { font-size: 1.02rem; font-weight: 700; margin-bottom: 8px; line-height: 1.45; }
+    .article-title a { color: var(--ink); text-decoration: none; }
+    .article-title a:hover { color: var(--navy); text-decoration: underline; text-underline-offset: 3px; }
+
+    .summary-label {
+      display: inline-block;
+      font-size: 0.68rem; color: var(--navy);
+      font-weight: 700; letter-spacing: 0.05em;
+      background: var(--sky-light);
+      padding: 2px 7px; border-radius: 3px;
+      margin-bottom: 6px;
+    }
+    .article-summary {
+      font-size: 0.88rem; color: #3a414b; line-height: 1.65;
+    }
+
+    .empty {
+      text-align: center; padding: 80px 20px;
+      color: var(--ink-sub);
+      background: white; border-radius: 10px;
+      border: 1px solid var(--line);
+    }
+
+    /* ===== Footer ===== */
+    footer {
+      text-align: center; padding: 30px 20px 40px;
+      color: var(--ink-sub); font-size: 0.78rem;
+      border-top: 1px solid var(--line);
+      background: white;
+    }
+
+    @media (max-width: 640px) {
+      .hero { padding: 22px 20px 90px; }
+      .brand-row { margin-bottom: 28px; }
+      .slogan { font-size: 0.82rem; gap: 8px; }
+      .slogan .dash { width: 14px; }
+      .filters { padding: 12px 20px; }
+      .container { padding: 0 20px; margin: 20px auto 40px; }
+      .article { padding: 16px 18px; }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <h1>🔔 공제조합 이슈 모니터</h1>
-    <p id="last-updated">로딩 중...</p>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="brand-en">CONSTRUCTION INDUSTRY GUARANTEE</div>
+      <div class="brand-row">
+        <span class="logo-mark">CI</span>
+        <span class="logo-text">CI GUARANTEE <span class="sep">·</span> 기계설비건설공제조합</span>
+      </div>
+      <div class="slogan">
+        <span>건설금융의</span><span class="dash"></span>
+        <span>더 좋은 파트너</span><span class="dash"></span>
+        <span>더 나은 내일을</span><span class="dash"></span>
+        <span>약속드립니다</span>
+      </div>
+      <h1 class="hero-title">이슈 모니터</h1>
+      <p class="hero-sub" id="last-updated">로딩 중...</p>
+    </div>
+    <svg class="skyline" viewBox="0 0 1200 110" preserveAspectRatio="none" aria-hidden="true">
+      <g fill="none" stroke="rgba(255,255,255,0.85)" stroke-width="1.2" stroke-linejoin="round">
+        <path d="M0 110 V80 H40 V60 H70 V90 H100 V55 L115 45 L130 55 V90 H160 V30 H200 V90 H230 V65 H260 V90 H290 V45 H320 V70 H350 V50 H370 V90 H410 V25 H440 V90 H470 V60 H500 V35 H530 V60 H560 V90 H600 V50 H630 V20 H660 V50 H690 V90 H720 V40 H760 V90 H790 V55 H820 V30 H850 V80 H880 V65 H910 V90 H940 V45 H970 V70 H1000 V50 H1030 V90 H1060 V60 H1090 V80 H1120 V55 H1150 V90 H1200 V110 Z"/>
+        <line x1="210" y1="40" x2="210" y2="75"/>
+        <line x1="420" y1="35" x2="420" y2="75"/>
+        <line x1="640" y1="30" x2="640" y2="70"/>
+        <line x1="740" y1="55" x2="740" y2="85"/>
+        <line x1="980" y1="60" x2="980" y2="85"/>
+      </g>
+    </svg>
   </header>
-  <div class="filters" id="filters">
-    <button class="filter-btn active" data-filter="전체" onclick="setFilter('전체')">전체</button>
-    <button class="filter-btn" data-filter="기계설비건설공제조합" onclick="setFilter('기계설비건설공제조합')">기계설비</button>
-    <button class="filter-btn" data-filter="엔지니어링공제조합" onclick="setFilter('엔지니어링공제조합')">엔지니어링</button>
-    <button class="filter-btn" data-filter="건설공제조합" onclick="setFilter('건설공제조합')">건설</button>
-    <button class="filter-btn" data-filter="전문건설공제조합" onclick="setFilter('전문건설공제조합')">전문건설</button>
-    <button class="filter-btn industry" data-filter="건설산업" onclick="setFilter('건설산업')">건설산업</button>
+
+  <div class="filters-wrap">
+    <div class="filters" id="filters">
+      <span class="filter-label">필터</span>
+      <button class="filter-btn active" data-filter="전체" onclick="setFilter('전체')">전체</button>
+      <button class="filter-btn" data-filter="기계설비건설공제조합" onclick="setFilter('기계설비건설공제조합')">기계설비</button>
+      <button class="filter-btn" data-filter="엔지니어링공제조합" onclick="setFilter('엔지니어링공제조합')">엔지니어링</button>
+      <button class="filter-btn" data-filter="건설공제조합" onclick="setFilter('건설공제조합')">건설</button>
+      <button class="filter-btn" data-filter="전문건설공제조합" onclick="setFilter('전문건설공제조합')">전문건설</button>
+      <button class="filter-btn industry" data-filter="건설산업" onclick="setFilter('건설산업')">건설산업</button>
+    </div>
   </div>
+
   <div class="container">
     <div id="article-count" class="count"></div>
     <div id="articles"></div>
   </div>
+
+  <footer>
+    © 기계설비건설공제조합 이슈 모니터 · Google News 기반 자동 수집
+  </footer>
+
   <script>
     const INDUSTRY_KEYWORDS = [
       "건설산업기본법", "국토교통부 건설", "건설업 규제",
@@ -101,7 +290,7 @@
       const container = document.getElementById('articles');
       const countEl = document.getElementById('article-count');
 
-      countEl.textContent = `총 ${filtered.length}건`;
+      countEl.innerHTML = `총 <strong>${filtered.length}</strong>건`;
 
       if (filtered.length === 0) {
         container.innerHTML = '<div class="empty">수집된 기사가 없습니다.</div>';
@@ -118,7 +307,7 @@
           <div class="${cardClass}">
             <div class="article-meta">
               <span class="${badgeClass}">${escapeHtml(a.keyword)}</span>
-              ${escapeHtml(formatDate(a.collected_at))}
+              <span>${escapeHtml(formatDate(a.collected_at))}</span>
             </div>
             <div class="article-title">
               <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
@@ -136,7 +325,7 @@
         allArticles = data;
         const lastUpdated = data.length > 0 ? data[0].collected_at : null;
         document.getElementById('last-updated').textContent =
-          lastUpdated ? '마지막 업데이트: ' + formatDate(lastUpdated) : '아직 수집된 기사 없음';
+          lastUpdated ? '마지막 업데이트 ' + formatDate(lastUpdated) : '아직 수집된 기사 없음';
         render();
       })
       .catch(() => {
