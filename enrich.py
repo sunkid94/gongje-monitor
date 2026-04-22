@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import re
+from collections import Counter
 from datetime import datetime, timedelta
 from typing import Optional
 
@@ -84,6 +85,33 @@ def calc_importance(article: dict, cluster_size: int, now: Optional[datetime] = 
             pass
 
     return min(round(score * 10 / 15), 10)
+
+
+def enrich_articles(articles: list) -> list:
+    if not articles:
+        return []
+
+    clustered = cluster_articles(articles)
+    cluster_sizes = Counter(a["cluster_id"] for a in clustered)
+
+    enriched = []
+    now = datetime.now()
+    for a in clustered:
+        title = a["title"]
+        publisher = extract_publisher(title)
+        title_clean = _PUBLISHER_SUFFIX_RE.sub("", title)
+        ai = enrich_article(title_clean, a.get("description", ""))
+        out = {
+            **a,
+            "publisher": publisher,
+            "title_clean": title_clean,
+            "summary": ai["summary"],
+            "sentiment": ai["sentiment"],
+        }
+        out["importance"] = calc_importance(out, cluster_sizes[a["cluster_id"]], now=now)
+        enriched.append(out)
+
+    return enriched
 
 
 def extract_publisher(title: str) -> str:

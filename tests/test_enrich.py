@@ -183,3 +183,55 @@ def test_calc_importance_handles_missing_collected_at():
     art = {"is_company": False, "sentiment": "positive"}  # no collected_at
     # 0 + 0 + 1 + 0 = 1 → round(1*10/15) = 1
     assert calc_importance(art, cluster_size=1, now=now) == 1
+
+
+def test_enrich_articles_full_pipeline():
+    articles = [
+        {
+            "keyword": "기계설비건설공제조합",
+            "category": "조합",
+            "is_company": True,
+            "title": "기계설비건설공제조합 신규 사업 - 조선비즈",
+            "link": "http://x/1",
+            "description": "신규 사업 발표",
+        },
+        {
+            "keyword": "기계설비건설공제조합",
+            "category": "조합",
+            "is_company": True,
+            "title": "기계설비건설공제조합 신규 사업 - 매경",
+            "link": "http://x/2",
+            "description": "신규 사업 발표",
+        },
+    ]
+
+    with patch("enrich.enrich_article", return_value={"summary": "AI 요약", "sentiment": "positive"}):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+
+    # 같은 기사 묶임 (cluster_size=2)
+    assert result[0]["cluster_id"] == result[1]["cluster_id"]
+    # publisher 추출됨
+    assert result[0]["publisher"] == "조선비즈"
+    assert result[1]["publisher"] == "매경"
+    # title_clean 은 매체명 제거됨
+    assert result[0]["title_clean"] == "기계설비건설공제조합 신규 사업"
+    # summary, sentiment 들어감
+    assert result[0]["summary"] == "AI 요약"
+    assert result[0]["sentiment"] == "positive"
+    # importance 계산됨
+    assert isinstance(result[0]["importance"], int)
+    assert 0 <= result[0]["importance"] <= 10
+
+
+def test_enrich_articles_preserves_original_fields():
+    articles = [{
+        "keyword": "kw", "category": "조합", "is_company": False,
+        "title": "제목", "link": "l1", "description": "d",
+        "extra": "keep me",
+    }]
+    with patch("enrich.enrich_article", return_value={"summary": "s", "sentiment": "neutral"}):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+
+    assert result[0]["extra"] == "keep me"
