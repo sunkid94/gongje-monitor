@@ -28,3 +28,52 @@ def test_extract_publisher_returns_empty_when_no_suffix():
 
 def test_extract_publisher_trims_whitespace():
     assert extract_publisher("제목 -  머니투데이  ") == "머니투데이"
+
+
+from enrich import cluster_articles
+
+
+def _art(title, link):
+    return {"title": title, "link": link, "description": ""}
+
+
+def test_cluster_articles_assigns_cluster_id():
+    articles = [_art("제목A", "l1"), _art("제목B", "l2")]
+    result = cluster_articles(articles)
+    assert "cluster_id" in result[0]
+    assert result[0]["cluster_id"] != result[1]["cluster_id"]
+
+
+def test_cluster_articles_groups_exact_normalized_match():
+    articles = [
+        _art("태영건설 워크아웃 1주년 - 조선비즈", "l1"),
+        _art("태영건설 워크아웃 1주년 - 매경", "l2"),
+    ]
+    result = cluster_articles(articles)
+    assert result[0]["cluster_id"] == result[1]["cluster_id"]
+
+
+def test_cluster_articles_groups_jaccard_similar():
+    # 토큰 자카드 >= 0.85 → 같은 cluster
+    articles = [
+        _art("태영건설 워크아웃 1주년 재무 개선 미흡", "l1"),
+        _art("태영건설 워크아웃 1주년 재무개선 미흡", "l2"),  # 공백 1개 차이
+    ]
+    result = cluster_articles(articles)
+    assert result[0]["cluster_id"] == result[1]["cluster_id"]
+
+
+def test_cluster_articles_keeps_different_apart():
+    articles = [
+        _art("태영건설 워크아웃 1주년", "l1"),
+        _art("현대건설 사우디 수주", "l2"),
+    ]
+    result = cluster_articles(articles)
+    assert result[0]["cluster_id"] != result[1]["cluster_id"]
+
+
+def test_cluster_articles_cluster_id_is_4char_hex():
+    articles = [_art("제목", "l1")]
+    result = cluster_articles(articles)
+    assert len(result[0]["cluster_id"]) == 4
+    assert all(c in "0123456789abcdef" for c in result[0]["cluster_id"])
