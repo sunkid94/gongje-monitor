@@ -51,8 +51,14 @@
       backdrop-filter: blur(12px);
       border-bottom: 1px solid var(--border);
     }
-    nav .brand { font-size: 13px; font-weight: 800; color: var(--navy); letter-spacing: 1px; }
+    nav .brand-row { display: flex; align-items: center; gap: 10px; }
+    nav .brand-logo { height: 28px; width: auto; display: block; }
+    nav .brand-divider { color: var(--border); font-size: 14px; }
+    nav .brand-title { font-size: 13px; font-weight: 800; color: var(--navy); letter-spacing: 1px; }
     nav .last-updated { font-size: 11px; color: var(--muted); letter-spacing: 1px; }
+    @media (max-width: 480px) {
+      nav .brand-divider, nav .brand-title { display: none; }
+    }
 
     .hero {
       padding: 140px 24px 60px;
@@ -293,7 +299,11 @@
 <body>
 
   <nav>
-    <span class="brand">CI GUARANTEE · 이슈 모니터</span>
+    <div class="brand-row">
+      <img class="brand-logo" src="logo.png" alt="기계설비건설공제조합">
+      <span class="brand-divider">·</span>
+      <span class="brand-title">이슈 모니터</span>
+    </div>
     <span class="last-updated" id="last-updated">로딩 중...</span>
   </nav>
 
