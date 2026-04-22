@@ -127,3 +127,23 @@ def test_build_email_body_falls_back_to_description_when_no_summary():
         body = mailer.build_email_body(articles_no_summary)
 
     assert "원문 내용 fallback입니다." in body
+
+
+def test_build_email_body_shows_importance_and_sentiment():
+    articles = [{
+        "keyword": "kw", "title": "t", "title_clean": "t", "link": "l",
+        "description": "d", "summary": "s",
+        "category": "안전·사고", "sentiment": "negative", "importance": 8,
+        "publisher": "조선비즈",
+    }]
+    with patch("mailer.GMAIL_ADDRESS", "x"), patch("mailer.GMAIL_APP_PASSWORD", "x"), \
+         patch("mailer.RECIPIENTS", ["x"]):
+        import mailer
+        import importlib
+        importlib.reload(mailer)
+        body = mailer.build_email_body(articles)
+
+    assert "🔴" in body
+    assert "8/10" in body
+    assert "안전·사고" in body
+    assert "조선비즈" in body
