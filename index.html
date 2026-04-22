@@ -4,334 +4,635 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>기계설비건설공제조합 이슈 모니터</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/variable/pretendardvariable.min.css" rel="stylesheet">
   <style>
     :root {
-      --navy: #1a3a6b;
-      --navy-deep: #0f2647;
-      --navy-soft: #3a5a8c;
-      --sky: #b8d4e8;
-      --sky-light: #e6f0f9;
-      --mint: #a8e0d0;
-      --accent-red: #d94936;
-      --ink: #1f2328;
-      --ink-sub: #5a6270;
-      --line: #e3e8ef;
-      --surface: #f6f8fb;
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    body { background: var(--surface); color: var(--ink); -webkit-font-smoothing: antialiased; }
+      --navy: #1E3A6F;
+      --navy-dark: #142848;
+      --navy-deep: #0A1829;
+      --blue-accent: #4A7BC8;
+      --blue-soft: #7BA4D9;
+      --cyan-soft: #9BC5D9;
+      --bg: #F5F7FB;
+      --bg-soft: #EAF0F8;
+      --border: #E5EAF2;
+      --text: #1C2333;
+      --sub: #4A5568;
+      --muted: #8A97AE;
+      --white: #FFFFFF;
 
-    /* ===== Hero ===== */
+      --cat-policy: #6b4f9a;
+      --cat-market: #2c6f5a;
+      --cat-safety: #d94936;
+      --cat-labor:  #c47b3a;
+      --cat-corp:   #4a5568;
+      --cat-co-op:  #1E3A6F;
+
+      --sent-neg: #d94936;
+      --sent-neu: #8A97AE;
+      --sent-pos: #2c6f5a;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Pretendard Variable", "Pretendard", -apple-system, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      word-break: keep-all;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      padding: 0 40px; height: 64px;
+      display: flex; align-items: center; justify-content: space-between;
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    nav .brand { font-size: 13px; font-weight: 800; color: var(--navy); letter-spacing: 1px; }
+    nav .last-updated { font-size: 11px; color: var(--muted); letter-spacing: 1px; }
+
     .hero {
-      position: relative;
-      background: linear-gradient(135deg, var(--navy-deep) 0%, var(--navy) 55%, var(--navy-soft) 100%);
-      color: white;
-      padding: 28px 32px 120px;
-      overflow: hidden;
+      padding: 140px 24px 60px;
+      text-align: center;
+      background: var(--white);
+      border-bottom: 1px solid var(--border);
     }
-    .hero-inner { position: relative; z-index: 2; max-width: 1080px; margin: 0 auto; }
-    .brand-en {
-      font-size: 0.7rem; letter-spacing: 0.18em; font-weight: 600;
-      color: rgba(255,255,255,0.7); margin-bottom: 4px;
+    .hero-eyebrow {
+      font-size: 11px; font-weight: 800;
+      color: var(--navy); letter-spacing: 4px;
+      margin-bottom: 18px;
     }
-    .brand-row {
-      display: flex; align-items: center; gap: 10px; margin-bottom: 40px;
-    }
-    .logo-mark {
-      width: 22px; height: 22px; border-radius: 50%;
-      background: var(--accent-red);
-      display: inline-flex; align-items: center; justify-content: center;
-      font-size: 0.7rem; color: white; font-weight: 800;
-    }
-    .logo-text {
-      font-size: 0.88rem; font-weight: 700; letter-spacing: 0.02em;
-    }
-    .logo-text .sep { opacity: 0.4; margin: 0 8px; }
-    .slogan {
-      display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
-      font-size: 0.95rem; font-weight: 500;
-      color: rgba(255,255,255,0.85);
-      margin-bottom: 12px;
-    }
-    .slogan .dash { width: 24px; height: 1px; background: rgba(255,255,255,0.5); }
     .hero-title {
-      font-size: clamp(1.8rem, 4vw, 2.6rem);
-      font-weight: 800; letter-spacing: -0.02em;
-      margin-bottom: 10px;
+      font-size: clamp(32px, 5vw, 52px);
+      font-weight: 900; color: var(--navy);
+      letter-spacing: -1.5px; line-height: 1.1;
+      margin-bottom: 12px;
     }
     .hero-sub {
-      font-size: 0.88rem; color: rgba(255,255,255,0.7);
+      font-size: 15px; color: var(--sub); line-height: 1.7;
+      max-width: 560px; margin: 0 auto;
     }
 
-    /* ===== Skyline SVG ===== */
-    .skyline {
-      position: absolute; left: 0; right: 0; bottom: -1px;
-      width: 100%; height: 110px;
-      z-index: 1; opacity: 0.55;
-      pointer-events: none;
+    .container { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+    section { padding: 60px 0; }
+    .sec-num {
+      display: inline-flex; align-items: center; gap: 12px;
+      margin-bottom: 20px;
     }
-
-    /* ===== Filters ===== */
-    .filters-wrap {
-      background: white; border-bottom: 1px solid var(--line);
-      position: sticky; top: 0; z-index: 10;
-      box-shadow: 0 1px 0 rgba(0,0,0,0.02);
+    .sec-num .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--navy); }
+    .sec-num .line { width: 40px; height: 1px; background: var(--navy); }
+    .sec-num span {
+      font-size: 11px; font-weight: 800;
+      color: var(--navy); letter-spacing: 4px;
     }
-    .filters {
-      max-width: 1080px; margin: 0 auto;
-      padding: 14px 32px;
-      display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
-    }
-    .filter-label {
-      font-size: 0.78rem; color: var(--ink-sub); font-weight: 600;
-      margin-right: 6px;
-    }
-    .filter-btn {
-      padding: 7px 14px; border: 1px solid var(--line);
-      border-radius: 999px; background: white;
-      cursor: pointer; font-size: 0.82rem; font-weight: 500;
-      color: var(--ink-sub);
-      font-family: inherit;
-      transition: all 0.15s ease;
-    }
-    .filter-btn:hover { border-color: var(--navy); color: var(--navy); }
-    .filter-btn.active {
-      background: var(--navy); color: white; border-color: var(--navy);
-    }
-    .filter-btn.industry { color: #2c6f5a; border-color: #c9e4d8; }
-    .filter-btn.industry:hover { border-color: #2c6f5a; }
-    .filter-btn.industry.active {
-      background: #2c6f5a; color: white; border-color: #2c6f5a;
-    }
-
-    /* ===== Articles ===== */
-    .container { max-width: 1080px; margin: 28px auto 60px; padding: 0 32px; }
-    .count {
-      font-size: 0.82rem; color: var(--ink-sub);
-      margin-bottom: 18px; font-weight: 500;
-    }
-    .count strong { color: var(--navy); font-weight: 700; }
-
-    .article {
-      background: white;
-      border-radius: 10px;
-      padding: 20px 22px;
-      margin-bottom: 12px;
-      border-top: 3px solid var(--navy);
-      border-left: 1px solid var(--line);
-      border-right: 1px solid var(--line);
-      border-bottom: 1px solid var(--line);
-      transition: box-shadow 0.15s ease, transform 0.15s ease;
-    }
-    .article:hover {
-      box-shadow: 0 4px 16px rgba(26,58,107,0.08);
-      transform: translateY(-1px);
-    }
-    .article.industry { border-top-color: #2c6f5a; }
-
-    .article-meta {
-      display: flex; align-items: center; gap: 10px;
-      font-size: 0.75rem; color: var(--ink-sub);
-      margin-bottom: 10px; flex-wrap: wrap;
-    }
-    .keyword-badge {
-      background: var(--sky-light); color: var(--navy);
-      padding: 3px 10px; border-radius: 4px;
-      font-size: 0.72rem; font-weight: 700;
-      letter-spacing: -0.01em;
-    }
-    .keyword-badge.industry { background: #e4f1ec; color: #2c6f5a; }
-
-    .article-title { font-size: 1.02rem; font-weight: 700; margin-bottom: 8px; line-height: 1.45; }
-    .article-title a { color: var(--ink); text-decoration: none; }
-    .article-title a:hover { color: var(--navy); text-decoration: underline; text-underline-offset: 3px; }
-
-    .summary-label {
-      display: inline-block;
-      font-size: 0.68rem; color: var(--navy);
-      font-weight: 700; letter-spacing: 0.05em;
-      background: var(--sky-light);
-      padding: 2px 7px; border-radius: 3px;
-      margin-bottom: 6px;
-    }
-    .article-summary {
-      font-size: 0.88rem; color: #3a414b; line-height: 1.65;
+    .sec-head h2 {
+      font-size: clamp(24px, 3vw, 32px);
+      font-weight: 900; color: var(--navy);
+      letter-spacing: -1px; margin-bottom: 40px;
     }
 
     .empty {
       text-align: center; padding: 80px 20px;
-      color: var(--ink-sub);
-      background: white; border-radius: 10px;
-      border: 1px solid var(--line);
+      color: var(--muted); background: var(--white);
+      border-radius: 12px; border: 1px solid var(--border);
     }
 
-    /* ===== Footer ===== */
     footer {
-      text-align: center; padding: 30px 20px 40px;
-      color: var(--ink-sub); font-size: 0.78rem;
-      border-top: 1px solid var(--line);
-      background: white;
+      text-align: center; padding: 40px 20px;
+      color: var(--muted); font-size: 12px;
+      border-top: 1px solid var(--border);
+      background: var(--white);
     }
+
+    /* ===== Filter Bar ===== */
+    .filter-bar {
+      position: sticky; top: 64px; z-index: 50;
+      background: rgba(255,255,255,0.97);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+    }
+    .filter-bar-inner {
+      max-width: 1120px; margin: 0 auto;
+      display: flex; flex-direction: column; gap: 12px;
+    }
+    .filter-row {
+      display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+    }
+    .filter-label {
+      font-size: 10px; font-weight: 800;
+      color: var(--muted); letter-spacing: 2px;
+      margin-right: 4px;
+    }
+    .search-input {
+      flex: 1; min-width: 220px; max-width: 440px;
+      padding: 10px 14px;
+      border: 1px solid var(--border); border-radius: 8px;
+      font-size: 14px; font-family: inherit;
+      background: var(--white);
+    }
+    .search-input:focus { outline: none; border-color: var(--navy); }
+    .chip {
+      padding: 7px 14px; border: 1px solid var(--border);
+      border-radius: 100px; background: var(--white);
+      font-size: 12px; font-weight: 600; color: var(--sub);
+      cursor: pointer; font-family: inherit;
+      transition: all .15s ease;
+    }
+    .chip:hover { border-color: var(--navy); color: var(--navy); }
+    .chip.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+    .chip .count { opacity: 0.7; margin-left: 4px; font-size: 11px; }
+
+    .cat-group {
+      display: flex; gap: 6px; flex-wrap: wrap;
+      padding-left: 12px; border-left: 1px solid var(--border);
+    }
+    .cat-group.hidden { display: none; }
+
+    /* ===== Article Card ===== */
+    .article {
+      background: var(--white);
+      border-radius: 8px;
+      padding: 22px 24px;
+      margin-bottom: 10px;
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--navy);
+      transition: all .25s ease;
+      position: relative;
+    }
+    .article:hover {
+      box-shadow: 0 8px 24px rgba(30, 58, 111, 0.06);
+      transform: translateX(4px);
+    }
+    .article.is-company { border-left-color: var(--cat-safety); }
+
+    .article-meta {
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+      font-size: 11px; color: var(--muted);
+      margin-bottom: 10px;
+    }
+    .imp-dots {
+      letter-spacing: 1px; font-size: 10px;
+      color: var(--blue-accent); font-weight: 700;
+    }
+    .cat-badge {
+      padding: 3px 10px; border-radius: 100px;
+      font-size: 10px; font-weight: 700; letter-spacing: 1px;
+      color: #fff;
+    }
+    .cat-badge.c-co-op   { background: var(--cat-co-op); }
+    .cat-badge.c-policy  { background: var(--cat-policy); }
+    .cat-badge.c-market  { background: var(--cat-market); }
+    .cat-badge.c-safety  { background: var(--cat-safety); }
+    .cat-badge.c-labor   { background: var(--cat-labor); }
+    .cat-badge.c-corp    { background: var(--cat-corp); }
+    .sent-dot { font-size: 9px; line-height: 1; }
+    .sent-dot.neg { color: var(--sent-neg); }
+    .sent-dot.neu { color: var(--sent-neu); }
+    .sent-dot.pos { color: var(--sent-pos); }
+    .meta-sep { color: var(--border); }
+
+    .article-title {
+      font-size: 16px; font-weight: 700; line-height: 1.5;
+      margin-bottom: 10px;
+      letter-spacing: -0.3px;
+    }
+    .article-title a {
+      color: var(--text); text-decoration: none;
+    }
+    .article-title a:hover { color: var(--navy); }
+
+    .cluster-more {
+      display: inline-block; margin-left: 8px;
+      font-size: 11px; color: var(--blue-accent); font-weight: 700;
+    }
+
+    .summary-label {
+      display: inline-block;
+      font-size: 9px; color: var(--navy);
+      font-weight: 800; letter-spacing: 2px;
+      background: var(--bg-soft);
+      padding: 3px 8px; border-radius: 3px;
+      margin-bottom: 6px;
+    }
+    .article-summary {
+      font-size: 13px; color: var(--sub); line-height: 1.7;
+    }
+
+    .copy-btn {
+      position: absolute; top: 20px; right: 20px;
+      border: 1px solid var(--border); background: var(--white);
+      border-radius: 6px; padding: 4px 8px;
+      font-size: 11px; color: var(--muted); cursor: pointer;
+      font-family: inherit;
+      transition: all .15s ease;
+    }
+    .copy-btn:hover { border-color: var(--navy); color: var(--navy); }
+    .copy-btn.copied { background: var(--navy); color: #fff; border-color: var(--navy); }
+
+    /* ===== Top Sections ===== */
+    .top-section { background: var(--white); border-radius: 12px; padding: 28px 24px; margin-bottom: 40px; border: 1px solid var(--border); }
+    .top-section.company { border-left: 4px solid var(--cat-safety); }
+    .top-section.company .sec-head h2 { color: var(--cat-safety); }
+
+    .cat-top-head {
+      display: flex; align-items: center; gap: 10px;
+      margin: 32px 0 12px;
+    }
+    .cat-top-head h3 {
+      font-size: 16px; font-weight: 800; color: var(--navy);
+      letter-spacing: -0.3px;
+    }
+    .cat-top-head .rule { flex: 1; height: 1px; background: var(--border); }
+
+    /* ===== Weekly Brief ===== */
+    .weekly-wrap {
+      background: linear-gradient(135deg, var(--navy-deep) 0%, var(--navy) 100%);
+      color: #fff;
+      border-radius: 16px;
+      padding: 40px;
+      margin: 40px auto;
+      max-width: 1120px;
+      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.15);
+    }
+    .weekly-label {
+      display: inline-block;
+      font-size: 10px; font-weight: 800; letter-spacing: 4px;
+      padding: 5px 14px;
+      background: linear-gradient(120deg, #E8A5C5, #C5A5E8, #A5B5E8, #A5E8C5);
+      background-size: 200% 100%;
+      animation: weeklyShift 8s ease infinite;
+      color: #fff;
+      border-radius: 100px;
+      margin-bottom: 12px;
+    }
+    @keyframes weeklyShift {
+      0%, 100% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+    }
+    .weekly-title {
+      font-size: 24px; font-weight: 900; letter-spacing: -0.8px;
+      margin-bottom: 4px;
+    }
+    .weekly-period { font-size: 12px; color: rgba(255,255,255,0.6); margin-bottom: 24px; letter-spacing: 2px; }
+    .weekly-item { padding: 16px 0; border-top: 1px solid rgba(255,255,255,0.12); }
+    .weekly-item:first-child { border-top: none; padding-top: 0; }
+    .weekly-item .cat { font-size: 10px; font-weight: 800; letter-spacing: 2px; color: var(--cyan-soft); margin-bottom: 4px; }
+    .weekly-item .headline { font-size: 16px; font-weight: 700; margin-bottom: 6px; letter-spacing: -0.3px; }
+    .weekly-item .brief { font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.7; }
 
     @media (max-width: 640px) {
-      .hero { padding: 22px 20px 90px; }
-      .brand-row { margin-bottom: 28px; }
-      .slogan { font-size: 0.82rem; gap: 8px; }
-      .slogan .dash { width: 14px; }
-      .filters { padding: 12px 20px; }
-      .container { padding: 0 20px; margin: 20px auto 40px; }
-      .article { padding: 16px 18px; }
+      nav { padding: 0 20px; }
+      .hero { padding: 110px 20px 40px; }
+      .container { padding: 0 20px; }
+      section { padding: 40px 0; }
+      .weekly-wrap { padding: 28px 20px; border-radius: 12px; }
+      .weekly-title { font-size: 20px; }
     }
   </style>
 </head>
 <body>
+
+  <nav>
+    <span class="brand">CI GUARANTEE · 이슈 모니터</span>
+    <span class="last-updated" id="last-updated">로딩 중...</span>
+  </nav>
+
   <header class="hero">
-    <div class="hero-inner">
-      <div class="brand-en">CONSTRUCTION INDUSTRY GUARANTEE</div>
-      <div class="brand-row">
-        <span class="logo-mark">CI</span>
-        <span class="logo-text">CI GUARANTEE <span class="sep">·</span> 기계설비건설공제조합</span>
-      </div>
-      <div class="slogan">
-        <span>건설금융의</span><span class="dash"></span>
-        <span>더 좋은 파트너</span><span class="dash"></span>
-        <span>더 나은 내일을</span><span class="dash"></span>
-        <span>약속드립니다</span>
-      </div>
-      <h1 class="hero-title">이슈 모니터</h1>
-      <p class="hero-sub" id="last-updated">로딩 중...</p>
-    </div>
-    <svg class="skyline" viewBox="0 0 1200 110" preserveAspectRatio="none" aria-hidden="true">
-      <g fill="none" stroke="rgba(255,255,255,0.85)" stroke-width="1.2" stroke-linejoin="round">
-        <path d="M0 110 V80 H40 V60 H70 V90 H100 V55 L115 45 L130 55 V90 H160 V30 H200 V90 H230 V65 H260 V90 H290 V45 H320 V70 H350 V50 H370 V90 H410 V25 H440 V90 H470 V60 H500 V35 H530 V60 H560 V90 H600 V50 H630 V20 H660 V50 H690 V90 H720 V40 H760 V90 H790 V55 H820 V30 H850 V80 H880 V65 H910 V90 H940 V45 H970 V70 H1000 V50 H1030 V90 H1060 V60 H1090 V80 H1120 V55 H1150 V90 H1200 V110 Z"/>
-        <line x1="210" y1="40" x2="210" y2="75"/>
-        <line x1="420" y1="35" x2="420" y2="75"/>
-        <line x1="640" y1="30" x2="640" y2="70"/>
-        <line x1="740" y1="55" x2="740" y2="85"/>
-        <line x1="980" y1="60" x2="980" y2="85"/>
-      </g>
-    </svg>
+    <div class="hero-eyebrow">CONSTRUCTION INDUSTRY MONITOR</div>
+    <h1 class="hero-title">이슈 모니터</h1>
+    <p class="hero-sub">조합·건설업계 핵심 이슈를 매시간 수집하고 중요도·감정 톤과 함께 제공합니다.</p>
   </header>
 
-  <div class="filters-wrap">
-    <div class="filters" id="filters">
-      <span class="filter-label">필터</span>
-      <button class="filter-btn active" data-filter="전체" onclick="setFilter('전체')">전체</button>
-      <button class="filter-btn" data-filter="기계설비건설공제조합" onclick="setFilter('기계설비건설공제조합')">기계설비</button>
-      <button class="filter-btn" data-filter="엔지니어링공제조합" onclick="setFilter('엔지니어링공제조합')">엔지니어링</button>
-      <button class="filter-btn" data-filter="건설공제조합" onclick="setFilter('건설공제조합')">건설</button>
-      <button class="filter-btn" data-filter="전문건설공제조합" onclick="setFilter('전문건설공제조합')">전문건설</button>
-      <button class="filter-btn industry" data-filter="건설산업" onclick="setFilter('건설산업')">건설산업</button>
+  <section id="weekly-brief" style="display:none">
+    <div class="weekly-wrap">
+      <div class="weekly-label">WEEKLY BRIEF</div>
+      <div class="weekly-title">지난주 핵심 이슈 5선</div>
+      <div class="weekly-period" id="weekly-period"></div>
+      <div id="weekly-items"></div>
+    </div>
+  </section>
+
+  <div class="filter-bar">
+    <div class="filter-bar-inner">
+      <div class="filter-row">
+        <input type="text" id="search" class="search-input" placeholder="🔍 제목·요약 검색">
+        <span class="filter-label">기간</span>
+        <button class="chip" data-period="1">오늘</button>
+        <button class="chip" data-period="3">3일</button>
+        <button class="chip active" data-period="7">7일</button>
+        <button class="chip" data-period="30">1개월</button>
+        <button class="chip" data-period="all">전체</button>
+      </div>
+      <div class="filter-row">
+        <span class="filter-label">카테고리</span>
+        <button class="chip active" data-group="all">전체</button>
+        <button class="chip" data-group="조합">조합</button>
+        <button class="chip" data-group="산업">산업</button>
+        <button class="chip" data-group="종합건설사">종합건설사</button>
+        <div class="cat-group hidden" id="cat-sub-industry">
+          <button class="chip" data-cat="정책·규제">정책·규제 <span class="count"></span></button>
+          <button class="chip" data-cat="시장·경기">시장·경기 <span class="count"></span></button>
+          <button class="chip" data-cat="안전·사고">안전·사고 <span class="count"></span></button>
+          <button class="chip" data-cat="노동·인력">노동·인력 <span class="count"></span></button>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="container">
-    <div id="article-count" class="count"></div>
-    <div id="articles"></div>
-  </div>
+  <main class="container">
+    <section id="company-top" style="display:none">
+      <div class="sec-num"><span class="dot" style="background:var(--cat-safety)"></span><span class="line" style="background:var(--cat-safety)"></span><span style="color:var(--cat-safety)">CO-OP FOCUS</span></div>
+      <div class="sec-head"><h2>🔴 우리 조합 직접 언급 이슈</h2></div>
+      <div id="company-list" class="top-section company"></div>
+    </section>
 
-  <footer>
-    © 기계설비건설공제조합 이슈 모니터 · Google News 기반 자동 수집
-  </footer>
+    <section id="category-top">
+      <div class="sec-num"><span class="dot"></span><span class="line"></span><span>TOP BY CATEGORY</span></div>
+      <div class="sec-head"><h2>카테고리별 톱 이슈</h2></div>
+      <div id="category-list"></div>
+    </section>
+
+    <section>
+      <div class="sec-num"><span class="dot"></span><span class="line"></span><span>ALL ARTICLES</span></div>
+      <div class="sec-head"><h2>전체 기사</h2></div>
+      <div id="articles"></div>
+    </section>
+  </main>
+
+  <footer>© 기계설비건설공제조합 이슈 모니터 · Google News 기반 자동 수집</footer>
 
   <script>
-    const INDUSTRY_KEYWORDS = [
-      "건설산업기본법", "국토교통부 건설", "건설업 규제",
-      "건설경기", "건설 PF", "건설수주",
-      "중대재해 건설", "건설현장 안전", "건설 노동"
-    ];
-
-    let allArticles = [];
-    let currentFilter = '전체';
-
-    function escapeHtml(str) {
-      return String(str)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;');
+    function escapeHtml(s) {
+      return String(s || '')
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
     }
-
-    function safeHref(url) {
-      try {
-        const u = new URL(url);
-        return (u.protocol === 'http:' || u.protocol === 'https:') ? url : '#';
-      } catch { return '#'; }
+    function safeHref(u) {
+      try { const x = new URL(u); return (x.protocol === 'http:' || x.protocol === 'https:') ? u : '#'; }
+      catch { return '#'; }
     }
-
     function formatDate(iso) {
       if (!iso) return '';
       const d = new Date(iso);
-      if (isNaN(d.getTime())) return '';
+      if (isNaN(d)) return '';
       return d.toLocaleDateString('ko-KR') + ' ' + d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
     }
 
-    function isIndustry(keyword) {
-      return INDUSTRY_KEYWORDS.includes(keyword);
+    let allArticles = [];
+    let state = {
+      q: '',
+      period: 7,
+      group: 'all',
+      cat: null,
+    };
+
+    const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·사고', '노동·인력'];
+
+    const CATEGORY_CLASS = {
+      '조합': 'c-co-op',
+      '정책·규제': 'c-policy',
+      '시장·경기': 'c-market',
+      '안전·사고': 'c-safety',
+      '노동·인력': 'c-labor',
+      '종합건설사': 'c-corp',
+    };
+
+    const CATEGORY_TOP_ORDER = ['정책·규제', '시장·경기', '안전·사고', '노동·인력', '종합건설사'];
+
+    function impDots(imp) {
+      imp = imp || 0;
+      if (imp >= 7) return '●●●';
+      if (imp >= 4) return '●●';
+      if (imp >= 1) return '●';
+      return '○';
     }
 
-    function setFilter(keyword) {
-      currentFilter = keyword;
-      document.querySelectorAll('.filter-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.filter === keyword);
+    function sentDot(s) {
+      const cls = s === 'negative' ? 'neg' : s === 'positive' ? 'pos' : 'neu';
+      return `<span class="sent-dot ${cls}">●</span>`;
+    }
+
+    function relativeTime(iso) {
+      if (!iso) return '';
+      const then = new Date(iso), now = new Date();
+      const mins = Math.floor((now - then) / 60000);
+      if (mins < 60) return `${Math.max(1, mins)}분 전`;
+      const hrs = Math.floor(mins / 60);
+      if (hrs < 24) return `${hrs}시간 전`;
+      const days = Math.floor(hrs / 24);
+      return `${days}일 전`;
+    }
+
+    function renderCard(a) {
+      const cat = a.category || '(미분류)';
+      const catClass = CATEGORY_CLASS[cat] || 'c-corp';
+      const isCompany = a.is_company ? 'is-company' : '';
+      const title = a.title_clean || a.title || '';
+      const publisher = a.publisher || '';
+      const summary = a.summary || a.description || '';
+      return `
+        <article class="article ${isCompany}">
+          <button class="copy-btn" data-link="${escapeHtml(safeHref(a.link))}" onclick="copyLink(this)">📋 복사</button>
+          <div class="article-meta">
+            <span class="imp-dots">${impDots(a.importance)}</span>
+            <span class="cat-badge ${catClass}">${escapeHtml(cat)}</span>
+            ${sentDot(a.sentiment)}
+            ${publisher ? `<span>${escapeHtml(publisher)}</span><span class="meta-sep">·</span>` : ''}
+            <span>${escapeHtml(relativeTime(a.collected_at))}</span>
+          </div>
+          <div class="article-title">
+            <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>
+          </div>
+          <div class="summary-label">AI 요약</div>
+          <div class="article-summary">${escapeHtml(summary)}</div>
+        </article>
+      `;
+    }
+
+    function copyLink(btn) {
+      navigator.clipboard.writeText(btn.dataset.link).then(() => {
+        const original = btn.innerHTML;
+        btn.innerHTML = '✓ 복사됨';
+        btn.classList.add('copied');
+        setTimeout(() => { btn.innerHTML = original; btn.classList.remove('copied'); }, 1500);
       });
-      render();
+    }
+
+    function inPeriod(iso) {
+      if (state.period === 'all') return true;
+      if (!iso) return false;
+      const t = new Date(iso).getTime();
+      if (isNaN(t)) return false;
+      return (Date.now() - t) <= state.period * 86400000;
+    }
+
+    function matchesGroup(a) {
+      if (state.group === 'all') return true;
+      if (state.group === '조합') return a.category === '조합';
+      if (state.group === '종합건설사') return a.category === '종합건설사';
+      if (state.group === '산업') {
+        if (state.cat) return a.category === state.cat;
+        return INDUSTRY_CATS.includes(a.category);
+      }
+      return true;
+    }
+
+    function matchesQuery(a) {
+      if (!state.q) return true;
+      const hay = (a.title_clean || a.title || '') + ' ' + (a.summary || '');
+      return hay.toLowerCase().includes(state.q.toLowerCase());
+    }
+
+    function filtered() {
+      return allArticles.filter(a =>
+        inPeriod(a.collected_at) && matchesGroup(a) && matchesQuery(a)
+      );
+    }
+
+    function updateChipActive() {
+      document.querySelectorAll('.chip[data-period]').forEach(c => {
+        c.classList.toggle('active', String(c.dataset.period) === String(state.period));
+      });
+      document.querySelectorAll('.chip[data-group]').forEach(c => {
+        c.classList.toggle('active', c.dataset.group === state.group && !state.cat);
+      });
+      document.querySelectorAll('.chip[data-cat]').forEach(c => {
+        c.classList.toggle('active', c.dataset.cat === state.cat);
+      });
+      document.getElementById('cat-sub-industry').classList.toggle('hidden', state.group !== '산업');
+    }
+
+    function updateCatCounts() {
+      INDUSTRY_CATS.forEach(cat => {
+        const n = allArticles.filter(a => a.category === cat).length;
+        document.querySelectorAll(`.chip[data-cat="${cat}"] .count`).forEach(el => {
+          el.textContent = `(${n})`;
+        });
+      });
+    }
+
+    function writeHash() {
+      const parts = [];
+      if (state.q) parts.push('q=' + encodeURIComponent(state.q));
+      if (state.period !== 7) parts.push('period=' + state.period);
+      if (state.group !== 'all') parts.push('group=' + encodeURIComponent(state.group));
+      if (state.cat) parts.push('cat=' + encodeURIComponent(state.cat));
+      location.hash = parts.join('&');
+    }
+
+    function readHash() {
+      const h = location.hash.replace(/^#/, '');
+      if (!h) return;
+      h.split('&').forEach(kv => {
+        const [k, v] = kv.split('=');
+        if (!k) return;
+        const val = decodeURIComponent(v || '');
+        if (k === 'q') state.q = val;
+        else if (k === 'period') state.period = val === 'all' ? 'all' : parseInt(val, 10);
+        else if (k === 'group') state.group = val;
+        else if (k === 'cat') state.cat = val;
+      });
+    }
+
+    function renderCompanyTop(list) {
+      const companyArts = list.filter(a => a.is_company).slice(0, 5);
+      const sec = document.getElementById('company-top');
+      if (!companyArts.length) { sec.style.display = 'none'; return; }
+      sec.style.display = '';
+      document.getElementById('company-list').innerHTML =
+        companyArts.map(renderCard).join('');
+    }
+
+    function renderCategoryTop(list) {
+      const el = document.getElementById('category-list');
+      const html = CATEGORY_TOP_ORDER.map(cat => {
+        const top = list
+          .filter(a => a.category === cat)
+          .sort((x, y) => (y.importance || 0) - (x.importance || 0))
+          .slice(0, 3);
+        if (!top.length) return '';
+        return `
+          <div class="cat-top-head"><h3>${escapeHtml(cat)}</h3><div class="rule"></div></div>
+          ${top.map(renderCard).join('')}
+        `;
+      }).join('');
+      el.innerHTML = html || '<div class="empty">카테고리별 이슈가 없습니다.</div>';
     }
 
     function render() {
-      const filtered = currentFilter === '전체'
-        ? allArticles
-        : currentFilter === '건설산업'
-        ? allArticles.filter(a => INDUSTRY_KEYWORDS.includes(a.keyword))
-        : allArticles.filter(a => a.keyword === currentFilter);
-
-      const container = document.getElementById('articles');
-      const countEl = document.getElementById('article-count');
-
-      countEl.innerHTML = `총 <strong>${filtered.length}</strong>건`;
-
-      if (filtered.length === 0) {
-        container.innerHTML = '<div class="empty">수집된 기사가 없습니다.</div>';
+      const list = filtered();
+      renderCompanyTop(list);
+      renderCategoryTop(list);
+      const el = document.getElementById('articles');
+      if (!list.length) {
+        el.innerHTML = '<div class="empty">조건에 맞는 기사가 없습니다.</div>';
         return;
       }
-
-      container.innerHTML = filtered.map(a => {
-        const industry = isIndustry(a.keyword);
-        const badgeClass = industry ? 'keyword-badge industry' : 'keyword-badge';
-        const cardClass = industry ? 'article industry' : 'article';
-        const displayText = escapeHtml(a.summary || a.description || '');
-        const summaryLabel = a.summary ? 'AI 요약' : '내용';
-        return `
-          <div class="${cardClass}">
-            <div class="article-meta">
-              <span class="${badgeClass}">${escapeHtml(a.keyword)}</span>
-              <span>${escapeHtml(formatDate(a.collected_at))}</span>
-            </div>
-            <div class="article-title">
-              <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
-            </div>
-            <div class="summary-label">${summaryLabel}</div>
-            <div class="article-summary">${displayText}</div>
-          </div>
-        `;
-      }).join('');
+      el.innerHTML = list.map(renderCard).join('');
     }
+
+    function renderWeekly(data) {
+      const sec = document.getElementById('weekly-brief');
+      if (!data || !data.items || !data.items.length) { sec.style.display = 'none'; return; }
+      sec.style.display = '';
+      document.getElementById('weekly-period').textContent = data.period || '';
+      document.getElementById('weekly-items').innerHTML = data.items.map(i => `
+        <div class="weekly-item">
+          <div class="cat">${escapeHtml(i.category || '')}</div>
+          <div class="headline">${escapeHtml(i.headline || '')}</div>
+          <div class="brief">${escapeHtml(i.brief || '')}</div>
+        </div>
+      `).join('');
+    }
+
+    document.getElementById('search').addEventListener('input', (e) => {
+      clearTimeout(window._t);
+      window._t = setTimeout(() => { state.q = e.target.value; writeHash(); render(); }, 200);
+    });
+    document.querySelectorAll('.chip[data-period]').forEach(c => c.addEventListener('click', () => {
+      state.period = c.dataset.period === 'all' ? 'all' : parseInt(c.dataset.period, 10);
+      writeHash(); updateChipActive(); render();
+    }));
+    document.querySelectorAll('.chip[data-group]').forEach(c => c.addEventListener('click', () => {
+      state.group = c.dataset.group; state.cat = null;
+      writeHash(); updateChipActive(); render();
+    }));
+    document.querySelectorAll('.chip[data-cat]').forEach(c => c.addEventListener('click', () => {
+      state.cat = (state.cat === c.dataset.cat) ? null : c.dataset.cat;
+      writeHash(); updateChipActive(); render();
+    }));
+    window.addEventListener('hashchange', () => {
+      readHash();
+      document.getElementById('search').value = state.q;
+      updateChipActive();
+      render();
+    });
 
     fetch('articles.json?t=' + Date.now())
       .then(r => r.json())
       .then(data => {
         allArticles = data;
-        const lastUpdated = data.length > 0 ? data[0].collected_at : null;
-        document.getElementById('last-updated').textContent =
-          lastUpdated ? '마지막 업데이트 ' + formatDate(lastUpdated) : '아직 수집된 기사 없음';
+        const last = data.length ? data[0].collected_at : null;
+        document.getElementById('last-updated').textContent = last ? '업데이트 ' + formatDate(last) : '데이터 없음';
+        readHash();
+        document.getElementById('search').value = state.q;
+        updateChipActive();
+        updateCatCounts();
         render();
       })
       .catch(() => {
         document.getElementById('articles').innerHTML = '<div class="empty">articles.json을 불러올 수 없습니다.</div>';
         document.getElementById('last-updated').textContent = '로딩 실패';
       });
+
+    fetch('weekly.json?t=' + Date.now())
+      .then(r => r.ok ? r.json() : null)
+      .then(renderWeekly)
+      .catch(() => {});
   </script>
+
 </body>
 </html>
