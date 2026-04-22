@@ -130,6 +130,18 @@ def test_enrich_article_caps_description_fallback_at_200():
     assert len(result["summary"]) == 200
 
 
+def test_enrich_article_strips_markdown_code_fence():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='```json\n{"summary": "요약", "sentiment": "positive"}\n```')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용")
+
+    assert result == {"summary": "요약", "sentiment": "positive"}
+
+
 def test_enrich_article_normalizes_invalid_sentiment():
     mock_client = MagicMock()
     mock_client.messages.create.return_value = MagicMock(

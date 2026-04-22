@@ -12,8 +12,14 @@ import anthropic
 logger = logging.getLogger(__name__)
 
 _PUBLISHER_SUFFIX_RE = re.compile(r"\s+-\s+([^-]+?)\s*$")
+_CODE_FENCE_RE = re.compile(r"^```(?:json)?\s*\n?(.*?)\n?```\s*$", re.DOTALL)
 _VALID_SENTIMENTS = {"positive", "neutral", "negative"}
 _client: Optional[anthropic.Anthropic] = None
+
+
+def _strip_code_fence(text: str) -> str:
+    m = _CODE_FENCE_RE.match(text.strip())
+    return m.group(1).strip() if m else text.strip()
 
 
 def _get_client() -> anthropic.Anthropic:
@@ -50,7 +56,7 @@ def enrich_article(title: str, description: str) -> dict:
             max_tokens=400,
             messages=[{"role": "user", "content": _ENRICH_PROMPT.format(title=title, description=description)}],
         )
-        raw = msg.content[0].text.strip()
+        raw = _strip_code_fence(msg.content[0].text)
         data = json.loads(raw)
         sentiment = data.get("sentiment", "neutral")
         if sentiment not in _VALID_SENTIMENTS:
