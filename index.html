@@ -146,10 +146,6 @@
     .chip.active { background: var(--navy); color: #fff; border-color: var(--navy); }
     .chip .count { opacity: 0.7; margin-left: 4px; font-size: 11px; }
 
-    .cat-group {
-      display: flex; gap: 6px; flex-wrap: wrap;
-      padding-left: 12px; border-left: 1px solid var(--border);
-    }
     .cat-group.hidden { display: none; }
 
     /* ===== Article Card ===== */
@@ -333,12 +329,20 @@
         <button class="chip" data-group="조합">조합</button>
         <button class="chip" data-group="산업">산업</button>
         <button class="chip" data-group="종합건설사">종합건설사</button>
-        <div class="cat-group hidden" id="cat-sub-industry">
-          <button class="chip" data-cat="정책·규제">정책·규제 <span class="count"></span></button>
-          <button class="chip" data-cat="시장·경기">시장·경기 <span class="count"></span></button>
-          <button class="chip" data-cat="안전·사고">안전·사고 <span class="count"></span></button>
-          <button class="chip" data-cat="노동·인력">노동·인력 <span class="count"></span></button>
-        </div>
+      </div>
+      <div class="filter-row cat-group hidden" id="cat-sub-coop">
+        <span class="filter-label">조합</span>
+        <button class="chip" data-keyword="기계설비건설공제조합">기계설비 <span class="count"></span></button>
+        <button class="chip" data-keyword="엔지니어링공제조합">엔지니어링 <span class="count"></span></button>
+        <button class="chip" data-keyword="건설공제조합">건설 <span class="count"></span></button>
+        <button class="chip" data-keyword="전문건설공제조합">전문건설 <span class="count"></span></button>
+      </div>
+      <div class="filter-row cat-group hidden" id="cat-sub-industry">
+        <span class="filter-label">산업</span>
+        <button class="chip" data-cat="정책·규제">정책·규제 <span class="count"></span></button>
+        <button class="chip" data-cat="시장·경기">시장·경기 <span class="count"></span></button>
+        <button class="chip" data-cat="안전·사고">안전·사고 <span class="count"></span></button>
+        <button class="chip" data-cat="노동·인력">노동·인력 <span class="count"></span></button>
       </div>
     </div>
   </div>
@@ -387,9 +391,11 @@
       period: 7,
       group: 'all',
       cat: null,
+      keyword: null,
     };
 
     const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·사고', '노동·인력'];
+    const COOP_KEYWORDS = ['기계설비건설공제조합', '엔지니어링공제조합', '건설공제조합', '전문건설공제조합'];
 
     const CATEGORY_CLASS = {
       '조합': 'c-co-op',
@@ -471,7 +477,10 @@
 
     function matchesGroup(a) {
       if (state.group === 'all') return true;
-      if (state.group === '조합') return a.category === '조합';
+      if (state.group === '조합') {
+        if (state.keyword) return a.keyword === state.keyword;
+        return a.category === '조합';
+      }
       if (state.group === '종합건설사') return a.category === '종합건설사';
       if (state.group === '산업') {
         if (state.cat) return a.category === state.cat;
@@ -497,18 +506,28 @@
         c.classList.toggle('active', String(c.dataset.period) === String(state.period));
       });
       document.querySelectorAll('.chip[data-group]').forEach(c => {
-        c.classList.toggle('active', c.dataset.group === state.group && !state.cat);
+        c.classList.toggle('active', c.dataset.group === state.group && !state.cat && !state.keyword);
       });
       document.querySelectorAll('.chip[data-cat]').forEach(c => {
         c.classList.toggle('active', c.dataset.cat === state.cat);
       });
+      document.querySelectorAll('.chip[data-keyword]').forEach(c => {
+        c.classList.toggle('active', c.dataset.keyword === state.keyword);
+      });
       document.getElementById('cat-sub-industry').classList.toggle('hidden', state.group !== '산업');
+      document.getElementById('cat-sub-coop').classList.toggle('hidden', state.group !== '조합');
     }
 
     function updateCatCounts() {
       INDUSTRY_CATS.forEach(cat => {
         const n = allArticles.filter(a => a.category === cat).length;
         document.querySelectorAll(`.chip[data-cat="${cat}"] .count`).forEach(el => {
+          el.textContent = `(${n})`;
+        });
+      });
+      COOP_KEYWORDS.forEach(kw => {
+        const n = allArticles.filter(a => a.keyword === kw).length;
+        document.querySelectorAll(`.chip[data-keyword="${kw}"] .count`).forEach(el => {
           el.textContent = `(${n})`;
         });
       });
@@ -520,6 +539,7 @@
       if (state.period !== 7) parts.push('period=' + state.period);
       if (state.group !== 'all') parts.push('group=' + encodeURIComponent(state.group));
       if (state.cat) parts.push('cat=' + encodeURIComponent(state.cat));
+      if (state.keyword) parts.push('keyword=' + encodeURIComponent(state.keyword));
       location.hash = parts.join('&');
     }
 
@@ -534,6 +554,7 @@
         else if (k === 'period') state.period = val === 'all' ? 'all' : parseInt(val, 10);
         else if (k === 'group') state.group = val;
         else if (k === 'cat') state.cat = val;
+        else if (k === 'keyword') state.keyword = val;
       });
     }
 
@@ -597,11 +618,15 @@
       writeHash(); updateChipActive(); render();
     }));
     document.querySelectorAll('.chip[data-group]').forEach(c => c.addEventListener('click', () => {
-      state.group = c.dataset.group; state.cat = null;
+      state.group = c.dataset.group; state.cat = null; state.keyword = null;
       writeHash(); updateChipActive(); render();
     }));
     document.querySelectorAll('.chip[data-cat]').forEach(c => c.addEventListener('click', () => {
       state.cat = (state.cat === c.dataset.cat) ? null : c.dataset.cat;
+      writeHash(); updateChipActive(); render();
+    }));
+    document.querySelectorAll('.chip[data-keyword]').forEach(c => c.addEventListener('click', () => {
+      state.keyword = (state.keyword === c.dataset.keyword) ? null : c.dataset.keyword;
       writeHash(); updateChipActive(); render();
     }));
     window.addEventListener('hashchange', () => {
