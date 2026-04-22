@@ -390,7 +390,10 @@
     }
     function formatDate(iso) {
       if (!iso) return '';
-      const d = new Date(iso);
+      // collected_at 은 UTC 로 저장되지만 'Z' 가 없어서 브라우저가 로컬로 오해함.
+      // 명시적으로 UTC 로 해석시킨 뒤 toLocale 로 KST 등 사용자 로컬로 변환.
+      const utcIso = /[Zz]|[+-]\d{2}:?\d{2}$/.test(iso) ? iso : iso + 'Z';
+      const d = new Date(utcIso);
       if (isNaN(d)) return '';
       return d.toLocaleDateString('ko-KR') + ' ' + d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
     }
@@ -433,7 +436,8 @@
 
     function relativeTime(iso) {
       if (!iso) return '';
-      const then = new Date(iso), now = new Date();
+      const utcIso = /[Zz]|[+-]\d{2}:?\d{2}$/.test(iso) ? iso : iso + 'Z';
+      const then = new Date(utcIso), now = new Date();
       const mins = Math.floor((now - then) / 60000);
       if (mins < 60) return `${Math.max(1, mins)}분 전`;
       const hrs = Math.floor(mins / 60);
