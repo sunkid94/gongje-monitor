@@ -1,8 +1,65 @@
 import hashlib
+import json
+import logging
+import os
 import re
+from typing import Optional
 
+import anthropic
+
+logger = logging.getLogger(__name__)
 
 _PUBLISHER_SUFFIX_RE = re.compile(r"\s+-\s+([^-]+?)\s*$")
+_VALID_SENTIMENTS = {"positive", "neutral", "negative"}
+_client: Optional[anthropic.Anthropic] = None
+
+
+def _get_client() -> anthropic.Anthropic:
+    global _client
+    if _client is None:
+        _client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    return _client
+
+
+_ENRICH_PROMPT = """다음 뉴스 기사를 분석해 JSON으로 답하세요.
+
+제목: {title}
+내용: {description}
+
+판단 기준:
+- 감정 톤은 "건설업계 전반과 기계설비건설공제조합" 시점에서 평가합니다.
+  · positive: 업계 호재 (수주 증가, 규제 완화, 시장 확대 등)
+  · negative: 업계 악재 (사고, 규제 강화, PF 위기, 부정 이슈 등)
+  · neutral: 사실 보도, 양면적, 판단 어려움
+- 요약은 한국어 2~3줄, 핵심만.
+
+JSON 형식 (다른 텍스트 없이 이것만):
+{{"summary": "...", "sentiment": "positive|neutral|negative"}}"""
+
+
+def enrich_article(title: str, description: str) -> dict:
+    fallback = {
+        "summary": (description or "")[:200],
+        "sentiment": "neutral",
+    }
+    try:
+        msg = _get_client().messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=400,
+            messages=[{"role": "user", "content": _ENRICH_PROMPT.format(title=title, description=description)}],
+        )
+        raw = msg.content[0].text.strip()
+        data = json.loads(raw)
+        sentiment = data.get("sentiment", "neutral")
+        if sentiment not in _VALID_SENTIMENTS:
+            sentiment = "neutral"
+        return {
+            "summary": data.get("summary", "").strip() or fallback["summary"],
+            "sentiment": sentiment,
+        }
+    except Exception as e:
+        logger.warning("enrich_article 폴백 (title=%s): %s", title[:30], e)
+        return fallback
 
 
 def extract_publisher(title: str) -> str:

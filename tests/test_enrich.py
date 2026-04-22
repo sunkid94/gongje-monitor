@@ -77,3 +77,66 @@ def test_cluster_articles_cluster_id_is_4char_hex():
     result = cluster_articles(articles)
     assert len(result[0]["cluster_id"]) == 4
     assert all(c in "0123456789abcdef" for c in result[0]["cluster_id"])
+
+
+import json
+from unittest.mock import MagicMock, patch
+
+
+def test_enrich_article_returns_summary_and_sentiment():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약입니다.", "sentiment": "negative"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용")
+
+    assert result == {"summary": "요약입니다.", "sentiment": "negative"}
+
+
+def test_enrich_article_falls_back_on_api_error():
+    mock_client = MagicMock()
+    mock_client.messages.create.side_effect = Exception("API down")
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용이 200자 이상이어야 하는가 아닌가 테스트")
+
+    assert result["sentiment"] == "neutral"
+    assert "내용" in result["summary"]
+
+
+def test_enrich_article_falls_back_on_invalid_json():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text="This is not JSON at all.")]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "원문 내용")
+
+    assert result["sentiment"] == "neutral"
+    assert result["summary"] == "원문 내용"[:200]
+
+
+def test_enrich_article_caps_description_fallback_at_200():
+    long_desc = "가" * 500
+    mock_client = MagicMock()
+    mock_client.messages.create.side_effect = Exception("down")
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", long_desc)
+
+    assert len(result["summary"]) == 200
+
+
+def test_enrich_article_normalizes_invalid_sentiment():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "S", "sentiment": "mixed"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용")
+
+    assert result["sentiment"] == "neutral"
