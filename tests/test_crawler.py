@@ -29,11 +29,12 @@ def _make_datetime_mock():
 
 def test_fetch_news_rss_returns_articles():
     with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
-         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]):
+         patch("crawler.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("crawler.CATEGORY_KEYWORDS", {}):
         import crawler
         import importlib
         importlib.reload(crawler)
-        result = crawler.fetch_news_rss("기계설비건설공제조합")
+        result = crawler.fetch_news_rss("기계설비건설공제조합", category="조합", is_company=True)
 
     assert len(result) == 1
     assert result[0]["keyword"] == "기계설비건설공제조합"
@@ -49,8 +50,8 @@ def test_fetch_new_articles_excludes_seen_urls():
     importlib.reload(crawler)
 
     with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
-         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
-         patch("crawler.INDUSTRY_KEYWORDS", []):
+         patch("crawler.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("crawler.CATEGORY_KEYWORDS", {}):
         crawler.datetime = mock_dt
         result = crawler.fetch_new_articles({"http://news.google.com/articles/1"})
 
@@ -65,8 +66,8 @@ def test_fetch_new_articles_includes_unseen_urls():
     importlib.reload(crawler)
 
     with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
-         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
-         patch("crawler.INDUSTRY_KEYWORDS", []):
+         patch("crawler.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("crawler.CATEGORY_KEYWORDS", {}):
         crawler.datetime = mock_dt
         result = crawler.fetch_new_articles(set())
 
@@ -91,9 +92,51 @@ def test_fetch_new_articles_excludes_old_articles():
     importlib.reload(crawler)
 
     with patch("crawler.feedparser.parse", return_value=_mock_feed([old_entry])), \
-         patch("crawler.KEYWORDS", ["기계설비건설공제조합"]), \
-         patch("crawler.INDUSTRY_KEYWORDS", []):
+         patch("crawler.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("crawler.CATEGORY_KEYWORDS", {}):
         crawler.datetime = mock_dt
         result = crawler.fetch_new_articles(set())
 
     assert result == []
+
+
+def test_fetch_news_rss_attaches_category_for_company_keyword():
+    with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])):
+        import crawler
+        import importlib
+        importlib.reload(crawler)
+        result = crawler.fetch_news_rss("기계설비건설공제조합", category="조합", is_company=True)
+
+    assert result[0]["category"] == "조합"
+    assert result[0]["is_company"] is True
+
+
+def test_fetch_news_rss_attaches_category_for_industry_keyword():
+    with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])):
+        import crawler
+        import importlib
+        importlib.reload(crawler)
+        result = crawler.fetch_news_rss("건설 PF", category="시장·경기", is_company=False)
+
+    assert result[0]["category"] == "시장·경기"
+    assert result[0]["is_company"] is False
+
+
+def test_fetch_new_articles_uses_category_keywords_dict():
+    import crawler
+    import importlib
+
+    mock_dt = _make_datetime_mock()
+    test_category_keywords = {"시장·경기": ["건설 PF"]}
+
+    importlib.reload(crawler)
+
+    with patch("crawler.feedparser.parse", return_value=_mock_feed([MOCK_FEED_ENTRY])), \
+         patch("crawler.COMPANY_KEYWORDS", []), \
+         patch("crawler.CATEGORY_KEYWORDS", test_category_keywords):
+        crawler.datetime = mock_dt
+        result = crawler.fetch_new_articles(set())
+
+    assert len(result) == 1
+    assert result[0]["category"] == "시장·경기"
+    assert result[0]["is_company"] is False
