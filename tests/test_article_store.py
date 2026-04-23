@@ -46,6 +46,23 @@ def test_save_articles_truncates_to_max(tmp_path):
     assert len(result) == 10
 
 
+def test_save_articles_preserves_is_company_when_truncating(tmp_path):
+    articles_file = str(tmp_path / "articles.json")
+    items = (
+        [{"keyword": "kw", "is_company": True, "link": f"co{i}"} for i in range(8)]
+        + [{"keyword": "kw", "is_company": False, "link": f"o{i}"} for i in range(600)]
+    )
+    with patch("article_store.ARTICLES_FILE", articles_file), \
+         patch("article_store.MAX_ARTICLES", 50):
+        import article_store
+        article_store.save_articles(items)
+        result = article_store.load_articles()
+    company_kept = [a for a in result if a.get("is_company")]
+    assert len(company_kept) == 8       # 조합 기사 모두 보존
+    assert len(result) == 50            # 전체 limit 준수
+    assert sum(1 for a in result if not a.get("is_company")) == 42
+
+
 def test_add_articles_prepends_with_collected_at(tmp_path):
     articles_file = str(tmp_path / "articles.json")
     with patch("article_store.ARTICLES_FILE", articles_file):
