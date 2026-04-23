@@ -55,9 +55,22 @@
     nav .brand-logo { height: 28px; width: auto; display: block; }
     nav .brand-divider { color: var(--border); font-size: 14px; }
     nav .brand-title { font-size: 13px; font-weight: 800; color: var(--navy); letter-spacing: 1px; }
-    nav .last-updated { font-size: 11px; color: var(--muted); letter-spacing: 1px; }
+    nav .last-updated {
+      font-size: 12px; color: var(--navy); letter-spacing: 0.5px;
+      font-weight: 700;
+    }
+    nav .last-updated::before {
+      content: '●'; color: var(--cat-market); margin-right: 6px;
+      font-size: 8px; vertical-align: middle;
+      animation: pulse 2.4s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
     @media (max-width: 480px) {
       nav .brand-divider, nav .brand-title { display: none; }
+      nav .last-updated { font-size: 11px; }
     }
 
     .hero {
@@ -146,17 +159,42 @@
     }
     .search-input:focus { outline: none; border-color: var(--navy); }
     .chip {
-      padding: 7px 14px; border: 1px solid var(--border);
+      padding: 8px 15px; border: 1.5px solid #c7d0dd;
       border-radius: 100px; background: var(--white);
-      font-size: 12px; font-weight: 600; color: var(--sub);
+      font-size: 13px; font-weight: 700; color: var(--text);
       cursor: pointer; font-family: inherit;
       transition: all .15s ease;
+      display: inline-flex; align-items: center; gap: 4px;
     }
-    .chip:hover { border-color: var(--navy); color: var(--navy); }
-    .chip.active { background: var(--navy); color: #fff; border-color: var(--navy); }
-    .chip .count { opacity: 0.7; margin-left: 4px; font-size: 11px; }
+    .chip:hover {
+      border-color: var(--navy); color: var(--navy);
+      box-shadow: 0 2px 8px rgba(30,58,111,0.08);
+    }
+    .chip.active {
+      background: var(--navy); color: #fff; border-color: var(--navy);
+      box-shadow: 0 4px 12px rgba(30,58,111,0.18);
+    }
+    .chip .count { opacity: 0.65; font-size: 11px; font-weight: 600; }
+    .chip .caret {
+      font-size: 9px; opacity: 0.6;
+      transition: transform .15s ease;
+    }
+    .chip.active .caret { opacity: 0.9; }
+    .chip.expanded .caret { transform: rotate(180deg); }
+
+    /* Sub chip — smaller, subtler */
+    .chip.sub {
+      padding: 6px 12px; font-size: 12px;
+      border-color: var(--border); font-weight: 600;
+      color: var(--sub);
+    }
+    .chip.sub.active {
+      background: var(--blue-accent); border-color: var(--blue-accent);
+      box-shadow: 0 2px 8px rgba(74,123,200,0.25);
+    }
 
     .cat-group.hidden { display: none; }
+    .cat-group .filter-label { color: var(--blue-accent); }
 
     /* ===== Article Card ===== */
     .article {
@@ -179,6 +217,9 @@
       display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
       font-size: 11px; color: var(--muted);
       margin-bottom: 10px;
+    }
+    .article-meta .time {
+      color: var(--navy); font-weight: 700; font-size: 12px;
     }
     .imp-dots {
       letter-spacing: 1px; font-size: 10px;
@@ -244,12 +285,24 @@
     .top-section.company { border-left: 4px solid var(--cat-safety); }
     .top-section.company .sec-head h2 { color: var(--cat-safety); }
 
+    /* 톱 이슈 카드: 살짝 강조 (배경 + 좌측 보더 굵게 + 타이틀 키움) */
+    #company-top .article,
+    #category-top .article {
+      background: linear-gradient(180deg, #fafcff 0%, var(--white) 100%);
+      border-left-width: 4px;
+      padding: 24px 26px;
+    }
+    #company-top .article-title,
+    #category-top .article-title {
+      font-size: 17px; line-height: 1.45;
+    }
+
     .cat-top-head {
       display: flex; align-items: center; gap: 10px;
-      margin: 32px 0 12px;
+      margin: 32px 0 14px;
     }
     .cat-top-head h3 {
-      font-size: 16px; font-weight: 800; color: var(--navy);
+      font-size: 17px; font-weight: 900; color: var(--navy);
       letter-spacing: -0.3px;
     }
     .cat-top-head .rule { flex: 1; height: 1px; background: var(--border); }
@@ -291,12 +344,37 @@
     .weekly-item .brief { font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.7; }
 
     @media (max-width: 640px) {
-      nav { padding: 0 20px; }
-      .hero { padding: 110px 20px 40px; }
-      .container { padding: 0 20px; }
-      section { padding: 40px 0; }
-      .weekly-wrap { padding: 28px 20px; border-radius: 12px; }
+      nav { padding: 0 16px; height: 56px; }
+      .hero { padding: 96px 20px 36px; }
+      .hero-eyebrow { font-size: 10px; letter-spacing: 3px; margin-bottom: 12px; }
+      .hero-sub { font-size: 14px; }
+      .container { padding: 0 16px; }
+      section { padding: 36px 0; }
+
+      .filter-bar { top: 56px; padding: 12px 16px; }
+      .filter-bar-inner { gap: 10px; }
+      .filter-row { gap: 8px; }
+      .search-input { font-size: 16px; padding: 9px 12px; }  /* 16px 이상이라야 iOS 자동확대 안 됨 */
+      .filter-label { font-size: 9px; letter-spacing: 1.5px; }
+      .chip { padding: 7px 13px; font-size: 12px; }
+      .chip.sub { padding: 5px 11px; font-size: 11px; }
+
+      .article { padding: 18px 18px; }
+      #company-top .article,
+      #category-top .article { padding: 20px 20px; }
+      .article-title { font-size: 15px; }
+      #company-top .article-title,
+      #category-top .article-title { font-size: 16px; }
+      .article-summary { font-size: 13px; }
+
+      .top-section { padding: 22px 18px; }
+      .copy-btn { top: 14px; right: 14px; }
+
+      .weekly-wrap { padding: 28px 20px; border-radius: 12px; margin: 28px 16px; }
       .weekly-title { font-size: 20px; }
+      .weekly-item .headline { font-size: 15px; }
+
+      .sec-head h2 { font-size: 22px; margin-bottom: 28px; }
     }
   </style>
 </head>
@@ -340,23 +418,23 @@
       <div class="filter-row">
         <span class="filter-label">카테고리</span>
         <button class="chip active" data-group="all">전체</button>
-        <button class="chip" data-group="조합">조합</button>
-        <button class="chip" data-group="산업">산업</button>
+        <button class="chip" data-group="조합">조합 <span class="caret">▾</span></button>
+        <button class="chip" data-group="산업">산업 <span class="caret">▾</span></button>
         <button class="chip" data-group="종합건설사">종합건설사</button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-coop">
-        <span class="filter-label">조합</span>
-        <button class="chip" data-keyword="기계설비건설공제조합">기계설비 <span class="count"></span></button>
-        <button class="chip" data-keyword="엔지니어링공제조합">엔지니어링 <span class="count"></span></button>
-        <button class="chip" data-keyword="건설공제조합">건설 <span class="count"></span></button>
-        <button class="chip" data-keyword="전문건설공제조합">전문건설 <span class="count"></span></button>
+        <span class="filter-label">조합 ▸</span>
+        <button class="chip sub" data-keyword="기계설비건설공제조합">기계설비 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="엔지니어링공제조합">엔지니어링 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="건설공제조합">건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="전문건설공제조합">전문건설 <span class="count"></span></button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-industry">
-        <span class="filter-label">산업</span>
-        <button class="chip" data-cat="정책·규제">정책·규제 <span class="count"></span></button>
-        <button class="chip" data-cat="시장·경기">시장·경기 <span class="count"></span></button>
-        <button class="chip" data-cat="안전·사고">안전·사고 <span class="count"></span></button>
-        <button class="chip" data-cat="노동·인력">노동·인력 <span class="count"></span></button>
+        <span class="filter-label">산업 ▸</span>
+        <button class="chip sub" data-cat="정책·규제">정책·규제 <span class="count"></span></button>
+        <button class="chip sub" data-cat="시장·경기">시장·경기 <span class="count"></span></button>
+        <button class="chip sub" data-cat="안전·사고">안전·사고 <span class="count"></span></button>
+        <button class="chip sub" data-cat="노동·인력">노동·인력 <span class="count"></span></button>
       </div>
     </div>
   </div>
@@ -465,7 +543,7 @@
             <span class="cat-badge ${catClass}">${escapeHtml(cat)}</span>
             ${sentDot(a.sentiment)}
             ${publisher ? `<span>${escapeHtml(publisher)}</span><span class="meta-sep">·</span>` : ''}
-            <span>${escapeHtml(relativeTime(a.collected_at))}</span>
+            <span class="time">${escapeHtml(relativeTime(a.collected_at))}</span>
           </div>
           <div class="article-title">
             <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>
@@ -524,7 +602,11 @@
         c.classList.toggle('active', String(c.dataset.period) === String(state.period));
       });
       document.querySelectorAll('.chip[data-group]').forEach(c => {
-        c.classList.toggle('active', c.dataset.group === state.group && !state.cat && !state.keyword);
+        const isCurrentGroup = c.dataset.group === state.group;
+        c.classList.toggle('active', isCurrentGroup && !state.cat && !state.keyword);
+        // 펼친 상태(group 선택됨, sub 없음 또는 있음 무관) 일 때 caret 뒤집기
+        const expandable = c.dataset.group === '조합' || c.dataset.group === '산업';
+        c.classList.toggle('expanded', expandable && isCurrentGroup);
       });
       document.querySelectorAll('.chip[data-cat]').forEach(c => {
         c.classList.toggle('active', c.dataset.cat === state.cat);
