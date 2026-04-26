@@ -231,6 +231,13 @@
     .cat-group.hidden { display: none; }
     .cat-group .filter-label { color: var(--blue-accent); }
 
+    /* 좁은 화면에서 종합건설사 → 종건사 라벨 교체 */
+    .label-narrow { display: none; }
+    @media (max-width: 640px) {
+      .label-wide { display: none; }
+      .label-narrow { display: inline; }
+    }
+
     /* ===== Article Card ===== */
     .article {
       background: var(--white);
@@ -455,7 +462,7 @@
         <button class="chip active" data-group="all">전체</button>
         <button class="chip" data-group="조합">조합 <span class="caret">▾</span></button>
         <button class="chip" data-group="산업">산업 <span class="caret">▾</span></button>
-        <button class="chip" data-group="종합건설사">종합건설사</button>
+        <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span></button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-coop">
         <span class="filter-label">조합 ▸</span>
