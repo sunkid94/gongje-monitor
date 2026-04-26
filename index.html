@@ -94,20 +94,17 @@
     nav .notify-btn.granted { background: var(--bg-soft); border-color: var(--blue-accent); }
     nav .notify-btn:disabled { opacity: 0.5; cursor: progress; }
 
-    /* === 구독 토큰 표시 모달 === */
+    /* === 구독 토큰 표시 카드 (백드롭 없이 단순 고정) === */
     .sub-modal {
-      position: fixed; inset: 0; z-index: 300;
-      background: rgba(10, 24, 41, 0.55);
-      display: flex; align-items: center; justify-content: center;
-      padding: 16px;
-    }
-    .sub-modal[hidden] { display: none; }
-    .sub-modal-card {
-      background: var(--white); border-radius: 12px;
-      padding: 22px 22px 18px; max-width: 540px; width: 100%;
-      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.35);
+      position: fixed; top: 70px; left: 16px; right: 16px;
+      z-index: 9999; max-width: 540px; margin: 0 auto;
+      background: var(--white); border: 2px solid var(--navy);
+      border-radius: 12px; padding: 18px;
+      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.5);
       display: flex; flex-direction: column; gap: 12px;
     }
+    .sub-modal[hidden] { display: none; }
+    .sub-modal-card { display: contents; }
     .sub-modal-head {
       display: flex; align-items: center; justify-content: space-between;
       font-size: 15px; color: var(--navy);
@@ -563,7 +560,6 @@
       }
       .install-banner .install-text { font-size: 11.5px; }
       .install-banner .install-btn { padding: 5px 14px; font-size: 11.5px; }
-      .install-banner .install-dismiss { margin-left: auto; }
     }
     @media (max-width: 480px) {
       .install-banner { padding: 0 14px; }
@@ -1097,7 +1093,7 @@
         try {
           if (Notification.permission !== 'granted') {
             const result = await Notification.requestPermission();
-            if (result !== 'granted') return;
+            if (result !== 'granted') { btn.disabled = false; return; }
           }
           const reg = await navigator.serviceWorker.ready;
           let sub = await reg.pushManager.getSubscription();
@@ -1107,8 +1103,15 @@
               applicationServerKey: urlBase64ToUint8Array(window.VAPID_PUBLIC_KEY),
             });
           }
-          showModal(JSON.stringify(sub.toJSON(), null, 2));
+          const json = JSON.stringify(sub.toJSON(), null, 2);
+          showModal(json);
           applyState(true);
+          // 백업: 모달이 어떤 이유로 안 보이면 프롬프트로도 띄움 (텍스트 선택·복사 가능)
+          setTimeout(() => {
+            if (modal.hasAttribute('hidden')) {
+              try { window.prompt('알림 구독 토큰 (전체 복사):', json); } catch (_) {}
+            }
+          }, 300);
         } catch (err) {
           alert('구독 등록 중 오류: ' + (err && err.message ? err.message : err));
         } finally {
