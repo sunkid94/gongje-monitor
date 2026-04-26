@@ -1096,13 +1096,15 @@
             if (result !== 'granted') { btn.disabled = false; return; }
           }
           const reg = await navigator.serviceWorker.ready;
-          let sub = await reg.pushManager.getSubscription();
-          if (!sub) {
-            sub = await reg.pushManager.subscribe({
-              userVisibleOnly: true,
-              applicationServerKey: urlBase64ToUint8Array(window.VAPID_PUBLIC_KEY),
-            });
+          // 기존 구독이 있으면 강제로 해제 후 새로 등록 (옛 토큰이 만료된 경우 보호)
+          const existing = await reg.pushManager.getSubscription();
+          if (existing) {
+            try { await existing.unsubscribe(); } catch (_) {}
           }
+          const sub = await reg.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: urlBase64ToUint8Array(window.VAPID_PUBLIC_KEY),
+          });
           const json = JSON.stringify(sub.toJSON(), null, 2);
           showModal(json);
           applyState(true);
