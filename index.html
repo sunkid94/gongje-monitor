@@ -251,6 +251,47 @@
     .cat-group.hidden { display: none; }
     .cat-group .filter-label { color: var(--blue-accent); }
 
+    /* ===== Legend ===== */
+    .legend-wrap { padding-top: 12px; }
+    .legend-toggle {
+      font-size: 11px; font-weight: 700;
+      color: var(--muted); background: transparent;
+      border: none; padding: 6px 0;
+      cursor: pointer; font-family: inherit;
+      letter-spacing: 0.5px;
+    }
+    .legend-toggle:hover { color: var(--navy); }
+    .legend {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-size: 12px; color: var(--sub);
+      display: flex; flex-direction: column; gap: 10px;
+      margin-top: 6px;
+    }
+    .legend[hidden] { display: none; }
+    .legend-row {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 14px;
+    }
+    .legend-label {
+      font-weight: 800; color: var(--navy); letter-spacing: 1px;
+      font-size: 10px; min-width: 44px;
+    }
+    .legend-item {
+      display: inline-flex; align-items: center; gap: 5px;
+    }
+    .legend-imp {
+      font-size: 9px; color: var(--text); letter-spacing: -1px;
+    }
+    .legend-note { color: var(--muted); font-size: 11px; font-style: italic; }
+    @media (max-width: 640px) {
+      .legend { padding: 12px 14px; }
+      .legend-row { gap: 10px; }
+      .legend-item { font-size: 11.5px; }
+      .legend-note { display: none; }
+    }
+
     /* 좁은 화면에서 종합건설사 → 종건사 라벨 교체 */
     .label-narrow { display: none; }
     @media (max-width: 640px) {
@@ -562,6 +603,26 @@
   </div>
 
   <main class="container">
+
+    <div class="legend-wrap">
+      <button class="legend-toggle" id="legend-toggle" type="button" aria-expanded="false">ⓘ 표기 안내</button>
+      <div class="legend" id="legend" hidden>
+        <div class="legend-row">
+          <span class="legend-label">중요도</span>
+          <span class="legend-item"><span class="legend-imp">●●●</span> 핵심</span>
+          <span class="legend-item"><span class="legend-imp">●●</span> 중요</span>
+          <span class="legend-item"><span class="legend-imp">●</span> 일반</span>
+          <span class="legend-item legend-note">— AI가 조합·업계 영향도 기준으로 자동 판정</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-label">감정</span>
+          <span class="legend-item"><span class="sent-dot pos">●</span> 긍정 (조합·산업에 우호적 신호)</span>
+          <span class="legend-item"><span class="sent-dot neu">●</span> 중립 (사실 보도)</span>
+          <span class="legend-item"><span class="sent-dot neg">●</span> 부정 (사고·위기·규제 강화 등)</span>
+        </div>
+      </div>
+    </div>
+
     <section id="company-top" style="display:none">
       <div class="sec-num"><span class="dot" style="background:var(--cat-safety)"></span><span class="line" style="background:var(--cat-safety)"></span><span style="color:var(--cat-safety)">GUARANTEE FOCUS</span></div>
       <div class="sec-head"><h2>조합 이슈</h2></div>
@@ -746,14 +807,16 @@
     }
 
     function updateCatCounts() {
+      // 기간/검색 필터를 적용한 후 카테고리·키워드별로 집계 (현재 보이는 결과 기준 카운트)
+      const base = allArticles.filter(a => inPeriod(a.collected_at) && matchesQuery(a));
       INDUSTRY_CATS.forEach(cat => {
-        const n = allArticles.filter(a => a.category === cat).length;
+        const n = base.filter(a => a.category === cat).length;
         document.querySelectorAll(`.chip[data-cat="${cat}"] .count`).forEach(el => {
           el.textContent = `(${n})`;
         });
       });
       COOP_KEYWORDS.forEach(kw => {
-        const n = allArticles.filter(a => a.keyword === kw).length;
+        const n = base.filter(a => a.keyword === kw).length;
         document.querySelectorAll(`.chip[data-keyword="${kw}"] .count`).forEach(el => {
           el.textContent = `(${n})`;
         });
@@ -812,6 +875,7 @@
 
     function render() {
       const list = filtered();
+      updateCatCounts();
       renderCompanyTop(list);
       renderCategoryTop(list);
       const el = document.getElementById('articles');
@@ -892,6 +956,27 @@
         navigator.serviceWorker.register('sw.js').catch(() => {});
       });
     }
+  </script>
+
+  <script>
+    // 표기 안내 (ⓘ) 토글
+    (function () {
+      const t = document.getElementById('legend-toggle');
+      const p = document.getElementById('legend');
+      if (!t || !p) return;
+      t.addEventListener('click', () => {
+        const open = p.hasAttribute('hidden') ? false : true;
+        if (open) {
+          p.setAttribute('hidden', '');
+          t.setAttribute('aria-expanded', 'false');
+          t.textContent = 'ⓘ 표기 안내';
+        } else {
+          p.removeAttribute('hidden');
+          t.setAttribute('aria-expanded', 'true');
+          t.textContent = 'ⓘ 표기 안내 닫기';
+        }
+      });
+    })();
   </script>
 
   <script>
