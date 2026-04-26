@@ -919,13 +919,11 @@
         });
       }
 
-      // PWA로 처음 열렸다면(특히 iOS) → 알림 권한 자동 요청 (한 번만)
+      // PWA에서 열렸고 알림 권한이 아직 결정되지 않았다면 → OneSignal 슬라이드 트리거
+      // 사용자가 허용/차단을 명시적으로 결정할 때까지 매 진입마다 시도 (OneSignal 자체 쿨다운에 위임)
       if (isStandalone) {
-        if (!localStorage.getItem(PWA_PROMPTED_KEY)) {
-          if (typeof Notification !== 'undefined' && Notification.permission === 'default') {
-            triggerNotificationPrompt(2200);
-          }
-          localStorage.setItem(PWA_PROMPTED_KEY, '1');
+        if (typeof Notification !== 'undefined' && Notification.permission === 'default') {
+          triggerNotificationPrompt(2200);
         }
         return; // PWA 모드에서는 설치 배너 자체는 표시하지 않음
       }
