@@ -879,25 +879,59 @@
   </script>
 
   <script>
-    // 앱 설치 안내 배너 — Android Chrome은 자동 프롬프트 트리거, iOS는 수동 안내, 이미 설치/최근 닫음 시 숨김
+    // 앱 설치 안내 배너 + 설치 후 알림 권한 자동 연결
     (function () {
-      const isStandalone = window.matchMedia('(display-mode: standalone)').matches
-        || window.navigator.standalone === true;
-      if (isStandalone) return;
-
       const DISMISS_KEY = 'install-banner-dismissed-at';
       const DISMISS_DAYS = 7;
-      const dismissedAt = Number(localStorage.getItem(DISMISS_KEY) || 0);
-      if (dismissedAt && (Date.now() - dismissedAt) < DISMISS_DAYS * 86400000) return;
+      const PWA_PROMPTED_KEY = 'pwa-first-open-prompted';
 
       const banner = document.getElementById('install-banner');
       const installBtn = document.getElementById('install-btn');
       const dismissBtn = document.getElementById('install-dismiss');
       const textEl = document.getElementById('install-text');
-      if (!banner) return;
 
       const ua = navigator.userAgent;
       const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+      const isStandalone = window.matchMedia('(display-mode: standalone)').matches
+        || window.navigator.standalone === true;
+
+      // OneSignal 알림 권한 슬라이드/시스템 팝업 트리거
+      function triggerNotificationPrompt(delayMs) {
+        window.OneSignalDeferred = window.OneSignalDeferred || [];
+        window.OneSignalDeferred.push(async function (OneSignal) {
+          // 이미 결정된 상태(허용/차단)면 다시 묻지 않음
+          if (typeof Notification !== 'undefined'
+              && (Notification.permission === 'granted' || Notification.permission === 'denied')) {
+            return;
+          }
+          setTimeout(async function () {
+            try {
+              if (OneSignal.Slidedown && typeof OneSignal.Slidedown.promptPush === 'function') {
+                await OneSignal.Slidedown.promptPush();
+              } else if (OneSignal.Notifications && typeof OneSignal.Notifications.requestPermission === 'function') {
+                await OneSignal.Notifications.requestPermission();
+              }
+            } catch (_) { /* swallow */ }
+          }, delayMs || 1200);
+        });
+      }
+
+      // PWA로 처음 열렸다면(특히 iOS) → 알림 권한 자동 요청 (한 번만)
+      if (isStandalone) {
+        if (!localStorage.getItem(PWA_PROMPTED_KEY)) {
+          if (typeof Notification !== 'undefined' && Notification.permission === 'default') {
+            triggerNotificationPrompt(2200);
+          }
+          localStorage.setItem(PWA_PROMPTED_KEY, '1');
+        }
+        return; // PWA 모드에서는 설치 배너 자체는 표시하지 않음
+      }
+
+      if (!banner) return;
+
+      // 최근에 닫은 지 7일 이내면 배너 숨김
+      const dismissedAt = Number(localStorage.getItem(DISMISS_KEY) || 0);
+      if (dismissedAt && (Date.now() - dismissedAt) < DISMISS_DAYS * 86400000) return;
 
       let deferredPrompt = null;
 
@@ -914,7 +948,7 @@
         hide();
       }
 
-      // Android/Chrome 등: 표준 설치 프롬프트 가능
+      // Android/Chrome 계열: 표준 설치 프롬프트 가능
       window.addEventListener('beforeinstallprompt', (e) => {
         e.preventDefault();
         deferredPrompt = e;
@@ -927,22 +961,31 @@
       installBtn.addEventListener('click', async () => {
         if (!deferredPrompt) return;
         deferredPrompt.prompt();
-        try { await deferredPrompt.userChoice; } catch (_) {}
+        let outcome = null;
+        try { ({ outcome } = await deferredPrompt.userChoice); } catch (_) {}
         deferredPrompt = null;
         hide();
+        if (outcome === 'accepted') {
+          // 설치 직후 OneSignal 알림 권한 요청 (시스템이 설치 완료 처리할 시간 확보)
+          triggerNotificationPrompt(1500);
+        }
       });
 
       dismissBtn.addEventListener('click', dismiss);
 
-      // iOS Safari: beforeinstallprompt 미지원 → 수동 안내 표시
+      // iOS Safari: beforeinstallprompt 미지원 → 수동 안내. 설치는 사용자가 직접.
+      // 사용자가 홈 화면 추가 후 PWA로 열면 위 isStandalone 분기에서 알림 자동 요청됨.
       if (isIOS) {
         textEl.innerHTML = '📲 홈 화면에 추가: 하단 공유 <span style="font-weight:800">⤴︎</span> → "홈 화면에 추가"';
         installBtn.style.display = 'none';
         show();
       }
 
-      // 설치 완료되면 다시 안 띄움
-      window.addEventListener('appinstalled', dismiss);
+      // 안드로이드에서 사용자가 메뉴를 통해 설치하거나, 어떤 경로로든 설치 완료 시
+      window.addEventListener('appinstalled', () => {
+        dismiss();
+        triggerNotificationPrompt(1500);
+      });
     })();
   </script>
 
