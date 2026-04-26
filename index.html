@@ -434,8 +434,8 @@
       height: 44px;
       display: none;
       align-items: center; justify-content: flex-start;
-      gap: 12px;
-      padding-left: 40px; padding-right: 56px;
+      gap: 10px;
+      padding: 0 40px;
       background: linear-gradient(90deg, var(--navy) 0%, var(--navy-dark) 100%);
       color: #fff; font-size: 13px; font-weight: 600;
       letter-spacing: -0.2px;
@@ -455,8 +455,7 @@
     }
     .install-banner .install-btn:hover { background: var(--bg-soft); }
     .install-banner .install-dismiss {
-      position: absolute;
-      right: 14px; top: 50%; transform: translateY(-50%);
+      flex-shrink: 0;
       width: 26px; height: 26px; border-radius: 50%;
       border: none; background: rgba(255,255,255,0.12); color: #fff;
       font-size: 16px; line-height: 1; cursor: pointer; font-family: inherit;
@@ -471,14 +470,14 @@
       body.install-banner-visible .hero { padding-top: calc(96px + 44px); }
       .install-banner {
         font-size: 12px;
-        padding-left: 16px; padding-right: 48px;
-        gap: 10px;
+        padding: 0 16px;
+        gap: 8px;
       }
       .install-banner .install-text { font-size: 11.5px; }
       .install-banner .install-btn { padding: 5px 14px; font-size: 11.5px; }
     }
     @media (max-width: 480px) {
-      .install-banner { padding-left: 14px; padding-right: 44px; }
+      .install-banner { padding: 0 14px; }
     }
   </style>
 </head>
