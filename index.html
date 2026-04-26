@@ -427,9 +427,58 @@
 
       .sec-head h2 { font-size: 22px; margin-bottom: 28px; }
     }
+
+    /* ===== Install Banner ===== */
+    .install-banner {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+      height: 44px;
+      display: none;
+      align-items: center; justify-content: space-between;
+      gap: 8px; padding: 0 14px;
+      background: linear-gradient(90deg, var(--navy) 0%, var(--navy-dark) 100%);
+      color: #fff; font-size: 13px; font-weight: 600;
+      letter-spacing: -0.2px;
+      box-shadow: 0 2px 8px rgba(10, 24, 41, 0.15);
+    }
+    .install-banner.visible { display: flex; }
+    .install-banner .install-text {
+      flex: 1; min-width: 0;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .install-banner .install-btn {
+      flex-shrink: 0;
+      padding: 6px 14px; border: none; border-radius: 100px;
+      background: #fff; color: var(--navy);
+      font-weight: 800; font-size: 12px; font-family: inherit;
+      cursor: pointer; letter-spacing: 0.2px;
+    }
+    .install-banner .install-btn:hover { background: var(--bg-soft); }
+    .install-banner .install-dismiss {
+      flex-shrink: 0;
+      width: 28px; height: 28px; border-radius: 50%;
+      border: none; background: rgba(255,255,255,0.12); color: #fff;
+      font-size: 16px; line-height: 1; cursor: pointer; font-family: inherit;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .install-banner .install-dismiss:hover { background: rgba(255,255,255,0.22); }
+    body.install-banner-visible nav { top: 44px; }
+    body.install-banner-visible .filter-bar { top: calc(64px + 44px); }
+    body.install-banner-visible .hero { padding-top: calc(140px + 44px); }
+    @media (max-width: 640px) {
+      body.install-banner-visible .filter-bar { top: calc(56px + 44px); }
+      body.install-banner-visible .hero { padding-top: calc(96px + 44px); }
+      .install-banner { font-size: 12px; padding: 0 10px; }
+      .install-banner .install-btn { padding: 5px 12px; font-size: 11.5px; }
+    }
   </style>
 </head>
 <body>
+
+  <div id="install-banner" class="install-banner" role="region" aria-label="앱 설치 안내">
+    <span class="install-text" id="install-text">📲 이 사이트를 앱처럼 빠르게 — 홈 화면에 추가하세요.</span>
+    <button class="install-btn" id="install-btn" type="button">설치</button>
+    <button class="install-dismiss" id="install-dismiss" type="button" aria-label="닫기">×</button>
+  </div>
 
   <nav>
     <div class="brand-row">
@@ -529,9 +578,9 @@
       const d = new Date(utcIso);
       if (isNaN(d)) return '';
       const isNarrow = window.matchMedia('(max-width: 480px)').matches;
+      const pad = (n) => String(n).padStart(2, '0');
       if (isNarrow) {
-        const pad = (n) => String(n).padStart(2, '0');
-        return `${d.getMonth() + 1}.${d.getDate()} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+        return `${d.getMonth() + 1}월 ${d.getDate()}일 ${pad(d.getHours())}:${pad(d.getMinutes())}`;
       }
       return d.toLocaleDateString('ko-KR') + ' ' + d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
     }
@@ -821,6 +870,74 @@
         navigator.serviceWorker.register('sw.js').catch(() => {});
       });
     }
+  </script>
+
+  <script>
+    // 앱 설치 안내 배너 — Android Chrome은 자동 프롬프트 트리거, iOS는 수동 안내, 이미 설치/최근 닫음 시 숨김
+    (function () {
+      const isStandalone = window.matchMedia('(display-mode: standalone)').matches
+        || window.navigator.standalone === true;
+      if (isStandalone) return;
+
+      const DISMISS_KEY = 'install-banner-dismissed-at';
+      const DISMISS_DAYS = 7;
+      const dismissedAt = Number(localStorage.getItem(DISMISS_KEY) || 0);
+      if (dismissedAt && (Date.now() - dismissedAt) < DISMISS_DAYS * 86400000) return;
+
+      const banner = document.getElementById('install-banner');
+      const installBtn = document.getElementById('install-btn');
+      const dismissBtn = document.getElementById('install-dismiss');
+      const textEl = document.getElementById('install-text');
+      if (!banner) return;
+
+      const ua = navigator.userAgent;
+      const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+
+      let deferredPrompt = null;
+
+      function show() {
+        banner.classList.add('visible');
+        document.body.classList.add('install-banner-visible');
+      }
+      function hide() {
+        banner.classList.remove('visible');
+        document.body.classList.remove('install-banner-visible');
+      }
+      function dismiss() {
+        localStorage.setItem(DISMISS_KEY, String(Date.now()));
+        hide();
+      }
+
+      // Android/Chrome 등: 표준 설치 프롬프트 가능
+      window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+        textEl.textContent = '📲 이 사이트를 앱처럼 빠르게 — 홈 화면에 추가하세요.';
+        installBtn.textContent = '설치';
+        installBtn.style.display = '';
+        show();
+      });
+
+      installBtn.addEventListener('click', async () => {
+        if (!deferredPrompt) return;
+        deferredPrompt.prompt();
+        try { await deferredPrompt.userChoice; } catch (_) {}
+        deferredPrompt = null;
+        hide();
+      });
+
+      dismissBtn.addEventListener('click', dismiss);
+
+      // iOS Safari: beforeinstallprompt 미지원 → 수동 안내 표시
+      if (isIOS) {
+        textEl.innerHTML = '📲 홈 화면에 추가: 하단 공유 <span style="font-weight:800">⤴︎</span> → "홈 화면에 추가"';
+        installBtn.style.display = 'none';
+        show();
+      }
+
+      // 설치 완료되면 다시 안 띄움
+      window.addEventListener('appinstalled', dismiss);
+    })();
   </script>
 
 </body>
