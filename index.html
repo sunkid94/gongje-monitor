@@ -1096,7 +1096,6 @@
             if (result !== 'granted') { btn.disabled = false; return; }
           }
           const reg = await navigator.serviceWorker.ready;
-          // 기존 구독이 있으면 강제로 해제 후 새로 등록 (옛 토큰이 만료된 경우 보호)
           const existing = await reg.pushManager.getSubscription();
           if (existing) {
             try { await existing.unsubscribe(); } catch (_) {}
@@ -1105,15 +1104,27 @@
             userVisibleOnly: true,
             applicationServerKey: urlBase64ToUint8Array(window.VAPID_PUBLIC_KEY),
           });
-          const json = JSON.stringify(sub.toJSON(), null, 2);
-          showModal(json);
+          const json = JSON.stringify(sub.toJSON());
+
+          // 1순위: 클립보드 복사 (가장 단순)
+          let copied = false;
+          try {
+            await navigator.clipboard.writeText(json);
+            copied = true;
+          } catch (_) {}
+
+          // 모달도 띄움 (사용자가 화면에서도 확인 가능)
+          try { showModal(json); } catch (_) {}
+
+          // 클립보드 실패 시 prompt로 백업 표시
+          if (!copied) {
+            try { window.prompt('알림 구독 토큰 (선택해서 복사):', json); } catch (_) {}
+          } else {
+            setTimeout(() => {
+              alert('✓ 알림 구독 토큰이 클립보드에 복사되었습니다.\n\nGitHub Secret WEBPUSH_SUBSCRIPTIONS에 붙여넣어 주세요.\n(필요시 화면 상단 흰 카드에서도 다시 복사 가능)');
+            }, 100);
+          }
           applyState(true);
-          // 백업: 모달이 어떤 이유로 안 보이면 프롬프트로도 띄움 (텍스트 선택·복사 가능)
-          setTimeout(() => {
-            if (modal.hasAttribute('hidden')) {
-              try { window.prompt('알림 구독 토큰 (전체 복사):', json); } catch (_) {}
-            }
-          }, 300);
         } catch (err) {
           alert('구독 등록 중 오류: ' + (err && err.message ? err.message : err));
         } finally {
