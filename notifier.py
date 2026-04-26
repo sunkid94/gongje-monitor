@@ -1,19 +1,38 @@
-"""OneSignal Web Push 알림 발송 — 조합 관련 새 기사가 있을 때만 실행."""
+"""표준 Web Push (VAPID) 발송 — 새 조합 기사 발견 시 등록된 구독자 모두에게 푸시."""
+import json
 import logging
 import os
-from typing import Iterable
+from typing import Iterable, List
 
-import requests
+from pywebpush import webpush, WebPushException
 
 logger = logging.getLogger(__name__)
 
-ONESIGNAL_APP_ID = "0b046ff0-ddd8-46be-beb0-55eb415dc8ba"
-ONESIGNAL_API_URL = "https://onesignal.com/api/v1/notifications"
+VAPID_CLAIMS_EMAIL = "mailto:2wodms@gmail.com"
 SITE_URL = "https://sunkid94.github.io/gongje-monitor/"
-ICON_URL = SITE_URL + "icons/icon-192.png"
 
 
-def _build_payload(company_articles: list) -> dict:
+def _load_subscriptions() -> List[dict]:
+    """구독 토큰 목록을 환경변수에서 로드.
+
+    WEBPUSH_SUBSCRIPTIONS는 JSON — 단일 구독 객체 또는 객체 배열 모두 허용.
+    """
+    raw = (os.environ.get("WEBPUSH_SUBSCRIPTIONS") or "").strip()
+    if not raw:
+        return []
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError:
+        logger.error("WEBPUSH_SUBSCRIPTIONS JSON 파싱 실패")
+        return []
+    if isinstance(data, dict):
+        return [data]
+    if isinstance(data, list):
+        return data
+    return []
+
+
+def _build_payload(company_articles: List[dict]) -> str:
     n = len(company_articles)
     if n == 1:
         title = "[CIG] 새 조합 기사"
@@ -23,54 +42,44 @@ def _build_payload(company_articles: list) -> dict:
         body = " · ".join(a.get("title", "") for a in company_articles[:3])
         if n > 3:
             body += f" 외 {n - 3}건"
-
-    return {
-        "app_id": ONESIGNAL_APP_ID,
-        "included_segments": ["Subscribed Users"],
-        "headings": {"en": title, "ko": title},
-        "contents": {"en": body, "ko": body},
-        "url": SITE_URL,
-        "chrome_web_icon": ICON_URL,
-        "chrome_web_badge": ICON_URL,
-    }
+    return json.dumps(
+        {"title": title, "body": body, "url": SITE_URL, "tag": "cig-news"},
+        ensure_ascii=False,
+    )
 
 
 def send_company_push(articles: Iterable[dict]) -> None:
-    """is_company 기사 한 건이라도 있으면 전체 구독자에게 푸시 발송.
-
-    실패해도 메인 흐름을 막지 않도록 예외는 로그만 남기고 swallow.
-    """
-    company_articles = [a for a in articles if a.get("is_company")]
-    if not company_articles:
+    """is_company 기사가 한 건이라도 있으면 등록된 구독자 전원에게 푸시 발송."""
+    company = [a for a in articles if a.get("is_company")]
+    if not company:
         logger.info("조합 기사 없음 — 푸시 알림 건너뜀")
         return
 
-    api_key = os.environ.get("ONESIGNAL_REST_API_KEY")
-    if not api_key:
-        logger.warning("ONESIGNAL_REST_API_KEY 미설정 — 푸시 알림 건너뜀")
+    subs = _load_subscriptions()
+    if not subs:
+        logger.info("WEBPUSH_SUBSCRIPTIONS 미설정 — 푸시 알림 건너뜀")
         return
 
-    payload = _build_payload(company_articles)
-    headers = {
-        "Authorization": f"Basic {api_key}",
-        "Content-Type": "application/json; charset=utf-8",
-    }
+    private_key = (os.environ.get("VAPID_PRIVATE_KEY") or "").strip()
+    if not private_key:
+        logger.warning("VAPID_PRIVATE_KEY 미설정 — 푸시 알림 건너뜀")
+        return
 
-    try:
-        r = requests.post(ONESIGNAL_API_URL, json=payload, headers=headers, timeout=15)
-        r.raise_for_status()
-        data = r.json()
-        logger.info(
-            "OneSignal 푸시 발송: 조합 기사 %d건, OneSignal 응답 recipients=%s id=%s",
-            len(company_articles),
-            data.get("recipients"),
-            data.get("id"),
-        )
-    except requests.HTTPError as e:
-        logger.error(
-            "OneSignal 푸시 실패 (HTTP %s): %s",
-            getattr(e.response, "status_code", "?"),
-            getattr(e.response, "text", str(e)),
-        )
-    except Exception as e:
-        logger.error("OneSignal 푸시 실패: %s", e)
+    payload = _build_payload(company)
+    sent, failed = 0, 0
+    for sub in subs:
+        try:
+            webpush(
+                subscription_info=sub,
+                data=payload,
+                vapid_private_key=private_key,
+                vapid_claims={"sub": VAPID_CLAIMS_EMAIL},
+            )
+            sent += 1
+        except WebPushException as e:
+            failed += 1
+            endpoint = (sub.get("endpoint") or "")[:50]
+            status = getattr(e.response, "status_code", "?") if e.response is not None else "?"
+            logger.error("Web Push 발송 실패 (status=%s, endpoint=%s…): %s", status, endpoint, e)
+
+    logger.info("Web Push 발송 완료: 성공 %d / 실패 %d (조합 기사 %d건)", sent, failed, len(company))

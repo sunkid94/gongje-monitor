@@ -15,15 +15,9 @@
   <meta name="apple-mobile-web-app-title" content="CIG 이슈">
   <meta name="mobile-web-app-capable" content="yes">
 
-  <!-- OneSignal Web Push -->
-  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <!-- Web Push (VAPID) -->
   <script>
-    window.OneSignalDeferred = window.OneSignalDeferred || [];
-    OneSignalDeferred.push(async function(OneSignal) {
-      await OneSignal.init({
-        appId: "0b046ff0-ddd8-46be-beb0-55eb415dc8ba"
-      });
-    });
+    window.VAPID_PUBLIC_KEY = 'BMu3YxWERZsgH3-sbMdMSk3X5e4CllBnk56bd40SSHvQ1Qr0iTZTrV8EVO8wDsSx3zHwv8dLVGIpos4uLdvu2Yw';
   </script>
 
   <link href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/variable/pretendardvariable.min.css" rel="stylesheet">
@@ -99,6 +93,47 @@
     nav .notify-btn[hidden] { display: none; }
     nav .notify-btn.granted { background: var(--bg-soft); border-color: var(--blue-accent); }
     nav .notify-btn:disabled { opacity: 0.5; cursor: progress; }
+
+    /* === 구독 토큰 표시 모달 === */
+    .sub-modal {
+      position: fixed; inset: 0; z-index: 300;
+      background: rgba(10, 24, 41, 0.55);
+      display: flex; align-items: center; justify-content: center;
+      padding: 16px;
+    }
+    .sub-modal[hidden] { display: none; }
+    .sub-modal-card {
+      background: var(--white); border-radius: 12px;
+      padding: 22px 22px 18px; max-width: 540px; width: 100%;
+      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.35);
+      display: flex; flex-direction: column; gap: 12px;
+    }
+    .sub-modal-head {
+      display: flex; align-items: center; justify-content: space-between;
+      font-size: 15px; color: var(--navy);
+    }
+    .sub-modal-close {
+      width: 30px; height: 30px; border: none; border-radius: 50%;
+      background: var(--bg-soft); color: var(--sub);
+      font-size: 18px; cursor: pointer; font-family: inherit;
+    }
+    .sub-modal-help { font-size: 13px; color: var(--sub); line-height: 1.6; margin: 0; }
+    .sub-modal textarea {
+      width: 100%; min-height: 120px; max-height: 200px;
+      padding: 10px 12px; font-size: 11px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      border: 1px solid var(--border); border-radius: 8px;
+      background: var(--bg); color: var(--text);
+      resize: vertical; word-break: break-all;
+    }
+    .sub-modal-actions { display: flex; align-items: center; gap: 10px; }
+    .sub-modal-copy {
+      background: var(--navy); color: #fff; border: none;
+      padding: 9px 18px; border-radius: 100px;
+      font-weight: 800; font-size: 13px; cursor: pointer; font-family: inherit;
+    }
+    .sub-modal-copy:hover { background: var(--navy-dark); }
+    .sub-modal-status { font-size: 12px; color: var(--sent-pos); font-weight: 700; }
     @keyframes pulse {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.35; }
@@ -550,8 +585,23 @@
       <span class="brand-title">이슈 모니터</span>
     </div>
     <span class="last-updated" id="last-updated">로딩 중...</span>
-    <button id="notify-btn" class="notify-btn" type="button" aria-label="알림 받기" hidden>🔔</button>
+    <button id="notify-btn" class="notify-btn" type="button" aria-label="알림 받기">🔔</button>
   </nav>
+
+  <div id="sub-modal" class="sub-modal" hidden>
+    <div class="sub-modal-card">
+      <div class="sub-modal-head">
+        <strong>알림 구독 완료 — 관리자에게 보낼 코드</strong>
+        <button class="sub-modal-close" id="sub-modal-close" type="button" aria-label="닫기">×</button>
+      </div>
+      <p class="sub-modal-help">아래 텍스트를 통째로 복사해서 관리자(2wodms@gmail.com)에게 메일/메신저로 보내주세요. 관리자가 등록하면 새 조합 기사 발생 시 이 폰으로 알림이 옵니다.</p>
+      <textarea id="sub-modal-text" readonly></textarea>
+      <div class="sub-modal-actions">
+        <button class="sub-modal-copy" id="sub-modal-copy" type="button">📋 전체 복사</button>
+        <span class="sub-modal-status" id="sub-modal-status"></span>
+      </div>
+    </div>
+  </div>
 
   <header class="hero">
     <div class="hero-eyebrow">CIG ISSUE MONITOR</div>
@@ -953,8 +1003,11 @@
   </script>
 
   <script>
-    // 서비스워커 등록 — OneSignal SDK가 init 시점에 OneSignalSDKWorker.js를 등록하므로
-    // 별도 수동 등록은 하지 않음 (둘이 충돌 방지). PWA 캐시 코드는 OneSignalSDKWorker.js에 통합.
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js').catch(() => {});
+      });
+    }
   </script>
 
   <script>
@@ -979,62 +1032,91 @@
   </script>
 
   <script>
-    // nav의 🔔 버튼 — 항상 표시 (denied만 숨김). granted여도 클릭 시 OneSignal 구독 강제 재등록.
+    // 🔔 버튼 — 클릭 시 표준 Web Push 구독 → 토큰 JSON을 모달에 띄워 사용자가 관리자에게 전달
     (function () {
       const btn = document.getElementById('notify-btn');
       if (!btn) return;
-      if (typeof Notification === 'undefined') { btn.hidden = true; return; }
-
-      function applyState() {
-        if (Notification.permission === 'denied') {
-          btn.hidden = true;
-        } else {
-          btn.hidden = false;
-          btn.classList.toggle('granted', Notification.permission === 'granted');
-          btn.title = Notification.permission === 'granted' ? '알림 구독 재등록' : '알림 받기';
-        }
-      }
-      applyState();
-
-      async function fullSubscribe() {
-        return new Promise((resolve) => {
-          window.OneSignalDeferred = window.OneSignalDeferred || [];
-          window.OneSignalDeferred.push(async function (OneSignal) {
-            try {
-              if (Notification.permission !== 'granted'
-                  && OneSignal.Notifications
-                  && typeof OneSignal.Notifications.requestPermission === 'function') {
-                await OneSignal.Notifications.requestPermission();
-              }
-              if (OneSignal.User && OneSignal.User.PushSubscription
-                  && typeof OneSignal.User.PushSubscription.optIn === 'function') {
-                await OneSignal.User.PushSubscription.optIn();
-              }
-            } catch (_) {}
-            resolve();
-          });
-        });
+      if (typeof Notification === 'undefined' || !('serviceWorker' in navigator) || !('PushManager' in window)) {
+        btn.hidden = true; return;
       }
 
-      // 페이지 로드 시: 권한이 이미 granted인데 OneSignal 구독이 없으면 자동 복구
-      window.OneSignalDeferred = window.OneSignalDeferred || [];
-      window.OneSignalDeferred.push(async function (OneSignal) {
-        if (Notification.permission !== 'granted') return;
+      const modal = document.getElementById('sub-modal');
+      const modalText = document.getElementById('sub-modal-text');
+      const modalClose = document.getElementById('sub-modal-close');
+      const modalCopy = document.getElementById('sub-modal-copy');
+      const modalStatus = document.getElementById('sub-modal-status');
+
+      function urlBase64ToUint8Array(base64String) {
+        const padding = '='.repeat((4 - base64String.length % 4) % 4);
+        const base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+        const raw = atob(base64);
+        return Uint8Array.from(raw, (c) => c.charCodeAt(0));
+      }
+
+      function applyState(isSubscribed) {
+        if (Notification.permission === 'denied') { btn.hidden = true; return; }
+        btn.hidden = false;
+        btn.classList.toggle('granted', !!isSubscribed);
+        btn.title = isSubscribed ? '알림 구독 등록됨 — 다시 누르면 토큰 재표시' : '알림 받기';
+      }
+
+      async function getCurrentSub() {
         try {
-          const subId = OneSignal.User && OneSignal.User.PushSubscription
-            ? OneSignal.User.PushSubscription.id : null;
-          if (!subId && OneSignal.User && OneSignal.User.PushSubscription
-              && typeof OneSignal.User.PushSubscription.optIn === 'function') {
-            await OneSignal.User.PushSubscription.optIn();
-          }
-        } catch (_) {}
+          const reg = await navigator.serviceWorker.ready;
+          return await reg.pushManager.getSubscription();
+        } catch (_) { return null; }
+      }
+
+      async function refreshState() {
+        const sub = await getCurrentSub();
+        applyState(!!sub);
+        return sub;
+      }
+
+      function showModal(subJson) {
+        modalText.value = subJson;
+        modalStatus.textContent = '';
+        modal.removeAttribute('hidden');
+      }
+
+      modalClose.addEventListener('click', () => modal.setAttribute('hidden', ''));
+      modal.addEventListener('click', (e) => { if (e.target === modal) modal.setAttribute('hidden', ''); });
+      modalCopy.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(modalText.value);
+          modalStatus.textContent = '✓ 복사됨';
+        } catch (_) {
+          modalText.select();
+          document.execCommand('copy');
+          modalStatus.textContent = '✓ 복사됨';
+        }
       });
 
-      btn.addEventListener('click', async function () {
+      btn.addEventListener('click', async () => {
         btn.disabled = true;
-        await fullSubscribe();
-        setTimeout(() => { applyState(); btn.disabled = false; }, 1500);
+        try {
+          if (Notification.permission !== 'granted') {
+            const result = await Notification.requestPermission();
+            if (result !== 'granted') return;
+          }
+          const reg = await navigator.serviceWorker.ready;
+          let sub = await reg.pushManager.getSubscription();
+          if (!sub) {
+            sub = await reg.pushManager.subscribe({
+              userVisibleOnly: true,
+              applicationServerKey: urlBase64ToUint8Array(window.VAPID_PUBLIC_KEY),
+            });
+          }
+          showModal(JSON.stringify(sub.toJSON(), null, 2));
+          applyState(true);
+        } catch (err) {
+          alert('구독 등록 중 오류: ' + (err && err.message ? err.message : err));
+        } finally {
+          btn.disabled = false;
+        }
       });
+
+      refreshState();
     })();
   </script>
 
@@ -1055,37 +1137,9 @@
       const isStandalone = window.matchMedia('(display-mode: standalone)').matches
         || window.navigator.standalone === true;
 
-      // 알림 권한 요청 + OneSignal 명시적 opt-in (구독 등록까지 강제)
-      function triggerNotificationPrompt(delayMs) {
-        window.OneSignalDeferred = window.OneSignalDeferred || [];
-        window.OneSignalDeferred.push(async function (OneSignal) {
-          if (typeof Notification !== 'undefined' && Notification.permission === 'denied') return;
-          setTimeout(async function () {
-            try {
-              // 1) 권한 요청 (이미 granted여도 호출 무해)
-              if (OneSignal.Notifications && typeof OneSignal.Notifications.requestPermission === 'function') {
-                await OneSignal.Notifications.requestPermission();
-              } else if (typeof Notification !== 'undefined' && Notification.requestPermission) {
-                await Notification.requestPermission();
-              }
-              // 2) OneSignal에 명시적 구독 등록 (v16에서 권한만으로 자동 구독 안 되는 케이스 보완)
-              if (OneSignal.User && OneSignal.User.PushSubscription
-                  && typeof OneSignal.User.PushSubscription.optIn === 'function') {
-                await OneSignal.User.PushSubscription.optIn();
-              }
-            } catch (_) { /* swallow */ }
-          }, delayMs || 1200);
-        });
-      }
-
-      // PWA에서 열렸고 알림 권한이 아직 결정되지 않았다면 → OneSignal 슬라이드 트리거
-      // 사용자가 허용/차단을 명시적으로 결정할 때까지 매 진입마다 시도 (OneSignal 자체 쿨다운에 위임)
-      if (isStandalone) {
-        if (typeof Notification !== 'undefined' && Notification.permission === 'default') {
-          triggerNotificationPrompt(2200);
-        }
-        return; // PWA 모드에서는 설치 배너 자체는 표시하지 않음
-      }
+      // PWA(standalone) 모드에서는 설치 배너 자체를 표시하지 않음
+      // 알림 구독은 nav의 🔔 버튼을 통해 사용자가 명시적으로 진행
+      if (isStandalone) return;
 
       if (!banner) return;
 
@@ -1125,14 +1179,9 @@
       installBtn.addEventListener('click', async () => {
         if (!deferredPrompt) return;
         deferredPrompt.prompt();
-        let outcome = null;
-        try { ({ outcome } = await deferredPrompt.userChoice); } catch (_) {}
+        try { await deferredPrompt.userChoice; } catch (_) {}
         deferredPrompt = null;
         hide();
-        if (outcome === 'accepted') {
-          // 설치 직후 OneSignal 알림 권한 요청 (시스템이 설치 완료 처리할 시간 확보)
-          triggerNotificationPrompt(1500);
-        }
       });
 
       dismissBtn.addEventListener('click', dismiss);
@@ -1147,11 +1196,7 @@
         show();
       }
 
-      // 안드로이드에서 사용자가 메뉴를 통해 설치하거나, 어떤 경로로든 설치 완료 시
-      window.addEventListener('appinstalled', () => {
-        dismiss();
-        triggerNotificationPrompt(1500);
-      });
+      window.addEventListener('appinstalled', dismiss);
     })();
   </script>
 
