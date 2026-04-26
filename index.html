@@ -21,9 +21,7 @@
     window.OneSignalDeferred = window.OneSignalDeferred || [];
     OneSignalDeferred.push(async function(OneSignal) {
       await OneSignal.init({
-        appId: "0b046ff0-ddd8-46be-beb0-55eb415dc8ba",
-        serviceWorkerPath: "sw.js",
-        serviceWorkerParam: { scope: "./" }
+        appId: "0b046ff0-ddd8-46be-beb0-55eb415dc8ba"
       });
     });
   </script>
@@ -99,6 +97,8 @@
     }
     nav .notify-btn:hover { background: var(--bg-soft); border-color: var(--navy); }
     nav .notify-btn[hidden] { display: none; }
+    nav .notify-btn.granted { opacity: 0.4; cursor: default; }
+    nav .notify-btn.granted:hover { background: var(--white); border-color: var(--border); }
     @keyframes pulse {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.35; }
@@ -953,11 +953,8 @@
   </script>
 
   <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('sw.js').catch(() => {});
-      });
-    }
+    // 서비스워커 등록 — OneSignal SDK가 init 시점에 OneSignalSDKWorker.js를 등록하므로
+    // 별도 수동 등록은 하지 않음 (둘이 충돌 방지). PWA 캐시 코드는 OneSignalSDKWorker.js에 통합.
   </script>
 
   <script>
@@ -982,22 +979,25 @@
   </script>
 
   <script>
-    // nav의 🔔 버튼 — 알림 권한이 아직 결정되지 않은 사용자에게만 표시, 클릭 시 시스템 권한 팝업
+    // nav의 🔔 버튼 — 항상 표시, 깜빡임 방지. 차단 상태일 때만 숨김. 허용 후엔 흐릿하게 비활성.
     (function () {
       const btn = document.getElementById('notify-btn');
       if (!btn) return;
+      if (typeof Notification === 'undefined') { btn.hidden = true; return; }
 
-      function refresh() {
-        if (typeof Notification === 'undefined') {
+      function applyState() {
+        if (Notification.permission === 'denied') {
           btn.hidden = true;
-          return;
+        } else {
+          btn.hidden = false;
+          btn.classList.toggle('granted', Notification.permission === 'granted');
+          btn.title = Notification.permission === 'granted' ? '알림 허용됨' : '알림 받기';
         }
-        btn.hidden = (Notification.permission !== 'default');
       }
-
-      refresh();
+      applyState();
 
       btn.addEventListener('click', function () {
+        if (Notification.permission === 'granted') return;
         window.OneSignalDeferred = window.OneSignalDeferred || [];
         window.OneSignalDeferred.push(async function (OneSignal) {
           try {
@@ -1011,12 +1011,9 @@
               await OneSignal.User.PushSubscription.optIn();
             }
           } catch (_) {}
-          setTimeout(refresh, 1500);
+          setTimeout(applyState, 1500);
         });
       });
-
-      // 권한이 외부에서 바뀌었을 수 있으니 페이지 포커스 시 재확인
-      window.addEventListener('focus', refresh);
     })();
   </script>
 
