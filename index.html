@@ -94,12 +94,21 @@
     }
     @media (max-width: 480px) {
       nav .brand-divider, nav .brand-title { display: none; }
-      nav { justify-content: flex-start; gap: 10px; }
-      nav .brand-row { gap: 8px; }
+      nav {
+        justify-content: flex-start; gap: 10px;
+        padding: 0 14px;
+        overflow: hidden;
+      }
+      nav .brand-row { gap: 8px; flex-shrink: 0; }
+      nav .brand-logo { height: 22px; }
       nav .last-updated {
-        font-size: 12px;
+        font-size: 11.5px;
         padding-left: 10px;
         border-left: 1px solid var(--border);
+        white-space: nowrap;
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
       }
     }
 
@@ -519,6 +528,11 @@
       const utcIso = /[Zz]|[+-]\d{2}:?\d{2}$/.test(iso) ? iso : iso + 'Z';
       const d = new Date(utcIso);
       if (isNaN(d)) return '';
+      const isNarrow = window.matchMedia('(max-width: 480px)').matches;
+      if (isNarrow) {
+        const pad = (n) => String(n).padStart(2, '0');
+        return `${d.getMonth() + 1}.${d.getDate()} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+      }
       return d.toLocaleDateString('ko-KR') + ' ' + d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
     }
 
