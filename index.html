@@ -1130,5 +1130,91 @@
     })();
   </script>
 
+  <script>
+    // 진단 패널 — URL에 ?diag 또는 #diag 가 있을 때 화면 우상단에 OneSignal/SW 상태 표시
+    (function () {
+      const wantDiag = /[?&]diag\b|#diag\b/.test(location.href);
+      if (!wantDiag) return;
+
+      const box = document.createElement('div');
+      box.id = 'diag-box';
+      box.style.cssText = [
+        'position:fixed','top:80px','right:12px','left:12px','z-index:9999',
+        'max-width:520px','margin-left:auto',
+        'background:#0A1829','color:#fff',
+        'border-radius:10px','padding:14px 16px',
+        'font-family:ui-monospace,SFMono-Regular,Menlo,monospace',
+        'font-size:12px','line-height:1.55',
+        'box-shadow:0 8px 24px rgba(0,0,0,0.35)',
+        'white-space:pre-wrap','word-break:break-all'
+      ].join(';');
+      box.textContent = '진단 데이터 수집 중…';
+      document.body.appendChild(box);
+
+      function row(label, value) {
+        const v = (value === undefined || value === null) ? String(value) : String(value);
+        return label.padEnd(28, ' ') + ' :  ' + v;
+      }
+
+      async function collect() {
+        const lines = [];
+        lines.push('=== CIG 이슈 모니터 진단 ===');
+        lines.push(row('현재 URL', location.href));
+        lines.push(row('표준 PWA 모드', String(window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true)));
+        lines.push(row('Notification.permission', (typeof Notification !== 'undefined') ? Notification.permission : '없음(미지원)'));
+        lines.push(row('typeof OneSignal', String(typeof window.OneSignal)));
+        lines.push(row('OneSignalDeferred 큐', String((window.OneSignalDeferred || []).length)));
+        lines.push(row('UA', navigator.userAgent.slice(0, 80) + '…'));
+
+        // Service Worker
+        try {
+          if (!('serviceWorker' in navigator)) {
+            lines.push(row('SW 지원', 'NO'));
+          } else {
+            const regs = await navigator.serviceWorker.getRegistrations();
+            lines.push(row('SW 등록 수', String(regs.length)));
+            regs.forEach((r, i) => {
+              const sw = r.active || r.installing || r.waiting;
+              lines.push(row(`  [${i}] scope`, r.scope));
+              lines.push(row(`  [${i}] state`, sw ? sw.state : '없음'));
+              lines.push(row(`  [${i}] script URL`, sw ? sw.scriptURL : '없음'));
+            });
+            const ctrl = navigator.serviceWorker.controller;
+            lines.push(row('controller', ctrl ? ctrl.scriptURL : 'NULL'));
+          }
+        } catch (e) {
+          lines.push(row('SW 조회 실패', String(e)));
+        }
+
+        // OneSignal 상세
+        try {
+          if (window.OneSignal) {
+            const id = (window.OneSignal.User && window.OneSignal.User.PushSubscription)
+              ? window.OneSignal.User.PushSubscription.id : '(접근 불가)';
+            const optedIn = (window.OneSignal.User && window.OneSignal.User.PushSubscription)
+              ? window.OneSignal.User.PushSubscription.optedIn : '(접근 불가)';
+            const token = (window.OneSignal.User && window.OneSignal.User.PushSubscription)
+              ? (window.OneSignal.User.PushSubscription.token || '(없음)') : '(접근 불가)';
+            lines.push(row('OneSignal subscription.id', String(id)));
+            lines.push(row('OneSignal optedIn', String(optedIn)));
+            lines.push(row('OneSignal token', String(token).slice(0, 40) + (String(token).length > 40 ? '…' : '')));
+          } else {
+            lines.push(row('OneSignal SDK', '아직 로드 안 됨 (또는 init 실패)'));
+          }
+        } catch (e) {
+          lines.push(row('OneSignal 조회 실패', String(e)));
+        }
+
+        box.textContent = lines.join('\n');
+      }
+
+      // 초기 1회 + OneSignal 로드 후 1회 더
+      collect();
+      setTimeout(collect, 2500);
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+      window.OneSignalDeferred.push(() => setTimeout(collect, 1000));
+    })();
+  </script>
+
 </body>
 </html>
