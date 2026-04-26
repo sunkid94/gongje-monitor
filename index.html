@@ -467,8 +467,14 @@
     @media (max-width: 640px) {
       body.install-banner-visible .filter-bar { top: calc(56px + 44px); }
       body.install-banner-visible .hero { padding-top: calc(96px + 44px); }
-      .install-banner { font-size: 12px; padding: 0 10px; }
-      .install-banner .install-btn { padding: 5px 12px; font-size: 11.5px; }
+      .install-banner {
+        font-size: 12px;
+        padding-left: 14px; padding-right: 18px;
+        gap: 12px;
+      }
+      .install-banner .install-text { font-size: 11.5px; }
+      .install-banner .install-btn { padding: 5px 14px; font-size: 11.5px; }
+      .install-banner .install-dismiss { width: 26px; height: 26px; font-size: 15px; }
     }
   </style>
 </head>
