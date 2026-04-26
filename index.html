@@ -433,8 +433,8 @@
       position: fixed; top: 0; left: 0; right: 0; z-index: 200;
       height: 44px;
       display: none;
-      align-items: center; justify-content: space-between;
-      gap: 8px; padding: 0 14px;
+      align-items: center; justify-content: center;
+      gap: 12px; padding: 0 56px;
       background: linear-gradient(90deg, var(--navy) 0%, var(--navy-dark) 100%);
       color: #fff; font-size: 13px; font-weight: 600;
       letter-spacing: -0.2px;
@@ -442,20 +442,21 @@
     }
     .install-banner.visible { display: flex; }
     .install-banner .install-text {
-      flex: 1; min-width: 0;
+      min-width: 0;
       white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     }
     .install-banner .install-btn {
       flex-shrink: 0;
-      padding: 6px 14px; border: none; border-radius: 100px;
+      padding: 6px 16px; border: none; border-radius: 100px;
       background: #fff; color: var(--navy);
       font-weight: 800; font-size: 12px; font-family: inherit;
       cursor: pointer; letter-spacing: 0.2px;
     }
     .install-banner .install-btn:hover { background: var(--bg-soft); }
     .install-banner .install-dismiss {
-      flex-shrink: 0;
-      width: 28px; height: 28px; border-radius: 50%;
+      position: absolute;
+      right: 14px; top: 50%; transform: translateY(-50%);
+      width: 26px; height: 26px; border-radius: 50%;
       border: none; background: rgba(255,255,255,0.12); color: #fff;
       font-size: 16px; line-height: 1; cursor: pointer; font-family: inherit;
       display: flex; align-items: center; justify-content: center;
@@ -469,12 +470,11 @@
       body.install-banner-visible .hero { padding-top: calc(96px + 44px); }
       .install-banner {
         font-size: 12px;
-        padding-left: 14px; padding-right: 18px;
-        gap: 12px;
+        padding: 0 48px;
+        gap: 10px;
       }
       .install-banner .install-text { font-size: 11.5px; }
       .install-banner .install-btn { padding: 5px 14px; font-size: 11.5px; }
-      .install-banner .install-dismiss { width: 26px; height: 26px; font-size: 15px; }
     }
   </style>
 </head>
@@ -949,10 +949,14 @@
       }
 
       // Android/Chrome 계열: 표준 설치 프롬프트 가능
+      const isNarrow = window.matchMedia('(max-width: 480px)').matches;
+
       window.addEventListener('beforeinstallprompt', (e) => {
         e.preventDefault();
         deferredPrompt = e;
-        textEl.textContent = '📲 이 사이트를 앱처럼 빠르게 — 홈 화면에 추가하세요.';
+        textEl.textContent = isNarrow
+          ? '📲 앱으로 더 편하게'
+          : '📲 이 사이트를 앱처럼 빠르게 — 홈 화면에 추가하세요.';
         installBtn.textContent = '설치';
         installBtn.style.display = '';
         show();
@@ -976,7 +980,9 @@
       // iOS Safari: beforeinstallprompt 미지원 → 수동 안내. 설치는 사용자가 직접.
       // 사용자가 홈 화면 추가 후 PWA로 열면 위 isStandalone 분기에서 알림 자동 요청됨.
       if (isIOS) {
-        textEl.innerHTML = '📲 홈 화면에 추가: 하단 공유 <span style="font-weight:800">⤴︎</span> → "홈 화면에 추가"';
+        textEl.innerHTML = isNarrow
+          ? '📲 공유 <span style="font-weight:800">⤴︎</span> → 홈 화면에 추가'
+          : '📲 홈 화면에 추가: 하단 공유 <span style="font-weight:800">⤴︎</span> → "홈 화면에 추가"';
         installBtn.style.display = 'none';
         show();
       }
