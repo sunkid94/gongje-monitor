@@ -97,8 +97,8 @@
     }
     nav .notify-btn:hover { background: var(--bg-soft); border-color: var(--navy); }
     nav .notify-btn[hidden] { display: none; }
-    nav .notify-btn.granted { opacity: 0.4; cursor: default; }
-    nav .notify-btn.granted:hover { background: var(--white); border-color: var(--border); }
+    nav .notify-btn.granted { background: var(--bg-soft); border-color: var(--blue-accent); }
+    nav .notify-btn:disabled { opacity: 0.5; cursor: progress; }
     @keyframes pulse {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.35; }
@@ -979,7 +979,7 @@
   </script>
 
   <script>
-    // nav의 🔔 버튼 — 항상 표시, 깜빡임 방지. 차단 상태일 때만 숨김. 허용 후엔 흐릿하게 비활성.
+    // nav의 🔔 버튼 — 항상 표시 (denied만 숨김). granted여도 클릭 시 OneSignal 구독 강제 재등록.
     (function () {
       const btn = document.getElementById('notify-btn');
       if (!btn) return;
@@ -991,28 +991,49 @@
         } else {
           btn.hidden = false;
           btn.classList.toggle('granted', Notification.permission === 'granted');
-          btn.title = Notification.permission === 'granted' ? '알림 허용됨' : '알림 받기';
+          btn.title = Notification.permission === 'granted' ? '알림 구독 재등록' : '알림 받기';
         }
       }
       applyState();
 
-      btn.addEventListener('click', function () {
-        if (Notification.permission === 'granted') return;
-        window.OneSignalDeferred = window.OneSignalDeferred || [];
-        window.OneSignalDeferred.push(async function (OneSignal) {
-          try {
-            if (OneSignal.Notifications && typeof OneSignal.Notifications.requestPermission === 'function') {
-              await OneSignal.Notifications.requestPermission();
-            } else if (Notification.requestPermission) {
-              await Notification.requestPermission();
-            }
-            if (OneSignal.User && OneSignal.User.PushSubscription
-                && typeof OneSignal.User.PushSubscription.optIn === 'function') {
-              await OneSignal.User.PushSubscription.optIn();
-            }
-          } catch (_) {}
-          setTimeout(applyState, 1500);
+      async function fullSubscribe() {
+        return new Promise((resolve) => {
+          window.OneSignalDeferred = window.OneSignalDeferred || [];
+          window.OneSignalDeferred.push(async function (OneSignal) {
+            try {
+              if (Notification.permission !== 'granted'
+                  && OneSignal.Notifications
+                  && typeof OneSignal.Notifications.requestPermission === 'function') {
+                await OneSignal.Notifications.requestPermission();
+              }
+              if (OneSignal.User && OneSignal.User.PushSubscription
+                  && typeof OneSignal.User.PushSubscription.optIn === 'function') {
+                await OneSignal.User.PushSubscription.optIn();
+              }
+            } catch (_) {}
+            resolve();
+          });
         });
+      }
+
+      // 페이지 로드 시: 권한이 이미 granted인데 OneSignal 구독이 없으면 자동 복구
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+      window.OneSignalDeferred.push(async function (OneSignal) {
+        if (Notification.permission !== 'granted') return;
+        try {
+          const subId = OneSignal.User && OneSignal.User.PushSubscription
+            ? OneSignal.User.PushSubscription.id : null;
+          if (!subId && OneSignal.User && OneSignal.User.PushSubscription
+              && typeof OneSignal.User.PushSubscription.optIn === 'function') {
+            await OneSignal.User.PushSubscription.optIn();
+          }
+        } catch (_) {}
+      });
+
+      btn.addEventListener('click', async function () {
+        btn.disabled = true;
+        await fullSubscribe();
+        setTimeout(() => { applyState(); btn.disabled = false; }, 1500);
       });
     })();
   </script>
