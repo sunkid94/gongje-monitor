@@ -1006,8 +1006,12 @@
             } else if (Notification.requestPermission) {
               await Notification.requestPermission();
             }
+            if (OneSignal.User && OneSignal.User.PushSubscription
+                && typeof OneSignal.User.PushSubscription.optIn === 'function') {
+              await OneSignal.User.PushSubscription.optIn();
+            }
           } catch (_) {}
-          setTimeout(refresh, 800);
+          setTimeout(refresh, 1500);
         });
       });
 
@@ -1033,20 +1037,23 @@
       const isStandalone = window.matchMedia('(display-mode: standalone)').matches
         || window.navigator.standalone === true;
 
-      // 알림 권한 요청 — OneSignal 슬라이드는 페이지 하단 렌더링 이슈가 있어 시스템 권한 팝업을 바로 호출
+      // 알림 권한 요청 + OneSignal 명시적 opt-in (구독 등록까지 강제)
       function triggerNotificationPrompt(delayMs) {
         window.OneSignalDeferred = window.OneSignalDeferred || [];
         window.OneSignalDeferred.push(async function (OneSignal) {
-          if (typeof Notification !== 'undefined'
-              && (Notification.permission === 'granted' || Notification.permission === 'denied')) {
-            return;
-          }
+          if (typeof Notification !== 'undefined' && Notification.permission === 'denied') return;
           setTimeout(async function () {
             try {
+              // 1) 권한 요청 (이미 granted여도 호출 무해)
               if (OneSignal.Notifications && typeof OneSignal.Notifications.requestPermission === 'function') {
                 await OneSignal.Notifications.requestPermission();
               } else if (typeof Notification !== 'undefined' && Notification.requestPermission) {
                 await Notification.requestPermission();
+              }
+              // 2) OneSignal에 명시적 구독 등록 (v16에서 권한만으로 자동 구독 안 되는 케이스 보완)
+              if (OneSignal.User && OneSignal.User.PushSubscription
+                  && typeof OneSignal.User.PushSubscription.optIn === 'function') {
+                await OneSignal.User.PushSubscription.optIn();
               }
             } catch (_) { /* swallow */ }
           }, delayMs || 1200);
