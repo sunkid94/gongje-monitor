@@ -1131,9 +1131,14 @@
   </script>
 
   <script>
-    // 진단 패널 — URL에 ?diag 또는 #diag 가 있을 때 화면 우상단에 OneSignal/SW 상태 표시
+    // 진단 패널 — URL에 ?diag 또는 #diag 가 있으면 활성화, localStorage에 저장하여 PWA에서도 유지
     (function () {
-      const wantDiag = /[?&]diag\b|#diag\b/.test(location.href);
+      const STORE = 'cig-diag-on';
+      const offMatch = /[?&#]diag=off\b/.test(location.href);
+      const onMatch = /[?&]diag(=on|=1)?\b|#diag\b/.test(location.href);
+      if (offMatch) { try { localStorage.removeItem(STORE); } catch (_) {} return; }
+      if (onMatch) { try { localStorage.setItem(STORE, '1'); } catch (_) {} }
+      const wantDiag = onMatch || (function(){ try { return localStorage.getItem(STORE) === '1'; } catch (_) { return false; } })();
       if (!wantDiag) return;
 
       const box = document.createElement('div');
@@ -1148,7 +1153,32 @@
         'box-shadow:0 8px 24px rgba(0,0,0,0.35)',
         'white-space:pre-wrap','word-break:break-all'
       ].join(';');
-      box.textContent = '진단 데이터 수집 중…';
+
+      const ctrl = document.createElement('div');
+      ctrl.style.cssText = 'display:flex;gap:6px;justify-content:flex-end;margin-bottom:8px';
+      const mkBtn = (label) => {
+        const b = document.createElement('button');
+        b.textContent = label;
+        b.style.cssText = 'background:#1E3A6F;color:#fff;border:none;padding:6px 10px;border-radius:6px;font-size:11px;cursor:pointer;font-family:inherit';
+        return b;
+      };
+      const refreshBtn = mkBtn('새로고침');
+      const closeBtn = mkBtn('진단 끄기');
+      refreshBtn.addEventListener('click', () => collect());
+      closeBtn.addEventListener('click', () => {
+        try { localStorage.removeItem(STORE); } catch (_) {}
+        box.remove();
+      });
+      ctrl.appendChild(refreshBtn);
+      ctrl.appendChild(closeBtn);
+
+      const pre = document.createElement('pre');
+      pre.id = 'diag-pre';
+      pre.style.cssText = 'margin:0;white-space:pre-wrap;word-break:break-all;font-family:inherit;font-size:inherit;color:inherit';
+      pre.textContent = '진단 데이터 수집 중…';
+
+      box.appendChild(ctrl);
+      box.appendChild(pre);
       document.body.appendChild(box);
 
       function row(label, value) {
@@ -1205,7 +1235,7 @@
           lines.push(row('OneSignal 조회 실패', String(e)));
         }
 
-        box.textContent = lines.join('\n');
+        pre.textContent = lines.join('\n');
       }
 
       // 초기 1회 + OneSignal 로드 후 1회 더
