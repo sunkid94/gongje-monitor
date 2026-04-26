@@ -4,6 +4,7 @@ from article_store import add_articles
 from crawler import fetch_new_articles
 from enrich import enrich_articles
 from mailer import send_email
+from notifier import send_company_push
 from seen_store import load_seen, save_seen
 
 logging.basicConfig(
@@ -28,6 +29,7 @@ def main() -> None:
     send_email(enriched)
     save_seen(seen | new_urls)
     add_articles(enriched)
+    send_company_push(enriched)
     logger.info("%d건 이슈 이메일 발송 완료.", len(enriched))
 
 

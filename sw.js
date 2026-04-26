@@ -1,3 +1,6 @@
+// OneSignal Web Push SDK — 푸시 알림 수신 처리
+importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js');
+
 const CACHE = 'cig-monitor-v1';
 const CORE = ['./', './index.html', './logo.png', './manifest.webmanifest'];
 
