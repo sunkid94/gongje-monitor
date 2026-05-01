@@ -1084,7 +1084,7 @@
   </script>
 
   <script>
-    // nav 좌측 "📲 앱 다운로드" 버튼 — Android는 자동 설치 프롬프트, iOS는 수동 안내, 이미 설치 시 숨김
+    // nav 좌측 "📲 앱 다운로드" 버튼 — standalone(이미 설치)이 아닌 모든 브라우저에 항상 표시
     (function () {
       const btn = document.getElementById('install-btn');
       const iosHelp = document.getElementById('install-ios-help');
@@ -1096,30 +1096,33 @@
       const isStandalone = window.matchMedia('(display-mode: standalone)').matches
         || window.navigator.standalone === true;
 
-      // 이미 설치된 standalone 모드면 버튼 숨김
       if (isStandalone) { btn.hidden = true; return; }
 
-      let deferredPrompt = null;
+      // 설치 안 된 모든 브라우저에 즉시 노출 (Chrome heuristic 의존 X)
+      btn.hidden = false;
 
-      // Android/Chrome 계열: beforeinstallprompt 받으면 버튼 노출
+      let deferredPrompt = null;
       window.addEventListener('beforeinstallprompt', (e) => {
         e.preventDefault();
         deferredPrompt = e;
-        btn.hidden = false;
       });
 
-      // iOS Safari: beforeinstallprompt 미지원 → 즉시 버튼 노출
-      if (isIOS) btn.hidden = false;
-
       btn.addEventListener('click', async () => {
+        // 1순위: 표준 설치 프롬프트 (Android Chrome 등)
         if (deferredPrompt) {
           deferredPrompt.prompt();
           try { await deferredPrompt.userChoice; } catch (_) {}
           deferredPrompt = null;
-          btn.hidden = true;
           return;
         }
-        if (isIOS && iosHelp) {
+        // 2순위: iOS 또는 자동 설치 미지원 환경 → 안내 카드 표시
+        if (iosHelp) {
+          const card = iosHelp.querySelector('p');
+          if (card) {
+            card.innerHTML = isIOS
+              ? '사파리 하단 <b>공유 ⤴︎</b> 버튼을 누르고 <b>"홈 화면에 추가"</b>를 선택하세요.'
+              : '브라우저 메뉴(⋮)에서 <b>"앱 설치"</b> 또는 <b>"홈 화면에 추가"</b>를 선택하세요.';
+          }
           iosHelp.removeAttribute('hidden');
         }
       });
