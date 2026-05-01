@@ -70,15 +70,17 @@
     nav .brand-row { display: flex; align-items: center; gap: 10px; }
     nav .brand-logo { height: 28px; width: auto; display: block; }
     nav .brand-30th { height: 36px; width: auto; display: block; }
-    nav .last-updated {
-      font-size: 12px; color: var(--navy); letter-spacing: 0.5px;
-      font-weight: 700;
+    nav .nav-actions { display: flex; align-items: center; gap: 8px; }
+    nav .install-btn-nav {
+      flex-shrink: 0;
+      padding: 7px 14px; border-radius: 100px;
+      border: 1.5px solid var(--navy); background: var(--navy); color: #fff;
+      font-weight: 800; font-size: 12px; font-family: inherit;
+      cursor: pointer; letter-spacing: -0.2px;
+      display: inline-flex; align-items: center; gap: 4px;
     }
-    nav .last-updated::before {
-      content: '●'; color: var(--cat-market); margin-right: 6px;
-      font-size: 8px; vertical-align: middle;
-      animation: pulse 2.4s ease-in-out infinite;
-    }
+    nav .install-btn-nav:hover { background: var(--navy-dark); }
+    nav .install-btn-nav[hidden] { display: none; }
     nav .notify-btn {
       flex-shrink: 0;
       margin-left: 10px;
@@ -143,15 +145,8 @@
       nav .brand-row { gap: 8px; flex-shrink: 0; }
       nav .brand-logo { height: 22px; }
       nav .brand-30th { height: 28px; }
-      nav .last-updated {
-        font-size: 11.5px;
-        padding-left: 10px;
-        border-left: 1px solid var(--border);
-        white-space: nowrap;
-        min-width: 0;
-        overflow: hidden;
-        text-overflow: ellipsis;
-      }
+      nav .nav-actions { gap: 6px; margin-left: auto; }
+      nav .install-btn-nav { padding: 6px 11px; font-size: 11px; }
     }
 
     .hero {
@@ -512,75 +507,47 @@
       .sec-head h2 { font-size: 22px; margin-bottom: 28px; }
     }
 
-    /* ===== Install Banner ===== */
-    .install-banner {
-      position: fixed; top: 0; left: 0; right: 0; z-index: 200;
-      height: 44px;
-      display: none;
-      align-items: center; justify-content: flex-start;
-      gap: 10px;
-      padding: 0 40px;
-      background: linear-gradient(90deg, var(--navy) 0%, var(--navy-dark) 100%);
-      color: #fff; font-size: 13px; font-weight: 600;
-      letter-spacing: -0.2px;
-      box-shadow: 0 2px 8px rgba(10, 24, 41, 0.15);
+    /* ===== iOS 홈 화면 추가 안내 (사파리에서만 노출) ===== */
+    .ios-help {
+      position: fixed; top: 70px; left: 16px; right: 16px;
+      z-index: 9999; max-width: 460px; margin: 0 auto;
+      background: var(--white); border: 2px solid var(--navy);
+      border-radius: 12px; padding: 18px;
+      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.4);
     }
-    .install-banner.visible { display: flex; }
-    .install-banner .install-text {
-      min-width: 0;
-      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-    }
-    .install-banner .install-btn {
-      flex-shrink: 0;
-      padding: 6px 16px; border: none; border-radius: 100px;
-      background: #fff; color: var(--navy);
-      font-weight: 800; font-size: 12px; font-family: inherit;
-      cursor: pointer; letter-spacing: 0.2px;
-    }
-    .install-banner .install-btn:hover { background: var(--bg-soft); }
-    .install-banner .install-dismiss {
-      flex-shrink: 0;
-      width: 26px; height: 26px; border-radius: 50%;
-      border: none; background: rgba(255,255,255,0.12); color: #fff;
-      font-size: 16px; line-height: 1; cursor: pointer; font-family: inherit;
-      display: flex; align-items: center; justify-content: center;
-    }
-    .install-banner .install-dismiss:hover { background: rgba(255,255,255,0.22); }
-    body.install-banner-visible nav { top: 44px; }
-    body.install-banner-visible .filter-bar { top: calc(64px + 44px); }
-    body.install-banner-visible .hero { padding-top: calc(140px + 44px); }
-    @media (max-width: 640px) {
-      body.install-banner-visible .filter-bar { top: calc(56px + 44px); }
-      body.install-banner-visible .hero { padding-top: calc(96px + 44px); }
-      .install-banner {
-        font-size: 12px;
-        padding: 0 16px;
-        gap: 8px;
-      }
-      .install-banner .install-text { font-size: 11.5px; }
-      .install-banner .install-btn { padding: 5px 14px; font-size: 11.5px; }
-    }
-    @media (max-width: 480px) {
-      .install-banner { padding: 0 14px; }
+    .ios-help[hidden] { display: none; }
+    .ios-help-card { display: flex; flex-direction: column; gap: 10px; }
+    .ios-help-card strong { color: var(--navy); font-size: 15px; }
+    .ios-help-card p { font-size: 13px; color: var(--sub); line-height: 1.6; margin: 0; }
+    .ios-help-card button {
+      align-self: flex-end;
+      background: var(--navy); color: #fff; border: none;
+      padding: 7px 16px; border-radius: 100px;
+      font-weight: 700; font-size: 12px; cursor: pointer; font-family: inherit;
     }
   </style>
 </head>
 <body>
 
-  <div id="install-banner" class="install-banner" role="region" aria-label="앱 설치 안내">
-    <span class="install-text" id="install-text">📲 이 사이트를 앱처럼 빠르게 — 홈 화면에 추가하세요.</span>
-    <button class="install-btn" id="install-btn" type="button">설치</button>
-    <button class="install-dismiss" id="install-dismiss" type="button" aria-label="닫기">×</button>
-  </div>
 
   <nav>
     <div class="brand-row">
       <img class="brand-logo" src="logo.png" alt="기계설비건설공제조합">
       <img class="brand-30th" src="anniversary-30.png" alt="창립 30주년">
     </div>
-    <span class="last-updated" id="last-updated">로딩 중...</span>
-    <button id="notify-btn" class="notify-btn" type="button" aria-label="알림 받기">🔔</button>
+    <div class="nav-actions">
+      <button id="install-btn" class="install-btn-nav" type="button" hidden>📲 앱 다운로드</button>
+      <button id="notify-btn" class="notify-btn" type="button" aria-label="알림 받기">🔔</button>
+    </div>
   </nav>
+
+  <div id="install-ios-help" class="ios-help" hidden role="dialog" aria-label="홈 화면 추가 안내">
+    <div class="ios-help-card">
+      <strong>홈 화면에 추가하기</strong>
+      <p>사파리 하단 <b>공유 ⤴︎</b> 버튼을 누르고 <b>"홈 화면에 추가"</b>를 선택하세요.</p>
+      <button id="install-ios-close" type="button">닫기</button>
+    </div>
+  </div>
 
   <div id="sub-modal" class="sub-modal" hidden>
     <div class="sub-modal-card">
@@ -699,21 +666,6 @@
       try { const x = new URL(u); return (x.protocol === 'http:' || x.protocol === 'https:') ? u : '#'; }
       catch { return '#'; }
     }
-    function formatDate(iso) {
-      if (!iso) return '';
-      // collected_at 은 UTC 로 저장되지만 'Z' 가 없어서 브라우저가 로컬로 오해함.
-      // 명시적으로 UTC 로 해석시킨 뒤 toLocale 로 KST 등 사용자 로컬로 변환.
-      const utcIso = /[Zz]|[+-]\d{2}:?\d{2}$/.test(iso) ? iso : iso + 'Z';
-      const d = new Date(utcIso);
-      if (isNaN(d)) return '';
-      const isNarrow = window.matchMedia('(max-width: 480px)').matches;
-      const pad = (n) => String(n).padStart(2, '0');
-      if (isNarrow) {
-        return `${d.getMonth() + 1}월 ${d.getDate()}일 ${pad(d.getHours())}:${pad(d.getMinutes())}`;
-      }
-      return d.toLocaleDateString('ko-KR') + ' ' + d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' });
-    }
-
     let allArticles = [];
     let state = {
       q: '',
@@ -977,8 +929,6 @@
       .then(r => r.json())
       .then(data => {
         allArticles = data;
-        const last = data.length ? data[0].collected_at : null;
-        document.getElementById('last-updated').textContent = last ? '업데이트 ' + formatDate(last) : '데이터 없음';
         readHash();
         document.getElementById('search').value = state.q;
         updateChipActive();
@@ -987,7 +937,6 @@
       })
       .catch(() => {
         document.getElementById('articles').innerHTML = '<div class="empty">articles.json을 불러올 수 없습니다.</div>';
-        document.getElementById('last-updated').textContent = '로딩 실패';
       });
 
     fetch('weekly.json?t=' + Date.now())
@@ -1135,82 +1084,51 @@
   </script>
 
   <script>
-    // 앱 설치 안내 배너 + 설치 후 알림 권한 자동 연결
+    // nav 좌측 "📲 앱 다운로드" 버튼 — Android는 자동 설치 프롬프트, iOS는 수동 안내, 이미 설치 시 숨김
     (function () {
-      const DISMISS_KEY = 'install-banner-dismissed-at';
-      const DISMISS_DAYS = 7;
-      const PWA_PROMPTED_KEY = 'pwa-first-open-prompted';
-
-      const banner = document.getElementById('install-banner');
-      const installBtn = document.getElementById('install-btn');
-      const dismissBtn = document.getElementById('install-dismiss');
-      const textEl = document.getElementById('install-text');
+      const btn = document.getElementById('install-btn');
+      const iosHelp = document.getElementById('install-ios-help');
+      const iosClose = document.getElementById('install-ios-close');
+      if (!btn) return;
 
       const ua = navigator.userAgent;
       const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
       const isStandalone = window.matchMedia('(display-mode: standalone)').matches
         || window.navigator.standalone === true;
 
-      // PWA(standalone) 모드에서는 설치 배너 자체를 표시하지 않음
-      // 알림 구독은 nav의 🔔 버튼을 통해 사용자가 명시적으로 진행
-      if (isStandalone) return;
-
-      if (!banner) return;
-
-      // 최근에 닫은 지 7일 이내면 배너 숨김
-      const dismissedAt = Number(localStorage.getItem(DISMISS_KEY) || 0);
-      if (dismissedAt && (Date.now() - dismissedAt) < DISMISS_DAYS * 86400000) return;
+      // 이미 설치된 standalone 모드면 버튼 숨김
+      if (isStandalone) { btn.hidden = true; return; }
 
       let deferredPrompt = null;
 
-      function show() {
-        banner.classList.add('visible');
-        document.body.classList.add('install-banner-visible');
-      }
-      function hide() {
-        banner.classList.remove('visible');
-        document.body.classList.remove('install-banner-visible');
-      }
-      function dismiss() {
-        localStorage.setItem(DISMISS_KEY, String(Date.now()));
-        hide();
-      }
-
-      // Android/Chrome 계열: 표준 설치 프롬프트 가능
-      const isNarrow = window.matchMedia('(max-width: 480px)').matches;
-
+      // Android/Chrome 계열: beforeinstallprompt 받으면 버튼 노출
       window.addEventListener('beforeinstallprompt', (e) => {
         e.preventDefault();
         deferredPrompt = e;
-        textEl.textContent = isNarrow
-          ? '📲 앱으로 더 편하게'
-          : '📲 이 사이트를 앱처럼 빠르게 — 홈 화면에 추가하세요.';
-        installBtn.textContent = '설치';
-        installBtn.style.display = '';
-        show();
+        btn.hidden = false;
       });
 
-      installBtn.addEventListener('click', async () => {
-        if (!deferredPrompt) return;
-        deferredPrompt.prompt();
-        try { await deferredPrompt.userChoice; } catch (_) {}
-        deferredPrompt = null;
-        hide();
+      // iOS Safari: beforeinstallprompt 미지원 → 즉시 버튼 노출
+      if (isIOS) btn.hidden = false;
+
+      btn.addEventListener('click', async () => {
+        if (deferredPrompt) {
+          deferredPrompt.prompt();
+          try { await deferredPrompt.userChoice; } catch (_) {}
+          deferredPrompt = null;
+          btn.hidden = true;
+          return;
+        }
+        if (isIOS && iosHelp) {
+          iosHelp.removeAttribute('hidden');
+        }
       });
 
-      dismissBtn.addEventListener('click', dismiss);
-
-      // iOS Safari: beforeinstallprompt 미지원 → 수동 안내. 설치는 사용자가 직접.
-      // 사용자가 홈 화면 추가 후 PWA로 열면 위 isStandalone 분기에서 알림 자동 요청됨.
-      if (isIOS) {
-        textEl.innerHTML = isNarrow
-          ? '📲 공유 <span style="font-weight:800">⤴︎</span> → 홈 화면에 추가'
-          : '📲 홈 화면에 추가: 하단 공유 <span style="font-weight:800">⤴︎</span> → "홈 화면에 추가"';
-        installBtn.style.display = 'none';
-        show();
+      if (iosClose && iosHelp) {
+        iosClose.addEventListener('click', () => iosHelp.setAttribute('hidden', ''));
       }
 
-      window.addEventListener('appinstalled', dismiss);
+      window.addEventListener('appinstalled', () => { btn.hidden = true; });
     })();
   </script>
 
