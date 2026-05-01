@@ -124,14 +124,22 @@
       background: var(--bg); color: var(--text);
       resize: vertical; word-break: break-all;
     }
-    .sub-modal-actions { display: flex; align-items: center; gap: 10px; }
-    .sub-modal-copy {
+    .sub-modal-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+    .sub-modal-actions button {
+      flex: 1 1 auto; min-width: 90px;
       background: var(--navy); color: #fff; border: none;
-      padding: 9px 18px; border-radius: 100px;
+      padding: 9px 14px; border-radius: 100px;
       font-weight: 800; font-size: 13px; cursor: pointer; font-family: inherit;
     }
-    .sub-modal-copy:hover { background: var(--navy-dark); }
-    .sub-modal-status { font-size: 12px; color: var(--sent-pos); font-weight: 700; }
+    .sub-modal-actions button:hover { background: var(--navy-dark); }
+    .sub-modal-actions .sub-modal-mail,
+    .sub-modal-actions .sub-modal-copy {
+      background: var(--white); color: var(--navy);
+      border: 1.5px solid var(--navy);
+    }
+    .sub-modal-actions .sub-modal-mail:hover,
+    .sub-modal-actions .sub-modal-copy:hover { background: var(--bg-soft); }
+    .sub-modal-status { font-size: 12px; color: var(--sent-pos); font-weight: 700; min-height: 16px; }
     @keyframes pulse {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.35; }
@@ -555,12 +563,14 @@
         <strong>알림 구독 완료 — 관리자에게 보낼 코드</strong>
         <button class="sub-modal-close" id="sub-modal-close" type="button" aria-label="닫기">×</button>
       </div>
-      <p class="sub-modal-help">아래 텍스트를 통째로 복사해서 관리자(2wodms@gmail.com)에게 메일/메신저로 보내주세요. 관리자가 등록하면 새 조합 기사 발생 시 이 폰으로 알림이 옵니다.</p>
+      <p class="sub-modal-help">아래 코드를 관리자에게 보내주시면 등록 후 알림이 갑니다. 카톡·메일 등 편한 방법으로 전송 가능합니다.</p>
       <textarea id="sub-modal-text" readonly></textarea>
       <div class="sub-modal-actions">
-        <button class="sub-modal-copy" id="sub-modal-copy" type="button">📋 전체 복사</button>
-        <span class="sub-modal-status" id="sub-modal-status"></span>
+        <button class="sub-modal-share" id="sub-modal-share" type="button">📱 공유</button>
+        <button class="sub-modal-mail" id="sub-modal-mail" type="button">📧 메일</button>
+        <button class="sub-modal-copy" id="sub-modal-copy" type="button">📋 복사</button>
       </div>
+      <span class="sub-modal-status" id="sub-modal-status"></span>
     </div>
   </div>
 
@@ -987,7 +997,13 @@
       const modalText = document.getElementById('sub-modal-text');
       const modalClose = document.getElementById('sub-modal-close');
       const modalCopy = document.getElementById('sub-modal-copy');
+      const modalShare = document.getElementById('sub-modal-share');
+      const modalMail = document.getElementById('sub-modal-mail');
       const modalStatus = document.getElementById('sub-modal-status');
+
+      const ADMIN_EMAIL = '2wodms@gmail.com';
+      const SHARE_TITLE = '[CIG 이슈 모니터] 알림 구독 신청';
+      const buildShareBody = (json) => `[CIG 이슈 모니터] 알림 구독 신청\n\n아래 코드를 그대로 답장 주시면 등록해드리겠습니다:\n\n${json}`;
 
       function urlBase64ToUint8Array(base64String) {
         const padding = '='.repeat((4 - base64String.length % 4) % 4);
@@ -1033,6 +1049,30 @@
           document.execCommand('copy');
           modalStatus.textContent = '✓ 복사됨';
         }
+      });
+
+      // 📱 공유 — 폰 OS 공유 시트 (카톡·메시지·메일 등 선택 가능)
+      modalShare.addEventListener('click', async () => {
+        const text = buildShareBody(modalText.value);
+        if (navigator.share) {
+          try {
+            await navigator.share({ title: SHARE_TITLE, text });
+            modalStatus.textContent = '✓ 공유됨';
+          } catch (e) {
+            if (e && e.name !== 'AbortError') modalStatus.textContent = '공유 실패: ' + e.message;
+          }
+        } else {
+          // Web Share 미지원 환경(데스크톱 등) — 클립보드 복사로 폴백
+          try { await navigator.clipboard.writeText(text); } catch (_) {}
+          modalStatus.textContent = '본 환경에서 공유 시트 미지원 → 텍스트 클립보드 복사됨';
+        }
+      });
+
+      // 📧 메일 — 폰/PC 기본 메일 앱 열기 (관리자 주소 + 본문 자동 입력)
+      modalMail.addEventListener('click', () => {
+        const subject = encodeURIComponent(SHARE_TITLE);
+        const body = encodeURIComponent(buildShareBody(modalText.value));
+        window.location.href = `mailto:${ADMIN_EMAIL}?subject=${subject}&body=${body}`;
       });
 
       btn.addEventListener('click', async () => {

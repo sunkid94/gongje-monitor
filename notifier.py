@@ -2,6 +2,7 @@
 import json
 import logging
 import os
+from pathlib import Path
 from typing import Iterable, List
 
 from pywebpush import webpush, WebPushException
@@ -10,26 +11,46 @@ logger = logging.getLogger(__name__)
 
 VAPID_CLAIMS_EMAIL = "mailto:2wodms@gmail.com"
 SITE_URL = "https://sunkid94.github.io/gongje-monitor/"
+SUBSCRIPTIONS_FILE = Path(__file__).resolve().parent / "subscriptions.json"
+
+
+def _coerce_to_list(data) -> List[dict]:
+    if isinstance(data, list):
+        return [x for x in data if isinstance(x, dict)]
+    if isinstance(data, dict):
+        return [data]
+    return []
 
 
 def _load_subscriptions() -> List[dict]:
-    """구독 토큰 목록을 환경변수에서 로드.
-
-    WEBPUSH_SUBSCRIPTIONS는 JSON — 단일 구독 객체 또는 객체 배열 모두 허용.
+    """구독 토큰 목록을 두 소스에서 로드 후 endpoint 기준으로 중복 제거하여 합침.
+    1) 저장소의 subscriptions.json 파일 (주 소스)
+    2) WEBPUSH_SUBSCRIPTIONS 환경변수 (legacy/백업)
     """
+    items: List[dict] = []
+
+    if SUBSCRIPTIONS_FILE.exists():
+        try:
+            data = json.loads(SUBSCRIPTIONS_FILE.read_text(encoding="utf-8"))
+            items.extend(_coerce_to_list(data))
+        except json.JSONDecodeError as e:
+            logger.error("subscriptions.json 파싱 실패: %s", e)
+
     raw = (os.environ.get("WEBPUSH_SUBSCRIPTIONS") or "").strip()
-    if not raw:
-        return []
-    try:
-        data = json.loads(raw)
-    except json.JSONDecodeError:
-        logger.error("WEBPUSH_SUBSCRIPTIONS JSON 파싱 실패")
-        return []
-    if isinstance(data, dict):
-        return [data]
-    if isinstance(data, list):
-        return data
-    return []
+    if raw:
+        try:
+            items.extend(_coerce_to_list(json.loads(raw)))
+        except json.JSONDecodeError:
+            logger.error("WEBPUSH_SUBSCRIPTIONS JSON 파싱 실패")
+
+    seen = set()
+    unique: List[dict] = []
+    for sub in items:
+        endpoint = sub.get("endpoint")
+        if endpoint and endpoint not in seen:
+            seen.add(endpoint)
+            unique.append(sub)
+    return unique
 
 
 def _build_payload(company_articles: List[dict]) -> str:
