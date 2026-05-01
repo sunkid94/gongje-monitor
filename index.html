@@ -116,6 +116,17 @@
       font-size: 18px; cursor: pointer; font-family: inherit;
     }
     .sub-modal-help { font-size: 13px; color: var(--sub); line-height: 1.6; margin: 0; }
+    .sub-modal-name-label {
+      font-size: 12px; font-weight: 700; color: var(--navy);
+      letter-spacing: 0.3px;
+    }
+    .sub-modal-name {
+      width: 100%; padding: 10px 12px; box-sizing: border-box;
+      font-family: inherit; font-size: 14px;
+      border: 1.5px solid var(--border); border-radius: 8px;
+      background: var(--white); color: var(--text);
+    }
+    .sub-modal-name:focus { outline: none; border-color: var(--navy); }
     .sub-modal textarea {
       width: 100%; min-height: 120px; max-height: 200px;
       padding: 10px 12px; font-size: 11px;
@@ -563,7 +574,9 @@
         <strong>알림 구독 완료 — 관리자에게 보낼 코드</strong>
         <button class="sub-modal-close" id="sub-modal-close" type="button" aria-label="닫기">×</button>
       </div>
-      <p class="sub-modal-help">아래 코드를 관리자(<b>2wodms@seolbi.com</b>)에게 보내주시면 등록 후 알림이 갑니다. 카톡·메일 등 편한 방법으로 전송 가능합니다.</p>
+      <p class="sub-modal-help">아래 정보를 관리자(<b>2wodms@seolbi.com</b>)에게 보내주시면 등록 후 알림이 갑니다.</p>
+      <label class="sub-modal-name-label">성함·소속 <span style="color:var(--muted);font-weight:400">(만료 시 연락 받으실 수 있도록)</span></label>
+      <input type="text" id="sub-modal-name" class="sub-modal-name" placeholder="예: 홍길동 본부장" autocomplete="name">
       <textarea id="sub-modal-text" readonly></textarea>
       <div class="sub-modal-actions">
         <button class="sub-modal-share" id="sub-modal-share" type="button">📱 공유</button>
@@ -999,11 +1012,34 @@
       const modalCopy = document.getElementById('sub-modal-copy');
       const modalShare = document.getElementById('sub-modal-share');
       const modalMail = document.getElementById('sub-modal-mail');
+      const modalName = document.getElementById('sub-modal-name');
       const modalStatus = document.getElementById('sub-modal-status');
 
       const ADMIN_EMAIL = '2wodms@seolbi.com';
       const SHARE_TITLE = '[CIG 이슈 모니터] 알림 구독 신청';
-      const buildShareBody = (json) => `[CIG 이슈 모니터] 알림 구독 신청\n\n아래 코드를 그대로 답장 주시면 등록해드리겠습니다:\n\n${json}`;
+      const NAME_KEY = 'cig-subscriber-name';
+
+      // 이전에 입력한 이름이 있으면 미리 채움
+      try {
+        const saved = localStorage.getItem(NAME_KEY);
+        if (saved) modalName.value = saved;
+      } catch (_) {}
+      modalName.addEventListener('input', () => {
+        try { localStorage.setItem(NAME_KEY, modalName.value.trim()); } catch (_) {}
+      });
+
+      function buildShareBody() {
+        const name = (modalName.value || '').trim();
+        const json = modalText.value;
+        // 관리자가 받은 메시지에서 이름과 토큰을 한 묶음으로 인식할 수 있도록
+        const wrapped = name
+          ? JSON.stringify({ name, subscription: JSON.parse(json) }, null, 2)
+          : json;
+        const intro = name
+          ? `[CIG 이슈 모니터] ${name}님 알림 구독 신청\n\n아래 코드를 그대로 답장 주시면 등록해드리겠습니다:`
+          : `[CIG 이슈 모니터] 알림 구독 신청\n\n성함을 함께 알려주시고 아래 코드를 그대로 답장 주시면 등록해드리겠습니다:`;
+        return `${intro}\n\n${wrapped}`;
+      }
 
       function urlBase64ToUint8Array(base64String) {
         const padding = '='.repeat((4 - base64String.length % 4) % 4);
@@ -1041,9 +1077,10 @@
       modalClose.addEventListener('click', () => modal.setAttribute('hidden', ''));
       modal.addEventListener('click', (e) => { if (e.target === modal) modal.setAttribute('hidden', ''); });
       modalCopy.addEventListener('click', async () => {
+        const text = buildShareBody();
         try {
-          await navigator.clipboard.writeText(modalText.value);
-          modalStatus.textContent = '✓ 복사됨';
+          await navigator.clipboard.writeText(text);
+          modalStatus.textContent = '✓ 복사됨 — 관리자에게 붙여넣어 주세요';
         } catch (_) {
           modalText.select();
           document.execCommand('copy');
@@ -1053,7 +1090,7 @@
 
       // 📱 공유 — 폰 OS 공유 시트 (카톡·메시지·메일 등 선택 가능)
       modalShare.addEventListener('click', async () => {
-        const text = buildShareBody(modalText.value);
+        const text = buildShareBody();
         if (navigator.share) {
           try {
             await navigator.share({ title: SHARE_TITLE, text });
@@ -1062,7 +1099,6 @@
             if (e && e.name !== 'AbortError') modalStatus.textContent = '공유 실패: ' + e.message;
           }
         } else {
-          // Web Share 미지원 환경(데스크톱 등) — 클립보드 복사로 폴백
           try { await navigator.clipboard.writeText(text); } catch (_) {}
           modalStatus.textContent = '본 환경에서 공유 시트 미지원 → 텍스트 클립보드 복사됨';
         }
@@ -1070,8 +1106,10 @@
 
       // 📧 메일 — 폰/PC 기본 메일 앱 열기 (관리자 주소 + 본문 자동 입력)
       modalMail.addEventListener('click', () => {
-        const subject = encodeURIComponent(SHARE_TITLE);
-        const body = encodeURIComponent(buildShareBody(modalText.value));
+        const name = (modalName.value || '').trim();
+        const titleWithName = name ? `${SHARE_TITLE} — ${name}` : SHARE_TITLE;
+        const subject = encodeURIComponent(titleWithName);
+        const body = encodeURIComponent(buildShareBody());
         window.location.href = `mailto:${ADMIN_EMAIL}?subject=${subject}&body=${body}`;
       });
 
