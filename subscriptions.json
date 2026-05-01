@@ -1,1 +1,9 @@
-[]
+ [
+  {
+    "name": "관리자",
+    "subscription": {                                                                                                   
+      "endpoint": "...",
+      "keys": {...}                                                                                                     
+    }                                                             
+  }
+  ]
