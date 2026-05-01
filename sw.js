@@ -1,6 +1,6 @@
 // CIG 이슈 모니터 — PWA 캐시 + Web Push 처리 단일 SW
 // CACHE 이름 변경 시 기존 사용자의 캐시는 다음 activate에서 폐기됨
-const CACHE = 'cig-monitor-v5';
+const CACHE = 'cig-monitor-v6';
 const CORE = ['./logo.png', './manifest.webmanifest', './icons/icon-192.png'];
 
 self.addEventListener('install', (e) => {
