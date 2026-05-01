@@ -1028,13 +1028,19 @@
         try { localStorage.setItem(NAME_KEY, modalName.value.trim()); } catch (_) {}
       });
 
-      function buildShareBody() {
+      // 관리자가 그대로 subscriptions.json/Secret에 넣을 수 있는 JSON 한 덩어리 (이름 포함 시 wrapping)
+      function buildJsonForAdmin() {
         const name = (modalName.value || '').trim();
         const json = modalText.value;
-        // 관리자가 받은 메시지에서 이름과 토큰을 한 묶음으로 인식할 수 있도록
-        const wrapped = name
-          ? JSON.stringify({ name, subscription: JSON.parse(json) }, null, 2)
-          : json;
+        if (!name) return json;
+        try {
+          return JSON.stringify({ name, subscription: JSON.parse(json) }, null, 2);
+        } catch (_) { return json; }
+      }
+      // 공유·메일용 본문 (인사말 포함)
+      function buildShareBody() {
+        const name = (modalName.value || '').trim();
+        const wrapped = buildJsonForAdmin();
         const intro = name
           ? `[CIG 이슈 모니터] ${name}님 알림 구독 신청\n\n아래 코드를 그대로 답장 주시면 등록해드리겠습니다:`
           : `[CIG 이슈 모니터] 알림 구독 신청\n\n성함을 함께 알려주시고 아래 코드를 그대로 답장 주시면 등록해드리겠습니다:`;
@@ -1077,10 +1083,11 @@
       modalClose.addEventListener('click', () => modal.setAttribute('hidden', ''));
       modal.addEventListener('click', (e) => { if (e.target === modal) modal.setAttribute('hidden', ''); });
       modalCopy.addEventListener('click', async () => {
-        const text = buildShareBody();
+        // 복사는 "JSON 한 덩어리"만 (관리자가 subscriptions.json·Secret에 그대로 붙여넣기 좋도록)
+        const text = buildJsonForAdmin();
         try {
           await navigator.clipboard.writeText(text);
-          modalStatus.textContent = '✓ 복사됨 — 관리자에게 붙여넣어 주세요';
+          modalStatus.textContent = '✓ JSON 복사됨 — 관리자에게 전달해주세요';
         } catch (_) {
           modalText.select();
           document.execCommand('copy');
