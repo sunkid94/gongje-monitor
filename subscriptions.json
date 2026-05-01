@@ -1,9 +1,26 @@
- [
-  {
-    "name": "관리자",
-    "subscription": {                                                                                                   
-      "endpoint": "...",
-      "keys": {...}                                                                                                     
-    }                                                             
+[
+{
+  "name": "이재은 매니저",
+  "subscription": {
+    "endpoint": "https://fcm.googleapis.com/fcm/send/cvS_PxKax68:APA91bGtq3HEUdrUluZcKX1swWESl3wbQkYJNhgvcOpww2Ki-AAYuYn-DmzncM2K4kUqIgxSGOC2wNS3lMiVWHl-_vF7ngIci9jfJHYFWh54QX8YGQADdYrOtk-XQr08DWMQtO7HOiBe",
+    "expirationTime": null,
+    "keys": {
+      "p256dh": "BHY4D39mpakSqNtufvgCcCFwuwUn-vjsnk0GgGm36gL0LwhuFJ76a5hhy3mSU1lkplXg3GucV_mpZTycjASw5y4",
+      "auth": "1PB8udE9GxnPzqSrq5Rj1A"
+    }
   }
-  ]
+} 
+]
+,
+[
+ {
+"name": "박현경",
+"subscription": {
+"endpoint": "https://web.push.apple.com/QJN7xsqyq2tfB9AUnTq7rxWNYQy43B0fabZlOgOay5i9p8D_YcAm9bguwnW3wrEA9zk2HRY6QBU_xDQNMsQHPZWI_tNjQp8MhA_QxJbIEJNC90dYlYTAE5tN9TcR0j3ux7vHQA5R8mH8VqpEfNupenrVgIyYO2C5Pr7r3tBX7vM",
+"keys": {
+"p256dh": "BFHFrpVSp6dxfdq38ZbRAvoGfxp8T9O62aKynnZTgSPCDO8wUlzgXtNAVdzGTpaHv-w6gpKwgM3qgZf6jzDgrog",
+"auth": "mDvmzCHs97nH6O1T6Eygkg"
+}
+}
+}
+]
