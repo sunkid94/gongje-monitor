@@ -120,6 +120,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성물산 건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성물산 ‘홈닉’, AI 세무 서비스 결합 - fetv.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UNmp2bjNvUnZ2OVp1MWU5SVVDMkdYM2F3eFV4RUZSNk5yZVo0Z2psYjBfNlFxazk3YXh4ZVY1Ym5CQ3p2dUVjdDc2NlhfYUhwbkd4UFpUQ1dTdngydEJFMVRETVNVM1U5?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UNmp2bjNvUnZ2OVp1MWU5SVVDMkdYM2F3eFV4RUZSNk5yZVo0Z2psYjBfNlFxazk3YXh4ZVY1Ym5CQ3p2dUVjdDc2NlhfYUhwbkd4UFpUQ1dTdngydEJFMVRETVNVM1U5?oc=5\" target=\"_blank\">삼성물산 ‘홈닉’, AI 세무 서비스 결합</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fetv.co.kr</font>",
+    "cluster_id": "9d02",
+    "publisher": "fetv.co.kr",
+    "title_clean": "삼성물산 ‘홈닉’, AI 세무 서비스 결합",
+    "summary": "삼성물산의 홈닉 서비스가 AI 세무 서비스와 결합하여 고객에게 통합 솔루션을 제공한다. 주택 관련 종합 플랫폼의 기능 확대로 건설업체와 입주자를 위한 부가가치 창출이 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-05-02T22:09:40",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·사고",
     "is_company": false,
@@ -29983,20 +29998,5 @@
     "sentiment": "negative",
     "collected_at": "2026-04-28T09:25:58",
     "importance": 4
-  },
-  {
-    "keyword": "DL이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "DL이앤씨, 목동6단지 단독 입찰…'아크로 목동 리젠시' 제안 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ody13T3Z1RDJMcGt1QVFRTFVVc1ViOTQ0T2ljT3lmLXV2Y1ZDNVFRRllSS2RBUGRoWWFNZlVaUjU5UnJ6VnNPaFlMWHFwVUJzQmdpU3VxWHpwM3ppczFPMklFd3lKUk94?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ody13T3Z1RDJMcGt1QVFRTFVVc1ViOTQ0T2ljT3lmLXV2Y1ZDNVFRRllSS2RBUGRoWWFNZlVaUjU5UnJ6VnNPaFlMWHFwVUJzQmdpU3VxWHpwM3ppczFPMklFd3lKUk94?oc=5\" target=\"_blank\">DL이앤씨, 목동6단지 단독 입찰…'아크로 목동 리젠시' 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ebn.co.kr</font>",
-    "cluster_id": "1e7f",
-    "publisher": "ebn.co.kr",
-    "title_clean": "DL이앤씨, 목동6단지 단독 입찰…'아크로 목동 리젠시' 제안",
-    "summary": "DL이앤씨가 서울 목동6단지 재개발 사업에 단독으로 입찰하며 '아크로 목동 리젠시'를 제안했다. 대형 건설사의 재개발 사업 수주 움직임을 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-04-28T09:25:58",
-    "importance": 3
   }
 ]
