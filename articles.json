@@ -120,6 +120,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "HDC현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 브랜드 전면 리뉴얼 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92alE2QVR0dTA3QmNPbm1SZ3hkT0pzS3FnM1NTY0ZsMU9oWGhTSThuVlJndkdBUHJsaGlZOEx1anM2S0dBZ1ppbWFfLTFmOGozRDZn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE92alE2QVR0dTA3QmNPbm1SZ3hkT0pzS3FnM1NTY0ZsMU9oWGhTSThuVlJndkdBUHJsaGlZOEx1anM2S0dBZ1ppbWFfLTFmOGozRDZn?oc=5\" target=\"_blank\">IPARK현대산업개발, 브랜드 전면 리뉴얼</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "534e",
+    "publisher": "네이트",
+    "title_clean": "IPARK현대산업개발, 브랜드 전면 리뉴얼",
+    "summary": "현대산업개발이 IPARK 브랜드를 전면 리뉴얼하며 기존 브랜드 이미지를 개선하고 시장 경쟁력을 강화하는 전략을 추진 중이다. 브랜드 개편을 통해 건설사의 마케팅 및 기업 이미지 제고를 시도하는 움직임이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-05-03T20:07:48",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -29981,21 +29996,6 @@
     "title_clean": "[건설업계 동향] 현대건설ㆍDL이앤씨ㆍGS건설ㆍIPARK현대산업개발(4.28)",
     "summary": "현대건설, DL이앤씨, GS건설, IPARK현대산업개발 등 주요 건설사들의 4월 28일 기준 동향을 종합적으로 보도한 기사입니다. 구체적인 내용은 링크를 통해 확인 필요합니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-04-28T09:25:58",
-    "importance": 2
-  },
-  {
-    "keyword": "DL이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "DL이앤씨, AI 건설 혁신 공개…글로벌 무대서 ‘데이터 경쟁력’ 입증 - 한국면세뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uRGRhUnl1OE1HNFpvOHYzZ25UT1JiWkJnbHJGQ0NlYnAybkdyNkNsYjktaWlMYWM5NGxFZEJpZnZoM1kxbWZUd1FTakJjUWdGYklEZ2F3aWZkNDREYlQ5RjA0cXl6cmY5TWc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9uRGRhUnl1OE1HNFpvOHYzZ25UT1JiWkJnbHJGQ0NlYnAybkdyNkNsYjktaWlMYWM5NGxFZEJpZnZoM1kxbWZUd1FTakJjUWdGYklEZ2F3aWZkNDREYlQ5RjA0cXl6cmY5TWc?oc=5\" target=\"_blank\">DL이앤씨, AI 건설 혁신 공개…글로벌 무대서 ‘데이터 경쟁력’ 입증</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국면세뉴스</font>",
-    "cluster_id": "e531",
-    "publisher": "한국면세뉴스",
-    "title_clean": "DL이앤씨, AI 건설 혁신 공개…글로벌 무대서 ‘데이터 경쟁력’ 입증",
-    "summary": "DL이앤씨가 AI 기술을 활용한 건설 혁신 사례를 글로벌 무대에서 공개하며 데이터 기반 경쟁력을 입증했다. 이는 건설업계의 디지털 혁신과 기술 고도화 추세를 보여주는 긍정적 사례다.",
-    "sentiment": "positive",
     "collected_at": "2026-04-28T09:25:58",
     "importance": 2
   }
