@@ -19,5 +19,15 @@
         "auth": "mDvmzCHs97nH6O1T6Eygkg"
       }
     }
+  },
+{
+  "name": "양소희 선임",
+  "subscription": {
+    "endpoint": "https://web.push.apple.com/QBcY69VekFtpep76-UlYrvNqp4KB-j3Jo9V5lTzGBP8a2EuAfBHcMH3zCwUmZy-dVB5H-kz8QoFXkIPPK1Qre5uLl2u5j3kA98H_4scHBIRx56jXgDccuTSAxSN1uDyDfWPKHg-Mw24SKVjcjxipFNNeDiBpxYAENzf3YTxvS3o",
+    "keys": {
+      "p256dh": "BDaU5OcMX3L6CqGI12tmSfiUneuKZBL31opTowcWdcAjfwnd4SVcE_vJwv81tjUOcQNVuRW9UJw6yz05RoVv9FA",
+      "auth": "e6WAA3rbcRpv9R6wIAD9pQ"
+    }
   }
+}
 ]
