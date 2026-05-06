@@ -12,6 +12,7 @@ COMPANY_KEYWORDS = [
     "엔지니어링공제조합",
     "건설공제조합",
     "전문건설공제조합",
+    "대한기계설비건설협회",
 ]
 
 CATEGORY_KEYWORDS = {

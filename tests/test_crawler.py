@@ -34,7 +34,7 @@ def test_fetch_news_rss_returns_articles():
         import crawler
         import importlib
         importlib.reload(crawler)
-        result = crawler.fetch_news_rss("기계설비건설공제조합", category="조합", is_company=True)
+        result = crawler.fetch_news_rss("기계설비건설공제조합", category="조합·협회", is_company=True)
 
     assert len(result) == 1
     assert result[0]["keyword"] == "기계설비건설공제조합"
@@ -105,9 +105,9 @@ def test_fetch_news_rss_attaches_category_for_company_keyword():
         import crawler
         import importlib
         importlib.reload(crawler)
-        result = crawler.fetch_news_rss("기계설비건설공제조합", category="조합", is_company=True)
+        result = crawler.fetch_news_rss("기계설비건설공제조합", category="조합·협회", is_company=True)
 
-    assert result[0]["category"] == "조합"
+    assert result[0]["category"] == "조합·협회"
     assert result[0]["is_company"] is True
 
 

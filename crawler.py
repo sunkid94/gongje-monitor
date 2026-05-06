@@ -30,7 +30,7 @@ def fetch_new_articles(seen: set) -> list:
     articles = []
     collected_links = set(seen)
 
-    sources = [(kw, "조합", True) for kw in COMPANY_KEYWORDS]
+    sources = [(kw, "조합·협회", True) for kw in COMPANY_KEYWORDS]
     for category, kws in CATEGORY_KEYWORDS.items():
         sources.extend((kw, category, False) for kw in kws)
 

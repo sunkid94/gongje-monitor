@@ -296,6 +296,38 @@
     .cat-group.hidden { display: none; }
     .cat-group .filter-label { color: var(--blue-accent); }
 
+    /* Date range */
+    .date-range {
+      display: inline-flex; align-items: center; gap: 6px;
+      margin-left: 6px; padding-left: 10px;
+      border-left: 1px dashed var(--border);
+    }
+    .date-input {
+      padding: 6px 10px;
+      border: 1px solid var(--border); border-radius: 6px;
+      font-size: 12px; font-family: inherit;
+      background: var(--white); color: var(--text);
+      min-width: 130px;
+    }
+    .date-input:focus { outline: none; border-color: var(--navy); }
+    .date-tilde { color: var(--muted); font-size: 12px; }
+    .date-clear {
+      width: 22px; height: 22px;
+      border: 1px solid var(--border); border-radius: 50%;
+      background: var(--white); color: var(--muted);
+      font-size: 14px; line-height: 1; cursor: pointer;
+      font-family: inherit; padding: 0;
+    }
+    .date-clear:hover { color: var(--navy); border-color: var(--navy); }
+    @media (max-width: 640px) {
+      .date-range {
+        margin-left: 0; padding-left: 0;
+        border-left: none; width: 100%;
+        margin-top: 6px;
+      }
+      .date-input { flex: 1; min-width: 0; }
+    }
+
     /* ===== Legend ===== */
     .legend-wrap { padding-top: 12px; }
     .legend-toggle {
@@ -612,20 +644,27 @@
         <button class="chip active" data-period="7">7일</button>
         <button class="chip" data-period="30">1개월</button>
         <button class="chip" data-period="all">전체</button>
+        <span class="date-range">
+          <input type="date" id="date-from" class="date-input" aria-label="시작일">
+          <span class="date-tilde">~</span>
+          <input type="date" id="date-to" class="date-input" aria-label="종료일">
+          <button type="button" class="date-clear" id="date-clear" hidden aria-label="날짜 초기화">×</button>
+        </span>
       </div>
       <div class="filter-row category">
         <span class="filter-label">카테고리</span>
         <button class="chip active" data-group="all">전체</button>
-        <button class="chip" data-group="조합">조합 <span class="caret">▾</span></button>
+        <button class="chip" data-group="조합·협회">조합·협회 <span class="caret">▾</span></button>
         <button class="chip" data-group="산업">산업 <span class="caret">▾</span></button>
         <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span></button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-coop">
-        <span class="filter-label">조합 ▸</span>
+        <span class="filter-label">조합·협회 ▸</span>
         <button class="chip sub" data-keyword="기계설비건설공제조합">기계설비 <span class="count"></span></button>
         <button class="chip sub" data-keyword="엔지니어링공제조합">엔지니어링 <span class="count"></span></button>
         <button class="chip sub" data-keyword="건설공제조합">건설 <span class="count"></span></button>
         <button class="chip sub" data-keyword="전문건설공제조합">전문건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="대한기계설비건설협회">기계설비협회 <span class="count"></span></button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-industry">
         <span class="filter-label">산업 ▸</span>
@@ -640,8 +679,8 @@
   <main class="container">
 
     <div class="legend-wrap">
-      <button class="legend-toggle" id="legend-toggle" type="button" aria-expanded="false">ⓘ 표기 안내</button>
-      <div class="legend" id="legend" hidden>
+      <button class="legend-toggle" id="legend-toggle" type="button" aria-expanded="true">ⓘ 표기 안내 닫기</button>
+      <div class="legend" id="legend">
         <div class="legend-row">
           <span class="legend-label">중요도</span>
           <span class="legend-item"><span class="legend-imp">●●●</span> 핵심</span>
@@ -696,13 +735,15 @@
       group: 'all',
       cat: null,
       keyword: null,
+      from: '',
+      to: '',
     };
 
     const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·사고', '노동·인력'];
-    const COOP_KEYWORDS = ['기계설비건설공제조합', '엔지니어링공제조합', '건설공제조합', '전문건설공제조합'];
+    const COOP_KEYWORDS = ['기계설비건설공제조합', '엔지니어링공제조합', '건설공제조합', '전문건설공제조합', '대한기계설비건설협회'];
 
     const CATEGORY_CLASS = {
-      '조합': 'c-co-op',
+      '조합·협회': 'c-co-op',
       '정책·규제': 'c-policy',
       '시장·경기': 'c-market',
       '안전·사고': 'c-safety',
@@ -773,6 +814,21 @@
     }
 
     function inPeriod(iso) {
+      // 날짜 범위 입력이 있으면 그 조건이 우선
+      if (state.from || state.to) {
+        if (!iso) return false;
+        const t = new Date(iso).getTime();
+        if (isNaN(t)) return false;
+        if (state.from) {
+          const fromT = new Date(state.from + 'T00:00:00').getTime();
+          if (t < fromT) return false;
+        }
+        if (state.to) {
+          const toT = new Date(state.to + 'T23:59:59.999').getTime();
+          if (t > toT) return false;
+        }
+        return true;
+      }
       if (state.period === 'all') return true;
       if (!iso) return false;
       const t = new Date(iso).getTime();
@@ -782,9 +838,9 @@
 
     function matchesGroup(a) {
       if (state.group === 'all') return true;
-      if (state.group === '조합') {
+      if (state.group === '조합·협회') {
         if (state.keyword) return a.keyword === state.keyword;
-        return a.category === '조합';
+        return a.category === '조합·협회';
       }
       if (state.group === '종합건설사') return a.category === '종합건설사';
       if (state.group === '산업') {
@@ -807,14 +863,17 @@
     }
 
     function updateChipActive() {
+      const dateMode = !!(state.from || state.to);
       document.querySelectorAll('.chip[data-period]').forEach(c => {
-        c.classList.toggle('active', String(c.dataset.period) === String(state.period));
+        c.classList.toggle('active', !dateMode && String(c.dataset.period) === String(state.period));
       });
+      const clearBtn = document.getElementById('date-clear');
+      if (clearBtn) clearBtn.toggleAttribute('hidden', !dateMode);
       document.querySelectorAll('.chip[data-group]').forEach(c => {
         const isCurrentGroup = c.dataset.group === state.group;
         c.classList.toggle('active', isCurrentGroup && !state.cat && !state.keyword);
         // 펼친 상태(group 선택됨, sub 없음 또는 있음 무관) 일 때 caret 뒤집기
-        const expandable = c.dataset.group === '조합' || c.dataset.group === '산업';
+        const expandable = c.dataset.group === '조합·협회' || c.dataset.group === '산업';
         c.classList.toggle('expanded', expandable && isCurrentGroup);
       });
       document.querySelectorAll('.chip[data-cat]').forEach(c => {
@@ -824,7 +883,7 @@
         c.classList.toggle('active', c.dataset.keyword === state.keyword);
       });
       document.getElementById('cat-sub-industry').classList.toggle('hidden', state.group !== '산업');
-      document.getElementById('cat-sub-coop').classList.toggle('hidden', state.group !== '조합');
+      document.getElementById('cat-sub-coop').classList.toggle('hidden', state.group !== '조합·협회');
     }
 
     function updateCatCounts() {
@@ -851,6 +910,8 @@
       if (state.group !== 'all') parts.push('group=' + encodeURIComponent(state.group));
       if (state.cat) parts.push('cat=' + encodeURIComponent(state.cat));
       if (state.keyword) parts.push('keyword=' + encodeURIComponent(state.keyword));
+      if (state.from) parts.push('from=' + state.from);
+      if (state.to) parts.push('to=' + state.to);
       location.hash = parts.join('&');
     }
 
@@ -866,6 +927,8 @@
         else if (k === 'group') state.group = val;
         else if (k === 'cat') state.cat = val;
         else if (k === 'keyword') state.keyword = val;
+        else if (k === 'from') state.from = val;
+        else if (k === 'to') state.to = val;
       });
     }
 
@@ -927,8 +990,25 @@
     });
     document.querySelectorAll('.chip[data-period]').forEach(c => c.addEventListener('click', () => {
       state.period = c.dataset.period === 'all' ? 'all' : parseInt(c.dataset.period, 10);
+      // 기간 칩 선택 시 날짜 범위 모드 해제
+      state.from = ''; state.to = '';
+      const df = document.getElementById('date-from'); if (df) df.value = '';
+      const dt = document.getElementById('date-to'); if (dt) dt.value = '';
       writeHash(); updateChipActive(); render();
     }));
+    function onDateChange() {
+      state.from = document.getElementById('date-from').value || '';
+      state.to = document.getElementById('date-to').value || '';
+      writeHash(); updateChipActive(); render();
+    }
+    document.getElementById('date-from').addEventListener('change', onDateChange);
+    document.getElementById('date-to').addEventListener('change', onDateChange);
+    document.getElementById('date-clear').addEventListener('click', () => {
+      state.from = ''; state.to = '';
+      document.getElementById('date-from').value = '';
+      document.getElementById('date-to').value = '';
+      writeHash(); updateChipActive(); render();
+    });
     document.querySelectorAll('.chip[data-group]').forEach(c => c.addEventListener('click', () => {
       state.group = c.dataset.group; state.cat = null; state.keyword = null;
       writeHash(); updateChipActive(); render();
@@ -944,6 +1024,8 @@
     window.addEventListener('hashchange', () => {
       readHash();
       document.getElementById('search').value = state.q;
+      document.getElementById('date-from').value = state.from || '';
+      document.getElementById('date-to').value = state.to || '';
       updateChipActive();
       render();
     });
@@ -954,6 +1036,8 @@
         allArticles = data;
         readHash();
         document.getElementById('search').value = state.q;
+        document.getElementById('date-from').value = state.from || '';
+        document.getElementById('date-to').value = state.to || '';
         updateChipActive();
         updateCatCounts();
         render();

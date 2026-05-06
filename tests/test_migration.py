@@ -32,7 +32,7 @@ def test_migrate_fills_defaults(tmp_path, monkeypatch):
 
     result = json.loads(src.read_text())
 
-    assert result[0]["category"] == "조합"
+    assert result[0]["category"] == "조합·협회"
     assert result[0]["is_company"] is True
     assert result[0]["title_clean"] == "조합 신규 사업"
     assert result[0]["publisher"] == "조선비즈"

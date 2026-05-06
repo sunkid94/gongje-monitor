@@ -22,7 +22,7 @@ _PUBLISHER_SUFFIX_RE = re.compile(r"\s+-\s+([^-]+?)\s*$")
 
 def _lookup_category(keyword: str) -> str:
     if keyword in COMPANY_KEYWORDS:
-        return "조합"
+        return "조합·협회"
     for category, kws in CATEGORY_KEYWORDS.items():
         if keyword in kws:
             return category

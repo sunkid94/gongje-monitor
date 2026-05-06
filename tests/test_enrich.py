@@ -201,7 +201,7 @@ def test_enrich_articles_full_pipeline():
     articles = [
         {
             "keyword": "기계설비건설공제조합",
-            "category": "조합",
+            "category": "조합·협회",
             "is_company": True,
             "title": "기계설비건설공제조합 신규 사업 - 조선비즈",
             "link": "http://x/1",
@@ -209,7 +209,7 @@ def test_enrich_articles_full_pipeline():
         },
         {
             "keyword": "기계설비건설공제조합",
-            "category": "조합",
+            "category": "조합·협회",
             "is_company": True,
             "title": "기계설비건설공제조합 신규 사업 - 매경",
             "link": "http://x/2",
@@ -238,7 +238,7 @@ def test_enrich_articles_full_pipeline():
 
 def test_enrich_articles_preserves_original_fields():
     articles = [{
-        "keyword": "kw", "category": "조합", "is_company": False,
+        "keyword": "kw", "category": "조합·협회", "is_company": False,
         "title": "제목", "link": "l1", "description": "d",
         "extra": "keep me",
     }]
