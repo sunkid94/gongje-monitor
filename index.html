@@ -654,9 +654,9 @@
       <div class="filter-row category">
         <span class="filter-label">카테고리</span>
         <button class="chip active" data-group="all">전체</button>
-        <button class="chip" data-group="조합·협회">조합·협회 <span class="caret">▾</span></button>
-        <button class="chip" data-group="산업">산업 <span class="caret">▾</span></button>
-        <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span></button>
+        <button class="chip" data-group="조합·협회">조합·협회 <span class="count"></span> <span class="caret">▾</span></button>
+        <button class="chip" data-group="산업">산업 <span class="count"></span> <span class="caret">▾</span></button>
+        <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span> <span class="count"></span></button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-coop">
         <span class="filter-label">조합·협회 ▸</span>
@@ -695,6 +695,10 @@
           <span class="legend-item"><span class="sent-dot neu">●</span> 중립 (사실 보도)</span>
           <span class="legend-item"><span class="sent-dot neg">●</span> 부정 (사고·위기·규제 강화 등)</span>
         </div>
+        <div class="legend-row">
+          <span class="legend-label">보관</span>
+          <span class="legend-item legend-note">조합·협회 무기한 · 그 외 최근 60일 · 최대 2,000건</span>
+        </div>
       </div>
     </div>
 
@@ -717,7 +721,7 @@
     </section>
   </main>
 
-  <footer>© 기계설비건설공제조합 이슈 모니터 · Google News 기반 자동 수집</footer>
+  <footer>© 기계설비건설공제조합 이슈 모니터 · Google News 기반 자동 수집 · <span id="article-total">…</span></footer>
 
   <script>
     function escapeHtml(s) {
@@ -901,6 +905,17 @@
           el.textContent = `(${n})`;
         });
       });
+      // 그룹 칩 카운트 (조합·협회 / 산업 / 종합건설사)
+      const groupCounts = {
+        '조합·협회': base.filter(a => a.category === '조합·협회').length,
+        '산업': base.filter(a => INDUSTRY_CATS.includes(a.category)).length,
+        '종합건설사': base.filter(a => a.category === '종합건설사').length,
+      };
+      Object.entries(groupCounts).forEach(([g, n]) => {
+        document.querySelectorAll(`.chip[data-group="${g}"] .count`).forEach(el => {
+          el.textContent = `(${n})`;
+        });
+      });
     }
 
     function writeHash() {
@@ -1034,6 +1049,8 @@
       .then(r => r.json())
       .then(data => {
         allArticles = data;
+        const totalEl = document.getElementById('article-total');
+        if (totalEl) totalEl.textContent = `현재 ${data.length.toLocaleString('ko-KR')}건 보관`;
         readHash();
         document.getElementById('search').value = state.q;
         document.getElementById('date-from').value = state.from || '';
