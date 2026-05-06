@@ -656,7 +656,20 @@
         <button class="chip active" data-group="all">전체</button>
         <button class="chip" data-group="조합·협회">조합·협회 <span class="count"></span> <span class="caret">▾</span></button>
         <button class="chip" data-group="산업">산업 <span class="count"></span> <span class="caret">▾</span></button>
-        <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span> <span class="count"></span></button>
+        <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span> <span class="count"></span> <span class="caret">▾</span></button>
+      </div>
+      <div class="filter-row cat-group hidden" id="cat-sub-corp">
+        <span class="filter-label">종건사 ▸</span>
+        <button class="chip sub" data-keyword="삼성물산 건설">삼성물산 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="현대건설">현대건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="DL이앤씨">DL이앤씨 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="대우건설">대우건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="GS건설">GS건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="포스코이앤씨">포스코이앤씨 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="롯데건설">롯데건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="SK에코플랜트">SK에코플랜트 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="HDC현대산업개발">HDC현산 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="현대엔지니어링">현대ENG <span class="count"></span></button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-coop">
         <span class="filter-label">조합·협회 ▸</span>
@@ -745,6 +758,7 @@
 
     const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·사고', '노동·인력'];
     const COOP_KEYWORDS = ['기계설비건설공제조합', '엔지니어링공제조합', '건설공제조합', '전문건설공제조합', '대한기계설비건설협회'];
+    const CORP_KEYWORDS = ['삼성물산 건설', '현대건설', 'DL이앤씨', '대우건설', 'GS건설', '포스코이앤씨', '롯데건설', 'SK에코플랜트', 'HDC현대산업개발', '현대엔지니어링'];
 
     const CATEGORY_CLASS = {
       '조합·협회': 'c-co-op',
@@ -846,7 +860,10 @@
         if (state.keyword) return a.keyword === state.keyword;
         return a.category === '조합·협회';
       }
-      if (state.group === '종합건설사') return a.category === '종합건설사';
+      if (state.group === '종합건설사') {
+        if (state.keyword) return a.keyword === state.keyword;
+        return a.category === '종합건설사';
+      }
       if (state.group === '산업') {
         if (state.cat) return a.category === state.cat;
         return INDUSTRY_CATS.includes(a.category);
@@ -877,7 +894,7 @@
         const isCurrentGroup = c.dataset.group === state.group;
         c.classList.toggle('active', isCurrentGroup && !state.cat && !state.keyword);
         // 펼친 상태(group 선택됨, sub 없음 또는 있음 무관) 일 때 caret 뒤집기
-        const expandable = c.dataset.group === '조합·협회' || c.dataset.group === '산업';
+        const expandable = c.dataset.group === '조합·협회' || c.dataset.group === '산업' || c.dataset.group === '종합건설사';
         c.classList.toggle('expanded', expandable && isCurrentGroup);
       });
       document.querySelectorAll('.chip[data-cat]').forEach(c => {
@@ -888,6 +905,7 @@
       });
       document.getElementById('cat-sub-industry').classList.toggle('hidden', state.group !== '산업');
       document.getElementById('cat-sub-coop').classList.toggle('hidden', state.group !== '조합·협회');
+      document.getElementById('cat-sub-corp').classList.toggle('hidden', state.group !== '종합건설사');
     }
 
     function updateCatCounts() {
@@ -899,7 +917,7 @@
           el.textContent = `(${n})`;
         });
       });
-      COOP_KEYWORDS.forEach(kw => {
+      [...COOP_KEYWORDS, ...CORP_KEYWORDS].forEach(kw => {
         const n = base.filter(a => a.keyword === kw).length;
         document.querySelectorAll(`.chip[data-keyword="${kw}"] .count`).forEach(el => {
           el.textContent = `(${n})`;
