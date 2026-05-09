@@ -195,6 +195,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·사고",
+    "is_company": false,
+    "title": "안전취약 계층인 외국인 근로자 위해 '건설현장 안심동행 프로젝트' 도입 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ibVctV3B0LWhLRzQyeHY2UmJ1OEdtbEg3bkZSNjM1V28tRzRzSTJieDFHZUZJYUhwTFlKMjV4UmpHUmc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ibVctV3B0LWhLRzQyeHY2UmJ1OEdtbEg3bkZSNjM1V28tRzRzSTJieDFHZUZJYUhwTFlKMjV4UmpHUmc?oc=5\" target=\"_blank\">안전취약 계층인 외국인 근로자 위해 '건설현장 안심동행 프로젝트' 도입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국공공정책신문</font>",
+    "cluster_id": "338f",
+    "publisher": "한국공공정책신문",
+    "title_clean": "안전취약 계층인 외국인 근로자 위해 '건설현장 안심동행 프로젝트' 도입",
+    "summary": "건설현장의 안전취약 계층인 외국인 근로자를 보호하기 위해 '건설현장 안심동행 프로젝트'가 도입되었다. 이는 외국인 근로자의 안전관리 강화 및 현장 안전문화 개선을 위한 정책 시행이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-05-09T18:07:42",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -29980,21 +29995,6 @@
     "publisher": "네이트",
     "title_clean": "GS건설, 수익성 개선…원가율 정상화에 따른 기저효과",
     "summary": "GS건설이 원가율 정상화에 따른 기저효과로 수익성을 개선했다. 이는 건설업계의 원가 안정화와 수익성 회복 추세를 보여주는 긍정적 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-04-30T07:48:05",
-    "importance": 2
-  },
-  {
-    "keyword": "GS건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "건설업계, 서울국제정원박람회 참여···기업정원 조성 - 서울파이낸스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9USkJERUhPNHFwbnRBUUh5Vl9VTy1sQW1yaDBUcER2NVJNNGY0VHNhNmwtUVVyaVBzdjdtUVRWUHBSZndnYVZpS0IzUml1al9CT2FMVVN0UkFfUkdRVDBrTWw3bVkweWw5Wnc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9USkJERUhPNHFwbnRBUUh5Vl9VTy1sQW1yaDBUcER2NVJNNGY0VHNhNmwtUVVyaVBzdjdtUVRWUHBSZndnYVZpS0IzUml1al9CT2FMVVN0UkFfUkdRVDBrTWw3bVkweWw5Wnc?oc=5\" target=\"_blank\">건설업계, 서울국제정원박람회 참여···기업정원 조성</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울파이낸스</font>",
-    "cluster_id": "b431",
-    "publisher": "서울파이낸스",
-    "title_clean": "건설업계, 서울국제정원박람회 참여···기업정원 조성",
-    "summary": "건설업계가 서울국제정원박람회에 참여하여 기업정원을 조성하는 사업을 진행 중이다. 이는 건설업계의 새로운 사업 영역 확대 및 브랜드 가치 제고 기회로 볼 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-04-30T07:48:05",
     "importance": 2
