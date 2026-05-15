@@ -464,17 +464,6 @@
       overflow-wrap: anywhere;
     }
 
-    .copy-btn {
-      position: absolute; top: 20px; right: 20px;
-      border: 1px solid var(--border); background: var(--white);
-      border-radius: 6px; padding: 4px 8px;
-      font-size: 11px; color: var(--muted); cursor: pointer;
-      font-family: inherit;
-      transition: all .15s ease;
-    }
-    .copy-btn:hover { border-color: var(--navy); color: var(--navy); }
-    .copy-btn.copied { background: var(--navy); color: #fff; border-color: var(--navy); }
-
     /* ===== Top Sections ===== */
     .top-section { background: var(--white); border-radius: 12px; padding: 28px 24px; margin-bottom: 40px; border: 1px solid var(--border); }
     .top-section.company { border-left: 4px solid var(--cat-safety); }
@@ -563,7 +552,6 @@
       .article-summary { font-size: 13px; }
 
       .top-section { padding: 22px 18px; }
-      .copy-btn { top: 14px; right: 14px; }
 
       .weekly-wrap { padding: 28px 20px; border-radius: 12px; margin: 28px 16px; }
       .weekly-title { font-size: 20px; }
@@ -831,7 +819,6 @@
       const summary = a.summary || a.description || '';
       return `
         <article class="article ${isCompany}">
-          <button class="copy-btn" data-link="${escapeHtml(safeHref(a.link))}" onclick="copyLink(this)">📋 복사</button>
           <div class="article-meta">
             <span class="imp-dots">${impDots(a.importance)}</span>
             <span class="cat-badge ${catClass}">${escapeHtml(cat)}</span>
@@ -847,15 +834,6 @@
           <div class="article-summary">${escapeHtml(summary)}</div>
         </article>
       `;
-    }
-
-    function copyLink(btn) {
-      navigator.clipboard.writeText(btn.dataset.link).then(() => {
-        const original = btn.innerHTML;
-        btn.innerHTML = '✓ 복사됨';
-        btn.classList.add('copied');
-        setTimeout(() => { btn.innerHTML = original; btn.classList.remove('copied'); }, 1500);
-      });
     }
 
     function inPeriod(iso) {
