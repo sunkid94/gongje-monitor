@@ -1,12 +1,17 @@
 import calendar
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 
 import feedparser
 
 from config import CATEGORY_KEYWORDS, COMPANY_KEYWORDS
+from pub_date import resolve_published_time
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={}&hl=ko&gl=KR&ceid=KR:ko"
+
+# Google News는 옛 기사를 새 사건과 함께 재인덱싱하여 RSS pubDate를 최근으로 노출
+# 시키기도 한다. 원문 발행일이 이 일수보다 오래된 항목은 폐기.
+ORIGINAL_PUB_MAX_AGE_DAYS = 7
 
 
 def fetch_news_rss(keyword: str, category: str, is_company: bool) -> list:
@@ -27,6 +32,7 @@ def fetch_news_rss(keyword: str, category: str, is_company: bool) -> list:
 
 def fetch_new_articles(seen: set) -> list:
     cutoff = datetime.now() - timedelta(hours=24)
+    original_cutoff = datetime.now(timezone.utc) - timedelta(days=ORIGINAL_PUB_MAX_AGE_DAYS)
     articles = []
     collected_links = set(seen)
 
@@ -46,6 +52,16 @@ def fetch_new_articles(seen: set) -> list:
                         continue
                 except (ValueError, TypeError, OverflowError):
                     pass
+
+            original_pub = resolve_published_time(item["link"])
+            if original_pub is not None:
+                if original_pub.tzinfo is None:
+                    original_pub = original_pub.replace(tzinfo=timezone.utc)
+                if original_pub < original_cutoff:
+                    collected_links.add(item["link"])
+                    continue
+                item["published_at"] = original_pub.isoformat()
+
             articles.append(item)
             collected_links.add(item["link"])
     return articles
