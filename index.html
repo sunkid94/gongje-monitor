@@ -50,13 +50,14 @@
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
+    html { scroll-behavior: smooth; overflow-x: clip; }
     body {
       font-family: "Pretendard Variable", "Pretendard", -apple-system, sans-serif;
       color: var(--text);
       background: var(--bg);
       word-break: keep-all;
       -webkit-font-smoothing: antialiased;
+      overflow-x: clip;
     }
 
     nav {
@@ -438,6 +439,7 @@
       font-size: 16px; font-weight: 700; line-height: 1.5;
       margin-bottom: 10px;
       letter-spacing: -0.3px;
+      overflow-wrap: anywhere;
     }
     .article-title a {
       color: var(--text); text-decoration: none;
@@ -459,6 +461,7 @@
     }
     .article-summary {
       font-size: 13px; color: var(--sub); line-height: 1.7;
+      overflow-wrap: anywhere;
     }
 
     .copy-btn {
