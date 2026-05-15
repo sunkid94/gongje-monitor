@@ -40,7 +40,7 @@
       --cat-policy: #6b4f9a;
       --cat-market: #2c6f5a;
       --cat-safety: #d94936;
-      --cat-labor:  #c47b3a;
+      --cat-tech:   #2c8aa3;
       --cat-corp:   #4a5568;
       --cat-co-op:  #1E3A6F;
 
@@ -426,7 +426,7 @@
     .cat-badge.c-policy  { background: var(--cat-policy); }
     .cat-badge.c-market  { background: var(--cat-market); }
     .cat-badge.c-safety  { background: var(--cat-safety); }
-    .cat-badge.c-labor   { background: var(--cat-labor); }
+    .cat-badge.c-tech    { background: var(--cat-tech); }
     .cat-badge.c-corp    { background: var(--cat-corp); }
     .sent-dot { font-size: 9px; line-height: 1; }
     .sent-dot.neg { color: var(--sent-neg); }
@@ -697,8 +697,8 @@
         <span class="filter-label">산업 ▸</span>
         <button class="chip sub" data-cat="정책·규제">정책·규제 <span class="count"></span></button>
         <button class="chip sub" data-cat="시장·경기">시장·경기 <span class="count"></span></button>
-        <button class="chip sub" data-cat="안전·사고">안전·사고 <span class="count"></span></button>
-        <button class="chip sub" data-cat="노동·인력">노동·인력 <span class="count"></span></button>
+        <button class="chip sub" data-cat="안전·노동">안전·노동 <span class="count"></span></button>
+        <button class="chip sub" data-cat="신기술">신기술 <span class="count"></span></button>
       </div>
     </div>
   </div>
@@ -770,7 +770,7 @@
       to: '',
     };
 
-    const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·사고', '노동·인력'];
+    const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·노동', '신기술'];
     const COOP_KEYWORDS = ['기계설비건설공제조합', '엔지니어링공제조합', '건설공제조합', '전문건설공제조합', '대한기계설비건설협회'];
     const CORP_KEYWORDS = ['두산에너빌리티', '삼성중공업', '대우건설', '엘지씨엔에스', '두산퓨얼셀', '에이치디씨현대산업개발', '롯데건설', '포스코이앤씨', '에스지씨이앤씨', '신세계건설'];
 
@@ -778,12 +778,12 @@
       '조합·협회': 'c-co-op',
       '정책·규제': 'c-policy',
       '시장·경기': 'c-market',
-      '안전·사고': 'c-safety',
-      '노동·인력': 'c-labor',
+      '안전·노동': 'c-safety',
+      '신기술':   'c-tech',
       '종합건설사': 'c-corp',
     };
 
-    const CATEGORY_TOP_ORDER = ['정책·규제', '시장·경기', '안전·사고', '노동·인력', '종합건설사'];
+    const CATEGORY_TOP_ORDER = ['정책·규제', '시장·경기', '안전·노동', '신기술', '종합건설사'];
 
     function impDots(imp) {
       imp = imp || 0;

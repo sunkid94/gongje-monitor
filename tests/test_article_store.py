@@ -102,6 +102,44 @@ def test_save_articles_preserves_is_company_when_truncating(tmp_path):
     assert sum(1 for a in result if not a.get("is_company")) == 42
 
 
+def test_save_articles_caps_corp_category(tmp_path):
+    articles_file = str(tmp_path / "articles.json")
+    recent = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+    items = [
+        {"keyword": "k", "category": "종합건설사", "is_company": False,
+         "link": f"corp{i}", "collected_at": recent}
+        for i in range(15)
+    ]
+    with patch("article_store.ARTICLES_FILE", articles_file), \
+         patch("article_store.MAX_CORP_ARTICLES", 10):
+        import article_store
+        article_store.save_articles(items)
+        result = article_store.load_articles()
+    assert len(result) == 10
+    # 입력 최신 우선 가정 → 처음 10건이 살아남음
+    assert {a["link"] for a in result} == {f"corp{i}" for i in range(10)}
+
+
+def test_save_articles_corp_cap_does_not_affect_other_categories(tmp_path):
+    articles_file = str(tmp_path / "articles.json")
+    recent = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+    items = (
+        [{"keyword": "k", "category": "종합건설사", "is_company": False,
+          "link": f"corp{i}", "collected_at": recent} for i in range(15)]
+        + [{"keyword": "k", "category": "정책·규제", "is_company": False,
+            "link": f"pol{i}", "collected_at": recent} for i in range(15)]
+    )
+    with patch("article_store.ARTICLES_FILE", articles_file), \
+         patch("article_store.MAX_CORP_ARTICLES", 10):
+        import article_store
+        article_store.save_articles(items)
+        result = article_store.load_articles()
+    corp_kept = [a for a in result if a["category"] == "종합건설사"]
+    pol_kept = [a for a in result if a["category"] == "정책·규제"]
+    assert len(corp_kept) == 10   # 종건사 캡 적용
+    assert len(pol_kept) == 15    # 다른 카테고리는 영향 없음
+
+
 def test_add_articles_prepends_with_collected_at(tmp_path):
     articles_file = str(tmp_path / "articles.json")
     with patch("article_store.ARTICLES_FILE", articles_file):
