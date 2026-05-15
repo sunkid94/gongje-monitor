@@ -432,6 +432,7 @@
     .sent-dot.neu { color: var(--sent-neu); }
     .sent-dot.pos { color: var(--sent-pos); }
     .meta-sep { color: var(--border); }
+    .pubdate { color: var(--muted); font-size: 11px; }
 
     .article-title {
       font-size: 16px; font-weight: 700; line-height: 1.5;
@@ -806,6 +807,16 @@
       return `${days}일 전`;
     }
 
+    function formatPublishedDate(iso) {
+      if (!iso) return '';
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return '';
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      return `${y}-${m}-${day}`;
+    }
+
     function renderCard(a) {
       const cat = a.category || '(미분류)';
       const catClass = CATEGORY_CLASS[cat] || 'c-corp';
@@ -822,6 +833,7 @@
             ${sentDot(a.sentiment)}
             ${publisher ? `<span>${escapeHtml(publisher)}</span><span class="meta-sep">·</span>` : ''}
             <span class="time">${escapeHtml(relativeTime(a.collected_at))}</span>
+            ${a.published_at ? `<span class="meta-sep">·</span><span class="pubdate">발행 ${escapeHtml(formatPublishedDate(a.published_at))}</span>` : ''}
           </div>
           <div class="article-title">
             <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>
