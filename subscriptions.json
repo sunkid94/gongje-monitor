@@ -1,32 +1,22 @@
 [
   {
-    "name": "이재은 매니저",
-    "subscription": {
-      "endpoint": "https://fcm.googleapis.com/fcm/send/cvS_PxKax68:APA91bGtq3HEUdrUluZcKX1swWESl3wbQkYJNhgvcOpww2Ki-AAYuYn-DmzncM2K4kUqIgxSGOC2wNS3lMiVWHl-_vF7ngIci9jfJHYFWh54QX8YGQADdYrOtk-XQr08DWMQtO7HOiBe",
-      "expirationTime": null,
-      "keys": {
-        "p256dh": "BHY4D39mpakSqNtufvgCcCFwuwUn-vjsnk0GgGm36gL0LwhuFJ76a5hhy3mSU1lkplXg3GucV_mpZTycjASw5y4",
-        "auth": "1PB8udE9GxnPzqSrq5Rj1A"
-      }
+  "name": "이재은 매니저",
+  "subscription": {
+    "endpoint": "https://fcm.googleapis.com/fcm/send/cKoRHeWq9Ec:APA91bFG6jZuEHb71M1N3-N5EZK9VaitrIUJntiBY_exqIq814LOGJEHXLxSkXgDQbfM0BWweB2vG3Uw7y3WnYAh-pc0JJ1DSU2hTwT3atAiwl31aaKGfAz8tw2RHPlDHM2lrfLN1FPX",
+    "expirationTime": null,
+    "keys": {
+      "p256dh": "BDf0n7jDj2-w2G1MuqdOmRYaSTaVJFOEFrM1t9RVrxhxnI142fHM5bt1EfkdqQGdX_RWWyk4DY0Gk_UxounSShs",
+      "auth": "XPVqnD04MhtUcwJoxqdxjA"
     }
-  },
-  {
-    "name": "박현경",
-    "subscription": {
-      "endpoint": "https://web.push.apple.com/QJN7xsqyq2tfB9AUnTq7rxWNYQy43B0fabZlOgOay5i9p8D_YcAm9bguwnW3wrEA9zk2HRY6QBU_xDQNMsQHPZWI_tNjQp8MhA_QxJbIEJNC90dYlYTAE5tN9TcR0j3ux7vHQA5R8mH8VqpEfNupenrVgIyYO2C5Pr7r3tBX7vM",
-      "keys": {
-        "p256dh": "BFHFrpVSp6dxfdq38ZbRAvoGfxp8T9O62aKynnZTgSPCDO8wUlzgXtNAVdzGTpaHv-w6gpKwgM3qgZf6jzDgrog",
-        "auth": "mDvmzCHs97nH6O1T6Eygkg"
-      }
-    }
-  },
+  }
+},
 {
   "name": "양소희 선임",
   "subscription": {
-    "endpoint": "https://web.push.apple.com/QBcY69VekFtpep76-UlYrvNqp4KB-j3Jo9V5lTzGBP8a2EuAfBHcMH3zCwUmZy-dVB5H-kz8QoFXkIPPK1Qre5uLl2u5j3kA98H_4scHBIRx56jXgDccuTSAxSN1uDyDfWPKHg-Mw24SKVjcjxipFNNeDiBpxYAENzf3YTxvS3o",
+    "endpoint": "https://web.push.apple.com/QEFPnsno4ByPVYC7tQTG-DKrSSzyjydjRx0RIUR5-ubTcfT2avitZjYdskroGjb4fCFzyO4sB4R7Y1Oe1Rv1pHhyvRRZpfEUCi_YoVyheB-7yBgOYkIkEMX4MK46Ng1vLYqeMBxs1vg5DIRnMO76IgEhEAPqHECFOmSxNsD4ZGc",
     "keys": {
-      "p256dh": "BDaU5OcMX3L6CqGI12tmSfiUneuKZBL31opTowcWdcAjfwnd4SVcE_vJwv81tjUOcQNVuRW9UJw6yz05RoVv9FA",
-      "auth": "e6WAA3rbcRpv9R6wIAD9pQ"
+      "p256dh": "BOQy-6Ru7eXTW8GnhL9n5ZxX--3bP-cnOoC0A1aDB0Csz6KYEYxO2SOHACRY4GcdwCDvhJTUs3a4FVrmXD2FAbU",
+      "auth": "L1aB_s_WonCXujkKoAHKfQ"
     }
   }
 },
