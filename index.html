@@ -671,6 +671,7 @@
         <button class="chip" data-group="조합·협회">조합·협회 <span class="count"></span> <span class="caret">▾</span></button>
         <button class="chip" data-group="산업">산업 <span class="count"></span> <span class="caret">▾</span></button>
         <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span> <span class="count"></span> <span class="caret">▾</span></button>
+        <button class="chip" data-group="임원구독" title="매일경제·한국경제·대한경제">임원구독 <span class="count"></span></button>
       </div>
       <div class="filter-row cat-group hidden" id="cat-sub-corp">
         <span class="filter-label">종건사 ▸</span>
@@ -773,6 +774,7 @@
     const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·노동', '신기술'];
     const COOP_KEYWORDS = ['기계설비건설공제조합', '엔지니어링공제조합', '건설공제조합', '전문건설공제조합', '대한기계설비건설협회'];
     const CORP_KEYWORDS = ['두산에너빌리티', '삼성중공업', '대우건설', '엘지씨엔에스', '두산퓨얼셀', '에이치디씨현대산업개발', '롯데건설', '포스코이앤씨', '에스지씨이앤씨', '신세계건설'];
+    const EXEC_PUBLISHERS = ['매일경제', '한국경제', '대한경제'];
 
     const CATEGORY_CLASS = {
       '조합·협회': 'c-co-op',
@@ -893,6 +895,9 @@
         if (state.cat) return a.category === state.cat;
         return INDUSTRY_CATS.includes(a.category);
       }
+      if (state.group === '임원구독') {
+        return EXEC_PUBLISHERS.includes(a.publisher);
+      }
       return true;
     }
 
@@ -948,11 +953,12 @@
           el.textContent = `(${n})`;
         });
       });
-      // 그룹 칩 카운트 (조합·협회 / 산업 / 종합건설사)
+      // 그룹 칩 카운트 (조합·협회 / 산업 / 종합건설사 / 임원구독)
       const groupCounts = {
         '조합·협회': base.filter(a => a.category === '조합·협회').length,
         '산업': base.filter(a => INDUSTRY_CATS.includes(a.category)).length,
         '종합건설사': base.filter(a => a.category === '종합건설사').length,
+        '임원구독': base.filter(a => EXEC_PUBLISHERS.includes(a.publisher)).length,
       };
       Object.entries(groupCounts).forEach(([g, n]) => {
         document.querySelectorAll(`.chip[data-group="${g}"] .count`).forEach(el => {
