@@ -2241,6 +2241,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "신세계건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[마켓인] '이마트 5000억 수혈' 신세계건설, '밑 빠진 독' 우려 여전 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2RzZIQ1l0ak1tRkhSb01LaGNSUmtRcWdHRmxyOWxVWW03SHNNT2pOMGFjdkR2SWdfakttRGJ5Z2xvY1hxMmNfUnc0R0VxTlN0YnFR?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2RzZIQ1l0ak1tRkhSb01LaGNSUmtRcWdHRmxyOWxVWW03SHNNT2pOMGFjdkR2SWdfakttRGJ5Z2xvY1hxMmNfUnc0R0VxTlN0YnFR?oc=5\" target=\"_blank\">[마켓인] '이마트 5000억 수혈' 신세계건설, '밑 빠진 독' 우려 여전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "50a9",
+    "publisher": "네이트",
+    "title_clean": "[마켓인] '이마트 5000억 수혈' 신세계건설, '밑 빠진 독' 우려 여전",
+    "summary": "신세계건설이 이마트에 5000억 원을 수혈하면서 재정 악화 우려가 제기되고 있다. 계속된 손실로 인해 '밑 빠진 독'이라는 부정적 평가가 이어지고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-05-16T21:04:10",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -17876,22 +17891,6 @@
     "collected_at": "2026-05-13T07:30:50",
     "importance": 2,
     "published_at": "2026-05-13T14:23:00+09:00"
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[건설사 자금조달 진단]롯데건설, 'ABS·단기사채' 경로 다각화 - 블로터",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVMC05MWF3TVM1eHVkQVZkWjhaYm9SWmhlNjdsVWJ5ak9KNGl6LWNKc3ZkUnFYZlkwSGY0VHhqZkVzanp2Mjd4X1dpUlRhTDJkd1FWakhMSml5bW5tUF9UYmtkQ0tMMGlU0gFsQVVfeXFMTWdyVS1id2xXT1N1THBRZUJKUWNIaXdxUUFuU3Z3dVdTOU44Tlp4NURQelZBbURWa0FhMVdLUVMtbWpNMzk0a21mcHlWdnNxTFdkRkVoSkplaWRSdC1ZOHFoRVF0ZkxNdnJBS2g3?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVMC05MWF3TVM1eHVkQVZkWjhaYm9SWmhlNjdsVWJ5ak9KNGl6LWNKc3ZkUnFYZlkwSGY0VHhqZkVzanp2Mjd4X1dpUlRhTDJkd1FWakhMSml5bW5tUF9UYmtkQ0tMMGlU0gFsQVVfeXFMTWdyVS1id2xXT1N1THBRZUJKUWNIaXdxUUFuU3Z3dVdTOU44Tlp4NURQelZBbURWa0FhMVdLUVMtbWpNMzk0a21mcHlWdnNxTFdkRkVoSkplaWRSdC1ZOHFoRVF0ZkxNdnJBS2g3?oc=5\" target=\"_blank\">[건설사 자금조달 진단]롯데건설, 'ABS·단기사채' 경로 다각화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블로터</font>",
-    "cluster_id": "5e54",
-    "publisher": "블로터",
-    "title_clean": "[건설사 자금조달 진단]롯데건설, 'ABS·단기사채' 경로 다각화",
-    "summary": "롯데건설이 자금조달 경로를 다각화하여 ABS(자산유동화증권)와 단기사채 등 다양한 펀딩 수단을 활용하고 있다. 이는 건설사의 자금난 완화 및 재무 유연성 강화 전략으로 볼 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-13T07:30:50",
-    "importance": 2,
-    "published_at": "2026-05-13T15:06:41+09:00"
   },
   {
     "keyword": "국토교통부 건설",
