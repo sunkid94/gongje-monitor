@@ -17892,6 +17892,38 @@
     "published_at": "2026-05-13T14:53:47+09:00"
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[기획] AI 월패드·얼굴인식·로봇 택배…편리함만큼 ‘비싼’ 아파트 첨단기술 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12aFVpU3BFenFheGRhS0ZYcFpkVXNqaTJNUkVNQm44R3dBRGdwNTdEQW5MMVZMbTBSdUN2TldOZzZaOEJ6em5GU3phWUZPbGdJX1ItaV9HZkktU0MzY09uc3dGZlg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE12aFVpU3BFenFheGRhS0ZYcFpkVXNqaTJNUkVNQm44R3dBRGdwNTdEQW5MMVZMbTBSdUN2TldOZzZaOEJ6em5GU3phWUZPbGdJX1ItaV9HZkktU0MzY09uc3dGZlg?oc=5\" target=\"_blank\">[기획] AI 월패드·얼굴인식·로봇 택배…편리함만큼 ‘비싼’ 아파트 첨단기술</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+    "published_at": "2026-05-17T09:00:00+09:00",
+    "cluster_id": "a324",
+    "publisher": "매일일보",
+    "title_clean": "[기획] AI 월패드·얼굴인식·로봇 택배…편리함만큼 ‘비싼’ 아파트 첨단기술",
+    "summary": "최신 아파트에 AI 월패드, 얼굴인식, 로봇 택배 등 첨단기술이 적용되는 추세를 다룬 기획기사. 편의성 향상에 따른 건설 비용 상승으로 아파트 가격이 올라가는 현상을 보도.",
+    "sentiment": "neutral",
+    "collected_at": "2026-05-17T00:08:01",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[기획] 해외는 어디까지 갔나…디지털 트윈 등 기술 아파트의 현재 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QT1Y0OTRycThHSXJUT2txbnNqVVVWVE43WkFOVUt5Z0FIZmd3anZveEw1cVRyQWdfMV9mempublVrZGwwTXZ5SjZhMFE5ekRhajJndzhPSGRmZ3NtLUdIdzZqOFY?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QT1Y0OTRycThHSXJUT2txbnNqVVVWVE43WkFOVUt5Z0FIZmd3anZveEw1cVRyQWdfMV9mempublVrZGwwTXZ5SjZhMFE5ekRhajJndzhPSGRmZ3NtLUdIdzZqOFY?oc=5\" target=\"_blank\">[기획] 해외는 어디까지 갔나…디지털 트윈 등 기술 아파트의 현재</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+    "published_at": "2026-05-17T09:00:00+09:00",
+    "cluster_id": "c624",
+    "publisher": "매일일보",
+    "title_clean": "[기획] 해외는 어디까지 갔나…디지털 트윈 등 기술 아파트의 현재",
+    "summary": "해외 선진국의 디지털 트윈 등 첨단 기술을 활용한 스마트 아파트 구현 사례를 소개하는 기획 기사. 건설 및 기계설비 산업의 기술 혁신 동향을 다루고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-05-17T00:08:01",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
