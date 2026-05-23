@@ -19316,6 +19316,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "홍지선 제2차관, \"철도건설현장기본은 철저하게, 안전은 꼼꼼하게 살펴야\" 강조 - 한국방송뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiX0dMZkxtbWNrWXNCei1RdGVwNnZuTjRTcWctcEpXSl9EcUZ1V05QVVZlZ3FPbUZ3RjVfLVBJUXBCTjJpUTNsMTROaHhYNXpMOWRsUGxMQkhEbFA5Snc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiX0dMZkxtbWNrWXNCei1RdGVwNnZuTjRTcWctcEpXSl9EcUZ1V05QVVZlZ3FPbUZ3RjVfLVBJUXBCTjJpUTNsMTROaHhYNXpMOWRsUGxMQkhEbFA5Snc?oc=5\" target=\"_blank\">홍지선 제2차관, \"철도건설현장기본은 철저하게, 안전은 꼼꼼하게 살펴야\" 강조</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국방송뉴스</font>",
+    "cluster_id": "6b28",
+    "publisher": "한국방송뉴스",
+    "title_clean": "홍지선 제2차관, \"철도건설현장기본은 철저하게, 안전은 꼼꼼하게 살펴야\" 강조",
+    "summary": "홍지선 제2차관이 철도건설현장의 기본 준수와 안전 관리를 강조했습니다. 정부 관계자의 안전 점검 강화 의지를 드러낸 내용입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-05-23T18:11:09",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -31287,21 +31302,5 @@
     "sentiment": "positive",
     "collected_at": "2026-05-18T04:54:28",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 신한울 3·4호기 현장에 안전체험교육장 - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZcGNBMHNtTmJwemJHYzMwTXFDQy1MOFhRVk9QZnV6VGRVOXU0MnVpQU91ZW1RZlJleGxVdnhqaFV2bGh2VTFYYXZSVU9KekhPaWtvS1pn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZcGNBMHNtTmJwemJHYzMwTXFDQy1MOFhRVk9QZnV6VGRVOXU0MnVpQU91ZW1RZlJleGxVdnhqaFV2bGh2VTFYYXZSVU9KekhPaWtvS1pn?oc=5\" target=\"_blank\">현대건설, 신한울 3·4호기 현장에 안전체험교육장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-    "published_at": "2026-05-18T11:31:17+09:00",
-    "cluster_id": "822d",
-    "publisher": "헤럴드경제",
-    "title_clean": "현대건설, 신한울 3·4호기 현장에 안전체험교육장",
-    "summary": "현대건설이 신한울 3·4호기 건설 현장에 안전체험교육장을 설치하여 건설 안전 문화를 강화하고 있다. 이는 대형 건설 프로젝트에서 산업안전을 중시하는 기업의 적극적인 노력을 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-18T04:54:28",
-    "importance": 3
   }
 ]
