@@ -19316,6 +19316,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, PF 우발채무 축소 불구 유동성 압박 여전 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90RjlGeTdpQTRrX0tJU0J6WThuWmlWTl81M3BBYkEyWjVXZkExanZZS2FGRVpibTFGRFlOdGRCTEZqMjItRml6cnBNTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE90RjlGeTdpQTRrX0tJU0J6WThuWmlWTl81M3BBYkEyWjVXZkExanZZS2FGRVpibTFGRFlOdGRCTEZqMjItRml6cnBNTQ?oc=5\" target=\"_blank\">롯데건설, PF 우발채무 축소 불구 유동성 압박 여전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "218b",
+    "publisher": "v.daum.net",
+    "title_clean": "롯데건설, PF 우발채무 축소 불구 유동성 압박 여전",
+    "summary": "롯데건설이 프로젝트파이낸싱(PF) 우발채무를 축소했으나, 유동성 압박 상황은 여전한 것으로 나타났다. 건설업계의 자금 조달 어려움과 재무 건전성 우려가 지속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-05-23T17:16:02",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31288,21 +31303,5 @@
     "sentiment": "positive",
     "collected_at": "2026-05-18T04:54:28",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 신한울 3·4호기 현장에 안전체험교육장 개관 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KaDZCWlY0SzI1Qm5wejZ0b0UyS0YzUjQwbjM4Z0VJTFFfTlJTSHhuWlpHTVphRjd6bElOd1M1a2NqNUo2b0Q3bzdWa19HZm5QbjNuUnE2OGpzV3JZX0ZsQ0I2ODNHQXY3MmpzblhR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9KaDZCWlY0SzI1Qm5wejZ0b0UyS0YzUjQwbjM4Z0VJTFFfTlJTSHhuWlpHTVphRjd6bElOd1M1a2NqNUo2b0Q3bzdWa19HZm5QbjNuUnE2OGpzV3JZX0ZsQ0I2ODNHQXY3MmpzblhR?oc=5\" target=\"_blank\">현대건설, 신한울 3·4호기 현장에 안전체험교육장 개관</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아투데이</font>",
-    "published_at": "2026-05-18T12:39:41+09:00",
-    "cluster_id": "819c",
-    "publisher": "아시아투데이",
-    "title_clean": "현대건설, 신한울 3·4호기 현장에 안전체험교육장 개관",
-    "summary": "현대건설이 신한울 3·4호기 건설 현장에 안전체험교육장을 개관했다. 이는 건설 현장의 안전 문화 강화 및 근로자 안전교육 체계 구축을 위한 조치로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-18T04:54:28",
-    "importance": 5
   }
 ]
