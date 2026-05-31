@@ -1,8 +1,8 @@
 name: 공제조합 이슈 모니터
 
 on:
-  schedule:
-    - cron: '17 * * * *'  # 매 시간 17분 (UTC 기준) - 정각 혼잡 회피
+  # schedule:
+  #   - cron: '17 * * * *'  # Oracle 서버로 이전 — 스케줄 비활성화
   workflow_dispatch:        # 수동 실행 버튼
 
 jobs:
