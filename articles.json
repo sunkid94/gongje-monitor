@@ -19547,6 +19547,22 @@
     "category": "안전·노동",
     "is_company": false,
     "title": "화성특례시, 건설공사 시민감리단 출범 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TRnpnaFlmMkNwS0QwS3dKNlgtcUxxVXNtUW01dExKaERFWkVXZEFrNWg0NDZrWkFpQjJnVFJBLThnSjJlSkpiUVF2T0dYTTdxM1hJQ19SNkg4T0tqU1hFMGdobG8?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TRnpnaFlmMkNwS0QwS3dKNlgtcUxxVXNtUW01dExKaERFWkVXZEFrNWg0NDZrWkFpQjJnVFJBLThnSjJlSkpiUVF2T0dYTTdxM1hJQ19SNkg4T0tqU1hFMGdobG8?oc=5\" target=\"_blank\">화성특례시, 건설공사 시민감리단 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+    "published_at": "2026-06-01T08:21:26+09:00",
+    "cluster_id": "d3ba",
+    "publisher": "매일일보",
+    "title_clean": "화성특례시, 건설공사 시민감리단 출범",
+    "summary": "화성특례시가 건설공사의 투명성과 품질 관리를 위해 시민감리단을 출범시켰다. 시민감리단은 건설공사 현장을 감시하고 감리 업무를 감독하는 역할을 수행할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-01T08:32:25",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "화성특례시, 건설공사 시민감리단 출범 - 매일일보",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rQ3Z6aDlFNDF6cVJBYVJqc0FNbGZNVl9TYmJfTk9UU2JTbld1YjF3VENiclBQYzNFTjlxRjZxLWF2cGZoQ3FjX2hCTGJ5Sk5sZVdFQmMzbUcyaVpsY09WUVM3QQ?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rQ3Z6aDlFNDF6cVJBYVJqc0FNbGZNVl9TYmJfTk9UU2JTbld1YjF3VENiclBQYzNFTjlxRjZxLWF2cGZoQ3FjX2hCTGJ5Sk5sZVdFQmMzbUcyaVpsY09WUVM3QQ?oc=5\" target=\"_blank\">화성특례시, 건설공사 시민감리단 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
     "published_at": "2026-06-01T08:21:26+09:00",
@@ -31271,20 +31287,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-26T08:53:38",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건산연, ‘2026 하반기 건설ㆍ부동산 경기전망 세미나’ 내달 18일 개최 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUb0doZ3JreWVXeFNnRVd3VWxwM3paSzRIN1hncUNtX20xTm45cUFqWTNoT1B0ZHlBYWRsWDVXT3c4b1A1dlBXZVhtSzJ6TXIxYnJHNjRRS083aU9HSGlHY1c0cWF3YU1zU2pwY1RHOGxxcURS?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBUb0doZ3JreWVXeFNnRVd3VWxwM3paSzRIN1hncUNtX20xTm45cUFqWTNoT1B0ZHlBYWRsWDVXT3c4b1A1dlBXZVhtSzJ6TXIxYnJHNjRRS083aU9HSGlHY1c0cWF3YU1zU2pwY1RHOGxxcURS?oc=5\" target=\"_blank\">건산연, ‘2026 하반기 건설ㆍ부동산 경기전망 세미나’ 내달 18일 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "a439",
-    "publisher": "대한경제",
-    "title_clean": "건산연, ‘2026 하반기 건설ㆍ부동산 경기전망 세미나’ 내달 18일 개최",
-    "summary": "건설산업연구원(건산연)이 내달 18일 '2026 하반기 건설·부동산 경기전망 세미나'를 개최한다. 건설·부동산 업계의 경기 동향과 전망을 공유하는 행사이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-26T08:53:38",
-    "importance": 2
   }
 ]
