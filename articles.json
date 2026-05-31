@@ -19543,6 +19543,21 @@
     "importance": 3
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "대우건설, AI·DX 활용 스마트 건설 확대..‘실시간 AI 번역기’ 개발 - 한국정경신문",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hYnVrWXdrMWZ1eFdoZlBHbWxIOWNGX1UzT19sM281blRvUUJBMGJabzYxY0JZYUxzN21XNDVVYWg2cE9lVER3S1h3WEN4cE5TYVE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hYnVrWXdrMWZ1eFdoZlBHbWxIOWNGX1UzT19sM281blRvUUJBMGJabzYxY0JZYUxzN21XNDVVYWg2cE9lVER3S1h3WEN4cE5TYVE?oc=5\" target=\"_blank\">대우건설, AI·DX 활용 스마트 건설 확대..‘실시간 AI 번역기’ 개발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국정경신문</font>",
+    "cluster_id": "ce11",
+    "publisher": "한국정경신문",
+    "title_clean": "대우건설, AI·DX 활용 스마트 건설 확대..‘실시간 AI 번역기’ 개발",
+    "summary": "대우건설이 AI와 DX 기술을 활용하여 스마트 건설 사업을 확대하고 있으며, 실시간 AI 번역기 개발을 통해 건설 현장의 의사소통 효율성을 높이고 있다. 이는 건설업계의 디지털 혁신과 생산성 향상을 추진하는 긍정적 사례로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-01T08:52:23",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31270,21 +31285,6 @@
     "title_clean": "[게시판] 건설산업연구원, 내달 18일 건설·부동산 경기전망 세미나",
     "summary": "건설산업연구원이 내달 18일 건설·부동산 경기전망 세미나를 개최한다. 업계 경기 현황과 전망에 대한 정보 공유의 장이 마련된다.",
     "sentiment": "neutral",
-    "collected_at": "2026-05-26T08:53:38",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "우 의장, 건설경기 활성화 위한 ‘공동선언문’ 서명 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wXzM4b3ZDd095Zk9KSjByMHAwYjdsNS1xNGNDVW5VU0hwTEE4SFlOLTBYZzF6cmFWS0NlaDNhTE1UQ2J1YUVVZ2VRZEJsT3d4ZVpfdGlLMXJRZlpyT1JHNzBoa0gzUWpJNWNrclJyTm1ZaG1O?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5wXzM4b3ZDd095Zk9KSjByMHAwYjdsNS1xNGNDVW5VU0hwTEE4SFlOLTBYZzF6cmFWS0NlaDNhTE1UQ2J1YUVVZ2VRZEJsT3d4ZVpfdGlLMXJRZlpyT1JHNzBoa0gzUWpJNWNrclJyTm1ZaG1O?oc=5\" target=\"_blank\">우 의장, 건설경기 활성화 위한 ‘공동선언문’ 서명</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "eb51",
-    "publisher": "대한경제",
-    "title_clean": "우 의장, 건설경기 활성화 위한 ‘공동선언문’ 서명",
-    "summary": "우 의장이 건설경기 활성화를 위해 공동선언문에 서명했다. 정부 차원의 건설업 활성화 의지를 표현한 것으로 보인다.",
-    "sentiment": "positive",
     "collected_at": "2026-05-26T08:53:38",
     "importance": 2
   }
