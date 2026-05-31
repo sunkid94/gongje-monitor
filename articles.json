@@ -3902,6 +3902,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"변화 보단 안정, 외형 보단 내실\"...롯데건설, 올 상반기 정비사업 1조549억 확보 - 청년일보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KOHgtQzJCc24xb2hqeldIS2JjYjdPX2xQcHd4RnAxcVNkRkpzdEV4LURWSjdEc29HYkp0bnZYQl9la2U3TGRqVGtuZzNqbWRySV9UVVgwaFNrQ3ZZNmpVWk1rUl9pdTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KOHgtQzJCc24xb2hqeldIS2JjYjdPX2xQcHd4RnAxcVNkRkpzdEV4LURWSjdEc29HYkp0bnZYQl9la2U3TGRqVGtuZzNqbWRySV9UVVgwaFNrQ3ZZNmpVWk1rUl9pdTQ?oc=5\" target=\"_blank\">\"변화 보단 안정, 외형 보단 내실\"...롯데건설, 올 상반기 정비사업 1조549억 확보</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">청년일보</font>",
+    "cluster_id": "8aeb",
+    "publisher": "청년일보",
+    "title_clean": "\"변화 보단 안정, 외형 보단 내실\"...롯데건설, 올 상반기 정비사업 1조549억 확보",
+    "summary": "롯데건설이 올해 상반기 정비사업(리모델링)에서 1조549억 원의 수주를 확보했다. '안정과 내실'을 기조로 정비사업에 집중하고 있으며, 이는 건설업계의 안정적인 사업 추진을 보여주는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-01T08:07:25",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19526,22 +19541,6 @@
     "sentiment": "positive",
     "collected_at": "2026-05-26T08:53:38",
     "importance": 3
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[굿모닝! 26일 건설업계 소식] 현대건설·롯데건설·호반건설·IPARK현대산업개발 - 굿모닝경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVXJVbWYyQWJfZXhqOUdHOUpMYjZBSGZKM2kwU1lGRUQ5R0gzaHVHX3N3dFZ0aDNzNUtySV9rRmdVdFlmVFNyUlQyYUN6U21NcGQ2cXByM3RDeVVyR0ZPMUtaY1lFbUNXRE9ycA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVXJVbWYyQWJfZXhqOUdHOUpMYjZBSGZKM2kwU1lGRUQ5R0gzaHVHX3N3dFZ0aDNzNUtySV9rRmdVdFlmVFNyUlQyYUN6U21NcGQ2cXByM3RDeVVyR0ZPMUtaY1lFbUNXRE9ycA?oc=5\" target=\"_blank\">[굿모닝! 26일 건설업계 소식] 현대건설·롯데건설·호반건설·IPARK현대산업개발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝경제</font>",
-    "published_at": "2026-05-26T14:05:49+09:00",
-    "cluster_id": "b93a",
-    "publisher": "굿모닝경제",
-    "title_clean": "[굿모닝! 26일 건설업계 소식] 현대건설·롯데건설·호반건설·IPARK현대산업개발",
-    "summary": "현대건설, 롯데건설, 호반건설, IPARK현대산업개발 등 주요 건설사들의 26일자 소식을 전하는 업계 뉴스 브리핑 기사입니다. 구체적인 수주, 준공, 사업 현황 등에 관한 상세 내용은 제공되지 않았습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-26T08:53:38",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
