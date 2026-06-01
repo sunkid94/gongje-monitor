@@ -19969,6 +19969,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 일감 실종에 일용직도 직격탄…현장 노동자들 ‘한숨’ - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xa3laWTN2NW5zYWZrYjVfSVZDenhkc1hHTUt2UjV3NEV0LTZUZ1ZGR3ZyVnJ0cGQwaTMtRDZiUzUtVmdreFBkZVpSVQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xa3laWTN2NW5zYWZrYjVfSVZDenhkc1hHTUt2UjV3NEV0LTZUZ1ZGR3ZyVnJ0cGQwaTMtRDZiUzUtVmdreFBkZVpSVQ?oc=5\" target=\"_blank\">건설 일감 실종에 일용직도 직격탄…현장 노동자들 ‘한숨’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "d8f4",
+    "publisher": "v.daum.net",
+    "title_clean": "건설 일감 실종에 일용직도 직격탄…현장 노동자들 ‘한숨’",
+    "summary": "건설 일감 감소로 인해 현장 일용직 노동자들이 일거리 부족으로 어려움을 겪고 있다. 건설업 부진이 하층 노동자들에게 직접적인 경제적 타격을 주고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-02T04:27:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -31235,22 +31250,6 @@
     "summary": "한양과학기publikheid고 스마트건설정보과 김민재 학생이 서울중부경찰서장 표창을 수상했다. 이는 학생의 개인적 성과에 관한 교육 뉴스로, 건설업계 전반과 직접적인 연관성이 없다.",
     "sentiment": "neutral",
     "collected_at": "2026-05-27T16:48:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "김윤덕 국토교통부 장관, 가덕도신공항건설 현장 점검…“주민이주·안전관리 철저” 당부 - 뉴스타운",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15WVlqUmdfblVyaHI0NGtLemxKSzlXY01OdXdMMkdaNzdYNktmU0k1WmFSQ203MmZrSF82Ti1kQkhCbjdxY2t6aFBJdWg2ZUNTWmZqTjBmWFI5VFd2YU1zVG5Td0tHQUQ3VzVDaUpR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE15WVlqUmdfblVyaHI0NGtLemxKSzlXY01OdXdMMkdaNzdYNktmU0k1WmFSQ203MmZrSF82Ti1kQkhCbjdxY2t6aFBJdWg2ZUNTWmZqTjBmWFI5VFd2YU1zVG5Td0tHQUQ3VzVDaUpR?oc=5\" target=\"_blank\">김윤덕 국토교통부 장관, 가덕도신공항건설 현장 점검…“주민이주·안전관리 철저” 당부</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스타운</font>",
-    "published_at": "2026-05-27T18:59:09+09:00",
-    "cluster_id": "868f",
-    "publisher": "뉴스타운",
-    "title_clean": "김윤덕 국토교통부 장관, 가덕도신공항건설 현장 점검…“주민이주·안전관리 철저” 당부",
-    "summary": "김윤덕 국토교통부 장관이 가덕도신공항건설 현장을 점검하고 주민이주 및 안전관리를 철저히 할 것을 당부했다. 대형 SOC 프로젝트인 신공항 건설이 정부 주도로 진행되고 있음을 시사한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-27T12:34:59+09:00",
     "importance": 2
   }
 ]
