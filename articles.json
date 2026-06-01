@@ -20017,6 +20017,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "신동아건설, 안양 비산동 가로주택정비사업 수주 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fNFRQUE9Cdm14Q3dDb3hCcWZkSmM2RWlKQ2x0Y21iVFYxcjU4VWFVeUVEVXVOeXBwQ09LTWFRYWdCcE5DOEZ6T09tbXNuTmVHYmVnQmVqQVl6NHlSN2UxSVhtem4tMUpzeDN2bEdraXdGeHA2SER6eA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9fNFRQUE9Cdm14Q3dDb3hCcWZkSmM2RWlKQ2x0Y21iVFYxcjU4VWFVeUVEVXVOeXBwQ09LTWFRYWdCcE5DOEZ6T09tbXNuTmVHYmVnQmVqQVl6NHlSN2UxSVhtem4tMUpzeDN2bEdraXdGeHA2SER6eA?oc=5\" target=\"_blank\">신동아건설, 안양 비산동 가로주택정비사업 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "da20",
+    "publisher": "네이트",
+    "title_clean": "신동아건설, 안양 비산동 가로주택정비사업 수주",
+    "summary": "신동아건설이 안양시 비산동 가로주택정비사업을 수주했다. 이는 건설사의 수주 실적 증가를 나타내는 긍정적인 소식이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T08:27:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31235,21 +31250,6 @@
     "summary": "대우건설이 오픈 이노베이션을 통해 안전, AI, 스마트건설 등 핵심 기술 확보에 나선다. 이는 건설업계의 기술 혁신과 경쟁력 강화를 위한 업계 호재 사항이다.",
     "sentiment": "positive",
     "collected_at": "2026-05-27T19:34:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "완주군, 지역 건설산업 활성 4대 과제 추진 - 경기뉴스원",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tVmFkZ1kxZjNFOENHWWI1b09Ja3UxVWhNWFZmRi1MMnZvRWxMWW5SNVo3V0dGVk5vdlVCNG90WmUwLTRWdVlPellJUVRGeU5LZWJTWW1DSkxRUmVtQ2dfc2ZEQQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tVmFkZ1kxZjNFOENHWWI1b09Ja3UxVWhNWFZmRi1MMnZvRWxMWW5SNVo3V0dGVk5vdlVCNG90WmUwLTRWdVlPellJUVRGeU5LZWJTWW1DSkxRUmVtQ2dfc2ZEQQ?oc=5\" target=\"_blank\">완주군, 지역 건설산업 활성 4대 과제 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기뉴스원</font>",
-    "cluster_id": "3207",
-    "publisher": "경기뉴스원",
-    "title_clean": "완주군, 지역 건설산업 활성 4대 과제 추진",
-    "summary": "완주군이 지역 건설산업 활성화를 위해 4대 과제를 추진 중이다. 이는 지역 건설업체 지원 및 산업 육성을 통한 경제 활성화 방안으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-27T16:48:43+09:00",
     "importance": 2
   }
 ]
