@@ -9,6 +9,8 @@ from typing import Optional
 
 import anthropic
 
+from article_store import format_collected_at, parse_collected_at
+
 logger = logging.getLogger(__name__)
 
 _PUBLISHER_SUFFIX_RE = re.compile(r"\s+-\s+([^-]+?)\s*$")
@@ -72,7 +74,9 @@ def enrich_article(title: str, description: str) -> dict:
 
 def calc_importance(article: dict, cluster_size: int, now: Optional[datetime] = None) -> int:
     if now is None:
-        now = datetime.now()
+        now = datetime.now().astimezone()
+    elif now.tzinfo is None:
+        now = now.astimezone()
 
     score = 0
     if article.get("is_company"):
@@ -84,7 +88,7 @@ def calc_importance(article: dict, cluster_size: int, now: Optional[datetime] = 
     collected_at_str = article.get("collected_at")
     if collected_at_str:
         try:
-            collected = datetime.strptime(collected_at_str, "%Y-%m-%dT%H:%M:%S")
+            collected = parse_collected_at(collected_at_str)
             if (now - collected) < timedelta(hours=24):
                 score += 2
         except ValueError:
@@ -101,8 +105,8 @@ def enrich_articles(articles: list) -> list:
     cluster_sizes = Counter(a["cluster_id"] for a in clustered)
 
     enriched = []
-    now = datetime.now()
-    now_str = now.strftime("%Y-%m-%dT%H:%M:%S")
+    now = datetime.now().astimezone()
+    now_str = format_collected_at(now)
     for a in clustered:
         title = a["title"]
         publisher = extract_publisher(title)

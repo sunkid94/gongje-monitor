@@ -11,7 +11,7 @@ from typing import Optional
 
 import anthropic
 
-from article_store import load_articles
+from article_store import format_collected_at, load_articles, parse_collected_at
 
 logger = logging.getLogger(__name__)
 
@@ -44,11 +44,13 @@ JSON 출력 (다른 텍스트 없이):
 
 
 def select_top_clusters(articles: list, now: datetime, limit: int = 5) -> list:
+    if now.tzinfo is None:
+        now = now.astimezone()
     cutoff = now - timedelta(days=7)
     window = []
     for a in articles:
         try:
-            collected = datetime.strptime(a.get("collected_at", ""), "%Y-%m-%dT%H:%M:%S")
+            collected = parse_collected_at(a.get("collected_at", ""))
         except ValueError:
             continue
         if collected >= cutoff:
@@ -87,7 +89,9 @@ def _build_items_block(articles: list) -> str:
 
 def generate_weekly_summary(output_path: str = OUTPUT_PATH, now: Optional[datetime] = None) -> None:
     if now is None:
-        now = datetime.now()
+        now = datetime.now().astimezone()
+    elif now.tzinfo is None:
+        now = now.astimezone()
 
     articles = load_articles()
     top = select_top_clusters(articles, now=now)
@@ -116,7 +120,7 @@ def generate_weekly_summary(output_path: str = OUTPUT_PATH, now: Optional[dateti
         logger.error("주간 요약 생성 실패: %s", e)
         return
 
-    data["generated_at"] = now.strftime("%Y-%m-%dT%H:%M:%S")
+    data["generated_at"] = format_collected_at(now)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     logger.info("weekly.json 저장: %d건", len(data.get("items", [])))
