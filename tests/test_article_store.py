@@ -162,3 +162,40 @@ def test_add_articles_prepends_to_existing(tmp_path):
         result = article_store.load_articles()
     assert result[0]["link"] == "http://news.google.com/1"
     assert result[1]["link"] == "http://old/1"
+
+
+def test_add_articles_writes_timezone_aware_collected_at(tmp_path):
+    """프론트엔드 relativeTime() 이 collected_at 을 KST 가 아닌 UTC 로 오인식해
+    "1분 전"이 무한 반복되던 버그 회귀 방지 — 저장 시 타임존 오프셋이 반드시 포함돼야 함.
+    """
+    import re
+    articles_file = str(tmp_path / "articles.json")
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        article_store.add_articles([SAMPLE_ARTICLES[0]])
+        result = article_store.load_articles()
+    collected_at = result[0]["collected_at"]
+    # index.html:793 의 정규식과 동일한 패턴 — Z 또는 ±HH:MM 으로 끝나야 함
+    assert re.search(r"[Zz]|[+-]\d{2}:?\d{2}$", collected_at), \
+        f"collected_at 에 타임존 오프셋 없음: {collected_at!r}"
+
+
+def test_save_articles_migrates_naive_collected_at_to_timezone_aware(tmp_path):
+    """기존 articles.json 의 타임존 없는 데이터는 저장 시 자동으로 로컬 타임존이 부여돼야 함."""
+    import re
+    articles_file = str(tmp_path / "articles.json")
+    naive = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%dT%H:%M:%S")
+    items = [{"keyword": "k", "is_company": True, "link": "x", "collected_at": naive}]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        article_store.save_articles(items)
+        result = article_store.load_articles()
+    assert re.search(r"[+-]\d{2}:?\d{2}$", result[0]["collected_at"])
+
+
+def test_parse_collected_at_handles_both_formats():
+    from article_store import parse_collected_at
+    naive = parse_collected_at("2026-05-31T22:04:55")
+    tz_aware = parse_collected_at("2026-05-31T22:04:55+09:00")
+    assert naive.tzinfo is not None         # naive → 로컬 tz 부여
+    assert tz_aware.utcoffset().total_seconds() == 9 * 3600
