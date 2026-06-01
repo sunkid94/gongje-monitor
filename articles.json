@@ -19990,6 +19990,21 @@
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
+    "title": "현대차그룹 '건설 R&D' 통합 수소·SMR·스마트건설 속도 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUZ2VNRXFTTFFvclE5cENDR05kdVlZVnFVVV8xV1VtY3pqRTBXUWp5c0s1djZPUVlXeWhtQVdLakdHdUg1cV9VX2dMN282OHpDX2tRWmpwREVkdlhpdkhRTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUZ2VNRXFTTFFvclE5cENDR05kdVlZVnFVVV8xV1VtY3pqRTBXUWp5c0s1djZPUVlXeWhtQVdLakdHdUg1cV9VX2dMN282OHpDX2tRWmpwREVkdlhpdkhRTQ?oc=5\" target=\"_blank\">현대차그룹 '건설 R&amp;D' 통합 수소·SMR·스마트건설 속도</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "a88c",
+    "publisher": "네이트",
+    "title_clean": "현대차그룹 '건설 R&D' 통합 수소·SMR·스마트건설 속도",
+    "summary": "현대차그룹이 건설 R&D 조직을 통합하여 수소에너지, SMR(소형모듈원전), 스마트건설 등 신사업 분야를 집중 추진 중이다. 이는 건설업계의 기술혁신과 신규 사업 기회 창출로 이어질 수 있는 긍정적 신호이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T05:47:50+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
     "title": "현대건설·현대엔지니어링 R＆D 조직 통합 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHajMzR1h6RFdVOS1GaXM3S0F5RlM0U3d0VjRWc3B0UE9PMGlmM3dGd0N2M0U2WWR4REl4TzBydFh1N3FhblNzLTRTUURmR0hGNFg4?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHajMzR1h6RFdVOS1GaXM3S0F5RlM0U3d0VjRWc3B0UE9PMGlmM3dGd0N2M0U2WWR4REl4TzBydFh1N3FhblNzLTRTUURmR0hGNFg4?oc=5\" target=\"_blank\">현대건설·현대엔지니어링 R＆D 조직 통합</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
@@ -31238,21 +31253,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-27T16:48:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "롯데건설, AI 번역기로 외국인 근로자 소통 강화…건설현장 언어장벽 극복 - 파이낸셜신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZbGlEemQ2YjlkNlpsS2dMelFIdFI1WDhvOWJtWkgwQjAzMkdCWWdSS3FBZ3kxX1Y0aGdxYnFWNktsSTAtYjh1TG9HTWVqRllQYzl1bERDMW9NOEo0ajFnUnhtbWJYZkRhdURN?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBZbGlEemQ2YjlkNlpsS2dMelFIdFI1WDhvOWJtWkgwQjAzMkdCWWdSS3FBZ3kxX1Y0aGdxYnFWNktsSTAtYjh1TG9HTWVqRllQYzl1bERDMW9NOEo0ajFnUnhtbWJYZkRhdURN?oc=5\" target=\"_blank\">롯데건설, AI 번역기로 외국인 근로자 소통 강화…건설현장 언어장벽 극복</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜신문</font>",
-    "published_at": "2026-05-27T16:55:54+09:00",
-    "cluster_id": "8a5e",
-    "publisher": "파이낸셜신문",
-    "title_clean": "롯데건설, AI 번역기로 외국인 근로자 소통 강화…건설현장 언어장벽 극복",
-    "summary": "롯데건설이 AI 번역기를 도입하여 건설현장의 외국인 근로자와의 의사소통 효율성을 높이고 있다. 이는 건설현장의 오래된 언어장벽 문제를 기술로 해결하려는 시도로, 안전성 향상과 업무 효율성 개선에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-27T16:48:43+09:00",
-    "importance": 2
   }
 ]
