@@ -4388,6 +4388,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데그룹, 12개 계열사 수시 채용 시작 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzFvc0FvdnpuQ01NRnduNXUyUmtLOVdaNjBNdE1wWDVaQmJuTE5iQ2EtRDZWQ3YyTlpRdmFIdWtzNjNabWdobzh0WEhSVGVXdjBVSHB3RDF6VWJhRFp2TW5tWDBaZFNyZ3NMWk1uOVgwWTV2Rk9uNGw1VUFyLUk2UkxPOThxMjBtX0hrSG8zVQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzFvc0FvdnpuQ01NRnduNXUyUmtLOVdaNjBNdE1wWDVaQmJuTE5iQ2EtRDZWQ3YyTlpRdmFIdWtzNjNabWdobzh0WEhSVGVXdjBVSHB3RDF6VWJhRFp2TW5tWDBaZFNyZ3NMWk1uOVgwWTV2Rk9uNGw1VUFyLUk2UkxPOThxMjBtX0hrSG8zVQ?oc=5\" target=\"_blank\">롯데그룹, 12개 계열사 수시 채용 시작</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "cluster_id": "6713",
+    "publisher": "조선일보",
+    "title_clean": "롯데그룹, 12개 계열사 수시 채용 시작",
+    "summary": "롯데그룹이 12개 계열사에서 수시 채용을 시작했다. 이는 그룹 차원의 인력 충원 계획으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-02T06:42:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19986,21 +20001,6 @@
     "title_clean": "삼성중공업, LNG선·VLGC·유조선 5척 '패키지 수주'…1조18억원 규모",
     "summary": "삼성중공업이 LNG선, VLGC(극저온 액화가스운반선), 유조선 등 5척을 1조 18억원 규모로 패키지 수주했다. 이는 조선업계의 수주 확대를 의미하는 긍정적 신호다.",
     "sentiment": "positive",
-    "collected_at": "2026-05-27T09:00:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[오늘의 주요공시] 삼성중공업·파미셀·에임드바이오 등 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ObWhZUVpIY1MzOFZyN1VBcXNMSkdEY0FNNnZCaHNMdl9hQ29KQnRnOHdTTzZrd0pCZ2N0dDVidUsyY29HRjZkcTlkUHNuVXo5eUpz?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ObWhZUVpIY1MzOFZyN1VBcXNMSkdEY0FNNnZCaHNMdl9hQ29KQnRnOHdTTzZrd0pCZ2N0dDVidUsyY29HRjZkcTlkUHNuVXo5eUpz?oc=5\" target=\"_blank\">[오늘의 주요공시] 삼성중공업·파미셀·에임드바이오 등</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "d682",
-    "publisher": "네이트",
-    "title_clean": "[오늘의 주요공시] 삼성중공업·파미셀·에임드바이오 등",
-    "summary": "삼성중공업, 파미셀, 에임드바이오 등 주요 상장사들의 공시 소식을 전하는 기사입니다. 구체적인 공시 내용이 제목에만 있고 본문이 제시되지 않아 실제 호재/악재 판단이 어렵습니다.",
-    "sentiment": "neutral",
     "collected_at": "2026-05-27T09:00:23+09:00",
     "importance": 2
   },
