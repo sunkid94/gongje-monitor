@@ -199,3 +199,96 @@ def test_parse_collected_at_handles_both_formats():
     tz_aware = parse_collected_at("2026-05-31T22:04:55+09:00")
     assert naive.tzinfo is not None         # naive → 로컬 tz 부여
     assert tz_aware.utcoffset().total_seconds() == 9 * 3600
+
+
+def test_filter_duplicates_blocks_same_publisher_cluster(tmp_path):
+    """Google News 가 같은 기사에 다른 리다이렉트 URL 을 발급해 재수집되는 케이스 차단.
+    같은 (publisher, cluster_id) 면 새 기사로 취급하지 않음.
+    """
+    articles_file = str(tmp_path / "articles.json")
+    existing = [{
+        "keyword": "k", "publisher": "v.daum.net", "cluster_id": "f71f",
+        "title": "건설공제조합 AX 포럼", "link": "old-url", "collected_at": "2026-06-01T14:22:46+09:00",
+    }]
+    incoming = [{
+        "keyword": "k", "publisher": "v.daum.net", "cluster_id": "f71f",
+        "title": "건설공제조합 AX 포럼", "link": "new-url-different-redirect",
+    }]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        article_store.save_articles(existing)
+        result = article_store.filter_duplicates(incoming)
+    assert result == []  # 같은 publisher+cluster_id → 전부 차단
+
+
+def test_filter_duplicates_allows_different_publisher_same_cluster(tmp_path):
+    """다른 매체가 같은 사건을 다루는 건 정상이므로 허용 (커버리지 다양성 유지)."""
+    articles_file = str(tmp_path / "articles.json")
+    existing = [{
+        "keyword": "k", "publisher": "파이낸셜뉴스", "cluster_id": "f71f",
+        "link": "url1", "collected_at": "2026-06-01T14:22:46+09:00",
+    }]
+    incoming = [{
+        "keyword": "k", "publisher": "뉴시스", "cluster_id": "f71f",
+        "link": "url2",
+    }]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        article_store.save_articles(existing)
+        result = article_store.filter_duplicates(incoming)
+    assert len(result) == 1
+    assert result[0]["publisher"] == "뉴시스"
+
+
+def test_filter_duplicates_dedupes_within_batch(tmp_path):
+    """단일 배치 안에 같은 (publisher, cluster_id) 가 여러 번 들어와도 한 번만 남아야 함."""
+    articles_file = str(tmp_path / "articles.json")
+    incoming = [
+        {"publisher": "v.daum.net", "cluster_id": "f71f", "link": "u1"},
+        {"publisher": "v.daum.net", "cluster_id": "f71f", "link": "u2"},
+        {"publisher": "네이트", "cluster_id": "f71f", "link": "u3"},
+    ]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        result = article_store.filter_duplicates(incoming)
+    # 첫 v.daum.net 하나 + 네이트 하나 → 2건
+    assert len(result) == 2
+    assert {r["publisher"] for r in result} == {"v.daum.net", "네이트"}
+
+
+def test_filter_duplicates_passes_through_articles_without_keys(tmp_path):
+    """publisher 또는 cluster_id 없는 기사는 dedup 키 없음 → 모두 통과."""
+    articles_file = str(tmp_path / "articles.json")
+    incoming = [
+        {"publisher": None, "cluster_id": "f71f", "link": "u1"},
+        {"publisher": "v.daum.net", "cluster_id": None, "link": "u2"},
+        {"publisher": "", "cluster_id": "f71f", "link": "u3"},
+    ]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        result = article_store.filter_duplicates(incoming)
+    assert len(result) == 3
+
+
+def test_save_articles_dedupes_existing_keeping_oldest(tmp_path):
+    """save_articles 가 기존 articles.json 의 (publisher, cluster_id) 중복을 정리하되
+    가장 오래된 collected_at 을 유지해야 함 — 사용자가 인지하는 "최초 기사 시점" 보존.
+    """
+    articles_file = str(tmp_path / "articles.json")
+    items = [
+        # 최신 우선 정렬 가정 — 가장 앞이 가장 최근
+        {"publisher": "v.daum.net", "cluster_id": "f71f", "is_company": True,
+         "link": "newest", "collected_at": "2026-06-02T07:57:57+09:00"},
+        {"publisher": "v.daum.net", "cluster_id": "f71f", "is_company": True,
+         "link": "middle", "collected_at": "2026-06-02T06:18:01+09:00"},
+        {"publisher": "v.daum.net", "cluster_id": "f71f", "is_company": True,
+         "link": "oldest", "collected_at": "2026-06-01T14:22:46+09:00"},
+        {"publisher": "뉴시스", "cluster_id": "f71f", "is_company": True,
+         "link": "different-publisher", "collected_at": "2026-06-01T15:00:00+09:00"},
+    ]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        article_store.save_articles(items)
+        result = article_store.load_articles()
+    links = {a["link"] for a in result}
+    assert links == {"oldest", "different-publisher"}  # 가장 오래된 + 다른 매체
