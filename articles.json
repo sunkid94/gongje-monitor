@@ -4043,6 +4043,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 현충일 앞두고 임직원 가족과 봉사활동 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92cDkzTXRzV0JMX3RDdUJQblpOZ1hNWG5Sb1hOdGNhWm5jYUN4UWVyZ2hEc1p4ZUg2cUItRkkwQUc1bzM2Vmh6MFpHWFFhVEFVdExF?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE92cDkzTXRzV0JMX3RDdUJQblpOZ1hNWG5Sb1hOdGNhWm5jYUN4UWVyZ2hEc1p4ZUg2cUItRkkwQUc1bzM2Vmh6MFpHWFFhVEFVdExF?oc=5\" target=\"_blank\">롯데건설, 현충일 앞두고 임직원 가족과 봉사활동</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "e81e",
+    "publisher": "네이트",
+    "title_clean": "롯데건설, 현충일 앞두고 임직원 가족과 봉사활동",
+    "summary": "롯데건설이 현충일을 앞두고 임직원과 그 가족들이 함께 참여하는 봉사활동을 실시했다. 이는 기업의 사회공헌 활동으로, 건설업계의 기업 이미지 개선 노력을 보여주는 사례이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-01T12:52:27",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -19662,22 +19677,6 @@
     "sentiment": "positive",
     "collected_at": "2026-05-26T16:56:54",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 남부발전과 4800억 규모 가스터빈 서비스 계약 체결 - 뉴데일리 경제",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WQTktbnVaZl9ZY2xsamlUMWhJNEtoRTI4TU5QNktJT2dSLXl4SGhFaGdIYmVKeGlpWE1URzA3ekctajFPR3U3T3E5SWdnaWRFNGRnM1E1MjJzOWIySHhnR1ZwbTJqeWV0cDJadkZBYzRpd2xQakZIcmR6UQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5WQTktbnVaZl9ZY2xsamlUMWhJNEtoRTI4TU5QNktJT2dSLXl4SGhFaGdIYmVKeGlpWE1URzA3ekctajFPR3U3T3E5SWdnaWRFNGRnM1E1MjJzOWIySHhnR1ZwbTJqeWV0cDJadkZBYzRpd2xQakZIcmR6UQ?oc=5\" target=\"_blank\">두산에너빌리티, 남부발전과 4800억 규모 가스터빈 서비스 계약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리 경제</font>",
-    "published_at": "2026-05-26T09:14:02+09:00",
-    "cluster_id": "7f3d",
-    "publisher": "뉴데일리 경제",
-    "title_clean": "두산에너빌리티, 남부발전과 4800억 규모 가스터빈 서비스 계약 체결",
-    "summary": "두산에너빌리티가 남부발전과 4800억 규모의 가스터빈 서비스 계약을 체결했다. 이는 기계설비건설 분야의 주요 수주 사례로 관련 업체들의 수익 기회 증가를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-26T16:56:54",
-    "importance": 2
   },
   {
     "keyword": "건설 PF",
