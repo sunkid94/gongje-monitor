@@ -19826,6 +19826,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설기술인협회, 서소문 붕괴사고 성명 발표 - 국토매일",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5XeUtmcVphU3YyOHhPQ0ktYmhaNEIyR1hrdUMwWTZXOUltVndSQUtZYjBDRzJHZmFLSl9fRk9WaVFGdW0z?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE5XeUtmcVphU3YyOHhPQ0ktYmhaNEIyR1hrdUMwWTZXOUltVndSQUtZYjBDRzJHZmFLSl9fRk9WaVFGdW0z?oc=5\" target=\"_blank\">건설기술인협회, 서소문 붕괴사고 성명 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토매일</font>",
+    "cluster_id": "bc0e",
+    "publisher": "국토매일",
+    "title_clean": "건설기술인협회, 서소문 붕괴사고 성명 발표",
+    "summary": "건설기술인협회가 서소문 붕괴사고에 대해 성명을 발표했습니다. 건설업계의 안전 문제와 관련된 사고로 업계 전반에 부정적 영향을 미칠 수 있는 사안입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-01T20:37:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31235,21 +31250,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-27T09:00:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH충북지역본부, 건설현장 안전문화행사 개최 - 중도일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13Zk9sc0xIejNPX01BLUt0Y21pbzZWRXFCaWRTdHVpYnFuaXVGbnhCb2drQkFJZmt1RzBjNGNUWTFVdDgzWGZoQktCZEhfUzFxTGRuRUdkYlJVOEJYczJURmJ4ejI?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE13Zk9sc0xIejNPX01BLUt0Y21pbzZWRXFCaWRTdHVpYnFuaXVGbnhCb2drQkFJZmt1RzBjNGNUWTFVdDgzWGZoQktCZEhfUzFxTGRuRUdkYlJVOEJYczJURmJ4ejI?oc=5\" target=\"_blank\">LH충북지역본부, 건설현장 안전문화행사 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중도일보</font>",
-    "published_at": "2026-05-27T15:17:21+09:00",
-    "cluster_id": "9773",
-    "publisher": "중도일보",
-    "title_clean": "LH충북지역본부, 건설현장 안전문화행사 개최",
-    "summary": "LH충북지역본부가 건설현장의 안전문화를 강화하기 위해 안전문화행사를 개최했다. 이는 건설현장의 안전 의식 고취와 사고 예방을 위한 노력으로 업계의 안전 기준 강화를 반영한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-27T09:00:23+09:00",
-    "importance": 2
   }
 ]
