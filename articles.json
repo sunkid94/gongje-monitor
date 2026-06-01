@@ -19811,6 +19811,21 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경복대 건설교육원, 건설기술인 필수 ‘중대재해관리실무’ 원격교육과정 개설 - 경기신문",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzR1EyTXJHMEd4MElXRTJpTlZ5Q2t3QUJkT0dua18xYUpOOFJzWU8weVdxUnJDeVk1cUF0VkZtMVozVUlSdVhmckEzX3lBRnRHWkpyQnVTR2Q1NkFyVmlTV1JR?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzR1EyTXJHMEd4MElXRTJpTlZ5Q2t3QUJkT0dua18xYUpOOFJzWU8weVdxUnJDeVk1cUF0VkZtMVozVUlSdVhmckEzX3lBRnRHWkpyQnVTR2Q1NkFyVmlTV1JR?oc=5\" target=\"_blank\">경복대 건설교육원, 건설기술인 필수 ‘중대재해관리실무’ 원격교육과정 개설</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기신문</font>",
+    "cluster_id": "03af",
+    "publisher": "경기신문",
+    "title_clean": "경복대 건설교육원, 건설기술인 필수 ‘중대재해관리실무’ 원격교육과정 개설",
+    "summary": "경복대 건설교육원이 건설기술인을 위한 '중대재해관리실무' 원격교육과정을 새로 개설했다. 이는 건설업계의 안전관리 의무 강화에 대응하기 위한 교육 프로그램이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-01T19:02:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31239,21 +31254,5 @@
     "sentiment": "positive",
     "collected_at": "2026-05-27T09:00:23+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "천안시, 공공건설현장 긴급 안전점검 실시 - 데일리한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wZjhmc3pVenF3NkRfNmtyTDRiQi1ITGNZNExJQk1DRU4wV3gyMHhuQ3NqWllsTlJpWnhOV2U0a0FyVS15VmNTU0ZQUWhuZzlaZS0wcEVJNDJpdTFtWGM4RU5feG1PbVVodlotWmpYd9IBc0FVX3lxTFB5RHM0NEh4OG9na1JhcWNTMWRsb0xERFpJaFp6ZTdZd1luaC1XcjdiMGoxbUhjS3Q4aDFDVUxqWS1waUxLck9VRjEyODFNSUgtRFVIbGlHZDlOZk9wSGNnRlQ5LTBpQ0ppQmFkYTdRVjRZeUU?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5wZjhmc3pVenF3NkRfNmtyTDRiQi1ITGNZNExJQk1DRU4wV3gyMHhuQ3NqWllsTlJpWnhOV2U0a0FyVS15VmNTU0ZQUWhuZzlaZS0wcEVJNDJpdTFtWGM4RU5feG1PbVVodlotWmpYd9IBc0FVX3lxTFB5RHM0NEh4OG9na1JhcWNTMWRsb0xERFpJaFp6ZTdZd1luaC1XcjdiMGoxbUhjS3Q4aDFDVUxqWS1waUxLck9VRjEyODFNSUgtRFVIbGlHZDlOZk9wSGNnRlQ5LTBpQ0ppQmFkYTdRVjRZeUU?oc=5\" target=\"_blank\">천안시, 공공건설현장 긴급 안전점검 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리한국</font>",
-    "published_at": "2026-05-27T17:05:50+09:00",
-    "cluster_id": "e5ab",
-    "publisher": "데일리한국",
-    "title_clean": "천안시, 공공건설현장 긴급 안전점검 실시",
-    "summary": "천안시가 공공건설현장에 대한 긴급 안전점검을 실시하고 있다. 안전점검은 건설현장의 사고 예방과 안전 기준 준수를 확인하는 행정조치로 진행되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-27T09:00:23+09:00",
-    "importance": 5
   }
 ]
