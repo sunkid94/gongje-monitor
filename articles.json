@@ -4263,6 +4263,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설오늘] 현대건설·현대엔지니어링, 국내 최대 건설 R&D 조직 출범 外 대우건설·롯데건설 - 천지일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQeXo3dG5RbmVZNm93NkUzREwzNGxXdDRvQlBOa1FlRVRoQXVLV2dKMWJqYldWUDZSRnljYU5MU3ViOHd0TWEwMFlzY29sOXN3bVBGR1RXYTJTbGoxaENUdG5vajJTNnhDalE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBQeXo3dG5RbmVZNm93NkUzREwzNGxXdDRvQlBOa1FlRVRoQXVLV2dKMWJqYldWUDZSRnljYU5MU3ViOHd0TWEwMFlzY29sOXN3bVBGR1RXYTJTbGoxaENUdG5vajJTNnhDalE?oc=5\" target=\"_blank\">[건설오늘] 현대건설·현대엔지니어링, 국내 최대 건설 R&amp;D 조직 출범 外 대우건설·롯데건설</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+    "published_at": "2026-06-01T23:58:06+09:00",
+    "cluster_id": "5285",
+    "publisher": "천지일보",
+    "title_clean": "[건설오늘] 현대건설·현대엔지니어링, 국내 최대 건설 R&D 조직 출범 外 대우건설·롯데건설",
+    "summary": "현대건설과 현대엔지니어링이 국내 최대 규모의 건설 R&D 조직을 출범했다. 기사는 대우건설과 롯데건설의 소식도 함께 다루고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T00:02:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19858,19 +19874,18 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "[민주 부동산] 대우건설·현대엔지니어링·롯데건설 - 민주신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYXNONVRKNl9hVTBINl9hTGVGa3pFQnAxT0FNZVJBZklSYWp6bUNNQUt1QmoxSHBqbU9oQldlbFF4WDhMYXpjQVpYSVhHLVhRUVY2MXI1TnZrMWJ1Y2h6eUlKaUQ0dXfSAWtBVV95cUxOUVBLYmVJNXZ0bG9ETE9WUHE3V3YyXzBXa2JJME4weWxLUmppbGlKQlY2WEd0c0pYTkNwQ1VxcFgxeGRQUXBRSExUc085R255alEtRkxBTlZVQjcwYWxQN2Q5LTVyTEh3TUNRaw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYXNONVRKNl9hVTBINl9hTGVGa3pFQnAxT0FNZVJBZklSYWp6bUNNQUt1QmoxSHBqbU9oQldlbFF4WDhMYXpjQVpYSVhHLVhRUVY2MXI1TnZrMWJ1Y2h6eUlKaUQ0dXfSAWtBVV95cUxOUVBLYmVJNXZ0bG9ETE9WUHE3V3YyXzBXa2JJME4weWxLUmppbGlKQlY2WEd0c0pYTkNwQ1VxcFgxeGRQUXBRSExUc085R255alEtRkxBTlZVQjcwYWxQN2Q5LTVyTEh3TUNRaw?oc=5\" target=\"_blank\">[민주 부동산] 대우건설·현대엔지니어링·롯데건설</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">민주신문</font>",
-    "published_at": "2026-05-27T17:44:52+09:00",
-    "cluster_id": "42d0",
-    "publisher": "민주신문",
-    "title_clean": "[민주 부동산] 대우건설·현대엔지니어링·롯데건설",
-    "summary": "제공된 기사 내용이 제목만 있고 본문이 없어 구체적인 뉴스 내용을 파악할 수 없습니다. 대우건설, 현대엔지니어링, 롯데건설 등 주요 건설사들과 관련된 기사로 보이나 건설업계에 미치는 영향을 판단하기 위해서는 상세한 본문 내용이 필요합니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-27T09:00:23+09:00",
+    "title": "현대건설·현대엔지니어링, R&D 조직 통합…‘HMG건설기술연구원’ 출범 - 전기신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZjlUd1FtdnE5U1J3MzBOS2xrZndnQlJMYWRsUWVxWVdlVzB5d1JzTEpLU0ZvTENZSjhfTGFzYUlLU1EycXhCaGlIS2Zpd0JRa2xTY2l0Unhmd0JSLU9HUlo5UTZ1YjZJejR3dnY4WjHSAXBBVV95cUxNdmY5VHdRbXZxOVNSdzMwTktsa2Z3Z0JSTGFkbFFlcVlXZVcweXdSc0xKS1NGb0xDWUo4X0xhc2FJS1NRMnF4QmhpSEtmaXdCUWtsU2NpdFJ4ZndCUi1PR1JaOVE2dWI2SXo0d3Z2OFox?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZjlUd1FtdnE5U1J3MzBOS2xrZndnQlJMYWRsUWVxWVdlVzB5d1JzTEpLU0ZvTENZSjhfTGFzYUlLU1EycXhCaGlIS2Zpd0JRa2xTY2l0Unhmd0JSLU9HUlo5UTZ1YjZJejR3dnY4WjHSAXBBVV95cUxNdmY5VHdRbXZxOVNSdzMwTktsa2Z3Z0JSTGFkbFFlcVlXZVcweXdSc0xKS1NGb0xDWUo4X0xhc2FJS1NRMnF4QmhpSEtmaXdCUWtsU2NpdFJ4ZndCUi1PR1JaOVE2dWI2SXo0d3Z2OFox?oc=5\" target=\"_blank\">현대건설·현대엔지니어링, R&amp;D 조직 통합…‘HMG건설기술연구원’ 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전기신문</font>",
+    "cluster_id": "da79",
+    "publisher": "전기신문",
+    "title_clean": "현대건설·현대엔지니어링, R&D 조직 통합…‘HMG건설기술연구원’ 출범",
+    "summary": "현대건설과 현대엔지니어링이 연구개발 조직을 통합하여 'HMG건설기술연구원'을 출범시켰다. 이는 건설사의 기술 경쟁력 강화 및 R&D 효율화를 통한 사업 역량 확대를 의도한 조직 개편으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T00:02:58+09:00",
     "importance": 2
   },
   {
@@ -31236,20 +31251,5 @@
     "sentiment": "positive",
     "collected_at": "2026-05-27T12:34:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전남도, 건설현장 부실시공 및 안전사고 예방 총력 > 뉴스 - 더코리아",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0SDhYbm13Q1QtN05laGdzdkdEZlAwUVFvbFc2Qm1XMERmWnN2TFB6Ui1ZR1FmLU5DR2JxalgxY2JiMm80RXVSYXVBT3BzTmpvTjNfeFJfemRiMWhTUnNoTGxMb1FOcVdkMm1pR2xQMjY?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB0SDhYbm13Q1QtN05laGdzdkdEZlAwUVFvbFc2Qm1XMERmWnN2TFB6Ui1ZR1FmLU5DR2JxalgxY2JiMm80RXVSYXVBT3BzTmpvTjNfeFJfemRiMWhTUnNoTGxMb1FOcVdkMm1pR2xQMjY?oc=5\" target=\"_blank\">전남도, 건설현장 부실시공 및 안전사고 예방 총력 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더코리아</font>",
-    "cluster_id": "2315",
-    "publisher": "더코리아",
-    "title_clean": "전남도, 건설현장 부실시공 및 안전사고 예방 총력 > 뉴스",
-    "summary": "전남도가 건설현장의 부실시공과 안전사고 예방을 위해 종합적인 대책을 추진 중입니다. 이는 건설업계의 안전 기준 강화와 관련된 규제 조치로 볼 수 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-27T12:34:59+09:00",
-    "importance": 4
   }
 ]
