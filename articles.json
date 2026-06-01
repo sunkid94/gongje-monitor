@@ -19827,6 +19827,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[단독] 서소문 고가 철거, 안전관리계획 승인도 안 받고 진행했다 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fODl3N2xtMTRsYnZraVFUR1o5Q0RMcDZZT19jTnJGbHpad2o5cUxUS1RxUkVJSkZnQ0JMQWM2Y0hXVS1PYXcxTi1QMGNHSWd3eTRyYXdYSXg2amY0VnhOSG5RM1NYaDJmbHc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5fODl3N2xtMTRsYnZraVFUR1o5Q0RMcDZZT19jTnJGbHpad2o5cUxUS1RxUkVJSkZnQ0JMQWM2Y0hXVS1PYXcxTi1QMGNHSWd3eTRyYXdYSXg2amY0VnhOSG5RM1NYaDJmbHc?oc=5\" target=\"_blank\">[단독] 서소문 고가 철거, 안전관리계획 승인도 안 받고 진행했다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "cluster_id": "9713",
+    "publisher": "한겨레",
+    "title_clean": "[단독] 서소문 고가 철거, 안전관리계획 승인도 안 받고 진행했다",
+    "summary": "서울 서소문 고가 철거 공사가 안전관리계획 승인을 받지 않은 채 진행된 것으로 드러났다. 이는 건설 안전 규정 위반에 해당하며 건설업계의 안전관리 부실 문제를 노출시키는 사안이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-01T19:42:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -31235,22 +31250,6 @@
     "publisher": "이뉴스투데이",
     "title_clean": "대우건설, 건설 현장 안전강화·디지털 전환···스마트건설 앞장",
     "summary": "대우건설이 건설 현장의 안전강화와 디지털 전환을 추진하여 스마트건설 분야를 선도하고 있다. 안전 및 기술 혁신을 통해 건설업계의 경쟁력을 강화하는 사례를 보여주고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-27T09:00:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“말 안 통하면 사고 난다”…롯데건설, AI 통역으로 현장 안전 챙긴다 - 한경매거진&북",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RV9hWVczRW1HdTFiQzl0T2lBSW45VkRBV0hJUTJSN1VEdUtOTGR0SUhmLU5jakFaRFBMcUloMzViNjdTdUdBLU1pR0c1cUpiMm5GTmNERGdKVERQZ29Vb3NYYjFrWTZQUVhxRA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15RV9hWVczRW1HdTFiQzl0T2lBSW45VkRBV0hJUTJSN1VEdUtOTGR0SUhmLU5jakFaRFBMcUloMzViNjdTdUdBLU1pR0c1cUpiMm5GTmNERGdKVERQZ29Vb3NYYjFrWTZQUVhxRA?oc=5\" target=\"_blank\">“말 안 통하면 사고 난다”…롯데건설, AI 통역으로 현장 안전 챙긴다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한경매거진&북</font>",
-    "published_at": "2026-05-27T11:39:00+09:00",
-    "cluster_id": "2cf7",
-    "publisher": "한경매거진&북",
-    "title_clean": "“말 안 통하면 사고 난다”…롯데건설, AI 통역으로 현장 안전 챙긴다",
-    "summary": "롯데건설이 건설현장의 안전사고 예방을 위해 AI 통역 시스템을 도입했다. 언어 소통 문제로 인한 사고를 줄이기 위한 안전 기술 혁신 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-05-27T09:00:23+09:00",
     "importance": 2
