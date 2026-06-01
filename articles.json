@@ -20019,6 +20019,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충남도 ‘검측업무 계획 사전검토제’ 부실공사 뿌리 뽑는다 - 누리일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MUVBUVRLeUJ4Y2lQdFVTOW94MzcxOWVLZEdBcUdJdERjYVZfQ25TS1I5eXRzbTA4VlZxVEpsOFlCWUdtemU3bGtiNG5ITk43cTVlQWRtV2szWWM?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MUVBUVRLeUJ4Y2lQdFVTOW94MzcxOWVLZEdBcUdJdERjYVZfQ25TS1I5eXRzbTA4VlZxVEpsOFlCWUdtemU3bGtiNG5ITk43cTVlQWRtV2szWWM?oc=5\" target=\"_blank\">충남도 ‘검측업무 계획 사전검토제’ 부실공사 뿌리 뽑는다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">누리일보</font>",
+    "cluster_id": "835f",
+    "publisher": "누리일보",
+    "title_clean": "충남도 ‘검측업무 계획 사전검토제’ 부실공사 뿌리 뽑는다",
+    "summary": "충남도가 검측업무 계획 사전검토제를 도입하여 부실공사를 사전에 방지하려는 정책을 추진 중입니다. 이는 건설공사의 품질 관리 강화 및 적정성 검증을 위한 규제 강화 조치입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-02T08:17:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -31235,21 +31250,6 @@
     "publisher": "경기뉴스원",
     "title_clean": "완주군, 지역 건설산업 활성 4대 과제 추진",
     "summary": "완주군이 지역 건설산업 활성화를 위해 4대 과제를 추진 중이다. 이는 지역 건설업체 지원 및 산업 육성을 통한 경제 활성화 방안으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-27T16:48:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경남 1분기 실물경제 ‘회복 신호’…건설수주 2.3조 증가·고용률 상승 - 뉴스프리존",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jeG5xQVBHWklfZWN6cUw4YndodnYyTlBlcS1kZTdzR1hGMGxUeWdTTFgxZUV6S1ZSN1BNeHRHRmpRVUNrX0FyVTFod3U1QVFqZFVhSVU5S2UwU1NCcENYWFc1elllaWFYWlBQNUhnN2c4Y3ZzRTJv0gF3QVVfeXFMTmN4bnFBUEdaSV9lY3pxTDhid2h2djJOUGVxLWRlN3NHWEYwbFR5Z1NMWDFlRXpLVlI3UE14dEdGalFVQ2tfQXJVMWh3dTVBUWpkVWFJVTlLZTBTU0JwQ1hYVzV6WWVpYVhaUFA1SGc3ZzhjdnNFMm8?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5jeG5xQVBHWklfZWN6cUw4YndodnYyTlBlcS1kZTdzR1hGMGxUeWdTTFgxZUV6S1ZSN1BNeHRHRmpRVUNrX0FyVTFod3U1QVFqZFVhSVU5S2UwU1NCcENYWFc1elllaWFYWlBQNUhnN2c4Y3ZzRTJv0gF3QVVfeXFMTmN4bnFBUEdaSV9lY3pxTDhid2h2djJOUGVxLWRlN3NHWEYwbFR5Z1NMWDFlRXpLVlI3UE14dEdGalFVQ2tfQXJVMWh3dTVBUWpkVWFJVTlLZTBTU0JwQ1hYVzV6WWVpYVhaUFA1SGc3ZzhjdnNFMm8?oc=5\" target=\"_blank\">경남 1분기 실물경제 ‘회복 신호’…건설수주 2.3조 증가·고용률 상승</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
-    "cluster_id": "09ef",
-    "publisher": "뉴스프리존",
-    "title_clean": "경남 1분기 실물경제 ‘회복 신호’…건설수주 2.3조 증가·고용률 상승",
-    "summary": "경남 지역의 1분기 실물경제가 회복 신호를 보이고 있으며, 건설수주가 2.3조 원 증가하고 고용률이 상승했다. 건설업계에 긍정적인 경제 지표들이 나타나고 있는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-05-27T16:48:43+09:00",
     "importance": 2
