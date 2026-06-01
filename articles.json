@@ -17909,6 +17909,37 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "장마 앞둔 아산시, 대형 공사현장 안전 점검 강화… 재활병원 건립현장 집중 점검 - 아산데일리",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fanU0ZjZNZHc0dGdaeW9uTEV5eGlLNnVZckRSYTYtd3ZCdG5wcmlac2FMbVUzTTdXX3RaekVGS3hfM0JTc0txTEZUbFJ0TC00NTdj?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fanU0ZjZNZHc0dGdaeW9uTEV5eGlLNnVZckRSYTYtd3ZCdG5wcmlac2FMbVUzTTdXX3RaekVGS3hfM0JTc0txTEZUbFJ0TC00NTdj?oc=5\" target=\"_blank\">장마 앞둔 아산시, 대형 공사현장 안전 점검 강화… 재활병원 건립현장 집중 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아산데일리</font>",
+    "cluster_id": "2e88",
+    "publisher": "아산데일리",
+    "title_clean": "장마 앞둔 아산시, 대형 공사현장 안전 점검 강화… 재활병원 건립현장 집중 점검",
+    "summary": "아산시가 장마 시즌을 앞두고 대형 공사현장에 대한 안전 점검을 강화하고 있으며, 재활병원 건립현장을 집중 점검 대상으로 지정했다. 이는 우기에 따른 안전사고 예방을 위한 행정조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-02T08:42:55+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "삼성물산, 건설노조 교섭요구 공고 응해 - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5neE91bWFnd2M5ODhabFhkS3BJaDUwVUV1aHI2Q2VLU1g4WF9GcENOZjVKWEdfelB3NXJya0RVS0RoQ3VRbG5VSUgtR2dSaDM4SXfSAVNBVV95cUxNQkgzWHB6Ri1kVDVPZU9yQUQ1UEtXeXh5dk9xbkdzY2ZWeVhadUdHRllMN2cwY2pnemtLdmhWWlhvRkU2MDA3SzktT3RHQW5hR2Zndw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5neE91bWFnd2M5ODhabFhkS3BJaDUwVUV1aHI2Q2VLU1g4WF9GcENOZjVKWEdfelB3NXJya0RVS0RoQ3VRbG5VSUgtR2dSaDM4SXfSAVNBVV95cUxNQkgzWHB6Ri1kVDVPZU9yQUQ1UEtXeXh5dk9xbkdzY2ZWeVhadUdHRllMN2cwY2pnemtLdmhWWlhvRkU2MDA3SzktT3RHQW5hR2Zndw?oc=5\" target=\"_blank\">삼성물산, 건설노조 교섭요구 공고 응해</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "published_at": "2026-06-01T17:58:47+09:00",
+    "cluster_id": "ff6a",
+    "publisher": "서울경제",
+    "title_clean": "삼성물산, 건설노조 교섭요구 공고 응해",
+    "summary": "삼성물산이 건설노조의 교섭요구 공고에 응하기로 했다. 노사 간 단체교섭이 진행될 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-02T08:42:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
