@@ -4403,6 +4403,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "미래도시, 롯데마트 대덕점 개발사업 5년째 표류 - 딜사이트",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EZ1ZIUHQxbUU1WjZVVjhIbVlPVkM0THZxU2tMdGtZb04tNDhpMktpY0drMExvOGlmYm1PQnBKSzAyMGJTeXFpZmlQRzBRQjZweE9mZDNYMmg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EZ1ZIUHQxbUU1WjZVVjhIbVlPVkM0THZxU2tMdGtZb04tNDhpMktpY0drMExvOGlmYm1PQnBKSzAyMGJTeXFpZmlQRzBRQjZweE9mZDNYMmg?oc=5\" target=\"_blank\">미래도시, 롯데마트 대덕점 개발사업 5년째 표류</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">딜사이트</font>",
+    "cluster_id": "7885",
+    "publisher": "딜사이트",
+    "title_clean": "미래도시, 롯데마트 대덕점 개발사업 5년째 표류",
+    "summary": "롯데마트 대덕점 개발사업이 5년째 진행되지 못하고 표류 중인 상황. 대규모 건설사업의 지연으로 건설업계의 수주 기회 상실 및 PF 리스크 증가.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-02T08:07:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19998,22 +20013,6 @@
     "publisher": "쿠키뉴스",
     "title_clean": "삼성重, 3개 선종 5척 1조원 수주",
     "summary": "삼성중공업이 3개 선종 5척에 대해 1조 원대의 수주를 확보했다. 조선업계의 수주 실적 증가로 긍정적인 신호를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-27T09:00:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성重, 버뮤다 선사서 5척 수주···3개 선종 ‘동시 계약’ - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jQTJuZHF1N0JDU0k4QmZjakszUWJrODNSNHZjbUZTdWRFUWZYUDhCcnBMcWRSdmVzb28wOFk4YnE0U0cyUGRndXg1UndYcG94Rm1MQ0lydzFjQWd5VmFuVk1fYzF2ZlhhVmcwejJxUGfSAXRBVV95cUxNb1FENGR2TUNaREFuVy1sc0RpbVFKNDlndU4xVjVRX05MNmstVVBqWWJDTXY0Sm1teHFwQS1abWtXSlowRkh2ZmctcGgtZFhzSzJnS1hVeTZTSF9BVVZNZ2tyTzhILXB0aHlVVUhTTjQtTzZ2Sg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1jQTJuZHF1N0JDU0k4QmZjakszUWJrODNSNHZjbUZTdWRFUWZYUDhCcnBMcWRSdmVzb28wOFk4YnE0U0cyUGRndXg1UndYcG94Rm1MQ0lydzFjQWd5VmFuVk1fYzF2ZlhhVmcwejJxUGfSAXRBVV95cUxNb1FENGR2TUNaREFuVy1sc0RpbVFKNDlndU4xVjVRX05MNmstVVBqWWJDTXY0Sm1teHFwQS1abWtXSlowRkh2ZmctcGgtZFhzSzJnS1hVeTZTSF9BVVZNZ2tyTzhILXB0aHlVVUhTTjQtTzZ2Sg?oc=5\" target=\"_blank\">삼성重, 버뮤다 선사서 5척 수주···3개 선종 ‘동시 계약’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이뉴스투데이</font>",
-    "published_at": "2026-05-27T15:09:06+09:00",
-    "cluster_id": "8930",
-    "publisher": "이뉴스투데이",
-    "title_clean": "삼성重, 버뮤다 선사서 5척 수주···3개 선종 ‘동시 계약’",
-    "summary": "삼성중공업이 버뮤다 선사로부터 5척의 선박을 수주했으며, 3개의 서로 다른 선종을 동시에 계약했다. 이는 조선업계의 수주 확대를 나타내는 호재 소식이다.",
     "sentiment": "positive",
     "collected_at": "2026-05-27T09:00:23+09:00",
     "importance": 2
