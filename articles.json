@@ -4388,6 +4388,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"돈벌고 떠나선 아프리카서 성공 못해…진정성·현지화가 핵심\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94emV0X0NtOVFVTEh5Q1dmZFBiaTZJTkFrbVIzeU9NWnpaTEc4OXEtb1A2TlhuMHM0NVphNnljZ0ZOSmoyM1IzVWl1T0FJWVgzZFNn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE94emV0X0NtOVFVTEh5Q1dmZFBiaTZJTkFrbVIzeU9NWnpaTEc4OXEtb1A2TlhuMHM0NVphNnljZ0ZOSmoyM1IzVWl1T0FJWVgzZFNn?oc=5\" target=\"_blank\">\"돈벌고 떠나선 아프리카서 성공 못해…진정성·현지화가 핵심\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "23ca",
+    "publisher": "네이트",
+    "title_clean": "\"돈벌고 떠나선 아프리카서 성공 못해…진정성·현지화가 핵심\"",
+    "summary": "아프리카 진출 기업들의 성공 사례를 다룬 기사로, 단순히 수익 창출만을 목표로 하는 접근보다 현지화와 진정성 있는 사업 운영이 성공의 핵심임을 강조하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-02T07:12:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19984,22 +19999,6 @@
     "publisher": "네이트",
     "title_clean": "삼성중공업, LNG선·VLGC 등 1조 규모 선박 5척 수주 [공시pick]",
     "summary": "삼성중공업이 LNG선과 VLGC 등 5척 규모의 선박을 1조 원대에 수주했다. 이는 조선업계의 수주 실적 증대를 의미하는 긍정적 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-27T09:00:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, LNG선·VLGC·유조선 5척 '패키지 수주'…1조18억원 규모 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxenhwM0JsOXU5MXhycEQ3dG5qdHQzc0tfU3pVcGhrLWFfRjMzVXlPdURtUWJOTUdkM25FMHRWVGhXb0NVeGk5QUl0a29aQWZWVXczSkhQVjA0LVpBZ3VKRkdn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxenhwM0JsOXU5MXhycEQ3dG5qdHQzc0tfU3pVcGhrLWFfRjMzVXlPdURtUWJOTUdkM25FMHRWVGhXb0NVeGk5QUl0a29aQWZWVXczSkhQVjA0LVpBZ3VKRkdn?oc=5\" target=\"_blank\">삼성중공업, LNG선·VLGC·유조선 5척 '패키지 수주'…1조18억원 규모</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
-    "published_at": "2026-05-27T10:38:42+09:00",
-    "cluster_id": "ca67",
-    "publisher": "아시아경제",
-    "title_clean": "삼성중공업, LNG선·VLGC·유조선 5척 '패키지 수주'…1조18억원 규모",
-    "summary": "삼성중공업이 LNG선, VLGC(극저온 액화가스운반선), 유조선 등 5척을 1조 18억원 규모로 패키지 수주했다. 이는 조선업계의 수주 확대를 의미하는 긍정적 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-05-27T09:00:23+09:00",
     "importance": 2
