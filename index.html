@@ -824,7 +824,7 @@
             <span class="cat-badge ${catClass}">${escapeHtml(cat)}</span>
             ${sentDot(a.sentiment)}
             ${publisher ? `<span>${escapeHtml(publisher)}</span><span class="meta-sep">·</span>` : ''}
-            <span class="time">${escapeHtml(relativeTime(a.collected_at))}</span>
+            <span class="time">${escapeHtml(relativeTime(a.published_at || a.collected_at))}</span>
             ${a.published_at ? `<span class="meta-sep">·</span><span class="pubdate">발행 ${escapeHtml(formatPublishedDate(a.published_at))}</span>` : ''}
           </div>
           <div class="article-title">
