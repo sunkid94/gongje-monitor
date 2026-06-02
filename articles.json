@@ -19317,6 +19317,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "IPARK현산 '스마트 건설혁신' 속도 \"현장에 드론·CCTV 관제센터 풀가동\" - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybFZSVTc0U3IzT3h6cEtQN3lRNEVNWWh4YjB2TEoxdFNLOHZ1OGg3MzlPdXlETUFiTXNUWER3X0ZTUGt5ZkhGVW5IbFhsNFFXZy1vakNXeml6Z9IBXkFVX3lxTFBpQkI1RlhXeE1GVzJqWk9hNnc5aU0zb3dHT2JnT2g2bnJEX2F5bnNvMmFnRU9vMENYZ01QR2ZsbDFTck1ITnVyX3FNVThzNFRYbldpZ185QkdBVnBHWkE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybFZSVTc0U3IzT3h6cEtQN3lRNEVNWWh4YjB2TEoxdFNLOHZ1OGg3MzlPdXlETUFiTXNUWER3X0ZTUGt5ZkhGVW5IbFhsNFFXZy1vakNXeml6Z9IBXkFVX3lxTFBpQkI1RlhXeE1GVzJqWk9hNnc5aU0zb3dHT2JnT2g2bnJEX2F5bnNvMmFnRU9vMENYZ01QR2ZsbDFTck1ITnVyX3FNVThzNFRYbldpZ185QkdBVnBHWkE?oc=5\" target=\"_blank\">IPARK현산 '스마트 건설혁신' 속도 \"현장에 드론·CCTV 관제센터 풀가동\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
+    "published_at": "2026-06-02T18:07:36+09:00",
+    "cluster_id": "3e9b",
+    "publisher": "파이낸셜뉴스",
+    "title_clean": "IPARK현산 '스마트 건설혁신' 속도 \"현장에 드론·CCTV 관제센터 풀가동\"",
+    "summary": "IPARK현산이 건설 현장에 드론과 CCTV 관제센터를 도입하여 스마트 건설혁신을 추진 중이다. 첨단 기술을 활용한 현장 관리 고도화로 건설산업의 디지털 전환을 선도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T18:17:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31276,21 +31292,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "포항시, 여름철 자연재난 대비 공사장 안전점검 강화 - 경북신문",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tVXlJY3BhZ1Nycjdad0NrTm1iblA2NExKS0E5clFnSHZsUnhvVGprcmNQeWRuQU9peUFjOVoyUFJMbG5JZ3gtS0dLQ3N1c01pemhVVHhPbEk?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tVXlJY3BhZ1Nycjdad0NrTm1iblA2NExKS0E5clFnSHZsUnhvVGprcmNQeWRuQU9peUFjOVoyUFJMbG5JZ3gtS0dLQ3N1c01pemhVVHhPbEk?oc=5\" target=\"_blank\">포항시, 여름철 자연재난 대비 공사장 안전점검 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북신문</font>",
-    "published_at": "2026-05-28T15:19:21+00:00",
-    "cluster_id": "dcb8",
-    "publisher": "경북신문",
-    "title_clean": "포항시, 여름철 자연재난 대비 공사장 안전점검 강화",
-    "summary": "포항시가 여름철 자연재난에 대비하여 공사장에 대한 안전점검을 강화하는 조치를 추진하고 있다. 이는 폭우, 태풍 등 재난 시 공사장 피해 예방과 근로자 안전 확보를 목표로 한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 4
   }
 ]
