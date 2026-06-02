@@ -3684,6 +3684,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성重, 북미서 4.3조 부유식 LNG 설비 수주 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NYkZvem5fRkJjRUhvNjlnRWlNeU4wNmp6TjVzS0p4OEZ1RzZnNURKbWN4b3Z6MEtoajNHNWczalZQemx0VS1uR3RXMVp6T0ZlWF8zVVAyUjZKQdIBVEFVX3lxTE8tcllyRHVaaTVrdndKeXIyZ0I1a21idUJYZGotY0VRdTdkYndkZkkxVGpjTXNvdU82b0FSU2l0Yi0tMTBmR0puTllTVGZETDJJcTd1VQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NYkZvem5fRkJjRUhvNjlnRWlNeU4wNmp6TjVzS0p4OEZ1RzZnNURKbWN4b3Z6MEtoajNHNWczalZQemx0VS1uR3RXMVp6T0ZlWF8zVVAyUjZKQdIBVEFVX3lxTE8tcllyRHVaaTVrdndKeXIyZ0I1a21idUJYZGotY0VRdTdkYndkZkkxVGpjTXNvdU82b0FSU2l0Yi0tMTBmR0puTllTVGZETDJJcTd1VQ?oc=5\" target=\"_blank\">삼성重, 북미서 4.3조 부유식 LNG 설비 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+    "published_at": "2026-06-02T18:09:01+09:00",
+    "cluster_id": "d069",
+    "publisher": "한국경제",
+    "title_clean": "삼성重, 북미서 4.3조 부유식 LNG 설비 수주",
+    "summary": "삼성중공업이 북미 지역에서 4.3조 원 규모의 부유식 LNG 설비(FLNG)를 수주했다. 이는 조선·해양플랜트 업계의 대규모 수주로 매출 증대와 고부가가치 사업 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T22:47:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19300,21 +19316,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T04:47:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 복지시설 개선 ‘러브하우스’ 100호 돌파 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QTUZBMG0zUF9VTFBlYmxwV1lNYWs3UzlyQ3lCMVZnRzNSRUlTV1VKRDRoMG9zMUtfZl9SR2JvM3I5RmI3UkhwSnpnMzg0NW8?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QTUZBMG0zUF9VTFBlYmxwV1lNYWs3UzlyQ3lCMVZnRzNSRUlTV1VKRDRoMG9zMUtfZl9SR2JvM3I5RmI3UkhwSnpnMzg0NW8?oc=5\" target=\"_blank\">롯데건설, 복지시설 개선 ‘러브하우스’ 100호 돌파</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
-    "cluster_id": "8026",
-    "publisher": "v.daum.net",
-    "title_clean": "롯데건설, 복지시설 개선 ‘러브하우스’ 100호 돌파",
-    "summary": "롯데건설이 복지시설 개선 사업 '러브하우스'의 100호 달성을 발표했다. 사회공헌 활동을 통해 기업 이미지를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-28T04:47:47+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
