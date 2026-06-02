@@ -19320,6 +19320,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[경복대학교 소식] 경복대학교 건설교육원, 건설기술인 필수 ‘중대재해관리실무’ 원격교육과정 개설 - ilyoseoul.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wcE1SR1I0b3F5WHBjbWlTOVFyemVBRFowR2x1YTFoUDRsbEtGX3lSbk1fMnpjSk1rQTZyaHZYUWFNUkZwRWFHUzJaQVdXdm5fblZkSU5VXzc3NXE5RE5BcGprNHdLbmdETjVmRlF2Yw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1wcE1SR1I0b3F5WHBjbWlTOVFyemVBRFowR2x1YTFoUDRsbEtGX3lSbk1fMnpjSk1rQTZyaHZYUWFNUkZwRWFHUzJaQVdXdm5fblZkSU5VXzc3NXE5RE5BcGprNHdLbmdETjVmRlF2Yw?oc=5\" target=\"_blank\">[경복대학교 소식] 경복대학교 건설교육원, 건설기술인 필수 ‘중대재해관리실무’ 원격교육과정 개설</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ilyoseoul.co.kr</font>",
+    "published_at": "2026-06-02T14:07:06+09:00",
+    "cluster_id": "2405",
+    "publisher": "ilyoseoul.co.kr",
+    "title_clean": "[경복대학교 소식] 경복대학교 건설교육원, 건설기술인 필수 ‘중대재해관리실무’ 원격교육과정 개설",
+    "summary": "경복대학교 건설교육원이 건설기술인을 위한 '중대재해관리실무' 원격교육과정을 개설했다. 이는 건설업계의 안전 의식 고취와 법적 준수 역량 강화를 지원하는 교육 프로그램이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-03T04:37:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -31282,21 +31298,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부 '서소문 고가 붕괴' 사조위 구성…4개월간 원인 규명 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05akM3bm9ONDRKbkNodE9UNU53cXAxY0ZXcnl3Q0ZFbG4tZ1V6MEtmeWlocTZxcF91VS1wMEJCU3E0amk0SGRsWklvbzRJWktfcVJGX3BpSF83d0lN?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE05akM3bm9ONDRKbkNodE9UNU53cXAxY0ZXcnl3Q0ZFbG4tZ1V6MEtmeWlocTZxcF91VS1wMEJCU3E0amk0SGRsWklvbzRJWktfcVJGX3BpSF83d0lN?oc=5\" target=\"_blank\">국토부 '서소문 고가 붕괴' 사조위 구성…4개월간 원인 규명</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
-    "published_at": "2026-05-28T15:42:00+09:00",
-    "cluster_id": "d585",
-    "publisher": "뉴스핌",
-    "title_clean": "국토부 '서소문 고가 붕괴' 사조위 구성…4개월간 원인 규명",
-    "summary": "국토부가 서소문 고가도로 붕괴 사건에 대해 사고조사위원회를 구성하여 4개월간 원인을 규명하기로 했다. 이는 건설안전 관련 규제 강화 및 업계 점검 강화로 이어질 가능성이 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 4
   }
 ]
