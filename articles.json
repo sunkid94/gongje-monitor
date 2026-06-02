@@ -19320,6 +19320,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통부, 새로운 부처 슬로건 발표 - 환경일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11aFJaY2JhVGN6bGZsYm9MVk43cUJLWFRIaDdwcXctQVY2dU1PWnBBYk8tZUhVMnA0N0x5Ulhnblp3eW5XaEYzV29BUHg1TWxBa3R4T2pqLV9QQ2RZVUs1TFFnaDluam1D?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE11aFJaY2JhVGN6bGZsYm9MVk43cUJLWFRIaDdwcXctQVY2dU1PWnBBYk8tZUhVMnA0N0x5Ulhnblp3eW5XaEYzV29BUHg1TWxBa3R4T2pqLV9QQ2RZVUs1TFFnaDluam1D?oc=5\" target=\"_blank\">국토교통부, 새로운 부처 슬로건 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">환경일보</font>",
+    "published_at": "2026-06-02T15:12:04+09:00",
+    "cluster_id": "98d5",
+    "publisher": "환경일보",
+    "title_clean": "국토교통부, 새로운 부처 슬로건 발표",
+    "summary": "국토교통부가 새로운 부처 슬로건을 발표했습니다. 구체적인 슬로건 내용이 기사에 포함되지 않아 건설업계에 미치는 영향을 판단하기 어렵습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-03T04:42:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -31282,21 +31298,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "김윤덕 국토부 장관, 네이버1784 사옥 방문 - 환경일보",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DZHEwZ01Wak5tWlUwZEJ5TVRIdTRNd3BNS2R4dHlmQk0zR0U5clJ0dUJWY1BkRnJkNWotTWFrYkp1YktneWNsNm91TEIxbHo1UlN5SnNvWUZCZm9Xc0pINGE2V1FiSkhi?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DZHEwZ01Wak5tWlUwZEJ5TVRIdTRNd3BNS2R4dHlmQk0zR0U5clJ0dUJWY1BkRnJkNWotTWFrYkp1YktneWNsNm91TEIxbHo1UlN5SnNvWUZCZm9Xc0pINGE2V1FiSkhi?oc=5\" target=\"_blank\">김윤덕 국토부 장관, 네이버1784 사옥 방문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">환경일보</font>",
-    "published_at": "2026-05-28T10:28:54+09:00",
-    "cluster_id": "1201",
-    "publisher": "환경일보",
-    "title_clean": "김윤덕 국토부 장관, 네이버1784 사옥 방문",
-    "summary": "김윤덕 국토부 장관이 네이버 1784 사옥을 방문했습니다. 기사 본문 내용이 제공되지 않아 방문의 구체적인 목적과 의도를 파악하기 어렵습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 2
   }
 ]
