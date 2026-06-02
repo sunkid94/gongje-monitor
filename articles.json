@@ -19316,6 +19316,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[인터뷰] 엠에스제이씨앤이 김명준 대표 \"반값 슬라브 폼으로 건설 현장 바꾸겠다\" - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXejdOWHBxS0doOHZiVlp5bFhhYUQxc2RrSERUMGc0dHFhVHowMk9OUktROHZlR2VsbU16bU5MSTNJTUNYOGMzNkdYWVc5Ry1OQVNudmp2X0I4UdIBXkFVX3lxTFBPdGI5WUJSZDlmNnVzcU8ySW5FMjlMRXNqaFpKRUM1ODNZc3hOOGNSU0haNjFQdUIyQmdUSXp5SWQzaXktNERvZEI4VWhQWk5YVC1FRVEwYi14XzFyQXc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXejdOWHBxS0doOHZiVlp5bFhhYUQxc2RrSERUMGc0dHFhVHowMk9OUktROHZlR2VsbU16bU5MSTNJTUNYOGMzNkdYWVc5Ry1OQVNudmp2X0I4UdIBXkFVX3lxTFBPdGI5WUJSZDlmNnVzcU8ySW5FMjlMRXNqaFpKRUM1ODNZc3hOOGNSU0haNjFQdUIyQmdUSXp5SWQzaXktNERvZEI4VWhQWk5YVC1FRVEwYi14XzFyQXc?oc=5\" target=\"_blank\">[인터뷰] 엠에스제이씨앤이 김명준 대표 \"반값 슬라브 폼으로 건설 현장 바꾸겠다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
+    "published_at": "2026-06-02T19:20:53+09:00",
+    "cluster_id": "2928",
+    "publisher": "파이낸셜뉴스",
+    "title_clean": "[인터뷰] 엠에스제이씨앤이 김명준 대표 \"반값 슬라브 폼으로 건설 현장 바꾸겠다\"",
+    "summary": "엠에스제이씨앤이 기존 슬라브 폼의 절반 가격대의 신제품으로 건설 현장의 생산성 개선과 원가 절감을 추진하고 있다. 새로운 기술력으로 건설업계의 기계설비 수요 창출을 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T19:42:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31277,21 +31293,5 @@
     "sentiment": "positive",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설사업관리(CM) 감리제도 한계 논란… 현장 안전 보장 가능한가 - 대한건축사협회 건축사신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKSE5pZU5DM2I3OV91ekNYTEo2QnJSWk95WFBZTnJhM2dZaUVnb0tDSXA4ejQ2cEcyeUktUTBGZGp6MVlGN3VsU1R5OTVsNmdQOGI3R0dkNzM2enY1c1A2OXk4YTNiTW8?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKSE5pZU5DM2I3OV91ekNYTEo2QnJSWk95WFBZTnJhM2dZaUVnb0tDSXA4ejQ2cEcyeUktUTBGZGp6MVlGN3VsU1R5OTVsNmdQOGI3R0dkNzM2enY1c1A2OXk4YTNiTW8?oc=5\" target=\"_blank\">건설사업관리(CM) 감리제도 한계 논란… 현장 안전 보장 가능한가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한건축사협회 건축사신문</font>",
-    "published_at": "2026-05-28T16:55:20+09:00",
-    "cluster_id": "9bfc",
-    "publisher": "대한건축사협회 건축사신문",
-    "title_clean": "건설사업관리(CM) 감리제도 한계 논란… 현장 안전 보장 가능한가",
-    "summary": "건설사업관리(CM) 감리제도의 한계가 논란이 되고 있으며, 현장 안전 보장 능력에 대한 의문이 제기되고 있다. 건축사협회가 중심이 되어 제도 개선의 필요성을 지적하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 4
   }
 ]
