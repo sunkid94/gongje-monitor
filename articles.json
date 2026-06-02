@@ -3669,6 +3669,38 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티 주가, 6월 2일 장중 101,200원 5.33% 하락 - 톱스타뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yZ1VZZkN6MGhiR09FUHVmbXVpQ2paSERJUmZ2Y2J0ajAyWnh6OTBBLUlKazFwYkJLaUtYdlZPV3BDWWwwY0daRmMxcVJXTmxDWkhBTHVuSFNEaUJyTUNSSXgxRzJ5UGFKUGJsZjZrYzY0UQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE4yZ1VZZkN6MGhiR09FUHVmbXVpQ2paSERJUmZ2Y2J0ajAyWnh6OTBBLUlKazFwYkJLaUtYdlZPV3BDWWwwY0daRmMxcVJXTmxDWkhBTHVuSFNEaUJyTUNSSXgxRzJ5UGFKUGJsZjZrYzY0UQ?oc=5\" target=\"_blank\">두산에너빌리티 주가, 6월 2일 장중 101,200원 5.33% 하락</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">톱스타뉴스</font>",
+    "published_at": "2026-06-02T10:18:34+09:00",
+    "cluster_id": "eed6",
+    "publisher": "톱스타뉴스",
+    "title_clean": "두산에너빌리티 주가, 6월 2일 장중 101,200원 5.33% 하락",
+    "summary": "두산에너빌리티 주가가 6월 2일 장중 101,200원으로 5.33% 하락했다. 주가 하락은 건설업계 전반에 부정적인 신호로 작용할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-02T10:28:00+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 주가, 6월 2일 장중 22,150원 8.66% 하락 - 톱스타뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBWnZwREJPc1hmVEU2cmlfaV9CNjVFYWFKM1dIZVQ4RWdnUnBXcTQwSi1ESmFzdlJQOVlvdFVSYXRTSmtPQ285UTVMRThYbUtuVFh1bWRQOC1qcTJfV044dUM4RHlJLWIyUXIxWE5aeDRTUQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBBWnZwREJPc1hmVEU2cmlfaV9CNjVFYWFKM1dIZVQ4RWdnUnBXcTQwSi1ESmFzdlJQOVlvdFVSYXRTSmtPQ285UTVMRThYbUtuVFh1bWRQOC1qcTJfV044dUM4RHlJLWIyUXIxWE5aeDRTUQ?oc=5\" target=\"_blank\">대우건설 주가, 6월 2일 장중 22,150원 8.66% 하락</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">톱스타뉴스</font>",
+    "published_at": "2026-06-02T10:19:09+09:00",
+    "cluster_id": "0252",
+    "publisher": "톱스타뉴스",
+    "title_clean": "대우건설 주가, 6월 2일 장중 22,150원 8.66% 하락",
+    "summary": "6월 2일 대우건설 주가가 22,150원으로 8.66% 하락했다. 구체적인 하락 원인에 대한 정보는 제시되지 않았다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-02T10:28:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
