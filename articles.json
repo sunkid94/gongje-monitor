@@ -19320,6 +19320,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, 홈플러스 부천 상동점 개발사업 1.5조 PF 조달 - 모바일한경",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0ttTHVfX3F3M1Z5UDBMM0t5NGdqUUU2TV9ucFhGYUVVTmNvRXQ1QlpiNzcyVHk5ekNKa1ZaVGdiYnk1V3FNbmFtYjBBLVRWT3BETTNnbzNmRWxnNkZHekg2dGRnM0plWEFJc0pOaWpYaERyRjIzaXRoOXgwSDB0ZW1Uc1daSVE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0ttTHVfX3F3M1Z5UDBMM0t5NGdqUUU2TV9ucFhGYUVVTmNvRXQ1QlpiNzcyVHk5ekNKa1ZaVGdiYnk1V3FNbmFtYjBBLVRWT3BETTNnbzNmRWxnNkZHekg2dGRnM0plWEFJc0pOaWpYaERyRjIzaXRoOXgwSDB0ZW1Uc1daSVE?oc=5\" target=\"_blank\">롯데건설, 홈플러스 부천 상동점 개발사업 1.5조 PF 조달</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">모바일한경</font>",
+    "cluster_id": "faf9",
+    "publisher": "모바일한경",
+    "title_clean": "롯데건설, 홈플러스 부천 상동점 개발사업 1.5조 PF 조달",
+    "summary": "롯데건설이 홈플러스 부천 상동점 개발사업을 위해 1.5조 원 규모의 PF(프로젝트 파이낸싱)를 조달했다. 대규모 상업시설 개발사업 수주로 건설업계에 긍정적인 신호를 전달하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-03T05:42:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -31278,22 +31293,6 @@
     "publisher": "건설이코노미뉴스",
     "title_clean": "국토부, 서소문고가 붕괴사고 원인 규명 착수…건설사고조사위 구성",
     "summary": "국토부가 서소문고가 붕괴사고에 대해 건설사고조사위원회를 구성하여 원인 규명을 시작했다. 대형 건설사고에 대한 공식적인 조사 절차가 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토교통부, 서울 서소문고가 붕괴사고 건설사고조사위원회 구성 및 조사 착수 - 매일타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uQTNzcy03N2d6N0ZDN0d0ZGt3d1RucDJuQkUtT3hmOUMxQURkV041ZTBlRHhxcWVxcVhhRmFwbmM2bk9ieDhzeVBRb1RXdVpWOGF5NjFONEw4MjVVZEE5bWllRWlYMlBR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uQTNzcy03N2d6N0ZDN0d0ZGt3d1RucDJuQkUtT3hmOUMxQURkV041ZTBlRHhxcWVxcVhhRmFwbmM2bk9ieDhzeVBRb1RXdVpWOGF5NjFONEw4MjVVZEE5bWllRWlYMlBR?oc=5\" target=\"_blank\">국토교통부, 서울 서소문고가 붕괴사고 건설사고조사위원회 구성 및 조사 착수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일타임즈</font>",
-    "published_at": "2026-05-28T16:30:36+09:00",
-    "cluster_id": "fdfd",
-    "publisher": "매일타임즈",
-    "title_clean": "국토교통부, 서울 서소문고가 붕괴사고 건설사고조사위원회 구성 및 조사 착수",
-    "summary": "국토교통부가 서울 서소문고가 붕괴사고에 대해 건설사고조사위원회를 구성하고 조사를 착수했다. 이는 건설 안전 관리 강화 및 책임 규명을 위한 조치로, 향후 건설업계에 대한 규제 강화로 이어질 가능성이 있다.",
     "sentiment": "negative",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 4
