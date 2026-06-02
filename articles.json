@@ -3684,6 +3684,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 4조3000억 규모 액화천연가스 생산설비 1기 수주 - fetv.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sU2pkQmFRNlRNOXJubHFmT19wTENMYURaY2FBbWRJRHdNc2pkWnliY2RWdEJXZ1ZrQmkzR2ZiZkgzRzc4N1ZySGJIeE1odi0xTTRzaE1MTV80cWRlSTM1SkYxSHFiemFf?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sU2pkQmFRNlRNOXJubHFmT19wTENMYURaY2FBbWRJRHdNc2pkWnliY2RWdEJXZ1ZrQmkzR2ZiZkgzRzc4N1ZySGJIeE1odi0xTTRzaE1MTV80cWRlSTM1SkYxSHFiemFf?oc=5\" target=\"_blank\">삼성중공업, 4조3000억 규모 액화천연가스 생산설비 1기 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fetv.co.kr</font>",
+    "published_at": "2026-06-02T13:33:46+09:00",
+    "cluster_id": "0c99",
+    "publisher": "fetv.co.kr",
+    "title_clean": "삼성중공업, 4조3000억 규모 액화천연가스 생산설비 1기 수주",
+    "summary": "삼성중공업이 4조3000억 규모의 액화천연가스(LNG) 생산설비 1기를 수주했다. 이는 건설기계설비 부문의 대규모 수주로 업계의 수주 증가를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T19:02:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19298,22 +19314,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T04:47:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, ‘러브하우스’ 100호 개소…세종 이주노동자 복지센터 개선 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3AzSW1uTFZoRjJyN3JGeHViYzBuYk5vVkk0ZmJOenhLaVBPaTc2TDlMaWd1SmdxTjhyTjBBeHlyT09wQkxabFNaMnA1MVVXUWp1dUc4dU5XTXZJeF9kUGtWVXZQOUY2MmZEZXNEcXNTa29seEdkaXRFaEdTV1VlMQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3AzSW1uTFZoRjJyN3JGeHViYzBuYk5vVkk0ZmJOenhLaVBPaTc2TDlMaWd1SmdxTjhyTjBBeHlyT09wQkxabFNaMnA1MVVXUWp1dUc4dU5XTXZJeF9kUGtWVXZQOUY2MmZEZXNEcXNTa29seEdkaXRFaEdTV1VlMQ?oc=5\" target=\"_blank\">롯데건설, ‘러브하우스’ 100호 개소…세종 이주노동자 복지센터 개선</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-    "published_at": "2026-05-28T09:47:00+09:00",
-    "cluster_id": "497d",
-    "publisher": "이데일리",
-    "title_clean": "롯데건설, ‘러브하우스’ 100호 개소…세종 이주노동자 복지센터 개선",
-    "summary": "롯데건설이 이주노동자 복지를 위한 '러브하우스' 100호를 개소했다. 세종시의 이주노동자 복지센터 개선을 통해 사회공헌활동을 추진했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-28T04:47:47+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 PF",
