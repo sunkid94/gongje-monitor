@@ -19321,6 +19321,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[건설사 체력점검 – 롯데건설③] 버팀목 된 그룹…계열사로 전이된 부담 - 뷰어스",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsZDYwcXozUnRTa0U3LVEzNXFVV2NqUG9melJaWXFIYXRXMXRHQWtlUGdCdDlyOTVmTnVqaEs0Z1hsLXVrRlUtLXhoM1czczQ4Zm1KTDg3R3U?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsZDYwcXozUnRTa0U3LVEzNXFVV2NqUG9melJaWXFIYXRXMXRHQWtlUGdCdDlyOTVmTnVqaEs0Z1hsLXVrRlUtLXhoM1czczQ4Zm1KTDg3R3U?oc=5\" target=\"_blank\">[건설사 체력점검 – 롯데건설③] 버팀목 된 그룹…계열사로 전이된 부담</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뷰어스</font>",
+    "cluster_id": "818a",
+    "publisher": "뷰어스",
+    "title_clean": "[건설사 체력점검 – 롯데건설③] 버팀목 된 그룹…계열사로 전이된 부담",
+    "summary": "롯데건설이 롯데그룹의 재정적 어려움 속에서 버팀목 역할을 하고 있으며, 그룹 내 계열사들로 부담이 전이되고 있는 상황을 분석한 기사입니다. 건설사의 체력 점검 시리즈의 일환으로 롯데건설의 재무 건전성과 그룹 차원의 리스크를 조명합니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-03T07:07:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -31281,20 +31296,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부 건설사고조사위, 서소문 고가 사고 원인 조사 착수 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZnJ1VUQ3VTlYSjZFRDZaZ2hpdnU2YkpYemhKa1JjNGYwR0xYVWlnZVlBZi1aVS1Hc3JTaGVkeGp6c1pwdkV6b3NZZjJzQXdzcXl1d0JMQXNlVzhORFRVTlNFM2ltOHhVNXNSZnAyYUloRGU0clNN0gF3QVVfeXFMTV9mcnVVRDdVOVhKNkVENlpnaGl2dTZiSlh6aEprUmM0ZjBHTFhVaWdlWUFmLVpVLUdzclNoZWR4anpzWnB2RXpvc1lmMnNBd3NxeXV3QkxBc2VXOE5EVFVOU0UzaW04eFU1c1JmcDJhSWhEZTRyU00?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZnJ1VUQ3VTlYSjZFRDZaZ2hpdnU2YkpYemhKa1JjNGYwR0xYVWlnZVlBZi1aVS1Hc3JTaGVkeGp6c1pwdkV6b3NZZjJzQXdzcXl1d0JMQXNlVzhORFRVTlNFM2ltOHhVNXNSZnAyYUloRGU0clNN0gF3QVVfeXFMTV9mcnVVRDdVOVhKNkVENlpnaGl2dTZiSlh6aEprUmM0ZjBHTFhVaWdlWUFmLVpVLUdzclNoZWR4anpzWnB2RXpvc1lmMnNBd3NxeXV3QkxBc2VXOE5EVFVOU0UzaW04eFU1c1JmcDJhSWhEZTRyU00?oc=5\" target=\"_blank\">국토부 건설사고조사위, 서소문 고가 사고 원인 조사 착수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-    "cluster_id": "063c",
-    "publisher": "MBC 뉴스",
-    "title_clean": "국토부 건설사고조사위, 서소문 고가 사고 원인 조사 착수",
-    "summary": "국토교통부 건설사고조사위원회가 서소문 고가도로 붕괴 사고의 원인 조사를 시작했다. 이는 건설 안전 관리 강화 및 규제 강화로 이어질 수 있는 신호다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 4
   }
 ]
