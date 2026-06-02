@@ -3684,6 +3684,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 4조3000억 원대 FLNG 수주에도 주가 주춤…시장 관심은 움직임에 집중 - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JdVZ4RlEwQU1RLXJ1eUVkMU9aX3R4VWdIVlZmR1RUTUQ4cngyQVVvb3pVRGg2Yll5TkFZOEx5MG5XeXdldV96aFd3NzhYLTU5MkhDRHI4WVQ1MGgzQ0JUZTBfNG84amtV?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JdVZ4RlEwQU1RLXJ1eUVkMU9aX3R4VWdIVlZmR1RUTUQ4cngyQVVvb3pVRGg2Yll5TkFZOEx5MG5XeXdldV96aFd3NzhYLTU5MkhDRHI4WVQ1MGgzQ0JUZTBfNG84amtV?oc=5\" target=\"_blank\">삼성중공업, 4조3000억 원대 FLNG 수주에도 주가 주춤…시장 관심은 움직임에 집중</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC뉴스</font>",
+    "published_at": "2026-06-03T00:00:00+09:00",
+    "cluster_id": "8a49",
+    "publisher": "CBC뉴스",
+    "title_clean": "삼성중공업, 4조3000억 원대 FLNG 수주에도 주가 주춤…시장 관심은 움직임에 집중",
+    "summary": "삼성중공업이 4조3000억 원대 FLNG 수주에 성공했으나 주가는 부진을 보이고 있다. 시장은 대규모 수주 호재에도 불구하고 주가 움직임에 주목하며 실적 개선 신호를 기다리고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-03T00:07:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19301,22 +19317,6 @@
     "sentiment": "negative",
     "collected_at": "2026-05-28T04:47:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, ‘써밋 더힐’ 1순위 청약 평균 ‘32.51대1’ 경쟁률 흥행 기록 - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13QVVlZWJ3blM3Ui1mZU1YZ2VGVDVnYmtLNUFMTl9EdUFWNXJ1TlU1MWRxT3EwTGl3bzBZRTJreDg5NVBubS1hR2VMUTdKZUx0UzlkeHVuRlRkOXk2blM5Sk5xeVQtU1FLR3NpR3oyNWbSAXRBVV95cUxOQ21mMUJITUxaeXJRWGVEX3NZS3RsY3diNTc1SVI1bmc4RTR5MXlSbE9oVG9ObHBhazdaZjFxWE1nc3JIZUdSVHBuTlVYeXQ0WVBJN2hDSkVucTd2WndZWGhmRDdKLUlfam43aG9id09qd2lsdQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE13QVVlZWJ3blM3Ui1mZU1YZ2VGVDVnYmtLNUFMTl9EdUFWNXJ1TlU1MWRxT3EwTGl3bzBZRTJreDg5NVBubS1hR2VMUTdKZUx0UzlkeHVuRlRkOXk2blM5Sk5xeVQtU1FLR3NpR3oyNWbSAXRBVV95cUxOQ21mMUJITUxaeXJRWGVEX3NZS3RsY3diNTc1SVI1bmc4RTR5MXlSbE9oVG9ObHBhazdaZjFxWE1nc3JIZUdSVHBuTlVYeXQ0WVBJN2hDSkVucTd2WndZWGhmRDdKLUlfam43aG9id09qd2lsdQ?oc=5\" target=\"_blank\">대우건설, ‘써밋 더힐’ 1순위 청약 평균 ‘32.51대1’ 경쟁률 흥행 기록</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이뉴스투데이</font>",
-    "published_at": "2026-05-28T09:49:50+09:00",
-    "cluster_id": "2194",
-    "publisher": "이뉴스투데이",
-    "title_clean": "대우건설, ‘써밋 더힐’ 1순위 청약 평균 ‘32.51대1’ 경쟁률 흥행 기록",
-    "summary": "대우건설의 '써밋 더힐' 아파트 프로젝트가 1순위 청약에서 평균 32.51대1의 높은 경쟁률을 기록하며 흥행을 거두었다. 이는 건설사의 주택 공급 수주 확대와 시장 수요 증가를 나타내는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-28T04:47:47+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설수주",
