@@ -5,15 +5,15 @@ from unittest.mock import patch
 SAMPLE_ARTICLES = [
     {
         "keyword": "기계설비건설공제조합",
-        "title": "기계설비건설공제조합 신규 발표",
+        "title": "기계설비건설공제조합 신규 발표 - 대한전문건설신문",
         "link": "http://news.google.com/1",
-        "description": "신규 사업 발표",
+        "description": '<a href="http://...">기계설비건설공제조합 신규 발표</a>&nbsp;<font>대한전문건설신문</font>',
     },
     {
         "keyword": "건설공제조합",
-        "title": "건설공제조합 소식",
+        "title": "건설공제조합 신규 소식 발표 - 건설일보",
         "link": "http://news.google.com/2",
-        "description": "건설 소식",
+        "description": '<a href="http://...">건설공제조합 신규 소식 발표</a>&nbsp;<font>건설일보</font>',
     },
 ]
 
@@ -268,6 +268,44 @@ def test_filter_duplicates_passes_through_articles_without_keys(tmp_path):
         import article_store
         result = article_store.filter_duplicates(incoming)
     assert len(result) == 3
+
+
+def test_is_empty_stub_blocks_short_descriptions():
+    from article_store import is_empty_stub
+    # 실제 문제 케이스 — Google News 가 발급한 "장관 - 국토교통부" entry
+    title = "장관 - 국토교통부"
+    desc = '<a href="https://news.google.com/...">장관</a>&nbsp;&nbsp;<font color="#6f6f6f">국토교통부</font>'
+    assert is_empty_stub(title, desc) is True
+
+
+def test_is_empty_stub_keeps_normal_articles():
+    from article_store import is_empty_stub
+    title = "오산시, 우기·폭염 대비 공동주택 건설현장 합동 안전점검 실시 - 한국시사경제"
+    desc = '<a href="https://news.google.com/...">오산시, 우기·폭염 대비 공동주택 건설현장 합동 안전점검 실시</a>&nbsp;&nbsp;<font>한국시사경제</font>'
+    assert is_empty_stub(title, desc) is False
+
+
+def test_is_empty_stub_handles_empty_title():
+    from article_store import is_empty_stub
+    assert is_empty_stub("", "<a>some content</a>") is True
+    assert is_empty_stub("   ", "<a>some content</a>") is True
+
+
+def test_save_articles_drops_empty_stub_entries(tmp_path):
+    """기존 articles.json 에 누적된 빈 껍데기 entry 도 save_articles 호출 시 자동 청소."""
+    articles_file = str(tmp_path / "articles.json")
+    items = [
+        {"is_company": True, "title": "장관 - 국토교통부", "link": "stub",
+         "description": '<a>장관</a>&nbsp;<font>국토교통부</font>'},
+        {"is_company": True, "title": "정상 제목 - 한국시사경제", "link": "good",
+         "description": '<a>오산시, 우기·폭염 대비 공동주택 건설현장 합동 안전점검 실시</a>&nbsp;<font>한국시사경제</font>'},
+    ]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        article_store.save_articles(items)
+        result = article_store.load_articles()
+    links = {a["link"] for a in result}
+    assert links == {"good"}
 
 
 def test_save_articles_dedupes_existing_keeping_oldest(tmp_path):

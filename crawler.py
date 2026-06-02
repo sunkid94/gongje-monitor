@@ -4,6 +4,7 @@ from urllib.parse import quote
 
 import feedparser
 
+from article_store import is_empty_stub
 from config import CATEGORY_KEYWORDS, COMPANY_KEYWORDS
 from pub_date import resolve_published_time
 
@@ -18,13 +19,19 @@ def fetch_news_rss(keyword: str, category: str, is_company: bool) -> list:
     feed = feedparser.parse(GOOGLE_NEWS_RSS.format(quote(keyword)))
     articles = []
     for entry in feed.entries:
+        title = entry.get("title", "")
+        description = entry.get("summary", "")
+        # Google News 가 가끔 발급하는 "제목만 있는" 빈 entry (예: "장관 - 국토교통부")
+        # 는 enrich 단계에서 Claude API 비용만 쓰고 사용자에겐 노이즈가 되므로 여기서 차단.
+        if is_empty_stub(title, description):
+            continue
         articles.append({
             "keyword": keyword,
             "category": category,
             "is_company": is_company,
-            "title": entry.get("title", ""),
+            "title": title,
             "link": entry.get("link", ""),
-            "description": entry.get("summary", ""),
+            "description": description,
             "published_parsed": entry.get("published_parsed"),
         })
     return articles
