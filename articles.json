@@ -3684,6 +3684,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 북미 FLNG설비 4.3조 수주…전세계 신규 발주 64% 확보 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3N3RIOGpneG93WUxmdU82M2s2TWJsZmFQdmE1M0lEZm90TXNHdF9IaVI5X3ctUzVlallqQ05oOG9jUEw5Qmg1NlRZWmRBTzB6SEsyU1Z3?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3N3RIOGpneG93WUxmdU82M2s2TWJsZmFQdmE1M0lEZm90TXNHdF9IaVI5X3ctUzVlallqQ05oOG9jUEw5Qmg1NlRZWmRBTzB6SEsyU1Z3?oc=5\" target=\"_blank\">삼성중공업, 북미 FLNG설비 4.3조 수주…전세계 신규 발주 64% 확보</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "published_at": "2026-06-02T18:58:27+09:00",
+    "cluster_id": "0567",
+    "publisher": "중앙일보",
+    "title_clean": "삼성중공업, 북미 FLNG설비 4.3조 수주…전세계 신규 발주 64% 확보",
+    "summary": "삼성중공업이 북미 FLNG(부유식 액화천연가스) 설비 수주를 통해 4.3조 원대 수익을 확보했다. 이는 전세계 신규 발주의 64%에 해당하는 규모로, 건설·기계설비 업계에 긍정적인 신호를 전달한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T19:12:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19298,22 +19314,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T04:47:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, '러브하우스' 100호 달성…이주노동자 복지센터 개보수 - 폴리뉴스 Polinews",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80VTRGQTNSQzgwMzNCTkZkQ1RWV3l2M3JBTF9nVDRSaUZSSVU5Qk1hVzVScFBTUEs5T2Z0U0VzcnZZTUVoZWxfSHlaeFRDTHVSTTJWaGhhenN1Mms0TXBST19xQUtzZEZ3OTdNanh30gFyQVVfeXFMT0tobjU5N3B6YmpMdEc0UkZtNGVkdUJyRXZIejN4RVgwMGVJV3pCc0l4NWFtbnBxN3JKS0l1OXRpRHR5OHFIbXNMUE5kS2d4ODVLY1dHcDFWWk9zbTNUU1hLVEtHdEF2VzZab2tXRHZMV3VB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE80VTRGQTNSQzgwMzNCTkZkQ1RWV3l2M3JBTF9nVDRSaUZSSVU5Qk1hVzVScFBTUEs5T2Z0U0VzcnZZTUVoZWxfSHlaeFRDTHVSTTJWaGhhenN1Mms0TXBST19xQUtzZEZ3OTdNanh30gFyQVVfeXFMT0tobjU5N3B6YmpMdEc0UkZtNGVkdUJyRXZIejN4RVgwMGVJV3pCc0l4NWFtbnBxN3JKS0l1OXRpRHR5OHFIbXNMUE5kS2d4ODVLY1dHcDFWWk9zbTNUU1hLVEtHdEF2VzZab2tXRHZMV3VB?oc=5\" target=\"_blank\">롯데건설, '러브하우스' 100호 달성…이주노동자 복지센터 개보수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리뉴스 Polinews</font>",
-    "published_at": "2026-05-28T09:53:21+09:00",
-    "cluster_id": "06df",
-    "publisher": "폴리뉴스 Polinews",
-    "title_clean": "롯데건설, '러브하우스' 100호 달성…이주노동자 복지센터 개보수",
-    "summary": "롯데건설이 사회공헌 사업인 '러브하우스' 프로젝트의 100호 달성을 기념하여 이주노동자 복지센터를 개보수했다. 이는 건설기업의 사회적 책임 이행 사례로, 기업 이미지 개선에 긍정적인 사례이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-28T04:47:47+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 PF",
