@@ -19320,6 +19320,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "화성특례시, 건축공사 관계자 대상 `안전사고 예방 교육` 실시 - 경기평화신문",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15Mi0yeW0xbkhaRVlaanliNjM4VGNkMXpNY0kxaDhLOGY3YjEtdkN2LXltZ0thZ0dBbTc1eENBMy1VTUxYRTVURWln?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE15Mi0yeW0xbkhaRVlaanliNjM4VGNkMXpNY0kxaDhLOGY3YjEtdkN2LXltZ0thZ0dBbTc1eENBMy1VTUxYRTVURWln?oc=5\" target=\"_blank\">화성특례시, 건축공사 관계자 대상 `안전사고 예방 교육` 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기평화신문</font>",
+    "published_at": "2026-06-02T12:03:00+09:00",
+    "cluster_id": "1a49",
+    "publisher": "경기평화신문",
+    "title_clean": "화성특례시, 건축공사 관계자 대상 `안전사고 예방 교육` 실시",
+    "summary": "화성특례시가 건축공사 관계자를 대상으로 안전사고 예방 교육을 실시했다. 건설업계의 안전의식 강화와 사고 예방을 위한 정부 차원의 교육 지원 사업이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-03T01:27:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -31280,21 +31296,6 @@
     "publisher": "아시아투데이",
     "title_clean": "국토부, ‘서소문고가 붕괴’ 건설사고조사위 구성…철거 안전관리 전반 점검",
     "summary": "국토부가 서소문고가 붕괴 사건을 계기로 건설사고조사위원회를 구성하여 철거 안전관리 전반을 점검한다. 이는 건설현장 안전관리 강화 및 규제 강화로 이어질 가능성이 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부 건설사고조사위, 서소문 붕괴사고 정밀조사 착수 - 노컷뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uVm5aWU44YW5HMWVWUVFvMGo4UWJROVM4VVRuQXl2ZE5KRHkyNVZqSmJqVmRMcHRYR3hZTElhenBxT3dqa2hPazNQTk1mb09NMXc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uVm5aWU44YW5HMWVWUVFvMGo4UWJROVM4VVRuQXl2ZE5KRHkyNVZqSmJqVmRMcHRYR3hZTElhenBxT3dqa2hPazNQTk1mb09NMXc?oc=5\" target=\"_blank\">국토부 건설사고조사위, 서소문 붕괴사고 정밀조사 착수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
-    "cluster_id": "7e2a",
-    "publisher": "노컷뉴스",
-    "title_clean": "국토부 건설사고조사위, 서소문 붕괴사고 정밀조사 착수",
-    "summary": "국토교통부 건설사고조사위원회가 서소문 붕괴사고에 대한 정밀조사를 시작했다. 사고 원인 규명을 통해 건설 안전 기준 강화 등의 후속 조치가 예상된다.",
     "sentiment": "negative",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 4
