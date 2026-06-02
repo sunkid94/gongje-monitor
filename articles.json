@@ -3684,6 +3684,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 북미서 4.3조원 FLNG 수주…해양플랜트 경쟁력 재확인 - 이로운경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxQTRmcWZMYndXNVFBOGhmRGY1MzhmNVotSDNLZml5S29xbUZYY1VRYm5HVGxSTDY1b3Ntai1IUHF6TTl3UENpbzVNSlp4NFl0YWFVVTYxTm1KSUNkN2NQdFFlUF9JcDg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxQTRmcWZMYndXNVFBOGhmRGY1MzhmNVotSDNLZml5S29xbUZYY1VRYm5HVGxSTDY1b3Ntai1IUHF6TTl3UENpbzVNSlp4NFl0YWFVVTYxTm1KSUNkN2NQdFFlUF9JcDg?oc=5\" target=\"_blank\">삼성중공업, 북미서 4.3조원 FLNG 수주…해양플랜트 경쟁력 재확인</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이로운경제TV</font>",
+    "published_at": "2026-06-02T17:20:00+09:00",
+    "cluster_id": "2cac",
+    "publisher": "이로운경제TV",
+    "title_clean": "삼성중공업, 북미서 4.3조원 FLNG 수주…해양플랜트 경쟁력 재확인",
+    "summary": "삼성중공업이 북미 지역에서 4.3조원 규모의 FLNG(부유식 액화천연가스) 프로젝트를 수주했다. 이는 해양플랜트 분야에서의 기술 경쟁력과 시장 지위를 재확인하는 대규모 수주로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-02T18:12:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19299,21 +19315,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T04:47:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 복지시설 개선 '러브하우스' 100호 돌파 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15OUR5dEh6Y0RFVUdNakUwblU4T2M1cG1nYTg1dmVoblZMa0JCbmMtOGtqaDBHd0ZRREdfMTZfQW4td3JYQmtnZlJ3ckFqNjE1dWs0?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE15OUR5dEh6Y0RFVUdNakUwblU4T2M1cG1nYTg1dmVoblZMa0JCbmMtOGtqaDBHd0ZRREdfMTZfQW4td3JYQmtnZlJ3ckFqNjE1dWs0?oc=5\" target=\"_blank\">롯데건설, 복지시설 개선 '러브하우스' 100호 돌파</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "8026",
-    "publisher": "네이트",
-    "title_clean": "롯데건설, 복지시설 개선 '러브하우스' 100호 돌파",
-    "summary": "롯데건설이 복지시설 개선 사업인 '러브하우스' 100호 달성을 발표했다. 기업의 사회공헌 활동을 통한 브랜드 가치 제고 사례로, 건설업계의 긍정적 이미지 구축에 기여하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-28T04:47:47+09:00",
-    "importance": 3
   },
   {
     "keyword": "국토교통부 건설",
