@@ -19320,6 +19320,21 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "보도자료 - 인천광역시 대표",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemZLdFZMYnBSSzBSQjBhTTNuQzZUcHlyQkI2dTNEUTJ1bDJ0bzc2U3pyb2ZmTEEtMjJtSFhUQUNCU0FGQUxiUTNqZkQwMEtpdHdMS0xqN0FGWjFCZjVzTGlaZ3Rjb1d0dnhhaC1VdWhxOHRBOVdXblBUUHFPSE5BSm5vSjBmUmhwTTFBX0VsRQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOemZLdFZMYnBSSzBSQjBhTTNuQzZUcHlyQkI2dTNEUTJ1bDJ0bzc2U3pyb2ZmTEEtMjJtSFhUQUNCU0FGQUxiUTNqZkQwMEtpdHdMS0xqN0FGWjFCZjVzTGlaZ3Rjb1d0dnhhaC1VdWhxOHRBOVdXblBUUHFPSE5BSm5vSjBmUmhwTTFBX0VsRQ?oc=5\" target=\"_blank\">보도자료</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천광역시 대표</font>",
+    "cluster_id": "ae36",
+    "publisher": "인천광역시 대표",
+    "title_clean": "보도자료",
+    "summary": "제공된 기사 내용이 링크만 있고 구체적인 텍스트가 없어 분석이 불가능합니다. 인천광역시 대표가 발표한 보도자료로 보이나 실제 내용을 확인할 수 없습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-03T04:52:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31279,22 +31294,6 @@
     "publisher": "매일타임즈",
     "title_clean": "국토교통부, 서울 서소문고가 붕괴사고 건설사고조사위원회 구성 및 조사 착수",
     "summary": "국토교통부가 서울 서소문고가 붕괴사고에 대해 건설사고조사위원회를 구성하고 조사를 착수했다. 이는 건설 안전 관리 강화 및 책임 규명을 위한 조치로, 향후 건설업계에 대한 규제 강화로 이어질 가능성이 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'서소문 고가 붕괴' 재발 막는다…국토부, 건설사고조사위원회 구성 - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pQkJVSWJyU3dXS0l1YVVMMkVxU3BEVXRPTFQzTXZlY3p0SFgzYjVkY25TRDYyQXpWc1pZZ2g0THIzRFg2Um5uVmlzeDM0SmtSX2NiT1BsSEktSWRmMkU3d0hqSEdoZzd6ODdtWEZuNzA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5pQkJVSWJyU3dXS0l1YVVMMkVxU3BEVXRPTFQzTXZlY3p0SFgzYjVkY25TRDYyQXpWc1pZZ2g0THIzRFg2Um5uVmlzeDM0SmtSX2NiT1BsSEktSWRmMkU3d0hqSEdoZzd6ODdtWEZuNzA?oc=5\" target=\"_blank\">'서소문 고가 붕괴' 재발 막는다…국토부, 건설사고조사위원회 구성</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합인포맥스</font>",
-    "published_at": "2026-05-28T14:45:33+09:00",
-    "cluster_id": "dd30",
-    "publisher": "연합인포맥스",
-    "title_clean": "'서소문 고가 붕괴' 재발 막는다…국토부, 건설사고조사위원회 구성",
-    "summary": "국토부가 서소문 고가도로 붕괴 사고와 같은 재난을 예방하기 위해 건설사고조사위원회를 구성하고 대책 마련에 나섰다. 건설업계에 대한 안전 규제 강화 및 감시 체계 도입이 예상된다.",
     "sentiment": "negative",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 4
