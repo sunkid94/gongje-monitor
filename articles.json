@@ -19312,6 +19312,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[요즈음] \"비계가 베개로 번역되면 안 되니까\"…건설현장에 들어온 AI 통역 - 아시아타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Y2VvMGs1VnhrejFIWFNNa1ptalhKOVNmS1lkNjVPU180QVd6T2NLTGtnMzQ5QmZTN282SmE5WTJaWjBIMndzTmVSWmN0UnNoSnBlc3ByN1lCdGhHU2c?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Y2VvMGs1VnhrejFIWFNNa1ptalhKOVNmS1lkNjVPU180QVd6T2NLTGtnMzQ5QmZTN282SmE5WTJaWjBIMndzTmVSWmN0UnNoSnBlc3ByN1lCdGhHU2c?oc=5\" target=\"_blank\">[요즈음] \"비계가 베개로 번역되면 안 되니까\"…건설현장에 들어온 AI 통역</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아타임즈</font>",
+    "cluster_id": "76e5",
+    "publisher": "아시아타임즈",
+    "title_clean": "[요즈음] \"비계가 베개로 번역되면 안 되니까\"…건설현장에 들어온 AI 통역",
+    "summary": "건설현장에 AI 통역 기술이 도입되어 안전용어 등 전문 용어를 정확하게 번역하고 있다. 비계 같은 건설 특화 용어의 오번역을 방지하여 현장 안전성과 의사소통 효율을 높이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-03T15:37:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31260,21 +31275,6 @@
     "publisher": "쿠키뉴스",
     "title_clean": "“멈춰선 대구 건설현장”…대구 4월 건설수주 96.5% ‘급감’",
     "summary": "대구의 4월 건설수주가 전년 동기 대비 96.5% 급감하며 건설현장이 위축되고 있다. 이는 건설업계 전반의 심각한 부진을 나타내는 악재로, 건설사들의 수주 활동이 대폭 위축된 상황을 반영한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T04:45:30+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "4월 대구·경북 생산 늘었지만 출하·건설수주는 감소 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZXRGQWVCMERnb0xha0RSd240R09aaWtaVnVXaFF0SHhKXzJENUdtaHBCTDk1dS1qZU9DZWZxSlJQeGhUZHJTUDA5c2NKOERBQWpv?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZXRGQWVCMERnb0xha0RSd240R09aaWtaVnVXaFF0SHhKXzJENUdtaHBCTDk1dS1qZU9DZWZxSlJQeGhUZHJTUDA5c2NKOERBQWpv?oc=5\" target=\"_blank\">4월 대구·경북 생산 늘었지만 출하·건설수주는 감소</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "fcb1",
-    "publisher": "네이트",
-    "title_clean": "4월 대구·경북 생산 늘었지만 출하·건설수주는 감소",
-    "summary": "4월 대구·경북 지역의 산업생산은 증가했으나, 출하와 건설수주는 감소세를 보였다. 생산 증가에도 불구하고 수요 부진으로 건설업계의 실적 부진이 지속되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-05-29T04:45:30+09:00",
     "importance": 4
