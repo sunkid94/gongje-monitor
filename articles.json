@@ -19312,6 +19312,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "\"공장서 만들고 현장서 조립\"…모듈러 공법, 건설 패러다임 바꾼다 - 폴리뉴스 Polinews",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdnY0WVRNVFNENVlWZW9WWlJVdWl4UXZ6VjBJMGl0NWRoVk50UjFCRk9IUHhKaFpaSzYzU2VWUGplUmNfMGt3MkNkSldFRHZkT3R5RXZCUVZacGdDVktaMEN2dXpnSDJfR2FXdWRn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdnY0WVRNVFNENVlWZW9WWlJVdWl4UXZ6VjBJMGl0NWRoVk50UjFCRk9IUHhKaFpaSzYzU2VWUGplUmNfMGt3MkNkSldFRHZkT3R5RXZCUVZacGdDVktaMEN2dXpnSDJfR2FXdWRn?oc=5\" target=\"_blank\">\"공장서 만들고 현장서 조립\"…모듈러 공법, 건설 패러다임 바꾼다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리뉴스 Polinews</font>",
+    "published_at": "2026-06-03T10:24:35+09:00",
+    "cluster_id": "7100",
+    "publisher": "폴리뉴스 Polinews",
+    "title_clean": "\"공장서 만들고 현장서 조립\"…모듈러 공법, 건설 패러다임 바꾼다",
+    "summary": "모듈러 공법은 공장에서 건설 부품을 제조한 후 현장에서 조립하는 방식으로, 건설 산업의 패러다임을 변화시키고 있다. 이 공법은 공사 기간 단축, 품질 향상, 인력 의존도 감소 등의 장점을 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-03T10:52:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31268,20 +31284,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-28T12:48:12+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[기고] 안전보다 효율? 동의하십니까 - 국제신문",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWpldk1ZSHRodGxNQ3hUWGttd05Cc01udVloY2h2aUNBemM5ZWtVWnlwQlM1SUxvOGZvNUx4c2xTN1JIMTB2SXNmTFM3dTdrcXl4VTlMeXZHazlXbWpyLVo4dHhWX05oYlNtVUp2Z2ZVbEdQUHF4b1JkT1N5V1hlSEpWZV9zWlBfYTRwZGNn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWpldk1ZSHRodGxNQ3hUWGttd05Cc01udVloY2h2aUNBemM5ZWtVWnlwQlM1SUxvOGZvNUx4c2xTN1JIMTB2SXNmTFM3dTdrcXl4VTlMeXZHazlXbWpyLVo4dHhWX05oYlNtVUp2Z2ZVbEdQUHF4b1JkT1N5V1hlSEpWZV9zWlBfYTRwZGNn?oc=5\" target=\"_blank\">[기고] 안전보다 효율? 동의하십니까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
-    "cluster_id": "8628",
-    "publisher": "국제신문",
-    "title_clean": "[기고] 안전보다 효율? 동의하십니까",
-    "summary": "안전과 효율성 사이의 균형을 다루는 기고문으로, 건설 및 기계설비 업계에서 안전 규제와 효율성 추구 간의 긴장관계를 문제 제기하고 있습니다. 업계의 안전 관리 체계와 규제 정책에 대한 비판적 검토를 담고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T12:48:12+09:00",
-    "importance": 4
   }
 ]
