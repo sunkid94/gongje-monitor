@@ -19313,6 +19313,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 전국 건설현장 ‘우기 대비 고강도 안전점검’ 실시 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fUGRGVjV0aGNYbzgzQi1KUHlIbi1RRU5JOGNrYTZtSnhSS2hIWWgyY0QxQzZweWMtWERrRE1ZLXd3T1d1WkxnUktkR2FmakxoV0JEMHdyNjhaaVlmaVZKOW5xVTVpSHZzWTItSg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5fUGRGVjV0aGNYbzgzQi1KUHlIbi1RRU5JOGNrYTZtSnhSS2hIWWgyY0QxQzZweWMtWERrRE1ZLXd3T1d1WkxnUktkR2FmakxoV0JEMHdyNjhaaVlmaVZKOW5xVTVpSHZzWTItSg?oc=5\" target=\"_blank\">국토부, 전국 건설현장 ‘우기 대비 고강도 안전점검’ 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
+    "published_at": "2026-06-03T12:25:02+09:00",
+    "cluster_id": "cc15",
+    "publisher": "기계설비신문",
+    "title_clean": "국토부, 전국 건설현장 ‘우기 대비 고강도 안전점검’ 실시",
+    "summary": "국토부가 우기(6~9월)를 앞두고 전국 건설현장에 대한 고강도 안전점검을 실시한다. 이는 우천 시 안전사고 예방을 위한 정부의 정기적 안전관리 조치이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-03T12:27:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31269,21 +31285,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-29T04:45:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토교통부, 서울 서소문고가 붕괴사고 건설사고조사위원회 구성 및 조사 착수 - GNN 뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WNE4tUE9iOFNYbUxpMFNNUjFrbU5oTUlfSkpmdzRybVZkYjJ0N1pocHc4eUIxN0lYVkNvamluR2VzdDA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WNE4tUE9iOFNYbUxpMFNNUjFrbU5oTUlfSkpmdzRybVZkYjJ0N1pocHc4eUIxN0lYVkNvamluR2VzdDA?oc=5\" target=\"_blank\">국토교통부, 서울 서소문고가 붕괴사고 건설사고조사위원회 구성 및 조사 착수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GNN 뉴스통신</font>",
-    "published_at": "2026-05-28T16:30:00+09:00",
-    "cluster_id": "fdfd",
-    "publisher": "GNN 뉴스통신",
-    "title_clean": "국토교통부, 서울 서소문고가 붕괴사고 건설사고조사위원회 구성 및 조사 착수",
-    "summary": "국토교통부가 서울 서소문고가 붕괴사고에 대한 건설사고조사위원회를 구성하고 조사를 착수했다. 주요 건설 안전사고로 인한 정부 차원의 공식 조사가 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-28T23:43:11+09:00",
-    "importance": 4
   }
 ]
