@@ -19313,6 +19313,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "베트남 노동조합 14차 대회: 번영하고 행복한 베트남 건설에 기여하고자 하는 열망을 고취하다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGYyal85U2xhQjZVbjQxTkpaeGltRkpNcmNpa2VtX3BEZDcyTWJ5LXZxSWV0ZEFGUXVKSlh6UGM2WkRoME1jYWd1OXYtRE1NRGNSQVl5TFhrdl9WWkNNS2loSWI5bllRd2lEOFBTTDUtM1Mtb2lhNThCYTRPeGZIbDl1N216T2ZOclJLRWxLbjdtaERPTEpPNzFpR0NsNHVnalI0ZmtmR2FZU05HVlp1cFhEcDA0dDJuSzRzZA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGYyal85U2xhQjZVbjQxTkpaeGltRkpNcmNpa2VtX3BEZDcyTWJ5LXZxSWV0ZEFGUXVKSlh6UGM2WkRoME1jYWd1OXYtRE1NRGNSQVl5TFhrdl9WWkNNS2loSWI5bllRd2lEOFBTTDUtM1Mtb2lhNThCYTRPeGZIbDl1N216T2ZOclJLRWxLbjdtaERPTEpPNzFpR0NsNHVnalI0ZmtmR2FZU05HVlp1cFhEcDA0dDJuSzRzZA?oc=5\" target=\"_blank\">베트남 노동조합 14차 대회: 번영하고 행복한 베트남 건설에 기여하고자 하는 열망을 고취하다.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+    "cluster_id": "b369",
+    "publisher": "Vietnam.vn",
+    "title_clean": "베트남 노동조합 14차 대회: 번영하고 행복한 베트남 건설에 기여하고자 하는 열망을 고취하다.",
+    "summary": "베트남 노동조합이 제14차 대회를 개최하여 번영하고 행복한 베트남 건설을 위한 노동자들의 열망을 고취했다. 베트남의 경제 발전과 건설 산업 성장을 위한 노동조합의 역할을 강조하는 행사로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-04T08:22:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31256,21 +31271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "홍승권 심평원장, 미래인재개발센터 건설 현장 안전점검 실시 - 헬스이슈앤뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4WXdMX1pDRk9aSlNlWDlTbkc3ZG5rSDJLNjJPUHdidlA3cjczU3d2ZS0tb1ZGZW5KNGZfOWlDVTVzbDdSVUlXSlgtckgzOFpTVUY0U0lfbHgwcXZmbU0tNWQtQ0hiUVoz?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4WXdMX1pDRk9aSlNlWDlTbkc3ZG5rSDJLNjJPUHdidlA3cjczU3d2ZS0tb1ZGZW5KNGZfOWlDVTVzbDdSVUlXSlgtckgzOFpTVUY0U0lfbHgwcXZmbU0tNWQtQ0hiUVoz?oc=5\" target=\"_blank\">홍승권 심평원장, 미래인재개발센터 건설 현장 안전점검 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헬스이슈앤뉴스</font>",
-    "published_at": "2026-05-29T13:09:14+09:00",
-    "cluster_id": "91ba",
-    "publisher": "헬스이슈앤뉴스",
-    "title_clean": "홍승권 심평원장, 미래인재개발센터 건설 현장 안전점검 실시",
-    "summary": "홍승권 심평원장이 미래인재개발센터 건설 현장을 방문하여 안전점검을 실시했다. 건설 현장의 안전 관리 상황을 점검하는 내용으로 보도되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
   }
 ]
