@@ -19314,6 +19314,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'장마 대비'…국토부, 전국 건설현장 안전 집중 점검 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vV0ROOGtyWUNuODlRTTVQWXB3emZNSjB3QzR0Y2pXUVp3eXVCempWS3p5QlRJb25wYzZURmt6V0lmWVhFbkVoRXBlcnhhT3c?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vV0ROOGtyWUNuODlRTTVQWXB3emZNSjB3QzR0Y2pXUVp3eXVCempWS3p5QlRJb25wYzZURmt6V0lmWVhFbkVoRXBlcnhhT3c?oc=5\" target=\"_blank\">'장마 대비'…국토부, 전국 건설현장 안전 집중 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "5432",
+    "publisher": "v.daum.net",
+    "title_clean": "'장마 대비'…국토부, 전국 건설현장 안전 집중 점검",
+    "summary": "국토부가 장마 시즌을 앞두고 전국 건설현장에 대한 안전 집중 점검을 실시한다. 이는 악천후로 인한 산업재해 예방을 위한 정부 차원의 사전 대응 조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-03T13:57:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31268,21 +31283,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T04:45:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경복대, GS건설 안전혁신학교에서 직무체험 실시 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QZS02MC1pakJWaU1TUDdFV05pZWRPVTZuX0tUV0Q1QXFJaG0xS2lPSGZoRGFGMkJYZldiby1oZzFHRTJRMTRZVTBYM0xrTkl5TFItN3RVcm1QZmJ6c1dPQTVrbnQtLTVqYTZ1Y0NR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1QZS02MC1pakJWaU1TUDdFV05pZWRPVTZuX0tUV0Q1QXFJaG0xS2lPSGZoRGFGMkJYZldiby1oZzFHRTJRMTRZVTBYM0xrTkl5TFItN3RVcm1QZmJ6c1dPQTVrbnQtLTVqYTZ1Y0NR?oc=5\" target=\"_blank\">경복대, GS건설 안전혁신학교에서 직무체험 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gukjenews.com</font>",
-    "published_at": "2026-05-29T10:57:26+09:00",
-    "cluster_id": "0ee7",
-    "publisher": "gukjenews.com",
-    "title_clean": "경복대, GS건설 안전혁신학교에서 직무체험 실시",
-    "summary": "경복대학교가 GS건설의 안전혁신학교에서 학생들을 대상으로 직무체험 프로그램을 실시했다. 이는 건설업계의 안전 문화 확산과 인력 양성을 위한 협력 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-29T04:45:30+09:00",
-    "importance": 2
   }
 ]
