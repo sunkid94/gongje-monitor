@@ -19314,6 +19314,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노동자와 근로자를 위한 주택 건설에 자원을 집중하십시오. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelZaZ0djZTh2OUFJT3A1ZUpqaWxoN2xGQWw5RGJtd3FpNTRZYUFQV2JxX0lCbnRtbGtkX015TGxhZWFUeVdoTjVTSThycXRjLS16WmdHbGt1aVpHTnRGell2azQ5VUk5SmFhemxrWGxLRW43NkY3WVNTUnpDMmJPbHNBR3lhZDQ4a2Zn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelZaZ0djZTh2OUFJT3A1ZUpqaWxoN2xGQWw5RGJtd3FpNTRZYUFQV2JxX0lCbnRtbGtkX015TGxhZWFUeVdoTjVTSThycXRjLS16WmdHbGt1aVpHTnRGell2azQ5VUk5SmFhemxrWGxLRW43NkY3WVNTUnpDMmJPbHNBR3lhZDQ4a2Zn?oc=5\" target=\"_blank\">노동자와 근로자를 위한 주택 건설에 자원을 집중하십시오.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+    "cluster_id": "d85f",
+    "publisher": "Vietnam.vn",
+    "title_clean": "노동자와 근로자를 위한 주택 건설에 자원을 집중하십시오.",
+    "summary": "베트남 정부가 노동자와 근로자를 위한 주택 건설 사업에 자원 집중을 추진하고 있다. 이는 건설업체들의 수주 기회 증가와 시장 확대를 의미하는 호재로 볼 수 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T03:57:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31259,22 +31274,6 @@
     "publisher": "BBS불교방송",
     "title_clean": "서울시, 건설공사장·고가 시설물 등 특별 점검...\"제2의 서소문 고가 사고 방지\"",
     "summary": "서울시가 서소문 고가도로 붕괴 사고 재발을 방지하기 위해 건설공사장과 고가 시설물에 대한 특별 점검을 실시한다. 이는 건설업계에 대한 안전 규제 강화 및 점검 확대를 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서소문 사고 계기 선제 대응…서울시, 건설공사장 긴급안전점검 실시 - 한국철도일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hd3p3YXJxRk05RzFFN0pxTjY5eG9Nei02UWR1QnFmVG5pcUdFelBRZFhWa2FMOFVsY3R5bVk3VklfZmd5cEdJUmJkYjRHd3F6X1RRYVhQdHRxUkRFSDQyLUc0VzdFWHd5TVdmcXM0NEw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hd3p3YXJxRk05RzFFN0pxTjY5eG9Nei02UWR1QnFmVG5pcUdFelBRZFhWa2FMOFVsY3R5bVk3VklfZmd5cEdJUmJkYjRHd3F6X1RRYVhQdHRxUkRFSDQyLUc0VzdFWHd5TVdmcXM0NEw?oc=5\" target=\"_blank\">서소문 사고 계기 선제 대응…서울시, 건설공사장 긴급안전점검 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국철도일보</font>",
-    "published_at": "2026-05-29T15:52:37+09:00",
-    "cluster_id": "b3a9",
-    "publisher": "한국철도일보",
-    "title_clean": "서소문 사고 계기 선제 대응…서울시, 건설공사장 긴급안전점검 실시",
-    "summary": "서울시가 서소문 건설사고를 계기로 건설공사장에 대한 긴급안전점검을 실시하고 있다. 이는 건설현장의 안전 규제 강화 및 점검 확대를 의미한다.",
     "sentiment": "negative",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 4
