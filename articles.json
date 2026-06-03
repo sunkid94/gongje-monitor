@@ -19313,6 +19313,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도, 건설현장에도 AI 도입…중소건설기업 활성화 방안 모색 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tMmlDdVQyckM4S2E2dnlDUEdxOW1YQVVaZ1c4S3JJUjc0b1VVeHo5ckIzSUJ4emh5Z1NzVG9sYWw2OG5HeTFZTFY5RmItWnVT?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tMmlDdVQyckM4S2E2dnlDUEdxOW1YQVVaZ1c4S3JJUjc0b1VVeHo5ckIzSUJ4emh5Z1NzVG9sYWw2OG5HeTFZTFY5RmItWnVT?oc=5\" target=\"_blank\">경기도, 건설현장에도 AI 도입…중소건설기업 활성화 방안 모색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+    "published_at": "2026-06-04T07:52:40+09:00",
+    "cluster_id": "5e09",
+    "publisher": "문화일보",
+    "title_clean": "경기도, 건설현장에도 AI 도입…중소건설기업 활성화 방안 모색",
+    "summary": "경기도가 건설현장에 AI 기술 도입을 추진하여 중소건설기업의 경쟁력 강화 및 활성화 방안을 모색하고 있다. 이는 건설업계의 디지털화와 효율성 개선을 통해 중소 건설기업의 성장을 지원하는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T07:57:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -31256,20 +31272,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울시, 공공‧민간 건설공사장 984개소 특별점검 추진 - 영등포신문",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEZ3dnYTg1X2JKWl9DNG93YWNuMHF6X25WS2psQVN2Z1Z5eWdjclZfYmRnVUxXVnJnWUk4RUVIVEVjbERNMDBXU1FTb21FdUpUWV85MUs5NDQ2aVkz?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEZ3dnYTg1X2JKWl9DNG93YWNuMHF6X25WS2psQVN2Z1Z5eWdjclZfYmRnVUxXVnJnWUk4RUVIVEVjbERNMDBXU1FTb21FdUpUWV85MUs5NDQ2aVkz?oc=5\" target=\"_blank\">서울시, 공공‧민간 건설공사장 984개소 특별점검 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">영등포신문</font>",
-    "cluster_id": "cd22",
-    "publisher": "영등포신문",
-    "title_clean": "서울시, 공공‧민간 건설공사장 984개소 특별점검 추진",
-    "summary": "서울시가 공공·민간 건설공사장 984개소를 대상으로 특별점검을 추진한다. 안전관리 및 규정 준수 여부를 확인하는 정부 차원의 감시 강화 조치로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 4
   }
 ]
