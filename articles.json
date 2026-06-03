@@ -19313,6 +19313,21 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "포커스에이아이, 삼성물산과 AI 안전 카메라 시연 : 네이버 블로그 - Naver Blog",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXVhMmgwMjV4a09MNm1rRjA3VFJFckxkMmhqZjVvNTZoM0RBQ2FlQkZOSU1fOUUxNExidkxSRlAyVU1LLTRBTEVDdEhxX3ZqQ1dCcFdhemhiOTBSR0JaOExTS0hTdzFkOFo1LXpWUzBIZnUxS0VZM2dROURZLTlMUzhGMlN1dVA2UzVveGI3Zw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXVhMmgwMjV4a09MNm1rRjA3VFJFckxkMmhqZjVvNTZoM0RBQ2FlQkZOSU1fOUUxNExidkxSRlAyVU1LLTRBTEVDdEhxX3ZqQ1dCcFdhemhiOTBSR0JaOExTS0hTdzFkOFo1LXpWUzBIZnUxS0VZM2dROURZLTlMUzhGMlN1dVA2UzVveGI3Zw?oc=5\" target=\"_blank\">포커스에이아이, 삼성물산과 AI 안전 카메라 시연 : 네이버 블로그</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Naver Blog</font>",
+    "cluster_id": "7f01",
+    "publisher": "Naver Blog",
+    "title_clean": "포커스에이아이, 삼성물산과 AI 안전 카메라 시연 : 네이버 블로그",
+    "summary": "포커스에이아이가 삼성물산과 협력하여 AI 기반 안전 카메라 시스템을 시연했습니다. 이는 건설현장의 안전 관리 기술 고도화를 의미하며, 건설업계의 스마트화 추세를 반영합니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-03T21:57:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31262,21 +31277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“진해신항 공사해역, 어선 통항 안전 높인다”…부산항건설사무소 현장점검 - 해사신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93eEstZHo0V2FuUlRaM0VzdVlwaWhSSDNldFFpYXV6TGYyMTMzMnQ3U3EtZHpTa3p3RC1BTTNadHQzSEJURTYtOHBYUk5UNWU5QnVfR2pLWHBuT0ZhUnUwa2ZZbTB0OFZRRUhn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93eEstZHo0V2FuUlRaM0VzdVlwaWhSSDNldFFpYXV6TGYyMTMzMnQ3U3EtZHpTa3p3RC1BTTNadHQzSEJURTYtOHBYUk5UNWU5QnVfR2pLWHBuT0ZhUnUwa2ZZbTB0OFZRRUhn?oc=5\" target=\"_blank\">“진해신항 공사해역, 어선 통항 안전 높인다”…부산항건설사무소 현장점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">해사신문</font>",
-    "published_at": "2026-05-29T15:08:31+09:00",
-    "cluster_id": "bd60",
-    "publisher": "해사신문",
-    "title_clean": "“진해신항 공사해역, 어선 통항 안전 높인다”…부산항건설사무소 현장점검",
-    "summary": "부산항건설사무소가 진해신항 공사해역의 어선 통항 안전을 높이기 위해 현장점검을 실시했다. 진행 중인 항만 건설사업에서 안전 관리 강화 및 해상 교통 안전 개선을 도모하는 사항이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
   }
 ]
