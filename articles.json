@@ -19313,6 +19313,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도, 건설 안전·품질 관리분야 AI 도입 추진 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpLTJ4eGRjRUs3VWh4V2FhMDJzVzE3c1g2TnFrcmpQOTU2LXZsSXZCczRYa3BRRGpwR3FUc1RTM0tZajIwaHdCTmlXOXYxWFU?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpLTJ4eGRjRUs3VWh4V2FhMDJzVzE3c1g2TnFrcmpQOTU2LXZsSXZCczRYa3BRRGpwR3FUc1RTM0tZajIwaHdCTmlXOXYxWFU?oc=5\" target=\"_blank\">경기도, 건설 안전·품질 관리분야 AI 도입 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "23b1",
+    "publisher": "v.daum.net",
+    "title_clean": "경기도, 건설 안전·품질 관리분야 AI 도입 추진",
+    "summary": "경기도가 건설 현장의 안전과 품질 관리를 위해 AI 기술 도입을 추진하고 있다. 이는 건설업계의 안전 수준 향상과 관리 효율성 증대를 목표로 하는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T07:47:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -31257,21 +31272,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울시, 건설현장·고가교 안전점검 강화…서소문 사고 계기 특별대책 추진 - 코리아이글뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40TkJCMTBTSlBZTno3cXU1RmVmRzMwTzJnUU1vdkEwNXRsQ1p0Y3hMYkVYVC1DeldBUGNtSjBRaFlxT2VCeVpYaWtHOFVFMldzZG1pQmlIU1EtNm12cDBfa2s0czdTUC1ySXd0T2U2WUEzYUU?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE40TkJCMTBTSlBZTno3cXU1RmVmRzMwTzJnUU1vdkEwNXRsQ1p0Y3hMYkVYVC1DeldBUGNtSjBRaFlxT2VCeVpYaWtHOFVFMldzZG1pQmlIU1EtNm12cDBfa2s0czdTUC1ySXd0T2U2WUEzYUU?oc=5\" target=\"_blank\">서울시, 건설현장·고가교 안전점검 강화…서소문 사고 계기 특별대책 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">코리아이글뉴스</font>",
-    "published_at": "2026-05-29T15:10:00+09:00",
-    "cluster_id": "a0bc",
-    "publisher": "코리아이글뉴스",
-    "title_clean": "서울시, 건설현장·고가교 안전점검 강화…서소문 사고 계기 특별대책 추진",
-    "summary": "서울시가 서소문 고가교 붕괴 사고를 계기로 건설현장과 고가교에 대한 안전점검을 강화하는 특별대책을 추진 중입니다. 이는 건설업계에 안전 규제 강화 및 추가 점검 의무 증가를 의미합니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 4
   }
 ]
