@@ -19313,6 +19313,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도, 건설 안전·품질 관리분야 AI 도입 추진 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rTHE3c2tqd0VpNGdzR3E5N2g0MEk1Z0gtUUZQZ182Uy1xTVJsQjNvRDhySlBHM3hubVZJQVZ0UmI0QUMtOEpEN2NoMHdCZVl0dVhB?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rTHE3c2tqd0VpNGdzR3E5N2g0MEk1Z0gtUUZQZ182Uy1xTVJsQjNvRDhySlBHM3hubVZJQVZ0UmI0QUMtOEpEN2NoMHdCZVl0dVhB?oc=5\" target=\"_blank\">경기도, 건설 안전·품질 관리분야 AI 도입 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "23b1",
+    "publisher": "네이트",
+    "title_clean": "경기도, 건설 안전·품질 관리분야 AI 도입 추진",
+    "summary": "경기도가 건설 현장의 안전과 품질 관리 분야에 AI 기술 도입을 추진하고 있다. AI를 활용한 자동화된 관리 시스템으로 현장 안전성 향상과 효율성 개선을 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T07:37:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31259,21 +31274,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "행안부, 인천 18개 건설현장 무더위쉼터 점검…옥외노동자 안전 강화 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56dmRNQk5MeXhxWWJjaThKZmZvdWszcTBjcXJ3aDktWE9DcGllZFhRa0JTWUdRNEUxdy01TTQ1Y0liTEVFZ25QYVFNN0R2bmtGa0dCUg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE56dmRNQk5MeXhxWWJjaThKZmZvdWszcTBjcXJ3aDktWE9DcGllZFhRa0JTWUdRNEUxdy01TTQ1Y0liTEVFZ25QYVFNN0R2bmtGa0dCUg?oc=5\" target=\"_blank\">행안부, 인천 18개 건설현장 무더위쉼터 점검…옥외노동자 안전 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
-    "published_at": "2026-05-29T14:00:00+09:00",
-    "cluster_id": "c9ce",
-    "publisher": "이투데이",
-    "title_clean": "행안부, 인천 18개 건설현장 무더위쉼터 점검…옥외노동자 안전 강화",
-    "summary": "행안부가 인천의 18개 건설현장을 대상으로 무더위쉼터 운영 상황을 점검하며 옥외노동자의 안전관리를 강화하고 있다. 이는 건설현장의 안전 규제 강화에 해당하는 행정 조치다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 4
   }
 ]
