@@ -19313,6 +19313,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "장마철 건설사고 막는다…현장 3000곳 안전점검 - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsRE5HczlibThrQ2pfd2h1cXVEZTBOQTV0S3pKaDEyZUFnQTU1T3lGR2tNSGhVbFdFVjB4M290R3o0TlpEb3pFcmZCX09CZU5fVmfSAVNBVV95cUxNX090SnVxb2F2anBPVjA4M3VUcGFXeTFrOGJnRDNmZ2dTT2s0TzdJSnpwUThweTh2ZmNLY1JjOGIteXlUakNOY2R2N1Y4YUE1NEFmNA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsRE5HczlibThrQ2pfd2h1cXVEZTBOQTV0S3pKaDEyZUFnQTU1T3lGR2tNSGhVbFdFVjB4M290R3o0TlpEb3pFcmZCX09CZU5fVmfSAVNBVV95cUxNX090SnVxb2F2anBPVjA4M3VUcGFXeTFrOGJnRDNmZ2dTT2s0TzdJSnpwUThweTh2ZmNLY1JjOGIteXlUakNOY2R2N1Y4YUE1NEFmNA?oc=5\" target=\"_blank\">장마철 건설사고 막는다…현장 3000곳 안전점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "published_at": "2026-06-03T20:10:28+09:00",
+    "cluster_id": "4157",
+    "publisher": "서울경제",
+    "title_clean": "장마철 건설사고 막는다…현장 3000곳 안전점검",
+    "summary": "정부가 장마철 건설사고 예방을 위해 전국 건설현장 3000곳에 대한 안전점검을 실시한다. 안전점검을 통해 현장의 안전 관리를 강화하고 재해 위험 요소를 제거하려는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T00:12:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31263,20 +31279,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[단독] '삼성역 철근 누락' 서울시, 지난해 10월 22일 안전점검...인지 시점 거짓말? 엉터리 점검? - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iU1kwRk84YW1IcFJyVnQ2a0VHWHZ0NWxXa3g1UFMtUnhPU3E2R29fMW5RWFZjWDVqa3B0Qk1POTNPeXVwNWJXek9lc3R0S2c?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iU1kwRk84YW1IcFJyVnQ2a0VHWHZ0NWxXa3g1UFMtUnhPU3E2R29fMW5RWFZjWDVqa3B0Qk1POTNPeXVwNWJXek9lc3R0S2c?oc=5\" target=\"_blank\">[단독] '삼성역 철근 누락' 서울시, 지난해 10월 22일 안전점검...인지 시점 거짓말? 엉터리 점검?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
-    "cluster_id": "9287",
-    "publisher": "v.daum.net",
-    "title_clean": "[단독] '삼성역 철근 누락' 서울시, 지난해 10월 22일 안전점검...인지 시점 거짓말? 엉터리 점검?",
-    "summary": "서울시가 삼성역 공사의 철근 누락 문제를 지난해 10월 22일에 안전점검했다고 주장했으나, 실제 인지 시점이 이보다 늦었을 가능성이 제기되었다. 부실 안전점검 의혹과 함께 서울시의 감시 체계 미흡 문제가 도출되어 건설업계 규제 강화 논의로 이어질 전망이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 4
   }
 ]
