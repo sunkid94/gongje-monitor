@@ -19313,6 +19313,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대우건설, 비용 효율 속 '인력 감소' 턴어라운드로 이어졌다 - fetv.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TmZLTnZVZ3o0bmViYXZuek5JV1RlNFoxVFFvT0Rkc1ZYZE04QUxrWHFqVXhOekdXS3BwelFqSTUxMGVKTTVEOVMxemFDOHl4NzVEdzF1YnEzZnhXal9iZmNFNlVfdHBV?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TmZLTnZVZ3o0bmViYXZuek5JV1RlNFoxVFFvT0Rkc1ZYZE04QUxrWHFqVXhOekdXS3BwelFqSTUxMGVKTTVEOVMxemFDOHl4NzVEdzF1YnEzZnhXal9iZmNFNlVfdHBV?oc=5\" target=\"_blank\">대우건설, 비용 효율 속 '인력 감소' 턴어라운드로 이어졌다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fetv.co.kr</font>",
+    "published_at": "2026-06-04T07:00:00+09:00",
+    "cluster_id": "6198",
+    "publisher": "fetv.co.kr",
+    "title_clean": "대우건설, 비용 효율 속 '인력 감소' 턴어라운드로 이어졌다",
+    "summary": "대우건설이 비용 효율화 정책을 추진하는 과정에서 인력 감소가 발생했으며, 이것이 경영 턴어라운드로 이어진 것으로 보도되고 있다. 건설사의 구조조정과 인력 감축이 수익성 개선과 연결되는 상황을 반영한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T07:12:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31259,21 +31275,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김영훈 장관 \"폭염 대비에 만전 기해야\"...건설사 CEO와 간담회 - 전기신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TdkNLUnh1anVzeFotaEpFd3UwaUVVb2h5X2hIdWdYMWVYT0lPb2VBeVFlb3lrUWNzcmFPRUZfU0lzeFp4N1lGcGJ5RXU2UEROaU9jZHBLVFdoNmYxc1NFeVdPMDl5ajFrX3I2Zg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TdkNLUnh1anVzeFotaEpFd3UwaUVVb2h5X2hIdWdYMWVYT0lPb2VBeVFlb3lrUWNzcmFPRUZfU0lzeFp4N1lGcGJ5RXU2UEROaU9jZHBLVFdoNmYxc1NFeVdPMDl5ajFrX3I2Zg?oc=5\" target=\"_blank\">김영훈 장관 \"폭염 대비에 만전 기해야\"...건설사 CEO와 간담회</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전기신문</font>",
-    "published_at": "2026-05-29T14:00:00+09:00",
-    "cluster_id": "477b",
-    "publisher": "전기신문",
-    "title_clean": "김영훈 장관 \"폭염 대비에 만전 기해야\"...건설사 CEO와 간담회",
-    "summary": "김영훈 장관이 건설사 CEO들과 간담회를 열고 폭염 대비에 만전을 기할 것을 강조했다. 여름철 극단적 기후 변화에 대응하기 위한 건설현장의 안전 관리 및 준비 상황을 점검하는 자리로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
   }
 ]
