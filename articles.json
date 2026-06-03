@@ -19310,6 +19310,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충남도, 철거공사 안전관리 강화…'작업계획 사전검토제' 도입 - 대전일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nWVlUaEEwVS0wbTRXcmRJYWwtQzNiM0FLeUk1R3R0Wnk3QzlLVjZrMVZNdGp2MHdfak95MDRGNkZPNHliN1FGeUpSNzZkaVFmOTg1X0lJWVlPZWZGbFprWm9NV2g5T0hBZWJocktXY9IBc0FVX3lxTE9zWWxqOWtZa2JRd2R2MENBSlk1LVA5dy1CZUNaaUVFYTRLNTNvbGs0OHVBZkJlNkZ1Z05DR21fdFdXSUp6c1Z6M25yMERpdGExZW9mSV9RTWl5ODVLY0VOa3pBQ0ZRSjlnZ2F0cDZxNEstZzQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1nWVlUaEEwVS0wbTRXcmRJYWwtQzNiM0FLeUk1R3R0Wnk3QzlLVjZrMVZNdGp2MHdfak95MDRGNkZPNHliN1FGeUpSNzZkaVFmOTg1X0lJWVlPZWZGbFprWm9NV2g5T0hBZWJocktXY9IBc0FVX3lxTE9zWWxqOWtZa2JRd2R2MENBSlk1LVA5dy1CZUNaaUVFYTRLNTNvbGs0OHVBZkJlNkZ1Z05DR21fdFdXSUp6c1Z6M25yMERpdGExZW9mSV9RTWl5ODVLY0VOa3pBQ0ZRSjlnZ2F0cDZxNEstZzQ?oc=5\" target=\"_blank\">충남도, 철거공사 안전관리 강화…'작업계획 사전검토제' 도입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "published_at": "2026-06-03T08:53:00+09:00",
+    "cluster_id": "3f15",
+    "publisher": "대전일보",
+    "title_clean": "충남도, 철거공사 안전관리 강화…'작업계획 사전검토제' 도입",
+    "summary": "충남도가 철거공사의 안전관리를 강화하기 위해 '작업계획 사전검토제'를 도입하고 있다. 이는 철거공사 관련 규제가 강화되는 조치로, 건설업계의 규정 준수 부담이 증가할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-03T11:52:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31266,21 +31282,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-28T23:43:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "우미건설, 수주 채널 다변화...부동산 종합회사로 체질 개선 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnY1eGxWY1ZXLWdGVGNrSXYtUlhTWjZfZEVEcll4Mmh3Rm9YSElWZ0YyMktKYkZlbnhBdE14dWpycjBUamxqWnFNR0phbDhzVU1kRERLZzcybkQwWHcxQ1ZYTGJVZmlEUjE5SGFDYXdZcEFOQ2hpOWl5NU1Md0ZuYko3RVJkdDNYQnc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnY1eGxWY1ZXLWdGVGNrSXYtUlhTWjZfZEVEcll4Mmh3Rm9YSElWZ0YyMktKYkZlbnhBdE14dWpycjBUamxqWnFNR0phbDhzVU1kRERLZzcybkQwWHcxQ1ZYTGJVZmlEUjE5SGFDYXdZcEFOQ2hpOWl5NU1Md0ZuYko3RVJkdDNYQnc?oc=5\" target=\"_blank\">우미건설, 수주 채널 다변화...부동산 종합회사로 체질 개선</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font>",
-    "published_at": "2026-05-29T08:29:17+09:00",
-    "cluster_id": "6629",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "우미건설, 수주 채널 다변화...부동산 종합회사로 체질 개선",
-    "summary": "우미건설이 수주 채널을 다변화하고 부동산 종합회사로의 체질 개선을 추진하고 있다. 이는 건설사의 사업 포트폴리오 확대 및 수익성 강화 전략으로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-28T23:43:11+09:00",
-    "importance": 2
   }
 ]
