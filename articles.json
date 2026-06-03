@@ -19314,6 +19314,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 우기철 앞두고 건설현장 3000곳 집중 안전점검 - 팩트인뉴스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZaEY0YUlMXzVpMHZNdmYzaHhWdTdCQWdaaVlQRWZUOXdWOXl0WVFsZ2o0Y2o4endydVdrak5zZ2lzQ09teWtYYzl0eVYydGZZSHNPd2NpU2dKMGlVUU1JWEJkcG9SQmRSYTgzMXpRSXA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZaEY0YUlMXzVpMHZNdmYzaHhWdTdCQWdaaVlQRWZUOXdWOXl0WVFsZ2o0Y2o4endydVdrak5zZ2lzQ09teWtYYzl0eVYydGZZSHNPd2NpU2dKMGlVUU1JWEJkcG9SQmRSYTgzMXpRSXA?oc=5\" target=\"_blank\">국토부, 우기철 앞두고 건설현장 3000곳 집중 안전점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">팩트인뉴스</font>",
+    "published_at": "2026-06-03T16:22:45+09:00",
+    "cluster_id": "8042",
+    "publisher": "팩트인뉴스",
+    "title_clean": "국토부, 우기철 앞두고 건설현장 3000곳 집중 안전점검",
+    "summary": "국토부가 우기철(우기가 시작되는 시기) 앞두고 건설현장 3000곳에 대한 집중 안전점검을 실시한다. 건설현장의 안전관리 강화를 통해 우천으로 인한 산업재해 예방을 목표로 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T05:27:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -31261,21 +31277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울시, 건설공사장·고가 시설물 등 특별 점검...\"제2의 서소문 고가 사고 방지\" - BBS불교방송",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Qdzg3a3htQzBvQTNsVy1FUV9PTlI2SmhnVUdheTUzVjgtZVFDVFN2NEhENjlTQWIwZUZZamszM0g5RTc1X3JPYUZnLWRDU3loTEhFRG1helROZVdNaldmRk9kekJyTE5JS05v?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5Qdzg3a3htQzBvQTNsVy1FUV9PTlI2SmhnVUdheTUzVjgtZVFDVFN2NEhENjlTQWIwZUZZamszM0g5RTc1X3JPYUZnLWRDU3loTEhFRG1helROZVdNaldmRk9kekJyTE5JS05v?oc=5\" target=\"_blank\">서울시, 건설공사장·고가 시설물 등 특별 점검...\"제2의 서소문 고가 사고 방지\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBS불교방송</font>",
-    "published_at": "2026-05-29T14:33:15+09:00",
-    "cluster_id": "16e3",
-    "publisher": "BBS불교방송",
-    "title_clean": "서울시, 건설공사장·고가 시설물 등 특별 점검...\"제2의 서소문 고가 사고 방지\"",
-    "summary": "서울시가 서소문 고가도로 붕괴 사고 재발을 방지하기 위해 건설공사장과 고가 시설물에 대한 특별 점검을 실시한다. 이는 건설업계에 대한 안전 규제 강화 및 점검 확대를 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 4
   }
 ]
