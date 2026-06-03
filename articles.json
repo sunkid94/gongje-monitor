@@ -19316,6 +19316,21 @@
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
+    "title": "\"장마 온다\"…국토부, 굴착공사 등 건설현장 3000곳 안전점검 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTHNCek5xT3daQUljSi1BU19BY3ZwU3FnSlVDMnZaRGt6Rm94NVZORGl0THY0MC1hLVJrYklfOFUwVDBzQU91VjNld1FRRWM?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTHNCek5xT3daQUljSi1BU19BY3ZwU3FnSlVDMnZaRGt6Rm94NVZORGl0THY0MC1hLVJrYklfOFUwVDBzQU91VjNld1FRRWM?oc=5\" target=\"_blank\">\"장마 온다\"…국토부, 굴착공사 등 건설현장 3000곳 안전점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "e979",
+    "publisher": "v.daum.net",
+    "title_clean": "\"장마 온다\"…국토부, 굴착공사 등 건설현장 3000곳 안전점검",
+    "summary": "국토부가 장마 시즌을 앞두고 굴착공사 등 건설현장 3000곳에 대한 안전점검을 실시한다. 건설현장의 침수, 붕괴 등 재해 예방을 위한 선제적 안전관리 조치이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-04T00:37:50+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
     "title": "장마철 건설사고 막는다…현장 3000곳 안전점검 - 서울경제",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsRE5HczlibThrQ2pfd2h1cXVEZTBOQTV0S3pKaDEyZUFnQTU1T3lGR2tNSGhVbFdFVjB4M290R3o0TlpEb3pFcmZCX09CZU5fVmfSAVNBVV95cUxNX090SnVxb2F2anBPVjA4M3VUcGFXeTFrOGJnRDNmZ2dTT2s0TzdJSnpwUThweTh2ZmNLY1JjOGIteXlUakNOY2R2N1Y4YUE1NEFmNA?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsRE5HczlibThrQ2pfd2h1cXVEZTBOQTV0S3pKaDEyZUFnQTU1T3lGR2tNSGhVbFdFVjB4M290R3o0TlpEb3pFcmZCX09CZU5fVmfSAVNBVV95cUxNX090SnVxb2F2anBPVjA4M3VUcGFXeTFrOGJnRDNmZ2dTT2s0TzdJSnpwUThweTh2ZmNLY1JjOGIteXlUakNOY2R2N1Y4YUE1NEFmNA?oc=5\" target=\"_blank\">장마철 건설사고 막는다…현장 3000곳 안전점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
@@ -31263,21 +31278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고용부, 20대 건설사와 폭염 대응 간담회 개최 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41ejlaSmh6WHExWXZXTGNXWERLMmt6TTlRTFZoRFFTZWZWb0JHUm1MZndrQTdEaFNXaVVVa0JQaENzY2xsMXZBaDlub25WUmlpQkVMdGJZNEVva1NtT2kyaURYczNteG04T1RN?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE41ejlaSmh6WHExWXZXTGNXWERLMmt6TTlRTFZoRFFTZWZWb0JHUm1MZndrQTdEaFNXaVVVa0JQaENzY2xsMXZBaDlub25WUmlpQkVMdGJZNEVva1NtT2kyaURYczNteG04T1RN?oc=5\" target=\"_blank\">고용부, 20대 건설사와 폭염 대응 간담회 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
-    "published_at": "2026-05-29T16:06:59+09:00",
-    "cluster_id": "f170",
-    "publisher": "기계설비신문",
-    "title_clean": "고용부, 20대 건설사와 폭염 대응 간담회 개최",
-    "summary": "고용부가 20대 건설사와 폭염 대응 방안을 논의하는 간담회를 개최했다. 폭염으로 인한 산업 현장의 안전 관리와 근로자 보호 방안을 중심으로 협의한 것으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
   }
 ]
