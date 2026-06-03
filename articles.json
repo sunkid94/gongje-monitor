@@ -19313,6 +19313,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[아파트 PF 인사이드] 현대건설, 가락삼익맨숀 991억 유동화 보증 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mNDdKMkF4V1VvYl9BUTFkYmZyR1ZCTjNJTnhmTG5QS2NaWVJDMU93LURTTDZtRnJiTWJhLW1uc04yb2VtdUR6Qi1kTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mNDdKMkF4V1VvYl9BUTFkYmZyR1ZCTjNJTnhmTG5QS2NaWVJDMU93LURTTDZtRnJiTWJhLW1uc04yb2VtdUR6Qi1kTQ?oc=5\" target=\"_blank\">[아파트 PF 인사이드] 현대건설, 가락삼익맨숀 991억 유동화 보증</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "ce19",
+    "publisher": "v.daum.net",
+    "title_clean": "[아파트 PF 인사이드] 현대건설, 가락삼익맨숀 991억 유동화 보증",
+    "summary": "현대건설이 가락삼익맨숀 프로젝트 991억 원 규모의 유동화를 보증했다. 이는 건설사의 PF 자금조달 활동으로, 부동산 프로젝트 파이낸싱 시장의 움직임을 보여주는 사례이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-04T07:52:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31256,21 +31271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "청도면, 여름철 태풍·집중호우 대비 건설 현장 안전 점검 실시 - 뉴스파이어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSGFWc01MQ2c3cUVZMHI1OHVDMlQ0ajVRNUliOE0wT2dEZGd5aU5hc1dLYV9tUmVPaXJSOFdPdXhwbmRSWEE0aFpqRlNYa29XTzZ0X1ZybE1TYThaZUFsUV9wVFUyS2pQYVo1RVFDNA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5KSGFWc01MQ2c3cUVZMHI1OHVDMlQ0ajVRNUliOE0wT2dEZGd5aU5hc1dLYV9tUmVPaXJSOFdPdXhwbmRSWEE0aFpqRlNYa29XTzZ0X1ZybE1TYThaZUFsUV9wVFUyS2pQYVo1RVFDNA?oc=5\" target=\"_blank\">청도면, 여름철 태풍·집중호우 대비 건설 현장 안전 점검 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스파이어</font>",
-    "published_at": "2026-05-29T15:12:10+09:00",
-    "cluster_id": "3e7f",
-    "publisher": "뉴스파이어",
-    "title_clean": "청도면, 여름철 태풍·집중호우 대비 건설 현장 안전 점검 실시",
-    "summary": "청도면에서 여름철 태풍과 집중호우에 대비하여 건설 현장에 대한 안전 점검을 실시하고 있다. 이는 악천후로 인한 건설 현장 안전사고를 예방하기 위한 선제적 조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
   }
 ]
