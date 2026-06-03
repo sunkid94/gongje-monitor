@@ -19313,6 +19313,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[칼럼] 현장 안전고리는 강제하면서, 선거는 왜 예외인가 - 프리진뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0teUZXUnQwRDJ6Wk04V3RKSnhoQ2o1SXBXNklLMTBqbU5UQUhGRl83SE9YekxBOHVRelNHcWVPS1dWTmgxRVY1SDNGNEtuZ0l1SnFQSHBMV3lmZ0tHSGZNZXVQRUdaVWFxdENZSUJXUQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0teUZXUnQwRDJ6Wk04V3RKSnhoQ2o1SXBXNklLMTBqbU5UQUhGRl83SE9YekxBOHVRelNHcWVPS1dWTmgxRVY1SDNGNEtuZ0l1SnFQSHBMV3lmZ0tHSGZNZXVQRUdaVWFxdENZSUJXUQ?oc=5\" target=\"_blank\">[칼럼] 현장 안전고리는 강제하면서, 선거는 왜 예외인가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프리진뉴스</font>",
+    "published_at": "2026-06-03T19:43:50+09:00",
+    "cluster_id": "7076",
+    "publisher": "프리진뉴스",
+    "title_clean": "[칼럼] 현장 안전고리는 강제하면서, 선거는 왜 예외인가",
+    "summary": "건설 현장의 안전고리는 강제하면서 선거 투표 참여는 예외로 두는 이중잣대를 비판하는 칼럼. 안전 규제의 일관성과 민주주의 참여의 중요성을 지적하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-03T19:52:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31262,21 +31278,6 @@
     "title_clean": "대우건설, '2026 대우건설 Hyper Safety & AI 오픈 이노베이션' 개최",
     "summary": "대우건설이 2026년을 대비한 '하이퍼 세이프티 & AI 오픈 이노베이션' 행사를 개최한다. 안전과 AI 기술 혁신을 통해 건설산업의 미래 경쟁력을 강화하려는 움직임이다.",
     "sentiment": "positive",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "새로운 시대에 현대적이고 강력한 노동계급을 건설하기. 최종 기고: 풀뿌리 차원에서 정치적 핵심을 공고히 하기. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMUVZLTRVdWJZcFZoUVBqaC1STnYta0x2eG52c2dEc3BnUjR6aEFzOWNObEoyVnBNcVMwdTJ6dFJmRWdXT2E3RjZ1VEdZZmJfMUNaUDFvekYzZDF5eFRqckd6bmhZVE1lb19MWGEweVhtM3pYUnR5bFZKU3lFTHh1QTNBTFBUVzJac0YtLXNfazRWQUhYLXIxUFBrR01uUndPYWJaQnI4SGJ0UDg2R2ltQWNidEp1S1M1TnV6b0FfbktPaU1YQ1ptdWxTemZYZw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMUVZLTRVdWJZcFZoUVBqaC1STnYta0x2eG52c2dEc3BnUjR6aEFzOWNObEoyVnBNcVMwdTJ6dFJmRWdXT2E3RjZ1VEdZZmJfMUNaUDFvekYzZDF5eFRqckd6bmhZVE1lb19MWGEweVhtM3pYUnR5bFZKU3lFTHh1QTNBTFBUVzJac0YtLXNfazRWQUhYLXIxUFBrR01uUndPYWJaQnI4SGJ0UDg2R2ltQWNidEp1S1M1TnV6b0FfbktPaU1YQ1ptdWxTemZYZw?oc=5\" target=\"_blank\">새로운 시대에 현대적이고 강력한 노동계급을 건설하기. 최종 기고: 풀뿌리 차원에서 정치적 핵심을 공고히 하기.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-    "cluster_id": "6962",
-    "publisher": "Vietnam.vn",
-    "title_clean": "새로운 시대에 현대적이고 강력한 노동계급을 건설하기. 최종 기고: 풀뿌리 차원에서 정치적 핵심을 공고히 하기.",
-    "summary": "베트남에서 새로운 시대에 맞춘 현대적이고 강력한 노동계급 건설을 목표로 하는 정치적 강화 방안을 제시하는 기고문. 풀뿌리 차원에서의 정치적 핵심을 공고히 하는 전략을 다룸.",
-    "sentiment": "neutral",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 2
   }
