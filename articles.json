@@ -3684,6 +3684,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"하도급 갑질 막는다\"…롯데건설, 공정거래 협약 체결 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBObUlJQlB0Um9xckJnLW0yNlg5N1E2MWZ1eWd6cHY1UlF5c0ZSUlhITHl1ZzRxWXFLbXdSSDhTYnltRFRMc1E?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBObUlJQlB0Um9xckJnLW0yNlg5N1E2MWZ1eWd6cHY1UlF5c0ZSUlhITHl1ZzRxWXFLbXdSSDhTYnltRFRMc1E?oc=5\" target=\"_blank\">\"하도급 갑질 막는다\"…롯데건설, 공정거래 협약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "962e",
+    "publisher": "v.daum.net",
+    "title_clean": "\"하도급 갑질 막는다\"…롯데건설, 공정거래 협약 체결",
+    "summary": "롯데건설이 하도급 갑질 관행을 개선하기 위해 공정거래 협약을 체결했다. 이는 건설업계의 불공정한 거래 관행 개선을 위한 자율 노력으로 평가된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-03T11:22:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -19289,22 +19304,6 @@
     "publisher": "녹색경제신문",
     "title_clean": "두산에너빌리티, 英 롤스로이스 SMR 전략 파트너로 낙점",
     "summary": "두산에너빌리티가 영국의 롤스로이스 소형모듈원자로(SMR) 사업의 전략 파트너로 선정되었다. 이는 국내 기계설비건설업체의 국제 원전 프로젝트 진출 확대를 의미하며, 향후 SMR 관련 수주 기회 증가로 이어질 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-28T04:47:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 英 롤스로이스 SMR 파트너로 선정 - 스마트투데이",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wVjZpMzhOTnBnUndubldTSmtraUJteHFPMWRzbWRKb2QzUkpWMXNQSnZrVVl5VnVneGJheWlwZ1lzRWRpd1VyOUl1empnXzRrREp2RzFrX3U0eFk0NEZv?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wVjZpMzhOTnBnUndubldTSmtraUJteHFPMWRzbWRKb2QzUkpWMXNQSnZrVVl5VnVneGJheWlwZ1lzRWRpd1VyOUl1empnXzRrREp2RzFrX3U0eFk0NEZv?oc=5\" target=\"_blank\">두산에너빌리티, 英 롤스로이스 SMR 파트너로 선정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스마트투데이</font>",
-    "published_at": "2026-05-28T09:49:00+09:00",
-    "cluster_id": "db19",
-    "publisher": "스마트투데이",
-    "title_clean": "두산에너빌리티, 英 롤스로이스 SMR 파트너로 선정",
-    "summary": "두산에너빌리티가 영국 롤스로이스의 소형모듈원전(SMR) 사업의 공식 파트너로 선정되었다. 이는 국내 기계설비건설업체의 해외 원전 시장 진출을 의미하며, SMR 산업 확대에 따른 수주 기회 증가를 시사한다.",
     "sentiment": "positive",
     "collected_at": "2026-05-28T04:47:47+09:00",
     "importance": 2
