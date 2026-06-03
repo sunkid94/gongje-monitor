@@ -19312,6 +19312,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 우기철 건설현장 3천곳 특별점검 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yTmFpZjNHMlctTi1JQXEweExnc1YzaUJFZU90b1BtQ3Nlb2VYV2pEQURSS0djb2luUUEwNVZiZ3V0ak1GVE04dnhIdWhOUkx3NmwzVmFtajVYU0FwOTlmMHZ6UThodGc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yTmFpZjNHMlctTi1JQXEweExnc1YzaUJFZU90b1BtQ3Nlb2VYV2pEQURSS0djb2luUUEwNVZiZ3V0ak1GVE04dnhIdWhOUkx3NmwzVmFtajVYU0FwOTlmMHZ6UThodGc?oc=5\" target=\"_blank\">국토부, 우기철 건설현장 3천곳 특별점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토교통신문</font>",
+    "published_at": "2026-06-03T15:28:59+09:00",
+    "cluster_id": "cbd2",
+    "publisher": "국토교통신문",
+    "title_clean": "국토부, 우기철 건설현장 3천곳 특별점검",
+    "summary": "국토교통부가 우기철 건설현장 3천곳에 대한 특별점검을 실시한다. 우기 시즌의 안전사고 예방을 위한 현장 관리 강화 조치로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-03T15:32:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31262,21 +31278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T04:45:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "4월 생산·소비, 광주 '맑음' 전남 '흐림'…건설은 동반 '폭증' - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kTUVzSDFaYnd0UG9RLXZWTG1hTFhUQm1HQXNFeGt4Y0VuRXhIRkt0U3dwTzBKek5SVGo5TEdfRGZqbGM5RmpMREgwTkZJdnFacnVPT2hYcDRJU1hrTnp5bNIBeEFVX3lxTE5FRi1rWmo1WUFKZTcxX05KTEpxekdsTWotWER5dFlZTWhJbjhHb3hCRVpiVEhlOExHMVNkVTRPVVFWWWhUdVQtbVAtWUF4OTFCRDhBLU5XWklrSm9BYk9nOTZmRFdzLXc0SWg4ZXVoMTZjeng2VWIwQw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kTUVzSDFaYnd0UG9RLXZWTG1hTFhUQm1HQXNFeGt4Y0VuRXhIRkt0U3dwTzBKek5SVGo5TEdfRGZqbGM5RmpMREgwTkZJdnFacnVPT2hYcDRJU1hrTnp5bNIBeEFVX3lxTE5FRi1rWmo1WUFKZTcxX05KTEpxekdsTWotWER5dFlZTWhJbjhHb3hCRVpiVEhlOExHMVNkVTRPVVFWWWhUdVQtbVAtWUF4OTFCRDhBLU5XWklrSm9BYk9nOTZmRFdzLXc0SWg4ZXVoMTZjeng2VWIwQw?oc=5\" target=\"_blank\">4월 생산·소비, 광주 '맑음' 전남 '흐림'…건설은 동반 '폭증'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-    "published_at": "2026-05-29T10:06:33+09:00",
-    "cluster_id": "835c",
-    "publisher": "뉴시스",
-    "title_clean": "4월 생산·소비, 광주 '맑음' 전남 '흐림'…건설은 동반 '폭증'",
-    "summary": "4월 광주지역은 생산·소비가 호조를 보인 반면, 전남은 부진한 것으로 나타났다. 건설업은 광주와 전남 모두에서 동반 '폭증'을 기록하며 시장 활성화가 두드러졌다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-29T04:45:30+09:00",
-    "importance": 2
   }
 ]
