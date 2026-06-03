@@ -19316,6 +19316,22 @@
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
+    "title": "국토교통부, 전국 건설현장 '우기 대비 고강도 안전점검' - 행정신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZTkx4cHNsX2FkMFdFTm9Uc2xVa3owUDkwUWE1X3BMcUUzUFdyTVowRGsxaTlCNEozNmhOaEVLaXNfcjg2dlRrWFZHak1NTWxWM3ctQi1ydF9Gdm5Kd0x2M2cxbENCQ3hMUlFHSA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZTkx4cHNsX2FkMFdFTm9Uc2xVa3owUDkwUWE1X3BMcUUzUFdyTVowRGsxaTlCNEozNmhOaEVLaXNfcjg2dlRrWFZHak1NTWxWM3ctQi1ydF9Gdm5Kd0x2M2cxbENCQ3hMUlFHSA?oc=5\" target=\"_blank\">국토교통부, 전국 건설현장 '우기 대비 고강도 안전점검'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">행정신문</font>",
+    "published_at": "2026-06-03T20:10:12+09:00",
+    "cluster_id": "6ef0",
+    "publisher": "행정신문",
+    "title_clean": "국토교통부, 전국 건설현장 '우기 대비 고강도 안전점검'",
+    "summary": "국토교통부가 우기(장마철)를 앞두고 전국 건설현장에 대한 고강도 안전점검을 실시한다. 이는 건설현장의 낙하물, 토사붕괴, 침수 등 우기 관련 사고를 예방하기 위한 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T02:17:53+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
     "title": "\"장마 온다\"…국토부, 굴착공사 등 건설현장 3000곳 안전점검 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTHNCek5xT3daQUljSi1BU19BY3ZwU3FnSlVDMnZaRGt6Rm94NVZORGl0THY0MC1hLVJrYklfOFUwVDBzQU91VjNld1FRRWM?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTHNCek5xT3daQUljSi1BU19BY3ZwU3FnSlVDMnZaRGt6Rm94NVZORGl0THY0MC1hLVJrYklfOFUwVDBzQU91VjNld1FRRWM?oc=5\" target=\"_blank\">\"장마 온다\"…국토부, 굴착공사 등 건설현장 3000곳 안전점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
@@ -31262,21 +31278,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "행안부, 폭염 취약계층 보호…건설현장·이동노동자 쉼터 점검 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vOG5WdE1tM2picFlmUkFLNkJvZ25sV0ZzeEN2YTdta2JmS3E5U19BRF90ZEN0V2NTWnFoQXNCbEhuTlhCRHJIYzlucTBESW1nS1NCNGNpMmprek12?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vOG5WdE1tM2picFlmUkFLNkJvZ25sV0ZzeEN2YTdta2JmS3E5U19BRF90ZEN0V2NTWnFoQXNCbEhuTlhCRHJIYzlucTBESW1nS1NCNGNpMmprek12?oc=5\" target=\"_blank\">행안부, 폭염 취약계층 보호…건설현장·이동노동자 쉼터 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
-    "published_at": "2026-05-29T14:00:00+09:00",
-    "cluster_id": "99de",
-    "publisher": "뉴스핌",
-    "title_clean": "행안부, 폭염 취약계층 보호…건설현장·이동노동자 쉼터 점검",
-    "summary": "행안부가 폭염으로 인한 취약계층 피해를 예방하기 위해 건설현장과 이동노동자 쉼터에 대한 점검을 실시한다. 이는 극한 날씨 조건에서 노동자 안전과 복지 향상을 위한 정부의 규제 강화 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 4
   }
 ]
