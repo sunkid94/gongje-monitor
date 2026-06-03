@@ -3684,6 +3684,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성重, ‘바다 위 데이터센터’ 선점 나선다 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wdGFHX09TUzh4VEdMR1ZxWW9zUEZQX0tiQ2VLemNYNHh0YWkxb1RfWW1HN1BDUjE4NnpxajgtcmsxTHNoc1Q4MXB2LUNyZjltSlF0NEJWX1FnS2VzZ1BZTmhRRGloYnhQTk1lUVNKOGhRT1ZLNUHSAWZBVV95cUxPQjUxSzB6LTRQNDJ0eHB2MWxHZXFEZGlFdkhGRjVKdzNSTVZ0V1FnVlhZMkhNbUtzNDFuV0RnbEI3SzdfOGc1Zzh3SFRDSGNCT2ludkdsWDZfRDE4VnhqLUxGNjlxM1E?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8wdGFHX09TUzh4VEdMR1ZxWW9zUEZQX0tiQ2VLemNYNHh0YWkxb1RfWW1HN1BDUjE4NnpxajgtcmsxTHNoc1Q4MXB2LUNyZjltSlF0NEJWX1FnS2VzZ1BZTmhRRGloYnhQTk1lUVNKOGhRT1ZLNUHSAWZBVV95cUxPQjUxSzB6LTRQNDJ0eHB2MWxHZXFEZGlFdkhGRjVKdzNSTVZ0V1FnVlhZMkhNbUtzNDFuV0RnbEI3SzdfOGc1Zzh3SFRDSGNCT2ludkdsWDZfRDE4VnhqLUxGNjlxM1E?oc=5\" target=\"_blank\">삼성重, ‘바다 위 데이터센터’ 선점 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+    "published_at": "2026-06-04T00:30:00+09:00",
+    "cluster_id": "fedc",
+    "publisher": "동아일보",
+    "title_clean": "삼성重, ‘바다 위 데이터센터’ 선점 나선다",
+    "summary": "삼성중공업이 해상 데이터센터 시장 진출을 추진하고 있다. 신규 시장 개척으로 건설·기계설비 부문의 새로운 수주 기회가 창출될 가능성이 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T00:47:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19293,22 +19309,6 @@
     "title_clean": "'공사비 1.6조' 광명 하안주공3·4단지…대우건설·포스코이앤씨 '관심'",
     "summary": "광명 하안주공3·4단지 재개발 사업에 공사비 1.6조 규모의 대형 공사가 예정되어 있으며, 대우건설과 포스코이앤씨 등 주요 건설사들이 수주에 관심을 보이고 있다. 대형 건설 프로젝트 수주 기회로 건설업계에 긍정적인 신호를 나타내고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-05-28T09:01:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "민간아파트 분양가 상승 흐름 속… ‘푸르지오 스타셀라49’ 금융 조건 제시 - E동아",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGd2pSdlNVcVdjdk9ZRDdMbWotdk5WblYwbnFrSHd0aENGR3F4WXpNN1VwUWJZcVNYQWFoel9ka3U2c0Q2eGJ0bmNPcVBDaXFRSGFSeEJCYzU1LWZfZXJaT09JTU5oQW8?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGd2pSdlNVcVdjdk9ZRDdMbWotdk5WblYwbnFrSHd0aENGR3F4WXpNN1VwUWJZcVNYQWFoel9ka3U2c0Q2eGJ0bmNPcVBDaXFRSGFSeEJCYzU1LWZfZXJaT09JTU5oQW8?oc=5\" target=\"_blank\">민간아파트 분양가 상승 흐름 속… ‘푸르지오 스타셀라49’ 금융 조건 제시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E동아</font>",
-    "published_at": "2026-05-28T09:00:00+09:00",
-    "cluster_id": "b5a1",
-    "publisher": "E동아",
-    "title_clean": "민간아파트 분양가 상승 흐름 속… ‘푸르지오 스타셀라49’ 금융 조건 제시",
-    "summary": "민간아파트 분양가 상승 추세 속에서 푸르지오 스타셀라49가 경쟁력 있는 금융 조건을 제시하며 분양 전략을 강화하고 있다. 건설사들이 판매 촉진을 위해 금융 지원 조건을 활용하는 시장 상황을 반영한 사례다.",
-    "sentiment": "neutral",
     "collected_at": "2026-05-28T09:01:39+09:00",
     "importance": 2
   },
