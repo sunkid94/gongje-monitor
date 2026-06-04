@@ -19549,6 +19549,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김현중 안전보건공단 이사장, 인천 건설현장서 ‘폭염 안전 5대 기본수칙’ 실태 점검 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GdUxxNGRrVlF3TXlmbEVFWF9xRXpBajRjLXFyZy02VXZTT3ViTmdBLUJFYXNIdDEtZ0dfX0Nic0NwSTI5b1N2RUFROHFCVDFJLVNuZVlmY2kyZ2ZfYnN4V1NuOA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GdUxxNGRrVlF3TXlmbEVFWF9xRXpBajRjLXFyZy02VXZTT3ViTmdBLUJFYXNIdDEtZ0dfX0Nic0NwSTI5b1N2RUFROHFCVDFJLVNuZVlmY2kyZ2ZfYnN4V1NuOA?oc=5\" target=\"_blank\">김현중 안전보건공단 이사장, 인천 건설현장서 ‘폭염 안전 5대 기본수칙’ 실태 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토일보</font>",
+    "published_at": "2026-06-04T21:45:17+09:00",
+    "cluster_id": "df83",
+    "publisher": "국토일보",
+    "title_clean": "김현중 안전보건공단 이사장, 인천 건설현장서 ‘폭염 안전 5대 기본수칙’ 실태 점검",
+    "summary": "안전보건공단 이사장이 인천 건설현장을 방문하여 폭염 시즌 안전관리 5대 기본수칙 준수 현황을 점검했다. 건설업계의 안전보건 관리 강화를 위한 현장 감시 활동으로 보임.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T21:52:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31268,22 +31284,6 @@
     "summary": "폭염으로 인한 건설공사 공사비 조정요건을 신중하게 검토할 필요가 있다는 주장. 이상 고온 현상이 공사 수행에 미치는 영향과 비용 조정의 합리적 기준에 대한 검토 촉구.",
     "sentiment": "neutral",
     "collected_at": "2026-06-01T06:02:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "타워크레인 노조 파업 나흘 만에 종료...임금 8% 인상 합의로 건설현장 파란불 - 중앙뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBneW5VWnAzSjZKMmY5alNWdy1BU1ZxQ3lOMU1iWnJIVTRCVENKQUVXZEZhS2RQSXRYV3pFc3ctMGo0WEt4VVdYdmdrTVZNTkxuaVh5dE44eDVOM1c1ZWxhYmg5V0Z2TzBTZ29N0gFvQVVfeXFMUFRYelI1MmZTNFFGVkxfZXhYMUhmblR3OTBLR19RLUhQeXNkYW9wVHpyWkh0eFExblFzTU1nX0l1RGlVN25uVVl1OVB4RmFJUzZEVlRjTnpnaDJMRm5tUWFSX3dKaGJGdGRySlV4WDZN?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBneW5VWnAzSjZKMmY5alNWdy1BU1ZxQ3lOMU1iWnJIVTRCVENKQUVXZEZhS2RQSXRYV3pFc3ctMGo0WEt4VVdYdmdrTVZNTkxuaVh5dE44eDVOM1c1ZWxhYmg5V0Z2TzBTZ29N0gFvQVVfeXFMUFRYelI1MmZTNFFGVkxfZXhYMUhmblR3OTBLR19RLUhQeXNkYW9wVHpyWkh0eFExblFzTU1nX0l1RGlVN25uVVl1OVB4RmFJUzZEVlRjTnpnaDJMRm5tUWFSX3dKaGJGdGRySlV4WDZN?oc=5\" target=\"_blank\">타워크레인 노조 파업 나흘 만에 종료...임금 8% 인상 합의로 건설현장 파란불</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙뉴스</font>",
-    "published_at": "2026-05-31T18:34:38+09:00",
-    "cluster_id": "df54",
-    "publisher": "중앙뉴스",
-    "title_clean": "타워크레인 노조 파업 나흘 만에 종료...임금 8% 인상 합의로 건설현장 파란불",
-    "summary": "타워크레인 노조가 4일간의 파업을 종료하고 임금 8% 인상에 합의했다. 파업 종료로 건설현장의 작업이 정상화될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T04:57:31+09:00",
     "importance": 2
   }
 ]
