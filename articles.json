@@ -19492,6 +19492,37 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 현장이 멈추자 밥줄도 끊겼다…취업자 수 1년새 수만 명 감소 - 베타뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBST0JJUF83YVNRQ3ctMTNsb0EzclRwMWdZZUNLbkxfVlQyNGw5encxQ3FCTGFQcktlVzBoQ2pNUlh3cHp4UUFMOThOYTFpX21JRWFuV19qZlE4SGlObXhwU2ZRaS0?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBST0JJUF83YVNRQ3ctMTNsb0EzclRwMWdZZUNLbkxfVlQyNGw5encxQ3FCTGFQcktlVzBoQ2pNUlh3cHp4UUFMOThOYTFpX21JRWFuV19qZlE4SGlObXhwU2ZRaS0?oc=5\" target=\"_blank\">건설 현장이 멈추자 밥줄도 끊겼다…취업자 수 1년새 수만 명 감소</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">베타뉴스</font>",
+    "published_at": "2026-06-04T10:34:02+09:00",
+    "cluster_id": "5dd8",
+    "publisher": "베타뉴스",
+    "title_clean": "건설 현장이 멈추자 밥줄도 끊겼다…취업자 수 1년새 수만 명 감소",
+    "summary": "건설 현장 부진으로 인해 건설업 취업자 수가 1년 사이에 수만 명 감소했다. 건설업 경기 악화로 인한 고용 위기 심화를 보도하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T13:37:39+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인피닉, 산업 안전 AI 영상 분석 PoC 지원 프로그램 운영 - 헬로티",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15REltQjVEbXVlX2hjZ2o1bks2NFJTNV9GZHk3UkpRSW44ZWdEX1d1TUZJVEdhTWo4OS1QdHFNQ3FfN0ZHb2VvQzJTeXcwX2diNTdQS1NTYjJvcEo4d2JvUW5n?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15REltQjVEbXVlX2hjZ2o1bks2NFJTNV9GZHk3UkpRSW44ZWdEX1d1TUZJVEdhTWo4OS1QdHFNQ3FfN0ZHb2VvQzJTeXcwX2diNTdQS1NTYjJvcEo4d2JvUW5n?oc=5\" target=\"_blank\">인피닉, 산업 안전 AI 영상 분석 PoC 지원 프로그램 운영</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헬로티</font>",
+    "cluster_id": "ddeb",
+    "publisher": "헬로티",
+    "title_clean": "인피닉, 산업 안전 AI 영상 분석 PoC 지원 프로그램 운영",
+    "summary": "인피닉이 산업 안전을 위한 AI 영상 분석 PoC(개념 증명) 지원 프로그램을 운영한다. 이는 건설현장의 안전 관리를 AI 기술로 고도화하려는 시도로, 산업 안전 강화에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T13:37:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31242,36 +31273,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T19:41:22+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[중대재해사고예방] DL이앤씨, '스마트AI·디지털' 기술로 사람 지킨다 - 주간한국",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UYlRRamZ2LVFJZGFvVUswUWY2YV9FUjFOcUJBSmVwQTc3RjlFRDZMLXlMSXdrcnZfWnJXOTg3TWJla1U4ZFJHVjVYQmhNZ0VfSWg3Sk5KaDRETDBpSVF1V0hCYV9WR005MHhTV2k1Q09FcUlH0gF0QVVfeXFMTVRiVFFqZnYtUUlkYW9VSzBRZjZhX0VSMU5xQkFKZXBBNzdGOUVENkwteUxJd2tydl9aclc5ODdNYmVrVThkUkdWNVhCaE1nRV9JaDdKTkpoNERMMGlJUXVXSEJhX1ZHTTkweFNXaTVDT0VxSUc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1UYlRRamZ2LVFJZGFvVUswUWY2YV9FUjFOcUJBSmVwQTc3RjlFRDZMLXlMSXdrcnZfWnJXOTg3TWJla1U4ZFJHVjVYQmhNZ0VfSWg3Sk5KaDRETDBpSVF1V0hCYV9WR005MHhTV2k1Q09FcUlH0gF0QVVfeXFMTVRiVFFqZnYtUUlkYW9VSzBRZjZhX0VSMU5xQkFKZXBBNzdGOUVENkwteUxJd2tydl9aclc5ODdNYmVrVThkUkdWNVhCaE1nRV9JaDdKTkpoNERMMGlJUXVXSEJhX1ZHTTkweFNXaTVDT0VxSUc?oc=5\" target=\"_blank\">[중대재해사고예방] DL이앤씨, '스마트AI·디지털' 기술로 사람 지킨다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간한국</font>",
-    "cluster_id": "4a5d",
-    "publisher": "주간한국",
-    "title_clean": "[중대재해사고예방] DL이앤씨, '스마트AI·디지털' 기술로 사람 지킨다",
-    "summary": "DL이앤씨가 스마트AI와 디지털 기술을 활용하여 건설현장의 중대재해를 예방하는 안전 솔루션을 제시하고 있다. 이는 건설업계의 안전 기준 강화 흐름에 부응하는 기술 혁신 사례로, 기업의 안전관리 역량 강화를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-29T19:41:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "새만금개발청, 건설사업 담당 공무원 안전관리 역량 강화 - GNN 뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBneEltRnJJYXZFVFlPZ01xU1k0RHRoQWMyTjdQVWJoT1F1M0FvVVUxRDhGNzVSYXFDVEdJWDJOM3VDWFk?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBneEltRnJJYXZFVFlPZ01xU1k0RHRoQWMyTjdQVWJoT1F1M0FvVVUxRDhGNzVSYXFDVEdJWDJOM3VDWFk?oc=5\" target=\"_blank\">새만금개발청, 건설사업 담당 공무원 안전관리 역량 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GNN 뉴스통신</font>",
-    "published_at": "2026-05-29T19:33:00+09:00",
-    "cluster_id": "1bc1",
-    "publisher": "GNN 뉴스통신",
-    "title_clean": "새만금개발청, 건설사업 담당 공무원 안전관리 역량 강화",
-    "summary": "새만금개발청이 건설사업 담당 공무원을 대상으로 안전관리 역량 강화 교육을 실시하고 있습니다. 이는 건설 현장의 안전 기준을 높이고 사고 예방을 강화하려는 조치입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-29T19:41:22+09:00",
-    "importance": 3
   }
 ]
