@@ -3872,6 +3872,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"FLNG 양산 시대 열린다\"…삼성중공업, 美 델핀 1호기 수주 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ucjFYT2RqdFpFZHF3RG4yUy1wd0pOTHJkaHBzUE9PRlFvOHdjMzkwOXgtRFZKQmotcFpHdENHVmRzX2pTS1dkbWZqb0cybWtucFpv?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ucjFYT2RqdFpFZHF3RG4yUy1wd0pOTHJkaHBzUE9PRlFvOHdjMzkwOXgtRFZKQmotcFpHdENHVmRzX2pTS1dkbWZqb0cybWtucFpv?oc=5\" target=\"_blank\">\"FLNG 양산 시대 열린다\"…삼성중공업, 美 델핀 1호기 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "e66b",
+    "publisher": "네이트",
+    "title_clean": "\"FLNG 양산 시대 열린다\"…삼성중공업, 美 델핀 1호기 수주",
+    "summary": "삼성중공업이 미국 델핀 FLNG(부유식 천연가스액화설비) 1호기를 수주하며 FLNG 양산 시대를 열었다. 이는 건설업계의 대형 플랜트 수주 확대로 이어질 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T14:32:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19477,22 +19492,6 @@
     "title_clean": "포스코이앤씨 송치영, 신반포 수주전 ’CEO 마케팅’ 승부수...한성희 신화 재현할까 By EBN",
     "summary": "포스코이앤씨 송치영 사장이 신반포19·25차 재건축 수주전에서 CEO 마케팅으로 조합원 가치 극대화를 강조하며 제안조건을 끝까지 지키겠다고 공언했다. 합동설명회 자료 제출 등에서 공정성 논란이 제기되는 가운데 업체 간 수주 경쟁이 심화되고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-05-30T07:21:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "강남 재건축 '결전의 날'…압구정·반포 빅매치 동시 개봉 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83ay1GUXhSZ2VsOVRaS3ZXSmR4Nk43M3owbkZyRjB0VGIxOUMwYXlVVXVFMGt4QWI3UUNZTjFwOWlnYXZCYWtnRjZqb05wbkZCZFRfbFpmekZCYnphbFg1dDZHaG13TkhRUFHSAW9BVV95cUxPa01JNXBNQ3owTGNRand1VHZDVjYwdElLVFpHMk9kUFpUNUNVdXFGSGR6TFMzZU5HUUQ0TTBQbjhoNkZDNWpzZ0RDMzlTZ3BaclExWkxNZzJ5Q2FNRm0xeEhaQWEyVVFLZmswUnR4d1E?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE83ay1GUXhSZ2VsOVRaS3ZXSmR4Nk43M3owbkZyRjB0VGIxOUMwYXlVVXVFMGt4QWI3UUNZTjFwOWlnYXZCYWtnRjZqb05wbkZCZFRfbFpmekZCYnphbFg1dDZHaG13TkhRUFHSAW9BVV95cUxPa01JNXBNQ3owTGNRand1VHZDVjYwdElLVFpHMk9kUFpUNUNVdXFGSGR6TFMzZU5HUUQ0TTBQbjhoNkZDNWpzZ0RDMzlTZ3BaclExWkxNZzJ5Q2FNRm0xeEhaQWEyVVFLZmswUnR4d1E?oc=5\" target=\"_blank\">강남 재건축 '결전의 날'…압구정·반포 빅매치 동시 개봉 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-    "published_at": "2026-05-30T07:20:44+09:00",
-    "cluster_id": "3ad2",
-    "publisher": "머니투데이",
-    "title_clean": "강남 재건축 '결전의 날'…압구정·반포 빅매치 동시 개봉 - 머니투데이",
-    "summary": "강남 지역의 압구정과 반포 재건축 프로젝트가 동시에 분양 개시되는 주요 시장 이벤트가 펼쳐지고 있습니다. 이는 건설업계에 대형 수주 기회와 시장 활성화를 의미하는 상황입니다.",
-    "sentiment": "positive",
     "collected_at": "2026-05-30T07:21:32+09:00",
     "importance": 2
   },
