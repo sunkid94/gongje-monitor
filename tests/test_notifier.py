@@ -30,3 +30,16 @@ def test_no_record_when_no_subscribers(mock_subs, mock_webpush, tmp_path, monkey
     with patch("push_dedup.PUSHED_FILE", str(pushed)):
         notifier.send_company_push([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")])
     assert not pushed.exists()  # 발송 못 했으면 스토리를 '푸시됨'으로 기록하지 않음
+
+
+@patch("notifier.webpush")
+@patch("notifier._load_subscriptions")
+def test_no_record_when_vapid_key_missing(mock_subs, mock_webpush, tmp_path, monkeypatch):
+    # 구독자는 있으나 VAPID 키 없음 → 발송 불가 → 스토리 기록 안 함
+    mock_subs.return_value = [{"sub": {"endpoint": "https://x"}, "name": "tester"}]
+    monkeypatch.delenv("VAPID_PRIVATE_KEY", raising=False)
+    pushed = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(pushed)):
+        notifier.send_company_push([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")])
+    assert not pushed.exists()
+    assert mock_webpush.call_count == 0
