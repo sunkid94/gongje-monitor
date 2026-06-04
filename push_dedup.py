@@ -22,6 +22,8 @@ _MIN_TOKEN_LEN = 2
 _PUBLISHER_SEP = " - "
 # 토큰 경계로 치환할 기호 (단, '+' 는 'A+' 같은 등급 표기 보존 위해 제외)
 _PUNCT_RE = re.compile(r"""["'''""()\[\]<>·,.\-–—:;!?…""'']+""")
+# 선두 대괄호 섹션 태그 (예: "[마켓인]나신평…") — lead 추출 시 제거
+_LEADING_BRACKET_RE = re.compile(r"^\s*\[[^\]]*\]\s*")
 
 
 def story_key(title: str) -> set:
@@ -37,12 +39,14 @@ def story_lead(title: str) -> str:
     """제목의 선두 조직명(첫 쉼표 앞)을 정규화해 반환 — 스토리 동일성의 앵커.
 
     같은 이벤트라도 주체 조직이 다르면(예: 기계설비건설공제조합 vs 전문건설공제조합)
-    별개 스토리로 보고 억제하지 않기 위함. 매체명 접미사 제거 후 첫 쉼표 앞을 사용.
+    별개 스토리로 보고 억제하지 않기 위함. 매체명 접미사 제거 후 첫 쉼표 앞을 사용한다.
+    선두 대괄호 섹션 태그(예: "[마켓인]")는 제거한다. 쉼표가 없으면 본문 전체가 lead가 된다.
     """
     if not title:
         return ""
     body = title.rsplit(_PUBLISHER_SEP, 1)[0] if _PUBLISHER_SEP in title else title
     head = body.split(",", 1)[0]
+    head = _LEADING_BRACKET_RE.sub("", head)
     cleaned = _PUNCT_RE.sub(" ", head).lower()
     return " ".join(cleaned.split())
 

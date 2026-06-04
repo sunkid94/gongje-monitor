@@ -73,13 +73,14 @@ def test_load_pushed_corrupt_file_returns_empty(tmp_path):
 
 def test_save_then_load_roundtrip_tokens_as_set(tmp_path):
     f = tmp_path / "pushed.json"
-    entries = [{"tokens": {"피치", "유지", "a+"}, "pushed_at": _now().isoformat(), "title": "t"}]
+    entries = [{"tokens": {"피치", "유지", "a+"}, "lead": "조합", "pushed_at": _now().isoformat(), "title": "t"}]
     with patch("push_dedup.PUSHED_FILE", str(f)):
         push_dedup.save_pushed(entries, _now())
         loaded = push_dedup.load_pushed(_now())
     assert len(loaded) == 1
     assert loaded[0]["tokens"] == {"피치", "유지", "a+"}   # set 으로 복원
     assert loaded[0]["title"] == "t"
+    assert loaded[0]["lead"] == "조합"
 
 
 def test_load_pushed_drops_entries_older_than_window(tmp_path):
@@ -221,6 +222,24 @@ def test_filter_still_suppresses_same_org_variant(tmp_path):
         push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")], _now())
         to_push, suppressed = push_dedup.filter_unpushed(
             [_article("전문건설공제조합, 피치 국제신용등급 'A+' 유지 - 이데일리")], _now() + timedelta(hours=2)
+        )
+    assert to_push == []
+    assert len(suppressed) == 1
+
+
+def test_story_lead_strips_leading_bracket_section():
+    assert push_dedup.story_lead("[마켓인]나신평, 삼성중공업 신용등급 상향 - 이데일리") == "나신평"
+    # 대괄호 유무만 다른 같은 조직은 같은 lead
+    assert push_dedup.story_lead("[마켓인]나신평, 삼성중공업 신용등급 상향 - 이데일리") == \
+           push_dedup.story_lead("나신평, 삼성중공업 신용등급 상향 - 뉴스1")
+
+
+def test_filter_suppresses_bracketed_and_plain_same_org(tmp_path):
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("나신평, 삼성중공업 신용등급 상향 - 뉴스1")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("[마켓인]나신평, 삼성중공업 신용등급 상향 - 이데일리")], _now() + timedelta(hours=1)
         )
     assert to_push == []
     assert len(suppressed) == 1
