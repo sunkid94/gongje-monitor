@@ -19549,6 +19549,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노란봉투법 첫 기각 뒤집혔다…중노위, 중흥건설·중흥토건 사용자성 일부 인정 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GdWRha09YRm5TbmhmVTM5UWFldzNhZzRIMGppM09uVTJ3Nm1Rbi1CWDFfdFVUSGg1cTU3QkZZTlZzYUtOTzZ5cHl3Wi1CZWM?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GdWRha09YRm5TbmhmVTM5UWFldzNhZzRIMGppM09uVTJ3Nm1Rbi1CWDFfdFVUSGg1cTU3QkZZTlZzYUtOTzZ5cHl3Wi1CZWM?oc=5\" target=\"_blank\">노란봉투법 첫 기각 뒤집혔다…중노위, 중흥건설·중흥토건 사용자성 일부 인정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "0330",
+    "publisher": "v.daum.net",
+    "title_clean": "노란봉투법 첫 기각 뒤집혔다…중노위, 중흥건설·중흥토건 사용자성 일부 인정",
+    "summary": "중노위가 노란봉투법 관련 첫 기각 판정을 뒤집고 중흥건설·중흥토건의 사용자성을 일부 인정했다. 이는 건설업계의 노동 분쟁에서 사용자 책임 범위가 확대되는 방향으로 해석될 수 있어 규제 강화에 해당한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T22:02:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31269,21 +31284,5 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T06:07:38+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[사설] 폭염으로 인한 공사비 조정요건 철저히 살펴야 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fQl8wZmVPTjdwWVphVFBpNHZ4djF6YVFvbk5zVXZtRHh6cXR0Si1QbXhDTzROQ1RpUmtWbkVVQ3NXM1RUTlNCS0xMVUpMOEhMZUdHc0xqQnVWNjY2RHZYVGY0cHRTMmFoSkhR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9fQl8wZmVPTjdwWVphVFBpNHZ4djF6YVFvbk5zVXZtRHh6cXR0Si1QbXhDTzROQ1RpUmtWbkVVQ3NXM1RUTlNCS0xMVUpMOEhMZUdHc0xqQnVWNjY2RHZYVGY0cHRTMmFoSkhR?oc=5\" target=\"_blank\">[사설] 폭염으로 인한 공사비 조정요건 철저히 살펴야</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
-    "published_at": "2026-06-01T05:55:00+09:00",
-    "cluster_id": "8f43",
-    "publisher": "기계설비신문",
-    "title_clean": "[사설] 폭염으로 인한 공사비 조정요건 철저히 살펴야",
-    "summary": "폭염으로 인한 건설공사 공사비 조정요건을 신중하게 검토할 필요가 있다는 주장. 이상 고온 현상이 공사 수행에 미치는 영향과 비용 조정의 합리적 기준에 대한 검토 촉구.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-01T06:02:29+09:00",
-    "importance": 2
   }
 ]
