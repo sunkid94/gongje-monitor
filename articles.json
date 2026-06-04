@@ -19519,6 +19519,21 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "LH 공사비 연동형 제도 놓고 건설업계 반발…\"공급 차질 우려\" - SBSBiz",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3TnMzT2ZYM1lXWlVBRHJuZnpxcFdzSHdWZGJVYWdnbWEweV9OYnJDaGRXbFBEWXdWbGxTZnJlOWtlLXlTSmxzSGtEelYtanMxXzQw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3TnMzT2ZYM1lXWlVBRHJuZnpxcFdzSHdWZGJVYWdnbWEweV9OYnJDaGRXbFBEWXdWbGxTZnJlOWtlLXlTSmxzSGtEelYtanMxXzQw?oc=5\" target=\"_blank\">LH 공사비 연동형 제도 놓고 건설업계 반발…\"공급 차질 우려\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SBSBiz</font>",
+    "cluster_id": "d89e",
+    "publisher": "SBSBiz",
+    "title_clean": "LH 공사비 연동형 제도 놓고 건설업계 반발…\"공급 차질 우려\"",
+    "summary": "LH가 도입하려는 공사비 연동형 제도에 대해 건설업계가 반발하고 있습니다. 업계는 이 제도가 공급 차질을 초래할 수 있다는 우려를 제기하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-04T17:22:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31268,22 +31283,6 @@
     "publisher": "전국매일신문",
     "title_clean": "천안시, 집중호우 대비 건설현장 안전점검",
     "summary": "천안시가 집중호우에 대비하여 건설현장에 대한 안전점검을 실시했다. 이는 악천후 시 건설현장의 안전사고 예방을 위한 사전 조치로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-31T08:23:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "충청남도, '우기 대비 건설현장 품질·안전점검' 실시 - 시정일보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NRHBOaDJhOER6N3NwRTdFci1OUkRCRjZRNXoxclNVYzN0TGRoNkh1bkItNEgxZHM5TGlKdEFoeW83aUp5UDVfV0x3WC00NmZob1pyTzZTT2g5NlBtUk5iZ3JMTWRwMzAzdDZJ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1NRHBOaDJhOER6N3NwRTdFci1OUkRCRjZRNXoxclNVYzN0TGRoNkh1bkItNEgxZHM5TGlKdEFoeW83aUp5UDVfV0x3WC00NmZob1pyTzZTT2g5NlBtUk5iZ3JMTWRwMzAzdDZJ?oc=5\" target=\"_blank\">충청남도, '우기 대비 건설현장 품질·안전점검' 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시정일보</font>",
-    "published_at": "2026-05-31T12:15:00+09:00",
-    "cluster_id": "81bd",
-    "publisher": "시정일보",
-    "title_clean": "충청남도, '우기 대비 건설현장 품질·안전점검' 실시",
-    "summary": "충청남도가 우기(장마철)를 앞두고 건설현장의 품질과 안전을 점검하는 사업을 실시한다. 이는 우기에 따른 안전사고와 품질 저하를 사전에 방지하기 위한 행정 조치이다.",
     "sentiment": "neutral",
     "collected_at": "2026-05-31T08:23:45+09:00",
     "importance": 2
