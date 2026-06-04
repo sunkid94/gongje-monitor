@@ -10,9 +10,12 @@ import json
 import logging
 import os
 import smtplib
+from datetime import datetime
 from email.mime.text import MIMEText
 from pathlib import Path
 from typing import Iterable, List
+
+import push_dedup
 
 from pywebpush import webpush, WebPushException
 
@@ -121,7 +124,12 @@ def _send_admin_alert(expired: List[dict], auth_failed: List[dict]) -> None:
 
 
 def send_company_push(articles: Iterable[dict]) -> None:
-    """is_company 기사가 한 건이라도 있으면 등록된 구독자 전원에게 푸시 발송."""
+    """is_company 기사 중 최근 24h 내 미발송 스토리만 구독자 전원에게 푸시.
+
+    주의: 스토리 '발송됨' 기록(pushed.json)은 발송 *시도* 시점에 남는다 — 전 구독자
+    발송이 실패해도 해당 스토리는 24h 동안 재발송되지 않는다. (개별 webpush 호출 간
+    롤백이 불가능하므로 필터를 발송 전에 커밋하는 의도된 트레이드오프.)
+    """
     company = [a for a in articles if a.get("is_company")]
     if not company:
         logger.info("조합 기사 없음 — 푸시 알림 건너뜀")
@@ -137,7 +145,15 @@ def send_company_push(articles: Iterable[dict]) -> None:
         logger.warning("VAPID_PRIVATE_KEY 미설정 — 푸시 알림 건너뜀")
         return
 
-    payload = _build_payload(company)
+    # 발송 가능 확인 후에 스토리 중복 필터 (미발송 스토리를 기록하지 않도록 순서 중요)
+    to_push, suppressed = push_dedup.filter_unpushed(company, datetime.now().astimezone())
+    if suppressed:
+        logger.info("스토리 중복 %d건 푸시 억제", len(suppressed))
+    if not to_push:
+        logger.info("모두 기존 스토리 중복 — 푸시 알림 건너뜀")
+        return
+
+    payload = _build_payload(to_push)
     sent, expired, auth_failed, other_failed = 0, [], [], 0
     for item in subs:
         try:
@@ -159,7 +175,7 @@ def send_company_push(articles: Iterable[dict]) -> None:
             logger.error("Web Push 실패 [%s] (status=%s, name=%s)", (item["sub"].get("endpoint") or "")[:50], status, item["name"])
 
     logger.info(
-        "Web Push 발송 결과: 성공 %d / 만료 %d / 인증실패 %d / 기타실패 %d (조합 기사 %d건)",
-        sent, len(expired), len(auth_failed), other_failed, len(company),
+        "Web Push 발송 결과: 성공 %d / 만료 %d / 인증실패 %d / 기타실패 %d (신규 스토리 %d건)",
+        sent, len(expired), len(auth_failed), other_failed, len(to_push),
     )
     _send_admin_alert(expired, auth_failed)
