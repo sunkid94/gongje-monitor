@@ -19629,6 +19629,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노봉법 첫 기각 판단, 재심서 뒤집혀…하청노조 교섭권 인정 - supple.kr",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vVWFERjFxMEYwQmZueWJVUGNLSXpXTlZZM3FCUG5DVnJGRzU3VWtscFFnNUdrV0JjcE9iRDZwTVV1NkNyTW9ZOW13QUJveENpNVh2azRYTV9abE5k?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vVWFERjFxMEYwQmZueWJVUGNLSXpXTlZZM3FCUG5DVnJGRzU3VWtscFFnNUdrV0JjcE9iRDZwTVV1NkNyTW9ZOW13QUJveENpNVh2azRYTV9abE5k?oc=5\" target=\"_blank\">노봉법 첫 기각 판단, 재심서 뒤집혀…하청노조 교섭권 인정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">supple.kr</font>",
+    "published_at": "2026-06-04T12:45:09+00:00",
+    "cluster_id": "71fc",
+    "publisher": "supple.kr",
+    "title_clean": "노봉법 첫 기각 판단, 재심서 뒤집혀…하청노조 교섭권 인정",
+    "summary": "노동관계위원회가 하청노조의 교섭권을 인정하는 재심 판정을 내렸다. 이는 건설업계의 노동분쟁 리스크를 증가시키고 하청 관리의 복잡성을 높일 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-05T04:02:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31271,22 +31287,6 @@
     "summary": "용인특례시가 건축 분야의 안전성 확보를 위해 안전 점검 수행기관을 모집하고 있습니다. 이는 건설 현장의 안전 관리 강화 움직임으로, 건설업계에 추가적인 규제 및 점검 의무를 초래합니다.",
     "sentiment": "negative",
     "collected_at": "2026-06-01T08:42:26+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "화성특례시, 건설공사 시민감리단 출범 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rQ3Z6aDlFNDF6cVJBYVJqc0FNbGZNVl9TYmJfTk9UU2JTbld1YjF3VENiclBQYzNFTjlxRjZxLWF2cGZoQ3FjX2hCTGJ5Sk5sZVdFQmMzbUcyaVpsY09WUVM3QQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rQ3Z6aDlFNDF6cVJBYVJqc0FNbGZNVl9TYmJfTk9UU2JTbld1YjF3VENiclBQYzNFTjlxRjZxLWF2cGZoQ3FjX2hCTGJ5Sk5sZVdFQmMzbUcyaVpsY09WUVM3QQ?oc=5\" target=\"_blank\">화성특례시, 건설공사 시민감리단 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
-    "published_at": "2026-06-01T08:21:26+09:00",
-    "cluster_id": "d3ba",
-    "publisher": "매일일보",
-    "title_clean": "화성특례시, 건설공사 시민감리단 출범",
-    "summary": "화성특례시가 건설공사의 투명성과 품질 관리를 위해 시민감리단을 출범했습니다. 이는 건설공사 과정에 시민 감시 체계를 도입하여 부실공사 방지 및 공사 투명성을 강화하는 조치입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T08:27:23+09:00",
     "importance": 4
   }
 ]
