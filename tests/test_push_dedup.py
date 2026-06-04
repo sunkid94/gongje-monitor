@@ -107,3 +107,73 @@ def test_save_pushed_prunes_stale_and_writes_lists(tmp_path):
     assert len(on_disk) == 1
     assert on_disk[0]["title"] == "fresh"
     assert isinstance(on_disk[0]["tokens"], list)   # 직렬화는 list
+
+
+def _article(title, is_company=True):
+    return {"title": title, "is_company": is_company, "link": title}
+
+
+# 2026-06-04 실제 "전문건설공제조합 … 피치 … A+ 유지" 변형 7건 (매체만 다름)
+FITCH_GONGJE = [
+    "전문건설공제조합, 피치 국제신용등급 'A+' 유지 - 뉴스1",
+    "전문건설공제조합, 피치 신용등급 A+ 유지 - 기계설비신문",
+    "전문건설공제조합, 피치 신용등급 A+ 유지 - 연합뉴스 한민족센터",
+    "전문건설공제조합, 피치 국제신용등급 'A+' 유지 - 네이트",
+    "전문건설공제조합, 피치 신용등급 A+ 유지 - 연합뉴스",
+    "전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트",
+    "전문건설공제조합, 피치 국제신용등급 'A+' 유지 - 이데일리",
+]
+
+
+def test_filter_collapses_same_brand_variants_to_one(tmp_path):
+    arts = [_article(t) for t in FITCH_GONGJE]
+    with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
+        to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
+    assert len(to_push) == 1
+    assert len(suppressed) == 6
+
+
+def test_filter_distinct_stories_both_pushed(tmp_path):
+    arts = [
+        _article("기계설비건설공제조합, 창립 30주년 기념식 개최 - 매체"),
+        _article("전문건설공제조합, 피치 신용등급 A+ 유지 - 매체"),
+    ]
+    with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
+        to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
+    assert len(to_push) == 2
+    assert suppressed == []
+
+
+def test_filter_suppresses_story_already_pushed_in_history(tmp_path):
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        # 1차: 발송 기록 남김
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")], _now())
+        # 2차: 같은 스토리 다른 매체 → 억제
+        later = _now() + timedelta(hours=3)
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("전문건설공제조합, 피치 국제신용등급 'A+' 유지 - 이데일리")], later
+        )
+    assert to_push == []
+    assert len(suppressed) == 1
+
+
+def test_filter_repushes_after_window_expires(tmp_path):
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")], _now())
+        later = _now() + timedelta(hours=25)   # 창 만료
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 이데일리")], later
+        )
+    assert len(to_push) == 1
+    assert suppressed == []
+
+
+def test_filter_empty_key_article_is_pushed_not_recorded(tmp_path):
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        to_push, suppressed = push_dedup.filter_unpushed([_article("")], _now())
+        assert len(to_push) == 1     # 키 없으면 안전쪽: 발송
+        on_disk = _json.loads(f.read_text(encoding="utf-8"))
+    assert on_disk == []             # 키 없는 건 이력에 안 남김

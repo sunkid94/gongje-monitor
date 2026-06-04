@@ -106,3 +106,30 @@ def save_pushed(entries: List[dict], now: datetime) -> None:
         if os.path.exists(tmp):
             os.unlink(tmp)
         raise
+
+
+def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[dict], List[dict]]:
+    """24h 내 이미 푸시한 스토리와 Jaccard >= 임계값이면 억제.
+
+    반환: (to_push, suppressed). 새로 채택한 스토리는 pushed.json 에 기록한다.
+    제목 키가 비면(추출 실패) 안전쪽으로 발송하되 이력에는 남기지 않는다.
+    """
+    accepted = load_pushed(now)          # 비교 기준: 이력 + 이번 배치에서 채택된 것
+    now_iso = now.isoformat()
+    to_push: List[dict] = []
+    suppressed: List[dict] = []
+
+    for art in company_articles:
+        key = story_key(art.get("title", ""))
+        if key and any(
+            similarity(key, e["tokens"]) >= SIMILARITY_THRESHOLD
+            for e in accepted if e["tokens"]
+        ):
+            suppressed.append(art)
+            continue
+        to_push.append(art)
+        if key:
+            accepted.append({"tokens": key, "pushed_at": now_iso, "title": art.get("title", "")})
+
+    save_pushed(accepted, now)
+    return to_push, suppressed
