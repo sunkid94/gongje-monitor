@@ -33,6 +33,20 @@ def story_key(title: str) -> set:
     return {tok for tok in cleaned.split() if len(tok) >= _MIN_TOKEN_LEN}
 
 
+def story_lead(title: str) -> str:
+    """제목의 선두 조직명(첫 쉼표 앞)을 정규화해 반환 — 스토리 동일성의 앵커.
+
+    같은 이벤트라도 주체 조직이 다르면(예: 기계설비건설공제조합 vs 전문건설공제조합)
+    별개 스토리로 보고 억제하지 않기 위함. 매체명 접미사 제거 후 첫 쉼표 앞을 사용.
+    """
+    if not title:
+        return ""
+    body = title.rsplit(_PUBLISHER_SEP, 1)[0] if _PUBLISHER_SEP in title else title
+    head = body.split(",", 1)[0]
+    cleaned = _PUNCT_RE.sub(" ", head).lower()
+    return " ".join(cleaned.split())
+
+
 def similarity(a: set, b: set) -> float:
     """Jaccard 유사도. 합집합이 비면 0."""
     if not a or not b:
@@ -75,6 +89,7 @@ def load_pushed(now: datetime) -> List[dict]:
             continue
         out.append({
             "tokens": set(item.get("tokens", [])),
+            "lead": item.get("lead", ""),
             "pushed_at": item["pushed_at"],
             "title": item.get("title", ""),
         })
@@ -93,6 +108,7 @@ def save_pushed(entries: List[dict], now: datetime) -> None:
             continue
         serializable.append({
             "tokens": sorted(e.get("tokens", [])),
+            "lead": e.get("lead", ""),
             "pushed_at": e["pushed_at"],
             "title": e.get("title", ""),
         })
@@ -120,16 +136,19 @@ def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[d
     suppressed: List[dict] = []
 
     for art in company_articles:
-        key = story_key(art.get("title", ""))
+        title = art.get("title", "")
+        key = story_key(title)
+        lead = story_lead(title)
         if key and any(
-            similarity(key, e["tokens"]) >= SIMILARITY_THRESHOLD
-            for e in accepted if e["tokens"]
+            e["tokens"] and e.get("lead", "") == lead
+            and similarity(key, e["tokens"]) >= SIMILARITY_THRESHOLD
+            for e in accepted
         ):
             suppressed.append(art)
             continue
         to_push.append(art)
         if key:
-            accepted.append({"tokens": key, "pushed_at": now_iso, "title": art.get("title", "")})
+            accepted.append({"tokens": key, "lead": lead, "pushed_at": now_iso, "title": title})
 
     save_pushed(accepted, now)
     return to_push, suppressed

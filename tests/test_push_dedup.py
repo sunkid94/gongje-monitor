@@ -177,3 +177,50 @@ def test_filter_empty_key_article_is_pushed_not_recorded(tmp_path):
         assert len(to_push) == 1     # 키 없으면 안전쪽: 발송
         on_disk = _json.loads(f.read_text(encoding="utf-8"))
     assert on_disk == []             # 키 없는 건 이력에 안 남김
+
+
+def test_story_lead_extracts_org_before_first_comma():
+    assert push_dedup.story_lead("전문건설공제조합, 피치 신용등급 A+ 유지 - 이데일리") == "전문건설공제조합"
+    assert push_dedup.story_lead("") == ""
+    assert push_dedup.story_lead(None) == ""
+
+
+def test_story_lead_strips_publisher_and_punctuation():
+    # 매체명 접미사 제거 후, 첫 쉼표 앞 정규화
+    assert push_dedup.story_lead("기계설비건설공제조합, 창립 30주년 - 매체") == "기계설비건설공제조합"
+
+
+def test_filter_does_not_suppress_across_different_orgs(tmp_path):
+    # 다른 조직의 동일 이벤트는 각각 발송 (사용자 자기 조합 뉴스가 묻히지 않도록)
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("기계설비건설공제조합, 피치 신용등급 A+ 유지 - 이데일리")], _now() + timedelta(hours=1)
+        )
+    assert len(to_push) == 1     # 다른 조직 → 억제 안 함
+    assert suppressed == []
+
+
+def test_filter_does_not_suppress_different_brand_same_batch(tmp_path):
+    # 표기가 다른 브랜드(K-FINCO vs 전문건설공제조합)는 같은 조직 단정 안 함 → 각각 발송
+    arts = [
+        _article("K-FINCO, 피치 신용등급 A+ 유지 - 네이트"),
+        _article("전문건설공제조합, 피치 신용등급 A+ 유지 - 이데일리"),
+    ]
+    with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
+        to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
+    assert len(to_push) == 2
+    assert suppressed == []
+
+
+def test_filter_still_suppresses_same_org_variant(tmp_path):
+    # 같은 조직의 표현 차이(국제신용등급 vs 신용등급)는 여전히 억제 (1차 목표 보존)
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("전문건설공제조합, 피치 국제신용등급 'A+' 유지 - 이데일리")], _now() + timedelta(hours=2)
+        )
+    assert to_push == []
+    assert len(suppressed) == 1
