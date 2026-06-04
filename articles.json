@@ -19549,6 +19549,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "제주 건설현장 품질·안전 끌어올릴 정례 교육 실시 - 뉴스N제주",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42QTJpdlFObUhETGdCdHRtR2s3bEVHZG1VdTRZTG5yUGhGS1BZVnp1QURoRExnYUthdEFHVHZ0QlVJRWRDMURBU2NvM25vSlRqUUNnZDRQd1FiZFlzalBWRjJjdVVmTWhTZG9MbA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE42QTJpdlFObUhETGdCdHRtR2s3bEVHZG1VdTRZTG5yUGhGS1BZVnp1QURoRExnYUthdEFHVHZ0QlVJRWRDMURBU2NvM25vSlRqUUNnZDRQd1FiZFlzalBWRjJjdVVmTWhTZG9MbA?oc=5\" target=\"_blank\">제주 건설현장 품질·안전 끌어올릴 정례 교육 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스N제주</font>",
+    "published_at": "2026-06-04T20:58:14+09:00",
+    "cluster_id": "f195",
+    "publisher": "뉴스N제주",
+    "title_clean": "제주 건설현장 품질·안전 끌어올릴 정례 교육 실시",
+    "summary": "제주 지역 건설현장의 품질과 안전 수준을 향상시키기 위해 정례 교육을 실시한다. 건설업체와 근로자를 대상으로 한 체계적인 교육 프로그램을 통해 산업 안전성을 강화하는 조치이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T21:07:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -31268,21 +31284,5 @@
     "sentiment": "negative",
     "collected_at": "2026-06-01T01:22:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "새만금청, 건설공사 안전관리 특별교육 - 산경e뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOVpLa3ZWRy14emRlRWJvSUM1bUlCalhHQ1BIYmtlak5mOE94ZUs3cGk5YmxYM25Pa2ZZblN2c2I5RnRBc2JBckhwNDRON3g4TVd3X1VZbDZUdGE5ekFzRHM0TzFfb0k?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOVpLa3ZWRy14emRlRWJvSUM1bUlCalhHQ1BIYmtlak5mOE94ZUs3cGk5YmxYM25Pa2ZZblN2c2I5RnRBc2JBckhwNDRON3g4TVd3X1VZbDZUdGE5ekFzRHM0TzFfb0k?oc=5\" target=\"_blank\">새만금청, 건설공사 안전관리 특별교육</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">산경e뉴스</font>",
-    "published_at": "2026-05-31T23:01:56+09:00",
-    "cluster_id": "5d5f",
-    "publisher": "산경e뉴스",
-    "title_clean": "새만금청, 건설공사 안전관리 특별교육",
-    "summary": "새만금청이 건설공사 현장의 안전관리 강화를 위해 특별교육을 실시했다. 건설 현장의 안전 교육 강화는 산업재해 예방 및 근로자 보호를 목표로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-31T23:32:40+09:00",
-    "importance": 2
   }
 ]
