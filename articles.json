@@ -19613,6 +19613,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 서소문 고가철거 붕괴 사고 특별점검…\"위법사항 수사 의뢰\" - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJUUVfUnB4NHRXemRHZ3RPNzRZTW85RnFWdEsxYjdnSU9WOGk0eXhnSGhJSmd3SXdXWjNjRU9fa0hRZWFfdUxubHg0aTlCWEM4WGI5anhnWUZyeDdjME9iTjlNcGw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJUUVfUnB4NHRXemRHZ3RPNzRZTW85RnFWdEsxYjdnSU9WOGk0eXhnSGhJSmd3SXdXWjNjRU9fa0hRZWFfdUxubHg0aTlCWEM4WGI5anhnWUZyeDdjME9iTjlNcGw?oc=5\" target=\"_blank\">국토부, 서소문 고가철거 붕괴 사고 특별점검…\"위법사항 수사 의뢰\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MTN 머니투데이방송</font>",
+    "published_at": "2026-06-04T14:21:31+00:00",
+    "cluster_id": "16dc",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "국토부, 서소문 고가철거 붕괴 사고 특별점검…\"위법사항 수사 의뢰\"",
+    "summary": "국토부가 서소문 고가도로 철거 중 발생한 붕괴 사고에 대해 특별점검을 실시하고 위법사항을 수사 기관에 의뢰했다. 건설 안전 관리 강화 및 규제 조치로 이어질 가능성이 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-05T01:37:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31272,20 +31288,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-06-01T08:17:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"신호수 호루라기 시끄럽다\" 민원에…'안전' 덮어버린 편의주의 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONlI2U0V0ejJONVcxUVBYTnJGV1VxR2xRWVU3eEVpSG1Gd3d3VnE4Tm4yVEJQOEE0Zk41YmE3QW90elhfb1JnUXRoMkxzbkJ4SHJV?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONlI2U0V0ejJONVcxUVBYTnJGV1VxR2xRWVU3eEVpSG1Gd3d3VnE4Tm4yVEJQOEE0Zk41YmE3QW90elhfb1JnUXRoMkxzbkJ4SHJV?oc=5\" target=\"_blank\">\"신호수 호루라기 시끄럽다\" 민원에…'안전' 덮어버린 편의주의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "bd83",
-    "publisher": "네이트",
-    "title_clean": "\"신호수 호루라기 시끄럽다\" 민원에…'안전' 덮어버린 편의주의",
-    "summary": "신호수 호루라기가 시끄럽다는 민원으로 인해 안전장비 사용이 축소되는 편의주의적 관행이 문제가 되고 있다. 건설 현장의 안전을 위협하는 규제 완화 압력이 증가하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T07:47:25+09:00",
-    "importance": 4
   }
 ]
