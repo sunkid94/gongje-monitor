@@ -3936,6 +3936,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 美 최초 FLNG 건조 맡는다 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tSFUzNTlRZWZ5N0ZKcnpzTi1xc01rRENZU3Y0RVJEWjdiakx0eWpVWWcyYmhlcWxhLTZDeDNWalRUdlphTUE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tSFUzNTlRZWZ5N0ZKcnpzTi1xc01rRENZU3Y0RVJEWjdiakx0eWpVWWcyYmhlcWxhLTZDeDNWalRUdlphTUE?oc=5\" target=\"_blank\">삼성중공업, 美 최초 FLNG 건조 맡는다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "a325",
+    "publisher": "v.daum.net",
+    "title_clean": "삼성중공업, 美 최초 FLNG 건조 맡는다",
+    "summary": "삼성중공업이 미국 최초 FLNG(부유식 액화천연가스) 건조 프로젝트를 수주했다. 이는 초대형 해양 플랜트 분야에서 국내 조선업계의 기술력을 인정받은 사례로, 대규모 수주를 통한 실적 증대가 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T23:37:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19546,22 +19561,6 @@
     "publisher": "글로벌이코노믹",
     "title_clean": "[상생의 힘, 기업가치를 올린다] 두산, 원전·가스터빈 투자로 글로벌 기업 퀀텀점프",
     "summary": "두산이 원전과 가스터빈 사업에 대규모 투자를 진행하여 글로벌 기업으로의 도약을 추진 중이다. 이는 에너지 인프라 관련 대형 프로젝트 수주 기회 확대로 이어져 기계설비건설업계의 수주 증가 호재가 될 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-31T11:06:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"함께 가야 더 멀리 간다\"…삼성중공업, 협력사와 상생 다짐 - 거제타임라인",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5neVFrbFRrMVJhcmMwTUZlVTRTQnBQNllTbjlvS2tMT3dkRWt0amdiMXpmZEg3Mk1JQS11aDdJVXVnaUVab2E4X2pFNExDMGRKN3hqel9jTzFpSHh2OHk1R1RKMDF5bHc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5neVFrbFRrMVJhcmMwTUZlVTRTQnBQNllTbjlvS2tMT3dkRWt0amdiMXpmZEg3Mk1JQS11aDdJVXVnaUVab2E4X2pFNExDMGRKN3hqel9jTzFpSHh2OHk1R1RKMDF5bHc?oc=5\" target=\"_blank\">\"함께 가야 더 멀리 간다\"…삼성중공업, 협력사와 상생 다짐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">거제타임라인</font>",
-    "published_at": "2026-05-31T18:31:53+09:00",
-    "cluster_id": "b9e7",
-    "publisher": "거제타임라인",
-    "title_clean": "\"함께 가야 더 멀리 간다\"…삼성중공업, 협력사와 상생 다짐",
-    "summary": "삼성중공업이 협력사와의 상생경영을 강조하며 함께 성장하겠다는 의지를 표현했습니다. 대기업과 협력사 간의 동반성장 추진으로 건설기계 업계의 생태계 안정화를 도모하는 내용입니다.",
     "sentiment": "positive",
     "collected_at": "2026-05-31T11:06:36+09:00",
     "importance": 2
