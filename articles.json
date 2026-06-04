@@ -19549,6 +19549,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "GTX-A 삼성역 철근 누락 공사 지연…정부 보정금 최대 410억 원, 민간 정비사업 용적률 상향도 추진 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUaTZWMUdEX2R5WnBkcG96U3dTTXJiMmxvczE1eXVfcFNyOXdEdHdKU3FXaHUxY0cyaWg3QTd3S1gyVVRXUGM5SmdKVEFMTDc2Ymc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUaTZWMUdEX2R5WnBkcG96U3dTTXJiMmxvczE1eXVfcFNyOXdEdHdKU3FXaHUxY0cyaWg3QTd3S1gyVVRXUGM5SmdKVEFMTDc2Ymc?oc=5\" target=\"_blank\">GTX-A 삼성역 철근 누락 공사 지연…정부 보정금 최대 410억 원, 민간 정비사업 용적률 상향도 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">유스연합</font>",
+    "published_at": "2026-06-04T20:58:49+09:00",
+    "cluster_id": "fe89",
+    "publisher": "유스연합",
+    "title_clean": "GTX-A 삼성역 철근 누락 공사 지연…정부 보정금 최대 410억 원, 민간 정비사업 용적률 상향도 추진",
+    "summary": "GTX-A 삼성역 공사에서 철근 누락으로 인한 공사 지연 문제가 발생했으나, 정부가 최대 410억 원의 보정금을 지원하기로 결정했다. 동시에 민간 정비사업의 용적률 상향을 추진하여 건설업계의 수익성 개선을 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T21:17:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31268,21 +31284,5 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T02:17:33+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김석필 천안시장 권한대행, 집중호우 대비 공동주택 건설현장 안전점검 나서 - 충청일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnWkJLcVN4WGRSeFJQeUFJcjJCZzZpNXhNeGhsYnNKSnZYRjFtZGpzajJjdEl3Sks3RU1MTVFqcVU3cE41RlNpdjhzcTljNWR6OG5ON2I3Mi0xdHZmN01jWU44cnVzMHNhNkNSQk1RUEg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnWkJLcVN4WGRSeFJQeUFJcjJCZzZpNXhNeGhsYnNKSnZYRjFtZGpzajJjdEl3Sks3RU1MTVFqcVU3cE41RlNpdjhzcTljNWR6OG5ON2I3Mi0xdHZmN01jWU44cnVzMHNhNkNSQk1RUEg?oc=5\" target=\"_blank\">김석필 천안시장 권한대행, 집중호우 대비 공동주택 건설현장 안전점검 나서</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">충청일보</font>",
-    "published_at": "2026-05-31T19:17:56+09:00",
-    "cluster_id": "8b5e",
-    "publisher": "충청일보",
-    "title_clean": "김석필 천안시장 권한대행, 집중호우 대비 공동주택 건설현장 안전점검 나서",
-    "summary": "천안시장 권한대행이 집중호우에 대비하여 공동주택 건설현장에 대한 안전점검을 실시하고 있다. 이는 건설현장의 안전 강화를 위한 행정조치로, 건설업계에 안전 규제 강화 신호를 나타낸다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T01:22:33+09:00",
-    "importance": 4
   }
 ]
