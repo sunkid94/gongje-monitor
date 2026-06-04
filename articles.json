@@ -3872,6 +3872,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 4.3조원 규모 美 FLNG 사업 확보 - 팍스경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrbV9HcTR5QjVlTHpLY0Nlem0tcG5wNnBzQlBEOFVNanJoc0xydDZOV2pWTl9KT20yVnh5SE1wU0ZzZWtrSS12eFVBQ190MFJPejUtbFlfbFdMS2l6amNvYmxJYUpTd0k?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrbV9HcTR5QjVlTHpLY0Nlem0tcG5wNnBzQlBEOFVNanJoc0xydDZOV2pWTl9KT20yVnh5SE1wU0ZzZWtrSS12eFVBQ190MFJPejUtbFlfbFdMS2l6amNvYmxJYUpTd0k?oc=5\" target=\"_blank\">삼성중공업, 4.3조원 규모 美 FLNG 사업 확보</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">팍스경제TV</font>",
+    "cluster_id": "cacd",
+    "publisher": "팍스경제TV",
+    "title_clean": "삼성중공업, 4.3조원 규모 美 FLNG 사업 확보",
+    "summary": "삼성중공operating이 미국 FLNG(부유식 액화천연가스) 사업에서 4.3조원 규모의 수주를 확보했다. 이는 조선·해양플랜트 업계의 대규모 수주로 건설기계설비 관련 업계에 긍정적 영향을 미칠 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T13:32:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19473,22 +19488,6 @@
     "title_clean": "두산에너빌리티, 롤스로이스 SMR 핵심 기자재 파트너 선정",
     "summary": "두산에너빌리티가 영국의 롤스로이스가 개발 중인 소형모듈원자로(SMR)의 핵심 기자재 파트너로 선정되었다. 이는 국내 기계설비건설업체의 글로벌 원전 공급망 진출을 의미하는 사업 기회이다.",
     "sentiment": "positive",
-    "collected_at": "2026-05-29T16:55:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티 주가 장중 소폭약세서 NXT 강보합세로…주말 이후 향배 '주목' - CBC뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRnl3QkptYzNfRWlLMUZORjhrTXBWVVdNRzJ6RjQ4SGxFbThWbTBWSU5jbUdJaG5vZldfNlJjRUxkclZ1RDZEQURwT0wzM3A0ejJENHlRRW5tczctbDl1RGd3cUJhQWFR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRnl3QkptYzNfRWlLMUZORjhrTXBWVVdNRzJ6RjQ4SGxFbThWbTBWSU5jbUdJaG5vZldfNlJjRUxkclZ1RDZEQURwT0wzM3A0ejJENHlRRW5tczctbDl1RGd3cUJhQWFR?oc=5\" target=\"_blank\">두산에너빌리티 주가 장중 소폭약세서 NXT 강보합세로…주말 이후 향배 '주목'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC뉴스</font>",
-    "published_at": "2026-05-30T00:00:00+09:00",
-    "cluster_id": "37e6",
-    "publisher": "CBC뉴스",
-    "title_clean": "두산에너빌리티 주가 장중 소폭약세서 NXT 강보합세로…주말 이후 향배 '주목'",
-    "summary": "두산에너빌리티 주가가 장중 소폭 약세를 보이는 가운데 NXT는 강보합세를 나타냈다. 주말 이후 주가 방향성이 주목되고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-05-29T16:55:09+09:00",
     "importance": 2
   },
