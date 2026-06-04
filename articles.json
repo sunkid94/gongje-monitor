@@ -19549,6 +19549,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부산항만공사, 항만건설 현장 안전교류회 개최 - 해양레저신문",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pb016bERYZ1didFI3NkpWWU5KcEV0YnVwYnFCSm5Tby1XSUUyZXJyTW4yMXgyc1UzcXVxMFNWSldrTDlxOWpLZklSbUVERUlySkQ3YW8wTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pb016bERYZ1didFI3NkpWWU5KcEV0YnVwYnFCSm5Tby1XSUUyZXJyTW4yMXgyc1UzcXVxMFNWSldrTDlxOWpLZklSbUVERUlySkQ3YW8wTQ?oc=5\" target=\"_blank\">부산항만공사, 항만건설 현장 안전교류회 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">해양레저신문</font>",
+    "published_at": "2026-06-04T15:31:49+00:00",
+    "cluster_id": "816e",
+    "publisher": "해양레저신문",
+    "title_clean": "부산항만공사, 항만건설 현장 안전교류회 개최",
+    "summary": "부산항만공사가 항만건설 현장의 안전성 강화를 위해 안전교류회를 개최했습니다. 건설현장 안전관리 및 정보 공유를 통해 산업 안전문화를 확산하려는 노력입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T21:37:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -31268,21 +31284,6 @@
     "summary": "타워크레인 노동자와 사용자 간의 단체협상이 체결되었으며, 국토교통부가 이에 대한 공식 입장을 발표했습니다. 건설업계의 노사관계 안정화와 관련된 정부의 정책 방향을 담은 소식입니다.",
     "sentiment": "neutral",
     "collected_at": "2026-06-01T03:47:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토해양부 사이버홍보관입니다. - 국토교통부",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWTM4YjBJZFRHSnFKOHo1Y0NtT2U3NU5UZmRtRkY5aWVIeGZLWDA3RzRiVGhIVGhFVGdtZG1FRjdXaDhYdVIzVkotaDR1dnFWcXZ3SVNVc1l5QjFEX1hoSFlQU3BYMkI1Ujl2MnRxb19zcnpwWUg5N2x3R3BMdkpJemNRLXFJUXB2dkZzLUc5Y2hoUVRoTjNmelRQRTQ1NUF5c201S3ZldElITGtZVlBzS3VSeno?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOWTM4YjBJZFRHSnFKOHo1Y0NtT2U3NU5UZmRtRkY5aWVIeGZLWDA3RzRiVGhIVGhFVGdtZG1FRjdXaDhYdVIzVkotaDR1dnFWcXZ3SVNVc1l5QjFEX1hoSFlQU3BYMkI1Ujl2MnRxb19zcnpwWUg5N2x3R3BMdkpJemNRLXFJUXB2dkZzLUc5Y2hoUVRoTjNmelRQRTQ1NUF5c201S3ZldElITGtZVlBzS3VSeno?oc=5\" target=\"_blank\">국토해양부 사이버홍보관입니다.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토교통부</font>",
-    "cluster_id": "3de8",
-    "publisher": "국토교통부",
-    "title_clean": "국토해양부 사이버홍보관입니다.",
-    "summary": "국토교통부 사이버홍보관 관련 기사입니다. 구체적인 정책 내용이나 업계 영향 사항이 명확하게 제시되지 않아 판단이 어렵습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-01T03:32:26+09:00",
     "importance": 2
   }
 ]
