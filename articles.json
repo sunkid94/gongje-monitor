@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문건설공제조합, 피치 신용등급 ‘A+’ 유지 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IeXMxRHh6TFd0MFNadC0tT3B3ZE13WWg3NVE4ZXAyUVB6cmtIaFJ4T1ZZZ3JvejBuNE01d0dSZFFlTmEwRTVPTzQycTJiTERvNFU4TDQ5QTNscFZWVkZraTVfTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IeXMxRHh6TFd0MFNadC0tT3B3ZE13WWg3NVE4ZXAyUVB6cmtIaFJ4T1ZZZ3JvejBuNE01d0dSZFFlTmEwRTVPTzQycTJiTERvNFU4TDQ5QTNscFZWVkZraTVfTQ?oc=5\" target=\"_blank\">전문건설공제조합, 피치 신용등급 ‘A+’ 유지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토일보</font>",
+    "published_at": "2026-06-04T20:25:00+09:00",
+    "cluster_id": "8c9a",
+    "publisher": "국토일보",
+    "title_clean": "전문건설공제조합, 피치 신용등급 ‘A+’ 유지",
+    "summary": "전문건설공제조합이 국제신용평가기관 피치로부터 'A+' 신용등급을 유지했다. 이는 조합의 안정적인 재무 건전성과 신용도를 인정받은 것으로, 건설업계의 긍정적 신호로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T20:32:26+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "전문건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -31265,21 +31281,6 @@
     "publisher": "경기신문",
     "title_clean": "용인특례시, 태풍·집중호우 대비 공사·개발 현장 안전관리 강화",
     "summary": "용인특례시가 태풍과 집중호우에 대비하여 공사·개발 현장의 안전관리를 강화한다고 발표했다. 이는 극단적 날씨로 인한 건설 현장의 안전사고 예방을 위한 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-05-31T23:32:40+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안전보건공단 충북북부지사, 소규모 지붕공사 현장에 ‘안전대’ 등 추락 예방 물품 지원 - 비욘드포스트",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwZ0dDQjZ1Tm5XOHFXMUdyanpFd0NMX0pOSTg2Y1RxT0lfeHBLVUhyU0wwX0tPV3dIcGt4UDdlZDkyOGdxREg5TUt5SFFOYjVkZkxKNXEybkNxQWpZZFBLdXpVYkZtNFB6ZFJ4c3RHcm1uN2ZXNWpoUG12UVE?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAwZ0dDQjZ1Tm5XOHFXMUdyanpFd0NMX0pOSTg2Y1RxT0lfeHBLVUhyU0wwX0tPV3dIcGt4UDdlZDkyOGdxREg5TUt5SFFOYjVkZkxKNXEybkNxQWpZZFBLdXpVYkZtNFB6ZFJ4c3RHcm1uN2ZXNWpoUG12UVE?oc=5\" target=\"_blank\">안전보건공단 충북북부지사, 소규모 지붕공사 현장에 ‘안전대’ 등 추락 예방 물품 지원</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비욘드포스트</font>",
-    "cluster_id": "b625",
-    "publisher": "비욘드포스트",
-    "title_clean": "안전보건공단 충북북부지사, 소규모 지붕공사 현장에 ‘안전대’ 등 추락 예방 물품 지원",
-    "summary": "안전보건공단 충북북부지사가 소규모 지붕공사 현장에 안전대 등 추락 예방 물품을 지원하고 있다. 건설 현장의 안전 강화를 위한 정부 차원의 적극적 지원 활동이다.",
     "sentiment": "negative",
     "collected_at": "2026-05-31T23:32:40+09:00",
     "importance": 4
