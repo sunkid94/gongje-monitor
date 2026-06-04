@@ -19630,6 +19630,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "(기자의 눈) 건설 안전 경고음, 전기공사 현장도 예외가 아니다 - 전기신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RRzdwLUp1cGN4LWRHUU9fTzNaNUhxb3pvaGdwZlFuVWxXYUNXOXBrTUZoY3ZObWsyX3V2TEVlVDNRQ29wSkx6SXVtcjdsY1lxTG1PUXhpSkl4M3dTVGVUcWFJSndwQVN3NUo0S9IBcEFVX3lxTE1BcGhEWVdwcG9reVE4a3E3bXo5NXUwUWpJSzl1aXFMVXZrWGlEWUI0U3h5U0k4M2pmNVk1cUNORVhCUjJ6elg0RTVnMGNqcFlGWDVaUTkza1JFdXpJZHVXRkYzc25ZLWloN25lcE9leko?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RRzdwLUp1cGN4LWRHUU9fTzNaNUhxb3pvaGdwZlFuVWxXYUNXOXBrTUZoY3ZObWsyX3V2TEVlVDNRQ29wSkx6SXVtcjdsY1lxTG1PUXhpSkl4M3dTVGVUcWFJSndwQVN3NUo0S9IBcEFVX3lxTE1BcGhEWVdwcG9reVE4a3E3bXo5NXUwUWpJSzl1aXFMVXZrWGlEWUI0U3h5U0k4M2pmNVk1cUNORVhCUjJ6elg0RTVnMGNqcFlGWDVaUTkza1JFdXpJZHVXRkYzc25ZLWloN25lcE9leko?oc=5\" target=\"_blank\">(기자의 눈) 건설 안전 경고음, 전기공사 현장도 예외가 아니다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전기신문</font>",
+    "published_at": "2026-06-05T08:25:55+09:00",
+    "cluster_id": "f44e",
+    "publisher": "전기신문",
+    "title_clean": "(기자의 눈) 건설 안전 경고음, 전기공사 현장도 예외가 아니다",
+    "summary": "건설 현장의 안전 문제가 전기공사 현장에서도 심각한 수준임을 지적하는 기사. 건설업계 전반의 안전 관리 강화 필요성을 강조하고 있으며, 현장 사고 위험성에 대한 경고 메시지 전달.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-05T08:37:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31274,22 +31290,6 @@
     "title_clean": "대우건설, 외국인 현장 근로자 소통 위한 '실시간 AI 번역기' 개",
     "summary": "대우건설이 외국인 현장 근로자와의 의사소통을 위해 실시간 AI 번역기를 개발했다. 이는 건설현장의 안전성 강화와 업무 효율성 개선에 기여할 수 있는 기술 혁신이다.",
     "sentiment": "positive",
-    "collected_at": "2026-06-01T09:47:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“안전보건공단, 작은 사업장 사고 예방 재정 지원 강화한다” - 에너지데일리",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ENXlWeW9yVlB1b2xLUUJyZkU5bTN2emh0dGdtWVBUWkVPTjZkYkFIWWlWRFlLLVp5dk9XN29kUWI5N3N4ZlJGOFo2MXE1Z2NfeTFaZDBVS0NEX0pNeXp2VXJ4TjhxbFY2djVRV1Rxbkg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ENXlWeW9yVlB1b2xLUUJyZkU5bTN2emh0dGdtWVBUWkVPTjZkYkFIWWlWRFlLLVp5dk9XN29kUWI5N3N4ZlJGOFo2MXE1Z2NfeTFaZDBVS0NEX0pNeXp2VXJ4TjhxbFY2djVRV1Rxbkg?oc=5\" target=\"_blank\">“안전보건공단, 작은 사업장 사고 예방 재정 지원 강화한다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지데일리</font>",
-    "published_at": "2026-06-01T09:41:41+09:00",
-    "cluster_id": "7a69",
-    "publisher": "에너지데일리",
-    "title_clean": "“안전보건공단, 작은 사업장 사고 예방 재정 지원 강화한다”",
-    "summary": "안전보건공단이 소규모 사업장의 산업재해 예방을 위해 재정 지원을 강화하기로 했다. 작은 사업장들의 안전 시설 개선과 예방 활동에 대한 자금 지원을 확대하는 내용이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-06-01T09:47:42+09:00",
     "importance": 2
   }
