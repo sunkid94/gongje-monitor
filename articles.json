@@ -19566,6 +19566,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[K-건설 프런티어] 혼란의 주택시장…주택협회, 제도 개선·회원사 지원 활동 확대 - 아시아투데이",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XRHRiLXJrTDFfZ1F2Y2ZFNGkzenlyOURRWE9UZ0FHVHRkcW5YcU9jU0Y2MXF5dF9PWW15ZFhXRzZILW5CaVlhQTdPTzVidGdBbnN5ZmM5RmdjOTY3OF9OSWlFYjl0TkNXS3N3b2dn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9XRHRiLXJrTDFfZ1F2Y2ZFNGkzenlyOURRWE9UZ0FHVHRkcW5YcU9jU0Y2MXF5dF9PWW15ZFhXRzZILW5CaVlhQTdPTzVidGdBbnN5ZmM5RmdjOTY3OF9OSWlFYjl0TkNXS3N3b2dn?oc=5\" target=\"_blank\">[K-건설 프런티어] 혼란의 주택시장…주택협회, 제도 개선·회원사 지원 활동 확대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아투데이</font>",
+    "published_at": "2026-06-04T17:38:53+09:00",
+    "cluster_id": "6300",
+    "publisher": "아시아투데이",
+    "title_clean": "[K-건설 프런티어] 혼란의 주택시장…주택협회, 제도 개선·회원사 지원 활동 확대",
+    "summary": "주택시장의 혼란 속에서 주택협회가 제도 개선과 회원사 지원 활동을 확대하고 있다. 건설업계의 어려움을 극복하기 위한 협회 차원의 지원 체계 강화 움직임이 보도되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-04T23:47:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31272,20 +31288,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-06-01T06:52:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설 현장 인명사고 제로화 도전…용인시, 건축 공사현장 지킬 전문 안전진단 기관 모집 > 뉴스 - 더코리아",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZbGRUQ3F6TGhrUmwyN1R6Ym9rY05RUVNkejdOcEt5NnJCOHhKd21ZRzViNTlqVDZla1pTNm1DdmZlNXNENEFub0ZRTm9kZjFGRWdpVDhUbkpyY19MSGRCbFctVUNEMVY4eGFuQ3NoS3U?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZbGRUQ3F6TGhrUmwyN1R6Ym9rY05RUVNkejdOcEt5NnJCOHhKd21ZRzViNTlqVDZla1pTNm1DdmZlNXNENEFub0ZRTm9kZjFGRWdpVDhUbkpyY19MSGRCbFctVUNEMVY4eGFuQ3NoS3U?oc=5\" target=\"_blank\">건설 현장 인명사고 제로화 도전…용인시, 건축 공사현장 지킬 전문 안전진단 기관 모집 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더코리아</font>",
-    "cluster_id": "ea4c",
-    "publisher": "더코리아",
-    "title_clean": "건설 현장 인명사고 제로화 도전…용인시, 건축 공사현장 지킬 전문 안전진단 기관 모집 > 뉴스",
-    "summary": "용인시가 건설 현장의 안전 관리 강화를 위해 전문 안전진단 기관을 모집하고 있다. 이는 건설 현장의 인명사고 제로화를 목표로 한 정부의 안전 규제 강화 정책이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T06:52:31+09:00",
-    "importance": 4
   }
 ]
