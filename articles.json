@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "전문건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문건설공제조합, 피치 신용등급 A+ 유지 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Q0JqakxJWDJfRk1tZk9BaUFsMUNobmRYMXh0MUdiaDlLS1UzaFEwQUU1X3YxSXprRmVZci10THlxcnRXVnRVRDgtbG1FMTVPVjNYdG5udnVMSTRjR2h3adIBYEFVX3lxTE14Q0JqakxJWDJfRk1tZk9BaUFsMUNobmRYMXh0MUdiaDlLS1UzaFEwQUU1X3YxSXprRmVZci10THlxcnRXVnRVRDgtbG1FMTVPVjNYdG5udnVMSTRjR2h3aQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Q0JqakxJWDJfRk1tZk9BaUFsMUNobmRYMXh0MUdiaDlLS1UzaFEwQUU1X3YxSXprRmVZci10THlxcnRXVnRVRDgtbG1FMTVPVjNYdG5udnVMSTRjR2h3adIBYEFVX3lxTE14Q0JqakxJWDJfRk1tZk9BaUFsMUNobmRYMXh0MUdiaDlLS1UzaFEwQUU1X3YxSXprRmVZci10THlxcnRXVnRVRDgtbG1FMTVPVjNYdG5udnVMSTRjR2h3aQ?oc=5\" target=\"_blank\">전문건설공제조합, 피치 신용등급 A+ 유지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "published_at": "2026-06-04T10:08:57+09:00",
+    "cluster_id": "8c9a",
+    "publisher": "연합뉴스",
+    "title_clean": "전문건설공제조합, 피치 신용등급 A+ 유지",
+    "summary": "전문건설공제조합이 피치(Fitch)로부터 A+ 신용등급을 유지했다. 이는 조합의 안정적인 재무 상태와 신용도를 인증하는 것으로, 건설업계의 신뢰성 제고에 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T12:22:48+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -31255,21 +31271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-29T16:55:09+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'보수 성향' 국민노동조합·국민건설산업노동조합, 윤호상 서울시교육감 후보 공개 지지 - 펜앤마이크",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42a09DLWVWNDVMZWFqTmNqa2pYNm1mWHI5WVZvUnItZ2tLeHhfSmZmUzVHNnV4YVVXUjhzZURKM19MOXNTWHdxQnA3al9lTU5FYUhUVEZIeXl5V2VHUEZJdldJdE1fclk5cERv0gFvQVVfeXFMUHpsOTNtRlo2eUQtWDRvX1ZqdW96SU5aX2ZvWWlNSWc3OXhqSEQwNU1RbklGVEJUZGptR2V0RnJ5RVNvSloxeklhZkY3Z0xRVEE5alpXbjAxWWRITjJCR21ScmN4Z3ZZdUNRT1gwTUU4?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE42a09DLWVWNDVMZWFqTmNqa2pYNm1mWHI5WVZvUnItZ2tLeHhfSmZmUzVHNnV4YVVXUjhzZURKM19MOXNTWHdxQnA3al9lTU5FYUhUVEZIeXl5V2VHUEZJdldJdE1fclk5cERv0gFvQVVfeXFMUHpsOTNtRlo2eUQtWDRvX1ZqdW96SU5aX2ZvWWlNSWc3OXhqSEQwNU1RbklGVEJUZGptR2V0RnJ5RVNvSloxeklhZkY3Z0xRVEE5alpXbjAxWWRITjJCR21ScmN4Z3ZZdUNRT1gwTUU4?oc=5\" target=\"_blank\">'보수 성향' 국민노동조합·국민건설산업노동조합, 윤호상 서울시교육감 후보 공개 지지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">펜앤마이크</font>",
-    "published_at": "2026-05-29T21:51:01+09:00",
-    "cluster_id": "a122",
-    "publisher": "펜앤마이크",
-    "title_clean": "'보수 성향' 국민노동조합·국민건설산업노동조합, 윤호상 서울시교육감 후보 공개 지지",
-    "summary": "보수 성향의 국민노동조합과 국민건설산업노동조합이 윤호상 서울시교육감 후보를 공개 지지했다. 건설산업 노동조합의 정치적 지지 선언으로, 건설업계와 직접적인 호재나 악재와는 무관한 정치 뉴스다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-29T16:55:09+09:00",
-    "importance": 2
   }
 ]
