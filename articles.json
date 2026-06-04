@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비협회, 제45회 인정기능사 7월 14일까지 서류접수 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XLVJOZ2Rzb1lLVnYtMXhhUmJQRWxzZHE3TWJERjN5VDUxSXo1R1V5MWpxUk12RThxWldLcWJPT00xeEdqZ3pmSGt0cm9heGNJTG9OV2tLTHF3NGZKVUZuOFB6bFh6OGNYamM3UA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1XLVJOZ2Rzb1lLVnYtMXhhUmJQRWxzZHE3TWJERjN5VDUxSXo1R1V5MWpxUk12RThxWldLcWJPT00xeEdqZ3pmSGt0cm9heGNJTG9OV2tLTHF3NGZKVUZuOFB6bFh6OGNYamM3UA?oc=5\" target=\"_blank\">기계설비협회, 제45회 인정기능사 7월 14일까지 서류접수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
+    "published_at": "2026-06-04T10:00:00+09:00",
+    "cluster_id": "85bb",
+    "publisher": "기계설비신문",
+    "title_clean": "기계설비협회, 제45회 인정기능사 7월 14일까지 서류접수",
+    "summary": "기계설비협회가 제45회 인정기능사 자격시험의 서류접수를 7월 14일까지 진행한다. 기술인력 양성과 자격 인정을 통해 업계 전문성 강화를 도모하는 행사이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-04T10:47:56+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -3792,6 +3808,37 @@
     "sentiment": "neutral",
     "importance": 0,
     "cluster_id": "e9d8"
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[특징주] 삼성중공업, 4조 원대 수주 소식 '상승' - 전국매일신문",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSM0FiUkdZbnRSZGhmWEZZMmo3OGZUNTdkcnJ1Nk9EYXo3UHliNGx2cmlzZFZIbDlZNjdlV3ZWbGFzN3owZnVoTzVHMVN5YzJPRURRRHJDV0luNkdWNTk4cjFKX2xhcUcxdGZMY2Vn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBSM0FiUkdZbnRSZGhmWEZZMmo3OGZUNTdkcnJ1Nk9EYXo3UHliNGx2cmlzZFZIbDlZNjdlV3ZWbGFzN3owZnVoTzVHMVN5YzJPRURRRHJDV0luNkdWNTk4cjFKX2xhcUcxdGZMY2Vn?oc=5\" target=\"_blank\">[특징주] 삼성중공업, 4조 원대 수주 소식 '상승'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전국매일신문</font>",
+    "published_at": "2026-06-04T10:43:36+09:00",
+    "cluster_id": "2201",
+    "publisher": "전국매일신문",
+    "title_clean": "[특징주] 삼성중공업, 4조 원대 수주 소식 '상승'",
+    "summary": "삼성중공업이 4조 원대 규모의 수주 소식을 발표하며 주가가 상승했다. 이는 건설업계 전반에 긍정적인 신호로 작용하는 대규모 수주 호재다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T10:47:56+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "외국인 근로자와 실시간 소통…롯데이노베이트, 건설 현장 AI 에이전트 가동 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yLVhEWFdzTG9jWG9RQWp4dE1MQjJ0c3FPLTZiTC00UjI4S01lcjluNkdaTmdxMTNrWlhnVm8xWVpzZHk5UjlRd0xWcDhvalE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yLVhEWFdzTG9jWG9RQWp4dE1MQjJ0c3FPLTZiTC00UjI4S01lcjluNkdaTmdxMTNrWlhnVm8xWVpzZHk5UjlRd0xWcDhvalE?oc=5\" target=\"_blank\">외국인 근로자와 실시간 소통…롯데이노베이트, 건설 현장 AI 에이전트 가동</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "0138",
+    "publisher": "v.daum.net",
+    "title_clean": "외국인 근로자와 실시간 소통…롯데이노베이트, 건설 현장 AI 에이전트 가동",
+    "summary": "롯데이노베이트가 건설 현장에서 외국인 근로자와 실시간 소통이 가능한 AI 에이전트를 개발해 가동 중이다. 이는 언어 장벽으로 인한 안전사고 위험을 줄이고 현장 의사소통을 개선하는 기술 혁신이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T10:47:56+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -19385,38 +19432,6 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "신반포19·25차 시공사 선정 D-1…삼성물산·포스코이앤씨, 막판 표심 잡기 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Eb1RzeUlrZzh1THpuTWRybFNLclRtb21zaEI1V0dPUG03SEpXT0FhdGZHNFRDNVBnMGJqQm5TYjZaOXpLeUdSTUVpMV9xanVneHA0ZUNNZXhmU0w1YU1iTjk1LUx3QUxYMWhHcWNB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1Eb1RzeUlrZzh1THpuTWRybFNLclRtb21zaEI1V0dPUG03SEpXT0FhdGZHNFRDNVBnMGJqQm5TYjZaOXpLeUdSTUVpMV9xanVneHA0ZUNNZXhmU0w1YU1iTjk1LUx3QUxYMWhHcWNB?oc=5\" target=\"_blank\">신반포19·25차 시공사 선정 D-1…삼성물산·포스코이앤씨, 막판 표심 잡기</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아투데이</font>",
-    "published_at": "2026-05-29T14:45:54+09:00",
-    "cluster_id": "1fb6",
-    "publisher": "아시아투데이",
-    "title_clean": "신반포19·25차 시공사 선정 D-1…삼성물산·포스코이앤씨, 막판 표심 잡기",
-    "summary": "신반포19·25차 아파트 재건축 프로젝트의 시공사 선정이 임박한 가운데, 삼성물산과 포스코이앤씨가 최종 수주를 놓고 경쟁을 벌이고 있다. 대형 건설사들이 대규모 수주 기회를 놓고 벌이는 경합 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "“오직 반포”…포스코, 조합원 분담금 부담 낮추고 한강뷰 키운다 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWWXFNYjk2bko2TkpjUlpRV0NQRkFNVHduUlZtcVZFNWxZclZrMW12ZEo0bllYZnNYZW9KZTg0MjhwTTk1NHVWRVpRMElHN2tIR2hMeWItNmJHZ0k?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWWXFNYjk2bko2TkpjUlpRV0NQRkFNVHduUlZtcVZFNWxZclZrMW12ZEo0bllYZnNYZW9KZTg0MjhwTTk1NHVWRVpRMElHN2tIR2hMeWItNmJHZ0k?oc=5\" target=\"_blank\">“오직 반포”…포스코, 조합원 분담금 부담 낮추고 한강뷰 키운다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-    "published_at": "2026-05-29T14:51:50+09:00",
-    "cluster_id": "ffdb",
-    "publisher": "에너지경제신문",
-    "title_clean": "“오직 반포”…포스코, 조합원 분담금 부담 낮추고 한강뷰 키운다",
-    "summary": "포스코가 반포 재건축 조합원의 분담금 부담을 낮추고 한강뷰를 확대하는 방식으로 프로젝트를 추진 중입니다. 이는 대형 건설사의 주택 건설 프로젝트 진행으로 건설업계의 수주 기회를 반영하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31252,22 +31267,6 @@
     "title_clean": "한국부동산원·연세대, 산업별 경기지표 활용 세미나 개최",
     "summary": "한국부동산원과 연세대가 산업별 경기지표 활용에 관한 세미나를 개최했다. 부동산 및 건설업계의 경기 동향 분석을 위한 지표 활용 방안을 논의하는 학술행사이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-05-29T08:58:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대전시, 지역 건설업계와 간담회…하도급 확대·상생 방안 논의 - 신아일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZ05xZUVHRHZ0M19lMjlmd0h6T1B6N3ZMOFgxODltODVtNWFyWXl3OVNRM1F0eEpjbnhEREc3emVqclZqM0dYWE9ybm1aWWRkRzFzc3JMcFZlYUdnMzZfZ3VTSWZicmNDU243RzUzTWc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZ05xZUVHRHZ0M19lMjlmd0h6T1B6N3ZMOFgxODltODVtNWFyWXl3OVNRM1F0eEpjbnhEREc3emVqclZqM0dYWE9ybm1aWWRkRzFzc3JMcFZlYUdnMzZfZ3VTSWZicmNDU243RzUzTWc?oc=5\" target=\"_blank\">대전시, 지역 건설업계와 간담회…하도급 확대·상생 방안 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신아일보</font>",
-    "published_at": "2026-05-29T14:01:32+09:00",
-    "cluster_id": "baae",
-    "publisher": "신아일보",
-    "title_clean": "대전시, 지역 건설업계와 간담회…하도급 확대·상생 방안 논의",
-    "summary": "대전시가 지역 건설업계와 간담회를 개최하여 하도급 확대 및 상생 방안을 논의했다. 지역 건설업계의 경영 안정화와 협력업체와의 동반성장을 모색하는 행정 차원의 지원 움직임이다.",
-    "sentiment": "positive",
     "collected_at": "2026-05-29T08:58:35+09:00",
     "importance": 2
   }
