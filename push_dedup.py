@@ -41,3 +41,68 @@ def similarity(a: set, b: set) -> float:
     if not union:
         return 0.0
     return len(a & b) / len(union)
+
+
+def _parse_dt(s: str) -> datetime:
+    dt = datetime.fromisoformat(s)
+    if dt.tzinfo is None:
+        dt = dt.astimezone()
+    return dt
+
+
+def load_pushed(now: datetime) -> List[dict]:
+    """pushed.json 로드 — WINDOW_HOURS 이내 항목만, tokens 를 set 으로 복원.
+
+    파일 없음/JSON 손상 시 빈 리스트(안전쪽: 이력 없으면 발송 진행 → 알림 누락 방지).
+    """
+    try:
+        with open(PUSHED_FILE, "r", encoding="utf-8") as fp:
+            raw = json.load(fp)
+    except FileNotFoundError:
+        return []
+    except (json.JSONDecodeError, OSError) as e:
+        logger.warning("pushed.json 로드 실패(빈 이력으로 진행): %s", e)
+        return []
+
+    cutoff = now - timedelta(hours=WINDOW_HOURS)
+    out = []
+    for item in raw if isinstance(raw, list) else []:
+        try:
+            pushed_at = _parse_dt(item["pushed_at"])
+        except (KeyError, ValueError, TypeError):
+            continue
+        if pushed_at < cutoff:
+            continue
+        out.append({
+            "tokens": set(item.get("tokens", [])),
+            "pushed_at": item["pushed_at"],
+            "title": item.get("title", ""),
+        })
+    return out
+
+
+def save_pushed(entries: List[dict], now: datetime) -> None:
+    """WINDOW_HOURS 경과분 정리 후 원자적(temp + os.replace)으로 저장. tokens 는 list 직렬화."""
+    cutoff = now - timedelta(hours=WINDOW_HOURS)
+    serializable = []
+    for e in entries:
+        try:
+            if _parse_dt(e["pushed_at"]) < cutoff:
+                continue
+        except (KeyError, ValueError, TypeError):
+            continue
+        serializable.append({
+            "tokens": sorted(e.get("tokens", [])),
+            "pushed_at": e["pushed_at"],
+            "title": e.get("title", ""),
+        })
+    dir_ = os.path.dirname(os.path.abspath(PUSHED_FILE))
+    fd, tmp = tempfile.mkstemp(dir=dir_, prefix=".pushed-", suffix=".tmp")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as fp:
+            json.dump(serializable, fp, ensure_ascii=False, indent=2)
+        os.replace(tmp, PUSHED_FILE)
+    except BaseException:
+        if os.path.exists(tmp):
+            os.unlink(tmp)
+        raise
