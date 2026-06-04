@@ -19549,6 +19549,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'노란봉투법' 중노위 첫 재심서…중흥건설 사용자성 인정 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9naS04d1cwaGVZVmROd1Ffak4xbE1jZWxjNC1ocS1aZDlxTFJHODhJV2tqT0hweEZDeERpR2w2d0ZnaHk4Wk5HS2h0bE9Jei0wcGhSUEFhdURWa21UbkxzX9IBeEFVX3lxTE9RUzhnNEVzYXZlclQ0VVViVTBOS3dGNXRHZGowclYzRXVMNzRkVFdQVUJVaFY2Z0tfNG5kdkZ2R2RUME9PWFgzRldDRWllalAyTWRGM1dnaWp3VnhyV2dUQ21oN0lTbHBnaUZrMGVYOHVLWkJhTE02aw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9naS04d1cwaGVZVmROd1Ffak4xbE1jZWxjNC1ocS1aZDlxTFJHODhJV2tqT0hweEZDeERpR2w2d0ZnaHk4Wk5HS2h0bE9Jei0wcGhSUEFhdURWa21UbkxzX9IBeEFVX3lxTE9RUzhnNEVzYXZlclQ0VVViVTBOS3dGNXRHZGowclYzRXVMNzRkVFdQVUJVaFY2Z0tfNG5kdkZ2R2RUME9PWFgzRldDRWllalAyTWRGM1dnaWp3VnhyV2dUQ21oN0lTbHBnaUZrMGVYOHVLWkJhTE02aw?oc=5\" target=\"_blank\">'노란봉투법' 중노위 첫 재심서…중흥건설 사용자성 인정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "published_at": "2026-06-04T20:45:45+09:00",
+    "cluster_id": "83e9",
+    "publisher": "뉴시스",
+    "title_clean": "'노란봉투법' 중노위 첫 재심서…중흥건설 사용자성 인정",
+    "summary": "노란봉투법 관련 중앙노동위원회 첫 재심에서 중흥건설의 사용자성이 인정되었다. 이는 건설업계에서 원청업체의 법적 책임 범위를 둘러싼 논쟁에서 업체에 유리한 판단으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T20:52:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -31266,22 +31282,6 @@
     "title_clean": "새만금청, 건설공사 안전관리 특별교육",
     "summary": "새만금청이 건설공사 현장의 안전관리 강화를 위해 특별교육을 실시했다. 건설 현장의 안전 교육 강화는 산업재해 예방 및 근로자 보호를 목표로 한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-05-31T23:32:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경복대 안전보건과, GS건설 안전혁신학교 직무체험 연수 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBValVGSkhJemctNnBPVl8tRXRid2lJMnFDMkl6MnBHMWxVRzhqUWhnNU5RcVJ1el9EZUVWNkQ1U0JHaXdCN3ZGT0RBWWZjRlFER29tRW5PSE9fdVdobW1OX1VYYw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBValVGSkhJemctNnBPVl8tRXRid2lJMnFDMkl6MnBHMWxVRzhqUWhnNU5RcVJ1el9EZUVWNkQ1U0JHaXdCN3ZGT0RBWWZjRlFER29tRW5PSE9fdVdobW1OX1VYYw?oc=5\" target=\"_blank\">경복대 안전보건과, GS건설 안전혁신학교 직무체험 연수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-    "published_at": "2026-05-31T22:06:12+09:00",
-    "cluster_id": "ae38",
-    "publisher": "에너지경제신문",
-    "title_clean": "경복대 안전보건과, GS건설 안전혁신학교 직무체험 연수",
-    "summary": "경복대 안전보health과가 GS건설의 안전혁신학교에서 직무체험 연수를 진행했다. 건설업 인력 양성과 안전문화 확산을 위한 교육 활동이다.",
-    "sentiment": "positive",
     "collected_at": "2026-05-31T23:32:40+09:00",
     "importance": 2
   }
