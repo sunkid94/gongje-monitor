@@ -3888,6 +3888,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 초고부가 FLNG 양산 시대 연다 - 부산일보",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QNUdRbVF2NmRfQTdpOEhtek9wdTFiNXJ2anJmMnlnRE9UYkFaNV9aN1RiZVhVVWlLdlFzQ0hzMlhPR2dHVl9ySnhXZ2E4RVAwUzdRMzBIQWhaQ0tYY0RSZ19YbGcxY0RnZFNTZlZaVTVmM2FMVWJaag?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5QNUdRbVF2NmRfQTdpOEhtek9wdTFiNXJ2anJmMnlnRE9UYkFaNV9aN1RiZVhVVWlLdlFzQ0hzMlhPR2dHVl9ySnhXZ2E4RVAwUzdRMzBIQWhaQ0tYY0RSZ19YbGcxY0RnZFNTZlZaVTVmM2FMVWJaag?oc=5\" target=\"_blank\">삼성중공업, 초고부가 FLNG 양산 시대 연다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+    "cluster_id": "b074",
+    "publisher": "부산일보",
+    "title_clean": "삼성중공업, 초고부가 FLNG 양산 시대 연다",
+    "summary": "삼성중공업이 초고부가가치 FLNG(부유식 액화천연가스 생산설비) 양산 체계에 돌입한다. 이는 해양플랜트 업계에 수주 확대 및 매출 증대의 기회를 제공하는 긍정적 신호이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-04T18:12:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19504,19 +19519,34 @@
     "importance": 3
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "삼성중, 93개 협력사 대표와 소통 강화…산청서 상생·화합 행사 - 경남도민일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZXAwc3l5THFyVDVQX2d5NDloUnFoYmd2NG5uVFFxbWtKUFJHZV9xLWprcGZoTHh5dWtmQ1Z2dUczVkkzMDZabTZhcWNfOWxlaHJ5UGR0VWp0T3ZyRXFHWUxYSnZpZ2czSkE?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZXAwc3l5THFyVDVQX2d5NDloUnFoYmd2NG5uVFFxbWtKUFJHZV9xLWprcGZoTHh5dWtmQ1Z2dUczVkkzMDZabTZhcWNfOWxlaHJ5UGR0VWp0T3ZyRXFHWUxYSnZpZ2czSkE?oc=5\" target=\"_blank\">삼성중, 93개 협력사 대표와 소통 강화…산청서 상생·화합 행사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경남도민일보</font>",
-    "published_at": "2026-05-31T12:56:39+09:00",
-    "cluster_id": "63bd",
-    "publisher": "경남도민일보",
-    "title_clean": "삼성중, 93개 협력사 대표와 소통 강화…산청서 상생·화합 행사",
-    "summary": "삼성중공업이 93개 협력사 대표들과 산청에서 상생·화합 행사를 개최하여 소통을 강화했다. 이는 건설사의 협력사와의 관계 개선 및 협력업체 지원 의지를 보여주는 사례다.",
+    "title": "[인사] 국토교통부 - 대한전문건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1taU5JUXFFUmJJR191WHhUWmpWbFFhQ1JhZVV3YUtnaUI5RVByYy1zU0xLMW5JcDlxMWp5cEIzaUo2R3ZybjY5N0JLWVhPWHoyT20zMWFERmNaNDh1VFBpazFab1hQRU140gFsQVVfeXFMTy1GUm1EV09tamhPS3JneWhOQzduSHlpSU83SThNTm5sZ2pQdnFWOUVPY2ZPTGIzTFNfVW9Pbk1Ba3QybkxXYTFpbUlMd2w4Nm5QU1dleFRxRUNZWkNqZDRBNkhpWHBxNjh2QVl6?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1taU5JUXFFUmJJR191WHhUWmpWbFFhQ1JhZVV3YUtnaUI5RVByYy1zU0xLMW5JcDlxMWp5cEIzaUo2R3ZybjY5N0JLWVhPWHoyT20zMWFERmNaNDh1VFBpazFab1hQRU140gFsQVVfeXFMTy1GUm1EV09tamhPS3JneWhOQzduSHlpSU83SThNTm5sZ2pQdnFWOUVPY2ZPTGIzTFNfVW9Pbk1Ba3QybkxXYTFpbUlMd2w4Nm5QU1dleFRxRUNZWkNqZDRBNkhpWHBxNjh2QVl6?oc=5\" target=\"_blank\">[인사] 국토교통부</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한전문건설신문</font>",
+    "published_at": "2026-06-04T15:42:31+09:00",
+    "cluster_id": "ad5b",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[인사] 국토교통부",
+    "summary": "국토교통부의 인사 소식을 보도하는 기사입니다. 구체적인 인사 내용이 제목만 제시되어 기사 전문을 확인할 수 없어 상세한 판단이 어렵습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-04T18:12:32+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'콘테크' 키우는 경기도…건설 현장에 AI 심는다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82RWdJaERJb0Y5U0JVbmFfUlNNYmI4ZWtxZ0FYY1BGLWRBdkZHVWNRTlZFVURRQWd2ekYyMldyMG14cGtzdGRrTzZFOENEdUNIMEdv?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE82RWdJaERJb0Y5U0JVbmFfUlNNYmI4ZWtxZ0FYY1BGLWRBdkZHVWNRTlZFVURRQWd2ekYyMldyMG14cGtzdGRrTzZFOENEdUNIMEdv?oc=5\" target=\"_blank\">'콘테크' 키우는 경기도…건설 현장에 AI 심는다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "885a",
+    "publisher": "네이트",
+    "title_clean": "'콘테크' 키우는 경기도…건설 현장에 AI 심는다",
+    "summary": "경기도가 건설 현장에 AI 기술을 도입하는 '콘테크(Construction Tech)' 육성에 나섰다. 이는 건설업의 디지털화와 혁신을 통해 생산성 향상과 안전성 강화를 목표로 한다.",
     "sentiment": "positive",
-    "collected_at": "2026-05-31T04:54:09+09:00",
+    "collected_at": "2026-06-04T18:12:32+09:00",
     "importance": 2
   },
   {
@@ -31258,35 +31288,5 @@
     "sentiment": "negative",
     "collected_at": "2026-05-31T08:23:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "타워크레인 노·사간 단체협상 체결에 대한 국토교통부 입장을 알려드립니다. - 경기탑뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96VHo5TDFhX2F4XzU2R2dqUVZRanp0VERGVnhTRk9aS2dkNGsyQmZiOVhETExtNkZlSWM3bVZ0bEo1cExNRC1LekNFU2Y3U00zRXdWcFlWTl9TR3UzbnExZXBKSQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96VHo5TDFhX2F4XzU2R2dqUVZRanp0VERGVnhTRk9aS2dkNGsyQmZiOVhETExtNkZlSWM3bVZ0bEo1cExNRC1LekNFU2Y3U00zRXdWcFlWTl9TR3UzbnExZXBKSQ?oc=5\" target=\"_blank\">타워크레인 노·사간 단체협상 체결에 대한 국토교통부 입장을 알려드립니다.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기탑뉴스</font>",
-    "cluster_id": "0d36",
-    "publisher": "경기탑뉴스",
-    "title_clean": "타워크레인 노·사간 단체협상 체결에 대한 국토교통부 입장을 알려드립니다.",
-    "summary": "타워크레인 노·사간 단체협상이 체결되었으며, 국토교통부가 이에 대한 공식 입장을 발표했습니다. 건설 현장의 주요 장비인 타워크레인 관련 노사 합의 사항에 대한 정부의 입장 표명입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-31T08:23:45+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "타워크레인 노·사간 단체협상 체결에 대한 국토교통부 입장을 알려드립니다. - 경기평화신문",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90ZjlzSUE3N1pSRXNidEc1TWlYTnBqdkdfNXZDWmNvLXRuUWg0bWRhTXJXMkhJcHZscEU3NVpOaFpURURxVUpmejVB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE90ZjlzSUE3N1pSRXNidEc1TWlYTnBqdkdfNXZDWmNvLXRuUWg0bWRhTXJXMkhJcHZscEU3NVpOaFpURURxVUpmejVB?oc=5\" target=\"_blank\">타워크레인 노·사간 단체협상 체결에 대한 국토교통부 입장을 알려드립니다.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기평화신문</font>",
-    "cluster_id": "0d36",
-    "publisher": "경기평화신문",
-    "title_clean": "타워크레인 노·사간 단체협상 체결에 대한 국토교통부 입장을 알려드립니다.",
-    "summary": "국토교통부가 타워크레인 노·사간 단체협상 체결에 대한 입장을 발표했습니다. 구체적인 협상 내용이 제시되지 않아 업계에 미치는 영향을 판단하기 어렵습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-05-31T08:23:45+09:00",
-    "importance": 3
   }
 ]
