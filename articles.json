@@ -1,5 +1,20 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문조합, 보험지급능력 A+ 유지 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWaDJXZll2NGkwUFdzT21FVlRyRXdCUVNjRTZVVHVWcDFDaS16YklIZ1FZUU9QYTNRSjVvTm5rTVRVNjdOZVZkdV9GckM2Y3lxaE1uZEZpZEdVMEt5T3plTmdtQV9tdGpzbE5oRDlaaGo4Yko1?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBWaDJXZll2NGkwUFdzT21FVlRyRXdCUVNjRTZVVHVWcDFDaS16YklIZ1FZUU9QYTNRSjVvTm5rTVRVNjdOZVZkdV9GckM2Y3lxaE1uZEZpZEdVMEt5T3plTmdtQV9tdGpzbE5oRDlaaGo4Yko1?oc=5\" target=\"_blank\">전문조합, 보험지급능력 A+ 유지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "aef2",
+    "publisher": "대한경제",
+    "title_clean": "전문조합, 보험지급능력 A+ 유지",
+    "summary": "전문조합(기계설비건설공제조합)이 보험지급능력 등급 A+를 유지했다. 이는 조합의 재무 건전성과 지급능력이 우수한 수준임을 의미하며, 건설업계의 신뢰성 강화에 긍정적인 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T09:02:24+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "전문건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -31272,22 +31287,6 @@
     "publisher": "아시아경제",
     "title_clean": "포커스에이아이, 삼성물산과 AI 안전 카메라 실증…건설현장 안전관리 고도화 추진",
     "summary": "포커스에이아이가 삼성물산과 협력하여 AI 기반 안전 카메라를 건설현장에서 실증 운영 중입니다. 이는 건설현장의 안전관리 수준을 고도화하고 산업재해 예방에 기여할 것으로 예상됩니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T09:52:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현장 은어까지 척척…대우건설, 외국인 근로자용 실시간 AI 번역기 개발 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KcHhRZG1vdHk3UFhoVHllZVJ4Q09temFXbzFhYlFoY3BWVjVCVms3LXY4UTZDS1hkdkUxQVpWMzlDMjFpTzZmdkx5RkNPRXRsLTg4cjU4c0ZEOFpDb0t5YlprRk1OYngz?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KcHhRZG1vdHk3UFhoVHllZVJ4Q09temFXbzFhYlFoY3BWVjVCVms3LXY4UTZDS1hkdkUxQVpWMzlDMjFpTzZmdkx5RkNPRXRsLTg4cjU4c0ZEOFpDb0t5YlprRk1OYngz?oc=5\" target=\"_blank\">현장 은어까지 척척…대우건설, 외국인 근로자용 실시간 AI 번역기 개발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ebn.co.kr</font>",
-    "published_at": "2026-06-01T09:41:33+09:00",
-    "cluster_id": "66ed",
-    "publisher": "ebn.co.kr",
-    "title_clean": "현장 은어까지 척척…대우건설, 외국인 근로자용 실시간 AI 번역기 개발",
-    "summary": "대우건설이 외국인 근로자를 위한 실시간 AI 번역기를 개발했다. 현장 은어까지 정확하게 번역하는 이 기술은 건설 현장의 의사소통 효율성을 높이고 안전성을 개선할 수 있을 것으로 기대된다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T09:52:37+09:00",
     "importance": 2
