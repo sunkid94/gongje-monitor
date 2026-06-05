@@ -19752,6 +19752,21 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "안전기준 없이 설치한 공사장 ‘방진막’… 강풍에 아찔 - 경기일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUSkhBY3ByUUVLR2FOQ2VmRzJ3eWxDVkZFSlEzYzB5LUVodzNXZVdNYUlsblNrZVNBbE5CaFM2M0s5VXI1YjFGOV9ieFhsYWM2QUdMeDBWUVN2MGs?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUSkhBY3ByUUVLR2FOQ2VmRzJ3eWxDVkZFSlEzYzB5LUVodzNXZVdNYUlsblNrZVNBbE5CaFM2M0s5VXI1YjFGOV9ieFhsYWM2QUdMeDBWUVN2MGs?oc=5\" target=\"_blank\">안전기준 없이 설치한 공사장 ‘방진막’… 강풍에 아찔</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "cluster_id": "2fb4",
+    "publisher": "경기일보",
+    "title_clean": "안전기준 없이 설치한 공사장 ‘방진막’… 강풍에 아찔",
+    "summary": "공사장에 설치된 방진막이 안전기준 없이 부실 설치되어 강풍에 위험한 상황을 초래했다. 건설 현장의 안전 관리 부실과 규제 미흡 문제를 드러내는 사건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-06T07:17:30+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "동부건설, 폭염·장마철 대비 현장 안전관리 강화 - 경남대학교 교육방송국",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jUGtka1pDVzUtWEZjckoyLWRQc3hlNnJhUE1FcU00MEZMdXZpXzZqc1ZGblZuTERZYUhwZnBNdjJveWk1VjFKSkk1Qkh5RG81OUpiaUNnMjFya0tIaXVCa1lWOHowSU4tcnJF?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5jUGtka1pDVzUtWEZjckoyLWRQc3hlNnJhUE1FcU00MEZMdXZpXzZqc1ZGblZuTERZYUhwZnBNdjJveWk1VjFKSkk1Qkh5RG81OUpiaUNnMjFya0tIaXVCa1lWOHowSU4tcnJF?oc=5\" target=\"_blank\">동부건설, 폭염·장마철 대비 현장 안전관리 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경남대학교 교육방송국</font>",
@@ -31304,22 +31319,6 @@
     "summary": "현대건설과 현대엔지니어링이 연구개발 조직을 통합하여 'HMG건설기술연구원'을 출범시켰다. 이는 두 계열사의 R&D 역량을 집중하여 기술 경쟁력을 강화하려는 전략적 조치이다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T15:02:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "말 통하는 건설현장…대우건설, AI로 ‘외국인 소통 장벽’ 허문다 - 퍼블릭뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80cElMTkVzTHNibGw0eVRxWWZTb2hiR0loQzVOMTk4cFMwYmV4bEZMcUVRZ1pmT1ljRGs3cVhsSjluWlhrdkdTZldOejYxaTNlejRuZjBpTkR5ck5yenp2VHlDZ1VCb0pwRjQw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE80cElMTkVzTHNibGw0eVRxWWZTb2hiR0loQzVOMTk4cFMwYmV4bEZMcUVRZ1pmT1ljRGs3cVhsSjluWlhrdkdTZldOejYxaTNlejRuZjBpTkR5ck5yenp2VHlDZ1VCb0pwRjQw?oc=5\" target=\"_blank\">말 통하는 건설현장…대우건설, AI로 ‘외국인 소통 장벽’ 허문다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">퍼블릭뉴스통신</font>",
-    "published_at": "2026-06-01T13:30:42+09:00",
-    "cluster_id": "a37b",
-    "publisher": "퍼블릭뉴스통신",
-    "title_clean": "말 통하는 건설현장…대우건설, AI로 ‘외국인 소통 장벽’ 허문다",
-    "summary": "대우건설이 AI 기술을 활용해 건설현장에서 외국인 근로자와의 언어 소통 장벽을 해결하는 솔루션을 도입했다. 이는 건설현장의 안전성 향상과 업무 효율성 증대에 기여할 수 있는 긍정적인 혁신이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T14:57:49+09:00",
     "importance": 2
   }
 ]
