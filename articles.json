@@ -4094,6 +4094,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, '장위 푸르지오 마크원' 분양 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zemRhTmtJaVdNMFJWeHEtMzh2NkpoQ281ZFNaSlY0Q3ItWTJzLXZfclg3WFhIZnNfS0d2c0xCODRieDFWZ1Q4QnBna1pVSzU4YzdJ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zemRhTmtJaVdNMFJWeHEtMzh2NkpoQ281ZFNaSlY0Q3ItWTJzLXZfclg3WFhIZnNfS0d2c0xCODRieDFWZ1Q4QnBna1pVSzU4YzdJ?oc=5\" target=\"_blank\">대우건설, '장위 푸르지오 마크원' 분양</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "f5de",
+    "publisher": "네이트",
+    "title_clean": "대우건설, '장위 푸르지오 마크원' 분양",
+    "summary": "대우건설이 서울 장위지역에 '장위 푸르지오 마크원' 아파트 단지를 분양한다. 이는 건설사의 신규 주택 공급 사업으로 분양 실적 창출을 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-06T03:07:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19732,22 +19747,6 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T16:38:15+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 사우디서 8400억원 열병합발전소 수주 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWGhYR1FDX3hRbkxXRnU0NlM1Mk5TT3BleTY5SDJNcGJtcWh1QUo2cS1tazFNNzJ6eXVoMUwzSlFHM28tYkxiZjNzVGVQblNKbUdaN2o5ei1nLUV0UDBpYy1MN08?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWGhYR1FDX3hRbkxXRnU0NlM1Mk5TT3BleTY5SDJNcGJtcWh1QUo2cS1tazFNNzJ6eXVoMUwzSlFHM28tYkxiZjNzVGVQblNKbUdaN2o5ei1nLUV0UDBpYy1MN08?oc=5\" target=\"_blank\">두산에너빌리티, 사우디서 8400억원 열병합발전소 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
-    "published_at": "2026-06-01T16:28:24+09:00",
-    "cluster_id": "3379",
-    "publisher": "아시아경제",
-    "title_clean": "두산에너빌리티, 사우디서 8400억원 열병합발전소 수주",
-    "summary": "두산에너빌리티가 사우디아라비아에서 8400억원 규모의 열병합발전소 프로젝트를 수주했다. 해외 대형 에너지 인프라 프로젝트 수주로 기계설비건설 분야의 수출 실적 증대에 기여하는 호재다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T16:32:48+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설수주",
