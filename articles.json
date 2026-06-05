@@ -4030,6 +4030,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 해양플랜트 '시더 FLNG' 성공적 진수 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzQ1BZYk9KejkweWxLUE9fYnN2aGZCWnV0Z25VZHNaYlNCNXJRZ3FueGRkeTFoUmxCVUdJYV9CZzNaYkJjS2ZKTUFiQzRLLUk?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzQ1BZYk9KejkweWxLUE9fYnN2aGZCWnV0Z25VZHNaYlNCNXJRZ3FueGRkeTFoUmxCVUdJYV9CZzNaYkJjS2ZKTUFiQzRLLUk?oc=5\" target=\"_blank\">삼성중공업, 해양플랜트 '시더 FLNG' 성공적 진수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "03ad",
+    "publisher": "v.daum.net",
+    "title_clean": "삼성중공업, 해양플랜트 '시더 FLNG' 성공적 진수",
+    "summary": "삼성중공업이 해양플랜트 프로젝트인 '시더 FLNG'의 진수를 성공적으로 완료했다. 이는 건설업계의 대형 프로젝트 수행 능력을 입증하는 사례로, 해양플랜트 시장에서의 기술력과 수주 역량을 강화하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T12:57:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19649,21 +19664,6 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T10:17:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 건설현장 특화된 실시간 AI 번역기 개발 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBERWQtSFJZanp5RnhvemdtLTl2WmlPbHFJRTc0NEZDOUh1bUNuamgzM25FNjBDRHQ3bXVaY1hlVkpyeHkxcWtWSlJPMWswa1VTbjBv?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBERWQtSFJZanp5RnhvemdtLTl2WmlPbHFJRTc0NEZDOUh1bUNuamgzM25FNjBDRHQ3bXVaY1hlVkpyeHkxcWtWSlJPMWswa1VTbjBv?oc=5\" target=\"_blank\">대우건설, 건설현장 특화된 실시간 AI 번역기 개발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "39e1",
-    "publisher": "네이트",
-    "title_clean": "대우건설, 건설현장 특화된 실시간 AI 번역기 개발",
-    "summary": "대우건설이 건설현장에 특화된 실시간 AI 번역기를 개발했다. 이는 국제 건설프로젝트에서 의사소통 효율성을 높이고 안전성을 개선할 수 있는 기술혁신이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T10:17:39+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
