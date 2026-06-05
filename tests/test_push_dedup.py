@@ -27,26 +27,6 @@ def test_story_key_empty_title_returns_empty_set():
     assert push_dedup.story_key(None) == set()
 
 
-def test_similarity_identical_sets_is_one():
-    s = {"a", "b", "c"}
-    assert push_dedup.similarity(s, s) == 1.0
-
-
-def test_similarity_disjoint_sets_is_zero():
-    assert push_dedup.similarity({"a"}, {"b"}) == 0.0
-
-
-def test_similarity_jaccard_value():
-    # 교집합 4, 합집합 6 → 0.666...
-    a = {"전문건설공제조합", "피치", "국제신용등급", "a+", "유지"}
-    b = {"전문건설공제조합", "피치", "신용등급", "a+", "유지"}
-    assert push_dedup.similarity(a, b) == 4 / 6
-
-
-def test_similarity_empty_sets_is_zero():
-    assert push_dedup.similarity(set(), set()) == 0.0
-    assert push_dedup.similarity({"a"}, set()) == 0.0
-
 
 import json as _json
 from datetime import datetime, timedelta, timezone
@@ -204,16 +184,16 @@ def test_filter_does_not_suppress_across_different_orgs(tmp_path):
     assert suppressed == []
 
 
-def test_filter_does_not_suppress_different_brand_same_batch(tmp_path):
-    # 표기가 다른 브랜드(K-FINCO vs 전문건설공제조합)는 같은 조직 단정 안 함 → 각각 발송
+def test_filter_merges_brand_alias_same_batch(tmp_path):
+    # v2: K-FINCO 와 전문건설공제조합 은 같은 조직(별칭) → 같은 사건이면 1건만
     arts = [
         _article("K-FINCO, 피치 신용등급 A+ 유지 - 네이트"),
         _article("전문건설공제조합, 피치 신용등급 A+ 유지 - 이데일리"),
     ]
     with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
         to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
-    assert len(to_push) == 2
-    assert suppressed == []
+    assert len(to_push) == 1
+    assert len(suppressed) == 1
 
 
 def test_filter_still_suppresses_same_org_variant(tmp_path):
@@ -302,3 +282,58 @@ def test_overlap_empty_is_zero():
     assert push_dedup.overlap(set(), {"a"}) == 0.0
     assert push_dedup.overlap({"a"}, set()) == 0.0
     assert push_dedup.overlap(set(), set()) == 0.0
+
+
+# 2026-06-05 실측 "피치/신용등급" 표현 계열 5변형 (매체·표기·수식어 상이, 같은 사건)
+FITCH_V2 = [
+    "K-FINCO, 피치 신용등급 'A+' 유지…6.5조 자본력 인정 - 뉴스핌",
+    "전문건설공제조합, 피치 신용등급 'A+' 유지 - 국토일보",
+    "전문건설공제조합, 피치 국제신용등급 'A+'…자본력 탄탄 - 데일리안",
+    "전문건설공제조합, 글로벌 신용평가사 피치 국제신용등급'A+' 유지 - kscnews",
+    "K-FINCO, 글로벌 신용평가사 피치 국제신용등급 'A+' 유지 - 대한전문건설신문",
+]
+
+
+def test_filter_v2_reduces_fitch_variants(tmp_path):
+    # 표현이 꽤 다른 5변형 — 0.7에서 일부는 묶이고 일부는 각도가 달라 남음(과대약속 안 함).
+    # 핵심: 최소한 줄어든다. (정확히 1로 수렴한다고 단언하지 않음)
+    arts = [_article(t) for t in FITCH_V2]
+    with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
+        to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
+    assert len(to_push) < len(arts)
+    assert len(suppressed) >= 1
+
+
+def test_filter_v2_suppresses_cross_brand_reword_of_same_event(tmp_path):
+    # 사용자 실측 케이스: 00:07 전문건설판 발송 후, 13:57 K-FINCO 재보도(거의 동일 표현)는 억제.
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed(
+            [_article("전문건설공제조합, 글로벌 신용평가사 피치 국제신용등급 'A+' 유지 - kscnews")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("K-FINCO, 글로벌 신용평가사 피치 국제신용등급 'A+' 유지 - 대한전문건설신문")],
+            _now() + timedelta(hours=2))
+    assert to_push == []
+    assert len(suppressed) == 1
+
+
+def test_filter_v2_our_coop_not_suppressed_by_sibling(tmp_path):
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - A")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("기계설비건설공제조합, 피치 신용등급 A+ 유지 - B")], _now() + timedelta(hours=1)
+        )
+    assert len(to_push) == 1
+    assert suppressed == []
+
+
+def test_filter_v2_same_org_different_event_not_suppressed(tmp_path):
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - A")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("전문건설공제조합, ESG 경영 평가 최우수 등급 - B")], _now() + timedelta(hours=1)
+        )
+    assert len(to_push) == 1
+    assert suppressed == []

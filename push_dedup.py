@@ -1,7 +1,7 @@
 """푸시 스토리 단위 중복제거.
 
-같은 뉴스 사건이 여러 매체/cluster_id 로 흩어져 24시간 내 반복 푸시되는 것을 막는다.
-제목 핵심어 집합(story_key) 의 Jaccard 유사도가 임계값 이상이면 같은 스토리로 간주한다.
+같은 뉴스 사건이 여러 매체/표기/수식어로 흩어져 7일 내 반복 푸시되는 것을 막는다.
+대표조직(canonical_org) 이 같고 핵심어 포함도(overlap) 가 임계값 이상이면 같은 스토리로 본다.
 """
 import json
 import logging
@@ -14,7 +14,7 @@ from typing import List, Tuple
 logger = logging.getLogger(__name__)
 
 PUSHED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pushed.json")
-SIMILARITY_THRESHOLD = 0.6
+OVERLAP_THRESHOLD = 0.7
 WINDOW_HOURS = 168   # 7일 — 며칠 이어지는 사건도 1번만 알림
 _MIN_TOKEN_LEN = 2
 
@@ -79,16 +79,6 @@ def canonical_org(title: str) -> str:
         if f" {name} " in padded:
             return canon
     return lead
-
-
-def similarity(a: set, b: set) -> float:
-    """Jaccard 유사도. 합집합이 비면 0."""
-    if not a or not b:
-        return 0.0
-    union = a | b
-    if not union:
-        return 0.0
-    return len(a & b) / len(union)
 
 
 def overlap(a: set, b: set) -> float:
@@ -169,7 +159,7 @@ def save_pushed(entries: List[dict], now: datetime) -> None:
 
 
 def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[dict], List[dict]]:
-    """24h 내 이미 푸시한 스토리와 Jaccard >= 임계값이면 억제.
+    """7일 내 같은 대표조직·같은 사건(overlap>=임계값)으로 이미 푸시했으면 억제.
 
     반환: (to_push, suppressed). 새로 채택한 스토리는 pushed.json 에 기록한다.
     제목 키가 비면(추출 실패) 안전쪽으로 발송하되 이력에는 남기지 않는다.
@@ -182,17 +172,17 @@ def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[d
     for art in company_articles:
         title = art.get("title", "")
         key = story_key(title)
-        lead = story_lead(title)
+        canon = canonical_org(title)
         if key and any(
-            e["tokens"] and e.get("lead", "") == lead
-            and similarity(key, e["tokens"]) >= SIMILARITY_THRESHOLD
+            e["tokens"] and e.get("canon", "") == canon
+            and overlap(key, e["tokens"]) >= OVERLAP_THRESHOLD
             for e in accepted
         ):
             suppressed.append(art)
             continue
         to_push.append(art)
         if key:
-            accepted.append({"tokens": key, "lead": lead, "pushed_at": now_iso, "title": title})
+            accepted.append({"tokens": key, "canon": canon, "pushed_at": now_iso, "title": title})
 
     save_pushed(accepted, now)
     return to_push, suppressed
