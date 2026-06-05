@@ -25,9 +25,11 @@ _PUNCT_RE = re.compile(r"""["'''""()\[\]<>·,.\-–—:;!?…""'']+""")
 # 선두 대괄호 섹션 태그 (예: "[마켓인]나신평…") — lead 추출 시 제거
 _LEADING_BRACKET_RE = re.compile(r"^\s*\[[^\]]*\]\s*")
 
-# 같은 조직의 다른 표기 — 여기에 추가하면 묶임 (모두 소문자/정규화 형태로 비교됨)
+# 같은 조직의 다른 표기 — 여기에 추가하면 묶임.
+# 주의: story_lead 가 소문자화 + 구두점을 공백으로 바꾸므로, 별칭은 그 결과 형태(공백 구분,
+# 하이픈 없음)로 적어야 함. 예: "K-FINCO" 가 아니라 "k finco".
 ORG_ALIASES = {
-    "전문건설공제조합": ["전문조합", "k finco", "kfinco", "k-finco"],
+    "전문건설공제조합": ["전문조합", "k finco", "kfinco"],
     "기계설비건설공제조합": ["cig", "기계설비공제조합"],   # 우리 조합
 }
 
@@ -72,8 +74,9 @@ def canonical_org(title: str) -> str:
         for name in [canon] + aliases:
             candidates.append((name.lower(), canon))
     candidates.sort(key=lambda x: len(x[0]), reverse=True)
+    padded = f" {lead} "
     for name, canon in candidates:
-        if name in lead:
+        if f" {name} " in padded:
             return canon
     return lead
 

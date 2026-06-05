@@ -267,3 +267,20 @@ def test_canonical_org_does_not_cross_groups():
     a = push_dedup.canonical_org("기계설비건설공제조합, 피치 A+ 유지 - 매체")
     b = push_dedup.canonical_org("전문건설공제조합, 피치 A+ 유지 - 매체")
     assert a != b
+
+
+def test_canonical_org_no_substring_false_positive():
+    # "전문조합" 별칭이 "전문조합원협회" 안에 부분일치하면 안 됨 (다른 조직)
+    assert push_dedup.canonical_org("전문조합원협회, 정기총회 개최 - 매체") == "전문조합원협회"
+    # "cig" 가 "cigna" 안에 부분일치하면 안 됨
+    assert push_dedup.canonical_org("CIGNA Korea, 보험 신상품 출시 - 매체") != "기계설비건설공제조합"
+
+
+def test_canonical_org_matches_org_with_prefix():
+    # 선두에 수식어가 붙어도 조직 토큰이 온전히 있으면 매칭
+    assert push_dedup.canonical_org("한국 전문건설공제조합, 피치 A+ 유지 - 매체") == "전문건설공제조합"
+
+
+def test_canonical_org_kfinco_without_separator():
+    # "KFINCO"(구분자 없음) → "kfinco" 별칭으로 매칭
+    assert push_dedup.canonical_org("KFINCO, 피치 신용등급 A+ 유지 - 매체") == "전문건설공제조합"
