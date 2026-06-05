@@ -19704,6 +19704,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"폭염·장마 대비\"...동부건설, 계절적 위험요인 사전 차단 - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hNWdpYkVydWtJSHZXQlFMb2FxQzNBNW5JZGtQV0hwWDAxYkVhMmpuX0JTU1E2YlBlZTlOdlJBT0tRS3l2OWNLUUhMaE5pUW9pMGpOYTVpZ1RoUdIBXkFVX3lxTE1KcHk5dFVkSjNLakdkME9TOUZGM01xMk1ENE1MZm1GVk5UMjdPTlpaRmR4VE9BNXh0SkRlYzZYVFI0ZkRULTN5WmVCYzhodkRsWVhDX3lZbV9ZbG1lUGc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hNWdpYkVydWtJSHZXQlFMb2FxQzNBNW5JZGtQV0hwWDAxYkVhMmpuX0JTU1E2YlBlZTlOdlJBT0tRS3l2OWNLUUhMaE5pUW9pMGpOYTVpZ1RoUdIBXkFVX3lxTE1KcHk5dFVkSjNLakdkME9TOUZGM01xMk1ENE1MZm1GVk5UMjdPTlpaRmR4VE9BNXh0SkRlYzZYVFI0ZkRULTN5WmVCYzhodkRsWVhDX3lZbV9ZbG1lUGc?oc=5\" target=\"_blank\">\"폭염·장마 대비\"...동부건설, 계절적 위험요인 사전 차단</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
+    "published_at": "2026-06-05T14:13:43+09:00",
+    "cluster_id": "3b27",
+    "publisher": "파이낸셜뉴스",
+    "title_clean": "\"폭염·장마 대비\"...동부건설, 계절적 위험요인 사전 차단",
+    "summary": "동부건설이 폭염과 장마 시즌을 앞두고 현장의 안전 관리를 강화하고 있다. 계절적 위험요인에 대한 사전 대비로 산업재해를 예방하려는 움직임이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-05T14:37:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31292,21 +31308,6 @@
     "title_clean": "건설업계, 폭염 대응 선언…38℃ 이상 시 옥외작업 중지 권고",
     "summary": "건설업계가 폭염에 대응하기 위해 38℃ 이상의 고온에서 옥외작업 중지를 권고하는 대응 방안을 선언했다. 이는 근로자 안전과 보건을 위한 자발적 업계 기준으로, 폭염으로 인한 산업재해 예방을 목표로 한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-06-01T11:37:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설, 건설현장 맞춤형 실시간 AI 번역기 개발 - 데이터뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNzR4d3dWem1LYzYzMHZWWWNyRGZhLUF0LWlBT2JkYzhFaDhMTHZXOUcxOHNBVm5xZm1WZVhDZXJrWm9fY0wtb2VJYTBmY3BMTUZsZWlWdHI2ZW1CMllz?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNzR4d3dWem1LYzYzMHZWWWNyRGZhLUF0LWlBT2JkYzhFaDhMTHZXOUcxOHNBVm5xZm1WZVhDZXJrWm9fY0wtb2VJYTBmY3BMTUZsZWlWdHI2ZW1CMllz?oc=5\" target=\"_blank\">대우건설, 건설현장 맞춤형 실시간 AI 번역기 개발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데이터뉴스</font>",
-    "cluster_id": "d9dd",
-    "publisher": "데이터뉴스",
-    "title_clean": "대우건설, 건설현장 맞춤형 실시간 AI 번역기 개발",
-    "summary": "대우건설이 건설현장에 특화된 실시간 AI 번역기를 개발했다. 이는 다국적 인력이 많은 건설현장의 의사소통 효율성을 높이고 안전성을 개선할 수 있는 기술 혁신이다.",
-    "sentiment": "positive",
     "collected_at": "2026-06-01T11:37:40+09:00",
     "importance": 2
   }
