@@ -19646,6 +19646,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "동부건설, 폭염·풍수해 대응…현장 안전망 강화 - 직썰",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VZXNmMl9JRnBwUU9Sb1NXTTF1RmJacXNRWDlqVDhyZnMyNFNOVy0xQS04U1ZOc1BqLTFucDctM2hoaWtsdHcta3N4R1RHbkx4SHB1UXlaOW43VjI0aGZPM1VKT3BKQVlQ0gFsQVVfeXFMT3Q1T3g2SG4zWEYxYmZ4OThKTW15Z1c3R2pCalREZ0duNjhSNWFWUVRvV1hCQ0lpcjVUblRMbWhzczdiTG5MdEFvNXZUMlJCRDl5RnJIcXdjRktXaFMyY1NZSExzdDViUjhLX3ot?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VZXNmMl9JRnBwUU9Sb1NXTTF1RmJacXNRWDlqVDhyZnMyNFNOVy0xQS04U1ZOc1BqLTFucDctM2hoaWtsdHcta3N4R1RHbkx4SHB1UXlaOW43VjI0aGZPM1VKT3BKQVlQ0gFsQVVfeXFMT3Q1T3g2SG4zWEYxYmZ4OThKTW15Z1c3R2pCalREZ0duNjhSNWFWUVRvV1hCQ0lpcjVUblRMbWhzczdiTG5MdEFvNXZUMlJCRDl5RnJIcXdjRktXaFMyY1NZSExzdDViUjhLX3ot?oc=5\" target=\"_blank\">동부건설, 폭염·풍수해 대응…현장 안전망 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">직썰</font>",
+    "published_at": "2026-06-05T09:23:27+09:00",
+    "cluster_id": "0772",
+    "publisher": "직썰",
+    "title_clean": "동부건설, 폭염·풍수해 대응…현장 안전망 강화",
+    "summary": "동부건설이 폭염과 풍수해 등 악천후에 대응하기 위해 현장 안전관리를 강화하고 있다. 건설현장의 근로자 안전과 공사 품질 보호를 위한 선제적 조치로 평가된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-05T09:37:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31275,21 +31291,5 @@
     "sentiment": "negative",
     "collected_at": "2026-06-01T09:57:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "포커스에이아이, 삼성물산과 AI 기반 안전 카메라 'PNN CAM' 시연 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhN1YwZWtVdDlBUkVYM19UZ2Y4V0RBWDhKX1p3VXdoOXE0WWpSVlM4NkNKc1d1b09FSzFia2xvY1pwWDBxVG5uNTVYNk4yNTlCMmZMUmI1YlI3d9IBXkFVX3lxTE5LOHlpdWN4Mm1nOE9uN0ZRcVlYT1FrdUFGTXQ3N2RBWVY5VlRfaGZzbVZ6aG9HRkx4ZXplcm5LNEpqUUlSRTEzTktHdDl4V3N6WkZORmlVd1AyNTdoa2c?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhN1YwZWtVdDlBUkVYM19UZ2Y4V0RBWDhKX1p3VXdoOXE0WWpSVlM4NkNKc1d1b09FSzFia2xvY1pwWDBxVG5uNTVYNk4yNTlCMmZMUmI1YlI3d9IBXkFVX3lxTE5LOHlpdWN4Mm1nOE9uN0ZRcVlYT1FrdUFGTXQ3N2RBWVY5VlRfaGZzbVZ6aG9HRkx4ZXplcm5LNEpqUUlSRTEzTktHdDl4V3N6WkZORmlVd1AyNTdoa2c?oc=5\" target=\"_blank\">포커스에이아이, 삼성물산과 AI 기반 안전 카메라 'PNN CAM' 시연</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
-    "published_at": "2026-06-01T09:47:54+09:00",
-    "cluster_id": "a8df",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "포커스에이아이, 삼성물산과 AI 기반 안전 카메라 'PNN CAM' 시연",
-    "summary": "포커스에이아이가 삼성물산과 함께 AI 기반 안전 카메라 'PNN CAM'을 시연했다. 이는 건설현장의 안전관리 기술 고도화를 의미하며, 건설업계의 스마트화 및 안전 솔루션 시장 확대를 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T09:57:35+09:00",
-    "importance": 2
   }
 ]
