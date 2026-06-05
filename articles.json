@@ -19647,6 +19647,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "동부건설, 폭염·장마철 대비 현장 안전관리 강화 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGOU1Ic2hneGpMQ0gwZEpqQWdnRFI2clUzc0xIRlgxYW9TQzZmRm1SVFhiaVJJMUsxa2pXenQwLVN4akJsOGtNcHJpV21BbEptdGQw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGOU1Ic2hneGpMQ0gwZEpqQWdnRFI2clUzc0xIRlgxYW9TQzZmRm1SVFhiaVJJMUsxa2pXenQwLVN4akJsOGtNcHJpV21BbEptdGQw?oc=5\" target=\"_blank\">동부건설, 폭염·장마철 대비 현장 안전관리 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "2cf8",
+    "publisher": "네이트",
+    "title_clean": "동부건설, 폭염·장마철 대비 현장 안전관리 강화",
+    "summary": "동부건설이 폭염과 장마철 등 극단적 날씨에 대비하여 현장 안전관리를 강화하겠다고 발표했다. 건설 현장의 계절별 안전 위험요소에 대한 체계적 대응 방안을 마련한 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-05T11:07:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31276,22 +31291,6 @@
     "title_clean": "용인특례시, 건축공사 안전점검 수행기관 공개 모집",
     "summary": "용인특례시가 건축공사 안전점검 수행기관을 공개 모집하고 있다. 이는 건축공사 안전관리 강화를 위한 조치로, 관련 기관의 참여 기회를 확대하는 것이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-06-01T10:22:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "외국인 건설노동자 위한 실시간 AI 번역기 나와… 현장 은어 반영 - 안전신문",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10c2tNQkZ5RG14Y0dQeGpJQmhXNnRiNkdzZTd6aGM2WHlacTBsSWtYV3h1MUJTSndYNU1BYjQ0cW8wTnhJQWNCREo4WkZfUE5iVnVJLWUwdVNHVURVYkxNcUpGTnVRcXhfRTVfUEJaaw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE10c2tNQkZ5RG14Y0dQeGpJQmhXNnRiNkdzZTd6aGM2WHlacTBsSWtYV3h1MUJTSndYNU1BYjQ0cW8wTnhJQWNCREo4WkZfUE5iVnVJLWUwdVNHVURVYkxNcUpGTnVRcXhfRTVfUEJaaw?oc=5\" target=\"_blank\">외국인 건설노동자 위한 실시간 AI 번역기 나와… 현장 은어 반영</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전신문</font>",
-    "published_at": "2026-06-01T10:16:54+09:00",
-    "cluster_id": "4de9",
-    "publisher": "안전신문",
-    "title_clean": "외국인 건설노동자 위한 실시간 AI 번역기 나와… 현장 은어 반영",
-    "summary": "건설 현장의 외국인 노동자들을 위해 현장 은어를 반영한 실시간 AI 번역기가 개발되었다. 이는 언어 장벽으로 인한 안전사고 감소와 업무 효율성 개선을 기대할 수 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-06-01T10:22:38+09:00",
     "importance": 2
   }
