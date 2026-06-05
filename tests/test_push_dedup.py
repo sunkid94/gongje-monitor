@@ -73,20 +73,21 @@ def test_load_pushed_corrupt_file_returns_empty(tmp_path):
 
 def test_save_then_load_roundtrip_tokens_as_set(tmp_path):
     f = tmp_path / "pushed.json"
-    entries = [{"tokens": {"피치", "유지", "a+"}, "lead": "조합", "pushed_at": _now().isoformat(), "title": "t"}]
+    entries = [{"tokens": {"피치", "유지", "a+"}, "canon": "전문건설공제조합",
+                "pushed_at": _now().isoformat(), "title": "t"}]
     with patch("push_dedup.PUSHED_FILE", str(f)):
         push_dedup.save_pushed(entries, _now())
         loaded = push_dedup.load_pushed(_now())
     assert len(loaded) == 1
-    assert loaded[0]["tokens"] == {"피치", "유지", "a+"}   # set 으로 복원
+    assert loaded[0]["tokens"] == {"피치", "유지", "a+"}
+    assert loaded[0]["canon"] == "전문건설공제조합"
     assert loaded[0]["title"] == "t"
-    assert loaded[0]["lead"] == "조합"
 
 
 def test_load_pushed_drops_entries_older_than_window(tmp_path):
     f = tmp_path / "pushed.json"
     fresh = (_now() - timedelta(hours=1)).isoformat()
-    stale = (_now() - timedelta(hours=25)).isoformat()
+    stale = (_now() - timedelta(hours=200)).isoformat()   # 7일(168h) 초과
     raw = [
         {"tokens": ["fresh"], "pushed_at": fresh, "title": "fresh"},
         {"tokens": ["stale"], "pushed_at": stale, "title": "stale"},
@@ -101,13 +102,13 @@ def test_load_pushed_drops_entries_older_than_window(tmp_path):
 def test_save_pushed_prunes_stale_and_writes_lists(tmp_path):
     f = tmp_path / "pushed.json"
     fresh = {"tokens": {"fresh"}, "pushed_at": (_now() - timedelta(hours=1)).isoformat(), "title": "fresh"}
-    stale = {"tokens": {"stale"}, "pushed_at": (_now() - timedelta(hours=30)).isoformat(), "title": "stale"}
+    stale = {"tokens": {"stale"}, "pushed_at": (_now() - timedelta(hours=200)).isoformat(), "title": "stale"}
     with patch("push_dedup.PUSHED_FILE", str(f)):
         push_dedup.save_pushed([fresh, stale], _now())
     on_disk = _json.loads(f.read_text(encoding="utf-8"))
     assert len(on_disk) == 1
     assert on_disk[0]["title"] == "fresh"
-    assert isinstance(on_disk[0]["tokens"], list)   # 직렬화는 list
+    assert isinstance(on_disk[0]["tokens"], list)
 
 
 def _article(title, is_company=True):
@@ -163,7 +164,7 @@ def test_filter_repushes_after_window_expires(tmp_path):
     f = tmp_path / "pushed.json"
     with patch("push_dedup.PUSHED_FILE", str(f)):
         push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트")], _now())
-        later = _now() + timedelta(hours=25)   # 창 만료
+        later = _now() + timedelta(hours=192)   # 7일 창 만료
         to_push, suppressed = push_dedup.filter_unpushed(
             [_article("전문건설공제조합, 피치 신용등급 A+ 유지 - 이데일리")], later
         )

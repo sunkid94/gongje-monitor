@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 PUSHED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pushed.json")
 SIMILARITY_THRESHOLD = 0.6
-WINDOW_HOURS = 24
+WINDOW_HOURS = 168   # 7일 — 며칠 이어지는 사건도 1번만 알림
 _MIN_TOKEN_LEN = 2
 
 # 매체명 접미사 분리용: 제목은 "… 본문 - 매체명" 형태
@@ -133,7 +133,7 @@ def load_pushed(now: datetime) -> List[dict]:
             continue
         out.append({
             "tokens": set(item.get("tokens", [])),
-            "lead": item.get("lead", ""),
+            "canon": item.get("canon", ""),
             "pushed_at": item["pushed_at"],
             "title": item.get("title", ""),
         })
@@ -152,7 +152,7 @@ def save_pushed(entries: List[dict], now: datetime) -> None:
             continue
         serializable.append({
             "tokens": sorted(e.get("tokens", [])),
-            "lead": e.get("lead", ""),
+            "canon": e.get("canon", ""),
             "pushed_at": e["pushed_at"],
             "title": e.get("title", ""),
         })
