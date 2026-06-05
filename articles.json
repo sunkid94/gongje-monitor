@@ -19646,6 +19646,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "BS한양-대보건설, 경기 '고덕국제신도시 수자인하우스디' 이달 분양 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mRmJpWkdBdVg2NVBiN0tmc3NXV3ZNb0YzRmVaMzBPNXp2MHJ0RUVaZ2JEQVNNaVVyNG9ObkR3TjVob0FPM3pKMzhGLTZWQnNHTzhv?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mRmJpWkdBdVg2NVBiN0tmc3NXV3ZNb0YzRmVaMzBPNXp2MHJ0RUVaZ2JEQVNNaVVyNG9ObkR3TjVob0FPM3pKMzhGLTZWQnNHTzhv?oc=5\" target=\"_blank\">BS한양-대보건설, 경기 '고덕국제신도시 수자인하우스디' 이달 분양</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "caf5",
+    "publisher": "네이트",
+    "title_clean": "BS한양-대보건설, 경기 '고덕국제신도시 수자인하우스디' 이달 분양",
+    "summary": "BS한양과 대보건설이 경기 고덕국제신도시에서 '수자인하우스디' 프로젝트를 이달 분양한다. 대규모 주택 분양사업으로 건설업계 수주 증가에 긍정적 영향을 미칠 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T09:47:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -31275,21 +31290,5 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T10:02:38+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "춘천시, AI CCTV로 공공건축 현장 안전사고 예방 나선다 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRMURCQzRIcE9FMngyUlZIUG1ReFJ6cHFHRE1zMzBtUzJtcG5pN0Z4S1hwT25GS3dMaWh3cVNZQ0RRdUJNaWdDM3hHYzJhQQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRMURCQzRIcE9FMngyUlZIUG1ReFJ6cHFHRE1zMzBtUzJtcG5pN0Z4S1hwT25GS3dMaWh3cVNZQ0RRdUJNaWdDM3hHYzJhQQ?oc=5\" target=\"_blank\">춘천시, AI CCTV로 공공건축 현장 안전사고 예방 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-    "published_at": "2026-06-01T09:54:32+09:00",
-    "cluster_id": "c76f",
-    "publisher": "전자신문",
-    "title_clean": "춘천시, AI CCTV로 공공건축 현장 안전사고 예방 나선다",
-    "summary": "춘천시가 공공건축 현장의 안전사고 예방을 위해 AI CCTV 기술을 도입하기로 결정했다. 이는 건설 현장의 실시간 모니터링과 위험 상황 자동 감지를 통해 안전관리를 강화하려는 시도다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T09:57:35+09:00",
-    "importance": 4
   }
 ]
