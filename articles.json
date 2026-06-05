@@ -19749,6 +19749,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "동부건설, 폭염·장마철 대비 현장 안전관리 강화 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJMmhPbDdPRlE4Nms0b0ZCS1ItbDNpb1NiQ1dwRi11SGNFamJUV2lhRGhFTmR3NEVXTVJ3clVoNUJXUFdrVm5McTk5d2l4cHNTb3I3M1JYTXlhYVUzWUYtQ01HVXY?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJMmhPbDdPRlE4Nms0b0ZCS1ItbDNpb1NiQ1dwRi11SGNFamJUV2lhRGhFTmR3NEVXTVJ3clVoNUJXUFdrVm5McTk5d2l4cHNTb3I3M1JYTXlhYVUzWUYtQ01HVXY?oc=5\" target=\"_blank\">동부건설, 폭염·장마철 대비 현장 안전관리 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+    "published_at": "2026-06-05T10:21:50+09:00",
+    "cluster_id": "2cf8",
+    "publisher": "매일일보",
+    "title_clean": "동부건설, 폭염·장마철 대비 현장 안전관리 강화",
+    "summary": "동부건설이 폭염과 장마철을 앞두고 현장 안전관리를 강화하는 조치를 취하고 있다. 이는 극한 기후 조건에서 발생할 수 있는 안전 사고를 사전에 예방하기 위한 건설사의 안전 관리 강화 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-06T05:42:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31305,20 +31321,5 @@
     "sentiment": "negative",
     "collected_at": "2026-06-01T14:57:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설·현대엔지니어링 연구조직 'HMG 건설기술연구원' 출범 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vNFZOVVRONUtVMEdDajVraXRZMzNJal9seUZQVTY0TWZmSnJ2QUFDTVNPTGhJc1F2WUhKZ0pRTWQ3cmNUUGE4TzBGWXhWNkpkaUtR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vNFZOVVRONUtVMEdDajVraXRZMzNJal9seUZQVTY0TWZmSnJ2QUFDTVNPTGhJc1F2WUhKZ0pRTWQ3cmNUUGE4TzBGWXhWNkpkaUtR?oc=5\" target=\"_blank\">현대건설·현대엔지니어링 연구조직 'HMG 건설기술연구원' 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "6280",
-    "publisher": "네이트",
-    "title_clean": "현대건설·현대엔지니어링 연구조직 'HMG 건설기술연구원' 출범",
-    "summary": "현대건설과 현대엔지니어링이 연구조직을 통합하여 'HMG 건설기술연구원'을 출범했다. 건설 기술 개발과 혁신을 강화하기 위한 조직 재편으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T14:57:49+09:00",
-    "importance": 2
   }
 ]
