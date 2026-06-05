@@ -19647,6 +19647,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토해양부 사이버홍보관입니다. - 국토교통부",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUlvNUlkbXpoX25HNmw1Q2VteEg0OHRuSnlJSHhyRWtSVVJmR21OakFYNTFCWWhNMGlTcFoybmc4cFJIM1VCV25Uel9kNzVORVR4Q1pKNzA4dHVPMHlkdzl3THZBNlFwWHp2UE5nMkw4T3JvMXRWY0RHYU80Tl92XzRIZGx0VDNrSTExQnJWMTh3NUVWcDhlM0NQUDJfODJVTThMZkNzZkl1NjN2TjdQZGFn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUlvNUlkbXpoX25HNmw1Q2VteEg0OHRuSnlJSHhyRWtSVVJmR21OakFYNTFCWWhNMGlTcFoybmc4cFJIM1VCV25Uel9kNzVORVR4Q1pKNzA4dHVPMHlkdzl3THZBNlFwWHp2UE5nMkw4T3JvMXRWY0RHYU80Tl92XzRIZGx0VDNrSTExQnJWMTh3NUVWcDhlM0NQUDJfODJVTThMZkNzZkl1NjN2TjdQZGFn?oc=5\" target=\"_blank\">국토해양부 사이버홍보관입니다.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토교통부</font>",
+    "cluster_id": "3de8",
+    "publisher": "국토교통부",
+    "title_clean": "국토해양부 사이버홍보관입니다.",
+    "summary": "국토해양부 사이버홍보관 관련 공지사항입니다. 구체적인 정책 내용이나 업계 영향을 파악하기 어렵습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-05T10:12:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31277,21 +31292,6 @@
     "title_clean": "안전보건공단, 10인 미만사업장 클린사업장 조성 확대",
     "summary": "안전보건공단이 10인 미만의 소규모 사업장을 대상으로 클린사업장 조성 사업을 확대하고 있다. 이는 소규모 건설사업장의 안전보건 관리 수준 향상을 지원하는 정책이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-06-01T10:12:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "포커스에이아이, 삼성물산과 AI 안전 카메라 'PNN CAM' 시연 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ib0c2Z21iYzBKUC1QalRfZzA1bUotTEJSbXZmclFzbnJ0cEdqbjBOSmdtcnpmdkNWN3dNTGdacjlxSUVJUHNkUjE0dVlSSVVaWjBF?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ib0c2Z21iYzBKUC1QalRfZzA1bUotTEJSbXZmclFzbnJ0cEdqbjBOSmdtcnpmdkNWN3dNTGdacjlxSUVJUHNkUjE0dVlSSVVaWjBF?oc=5\" target=\"_blank\">포커스에이아이, 삼성물산과 AI 안전 카메라 'PNN CAM' 시연</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "7332",
-    "publisher": "네이트",
-    "title_clean": "포커스에이아이, 삼성물산과 AI 안전 카메라 'PNN CAM' 시연",
-    "summary": "포커스에이아이가 삼성물산과 함께 AI 기반 안전 카메라 'PNN CAM'을 시연했다. 건설현장의 안전 관리 솔루션으로 건설업계의 안전 기술 고도화를 선도하는 움직임이다.",
-    "sentiment": "positive",
     "collected_at": "2026-06-01T10:12:27+09:00",
     "importance": 2
   }
