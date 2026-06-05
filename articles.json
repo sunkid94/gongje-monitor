@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "기계설비건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기단연, 2분기 정기회의서 향후 사업계획 보고 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VMjRHM1lSS2x4X2xCUGk3LW9UV2JTQnl5NDUweEQxM1JvTnNZejNMLXZraEoyTU1jb05Lc3pEclhVZnJPMl9MbV9DMlNuNV80LTA0b0hJWHFNdHpUSzZ2LWR5ekg0WFhFU1ExXw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5VMjRHM1lSS2x4X2xCUGk3LW9UV2JTQnl5NDUweEQxM1JvTnNZejNMLXZraEoyTU1jb05Lc3pEclhVZnJPMl9MbV9DMlNuNV80LTA0b0hJWHFNdHpUSzZ2LWR5ekg0WFhFU1ExXw?oc=5\" target=\"_blank\">기단연, 2분기 정기회의서 향후 사업계획 보고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
+    "published_at": "2026-06-04T18:10:00+09:00",
+    "cluster_id": "0b79",
+    "publisher": "기계설비신문",
+    "title_clean": "기단연, 2분기 정기회의서 향후 사업계획 보고",
+    "summary": "기단연(기계설비건설공제조합)이 2분기 정기회의를 개최하여 향후 사업계획을 보고했습니다. 구체적인 사업 내용은 기사 본문을 통해 확인할 수 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-05T12:52:30+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -4012,6 +4028,22 @@
     "sentiment": "neutral",
     "importance": 0,
     "cluster_id": "e9d8"
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'경기광주역 롯데캐슬 시그니처' 1단지, 8일 무순위 청약 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83NTlCODlEdWh1eExHclRER0ZmZ1VaejN3c29LbG1fTUV1UmpVb25aUVN4TGtYdnNDSC01djQ5MEhlbFFFOTdnSVBtU3BQaHpMRDZ6WlNqRTRrOTQxeFZQYQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE83NTlCODlEdWh1eExHclRER0ZmZ1VaejN3c29LbG1fTUV1UmpVb25aUVN4TGtYdnNDSC01djQ5MEhlbFFFOTdnSVBtU3BQaHpMRDZ6WlNqRTRrOTQxeFZQYQ?oc=5\" target=\"_blank\">'경기광주역 롯데캐슬 시그니처' 1단지, 8일 무순위 청약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+    "published_at": "2026-06-05T12:49:34+09:00",
+    "cluster_id": "1e73",
+    "publisher": "아시아경제",
+    "title_clean": "'경기광주역 롯데캐슬 시그니처' 1단지, 8일 무순위 청약",
+    "summary": "경기광주역 롯데캐슬 시그니처 1단지가 8일 무순위 청약을 진행한다. 대규모 주택건설 프로젝트의 청약 진행으로 건설사의 사업 추진이 순조로운 상황을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T12:52:30+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -19634,19 +19666,19 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "원전주, 미국·이란 휴전 양상이 변수…우리기술 두산에너빌리티 강세에 투자자 시선 집중, 오르비텍 비에치아이 우진엔텍은 하락 - CBC뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaLWx3bE5JcTFTS0lJMy1NQjU4LTJ4N3R5SFA5VDJ5NzZYUllnWTdUZTJYMmhFSDg5T2VjTFlBUUNDSWNMeTc4U2lEeUY0VWE3QkNSMG9DV1NFUTduQXhHVGtaVlFkNEx5?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaLWx3bE5JcTFTS0lJMy1NQjU4LTJ4N3R5SFA5VDJ5NzZYUllnWTdUZTJYMmhFSDg5T2VjTFlBUUNDSWNMeTc4U2lEeUY0VWE3QkNSMG9DV1NFUTduQXhHVGtaVlFkNEx5?oc=5\" target=\"_blank\">원전주, 미국·이란 휴전 양상이 변수…우리기술 두산에너빌리티 강세에 투자자 시선 집중, 오르비텍 비에치아이 우진엔텍은 하락</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC뉴스</font>",
-    "published_at": "2026-06-01T09:55:50+09:00",
-    "cluster_id": "32c7",
-    "publisher": "CBC뉴스",
-    "title_clean": "원전주, 미국·이란 휴전 양상이 변수…우리기술 두산에너빌리티 강세에 투자자 시선 집중, 오르비텍 비에치아이 우진엔텍은 하락",
-    "summary": "원전 관련주들이 미국·이란 휴전 양상에 따라 변동성을 보이고 있다. 우리 기술의 두산에너빌리티는 강세를 보이는 반면, 오르비텍, 비에치아이, 우진엔텍은 하락하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-01T10:07:38+09:00",
+    "title": "[라이즈(RISE) ‘기업’ 레이더] 경복대-GS건설, 현장형 직무 체험… “안전보건 전문가 양성” - 한국대학신문",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tc0cyQjIzc0lTczliRzM2WHY0NTVHYk1oTGdGZWZSeFgzaXdnOWNPcC1JXzAxMFpfVHJxRk5BalZKS3hqOXQ2SjhCdEVzQjhHb015eHFHWHFPR2Ytd1gzV25DMHB5Zw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tc0cyQjIzc0lTczliRzM2WHY0NTVHYk1oTGdGZWZSeFgzaXdnOWNPcC1JXzAxMFpfVHJxRk5BalZKS3hqOXQ2SjhCdEVzQjhHb015eHFHWHFPR2Ytd1gzV25DMHB5Zw?oc=5\" target=\"_blank\">[라이즈(RISE) ‘기업’ 레이더] 경복대-GS건설, 현장형 직무 체험… “안전보건 전문가 양성”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국대학신문</font>",
+    "published_at": "2026-06-05T12:44:25+09:00",
+    "cluster_id": "5274",
+    "publisher": "한국대학신문",
+    "title_clean": "[라이즈(RISE) ‘기업’ 레이더] 경복대-GS건설, 현장형 직무 체험… “안전보건 전문가 양성”",
+    "summary": "경복대와 GS건설이 협력하여 현장형 직무 체험 프로그램을 운영하며 안전보건 전문가 양성에 나서고 있다. 건설업계의 안전보건 인력 양성을 통해 산업 기반을 강화하는 긍정적 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T12:52:30+09:00",
     "importance": 2
   },
   {
@@ -31269,37 +31301,6 @@
     "summary": "춘천시가 공사현장에 AI 기반 스마트 안전관리 시스템을 도입하여 안전모 미착용 등을 자동으로 감지하고 알린다. 이는 건설현장의 산업재해 예방을 강화하는 기술 적용 사례이다.",
     "sentiment": "negative",
     "collected_at": "2026-06-01T10:52:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부천시, 우기·폭염 대비 소규모 건축 공사장 안전 점검 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rVzJlN05zcndUel80cF9sbVZNamxNdVJCWWJ5eGNmMXdVbEJqd1ZsSEpRaDNwSjI1c1hIQ2V5eUFrUVlwSVNtUEJ5d0U5emp2bm1wZDJzYWVVVFJobGxlbA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rVzJlN05zcndUel80cF9sbVZNamxNdVJCWWJ5eGNmMXdVbEJqd1ZsSEpRaDNwSjI1c1hIQ2V5eUFrUVlwSVNtUEJ5d0U5emp2bm1wZDJzYWVVVFJobGxlbA?oc=5\" target=\"_blank\">부천시, 우기·폭염 대비 소규모 건축 공사장 안전 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "447b",
-    "publisher": "네이트",
-    "title_clean": "부천시, 우기·폭염 대비 소규모 건축 공사장 안전 점검",
-    "summary": "부천시가 우기와 폭염에 대비하여 소규모 건축 공사장에 대한 안전 점검을 실시한다. 이는 극한 기후 조건에서의 건설 현장 안전관리 강화 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T10:52:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대구 서구, 중대재해 없는 안전 일터 만들기 총력... 건설 현장 중대산업재해 예방 캠페인 및 현장 점검 - 시사일보",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JaFhaVklQYWQzVWtnQzUtc2FrdmxscmQ2SjkzTk9DeXdib2g2LXVZT3FvZDJrOXFIbVpHVVZIa1pOOVdjMnNwRjBsS0M?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JaFhaVklQYWQzVWtnQzUtc2FrdmxscmQ2SjkzTk9DeXdib2g2LXVZT3FvZDJrOXFIbVpHVVZIa1pOOVdjMnNwRjBsS0M?oc=5\" target=\"_blank\">대구 서구, 중대재해 없는 안전 일터 만들기 총력... 건설 현장 중대산업재해 예방 캠페인 및 현장 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사일보</font>",
-    "published_at": "2026-06-01T09:18:00+09:00",
-    "cluster_id": "edf3",
-    "publisher": "시사일보",
-    "title_clean": "대구 서구, 중대재해 없는 안전 일터 만들기 총력... 건설 현장 중대산업재해 예방 캠페인 및 현장 점검",
-    "summary": "대구 서구에서 건설 현장의 중대산업재해 예방을 위한 캠페인 및 현장 점검을 실시하고 있다. 안전 일터 조성을 목표로 한 관계 기관의 적극적인 감시 및 지도 활동이 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T10:47:39+09:00",
     "importance": 4
   }
 ]
