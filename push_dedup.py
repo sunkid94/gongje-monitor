@@ -25,6 +25,12 @@ _PUNCT_RE = re.compile(r"""["'''""()\[\]<>·,.\-–—:;!?…""'']+""")
 # 선두 대괄호 섹션 태그 (예: "[마켓인]나신평…") — lead 추출 시 제거
 _LEADING_BRACKET_RE = re.compile(r"^\s*\[[^\]]*\]\s*")
 
+# 같은 조직의 다른 표기 — 여기에 추가하면 묶임 (모두 소문자/정규화 형태로 비교됨)
+ORG_ALIASES = {
+    "전문건설공제조합": ["전문조합", "k finco", "kfinco", "k-finco"],
+    "기계설비건설공제조합": ["cig", "기계설비공제조합"],   # 우리 조합
+}
+
 
 def story_key(title: str) -> set:
     """제목을 정규화해 핵심어 토큰 집합을 반환."""
@@ -49,6 +55,27 @@ def story_lead(title: str) -> str:
     head = _LEADING_BRACKET_RE.sub("", head)
     cleaned = _PUNCT_RE.sub(" ", head).lower()
     return " ".join(cleaned.split())
+
+
+def canonical_org(title: str) -> str:
+    """선두 조직명을 대표 이름으로 환산. 별칭이면 대표값, 아니면 lead 원본.
+
+    ORG_ALIASES 의 대표명 또는 별칭 문자열이 정규화된 lead 에 포함되면 그 대표명을 반환한다.
+    목록에 없으면 lead 를 그대로 돌려준다(보수적 = 안 묶음). 더 구체적인(긴) 후보부터
+    검사해 짧은 별칭의 오매칭을 줄인다.
+    """
+    lead = story_lead(title)
+    if not lead:
+        return ""
+    candidates = []
+    for canon, aliases in ORG_ALIASES.items():
+        for name in [canon] + aliases:
+            candidates.append((name.lower(), canon))
+    candidates.sort(key=lambda x: len(x[0]), reverse=True)
+    for name, canon in candidates:
+        if name in lead:
+            return canon
+    return lead
 
 
 def similarity(a: set, b: set) -> float:

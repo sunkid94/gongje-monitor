@@ -243,3 +243,27 @@ def test_filter_suppresses_bracketed_and_plain_same_org(tmp_path):
         )
     assert to_push == []
     assert len(suppressed) == 1
+
+
+def test_canonical_org_maps_aliases_to_canonical():
+    # 전문건설공제조합 별칭들
+    assert push_dedup.canonical_org("전문조합, 보험지급능력 A+ 유지 - 대한경제") == "전문건설공제조합"
+    assert push_dedup.canonical_org("K-FINCO, 피치 신용등급 'A+' 유지 - 뉴스핌") == "전문건설공제조합"
+    assert push_dedup.canonical_org("전문건설공제조합, 피치 A+ 유지 - 국토일보") == "전문건설공제조합"
+
+
+def test_canonical_org_maps_our_coop_aliases():
+    assert push_dedup.canonical_org("CIG, 창립 30주년 - 매체") == "기계설비건설공제조합"
+    assert push_dedup.canonical_org("기계설비건설공제조합, 신규 사업 - 매체") == "기계설비건설공제조합"
+
+
+def test_canonical_org_unknown_returns_lead():
+    # 별칭 목록에 없는 조직 → 선두 lead 원본(정규화) 그대로
+    assert push_dedup.canonical_org("나신평, 삼성중공업 신용등급 상향 - 이데일리") == "나신평"
+
+
+def test_canonical_org_does_not_cross_groups():
+    # 우리 조합과 전문건설은 다른 그룹 — 절대 같은 canon 아님
+    a = push_dedup.canonical_org("기계설비건설공제조합, 피치 A+ 유지 - 매체")
+    b = push_dedup.canonical_org("전문건설공제조합, 피치 A+ 유지 - 매체")
+    assert a != b
