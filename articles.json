@@ -4014,6 +4014,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 젠슨 황 방한 속 재료 소멸 우려 및 시장 약세에 2%대 하락 : 경제 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mRnBZNFVKVlZXTmFpNXVJdktfU0lfczAybjBWc3B3SF9WX2trTnJVQXBrM3RqQXBpWDgzeEFjeGpZRy1mVjZaSUtn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mRnBZNFVKVlZXTmFpNXVJdktfU0lfczAybjBWc3B3SF9WX2trTnJVQXBrM3RqQXBpWDgzeEFjeGpZRy1mVjZaSUtn?oc=5\" target=\"_blank\">두산에너빌리티, 젠슨 황 방한 속 재료 소멸 우려 및 시장 약세에 2%대 하락 : 경제</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+    "published_at": "2026-06-05T00:00:00+00:00",
+    "cluster_id": "0f1b",
+    "publisher": "재경일보",
+    "title_clean": "두산에너빌리티, 젠슨 황 방한 속 재료 소멸 우려 및 시장 약세에 2%대 하락 : 경제",
+    "summary": "두산에너빌리티가 젠슨 황의 방한 관련 긍정적 재료 소멸 우려와 시장 약세의 영향으로 2%대 하락했다. 건설·기계설비 관련 호재가 부재하면서 주가가 약세를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-05T12:47:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -19634,20 +19650,36 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 외국인 근로자 소통 벽 허문다…‘건설 특화 실시간 AI 번역기’ - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqRkNLdHlhRlJ5WGNoZHoxUGpXSFFZNTNBV3JVMU9NU3FDbDZ0anN4bUFya0tTYW1sWG9MS092MEswTmxUWkR2MnBwMGdxWEpXSXdQelhaU18?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqRkNLdHlhRlJ5WGNoZHoxUGpXSFFZNTNBV3JVMU9NU3FDbDZ0anN4bUFya0tTYW1sWG9MS092MEswTmxUWkR2MnBwMGdxWEpXSXdQelhaU18?oc=5\" target=\"_blank\">대우건설, 외국인 근로자 소통 벽 허문다…‘건설 특화 실시간 AI 번역기’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-    "published_at": "2026-06-01T10:01:33+09:00",
-    "cluster_id": "de11",
-    "publisher": "매일경제",
-    "title_clean": "대우건설, 외국인 근로자 소통 벽 허문다…‘건설 특화 실시간 AI 번역기’",
-    "summary": "대우건설이 외국인 근로자의 의사소통 효율성을 높이기 위해 건설 현장 특화 실시간 AI 번역기를 도입했다. 언어 장벽 해소로 안전성 강화 및 업무 생산성 개선을 기대할 수 있다.",
+    "title": "BS한양-대보건설, 경기 ‘고덕국제신도시 수자인하우스디’ 이달 분양 - 아시아투데이",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nd0VSR2lmcklLYkJfM0kyczBkYnpqZVBfRkduOEFKcU00all1WlhTWTNOdi1Ca0JWTkNyTnZfYVIzbWJ3WU9McXl2R3RNcG5saXBVM1RnSDRiUnhvbFFjQ1g5NDc2T0JCTFJWQzhR?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1nd0VSR2lmcklLYkJfM0kyczBkYnpqZVBfRkduOEFKcU00all1WlhTWTNOdi1Ca0JWTkNyTnZfYVIzbWJ3WU9McXl2R3RNcG5saXBVM1RnSDRiUnhvbFFjQ1g5NDc2T0JCTFJWQzhR?oc=5\" target=\"_blank\">BS한양-대보건설, 경기 ‘고덕국제신도시 수자인하우스디’ 이달 분양</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아투데이</font>",
+    "published_at": "2026-06-05T09:40:14+09:00",
+    "cluster_id": "caf5",
+    "publisher": "아시아투데이",
+    "title_clean": "BS한양-대보건설, 경기 ‘고덕국제신도시 수자인하우스디’ 이달 분양",
+    "summary": "BS한양과 대보건설이 경기 고덕국제신도시에서 '수자인하우스디' 아파트를 이달 분양한다. 신도시 개발에 따른 주택 공급 프로젝트로, 건설업체의 수주 기회 증대를 의미한다.",
     "sentiment": "positive",
-    "collected_at": "2026-06-01T10:07:38+09:00",
-    "importance": 3
+    "collected_at": "2026-06-05T12:47:33+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대우건설, 서울 장위 대단지 분양 본격화에도 건설 경기 둔화 우려에 하락세 : 경제 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yWEpvUXo4VEJNRmxoaU1MZHJOVjU4SV8wWlhwVGRXYm9fb2w0amVRaVJtZVRBYkhFWmZ2NVBSZjNsd1RVM3l3RW9n?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yWEpvUXo4VEJNRmxoaU1MZHJOVjU4SV8wWlhwVGRXYm9fb2w0amVRaVJtZVRBYkhFWmZ2NVBSZjNsd1RVM3l3RW9n?oc=5\" target=\"_blank\">대우건설, 서울 장위 대단지 분양 본격화에도 건설 경기 둔화 우려에 하락세 : 경제</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+    "published_at": "2026-06-05T00:00:00+00:00",
+    "cluster_id": "02db",
+    "publisher": "재경일보",
+    "title_clean": "대우건설, 서울 장위 대단지 분양 본격화에도 건설 경기 둔화 우려에 하락세 : 경제",
+    "summary": "대우건설이 서울 장위 대단지 분양을 본격화하고 있으나, 전반적인 건설 경기 둔화 우려로 인해 주가가 하락세를 보이고 있다. 분양 호재에도 불구하고 건설업계 경기 부진이 투자 심리를 위축시키고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-05T12:47:33+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -31269,35 +31301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-06-01T10:47:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, 퇴직공제 이행 우수 사업장ㆍ기관 포상 추진 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYTBKcTRPV0pzOE1zN21BOG01SklYTkdCcXN5VnhoREMya2J3bXlDR0VwLUwtMkNwbkM2VnlLZHN4YURDamY5X29IdDVXd1lhQnpmVGI5TnBZRGpEZmlUVUdRME52bGFOMTdrdlVrT0VlSFph?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYTBKcTRPV0pzOE1zN21BOG01SklYTkdCcXN5VnhoREMya2J3bXlDR0VwLUwtMkNwbkM2VnlLZHN4YURDamY5X29IdDVXd1lhQnpmVGI5TnBZRGpEZmlUVUdRME52bGFOMTdrdlVrT0VlSFph?oc=5\" target=\"_blank\">건설근로자공제회, 퇴직공제 이행 우수 사업장ㆍ기관 포상 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "9ffe",
-    "publisher": "대한경제",
-    "title_clean": "건설근로자공제회, 퇴직공제 이행 우수 사업장ㆍ기관 포상 추진",
-    "summary": "건설근로자공제회가 퇴직공제 이행을 우수하게 수행한 사업장과 기관을 대상으로 포상을 추진한다. 이는 건설근로자의 퇴직공제 관리 개선 및 업계의 준칙 준수를 장려하는 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T10:47:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "포커스에이아이, 삼성물산과 AI 안전 카메라 시연 성료 - 톱데일리",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13TG01MnhMS2lxazlxQUc4cVJsQ2xITU9BYnNILVg5NEgxV3NyVzBfUEZHZDc3QlNNN0FleDczSXFQV2VvcTd5azlTcTJBRDdI?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE13TG01MnhMS2lxazlxQUc4cVJsQ2xITU9BYnNILVg5NEgxV3NyVzBfUEZHZDc3QlNNN0FleDczSXFQV2VvcTd5azlTcTJBRDdI?oc=5\" target=\"_blank\">포커스에이아이, 삼성물산과 AI 안전 카메라 시연 성료</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">톱데일리</font>",
-    "cluster_id": "a351",
-    "publisher": "톱데일리",
-    "title_clean": "포커스에이아이, 삼성물산과 AI 안전 카메라 시연 성료",
-    "summary": "포커스에이아이가 삼성물산과 협력하여 AI 기반 안전 카메라 시연을 완료했다. 이는 건설 현장의 안전 관리 기술 고도화를 의미하며, 건설업계의 스마트 안전 솔루션 수요 증가를 반영한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T10:42:37+09:00",
-    "importance": 2
   }
 ]
