@@ -337,3 +337,25 @@ def test_filter_v2_same_org_different_event_not_suppressed(tmp_path):
         )
     assert len(to_push) == 1
     assert suppressed == []
+
+
+def test_filter_v2_rating_change_not_suppressed_by_maintain(tmp_path):
+    # 등급 '상향'은 직전 '유지' 알림에 묻히면 안 됨 (홍보상 놓치면 치명적)
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - A")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("전문건설공제조합, 피치 신용등급 A+ 상향 - B")], _now() + timedelta(hours=2))
+    assert len(to_push) == 1     # 상향은 별개로 발송
+    assert suppressed == []
+
+
+def test_filter_v2_same_direction_still_merges(tmp_path):
+    # 둘 다 '유지' → 같은 사건으로 여전히 묶임 (방향 가드가 정상 병합을 깨지 않음)
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed([_article("전문건설공제조합, 피치 신용등급 A+ 유지 - A")], _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [_article("전문건설공제조합, 피치 국제신용등급 A+ 유지 - B")], _now() + timedelta(hours=2))
+    assert to_push == []
+    assert len(suppressed) == 1

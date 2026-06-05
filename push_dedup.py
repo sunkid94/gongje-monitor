@@ -18,6 +18,9 @@ OVERLAP_THRESHOLD = 0.7
 WINDOW_HOURS = 168   # 7일 — 며칠 이어지는 사건도 1번만 알림
 _MIN_TOKEN_LEN = 2
 
+# 등급/전망 '방향' 토큰 — 방향이 서로 다르면 같은 조직·유사 제목이라도 다른 사건(놓치면 안 됨)
+RATING_DIRECTION_TOKENS = {"상향", "하향", "유지", "강등", "상승", "하락"}
+
 # 매체명 접미사 분리용: 제목은 "… 본문 - 매체명" 형태
 _PUBLISHER_SEP = " - "
 # 토큰 경계로 치환할 기호 (단, '+' 는 'A+' 같은 등급 표기 보존 위해 제외)
@@ -158,6 +161,23 @@ def save_pushed(entries: List[dict], now: datetime) -> None:
         raise
 
 
+def _same_story(key: set, canon: str, entry: dict) -> bool:
+    """이미 푸시한 entry 와 같은 스토리인지 — 대표조직 일치 + 포함도>=임계값.
+
+    단, 등급 '방향'(상향/하향/유지 등)이 둘 다 있으면서 서로 다르면 다른 사건으로 본다
+    (예: '상향' 뉴스가 직전 '유지' 알림에 묻혀 누락되는 것 방지).
+    """
+    if not entry["tokens"] or entry.get("canon", "") != canon:
+        return False
+    if overlap(key, entry["tokens"]) < OVERLAP_THRESHOLD:
+        return False
+    d1 = key & RATING_DIRECTION_TOKENS
+    d2 = entry["tokens"] & RATING_DIRECTION_TOKENS
+    if d1 and d2 and d1 != d2:
+        return False
+    return True
+
+
 def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[dict], List[dict]]:
     """7일 내 같은 대표조직·같은 사건(overlap>=임계값)으로 이미 푸시했으면 억제.
 
@@ -173,11 +193,7 @@ def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[d
         title = art.get("title", "")
         key = story_key(title)
         canon = canonical_org(title)
-        if key and any(
-            e["tokens"] and e.get("canon", "") == canon
-            and overlap(key, e["tokens"]) >= OVERLAP_THRESHOLD
-            for e in accepted
-        ):
+        if key and any(_same_story(key, canon, e) for e in accepted):
             suppressed.append(art)
             continue
         to_push.append(art)
