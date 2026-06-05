@@ -19704,6 +19704,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "계룡건설 수주공시 - 에코델타시티 1BL 민간참여 공공분양주택 건립사업 1,506.7억원 (매출액대비 5.22 %) - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzZ3FMMzF1SXRKaHdobkdTcl93TFhwZGotcTYtb3hjRXVpQ01PSGIwMFlhSGxpdFRXVk9yUi1zMmJ4anV1WEl2UTJLMVBiV29TaUJZ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzZ3FMMzF1SXRKaHdobkdTcl93TFhwZGotcTYtb3hjRXVpQ01PSGIwMFlhSGxpdFRXVk9yUi1zMmJ4anV1WEl2UTJLMVBiV29TaUJZ?oc=5\" target=\"_blank\">계룡건설 수주공시 - 에코델타시티 1BL 민간참여 공공분양주택 건립사업 1,506.7억원 (매출액대비 5.22 %)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+    "cluster_id": "8f3a",
+    "publisher": "네이트",
+    "title_clean": "계룡건설 수주공시 - 에코델타시티 1BL 민간참여 공공분양주택 건립사업 1,506.7억원 (매출액대비 5.22 %)",
+    "summary": "계룡건설이 에코델타시티 1BL 민간참여 공공분양주택 건립사업을 1,506.7억원에 수주했습니다. 이는 계룡건설의 연간 매출액 대비 5.22%에 해당하는 규모입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T15:52:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -31294,21 +31309,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-06-01T12:07:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "용인시, 건축공사 안전 점검 전문기관 공개 모집 - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbGZ0SEVJNS1NdlBtUmpEM3lDSkc2d29UcU5TYTI5RzQwMkdjN3VOUW9JZk5KUENoWS1WOVUydFJaZzB4NjcxbERJYkxZNVlZSWhFaVFoUG1sWjNHRzBEVHYyb0gxRE4zUXh4ellaSWjSAXRBVV95cUxNeV9QT1E2VVd0emF0LWtOYy1WdnRNQUg3R1V6WnZLOEJabGd3UWRIOTE5ckVmTHA2MzViVk9STXREcG80c1RRckFoZnV0MjJoLVBoblFGdjh6MUtremM5dWVUeDNITmpsLW80ZTZwa19kdDJ6eA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbGZ0SEVJNS1NdlBtUmpEM3lDSkc2d29UcU5TYTI5RzQwMkdjN3VOUW9JZk5KUENoWS1WOVUydFJaZzB4NjcxbERJYkxZNVlZSWhFaVFoUG1sWjNHRzBEVHYyb0gxRE4zUXh4ellaSWjSAXRBVV95cUxNeV9QT1E2VVd0emF0LWtOYy1WdnRNQUg3R1V6WnZLOEJabGd3UWRIOTE5ckVmTHA2MzViVk9STXREcG80c1RRckFoZnV0MjJoLVBoblFGdjh6MUtremM5dWVUeDNITmpsLW80ZTZwa19kdDJ6eA?oc=5\" target=\"_blank\">용인시, 건축공사 안전 점검 전문기관 공개 모집</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이뉴스투데이</font>",
-    "published_at": "2026-06-01T11:45:00+09:00",
-    "cluster_id": "13ca",
-    "publisher": "이뉴스투데이",
-    "title_clean": "용인시, 건축공사 안전 점검 전문기관 공개 모집",
-    "summary": "용인시가 건축공사 안전 점검을 담당할 전문기관을 공개 모집한다. 이는 건설 현장의 안전 관리 체계를 강화하려는 조치로, 건설업계에 안전 규제 강화를 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T12:07:36+09:00",
-    "importance": 4
   }
 ]
