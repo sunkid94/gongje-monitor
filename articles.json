@@ -4094,6 +4094,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성重, 시더 FLNG 진수 성공 - 한국해운신문",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12dDJCTTU0dmR4SnFZeUJYaU9ScWR4UXlkMjRxTFRnbURfeDBMWVlRSmNMNlFXeE5UU0M5djFCaUkxSkR0ZVpMNWJCcU9ac1BmQWZ5RncyMXV5Z0xWaDQwbFA0Ti03aTJTV1Juc2ZXSFlGMkk?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE12dDJCTTU0dmR4SnFZeUJYaU9ScWR4UXlkMjRxTFRnbURfeDBMWVlRSmNMNlFXeE5UU0M5djFCaUkxSkR0ZVpMNWJCcU9ac1BmQWZ5RncyMXV5Z0xWaDQwbFA0Ti03aTJTV1Juc2ZXSFlGMkk?oc=5\" target=\"_blank\">삼성重, 시더 FLNG 진수 성공</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국해운신문</font>",
+    "published_at": "2026-06-05T17:56:23+09:00",
+    "cluster_id": "1631",
+    "publisher": "한국해운신문",
+    "title_clean": "삼성重, 시더 FLNG 진수 성공",
+    "summary": "삼성중공업이 시더(Cedar) FLNG(부유식 액화천연가스생산저장선적설비) 진수에 성공했다. 이는 대형 해양플랜트 수주 수행 능력을 입증하는 성과로 건설업계의 기술력과 수주 경쟁력을 강화하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T18:57:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19725,22 +19741,6 @@
     "publisher": "meconomynews.com",
     "title_clean": "대우건설, 외국인 근로자 소통 위한 '실시간 AI 번역기' 개발",
     "summary": "대우건설이 외국인 근로자와의 의사소통을 위해 실시간 AI 번역기를 개발했다. 이는 건설현장의 언어 장벽 해소로 작업 효율성 향상과 안전성 강화에 기여할 수 있는 기술 혁신이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T15:47:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, AI 번역기로 외국인 근로자 언어장벽 허문다 - 더팩트",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNUxFVTRJY3FoUFhFM2Y2Z2pmeFRfQW1kaUxLcGJqeTh1bnQtZkE5NU1xQjBKZnd2bURta01yT3RDaW1QbkEteXZGcU4tWmJweWV2YVRSdlpoUdIBVEFVX3lxTE5HT0liZTJIcmk1bElkQ0ZrTndXWXpTd2tXRGpkQVlTXzM5ZHJqM05hbXNQZlZFWndZdnlQWWplWHB3X01MZjR2NzV4Znp5a2U5UGJ2VQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNUxFVTRJY3FoUFhFM2Y2Z2pmeFRfQW1kaUxLcGJqeTh1bnQtZkE5NU1xQjBKZnd2bURta01yT3RDaW1QbkEteXZGcU4tWmJweWV2YVRSdlpoUdIBVEFVX3lxTE5HT0liZTJIcmk1bElkQ0ZrTndXWXpTd2tXRGpkQVlTXzM5ZHJqM05hbXNQZlZFWndZdnlQWWplWHB3X01MZjR2NzV4Znp5a2U5UGJ2VQ?oc=5\" target=\"_blank\">대우건설, AI 번역기로 외국인 근로자 언어장벽 허문다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더팩트</font>",
-    "published_at": "2026-06-01T15:27:55+09:00",
-    "cluster_id": "928e",
-    "publisher": "더팩트",
-    "title_clean": "대우건설, AI 번역기로 외국인 근로자 언어장벽 허문다",
-    "summary": "대우건설이 AI 번역기를 도입하여 외국인 근로자의 언어장벽 문제를 해결하는 사례를 소개했다. 이는 건설현장의 의사소통 개선과 안전성 향상을 통해 업무 효율성을 높이는 긍정적 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T15:47:53+09:00",
     "importance": 2
