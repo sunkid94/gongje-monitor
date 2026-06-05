@@ -1,7 +1,7 @@
 """푸시 스토리 단위 중복제거.
 
-같은 뉴스 사건이 여러 매체/cluster_id 로 흩어져 24시간 내 반복 푸시되는 것을 막는다.
-제목 핵심어 집합(story_key) 의 Jaccard 유사도가 임계값 이상이면 같은 스토리로 간주한다.
+같은 뉴스 사건이 여러 매체/표기/수식어로 흩어져 7일 내 반복 푸시되는 것을 막는다.
+대표조직(canonical_org) 이 같고 핵심어 포함도(overlap) 가 임계값 이상이면 같은 스토리로 본다.
 """
 import json
 import logging
@@ -14,9 +14,12 @@ from typing import List, Tuple
 logger = logging.getLogger(__name__)
 
 PUSHED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pushed.json")
-SIMILARITY_THRESHOLD = 0.6
-WINDOW_HOURS = 24
+OVERLAP_THRESHOLD = 0.7
+WINDOW_HOURS = 168   # 7일 — 며칠 이어지는 사건도 1번만 알림
 _MIN_TOKEN_LEN = 2
+
+# 등급/전망 '방향' 토큰 — 방향이 서로 다르면 같은 조직·유사 제목이라도 다른 사건(놓치면 안 됨)
+RATING_DIRECTION_TOKENS = {"상향", "하향", "유지", "강등", "상승", "하락"}
 
 # 매체명 접미사 분리용: 제목은 "… 본문 - 매체명" 형태
 _PUBLISHER_SEP = " - "
@@ -24,6 +27,14 @@ _PUBLISHER_SEP = " - "
 _PUNCT_RE = re.compile(r"""["'''""()\[\]<>·,.\-–—:;!?…""'']+""")
 # 선두 대괄호 섹션 태그 (예: "[마켓인]나신평…") — lead 추출 시 제거
 _LEADING_BRACKET_RE = re.compile(r"^\s*\[[^\]]*\]\s*")
+
+# 같은 조직의 다른 표기 — 여기에 추가하면 묶임.
+# 주의: story_lead 가 소문자화 + 구두점을 공백으로 바꾸므로, 별칭은 그 결과 형태(공백 구분,
+# 하이픈 없음)로 적어야 함. 예: "K-FINCO" 가 아니라 "k finco".
+ORG_ALIASES = {
+    "전문건설공제조합": ["전문조합", "k finco", "kfinco"],
+    "기계설비건설공제조합": ["cig", "기계설비공제조합"],   # 우리 조합
+}
 
 
 def story_key(title: str) -> set:
@@ -51,14 +62,36 @@ def story_lead(title: str) -> str:
     return " ".join(cleaned.split())
 
 
-def similarity(a: set, b: set) -> float:
-    """Jaccard 유사도. 합집합이 비면 0."""
+def canonical_org(title: str) -> str:
+    """선두 조직명을 대표 이름으로 환산. 별칭이면 대표값, 아니면 lead 원본.
+
+    ORG_ALIASES 의 대표명 또는 별칭 문자열이 정규화된 lead 에 포함되면 그 대표명을 반환한다.
+    목록에 없으면 lead 를 그대로 돌려준다(보수적 = 안 묶음). 더 구체적인(긴) 후보부터
+    검사해 짧은 별칭의 오매칭을 줄인다.
+    """
+    lead = story_lead(title)
+    if not lead:
+        return ""
+    candidates = []
+    for canon, aliases in ORG_ALIASES.items():
+        for name in [canon] + aliases:
+            candidates.append((name.lower(), canon))
+    candidates.sort(key=lambda x: len(x[0]), reverse=True)
+    padded = f" {lead} "
+    for name, canon in candidates:
+        if f" {name} " in padded:
+            return canon
+    return lead
+
+
+def overlap(a: set, b: set) -> float:
+    """포함도 계수 = 교집합 / 더 짧은 쪽 크기. 둘 중 하나라도 비면 0.
+
+    수식어가 붙어 길어진 헤드라인 변형(짧은 제목 ⊂ 긴 제목)을 Jaccard 보다 잘 잡는다.
+    """
     if not a or not b:
         return 0.0
-    union = a | b
-    if not union:
-        return 0.0
-    return len(a & b) / len(union)
+    return len(a & b) / min(len(a), len(b))
 
 
 def _parse_dt(s: str) -> datetime:
@@ -93,7 +126,7 @@ def load_pushed(now: datetime) -> List[dict]:
             continue
         out.append({
             "tokens": set(item.get("tokens", [])),
-            "lead": item.get("lead", ""),
+            "canon": item.get("canon", ""),
             "pushed_at": item["pushed_at"],
             "title": item.get("title", ""),
         })
@@ -112,7 +145,7 @@ def save_pushed(entries: List[dict], now: datetime) -> None:
             continue
         serializable.append({
             "tokens": sorted(e.get("tokens", [])),
-            "lead": e.get("lead", ""),
+            "canon": e.get("canon", ""),
             "pushed_at": e["pushed_at"],
             "title": e.get("title", ""),
         })
@@ -128,8 +161,25 @@ def save_pushed(entries: List[dict], now: datetime) -> None:
         raise
 
 
+def _same_story(key: set, canon: str, entry: dict) -> bool:
+    """이미 푸시한 entry 와 같은 스토리인지 — 대표조직 일치 + 포함도>=임계값.
+
+    단, 등급 '방향'(상향/하향/유지 등)이 둘 다 있으면서 서로 다르면 다른 사건으로 본다
+    (예: '상향' 뉴스가 직전 '유지' 알림에 묻혀 누락되는 것 방지).
+    """
+    if not entry["tokens"] or entry.get("canon", "") != canon:
+        return False
+    if overlap(key, entry["tokens"]) < OVERLAP_THRESHOLD:
+        return False
+    d1 = key & RATING_DIRECTION_TOKENS
+    d2 = entry["tokens"] & RATING_DIRECTION_TOKENS
+    if d1 and d2 and d1 != d2:
+        return False
+    return True
+
+
 def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[dict], List[dict]]:
-    """24h 내 이미 푸시한 스토리와 Jaccard >= 임계값이면 억제.
+    """7일 내 같은 대표조직·같은 사건(overlap>=임계값)으로 이미 푸시했으면 억제.
 
     반환: (to_push, suppressed). 새로 채택한 스토리는 pushed.json 에 기록한다.
     제목 키가 비면(추출 실패) 안전쪽으로 발송하되 이력에는 남기지 않는다.
@@ -142,17 +192,13 @@ def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[d
     for art in company_articles:
         title = art.get("title", "")
         key = story_key(title)
-        lead = story_lead(title)
-        if key and any(
-            e["tokens"] and e.get("lead", "") == lead
-            and similarity(key, e["tokens"]) >= SIMILARITY_THRESHOLD
-            for e in accepted
-        ):
+        canon = canonical_org(title)
+        if key and any(_same_story(key, canon, e) for e in accepted):
             suppressed.append(art)
             continue
         to_push.append(art)
         if key:
-            accepted.append({"tokens": key, "lead": lead, "pushed_at": now_iso, "title": title})
+            accepted.append({"tokens": key, "canon": canon, "pushed_at": now_iso, "title": title})
 
     save_pushed(accepted, now)
     return to_push, suppressed
