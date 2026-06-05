@@ -284,3 +284,20 @@ def test_canonical_org_matches_org_with_prefix():
 def test_canonical_org_kfinco_without_separator():
     # "KFINCO"(구분자 없음) → "kfinco" 별칭으로 매칭
     assert push_dedup.canonical_org("KFINCO, 피치 신용등급 A+ 유지 - 매체") == "전문건설공제조합"
+
+
+def test_overlap_subset_is_one():
+    # 짧은 집합이 긴 집합에 완전히 포함되면 1.0
+    assert push_dedup.overlap({"피치", "a+", "유지"}, {"피치", "a+", "유지", "자본력", "탄탄"}) == 1.0
+
+
+def test_overlap_value_is_intersection_over_min():
+    a = {"전문건설공제조합", "피치", "신용등급", "a+", "유지"}              # 5
+    b = {"전문건설공제조합", "피치", "국제신용등급", "a+", "유지", "자본력"}  # 6, 교집합 4
+    assert push_dedup.overlap(a, b) == 4 / 5   # min(5,6)=5
+
+
+def test_overlap_empty_is_zero():
+    assert push_dedup.overlap(set(), {"a"}) == 0.0
+    assert push_dedup.overlap({"a"}, set()) == 0.0
+    assert push_dedup.overlap(set(), set()) == 0.0

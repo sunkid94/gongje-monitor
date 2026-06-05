@@ -91,6 +91,16 @@ def similarity(a: set, b: set) -> float:
     return len(a & b) / len(union)
 
 
+def overlap(a: set, b: set) -> float:
+    """포함도 계수 = 교집합 / 더 짧은 쪽 크기. 둘 중 하나라도 비면 0.
+
+    수식어가 붙어 길어진 헤드라인 변형(짧은 제목 ⊂ 긴 제목)을 Jaccard 보다 잘 잡는다.
+    """
+    if not a or not b:
+        return 0.0
+    return len(a & b) / min(len(a), len(b))
+
+
 def _parse_dt(s: str) -> datetime:
     dt = datetime.fromisoformat(s)
     if dt.tzinfo is None:
