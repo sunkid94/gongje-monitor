@@ -19708,6 +19708,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[안전을 지키는 여름대응]동부건설, 폭염·장마철 안전관리 총력…“근로자 생명 보호 최우선” - 전국뉴스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MbDNlRXo2Zi1pVDVVZVNGUmptNEU3VFhHUlpZVFgzVUJHV3FWVms4Q1ZKZkZuYzE2TEd1cWdEbXFJYUMyV3p6VkRsR0Q4dkVkWDRSSldpWmU2TlpZYm1qRzR4dV83V19HNkNFTHBCWXQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9MbDNlRXo2Zi1pVDVVZVNGUmptNEU3VFhHUlpZVFgzVUJHV3FWVms4Q1ZKZkZuYzE2TEd1cWdEbXFJYUMyV3p6VkRsR0Q4dkVkWDRSSldpWmU2TlpZYm1qRzR4dV83V19HNkNFTHBCWXQ?oc=5\" target=\"_blank\">[안전을 지키는 여름대응]동부건설, 폭염·장마철 안전관리 총력…“근로자 생명 보호 최우선”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전국뉴스</font>",
+    "published_at": "2026-06-05T17:02:46+09:00",
+    "cluster_id": "4b77",
+    "publisher": "전국뉴스",
+    "title_clean": "[안전을 지키는 여름대응]동부건설, 폭염·장마철 안전관리 총력…“근로자 생명 보호 최우선”",
+    "summary": "동부건설이 폭염과 장마철을 맞아 근로자 안전을 최우선으로 하는 안전관리 대책을 추진 중이다. 건설 현장의 계절적 위험 요소에 대응하기 위한 종합적인 안전 체계를 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-05T17:12:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -31292,21 +31308,5 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T14:12:51+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설수주 증가에도 중소·전문건설 줄폐업…주택 공급 기반 `흔들` - 매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RZzF3OThGMGF5eXFqdldmSXc5NmF2THZvS1JGTXNoRGxUX0U4a0xLLVNBdi1vc3pKTmdJMjdOT015TWxmQnYwM09ubjVrYnl2VDdMVFdNYVZxZEo5Z2hwZXNB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RZzF3OThGMGF5eXFqdldmSXc5NmF2THZvS1JGTXNoRGxUX0U4a0xLLVNBdi1vc3pKTmdJMjdOT015TWxmQnYwM09ubjVrYnl2VDdMVFdNYVZxZEo5Z2hwZXNB?oc=5\" target=\"_blank\">건설수주 증가에도 중소·전문건설 줄폐업…주택 공급 기반 `흔들`</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-    "published_at": "2026-06-01T13:55:49+00:00",
-    "cluster_id": "f8b3",
-    "publisher": "매일신문",
-    "title_clean": "건설수주 증가에도 중소·전문건설 줄폐업…주택 공급 기반 `흔들`",
-    "summary": "건설수주는 증가하고 있으나 중소·전문건설 기업들의 폐업이 계속되면서 주택 공급 기반이 약해지고 있다. 수주 증가가 실제 건설 현장의 경영 개선으로 이어지지 못하고 있는 구조적 문제를 드러낸다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T14:02:54+09:00",
-    "importance": 4
   }
 ]
