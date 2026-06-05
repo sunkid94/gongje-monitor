@@ -4094,6 +4094,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'경기광주역 롯데캐슬' 무순위 청약 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VSF9mRHMtSTlrVk9BdngyWGdqVk14c1lQa3d4ZTAtb0pPQjhFbnkwUUQxc3hYUzJ1UHU3ZldHeXRtSm4yMC1MLWpSdE5aMHp0ZGZaN1lhWjhtQdIBVEFVX3lxTE9CY2E2T29rUV8yM29hU1JWNV9vRTFpTTRSOGFOcFhJS1J6SjQ4ZmFIRzYwUkRMelJmRmZxeFM2VjF6ankwUm5wUFo2d1prRUltNS1pNw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VSF9mRHMtSTlrVk9BdngyWGdqVk14c1lQa3d4ZTAtb0pPQjhFbnkwUUQxc3hYUzJ1UHU3ZldHeXRtSm4yMC1MLWpSdE5aMHp0ZGZaN1lhWjhtQdIBVEFVX3lxTE9CY2E2T29rUV8yM29hU1JWNV9vRTFpTTRSOGFOcFhJS1J6SjQ4ZmFIRzYwUkRMelJmRmZxeFM2VjF6ankwUm5wUFo2d1prRUltNS1pNw?oc=5\" target=\"_blank\">'경기광주역 롯데캐슬' 무순위 청약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+    "published_at": "2026-06-05T17:15:19+09:00",
+    "cluster_id": "d282",
+    "publisher": "한국경제",
+    "title_clean": "'경기광주역 롯데캐슬' 무순위 청약",
+    "summary": "경기광주역 인근 롯데캐슬이 무순위 청약을 실시한다. 해당 프로젝트는 건설사의 수주 실적 증가 및 시공 기회를 제공하는 주택건설 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-06T02:52:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -19729,21 +19745,6 @@
     "publisher": "아시아경제",
     "title_clean": "두산에너빌리티, 사우디서 8400억원 열병합발전소 수주",
     "summary": "두산에너빌리티가 사우디아라비아에서 8400억원 규모의 열병합발전소 프로젝트를 수주했다. 해외 대형 에너지 인프라 프로젝트 수주로 기계설비건설 분야의 수출 실적 증대에 기여하는 호재다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T16:32:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌 '사우디 자푸라 열병합발전소 2단계' 수주…8400억 규모 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFZZOHhkMzg1b18ycmhoT2s4QWVHLThjUEZjYjVzZV9RZzd0MDdkVUlFWHA1bUlTdmkxNlFSN3g4RTJNXzlacEc3THo3T3h3UjczQUVPY0FhSmhuWm0wag?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFZZOHhkMzg1b18ycmhoT2s4QWVHLThjUEZjYjVzZV9RZzd0MDdkVUlFWHA1bUlTdmkxNlFSN3g4RTJNXzlacEc3THo3T3h3UjczQUVPY0FhSmhuWm0wag?oc=5\" target=\"_blank\">두산에너빌 '사우디 자푸라 열병합발전소 2단계' 수주…8400억 규모</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "51cb",
-    "publisher": "네이트",
-    "title_clean": "두산에너빌 '사우디 자푸라 열병합발전소 2단계' 수주…8400억 규모",
-    "summary": "두산에너빌이 사우디아라비아의 자푸라 열병합발전소 2단계 프로젝트를 8400억 원 규모로 수주했다. 해외 대규모 발전소 건설 수주로 기계설비건설 부문의 실적 확대를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T16:32:48+09:00",
     "importance": 2
