@@ -4062,6 +4062,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 캐나다 `시더 FLNG` 진수…세계 첫 3기 동시 건조 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9maTVzSVVUZ2t2MGEyZUxNbGVEVTk5d1RCRlNjZVdJMVlqV3lBNndxcXFOY2VZNlpISXF4SHprRHZQTlo1TW1KUXZMV1o0VWJxMTlvRkg1dHlrcXNQeUgtd3hJNGs?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9maTVzSVVUZ2t2MGEyZUxNbGVEVTk5d1RCRlNjZVdJMVlqV3lBNndxcXFOY2VZNlpISXF4SHprRHZQTlo1TW1KUXZMV1o0VWJxMTlvRkg1dHlrcXNQeUgtd3hJNGs?oc=5\" target=\"_blank\">삼성중공업, 캐나다 `시더 FLNG` 진수…세계 첫 3기 동시 건조</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털데일리</font>",
+    "cluster_id": "9ee2",
+    "publisher": "디지털데일리",
+    "title_clean": "삼성중공업, 캐나다 `시더 FLNG` 진수…세계 첫 3기 동시 건조",
+    "summary": "삼성중공업이 캐나다 시더 FLNG 프로젝트의 선박을 진수했으며, 세계 최초로 동종 플로팅 LNG 생산설비 3기를 동시에 건조하는 성과를 달성했다. 이는 해양플랜트 분야의 기술력과 수주 역량을 입증하는 주요 성과이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-05T15:37:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19687,22 +19702,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-06-01T13:27:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 현충일 앞두고 임직원 가족과 함께 현충원 봉사활동 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vNnZ2SHJ5NzA3TFZ6M0M1VVhKNWJxcnFlLWhDRDRyRUFGWHlrZE1PUmFkcmtrSVVha1dNblladkVjVm9fY0I4cFdERllYaERyaWE0dkpDRjIxZ9IBVEFVX3lxTE80eW42T0lKQ2t0dkNOUm5UbVpIb05lNm9IZGRWRFNpcEM2RUl2YU1VYWYyZzhVWnZKYS03QmxXZlYyajNUSGpmWHhDSHAxYWlQcnNqbw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vNnZ2SHJ5NzA3TFZ6M0M1VVhKNWJxcnFlLWhDRDRyRUFGWHlrZE1PUmFkcmtrSVVha1dNblladkVjVm9fY0I4cFdERllYaERyaWE0dkpDRjIxZ9IBVEFVX3lxTE80eW42T0lKQ2t0dkNOUm5UbVpIb05lNm9IZGRWRFNpcEM2RUl2YU1VYWYyZzhVWnZKYS03QmxXZlYyajNUSGpmWHhDSHAxYWlQcnNqbw?oc=5\" target=\"_blank\">롯데건설, 현충일 앞두고 임직원 가족과 함께 현충원 봉사활동</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-    "published_at": "2026-06-01T11:05:45+09:00",
-    "cluster_id": "d01f",
-    "publisher": "한국경제",
-    "title_clean": "롯데건설, 현충일 앞두고 임직원 가족과 함께 현충원 봉사활동",
-    "summary": "롯데건설이 현충일을 앞두고 임직원 가족과 함께 현충원에서 봉사활동을 실시했다. 이는 사회공헌 활동을 통한 기업의 사회적 책임 이행 사례이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-01T13:22:37+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설수주",
