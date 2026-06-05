@@ -19682,6 +19682,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "동부건설, 폭염·장마철 대비 현장 안전관리 점검 강화 - 한국금융신문",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTMzNxM3BFZlFoajhQR3dQNFVVM0JPMGU1NWUzQVEzS1RzRDFiOGI4MklZaFlBaW9yNkdHQlE3ZEhJX3UtM2g0UEFxckxXaV8yMlRTcVJwLURnZGY3WHdKZUlJU0FJaVNMVGpCb2dJcHZMVV9ETm04UG9TbjE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBTMzNxM3BFZlFoajhQR3dQNFVVM0JPMGU1NWUzQVEzS1RzRDFiOGI4MklZaFlBaW9yNkdHQlE3ZEhJX3UtM2g0UEFxckxXaV8yMlRTcVJwLURnZGY3WHdKZUlJU0FJaVNMVGpCb2dJcHZMVV9ETm04UG9TbjE?oc=5\" target=\"_blank\">동부건설, 폭염·장마철 대비 현장 안전관리 점검 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국금융신문</font>",
+    "published_at": "2026-06-05T13:02:21+09:00",
+    "cluster_id": "ddfd",
+    "publisher": "한국금융신문",
+    "title_clean": "동부건설, 폭염·장마철 대비 현장 안전관리 점검 강화",
+    "summary": "동부건설이 폭염과 장마철을 앞두고 현장 안전관리 점검을 강화하고 있다. 건설 현장의 계절별 위험 요소에 대한 사전 예방 조치로 안전 관리 체계를 개선하는 중.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-05T13:07:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31285,21 +31301,5 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T11:02:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "춘천시, 공사장 안전관리에도 AI 도입한다 - 미디어투데이",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2bnR2Z0ZJVlpXcDJ0V21kNXY2QUQtU2J6dGRpV00xLUxibFF3Y2VHQ2xfMEtUeWVlallFRlc4MHYtMTFaWWNMMXVR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2bnR2Z0ZJVlpXcDJ0V21kNXY2QUQtU2J6dGRpV00xLUxibFF3Y2VHQ2xfMEtUeWVlallFRlc4MHYtMTFaWWNMMXVR?oc=5\" target=\"_blank\">춘천시, 공사장 안전관리에도 AI 도입한다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어투데이</font>",
-    "published_at": "2026-06-01T09:48:00+09:00",
-    "cluster_id": "0c7f",
-    "publisher": "미디어투데이",
-    "title_clean": "춘천시, 공사장 안전관리에도 AI 도입한다",
-    "summary": "춘천시가 공사장 안전관리에 AI 기술을 도입하여 안전 감시 체계를 고도화한다. 이는 건설 현장의 안전 사고 예방 및 규제 강화 추세에 대응하는 조치로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T11:02:37+09:00",
-    "importance": 4
   }
 ]
