@@ -19649,6 +19649,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[건설사 안전진단 上] 수조원 공사 수행하지만…안전인력은 고작 40명 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GTngzNU44VGpKa0FYZXN2aVk1RUdqaGhCcDluMWcxTlBCU3I1TWZCQ2RIOHhmZU9icENUQUswWnMtOXRNN1B2NWxpNlRzOGlha1FZZjEwZGl4ZG1Y?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GTngzNU44VGpKa0FYZXN2aVk1RUdqaGhCcDluMWcxTlBCU3I1TWZCQ2RIOHhmZU9icENUQUswWnMtOXRNN1B2NWxpNlRzOGlha1FZZjEwZGl4ZG1Y?oc=5\" target=\"_blank\">[건설사 안전진단 上] 수조원 공사 수행하지만…안전인력은 고작 40명</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "published_at": "2026-06-05T06:00:00+09:00",
+    "cluster_id": "f3d1",
+    "publisher": "뉴스핌",
+    "title_clean": "[건설사 안전진단 上] 수조원 공사 수행하지만…안전인력은 고작 40명",
+    "summary": "대형 건설사가 수조 원대의 공사를 수행하면서도 안전인력은 40명 수준으로 부족한 것으로 나타났다. 이는 건설업계의 안전관리 체계가 미흡함을 드러내는 사례로, 대규모 프로젝트에 비해 안전 인프라가 크게 부족한 상황을 지적하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-05T11:42:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -31279,22 +31295,6 @@
     "title_clean": "포커스에이아이, 삼성물산과 AI 기반 안전 카메라 'PNN CAM' 시연 - 머니투데이",
     "summary": "포커스에이아이가 삼성물산과 협력하여 AI 기반 안전 카메라 'PNN CAM'을 시연했다. 이는 건설 현장의 안전 관리 솔루션으로 건설업계의 안전 기술 고도화를 의미한다.",
     "sentiment": "positive",
-    "collected_at": "2026-06-01T10:37:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "용인시, 건축 안전 점검 수행기관 18일까지 공개 모집 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDTkQ1WEFDUHBJNURrVDk1VndEU1B1RElRLU9PYnRPc2ttQjkzbk1ERzNWYmJ5WnN2dkp4U2JKdGFCUm9wN2EySEhrZzlRTHl3Q1NNeWRjTGhQRHJPZ1hzYmRDRHF2dm1aUEo1c0hB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBDTkQ1WEFDUHBJNURrVDk1VndEU1B1RElRLU9PYnRPc2ttQjkzbk1ERzNWYmJ5WnN2dkp4U2JKdGFCUm9wN2EySEhrZzlRTHl3Q1NNeWRjTGhQRHJPZ1hzYmRDRHF2dm1aUEo1c0hB?oc=5\" target=\"_blank\">용인시, 건축 안전 점검 수행기관 18일까지 공개 모집</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gukjenews.com</font>",
-    "published_at": "2026-06-01T09:03:57+09:00",
-    "cluster_id": "4cc1",
-    "publisher": "gukjenews.com",
-    "title_clean": "용인시, 건축 안전 점검 수행기관 18일까지 공개 모집",
-    "summary": "용인시가 건축 안전 점검 수행기관을 18일까지 공개 모집한다. 건축 안전 점검 업무 수행을 위한 기관 모집으로 건설 관련 사업 기회를 제공한다.",
-    "sentiment": "neutral",
     "collected_at": "2026-06-01T10:37:36+09:00",
     "importance": 2
   }
