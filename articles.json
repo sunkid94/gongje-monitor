@@ -19750,6 +19750,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "SH 매입임대 39개 건물, '화재 취약' 자재 사용 드러나 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aZHZ1U2FEQmNVaHJQZ1RWbFo5YjBSbmhCcWM5MVVVTC1iRFY0YS1DczVfNnBlUUhlclFNcG05NU1vQW54ajFfbGVVN2N2elVvRGdSeUQwT0Qyc3QwWldfZtIBeEFVX3lxTE5WMEEtNjBXN1ZJOVZiQkZpUk1jNm5WUk5KSE1wcmpaQ2E4M0sxbkV6NmFSUDJta1pVWlJsRDdsQ3d1WEdlbHFlZThfYXhfNk9kYUxvYklCRlJuZmtYT0xUSkZPT2xfektWNTRHWWI0TjMwVThTQ0dBbw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aZHZ1U2FEQmNVaHJQZ1RWbFo5YjBSbmhCcWM5MVVVTC1iRFY0YS1DczVfNnBlUUhlclFNcG05NU1vQW54ajFfbGVVN2N2elVvRGdSeUQwT0Qyc3QwWldfZtIBeEFVX3lxTE5WMEEtNjBXN1ZJOVZiQkZpUk1jNm5WUk5KSE1wcmpaQ2E4M0sxbkV6NmFSUDJta1pVWlJsRDdsQ3d1WEdlbHFlZThfYXhfNk9kYUxvYklCRlJuZmtYT0xUSkZPT2xfektWNTRHWWI0TjMwVThTQ0dBbw?oc=5\" target=\"_blank\">SH 매입임대 39개 건물, '화재 취약' 자재 사용 드러나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "published_at": "2026-06-06T07:20:25+09:00",
+    "cluster_id": "4f2d",
+    "publisher": "뉴시스",
+    "title_clean": "SH 매입임대 39개 건물, '화재 취약' 자재 사용 드러나",
+    "summary": "서울주택도시공사(SH)의 매입임대 39개 건물에서 화재에 취약한 자재 사용이 적발되었다. 이는 건설 안전 기준 미충족 문제로 규제 강화 및 시정 조치 필요성을 야기할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-06T10:22:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31306,21 +31322,6 @@
     "publisher": "스마트투데이",
     "title_clean": "\"200명 이상 국내 최대 건설 R&D 조직 탄생\"...현대건설·현대엔지니어링, R&D 조직 통합",
     "summary": "현대건설과 현대엔지니어링이 R&D 조직을 통합하여 200명 이상 규모의 국내 최대 건설 R&D 조직을 출범시켰다. 이는 건설업계의 기술 혁신 역량 강화와 경쟁력 제고를 의도한 조직 개편이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T15:07:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설·엔지니어링. R&D 통합 조직 ‘HMG건설기술연구원’ 출범 - 더트래커",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZlZWTmV1STlJSER1RUEwSllpcHN5Q2RQaFd2cUptaWltVlp1QjBpOHl5Rk5yVVhzQWxPckJNUXptVTc5cTBwS2dzU2laZWMtNUJHeVRnWnQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZlZWTmV1STlJSER1RUEwSllpcHN5Q2RQaFd2cUptaWltVlp1QjBpOHl5Rk5yVVhzQWxPckJNUXptVTc5cTBwS2dzU2laZWMtNUJHeVRnWnQ?oc=5\" target=\"_blank\">현대건설·엔지니어링. R&amp;D 통합 조직 ‘HMG건설기술연구원’ 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더트래커</font>",
-    "cluster_id": "7931",
-    "publisher": "더트래커",
-    "title_clean": "현대건설·엔지니어링. R&D 통합 조직 ‘HMG건설기술연구원’ 출범",
-    "summary": "현대건설과 현대엔지니어링이 R&D 조직을 통합하여 'HMG건설기술연구원'을 출범했다. 이는 연구개발 역량을 강화하고 시너지를 창출하기 위한 전략적 조직개편이다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T15:07:49+09:00",
     "importance": 2
