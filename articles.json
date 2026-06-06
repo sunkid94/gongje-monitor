@@ -19752,6 +19752,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[국토교통부] 건설현장의 탄소중립 실현, 민간이 앞장섭니다 - 국가기후위기대응위원회",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTDZJUml3QVl3NU43R3dVSDdUSldMRUJoQzRqN25QeUN0TEpVbVBEdUppUFJYRW94RkpwclRBY1E0NFpQYXl4Z2hmV3dYSXpOZG96Qi1sNXd2TE1fTkgxRzF5aWV1NXdYcktBTXpQbDJkNzVwcm1JSl91RXo2VjZjcnZuaVBuRkJkV1htQjRsVmY4RTl6NWdXckRVR3pWNlFOWjZoTUxsMnl1ckljUnB0cm54QkZ3OXU2bURET0lpQnVGbTZoNFhFRGMwUHhFY1VhRlB3eG0xVmFHbVE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTDZJUml3QVl3NU43R3dVSDdUSldMRUJoQzRqN25QeUN0TEpVbVBEdUppUFJYRW94RkpwclRBY1E0NFpQYXl4Z2hmV3dYSXpOZG96Qi1sNXd2TE1fTkgxRzF5aWV1NXdYcktBTXpQbDJkNzVwcm1JSl91RXo2VjZjcnZuaVBuRkJkV1htQjRsVmY4RTl6NWdXckRVR3pWNlFOWjZoTUxsMnl1ckljUnB0cm54QkZ3OXU2bURET0lpQnVGbTZoNFhFRGMwUHhFY1VhRlB3eG0xVmFHbVE?oc=5\" target=\"_blank\">[국토교통부] 건설현장의 탄소중립 실현, 민간이 앞장섭니다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국가기후위기대응위원회</font>",
+    "cluster_id": "5c69",
+    "publisher": "국가기후위기대응위원회",
+    "title_clean": "[국토교통부] 건설현장의 탄소중립 실현, 민간이 앞장섭니다",
+    "summary": "국토교통부가 건설현장의 탄소중립 실현을 위해 민간 주도의 노력을 강조하는 기사입니다. 건설업계가 탄소중립 목표 달성에 앞장서고 있음을 보도하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-06T23:22:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31311,21 +31326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T15:32:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공사비 폭등·PF 경색에 주택공급 '빨간불'…“지금 안 짓는데 3년 뒤 집이 없다” - hdnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnYVJWWUNwNGVOMnNJLTNxclUtVmdTTk9rSHpLQ0RzbEc3OXBCMEgxakVxMWJfQ0VEYmxlWGJKak1lbS1WaUtUZTZfWGVRX1ROeVFqLVE2WE11RldILXllbnRFdWlIX0I3TTdF?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBnYVJWWUNwNGVOMnNJLTNxclUtVmdTTk9rSHpLQ0RzbEc3OXBCMEgxakVxMWJfQ0VEYmxlWGJKak1lbS1WaUtUZTZfWGVRX1ROeVFqLVE2WE11RldILXllbnRFdWlIX0I3TTdF?oc=5\" target=\"_blank\">공사비 폭등·PF 경색에 주택공급 '빨간불'…“지금 안 짓는데 3년 뒤 집이 없다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hdnews.co.kr</font>",
-    "published_at": "2026-06-01T15:05:53+09:00",
-    "cluster_id": "e2b6",
-    "publisher": "hdnews.co.kr",
-    "title_clean": "공사비 폭등·PF 경색에 주택공급 '빨간불'…“지금 안 짓는데 3년 뒤 집이 없다”",
-    "summary": "공사비 상승과 PF 시장 경색으로 주택공급이 감소하고 있으며, 현재 건설 부진이 3년 후 주택 부족으로 이어질 수 있다는 우려가 제기되고 있다. 건설업계가 직면한 수익성 악화와 자금 조달 어려움이 주택 공급 위기를 초래할 것으로 예측된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T15:17:42+09:00",
-    "importance": 4
   }
 ]
