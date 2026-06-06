@@ -19750,6 +19750,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설 노동자에서 시험장까지: 꾸아다의 인생 시험 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnEtQlpObm5kSGhXdlVHTzNfazBDQzR6UlptamlQVms5SHpzYmJlSF9lYVkyUWdzeDN2WXBvOHpLNWdBVFBaWVNOV3lROHFnbEVUOVlJNU1Mem1IOWctWTZUZTUtbHIxZWdaRmRmcHZuOXZVc0F0Y1pVY0ZKTUc4U2tYNA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnEtQlpObm5kSGhXdlVHTzNfazBDQzR6UlptamlQVms5SHpzYmJlSF9lYVkyUWdzeDN2WXBvOHpLNWdBVFBaWVNOV3lROHFnbEVUOVlJNU1Mem1IOWctWTZUZTUtbHIxZWdaRmRmcHZuOXZVc0F0Y1pVY0ZKTUc4U2tYNA?oc=5\" target=\"_blank\">건설 노동자에서 시험장까지: 꾸아다의 인생 시험</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+    "cluster_id": "1958",
+    "publisher": "Vietnam.vn",
+    "title_clean": "건설 노동자에서 시험장까지: 꾸아다의 인생 시험",
+    "summary": "베트남의 한 건설 노동자가 교육 기회를 얻어 시험에 도전하는 인생 역전의 이야기를 다룬 기사입니다. 건설업 종사자의 사회 상승 이동성과 교육 접근성 개선을 조명하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-06T11:52:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -31307,22 +31322,6 @@
     "title_clean": "서귀포시, 안전한 전국체전 만든다 … 종합체육관 공사현장 집중 점검",
     "summary": "서귀포시가 전국체전 개최를 앞두고 종합체육관 공사현장에 대한 집중 점검을 실시하고 있다. 안전한 행사 개최를 위해 건설 현장의 안전관리를 강화하고 있는 상황이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-06-01T15:07:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, 건설현장 맞춤형 AI 번역기 출시…언어 장벽 허문다 - 뉴스락",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyekNIZHoyaWFkM1NNc19LclVvUU5OYnFtbGlibnhFTzdudVdsX1dJd1lidG42TWpVZ1pRcUVUWWNwUDhCbUN2Z3RSNFR6Vk9XMGNidHJ0UlJCOFlNT1FPLU5GTGJtOTZLN1lJUA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAyekNIZHoyaWFkM1NNc19LclVvUU5OYnFtbGlibnhFTzdudVdsX1dJd1lidG42TWpVZ1pRcUVUWWNwUDhCbUN2Z3RSNFR6Vk9XMGNidHJ0UlJCOFlNT1FPLU5GTGJtOTZLN1lJUA?oc=5\" target=\"_blank\">대우건설, 건설현장 맞춤형 AI 번역기 출시…언어 장벽 허문다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스락</font>",
-    "published_at": "2026-06-01T14:39:25+09:00",
-    "cluster_id": "fde2",
-    "publisher": "뉴스락",
-    "title_clean": "대우건설, 건설현장 맞춤형 AI 번역기 출시…언어 장벽 허문다",
-    "summary": "대우건설이 건설현장 특화 AI 번역기를 출시하여 외국인 근로자와의 의사소통 문제를 해결했다. 이는 건설현장의 안전성 향상과 업무 효율성 증대로 이어질 것으로 예상된다.",
-    "sentiment": "positive",
     "collected_at": "2026-06-01T15:07:49+09:00",
     "importance": 2
   }
