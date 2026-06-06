@@ -19750,6 +19750,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[기획①] 유정훈이 온다 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6eXlFRlFsZW5KNVJqTnUzRkNTVENSR01ZcjlGcUQ0NDVMdDRQTnlCYWx2eEgzazlaVmlkdUVBbGE1N25fWk1halNtR1Q3X19OZXlyR0xVeERjZW1BR2JjaTNqTUpJRUk?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6eXlFRlFsZW5KNVJqTnUzRkNTVENSR01ZcjlGcUQ0NDVMdDRQTnlCYWx2eEgzazlaVmlkdUVBbGE1N25fWk1halNtR1Q3X19OZXlyR0xVeERjZW1BR2JjaTNqTUpJRUk?oc=5\" target=\"_blank\">[기획①] 유정훈이 온다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토교통신문</font>",
+    "published_at": "2026-06-06T12:07:36+09:00",
+    "cluster_id": "4757",
+    "publisher": "국토교통신문",
+    "title_clean": "[기획①] 유정훈이 온다",
+    "summary": "유정훈 관련 기획 기사로 구체적 내용이 제시되지 않아 판단 어려움. 제목만으로는 인물 소개 또는 정책 관련 기획물로 보임.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-06T12:12:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -31307,22 +31323,6 @@
     "summary": "안전한 체전 개최를 위해 경기장 공사에 대한 집중 점검이 진행되고 있다. 건설 현장의 안전 관리 강화로 사고 예방에 중점을 두고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-06-01T15:12:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서귀포시, 안전한 전국체전 만든다 … 종합체육관 공사현장 집중 점검 - 뉴스체인지",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zLUVBWUE2bnNwR3FzdUV6aTF3alJDcmYzRGliRU5tV2d1SmFDREhFbHp4aEZzaGRMaG04aEJheDNmcC1mbmhmZXRiZw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zLUVBWUE2bnNwR3FzdUV6aTF3alJDcmYzRGliRU5tV2d1SmFDREhFbHp4aEZzaGRMaG04aEJheDNmcC1mbmhmZXRiZw?oc=5\" target=\"_blank\">서귀포시, 안전한 전국체전 만든다 … 종합체육관 공사현장 집중 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스체인지</font>",
-    "published_at": "2026-06-01T12:48:00+09:00",
-    "cluster_id": "d230",
-    "publisher": "뉴스체인지",
-    "title_clean": "서귀포시, 안전한 전국체전 만든다 … 종합체육관 공사현장 집중 점검",
-    "summary": "서귀포시가 전국체전 개최를 앞두고 종합체육관 공사현장에 대한 집중 점검을 실시하고 있다. 안전한 행사 개최를 위해 건설 현장의 안전관리를 강화하고 있는 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-01T15:07:49+09:00",
     "importance": 2
   }
 ]
