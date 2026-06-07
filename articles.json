@@ -3,6 +3,21 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "[부음]박종학 전 대한기계설비협회 6대 회장 별세 - 메트로신문",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94RWt6OVQtX29IdlJ6WnhWbXc2bUNCQl9GdEQzYVZIbzd3SnNQNXkyeXM0SW82dWpMTVdieHhsMzVHWjR3clFDZV91UU5FbWJQSlVlRnhPM1VGdWFJVWo5ZA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE94RWt6OVQtX29IdlJ6WnhWbXc2bUNCQl9GdEQzYVZIbzd3SnNQNXkyeXM0SW82dWpMTVdieHhsMzVHWjR3clFDZV91UU5FbWJQSlVlRnhPM1VGdWFJVWo5ZA?oc=5\" target=\"_blank\">[부음]박종학 전 대한기계설비협회 6대 회장 별세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메트로신문</font>",
+    "cluster_id": "4d8e",
+    "publisher": "메트로신문",
+    "title_clean": "[부음]박종학 전 대한기계설비협회 6대 회장 별세",
+    "summary": "박종학 전 대한기계설비협회 6대 회장이 별세했다. 기계설비건설업계의 원로 인물의 타계로 업계가 큰 손실을 입었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-07T09:57:24+09:00",
+    "importance": 7
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "[부고] 박종학(대한기계설비건설협회 제6대 회장)씨 별세 - 뉴스핌",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iZ3ZiQnhsNTMtS3prTGtMU0FaM1k1SUNVTkFhRF9JVHZDS2F1MHFJMTdlcDdaTkpEeFRoUHV2cEZVNUNVZi1MYjBCSnlFWGlwSFQ1QVZpVGZPbU9q?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iZ3ZiQnhsNTMtS3prTGtMU0FaM1k1SUNVTkFhRF9JVHZDS2F1MHFJMTdlcDdaTkpEeFRoUHV2cEZVNUNVZi1MYjBCSnlFWGlwSFQ1QVZpVGZPbU9q?oc=5\" target=\"_blank\">[부고] 박종학(대한기계설비건설협회 제6대 회장)씨 별세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
@@ -31309,22 +31324,6 @@
     "summary": "대우건설이 건설현장 환경에 최적화된 AI 번역기를 개발하여 외국인 근로자의 안전 의사소통을 강화했다. 기술 개발을 통해 건설현장의 안전 관리 수준을 향상시키는 혁신 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T15:42:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[언어장벽없는스마트현장]대우건설, ‘실시간 AI 번역기’ 개발…외국인 근로자 안전·소통 혁신 이끈다 - 전국뉴스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vdjJSbFNza2hYNUtVNVBYSXV6TFVKMklELWdqcncwNmlZdDVtc0pTaU5VRUxhWUkyXzVvMXNNcDNwM0JuTDJIYU95NGJxclA4X2tncDRZakhnRnE2NGZOXzlUOTJHMVhjemphR0o4NS0?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5vdjJSbFNza2hYNUtVNVBYSXV6TFVKMklELWdqcncwNmlZdDVtc0pTaU5VRUxhWUkyXzVvMXNNcDNwM0JuTDJIYU95NGJxclA4X2tncDRZakhnRnE2NGZOXzlUOTJHMVhjemphR0o4NS0?oc=5\" target=\"_blank\">[언어장벽없는스마트현장]대우건설, ‘실시간 AI 번역기’ 개발…외국인 근로자 안전·소통 혁신 이끈다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전국뉴스</font>",
-    "published_at": "2026-06-01T15:24:41+09:00",
-    "cluster_id": "403a",
-    "publisher": "전국뉴스",
-    "title_clean": "[언어장벽없는스마트현장]대우건설, ‘실시간 AI 번역기’ 개발…외국인 근로자 안전·소통 혁신 이끈다",
-    "summary": "대우건설이 외국인 근로자의 안전과 소통을 위해 실시간 AI 번역기를 개발했다. 이는 건설 현장의 언어장벽 해소와 근로자 안전성 향상에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T15:37:47+09:00",
     "importance": 2
   }
 ]
