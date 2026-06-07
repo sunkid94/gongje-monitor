@@ -5203,6 +5203,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[전국톡톡] 조선업계 '훈풍'‥선박 이어 해양플랜트까지 - imnews.imbc.com",
+    "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6828395_37012.html",
+    "description": "삼성중공업이 건조 중인데, 지난 2022년부터 지난해까지 이탈리아와 말레이시아, 캐나다에 이미 3기의 해양플랜트를 수주했습니다. 지금까지 전세계 11기의 해당 해양플랜트 발주 가운데 삼성중공업과 한화오션이 수주한...",
+    "published_at": "2026-06-08T06:36:00+09:00",
+    "cluster_id": "3549",
+    "publisher": "imnews.imbc.com",
+    "title_clean": "[전국톡톡] 조선업계 '훈풍'‥선박 이어 해양플랜트까지",
+    "summary": "삼성중공업이 건조 중인데, 지난 2022년부터 지난해까지 이탈리아와 말레이시아, 캐나다에 이미 3기의 해양플랜트를 수주했습니다. 지금까지 전세계 11기의 해당 해양플랜트 발주 가운데 삼성중공업과 한화오션이 수주한...",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-08T06:42:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20880,21 +20896,6 @@
     "publisher": "청년일보",
     "title_clean": "롯데건설, 공정위·전문건설협회와 상생협력 협약 체결",
     "summary": "롯데건설이 공정거래위원회 및 전문건설협회와 상생협력 협약을 체결했다. 이는 대형건설사와 전문건설업체 간의 협력체계 강화를 통해 건설업계의 동반성장을 추진하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-02T09:47:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 공정거래 협약 체결…상생협력 강화 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pWWthOW9BdTVCWEpZX3dDMFZXOTJ5dmZHTU1XMWJOX1NBcGVTTmQyZGhqdWdLbVFhUEpmbDNkUFhBY3hNN01kalpXLTc4NVVNek1Z?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pWWthOW9BdTVCWEpZX3dDMFZXOTJ5dmZHTU1XMWJOX1NBcGVTTmQyZGhqdWdLbVFhUEpmbDNkUFhBY3hNN01kalpXLTc4NVVNek1Z?oc=5\" target=\"_blank\">롯데건설, 공정거래 협약 체결…상생협력 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "2ed1",
-    "publisher": "네이트",
-    "title_clean": "롯데건설, 공정거래 협약 체결…상생협력 강화",
-    "summary": "롯데건설이 공정거래 협약을 체결하여 협력사와의 상생협력을 강화하기로 했다. 이는 건설업계의 공정한 거래질서 확립과 상호 신뢰 관계 구축을 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-06-02T09:47:55+09:00",
     "importance": 2
