@@ -132,7 +132,12 @@ def enrich_articles(articles: list) -> list:
         title = a["title"]
         publisher = extract_publisher(title)
         title_clean = _PUBLISHER_SUFFIX_RE.sub("", title)
-        ai = enrich_article(title_clean, a.get("description", ""))
+        org = a.get("keyword") if a.get("is_company") else None
+        ai = enrich_article(title_clean, a.get("description", ""), org=org)
+        # 조합기사인데 조직과 명백히 무관(about_org=false) → 제외 (보수적: 애매/누락은 통과)
+        if a.get("is_company") and ai.get("about_org") is False:
+            logger.info("관련도 게이트 제외 (조직=%s): %s", org, title_clean[:40])
+            continue
         out = {
             **a,
             "publisher": publisher,

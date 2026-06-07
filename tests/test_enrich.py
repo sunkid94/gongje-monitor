@@ -332,3 +332,65 @@ def test_enrich_article_about_org_string_true_treated_as_keep():
         from enrich import enrich_article
         result = enrich_article("제목", "내용", org="건설공제조합")
     assert result["about_org"] is True
+
+
+def _mock_text(payload):
+    return MagicMock(content=[MagicMock(text=payload)])
+
+
+def test_enrich_articles_excludes_irrelevant_company_article():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = _mock_text('{"summary": "s", "sentiment": "neutral", "about_org": false}')
+    articles = [{"title": "성과급 단체교섭 칼럼 - 기계설비신문", "description": "노동법 해설",
+                 "link": "http://x/1", "keyword": "대한기계설비건설협회",
+                 "category": "조합·협회", "is_company": True}]
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+    assert result == []
+
+
+def test_enrich_articles_keeps_relevant_company_article():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = _mock_text('{"summary": "s", "sentiment": "positive", "about_org": true}')
+    articles = [{"title": "전문건설공제조합 피치 A+ 유지 - 이데일리", "description": "신용등급",
+                 "link": "http://x/2", "keyword": "전문건설공제조합",
+                 "category": "조합·협회", "is_company": True}]
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+    assert len(result) == 1
+    assert result[0]["is_company"] is True
+
+
+def test_enrich_articles_keeps_when_about_org_missing():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = _mock_text('{"summary": "s", "sentiment": "neutral"}')
+    articles = [{"title": "조합 관련 - 매체", "description": "내용", "link": "http://x/3",
+                 "keyword": "건설공제조합", "category": "조합·협회", "is_company": True}]
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+    assert len(result) == 1
+
+
+def test_enrich_articles_keeps_on_api_error():
+    mock_client = MagicMock()
+    mock_client.messages.create.side_effect = Exception("down")
+    articles = [{"title": "조합 관련 - 매체", "description": "내용", "link": "http://x/4",
+                 "keyword": "건설공제조합", "category": "조합·협회", "is_company": True}]
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+    assert len(result) == 1
+
+
+def test_enrich_articles_non_company_not_relevance_filtered():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = _mock_text('{"summary": "s", "sentiment": "neutral", "about_org": false}')
+    articles = [{"title": "삼성중공업 수주 - 매체", "description": "내용", "link": "http://x/5",
+                 "keyword": "삼성중공업", "category": "종합건설사", "is_company": False}]
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+    assert len(result) == 1
