@@ -263,31 +263,36 @@ def test_enrich_articles_applies_recent_importance_boost():
     assert result[0]["importance"] == 4
 
 
-def test_enrich_article_returns_about_org_when_org_given():
+def test_enrich_article_returns_about_org_when_orgs_given():
+    import enrich
     mock_client = MagicMock()
     mock_client.messages.create.return_value = MagicMock(
         content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": false}')]
     )
     with patch("enrich._get_client", return_value=mock_client):
         from enrich import enrich_article
-        result = enrich_article("성과급 칼럼", "노동법 해설", org="대한기계설비건설협회")
+        result = enrich_article("성과급 칼럼", "노동법 해설", orgs=enrich._TRACKED_ORGS)
     assert result["about_org"] is False
     sent_prompt = mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
+    assert "전문건설공제조합" in sent_prompt
+    assert "K-FINCO" in sent_prompt
     assert "대한기계설비건설협회" in sent_prompt
+    assert "CIG" in sent_prompt
 
 
 def test_enrich_article_about_org_true():
+    import enrich
     mock_client = MagicMock()
     mock_client.messages.create.return_value = MagicMock(
         content=[MagicMock(text='{"summary": "요약", "sentiment": "positive", "about_org": true}')]
     )
     with patch("enrich._get_client", return_value=mock_client):
         from enrich import enrich_article
-        result = enrich_article("조합 수주", "내용", org="건설공제조합")
+        result = enrich_article("조합 수주", "내용", orgs=enrich._TRACKED_ORGS)
     assert result["about_org"] is True
 
 
-def test_enrich_article_no_org_omits_about_org_and_question():
+def test_enrich_article_no_orgs_omits_about_org_and_question():
     mock_client = MagicMock()
     mock_client.messages.create.return_value = MagicMock(
         content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral"}')]
@@ -300,37 +305,39 @@ def test_enrich_article_no_org_omits_about_org_and_question():
     assert "about_org" not in sent_prompt
 
 
-def test_enrich_article_org_given_but_field_missing_omits_about_org():
+def test_enrich_article_orgs_given_but_field_missing_omits_about_org():
+    import enrich
     mock_client = MagicMock()
     mock_client.messages.create.return_value = MagicMock(
         content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral"}')]
     )
     with patch("enrich._get_client", return_value=mock_client):
         from enrich import enrich_article
-        result = enrich_article("제목", "내용", org="건설공제조합")
+        result = enrich_article("제목", "내용", orgs=enrich._TRACKED_ORGS)
     assert "about_org" not in result
 
 
 def test_enrich_article_about_org_string_false_treated_as_drop():
-    # 모델이 문자열 "false"를 줘도 안전하게 False(=drop 신호)로 처리
+    import enrich
     mock_client = MagicMock()
     mock_client.messages.create.return_value = MagicMock(
         content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": "false"}')]
     )
     with patch("enrich._get_client", return_value=mock_client):
         from enrich import enrich_article
-        result = enrich_article("제목", "내용", org="건설공제조합")
+        result = enrich_article("제목", "내용", orgs=enrich._TRACKED_ORGS)
     assert result["about_org"] is False
 
 
 def test_enrich_article_about_org_string_true_treated_as_keep():
+    import enrich
     mock_client = MagicMock()
     mock_client.messages.create.return_value = MagicMock(
         content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": "true"}')]
     )
     with patch("enrich._get_client", return_value=mock_client):
         from enrich import enrich_article
-        result = enrich_article("제목", "내용", org="건설공제조합")
+        result = enrich_article("제목", "내용", orgs=enrich._TRACKED_ORGS)
     assert result["about_org"] is True
 
 
