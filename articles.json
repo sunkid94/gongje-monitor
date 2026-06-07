@@ -20020,6 +20020,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "디엔비엔성 노동조합은 탄누아 다층 기숙학교 건설 노동자들을 방문하여 선물을 전달했습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXdMVHFiN0o0SDNHUExYb0JHbDVXak5jZG11NXVJaXpKU1gzOXhlVFlOUHlIUl9zOWpNbWVQOGRFU2E4cU9rLURMNGo1SHlycjZOTTVqQVZZaWdsZ0FIQUxJdE1IZ0Z6eGxyRTdZZnRGQ01paXRPZzE0bkhhSFhRTW5QUXF5aHV2LWN3VWJEYXlkd3c0Ukk5TEtwN2FjZGpYNGRHLWNqRUZsVlJaUHFKWHJPQUdaNnRORXctbHhmRTQtanR4?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXdMVHFiN0o0SDNHUExYb0JHbDVXak5jZG11NXVJaXpKU1gzOXhlVFlOUHlIUl9zOWpNbWVQOGRFU2E4cU9rLURMNGo1SHlycjZOTTVqQVZZaWdsZ0FIQUxJdE1IZ0Z6eGxyRTdZZnRGQ01paXRPZzE0bkhhSFhRTW5QUXF5aHV2LWN3VWJEYXlkd3c0Ukk5TEtwN2FjZGpYNGRHLWNqRUZsVlJaUHFKWHJPQUdaNnRORXctbHhmRTQtanR4?oc=5\" target=\"_blank\">디엔비엔성 노동조합은 탄누아 다층 기숙학교 건설 노동자들을 방문하여 선물을 전달했습니다.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+    "cluster_id": "2ba6",
+    "publisher": "Vietnam.vn",
+    "title_clean": "디엔비엔성 노동조합은 탄누아 다층 기숙학교 건설 노동자들을 방문하여 선물을 전달했습니다.",
+    "summary": "디엔비엔성 노동조합이 탄누아 다층 기숙학교 건설 현장 노동자들을 방문하여 선물을 전달했습니다. 건설 근로자들의 복지 향상과 현장 지원 활동을 보여주는 사례입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-07T14:52:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -31311,20 +31326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T16:38:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대구 서구, 중대재해 없는 안전 일터 만들기 총력... 건설 현장 중대산업재해 예방 캠페인 및 현장 점검 - 경남도민뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NVzI0TEVhcTNKT2tpeWJQRlpLR2J1Tm54TURXamN2d0lyLUxIZlJySTY4amMwTE1lSUhDMm5ET0pYd2xaS2haOEpYNDhaZmFPY2IyOFBCRWNoX3RSVHRsN09ldw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NVzI0TEVhcTNKT2tpeWJQRlpLR2J1Tm54TURXamN2d0lyLUxIZlJySTY4amMwTE1lSUhDMm5ET0pYd2xaS2haOEpYNDhaZmFPY2IyOFBCRWNoX3RSVHRsN09ldw?oc=5\" target=\"_blank\">대구 서구, 중대재해 없는 안전 일터 만들기 총력... 건설 현장 중대산업재해 예방 캠페인 및 현장 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경남도민뉴스</font>",
-    "cluster_id": "edf3",
-    "publisher": "경남도민뉴스",
-    "title_clean": "대구 서구, 중대재해 없는 안전 일터 만들기 총력... 건설 현장 중대산업재해 예방 캠페인 및 현장 점검",
-    "summary": "대구 서구에서 건설 현장의 중대산업재해 예방을 위한 캠페인과 현장 점검을 추진 중이다. 안전한 작업 환경 조성에 총력을 기울이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-01T16:38:15+09:00",
-    "importance": 4
   }
 ]
