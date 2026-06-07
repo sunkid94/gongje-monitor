@@ -13,7 +13,7 @@ def fetch_new_articles(seen: set) -> list:
     collected = set(seen)
     for source in SOURCES:
         try:
-            items = source.fetch()
+            items = source.fetch(seen)
         except Exception as e:
             logger.error("소스 수집 실패 %s: %s", getattr(source, "__name__", source), e)
             continue

@@ -28,12 +28,15 @@ def _fetch_keyword(keyword: str, category: str, is_company: bool) -> list:
     return articles
 
 
-def fetch() -> list:
-    """구글 뉴스 RSS 최근 24h 기사. 원문 발행 7일 초과분 폐기. seen 미적용."""
+def fetch(seen=frozenset()) -> list:
+    """구글 뉴스 RSS 최근 24h 기사. 원문 발행 7일 초과분 폐기.
+
+    seen 에 있는 link 는 resolve_published_time(HTTP 비용) 전에 건너뛴다.
+    """
     cutoff = datetime.now() - timedelta(hours=24)
     original_cutoff = datetime.now(timezone.utc) - timedelta(days=ORIGINAL_PUB_MAX_AGE_DAYS)
     articles = []
-    seen_links = set()
+    seen_links = set(seen)
     sources = [(kw, "조합·협회", True) for kw in COMPANY_KEYWORDS]
     for category, kws in CATEGORY_KEYWORDS.items():
         sources.extend((kw, category, False) for kw in kws)

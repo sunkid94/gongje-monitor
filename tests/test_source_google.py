@@ -96,3 +96,30 @@ def test_fetch_keeps_when_pub_unresolvable():
         result = source_google.fetch()
     assert len(result) == 1
     assert "published_at" not in result[0]
+
+
+def test_fetch_dedups_same_link_across_keywords():
+    # 같은 기사가 두 키워드에 걸려도 1건만
+    import source_google
+    importlib.reload(source_google)
+    with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
+         patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합", "건설공제조합"]), \
+         patch("source_google.CATEGORY_KEYWORDS", {}), \
+         patch("source_google.resolve_published_time", return_value=None):
+        source_google.datetime = _make_datetime_mock()
+        result = source_google.fetch()
+    assert len(result) == 1
+
+
+def test_fetch_skips_seen_before_resolve():
+    # seen 에 있는 link 는 resolve_published_time 호출 없이 건너뜀
+    import source_google
+    importlib.reload(source_google)
+    with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
+         patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("source_google.CATEGORY_KEYWORDS", {}), \
+         patch("source_google.resolve_published_time") as mock_resolve:
+        source_google.datetime = _make_datetime_mock()
+        result = source_google.fetch(seen={"http://news.google.com/articles/1"})
+    assert result == []
+    mock_resolve.assert_not_called()

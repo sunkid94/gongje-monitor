@@ -7,31 +7,36 @@ def _article(link):
             "title": "제목 - 매체", "link": link, "description": "d"}
 
 
+def _source(items=None, raises=None):
+    """테스트용 소스 스텁 — fetch(seen) 시그니처."""
+    def fetch(seen=frozenset()):
+        if raises:
+            raise raises
+        return list(items or [])
+    return type("StubSource", (), {"fetch": staticmethod(fetch), "__name__": "stub"})
+
+
 def test_aggregator_excludes_seen_links():
-    with patch.object(crawler, "SOURCES", [type("S", (), {"fetch": staticmethod(lambda: [_article("http://a/1")]), "__name__": "s"})]):
+    with patch.object(crawler, "SOURCES", [_source([_article("http://a/1")])]):
         result = crawler.fetch_new_articles({"http://a/1"})
     assert result == []
 
 
 def test_aggregator_includes_unseen_links():
-    with patch.object(crawler, "SOURCES", [type("S", (), {"fetch": staticmethod(lambda: [_article("http://a/2")]), "__name__": "s"})]):
+    with patch.object(crawler, "SOURCES", [_source([_article("http://a/2")])]):
         result = crawler.fetch_new_articles(set())
     assert len(result) == 1
     assert result[0]["link"] == "http://a/2"
 
 
 def test_aggregator_dedups_same_link_across_sources():
-    s1 = type("S1", (), {"fetch": staticmethod(lambda: [_article("http://dup")]), "__name__": "s1"})
-    s2 = type("S2", (), {"fetch": staticmethod(lambda: [_article("http://dup")]), "__name__": "s2"})
-    with patch.object(crawler, "SOURCES", [s1, s2]):
+    with patch.object(crawler, "SOURCES", [_source([_article("http://dup")]), _source([_article("http://dup")])]):
         result = crawler.fetch_new_articles(set())
     assert len(result) == 1
 
 
 def test_aggregator_continues_when_a_source_raises():
-    bad = type("Bad", (), {"fetch": staticmethod(lambda: (_ for _ in ()).throw(RuntimeError("x"))), "__name__": "bad"})
-    good = type("Good", (), {"fetch": staticmethod(lambda: [_article("http://ok")]), "__name__": "good"})
-    with patch.object(crawler, "SOURCES", [bad, good]):
+    with patch.object(crawler, "SOURCES", [_source(raises=RuntimeError("x")), _source([_article("http://ok")])]):
         result = crawler.fetch_new_articles(set())
     assert len(result) == 1
     assert result[0]["link"] == "http://ok"
