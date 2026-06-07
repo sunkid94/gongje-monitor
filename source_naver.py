@@ -1,3 +1,4 @@
+import html
 import logging
 import os
 import re
@@ -25,13 +26,13 @@ _DOMAIN_PUBLISHER = {
 
 
 def _publisher(link: str) -> str:
-    dom = urlparse(link).netloc.replace("www.", "")
+    dom = urlparse(link).netloc.removeprefix("www.")
     return _DOMAIN_PUBLISHER.get(dom, dom or "네이버뉴스")
 
 
 def _strip(text: str) -> str:
-    text = _TAG_RE.sub("", text or "")
-    return text.replace("&quot;", '"').replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").strip()
+    """HTML 태그 제거 후 엔티티(&quot; &amp; &apos; &#... 등) 모두 해제."""
+    return html.unescape(_TAG_RE.sub("", text or "")).strip()
 
 
 def _search(keyword: str) -> list:
@@ -41,9 +42,10 @@ def _search(keyword: str) -> list:
         logger.warning("NAVER_CLIENT_ID/SECRET 미설정 — 네이버 건너뜀")
         return []
     headers = {"X-Naver-Client-Id": cid, "X-Naver-Client-Secret": csec}
-    params = {"query": f'"{keyword}"', "display": 20, "sort": "date"}
+    params = {"query": f'"{keyword}"', "display": 50, "sort": "date"}
     try:
         resp = requests.get(NAVER_NEWS_API, headers=headers, params=params, timeout=10)
+        resp.raise_for_status()
         data = resp.json()
     except (requests.RequestException, ValueError) as e:
         logger.error("네이버 검색 실패(%s): %s", keyword, e)

@@ -81,3 +81,17 @@ def test_naver_skips_seen_link():
         source_naver.datetime = _frozen_dt()
         out = source_naver.fetch(seen={"https://www.koscaj.com/news/2"})
     assert out == []
+
+
+def test_naver_drops_old_articles():
+    import source_naver
+    importlib.reload(source_naver)
+    # pub 2026-05-31, frozen now 2026-06-05 18:00 KST → 24h 창 밖
+    items = [_item("전문건설공제조합 옛 기사", "https://www.koscaj.com/old",
+                   pub="Mon, 01 Jun 2026 00:00:00 +0900", desc="전문건설공제조합")]
+    with _env(), patch("source_naver.requests.get", return_value=_resp(items)), \
+         patch("source_naver.COMPANY_KEYWORDS", ["전문건설공제조합"]), \
+         patch("source_naver.CATEGORY_KEYWORDS", {}):
+        source_naver.datetime = _frozen_dt()
+        out = source_naver.fetch()
+    assert out == []
