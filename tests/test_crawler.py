@@ -40,3 +40,15 @@ def test_aggregator_continues_when_a_source_raises():
         result = crawler.fetch_new_articles(set())
     assert len(result) == 1
     assert result[0]["link"] == "http://ok"
+
+
+def test_same_headline_across_sources_gets_same_cluster_id():
+    import enrich
+    arts = [
+        {"title": "전문건설공제조합 피치 A+ 유지 - 대한전문건설신문", "description": "", "link": "http://a", "keyword": "k", "category": "조합·협회", "is_company": True},
+        {"title": "전문건설공제조합 피치 A+ 유지 - 네이버뉴스", "description": "", "link": "http://b", "keyword": "k", "category": "조합·협회", "is_company": True},
+        {"title": "전문건설공제조합 피치 A+ 유지 - 기계설비신문", "description": "", "link": "http://c", "keyword": "k", "category": "조합·협회", "is_company": True},
+    ]
+    clustered = enrich.cluster_articles(arts)
+    ids = {c["cluster_id"] for c in clustered}
+    assert len(ids) == 1   # 매체만 달라도 같은 사건 → 한 cluster
