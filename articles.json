@@ -20036,6 +20036,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대전 미분양 경고음 커진다…주택시장 안정화 관건 - 대전일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kOEdDY0JUNVZIbVVUcHZUZ0J1aGdmWDVCVkV1TEV4WFlKZVFCdUMxOGwyXzFJdld2V3JyY2hKcHRwdFlKamZPV21UX0ZVYWd1SHd4YnItMUVJY20yUENVSTZaWUR4MHpsa1hmQklxd9IBc0FVX3lxTFBnOEExT202bVh6U1lXeUx0MFZqTF9NbmtOUFl0TElNSmdTVEt3X3ZNVWJLYW1oTGVPYVpLdU1OM045YTRtdFR5NTdyNFA4cVloM0k3aVJsc2Z1ZXNmOGg5cDBuNzhrblgwTjRQVkxOZFZlaTg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5kOEdDY0JUNVZIbVVUcHZUZ0J1aGdmWDVCVkV1TEV4WFlKZVFCdUMxOGwyXzFJdld2V3JyY2hKcHRwdFlKamZPV21UX0ZVYWd1SHd4YnItMUVJY20yUENVSTZaWUR4MHpsa1hmQklxd9IBc0FVX3lxTFBnOEExT202bVh6U1lXeUx0MFZqTF9NbmtOUFl0TElNSmdTVEt3X3ZNVWJLYW1oTGVPYVpLdU1OM045YTRtdFR5NTdyNFA4cVloM0k3aVJsc2Z1ZXNmOGg5cDBuNzhrblgwTjRQVkxOZFZlaTg?oc=5\" target=\"_blank\">대전 미분양 경고음 커진다…주택시장 안정화 관건</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "published_at": "2026-06-07T15:31:00+09:00",
+    "cluster_id": "b745",
+    "publisher": "대전일보",
+    "title_clean": "대전 미분양 경고음 커진다…주택시장 안정화 관건",
+    "summary": "대전 지역의 미분양 주택이 증가하면서 주택시장 불안정 신호가 커지고 있다. 건설업계는 미분양 해소와 주택시장 안정화가 향후 수주와 사업 추진의 핵심 과제로 직면하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-07T15:37:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -31307,21 +31323,6 @@
     "title_clean": "부동산원, 부동산서비스산업·건설업 경기 지표 공동 세미나 개최",
     "summary": "부동산원이 부동산서비스산업과 건설업의 경기 지표를 공동으로 분석하는 세미나를 개최했다. 업계 경기 동향을 공유하고 정보 교류를 위한 행사로, 건설업계의 시장 현황 파악 및 정보 제공을 목적으로 한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-06-01T16:47:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설·현대엔지니어링 R&D 통합…국내 최대 'HMG건설기술연구원' 출범 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nQ3JSQXBvX1ZXcmRWcmRPU1dYaW5lT1BmT3ZDR0FoU0c4VVhEU0FjcjNRWHFpNkVSMWNsbjM5cjdTMVotMmo1MXRUdFlGVklDdm5UcjVwOGY1eWVEQU04Nw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nQ3JSQXBvX1ZXcmRWcmRPU1dYaW5lT1BmT3ZDR0FoU0c4VVhEU0FjcjNRWHFpNkVSMWNsbjM5cjdTMVotMmo1MXRUdFlGVklDdm5UcjVwOGY1eWVEQU04Nw?oc=5\" target=\"_blank\">현대건설·현대엔지니어링 R&amp;D 통합…국내 최대 'HMG건설기술연구원' 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "1e5a",
-    "publisher": "네이트",
-    "title_clean": "현대건설·현대엔지니어링 R&D 통합…국내 최대 'HMG건설기술연구원' 출범",
-    "summary": "현대건설과 현대엔지니어링이 R&D 조직을 통합하여 국내 최대 규모의 'HMG건설기술연구원'을 출범했다. 이는 건설기술 연구개발 역량을 강화하고 경쟁력을 높이기 위한 전략적 결합이다.",
-    "sentiment": "positive",
     "collected_at": "2026-06-01T16:47:55+09:00",
     "importance": 2
   }
