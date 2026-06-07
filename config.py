@@ -29,3 +29,8 @@ CATEGORY_KEYWORDS = {
 # 하위 호환 (crawler 등이 이전 이름 쓸 수 있어 유지)
 KEYWORDS = COMPANY_KEYWORDS
 INDUSTRY_KEYWORDS = [k for ks in CATEGORY_KEYWORDS.values() for k in ks]
+
+# 직접 구독하는 전문지 RSS (네이버 색인이 얇은 우리 조합 매체 보험)
+TRADE_RSS_FEEDS = [
+    {"name": "기계설비신문", "url": "https://www.kmecnews.co.kr/rss/allArticle.xml"},
+]
