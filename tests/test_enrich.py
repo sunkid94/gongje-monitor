@@ -401,3 +401,23 @@ def test_enrich_articles_non_company_not_relevance_filtered():
         from enrich import enrich_articles
         result = enrich_articles(articles)
     assert len(result) == 1
+
+
+def test_enrich_articles_gate_uses_full_org_list_not_keyword():
+    # 조합기사 판정 시 매칭 키워드 하나가 아니라 추적 조직 전체(별칭 포함)가 프롬프트에 들어가야 함
+    import enrich
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "s", "sentiment": "neutral", "about_org": true}')]
+    )
+    # keyword 는 "엉뚱한" 조합인데도, 게이트는 전체 목록으로 물어야 함
+    articles = [{"title": "대한기계설비건설협회, 직접발주 법제화 추진 - 매체", "description": "협회 활동",
+                 "link": "http://x/협회", "keyword": "기계설비건설공제조합",
+                 "category": "조합·협회", "is_company": True}]
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_articles
+        result = enrich_articles(articles)
+    assert len(result) == 1   # 협회 뉴스 → 통과
+    sent_prompt = mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
+    assert "대한기계설비건설협회" in sent_prompt
+    assert "K-FINCO" in sent_prompt
