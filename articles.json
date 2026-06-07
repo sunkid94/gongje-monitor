@@ -5043,6 +5043,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "AI 전력난, 바다서 푼다… ‘부유식 DC’ 선점 경쟁 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1780821519&code=11151400&cp=nv",
+    "description": "삼성중공업은 지난 2일 그리스 선주사인 캐피탈 클린에너지 캐리어스와 영국 로이드 선급과 함께 FDC 3자 사업 협력을 체결하고 FDC 시장 진출을 본격화했다. 앞서 삼성중공업은 50메가와트(㎿)급 FDC를 자체 개발해...",
+    "published_at": "2026-06-08T00:54:00+09:00",
+    "cluster_id": "7660",
+    "publisher": "kmib.co.kr",
+    "title_clean": "AI 전력난, 바다서 푼다… ‘부유식 DC’ 선점 경쟁",
+    "summary": "삼성중공업은 지난 2일 그리스 선주사인 캐피탈 클린에너지 캐리어스와 영국 로이드 선급과 함께 FDC 3자 사업 협력을 체결하고 FDC 시장 진출을 본격화했다. 앞서 삼성중공업은 50메가와트(㎿)급 FDC를 자체 개발해...",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-08T00:57:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20717,21 +20733,6 @@
     "summary": "롯데건설이 공정거래위원회와 전문건설협회와 함께 하도급 거래의 공정성을 강화하는 상생협약을 체결했다. 이는 건설업계의 거래 투명성 및 공정한 계약 관행 확립을 목표로 한다.",
     "sentiment": "neutral",
     "collected_at": "2026-06-02T09:08:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 전건협·공정위와 건설산업 상생 협력·공정거래 협약 체결 - 팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xU1FReXVNTFRJbFFWRlkzc0JsUnVsLVpzMG5sYUpSdlcwMlBzZDNQZjlVVzFMSU1ocVJvNV9uU09oYmZiV0F6SF9haE55SXRmRzU1QkpXNjlLVkM1U3lhanZwTVNmMHM?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xU1FReXVNTFRJbFFWRlkzc0JsUnVsLVpzMG5sYUpSdlcwMlBzZDNQZjlVVzFMSU1ocVJvNV9uU09oYmZiV0F6SF9haE55SXRmRzU1QkpXNjlLVkM1U3lhanZwTVNmMHM?oc=5\" target=\"_blank\">롯데건설, 전건협·공정위와 건설산업 상생 협력·공정거래 협약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">팍스경제TV</font>",
-    "cluster_id": "30da",
-    "publisher": "팍스경제TV",
-    "title_clean": "롯데건설, 전건협·공정위와 건설산업 상생 협력·공정거래 협약 체결",
-    "summary": "롯데건설이 전국건설업협회, 공정거래위원회와 건설산업 상생 협력 및 공정거래 협약을 체결했다. 이는 건설산업의 공정한 거래 관행 정착과 업체 간 상생 협력을 강화하기 위한 협력이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-02T09:03:11+09:00",
     "importance": 2
   },
   {
