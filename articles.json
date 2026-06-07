@@ -19943,6 +19943,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부산고용노동청, 건설현장 외노자 안전관리에 집중 - 스트레이트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGT1dZWUVsTUo1b0k0SHdVb2YyMHVwVzI2MS1sckhvV0NPNkdxLWdiZFNlemNwOGE3bjh1SXNlbVpVSWZWYzNFNkg0b1ZFblB6LWw2MWpHaThSbVQtajZiVWhyNDJSQTM0dHl0U3BOY1A1bUnSAXdBVV95cUxQWnJpRHBlY0o0WklpNW0yN1laNVJacmRiUklpbHR3b1FIc1RYdGFtWld5VW5ienJCOUdvMHUybnlwaXpWQ01uZWpXZmdzcUxCM2Z0Y2EtdDZZZ2JlSTdpcElzWUNpTFlIT05GMkp6Qm5Sd0l0dzlidw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBGT1dZWUVsTUo1b0k0SHdVb2YyMHVwVzI2MS1sckhvV0NPNkdxLWdiZFNlemNwOGE3bjh1SXNlbVpVSWZWYzNFNkg0b1ZFblB6LWw2MWpHaThSbVQtajZiVWhyNDJSQTM0dHl0U3BOY1A1bUnSAXdBVV95cUxQWnJpRHBlY0o0WklpNW0yN1laNVJacmRiUklpbHR3b1FIc1RYdGFtWld5VW5ienJCOUdvMHUybnlwaXpWQ01uZWpXZmdzcUxCM2Z0Y2EtdDZZZ2JlSTdpcElzWUNpTFlIT05GMkp6Qm5Sd0l0dzlidw?oc=5\" target=\"_blank\">부산고용노동청, 건설현장 외노자 안전관리에 집중</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스트레이트뉴스</font>",
+    "published_at": "2026-06-07T11:51:17+09:00",
+    "cluster_id": "9e38",
+    "publisher": "스트레이트뉴스",
+    "title_clean": "부산고용노동청, 건설현장 외노자 안전관리에 집중",
+    "summary": "부산고용노동청이 건설현장의 외국인 노동자 안전관리를 강화하겠다고 밝혔다. 이는 건설현장의 안전 기준 강화를 의미하며, 업계는 안전관리 비용 증가 및 규제 강화에 대응해야 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-06-07T11:57:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31311,21 +31327,6 @@
     "summary": "IPARK현산이 스마트 건설 혁신을 가속화하며 고객 신뢰와 지속 성장을 추구하고 있다. 건설사의 기술 혁신과 경영 역량 강화를 통한 경쟁력 강화 사례로 볼 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T16:17:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설·엔지니어링 R&D 통합...'HMG건설기술연구원' 출범 - 청년일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VW5QQXVWWG1xZG55NDA0OUJOS1Vwd01ESTc2MG5STF8yc3dzUTlNeG5hV3pXNldMYWowSjEwMkhmMTFod1VVLXdMSkM4elpNQWJLV3JqMGxnZ21UMnV5UkJOY3M5TDNuWmc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VW5QQXVWWG1xZG55NDA0OUJOS1Vwd01ESTc2MG5STF8yc3dzUTlNeG5hV3pXNldMYWowSjEwMkhmMTFod1VVLXdMSkM4elpNQWJLV3JqMGxnZ21UMnV5UkJOY3M5TDNuWmc?oc=5\" target=\"_blank\">현대건설·엔지니어링 R&amp;D 통합...'HMG건설기술연구원' 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">청년일보</font>",
-    "cluster_id": "65a3",
-    "publisher": "청년일보",
-    "title_clean": "현대건설·엔지니어링 R&D 통합...'HMG건설기술연구원' 출범",
-    "summary": "현대건설과 현대엔지니어링이 R&D 조직을 통합하여 'HMG건설기술연구원'을 출범했다. 이는 건설·엔지니어링 부문의 기술 경쟁력을 강화하고 연구개발 효율성을 높이기 위한 조직 개편이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T15:57:40+09:00",
     "importance": 2
   }
 ]
