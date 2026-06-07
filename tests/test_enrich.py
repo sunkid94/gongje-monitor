@@ -261,3 +261,51 @@ def test_enrich_articles_applies_recent_importance_boost():
 
     # neg(+3) + cluster=1(+1) + recent(+2) = 6 → round(6*10/15) = 4
     assert result[0]["importance"] == 4
+
+
+def test_enrich_article_returns_about_org_when_org_given():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": false}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("성과급 칼럼", "노동법 해설", org="대한기계설비건설협회")
+    assert result["about_org"] is False
+    sent_prompt = mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
+    assert "대한기계설비건설협회" in sent_prompt
+
+
+def test_enrich_article_about_org_true():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "positive", "about_org": true}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("조합 수주", "내용", org="건설공제조합")
+    assert result["about_org"] is True
+
+
+def test_enrich_article_no_org_omits_about_org_and_question():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용")
+    assert "about_org" not in result
+    sent_prompt = mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
+    assert "about_org" not in sent_prompt
+
+
+def test_enrich_article_org_given_but_field_missing_omits_about_org():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용", org="건설공제조합")
+    assert "about_org" not in result
