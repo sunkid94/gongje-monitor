@@ -28,6 +28,9 @@ def main(skip_email: bool = False) -> None:
 
     # Google News 리다이렉트 URL 회전으로 인한 동일 매체+동일 클러스터 재수집 차단.
     # seen 갱신은 dedup 전에 — 중복 기사 URL 도 다음 페치에서 다시 안 잡히도록.
+    # 주의: enrich 관련도 게이트로 제외된 기사는 enriched 에 없어 seen 에도 안 들어간다.
+    # → 다음 런에 재수집·재판정될 수 있음(의도된 보수적 동작: 매번 무관 판정돼 푸시 안 됨,
+    #   혹시 오판이었으면 다시 평가받을 기회. Haiku 재호출 비용 미미).
     new_urls = {a["link"] for a in enriched}
     save_seen(seen | new_urls)
 
