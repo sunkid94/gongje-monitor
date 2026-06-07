@@ -309,3 +309,26 @@ def test_enrich_article_org_given_but_field_missing_omits_about_org():
         from enrich import enrich_article
         result = enrich_article("제목", "내용", org="건설공제조합")
     assert "about_org" not in result
+
+
+def test_enrich_article_about_org_string_false_treated_as_drop():
+    # 모델이 문자열 "false"를 줘도 안전하게 False(=drop 신호)로 처리
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": "false"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용", org="건설공제조합")
+    assert result["about_org"] is False
+
+
+def test_enrich_article_about_org_string_true_treated_as_keep():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": "true"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        result = enrich_article("제목", "내용", org="건설공제조합")
+    assert result["about_org"] is True

@@ -33,8 +33,8 @@ def _get_client() -> anthropic.Anthropic:
 
 _RELEVANCE_CRITERIA = """
 - about_org: 이 기사가 실제로 "{org}"에 관한 뉴스인지 판단.
-  · true: "{org}"의 활동·발표·실적·인사·사건 등을 직접 다루거나, "{org}"가 기사 주제에 의미 있게 관련됨
-  · false: "{org}"가 본문 주제와 사실상 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 부고종합/인사 목록의 타인 항목, 단순 나열, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우 등). 애매하면 true."""
+  · true: "{org}"의 활동·발표·실적·인사·사건 등을 직접 다루거나, "{org}"(이)가 기사 주제에 의미 있게 관련됨
+  · false: "{org}"(이)가 본문 주제와 사실상 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 부고종합/인사 목록의 타인 항목, 단순 나열, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우 등). 애매하면 true."""
 
 _RELEVANCE_FIELD = ', "about_org": true|false'
 
@@ -81,7 +81,12 @@ def enrich_article(title: str, description: str, org: Optional[str] = None) -> d
             "sentiment": sentiment,
         }
         if org and "about_org" in data:
-            result["about_org"] = bool(data["about_org"])
+            val = data["about_org"]
+            if isinstance(val, bool):
+                result["about_org"] = val
+            elif isinstance(val, str):
+                result["about_org"] = val.strip().lower() not in ("false", "no", "0", "")
+            # 그 외 타입은 무시(키 미포함 → 호출측이 보수적으로 통과)
         return result
     except Exception as e:
         logger.warning("enrich_article 폴백 (title=%s): %s", title[:30], e)
