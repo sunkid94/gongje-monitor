@@ -1,10 +1,11 @@
 import logging
 
 import source_google
+import source_naver
 
 logger = logging.getLogger(__name__)
 
-SOURCES = [source_google]
+SOURCES = [source_naver, source_google]
 
 
 def fetch_new_articles(seen: set) -> list:
