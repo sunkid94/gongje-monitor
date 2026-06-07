@@ -4439,6 +4439,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데그룹, 부산서 인재 채용 행사 개최 - 부산일보",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WdWRNMjdqR3NrdXJTVkxPajhwZlpYbnVvcjREdzNYaW55b3Q2SGkzVmV5Yl9td2FmVGk3R0JlUGxsU0Y2OUZ0djVtQWNLdklKT2ZfaVFSeHIteFkwR3d6QW1VQlluZDI2V2xSMHpfRjYzdERX?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1WdWRNMjdqR3NrdXJTVkxPajhwZlpYbnVvcjREdzNYaW55b3Q2SGkzVmV5Yl9td2FmVGk3R0JlUGxsU0Y2OUZ0djVtQWNLdklKT2ZfaVFSeHIteFkwR3d6QW1VQlluZDI2V2xSMHpfRjYzdERX?oc=5\" target=\"_blank\">롯데그룹, 부산서 인재 채용 행사 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+    "cluster_id": "7f50",
+    "publisher": "부산일보",
+    "title_clean": "롯데그룹, 부산서 인재 채용 행사 개최",
+    "summary": "롯데그룹이 부산에서 인재 채용 행사를 개최했다. 대규모 기업의 채용 확대는 건설·기계설비 업계의 수요 증가 신호로 해석될 수 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-07T19:12:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20082,21 +20097,6 @@
     "sentiment": "positive",
     "collected_at": "2026-06-01T17:02:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 사우디 자푸라 열병합발전소 2단계 수주…8400억 규모 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OaFJNdGZSbWtkUm5HYXNOODBtbnVkeTBZSUZuM0h3OVV0SzlyRUppWVpQanVNemFDQmpIOHVzWUVWZVYtaVF6RFBRUnlfRG9ZUjdj?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OaFJNdGZSbWtkUm5HYXNOODBtbnVkeTBZSUZuM0h3OVV0SzlyRUppWVpQanVNemFDQmpIOHVzWUVWZVYtaVF6RFBRUnlfRG9ZUjdj?oc=5\" target=\"_blank\">두산에너빌리티, 사우디 자푸라 열병합발전소 2단계 수주…8400억 규모</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "3148",
-    "publisher": "네이트",
-    "title_clean": "두산에너빌리티, 사우디 자푸라 열병합발전소 2단계 수주…8400억 규모",
-    "summary": "두산에너빌리티가 사우디아라비아의 자푸라 열병합발전소 2단계 프로젝트를 8,400억 원 규모로 수주했다. 해외 대형 에너지 프로젝트 수주로 기계설비건설 분야의 수주 실적 확대에 긍정적 영향을 미칠 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T17:02:50+09:00",
-    "importance": 3
   },
   {
     "keyword": "중대재해 건설",
