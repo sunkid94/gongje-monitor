@@ -5251,6 +5251,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“삼성물산, PBR 0.7배 저렴한 주가…4분기 루마니아 대형원전 수주 기대... - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12068028",
+    "description": "PBR 0.7배는 다른 지주사(SK 1.4배, SK스퀘어 3.3배, 두산 18.7배, CJ 1.2배)보다 크게 낮은 수치이며, 시총 10조원 이상의 건설사(현대건설 1.7배, 삼성E&A 1.8배, 대우건설 2.4배)에 비교해서도 낮다. 올해 분기별로 증가하는...",
+    "published_at": "2026-06-08T07:29:00+09:00",
+    "cluster_id": "11ab",
+    "publisher": "mk.co.kr",
+    "title_clean": "“삼성물산, PBR 0.7배 저렴한 주가…4분기 루마니아 대형원전 수주 기대...",
+    "summary": "삼성물산이 동종사 대비 저평가된 PBR 0.7배의 주가를 보이고 있으며, 4분기 루마니아 대형원전 수주 기대감이 있다. 건설사 중에서도 낮은 밸류에이션을 기록하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-08T07:32:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20930,22 +20946,6 @@
     "publisher": "Vietnam.vn",
     "title_clean": "인공지능이 건설 현장의 외국인 근로자들을 위한 통역을 지원합니다.",
     "summary": "건설 현장에서 외국인 근로자들의 의사소통 문제를 해결하기 위해 인공지능 통역 기술이 도입되고 있다. 이는 건설 현장의 안전성 향상과 업무 효율성 증대에 기여할 수 있는 기술 혁신이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-02T10:18:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "하도급 대금 연동제 안착…롯데건설, 파트너사 지원 총력 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12UUJJdzNMVElrVHNzemxJVTBnRnNCU0kzVGZ2YW1BVVExay1PazFFcUhzZGZXTjM3S3lLM2pVSnlVSkpGX1cxeXJXTGZ3cnUwX1pKTU1JS09DOVNTakJLX1JRSlFPTkxL?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE12UUJJdzNMVElrVHNzemxJVTBnRnNCU0kzVGZ2YW1BVVExay1PazFFcUhzZGZXTjM3S3lLM2pVSnlVSkpGX1cxeXJXTGZ3cnUwX1pKTU1JS09DOVNTakJLX1JRSlFPTkxL?oc=5\" target=\"_blank\">하도급 대금 연동제 안착…롯데건설, 파트너사 지원 총력</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ebn.co.kr</font>",
-    "published_at": "2026-06-02T09:48:50+09:00",
-    "cluster_id": "4e23",
-    "publisher": "ebn.co.kr",
-    "title_clean": "하도급 대금 연동제 안착…롯데건설, 파트너사 지원 총력",
-    "summary": "롯데건설이 하도급 대금 연동제를 안착시키기 위해 파트너사 지원에 총력을 기울이고 있다. 이는 건설업계의 공정한 거래 환경 조성과 하청업체의 경영 안정화를 도모하는 긍정적 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-06-02T10:18:21+09:00",
     "importance": 2
