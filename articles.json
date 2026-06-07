@@ -20735,6 +20735,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[월요칼럼]강원의 미래, 산업에 달렸다 - kwnews.co.kr",
+    "link": "https://www.kwnews.co.kr/page/view/2026060750023000000",
+    "description": "이러한 구조 속에서 최근의 내수 부진과 건설경기 침체는 지역경제 전반의 하방 압력으로 작용하고 있다. 무엇보다 상대적으로 부가가치가 낮은 전통 서비스업 중심의 산업 구조로는 청년들이 지역에 정착할 수 있는...",
+    "published_at": "2026-06-08T00:22:00+09:00",
+    "cluster_id": "baa4",
+    "publisher": "kwnews.co.kr",
+    "title_clean": "[월요칼럼]강원의 미래, 산업에 달렸다",
+    "summary": "이러한 구조 속에서 최근의 내수 부진과 건설경기 침체는 지역경제 전반의 하방 압력으로 작용하고 있다. 무엇보다 상대적으로 부가가치가 낮은 전통 서비스업 중심의 산업 구조로는 청년들이 지역에 정착할 수 있는...",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-08T00:27:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -31360,21 +31376,6 @@
     "summary": "현대건설과 현대엔지니어링이 R&D 조직을 통합하여 'HMG건설기술연구원'을 출범시켰다. 이는 두 회사의 연구개발 역량을 집중하여 건설 기술 경쟁력을 강화하려는 전략적 결정이다.",
     "sentiment": "positive",
     "collected_at": "2026-06-02T07:52:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[건설사 체력점검 - 롯데건설②] 살아난 배경엔 ‘롯데’가 있었다 - 뷰어스",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kY0JCQjg0LWJNSElSRUlSTEFTXzYxVGc2ZXNJVW5kQVBVSUVzNnRDUjJlWnU4VlZuVFJOQWtZdGNlcGpZT3dWaF83MXdXbGRSb2hyTG4xOU8?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kY0JCQjg0LWJNSElSRUlSTEFTXzYxVGc2ZXNJVW5kQVBVSUVzNnRDUjJlWnU4VlZuVFJOQWtZdGNlcGpZT3dWaF83MXdXbGRSb2hyTG4xOU8?oc=5\" target=\"_blank\">[건설사 체력점검 - 롯데건설②] 살아난 배경엔 ‘롯데’가 있었다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뷰어스</font>",
-    "cluster_id": "fe0a",
-    "publisher": "뷰어스",
-    "title_clean": "[건설사 체력점검 - 롯데건설②] 살아난 배경엔 ‘롯데’가 있었다",
-    "summary": "롯데건설이 모기업 롯데의 지원을 바탕으로 경영 위기를 극복하고 회생세를 보이고 있다는 내용. 건설업 부진 속에서도 롯데그룹의 자금력과 신용도가 경쟁력으로 작용하고 있음을 분석.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-02T07:02:56+09:00",
     "importance": 2
   }
 ]
