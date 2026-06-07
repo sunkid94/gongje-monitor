@@ -10,14 +10,14 @@ logger = logging.getLogger(__name__)
 
 
 def classify(text: str):
-    """텍스트에 조합/산업 키워드가 있으면 (is_company, category), 없으면 None."""
+    """텍스트에 조합/산업 키워드가 있으면 (is_company, category, matched_keyword), 없으면 None."""
     for kw in COMPANY_KEYWORDS:
         if kw in text:
-            return True, "조합·협회"
+            return True, "조합·협회", kw
     for category, kws in CATEGORY_KEYWORDS.items():
         for kw in kws:
             if all(tok in text for tok in kw.split()):
-                return False, category
+                return False, category, kw
     return None
 
 
@@ -51,7 +51,7 @@ def fetch(seen=frozenset()) -> list:
             cls = classify(headline + " " + desc)
             if cls is None:
                 continue
-            is_company, category = cls
+            is_company, category, matched_kw = cls
             link = entry.get("link", "")
             if not link or link in seen_links:
                 continue
@@ -59,7 +59,7 @@ def fetch(seen=frozenset()) -> list:
             if not recent:
                 continue
             article = {
-                "keyword": name, "category": category, "is_company": is_company,
+                "keyword": matched_kw, "category": category, "is_company": is_company,
                 "title": f"{headline} - {name}", "link": link, "description": desc,
             }
             if published_at:

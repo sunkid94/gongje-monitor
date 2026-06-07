@@ -41,6 +41,7 @@ def test_rss_keeps_company_relevant_with_suffix():
     assert out[0]["title"] == "기계설비건설공제조합 신규 사업 발표 - 기계설비신문"
     assert out[0]["is_company"] is True
     assert out[0]["link"] == "http://kmec/1"
+    assert out[0]["keyword"] == "기계설비건설공제조합"
 
 
 def test_rss_drops_irrelevant_articles():
@@ -69,6 +70,7 @@ def test_rss_classifies_industry_category():
     assert len(out) == 1
     assert out[0]["is_company"] is False
     assert out[0]["category"] == "신기술"
+    assert out[0]["keyword"] == "스마트건설"
 
 
 def test_rss_feed_error_isolated():
@@ -95,3 +97,19 @@ def test_rss_skips_seen_and_old():
         source_rss.datetime = _frozen_dt()
         out = source_rss.fetch(seen={"http://kmec/seen"})
     assert out == []   # 하나는 seen, 하나는 24h 밖
+
+
+def test_rss_keeps_when_pubdate_unknown_without_published_at():
+    import source_rss
+    importlib.reload(source_rss)
+    e = MagicMock()
+    e.get = lambda k, d="": {"title": "기계설비건설공제조합 공지", "link": "http://kmec/np", "summary": "조합"}.get(k, d)
+    # published_parsed 없음 → 보수적으로 유지, published_at 키 없음
+    with patch("source_rss.feedparser.parse", return_value=_feed([e])), \
+         patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
+         patch("source_rss.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("source_rss.CATEGORY_KEYWORDS", {}):
+        source_rss.datetime = _frozen_dt()
+        out = source_rss.fetch()
+    assert len(out) == 1
+    assert "published_at" not in out[0]
