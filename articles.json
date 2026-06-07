@@ -20052,6 +20052,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안전보건공단 대구광역본부, 건설현장 안전문화 확산 캠페인 실시 - 매일신문",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xakhfZllESmJ4dEtqcGxsaklSaEcxdTFxeFd6Y0M0LTRoWENqa2lGZkZKcGl5MkdwMHNTS2lXUmpfeUoyeXNpdU5PM3ZUS1Bzb0thX01ETUFyN3NMYnNCaG9n?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xakhfZllESmJ4dEtqcGxsaklSaEcxdTFxeFd6Y0M0LTRoWENqa2lGZkZKcGl5MkdwMHNTS2lXUmpfeUoyeXNpdU5PM3ZUS1Bzb0thX01ETUFyN3NMYnNCaG9n?oc=5\" target=\"_blank\">안전보건공단 대구광역본부, 건설현장 안전문화 확산 캠페인 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "cluster_id": "e5a8",
+    "publisher": "매일신문",
+    "title_clean": "안전보건공단 대구광역본부, 건설현장 안전문화 확산 캠페인 실시",
+    "summary": "안전보건공단 대구광역본부가 건설현장의 안전문화 확산을 위한 캠페인을 실시했다. 이는 건설현장 안전 의식 고취와 사고 예방을 목표로 한 정부 차원의 안전 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-06-07T17:12:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -31309,21 +31324,5 @@
     "sentiment": "negative",
     "collected_at": "2026-06-01T16:52:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대엔지니어링·현대건설, 건설기술연구원 출범 - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RS2lkckJFNTVsYTFHVlpBdzcyaW80dlFVOV9tWUVlVjVuSXZORTR4aGJGM0U1a2NZbWx5Y05UUkEzU0g1cDFsaXc4dm5xNWxBcWJJMDM0T2pDNW9La0h3elhTb2hsVWVYZnJISWV1WC0zd9IBdEFVX3lxTE96Nkx4bmtob1B1NkZFM0NiZEpUSkNUeTJNN0VJaVlaSEJJcXJGNGlZTFk3UWdPdHQzN0lTV0R1SGE1VGNIOWhRMm9NT1g0ejYtOVA5cGZWMW42OU5wWmxSYnlUUmh3S3lXamc3ZnJCd0hLNElT?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1RS2lkckJFNTVsYTFHVlpBdzcyaW80dlFVOV9tWUVlVjVuSXZORTR4aGJGM0U1a2NZbWx5Y05UUkEzU0g1cDFsaXc4dm5xNWxBcWJJMDM0T2pDNW9La0h3elhTb2hsVWVYZnJISWV1WC0zd9IBdEFVX3lxTE96Nkx4bmtob1B1NkZFM0NiZEpUSkNUeTJNN0VJaVlaSEJJcXJGNGlZTFk3UWdPdHQzN0lTV0R1SGE1VGNIOWhRMm9NT1g0ejYtOVA5cGZWMW42OU5wWmxSYnlUUmh3S3lXamc3ZnJCd0hLNElT?oc=5\" target=\"_blank\">현대엔지니어링·현대건설, 건설기술연구원 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이뉴스투데이</font>",
-    "published_at": "2026-06-01T16:40:40+09:00",
-    "cluster_id": "0d2b",
-    "publisher": "이뉴스투데이",
-    "title_clean": "현대엔지니어링·현대건설, 건설기술연구원 출범",
-    "summary": "현대엔지니어링과 현대건설이 건설기술연구원을 출범시켰다. 이는 건설 기술 혁신과 경쟁력 강화를 위한 전략적 움직임으로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T16:52:47+09:00",
-    "importance": 2
   }
 ]
