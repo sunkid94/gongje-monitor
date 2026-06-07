@@ -4531,6 +4531,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중, 4조원대 FLNG 미국 프로젝트 청신호 - 경남매일",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UZ3hxWG53YU84dk1vd2I1dDRKY0ViLXF0a1hzbFZXaEFuLWNoY2F3d2pCRzg4RTB5VUpLSlBzazVsSlRYMG1zUU5Mdm9PeVp3U2ZaeXFCZnk0WFdCb0hZTnljUVBWSFR1cmc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9UZ3hxWG53YU84dk1vd2I1dDRKY0ViLXF0a1hzbFZXaEFuLWNoY2F3d2pCRzg4RTB5VUpLSlBzazVsSlRYMG1zUU5Mdm9PeVp3U2ZaeXFCZnk0WFdCb0hZTnljUVBWSFR1cmc?oc=5\" target=\"_blank\">삼성중, 4조원대 FLNG 미국 프로젝트 청신호</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경남매일</font>",
+    "published_at": "2026-06-07T22:37:21+09:00",
+    "cluster_id": "0d6e",
+    "publisher": "경남매일",
+    "title_clean": "삼성중, 4조원대 FLNG 미국 프로젝트 청신호",
+    "summary": "삼성중공업이 미국의 FLNG(부유식 천연가스액화설비) 프로젝트에서 청신호를 받았다. 4조원대 규모의 대형 수주 기회로 건설업계와 기계설비건설공제조합에 긍정적 영향을 미칠 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-06-07T22:47:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20172,22 +20188,6 @@
     "publisher": "인더스트리뉴스",
     "title_clean": "두산에너빌리티, 사우디 자푸라 열병합발전소 2단계 수주…8400억원 규모",
     "summary": "두산에너빌리티가 사우디아라비아의 자푸라 열병합발전소 2단계 사업을 8400억원 규모로 수주했다. 이는 건설업계의 해외 대형 수주 사례로 기계설비건설 부문의 성장을 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-01T17:02:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 사우디 자푸라 열병합 2단계 수주 - 에너지타임즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55UlF4SmhWYmtJVXlmYzRtMHhkUlVrdU5hUXpoYWQzY0s1VjNwUk5VVWhLQWY3MlRMZHJKc2VIX09ibjdSSjgwVnV2cEVfVHB2cXE0UTlNRWJtRmVJTHBYMUlSYTdtSUFQQnJ2OQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE55UlF4SmhWYmtJVXlmYzRtMHhkUlVrdU5hUXpoYWQzY0s1VjNwUk5VVWhLQWY3MlRMZHJKc2VIX09ibjdSSjgwVnV2cEVfVHB2cXE0UTlNRWJtRmVJTHBYMUlSYTdtSUFQQnJ2OQ?oc=5\" target=\"_blank\">두산에너빌리티, 사우디 자푸라 열병합 2단계 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지타임즈</font>",
-    "published_at": "2026-06-01T16:54:41+09:00",
-    "cluster_id": "eccb",
-    "publisher": "에너지타임즈",
-    "title_clean": "두산에너빌리티, 사우디 자푸라 열병합 2단계 수주",
-    "summary": "두산에너빌리티가 사우디아라비아의 자푸라 열병합발전소 2단계 프로젝트를 수주했다. 이는 건설업계와 기계설비건설 부문에 수주 증가를 의미하는 호재이다.",
     "sentiment": "positive",
     "collected_at": "2026-06-01T17:02:50+09:00",
     "importance": 2
