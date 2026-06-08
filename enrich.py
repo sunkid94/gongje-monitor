@@ -44,7 +44,7 @@ def _get_client() -> anthropic.Anthropic:
 
 
 _RELEVANCE_CRITERIA = """
-- about_org: 이 기사가 다음 조직 중 하나라도에 관한 뉴스인지 판단: {orgs}
+- about_org: 이 기사가 다음 조직 중 어느 하나에 관한 뉴스인지 판단: {orgs}
   · true: 목록 중 한 곳의 활동·발표·실적·인사·사건 등을 직접 다루거나 의미 있게 관련됨 (별칭 포함 — 예: K-FINCO=전문건설공제조합)
   · false: 목록의 어느 조직과도 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 무관한 부고종합/인사 목록, 단순 벤더·타기관 뉴스, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우 등). 애매하면 true."""
 
@@ -148,7 +148,7 @@ def enrich_articles(articles: list) -> list:
         ai = enrich_article(title_clean, a.get("description", ""), orgs=orgs)
         # 조합기사인데 추적 조직 어디와도 명백히 무관(about_org=false) → 제외 (보수적: 애매/누락은 통과)
         if a.get("is_company") and ai.get("about_org") is False:
-            logger.info("관련도 게이트 제외: %s", title_clean[:40])
+            logger.info("관련도 게이트 제외 (keyword=%s): %s", a.get("keyword"), title_clean[:40])
             continue
         out = {
             **a,
