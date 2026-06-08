@@ -359,3 +359,53 @@ def test_filter_v2_same_direction_still_merges(tmp_path):
             [_article("전문건설공제조합, 피치 국제신용등급 A+ 유지 - B")], _now() + timedelta(hours=2))
     assert to_push == []
     assert len(suppressed) == 1
+
+
+def test_label_canon_finds_tracked_org():
+    assert push_dedup.label_canon("대한기계설비건설협회 박종학 회장 별세") == "대한기계설비건설협회"
+    assert push_dedup.label_canon("K-FINCO 피치 신용등급 A+ 유지") == "전문건설공제조합"
+    assert push_dedup.label_canon("전문건설공제조합 피치 A+ 유지") == "전문건설공제조합"
+
+
+def test_label_canon_fallback_when_no_tracked_org():
+    c = push_dedup.label_canon("어떤 벤더 신제품 출시")
+    assert c not in ("", None)
+    assert "어떤" in c
+
+
+def _labeled(title, label):
+    return {"title": title, "event_label": label, "is_company": True, "link": title}
+
+
+def test_filter_unpushed_merges_obituary_by_label(tmp_path):
+    arts = [
+        _labeled("기계설비산업 발전 이끈 박종학 전 기계설비건설협회장 별세 - 이데일리", "대한기계설비건설협회 박종학 회장 별세"),
+        _labeled("박종학 대한기계설비건설협회 제6대 회장 별세 - 한국경제", "대한기계설비건설협회 박종학 회장 별세"),
+        _labeled("[부고] 박종학씨 外 - 중앙", "대한기계설비건설협회 박종학 회장 별세"),
+    ]
+    with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
+        to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
+    assert len(to_push) == 1
+    assert len(suppressed) == 2
+
+
+def test_filter_unpushed_different_org_labels_not_merged(tmp_path):
+    arts = [
+        _labeled("기계설비건설공제조합 신용등급 A+ - A", "기계설비건설공제조합 피치 신용등급 A+ 유지"),
+        _labeled("전문건설공제조합 신용등급 A+ - B", "전문건설공제조합 피치 신용등급 A+ 유지"),
+    ]
+    with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
+        to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
+    assert len(to_push) == 2
+    assert suppressed == []
+
+
+def test_filter_unpushed_falls_back_to_title_without_label(tmp_path):
+    arts = [
+        {"title": "전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트", "is_company": True, "link": "a"},
+        {"title": "전문건설공제조합, 피치 국제신용등급 'A+' 유지 - 이데일리", "is_company": True, "link": "b"},
+    ]
+    with patch("push_dedup.PUSHED_FILE", str(tmp_path / "pushed.json")):
+        to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
+    assert len(to_push) == 1
+    assert len(suppressed) == 1

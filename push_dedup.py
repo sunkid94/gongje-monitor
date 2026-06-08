@@ -11,6 +11,8 @@ import tempfile
 from datetime import datetime, timedelta
 from typing import List, Tuple
 
+from config import COMPANY_KEYWORDS, COMPANY_ALIASES
+
 logger = logging.getLogger(__name__)
 
 PUSHED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pushed.json")
@@ -82,6 +84,28 @@ def canonical_org(title: str) -> str:
         if f" {name} " in padded:
             return canon
     return lead
+
+
+def _normalize(text: str) -> str:
+    return " " + " ".join(_PUNCT_RE.sub(" ", (text or "").lower()).split()) + " "
+
+
+def label_canon(label: str) -> str:
+    """이벤트 라벨에서 추적 조직(정식명/별칭)을 찾아 대표명 반환. 없으면 정규화 라벨 전체(폴백).
+
+    AI 라벨이 대표조직명으로 시작하므로 보통 바로 매칭된다. 더 긴 이름 우선(짧은 별칭 오매칭 방지),
+    공백 경계 매칭.
+    """
+    nlabel = _normalize(label)
+    candidates = []
+    for canon in COMPANY_KEYWORDS:
+        for name in [canon] + COMPANY_ALIASES.get(canon, []):
+            candidates.append((_normalize(name).strip(), canon))
+    candidates.sort(key=lambda x: len(x[0]), reverse=True)
+    for nname, canon in candidates:
+        if nname and f" {nname} " in nlabel:
+            return canon
+    return nlabel.strip()
 
 
 def overlap(a: set, b: set) -> float:
@@ -190,15 +214,20 @@ def filter_unpushed(company_articles: List[dict], now: datetime) -> Tuple[List[d
     suppressed: List[dict] = []
 
     for art in company_articles:
-        title = art.get("title", "")
-        key = story_key(title)
-        canon = canonical_org(title)
+        label = art.get("event_label")
+        if label:
+            key = story_key(label)
+            canon = label_canon(label)
+        else:
+            title = art.get("title", "")
+            key = story_key(title)
+            canon = canonical_org(title)
         if key and any(_same_story(key, canon, e) for e in accepted):
             suppressed.append(art)
             continue
         to_push.append(art)
         if key:
-            accepted.append({"tokens": key, "canon": canon, "pushed_at": now_iso, "title": title})
+            accepted.append({"tokens": key, "canon": canon, "pushed_at": now_iso, "title": art.get("title", "")})
 
     save_pushed(accepted, now)
     return to_push, suppressed

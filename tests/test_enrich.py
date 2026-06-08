@@ -475,3 +475,15 @@ def test_enrich_articles_attaches_event_label():
         res = enrich_articles(arts)
     assert len(res) == 1
     assert res[0]["event_label"] == "전문건설공제조합 피치 A+ 유지"
+
+
+def test_enrich_article_event_label_non_string_ignored():
+    import enrich
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary":"s","sentiment":"neutral","about_org":true,"event_label":null}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        r = enrich_article("제목", "내용", orgs=enrich._TRACKED_ORGS)
+    assert "event_label" not in r
