@@ -409,3 +409,19 @@ def test_filter_unpushed_falls_back_to_title_without_label(tmp_path):
         to_push, suppressed = push_dedup.filter_unpushed(arts, _now())
     assert len(to_push) == 1
     assert len(suppressed) == 1
+
+
+def test_filter_unpushed_v2_title_history_dedups_v3_label(tmp_path):
+    # 전환기: 제목 기반(v2)으로 먼저 푸시된 사건이, 나중에 라벨 달고 온 같은 사건(v3)을 억제해야 함
+    f = tmp_path / "pushed.json"
+    with patch("push_dedup.PUSHED_FILE", str(f)):
+        push_dedup.filter_unpushed(
+            [{"title": "전문건설공제조합, 피치 신용등급 A+ 유지 - 네이트", "is_company": True, "link": "a"}],
+            _now())
+        to_push, suppressed = push_dedup.filter_unpushed(
+            [{"title": "K-FINCO 피치 A+ - 이데일리",
+              "event_label": "전문건설공제조합 피치 신용등급 A+ 유지",
+              "is_company": True, "link": "b"}],
+            _now() + timedelta(hours=1))
+    assert to_push == []
+    assert len(suppressed) == 1

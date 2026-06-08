@@ -95,6 +95,9 @@ def label_canon(label: str) -> str:
 
     AI 라벨이 대표조직명으로 시작하므로 보통 바로 매칭된다. 더 긴 이름 우선(짧은 별칭 오매칭 방지),
     공백 경계 매칭.
+    참고: 라벨은 AI가 대표조직 정식명으로 생성하므로(enrich 프롬프트), 한글 약칭은 거의 안 나온다.
+    그래서 여기선 config.COMPANY_ALIASES(영문 브랜드 K-FINCO/CIG)만으로 충분하다. (title 폴백 경로의
+    canonical_org 는 별도의 push_dedup.ORG_ALIASES 를 쓴다 — 두 경로의 별칭 소스가 다른 건 의도된 것.)
     """
     nlabel = _normalize(label)
     candidates = []
