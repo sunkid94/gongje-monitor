@@ -46,9 +46,10 @@ def _get_client() -> anthropic.Anthropic:
 _RELEVANCE_CRITERIA = """
 - about_org: 이 기사가 다음 조직 중 어느 하나에 관한 뉴스인지 판단: {orgs}
   · true: 목록 중 한 곳의 활동·발표·실적·인사·사건 등을 직접 다루거나 의미 있게 관련됨 (별칭 포함 — 예: K-FINCO=전문건설공제조합)
-  · false: 목록의 어느 조직과도 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 무관한 부고종합/인사 목록, 단순 벤더·타기관 뉴스, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우 등). 애매하면 true."""
+  · false: 목록의 어느 조직과도 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 무관한 부고종합/인사 목록, 단순 벤더·타기관 뉴스, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우 등). 애매하면 true.
+- event_label: 이 기사의 핵심 사건을 "대표조직명 + 핵심사건" 한 줄로 간결히. 대표조직은 위 목록의 정식 명칭 사용(예: K-FINCO→전문건설공제조합). 매체·표현이 달라도 같은 사건이면 같은 라벨이 나오게. 예: "대한기계설비건설협회 박종학 회장 별세", "전문건설공제조합 피치 신용등급 A+ 유지"."""
 
-_RELEVANCE_FIELD = ', "about_org": true|false'
+_RELEVANCE_FIELD = ', "about_org": true|false, "event_label": "..."'
 
 _ENRICH_PROMPT = """다음 뉴스 기사를 분석해 JSON으로 답하세요.
 
@@ -99,6 +100,8 @@ def enrich_article(title: str, description: str, orgs: Optional[str] = None) -> 
             elif isinstance(val, str):
                 result["about_org"] = val.strip().lower() not in ("false", "no", "0", "")
             # 그 외 타입은 무시(키 미포함 → 호출측이 보수적으로 통과)
+        if orgs and isinstance(data.get("event_label"), str) and data["event_label"].strip():
+            result["event_label"] = data["event_label"].strip()
         return result
     except Exception as e:
         logger.warning("enrich_article 폴백 (title=%s): %s", title[:30], e)
@@ -160,6 +163,8 @@ def enrich_articles(articles: list) -> list:
             # article_store.add_articles 가 나중에 진짜 시각으로 덮어쓰지만 importance 는 유지.
             "collected_at": a.get("collected_at") or now_str,
         }
+        if "event_label" in ai:
+            out["event_label"] = ai["event_label"]
         out["importance"] = calc_importance(out, cluster_sizes[a["cluster_id"]], now=now)
         enriched.append(out)
 

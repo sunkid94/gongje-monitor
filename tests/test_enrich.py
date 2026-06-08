@@ -421,3 +421,57 @@ def test_enrich_articles_gate_uses_full_org_list_not_keyword():
     sent_prompt = mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
     assert "대한기계설비건설협회" in sent_prompt
     assert "K-FINCO" in sent_prompt
+
+
+def test_enrich_article_returns_event_label():
+    import enrich
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary":"s","sentiment":"neutral","about_org":true,"event_label":"대한기계설비건설협회 박종학 회장 별세"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        r = enrich_article("박종학 별세", "부고", orgs=enrich._TRACKED_ORGS)
+    assert r["event_label"] == "대한기계설비건설협회 박종학 회장 별세"
+    sent = mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
+    assert "event_label" in sent
+
+
+def test_enrich_article_no_event_label_without_orgs():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary":"s","sentiment":"neutral"}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        r = enrich_article("제목", "내용")
+    assert "event_label" not in r
+    sent = mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
+    assert "event_label" not in sent
+
+
+def test_enrich_article_event_label_missing_in_response_omitted():
+    import enrich
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary":"s","sentiment":"neutral","about_org":true}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        r = enrich_article("제목", "내용", orgs=enrich._TRACKED_ORGS)
+    assert "event_label" not in r
+
+
+def test_enrich_articles_attaches_event_label():
+    import enrich
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary":"s","sentiment":"neutral","about_org":true,"event_label":"전문건설공제조합 피치 A+ 유지"}')]
+    )
+    arts = [{"title": "K-FINCO 피치 A+ - 매체", "description": "d", "link": "l1",
+             "keyword": "전문건설공제조합", "category": "조합·협회", "is_company": True}]
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_articles
+        res = enrich_articles(arts)
+    assert len(res) == 1
+    assert res[0]["event_label"] == "전문건설공제조합 피치 A+ 유지"
