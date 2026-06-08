@@ -15,6 +15,13 @@ COMPANY_KEYWORDS = [
     "대한기계설비건설협회",
 ]
 
+# 영문/특수 브랜드 별칭 — AI가 모를 수 있는 것만 (한글 약칭은 AI가 인식).
+# 키는 반드시 COMPANY_KEYWORDS 에 있는 조직명이어야 함 (enrich._build_tracked_orgs 가 COMPANY_KEYWORDS 기준으로 순회).
+COMPANY_ALIASES = {
+    "전문건설공제조합": ["K-FINCO"],
+    "기계설비건설공제조합": ["CIG"],   # 우리 조합
+}
+
 CATEGORY_KEYWORDS = {
     "정책·규제": ["건설산업기본법", "국토교통부 건설", "건설업 규제"],
     "시장·경기": ["건설경기", "건설 PF", "건설수주"],

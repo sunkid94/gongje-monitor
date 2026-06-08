@@ -10,6 +10,7 @@ from typing import Optional
 import anthropic
 
 from article_store import format_collected_at, parse_collected_at
+from config import COMPANY_KEYWORDS, COMPANY_ALIASES
 
 logger = logging.getLogger(__name__)
 
@@ -17,6 +18,17 @@ _PUBLISHER_SUFFIX_RE = re.compile(r"\s+-\s+([^-]+?)\s*$")
 _CODE_FENCE_RE = re.compile(r"^```(?:json)?\s*\n?(.*?)\n?```\s*$", re.DOTALL)
 _VALID_SENTIMENTS = {"positive", "neutral", "negative"}
 _client: Optional[anthropic.Anthropic] = None
+
+
+def _build_tracked_orgs() -> str:
+    parts = []
+    for org in COMPANY_KEYWORDS:
+        aliases = COMPANY_ALIASES.get(org)
+        parts.append(f"{org}(={'/'.join(aliases)})" if aliases else org)
+    return ", ".join(parts)
+
+
+_TRACKED_ORGS = _build_tracked_orgs()
 
 
 def _strip_code_fence(text: str) -> str:
@@ -32,9 +44,9 @@ def _get_client() -> anthropic.Anthropic:
 
 
 _RELEVANCE_CRITERIA = """
-- about_org: 이 기사가 실제로 "{org}"에 관한 뉴스인지 판단.
-  · true: "{org}"의 활동·발표·실적·인사·사건 등을 직접 다루거나, "{org}"(이)가 기사 주제에 의미 있게 관련됨
-  · false: "{org}"(이)가 본문 주제와 사실상 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 부고종합/인사 목록의 타인 항목, 단순 나열, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우 등). 애매하면 true."""
+- about_org: 이 기사가 다음 조직 중 어느 하나에 관한 뉴스인지 판단: {orgs}
+  · true: 목록 중 한 곳의 활동·발표·실적·인사·사건 등을 직접 다루거나 의미 있게 관련됨 (별칭 포함 — 예: K-FINCO=전문건설공제조합)
+  · false: 목록의 어느 조직과도 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 무관한 부고종합/인사 목록, 단순 벤더·타기관 뉴스, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우 등). 애매하면 true."""
 
 _RELEVANCE_FIELD = ', "about_org": true|false'
 
@@ -54,13 +66,13 @@ JSON 형식 (다른 텍스트 없이 이것만):
 {{"summary": "...", "sentiment": "positive|neutral|negative"{relevance_field}}}"""
 
 
-def enrich_article(title: str, description: str, org: Optional[str] = None) -> dict:
+def enrich_article(title: str, description: str, orgs: Optional[str] = None) -> dict:
     fallback = {
         "summary": (description or "")[:200],
         "sentiment": "neutral",
     }
-    relevance_criteria = _RELEVANCE_CRITERIA.format(org=org) if org else ""
-    relevance_field = _RELEVANCE_FIELD if org else ""
+    relevance_criteria = _RELEVANCE_CRITERIA.format(orgs=orgs) if orgs else ""
+    relevance_field = _RELEVANCE_FIELD if orgs else ""
     prompt = _ENRICH_PROMPT.format(
         title=title, description=description,
         relevance_criteria=relevance_criteria, relevance_field=relevance_field,
@@ -80,7 +92,7 @@ def enrich_article(title: str, description: str, org: Optional[str] = None) -> d
             "summary": data.get("summary", "").strip() or fallback["summary"],
             "sentiment": sentiment,
         }
-        if org and "about_org" in data:
+        if orgs and "about_org" in data:
             val = data["about_org"]
             if isinstance(val, bool):
                 result["about_org"] = val
@@ -132,11 +144,11 @@ def enrich_articles(articles: list) -> list:
         title = a["title"]
         publisher = extract_publisher(title)
         title_clean = _PUBLISHER_SUFFIX_RE.sub("", title)
-        org = a.get("keyword") if a.get("is_company") else None
-        ai = enrich_article(title_clean, a.get("description", ""), org=org)
-        # 조합기사인데 조직과 명백히 무관(about_org=false) → 제외 (보수적: 애매/누락은 통과)
+        orgs = _TRACKED_ORGS if a.get("is_company") else None
+        ai = enrich_article(title_clean, a.get("description", ""), orgs=orgs)
+        # 조합기사인데 추적 조직 어디와도 명백히 무관(about_org=false) → 제외 (보수적: 애매/누락은 통과)
         if a.get("is_company") and ai.get("about_org") is False:
-            logger.info("관련도 게이트 제외 (조직=%s): %s", org, title_clean[:40])
+            logger.info("관련도 게이트 제외 (keyword=%s): %s", a.get("keyword"), title_clean[:40])
             continue
         out = {
             **a,
