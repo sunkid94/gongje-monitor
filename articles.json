@@ -12200,6 +12200,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 주가, 7월 2일 장중 18,970원 2.32% 하락 - 중앙이코노미뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZUFpjT1JhSTdid1N1cjJnV0wxa1NFdnV1Q1dCbUQ2ZFBsZE11MjVicThRY2wtSk1ZQk50eUF6bDBvMFRKd3IwWXllZzNUVFo5cTN3bjVhQ2NGYll2Ujk1TTE0bXlGeHFqRXA3b0lNYXpFZw?oc=5",
+    "description": "[중앙이코노미뉴스 김영진] 2일 오전 10시 10분 기준, 네이버페이 증권에 따르면 대우건설 주가는 현재 18,970원을 기록하며 지난 종가 19,420원 대비",
+    "published_at": "2026-07-02T10:51:31+09:00",
+    "cluster_id": "d4ea",
+    "publisher": "중앙이코노미뉴스",
+    "title_clean": "대우건설 주가, 7월 2일 장중 18,970원 2.32% 하락",
+    "summary": "대우건설 주가가 7월 2일 장중 18,970원으로 전일 종가 대비 2.32% 하락했다. 구체적인 하락 원인에 대한 정보는 제시되지 않았으며, 단순 주가 변동 사실만 보도되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-02T23:37:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -28038,22 +28054,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-01T15:08:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"회장님도 AI 코드 짠다\"…롯데 전사적 ‘AX 전환’ 승부수 - mediapen.com",
-    "link": "https://www.mediapen.com/news/view/1107616",
-    "description": "롯데건설은 AI기반 다국어 번역 솔루션을 통해 외국인 근로자와의 안전 커뮤니케이션을 강화하고 있다. 건설 전문 용어와 작업 환경을 반영한 AI 번역 모델을 구축해 영어, 중국어, 베트남어, 태국어를 비롯해 20개...",
-    "published_at": "2026-07-01T15:02:00+09:00",
-    "cluster_id": "c21d",
-    "publisher": "mediapen.com",
-    "title_clean": "\"회장님도 AI 코드 짠다\"…롯데 전사적 ‘AX 전환’ 승부수",
-    "summary": "롯데건설이 AI 기반 다국어 번역 솔루션을 도입해 외국인 근로자와의 안전 커뮤니케이션을 강화하고 있다. 건설 전문 용어를 반영한 AI 번역 모델로 20개 언어를 지원하며 작업 환경 안전성을 개선하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-01T15:08:01+09:00",
-    "importance": 2
   },
   {
     "keyword": "스마트건설",
