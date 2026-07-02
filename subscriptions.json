@@ -1,0 +1,33 @@
+[
+  {
+    "name": "이재은 매니저",
+    "subscription": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/dXrlm5voZJk:APA91bEqWxDOUlBMsbc1_fxvLxg9mm2WgSz7q3UKnkRXC6-Ez-GY0egIQ7EpzrnBqcnZgRpDkE_iimuDNy3a5ZMrmaQ04jILtExcD2ZWDBFqSu8KlgTFOTeW_k1G2RWyamER_NbnHKtb",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BK3P19HiU_lJRusKQDM5VaGY-mal5ZwZJn5j8w89nMBMBociDVWUsfdZRdwRYXMBABI9KZrUdHFun2qWouwnnQE",
+        "auth": "NQzWGEA8KOIiudtnjWTM3g"
+      }
+    }
+  },
+  {
+    "name": "양소희 선임",
+    "subscription": {
+      "endpoint": "https://web.push.apple.com/QGMkminuhPJ47v1vQcWS0Earn_CB76pQz0POkUgrKvUDvTOp1hsMFBVTBH3avHcZIOq97il3gyyt4n5D9L-aqyVEF9AjOC9nzQKLgBenMVBqXpXnYXJRIN2mL41TH5w_Zz9Ua4gKy4DpSV-WcDXzL3scbTFRX-u91oQo80Yhge8",
+      "keys": {
+        "p256dh": "BCd_-VSaxmpov_VBc8hsDB49iAsxAOt7zpHT7ISVD7TJtSo7N1ZrT2n-gxBkBw6FxG_z6A96RtgLvd5uYMz36Zo",
+        "auth": "AKqEh9o1h4brcklXDRX2Bw"
+      }
+    }
+  },
+  {
+    "name": "고은애 팀장",
+    "subscription": {
+      "endpoint": "https://web.push.apple.com/QEl1tZLmcKKjf3qJzPhpDzkzSgh26H2LKKhPAV4Mwnigsr8s12yiiu5YSvCcxVfG1jC4EBZuz-ztDEhKaG7b1NwIQidOtfoqIMHeQT_fYd5VudjvkTn0ObjY27XsjI0pmF_SmIkmF69yVXWpDmCTfD6XaoVtqh27HCu4mDPAXeo",
+      "keys": {
+        "p256dh": "BA3zUWPXk4Y20n2mp1AY19ZUL6dG9yWaa-9LWnPHx3SVr-rbnsXJzxC3ie5vanTRy3dKsh5QtypSJ2tyNjcKXyA",
+        "auth": "4aoATO8H8dVJPqz_TYlzRg"
+      }
+    }
+  }
+]

@@ -1,0 +1,1394 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>기계설비건설공제조합 이슈 모니터</title>
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1E3A6F">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="CIG 이슈">
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <!-- Web Push (VAPID) -->
+  <script>
+    window.VAPID_PUBLIC_KEY = 'BJ5IZzhWKOAFapRb1CgTddrIyURTWyRsUc7-ZtXb58tV3thmrltff5Lk-26fwb-da_OTLKcEQdIei97I7LWz8OY';
+  </script>
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/variable/pretendardvariable.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --navy: #1E3A6F;
+      --navy-dark: #142848;
+      --navy-deep: #0A1829;
+      --blue-accent: #4A7BC8;
+      --blue-soft: #7BA4D9;
+      --cyan-soft: #9BC5D9;
+      --bg: #F5F7FB;
+      --bg-soft: #EAF0F8;
+      --border: #E5EAF2;
+      --text: #1C2333;
+      --sub: #4A5568;
+      --muted: #8A97AE;
+      --white: #FFFFFF;
+
+      --cat-policy: #6b4f9a;
+      --cat-market: #2c6f5a;
+      --cat-safety: #d94936;
+      --cat-tech:   #2c8aa3;
+      --cat-corp:   #4a5568;
+      --cat-co-op:  #1E3A6F;
+
+      --sent-neg: #d94936;
+      --sent-neu: #8A97AE;
+      --sent-pos: #2c6f5a;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; overflow-x: clip; }
+    body {
+      font-family: "Pretendard Variable", "Pretendard", -apple-system, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      word-break: keep-all;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: clip;
+    }
+
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      padding: 0 40px; height: 64px;
+      display: flex; align-items: center; justify-content: space-between;
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    nav .brand-row { display: flex; align-items: center; gap: 10px; }
+    nav .brand-logo { height: 28px; width: auto; display: block; }
+    nav .brand-30th { height: 36px; width: auto; display: block; }
+    nav .nav-actions { display: flex; align-items: center; gap: 8px; }
+    nav .install-btn-nav {
+      flex-shrink: 0;
+      padding: 7px 14px; border-radius: 100px;
+      border: 1.5px solid var(--navy); background: var(--navy); color: #fff;
+      font-weight: 800; font-size: 12px; font-family: inherit;
+      cursor: pointer; letter-spacing: -0.2px;
+      display: inline-flex; align-items: center; gap: 4px;
+    }
+    nav .install-btn-nav:hover { background: var(--navy-dark); }
+    nav .install-btn-nav[hidden] { display: none; }
+    nav .notify-btn {
+      flex-shrink: 0;
+      margin-left: 10px;
+      width: 34px; height: 34px; border-radius: 50%;
+      border: 1px solid var(--border); background: var(--white);
+      font-size: 16px; line-height: 1; cursor: pointer; font-family: inherit;
+      display: flex; align-items: center; justify-content: center;
+      padding: 0;
+    }
+    nav .notify-btn:hover { background: var(--bg-soft); border-color: var(--navy); }
+    nav .notify-btn[hidden] { display: none; }
+    nav .notify-btn.granted { background: var(--bg-soft); border-color: var(--blue-accent); }
+    nav .notify-btn:disabled { opacity: 0.5; cursor: progress; }
+
+    /* === 구독 토큰 표시 카드 (백드롭 없이 단순 고정) === */
+    .sub-modal {
+      position: fixed; top: 70px; left: 16px; right: 16px;
+      z-index: 9999; max-width: 540px; margin: 0 auto;
+      background: var(--white); border: 2px solid var(--navy);
+      border-radius: 12px; padding: 18px;
+      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.5);
+      display: flex; flex-direction: column; gap: 12px;
+    }
+    .sub-modal[hidden] { display: none; }
+    .sub-modal-card { display: contents; }
+    .sub-modal-head {
+      display: flex; align-items: center; justify-content: space-between;
+      font-size: 15px; color: var(--navy);
+    }
+    .sub-modal-close {
+      width: 30px; height: 30px; border: none; border-radius: 50%;
+      background: var(--bg-soft); color: var(--sub);
+      font-size: 18px; cursor: pointer; font-family: inherit;
+    }
+    .sub-modal-help { font-size: 13px; color: var(--sub); line-height: 1.6; margin: 0; }
+    .sub-modal-name-label {
+      font-size: 12px; font-weight: 700; color: var(--navy);
+      letter-spacing: 0.3px;
+    }
+    .sub-modal-name {
+      width: 100%; padding: 10px 12px; box-sizing: border-box;
+      font-family: inherit; font-size: 14px;
+      border: 1.5px solid var(--border); border-radius: 8px;
+      background: var(--white); color: var(--text);
+    }
+    .sub-modal-name:focus { outline: none; border-color: var(--navy); }
+    .sub-modal textarea {
+      width: 100%; min-height: 120px; max-height: 200px;
+      padding: 10px 12px; font-size: 11px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      border: 1px solid var(--border); border-radius: 8px;
+      background: var(--bg); color: var(--text);
+      resize: vertical; word-break: break-all;
+    }
+    .sub-modal-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+    .sub-modal-actions button {
+      flex: 1 1 auto; min-width: 90px;
+      background: var(--navy); color: #fff; border: none;
+      padding: 9px 14px; border-radius: 100px;
+      font-weight: 800; font-size: 13px; cursor: pointer; font-family: inherit;
+    }
+    .sub-modal-actions button:hover { background: var(--navy-dark); }
+    .sub-modal-actions .sub-modal-mail,
+    .sub-modal-actions .sub-modal-copy {
+      background: var(--white); color: var(--navy);
+      border: 1.5px solid var(--navy);
+    }
+    .sub-modal-actions .sub-modal-mail:hover,
+    .sub-modal-actions .sub-modal-copy:hover { background: var(--bg-soft); }
+    .sub-modal-status { font-size: 12px; color: var(--sent-pos); font-weight: 700; min-height: 16px; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+    @media (max-width: 480px) {
+      nav {
+        justify-content: space-between; gap: 8px;
+        padding: 0 12px;
+      }
+      nav .brand-row { gap: 6px; min-width: 0; flex-shrink: 1; }
+      nav .brand-logo { height: 22px; max-width: 100%; flex-shrink: 1; min-width: 0; object-fit: contain; object-position: left center; }
+      nav .brand-30th { height: 26px; flex-shrink: 0; }
+      nav .nav-actions { gap: 6px; flex-shrink: 0; margin-left: 0; }
+      nav .install-btn-nav { padding: 6px 11px; font-size: 11px; }
+      nav .notify-btn { margin-left: 0; }
+    }
+    @media (max-width: 380px) {
+      nav .install-btn-nav {
+        padding: 0; width: 34px; height: 34px;
+        border-radius: 50%;
+        font-size: 0; line-height: 1;
+      }
+      nav .install-btn-nav::before {
+        content: "📲"; font-size: 16px;
+      }
+    }
+
+    .hero {
+      padding: 140px 24px 60px;
+      text-align: center;
+      background: var(--white);
+      border-bottom: 1px solid var(--border);
+    }
+    .hero-eyebrow {
+      font-size: 11px; font-weight: 800;
+      color: var(--navy); letter-spacing: 4px;
+      margin-bottom: 18px;
+    }
+    .hero-title {
+      font-size: clamp(32px, 5vw, 52px);
+      font-weight: 900; color: var(--navy);
+      letter-spacing: -1.5px; line-height: 1.1;
+      margin-bottom: 12px;
+    }
+    .hero-sub {
+      font-size: 15px; color: var(--sub); line-height: 1.7;
+      max-width: 620px; margin: 0 auto;
+    }
+    .hero-sub strong {
+      color: var(--navy); font-weight: 800;
+      letter-spacing: 0.05em; margin-right: 4px;
+    }
+
+    .container { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+    section { padding: 60px 0; }
+    .sec-num {
+      display: inline-flex; align-items: center; gap: 12px;
+      margin-bottom: 20px;
+    }
+    .sec-num .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--navy); }
+    .sec-num .line { width: 40px; height: 1px; background: var(--navy); }
+    .sec-num span {
+      font-size: 11px; font-weight: 800;
+      color: var(--navy); letter-spacing: 4px;
+    }
+    .sec-head h2 {
+      font-size: clamp(24px, 3vw, 32px);
+      font-weight: 900; color: var(--navy);
+      letter-spacing: -1px; margin-bottom: 40px;
+    }
+
+    .empty {
+      text-align: center; padding: 80px 20px;
+      color: var(--muted); background: var(--white);
+      border-radius: 12px; border: 1px solid var(--border);
+    }
+
+    footer {
+      text-align: center; padding: 40px 20px;
+      color: var(--muted); font-size: 12px;
+      border-top: 1px solid var(--border);
+      background: var(--white);
+    }
+
+    /* ===== Filter Bar ===== */
+    .filter-bar {
+      position: sticky; top: 64px; z-index: 50;
+      background: rgba(255,255,255,0.97);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+    }
+    .filter-bar-inner {
+      max-width: 1120px; margin: 0 auto;
+      display: flex; flex-direction: column; gap: 14px;
+    }
+    .filter-row {
+      display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+    }
+    .filter-row.period { padding-bottom: 14px; border-bottom: 1px dashed var(--border); }
+    .filter-label {
+      font-size: 11px; font-weight: 800;
+      color: var(--navy); letter-spacing: 1.5px;
+      padding: 4px 10px; border-radius: 6px;
+      background: var(--bg-soft);
+      margin-right: 4px;
+      min-width: 56px; text-align: center;
+    }
+    .filter-row.period .filter-label { color: var(--sub); background: var(--bg); }
+    .search-input {
+      flex: 1; min-width: 220px; max-width: 440px;
+      padding: 10px 14px;
+      border: 1px solid var(--border); border-radius: 8px;
+      font-size: 14px; font-family: inherit;
+      background: var(--white);
+    }
+    .search-input:focus { outline: none; border-color: var(--navy); }
+    .chip {
+      padding: 8px 15px; border: 1.5px solid #c7d0dd;
+      border-radius: 100px; background: var(--white);
+      font-size: 13px; font-weight: 700; color: var(--text);
+      cursor: pointer; font-family: inherit;
+      transition: all .15s ease;
+      display: inline-flex; align-items: center; gap: 4px;
+    }
+    .chip:hover {
+      border-color: var(--navy); color: var(--navy);
+      box-shadow: 0 2px 8px rgba(30,58,111,0.08);
+    }
+    .chip.active {
+      background: var(--navy); color: #fff; border-color: var(--navy);
+      box-shadow: 0 4px 12px rgba(30,58,111,0.18);
+    }
+    .chip .count { opacity: 0.65; font-size: 11px; font-weight: 600; }
+    .chip .caret {
+      font-size: 9px; opacity: 0.6;
+      transition: transform .15s ease;
+    }
+    .chip.active .caret { opacity: 0.9; }
+    .chip.expanded .caret { transform: rotate(180deg); }
+
+    /* Sub chip — smaller, subtler */
+    .chip.sub {
+      padding: 6px 12px; font-size: 12px;
+      border-color: var(--border); font-weight: 600;
+      color: var(--sub);
+    }
+    .chip.sub.active {
+      background: var(--blue-accent); border-color: var(--blue-accent);
+      box-shadow: 0 2px 8px rgba(74,123,200,0.25);
+    }
+
+    .cat-group.hidden { display: none; }
+    .cat-group .filter-label { color: var(--blue-accent); }
+
+    /* Date range */
+    .date-range {
+      display: inline-flex; align-items: center; gap: 6px;
+      margin-left: 6px; padding-left: 10px;
+      border-left: 1px dashed var(--border);
+    }
+    .date-input {
+      padding: 6px 10px;
+      border: 1px solid var(--border); border-radius: 6px;
+      font-size: 12px; font-family: inherit;
+      background: var(--white); color: var(--text);
+      min-width: 130px;
+    }
+    .date-input:focus { outline: none; border-color: var(--navy); }
+    .date-tilde { color: var(--muted); font-size: 12px; }
+    .date-clear {
+      width: 22px; height: 22px;
+      border: 1px solid var(--border); border-radius: 50%;
+      background: var(--white); color: var(--muted);
+      font-size: 14px; line-height: 1; cursor: pointer;
+      font-family: inherit; padding: 0;
+    }
+    .date-clear:hover { color: var(--navy); border-color: var(--navy); }
+    @media (max-width: 640px) {
+      .date-range {
+        margin-left: 0; padding-left: 0;
+        border-left: none; width: 100%;
+        margin-top: 6px;
+      }
+      .date-input { flex: 1; min-width: 0; }
+    }
+
+    /* ===== Legend ===== */
+    .legend-wrap { padding-top: 12px; }
+    .legend-toggle {
+      font-size: 11px; font-weight: 700;
+      color: var(--muted); background: transparent;
+      border: none; padding: 6px 0;
+      cursor: pointer; font-family: inherit;
+      letter-spacing: 0.5px;
+    }
+    .legend-toggle:hover { color: var(--navy); }
+    .legend {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-size: 12px; color: var(--sub);
+      display: flex; flex-direction: column; gap: 10px;
+      margin-top: 6px;
+    }
+    .legend[hidden] { display: none; }
+    .legend-row {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 14px;
+    }
+    .legend-label {
+      font-weight: 800; color: var(--navy); letter-spacing: 1px;
+      font-size: 10px; min-width: 44px;
+    }
+    .legend-item {
+      display: inline-flex; align-items: center; gap: 5px;
+    }
+    .legend-imp {
+      font-size: 10px; color: var(--blue-accent); letter-spacing: 1px;
+      font-weight: 700;
+    }
+    .legend-note { color: var(--muted); font-size: 11px; font-style: italic; }
+    @media (max-width: 640px) {
+      .legend { padding: 12px 14px; }
+      .legend-row { gap: 10px; }
+      .legend-item { font-size: 11.5px; }
+      .legend-note { display: none; }
+    }
+
+    /* 좁은 화면에서 종합건설사 → 종건사 라벨 교체 */
+    .label-narrow { display: none; }
+    @media (max-width: 640px) {
+      .label-wide { display: none; }
+      .label-narrow { display: inline; }
+    }
+
+    /* ===== Article Card ===== */
+    .article {
+      background: var(--white);
+      border-radius: 8px;
+      padding: 22px 24px;
+      margin-bottom: 10px;
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--navy);
+      transition: all .25s ease;
+      position: relative;
+    }
+    .article:hover {
+      box-shadow: 0 8px 24px rgba(30, 58, 111, 0.06);
+      transform: translateX(4px);
+    }
+    .article.is-company { border-left-color: var(--cat-safety); }
+
+    .article-meta {
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+      font-size: 11px; color: var(--muted);
+      margin-bottom: 10px;
+    }
+    .article-meta .time {
+      color: var(--navy); font-weight: 700; font-size: 12px;
+    }
+    .imp-dots {
+      letter-spacing: 1px; font-size: 10px;
+      color: var(--blue-accent); font-weight: 700;
+    }
+    .cat-badge {
+      padding: 3px 10px; border-radius: 100px;
+      font-size: 10px; font-weight: 700; letter-spacing: 1px;
+      color: #fff;
+    }
+    .cat-badge.c-co-op   { background: var(--cat-co-op); }
+    .cat-badge.c-policy  { background: var(--cat-policy); }
+    .cat-badge.c-market  { background: var(--cat-market); }
+    .cat-badge.c-safety  { background: var(--cat-safety); }
+    .cat-badge.c-tech    { background: var(--cat-tech); }
+    .cat-badge.c-corp    { background: var(--cat-corp); }
+    .sent-dot { font-size: 9px; line-height: 1; }
+    .sent-dot.neg { color: var(--sent-neg); }
+    .sent-dot.neu { color: var(--sent-neu); }
+    .sent-dot.pos { color: var(--sent-pos); }
+    .meta-sep { color: var(--border); }
+    .pubdate { color: var(--muted); font-size: 11px; }
+
+    .article-title {
+      font-size: 16px; font-weight: 700; line-height: 1.5;
+      margin-bottom: 10px;
+      letter-spacing: -0.3px;
+      overflow-wrap: anywhere;
+    }
+    .article-title a {
+      color: var(--text); text-decoration: none;
+    }
+    .article-title a:hover { color: var(--navy); }
+
+    .cluster-more {
+      display: inline-block; margin-left: 8px;
+      font-size: 11px; color: var(--blue-accent); font-weight: 700;
+    }
+
+    .summary-label {
+      display: inline-block;
+      font-size: 9px; color: var(--navy);
+      font-weight: 800; letter-spacing: 2px;
+      background: var(--bg-soft);
+      padding: 3px 8px; border-radius: 3px;
+      margin-bottom: 6px;
+    }
+    .article-summary {
+      font-size: 13px; color: var(--sub); line-height: 1.7;
+      overflow-wrap: anywhere;
+    }
+
+    /* ===== Top Sections ===== */
+    .top-section { background: var(--white); border-radius: 12px; padding: 28px 24px; margin-bottom: 40px; border: 1px solid var(--border); }
+    .top-section.company { border-left: 4px solid var(--cat-safety); }
+    .top-section.company .sec-head h2 { color: var(--cat-safety); }
+
+    /* 톱 이슈 카드: 살짝 강조 (배경 + 좌측 보더 굵게 + 타이틀 키움) */
+    #company-top .article,
+    #category-top .article {
+      background: linear-gradient(180deg, #fafcff 0%, var(--white) 100%);
+      border-left-width: 4px;
+      padding: 24px 26px;
+    }
+    #company-top .article-title,
+    #category-top .article-title {
+      font-size: 17px; line-height: 1.45;
+    }
+
+    .cat-top-head {
+      display: flex; align-items: center; gap: 10px;
+      margin: 32px 0 14px;
+    }
+    .cat-top-head h3 {
+      font-size: 17px; font-weight: 900; color: var(--navy);
+      letter-spacing: -0.3px;
+    }
+    .cat-top-head .rule { flex: 1; height: 1px; background: var(--border); }
+
+    /* ===== Weekly Brief ===== */
+    .weekly-wrap {
+      background: linear-gradient(135deg, var(--navy-deep) 0%, var(--navy) 100%);
+      color: #fff;
+      border-radius: 16px;
+      padding: 40px;
+      margin: 40px auto;
+      max-width: 1120px;
+      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.15);
+    }
+    .weekly-label {
+      display: inline-block;
+      font-size: 10px; font-weight: 800; letter-spacing: 4px;
+      padding: 5px 14px;
+      background: linear-gradient(120deg, #E8A5C5, #C5A5E8, #A5B5E8, #A5E8C5);
+      background-size: 200% 100%;
+      animation: weeklyShift 8s ease infinite;
+      color: #fff;
+      border-radius: 100px;
+      margin-bottom: 12px;
+    }
+    @keyframes weeklyShift {
+      0%, 100% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+    }
+    .weekly-title {
+      font-size: 24px; font-weight: 900; letter-spacing: -0.8px;
+      margin-bottom: 4px;
+    }
+    .weekly-period { font-size: 12px; color: rgba(255,255,255,0.6); margin-bottom: 24px; letter-spacing: 2px; }
+    .weekly-item { padding: 16px 0; border-top: 1px solid rgba(255,255,255,0.12); }
+    .weekly-item:first-child { border-top: none; padding-top: 0; }
+    .weekly-item .cat { font-size: 10px; font-weight: 800; letter-spacing: 2px; color: var(--cyan-soft); margin-bottom: 4px; }
+    .weekly-item .headline { font-size: 16px; font-weight: 700; margin-bottom: 6px; letter-spacing: -0.3px; }
+    .weekly-item .brief { font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.7; }
+
+    @media (max-width: 640px) {
+      nav { padding: 0 16px; height: 56px; }
+      .hero { padding: 96px 20px 36px; }
+      .hero-eyebrow { font-size: 10px; letter-spacing: 3px; margin-bottom: 12px; }
+      .hero-sub { font-size: 14px; }
+      .container { padding: 0 16px; }
+      section { padding: 36px 0; }
+
+      .filter-bar { top: 56px; padding: 12px 16px; }
+      .filter-bar-inner { gap: 10px; }
+      .filter-row { gap: 8px; }
+      .search-input { font-size: 16px; padding: 9px 12px; }  /* 16px 이상이라야 iOS 자동확대 안 됨 */
+      .filter-label { font-size: 9px; letter-spacing: 1.5px; }
+      .chip { padding: 7px 13px; font-size: 12px; }
+      .chip.sub { padding: 5px 11px; font-size: 11px; }
+
+      .article { padding: 18px 18px; }
+      #company-top .article,
+      #category-top .article { padding: 20px 20px; }
+      .article-title { font-size: 15px; }
+      #company-top .article-title,
+      #category-top .article-title { font-size: 16px; }
+      .article-summary { font-size: 13px; }
+
+      .top-section { padding: 22px 18px; }
+
+      .weekly-wrap { padding: 28px 20px; border-radius: 12px; margin: 28px 16px; }
+      .weekly-title { font-size: 20px; }
+      .weekly-item .headline { font-size: 15px; }
+
+      .sec-head h2 { font-size: 22px; margin-bottom: 28px; }
+    }
+
+    /* ===== iOS 홈 화면 추가 안내 (사파리에서만 노출) ===== */
+    .ios-help {
+      position: fixed; top: 70px; left: 16px; right: 16px;
+      z-index: 9999; max-width: 460px; margin: 0 auto;
+      background: var(--white); border: 2px solid var(--navy);
+      border-radius: 12px; padding: 18px;
+      box-shadow: 0 20px 60px rgba(10, 24, 41, 0.4);
+    }
+    .ios-help[hidden] { display: none; }
+    .ios-help-card { display: flex; flex-direction: column; gap: 10px; }
+    .ios-help-card strong { color: var(--navy); font-size: 15px; }
+    .ios-help-card p { font-size: 13px; color: var(--sub); line-height: 1.6; margin: 0; }
+    .ios-help-card button {
+      align-self: flex-end;
+      background: var(--navy); color: #fff; border: none;
+      padding: 7px 16px; border-radius: 100px;
+      font-weight: 700; font-size: 12px; cursor: pointer; font-family: inherit;
+    }
+  </style>
+</head>
+<body>
+
+
+  <nav>
+    <div class="brand-row">
+      <img class="brand-logo" src="logo.png?v=2" alt="기계설비건설공제조합">
+      <img class="brand-30th" src="anniversary-30.png" alt="창립 30주년">
+    </div>
+    <div class="nav-actions">
+      <button id="install-btn" class="install-btn-nav" type="button" hidden>📲 앱 다운로드</button>
+      <button id="notify-btn" class="notify-btn" type="button" aria-label="알림 받기">🔔</button>
+    </div>
+  </nav>
+
+  <div id="install-ios-help" class="ios-help" hidden role="dialog" aria-label="홈 화면 추가 안내">
+    <div class="ios-help-card">
+      <strong>홈 화면에 추가하기</strong>
+      <p>사파리 하단 <b>공유 ⤴︎</b> 버튼을 누르고 <b>"홈 화면에 추가"</b>를 선택하세요.</p>
+      <button id="install-ios-close" type="button">닫기</button>
+    </div>
+  </div>
+
+  <div id="sub-modal" class="sub-modal" hidden>
+    <div class="sub-modal-card">
+      <div class="sub-modal-head">
+        <strong>알림 구독 완료 — 관리자에게 보낼 코드</strong>
+        <button class="sub-modal-close" id="sub-modal-close" type="button" aria-label="닫기">×</button>
+      </div>
+      <p class="sub-modal-help">아래 정보를 관리자(<b>2wodms@seolbi.com</b>)에게 보내주시면 등록 후 알림이 갑니다.</p>
+      <label class="sub-modal-name-label">성함·소속 <span style="color:var(--muted);font-weight:400">(만료 시 연락 받으실 수 있도록)</span></label>
+      <input type="text" id="sub-modal-name" class="sub-modal-name" placeholder="예: 홍길동 본부장" autocomplete="name">
+      <textarea id="sub-modal-text" readonly></textarea>
+      <div class="sub-modal-actions">
+        <button class="sub-modal-share" id="sub-modal-share" type="button">📱 공유</button>
+        <button class="sub-modal-mail" id="sub-modal-mail" type="button">📧 메일</button>
+        <button class="sub-modal-copy" id="sub-modal-copy" type="button">📋 복사</button>
+      </div>
+      <span class="sub-modal-status" id="sub-modal-status"></span>
+    </div>
+  </div>
+
+  <header class="hero">
+    <div class="hero-eyebrow">CIG ISSUE MONITOR</div>
+    <h1 class="hero-title">CIG 이슈 모니터</h1>
+    <p class="hero-sub">조합과 건설업의 주요 이슈를 매시간 자동 수집·분류·요약합니다.</p>
+  </header>
+
+  <section id="weekly-brief" style="display:none">
+    <div class="weekly-wrap">
+      <div class="weekly-label">WEEKLY BRIEF</div>
+      <div class="weekly-title">지난주 핵심 이슈 5선</div>
+      <div class="weekly-period" id="weekly-period"></div>
+      <div id="weekly-items"></div>
+    </div>
+  </section>
+
+  <div class="filter-bar">
+    <div class="filter-bar-inner">
+      <div class="filter-row period">
+        <input type="text" id="search" class="search-input" placeholder="🔍 제목·요약 검색">
+        <span class="filter-label">기간</span>
+        <button class="chip active" data-period="1">오늘</button>
+        <button class="chip" data-period="3">3일</button>
+        <button class="chip" data-period="7">7일</button>
+        <button class="chip" data-period="30">1개월</button>
+        <button class="chip" data-period="all">전체</button>
+        <span class="date-range">
+          <input type="date" id="date-from" class="date-input" aria-label="시작일">
+          <span class="date-tilde">~</span>
+          <input type="date" id="date-to" class="date-input" aria-label="종료일">
+          <button type="button" class="date-clear" id="date-clear" hidden aria-label="날짜 초기화">×</button>
+        </span>
+      </div>
+      <div class="filter-row category">
+        <span class="filter-label">카테고리</span>
+        <button class="chip active" data-group="all">전체</button>
+        <button class="chip" data-group="조합·협회">조합·협회 <span class="count"></span> <span class="caret">▾</span></button>
+        <button class="chip" data-group="산업">산업 <span class="count"></span> <span class="caret">▾</span></button>
+        <button class="chip" data-group="종합건설사"><span class="label-wide">종합건설사</span><span class="label-narrow">종건사</span> <span class="count"></span> <span class="caret">▾</span></button>
+        <button class="chip" data-group="임원구독" title="매일경제·한국경제·대한경제">매경·한경·대경 <span class="count"></span> <span class="caret">▾</span></button>
+      </div>
+      <div class="filter-row cat-group hidden" id="cat-sub-corp">
+        <span class="filter-label">종건사 ▸</span>
+        <button class="chip sub" data-keyword="두산에너빌리티">두산에너빌 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="삼성중공업">삼성중공업 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="대우건설">대우건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="엘지씨엔에스">LG CNS <span class="count"></span></button>
+        <button class="chip sub" data-keyword="두산퓨얼셀">두산퓨얼셀 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="현대산업개발">HDC현산 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="롯데건설">롯데건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="포스코이앤씨">포스코이앤씨 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="SGC이앤씨">SGC이앤씨 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="신세계건설">신세계건설 <span class="count"></span></button>
+      </div>
+      <div class="filter-row cat-group hidden" id="cat-sub-coop">
+        <span class="filter-label">조합·협회 ▸</span>
+        <button class="chip sub" data-keyword="기계설비건설공제조합">기계설비 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="엔지니어링공제조합">엔지니어링 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="건설공제조합">건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="전문건설공제조합">전문건설 <span class="count"></span></button>
+        <button class="chip sub" data-keyword="대한기계설비건설협회">기계설비협회 <span class="count"></span></button>
+      </div>
+      <div class="filter-row cat-group hidden" id="cat-sub-industry">
+        <span class="filter-label">산업 ▸</span>
+        <button class="chip sub" data-cat="정책·규제">정책·규제 <span class="count"></span></button>
+        <button class="chip sub" data-cat="시장·경기">시장·경기 <span class="count"></span></button>
+        <button class="chip sub" data-cat="안전·노동">안전·노동 <span class="count"></span></button>
+        <button class="chip sub" data-cat="신기술">신기술 <span class="count"></span></button>
+      </div>
+      <div class="filter-row cat-group hidden" id="cat-sub-exec">
+        <span class="filter-label">매경·한경·대경 ▸</span>
+        <button class="chip sub" data-publisher="매일경제">매경 <span class="count"></span></button>
+        <button class="chip sub" data-publisher="한국경제">한경 <span class="count"></span></button>
+        <button class="chip sub" data-publisher="대한경제">대경 <span class="count"></span></button>
+      </div>
+    </div>
+  </div>
+
+  <main class="container">
+
+    <div class="legend-wrap">
+      <button class="legend-toggle" id="legend-toggle" type="button" aria-expanded="true">ⓘ 표기 안내 닫기</button>
+      <div class="legend" id="legend">
+        <div class="legend-row">
+          <span class="legend-label">중요도</span>
+          <span class="legend-item"><span class="legend-imp">●●●</span> 핵심</span>
+          <span class="legend-item"><span class="legend-imp">●●</span> 중요</span>
+          <span class="legend-item"><span class="legend-imp">●</span> 일반</span>
+          <span class="legend-item"><span class="legend-imp">○</span> 영향 미미</span>
+          <span class="legend-item legend-note">— AI가 조합·업계 영향도 기준으로 자동 판정</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-label">감정</span>
+          <span class="legend-item"><span class="sent-dot pos">●</span> 긍정 (조합·산업에 우호적 신호)</span>
+          <span class="legend-item"><span class="sent-dot neu">●</span> 중립 (사실 보도)</span>
+          <span class="legend-item"><span class="sent-dot neg">●</span> 부정 (사고·위기·규제 강화 등)</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-label">보관</span>
+          <span class="legend-item legend-note">조합·협회 무기한 · 그 외 최근 60일 · 최대 2,000건</span>
+        </div>
+      </div>
+    </div>
+
+    <section id="company-top" style="display:none">
+      <div class="sec-num"><span class="dot" style="background:var(--cat-safety)"></span><span class="line" style="background:var(--cat-safety)"></span><span style="color:var(--cat-safety)">GUARANTEE FOCUS</span></div>
+      <div class="sec-head"><h2>조합 이슈</h2></div>
+      <div id="company-list" class="top-section company"></div>
+    </section>
+
+    <section id="category-top">
+      <div class="sec-num"><span class="dot"></span><span class="line"></span><span>TOP BY CATEGORY</span></div>
+      <div class="sec-head"><h2>카테고리별 톱 이슈</h2></div>
+      <div id="category-list"></div>
+    </section>
+
+    <section>
+      <div class="sec-num"><span class="dot"></span><span class="line"></span><span>ALL ARTICLES</span></div>
+      <div class="sec-head"><h2>전체 기사</h2></div>
+      <div id="articles"></div>
+    </section>
+  </main>
+
+  <footer>© 기계설비건설공제조합 이슈 모니터 · Google News 기반 자동 수집 · <span id="article-total">…</span></footer>
+
+  <script>
+    function escapeHtml(s) {
+      return String(s || '')
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+    function safeHref(u) {
+      try { const x = new URL(u); return (x.protocol === 'http:' || x.protocol === 'https:') ? u : '#'; }
+      catch { return '#'; }
+    }
+    let allArticles = [];
+    let state = {
+      q: '',
+      period: 1,
+      group: 'all',
+      cat: null,
+      keyword: null,
+      publisher: null,
+      from: '',
+      to: '',
+    };
+
+    const INDUSTRY_CATS = ['정책·규제', '시장·경기', '안전·노동', '신기술'];
+    const COOP_KEYWORDS = ['기계설비건설공제조합', '엔지니어링공제조합', '건설공제조합', '전문건설공제조합', '대한기계설비건설협회'];
+    const CORP_KEYWORDS = ['두산에너빌리티', '삼성중공업', '대우건설', '엘지씨엔에스', '두산퓨얼셀', '현대산업개발', '롯데건설', '포스코이앤씨', 'SGC이앤씨', '신세계건설'];
+    const EXEC_PUBLISHERS = ['매일경제', '한국경제', '대한경제'];
+
+    const CATEGORY_CLASS = {
+      '조합·협회': 'c-co-op',
+      '정책·규제': 'c-policy',
+      '시장·경기': 'c-market',
+      '안전·노동': 'c-safety',
+      '신기술':   'c-tech',
+      '종합건설사': 'c-corp',
+    };
+
+    const CATEGORY_TOP_ORDER = ['정책·규제', '시장·경기', '안전·노동', '신기술', '종합건설사'];
+
+    function impDots(imp) {
+      imp = imp || 0;
+      if (imp >= 7) return '●●●';
+      if (imp >= 4) return '●●';
+      if (imp >= 1) return '●';
+      return '○';
+    }
+
+    function sentDot(s) {
+      const cls = s === 'negative' ? 'neg' : s === 'positive' ? 'pos' : 'neu';
+      return `<span class="sent-dot ${cls}">●</span>`;
+    }
+
+    function relativeTime(iso) {
+      if (!iso) return '';
+      const utcIso = /[Zz]|[+-]\d{2}:?\d{2}$/.test(iso) ? iso : iso + 'Z';
+      const then = new Date(utcIso), now = new Date();
+      const mins = Math.floor((now - then) / 60000);
+      if (mins < 60) return `${Math.max(1, mins)}분 전`;
+      const hrs = Math.floor(mins / 60);
+      if (hrs < 24) return `${hrs}시간 전`;
+      const days = Math.floor(hrs / 24);
+      return `${days}일 전`;
+    }
+
+    function formatPublishedDate(iso) {
+      if (!iso) return '';
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return '';
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      return `${y}-${m}-${day}`;
+    }
+
+    function renderCard(a) {
+      const cat = a.category || '(미분류)';
+      const catClass = CATEGORY_CLASS[cat] || 'c-corp';
+      const isCompany = a.is_company ? 'is-company' : '';
+      const title = a.title_clean || a.title || '';
+      const publisher = a.publisher || '';
+      const summary = a.summary || a.description || '';
+      return `
+        <article class="article ${isCompany}">
+          <div class="article-meta">
+            <span class="imp-dots">${impDots(a.importance)}</span>
+            <span class="cat-badge ${catClass}">${escapeHtml(cat)}</span>
+            ${sentDot(a.sentiment)}
+            ${publisher ? `<span>${escapeHtml(publisher)}</span><span class="meta-sep">·</span>` : ''}
+            <span class="time">${escapeHtml(relativeTime(a.published_at || a.collected_at))}</span>
+            ${a.published_at ? `<span class="meta-sep">·</span><span class="pubdate">발행 ${escapeHtml(formatPublishedDate(a.published_at))}</span>` : ''}
+          </div>
+          <div class="article-title">
+            <a href="${safeHref(a.link)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>
+          </div>
+          <div class="summary-label">AI 요약</div>
+          <div class="article-summary">${escapeHtml(summary)}</div>
+        </article>
+      `;
+    }
+
+    function inPeriod(iso) {
+      // 날짜 범위 입력이 있으면 그 조건이 우선
+      if (state.from || state.to) {
+        if (!iso) return false;
+        const t = new Date(iso).getTime();
+        if (isNaN(t)) return false;
+        if (state.from) {
+          const fromT = new Date(state.from + 'T00:00:00').getTime();
+          if (t < fromT) return false;
+        }
+        if (state.to) {
+          const toT = new Date(state.to + 'T23:59:59.999').getTime();
+          if (t > toT) return false;
+        }
+        return true;
+      }
+      if (state.period === 'all') return true;
+      if (!iso) return false;
+      const t = new Date(iso).getTime();
+      if (isNaN(t)) return false;
+      return (Date.now() - t) <= state.period * 86400000;
+    }
+
+    function matchesGroup(a) {
+      if (state.group === 'all') return true;
+      if (state.group === '조합·협회') {
+        if (state.keyword) return a.keyword === state.keyword;
+        return a.category === '조합·협회';
+      }
+      if (state.group === '종합건설사') {
+        if (state.keyword) return a.keyword === state.keyword;
+        return a.category === '종합건설사';
+      }
+      if (state.group === '산업') {
+        if (state.cat) return a.category === state.cat;
+        return INDUSTRY_CATS.includes(a.category);
+      }
+      if (state.group === '임원구독') {
+        if (state.publisher) return a.publisher === state.publisher;
+        return EXEC_PUBLISHERS.includes(a.publisher);
+      }
+      return true;
+    }
+
+    function matchesQuery(a) {
+      if (!state.q) return true;
+      const hay = (a.title_clean || a.title || '') + ' ' + (a.summary || '');
+      return hay.toLowerCase().includes(state.q.toLowerCase());
+    }
+
+    function filtered() {
+      return allArticles.filter(a =>
+        inPeriod(a.collected_at) && matchesGroup(a) && matchesQuery(a)
+      );
+    }
+
+    function updateChipActive() {
+      const dateMode = !!(state.from || state.to);
+      document.querySelectorAll('.chip[data-period]').forEach(c => {
+        c.classList.toggle('active', !dateMode && String(c.dataset.period) === String(state.period));
+      });
+      const clearBtn = document.getElementById('date-clear');
+      if (clearBtn) clearBtn.toggleAttribute('hidden', !dateMode);
+      document.querySelectorAll('.chip[data-group]').forEach(c => {
+        const isCurrentGroup = c.dataset.group === state.group;
+        c.classList.toggle('active', isCurrentGroup && !state.cat && !state.keyword && !state.publisher);
+        // 펼친 상태(group 선택됨, sub 없음 또는 있음 무관) 일 때 caret 뒤집기
+        const expandable = c.dataset.group === '조합·협회' || c.dataset.group === '산업' || c.dataset.group === '종합건설사' || c.dataset.group === '임원구독';
+        c.classList.toggle('expanded', expandable && isCurrentGroup);
+      });
+      document.querySelectorAll('.chip[data-cat]').forEach(c => {
+        c.classList.toggle('active', c.dataset.cat === state.cat);
+      });
+      document.querySelectorAll('.chip[data-keyword]').forEach(c => {
+        c.classList.toggle('active', c.dataset.keyword === state.keyword);
+      });
+      document.querySelectorAll('.chip[data-publisher]').forEach(c => {
+        c.classList.toggle('active', c.dataset.publisher === state.publisher);
+      });
+      document.getElementById('cat-sub-industry').classList.toggle('hidden', state.group !== '산업');
+      document.getElementById('cat-sub-coop').classList.toggle('hidden', state.group !== '조합·협회');
+      document.getElementById('cat-sub-corp').classList.toggle('hidden', state.group !== '종합건설사');
+      document.getElementById('cat-sub-exec').classList.toggle('hidden', state.group !== '임원구독');
+    }
+
+    function updateCatCounts() {
+      // 기간/검색 필터를 적용한 후 카테고리·키워드별로 집계 (현재 보이는 결과 기준 카운트)
+      const base = allArticles.filter(a => inPeriod(a.collected_at) && matchesQuery(a));
+      INDUSTRY_CATS.forEach(cat => {
+        const n = base.filter(a => a.category === cat).length;
+        document.querySelectorAll(`.chip[data-cat="${cat}"] .count`).forEach(el => {
+          el.textContent = `(${n})`;
+        });
+      });
+      [...COOP_KEYWORDS, ...CORP_KEYWORDS].forEach(kw => {
+        const n = base.filter(a => a.keyword === kw).length;
+        document.querySelectorAll(`.chip[data-keyword="${kw}"] .count`).forEach(el => {
+          el.textContent = `(${n})`;
+        });
+      });
+      EXEC_PUBLISHERS.forEach(pub => {
+        const n = base.filter(a => a.publisher === pub).length;
+        document.querySelectorAll(`.chip[data-publisher="${pub}"] .count`).forEach(el => {
+          el.textContent = `(${n})`;
+        });
+      });
+      // 그룹 칩 카운트 (조합·협회 / 산업 / 종합건설사 / 임원구독)
+      const groupCounts = {
+        '조합·협회': base.filter(a => a.category === '조합·협회').length,
+        '산업': base.filter(a => INDUSTRY_CATS.includes(a.category)).length,
+        '종합건설사': base.filter(a => a.category === '종합건설사').length,
+        '임원구독': base.filter(a => EXEC_PUBLISHERS.includes(a.publisher)).length,
+      };
+      Object.entries(groupCounts).forEach(([g, n]) => {
+        document.querySelectorAll(`.chip[data-group="${g}"] .count`).forEach(el => {
+          el.textContent = `(${n})`;
+        });
+      });
+    }
+
+    function writeHash() {
+      const parts = [];
+      if (state.q) parts.push('q=' + encodeURIComponent(state.q));
+      if (state.period !== 1) parts.push('period=' + state.period);
+      if (state.group !== 'all') parts.push('group=' + encodeURIComponent(state.group));
+      if (state.cat) parts.push('cat=' + encodeURIComponent(state.cat));
+      if (state.keyword) parts.push('keyword=' + encodeURIComponent(state.keyword));
+      if (state.publisher) parts.push('publisher=' + encodeURIComponent(state.publisher));
+      if (state.from) parts.push('from=' + state.from);
+      if (state.to) parts.push('to=' + state.to);
+      location.hash = parts.join('&');
+    }
+
+    function readHash() {
+      const h = location.hash.replace(/^#/, '');
+      if (!h) return;
+      h.split('&').forEach(kv => {
+        const [k, v] = kv.split('=');
+        if (!k) return;
+        const val = decodeURIComponent(v || '');
+        if (k === 'q') state.q = val;
+        else if (k === 'period') state.period = val === 'all' ? 'all' : parseInt(val, 10);
+        else if (k === 'group') state.group = val;
+        else if (k === 'cat') state.cat = val;
+        else if (k === 'keyword') state.keyword = val;
+        else if (k === 'publisher') state.publisher = val;
+        else if (k === 'from') state.from = val;
+        else if (k === 'to') state.to = val;
+      });
+    }
+
+    function renderCompanyTop(list) {
+      const companyArts = list.filter(a => a.is_company).slice(0, 5);
+      const sec = document.getElementById('company-top');
+      if (!companyArts.length) { sec.style.display = 'none'; return; }
+      sec.style.display = '';
+      document.getElementById('company-list').innerHTML =
+        companyArts.map(renderCard).join('');
+    }
+
+    function renderCategoryTop(list) {
+      const el = document.getElementById('category-list');
+      const html = CATEGORY_TOP_ORDER.map(cat => {
+        const top = list
+          .filter(a => a.category === cat)
+          .sort((x, y) => (y.importance || 0) - (x.importance || 0))
+          .slice(0, 3);
+        if (!top.length) return '';
+        return `
+          <div class="cat-top-head"><h3>${escapeHtml(cat)}</h3><div class="rule"></div></div>
+          ${top.map(renderCard).join('')}
+        `;
+      }).join('');
+      el.innerHTML = html || '<div class="empty">카테고리별 이슈가 없습니다.</div>';
+    }
+
+    function render() {
+      const list = filtered();
+      updateCatCounts();
+      renderCompanyTop(list);
+      renderCategoryTop(list);
+      const el = document.getElementById('articles');
+      if (!list.length) {
+        el.innerHTML = '<div class="empty">조건에 맞는 기사가 없습니다.</div>';
+        return;
+      }
+      el.innerHTML = list.map(renderCard).join('');
+    }
+
+    function renderWeekly(data) {
+      const sec = document.getElementById('weekly-brief');
+      if (!data || !data.items || !data.items.length) { sec.style.display = 'none'; return; }
+      sec.style.display = '';
+      document.getElementById('weekly-period').textContent = data.period || '';
+      document.getElementById('weekly-items').innerHTML = data.items.map(i => `
+        <div class="weekly-item">
+          <div class="cat">${escapeHtml(i.category || '')}</div>
+          <div class="headline">${escapeHtml(i.headline || '')}</div>
+          <div class="brief">${escapeHtml(i.brief || '')}</div>
+        </div>
+      `).join('');
+    }
+
+    document.getElementById('search').addEventListener('input', (e) => {
+      clearTimeout(window._t);
+      window._t = setTimeout(() => { state.q = e.target.value; writeHash(); render(); }, 200);
+    });
+    document.querySelectorAll('.chip[data-period]').forEach(c => c.addEventListener('click', () => {
+      state.period = c.dataset.period === 'all' ? 'all' : parseInt(c.dataset.period, 10);
+      // 기간 칩 선택 시 날짜 범위 모드 해제
+      state.from = ''; state.to = '';
+      const df = document.getElementById('date-from'); if (df) df.value = '';
+      const dt = document.getElementById('date-to'); if (dt) dt.value = '';
+      writeHash(); updateChipActive(); render();
+    }));
+    function onDateChange() {
+      state.from = document.getElementById('date-from').value || '';
+      state.to = document.getElementById('date-to').value || '';
+      writeHash(); updateChipActive(); render();
+    }
+    document.getElementById('date-from').addEventListener('change', onDateChange);
+    document.getElementById('date-to').addEventListener('change', onDateChange);
+    document.getElementById('date-clear').addEventListener('click', () => {
+      state.from = ''; state.to = '';
+      document.getElementById('date-from').value = '';
+      document.getElementById('date-to').value = '';
+      writeHash(); updateChipActive(); render();
+    });
+    document.querySelectorAll('.chip[data-group]').forEach(c => c.addEventListener('click', () => {
+      state.group = c.dataset.group; state.cat = null; state.keyword = null; state.publisher = null;
+      writeHash(); updateChipActive(); render();
+    }));
+    document.querySelectorAll('.chip[data-cat]').forEach(c => c.addEventListener('click', () => {
+      state.cat = (state.cat === c.dataset.cat) ? null : c.dataset.cat;
+      writeHash(); updateChipActive(); render();
+    }));
+    document.querySelectorAll('.chip[data-keyword]').forEach(c => c.addEventListener('click', () => {
+      state.keyword = (state.keyword === c.dataset.keyword) ? null : c.dataset.keyword;
+      writeHash(); updateChipActive(); render();
+    }));
+    document.querySelectorAll('.chip[data-publisher]').forEach(c => c.addEventListener('click', () => {
+      state.publisher = (state.publisher === c.dataset.publisher) ? null : c.dataset.publisher;
+      writeHash(); updateChipActive(); render();
+    }));
+    window.addEventListener('hashchange', () => {
+      readHash();
+      document.getElementById('search').value = state.q;
+      document.getElementById('date-from').value = state.from || '';
+      document.getElementById('date-to').value = state.to || '';
+      updateChipActive();
+      render();
+    });
+
+    fetch('articles.json?t=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        allArticles = data;
+        const totalEl = document.getElementById('article-total');
+        if (totalEl) totalEl.textContent = `현재 ${data.length.toLocaleString('ko-KR')}건 보관`;
+        readHash();
+        document.getElementById('search').value = state.q;
+        document.getElementById('date-from').value = state.from || '';
+        document.getElementById('date-to').value = state.to || '';
+        updateChipActive();
+        updateCatCounts();
+        render();
+      })
+      .catch(() => {
+        document.getElementById('articles').innerHTML = '<div class="empty">articles.json을 불러올 수 없습니다.</div>';
+      });
+
+    fetch('weekly.json?t=' + Date.now())
+      .then(r => r.ok ? r.json() : null)
+      .then(renderWeekly)
+      .catch(() => {});
+  </script>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js').catch(() => {});
+      });
+    }
+  </script>
+
+  <script>
+    // 표기 안내 (ⓘ) 토글
+    (function () {
+      const t = document.getElementById('legend-toggle');
+      const p = document.getElementById('legend');
+      if (!t || !p) return;
+      t.addEventListener('click', () => {
+        const open = p.hasAttribute('hidden') ? false : true;
+        if (open) {
+          p.setAttribute('hidden', '');
+          t.setAttribute('aria-expanded', 'false');
+          t.textContent = 'ⓘ 표기 안내';
+        } else {
+          p.removeAttribute('hidden');
+          t.setAttribute('aria-expanded', 'true');
+          t.textContent = 'ⓘ 표기 안내 닫기';
+        }
+      });
+    })();
+  </script>
+
+  <script>
+    // 🔔 버튼 — 클릭 시 표준 Web Push 구독 → 토큰 JSON을 모달에 띄워 사용자가 관리자에게 전달
+    (function () {
+      const btn = document.getElementById('notify-btn');
+      if (!btn) return;
+      if (typeof Notification === 'undefined' || !('serviceWorker' in navigator) || !('PushManager' in window)) {
+        btn.hidden = true; return;
+      }
+
+      const modal = document.getElementById('sub-modal');
+      const modalText = document.getElementById('sub-modal-text');
+      const modalClose = document.getElementById('sub-modal-close');
+      const modalCopy = document.getElementById('sub-modal-copy');
+      const modalShare = document.getElementById('sub-modal-share');
+      const modalMail = document.getElementById('sub-modal-mail');
+      const modalName = document.getElementById('sub-modal-name');
+      const modalStatus = document.getElementById('sub-modal-status');
+
+      const ADMIN_EMAIL = '2wodms@seolbi.com';
+      const SHARE_TITLE = '[CIG 이슈 모니터] 알림 구독 신청';
+      const NAME_KEY = 'cig-subscriber-name';
+
+      // 이전에 입력한 이름이 있으면 미리 채움
+      try {
+        const saved = localStorage.getItem(NAME_KEY);
+        if (saved) modalName.value = saved;
+      } catch (_) {}
+      modalName.addEventListener('input', () => {
+        try { localStorage.setItem(NAME_KEY, modalName.value.trim()); } catch (_) {}
+      });
+
+      // 관리자가 그대로 subscriptions.json/Secret에 넣을 수 있는 JSON 한 덩어리 (이름 포함 시 wrapping)
+      function buildJsonForAdmin() {
+        const name = (modalName.value || '').trim();
+        const json = modalText.value;
+        if (!name) return json;
+        try {
+          return JSON.stringify({ name, subscription: JSON.parse(json) }, null, 2);
+        } catch (_) { return json; }
+      }
+      // 공유·메일용 본문 (인사말 포함)
+      function buildShareBody() {
+        const name = (modalName.value || '').trim();
+        const wrapped = buildJsonForAdmin();
+        const intro = name
+          ? `[CIG 이슈 모니터] ${name}님 알림 구독 신청\n\n아래 코드를 그대로 답장 주시면 등록해드리겠습니다:`
+          : `[CIG 이슈 모니터] 알림 구독 신청\n\n성함을 함께 알려주시고 아래 코드를 그대로 답장 주시면 등록해드리겠습니다:`;
+        return `${intro}\n\n${wrapped}`;
+      }
+
+      function urlBase64ToUint8Array(base64String) {
+        const padding = '='.repeat((4 - base64String.length % 4) % 4);
+        const base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+        const raw = atob(base64);
+        return Uint8Array.from(raw, (c) => c.charCodeAt(0));
+      }
+
+      function applyState(isSubscribed) {
+        if (Notification.permission === 'denied') { btn.hidden = true; return; }
+        btn.hidden = false;
+        btn.classList.toggle('granted', !!isSubscribed);
+        btn.title = isSubscribed ? '알림 구독 등록됨' : '알림 받기';
+      }
+
+      async function getCurrentSub() {
+        try {
+          const reg = await navigator.serviceWorker.ready;
+          return await reg.pushManager.getSubscription();
+        } catch (_) { return null; }
+      }
+
+      async function refreshState() {
+        const sub = await getCurrentSub();
+        applyState(!!sub);
+        return sub;
+      }
+
+      function showModal(subJson) {
+        modalText.value = subJson;
+        modalStatus.textContent = '';
+        modal.removeAttribute('hidden');
+      }
+
+      modalClose.addEventListener('click', () => modal.setAttribute('hidden', ''));
+      modal.addEventListener('click', (e) => { if (e.target === modal) modal.setAttribute('hidden', ''); });
+      modalCopy.addEventListener('click', async () => {
+        // 복사는 "JSON 한 덩어리"만 (관리자가 subscriptions.json·Secret에 그대로 붙여넣기 좋도록)
+        const text = buildJsonForAdmin();
+        try {
+          await navigator.clipboard.writeText(text);
+          modalStatus.textContent = '✓ JSON 복사됨 — 관리자에게 전달해주세요';
+        } catch (_) {
+          modalText.select();
+          document.execCommand('copy');
+          modalStatus.textContent = '✓ 복사됨';
+        }
+      });
+
+      // 📱 공유 — 폰 OS 공유 시트 (카톡·메시지·메일 등 선택 가능)
+      modalShare.addEventListener('click', async () => {
+        const text = buildShareBody();
+        if (navigator.share) {
+          try {
+            await navigator.share({ title: SHARE_TITLE, text });
+            modalStatus.textContent = '✓ 공유됨';
+          } catch (e) {
+            if (e && e.name !== 'AbortError') modalStatus.textContent = '공유 실패: ' + e.message;
+          }
+        } else {
+          try { await navigator.clipboard.writeText(text); } catch (_) {}
+          modalStatus.textContent = '본 환경에서 공유 시트 미지원 → 텍스트 클립보드 복사됨';
+        }
+      });
+
+      // 📧 메일 — 폰/PC 기본 메일 앱 열기 (관리자 주소 + 본문 자동 입력)
+      modalMail.addEventListener('click', () => {
+        const name = (modalName.value || '').trim();
+        const titleWithName = name ? `${SHARE_TITLE} — ${name}` : SHARE_TITLE;
+        const subject = encodeURIComponent(titleWithName);
+        const body = encodeURIComponent(buildShareBody());
+        window.location.href = `mailto:${ADMIN_EMAIL}?subject=${subject}&body=${body}`;
+      });
+
+      btn.addEventListener('click', async () => {
+        btn.disabled = true;
+        try {
+          if (Notification.permission === 'denied') {
+            alert('알림이 차단된 상태입니다.\n브라우저 설정에서 이 사이트의 알림을 허용해주세요.');
+            return;
+          }
+          const reg = await navigator.serviceWorker.ready;
+          const existing = await reg.pushManager.getSubscription();
+          if (existing) {
+            const wantReregister = confirm(
+              '이미 알림 구독이 등록되어 있습니다.\n같은 폰에서 다시 누르실 필요는 없습니다.\n\n' +
+              '※ 알림이 일정 기간 안 왔다면 토큰이 만료된 상태일 수 있습니다.\n' +
+              '다시 등록(새 토큰 발급)하시겠습니까?'
+            );
+            if (!wantReregister) {
+              applyState(true);
+              return;
+            }
+            try { await existing.unsubscribe(); } catch (_) {}
+          }
+          if (Notification.permission !== 'granted') {
+            const result = await Notification.requestPermission();
+            if (result !== 'granted') return;
+          }
+          const sub = await reg.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: urlBase64ToUint8Array(window.VAPID_PUBLIC_KEY),
+          });
+          const json = JSON.stringify(sub.toJSON());
+
+          // 1순위: 클립보드 복사 (가장 단순)
+          let copied = false;
+          try {
+            await navigator.clipboard.writeText(json);
+            copied = true;
+          } catch (_) {}
+
+          // 모달도 띄움 (사용자가 화면에서도 확인 가능)
+          try { showModal(json); } catch (_) {}
+
+          // 클립보드 실패 시 prompt로 백업 표시
+          if (!copied) {
+            try { window.prompt('알림 구독 토큰 (선택해서 복사):', json); } catch (_) {}
+          } else {
+            setTimeout(() => {
+              alert('✓ 알림 구독 토큰이 클립보드에 복사되었습니다.\n\n관리자(2wodms@seolbi.com)에게 전달해 주시면 등록 후 알림이 갑니다.\n(필요시 화면 상단 흰 카드에서도 다시 복사 가능)');
+            }, 100);
+          }
+          applyState(true);
+        } catch (err) {
+          alert('구독 등록 중 오류: ' + (err && err.message ? err.message : err));
+        } finally {
+          btn.disabled = false;
+        }
+      });
+
+      refreshState();
+    })();
+  </script>
+
+  <script>
+    // nav 좌측 "📲 앱 다운로드" 버튼 — standalone(이미 설치)이 아닌 모든 브라우저에 항상 표시
+    (function () {
+      const btn = document.getElementById('install-btn');
+      const iosHelp = document.getElementById('install-ios-help');
+      const iosClose = document.getElementById('install-ios-close');
+      if (!btn) return;
+
+      const ua = navigator.userAgent;
+      const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+      const isStandalone = window.matchMedia('(display-mode: standalone)').matches
+        || window.navigator.standalone === true;
+
+      if (isStandalone) { btn.hidden = true; return; }
+
+      // 설치 안 된 모든 브라우저에 즉시 노출 (Chrome heuristic 의존 X)
+      btn.hidden = false;
+
+      let deferredPrompt = null;
+      window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+      });
+
+      btn.addEventListener('click', async () => {
+        // 1순위: 표준 설치 프롬프트 (Android Chrome 등)
+        if (deferredPrompt) {
+          deferredPrompt.prompt();
+          try { await deferredPrompt.userChoice; } catch (_) {}
+          deferredPrompt = null;
+          return;
+        }
+        // 2순위: iOS 또는 자동 설치 미지원 환경 → 안내 카드 표시
+        if (iosHelp) {
+          const card = iosHelp.querySelector('p');
+          if (card) {
+            card.innerHTML = isIOS
+              ? '사파리 하단 <b>공유 ⤴︎</b> 버튼을 누르고 <b>"홈 화면에 추가"</b>를 선택하세요.'
+              : '브라우저 메뉴(⋮)에서 <b>"앱 설치"</b> 또는 <b>"홈 화면에 추가"</b>를 선택하세요.';
+          }
+          iosHelp.removeAttribute('hidden');
+        }
+      });
+
+      if (iosClose && iosHelp) {
+        iosClose.addEventListener('click', () => iosHelp.setAttribute('hidden', ''));
+      }
+
+      window.addEventListener('appinstalled', () => { btn.hidden = true; });
+    })();
+  </script>
+
+  <script>
+    // 이전 진단 모드 흔적 정리 (이 코드는 한 번만 동작 후 무해)
+    try { localStorage.removeItem('cig-diag-on'); } catch (_) {}
+  </script>
+
+</body>
+</html>

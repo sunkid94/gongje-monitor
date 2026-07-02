@@ -1,0 +1,13 @@
+config.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.obsidian/
+pushed.json
+seen.json
+docs/superpowers/specs/2026-04-19-promo-video-promise-concept-design.md
+docs/superpowers/specs/2026-05-07-claude-terminal-onboarding-manual-design.md
+docs/superpowers/specs/2026-05-15-anniversary-english-design.md
+docs/superpowers/specs/2026-06-21-esg-construction-finance-forum-design.md
+docs/superpowers/specs/2026-06-21-forum-executive-brief.md
+docs/superpowers/specs/2026-06-21-forum-maekyung-proposal-1pager.md
