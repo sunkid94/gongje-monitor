@@ -12200,6 +12200,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설레이더] 현대건설·롯데건설·계룡건설·DL이앤씨 주요 업데이트 - 현대경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41eHZJaFl3LXQtZW1oNzRCZktYT2ZjNlhUdHdkanpZZU1lU1lJMXp3aVZEZlBSZmVaSUpDN1RSRkxqb19MUWFpWWV6T0Z6d1BoNlZBSE9Ndkt5cHdlVzloN1RycHNhWTjSAWtBVV95cUxOQWFVbVNuOHB4Vmg1dy1PbW5Wd2RXdWh2RTlBQWl0WVdqdjBTeG9vemFuTlg4WkpTOWl3NjBsNzRBZ3hvRWRabHlLS3E1QnZ6UDZFamxWQ2YtaGFtY2h5Nlk5OTlYLWI0NF91NA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41eHZJaFl3LXQtZW1oNzRCZktYT2ZjNlhUdHdkanpZZU1lU1lJMXp3aVZEZlBSZmVaSUpDN1RSRkxqb19MUWFpWWV6T0Z6d1BoNlZBSE9Ndkt5cHdlVzloN1RycHNhWTjSAWtBVV95cUxOQWFVbVNuOHB4Vmg1dy1PbW5Wd2RXdWh2RTlBQWl0WVdqdjBTeG9vemFuTlg4WkpTOWl3NjBsNzRBZ3hvRWRabHlLS3E1QnZ6UDZFamxWQ2YtaGFtY2h5Nlk5OTlYLWI0NF91NA?oc=5\" target=\"_blank\">[건설레이더] 현대건설·롯데건설·계룡건설·DL이앤씨 주요 업데이트</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">현대경제신문</font>",
+    "published_at": "2026-07-02T18:26:05+09:00",
+    "cluster_id": "eb6e",
+    "publisher": "현대경제신문",
+    "title_clean": "[건설레이더] 현대건설·롯데건설·계룡건설·DL이앤씨 주요 업데이트",
+    "summary": "현대건설, 롯데건설, 계룡건설, DL이앤씨 등 주요 건설사들의 최근 사업 현황과 수주 등 주요 뉴스를 정리한 업계 동향 기사입니다. 구체적인 내용이 제시되지 않아 건설업계 전반에 대한 긍정 또는 부정 신호를 판단하기 어렵습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-02T23:22:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -28038,22 +28054,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-01T15:08:01+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 경제부총리 표창 수상 … 원전·가스터빈 수출 공로 - 뉴데일리",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QTnhYcF9yVHAwWl83dmdqYjhkOHdjWF9FLUVMUlRoR2dUY3pvQ1NKRFRqQ2tHakJZSkF2cmt4eFlKRl9mTVhzOVFzOHlka3dsVUllSWlpSVVCazBkVE80TFFxMzlNZzVhdFJoNTVsZUMxdW9VU3doXzN3?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1QTnhYcF9yVHAwWl83dmdqYjhkOHdjWF9FLUVMUlRoR2dUY3pvQ1NKRFRqQ2tHakJZSkF2cmt4eFlKRl9mTVhzOVFzOHlka3dsVUllSWlpSVVCazBkVE80TFFxMzlNZzVhdFJoNTVsZUMxdW9VU3doXzN3?oc=5\" target=\"_blank\">두산에너빌리티, 경제부총리 표창 수상 … 원전·가스터빈 수출 공로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-    "published_at": "2026-07-01T14:46:36+09:00",
-    "cluster_id": "6930",
-    "publisher": "뉴데일리",
-    "title_clean": "두산에너빌리티, 경제부총리 표창 수상 … 원전·가스터빈 수출 공로",
-    "summary": "두산에너빌리티가 원전 및 가스터빈 수출 공로로 경제부총리 표창을 수상했다. 이는 기계설비건설 업계의 해외 수출 성과를 인정받은 것으로, 업계의 기술력과 경쟁력 강화를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-01T15:08:01+09:00",
-    "importance": 2
   },
   {
     "keyword": "스마트건설",
