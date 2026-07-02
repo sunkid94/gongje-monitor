@@ -12217,6 +12217,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 올해 1만3000가구 공급…'고객 경험' 혁신 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50bTIybklKYUFEMGstbGJDUURmbWtIb0dTNTNNWUN1MjBaRW5XWmJ6VHQ4MWxuOEQxVU1LcjhwNEhVSHZpa0FXbC1SMERyV2M?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE50bTIybklKYUFEMGstbGJDUURmbWtIb0dTNTNNWUN1MjBaRW5XWmJ6VHQ4MWxuOEQxVU1LcjhwNEhVSHZpa0FXbC1SMERyV2M?oc=5\" target=\"_blank\">IPARK현대산업개발, 올해 1만3000가구 공급…'고객 경험' 혁신</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "73f3",
+    "publisher": "v.daum.net",
+    "title_clean": "IPARK현대산업개발, 올해 1만3000가구 공급…'고객 경험' 혁신",
+    "summary": "IPARK현대산업개발이 올해 1만3000가구를 공급하며 건설 실적을 이어가고 있다. 고객 경험 혁신을 통해 주택 공급 사업을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-03T06:32:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -28055,20 +28070,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "KB국민은행, 공공 해상풍력사업 금융 파트너로 선정... 에너지 전환 뒷... - lkp.news",
-    "link": "http://www.lkp.news/news/articleView.html?idxno=81419",
-    "description": "사업권을 따낸 '전북해상풍력 컨소시엄'은 한국수력원자력이 대표사를 맡고 있으며, KB국민은행을 비롯해 한국동서발전, 한전KPS, 한국전력기술, 한화오션, 두산에너빌리티, IBK금융그룹, 삼일 C&S, 중앙해양중공업 등 총...",
-    "published_at": "2026-07-01T15:44:00+09:00",
-    "cluster_id": "38aa",
-    "publisher": "lkp.news",
-    "title_clean": "KB국민은행, 공공 해상풍력사업 금융 파트너로 선정... 에너지 전환 뒷...",
-    "summary": "KB국민은행이 전북해상풍력 컨소시엄의 금융 파트너로 선정되어 공공 해상풍력사업에 참여합니다. 한국수력원자력 주도로 건설사, 발전사, 금융사 등이 참여하는 대규모 사업으로 건설기계 및 설비 수요 증가가 예상됩니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-01T15:47:45+09:00",
-    "importance": 2
+    "title": "“노동자로 인정하라” 경남 남부권 레미콘 노사 교섭 갈등 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3TF85VFJWdWVaMXVoZ0dXbUd0R1RuOFpxbFRhTW85OWp0bnRqQ28wRnlLU29pZ1oyaGV2bC10WmVtMlpkWS10Wk9GWWpYOFU?oc=5",
+    "description": "경남 동부권 레미콘업계 노사 교섭은 마무리됐지만, 남부권은 아직 진행 중이다. 전국 건설기계 노동자들이 경남에 모여 거제·통영·고성 레미콘 제조사들의 단체협약 거부를 규탄하고, 남부권 레미콘 운송노동자 투쟁에 힘을 보태겠다고 밝혔다. 민주노총 전국건설노동조합 경남건설기계지부는 2일 오전 경남도청 앞에서",
+    "cluster_id": "e8a0",
+    "publisher": "v.daum.net",
+    "title_clean": "“노동자로 인정하라” 경남 남부권 레미콘 노사 교섭 갈등",
+    "summary": "경남 남부권 레미콘업계 노사 교섭이 진행 중이며, 운송노동자들이 단체협약 거부를 규탄하고 있다. 민주노총 전국건설노동조합이 노동자 지위 인정을 요구하며 투쟁을 전개하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-03T06:32:30+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32048,22 +32062,6 @@
     "publisher": "financialpost.co.kr",
     "title_clean": "롯데건설, 혹서기 폭염 맞서 전국 80개 현장 '체감온도 IoT 모니터링' 플...",
     "summary": "롯데건설이 IoT 기술을 활용한 체감온도 모니터링 시스템을 전국 80개 현장에 도입하여 폭염 대응 능력을 강화했다. 본사 안전상황센터와 현장 간 실시간 연동을 통해 스마트건설 기술을 고도화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T15:02:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반도건설, 국토부 상호협력평가 4년 연속 ‘최우수’…7년 연속 중대재해 ‘제로’ 지속 - 시사캐스트",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52MDJrS1FJSlhpdG05MTBNcmIzVXJYNERxUFpab3NXbjBvaW56NXVxZ1YxdTg1VWFyelROWGZRQnoxNUtkbGtFTzJlM19naF9CaHdlR3JjUllSbmFNdHJhYUUzZ084dWM?oc=5",
-    "description": "(시사캐스트, SISACAST=황최현주 기자) 반도건설은 국토교통부가 ‘2026년 건설사업자간 상호협력평가’ 결과에 따라 최우수 기업으로 선정됐다고 2일 밝혔다. 지난해에 이어 4년 연속 선정된 것으로, ESG 경영의 본격적인 도입 이후 현장 협력사 임직원들의 안전 및 처우 개선과 협력사와의 기술 개발을 통한 특허 출원 등 지속적인 상생 경영과 동반성장을 지속해왔다. 단순히 중대재해 예방에만 초점을 두지 않고 협력사의 역량 개발을 위한 지원을 아끼지 않으며 안전·시공·품질 등 시공 현장 전반에 걸친 성장을 함께해 온 결과이다. 국토",
-    "published_at": "2026-07-02T14:53:30+09:00",
-    "cluster_id": "6ce2",
-    "publisher": "시사캐스트",
-    "title_clean": "반도건설, 국토부 상호협력평가 4년 연속 ‘최우수’…7년 연속 중대재해 ‘제로’ 지속",
-    "summary": "반도건설이 국토교통부 상호협력평가에서 4년 연속 최우수 기업으로 선정됐으며, 7년 연속 중대재해 제로를 유지하고 있다. ESG 경영 도입을 통해 협력사 안전·처우 개선, 기술 개발, 동반성장을 추진해온 결과다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T15:02:49+09:00",
     "importance": 2
