@@ -28055,6 +28055,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[허원순의 경제로 세상보기] 시험대 오른 노란봉투법 - getnews.co.kr",
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=873975",
+    "description": "전국플랜트건설노동조합이 원청과의 단체교섭 결렬을 이유로 8월부터 건설노조와 발을 맞추는 파업을 결의하면서 다음 달엔 전국 주요 플랜트와 대형 건설현장이 멈춰 설 수 있다는 우려가 커진다. 산업계에서는...",
+    "published_at": "2026-07-03T04:00:00+09:00",
+    "cluster_id": "c4a5",
+    "publisher": "getnews.co.kr",
+    "title_clean": "[허원순의 경제로 세상보기] 시험대 오른 노란봉투법",
+    "summary": "전국플랜트건설노동조합이 원청과의 단체교섭 결렬로 인해 8월부터 건설노조와 함께 파업을 결의했다. 이에 따라 다음 달 전국 주요 플랜트와 대형 건설현장의 가동 중단이 우려되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-03T04:02:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32049,21 +32065,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T14:57:59+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한신공영㈜, 국토부 ‘상호협력평가’ 5년 연속 최우수…협력사 상생경영 성과 - 시사캐스트",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMei1BLWY4R2txbDhOQlZJYWstaW5oWk9maFIxVjdwRDRDTG5LUUV0aTJkUzJVMXhlbWcxanhDRWdkRTUteXFqTlNjYmROUGFVN2VLTjl5WGNhUThUMmhoaXMtUEw1UmM?oc=5",
-    "description": "(시사캐스트, SISACAST=황최현주 기자) 한신공영㈜은 국토교통부가 발표한",
-    "published_at": "2026-07-02T14:53:17+09:00",
-    "cluster_id": "b88a",
-    "publisher": "시사캐스트",
-    "title_clean": "한신공영㈜, 국토부 ‘상호협력평가’ 5년 연속 최우수…협력사 상생경영 성과",
-    "summary": "한신공영㈜이 국토교통부의 '상호협력평가'에서 5년 연속 최우수 등급을 획득했다. 협력사와의 상생경영 성과를 인정받은 것으로, 건설업계에서 바람직한 경영 사례로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T14:57:59+09:00",
-    "importance": 2
   }
 ]
