@@ -12217,6 +12217,37 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 체감온도 IoT 모니터링 플랫폼 전국 80개 현장서 본격 가동 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021737221420786",
+    "description": "롯데건설은 건설현장 근로자들의 온열질환을 예방하고, 안전한 작업환경을 조성하기 위해 ‘체감온도 IoT 모니터링 플랫폼(IoT 플랫폼)’을 전국 80개 현장에서 본격 가동한다고 2일 밝혔다. 롯데건설은 지난해 스마트...",
+    "published_at": "2026-07-03T06:22:00+09:00",
+    "cluster_id": "5252",
+    "publisher": "대한경제",
+    "title_clean": "롯데건설, 체감온도 IoT 모니터링 플랫폼 전국 80개 현장서 본격 가동",
+    "summary": "롯데건설이 건설현장 근로자의 온열질환 예방을 위해 체감온도 IoT 모니터링 플랫폼을 전국 80개 현장에서 본격 운영한다. 스마트 기술을 활용한 안전관리 시스템으로 작업환경 개선과 근로자 보호를 강화하는 사례.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-03T06:27:31+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 싱가포르 쿠옥그룹과 미래사업 협력 확대 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LdTl5X3pkLTdINFVsY0ZZbGkyRTFNM1o0X1hEdkpUU3k1bWZTSnE5YlVpWW9TWTItT0FaSUlZQ3hXWGFscjRRYVd5dUFEejQ?oc=5",
+    "description": "삼성중공업이 싱가포르 쿠옥그룹과 선박 건조 협력을 넘어 미래 사업 전반으로 협력 범위를 넓힌다. 양사는 액화천연가스(LNG)·에너지 프로젝트와 해상 물류, 디지털 인프라 등에서 장기 협력 체계를 구축하기로 했다. 삼성중공업은 싱가포르 쿠옥그룹(Kuok Singapore Limited·KSL)과 조선·해양 사업을 비롯해 해상 물류, 디지털 인프라 등 미래 사",
+    "cluster_id": "f01a",
+    "publisher": "v.daum.net",
+    "title_clean": "삼성중공업, 싱가포르 쿠옥그룹과 미래사업 협력 확대",
+    "summary": "삼성중공업이 싱가포르 쿠옥그룹과 선박 건조를 넘어 LNG·에너지, 해상 물류, 디지털 인프라 등으로 협력 범위를 확대한다. 양사는 미래 사업 전반에서 장기 협력 체계를 구축하기로 합의했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-03T06:27:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -28040,36 +28071,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[금융 Pick] KB국민·IBK기업은행, 전북 서남권 해상풍력 사업 참여…800... - lcnews.co.kr",
-    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204281",
-    "description": "두 은행이 참여한 '전북해상풍력 컨소시엄'은 한국수력원자력을 대표사로 한국동서발전, 한전KPS, 한국전력기술, 한화오션, 두산에너빌리티, KB금융그룹, IBK기업은행, 삼일C&S, 중앙해양중공업 등 총 10개 기관과 기업으로...",
-    "published_at": "2026-07-01T15:44:00+09:00",
-    "cluster_id": "169b",
-    "publisher": "lcnews.co.kr",
-    "title_clean": "[금융 Pick] KB국민·IBK기업은행, 전북 서남권 해상풍력 사업 참여…800...",
-    "summary": "KB국민은행과 IBK기업은행이 전북 서남권 해상풍력 사업에 참여하는 800억 규모 컨소시엄을 구성했다. 한국수력원자력 주도로 발전사, 건설사, 금융기관 등 10개 기관이 참여해 대규모 해상풍력 프로젝트를 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-01T15:47:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "코스피, 외국인 '팔자'에 2% 하락…코스닥은 1% 상승 - hankyung.com",
-    "link": "https://www.hankyung.com/article/2026070197676",
-    "description": "반면 삼성전기(0.96%), HD현대중공업(3.89%), 두산에너빌리티(1.96%), 한화에어로스페이스(9.65%), 삼성바이오로직스(0.36%) 등은 상승 마감했다. 업종별로는 전력 인프라와 방산 관련주가 강세를 이어갔다. LS 일렉트릭...",
-    "published_at": "2026-07-01T15:44:00+09:00",
-    "cluster_id": "ee2e",
-    "publisher": "hankyung.com",
-    "title_clean": "코스피, 외국인 '팔자'에 2% 하락…코스닥은 1% 상승",
-    "summary": "코스피는 외국인 매도세로 2% 하락했으나, 코스닥은 1% 상승했다. 전력 인프라와 방산 관련주가 강세를 보이며 상승 마감했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-01T15:47:45+09:00",
-    "importance": 2
+    "title": "한국노총 ‘건설 유일산별’ 공표… 내부 주도권 ‘진통’ - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021059225670689",
+    "description": "건설 노동자들을 조직해 온 전국연합노동조합연맹(연합노련)과 전국섬유·유통·건설노동조합연맹은 즉각 반발했다. 이들은 총연맹 지도부의 지침 공표가절차적 정당성을 결여했다며 지침 철회를 요구하고 있다. 이처럼...",
+    "published_at": "2026-07-03T06:22:00+09:00",
+    "cluster_id": "62d9",
+    "publisher": "대한경제",
+    "title_clean": "한국노총 ‘건설 유일산별’ 공표… 내부 주도권 ‘진통’",
+    "summary": "한국노총이 건설산업의 '유일산별' 지침을 공표했으나, 연합노련 등 기존 건설노조들이 절차적 정당성 부재를 이유로 강력히 반발하고 있다. 건설노조 내 주도권을 놓고 조직 간 갈등이 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-03T06:27:31+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32052,20 +32067,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T15:02:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "롯데건설, 폭염대응 '체감온도 IoT 플랫폼' 전국 현장 도입 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jdDJDU3dFTm9qN0ZjQjBmWTBHS3FZci1MQUdMbEVBQkVKRC1QT1E4ZXMxbjVjazlwajMtZnE1UkZHbW52cV8yOTNOeEVqNFBaUkY0?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [아이뉴스24 김민지 기자] 롯데건설이 폭염에 따른 온열질환 예방을 위해 전국 건설현장의 체감온도를 실시간으로 관리하는 사물인터넷(IoT) 기반 모니터링 시스템을 본격 가동한다.롯데건설은 전국 80개 건설현장에",
-    "cluster_id": "c8da",
-    "publisher": "네이트",
-    "title_clean": "롯데건설, 폭염대응 '체감온도 IoT 플랫폼' 전국 현장 도입",
-    "summary": "롯데건설이 전국 80개 건설현장에 체감온도 IoT 플랫폼을 도입하여 폭염 대비 온열질환 예방에 나선다. 실시간 모니터링 시스템을 통해 현장 안전관리 체계를 강화하는 사례로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T15:02:49+09:00",
-    "importance": 3
   }
 ]
