@@ -28056,6 +28056,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[건설오늘] DL이앤씨, 2년 연속 상호협력평가 최우수 外 현대건설·대우... - newscj.com",
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3414131",
+    "description": "회사는 업계 최초 협력사 맞춤형 대학원 교육과 스마트건설 기술 지원, 우수 협력사 포상 프로그램 등을 운영하며 ESG 기반 동반성장 체계를 지속 확대한다는 계획이다. ◆현대건설, 청년 실무교육으로 취업 경쟁력...",
+    "published_at": "2026-07-02T23:12:00+09:00",
+    "cluster_id": "f86b",
+    "publisher": "newscj.com",
+    "title_clean": "[건설오늘] DL이앤씨, 2년 연속 상호협력평가 최우수 外 현대건설·대우...",
+    "summary": "DL이앤씨가 2년 연속 상호협력평가 최우수를 달성하며 협력사 맞춤형 대학원 교육, 스마트건설 기술 지원 등 ESG 기반 동반성장 체계를 확대하고 있다. 현대건설도 청년 실무교육으로 취업 경쟁력 강화에 나서는 등 건설사들의 협력사 지원 및 인력 양성 노력이 활발하다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-02T23:17:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32053,21 +32069,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T14:37:52+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한신공영, 국토부 상호협력평가 5년 연속 최우수 등급 획득 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUTWh6X1d5dGpTaWRHT05iS3g3bzl3WDhXb19TLVJfcWNrU0RFU1NULXdkMTZBTkJpV2hyQWdTZHpRQjNLUVhvd0duaFFWRnp6Nk9TaVJ4LTBLUdIBVEFVX3lxTE5nMkJTaUZuQzRHTXd1NmFyX2xJeTM1bEYyQy1ZazRhTnVPMEd5MWVjS041Ulp1Z05jTzR3XzBqSk5Xb2lfVURSWWRZckpKdEZyR05rbw?oc=5",
-    "description": "한신공영, 국토부 상호협력평가 5년 연속 최우수 등급 획득, 2022년부터 5년 연속 최우수 등급 달성&hellip;협력사와의 상생경영 성과 공정거래&middot;동반성장 실천으로 지속가능한 건설 생태계 조성 앞장",
-    "published_at": "2026-07-02T14:30:17+09:00",
-    "cluster_id": "1414",
-    "publisher": "한국경제",
-    "title_clean": "한신공영, 국토부 상호협력평가 5년 연속 최우수 등급 획득",
-    "summary": "한신공영이 국토부 상호협력평가에서 2022년부터 5년 연속 최우수 등급을 획득했다. 이는 협력사와의 상생경영, 공정거래, 동반성장 실천을 통해 건설 생태계 조성에 앞장선 성과로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T14:37:52+09:00",
-    "importance": 2
   }
 ]
