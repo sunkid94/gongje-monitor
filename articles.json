@@ -12217,6 +12217,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "상반기 도시정비사업 수주, 어느 건설사 웃었나? 현대-GS-삼성 '3강 독주... - popcornnews.net",
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=125506",
+    "description": "한편, 1분기 독보적 수주 실적을 보인 대우건설은 상반기 결산 네 번째 순위에 자리했다. ▲부산 사직4구역 재개발 ▲신이문역세권 도시정비형 재개발 ▲기흥1구역 재건축 ▲성산 모아타운3구역 ▲신대방역세권...",
+    "published_at": "2026-07-03T07:30:00+09:00",
+    "cluster_id": "055e",
+    "publisher": "popcornnews.net",
+    "title_clean": "상반기 도시정비사업 수주, 어느 건설사 웃었나? 현대-GS-삼성 '3강 독주...",
+    "summary": "상반기 도시정비사업 수주에서 현대건설, GS건설, 삼성물산이 3강 독주 체제를 유지했으며, 1분기 수주 1위였던 대우건설은 상반기 결산에서 4위로 밀려났다. 부산 사직4구역 재개발 등 다양한 도시정비사업이 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-03T07:32:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -28055,20 +28071,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산퓨얼셀 주가 3,500원 상승 후 장마감 - 아시아뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Kd3NFOUl2R3NvN3hFNEJXWDdMQ0NwOHF0SzRxZEktWUpZTzNFZmxWUUZ0VG5OY0RfNnM5VW1uXzlzU21Yd1dfYnNBXzFMOW85bC16RTNhOU5GVVBx?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Kd3NFOUl2R3NvN3hFNEJXWDdMQ0NwOHF0SzRxZEktWUpZTzNFZmxWUUZ0VG5OY0RfNnM5VW1uXzlzU21Yd1dfYnNBXzFMOW85bC16RTNhOU5GVVBx?oc=5\" target=\"_blank\">두산퓨얼셀 주가 3,500원 상승 후 장마감</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아뉴스통신</font>",
-    "published_at": "2026-07-01T15:47:10+09:00",
-    "cluster_id": "a13e",
-    "publisher": "아시아뉴스통신",
-    "title_clean": "두산퓨얼셀 주가 3,500원 상승 후 장마감",
-    "summary": "두산퓨얼셀의 주가가 3,500원 상승하여 장을 마감했다. 구체적인 상승 사유에 대한 정보는 제시되지 않았으나, 긍정적인 주가 움직임을 보였다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-01T15:57:58+09:00",
-    "importance": 2
+    "title": "[시론] 가스 수입량과 국민 1인당 소비량 비교 - gasnews.com",
+    "link": "https://www.gasnews.com/news/articleView.html?idxno=125818",
+    "description": "지난 2월 가스신문에 게재된 '가스용품산업, 내수시장으로는 한계인가'에서 2025년 가스용품의 생산단계검사 수량이 전년 대비 18.9%나 감소한 원인으로 '건설경기의 부진과 전기제품으로의 이동'을 언급하였다....",
+    "published_at": "2026-07-03T07:30:00+09:00",
+    "cluster_id": "3db5",
+    "publisher": "gasnews.com",
+    "title_clean": "[시론] 가스 수입량과 국민 1인당 소비량 비교",
+    "summary": "2025년 가스용품 생산단계검사 수량이 전년 대비 18.9% 감소한 원인을 건설경기 부진과 전기제품으로의 소비 전환으로 분석하는 시론. 가스용품산업의 내수시장 한계와 산업 구조 변화에 대한 문제 제기.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-03T07:32:30+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32050,21 +32066,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-02T15:02:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, 청년 건설인재 양성 'HILLSTATE Academy' 1기 모집 - datanews.co.kr",
-    "link": "http://www.datanews.co.kr/news/article.html?no=145406",
-    "description": "또한 건설산업의 디지털 전환 흐름에 맞춰 BIM(Building Information Modeling)과 Primavera(공정관리 소프트웨어) 등 스마트건설 기술 교육과 취업 지원 프로그램도 함께 운영한다. 'HILLSTATE Academy' 1기는 만 18세 이상 34세...",
-    "published_at": "2026-07-02T15:00:00+09:00",
-    "cluster_id": "2890",
-    "publisher": "datanews.co.kr",
-    "title_clean": "현대건설, 청년 건설인재 양성 'HILLSTATE Academy' 1기 모집",
-    "summary": "현대건설이 청년 건설인재 양성을 위해 'HILLSTATE Academy' 1기 모집을 진행한다. BIM, 공정관리 소프트웨어 등 스마트건설 기술 교육과 취업 지원 프로그램을 운영하며 건설산업의 디지털 전환에 대응한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T15:02:49+09:00",
-    "importance": 2
   }
 ]
