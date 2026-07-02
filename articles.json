@@ -12200,6 +12200,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "고객 니즈 담은 프리미엄 주거 브랜드 진화…공간의 가치 높이는 차별화된 디자인 혁신 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lN01kQWszdW0wNElPeW1TUHJYWk5yREhTZ2pJTlk4RjdhTm5BcnFESG5paXkzaEhhOG9vNng5c1R0ZVZ6ajZKMVB4TUYwZkE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lN01kQWszdW0wNElPeW1TUHJYWk5yREhTZ2pJTlk4RjdhTm5BcnFESG5paXkzaEhhOG9vNng5c1R0ZVZ6ajZKMVB4TUYwZkE?oc=5\" target=\"_blank\">고객 니즈 담은 프리미엄 주거 브랜드 진화…공간의 가치 높이는 차별화된 디자인 혁신</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "21d9",
+    "publisher": "v.daum.net",
+    "title_clean": "고객 니즈 담은 프리미엄 주거 브랜드 진화…공간의 가치 높이는 차별화된 디자인 혁신",
+    "summary": "프리미엠 주거 브랜드가 고객 니즈를 반영한 차별화된 디자인으로 진화하고 있으며, 공간 가치를 높이는 혁신을 추진 중이다. 이는 주거 시장의 고급화 추세와 건설사의 경쟁력 강화를 반영한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-03T00:47:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -28040,20 +28055,19 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "수은 창립 50주년…\"AI·반도체 지원 확대, 수출 1조달러 시대 연다\" - whitepaper.co.kr",
-    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264113",
-    "description": "화이트페이퍼, WHITEPAPER(사진 왼쪽부터)조성용 대두식품 대표, 박상현 두산에너빌리티 대표, 황기연 한국수출입은행장, 구윤철 경제부총리 겸 재정경제부 장관, 정은주 수은 노조위원장, 장태영 네오플램 대표 등...",
-    "published_at": "2026-07-01T15:16:00+09:00",
-    "cluster_id": "ef21",
-    "publisher": "whitepaper.co.kr",
-    "title_clean": "수은 창립 50주년…\"AI·반도체 지원 확대, 수출 1조달러 시대 연다\"",
-    "summary": "수은이 창립 50주년을 맞아 AI·반도체 산업 지원 확대와 수출 1조달러 시대 달성을 목표로 추진하고 있다. 경제부총리 등 주요 인사들이 참석한 가운데 수출입은행의 역할 확대를 강조했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-01T15:18:02+09:00",
-    "importance": 2
+    "title": "\"무조건 안전\" 박승원 광명시장, 건설현장 관리 강화 주문 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRFI3YVN4VjY0WlkzVnY5ZUxxN3FDc0s1ajJ6RVIwR3lPRVRYbVg2djRVX2V6ZlZXMklXMWl6OUw1VjhsWG5qXzdjREd1S3BjSGRr?oc=5",
+    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 박승원 광명시장이 2일 오후 시청 대회의실에서 열린",
+    "cluster_id": "d194",
+    "publisher": "네이트",
+    "title_clean": "\"무조건 안전\" 박승원 광명시장, 건설현장 관리 강화 주문",
+    "summary": "박승원 광명시장이 건설현장의 안전 관리 강화를 주문했습니다. 이는 건설현장 안전 규제 강화 움직임으로, 건설업계에는 관리 비용 증가 및 규제 부담 확대를 의미합니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-03T00:47:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32050,22 +32064,6 @@
     "publisher": "sisafocus.co.kr",
     "title_clean": "대방건설, 국토부 상호협력평가 5년 연속 '최우수'",
     "summary": "대방건설이 국토부 상호협력평가에서 5년 연속 최우수 등급을 획득했다. 최우수 등급 기업은 공공공사 입찰 PQ 가점, 시공능력평가액 가산, 벌점 감경 등의 혜택을 받는다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T14:47:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL이앤씨·계룡건설, '건설사업자 상호협력평가' 최우수 등급 '성과' - popcornnews.net",
-    "link": "http://www.popcornnews.net/news/articleView.html?idxno=125441",
-    "description": "최우수 등급 등 우수기업으로 선정되면 조달청 및 지자체 공공공사 입찰 시 가점 부여, 시공능력평가액 산정 시 가산, 건설산업기본법상 벌점 감경 등 실질 혜택을 받게 된다. [팝콘뉴스]",
-    "published_at": "2026-07-02T14:42:00+09:00",
-    "cluster_id": "c7f1",
-    "publisher": "popcornnews.net",
-    "title_clean": "DL이앤씨·계룡건설, '건설사업자 상호협력평가' 최우수 등급 '성과'",
-    "summary": "DL이앤씨와 계룡건설이 '건설사업자 상호협력평가'에서 최우수 등급을 획득했다. 이에 따라 공공공사 입찰 가점, 시공능력평가액 가산, 벌점 감경 등 실질적 혜택을 받게 된다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T14:47:51+09:00",
     "importance": 2
