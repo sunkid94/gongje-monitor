@@ -28675,6 +28675,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "코오롱글로벌, 국토부 상호협력평가 2년 연속 ‘최우수’ - 글로벌뉴스통신GNA",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UV2RlRUxRWjNmSnhxajFtSGNfTTZtaWNHcXJTYlBzY0lhekszSXJScW1yZGtXeC1Wbm5KYkx1X3ptNlEwc1BtSG5hbFZ0NmEzcXo2OEZkTGUwT1ZlanFBWklJazl4OFBOYllxM2pILXdSak1s?oc=5",
+    "description": "[서울=글로벌뉴스통신] 코오롱글로벌은 국토교통부가 실시한 ‘2026년도 건설사업자간 상호협력평가’에서 최우수 등급을 획득했다고 3일(금) 밝혔다.코오롱글로벌은 지",
+    "published_at": "2026-07-03T22:05:26+09:00",
+    "cluster_id": "d381",
+    "publisher": "글로벌뉴스통신GNA",
+    "title_clean": "코오롱글로벌, 국토부 상호협력평가 2년 연속 ‘최우수’",
+    "summary": "코오롱글로벌이 국토교통부의 '2026년도 건설사업자간 상호협력평가'에서 최우수 등급을 획득하며 2년 연속 최우수 평가를 받았다. 이는 건설업계의 우수한 기업 사례로 평가받는 긍정적인 성과다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-03T22:22:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32109,21 +32125,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-03T06:17:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "축구협회 떠나는 정몽규, HDC 체질 개선·사업 다각화 힘 싣나 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260702000785",
-    "description": "IPARK현대산업개발은 시공 중심에서 종합 디벨로퍼로 체질 개선에 나선 후 지난해 건설경기 부진에도 수익성 확대를 이뤘다. 에너지 부문 발전 계열사 '통영에코파워'는 지난해부터 본격적으로 매출을 내기...",
-    "published_at": "2026-07-03T06:00:00+09:00",
-    "cluster_id": "793a",
-    "publisher": "newspim.com",
-    "title_clean": "축구협회 떠나는 정몽규, HDC 체질 개선·사업 다각화 힘 싣나",
-    "summary": "정몽규 회장이 축구협회를 떠나면서 HDC현대산업개발의 체질 개선에 집중하고 있다. 회사는 시공 중심에서 종합 디벨로퍼로 전환하며 건설경기 부진 속에서도 에너지 사업 등 다각화를 통해 수익성을 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T06:07:38+09:00",
-    "importance": 2
   }
 ]
