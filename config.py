@@ -76,5 +76,7 @@ TRADE_RSS_FEEDS = [
     # 구글 색인이 느린 건설 전문지 직접 구독 — 발행 즉시 포착(색인 지연 우회). 2026-07-02 추가.
     {"name": "대한전문건설신문", "url": "https://www.koscaj.com/rss/allArticle.xml"},
     {"name": "한국건설신문", "url": "https://www.kscnews.co.kr/rss/allArticle.xml"},
+    # 기계설비협회 기사 다수 게재 — 배너 오염 없음 확인(무관기사 본문에 조합/협회 키워드 無). 2026-07-03 추가.
+    {"name": "건설이코노미뉴스", "url": "https://www.cenews.kr/rss/allArticle.xml"},
     # (비즈워크 제외: 전 페이지 '건설공제조합' 배너로 본문폴백이 전 기사 오분류 — 순손해)
 ]
