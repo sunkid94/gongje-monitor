@@ -28709,6 +28709,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "보도자료 - 인천광역시청",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTENWbFJDQ2MxODhDNjdBU08zVGJteG4zN1RqOWt4VDBZd2VVUjJfclRTR1Q4T1NIX1VHYVhpVzBjdHV5bXNqWEhwVHpvRFVEZDg5TzJGZ1E3Zndld1V3QmpKZEloaUpBamo4Y3B3U0FfOXNRTmk5NDAwVXNYbjV0b0RwNjVpbzNPOUFBcXU5amdsQTNJVjl0Z1lJQjBvSGtuUjc1T1ZNME9rYU5TU09TTlFmZ0gtNUlOd21XemVDaDlmQjNSUnVxV0RXV1RmcHI5dkE2Qk04YkpPU1lBVHBrMGtsMDJtOVN1LURVU2ROYw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTENWbFJDQ2MxODhDNjdBU08zVGJteG4zN1RqOWt4VDBZd2VVUjJfclRTR1Q4T1NIX1VHYVhpVzBjdHV5bXNqWEhwVHpvRFVEZDg5TzJGZ1E3Zndld1V3QmpKZEloaUpBamo4Y3B3U0FfOXNRTmk5NDAwVXNYbjV0b0RwNjVpbzNPOUFBcXU5amdsQTNJVjl0Z1lJQjBvSGtuUjc1T1ZNME9rYU5TU09TTlFmZ0gtNUlOd21XemVDaDlmQjNSUnVxV0RXV1RmcHI5dkE2Qk04YkpPU1lBVHBrMGtsMDJtOVN1LURVU2ROYw?oc=5\" target=\"_blank\">보도자료</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천광역시청</font>",
+    "cluster_id": "ae36",
+    "publisher": "인천광역시청",
+    "title_clean": "보도자료",
+    "summary": "제공된 기사 내용이 구체적인 뉴스 내용 없이 제목과 출처 정보만 있어 분석할 실질적 정보가 부족합니다. 건설업계와 기계설비건설공제조합에 미치는 영향을 판단하기 위해 구체적인 기사 본문 내용이 필요합니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-04T02:52:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32111,21 +32126,6 @@
     "summary": "부산시의 '에코델타시티 15블럭 통합공공임대주택 건립사업'이 국토교통부 특화주택 공모사업에 최종 선정됐다. 강서구에 특화주택 200호와 일반 공공임대주택 793호 등 총 993호를 공급할 예정이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-03T08:42:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "김진명 경기도의원, 경기남부광역철도 제5차 국가철도망 구축계획 반영 강력 촉구 > 뉴스 - 더코리아",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hWjFlWkdyelFEcnlPc3NUXzFvUTFCTjFmRXE1NjFmYVdJcU9aQURhcWlsMEZVeFZkQ2FZUjREeVdYbmRUbmpXVHNILVh3N0M0ZXoxUklQMHVCcy1wWVE5aUotNllSSExvOTk1blVEUUU?oc=5",
-    "description": "국토교통부와 긴급 간담회 개최…경제성 분석(B/C) 1.2 확보로 국가철도망 반영 당위성 입증",
-    "cluster_id": "1888",
-    "publisher": "더코리아",
-    "title_clean": "김진명 경기도의원, 경기남부광역철도 제5차 국가철도망 구축계획 반영 강력 촉구 > 뉴스",
-    "summary": "김진명 경기도의원이 국토교통부와 긴급 간담회를 열어 경기남부광역철도의 제5차 국가철도망 구축계획 반영을 강력히 촉구했다. 경제성 분석(B/C) 1.2를 확보하여 사업의 타당성을 입증하고 국가철도망 포함을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T08:17:56+09:00",
     "importance": 2
   }
 ]
