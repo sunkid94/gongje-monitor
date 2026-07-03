@@ -12792,6 +12792,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 4374억원 투입 '팰리세이즈파크 주거개발' 투자 확정…20년 만에 북미 재진출 - 퍼블릭뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3cXZxazVoM1ZSRjFtanpaUUdVSXBLbWlUckpzVWVfTERyQjFmQU1ZT0dzTDVoQmd2a0g4dWlmVnN2VjJxb2JTTmhTMUtvbERFSm1rSWhhN0p1RGhLemRheVVXNTR1UjVucTR3?oc=5",
+    "description": "대우건설이 미국 뉴저지주 팰리세이즈파크 주거개발사업에 대한 투자를 최종 확정하며 북미 부동산 시장에 본격적으로 진출한다. 대우건설은 6월 30일 뉴저지 버겐 카운",
+    "published_at": "2026-07-03T22:14:42+09:00",
+    "cluster_id": "6208",
+    "publisher": "퍼블릭뉴스통신",
+    "title_clean": "대우건설, 4374억원 투입 '팰리세이즈파크 주거개발' 투자 확정…20년 만에 북미 재진출",
+    "summary": "대우건설이 4374억원을 투입해 미국 뉴저지주 팰리세이즈파크 주거개발사업에 진출을 확정했다. 이는 20년 만의 북미 부동산 시장 재진출로 건설사의 해외 수주 다각화를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-03T22:42:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -28657,22 +28673,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T14:22:49+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[건설브리핑] 현대건설, '힐스테이트 아카데미' 1기 모집 외 - 서울파이낸스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXRDQ1bV81OW1WSTVmYnV2bXFqaDI1S3pWLWE4bkRHRE9kdUZnaWZCd3lwWDFvelBnckdESE1IbE9XSWdwUVBHbHN5TWs4NmE2QkZnSUJ6bEY4VncxV3g0Vm43b1otZXV3bmc?oc=5",
-    "description": "[서울파이낸스 김예온 기자] 현대건설은 청년 인재 양성을 위한 실무형 교육 프로그램 '힐스테이트 아카데미' 1기 교육생을 모집한다고 2일 밝혔다. 이번 교육 과정",
-    "published_at": "2026-07-02T14:12:09+09:00",
-    "cluster_id": "6b80",
-    "publisher": "서울파이낸스",
-    "title_clean": "[건설브리핑] 현대건설, '힐스테이트 아카데미' 1기 모집 외",
-    "summary": "현대건설이 청년 인재 양성을 위한 실무형 교육 프로그램 '힐스테이트 아카데미' 1기 교육생을 모집한다. 건설업계 인재 육성 및 미래 경쟁력 강화를 위한 인사관리 차원의 소식이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-02T14:22:49+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
