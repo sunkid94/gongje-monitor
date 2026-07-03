@@ -28759,6 +28759,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "전남동부지사, GS건설 여수 현장 혹서기 캠페인 실시 - 안전정보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zVTNtVUhNdE93TFlDc09icVRTWGNHdlk4NEwtWlRwLVBDaFBtdHhoUl9CbDVXNWNZN25hcS1mcm1fQWJxTzloZUxJb3htODF2Y0dLVDdfQ1FBQS0xOVIwdUFNQlctcjAyVC1z?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE0zVTNtVUhNdE93TFlDc09icVRTWGNHdlk4NEwtWlRwLVBDaFBtdHhoUl9CbDVXNWNZN25hcS1mcm1fQWJxTzloZUxJb3htODF2Y0dLVDdfQ1FBQS0xOVIwdUFNQlctcjAyVC1z?oc=5\" target=\"_blank\">전남동부지사, GS건설 여수 현장 혹서기 캠페인 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
+    "cluster_id": "30d0",
+    "publisher": "안전정보",
+    "title_clean": "전남동부지사, GS건설 여수 현장 혹서기 캠페인 실시",
+    "summary": "전남동부지사가 GS건설 여수 현장에서 폭염 시즌 안전 캠페인을 실시했습니다. 건설 현장의 혹서기 안전관리 강화 활동으로 업계 안전 의식 제고를 위한 조치입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-04T03:07:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32112,22 +32127,6 @@
     "summary": "광주 기반 중흥그룹이 본사 기능을 서울로 이전하며 수도권 중심 경영체제로 전환했다. 강남 재건축이 아닌 틈새시장을 노리는 전략적 선택으로 보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-03T09:17:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "동국제강, 美 AI 인프라 투자에 형강사업 '턴어라운드' - dealsite.co.kr",
-    "link": "https://dealsite.co.kr/articles/164644",
-    "description": "그동안 건설경기 침체로 가격·가동률 동반하락을 겪었던 형강사업이 직접적인 수혜를 입을 가능성이 높다는 분석이다. 실제 동국제강의 H형강 제품 디-메가빔은 데이터센터에 적합한 소재로 기존 건설재보다...",
-    "published_at": "2026-07-03T09:02:00+09:00",
-    "cluster_id": "b021",
-    "publisher": "dealsite.co.kr",
-    "title_clean": "동국제강, 美 AI 인프라 투자에 형강사업 '턴어라운드'",
-    "summary": "동국제강의 형강사업이 미국의 AI 인프라 투자 확대로 직접적인 수혜를 기대하고 있다. 그동안 건설경기 침체로 어려움을 겪던 형강사업이 데이터센터용 H형강 제품 수요 증가로 '턴어라운드'할 가능성이 높다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T09:07:34+09:00",
     "importance": 2
   }
 ]
