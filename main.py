@@ -8,6 +8,8 @@ from mailer import send_email
 from notifier import send_company_push
 from seen_store import load_seen, save_seen
 
+import heartbeat
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s %(levelname)s %(message)s",
@@ -51,6 +53,21 @@ def main(skip_email: bool = False, fast: bool = False) -> None:
     logger.info("%d건 처리 완료 (email=%s).", len(deduped), not skip_email)
 
 
+def run_cli(argv: list) -> None:
+    """CLI 진입점 — main() 을 감싸 성공/실패 heartbeat 핑을 쏜다.
+
+    성공(새 기사 유무 무관)이면 ping(), 크래시면 ping_fail() 후 재-raise 로
+    기존 종료코드·예외 전파 동작을 보존한다.
+    """
+    fast = "--fast" in argv
+    try:
+        main(skip_email=fast or "--no-email" in argv, fast=fast)
+    except Exception:
+        heartbeat.ping_fail()
+        raise
+    else:
+        heartbeat.ping()
+
+
 if __name__ == "__main__":
-    _fast = "--fast" in sys.argv
-    main(skip_email=_fast or "--no-email" in sys.argv, fast=_fast)
+    run_cli(sys.argv)
