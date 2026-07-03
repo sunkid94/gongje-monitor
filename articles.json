@@ -12874,6 +12874,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주간 거래소 외국인] SK하이닉스 삼성전자 팔고 삼성전기 DB하이텍 담았... - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465453",
+    "description": "이어 DB하이텍, LG이노텍, 한미반도체, 삼성바이오로직스, 두산에너빌리티, LG전자, LG에너지솔루션, SK텔레콤, 두산이 순매수 상위권에 이름을 올렸다. 이 밖에도 현대백화점, 신세계, 대덕전자, NAVER, 삼성물산...",
+    "published_at": "2026-07-04T07:26:00+09:00",
+    "cluster_id": "efc0",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "[주간 거래소 외국인] SK하이닉스 삼성전자 팔고 삼성전기 DB하이텍 담았...",
+    "summary": "외국인이 SK하이닉스, 삼성전자 등 반도체 및 전자 대형주를 순매도하는 한편, DB하이텍, LG이노텍, 삼성바이오로직스 등 다양한 업종의 중형주를 순매수하고 있다. 건설기계와 직접적 연관성이 낮은 반도체, 전자, 바이오 등 기술주 중심의 외인 거래 동향을 보도하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-04T07:32:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -28739,22 +28755,6 @@
     "title_clean": "삼성중공업, 싱가포르 쿠옥 그룹과 협력 확대…글로벌 생산망 강화",
     "summary": "삼성중공업이 싱가포르 쿠옥 그룹과의 협력을 조선·해양 사업에서 에너지, 해상 물류, 디지털 인프라까지 확대한다. 글로벌 생산망 강화를 통해 유연한 건조 체계를 구축하고 새로운 사업 기회를 창출할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-02T14:52:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 제1회 기술명인 6인 선임 및 하반기 신입사원 64명 입사식 개최 - 퍼블릭뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZWdHbk12eDMwZDlTWnFpUGpLTlZNUF9qYnV6WTA0Szd3b2xpb0wwMjRZbjlvaG8tLUVZMUtOdE84aDlmYlNZZGN0VGd1V0x3dXRjM01pVnpxUUlabTVyZmllNlZoUTZfaUsw?oc=5",
-    "description": "대우건설이 숙련공들의 핵심 자산을 전사적으로 계승하기 위해 2026년 기술명인 제도를 구축하고 첫 번째 기술명인 6인을 선정해 선임식을 진행했다.이번 행사는 20",
-    "published_at": "2026-07-02T10:13:09+09:00",
-    "cluster_id": "5906",
-    "publisher": "퍼블릭뉴스통신",
-    "title_clean": "대우건설, 제1회 기술명인 6인 선임 및 하반기 신입사원 64명 입사식 개최",
-    "summary": "대우건설이 2026년부터 시행할 기술명인 제도를 구축하고 첫 번째 기술명인 6인을 선임했다. 이는 숙련공의 핵심 자산을 전사적으로 계승하기 위한 인사 조치이며, 동시에 신입사원 64명 입사식도 개최했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-02T14:52:57+09:00",
     "importance": 2
   },
