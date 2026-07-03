@@ -12318,6 +12318,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 美 뉴저지 주거개발사업 투자… 20년만에 재진출 - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zbHNwbm51VkxlNlpVQUUwY3BPZm90ZW5NZzhCWVp4dmxzcHlwWS1YNXpNNXlab1NNQTdzQ1EzV2E0TWJHM1R3RXM2S3JrMDMxbnBidVNPak1tY3VtbzVqSnpTVVcxajRpVnRCSnVZMmjSAXRBVV95cUxQNWJjcGhtSC1NZzdta0NSSnFLMGRhNG5ESUpDMkpYdGkwcVNUUGdrekdmSEl0SnpDNkV4bElBa3B3a2NIdnNlZ0V2amY1VFBUd1R4Z0N3NEl0QUdDdkV2Yzc1RU1pbGsycmtUZ2ZlaTk5djUtVQ?oc=5",
+    "description": "대우건설이 미국 뉴저지주 내 주거개발사업 투자를 최종 확정하며 미국에서 부동산 개발사업을 본격 확대한다.대우건설은 6월 30일 미국 뉴저지 버겐 카운티(Bergen County) ‘팰리세이즈파크(Palisades Park) 주거개발사업’에 대한 투자를 결정했다고 3일 밝혔다. 대우건설",
+    "published_at": "2026-07-03T12:32:14+09:00",
+    "cluster_id": "ac3d",
+    "publisher": "IT조선",
+    "title_clean": "대우건설, 美 뉴저지 주거개발사업 투자… 20년만에 재진출",
+    "summary": "대우건설이 미국 뉴저지주 팰리세이즈파크 주거개발사업에 투자를 확정하며 20년만에 미국 시장에 재진출했다. 이는 건설사의 해외 부동산 개발사업 확대를 의미하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-03T12:47:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -28146,19 +28162,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "발코니·풀퍼니시드 갖춘 주거형 오피스텔 주목…'롯데캐슬 르웨스트' ... - economist.co.kr",
-    "link": "https://economist.co.kr/article/view/ecn202607010015",
-    "description": "롯데건설이 공급하는 롯데캐슬 르웨스트는 서울 강서구 마곡도시개발사업지구 CP2블록에 위치하며, 지하 6층~지상 15층, 5개 동 규모로 조성된다. 오피스텔 전용면적 45~103㎡, 총 876실과 판매시설, 업무시설, 부대시설 등을...",
-    "published_at": "2026-07-02T09:01:00+09:00",
-    "cluster_id": "1b64",
-    "publisher": "economist.co.kr",
-    "title_clean": "발코니·풀퍼니시드 갖춘 주거형 오피스텔 주목…'롯데캐슬 르웨스트' ...",
-    "summary": "롯데건설이 서울 강서구 마곡지구에 오피스텔 '롯데캐슬 르웨스트'를 공급한다. 발코니와 풀퍼니시드 등 주거형 편의시설을 갖춘 876실 규모의 프로젝트로, 오피스텔 시장 다양화를 주도하고 있다.",
+    "title": "기후부 이호현 제2차관, 장마철 대비 전력망 건설 현장 점검 - 시사일보",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TNlMyTEhKVmlRWHI3M2JOMVNEYUdtczdDckduWU12WmtXQnRQenVLeFktb1Q2NVZvSFNYcXUzakR6MlVTME1iS05BaW4?oc=5",
+    "description": "기후에너지환경부 [시사일보=최한규 기자] 기후에너지환경부는 7월 3일 오전 이호현 제2차관이 경남 함안군에 위치한 군북-가야 전력구 공사 현장을 방",
+    "published_at": "2026-07-03T10:56:00+09:00",
+    "cluster_id": "63c5",
+    "publisher": "시사일보",
+    "title_clean": "기후부 이호현 제2차관, 장마철 대비 전력망 건설 현장 점검",
+    "summary": "기후에너지환경부 이호현 제2차관이 경남 함안군의 군북-가야 전력구 공사 현장을 점검하며 장마철 대비 전력망 건설을 독려했다. 전력 인프라 건설 현장에 대한 정부의 관심과 지원을 보여주는 사례다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-02T09:02:37+09:00",
+    "collected_at": "2026-07-03T12:47:33+09:00",
     "importance": 2
   },
   {
@@ -32045,22 +32061,6 @@
     "summary": "현대건설이 고용노동부 'K 뉴딜 아카데미' 사업의 일환으로 'HILLSTATE Academy' 1기 교육생을 모집한다. 기업 주도의 실무형 교육 프로그램으로 청년 인재를 양성하여 건설산업의 일손 부족 문제 해소에 기여한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:43:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "호반건설, 국토부 상호협력평가 2년 연속 최고점 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1714918",
-    "description": "건설산업기본법상 벌점 감경 등 공공 발주 사업에서도 인센티브를 준다. 호반그룹 건설계열은 협력사와의 동반 성장을 위해 노력하고 있다. 매년 우수 협력업체를 선발해 상생협력 지원금을 전달하고 협력업체...",
-    "published_at": "2026-07-02T16:32:00+09:00",
-    "cluster_id": "56f5",
-    "publisher": "ebn.co.kr",
-    "title_clean": "호반건설, 국토부 상호협력평가 2년 연속 최고점",
-    "summary": "호반건설이 국토부 상호협력평가에서 2년 연속 최고점을 획득했으며, 건설산업기본법상 벌점 감경 등 공공 발주 사업에서 인센티브를 받게 된다. 협력사와의 동반 성장을 위해 우수 협력업체 선발 및 상생협력 지원금 전달 등의 노력을 지속하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T16:38:23+09:00",
     "importance": 2
   }
 ]
