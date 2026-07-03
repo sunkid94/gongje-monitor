@@ -28675,6 +28675,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "베트남 건설노동조합은 2026년까지 1,200개의 사업을 추진하여 1,000억 VND의 경제적 효과를 창출하는 것을 목표로 하고 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3pRc3R5VnFYZV84c0RvU1M0TV9zcHNpSndvRW05MG45SEZXZWhTb3hITHRiRjBYVkJSU3JJMGJaUEcyRU5jME9oR0g4OHBMcmRLVTYtYUREQy04WTNXcVVZd2Y0b3ZnaVFNS0pSaFVpNEtQUEY2RnFDaS1pczV5d09JS0MwbjFsODg4TUZud2ItbTdlMGRmNmtKbkYzLXpNSERtUlpZS2wtUDhyOWZOTA?oc=5",
+    "description": "베트남 건설노동조합은 연간 1,200건의 혁신 사업을 추진하는 것을 목표로 할 뿐만 아니라, 2026년까지 이러한 사업을 통해 최소 1,000억 VND의 경제적 효과를 창출하여 혁신을 촉진하고 노동 생산성 및 노동자 소득을 향상시키는 것을 목표로 하고 있습니다.",
+    "cluster_id": "2844",
+    "publisher": "Vietnam.vn",
+    "title_clean": "베트남 건설노동조합은 2026년까지 1,200개의 사업을 추진하여 1,000억 VND의 경제적 효과를 창출하는 것을 목표로 하고 있습니다.",
+    "summary": "베트남 건설노동조합이 2026년까지 연간 1,200개의 혁신 사업을 추진하여 최소 1,000억 VND의 경제 효과를 창출할 계획이다. 이를 통해 노동 생산성 향상과 근로자 소득 증대를 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-03T22:17:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32110,21 +32125,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T06:07:38+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[칼럼] \"위기의 한국 건설산업, 혁신이 미래를 결정한다\" - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000701",
-    "description": "지방 건설경기 침체는 지역경제와 고용에도 직접적인 영향을 미친다. 균형 있는 국토 발전을 위한 정책적 지원이 필요한 이유다.건설 현장의 인력 부족도 장기적으로 해결해야 할 문제다. 숙련 기술자는 고령화되고 젊은...",
-    "published_at": "2026-07-03T06:00:00+09:00",
-    "cluster_id": "23ba",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "[칼럼] \"위기의 한국 건설산업, 혁신이 미래를 결정한다\"",
-    "summary": "한국 건설산업이 지방경기 침체, 인력 부족, 고령화 등 구조적 위기에 직면하고 있으며, 국토균형 발전을 위한 정책 지원과 기술 혁신이 필요함을 강조하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-03T06:07:38+09:00",
-    "importance": 4
   }
 ]
