@@ -12824,6 +12824,21 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "정연인 두산에너빌리티 부회장 \"AI 시대 전력난, 복합 에너지 해법으로 풀어야\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUTzNtNndMQnJ0Q1BFUWZXWER3YWlXdnVMV1pEVUpqcm15WkFzQmdWNld2Wkppc0FhMUZ5YzFZYWhscm1QSmVxd0JBTnB5X0pIMVpn?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 정연인 두산에너빌리티 최고운영책임자(COO) 부회장 (자료=두산 SNS)[이데일리 박민웅 기자] 정연인 두산에너빌리티 최고운영책임자(COO) 부회장이 인공지능(AI) 시대 에너지 산업의 핵심 과제로 안정적인 전력 공급과 지속가능성을 동시에 충족해야 한",
+    "cluster_id": "42bc",
+    "publisher": "네이트",
+    "title_clean": "정연인 두산에너빌리티 부회장 \"AI 시대 전력난, 복합 에너지 해법으로 풀어야\"",
+    "summary": "정연인 두산에너빌리티 부회장이 AI 시대 전력난 해결을 위해 복합 에너지 솔루션 필요성을 강조했습니다. 안정적 전력 공급과 지속가능성을 동시에 충족하는 것이 에너지 산업의 핵심 과제임을 제시했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-04T02:17:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -28692,22 +28707,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T14:32:44+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, 싱가포르 쿠옥그룹과 미래사업 협력 확대 - 거제타임즈",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbkJhY1RNWjVGak12c29NV3BYNVd5ckljLUZUMlFPQWZtZ3l3NUJvRU52cjE2R0I5emJsZTNGZ2Z2M2FWWGcyV0FtVWJPaHBOUUZ6X0tCODRJcGJCa2ktMlM2UXk5RjhZZlVEcTVnNHE?oc=5",
-    "description": "[거제타임즈] 삼성중공업이 싱가포르 쿠옥그룹(KSL)과 조선·해양을 비롯한 미래 사업 분야 협력을 확대한다.삼성중공업은 2일 싱가포르 쿠옥그룹과 조선·해양, 해상",
-    "published_at": "2026-07-02T14:03:37+09:00",
-    "cluster_id": "f01a",
-    "publisher": "거제타임즈",
-    "title_clean": "삼성중공업, 싱가포르 쿠옥그룹과 미래사업 협력 확대",
-    "summary": "삼samsung중공업이 싱가포르 쿠옥그룹과 조선·해양 등 미래 사업 분야에서 협력을 확대한다. 국제 전략적 파트너십을 통해 조선해양 산업의 시장 기회를 모색하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T14:32:44+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
