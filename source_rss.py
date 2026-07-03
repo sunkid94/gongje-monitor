@@ -69,7 +69,9 @@ def fetch(seen=frozenset()) -> list:
     for feed_cfg in TRADE_RSS_FEEDS:
         name = feed_cfg["name"]
         try:
-            feed = feedparser.parse(feed_cfg["url"])
+            # UA 필수: 일부 매체 WAF(cenews 등)가 feedparser 기본 UA를 403 차단 → XML 대신
+            # HTML 에러페이지를 줘 entries=0 이 된다. 브라우저 UA 로 파싱해야 피드가 열린다.
+            feed = feedparser.parse(feed_cfg["url"], agent=_HEADERS["User-Agent"])
         except Exception as e:
             logger.error("RSS 피드 실패(%s): %s", name, e)
             continue
