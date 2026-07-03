@@ -28758,6 +28758,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[산업x파일]‘막노동’이란 불리던 건설현장도 AI로 바뀐다 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3NKaXdSUUlobExPbWQ4WDhiYTRva2t2eVJaamJGXzU1ZXFuaWk0enBkRGxSODBYV083RTV0RDFvR2F4ODFXU0R1X3Q1ajk5NlRNWjRxMHFnQkhEbU1KUEdsTm9PMnp1SEZFQ29tTFJld1JERVhBcTFfUVp2WktBUTJYYU1FY1kw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3NKaXdSUUlobExPbWQ4WDhiYTRva2t2eVJaamJGXzU1ZXFuaWk0enBkRGxSODBYV083RTV0RDFvR2F4ODFXU0R1X3Q1ajk5NlRNWjRxMHFnQkhEbU1KUEdsTm9PMnp1SEZFQ29tTFJld1JERVhBcTFfUVp2WktBUTJYYU1FY1kw?oc=5\" target=\"_blank\">[산업x파일]‘막노동’이란 불리던 건설현장도 AI로 바뀐다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "cluster_id": "1c18",
+    "publisher": "조선일보",
+    "title_clean": "[산업x파일]‘막노동’이란 불리던 건설현장도 AI로 바뀐다",
+    "summary": "건설현장에 AI 기술이 도입되면서 기존의 단순 막노동 중심 업무가 자동화·디지털화되고 있다. 이는 건설업의 생산성 향상과 현대화를 의미하지만, 일자리 감소와 저숙련 노동자의 구조적 실업 위험을 초래할 수 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-04T06:27:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32109,22 +32124,6 @@
     "summary": "대우건설이 건축·토목·안전·조경 분야 실무 전문가 6명을 '기술명인'으로 선임하며 현장 노하우의 체계화에 나섰다. 축적된 기술과 경험을 사내 자산으로 전환하여 경쟁력 강화를 추진하는 것으로 보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-03T09:27:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, 힐스테이트 아카데미 1기 교육생 모집 - webeconomy.co.kr",
-    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220832",
-    "description": "건설 시공, 공정, 안전, 품질 관리 등 현장 전문가 양성을 목표로 하며, BIM과 Primavera 등 디지털 전환에 맞춘 스마트건설 기술 교육도 포함됐다. 만 18세 이상 34세 이하 청년이면 누구나 지원할 수 있고, 교육비는...",
-    "published_at": "2026-07-03T09:16:00+09:00",
-    "cluster_id": "d3d6",
-    "publisher": "webeconomy.co.kr",
-    "title_clean": "현대건설, 힐스테이트 아카데미 1기 교육생 모집",
-    "summary": "현대건설이 건설 현장 전문가 양성을 위해 힐스테이트 아카데미 1기 교육생을 모집한다. BIM, Primavera 등 스마트건설 기술 교육을 포함하여 만 18~34세 청년을 대상으로 진행한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T09:17:52+09:00",
     "importance": 2
   }
 ]
