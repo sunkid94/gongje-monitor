@@ -28901,6 +28901,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[이통장 발언대] 건설업·농사·마을일까지…방세환 이장의 묵묵한 지역... - yeongnam.com",
+    "link": "https://www.yeongnam.com/web/view.php?key=20260704029473851",
+    "description": "그는 \"이장 일을 하면서 특별히 큰 문제가 있었던 것은 아니다\"며 \"주민들이 불편해하는 일이 있으면 의견을 듣고 행정과 협의해 해결할 수 있도록 노력하고 있다\"고 말했다.건설경기가 좋지 않아 지역 업체들이 어려움을...",
+    "published_at": "2026-07-04T09:48:00+09:00",
+    "cluster_id": "2634",
+    "publisher": "yeongnam.com",
+    "title_clean": "[이통장 발언대] 건설업·농사·마을일까지…방세환 이장의 묵묵한 지역...",
+    "summary": "지역 이장이 주민 불편사항 해결을 위해 행정과 협의하며 지역사업을 추진하고 있다. 건설경기 악화로 지역 건설업체들이 경영난을 겪고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-04T09:57:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32261,21 +32277,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T09:32:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL건설, 국토부 상호협력평가 4년 연속 '최우수' - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DRjhMV1otejVVcGNjQWNvYXNqNHpyZUhiNktrQlpCeXh4bTMyUHhESjdLbFBUMEJid3htNW1iazFCekVHRTRHQVptOTlFLWQ4UERn?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 협력사 재무\\·기술\\·교육 지원 성과 인정하도급 상생 강화…PQ\\·시평 인센티브 확보 DL건설 CI. DL건설 제공 [파이낸셜뉴스] DL건설이 국토교통부 건설사업자 간 상호협력평가에서 4년 연속 최고 등급인",
-    "cluster_id": "279f",
-    "publisher": "네이트",
-    "title_clean": "DL건설, 국토부 상호협력평가 4년 연속 '최우수'",
-    "summary": "DL건설이 국토교통부 건설사업자 간 상호협력평가에서 4년 연속 최우수 등급을 획득했다. 협력사에 대한 재무·기술·교육 지원과 하도급 상생 강화 노력이 인정받았으며, PQ·시평 인센티브를 확보했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T09:32:52+09:00",
-    "importance": 2,
-    "published_at": "2026-07-03T09:19:00+09:00"
   }
 ]
