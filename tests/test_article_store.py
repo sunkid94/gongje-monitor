@@ -68,7 +68,8 @@ def test_save_articles_drops_non_company_older_than_retention(tmp_path):
     assert links == {"r1", "r2"}        # 60일 이내만 보존, 옛날 건 삭제
 
 
-def test_save_articles_keeps_old_is_company_indefinitely(tmp_path):
+def test_save_articles_prunes_old_is_company_after_retention(tmp_path):
+    # 조합 기사도 30일 보존으로 변경 — 400일 기사는 대시보드에서 제거(전 기간은 archive.json)
     articles_file = str(tmp_path / "articles.json")
     now = datetime.now()
     very_old = (now - timedelta(days=400)).strftime("%Y-%m-%dT%H:%M:%S")
@@ -76,13 +77,12 @@ def test_save_articles_keeps_old_is_company_indefinitely(tmp_path):
         {"keyword": "k", "is_company": True, "link": "co_old", "collected_at": very_old},
         {"keyword": "k", "is_company": False, "link": "old", "collected_at": very_old},
     ]
-    with patch("article_store.ARTICLES_FILE", articles_file), \
-         patch("article_store.RETENTION_DAYS", 60):
+    with patch("article_store.ARTICLES_FILE", articles_file):
         import article_store
         article_store.save_articles(items)
         result = article_store.load_articles()
     links = {a["link"] for a in result}
-    assert links == {"co_old"}          # is_company 옛 기사 유지, 그 외 옛 기사 삭제
+    assert links == set()               # 조합·일반 모두 보존기간 초과 → 제거
 
 
 def test_save_articles_preserves_is_company_when_truncating(tmp_path):
@@ -324,9 +324,28 @@ def test_save_articles_dedupes_existing_keeping_oldest(tmp_path):
         {"publisher": "뉴시스", "cluster_id": "f71f", "is_company": True,
          "link": "different-publisher", "collected_at": "2026-06-01T15:00:00+09:00"},
     ]
-    with patch("article_store.ARTICLES_FILE", articles_file):
+    with patch("article_store.ARTICLES_FILE", articles_file), \
+         patch("article_store.RETENTION_DAYS_COMPANY", 100000):   # 보존기간 무관하게 dedup 만 검증
         import article_store
         article_store.save_articles(items)
         result = article_store.load_articles()
     links = {a["link"] for a in result}
     assert links == {"oldest", "different-publisher"}  # 가장 오래된 + 다른 매체
+
+
+def test_company_article_pruned_after_30_days(tmp_path, monkeypatch):
+    import article_store
+    from datetime import datetime, timedelta
+    monkeypatch.setattr(article_store, "ARTICLES_FILE", str(tmp_path / "articles.json"))
+    now = datetime.now().astimezone()
+    old = article_store.format_collected_at(now - timedelta(days=40))
+    recent = article_store.format_collected_at(now - timedelta(days=5))
+    article_store.save_articles([
+        {"is_company": True, "title": "오래된 조합기사입니다", "link": "c1",
+         "collected_at": old, "publisher": "p", "cluster_id": "1"},
+        {"is_company": True, "title": "최근 조합기사입니다", "link": "c2",
+         "collected_at": recent, "publisher": "p", "cluster_id": "2"},
+    ])
+    links = {a["link"] for a in article_store.load_articles()}
+    assert "c2" in links       # 30일 이내 유지
+    assert "c1" not in links    # 30일 초과 제거

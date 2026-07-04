@@ -7,7 +7,8 @@ from typing import Optional
 ARTICLES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "articles.json")
 MAX_ARTICLES = 2000           # 전체 안전 상한 (평소엔 안 닿음)
 MAX_CORP_ARTICLES = 1000      # 종합건설사 카테고리 캡 (단일 카테고리가 전체를 압도하지 않도록)
-RETENTION_DAYS = 60           # 일반 기사 보존 기간 (조합 기사는 무기한)
+RETENTION_DAYS = 60           # 일반 기사 보존 기간
+RETENTION_DAYS_COMPANY = 30   # 조합 기사도 대시보드엔 30일만 (전 기간은 archive.json)
 CORP_CATEGORY = "종합건설사"
 
 TITLE_SHORT_LEN = 12          # title 길이 임계값 — 미만이면 짧다고 판정
@@ -145,6 +146,7 @@ def save_articles(articles: list) -> None:
     articles = [a for a in articles if not is_empty_stub(a.get("title", ""), a.get("description", ""))]
     articles = _dedup_existing(articles)
     cutoff = datetime.now().astimezone() - timedelta(days=RETENTION_DAYS)
+    company_cutoff = datetime.now().astimezone() - timedelta(days=RETENTION_DAYS_COMPANY)
     company = []
     corp = []
     others = []
@@ -158,6 +160,11 @@ def save_articles(articles: list) -> None:
                 pass
 
         if a.get("is_company"):
+            try:
+                if parse_collected_at(a.get("collected_at", "")) < company_cutoff:
+                    continue
+            except ValueError:
+                pass  # 시각 파싱 실패 시 보존
             company.append(a)
             continue
         try:
