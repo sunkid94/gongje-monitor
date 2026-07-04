@@ -9272,6 +9272,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'1조3천억 대어' 성수4지구 시공사 선정 하루 앞…롯데·대우 4년 만의 ... - youthdaily.co.kr",
+    "link": "https://www.youthdaily.co.kr/news/article.html?no=222294",
+    "description": "이번 수주전은 대우건설과 롯데건설의 2파전으로 압축됐으며 두 건설사는 지난 2022년 용산구 한남2구역 이후 4년여 만에 다시 맞붙게 됐다. 4일 정비업계에 따르면 해당 사업은 지하 6층부터 지상 최고 64층에 이르는...",
+    "published_at": "2026-07-04T16:06:00+09:00",
+    "cluster_id": "e6d8",
+    "publisher": "youthdaily.co.kr",
+    "title_clean": "'1조3천억 대어' 성수4지구 시공사 선정 하루 앞…롯데·대우 4년 만의 ...",
+    "summary": "성수4지구 1조3천억 규모 대형 프로젝트의 시공사 선정이 임박한 가운데, 대우건설과 롯데건설이 4년 만에 다시 수주전을 펼치고 있다. 지하 6층~지상 64층 규모의 대규모 건설 사업으로 건설업계의 주목을 받고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-04T16:12:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -12546,6 +12562,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "홈플러스 파산 초읽기…건설사 PF보증 7163억원 '촉각' [fn마켓워치] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yTi10SDRJNEpaNWppc3hNbVI3TWg1YlhZLUpvWFhKb1hQQjhoQU0tRHNTMzk3QlVOaHdGWFJEcjRoMXFBay1XVzJZWGpMM1k?oc=5",
+    "description": "(출처=연합뉴스) [파이낸셜뉴스] 홈플러스의 기업회생절차 폐지로 파산 가능성이 커지면서 점포 개발사업에 참여한 건설사들의 프로젝트파이낸싱(PF) 우발채무가 현실화될 수 있다는 우려가 커지고 있다. 특히 홈플러스 점포를 기초자산으로 한 PF 사업장의 임대료 수입이 끊길 경우 금융비용 부담이 건설사로 전이될 가능성이 제기된다. 한국신용평가는",
+    "published_at": "2026-07-03T18:47:20+09:00",
+    "cluster_id": "839e",
+    "publisher": "v.daum.net",
+    "title_clean": "홈플러스 파산 초읽기…건설사 PF보증 7163억원 '촉각' [fn마켓워치]",
+    "summary": "홈플러스의 기업회생절차 폐지로 파산 가능성이 높아지면서 점포 개발에 참여한 건설사들의 PF 우발채무가 현실화될 위험이 커지고 있다. 임대료 수입 단절 시 금융비용이 건설사로 전가될 수 있어 업계 위기가 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-04T16:12:41+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
