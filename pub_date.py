@@ -154,24 +154,27 @@ def _extract_published_time(html: str) -> Optional[datetime]:
     return _parse_regdate(html) or _parse_nate_firstdate(html)
 
 
-def resolve_published_time_and_content(google_news_url: str) -> Tuple[Optional[datetime], str]:
-    """Google News RSS URL → (원문 발행 datetime, 발행사 요약 콘텐츠). 한 번의 GET 으로 둘 다.
-    실패 시 (None, "")."""
+def resolve_published_time_and_content(
+    google_news_url: str,
+) -> Tuple[Optional[datetime], str, Optional[str]]:
+    """Google News RSS URL → (원문 발행 datetime, 발행사 요약 콘텐츠, 디코딩된 원문 URL).
+    한 번의 GET 으로 셋 다. 디코딩된 URL 은 호출측이 깨진 링크(예: image_popup) 판별에 쓴다.
+    실패 시 (None, "", None) — 디코딩만 되면 URL 은 실림."""
     try:
         real_url = _decode_google_news_url(google_news_url)
         if not real_url:
-            return None, ""
+            return None, "", None
         r = requests.get(real_url, timeout=_TIMEOUT, headers=_HEADERS, allow_redirects=True)
         if r.status_code != 200:
-            return None, ""
+            return None, "", real_url
         # 한국 언론사엔 EUC-KR 페이지가 많음 — charset 미선언 시 requests 가 ISO-8859-1 로
         # 오판해 한글이 깨진다. 실제 인코딩을 감지해 콘텐츠 mojibake 방지.
         if r.encoding is None or r.encoding.lower() in ("iso-8859-1", "ascii"):
             r.encoding = r.apparent_encoding
-        return _extract_published_time(r.text), _extract_content(r.text)
+        return _extract_published_time(r.text), _extract_content(r.text), real_url
     except requests.RequestException as e:
         logger.warning("resolve_published_time 실패 (url=%s): %s", google_news_url[:80], e)
-        return None, ""
+        return None, "", None
 
 
 def resolve_published_time(google_news_url: str) -> Optional[datetime]:

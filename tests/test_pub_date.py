@@ -137,9 +137,10 @@ def test_resolve_published_time_and_content_returns_both():
     )
     with patch("pub_date._decode_google_news_url", return_value=REAL_URL), \
          patch("pub_date.requests.get", return_value=_mock_response(200, real_html)):
-        dt, content = pub_date.resolve_published_time_and_content(GN_URL)
+        dt, content, url = pub_date.resolve_published_time_and_content(GN_URL)
     assert dt is not None and dt.year == 2026
     assert content == "원문 리드 문장 내용입니다."
+    assert url == REAL_URL
 
 
 def test_resolve_published_time_wrapper_still_returns_datetime():

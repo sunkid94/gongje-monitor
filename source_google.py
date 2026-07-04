@@ -55,7 +55,12 @@ def fetch(seen=frozenset()) -> list:
                         continue
                 except (ValueError, TypeError, OverflowError):
                     pass
-            original_pub, content = resolve_published_time_and_content(item["link"])
+            original_pub, content, real_url = resolve_published_time_and_content(item["link"])
+            # 구글 링크가 원문 대신 이미지 팝업으로 디코딩되면(클릭 시 사진만 뜸) 제외.
+            # 같은 기사는 etnews.com 직접 경로로 정상 링크와 함께 유입되므로 뉴스 손실 없음.
+            if real_url and "/tools/image_popup.html" in real_url:
+                seen_links.add(item["link"])
+                continue
             if original_pub is not None:
                 if original_pub.tzinfo is None:
                     original_pub = original_pub.replace(tzinfo=_KST)

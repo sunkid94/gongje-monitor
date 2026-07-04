@@ -64,7 +64,7 @@ def test_fetch_drops_old_original_pub():
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(old_pub, "")):
+         patch("source_google.resolve_published_time_and_content", return_value=(old_pub, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert result == []
@@ -78,7 +78,7 @@ def test_fetch_keeps_recent_original_pub_and_sets_published_at():
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(recent, "")):
+         patch("source_google.resolve_published_time_and_content", return_value=(recent, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert len(result) == 1
@@ -91,7 +91,7 @@ def test_fetch_keeps_when_pub_unresolvable():
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(None, "")):
+         patch("source_google.resolve_published_time_and_content", return_value=(None, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert len(result) == 1
@@ -105,7 +105,7 @@ def test_fetch_dedups_same_link_across_keywords():
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합", "건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(None, "")):
+         patch("source_google.resolve_published_time_and_content", return_value=(None, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert len(result) == 1
@@ -135,7 +135,7 @@ def test_fetch_replaces_thin_description_with_fetched_content():
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(recent, content)):
+         patch("source_google.resolve_published_time_and_content", return_value=(recent, content, None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert len(result) == 1
@@ -151,11 +151,28 @@ def test_fetch_keeps_original_description_when_no_content():
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(recent, "")):
+         patch("source_google.resolve_published_time_and_content", return_value=(recent, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert len(result) == 1
     assert result[0]["description"] == MOCK_ENTRY.get("summary", "")
+
+
+def test_fetch_drops_image_popup_link():
+    # 구글 링크가 etnews 이미지 팝업으로 디코딩되면 그 기사는 제외
+    # (클릭 시 본문 대신 사진만 뜨는 깨진 링크 — 같은 기사는 etnews.com 직접경로로 정상 유입)
+    import source_google
+    importlib.reload(source_google)
+    from datetime import datetime as _dt
+    recent = _dt(2026, 4, 17, 9, 0, tzinfo=timezone.utc)
+    popup = "https://www.etnews.com/tools/image_popup.html?v=abc123"
+    with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
+         patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
+         patch("source_google.CATEGORY_KEYWORDS", {}), \
+         patch("source_google.resolve_published_time_and_content", return_value=(recent, "", popup)):
+        source_google.datetime = _make_datetime_mock()
+        result = source_google.fetch()
+    assert result == []
 
 
 def test_fetch_naive_original_pub_treated_as_kst():
@@ -167,7 +184,7 @@ def test_fetch_naive_original_pub_treated_as_kst():
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(naive, "")):
+         patch("source_google.resolve_published_time_and_content", return_value=(naive, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert len(result) == 1
