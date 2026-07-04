@@ -148,3 +148,36 @@ def test_resolve_published_time_wrapper_still_returns_datetime():
          patch("pub_date.requests.get", return_value=_mock_response(200, real_html)):
         dt = pub_date.resolve_published_time(GN_URL)
     assert dt is not None and dt.year == 2026
+
+
+def test_extract_daum_og_regdate():
+    from datetime import timedelta
+    html = '<meta property="og:regDate" content="20260624160119">'
+    dt = pub_date._extract_published_time(html)
+    assert dt == datetime(2026, 6, 24, 16, 1, 19, tzinfo=timezone(timedelta(hours=9)))
+
+
+def test_extract_nate_firstdate():
+    from datetime import timedelta
+    html = '<span class="firstDate">기사전송 <em>2026-07-03 13:57</em></span>'
+    dt = pub_date._extract_published_time(html)
+    assert dt == datetime(2026, 7, 3, 13, 57, tzinfo=timezone(timedelta(hours=9)))
+
+
+def test_standard_meta_takes_priority_over_regdate():
+    html = ('<meta property="article:published_time" content="2026-01-01T00:00:00+09:00">'
+            '<meta property="og:regDate" content="20260624160119">')
+    dt = pub_date._extract_published_time(html)
+    assert dt.month == 1 and dt.day == 1   # 표준 메타가 우선
+
+
+def test_regdate_before_nate_when_both_present():
+    from datetime import timedelta
+    html = ('<meta property="og:regDate" content="20260624160119">'
+            '<span class="firstDate">기사전송 <em>2026-07-03 13:57</em></span>')
+    dt = pub_date._extract_published_time(html)
+    assert dt == datetime(2026, 6, 24, 16, 1, 19, tzinfo=timezone(timedelta(hours=9)))
+
+
+def test_returns_none_when_no_date_anywhere():
+    assert pub_date._extract_published_time('<html><body>날짜 없음</body></html>') is None

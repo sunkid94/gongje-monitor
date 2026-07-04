@@ -15,7 +15,7 @@ import html
 import logging
 import re
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from typing import Optional, Tuple
 
 import requests
@@ -70,6 +70,36 @@ _META_PATTERNS = [
     re.compile(r'<time[^>]+datetime=["\']([^"\']+)["\']', re.I),
 ]
 
+_KST = timezone(timedelta(hours=9))
+
+# 포털 전용 발행일 위치 — 표준 메타 밖. 값이 타임존 없는 KST naive 라 +09:00 을 부착한다.
+_REGDATE_RE = re.compile(
+    r'<meta[^>]+property=["\']og:regDate["\'][^>]+content=["\'](\d{14})["\']', re.I)
+_NATE_FIRSTDATE_RE = re.compile(
+    r'firstDate["\'][^>]*>[^<]*<em>\s*(\d{4}-\d{2}-\d{2} \d{2}:\d{2})', re.I)
+
+
+def _parse_regdate(html: str) -> Optional[datetime]:
+    """다음 등: og:regDate=YYYYMMDDHHMMSS (KST naive) → KST-aware datetime."""
+    m = _REGDATE_RE.search(html)
+    if not m:
+        return None
+    try:
+        return datetime.strptime(m.group(1), "%Y%m%d%H%M%S").replace(tzinfo=_KST)
+    except ValueError:
+        return None
+
+
+def _parse_nate_firstdate(html: str) -> Optional[datetime]:
+    """네이트: firstDate <em>YYYY-MM-DD HH:MM</em> (KST naive) → KST-aware datetime."""
+    m = _NATE_FIRSTDATE_RE.search(html)
+    if not m:
+        return None
+    try:
+        return datetime.strptime(m.group(1), "%Y-%m-%d %H:%M").replace(tzinfo=_KST)
+    except ValueError:
+        return None
+
 
 def _decode_google_news_url(url: str) -> Optional[str]:
     m = _ARTICLE_ID_RE.search(url)
@@ -121,7 +151,7 @@ def _extract_published_time(html: str) -> Optional[datetime]:
             return datetime.fromisoformat(value)
         except ValueError:
             continue
-    return None
+    return _parse_regdate(html) or _parse_nate_firstdate(html)
 
 
 def resolve_published_time_and_content(google_news_url: str) -> Tuple[Optional[datetime], str]:
