@@ -12929,6 +12929,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "성수4지구 시공사 5일 결정…롯데·대우, 1.3조 한강변 수주전 결판 - 포쓰저널",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uNFdWc01GcjVzQUNYQUR3OWdrbVJ4Y0RVejdWRmxhQ3cxdVJOOGx4M3Q0RkdZSFZIVE1CV2ExTVQ1bTk1U0xwVFB5d3pqNUdDXzRRMzVnMU1rR05lZHo5U0JIN3g?oc=5",
+    "description": "서울 성동구 성수전략정비구역 제4지구 재개발사업 시공권의 향방이 5일 결정된다.한 차례 입찰 무효와 재입찰 과정의 조건 공방으로 약 5개월간 진통을 겪었던 예정 공사비 1조3628억원 규모 한강변 정비사업이 롯데건설과 대우건설의 2파전 표결로 마무리 수순에 들어가게 된다.4일 정비업계에 따르면 성수4지구 조합은 5일 오후 3시 서울 종로구 예림당 아트홀에서 제3차 합동홍보설명회와 시공사 선정 총회를 연다.조합은 6월 26일과 27일 두 차례 합동홍보설명회를 진행했다. 3차 설명회는 총회 당일인 5일 진행한다.양사 홍보관은 총회 전날",
+    "published_at": "2026-07-04T13:07:07+09:00",
+    "cluster_id": "d45e",
+    "publisher": "포쓰저널",
+    "title_clean": "성수4지구 시공사 5일 결정…롯데·대우, 1.3조 한강변 수주전 결판",
+    "summary": "서울 성동구 성수4지구 재개발사업의 1조3628억원 규모 시공권이 5일 롯데건설과 대우건설 중 최종 선정자 결정을 위한 총회를 개최한다. 약 5개월간의 입찰 무효 및 재입찰 절차를 거쳐 마무리 단계에 접어들었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-04T13:17:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -28853,22 +28869,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산퓨얼셀 주가 2,900원 하락 후 장마감 - 아시아뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EdEszQ2g2VVdfTG1QVXJ0T0t4Q3ZpNDhFbXd2VVpIS1JHNVdpY293bmVtdzJ2WmZFczFGbTFrajM4X2labDZnNS1UN3MxUG80dkZLbGViZWZWUWxf?oc=5",
-    "description": "두산퓨얼셀 홈페이지 캡쳐 [아시아뉴스통신=장하준 기자] 두산퓨얼셀 주가 2일기준으로 4.87%하락 후 장마감 했다.시가는 58,100원이다. 금일 고가는 60,200원이고, 저가는 55,900원이다. 거래량은 600,816이다. 전일대비 2,900원 하락했다.",
-    "published_at": "2026-07-02T15:55:49+09:00",
-    "cluster_id": "57a9",
-    "publisher": "아시아뉴스통신",
-    "title_clean": "두산퓨얼셀 주가 2,900원 하락 후 장마감",
-    "summary": "두산퓨얼셀 주가가 전일대비 2,900원(4.87%) 하락하여 장을 마감했다. 시가 58,100원에서 고가 60,200원, 저가 55,900원의 변동성을 보였으며 거래량은 600,816주였다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-02T16:03:20+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
