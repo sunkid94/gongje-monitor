@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>조합 기사 아카이브</title>
+  <style>
+    body { font-family: -apple-system, "Segoe UI", sans-serif; max-width: 860px; margin: 0 auto;
+           padding: 24px; color: #1a2b45; background: #f7f9fc; }
+    h1 { font-size: 22px; }
+    .back { display: inline-block; margin-bottom: 16px; color: #2b6cb0; text-decoration: none; }
+    .month { margin: 28px 0 8px; font-size: 16px; font-weight: 800; border-bottom: 2px solid #dfe6f0;
+             padding-bottom: 6px; }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li { padding: 7px 0; border-bottom: 1px dashed #e3e9f2; font-size: 14px; }
+    li .date { color: #7a8aa0; margin-right: 8px; font-variant-numeric: tabular-nums; }
+    li a { color: #1a2b45; text-decoration: none; }
+    li a:hover { text-decoration: underline; }
+    .empty { color: #7a8aa0; }
+  </style>
+</head>
+<body>
+  <a class="back" href="index.html">← 대시보드로</a>
+  <h1>📁 조합 기사 아카이브</h1>
+  <div id="list" class="empty">불러오는 중…</div>
+  <script>
+    function fmtDate(iso) {
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return '';
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      return `${m}-${day}`;
+    }
+    function monthKey(iso) {
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return '날짜 미상';
+      return `${d.getFullYear()}년 ${d.getMonth() + 1}월`;
+    }
+    function esc(s) {
+      return String(s || '').replace(/[&<>"']/g, c =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    }
+    fetch('archive.json?cb=' + Date.now())
+      .then(r => r.json())
+      .then(items => {
+        items.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+        const groups = {};
+        for (const it of items) (groups[monthKey(it.date)] ||= []).push(it);
+        const el = document.getElementById('list');
+        el.className = '';
+        el.innerHTML = Object.entries(groups).map(([month, arr]) => `
+          <div class="month">${esc(month)} <span class="date">(${arr.length})</span></div>
+          <ul>${arr.map(it => `
+            <li><span class="date">${fmtDate(it.date)}</span><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></li>
+          `).join('')}</ul>
+        `).join('') || '<p class="empty">아카이브가 비어 있습니다.</p>';
+      })
+      .catch(() => { document.getElementById('list').innerHTML = '<p class="empty">불러오기 실패</p>'; });
+  </script>
+</body>
+</html>
