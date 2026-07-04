@@ -91,16 +91,10 @@ def main():
             else:
                 if dt.tzinfo is None:
                     dt = dt.replace(tzinfo=timezone.utc)
-                if dt < cutoff:
-                    drops.add(i)
-                    seen.add(a.get('link'))
-                    log.info("DROP [%s] %s | %s",
-                             dt.date().isoformat(),
-                             a.get('keyword') or a.get('category'),
-                             (a.get('title_clean') or a.get('title') or '')[:60])
-                else:
-                    a['published_at'] = dt.isoformat()
-                    resolved += 1
+                # 채우기 전용: 7일 초과도 삭제하지 않고 실제 발행일을 기록
+                # (조합 기사 무기한 보존 보호). drops 는 항상 비어 있음.
+                a['published_at'] = dt.isoformat()
+                resolved += 1
             if n % SAVE_EVERY == 0:
                 save(articles, drops, seen)
                 elapsed = time.time() - start
