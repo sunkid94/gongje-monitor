@@ -869,7 +869,13 @@
         const startToday = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
         return t >= startToday - 86400000 && t < startToday;
       }
-      return (Date.now() - t) <= state.period * 86400000;
+      if (state.period === 1) {
+        // 달력상 오늘 (로컬=KST 0시 ~ 지금)
+        const now = new Date();
+        const startToday = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+        return t >= startToday;
+      }
+      return (Date.now() - t) <= state.period * 86400000;   // 7일/30일 = 롤링
     }
 
     function matchesGroup(a) {
@@ -899,10 +905,12 @@
       return hay.toLowerCase().includes(state.q.toLowerCase());
     }
 
+    function effectiveDate(a) { return a.published_at || a.collected_at || ''; }
+
     function filtered() {
-      return allArticles.filter(a =>
-        inPeriod(a.collected_at) && matchesGroup(a) && matchesQuery(a)
-      );
+      return allArticles
+        .filter(a => inPeriod(effectiveDate(a)) && matchesGroup(a) && matchesQuery(a))
+        .sort((x, y) => new Date(effectiveDate(y) || 0) - new Date(effectiveDate(x) || 0));
     }
 
     function updateChipActive() {
@@ -936,7 +944,7 @@
 
     function updateCatCounts() {
       // 기간/검색 필터를 적용한 후 카테고리·키워드별로 집계 (현재 보이는 결과 기준 카운트)
-      const base = allArticles.filter(a => inPeriod(a.collected_at) && matchesQuery(a));
+      const base = allArticles.filter(a => inPeriod(effectiveDate(a)) && matchesQuery(a));
       INDUSTRY_CATS.forEach(cat => {
         const n = base.filter(a => a.category === cat).length;
         document.querySelectorAll(`.chip[data-cat="${cat}"] .count`).forEach(el => {
