@@ -642,7 +642,7 @@
         <input type="text" id="search" class="search-input" placeholder="🔍 제목·요약 검색">
         <span class="filter-label">기간</span>
         <button class="chip active" data-period="1">오늘</button>
-        <button class="chip" data-period="3">3일</button>
+        <button class="chip" data-period="yesterday">어제</button>
         <button class="chip" data-period="7">7일</button>
         <button class="chip" data-period="30">1개월</button>
         <button class="chip" data-period="all">전체</button>
@@ -831,7 +831,7 @@
             <span class="cat-badge ${catClass}">${escapeHtml(cat)}</span>
             ${sentDot(a.sentiment)}
             ${publisher ? `<span>${escapeHtml(publisher)}</span><span class="meta-sep">·</span>` : ''}
-            <span class="time">${escapeHtml(relativeTime(a.published_at || a.collected_at))}</span>
+            <span class="time">${a.published_at ? escapeHtml(relativeTime(a.published_at)) : '수집 ' + escapeHtml(relativeTime(a.collected_at))}</span>
             ${a.published_at ? `<span class="meta-sep">·</span><span class="pubdate">발행 ${escapeHtml(formatPublishedDate(a.published_at))}</span>` : ''}
           </div>
           <div class="article-title">
@@ -863,6 +863,12 @@
       if (!iso) return false;
       const t = new Date(iso).getTime();
       if (isNaN(t)) return false;
+      if (state.period === 'yesterday') {
+        // 달력상 어제 하루(로컬=KST 00:00~23:59)
+        const now = new Date();
+        const startToday = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+        return t >= startToday - 86400000 && t < startToday;
+      }
       return (Date.now() - t) <= state.period * 86400000;
     }
 
@@ -984,7 +990,7 @@
         if (!k) return;
         const val = decodeURIComponent(v || '');
         if (k === 'q') state.q = val;
-        else if (k === 'period') state.period = val === 'all' ? 'all' : parseInt(val, 10);
+        else if (k === 'period') state.period = (val === 'all' || val === 'yesterday') ? val : parseInt(val, 10);
         else if (k === 'group') state.group = val;
         else if (k === 'cat') state.cat = val;
         else if (k === 'keyword') state.keyword = val;
@@ -1051,7 +1057,7 @@
       window._t = setTimeout(() => { state.q = e.target.value; writeHash(); render(); }, 200);
     });
     document.querySelectorAll('.chip[data-period]').forEach(c => c.addEventListener('click', () => {
-      state.period = c.dataset.period === 'all' ? 'all' : parseInt(c.dataset.period, 10);
+      state.period = (c.dataset.period === 'all' || c.dataset.period === 'yesterday') ? c.dataset.period : parseInt(c.dataset.period, 10);
       // 기간 칩 선택 시 날짜 범위 모드 해제
       state.from = ''; state.to = '';
       const df = document.getElementById('date-from'); if (df) df.value = '';
