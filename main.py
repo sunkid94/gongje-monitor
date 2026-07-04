@@ -8,6 +8,7 @@ from mailer import send_email
 from notifier import send_company_push
 from seen_store import load_seen, save_seen
 
+import archive_store
 import heartbeat
 
 logging.basicConfig(
@@ -48,6 +49,7 @@ def main(skip_email: bool = False, fast: bool = False) -> None:
         logger.info("--no-email 모드: 이메일 스킵 (%d건)", len(deduped))
     else:
         send_email(deduped)
+    archive_store.append_articles(deduped)
     add_articles(deduped)
     send_company_push(deduped)
     logger.info("%d건 처리 완료 (email=%s).", len(deduped), not skip_email)
