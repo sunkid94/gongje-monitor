@@ -116,3 +116,35 @@ def test_fetch_trade_only_still_applies_blocked_filters():
          patch.object(crawler, "BLOCKED_DOMAINS", ["job-post.co.kr"]):
         result = crawler.fetch_trade_only(set())
     assert result == []
+
+
+def test_lacks_corp_qualifier_drops_corp_without_qualifier():
+    a = {"category": "종합건설사", "title": "삼성중공업 조선 수출 호조", "description": "방산 실적"}
+    assert crawler.lacks_corp_qualifier(a) is True
+
+
+def test_lacks_corp_qualifier_keeps_corp_with_qualifier():
+    a = {"category": "종합건설사", "title": "대우건설 성수 재건축 수주", "description": ""}
+    assert crawler.lacks_corp_qualifier(a) is False
+
+
+def test_lacks_corp_qualifier_ignores_non_corp_category():
+    # 조합·협회 등 다른 카테고리는 한정어 없어도 필터 대상 아님
+    a = {"category": "조합·협회", "title": "기계설비건설공제조합 신규 공시", "description": ""}
+    assert crawler.lacks_corp_qualifier(a) is False
+
+
+def test_lacks_corp_qualifier_matches_qualifier_in_description():
+    a = {"category": "종합건설사", "title": "롯데건설 소식", "description": "신규 아파트 착공 예정"}
+    assert crawler.lacks_corp_qualifier(a) is False
+
+
+def test_fetch_new_articles_drops_corp_without_qualifier():
+    src = type("S", (), {"fetch": staticmethod(lambda seen=None: [
+        {"category": "종합건설사", "title": "삼성중공업 방산 수출", "description": "", "link": "http://x/1"},
+        {"category": "종합건설사", "title": "대우건설 현장 안전점검", "description": "", "link": "http://x/2"},
+    ]), "__name__": "s"})
+    with patch.object(crawler, "SOURCES", [src]):
+        result = crawler.fetch_new_articles(set())
+    links = {a["link"] for a in result}
+    assert links == {"http://x/2"}   # 한정어(현장) 있는 것만 유지

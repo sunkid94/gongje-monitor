@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 import source_google
 import source_naver
 import source_rss
-from config import BLOCKED_DOMAINS, BLOCKED_CONTENT_KEYWORDS
+from config import BLOCKED_DOMAINS, BLOCKED_CONTENT_KEYWORDS, CORP_CATEGORY, CORP_QUALIFIERS
 
 logger = logging.getLogger(__name__)
 
@@ -24,6 +24,16 @@ def has_blocked_content(article: dict) -> bool:
     """제목·본문에 BLOCKED_CONTENT_KEYWORDS(연예 전용 단어 등)가 있으면 True."""
     hay = (article.get("title", "") or "") + " " + (article.get("description", "") or "")
     return any(k in hay for k in BLOCKED_CONTENT_KEYWORDS)
+
+
+def lacks_corp_qualifier(article: dict) -> bool:
+    """종합건설사 카테고리인데 제목·요약에 활동 한정어가 하나도 없으면 True(제외 대상).
+
+    조합 기사·기타 카테고리는 항상 False(필터 대상 아님)."""
+    if article.get("category") != CORP_CATEGORY:
+        return False
+    hay = (article.get("title", "") or "") + " " + (article.get("description", "") or "")
+    return not any(q in hay for q in CORP_QUALIFIERS)
 
 
 def fetch_new_articles(seen: set, sources=None) -> list:
@@ -50,6 +60,9 @@ def fetch_new_articles(seen: set, sources=None) -> list:
                 continue
             if has_blocked_content(a):
                 logger.info("차단 키워드 제외: %s", (a.get("title", "") or "")[:40])
+                continue
+            if lacks_corp_qualifier(a):
+                logger.info("종건사 한정어 없음 제외: %s", (a.get("title", "") or "")[:40])
                 continue
             out.append(a)
             collected.add(link)
