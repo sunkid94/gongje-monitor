@@ -9161,21 +9161,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, 피치 국제신용등급 ‘A+’ 유지 - 마켓인",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUME5odWdDM1lfZzM1LU1ENHIwOGkzbDFkSGduTDhLeDB4dVl5UDlFWDc2aVlHWTRvdldITkh4UnJLenJwTTdGcWN4cEoyNGlfS2o4bjVuZ2dYcWtIa0Y2Y3VMR05aSkl1d0J2aUJTUkxzR0k?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBUME5odWdDM1lfZzM1LU1ENHIwOGkzbDFkSGduTDhLeDB4dVl5UDlFWDc2aVlHWTRvdldITkh4UnJLenJwTTdGcWN4cEoyNGlfS2o4bjVuZ2dYcWtIa0Y2Y3VMR05aSkl1d0J2aUJTUkxzR0k?oc=5\" target=\"_blank\">전문건설공제조합, 피치 국제신용등급 ‘A+’ 유지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">마켓인</font>",
-    "cluster_id": "721e",
-    "publisher": "마켓인",
-    "title_clean": "전문건설공제조합, 피치 국제신용등급 ‘A+’ 유지",
-    "summary": "전문건설공제조합이 피치(Fitch)로부터 국제신용등급 'A+'를 유지했다. 이는 조합의 안정적인 재무 상태와 신용도를 국제적으로 인정받은 것으로, 건설업계의 금융 신뢰성을 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-05T00:12:29+09:00",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -12736,6 +12721,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "SK에코플랜트 철도 공사 현장서 끼임 사고…노동자 1명 사망, 중대재해법 위반 조사 (1부) - 세종의소리",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aRjYyRi1oRkZYR2tJeU9GMF96MnhvdjRGRExJNzlTY1RKanU4UlpORERoRDJ5MjBIbUNmX2l3LUc4YWZYSER3d2dtVG43N19pMlN6MGlESG5kS2VuOS1YcF93VzFRUTA?oc=5",
+    "description": "SK에코플랜트가 시공을 맡은 평택~오송 철도 건설공사 현장에서 협력업체 소속 외국인 근로자가 컨베이어 벨트에 끼여 숨지는 사고가 발생했다. 노동당국은 사고 현장에",
+    "published_at": "2026-07-04T21:16:14+09:00",
+    "cluster_id": "ffd1",
+    "publisher": "세종의소리",
+    "title_clean": "SK에코플랜트 철도 공사 현장서 끼임 사고…노동자 1명 사망, 중대재해법 위반 조사 (1부)",
+    "summary": "SK에코플랜트가 시공 중인 평택~오송 철도 건설공사 현장에서 협력업체 외국인 근로자가 컨베이어 벨트에 끼여 사망하는 중대 산업재해가 발생했다. 노동당국이 중대재해법 위반 여부를 조사 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-05T01:07:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
