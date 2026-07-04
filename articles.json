@@ -12929,6 +12929,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"삼성중공업 거제시 10조 투자\" 변광용 시장, 행정에 총력 - 한스경제",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1heGVFTFpfMnE4bzRqRDRGM2RmN3dCUzZ6dldRRzZrNEZjOFRQN1BSUW50a0tNZ0hWTEdaU09aS1pENGpRUHIzSlhXTXBNNHQ1d1VXZjBFOFNyRXMzQzZuVlFOa2lzU3RWdlNN?oc=5",
+    "description": "| 거제=한스경제 이화랑 기자 | 삼성중공업이 거제 사업장에 10조 원을 투입하는 투자 계획을 발표했다. 거제시는 인허가와 기반시설 지원에 속도를 내며 투자 이행을 뒷받침하겠다고 밝혔다.삼성중공업이 거제에 10조 원을 투자해 차세대 스마트 조선소를 구축한다. 조선 생산시설을 AI와 로봇 기술 중심으로 바꾸고 고부가가치 선박과 해양 인프라 건조 능력을 끌어올리는 것이 핵심이다. 거제시는 이번 투자 계획을 지역 제조업 경쟁력을 높일 계기로 보고 관련 지원에 나서기로 했다.이번 계획은 지난 3일 경남 진주에서 열린",
+    "published_at": "2026-07-04T10:56:54+09:00",
+    "cluster_id": "adad",
+    "publisher": "한스경제",
+    "title_clean": "\"삼성중공업 거제시 10조 투자\" 변광용 시장, 행정에 총력",
+    "summary": "삼성중공업이 거제 사업장에 10조 원을 투자하여 AI·로봇 기술 기반의 차세대 스마트 조선소를 구축한다. 거제시는 인허가와 기반시설 지원으로 투자 이행을 뒷받침하기로 했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-04T11:12:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -28851,22 +28867,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T15:47:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 전국 80개 현장에 '체감온도 IoT 모니터링' 도입 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qVVlOQkxXbWlibERQZkhjMzJVYVl6bEtZOWxocElwMWNfVWh2YkdXdmhPVjE3NFBNMzZnTkVONWw1TzRQV2QxZ2tUb0tTV1BZeXZV?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이데일리 김은경 기자] 롯데건설은 폭염에 따른 온열질환 예방을 위해 ‘체감온도 사물인터넷(IoT) 모니터링 플랫폼’을 전국 80개 건설현장에 도입했다고 2일 밝혔다.롯데건설 본사 안전관리자들이 안전상황센터에서 전국 현장의 IoT 온·습도계 가동상태와",
-    "cluster_id": "5935",
-    "publisher": "네이트",
-    "title_clean": "롯데건설, 전국 80개 현장에 '체감온도 IoT 모니터링' 도입",
-    "summary": "롯데건설이 전국 80개 건설현장에 체감온도 IoT 모니터링 플랫폼을 도입하여 폭염으로 인한 온열질환을 예방한다. 안전관리자들이 안전상황센터에서 실시간으로 현장의 온·습도 상태를 모니터링할 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-02T15:47:52+09:00",
-    "importance": 2,
-    "published_at": "2026-07-02T09:12:00+09:00"
   },
   {
     "keyword": "건설현장 안전",
