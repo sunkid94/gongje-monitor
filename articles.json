@@ -12929,6 +12929,22 @@
     "cluster_id": "e9d8"
   },
   {
+    "keyword": "SGC E&C",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "에이스는 역시 에이스! 키움, 6월 월간 투타 MVP에 알칸타라·서건창 선... - sportsseoul.com",
+    "link": "https://www.sportsseoul.com/news/read/1620482?ref=naver",
+    "description": "키움은 “3일 서울 고척스카이돔에서 열린 2026 KBO리그 두산전에 앞서 ‘SGC E&C와 함께하는 THE LIV 6월 MVP 시상식’을 진행했다”고 4일 밝혔다. 6월 투수 MVP로 선정된 알칸타라는 3개월 연속 구단 월간 MVP를...",
+    "published_at": "2026-07-04T12:46:00+09:00",
+    "cluster_id": "0acf",
+    "publisher": "sportsseoul.com",
+    "title_clean": "에이스는 역시 에이스! 키움, 6월 월간 투타 MVP에 알칸타라·서건창 선...",
+    "summary": "키움 야구단이 6월 월간 MVP를 시상했으며, 투수 알칸타라가 3개월 연속 구단 월간 MVP로 선정되었다. 스포츠 팀의 성과 표창 행사 관련 뉴스로 건설업계와 무관한 내용이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-04T12:52:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -28849,22 +28865,6 @@
     "publisher": "브릿지경제",
     "title_clean": "[상반기 결산] LNG·FLNG 품은 조선 빅3, 291억 달러 수주⋯ 목표 조기 달성 ‘청신호’",
     "summary": "국내 조선 빅3(HD한국조선해양, 삼성중공업, 한화오션)이 상반기에 291억 달러 수주를 기록하며 연간 목표 조기 달성에 근접했다. LNG 운반선, FLNG 등 고부가가치 선종 중심의 수주 전략이 성과를 내고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-02T15:57:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 전국 80개 현장에 '체감온도 IoT 플랫폼' 가동 - 폴리뉴스 Polinews",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SS3dhQTI4MzAyQUlQTmphaWtPYi1tT3FWZWgtbXhqVm1LWmcwcGJpN19lT3RvVm85OTA1RjB0Uk1IbGlObnljaHl3OER2QlNqaC1XRUFNdVA3dDZFbHVCbGN4VzQ1THRQVno2ZzZ30gFyQVVfeXFMT1NnaFlieG9qbHZNTEkxZjdSc1p1cENIYThxa2hDN21rVm0zRmlVaUFXNFg1dy04emx5Q09IbzF3SkxJcGFsc2N0SWpzOFZQWkN2VjRINWdWNjRYWmZ1NTJwa0Fhc3lwY1ZaVjVnTEtieS1B?oc=5",
-    "description": "최근 건설업계가 기후변화와 강화된 중대재해처벌법에 대응하기 위해 IoT 기반 스마트 안전 시스템 도입을 가속화하는 가운데, 롯데건설이 근로자 온열질환 예방 시스템을 구축했다.롯데건설은 스마트 솔루션 기업 엔비즈소프트와 공동 개발한",
-    "published_at": "2026-07-02T11:02:38+09:00",
-    "cluster_id": "6c02",
-    "publisher": "폴리뉴스 Polinews",
-    "title_clean": "롯데건설, 전국 80개 현장에 '체감온도 IoT 플랫폼' 가동",
-    "summary": "롯데건설이 전국 80개 현장에 체감온도 IoT 플랫폼을 도입하여 근로자 온열질환을 예방하는 스마트 안전 시스템을 구축했다. 이는 건설업계가 기후변화와 중대재해처벌법 강화에 대응하기 위해 IoT 기반 안전 시스템 도입을 가속화하는 추세의 일환이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T15:57:56+09:00",
     "importance": 2
