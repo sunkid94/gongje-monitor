@@ -9145,6 +9145,38 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주간 '분양현장']천안·김해·군산 등 874가구 청약 - sidae.com",
+    "link": "https://www.sidae.com/article/2026070317352532941",
+    "description": "같은 날 두산에너빌리티는 경남 김해시 내동 일원에 조성하는 '트리븐 김해'의 1순위 청약 접수를 받는다. 지하 3층~최고 20층 6개 동, 전용면적 84~217㎡ 총 398가구 규모다. 당첨자 발표는 '펜타힐즈W 1단지' 등 13곳에서...",
+    "published_at": "2026-07-05T08:00:00+09:00",
+    "cluster_id": "204a",
+    "publisher": "sidae.com",
+    "title_clean": "[주간 '분양현장']천안·김해·군산 등 874가구 청약",
+    "summary": "천안, 김해, 군산 등지에서 총 874가구 규모의 주택 분양이 진행 중이며, 두산에너빌리티가 경남 김해에 '트리븐 김해' 398가구 프로젝트의 1순위 청약을 접수받는다. 주요 단지들의 당첨자 발표가 예정되어 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-05T08:02:45+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "성수4지구 장기전을 바라보며 [데스크칼럼] - sisaon.co.kr",
+    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=202422",
+    "description": "지난해 12월 18일 시공사 선정을 위한 입찰공고를 시작으로 올해 2월 9일 입찰을 진행한 성수4지구는 롯데건설과 대우건설이 참여해 경쟁입찰이 성사됐는데 여러 이슈가 발생하면서 5개월만에 시공사 선정총회를 개최하게...",
+    "published_at": "2026-07-05T08:00:00+09:00",
+    "cluster_id": "7010",
+    "publisher": "sisaon.co.kr",
+    "title_clean": "성수4지구 장기전을 바라보며 [데스크칼럼]",
+    "summary": "성수4지구 재개발 사업이 시공사 선정 과정에서 여러 이슈로 5개월간 지연되었으며, 롯데건설과 대우건설의 경쟁입찰을 거쳐 시공사 선정총회를 개최하게 되었다. 건설 사업의 진행 지연과 불확실성이 드러나고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-05T08:02:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -12833,6 +12865,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "원·하청 교섭문 열렸지만…번지는 '하투' 공포[노란봉투법 2R①] - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260704_0003695970",
+    "description": "전국민주노동조합총연맹(민주노총) 건설산업연맹 전국플랜트건설노동조합은 지난달 19일부터 26일까지 원청 교섭을 요구하며 실시한 쟁의행위 찬반투표에서 79.2%의 찬성률로 파업을 가결했다. 이들은 15일 민주노총...",
+    "published_at": "2026-07-05T08:00:00+09:00",
+    "cluster_id": "42dd",
+    "publisher": "newsis.com",
+    "title_clean": "원·하청 교섭문 열렸지만…번지는 '하투' 공포[노란봉투법 2R①]",
+    "summary": "민주노총 건설산업연맹이 원청 교섭을 요구하며 79.2% 찬성률로 파업을 가결했다. 노란봉투법 관련 하청업체의 파업 우려가 확산되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-05T08:02:45+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
