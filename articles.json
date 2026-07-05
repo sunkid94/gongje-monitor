@@ -9149,6 +9149,38 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'경남 청소년 꿈 캠프' 본격 운영…21일까지 - newsgn.com",
+    "link": "https://www.newsgn.com/news/articleView.html?idxno=560464",
+    "description": "및 삼성중공업을 탐방한다. 웹툰 분야는 웹툰 제작 현장인 웹툰캠퍼스 및 경남콘텐츠기업지원센터에서 웹툰 그리기 체험, 미디어 분야는 경남시청자미디어센터와 KBS 창원 등 방송국 탐방과 아나운서, PD, 카메라 감독...",
+    "published_at": "2026-07-05T17:06:00+09:00",
+    "cluster_id": "b6c1",
+    "publisher": "newsgn.com",
+    "title_clean": "'경남 청소년 꿈 캠프' 본격 운영…21일까지",
+    "summary": "경남에서 청소년 대상 꿈 캠프가 운영 중이며, 조선, 웹툰, 미디어 등 다양한 산업 분야의 현장 탐방과 체험 프로그램을 제공하고 있다. 삼성중공업, 웹툰캠퍼스, KBS 창원 등 주요 기업과 방송국 방문을 통해 청소년들이 미래 진로를 탐색할 수 있는 기회를 제공한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-05T17:12:52+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“삼전닉스 산 개미들 배 아프겠네”…상반기 756% 폭등한 종목은? - dt.co.kr",
+    "link": "https://www.dt.co.kr/article/12071221?ref=naver",
+    "description": "코스피 시장 상승률 3위는 체코 원전 수주 대박 기대감을 안고 393.19% 급등한 대우건설이 차지했다. 4위는 SK하이닉스의 고공행진에 덩달아 가치가 부각된 모회사 SK스퀘어(361.14%)에 돌아갔다. 한편 코스닥...",
+    "published_at": "2026-07-05T17:08:00+09:00",
+    "cluster_id": "68f4",
+    "publisher": "dt.co.kr",
+    "title_clean": "“삼전닉스 산 개미들 배 아프겠네”…상반기 756% 폭등한 종목은?",
+    "summary": "상반기 코스피 상승률 3위에 대우건설이 랭크되었으며, 체코 원전 수주 대박 기대감으로 393.19% 급등했다. SK하이닉스의 호실적에 따라 모회사 SK스퀘어도 361.14% 상승하며 건설업계의 긍정적 전망을 반영했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-05T17:12:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -14322,6 +14354,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경남도, 여름철 자연재난 대비 건설현장 안전점검 나서 - newsgn.com",
+    "link": "https://www.newsgn.com/news/articleView.html?idxno=560465",
+    "description": "도는 현장의 안전관리 실태를 종합 점검해 여름철 건설 현장 안전사고를 예방하는 데 중점을 둔다. 특히 급경사지와 수해복구공사, 대형공사 현장 등 재난 발생 시 피해가 클 것으로 예상되는 건설 현장 20개소에 대해서는...",
+    "published_at": "2026-07-05T17:08:00+09:00",
+    "cluster_id": "b2a6",
+    "publisher": "newsgn.com",
+    "title_clean": "경남도, 여름철 자연재난 대비 건설현장 안전점검 나서",
+    "summary": "경남도가 여름철 자연재난에 대비하여 건설현장 안전점검을 실시한다. 급경사지, 수해복구공사, 대형공사 등 20개 현장을 중점 점검하여 안전사고 예방에 주력한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-05T17:12:52+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
