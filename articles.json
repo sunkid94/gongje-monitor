@@ -9117,6 +9117,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 성수4지구 1.3조 수주…‘성수 르엘 S70’ 나온다 - 쿠키뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fU2k3bld4RzNtUVJWeXI5SDJ5V3Jmc1BmNlpSNHllNmFBX09TOTRBNkRmN1hwSUNZcXpfV3ZfVFJSa1NqbWdMdk14aWV6ZXhRemozU0w0akU0a21CTVNsNk45Zw?oc=5",
+    "description": "롯데건설이 서울 성동구 성수4지구 재개발 사업 시공권을 확보했다. 한강변 핵심 정비사업지로 꼽히는 성수4지구는 향후 ‘성수 르엘 S70’로 조성될",
+    "published_at": "2026-07-03T06:00:06+09:00",
+    "cluster_id": "aed9",
+    "publisher": "쿠키뉴스",
+    "title_clean": "롯데건설, 성수4지구 1.3조 수주…‘성수 르엘 S70’ 나온다",
+    "summary": "롯데건설이 서울 성동구 성수4지구 재개발 사업에서 1.3조 규모의 시공권을 확보했다. 한강변 핵심 정비사업지에서 '성수 르엘 S70' 프로젝트를 추진하게 된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-05T20:18:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -16420,6 +16436,21 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통부'제5차 해외건설진흥기본계획'('26~'30) 수립 및 한미 협력 수주지원단 파견 - 경기뉴스원",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtVmJxOHNsUUNZd0dORDZmS1ZobVJKWWtSWUQxRnpZWkRvZndlcXBtQ3RBUGVZOU93eURqU3hDX0ppV0ZteDV6VFQyT2RwV2dsTFZVRGUtYnFGUGJwODlPOTJDbw?oc=5",
+    "description": "[경기뉴스원/경기뉴스1] | 국토교통부는 해외건설 산업의 진흥을 위한 향후 5년 간의 중장기 정책방향과 추진과제를 담은",
+    "cluster_id": "94e8",
+    "publisher": "경기뉴스원",
+    "title_clean": "국토교통부'제5차 해외건설진흥기본계획'('26~'30) 수립 및 한미 협력 수주지원단 파견",
+    "summary": "국토교통부가 2026~2030년을 대상으로 한 제5차 해외건설진흥기본계획을 수립하고 한미 협력 수주지원단을 파견한다. 해외건설 산업의 중장기 성장 전략과 국제 협력 체계를 강화하는 정부 차원의 지원책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-05T20:18:09+09:00",
     "importance": 2
   },
   {
