@@ -9117,6 +9117,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "신동빈 롯데회장, 송도 바이오로직스 현장 경영 - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/peoples/2026/07/06/20260706023009?wlog_tag3=naver",
+    "description": "들어가며, 연내 GMP(의약품 생산을 위한 설비·품질 시스템 구축 완료 단계) 인증을 완료할 계획이다. 이날 신 회장의 방문에는 박제임스, 신유열 롯데바이오로직스 각자대표와 오일근 롯데건설 대표이사 등이 함께했다.",
+    "published_at": "2026-07-06T05:04:00+09:00",
+    "cluster_id": "3594",
+    "publisher": "seoul.co.kr",
+    "title_clean": "신동빈 롯데회장, 송도 바이오로직스 현장 경영",
+    "summary": "신동빈 롯데회장이 송도 바이오로직스 현장을 방문하여 경영 상황을 점검했다. 연내 GMP 인증 완료를 목표로 바이오 의약품 생산 시설 구축을 추진 중이며, 롯데건설도 프로젝트에 참여하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T05:07:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -17472,6 +17488,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "중동 리스크에 사고 변수까지…건설사 2분기 실적 희비 갈린다 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01384166645511896",
+    "description": "국내 건설경기 침체가 이어지는 가운데 주요 건설사들의 올해 2분기 실적은 원가 관리 능력과 해외 수주, 산업재해 발생 여부에 따라 희비가 엇갈릴 전망이다. 중동 리스크에 따른 원자재·물류비 부담이 이어진 가운데...",
+    "published_at": "2026-07-06T05:02:00+09:00",
+    "cluster_id": "0688",
+    "publisher": "edaily.co.kr",
+    "title_clean": "중동 리스크에 사고 변수까지…건설사 2분기 실적 희비 갈린다",
+    "summary": "국내 건설경기 침체 속에서 주요 건설사들의 2분기 실적이 원가 관리 능력, 해외 수주, 산업재해 발생 여부에 따라 엇갈릴 것으로 예상된다. 중동 리스크로 인한 원자재·물류비 부담이 지속되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T05:07:47+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
