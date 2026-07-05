@@ -9117,6 +9117,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 대우 제치고 '1조3천억' 성수4지구 수주 - 세이프타임즈",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sQmhIamtqSlJxcFNiXzFrTzRiaUFoeF9tSTZWR3REd2g4aHBzQnFMU1kyNWdpVmdtYXdMSGlhbGxQZmZvcHcxd0RDblhtUjQ0LTQ4NDBNNWM3Vm9DaWRtZHI2dk5jUFdkQUdOVURmNNIBc0FVX3lxTFBGLWlCWTRLWWFxQ0p0OGIxV0h4TGdEY0VKZGg1bWEybzVNenduaXpRd05MR3p6WEZaTEItNXM0VE1UMFE0QVRpWS1UREIwUEw3MVE0TDNGTEF1NExIdkItMEk1aWhfYVI5RVllSEZwOFBxTWM?oc=5",
+    "description": "롯데건설이 서울 성동구 성수전략정비구역 4지구 재개발사업 시공권을 확보했다.롯데건설은 공사비 1조3628억원 규모의 한강변 핵심 정비사업을 두고 대우건설과 맞붙은 수주전에서 압승을 거두며 올해 도시정비사업 실적도 3조원에 가까워졌다.5일 정비업계에 따르면 성수4지구 재개발정비사업조합은 이날 강남예림당아트홀에서 시공사 선정 총회를 열고 롯데건설을 최종 시공사로 선정했다.이날 조합원 753명 가운데 620명이 투표에 참여했다. 롯데건설은 449표를 얻어 찬성률 72.4%를 기록했다. 경쟁사인 대우건설은 169표에 그쳤다.성수4지구는 서",
+    "published_at": "2026-07-05T23:23:28+09:00",
+    "cluster_id": "0271",
+    "publisher": "세이프타임즈",
+    "title_clean": "롯데건설, 대우 제치고 '1조3천억' 성수4지구 수주",
+    "summary": "롯데건설이 성수4지구 재개발사업 시공권을 1조3628억원 규모로 확보하며 대우건설을 제치고 수주에 성공했다. 이로써 롯데건설의 올해 도시정비사업 실적이 3조원에 가까워졌다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-05T23:47:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -17264,6 +17280,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부 “SMR·AI 도시를 해외건설 새 먹거리로” - 서울경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jejVfOXFKMkhTRHNaVVhXTmhSV3lCUlVITzNONm52bUtzeU04WUFmVDI0U00wUmQwNkVybFpBdHgxTEFZSGJLUUxRZWgwOTZFNkHSAVNBVV95cUxPaVlvUzEyVmp1dlhWQmtTYzh4cUlURmhHY3VuVVNhNTNqQjFpdGU4cHFJdEY0VEFFdF9yOFczdVp2bG1UcEpJSWhtTW5UeTVpd21BWQ?oc=5",
+    "description": "정부가 해외건설 수주 확대를 위해 인공지능(AI) 시티와 소형모듈원전(SMR)과 같은 신사업을 적극 육성하고 해외 투자개발사업에 대한 금융지원을 확대한다. 국토교통부는 해외건설 산업의 체질 전환을 위한 중장기 정책 방향을 담은 ‘제5차 해외건설진흥기본계획(2026∼20",
+    "published_at": "2026-07-05T18:15:33+09:00",
+    "cluster_id": "6666",
+    "publisher": "서울경제신문",
+    "title_clean": "국토부 “SMR·AI 도시를 해외건설 새 먹거리로”",
+    "summary": "국토부가 해외건설 수주 확대를 위해 AI 시티, 소형모듈원전(SMR) 등 신사업을 육성하고 해외 투자개발사업에 대한 금융지원을 확대한다. 제5차 해외건설진흥기본계획(2026~)을 통해 건설산업의 중장기 체질 전환을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-05T23:47:51+09:00",
     "importance": 2
   },
   {
