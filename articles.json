@@ -9117,6 +9117,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한강변 '성수 르엘' 현실로…롯데건설, 1.3조 재개발 수주 - magazine.hankyung.com",
+    "link": "https://magazine.hankyung.com/business/article/202607066619b",
+    "description": "롯데건설이 서울 성동구 ‘성수전략정비구역 제4지구 주택재개발정비사업(성수4지구)’을 수주했다. 롯데건설은 지난 5일 서울 강남구 예림당 아트홀에서 열린 시공사 선정 총회 투표결과 전체 조합원 753명 중...",
+    "published_at": "2026-07-06T03:41:00+09:00",
+    "cluster_id": "2c0a",
+    "publisher": "magazine.hankyung.com",
+    "title_clean": "한강변 '성수 르엘' 현실로…롯데건설, 1.3조 재개발 수주",
+    "summary": "롯데건설이 서울 성동구 성수4지구 주택재개발사업을 수주했다. 1.3조 규모의 대형 프로젝트로 한강변 개발을 통해 건설업계에 수주 실적을 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T03:47:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -17423,6 +17439,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "단순 시공서 벗어난다…정부, 2030년까지 '선진국형 해외건설' 육성 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96ZFMyczNyME5nYXRyMFE2SldPOG9Vb1hudURSd0JpWmR4cTV6b081TWZteFN6YVpOS3lKSG1JVDVKM1RmNFB6RDhsY3NMMjdTalVCU0FLLVF2ZVE?oc=5",
+    "description": "제5차 해외건설진흥기본계획 확정…AI 시티·SMR 등 신모델 발굴 글로벌 인프라 펀드 조성 수주 지원…'첫 타자' 美 리튬 플랜트단 파견 국토교통부가 해외건설 산업의 진흥을 위한 향후 5년 간의 중장기 정책방향과 추진과제를 담은 '제5차 해외건설진흥기본계획'을 수립했다고 5일 밝혔다.해",
+    "published_at": "2026-07-05T11:00:00+09:00",
+    "cluster_id": "72ee",
+    "publisher": "뉴스1",
+    "title_clean": "단순 시공서 벗어난다…정부, 2030년까지 '선진국형 해외건설' 육성",
+    "summary": "정부가 2030년까지 선진국형 해외건설 육성을 목표로 제5차 해외건설진흥기본계획을 확정했다. AI 시티·SMR 등 신모델 발굴과 글로벌 인프라 펀드 조성을 통해 수주를 지원하며, 미국 리튬 플랜트 사업을 첫 추진 대상으로 삼는다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T03:47:48+09:00",
     "importance": 2
   },
   {
