@@ -270,6 +270,48 @@ def test_filter_duplicates_passes_through_articles_without_keys(tmp_path):
     assert len(result) == 3
 
 
+def test_filter_duplicates_blocks_same_title_different_publisher(tmp_path):
+    """같은 기사가 구글판('- 파이낸셜뉴스')과 직접판('- fnnews.com')으로 발행처 표기만
+    달라도, 정규화 제목이 같으면 중복으로 차단한다."""
+    articles_file = str(tmp_path / "articles.json")
+    existing = [{
+        "keyword": "k", "publisher": "fnnews.com", "cluster_id": "a22b",
+        "title": "K-FINCO, 보증수수료 할인·2663억원 특별융자 지원 - fnnews.com",
+        "link": "direct", "collected_at": "2026-06-01T13:44:00+09:00",
+    }]
+    incoming = [{
+        "keyword": "k", "publisher": "파이낸셜뉴스", "cluster_id": "a22b",
+        "title": "K-FINCO, 보증수수료 할인·2663억원 특별융자 지원 - 파이낸셜뉴스",
+        "link": "google",
+    }]
+    with patch("article_store.ARTICLES_FILE", articles_file):
+        import article_store
+        article_store.save_articles(existing)
+        result = article_store.filter_duplicates(incoming)
+    assert result == []  # 정규화 제목 동일 → 발행처 달라도 차단
+
+
+def test_save_articles_dedupes_same_title_different_publisher(tmp_path):
+    """저장본에 같은 기사의 구글판/직접판이 섞여 있으면(발행처만 다름) 정규화 제목 기준으로
+    가장 오래된 하나만 남긴다."""
+    articles_file = str(tmp_path / "articles.json")
+    items = [
+        {"is_company": True, "publisher": "파이낸셜뉴스", "cluster_id": "a22b",
+         "title": "K-FINCO 특별융자 지원 - 파이낸셜뉴스", "link": "google",
+         "collected_at": "2026-06-01T15:19:00+09:00"},
+        {"is_company": True, "publisher": "fnnews.com", "cluster_id": "a22b",
+         "title": "K-FINCO 특별융자 지원 - fnnews.com", "link": "direct",
+         "collected_at": "2026-06-01T13:44:00+09:00"},
+    ]
+    with patch("article_store.ARTICLES_FILE", articles_file), \
+         patch("article_store.RETENTION_DAYS_COMPANY", 100000):
+        import article_store
+        article_store.save_articles(items)
+        result = article_store.load_articles()
+    links = {a["link"] for a in result}
+    assert links == {"direct"}  # 가장 오래된(직접판)만 남음
+
+
 def test_is_empty_stub_blocks_short_descriptions():
     from article_store import is_empty_stub
     # 실제 문제 케이스 — Google News 가 발급한 "장관 - 국토교통부" entry

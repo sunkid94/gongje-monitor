@@ -79,55 +79,95 @@ def load_articles() -> list:
 
 
 def filter_duplicates(new_articles: list) -> list:
-    """기존 저장본 + 신규 배치 내부에서 (publisher, cluster_id) 가 일치하는 중복 제거.
+    """기존 저장본 + 신규 배치에서 중복 제거.
 
-    Google News 가 같은 기사에 매번 다른 리다이렉트 URL 을 발급하기 때문에
-    seen_store(URL 기반) 만으로는 같은 매체의 같은 기사 재수집을 못 막는다.
-    이 함수는 enrich 가 부여한 cluster_id(정규화 제목 해시) 와 publisher 조합으로
-    한 번 더 거른다.
+    두 키 중 하나라도 겹치면 중복으로 본다:
+    - (publisher, cluster_id): 같은 매체가 같은 기사를 다른 리다이렉트 URL 로 재수집하는 케이스
+      (Google News 가 매번 다른 URL 을 발급 → seen_store(URL) 만으론 못 막음).
+    - 정규화 제목(normalize_title): 같은 기사가 구글판('- 파이낸셜뉴스')과 직접판('- fnnews.com')
+      처럼 발행처 표기만 달라 (publisher, cluster_id) 로는 안 걸리는 케이스.
+      (cluster_id 는 4자리 해시라 단독 사용 시 충돌 위험 → 해시 대신 실제 제목 문자열로 비교.)
     """
+    from enrich import normalize_title  # 지연 import (enrich → article_store 순환 회피)
     existing = load_articles()
-    seen_keys = {
+    seen_pc = {
         (a.get("publisher"), a.get("cluster_id"))
         for a in existing
         if a.get("publisher") and a.get("cluster_id")
+    }
+    seen_norm = {
+        normalize_title(a["title"])
+        for a in existing
+        if a.get("title") and normalize_title(a["title"])
     }
     out = []
     for a in new_articles:
         publisher = a.get("publisher")
         cluster_id = a.get("cluster_id")
-        if publisher and cluster_id:
-            key = (publisher, cluster_id)
-            if key in seen_keys:
-                continue
-            seen_keys.add(key)  # 같은 배치 내 후속 중복도 차단
+        pc_key = (publisher, cluster_id) if (publisher and cluster_id) else None
+        norm = normalize_title(a["title"]) if a.get("title") else ""
+        if (pc_key and pc_key in seen_pc) or (norm and norm in seen_norm):
+            continue
+        if pc_key:
+            seen_pc.add(pc_key)  # 같은 배치 내 후속 중복도 차단
+        if norm:
+            seen_norm.add(norm)
         out.append(a)
     return out
 
 
 def _dedup_existing(articles: list) -> list:
-    """저장본 내 (publisher, cluster_id) 중복 제거 — 가장 오래된 entry 만 유지.
+    """저장본 내 중복 제거 — 그룹당 가장 오래된 entry 만 유지.
 
-    save_articles 호출 시 매번 적용되어 누적된 중복을 자동 정리한다.
+    (publisher, cluster_id) 또는 정규화 제목(normalize_title)이 겹치면 같은 기사로 본다
+    (발행처 표기만 다른 구글판/직접판까지 하나로 합침). 두 키가 사슬처럼 이어질 수 있어
+    union-find 로 그룹핑. save_articles 호출 시 매번 적용되어 누적된 중복을 자동 정리한다.
     """
-    oldest_idx_by_key: dict = {}
-    no_key_idx: set = set()
+    from enrich import normalize_title  # 지연 import (enrich → article_store 순환 회피)
+    parent = list(range(len(articles)))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    def union(i, j):
+        ri, rj = find(i), find(j)
+        if ri != rj:
+            parent[max(ri, rj)] = min(ri, rj)
+
+    norm_first: dict = {}
+    pc_first: dict = {}
     for i, a in enumerate(articles):
+        norm = normalize_title(a["title"]) if a.get("title") else ""
+        if norm:
+            if norm in norm_first:
+                union(i, norm_first[norm])
+            else:
+                norm_first[norm] = i
         publisher = a.get("publisher")
         cluster_id = a.get("cluster_id")
-        if not (publisher and cluster_id):
-            no_key_idx.add(i)
-            continue
-        key = (publisher, cluster_id)
-        existing_i = oldest_idx_by_key.get(key)
-        if existing_i is None:
-            oldest_idx_by_key[key] = i
+        if publisher and cluster_id:
+            key = (publisher, cluster_id)
+            if key in pc_first:
+                union(i, pc_first[key])
+            else:
+                pc_first[key] = i
+
+    # 키가 전혀 없는 기사는 각자 고유 그룹(root=self) → 그대로 유지됨.
+    oldest_idx_by_root: dict = {}
+    for i, a in enumerate(articles):
+        root = find(i)
+        best_i = oldest_idx_by_root.get(root)
+        if best_i is None:
+            oldest_idx_by_root[root] = i
             continue
         current_coll = a.get("collected_at", "")
-        existing_coll = articles[existing_i].get("collected_at", "")
+        existing_coll = articles[best_i].get("collected_at", "")
         if current_coll and (not existing_coll or current_coll < existing_coll):
-            oldest_idx_by_key[key] = i
-    kept = no_key_idx | set(oldest_idx_by_key.values())
+            oldest_idx_by_root[root] = i
+    kept = set(oldest_idx_by_root.values())
     return [a for i, a in enumerate(articles) if i in kept]
 
 
