@@ -6003,6 +6003,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“반도체에 원전 건설까지”…건설업계 ‘新 먹거리’ 줄줄이 - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1663939/?sc=Naver",
+    "description": "건설업계에서는 원전 시공 경험이 풍부한 현대건설, 대우건설, 삼성물산 등을 중심으로 사업 참여 가능성이 거론된다. 국내 신규 원전 사업이 본격화될 경우 건설사들이 원전 시공 경험을 축적하고, 향후 해외 원전 시장...",
+    "published_at": "2026-07-07T06:43:00+09:00",
+    "cluster_id": "c331",
+    "publisher": "dailian.co.kr",
+    "title_clean": "“반도체에 원전 건설까지”…건설업계 ‘新 먹거리’ 줄줄이",
+    "summary": "국내 신규 원전 사업 본격화로 현대건설, 대우건설, 삼성물산 등 대형 건설사들이 원전 시공 경험을 축적할 수 있는 새로운 사업 기회가 생길 것으로 예상된다. 국내 원전 사업 참여를 통해 향후 해외 원전 시장 진출의 발판을 마련할 수 있을 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T06:50:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -16497,6 +16513,37 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 건설 현장 안전관리비 산정 매뉴얼 배포… 표준 단가 연동으로 현장 비용 구조 바뀐다 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LZGJoUWVSR1BMYU5EeWNLRDBZMDVqV05BbUY2UlhyN3VEZEpVcU1XOERORVl6enJZUHAtVzdvYzIzdWRhM3hXLW0wd1g?oc=5",
+    "description": "국토부 매뉴얼의 핵심 변화와 적용 시점 국토교통부가 2026년 6월 30일",
+    "published_at": "2026-07-07T06:40:20+09:00",
+    "cluster_id": "fbcf",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "국토부, 건설 현장 안전관리비 산정 매뉴얼 배포… 표준 단가 연동으로 현장 비용 구조 바뀐다",
+    "summary": "국토부가 건설 현장 안전관리비 산정 매뉴얼을 배포하며 표준 단가를 연동할 예정이다. 2026년 6월 30일 적용 시점으로, 현장 비용 구조에 변화가 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T06:50:02+09:00",
+    "importance": 3
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부 건설 안전 관리비 매뉴얼 배포, 인력 단가·비용 구조 어떻게 바뀌나 - 얼리어답터뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXY0c4ZkdOLWxsV1BYdkJrUlJYeHBNdS0wMWdrY21Pejc0UnR3eVlnZ1B3eGxfMVFVejNJbzJ4bEI5bEF5eTY0ZQ?oc=5",
+    "description": "국토교통부 매뉴얼의 핵심과 적용 시점 2026년 6월 30일, 국토교통부가",
+    "cluster_id": "63bb",
+    "publisher": "얼리어답터뉴스",
+    "title_clean": "국토부 건설 안전 관리비 매뉴얼 배포, 인력 단가·비용 구조 어떻게 바뀌나",
+    "summary": "국토교통부가 2026년 6월 30일을 기준으로 건설 안전 관리비 매뉴얼을 배포하며 인력 단가와 비용 구조 변화를 예고했다. 구체적인 내용은 제시되지 않았으나 건설업계의 원가 구조에 영향을 미칠 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T06:50:02+09:00",
+    "importance": 3
   },
   {
     "keyword": "건설경기",
