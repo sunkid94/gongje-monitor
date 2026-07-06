@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "K-FINCO, 보증수수료 할인·2663억원 특별융자 지원 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QZVhaUW9GbzM5TTJWSEg5bExwTlMtUEVTdWZlV3ppWnVHVUVINTNkbC1uVUh0TFVwdkhmNkJIRFVoVHpvakI5bWQ2ZU10dC10SmJ1OE8zckNaZ0hsaE1Hbg?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 중동 리스크 대응 지원 성과 K-FINCO 전문건설공제조합 사옥 전경. K-FINCO 제공 [파이낸셜뉴스] K-FINCO, 중동 리스크 대응 지원 본격화 보증수수료 할인\\·2663억원 특별융자…조합원 부담 완화 K-FINCO 전문건설공제조합이 중동 리",
+    "published_at": "2026-07-06T13:42:00+09:00",
+    "cluster_id": "a22b",
+    "publisher": "네이트",
+    "title_clean": "K-FINCO, 보증수수료 할인·2663억원 특별융자 지원",
+    "summary": "전문건설공제조합(K-FINCO)이 중동 리스크 대응을 위해 보증수수료 할인과 2663억원 규모의 특별융자를 지원하며 조합원의 경영 부담을 완화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T13:49:18+09:00",
+    "event_label": "전문건설공제조합 중동 리스크 대응 지원(보증수수료 할인·2663억원 특별융자)",
+    "importance": 5
+  },
+  {
     "keyword": "전문건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -9234,6 +9251,21 @@
     "sentiment": "neutral",
     "collected_at": "2026-06-07T09:42:23+09:00",
     "importance": 5
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 상선·해양 두 축 '순항'에 FDC까지 사업역량 확대…\"중장기 재평가 요소\" - 프라임경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yNmY2TGcteFdlV0FIRWZFYXJ6S2pNMEhJUXM5dnlYb1JqMVZMN1NKTzBXQ3ZHTERTdzNTYWhHeHZmcmwwMUlYUzB4Z0hmeUVsREFNZ0JkVS05N1J6NkxLS3hBMS0wN2FTdm9acA?oc=5",
+    "description": "\"2022년 수주분의 건조 비중 감소 및 고가 선박 전환으로 갈수록 마진율 상승\"[프라임경제] 하나증권은 6일 삼성중공업(010140)에 대해 상선과 해양을 두 축으로 순항하는 가운데 FDC(Floating Data Center)까지 사업 역량을 확대하고 있어 주목해야 할 시점이라며 투자의견",
+    "cluster_id": "dba4",
+    "publisher": "프라임경제",
+    "title_clean": "삼성중공업, 상선·해양 두 축 '순항'에 FDC까지 사업역량 확대…\"중장기 재평가 요소\"",
+    "summary": "삼성중공업이 상선과 해양사업을 중심으로 안정적 성장을 이어가는 가운데 FDC 사업으로 사업 범위를 확대하고 있다. 2022년 수주분의 건조 비중 감소와 고가 선박 전환으로 마진율이 상승할 것으로 예상되며, 이는 중장기 재평가 요소로 작용할 것으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T13:49:18+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
