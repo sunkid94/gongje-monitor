@@ -2,11 +2,11 @@
   {
     "name": "이재은 매니저",
     "subscription": {
-      "endpoint": "https://fcm.googleapis.com/fcm/send/dXrlm5voZJk:APA91bEqWxDOUlBMsbc1_fxvLxg9mm2WgSz7q3UKnkRXC6-Ez-GY0egIQ7EpzrnBqcnZgRpDkE_iimuDNy3a5ZMrmaQ04jILtExcD2ZWDBFqSu8KlgTFOTeW_k1G2RWyamER_NbnHKtb",
+      "endpoint": "https://fcm.googleapis.com/fcm/send/fddL7cGw5gk:APA91bHFQkwNk1ACXpPLuWO2fqiY8gihguVAji1XGqewTkV_Y_L5cmOex5wJeDEBogSODpH2DoNfbvH2LZUsM-lmNhBbGyw6iYsMfh4QXVozlJ-DHCNI-V_CfEFqT1BJo4qC8bdC9rAG",
       "expirationTime": null,
       "keys": {
-        "p256dh": "BK3P19HiU_lJRusKQDM5VaGY-mal5ZwZJn5j8w89nMBMBociDVWUsfdZRdwRYXMBABI9KZrUdHFun2qWouwnnQE",
-        "auth": "NQzWGEA8KOIiudtnjWTM3g"
+        "p256dh": "BPBYm4E6e9JFLB7FYIySwrRjEsZvXExJMXGdHeh-IYY02op2dcBeYioiZKLamtHFrcn0zPJARNypDAjvu9-E4Sk",
+        "auth": "9uHwPozFZVxbF5n-bn826A"
       }
     }
   },
