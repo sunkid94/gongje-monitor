@@ -9219,6 +9219,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "K조선 상반기 수주 60% 늘었지만…中 물량 공세로 113%↑ - 이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEZXdXRhQ0J4QnBwQVRxcndvVU5GanQ1MVJMVGlVeVhmc3VpdXI5OVRoYkliVVNsaUl1dmFXRWZNbGRkVkYxN2V1aDhWM2hMMGNaOVhfODdyeEtkUVBkMUJ6LThMa0VlNXVDUUJSX1lQc2NvUFF5dV82ODhkVjV2aA?oc=5",
+    "description": "삼성중공업이 건조한 S-MAX 원유운반선.(사진=삼성중공업 제공) 올 상반기 전 세계 선박 발주가 급증하면서 한국과 중국 조선사들의 일감이 크게 늘어난 것으로 나타났다. 전체 수주 물량 증가폭은 중국이 한국에 비해 압도적으로 높았지만, 국내 조선사들은 고부가 선종 중심...",
+    "published_at": "2026-07-06T10:15:56+09:00",
+    "cluster_id": "e42c",
+    "publisher": "이데일리",
+    "title_clean": "K조선 상반기 수주 60% 늘었지만…中 물량 공세로 113%↑",
+    "summary": "상반기 전 세계 선박 발주가 급증하면서 한국 조선사의 수주가 60% 증가했으나, 중국의 수주 증가폭(113%)이 더 가파른 상황이다. 한국 조선사는 고부가 선종 중심으로 경쟁력을 유지하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T13:24:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20684,6 +20700,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "HJ중공업, '벡스코 제3전시장' 품으며 부산 랜드마크 건설 주도 - straightnews.co.kr",
+    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306354",
+    "description": "[HJ중공업] 국내 건설경기 침체가 장기화되면서 민간 건축시장이 위축된 가운데 공공 대형 프로젝트를 둘러싼 건설사들의 경쟁은 어느 때보다 치열해지고 있다. 이같은 상황에서 HJ중공업 건설부문이 부산 최대 규모의...",
+    "published_at": "2026-07-06T13:20:00+09:00",
+    "cluster_id": "aa0d",
+    "publisher": "straightnews.co.kr",
+    "title_clean": "HJ중공업, '벡스코 제3전시장' 품으며 부산 랜드마크 건설 주도",
+    "summary": "건설경기 침체 속에서 HJ중공업이 부산 벡스코 제3전시장 건설 프로젝트를 수주하며 공공 대형 프로젝트에서 경쟁력을 입증했다. 민간시장 위축 가운데 공공 건설사업이 업계의 주요 수익원이 되고 있는 상황을 반영하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T13:24:11+09:00",
     "importance": 2
   },
   {
