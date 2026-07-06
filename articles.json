@@ -23393,6 +23393,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "GH 김용진, 4천명 폭염안전 챙긴다 - OBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wbVNqMHVnaURQb3Q0cXJ5akNpX0ZTem9ob0tQR3N0NW5EUmE0QmtPVXozYnJuTE5Qb1FTLUJzb0ZNT3IzaHNnUTRBU3JkR2hfcFVqSlFQUG1QV1lQZ1JHSlQxbWw0M28w?oc=5",
+    "description": "[OBC뉴스=수원] 기록적인 폭염과 국지성 집중호우가 건설현장의 안전을 위협하는 가운데 경기주택도시공사(GH)가 현장 근로자 약 4천 명을 대상으로 여름철 안전 지원에 나섰습니다.김용진 GH 사장은 6일 화성동탄2 택지개발사업지구 내 공동주택 건설현장을 찾아 폭염·장마철 안전관리 실태",
+    "published_at": "2026-07-06T21:03:15+09:00",
+    "cluster_id": "65a7",
+    "publisher": "OBC 뉴스",
+    "title_clean": "GH 김용진, 4천명 폭염안전 챙긴다",
+    "summary": "경기주택도시공사(GH)가 기록적 폭염과 집중호우로 인한 건설현장 안전 위협에 대응하여 약 4천 명의 근로자를 대상으로 여름철 안전 지원을 추진 중입니다. GH 사장이 현장 방문을 통해 폭염·장마철 안전관리 실태를 점검하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-06T22:00:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32269,22 +32285,6 @@
     "summary": "DL건설이 국토교통부의 '2026년도 건설사업자 상호협력평가'에서 4년 연속 최우수 등급을 획득했다. 하도급대금 적정성 지급과 현금성 조기지급 등을 통해 협력업체와의 동반성장을 강화한 결과로, 동반성장위원회 평가에서도 5년 연속 우수 등급을 받았다.",
     "sentiment": "positive",
     "collected_at": "2026-07-03T10:12:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "아이에스동서, 건설 넘어 환경이 두 번째 축 됐다…폐배터리 6만2000톤 글... - upkoreanews.kr",
-    "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=99112",
-    "description": "향후 이러한 글로벌 생산거점 확대와 환경사업의 수익성 개선이 계획대로 이어질 경우 아이에스동서는 건설경기 변동성에 대한 의존도를 낮추는 동시에 순환경제 산업의 성장 수혜를 함께 누릴 수 있는 복합...",
-    "published_at": "2026-07-03T10:03:00+09:00",
-    "cluster_id": "ab41",
-    "publisher": "upkoreanews.kr",
-    "title_clean": "아이에스동서, 건설 넘어 환경이 두 번째 축 됐다…폐배터리 6만2000톤 글...",
-    "summary": "아이에스동서가 건설사업을 넘어 폐배터리 재활용 등 환경사업을 제2의 성장축으로 육성하고 있다. 글로벌 생산거점 확대와 환경사업 수익성 개선을 통해 건설경기 변동성 의존도를 낮추고 순환경제 산업 성장 수혜를 노리고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T10:08:16+09:00",
     "importance": 2
   }
 ]
