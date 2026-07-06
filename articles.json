@@ -9524,6 +9524,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "경남·부산 건설사, 가덕신공항 ‘보이콧’ 불사 - knnews.co.kr",
+    "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1545740",
+    "description": "컨소시엄 대표사인 대우건설 측에도 별도 탄원서를 보냈다. 업체들은 현재 책정된 공사비로는 업체당 최소 수십억 원 손실을 떠안아야 한다고 주장했다. 이어 대우건설을 주관사로 하는 시공 컨소시엄에서 탈퇴하는 것도...",
+    "published_at": "2026-07-06T21:12:00+09:00",
+    "cluster_id": "68a8",
+    "publisher": "knnews.co.kr",
+    "title_clean": "경남·부산 건설사, 가덕신공항 ‘보이콧’ 불사",
+    "summary": "가덕신공항 공사를 수주한 건설사 컨소시엄이 현재 책정된 공사비가 부족하다며 대우건설에 탄원서를 제출했고, 컨소시엘 탈퇴까지 검토 중이다. 업체들은 최소 수십억 원의 손실을 우려하며 저항하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T21:20:11+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T09:57:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[서민 떼어낸 서민금융]④ 사라진 금고, 남겨진 주민들…지역금융은 계... - upkoreanews.kr",
-    "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=99105",
-    "description": "새마을금고는 지역 주민의 예금이 다시 해당 지역의 가계와 자영업자, 중소기업으로 순환되는 구조를 갖고 있는 만큼, 지역 산업과 부동산 시장, 건설경기, 자영업 경기 변화가 손익에도 직접적인 영향을 미칠 수밖에...",
-    "published_at": "2026-07-03T09:51:00+09:00",
-    "cluster_id": "6a37",
-    "publisher": "upkoreanews.kr",
-    "title_clean": "[서민 떼어낸 서민금융]④ 사라진 금고, 남겨진 주민들…지역금융은 계...",
-    "summary": "새마을금고 부실 운영으로 지역 금융 시스템이 약화되고 있는 상황을 보도. 지역 예금이 순환하지 못하면서 중소기업과 자영업자 금융 지원에 악영향을 미치고 있음.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-03T09:57:50+09:00",
-    "importance": 4
   }
 ]
