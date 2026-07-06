@@ -9524,6 +9524,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[7월7일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441684",
+    "description": "[오늘Who] 롯데건설 3년 반의 '인고' 성수서 수주로 결실, 오일근 르엘 날개 달고 '적극 수주' 토대 쌓았다 ● HS효성첨단소재 공격적 설비투자에 부채 급증, 조현상 1.5조 실리콘음극재 신사업 자금조달 고심 ● BYD 또...",
+    "published_at": "2026-07-06T21:00:00+09:00",
+    "cluster_id": "d153",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[7월7일자] 비즈니스포스트 아침의 주요기사",
+    "summary": "롯데건설이 3년 반 만에 성수지구 수주로 성과를 거두며 수주 확대 기반을 마련했다. 한편 HS효성첨단소재는 신사업 확장을 위한 공격적 설비투자로 부채가 급증하면서 자금조달에 어려움을 겪고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-06T21:05:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-03T09:57:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "DL건설, 국토부 상호협력평가 4년 연속 최우수 등급 획득 - econonews.co.kr",
-    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440623",
-    "description": "원자재 가격 변동과 건설경기 불확실성이 지속되는 상황에서 협력사의 자금 부담을 줄이고 기술 경쟁력을 높이는 기업일수록 안정적인 사업 수행 능력을 확보할 수 있다는 분석이 나온다.",
-    "published_at": "2026-07-03T09:50:00+09:00",
-    "cluster_id": "7efa",
-    "publisher": "econonews.co.kr",
-    "title_clean": "DL건설, 국토부 상호협력평가 4년 연속 최우수 등급 획득",
-    "summary": "DL건설이 국토부 상호협력평가에서 4년 연속 최우수 등급을 획득했다. 협력사 자금 부담 경감과 기술 경쟁력 강화가 건설경기 불확실성 속에서 안정적 사업 수행의 핵심 요소로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T09:52:44+09:00",
-    "importance": 3
   }
 ]
