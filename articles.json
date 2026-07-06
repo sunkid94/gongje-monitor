@@ -6003,6 +6003,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[증시키워드] 삼성전자ㆍLG전자 오늘 2분기 실적 발표⋯한화오션 수주 ... - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2600841",
+    "description": "네이버는 전 거래일 대비 0.41% 오른 19f00원에 거래를 마쳤다. 이외에도 두산에너빌리티(-0.81%), 에코프로(-2.06%), 금호건설(30%) 등이 네이버페이증권 검색 상위에 올랐다.",
+    "published_at": "2026-07-07T07:30:00+09:00",
+    "cluster_id": "5de8",
+    "publisher": "etoday.co.kr",
+    "title_clean": "[증시키워드] 삼성전자ㆍLG전자 오늘 2분기 실적 발표⋯한화오션 수주 ...",
+    "summary": "삼성전자, LG전자 등 대형 기업들의 2분기 실적 발표가 예정되어 있으며, 한화오션의 수주 소식이 주목된다. 시장에서는 네이버, 두산에너빌리티, 에코프로, 금호건설 등 다양한 종목이 관심을 받고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T07:34:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -16577,6 +16593,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충남도, 소규모 어항공사 안전관리계획 기준 마련 - 글로벌뉴스통신GNA",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DaG5qeGRrX3c2bEdUQk0zV2U5aFNoM1lwcEJjeE9SbDZsOE1idmpQd0xjdjJybnExQ2EtSmw5M3JHRlZDNzliTTMzYmFhejQzRy0yajVsekl6UGxSR09hbWJ3UDBIY1NFclhkS0xad0N3a1VR?oc=5",
+    "description": "[충남=글로벌뉴스통신] 충남도는 7월 7일(화) 건설기술 진흥법상 안전관리계획 수립 의무에서 제외된 소규모 어항공사에 대해 자체 지정 기준을 마련해 추진한다고 밝",
+    "published_at": "2026-07-07T07:24:26+09:00",
+    "cluster_id": "f5f4",
+    "publisher": "글로벌뉴스통신GNA",
+    "title_clean": "충남도, 소규모 어항공사 안전관리계획 기준 마련",
+    "summary": "충남도가 소규모 어항공사에 대한 안전관리계획 수립 기준을 자체 지정해 추진한다고 발표했다. 기존 건설기술 진흥법 의무에서 제외된 소규모 공사에 대한 안전관리 체계를 마련하려는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-07T07:34:47+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 PF",
