@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문건설공제조합, 중동 리스크 대응해 조합원에 금융·법률 종합 지원 - kscnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zUmNiQTdFUFVDWVY1Q1N4VWpHQTlDSkh2MDFvM2RCLV85bE9MQVJNUlNLdVZiMk1pMXlzMGdkQ3JCTUsxXzMtTXR6N2MyZklFNDZzZy1IQWZyM29TVkFyREtmdTFKM3B0ZUZv?oc=5",
+    "description": "K-FINCO 전문건설공제조합(이하 K-FINCO)이 중동 리스크 장기화로 어려움을 겪는 건설 조합원사를 위해 종합 대책을 추진하며 성과를 내고 있다. K-FINCO는 지난 5월",
+    "published_at": "2026-07-06T11:55:26+09:00",
+    "cluster_id": "2440",
+    "publisher": "kscnews.co.kr",
+    "title_clean": "전문건설공제조합, 중동 리스크 대응해 조합원에 금융·법률 종합 지원",
+    "summary": "전문건설공제조합(K-FINCO)이 중동 리스크 장기화로 어려움을 겪는 조합원사를 위해 금융·법률 종합 지원 대책을 추진하고 있다. 지난 5월부터 시행 중인 이 대책은 조합원들의 중동 진출 시 발생할 수 있는 리스크를 완화하는 데 성과를 내고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T18:10:19+09:00",
+    "event_label": "전문건설공제조합 중동 리스크 대응 금융·법률 종합 지원 추진",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -9489,6 +9506,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-06-07T09:42:23+09:00",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부울경 건설사, 가덕도신공항 공사비 현실화 요구…대우건설, 정부와 해... - fntimes.com",
+    "link": "https://www.fntimes.com/html/view.php?ud=202607061749073709048b718333_18",
+    "description": "대우건설 컨소시엄에 참여 중인 부산·경남 지역 건설사들이 중동전쟁 이후 급등한 원자재 가격 등을 반영해 공사비를 현실화해 달라며 정부에 탄원서를 제출한 것이다. 업계에서는 적정 공사비가 반영되지 않을 경우...",
+    "published_at": "2026-07-06T18:02:00+09:00",
+    "cluster_id": "4549",
+    "publisher": "fntimes.com",
+    "title_clean": "부울경 건설사, 가덕도신공항 공사비 현실화 요구…대우건설, 정부와 해...",
+    "summary": "부산·경남 지역 건설사들이 대우건설 컨소시엄과 함께 가덕도신공항 공사에서 중동전쟁으로 인한 원자재 가격 급등을 반영한 공사비 현실화를 정부에 요청했다. 적정 공사비가 반영되지 않을 경우 사업 차질 우려로 건설업계의 수익성 악화 가능성을 나타내고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T18:10:19+09:00",
+    "importance": 4
   },
   {
     "keyword": "대우건설",
@@ -22850,6 +22883,38 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "5대銀 집단대출, 올 들어 4조 이상 줄었다 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026070686911",
+    "description": "건설경기 침체 등으로 주택 분양이 감소하는 가운데 정부의 고강도 규제로 대출 한도까지 축소된 영향이 컸다는 분석이다. 최근 정부가 수도권 부동산 규제지역을 추가하면서 금융권 집단대출 규모가 더 줄어들...",
+    "published_at": "2026-07-06T18:03:00+09:00",
+    "cluster_id": "a84e",
+    "publisher": "hankyung.com",
+    "title_clean": "5대銀 집단대출, 올 들어 4조 이상 줄었다",
+    "summary": "건설경기 침체와 정부의 고강도 규제로 인해 5대 은행의 집단대출이 올해 4조 원 이상 감소했다. 주택 분양 감소와 대출 한도 축소로 건설 금융 여건이 악화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T18:10:19+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김용진 GH사장 \"마지막 한 명까지 책임진다\"…폭우와 폭염 뚫고 동탄2 건설현장 직행 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aZFRmRF9LS1JLalpkR1JXY0R3TjhmNlNleDlxQTBFTkJOU2xkT1hEZE5BT3JhMXIzUFJCV3BFZGs0Mnd5aEgxZzJQZEY3U3NJOFQ4?oc=5",
+    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : [이투데이/경기인천취재본부 김재학 기자]김용진 경기주택도시공사(GH) 사장이 6일 화성동탄2 택지개발사업지구 내 공동주택 건설현장을 방문해 근로자 휴게실 운영 상태 등 폭염·장마철 안전관리 실태를 점검하고 있다. GH는 전체 건설현장 근로자 4000명",
+    "published_at": "2026-07-06T17:56:00+09:00",
+    "cluster_id": "e227",
+    "publisher": "네이트",
+    "title_clean": "김용진 GH사장 \"마지막 한 명까지 책임진다\"…폭우와 폭염 뚫고 동탄2 건설현장 직행",
+    "summary": "GH 사장이 화성동탄2 건설현장을 방문하여 폭염·장마철 안전관리 실태를 점검하고 근로자 4000명을 대상으로 안전관리에 만전을 기하고 있다. 공사 관계자의 현장 방문으로 건설 근로자 안전 관리 및 근로 환경 개선에 대한 관심을 보여주는 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-06T18:10:19+09:00",
     "importance": 2
   },
   {
