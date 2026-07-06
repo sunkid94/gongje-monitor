@@ -9508,6 +9508,38 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"바이오가 미래\"…신동빈 롯데 회장, 바이오 송도 공장 현장경영 - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=310244",
+    "description": "이 자리에는 박제임스 롯데바이오로직스 각자대표와 신유열 롯데바이오로직스 각자대표 겸 롯데지주 미래성장실장, 오일근 롯데건설 대표이사 등이 함께했다. 신 회장은 생산시설 주요 공정 시설을 직접 둘러보고...",
+    "published_at": "2026-07-06T19:40:00+09:00",
+    "cluster_id": "1a20",
+    "publisher": "thepublic.kr",
+    "title_clean": "\"바이오가 미래\"…신동빈 롯데 회장, 바이오 송도 공장 현장경영",
+    "summary": "신동빈 롯데 회장이 송도 바이오 공장을 현장경영하며 바이오 산업을 미래 성장 사업으로 강조했다. 롯데바이오로직스의 생산시설 확충으로 건설 수주 기회 및 관련 산업 협력 수요가 증가할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T19:45:19+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 1조3492억 성수4지구 재개발 수주… 한강변 하이엔드 경쟁력 강화 - S저널",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHbWpWTVA5SHR5NGl0N0VrckJaWFpLWUM1SG5jM0dsUzlRTmR2ZVNSTHpFSWJDcGh5bkxHTHN0ME1HeDJwdWdnQ21PS0EwN2ZQbmpaS0ozRF9QTW5Gb0dvTVU2emtYTUxDQjhkbThR?oc=5",
+    "description": "롯데건설이 서울 성동구 성수전략정비구역 제4지구 재개발사업을 따내며 한강변 핵심 정비사업 수주 경쟁에서 성과를 냈다. 성수동 일대 초고층 재개발 기대감이 커지는",
+    "published_at": "2026-07-06T17:05:35+09:00",
+    "cluster_id": "0e42",
+    "publisher": "S저널",
+    "title_clean": "롯데건설, 1조3492억 성수4지구 재개발 수주… 한강변 하이엔드 경쟁력 강화",
+    "summary": "롯데건설이 서울 성동구 성수 4지구 재개발사업 1조3492억 규모를 수주하며 한강변 재개발 시장 수주 경쟁에서 성과를 거뒀다. 이는 건설업계의 대형 프로젝트 수주 증가로 긍정적인 신호를 보여주고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T19:45:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23186,6 +23218,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사 폐업·부도 감소했지만…착공 지연에 체감경기 회복은 '아직' - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=310258",
+    "description": "건설업계 관계자는 \"폐업과 부도가 감소한 것은 긍정적인 신호지만 이를 곧바로 경기 회복으로 보기는 어렵다\"며 \"공사비와 PF 부담이 여전한 만큼 수주 증가가 실제 착공과 투자로 이어지는지가 향후 건설경기...",
+    "published_at": "2026-07-06T19:40:00+09:00",
+    "cluster_id": "e47a",
+    "publisher": "thepublic.kr",
+    "title_clean": "건설사 폐업·부도 감소했지만…착공 지연에 체감경기 회복은 '아직'",
+    "summary": "건설사 폐업·부도는 감소했으나 착공 지연으로 인해 실제 경기 회복은 미흡한 상태다. 공사비와 PF 부담이 여전해 수주 증가가 실제 투자로 이어지는지가 향후 건설경기 회복의 핵심이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-06T19:45:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32239,21 +32287,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-03T09:38:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL건설, 국토부 건설사업자 상호협력평가서 4년 연속 최우수 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93NEo5VW5aOFVMM1dFTHZ4WWhSVXhhMnFPT2JGZmNlQ0RaY0pOZDJYTDFQRl9KQ3RaRkpZTVBGQUlxNVozUlZRVkVQSjFpaFdtdHUzWkV4OHZtSURjVGtHbFU1enk0OXRwUHptYUhB?oc=5",
-    "description": "DL건설은 국토교통부가 실시한 ‘2026년도 건설사업자 간 상호협력평가’에서 4년 연속 최우수 등급을 획득했다고 3일 밝혔다.건설사업자 간 상호협력평가는 종합·전문건설사업자와 대·중소 건설사업자 간 협력체계 구축을 유도하고 건설산업의 균형 있는 발전과 공사 수행 효율..",
-    "published_at": "2026-07-03T09:20:25+09:00",
-    "cluster_id": "ffd5",
-    "publisher": "아시아투데이",
-    "title_clean": "DL건설, 국토부 건설사업자 상호협력평가서 4년 연속 최우수",
-    "summary": "DL건설이 국토교통부의 건설사업자 간 상호협력평가에서 4년 연속 최우수 등급을 획득했다. 이는 종합·전문건설사업자와 대·중소 건설사업자 간의 협력체계 구축 노력을 인정받은 것으로, 건설산업의 균형 있는 발전을 위한 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T09:32:52+09:00",
-    "importance": 2
   }
 ]
