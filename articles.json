@@ -23265,6 +23265,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사, 폐업·부도 줄었지만…건설경기 회복은 아직 더뎌 - 스페셜경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tOHJkUWFDN0FhUkQ5WWxEVGNPYW5BX2x1NUZZVGducFdWSS15ZlNNNm4zUy01Qm1hRmlWOWp1UWE3VmxxTm4tMWdycEk1cWxtMklpMmJLcS1pSHJkQ0tNVTNJbGczQmF5c2xNUA?oc=5",
+    "description": "스페셜경제=강민철 기자 | 올해 1분기 건설업체의 등록말소·폐업과 부도 건수가 전분기보다 모두 감소한 것으로 나타났다. 다만 건설수주가 회복세를 보이고 있음에도",
+    "published_at": "2026-07-06T20:13:45+09:00",
+    "cluster_id": "31ad",
+    "publisher": "스페셜경제",
+    "title_clean": "건설사, 폐업·부도 줄었지만…건설경기 회복은 아직 더뎌",
+    "summary": "올해 1분기 건설업체의 폐업·부도 건수가 감소세를 보였으나, 건설수주 회복에도 불구하고 건설경기 회복 속도는 여전히 완만한 상황이다. 업계의 구조적 어려움이 지속되고 있음을 시사한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-06T20:30:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-03T09:48:28+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "조달청, 다음 주(7.6~10) 시설공사 2천461억 규모 집행한다 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IbTV4WThyVjZYU3lzMS1JcmJyQ0dLR1B0SkxXMzN1X1hON3lxSUh6VU9Udms4TVZEM0E1X0tUODFTWHEyWENtMFJMRGU0Q0lzVTRxSF9RYURsVW80eVZLd3JBTQ?oc=5",
-    "description": "[국토일보 하종숙 기자] 조달청은 다음 주(7.6~10) ▲킨텍스 주차복합빌딩 건립사업(건축) 시설공사(543억2,200만원/주식회사 킨텍스) ▲서구 도마·변동 일원 하수관로 정비사업 공사(331억1,800만원/대전광역시) ▲고창 상하-해리 도로시설개량공사(272억원/국토교통부 익산지방국토관리청) ▲부안 진서 운호-석포 도로시설개량공사(129억9,500만원/국토교통부 익산지방국토관리청) 등 총 50건, 2,461억원 상당의 공사입찰을 집행할 예정이다.다음 주 입찰공사 중 주식회사 킨텍스 수요 ‘킨텍스 주차복합빌딩 건립사업(건축) 시",
-    "published_at": "2026-07-03T09:40:38+09:00",
-    "cluster_id": "265b",
-    "publisher": "국토일보",
-    "title_clean": "조달청, 다음 주(7.6~10) 시설공사 2천461억 규모 집행한다",
-    "summary": "조달청이 다음 주(7.6~10) 킨텍스 주차복합빌딩, 대전 하수관로 정비, 고창·부안 도로시설개량 등 총 50건 2,461억원 규모의 공사입찰을 집행한다. 건설 프로젝트 발주로 건설업계에 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T09:48:28+09:00",
-    "importance": 2
   }
 ]
