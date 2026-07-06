@@ -5986,6 +5986,38 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "발전기 상태 모니터링 시스템 두산에너빌, 체코 원전에 공급 - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20260706/134247142/2",
+    "description": "두산에너빌리티가 소음·진동 분야 엔지니어링 전문기업 크리에이텍과 공동으로 발전기 상태를 모니터링하는 시스템을 개발해 체코 테믈린 원전 1, 2호기 발전기 교체 공사에 공급한다. 두산에너빌리티는 6일 크리에이텍...",
+    "published_at": "2026-07-07T00:31:00+09:00",
+    "cluster_id": "37d3",
+    "publisher": "donga.com",
+    "title_clean": "발전기 상태 모니터링 시스템 두산에너빌, 체코 원전에 공급",
+    "summary": "두산에너빌리티가 크리에이텍과 함께 발전기 상태 모니터링 시스템을 개발해 체코 테믈린 원전에 공급한다. 국내 기술의 해외 원전 프로젝트 수주로 기계설비건설 부문의 국제 경쟁력을 강화하는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T00:40:18+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 서울 성수4지구 시공사 선정 - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20260706/134246997/2",
+    "description": "대우건설은 169표를 받았다. 성수 4지구는 성수2가1동 일대를 10개 동(지하 6층∼지상 64층), 총 1447채 규모로 조성하는 사업이다. 총공사비는 약 1조3492억 원에 이른다. 지하철 2호선 성수역과 수인분당선 서울숲역에...",
+    "published_at": "2026-07-07T00:31:00+09:00",
+    "cluster_id": "1d43",
+    "publisher": "donga.com",
+    "title_clean": "롯데건설, 서울 성수4지구 시공사 선정",
+    "summary": "롯데건설이 서울 성수4지구 재개발 사업의 시공사로 선정됐다. 총공사비 약 1조3492억 원 규모로 1447채의 주택을 건설하는 대형 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T00:40:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
