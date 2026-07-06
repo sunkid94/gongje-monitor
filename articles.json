@@ -20464,6 +20464,38 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "중대재해처벌법 3년 ··· 처벌 만능주의가 만든 역설 - 폴리뉴스 Polinews",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jUHNzZDlqUGVObUJCbkdkN08xYU5nM1RiVEtOOVRIcTFNb2NpZ0hPMnpQdlBTdXMwUW1TdmpnU2ZiUTROVV9jenZZMGxINHlnalJjV1FrN3lPdTFRUXR1MXlxY0tMY3ZLUXJEVFB30gFyQVVfeXFMUHZvUmtCaWl5cWhVb0U5WE1KV3N3elVHQmtTNnA3blpJSGthTGZYWUJkS1NjOTdybGdCYjFKRmJjZ2R2aU12eDFtZHZBbUtDam15QUV3VXVCeTFseWUzQ3hGbEQ0ajVVeE51THNrdzVFVjFR?oc=5",
+    "description": "2022년 1월 27일, 중대재해처벌법이 시행됐다. 경영책임자에게 1년 이상 징역, 법인에 최대 50억 원 벌금을 부과하는 이 법은 세계적으로 유례를 찾기 어려운 강경 입법이었다. 법이 시행되면 형사처벌의 공포를 피하기 위해 기업들이 자발적으로 예방 시스템을 구축할 것이라는 확신이 입법부와 노동계 사이에 공유되어 있었다. 처벌의 강도와 사고 예방의 효과가 정비례할 것이라는 이 확신은 그러나 3년이 지난 지금 통계 앞에서 완벽하게 반박당하고 있다.시공능력 상위 10대 건설사의 사고재해자 수는 법 시행 전인 2020년 1,460명에서",
+    "published_at": "2026-07-06T09:00:00+09:00",
+    "cluster_id": "a47b",
+    "publisher": "폴리뉴스 Polinews",
+    "title_clean": "중대재해처벌법 3년 ··· 처벌 만능주의가 만든 역설",
+    "summary": "2022년 시행된 중대재해처벌법이 강력한 처벌 규정에도 불구하고 3년 경과 후 건설업의 산업재해 감소 효과가 나타나지 않고 있다. 처벌 강도와 사고 예방 효과가 정비례하지 않는다는 통계적 반박이 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T12:34:02+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "밀양 임대아파트 공사장 항타기 전도…전신주 덮쳐 일대 정전, 안전관리 조사 - 코리아이글뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jc0hTZG80MG9xZHJ0QmZZNUVQQS1oT1RWQnVvdHpQUjlwQ2lnbzZIRVRyRG9GUWZYaUVXRnFMaG1wakp5WVBBYUpWRHpHR3ZtRno2cWlCVkp5RFUtZk15OGJoTGNlLU5YRUlMVkFzNjV6ckU?oc=5",
+    "description": "밀양시의 한 임대아파트 건설현장에서 대형 항타기가 넘어지며 전신주를 덮치는 사고가 발생해 인근 지역에 정전이 발생하는 등 주민들이 불편을 겪었다. 다행히 현장 근로자들이 신속히 대피하면서 인명피해는 발생하지 않았다.6일 오전 8시 50분께 밀양시 삼문동 한 임대아파트 신축 공사현장에서 기초공사에 사용되던 대형 항타기(말뚝 박기 장비)가 이동 중 균형을 잃고 옆으로 넘어졌다.사고 당시 작업자들은 즉시 대피해 인명피해는 없었지만, 전도된 항타기가 도로변 전신주를 덮치면서 삼문동 일대에 정전이 발생했다.한국전력은 사고 직후 복구 인력을",
+    "published_at": "2026-07-06T09:45:43+09:00",
+    "cluster_id": "2cef",
+    "publisher": "코리아이글뉴스",
+    "title_clean": "밀양 임대아파트 공사장 항타기 전도…전신주 덮쳐 일대 정전, 안전관리 조사",
+    "summary": "밀양시 임대아파트 건설현장에서 항타기가 전도되어 전신주를 덮치고 일대 정전이 발생했다. 다행히 근로자들의 신속한 대피로 인명피해는 없었으나, 건설 현장의 안전관리 문제가 노출되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T12:34:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
