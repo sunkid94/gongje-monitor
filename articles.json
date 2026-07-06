@@ -9524,6 +9524,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "공사비 급등에 컨소시엄 탈퇴까지 고려 - news.knn.co.kr",
+    "link": "https://news.knn.co.kr/news/article/189709",
+    "description": "적정 공사비가 확보되지 않으면 컨소시엄 탈퇴도 검토하겠다는 입장입니다.\" \"현대건설 컨소시엄의 사업 포기 이후 어렵게 재추진된 가덕신공항이 이번에는 공사비 급등이라는 암초를 만났습니다.\" 대표사인 대우건설도...",
+    "published_at": "2026-07-06T20:52:00+09:00",
+    "cluster_id": "ff0c",
+    "publisher": "news.knn.co.kr",
+    "title_clean": "공사비 급등에 컨소시엄 탈퇴까지 고려",
+    "summary": "가덕신공항 재추진 과정에서 공사비 급등으로 인해 대우건설 컨소시엄이 사업 포기를 검토 중입니다. 적정 공사비 확보 실패 시 컨소시엄 탈퇴까지 고려하고 있는 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T21:00:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T09:52:44+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "인천경제청, 청라 심곡천 수문·배수펌프장 우기 대비 합동점검 - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260703093432700",
-    "description": "한편 인천경제청은 최근 하절기 풍수해와 폭염에 대비해 주요 건설현장 안전점검도 진행하고 있으며 청라 수계 시설물에 대해서는 수문·갑문·배수펌프장 상태 점검과 매뉴얼 기반 수위 조절을 병행해 우기 피해 예방에...",
-    "published_at": "2026-07-03T09:48:00+09:00",
-    "cluster_id": "e2b9",
-    "publisher": "ajunews.com",
-    "title_clean": "인천경제청, 청라 심곡천 수문·배수펌프장 우기 대비 합동점검",
-    "summary": "인천경제청이 청라 심곡천의 수문, 배수펌프장 등 수계 시설물에 대해 우기 대비 합동점검을 실시하고 있다. 하절기 풍수해와 폭염 대비 주요 건설현장 안전점검도 병행 중이며, 매뉴얼 기반 수위 조절을 통해 피해 예방에 나서고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-03T09:52:44+09:00",
-    "importance": 2
   }
 ]
