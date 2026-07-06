@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "전문건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "K-FINCO, 중동 리스크 대응 ‘조합원 지원’ 가시적 성과 - 금융경제신문",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOV1ktcUpJckJuSmRwaXVWV1dQem1XY3E3UTR4UWRqRzNfM2JGYkFOSmxPM1JXLUpGenpkRlg1RzJFM1NZWVdkaVNWMVpvc19QVDItZUpmdm5QY1lZcjFpZTdtZW5UZzVSc1I4R0NwTdIBb0FVX3lxTFBOV1ktcUpJckJuSmRwaXVWV1dQem1XY3E3UTR4UWRqRzNfM2JGYkFOSmxPM1JXLUpGenpkRlg1RzJFM1NZWVdkaVNWMVpvc19QVDItZUpmdm5QY1lZcjFpZTdtZW5UZzVSc1I4R0NwTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBOV1ktcUpJckJuSmRwaXVWV1dQem1XY3E3UTR4UWRqRzNfM2JGYkFOSmxPM1JXLUpGenpkRlg1RzJFM1NZWVdkaVNWMVpvc19QVDItZUpmdm5QY1lZcjFpZTdtZW5UZzVSc1I4R0NwTdIBb0FVX3lxTFBOV1ktcUpJckJuSmRwaXVWV1dQem1XY3E3UTR4UWRqRzNfM2JGYkFOSmxPM1JXLUpGenpkRlg1RzJFM1NZWVdkaVNWMVpvc19QVDItZUpmdm5QY1lZcjFpZTdtZW5UZzVSc1I4R0NwTQ?oc=5\" target=\"_blank\">K-FINCO, 중동 리스크 대응 ‘조합원 지원’ 가시적 성과</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">금융경제신문</font>",
+    "cluster_id": "ce3d",
+    "publisher": "금융경제신문",
+    "title_clean": "K-FINCO, 중동 리스크 대응 ‘조합원 지원’ 가시적 성과",
+    "summary": "K-FINCO(전문건설공제조합)이 중동 지역의 정치·경제 리스크에 대응하여 조합원들을 지원하는 사업을 추진 중이며, 이러한 노력이 구체적인 성과를 거두고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T20:50:16+09:00",
+    "event_label": "전문건설공제조합 중동 리스크 대응 조합원 지원 성과",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32271,21 +32287,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-03T09:52:44+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL건설, 국토부 상호협력평가 4년 연속 최우수 등급 획득 - 이코노뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uSmZHUzZSLS0yT1dUdHFFb25nNVJSa0dOZkw4dDFnc0NVQ0FPcm1kWnVNQWVtTWJLZi1DaGpYWU5JU3AyQWZLaFpkdExUbzEzZ2tNWHJHMGZadFFBbjRJY29vY1VSM0htX0ctblVhdw?oc=5",
-    "description": "[이코노뉴스=최아람 기자] DL건설은 최근 국토교통부에서 실시한 ‘2026년도 건설사업자 간 상호협력평가’에서 4년 연속 최우수 등급을 받았다고 3일 밝혔다.국토부 상호협력평가는 종합·전문 또는 대·중소 건설사업자 간 긴밀한 상호협력관계 구축을 통해 건설산업의 균형 있는 발전과 건설공사의 효율적인 수행을 위해 마련됐다.국토부는 매년 대기업과 중소기업으로 구분한 뒤 ▲공동도급 실적 ▲하도급 실적 ▲협력업자 재무지원 및 기술지원 등의 육성 ▲신인도 등의 항목을 중심으로 평가한다. 그 결과 95점 이상의 점수를 받으면 최우수 등급에 선정",
-    "published_at": "2026-07-03T09:48:16+09:00",
-    "cluster_id": "7efa",
-    "publisher": "이코노뉴스",
-    "title_clean": "DL건설, 국토부 상호협력평가 4년 연속 최우수 등급 획득",
-    "summary": "DL건설이 국토교통부의 '2026년도 건설사업자 간 상호협력평가'에서 4년 연속 최우수 등급을 획득했다. 이는 공동도급, 하도급, 협력업자 지원 등의 항목에서 95점 이상을 받은 결과로, 건설산업의 균형 있는 발전과 대중소 기업 간 협력 강화를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T09:52:44+09:00",
-    "importance": 3
   }
 ]
