@@ -9287,6 +9287,38 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 성수4지구 재개발 시공권 확보…1조4천억 한강변 대어 품었다 - issuenbiz.com",
+    "link": "http://www.issuenbiz.com/news/articleView.html?idxno=77679",
+    "description": "총 753명의 조합원 가운데 620명이 투표에 참여했으며, 유효표 618표 중 롯데건설은 449표(72.4%)를 얻어 169표(27.2%)를 받은 대우건설을 제치고 시공권을 따냈다. 성수4지구는 성동구 성수2가1동 219-4번지 일대에 지하 6층...",
+    "published_at": "2026-07-06T14:08:00+09:00",
+    "cluster_id": "9653",
+    "publisher": "issuenbiz.com",
+    "title_clean": "롯데건설, 성수4지구 재개발 시공권 확보…1조4천억 한강변 대어 품었다",
+    "summary": "롯데건설이 성수4지구 재개발 시공권을 확보했다. 조합원 투표에서 72.4%의 지지율로 대우건설을 제치고 약 1조4천억 규모의 한강변 프로젝트 수주에 성공했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T14:14:22+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성전자, 갤워치로 폭염 속 노동자 지킨다···폭염 대응 글로벌 '산업... - newsfreezone.co.kr",
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698025",
+    "description": "롯데건설은 건설현장 근로자의 온열질환을 막기 위해 체감온도를 실시간 감시하는 사물인터넷(IoT) 플랫폼을 전국 80개 현장에서 가동한다고 지난 2일 밝혔다. 스마트 설루션 기업 엔비즈소프트와 공동 개발한 이...",
+    "published_at": "2026-07-06T14:10:00+09:00",
+    "cluster_id": "bb82",
+    "publisher": "newsfreezone.co.kr",
+    "title_clean": "삼성전자, 갤워치로 폭염 속 노동자 지킨다···폭염 대응 글로벌 '산업...",
+    "summary": "롯데건설이 IoT 플랫폼을 통해 건설현장 근로자의 온열질환 예방에 나서고 있으며, 삼성전자 갤럭시워치 등 스마트 기기를 활용한 폭염 대응이 건설업계의 새로운 산업 표준으로 확산되는 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T14:14:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20847,6 +20879,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[단독] 크레인 단체 '사단법인' 사칭 의혹…국토부, 실태 조사 착수 - hankyung.com",
+    "link": "https://www.hankyung.com/article/202607067726i",
+    "description": "올해 타워크레인안전협회는 타워크레인 임대사로부터 교섭권을 위임받아 전국민주노동조합총연맹 전국건설노동조합 타워크레인분과위원회, 한국노동조합총연맹 건설연맹 한국타워크레인조종사노동조합 등 양대노총...",
+    "published_at": "2026-07-06T14:10:00+09:00",
+    "cluster_id": "1185",
+    "publisher": "hankyung.com",
+    "title_clean": "[단독] 크레인 단체 '사단법인' 사칭 의혹…국토부, 실태 조사 착수",
+    "summary": "타워크레인안전협회가 '사단법인' 자격 없이 협회 명의로 활동해온 것으로 의심되며, 국토교통부가 실태 조사에 착수했다. 건설업계의 부정행위와 관련된 규제 강화 논의로 이어질 가능성이 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T14:14:22+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
