@@ -9355,6 +9355,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 성수4지구 시공사 선정…올해 도시정비 수주 2조8541억 돌파 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40776",
+    "description": "[건설이코노미뉴스] 롯데건설이 서울 성동구 '성수전략정비구역 제4지구 주택재개발정비사업(이하 성수4지구)' 시공사로 최종 선정됐다.롯데건설은 지난 5일 서울 강남구 예림당 아트홀에서 열린 시공사 선정 총회에서 전체 조합원 753명 가운데 620명이 참석한 투표(무효 2표)에서 449표를 얻어 최종 시공권을 확보했다고 최근 밝혔다.성수4지구는 서울시 성동구 성수2가1동 219-4번지 일원에 지하 6층~지상 64층 규모의 공동주택 10개 동, 1447가구와 부대복리시설을 조성하는 초대형 재개발 사업이다. 총 공사비는 1조3492억 원에",
+    "published_at": "2026-07-06T15:38:00+09:00",
+    "cluster_id": "ec1f",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "롯데건설, 성수4지구 시공사 선정…올해 도시정비 수주 2조8541억 돌파",
+    "summary": "롯데건설이 서울 성동구 성수4지구 주택재개발사업 시공사로 최종 선정되어 1조3492억 원 규모 수주를 확보했다. 이로써 롯데건설의 올해 도시정비 수주액이 2조8541억 원을 돌파했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T15:39:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21519,6 +21535,38 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[ESG 점검] 코오롱글로벌, '중대재해 제로·탄소감축' 성과 - bloter.net",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=667376",
+    "description": "금융투자업계 한 관계자는 \"스마트건설과 풍력 발전 등 ESG 부문에 대한 선제적 투자가 기업의 기초체력을 다지는 데 긍정적으로 작용하고 있다\"며 \"다만 1분기 흑자전환 성공에도 불구하고 치솟은 부채비율을...",
+    "published_at": "2026-07-06T15:34:00+09:00",
+    "cluster_id": "a49c",
+    "publisher": "bloter.net",
+    "title_clean": "[ESG 점검] 코오롱글로벌, '중대재해 제로·탄소감축' 성과",
+    "summary": "코오롱글로벌이 중대재해 제로와 탄소감축 달성으로 ESG 성과를 입증했으며, 스마트건설·풍력발전 등 선제적 투자가 기업의 기초체력 강화에 긍정적으로 작용하고 있다. 다만 1분기 흑자전환에도 불구하고 부채비율 상승이 과제로 지적되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T15:39:47+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김용진 GH 사장, 동탄 공사현장 찾아 근로자 격려…안전물품 전달 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mTlc5c1ZybHE2NkFHZFV2RXdDWHNFaGZYX3Axb3JvV1I3ZThMY1k5TDRvWG1GTE5XcTBRUUtJOV9uNXZVMmlSVWo2NllFTUFnS0lnZ3pIbE5JOFdkQUdkNQ?oc=5",
+    "description": "경기주택도시공사(GH)가 공동주택 건설현장 근로자에게 폭염 및 장마 안전 물품을 전달했다.",
+    "published_at": "2026-07-06T15:27:55+09:00",
+    "cluster_id": "fdf0",
+    "publisher": "아시아경제",
+    "title_clean": "김용진 GH 사장, 동탄 공사현장 찾아 근로자 격려…안전물품 전달",
+    "summary": "경기주택도시공사(GH)가 동탄 공사현장을 방문하여 근로자에게 폭염 및 장마 대비 안전물품을 전달했다. 이는 건설현장 근로자의 안전과 복지 증진을 위한 현장 관리 활동으로 평가된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-06T15:39:47+09:00",
     "importance": 2
   },
   {
