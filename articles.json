@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문건설공제조합 ‘중동 전쟁 위기 대응 TF’ 성과 가시화 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20064473?ref=naver",
+    "description": "전문건설공제조합이 중동 리스크 장기화에 대비해 올해 5월 출범시킨 전담 태스크포스를 통해 금융·법률·리스크관리 전반의 조합원사 지원 성과를 내고 있다. 7일 전문건설공제조합은 중동 리스크 장기화에 따른...",
+    "published_at": "2026-07-07T07:57:00+09:00",
+    "cluster_id": "c87a",
+    "publisher": "sedaily.com",
+    "title_clean": "전문건설공제조합 ‘중동 전쟁 위기 대응 TF’ 성과 가시화",
+    "summary": "전문건설공제조합이 5월 출범한 중동 리스크 대응 TF를 통해 조합원사에 대한 금융·법률·리스크관리 지원 성과를 가시화하고 있다. 중동 전쟁 위기 장기화에 대비한 조직적 대응 체계를 구축하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T08:04:34+09:00",
+    "event_label": "전문건설공제조합 중동 전쟁 위기 대응 TF 성과 가시화",
+    "importance": 6
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -6001,6 +6018,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-06-07T09:42:23+09:00",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[재계부] '목화아파트' 첫 입찰 마감…여의도發 재건축 수주 '전초전' 임... - youthdaily.co.kr",
+    "link": "https://www.youthdaily.co.kr/news/article.html?no=222351",
+    "description": "앞서 열린 현장설명회에는 삼성물산 건설부문, 대우건설, GS건설, 롯데건설, HDC현대산업개발, 호반건설, 제일건설 등 7개 대형 건설사가 대거 참여해 탐색전을 벌였다. 정비업계에서는 이번 입찰이 최종적으로...",
+    "published_at": "2026-07-07T08:00:00+09:00",
+    "cluster_id": "415d",
+    "publisher": "youthdaily.co.kr",
+    "title_clean": "[재계부] '목화아파트' 첫 입찰 마감…여의도發 재건축 수주 '전초전' 임...",
+    "summary": "서울 여의도 목화아파트 재건축 사업의 첫 입찰이 마감되었으며, 삼성물산, 대우건설, GS건설 등 7개 대형 건설사가 참여했다. 여의도 재건축 수주를 놓고 벌어지는 건설사들의 경쟁이 본격화되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T08:04:34+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
