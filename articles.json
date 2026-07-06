@@ -9202,6 +9202,38 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한국 조선업계 상반기 수주량 60% 급증 - 2news.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pMy1IdXROYVd1RkoxNzZUazltdEl1dlhUcHlHVURFZ3VzSUswelJXYWFHQ3JwaVJ4MlVoRTEzcUVuUXlobFBZSW1EbGxQeXVURDdOZEVhS3BBR0VUVlhFaFVtNE9faC1V?oc=5",
+    "description": "국내 조선업계가 올해 상반기 수주 실적을 대폭 개선하며 고부가가치 선박 시장에서의 입지를 공고히 했다. 뉴스1에 따르면 영국의 조선·해운 시황 분석 기관 클락슨리",
+    "published_at": "2026-07-06T11:59:00+09:00",
+    "cluster_id": "9dd4",
+    "publisher": "2news.co.kr",
+    "title_clean": "한국 조선업계 상반기 수주량 60% 급증",
+    "summary": "한국 조선업계가 올해 상반기 수주량을 60% 대폭 증가시키며 고부가가치 선박 시장에서의 경쟁력을 강화했다. 이는 조선업계의 실적 개선과 시장 입지 확대를 의미하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T12:19:05+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 성수전략정비구역 4지구 재개발 시공사 선정 - 미디어인뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03RDh6U3JMQjYtVGFTSS1XRWc0cHZQYS1qWEhKdVozOVBZTGZfZnY3TTNRcl9zdWt1UFNreG5STDh0c3pBa1BnTlo2T0RrOHA4UlRnWjdvRE1vaElCVnViaGpyU3BXSFBFeHVpMnF3?oc=5",
+    "description": "(미디어인뉴스=박미라 기자) 롯데건설이 서울 성동구 성수전략정비구역 제4지구 주택재개발정비사업의 시공권을 확보했다.성수4지구 재개발 조합은 지난 5일 서울 강남구 예림당 아트홀에서 시공사 선정 총회를 열고 롯데건설을 최종 시공사로 낙점했다. 이날 총회에는 전체 조합원 753명 중 620명이 참여했으며, 롯데건설은 무효표 2표를 제외한 찬성 449표를 얻었다.이 사업은 서울시 성동구 성수2가1동 219-4번지 일대에 지하 6층에서 지상 64층 규모의 아파트 10개 동, 총 1447세대와 부대복리시설을 조성하는 프로젝트다. 총 공사비는",
+    "published_at": "2026-07-06T09:24:05+09:00",
+    "cluster_id": "403d",
+    "publisher": "미디어인뉴스",
+    "title_clean": "롯데건설, 성수전략정비구역 4지구 재개발 시공사 선정",
+    "summary": "롯데건설이 서울 성동구 성수전략정비구역 4지구 주택재개발사업의 시공사로 선정되었다. 지하 6층~지상 64층 규모의 아파트 1,447세대를 포함한 대규모 프로젝트로, 건설사의 신규 수주 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-06T12:19:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20398,6 +20430,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "장마·폭염 겹친 건설현장…강미애 교육감, 세종학생해양수련원 안전점... - wikitree.co.kr",
+    "link": "https://www.wikitree.co.kr/articles/1144948",
+    "description": "고용노동부는 올해 장마철 건설현장 안전보건 길잡이를 내고 배수로 정비, 흙막이와 비탈면 점검, 전기설비 관리, 강풍 대비 가설물 고정 등 사전 점검을 당부했다. 폭염도 별도의 재해 요인이다. 고용노동부는 폭염 취약...",
+    "published_at": "2026-07-06T12:16:00+09:00",
+    "cluster_id": "6bdc",
+    "publisher": "wikitree.co.kr",
+    "title_clean": "장마·폭염 겹친 건설현장…강미애 교육감, 세종학생해양수련원 안전점...",
+    "summary": "고용노동부가 장마철과 폭염이 겹친 건설현장의 안전을 위해 배수로 정비, 비탈면 점검, 전기설비 관리 등 사전 점검을 당부했다. 건설현장의 계절별 재해 요인에 대한 안전 관리 지침을 제시하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-06T12:19:05+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
