@@ -5862,6 +5862,38 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "거제, 조선업 회복세에 배후주거 주목 - finomy.com",
+    "link": "http://www.finomy.com/news/articleView.html?idxno=256940",
+    "description": "7일 조선업계에 따르면 10년 만에 찾아온 이번 호황기를 발판으로 거제 양대 조선소인 한화오션과 삼성중공업이 잇따라 대형 수주를 따내며 지역 경제 회복에 대한 기대감을 키우고 있다. 거제시와 두 조선소는 여기서...",
+    "published_at": "2026-07-07T13:00:00+09:00",
+    "cluster_id": "457e",
+    "publisher": "finomy.com",
+    "title_clean": "거제, 조선업 회복세에 배후주거 주목",
+    "summary": "거제 양대 조선소(한화오션, 삼성중공업)가 10년 만의 조선업 호황기를 맞아 대형 수주를 잇따라 확보하고 있다. 이를 통해 지역 경제 회복에 대한 기대감이 증대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T13:05:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 협력사 안전에 ‘당근과 채찍’ 전략 - 안전신문",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOb3Y5WEdwaE5xemM1RVRkVXMxdlRob3VYRkozYXRjRUlld01RamM1d1lsMFpUMS1nd1hzcWp2YXlRSmhYUEI5Y1p5eTdiT3hpaUV3U1kwdm5iUDdsWkg5UjliNXp3MDV2bTZhSkN6QQ?oc=5",
+    "description": "대우건설이 협력사 안전에 있어 ‘당근과 채찍’ 전략을 쓴다.7일 업계에 따르면 대우건설은 협력사들의 안전을 평가해 안전이 우수한 협력사엔 입찰 인센티브를 제공하고 안전관리가 미흡한 협력회사엔 단계적으로 입찰을 제한하는 제도를 시행한다.협력사들의 자율적인 안전관리 역량을 높이고 안전을 기업 경쟁력의 핵심 요소로 반영키 위해 마련됐다는 설명.평가는 현장 안전평가와 대우건설 본사 안전평가를 기본으로 한다. 신용평가사의 안전등급(SH/SA 등급)을 종합 반영해 협력회사의 안전 수준을 평가한다.가격 중심의 협력회사 선정 방식에서 벗어나 안전",
+    "published_at": "2026-07-07T12:58:25+09:00",
+    "cluster_id": "3277",
+    "publisher": "안전신문",
+    "title_clean": "대우건설, 협력사 안전에 ‘당근과 채찍’ 전략",
+    "summary": "대우건설이 협력사의 안전관리 수준을 평가해 우수 협력사에는 입찰 인센티브를 제공하고 부실 협력사에는 입찰을 제한하는 '당근과 채찍' 전략을 시행한다. 현장 안전평가, 본사 안전평가, 신용평가사 안전등급을 종합 반영하여 협력사의 안전 수준을 평가하는 제도이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T13:05:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -18514,6 +18546,21 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대우건설, 안전 우수 협력사에 입찰 가점 - 비욘드포스트",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HcWdpRUZXWGdsQlV1QWNoLTFnaldyNG5mdWkyc1N4bWtKVnM5SDkwcGVaaG5EbVQ5NnJLQTJqRzFVZFR0eWw0SGpmajdfX21OZ3FjREFMR2NNNlhZdzVYb2lmSkpfVFdLNlA3THZJX19ValN6d0lKZ2Y5NE0?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9HcWdpRUZXWGdsQlV1QWNoLTFnaldyNG5mdWkyc1N4bWtKVnM5SDkwcGVaaG5EbVQ5NnJLQTJqRzFVZFR0eWw0SGpmajdfX21OZ3FjREFMR2NNNlhZdzVYb2lmSkpfVFdLNlA3THZJX19ValN6d0lKZ2Y5NE0?oc=5\" target=\"_blank\">대우건설, 안전 우수 협력사에 입찰 가점</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비욘드포스트</font>",
+    "cluster_id": "9daf",
+    "publisher": "비욘드포스트",
+    "title_clean": "대우건설, 안전 우수 협력사에 입찰 가점",
+    "summary": "대우건설이 안전 우수 협력사에 입찰 가점을 부여하는 정책을 추진하고 있습니다. 이는 협력사의 안전 관리 강화를 유도하고 건설 현장의 안전 문화를 개선하려는 조치입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T13:05:08+09:00",
     "importance": 2
   },
   {
