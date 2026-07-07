@@ -5869,20 +5869,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "박종학 제6대 기계설비건설협회 회장 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhaElQa0szNUZUamtKM3EzRl9XcjRCVTZZMlpDZFIzWUdnWEJRdnFldG9wV0hOQ2JqcWRJV3lLZzhfUlRtVnlsQzNMN09SSkd4OGVB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhaElQa0szNUZUamtKM3EzRl9XcjRCVTZZMlpDZFIzWUdnWEJRdnFldG9wV0hOQ2JqcWRJV3lLZzhfUlRtVnlsQzNMN09SSkd4OGVB?oc=5\" target=\"_blank\">박종학 제6대 기계설비건설협회 회장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "d180",
-    "publisher": "네이트",
-    "title_clean": "박종학 제6대 기계설비건설협회 회장",
-    "summary": "박종학이 기계설비건설협회의 제6대 회장으로 선출되었다. 협회의 새로운 리더십 체계가 구성되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-07T18:47:29+09:00",
-    "importance": 5,
-    "published_at": "2026-06-07T18:35:00+09:00"
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'공사비 1조' 마천5구역, 2차 시공사 현설에 현대건설 단독 참여 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1383763",
+    "description": "앞서 지난 4월 28일 열린 시공사 선정 현장설명회에는 현대건설과 롯데건설, DL이앤씨, IPARK현대산업개발, 제일건설, 금호건설 등 6개사가 참석했지만 본 입찰에는 한 곳도 참여하지 않아 유찰됐다. 조합은 조만간...",
+    "published_at": "2026-07-07T18:42:00+09:00",
+    "cluster_id": "89c7",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "'공사비 1조' 마천5구역, 2차 시공사 현설에 현대건설 단독 참여",
+    "summary": "마천5구역 재개발 2차 시공사 선정에서 현대건설이 단독 참여했다. 앞선 현장설명회에 6개사가 참석했으나 본 입찰에는 참여하지 않아 유찰된 후, 이번 현설에서 현대건설만 참여한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-07T18:49:24+09:00",
+    "importance": 4
   },
   {
     "keyword": "현대산업개발",
@@ -20372,6 +20372,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "두산연수원-호텔신라, 호텔·리조트 협약, 춘천 국제컨벤션도시 도약 기... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10801334?ref=naver",
+    "description": "춘천시는 그동안 공사 재개를 위해 두산측과 지속적으로 협의를 이어왔으나 PF 시장 위축과 건설경기 침체로 투자자 확보에 어려움을 겪으면서 사업은 장기간 답보 상태를 벗어나지 못했다. 시는 2023년과 2025년 두 차례...",
+    "published_at": "2026-07-07T18:45:00+09:00",
+    "cluster_id": "965a",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "두산연수원-호텔신라, 호텔·리조트 협약, 춘천 국제컨벤션도시 도약 기...",
+    "summary": "춘천시가 두산연수원-호텔신라 협약을 통해 장기 답보 상태였던 호텔·리조트 사업을 재개한다. PF 시장 위축과 건설경기 침체로 어려움을 겪았으나 투자자 확보에 성공하며 지역 국제컨벤션도시 도약을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T18:49:24+09:00",
     "importance": 2
   },
   {
