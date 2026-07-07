@@ -5878,6 +5878,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, AAA등급 ABS 2차 3천억 원 발행 성공…재무구조 개선 속도 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12092148",
+    "description": "롯데건설이 준공이 임박한 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 기초자산으로 활용해 AAA 신용등급의 자산유동화증권(ABS) 3000억 원 규모 발행에 성공했다고 7일 밝혔다. 이번에 발행된...",
+    "published_at": "2026-07-07T11:19:00+09:00",
+    "cluster_id": "e5a4",
+    "publisher": "mk.co.kr",
+    "title_clean": "롯데건설, AAA등급 ABS 2차 3천억 원 발행 성공…재무구조 개선 속도",
+    "summary": "롯데건설이 준공 임박 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 기초자산으로 AAA등급 ABS 3,000억 원을 발행했다. 이는 회사의 재무구조 개선과 자금조달 능력 강화를 보여주는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T11:24:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -18147,6 +18163,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대우건설, 협력사 입찰도 '안전' 본다…안전등급제 본격 시행 - 알파경제",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbEdCS2JHbGozYmVUY2FHejFsWkNweFh5aU50c2xVeVNNamtIUWY4MXFkVFZ0Y0o2OWQzaWVXdjNIM1BBemFNMDQxUjFYSHFrTThmQ2lFZnpTV1NJLTd0aXpsYllQOHpIb2g0Q0x3?oc=5",
+    "description": "[알파경제=문선정 기자] 건설업계가 중대재해 예방 기조에 맞춰 협력회사 안전관리 역량을 입찰 평가에 반영하는 사례를 늘리고 있다.대우건설은 협력회사의 안전관리 수",
+    "published_at": "2026-07-07T11:08:22+09:00",
+    "cluster_id": "a4ea",
+    "publisher": "알파경제",
+    "title_clean": "대우건설, 협력사 입찰도 '안전' 본다…안전등급제 본격 시행",
+    "summary": "대우건설이 협력사의 안전관리 역량을 입찰 평가에 반영하는 안전등급제를 본격 시행하고 있다. 건설업계가 중대재해 예방 기조에 맞춰 협력회사 안전관리를 강화하는 추세를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-07T11:24:44+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
