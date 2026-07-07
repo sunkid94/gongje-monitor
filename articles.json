@@ -5848,19 +5848,20 @@
     "importance": 7
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "박종학 전 대한기계설비건설협회 제6대 회장 별세 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2cFU5MzRIT1BCVE9IUFcyYjRReC1rS1F5cWFEcWFMVHgxVEJUVGR0dTJpcVZfYjVOYk5hLS1rZkRfb2c4NjM4VHUtalRlaUdUeFg3ckVOS20xTUtJUFdiaUgyOGM?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2cFU5MzRIT1BCVE9IUFcyYjRReC1rS1F5cWFEcWFMVHgxVEJUVGR0dTJpcVZfYjVOYk5hLS1rZkRfb2c4NjM4VHUtalRlaUdUeFg3ckVOS20xTUtJUFdiaUgyOGM?oc=5\" target=\"_blank\">박종학 전 대한기계설비건설협회 제6대 회장 별세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토일보</font>",
-    "cluster_id": "67d7",
-    "publisher": "국토일보",
-    "title_clean": "박종학 전 대한기계설비건설협회 제6대 회장 별세",
-    "summary": "박종학 전 대한기계설비건설협회 제6대 회장이 별세했다. 업계 원로 지도자의 타계로 건설업계가 인물 손실을 입었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-07T14:07:34+09:00",
-    "importance": 7
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, AAA 등급 ABS 3000억 원 추가 발행...\"시장 신뢰 확인\" - newspost.kr",
+    "link": "https://www.newspost.kr/news/articleView.html?idxno=224043",
+    "description": "롯데건설이 공사대금채권을 활용한 3000억 원 규모의 자산유동화증권(ABS) 발행에 성공하며 자금 조달 기반을 강화했다. 롯데건설은 공사대금채권을 기초자산으로 한 AAA 등급 자산유동화증권(ABS) 3000억 원을...",
+    "published_at": "2026-07-07T14:06:00+09:00",
+    "cluster_id": "24f9",
+    "publisher": "newspost.kr",
+    "title_clean": "롯데건설, AAA 등급 ABS 3000억 원 추가 발행...\"시장 신뢰 확인\"",
+    "summary": "롯데건설이 공사대금채권을 기초자산으로 AAA 등급 ABS 3000억 원을 추가 발행하며 자금 조달 기반을 강화했다. 시장에서 높은 신용등급으로 평가받으며 건설사의 안정적인 자금 조달 수단을 확보한 것으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T14:09:30+09:00",
+    "importance": 2
   },
   {
     "keyword": "롯데건설",
