@@ -5838,22 +5838,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[부음] 박종학(전 대한기계설비건설협회 회장)씨 별세 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51THo4alI1cjJfbWVncG1XT0gxZ2I1VkZScEFTN1o2eUJnYXZpWUNTVWFyRDlVOEU5b3lJV0IyV0NXWG4tclY0TjNTT2ZfQQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE51THo4alI1cjJfbWVncG1XT0gxZ2I1VkZScEFTN1o2eUJnYXZpWUNTVWFyRDlVOEU5b3lJV0IyV0NXWG4tclY0TjNTT2ZfQQ?oc=5\" target=\"_blank\">[부음] 박종학(전 대한기계설비건설협회 회장)씨 별세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-    "published_at": "2026-06-07T18:34:06+09:00",
-    "cluster_id": "991f",
-    "publisher": "전자신문",
-    "title_clean": "[부음] 박종학(전 대한기계설비건설협회 회장)씨 별세",
-    "summary": "대한기계설비건설협회의 전직 회장인 박종학씨가 별세했습니다. 업계 원로 인물의 타계로 건설업계가 큰 손실을 입었습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-06-07T21:57:28+09:00",
-    "importance": 7
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20468,6 +20452,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "KCC, 'KISS 2026'서 통합 안전 솔루션 공개…산업현장 안전문화 혁신 제안 - 파이낸셜신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CQ3U0eTRrczk0OTdoblVabkJUWU5KUVF6dlFvdVo4cmgtQXVlY21DN0ZuVUFNSHRkNFhveVJqdXZseVFKMWdVYVc4RGN2a0hDYlphdllWaFJ2LXpoUjl0dlJmdy1Tc0N0Zko0?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9CQ3U0eTRrczk0OTdoblVabkJUWU5KUVF6dlFvdVo4cmgtQXVlY21DN0ZuVUFNSHRkNFhveVJqdXZseVFKMWdVYVc4RGN2a0hDYlphdllWaFJ2LXpoUjl0dlJmdy1Tc0N0Zko0?oc=5\" target=\"_blank\">KCC, 'KISS 2026'서 통합 안전 솔루션 공개…산업현장 안전문화 혁신 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜신문</font>",
+    "published_at": "2026-07-07T16:09:14+09:00",
+    "cluster_id": "9b15",
+    "publisher": "파이낸셜신문",
+    "title_clean": "KCC, 'KISS 2026'서 통합 안전 솔루션 공개…산업현장 안전문화 혁신 제안",
+    "summary": "KCC가 'KISS 2026'에서 산업현장의 안전을 위한 통합 안전 솔루션을 공개했습니다. 이는 건설 및 기계설비 산업의 안전문화 혁신을 제안하는 것으로, 산업현장의 안전 표준 향상을 목표로 하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T22:19:31+09:00",
     "importance": 2
   },
   {
