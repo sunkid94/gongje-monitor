@@ -5848,6 +5848,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 계약 정정 공시 여파…장중 5%대 하락 : 기업주식정보 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzenVwa1huTWxVQ2Q1MWlYT3FhcGlvRTduSjc2bG9vMTJIQmdFdjFtZmhCZlpkRmowX3BHeTZPY3g4UU14T2lCOFhR?oc=5",
+    "description": "두산에너빌리티(034020)가 장중 5% 넘게 하락하며 8만원선이 위태로운 모습이다. 이날 오후 1시 30분 현재 80,700원에 거래되며 전일 대비 4,800원(-5.61%) 내렸다. 단일 판매·공급 계약 정정 공시 등 투자심리를 위축시키는 요인이 복합적으로 작용한 것으로 풀이된다. 두산에너빌리티(034020) 주가가 7일 장중 5% 이상 급락하며 투자자",
+    "published_at": "2026-07-07T01:31:58+00:00",
+    "cluster_id": "1ddc",
+    "publisher": "재경일보",
+    "title_clean": "두산에너빌리티, 계약 정정 공시 여파…장중 5%대 하락 : 기업주식정보",
+    "summary": "두산에너빌리티가 단일 판매·공급 계약 정정 공시로 인해 장중 5% 이상 급락하며 주가가 8만원선 아래로 내려앉았다. 투자심리 위축으로 인한 주가 하락이 건설업계 전반에 부정적 신호를 주고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-07T15:34:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19362,6 +19378,38 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'시공' 줄이고 '시행' 키운다…IPARK아이앤콘스, 강남서 새판 짠다 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260707000779",
+    "description": "건설경기 침체기에 이런 전략이 수익성 확보가 더욱 용이하다고 판단한 것으로 보인다. 시행은 신규 개발 프로젝트를 추진하는 주체로 토지 매입, 분양 시점, 금융구조 등을 조정하면서 사업 속도를 조정할 수 있다....",
+    "published_at": "2026-07-07T15:27:00+09:00",
+    "cluster_id": "2c67",
+    "publisher": "newspim.com",
+    "title_clean": "'시공' 줄이고 '시행' 키운다…IPARK아이앤콘스, 강남서 새판 짠다",
+    "summary": "IPARK아이앤콘스가 건설경기 침체기 대응으로 시공사업은 축소하고 시행사업을 확대하는 전략으로 전환하고 있다. 시행사업을 통해 토지매입, 분양 타이밍, 금융구조 조정 등으로 사업 속도를 유연하게 조절하며 수익성을 확보하는 방식을 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T15:34:38+09:00",
+    "importance": 3
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[공사 Pick] LH·한전·한국수자원공사, 공급·전력·물관리 - lcnews.co.kr",
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204535",
+    "description": "건설현장 안전관리와 AI 기반 안전 시스템 구축도 주요 과제로 제시했다. 이성훈 사장은 \"국민의 신뢰 없이는 LH의 미래도 없다\"며 \"주택과 도시, 일하는 방식까지 과거와 다른 수준의 변화를 만들겠다\"고 밝혔다....",
+    "published_at": "2026-07-07T15:30:00+09:00",
+    "cluster_id": "a53f",
+    "publisher": "lcnews.co.kr",
+    "title_clean": "[공사 Pick] LH·한전·한국수자원공사, 공급·전력·물관리",
+    "summary": "LH가 건설현장 안전관리와 AI 기반 안전시스템 구축을 주요 과제로 추진하며 주택·도시·업무 방식의 혁신적 변화를 추구 중이다. 이성훈 사장은 국민 신뢰 회복을 강조하며 조직의 변화와 혁신을 선언했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T15:34:38+09:00",
     "importance": 2
   },
   {
