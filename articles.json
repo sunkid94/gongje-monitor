@@ -6020,6 +6020,38 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, AAA등급 ABS 3000억 원 추가 발행 성공 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20064588?ref=naver",
+    "description": "롯데건설이 공사대금채권을 활용한 자산유동화증권(ABS) 발행을 통해 3000억 원 규모의 자금 조달에 성공했다. 롯데건설은 준공이 임박한 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 기초자산으로 AAA...",
+    "published_at": "2026-07-07T09:29:00+09:00",
+    "cluster_id": "844f",
+    "publisher": "sedaily.com",
+    "title_clean": "롯데건설, AAA등급 ABS 3000억 원 추가 발행 성공",
+    "summary": "롯데건설이 공사대금채권을 기초자산으로 한 자산유동화증권(ABS) 3000억 원을 AAA등급으로 발행하여 자금 조달에 성공했다. 이는 건설사의 안정적인 자금 조달 수단을 확보한 사례로, 건설업계의 유동성 개선에 긍정적 신호를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T09:34:30+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, AAA 신용등급으로 3000억 규모 자산유동화증권 발행 - newscape.co.kr",
+    "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123145",
+    "description": "롯데건설이 3000억원대 자산유동화증권에 발행에 성공하며 안정성을 입증했다. 롯데건설은 준공을 앞둔 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 활용해 AAA 신용등급으로 3000억원 규모의...",
+    "published_at": "2026-07-07T09:28:00+09:00",
+    "cluster_id": "9ef0",
+    "publisher": "newscape.co.kr",
+    "title_clean": "롯데건설, AAA 신용등급으로 3000억 규모 자산유동화증권 발행",
+    "summary": "롯데건설이 AAA 신용등급으로 3000억원 규모의 자산유동화증권 발행에 성공했다. 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 활용한 이번 발행은 회사의 높은 신용도를 입증하는 것으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T09:34:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -17121,6 +17153,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "DL건설, 신용등급 A- 유지…영업익 개선으로 '재무 체력' 입증 - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20260707500043",
+    "description": "건설경기실사지수(CBSI)는 지난 4월 65.2로 하락했고 5월에는 71.5로 반등했지만 70선 초반에 머물렀다. CBSI는 기준선 100을 밑돌면 현재 경기를 부정적으로 보는 기업이 더 많다는 뜻이다. DL건설은 앞으로도 선별 수주와...",
+    "published_at": "2026-07-07T09:28:00+09:00",
+    "cluster_id": "db17",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "DL건설, 신용등급 A- 유지…영업익 개선으로 '재무 체력' 입증",
+    "summary": "DL건설이 신용등급 A-를 유지하며 영업익 개선으로 재무 건전성을 입증했다. 건설경기가 둔화된 가운데 선별 수주 전략으로 수익성을 확보하고 있는 것으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T09:34:30+09:00",
     "importance": 2
   },
   {
