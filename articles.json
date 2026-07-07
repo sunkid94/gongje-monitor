@@ -5848,6 +5848,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "전세가율 오르자 ‘매매 전환’ 늘었다…금융 혜택 갖춘 분양단지 관심 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10800890?ref=naver",
+    "description": "경남 김해시에서는 HDC현대산업개발이 ‘김해신문 센트럴 아이파크’를 분양 중이다. 계약금 5%와 1차 계약금 500만원 정액제, 발코니 무상 확장 등을 제공해 초기 자금 부담을 낮췄다. 경남 양산에서는 현대건설이...",
+    "published_at": "2026-07-07T14:08:00+09:00",
+    "cluster_id": "6a4d",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "전세가율 오르자 ‘매매 전환’ 늘었다…금융 혜택 갖춘 분양단지 관심",
+    "summary": "전세가율 상승에 따라 전세에서 매매로 전환하는 수요가 증가하면서, 건설사들이 낮은 계약금과 금융 혜택을 제공하는 분양단지로 대응 중이다. 초기 자금 부담 완화 전략으로 수분양 수요를 확보하려는 움직임이 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T14:14:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -18836,6 +18852,38 @@
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대한건설협회 경북도회·포항시종합건설업협회, 장학금 1500만원 기탁 - kbsm.net",
+    "link": "https://www.kbsm.net/news/view.php?idx=525862",
+    "description": "건설경기 침체와 원자재 가격 상승으로 업계의 어려움이 이어지는 가운데 대한건설협회 경상북도회와 포항시종합건설업협회가 지역 인재 육성을 위해 장학금을 기탁하며 따뜻한 나눔을 실천했다.대한건설협회...",
+    "published_at": "2026-07-07T14:08:00+09:00",
+    "cluster_id": "3140",
+    "publisher": "kbsm.net",
+    "title_clean": "대한건설협회 경북도회·포항시종합건설업협회, 장학금 1500만원 기탁",
+    "summary": "건설경기 침체와 원자재 가격 상승으로 어려움을 겪고 있는 건설업계에서 대한건설협회 경북도회와 포항시종합건설업협회가 지역 인재 육성을 위해 1500만원의 장학금을 기탁했다. 업계의 사회공헌 활동을 보여주는 사례이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T14:14:40+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충남도, 소규모 어항공사 안전관리 기준 마련 - 뉴스프리존",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FV25FaFhnU1lzeEVJbmJOdXE0aVE2MGRiYm5JaHZNMTIzTnR1VEhDNDRyR0pLYWJjU2Z5NVVFMzJSa203bXJyRmkyTUsyMEtXM0FaQmFfakJjWVZpOVA3Y050a0Jmemdjb3AxZVFYTzlnWG_SAXdBVV95cUxQdEE3bXYtc3F6XzQ0VVB6VTJ6UHV4cENXS3NoaVRvQnVXVHVGY19Wcy1tQ0NDOWNJY0pLbDZBWWJsc0JiSnprZzc0YWRpamdhaThxSXhjbDEzS1ExY3Z2VVEwamVwbVdjaHRCMUNDdVQ0UHlWOVNpRQ?oc=5",
+    "description": "충남도가 건설기술진흥법상 안전관리계획 수립 의무 대상에서 제외된 소규모 지방어항 공사에도 자체 안전관리계획을 적용하는 기준을 마련했다.도는 7일 일정 규모 이상 지방어항 공사 가운데 도서지역이나 고위험 해상작업이 포함된 사업을 자체 안전관리계획 수립 대상으로 지정해 관리한다고 밝혔다.",
+    "published_at": "2026-07-07T14:02:14+09:00",
+    "cluster_id": "d94d",
+    "publisher": "뉴스프리존",
+    "title_clean": "충남도, 소규모 어항공사 안전관리 기준 마련",
+    "summary": "충남도가 건설기술진흥법 의무 대상에서 제외된 소규모 지방어항 공사에 자체 안전관리계획을 적용하는 기준을 마련했다. 도서지역이나 고위험 해상작업이 포함된 일정 규모 이상 공사를 대상으로 지정해 안전관리를 강화한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-07T14:14:40+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 PF",
