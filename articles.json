@@ -5854,21 +5854,6 @@
     "importance": 7
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "박종학(전 대한기계설비건설협회 회장)씨 별세 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkSktjd1Ztam95aUgtM2Jic1dqRVNNbVN1a3RDSURueS0tQmJmYjhMNWZiZ3FSY0JSb1RqQnFSRXJtdTNTMk8yNUNHcmZUZGRtc1pFNNIBVEFVX3lxTFBkSktjd1Ztam95aUgtM2Jic1dqRVNNbVN1a3RDSURueS0tQmJmYjhMNWZiZ3FSY0JSb1RqQnFSRXJtdTNTMk8yNUNHcmZUZGRtc1pFNA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkSktjd1Ztam95aUgtM2Jic1dqRVNNbVN1a3RDSURueS0tQmJmYjhMNWZiZ3FSY0JSb1RqQnFSRXJtdTNTMk8yNUNHcmZUZGRtc1pFNNIBVEFVX3lxTFBkSktjd1Ztam95aUgtM2Jic1dqRVNNbVN1a3RDSURueS0tQmJmYjhMNWZiZ3FSY0JSb1RqQnFSRXJtdTNTMk8yNUNHcmZUZGRtc1pFNA?oc=5\" target=\"_blank\">박종학(전 대한기계설비건설협회 회장)씨 별세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-    "cluster_id": "d90f",
-    "publisher": "한국경제",
-    "title_clean": "박종학(전 대한기계설비건설협회 회장)씨 별세",
-    "summary": "대한기계설비건설협회의 전임 회장인 박종학씨가 별세했다. 건설업계의 주요 인물 손실로 업계에 애도의 분위기가 조성되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-07T20:52:30+09:00",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20467,6 +20452,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대우건설 \"협력회사 안전관리 역량 강화하고 안전 중심 건설문화 확산한다\" - 한국NGO신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pd1FLTGpRRmJteUVDY1E4R2tLUnpMYlIwWV9UdFhZZC1rZnhiVG0wekRYeDF3dFlraG1uQno1NFNnb2dEbGhfc0pFN1Z0TkcydjA1RThtUlFITFFRYmFsZVZ3U3B0VFhm?oc=5",
+    "description": "건설 현장에서 중대재해가 지속적으로 발생하고 있는 가운데 대우건설(대표이사 김보현)이 협력회사의 안전관리 역량을 강화하고, 안전 중심의 건설문화를 확산하기 위해",
+    "published_at": "2026-07-07T16:21:17+09:00",
+    "cluster_id": "fbe3",
+    "publisher": "한국NGO신문",
+    "title_clean": "대우건설 \"협력회사 안전관리 역량 강화하고 안전 중심 건설문화 확산한다\"",
+    "summary": "대우건설이 협력회사의 안전관리 역량 강화와 안전 중심 건설문화 확산을 추진하고 있다. 건설 현장의 지속적인 중대재해 문제 해결을 위한 업계 차원의 안전 개선 노력이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T21:09:33+09:00",
     "importance": 2
   },
   {
