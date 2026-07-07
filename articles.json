@@ -5900,6 +5900,22 @@
     "importance": 7
   },
   {
+    "keyword": "엘지씨엔에스",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[속보] LG씨엔에스, LG전자와 1,897억원 규모 'Physical AI 인프라' 공급계약 체결 - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03ZWNQaVFwZ0g5VFlKa0pQYTJJS2R1TXBrTVd0LXplUW5XV1hnMzFFb3A4MFl0UnA5UXFSOERkUHhkNDdUOUpKNzJ1V1RBV0dTMFNqalhwZjM2MG1EMXhfUEdRTWVYMGlf?oc=5",
+    "description": "[CBC뉴스] LG씨엔에스(LG CNS)가 LG전자와 약 1,897억원 규모의 Physical AI 인프라 공급계약을 체결했다고 7일 공시했다.이번 계약은",
+    "published_at": "2026-07-07T17:37:32+09:00",
+    "cluster_id": "12a6",
+    "publisher": "CBC뉴스",
+    "title_clean": "[속보] LG씨엔에스, LG전자와 1,897억원 규모 'Physical AI 인프라' 공급계약 체결",
+    "summary": "LG씨엔에스가 LG전자와 1,897억원 규모의 Physical AI 인프라 공급계약을 체결했다. AI 기술 고도화에 따른 데이터센터 및 인프라 구축 수요 증가로 기계설비건설 분야의 사업 기회가 확대되는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T17:44:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20180,6 +20196,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국가보안법 폐지해야 진짜 '민주주의', 진짜 '자주' - tongilnews.com",
+    "link": "http://www.tongilnews.com/news/articleView.html?idxno=216919",
+    "description": "지난해 이재명 정부 출범 이후 첫 8.15 광복절 특별사면으로 전국건설노동조합과 화물연대 조합원, 농민, 노점상 등 184명에 대한 특별사면이 이뤄졌으나, 윤석열이 휘두른 공안탄압에 의해 국가보안법이 적용돼 구속되거나...",
+    "published_at": "2026-07-07T17:40:00+09:00",
+    "cluster_id": "53c8",
+    "publisher": "tongilnews.com",
+    "title_clean": "국가보안법 폐지해야 진짜 '민주주의', 진짜 '자주'",
+    "summary": "이재명 정부가 건설노동자 등 184명에 대해 특별사면을 단행했으나, 국가보안법 적용으로 구속된 인물들은 제외된 상황. 건설업계 노동자들의 법적 지위 개선과 관련된 정치적 논쟁.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-07T17:44:16+09:00",
     "importance": 2
   },
   {
