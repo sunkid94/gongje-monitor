@@ -5869,6 +5869,38 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "7월 2주 주요 제조업 전망 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41097",
+    "description": "2029년 1월까지 인도 예정 - 삼성중공업은 어드밴티지 탱커스에게 수에즈막스 원유탱커 2척을 척당 8,830만 달러(약 1,354억 원)에 수주함. 수에즈막스 원유탱커는 만재 상태에서 수에즈 운하를 통과할 수 있는 15만...",
+    "published_at": "2026-07-07T20:08:00+09:00",
+    "cluster_id": "470e",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "7월 2주 주요 제조업 전망",
+    "summary": "삼성중공업이 어드밴티지 탱커스로부터 수에즈막스 원유탱커 2척을 약 2,708억 원 규모로 수주했으며, 2029년 1월까지 인도 예정이다. 이는 조선 및 기계설비건설 부문의 수주 확대로 작용할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-07T20:19:37+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부산지역 시민단체, 가덕도신공항 취소소송 앞두고 상경 투쟁 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=344472",
+    "description": "지난 5일 가덕도신공항 건설 수의계약에 참가한 대우건설컨소시엄 내 건설업체들이 국토부와 대우건설에 \"현재 계약금액으로는 공사를 진행할 수 없다\"며 공사비 현실화 탄원서를 제출했다. 대우건설도 \"지역 업체들의...",
+    "published_at": "2026-07-07T20:10:00+09:00",
+    "cluster_id": "f23a",
+    "publisher": "greened.kr",
+    "title_clean": "부산지역 시민단체, 가덕도신공항 취소소송 앞두고 상경 투쟁",
+    "summary": "가덕도신공항 건설 수의계약에 참가한 대우건설컨소시엄 내 건설업체들이 현재 계약금액으로는 공사 진행이 불가능하다며 공사비 현실화를 탄원했다. 부산 시민단체는 가덕도신공항 취소소송을 앞두고 상경 투쟁을 벌이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-07T20:19:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
