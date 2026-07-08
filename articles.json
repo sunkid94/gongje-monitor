@@ -4977,23 +4977,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 중동 상황 대응 3000억원 규모 특별융자 실시 - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2054640",
-    "description": "건설공제조합이 중동 전쟁 장기화로 어려움을 겪는 조합원을 지원하기 위해 총 3000억원 규모의 특별융자를 실시한다. 이번 특별융자는 중동 사태와 호르무즈 해협 봉쇄 우려 등에 대외적인 요인에 따른 원자재 수급...",
-    "published_at": "2026-06-09T00:08:00+09:00",
-    "cluster_id": "e67f",
-    "publisher": "kado.net",
-    "title_clean": "건설공제조합, 중동 상황 대응 3000억원 규모 특별융자 실시",
-    "summary": "건설공제조합이 중동 전쟁 장기화와 호르무즈 해협 봉쇄 우려 등으로 어려움을 겪는 조합원을 지원하기 위해 3000억원 규모의 특별융자를 실시한다. 원자재 수급 차질 등 대외적 요인에 대응하는 지원 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-09T00:12:35+09:00",
-    "event_label": "건설공제조합 중동 상황 대응 3000억원 규모 특별융자 실시",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20955,6 +20938,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-05T18:48:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데마저 떠난다‘미분양 무덤’ 부산 위기감 고조 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1783498553&code=11151500&cp=nv",
+    "description": "대한민국 제2의 도시 부산이 수년째 계속되는 건설경기 악화에 허덕이고 있다. 최근 부산과 밀접한 관계인 롯데그룹 산하 롯데건설 등 대형업체가 인력 철수를 결정하면서 위기감은 더 고조되는 모양새다. 8일 부산...",
+    "published_at": "2026-07-09T00:13:00+09:00",
+    "cluster_id": "aff0",
+    "publisher": "kmib.co.kr",
+    "title_clean": "롯데마저 떠난다‘미분양 무덤’ 부산 위기감 고조",
+    "summary": "부산 건설경기가 수년째 악화되면서 미분양 문제가 심화되고 있다. 롯데건설 등 대형 건설업체까지 인력 철수를 단행하며 지역 건설업계의 위기감이 고조되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-09T00:19:22+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
