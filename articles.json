@@ -20974,6 +20974,21 @@
     "importance": 4
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[아유경제_부동산] 현대건설, 나노 입자 기반 조강 콘크리트 기술 녹색인증 획득 - 아유경제",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bE1DV1ROSzJ2cEMtcndYOGxDZHNIalY0amVBa3QzZjFnekM5TW5WU1cyRDdraldCM1JYYm9pN180cS0xbFNadDE3OU1lbXZQQ0c2bnNSTXExOENRQ24zWWJQVXNsWXJP?oc=5",
+    "description": "[아유경제=조명의 기자] 현대건설은 최근 콘크리트 양생을 위한 에너지 사용을 대폭 줄일 수 있는 나노 입자 기반 조강 콘크리트 기술로 녹색기술 ...",
+    "cluster_id": "a771",
+    "publisher": "아유경제",
+    "title_clean": "[아유경제_부동산] 현대건설, 나노 입자 기반 조강 콘크리트 기술 녹색인증 획득",
+    "summary": "현대건설이 나노 입자 기반 조강 콘크리트 기술로 녹색인증을 획득했다. 이 기술은 콘크리트 양생 시 에너지 사용을 대폭 줄일 수 있어 건설업계의 탄소중립 추진에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T21:29:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32133,21 +32148,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T23:27:44+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "홈플러스 파산 초읽기…건설사 PF보증 7163억원 '촉각' [fn마켓워치] - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wWXdOb2JsM2w2WGVQd01EbmZFU29XLXB3b2l5bTVJSElGSEdVQlhUd3pTWHFqSG9yOWVpMzk5QkxCODQ5VHlsOENRZUdnVmtfcElEc2ctT0dLQQ?oc=5",
-    "description": "홈플러스의 기업회생절차 폐지로 파산 가능성이 커지면서 점포 개발사업에 참여한 건설사들의 프로젝트파이낸싱 우발채무가 현실화될 수 있다는 우려가 커지고 있다.특히 홈플러스 점포를 기초자산으로 한 PF 사업장의 임대료 수입이 끊길 경우 금융비용 부담이 건설사..",
-    "published_at": "2026-07-03T18:45:45+09:00",
-    "cluster_id": "839e",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "홈플러스 파산 초읽기…건설사 PF보증 7163억원 '촉각' [fn마켓워치]",
-    "summary": "홈플러스의 기업회생절차 폐지로 파산 가능성이 높아지면서 점포 개발에 참여한 건설사들의 PF 보증채무 7163억원이 현실화될 위기에 직면했다. 임대료 수입 단절 시 건설사들의 금융비용 부담이 급증할 것으로 우려된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-03T23:27:44+09:00",
-    "importance": 4
   }
 ]
