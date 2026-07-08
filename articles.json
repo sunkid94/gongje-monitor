@@ -21012,6 +21012,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "인천시회, 산곡6구역 주택재개발정비사업 등에 지역업체 하도급 참여 확대 요청 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325160",
+    "description": "대한전문건설협회 인천시회(회장 조흥수)는 7일과 8일, 인천시 건설심사과와 함께 2개 현장을 잇달아 방문해 지역업체 하도급 참여 확대 방안을 논의했다.방문한 곳은 산곡6구역 주택재개발정비사업(시공사 GS건설·현대건설·코오롱글로벌, 2706세대)과 힐스테이트 구월아트파크(시공사 현대엔지니어링, 496세대) 현장이다.조흥수 회장은 “중동전쟁 장기화와 건설경기 침체로 건설업계 전반의 어려움이 가중되고 있으며, 인천에서 발주되는 공사의 상당 부분을 외지업체가 수주하면서 지역업체들의 경영난이 심화되고 있다”고 전문건설업계의 어려움을 전했다.",
+    "published_at": "2026-07-08T17:57:01+09:00",
+    "cluster_id": "6f5f",
+    "publisher": "대한전문건설신문",
+    "title_clean": "인천시회, 산곡6구역 주택재개발정비사업 등에 지역업체 하도급 참여 확대 요청",
+    "summary": "대한전문건설협회 인천시회가 산곡6구역 주택재개발정비사업 등 2개 현장을 방문해 지역업체의 하도급 참여 확대를 요청했다. 중동전쟁 장기화와 건설경기 침체로 인한 업계 어려움과 외지업체의 수주 확대로 인한 지역업체의 경영난 심화를 호소했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T18:00:14+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "공공계약의 신뢰, 투명성과 공정성에서 완성된다 - inews365.com",
     "link": "https://www.inews365.com/news/article.html?no=926657",
     "description": "최근 건설경기 악화로 임금체불 위험이 커지는 상황에서 계약서상 노무비 기재를 의무화했다. 건설근로자의 임금이 법적으로 보호받을 수 있도록 하기 위한 적극행정의 일환이다. 시설물을 실제 운영하는 기관 중심으로...",
@@ -32134,21 +32150,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-03T18:27:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "박성현 캠코 상임감사, 나라키움 천안 통합청사 현장 '특별 안전점검' - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UdHBzZzFWUkloZWktQlVxdWJkMU5vdExnTGIzMjVhaWEzM0kyNEZoU2RkQjhRUF9KQUFmejdYV3pLYVN5OVFWSUpfSHk0ZXRLdG03d2gzSDNfYWNhU1ZfMGZLTTRsdDN1YjJGZDFR?oc=5",
-    "description": "(부산=국제뉴스) 김옥빈 기자 = 캠코(한국자산관리공사)가 하절기 집중호우와 폭염에 대비해 건설현장 안전관리 실태 점검에 나섰다.캠코는 3일, 박성현 상임감사가 충남 천안시 불당동에 위치한",
-    "published_at": "2026-07-03T17:57:58+09:00",
-    "cluster_id": "c86b",
-    "publisher": "gukjenews.com",
-    "title_clean": "박성현 캠코 상임감사, 나라키움 천안 통합청사 현장 '특별 안전점검'",
-    "summary": "캠코가 나라키움 천안 통합청사 건설현장에 대한 특별 안전점검을 실시했다. 하절기 집중호우와 폭염에 대비하기 위한 건설현장 안전관리 실태 점검으로, 건설업계의 안전 관리 강화 움직임을 보여준다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-03T18:07:49+09:00",
-    "importance": 2
   }
 ]
