@@ -20958,6 +20958,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "추미애 경기도지사 \"도민 안전부터 챙겨라\" - 팍스경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oSXVVNklNa3N3cndfbm9CbUwzdlNUMjZlZUxRU0prMlY4Z0J5YjlULXN6ZzNJQVdZbWFkbXJCNC13RFFIZG5fQXZlUm1SV2xwblNrX2ZZRHd0cm9lNlFoRHdUV0FzVEU?oc=5",
+    "description": "[경기 수원=팍스경제TV] 경기도가 추미애 도지사의 지시에 따라 도내 건설공사장과 재해 취약지역을 대상으로 집중 점검 실시한다고 8일 밝혔습니다.이번 조치는 도내 한 공사현장에서 방수포를 제대로 설치하지 않은 채 토사를 적치해 안전사고 우려가 있다는 언론 보도에 따른 후속 대응입니다. 추미애 지사는 해당 공사장에 즉각 안전조치를 시행하는 한편 산사태 우려 지역과 기존 호우 피해지역, 각종 시설물까지 도민 안전과 관련된 모든 현장을 점검하라고 지시했습니다.이에 따라 경기도는 용인시 해당 공사장에 즉시 안전조치를 요청하고 31개 시군에",
+    "cluster_id": "1a2a",
+    "publisher": "팍스경제TV",
+    "title_clean": "추미애 경기도지사 \"도민 안전부터 챙겨라\"",
+    "summary": "추미애 경기도지사가 도내 건설공사장의 안전사고 우려에 따라 집중 점검을 지시했습니다. 도내 31개 시군의 건설공사장과 재해 취약지역에 대한 전반적인 안전점검이 실시될 예정입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T19:19:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32132,22 +32147,6 @@
     "summary": "박성현 캠코 상임감사는 기후위기로 인한 자연재해 증가에 따라 공공 건설현장의 안전관리 강화의 중요성을 강조했다. 집중호우, 산사태, 폭염 등으로 인한 인명·재산 피해를 예방하기 위해 공공기관의 선제적 안전관리가 필요하다고 주장했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-03T20:57:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "부동산 PF 금융규제 연장...정상 사업장 지원 강화 - tokenpost.kr",
-    "link": "https://www.tokenpost.kr/news/economy/374871",
-    "description": "프로젝트파이낸싱은 부동산 개발 사업의 미래 수익성을 보고 자금을 빌려주는 방식인데, 시장이 얼어붙으면 공사가 중단되거나 자금 회수가 어려워질 수 있어 금융시장과 건설경기 모두에 영향을 준다. 정부는 올해...",
-    "published_at": "2026-07-03T20:16:00+09:00",
-    "cluster_id": "8ca3",
-    "publisher": "tokenpost.kr",
-    "title_clean": "부동산 PF 금융규제 연장...정상 사업장 지원 강화",
-    "summary": "정부가 부동산 PF 금융규제를 연장하면서 정상 사업장에 대한 지원을 강화하기로 했다. PF 시장 경색으로 인한 건설경기 위축을 완화하기 위한 조치로, 금융시장 안정과 업계 지원의 균형을 맞추려는 정책이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-03T20:17:45+09:00",
     "importance": 2
   }
 ]
