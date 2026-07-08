@@ -4994,6 +4994,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "AI 인프라 경쟁 바다로… HD현대, 부유식 데이터센터 기술 확보 나서 - biztribune.co.kr",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=355696",
+    "description": "삼성중공업은 올해 50메가와트(MW)급 부유식 데이터센터 개념설계 인증(AiP)을 획득하고 글로벌 선사 및 선급과 협력을 확대하고 있으며, HD현대 역시 최근 미국 데이터센터용 발전설비 공급 계약을 체결한 데 이어 이번 FDC...",
+    "published_at": "2026-07-08T20:02:00+09:00",
+    "cluster_id": "12df",
+    "publisher": "biztribune.co.kr",
+    "title_clean": "AI 인프라 경쟁 바다로… HD현대, 부유식 데이터센터 기술 확보 나서",
+    "summary": "삼성중공업과 HD현대가 부유식 데이터센터 기술 개발에 나서고 있으며, 삼성중공업은 50MW급 개념설계 인증을 획득하고 HD현대는 미국 발전설비 공급 계약을 체결했다. AI 인프라 수요 증가에 따른 새로운 해양건설 시장 기회가 형성되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T20:09:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20941,20 +20957,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "[르포] 성수4지구 시공사 선정 총회, 마지막 총력전…사장도 총출동 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260705000097",
-    "description": "이번 총회에는 오일근 롯데건설 사장과 김보현 대우건설 사장 등 양사 최고경영자(CEO)들이 직접 현장을 찾아 조합원들과 접촉하며 마지막 표심 잡기에 사활을 걸었다. 5일 오후 3시 서울 강남구 역삼동...",
-    "published_at": "2026-07-05T17:36:00+09:00",
-    "cluster_id": "4589",
-    "publisher": "newspim.com",
-    "title_clean": "[르포] 성수4지구 시공사 선정 총회, 마지막 총력전…사장도 총출동",
-    "summary": "성수4지구 시공사 선정을 위한 조합원 총회에서 롯데건설과 대우건설의 CEO들이 직접 참석하여 수주 확보를 위한 마지막 영업활동을 펼치고 있다. 양사 경영진의 총력전으로 수주 경쟁이 치열하게 전개되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-05T17:48:12+09:00",
-    "importance": 3
+    "title": "[위험천만 스쿨존] 들쑥날쑥 ‘미끄럼방지포장’ 규정, 국가 관리 틀 속... - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026070818344741817",
+    "description": "인덕대 최준성 스마트건설방재학과 교수는 “미끄럼방지포장은 도로 안전에 필수적 환경인만큼 정량화되고 신뢰성 있는 성능평가체계를 갖춰야 한다”고 강조했다. ■위험도 따라 차별화도 모든 구간을 동일하게...",
+    "published_at": "2026-07-08T20:00:00+09:00",
+    "cluster_id": "3802",
+    "publisher": "busan.com",
+    "title_clean": "[위험천만 스쿨존] 들쑥날쑥 ‘미끄럼방지포장’ 규정, 국가 관리 틀 속...",
+    "summary": "스쿨존의 미끄럼방지포장이 규정이 불균일하고 성능평가체계가 미흡한 것으로 지적되었다. 전문가들은 도로 안전을 위해 정량화되고 신뢰성 있는 평가기준 수립의 필요성을 강조하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T20:09:02+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32130,22 +32146,6 @@
     "summary": "베트남 건설노동조합이 2026년까지 연간 1,200개의 혁신 사업을 추진하여 최소 1,000억 VND의 경제 효과를 창출할 계획이다. 이를 통해 노동 생산성 향상과 근로자 소득 증대를 목표로 하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-03T22:17:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김윤덕 장관, 신탄진 맥포터널 개량현장 상황 점검 - 환경일보",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdTd3WnVCMWlnbWN0LTNOZ0VieFJfTFhkRXVlTU11LXRxVElYTHlRa3JoWGFreGRLSE1XWWQ1RkM1eVQ4bXR4OXViYVlwWV92aTRjUTNnVExsRGY3LWpZZDhWaGNGUk5h?oc=5",
-    "description": "[환경일보] 김윤덕 국토교통부 장관은 7월 3일 오전, 신탄진 맥포터널 개량현장을 찾아 수해복구 및 재해예방 실태를 점검했다.신탄진 맥포터널 복구사업은 2023년 7월 14일 경부선 신탄진-매포 간 상선 운행 중인 무궁화 회송열차가 선로 내 유입된 토사와 접촉해 궤도 이탈한 사고 발생 이후, 재해복구사업 일환으로 추진됐다.김 장관은 국가철도공단 등 현장 관계자들과 배수로, 격자블록(산사태 방지) 등 재해 예방 시설을 직접 점검하고, 재해예방시설사업 추진현황 등 이번 장마철 대비 수방대책을 보고 받았다.김 장관은 현장점검을 마친 뒤",
-    "published_at": "2026-07-03T15:33:24+09:00",
-    "cluster_id": "e42a",
-    "publisher": "환경일보",
-    "title_clean": "김윤덕 장관, 신탄진 맥포터널 개량현장 상황 점검",
-    "summary": "김윤덕 국토교통부 장관이 2023년 무궁화 열차 탈선사고 이후 추진 중인 신탄진 맥포터널 개량현장을 점검했다. 배수로, 격자블록 등 재해예방시설 상황을 확인하고 장마철 수방대책을 보고받았다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-03T21:47:32+09:00",
     "importance": 2
   }
 ]
