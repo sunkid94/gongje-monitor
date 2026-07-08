@@ -20974,6 +20974,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[오늘의 인천소사] 인천 태화건설 최종 부도 - 인천투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KRkE4QVhwYklsT2JKbnF5ZmVFYkM5cWlOSnVCOTNDTjFrRWM4NUE5Q1h3YU8ybTZpcDVKZU9tSHpPcFBTUHN3TmxvMU1GbVlPRHZ4ckxla0RUcnkxbHJjRWw2Slotc2dyWG5zY01teEI?oc=5",
+    "description": "인천투데이=박길상 기자 | 28년 전 오늘 1998년 7월 9일, 인천지역 중견건설업체인 태화건설이 부도를 냈다.이날 태화건설은 경기은행 주안지점으로 돌아온 어음",
+    "published_at": "2026-07-09T08:30:00+09:00",
+    "cluster_id": "53da",
+    "publisher": "인천투데이",
+    "title_clean": "[오늘의 인천소사] 인천 태화건설 최종 부도",
+    "summary": "1998년 7월 9일 인천의 중견건설업체 태화건설이 부도를 냈다. 경기은행 주안지점으로 어음이 반환되면서 건설업계의 부실 사례가 기록되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-09T08:39:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32137,21 +32153,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-05T11:42:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 해외건설 5개년 계획 발표…첫 시험대는 ‘미국’ - 데일리안",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QckI5ZXZFVTBhXzZnczk0R25TQlFwQ25CUm1yXy1XcGt5U2FJT2dPRkxyd3NCaU0zMGpLSUllSnRacWdLQXcxdlFPTkYxS2wxRVZ3V1FmUdIBjwJBVV95cUxQWXJ6a1NNeTdTS2lWbjZrSXJIVHE3Z20xXzNrOUpQeDRMWGlaY2Q4UzM0WkJDMUZLMXh5dHBReWI3YWQ1OTh1bEVSMzVhSFV3SmZVWTdOUzhQX19ic3l0OVVsSTZ5Q3dxRDIxUFhqZkFNMG1wSWFpeTkwX3R3R3ZsTWVMNFJwSjFza284cm55M2ZBbWh4REdOSER0XzNSLWY0ZTFEbndxY0lRUGlOdlhMdVgxT1JBOU5BSnIxRnpfTGQwMWoxSWxrQWxJU0k1OGRmTlcxNk05RkFFSDk1dkhFOURKODA5ODB5Zmw4SmtNdlYzR29BSUlnMV9yNWplTm1jOTZfNGN1SG5RZllyU3E4?oc=5",
-    "description": "정부가 미국 플랜트 사업을 공략한다. 해외건설기본계획을 수립해 5년 간 정책방향을 정하고 한미 협력 수주지원단을 파견해 미국 건설시장에서 경쟁력을 확대한다.국토부는 해외건설 산업의 진흥을 위한 향후 5년 간의 중장기 정책방향과 추진과제를 담은 ‘제5차 해외건설진흥기본계획’을 수립했다고 5일 밝혔다.이번 기본계획은 지난해 12월 발표한 ‘새정부 해외건설 정책",
-    "published_at": "2026-07-05T11:00:00+09:00",
-    "cluster_id": "da1e",
-    "publisher": "데일리안",
-    "title_clean": "국토부, 해외건설 5개년 계획 발표…첫 시험대는 ‘미국’",
-    "summary": "국토부가 5년간의 해외건설 중장기 정책을 담은 기본계획을 수립하고, 미국 플랜트 사업을 집중 공략하기 위해 한미 협력 수주지원단을 파견한다. 정부의 적극적인 해외건설 시장 확대 정책으로 건설업계의 수주 기회 확대가 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-05T11:27:57+09:00",
-    "importance": 2
   }
 ]
