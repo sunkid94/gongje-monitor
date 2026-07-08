@@ -21267,6 +21267,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "민주노총 \"진짜 사용자 나와라, 회피하면 투쟁\"…15일 총파업 선언 - imaeil.com",
+    "link": "https://www.imaeil.com/page/view/2026070813095974781",
+    "description": "이영철 건설산업연맹 위원장은 \"하청건설노동자의 구속과 죽음이라는 건설현장 투쟁의 마지막 지점에는 발주처와 원청이 있었다\"며 \"모든 건설노동자가 안전하고 인간답게 사는 건설현장을 만들기 위해 15일 총파업을...",
+    "published_at": "2026-07-08T13:11:00+09:00",
+    "cluster_id": "c738",
+    "publisher": "imaeil.com",
+    "title_clean": "민주노총 \"진짜 사용자 나와라, 회피하면 투쟁\"…15일 총파업 선언",
+    "summary": "민주노총 건설산업연맹이 하청 건설노동자의 안전 문제를 지적하며 15일 총파업을 선언했다. 발주처와 원청의 책임을 강조하며 건설현장의 안전 개선을 요구하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T13:14:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32151,20 +32167,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T12:07:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "「건설산업기본법」 위반 건설사업자 행정처분(영업정지) 변경 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NQU9fT2FQWEJzNUR0NzVsZWN1aWtqUl9XZUxZNlFrU2Z2N2VJTWJiVTRRQWM0WTVFOVpxYVl2SVBxSDF6WFJqS0FqWWh1d3N0b1g2RXhXek5ocVRNQmtXR0NXOW55LXVRMFkxWmEzSVpGQ0pqdTVPZGFzSXozV2c?oc=5",
-    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
-    "cluster_id": "71ab",
-    "publisher": "경기도청",
-    "title_clean": "「건설산업기본법」 위반 건설사업자 행정처분(영업정지) 변경 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스",
-    "summary": "경기도가 건설산업기본법 위반 건설사업자에 대한 영업정지 행정처분을 변경 공고했습니다. 건설업계의 법규 준수를 강화하는 조치로, 위반 사항에 대한 행정 제재가 이루어지고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-03T12:07:49+09:00",
-    "importance": 4
   }
 ]
