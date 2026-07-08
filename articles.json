@@ -5544,6 +5544,38 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한미일, SMR 수출 동맹 띄웠다… AI 시대 전력시장 정조준 - ajunews.com",
+    "link": "https://www.ajunews.com/view/20260708090808439",
+    "description": "한국은 아랍에미리트 바라카 원전을 완공한 시공 실적에, 뉴스케일파워 등 미국 SMR 개발사에 단조품과 모듈을 공급하는 두산에너빌리티 중심의 공급망을 갖고 있다. 산업 차원의 협력은 이미 눈에 보이는 단계다....",
+    "published_at": "2026-07-08T09:14:00+09:00",
+    "cluster_id": "d1fd",
+    "publisher": "ajunews.com",
+    "title_clean": "한미일, SMR 수출 동맹 띄웠다… AI 시대 전력시장 정조준",
+    "summary": "한미일이 SMR(소형모듈원전) 수출 동맹을 구성하며 AI 시대 전력시장 확대에 대응하고 있다. 한국은 UAE 바라카 원전 시공 실적과 두산에너빌리티의 미국 SMR 공급망을 바탕으로 산업 차원의 협력을 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T09:19:07+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'1조 대어' 송파 마천5구역 또 유찰되나…8월 최종입찰 분수령 - inews24.com",
+    "link": "http://www.inews24.com/view/1983273",
+    "description": "지난 4월 1차 설명회 당시 △현대건설 △DL이앤씨 △롯데건설 △IPARK현대산업개발 △금호건설 △제일건설 등 대형사 6곳이 몰렸던 분위기와 대조적이다. 마천5구역 재개발은 송파구 마천동 45번지 일대 10만6514.4...",
+    "published_at": "2026-07-08T09:15:00+09:00",
+    "cluster_id": "7736",
+    "publisher": "inews24.com",
+    "title_clean": "'1조 대어' 송파 마천5구역 또 유찰되나…8월 최종입찰 분수령",
+    "summary": "송파 마천5구역 재개발 사업이 2차 입찰에서 관심 저하를 보이고 있으며, 8월 최종입찰이 성패의 분수령이 될 전망이다. 1차 설명회 당시 대형 건설사 6곳이 몰렸던 것과 달리 현재 유찰 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T09:19:07+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20686,6 +20718,22 @@
     "summary": "삼성중공업이 오세아니아 선사로부터 2,734억 원 규모의 원유운반선 2척을 수주했다. 올해 누적 수주액은 98억 달러로 연간 목표 139억 달러의 71%를 달성했으며, 상선 부문에서 목표 달성이 임박한 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-02T16:03:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한국건설안전학회, 스마트건설 심포지엄 '성료' - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=337236",
+    "description": "박문서 한국건설안전학회 회장이 지난 6일 일산 킨텍스 제2전시장에서 열린 'AI와 건설기계·로봇의 지능형 융합, 스마트건설 기반 자율 안전관리 체계 구축' 심포지엄에서 환영사를 하고 있다.(사진제공...",
+    "published_at": "2026-07-08T09:16:00+09:00",
+    "cluster_id": "3e9a",
+    "publisher": "국토일보",
+    "title_clean": "한국건설안전학회, 스마트건설 심포지엄 '성료'",
+    "summary": "한국건설안전학회가 AI와 건설기계·로봇의 지능형 융합을 통한 스마트건설 기반 자율 안전관리 체계 구축을 주제로 심포지엄을 개최했다. 업계의 안전관리 기술 고도화와 스마트화 추진을 논의하는 자리로, 건설산업의 혁신적 안전체계 구축 방향을 제시했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T09:19:07+09:00",
     "importance": 2
   },
   {
