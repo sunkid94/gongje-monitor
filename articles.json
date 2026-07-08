@@ -20940,6 +20940,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도, 장마철 위험 공사장 정조준…`도민제보시스템` 본격 가동 - 경기평화신문",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45S014WWxpRTl5am9sWmpEOWgwTUtQZ1V4QkgzZlF4aU9LUGY0ZTVIVWVycFA4Q3hxRFZrLWxfV1ZfOTNvcG82Vm5R?oc=5",
+    "description": "지난 6일 경기도청 재난안전대책본부에서 추미애 경기도지사가 여름철 풍수해 대비 종합 대책 관련 보고를 받고 있다. 사",
+    "published_at": "2026-07-08T20:50:00+09:00",
+    "cluster_id": "4aa5",
+    "publisher": "경기평화신문",
+    "title_clean": "경기도, 장마철 위험 공사장 정조준…`도민제보시스템` 본격 가동",
+    "summary": "경기도가 장마철 공사장 안전사고 예방을 위해 도민제보시스템을 본격 가동하고 있다. 위험 공사장에 대한 적극적인 감시 및 적발 체계를 강화하는 조치로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-09T03:04:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32132,21 +32148,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-04T14:27:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OS3NSMHFOOFd3dTBjU1NhUWpfQWNFWkstdmdNUzZuNFdBSlQycFhlcTQ4TGNSTkh2QkxlMUhfY19OUGdiOW50a0VtNzFma0Flb3VKMVFCRmFxcVE?oc=5",
-    "description": "광명=에너지경제신문 강근주기자 박승원 광명시장은 “공사는 속도보다 안전이 우선``이라며 건설 현장 안전관리 중요성을 2일 거듭 강조했다. 이날 박승원 시장은 시청 대회의실에서 열린..",
-    "published_at": "2026-07-04T10:20:33+09:00",
-    "cluster_id": "a710",
-    "publisher": "에너지경제신문",
-    "title_clean": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
-    "summary": "박승원 광명시장이 건설 현장 안전관리의 중요성을 강조하며 '공사는 속도보다 안전이 우선'이라는 입장을 표명했다. 시청 대회의실에서 안전 관련 회의를 개최하여 건설 현장의 안전 관리 강화를 주문했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-04T10:27:38+09:00",
-    "importance": 4
   }
 ]
