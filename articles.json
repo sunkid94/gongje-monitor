@@ -5302,6 +5302,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "대우건설, 이라크 알포 신항 연결도로 최종 준공...핵심 물류축 구축 - asiaa.co.kr",
+    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=254614",
+    "description": "대우건설은 이라크 남부 알포 신항과 움카스르를 연결하는 총연장 62㎞ 규모의 고속도로 건설사업을 최종 준공했다고 15일 밝혔다. 대우건설은 발주처인 이라크 항만청(GCPI)으로부터 최종 준공승인서(Performance...",
+    "published_at": "2026-07-08T12:38:00+09:00",
+    "cluster_id": "a163",
+    "publisher": "asiaa.co.kr",
+    "title_clean": "대우건설, 이라크 알포 신항 연결도로 최종 준공...핵심 물류축 구축",
+    "summary": "대우건설이 이라크 알포 신항과 움카스르를 연결하는 62㎞ 규모의 고속도로 건설사업을 최종 준공했다. 이는 이라크 주요 물류 인프라 구축으로 해외 대형 프로젝트 수행능력을 입증하는 성과이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T12:44:07+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "대우건설, 송내1-1구역 변경계약 체결 공시 - arunews.com",
     "link": "https://www.arunews.com/news/articleView.html?idxno=64693",
     "description": "대우건설이 경기 부천시 송내1-1구역 재건축조합과 변경계약을 체결했다고 지난 7일 공시했다. 계약금액은 2,574억5,729만7,200원으로 최근 매출액 대비 3.16%에 해당하는 금액이다. 연면적이 소폭 증가함에 따라 금액도...",
@@ -21251,20 +21267,20 @@
     "importance": 3
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "'파주메디컬클러스터'에 '조선대병원' 들어올 듯···시민 숙원 해결 '... - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=337043",
-    "description": "한편 2020년 시작된 파주메디컬클러스터는 진통 끝에 2024년 11월 HDC현대산업개발(주)이 1차 택지개발 사업(공동주택 2BL 신축공사) 시공사로 확정돼 2025년 10월 착공해 본격적인 공사에 들어갔다. 파주메디컬클러스터...",
-    "published_at": "2026-07-03T15:06:00+09:00",
-    "cluster_id": "73b7",
-    "publisher": "국토일보",
-    "title_clean": "'파주메디컬클러스터'에 '조선대병원' 들어올 듯···시민 숙원 해결 '...",
-    "summary": "2020년부터 진행되어온 파주메디컬클러스터 프로젝트가 HDC현대산업개발의 1차 택지개발 사업 수주로 본격화되었다. 2025년 10월 착공 예정으로 공동주택 건설을 시작하며 대규모 건설 수주 기회가 창출되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T15:07:56+09:00",
-    "importance": 2
+    "title": "개정 노조법 4개월인데 원청교섭 성사 단 4곳, 민주노총이 '7.15 총파업'... - worknworld.kctu.org",
+    "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509638",
+    "description": "공공부문 비정규직, 건설노동자, 보건의료계 하청노동자들이 총파업을 준비중이다. 총파업을 넘어 하반기 총력투쟁까지 내다보고 있다. 건설현장의 경우, 총파업 결의가 오히려 임금·단체협약 요구를 넘어서고 있다는...",
+    "published_at": "2026-07-08T12:36:00+09:00",
+    "cluster_id": "27c9",
+    "publisher": "worknworld.kctu.org",
+    "title_clean": "개정 노조법 4개월인데 원청교섭 성사 단 4곳, 민주노총이 '7.15 총파업'...",
+    "summary": "개정 노조법 시행 4개월 만에 원청과의 교섭 성과가 미진한 가운데, 민주노총이 7월 15일 총파업을 예정하고 있다. 공공부문 비정규직, 건설노동자, 보건의료 하청노동자들이 참여하며 하반기 총력투쟁까지 계획 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T12:44:07+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32151,21 +32167,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T11:07:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "계룡건설, 국토교통부 상호협력평가 7년 연속 '최우수' 등급 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUDFWZnR5dms3N0VWa2lMUVl1N2U0UnVITkszUDhaZWcyQ1Z4a0hmaVR1NUZMV0lReGg2V05RTUJoTUR1SEN1VDZXRTQxNkU?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUDFWZnR5dms3N0VWa2lMUVl1N2U0UnVITkszUDhaZWcyQ1Z4a0hmaVR1NUZMV0lReGg2V05RTUJoTUR1SEN1VDZXRTQxNkU?oc=5\" target=\"_blank\">계룡건설, 국토교통부 상호협력평가 7년 연속 '최우수' 등급</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
-    "cluster_id": "9d21",
-    "publisher": "v.daum.net",
-    "title_clean": "계룡건설, 국토교통부 상호협력평가 7년 연속 '최우수' 등급",
-    "summary": "계룡건설이 국토교통부 상호협력평가에서 7년 연속으로 최우수 등급을 획득했다. 이는 건설사의 안정적 경영과 신뢰도를 보여주는 성과로, 업계의 긍정적 사례를 제시한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T11:07:48+09:00",
-    "importance": 2,
-    "published_at": "2026-07-02T14:27:12+09:00"
   }
 ]
