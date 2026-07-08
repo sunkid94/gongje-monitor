@@ -4994,6 +4994,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "상계3구역 공공재개발 '속도'…포스코이앤씨·두산건설 관심 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1384222",
+    "description": "8일 상계3구역 공공재개발 주민대표회의에 따르면 전날 한국토지주택공사(LH) 수도권 정비사업특별본부 회의실에서 열린 공동사업시행 건설업자 현장설명회에 포스코이앤씨와 두산건설 등 2개사가 참석했다. 이...",
+    "published_at": "2026-07-08T19:46:00+09:00",
+    "cluster_id": "36ee",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "상계3구역 공공재개발 '속도'…포스코이앤씨·두산건설 관심",
+    "summary": "상계3구역 공공재개발 사업에서 포스코이앤씨, 두산건설 등 주요 건설사들이 공동사업시행 건설업자 현장설명회에 참석하며 수주 경쟁을 벌이고 있다. 공공재개발 사업의 진행 속도가 빨라지면서 건설업계의 수주 기회가 증가하고 있는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T19:49:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20941,19 +20957,19 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "\"지금 주문해도 최소 3년\" 두산에너빌 가스터빈 호황 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNTduQXc5MmdEMHRrNmtPMlhwZmh4M0Nhdk84NXJsUVVHWFE0a2NsZzlfRGpoQkRlbURlRGIxMHN4UDlSUnNSX2t4WWd3d00?oc=5",
-    "description": "인공지능(AI) 데이터센터 구축 경쟁이 발전설비 확보 경쟁으로 번진 가운데 두산에너빌리티가 가스터빈 장기관리서비스(LTSA) 계약을 골자로 글로벌 시장에서 점유율을 높인다는 계획이다. 5일 두산에너빌리티에 따르면 이 회사는 2026년 1분기에만 가스터빈 10기를 수주했다. 국내에서는 하동 액화천연가스(LNG)복합발전소와 고양창릉복합발전소에 각각 2기, 1기",
-    "published_at": "2026-07-05T17:18:02+09:00",
-    "cluster_id": "8155",
-    "publisher": "v.daum.net",
-    "title_clean": "\"지금 주문해도 최소 3년\" 두산에너빌 가스터빈 호황",
-    "summary": "AI 데이터센터 수요 증가로 발전설비 확보 경쟁이 심화되는 가운데 두산에너빌리티가 가스터빈 장기관리서비스 계약을 중심으로 글로벌 시장 점유율을 확대하고 있다. 2026년 1분기만 10기를 수주했으며 현재 주문물량이 최소 3년치 이상 확보된 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-05T17:48:12+09:00",
+    "title": "[주요 단신] 하귀농협 지게차 사망사고 제주청년촛불추모제 취소 외 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605559&ref=A",
+    "description": "건설경기 침체 대응 일용근로자 지원사업 본격화 건설 경기 침체에 따른 일용근로자의 고용 안정 사업이 본격화됩니다. 제주도는 최근 건설업 고용안정 지원사업 1차 심의를 갖고 건설 일용근로자 천 2백여 명과...",
+    "published_at": "2026-07-08T19:21:00+09:00",
+    "cluster_id": "8c42",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "[주요 단신] 하귀농협 지게차 사망사고 제주청년촛불추모제 취소 외",
+    "summary": "제주도가 건설경기 침체에 대응하여 건설 일용근로자 1,200여 명을 대상으로 고용안정 지원사업을 본격화한다. 한편 하귀농협 지게차 사망사고 등 산업재해 관련 기사도 포함되어 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-08T19:49:00+09:00",
     "importance": 2
   },
   {
@@ -32131,21 +32147,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-03T21:47:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[THE COMPASS] 상지건설, 유증 187억 조달…’디스트레스’ 국면 - 한국금융신문",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FYkw2c3ZmejhvZnlOSjBiV21nbzUwRWhQaFhKdF9NclRVTWlmQTFyZXR4WldmdkxlTFdXTmxuMnI3OVhXN1ZSa3Rjdjh2SjhXMjRjMzJGaHAwMnBmdVRJMmRrdDlFbFZmRk5pRUU5Q09IemoyUTBDWFowVng?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5FYkw2c3ZmejhvZnlOSjBiV21nbzUwRWhQaFhKdF9NclRVTWlmQTFyZXR4WldmdkxlTFdXTmxuMnI3OVhXN1ZSa3Rjdjh2SjhXMjRjMzJGaHAwMnBmdVRJMmRrdDlFbFZmRk5pRUU5Q09IemoyUTBDWFowVng?oc=5\" target=\"_blank\">[THE COMPASS] 상지건설, 유증 187억 조달…’디스트레스’ 국면</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국금융신문</font>",
-    "cluster_id": "bd76",
-    "publisher": "한국금융신문",
-    "title_clean": "[THE COMPASS] 상지건설, 유증 187억 조달…’디스트레스’ 국면",
-    "summary": "상지건설이 유상증자 187억 원을 조달하며 재무 위기 상황에 직면했다. 건설사의 자금난으로 인한 '디스트레스' 국면이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-03T21:22:47+09:00",
-    "importance": 4,
-    "published_at": "2026-07-03T15:20:02+09:00"
   }
 ]
