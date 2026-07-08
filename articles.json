@@ -5011,6 +5011,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[코스피·코스닥,대우건설 한화시스템 삼성중공업 기아 카카오게임즈 로... - public25.com",
+    "link": "https://www.public25.com/news/articleView.html?idxno=50245",
+    "description": "퍼블릭타임스=[코스피·코스닥,대우건설 한화시스템 삼성중공업 기아 카카오게임즈 로보티즈 파커스등 8일 주요공시] ▲대우건설 : 8180억5600만원 규모 청라 국제업무단지 M5 주상복합 신축공사 수주...",
+    "published_at": "2026-07-09T08:10:00+09:00",
+    "cluster_id": "1099",
+    "publisher": "public25.com",
+    "title_clean": "[코스피·코스닥,대우건설 한화시스템 삼성중공업 기아 카카오게임즈 로...",
+    "summary": "대우건설이 청라 국제업무단지 M5 주상복합 신축공사를 약 818억 원 규모로 수주했다. 건설업계 주요 기업들의 신규 공시 내용을 전하는 기사다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T08:19:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20953,22 +20969,6 @@
     "publisher": "fntimes.com",
     "title_clean": "3년 만에 설욕한 롯데건설…성수4지구 품었다",
     "summary": "롯데건설이 대우건설과의 경쟁에서 승리하여 서울 성동구 성수4지구 재개발 프로젝트의 시공권을 확보했다. 약 8만9828㎡ 규모의 대형 재개발사업으로 공동주택 1439가구가 포함된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-05T19:03:30+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 성수4지구 품었다…1조3000억원 시공권 수주 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202607051848320961",
-    "description": "대우건설과 약 3년 반 만에 벌인 '리턴매치'에서 승리하면서 한강변 핵심 정비사업지를 확보하게 됐다. 5일 정비업계에 따르면 성수4지구 재개발 조합은 이날 시공사 선정 총회를 열고 롯데건설을 시공사로 선정했다....",
-    "published_at": "2026-07-05T18:57:00+09:00",
-    "cluster_id": "e68a",
-    "publisher": "fnnews.com",
-    "title_clean": "롯데건설, 성수4지구 품었다…1조3000억원 시공권 수주",
-    "summary": "롯데건설이 성수4지구 재개발 사업의 시공사로 선정되어 약 1조 3000억원 규모의 시공권을 수주했다. 한강변 핵심 정비사업지를 확보하면서 건설사의 수주 기회 확대로 이어졌다.",
     "sentiment": "positive",
     "collected_at": "2026-07-05T19:03:30+09:00",
     "importance": 3
