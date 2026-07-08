@@ -5282,23 +5282,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 3000억원 '조합원 특별융자' 실시... 중동전쟁 등 유동성 위기 지원 - 파이낸셜신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11X3c2OGVDWVlMUklBQkFhREU3bC1ud1d1MkF0UlV1NFpWSFRjVGF1Nkpaa2EwU1BRX1FSbzYzNk5Jdm4zZjI0WjZuM1Z5Y19kZ3IyejM0LWFONGtLOWlrZGllWmVDQ29LR284?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE11X3c2OGVDWVlMUklBQkFhREU3bC1ud1d1MkF0UlV1NFpWSFRjVGF1Nkpaa2EwU1BRX1FSbzYzNk5Jdm4zZjI0WjZuM1Z5Y19kZ3IyejM0LWFONGtLOWlrZGllWmVDQ29LR284?oc=5\" target=\"_blank\">건설공제조합, 3000억원 '조합원 특별융자' 실시... 중동전쟁 등 유동성 위기 지원</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜신문</font>",
-    "published_at": "2026-06-08T11:05:00+09:00",
-    "cluster_id": "8936",
-    "publisher": "파이낸셜신문",
-    "title_clean": "건설공제조합, 3000억원 '조합원 특별융자' 실시... 중동전쟁 등 유동성 위기 지원",
-    "summary": "건설공제조합이 중동전쟁 등으로 인한 유동성 위기 상황에서 조합원을 지원하기 위해 3000억원 규모의 특별융자를 실시한다. 이는 건설업계의 경영 어려움을 완화하려는 공제조합의 지원 조치이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-08T13:30:21+09:00",
-    "event_label": "건설공제조합 3000억원 조합원 특별융자 실시",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21263,6 +21246,21 @@
     "summary": "대우건설이 재건축·재개발 등 정비사업에서 지속적인 분양 성과를 거두며 경쟁력을 강화하고 있다. 조합과의 협의를 통해 분양 시기와 사업 방식을 유연하게 조정하며 시장 상황에 대응하고 있는 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-03T18:17:50+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통부 김이탁 제1차관, 국토부-미에너지부가 함께 투자하는리튬·붕소 플랜트 MOU 체결식 참석 - 코리아타임뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZVRia2JyZ0JOQkN0UDJMNGgxalh2Wmt6TnpZRzU2bVRkUS1uVkl1MnNfLTRiNUEyb1cxcVlDeVhQUGY2dlNCTTc1Ui1xeTJKb2sydG5qajJRTkRsRVBxVXB0a21FVjYxbnc?oc=5",
+    "description": "코리아타임뉴스 해외팀 | 김이탁 국토교통부 제1차관은 워싱턴 D.C에서 7월 7일 오후 1시(현지시간) 카일 하우스트바이트(Kyle Haustveit) 미국 에너지부 차관과 면담을 갖고, 우리기업과 디벨로퍼(Ioneer) 간 ‘네바다주 리튬 · 붕소 플랜트’ 업무협약(MOU) 체결식에 참석했다. 본 사업은 2026년 1월 5일 김윤덕",
+    "cluster_id": "4af1",
+    "publisher": "코리아타임뉴스",
+    "title_clean": "국토교통부 김이탁 제1차관, 국토부-미에너지부가 함께 투자하는리튬·붕소 플랜트 MOU 체결식 참석",
+    "summary": "국토교통부 제1차관이 미국 에너지부와 함께 네바다주 리튬·붕소 플랜트 사업 MOU를 체결했다. 이는 한국 기업의 해외 플랜트 수주 사업으로, 2026년 1월 준공 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T13:34:01+09:00",
     "importance": 2
   },
   {
