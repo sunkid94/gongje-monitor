@@ -21267,6 +21267,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "농식품부-코트라, K-스마트팜 수출 가속화 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40795",
+    "description": "[건설이코노미뉴스]중동 전쟁기간 중 호르무즈 해협 봉쇄로 식량 수입이 어려웠던 걸프국가를 중심으로 식량 공급망 안정화 이슈가 부각된 가운데 K-스마트팜 수출에 속도가 붙고 있다.농림축산식품부(장관 송미령)와 대한무역투자진흥공사(이하 코트라, 사장 강경성)는 스마트팜 수출 활성화 사업에 참여했던 아그로솔루션코리아사가 현지시각 7일, UAE 바이어 알파파(Alfafa)와 260만 달러(약 36억 원) 규모 식물공장형 스마트팜 수출계약을 체결했다고 8일 밝혔다.농식품부와 코트라는 2020년부터 '농산업 수출 활성화 사업'을 공동 추진하고",
+    "published_at": "2026-07-08T13:08:56+09:00",
+    "cluster_id": "1dbf",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "농식품부-코트라, K-스마트팜 수출 가속화",
+    "summary": "농식품부와 코트라가 추진하는 스마트팜 수출 활성화 사업을 통해 아그로솔루션코리아사가 UAE 바이어와 260만 달러 규모의 식물공장형 스마트팜 수출계약을 체결했다. 중동의 식량 공급망 안정화 수요 증가로 K-스마트팜 수출이 가속화되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T13:10:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32150,21 +32166,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-03T12:07:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "코오롱글로벌, 국토부 상호협력평가 2년 연속 '최우수'…상생경영 성과 인정 - 파이낸셜신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NMlVaTDJhVkJtWkpfdm5BX0RwRFdaT0kxWnB6bFRxWDd3T1AzWVFRU3BJdzFUX280WDdxMFFBcXl4SVpORzZZR0ViUEt1YnIzSmxEN0hlRDUwYy1RX1Nrd1ZfOWVjT3I1U21R?oc=5",
-    "description": "코오롱글로벌이 국토교통부의 건설사업자 간 상호협력평가에서 2년 연속 최고 등급인",
-    "published_at": "2026-07-03T11:09:23+09:00",
-    "cluster_id": "b661",
-    "publisher": "파이낸셜신문",
-    "title_clean": "코오롱글로벌, 국토부 상호협력평가 2년 연속 '최우수'…상생경영 성과 인정",
-    "summary": "코오롱글로벌이 국토교통부 건설사업자 간 상호협력평가에서 2년 연속 최우수 등급을 획득했다. 이는 상생경영 성과가 공식적으로 인정된 것으로, 건설업계의 협력 문화 확산에 긍정적 신호를 보낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T12:07:49+09:00",
-    "importance": 2
   }
 ]
