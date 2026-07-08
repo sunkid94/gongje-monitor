@@ -20940,6 +20940,38 @@
     "importance": 3
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "내실 다졌지만 수주 곳간 '비상'… 재해 리스크 탈출 안간힘 - 땅집고",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5Slo4enpFZ2phbHlUTDNnbDFTVUFYcGp1YkJfZ0NWbWpubDhzcDVfazVLVDdkclRhUkVuM3p0cWhMZTB1Q2J2VDdjOGVzSmJZakJjZlh2OUtEcVhFN3lwbzI4a254X0tXZzJ3WkNNSmstQ2oxMGNuWVRoeEhOVUHSAXNBVV95cUxPZWpPd19Edmg0LWNpS05ZVnRKWl9iSU1kTldVSDNReG5OODR5dU82d3hTbDc0V3ZVZWUwc2F1Y3FHLTJYSHF6RVF3bk5hWjV6ZTBTQk1YbmtYR201SGRvbGdCV0UzNnJ1bC1oUThqRndmekVR?oc=5",
+    "description": "[땅집고] 한 때 현대건설 흡수설까지 돌며 극심한 진통을 겪었던 시공능력평가 6위의 현대엔지니어링이 여전히 각종 악재의 늪에서 벗어나지 못하고..",
+    "published_at": "2026-07-08T06:00:00+09:00",
+    "cluster_id": "864e",
+    "publisher": "땅집고",
+    "title_clean": "내실 다졌지만 수주 곳간 '비상'… 재해 리스크 탈출 안간힘",
+    "summary": "시공능력평가 6위 현대엔지니어링이 내실은 다졌으나 수주 부진과 각종 악재로 어려움을 겪고 있다. 건설업계의 불황 속에서 기업의 수익성 악화와 리스크 관리가 주요 과제로 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T23:09:23+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 콘크리트 양생 위한 에너지 감축 기술로 녹색인증 획득 - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uV3ZWR2N3QUJ0MXp0TEFQVG1ScHpmbDJ6WDRJamhOWXNxd3RjZU9TQUhoTmxpSFY5djJGbDBEbGNhbVF5cjZyN3JYak9aa0hQQWhBWEJkME1ER1ZadnpuRnJjUzFoZHJOdFB3bk53T0bSAXRBVV95cUxNbDhqdlFJNWJ5NzNZd1RULWVmQzNNdUJ4TWFsTGZXbjhLdGJVQ2UxblBfRzVvRzRIT1ZZMFFCVnVQOHJ5ZGt6Q0tPZllEZUt3VXNHTVNyS0N2b2Q1em12U2xGNGlHZVdZOTFQcWVKY2ExZlFIWg?oc=5",
+    "description": "현대건설은 최근 콘크리트 양생을 위한 에너지 사용을 줄일 수 있는 ‘일평균 기온 5℃ 이상 조건에서 건설 현장 콘크리트 공사 시 조강형 콘크리트를 적용한 공정 기술’로 녹색기술 인증을 획득했다고 8일 밝혔다.녹색기술 인증 제도는 저탄소 녹색성장 기본법에 근거해 국토교통부 등 9개 관계",
+    "published_at": "2026-07-08T18:07:08+09:00",
+    "cluster_id": "2e2b",
+    "publisher": "IT조선",
+    "title_clean": "현대건설, 콘크리트 양생 위한 에너지 감축 기술로 녹색인증 획득",
+    "summary": "현대건설이 콘크리트 양생 에너지 감축 기술로 녹색기술 인증을 획득했다. 조강형 콘크리트 공정 기술을 통해 에너지 효율성을 개선하고 저탄소 건설을 실현할 수 있게 되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T23:09:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32116,36 +32148,6 @@
     "summary": "대광건영이 국토부 상호협력평가에서 4년 연속 최우수 등급을 획득했다. 최우수 기업은 PQ 가점, 시공능력평가액 가산, 벌점 감경 등 행정적 혜택을 받아 건설사의 경쟁력 지표로 작용한다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-04T06:07:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[2026 하반기 건설시장 전망] ③‘6292억’ CM용역 예고…설계공모는 2건 그칠 듯 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jSVR3QkJpOFJYempnOVhEbjVXQjZqS3FlZDlhb0RHWm14cHN3aURPY2V6YUpEeFplaHRLVnVRNDhDVEl4bDZNeHlmUWcyYVg5UEZCTml4anBpMU5KOG5JZk5CRDA3Yjhqd0w3ZGdkWlBFOEJL?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9jSVR3QkJpOFJYempnOVhEbjVXQjZqS3FlZDlhb0RHWm14cHN3aURPY2V6YUpEeFplaHRLVnVRNDhDVEl4bDZNeHlmUWcyYVg5UEZCTml4anBpMU5KOG5JZk5CRDA3Yjhqd0w3ZGdkWlBFOEJL?oc=5\" target=\"_blank\">[2026 하반기 건설시장 전망] ③‘6292억’ CM용역 예고…설계공모는 2건 그칠 듯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "4fb5",
-    "publisher": "대한경제",
-    "title_clean": "[2026 하반기 건설시장 전망] ③‘6292억’ CM용역 예고…설계공모는 2건 그칠 듯",
-    "summary": "2026년 하반기 건설시장에서 약 6,292억 원 규모의 CM용역이 예정되어 있어 건설사들의 수주 기회가 있을 것으로 예상된다. 다만 설계공모는 2건 수준으로 제한적일 것으로 보여 시장 기회가 제한적인 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-04T04:07:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전남동부지사, GS건설 여수 현장 혹서기 캠페인 실시 - 안전정보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zVTNtVUhNdE93TFlDc09icVRTWGNHdlk4NEwtWlRwLVBDaFBtdHhoUl9CbDVXNWNZN25hcS1mcm1fQWJxTzloZUxJb3htODF2Y0dLVDdfQ1FBQS0xOVIwdUFNQlctcjAyVC1z?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE0zVTNtVUhNdE93TFlDc09icVRTWGNHdlk4NEwtWlRwLVBDaFBtdHhoUl9CbDVXNWNZN25hcS1mcm1fQWJxTzloZUxJb3htODF2Y0dLVDdfQ1FBQS0xOVIwdUFNQlctcjAyVC1z?oc=5\" target=\"_blank\">전남동부지사, GS건설 여수 현장 혹서기 캠페인 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
-    "cluster_id": "30d0",
-    "publisher": "안전정보",
-    "title_clean": "전남동부지사, GS건설 여수 현장 혹서기 캠페인 실시",
-    "summary": "전남동부지사가 GS건설 여수 현장에서 폭염 시즌 안전 캠페인을 실시했습니다. 건설 현장의 혹서기 안전관리 강화 활동으로 업계 안전 의식 제고를 위한 조치입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-04T03:07:30+09:00",
     "importance": 2
   }
 ]
