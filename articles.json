@@ -20957,6 +20957,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "조달청, 이번 주 시설공사 2,461억원 발주 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mVWY4YjFCeWJybWtpM0lzci1jM3A2WEhjZjJqWDNoY0VGd0NReXRNZ3B4bkwyd1AwWm4wSlVIZUVZX2JieVc1Vm5pNERzT1FQR3hvNzJUSkY4VlFyM0F3T2c2enVPNUE?oc=5",
+    "description": "조달청이 이번 주 총 2,461억 원 규모의 시설공사 입찰을 집행한다. 킨텍스 주차복합빌딩 건립사업을 비롯해 도로, 학교, 문화시설 등 전국 50개 공사가 발주되며, 지역업체 참여 비중도 절반 이상을 차지할 전망이다.조달청은 7월 6일부터 10일까지 총 50건, 2,460억9,000만 원 규모의 시설공사 입찰을 진행한다고 밝혔다. 이 가운데 가장 큰 사업은 주식회사 킨텍스가 발주하는",
+    "published_at": "2026-07-08T14:05:21+09:00",
+    "cluster_id": "548c",
+    "publisher": "국토교통신문",
+    "title_clean": "조달청, 이번 주 시설공사 2,461억원 발주",
+    "summary": "조달청이 7월 6일부터 10일까지 총 2,461억 원 규모의 시설공사 50건을 발주한다. 킨텍스 주차복합빌딩 등 도로, 학교, 문화시설 등 전국 프로젝트가 포함되며, 지역업체 참여 비중이 50% 이상으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T20:14:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32131,21 +32147,6 @@
     "summary": "한국자산관리공사가 장마철 집중호우와 폭염에 대비하여 천안통합청사 건설현장에 대한 특별 안전점검을 실시했다. 박상현 상임감사가 현장을 방문하여 안전 관리 강화를 추진하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-03T22:57:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "베트남 건설노동조합은 2026년까지 1,200개의 사업을 추진하여 1,000억 VND의 경제적 효과를 창출하는 것을 목표로 하고 있습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3pRc3R5VnFYZV84c0RvU1M0TV9zcHNpSndvRW05MG45SEZXZWhTb3hITHRiRjBYVkJSU3JJMGJaUEcyRU5jME9oR0g4OHBMcmRLVTYtYUREQy04WTNXcVVZd2Y0b3ZnaVFNS0pSaFVpNEtQUEY2RnFDaS1pczV5d09JS0MwbjFsODg4TUZud2ItbTdlMGRmNmtKbkYzLXpNSERtUlpZS2wtUDhyOWZOTA?oc=5",
-    "description": "베트남 건설노동조합은 연간 1,200건의 혁신 사업을 추진하는 것을 목표로 할 뿐만 아니라, 2026년까지 이러한 사업을 통해 최소 1,000억 VND의 경제적 효과를 창출하여 혁신을 촉진하고 노동 생산성 및 노동자 소득을 향상시키는 것을 목표로 하고 있습니다.",
-    "cluster_id": "2844",
-    "publisher": "Vietnam.vn",
-    "title_clean": "베트남 건설노동조합은 2026년까지 1,200개의 사업을 추진하여 1,000억 VND의 경제적 효과를 창출하는 것을 목표로 하고 있습니다.",
-    "summary": "베트남 건설노동조합이 2026년까지 연간 1,200개의 혁신 사업을 추진하여 최소 1,000억 VND의 경제 효과를 창출할 계획이다. 이를 통해 노동 생산성 향상과 근로자 소득 증대를 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T22:17:37+09:00",
     "importance": 2
   }
 ]
