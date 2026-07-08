@@ -21028,6 +21028,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "DL이앤씨, 회사채 'AA-'·기업어음 'A1'… 재무안정성 재확인 - s-journal.co.kr",
+    "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42264",
+    "description": "이번 평가는 건설경기 둔화와 주택사업 불확실성이 이어지는 가운데 이뤄졌다는 점에서 의미가 있다. 신용평가사들은 DL이앤씨의 다각화된 사업 포트폴리오와 재무관리 역량, 현금창출력을 주요 평가 요인으로...",
+    "published_at": "2026-07-08T16:08:00+09:00",
+    "cluster_id": "2724",
+    "publisher": "",
+    "title_clean": "DL이앤씨, 회사채 'AA-'·기업어음 'A1'… 재무안정성 재확인 - s-journal.co.kr",
+    "summary": "DL이앤씨가 회사채 'AA-', 기업어음 'A1' 신용등급을 받으며 재무안정성을 재확인했다. 건설경기 둔화와 주택사업 불확실성 속에서도 다각화된 사업 포트폴리오와 강한 현금창출력이 평가 근거가 됐다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T16:14:24+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "민주노총, 이달 15일 총파업 예고…\"교섭 안 하면 투쟁 뿐\" - mbn.mk.co.kr",
+    "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5204610",
+    "description": "이영철 건설산업연맹 위원장은 \"하청건설노동자의 구속과 죽음이라는 건설현장 투쟁의 마지막 지점에는 발주처와 원청이 있었다\"며 \"모든 건설노동자가 안전하고 인간답게 사는 건설현장을 만들기 위해 15일 총파업을...",
+    "published_at": "2026-07-08T16:10:00+09:00",
+    "cluster_id": "de69",
+    "publisher": "mbn.mk.co.kr",
+    "title_clean": "민주노총, 이달 15일 총파업 예고…\"교섭 안 하면 투쟁 뿐\"",
+    "summary": "민주노총이 15일 총파업을 예고하며 건설현장 안전 문제와 하청노동자 사망 사고에 대해 발주처와 원청의 책임을 강조했습니다. 건설업계의 노사 갈등이 심화되고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-08T16:14:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32116,38 +32148,6 @@
     "summary": "캠코가 하절기 집중호우와 폭염에 대비해 나라키움 천안 통합청사에 대한 특별 안전점검을 실시했다. 박성현 상임감사가 주도적으로 시설 안전관리를 점검하는 정례적 조치다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-03T15:17:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "코오롱글로벌, 상생협력 인정받았다... 건설사업자 평가 최고등급 - thefirstmedia.net",
-    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=203008",
-    "description": "이번 평가 결과에 따라 코오롱글로벌은 향후 1년간 조달청과 지방자치단체 공공공사 입찰에서 사전 사업수행능력평가(PQ) 가점을 비롯해 시공능력평가액 산정 가산점, 건설산업기본법상 벌점 감경 등의 혜택을 받게 된다....",
-    "published_at": "2026-07-03T15:06:00+09:00",
-    "cluster_id": "1d4e",
-    "publisher": "thefirstmedia.net",
-    "title_clean": "코오롱글로벌, 상생협력 인정받았다... 건설사업자 평가 최고등급",
-    "summary": "코오롱글로벌이 상생협력 평가에서 건설사업자 최고등급을 받아 향후 1년간 공공공사 입찰에서 PQ 가점, 시공능력평가액 가산점 등의 혜택을 획득했다. 이는 개별 기업의 성과 인정 소식으로 건설업계 전반에 미치는 직접적인 영향은 제한적이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-03T15:12:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[지금 우리 기업은] 레미콘 공장 허문 자리에 '도시'를 짓다…디벨로퍼... - updownnews.co.kr",
-    "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=317821",
-    "description": "건설기초소재 시장이 성숙기에 접어들고 건설경기 침체와 공사비 상승 등 대내외 변수가 커지면서 새로운 성장동력 확보가 업계의 과제로 떠오르고 있기 때문이다. 업계에서는 삼표 역시 기존 소재사업을 기반으로...",
-    "published_at": "2026-07-03T15:06:00+09:00",
-    "cluster_id": "0870",
-    "publisher": "updownnews.co.kr",
-    "title_clean": "[지금 우리 기업은] 레미콘 공장 허문 자리에 '도시'를 짓다…디벨로퍼...",
-    "summary": "건설기초소재 시장의 성숙화와 경기 침체로 업계가 새로운 성장동력 확보에 나서고 있다. 삼표 등 기업들이 기존 소재사업 기반으로 사업 다각화를 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-03T15:07:56+09:00",
     "importance": 2
   }
 ]
