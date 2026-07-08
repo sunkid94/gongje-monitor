@@ -21266,6 +21266,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국기후에너지기술협회, 기후에너지 기술협력 플랫폼 본격 시동 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40789",
+    "description": "[건설이코노미뉴스]한국기후에너지기술협회(발기인 대표 방효민)는 지난 7일 경기도 안산시 소재 협회 회의실에서 사단법인 설립을 위한 발기인총회를 개최했다고 8일 밝혔다.이번 총회는 기후위기 대응과 탄소중립 사회로의 전환 과정에서 민간 산업계의 기후에너지 기술 역량을 결집하고, 정부·산업계·학계·연구기관 간 협력 기반을 구축하기 위해 마련됐다.이날 총회에는 방효민 발기인대표를 비롯한 발기인들이 참석해 ▲협회 설립취지 채택 ▲협회 명칭 및 설립 기본방향 확정 ▲정관 초안 검토 ▲회원 모집계획 협의 ▲창립총회 준비계획 확정 ▲임원 후보자",
+    "published_at": "2026-07-08T12:11:25+09:00",
+    "cluster_id": "d41b",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "한국기후에너지기술협회, 기후에너지 기술협력 플랫폼 본격 시동",
+    "summary": "한국기후에너지기술협회가 기후위기 대응과 탄소중립 사회 전환을 위해 설립 발기인총회를 개최했다. 정부·산업계·학계·연구기관 간 협력 기반 구축으로 민간 산업계의 기후에너지 기술 역량 결집을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-08T12:12:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32150,21 +32166,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-03T10:58:03+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 중대재해 공시 여파에 장중 3%대 하락 지속 : 기업주식정보 - 재경일보",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ubE15bW8yTE9XZkNHbTFxZW5mTWY4NWVoQjJiS2t4Szk0YV94YzUtZ2xOMHpZajk4LVEwZnNFcS1GQWxDZDlXME1R?oc=5",
-    "description": "현대건설 주가가 중대재해 발생 공시 여파로 이날 장중 3%대 하락세를 보이고 있다. 현재 11만1700원을 기록하며 3500원(-3.04%) 내린 가격에 거래 중이다. 연이은 중대재해 발생 공시가 투자 심리에 부담으로 작용하는 모습이다. 현대건설(000720) 주가가 3일 중대재해 발생 공시 여파로 하락세를 면치 못하고 있다. 이날 오전 코스피 시장에서 현",
-    "published_at": "2026-07-03T01:30:23+00:00",
-    "cluster_id": "fa3d",
-    "publisher": "재경일보",
-    "title_clean": "현대건설, 중대재해 공시 여파에 장중 3%대 하락 지속 : 기업주식정보",
-    "summary": "현대건설이 중대재해 발생 공시로 인해 주가가 3%대 하락했다. 연이은 중대재해 공시가 투자 심리에 부담을 주며 건설업계의 안전 리스크가 부각되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-03T10:58:03+09:00",
-    "importance": 4
   }
 ]
