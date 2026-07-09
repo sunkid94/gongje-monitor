@@ -5469,6 +5469,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설업계 브리핑] LH·현대건설·IPARK현산·롯데건설·삼성물산·현대엔지니어링 - 데일리한국",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yS050a0laU2xESzZOOWJHSmdVZWQ3TEV3SGYxNFJlVkNjenNHdDJOMnVLSWp3aVF5TGp0Z0oxWEtCbWtLeE91QUdYSnFMSkd3TzlZYUxCa0dGanJtRElrNTVBWnYtYThzX1RpSTRlUdIBc0FVX3lxTE5hUXd1WnF6bDNOS3ZhcEIxbVl0bFFiVWI0NmNuaTlIVGxrT2YwUXpwN09kZkN2TUhQeFJWQ05oTE9hOWFURXpXajZYTVY1Z2dhaHFraENOcGlPTWRTQTM3QmYxakVENFh2VW90RkZ5d3Z3eVU?oc=5",
+    "description": "[데일리한국 김하수 기자]◇이성훈 LH 사장, 용인국가산단 방문…‘펩1호기’ 조기 착공 주문이성훈 한국토지주택공사(LH) 사장이 9일 용인 반도체 국가산단 사업현장을 방문해 사업 추진 현황을 점검하고, 사업기간 단축을 통한 속도전을 주문했다.LH는 오는 2028년까지 반도체 팹(Fab) 1호기 착공’ 목표 달성을 위해, 잔여 보상 절차 마무리와 착공 준비를 병행하는 등 사업기간 단축을 위한 ‘패스트트랙 전략‘을 집중 추진한다. 또한 이달 조성공사를 시공책임형(CM)방식으로 발주하고 조성공사를 연내 착공할 방침이다.◇현대건설,",
+    "published_at": "2026-07-09T18:43:50+09:00",
+    "cluster_id": "cb78",
+    "publisher": "데일리한국",
+    "title_clean": "[건설업계 브리핑] LH·현대건설·IPARK현산·롯데건설·삼성물산·현대엔지니어링",
+    "summary": "LH 사장이 용인 반도체 국가산단 사업을 점검하고 2028년 반도체 팹 1호기 착공 목표 달성을 위해 사업기간 단축을 주문했다. LH는 패스트트랙 전략으로 잔여 보상 절차를 마무리하고 조성공사를 CM 방식으로 발주해 연내 착공할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T19:04:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21410,22 +21426,6 @@
     "publisher": "cstimes.com",
     "title_clean": "롯데건설, 성수4지구 재개발 수주…공사비 1조3492억원",
     "summary": "롯데건설이 서울 성동구 성수4지구 주택재개발정비사업의 시공사로 선정되었으며, 공사비는 1조3492억원 규모이다. 이는 건설사의 수주 확대를 의미하는 긍정적 소식이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T10:18:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 1조3492억원 규모 성수4지구 재개발 수주 - gokorea.kr",
-    "link": "https://www.gokorea.kr/news/articleView.html?idxno=871193",
-    "description": "롯데건설이 서울 성동구 성수전략정비구역 제4지구 주택재개발정비사업 시공권을 확보했다. 롯데건설은 지난 5일 서울 강남구 예림당 아트홀에서 열린 성수4지구 시공사 선정 총회에서 조합원 753명 가운데 620명이...",
-    "published_at": "2026-07-06T10:14:00+09:00",
-    "cluster_id": "d350",
-    "publisher": "gokorea.kr",
-    "title_clean": "롯데건설, 1조3492억원 규모 성수4지구 재개발 수주",
-    "summary": "롯데건설이 서울 성동구 성수4지구 주택재개발정비사업의 시공권을 확보했으며, 사업 규모는 1조3492억원 규모다. 조합원 투표에서 620명 중 620명이 찬성하여 높은 동의율을 기록했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T10:18:55+09:00",
     "importance": 2
