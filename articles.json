@@ -21549,6 +21549,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "상반기 가스경보기 검정수량 76만개 - gasnews.com",
+    "link": "https://www.gasnews.com/news/articleView.html?idxno=125994",
+    "description": "이처럼 올해 상반기 가스경보기의 전체적인 검정수량 감소는 신축 아파트 등 전반적인 건설경기 부진이 가장 큰 영향으로 분석된다. 가스경보기 제조사의 한 관계자는 \"가스경보기의 가장 큰 수요처는...",
+    "published_at": "2026-07-10T07:36:00+09:00",
+    "cluster_id": "d534",
+    "publisher": "gasnews.com",
+    "title_clean": "상반기 가스경보기 검정수량 76만개",
+    "summary": "올해 상반기 가스경보기 검정수량이 76만개로 집계되었으며, 신축 아파트 등 건설경기 부진이 검정수량 감소의 주요 원인으로 분석되었다. 가스경보기의 주요 수요처인 건설업 침체가 관련 산업에 직접적인 영향을 미치고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-10T07:49:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32179,22 +32195,6 @@
     "summary": "대우건설이 안전등급제를 도입하여 건설 현장의 안전 문화 개선에 나서고 있다. 이는 안전 강화를 통해 업계 전반의 안전 의식 확산을 목표로 한다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-07T15:09:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건협 전북도회, 조달청 입찰자격 사실조사 관련 설명회 개최 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071430293790260",
-    "description": "구체적으로 조달청에서 조달청 입찰자격 사실조사의 주요 점검 사항 및 서류 준비 요령을 설명했으며, 익산지방국토관리청에서 국토부 불법하도급 상시단속 적발 사례와 건설산업기본법에 따른 적법한 하도급 관리 실무...",
-    "published_at": "2026-07-07T14:42:00+09:00",
-    "cluster_id": "acf5",
-    "publisher": "대한경제",
-    "title_clean": "건협 전북도회, 조달청 입찰자격 사실조사 관련 설명회 개최",
-    "summary": "건협 전북도회가 조달청 입찰자격 사실조사 관련 설명회를 개최하여 입찰 시 필요한 서류 준비 요령과 점검 사항을 안내했다. 조달청과 익산지방국토관리청이 참여하여 불법하도급 적발 사례와 건설산업기본법에 따른 적법한 하도급 관리 실무를 설명했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-07T14:49:26+09:00",
     "importance": 2
   }
 ]
