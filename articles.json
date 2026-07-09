@@ -21516,6 +21516,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "\"미래를 짓는 K-건설\" - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Umh4aVdzdTVqSUJFTjBYYVM4R1pWbWNNY05Kd3g5Zk5ZLVB6VUx4WC1BTWlIX1BjcFAzcWtFSXNHa3VVOVVxaFZ6UVBvb3oyR0dmSWEzTjV0S1d0bDR1STFJYWdDb2M?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Umh4aVdzdTVqSUJFTjBYYVM4R1pWbWNNY05Kd3g5Zk5ZLVB6VUx4WC1BTWlIX1BjcFAzcWtFSXNHa3VVOVVxaFZ6UVBvb3oyR0dmSWEzTjV0S1d0bDR1STFJYWdDb2M?oc=5\" target=\"_blank\">\"미래를 짓는 K-건설\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토교통신문</font>",
+    "published_at": "2026-07-09T21:34:10+09:00",
+    "cluster_id": "2e1f",
+    "publisher": "국토교통신문",
+    "title_clean": "\"미래를 짓는 K-건설\"",
+    "summary": "제공된 기사 내용이 제목만 있고 구체적인 내용이 부족하여 정확한 분석이 어렵습니다. 제목의 \"미래를 짓는 K-건설\"은 한국 건설업계의 긍정적 전망을 시사하는 표현으로 보입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-09T22:44:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32178,22 +32194,6 @@
     "title_clean": "HJ중공업, 2572억 규모 ‘부산 벡스코 제3전시장 건립사업’ 수주",
     "summary": "HJ중공업이 부산 벡스코 제3전시장 건립사업의 실시설계적격자로 선정되어 2,572억 원 규모의 사업을 수주했다. 기술제안 평가에서 경쟁력을 확보하고 가격 평가까지 종합 1위를 차지하며 낙찰을 확정했다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-07T12:04:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "한국도로공사, ‘하이패스 단말기 구입비용’ 경차·택시까지 지원 대상 확대 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=36943",
-    "description": "한국도로공사는 국민의 경제적 부담을 줄이고 하이패스 이용 편의를 높이기 위해 ‘하이패스 단말기 구입비용’ 지원 대상을 확대했다고 밝혔다.하이패스 단말기 지원사업은 지난 2014년을 시작으로 지난해까지 약 446억원 상당, 총 295만 대의 단말기 구입비용을 지원해 왔다.올해는 기존 지원 대상이었던 장애인·유공자 등 감면 대상자와 노후 단말기(5년 이상 사용) 이용자뿐만 아니라, 경차와 택시 운전자까지 범위를 넓혔다. 올해 보급 목표는 총 6.5만 대, 금액으로는 17.8억원 규모다.올해 지원 대상에 포함된 경차 운전자는 1만 5천원",
-    "published_at": "2026-07-07T11:46:09+09:00",
-    "cluster_id": "c45c",
-    "publisher": "한국건설신문",
-    "title_clean": "한국도로공사, ‘하이패스 단말기 구입비용’ 경차·택시까지 지원 대상 확대",
-    "summary": "한국도로공사가 하이패스 단말기 구입비용 지원 대상을 경차·택시 운전자까지 확대했다. 올해 6.5만 대, 17.8억원 규모로 지원할 예정이며, 기존 장애인·유공자 등 감면 대상자와 노후 단말기 이용자도 포함된다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-07T12:04:25+09:00",
     "importance": 2
   }
