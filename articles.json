@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, ‘재무성과 관리위원회’ 운영 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8yOWlfZ2pvUzk3WXpBd2NDTTd3N0VkVDJvS2JYWlc5aVdDdU1qU0F1U3hNd0p3MkkwYlRWSXliV280SU0?oc=5",
+    "description": "사진은 건설공제조합의 비상경영체제 컨트롤타워 이미지(사진제공=건설공제조합)매일건설신문=허문수 기자 | 건설공제조합은 지난 5월 출범시킨 비상",
+    "published_at": "2026-07-09T19:15:00+09:00",
+    "cluster_id": "abab",
+    "publisher": "매일건설신문",
+    "title_clean": "건설공제조합, ‘재무성과 관리위원회’ 운영",
+    "summary": "건설공제조합이 지난 5월 출범시킨 비상경영체제의 컨트롤타워인 '재무성과 관리위원회'를 운영 중이다. 업계 어려움에 대응하기 위한 재무 관리 체계를 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T00:19:38+09:00",
+    "event_label": "건설공제조합 재무성과 관리위원회 운영",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32177,22 +32194,6 @@
     "summary": "경기주택도시공사 김용진 사장이 화성동탄2 택지개발지구 공동주택 건설 현장을 점검하고 폭염과 장마철 대비 안전 점검을 실시했다. 공공기관의 건설 현장 안전 관리 활동을 보도한 사실 기반의 뉴스다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-07T12:59:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "HUG, 분양보증 이행사업장 안전점검 전개 - 충남일보",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nM05qUko0b2RWaUJSS2Y5WjdybGx0M0pXcXBJUE9LUlg3bXlqOXJFbzlSRl93U1p5Nlo1eUlPem1IOXZqUHhPTDZJeVpudzktRVlQN1NGTFBRVU5mU191ZmszUkF4X2xmbmlsV2dQemRnQkE?oc=5",
-    "description": "[충남일보 김현수 기자] 주택도시보증공사(이하, HUG)는 여름철 우기 안전사고를 예방하기 위해 지난 6일 부산",
-    "published_at": "2026-07-07T12:44:48+09:00",
-    "cluster_id": "1e84",
-    "publisher": "충남일보",
-    "title_clean": "HUG, 분양보증 이행사업장 안전점검 전개",
-    "summary": "HUG는 여름철 우기 안전사고 예방을 위해 분양보증 이행사업장에 대한 안전점검을 전개하고 있습니다. 건설현장의 안전관리 강화로 사고 위험을 줄이려는 조치입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-07T12:54:26+09:00",
     "importance": 2
   }
 ]
