@@ -20989,6 +20989,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "삼성물산, 혁신기술 보유한 스타트업 6곳과 실증 협업 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325167",
+    "description": "삼성물산 건설부문이 올해도 혁신 기술을 보유한 스타트업 지원에 나선다.삼성물산 건설부문은 지난 8일 오픈이노베이션 프로그램 ‘2026 FutureScape(퓨처스케이프)’의 실증 협업을 위한 킥오프 미팅<사진>을 개최했다고 9일 밝혔다.‘2026 FutureScape’는 삼성물산이 주최하고 서울경제진흥원과 공동으로 추진하는 프로그램으로 혁신 기술과 아이디어를 보유한 스타트업을 발굴해 시장 검증과 사업 협력을 지원하는 것이 목적이다.삼성물산은 올해 최종 6개 스타트업을 선발하고, 이들과 함께 기술 실증과 공동 사업화 가능성 검증에 착",
+    "published_at": "2026-07-09T10:43:43+09:00",
+    "cluster_id": "8145",
+    "publisher": "대한전문건설신문",
+    "title_clean": "삼성물산, 혁신기술 보유한 스타트업 6곳과 실증 협업",
+    "summary": "삼성물산 건설부문이 '2026 FutureScape' 프로그램을 통해 혁신 기술을 보유한 스타트업 6곳과 실증 협업에 나선다. 서울경제진흥원과 함께 스타트업의 기술 실증과 사업화를 지원하는 오픈이노베이션 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T10:46:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32142,20 +32158,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-06T03:47:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "「건설산업기본법」 위반업체 행정처분(과징금) 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3RCX3IyUTNuSHZzUGIzRlBwQ0JBMVdLVVE0ang4OHBQUUdhRks2ZzRqNUd6TDZzamxwSlB3dnFYdnJzdkZjdjdzcHJQb0pCZjB0S2NFUVMzSWJfOXo2R3owWlhieG4tVFo3UG5OeWRzMGUtcVZZNVhGS2c2eE5ISVdrSWhaYmMxSkxLbE13Qk5IZUU?oc=5",
-    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
-    "cluster_id": "8f09",
-    "publisher": "경기도청",
-    "title_clean": "「건설산업기본법」 위반업체 행정처분(과징금) 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스",
-    "summary": "경기도가 건설산업기본법 위반업체에 대한 행정처분(과징금)을 공고했습니다. 이는 건설산업의 법규 준수를 강화하고 부정행위를 적발·제재하는 조치입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-06T03:42:47+09:00",
-    "importance": 4
   }
 ]
