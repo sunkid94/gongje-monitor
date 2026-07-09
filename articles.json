@@ -21583,6 +21583,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "부산시, 건설현장 '클린업 맞춤형 클리닉' 운영…맞춤형 상담 제공 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260710000084",
+    "description": "2026년 건설현장 'Clean-UP 맞춤형 클리닉' 홍보물[사진=부산시] 2026.07.10 이 사업은 건설업 등록기준, 건설공사대장 통보, 하도급대금 지급보증 등 건설산업기본법 관련 주요 제도를 중심으로 업체별 맞춤형 상담을...",
+    "published_at": "2026-07-10T08:01:00+09:00",
+    "cluster_id": "ab80",
+    "publisher": "newspim.com",
+    "title_clean": "부산시, 건설현장 '클린업 맞춤형 클리닉' 운영…맞춤형 상담 제공",
+    "summary": "부산시가 건설현장을 대상으로 'Clean-UP 맞춤형 클리닉'을 운영하며 건설산업기본법 관련 주요 제도(업체 등록기준, 공사대장 통보, 하도급대금 지급보증 등)에 대한 맞춤형 상담을 제공한다. 이는 건설업계의 규제 준수 및 투명성 강화를 지원하기 위한 정책이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T08:09:13+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "광명시의회 상임위, 주요 사업장 첫 현장점검…안전·운영 실태 살펴 - 오늘경제",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NDFlaHVqNXN2UG5sVW9faU1mTFF1NTZsbHVZWDFncF92eUQyNEc5cWJJSDltZ1p1WWV1YTRvV19RM1I1NkxWME0wS2JGSHVHOTF3dXRHZzdicC1Pdl8yZGg4ZFZVRDBZNWFOTUUzOWhCdkk?oc=5",
+    "description": "광명시의회가 제10대 전반기 원 구성 이후 처음으로 상임위원회별 현장점검에 나서 주요 공공시설 운영과 사업 추진 상황, 안전관리 실태를 확인했다.자치행정교육위원회",
+    "published_at": "2026-07-09T19:54:54+09:00",
+    "cluster_id": "81de",
+    "publisher": "오늘경제",
+    "title_clean": "광명시의회 상임위, 주요 사업장 첫 현장점검…안전·운영 실태 살펴",
+    "summary": "광명시의회가 제10대 전반기 상임위원회별 현장점검을 실시하여 공공시설 운영 상황과 안전관리 실태를 확인했다. 지방 자치행정 차원의 감시 및 감독 활동으로 건설업계와 직접적 관련성이 제한적이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T08:09:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32167,37 +32199,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-07T15:24:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "수익·안정성 '두 마리 토끼' 노린다…민참 공공사업 실적 쌓는 DL이앤씨 - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002484",
-    "description": "이들 블록에 총 2716가구를 공급하는 것이 골자다.업계에서는 DL이앤씨의 이 같은 행보를 건설경기 침체에 대응하기 위한 전략적 선택으로 보고 있다. 최근 민간 주택시장은 공사비 상승과 프로젝트파이낸싱(PF) 시장...",
-    "published_at": "2026-07-07T15:12:00+09:00",
-    "cluster_id": "c20e",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "수익·안정성 '두 마리 토끼' 노린다…민참 공공사업 실적 쌓는 DL이앤씨",
-    "summary": "DL이앤씨가 민간참여(민참) 공공사업에 진출하여 2716가구를 공급하는 프로젝트를 추진 중이다. 건설경기 침체 속에서 공공사업을 통해 수익성과 안정성을 동시에 확보하려는 전략적 움직임으로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T15:19:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "젠스파크, '2026 스마트건설 챌린지' 공식 AI 후원사 참여 - epnc.co.kr",
-    "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403975",
-    "description": "생성형 AI 플랫폼 젠스파크(Genspark.ai)가 국토교통부가 주최하는 '2026 스마트건설 챌린지'에 공식 AI 후원사로 참여한다고 7일 밝혔다. 올해로 7회째를 맞은 스마트건설 챌린지는 인공지능(AI)과 로봇 등 첨단 기술을...",
-    "published_at": "2026-07-07T15:16:00+09:00",
-    "cluster_id": "cf64",
-    "publisher": "epnc.co.kr",
-    "title_clean": "젠스파크, '2026 스마트건설 챌린지' 공식 AI 후원사 참여",
-    "summary": "생성형 AI 플랫폼 젠스파크가 국토교통부 주최 '2026 스마트건설 챌린지'의 공식 AI 후원사로 참여한다. 7회째를 맞은 해당 챌린지는 AI와 로봇 등 첨단 기술을 활용한 건설 혁신을 추진하는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T15:19:53+09:00",
-    "importance": 2
   }
 ]
