@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "조인호 해광이엔씨 대표, '2026 건설의 날' 금탑산업훈장 수훈 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=337362",
+    "description": "한성숙 국무총리(왼쪽)으로부터 금탑산업훈장을 수여받은 조인호 해광이엔씨 대표가 기념촬영을 하고 있다.사진=김현재 기자 khj@ikld.kr 대한기계설비건설협회 명예회장인 조인호 해광이엔씨 대표이사가...",
+    "published_at": "2026-07-09T23:22:00+09:00",
+    "cluster_id": "78f5",
+    "publisher": "국토일보",
+    "title_clean": "조인호 해광이엔씨 대표, '2026 건설의 날' 금탑산업훈장 수훈",
+    "summary": "조인호 해광이엔씨 대표이사가 2026 건설의 날에서 금탑산업훈장을 수훈했다. 대한기계설비건설협회 명예회장으로서 건설업계 발전에 기여한 공로를 인정받았다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T23:29:33+09:00",
+    "event_label": "대한기계설비건설협회 조인호 명예회장 금탑산업훈장 수훈",
+    "importance": 6
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32179,21 +32196,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-07T12:19:27+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, 협력사 안전등급제 도입…안전 평가 우수기업에 입찰 인센티브 - 비즈니스플러스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CRUVKNlQ0clpFZlJNbDNYX1RmOWZLMmI3djUtLWVHbldTRW9uUjBhdUZVRml0RnFYTUJEb2FfYnBEamMyMnlBRXgtbzJtZlU2Qml5NUN5SU9Fb01ZcVJVZlpxQlBPbEF4ZjNuYm1sZw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1CRUVKNlQ0clpFZlJNbDNYX1RmOWZLMmI3djUtLWVHbldTRW9uUjBhdUZVRml0RnFYTUJEb2FfYnBEamMyMnlBRXgtbzJtZlU2Qml5NUN5SU9Fb01ZcVJVZlpxQlBPbEF4ZjNuYm1sZw?oc=5\" target=\"_blank\">대우건설, 협력사 안전등급제 도입…안전 평가 우수기업에 입찰 인센티브</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스플러스</font>",
-    "published_at": "2026-07-07T09:22:47+09:00",
-    "cluster_id": "5f39",
-    "publisher": "비즈니스플러스",
-    "title_clean": "대우건설, 협력사 안전등급제 도입…안전 평가 우수기업에 입찰 인센티브",
-    "summary": "대우건설이 협력사를 대상으로 안전등급제를 도입하여 안전 평가 우수기업에 입찰 인센티브를 제공한다. 이는 건설현장 안전 강화와 우수 협력사 발굴을 통한 업계 안전 문화 개선을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T12:04:25+09:00",
-    "importance": 2
   }
 ]
