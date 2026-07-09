@@ -21532,6 +21532,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "반도건설, 협력사와 시공기술 개발…현장 안전·품질 관리 집중 - 폴리뉴스 Polinews",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvall5YUtScG10QlNzbUJSNkhpaUhiRWxpRGd2M0pmY0R4ZHB5ZWt1b0xCOHZBSjJ4bGdxRUNiVVVTeG1NM2xhR0pwYUhtTUhwU1Ztd3FyS1NZT3ZWT0VtWmVqZ3hVQlNZaVVVZktB0gFyQVVfeXFMT2p0NVJqazkyLWlaeUs4X0MwZnpUcFc5VDZGcWNwMjRPSjB4ZG1WLWZndUVsa1VwZllUV1FqWWlXaFpYd3FCZWdBWTVTcFZ6d0F1dEJiX2pKQ1ZBdlN5Q3JFLUx6QTVtX21oR3BqenQ2VFBn?oc=5",
+    "description": "반도건설이 협력사 바로건설기술과 공동주택 시공에 적용할 기술 개발을 진행하고 있다.9일 반도건설에 따르면 양사는 업무협약을 체결하고 꺾임부 보강재, 기초보강재, 연속바체어 등 3개 기술의 신기술 등록을 추진 중이다.개발 대상은 공사 현장에서 사용하는 보강 기술이다. 작업자의 안전을 고려하는 동시에 구조물의 시공 품질을 안정적으로 유지하는 데 중점을 뒀다. 철근 배근 과정의 효율을 높여 자재 사용량을 줄일 수 있도록 설계했다. 건설업계는 공사비 부담과 안전 기준 강화가 중요해지면서 자재 절감과 품질 관리를 함께 만족시키는 시공 기술",
+    "published_at": "2026-07-09T15:32:18+09:00",
+    "cluster_id": "b290",
+    "publisher": "폴리뉴스 Polinews",
+    "title_clean": "반도건설, 협력사와 시공기술 개발…현장 안전·품질 관리 집중",
+    "summary": "반도건설이 협력사 바로건설기술과 공동주택 시공 기술 개발을 추진 중이며, 꺾임부 보강재 등 3개 기술의 신기술 등록을 진행하고 있다. 개발 기술은 작업자 안전을 고려하면서 구조물 품질을 유지하고 자재 사용량을 절감하는 데 중점을 두고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T01:54:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32177,22 +32193,6 @@
     "title_clean": "시멘트·레미콘주 강세…SOC 기대감에 매수세 유입",
     "summary": "정부의 SOC 투자 확대와 건설경기 회복 전망에 따라 시멘트·레미콘 업체를 중심으로 매수세가 유입되고 있다. 원자재 가격 안정으로 인한 수익성 개선도 기대되고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-07T12:59:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GH 김용진 사장, 화성동탄2 건설 현장 안전 점검 나서 - 인디포커스",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByOXVuVzExdGxRQjl0OV82SUVpdDdRdVhtbVdNZmJxQjY2TERYMENvN3B5eUdmNVVZeXdaeGtaWmxCYkk?oc=5",
-    "description": "경기주택도시공사(GH) 김용진 사장이 지난 6일 화성동탄2 택지개발지구 내 공동주택 건설 현장을 찾아, 폭염과 장마철을 앞두고 안전 점검을 실시했다.",
-    "published_at": "2026-07-07T12:38:00+09:00",
-    "cluster_id": "5d93",
-    "publisher": "인디포커스",
-    "title_clean": "GH 김용진 사장, 화성동탄2 건설 현장 안전 점검 나서",
-    "summary": "경기주택도시공사 김용진 사장이 화성동탄2 택지개발지구 공동주택 건설 현장을 점검하고 폭염과 장마철 대비 안전 점검을 실시했다. 공공기관의 건설 현장 안전 관리 활동을 보도한 사실 기반의 뉴스다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-07T12:59:41+09:00",
     "importance": 2
   }
