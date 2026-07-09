@@ -21532,6 +21532,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "韓총리 \"3대 메가프로젝트 성공, 건설업 역할이 핵심\" - 중앙이코노미뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3dkpTOWFNeFV5S0pkMmlPMEhhQi1BTFkyODBjbFEtZ3VqZnN1emJtbDVWZWhrbVFuQ3VMVFlXVGQycXJtSG5IN1MwX3pTT280aC1CYmdpTm1BQ05zZnNfNEd2aGZfU3pyMlFpTmxma1NiUQ?oc=5",
+    "description": "[중앙이코노미뉴스 엄현식] 한성숙 국무총리는 9일 정부가 추진하는 '3대 메가프로젝트'의 성공을 위해 건설업계의 역할이 무엇보다 중요하다며 스마트 건설과 인공지능",
+    "published_at": "2026-07-09T17:13:42+09:00",
+    "cluster_id": "e8f4",
+    "publisher": "중앙이코노미뉴스",
+    "title_clean": "韓총리 \"3대 메가프로젝트 성공, 건설업 역할이 핵심\"",
+    "summary": "한성숙 국무총리가 정부의 3대 메가프로젝트 성공을 위해 건설업계의 역할이 중요하다고 강조했다. 스마트 건설과 인공지능 등 기술 혁신을 통한 건설업계의 참여를 당부한 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T23:54:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32179,21 +32195,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-07T12:19:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, 협력회사 안전등급에 따라 입찰가점 인센티브 부여 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LTlExNGw2ZDk2TlFlY0gyRmJKQU1oVUZ5MS1UREozWUNBM2ktYktoRHktX0pqVkRJWkdWbzNfQnBMY0VjOGFnUkxSdVlTNExQak9mcU9fbVo1Y3ZVbWF2Q29Gbk01NGhkamfSAW9BVV95cUxPVG5sSGZTTXBtLWswb2FqMEl5eTRYRkFnMmlsSEo0eWE3ZFE5VlpPNzhTOHVVVHdkdmtMUnBpMW03OFgzSlhrQ29LdHpwYlBVX0RvLVZGQ0hUWGUwSUx6ay0wSzc0T2xjYU9yODA2YWc?oc=5",
-    "description": "대우건설은 협력회사의 안전관리 역량을 강화하고 안전 중심의 건설문화를 확산하기 위해 '협력회사 안전등급제'를 본격 시행했다고 7일 밝혔다. 협력회사 안전등급제는 협력회사의 안전관리 수준을 객관적으로 평가해 우수사에는 입찰 인센티브를 제공하고 안전관리가 미흡한 협력사는 단계적으로 입찰을 제한하는 제도다.",
-    "published_at": "2026-07-07T12:13:36+09:00",
-    "cluster_id": "fc3c",
-    "publisher": "머니투데이",
-    "title_clean": "대우건설, 협력회사 안전등급에 따라 입찰가점 인센티브 부여 - 머니투데이",
-    "summary": "대우건설이 협력회사의 안전관리 수준을 평가하여 우수사에 입찰 인센티브를 제공하고 미흡사는 입찰을 제한하는 '협력회사 안전등급제'를 시행했다. 이는 건설현장의 안전 중심 문화 확산과 협력회사의 안전관리 역량 강화를 목표로 한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-07T12:19:27+09:00",
-    "importance": 4
   }
 ]
