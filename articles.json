@@ -5250,6 +5250,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[초점] 삼성물산, 목화아파트 재건축사업 단독 입찰…수주 청신호 - newswatch.kr",
+    "link": "http://www.newswatch.kr/news/articleView.html?idxno=80387",
+    "description": "지난 5월 22일 열린 시공사 현장설명회에는 삼성물산을 포함해 대우건설, GS건설, 롯데건설, IPARK현대산업개발, 호반건설, 제일건설 등 7개 건설사가 참여했지만 입찰에는 삼성물산만 응찰했다. 이에 따라 이번 유찰은...",
+    "published_at": "2026-07-09T17:38:00+09:00",
+    "cluster_id": "adb0",
+    "publisher": "newswatch.kr",
+    "title_clean": "[초점] 삼성물산, 목화아파트 재건축사업 단독 입찰…수주 청신호",
+    "summary": "삼성물산이 목화아파트 재건축사업에 단독 입찰하며 수주 청신호를 보이고 있다. 현장설명회에 7개 건설사가 참여했으나 실제 입찰에는 삼성물산만 응찰해 경쟁 구도가 형성되지 않은 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-09T17:45:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21196,19 +21212,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "30대, 서울 아파트 매수 역대 최대…거래 비중 41% - sedaily.com",
-    "link": "https://www.sedaily.com/article/20064033?ref=naver",
-    "description": "잠실주공5단지가 지난 1일 사업시행계획인가를 받은 데 이어 장미아파트도 이르면 연내 시공사 선정이 이뤄질 수 있다는 관측이 나오며, 삼성물산(028260)·현대건설(000720)·롯데건설 등 대형 건설사들의 시공권...",
-    "published_at": "2026-07-06T10:01:00+09:00",
-    "cluster_id": "7e58",
-    "publisher": "sedaily.com",
-    "title_clean": "30대, 서울 아파트 매수 역대 최대…거래 비중 41%",
-    "summary": "30대의 서울 아파트 매수가 역대 최대치를 기록하며 거래 비중이 41%에 달했다. 잠실주공5단지와 장미아파트 등 대형 재개발 사업이 추진되면서 삼성물산, 현대건설, 롯데건설 등 대형 건설사들의 시공권 수주 기회가 증가할 것으로 예상된다.",
+    "title": "[선임기자 칼럼]한승구 대한건설단체총연합회장 \"스마트건설 시대 열어야\" - BBS불교방송",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wRlYtOC1fVUJuZTJYZHBfbEZSeENROG54Q04tdURWV3JkRGZpdHIwRC0zRzlwYmtaZXZsNmEzWlVSWWxXV1N5Uy1ITWEyNzJuckVnRS1DbV9yUmJwdEN4NXRONDR2LVAxNUtj?oc=5",
+    "description": "한승구 대한건설총연합회장(대한건설협회장)이 \"인공지능(AI)과 로봇, 드론 등 첨단기술을 적극 도입해 생산성과 안전을 동시에 혁신하고 스마트 건설을 통해 미래 경쟁력을 확보해야 한다\"라고 강조했다.한승구 회장은 9일 서울 강남구 논현동 건설회관에서 열린 '2026 건설의 날' 기념식에",
+    "published_at": "2026-07-09T17:33:38+09:00",
+    "cluster_id": "75ad",
+    "publisher": "BBS불교방송",
+    "title_clean": "[선임기자 칼럼]한승구 대한건설단체총연합회장 \"스마트건설 시대 열어야\"",
+    "summary": "한승구 대한건설총연합회장이 AI, 로봇, 드론 등 첨단기술 도입을 통해 건설산업의 생산성과 안전을 혁신하고 스마트 건설 시대를 열어야 한다고 강조했다. 이를 통해 건설업계의 미래 경쟁력 확보를 촉구했다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-06T10:08:53+09:00",
+    "collected_at": "2026-07-09T17:45:03+09:00",
     "importance": 2
   },
   {
@@ -32158,21 +32174,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-06T19:50:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설사 폐업·부도 감소했지만…착공 지연에 체감경기 회복은 '아직' - thepublic.kr",
-    "link": "https://www.thepublic.kr/news/articleView.html?idxno=310258",
-    "description": "건설업계 관계자는 \"폐업과 부도가 감소한 것은 긍정적인 신호지만 이를 곧바로 경기 회복으로 보기는 어렵다\"며 \"공사비와 PF 부담이 여전한 만큼 수주 증가가 실제 착공과 투자로 이어지는지가 향후 건설경기...",
-    "published_at": "2026-07-06T19:40:00+09:00",
-    "cluster_id": "e47a",
-    "publisher": "thepublic.kr",
-    "title_clean": "건설사 폐업·부도 감소했지만…착공 지연에 체감경기 회복은 '아직'",
-    "summary": "건설사 폐업·부도는 감소했으나 착공 지연으로 인해 실제 경기 회복은 미흡한 상태다. 공사비와 PF 부담이 여전해 수주 증가가 실제 투자로 이어지는지가 향후 건설경기 회복의 핵심이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-06T19:45:19+09:00",
-    "importance": 2
   }
 ]
