@@ -21532,6 +21532,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대건설, '안전 혁신생태계' 기반 마련 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdGVKRHQtanpyLW1LOHc0a256blBxWFdJVGJ2b0NTd21PQXlTY0kzTXZpQkd0ZFhkZU91cmhmVjF1a0NEckFfbS1ES0w5TE1yQTBtdmxNbzVuVXFjT2RUU084SkZxcHFfTlHSAW9BVV95cUxQbFFLYzVfRktnU2FzbWZsNUtIOVBSY2FOSFlKeHlsVE9JMkZDOWdtY1I4bmo4SzY0WmcyT2hwOWhDMk50alAwdDFUeWpjVUlUblF3QWM0RzdfTXd5cEhZNmxMMmZZWHNuQVJOYTE0UDA?oc=5",
+    "description": "현대건설이 지난 8일 서울 마포구의 스타트업 벤처캠퍼스 서울(Startup Venture Campus Seoul·SVC Seoul)에서 '2026 H-세이프(Safe) 오픈이노베이션 데모데이'를 개최했다고 9일 밝혔다.",
+    "published_at": "2026-07-10T04:00:00+09:00",
+    "cluster_id": "5570",
+    "publisher": "머니투데이",
+    "title_clean": "현대건설, '안전 혁신생태계' 기반 마련 - 머니투데이",
+    "summary": "현대건설이 안전 기술 혁신을 위한 '2026 H-세이프 오픈이노베이션 데모데이'를 개최했다. 스타트업과의 협력을 통해 건설업계의 안전 혁신생태계 기반을 마련하려는 시도이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T04:09:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32179,22 +32195,6 @@
     "summary": "HUG가 여름철 집중호우와 태풍에 대비하여 부산 사상구 경보센트리안 3차 사업장에 대한 안전점검을 실시했다. 우기 대비 안전관리를 통해 공사 재개를 준비하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-07T13:29:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "젠스파크, ‘스마트건설 챌린지’ 첫 공식 AI 후원사 참여 - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OdWhyMjJHcGVmVkxVSFVrU29nSGNQUDYtbHFlTVhHSXlmUlYtR2p2TUtEUjNCSVJpdlNfZk5DcjloRUUwMlFlWmtscl9LeDZWRElnc2prbTg5emhPa2FfNjBabDJ2UDlYSzVFU2RVWmHSAXRBVV95cUxNS1VPclBBNVd3WENWSHlJRk56WkZURlhhTUd1QnBKenZfR2JONTBVX1J2eWpQVU5aLW1aeDduUnNQbFE2WkY3SFNDTFNrY2FkcTRlSFJQaWhGVmMwZ3QyVG5FRXM5QjVReDlSNFdoNHNDdWhzeg?oc=5",
-    "description": "글로벌 인공지능(AI) 워크스페이스 플랫폼 기업 젠스파크(Genspark.ai)는 국토교통부 주최 ‘2026 스마트건설 챌린지’에 공식 AI 후원사로 참여한다고 7일 밝혔다. 회사는 대회 참가팀의 생성형 AI 활용을 지원하며 건설산업 디지털 전환과 AI 기반 기술 발굴에 힘을 보탤 예",
-    "published_at": "2026-07-07T10:28:23+09:00",
-    "cluster_id": "96da",
-    "publisher": "IT조선",
-    "title_clean": "젠스파크, ‘스마트건설 챌린지’ 첫 공식 AI 후원사 참여",
-    "summary": "젠스파크가 국토교통부 주최 '2026 스마트건설 챌린지'의 공식 AI 후원사로 참여하며 생성형 AI 기술 지원을 제공한다. 이는 건설산업의 디지털 전환 가속화와 AI 기반 혁신 기술 개발에 긍정적으로 작용할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T13:19:41+09:00",
     "importance": 2
   }
 ]
