@@ -21007,6 +21007,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "반도건설, 협력사와 안전·품질 개선 신기술 3종 개발 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dmE0RFpuYmtPeFpKeGJjS0Z4MkFRV01FYXlwU0NkQ0Y3NDZEbkVmWDBWS0VLU1VkOFZtbmFaN0lfR0JWaHNnVzNZU2dWeHVJVmdhekVxbUR4YTJqbTVWSQ?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이투데이/천상우 기자]이정령 반도건설 대표(왼쪽 세 번째)와 김영춘 바로건설기술 대표(왼쪽 네 번째) 등 관계자들이",
+    "published_at": "2026-07-09T12:47:00+09:00",
+    "cluster_id": "0b0f",
+    "publisher": "네이트",
+    "title_clean": "반도건설, 협력사와 안전·품질 개선 신기술 3종 개발",
+    "summary": "반도건설이 협력사와 함께 건설 현장의 안전과 품질 개선을 위한 신기술 3종을 개발했다. 이는 건설업계의 기술 혁신과 안전 강화를 추구하는 긍정적 사례로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T12:54:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32143,21 +32159,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-06T10:59:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안전보건조치 책임범위에 관한 동일한 판단기준, 상반된 결론 - 건설공사발주자 해당 여부 판단을 구체화한 대법원 판결 - 법률신문",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qTXBfQUZLenZfXzd3bFZfdDBuelU2dURZX3RkcHlSYkhWRkRMZlNjUExBdVNVQjQwQVAxaDAzbEc4ajBGZGJFb25iMzdSUzA1azI5eGR0ZGZib1QxNlFsV0UzbC1aelpSVlNvVmln0gFyQVVfeXFMTTVvVW5iSE5EZm1Kek8wZzNYbXdXdjJlM3B6VV9EcWdBMkliblliRndEZi1DR1ZyeDQ2THRuNFR5bEFSY3FCV1l3enk4RWpCTWYyZnR6ZWp1bDVQR1hadE1uellvMkxRSGFnOWdBOFpDeHB3?oc=5",
-    "description": "대법원은 2026. 6. 25. 발전소 건설공사 현장에서 발생한 변압기 아크 폭발 사고와 관련하여, 발주처(도급 사업주)와 그소속 일부 임직원에게 유죄를 선고한",
-    "published_at": "2026-07-06T10:38:41+09:00",
-    "cluster_id": "daaa",
-    "publisher": "법률신문",
-    "title_clean": "안전보건조치 책임범위에 관한 동일한 판단기준, 상반된 결론 - 건설공사발주자 해당 여부 판단을 구체화한 대법원 판결",
-    "summary": "대법원이 2026년 6월 25일 발전소 건설공사 현장의 변압기 아크 폭발 사고 관련하여 발주처와 임직원에게 유죄를 선고했다. 이는 건설공사 발주자의 안전보건조치 책임범위를 구체화한 판결로, 건설업계의 안전관리 의무를 강화하는 판례를 제시했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-06T10:53:55+09:00",
-    "importance": 4
   }
 ]
