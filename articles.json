@@ -5503,6 +5503,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 1.3조 성수4지구 재개발 수주 - 주간동아",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SQ0ZLQ2RrRmpEQ0h2d1VQM1NCcTR5a3RTcW1MTi14UWI4cklscFVjNG1WTkM3TGhaZ1puOVdzUWttZ2FLb3hQb2VoVTZVLWpfQ3FCTVJNYm94aGFTdmswaE9fRkpxSnRP?oc=5",
+    "description": "롯데건설이 서울 성동구 성수전략정비구역 제4지구(성수4지구) 주택재개발정비사업 시공권을 따냈다. 총공사비는 1조3628억 원으로 한강변 재개발사업 가운데서도 큰 규모다.",
+    "published_at": "2026-07-09T07:00:01+09:00",
+    "cluster_id": "7ab2",
+    "publisher": "주간동아",
+    "title_clean": "롯데건설, 1.3조 성수4지구 재개발 수주",
+    "summary": "롯데건설이 성수4지구 주택재개발정비사업 시공권을 수주하며 1조3628억 원 규모의 대형 프로젝트를 확보했다. 한강변 재개발사업 중에서도 큰 규모로, 건설업체의 수주 실적 증대에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T20:24:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21444,22 +21460,6 @@
     "publisher": "businessplus.kr",
     "title_clean": "6월 전 세계 선박 수주량 525만CGT…한국 상반기 전년 대비 60% 증가",
     "summary": "한국 조선업이 6월 전 세계 선박 수주량 525만CGT 중 상당 부분을 차지하며 상반기 전년 대비 60% 수주 증가를 기록했다. FLNG 등 고부가가치 선종 수주로 중국과의 질적 격차를 유지하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T10:18:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "글로벌 선박 발주 회복세…중국 쏠림 속 한국 19% 점유 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260706000176",
-    "description": "삼성중공업이 건조한 S-MAX 원유운반선. [사진=삼성중공업] 6일 클락슨리서치에 따르면 지난 6월 전세계 선박 수주량은 525만CGT(표준화물선환산톤수), 200척으로 집계됐다. 전월 576만CGT보다 9% 감소했지만...",
-    "published_at": "2026-07-06T10:11:00+09:00",
-    "cluster_id": "739f",
-    "publisher": "newspim.com",
-    "title_clean": "글로벌 선박 발주 회복세…중국 쏠림 속 한국 19% 점유",
-    "summary": "글로벌 선박 시장이 회복세를 보이며 6월 전세계 선박 수주량은 525만CGT를 기록했다. 중국의 시장 쏠림 속에서도 한국은 19% 점유율을 유지하며 경쟁력을 확보하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T10:18:55+09:00",
     "importance": 2
