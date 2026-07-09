@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "‘AI 대체 불가’ 전문 기능인 꿈꾸는 30~40대 - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026070918132877015",
+    "description": "9일 대한기계설비건설협회 부산시회에 따르면 협회는 이달 초 ‘온수온돌 기능사’와 ‘피복아크 용접 기능사’ 자격증반 개설을 위한 공문을 각 회원사로 띄워 수강생 모집에 나섰다. 각 과목별 최대 15명씩 선착순 모집...",
+    "published_at": "2026-07-09T20:00:00+09:00",
+    "cluster_id": "6cfd",
+    "publisher": "busan.com",
+    "title_clean": "‘AI 대체 불가’ 전문 기능인 꿈꾸는 30~40대",
+    "summary": "대한기계설비건설협회 부산시회가 'AI 대체 불가' 전문 기능인 양성을 위해 온수온돌 기능사, 피복아크 용접 기능사 자격증반을 개설하고 수강생을 모집 중이다. 협회는 전문 기술 인력 양성을 통해 업계 경쟁력 강화에 나서고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T20:09:31+09:00",
+    "event_label": "대한기계설비건설협회 전문 기능사 자격증반 개설",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -21448,6 +21465,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건설기술인協, 전국 대학서 '스마트건설기술 교육' 성료 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZk5RcGNSa3p3RW1FaVlXUVBPSFpuQ2xVSjgxUUg3UENTcUZqcWpYekNHbzltaWVTN2FXZ0tsS3FoSzRmaGcyUy1NZmwyV1dBWjVWdTNJbnR4bnZWRXRTeEdneU9HN1J5MEtF?oc=5",
+    "description": "한국건설기술인협회(이하 협회, 협회장 박종면)가 청년 예비건설기술인의 스마트건설 역량 강화와 취업 경쟁력 제고를 위해 마련한",
+    "published_at": "2026-07-09T16:57:55+09:00",
+    "cluster_id": "77e1",
+    "publisher": "한국건설신문",
+    "title_clean": "건설기술인協, 전국 대학서 '스마트건설기술 교육' 성료",
+    "summary": "한국건설기술인협회가 전국 대학에서 청년 예비건설기술인을 대상으로 스마트건설기술 교육을 실시했다. 이는 건설업계의 디지털 전환에 대응하고 청년층의 건설 산업 진출을 지원하기 위한 인재 육성 프로그램이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T20:09:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32157,37 +32190,6 @@
     "publisher": "view.asiae.co.kr",
     "title_clean": "\"매일 도시락 800개 팔아 148억 매출\"…카르텔 형성한 이들의 정체",
     "summary": "홍콩 동구룡 지역의 건설 프로젝트 증가로 노동자 도시락 수요가 급증했으나, 조직폭력배가 카르텔을 형성해 시장을 독점하고 있다. 이는 건설 현장의 불법 시장 독점과 부정 이슈로 업계 신뢰도를 훼손한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-07T11:09:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "SK에코플랜트, 평택~오송 2복선화 건설현장에서 중대재해…근로자 1명 사망 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPYXJwVDhwUi1iTU10dXdrc3FwQmVvYVRhUlJHTmNLc0xyckNtYlRoLXMzNlNBZzNPdXMxV0x3R0NxRlZ1aldXTlktQ3dQR3NUd2M0azZWdE1zblJCUWdNU1U0VHgweWhMWWt6alVaUExULWRiQVYwSEw5QlRPaUdaZHlSdFdXTThrcklxbjBfU0s5Y3FqRW1XUXJkUHVUbllNT0x1V2dXcEMtbkVwaFJJaEdMTTZzbjVUWW1mMnJkdzd6TGVRaGN3ZFZrZE5kMXNuTTBsWV9NSmZ0Vk5LaFZ5OExQZ3drZEpoR1pqOUpIeUswQno5ODNvd0YwMG5YcGhLQUJObFg4ZUNjUWI1ekdRQk5aVEF1elZ1Sl9udVZLRGhha2RxYk1zaDBIa3J3UDJpNjFxZnN4VWpzc3BmOWhSQVhEbGRnYXMtc2dVc3pWMWd2Zlc2bExLUTVYNC1SOFVINDU0R1Nxb25DRkpZS0hXc08wNm4zRm5naEJrY2JsSndYLXZXNENPcUxxdzdQc0VuZm8tbUpKUlUwSlV4Z3k5eW8xT0xPOEE3b0g5enBaQnNEVmE5Q3V4Wm5hbm5vZw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMivgNBVV95cUxPYXJwVDhwUi1iTU10dXdrc3FwQmVvYVRhUlJHTmNLc0xyckNtYlRoLXMzNlNBZzNPdXMxV0x3R0NxRlZ1aldXTlktQ3dQR3NUd2M0azZWdE1zblJCUWdNU1U0VHgweWhMWWt6alVaUExULWRiQVYwSEw5QlRPaUdaZHlSdFdXTThrcklxbjBfU0s5Y3FqRW1XUXJkUHVUbllNT0x1V2dXcEMtbkVwaFJJaEdMTTZzbjVUWW1mMnJkdzd6TGVRaGN3ZFZrZE5kMXNuTTBsWV9NSmZ0Vk5LaFZ5OExQZ3drZEpoR1pqOUpIeUswQno5ODNvd0YwMG5YcGhLQUJObFg4ZUNjUWI1ekdRQk5aVEF1elZ1Sl9udVZLRGhha2RxYk1zaDBIa3J3UDJpNjFxZnN4VWpzc3BmOWhSQVhEbGRnYXMtc2dVc3pWMWd2Zlc2bExLUTVYNC1SOFVINDU0R1Nxb25DRkpZS0hXc08wNm4zRm5naEJrY2JsSndYLXZXNENPcUxxdzdQc0VuZm8tbUpKUlUwSlV4Z3k5eW8xT0xPOEE3b0g5enBaQnNEVmE5Q3V4Wm5hbm5vZw?oc=5\" target=\"_blank\">SK에코플랜트, 평택~오송 2복선화 건설현장에서 중대재해…근로자 1명 사망</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-    "cluster_id": "d3e4",
-    "publisher": "MSN",
-    "title_clean": "SK에코플랜트, 평택~오송 2복선화 건설현장에서 중대재해…근로자 1명 사망",
-    "summary": "SK에코플랜트가 시공 중인 평택~오송 2복선화 건설현장에서 근로자 1명이 사망하는 중대재해가 발생했다. 건설업계의 안전 관리 문제와 함께 규제 강화 및 기업 책임이 대두될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-07T11:09:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"안전이 경쟁력\"…대우건설, 안전등급 우수 협력사 입찰 우대 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdHVLSUNWMy1HYklUNkJlbFRGRVJOR0VrM2dJd1VRUE9RYUVPSDF4azYyVFJqSGd3blJ6clZYVjdRZ0c0cVBpYzQ0WThTSmhYXy05cW5JMlVKRkxib2tVV9IBeEFVX3lxTE9TVktHV19jRVhQbjhmcE05VHlOX3ByLXRJYW9pN0ZoNjdQUm5hbzYzUHN5UWcwR25oZzhISWhSY2dmT1ZDMmRMbGJoa0dsclJvMDR2dFZFTVV3Q19VQ0M0TnRvZW43dHBPeUFZeU9uY2IyUzdrVFFRRg?oc=5",
-    "description": "[서울=뉴시스]정유선 기자 = 대우건설이 협력사의 안전관리 역량을 강화하고 안전 중심의 건설문화를 정착시키기 위해 '협력회사 안전등급제'를 본격 시행한다고 7일 밝혔다.협력회사 안전등급제는 협력사의 안전관리 수준을 객관적으로 평가해 우수 업체에는 입찰 인센티브를 제공하고 미흡한 업체에는 단계적으로 입찰을 제한하는 것이 골자다. 평가는 현장·본사 안전평가와 ..",
-    "published_at": "2026-07-07T10:46:59+09:00",
-    "cluster_id": "b3c7",
-    "publisher": "뉴시스",
-    "title_clean": "\"안전이 경쟁력\"…대우건설, 안전등급 우수 협력사 입찰 우대",
-    "summary": "대우건설이 협력사의 안전관리 수준을 평가하여 우수 업체에는 입찰 우대, 미흡 업체에는 입찰 제한을 적용하는 '협력회사 안전등급제'를 시행한다. 이는 안전 중심의 건설문화 정착과 협력사의 안전관리 역량 강화를 목표로 한다.",
     "sentiment": "negative",
     "collected_at": "2026-07-07T11:09:52+09:00",
     "importance": 4
