@@ -5571,6 +5571,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[기획] 두산건설, 시평 25위가 쓴 정비 수주 5위 - startuptoday.co.kr",
+    "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=806220",
+    "description": "두산건설은 올해 상반기에만 도시정비 10개 사업장에서 2조 6426억원(시공사 선정 기준)을 수주해 현대건설, GS건설, 삼성물산, 대우건설에 이어 업계 5위에 올랐다. 2분기에는 부산 망미5구역 재개발(7334억원)과 의정부...",
+    "published_at": "2026-07-10T06:00:00+09:00",
+    "cluster_id": "45f8",
+    "publisher": "startuptoday.co.kr",
+    "title_clean": "[기획] 두산건설, 시평 25위가 쓴 정비 수주 5위",
+    "summary": "두산건설이 상반기 도시정비 사업에서 2조 6426억원을 수주하며 업계 5위에 올랐다. 시공사 평가에서 낮은 순위에도 불구하고 대형 정비 프로젝트 수주를 통해 건설사 서열이 변화하고 있음을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T06:04:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21516,19 +21532,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "성수4지구 품은 ‘롯데건설’... ‘성수 르엘 S70’ 건설 - 성동저널",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ub1BRSXdXMWItaF94QS1iSEktV25WU2dZS1RmNm1pNHRFN25Sckl6SlltcGhuWVRjdk9ENVRNaWl0S3M2bGZoNkozb2NNVWJaclRuNzZzaENuMzZZeUNaUFNhYWpYUWtyVEtHSE5rZVk?oc=5",
-    "description": "성동저널 윤종철 기자 = 서울 한강변 재개발 최대어로 꼽히는 성수전략정비구역 제4지구(성수4지구)가 시공사로 ‘롯데건설’을 최종 선정했다.롯데건설은 성수4지구를",
-    "published_at": "2026-07-06T10:44:25+09:00",
-    "cluster_id": "cbfb",
-    "publisher": "성동저널",
-    "title_clean": "성수4지구 품은 ‘롯데건설’... ‘성수 르엘 S70’ 건설",
-    "summary": "롯데건설이 서울 한강변 재개발 최대 규모 사업인 성수4지구의 시공사로 최종 선정되었다. 이는 대형 건설 수주 사례로 건설업계에 긍정적인 신호를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T10:49:04+09:00",
+    "title": "이름에서 ‘페인트’ 뗐다…SP삼화의 첨단소재 승부수 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260709010003518",
+    "description": "그러나 국내 건설경기 둔화와 원재료 가격 변동성, 친환경 규제 강화 등으로 전통 도료 사업만으로는 성장성 확보에 한계가 있다는 평가를 받아왔다. 이에 회사는 기존 도료 기술을 기반으로 반도체, 전자재료, 에너지...",
+    "published_at": "2026-07-10T06:00:00+09:00",
+    "cluster_id": "5707",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "이름에서 ‘페인트’ 뗐다…SP삼화의 첨단소재 승부수",
+    "summary": "SP삼화가 국내 건설경기 둔화와 규제 강화로 전통 도료 사업의 한계를 극복하기 위해 반도체, 전자재료, 에너지 등 첨단소재 사업으로 사업 다각화를 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T06:04:21+09:00",
     "importance": 2
   },
   {
@@ -32177,22 +32193,6 @@
     "summary": "피지컬 AI 기술이 건설 현장에 빠르게 도입되고 있으며, 안전 사고 방지를 위해 업계 차원의 안전 지침과 가이드라인 마련이 필요한 상황이다. 새로운 기술 도입에 따른 규제 정비와 안전 기준 수립이 시급하다는 지적이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-07T14:04:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[산업 이모저모] GS건설 '국토부 상호협력평가 4년 연속 '최우수' 등급'... - bizwnews.com",
-    "link": "http://www.bizwnews.com/news/articleView.html?idxno=140149",
-    "description": "건설사업자간 상호협력평가는 '건설산업기본법' 제48조에 따라 건설사업자 간 긴밀한 협력관계를 구축하고 건설산업의 균형 있는 발전과 건설공사의 효율적인 수행을 유도하기 위해 시행되는 제도라고 한다....",
-    "published_at": "2026-07-07T13:44:00+09:00",
-    "cluster_id": "8ac9",
-    "publisher": "bizwnews.com",
-    "title_clean": "[산업 이모저모] GS건설 '국토부 상호협력평가 4년 연속 '최우수' 등급'...",
-    "summary": "GS건설이 국토부 상호협력평가에서 4년 연속 최우수 등급을 획득했다. 이는 건설사업자 간 협력관계 구축과 건설산업의 균형 있는 발전을 위해 시행되는 평가 제도에서의 성과다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T13:49:44+09:00",
     "importance": 2
   }
 ]
