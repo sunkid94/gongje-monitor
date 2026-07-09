@@ -5503,6 +5503,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대·대우 등 도시정비 수주 확대에도 '집값 상승 압력 여전'…왜? - fntimes.com",
+    "link": "https://www.fntimes.com/html/view.php?ud=202607092011344089048b718333_18",
+    "description": "대우건설(대표이사 김보현)도 재건축·재개발과 공공정비사업을 중심으로 수주를 확대하는 한편, 올해 약 1만8500여 가구 공급을 계획하는 등 실제 분양도 이어갈 예정이다. 다만 도시정비사업은 시공사 선정 이후에도...",
+    "published_at": "2026-07-09T20:36:00+09:00",
+    "cluster_id": "ec97",
+    "publisher": "fntimes.com",
+    "title_clean": "현대·대우 등 도시정비 수주 확대에도 '집값 상승 압력 여전'…왜?",
+    "summary": "현대·대우 등 건설사들이 도시정비사업 수주를 확대하고 공급을 늘리고 있으나, 사업 완료까지의 긴 시간으로 인해 주택시장의 집값 상승 압력은 여전한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-09T20:39:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21447,22 +21463,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-06T10:29:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "6월 전 세계 선박 수주량 525만CGT…한국 상반기 전년 대비 60% 증가 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=113748",
-    "description": "삼성중공업이 건조한 대형 부유식 액화천연가스 생산설비(FLNG)./사진=삼성중공업 한국 조선업이 고부가가치 선종 수주를 이어가며 중국과의 질적 격차를 유지중인 것으로 나타다. 6월 수주량 기준...",
-    "published_at": "2026-07-06T10:12:00+09:00",
-    "cluster_id": "ac78",
-    "publisher": "businessplus.kr",
-    "title_clean": "6월 전 세계 선박 수주량 525만CGT…한국 상반기 전년 대비 60% 증가",
-    "summary": "한국 조선업이 6월 전 세계 선박 수주량 525만CGT 중 상당 부분을 차지하며 상반기 전년 대비 60% 수주 증가를 기록했다. FLNG 등 고부가가치 선종 수주로 중국과의 질적 격차를 유지하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T10:18:55+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
