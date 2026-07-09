@@ -5537,6 +5537,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중, 총 수주액 '100억달러' 돌파… 연간 목표 72% 달성 - gnmaeil.com",
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=590431",
+    "description": "﻿삼성중공업이 건조한 S-MAX 원유운반선. / 삼성중공업 삼성중공업이 원유운반선 2척 추가 수주로 100억달러를 돌파했다. 이 성과는 지난 2021년 이후 5년 만이다. 지난 8일 공시를 통해 밝힌 원유운반선 2척의...",
+    "published_at": "2026-07-09T22:04:00+09:00",
+    "cluster_id": "2740",
+    "publisher": "gnmaeil.com",
+    "title_clean": "삼성중, 총 수주액 '100억달러' 돌파… 연간 목표 72% 달성",
+    "summary": "삼성중공업이 원유운반선 2척 추가 수주로 총 수주액 100억달러를 달성했다. 2021년 이후 5년 만의 성과로, 연간 목표의 72%를 이미 달성하며 건조선박 시장의 호황을 보여주고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T22:09:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21481,22 +21497,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-06T10:29:21+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'성수 르엘 S70' 현실화···롯데건설, 서울 최대 재개발 수주전 승리 - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=147796",
-    "description": "전체 조합원 753명 가운데 617명이 참석한 가운데 진행된 투표에서 롯데건설은 451표를 얻어 166표를 획득한 대우건설을 큰 표 차로 제쳤다. 이번 결과는 양 사의 재대결이라는 점에서도 관심을 모았다. 롯데건설과...",
-    "published_at": "2026-07-06T10:26:00+09:00",
-    "cluster_id": "db36",
-    "publisher": "smartbizn.com",
-    "title_clean": "'성수 르엘 S70' 현실화···롯데건설, 서울 최대 재개발 수주전 승리",
-    "summary": "롯데건설이 서울 성수 르엘 S70 재개발 사업의 시공사 선정 투표에서 451표를 획득해 166표의 대우건설을 큰 표 차로 제쳤다. 이는 서울 최대 규모의 재개발 수주전으로, 건설업계에 대형 프로젝트 수주 기회를 제공하는 호재다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T10:29:21+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 PF",
