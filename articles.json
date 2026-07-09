@@ -21126,6 +21126,22 @@
     "importance": 3
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현직 마케터 67% \"AI 답변 최적화(GEO) 시급\" - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40810",
+    "description": "[건설이코노미뉴스]국내 마케터 10명 중 7명은 생성형 AI 답변 최적화(GEO) 대응을 가장 시급한 과제로 꼽았다.데이터 컨설팅 전문기업 '플러스제로'(대표 정성진)는 마케팅 담당자 200여명을 대상으로 디지털 마케팅 환경 변화에 대한 설문조사를 실시한 결과, 전체 응답자의 67.2%가 현재 기업에서 가장 고민하고 있거나 고도화가 필요한 영역은 'AI 답변 GEO 최적화'라고 답변했다고 9일 밝혔다.GEO(Generative Engine Optimization)는 생성형 AI 엔진 최적화의 약자로, ChatGPT, Gemini 등",
+    "published_at": "2026-07-09T15:45:14+09:00",
+    "cluster_id": "7a68",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "현직 마케터 67% \"AI 답변 최적화(GEO) 시급\"",
+    "summary": "국내 마케터 67%가 생성형 AI 답변 최적화(GEO)를 가장 시급한 과제로 인식하고 있다. 디지털 마케팅 환경 변화에 대응하기 위해 GEO 전략 고도화의 필요성이 대두되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-09T15:46:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32155,21 +32171,6 @@
     "title_clean": "대광위, 도시철도 계획부터 건설까지 전과정 ‘원스톱’ 지원한다",
     "summary": "국토교통부 대도시권광역교통위원회가 도시철도 건설 관련 계획 승인·고시 권한을 국토부에서 위임받아 7월 7일부터 원스톱 지원체계를 운영한다. 도시철도망 구축계획부터 기본계획 승인까지 전 과정을 대광위 중심으로 일원화하여 처리 절차를 간소화한다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-06T15:19:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "세종시교육청, 학생해양수련원 신축현장 안전점검 실시 - 뉴스파고",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBOUU05aXRYQjJXc2FrajN2eG1tN2lPS2J6S2FXbmtqd0Z0dFBKNkc2aE5YbElYNjE1Unc3dzQ4dkYwdnVV?oc=5",
-    "description": "강미애세종교육감(사진앞쪽)이5일세종학생해양수련원신축공사현장을찾아 공사 관계자로부터안전관리현황을보고받고있다. ©금기양기자 [세종",
-    "cluster_id": "9386",
-    "publisher": "뉴스파고",
-    "title_clean": "세종시교육청, 학생해양수련원 신축현장 안전점검 실시",
-    "summary": "세종시교육청이 학생해양수련원 신축공사 현장에 대한 안전점검을 실시했다. 교육감이 현장을 방문하여 공사 관계자로부터 안전관리 현황을 보고받았다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-06T15:19:54+09:00",
     "importance": 2
   }
