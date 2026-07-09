@@ -5469,6 +5469,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "안전보건공단, 민간 안전체험교육기관 우수 체험교육 사례 공유 - hankyung.com",
+    "link": "https://www.hankyung.com/article/202607096473h",
+    "description": "S+, 삼성중공업 안전체험관, LG화학 대산공장 안전체험교육장이 수상했다. 김현중 안전보건공단 이사장은 “이번 발표대회가 체험 중심 교육의 우수사례를 공유하고, 산업현장의 안전보건교육을 보다 현장 중심으로...",
+    "published_at": "2026-07-09T19:10:00+09:00",
+    "cluster_id": "c182",
+    "publisher": "hankyung.com",
+    "title_clean": "안전보건공단, 민간 안전체험교육기관 우수 체험교육 사례 공유",
+    "summary": "안전보건공단이 민간 안전체험교육기관의 우수 사례를 공유하는 발표대회를 개최했으며, S+, 삼성중공업, LG화학 등이 수상했다. 체험 중심의 현장 맞춤형 안전보건교육 확대를 통해 산업현장의 안전 문화 고취를 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-09T19:14:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21410,22 +21426,6 @@
     "publisher": "topdaily.kr",
     "title_clean": "[TOP's Pick] [건설] 롯데건설, 성수전략정비구역 제4지구 재개발 수주 ...",
     "summary": "롯데건설이 서울 성동구 성수전략정비구역 제4지구 주택재개발정비사업을 수주했다. 이는 건설사의 수주 실적 증가를 의미하는 긍정적인 뉴스이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T10:18:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 성수4지구 재개발 수주…공사비 1조3492억원 - cstimes.com",
-    "link": "https://www.cstimes.com/news/articleView.html?idxno=712300",
-    "description": "컨슈머타임스=정용규 기자 | 롯데건설이 서울 성동구 성수전략정비구역 제4지구 주택재개발정비사업 시공사로 선정됐다. 지난 5일 서울 강남구 예림당 아트홀에서 시공사 선정 총회가 열렸다. 전체 조합원 753명 중...",
-    "published_at": "2026-07-06T10:14:00+09:00",
-    "cluster_id": "c577",
-    "publisher": "cstimes.com",
-    "title_clean": "롯데건설, 성수4지구 재개발 수주…공사비 1조3492억원",
-    "summary": "롯데건설이 서울 성동구 성수4지구 주택재개발정비사업의 시공사로 선정되었으며, 공사비는 1조3492억원 규모이다. 이는 건설사의 수주 확대를 의미하는 긍정적 소식이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T10:18:55+09:00",
     "importance": 2
