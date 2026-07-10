@@ -21416,6 +21416,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 모듈러주택 공급 확대로 부동산시장 대응 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50776",
+    "description": "국토교통부는 10일 모둘러주택활성화 간담회<사진>를 전북 군산에서 개최하고 모듈러 기술을 신속한 고품질 주택 공급을 위한 핵심 수단으로 육성하겠다고 밝혔다.이날 김윤덕 장관은 모듈러주택 제작 공장을 방문해 현장을 점검하고 업계, 한국토지주택공사(LH), 국토교통과학기술진흥원(KAIA)과 모듈러산업 활성화 방안을 논의했다.김 장관은 \"작업자 고령화와 외국 인력 의존 심화, 기후변화 등으로 건설 산업이 구조적인 어려움에 직면해 있다\"며 \"모듈러 기술은 외부 요인에 흔들리지 않고 고품질 주택을 빠르게 공급할 수 있는 핵심 돌파구\"라고 말",
+    "published_at": "2026-07-10T15:46:17+09:00",
+    "cluster_id": "6900",
+    "publisher": "기계설비신문",
+    "title_clean": "국토부, 모듈러주택 공급 확대로 부동산시장 대응",
+    "summary": "국토교통부가 모듈러주택을 건설산업의 구조적 문제 해결 방안으로 추진하며, 제작 공장 현장점검과 함께 LH, KAIA 등과 산업 활성화 방안을 논의했다. 모듈러 기술을 통해 고품질 주택의 신속한 공급을 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T15:50:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32179,20 +32195,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-08T12:59:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, ‘조강 콘크리트 기술’ 녹색기술 인증… 탄소 저감 속도 - 브릿지경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwYUhuSl82aTFrVDlfdG5DX1AtZHRBczF0U3hfTWxjYXN4NWdRZXFCTEktNWpPbGQyX2ZhNjduLVhWY25hdG92YjVqTnpkOGpLN0xTVlhyRmFuZw?oc=5",
-    "description": "현대건설은 콘크리트 양생 과정에서 에너지 사용을 줄일 수 있는 ‘일평균 기온 5℃ 이상 조건에서 건설 현장 콘크리트 공사 시 조강형 콘크리트를 적용한 공정 기술(이하, 조강 콘크리트 기술)’로 녹색기술 인증을 획득했다고 8일 밝혔다. 녹색기술 인증은 에너지 및 자원 절",
-    "cluster_id": "da9d",
-    "publisher": "브릿지경제",
-    "title_clean": "현대건설, ‘조강 콘크리트 기술’ 녹색기술 인증… 탄소 저감 속도",
-    "summary": "현대건설이 콘크리트 양생 과정의 에너지 사용을 줄이는 '조강 콘크리트 기술'로 녹색기술 인증을 획득했다. 이는 건설 현장의 탄소 저감을 가능하게 하는 환경친화적 기술로, 건설업계의 ESG 경영과 친환경 사업 확대에 긍정적인 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T12:59:07+09:00",
-    "importance": 2
   }
 ]
