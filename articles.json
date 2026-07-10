@@ -21516,6 +21516,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "불 안 때고 하루 만에 굳는다…현대건설 탄소 55%↓ - 경제타임스",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RV1dDZVBxdnI1MDc1MnNQNjBjUmxXWXl3YnJjWGtsMm5ZOUxFS1hrNlNUMmU3TUxCenhvOS1NSFdWa1VUb3BTZF90ZUlGN1RPaC00?oc=5",
+    "description": "경제타임스 전영진 기자 | 현대건설이 건설 소재의 저탄소 전환과 순환자원 활용을 통해 친환경 건설 생태계 구축에 속도를 내고 있다. 현대건설은 최근 콘크리트 양생 과정에서 발생하는 에너지 소비를 획기적으로 절감할 수 있는",
+    "cluster_id": "4b9a",
+    "publisher": "경제타임스",
+    "title_clean": "불 안 때고 하루 만에 굳는다…현대건설 탄소 55%↓",
+    "summary": "현대건설이 콘크리트 양생 과정의 에너지 소비를 획기적으로 절감하는 저탄소 기술을 개발해 탄소배출을 55% 감축했다. 불 없이 하루 만에 경화되는 친환경 소재 활용으로 건설 산업의 지속가능성을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T12:19:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32181,22 +32196,6 @@
     "summary": "현대건설이 콘크리트 양생 과정에서 에너지 소비를 줄이는 저탄소 기술을 개발해 인증을 획득했다. 이는 건설업계의 탄소중립 달성을 위한 기술 혁신 사례로, 환경규제 강화에 선제적으로 대응하는 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T10:09:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "창녕군, 극한호우 대응…민·관 재난 대응체계 점검 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260708_0003700339",
-    "description": "또 공공공사에 지역업체 참여를 확대하고 하도급 수주 기회를 넓히는 방안, 지역 건설자재와 장비의 우선 사용을 활성화하는 방안 등 침체된 지역 건설경기 회복을 위한 실질적인 지원책에 대해서도 의견을 나눴다. 재난...",
-    "published_at": "2026-07-08T09:53:00+09:00",
-    "cluster_id": "95b4",
-    "publisher": "newsis.com",
-    "title_clean": "창녕군, 극한호우 대응…민·관 재난 대응체계 점검",
-    "summary": "창녕군이 극한호우 대응을 위해 민·관 재난 대응체계를 점검하고 있다. 공공공사에서 지역업체 참여 확대, 하도급 수주 기회 확대, 지역 건설자재와 장비 우선 사용 등을 통해 침체된 지역 건설경기 회복을 지원하기로 했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T09:59:03+09:00",
     "importance": 2
   }
 ]
