@@ -21450,6 +21450,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "모듈러 주택 공공발주 확대…특별법도 제정 - 포쓰저널",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BQmtSMTJUUllLaERvUTVyTDRLeGQ2UENya3ZJSWZTODdtdFVZanpiREJSa0dfMWtzSUFYZ1NOclNPSUowdkNwMHUwUjdELUNMVGlsNDJNUDZndWhOVktnVlBaX3o?oc=5",
+    "description": "정부가 모듈러 주택을 주택 공급 기간 단축과 건설산업 인력난 해소를 위한 핵심 수단으로 육성한다.업계가 초기 생산시설 구축 비용과 기존 현장 시공 중심의 규제를 시장 확대의 걸림돌로 제시하자 정부는 공공주택 발주 확대와 특별법 제정을 통해 수요 기반과 제도적 지원체계를 마련하기로 했다.10일 국토교통부는 김윤덕 장관이 전북 군산시에 위치한 엔알비 모듈러 주택 제작공장을 찾아 생산 현장을 점검하고 업계와 LH(한국토지주택공사), KAIA(국토교통과학기술진흥원) 관계자들과 간담회를 열었다고 밝혔다. 이번 방문은 국내 모듈러 주택의 고층",
+    "published_at": "2026-07-10T18:06:08+09:00",
+    "cluster_id": "3399",
+    "publisher": "포쓰저널",
+    "title_clean": "모듈러 주택 공공발주 확대…특별법도 제정",
+    "summary": "정부가 모듈러 주택을 주택 공급 기간 단축과 건설산업 인력난 해소의 핵심 수단으로 육성하기로 결정했다. 공공주택 발주 확대와 특별법 제정을 통해 초기 생산시설 구축 비용 부담과 규제 개선을 지원할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T18:13:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32183,21 +32199,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-08T16:29:20+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "잡히며 죽거나, 잡혀가서 죽거나···계속되는 미 이민자 추방 잔혹사 - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202607081620001",
-    "description": "살가도의 아들 로날도 살가도는 부친에 대해 “건설 노동을 하며 가족을 부양해왔다”며 “아버지는 이런 일을 당할 이유가 없었다”고 페이스북에 적었다. 살가도는 35년간 미국에 살았으며 세 자녀를 둔...",
-    "published_at": "2026-07-08T16:20:00+09:00",
-    "cluster_id": "95ae",
-    "publisher": "khan.co.kr",
-    "title_clean": "잡히며 죽거나, 잡혀가서 죽거나···계속되는 미 이민자 추방 잔혹사",
-    "summary": "미국의 이민자 추방 정책으로 인한 인권 침해 사례를 다룬 기사로, 35년간 미국에서 건설 노동자로 생활해온 이민자의 비극적 사건을 보도하고 있습니다. 건설업계의 주요 인력인 이민자 노동자에 대한 추방 강화는 업계 인력 수급에 부정적 영향을 미칠 수 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T16:29:20+09:00",
-    "importance": 4
   }
 ]
