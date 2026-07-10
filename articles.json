@@ -21568,6 +21568,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사, 1분기 이어 2분기도 뒷걸음…비주택 강화에 희비 갈린다 - socialvalue.kr",
+    "link": "https://www.socialvalue.kr/news/view/1065599264601378",
+    "description": "국내 건설경기 침체로 건설사들의 '고난의 행군'이 이어지고 있다. 대부분 건설사들의 매출이 1분기에 이어 2분기에도 줄어들 전망인 가운데, 비주택 부문을 강화해온 건설사들은 상대적으로 선방한 것으로...",
+    "published_at": "2026-07-10T09:26:00+09:00",
+    "cluster_id": "0870",
+    "publisher": "socialvalue.kr",
+    "title_clean": "건설사, 1분기 이어 2분기도 뒷걸음…비주택 강화에 희비 갈린다",
+    "summary": "국내 건설경기 침체로 대부분 건설사들이 1분기에 이어 2분기에도 매출 감소를 전망하고 있다. 다만 비주택 부문을 강화한 건설사들은 상대적으로 실적을 유지하며 업체별 실적 편차가 벌어지는 추세다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-10T09:29:11+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "메이사, 국토부 ‘AX 스프린트’ 선정…건설 안전관리 AI 상용화 - 이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0dHRWg2QlBmMUdKanYxbU1NdUdOaXlwNnpwWXVFY1dvT1ZMYzlGNEVDWXgzODk4aXY0Y1FUTW5JclBXemZ2YkljU1pPOU13SWpDNVVCUGZSQ0g0VjVFb1RIOVZjN3FUaDd3bXh4MFpNRU92LWtDVkhsWWgycXdXZw?oc=5",
+    "description": "공간 인공지능(AI) 기업 메이사가 현대건설, 무스마, 슈퍼브에이아이와 함께 건설 현장의 위험을 탐지하고 대응까지 수행하는 자율 안전관리 플랫폼 상용화에 나선다.메이사는 국토교통부의 ‘AI 응용제품 신속 상용화 지원사업(AX 스프린트)’ 국토·교통 분야 과제에 최종 ...",
+    "published_at": "2026-07-10T09:23:11+09:00",
+    "cluster_id": "dbb6",
+    "publisher": "이데일리",
+    "title_clean": "메이사, 국토부 ‘AX 스프린트’ 선정…건설 안전관리 AI 상용화",
+    "summary": "메이사가 현대건설, 무스마, 슈퍼브에이아이와 함께 국토부 'AX 스프린트' 사업에 선정되어 건설 현장의 위험을 AI로 탐지·대응하는 자율 안전관리 플랫폼을 상용화한다. 이는 건설 안전 기술 고도화와 산업 혁신을 통해 업계의 안전성과 효율성 개선을 도모하는 정부 지원 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T09:29:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32169,37 +32201,6 @@
     "summary": "젠스파크가 국토교통부 주최 '2026 스마트건설 챌린지'의 공식 AI 후원사로 참여한다. 이는 건설산업의 디지털화와 스마트건설 기술 발전을 촉진하는 정부 지원 사업으로, 건설업계의 기술혁신을 통한 경쟁력 강화를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-07T16:29:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[통하는 충남] 충남 고유가 피해지원금 최종 98.51% 신청 - kukinews.com",
-    "link": "https://www.kukinews.com/article/view/kuk202607070139",
-    "description": "지방어항 건설현장 안전 ‘자체 지정 기준’ 수립 충남도는 전국 최초로 건설기술 진흥법상 안전관리계획 수립 의무에서 제외된 소규모 어항공사에 대한 ‘자체 안전관리계획 수립 대상사업 지정 기준’을 마련해...",
-    "published_at": "2026-07-07T16:12:00+09:00",
-    "cluster_id": "0c6c",
-    "publisher": "kukinews.com",
-    "title_clean": "[통하는 충남] 충남 고유가 피해지원금 최종 98.51% 신청",
-    "summary": "충남도가 전국 최초로 소규모 어항공사에 대한 자체 안전관리계획 수립 기준을 마련했습니다. 이는 건설기술 진흥법상 의무 제외 대상 사업에 대한 안전관리 기준을 자체적으로 지정한 것입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-07T16:19:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기주택도시공사(GH) 김용진 사장, 폭염·장마철 건설현장 안전점검...근로자 생명·안전 최우선 - 경기경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dVlkZW55RF9BSkRxY1NHS2VVYjdZWVNCaUhGUFJJc1NjNHdyM3ZxVmNHSERYVnJfc3l6SmN1WWVOcG9rbTVNR2Q1UjVITWZVaXdpcUVlYzFtT2hST21PZw?oc=5",
-    "description": "[경기경제신문] 경기주택도시공사(GH)는 6일 김용진 사장이 화성동탄2 택지개발사업지구 내 공동주택 건설 현장을 방문해 폭염 및 장마철 대비 안전 점검을 실시하고, 현장 근로자에게 안전 물품을 전달했다고 밝혔다. 이번 점검은 집중호우와 기록적인 폭염이 반복되는 여름철을 맞아, 건설현장의 중대재해 예방 활동과 안전·보건 관리 적정 여부를 중점적으로 확인하기",
-    "cluster_id": "f2f3",
-    "publisher": "경기경제신문",
-    "title_clean": "경기주택도시공사(GH) 김용진 사장, 폭염·장마철 건설현장 안전점검...근로자 생명·안전 최우선",
-    "summary": "경기주택도시공사 사장이 화성동탄2 건설 현장을 방문하여 폭염·장마철 안전점검을 실시하고 근로자에게 안전물품을 전달했다. 여름철 중대재해 예방과 안전·보건 관리 적정 여부를 중점 확인하는 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-07T16:19:43+09:00",
     "importance": 2
   }
 ]
