@@ -21467,6 +21467,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건강디딤돌365, 한국스마트건설안전협회 정회원 등록 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qaFUzOUdmQkhKOGhZdVU5V1BoRjVNS1ZocEY5SUxIRFA1Q2lKSDg5OGNnazN6aFIxQmd2QlJUQXloRHF4V3VCNnhaMnR3Y3EtMUZ2TU9nQm9zay1KeWY2VmNLUGRPcHFYNmJKetIBckFVX3lxTFBva3BFT09RRG9pWHd2RFI4S2wyVXpjLUlXY3BPbmtCVmFZd3V1RTdiN01MWjJJWkRIMDAyTXJ4d1NTMnFTbXQ5UUxXNlBQXy1lQUdhTU1mNmpNalhBWG1KN2FPc2wyVWd2UnFIaTJIMlRlZw?oc=5",
+    "description": "건강디딤돌365는 건설현장 통합관리 플랫폼 '건설하다'를 운영하는 기업이다. 이 플랫폼으로 건설근로자와 협력사, 현장관리자가 안전·보건·근로자 정보를 관리할 수 있는 서비스를 제공하고 있다.",
+    "published_at": "2026-07-10T17:16:00+09:00",
+    "cluster_id": "2155",
+    "publisher": "머니투데이",
+    "title_clean": "건강디딤돌365, 한국스마트건설안전협회 정회원 등록 - 머니투데이",
+    "summary": "건강디딤돌365가 한국스마트건설안전협회 정회원으로 등록했다. 동사는 건설현장 통합관리 플랫폼 '건설하다'를 통해 안전·보건·근로자 정보 관리 서비스를 제공 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T17:23:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32184,21 +32200,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-08T15:49:18+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, ‘나노 조강 콘크리트’ 녹색인증 - 파이낸셜리뷰",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Lc2JiVUQtRFQtc3BYS2lGVVJoLXMwTW1hVzZuU2NzTXBnU1JodmMzMl9HOXRWM3A2V0lxQnlDSmREa3A3TUl4NnBfeDJlZVBtb2U5czUtbGhDYnBYZXJQNHdUT0FteTNIV1RLczY4RlNfM3Bv?oc=5",
-    "description": "[파이낸셜리뷰=최정희 기자] 현대건설이 저탄소 건설 소재 개발과 순환자원 활용을 확대하며 건설산업의 친환경 패러다임 전환에 속도를 내고 있다.현대건설은 콘크리트 양생 과정에서 열에너지 소비를 획기적으로 줄일 수 있는 &#39;저온 조건 하 조강형 콘크리트 공정 기술&#39;로 정부 주관의 국가 &#39;녹색기술 인증&#39;을 획득했다고 8일 밝혔다. 국토교통부 등 9개 부처와 11개 기관이 공동 운영하는 이 인증은 기술의 온실가스 감축 효과와 사업화 가능성 등을 종합 평가해 부여된다.HMG건설기술연구원이 삼표산업과 공동 개발한 이",
-    "published_at": "2026-07-08T14:20:16+09:00",
-    "cluster_id": "8148",
-    "publisher": "파이낸셜리뷰",
-    "title_clean": "현대건설, ‘나노 조강 콘크리트’ 녹색인증",
-    "summary": "현대건설이 저탄소 콘크리트 양생 기술로 정부 녹색기술 인증을 획득했다. 이는 건설 소재의 친환경화와 에너지 효율성 향상을 통해 건설산업의 지속가능성을 강화하는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T15:49:18+09:00",
-    "importance": 2
   }
 ]
