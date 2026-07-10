@@ -21464,6 +21464,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "국토장관 ＂모듈러 기술, 고품질 주택 공급 핵심 돌파구＂ - 한국경제TV",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJQnNHaEJxTTFnZjFsR2EtYnBoQkZ1bXhWOUkwTFFrREU5OTVUZWJudXQ4UmIzTFo3SWh1V2xJUy0xRy1TblM1NFg1QmRxc3NpQ3JNc3AxS3MyeEdZaW9LWk9UTEJ1TlNJbUEwWkxnTmxDMFZEcnQ4?oc=5",
+    "description": "김윤덕 국토교통부 장관이 \"모듈러 기술이 고품질 주택을 빠르게 공급하는 핵심 돌파구가 될 수 있다\"며 \"모듈러 기술이 국민 주거 안정과 건설 산업 혁신을 이끄는 중요한 선택지가 될 수 있도록 든든히 뒷받침하겠...",
+    "published_at": "2026-07-10T16:12:17+00:00",
+    "cluster_id": "e77a",
+    "publisher": "한국경제TV",
+    "title_clean": "국토장관 ＂모듈러 기술, 고품질 주택 공급 핵심 돌파구＂",
+    "summary": "국토교통부 장관이 모듈러 기술을 고품질 주택 공급의 핵심 솔루션으로 제시하고 적극 지원하겠다고 발표했습니다. 모듈러 공법 활성화를 통해 건설 산업 혁신과 주거 안정을 추진하는 정부의 정책 방향을 보여줍니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-11T06:28:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32180,21 +32196,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-08T17:49:55+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, ‘조강 콘크리트 기술’로 저탄소 녹색성장 인증 - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1McVNFajNrUW9MVDJ0U1E0WmZNUEg4ai1La1pncnVuSHBZbmY0VnR0REFIVUs4c0VrVEx1U192NFBXeDZ6cGg1bkhjQWFILWtoZmdkbWZwQ0RnLU1qUkNtZmhLd0RCNVJDTzlZNkREOGp2d9IBdEFVX3lxTE1uQ3hXV0pYMlRFX0FOUmE1UGFuaFI5NUZrM3Z0ZXVVbzBOdzd2VGRIcHJPZjk1RTBSbDZyQmtZSkJuZjBJa3V0NEJxY2ZmV2k1VkVGNGl1TW42Ymx4UWZXY29BVzFhdW12RjB6YU4waGpPQWtp?oc=5",
-    "description": "[이뉴스투데이 신지원 기자] 현대건설은 최근 콘크리트 양생을 위한 에너지 사용을 획기적으로 줄일 수 있는 ‘일평균 기온 5℃ 이상 조건에서 건설 현장 콘크리트 공사 시 조강형 콘크리트를 적용한 공정 기술(이하, 조강 콘크리트 기술)’로 녹색기술 인증을 획득했다고 8일 밝혔다.녹색기술",
-    "published_at": "2026-07-08T17:35:18+09:00",
-    "cluster_id": "5c55",
-    "publisher": "이뉴스투데이",
-    "title_clean": "현대건설, ‘조강 콘크리트 기술’로 저탄소 녹색성장 인증",
-    "summary": "현대건설이 콘크리트 양생 에너지를 획기적으로 줄일 수 있는 '조강 콘크리트 기술'로 녹색기술 인증을 획득했다. 이 기술은 저탄소 녹색성장을 실현하면서 건설 현장의 공사 효율성을 향상시킬 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T17:49:55+09:00",
-    "importance": 2
   }
 ]
