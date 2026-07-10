@@ -21465,6 +21465,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[위클립] 7월 2주 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41129",
+    "description": "건설연맹, '개방·포용·상생'···\"건설노동자 하나로\" ▷ [관련기사] 건설연맹, '개방·포용·상생'···\"건설노동자 하나로\" □ 서비스연맹 모두의콜센터지부, 서울지방고용노동청 연좌 농성 ▷ 어떤 내용? 서비스연맹...",
+    "published_at": "2026-07-10T20:30:00+09:00",
+    "cluster_id": "d778",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "[위클립] 7월 2주",
+    "summary": "건설연맹이 '개방·포용·상생'을 기치로 건설노동자 단합을 강조하고 있으며, 서비스연맹 콜센터지부의 서울지방고용노동청 연좌 농성 등 노동계 움직임이 보도되고 있다. 건설업계와 직접적인 실적 변화나 규제 변동 사항은 확인되지 않는다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T20:33:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32178,22 +32194,6 @@
     "publisher": "워크투데이",
     "title_clean": "현대건설, 나노입자 기반 '조강 콘크리트 기술' 녹색기술 인증 획득 … 건설산업 탈탄소 전환 속도",
     "summary": "현대건설이 나노입자 기반의 '조강 콘크리트 기술'으로 녹색기술 인증을 획득했다. 이 기술은 콘크리트 양생 에너지를 획기적으로 줄여 건설산업의 탈탄소 전환을 가속화할 것으로 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T17:09:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, 조강 콘크리트 녹색기술 인증 획득…저탄소 건설 전환 속도 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52bG9JMnM3YnNTTmtTVkdjREZxQmVlVUc2a0RsWGpxX3Y5ZXQ5cnBHV2owNm05R0QtQm1ObzBJeWQ1OHlXRzFBaW9vaU00cnU1SU8zZXlUeDdGWjNSMUF5RkxmWXR5ZWQzUHgzeGZTVkhMX2_SAXdBVV95cUxPZDItVXJnWGxXRnBCWGdnVUNUc2pobG4xeU5JcWZmU3k0bGlZZG8xd3hlMTlmdnVadmt4UEhXX241THhDTnFkM2xfanVsYWI0UmNueFRIWlo5bmJvUkxXbzh3cGlRZ3NoclVsOHhGQUtwZlBweWZ0NA?oc=5",
-    "description": "건설업계가 탄소 배출 감축과 친환경 소재 전환에 속도를 내는 가운데 현대건설이 현장 에너지 사용을 줄이는 저탄소 콘크리트 기술을 앞세워 녹색 건설 경쟁력을 강화하고 있다.현대건설은 콘크리트 양생 과정에서 필요한 에너지를 줄이는 ‘일평균 기온 5℃ 이상 조건에서 건설 현장 콘크리트 공사 시 조강형 콘크리트를 적용한 공정 기술’이 녹색기술 인증을 획득했다고 8일 밝혔다.이번 인증은 기술 적용 과정에서 에너지와 자원 사용량을 줄이고 온실가스 및 환경오염 물질 배출 저감 효과를 인정받은 결과다. 녹색기술 인증은 「저탄소 녹색성장 기본법」에",
-    "published_at": "2026-07-08T16:55:12+09:00",
-    "cluster_id": "d33b",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "현대건설, 조강 콘크리트 녹색기술 인증 획득…저탄소 건설 전환 속도",
-    "summary": "현대건설이 콘크리트 양생 과정의 에너지 소비를 줄이는 '조강형 콘크리트 공정 기술'로 녹색기술 인증을 획득했다. 이는 건설 현장의 온실가스 및 환경오염 물질 배출 저감을 인정받은 것으로, 저탄소 건설 전환 경쟁력 강화에 기여할 것으로 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T17:09:43+09:00",
     "importance": 2
