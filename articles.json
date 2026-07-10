@@ -21618,6 +21618,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김종양 의원, 건설현장 휴대전화 사용 제한 명문화 추진 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12TTZ0WFlEd2hobGdVWE9QbTA3eG9OejhxaHFHVVVOUUtzaEFEMVVZWUFqMG1KZmtyUThBbFFlblR0MFBkN1dWLUZLci16SFV5eGtTdjJVc1R3UWdIMHc0QkI5MUJlb1V0SjY4MQ?oc=5",
+    "description": "국회 국토교통위원회 김종양 국민의힘 의원은 건설현장 작업 중 휴대전화 사용 제한을 안전관리계획에 반영하고, 위험작업 중 휴대전화 사용을 금지하는 내용을 담은 '건",
+    "published_at": "2026-07-10T10:06:49+09:00",
+    "cluster_id": "3c92",
+    "publisher": "기계설비신문",
+    "title_clean": "김종양 의원, 건설현장 휴대전화 사용 제한 명문화 추진",
+    "summary": "김종양 의원이 건설현장에서의 휴대전화 사용 제한을 안전관리계획에 명문화하고 위험작업 중 사용을 금지하는 법안을 추진 중입니다. 이는 건설현장 안전 강화를 위한 규제 강화 조치입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-10T10:14:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32187,22 +32203,6 @@
     "title_clean": "건설협회 전북자치도회, '조달청 입찰자격 사실조사 및 국토부 불법하도...",
     "summary": "건설협회 전북자치도회가 조달청 입찰자격 사실조사 및 국토부 불법하도급 단속에 대한 설명회를 개최했다. 조달청과 익산국토관리청이 입찰자격 준비 요령과 적법한 하도급 관리 실무를 설명하여 건설업체의 규정 준수를 유도했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-07T17:09:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "롯데건설, AAA 등급 ABS 2차 발행 성공… 공사대금채권 유동화로 현금흐름 개선 - S저널",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBURUJXejRkTndQNzF0VjZya1ZNd3EtbzBpa0lHTHJBNnh1eml5WHFnOTg0OGk4NEV2cVV0U1MzS25aQ3pLZzI0YVlPcEhUdlhWTlFPOVNnM0tQMkJ1MnU4ZW8zcTkwNkNyZUJPVzF3?oc=5",
-    "description": "롯데건설이 공사대금채권을 활용한 자산유동화증권(ABS) 2차 발행에 성공하며 자금 운용 안정화에 속도를 내고 있다. 지난 5월 업계 최초로 자체 개발한 공사대금채",
-    "published_at": "2026-07-07T16:38:18+09:00",
-    "cluster_id": "eb17",
-    "publisher": "S저널",
-    "title_clean": "롯데건설, AAA 등급 ABS 2차 발행 성공… 공사대금채권 유동화로 현금흐름 개선",
-    "summary": "롯데건설이 공사대금채권을 활용한 자산유동화증권(ABS) 2차 발행에 AAA 등급으로 성공했다. 이는 건설사의 현금흐름 개선과 자금 조달 다양화를 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-07T17:09:28+09:00",
     "importance": 2
   }
