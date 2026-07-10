@@ -21516,6 +21516,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "동부건설, 수주 모멘텀 폭발로 수주액 1조↑…\"‘멀티 트랙 성장’ 완성\" - 이코노미톡뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93d09yZWxORUZGR01HSGg5WnVfTXFEQUxlR2hubDR2N2JXWlljSFAxcXpTM3lRR1V1MncwQ05tWUxKcEtLeXZ4VXZTXzFMaGtZTGs4ekZUbUtxS0hYZEFMaEVDeDMteks1bHU0RA?oc=5",
+    "description": "[배만섭 기자 @이코노미톡뉴스] 동부건설이 올해 들어 공공주택·고속국도·군시설·주상복합·해외 인프라 등 다양한 분야에서 연달아 수주 성과를 내며 신규 수주액 1조",
+    "published_at": "2026-07-10T12:44:03+09:00",
+    "cluster_id": "30fb",
+    "publisher": "이코노미톡뉴스",
+    "title_clean": "동부건설, 수주 모멘텀 폭발로 수주액 1조↑…\"‘멀티 트랙 성장’ 완성\"",
+    "summary": "동부건설이 공공주택, 고속국도, 군시설, 주상복합, 해외 인프라 등 다양한 분야에서 연달아 수주를 성사시키며 신규 수주액 1조 원대를 달성했다. 이는 멀티 트랙 성장 전략의 완성을 의미하는 긍정적 신호로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T12:54:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32180,22 +32196,6 @@
     "summary": "현대건설이 겨울철 저온 환경에서도 빠르게 경화되는 조강 콘크리트 기술로 녹색기술 인증을 획득했다. 이는 건설 현장의 공정 효율성 향상과 환경친화적 기술 적용을 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T10:24:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"눈빛 주고받았으니 간첩? 국가보안법 수사 중단하라\" - ohmynews.com",
-    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249621&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "description": "이들은 지난해 정부가 전국건설노동조합과 화물연대 조합원, 농민, 노점상 등 184명을 특별사면한 점을 언급하며 \"반노동·반민중 탄압을 바로잡기 위한 사면이 국가보안법 사건 피해자들에게는 단 한 명도 적용되지...",
-    "published_at": "2026-07-08T10:16:00+09:00",
-    "cluster_id": "2ae7",
-    "publisher": "ohmynews.com",
-    "title_clean": "\"눈빛 주고받았으니 간첩? 국가보안법 수사 중단하라\"",
-    "summary": "국가보안법 수사 중단을 요구하는 시위대가 정부의 차별적 사면 정책을 비판하고 있습니다. 건설노동조합 등 184명이 특별사면된 반면 국가보안법 피해자들은 제외된 점을 지적하고 있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-08T10:19:50+09:00",
     "importance": 2
   }
 ]
