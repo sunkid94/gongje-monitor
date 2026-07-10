@@ -21464,6 +21464,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "김윤덕 국토부 장관, 모듈러 주택 산업 육성 의지 표명 - 서남투데이",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BcDZVTlVLN2dJaC00c3lHZEdnbHdlU0hXR1NNVnkyQURGQ2FYaDZfejhUZFJGTHBvSzRLRTRDSEx3eTBaTThSb2FCTm9mRTQ1NnIwSHplN3R5UQ?oc=5",
+    "description": "김윤덕 국토교통부 장관이 모듈러 주택 산업의 활성화와 고품질 주택의 신속한 공급을 위해 모듈러 제작 현장 점검과 업계 간담회에 나섰다. 김윤덕 국토교통부 장관이 10일 오전 전북 군산시에 위치한 모듈러 주택 제작 공장을 방문했다.김 장관은 10일 오전 전북 군산시에 위치한 모듈러 주택 제작 공장을 방문했다. 이 날 현장에서는 한국토지주택공사(LH), 국토교통과학기술진흥원(KAIA) 및 관련 업계 관계자들이 참석한 가운데 모듈러 주택 산",
+    "cluster_id": "4272",
+    "publisher": "서남투데이",
+    "title_clean": "김윤덕 국토부 장관, 모듈러 주택 산업 육성 의지 표명",
+    "summary": "김윤덕 국토교통부 장관이 전북 군산의 모듈러 주택 제작 공장을 방문하여 산업 활성화 의지를 표명했다. 정부가 모듈러 주택을 통한 고품질 주택의 신속한 공급 확대를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T23:08:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32180,22 +32195,6 @@
     "summary": "AI 기술이 도로 분야에 적용되어 교통 체계의 혁신을 가져올 것으로 예상된다. 이는 도로 건설, 유지보수, 교통 관리 등 건설업계 전반에 새로운 수요와 기술 혁신을 창출할 수 있는 기회가 될 것으로 보인다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T17:23:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제2공항 부지 뺀 성산 '토허'구역 11년 만에 해제 - samdailbo.com",
-    "link": "http://www.samdailbo.com/news/articleView.html?idxno=267236",
-    "description": "TF는 제2공항 개발 기대감에 따른 투기적 토지 거래 방지와 토지시장 안정이란 지정 효과를 달성한 것으로 평가하고 건설경기 불황, 내수 침체에 따른 지역경제 위축, 성산읍 지가 변동률 및 토지 거래량 지속 둔화...",
-    "published_at": "2026-07-08T17:16:00+09:00",
-    "cluster_id": "0072",
-    "publisher": "samdailbo.com",
-    "title_clean": "제2공항 부지 뺀 성산 '토허'구역 11년 만에 해제",
-    "summary": "제주 성산 토허구역이 11년 만에 해제되었으며, 제2공항 부지를 제외한 지역의 규제가 풀렸다. 이는 투기 방지 목표는 달성했으나 건설경기 부진으로 지역경제 위축이 지속되고 있는 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-08T17:18:57+09:00",
     "importance": 2
   }
 ]
