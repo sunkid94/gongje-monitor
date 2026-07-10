@@ -21501,6 +21501,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "대전 유성구, 민간건설 하도급 70% 지역업체 참여 협약 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50779",
+    "description": "대전 유성구는 10일 GS건설, 활림건설, 한창종합건설, 태한건설 등 민간건설사업 시공사와 6개 건설협회가 참여한 가운데 지역 건설업체 활성화를 위한 업무협약<사진>을 체결했다.협약에 따라 참여 기업들은 민간건설사업장 하도급 공사금액의 70% 이상을 대전지역 업체가 수행할 수 있도록 협력하기로 했다.또 지역 시공사의 협력업체 등록과 지역 업체의 신기술·특허 활용을 확대해 기술 경쟁력 강화에도 나설 계획이다. 유성구는 이번 협약으로 약 5200억원의 지역경제 유발 효과와 7800명의 일자리 창출 효과를 기대하고 있다.정용래 유성구청장",
+    "published_at": "2026-07-10T05:40:00+09:00",
+    "cluster_id": "2fa6",
+    "publisher": "기계설비신문",
+    "title_clean": "대전 유성구, 민간건설 하도급 70% 지역업체 참여 협약",
+    "summary": "대전 유성구가 GS건설 등 4개 건설사와 6개 건설협회와 협약을 체결하여 민간건설사업 하도급의 70% 이상을 지역업체가 수행하도록 추진한다. 이를 통해 약 5200억원의 지역경제 유발과 7800명의 일자리 창출을 기대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T16:50:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32184,21 +32200,6 @@
     "summary": "창녕군이 지역 인재육성을 위해 장학재단에 기금을 기탁하고 있으며, 공공공사에 지역 업체 참여 확대 및 하도급 수주 기회 확대, 지역 건설자재 우선 사용 등을 통해 침체된 지역 건설경기 회복을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T15:09:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, 저탄소 콘크리트 기술로 녹색 전환 가속화 - 국토매일",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9TQnJEelI5OUwydzVoVVBleXdXZTllOHFEWW5tZ2Q2b2I3MGRqU0xrZGtCLWp5aVNUYWp0bGtUUDU5ZFd6?oc=5",
-    "description": "힐스테이트도화더테라스(사진=현대건설) ©국토매일 [국토매일=백지선기자]현대건설이저탄소건설소재와순환자원활용을확대하며건설산업의녹색전환",
-    "cluster_id": "8a28",
-    "publisher": "국토매일",
-    "title_clean": "현대건설, 저탄소 콘크리트 기술로 녹색 전환 가속화",
-    "summary": "현대건설이 저탄소 콘크리트 기술 개발과 순환자원 활용을 확대하며 건설산업의 녹색 전환을 주도하고 있다. 이는 건설업계의 환경규제 대응 및 지속가능성 강화에 따른 기술 경쟁력 강화 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T14:59:28+09:00",
     "importance": 2
   }
 ]
