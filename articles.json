@@ -5487,22 +5487,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, IT 재난 대응 BCP 훈련 실시 - 국토매일",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1nOUVtckdrSEk5N2pXdUhwTU4ybXJWODB4dm1QT0hhajJPVC1HbWRBUFZFOEpJNU5pUUZYbE1kdWY0X2V5?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1nOUVtckdrSEk5N2pXdUhwTU4ybXJWODB4dm1QT0hhajJPVC1HbWRBUFZFOEpJNU5pUUZYbE1kdWY0X2V5?oc=5\" target=\"_blank\">건설공제조합, IT 재난 대응 BCP 훈련 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토매일</font>",
-    "cluster_id": "ae99",
-    "publisher": "국토매일",
-    "title_clean": "건설공제조합, IT 재난 대응 BCP 훈련 실시",
-    "summary": "건설공제조합이 IT 시스템 장애에 대비한 재난 대응 BCP(사업연속성계획) 훈련을 실시했다. 이는 정보통신 시스템 위기 상황에서 조합의 안정적 운영을 확보하기 위한 예방적 대응 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-10T17:47:49+09:00",
-    "event_label": "건설공제조합 IT 재난 대응 BCP 훈련 실시",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21464,6 +21448,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-06T15:19:54+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "메이사, 국토부 'AX 스프린트' 국토·교통 분야 과제 선정 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UZ2g0ODlLYmVqWU96Wk9MTmZEQkhUeHpCNlhMV3RZZnRkaWhROEdvUG1aN3ltdXhyV3U2U2hXQUJselpIaG9FOFNnaDJucjhJbmZ0T3RMbHVDbmRBNy04dDZ6dE5aZHRsSXfSAW9BVV95cUxNaHpsdVpaaXV3MzQwT3g0bGRLb29Yd1oxUmI4cDJlZXpRa0RlUm1zdG1ueUR5bHBCWmxHQ0J3Y3hvZjk4UmZnRS1MeTRUc0JSdkEtUlplM2ZuSlltdzR1a3FPVEo2bXV5R09QWjNqTzQ?oc=5",
+    "description": "메이사는 국토·교통 분야 주관기관으로 선정돼 총사업비 40억 원 규모의 '건설 공정·안전 관리 AI 플랫폼 상용화' 사업을 12개월간 수행한다. 이번 과제의 핵심은 건설 전 공정에서 드론, 실내 드론, 사족보행 로봇으로 현장 리스크와 근로자 안전을 상시 감시하는 것이다.",
+    "published_at": "2026-07-10T17:31:12+09:00",
+    "cluster_id": "6158",
+    "publisher": "머니투데이",
+    "title_clean": "메이사, 국토부 'AX 스프린트' 국토·교통 분야 과제 선정 - 머니투데이",
+    "summary": "메이사가 국토부 'AX 스프린트' 사업에 선정되어 40억 원 규모의 건설 공정·안전 관리 AI 플랫폼 상용화 사업을 추진한다. 드론과 로봇을 활용한 현장 감시 기술로 건설 안전을 혁신하는 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T17:48:39+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
