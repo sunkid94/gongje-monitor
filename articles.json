@@ -5503,6 +5503,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "韓 선박 엔진 업체들, 2분기 이익 급증… 中 조선소 주문도 몰린다 - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=310939",
+    "description": "HD현대중공업과 한화오션, 삼성중공업이 고부가가치 선박 인도를 늘리면서 엔진 수요도 꾸준히 이어지고 있다. 원화 약세도 달러로 계약하는 조선·엔진 업체들의 수익성 개선에 도움이 됐다. 특히 중국 조선소 주문은...",
+    "published_at": "2026-07-10T19:08:00+09:00",
+    "cluster_id": "2b25",
+    "publisher": "thepublic.kr",
+    "title_clean": "韓 선박 엔진 업체들, 2분기 이익 급증… 中 조선소 주문도 몰린다",
+    "summary": "한국 조선사들의 고부가가치 선박 인도 증가로 선박 엔진 수요가 지속되고 있으며, 원화 약세와 중국 조선소 주문 증가로 엔진 업체들의 2분기 이익이 급증했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T19:18:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21444,22 +21460,6 @@
     "publisher": "pinpointnews.co.kr",
     "title_clean": "SK가스, LNG 터미널 사업 전격 확장…종합 에너지 거물로 우뚝",
     "summary": "SK가스가 LNG 터미널 사업을 확장하며 종합 에너지 기업으로 성장하고 있다. 한화엔진, HD한국조선해양, 삼성중공업 등 관련 기업들도 LNG선 수주 증가로 동반 상승세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T15:19:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 1.3조 규모 성수 4지구 재개발 시공사로 선정 - donga.com",
-    "link": "https://www.donga.com/news/Economy/article/all/20260706/134244317/1",
-    "description": "대우건설은 169표를 받았다. 성수 4지구는 성수2가1동 일대를 10개 동(지하 6층~지상 64층), 총 1447채 규모로 조성하는 사업이다. 총 공사비는 약 1조3492억 원에 이른다. 지하철 2호선 성수역과 수인분당선 서울숲역에...",
-    "published_at": "2026-07-06T15:15:00+09:00",
-    "cluster_id": "95d7",
-    "publisher": "donga.com",
-    "title_clean": "롯데건설, 1.3조 규모 성수 4지구 재개발 시공사로 선정",
-    "summary": "롯데건설이 성수 4지구 재개발 사업의 시공사로 선정되어 1조 3492억 원 규모의 대형 공사를 수주했다. 성수2가1동 일대에 10개 동, 총 1447채 규모의 주택단지를 조성하는 사업으로 지하철역과 인접한 입지를 갖추고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T15:19:54+09:00",
     "importance": 2
