@@ -21464,6 +21464,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "계룡건설, ‘협력사 안전경영’ 현장으로… 중대재해 예방 공동 대응 강화 - 공뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80NDhaQUV2YkRPRzdWaUNSckk0M0pkM29ON3loVXlGNmhhU3RISzN2WV9pa3FqZmJGbHByM2dtZlNvRTRIc0NibFo2dGhaY3hPM1lqZ2d1YjNtNGZfcXdNVFJDTUQ2Z2hEVE82dQ?oc=5",
+    "description": "계룡건설이 협력사와 함께 현장 안전관리 수준을 높이기 위한 실무 협의에 나서며 중대재해 예방과 안전경영 체계 고도화에 속도를 내고 있다.계룡건설은 지난 8일 대전",
+    "published_at": "2026-07-10T22:42:44+09:00",
+    "cluster_id": "81b6",
+    "publisher": "공뉴스",
+    "title_clean": "계룡건설, ‘협력사 안전경영’ 현장으로… 중대재해 예방 공동 대응 강화",
+    "summary": "계룡건설이 협력사와 함께 현장 안전관리 수준을 높이고 중대재해 예방을 위한 안전경영 체계를 강화하고 있다. 건설업계의 안전문화 고도화 및 협력업체와의 공동 안전 대응 체계 구축이 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T22:58:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32179,22 +32195,6 @@
     "title_clean": "제2공항 부지 뺀 성산 '토허'구역 11년 만에 해제",
     "summary": "제주 성산 토허구역이 11년 만에 해제되었으며, 제2공항 부지를 제외한 지역의 규제가 풀렸다. 이는 투기 방지 목표는 달성했으나 건설경기 부진으로 지역경제 위축이 지속되고 있는 상황이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-08T17:18:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "창녕군, 전문건설협회와 호우 대응체계 점검 - jeonmae.co.kr",
-    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272795",
-    "description": "또 공공공사에서 지역업체 참여를 넓히고 하도급 수주 기회를 확대하는 방안, 지역 건설자재와 장비 우선 사용을 활성화하는 방안 등 침체된 지역 건설경기 회복을 위한 실질적 지원책도 함께 다뤘다. 간담회에 앞서...",
-    "published_at": "2026-07-08T17:14:00+09:00",
-    "cluster_id": "c2cc",
-    "publisher": "jeonmae.co.kr",
-    "title_clean": "창녕군, 전문건설협회와 호우 대응체계 점검",
-    "summary": "창녕군이 전문건설협회와 호우 대응체계를 점검하면서 공공공사의 지역업체 참여 확대, 하도급 수주 기회 증대, 지역 건설자재 우선 사용 등 지역 건설경기 회복을 위한 지원책을 논의했다. 침체된 건설업계의 실질적 활성화 방안을 모색하는 협력 움직임이다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-08T17:18:57+09:00",
     "importance": 2
   }
