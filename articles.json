@@ -21465,6 +21465,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 제조업·수출 살아났지만… 기업 10곳 중 7곳 “목표 못 채웠다” - kbmaeil.com",
+    "link": "https://www.kbmaeil.com/article/20260710500213",
+    "description": "올해 상반기 대구지역 제조업 생산과 수출은 증가세를 보였지만 건설경기는 큰 폭으로 위축된 것으로 나타났다. 지역 기업 10곳 중 7곳은 경영 목표를 달성하지 못했고, 절반 이상은 하반기 경영환경이 더 악화될...",
+    "published_at": "2026-07-10T20:02:00+09:00",
+    "cluster_id": "7264",
+    "publisher": "kbmaeil.com",
+    "title_clean": "대구 제조업·수출 살아났지만… 기업 10곳 중 7곳 “목표 못 채웠다”",
+    "summary": "대구지역 제조업과 수출은 증가했으나 건설경기는 위축되었다. 지역 기업 70%가 경영 목표 미달성했으며, 절반 이상이 하반기 경영환경 악화를 우려하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-10T20:08:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32178,22 +32194,6 @@
     "publisher": "인더뉴스",
     "title_clean": "현대건설, 나노 조강 콘크리트 녹색인증 탄소 55% 저감",
     "summary": "현대건설이 나노 입자 기반 조강 콘크리트 기술로 녹색기술 인증을 획득했다. 이 기술은 콘크리트 양생 과정의 에너지 사용을 줄이고 탄소를 55% 저감하는 저탄소 건설 소재로 활용될 전망이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T17:09:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, '탄소 배출 55% 저감' 조강 콘크리트 녹색기술 인증 획득 - 열린뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1cDFTbHlYR2ZnNzhLaktDRldxak5VLXZNRmZVbS1QNDZ5dU1pbzBJXzB3ajBLWVlWLUttNnFXa1FYcmFOV2hZNmpDR1FTNm9NYWRva0UyTHdzTDZkRzh1bHpEcWhuUQ?oc=5",
-    "description": "(서울=열린뉴스통신) 박소연 기자 = 건설 공사 과정에서 발생하는 온실가스를 감축하기 위한 친환경 소재 개발이 활발해지고 있다. 시멘트 제조 및 건설 현장의 에너지 소비는 탄소중립 실현을 위한 주요 과제로 꼽히며, 이에 대응해 건설업계는 에너지 사용을 최소화하는 공법 도입을 확대하는 추세다.현대건설은 최근 콘크리트 양생 과정에서 열 공급을 줄인",
-    "published_at": "2026-07-08T11:04:31+09:00",
-    "cluster_id": "c396",
-    "publisher": "열린뉴스통신",
-    "title_clean": "현대건설, '탄소 배출 55% 저감' 조강 콘크리트 녹색기술 인증 획득",
-    "summary": "현대건설이 콘크리트 양생 과정에서 탄소 배출을 55% 저감하는 조강 콘크리트 녹색기술 인증을 획득했다. 건설업계는 시멘트 제조와 에너지 소비 감축을 위해 저탄소 공법 도입을 확대하는 추세다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T17:09:43+09:00",
     "importance": 2
