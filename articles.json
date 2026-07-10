@@ -21467,6 +21467,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "승강기안전공단, 울산119안전문화축제서 체험형 안전교육 '인기' - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40826",
+    "description": "[건설이코노미뉴스] 한국승강기안전공단(이사장 고성균)은 10일부터 11일까지 울산전시컨벤션센터(UECO)에서 열리는 '2026 울산119안전문화축제'에 참가해 승강기 안전체험차량을 운영하며 어린이와 가족을 대상으로 체험형 승강기 안전교육을 실시했다고 밝혔다.이번 행사는 울산광역시와 울산소방본부가 공동으로 운영하는 행사로 시민이 직접 참여하는 다양한 재난안전 체험 프로그램을 통해 생활 속 안전문화를 확산하기 위해 마련됐다.공단은 행사장에 승강기 안전체험차량을 운영해 엘리베이터와 에스컬레이터의 올바른 이용방법, 비상상황 발생 시 행동요",
+    "published_at": "2026-07-10T16:28:00+09:00",
+    "cluster_id": "7966",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "승강기안전공단, 울산119안전문화축제서 체험형 안전교육 '인기'",
+    "summary": "한국승강기안전공단이 울산119안전문화축제에서 승강기 안전체험차량을 운영하여 시민 대상 체험형 안전교육을 실시했다. 엘리베이터와 에스컬레이터의 올바른 이용방법 및 비상상황 대응요령 등을 중심으로 안전문화 확산에 기여하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T16:32:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32182,21 +32198,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-08T14:19:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안전보건공단, 중소 건설현장 안전관리 강화…환경시설 특화 협력체계 구축 - 데일리안",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RbUNTNlUteVdiYzhvanZ4RXQzNXVNaENjeUk4aG1GbWwxVWxVbDhreEFSVm5Xd3cwVGZ0VzhQUEZzY0l1LVBBWkx2ZERxeUItSlg2Y0tpWdIBpAJBVV95cUxQVUJqNkNPVFZ6c2E5VlBSWmIxaHZ6b3J0M1ZySnM2X0cwNEFEUVlwNXBHeTdqS2VnR2MzeERWek5NLU9MUWprandDb2ZySVdDTW5sekRkRVVXZTlrZlNOanVKTjFFR09BVm5WQlByVHlKdGlTdWozalpFaXJyLXBXQmZ6VkVtNk0xSmdzTmdKTGprRDBGaVZyY2NWcUJyT3FVWWwtcnVsc1liT3BkeGV4Z21WampENE5jd1B2cUk4cU9iSUtUOVNfSDBIZEluRFBfNFZ4akVDaHJ3VExJdmVaUjczSHFud0Z4VndtUE90SHNxejRKbDBhdGpSUXdwMC1ZMzMwdjNaRHpNVVF2Y2EwZk9JUER6QndKb3BYUzVmTUc5eXla?oc=5",
-    "description": "한국산업안전보건공단이 환경시설 건설현장의 사망사고 예방과 중소 건설업체 안전관리 역량 강화를 위해 한국환경공단과 협력체계를 구축한다.안전보건공단은 8일 환경공단과 국민 생명 보호와 산업현장 선진 안전문화 정착을 위한 업무협약을 체결했다.중대재해처벌법 확대 시행 이후 중소 건설업체의 안전관리 역량 강화 필요성이 커지면서 환경시설 건설현장에 대한 체계적인 안전",
-    "published_at": "2026-07-08T14:00:00+09:00",
-    "cluster_id": "e797",
-    "publisher": "데일리안",
-    "title_clean": "안전보건공단, 중소 건설현장 안전관리 강화…환경시설 특화 협력체계 구축",
-    "summary": "산업안전보건공단과 환경공단이 환경시설 건설현장의 안전관리 강화를 위해 협력체계를 구축했다. 중대재해처벌법 확대 시행에 따라 중소 건설업체의 안전관리 역량 강화를 지원할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T14:19:46+09:00",
-    "importance": 4
   }
 ]
