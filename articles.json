@@ -21465,6 +21465,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "전문학 서구청장, 둔산동 대형 건축공사장 안전 점검 - 뉴스홈(newshome)",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tYkpKbmh3Qk83N1pNOW1hUFdRYWdMczlPNEwtU3A0UVNuSzBCazlwZGFpTE15d1ZzMnc1Z1h1OGxDRjkwOUh2blpjeEtyVXhTU3hCV2ZrVWZjUndRc0NiSVFEcnd4dTVPc2NUa2N3?oc=5",
+    "description": "전문학 대전시 서구청장이 대형 건축공사 현장을 찾아 안전관리 실태를 점검하고 사고 예방을 위한 현장 대응 강화에 나섰다.전문학 서구청장은 10일 둔산동 그랑르피에드 신축공사 현장을 방문해 공사 진행 상황과 안전관리 체계를 살피고 현장 위험 요인을 점검했다.이번 점검은 최근 건설 현장에",
+    "published_at": "2026-07-10T14:37:03+09:00",
+    "cluster_id": "7f66",
+    "publisher": "뉴스홈(newshome)",
+    "title_clean": "전문학 서구청장, 둔산동 대형 건축공사장 안전 점검",
+    "summary": "전문학 대전시 서구청장이 둔산동 그랑르피에드 신축공사 현장을 방문하여 안전관리 실태를 점검하고 사고 예방을 위한 현장 대응 강화에 나섰다. 최근 건설 현장 사고 증가에 따른 안전관리 강화 점검으로 보임.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-10T19:48:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32181,21 +32197,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-08T17:09:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "포항시-포스코 관계 복원부터…철강도시 재도약 ‘첫 단추’ - yeongnam.com",
-    "link": "https://www.yeongnam.com/web/view.php?key=20260708022124807",
-    "description": "중국산 저가 철강재 공세와 건설경기 침체, 산업용 전기요금 급등이 겹치면서 국내 철강업 수익성이 급격히 악화되고 있다. 여기에 2022년 태풍 힌남노 침수 피해와 현대제철 포항2공장 가동 중단까지 이어지며 포항...",
-    "published_at": "2026-07-08T16:52:00+09:00",
-    "cluster_id": "710a",
-    "publisher": "yeongnam.com",
-    "title_clean": "포항시-포스코 관계 복원부터…철강도시 재도약 ‘첫 단추’",
-    "summary": "중국산 저가 철강재 공세, 건설경기 침체, 산업용 전기요금 급등으로 국내 철강업 수익성이 악화되고 있다. 태풍 피해와 현대제철 포항2공장 가동 중단까지 더해지며 포항 철강도시가 위기를 맞고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T16:59:10+09:00",
-    "importance": 4
   }
 ]
