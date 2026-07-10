@@ -21465,6 +21465,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "부산시, 건설업체 1대1 맞춤형 컨설팅 시작…행정 부담 줄이고 법령 이... - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=708834",
+    "description": "이번 사업은 건설산업기본법과 관련한 주요 제도를 현장 중심으로 안내하고 업체별 맞춤형 상담을 제공해 행정 부담을 완화하기 위해 마련됐다. 컨설팅에서는 건설업 등록기준을 비롯해 건설공사대장 통보, 하도급대금...",
+    "published_at": "2026-07-10T20:26:00+09:00",
+    "cluster_id": "9b0f",
+    "publisher": "newstown.co.kr",
+    "title_clean": "부산시, 건설업체 1대1 맞춤형 컨설팅 시작…행정 부담 줄이고 법령 이...",
+    "summary": "부산시가 건설업체를 대상으로 건설산업기본법 관련 제도를 현장 중심으로 안내하고 업체별 맞춤형 컨설팅을 제공하는 사업을 시작했다. 건설업 등록기준, 건설공사대장 통보, 하도급대금 등 주요 제도 이해를 돕고 행정 부담을 완화하기 위한 지원이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T20:53:35+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "道 '민생경제상황실' 가동... 물가·매출 상시 점검 - jibs.co.kr",
+    "link": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026071018162295004?feed=na",
+    "description": "설치됐고 도지사가 직접 주재해 위기 징후가 나타나면 곧바로 대응에 나섭니다. 생활경제와 1차산업, 관광, 건설경기 등 4개 실무반으로 운영됐고 제주도는 이달 안에 제주형 10대 물가관리 품목도 선정할 계획입니다.",
+    "published_at": "2026-07-10T20:49:00+09:00",
+    "cluster_id": "7d03",
+    "publisher": "jibs.co.kr",
+    "title_clean": "道 '민생경제상황실' 가동... 물가·매출 상시 점검",
+    "summary": "제주도가 민생경제상황실을 가동하여 물가와 매출을 상시 점검한다. 생활경제, 1차산업, 관광, 건설경기 등 4개 실무반으로 운영되며 제주형 10대 물가관리 품목을 선정할 계획이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T20:53:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32165,37 +32197,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-08T17:09:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "순환자원·친환경 소재 확대한 '현대건설'…조강 콘크리트 녹색기술 인증 - 백세시대",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tRkJTemZvSE5nZU15M0xEWWY4dTRDdXh3UVMwU2xzNm5kSkdfeWRTSVA4c2wxb0xqYkJpVDN1RFBORWk2RUlUNmY3WnN0OTM3UnJ4bVdMY3NtcVFGTXFlOE9qRmhLVWJrcjhJ?oc=5",
-    "description": "[백세시대 = 김인하 기자] 현대건설이 건설현장에 저탄소·친환경 소재 적용을 확대하고 있다. 현대건설은 콘크리트 양생 과정의 에너지 사용을 줄이는 '조강 콘크리트",
-    "published_at": "2026-07-08T16:45:44+09:00",
-    "cluster_id": "36e2",
-    "publisher": "백세시대",
-    "title_clean": "순환자원·친환경 소재 확대한 '현대건설'…조강 콘크리트 녹색기술 인증",
-    "summary": "현대건설이 조강 콘크리트 등 저탄소·친환경 소재를 건설현장에 확대 적용하고 있으며, 콘크리트 양생 과정의 에너지 사용을 줄이는 녹색기술을 인증받았다. 순환자원과 친환경 소재 활용으로 건설 산업의 환경 기준 강화에 대응하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T17:09:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, 나노입자 기반 '조강 콘크리트 기술' 녹색기술 인증 획득 … 건설산업 탈탄소 전환 속도 - 워크투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4bkttV1UxYXBIb01DQVVMNmpPT0Z3X1NBb1ZGeHVQb1M4eVZMQ3J6VXgtYlFFci1iUFU2NUpsN2lyZFdRN0pNVW4yWWE3Ym1OQTFQLTRUSXhaVkJGOTV4TDFRbk5nNHBiblNCdg?oc=5",
-    "description": "현대건설이 저탄소 건설 소재와 순환자원 활용 확대를 통해 건설산업의 녹색 전환에 속도를 내고 있다.현대건설은 최근 콘크리트 양생을 위한 에너지 사용을 획기적으로 줄일 수 있는 &#39;일평균 기온 5℃ 이상 조건에서 건설 현장 콘크리트 공사 시 조강형 콘크리트를 적용한 공정 기술(조강 콘크리트 기술)&#39;로 녹색기술 인증을 획득했다고 8일 밝혔다.녹색기술 인증 제도는 ‘저탄소 녹색성장 기본법’에 근거해 국토교통부 등 9개 관계 부처와 국토교통과학기술진흥원 등 11개 평가 기관이 공동으로 운영하는 국가 인증 제도다.기술의 전 생애",
-    "published_at": "2026-07-08T16:53:49+09:00",
-    "cluster_id": "8bcc",
-    "publisher": "워크투데이",
-    "title_clean": "현대건설, 나노입자 기반 '조강 콘크리트 기술' 녹색기술 인증 획득 … 건설산업 탈탄소 전환 속도",
-    "summary": "현대건설이 나노입자 기반의 '조강 콘크리트 기술'으로 녹색기술 인증을 획득했다. 이 기술은 콘크리트 양생 에너지를 획기적으로 줄여 건설산업의 탈탄소 전환을 가속화할 것으로 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T17:09:43+09:00",
-    "importance": 2
   }
 ]
