@@ -21464,6 +21464,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "신용도 방어에도…DL건설, 수주잔고·현금흐름 '이중고' - 딜사이트",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CZ2dIZGpRam9hcXBwdU1oamZ4Mm9YYVUxX21MX0R6eVVsSGVPb09rM3RJNjJtZ3pCcnRFWnZ1cVZjYUxVZU5sOEdEQnlqdEE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CZ2dIZGpRam9hcXBwdU1oamZ4Mm9YYVUxX21MX0R6eVVsSGVPb09rM3RJNjJtZ3pCcnRFWnZ1cVZjYUxVZU5sOEdEQnlqdEE?oc=5\" target=\"_blank\">신용도 방어에도…DL건설, 수주잔고·현금흐름 '이중고'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">딜사이트</font>",
+    "published_at": "2026-07-10T14:30:00+09:00",
+    "cluster_id": "7e22",
+    "publisher": "딜사이트",
+    "title_clean": "신용도 방어에도…DL건설, 수주잔고·현금흐름 '이중고'",
+    "summary": "DL건설이 신용도 유지를 위해 노력하고 있으나 수주잔고 감소와 현금흐름 악화라는 이중 어려움에 직면해 있다. 건설사의 재무 건전성 악화는 업계 전반의 신용 경색 우려를 반영한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T00:58:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32179,22 +32195,6 @@
     "summary": "양철호 신임 광주국세청장이 취임하며 호남지역의 경제 어려움을 언급했다. 중동전쟁 여파, 내수 침체, 석유화학·건설경기 위축 등으로 인한 어려운 상황 속에서 선제적이고 따뜻한 세정 지원을 추진할 것을 밝혔다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-08T17:34:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "글로벌에스텍, 이동식 강성 방호울타리 조달청 혁신제품 지정 - segye.com",
-    "link": "https://www.segye.com/newsView/20260708521212?OutUrl=naver",
-    "description": "제품은 국토교통부 건설신기술 제1025호 규격을 바탕으로 제작된 이동식 콘크리트 방호벽과 전용 연결기구 결합형 모듈 시스템이다. 도로공사 현장 내부의 차량 이동로와 작업 공간을 분리하고, 임시 보행로와 추락 위험...",
-    "published_at": "2026-07-08T17:24:00+09:00",
-    "cluster_id": "4be3",
-    "publisher": "segye.com",
-    "title_clean": "글로벌에스텍, 이동식 강성 방호울타리 조달청 혁신제품 지정",
-    "summary": "글로벌에스텍이 개발한 이동식 강성 방호울타리가 조달청 혁신제품으로 지정되었다. 국토교통부 건설신기술 규격을 바탕으로 한 콘크리트 방호벽과 연결기구 모듈 시스템으로, 도로공사 현장의 안전성을 향상시킨다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T17:29:08+09:00",
     "importance": 2
   }
 ]
