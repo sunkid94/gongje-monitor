@@ -5503,6 +5503,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[단독]대치1차현대, 리모델링 접고 재건축…IPARK현산 결별 수순 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xY19HNUQ1VTNIdVI4Q0M5YTdXSG1LcnItU2tHN0EtRGNnLTZPRG5oTm41eUthbVpoSlQ0SVRZcDJXSVJ4Wk90d2x2Z0lLSEZWT052WkNaenZ0NEQ3SVV1Y2FYeGo?oc=5",
+    "description": "국내 첫 말뚝(파일)기초 수직증축 리모델링 단지인 서울 강남구 대치1차현대아파트가 재건축으로 사업을 전환한다. 시공사인 IPARK현대산업개발(이하 IPARK현산)과 공사비 간극을 좁히지 못한 데다, 소규모 단지 특성 등을 검토했을 때 재건축이 더 유리하다고 판단한 것. 조합원 의결을 받으면 IPARK현산과 결별 절차를 밟게 된다.11일 정비업계에 따르면 대치1차현대 리모델링 조합은 재건축 전환을 검토하고 있다. 조합원 의견을 수렴한 뒤 총회를 통해 사업 방향을 결정할 계획이다.재건축 전환 이유는 사업성 부족이다. IPARK현",
+    "published_at": "2026-07-11T06:30:02+09:00",
+    "cluster_id": "d735",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "[단독]대치1차현대, 리모델링 접고 재건축…IPARK현산 결별 수순",
+    "summary": "서울 강남구 대치1차현대아파트가 말뚝기초 수직증축 리모델링에서 재건축으로 사업 전환한다. IPARK현산과의 공사비 격차 및 소규모 단지 특성상 재건축이 더 유리하다고 판단했으며, 조합원 의결 후 시공사와 결별할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T06:38:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21449,18 +21465,18 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "AI 시대, 두산에너빌리티 제조 산업 현장은 어떻게 변화되고 있는가? - 두산뉴스룸",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OcVpBcUYtOC05OG9fY3pENnRoMnVwQ0Z1YThmU2o3V3AxTGw4dUk5eWlsNnQyNVhtdmktckdneEl5Ry1ybXREMjVxMElKRkI4UjJkc3MtR1Y4Rk0?oc=5",
-    "description": "두산뉴스룸, 두산의 최신 소식을 만나는 플랫폼입니다. 두산의 사람들과 문화를 재미 있는 영상으로 소개합니다.",
-    "cluster_id": "3094",
-    "publisher": "두산뉴스룸",
-    "title_clean": "AI 시대, 두산에너빌리티 제조 산업 현장은 어떻게 변화되고 있는가?",
-    "summary": "두산에너빌리티가 AI 기술을 제조 산업 현장에 도입하여 생산성과 효율성을 개선하고 있습니다. AI 시대 산업 변화에 대응하는 기업의 혁신 사례를 소개하는 기사입니다.",
+    "title": "[KHARN칸] AI DC 건설산업 활성화 포럼 발족 - 칸(KHARN)",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5UFp3bktpZ3JwZFI2V1lkanMwN3Z6MU9WRDVKVXFUbzJBU0xwUzg4MkxoT0gxMjBtTHhpYW9HOHpob2NGc3dqemZ1UVF6TUpTbk1jQk1n?oc=5",
+    "description": "DC 건설산업 생태계 조성을 위한 민·관협력체계가 구축된다. 대한기계설비산업연구원(원장 김승기)은 지난 7월8일 기계설비건설회관에서",
+    "cluster_id": "c582",
+    "publisher": "칸(KHARN)",
+    "title_clean": "[KHARN칸] AI DC 건설산업 활성화 포럼 발족",
+    "summary": "대한기계설비산업연구원이 DC 건설산업 생태계 조성을 위한 민·관협력체계 구축을 추진 중이며, AI DC 건설산업 활성화 포럼을 발족했다. 이는 기계설비건설 산업의 성장 기반 마련을 위한 정책적 지원으로 평가된다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-06T15:50:01+09:00",
+    "collected_at": "2026-07-11T06:38:25+09:00",
     "importance": 2
   },
   {
@@ -32180,21 +32196,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-08T17:49:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "방과후강사·관광통역사도 '산업안전' 울타리 안으로 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zSDcwMXVTb0I4V0VyZmJrWk5LTmhjandXZFFWMkhtcGdTYk5jQ0QydVE2bnBucWpCU0NkbW9ya1BNckd0SlltQ1RQUlduc2c?oc=5",
-    "description": "방과후강사, 건설현장 화물차주 등 그동안 산업안전보건법상 보호받지 못했던 4개 업종이 법의 울타리 안에 새로 들어가게 됐습니다. 이에 따라 특수형태근로종사자(특고) 19개 직종 모두가 산업안전 분야에서 보호받을 수 있게 됩니다. 오늘(8일) 고용노동부가 입법예고한 산업안전보건법 시행령 개정안에 따르면, 노무제공자로서 산업재해보상보험법상 보호를 받는 1",
-    "published_at": "2026-07-08T17:18:28+09:00",
-    "cluster_id": "1067",
-    "publisher": "v.daum.net",
-    "title_clean": "방과후강사·관광통역사도 '산업안전' 울타리 안으로",
-    "summary": "방과후강사, 건설현장 화물차주 등 4개 업종이 산업안전보건법 보호 대상에 새로 포함되어 특수형태근로종사자 19개 직종 전체가 산업안전 분야에서 보호받게 됨. 고용노동부가 산업안전보건법 시행령 개정안을 입법예고.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T17:49:55+09:00",
-    "importance": 4
   }
 ]
