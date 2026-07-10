@@ -21450,6 +21450,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "도지사가 직접 챙긴다···제주 ‘직속 상황실’로 민생현안 실시간 대... - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202607101521001",
+    "description": "그 아래 생활경제 지원반, 1차산업 위기대응반, 관광시장 안정반, 건설경기 활성화반 등 4개 실무반이 분야별 소관 국장을 반장으로 운영된다. 위기 상황에 따라 한국은행 제주본부와 제주연구원, 신용보증재단...",
+    "published_at": "2026-07-10T15:21:00+09:00",
+    "cluster_id": "8e9f",
+    "publisher": "khan.co.kr",
+    "title_clean": "도지사가 직접 챙긴다···제주 ‘직속 상황실’로 민생현안 실시간 대...",
+    "summary": "제주도지사가 직속 상황실을 설치하여 민생현안을 실시간 대응하며, 생활경제, 1차산업, 관광, 건설경기 등 4개 실무반을 운영 중이다. 건설경기 활성화반을 통해 지역 건설산업 안정화를 도모하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-10T15:28:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32179,22 +32195,6 @@
     "publisher": "biz.heraldcorp.com",
     "title_clean": "KDI “반도체·서비스가 버텼다”…내수는 완만한 회복, 건설·고용은 여...",
     "summary": "KDI는 반도체·서비스 부문이 경제를 버텼다고 평가했으나, 건설경기는 5월 기성이 1.9% 감소하며 부진이 계속되고 있다. 주거용 건축 부진에 더해 중동 정세와 고환율로 인한 건설비용 상승이 향후 회복을 제약할 것으로 전망했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T12:09:50+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "철골 기둥 휘고 바닥 처져… 뉴욕 37층 건물 붕괴 신호 - munhwa.com",
-    "link": "https://www.munhwa.com/article/11601185?ref=naver",
-    "description": "위반으로 지난해 3만2500달러 이상의 과태료가 부과됐다. 폭스뉴스는 해당 건물에서 위반사항 22건이 적발된 바 있다고 보도했다. CNN에 따르면 건설 노동자가 이 건물에서 ‘심각한 부상’을 입었다는 소송도 제기돼 있다.",
-    "published_at": "2026-07-08T12:00:00+09:00",
-    "cluster_id": "aa96",
-    "publisher": "munhwa.com",
-    "title_clean": "철골 기둥 휘고 바닥 처져… 뉴욕 37층 건물 붕괴 신호",
-    "summary": "뉴욕의 37층 건물에서 철골 기둥이 휘고 바닥이 내려앉는 등 붕괴 신호가 감지됐다. 건물은 지난해 3만2500달러 이상의 과태료와 22건의 위반사항이 적발됐으며, 건설 노동자의 심각한 부상 소송도 제기된 상태다.",
     "sentiment": "negative",
     "collected_at": "2026-07-08T12:09:50+09:00",
     "importance": 4
