@@ -5452,6 +5452,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "靑 지원사격·美 빗장 해제…두산에너빌리티, 원전 '삼각편대' 뜬다 - 뉴데일리",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wU1hLUDZzS0lxdGxzYThMcno2ckM1TnQ3TEVOT3lKQXJrXzFiYmZtNEY4cTVZZE5DdXJYelJTUTd1Xy0wNkZxNURBbnhnNXNmZkhQYmo4SmRQZHRpT2E0SWdxd1EwUUFrV1RUZHhMOUNZM3MzWjNiUnVBZ9IBgAFBVV95cUxNMUlhMldQTXhoVHI1YldfSV9PeGZYSTNncWNOS3plYW9jM3BHaFJ6WFNOSEVldlc0NkZxd1oxYWwyNUdyRExWYmczaDNLaDJ1MDRhQ0JOcnZ0ejhkSi1la1JFMkg4VndNNEw2aWNkcFRfQ3ByV2l4ajhGM1daZE95UA?oc=5",
+    "description": "정부의 신규 원전 건설 추진과 미국 원자력 규제 완화가 맞물리며 두산에너빌리티의 사업 부문이 연이어 호재를 맞고 있다. 대형원전과 SMR(소형모듈원전), 가스터빈으로 이어지는 삼각편대 전반에 정책적 수혜와 수주 확대가 가시화되고 있다.10일 업계에 따르면, 최근 김용범 청와대 정책실장이 AI와 반도체 산업의 전력 수요 대응을 위해 \"신규 원전 건설이 필수적\"이라고 강조해 원전 추가 건설이라는 정부 정책에 힘이 실리고 있다. 이...",
+    "published_at": "2026-07-10T11:05:42+09:00",
+    "cluster_id": "ae7e",
+    "publisher": "뉴데일리",
+    "title_clean": "靑 지원사격·美 빗장 해제…두산에너빌리티, 원전 '삼각편대' 뜬다",
+    "summary": "정부의 신규 원전 건설 추진과 미국 원자력 규제 완화로 두산에너빌리티가 대형원전, SMR, 가스터빈 등 전 사업 부문에서 정책적 수혜와 수주 확대 기회를 맞고 있다. 청와대가 AI·반도체 산업의 전력 수요 대응을 위해 원전 건설의 필수성을 강조하며 건설 사업 확대가 가시화되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T15:53:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21397,22 +21413,6 @@
     "summary": "서울 성수4지구 재개발 사업의 시공자로 롯데건설이 선정되었다. 한강변 최대 규모 프로젝트로 평가되는 64층 초고층 재개발로 건설업계의 대형 수주 프로젝트다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T14:29:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "신동아ES, 곡선으로 미학적 가성비 담은 ‘오젤(OZEL) 스위치’ 출시 - seoul.co.kr",
-    "link": "https://www.seoul.co.kr/news/economy/2026/07/06/20260706500121?wlog_tag3=naver",
-    "description": "신동아ES는 40년 가까운 오랜 업력을 가진 배선기구 전문기업으로, 이미 LH한국토지주택공사, 삼성물산, 현대건설, GS건설, 포스코이앤씨, 대우건설 등 국내 유수의 대형 건설사들과 협업하며 1억 개 이상의 누적 납품 실적을...",
-    "published_at": "2026-07-06T14:20:00+09:00",
-    "cluster_id": "0451",
-    "publisher": "seoul.co.kr",
-    "title_clean": "신동아ES, 곡선으로 미학적 가성비 담은 ‘오젤(OZEL) 스위치’ 출시",
-    "summary": "신동아ES가 40년 업력의 배선기구 전문기업으로 대형 건설사들과 협업하며 1억 개 이상의 누적 납품 실적을 보유했다. 미학적 곡선 디자인의 '오젤 스위치'를 출시해 건설 마감재 시장에 신제품을 공급한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-06T14:24:28+09:00",
     "importance": 2
   },
   {
