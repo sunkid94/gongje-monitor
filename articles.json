@@ -3,6 +3,22 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "[KHARN칸] 조인호 해광이엔씨대표, ‘건설의 날’ 금탑산업훈장 '영예' - 칸(KHARN)",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTGd1aktWaG1Pc2NZTjRCZW94ZEF0RFJoM3hRU1RvUEVjLU03UWtxeHhnd2RBdjlVeEowU1JiNHByS1U5bXpJdTBaUDdkc3NYU0Jvb3hB?oc=5",
+    "description": "조인호 해광이엔씨 대표가 건설업에 40년간 종사하면서 책임있는 기계설비 시공으로 국책·기반사업을 성실히 수행하며 나눔실천 및 인력양성 등 사회공헌과 기계설비건설협회 회장 활동으로 업계 발전에 크게 기여한 공로를 인정받아 금탑산업훈장을 수훈하는 영예를 안았다. 대한기계설비건설협회는 명예회장인 조인호 해광이엔씨 대표가 7월9일 서울시 논현동 건설회관에서 개최된",
+    "cluster_id": "9135",
+    "publisher": "칸(KHARN)",
+    "title_clean": "[KHARN칸] 조인호 해광이엔씨대표, ‘건설의 날’ 금탑산업훈장 '영예'",
+    "summary": "조인호 해광이엔씨 대표가 건설업 40년 종사와 기계설비 시공, 사회공헌, 기계설비건설협회 회장 활동 등의 공로를 인정받아 금탑산업훈장을 수훈했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T18:28:42+09:00",
+    "event_label": "대한기계설비건설협회 조인호 대표 금탑산업훈장 수훈",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "[2026 건설의 날] 국토부 장관표창 - 전주환 (유)군장공조 대표이사 - 기계설비신문",
     "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50767",
     "description": "전주환 대표는 31년 간 기계설비업계에 몸담은 기술자다. 1994년 군장공조를 설립한 이래로, 시공 기술자로서 복잡한 현장 여건에서도 효율과 안전을 추구해 왔다. 전 대표는 국립군산대학교 냉난방기 설치사업을 비롯해 광역해양레저체험 복합단지 HVAC 구축, 공공청사 및 교육시설 기계설비 공사 등 다수의 국책·지자체 발주사업을 성공적으로 수행하며 기술력을 인정받았다.그는 설계 단계부터 현장 실사와 장비 선정, 시운전, 사후관리까지 전 과정을 체계적으로 관리하며, 현장 특성에 맞는 최적의 설비를 적용해 에너지 절감과 안전성 확보를 동시에",
@@ -21450,6 +21466,21 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부 김윤덕 장관, “좋은 집 더 빠르게 공급하도록 모듈러 기술 키울 것” - 통신일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hOVhXeUhsVGJ3bnBBLUFKQmM2N2dMcHNsWUxqZURzdllqNklkTFpjUTVFcG1DZXpFcE9sY250QVVXTjE4NXptT3NMU3N6dWVxVVVZY0JRaWs5Qnpwc2dhYlFNQnBQVE1Q?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hOVhXeUhsVGJ3bnBBLUFKQmM2N2dMcHNsWUxqZURzdllqNklkTFpjUTVFcG1DZXpFcE9sY250QVVXTjE4NXptT3NMU3N6dWVxVVVZY0JRaWs5Qnpwc2dhYlFNQnBQVE1Q?oc=5\" target=\"_blank\">국토부 김윤덕 장관, “좋은 집 더 빠르게 공급하도록 모듈러 기술 키울 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">통신일보</font>",
+    "cluster_id": "329a",
+    "publisher": "통신일보",
+    "title_clean": "국토부 김윤덕 장관, “좋은 집 더 빠르게 공급하도록 모듈러 기술 키울 것”",
+    "summary": "국토부 김윤덕 장관이 모듈러 건설 기술 개발을 강화하여 주택 공급 속도를 높이겠다고 발표했습니다. 이는 건설업계의 효율성 향상과 시장 확대로 이어질 수 있는 정책입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T18:28:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32167,37 +32198,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-08T16:59:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "김윤덕 장관 “2차 공공기관 이전, 지역별 산업 경쟁력 중점 고려” - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wZDZrSV9nWC11MkRtWFdhbXM5SlFoS2Vod2d4VEYtcHoxbk9HeElNNjJEVTBKV0N6Wi1iSVpHakRucVJw?oc=5",
-    "description": "김윤덕 장관은 8일 전북 전주 혁신도시에서 열린 KB 금융타운 개소식에 참석했다.(사진 = 국토부) © 매일건설신문 매일건설신문=윤경찬 기자 | 김윤",
-    "published_at": "2026-07-08T16:48:00+09:00",
-    "cluster_id": "4685",
-    "publisher": "매일건설신문",
-    "title_clean": "김윤덕 장관 “2차 공공기관 이전, 지역별 산업 경쟁력 중점 고려”",
-    "summary": "김윤덕 장관이 전북 전주 혁신도시의 KB 금융타운 개소식에 참석했다. 2차 공공기관 이전 시 지역별 산업 경쟁력을 중점적으로 고려하겠다는 방침을 밝혔다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-08T16:59:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "AI 시대…데이터센터, 건설산업 새 성장동력 육성 - 에너지신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uUE9Nc3VVMS1RNXV3UmJkVFlVOTlLTERNeTZrUy1sRUstN0RkNnN5Wk5sdXp1bGFmcHdXeUFVTUt0QTgzQ3ltbl9rRHh6bXVRTExvMTZNUG1RbmFDLWdCVGdMQnptMDZHYjA3cE9zSlg?oc=5",
-    "description": "[에너지신문] 대한기계설비산업연구원(원장 김승기)이 8일 기계설비건설회관 1층 대회의실에서 국토교통부와‘AI 시대 데이터센터 건설산업 활성화 포럼’ 발대식을 가졌다.이번 포럼은 AI·클라우드 확산에 따라 급성장하는 데이터센터 건설 수요에 대응하고 데이터센터 건설산업을 국내 건설산업의",
-    "published_at": "2026-07-08T16:46:37+09:00",
-    "cluster_id": "ce21",
-    "publisher": "에너지신문",
-    "title_clean": "AI 시대…데이터센터, 건설산업 새 성장동력 육성",
-    "summary": "국토교통부와 대한기계설비산업연구원이 AI·클라우드 확산에 따른 데이터센터 건설 수요 증가에 대응하기 위해 '데이터센터 건설산업 활성화 포럼'을 출범시켰다. 이는 데이터센터 건설을 국내 건설산업의 새로운 성장동력으로 육성하려는 정부의 정책적 노력이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T16:54:08+09:00",
-    "importance": 2
   }
 ]
