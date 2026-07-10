@@ -21416,6 +21416,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "승강기안전공단, AI 기반 '침수대비 안전예보시스템' 구축…집중호우 전 선제 대응 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40823",
+    "description": "[건설이코노미뉴스] 한국승강기안전공단(이사장 고성균)은 집중호우로 인한 승강기 침수 피해를 예방하기 위해 AI(인공지능) 기반 '침수대비 안전예보시스템'을 구축하고 장마철과 풍수해 대책기간 동안 본격 운영한다고 밝혔다.최근 기후변화로 국지성 집중호우가 빈번해지면서 승강기 침수 피해도 꾸준히 증가하고 있다. 최근 5년간 전국에서 발생한 승강기 침수 피해는 총 2,074대에 달하는 것으로 집계됐으며, 공단은 피해를 사전에 차단하기 위한 선제적 대응체계를 마련했다.이번에 도입된 AI 안전예보시스템은 기상청의 실시간 기상특보와 공단이 보유",
+    "published_at": "2026-07-10T16:05:00+09:00",
+    "cluster_id": "9994",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "승강기안전공단, AI 기반 '침수대비 안전예보시스템' 구축…집중호우 전 선제 대응",
+    "summary": "한국승강기안전공단이 AI 기반 침수대비 안전예보시스템을 구축하여 장마철과 풍수해 대책기간에 운영한다. 최근 5년간 2,074대의 침수 피해가 발생함에 따라 기상청 정보와 공단 데이터를 활용해 선제적 대응체계를 마련했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T16:06:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32179,20 +32195,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-08T13:09:11+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건산연 \"외국선 통제 가능한 만큼만 의무…도급인 권한 보완해야\" - KB Think",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fWllQbXJqWkg5aDRMeG9zSkZ6VDJLOVBMMWZkTmdwY0M2WWt1VDNOeGZ4MkNGSl9UVDMzTFZsU0ZoY2pOSHEwZWNESE1vZk1aY3c4S0ZEd0pJYjZMVEVaakg2TS1UMm9CQW9CS1BsYXc2Zw?oc=5",
-    "description": "이효지 기자 = 산업안전보건법상 도급인의 의무가 권한에 비해 과중해 보완이 필요하다는 주장이 제기됐다. 건설산업연구원은 8일 '산업안전보건법상 건설 도급인 안전관리 의무·책임·권한 균형에 관한 연구' 보고서를 내고 현행 제도가 의무·책임과 권한이 균형을 이루는지 해외",
-    "cluster_id": "6e2b",
-    "publisher": "KB Think",
-    "title_clean": "건산연 \"외국선 통제 가능한 만큼만 의무…도급인 권한 보완해야\"",
-    "summary": "건설산업연구원이 산업안전보건법상 도급인의 의무가 권한에 비해 과중하다며 제도 보완을 주장했다. 해외 사례를 기준으로 통제 가능한 범위 내에서만 의무를 지우고 도급인의 권한을 강화해야 한다는 취지다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T13:09:11+09:00",
-    "importance": 2
   }
 ]
