@@ -21568,6 +21568,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "부산시, 건설업체 1대1 맞춤형 컨설팅…행정 부담 줄인다 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260710_0003703719",
+    "description": "이번 사업은 건설업 등록기준과 건설공사대장 통보, 하도급대금 지급보증 등 건설산업기본법과 관련한 주요 제도를 실무 중심으로 상담해 건설업체의 행정 부담을 덜고 현장의 애로사항을 청취하기 위해 마련됐다....",
+    "published_at": "2026-07-10T09:07:00+09:00",
+    "cluster_id": "00f5",
+    "publisher": "newsis.com",
+    "title_clean": "부산시, 건설업체 1대1 맞춤형 컨설팅…행정 부담 줄인다",
+    "summary": "부산시가 건설업체를 대상으로 1대1 맞춤형 컨설팅을 실시하여 건설산업기본법 관련 주요 제도를 실무 중심으로 상담한다. 건설업 등록기준, 건설공사대장 통보, 하도급대금 지급보증 등에 대한 행정 부담을 경감하고 현장의 애로사항을 청취하기 위한 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-10T09:14:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32182,22 +32198,6 @@
     "title_clean": "젠스파크, 국토부 '2026 스마트건설 챌린지' AI 후원사 참여",
     "summary": "젠스파크가 국토교통부 주최 '2026 스마트건설 챌린지'의 AI 후원사로 참여한다. 건설업계의 생성형 AI, BIM, 로봇 기술 등 첨단 기술 활용을 촉진하는 사업으로, 건설 산업의 디지털 혁신을 지원한다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-07T15:59:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GH 김용진 사장, 화성동탄2 건설현장 안전점검…근로자 4000명에 폭염 물품 지급 - 청년투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SmFhbzdmc3pyR3N6SW84S0Q2WTVpME9Gc3JCYy1zZ0djeFlxdDdxNlJCMHIxVm51MWNRaGdkbUVoSlhHZVJCbC1mSWxUUk9SVm1vaVdzN29QdnFKeHhPN21kbzVHS18zdHc?oc=5",
-    "description": "[청년투데이=장효남 기자] 경기주택도시공사(GH)가 여름철 집중호우와 기록적인 폭염에 대응해 건설현장의 안전보건 관리 실태를 대대적으로 점검하며 중대재해 예방에 나섰다.GH는 지난 6일 김용진 사장이 화성동탄2 택지개발사업지구 내 공동주택 건설 현장을 방문해 폭염 및 장마철 대비 안전 점검을 실시했다고 밝혔다. 이번 점검은 기후변화로 심해지는 여름철 자연재해 속에서 현장 근로자의 생명과 안전을 확보하기 위한 선제적 조치로 이뤄졌다.이날 김 사장은 공사 현장의 수방 대책과 안전관리 상황을 직접 확인했다. 특히 온열질환 발생 우려가 높",
-    "published_at": "2026-07-07T09:49:32+09:00",
-    "cluster_id": "850f",
-    "publisher": "청년투데이",
-    "title_clean": "GH 김용진 사장, 화성동탄2 건설현장 안전점검…근로자 4000명에 폭염 물품 지급",
-    "summary": "GH가 화성동탄2 건설현장에서 폭염과 장마철 대비 안전점검을 실시하고 근로자 4000명에게 폭염 물품을 지급했다. 기후변화로 인한 여름철 자연재해 속에서 중대재해 예방과 근로자 안전 확보를 위한 선제적 조치로 평가된다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-07T15:59:45+09:00",
     "importance": 2
   }
