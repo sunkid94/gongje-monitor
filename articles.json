@@ -21464,6 +21464,22 @@
     "importance": 3
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "UAE 스마트시티 건설 붐, 전 세계 고급 건설 인력 확보 경쟁 달아오른다 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yZWJ3bzVuSndIVUZpRF84MXl5ZXVVU3dnRzI0dExiWmdjeDFwZzNmR2JnRXhtRmg2NW45SjFoRlVxX0VSZldYaWpwZ3o?oc=5",
+    "description": "2030년까지 50만명 수요·인센티브 구조 분석 2026년 7월 11일, Gulf News는 아랍에미리트(UAE)의 대규모 스마트 시티 프로젝트가 전 세계 고급 건설 인력 시장의 판도를 바꾸고 있다고 보도했다. Gulf News는 이들 프로젝트가",
+    "published_at": "2026-07-11T03:14:48+09:00",
+    "cluster_id": "75db",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "UAE 스마트시티 건설 붐, 전 세계 고급 건설 인력 확보 경쟁 달아오른다",
+    "summary": "UAE의 스마트시티 건설 프로젝트로 2030년까지 50만명의 고급 건설 인력 수요가 발생하고 있으며, 이는 전 세계 건설 인력 시장의 판도를 변화시키고 있다. 대규모 프로젝트로 인한 고급 건설 인력에 대한 국제 경쟁이 심화되고 있는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-11T03:18:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32179,22 +32195,6 @@
     "summary": "AI와 드론, 로봇 등 스마트 기술이 건설현장의 추락, 중기계 사고 등 산업안전을 실시간으로 감지하고 예방하고 있다. 설비 이상을 사전에 찾아내고 위험구역 접근 시 자동 차단하는 등 스마트 안전 관리 시스템이 확산되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T17:39:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "양철호 신임 광주국세청장, 8일 취임 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6545262?utm_source=naver&utm_medium=article&utm_campaign=20260708052912",
-    "description": "양 청장은 취임사에서 \"호남지역은 중동전쟁 여파와 내수 침체, 석유화학·건설경기 위축 등 경제적으로 매우 어려운 상황에 처해 있다\"라면서 \"이런 시기일수록, 선제적이고, 따뜻한 세정 지원을 폭넓게 펼쳐야 한다\"라고...",
-    "published_at": "2026-07-08T17:30:00+09:00",
-    "cluster_id": "8d0b",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "양철호 신임 광주국세청장, 8일 취임",
-    "summary": "양철호 신임 광주국세청장이 취임하며 호남지역의 경제 어려움을 언급했다. 중동전쟁 여파, 내수 침체, 석유화학·건설경기 위축 등으로 인한 어려운 상황 속에서 선제적이고 따뜻한 세정 지원을 추진할 것을 밝혔다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-08T17:34:18+09:00",
     "importance": 2
   }
 ]
