@@ -21262,6 +21262,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울 전역 폭염주의보...서울시, 구청사 무더위 대피공간 24시간 개방 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260711000051",
+    "description": "야외 작업으로 온열질환 위험이 큰 건설노동자 보호 대책도 시행된다. 서울시는 충분한 휴식시간 보장과 휴게공간 마련 등을 권고하고 이행 여부를 점검할 계획이다. 시는 전광판, 누리집, 안전안내문자 등을 통해...",
+    "published_at": "2026-07-11T13:23:00+09:00",
+    "cluster_id": "e8bd",
+    "publisher": "newspim.com",
+    "title_clean": "서울 전역 폭염주의보...서울시, 구청사 무더위 대피공간 24시간 개방",
+    "summary": "서울시가 폭염주의보에 따라 구청사 무더위 대피공간을 24시간 개방하고, 건설노동자 보호를 위해 휴식시간 보장과 휴게공간 마련을 권고하며 이행 여부를 점검할 계획이다. 전광판, 누리집, 안전안내문자 등을 통해 안전정보를 제공한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-11T13:28:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32165,22 +32181,6 @@
     "publisher": "비즈월드",
     "title_clean": "경기도, 공사장 안전관리 미흡 현장 조치…31개 시·군에 점검 지시",
     "summary": "경기도가 장마철을 앞두고 도내 31개 시·군의 건설공사장에 대한 안전점검을 강화하기로 지시했다. 용인시 공사현장의 안전관리 미흡 지적에 따라 현장 조치 및 취약 현장 점검, 도민제보시스템 활성화 등을 추진할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T18:59:21+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김제선, 장마 앞둔 공사장 6곳 안전 점검 - 충청일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mOWpGV1dxektza2QycFBLVWtxQUV4QWlMa3dSbHNFUzdBNE4tWWJLTlVMZlY2RmZ6TU5LdkIyTGRBSXF0c3VpVmRRcXNlSHp0S3lSWFVUZVF3ZkFabVlwMkU1cV9hQzFkdDM3RGNmWQ?oc=5",
-    "description": "집중호우와 태풍이 잦아지는 여름철에는 공사장 한쪽의 작은 배수 불량도 주민 피해로 번질 수 있다. 장마를 앞두고 주택건설 현장의 안전관리 상태를 살피는 현장점검이 이뤄졌다.대전시 중구는 8일 여름철 풍수해에 대비해 관내 주택건설공사장 6개소를 대상으로 현장점검을 실시했다.이번 점검은 국지성 집중호우와 태풍 발생 가능성이 커지는 상황에서 공사장 안전사고와 인근 주민 피해를 사전에 줄이기 위해 마련됐다. 공사장 내부 안전뿐 아니라 주변 보행 환경과 침수 위험까지 함께 들여다본 것이 핵심이다.점검반은 현장 근로자의 안전관리 상태, 가설시",
-    "published_at": "2026-07-08T18:48:36+09:00",
-    "cluster_id": "89e4",
-    "publisher": "충청일보",
-    "title_clean": "김제선, 장마 앞둔 공사장 6곳 안전 점검",
-    "summary": "대전시 중구가 장마 시즌을 앞두고 주택건설공사장 6곳에 대한 안전점검을 실시했다. 집중호우와 태풍에 대비하여 공사장 내부 안전뿐 아니라 배수 불량, 침수 위험 등 주변 주민 피해까지 사전에 점검하는 예방적 조치다.",
     "sentiment": "negative",
     "collected_at": "2026-07-08T18:59:21+09:00",
     "importance": 4
