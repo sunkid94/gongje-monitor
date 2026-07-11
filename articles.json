@@ -4960,23 +4960,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "'제4회 가스시공 안전의 날' 성황…유공자 14명 장관상 등 시상 - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=331279",
-    "description": "대한기계설비건설협회 가스공사업협의회가 주최한 '제4회 가스시공 안전의 날' 행사가 성황리에 열려 전국 시공인들이 무사고 시공 문화 정착 의지를 다졌다. 대한기계설비건설협회 가스공사업협의회는 11일 서울 양재동...",
-    "published_at": "2026-06-11T22:46:00+09:00",
-    "cluster_id": "6a70",
-    "publisher": "e2news.com",
-    "title_clean": "'제4회 가스시공 안전의 날' 성황…유공자 14명 장관상 등 시상",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 '제4회 가스시공 안전의 날' 행사를 개최하여 무사고 시공 문화 정착을 다짐. 유공자 14명이 장관상 등을 수상했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-11T22:47:40+09:00",
-    "event_label": "대한기계설비건설협회 제4회 가스시공 안전의 날 개최",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20936,6 +20919,22 @@
     "summary": "IPARK현대산업개발이 상반기 부진을 만회하기 위해 하반기 도시정비사업에 본격 진출한다. 성남시 수정구 태평3구역 재개발사업 시공사 선정 입찰에서 코오롱글로벌과 컨소시엄으로 단독 입찰하며 수주 기회를 노리고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T16:00:00+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "지원은 늘리는데 현장은 비어간다…건설업 청년정책 '빈틈' - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2341920.htm",
+    "description": "건설경기가 회복되면 인력난은 더 두드러질 수 있다. 향후 SOC 투자와 주거 안정 관련 예산·국가 균형성장 전략·반도체 등을 중심으로 대형 정책사업이 본격화하면 숙련 기술인력 수요도 다시 늘어날 가능성이 크다....",
+    "published_at": "2026-07-12T00:01:00+09:00",
+    "cluster_id": "bce9",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "지원은 늘리는데 현장은 비어간다…건설업 청년정책 '빈틈'",
+    "summary": "건설경기 회복에 따른 SOC 투자, 주거정책, 반도체 산업 등 대형 정책사업이 본격화하면 숙련 기술인력 수요가 증가할 것으로 예상된다. 다만 정부의 청년정책 지원은 확대되고 있으나 현장 인력 공급에는 실질적 성과가 미흡한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T00:07:46+09:00",
     "importance": 2
   },
   {
