@@ -21262,6 +21262,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "상반기 대구 경제 '희비'…제조업·수출 웃고 건설경기는 침체 - ppss.kr",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=301831",
+    "description": "반면 건설경기는 부진한 흐름을 이어갔다. 올해 1월부터 5월까지 건설수주액은 3천185억원으로 지난해보다 78.1% 감소했다. 이는 같은 기간 전국 평균 증가율 41.2%와 대조적인 모습이다. 고용지표는 비교적 안정적인...",
+    "published_at": "2026-07-11T13:48:00+09:00",
+    "cluster_id": "d498",
+    "publisher": "ppss.kr",
+    "title_clean": "상반기 대구 경제 '희비'…제조업·수출 웃고 건설경기는 침체",
+    "summary": "대구 상반기 경제에서 제조업과 수출은 호조를 보인 반면, 건설경기는 심각한 부진을 기록했다. 건설수주액이 3,185억원으로 전년 대비 78.1% 급감하며 전국 평균 41.2% 증가와 극명한 대조를 이루고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T13:57:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32166,22 +32182,6 @@
     "title_clean": "시에라베이스, 피지컬AI 솔루션 '시리우스'로 고용노동부 장관상 수상",
     "summary": "시에라베이스가 피지컬AI 솔루션 '시리우스'로 고용노동부 장관상을 수상했으며, CES 2025 최고혁신상, 일본 굿 디자인 어워드 등 국내외 주요 상을 잇달아 획득했다. 건설신기술 인증과 GS인증 1등급 취득으로 건설 현장의 안전성과 효율성 강화에 기여할 수 있는 기술로 평가받고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-08T18:59:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전 중구, 여름철 풍수해 대비 주택건설공사장 현장점검 실시 - fnewstv.com",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xdmZGZGdpTjJZUEQycnhWMTR6ZTE2ekM5YjZaX3VxWW5rZHpLVWRnc0pKUGh4dEJURmxZeUo4bTJERHBPeDVFZlRRcUtZTVlpT0l3RG5fdUpFV3lZMTJmaFBUbFFaVUR2QUZVc1RoN08?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0xdmZGZGdpTjJZUEQycnhWMTR6ZTE2ekM5YjZaX3VxWW5rZHpLVWRnc0pKUGh4dEJURmxZeUo4bTJERHBPeDVFZlRRcUtZTVlpT0l3RG5fdUpFV3lZMTJmaFBUbFFaVUR2QUZVc1RoN08?oc=5\" target=\"_blank\">대전 중구, 여름철 풍수해 대비 주택건설공사장 현장점검 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fnewstv.com</font>",
-    "published_at": "2026-07-08T18:55:09+09:00",
-    "cluster_id": "6a0c",
-    "publisher": "fnewstv.com",
-    "title_clean": "대전 중구, 여름철 풍수해 대비 주택건설공사장 현장점검 실시",
-    "summary": "대전 중구가 여름철 풍수해에 대비하여 주택건설공사장에 대한 현장점검을 실시했다. 이는 건설현장의 안전성 강화와 재해 예방을 위한 행정 조치이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-08T18:59:21+09:00",
     "importance": 2
   }
