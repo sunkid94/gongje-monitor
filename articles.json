@@ -4960,6 +4960,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 미 정책 수혜 및 수급 개선으로 반등 국면 진입...월요일 주가는? - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55b053cFN0RXVfT3JvSHVSWktISzlkSF9OOHBxdjFJUUFfZnZMQ0N5YllaY3ZQNFZDaEFSV3VXQlpkRWtpQkNDbm1MS0Zrcmc1MTdzemczR3NFXzZ5N1RuQXBQZnlzVmt6?oc=5",
+    "description": "[CBC뉴스] 최근 급격한 조정을 겪었던 국내 대형 조선사인 삼성중공업의 주가가 최근 기관과 외국인의 동반 매수세에 힘입어 반등 조짐을 보이고 있다. 시장에서는 이번 주가 회복의 배경으로 미국의 조선업 재건 정책에 따른 수혜 가능성과 우수한 고부가가치 선박 수주 능력을 꼽고 있다.금융투자업계에 따르면 삼성중공업 주가는 지난 4월 고점을 기록한 이후 단기적인 차익 실현 매물 출회와 업황 고점 논란 등으로 인해 수개월간 약세를 면치 못했다. 고점 대비 40% 이상 하락하며 2만 1000원대까지 밀렸던 주가는 최근 거래일 들어 거래량이",
+    "published_at": "2026-07-12T01:00:00+09:00",
+    "cluster_id": "9567",
+    "publisher": "CBC뉴스",
+    "title_clean": "삼성중공업, 미 정책 수혜 및 수급 개선으로 반등 국면 진입...월요일 주가는?",
+    "summary": "삼성중공업이 미국의 조선업 재건 정책 수혜와 고부가가치 선박 수주 능력을 바탕으로 기관과 외국인의 매수세에 힘입어 주가 반등 조짐을 보이고 있다. 4월 고점 대비 40% 이상 하락했던 주가가 최근 거래량 증가와 함께 회복세를 나타내고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T01:07:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20903,21 +20919,6 @@
     "title_clean": "하반기 재도약 노리는 IPARK현대산업개발, 경쟁 넘고 반등 이룰까 - wikileaks-kr.org",
     "summary": "IPARK현대산업개발이 하반기 재도약을 위해 하안주공, 성수2지구, 압구정1구역, 목동11단지 등 주요 사업에서 대우건설, GS건설, 롯데건설 등 대형 건설사들과 경합을 벌일 예정이다. 상반기 수주 실적 부진을 극복하고 반등을 이루려는 시도로 평가된다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-06T16:00:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'리스크' 파고든 대우 VS '약속' 앞세운 롯데…성수4 표심은 451대 166 - 조세금융신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05dENCZXVzVDJpc3Y5X2JlR2RzbHNsRUF4RkU1UVpYbHA4MUt2VnFXdFp4ZXlsV2ZaTThfSmY2cF8zeVNCNGdzVEtXTVJNTGNTUDB0cjN5TW1DX29NYldTQllSTQ?oc=5",
-    "description": "(조세금융신문=이정욱 기자) 성수전략정비구역 제4지구 시공사 선정 총회에서 대우건설과 롯데건설은 같은 화두를 던졌지만 설득 방식은 달랐다. 양사 모두 사업 지연 없는 추진과 최고급 단지 조성을 약속했지만, 대우건설은 경쟁사의 설계와 금융 조건을 검증하는 데 무게를 뒀고 롯데건설은 계약 이행과 조합원 이익을 강조하는 데 집중했다. 총회장에서는 같은 키워드를",
-    "cluster_id": "49c4",
-    "publisher": "조세금융신문",
-    "title_clean": "'리스크' 파고든 대우 VS '약속' 앞세운 롯데…성수4 표심은 451대 166",
-    "summary": "성수4지구 시공사 선정 총회에서 대우건설이 롯데건설을 451대 166으로 압도적으로 이기며 수주에 성공했다. 대우건설은 경쟁사 검증에 무게를 둔 반면, 롯데건설은 계약 이행과 조합원 이익을 강조하는 차별화된 전략을 펼쳤다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-06T16:00:00+09:00",
     "importance": 2
   },
