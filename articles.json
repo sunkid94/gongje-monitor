@@ -4943,6 +4943,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주간 '분양현장']전국 3개 단지·753가구 청약…견본주택 11곳 개관 - sidae.com",
+    "link": "https://www.sidae.com/article/2026071017485487893",
+    "description": "IPARK현대산업개발은 강원 춘천시 장학리 883번지 일원에 '춘천리버뷰아이파크'를 분양할 예정이다. 지하 2층~27층, 2개동, 전용면적 59·84㎡, 총 262가구 규모다. 단지는 장학초를 비롯해 후평중, 강원중·고, 춘천여고...",
+    "published_at": "2026-07-12T06:05:00+09:00",
+    "cluster_id": "41de",
+    "publisher": "sidae.com",
+    "title_clean": "[주간 '분양현장']전국 3개 단지·753가구 청약…견본주택 11곳 개관",
+    "summary": "현대산업개발이 춘천시에 262가구 규모의 '춘천리버뷰아이파크'를 분양하며, 전국적으로 3개 단지 753가구가 청약을 진행 중이다. 견본주택 11곳이 개관하면서 건설시장의 분양 활동이 진행되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T06:07:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20890,19 +20906,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산에너빌리티, 크리에이텍과 공동 개발한 ‘비아이즈’ 시스템 확대 - donga.com",
-    "link": "https://www.donga.com/news/Economy/article/all/20260706/134244548/1",
-    "description": "두산에너빌리티가 소음·진동 분야 엔지니어링 전문기업 크리에이텍과 공동으로 발전기 상태를 모니터링하는 시스템을 개발해 체코 테믈린 원전 1, 2호기 발전기 교체 공사에 공급한다. 두산에너빌리티는 6일 크리에이텍...",
-    "published_at": "2026-07-06T15:49:00+09:00",
-    "cluster_id": "b8c9",
-    "publisher": "donga.com",
-    "title_clean": "두산에너빌리티, 크리에이텍과 공동 개발한 ‘비아이즈’ 시스템 확대",
-    "summary": "두산에너빌리티가 크리에이텍과 공동 개발한 발전기 상태 모니터링 시스템 '비아이즈'를 체코 테믈린 원전에 공급하며 사업을 확대하고 있다. 이는 원전 관련 기술 수출과 국내 기계설비건설 업체의 해외 수주 실적 증대를 의미한다.",
+    "title": "“10가구 더 짓는다”…과천주공8·9단지 사업시행계획 변경 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/news-detail/2026071114043442596",
+    "description": "과천주공8·9단지 재건축 조감도./사진=현대건설경기 과천시 과천주공8·9단지가 재건축 사업시행계획을 변경한다. 건축계획을 일부 조정, 공급 물량을 10가구 늘린다. 도로와 공원 등 기반시설도 일부 손질할...",
+    "published_at": "2026-07-12T06:06:00+09:00",
+    "cluster_id": "d7a4",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "“10가구 더 짓는다”…과천주공8·9단지 사업시행계획 변경",
+    "summary": "과천주공8·9단지 재건축 사업이 건축계획을 조정하여 공급 물량을 10가구 증가시킨다. 도로와 공원 등 기반시설도 함께 개선될 예정이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-06T16:00:00+09:00",
+    "collected_at": "2026-07-12T06:07:37+09:00",
     "importance": 2
   },
   {
@@ -32146,21 +32162,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-08T19:34:09+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "포커스에이아이, 국제안전보건전시회 참가...\"AI 산업안전 솔루션 전시\" - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HSXdyMXE4dTVCOUNoaUtmWkQ2T1pEVmF2ZkFzSkJxVXh6ems3clpDMHJSbE5jTXFENlo0Rmw2UEZodkFGMXprV2M5MFVFZko1cU1VNnN3RG0zaGFj?oc=5",
-    "description": "[서울=뉴스핌] 이나영 기자= 포커스에이아이가 경기 고양시 킨텍스에서 열리는 국제안전보건전시회(KISS2026)에 참가해 AI 산업안전 솔루션을 선보인다고 8일 밝혔다.이번 전시회에서 회사는 스마트 산업 안전 플랫폼, AI 지게차 인체 감지 시스템, AI 지능형 이동식",
-    "published_at": "2026-07-08T13:17:00+09:00",
-    "cluster_id": "5be3",
-    "publisher": "뉴스핌",
-    "title_clean": "포커스에이아이, 국제안전보건전시회 참가...\"AI 산업안전 솔루션 전시\"",
-    "summary": "포커스에이아이가 경기 고양시 킨텍스에서 개최되는 국제안전보건전시회(KISS2026)에 참가하여 AI 산업안전 솔루션을 전시한다. 스마트 산업 안전 플랫폼, AI 지게차 인체 감지 시스템 등 AI 기반 안전기술 솔루션을 선보일 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T19:24:11+09:00",
-    "importance": 2
   }
 ]
