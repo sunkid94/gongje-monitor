@@ -20923,6 +20923,21 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“강원지역 건설현장 중대 재해 근절, 산업재해 사망사고 제로 실천 앞장” - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUTQxTVhXOTc5aWw3RDhDWm5aWk81aWpFYlJxaDgzMU5MeTFVS3lIVEk1ZVdCcTAya2tQVDc1X0lNVmhiLVVNWVY5dVpsTXlkUGJGV01LZmRQNS1aUE9ydEhRNkVaa3Q3SDEtaXEwS2pETTVkakdSbA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUTQxTVhXOTc5aWw3RDhDWm5aWk81aWpFYlJxaDgzMU5MeTFVS3lIVEk1ZVdCcTAya2tQVDc1X0lNVmhiLVVNWVY5dVpsTXlkUGJGV01LZmRQNS1aUE9ydEhRNkVaa3Q3SDEtaXEwS2pETTVkakdSbA?oc=5\" target=\"_blank\">“강원지역 건설현장 중대 재해 근절, 산업재해 사망사고 제로 실천 앞장”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+    "cluster_id": "8b8d",
+    "publisher": "강원일보",
+    "title_clean": "“강원지역 건설현장 중대 재해 근절, 산업재해 사망사고 제로 실천 앞장”",
+    "summary": "강원지역 건설현장에서 중대 재해 근절과 산업재해 사망사고 제로를 목표로 안전 관리를 강화하는 내용으로 보도되었다. 건설업계의 안전 의식 개선과 재해 예방 노력을 강조하는 기사이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T03:27:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32148,20 +32163,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-08T19:24:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "추미애 경기도지사 \"도민 안전부터 챙겨라\" - 팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oSXVVNklNa3N3cndfbm9CbUwzdlNUMjZlZUxRU0prMlY4Z0J5YjlULXN6ZzNJQVdZbWFkbXJCNC13RFFIZG5fQXZlUm1SV2xwblNrX2ZZRHd0cm9lNlFoRHdUV0FzVEU?oc=5",
-    "description": "[경기 수원=팍스경제TV] 경기도가 추미애 도지사의 지시에 따라 도내 건설공사장과 재해 취약지역을 대상으로 집중 점검 실시한다고 8일 밝혔습니다.이번 조치는 도내 한 공사현장에서 방수포를 제대로 설치하지 않은 채 토사를 적치해 안전사고 우려가 있다는 언론 보도에 따른 후속 대응입니다. 추미애 지사는 해당 공사장에 즉각 안전조치를 시행하는 한편 산사태 우려 지역과 기존 호우 피해지역, 각종 시설물까지 도민 안전과 관련된 모든 현장을 점검하라고 지시했습니다.이에 따라 경기도는 용인시 해당 공사장에 즉시 안전조치를 요청하고 31개 시군에",
-    "cluster_id": "1a2a",
-    "publisher": "팍스경제TV",
-    "title_clean": "추미애 경기도지사 \"도민 안전부터 챙겨라\"",
-    "summary": "추미애 경기도지사가 도내 건설공사장의 안전사고 우려에 따라 집중 점검을 지시했습니다. 도내 31개 시군의 건설공사장과 재해 취약지역에 대한 전반적인 안전점검이 실시될 예정입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T19:19:06+09:00",
-    "importance": 4
   }
 ]
