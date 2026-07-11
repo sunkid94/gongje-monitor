@@ -5163,23 +5163,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회 가스공사업협의회, ‘제4회 가스 시공 안전의 날’ 성료 - 건설이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aaVY4c2pYTWktUFAyY3BkX3g5R1E1Rm5yME1ZY3dUendUMVJmU0hpN2xoUTJ6VDQxZWpNQUZhalNtTmhtb0MzWFZVYlFSaEZKOEVFSURjZDAtODRZSmFwUUtLRF8?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aaVY4c2pYTWktUFAyY3BkX3g5R1E1Rm5yME1ZY3dUendUMVJmU0hpN2xoUTJ6VDQxZWpNQUZhalNtTmhtb0MzWFZVYlFSaEZKOEVFSURjZDAtODRZSmFwUUtLRF8?oc=5\" target=\"_blank\">기계설비협회 가스공사업협의회, ‘제4회 가스 시공 안전의 날’ 성료</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">건설이코노미뉴스</font>",
-    "published_at": "2026-06-11T15:35:22+09:00",
-    "cluster_id": "5150",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "기계설비협회 가스공사업협의회, ‘제4회 가스 시공 안전의 날’ 성료",
-    "summary": "기계설비협회 가스공사업협의회가 '제4회 가스 시공 안전의 날' 행사를 개최했다. 이는 가스 시공 현장의 안전 의식 고취 및 산업 재해 예방을 위한 정기적 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-11T15:37:55+09:00",
-    "event_label": "대한기계설비건설협회 '제4회 가스 시공 안전의 날' 개최",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21139,6 +21122,22 @@
     "summary": "롯데건설이 성수4지구 재개발 사업의 시공사 선정 총회에서 72.4%의 높은 지지율로 대우건설을 제치고 수주에 성공했다. 이는 롯데건설이 3년 반간의 준비 과정을 거쳐 얻은 실적으로, 건설사의 수주 확대를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T15:50:01+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "물가·매출 흔들리면 도지사에게 즉시 보고된다… 제주 '민생경제 상황... - fnnews.com",
+    "link": "http://www.fnnews.com/news/202607111550465550",
+    "description": "생활경제 지원반과 1차산업 위기대응반, 관광시장 안정반, 건설경기 활성화반을 두고 각 분야 소관 국장이 반장을 맡는다. 경제위기의 모습이 업종마다 다르다는 점을 반영한 구조다. 소상공인에게는 매출과 소비, 금융...",
+    "published_at": "2026-07-11T15:54:00+09:00",
+    "cluster_id": "9e0e",
+    "publisher": "fnnews.com",
+    "title_clean": "물가·매출 흔들리면 도지사에게 즉시 보고된다… 제주 '민생경제 상황...",
+    "summary": "제주도가 물가와 매출 변동을 도지사에게 즉시 보고하는 '민생경제 상황실' 체계를 구축했다. 생활경제, 1차산업, 관광, 건설경기 등 4개 분야별 위기대응반을 운영하여 업종별 경제위기에 선제적으로 대응하는 구조다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-11T15:57:53+09:00",
     "importance": 2
   },
   {
