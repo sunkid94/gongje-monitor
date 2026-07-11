@@ -5486,23 +5486,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[결혼] 조철현(건설공제조합 대의원·정우개발 대표이사)씨 딸 유경씨 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=416404",
-    "description": "▲조철현(건설공제조합 대의원·정우개발 대표이사)씨 딸 유경씨 = 6월 20일, 오후 5시, 수원시 팔달구 권광로 132, 이비스 앰배서더 수원 베르사유홀.",
-    "published_at": "2026-06-11T09:32:00+09:00",
-    "cluster_id": "f5f7",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "[결혼] 조철현(건설공제조합 대의원·정우개발 대표이사)씨 딸 유경씨",
-    "summary": "건설공제조합 대의원이자 정우개발 대표이사인 조철현씨의 딸 유경씨 결혼식이 6월 20일 수원의 이비스 앰배서더에서 개최된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-11T09:37:33+09:00",
-    "event_label": "건설공제조합 조철현 대의원 딸 결혼",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21462,6 +21445,21 @@
     "summary": "신동빈 롯데그룹 회장이 인천 송도 바이오로직스 1공장을 방문해 바이오 신사업 추진 현황을 점검했다. 생산시설과 공정을 살펴보며 글로벌 고객사 대응 체계를 확인한 것으로 보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-06T15:50:01+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "메이사, 40억 국토부 ‘AX 스프린트’ 선정 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KemU4Y1o3bFV3VEExazA4MkhiX09zdm5pcEppTGtqcVlNT0k1VGE3NzRMVWtqSGpuR0t2aV9YeEVlYlNKNVZhYVNaa0JHdGY4RU5MZ3RPeENuNDYxUjhnN2dIX3VuMVczc3ZPWmk2ZWJaVFZD?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KemU4Y1o3bFV3VEExazA4MkhiX09zdm5pcEppTGtqcVlNT0k1VGE3NzRMVWtqSGpuR0t2aV9YeEVlYlNKNVZhYVNaa0JHdGY4RU5MZ3RPeENuNDYxUjhnN2dIX3VuMVczc3ZPWmk2ZWJaVFZD?oc=5\" target=\"_blank\">메이사, 40억 국토부 ‘AX 스프린트’ 선정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "c437",
+    "publisher": "대한경제",
+    "title_clean": "메이사, 40억 국토부 ‘AX 스프린트’ 선정",
+    "summary": "메이사가 국토교통부의 'AX 스프린트' 사업에 선정되어 40억 원의 지원을 받게 되었다. 이는 건설업계의 신규 사업 수주 기회로 긍정적인 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-11T09:48:09+09:00",
     "importance": 2
   },
   {
