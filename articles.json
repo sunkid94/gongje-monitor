@@ -4960,6 +4960,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설사 2분기 실적 희비…삼성물산 '개선' vs 현대건설 '축소' 전망 - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMTnJ1Uk9BUWlxUTltNWY5RjVvX0JyeFBlSVQwUVBfRzNXTjhueUxzYnVnaEJWLUF3SlRUUUk5VmVzRHpfZ1BKYzJ1eEI1N2t3VUZhT05aOXR0WkdwVzEyeVdzUQ?oc=5",
+    "description": "[더구루=홍성환 기자] 국내 주요 건설사의 2분기 실적이 원가 관리 능력과 해외 수주 여부에 따라 희비가 엇갈릴 전망이다. 12일 에프엔가이드 등에 따르면 대우건설의 2분기 영업이익 전망치는 1440억원으로 집계됐다. 전년 같은 기간보다 70% 증가한 수치다. 하지만 매출은 2조310억원으로 전년 대비 약 10% 줄어들 전망이다. 지난해 대규모 손실을 반영",
+    "published_at": "2026-07-12T00:00:21+09:00",
+    "cluster_id": "f2a1",
+    "publisher": "더구루",
+    "title_clean": "건설사 2분기 실적 희비…삼성물산 '개선' vs 현대건설 '축소' 전망",
+    "summary": "국내 주요 건설사의 2분기 실적이 원가 관리 능력과 해외 수주 여부에 따라 엇갈릴 전망이다. 대우건설은 영업이익 70% 증가로 개선되나 매출은 10% 감소할 것으로 예상되며, 건설사별로 실적 양극화가 심화될 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T00:22:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20901,22 +20917,6 @@
     "publisher": "조세금융신문",
     "title_clean": "'리스크' 파고든 대우 VS '약속' 앞세운 롯데…성수4 표심은 451대 166",
     "summary": "성수4지구 시공사 선정 총회에서 대우건설이 롯데건설을 451대 166으로 압도적으로 이기며 수주에 성공했다. 대우건설은 경쟁사 검증에 무게를 둔 반면, 롯데건설은 계약 이행과 조합원 이익을 강조하는 차별화된 전략을 펼쳤다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T16:00:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "하반기 재도약 노리는 IPARK현대산업개발, 경쟁 넘고 반등 이룰까 - 위키리크스한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWXBkYk5CWVhJN3Blak9JaVRmajAyNE9MNmVsZ242MzFJbXlGcldaY3R4enVubHVDUGstUi1EYm9QNTZzUzI5aldBNXFnZ015akJZVHJNb2pqVlNKVDBRUjlXTk83SVpnLVRLYXZ6cw?oc=5",
-    "description": "상반기 도시정비사업에서 뚜렷한 성과를 내지 못한 IPARK현대산업개발이 하반기 반등을 준비하고 있다. 상반기 부진을 하반기에는 만회할 수 있을지 기대를 모은다.6일 정비업계에 따르면 성남시 수정구 태평3구역 재개발사업의 시공사 선정을 위한 조합 총회가 오는 12일 열린다. 현재 &#39;IPARK현대산업개발·코오롱글로벌&#39; 컨소시엄이 단독 입찰한 상황으로 상반기 도시정비부문에서 다소 아쉬운 성적을 거뒀던 IPARK현산이 하반기 시작과 함께 도시정비부문에서 성과를 가져올 가능성이 높아졌다. IPARK현산은 태평3구역을 시작으로",
-    "published_at": "2026-07-06T15:48:15+09:00",
-    "cluster_id": "0ccb",
-    "publisher": "위키리크스한국",
-    "title_clean": "하반기 재도약 노리는 IPARK현대산업개발, 경쟁 넘고 반등 이룰까",
-    "summary": "IPARK현대산업개발이 상반기 부진을 만회하기 위해 하반기 도시정비사업에 본격 진출한다. 성남시 수정구 태평3구역 재개발사업 시공사 선정 입찰에서 코오롱글로벌과 컨소시엄으로 단독 입찰하며 수주 기회를 노리고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T16:00:00+09:00",
     "importance": 2
