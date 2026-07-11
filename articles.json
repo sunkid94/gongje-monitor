@@ -5028,23 +5028,6 @@
     "importance": 6
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비協 가스공사업협의회, '제4회 가스 시공 안전의 날' 개최 - MTN 머니투데이방송",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MYmJJTGZZTWdCOF9OYUlPU0JqUEpSTzEzcGxMOW1XMGxhR0MzZFBiNFAtN1Q4VHhfVVNWcDJ0U3pxTTlKOXhZX000YjZ4WVpzbm95TkVRTGFJZHBWOUNQZGl6dFY?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MYmJJTGZZTWdCOF9OYUlPU0JqUEpSTzEzcGxMOW1XMGxhR0MzZFBiNFAtN1Q4VHhfVVNWcDJ0U3pxTTlKOXhZX000YjZ4WVpzbm95TkVRTGFJZHBWOUNQZGl6dFY?oc=5\" target=\"_blank\">기계설비協 가스공사업협의회, '제4회 가스 시공 안전의 날' 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MTN 머니투데이방송</font>",
-    "published_at": "2026-06-11T17:40:12+00:00",
-    "cluster_id": "68cd",
-    "publisher": "MTN 머니투데이방송",
-    "title_clean": "기계설비協 가스공사업협의회, '제4회 가스 시공 안전의 날' 개최",
-    "summary": "기계설비協 산하 가스공사업협의회가 '제4회 가스 시공 안전의 날'을 개최했다. 가스 시공 현장의 안전 강화와 업계 안전 문화 정착을 위한 행사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-11T17:43:05+09:00",
-    "event_label": "대한기계설비건설협회 가스공사업협의회 제4회 가스 시공 안전의 날 개최",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21004,6 +20987,21 @@
     "summary": "IPARK현대산업개발이 상반기 부진을 만회하기 위해 하반기 도시정비사업에 본격 진출한다. 성남시 수정구 태평3구역 재개발사업 시공사 선정 입찰에서 코오롱글로벌과 컨소시엄으로 단독 입찰하며 수주 기회를 노리고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T16:00:00+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "가평군, 폭염 대비 건설 현장 합동 안전점검 실시 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE82Z002V3pmLXlJMlVzdlRKczNFYTZ6NFZRWEhCOWVtUVRjeTQ1ajNYNjloYUkzdHladGFzb1RtNU9aeTg?oc=5",
+    "description": "포천시와 협력해 온열질환 예방 3대 수칙 준수 여부 집중 점검 및 캠페인 전개",
+    "cluster_id": "3681",
+    "publisher": "더코리아",
+    "title_clean": "가평군, 폭염 대비 건설 현장 합동 안전점검 실시 > 뉴스",
+    "summary": "가평군이 포천시와 협력하여 폭염 시즌 건설 현장의 안전점검을 실시하고 온열질환 예방 캠페인을 전개 중이다. 온열질환 예방 3대 수칙 준수 여부를 집중 점검하여 현장 안전성을 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-11T18:32:42+09:00",
     "importance": 2
   },
   {
