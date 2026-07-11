@@ -5095,23 +5095,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설협회 가스공사업협의회, '제4회 가스시공 안전의 날' 기념... - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459441",
-    "description": "사진= (왼쪽 두 번째부터) 허용주 대한기계설비건설협회 회장, 박경국 한국가스안전공사 사장, 김영태 대한기계설비건설협회 가스공사업협의회 회장, 김종철 산업통상부 자원산업정책관. 사진= 대한기계설비건설협회...",
-    "published_at": "2026-06-11T16:10:00+09:00",
-    "cluster_id": "89ba",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "기계설비건설협회 가스공사업협의회, '제4회 가스시공 안전의 날' 기념...",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 '제4회 가스시공 안전의 날'을 기념하며 행사를 개최했다. 한국가스안전공사, 산업통상부 등 관계기관 관계자들이 참석해 가스공사 안전 강화의 중요성을 논의했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-11T16:13:23+09:00",
-    "event_label": "대한기계설비건설협회 제4회 가스시공 안전의 날 개최",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21072,6 +21055,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-06T16:00:00+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울 첫 폭염경보…시, 상황실 2단계 확대 운영 - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1666055/?sc=Naver",
+    "description": "또 야외에서 작업하는 건설노동자를 보호하기 위해 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검한다. 각 자치구도 상황실을 가동하며 냉방시설 운영과 무더위쉼터 관리, 응급구호 물품 비축...",
+    "published_at": "2026-07-11T16:11:00+09:00",
+    "cluster_id": "5dea",
+    "publisher": "dailian.co.kr",
+    "title_clean": "서울 첫 폭염경보…시, 상황실 2단계 확대 운영",
+    "summary": "서울에서 첫 폭염경보가 발령되어 시가 상황실을 2단계로 확대 운영 중이며, 건설노동자 보호를 위해 휴식시간 보장과 휴게공간 마련을 권고하고 있다. 각 자치구도 냉방시설 운영과 무더위쉼터 관리로 대응하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T16:17:52+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
