@@ -5300,23 +5300,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설協, '가스시공 안전의 날' 개최…유공자 14명 포상 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=416421",
-    "description": "대한기계설비건설협회 가스공사업협의회는 11일 서울 서초구 양재 엘타워에서 '제4회 가스시공 안전의 날' 기념식을 성황리에 개최했다고 밝혔다. 이번 행사는 가스시설의 안전 시공 중요성을 확산하고, 현장 중심의...",
-    "published_at": "2026-06-11T12:40:00+09:00",
-    "cluster_id": "09ba",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "기계설비건설協, '가스시공 안전의 날' 개최…유공자 14명 포상",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 '제4회 가스시공 안전의 날'을 개최하고 안전 시공에 기여한 유공자 14명을 포상했다. 가스시설 안전 시공의 중요성을 확산하고 현장 중심의 안전문화 정착을 추진하는 행사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-11T12:42:44+09:00",
-    "event_label": "대한기계설비건설협회 '제4회 가스시공 안전의 날' 개최 및 유공자 포상",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21277,6 +21260,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-06T15:50:01+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울 전역 폭염주의보 확대…서울시 비상대응 강화 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10805554?ref=naver",
+    "description": "야외에서 근무하는 건설노동자 보호를 위한 안전조치도 강화된다. 서울시는 충분한 휴식시간 보장과 휴게시설 마련 등을 사업장에 권고하고, 현장 이행 여부를 지속적으로 점검할 방침이다. 25개 자치구 가운데 신청사...",
+    "published_at": "2026-07-11T12:36:00+09:00",
+    "cluster_id": "0beb",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "서울 전역 폭염주의보 확대…서울시 비상대응 강화",
+    "summary": "서울시가 폭염주의보 확대에 따라 야외 건설현장의 근로자 보호를 위한 안전조치를 강화한다. 충분한 휴식시간 보장, 휴게시설 마련 등을 사업장에 권고하고 현장 이행 여부를 점검할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T12:43:05+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
