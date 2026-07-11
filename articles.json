@@ -5300,6 +5300,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[RTK 만평] 조선 빅3 '성과급 전쟁 곧 본격화..?' - 알티케이뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xc1NjOW03MnZhWllqblRyUmpuNTBxOW43WGhabUczT09RaXlPemhmUDFjeTVMMU5VWHZUckRKRFFnOFR3bW5hQ2JrYTBEZHJKTXVqbUxlaDFKdTJ3dFBfbG04cC1CQkZqWXZZNA?oc=5",
+    "description": "HD한국조선해양·한화오션·삼성중공업 등 조선 빅3의 올해 1분기 합산 영업이익이 2조원을 넘어섰다.호황이 이어지면서 성과 배분 요구도 본격화했다. 금속노조 현대중공업지부는 연간 영업이익 최소 30%의 성과 공유를 요구했다.노조가 성과급 재원을 영업이익의 구체적 비율로 제시한 것은 이번이 처음이다. 지난해 영업이익 약 2조원 기준으로 재원만 약 6000억원에 달한다.노란봉투법 시행 이후 HD현대중공업에서는 창사 이래 처음으로 정규직 노조와 사내하청 노조가 같은 시기 교섭에 나섰다.노동계는 지금의 호황이 현장 노동자의 숙련으로 만들어진",
+    "published_at": "2026-07-11T13:34:02+09:00",
+    "cluster_id": "4e5f",
+    "publisher": "알티케이뉴스",
+    "title_clean": "[RTK 만평] 조선 빅3 '성과급 전쟁 곧 본격화..?'",
+    "summary": "조선 빅3의 1분기 영업이익이 2조원을 넘으며 호황을 보이자, 금속노조가 영업이익의 30% 성과급 요구 등 노사교섭이 본격화되고 있다. 노란봉투법 시행 후 정규직과 사내하청 노조가 동시에 교섭에 나서면서 임금·성과급 협상이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T13:48:03+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21246,19 +21262,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "롯데건설, 성수4지구 재개발 시공권 확보…공사비 1조3492억원 - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=736130",
-    "description": "롯데건설이 서울 성동구 성수전략정비구역 제4지구 재개발사업 시공사로 선정됐다. 롯데건설은 지난 5일 열린 성수4지구 재개발사업 시공사 선정 총회에서 조합원 투표를 거쳐 시공권을 확보했다고 6일 밝혔다. 전체...",
-    "published_at": "2026-07-06T15:40:00+09:00",
-    "cluster_id": "c712",
-    "publisher": "polinews.co.kr",
-    "title_clean": "롯데건설, 성수4지구 재개발 시공권 확보…공사비 1조3492억원",
-    "summary": "롯데건설이 서울 성동구 성수4지구 재개발사업의 시공사로 선정되어 공사비 1조3492억원 규모의 시공권을 확보했다. 조합원 투표를 통해 결정된 이번 수주는 건설사의 수주 증가에 해당한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T15:50:01+09:00",
+    "title": "광명시의회 상임위, 주요 사업장 현장점검…운영·안전 실태 확인 - 선데이광명",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDdnJyWkxfc0h1TTBmTGZia0swOGZubkxGZlE0RDFEWHhmemhFb0lhNUJHNTY0SWs4V0JuYWlTVkR2ZUpodDBMdWlmQzdMcExrVHE4WlJvWjJTQmZua0tfekVQdkFsZXlYSFE?oc=5",
+    "description": "광명시의회(의장 이형덕)가 제10대 전반기 원 구성 이후 처음으로 상임위원회별 현장 방문에 나섰다.시의회는 9일 자치행정교육위원회와 복지문화건설위원회가 지역 주요",
+    "published_at": "2026-07-11T13:01:11+09:00",
+    "cluster_id": "03dd",
+    "publisher": "선데이광명",
+    "title_clean": "광명시의회 상임위, 주요 사업장 현장점검…운영·안전 실태 확인",
+    "summary": "광명시의회가 상임위원회별로 지역 주요 사업장에 대한 현장점검을 실시하여 운영 실태와 안전 상황을 확인하고 있다. 이는 제10대 전반기 원 구성 이후 처음으로 진행되는 현장 방문 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-11T13:48:03+09:00",
     "importance": 2
   },
   {
@@ -32168,21 +32184,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-08T18:59:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 공사장 안전관리 미흡 현장 조치…31개 시·군에 점검 지시 - 비즈월드",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHSEZHUXB6WE4zeEdEMFg1TUZ5OGVxV2Zna2tnVnVwbG5RMnNPTGNlN2dKeGxldGVaWGpIanFwRi1yXzNiOFhkOTRnSk8xVzZhUXFHTmR0UndVM3RaelhMLU9nRGdFS0JXaEE?oc=5",
-    "description": "[비즈월드] 경기도가 본격적인 장마철을 맞아 건설공사장과 산사태 우려지역, 호우 피해 취약시설에 대한 안전점검을 강화한다.경기도는 8일 추미애 경기도지사가 도내 한 공사현장의 안전관리 미흡을 지적한 언론보도를 접한 뒤, 관련 부서에 현장 조치와 도내 취약 현장 점검을 지시했다고 밝혔다.추 지사는 공사현장과 호우 피해·산사태 우려 지역 등 도민 안전과 관련된 시설 전반을 점검하고 안전 문제를 쉽게 신고할 수 있도록 도민제보시스템도 활성화하라고 지시했다고 한다.해당 현장은 용인시 내 공원·근린생활시설 조성 공사장이다. 경기도는 용인시에",
-    "published_at": "2026-07-08T18:45:00+09:00",
-    "cluster_id": "c7a6",
-    "publisher": "비즈월드",
-    "title_clean": "경기도, 공사장 안전관리 미흡 현장 조치…31개 시·군에 점검 지시",
-    "summary": "경기도가 장마철을 앞두고 도내 31개 시·군의 건설공사장에 대한 안전점검을 강화하기로 지시했다. 용인시 공사현장의 안전관리 미흡 지적에 따라 현장 조치 및 취약 현장 점검, 도민제보시스템 활성화 등을 추진할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T18:59:21+09:00",
-    "importance": 4
   }
 ]
