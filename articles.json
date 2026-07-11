@@ -5231,23 +5231,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "'제4회 가스시공 안전의 날' 가스공사업협의회, AI기술과 단합으로 가스... - gasnews.com",
-    "link": "https://www.gasnews.com/news/articleView.html?idxno=125532",
-    "description": "대한기계설비건설협회 가스공사업협의회는 6월 11일 서울 양재동 엘타워에서 가스공사업계의 화합을 도모하고 선진 안전문화 정착을 다짐하는 '제4회 가스시공 안전의 날' 기념식을 성황리에 개최했다. 가스공사업계는...",
-    "published_at": "2026-06-11T14:56:00+09:00",
-    "cluster_id": "3fde",
-    "publisher": "gasnews.com",
-    "title_clean": "'제4회 가스시공 안전의 날' 가스공사업협의회, AI기술과 단합으로 가스...",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 6월 11일 서울에서 '제4회 가스시공 안전의 날' 기념식을 개최하여 업계의 화합과 선진 안전문화 정착을 다짐했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-11T14:57:44+09:00",
-    "event_label": "대한기계설비건설협회 제4회 가스시공 안전의 날 기념식 개최",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21208,6 +21191,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-06T15:50:01+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울 동남·서남권 폭염경보 발효…올여름 첫 발령 - segye.com",
+    "link": "https://www.segye.com/newsView/20260711508145?OutUrl=naver",
+    "description": "또 야외에서 작업하는 건설노동자를 보호하기 위해 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검한다. 각 자치구도 상황실을 가동하며 냉방시설 운영과 무더위쉼터 관리, 응급구호 물품 비축...",
+    "published_at": "2026-07-11T14:53:00+09:00",
+    "cluster_id": "5a6f",
+    "publisher": "segye.com",
+    "title_clean": "서울 동남·서남권 폭염경보 발효…올여름 첫 발령",
+    "summary": "서울 동남·서남권에 올여름 첫 폭염경보가 발효되었다. 정부는 건설노동자 보호를 위해 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T14:57:57+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
