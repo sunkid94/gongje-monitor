@@ -20990,6 +20990,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "AI시대 뭐하고 살지?…소비·투자·고용 모두 양극화 [주末머니] - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026070916163016717",
+    "description": "데이터센터 건설이 늘면서 숙련 건설노동자 수요는 커지고 있다. 반대로 정보업, 전문서비스, 금융업처럼 AI 도입률이 높은 업종은 일부 직무가 자동화될 위험이 있다. AI를 활용할 수 있는 인력과 대체될 수 있는 인력의...",
+    "published_at": "2026-07-11T19:54:00+09:00",
+    "cluster_id": "da9e",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "AI시대 뭐하고 살지?…소비·투자·고용 모두 양극화 [주末머니]",
+    "summary": "AI 시대 도래로 데이터센터 건설 수요 증가로 숙련 건설노동자 수요가 커지고 있다. 반면 정보업, 전문서비스, 금융업 등 AI 도입률이 높은 업종에서는 일부 직무 자동화 위험이 존재하며, 전 사회적 고용 양극화가 심화되는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-11T19:57:42+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[칼럼] 생활 밀착형 산업안전보건법, 건설현장 노사협의체 의무화가 필요한 이유 - 케이에스피뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5MZTljZGpPYl9OTUlYZkIweVpRWHFQd24tYjA0bTFhMzlQUnowY3VYMks3U2p1YzdxX3BuLUtVdUUtaTdL?oc=5",
+    "description": "산업안전보건법은 흔히 공장이나 대기업만을 위한 법이라고 생각하기 쉽다. 그러나 현실에서 이 법은 우리의 일상과 가장 가까운",
+    "published_at": "2026-07-11T19:48:00+09:00",
+    "cluster_id": "8361",
+    "publisher": "케이에스피뉴스",
+    "title_clean": "[칼럼] 생활 밀착형 산업안전보건법, 건설현장 노사협의체 의무화가 필요한 이유",
+    "summary": "산업안전보건법이 건설현장에도 중요하게 적용되며, 건설현장 노사협의체 의무화의 필요성을 제시하는 칼럼이다. 건설업의 안전보건 관리 강화를 통해 근로자 보호를 강조하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-11T19:57:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32134,22 +32166,6 @@
     "summary": "추미애 경기도지사가 도내 건설공사장의 안전사고 우려에 따라 집중 점검을 지시했습니다. 도내 31개 시군의 건설공사장과 재해 취약지역에 대한 전반적인 안전점검이 실시될 예정입니다.",
     "sentiment": "negative",
     "collected_at": "2026-07-08T19:19:06+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "상지건설, 187억 유상증자 일정 확정…본PF 전환 위한 자금조달 '시험대' - 뉴스티앤티",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11S1NrZGtESHRLSGpNUlBycUF3LXhCTUYzQmpMX2hqY195LXJSSy1Pa2s5ZndXM2NBbEdHNE1majFDM2lmQTI2THFydkxzZ1g1bWxNLU91R28tV0JzLUxXZnc0OXJKMEdLN2c?oc=5",
-    "description": "상지건설이 서울 강남 논현동 ‘상지카일룸 에스칼라’ 개발사업의 본 프로젝트파이낸싱(PF) 전 운영자금 확보를 위해 약 187억4,400만원 규모의 유상증자 일정을",
-    "published_at": "2026-07-08T19:05:55+09:00",
-    "cluster_id": "35c0",
-    "publisher": "뉴스티앤티",
-    "title_clean": "상지건설, 187억 유상증자 일정 확정…본PF 전환 위한 자금조달 '시험대'",
-    "summary": "상지건설이 강남 논현동 '상지카일룸 에스칼라' 개발사업의 본 PF 전환을 위해 약 187억 규모의 유상증자를 추진 중입니다. 본 PF 전환 전 운영자금 확보를 위한 자금조달 시도로, 건설업계의 PF 시장 상황을 반영하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T19:14:03+09:00",
     "importance": 4
   }
 ]
