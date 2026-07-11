@@ -21262,6 +21262,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "계룡건설, 협력사와 손잡고 '안전한 현장' 만들기 총력전 - ftoday.co.kr",
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=361960",
+    "description": "계룡건설이 협력사와 함께 건설현장 안전관리 수준을 끌어올리기 위한 자리를 마련했다. 회사는 지난 8일 대전 탄방동 계룡사옥에서 '2026년 하반기 주요 협력사 간담회'를 열고, 원·하도급 간 안전 소통 체계를 강화하는...",
+    "published_at": "2026-07-11T13:16:00+09:00",
+    "cluster_id": "25a8",
+    "publisher": "ftoday.co.kr",
+    "title_clean": "계룡건설, 협력사와 손잡고 '안전한 현장' 만들기 총력전",
+    "summary": "계룡건설이 협력사와의 간담회를 통해 건설현장 안전관리 수준을 높이고 원·하도급 간 안전 소통 체계를 강화하는 자리를 마련했다. 업체 간 협력을 통한 안전 관리 강화 방안을 논의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-11T13:18:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32168,21 +32184,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-08T18:59:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "양철호 신임 광주지방국세청장 \"지역경제 회복 위한 적극적 세정지원\" - taxtimes.co.kr",
-    "link": "https://www.taxtimes.co.kr/news/article.html?no=275921",
-    "description": "양 청장은 \"지역경제 회복을 위해 적극적인 세정지원을 펼칠 것\"을 강조하며 \"호남지역은 중동전쟁 여파와 내수 침체, 석유화학·건설경기 위축 등 경제적으로 매우 어려운 상황에 처해 있다\"고 진단했다. 그는 \"일시적인...",
-    "published_at": "2026-07-08T18:42:00+09:00",
-    "cluster_id": "2832",
-    "publisher": "taxtimes.co.kr",
-    "title_clean": "양철호 신임 광주지방국세청장 \"지역경제 회복 위한 적극적 세정지원\"",
-    "summary": "양철호 신임 광주지방국세청장이 지역경제 회복을 위한 적극적 세정지원을 강조했다. 호남지역이 중동전쟁 여파, 내수 침체, 석유화학·건설경기 위축 등으로 어려운 상황에 처해 있다고 진단했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-08T18:49:01+09:00",
-    "importance": 2
   }
 ]
