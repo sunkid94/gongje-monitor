@@ -4503,23 +4503,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, AI 업무혁신 본격화…‘CG-AX 플랫폼’ 구축 박차 - 건설이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vLXJiT0VINEdIWmdZYXFrM1U1U3ZCaXZEbGo5ZW1kaWNtVEg4NDdRa3o1bGVHQi1hQU96WEY5dWVzcEFrUDVraU9FdDRfbkdPZE9GUmJIZUU3dlduM0Q0VHJJREQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vLXJiT0VINEdIWmdZYXFrM1U1U3ZCaXZEbGo5ZW1kaWNtVEg4NDdRa3o1bGVHQi1hQU96WEY5dWVzcEFrUDVraU9FdDRfbkdPZE9GUmJIZUU3dlduM0Q0VHJJREQ?oc=5\" target=\"_blank\">건설공제조합, AI 업무혁신 본격화…‘CG-AX 플랫폼’ 구축 박차</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">건설이코노미뉴스</font>",
-    "published_at": "2026-06-12T15:28:00+09:00",
-    "cluster_id": "d393",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "건설공제조합, AI 업무혁신 본격화…‘CG-AX 플랫폼’ 구축 박차",
-    "summary": "건설공제조합이 AI 기반 'CG-AX 플랫폼'을 구축하여 업무혁신을 본격화하고 있다. 이는 건설업계의 디지털 전환과 업무효율화를 추진하는 사례로, 공제조합의 선제적 혁신 노력을 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-12T15:33:10+09:00",
-    "event_label": "건설공제조합 AI 기반 CG-AX 플랫폼 구축",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20482,6 +20465,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-06T17:00:21+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "더 뜨거워진 폭염...첫 폭염 중대경보 발령 - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0108_202607121515393176",
+    "description": "야외에서 근무하시는 분들, 건설노동자분들이나. [김승배] 중대경보가 내려지면 그런 조치들이 내려지고 있는데. 전에 폭염경보는 각별히 조심하시라, 이런 의미였는데 지금은 중단하시라고 하거든요. 왜냐하면 자기...",
+    "published_at": "2026-07-12T15:15:00+09:00",
+    "cluster_id": "681c",
+    "publisher": "ytn.co.kr",
+    "title_clean": "더 뜨거워진 폭염...첫 폭염 중대경보 발령",
+    "summary": "기록적인 폭염으로 인해 처음으로 폭염 중대경보가 발령되었다. 중대경보 발령 시 야외 근무 및 건설 작업 중단 조치가 내려져 건설업계의 작업 차질이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-12T15:42:44+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
