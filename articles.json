@@ -20382,6 +20382,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“산재 줄이자는 교섭이 원청에 무리한 요구냐” - hani.co.kr",
+    "link": "https://www.hani.co.kr/arti/society/labor/1267908.html",
+    "description": "아직 현장은 변한 것이 없다.” 지난 6일 만난 이주안 민주노총 전국플랜트건설노동조합 위원장은 “산업재해를 줄이기 위해 교섭을 하자는 것이 무리한 요구냐”며 건설사 원청을 향해 목소리를 높였다. 노란봉투법 시행...",
+    "published_at": "2026-07-12T19:30:00+09:00",
+    "cluster_id": "821c",
+    "publisher": "hani.co.kr",
+    "title_clean": "“산재 줄이자는 교섭이 원청에 무리한 요구냐”",
+    "summary": "민주노총 플랜트건설노동조합이 산업재해 감축을 위한 교섭을 요구하며 건설사 원청을 압박하고 있습니다. 노란봉투법 시행과 관련하여 근로 조건 개선을 둘러싼 노사 갈등이 심화되는 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-12T19:32:49+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32126,21 +32142,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T09:19:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "용인시, 건설 현장 보행안전원 직무 역량 강화 교육 실시 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rWUMzc0RmX2h1Tm5nR3Q5ZnM2b3Z2aDdoWEFJU29zU3U0NDZMQ2lKc2QzbWplT1RWU0xaRUlkbnpidXJrRnVwQ0oxaldNenVwTGRJRDNOWnU4bk85YWF6TmJFbWoxOWpYUjJ6OEhR?oc=5",
-    "description": "(용인=국제뉴스) 강정훈 기자 = 용인시가 4일 시청 에이스홀에서 건설 현장 보행안전원을 대상으로 직무 역량 강화 교육을 실시했다.이번 교육은 보행안전원의 역할과 책임을 체계적으로 익히고, 실무 중심의 안전사고 예방에 초점을 맞춰 5시간 동안 진행됐다. 보행안전원은 건설 현장 등에서 시민이 임시 보행로를 안전하게 이용할 수 있도록 안내하며, 안내판 등 안전시설을 점검하는 임무를 맡고 있다.교육 과정에서는 차도와 보행로에서의 안전한 업무 수행 방법, 안전시설 이상 여부 확인 및 보수 요청 절차 등 현장에서 즉시 활용할 수 있는 실무",
-    "published_at": "2026-07-09T08:58:59+09:00",
-    "cluster_id": "e437",
-    "publisher": "gukjenews.com",
-    "title_clean": "용인시, 건설 현장 보행안전원 직무 역량 강화 교육 실시",
-    "summary": "용인시가 건설 현장 보행안전원을 대상으로 직무 역량 강화 교육을 실시했다. 교육은 안전사고 예방과 실무 중심의 보행안전 관리 능력 향상에 중점을 두고 진행됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T09:08:56+09:00",
-    "importance": 4
   }
 ]
