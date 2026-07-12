@@ -20433,6 +20433,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[알림] '2026 한국건설·안전박람회' 10월 14일 개막 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50799",
+    "description": "킨텍스는 오는 10월 14일부터 16일까지 제1전시장에서 '2026 한국건설·안전박람회'<포스터>를 개최한다고 13일 밝혔다.이번 박람회에서 킨텍스는 한국지하안전협회와 공동으로 '지하안전특별관'도 운영한다. 지하안전특별관은 지하 시설물 설계부터 지반탐사, 계측 및 실시간 분석 설루션까지 지하 안전 전 과정의 엔지니어링 기술을 다룬다. 박람회 기간에는 지하안전협회가 주관하는 '우수기술 인증기업 신기술 발표회'와 '지하 안전 정책 세미나'가 동시에 열려 최근 개정된 법령 정보와 학계·산업계의 최신 트렌드를 공유할 수 있다.전시회 참가",
+    "published_at": "2026-07-13T08:01:31+09:00",
+    "cluster_id": "4891",
+    "publisher": "기계설비신문",
+    "title_clean": "[알림] '2026 한국건설·안전박람회' 10월 14일 개막",
+    "summary": "킨텍스가 10월 14~16일 '2026 한국건설·안전박람회'를 개최하며, 한국지하안전협회와 함께 지하안전특별관을 운영한다. 지하 시설물 설계부터 실시간 분석 솔루션까지 전 과정의 엔지니어링 기술을 선보이고, 우수기술 인증기업 신기술 발표회와 지하 안전 정책 세미나를 개최할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T08:04:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32126,21 +32142,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-09T11:09:48+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "삼표그룹, 임원 안전세션 통해 '중대재해 핵심위험 관리’ 강화 - 디스커버리뉴스(DISCOVERYNEWS)",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84VXFBMkZaODV5MG40cVhxTFhQeko1X1VaQkhTQTFGNnZ6STZUaXI5ZFZRc2V3VHdPTDl0NnJXRFFrYjd1SnZmYVllaDNUZ1dDQmtDUjk5MVNqbGkwQ0FFTTd5TXJaYk40WGJLQ2hVcnZ6QQ?oc=5",
-    "description": "[디스커버리뉴스=강성덕 기자 ecowrite@daum.net]삼표그룹(회장 정도원)이 중대재해 예방을 위한 핵심위험 관리 역량 강화에 나섰다고 9일 밝혔다. 현장의 잠재적 위험요인을 사전에 식별하고 통제하는 안전 리더십을 정착시키기 위한 조치다.삼표그룹은 지난 6일 서울 광화문 센터포인트에서 전 계열사 대표이사와 최고안전책임자, 본사 임원, 공장장 및 소장 등 약 150명이 참석한 가운데 2026년 2분기 임원 안전세션을 개최했다고 밝혔다. 이번 행사는 올해 1분기부터 도입된 연간 시리즈형 안전 리더십 교육의 연장선으로, 상반기 동",
-    "published_at": "2026-07-09T10:54:50+09:00",
-    "cluster_id": "2480",
-    "publisher": "디스커버리뉴스(DISCOVERYNEWS)",
-    "title_clean": "삼표그룹, 임원 안전세션 통해 '중대재해 핵심위험 관리’ 강화",
-    "summary": "삼표그룹이 중대재해 예방을 위한 임원 안전세션을 개최하여 약 150명의 임원진을 대상으로 안전 리더십 교육을 실시했다. 현장 위험요인 사전 식별 및 통제를 통해 안전 관리 역량 강화에 나서고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-09T11:09:48+09:00",
-    "importance": 2
   }
 ]
