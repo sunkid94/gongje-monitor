@@ -20366,6 +20366,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[정책현장] 강소기업' 지정만으로 끝인가… - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teDg2VmlNVzk3QWdNcEhMczZYNWoyS0Y5b2oyMUlwVk81dVVDSVB5WEpMNW03RXNUQTcxSDYyWU9ReENIMHlmM0dDTlNkXzNscFMyZmE2YW5TbFRxSE1YNVVyU05FT1k?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teDg2VmlNVzk3QWdNcEhMczZYNWoyS0Y5b2oyMUlwVk81dVVDSVB5WEpMNW03RXNUQTcxSDYyWU9ReENIMHlmM0dDTlNkXzNscFMyZmE2YW5TbFRxSE1YNVVyU05FT1k?oc=5\" target=\"_blank\">[정책현장] 강소기업' 지정만으로 끝인가…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토교통신문</font>",
+    "published_at": "2026-07-13T00:37:02+09:00",
+    "cluster_id": "6490",
+    "publisher": "국토교통신문",
+    "title_clean": "[정책현장] 강소기업' 지정만으로 끝인가…",
+    "summary": "강소기업 지정 정책이 실제 지원으로 이어지지 못하고 있는 문제를 지적하는 기사. 지정 자체만으로는 건설기계설비 업계의 실질적인 경영 개선이나 수주 증대로 연결되지 않는다는 우려를 제기.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T00:47:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32124,21 +32140,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-09T09:59:25+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반도건설, 현장 안전·하자 예방 신기술 3종 개발 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBWl9mMWJta1l6emgwTkY2TXRoNU5sYUc4NC1obG9NV1hPby1OanVhRktpUG1SRmN3X3E0YnMwLWZQcWZhN0VNUGlWUzhBVW5HaWx3NFlKbUFqYjN0UWxwemVqZWdCYmVN?oc=5",
-    "description": "반도건설이 협력사 바로건설기술과 현장 안전 및 하자 예방을 위한 시공 신기술 3종 개발에 나섰다.반도건설은 바로건설기술과 공동 기술 개발 업무협약을 체결하고 '꺾",
-    "published_at": "2026-07-09T09:44:26+09:00",
-    "cluster_id": "241a",
-    "publisher": "ebn.co.kr",
-    "title_clean": "반도건설, 현장 안전·하자 예방 신기술 3종 개발",
-    "summary": "반도건설이 협력사 바로건설기술과 현장 안전 및 하자 예방을 위한 시공 신기술 3종 개발에 나섰다. 이는 건설 현장의 안전성 향상과 품질 관리 강화를 목표로 하는 기술 혁신 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T09:54:22+09:00",
-    "importance": 2
   }
 ]
