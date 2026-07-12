@@ -4824,23 +4824,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 'CG-AX 플랫폼' 구축 박차 - kscnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OZUpvalYtbG1XYmVqZThzVkwxSF9FVUlyTVZQVFB0UmhoX3FRdDJUdHRjS0V6X1NYVHNQNDV6ZzcyVTNQTWJEU0lyQ3NqbExldEJ1ZGt2cUdxLTRSZlp0UHE2TE94TUVLSjRj?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5OZUpvalYtbG1XYmVqZThzVkwxSF9FVUlyTVZQVFB0UmhoX3FRdDJUdHRjS0V6X1NYVHNQNDV6ZzcyVTNQTWJEU0lyQ3NqbExldEJ1ZGt2cUdxLTRSZlp0UHE2TE94TUVLSjRj?oc=5\" target=\"_blank\">건설공제조합, 'CG-AX 플랫폼' 구축 박차</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kscnews.co.kr</font>",
-    "published_at": "2026-06-12T10:29:07+09:00",
-    "cluster_id": "2738",
-    "publisher": "kscnews.co.kr",
-    "title_clean": "건설공제조합, 'CG-AX 플랫폼' 구축 박차",
-    "summary": "건설공제조합이 'CG-AX 플랫폼' 구축을 추진하고 있다. 이는 건설업계의 디지털 혁신과 업무 효율화를 목표로 하는 신규 플랫폼 구축 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-12T10:37:58+09:00",
-    "event_label": "건설공제조합 CG-AX 플랫폼 구축 추진",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20801,6 +20784,22 @@
     "summary": "롯데건설이 서울 성수동 '르엘' 프로젝트 완성으로 3년 반의 사업 기간을 마감했으며, 이를 통해 오일근 대표 주도 하에 적극적인 수주 활동의 토대를 마련했다. 이는 건설사의 실적 창출과 시장 신뢰 회복을 의미하는 업계 호재로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T16:20:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "추경호 대구광역시장, 경제동향보고회 개최...미래산업 전환·청년 유입... - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3633360",
+    "description": "참석한 기업인들은 산업용 로봇, AI, 자동차부품 기업의 미래모빌리티 산업 전환 지원, 산업단지 내 청년 인력 유입 확대를 위한 근무환경 개선, 지역 건설경기 활성화를 위한 공공 건설공사 물량 확대, 안광학산업 경쟁력...",
+    "published_at": "2026-07-12T10:38:00+09:00",
+    "cluster_id": "695a",
+    "publisher": "gukjenews.com",
+    "title_clean": "추경호 대구광역시장, 경제동향보고회 개최...미래산업 전환·청년 유입...",
+    "summary": "추경호 대구광역시장이 경제동향보고회를 개최하여 미래산업 전환, 청년 인력 유입, 공공 건설공사 물량 확대 등을 논의했다. 산업용 로봇, AI, 자동차부품 등 미래모빌리티 산업 지원과 건설경기 활성화 방안이 논의되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T10:42:38+09:00",
     "importance": 2
   },
   {
