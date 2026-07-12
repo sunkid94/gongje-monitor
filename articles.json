@@ -4469,6 +4469,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "경북도개발공사, 경북도청 신도시에 37층 공공임대주택 공급 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10806236?ref=naver",
+    "description": "13일 경북도개발공사에 따르면 금호건설 컨소시엄(금호건설·포스코이앤씨·플러스종합건설)이 시공을 맡은 이 공공임대주택은 예천군 호명읍 산합리 일원에 들어선다. 이번 신축 공공임대아파트는 내년 초...",
+    "published_at": "2026-07-13T07:32:00+09:00",
+    "cluster_id": "2707",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "경북도개발공사, 경북도청 신도시에 37층 공공임대주택 공급",
+    "summary": "경북도개발공사가 금호건설 컨소시엄과 함께 경북도청 신도시에 37층 규모의 공공임대주택을 공급한다. 예천군 호명읍에 위치한 이 프로젝트는 건설업체에 수주 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T07:37:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20415,22 +20431,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-06T19:00:25+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 울산 첫 리조트 분양 시작…974실 규모 '롯데리조트 울산' 20... - ttlnews.com",
-    "link": "http://www.ttlnews.com/news/articleView.html?idxno=3123098",
-    "description": "롯데건설은 울산 북구 강동관광단지 현장에 건립 중인 롯데리조트 울산의 홍보관을 7월 1일 개관하고, 핵심 자산인 콘도미니엄 창립 회원권 분양을 진행한다. 이번 프로젝트는 속초, 부여, 제주, 제주 아트빌라스에...",
-    "published_at": "2026-07-06T18:48:00+09:00",
-    "cluster_id": "0ad1",
-    "publisher": "ttlnews.com",
-    "title_clean": "롯데건설, 울산 첫 리조트 분양 시작…974실 규모 '롯데리조트 울산' 20...",
-    "summary": "롯데건설이 울산 북구 강동관광단지에 974실 규모의 롯데리조트 울산을 건립 중이며, 7월 1일 홍보관 개관과 함께 콘도미니엄 창립 회원권 분양을 진행한다. 울산 지역 첫 리조트 개발로 관광 및 부동산 시장 확대를 도모하는 프로젝트다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-06T19:00:25+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
