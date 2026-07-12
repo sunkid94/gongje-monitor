@@ -20366,6 +20366,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "제주도민 삶 지키는 ‘경제 상황실’ 가동 - donga.com",
+    "link": "https://www.donga.com/news/Society/article/all/20260712/134283112/2",
+    "description": "그 아래로 생활경제 지원반, 1차산업 위기대응반, 관광시장 안정반, 건설경기 활성화반 등 4개 실무반이 분야별 소관 국장을 반장으로 운영된다. 위기 상황에 따라 한국은행 제주본부와 제주연구원, 신용보증재단...",
+    "published_at": "2026-07-13T04:32:00+09:00",
+    "cluster_id": "dede",
+    "publisher": "donga.com",
+    "title_clean": "제주도민 삶 지키는 ‘경제 상황실’ 가동",
+    "summary": "제주도가 경제 위기 대응을 위해 '경제 상황실'을 가동하며, 건설경기 활성화반을 포함한 4개 실무반을 운영한다. 건설업계를 포함한 주요 산업 분야의 경제 위기에 대응하기 위한 정부 차원의 지원 체계를 구축했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-13T04:37:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32119,22 +32135,6 @@
     "publisher": "투데이안",
     "title_clean": "2026년 건설의 날 개최…“미래를 짓는 K-건설” 도약 다짐",
     "summary": "국토교통부와 대한건설단체총연합회가 2026 건설의 날 기념식을 개최하여 건설산업의 미래 경쟁력 강화를 다짐했다. AI 기반 스마트 안전관리 확대, 기술개발·인재양성·해외진출 지원 등을 통해 안전한 건설현장 조성과 산업 육성을 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T10:09:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "반도건설, 협력사와 신기술 3종 공동 개발 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uOE9JVF9BZm1NbkVYUkJUbFdwVXJlUTB1eDNpMk0tbnQtaDNEU1RzSXhpMXlGZTBybEhJR0NaYTRZSXdXMkxuSDJhSVI4bE1MaUJZ?oc=5",
-    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 반도건설이 협력사 바로건설기술과 시공 현장 안전 및 시공 품질 향상을 위한 신기술 3종 공동 개발 업무 협약을 체결했다고 9일 밝혔다. 양사가 공동 개발에 착수해 현재 신기술 등록 절차를 진행 중인 기술은 꺾임부 보강재, 연속바체어, 기초보강재 등 3",
-    "published_at": "2026-07-09T09:59:00+09:00",
-    "cluster_id": "7f50",
-    "publisher": "네이트",
-    "title_clean": "반도건설, 협력사와 신기술 3종 공동 개발",
-    "summary": "반도건설이 협력사 바로건설기술과 시공 현장 안전 및 품질 향상을 위한 신기술 3종(꺾임부 보강재, 연속바체어, 기초보강재) 공동 개발 협약을 체결했다. 현재 신기술 등록 절차를 진행 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T10:09:42+09:00",
     "importance": 2
