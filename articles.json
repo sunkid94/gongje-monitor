@@ -20619,6 +20619,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "추경호 대구시장 \"어려운 경제가 일상화 돼선 안 돼\" - newsclaim.co.kr",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069154",
+    "description": "주요 건의 내용으로는 △산업용 로봇·인공지능(AI)·자동차부품 기업의 미래모빌리티 전환 등 미래산업 육성 지원 △산업단지 내 청년 유입 확대를 위한 청년친화적 근무환경 조성 △침체된 지역 건설경기 회복을 위한 공공...",
+    "published_at": "2026-07-12T12:52:00+09:00",
+    "cluster_id": "9e43",
+    "publisher": "newsclaim.co.kr",
+    "title_clean": "추경호 대구시장 \"어려운 경제가 일상화 돼선 안 돼\"",
+    "summary": "추경호 대구시장이 미래산업 육성, 청년 고용 확대, 공공건설사업 추진 등을 정부에 건의했다. 침체된 지역 건설경기 회복을 위한 공공사업 확대를 요청하는 내용이 포함되어 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T12:57:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32136,20 +32152,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-09T03:04:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부·기계설비산업硏 ‘AI 시대 데이터센터 건설산업 활성화 포럼’ 발족 - 이투뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zeFZ0eS12M0UyOC1JaS1HcnZLRXdqTWJGWjREYnVmcjBpWHk0X3lQbjdFVUdYdEIzeF9hTzNTcFVNQ2dKby1wc2dhYkU5aGdCUmM1cWgzRWxhd1k4SFJFN0ZuYWFiamc4Y01B0gFrQVVfeXFMTjN4VnR5LXYzRTI4LUlpLUdydktFd2pNYkZaNERidWZyMGlYeTRfeVBuN0VVR1h0QjN4X2FPM1NwVU1DZ0pvLXBzZ2FiRTloZ0JSYzVxaDNFbGF3WThIUkU3Rm5hYWJqZzhjTUE?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4zeFZ0eS12M0UyOC1JaS1HcnZLRXdqTWJGWjREYnVmcjBpWHk0X3lQbjdFVUdYdEIzeF9hTzNTcFVNQ2dKby1wc2dhYkU5aGdCUmM1cWgzRWxhd1k4SFJFN0ZuYWFiamc4Y01B0gFrQVVfeXFMTjN4VnR5LXYzRTI4LUlpLUdydktFd2pNYkZaNERidWZyMGlYeTRfeVBuN0VVR1h0QjN4X2FPM1NwVU1DZ0pvLXBzZ2FiRTloZ0JSYzVxaDNFbGF3WThIUkU3Rm5hYWJqZzhjTUE?oc=5\" target=\"_blank\">국토부·기계설비산업硏 ‘AI 시대 데이터센터 건설산업 활성화 포럼’ 발족</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투뉴스</font>",
-    "cluster_id": "b427",
-    "publisher": "이투뉴스",
-    "title_clean": "국토부·기계설비산업硏 ‘AI 시대 데이터센터 건설산업 활성화 포럼’ 발족",
-    "summary": "국토부와 기계설비산업연구원이 AI 시대 데이터센터 건설산업 활성화를 위한 포럼을 발족했다. 데이터센터 건설 수요 증가에 따른 산업 활성화 및 관련 정책 논의 추진으로 건설업계의 새로운 수주 기회 창출을 기대할 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T02:34:21+09:00",
-    "importance": 2
   }
 ]
