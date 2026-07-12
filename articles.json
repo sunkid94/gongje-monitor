@@ -4622,23 +4622,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, AI 기반 업무혁신 플랫폼 구축…\"보안·정확성 최우선\" - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260612_0003667100",
-    "description": "건설공제조합이 인공지능(AI) 기술을 활용한 전사적 업무 혁신에 본격 착수했다. 건설공제조합은 AI 기술을 내부 업무 프로세스에 단계적으로 접목하기 위한 'CG-AX(AI Transformation) 업무혁신 플랫폼' 구축 사업을 추진...",
-    "published_at": "2026-06-12T13:48:00+09:00",
-    "cluster_id": "2bcf",
-    "publisher": "newsis.com",
-    "title_clean": "건설공제조합, AI 기반 업무혁신 플랫폼 구축…\"보안·정확성 최우선\"",
-    "summary": "건설공제조합이 AI 기술을 활용한 전사적 업무혁신 플랫폼 'CG-AX'를 구축한다. 보안과 정확성을 최우선으로 내부 업무 프로세스에 단계적으로 AI를 접목할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-12T13:52:43+09:00",
-    "event_label": "건설공제조합 AI 기반 업무혁신 플랫폼(CG-AX) 구축 추진",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20600,6 +20583,22 @@
     "summary": "포스코이앤씨가 3580억 원 규모의 중림동 398번지 재개발 사업을 수주하며 누적 수주액 1.7조 원을 돌파했다. 건설업계의 수주 증가로 긍정적인 신호를 보이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-06T16:30:31+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "반도건설, 협력사 바로건설기술과 신기술 공동 개발 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94TlBFZDQ3SS1TeDc4TzJ6dDFIdHBKNmtfc3owSDVGVHlOaDVpY09TUHQxc1JvRE9HZWFWYzEyWFRxQU9zNVVqWkpBeEE2U21OOUFiOWpHRUZ6WEVRekt6MNIBeEFVX3lxTE9fN3BQM2NpX3JvLU42NnBrajVMcjJ4a1JYQXFuTnpfQ29tY3l6RXNIVzVYQXhBQ19vaXRYUWdXVnY4X2tYeHV1T1BaWTJHNW5qMFVSbE5zelVqckNLMW9ibkRJTlJZdEJocnBsX3ZDbEVqbVFIS0Q2ZA?oc=5",
+    "description": "[서울=뉴시스]정진형 기자 = 반도건설은 최근 협력사 바로건설기술과 신기술 개발을 위한 업무 협약을 맺었다고 12일 밝혔다.이번에 공동 개발에 착수한 기술은 ▲계단 꺾임부 보강재 ▲연속 바체어 ▲기초 보강재 등 3개다.계단 꺾임부 보강재 기술은 단지 계단과 계단참을 잇는 이음 부분에 적용된다. 마름모 형태의 완성품 보강재를 설치해 구조물이 변경되지 않고 계..",
+    "published_at": "2026-07-12T13:55:07+09:00",
+    "cluster_id": "7a88",
+    "publisher": "뉴시스",
+    "title_clean": "반도건설, 협력사 바로건설기술과 신기술 공동 개발",
+    "summary": "반도건설이 협력사 바로건설기술과 신기술 공동 개발을 위한 업무협약을 체결했다. 계단 꺾임부 보강재, 연속 바체어, 기초 보강재 등 3개 기술을 공동 개발할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T14:07:47+09:00",
     "importance": 2
   },
   {
