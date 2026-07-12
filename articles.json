@@ -20450,6 +20450,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염에 쓰러질라…쪽방촌 홀몸 어르신 연락 안 되면 방문 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653667&plink=ORI&cooper=NAVER",
+    "description": "또한 노숙인 밀집 지역의 순찰과 상담을 늘리고 야외 건설 노동자들의 충분한 휴식 시간이 보장되고 있는지 집중 점검하고 있습니다. 도심 열기를 식히기 위해 살수차를 동원해 물청소를 진행하고 주변 온도를 낮추는...",
+    "published_at": "2026-07-12T16:26:00+09:00",
+    "cluster_id": "8cd7",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "폭염에 쓰러질라…쪽방촌 홀몸 어르신 연락 안 되면 방문",
+    "summary": "폭염 대응으로 노숙인 밀집 지역 순찰 강화, 야외 건설 노동자 휴식 시간 점검, 도심 온도 저감을 위한 살수차 운영 등이 진행 중입니다. 이는 건설 노동자 안전 관리 강화를 의미합니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T16:32:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32126,22 +32142,6 @@
     "publisher": "gasnews.com",
     "title_clean": "[사설] 무자격시공 의뢰는 위험한 선택",
     "summary": "건설산업기본법이 현장 설치뿐 아니라 사전 조립 단계에도 적용되어 면허 업체 시공 의뢰가 필수라는 점을 강조하는 기사. 무자격시공 의뢰의 위험성을 경고하면서 업계의 규제 강화에 대한 불만을 언급.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T07:09:11+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'조립시공'도 가스시공업 면허 없으면 불법 - gasnews.com",
-    "link": "https://www.gasnews.com/news/articleView.html?idxno=125924",
-    "description": "국토부가 무자격업체가 조립시공도 건설산업기본법에 따른 가스시설시공업에 등록한 업체만이 제조, 공급할 수 있다고 해석해 시사하는 바 매우 크다. 사진은 기사의 특정 내용과 관련 없음.  요즘 국내 몇몇...",
-    "published_at": "2026-07-09T07:02:00+09:00",
-    "cluster_id": "d9ef",
-    "publisher": "gasnews.com",
-    "title_clean": "'조립시공'도 가스시공업 면허 없으면 불법",
-    "summary": "국토부가 가스시설 조립시공도 가스시설시공업 면허 없이는 불법으로 해석함에 따라 무자격업체의 시공이 제한된다. 이는 건설산업기본법에 따른 등록업체만의 제조·공급을 허용하는 규제 강화 조치이다.",
     "sentiment": "negative",
     "collected_at": "2026-07-09T07:09:11+09:00",
     "importance": 4
