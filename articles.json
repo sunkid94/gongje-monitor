@@ -20433,6 +20433,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도 도민감리단, \"하천.도로.건축 등 공공건설 현장 안전점검\"... 179건 지적! - 경기종합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xd3lhTklubHY4dWFONUxDeHNTQmUtdHVHRHFpVjhidlUtLWJPQWJxRHNJQkZ3RnJyM2hCQTB1TlF2dFJIVDIyZC1EZU9CbGpTUl92TEM4Y05sajQ5bHluVlFCOENtdUtDYlhxcEhqOUotNkZn?oc=5",
+    "description": "경기도가 우기를 앞두고 하천과 도로, 건축 등 취약 공공공사 현장에 대한 안전점검을 마무리했다. 안전관리·토목·건축 등 각 분야 전문가로 구성된 ‘경기도 건설공사 도민감리단’이 현장을 직접 살피고 위험 요인을 사전에 발굴했다.경기도는 13일 “도와 산하기관이 발주한 공공 건설공사 가운데 우기 전 점검이 필요한 현장을 중심으로 도민감리단이 안전점검을 실시했다”고 밝혔다. 도민감리단은 도민인 외부 전문가가 공공 건설공사의 품질·안전을 직접 점검하는 제도로, 2019년 전국 최초로 도입됐다. 도로·철도·하천·건축 등 공사 현장을 방문해",
+    "published_at": "2026-07-13T07:37:57+09:00",
+    "cluster_id": "017c",
+    "publisher": "경기종합뉴스",
+    "title_clean": "경기도 도민감리단, \"하천.도로.건축 등 공공건설 현장 안전점검\"... 179건 지적!",
+    "summary": "경기도 도민감리단이 우기 전 하천·도로·건축 등 공공건설 현장 179건에 대한 안전점검을 실시하여 위험 요인을 사전 발굴했다. 2019년 전국 최초로 도입된 도민감리단은 외부 전문가로 구성되어 공공공사의 품질·안전을 직접 감시하는 제도다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T07:52:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32123,22 +32139,6 @@
     "publisher": "소년한국일보",
     "title_clean": "반도건설, 바로건설기술과 맞손…현장 안전·하자 예방 신기술 공동 개발",
     "summary": "반도건설이 협력사 바로건설기술과 함께 계단 꺾임부 보강재, 기초보강재, 연속바체어 등 3종 신기술 공동 개발에 착수했다. 이번 기술 개발을 통해 현장 안전성 향상과 시공 품질 개선, 하자 예방을 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T11:09:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 건설안전 혁신 스타트업 협력 확대…사업화 지원 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EWUtneUpvQUJOd1FiSXpNTkZhRFRKUldFYTExTGRQRHo0RHR3bGVHVEY0X3pGUVVQVnRVZGNQaGhfT1BmYjUzdmthbVBBdkVpQVRFbFQ5LTVza3M?oc=5",
-    "description": "협업 성과 공유 현대건설(000720)이 건설산업의 오픈이노베이션 생태계 조성을 위해 스타트업과 협력을 강화한다.현대건설은 서울 마포구 스타트업 벤처 캠퍼스 서울(SVC Seou …",
-    "published_at": "2026-07-09T10:56:54+09:00",
-    "cluster_id": "186e",
-    "publisher": "뉴스1",
-    "title_clean": "현대건설, 건설안전 혁신 스타트업 협력 확대…사업화 지원",
-    "summary": "현대건설이 건설산업의 오픈이노베이션 생태계 조성을 위해 스타트업과의 협력을 강화하고 있다. 건설안전 혁신 스타트업을 지원하며 협업 성과를 공유하는 방식으로 사업화를 추진하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T11:09:48+09:00",
     "importance": 2
