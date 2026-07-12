@@ -20366,6 +20366,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 위험작업 중 휴대전화 사용 금지 추진…위반 시 최대 300만원 과태료 - 지이코노미",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTTjJ0SnRJS2U2SGg3ZTBRNk41T0plTU5IaGotT2lNNjBOaHNibTY2Y0NlbGtOVURnaXFCTXl6WmZ0bkRIeGhnLXh3R3NEZlFTdGstU0xlRjd0T1lwZjQ2WG9PSmI?oc=5",
+    "description": "지이코노미 강매화 기자 | 건설현장에서 위험작업을 하거나 건설기계를 조종하는 동안 휴대전화 사용을 제한하는 법안이 국회에 제출됐다. 법안이 통과되면 작업 중 휴대전화를 사용한 근로자는 최대 300만원의 과태료를 받을 수 있어 건설현장의 안전관리 체계에 적지 않은 변화가 예상된다. 12일 국회 의안정보시스템에 따르면 국민의힘 김종양 의원은 산업안전보건법과 건",
+    "cluster_id": "fdbb",
+    "publisher": "지이코노미",
+    "title_clean": "건설현장 위험작업 중 휴대전화 사용 금지 추진…위반 시 최대 300만원 과태료",
+    "summary": "건설현장의 위험작업 및 건설기계 조종 중 휴대전화 사용을 제한하는 법안이 국회에 제출되었으며, 위반 시 최대 300만원의 과태료가 부과될 예정이다. 이는 건설현장의 안전관리 강화를 목표로 하나 업계의 규제 강화로 작용할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T04:07:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32123,21 +32138,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T10:09:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반도건설·바로건설기술, 건설현장 안전·하자예방 신기술 3종 개발 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=337318",
-    "description": "반도건설이 협력사 바로건설기술과 시공 현장 안전은 물론 시공 품질 향상에 효과적인 신기술 개발을 위해 공동 기술 개발 업무 협약을 체결했다고 9일 밝혔다. 반도건설은 협력사 바로건설기술과 함께 '꺾임부 보강재...",
-    "published_at": "2026-07-09T09:56:00+09:00",
-    "cluster_id": "8ce3",
-    "publisher": "국토일보",
-    "title_clean": "반도건설·바로건설기술, 건설현장 안전·하자예방 신기술 3종 개발",
-    "summary": "반도건설과 바로건설기술이 건설현장 안전 및 시공 품질 향상을 위한 신기술 3종 개발에 공동 협력하기로 업무 협약을 체결했다. 꺾임부 보강재 등 혁신 기술 개발을 통해 현장 안전사고 예방 및 하자 감소를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T09:59:25+09:00",
-    "importance": 3
   }
 ]
