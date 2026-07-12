@@ -20432,6 +20432,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 설비 통합 OSC 패널 등 스마트건설 기술 선정 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHNnJWWTB5bW5JU2N4NWtxTDZ0UlNkcFpUM1ljaXktWFhmMGU5b2ZMWnZpU3dXVUFiTVNBVEprTGllS1VhVHhpejY2RHBXOG1wRlo0ZnVpTFFBbjE5c1EtZzhwZHVwU2Y5b1J4Qg?oc=5",
+    "description": "국토교통부와 한국건설기술연구원은 스마트건설 기술실증 지원사업 10건과 스마트건설 강소기업 12개사를 선정했다.기술실증 지원사업에는 건설 AI, 건설로봇, 토공 자",
+    "published_at": "2026-07-13T08:46:44+09:00",
+    "cluster_id": "10d8",
+    "publisher": "기계설비신문",
+    "title_clean": "국토부, 설비 통합 OSC 패널 등 스마트건설 기술 선정",
+    "summary": "국토교통부와 한국건설기술연구원이 스마트건설 기술실증 지원사업 10건과 강소기업 12개사를 선정했다. 건설 AI, 로봇, 토공 자동화 등 첨단 기술 개발을 지원하여 건설업계의 디지털화와 경쟁력 강화를 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T08:57:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32122,21 +32138,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-09T11:24:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[뉴스워커_반도건설] 현장 안전 강화 위한 시공기술 3종 공동 개발 - newsworker.co.kr",
-    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=435518",
-    "description": "반도건설이 협력사와 손잡고 건설현장 안전과 시공 품질 향상을 위한 신기술 개발에 나선다. 반도건설은 바로건설기술과 '꺾임부 보강재', '연속바체어', '기초보강재' 등 시공 신기술 3종 공동 개발 업무협약을 체결하고...",
-    "published_at": "2026-07-09T11:20:00+09:00",
-    "cluster_id": "3754",
-    "publisher": "newsworker.co.kr",
-    "title_clean": "[뉴스워커_반도건설] 현장 안전 강화 위한 시공기술 3종 공동 개발",
-    "summary": "반도건설이 협력사 바로건설기술과 함께 건설현장 안전 및 시공 품질 향상을 위한 신기술 3종(꺾임부 보강재, 연속바체어, 기초보강재) 공동 개발에 나섰다. 이는 건설현장 안전 강화와 시공 기술 고도화를 추진하는 업계 혁신 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T11:24:20+09:00",
-    "importance": 2
   }
 ]
