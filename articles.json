@@ -4655,6 +4655,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[기획]FLNG서 해상풍력까지…K-해양플랜트, 사업 영역 넓힌다 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1390387",
+    "description": "삼성중공업은 부유식 액화천연가스 생산설비(FLNG) 수주를 확대하고, HD현대중공업과 한화오션은 해상변전소와 부유식 하부구조물, 해상풍력발전기 설치선(WTIV) 분야의 기반을 넓히고 있다. 국내 조선사들은 FLNG에서...",
+    "published_at": "2026-07-12T13:00:00+09:00",
+    "cluster_id": "0e71",
+    "publisher": "",
+    "title_clean": "[기획]FLNG서 해상풍력까지…K-해양플랜트, 사업 영역 넓힌다 - m-i.kr",
+    "summary": "삼성중공업, HD현대중공업, 한화오션 등 국내 주요 조선사들이 FLNG, 해상변전소, 부유식 하부구조물, 해상풍력발전기 설치선 등 해양플랜트 사업 영역을 확대하고 있다. 전통적 조선 분야에서 고부가가치 해양플랜트 시장으로 사업 다각화를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T13:02:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20603,20 +20619,20 @@
     "importance": 4
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "은마가 당긴 재건축 속도전…강남3구, 공사비가 다음 고비 - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260706151517033",
-    "description": "청담르엘은 준공 이후 롯데건설이 조합에 공사비와 지연이자 등 1300억원 안팎의 정산을 요구하면서 갈등이 이어졌다. 디에이치 대치 에델루이도 공사비 정산 문제로 일부 조합원 입주 지연과 내부 갈등이 불거졌다....",
-    "published_at": "2026-07-06T16:16:00+09:00",
-    "cluster_id": "c3a4",
-    "publisher": "ajunews.com",
-    "title_clean": "은마가 당긴 재건축 속도전…강남3구, 공사비가 다음 고비",
-    "summary": "강남 3구 재건축 속도가 빨라지면서 준공 후 공사비 정산 문제가 주요 갈등 요인으로 부상했다. 청담르엘, 디에이치 대치 에델루이 등에서 건설사와 조합 간 공사비 정산 분쟁으로 입주 지연과 내부 갈등이 발생하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-06T16:20:08+09:00",
-    "importance": 4
+    "title": "국토부, 건설 인공지능 실증 기술 10개·강소기업 12곳 선정 - beyondpost.co.kr",
+    "link": "http://www.beyondpost.co.kr/view.php?ud=202607121249464916205868f676_30",
+    "description": "국토교통부는 인공지능과 드론, 로봇을 활용한 스마트건설 기술 10건을 실제 건설현장에서 검증한다. 기술 개발 역량과 성장 가능성을 갖춘 스마트건설 강소기업 12곳도 선정했다. 국토부와 한국건설기술연구원은...",
+    "published_at": "2026-07-12T12:56:00+09:00",
+    "cluster_id": "c823",
+    "publisher": "beyondpost.co.kr",
+    "title_clean": "국토부, 건설 인공지능 실증 기술 10개·강소기업 12곳 선정",
+    "summary": "국토교통부가 인공지능·드론·로봇 기반 스마트건설 기술 10건을 실제 현장에서 검증하고, 성장성 있는 강소기업 12곳을 선정했다. 건설산업의 혁신 기술 도입과 유망 기업 육성을 통해 스마트건설 생태계를 조성하려는 정책 추진이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T13:02:50+09:00",
+    "importance": 3
   },
   {
     "keyword": "건설경기",
@@ -32135,22 +32151,6 @@
     "summary": "건설현장 안전 강화는 필요하나 현행 제도가 도급인에게 과도한 책임을 부과하면서 책임과 권한의 불균형 문제를 제기하고 있습니다. 사설은 안전 강화와 함께 실질적인 권한 배분과 제도 개선의 필요성을 주장합니다.",
     "sentiment": "negative",
     "collected_at": "2026-07-09T04:24:24+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 장마철 위험 공사장 정조준…`도민제보시스템` 본격 가동 - 경기평화신문",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45S014WWxpRTl5am9sWmpEOWgwTUtQZ1V4QkgzZlF4aU9LUGY0ZTVIVWVycFA4Q3hxRFZrLWxfV1ZfOTNvcG82Vm5R?oc=5",
-    "description": "지난 6일 경기도청 재난안전대책본부에서 추미애 경기도지사가 여름철 풍수해 대비 종합 대책 관련 보고를 받고 있다. 사",
-    "published_at": "2026-07-08T20:50:00+09:00",
-    "cluster_id": "4aa5",
-    "publisher": "경기평화신문",
-    "title_clean": "경기도, 장마철 위험 공사장 정조준…`도민제보시스템` 본격 가동",
-    "summary": "경기도가 장마철 공사장 안전사고 예방을 위해 도민제보시스템을 본격 가동하고 있다. 위험 공사장에 대한 적극적인 감시 및 적발 체계를 강화하는 조치로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T03:04:16+09:00",
     "importance": 4
   }
 ]
