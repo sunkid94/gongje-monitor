@@ -20382,6 +20382,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경북 포항 두호주공2·3차 재건축 본격화 '기대감' - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20260712500050",
+    "description": "시 관계자는 \"주민 의견을 적극 반영하면서 관련 법령에 따라 정비구역 지정 절차를 차질 없이 추진하겠다\"며 \"노후 주거환경 개선은 물론 지역 건설경기와 도심 활성화에도 도움이 될 것으로 기대한다\"고 밝혔다. 이번...",
+    "published_at": "2026-07-12T20:48:00+09:00",
+    "cluster_id": "6fb7",
+    "publisher": "news2day.co.kr",
+    "title_clean": "경북 포항 두호주공2·3차 재건축 본격화 '기대감'",
+    "summary": "경북 포항 두호주공2·3차 아파트가 재건축 사업을 본격화한다. 시는 주민 의견을 반영하면서 정비구역 지정 절차를 추진할 계획이며, 이를 통해 노후 주거환경 개선과 지역 건설경기 활성화를 기대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T20:52:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32123,22 +32139,6 @@
     "title_clean": "화제의 인물 / (사) 한국장비관리 리콘디션협회 회장 배진우",
     "summary": "한국장비관리 리콘디션협회 배진우 회장은 정기검사와 절차를 준수한 중고건설기계의 안전성과 가치를 강조하며 업계의 신뢰도 제고에 앞장서고 있다. 새 장비뿐 아니라 이력이 있는 중고장비도 건설현장 안전을 충분히 보장할 수 있다는 입장이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-09T09:39:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전 중구, 여름철 대비 주택건설공사장 긴급 점검 - 신아일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96NmE2Qkh4Z1JYLWpkd19QQi1NWmVBTHZBRVUxYWU2aDhqSHRpd01FS3ljSWc0SjEyYlJfT2VyQ3V2bXV3YVd6OUV5QmJBYUVpZ3lOaHBCUjZmeVZzcTEyWUYtZGt1LVNwZjVIUGxQcHE?oc=5",
-    "description": "대전 중구가 여름철 집중호우와 태풍에 대비해 관내 주택건설공사장 안전 점검에 나섰다.중구는 지난 8일 주택건설공사장 6곳을 대상으로 긴급 현장점검을 실시했다고 밝",
-    "published_at": "2026-07-09T09:23:09+09:00",
-    "cluster_id": "7cca",
-    "publisher": "신아일보",
-    "title_clean": "대전 중구, 여름철 대비 주택건설공사장 긴급 점검",
-    "summary": "대전 중구가 여름철 집중호우와 태풍에 대비하여 관내 주택건설공사장 6곳에 대한 긴급 안전점검을 실시했다. 안전 점검을 통해 건설공사장의 재해 예방과 안전 확보에 중점을 두고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-09T09:39:25+09:00",
     "importance": 2
   }
