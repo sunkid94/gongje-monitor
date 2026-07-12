@@ -4469,23 +4469,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, AI 시대 대비 ‘AX업무혁신 플랫폼’ 구축 나서 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50236",
-    "description": "건설공제조합은 인공지능(AI) 기술을 활용한 전사적인 업무 혁신을 위한 ‘CG-AX(AI Transformation) 업무혁신 플랫폼’ 구축 사업을 진행하고 있다고 12일 밝혔다.조합은 AI 기술을 고도화하고 내부 프로세스에 단계적으로 접목하는 AX 혁신을 통해 대고객서비스 만족도를 높이고 내부 업무 효율성을 획기적으로 끌어올릴 방침이다.이 과정에서 ‘보안’과 ‘데이터 정확성’에 방점을 두고 데이터 유출 리스크를 원천 차단하기 위해 통제 가능성이 높은 온프레미스(On-premise, 사내 구축형) 방식을 채택했다. 건설공제조합 관계",
-    "published_at": "2026-06-12T17:24:08+09:00",
-    "cluster_id": "2282",
-    "publisher": "기계설비신문",
-    "title_clean": "건설공제조합, AI 시대 대비 ‘AX업무혁신 플랫폼’ 구축 나서",
-    "summary": "건설공제조합이 AI 기술을 활용한 전사적 업무 혁신을 위해 'CG-AX 업무혁신 플랫폼' 구축 사업을 진행 중이다. 고객 서비스 만족도 향상과 내부 업무 효율성 개선을 목표로 하며, 보안과 데이터 정확성을 중시해 온프레미스 방식을 채택했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-12T17:32:49+09:00",
-    "event_label": "건설공제조합 AI 기술 기반 'CG-AX 업무혁신 플랫폼' 구축 사업 추진",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20447,6 +20430,22 @@
     "summary": "가덕신공항 용지조성공사에 참여한 부산·경남 지역 건설사 13곳이 중동전쟁 여파로 인한 유가 및 자재비 급등으로 인해 국토교통부와 대우건설에 공사비 현실화를 촉구했습니다. 원자재값 폭등으로 인한 원가 상승 문제를 제기하고 있습니다.",
     "sentiment": "negative",
     "collected_at": "2026-07-06T17:10:23+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "상반기 대구 제조업 생산·수출↑… 건설경기는‘위축’ - 대구광역일보",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qeFM2N3NjZkNGc2RuRlozLTFwRG5Lc3ctRWNBUDl5V3RxREF2N3JmaGVhUDlrcUlJWGZxczhDX2Z2MkFZQWNEbmxtZTJ3eUQ4c0pSWHV0aHY?oc=5",
+    "description": "연합뉴스 사진제공 올해 상반기 대구지역 제조업 생산과 수출은 증가세를 보였지만 건설경기는 큰 폭으로 위축됐고, 지역 기업 10곳 중 7곳은 경영 목표를 달성하지 못한 것으로 나타났다.대구상공회의소는 10일 대..",
+    "published_at": "2026-07-12T08:18:05+00:00",
+    "cluster_id": "ee40",
+    "publisher": "대구광역일보",
+    "title_clean": "상반기 대구 제조업 생산·수출↑… 건설경기는‘위축’",
+    "summary": "상반기 대구 제조업은 생산과 수출이 증가했으나, 건설경기는 큰 폭으로 위축되었다. 지역 기업 10곳 중 7곳이 경영 목표 달성에 실패하면서 전반적인 경기 부진이 드러났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-12T17:37:48+09:00",
     "importance": 4
   },
   {
