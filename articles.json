@@ -20399,6 +20399,38 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "국토부, 건설 AI 실증사업 10건과 스마트건설 강소기업 12곳 선정 - srtimes.kr",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=207338",
+    "description": "'스마트건설 얼라이언스' 통해 중기 현장 지원…비용 지원 한도 2500만원으로 확대  국토교통부가 건설 현장에 인공지능(AI)과 로봇 기술을 확산하기 위해 스마트건설 기술 실증사업과 강소기업 육성에 나선다. 건설 AI를...",
+    "published_at": "2026-07-12T18:48:00+09:00",
+    "cluster_id": "9e79",
+    "publisher": "srtimes.kr",
+    "title_clean": "국토부, 건설 AI 실증사업 10건과 스마트건설 강소기업 12곳 선정",
+    "summary": "국토교통부가 건설 현장의 AI·로봇 기술 확산을 위해 스마트건설 기술 실증사업 10건과 강소기업 12곳을 선정했다. 스마트건설 얼라이언스를 통해 중소기업 현장을 지원하며 비용 지원 한도를 2,500만원으로 확대한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T18:52:51+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "계룡건설, 협력사와 중대재해 예방 맞손…안전경영 강화 - 충청매일",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43OS1TUVdHZ3BpbmxOZkdSaWtkX01xeGpqbmViOXI0V3AtNVotdGNtZUo0SEkyT2RIODZlRkRZV1ZJcWpOdFRGLWJaVFhmc2IweEIwOTVySmJTWGYyTENBbURZYlFjc0szeXc?oc=5",
+    "description": "계룡건설이 주요 협력사와 함께 중대재해 예방과 안전경영 강화를 위한 협력체계 구축에 나섰다. 계룡건설은 지난 8일 대전 탄방동 계룡사옥에서 ‘2026년 하반기 주요 협력사 간담회’를 열고 협력사의 안전관리 역량 강화와 현장 중심의 안전관리 방안을 논의했다고 밝혔다. 간담회에는 이은완",
+    "published_at": "2026-07-12T18:35:09+09:00",
+    "cluster_id": "265d",
+    "publisher": "충청매일",
+    "title_clean": "계룡건설, 협력사와 중대재해 예방 맞손…안전경영 강화",
+    "summary": "계룡건설이 협력사와 중대재해 예방 및 안전경영 강화를 위한 협력체계를 구축했다. 지난 8일 대전 사옥에서 주요 협력사 간담회를 개최하여 안전관리 역량 강화와 현장 중심의 안전관리 방안을 논의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T18:52:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32110,37 +32142,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-09T08:59:08+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[2026 상반기 베스트상품] 무너지기 전에 잡는다…Edge AI가 지키는 건설... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607031504572060872",
-    "description": "미어캣은 국토교통부 건설신기술 제954호와 행정안전부 재난안전신기술 제2023-24호, 혁신제품 인증을 잇달아 획득했다. 혁신제품 지정으로 공공기관 우선구매 대상에도 올랐다. 정인근 케이씨티이엔씨 대표는 “미어캣은...",
-    "published_at": "2026-07-09T08:42:00+09:00",
-    "cluster_id": "9ce2",
-    "publisher": "대한경제",
-    "title_clean": "[2026 상반기 베스트상품] 무너지기 전에 잡는다…Edge AI가 지키는 건설...",
-    "summary": "미어캣이 국토교통부 건설신기술과 행정안전부 재난안전신기술 인증을 획득하며 혁신제품으로 지정되었다. 이를 통해 공공기관 우선구매 대상에 올라 건설 안전 기술 시장 확대가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T08:49:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[2026 상반기 베스트상품] 교량 바닥판, 공장서 통째로 찍어 현장선 얹기... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607031502598080871",
-    "description": "교량 반단면 바닥판 분야에서 건설신기술 2건을 인증받으며 콘크리트 프리캐스트 바닥판 시장을 이끌어왔다. 현장 인력난과 공기 단축 요구가 맞물리며 공장에서 미리 만들어 현장에서는 조립만 하는 탈현장 건설(OSC)...",
-    "published_at": "2026-07-09T08:42:00+09:00",
-    "cluster_id": "ac88",
-    "publisher": "대한경제",
-    "title_clean": "[2026 상반기 베스트상품] 교량 바닥판, 공장서 통째로 찍어 현장선 얹기...",
-    "summary": "교량 바닥판 분야에서 프리캐스트 공법을 통해 건설신기술 2건을 인증받았으며, 현장 인력난 해소와 공기 단축을 위한 탈현장 건설(OSC) 기술이 시장을 주도하고 있다. 공장에서 미리 제조한 바닥판을 현장에서 조립하는 방식으로 건설 효율성을 높이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T08:49:15+09:00",
-    "importance": 2
   }
 ]
