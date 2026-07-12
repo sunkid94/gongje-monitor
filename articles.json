@@ -20450,6 +20450,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "기업 10곳 중 7곳 목표 미달…추경호 시장, 첫 경제간담회서 “비상한 ... - kbmaeil.com",
+    "link": "https://www.kbmaeil.com/article/20260712500206",
+    "description": "제조업 생산과 수출은 회복세를 보였지만 건설경기는 급격히 얼어붙고 내수 부진이 장기화되면서 지역경제의 체감온도는 여전히 차갑다. 민선 9기 출범 이후 첫 경제계 간담회에 나선 추경호 대구시장은 기업인들과...",
+    "published_at": "2026-07-12T16:48:00+09:00",
+    "cluster_id": "1f99",
+    "publisher": "kbmaeil.com",
+    "title_clean": "기업 10곳 중 7곳 목표 미달…추경호 시장, 첫 경제간담회서 “비상한 ...",
+    "summary": "제조업 생산과 수출은 회복 중이나 건설경기는 급격히 악화되고 내수 부진이 지속되면서 지역경제가 어려운 상황이다. 추경호 대구시장이 경제계 간담회를 통해 이 같은 경제 현안에 대응하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-12T16:57:47+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "포항 두호주공2·3차 재건축 본격화…정비구역 지정 절차 돌입 - hidomin.com",
+    "link": "https://www.hidomin.com/news/articleView.html?idxno=712928",
+    "description": "등 관련 심의를 거쳐 정비구역 지정 절차를 순차적으로 진행할 방침이다. 특히, 이번 재건축사업이 노후 공동주택을 정비해 주거환경을 개선하는 것은 물론 지역 건설경기 활성화에도 도움이 될 것으로 기대하고 있다.",
+    "published_at": "2026-07-12T16:48:00+09:00",
+    "cluster_id": "49ba",
+    "publisher": "hidomin.com",
+    "title_clean": "포항 두호주공2·3차 재건축 본격화…정비구역 지정 절차 돌입",
+    "summary": "포항 두호주공 2·3차 아파트 재건축 사업이 정비구역 지정 절차에 돌입했다. 노후 공동주택 정비를 통해 주거환경 개선과 지역 건설경기 활성화를 기대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T16:57:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32112,38 +32144,6 @@
     "summary": "서울시가 재난안전실장, 복지실장, 기후환경본부장, 도시공간본부장, 도시철도국장 등 3급 이상 주요 보직에 인사발령을 단행했다. 건설기술정책관, 주택실장, 주택정책관 등 건설·주택 관련 보직도 포함되어 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-09T07:54:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "KCC글라스, 유리값 금 갔다…印尼 공장 '분수령' - hansbiz.co.kr",
-    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848973",
-    "description": "건설경기 침체로 건축용 유리 수요가 둔화한 가운데 동남아시아산 저가 유리 유입까지 겹치며 주력인 유리 부문 수익성이 크게 흔들렸다. 자동차용 안전유리와 인테리어·유통 부문이 외형을 일부 방어하는 상황에서...",
-    "published_at": "2026-07-09T07:30:00+09:00",
-    "cluster_id": "719c",
-    "publisher": "hansbiz.co.kr",
-    "title_clean": "KCC글라스, 유리값 금 갔다…印尼 공장 '분수령'",
-    "summary": "KCC글라스가 건설경기 침체와 동남아시아 저가 유리 수입으로 인해 주력 유리 부문의 수익성이 악화되고 있다. 자동차용 안전유리와 인테리어 부문이 실적을 일부 방어 중이며, 인도네시아 공장이 사업 전환의 분수령이 될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T07:34:03+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "고양시, 소규모 건설현장 폭염 대응 지원 완료… 근로자 안전 강화 - 내외뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NWlJnT1NTLUZEZHRLZm9TanVrenNuNDVndVd5NmFEcmt1QzExcVpKbXBfR1dVeWFEN1JSYVZVa3JYYXlmRWVxU3dGclNKaHRPMlRvS0ViYnM0UnpDbUt1VmtEUHhvbmQ5aU1RUNIBcEFVX3lxTE1xUmhNMUtzeEFSRlg3aktiQlRDUlBoTkJfQm5JZmdUaTJCWXBZM2ZQbFRNc2hKMGJpbnVCLXRXSkhYcjVqczNvRV9GVHRJVlBTRjNKY0tlSTliQ2x3NEs0cnk1WEM3bEpuSXFaRVlrMzg?oc=5",
-    "description": "[고양=내외뉴스통신] 이용범 기자고양특례시는 여름철 폭염에 취약한 소규모 건설현장 근로자의 건강 보호와 안전한 작업환경 조성을 위해 경기도 지원사업을 활용한 ‘폭염 대비 건설현장 휴게시설·물품 지원사업’을 완료했다.이번 사업은 휴게시설 설치 의무가 없는 공사비 20억 원 미만의 민간 건설공사장을 대상으로 추진됐으며, 시는 총 1,087만 원의 사업비를 투입해 건설현장 25곳에 그늘막과 쿨조끼, 넥밴드, 쿨마스크 등 냉방물품을 지원했다.지원 물품은 근로자들이 휴식시간에 활용할 수 있도록 작업장 내 적정 위치에 설치·비치됐다.고양시는",
-    "published_at": "2026-07-08T19:39:04+09:00",
-    "cluster_id": "4d88",
-    "publisher": "내외뉴스통신",
-    "title_clean": "고양시, 소규모 건설현장 폭염 대응 지원 완료… 근로자 안전 강화",
-    "summary": "고양시가 경기도 지원사업을 통해 공사비 20억 원 미만의 소규모 건설현장 25곳에 총 1,087만 원을 투입해 그늘막, 쿨조끼 등 폭염 대비 물품을 지원했다. 휴게시설 설치 의무가 없는 현장의 근로자 안전과 건강 보호를 위한 정책 지원 사업이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-09T07:34:03+09:00",
     "importance": 2
   }
 ]
