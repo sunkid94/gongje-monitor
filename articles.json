@@ -4605,23 +4605,6 @@
     "importance": 6
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, AI 업무혁신 플랫폼 구축…보증심사·문서관리 고도화 - mt.co.kr",
-    "link": "https://www.mt.co.kr/estate/2026/06/12/2026061213455593661",
-    "description": "건설공제조합이 인공지능(AI) 기반 업무혁신 플랫폼 구축에 나선다. 12일 조합은 'CG-AX(AI Transformation) 업무혁신 플랫폼' 구축 사업을 진행 중이라고 밝혔다. 고객 서비스 만족도를 높이고 내부 업무 효율성을 개선하기...",
-    "published_at": "2026-06-12T14:15:00+09:00",
-    "cluster_id": "1f80",
-    "publisher": "mt.co.kr",
-    "title_clean": "건설공제조합, AI 업무혁신 플랫폼 구축…보증심사·문서관리 고도화",
-    "summary": "건설공제조합이 AI 기반 'CG-AX 업무혁신 플랫폼'을 구축하고 있다. 보증심사와 문서관리 등 핵심 업무를 고도화하여 고객 만족도 및 내부 효율성을 개선할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-12T14:17:48+09:00",
-    "event_label": "건설공제조합 AI 업무혁신 플랫폼 구축",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20586,6 +20569,38 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[게임체인저 AX] 건설기술인협회, AI 상담·인재 양성 '디지털 전환' 속... - enewstoday.co.kr",
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447880",
+    "description": "<편집자주>  건설산업의 디지털 전환이 가속화되는 가운데 한국건설기술인협회(이하 협회)가 인공지능(AI) 기반 회원 서비스 고도화와 스마트건설 전문인력 양성을 동시에 추진하며 산업 경쟁력 강화에 나서고 있다. AI...",
+    "published_at": "2026-07-12T14:11:00+09:00",
+    "cluster_id": "c426",
+    "publisher": "enewstoday.co.kr",
+    "title_clean": "[게임체인저 AX] 건설기술인협회, AI 상담·인재 양성 '디지털 전환' 속...",
+    "summary": "건설기술인협회가 AI 기반 회원 서비스 고도화와 스마트건설 전문인력 양성을 추진하며 건설산업 디지털 전환을 주도하고 있다. 이는 건설산업의 경쟁력 강화와 인력 육성을 통한 산업 경쟁력 제고 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T14:17:58+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[게임체인저 AX] 건설기술인협회, AI 상담·인재 양성 ‘디지털 전환’ 속도 - 이뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16SlFhUm5pU05nSkJzdzA0SWRxYVVEanFTcGFyM2ltaWtqOXoxREs5ZEhLWld6MnJoeXJZektpRVJsR2JJeGFfSXM2SFFUZlo4MTR2MDFvNW12eE91NmY2Skk3d1U5aW9zSzFwREFwd3dDQdIBdEFVX3lxTFBmenUtVEw1amJ5RWY3QzV0VHViQ1ZQODNBTzFBeEdYT3otRGMwVVZOOGx5bTYzNmZjT3RRYXNxLVdncUhZS180Z2dIVU84NnlBcnBFa2xtV3pvWkRBQWpndUgzTFlHRTZpVTU0ZUFDbDJkOEty?oc=5",
+    "description": "바야흐로 AI 대전환 시대가 본격화되면서 인공지능(AI)은 산업 전반의 판을 뒤집는 ‘게임체인저’로 부상했다. 특히 생성형 AI를 PoC(개념검증) 수준에서 실험하던 단계에서 벗어나, 이제 조직과 프로세스 전반을 AI 중심으로 재설계하는 ‘AX(AI Transformation)’가 구",
+    "published_at": "2026-07-12T14:11:13+09:00",
+    "cluster_id": "ede2",
+    "publisher": "이뉴스투데이",
+    "title_clean": "[게임체인저 AX] 건설기술인협회, AI 상담·인재 양성 ‘디지털 전환’ 속도",
+    "summary": "건설기술인협회가 AI 기술을 활용해 상담 서비스와 인재 양성 프로그램을 디지털 전환하고 있다. 생성형 AI를 실제 업무에 적용하는 'AX(AI Transformation)' 단계로 진입하며 건설업계의 AI 활용을 선도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T14:17:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32134,21 +32149,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T06:09:35+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "AI·스마트건설 외치지만…주요 건설사 R&D 투자 11% 줄었다 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260708001082",
-    "description": "인공지능(AI)과 스마트건설이 건설산업의 핵심 경쟁력으로 부상하고 있지만, 대형 건설사들의 연구개발(R&D) 투자는 유의미한 증가세를 보이지 않은 것으로 나타났다. 정부가 연구개발 예산 확대와 건설기술...",
-    "published_at": "2026-07-09T06:00:00+09:00",
-    "cluster_id": "7f72",
-    "publisher": "newspim.com",
-    "title_clean": "AI·스마트건설 외치지만…주요 건설사 R&D 투자 11% 줄었다",
-    "summary": "건설산업에서 AI와 스마트건설의 중요성이 강조되고 있으나, 실제로 주요 건설사들의 R&D 투자는 11% 감소하여 말과 행동의 괴리를 보이고 있다. 정부의 연구개발 예산 확대 정책과 실제 민간 기업의 투자 축소 간 격차가 발생하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T06:09:35+09:00",
-    "importance": 5
   }
 ]
