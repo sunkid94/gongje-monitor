@@ -4486,6 +4486,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "경북도청신도시 공급가뭄 해소 - kbsm.net",
+    "link": "https://www.kbsm.net/news/view.php?idx=526432",
+    "description": "시공은 금호건설·포스코이앤씨·플러스종합건설 컨소시엄이 맡는다. 전용면적 67㎡·84㎡ 중소형 4개 타입으로 구성되며, 공급 유형은 10년 분양전환형 공공임대아파트다. 1층 세대 사생활 보호를 위한 관통형...",
+    "published_at": "2026-07-12T17:08:00+09:00",
+    "cluster_id": "f853",
+    "publisher": "kbsm.net",
+    "title_clean": "경북도청신도시 공급가뭄 해소",
+    "summary": "경북도청신도시에 67㎡·84㎡ 규모의 중소형 공공임대아파트 4개 타입이 공급되며, 금호건설·포스코이앤씨·플러스종합건설 컨소시엄이 시공을 맡는다. 10년 분양전환형으로 진행되는 이번 사업은 지역 공급 부족을 해소하는 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T17:12:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20434,20 +20450,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "성수동 재개발, 대형사 릴레이 수주…GS·롯데 다음 주자는? - kpinews.kr",
-    "link": "https://www.kpinews.kr/newsView/1065597619877561",
-    "description": "입찰 과정에서 조합이 내세운 기준의 불공정성 문제가 제기됐고, 대우건설과 롯데건설이 제안한 입찰 내용들도 논란을 키우기도 했다. 문제가 예상되는 양사의 제안 내용들을 모두 삭제하는 진통을 겪었다. 성동구청...",
-    "published_at": "2026-07-06T17:01:00+09:00",
-    "cluster_id": "bd68",
-    "publisher": "kpinews.kr",
-    "title_clean": "성수동 재개발, 대형사 릴레이 수주…GS·롯데 다음 주자는?",
-    "summary": "성수동 재개발 사업에서 입찰 과정의 불공정성 문제와 대우건설, 롯데건설의 부적절한 제안으로 논란이 발생했다. 문제가 된 제안 내용들이 삭제되는 등 진통을 겪고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-06T17:10:23+09:00",
-    "importance": 4
+    "title": "건설 AI, 스마트건설을 이끌어갈 실증 기술과 강소기업 선정 - 서울Pn",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yYXNaV2hXNEV2TDAzNFZLMXFjYXJmR2tMRVh4OXF0WVlqcVBZMEIxWkVqNE9Vc1Z6bWxyOEdqQ2xDM2NvWDh1eDNKMDNqSkZ0ZU5tNTd3Zm5FbmpJR00wa3VB?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yYXNaV2hXNEV2TDAzNFZLMXFjYXJmR2tMRVh4OXF0WVlqcVBZMEIxWkVqNE9Vc1Z6bWxyOEdqQ2xDM2NvWDh1eDNKMDNqSkZ0ZU5tNTd3Zm5FbmpJR00wa3VB?oc=5\" target=\"_blank\">건설 AI, 스마트건설을 이끌어갈 실증 기술과 강소기업 선정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울Pn</font>",
+    "cluster_id": "fb9a",
+    "publisher": "서울Pn",
+    "title_clean": "건설 AI, 스마트건설을 이끌어갈 실증 기술과 강소기업 선정",
+    "summary": "건설업계의 AI 기술 도입과 스마트건설 활성화를 위해 실증 기술과 유망 강소기업이 선정되었다. 이는 건설 산업의 디지털 혁신과 기술 고도화를 촉진하는 긍정적인 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T17:12:47+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
@@ -32130,20 +32145,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-09T08:04:06+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "용인특례시, 건설 현장 보행안전원 직무 역량 강화 교육 - 한국소통투데이",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xckRxcTRHdExGN1UyV1QzYTJIcVhXbTgwZkdqZnJuNEhGSTIzNU53RmhfR0VwQkJUVC1tSXB5YUEtSHBqeExXYnlXNElFU1JuQlVVSUhQOHZYbGc?oc=5",
-    "description": "한국소통투데이 관리자 기자 | 용인특례시는 4일 시청 에이스홀에서 건설 현장 보행안전원 직무 역량 강화 교육을 했다고 9일 밝혔다. 교육은 총 5시간에 걸쳐 실무 중심으로 안전사고 예방은 물론 보행안전원의 역할과 책임을 체계적으로 익히는 데 초점을 맞춰 진행됐다. 보행안전원은 건설 현장 등에 파견돼 시민이 임시 보행로로",
-    "cluster_id": "00d4",
-    "publisher": "한국소통투데이",
-    "title_clean": "용인특례시, 건설 현장 보행안전원 직무 역량 강화 교육",
-    "summary": "용인특례시가 건설 현장 보행안전원을 대상으로 안전사고 예방과 직무 역량 강화를 위한 5시간 교육을 실시했다. 보행안전원의 역할과 책임을 체계적으로 교육함으로써 건설 현장의 안전관리 수준 향상을 도모했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-09T08:04:06+09:00",
-    "importance": 2
   }
 ]
