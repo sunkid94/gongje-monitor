@@ -20382,6 +20382,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남부발전, 산업안전보건공단과 ‘전력산업 산재예방 안전교육’ 맞손 - 부산일보",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SkFramtfcjF6NFZQU1B2cm1rdTYtZzBua0NjWTlqNF9xbmRMLWxPQ1VscGt1UlJjTUx2em5FaEhMU3RFam1oanZJTThFMFlWNm5LYk5kMmExUHpfRVJNX1RJZFkzLU9JVVN3V3pGTlZSYjlE?oc=5",
+    "description": "김준동 한국남부발전 사장(앞줄 맨왼쪽)이 지난 9일 일산 킨텍스에서 ‘전력산업 산재예방 및 안전보건 상생협력 강화를 위한 업무협약’ 후 기념 촬영...",
+    "cluster_id": "9ef6",
+    "publisher": "부산일보",
+    "title_clean": "남부발전, 산업안전보건공단과 ‘전력산업 산재예방 안전교육’ 맞손",
+    "summary": "한국남부발전이 산업안전보건공단과 전력산업 산재예방 및 안전보건 협력을 강화하기 위한 업무협약을 체결했다. 전력산업의 안전교육 및 산재예방 활동을 공동으로 추진할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T20:17:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32125,22 +32140,6 @@
     "summary": "삼표그룹이 전 계열사 임원진을 대상으로 안전세션을 개최하여 무재해 실행 방안을 점검했다. 건설업체의 안전경영 강화 움직임으로, 산업 안전문화 개선에 기여하는 사례다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-09T09:29:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "2026년도 1분기 건설공사계약액 74.1조원…전년비 23.4% ↑ - 대한건설기계신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43TnpnQk1WZWg3WXphSEo0UHNsMmVhMXBNSzRxREFQU1JzVXd3czlzREVER3F3SnF2dHBEbHZYWjZiX0NKMXQ2cmpYS0VlbC1qdEhiQjRsV1dWVE5tYndlMlFJYnU1YUEz?oc=5",
-    "description": "국토교통부는 2026년 1분기 건설공사계약액이 전년동기 대비 23.4% 증가한 74.1조원을 기록했다고 지난 26일 밝혔다. 주체별로 공공부문은 25.1조원으로",
-    "published_at": "2026-07-09T09:03:53+09:00",
-    "cluster_id": "5855",
-    "publisher": "대한건설기계신문",
-    "title_clean": "2026년도 1분기 건설공사계약액 74.1조원…전년비 23.4% ↑",
-    "summary": "2026년 1분기 건설공사계약액이 74.1조원으로 전년동기 대비 23.4% 증가했다. 공공부문이 25.1조원을 기록하며 건설시장이 강세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T09:19:00+09:00",
     "importance": 2
   }
 ]
