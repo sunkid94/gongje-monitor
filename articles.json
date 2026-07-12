@@ -20433,6 +20433,21 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도 \"도민감리단 활동 적극 지원하겠다\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40cVJLb1FmZFgzY0VXTEt4bUxXblZTaUpoVVNYZHhNM3BWTmxoZ3hKc3NuLWRsaW1WbU9CdWxhYjZnOFBYYk1HWktHelJxcHhMUGFHUTRIUXQzUWdVUHNPVGhSUmk5aEdzMkZPR3k3NU5jVEF3TVlwdw?oc=5",
+    "description": "한눈에 보는 오늘 : 정치 - 뉴스 : 취약 현장 안전점검 실시…건축·도로·하천 분야 10곳에서 지적사항 179건 [헤럴드경제=박준환 기자]경기도는 안전관리, 토목, 건축 등 각 분야별 전문가로 구성된 ‘경기도 건설공사 도민감리단’이 본격적인 우기를 앞두고 하천 등 취약 현장에 대한 안전점",
+    "cluster_id": "ebb3",
+    "publisher": "네이트",
+    "title_clean": "경기도 \"도민감리단 활동 적극 지원하겠다\"",
+    "summary": "경기도가 건설공사 도민감리단을 통해 취약 현장 안전점검을 실시하여 건축·도로·하천 분야 10곳에서 179건의 지적사항을 적발했다. 우기 전 안전관리를 강화하기 위해 도민감리단 활동을 적극 지원할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T08:17:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32123,22 +32138,6 @@
     "publisher": "asiatime.co.kr",
     "title_clean": "[9일 오산시] ‘풍수해·폭염 대비 안전점검 회의’ 개최 등",
     "summary": "오산시가 관내 공동주택 건설현장 9개소를 대상으로 풍수해 및 폭염 대비 안전점검 회의를 개최했다. 여름철 자연재난에 대비한 건설현장 안전관리 강화 방안을 논의했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T11:09:48+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "오산시, 풍수해 및 폭염 대비 안전점검 회의 진행…공동주택 건설현장 ... - enewstoday.co.kr",
-    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447105",
-    "description": "이번 회의는 행정안전부가 주관한 '여름철 재난안전대책 종합점검회의'의 후속 조치로 마련됐으며, 여름철 자연재난에 대비한 건설현장 안전관리 강화 방안을 논의했다. 시는 건설현장의 인명 및 재산 피해를 예방하고...",
-    "published_at": "2026-07-09T10:30:00+09:00",
-    "cluster_id": "0c99",
-    "publisher": "enewstoday.co.kr",
-    "title_clean": "오산시, 풍수해 및 폭염 대비 안전점검 회의 진행…공동주택 건설현장 ...",
-    "summary": "오산시가 행정안전부 주관 '여름철 재난안전대책 종합점검회의' 후속으로 건설현장 안전점검 회의를 진행했다. 폭우·폭염 등 자연재난 대비 및 건설현장 안전관리 강화 방안을 논의하여 인명·재산 피해 예방에 나섰다.",
     "sentiment": "negative",
     "collected_at": "2026-07-09T11:09:48+09:00",
     "importance": 4
