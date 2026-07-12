@@ -4689,23 +4689,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, AI 보증심사 도입 추진…'CG-AX' 구축 - fetv.co.kr",
-    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=304181",
-    "description": "건설공제조합이 보증신청과 심사, 문서관리 등 주요 업무에 인공지능(AI)을 접목하는 업무혁신 플랫폼 구축에 나섰다. 금융 데이터를 다루는 기관 특성을 고려해 사내 구축형(온프레미스) 기반 시스템을 도입하고 고객...",
-    "published_at": "2026-06-12T11:30:00+09:00",
-    "cluster_id": "621b",
-    "publisher": "fetv.co.kr",
-    "title_clean": "건설공제조합, AI 보증심사 도입 추진…'CG-AX' 구축",
-    "summary": "건설공제조합이 AI 기반 보증심사 플랫폼 'CG-AX'를 구축하여 보증신청, 심사, 문서관리 등 주요 업무에 인공지능을 접목하는 업무혁신을 추진 중이다. 금융 데이터 보안을 고려해 온프레미스 기반 시스템을 도입했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-12T11:33:13+09:00",
-    "event_label": "건설공제조합 AI 보증심사 플랫폼 'CG-AX' 구축 추진",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20668,6 +20651,22 @@
     "sentiment": "negative",
     "collected_at": "2026-07-06T16:20:08+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건설AI 실증 10건·강소기업 12곳 선정 - m.skyedaily.com",
+    "link": "https://m.skyedaily.com/news_view.html?ID=307652",
+    "description": "스카이데일리 주경준기자 = 대우·코오롱·동부·롯데 참여…11월 스마트건설 EXPO서 성과 공개 ▲ 사진=국토교통부 국토교통부가 건설 AI와 로봇·자동화 기술 10건을 실제 현장에서 검증하고 강소기업 12곳을 육성한다....",
+    "published_at": "2026-07-12T11:36:00+09:00",
+    "cluster_id": "203c",
+    "publisher": "m.skyedaily.com",
+    "title_clean": "건설AI 실증 10건·강소기업 12곳 선정",
+    "summary": "국토교통부가 건설 AI, 로봇·자동화 기술 10건을 현장에서 실증하고 강소기업 12곳을 선정해 육성한다. 대우·코오롱·동부·롯데 등 주요 건설사가 참여하며 11월 스마트건설 EXPO에서 성과를 공개할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T11:37:41+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
