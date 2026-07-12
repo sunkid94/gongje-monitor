@@ -20619,6 +20619,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건설현장 AI전환 속도…스마트건설 기술 10개·강소기업 12곳 선정 - viva100.com",
+    "link": "https://www.viva100.com/article/20260712500338",
+    "description": "건설산업의 인공지능(AI) 도입과 자동화·탈현장화를 앞당길 스마트건설 기술 10개와 성장 잠재력을 갖춘 강소기업 12개사가 정부 지원 대상으로 선정됐다. 국토교통부와 한국건설기술연구원은 스마트건설 기술의 현장...",
+    "published_at": "2026-07-12T12:38:00+09:00",
+    "cluster_id": "6767",
+    "publisher": "viva100.com",
+    "title_clean": "건설현장 AI전환 속도…스마트건설 기술 10개·강소기업 12곳 선정",
+    "summary": "정부가 건설산업의 AI 도입을 가속화하기 위해 스마트건설 기술 10개와 성장 잠재력 있는 강소기업 12곳을 지원 대상으로 선정했다. 자동화·탈현장화 기술 개발을 통해 건설업의 디지털 전환을 주도할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T12:47:47+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32134,21 +32150,6 @@
     "summary": "국토부와 기계설비산업연구원이 AI 시대 데이터센터 건설산업 활성화를 위한 포럼을 발족했다. 데이터센터 건설 수요 증가에 따른 산업 활성화 및 관련 정책 논의 추진으로 건설업계의 새로운 수주 기회 창출을 기대할 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T02:34:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설사업자간 상호협력평가 2년 연속 ‘최우수’ - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjd2b2k0WE9IOFVtbEZxOTlWcXVuejQ4aFV3czhxeHdhWUp0TXVGT1BwenZwelNuV2txdm92MzhRYXJGUTRKZ05pdkR3RUs0UlkxTGkwN0hIY0lWS3pMZkVueDJmLUJnVVpNUi11LXpnTkRXdUt5NTAxRHlUUHJUV1FScjF1a0dJVHFhdDNn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjd2b2k0WE9IOFVtbEZxOTlWcXVuejQ4aFV3czhxeHdhWUp0TXVGT1BwenZwelNuV2txdm92MzhRYXJGUTRKZ05pdkR3RUs0UlkxTGkwN0hIY0lWS3pMZkVueDJmLUJnVVpNUi11LXpnTkRXdUt5NTAxRHlUUHJUV1FScjF1a0dJVHFhdDNn?oc=5\" target=\"_blank\">건설사업자간 상호협력평가 2년 연속 ‘최우수’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-    "cluster_id": "fce3",
-    "publisher": "조선일보",
-    "title_clean": "건설사업자간 상호협력평가 2년 연속 ‘최우수’",
-    "summary": "기계설비건설공제조합이 건설사업자간 상호협력평가에서 2년 연속 최우수 등급을 획득했다. 이는 건설업계의 협력 체계 강화와 신뢰도 향상을 의미하는 긍정적 평가 결과다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T00:44:33+09:00",
     "importance": 2
   }
 ]
