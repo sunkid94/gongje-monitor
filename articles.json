@@ -20484,6 +20484,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정 - aitimes.kr",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40940",
+    "description": "이미지:본지DB 국토교통부(장관 김윤덕)와 한국건설기술연구원(원장 박선규)은 건설산업에 인공지능(AI) 도입을 촉진하고 자동화와 탈현장화를 이끌 선도기업 육성을 위해  12일, 스마트건설 기술실증 지원사업 10개와...",
+    "published_at": "2026-07-12T15:30:00+09:00",
+    "cluster_id": "1597",
+    "publisher": "aitimes.kr",
+    "title_clean": "국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정",
+    "summary": "국토부와 한국건설기술연구원이 건설산업의 AI 도입과 자동화를 촉진하기 위해 스마트건설 기술실증 지원사업 10개 과제와 강소기업을 선정했다. 이는 건설산업의 디지털 혁신과 탈현장화를 주도할 선도기업 육성을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-12T15:32:48+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32130,21 +32146,6 @@
     "summary": "현대건설이 저탄소 조강 콘크리트 기술로 녹색기술 인증을 획득했다. 이 기술은 콘크리트 양생 에너지 사용을 획기적으로 줄일 수 있어 건설산업의 녹색 전환을 가속화할 것으로 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T07:09:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[르포] 킨텍스 AI 안전보건박람회 가보니…AI가 만드는 건설안전기술이 대세 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TcElwTnB3VTdTV3pVSUtzem02eklhRk1Eck5NNmxSWTVUNUJVdTVZVFlfaUhZTHFBV294NEdCRF9QUjVORE5wUWtQNlNCQlRfbHZaclZqVG1GMXFhMUhHSW9TaWdOUGt6a0c3Q1R5b2FCUms5?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9TcElwTnB3VTdTV3pVSUtzem02eklhRk1Eck5NNmxSWTVUNUJVdTVZVFlfaUhZTHFBV294NEdCRF9QUjVORE5wUWtQNlNCQlRfbHZaclZqVG1GMXFhMUhHSW9TaWdOUGt6a0c3Q1R5b2FCUms5?oc=5\" target=\"_blank\">[르포] 킨텍스 AI 안전보건박람회 가보니…AI가 만드는 건설안전기술이 대세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "fe47",
-    "publisher": "대한경제",
-    "title_clean": "[르포] 킨텍스 AI 안전보건박람회 가보니…AI가 만드는 건설안전기술이 대세",
-    "summary": "킨텍스에서 열린 AI 안전보건박람회에서 AI 기술을 활용한 건설안전기술이 주목을 받고 있다. 이는 건설업계의 안전 관리 수준 향상과 새로운 기술 시장 창출로 이어질 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T06:49:08+09:00",
     "importance": 2
   }
 ]
