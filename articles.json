@@ -20619,6 +20619,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[한인임의 노동안녕] 아열대로 가는 시대, 악천후에는 작업중지를 - vop.co.kr",
+    "link": "https://vop.co.kr/A00001695788.html",
+    "description": "그러나 지난해 8월, 서울 강서구 맨홀 사고로 건설노동자가 익사한 사례가 있다. 이미 우천 시 익사 위험을 알고 있었음에도 불구하고 강행된 작업이라는 점이 알려져 사회적 물의를 일으킨 바 있다. 2019년 7월에도 서울...",
+    "published_at": "2026-07-12T11:58:00+09:00",
+    "cluster_id": "eb15",
+    "publisher": "vop.co.kr",
+    "title_clean": "[한인임의 노동안녕] 아열대로 가는 시대, 악천후에는 작업중지를",
+    "summary": "악천후 시 건설 현장 작업 중지의 필요성을 강조하는 기사로, 지난해 서울 강서구 맨홀 사고로 건설노동자가 익사한 사례를 언급했다. 우천 시 익사 위험을 인지하면서도 작업을 강행한 점이 사회적 물의를 일으켰다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-12T12:02:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32134,21 +32150,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T00:09:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "내실 다졌지만 수주 곳간 '비상'… 재해 리스크 탈출 안간힘 - 땅집고",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5Slo4enpFZ2phbHlUTDNnbDFTVUFYcGp1YkJfZ0NWbWpubDhzcDVfazVLVDdkclRhUkVuM3p0cWhMZTB1Q2J2VDdjOGVzSmJZakJjZlh2OUtEcVhFN3lwbzI4a254X0tXZzJ3WkNNSmstQ2oxMGNuWVRoeEhOVUHSAXNBVV95cUxPZWpPd19Edmg0LWNpS05ZVnRKWl9iSU1kTldVSDNReG5OODR5dU82d3hTbDc0V3ZVZWUwc2F1Y3FHLTJYSHF6RVF3bk5hWjV6ZTBTQk1YbmtYR201SGRvbGdCV0UzNnJ1bC1oUThqRndmekVR?oc=5",
-    "description": "[땅집고] 한 때 현대건설 흡수설까지 돌며 극심한 진통을 겪었던 시공능력평가 6위의 현대엔지니어링이 여전히 각종 악재의 늪에서 벗어나지 못하고..",
-    "published_at": "2026-07-08T06:00:00+09:00",
-    "cluster_id": "864e",
-    "publisher": "땅집고",
-    "title_clean": "내실 다졌지만 수주 곳간 '비상'… 재해 리스크 탈출 안간힘",
-    "summary": "시공능력평가 6위 현대엔지니어링이 내실은 다졌으나 수주 부진과 각종 악재로 어려움을 겪고 있다. 건설업계의 불황 속에서 기업의 수익성 악화와 리스크 관리가 주요 과제로 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T23:09:23+09:00",
-    "importance": 4
   }
 ]
