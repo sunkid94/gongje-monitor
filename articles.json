@@ -20892,6 +20892,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "가평군, 건설현장 폭염 대응 합동 안전점검 - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039831",
+    "description": "경기 가평군이 여름철 폭염으로 인한 근로자 온열질환을 예방하기 위해 건설 현장 안전점검에 나섰다. 가평군은 '노동안전의 날'을 맞아 포천시와 함께 지역 내 건설 현장을 대상으로 교차 합동 안전점검과 예방 캠페인을...",
+    "published_at": "2026-07-12T09:04:00+09:00",
+    "cluster_id": "75ed",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "가평군, 건설현장 폭염 대응 합동 안전점검",
+    "summary": "경기 가평군이 여름철 폭염으로 인한 건설 현장 근로자의 온열질환 예방을 위해 포천시와 함께 합동 안전점검을 실시하였다. 노동안전의 날을 맞아 지역 내 건설 현장에 대한 교차 합동 안전점검 및 예방 캠페인을 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-12T09:07:35+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "폭염 속 일터를 지키는 시원한 안전 물품과 예방 수칙 > 뉴스 - 더코리아",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNFNSRkJCdHM5a0FjWjBlWDdKOV9LbnR1bk1rM2NKblVHRE0tZGFvTzJFdlp1WUppak84OGpQMk52dVc2LV81aWRFV01kZXNsTzRYcWswUUpSMkRsa21BQ0NhTnNYOHU4MmpOTGxOaGM?oc=5",
     "description": "남양주시는 본격적인 무더위가 시작되는 혹서기를 맞아 폭염에 취약한 건설 현장 근로자들의 건강을 증진하고 온열질환으로 인한 안전사고를 선제적으로 예방하고자 ‘혹서기 건설근로자 온열질환 예방 캠페인’을 지난 7월 9일 관내 신축 건설 현장에서 실시했다.이번 캠페인은 여름철 기온 상승으로 인해 발생하기 쉬운 열탈진, 열사병 등 온열질환으로부터 근로자를 보호하기 위해 추진됐으며, 시 관계자들은 현장을 직접 찾아 작업자들에게 시원한 생수와 쿨토시 등 혹서기 맞춤...",
@@ -32145,21 +32161,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-08T20:14:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[위험천만 스쿨존] 들쑥날쑥 ‘미끄럼방지포장’ 규정, 국가 관리 틀 속... - busan.com",
-    "link": "https://www.busan.com/view/busan/view.php?code=2026070818344741817",
-    "description": "인덕대 최준성 스마트건설방재학과 교수는 “미끄럼방지포장은 도로 안전에 필수적 환경인만큼 정량화되고 신뢰성 있는 성능평가체계를 갖춰야 한다”고 강조했다. ■위험도 따라 차별화도 모든 구간을 동일하게...",
-    "published_at": "2026-07-08T20:00:00+09:00",
-    "cluster_id": "3802",
-    "publisher": "busan.com",
-    "title_clean": "[위험천만 스쿨존] 들쑥날쑥 ‘미끄럼방지포장’ 규정, 국가 관리 틀 속...",
-    "summary": "스쿨존의 미끄럼방지포장이 규정이 불균일하고 성능평가체계가 미흡한 것으로 지적되었다. 전문가들은 도로 안전을 위해 정량화되고 신뢰성 있는 평가기준 수립의 필요성을 강조하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T20:09:02+09:00",
-    "importance": 4
   }
 ]
