@@ -20366,6 +20366,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "지역 건설경기 침체에 건설 일자리 ‘뚝’ - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85MUxzZHhyejlqbmoyR1Q2NWIybHQ2azRhTGczM3RXRHBOLUYwMEV3SmwwSDZYVTduNl96R2x4SWdGSUEzYUcwY2VIZTJBbFhQM21FZVJvLWhqczlZT0dTWFhqMGJUd2FPM09JYk5menk3VUFwRlE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE85MUxzZHhyejlqbmoyR1Q2NWIybHQ2azRhTGczM3RXRHBOLUYwMEV3SmwwSDZYVTduNl96R2x4SWdGSUEzYUcwY2VIZTJBbFhQM21FZVJvLWhqczlZT0dTWFhqMGJUd2FPM09JYk5menk3VUFwRlE?oc=5\" target=\"_blank\">지역 건설경기 침체에 건설 일자리 ‘뚝’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+    "cluster_id": "156c",
+    "publisher": "강원일보",
+    "title_clean": "지역 건설경기 침체에 건설 일자리 ‘뚝’",
+    "summary": "지역 건설경기 침체로 인해 건설 일자리가 감소하고 있습니다. 건설업계의 고용 악화가 심화되고 있는 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T02:57:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32124,21 +32139,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T09:59:25+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염은 날씨가 아니라 방치된 위험이다 - incheonin.com",
-    "link": "http://www.incheonin.com/news/articleView.html?idxno=119184",
-    "description": "특히 이러한 기후변화의 여파를 가장 온몸으로 마주하는 이들이 대표적으로 야외 건설 노동자들과 학교 급식실을 비롯한 공공부문 공무직 노동자들이다. 직사광선과 주변 구조물의 복사열을 그대로 받으며 육체노동을...",
-    "published_at": "2026-07-09T09:56:00+09:00",
-    "cluster_id": "2a16",
-    "publisher": "incheonin.com",
-    "title_clean": "폭염은 날씨가 아니라 방치된 위험이다",
-    "summary": "폭염이 심화되면서 야외 건설 노동자들과 공공부문 공무직 노동자들이 직사광선과 복사열로 인한 위험에 노출되고 있다. 기사는 폭염을 단순 날씨가 아닌 방치된 산업 안전 문제로 지적하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T09:59:25+09:00",
-    "importance": 4
   }
 ]
