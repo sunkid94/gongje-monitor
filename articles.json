@@ -20366,6 +20366,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "포천시 노동안전지킴이, 7월 노동안전의 날 맞아 혹서기 대비 합동점검 및 캠페인 실시 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Taktua25KNDlscDNmbWcyZ2VYSWQwQ0RWaTVCZFNQbGtxWVkzT25uSUUxNUtuQl9zRlJ0d0lSUFZEU0lDX19VdXYyQ1ZVMU9STmpuZTFYbV9tbktNdDFQRVhucVRuZ2JpbDBDNFZBRUs?oc=5",
+    "description": "가평군 및 경기북부노동인권센터와 공조하여 야외 노동자 온열질환 예방 및 건설 현장 안전 점검",
+    "cluster_id": "fa9b",
+    "publisher": "더코리아",
+    "title_clean": "포천시 노동안전지킴이, 7월 노동안전의 날 맞아 혹서기 대비 합동점검 및 캠페인 실시 > 뉴스",
+    "summary": "포천시가 7월 노동안전의 날을 맞아 가평군, 경기북부노동인권센터와 함께 야외 노동자 온열질환 예방 및 건설 현장 안전점검을 실시했다. 혹서기 대비 합동점검 및 캠페인을 통해 건설 현장의 안전을 강화하는 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-12T23:27:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32124,22 +32139,6 @@
     "summary": "반도건설이 협력사 바로건설기술과 시공 현장 안전 및 품질 향상을 위한 신기술 3종을 공동 개발하기로 업무 협약을 체결했다. ESG 경영과 혁신 기술 개발을 통해 건설업계의 기술 고도화와 안전성 강화를 추진하는 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T09:54:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "반도건설, 협력사와 시공 신기술 개발…현장 안전·품질 향상 추진 - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573353024874",
-    "description": "반도건설이 협력사와 함께 시공 안전과 품질 향상을 위한 건설 신기술 개발에 나선다. 반도건설은 바로건설기술과 ▲꺾임부 보강재 ▲기초보강재 ▲연속바체어 등 시공 신기술 3종의 공동 개발을 위한 업무협약을...",
-    "published_at": "2026-07-09T09:46:00+09:00",
-    "cluster_id": "bdec",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "반도건설, 협력사와 시공 신기술 개발…현장 안전·품질 향상 추진",
-    "summary": "반도건설이 협력사 바로건설기술과 함께 꺾임부 보강재, 기초보강재, 연속바체어 등 시공 신기술 3종을 공동 개발하기로 업무협약을 체결했다. 현장의 안전성과 시공 품질 향상을 위한 기술 혁신 추진이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T09:49:16+09:00",
     "importance": 2
   }
 ]
