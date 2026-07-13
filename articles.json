@@ -20790,6 +20790,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한 총리, 폭염 속 건설현장 방문 “공사 늦어도 안전하게” - sedaily.com",
+    "link": "https://www.sedaily.com/article/20067285?ref=naver",
+    "description": "한성숙 국무총리는 13일 건설 노동자들의 폭염 대응 상황을 점검하기 위해 서울 중구의 한 건설 현장을 찾았다. 한 총리는 이 자리에서 관계자 보고를 받고 “현장 노동자들은 더운 날씨에 제때 휴식을 취해달라”며...",
+    "published_at": "2026-07-13T21:41:00+09:00",
+    "cluster_id": "82c4",
+    "publisher": "sedaily.com",
+    "title_clean": "한 총리, 폭염 속 건설현장 방문 “공사 늦어도 안전하게”",
+    "summary": "한성숙 국무총리가 서울 중구 건설현장을 방문하여 폭염 속 노동자 안전 대응 상황을 점검했다. 총리는 공사 일정보다 현장 노동자들의 안전과 휴식을 우선시하도록 지시했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-13T21:45:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32148,20 +32164,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-10T08:39:17+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "메이사, 국토부 ‘AX 스프린트’ 선정… 건설 현장 리스크 관리 AI가 수행 - 경기시사투데이",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoS2w4dS1Scjg5QWlHRVNsZWQyR1FqWm5YdFR6T2tuWkRuN2xCX05WVUhqWkZjXy1rbnZVNG5CRUtZTE5rMjk5QjY3TElfdm10amlyZXZHdkNqNUFrUUE?oc=5",
-    "description": "공간 AI 기업 메이사(대표 최석원·김동영)가 국토교통부의 ‘AI 응용제품 신속 상용화 지원사업(AX 스프린트)’ 국토·교통 분야 과제에 최종 선정됐다고 밝혔다. ‘AX 스프린트’는 정부 11개 관계부처가 합동으로 추진하는 범부처 최대 규모",
-    "cluster_id": "69dd",
-    "publisher": "경기시사투데이",
-    "title_clean": "메이사, 국토부 ‘AX 스프린트’ 선정… 건설 현장 리스크 관리 AI가 수행",
-    "summary": "공간 AI 기업 메이사가 국토부의 'AX 스프린트' 사업에 선정되어 건설 현장의 AI 기반 리스크 관리 솔루션을 개발한다. 이는 정부의 AI 기술 상용화 지원으로 건설 현장의 안전 및 효율성 개선에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-10T08:39:17+09:00",
-    "importance": 2
   }
 ]
