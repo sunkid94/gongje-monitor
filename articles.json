@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비협회, 전문인력 양성 지원금 2억원 전달…전년 대비 2배 확대 - news1.kr",
+    "link": "https://www.news1.kr/industry/sb-founded/6225878",
+    "description": "대한기계설비협회가 기계설비 전문인력 양성을 위해 전국 기계설비 관련 대학에 총 2억 원의 지원금을 전달한다. 13일 기계설비협회에 따르면 올해 지원금 규모는 지난해 1억 원보다 두 배 늘어난 2억 원이다. 미래...",
+    "published_at": "2026-07-13T09:27:00+09:00",
+    "cluster_id": "4a1b",
+    "publisher": "news1.kr",
+    "title_clean": "기계설비협회, 전문인력 양성 지원금 2억원 전달…전년 대비 2배 확대",
+    "summary": "대한기계설비협회가 기계설비 전문인력 양성을 위해 전국 관련 대학에 2억원의 지원금을 전달한다. 전년도 1억원 대비 2배 확대된 규모로, 업계 인력 양성에 투자를 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T09:32:56+09:00",
+    "event_label": "대한기계설비건설협회 전문인력 양성 지원금 2억원 전달",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -20518,6 +20535,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도 도민감리단, 우기 전 공사현장 안전 점검…179건 지적 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZFg4LTN4bGk0SFRyaWtkc2hPNXo4cV9ydUM5QjBPRDUteGNnb3d5eWdxZEplTlNEaUdGTFFOTllZbTFPb0xxV3ZnQTZQSVpyMkdldnN2bHRSTU1PWFdfRw?oc=5",
+    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 올해 점검 대상 22곳 중 10곳 우선 점검 마쳐…134건 조치 완료우기 전 공정관리 철저 20건",
+    "published_at": "2026-07-13T09:28:00+09:00",
+    "cluster_id": "221c",
+    "publisher": "네이트",
+    "title_clean": "경기도 도민감리단, 우기 전 공사현장 안전 점검…179건 지적",
+    "summary": "경기도 도민감리단이 우기 전 공사현장 안전 점검을 실시하여 179건을 지적했으며, 이 중 134건에 대한 조치를 완료했다. 22곳 중 10곳의 우선 점검을 마쳤고 공정관리를 철저히 하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T09:32:56+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32113,37 +32146,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T12:09:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 건설안전 혁신 스타트업 12곳과 협력 확대 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcHcyLVd0bW9xc0N1cTZPZ3hiRHRGNnBaSHJDdzNrM0loVmhCWE5lU1M5T2NoY2VfNG9IcWdlaGR4b2ZtOTVFMW1ON20tYW9KU2FUS2E2dkJRU2ZyLTdJeg?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이투데이/김지영 기자]H-Safe 오픈이노베이션 데모데이 개최 ‘2026 H-Safe 오픈이노베이션 데모데이’ 참가 기업 및 관계자들이 기념촬영을 하고 있다.(사진제공=현대건설)현대건설이 건설안전 분야 혁신기술의 현장 적용을 확대하기 위해 스타트업과",
-    "published_at": "2026-07-09T12:02:00+09:00",
-    "cluster_id": "8792",
-    "publisher": "네이트",
-    "title_clean": "현대건설, 건설안전 혁신 스타트업 12곳과 협력 확대",
-    "summary": "현대건설이 건설안전 분야 혁신 스타트업 12곳과의 협력을 확대하고 'H-Safe 오픈이노베이션 데모데이'를 개최했다. 이를 통해 건설안전 혁신기술의 현장 적용을 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T12:09:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[기자수첩] 공급 속도전, 숫자보다 착공 병목부터 봐야 - wolyo.co.kr",
-    "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=314758",
-    "description": "한국건설산업연구원에 따르면 4월 건설수주는 19조7000억원으로 전년 동월 대비 35.9% 늘었다. 하지만 실제 공사 실적인 건설기성은 11조7000억원으로 1.1% 줄었다. 수주가 늘었다는 숫자는 일감의 입구를 보여줄 뿐이다....",
-    "published_at": "2026-07-09T11:52:00+09:00",
-    "cluster_id": "abb9",
-    "publisher": "wolyo.co.kr",
-    "title_clean": "[기자수첩] 공급 속도전, 숫자보다 착공 병목부터 봐야",
-    "summary": "4월 건설수주는 전년 동월 대비 35.9% 증가했으나, 실제 공사 실적인 건설기성은 1.1% 감소했다. 수주 증가 숫자 뒤의 착공 병목 현상을 지적하며, 실질적인 공사 실행 능력을 중시해야 함을 강조한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T11:59:33+09:00",
-    "importance": 4
   }
 ]
