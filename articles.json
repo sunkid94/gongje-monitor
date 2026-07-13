@@ -20840,6 +20840,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 폭염 대응 점검 나선 한성숙 총리 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HcllQQUNwNmlkRmt3MkJxTDcwVGx6aHVyRlJYU2UteWt6WlVnVHVYWmh5QTEyc2hXTDhHb2tYX202ZXZmZnZSOGtWQQ?oc=5",
+    "description": "(서울=뉴스1) 김명섭 기자 = 한성숙 국무총리가 13일 오후 서울 중구 무교동 건설현장에서 폭염 대응 상황 현장점검을 하고 있다. 2026.7.13/뉴스1",
+    "published_at": "2026-07-13T17:34:47+09:00",
+    "cluster_id": "7126",
+    "publisher": "뉴스1",
+    "title_clean": "건설현장 폭염 대응 점검 나선 한성숙 총리",
+    "summary": "한성숙 총리가 서울 중구 건설현장을 방문하여 폭염 대응 상황을 점검했다. 정부의 건설현장 안전 및 근로자 보호에 대한 관심을 보여주는 행보이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-14T01:30:28+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한성숙 총리, 무교동 건설현장 찾아 폭염 대응 확인 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nMDE3cVRzbDlYVHJwRDJjNEVidUhVeWdHLTZJRmswQVROUXN4eVE5Z1E3a0RlY0RweENlVTdOQkxLMmNVTU9NYUpXQQ?oc=5",
+    "description": "(서울=뉴스1) 김명섭 기자 = 한성숙 국무총리가 13일 오후 서울 중구 무교동 건설현장에서 폭염 대응 상황 현장점검을 하고 있다. 2026.7.13/뉴스1",
+    "published_at": "2026-07-13T17:33:54+09:00",
+    "cluster_id": "d69f",
+    "publisher": "뉴스1",
+    "title_clean": "한성숙 총리, 무교동 건설현장 찾아 폭염 대응 확인",
+    "summary": "한성숙 총리가 서울 중구 무교동 건설현장을 찾아 폭염 대응 상황을 점검했다. 정부가 건설현장의 폭염 안전 관리에 관심을 기울이고 있음을 보여주는 행사성 뉴스다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-14T01:30:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32133,38 +32165,6 @@
     "summary": "건설현장의 안전관리는 TBM(Tool Box Meeting)으로 시작되며, 형식적 진행이 아닌 실질적 운영이 재해 예방의 핵심이다. 현장 작업 전 TBM 활동의 질에 따라 그 날의 안전 수준이 결정된다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-10T09:49:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설사, 1분기 이어 2분기도 뒷걸음…비주택 강화에 희비 갈린다 - socialvalue.kr",
-    "link": "https://www.socialvalue.kr/news/view/1065599264601378",
-    "description": "국내 건설경기 침체로 건설사들의 '고난의 행군'이 이어지고 있다. 대부분 건설사들의 매출이 1분기에 이어 2분기에도 줄어들 전망인 가운데, 비주택 부문을 강화해온 건설사들은 상대적으로 선방한 것으로...",
-    "published_at": "2026-07-10T09:26:00+09:00",
-    "cluster_id": "0870",
-    "publisher": "socialvalue.kr",
-    "title_clean": "건설사, 1분기 이어 2분기도 뒷걸음…비주택 강화에 희비 갈린다",
-    "summary": "국내 건설경기 침체로 대부분 건설사들이 1분기에 이어 2분기에도 매출 감소를 전망하고 있다. 다만 비주택 부문을 강화한 건설사들은 상대적으로 실적을 유지하며 업체별 실적 편차가 벌어지는 추세다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-10T09:29:11+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "메이사, 국토부 ‘AX 스프린트’ 선정…건설 안전관리 AI 상용화 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0dHRWg2QlBmMUdKanYxbU1NdUdOaXlwNnpwWXVFY1dvT1ZMYzlGNEVDWXgzODk4aXY0Y1FUTW5JclBXemZ2YkljU1pPOU13SWpDNVVCUGZSQ0g0VjVFb1RIOVZjN3FUaDd3bXh4MFpNRU92LWtDVkhsWWgycXdXZw?oc=5",
-    "description": "공간 인공지능(AI) 기업 메이사가 현대건설, 무스마, 슈퍼브에이아이와 함께 건설 현장의 위험을 탐지하고 대응까지 수행하는 자율 안전관리 플랫폼 상용화에 나선다.메이사는 국토교통부의 ‘AI 응용제품 신속 상용화 지원사업(AX 스프린트)’ 국토·교통 분야 과제에 최종 ...",
-    "published_at": "2026-07-10T09:23:11+09:00",
-    "cluster_id": "dbb6",
-    "publisher": "이데일리",
-    "title_clean": "메이사, 국토부 ‘AX 스프린트’ 선정…건설 안전관리 AI 상용화",
-    "summary": "메이사가 현대건설, 무스마, 슈퍼브에이아이와 함께 국토부 'AX 스프린트' 사업에 선정되어 건설 현장의 위험을 AI로 탐지·대응하는 자율 안전관리 플랫폼을 상용화한다. 이는 건설 안전 기술 고도화와 산업 혁신을 통해 업계의 안전성과 효율성 개선을 도모하는 정부 지원 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-10T09:29:11+09:00",
     "importance": 2
   }
 ]
