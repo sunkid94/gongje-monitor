@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[마켓인]엔지니어링공제회, 다원시스 디폴트 여파에 ‘Baa1’ 하향 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04195126645514192",
+    "description": "글로벌 신용평가사 무디스(Moody's)는 13일 엔지니어링공제조합(EGI)의 보험재무건전성평가(IFSR) 신용등급을 기존 ‘A3’에서 ‘Baa1’으로 하향 조정하고, 등급 전망을 '안정적(Stable)'으로 부여했다고 밝혔다. 무디스는 주요...",
+    "published_at": "2026-07-13T16:58:00+09:00",
+    "cluster_id": "ea47",
+    "publisher": "edaily.co.kr",
+    "title_clean": "[마켓인]엔지니어링공제회, 다원시스 디폴트 여파에 ‘Baa1’ 하향",
+    "summary": "무디스가 엔지니어링공제조합의 신용등급을 'A3'에서 'Baa1'로 하향 조정했다. 다원시스 디폴트 여파로 인한 등급 인하로, 건설공제조합의 신용도 악화를 반영한 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T17:05:30+09:00",
+    "event_label": "엔지니어링공제조합 신용등급 A3에서 Baa1로 하향",
+    "importance": 8
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -4739,6 +4756,22 @@
     "collected_at": "2026-06-15T06:13:03+09:00",
     "event_label": "대한기계설비건설협회 하도급적정성심사제 개선 관련 의견 제시",
     "importance": 5
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "H7, KISS 2026 참가… 친환경 기능성 안전장갑 기술 선보여 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04188566645514192",
+    "description": "H7은 현대자동차, 기아자동차, 풀무원, 한국철도공사, 삼성중공업, KT, 현대제철, DHL, 한화에어로스페이스, LG전자, 삼성전자 등 다양한 산업 분야에 기능성 안전장갑을 공급하며 산업 현장의 안전을 책임지고 있다....",
+    "published_at": "2026-07-13T16:58:00+09:00",
+    "cluster_id": "1ef5",
+    "publisher": "edaily.co.kr",
+    "title_clean": "H7, KISS 2026 참가… 친환경 기능성 안전장갑 기술 선보여",
+    "summary": "H7이 기능성 안전장갑 기술을 KISS 2026에 선보이며 현대차, 기아, 삼성전자 등 다양한 산업 분야에 제품을 공급 중이다. 친환경 안전장갑으로 산업 현장의 안전성을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T17:05:30+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -20690,20 +20723,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 3000억 조달 '성공'…AAA ABS로 반등 신호 - ppss.kr",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=301258",
-    "description": "롯데건설이 3천억 원 규모 자산유동화증권 발행에 성공했다. 롯데건설은 7일 준공이 임박한 주택사업장 및 그룹 계열사 건축사업장의 공사대금채권을 활용해 AAA 신용등급으로 3천억 원 규모의 자산유동화증권(ABS)...",
-    "published_at": "2026-07-07T11:42:00+09:00",
-    "cluster_id": "4bed",
-    "publisher": "ppss.kr",
-    "title_clean": "롯데건설, 3000억 조달 '성공'…AAA ABS로 반등 신호",
-    "summary": "롯데건설이 준공 임박 주택사업장과 건축사업장의 공사대금채권을 활용해 3천억 원 규모의 AAA 등급 자산유동화증권(ABS)을 성공적으로 발행했다. 이는 건설사의 자금 조달 능력 회복과 시장 신뢰도 개선을 시사하는 긍정적 신호다.",
+    "title": "광주은행, 사업자보증 설명회 개최…지역 건설경기 활성화 지원 - 투데이광주전남",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05Qlh1UENkc3RzYXNSQTlGWEZRN2JseG10YkZhSmR4SUg4N3dzLTJHSjBMclFKSWNXemU1amFubGNkVFlqTnZWZ1VucnZtQXRsMXdFekN5LXlVck1hd0JwYXFMWmI3bG5QeEVTQzc4eUc?oc=5",
+    "description": "광주은행은 지난 10일 본점 3층 대회의실에서 한국주택금융공사와 대한주택건설협회가 공동 주최한 '사업자보증 설명회'가 개최됐다고 밝혔다.이번 행사는 한국주택금융공",
+    "published_at": "2026-07-13T17:00:50+09:00",
+    "cluster_id": "9377",
+    "publisher": "투데이광주전남",
+    "title_clean": "광주은행, 사업자보증 설명회 개최…지역 건설경기 활성화 지원",
+    "summary": "광주은행이 한국주택금융공사, 대한주택건설협회와 함께 사업자보증 설명회를 개최하여 건설업체들을 지원했다. 이는 지역 건설경기 활성화를 위한 금융지원 및 정보 제공 활동으로 볼 수 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-07T11:49:23+09:00",
-    "importance": 3
+    "collected_at": "2026-07-13T17:05:30+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
@@ -32129,37 +32162,6 @@
     "title_clean": "전남 전문건설협 신상호·이정준 위원 '국토부 장관상'",
     "summary": "대한전문건설협회 전남도회의 신상호, 이정준 대표이사가 '2026 건설의 날' 기념행사에서 국토교통부장관상을 수상했다. 건설업계 종사자의 공로와 기여를 인정하는 포상 소식이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-09T18:40:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "반도건설, 바로건설기술과 주택 시공 신기술 개발 - 메트로신문",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR29mWEUyN1Z0eXRSZENqdDJWaXZDY2RoSDRSUEljQ0djV25XN0x6RGRlZXlCTnBud2h6ODFYNzVQZURqcktEdlR2aVBhSFRfNl8ydXVCaXJHVVZxWVFHMQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR29mWEUyN1Z0eXRSZENqdDJWaXZDY2RoSDRSUEljQ0djV25XN0x6RGRlZXlCTnBud2h6ODFYNzVQZURqcktEdlR2aVBhSFRfNl8ydXVCaXJHVVZxWVFHMQ?oc=5\" target=\"_blank\">반도건설, 바로건설기술과 주택 시공 신기술 개발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메트로신문</font>",
-    "cluster_id": "5d45",
-    "publisher": "메트로신문",
-    "title_clean": "반도건설, 바로건설기술과 주택 시공 신기술 개발",
-    "summary": "반도건설이 바로건설기술과 협력하여 주택 시공 신기술을 개발하고 있다. 이는 건설업계의 기술 혁신과 시공 효율성 향상을 의미하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T18:40:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "현대건설, 저탄소 조강 콘크리트 기술 국토부 녹색기술 인증 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50709",
-    "description": "현대건설은 콘크리트 양생에 필요한 에너지 사용을 줄이는 '조강 콘크리트 기술'로 국토교통부 녹색기술 인증을 획득했다고 8일 밝혔다.이 기술은 HMG건설기술연구원과 삼표산업이 공동 개발했으며, 5℃ 이상 환경에서 별도의 열 공급 없이 18~24시간 내 5MPa 이상의 강도를 확보할 수 있는 것이 특징이다. 기존 동절기 콘크리트 시공보다 열 공급을 크게 줄이면서도 필요한 강도와 품질을 확보할 수 있다고 회사 측은 설명했다.또 일반 콘크리트 대비 탄소배출량은 55% 이상, 공정 유해물질은 54% 이상 저감 효과가 확인됐으며, 동절기 붕괴",
-    "published_at": "2026-07-09T18:34:33+09:00",
-    "cluster_id": "3a54",
-    "publisher": "기계설비신문",
-    "title_clean": "현대건설, 저탄소 조강 콘크리트 기술 국토부 녹색기술 인증",
-    "summary": "현대건설이 콘크리트 양생 에너지를 줄이는 '조강 콘크리트 기술'으로 국토부 녹색기술 인증을 획득했다. 이 기술은 열 공급 없이 18~24시간 내 필요한 강도를 확보하며, 탄소배출량 55% 이상, 공정 유해물질 54% 이상 저감이 가능하다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-09T18:40:13+09:00",
     "importance": 2
   }
