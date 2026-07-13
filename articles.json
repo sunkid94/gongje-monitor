@@ -4622,6 +4622,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 5852억원 규모 성남 태평3구역 재개발 수주 - kfenews.co.kr",
+    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=660301",
+    "description": "한국금융경제신문=김한나 기자 | IPARK현대산업개발이 코오롱글로벌과 함께 총도급비 9003억원 규모의 경기 성남시 태평3구역 공공재개발 사업을 수주했다. 이 가운데 IPARK현대산업개발의 수주액은 5852억원이다....",
+    "published_at": "2026-07-13T13:50:00+09:00",
+    "cluster_id": "07da",
+    "publisher": "kfenews.co.kr",
+    "title_clean": "IPARK현대산업개발, 5852억원 규모 성남 태평3구역 재개발 수주",
+    "summary": "IPARK현대산업개발이 코오롱글로벌과 함께 경기 성남시 태평3구역 공공재개발 사업을 수주했으며, 총 9003억원 규모 중 5852억원을 수주했다. 이는 건설업계의 수주 확대로 볼 수 있는 긍정적 뉴스다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T13:53:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20574,20 +20590,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, AAA 신용등급으로 3000억 규모 자산유동화증권 발행 - newscape.co.kr",
-    "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123145",
-    "description": "롯데건설이 3000억원대 자산유동화증권에 발행에 성공하며 안정성을 입증했다. 롯데건설은 준공을 앞둔 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 활용해 AAA 신용등급으로 3000억원 규모의...",
-    "published_at": "2026-07-07T09:28:00+09:00",
-    "cluster_id": "9ef0",
-    "publisher": "newscape.co.kr",
-    "title_clean": "롯데건설, AAA 신용등급으로 3000억 규모 자산유동화증권 발행",
-    "summary": "롯데건설이 AAA 신용등급으로 3000억원 규모의 자산유동화증권 발행에 성공했다. 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 활용한 이번 발행은 회사의 높은 신용도를 입증하는 것으로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T09:34:30+09:00",
-    "importance": 2
+    "title": "PF 한파에 건설채 조달도 양극화 [fn마켓워치] - fnnews.com",
+    "link": "http://www.fnnews.com/news/202607081132096310",
+    "description": "부동산 프로젝트파이낸싱(PF) 부실 우려와 건설경기 둔화가 장기화되면서 기업별 신용도는 물론 전환사채(CB), 프라이머리 채권담보부증권(P-CBO) 등 활용 가능한 조달 수단에 따라 자금조달 비용이 크게 벌어지는...",
+    "published_at": "2026-07-13T13:49:00+09:00",
+    "cluster_id": "0e67",
+    "publisher": "fnnews.com",
+    "title_clean": "PF 한파에 건설채 조달도 양극화 [fn마켓워치]",
+    "summary": "PF 부실 우려와 건설경기 둔화로 인해 건설업체들의 자금조달 환경이 악화되고 있으며, 기업 신용도에 따라 조달 비용과 수단의 양극화가 심해지고 있다. 신용도가 낮은 중소 건설사들은 자금조달의 어려움에 직면하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T13:53:50+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32136,21 +32152,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T16:40:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "오산시, 공동주택 건설현장 안전관리 강화…풍수해·폭염 대비 긴급 점검회의 개최 - 여성종합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQ3N4S0R1cjk3bE43T0tGZEdIZ3FqSmVqRDIwWHlhc29LNjRZZ2hnRWUxU3JJTEtZSmVVM0xjZGFXQnhlcmpHWkZjYkRtQlNGMEpuUnIwTllzZw?oc=5",
-    "description": "[여성종합뉴스/표홍기기자] 오산시는 여름철 집중호우와 폭염에 따른 건설현장 안전사고를 예방하기 위해 ..",
-    "published_at": "2026-07-09T05:52:05+09:00",
-    "cluster_id": "4fe4",
-    "publisher": "여성종합뉴스",
-    "title_clean": "오산시, 공동주택 건설현장 안전관리 강화…풍수해·폭염 대비 긴급 점검회의 개최",
-    "summary": "오산시가 여름철 집중호우와 폭염에 대비해 공동주택 건설현장에 대한 안전관리 강화를 위해 긴급 점검회의를 개최했다. 풍수해와 폭염으로 인한 건설현장 안전사고 예방이 목표다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T16:40:11+09:00",
-    "importance": 4
   }
 ]
