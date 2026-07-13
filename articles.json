@@ -20590,6 +20590,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "산업안전 AI '새임', 씨엔티테크서 투자 유치 - platum.kr",
+    "link": "https://platum.kr/archives/290805",
+    "description": "씨엔티테크는 '스마트건설 스타트업 액셀러레이팅 및 오픈 이노베이션' 프로그램을 통해 새임의 사업모델 고도화를 지원해 왔다. 2021년 설립된 새임은 중대재해처벌법 대응 안전경영 ERP와 AI 안전문서·교육콘텐츠 생성...",
+    "published_at": "2026-07-13T12:56:00+09:00",
+    "cluster_id": "8cbd",
+    "publisher": "platum.kr",
+    "title_clean": "산업안전 AI '새임', 씨엔티테크서 투자 유치",
+    "summary": "산업안전 AI 솔루션 '새임'이 씨엔티테크로부터 투자를 유치했으며, 중대재해처벌법 대응 안전경영 ERP와 AI 기반 안전문서·교육콘텐츠 생성 기술을 제공한다. 건설업의 안전관리 디지털화와 규제 대응을 지원하는 기술 혁신 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T13:03:57+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32132,22 +32148,6 @@
     "title_clean": "서부발전, 건설안전학회와 발전소 건설현장 안전관리 강화",
     "summary": "서부발전이 건설안전학회와 협약을 체결하여 발전소 건설현장의 안전관리를 강화하기로 했다. 안전 자문, 교육, 법령 공유, 학술 교류 등 다양한 분야에서 협력을 확대할 예정이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-09T16:20:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[산업소식] 카카오, 사장님 지원 사업 '단골가게' 첫 공모 시작 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2114490",
-    "description": "/ 사진=현대건설 현대건설, H-Safe 오픈이노베이션 데모데이..건설안전 혁신기업 12개사 참여 현대건설이 AI, 확장현실(XR), 사물인터넷(IoT) 등 신기술을 활용한 건설현장 안전관리 솔루션 발굴에 속도를 앤다. 현대건설은...",
-    "published_at": "2026-07-09T12:04:00+09:00",
-    "cluster_id": "61da",
-    "publisher": "4th.kr",
-    "title_clean": "[산업소식] 카카오, 사장님 지원 사업 '단골가게' 첫 공모 시작",
-    "summary": "카카오가 소상공인 지원 사업 '단골가게' 첫 공모를 시작하고, 현대건설이 AI·XR·IoT 등 신기술을 활용한 건설현장 안전관리 솔루션 발굴을 위해 H-Safe 오픈이노베이션 데모데이를 개최했다. 건설업계에서 기술 혁신과 안전관리 고도화가 추진되고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-09T16:20:17+09:00",
     "importance": 2
   }
