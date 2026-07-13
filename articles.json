@@ -20673,6 +20673,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "천안 건축공사장 태풍 대비 점검… 타워크레인 안전관리 강화 - 아산데일리",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UOWhSZGRwUy12Wm0xcWtLeWN2SUhmdFVuVnNhWU1pYUY1bUwySkNmaDU5cmhDcS0taHpScmdaNmR2TTVUcG51eUhCUmVfeHpDRTFB?oc=5",
+    "description": "장마가 지나자마자 폭염과 국지성 호우, 태풍 가능성이 이어지는 가운데 천안시가 대형 건축공사장을 대상으로 안전점검에 들어갔다. 공사장 안전사고는 한 번 발생하면 인명피해와 교통 통제, 주변 상권 피해까지 이어질 수 있는 만큼 사전 예방이 무엇보다 중요하다는 판단이다.천안시는 13일부터 24일까지 타워크레인 등 대형 건설장비가 설치된 건축공사장 10곳을 대상으로 집중 안전점검을 실시한다. 첫 점검은 성정동 일원의 아파트와 오피스텔 건설 현장에서 진행됐으며, 시 건축과와 공동주택과가 합동점검반을 구성해 현장 전반을 살핀다. 이번 점검은",
+    "cluster_id": "f7b6",
+    "publisher": "아산데일리",
+    "title_clean": "천안 건축공사장 태풍 대비 점검… 타워크레인 안전관리 강화",
+    "summary": "천안시가 태풍 대비를 위해 타워크레인 등 대형 건설장비가 설치된 건축공사장 10곳을 대상으로 13일부터 24일까지 집중 안전점검을 실시한다. 공사장 안전사고 예방을 위해 시 건축과와 공동주택과가 합동점검반을 구성해 현장 전반을 점검한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T15:59:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32143,22 +32158,6 @@
     "publisher": "뉴스밸류",
     "title_clean": "[심층진단] '원가 절감' 넘어 'ESG 시공'으로…반도건설, 협력사와 개발한 현장 신기술이 건설업 생산성을 바꿀까",
     "summary": "건설업계가 숙련공 부족, 중대재해, ESG 경영이라는 과제 해결을 위해 표준화 시공기술 개발 경쟁을 본격화하고 있다. 반도건설이 협력사와 개발한 현장 신기술이 생산성 향상과 안전성 강화를 동시에 추진하는 산업 변화의 사례로 제시되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T18:19:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "'건설사의 날' 건설업계 \"AI 인프라 기술 도입 확산\" 한 목소리 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDVlR2QlZRbXhCYllxdUQtUnpFUzJGZnNSSXNhcW94b3VkNEpJOHZHbnFLRC1PN3A2bF8ycWtjbVJmSWFscHJBbnEzMHlQUVlXN01V?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 한승구 대한건설단체총연합회 회장이 9일 서울 강남구 논현동 건설회관에서 열린",
-    "published_at": "2026-07-09T18:08:00+09:00",
-    "cluster_id": "a5d7",
-    "publisher": "네이트",
-    "title_clean": "'건설사의 날' 건설업계 \"AI 인프라 기술 도입 확산\" 한 목소리",
-    "summary": "건설업계가 '건설사의 날'을 맞아 AI 인프라 기술 도입 확산의 필요성을 강조하고 있다. 한승구 대한건설단체총연합회 회장 등 업계 지도자들이 디지털 혁신과 기술 고도화를 통한 산업 경쟁력 강화를 목표로 하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T18:19:44+09:00",
     "importance": 2
