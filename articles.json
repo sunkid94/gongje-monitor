@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비협회, 대학 지원금 두 배로…올해 2억 원 규모 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3634899",
+    "description": "대한기계설비협회(회장 허용주)는 13일, 전국 9개 기계설비 관련 대학교에 전문 인력 양성을 위한 지원금을 전달한다고 발표했다. 기계설비협회는 지난 2024년부터 각 대학의 교육 환경 개선과 경쟁력 강화를 목적으로...",
+    "published_at": "2026-07-13T23:34:00+09:00",
+    "cluster_id": "a18e",
+    "publisher": "gukjenews.com",
+    "title_clean": "기계설비협회, 대학 지원금 두 배로…올해 2억 원 규모",
+    "summary": "대한기계설비협회가 전국 9개 기계설비 관련 대학에 올해 2억 원 규모의 지원금을 전달하며 지난 2024년부터 시작한 대학 지원을 확대했다. 교육 환경 개선과 전문 인력 양성을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T23:40:06+09:00",
+    "event_label": "대한기계설비건설협회 대학 지원금 확대(2억 원 규모)",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32147,22 +32164,6 @@
     "summary": "메이사가 국토교통부의 'AX 스프린트' 사업에 40억 규모로 선정되어 건설 현장의 리스크 관리를 AI 기술로 수행하게 된다. 이는 건설산업에 AI 기술 도입을 확대하고 안전성을 강화하는 긍정적 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-07-10T09:04:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "미래를 짓는 K-건설, ‘2026 건설의 날’기념식 개최 - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DOTJUTGx5Z0dhTHFfWHQ0V1dvOEhMRVYxYy1DQUszeXVOUDhMQjlzYnc1TVk5OGsxWmNjc0g5cWdVVDA?oc=5",
-    "description": "한승구 대한건설단체총연합회 회장이 9일 건설회관 CG아트홀에서 개최한 ‘2026 건설의 날’ 기념식에서 기념사를 하고 있다.(사진제공=건설협회)매일건",
-    "published_at": "2026-07-09T18:52:00+09:00",
-    "cluster_id": "1ee7",
-    "publisher": "매일건설신문",
-    "title_clean": "미래를 짓는 K-건설, ‘2026 건설의 날’기념식 개최",
-    "summary": "한승구 대한건설단체총연합회 회장이 9일 건설회관에서 '2026 건설의 날' 기념식을 개최했다. 건설업계의 미래 발전과 단합을 다루는 업계 행사이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-10T08:59:29+09:00",
     "importance": 2
   }
 ]
