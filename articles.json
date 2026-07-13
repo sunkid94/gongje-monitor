@@ -20573,6 +20573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천 상장기업 중 바이오·반도체 호조 '영업이익 47% 증가'... 업종별 양... - incheonnews.com",
+    "link": "http://www.incheonnews.com/news/articleView.html?idxno=438185",
+    "description": "밀착형 금융 지원이 필요하며, 질적 성장을 위한 성장 단계별 맞춤형 지원을 강조했다. 마지막으로 건설경기 부진 장기화에 대응하기 위한 공공 프로젝트 발주 시 지역업체 참여 확대 등 실효성 있는 정책을 요청했다.",
+    "published_at": "2026-07-13T12:24:00+09:00",
+    "cluster_id": "1dda",
+    "publisher": "incheonnews.com",
+    "title_clean": "인천 상장기업 중 바이오·반도체 호조 '영업이익 47% 증가'... 업종별 양...",
+    "summary": "인천 상장기업 중 바이오·반도체 등 일부 업종의 호조로 영업이익이 47% 증가했으나, 건설경기 부진이 장기화되고 있다. 건설업계는 밀착형 금융 지원과 성장 단계별 맞춤형 지원, 공공 프로젝트에서의 지역업체 참여 확대 등 실효성 있는 정책을 요청하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T12:28:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32133,22 +32149,6 @@
     "summary": "대한건설단체총연합회가 '2026 건설의 날' 기념식에서 AI·로봇 기술 접목 스마트 건설, 청년 인재 육성, 대규모 프로젝트 추진을 통해 건설산업을 국가 성장 동력으로 육성하겠다는 미래 비전을 제시했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T16:09:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설의 날 맞아 정부포상…AI·스마트건설로 미래 혁신 제시 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202607091420273590",
-    "description": "정부와 건설업계가 9일 '2026 건설의 날'을 맞아 인공지능(AI)과 스마트건설을 중심으로 건설산업의 미래 혁신 방향을 제시했다. 건설산업 발전에 기여한 유공자 107명에게는 훈·포장 등 정부포상이 수여됐으며, 전국...",
-    "published_at": "2026-07-09T16:01:00+09:00",
-    "cluster_id": "39c2",
-    "publisher": "fnnews.com",
-    "title_clean": "건설의 날 맞아 정부포상…AI·스마트건설로 미래 혁신 제시",
-    "summary": "정부와 건설업계가 건설의 날을 맞아 AI와 스마트건설을 중심으로 산업 혁신 방향을 제시했다. 건설산업 발전에 기여한 107명에게 정부포상을 수여하며 업계 활성화를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T16:04:59+09:00",
     "importance": 2
   }
 ]
