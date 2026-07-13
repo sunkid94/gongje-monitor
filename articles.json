@@ -20841,6 +20841,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"더워도 일은 해야지\"…폐지 할머니 등 폭염 속 거리로 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008656017&plink=ORI&cooper=NAVER",
+    "description": "근처 골목에서 공사 중인 건설 노동자들도 중간중간 생수를 들이켰지만, 더위에 지친 모습입니다. 흐르는 땀을 수건으로 닦던 한 인부는 '덥지 않냐'는 질문에 \"나는 일하는 사람인데 일해야지\"라고 짧게 대답하고는 다시...",
+    "published_at": "2026-07-14T06:41:00+09:00",
+    "cluster_id": "73e3",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "\"더워도 일은 해야지\"…폐지 할머니 등 폭염 속 거리로",
+    "summary": "폭염 속에서도 건설 현장의 노동자들이 작업을 계속하고 있는 현황을 다룬 기사. 극한의 기후 환경에서 건설업 종사자들이 안전 위협에 노출되어 있는 상황을 보도.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T06:50:03+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32149,22 +32165,6 @@
     "summary": "김종양 의원이 건설현장에서의 휴대전화 사용 제한을 안전관리계획에 명문화하고 위험작업 중 사용을 금지하는 법안을 추진 중입니다. 이는 건설현장 안전 강화를 위한 규제 강화 조치입니다.",
     "sentiment": "negative",
     "collected_at": "2026-07-10T10:14:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "문진석 의원, '깜깜이 총액계약 방지법' 발의 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50747",
-    "description": "공사 수주과정에서 고질적인 병폐로 지적되던 '총액계약'의 부작용을 막기 위한 법 개정이 추진된다. 문진석... 내용의 '건설산업기본법' 일부개정안을 지난 8일 대표발의했다고 밝혔다. 개정안은 도급금액을 명시할 때...",
-    "published_at": "2026-07-10T10:00:00+09:00",
-    "cluster_id": "1ff2",
-    "publisher": "기계설비신문",
-    "title_clean": "문진석 의원, '깜깜이 총액계약 방지법' 발의",
-    "summary": "문진석 의원이 공사 수주과정의 고질적 병폐인 '총액계약'의 부작용을 방지하기 위해 '건설산업기본법' 일부개정안을 발의했다. 도급금액 명시 등을 통해 투명성을 강화하는 내용으로 업계의 구조적 문제 개선을 목표로 한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-10T10:04:10+09:00",
     "importance": 4
   }
 ]
