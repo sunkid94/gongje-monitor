@@ -20841,6 +20841,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[분석] 폭염 속 건설·일용직 현장 안전, 인력사무소의 책임과 역할 재정립해야 - 아웃소싱타임스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IX1NVVXlYZ2dsNUdmZmZkbTFhdTJPc05rZmF3SFlMNWtPejJEZFRsREd4SEZMemtSUkhpUk1lUGRLVElVRmxGOUctSnVubU4wZjYwLUNNSFBhZHBFdFRJaUtpNDNSdktuQmNaSzZFYnp4dw?oc=5",
+    "description": "[아웃소싱타임스 김민수 기자] 폭염 속 건설 현장에 일용근로자를 보내는 인력사무소의 역할을 단순한 취업 알선에만 머물게 해서는 안 된다는 지적이 나온다. 현장 안",
+    "published_at": "2026-07-14T06:36:30+09:00",
+    "cluster_id": "19e9",
+    "publisher": "아웃소싱타임스",
+    "title_clean": "[분석] 폭염 속 건설·일용직 현장 안전, 인력사무소의 책임과 역할 재정립해야",
+    "summary": "폭염 속 건설 현장의 일용근로자 안전 문제를 지적하며, 인력사무소가 단순 취업 알선을 넘어 현장 안전 관리에 대한 책임과 역할을 재정립해야 한다는 주장을 제기하고 있다. 건설업계의 근로자 보호 체계 강화 필요성을 강조하는 기사다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T06:44:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32150,21 +32166,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-10T10:04:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "2026 건설의 날…\"AI로 혁신, 미래를 짓는 K 건설\" - mbn.mk.co.kr",
-    "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5205041",
-    "description": "정부와 건설업계가 '2026 건설의 날'을 맞아 인공지능 AI와 스마트건설을 중심으로 건설산업의 미래 혁신 방향을 제시했습니다. 국토교통부와 대한건설단체총연합회는 '미래를 짓는 K 건설'을 주제로 올해로 36회째를 맞는...",
-    "published_at": "2026-07-10T10:01:00+09:00",
-    "cluster_id": "743a",
-    "publisher": "mbn.mk.co.kr",
-    "title_clean": "2026 건설의 날…\"AI로 혁신, 미래를 짓는 K 건설\"",
-    "summary": "정부와 건설업계가 2026 건설의 날을 맞아 AI와 스마트건설을 중심으로 건설산업의 미래 혁신 방향을 제시했습니다. '미래를 짓는 K 건설'이라는 주제로 36회째 행사를 개최하며 산업 고도화 방향을 모색하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-10T10:04:10+09:00",
-    "importance": 2
   }
 ]
