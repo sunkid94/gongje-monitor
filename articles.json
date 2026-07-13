@@ -20841,6 +20841,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[Who Is ?] 유경선 유진그룹 회장 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441580",
+    "description": "△2년 연속 매출 두 자릿수 감소, 적자 지속 유진기업이 건설경기 불황의 여파로 2024년에 이어 2025년에도 순손익 적자를 기록했다. 레미콘 업계는 1997년 IMF 외환위기 이래 최대의 불황에 시달리고 있다. 유진기업은...",
+    "published_at": "2026-07-14T07:00:00+09:00",
+    "cluster_id": "9759",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[Who Is ?] 유경선 유진그룹 회장",
+    "summary": "유진그룹 유경선 회장의 유진기업이 2년 연속 매출 감소와 적자를 기록하며 건설경기 불황에 직면했다. 레미콘 업계는 1997년 IMF 외환위기 이후 최악의 경기 침체를 겪고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T07:04:52+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "KB금융-중진공, 중소기업 산업안전 지원 확대 - lcnews.co.kr",
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204883",
+    "description": "건설현장 안전을 위한 스마트 안전장비 보급도 추진된다. 산업용 스마트 추락보호 에어백은 작업자가 추락할 경우 지면에 닿기 전 자동으로 팽창해 충격을 줄여주는 장비다. 이번 사업을 통해 건설현장 5곳에 공급됐으며...",
+    "published_at": "2026-07-14T06:58:00+09:00",
+    "cluster_id": "3dbb",
+    "publisher": "lcnews.co.kr",
+    "title_clean": "KB금융-중진공, 중소기업 산업안전 지원 확대",
+    "summary": "KB금융과 중진공이 중소기업의 산업안전 지원을 확대하며 스마트 안전장비 보급을 추진 중이다. 건설현장에 추락보호 에어백 등 첨단 안전장비를 공급하여 작업자 안전성을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T07:04:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32134,37 +32166,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-10T10:29:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 경제 비상상황 선언…산업구조 대개조 착수 - thepowernews.co.kr",
-    "link": "https://www.thepowernews.co.kr/view.php?ud=202607100927396107f88a455ae8_7",
-    "description": "건설경기 활성화, 내수 촉진, 청년 눈높이에 맞춘 종합정책 수립 필요성도 제기됐다. 비상경제대책회의는 산업구조 대개조, 민생경제, 도시활력 등 3개 분야로 운영된다. 기존 공무원 중심 논의에서 벗어나 유관기관...",
-    "published_at": "2026-07-10T10:14:00+09:00",
-    "cluster_id": "9834",
-    "publisher": "thepowernews.co.kr",
-    "title_clean": "대구시, 경제 비상상황 선언…산업구조 대개조 착수",
-    "summary": "대구시가 경제 비상상황을 선언하고 산업구조 대개조에 착수했다. 건설경기 활성화, 내수 촉진, 청년 일자리 창출 등을 포함한 3개 분야의 종합정책을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-10T10:19:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김종양 의원, 건설현장 휴대전화 사용 제한 명문화 추진 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12TTZ0WFlEd2hobGdVWE9QbTA3eG9OejhxaHFHVVVOUUtzaEFEMVVZWUFqMG1KZmtyUThBbFFlblR0MFBkN1dWLUZLci16SFV5eGtTdjJVc1R3UWdIMHc0QkI5MUJlb1V0SjY4MQ?oc=5",
-    "description": "국회 국토교통위원회 김종양 국민의힘 의원은 건설현장 작업 중 휴대전화 사용 제한을 안전관리계획에 반영하고, 위험작업 중 휴대전화 사용을 금지하는 내용을 담은 '건",
-    "published_at": "2026-07-10T10:06:49+09:00",
-    "cluster_id": "3c92",
-    "publisher": "기계설비신문",
-    "title_clean": "김종양 의원, 건설현장 휴대전화 사용 제한 명문화 추진",
-    "summary": "김종양 의원이 건설현장에서의 휴대전화 사용 제한을 안전관리계획에 명문화하고 위험작업 중 사용을 금지하는 법안을 추진 중입니다. 이는 건설현장 안전 강화를 위한 규제 강화 조치입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-10T10:14:14+09:00",
-    "importance": 4
   }
 ]
