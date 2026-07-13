@@ -20790,6 +20790,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "서한, 국토부 '상호협력평가' 최우수 등급 - idaegu.co.kr",
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=553742",
+    "description": "이에 따라 서한은 △조달청 공공입찰 참가 자격 사전심사 가점 부여 △시공능력평가액 6% 가산 △건설산업기본법상 벌점 0.5점 감경 등의 혜택이 주어진다. 서한은 이와는 별도로 대구시에서 주최한 '2026 워라밸 경영기업...",
+    "published_at": "2026-07-13T21:34:00+09:00",
+    "cluster_id": "1cf9",
+    "publisher": "idaegu.co.kr",
+    "title_clean": "서한, 국토부 '상호협력평가' 최우수 등급",
+    "summary": "서한이 국토부 '상호협력평가'에서 최우수 등급을 획득하여 조달청 공공입찰 가점, 시공능력평가액 가산, 벌점 감경 등의 혜택을 받게 되었다. 이는 건설기업의 우수 경영 성과에 대한 긍정적 평가로, 건설업계의 좋은 사례를 제시한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T21:40:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32147,21 +32163,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-10T08:39:17+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "하남 교산신도시 8년 표류…정부·LH·정치권 하남시 누구 책임인가 - discoverynews.kr",
-    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1095688",
-    "description": "여기에 공사비 상승과 건설경기 둔화, 안전기준 강화에 따른 설계 변경도 사업 지연을 가중시킨 요인으로 분석된다. 사업이 장기화되면서 정부와 정치권, 하남시를 둘러싼 책임론도 제기되고 있다. 정부는 공급 일정...",
-    "published_at": "2026-07-10T08:30:00+09:00",
-    "cluster_id": "7f13",
-    "publisher": "discoverynews.kr",
-    "title_clean": "하남 교산신도시 8년 표류…정부·LH·정치권 하남시 누구 책임인가",
-    "summary": "하남 교산신도시 개발사업이 8년간 지연되고 있으며, 공사비 상승, 건설경기 둔화, 안전기준 강화에 따른 설계 변경 등이 주요 원인으로 지적되고 있다. 정부, LH, 정치권, 하남시 간 책임론이 제기되며 사업의 장기화가 문제가 되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-10T08:34:10+09:00",
-    "importance": 4
   }
 ]
