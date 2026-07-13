@@ -4843,6 +4843,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "조선업 현장 고질적 문제 노사정 함께 푼다 - ksilbo.co.kr",
+    "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062059",
+    "description": "발족식에는 전국민주노동조합총연맹(민주노총)과 한국노동조합총연맹(한국노총) 등 양대 노총이 모두 참여했으며, 한국조선해양플랜트협회와 함께 HD현대중공업, 삼성중공업, 한화오션 등 주요 조선사가 참여했다....",
+    "published_at": "2026-07-14T00:04:00+09:00",
+    "cluster_id": "f772",
+    "publisher": "ksilbo.co.kr",
+    "title_clean": "조선업 현장 고질적 문제 노사정 함께 푼다",
+    "summary": "조선업계의 노사 갈등과 안전 문제 해결을 위해 민주노총, 한국노총 등 양대 노총과 HD현대중공업, 삼성중공업, 한화오션 등 주요 조선사가 참여한 노사정 협의체가 발족했다. 고질적 산업 문제 개선을 위한 협력 체계를 구축한 것으로, 업계 안정화에 긍정적 신호로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T00:10:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20787,22 +20803,6 @@
     "title_clean": "\"목동 재건축 기준된다\"…7단지에 줄서는 대형 건설사들",
     "summary": "목동 14개 단지 동시다발 재건축 추진으로 삼성물산, 현대건설, GS건설, 롯데건설 등 대형 건설사들이 7단지 시공사 선정 입찰에 참여를 검토하고 있다. 대규모 재건축 프로젝트로 인한 건설사들의 수주 기회 증가가 예상된다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-07T14:39:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, ABS 발행으로 3000억 추가 조달 - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12071579?ref=naver",
-    "description": "롯데건설이 공사대금채권을 통해 3000억원을 추가 조달했다. 롯데건설은 준공이 임박한 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 활용해 AAA 신용등급으로 3000억원의 자산유동화증권 발행에...",
-    "published_at": "2026-07-07T14:30:00+09:00",
-    "cluster_id": "30c1",
-    "publisher": "dt.co.kr",
-    "title_clean": "롯데건설, ABS 발행으로 3000억 추가 조달",
-    "summary": "롯데건설이 준공 임박 주택사업장과 계열사 건축사업장의 공사대금채권을 활용해 AAA 등급의 자산유동화증권(ABS) 3000억원을 발행했다. 이는 건설사의 자금조달 수단 다양화를 보여주는 사례다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-07T14:39:52+09:00",
     "importance": 2
   },
