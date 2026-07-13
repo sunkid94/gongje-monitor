@@ -20535,6 +20535,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "AI가 균열 찾고 드론이 점검···국토부, 스마트건설 실증기술 10건 선정 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325247",
+    "description": "공동주택 균열을 인공지능(AI)이 찾아내고 건설현장 위험작업을 자동으로 탐지하거나 레미콘 품질을 실시간 관리하는 스마트건설 기술이 실제 건설현장에서 실증된다.국토교통부와 한국건설기술연구원은 ‘2026 스마트건설 얼라이언스 기술실증 지원사업’ 대상 10개 기술과 스마트건설 강소기업 12개사를 선정했다고 13일 밝혔다. 기술력을 갖췄지만 실증 기회가 부족한 중소기업에 대·중견 건설사의 실제 현장을 제공해 기술을 검증하는 사업으로, 올해는 기업당 지원 규모를 최대 2500만원으로 확대해 하반기 6개월 동안 현장 실증을 진행한다.수요기반형",
+    "published_at": "2026-07-13T09:53:30+09:00",
+    "cluster_id": "9525",
+    "publisher": "대한전문건설신문",
+    "title_clean": "AI가 균열 찾고 드론이 점검···국토부, 스마트건설 실증기술 10건 선정",
+    "summary": "국토부가 AI 균열 감지, 드론 점검 등 스마트건설 기술 10건을 선정해 실증 지원사업을 추진한다. 기업당 최대 2,500만원을 지원하여 중소기업의 혁신기술이 실제 건설현장에서 검증될 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T09:56:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32129,22 +32145,6 @@
     "title_clean": "HS화성, 건설현장 위험성평가 운영 성과로 전국 대회 수상",
     "summary": "HS화성이 건설현장 위험성평가 운영 성과로 '2026년 위험성평가 우수사례 발표대회' 건설업 대규모 부문에서 장려상을 수상했다. 고용노동부와 한국산업안전보건공단이 주관한 대회에서 사업장의 위험성평가 우수사례를 인정받은 것으로, 건설업계의 안전관리 수준 향상을 보여주는 사례다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-09T13:10:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 건설안전 혁신기술 실증 및 협업 성과 공유 - 디스커버리뉴스(DISCOVERYNEWS)",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WOVlsUFNxWWEtSlVEbzk0bjlDWldfVzhiNmZqYVhmVHdyVFEtMVZIVmZEREJVU1RGTW41b1dFWWhDdmZMMjRWM1hfazAwdUpEOEFPaEYyYlNKUFAyMC1ESGtkUWZXd1VqNmNUMllCVW1Ndw?oc=5",
-    "description": "[디스커버리뉴스=강성덕 기자 ecowrite@daum.net]현대건설이 건설안전 분야 혁신기술의 현장 적용을 확대하고 오픈이노베이션 생태계 조성을 위해 스타트업과의 협력을 강화하고 있다.현대건설은 8일 서울 마포구 스타트업 벤처 캠퍼스 서울에서 ‘2026 H-Safe 오픈이노베이션 데모데이’를 개최했다고 밝혔다.이번 행사는 건설 현장의 안전문화 확산과 안전 혁신기술의 실질적 적용을 촉진하기 위해 마련됐다. 지난 3월 진행된 ‘2026 H-Safe 오픈이노베이션 챌린지’를 통해 선발된 스타트업과 기존 프로그램을 통해 발굴된 건설안전",
-    "published_at": "2026-07-09T12:52:28+09:00",
-    "cluster_id": "1c25",
-    "publisher": "디스커버리뉴스(DISCOVERYNEWS)",
-    "title_clean": "현대건설, 건설안전 혁신기술 실증 및 협업 성과 공유",
-    "summary": "현대건설이 건설안전 혁신기술의 현장 적용 확대를 위해 '2026 H-Safe 오픈이노베이션 데모데이'를 개최했다. 스타트업과의 협력을 강화하여 안전문화 확산과 안전기술 실용화를 추진하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-09T13:10:03+09:00",
     "importance": 2
   }
