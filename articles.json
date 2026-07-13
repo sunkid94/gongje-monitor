@@ -20823,6 +20823,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 기업 10곳 중 7곳 올해 상반기 실적 ‘미달’ - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1783924672&code=11131419&cp=nv",
+    "description": "그러나 건설수주액이 전년 동기 대비 78.1% 감소했다. 박윤경 대구상의 회장은 “하반기에도 복합적인 경영 리스크가 이어질 것으로 예상되는 만큼 기업 애로 해소와 경쟁력 강화를 위한 정책 발굴·지원 확대가...",
+    "published_at": "2026-07-14T00:25:00+09:00",
+    "cluster_id": "beac",
+    "publisher": "kmib.co.kr",
+    "title_clean": "대구 기업 10곳 중 7곳 올해 상반기 실적 ‘미달’",
+    "summary": "대구 기업 10곳 중 7곳이 올해 상반기 실적을 기록하지 못했으며, 특히 건설수주액이 전년 동기 대비 78.1% 급감했다. 업계 관계자는 하반기에도 경영 리스크가 지속될 것으로 우려하며 정책 지원 확대를 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T00:30:07+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32147,22 +32163,6 @@
     "title_clean": "서부발전, 건설안전학회와 맞손…발전소 건설현장 안전역량 강화",
     "summary": "서부발전이 건설안전학회와 협약을 체결하여 발전소 건설현장의 안전관리 자문, 교육, 정책 동향 공유 등을 협력하기로 했다. 양 기관은 건설안전 역량 강화를 위해 학술행사 개최와 연구자료 교류도 추진할 예정이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-10T09:19:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반도건설, 협력사와 시공 안전·품질 신기술 3종 개발 - 더퍼블릭",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpUk1lQkNvaTQyY2FsTENPNDdTUXNxeU13Snd3a25OR29zZ1pTbmxyNHlIampWYVk5cHo2d0hfaWhHT2JyeWtGc3lLVlFtbkl6UzdDUXg4NExWOGlrLTQ3bXN6UWRjMEVITk800gFvQVVfeXFMTmd5OFg5QTZJZzlpMkhQWnE3Ri1PYUotdGJGVWltVkNlMWpscGlZdXliOE5fTDhCbWNLWXpBZ2pySVdJcHFfOEFwSWNJM0JwWkM2azdnUlhiMEh1YVpzWGNqaDhBRGNjY1JWQzhsV21N?oc=5",
-    "description": "[더퍼블릭=홍찬영 기자] 반도건설이 협력사 바로건설기술과 시공 현장 안전은 물론 시공 품질 향상에 효과적인 신기술 개발을 위해 공동 기술 개발 업무 협약을 체결했다고 9일 밝혔다.반도건설은 협력사 바로건설기술과 함께 ‘꺾임부 보강재·기초보강재·연속바체어’ 신기술 3종의 공동 기술 개발",
-    "published_at": "2026-07-10T09:04:45+09:00",
-    "cluster_id": "217c",
-    "publisher": "더퍼블릭",
-    "title_clean": "반도건설, 협력사와 시공 안전·품질 신기술 3종 개발",
-    "summary": "반도건설이 협력사 바로건설기술과 함께 시공 안전 및 품질 향상을 위한 신기술 3종(꺾임부 보강재, 기초보강재, 연속바체어) 공동 개발 협약을 체결했다. 이는 현장 안전성 강화와 시공 품질 개선을 목표로 한 기술 혁신 추진이다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-10T09:19:15+09:00",
     "importance": 2
   }
