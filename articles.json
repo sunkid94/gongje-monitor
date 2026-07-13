@@ -20840,6 +20840,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인테리어 '고급화' 바람 분다…하이엔드 시장서 돌파구 찾는 건자재업계 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/news-detail/2026071312194525198",
+    "description": "전방산업인 건설경기 침체 장기화로 고전하고 있는 건축자재업계가 '하이엔드'(high-end, 최고급) 시장에서 돌파구를 찾고 있다. 인테리어에 대한 소비자 관심이 전반적으로 높아지면서 요구사항이 보다 더 세분화되고...",
+    "published_at": "2026-07-14T06:06:00+09:00",
+    "cluster_id": "4634",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "인테리어 '고급화' 바람 분다…하이엔드 시장서 돌파구 찾는 건자재업계",
+    "summary": "건설경기 침체로 어려움을 겪는 건축자재업계가 하이엔드 시장을 새로운 성장 기회로 주목하고 있다. 소비자의 인테리어에 대한 관심 증가와 세분화된 수요를 바탕으로 고급화 전략을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T06:10:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32146,22 +32162,6 @@
     "publisher": "news.bbsi.co.kr",
     "title_clean": "제주도, 도지사 직속 '민생경제 상황실' 가동…경제위기 선제 대응",
     "summary": "제주도가 도지사 직속 민생경제 상황실을 가동하여 경제위기에 선제 대응하기로 결정했습니다. 건설경기 활성화반을 포함한 4개 실무반을 구성하여 분야별 대응에 나설 예정입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-10T09:59:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[특별기고-김해현]건설현장 안전관리의 핵심 시간인 TBM을 어떻게 활용할 것인가 - 안전신문",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDVUdDSC1EdG4wT0VqLVBCR1pZWVNnekd2YWVhTUpZMGl3Ml9VMUR5eU82QlhsLThHZEJCakV5THdDUVJGVXFfS213TXVZRlk0VjljWU15WFA3VGYyckVkc0hHU1B4Y2pXNEg3TkxoRQ?oc=5",
-    "description": "건설현장 하루의 안전관리는 TBM(Tool Box Meeting)으로부터 시작된다. 현장 전체의 작업 전 TBM활동의 결과가 그 날 작업의 위험을 낮출 수도 있고 반대로 형식적인 활동에 그치면 가장 중요한 재해 예방의 기회를 놓칠 수도 있다. 흔히 TBM을 안전조회나 전달사항 확인 정도로 생각할 수 있지만, 실제 현장에서 TBM은 그보다 훨씬 큰 의미를 가진다. 건설현장은 매일 공정이 바뀌고, 투입 인력과 장비가 달라지며 개별 근로자의 동선도 수시로 변한다. 어제 안전했던 통로가 오늘은 자재로 막혀 위험구간이 될 수 있고 어제 없던",
-    "published_at": "2026-07-10T09:45:18+09:00",
-    "cluster_id": "fb40",
-    "publisher": "안전신문",
-    "title_clean": "[특별기고-김해현]건설현장 안전관리의 핵심 시간인 TBM을 어떻게 활용할 것인가",
-    "summary": "건설현장의 일일 안전관리 시작점인 TBM(Tool Box Meeting)의 중요성을 강조하는 기고문으로, 형식적 활동이 아닌 실질적인 위험 예방 수단으로 활용할 것을 제안합니다. 매일 변화하는 건설현장의 공정, 인력, 장비 변동에 대응하여 TBM을 효과적으로 운영해야 재해 예방 기회를 살릴 수 있음을 지적합니다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-10T09:59:29+09:00",
     "importance": 2
