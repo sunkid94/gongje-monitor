@@ -4605,6 +4605,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 회장, 인도네시아에 'AI 데이터센터' 융복합 개발 제안 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZanViZ2s4NmZxZk56TU16aHRYYVkyNnAxTjlrNlhqOVVBN2ZjT3NfN2RSRzdlM0dlTnpkdW1ueTNVUUtvbjJEZkNDSS1jV0IxRldzNXdkUWdVcFAwWGg3QtIBeEFVX3lxTFBzSmpjby1DdXdNTHp5Y19CNTZVNTVVVlNWVFVGQkt2SFRMaXRnQmtvOFM4d0hZTjVxZU5rWk9IZHlVbTRmQjR1dmNjNGZybm01a1lfSEtqSG5qdG5ZUjBKc2pwamZtQmhPVi1kaXpGVm5XQk1LSnZjYw?oc=5",
+    "description": "[서울=뉴시스]정유선 기자 = 대우건설은 정원주 회장이 지난 7일부터 11일까지 인도네시아 자카르타를 방문해 현지 정·관계 인사, 주요 개발사와 미래 사업 협력 방안을 논의했다고 13일 밝혔다.이번 방문에서 정 회장은 수긍 수파르워토 하원 에너지위원장과 토도투아 파사리부 투자·다운스트림부 차관을 만나 대우건설의 LNG 플랜트·에너지 인프라 분야 시공 경험과..",
+    "published_at": "2026-07-13T11:46:12+09:00",
+    "cluster_id": "74d9",
+    "publisher": "뉴시스",
+    "title_clean": "대우건설 회장, 인도네시아에 'AI 데이터센터' 융복합 개발 제안",
+    "summary": "대우건설 정원주 회장이 인도네시아를 방문하여 현지 정·관계 인사 및 개발사와 미래 사업 협력 방안을 논의했다. LNG 플랜트·에너지 인프라 분야의 시공 경험을 바탕으로 AI 데이터센터 융복합 개발을 제안하며 신규 사업 기회를 모색했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T12:23:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20557,19 +20573,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대출·공사비 쇼크에 '분담금 납부 유예' 파격 제안 성행 - housingherald.co.kr",
-    "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=62139",
-    "description": "강남구 개포우성7차 재건축 수주전에서는 대우건설이 시공사가 직접 리스크를 안는 방식으로 분담금 최소화 전략과 함께 장기 유예 혜택을 전면에 내세웠다. 지방 핵심 사업지 역시 예외는 아니다. 부산 수영구 민락1구역...",
-    "published_at": "2026-07-07T09:00:00+09:00",
-    "cluster_id": "e45f",
-    "publisher": "housingherald.co.kr",
-    "title_clean": "대출·공사비 쇼크에 '분담금 납부 유예' 파격 제안 성행",
-    "summary": "건설사들이 재건축·재개발 수주전에서 분담금 납부 유예 등 파격적인 조건을 제시하며 수주 경쟁을 심화시키고 있다. 대출금 증가와 공사비 상승으로 인한 수익성 악화 속에서 업계가 리스크를 떠안으면서까지 수주 확보에 나서는 상황이다.",
+    "title": "청주시, 폭염 대응체계 강화로 시민 안전 확보 - viva100.com",
+    "link": "https://www.viva100.com/article/20260713500580",
+    "description": "이번 대책은 취약계층 지원과 폭염 저감시설 운영, 농업 및 건설현장 안전관리 등을 포함한 ‘2026년 폭염 종합대책’의 일환으로 추진된다. 시는 폭염 기간 동안 시민들이 안전하게 더위를 피할 수 있도록 무더위쉼터...",
+    "published_at": "2026-07-13T12:18:00+09:00",
+    "cluster_id": "76a3",
+    "publisher": "viva100.com",
+    "title_clean": "청주시, 폭염 대응체계 강화로 시민 안전 확보",
+    "summary": "청주시가 2026년 폭염 종합대책을 추진하며 취약계층 지원과 폭염 저감시설 운영, 건설현장 안전관리를 강화한다. 건설현장 안전관리 강화로 인한 규제 강화는 건설업계에 추가 비용 부담을 초래할 수 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-07-07T09:04:44+09:00",
+    "collected_at": "2026-07-13T12:23:38+09:00",
     "importance": 4
   },
   {
@@ -32134,21 +32150,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T16:04:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "목화 삼성물산 단독으로 유찰…여의도 재건축 수주전 다음 승부는 - viva100.com",
-    "link": "https://www.viva100.com/article/20260709501145",
-    "description": "최인식 목화아파트 재건축조합장은 단독 입찰 배경에 대해 “최근 건설경기 침체로 건설사들의 현금 여력이 충분하지 않은 데다 입찰보증금 300억원을 전액 현금으로 납부해야 하는 조건도 부담으로 작용했을 수 있을...",
-    "published_at": "2026-07-09T15:54:00+09:00",
-    "cluster_id": "3cdc",
-    "publisher": "viva100.com",
-    "title_clean": "목화 삼성물산 단독으로 유찰…여의도 재건축 수주전 다음 승부는",
-    "summary": "목화아파트 재건축 프로젝트에서 삼성물산이 단독 입찰로 유찰되었으며, 건설경기 침체와 300억원의 현금 입찰보증금 조건이 건설사들의 참여를 저해한 것으로 분석됩니다. 여의도 재건축 수주전의 향후 진행이 주목되고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T15:59:38+09:00",
-    "importance": 4
   }
 ]
