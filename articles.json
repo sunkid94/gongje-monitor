@@ -20790,6 +20790,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염 건설현장 찾은 한 총리…\"안전 최우선\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LVmMwcXVvZllobFpyREotS3ZKQVZLMENwRUtBTkxUTTlUUVlWdXMxRmE4QlZQeTlJWXBFRWxmR3ZyRTFyYXRHRjJXUmg0UUpSNElsR1FMU3dTbGZ0a1FpTHRnejZ5RHc?oc=5",
+    "description": "한성숙 국무총리가 오늘(13일) 서울 중구 무교다동 제31지구 도시 정비형 재개발사업 현장을 찾아 폭염 대응과 근로자 안전관리 실태를 점검했습니다. 한 총리는 체감 온도계 운영과 단계별 휴식 시간 부여, 고령 근로자 건강관리 체계 등을 살펴보고, 휴게실과 제빙시설, 생",
+    "published_at": "2026-07-13T14:11:35+00:00",
+    "cluster_id": "2e17",
+    "publisher": "연합뉴스TV",
+    "title_clean": "폭염 건설현장 찾은 한 총리…\"안전 최우선\"",
+    "summary": "한성숙 국무총리가 서울 중구 재개발 건설현장을 방문하여 폭염 대응 및 근로자 안전관리 실태를 점검했습니다. 체감온도계, 단계별 휴식시간, 고령근로자 건강관리 등 안전관리 체계를 확인했습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-13T23:20:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32147,22 +32163,6 @@
     "summary": "한승구 대한건설단체총연합회 회장이 9일 건설회관에서 '2026 건설의 날' 기념식을 개최했다. 건설업계의 미래 발전과 단합을 다루는 업계 행사이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-10T08:59:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구, 1조원 벤처펀드로 산업 대전환 - naeil.com",
-    "link": "https://www.naeil.com/news/read/594854?ref=naver",
-    "description": "AI·반도체·로봇 등 첨단산업 육성과 앵커기업 유치, 전통산업 고도화를 추진하는 동시에 건설경기 활성화와 내수 촉진에도 나선다. 대구시는 미래기업의 창업과 성장을 지원하기 위해 중소기업투자기금 조례를...",
-    "published_at": "2026-07-10T08:48:00+09:00",
-    "cluster_id": "7507",
-    "publisher": "naeil.com",
-    "title_clean": "대구, 1조원 벤처펀드로 산업 대전환",
-    "summary": "대구시가 1조원 규모의 벤처펀드를 통해 AI, 반도체, 로봇 등 첨단산업 육성과 앵커기업 유치를 추진한다. 동시에 전통산업 고도화와 건설경기 활성화, 내수 촉진에 나서 지역 경제 대전환을 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-10T08:54:05+09:00",
     "importance": 2
   }
 ]
