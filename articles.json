@@ -4876,6 +4876,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "초·중·고 ‘도보 1분’ 학세권… 조경 면적 37% - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/economy/estate/2026/07/14/20260714017001?wlog_tag3=naver",
+    "description": "대우건설이 부산 동래구 안락동 1230번지 일원에 조성하는 ‘동래 푸르지오 에듀포레’가 선착순 동·호 지정 분양을 진행 중이다. 안락1구역 재건축 사업을 통해 들어서는 이 단지는 지하 3층~지상 최고 38층, 12개동...",
+    "published_at": "2026-07-14T05:02:00+09:00",
+    "cluster_id": "611d",
+    "publisher": "seoul.co.kr",
+    "title_clean": "초·중·고 ‘도보 1분’ 학세권… 조경 면적 37%",
+    "summary": "대우건설이 부산 동래구에서 추진 중인 '동래 푸르지오 에듀포레' 재건축 단지는 초·중·고 학교가 도보 1분 거리에 위치한 학세권 프리미엄 아파트이며, 조경 면적 37%로 쾌적한 주거 환경을 제공한다. 선착순 동·호 지정 분양을 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T05:09:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20820,22 +20836,6 @@
     "title_clean": "롯데 품에 안긴 성수4구역… 최저 이주비 20억·조합 공정성 등 과제",
     "summary": "롯데건설이 성수4구역 재개발 사업의 시공사로 선정되었으며, 공사비 규모는 약 1조3628억 원에 달한다. 사업 추진 과정에서 최저 이주비 책정과 조합 공정성 등 해결해야 할 과제들이 남아있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-07T14:59:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, AAA등급 ABS 연속 발행⋯3000억 조달 - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FWHhjU2FTY0JlRkVVanVCSkFRUTFOUHNHQ2VBWEd2cF8zYWVaVjdlSXlid3lrS0p4VVFieVBHS0RBMVYtTVYwekhCUQ?oc=5",
-    "description": "2027년 1분기까지 공사비 7700억원 조기 회수 기대 5월 1차 이어 후속 발행&hellip;공사대금채권 유동화 확대 롯데건설이 AAA등급 자산유동화증권(ABS) 2차 발행에 성공하며 자금 조달 안정성을 강화했다. 롯데건설은 준공을 앞둔 주택사업장과 그룹 계열사 건축사업장의 공사대금채권을 기초자산으로 한 3000억원 규모의 AAA 등급 ABS를 발행했다고 7일 밝혔다.",
-    "published_at": "2026-07-07T14:56:17+09:00",
-    "cluster_id": "a293",
-    "publisher": "아이뉴스24",
-    "title_clean": "롯데건설, AAA등급 ABS 연속 발행⋯3000억 조달",
-    "summary": "롯데건설이 AAA등급 ABS 2차 발행으로 3000억원을 조달하며 자금 조달 안정성을 강화했다. 공사대금채권 유동화를 통해 2027년 1분기까지 7700억원의 공사비 조기 회수를 기대하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-07T14:59:36+09:00",
     "importance": 2
   },
