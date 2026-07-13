@@ -4876,6 +4876,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "K-조선, 2분기도 2조대 흑자…'사상 첫 年 10조 영업익' 가시권 - 데일리머니",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94cE9RQUxMUHFRSXlJODM3VUc3ZkRJZWtsZDU2QlE4YkRSRC1EM09GUm9nMlZaUkZGLWk1Vkh6MFZOdzJQNHVnREhCeVZVQkYzeGJ6SVpRRFZjeDRVOHdjNTNyaXBHTnl5UXBDTmJlQ2YzQdIBdkFVX3lxTFA0NW5hY0lVclFoSVBpWjdnbkVpTjNhUDN6ZWpRcXZSMWkzOXNkT0VUb3pOb2RacHlzU1I2NlJYY2hpNC1qQ1NvYW9BOElKLXp6NGo4dkI0Sm5Qb1hGc3pYLThXVjhMUHM0Q01sZzZ2aEdQdlotVlE?oc=5",
+    "description": "국내 조선 3사의 올해 2분기 합산 영업이익이 전 분기에 이어 또다시 2조 원을 넘어설 전망이다. 분기마다 흑자 폭이 커지면서 연간 영업이익도 9조 원을 넘어설 것이란 분석이 나온다. 사상 처음으로 합산 영업이익 10조 원 달성이 가시권에 들어온 것이다.미국·이란 전쟁 이후 수요가 급증한 에너지 운반선을 중심으로 빠르게 수주 잔량을 채우고 있는 점도 긍정적으로 평가된다. 다만 캐나다 초계 잠수함 사업(CPSP) 수주에 실패하면서 해양 방산 시장 확대 가능성에 대한 기대감은 엇갈리고 있다.年 영업익 9조 399억원 전망…두달전 대비",
+    "published_at": "2026-07-13T09:57:00+09:00",
+    "cluster_id": "53b5",
+    "publisher": "데일리머니",
+    "title_clean": "K-조선, 2분기도 2조대 흑자…'사상 첫 年 10조 영업익' 가시권",
+    "summary": "국내 조선 3사의 2분기 영업이익이 2조 원을 넘어설 것으로 전망되며, 연간 영업이익도 사상 처음 10조 원 달성이 가능해 보인다. 에너지 운반선 수요 증가로 수주가 활발하나, 캐나다 잠수함 사업 수주 실패로 해양 방산 시장 확대에 대한 기대감은 엇갈리고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T02:50:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20821,22 +20837,6 @@
     "summary": "롯데건설이 공사대금채권을 담보로 AAA등급 자산유동화증권(ABS) 3000억원을 발행하여 공사비 7700억원을 조기 회수했다. 지난 5월 이후 두 번째 ABS 발행으로 공사비 지출과 수금 시차를 단축하여 자금 흐름을 개선했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-07T14:44:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[건설브리핑] 롯데건설, 공사대금채권 ABS 2차 발행 외 - seoulfn.com",
-    "link": "https://www.seoulfn.com/news/articleView.html?idxno=632844",
-    "description": "대우건설, 협력회사 안전등급제 시행 대우건설은 협력회사의 안전관리 역량을 강화하고자 '협력회사 안전등급제'를 시행했다. 협력회사 안전등급제는 협력회사의 안전관리 수준을 평가해 우수 협력회사에는 입찰...",
-    "published_at": "2026-07-07T14:32:00+09:00",
-    "cluster_id": "9baa",
-    "publisher": "seoulfn.com",
-    "title_clean": "[건설브리핑] 롯데건설, 공사대금채권 ABS 2차 발행 외",
-    "summary": "대우건설이 협력회사의 안전관리 역량 강화를 위해 안전등급제를 시행하며, 우수 협력회사에 입찰 인센티브를 제공한다. 롯데건설은 공사대금채권 ABS 2차 발행을 진행 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-07T14:39:52+09:00",
     "importance": 2
   },
   {
