@@ -4758,6 +4758,21 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "반도건설, 가재울 마수걸이...IPARK현산, 성남 공공참여 시공권 획득 - 뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXNWxPZUxRV1RiY2tHaWNES0Z0eUhLd0EzZEZEZFRNdFBYeDVmUVRaazdlbWNUWEVsTXpmVUhDZ0FqWmRiTkJUSXhtWE5hU2F3TFBJenJTMTQ4ZDFKVEE?oc=5",
+    "description": "[뉴스투데이=김성현 기자] 반도건설과 IPARK현대산업개발이 수도권 주요 재개발 정비사업을 연이어 수주하며 주택 사업에서 성과를 올렸다. 양사가 이번에 확보한 총 수주 금액은 8000억 원 규모에 달한다. 반도건설은 경기도 의정부시 의정부동 일대의 '의정부 가재울구역",
+    "cluster_id": "c2b9",
+    "publisher": "뉴스투데이",
+    "title_clean": "반도건설, 가재울 마수걸이...IPARK현산, 성남 공공참여 시공권 획득",
+    "summary": "반도건설과 IPARK현대산업개발이 수도권 재개발 정비사업을 수주하며 총 8000억 원 규모의 주택 사업 수주에 성공했다. 의정부 가재울구역 등 주요 프로젝트를 확보하여 건설업계의 수주 실적 증대를 시현했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T17:35:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20707,19 +20722,19 @@
     "importance": 3
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현대산업개발, 서울숲서 텀블러 나눔 캠페인 - beyondpost.co.kr",
-    "link": "http://www.beyondpost.co.kr/view.php?ud=202607071240453020205868f676_30",
-    "description": "IPARK현대산업개발은 서울숲 '서울국제정원박람회' 현장에서 텀블러 나눔 캠페인을 진행했다고 7일 밝혔다. 캠페인은 일회용품 사용을 줄이고 생활 속 탄소중립 실천을 알리기 위해 마련했다. 장소는 서울숲에 조성된...",
-    "published_at": "2026-07-07T12:44:00+09:00",
-    "cluster_id": "a043",
-    "publisher": "beyondpost.co.kr",
-    "title_clean": "IPARK현대산업개발, 서울숲서 텀블러 나눔 캠페인",
-    "summary": "IPARK현대산업개발이 서울숲 국제정원박람회에서 텀블러 나눔 캠페인을 실시했다. 일회용품 감소와 생활 속 탄소중립 실천을 홍보하는 ESG 활동이다.",
+    "title": "찜통더위 건설현장 지킨다…안전보건공단 부산본부, 폭염 대응 강화 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VQ2Y2UXBwWnd0c3FvU2hzSzFxZFRQQ1BFdVF1am1zcEZiUi1MbHhxcTBZU2d2YkducnNQTEYwV3hHeXlkQTJtYmlZcTBFWFhNZkM0?oc=5",
+    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 연일 이어지는 폭염 속 건설현장 근로자들의 안전을 지키기 위한 현장 대응이 강화되고 있다. 안전보건공단 부산광역본부(본부장 정종득)는 부산지역에 폭염특보가 지속됨에 따라 옥외 작업 비중이 높은 건설현장을 대상으로 기관장 현장점검을 실시했다고 13일 전",
+    "published_at": "2026-07-13T17:25:00+09:00",
+    "cluster_id": "c835",
+    "publisher": "네이트",
+    "title_clean": "찜통더위 건설현장 지킨다…안전보건공단 부산본부, 폭염 대응 강화",
+    "summary": "안전보건공단 부산본부가 폭염특보 지속에 따라 건설현장의 안전 점검을 강화하고 있다. 옥외 작업 비중이 높은 건설현장을 대상으로 기관장 현장점검을 실시하여 근로자 안전 관리를 진행 중이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-07T12:49:18+09:00",
+    "collected_at": "2026-07-13T17:35:41+09:00",
     "importance": 2
   },
   {
@@ -32143,22 +32158,6 @@
     "summary": "반도건설이 협력사 바로건설기술과 함께 시공 현장 안전 강화 및 품질 향상을 위한 신기술 3종을 공동 개발하기로 협약을 체결했다. 이는 건설 현장의 안전과 시공 품질 패러다임 개선을 목표로 한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T20:19:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설기술인協, 전국 대학서 '스마트건설기술 교육' 성료 - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZk5RcGNSa3p3RW1FaVlXUVBPSFpuQ2xVSjgxUUg3UENTcUZqcWpYekNHbzltaWVTN2FXZ0tsS3FoSzRmaGcyUy1NZmwyV1dBWjVWdTNJbnR4bnZWRXRTeEdneU9HN1J5MEtF?oc=5",
-    "description": "한국건설기술인협회(이하 협회, 협회장 박종면)가 청년 예비건설기술인의 스마트건설 역량 강화와 취업 경쟁력 제고를 위해 마련한",
-    "published_at": "2026-07-09T16:57:55+09:00",
-    "cluster_id": "77e1",
-    "publisher": "한국건설신문",
-    "title_clean": "건설기술인協, 전국 대학서 '스마트건설기술 교육' 성료",
-    "summary": "한국건설기술인협회가 전국 대학에서 청년 예비건설기술인을 대상으로 스마트건설기술 교육을 실시했다. 이는 건설업계의 디지털 전환에 대응하고 청년층의 건설 산업 진출을 지원하기 위한 인재 육성 프로그램이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T20:09:31+09:00",
     "importance": 2
   }
 ]
