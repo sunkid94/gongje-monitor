@@ -4622,6 +4622,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[입찰정보] 7월 13일자 - todayenergy.kr",
+    "link": "https://www.todayenergy.kr/news/articleView.html?idxno=300310",
+    "description": "발주처:두산에너빌리티(주) 마감일:2026/07/21 10:00) ◆구미하수처리장 생물반응조 개량공사(1차분)-배관용탄소강관 발주처:경상북도 구미시 상하수도사업본부 마감일:2026-07-22 10:00 ◆산림탄소MRV정보체계...",
+    "published_at": "2026-07-13T13:14:00+09:00",
+    "cluster_id": "a4af",
+    "publisher": "todayenergy.kr",
+    "title_clean": "[입찰정보] 7월 13일자",
+    "summary": "두산에너빌리티와 경상북도 구미시 등에서 배관용탄소강관, 생물반응조 개량공사 등 다수의 입찰 공고가 진행 중이다. 건설과 기계설비 관련 신규 발주 기회가 지속적으로 증가하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-13T13:19:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20574,20 +20590,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[마켓 인사이트] '국가대표 디벨로퍼' 선언한 대우건설, 주택 침체 뚫고... - moneystorm.kr",
-    "link": "https://www.moneystorm.kr/news/articleView.html?idxno=4922",
-    "description": "국내 주택 경기 침체로 건설업계 전반에 위기감이 고조된 가운데, 대우건설이 시장의 판도를 바꾸는 '체질 개선'으로 독보적인 두각을 나타내고 있다. 대우건설은 단순 도급 시공 중심의 비즈니스 모델을 과감히 탈피하고...",
-    "published_at": "2026-07-07T09:03:00+09:00",
-    "cluster_id": "9cb3",
-    "publisher": "moneystorm.kr",
-    "title_clean": "[마켓 인사이트] '국가대표 디벨로퍼' 선언한 대우건설, 주택 침체 뚫고...",
-    "summary": "국내 주택 경기 침체 속에서 대우건설이 도급 시공 중심의 비즈니스 모델을 탈피하고 체질 개선을 추진하며 시장에서 독보적인 성과를 나타내고 있다. 이는 건설업계 전반의 위기 상황 속에서도 경영 혁신을 통해 경쟁력을 강화하는 사례로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T09:09:35+09:00",
-    "importance": 2
+    "title": "공공공사 ‘폭염·호우 안전지침’ 통보…작업 곤란 시 일시 정지 - BBS불교방송",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53OWpFYzZQMHlyUGc0OTRjc3Mzd05LY3NiYnFGOXNyZlN3VkpUbFpJUmszNXBHZUlIbkhPQzBMUlhxWGZUZ1JLR05xSmZlT3paRHZmVTExSnZFektuUG1fVUphZk9OV01nR2lR?oc=5",
+    "description": "재정경제부가 최근 장마철 호우와 폭염 속에서 공공건설현장의 무리한 작업으로 인한 안전사고를 예방하기 위해 ‘공공계약 업무처리지침’을 각 공공 발주기관에 통보했습니다.이번 지침에 따르면, 폭염이나 호우로 작업이 현저히 어려울 경우 발주기관이 공사를 일시 정지하도록 했습니다. 이로 인해",
+    "published_at": "2026-07-13T13:04:06+09:00",
+    "cluster_id": "890a",
+    "publisher": "BBS불교방송",
+    "title_clean": "공공공사 ‘폭염·호우 안전지침’ 통보…작업 곤란 시 일시 정지",
+    "summary": "재정경제부가 폭염과 호우 속 공공건설현장의 안전사고 예방을 위해 '공공계약 업무처리지침'을 통보했다. 지침에 따라 작업이 현저히 어려운 기상 상황에서는 발주기관이 공사를 일시 정지하도록 조치했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-13T13:19:09+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32132,21 +32148,6 @@
     "publisher": "네이트",
     "title_clean": "韓 총리 \"건설 AI 기술 개발, 인재 양성, 해외 진출 위한 생태계 조성 지원할 것\"",
     "summary": "한국의 총리가 건설 AI 기술 개발, 인재 양성, 해외 진출을 위해 생태계 조성을 지원하겠다고 밝혔다. 정부가 건설산업의 디지털 혁신과 국제 경쟁력 강화에 적극 나서겠다는 의지를 표현한 것으로, 업계 성장을 위한 정책 지원 약속이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T16:29:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "KCC·자이가이스트, 모듈러 주택 사업 확장 박차 - 통신일보",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xSEdfR0RQRWF3QXo4U1lfNndZckhFb1N2Q2xFTVhaS2VLRlQwbld5X2VLZWxjak85dUFhS2FVa2NfQ2k5bGRGSVkzYWlPeXlwbDRWZGJOMDFlSmtXei1GZFIxNURrZw?oc=5",
-    "description": "[여성소비자신문 한지안 기자] KCC가 스마트팩토리 기반 목조 모듈러 주택 전문기업 공간제작소와 손잡고 미래형 모듈러 주거 모델 개발을 위한 전...",
-    "cluster_id": "6535",
-    "publisher": "통신일보",
-    "title_clean": "KCC·자이가이스트, 모듈러 주택 사업 확장 박차",
-    "summary": "KCC가 스마트팩토리 기반 목조 모듈러 주택 전문기업 공간제작소와 협력하여 미래형 모듈러 주거 모델 개발을 추진 중입니다. 이는 건설업계의 새로운 시장 확대와 혁신적 건축 기술 도입으로 볼 수 있습니다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T16:29:55+09:00",
     "importance": 2
