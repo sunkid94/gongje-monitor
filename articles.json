@@ -21098,6 +21098,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "롯데건설, 중소 건설현장에 안전체험교육 개방 - 환경일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1adldOckx3S1BuWVZubC1FeWFhQjNqMmJjM2szekVxX0h6ZnFvM0YzcWphUG9QVW5LWWtCclFLZmFRZXFhcThWYTBBZEhNYzl6MFdwMlQxS2pZMnJ2TWhsdjlxYVZYMV9E?oc=5",
+    "description": "[환경일보] 롯데건설이 지난 13일 경기도 오산시 롯데인재개발원 내 안전체험센터 ‘Safety ON’에서 고용노동부 안양지청과 ‘건설안전 징검다리 프로젝트’ 추진을 위한 업무협약을 맺었다. 이 협약식에는 이대풍 롯데건설 안전보건부문장, 최종수 고용노동부 안양지청장 등 양측 관계자가 참석했다. 이번 협약을 통해 롯데건설과 고용노동부 안양지청은 경기도 과천시, 군포시, 안양시 동안구 등 안양지청 관할 지역 내 중소규모 건설현장 산업재해 예방을 지원한다. ‘건설안전 징검다리 프로젝트’는 민간과 공공의 안전체험교육장을 연계해 건설업 종사자",
+    "published_at": "2026-07-14T19:03:26+09:00",
+    "cluster_id": "00f3",
+    "publisher": "환경일보",
+    "title_clean": "롯데건설, 중소 건설현장에 안전체험교육 개방",
+    "summary": "롯데건설이 고용노동부 안양지청과 업무협약을 체결하여 경기 남부 지역 중소 건설현장의 산업재해 예방을 지원한다. 안전체험센터를 개방하여 건설업 종사자들을 대상으로 안전교육을 제공하는 '건설안전 징검다리 프로젝트'를 추진한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-14T19:23:53+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "정동영, '동북아평화자료원' 건설 현장 방문…\"평화 아카이브로 조성\" - 뉴스1",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfMVNURXNaQ2JyR28wV1dMcUJwdkpxb3B2VDJodzdpOFZ5VXU1dV9wUFRrN1VPSnFzOV9HU3hTUFgxNkhYREl3djBwUzlxNTVmaVVqLTUwZTZSWlU?oc=5",
     "description": "여름철 집중호우·폭염 대비 차원 방문…올해 말 준공·내년 개관 목표 정동영 통일부 장관은 14일 경기도 고양시 '동북아평화자료원 건립 공사 현장'을 방문해 건설 현장의 안전관리 실태를 점검하고, 공사 추진 현황을 확인했다.이번 현 …",
@@ -32164,21 +32180,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-12T12:57:41+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설현장 AI전환 속도…스마트건설 기술 10개·강소기업 12곳 선정 - viva100.com",
-    "link": "https://www.viva100.com/article/20260712500338",
-    "description": "건설산업의 인공지능(AI) 도입과 자동화·탈현장화를 앞당길 스마트건설 기술 10개와 성장 잠재력을 갖춘 강소기업 12개사가 정부 지원 대상으로 선정됐다. 국토교통부와 한국건설기술연구원은 스마트건설 기술의 현장...",
-    "published_at": "2026-07-12T12:38:00+09:00",
-    "cluster_id": "6767",
-    "publisher": "viva100.com",
-    "title_clean": "건설현장 AI전환 속도…스마트건설 기술 10개·강소기업 12곳 선정",
-    "summary": "정부가 건설산업의 AI 도입을 가속화하기 위해 스마트건설 기술 10개와 성장 잠재력 있는 강소기업 12곳을 지원 대상으로 선정했다. 자동화·탈현장화 기술 개발을 통해 건설업의 디지털 전환을 주도할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T12:47:47+09:00",
-    "importance": 3
   }
 ]
