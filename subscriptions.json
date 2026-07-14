@@ -29,5 +29,16 @@
         "auth": "4aoATO8H8dVJPqz_TYlzRg"
       }
     }
+  },
+  {
+    "name": "조영민 경영지원실 인재개발팀",
+    "subscription": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/eLZjKoOM2VQ:APA91bFDIVHejXPZqPKfCrDjuNNw3s_PcbYdlgmT8QYjputivf4ZwS0X0DdrJ545wyuHUnFzU1qa_ogQoT6yIN_p6y4wnGRG6_vxq9hhP7nPwqnv4d9eG7qsmZtYLzoXxGwo_bchVK5T",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BNIcJYQz4x2-z5QazWuuQWOOdnhUAa9mS3NgybDVxHR4jg5qdAASzvvAx5mt85tNpLPc4m55Xpp-llmAXaHssSo",
+        "auth": "ZXvcQ-O6_LkkuDAwWgmATQ"
+      }
+    }
   }
 ]
