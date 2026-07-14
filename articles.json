@@ -21095,6 +21095,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭우에 덜덜, 폭염에 헉헉… \"비가 와도, 안와도 무섭다\" - mt.co.kr",
+    "link": "https://www.mt.co.kr/society/2026/07/15/2026071419312879394",
+    "description": "은행 등 민간시설과 협업을 확대해 누구나 편하게 이용할 수 있는 생활밀착형 쉼터를 늘리고 건설노동자와 이동노동자, 어르신, 장애인 등 폭염 취약계층의 특성에 맞춘 맞춤형 쉼터도 넓힌다는 방침이다. 단순히...",
+    "published_at": "2026-07-15T04:01:00+09:00",
+    "cluster_id": "9e20",
+    "publisher": "mt.co.kr",
+    "title_clean": "폭우에 덜덜, 폭염에 헉헉… \"비가 와도, 안와도 무섭다\"",
+    "summary": "정부가 폭염과 폭우 등 극한 기후에 대응하기 위해 민간시설과 협업을 확대하여 생활밀착형 쉼터를 확충하고 있다. 건설노동자와 이동노동자, 어르신, 장애인 등 취약계층을 위한 맞춤형 쉼터 확대 방침이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T04:08:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32160,21 +32176,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-12T15:52:49+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "더 뜨거워진 폭염...첫 폭염 중대경보 발령 - ytn.co.kr",
-    "link": "https://www.ytn.co.kr/_ln/0108_202607121515393176",
-    "description": "야외에서 근무하시는 분들, 건설노동자분들이나. [김승배] 중대경보가 내려지면 그런 조치들이 내려지고 있는데. 전에 폭염경보는 각별히 조심하시라, 이런 의미였는데 지금은 중단하시라고 하거든요. 왜냐하면 자기...",
-    "published_at": "2026-07-12T15:15:00+09:00",
-    "cluster_id": "681c",
-    "publisher": "ytn.co.kr",
-    "title_clean": "더 뜨거워진 폭염...첫 폭염 중대경보 발령",
-    "summary": "기록적인 폭염으로 인해 처음으로 폭염 중대경보가 발령되었다. 중대경보 발령 시 야외 근무 및 건설 작업 중단 조치가 내려져 건설업계의 작업 차질이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T15:42:44+09:00",
-    "importance": 4
   }
 ]
