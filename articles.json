@@ -21043,6 +21043,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부천시, 가스누출 사고 수습 점검…건설현장 안전도 집중 관리 - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPS3hzd1lUODBTVFVSN09kZFNzZE1lY2wxR0RBVlpSZzRHX2ItbEVXVTdybjlDNmZtWXIwdl91RU9DY2c5dms0Z0tMUzZJUDB3eTZ3bVRxelItTVBRaXpSaGtyWng1LVRFYWU3Z0FfQ29MRm1hRV9yRkFRUWI0dTU1M3pKMzJ6VU9zbEZ5dFdpTVFvUHItSHRpNGQyM1JsTnBPZ0Y2ajZabkdDek9zNkRGY1g1Umk4UC1BU2VNX3pqUFlaUDVwYjNvUktZQzBsNEZvaXFncEx0RjVNYXVmMjhvT2tDZkZBV19SNkV4X0ZHZlRPaGRiTkZHVlQ5OVhOUGoyMXlOb19CM1RsenVXajNKakZxcWphSDdkcFJ1X0Zsd0dWTXPSAaYCQVVfeXFMT2k4blFTdWxNaF9xTmp1TUVubW9zalAtN3NFWTktQzFKVFVFaG5pTHM1dVF3eHh4d2xiQmtXMXlRdHhJSUhpWGsza3FFc1c1eW9UdTMxbFI0M2tWeVFwbFVoV1l1TzNYdlhrM2gtdWd6NEpudUVXMWFtYmpRbmlGdVJDRWFkMVhwa2d6VmFCRHNIWjZOeGVCS0xidkd1SHVKWmdIRVpUbE5aV3cxczVZSFJZU3hOZnNrN3hrUkgyTnNaem1sUk5wYU1vbGswY1VWY2dBaUUxU0l1VnVIQkdyMlU0RnFkZXFXcEpWZ3pvR19JNWF5RkQ4czd2VVJwYldjYUg2NFNaMURONW5JOVREZ1BRWW91MW5Za1RFX2R6V2hJNmxUWmV3?oc=5",
+    "description": "조용익 부천시장이 화학공장 가스 누출사고 현장과 공동주택 건설현장을 잇달아 점검하며 재난 안전관리 강화에 나섰다.조 시장은 지난 14일 원미구 도당동 화학공장 암모니아 가스 누출사고 현장을 찾아 사고 수습 상황과 후속 조치, 고압가스시설 관리계획 등을 보고받고 안전관리 실태를 확인했다.이날 현장에는 행정안전국장 등 관계 부서장이 동행했다.이번 사고는 지난달",
+    "published_at": "2026-07-15T07:13:00+09:00",
+    "cluster_id": "74d2",
+    "publisher": "데일리안",
+    "title_clean": "부천시, 가스누출 사고 수습 점검…건설현장 안전도 집중 관리",
+    "summary": "부천시장이 화학공장 암모니아 가스 누출사고 현장을 점검하고 건설현장 안전관리를 강화하기로 나섰다. 고압가스시설 관리계획 검토 등 재난 안전관리를 집중 관리할 방침이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T07:23:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32154,21 +32170,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-12T18:07:48+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "피지컬 AI로 현장위험 찾는다… 노가다 오명벗는 스마트건설 - m.skyedaily.com",
-    "link": "https://m.skyedaily.com/news_view.html?ID=307683",
-    "description": "자료=국토교통부 제공 스마트건설 기술을 개발했으나 현장을 확보하지 못한 중소기업을 위해 정부가 앞장섰다. ㈜시에라베이스는 건설현장에서 균열을 점검하면서 위치추정과 지도작성을 동시에 하는 기술(SLAM)을...",
-    "published_at": "2026-07-12T17:54:00+09:00",
-    "cluster_id": "2a79",
-    "publisher": "m.skyedaily.com",
-    "title_clean": "피지컬 AI로 현장위험 찾는다… 노가다 오명벗는 스마트건설",
-    "summary": "정부가 스마트건설 기술을 개발한 중소기업을 지원하여 건설현장에 AI 기반 위험 감지 기술(SLAM 등)을 도입하고 있다. 이는 건설업의 안전성 향상과 디지털 혁신을 통해 산업의 경쟁력을 강화하는 호재로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T17:57:48+09:00",
-    "importance": 2
   }
 ]
