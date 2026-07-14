@@ -21095,6 +21095,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "중구, 건설사와 ‘지역 건설산업 활성화 지원 업무협약’ 체결 및 간담회 진행 - 한국시사경제",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSRzh6aXE0aDJlOEFkVURYamJyVjBmWU1XTGxaZVFkREtKaWxTX1JmdzhBd2RfLWYtNDRBbDF4S1JWc0pJNzQyelZBNWc3M09WSVVxYWRKbDFNS1Q0YXJqeHhkMzVXMDZUS2c?oc=5",
+    "description": "한국시사경제 울산취재본부 | 울산 중구(구청장 김영길)가 7월 14일 오후 3시 중구청 중회의실에서 ㈜우성종합건설(대표 임채범), 우미건설㈜(대표 곽수윤)와 ‘지역 건설산업 활성화 지원 업무협약’을 체결하고, 지역 내 대형 공사장을 둔 건설사 8곳과 간담회를 가졌다. 이날 협약식에는 김영길 중구청장과 이건호 ㈜우성종합건설 건설사업부",
+    "cluster_id": "6b2a",
+    "publisher": "한국시사경제",
+    "title_clean": "중구, 건설사와 ‘지역 건설산업 활성화 지원 업무협약’ 체결 및 간담회 진행",
+    "summary": "울산 중구가 건설사 2곳과 지역 건설산업 활성화 지원 업무협약을 체결하고 대형 공사장을 운영하는 건설사 8곳과 간담회를 개최했다. 이는 지역 건설산업 육성 및 협력 강화를 위한 행정 차원의 지원 활동이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T20:03:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32163,21 +32178,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-12T13:37:53+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설현장 작업 중 ‘휴대전화 사용’ 금지 추진 - 자유일보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45ZE9mQzllTFpRMkl4UEdfVkJkV21DNmRuaGxrSUNDQV9PdWFQSTNJb2V5RHd1NERBUVpRN3NzbHlFSlExUEJaVzE3eFJNRzNYN1VlUU1yQzFRdlVYaTRTYk9zYzYtWFplSGRR0gFvQVVfeXFMTTBZQjZxOWRZSGcyU3pzVTBabTF6NG5oUVRSQjRMakhHU2NWbEgwTjVsRkVxdVlwdEU1d2lrSkx0bjFMaG5YMWF2TkZ2cjUwSkJoenUyT29WSVUwUkVqV0Z0cHFkRFlaUjJzblRMQ01B?oc=5",
-    "description": "건설현장에서 작업 중 휴대전화 사용을 제한하는 법안이 국회에 발의됐다. 타워크레인과 굴착기 등 중장비가 오가는 작업 현장에서 순간적인 부주의가 대형 안전사고로 이어질 수 있다는 우려를 반영한 조치다.12일 국회에 따르면 김종양 국민의힘 의원은 지난 9일 건설현장 내 작업 중 휴대전화 사용을 제한하는 내용의 법률 개정안 3건을 대표 발의했다.우선 산업안전보건법 개정안에는 건설현장 근로자가 이동 작업이나 고소작업 등 고용노동부령으로 정하는 위험작업을 수행하는 동안 휴대전화 사용을 금지하는 내용이 담겼다. 해당 규정을 위반할 경우 300",
-    "published_at": "2026-07-12T13:20:00+09:00",
-    "cluster_id": "650e",
-    "publisher": "자유일보",
-    "title_clean": "건설현장 작업 중 ‘휴대전화 사용’ 금지 추진",
-    "summary": "건설현장에서 작업 중 휴대전화 사용을 제한하는 법안이 국회에 발의됐다. 타워크레인 등 중장비 작업 현장에서의 부주의로 인한 대형 안전사고를 예방하기 위한 조치로, 위반 시 300만원 이하의 과태료가 부과될 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T13:37:53+09:00",
-    "importance": 4
   }
 ]
