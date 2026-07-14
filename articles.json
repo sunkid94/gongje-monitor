@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "정동영, '동북아평화자료원' 건설 현장 방문…\"평화 아카이브로 조성\" - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfMVNURXNaQ2JyR28wV1dMcUJwdkpxb3B2VDJodzdpOFZ5VXU1dV9wUFRrN1VPSnFzOV9HU3hTUFgxNkhYREl3djBwUzlxNTVmaVVqLTUwZTZSWlU?oc=5",
+    "description": "여름철 집중호우·폭염 대비 차원 방문…올해 말 준공·내년 개관 목표 정동영 통일부 장관은 14일 경기도 고양시 '동북아평화자료원 건립 공사 현장'을 방문해 건설 현장의 안전관리 실태를 점검하고, 공사 추진 현황을 확인했다.이번 현 …",
+    "published_at": "2026-07-14T18:57:13+09:00",
+    "cluster_id": "2d0a",
+    "publisher": "뉴스1",
+    "title_clean": "정동영, '동북아평화자료원' 건설 현장 방문…\"평화 아카이브로 조성\"",
+    "summary": "정동영 통일부 장관이 경기도 고양시의 '동북아평화자료원' 건설 현장을 방문하여 안전관리 실태를 점검했다. 해당 프로젝트는 올해 말 준공, 내년 개관을 목표로 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-14T19:13:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32164,21 +32180,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-12T12:47:47+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[차이나 트렌드] AI가 바꾸는 '중국 건설'...산업 고도화 이끄는 핵심 동력으로 '우뚝' - 서울뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EM1R0WHY0MTBjeWwtU1VYV0tDSFFRaVhhSHo2NHNaZ1ZKN05HUTdCdEl6QW9pR055RTQ5SGhXaUVPUWU1UWY5bTJOM1lCVkNpNDJNdGQ3c1gzOWZmVTN0ZEwyVkxZaGdUMGN3?oc=5",
-    "description": "【서울 = 신화/서울뉴스통신】 권나영 기자 = 톈진(天津)시가 홍수기에 대비해 디지털 트윈과 이미지 인식, 파운데이션 모델 등 신기술로 건물 배수와 이상기온 경보, 인원 대피 등에 대응하고 있다. 이러한 기술이 활용될 수 있는 것은 건설 과정에 인공지능(AI) 기술을 적극 도입한 결과다. 중국에서 인공지능이 빠르게 발전하면서 건설업에도 혁신의 바람이 불고 있다. 인공지능을 접목한 건설 산업은 낮은 생산성과 높은 위험성, 비효율적인 관리 등 기존 문제를 해결하는 데 그치지 않고, 디지털·스마",
-    "published_at": "2026-07-12T12:07:29+09:00",
-    "cluster_id": "90d8",
-    "publisher": "서울뉴스통신",
-    "title_clean": "[차이나 트렌드] AI가 바꾸는 '중국 건설'...산업 고도화 이끄는 핵심 동력으로 '우뚝'",
-    "summary": "중국이 건설업에 AI 기술(디지털 트윈, 이미지 인식, 파운데이션 모델 등)을 적극 도입하여 낮은 생산성, 높은 위험성, 비효율적 관리 등 산업 문제를 해결하고 있다. AI 접목으로 건설 산업의 고도화와 디지털화를 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T12:22:44+09:00",
-    "importance": 2
   }
 ]
