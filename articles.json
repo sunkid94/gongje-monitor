@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "삼표산업, 충남서 동절기 콘크리트 기술 세미나 개최 - lawissue.co.kr",
+    "link": "http://www.lawissue.co.kr/view.php?ud=202607141842186447f4ab64559d_12",
+    "description": "이 기술은 2024년 국토교통부 건설신기술(제995호)로 지정됐으며, 녹색기술 인증도 획득했다. 충남도청 관계자는 \"겨울철 건설 현장의 안전관리와 품질 확보는 중요한 과제\"라며 \"이번에 소개된 건설기술이 도내 건설...",
+    "published_at": "2026-07-14T18:44:00+09:00",
+    "cluster_id": "c7d3",
+    "publisher": "lawissue.co.kr",
+    "title_clean": "삼표산업, 충남서 동절기 콘크리트 기술 세미나 개최",
+    "summary": "삼표산업이 충남에서 동절기 콘크리트 시공 기술 세미나를 개최했다. 해당 기술은 2024년 국토교통부 건설신기술(제995호)로 지정되고 녹색기술 인증을 획득했으며, 겨울철 건설 현장의 안전관리와 품질 확보를 지원할 것으로 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T18:48:52+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32163,21 +32179,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-12T12:17:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[한인임의 노동안녕] 아열대로 가는 시대, 악천후에는 작업중지를 - vop.co.kr",
-    "link": "https://vop.co.kr/A00001695788.html",
-    "description": "그러나 지난해 8월, 서울 강서구 맨홀 사고로 건설노동자가 익사한 사례가 있다. 이미 우천 시 익사 위험을 알고 있었음에도 불구하고 강행된 작업이라는 점이 알려져 사회적 물의를 일으킨 바 있다. 2019년 7월에도 서울...",
-    "published_at": "2026-07-12T11:58:00+09:00",
-    "cluster_id": "eb15",
-    "publisher": "vop.co.kr",
-    "title_clean": "[한인임의 노동안녕] 아열대로 가는 시대, 악천후에는 작업중지를",
-    "summary": "악천후 시 건설 현장 작업 중지의 필요성을 강조하는 기사로, 지난해 서울 강서구 맨홀 사고로 건설노동자가 익사한 사례를 언급했다. 우천 시 익사 위험을 인지하면서도 작업을 강행한 점이 사회적 물의를 일으켰다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T12:02:44+09:00",
-    "importance": 4
   }
 ]
