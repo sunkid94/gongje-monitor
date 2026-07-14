@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한일시멘트·한일산업, '초유지 콘크리트' 기술성능 인증 획득 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVRGhBZ1BrV1JMY19yeEtEdTFJamgyNi1PYW9GS1VsZXd3azNxM3hFZzhrUWpzRWhYdGhucHA4cDlNeVF2WWFOVGZjV2o2UHVFeFlHQ1J6aHlEeVlmNEZKNGdtZW4?oc=5",
+    "description": "한일시멘트와 한일산업이 공동 개발한 초유지 콘크리트 기술이 건축·건설재료 분야 기술성능 인증을 받았다.이 기술은 '저분자 CMA와 유동성 개질제에 의해 골재의 미분 민감도를 개선시켜 장시간 유동성 유지가 가능한 초유지 콘크리트 기술'로 한일산업의 혼화제 배합 기술과 한일시멘트의 시멘트 소재 기술을 접목해 개발한 제품이다. 평균 기온 35도의 혹서기에도 생산 후 최대 3시간 동안 유동성을 유지할 수 있는 점이 장점이다. 90분 이내에 타설하지 않으면 굳기 시작하는 일반 콘크리트에 비해 두 배 이상의 작업 시간을 확보할 수",
+    "published_at": "2026-07-14T14:27:24+09:00",
+    "cluster_id": "20cd",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "한일시멘트·한일산업, '초유지 콘크리트' 기술성능 인증 획득",
+    "summary": "한일시멘트와 한일산업이 공동 개발한 초유지 콘크리트 기술이 기술성능 인증을 획득했다. 혹서기에도 3시간 유동성 유지로 일반 콘크리트 대비 2배 이상의 작업 시간을 확보할 수 있어 시공 효율성 향상이 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T20:43:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32161,21 +32177,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-12T13:47:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'체감 35도' 폭염…서울 구청 24시간 열고 독거노인 챙긴다 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01702326645513864",
-    "description": "야외에서 일하는 건설노동자를 위한 보호 조치도 시행한다. 511개 사업장에서 휴식시간제를 운영하도록 하고 충분한 휴식과 휴게공간 마련 여부를 점검하고 있다. 무더위쉼터와 폭염 저감시설도 운영을 이어가고 있다....",
-    "published_at": "2026-07-12T13:38:00+09:00",
-    "cluster_id": "d679",
-    "publisher": "edaily.co.kr",
-    "title_clean": "'체감 35도' 폭염…서울 구청 24시간 열고 독거노인 챙긴다",
-    "summary": "극심한 폭염으로 인해 정부가 건설노동자 보호 조치를 강화하고 있으며, 511개 사업장에 휴식시간제 운영을 의무화하고 안전 점검을 실시 중이다. 무더위쉼터와 폭염 저감시설 운영으로 산업재해 예방에 주력하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T13:42:49+09:00",
-    "importance": 4
   }
 ]
