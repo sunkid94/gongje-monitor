@@ -21043,6 +21043,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "취업자 6만3000명 늘었지만… 청년·제조업 한파에 고용률 3개월째 하락 - kbmaeil.com",
+    "link": "https://www.kbmaeil.com/article/20260715500034",
+    "description": "전문가들은 취업자 수가 증가세로 돌아섰지만 제조업 구조조정과 건설경기 침체, 청년층 취업난이 이어지고 있어 고용시장의 체감 회복까지는 상당한 시간이 필요할 것으로 보고 있다.",
+    "published_at": "2026-07-15T08:14:00+09:00",
+    "cluster_id": "e755",
+    "publisher": "kbmaeil.com",
+    "title_clean": "취업자 6만3000명 늘었지만… 청년·제조업 한파에 고용률 3개월째 하락",
+    "summary": "취업자 수는 6만3000명 증가했으나 제조업 구조조정과 건설경기 침체로 고용률이 3개월째 하락하고 있다. 청년층 취업난과 함께 고용시장 체감 회복에는 상당한 시간이 필요한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T08:18:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32153,22 +32169,6 @@
     "summary": "추경호 대구시장이 지역 기업인들과 현장 중심의 경제정책을 추진한다는 내용의 보도. 건설업계에 직접적인 호재나 악재 요소가 명확하지 않음.",
     "sentiment": "neutral",
     "collected_at": "2026-07-12T19:27:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "국토부, 건설 AI 실증사업 10건과 스마트건설 강소기업 12곳 선정 - srtimes.kr",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=207338",
-    "description": "'스마트건설 얼라이언스' 통해 중기 현장 지원…비용 지원 한도 2500만원으로 확대  국토교통부가 건설 현장에 인공지능(AI)과 로봇 기술을 확산하기 위해 스마트건설 기술 실증사업과 강소기업 육성에 나선다. 건설 AI를...",
-    "published_at": "2026-07-12T18:48:00+09:00",
-    "cluster_id": "9e79",
-    "publisher": "srtimes.kr",
-    "title_clean": "국토부, 건설 AI 실증사업 10건과 스마트건설 강소기업 12곳 선정",
-    "summary": "국토교통부가 건설 현장의 AI·로봇 기술 확산을 위해 스마트건설 기술 실증사업 10건과 강소기업 12곳을 선정했다. 스마트건설 얼라이언스를 통해 중소기업 현장을 지원하며 비용 지원 한도를 2,500만원으로 확대한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T18:52:51+09:00",
     "importance": 2
   }
 ]
