@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "강문성 통합시의원, \"반도체에 가려진 여수 석유화학산단… 특별시가 직... - netongs.com",
+    "link": "http://www.netongs.com/news/articleView.html?idxno=334078",
+    "description": "이어 \"산업위기선제대응지역과 고용위기지역으로 지정됐지만 현장에서 체감하는 효과는 미미하다\"며 \"건설노동자와 일용직 노동자들의 생계가 위협받는 만큼 보다 실질적인 지원대책이 필요하다\"고 강조했다. 또 \"여수...",
+    "published_at": "2026-07-14T21:48:00+09:00",
+    "cluster_id": "2818",
+    "publisher": "netongs.com",
+    "title_clean": "강문성 통합시의원, \"반도체에 가려진 여수 석유화학산단… 특별시가 직...",
+    "summary": "강문성 통합시의원이 반도체 산업에 밀려 주목받지 못하는 여수 석유화학산단의 위기 상황을 지적했다. 산업위기선제대응지역 지정에도 건설·일용직 노동자들의 생계 위협이 계속되고 있어 실질적인 지원대책과 특별시 지정을 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T21:53:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32162,21 +32178,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-12T13:47:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "사상 첫 ‘폭염중대경보’ 내려진 포항·경산 “야외작업 중단, 취약계... - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202607121344001",
-    "description": "폭염특보(경보·중대경보) 발령 시 건설노동자와 노약자, 학생 등에 적용된다. 이밖에 폭염 대비 살수차(7대), 무더위쉼터 등의 운영도 강화된다. 한편 이날 경북도는 일선 시·군에 폭염대책 추진 및 상황 유지관리를...",
-    "published_at": "2026-07-12T13:44:00+09:00",
-    "cluster_id": "d1ca",
-    "publisher": "khan.co.kr",
-    "title_clean": "사상 첫 ‘폭염중대경보’ 내려진 포항·경산 “야외작업 중단, 취약계...",
-    "summary": "포항·경산에 사상 첫 폭염중대경보가 발령되어 건설노동자 등의 야외작업 중단 조치가 시행된다. 살수차 운영 강화 등 폭염 대비 조치가 실시되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T13:47:57+09:00",
-    "importance": 4
   }
 ]
