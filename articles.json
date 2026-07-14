@@ -20910,6 +20910,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "6월 건설사 체감경기 상승에도 여전히 '부진' 국면, 중소건설사 더 어렵... - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442327",
+    "description": "건설사가 체감하는 건설경기가 소폭 회복됐지만 여전히 부진한 수준에 머물렀다. 14일 한국건설산업연구원(건산연)에 따르면 2026년 6월 건설경기실사지수(CBSI)가 74.5로 집계됐다. 5월과 비교해 3.0포인트 올랐다....",
+    "published_at": "2026-07-14T16:20:00+09:00",
+    "cluster_id": "1e7a",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "6월 건설사 체감경기 상승에도 여전히 '부진' 국면, 중소건설사 더 어렵...",
+    "summary": "6월 건설경기실사지수(CBSI)가 74.5로 전월 대비 소폭 상승했으나, 여전히 부진한 수준을 벗어나지 못했다. 특히 중소건설사의 경기 부진이 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T16:24:31+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경상남도, 지역건설산업 활성화 총력…도·시군 협력 강화로 수주 확대 추진 - 코리아이글뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ON1g3Vy1KMFE3Skx3XzV4bXVZbWNiWURYMzZxeENGcFA1cG96Z3R5ZkJIR2xKd1E3LVZtb0FRTlFBYTNQOEdJazFJbzRDdXEwTTUyN0s5c21TRWY3Vy1oOE1lUHlOaGFEc0VlZlRpUWNyTEE?oc=5",
+    "description": "경상남도(도지사 박완수)는 14일 도청 중앙회의실에서 도와 시·군 건설부서장 등 20여 명이 참석한 가운데",
+    "published_at": "2026-07-14T16:20:00+09:00",
+    "cluster_id": "aea9",
+    "publisher": "코리아이글뉴스",
+    "title_clean": "경상남도, 지역건설산업 활성화 총력…도·시군 협력 강화로 수주 확대 추진",
+    "summary": "경상남도가 도와 시·군 건설부서장이 참석한 회의를 개최하여 지역건설산업 활성화를 위해 도·시군 협력을 강화하고 수주 확대를 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T16:24:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32136,38 +32168,6 @@
     "summary": "서울 전역에 폭염주의보가 확대되어 폭염 종합지원상황실이 가동 중입니다. 건설노동자 보호를 위해 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검합니다.",
     "sentiment": "negative",
     "collected_at": "2026-07-11T12:33:05+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "‘폭염주의보’ 서울 전역으로… 무더위 대피 공간 24시간 개방 - segyebiz.com",
-    "link": "http://www.segyebiz.com/newsView/20260711506808?OutUrl=naver",
-    "description": "또 야외에서 작업하는 건설노동자를 보호하기 위해 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검한다. 각 자치구도 상황실을 가동하며 냉방시설 운영과 무더위쉼터 관리, 응급구호 물품 비축...",
-    "published_at": "2026-07-11T12:06:00+09:00",
-    "cluster_id": "c0c3",
-    "publisher": "segyebiz.com",
-    "title_clean": "‘폭염주의보’ 서울 전역으로… 무더위 대피 공간 24시간 개방",
-    "summary": "서울 전역에 폭염주의보가 발령되어 무더위 대피 공간을 24시간 개방하고 있다. 건설노동자 보호를 위해 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검하며, 각 자치구가 상황실을 운영 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-11T12:18:03+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염주의보 서울 전역 확대…'무더위 대피' 구청사 24시간 개방 - yonhapnewstv.co.kr",
-    "link": "http://www.yonhapnewstv.co.kr/news/AKR202607111151365pI",
-    "description": "또 야외에서 작업하는 건설노동자를 보호하기 위해 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검합니다. 각 자치구도 상황실을 가동하며 냉방시설 운영과 무더위쉼터 관리, 응급구호 물품 비축...",
-    "published_at": "2026-07-11T11:52:00+09:00",
-    "cluster_id": "d77c",
-    "publisher": "yonhapnewstv.co.kr",
-    "title_clean": "폭염주의보 서울 전역 확대…'무더위 대피' 구청사 24시간 개방",
-    "summary": "서울 전역에 폭염주의보가 확대되면서 정부가 건설노동자 보호 강화에 나섰다. 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검하며, 각 자치구는 무더위쉼터 운영과 응급구호 물품을 비축한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-11T11:58:02+09:00",
     "importance": 4
   }
 ]
