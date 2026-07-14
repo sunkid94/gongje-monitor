@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야” - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260715.22017004338",
+    "description": "- 건설경기 침체·공공물량 감소 고충 - 회원사 협력강화·인재양성 등 주력 “공사를 하고도 대금을 받지 못하는 업체가 적지 않습니다. 회원사 상당수가 버티는 것 자체가 힘든 상황까지 내몰렸습니다.” 지난 2월...",
+    "published_at": "2026-07-14T19:37:00+09:00",
+    "cluster_id": "23e4",
+    "publisher": "kookje.co.kr",
+    "title_clean": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야”",
+    "summary": "건설경기 침체와 공공물량 감소로 전기공사 업체들의 대금 미수 문제가 심각해지고 있다. 업계 단체는 회원사 협력강화와 인재양성 등으로 위기 극복에 나서고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T19:48:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32162,22 +32178,6 @@
     "summary": "국토교통부가 건설현장의 AI·자동화 기술 확산을 위해 스마트건설 실증기술 10건과 강소기업 12곳을 선정했다. 우수 기술 개발사에 실증 지원을 통해 건설업계의 디지털 혁신과 기술 고도화를 촉진하는 정책 추진 사항이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-12T13:27:59+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "국토부, AI·로봇 건설현장 자동화 선도기업 22개사 선정 - kyeonggi.com",
-    "link": "https://www.kyeonggi.com/article/20260712580049",
-    "description": "국토교통부와 한국건설기술연구원은 스마트건설 생태계 조성을 위해 기술실증 지원사업 대상 10개와 강소기업 12개 사를 선정했다고 12일 밝혔다. 우수한 기술을 개발하고도 현장 적용에 어려움을 겪는 중소기업을 돕고...",
-    "published_at": "2026-07-12T13:13:00+09:00",
-    "cluster_id": "359e",
-    "publisher": "kyeonggi.com",
-    "title_clean": "국토부, AI·로봇 건설현장 자동화 선도기업 22개사 선정",
-    "summary": "국토교통부가 AI·로봇 등 건설 자동화 기술을 보유한 22개 기업을 선정해 기술실증과 현장 적용을 지원한다. 스마트건설 생태계 조성으로 중소 건설기업의 기술 상용화를 돕는 정책 지원 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T13:17:55+09:00",
     "importance": 3
   }
 ]
