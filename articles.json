@@ -20893,6 +20893,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "삼표산업, 동절기용 콘크리트 '블루콘 원터' 기술 세미나 개최 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/news-detail/2026071415464269681",
+    "description": "이 제품은 지난 2024년 7월 국내 최초로 국토교통부 건설신기술(제995호)로 지정되며 기술력을 인정 받았으며, 이후 녹색기술 인증까지 획득해 친환경성과 기술 우수성을 동시에 입증했다.삼표산업 관계자는 \"이번...",
+    "published_at": "2026-07-14T15:56:00+09:00",
+    "cluster_id": "ac46",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "삼표산업, 동절기용 콘크리트 '블루콘 원터' 기술 세미나 개최",
+    "summary": "삼표산업이 동절기용 콘크리트 '블루콘 원터'의 기술 세미나를 개최했다. 이 제품은 2024년 7월 국내 최초로 국토교통부 건설신기술(제995호)로 지정되었으며, 녹색기술 인증까지 획득해 기술력과 친환경성을 입증했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T15:59:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32152,22 +32168,6 @@
     "summary": "서울 전역에 폭염주의보가 확대되면서 시·구 대응 상황실이 가동 중이다. 건설노동자 보호를 위해 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 냉방시설 운영, 무더위쉼터 관리 등을 추진한다.",
     "sentiment": "negative",
     "collected_at": "2026-07-11T11:38:03+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[자본中심] AI가 끌어올린 중국 제조업…내수 없는 회복 착시 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01951606645513536",
-    "description": "과거 부동산 건설이나 소비재 생산이 살아날 때처럼 건설 노동자와 중소 협력사, 지역 상권으로 소득이 넓게 퍼지기 어려운 구조다. 기업들이 AI 수요를 장기 호황으로 확신하지 못하는 점도 고용 확대를 막고 있다....",
-    "published_at": "2026-07-11T11:12:00+09:00",
-    "cluster_id": "5ce6",
-    "publisher": "edaily.co.kr",
-    "title_clean": "[자본中심] AI가 끌어올린 중국 제조업…내수 없는 회복 착시",
-    "summary": "중국의 AI 수요가 제조업 지표를 끌어올리고 있으나, 건설·소비재 산업과 달리 소득이 광범위하게 확산되지 못하고 있다. 기업들의 AI 장기 수요 확신 부족으로 고용 확대가 제한되는 등 실질적 경기 회복에는 한계가 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-11T11:18:05+09:00",
     "importance": 4
   }
 ]
