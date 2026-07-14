@@ -21043,6 +21043,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충남도, 폭염기 건설현장 안전점검 실시 - 글로벌뉴스통신GNA",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiLUpvZ0dNY1k5SjNDeWREMDgzWmtMZkZsMVc1azF4aWRHQXI3Qmc4LWhNMjVGdER4V2hNWnR3em5RM1JObjdOWjd0RDhZaGhoVmt6aFlfSlZKUkJOMFd2dUlxVXJWOXBPeF9TYUxkcmtOQkg4?oc=5",
+    "description": "[충남=글로벌뉴스통신] 충남도 건설본부는 7월 21일(화)부터 8월 3일(월)까지 도내 건설공사 현장 28곳을 대상으로 폭염 등 안전관리 실태점검을 실시한다. 주",
+    "published_at": "2026-07-15T08:13:53+09:00",
+    "cluster_id": "58d8",
+    "publisher": "글로벌뉴스통신GNA",
+    "title_clean": "충남도, 폭염기 건설현장 안전점검 실시",
+    "summary": "충남도 건설본부가 7월 21일부터 8월 3일까지 도내 건설공사 현장 28곳을 대상으로 폭염 시 안전관리 실태점검을 실시한다. 폭염 기간 건설현장의 안전 관리 강화로 산업재해 예방을 목표로 하는 행정조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T08:28:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32154,21 +32170,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-12T19:32:49+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기침체·공급난·자잿값 상승…지역 레미콘업계 ‘삼중고’ - kjdaily.com",
-    "link": "http://www.kjdaily.com/article.php?aid=1783851681682204004",
-    "description": "사진=아이클릭아트광주·전남 레미콘 업계가 건설경기 침체와 골재 공급난, 원자재 가격 상승이 겹치는 ‘삼중고’에 직면하면서 사상 최악의 경영 위기를 맞고 있다. 12일 광주전남레미콘공업협동조합에 따르면...",
-    "published_at": "2026-07-12T19:24:00+09:00",
-    "cluster_id": "5c80",
-    "publisher": "kjdaily.com",
-    "title_clean": "경기침체·공급난·자잿값 상승…지역 레미콘업계 ‘삼중고’",
-    "summary": "광주·전남 레미콘 업계가 건설경기 침체, 골재 공급난, 원자재 가격 상승의 삼중고를 겪으며 사상 최악의 경영 위기에 직면했다. 복합적인 악재가 겹쳐 지역 건설관련 산업의 어려움이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T19:27:58+09:00",
-    "importance": 4
   }
 ]
