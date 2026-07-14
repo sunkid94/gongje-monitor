@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "삼표산업, 충남예술의전당에 영하 20도 견디는 겨울철 콘크리트 적용 - worktoday.co.kr",
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=86749",
+    "description": "이 제품은 2024년 7월 국토교통부로부터 국내 최초 건설신기술(제995호)로 지정됐으며, 이후 녹색기술 인증까지 추가로 획득해 성능과 친환경성을 모두 인정받았다. 블루콘 윈터는 양생 기간을 대폭 줄여 공사 기간 단축에...",
+    "published_at": "2026-07-14T22:46:00+09:00",
+    "cluster_id": "c9bd",
+    "publisher": "worktoday.co.kr",
+    "title_clean": "삼표산업, 충남예술의전당에 영하 20도 견디는 겨울철 콘크리트 적용",
+    "summary": "삼표산업이 개발한 혹한기용 콘크리트 '블루콘 윈터'가 충남예술의전당에 적용됐다. 제품은 국토교통부 건설신기술 지정과 녹색기술 인증을 획득해 성능과 친환경성을 인정받았으며, 양생 기간 단축으로 공사 기간 단축에 기여한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T22:48:44+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32162,21 +32178,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-12T14:27:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구 제조업은 호전, 건설업은 크게 부진 - kbsm.net",
-    "link": "https://www.kbsm.net/news/view.php?idx=526440",
-    "description": "박윤경 대구상의 회장은 “상반기 제조업 생산과 수출은 회복세를 보였지만, 건설경기 침체와 기업 실적 부진으로 현장의 체감경기는 여전히 어렵다”며 “기업 애로 해소와 경쟁력 강화를 위한 정책 발굴과 지원...",
-    "published_at": "2026-07-12T14:20:00+09:00",
-    "cluster_id": "f1d3",
-    "publisher": "kbsm.net",
-    "title_clean": "대구 제조업은 호전, 건설업은 크게 부진",
-    "summary": "대구 제조업은 상반기 생산과 수출이 회복세를 보인 반면, 건설경기는 크게 침체되어 기업 실적이 부진한 상태. 상의 회장은 현장 체감경기가 여전히 어렵고 정책 지원이 필요하다고 지적.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T14:22:52+09:00",
-    "importance": 4
   }
 ]
