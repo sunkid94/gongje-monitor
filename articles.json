@@ -21095,6 +21095,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안전보건공단-한국환경공단, ‘산업재해 예방 및 환경안전 협력’ 기반 마련 - 안전정보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jLWx6NkVIOVFUYVp6emdzS0h1bXlrUnZPZWYzV09SMlRlOVFKck52X0FGRXBSbE5BbmY5LWJJSnM1dHFYTkVUUGZqbGJrVExjdzV2TVpPN1RYRERXNUxSOFgybFMyMWZsSEFn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1jLWx6NkVIOVFUYVp6emdzS0h1bXlrUnZPZWYzV09SMlRlOVFKck52X0FGRXBSbE5BbmY5LWJJSnM1dHFYTkVUUGZqbGJrVExjdzV2TVpPN1RYRERXNUxSOFgybFMyMWZsSEFn?oc=5\" target=\"_blank\">안전보건공단-한국환경공단, ‘산업재해 예방 및 환경안전 협력’ 기반 마련</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
+    "cluster_id": "f130",
+    "publisher": "안전정보",
+    "title_clean": "안전보건공단-한국환경공단, ‘산업재해 예방 및 환경안전 협력’ 기반 마련",
+    "summary": "안전보건공단과 한국환경공단이 산업재해 예방 및 환경안전 협력을 위한 기반을 마련했다. 양 기관의 협력으로 건설업 현장의 안전 및 환경 관리 체계가 강화될 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T03:13:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32161,21 +32176,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-12T15:42:44+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정 - aitimes.kr",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40940",
-    "description": "이미지:본지DB 국토교통부(장관 김윤덕)와 한국건설기술연구원(원장 박선규)은 건설산업에 인공지능(AI) 도입을 촉진하고 자동화와 탈현장화를 이끌 선도기업 육성을 위해  12일, 스마트건설 기술실증 지원사업 10개와...",
-    "published_at": "2026-07-12T15:30:00+09:00",
-    "cluster_id": "1597",
-    "publisher": "aitimes.kr",
-    "title_clean": "국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정",
-    "summary": "국토부와 한국건설기술연구원이 건설산업의 AI 도입과 자동화를 촉진하기 위해 스마트건설 기술실증 지원사업 10개 과제와 강소기업을 선정했다. 이는 건설산업의 디지털 혁신과 탈현장화를 주도할 선도기업 육성을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T15:32:48+09:00",
-    "importance": 3
   }
 ]
