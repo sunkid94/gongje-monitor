@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[대담한K] 폭염에 취약한 옥외노동자, 안전 대책은? - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610634&ref=A",
+    "description": "요즘 같은 폭염, 배달라이더와 건설노동자, 환경미화원처럼 하루 대부분을 밖에서 보내는 옥외노동자들의 건강과 안전을 어느 정도 위협하고 있다고 보십니까? [앵커] 옥외 노동자라고 해도 직종이 다양한데요, 특히 어떤...",
+    "published_at": "2026-07-14T19:40:00+09:00",
+    "cluster_id": "2aec",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "[대담한K] 폭염에 취약한 옥외노동자, 안전 대책은?",
+    "summary": "폭염으로 인한 옥외노동자(배달라이더, 건설노동자, 환경미화원 등)의 건강과 안전 위협 문제를 다루는 기사. 옥외 작업 종사자들의 폭염 대응 안전 대책 필요성을 제기하고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T19:58:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32163,21 +32179,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-12T13:37:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "국토부, 스마트건설 AI 실증기술 10건·강소기업 12곳 선정 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202607121248041215",
-    "description": "국토교통부가 건설현장에 인공지능(AI)과 자동화 기술 확산을 이끌 스마트건설 실증기술 10건과 강소기업 12곳을 선정했다. 12일 국토부와 한국건설기술연구원에 따르면 기술실증 지원사업은 우수 기술을 개발했지만...",
-    "published_at": "2026-07-12T13:21:00+09:00",
-    "cluster_id": "bf7f",
-    "publisher": "fnnews.com",
-    "title_clean": "국토부, 스마트건설 AI 실증기술 10건·강소기업 12곳 선정",
-    "summary": "국토교통부가 건설현장의 AI·자동화 기술 확산을 위해 스마트건설 실증기술 10건과 강소기업 12곳을 선정했다. 우수 기술 개발사에 실증 지원을 통해 건설업계의 디지털 혁신과 기술 고도화를 촉진하는 정책 추진 사항이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T13:27:59+09:00",
-    "importance": 3
   }
 ]
