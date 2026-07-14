@@ -21043,6 +21043,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 진짜 사장, 이제 교섭에 나와야 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235714",
+    "description": "지금 건설노동자들의 현실이 그러하다. 법 개정 직후 건설노조는 원청인 종합건설사들에 산업안전 의제를 걸고 교섭요구 공문을 보냈다. 돌아온 답은 한결같았다. 계약관계가 없으니 사용자가 아니다, 법적 판단이 나오기...",
+    "published_at": "2026-07-15T06:34:00+09:00",
+    "cluster_id": "a509",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "건설현장 진짜 사장, 이제 교섭에 나와야",
+    "summary": "건설노동자 산업안전 관련 법 개정 후 건설노조가 원청 종합건설사들과의 교섭을 요구했으나, 기업들이 계약관계 부재를 이유로 사용자 책임을 회피하고 있다. 실질적 사용자인 건설사가 교섭 테이블에 나와 노동자 안전 의제에 대응해야 한다는 주장.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T06:38:43+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사 체감경기 두달 연속 상승…여전히 기준선은 크게 밑돌아 - 철강금속신문",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11XzBIeURfSXNXQVRUWHRpMlpvcm1rZmxheU1EZVpyb3B1Ql94RGRlbENyMHlCNW9uRHVCYW1HUjFfdzl2bDhBOFg2OWRCQ0JsaGF6LUR1VkJ3bDAtRFdybEh0Y0Z1THlBS1E?oc=5",
+    "description": "건설사 체감경기가 두 달 연속 오르며 올해 들어 최고치를 보이고 있으나 여전히 70선에 그쳐 전반 경기 인식은 낮은 수준을 이어가고 있다.한국건설산업연구원에 따르면 지난 6월 건설경기실사지수(CBSI)는 74.5로 전월 대비 3.0 포인트(p) 오르며 두 달 연속 상승했다.지난해 12월(77.2) 이후 6개월 만에 최고 수준으로 올랐으나 여전히 70선에 머물며 전반적인 경기 인식은 위축 국면이란 평가다.CBSI가 기준선인 100을 밑돌면 현재의 건설경기 상황을 비관적으로 보는 기업이 낙관적으로 보는 기업보다 많다는 것을 의미한다.",
+    "published_at": "2026-07-15T06:30:00+09:00",
+    "cluster_id": "8935",
+    "publisher": "철강금속신문",
+    "title_clean": "건설사 체감경기 두달 연속 상승…여전히 기준선은 크게 밑돌아",
+    "summary": "건설사 체감경기를 나타내는 CBSI가 6월 74.5로 두 달 연속 상승하며 올해 최고치를 기록했다. 다만 기준선 100 대비 70선에 그쳐 업계의 전반적 경기 인식은 여전히 위축된 상태로 평가된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T06:38:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32139,37 +32171,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-12T17:12:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "서한, 상생경영·복지경영 모두 인정…대구·경북 건설사 10년 연속 1위 - kyongbuk.co.kr",
-    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078088",
-    "description": "최우수 등급을 획득하면 조달청 공공입찰 참가자격 사전심사 가점과 시공능력평가액 6% 가산, 건설산업기본법상 벌점 0.5점 감경 등의 혜택을 받을 수 있다. 서한은 협력업체와의 동반성장을 위한 지원도 꾸준히...",
-    "published_at": "2026-07-12T17:06:00+09:00",
-    "cluster_id": "530f",
-    "publisher": "kyongbuk.co.kr",
-    "title_clean": "서한, 상생경영·복지경영 모두 인정…대구·경북 건설사 10년 연속 1위",
-    "summary": "서한이 상생경영과 복지경영을 인정받아 대구·경북 건설사 중 10년 연속 1위를 달성했다. 최우수 등급으로 조달청 공공입찰 가점, 시공능력평가액 가산, 벌점 감경 등의 혜택을 받으며 협력업체와의 동반성장을 지속하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T17:07:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설현장 휴대전화 사용 금지 입법…근로자에 최대 300만원 과태료 - 비즈중앙",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Oc2ZsYWtSVXIwOHFFRlh5SjJBNEhIRG1YblFZbjJlc3A2eGhsNUY2WFduMVN5czNmdFl1aWc1MVRwdW5BMmpsX3lycEpDT1E0V2FqclVPcVBoSkVpY3VpdlVEcDM4T0NyTDhZT1VtcVY?oc=5",
-    "description": "[비즈중앙] 건설현장에서 이동·고소작업 등 위험작업을 하거나 건설기계를 조종할 때 휴대전화 사용을 금지하고 위반자에게 과태료를 부과하는 입법이 추진된다. 작업 중",
-    "published_at": "2026-07-12T16:52:02+09:00",
-    "cluster_id": "2018",
-    "publisher": "비즈중앙",
-    "title_clean": "건설현장 휴대전화 사용 금지 입법…근로자에 최대 300만원 과태료",
-    "summary": "건설현장에서 위험작업 중 휴대전화 사용을 금지하고 위반자에게 최대 300만원의 과태료를 부과하는 법안이 추진 중이다. 안전 강화를 위한 규제 조치로, 건설업계에는 추가적인 규제 부담이 될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T17:07:56+09:00",
-    "importance": 4
   }
 ]
