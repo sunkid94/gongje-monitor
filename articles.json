@@ -20893,6 +20893,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "고양상공회의소, 관내 기업 체감경기 '꽁꽁'…3분기 BSI 79포인트 - pressian.com",
+    "link": "https://www.pressian.com/pages/articles/2026071415330423719?utm_source=naver&utm_medium=search",
+    "description": "여기에 건설경기 침체와 소비 위축, 수주 감소 등이 맞물리면서 내수 회복에 대한 기대감도 제한적인 상황이다. 특히 중동 전쟁 지속에 따른 하반기 경영·운영계획 변동 여부를 묻는 질문에는 응답기업의 76.3%가...",
+    "published_at": "2026-07-14T15:37:00+09:00",
+    "cluster_id": "6552",
+    "publisher": "pressian.com",
+    "title_clean": "고양상공회의소, 관내 기업 체감경기 '꽁꽁'…3분기 BSI 79포인트",
+    "summary": "고양상공회의소의 3분기 BSI가 79포인트로 기업들의 경기 체감도가 부진한 것으로 나타났다. 건설경기 침체, 소비 위축, 수주 감소 등이 복합적으로 작용하고 있으며, 중동 전쟁으로 인한 경영 불확실성도 커지고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T15:49:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32153,20 +32169,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-11T11:18:05+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "메이사, 40억 국토부 ‘AX 스프린트’ 선정 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KemU4Y1o3bFV3VEExazA4MkhiX09zdm5pcEppTGtqcVlNT0k1VGE3NzRMVWtqSGpuR0t2aV9YeEVlYlNKNVZhYVNaa0JHdGY4RU5MZ3RPeENuNDYxUjhnN2dIX3VuMVczc3ZPWmk2ZWJaVFZD?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KemU4Y1o3bFV3VEExazA4MkhiX09zdm5pcEppTGtqcVlNT0k1VGE3NzRMVWtqSGpuR0t2aV9YeEVlYlNKNVZhYVNaa0JHdGY4RU5MZ3RPeENuNDYxUjhnN2dIX3VuMVczc3ZPWmk2ZWJaVFZD?oc=5\" target=\"_blank\">메이사, 40억 국토부 ‘AX 스프린트’ 선정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "c437",
-    "publisher": "대한경제",
-    "title_clean": "메이사, 40억 국토부 ‘AX 스프린트’ 선정",
-    "summary": "메이사가 국토교통부의 'AX 스프린트' 사업에 선정되어 40억 원의 지원을 받게 되었다. 이는 건설업계의 신규 사업 수주 기회로 긍정적인 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-11T09:48:09+09:00",
-    "importance": 2
   }
 ]
