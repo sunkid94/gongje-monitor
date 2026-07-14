@@ -21095,6 +21095,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "체감경기 소폭 개선에도 웃지못하는 건설업계 - ggilbo.com",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1169409",
+    "description": "건설경기 체감지수가 소폭 반등했지만, 대기업과 중소기업 간 양극화가 해지고, 치솟는 자재비와 인력 감축이 겹치며 건설업계 전반의 시름은 깊어지는 모양새다. 14일 한국건설산업연구원이 발표한 '6월...",
+    "published_at": "2026-07-14T19:00:00+09:00",
+    "cluster_id": "f626",
+    "publisher": "ggilbo.com",
+    "title_clean": "체감경기 소폭 개선에도 웃지못하는 건설업계",
+    "summary": "건설경기 체감지수가 소폭 반등했으나, 대기업과 중소기업 간 양극화 심화, 자재비 상승, 인력 감축 등으로 업계 전반의 어려움이 가중되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-14T19:03:58+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32163,21 +32179,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-12T12:22:44+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "본격 폭염…서울시, 어르신 안부 확인·노숙인밀집지 순찰 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20260712023900004?input=1195m",
-    "description": "또 야외에서 작업하는 건설노동자를 보호하기 위해 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검한다. 이외에도 냉방시설과 무더위쉼터를 관리·운영하고, 응급구호 물품을 비축 중이다....",
-    "published_at": "2026-07-12T12:14:00+09:00",
-    "cluster_id": "aa3e",
-    "publisher": "yna.co.kr",
-    "title_clean": "본격 폭염…서울시, 어르신 안부 확인·노숙인밀집지 순찰",
-    "summary": "서울시가 폭염 대비로 어르신 안부 확인, 노숙인 밀집지 순찰 등 취약계층 보호에 나섰다. 건설노동자 보호를 위해 휴식시간 보장과 휴게공간 마련을 권고하고 이행 여부를 점검한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-12T12:17:46+09:00",
-    "importance": 4
   }
 ]
