@@ -21095,6 +21095,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "“비아파트 건설 활성화를” “건축 규제 완화해야”…주택공급 확대 ‘백가쟁명’ - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSSkNWNGlvTG1DSFh5N3lpc19FU2diQ3pPOXpqb0ZHZ0M1SjczMFZJY2k3YmpEMnU5ZExLR3J4YWlHdWhWeGRTTERGWnlpY3pHbl9XdUNUTTBJWjVrNkdtUG9wUWlnT2Nr?oc=5",
+    "description": "“저희 국토부 공무원들은 인사말 빼고는 아무 말도 않기로 했습니다. 제가 일부러 쿠키도 가져왔습니다. 말하고 싶어질 때마다 쿠키 먹으면서 진심으로 듣겠습니다.” 김윤덕 국토교통부 장관은 14일 오후 서울 중구에서 열린 ‘주택공급 확대방안 경청 토론회’ 초장부터 ‘경청’",
+    "cluster_id": "e26a",
+    "publisher": "한겨레",
+    "title_clean": "“비아파트 건설 활성화를” “건축 규제 완화해야”…주택공급 확대 ‘백가쟁명’",
+    "summary": "국토교통부 장관이 주택공급 확대방안 경청 토론회를 개최하여 건설업계의 의견을 수렴하고 있습니다. 비아파트 건설 활성화와 건축 규제 완화에 대한 다양한 주장들이 논의되고 있는 상황입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-14T22:43:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32163,21 +32178,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-12T14:22:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "계룡건설, 협력사와 건설현장 중대재해 예방책 모색 - daejonilbo.com",
-    "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2287436",
-    "description": "계룡건설이 주요 협력사와 건설현장 안전관리 사례를 공유하며 중대재해 예방 역량 강화에 나섰다. 계룡건설은 최근 대전 서구 탄방동 계룡사옥에서 '2026년 하반기 주요 협력사 간담회'를 개최했다고 12일 밝혔다....",
-    "published_at": "2026-07-12T14:19:00+09:00",
-    "cluster_id": "369f",
-    "publisher": "daejonilbo.com",
-    "title_clean": "계룡건설, 협력사와 건설현장 중대재해 예방책 모색",
-    "summary": "계룡건설이 주요 협력사와 간담회를 열어 건설현장 안전관리 사례를 공유하고 중대재해 예방 역량 강화에 나섰다. 건설업계의 안전관리 강화 및 협력사 관계 개선을 위한 적극적인 움직임을 보이고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-12T14:22:52+09:00",
-    "importance": 2
   }
 ]
