@@ -20940,6 +20940,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“반도체만큼 동부권 석유화학·철강산업 지원해야” - kjdaily.com",
+    "link": "http://www.kjdaily.com/article.php?aid=1784113212682513002",
+    "description": "강 의원은 “여수·광양이 산업위기선제대응지역과 고용위기지역으로 지정됐지만 현장에서 체감하는 효과는 미미한 실정”이라며 “건설노동자와 일용직 노동자들의 생계가 위협받는 만큼 보다 실질적인 지원 대책이...",
+    "published_at": "2026-07-15T20:06:00+09:00",
+    "cluster_id": "0c7d",
+    "publisher": "kjdaily.com",
+    "title_clean": "“반도체만큼 동부권 석유화학·철강산업 지원해야”",
+    "summary": "강 의원이 여수·광양 지역의 석유화학·철강산업에 대한 실질적 지원 강화를 촉구했다. 현장의 건설노동자와 일용직 노동자들의 생계 위협을 언급하며 산업위기선제대응지역 지정에도 불구하고 체감 효과가 미미하다고 지적했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T20:10:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32150,21 +32166,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-13T15:29:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "성주군, 폭염경보에 살수차 총동원…도심 열기 식히고 군민 안전 지킨다 - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zbHNDTE0yS2VWRHdvY3Z2cXFWVDNIS1J5RnVnWTM4SURXS001YmtqWGYwbmVXeEFvZWVtbF9Na2V2RFNkUEE?oc=5",
-    "description": "성주읍 주요 도로 집중 살수&hellip;건설현장 안전관리 강화&middot;온열질환 예방 총력 경북 성주군이 폭염경보 발효와 함께 살수차를 긴급 투입하는 등 군민 안전을 위한 폭염 대응을 최고 수준으로 강화했다. 성주군은 지난 11일 오후 2시를 기해 폭염경보가 발효됨에 따라 연일 계속되는 기록적인 무더위로부터 군민의 건강과 안전을 보호하고 도심 열섬현상을 완화하기 위해 살수차 운영 등 폭염 대응에 총력을 기울이고 있다고 13일 밝혔다.",
-    "published_at": "2026-07-13T15:10:53+09:00",
-    "cluster_id": "a495",
-    "publisher": "아이뉴스24",
-    "title_clean": "성주군, 폭염경보에 살수차 총동원…도심 열기 식히고 군민 안전 지킨다",
-    "summary": "성주군이 폭염경보 발효에 따라 살수차를 긴급 투입하고 건설현장 안전관리를 강화하는 등 폭염 대응에 나섰다. 도심 열섬현상 완화와 온열질환 예방에 총력을 기울이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T15:29:58+09:00",
-    "importance": 4
   }
 ]
