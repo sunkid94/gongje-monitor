@@ -20959,6 +20959,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "AI에 ‘몸짓 데이터’ 주려고… 이 마을에선 머리에 폰 달고 망고 썬다 - chosun.com",
+    "link": "https://www.chosun.com/economy/tech_it/2026/07/16/LXRBSS4ETNANTPKNEAUX5SLDHQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "인도에서는 현지 데이터 업체들이 주부와 공장·건설 노동자를 모집하고, 중국은 지방정부와 대기업이 마을 주민과 요양보호사, 농장 노동자까지 동원한다. 미국에서는 시간당 30달러가 들지만, 인도에서는 6분의 1 이하...",
+    "published_at": "2026-07-16T00:56:00+09:00",
+    "cluster_id": "6ad6",
+    "publisher": "chosun.com",
+    "title_clean": "AI에 ‘몸짓 데이터’ 주려고… 이 마을에선 머리에 폰 달고 망고 썬다",
+    "summary": "AI 학습용 동작 데이터 수집을 위해 인도, 중국 등에서 저임금 노동자들을 동원하는 글로벌 추세. 선진국 대비 6분의 1 수준의 저비용으로 대규모 데이터 수집이 이루어지고 있음.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T01:06:23+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "기사 - 세상이 우리를 보는 눈 1: 건설노동자와 다문화 가족으로 산다는 것 - ddanzi.com",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zcmhpRmp4RWw1OVlVWVNDU1ZGVjNpNFlQTjhfUXF1anBXV3BCa0c4eXA4UDJlN0MzTlIyWkc4ZU45LTU3Qk9oN2VSR3N3emZSMnd5OG53?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zcmhpRmp4RWw1OVlVWVNDU1ZGVjNpNFlQTjhfUXF1anBXV3BCa0c4eXA4UDJlN0MzTlIyWkc4ZU45LTU3Qk9oN2VSR3N3emZSMnd5OG53?oc=5\" target=\"_blank\">기사 - 세상이 우리를 보는 눈 1: 건설노동자와 다문화 가족으로 산다는 것</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ddanzi.com</font>",
@@ -32147,21 +32163,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-13T16:05:08+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한국건설·안전박람회 10월 킨텍스 개최…“싱크홀 예방 기술 한자리에” - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=40839",
-    "description": "[건설이코노미뉴스] 최근 도심지 싱크홀과 굴착공사장 주변 지반침하 사고가 잇따르면서 지하안전 관리의 중요성이 커지는 가운데, AI와 ICT 기반 지하안전 기술을 한자리에서 선보이는 '지하안전특별관'이 오는 10월 킨텍스에서 열린다.'2026 한국건설·안전박람회'는 오는 10월 14일부터 16일까지 경기 고양시 킨텍스(KINTEX)에서 개최되며, (사)한국지하안전협회와 공동으로 '지하안전특별관'을 운영하고 참가기업 모집에 나선다고 최근 밝혔다.정부는 최근 '지하안전법 시행령' 개정을 통해 전국 단위 지반탐사를 확대하고 있으며, 서울시",
-    "published_at": "2026-07-13T15:59:00+09:00",
-    "cluster_id": "9c99",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "한국건설·안전박람회 10월 킨텍스 개최…“싱크홀 예방 기술 한자리에”",
-    "summary": "10월 킨텍스에서 '2026 한국건설·안전박람회'가 개최되며, AI와 ICT 기반 지하안전 기술을 선보이는 '지하안전특별관'이 운영된다. 정부의 지하안전법 시행령 개정으로 지반탐사 확대가 추진되는 등 지하안전 관리의 중요성이 높아지고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T16:05:08+09:00",
-    "importance": 2
   }
 ]
