@@ -21011,6 +21011,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "김태흥 의왕시의원, 지역건설산업 활성화 조례 개정 추진 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1391902",
+    "description": "김 의원은 \"건설경기 침체로 지역 업체들이 어려움을 겪고 있다\"며 \"의왕지역 자재와 장비, 인력 활용을 확대해 지역경제의 선순환 구조를 구축하기 위한 제도적 근거를 마련하고자 했다\"고 밝혔다. 2026년 6월 기준...",
+    "published_at": "2026-07-15T14:48:00+09:00",
+    "cluster_id": "9a4f",
+    "publisher": "",
+    "title_clean": "김태흥 의왕시의원, 지역건설산업 활성화 조례 개정 추진 - m-i.kr",
+    "summary": "김태흥 의왕시의원이 건설경기 침체로 어려움을 겪는 지역 건설업체 지원을 위해 지역건설산업 활성화 조례 개정을 추진 중입니다. 의왕지역 자재, 장비, 인력 활용 확대를 통해 지역경제 선순환 구조 구축을 목표로 하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-15T14:55:15+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'부자 도시' 광양에 켜진 재정 경고등…철강 불황 탓뿐인가 - newswhoplus.com",
+    "link": "https://www.newswhoplus.com/news/articleView.html?idxno=64663",
+    "description": "글로벌 철강 공급 과잉과 중국산 저가 철강재 공세, 국내 건설경기 침체 등으로 철강산업의 어려움은 이미 수년 전부터 예고돼 왔다. 광양지역 협력업체와 소상공인의 경영난 역시 갑작스럽게 등장한 문제가 아니다. 위기의...",
+    "published_at": "2026-07-15T14:46:00+09:00",
+    "cluster_id": "d995",
+    "publisher": "newswhoplus.com",
+    "title_clean": "'부자 도시' 광양에 켜진 재정 경고등…철강 불황 탓뿐인가",
+    "summary": "광양지역이 철강산업 불황으로 재정 위기를 맞고 있으며, 이는 글로벌 공급 과잉, 중국산 저가 철강재 경쟁, 국내 건설경기 침체 등 구조적 문제에서 비롯된 것으로 분석된다. 협력업체와 소상공인의 경영난은 수년 전부터 예고된 문제이지만 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T14:55:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32138,38 +32170,6 @@
     "summary": "김윤덕 국토교통부 장관이 모듈러 주택 제작공장을 방문하여 산업 활성화 방안을 논의했다. 정부가 모듈러 주택 공급 확대를 통해 주택 공급 속도를 높이려는 정책을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T11:58:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "재정경제부, 폭염 및 호우 피해 예방을 위한 공공계약 업무처리지침 안내 - 시사일보",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02dVcwSkYydnA2ZEtHSUpsY3lxNGVyR3hLdHhQdW01REp5U2J5ZkRPS1pKSnlYYXNkVjNCeV9TcUdwekxVOGFSUXc1T3g?oc=5",
-    "description": "재정경제부 [시사일보=최한규 기자] 올해 6월 하순부터 시작된 장마 등으로 인한 호우 피해가 발생하고 이후 일부 지역에 폭염중대경보가 발령되는 등",
-    "published_at": "2026-07-13T10:56:00+09:00",
-    "cluster_id": "37bd",
-    "publisher": "시사일보",
-    "title_clean": "재정경제부, 폭염 및 호우 피해 예방을 위한 공공계약 업무처리지침 안내",
-    "summary": "재정경제부가 폭염과 호우 피해 예방을 위한 공공계약 업무처리지침을 안내했다. 이는 장마와 폭염으로 인한 피해에 대응하기 위한 공공건설 관련 지침으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-13T11:48:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "국토부·건설기술연, 스마트건설 기술 실증·강소기업 선정...실증현장... - econonews.co.kr",
-    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=441101",
-    "description": "정부가 인공지능(AI)과 자동화 기술을 활용한 스마트건설 확산을 위해 기술 실증과 유망 중소기업 지원을 확대한다. 국토교통부와 한국건설기술연구원은 스마트건설 기술실증 지원사업 10개와 스마트건설 강소기업...",
-    "published_at": "2026-07-13T11:34:00+09:00",
-    "cluster_id": "5746",
-    "publisher": "econonews.co.kr",
-    "title_clean": "국토부·건설기술연, 스마트건설 기술 실증·강소기업 선정...실증현장...",
-    "summary": "정부가 AI와 자동화 기술을 활용한 스마트건설 확산을 위해 기술실증 지원사업 10개와 유망 중소기업 지원을 확대한다. 국토교통부와 한국건설기술연구원이 주도적으로 추진하는 정책으로 건설업계의 기술혁신과 디지털 전환을 촉진할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T11:38:48+09:00",
     "importance": 2
   }
 ]
