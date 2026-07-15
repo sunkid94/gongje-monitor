@@ -21011,6 +21011,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "전근식 한일시멘트 대표 \"건설경기 회복 지연…유동성 관리 집중\" - sidae.com",
+    "link": "https://www.sidae.com/article/2026071510494815457",
+    "description": "전근식 한일시멘트 대표가 하반기 경영 키워드로 '내실경영'과 '유동성 관리'를 제시하며 불확실한 건설 경기 대응에 나선다. 15일 관련 업계에 따르면 최근 한일시멘트는 경영·영업전략회의를 열고 하반기 경영...",
+    "published_at": "2026-07-15T13:00:00+09:00",
+    "cluster_id": "f1fd",
+    "publisher": "sidae.com",
+    "title_clean": "전근식 한일시멘트 대표 \"건설경기 회복 지연…유동성 관리 집중\"",
+    "summary": "전근식 한일시멘트 대표가 건설경기 회복 지연으로 인해 하반기 경영 키워드를 '내실경영'과 '유동성 관리'로 설정하고 불확실한 시장 대응에 나섰다. 이는 건설업계의 경기 둔화와 기업들의 보수적 경영 기조를 반영한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T13:04:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32151,22 +32167,6 @@
     "publisher": "MSN",
     "title_clean": "계룡건설, 국토교통부 상호협력평가 7년 연속 '최우수'",
     "summary": "계룡건설이 국토교통부 상호협력평가에서 7년 연속 최우수 등급을 획득했다. 이는 건설업체의 우수한 경영 성과와 정부와의 협력 체계가 잘 구축되어 있음을 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T10:38:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“건설현장 폭염 속 온도관리 의무화 쉽게 관리하세요” - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESU8tMVZFWDg5Rlc2VzVPTEc2MDZaSklFRnRiVlE1UFNvYXhaQWFYOVZSd1RMLUQxbjJVYUJDQmtOdUczNVAzOWdVUWFtYWFMcWxzN1ZnLVJ4ZWVxNTE4U1M4S25vSjIwLWE3NQ?oc=5",
-    "description": "케이웨더는 체감온도에 이어 전국 지역별 온열지수 예보 및 실황을 동시에 확대 서비스한다고 13일 밝혔다.케이웨더 예보센터는 최근 정부의 폭염 관리기준으로 지정된",
-    "published_at": "2026-07-13T10:27:47+09:00",
-    "cluster_id": "f1f9",
-    "publisher": "기계설비신문",
-    "title_clean": "“건설현장 폭염 속 온도관리 의무화 쉽게 관리하세요”",
-    "summary": "케이웨더가 건설현장 폭염 관리를 위해 전국 지역별 온열지수 예보 및 실황 서비스를 확대 제공한다. 정부의 폭염 관리기준 의무화에 따라 건설현장의 온도관리 부담을 덜 수 있는 솔루션을 제시하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T10:38:18+09:00",
     "importance": 2
