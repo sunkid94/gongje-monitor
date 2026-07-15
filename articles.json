@@ -4990,6 +4990,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, FLNG 이어 '차세대 성장동력' FDC까지…\"새로운 성장 축으로... - newsprime.co.kr",
+    "link": "http://www.newsprime.co.kr/news/article.html?no=740488",
+    "description": "삼성증권은 16일 삼성중공업(010140)에 대해 액화천연가스 생산·저장·하역설비(FLNG)를 중심으로 견조한 수주가 이어지고 차세대 성장동력인 부유식 데이터센터(FDC) 사업 확대가 기대된다며 투자의견 '매수'를 유지했다....",
+    "published_at": "2026-07-16T07:26:00+09:00",
+    "cluster_id": "77bb",
+    "publisher": "newsprime.co.kr",
+    "title_clean": "삼성중공업, FLNG 이어 '차세대 성장동력' FDC까지…\"새로운 성장 축으로...",
+    "summary": "삼성중공업이 FLNG 사업의 견조한 수주에 이어 차세대 성장동력인 부유식 데이터센터(FDC) 사업 확대를 추진 중이며, 삼성증권은 투자의견 '매수'를 유지했다. 새로운 사업 분야 진출로 기계설비건설 업계의 시장 확대 기회가 증가할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-16T07:36:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20936,22 +20952,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-08T11:19:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "경남 '트리븐 김해' 1순위 무더기 미달…불 꺼진 집 되나 - asiatime.co.kr",
-    "link": "https://www.asiatime.co.kr/article/20260708500127",
-    "description": "396가구 모집에 26가구만 청약 신청 두산에너빌리티 시공, 완판 '빨간불' 지역 경기 침체, 고분양가 등 흥행 발목 [아시아타임즈=이현주 기자] 두산에너빌리티가 김해 내동에서 공급한 '트리븐 김해'가 저조한 청약...",
-    "published_at": "2026-07-08T11:04:00+09:00",
-    "cluster_id": "3335",
-    "publisher": "asiatime.co.kr",
-    "title_clean": "경남 '트리븐 김해' 1순위 무더기 미달…불 꺼진 집 되나",
-    "summary": "두산에너빌리티가 공급한 경남 김해 '트리븐 김해'가 396가구 모집에 26가구만 청약신청하며 심각한 부진을 기록했다. 경기 침체와 고분양가 등으로 인해 완판이 어려운 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-08T11:09:23+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
