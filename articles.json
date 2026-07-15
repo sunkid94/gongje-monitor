@@ -4991,6 +4991,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"브랜드+지역명이 대장\"…아파트 이름 이젠 간결함이 '대세' - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2343580.htm",
+    "description": "포스코이앤씨가 2022년 4월 수주 당시 단지명을 '포스코 더 하이스트'로 제안했지만 같은 해 7월 하이엔드 브랜드 '오티에르'를 론칭하면서 조합원들은 오티에르 적용을 요구했다. 조합원들 사이에서는 단지명을 '오티에르...",
+    "published_at": "2026-07-16T00:01:00+09:00",
+    "cluster_id": "8272",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "\"브랜드+지역명이 대장\"…아파트 이름 이젠 간결함이 '대세'",
+    "summary": "포스코이앤씨 등 건설사들이 아파트 단지명을 브랜드+지역명의 간결한 형태로 변경하는 추세가 확산 중이다. 고급 브랜드 론칭에 따른 조합원 요구와 마케팅 효율성을 반영한 업계의 네이밍 전략 변화를 보여준다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T00:11:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20940,20 +20956,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 이라크 알포 62km 연결도로 최종 준공 승인 - inthenews.co.kr",
-    "link": "https://www.inthenews.co.kr/news/article.html?no=89075",
-    "description": "알포 신항 핵심 물류축 구축 연약지반·물류 리스크 극복 인더뉴스 제해영 기자ㅣ대우건설은 이라크 남부 알포 신항과 움카스르를 잇는 총연장 62km 규모 고속도로 건설사업을 마무리하고 발주처인 이라크 항만청...",
-    "published_at": "2026-07-08T10:52:00+09:00",
-    "cluster_id": "5787",
-    "publisher": "inthenews.co.kr",
-    "title_clean": "대우건설, 이라크 알포 62km 연결도로 최종 준공 승인",
-    "summary": "대우건설이 이라크 알포 신항과 움카스르를 연결하는 62km 고속도로 건설사업을 완료하고 최종 준공 승인을 받았다. 연약지반과 물류 리스크를 극복하며 알포 신항의 핵심 물류축을 구축했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T10:59:21+09:00",
-    "importance": 3
+    "title": "기사 - 세상이 우리를 보는 눈 1: 건설노동자와 다문화 가족으로 산다는 것 - ddanzi.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zcmhpRmp4RWw1OVlVWVNDU1ZGVjNpNFlQTjhfUXF1anBXV3BCa0c4eXA4UDJlN0MzTlIyWkc4ZU45LTU3Qk9oN2VSR3N3emZSMnd5OG53?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zcmhpRmp4RWw1OVlVWVNDU1ZGVjNpNFlQTjhfUXF1anBXV3BCa0c4eXA4UDJlN0MzTlIyWkc4ZU45LTU3Qk9oN2VSR3N3emZSMnd5OG53?oc=5\" target=\"_blank\">기사 - 세상이 우리를 보는 눈 1: 건설노동자와 다문화 가족으로 산다는 것</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ddanzi.com</font>",
+    "cluster_id": "9d04",
+    "publisher": "ddanzi.com",
+    "title_clean": "기사 - 세상이 우리를 보는 눈 1: 건설노동자와 다문화 가족으로 산다는 것",
+    "summary": "건설노동자와 다문화 가족의 삶을 다루는 사회 이슈 기사로, 건설업계 종사자들이 직면한 사회적 편견과 차별에 대한 내용으로 보임.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-16T00:11:30+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32148,20 +32163,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-13T16:05:08+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "천안 건축공사장 태풍 대비 점검… 타워크레인 안전관리 강화 - 아산데일리",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UOWhSZGRwUy12Wm0xcWtLeWN2SUhmdFVuVnNhWU1pYUY1bUwySkNmaDU5cmhDcS0taHpScmdaNmR2TTVUcG51eUhCUmVfeHpDRTFB?oc=5",
-    "description": "장마가 지나자마자 폭염과 국지성 호우, 태풍 가능성이 이어지는 가운데 천안시가 대형 건축공사장을 대상으로 안전점검에 들어갔다. 공사장 안전사고는 한 번 발생하면 인명피해와 교통 통제, 주변 상권 피해까지 이어질 수 있는 만큼 사전 예방이 무엇보다 중요하다는 판단이다.천안시는 13일부터 24일까지 타워크레인 등 대형 건설장비가 설치된 건축공사장 10곳을 대상으로 집중 안전점검을 실시한다. 첫 점검은 성정동 일원의 아파트와 오피스텔 건설 현장에서 진행됐으며, 시 건축과와 공동주택과가 합동점검반을 구성해 현장 전반을 살핀다. 이번 점검은",
-    "cluster_id": "f7b6",
-    "publisher": "아산데일리",
-    "title_clean": "천안 건축공사장 태풍 대비 점검… 타워크레인 안전관리 강화",
-    "summary": "천안시가 태풍 대비를 위해 타워크레인 등 대형 건설장비가 설치된 건축공사장 10곳을 대상으로 13일부터 24일까지 집중 안전점검을 실시한다. 공사장 안전사고 예방을 위해 시 건축과와 공동주택과가 합동점검반을 구성해 현장 전반을 점검한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T15:59:24+09:00",
-    "importance": 4
   }
 ]
