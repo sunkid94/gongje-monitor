@@ -20940,6 +20940,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "조용익 부천시장, 화학 사고 현장 및 대형 건설 현장 안전 점검 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2S2VIWV84QkRybzcza203TlM2NXhNX1MxdW9IOXdqSEpyWUNSenBBWHJ5Z3hIaDM1YTRjeUlxVUFZOFk4eEMzVXBOWU5xTmgxVXlBamRrc1JjYjVCZUVUamkya0ZDM2R6T2V5aUtWT1A?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA2S2VIWV84QkRybzcza203TlM2NXhNX1MxdW9IOXdqSEpyWUNSenBBWHJ5Z3hIaDM1YTRjeUlxVUFZOFk4eEMzVXBOWU5xTmgxVXlBamRrc1JjYjVCZUVUamkya0ZDM2R6T2V5aUtWT1A?oc=5\" target=\"_blank\">조용익 부천시장, 화학 사고 현장 및 대형 건설 현장 안전 점검 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더코리아</font>",
+    "cluster_id": "4404",
+    "publisher": "더코리아",
+    "title_clean": "조용익 부천시장, 화학 사고 현장 및 대형 건설 현장 안전 점검 > 뉴스",
+    "summary": "조용익 부천시장이 화학 사고 현장과 대형 건설 현장에 대한 안전 점검을 실시했다. 이는 건설 현장의 안전 관리 강화 및 규제 감시 움직임으로 볼 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T22:00:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32149,21 +32164,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-13T15:40:17+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[기획] 수도권 건설경기 살아난다고?…지방은 먼 얘기 - m-i.kr",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=1390982",
-    "description": "사진=김다니엘 기자 제공 매일일보 = 김다니엘 기자  |  수도권 건설경기가 반도체·데이터센터 투자 및 공공 발주 확대를 발판으로 완만한 회복 조짐을 보이고 있지만, 지방 건설시장은 여전히 깊은 침체 국면에 머물러...",
-    "published_at": "2026-07-13T15:28:00+09:00",
-    "cluster_id": "8524",
-    "publisher": "",
-    "title_clean": "[기획] 수도권 건설경기 살아난다고?…지방은 먼 얘기 - m-i.kr",
-    "summary": "수도권 건설경기가 반도체·데이터센터 투자와 공공 발주 확대로 회복되는 반면, 지방 건설시장은 여전히 침체 국면에 머물러 있다. 지역 간 건설경기의 양극화가 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T15:40:17+09:00",
-    "importance": 4
   }
 ]
