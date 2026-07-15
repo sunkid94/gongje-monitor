@@ -21028,6 +21028,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "올해 상반기 산재 사망 노동자 253명 역대 최저치…제조업은 37%↑ - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026071514192668234",
+    "description": "노동부는 건설경기 침체보다는 정부의 예방·감독과 현장에서의 안전 노력이 합해진 결과라고 설명했다. 그러나 제조업 산재사망자는 지난해 상반기 67명에서 올해 상반기 92명으로 25명(37.3%) 늘었다. 지난 3월 대전...",
+    "published_at": "2026-07-15T14:19:00+09:00",
+    "cluster_id": "5a1e",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "올해 상반기 산재 사망 노동자 253명 역대 최저치…제조업은 37%↑",
+    "summary": "올해 상반기 산재 사망 노동자가 253명으로 역대 최저치를 기록했으나, 제조업 산재 사망자는 전년 동기 대비 37.3% 증가한 92명으로 악화되었다. 정부는 예방·감독 강화의 성과로 평가하지만 제조업 안전 문제가 심각해지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T14:30:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32153,22 +32169,6 @@
     "publisher": "네이트",
     "title_clean": "공공 건설공사 현장 찾은 경기도민감리단…10곳서 179건 지적",
     "summary": "경기도가 공공 건설공사 22개 현장 중 10곳을 점검하여 179건의 지적사항을 발견했으며, 이 중 134건에 대해 조치를 완료했다. 도민감리단이 도로·하천 등 각 분야의 안전관리 상황을 감시하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T11:38:48+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도 도민감리단, 공공건설 10곳 점검…179건 지적 - 잡포스트",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yTmhJbDRTUTc4eVVWUE5TT0t0cWNpMHlLY25ETldKNGNSRDg1VWVTalRGX3JsbnBWOVdIS1ZaR0d1aEwxU3pPVDJsU3Rxd2p5a3ZlS0V4XzhRMFZrOG5aUHJ1ZEJ2S0twRTVmVlhn0gFyQVVfeXFMTUt0NjlyVnVpSnk0blZ6V25JclVBMnVYNmh1UHdIM1N0ZEVUY19tbTMtZGdDU1FUWTVPTmY5M0hQdlR3eFBYSm9EdHktdG9BU2dSc2t3QUNoN0tKYy15V0tPSDZURGFWOXdzc2pCTFRuSkx3?oc=5",
-    "description": "[잡포스트] 임택 기자 = 경기도가 본격적인 장마철을 앞두고 공공건설 현장의 안전관리를 강화하기 위해 도민감리단과 함께 주요 사업장을 점검한 결과 모두 179건의",
-    "published_at": "2026-07-13T09:56:29+09:00",
-    "cluster_id": "c232",
-    "publisher": "잡포스트",
-    "title_clean": "경기도 도민감리단, 공공건설 10곳 점검…179건 지적",
-    "summary": "경기도가 장마철을 앞두고 도민감리단과 함께 공공건설 현장 10곳을 점검하여 179건의 안전관리 지적사항을 적발했다. 이는 건설현장의 안전관리 강화 및 규제 감시 확대를 의미한다.",
     "sentiment": "negative",
     "collected_at": "2026-07-13T11:38:48+09:00",
     "importance": 4
