@@ -20994,6 +20994,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "통계 뒤에 숨은 위기..당진 노사(勞使), 고용위기 선제대응지역 지정 촉... - idjnews.kr",
+    "link": "https://www.idjnews.kr/news/articleView.html?idxno=301634",
+    "description": "노·사는 최근 정부가 당진시를 산업위기 선제대응지역으로 지정한 것은 지역 철강산업이 글로벌 공급과잉, 저가 수입 철강재 증가, 건설경기 침체 등 복합적인 어려움에 직면해 있음을 인정한 결과라고 평가했다....",
+    "published_at": "2026-07-15T10:22:00+09:00",
+    "cluster_id": "0909",
+    "publisher": "idjnews.kr",
+    "title_clean": "통계 뒤에 숨은 위기..당진 노사(勞使), 고용위기 선제대응지역 지정 촉...",
+    "summary": "당진시가 산업위기 선제대응지역으로 지정됨에 따라 철강산업의 글로벌 공급과잉, 저가 수입재 증가, 건설경기 침체 등 복합 위기를 공식 인정받았다. 노사가 정부 지정을 지역 산업 어려움 해결의 계기로 평가하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T10:29:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32155,22 +32171,6 @@
     "summary": "경기도 도민감리단이 우기 전 하천·도로·건축 등 공공건설 현장 179건에 대한 안전점검을 실시하여 위험 요인을 사전 발굴했다. 2019년 전국 최초로 도입된 도민감리단은 외부 전문가로 구성되어 공공공사의 품질·안전을 직접 감시하는 제도다.",
     "sentiment": "negative",
     "collected_at": "2026-07-13T07:52:51+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구상의, 상반기 경제동향 보고회 개최 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10806230?ref=naver",
-    "description": "반면 건설경기는 부진을 면치 못했다. 이 기간 건설수주액은 3천185억원으로 지난해보다 78.1% 감소, 전국 평균 증가율 41.2%와 대조를 보였다. 한편 대구상의가 지역 기업 443곳을 대상으로 실시해 공개한 ‘2026년 상반기...",
-    "published_at": "2026-07-13T07:27:00+09:00",
-    "cluster_id": "7e29",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "대구상의, 상반기 경제동향 보고회 개최",
-    "summary": "대구 지역의 상반기 경제동향을 보고하는 기사로, 건설경기가 부진을 겪고 있음을 나타냈다. 건설수주액이 3,185억원으로 전년 대비 78.1% 감소하여 전국 평균 증가율 41.2%와 대조를 보였다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T07:32:46+09:00",
     "importance": 4
   }
 ]
