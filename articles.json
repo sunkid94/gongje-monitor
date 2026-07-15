@@ -5023,6 +5023,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "스몰인사이트 \"아이엘, 자동차 전장 실적에 피지컬 AI 성장성\" - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2604286",
+    "description": "본업인 자동차 전장과 조명 사업은 안정적인 현금흐름을 창출하고 있으며, 포스코이앤씨와 약 36억원 규모의 조명기구 단가계약도 체결했다. 하이패스 사업은 보급 확대 국면을 지나 교체 수요 중심 시장으로 전환되며...",
+    "published_at": "2026-07-16T08:20:00+09:00",
+    "cluster_id": "2692",
+    "publisher": "etoday.co.kr",
+    "title_clean": "스몰인사이트 \"아이엘, 자동차 전장 실적에 피지컬 AI 성장성\"",
+    "summary": "스몰인사이트가 아이엘의 자동차 전장 사업의 안정적 현금흐름과 피지컬 AI 성장성을 평가했다. 포스코이앤씨와 36억원 규모 조명기구 계약 체결 및 하이패스 사업의 시장 전환을 긍정적으로 분석했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-16T08:25:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20971,19 +20987,18 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 3000억 규모 AAA등급 자산유동화증권 발행 성공 - cnbizm.com",
-    "link": "https://www.cnbizm.com/news/articleView.html?idxno=307925",
-    "description": "롯데건설이 공사대금채권을 활용한 3000억원 규모의 자산유동화증권(ABS) 발행에 성공했다. 준공 예정 사업장의 채권을 활용한 자금조달을 확대하며 금융비용 절감과 현금흐름 개선에 속도를 낸다는 전략이다....",
-    "published_at": "2026-07-08T11:14:00+09:00",
-    "cluster_id": "dcab",
-    "publisher": "cnbizm.com",
-    "title_clean": "롯데건설, 3000억 규모 AAA등급 자산유동화증권 발행 성공",
-    "summary": "롯데건설이 공사대금채권을 담보로 3000억원 규모의 AAA등급 자산유동화증권을 발행했다. 이는 준공 예정 사업장의 채권을 활용한 자금조달 확대로 금융비용 절감과 현금흐름 개선을 추진하는 전략이다.",
+    "title": "연준 \"데이터센터 투자에 제조·건설 경기 견인\"…베이지북 진단 - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5URXZuUUFVdXYtamhTck5BOGZEWDRwRV9FX3lyTlk1aC1razdXZnJKYTJGS3Z5cFlMY0w0V2g1SHpnbFlhWTd6MXFyNi0wdjRTZTJLV2FGY2Ixb3hOajJLSFFSdUdieHE0Rk9wRg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5URXZuUUFVdXYtamhTck5BOGZEWDRwRV9FX3lyTlk1aC1razdXZnJKYTJGS3Z5cFlMY0w0V2g1SHpnbFlhWTd6MXFyNi0wdjRTZTJLV2FGY2Ixb3hOajJLSFFSdUdieHE0Rk9wRg?oc=5\" target=\"_blank\">연준 \"데이터센터 투자에 제조·건설 경기 견인\"…베이지북 진단</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ER 이코노믹리뷰</font>",
+    "cluster_id": "1c46",
+    "publisher": "ER 이코노믹리뷰",
+    "title_clean": "연준 \"데이터센터 투자에 제조·건설 경기 견인\"…베이지북 진단",
+    "summary": "미국 연준의 베이지북에 따르면 데이터센터 투자 확대가 제조업과 건설업 경기를 견인하고 있는 것으로 진단되었다. 이는 AI 관련 인프라 수요 증가로 건설업계에 긍정적 영향을 미치고 있음을 시사한다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-08T11:19:27+09:00",
+    "collected_at": "2026-07-16T08:25:57+09:00",
     "importance": 2
   },
   {
@@ -32141,22 +32156,6 @@
     "summary": "광주은행이 한국주택금융공사, 대한주택건설협회와 함께 사업자보증 설명회를 개최하여 건설업체들을 지원했다. 이는 지역 건설경기 활성화를 위한 금융지원 및 정보 제공 활동으로 볼 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T17:05:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재건축] 광주옥천 소규모재건축, 시공자 결정 수순 '박차' - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94481",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제2조제7호 규정 및 「주택법」 제7조에 따라 건설업자로 보는 등록사업자 입찰보증금 8억 원을 조합의 계좌에 현금 납부 또는...",
-    "published_at": "2026-07-13T16:52:00+09:00",
-    "cluster_id": "8958",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재건축] 광주옥천 소규모재건축, 시공자 결정 수순 '박차'",
-    "summary": "광주옥천 소규모재건축 프로젝트가 일반경쟁입찰 방식으로 시공자 선정 절차를 진행 중이며, 참여 업체는 8억 원의 입찰보증금을 납부해야 한다. 재건축 시장의 새로운 수주 기회가 창출되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T17:00:26+09:00",
     "importance": 2
   }
 ]
