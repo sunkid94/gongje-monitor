@@ -5045,6 +5045,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "청주 사모2구역 재개발 조합, ‘특정 브로커 세력’ 개입 의혹 논란 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=2026071509013715999ae5042aca_1",
+    "description": "청주를 상징하는 랜드마크 단지로 다시 태어날 예정이다. 시공사로는 지난 2023년 10월, 조합원 찬반투표를 통해 현대건설㈜,㈜대우건설,두산건설㈜,한신공영㈜의 공동사업단으로 선정됐다. 김양훈 글로벌이코노믹 기자",
+    "published_at": "2026-07-15T09:32:00+09:00",
+    "cluster_id": "28cf",
+    "publisher": "",
+    "title_clean": "청주 사모2구역 재개발 조합, ‘특정 브로커 세력’ 개입 의혹 논란 - g-enews.com",
+    "summary": "청주 사모2구역 재개발 조합이 현대건설, 대우건설, 두산건설, 한신공영의 공동사업단을 시공사로 선정했으나, 특정 브로커 세력 개입 의혹이 제기되면서 논란이 발생했다. 재개발 사업의 투명성과 적정성 문제가 우려되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T09:38:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20995,20 +21011,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "[속보] 삼성중공업, 2849억원 규모 유조선 2척 수주…지난해 매출의 2.7% 규모 - CBC뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhdnA3WFdFMUNqN1hfRzVieEpYS3pCNE9tWmoxVnZYSU5jTXhZd1hSUHdBcXdQYkJDN0M5Q05FZEQxVDhqcE03a0tCYUtmRzVpRGFESEw2aGhPRk8zVUM0V2VIblJKdjAt?oc=5",
-    "description": "[CBC뉴스] 삼성중공업이 버뮤다 지역 선주로부터 총 2,849억원 규모의 유조선 2척 건조 계약을 수주했다.삼성중공업은 8일 공시를 통해 버뮤다 지역 선주와 유조선 2척에 대한 공사수주 계약을 체결했다고 밝혔다. 계약금액은 2,849억원으로, 2025년 연결재무제표 기준 최근 매출액 10조6,500억원의 2.7%에 해당한다.계약은 2026년 7월 7일 체결됐으며, 계약기간은 같은 날부터 2029년 5월 15일까지다. 계약 종료일은 선박 인도일 기준으로, 공사 진행 상황에 따라 변경될 수 있다.계약금 및 선급금은 지급되며, 대금은",
-    "published_at": "2026-07-08T10:08:19+09:00",
-    "cluster_id": "65fd",
-    "publisher": "CBC뉴스",
-    "title_clean": "[속보] 삼성중공업, 2849억원 규모 유조선 2척 수주…지난해 매출의 2.7% 규모",
-    "summary": "삼성중공업이 버뮤다 지역 선주로부터 2,849억원 규모의 유조선 2척 건조 계약을 수주했다. 이는 2025년 연결매출액(10조6,500억원) 대비 2.7% 규모이며, 2026년 7월부터 2029년 5월까지 약 3년간 진행된다.",
+    "title": "DL건설, 협력사 실무역량 강화 나서…상호협력교육에 250개사 참여 - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=114142",
+    "description": "교육 과정은 △건설산업기본법 실무 △하도급법 실무 △건설현장 노무관리 △납품대금 연동제 등 협력업체 실무에 필요한 내용으로 구성됐다. 사전 신청을 통해 선착순으로 참가자를 모집한 이번 교육은 접수가 조기에...",
+    "published_at": "2026-07-15T09:28:00+09:00",
+    "cluster_id": "27e9",
+    "publisher": "businessplus.kr",
+    "title_clean": "DL건설, 협력사 실무역량 강화 나서…상호협력교육에 250개사 참여",
+    "summary": "DL건설이 협력사 250개사를 대상으로 건설산업기본법, 하도급법, 노무관리, 납품대금 연동제 등 실무 교육을 실시한다. 협력업체의 역량 강화를 통한 상호협력 체계 구축 사례이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-08T10:19:50+09:00",
-    "importance": 3
+    "collected_at": "2026-07-15T09:38:50+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32156,22 +32172,6 @@
     "summary": "포항 두호주공2·3차 재건축사업이 본격화되며 주민설명회가 개최되었다. 사업을 통해 노후 주거환경 개선과 지역 건설경기 활성화가 기대되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T05:07:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주도민 삶 지키는 ‘경제 상황실’ 가동 - donga.com",
-    "link": "https://www.donga.com/news/Society/article/all/20260712/134283112/2",
-    "description": "그 아래로 생활경제 지원반, 1차산업 위기대응반, 관광시장 안정반, 건설경기 활성화반 등 4개 실무반이 분야별 소관 국장을 반장으로 운영된다. 위기 상황에 따라 한국은행 제주본부와 제주연구원, 신용보증재단...",
-    "published_at": "2026-07-13T04:32:00+09:00",
-    "cluster_id": "dede",
-    "publisher": "donga.com",
-    "title_clean": "제주도민 삶 지키는 ‘경제 상황실’ 가동",
-    "summary": "제주도가 경제 위기 대응을 위해 '경제 상황실'을 가동하며, 건설경기 활성화반을 포함한 4개 실무반을 운영한다. 건설업계를 포함한 주요 산업 분야의 경제 위기에 대응하기 위한 정부 차원의 지원 체계를 구축했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-13T04:37:41+09:00",
     "importance": 2
   }
 ]
