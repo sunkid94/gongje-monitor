@@ -21045,6 +21045,21 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "엔지니어링데일리 - 엔지니어링데일리",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81V0lqTTFSbWQwMTRBSWdpWW93WXFxRXFOeUpNNzBCaFFVTUxaMzJRWUYzVlBZOHllS01aUVgzTURqYkxuaUN5VkhLR3pPOHhpR3NRNWlvbzRMb0dmX0U0?oc=5",
+    "description": "엔지니어링산업 전문 신문, 실시간 엔지니어링 뉴스, 오피니언, 수발주 동향, 해외 뉴스 제공",
+    "cluster_id": "7093",
+    "publisher": "엔지니어링데일리",
+    "title_clean": "엔지니어링데일리",
+    "summary": "엔지니어링데일리는 엔지니어링산업 전문 신문으로서 실시간 뉴스, 오피니언, 수발주 동향, 해외 뉴스 등을 제공하는 매체입니다. 업계 정보 제공 기능을 소개한 홍보성 콘텐츠입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T09:13:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32156,22 +32171,6 @@
     "summary": "추경호 시장이 어려운 경제상황 극복을 위해 미래산업 육성, 청년친화적 근무환경 조성, 지역 건설경기 회복 등을 지원하겠다고 표명했다. 산업단지의 미래모빌리티 전환과 공공건설 사업 추진을 통해 건설업계 활성화를 추진할 계획이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-12T21:47:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "계룡건설, 협력사와 ‘안전경영’ 간담회 개최 - 충청타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14T3FqbDI1eDc4OWJDRHllVGtQUzVJd1g3NnhSS0hsZkdqbmJOdkpPdVVQZjItbWRHY0ZLaFZuSFlMeGQ3OUZVOHVOc1dpVC1KdzRwRVhSMzMwc2hVTE9ZVE9YTElZbHo1?oc=5",
-    "description": "[충청타임즈] 대전 계룡건설이 중대재해 예방을 위한 ‘협력사 간담회’를 개최했다.간담회는 협력사와의 상생 협력 체계를 공고히 하고, 현장 중심의 실효성 있는 안전관리 방안을 함께 모색하기 위해 마련됐다.행사에는 계룡건설 이은완 CSO와 윤길호 사장을 비롯한 안전 담당 임직원, 건축·토목 분야 54개 주요 협력사 관계자가 참석해 중대재해 예방과 안전경영 강화 방안에 대해 의견을 나눴다.간담회에서는 중대재해 예방 우수사례를 공유하고, 현장에서 겪는 애로사항과 실효성 있는 안전관리 방안에 대해 소통하는 시간을 가졌다.우수사례 발표에서는",
-    "published_at": "2026-07-12T14:51:00+09:00",
-    "cluster_id": "cc4b",
-    "publisher": "충청타임즈",
-    "title_clean": "계룡건설, 협력사와 ‘안전경영’ 간담회 개최",
-    "summary": "계룡건설이 협력사 54개사와 중대재해 예방을 위한 간담회를 개최했다. 안전경영 강화 방안과 현장 중심의 실효성 있는 안전관리 방안을 함께 모색하는 자리를 가졌다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-12T21:22:52+09:00",
     "importance": 2
   }
 ]
