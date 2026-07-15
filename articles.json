@@ -4991,6 +4991,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "뚝 떨어진 해외건설 수주액⋯건설업계 \"북미·아시아서 돌파구\" - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2604093",
+    "description": "대우건설 역시 12억달러에서 9200만달러로 급감했다. 다만 현대건설은 7억3500만달러에서 35억1400만달러로 확대됐다. 이에 대형 건설사들은 중동 의존도를 낮추며 북미·아시아 등으로 시장 다변화에 나서는 모습이다....",
+    "published_at": "2026-07-16T05:02:00+09:00",
+    "cluster_id": "c3f6",
+    "publisher": "etoday.co.kr",
+    "title_clean": "뚝 떨어진 해외건설 수주액⋯건설업계 \"북미·아시아서 돌파구\"",
+    "summary": "해외건설 수주액이 전년 대비 급감했으나, 현대건설 등 대형사들이 중동 의존도를 낮추고 북미·아시아 시장으로 다변화를 추진 중이다. 업계가 새로운 성장동력 확보에 나서는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T05:11:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -20940,20 +20956,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "“배달라이더도 근로자”…플랫폼 노동판 뒤집힌다 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20065160?ref=naver",
-    "description": "삼성물산은 말레이시아 AI 데이터센터(약 2억 1700만 달러)와 베트남 삼성전자(005930) 반도체 공장(약 1억 5100만 달러)을 잇따라 수주했고, 포스코이앤씨는 태국 에탄 터미널(약 3억 1700만 달러)을 수주하며 새 시장을...",
-    "published_at": "2026-07-08T11:01:00+09:00",
-    "cluster_id": "0545",
-    "publisher": "sedaily.com",
-    "title_clean": "“배달라이더도 근로자”…플랫폼 노동판 뒤집힌다",
-    "summary": "제목과 본문의 불일치로 기사 분석이 어렵습니다. 제목은 배달라이더 근로자 지위 관련 플랫폼 노동 규제를 암시하나, 본문은 삼성물산과 포스코이앤씨의 해외 건설 수주 소식을 다루고 있습니다. 건설업계 관점에서는 해외 수주 확대로 긍정적이나 제목 주제와의 연관성이 불명확합니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-08T11:04:55+09:00",
-    "importance": 2
+    "title": "건설수주 50% 늘었는데 주택은 반토막…반도체에 가린 한파 - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20260715500308",
+    "description": "6월 건설경기실사지수에서 대기업 지수는 91.7로 전월보다 5.0포인트(p) 상승했다. 중견기업도 72.4로 5.7p 올랐지만 중소기업은 59.4로 1.9p 하락했다. 7월 중소기업 전망지수는 58.3으로 대기업 전망치인 83.3보다 25p...",
+    "published_at": "2026-07-16T05:00:00+09:00",
+    "cluster_id": "f88b",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "건설수주 50% 늘었는데 주택은 반토막…반도체에 가린 한파",
+    "summary": "6월 건설수주가 50% 증가했으나 주택건설은 급락했고, 대기업과 중소기업 간 경기 격차가 심화되고 있다. 반도체 건설 수요 편중으로 인해 건설업계 전반적인 회복세가 제한적인 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-16T05:11:22+09:00",
+    "importance": 5
   },
   {
     "keyword": "건설경기",
@@ -32145,21 +32161,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-13T16:10:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전문학 서구청장, 출근길 정림동 트램 공사 현장 방문 - mediatoday.asia",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1BZNTVkUFdGYWpGRkNNSG9DMnFUVF84N1drQml3bEdndFh0ZW1peWE3T19YT1FEZ293UmEycWkxZGhSSS0wUFZlWkhmbXREZWNTcE5TeUQtcnRYWFVVZ3J2ZlptZWRaVDZmT1BMSWtkdE5TRU04Zm1NUHpXTVQ4TzVMSDkyUTBMVG5TVFQ1N3ltSW5wb2VjVXB3SkV4T3M3MDdzMQ?oc=5",
-    "description": "전문학 서구청장이 13일 아침 정림동 트램 건설 현장을 둘러보고 있다 [미디어투데이=안상일 기자] 전문학 대전 서구청장은 13일 아침 정림동 대전도시",
-    "published_at": "2026-07-13T13:28:00+09:00",
-    "cluster_id": "d59d",
-    "publisher": "mediatoday.asia",
-    "title_clean": "전문학 서구청장, 출근길 정림동 트램 공사 현장 방문",
-    "summary": "전문학 대전 서구청장이 정림동 트램 건설 현장을 방문하여 공사 진행 상황을 점검했다. 지자체장의 현장 방문으로 트램 건설 사업의 진행을 독려하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T16:10:02+09:00",
-    "importance": 2
   }
 ]
