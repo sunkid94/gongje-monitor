@@ -20941,6 +20941,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경북개발공사, 폭염 대비 건설현장 안전점검…근로자 건강관리 강화 - breaknews.com",
+    "link": "http://www.breaknews.com/1222086",
+    "description": "경상북도개발공사는 여름철 폭염이 지속되는 동안 건설현장 안전관리를 강화하고 근로자 건강 보호를 위한 현장 점검을 이어갈 계획이다. 이재혁 경상북도개발공사...",
+    "published_at": "2026-07-15T18:40:00+09:00",
+    "cluster_id": "cb5d",
+    "publisher": "breaknews.com",
+    "title_clean": "경북개발공사, 폭염 대비 건설현장 안전점검…근로자 건강관리 강화",
+    "summary": "경상북도개발공사가 여름철 폭염에 대비하여 건설현장 안전점검을 강화하고 근로자 건강관리를 추진 중이다. 현장 점검을 통해 폭염으로 인한 안전사고 예방에 주력하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T18:45:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32151,21 +32167,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-13T15:09:53+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, 김건희 오는 19일 소환…'관저 이전 의혹' 조사 - mbn.mk.co.kr",
-    "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5205589",
-    "description": "건설산업기본법에 따르면 증축 등 공사를 하려면 종합건설업 면허가 있어야 합니다. 그러나 21그램은 내부 인테리어 공사(실내건축공사업)만 할 수 있는 업체로 등록돼 있어 관저 증축 및 구조보강 공사를 하는 것은 법령...",
-    "published_at": "2026-07-13T15:00:00+09:00",
-    "cluster_id": "01ae",
-    "publisher": "mbn.mk.co.kr",
-    "title_clean": "종합특검, 김건희 오는 19일 소환…'관저 이전 의혹' 조사",
-    "summary": "종합특검이 김건희 피의자를 19일 소환하여 관저 이전 의혹을 조사합니다. 21그람이 실내건축공사업만 등록되어 있으면서 종합건설업 면허가 필요한 관저 증축·구조보강 공사를 진행한 것으로 의심되고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T15:04:51+09:00",
-    "importance": 4
   }
 ]
