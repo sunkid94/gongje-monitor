@@ -20956,6 +20956,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[패트롤] 김포시의회-동두천시의회-의왕시의회-하남시의회 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20260716024472970",
+    "description": "의왕=에너지경제신문 강근주기자 김태흥 의왕시의회 의원이 관내 건설경기 침체를 타개하고 지역건설산업체의 실질적인 수주 기회를 확대하기 위해 대표 발의한 '의왕시 지역건설산업 활성화 촉진 조례 일부개정조례안...",
+    "published_at": "2026-07-16T04:00:00+09:00",
+    "cluster_id": "dbea",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤] 김포시의회-동두천시의회-의왕시의회-하남시의회",
+    "summary": "의왕시의회 김태흥 의원이 지역건설산업 활성화를 위해 '의왕시 지역건설산업 활성화 촉진 조례 일부개정조례안'을 대표 발의했습니다. 건설경기 침체 속에서 지역건설산업체의 실질적인 수주 기회 확대를 목표로 하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-16T04:06:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32145,21 +32161,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-13T16:10:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "서한, 국토부 상호협력평가 최우수등급 쾌거 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026071315560966427",
-    "description": "서한은 ▷조달청 공공입찰 참가 자격 사전심사 가점 ▷시공능력평가액 6% 가산 ▷건설산업기본법상 벌점 0.5점 감경 등의 혜택을 받게 된다. ㈜서한은 협력업체와의 동반성장을 위한 다양한 실천을 지속해오고 있다....",
-    "published_at": "2026-07-13T15:57:00+09:00",
-    "cluster_id": "e241",
-    "publisher": "imaeil.com",
-    "title_clean": "서한, 국토부 상호협력평가 최우수등급 쾌거",
-    "summary": "서한이 국토부 상호협력평가에서 최우수등급을 획득하여 공공입찰 가점, 시공능력평가액 가산, 벌점 감경 등 다양한 혜택을 받게 되었다. 이는 협력업체와의 동반성장 실천을 인정받은 결과다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T16:05:08+09:00",
-    "importance": 3
   }
 ]
