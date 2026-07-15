@@ -20954,6 +20954,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "코스피 널뛰기 원인 '단일종목 레버리지' 꼽히자...이 \"보완대책 신속 ... - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0102_202607160733486998",
+    "description": "[이정환] 건설경기에 대한 우려가 많다고 말씀드릴 수 있고요. 건설경기가 2022년, 2023년 이후에 고금리 시절이 오고 공급망 이슈 때문에 원자재 가격 상승에 따라서 많이 안 되고 있는 양상들이거든요. 작년에 금리가...",
+    "published_at": "2026-07-16T07:33:00+09:00",
+    "cluster_id": "fb5f",
+    "publisher": "ytn.co.kr",
+    "title_clean": "코스피 널뛰기 원인 '단일종목 레버리지' 꼽히자...이 \"보완대책 신속 ...",
+    "summary": "코스피 변동성 원인으로 단일종목 레버리지가 지목되면서 보완대책 마련이 촉구되고 있습니다. 건설업계는 2022년 이후 고금리, 공급망 이슈로 인한 원자재 가격 상승으로 어려운 경영 환경에 직면해 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-16T07:50:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32142,21 +32158,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-13T16:40:18+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "산업계 폭염 대응 고도화, AI·웨어러블로 현장 안전 강화 - 2news.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5odGhuLU5RQk5XUmhwYjZWeGdHNEpkbHhmSjdILW9DMXpzaEQtSk5FV2F3Z2FSd25QeEJXT3ZLOFVUNnI3cjhZUkxoN0RkQ1hEWW5BcjRQaTNmQ3Z2TDhzejdvdFNHTlp2?oc=5",
-    "description": "산업 현장의 혹서기 대응 체계가 기술 중심으로 빠르게 진화하고 있다. 단순한 생수나 얼음조끼 지급을 넘어 인공지능(AI)과 웨어러블 기기를 동원해 근로자의 실시간",
-    "published_at": "2026-07-13T16:04:00+09:00",
-    "cluster_id": "9eb9",
-    "publisher": "2news.co.kr",
-    "title_clean": "산업계 폭염 대응 고도화, AI·웨어러블로 현장 안전 강화",
-    "summary": "산업 현장의 폭염 대응이 AI와 웨어러블 기기 등 첨단 기술을 활용한 방향으로 고도화되고 있다. 근로자의 실시간 건강 모니터링과 안전 관리 체계가 강화되면서 산업 현장의 작업 환경이 개선되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T16:40:18+09:00",
-    "importance": 2
   }
 ]
