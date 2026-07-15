@@ -20958,6 +20958,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“AI가 건설 패러다임 바꾼다” 기술실증∙강소기업 관심집중 - 정보통신신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fRGxFMTBTbTVReE9mWWYxRndKRm5abVIwYkhydTJkMjZPcUREUFdWVVJuRlVkaG56UXV3cTl2eEJDdjZHUkU2al84V0RSbElwbWxBdFlqcXgzeHJRcHZjUm91UmlIb21D0gFsQVVfeXFMTXpPcnN3Y1hGQmx0b01DeUZ3SmNKNDdpZXJEMUx6bzZJc0dDZGJmSXdqYV9Dc0xuLUgwXzMxbUJEYlo2ZWRHZ21OOG5JWFkwXzNSVDR3bkMzSUlQWG9oZHBGZ0g0TThqSXZhZ09q?oc=5",
+    "description": "[정보통신신문=차종환기자]국토교통부와 한국건설기술연구원이 건설산업에 AI 도입을 촉진하고 자동화와 탈현장화를 이끌 선도기업 육성을 위해 ‘스마트건설 기술실증 지원",
+    "published_at": "2026-07-15T16:42:00+09:00",
+    "cluster_id": "679a",
+    "publisher": "정보통신신문",
+    "title_clean": "“AI가 건설 패러다임 바꾼다” 기술실증∙강소기업 관심집중",
+    "summary": "국토교통부와 한국건설기술연구원이 건설산업의 AI 도입을 촉진하고 자동화·탈현장화를 추진하는 스마트건설 기술실증 지원 사업을 추진 중이다. 이는 건설산업의 혁신과 생산성 향상을 목표로 선도기업 육성에 집중하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-15T18:30:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32149,22 +32165,6 @@
     "publisher": "mk.co.kr",
     "title_clean": "[속보] 종합특검, 김건희 여사 19일 소환조사",
     "summary": "종합특검이 김건희 여사를 19일 소환조사할 예정이며, 관저 증축 공사와 관련하여 21그램이 보유한 실내건축공사업 면허로는 법적으로 불가능한 증축 및 구조보강 공사를 수행한 것으로 지적되고 있다. 건설산업기본법 위반 혐의로 검찰 조사가 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T14:59:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[속보] 종합특검, 김건희 여사 19일 ‘관저 이전 의혹’ 소환조사 - joongang.co.kr",
-    "link": "https://www.joongang.co.kr/article/25444606",
-    "description": "건설산업기본법에 따르면 증축 등 공사를 하려면 종합건설업 면허를 갖춰야 한다. 그러나 21그램은 실내 인테리어 공사만 가능한 실내건축공사업 등록 업체여서 관저 증축과 구조보강 공사를 수행한 것은 법령 위반이라는...",
-    "published_at": "2026-07-13T14:07:00+09:00",
-    "cluster_id": "2591",
-    "publisher": "joongang.co.kr",
-    "title_clean": "[속보] 종합특검, 김건희 여사 19일 ‘관저 이전 의혹’ 소환조사",
-    "summary": "종합특검이 김건희 여사를 관저 이전 의혹으로 소환조사 예정. 21그램이 실내건축공사업 등록으로는 법상 불가능한 관저 증축·구조보강 공사를 수행해 건설산업기본법 위반 혐의.",
     "sentiment": "negative",
     "collected_at": "2026-07-13T14:59:35+09:00",
     "importance": 4
