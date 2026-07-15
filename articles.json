@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전건협, 전남 화순군 회원사와 현장 간담회···제도개선 과제 발굴 나서 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325316",
+    "description": "대한전문건설협회 중앙회(회장 윤학수)는 전국 주요 시·군 회원사들과 직접 만나 전문건설업계 제도 개선 과제를 발굴하는 ‘2026 KOSCA 전문건설 지역 현장 간담회’를 이어가고 있다.지난 10일 윤학수 중앙회장은 전남광주통합특별시 화순군을 방문, 임지락 군수와 간담회를 진행했다. 이 자리에는 강성진 전남도회장을 비롯해 김현정 감사, 이수정 장학이사, 화순군 협의회 회원 등이 참석했다. 이들은 지역 전문건설산업 활성화와 지역업체 경쟁력 강화를 위한 정책과 제도개선 방안을 건의했다.이어진 회원사 현장 간담회에서는 △소규모 건설공사 표",
+    "published_at": "2026-07-15T10:43:45+09:00",
+    "cluster_id": "a0b1",
+    "publisher": "대한전문건설신문",
+    "title_clean": "전건협, 전남 화순군 회원사와 현장 간담회···제도개선 과제 발굴 나서",
+    "summary": "대한전문건설협회 중앙회가 전남 화순군 회원사와 현장 간담회를 개최하여 지역 전문건설산업 활성화와 제도개선 방안을 논의했다. 소규모 건설공사 표준 등 업계의 경쟁력 강화를 위한 정책 건의가 이루어졌다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T10:46:09+09:00",
+    "event_label": "전문건설공제조합 중앙회 전국 지역 현장 간담회 개최",
+    "importance": 5
+  },
+  {
     "keyword": "기계설비건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32155,21 +32172,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-13T08:42:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중진공·KB금융, 中企 산업안전 점검…950개사 안전설비 지원 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VRnRUUmVlTWRvUllFQVJPaXlzMFJoVW5ZSDhFM09iN3cxVHBLOWFNbUlFZ2dtamhLS2owQUZGaGtldUJkeUZWVW5vMkswNFFvWGRHSF9pa2JKRGhPbk4ybndHSnM?oc=5",
-    "description": "매일일보 = 오시내 기자 | 중소벤처기업진흥공단(중진공)과 KB금융그룹이 중소기업 산업안전 지원사업의 추진 현황을 점검하고 우수 사례를 공유했다. 추락사고 예방 장비와 스마트 안전관리 플랫폼, 외국인 근로자 맞춤형 안전교육 등을 통해 산업현장 안전관리 수준을 높인다는 계획이다.중진공은 KB금융그룹과 함께",
-    "published_at": "2026-07-13T08:31:32+09:00",
-    "cluster_id": "5b57",
-    "publisher": "매일일보",
-    "title_clean": "중진공·KB금융, 中企 산업안전 점검…950개사 안전설비 지원",
-    "summary": "중소벤처기업진흥공단과 KB금융그룹이 중소기업 산업안전 지원사업을 추진 중이며, 950개사에 안전설비를 지원하고 있다. 추락사고 예방 장비, 스마트 안전관리 플랫폼, 외국인 근로자 맞춤형 안전교육 등을 통해 산업현장 안전관리 수준을 개선할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-13T08:42:52+09:00",
-    "importance": 2
   }
 ]
