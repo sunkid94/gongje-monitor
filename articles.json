@@ -20940,6 +20940,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설·서비스업 늘었지만 제조업·도소매 주춤… 울산 고용시장 산업별... - ujeil.com",
+    "link": "http://www.ujeil.com/news/articleView.html?idxno=388915",
+    "description": "지난 3월 이후 증가세를 이어가는 가운데 최근 울산 건설수주가 증가세를 보이는 등 건설경기 회복 흐름과 맞물린 것으로 풀이된다. 이어 사업·개인·공공서비스 및 기타도 21만3천명으로 7천명(3.3%), 전기·운수...",
+    "published_at": "2026-07-15T21:06:00+09:00",
+    "cluster_id": "1a27",
+    "publisher": "ujeil.com",
+    "title_clean": "건설·서비스업 늘었지만 제조업·도소매 주춤… 울산 고용시장 산업별...",
+    "summary": "울산 고용시장에서 건설업과 서비스업이 증가세를 보이고 있으며, 최근 건설수주 증가로 건설경기 회복이 이어지는 중입니다. 다만 제조업과 도소매업은 주춤한 상태로 산업별 편차가 발생하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-15T21:10:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32148,22 +32164,6 @@
     "title_clean": "현대건설, 철도 입체화·지하물류·하이퍼튜브 기술개발 속도",
     "summary": "현대건설 연구원이 에너지, 미래주거, 스마트건설, 인프라 등 4개 분야 중심으로 연구체계를 개편하고 SMR, 수소, 해상풍력 등 차세대 에너지 기술 개발을 가속화하고 있다. 철도 입체화, 지하물류, 하이퍼튜브 등 미래 인프라 기술 개발로 신규 사업 기회를 모색 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-13T15:40:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[기획] 수도권 건설경기 살아난다고?…지방은 먼 얘기 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDbmZ5cTdtNWthS3R0aEJxSDlob2xPcmk3NzhiVWJ0TUVCdG9mZVJ5LVcwVzRGanV4UnpCNmxKaHhNNGUyYWhqUlFKbWtCZk1PQk8wNEsxWTNzaVJrXzBSME5CUUI?oc=5",
-    "description": "매일일보 = 김다니엘 기자 | 수도권 건설경기가 반도체·데이터센터 투자 및 공공 발주 확대를 발판으로 완만한 회복 조짐을 보이고 있지만, 지방 건설시장은 여전히 깊은 침체 국면에 머물러 있다. 지표상 건설·주택경기 반등 신호 상당수가 ‘수도권 편중’으로 나타나면서, 전국 단위 회복으로 보긴 이르다는 지적이 나온다.13일 한국건설산업연구원에 따르면 올해 1분기 건설공사 계약액은 산업설비·플랜트 공사를 중심으로 전년 동기 대비 20% 안팎 증가한 것으로 추정된다. 반도체 생산시설과 AI 데이터센터, 물류센터 등 이른바 ‘하이테크 인프라",
-    "published_at": "2026-07-13T15:27:33+09:00",
-    "cluster_id": "acc0",
-    "publisher": "매일일보",
-    "title_clean": "[기획] 수도권 건설경기 살아난다고?…지방은 먼 얘기",
-    "summary": "수도권 건설경기가 반도체, 데이터센터 투자 등으로 회복 조짐을 보이는 반면, 지방 건설시장은 여전히 침체 상태가 지속되고 있다. 1분기 건설공사 계약액은 전년 대비 20% 증가했으나 수도권 편중 현상으로 인해 전국 단위의 회복으로 보기는 어렵다는 평가다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-13T15:40:17+09:00",
     "importance": 2
   }
