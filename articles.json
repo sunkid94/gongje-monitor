@@ -3,6 +3,22 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "기계설비건설협, 동의대 전문인력 양성에 2000만 원 - 국제신문",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnJOYTl3OV9ZX3VEQXduczdkc0ZaMmh3bFJEb0x0Z0lVc3lnMDFWR2NrUjJUcjVZd0lMWHh6SGhqQ0Y5ekNPcUpUYVVNM1RicXp0Qkw1ZEN5SXJnRUVxUkpRYTFtSEZVUTlPdlRPVW5BTnJWYlhneDFVVGtmSV9JYXdYYjhyUE4xVTVCWnJzYzVCbUE0WDRsTA?oc=5",
+    "description": "대한기계설비건설협회는 지난 14일 동의대를 방문해 기계설비 전문인력 양성 지원금 2000만 원을 전달(사진)했다. 이날 지원금 전달식에는 동의대 한수환 총장과 김..",
+    "cluster_id": "3cc4",
+    "publisher": "국제신문",
+    "title_clean": "기계설비건설협, 동의대 전문인력 양성에 2000만 원",
+    "summary": "대한기계설비건설협회가 동의대학교에 기계설비 전문인력 양성을 위해 2000만 원의 지원금을 전달했다. 업계 인재 육성을 위한 협회의 사회공헌 활동이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-15T19:40:39+09:00",
+    "event_label": "대한기계설비건설협회 동의대 전문인력 양성 지원금 2000만 원 전달",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "대한기계설비건설협회, 동의대에 기계설비분야 전문가 양성 지원금 2000만 원 기탁 - 국제신문",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSFBhX19FY2V0VzJwNEtoM2ZtNW1uZllFLWIxcGNGYVRWeVJEVGllLUN3ZUZBbmNONHVZbERNUjNtOTRwUlctUWNyUGcyWDdCUG5RS3l2RU93Y0pIQlBONkxFSjZYS09UaVROR09mN202Y04tYWRrcjFNYS05Y2FHekFwYklqOURyTVIzNHJR?oc=5",
     "description": "대한기계설비건설협회(회장 허용주)가 동의대학교(총장 한수환)에 기계설비분야 전문가 양성을 위한 지원금 2000만 원을 기탁했다. 대한기계설비건설협회는 관련..",
@@ -32149,22 +32165,6 @@
     "summary": "성주군이 폭염경보 발효에 따라 살수차를 긴급 투입하고 건설현장 안전관리를 강화하는 등 폭염 대응에 나섰다. 도심 열섬현상 완화와 온열질환 예방에 총력을 기울이고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-07-13T15:29:58+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, '관저 이전 의혹' 김건희 19일 소환 예정 - news.sbs.co.kr",
-    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655157&plink=ORI&cooper=NAVER",
-    "description": "건설산업기본법에 따르면 증축 등 공사를 하려면 종합건설업 면허가 있어야 합니다. 하지만, 21그램은 내부 인테리어 공사(실내건축공사업)만 할 수 있는 업체로 등록돼 있어서 관저 증축 및 구조 보강 공사를 하는 건...",
-    "published_at": "2026-07-13T15:09:00+09:00",
-    "cluster_id": "c0d9",
-    "publisher": "news.sbs.co.kr",
-    "title_clean": "종합특검, '관저 이전 의혹' 김건희 19일 소환 예정",
-    "summary": "검찰이 관저 이전 의혹 관련 김건희를 소환할 예정이며, 21그램이 종합건설업 면허 없이 관저 증축·구조 보강 공사를 수행한 것으로 드러났습니다. 건설산업기본법 위반으로 건설업계의 법규 준수 문제가 대두되고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T15:20:26+09:00",
     "importance": 4
   }
 ]
