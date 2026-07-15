@@ -4975,6 +4975,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "폭염 속 조선업 현장은 '구슬땀' - news.knn.co.kr",
+    "link": "https://news.knn.co.kr/news/article/190124",
+    "description": "한화오션은 휴식시간을 일찌감치 추가했고 삼성중공업은 이동식 에어컨과 쿨링 휴게시설을 확대 운영합니다. 하지만 현장에서는 철판복사열과 용접열이 더해져 체감온도가 훨씬 높아지는만큼 더 강화된 대책을...",
+    "published_at": "2026-07-15T20:46:00+09:00",
+    "cluster_id": "9f56",
+    "publisher": "news.knn.co.kr",
+    "title_clean": "폭염 속 조선업 현장은 '구슬땀'",
+    "summary": "폭염으로 인한 조선업 현장의 열악한 근무환경을 다룬 기사로, 한화오션과 삼성중공업 등 주요 조선사들이 휴식시간 추가 및 냉방시설 확대 등 대응책을 마련하고 있습니다. 그러나 철판복사열과 용접열로 인한 높은 체감온도에 대해 더 강화된 대책이 필요한 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T20:50:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20919,22 +20935,6 @@
     "publisher": "sidae.com",
     "title_clean": "SK 1000조·GS 30조 투자…'AI 데이터센터' 시공 경쟁",
     "summary": "SK와 GS 등 대형 기업들이 AI 데이터센터에 대규모 투자를 진행하면서 대우건설, 현대건설, DL이앤씨 등 건설사들의 데이터센터 시공 수주가 증가하고 있다. 이는 건설업계에 새로운 수주 기회와 사업 영역 확대를 가져오는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T10:54:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "건설사 시선은 압구정·성수서 여의도·목동으로…강북은 성산시영 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2340977.htm",
-    "description": "지난 5월 열린 현장설명회에는 삼성물산, 대우건설, GS건설, 롯데건설, IPARK현대산업개발 등 7개사가 참석했다. 여의도 최대 재건축 사업장인 시범아파트도 다음달 25일 입찰을 마감한다. 최고 59층, 2491가구 규모로...",
-    "published_at": "2026-07-08T10:47:00+09:00",
-    "cluster_id": "ba2a",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "건설사 시선은 압구정·성수서 여의도·목동으로…강북은 성산시영",
-    "summary": "서울 주요 재건축 사업장들이 활발한 건설사 수주 경쟁을 벌이고 있으며, 여의도 최대 규모 재건축 프로젝트가 진행 중이다. 대형 건설사들의 적극적인 참여로 건설 시장의 수주 기회가 증가하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-08T10:54:35+09:00",
     "importance": 2
