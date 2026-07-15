@@ -5023,6 +5023,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[KMEC 증권 레이더 ⑯] 격화된 이란 분쟁, 건설업 투자심리 흔든다 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50849",
+    "description": "중동 정세가 다시 악화되면서 건설업종을 둘러싼 투자심리도 위축되고 있다. 이란과 미국 간 무력 충돌이 재개되며 유가가 배럴당 70달러를 웃돌고, 중동 건설비 상승 가능성까지 제기되면서 해외 EPC(설계·조달·시공)와 재건 관련 기대감은 당분간 힘을 받기 어려울 것이라는 전망이 나왔다.지난 14일 하나증권에 따르면 지난주 건설업 수익률은 코스피 대비 4.4%포인트 높은 성과를 기록했다. 코스피가 하락하는 가운데 건설주는 상대적으로 낙폭이 제한됐으며 기관과 외국인, 연기금이 모두 순매수에 나섰다. 기관은 삼성물산과 GS건설을 중심으로",
+    "published_at": "2026-07-16T08:30:00+09:00",
+    "cluster_id": "5df5",
+    "publisher": "기계설비신문",
+    "title_clean": "[KMEC 증권 레이더 ⑯] 격화된 이란 분쟁, 건설업 투자심리 흔든다",
+    "summary": "중동 이란-미국 무력 충돌 재개로 유가 상승 및 중동 건설비 증가 우려가 제기되고 있다. 해외 EPC와 재건 관련 기대감이 당분간 약화될 것으로 예상되며, 건설업 투자심리가 위축되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-16T08:40:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20971,20 +20987,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "시티오씨엘의 정점… ‘시티오씨엘 9단지 오션파크뷰’ 8월 분양 - theviewers.co.kr",
-    "link": "https://theviewers.co.kr/View.aspx?No=4141055",
-    "description": "이번에 공급되는 '시티오씨엘 9단지 오션파크뷰'는 ㈜디씨알이가 시행을 맡고 HDC현대산업개발, 현대건설, 포스코이앤씨가 시공한다. 용현·학익 1블록 도시개발사업 3BL 일원에 지하 2층~지상 49층, 9개 동, 전용면적 59...",
-    "published_at": "2026-07-08T11:08:00+09:00",
-    "cluster_id": "9766",
-    "publisher": "theviewers.co.kr",
-    "title_clean": "시티오씨엘의 정점… ‘시티오씨엘 9단지 오션파크뷰’ 8월 분양",
-    "summary": "시티오씨엘 9단지 오션파크뷰가 8월 분양될 예정이며, 디씨알이 시행, HDC현대산업개발·현대건설·포스코이앤씨가 시공한다. 용현·학익 1블록 도시개발사업 일환으로 지상 49층 규모의 대규모 주거 프로젝트이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T11:19:27+09:00",
-    "importance": 2
+    "title": "‘충청 향토기업’의 뚝심 타이어뱅크, 지역경제 선순환 이끈다 - wowtv.co.kr",
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150388&t=NN",
+    "description": "최근 한국은행이 발표한 지역경제보고서에 따르면 충청권은 반도체와 디스플레이 등 일부 첨단산업을 중심으로 생산 회복세가 나타나고 있지만 건설경기 둔화와 소비 위축 등의 문제로 지역경제 전반의 체감경기는...",
+    "published_at": "2026-07-16T08:30:00+09:00",
+    "cluster_id": "dbd5",
+    "publisher": "wowtv.co.kr",
+    "title_clean": "‘충청 향토기업’의 뚝심 타이어뱅크, 지역경제 선순환 이끈다",
+    "summary": "충청권 지역경제가 반도체·디스플레이 등 첨단산업 중심으로 회복 중이나, 건설경기 둔화와 소비 위축이 지속되고 있는 상황입니다. 타이어뱅크 같은 향토기업의 지역경제 선순환 역할이 주목받고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-16T08:40:54+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32140,22 +32156,6 @@
     "summary": "KB금융이 중소벤처기업진흥공단과 함께 중소기업 산업안전 인프라 구축을 지원하는 사업을 추진한다. 올해 안전 기술·제품 공급기업 50곳을 선발해 약 950개 중소기업과 매칭하여 현장 개선, 안전물품 공급, 안전교육·컨설팅 등을 제공한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T17:10:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "광주은행, 사업자보증 설명회 개최…지역 건설경기 활성화 지원 - 투데이광주전남",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05Qlh1UENkc3RzYXNSQTlGWEZRN2JseG10YkZhSmR4SUg4N3dzLTJHSjBMclFKSWNXemU1amFubGNkVFlqTnZWZ1VucnZtQXRsMXdFekN5LXlVck1hd0JwYXFMWmI3bG5QeEVTQzc4eUc?oc=5",
-    "description": "광주은행은 지난 10일 본점 3층 대회의실에서 한국주택금융공사와 대한주택건설협회가 공동 주최한 '사업자보증 설명회'가 개최됐다고 밝혔다.이번 행사는 한국주택금융공",
-    "published_at": "2026-07-13T17:00:50+09:00",
-    "cluster_id": "9377",
-    "publisher": "투데이광주전남",
-    "title_clean": "광주은행, 사업자보증 설명회 개최…지역 건설경기 활성화 지원",
-    "summary": "광주은행이 한국주택금융공사, 대한주택건설협회와 함께 사업자보증 설명회를 개최하여 건설업체들을 지원했다. 이는 지역 건설경기 활성화를 위한 금융지원 및 정보 제공 활동으로 볼 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T17:05:30+09:00",
     "importance": 2
   }
 ]
