@@ -4991,6 +4991,21 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성重, 美 FLNG1 이어 FLNG2도 수주하나 - 해양통신",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Qb2JjcWtIaVAzUkpwY2pxak5OQUdqUGJKY1FpWjFXeUlqazJ6Q3ZCeGp2WkNzX25NbjFGdjJVVG85LUZmSVVoUFNyb3BtbElXOEl2MGhaUEdlVTNyRzgyUg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Qb2JjcWtIaVAzUkpwY2pxak5OQUdqUGJKY1FpWjFXeUlqazJ6Q3ZCeGp2WkNzX25NbjFGdjJVVG85LUZmSVVoUFNyb3BtbElXOEl2MGhaUEdlVTNyRzgyUg?oc=5\" target=\"_blank\">삼성重, 美 FLNG1 이어 FLNG2도 수주하나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">해양통신</font>",
+    "cluster_id": "67fa",
+    "publisher": "해양통신",
+    "title_clean": "삼성重, 美 FLNG1 이어 FLNG2도 수주하나",
+    "summary": "삼성중공업이 미국 FLNG1에 이어 FLNG2 프로젝트도 수주할 가능성이 있다. 대규모 해양플랜트 수주로 건설업계의 수익 기회 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-16T06:26:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20937,21 +20952,6 @@
     "title_clean": "메모리값 폭등의 역설…삼성 DX 이익은 반토막",
     "summary": "포스코이앤씨가 태국 에탄 터미널 프로젝트 4842억 원 규모를 수주하고, 인천국제공항공사가 우즈베키스탄 공항 현대화·운영사업 1억 3400만 달러 규모를 수주했다. 건설업계의 해외 대형 프로젝트 수주가 이어지고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-08T11:09:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[이슈체크] 현대는 CB, 롯데는 ABS…돈 구하는 법도 달라진 건설사 - 조세금융신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TdzRqcy1iNlNSVnhLaW9samJjY1N1dldadFdoTmpUaXEyeVVqVVJkTVJoZFJuaGpZSEVWcFNvZXRBNVFGWTBIUC1QYVVsei1mWEctQUdnSzJ2MzZHRW1uNnBiMA?oc=5",
-    "description": "(조세금융신문=이정욱 기자) 대형 건설사들의 자금조달 방식이 다양해지고 있다. 현대건설은 전환사채(CB)를 통해 미래 성장사업 투자 재원을 확보했고, 롯데건설은 자산유동화증권(ABS)을 활용해 공사대금 회수 속도를 높였다. 반면 삼성물산과 GS건설, DL이앤씨, 대우건설은 기존 회사채와 기업어음(CP), 차입금 등을 중심으로 유동성을 관리하는 등 재무 여건",
-    "cluster_id": "e8d7",
-    "publisher": "조세금융신문",
-    "title_clean": "[이슈체크] 현대는 CB, 롯데는 ABS…돈 구하는 법도 달라진 건설사",
-    "summary": "현대건설과 롯데건설 등 대형 건설사들이 전환사채(CB), 자산유동화증권(ABS) 등 다양한 금융기법을 활용해 자금조달 방식을 다각화하고 있다. 각 건설사는 자신의 재무 여건에 맞게 차별화된 유동성 관리 전략을 추진 중이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-08T11:09:23+09:00",
     "importance": 2
   },
