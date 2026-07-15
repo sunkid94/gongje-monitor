@@ -5062,23 +5062,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, 하반기 인재 확보 나선다 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=416476",
-    "description": "K-FINCO 전문건설공제조합이 2026년도 하반기 직원 공개채용을 진행한다고 15일 밝혔다. 모집 분야는 ▲신입직(상경, 건축․토목) ▲경력직(IT개발, IT보안) ▲변호사 총 3개 분야로 나눠 진행된다 지원 자격에는 성별...",
-    "published_at": "2026-06-15T09:16:00+09:00",
-    "cluster_id": "2a53",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "전문건설공제조합, 하반기 인재 확보 나선다",
-    "summary": "전문건설공제조합(K-FINCO)이 2026년 하반기 신입직, 경력직, 변호사 등 3개 분야에서 공개채용을 실시한다. 상경·건축·토목 신입직과 IT개발·IT보안 경력직, 변호사 채용을 통해 조직 역량 강화를 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-15T09:17:37+09:00",
-    "event_label": "전문건설공제조합 2026년 하반기 공개채용 실시",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21045,6 +21028,38 @@
     "importance": 3
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "DL건설, 협력업체 직무역량 높인다…상호협력교육 실시 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/07/15/2026071509083415281",
+    "description": "주요 프로그램은 △건설산업기본법 실무 △하도급법 실무 △건설현장 노무관리 △납품대금 연동제 등으로 구성됐다. 특히 건설산업기본법과 하도급법의 주요 내용과 위반 사례를 비롯해 산업재해 예방, 현장 노무관리...",
+    "published_at": "2026-07-15T09:12:00+09:00",
+    "cluster_id": "49d6",
+    "publisher": "mt.co.kr",
+    "title_clean": "DL건설, 협력업체 직무역량 높인다…상호협력교육 실시",
+    "summary": "DL건설이 협력업체를 대상으로 건설산업기본법, 하도급법, 노무관리 등을 주제로 상호협력교육을 실시하고 있다. 업체 직무역량 강화를 통해 법규 준수 및 산업재해 예방을 도모하는 사항이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T09:18:42+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부산항만공사, 혹서기 항만 근로자 안전 확보 총력 - 물류신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoSzJMWUJPUldTdUxUUFFQT0ExQlc1SlB5V2h2MXZPdDNxZVp3dnp0TFM3Si0ycnVhQnFLa04wamFnTTZSUTVFRy0zSmIxVGd4VU1BYVBHbFVpdndYblpFU0tJbEx4M0ZTbEdr?oc=5",
+    "description": "부산항만공사이하, (BPA, 사장 송상근)가 여름철 폭염으로 인한 근로자 온열질환 예방에 나섰다.BPA는 7월 6일부터 2주간 ‘쉼이 먼저입니다!’라는 슬로건 아래 항만 현장에서 예방 캠페인을 진행하며, 항만근로자들에게 폭염 안전 5대 수칙을 홍보하고 쿨토시·쿨마스크·이온음료 등 6,500여 개의 예방물품을 지원했다.이번 활동은 대중소기업 안전보건 상생협력사업의 일환으로, 부산항보안공사·부산항시설관리센터 등 6개 협력사가 참여해 안전보건 수준 격차 해소를 목표로 한다. 또한 수급업체 및 건설현장 담당자 교육, 온·습도계 지원 등을",
+    "published_at": "2026-07-15T09:12:35+09:00",
+    "cluster_id": "cd25",
+    "publisher": "물류신문",
+    "title_clean": "부산항만공사, 혹서기 항만 근로자 안전 확보 총력",
+    "summary": "부산항만공사가 여름철 폭염으로 인한 근로자 온열질환 예방에 나섰으며, 7월 6일부터 2주간 안전 캠페인을 진행하고 쿨토시·쿨마스크 등 6,500여 개의 예방물품을 지원했다. 대중소기업 안전보건 상생협력사업의 일환으로 6개 협력사가 참여해 항만 현장의 안전보건 수준을 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T09:18:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32155,22 +32170,6 @@
     "summary": "포천시가 7월 노동안전의 날을 맞아 가평군, 경기북부노동인권센터와 함께 야외 노동자 온열질환 예방 및 건설 현장 안전점검을 실시했다. 혹서기 대비 합동점검 및 캠페인을 통해 건설 현장의 안전을 강화하는 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-12T23:27:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호 시장 \"어려운 경제상황 돌파구 마련할 것\" - idaegu.co.kr",
-    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=553638",
-    "description": "이 자리에서 기업인들은 △산업용 로봇·AI·자동차부품기업 미래모빌리티 전환 등 미래산업 육성을 위한 지원 △산업단지 내 청년 유입 확대를 위한 청년친화적 근무환경 조성 △침체된 지역 건설경기 회복을 위한 공공...",
-    "published_at": "2026-07-12T21:44:00+09:00",
-    "cluster_id": "e80c",
-    "publisher": "idaegu.co.kr",
-    "title_clean": "추경호 시장 \"어려운 경제상황 돌파구 마련할 것\"",
-    "summary": "추경호 시장이 어려운 경제상황 극복을 위해 미래산업 육성, 청년친화적 근무환경 조성, 지역 건설경기 회복 등을 지원하겠다고 표명했다. 산업단지의 미래모빌리티 전환과 공공건설 사업 추진을 통해 건설업계 활성화를 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T21:47:47+09:00",
     "importance": 2
   }
 ]
