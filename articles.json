@@ -5045,23 +5045,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO 전문건설공제조합, 하반기 공개채용 실시 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202606150915165742",
-    "description": "K-FINCO 전문건설공제조합이 2026년 하반기 공개채용에 나선다. 15일 전문건설공제조합에 따르면 이번 채용은 △신입직(상경·건축·토목) △경력직(IT개발·IT보안) △변호사 등 3개 분야를 대상으로 진행된다. 지원...",
-    "published_at": "2026-06-15T09:31:00+09:00",
-    "cluster_id": "3462",
-    "publisher": "fnnews.com",
-    "title_clean": "K-FINCO 전문건설공제조합, 하반기 공개채용 실시",
-    "summary": "전문건설공제조합(K-FINCO)이 2026년 하반기 공개채용을 실시한다. 신입직(상경·건축·토목), 경력직(IT개발·IT보안), 변호사 등 3개 분야를 대상으로 모집한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-15T09:32:39+09:00",
-    "event_label": "전문건설공제조합 2026년 하반기 공개채용 실시",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21026,6 +21009,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-08T10:19:50+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "롯데건설-노동부 안양지청, 건설안전 징검다리 프로젝트 본격 가동 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40845",
+    "description": "[건설이코노미뉴스] 롯데건설이 고용노동부 안양지청과 협력해 건설현장 안전문화 확산과 산업재해 예방을 위한 체험형 안전교육 확대에 나섰다.롯데건설은 지난 13일 경기도 오산시 롯데인재개발원 내 안전체험센터 'Safety ON'에서 고용노동부 안양지청과 '건설안전 징검다리 프로젝트' 추진을 위한 업무협약(MOU)을 체결했다고 최근 밝혔다.이날 협약식에는 이대풍 롯데건설 안전보건부문장과 최종수 고용노동부 안양지청장을 비롯한 양 기관 주요 관계자들이 참석했다.'건설안전 징검다리 프로젝트'는 민간과 공공의 안전체험교육장을 연계해 건설업 종사",
+    "published_at": "2026-07-15T09:32:00+09:00",
+    "cluster_id": "8fd9",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "롯데건설-노동부 안양지청, 건설안전 징검다리 프로젝트 본격 가동",
+    "summary": "롯데건설이 고용노동부 안양지청과 협력해 '건설안전 징검다리 프로젝트'를 시작했다. 안전체험센터 'Safety ON'을 중심으로 민간과 공공의 안전교육장을 연계해 건설현장 안전문화 확산과 산업재해 예방을 추진한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T09:34:05+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
