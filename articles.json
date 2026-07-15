@@ -5028,23 +5028,6 @@
     "importance": 5
   },
   {
-    "keyword": "전문건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO, 2026년 하반기 직원 공개채용 - 경남대학교 교육방송국",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yMmtYbTNuYWVzU1F4dmcyRGhIUFBtanBJOER1MDJ4YVBDbVphRGZUZlp4ZUQ1VElhdXpla2hITW9KLW5mYTdLdTllLUVIYTlpZkIxUmpjcVF0UmhCUkNPU05QOFZDcm5QX3VF?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE0yMmtYbTNuYWVzU1F4dmcyRGhIUFBtanBJOER1MDJ4YVBDbVphRGZUZlp4ZUQ1VElhdXpla2hITW9KLW5mYTdLdTllLUVIYTlpZkIxUmpjcVF0UmhCUkNPU05QOFZDcm5QX3VF?oc=5\" target=\"_blank\">K-FINCO, 2026년 하반기 직원 공개채용</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경남대학교 교육방송국</font>",
-    "published_at": "2026-06-15T15:51:08+09:00",
-    "cluster_id": "3667",
-    "publisher": "경남대학교 교육방송국",
-    "title_clean": "K-FINCO, 2026년 하반기 직원 공개채용",
-    "summary": "K-FINCO(전문건설공제조합)가 2026년 하반기 직원 공개채용을 실시한다. 조직의 인력 확충 계획을 알리는 공지사항이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-15T15:57:54+09:00",
-    "event_label": "전문건설공제조합 2026년 하반기 직원 공개채용",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21014,6 +20997,37 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "건설경기지수 74.5…두 달째 개선에도 회복은 '아직' - 더쎈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54OWNiQjFuUFRYTlRvbWlVNTZJSG9LUWFnN1BKLTB2eW1qY0NNMkdiR1lBTVo4NVdaWHc2TFVEZVlQNW9wdDVyZ2xtWGlvbWpSbG0xZU9kV19MY2ZISWE4WEZhU2NTWU1O?oc=5",
+    "description": "(더쎈뉴스 / The CEN News 최장호 기자) 건설업계 체감 경기가 두 달 연속 개선됐지만 업계 전반의 회복세로 이어지지는 못하고 있다.지난 14일 한국건설산업연구원이 발표한 ‘월간 건설시장동향’에 따르면 지난 6월 건설기업 경기실사지수(CBSI)는 전월보다 3.0포인트 상승한",
+    "published_at": "2026-07-15T15:00:50+09:00",
+    "cluster_id": "b904",
+    "publisher": "더쎈뉴스",
+    "title_clean": "건설경기지수 74.5…두 달째 개선에도 회복은 '아직'",
+    "summary": "6월 건설경기지수(CBSI)가 74.5로 전월 대비 3.0포인트 상승하며 두 달 연속 개선됐다. 다만 체감 경기 개선이 업계 전반의 실질적 회복으로 이어지지 못하고 있는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T16:00:18+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "김태흥 의원, 의왕시 지역역건설산업 활성화 촉진 조례 개정 - 광흥타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Gdkw5dHV6VjdsMDQzU3dSTUhPX21LTmNSUXRmbWRma3VmMW82ZEtsR2RNdE1wTVdTQ2c1VUZmakNNaW9HRkpWclBxa2NERVYwb2Q1RmViTzJGcjlYUy1Z?oc=5",
+    "description": "[광흥타임즈 = 구민지 기자] 의왕시의회 김태흥 의원이 지역 내 건설경기 침체를 타개하고 지역건설산업체의 실질적인 수주 기회를 확대하기 위해 대표발의한",
+    "cluster_id": "603c",
+    "publisher": "광흥타임즈",
+    "title_clean": "김태흥 의원, 의왕시 지역역건설산업 활성화 촉진 조례 개정",
+    "summary": "의왕시의회 김태흥 의원이 지역 건설산업 활성화를 위해 조례 개정을 대표발의했다. 지역 건설경기 침체 극복과 건설산업체의 실질적 수주 기회 확대를 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-15T16:00:18+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "추미애 경기지사, 삼성 평택 팹 5·6기 3복층 건설 위한 용적률 상향 지시 - 안전신문",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5Z2EwRGNZNWFidUh4NlpNZ3o0OUtHbmVqQkRid1ZuLTBBalRRMjJMaDRJbUFrQ3JuaWlqZnY3a3ZPelVhakZPZ3VHQWxRRWZOdlh6MGNxZzNtRkhGRW5QeW1wNXM4U2ZuRDRadlJBdw?oc=5",
     "description": "추미애 경기지사가 삼성전자 평택 반도체 생산시설 확충을 지원하기 위해 용적률 상향 추진을 지시했다.추 지사는 15일 제2차 반도체 초격차 추진회의에서 삼성전자 평택 팹 5·6기를 3복층으로 건설할 수 있도록 관련 용적률을 높이는 조치를 신속히 추진하라고 주문했다.이번 지시는 반도체 생산시설 건설 과정에서 발생하는 행정적 제약을 줄이고 사업 추진 속도를 높이기 위한 조치다. 경기도가 규제 조정에 먼저 나서 기업의 생산시설 확충을 뒷받침하겠다는 취지다.추 지사는 회의 후 페이스북에 \"반도체 초격차 유지를 위해 경기도지사로서 선제적 조치",
@@ -32159,21 +32173,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-13T12:38:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "인천 상장기업 중 바이오·반도체 호조 '영업이익 47% 증가'... 업종별 양... - incheonnews.com",
-    "link": "http://www.incheonnews.com/news/articleView.html?idxno=438185",
-    "description": "밀착형 금융 지원이 필요하며, 질적 성장을 위한 성장 단계별 맞춤형 지원을 강조했다. 마지막으로 건설경기 부진 장기화에 대응하기 위한 공공 프로젝트 발주 시 지역업체 참여 확대 등 실효성 있는 정책을 요청했다.",
-    "published_at": "2026-07-13T12:24:00+09:00",
-    "cluster_id": "1dda",
-    "publisher": "incheonnews.com",
-    "title_clean": "인천 상장기업 중 바이오·반도체 호조 '영업이익 47% 증가'... 업종별 양...",
-    "summary": "인천 상장기업 중 바이오·반도체 등 일부 업종의 호조로 영업이익이 47% 증가했으나, 건설경기 부진이 장기화되고 있다. 건설업계는 밀착형 금융 지원과 성장 단계별 맞춤형 지원, 공공 프로젝트에서의 지역업체 참여 확대 등 실효성 있는 정책을 요청하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T12:28:43+09:00",
-    "importance": 4
   }
 ]
