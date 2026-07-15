@@ -20924,6 +20924,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사설] 적극행정, 부도 위기 제일건설 살렸다 - sjbnews.com",
+    "link": "https://sjbnews.com/news/news.php?number=883110",
+    "description": "건설경기 침체와 자금난으로 최종 부도 처리됐던 기업이 이토록 빠르게 경영 정상화의 기틀을 마련할 수 있었던 배경에는 익산시의 발 빠른 대처와 촘촘한 행정 지원이 있었다. 이번 조기 종결의 결정적 열쇠는 공사가...",
+    "published_at": "2026-07-15T19:16:00+09:00",
+    "cluster_id": "5a8a",
+    "publisher": "sjbnews.com",
+    "title_clean": "[사설] 적극행정, 부도 위기 제일건설 살렸다",
+    "summary": "건설경기 침체로 부도 위기에 처했던 제일건설이 익산시의 적극행정과 행정 지원을 통해 경영 정상화의 기틀을 마련했다. 공사 조기 종결 결정으로 회사가 재정난을 극복하고 회생의 길을 열었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-15T19:25:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32150,21 +32166,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-13T15:20:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "성주군, 살수차 투입 등 폭염 대응 총력 - kbsm.net",
-    "link": "https://www.kbsm.net/news/view.php?idx=526585",
-    "description": "전화식 성주군수는 “연일 이어지는 폭염으로 군민의 건강과 안전이 무엇보다 중요한 시기”라며 “살수차 운영과 건설현장 안전관리를 강화해 폭염 피해를 최소화하겠다”고 말했다. 그러면서 “폭염이 심한 시간대에는...",
-    "published_at": "2026-07-13T15:14:00+09:00",
-    "cluster_id": "8982",
-    "publisher": "kbsm.net",
-    "title_clean": "성주군, 살수차 투입 등 폭염 대응 총력",
-    "summary": "성주군이 폭염 대응을 위해 살수차 투입과 건설현장 안전관리를 강화하고 있다. 건설현장의 폭염 피해 최소화와 근로자 안전을 위한 행정 조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-13T15:20:26+09:00",
-    "importance": 2
   }
 ]
