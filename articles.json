@@ -4975,6 +4975,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[7월16일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442464",
+    "description": "관건 ● 포스코이앤씨 첫 신종자본증권으로 신용등급 방어, 송치영 현금흐름 개선에 역량 집중 ● 한화에어로스페이스 10조 미국 자주포 수주할지 주목, 손재일 현지 2조 탄약공장 신설 투자 승부수 ● 미국 이란...",
+    "published_at": "2026-07-15T20:52:00+09:00",
+    "cluster_id": "5331",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[7월16일자] 비즈니스포스트 아침의 주요기사",
+    "summary": "포스코이앤씨가 신종자본증권 발행으로 신용등급을 방어하고 현금흐름 개선에 집중하며, 한화에어로스페이스는 미국 자주포 10조 규모 수주와 2조 탄약공장 신설 투자를 추진 중이다. 건설 및 방위산업 분야의 대형 수주 기회와 자본 강화 움직임이 주목된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-15T21:00:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20924,19 +20940,19 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "SK 1000조·GS 30조 투자…'AI 데이터센터' 시공 경쟁 - sidae.com",
-    "link": "https://www.sidae.com/article/2026070716215718865",
-    "description": "대우건설은 양재 데이터센터를 준공한 데 이어 전남 장성파인 데이터센터를 시공 중이다. 현대건설은 KT목동 데이터센터와 용인 죽전동 퍼시픽써니 데이터센터 등을 시공했다. DL이앤씨는 상암·가산·STT...",
-    "published_at": "2026-07-08T10:48:00+09:00",
-    "cluster_id": "79cf",
-    "publisher": "sidae.com",
-    "title_clean": "SK 1000조·GS 30조 투자…'AI 데이터센터' 시공 경쟁",
-    "summary": "SK와 GS 등 대형 기업들이 AI 데이터센터에 대규모 투자를 진행하면서 대우건설, 현대건설, DL이앤씨 등 건설사들의 데이터센터 시공 수주가 증가하고 있다. 이는 건설업계에 새로운 수주 기회와 사업 영역 확대를 가져오는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-08T10:54:35+09:00",
+    "title": "원전 건설 현장 문 연 한수원…시민참관단 운영 - 천지일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDejQySzFnbVRmQzVsbGxGaml4Ni1Zc0xHRmZfUWNXdGVSTnVHWlBibzZaSDhjSjFkcHRieno4bnh5NDQyTmxXMTNDLVJnN2R3V1JJWlg4dklWR0IwaGFoN085QlQ4NlNUVUE?oc=5",
+    "description": "[천지일보=이동현 기자] 한국수력원자력이 신한울 3·4호기 건설 과정의 투명성을 높이고 국민 의견을 수렴하기 위해 ‘제1기 안전 시민참관단’ 운영을 시작했다.한수원은 14일 한울본부에서 발대식을 열고 대구·경북 지역 주민 30명으로 구성된 참관단을 오는 9월까지 운영한다고 밝혔다.참관",
+    "published_at": "2026-07-15T20:40:11+09:00",
+    "cluster_id": "86ab",
+    "publisher": "천지일보",
+    "title_clean": "원전 건설 현장 문 연 한수원…시민참관단 운영",
+    "summary": "한국수력원자력이 신한울 3·4호기 건설의 투명성 강화를 위해 '제1기 안전 시민참관단'을 운영 시작했다. 대구·경북 지역 주민 30명으로 구성된 참관단은 9월까지 활동하며 국민 의견 수렴 및 신뢰도 향상에 기여할 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-15T21:00:36+09:00",
     "importance": 2
   },
   {
@@ -32148,22 +32164,6 @@
     "title_clean": "“내수 한파 넘는다”…LX하우시스, ‘수출 엔진’ 풀가동",
     "summary": "국내 건설경기 침체로 내수 부진이 지속되는 가운데 LX하우시스 등 건자재 업체들이 수출 확대로 실적 회복을 도모하고 있다. 북미, 유럽 등 주요 해외 시장에서의 성과 창출이 업계의 주요 과제로 부상했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-13T15:29:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "김윤덕 장관, “좋은 집 더 빠르게 공급… 모듈러 기술 키울 것” - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwY2E0TWxJbVJHY3VhQnplVEtFZV9SaFJ2ZTF4ZjdBNjlFOUZ2cjR3MEMwVk1vSUpXTGFIOVZPRzZ4QnNacmVvMWtCRzdhUXpZTTF5bEJzakt0ZmcxWXZDTGcwRUM2OTE2VWxJ?oc=5",
-    "description": "김윤덕 국토교통부 장관은 지난 10일 오전 전북 군산시에 위치한 모듈러* 주택 제작 공장을 방문하여 생산 현장을 점검하고, 업계 및 한국토지주택공사(LH), 국토교통과학기술진흥원(KAIA)와 함께 모듈러 주택 산업 활성화를 위한 간담회를 개최하였다.이번 방문은 국내 모듈러 주택을 고층화·대형화하기 위한 핵심 시범사업인 ‘LH 의왕초평 사업*",
-    "published_at": "2026-07-13T15:21:40+09:00",
-    "cluster_id": "f4c4",
-    "publisher": "한국건설신문",
-    "title_clean": "김윤덕 장관, “좋은 집 더 빠르게 공급… 모듈러 기술 키울 것”",
-    "summary": "김윤덕 국토교통부 장관이 전북 군산의 모듈러 주택 공장을 방문하여 모듈러 주택 산업 활성화를 위한 간담회를 개최했다. 정부는 모듈러 기술 발전과 주택 공급 확대를 통해 건설산업 육성을 추진 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-13T15:29:58+09:00",
     "importance": 2
   }
