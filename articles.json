@@ -20994,6 +20994,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "조용익 부천시장, 가스 누출 사고지·건설 현장 긴급 점검 - 코리아방송",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Gbmw4LTlGUWxVczlGdGVDWWo2dldXcEJidHVqU1U1NndHN1l6Z0pxcEVpRzVRdzBTWE8xaklzU25SUUFuaUZnYzhTcmRlZy15M3ZvSEVOdFA2WGdKZWxzNzI0ekhrZVE?oc=5",
+    "description": "조용익 부천시장이 지난 14일 원미구 도당동에 소재한 화학공장 암모니아 가스 누출사고 현장과 소사역 인근 공동주택 신축공사 현장을 잇달아 방문해 재난 안전관리 실",
+    "published_at": "2026-07-15T10:43:57+09:00",
+    "cluster_id": "d874",
+    "publisher": "코리아방송",
+    "title_clean": "조용익 부천시장, 가스 누출 사고지·건설 현장 긴급 점검",
+    "summary": "부천시장이 암모니아 가스 누출사고 현장과 건설공사 현장을 긴급 점검하여 재난 안전관리를 강화하고 있다. 이는 건설 현장의 안전 기준 강화 및 규제 강화로 이어질 가능성이 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-15T11:19:21+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32153,22 +32169,6 @@
     "summary": "중대재해처벌법 시행령에 따라 유해·위험요인에 대한 반기 1회 이상의 점검이 의무화되었으며, 단순한 서류 확인이 아닌 실제 위험 확인·개선 완료·보고 여부를 확인하는 실질적 점검이 필요하다. 사고 전에 위험을 인식하고도 필요한 조치를 취하지 않으면 점검 절차는 형식화된다.",
     "sentiment": "negative",
     "collected_at": "2026-07-13T09:38:11+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도 도민감리단, 우기 전 공사현장 안전 점검…179건 지적 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZFg4LTN4bGk0SFRyaWtkc2hPNXo4cV9ydUM5QjBPRDUteGNnb3d5eWdxZEplTlNEaUdGTFFOTllZbTFPb0xxV3ZnQTZQSVpyMkdldnN2bHRSTU1PWFdfRw?oc=5",
-    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 올해 점검 대상 22곳 중 10곳 우선 점검 마쳐…134건 조치 완료우기 전 공정관리 철저 20건",
-    "published_at": "2026-07-13T09:28:00+09:00",
-    "cluster_id": "221c",
-    "publisher": "네이트",
-    "title_clean": "경기도 도민감리단, 우기 전 공사현장 안전 점검…179건 지적",
-    "summary": "경기도 도민감리단이 우기 전 공사현장 안전 점검을 실시하여 179건을 지적했으며, 이 중 134건에 대한 조치를 완료했다. 22곳 중 10곳의 우선 점검을 마쳤고 공정관리를 철저히 하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T09:32:56+09:00",
     "importance": 4
   }
 ]
