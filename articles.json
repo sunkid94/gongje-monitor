@@ -21315,6 +21315,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "행복청, 대통령세종집무실 이달 설계 착수 내년 7월 마무리 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50882",
+    "description": "행정중심복합도시건설청이 세종시 국가 상징구역에 들어설 대통령세종집무실 기본·실시설계를 이달 시작해 내년 7월까지 마무리하고, 입주시점은 2029년 8월로 예상했다. 설계공모 당선작 발표가 두달 가량 지연됐음에도 차질 없이 공정관리에 힘써 당초 계획대로 대통령세종집무실 입주를 진행하겠다는 구상이다. 행복청은 16일 열린 2차 부처 업무보고에 참석해 이같은 대통령세종집무실 건립 계획과 일정 등을 이재명 대통령에게 보고했다.대통령세종집무실 건립 사업은 지난 4월말 예정됐던 설계공모 당선작 발표가 늦어지면서 사업이 지연되고 있다. 이를 의",
+    "published_at": "2026-07-16T19:50:00+09:00",
+    "cluster_id": "202f",
+    "publisher": "기계설비신문",
+    "title_clean": "행복청, 대통령세종집무실 이달 설계 착수 내년 7월 마무리",
+    "summary": "행정중심복합도시건설청이 세종시 국가 상징구역에 들어설 대통령세종집무실 기본·실시설계를 이달 시작해 내년 7월까지 마무리하고, 입주시점은 2029년 8월로 예상했다. 설계공모 당선작 발표가 두달 가량 지연됐음에도 차질 없이 공정관리에 힘써 당초 계획대로 대통령세종집무실 입주를 진행하겠다는 구상이다. 행복청은 16일 열린 2차 부처 업무보고에 참석해 이같은 대",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T08:10:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32112,22 +32128,6 @@
     "title_clean": "회생절차 종결한 제일건설 \"익산시의 적극 행정에 감사\"",
     "summary": "건설경기 악화로 회생절차에 돌입했던 제일건설이 법원으로부터 조기 종결 판결을 받았다. 익산시의 지원으로 회생에 성공한 사례로, 지역 향토기업의 경영 정상화를 보여주는 사건이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-14T14:29:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "롯데건설·노동부 안양지청, ‘건설안전 징검다리 프로젝트’ MOU 체결 - 로이슈",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UVE15cFpKQ3p3djhiMWtjZ1F6QjJCakJscTRyRE12aXVlQktZTTFIMUxCeHZkakZlaDBNc2RuVTFtNjFVUVlTTmdIWVZBMDZnY1JQRmlZaTdCTXNvMTZHeEl3aVJFNktVVEZfUk5vTVBVVl9jVVhQcENB?oc=5",
-    "description": "롯데건설은 지난 13일 경기도 오산시 안전체험센터 ‘Safety ON’에서 고용노동부 안양지청과 ‘건설안전 징검다리 프로젝트’ 추진 업무협약을 체결했다. 이 프로젝트는 민간·공공 안전체험교육장을 연계해 관내 건설업 종사자가 사고 위험을 직접 체험할 수 있도록 하는 프로그램이다.롯데건설은",
-    "published_at": "2026-07-14T14:20:43+09:00",
-    "cluster_id": "0645",
-    "publisher": "로이슈",
-    "title_clean": "롯데건설·노동부 안양지청, ‘건설안전 징검다리 프로젝트’ MOU 체결",
-    "summary": "롯데건설이 고용노동부 안양지청과 건설안전 징검다리 프로젝트 MOU를 체결했다. 민간·공공 안전체험교육장을 연계하여 건설업 종사자들이 사고 위험을 직접 체험할 수 있는 프로그램이다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-14T14:29:23+09:00",
     "importance": 2
   }
