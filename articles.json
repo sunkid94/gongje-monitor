@@ -21203,6 +21203,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[영상] 저승사자 조용원 컴백, 北 ‘피의 숙청’ 예고편 - shindonga.donga.com",
+    "link": "https://shindonga.donga.com/3/all/13/6309607/1",
+    "description": "“과거에는 러시아에 벌목공이나 건설 노동자로 파견 나간 북한 주민들이 탈출하면, 모스크바에 있는 안전 가옥에 숨어 있다가 우리 영사관의 도움을 받아 안전하게 입국할 수 있었다. 하지만 지금은 북한이 러시아에...",
+    "published_at": "2026-07-17T07:02:00+09:00",
+    "cluster_id": "0bd7",
+    "publisher": "shindonga.donga.com",
+    "title_clean": "[영상] 저승사자 조용원 컴백, 北 ‘피의 숙청’ 예고편",
+    "summary": "“과거에는 러시아에 벌목공이나 건설 노동자로 파견 나간 북한 주민들이 탈출하면, 모스크바에 있는 안전 가옥에 숨어 있다가 우리 영사관의 도움을 받아 안전하게 입국할 수 있었다. 하지만 지금은 북한이 러시아에...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T07:08:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32113,21 +32129,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-14T13:19:55+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설업계, 원전·신도시·안전으로 미래 승부 - pressman.kr",
-    "link": "https://www.pressman.kr/news/articleView.html?idxno=102751",
-    "description": "SH는 37년 무분규를 바탕으로 노사관계 우수성을 인정받았고, 롯데건설은 지역 건설현장 안전교육 체계를 공공기관과 함께 확대한다. 현대건설은 13일 현지 시간 미국 뉴욕 인터컨티넨탈 NY 타임스 스퀘어 호텔에서...",
-    "published_at": "2026-07-14T13:02:00+09:00",
-    "cluster_id": "36c6",
-    "publisher": "pressman.kr",
-    "title_clean": "건설업계, 원전·신도시·안전으로 미래 승부",
-    "summary": "건설업계가 원전·신도시·안전 분야에 집중하며 미래 경쟁력을 강화하고 있다. SH의 장기 무분규 달성, 롯데건설의 안전교육 체계 확대, 현대건설의 해외 사업 추진 등 주요 건설사들의 긍정적 사례들이 소개되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T13:09:44+09:00",
-    "importance": 2
   }
 ]
