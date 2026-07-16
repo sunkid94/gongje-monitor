@@ -5214,6 +5214,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 건설현장에 장수명 BIPV 적용… 태양광 외장재 수명 50년으로 연장 - S저널",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aYVgtUXhkMzhhOEYxSGF3RVJOWVpxWVBMTDh1dFVaZmZIVi1HY01tZi1sOUhXaFBNdjBYSXE3SWp6MEN0OEVxX1U3MUtpTlNLckN3WlhpT0M0WTJYOHRjTFFmcXpzeWM1ZXF4WXFR?oc=5",
+    "description": "롯데건설이 건물 외벽에서 전력을 생산하는 건물일체형 태양광 발전시스템의 수명과 시공성을 개선한 기술을 현장에 적용했다. 제로에너지 건축물 확대 흐름 속에서 태양광",
+    "published_at": "2026-07-16T16:48:33+09:00",
+    "cluster_id": "2190",
+    "publisher": "S저널",
+    "title_clean": "롯데건설, 건설현장에 장수명 BIPV 적용… 태양광 외장재 수명 50년으로 연장",
+    "summary": "롯데건설이 건물 외벽에서 전력을 생산하는 건물일체형 태양광 발전시스템의 수명과 시공성을 개선한 기술을 현장에 적용했다. 제로에너지 건축물 확대 흐름 속에서 태양광",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T18:39:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21159,20 +21175,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "IPARK현대산업개발, 겐슬러와 맞손…\"광명 하안주공 6·7단지 랜드마크... - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575972204131",
-    "description": "IPARK현대산업개발이 광명 하안주공 6·7단지 재건축정비사업에 미국 글로벌 설계사 겐슬러(Gensler)와 협업해 차별화된 단지 조성에 나선다. IPARK현대산업개발은 하안주공 일대 정비사업 경쟁력 강화를 위해 글로벌...",
-    "published_at": "2026-07-09T10:40:00+09:00",
-    "cluster_id": "0dbd",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "IPARK현대산업개발, 겐슬러와 맞손…\"광명 하안주공 6·7단지 랜드마크...",
-    "summary": "IPARK현대산업개발이 광명 하안주공 6·7단지 재건축정비사업에서 글로벌 설계사 겐슬러와 협업하여 차별화된 단지 조성을 추진 중이다. 미국의 세계적 설계 회사와의 협업으로 프로젝트의 경쟁력을 강화하고 랜드마크 단지 개발을 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T10:49:38+09:00",
-    "importance": 2
+    "title": "\"주택공급 위한 PF 정상화...시공사 보증보다 사업성\" - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05402166645515176",
+    "description": "이에 대해 김기용 국토교통부 건설정책과 과장은 “건설시장에서 가장 우려되고 있는 부분은 착공이 감소하고 있다는 것”이라면서 “가장 큰 원인은 지방 미분양, 특히 준공후 미분양으로 사업 클로징이 안되니깐 신규...",
+    "published_at": "2026-07-16T18:30:00+09:00",
+    "cluster_id": "f591",
+    "publisher": "edaily.co.kr",
+    "title_clean": "\"주택공급 위한 PF 정상화...시공사 보증보다 사업성\"",
+    "summary": "이에 대해 김기용 국토교통부 건설정책과 과장은 “건설시장에서 가장 우려되고 있는 부분은 착공이 감소하고 있다는 것”이라면서 “가장 큰 원인은 지방 미분양, 특히 준공후 미분양으로 사업 클로징이 안되니깐 신규...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T18:39:24+09:00",
+    "importance": 3
   },
   {
     "keyword": "건설 PF",
@@ -32122,21 +32138,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T11:50:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "체감건설경기 2개월 연속 오름세…지수는 여전히 70선 중반 - news.einfomax.co.kr",
-    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424835",
-    "description": "종합 CBSI[출처:건설산업연구원] 체감건설경기가 2개월 연속 회복세를 나타냈다. 다만 지수 자체는 여전히 기준선을 밑도는 70선 중반에 머무른 데다 지방·중소 건설사들의 부진은 심화하는 등 온기가 고르게...",
-    "published_at": "2026-07-14T11:44:00+09:00",
-    "cluster_id": "5054",
-    "publisher": "news.einfomax.co.kr",
-    "title_clean": "체감건설경기 2개월 연속 오름세…지수는 여전히 70선 중반",
-    "summary": "체감건설경기가 2개월 연속 회복세를 보였으나, 지수는 여전히 기준선 이하인 70선 중반에 머물러 있다. 지방과 중소 건설사들의 부진이 심화되면서 업계 전반에 회복이 고르게 분포하지 못하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T11:50:31+09:00",
-    "importance": 3
   }
 ]
