@@ -21203,6 +21203,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대한건설협회 충북도회, 영동군서 지역건설산업 활성화 간담회 개최 - dynews.co.kr",
+    "link": "https://www.dynews.co.kr/news/articleView.html?idxno=858278",
+    "description": "충북도회는 간담회에서 △지역경제 성장 위한 SOC 예산 확대 편성 △지역 중소업체 수주물량 확보 지원 △건설현장 안전 확보 위한 적정 공사비·공사기간 반영 △장기계속공사 간접비 분쟁 방지 위한 구체적 내부지침...",
+    "published_at": "2026-07-17T07:40:00+09:00",
+    "cluster_id": "6ec8",
+    "publisher": "dynews.co.kr",
+    "title_clean": "대한건설협회 충북도회, 영동군서 지역건설산업 활성화 간담회 개최",
+    "summary": "충북도회는 간담회에서 △지역경제 성장 위한 SOC 예산 확대 편성 △지역 중소업체 수주물량 확보 지원 △건설현장 안전 확보 위한 적정 공사비·공사기간 반영 △장기계속공사 간접비 분쟁 방지 위한 구체적 내부지침...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T07:48:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32113,21 +32129,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T13:19:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "5월 건설수주 50% 증가…“건설경기 회복 판단 아직” - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04145926645514520",
-    "description": "비주거용 건축이 18.2% 증가하며 전체 기성 회복을 이끌었지만, 주거용은 3.9% 감소했고 토목도 1.4% 증가에 그쳐 건설경기 전반의 회복 흐름은 여전히 제한적인 수준으로 분석된다. 건설업 고용은 기성 일부 개선에도...",
-    "published_at": "2026-07-14T13:13:00+09:00",
-    "cluster_id": "15e7",
-    "publisher": "edaily.co.kr",
-    "title_clean": "5월 건설수주 50% 증가…“건설경기 회복 판단 아직”",
-    "summary": "5월 건설수주가 50% 증가했으나 비주거용 건축의 일부 성장에만 의존하고 있다. 주거용 감소와 토목의 저성장으로 건설경기 전반의 회복은 여전히 제한적인 수준이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T13:19:55+09:00",
-    "importance": 3
   }
 ]
