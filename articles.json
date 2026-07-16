@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[인사] 과학기술정보통신부 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325392",
+    "description": "◇과장급 전보=△핵융합에너지환경기술과장 이찬영 △연구인프라혁신과장 한우진",
+    "published_at": "2026-07-16T16:38:42+09:00",
+    "cluster_id": "4814",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[인사] 과학기술정보통신부",
+    "summary": "◇과장급 전보=△핵융합에너지환경기술과장 이찬영 △연구인프라혁신과장 한우진",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T16:46:05+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -21064,6 +21080,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 건설현장 폭염 대응 강화 지시 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325393",
+    "description": "국토교통부가 전국적인 폭염이 이어지는 가운데 건설현장의 온열질환 예방활동 강화를 위한 공문을 전국 지방자치단체와 건설 관련 협회, 공공기관 등에 지난 13일 시달했다.폭염에 취약한 작업이 이뤄지는 현장에서는 온열질환 예방 5대 기본수칙을 철저히 준수하고, 신규 배치자와 고령자 등 온열질환 민감군에 대한 관리도 강화하도록 했다.국토부는 최근 전국 대부분 지역에서 체감온도 33℃ 이상의 폭염이 지속되고 일부 지역에는 폭염중대경보가 발효됨에 따라 관할 건설현장에서 폭염으로 인한 인명사고가 발생하지 않도록 예방활동을 실시해 달라고 당부했다",
+    "published_at": "2026-07-16T16:38:46+09:00",
+    "cluster_id": "2c32",
+    "publisher": "대한전문건설신문",
+    "title_clean": "국토부, 건설현장 폭염 대응 강화 지시",
+    "summary": "국토교통부가 전국적인 폭염이 이어지는 가운데 건설현장의 온열질환 예방활동 강화를 위한 공문을 전국 지방자치단체와 건설 관련 협회, 공공기관 등에 지난 13일 시달했다.폭염에 취약한 작업이 이뤄지는 현장에서는 온열질환 예방 5대 기본수칙을 철저히 준수하고, 신규 배치자와 고령자 등 온열질환 민감군에 대한 관리도 강화하도록 했다.국토부는 최근 전국 대부분 지역",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T16:46:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32101,37 +32133,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-14T11:00:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "당진 노사 \"철강산업 실질적 위기 반영해야\" - ohmynews.com",
-    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251200&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "description": "노사는 최근 정부가 당진시를 '산업위기 선제대응지역'으로 지정한 것에 대해 \"지역 철강산업이 글로벌 공급과잉, 저가 수입 철강재 증가, 건설경기 침체 등 복합적인 어려움에 직면해 있음을 인정한 결과\"라고...",
-    "published_at": "2026-07-14T10:46:00+09:00",
-    "cluster_id": "8a3c",
-    "publisher": "ohmynews.com",
-    "title_clean": "당진 노사 \"철강산업 실질적 위기 반영해야\"",
-    "summary": "당진시가 철강산업 위기지역으로 지정되면서 노사가 글로벌 공급과잉, 저가 수입재 증가, 건설경기 침체 등 복합 위기를 인정했다. 이는 건설경기 부진이 철강수요 감소로 이어지는 악순환을 반영한 것으로, 건설업계 전반의 경기 침체를 시사한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T10:55:25+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "화성특례시, 제1기 시민감리단 첫 현장 점검···공공건축 안전 강화 ‘시동’ - 산경일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aF9aQUZIcUdSVE9Xd0wzVHIyZTIyTnpyTFZrQUJVS2Foa3pPc2xGeUhGWUxtNzVrVDJXdnFXd1BBdjlldHVvcHdiMjgtYWxUdGdvOGFpWWFWTHhEamNCUTdHUXA2SjNLNWtGZGVuOUg?oc=5",
-    "description": "화성특례시가 안전한 도시 환경 조성을 위해 출범한 ‘제1기 화성시 건설공사 시민감리단’이 지난 13일 ‘(가칭) 화성시 독서문화공간 조성사업’ 현장을 찾아 첫 공식 감리활동을 실시했다.이번 현장 점검은 중대재해처벌법 시행 등 강화되는 안전관리 기조에 선제적으로 대응하고, 공공 건설현장의 부실시공을 예방하는 한편 산업재해를 줄이기 위해 마련된 시민감리단의 첫 활동이다.첫 감리 대상인 ‘(가칭) 화성시 독서문화공간 조성사업’은 총사업비 237억원이 투입되는 대형 공공건축 사업으로, 현재 공정률은 43%다. 문화도서관과 놀이도서관이 어우",
-    "published_at": "2026-07-14T10:45:45+09:00",
-    "cluster_id": "9552",
-    "publisher": "산경일보",
-    "title_clean": "화성특례시, 제1기 시민감리단 첫 현장 점검···공공건축 안전 강화 ‘시동’",
-    "summary": "화성특례시가 공공건설 안전을 강화하기 위해 시민감리단을 출범시켜 237억 규모의 독서문화공간 조성사업 현장에 대한 첫 감리활동을 실시했다. 중대재해처벌법 시행에 대응하고 부실시공 예방 및 산업재해 감소를 목표로 하는 활동이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T10:55:25+09:00",
-    "importance": 4
   }
 ]
