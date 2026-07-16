@@ -21203,6 +21203,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "5m 상공서 3분 떴다… 국내 개발 UAM 기체 비행 성공 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAyWkg5dXlOaUhxRFh2Mm8xQTkzT0huYVNCb05kNmhtajczTS1OMVdvYkJQWmNJRlJ4bUd3MElVY2hzUFU?oc=5",
+    "description": "16일 오후 인천 연수구 인천대학교 이노베이션센터에서 진행된 ‘K-UAM(도심항공교통) 비행 쇼케이스’에서 UAM 기체가 상승하고 있다.(사진 = 뉴시스)",
+    "published_at": "2026-07-16T15:14:00+09:00",
+    "cluster_id": "2c8a",
+    "publisher": "매일건설신문",
+    "title_clean": "5m 상공서 3분 떴다… 국내 개발 UAM 기체 비행 성공",
+    "summary": "16일 오후 인천 연수구 인천대학교 이노베이션센터에서 진행된 ‘K-UAM(도심항공교통) 비행 쇼케이스’에서 UAM 기체가 상승하고 있다.(사진 = 뉴시스)",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T03:29:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32114,22 +32130,6 @@
     "summary": "건설정보모델링(BIM)의 건설현장 활성화를 위해 실제 활용에 따른 인센티브 제도와 데이터 흐름 구조 구축이 필요하다는 건산연의 제언. 스마트건설 기반 마련을 위한 산업 구조 개선 방안 제시.",
     "sentiment": "positive",
     "collected_at": "2026-07-14T13:04:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'5극3특' 성장엔진 띄운다…국민성장펀드 40% 지방에 집중 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026071016014941417",
-    "description": "노후 청·관사는 업무와 주거, 상업 기능을 결합한 복합시설로 개발해 지방 건설경기를 보강한다. 하반기에는 2차 공공기관 이전계획을 발표하고 내년부터 선도기관 이전에 착수해 권역별 산업 집적을 촉진할 방침이다....",
-    "published_at": "2026-07-14T12:37:00+09:00",
-    "cluster_id": "b752",
-    "publisher": "imaeil.com",
-    "title_clean": "'5극3특' 성장엔진 띄운다…국민성장펀드 40% 지방에 집중",
-    "summary": "정부가 국민성장펀드의 40%를 지방에 집중 투자하여 노후 청·관사를 복합시설로 개발하고 공공기관 이전을 추진한다. 이는 지방 건설경기 부양과 권역별 산업 집적을 목표로 하는 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T12:49:35+09:00",
     "importance": 2
   }
 ]
