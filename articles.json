@@ -21315,6 +21315,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "고찬석·경기의회, 건설교통위원회 위원장 선출 경기도민에게 신뢰받고 힘이 되기 위해 위원들과 함께 최선 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DZDIxcl8zVk5iVEV2VV9FakZJdG5IV1cyTTY4TEthbk5yTVBtQzM5UTIyaVJQY19jR19ZVHRCakZWcElPeThtTGd3XzJza01VSmNOb01WYmhieUFpTkNteE5BdFBFN3BhUGRBTGE0UQ?oc=5",
+    "description": "제12대 경기도의회 전반기 건설교통위원회 위원장으로 더불어민주당 용인 출신 재선의 고찬석(사진) 의원이 선출됐다.도의회는 16일 열린 제392회 임시회 제3차 본",
+    "published_at": "2026-07-17T08:35:38+09:00",
+    "cluster_id": "4138",
+    "publisher": "오토투데이",
+    "title_clean": "고찬석·경기의회, 건설교통위원회 위원장 선출 경기도민에게 신뢰받고 힘이 되기 위해 위원들과 함께 최선",
+    "summary": "제12대 경기도의회 전반기 건설교통위원회 위원장으로 더불어민주당 용인 출신 재선의 고찬석(사진) 의원이 선출됐다.도의회는 16일 열린 제392회 임시회 제3차 본",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T08:48:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32112,22 +32128,6 @@
     "title_clean": "현대건설, 美 SMR 개발사와 협력…원전 보폭 확대 [건설·분양오늘]",
     "summary": "현대건설이 미국 소형모듈원전(SMR) 개발사와 협력하여 원전 사업 확대에 나선다. 건설신기술 지정과 녹색기술 인증을 획득한 제품으로 해외 원전 시장 진출을 추진 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-14T14:29:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "회생절차 종결한 제일건설 \"익산시의 적극 행정에 감사\" - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20260714105500055?input=1195m",
-    "description": "건설경기 악화로 인한 자금난으로 회생절차에 돌입했으나 지난 7일 법원으로부터 조기 종결 판결을 받은 제일건설이 전북 익산시의 적극 행정에 감사의 뜻을 표했다. 지역 향토기업인 제일건설의 윤여웅 회장은 14일...",
-    "published_at": "2026-07-14T14:16:00+09:00",
-    "cluster_id": "2ba0",
-    "publisher": "yna.co.kr",
-    "title_clean": "회생절차 종결한 제일건설 \"익산시의 적극 행정에 감사\"",
-    "summary": "건설경기 악화로 회생절차에 돌입했던 제일건설이 법원으로부터 조기 종결 판결을 받았다. 익산시의 지원으로 회생에 성공한 사례로, 지역 향토기업의 경영 정상화를 보여주는 사건이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-14T14:29:23+09:00",
     "importance": 2
   }
