@@ -5243,6 +5243,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "경기 광명시, '신안산선 붕괴' 자체조사 종료...\"제도 개선 건의\" - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0115_202607170438393057",
+    "description": "앞서 지난해 4월 11일 광명시 일직동 신안산선 복선전철 현장에서는 공사 중인 지하터널의 상부 도로가 무너지면서, 포스코이앤씨 노동자 1명이 숨지고, 하청업체 굴착기 기사 1명이 크게 다쳤습니다.",
+    "published_at": "2026-07-17T04:38:00+09:00",
+    "cluster_id": "0814",
+    "publisher": "ytn.co.kr",
+    "title_clean": "경기 광명시, '신안산선 붕괴' 자체조사 종료...\"제도 개선 건의\"",
+    "summary": "앞서 지난해 4월 11일 광명시 일직동 신안산선 복선전철 현장에서는 공사 중인 지하터널의 상부 도로가 무너지면서, 포스코이앤씨 노동자 1명이 숨지고, 하청업체 굴착기 기사 1명이 크게 다쳤습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T04:44:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21187,19 +21203,18 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "동해 북평공단 ‘AI 데이터센터’ 초대형 호재… 배후 주거지 ‘삼척’... - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12072018?ref=naver",
-    "description": "트리븐 삼척은 서울 성수동 ‘트리마제’를 시공한 두산에너빌리티가 2024년 새롭게 선보인 주거 브랜드 ‘트리븐’의 강원 지역 첫 적용 단지다. 단지는 지하 1층~지상 29층, 4개 동, 총 418가구 규모로 조성되며, 전용면적...",
-    "published_at": "2026-07-09T11:11:00+09:00",
-    "cluster_id": "5539",
-    "publisher": "dt.co.kr",
-    "title_clean": "동해 북평공단 ‘AI 데이터센터’ 초대형 호재… 배후 주거지 ‘삼척’...",
-    "summary": "동해 북평공단에 AI 데이터센터 건설로 지역 개발 호재가 예상되는 가운데, 배후 주거지인 삼척에 두산에너빌리티의 신규 주거브랜드 '트리븐' 단지가 공급된다. 418가구 규모의 대형 주거단지 건설로 건설업계에 수주 기회와 함께 지역 경기 부양 효과가 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T11:19:16+09:00",
+    "title": "‘골프 꿈나무’ 키우던 덕신EPC, 이젠 예비 건축가들에 ‘안전’ 심는다 - 지이코노미",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LTVcwdEMta291MHExYTdtR1pFWjVuakxGTTBEZnI2X1R0dkZDa1VRSUxQaG9zejhxRlAxeWd1VUh3OUVqQVJmUHVxN01FV2VIeUFsaGV5cTMwZjNTeWpoZzNyWEg2dkU?oc=5",
+    "description": "지이코노미 양하영 기자 | 오랜 시간 보이지 않는 곳에서 ‘골프 꿈나무’들을 묵묵히 후원하며 스포츠 사회공헌의 귀감이 되었던 한 중견기업이, 이번에는 미래 건설 현장을 이끌 청년 예비 건축가들에게 ‘안전’이라는 가장 값진 자산을 선물했다. 건축용 데크플레이트 전문기업 덕신EPC가 한국산업안전보건공단 인천안전체험교육장에서 ‘제4회 덕신EPC 건축안전장학생 안",
+    "cluster_id": "290b",
+    "publisher": "지이코노미",
+    "title_clean": "‘골프 꿈나무’ 키우던 덕신EPC, 이젠 예비 건축가들에 ‘안전’ 심는다",
+    "summary": "지이코노미 양하영 기자 | 오랜 시간 보이지 않는 곳에서 ‘골프 꿈나무’들을 묵묵히 후원하며 스포츠 사회공헌의 귀감이 되었던 한 중견기업이, 이번에는 미래 건설 현장을 이끌 청년 예비 건축가들에게 ‘안전’이라는 가장 값진 자산을 선물했다. 건축용 데크플레이트 전문기업 덕신EPC가 한국산업안전보건공단 인천안전체험교육장에서 ‘제4회 덕신EPC 건축안전장학생 안",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T04:44:05+09:00",
     "importance": 2
   },
   {
@@ -32114,21 +32129,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T13:09:44+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[법률라운지] 건설산업기본법 제35조 제2항 제3호에 따른 직접지급의무... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607131121537320898",
-    "description": "원심은 A가 건설산업기본법 제35조 제2항 제3호에 따라 C에게 가설자재 대여대금을 전액 직접 지급해야 한다고 판단했습니다. 원고가 직접지급 청구를 한 시점에, A의 B에 대한 미지급 기성금이 C의 채권보다...",
-    "published_at": "2026-07-14T13:00:00+09:00",
-    "cluster_id": "1c1a",
-    "publisher": "대한경제",
-    "title_clean": "[법률라운지] 건설산업기본법 제35조 제2항 제3호에 따른 직접지급의무...",
-    "summary": "건설산업기본법 제35조 제2항 제3호에 따른 직접지급의무 관련 판례로, 원심에서 A가 C에게 가설자재 대여대금을 전액 직접 지급해야 한다고 판단했습니다. 원고의 직접지급 청구 시점에 A의 미지급 기성금과 C의 채권 간 우선순위를 둘러싼 법률분쟁 사건입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T13:04:46+09:00",
-    "importance": 2
   }
 ]
