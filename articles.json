@@ -21191,6 +21191,21 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "동부건설, AI 활용 현장 안전·품질관리로 확장···소통 강화·품질 제고 - 팍스경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zdFhmX2NLdEFleFE2M2JQNWg1dGZ4TmxsSk41MDVJY0xiTDNpWWdEOEhCeFNpRnVSU1loYW1BdlNtQUxNbGlhckhpSXVnZXdWYS1qVnpFWGVmbXZLdVNiamprZHBnbW8?oc=5",
+    "description": "동부건설이 최근 건설현장 내 외국인 근로자와 원활한 의사소통을 위해 &lsquo;AI 동시 통번역 프로그램&rsquo;을 전 현장에 도입했습니다.이 프로그램은 한국어를 비롯한 다양한 언어를 실시간으로 번역해 작업 전 안전회의(TBM), 위험성평가 결과 공유, 신규 채용자 안전교육 등에 활용됩니다. 동부건설은 안전&middot;보건관리자와 관리감독자를 중심으로 프로그램 사용법을 숙지하도록 안내하고, 협력업체 TBM 등 작업 전 소통 과정에서도 적극 사용한다는 계획입니다.동부건설은 아울러 하자 원인, 조치 방법, 예방 정보, 작업 기준",
+    "cluster_id": "ca2d",
+    "publisher": "팍스경제TV",
+    "title_clean": "동부건설, AI 활용 현장 안전·품질관리로 확장···소통 강화·품질 제고",
+    "summary": "동부건설이 최근 건설현장 내 외국인 근로자와 원활한 의사소통을 위해 ‘AI 동시 통번역 프로그램’을 전 현장에 도입했습니다.이 프로그램은 한국어를 비롯한 다양한 언어를 실시간으로 번역해 작업 전 안전회의(TBM), 위험성평가 결과 공유, 신규 채용자 안전교육 등에 활용됩니다. 동부건설은 안전·보건관리자와 관리감독자를 중심으로 프로그램 사용법을 숙지하도록 안",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T20:29:18+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "李정부 2년차…주택 공급 앞당기고 '5극 3특' 본격화 - news.tf.co.kr",
     "link": "https://news.tf.co.kr/read/economy/2344386.htm",
     "description": "건설현장 안전과 근로환경 개선에도 힘쓴다. 지방 노후·취약시설물 정비 추진과 해체공사 전주기 안전관리 제도 개선방안을 마련해 건설현장 안전을 강화한다. 발주자 직접지급제 의무화·국토부 직권처분 도입...",
@@ -32118,21 +32133,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-14T12:10:17+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[e분양]GS건설, ‘오산헤리티지자이’ 견본주택 16일 오픈 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=40841",
-    "description": "[건설이코노미뉴스]GS건설은 오는 16일 경기도 오산시 양산동 일원에 들어서는 ‘오산헤리티지자이’의 견본주택을 개관하고 본격적인 분양에 들어간다고 14일 밝혔다.오산헤리티지자이는 지하 2층~지상 최고 27층, 22개 동, 총 1,783가구 규모로 조성된다. 블록별로는 1블록 1,069가구, 2블록 714가구로 나뉜다. 전용면적별로 △75㎡ 91가구, △84㎡ 1,479가구 △102㎡ 140가구, △124㎡ 68가구, △166P㎡ 5가구로 구성되며, 전용 166P㎡는 희소성 높은 펜트하우스로 설계했다.청약 일정은 7월 20일 특별공급",
-    "published_at": "2026-07-14T12:08:17+09:00",
-    "cluster_id": "bf6f",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "[e분양]GS건설, ‘오산헤리티지자이’ 견본주택 16일 오픈",
-    "summary": "GS건설이 경기도 오산시에 1,783가구 규모의 '오산헤리티지자이' 아파트 단지를 개발 중이며, 16일 견본주택을 개관하고 본격 분양에 나선다. 75~166P㎡의 다양한 타입으로 구성되어 있으며 7월 20일부터 청약을 시작할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T12:10:17+09:00",
-    "importance": 2
   }
 ]
