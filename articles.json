@@ -21203,6 +21203,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사설] 시작된 통화 긴축, 빚투·영끌·일자리에 촉각 세워야 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784182713&code=11171111&cp=nv",
+    "description": "또한 고용시장 동향을 면밀하게 살펴 대응책을 마련해야 한다. 내수 위축과 건설경기 부진은 특히 청년층 고용에 직접적 타격을 준다. 미리 준비하고 적시에 정책을 펼쳐야 충격을 덜어낼 수 있다.",
+    "published_at": "2026-07-17T01:21:00+09:00",
+    "cluster_id": "a576",
+    "publisher": "kmib.co.kr",
+    "title_clean": "[사설] 시작된 통화 긴축, 빚투·영끌·일자리에 촉각 세워야",
+    "summary": "또한 고용시장 동향을 면밀하게 살펴 대응책을 마련해야 한다. 내수 위축과 건설경기 부진은 특히 청년층 고용에 직접적 타격을 준다. 미리 준비하고 적시에 정책을 펼쳐야 충격을 덜어낼 수 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T01:24:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32114,22 +32130,6 @@
     "summary": "건설근로자공제회가 공공주택 발주기관과 함께 건설노동자 전자카드제 활성화를 위한 합동 캠페인을 진행한다. 전자카드제 도입으로 건설노동자의 임금 지급 투명성 강화 및 근로조건 개선을 추진하는 정책 사항이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-14T12:49:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[산업계 동향] KG그룹·한성자동차·삼표산업 - iminju.net",
-    "link": "http://www.iminju.net/news/articleView.html?idxno=166640",
-    "description": "2024년 국토교통부 건설신기술 제995호로 지정됐으며 녹색기술 인증도 획득했다. 양생 기간을 단축해 공기를 줄이고 현장 안전과 탄소 배출 저감에도 기여할 수 있다. 삼표산업은 건원엔지니어링과 내한 콘크리트...",
-    "published_at": "2026-07-14T12:36:00+09:00",
-    "cluster_id": "9138",
-    "publisher": "iminju.net",
-    "title_clean": "[산업계 동향] KG그룹·한성자동차·삼표산업",
-    "summary": "삼표산업이 건설신기술 제995호로 지정되고 녹색기술 인증을 획득했으며, 개발한 기술은 양생 기간 단축으로 공사 기간 단축과 탄소 배출 저감에 기여할 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T12:39:43+09:00",
     "importance": 2
   }
 ]
