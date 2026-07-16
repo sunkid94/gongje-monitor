@@ -5243,6 +5243,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "신안산선 광명 붕괴 '총체적 부실'…지자체 안전권한 확대 요구 - incheonilbo.com",
+    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1327479",
+    "description": "지난해 4월11일 광명시 일직동 복선전철 제5-2공구에서 발생했다. 공사 중이던 지하터널 상부 도로가 무너지면서 포스코이앤씨 소속 노동자 1명이 숨지고 하청업체 굴착기 기사 1명이 크게 다쳤다. /·김소연 수습기자",
+    "published_at": "2026-07-16T23:26:00+09:00",
+    "cluster_id": "92ca",
+    "publisher": "incheonilbo.com",
+    "title_clean": "신안산선 광명 붕괴 '총체적 부실'…지자체 안전권한 확대 요구",
+    "summary": "지난해 4월11일 광명시 일직동 복선전철 제5-2공구에서 발생했다. 공사 중이던 지하터널 상부 도로가 무너지면서 포스코이앤씨 소속 노동자 1명이 숨지고 하청업체 굴착기 기사 1명이 크게 다쳤다. /·김소연 수습기자",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-16T23:29:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21182,22 +21198,6 @@
     "publisher": "koreadaily.com",
     "title_clean": "컨소시엄 대단지 ‘시티오씨엘 9단지 오션파크뷰’ 분양 앞둬",
     "summary": "현대산업개발·현대건설·포스코이앤씨 컨소시엠이 8월 용현·학익 1블록 도시개발사업으로 '시티오씨엘 9단지 오션파크뷰'를 분양 예정. 대형 건설사 컨소시엄 아파트가 우수한 브랜드 가치와 사업 안정성으로 수도권 시장을 주도 중.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T11:14:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[굿모닝! 9일 건설업계 소식] 삼성물산·롯데건설·IPARK현대산업개발·... - goodkyung.com",
-    "link": "https://www.goodkyung.com/news/articleView.html?idxno=289072",
-    "description": "IPARK현대산업개발이 경기 광명시 하안주공 6·7단지 재건축정비사업에서 미국의 건축·디자인 그룹 겐슬러와 협업한다. 현대산업개발은 협업을 통해 하안주공 일대 정비사업 시장에서 차별화된 상품 경쟁력을 확보하고...",
-    "published_at": "2026-07-09T11:08:00+09:00",
-    "cluster_id": "acfe",
-    "publisher": "goodkyung.com",
-    "title_clean": "[굿모닝! 9일 건설업계 소식] 삼성물산·롯데건설·IPARK현대산업개발·...",
-    "summary": "IPARK현대산업개발이 경기 광명시 하안주공 6·7단지 재건축정비사업에서 미국 건축·디자인 그룹 겐슬러와 협업하여 차별화된 상품 경쟁력을 확보한다. 이를 통해 정비사업 시장에서의 경쟁력 강화를 도모하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T11:14:39+09:00",
     "importance": 2
