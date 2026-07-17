@@ -5284,22 +5284,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "이성룡 울산광역시의회 의장, 울산지역 설비건설협회 현안 간담회 개최 - ㈜한국탑뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuZ3RaOTdFMXlnNU43RTVYZndqNXRjYU5MVll1X0N5R2FwVHIxVGdPSmJkQWdON2doVjAwVVVpQk8zdl9NRzItNzIwZUtnWVdRNWpUS3BJMHZhNl9MOWo2SUV3?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuZ3RaOTdFMXlnNU43RTVYZndqNXRjYU5MVll1X0N5R2FwVHIxVGdPSmJkQWdON2doVjAwVVVpQk8zdl9NRzItNzIwZUtnWVdRNWpUS3BJMHZhNl9MOWo2SUV3?oc=5\" target=\"_blank\">이성룡 울산광역시의회 의장, 울산지역 설비건설협회 현안 간담회 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">㈜한국탑뉴스</font>",
-    "cluster_id": "d1b4",
-    "publisher": "㈜한국탑뉴스",
-    "title_clean": "이성룡 울산광역시의회 의장, 울산지역 설비건설협회 현안 간담회 개최",
-    "summary": "이성룡 울산광역시의회 의장이 울산지역 설비건설협회와 현안 간담회를 개최했다. 건설설비업계의 현안을 논의하고 상생 방안을 모색하는 행사로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-18T02:07:33+09:00",
-    "event_label": "대한기계설비건설협회 울산지역 현안 간담회 개최",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21258,6 +21242,22 @@
     "summary": "아이엘이 138억원 규모의 하이패스 사업을 수주하고 포스코이앤씨와 36억원의 조명기구 단가계약을 체결했다. 지속적인 수주 확대를 통해 안정적인 성장세를 보이고 있으며, 피지컬AI 투자 실탄을 확보했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T14:39:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "칠곡군, 무더위쉼터·건설현장 폭염 대응 점검 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ybjdENW5xYlhvck15ZzdXai1MTDY0ei1iYl9JVjJWUG5TYVNCVmU1endrNDFub3VOWEVXbG0tcjZ3cHZGcDVtc3BsTk9zN1VvQnZZa3hrTjJsTmtoVVNyWmdJLXM?oc=5",
+    "description": "매일일보 = 이정수 기자 | 칠곡군은 연일 이어지는 무더위에 대비해 폭염 대응 상황을 긴급 점검하고 취약시설을 대상으로 현장 점검을 실시했다고 밝혔다.김재욱 칠곡군수는 “폭염으로 인한 인명피해가 발생하지 않도록 모든 행정력을 총동원하라”며 “현장 중심의 예방 활동과 함께 독거노인 등 폭염 취약계층 보호에 만전을 기해달라”고 지시했다.군은 13일 한영희 칠곡군 부군수 주재로 ‘폭염 대응 추진상황 점검회의’를 열고 부서별 대응 현황과 실행 대책을 점검했다.현재 군은 △무더위쉼터 262개소 운영 △살수차 확대 운행 △스마트 그늘막 설치",
+    "published_at": "2026-07-18T00:01:11+09:00",
+    "cluster_id": "9b0d",
+    "publisher": "매일일보",
+    "title_clean": "칠곡군, 무더위쉼터·건설현장 폭염 대응 점검",
+    "summary": "매일일보 = 이정수 기자 | 칠곡군은 연일 이어지는 무더위에 대비해 폭염 대응 상황을 긴급 점검하고 취약시설을 대상으로 현장 점검을 실시했다고 밝혔다.김재욱 칠곡군수는 “폭염으로 인한 인명피해가 발생하지 않도록 모든 행정력을 총동원하라”며 “현장 중심의 예방 활동과 함께 독거노인 등 폭염 취약계층 보호에 만전을 기해달라”고 지시했다.군은 13일 한영희 칠곡",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T02:07:46+09:00",
     "importance": 2
   },
   {
