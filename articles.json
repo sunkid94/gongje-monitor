@@ -21362,6 +21362,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[특징주] KCC, 건설 경기 둔화 우려 속 차익실현 매물 출회로 하락 : 기업주식정보 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KWDQtMzdDV09BSzltY3oxZkdyb1o3U3Vqc0RyeGpKZ1lxMjM3R0o1TWFMaDFMRU5BQXlQR0h3Ql93dEJBZnRPbGhB?oc=5",
+    "description": "KCC 주가가 이날 장중 하락세를 보이며 투자 심리가 위축되고 있다. 현재 420,000원에 거래되며 전일 대비 11,500원(-2.67%) 내렸다. 건설 경기 둔화 우려와 기관 투자자들의 차익 실현 매물 출회가 주가 하락의 주요인으로 지목된다. KOSPI 시장에서 건축자재 및 화학 기업 KCC(002380)가 2026년 7월 17일 이날 오후 약세 흐름을",
+    "published_at": "2026-07-17T02:01:42+00:00",
+    "cluster_id": "dce3",
+    "publisher": "재경일보",
+    "title_clean": "[특징주] KCC, 건설 경기 둔화 우려 속 차익실현 매물 출회로 하락 : 기업주식정보",
+    "summary": "KCC 주가가 이날 장중 하락세를 보이며 투자 심리가 위축되고 있다. 현재 420,000원에 거래되며 전일 대비 11,500원(-2.67%) 내렸다. 건설 경기 둔화 우려와 기관 투자자들의 차익 실현 매물 출회가 주가 하락의 주요인으로 지목된다. KOSPI 시장에서 건축자재 및 화학 기업 KCC(002380)가 2026년 7월 17일 이날 오후 약세 흐름을",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T12:38:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32113,21 +32129,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T14:59:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[르포]34도 폭염에 은행 피신했다 '머쓱'…무더위쉼터 접근 '온도차' - mt.co.kr",
-    "link": "https://www.mt.co.kr/policy/2026/07/14/2026071412384373187",
-    "description": "은행 등 민간시설과 협업을 확대해 누구나 편하게 이용할 수 있는 생활밀착형 쉼터를 늘리고 건설노동자와 이동노동자, 어르신, 장애인 등 폭염 취약계층의 특성에 맞춘 맞춤형 쉼터도 확대한다는 방침이다. 단순히 냉방...",
-    "published_at": "2026-07-14T14:45:00+09:00",
-    "cluster_id": "19f5",
-    "publisher": "mt.co.kr",
-    "title_clean": "[르포]34도 폭염에 은행 피신했다 '머쓱'…무더위쉼터 접근 '온도차'",
-    "summary": "정부가 폭염 대책으로 은행 등 민간시설과의 협업을 확대하여 생활밀착형 무더위쉼터를 늘리고, 건설노동자·이동노동자·어르신·장애인 등 취약계층을 위한 맞춤형 쉼터를 구축하는 방침을 발표했다. 건설노동자의 폭염 안전을 위한 공공정책 강화를 의미한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T14:59:42+09:00",
-    "importance": 2
   }
 ]
