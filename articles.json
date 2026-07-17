@@ -21245,6 +21245,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염에 녹아내리는 ‘노동자·농부 얼음상’ - 미주한국일보",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjRXBYdFNwa3FVTW9ZT05NOTNLSTdRdUNyUGlsbElqZGd6U2w2dEQyRk4yMXZGa0FhNlp0Z2RZaUFmWUJQV216N1kyMlFlNHpTMnFjcDdNUlU4SEMxbUpj?oc=5",
+    "description": "전례 없는 폭염이 유럽을 강타한 가운데 지난15일 국제 환경보호단체 그린피스 활동가들이 지구 온난화를 경고하기 위해 이탈리아 로마의 콜로세움 인근에 설치한 얼음 조각상이 햇볕에 녹아내리고 있다. 이들 조각상은 폭염에 취약한 대표적 계층인 농부와 건설 노동자를 상징한다.",
+    "cluster_id": "0852",
+    "publisher": "미주한국일보",
+    "title_clean": "폭염에 녹아내리는 ‘노동자·농부 얼음상’",
+    "summary": "전례 없는 폭염이 유럽을 강타한 가운데 지난15일 국제 환경보호단체 그린피스 활동가들이 지구 온난화를 경고하기 위해 이탈리아 로마의 콜로세움 인근에 설치한 얼음 조각상이 햇볕에 녹아내리고 있다. 이들 조각상은 폭염에 취약한 대표적 계층인 농부와 건설 노동자를 상징한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T02:47:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32108,21 +32123,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T15:20:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산항만공사, 폭염 대비 항만근로자 온열질환 예방활동 강화 - pointdaily.co.kr",
-    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311869",
-    "description": "이와 함께 수급업체와 건설현장 안전·보건 담당자를 대상으로 체감온도별 대응 조치와 온열질환 예방 교육을 실시하고, 온·습도계 지원 등 현장 관리 체계 강화에도 나섰다. 부산항만공사는 7~9월 혹서기 동안 고온 노출...",
-    "published_at": "2026-07-14T15:08:00+09:00",
-    "cluster_id": "7ebc",
-    "publisher": "pointdaily.co.kr",
-    "title_clean": "부산항만공사, 폭염 대비 항만근로자 온열질환 예방활동 강화",
-    "summary": "부산항만공사가 7~9월 폭염 시즌을 앞두고 항만근로자 온열질환 예방에 나섰다. 수급업체와 건설현장 안전·보건 담당자 대상 교육과 온·습도계 지원 등으로 현장 관리 체계를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T15:20:10+09:00",
-    "importance": 2
   }
 ]
