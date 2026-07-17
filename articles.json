@@ -21362,6 +21362,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "KISA·수자원공사, 안전관리 체계 개선..건설현장 위험 탐지 CCTV 인증 기준 마련 - 한국정경신문",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VSDRrLVhJLS13UXhyTmpzeE9Yd2phTGowdzhmelFsZV9DUy1HVFZhR0J3UXdyMmRRQXJZcWRYRERoTFRHUUplQzRpTzk0N18xakE?oc=5",
+    "description": "[한국정경신문=최현준 기자] 한국인터넷진흥원이 한국수자원공사와 건설 현장의 위험 상황을 자동으로 탐지하는 폐쇄회로 성능시험·인증 기준을 마련한다.한국인터넷진흥원은 최근 한국수자원공사 낙동강유역본부에서 수자원공사와",
+    "cluster_id": "ffdf",
+    "publisher": "한국정경신문",
+    "title_clean": "KISA·수자원공사, 안전관리 체계 개선..건설현장 위험 탐지 CCTV 인증 기준 마련",
+    "summary": "[한국정경신문=최현준 기자] 한국인터넷진흥원이 한국수자원공사와 건설 현장의 위험 상황을 자동으로 탐지하는 폐쇄회로 성능시험·인증 기준을 마련한다.한국인터넷진흥원은 최근 한국수자원공사 낙동강유역본부에서 수자원공사와",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T14:37:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32112,21 +32127,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T14:59:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "한은 긴축 전환에 은행권도 빗장…하반기 차주 부담 커진다 - opinionnews.co.kr",
-    "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141513",
-    "description": "수출은 회복되고 있지만 내수와 건설경기는 여전히 부진하고 자영업자의 어려움도 이어지고 있기 때문이다. 기준금리를 너무 빠르게 올릴 경우 취약차주의 상환 부담이 급격히 커질 수 있다는 점도 부담이다. 현재...",
-    "published_at": "2026-07-14T14:56:00+09:00",
-    "cluster_id": "2ff9",
-    "publisher": "opinionnews.co.kr",
-    "title_clean": "한은 긴축 전환에 은행권도 빗장…하반기 차주 부담 커진다",
-    "summary": "한은의 긴축 기조 전환으로 은행권의 금리 인상이 예상되어 차입금이 많은 건설업과 자영업자의 상환 부담이 증가할 전망이다. 내수 부진과 건설경기 악화 속에서 금리 인상은 취약차주들의 경영 악화를 초래할 수 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T14:59:42+09:00",
-    "importance": 4
   }
 ]
