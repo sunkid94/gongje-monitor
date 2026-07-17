@@ -21245,6 +21245,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노동부 군산지청, 새만금 현장서 폭염안전 합동점검 - 전민일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjTVltYkJQd0l6WkVwYUNNbXFwRVNRcXkzTnVVSFQ0X2hmaEZ6TTB2dDBMc3ItbnJ4QVdDUFZLRUN0dFhSWkpqclJjQlhtUk1GY1p2RmNLRE9rMktBcUFjaWxvMUgtbnBYSzdB?oc=5",
+    "description": "여름철 폭염으로 건설현장 근로자들의 온열질환 발생 위험이 커지면서 관계기관이 새만금 개발지역 현장 점검에 나섰다.고용노동부 군산지청(지청장 김재훈)은 새만금개발공사, 한국산업안전보건공단 전북서부지사와 함께 지난 16일 새만금 스마트 수변도시 조성공사 현장을 방문해 폭염 대응 실태를 합동 점검하고 온열질환 예방 캠페인을 실시했다.참석자들은 건설현장에서 폭염안전 5대 기본수칙인 물·냉방장치·휴식·보냉장구·119신고 지침이 철저히 이행되고 있는지를 집중 확인하고, 근로자들에게 안전수칙 준수를 당부했다. 현장에서는 쿨토시·쿨스카프 등 보냉",
+    "published_at": "2026-07-18T04:19:30+09:00",
+    "cluster_id": "1c12",
+    "publisher": "전민일보",
+    "title_clean": "노동부 군산지청, 새만금 현장서 폭염안전 합동점검",
+    "summary": "여름철 폭염으로 건설현장 근로자들의 온열질환 발생 위험이 커지면서 관계기관이 새만금 개발지역 현장 점검에 나섰다.고용노동부 군산지청(지청장 김재훈)은 새만금개발공사, 한국산업안전보건공단 전북서부지사와 함께 지난 16일 새만금 스마트 수변도시 조성공사 현장을 방문해 폭염 대응 실태를 합동 점검하고 온열질환 예방 캠페인을 실시했다.참석자들은 건설현장에서 폭염안",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T04:27:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32107,21 +32123,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T15:30:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "당진지역 철강 노·사, 고용위기 선제대응지역 지정 촉구 - dynews.co.kr",
-    "link": "https://www.dynews.co.kr/news/articleView.html?idxno=857903",
-    "description": "당진은 철강산업이 57% 이상을 차지하는 지역 주 산업이지만 글로벌 공급과잉과 저가 수입재 증가, 건설경기 침체 등 요인이 겹치면서 위기를 겪고 있다. 고용위기 선제대응지역으로 지정되면 사업주(기업)에게는...",
-    "published_at": "2026-07-14T15:08:00+09:00",
-    "cluster_id": "8fb4",
-    "publisher": "dynews.co.kr",
-    "title_clean": "당진지역 철강 노·사, 고용위기 선제대응지역 지정 촉구",
-    "summary": "당진 철강산업이 글로벌 공급과잉, 저가 수입재, 건설경기 침체 등으로 위기를 겪고 있으며, 노·사가 고용위기 선제대응지역 지정을 촉구하고 있다. 이는 건설경기 침체가 철강 수요 감소로 이어지는 업계 악재 상황을 반영한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T15:20:10+09:00",
-    "importance": 4
   }
 ]
