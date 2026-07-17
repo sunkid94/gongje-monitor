@@ -5368,23 +5368,6 @@
     "importance": 5
   },
   {
-    "keyword": "전문건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설공제조합, 업체당 최대 5억원 특별융자 실시 - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Gc2lxV3pFci1YcFlFaGxBcnNVSEZjX3lZcDljRTJFdkZaZUI5ZTUtX29GQ3REUnE4UDM1ZFRLcmxOVXM?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Gc2lxV3pFci1YcFlFaGxBcnNVSEZjX3lZcDljRTJFdkZaZUI5ZTUtX29GQ3REUnE4UDM1ZFRLcmxOVXM?oc=5\" target=\"_blank\">기계설비건설공제조합, 업체당 최대 5억원 특별융자 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일건설신문</font>",
-    "published_at": "2026-06-17T16:39:00+09:00",
-    "cluster_id": "3beb",
-    "publisher": "매일건설신문",
-    "title_clean": "기계설비건설공제조합, 업체당 최대 5억원 특별융자 실시",
-    "summary": "기계설비건설공제조합이 회원사의 자금난 해소를 위해 업체당 최대 5억원 규모의 특별융자를 실시한다. 이는 건설업계의 유동성 위기 완화를 위한 지원 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-17T17:12:53+09:00",
-    "event_label": "기계설비건설공제조합 업체당 최대 5억원 특별융자 실시",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21342,6 +21325,22 @@
     "summary": "IPARK현대산업개발이 겐슬러 설계진을 앞세워 광명 하안주공 6·7단지 재건축정비사업 수주를 추진 중이다. 대형 재건축 프로젝트 수주로 건설업계에 긍정적 신호를 제공하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T14:09:22+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "달성군, '안전한 일터·든든한 영농' 현장 중심 소통 행정 '속도' - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=737328",
+    "description": "달성군이 건설현장 안전관리 강화와 기후변화에 대응한 영농 지원 확대를 동시에 추진하며 군민 안전과 농업 경쟁력 확보에 속도를 내고 있다. 산업재해 예방을 위한 안전관리 교육을 실시하는 한편, 벼 병해충...",
+    "published_at": "2026-07-17T17:43:00+09:00",
+    "cluster_id": "6ef5",
+    "publisher": "polinews.co.kr",
+    "title_clean": "달성군, '안전한 일터·든든한 영농' 현장 중심 소통 행정 '속도'",
+    "summary": "달성군이 건설현장 안전관리 강화와 기후변화에 대응한 영농 지원 확대를 동시에 추진하며 군민 안전과 농업 경쟁력 확보에 속도를 내고 있다. 산업재해 예방을 위한 안전관리 교육을 실시하는 한편, 벼 병해충...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T17:47:44+09:00",
     "importance": 2
   },
   {
