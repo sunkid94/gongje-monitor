@@ -21362,6 +21362,21 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "기독교한국신문 - 기독교한국신문",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00S1ltVWdRSFpUZy1BMEtpN0tPZHhIX0NnS1pWT18yMFo5VFROVXItT0MtMF94dkJ2M1RrZGVLWTBsdkgxV0FLLVFvd05NRlM1WHVCOXkyUmpvQQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE00S1ltVWdRSFpUZy1BMEtpN0tPZHhIX0NnS1pWT18yMFo5VFROVXItT0MtMF94dkJ2M1RrZGVLWTBsdkgxV0FLLVFvd05NRlM1WHVCOXkyUmpvQQ?oc=5\" target=\"_blank\">기독교한국신문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기독교한국신문</font>",
+    "cluster_id": "c110",
+    "publisher": "기독교한국신문",
+    "title_clean": "기독교한국신문",
+    "summary": "기독교한국신문 기독교한국신문",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T13:03:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32113,21 +32128,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T14:59:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "차별 없는 폭염 대책 전면 적용 촉구! \"기후재난 폭염, 권고 아닌 법적... - worknworld.kctu.org",
-    "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509664",
-    "description": "▲건설 노동 현장 : 한경진 건설노조 대전세종건설지부 수석부지부장은 \"폭염을 피하기 위해 새벽 5시부터 조기 출근을 감행하면서 수면 부족과 중노동에 시달리고 있다\"며 기후위기로 공사가 중단되더라도 일용직...",
-    "published_at": "2026-07-14T14:52:00+09:00",
-    "cluster_id": "f1d3",
-    "publisher": "worknworld.kctu.org",
-    "title_clean": "차별 없는 폭염 대책 전면 적용 촉구! \"기후재난 폭염, 권고 아닌 법적...",
-    "summary": "건설 현장 노동자들이 폭염으로 인한 새벽 조기 출근과 중노동으로 고통받고 있으며, 기후재난에 대한 차별 없는 법적 대책 마련을 촉구하고 있다. 일용직 근로자들의 폭염 피해 방지와 근무 조건 개선을 위한 강제적 규제 필요성이 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T14:59:42+09:00",
-    "importance": 4
   }
 ]
