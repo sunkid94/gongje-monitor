@@ -21328,6 +21328,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "권오상 구청장, 염색산단 공동폐수처리장 현장 점검… \"악취 저감이 역... - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=737329",
+    "description": "서대구역 복합환승센터는 2023년 지정·고시 이후 민간투자 방식으로 추진됐지만 건설경기 침체와 투자 위축 등의 영향으로 기한 내 민간사업자를 확보하지 못하면서 지정 해제 절차가 진행됐다. 이에 대구시는 난개발을...",
+    "published_at": "2026-07-17T17:48:00+09:00",
+    "cluster_id": "24bf",
+    "publisher": "polinews.co.kr",
+    "title_clean": "권오상 구청장, 염색산단 공동폐수처리장 현장 점검… \"악취 저감이 역...",
+    "summary": "서대구역 복합환승센터는 2023년 지정·고시 이후 민간투자 방식으로 추진됐지만 건설경기 침체와 투자 위축 등의 영향으로 기한 내 민간사업자를 확보하지 못하면서 지정 해제 절차가 진행됐다. 이에 대구시는 난개발을...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T17:52:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32111,20 +32127,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T15:20:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "GS건설, 경기 '오산헤리티지자이' 분양 일정 돌입…1783가구 공급 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoRVNoMVFPT0tsSlNfWmk3SktkYTg3T2gxVXU2LURXQzNPQzEtOVU5NUhwSHRWeVlkUi1TUUllQWRRbmhoVmxxNWdSemNfLWdEMUFYazRsRHo5S3FRQnNrS2lBa1dWb1lHaGQyQUxvSl9HTHJBWWxqMg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBoRVNoMVFPT0tsSlNfWmk3SktkYTg3T2gxVXU2LURXQzNPQzEtOVU5NUhwSHRWeVlkUi1TUUllQWRRbmhoVmxxNWdSemNfLWdEMUFYazRsRHo5S3FRQnNrS2lBa1dWb1lHaGQyQUxvSl9HTHJBWWxqMg?oc=5\" target=\"_blank\">GS건설, 경기 '오산헤리티지자이' 분양 일정 돌입…1783가구 공급</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
-    "cluster_id": "9c8c",
-    "publisher": "네이트",
-    "title_clean": "GS건설, 경기 '오산헤리티지자이' 분양 일정 돌입…1783가구 공급",
-    "summary": "GS건설이 경기 오산지역에 '오산헤리티지자이' 아파트 1783가구를 공급하며 분양에 돌입했다. 대규모 주택 공급 사업으로 건설사의 수주 및 매출 확대에 긍정적인 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T15:20:10+09:00",
-    "importance": 2
   }
 ]
