@@ -5385,6 +5385,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'용산역+한강변'…재건축·재개발 속도낸다 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026071711271",
+    "description": "대우건설이 최고 25층, 10개 동, 700가구를 지을 예정이다. 청파3구역은 지난해 신속통합기획 후보지로 선정됐다. 신속통합기획 대상지인 서계통합구역은 지난해 11월 조합설립 추진위원회 승인을 받고 지난 2일...",
+    "published_at": "2026-07-17T16:51:00+09:00",
+    "cluster_id": "d814",
+    "publisher": "hankyung.com",
+    "title_clean": "'용산역+한강변'…재건축·재개발 속도낸다",
+    "summary": "대우건설이 최고 25층, 10개 동, 700가구를 지을 예정이다. 청파3구역은 지난해 신속통합기획 후보지로 선정됐다. 신속통합기획 대상지인 서계통합구역은 지난해 11월 조합설립 추진위원회 승인을 받고 지난 2일...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T16:57:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21327,22 +21343,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T14:09:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "중대재해법 4년, 기소 121건…10대 건설사 CEO 실형 0건 - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=736529",
-    "description": "삼성물산·대우건설·GS건설은 상반기 사망자 '0명'을 기록한 반면, SK에코플랜트는 1월 용인 SK하이닉스 반도체 클러스터 현장에서 하청노동자가 뇌동맥 파열로 숨진 데 이어 이후에도 사망사고가 이어졌다. 2020년부터...",
-    "published_at": "2026-07-09T13:49:00+09:00",
-    "cluster_id": "3953",
-    "publisher": "polinews.co.kr",
-    "title_clean": "중대재해법 4년, 기소 121건…10대 건설사 CEO 실형 0건",
-    "summary": "중대재해법 시행 4년간 건설업계에서 121건이 기소됐으나 10대 건설사 CEO 실형 판례는 0건에 그쳤다. 삼성물산·대우건설·GS건설은 상반기 무재해를 기록한 반면 SK에코플랜트는 반복적인 사망사고가 발생했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T13:54:30+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
