@@ -5317,40 +5317,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "이성룡 울산시의회 의장, 설비건설협회 현안 간담회 개최 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LV2xrWVJPRkJaeGVNR2VlRERQRWRmMmRodDZDcnpfdjRTdlJ4Yk5TeXdZbkFjNVFwcUhROVBVSzk2a1RSWW5DZkUzZTA1MTdjOHdLdUxOYXlKU0tSYktialRVeUE3OUdHVUppcW5tRGNWZw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5LV2xrWVJPRkJaeGVNR2VlRERQRWRmMmRodDZDcnpfdjRTdlJ4Yk5TeXdZbkFjNVFwcUhROVBVSzk2a1RSWW5DZkUzZTA1MTdjOHdLdUxOYXlKU0tSYktialRVeUE3OUdHVUppcW5tRGNWZw?oc=5\" target=\"_blank\">이성룡 울산시의회 의장, 설비건설협회 현안 간담회 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">웹이코노미</font>",
-    "published_at": "2026-06-17T20:24:17+09:00",
-    "cluster_id": "f2c4",
-    "publisher": "웹이코노미",
-    "title_clean": "이성룡 울산시의회 의장, 설비건설협회 현안 간담회 개최",
-    "summary": "이성룡 울산시의회 의장이 설비건설협회와 현안 간담회를 개최했다. 구체적인 논의 내용은 기사에 제시되지 않았으나, 업계 현안을 논의하는 소통의 자리로 추정된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-17T20:37:40+09:00",
-    "event_label": "대한기계설비건설협회 이성룡 울산시의회 의장 현안 간담회 개최",
-    "importance": 5
-  },
-  {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "이성룡 울산시의원, 지역 설비건설협회 현안 논의 - 울산제일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUkdUSFJiV0kyYy1yOUhDUzdfOG9Td2huQkh4Z0xoTnZBRXFUaUFmNlJkeFJ5ZUhHRXVwMG5OWHRHQ01vYzlNWGtPeVhNeGptdDd6cVgzeWlyYXpTQ2JfUTEzYmNYZw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUkdUSFJiV0kyYy1yOUhDUzdfOG9Td2huQkh4Z0xoTnZBRXFUaUFmNlJkeFJ5ZUhHRXVwMG5OWHRHQ01vYzlNWGtPeVhNeGptdDd6cVgzeWlyYXpTQ2JfUTEzYmNYZw?oc=5\" target=\"_blank\">이성룡 울산시의원, 지역 설비건설협회 현안 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">울산제일일보</font>",
-    "published_at": "2026-06-17T20:09:00+09:00",
-    "cluster_id": "c902",
-    "publisher": "울산제일일보",
-    "title_clean": "이성룡 울산시의원, 지역 설비건설협회 현안 논의",
-    "summary": "이성룡 울산시의원이 지역 설비건설협회의 현안을 논의했다. 구체적인 내용은 제공되지 않았으나 업계 현안 소통 활동으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-17T20:12:35+09:00",
-    "event_label": "대한기계설비건설협회 지역 현안 논의",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21309,6 +21275,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T14:29:58+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "울산항만공사, 여름철 건설현장 산업재해 예방 강화 위한 안전 프로그램... - ksilbo.co.kr",
+    "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1062376",
+    "description": "변재영 UPA 사장은 \"안전은 어떤 가치보다 우선하는 울산항만공사의 핵심 경영 원칙\"이라며 \"폭염 기간 건설현장 안전점검을 지속적으로 실시하고 온열질환 예방 활동도 강화해 안전한 작업환경 조성에 최선을 다하겠다...",
+    "published_at": "2026-07-17T20:34:00+09:00",
+    "cluster_id": "2cac",
+    "publisher": "ksilbo.co.kr",
+    "title_clean": "울산항만공사, 여름철 건설현장 산업재해 예방 강화 위한 안전 프로그램...",
+    "summary": "변재영 UPA 사장은 \"안전은 어떤 가치보다 우선하는 울산항만공사의 핵심 경영 원칙\"이라며 \"폭염 기간 건설현장 안전점검을 지속적으로 실시하고 온열질환 예방 활동도 강화해 안전한 작업환경 조성에 최선을 다하겠다...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T20:37:43+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
