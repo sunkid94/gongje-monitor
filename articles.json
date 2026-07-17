@@ -5300,23 +5300,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "\"기계설비협회 울산-경남도회 분리 필요\" - ulsanpress.net",
-    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=577394",
-    "description": "이날 간담회에는 울산·경남 상생 추진위원장, 대한기계설비건설협회 울산·경남도회 수석부회장이 참석해 울산·경남도회 분리 추진과 관련한 현안에 대해 다양한 의견을 나눴다. 대한기계설비건설협회 울산·경남도회는...",
-    "published_at": "2026-06-17T21:01:00+09:00",
-    "cluster_id": "0f76",
-    "publisher": "ulsanpress.net",
-    "title_clean": "\"기계설비협회 울산-경남도회 분리 필요\"",
-    "summary": "대한기계설비건설협회 울산·경남도회 분리 추진과 관련해 울산·경남 상생 추진위원장과 협회 수석부회장이 간담회를 개최하고 현안에 대해 의견을 교환했다. 협회 내부 지역 조직의 분리 논의가 진행 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-17T21:02:30+09:00",
-    "event_label": "대한기계설비건설협회 울산·경남도회 분리 추진 간담회 개최",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21275,6 +21258,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T14:29:58+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'건설경기 침체' 제주 상반기 화물 물동량도 급감 - 한라일보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YMktvLXpRbzZDX3dvN29LNU5Rcm5tbTAxTDF3UWE0OWVncXN3amI4WHJLWjBfZDBOU1VYR0VyYXNMSW9LTzVVM2ZpTEVtT1V1RXdRR1U3RU1UUFRJaFhZeDRPejd3dWs?oc=5",
+    "description": "[한라일보] 제주지역 건설경기를 반영하는 도내 항만의 화물 물동량이 지난해보다 급감한 것으로 나타났다. 제주특별자치도가 16일 발표한 2026년 6월 말 기준 화물물동량은 1245만 여…",
+    "published_at": "2026-07-17T19:06:46+09:00",
+    "cluster_id": "bcd3",
+    "publisher": "한라일보",
+    "title_clean": "'건설경기 침체' 제주 상반기 화물 물동량도 급감",
+    "summary": "[한라일보] 제주지역 건설경기를 반영하는 도내 항만의 화물 물동량이 지난해보다 급감한 것으로 나타났다. 제주특별자치도가 16일 발표한 2026년 6월 말 기준 화물물동량은 1245만 여…",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T21:02:43+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
