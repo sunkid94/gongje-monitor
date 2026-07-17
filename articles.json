@@ -21228,6 +21228,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"노란봉투법 이후, 진짜 사장과 대화하는 지역을 만들자\" - jbsori.com",
+    "link": "http://www.jbsori.com/news/articleView.html?idxno=17603",
+    "description": "한 건설 노동자는 말했다. 20년 넘게 그 수많은 전신주에 올랐지만 원청인 '한국전력'과 교섭을 하는 것 자체가 꿈만 같다고 했다. 검증되지 않은 장갑을 끼고 하청 업체 사장 앞에서 고압 전류를 만져야 하는 '마루타...",
+    "published_at": "2026-07-18T07:42:00+09:00",
+    "cluster_id": "eecd",
+    "publisher": "jbsori.com",
+    "title_clean": "\"노란봉투법 이후, 진짜 사장과 대화하는 지역을 만들자\"",
+    "summary": "한 건설 노동자는 말했다. 20년 넘게 그 수많은 전신주에 올랐지만 원청인 '한국전력'과 교섭을 하는 것 자체가 꿈만 같다고 했다. 검증되지 않은 장갑을 끼고 하청 업체 사장 앞에서 고압 전류를 만져야 하는 '마루타...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T07:47:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32105,22 +32121,6 @@
     "summary": "한화비전, 한화큐셀, 삼표산업 등 국내 주요 기업들이 AI, 우주태양광, 친환경 건설기술 등 차세대 성장분야에서 기술 경쟁력 강화에 나서고 있다. 이는 건설·기계설비 업계의 기술 고도화와 신사업 다각화를 통한 미래 경쟁력 확보 움직임으로 해석된다.",
     "sentiment": "positive",
     "collected_at": "2026-07-14T15:39:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "익산시, '적극행정' 향토기업 제일건설 '회생' 견인 - hansbiz.co.kr",
-    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850232",
-    "description": "제일건설은 건설경기 침체로 회생절차를 밟았으나 지난 7일 법원으로부터 조기 종결 결정을 받았다. 제일건설이 시공한 북익산 오투그란데 더원과 남중동 오투그란데 뉴퍼스트 2개 단지가 정상 준공돼 입주를 시작하면서...",
-    "published_at": "2026-07-14T15:24:00+09:00",
-    "cluster_id": "7d75",
-    "publisher": "hansbiz.co.kr",
-    "title_clean": "익산시, '적극행정' 향토기업 제일건설 '회생' 견인",
-    "summary": "익산시의 적극행정 지원으로 건설경기 침체 속 회생절차를 밟던 향토기업 제일건설이 법원으로부터 조기 종결 결정을 받았다. 시공한 2개 아파트 단지가 정상 준공되어 입주를 시작하면서 기업 회생에 성공했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T15:30:26+09:00",
     "importance": 2
   }
 ]
