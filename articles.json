@@ -21362,6 +21362,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "삼성 EPC 3사, '2026 콘테크 공모전' 개최…AI·스마트건설 기술 발굴 - econonews.co.kr",
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=441380",
+    "description": "'2026 콘테크 공모전' 개최 포스터(사진=삼성E&A 제공)  삼성E&A, 삼성물산 건설부문, 삼성중공업 등 삼성 EPC... 세부 기술 분야에서는 ▲디지털 전환(DT) ▲인공지능(AI) ▲스마트 제조·시공 ▲친환경 기술 등을 모집한다....",
+    "published_at": "2026-07-17T14:44:00+09:00",
+    "cluster_id": "db31",
+    "publisher": "econonews.co.kr",
+    "title_clean": "삼성 EPC 3사, '2026 콘테크 공모전' 개최…AI·스마트건설 기술 발굴",
+    "summary": "'2026 콘테크 공모전' 개최 포스터(사진=삼성E&A 제공) 삼성E&A, 삼성물산 건설부문, 삼성중공업 등 삼성 EPC... 세부 기술 분야에서는 ▲디지털 전환(DT) ▲인공지능(AI) ▲스마트 제조·시공 ▲친환경 기술 등을 모집한다....",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T14:47:59+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32110,22 +32126,6 @@
     "summary": "한국폴리텍대학 성남캠퍼스가 스마트 건설 산업 인재 양성을 위한 '전기BIM 전문가 양성과정'을 개설했다. 2대 1의 높은 경쟁률을 통해 22명의 훈련생을 선발하여 핵심 기술 인력 육성에 나섰다.",
     "sentiment": "positive",
     "collected_at": "2026-07-14T15:10:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "삼표·한일시멘트, 특수 콘크리트 기술로 건설 현장 혁신 나서 - biztribune.co.kr",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=355915",
-    "description": "해당 기술은 지난해 7월 국내 최초로 국토교통부 건설신기술(제995호)로 지정됐으며, 이후 녹색기술 인증도 획득해 기술력과 친환경성을 인정받았다. 양생 기간 단축을 통해 공사 기간을 줄일 수 있을 뿐 아니라 현장...",
-    "published_at": "2026-07-14T14:54:00+09:00",
-    "cluster_id": "26f4",
-    "publisher": "biztribune.co.kr",
-    "title_clean": "삼표·한일시멘트, 특수 콘크리트 기술로 건설 현장 혁신 나서",
-    "summary": "삼표와 한일시멘트가 양생 기간을 단축하는 특수 콘크리트 기술을 개발했으며, 국토교통부 건설신기술 지정과 녹색기술 인증을 획득했다. 이 기술은 공사 기간 단축과 비용 절감을 통해 건설 현장의 생산성 향상에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T14:59:42+09:00",
     "importance": 2
   }
 ]
