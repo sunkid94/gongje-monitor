@@ -5402,6 +5402,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "살수차 물 뿌리고 쿨링재킷 입고… '지붕 없는' 산업 현장 폭염과 사투 - hankookilbo.com",
+    "link": "https://www.hankookilbo.com/news/article/A2026071516010003993?did=NA",
+    "description": "삼성중공업은 폭염 대응 태스크포스(TF)를 가동해 모니터링을 강화했고, 살수차와 쿨링포그로 물을 뿌려 작업장과 주변 온도를 낮추고 있다. 제빙기와 스팟쿨러, 에어쿨링 재킷 등도 구비했다. 한화오션은 냉방버스와 임시...",
+    "published_at": "2026-07-17T14:00:00+09:00",
+    "cluster_id": "356b",
+    "publisher": "hankookilbo.com",
+    "title_clean": "살수차 물 뿌리고 쿨링재킷 입고… '지붕 없는' 산업 현장 폭염과 사투",
+    "summary": "삼성중공업은 폭염 대응 태스크포스(TF)를 가동해 모니터링을 강화했고, 살수차와 쿨링포그로 물을 뿌려 작업장과 주변 온도를 낮추고 있다. 제빙기와 스팟쿨러, 에어쿨링 재킷 등도 구비했다. 한화오션은 냉방버스와 임시...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T14:08:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21346,19 +21362,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[도시정비시장 풍향계] IPARK현산, 광명 하안주공6ㆍ7단지 출사표…美 겐... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091325291080571",
-    "description": "광명서 첫 글로벌 설계사와 맞손 IPARK현대산업개발이 광명 하안주공6ㆍ7단지 재건축 사업 수주전을 공식화했다. 글로벌 설계사 겐슬러와 손잡고 하안주공6ㆍ7단지를 광명을 대표하는 독보적인 단지로 조성한다는...",
-    "published_at": "2026-07-09T13:42:00+09:00",
-    "cluster_id": "54cd",
-    "publisher": "대한경제",
-    "title_clean": "[도시정비시장 풍향계] IPARK현산, 광명 하안주공6ㆍ7단지 출사표…美 겐...",
-    "summary": "IPARK현대산업개발이 광명 하안주공6·7단지 재건축 사업 수주를 공식화했으며, 미국의 글로벌 설계사 겐슬러와 협력하여 프로젝트를 진행할 예정이다. 광명 지역 첫 글로벌 설계사 협업으로 고급 단지 조성을 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T13:49:31+09:00",
+    "title": "수출 증가 및 고용 불안 - 최근 경제동향 <2026.7.17. 분석> - ifs.or.kr",
+    "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11342",
+    "description": "7% 증가 ◯ 5월 건설투자는 전년동월대비 건설수주액(55.3%) 증가, 건설기성액(-1.9%), 건설업 생산지수 (-1.9%) 감소 ◯ 6월 OECD 선행지수는 전월(102.7)대비 0.2p 증가한 102.9으로, 경기선행지수는 2023년 2월...",
+    "published_at": "2026-07-17T14:06:00+09:00",
+    "cluster_id": "b730",
+    "publisher": "ifs.or.kr",
+    "title_clean": "수출 증가 및 고용 불안 - 최근 경제동향 <2026.7.17. 분석>",
+    "summary": "7% 증가 ◯ 5월 건설투자는 전년동월대비 건설수주액(55.3%) 증가, 건설기성액(-1.9%), 건설업 생산지수 (-1.9%) 감소 ◯ 6월 OECD 선행지수는 전월(102.7)대비 0.2p 증가한 102.9으로, 경기선행지수는 2023년 2월...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T14:08:05+09:00",
     "importance": 2
   },
   {
@@ -32112,21 +32128,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T14:59:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "구윤철 \"李정부 경제 책임지는 첫 해…대체불가 대한민국 도약\" - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260714000792",
-    "description": "그는 \"3분기 중 5극 3특 권역별 성장엔진을 선정하고, 이와 연계해 투자기업에 대한 광범위한 지원을 하기 위해 메가특구특별법을 연내 제정하겠다\"며 \"청·관사 복합개발을 대폭 확대해 지방건설경기 회복을 돕고...",
-    "published_at": "2026-07-14T14:47:00+09:00",
-    "cluster_id": "1c4b",
-    "publisher": "newspim.com",
-    "title_clean": "구윤철 \"李정부 경제 책임지는 첫 해…대체불가 대한민국 도약\"",
-    "summary": "구윤철 부총리가 李정부의 경제 정책 기조를 설명하며, 3분기 중 5극 3특 권역별 성장엔진 선정과 메가특구특별법 연내 제정을 추진할 예정을 밝혔다. 청·관사 복합개발 확대를 통해 지방건설경기 회복을 지원하겠다고 발표했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T14:59:42+09:00",
-    "importance": 2
   }
 ]
