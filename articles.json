@@ -21245,6 +21245,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 규제 완화로 서대구역 복합환승센터 사업 재추진 - segye.com",
+    "link": "https://www.segye.com/newsView/20260717505869?OutUrl=naver",
+    "description": "서구 이현동 일대 약 3만2000㎡ 부지에 5000억원을 투입하는 이 사업은 2023년 국토부가 광역복합환승센터로 지정∙고시했지만, 건설경기 침체와 규제 등으로 민간 사업자 유치에 실패하며 난항을 겪어왔다. 지난달...",
+    "published_at": "2026-07-18T05:40:00+09:00",
+    "cluster_id": "0ddf",
+    "publisher": "segye.com",
+    "title_clean": "대구시, 규제 완화로 서대구역 복합환승센터 사업 재추진",
+    "summary": "서구 이현동 일대 약 3만2000㎡ 부지에 5000억원을 투입하는 이 사업은 2023년 국토부가 광역복합환승센터로 지정∙고시했지만, 건설경기 침체와 규제 등으로 민간 사업자 유치에 실패하며 난항을 겪어왔다. 지난달...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T05:47:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32105,22 +32121,6 @@
     "title_clean": "장마 겹친 폭염 시즌···부산항만공사, 항만근로자 '온열질환' 대응 나...",
     "summary": "부산항만공사가 폭염 시즌을 맞아 항만근로자의 온열질환 예방을 위해 안전·보건 담당자 교육과 온·습도계 지원 등 대응 조치를 추진 중이다. 체감온도별 보건 조치와 예방 수칙 교육을 통해 현장 안전성을 강화하고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-14T15:30:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경남도, 지역 건설업체 수주 확대 총력…시군과 공공공사 발주 점검 - 브레이크뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBuLUdOZl9leG5ZVFBWNHFlYk5aMXFQTEtVS01SZjh6Um55T1JWZkwtdUhLR0VIcllUSkFlVEdkZW10Zw?oc=5",
-    "description": "지역건설산업 활성화 도-시군 협력회의[브레이크뉴스=이성용 기자] 경남도가 침체된 지역 건설경기 회복을 위해 시군과 함께 공공공사 발주와 지역업",
-    "published_at": "2026-07-14T15:20:00+09:00",
-    "cluster_id": "0ee3",
-    "publisher": "브레이크뉴스",
-    "title_clean": "경남도, 지역 건설업체 수주 확대 총력…시군과 공공공사 발주 점검",
-    "summary": "경남도가 침체된 지역 건설경기 회복을 위해 시군과 협력하여 공공공사 발주를 확대하고 지역 건설업체의 수주 기회를 늘리기 위한 총력을 기울이고 있다. 도-시군 협력회의를 통해 공공공사 발주 현황을 점검하고 지역업체 우선 수주 정책을 추진 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-14T15:30:26+09:00",
     "importance": 2
   }
