@@ -5300,6 +5300,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성물산, 광주 신가동 재개발 조합과 접촉…호남 첫 래미안 기대감 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260716001202",
+    "description": "기존 시공사는 DL이앤씨·롯데건설·GS건설·SK에코플랜트·한양으로 구성된 빛고을드림사업단이다. 조합과 사업단은 원자재 가격 상승 등을 반영해 3.3㎡당 공사비를 기존 445만원에서 706만원으로 올리는 데 합의했지만...",
+    "published_at": "2026-07-17T23:56:00+09:00",
+    "cluster_id": "4ce6",
+    "publisher": "newspim.com",
+    "title_clean": "삼성물산, 광주 신가동 재개발 조합과 접촉…호남 첫 래미안 기대감",
+    "summary": "기존 시공사는 DL이앤씨·롯데건설·GS건설·SK에코플랜트·한양으로 구성된 빛고을드림사업단이다. 조합과 사업단은 원자재 가격 상승 등을 반영해 3.3㎡당 공사비를 기존 445만원에서 706만원으로 올리는 데 합의했지만...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T00:02:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21242,22 +21258,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T14:29:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 글로벌 설계사 겐슬러와 '광명 주공 6·7단지' 조성 협업 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJbHZ6WWlRVDV4emZsaGRFeGNMNGFZX2FZcEJLemthQVhkLUpKY1lSV0JYellZbHUwYW5sQ2hpNExHeE5RMUVSWURyWS1TclF6N25GaENZa1BOY0NB?oc=5",
-    "description": "[서울=뉴스핌] 조수민 기자 = IPARK현대산업개발이 경기도 광명시 하안주공 6·7단지 재건축정비사업 조성을 위해 글로벌 설계사 겐슬러(Gensler)와 협업한다.IPARK현대산업개발은 하안주공 일대 9개 단지의 정비사",
-    "published_at": "2026-07-09T14:21:00+09:00",
-    "cluster_id": "969b",
-    "publisher": "뉴스핌",
-    "title_clean": "IPARK현대산업개발, 글로벌 설계사 겐슬러와 '광명 주공 6·7단지' 조성 협업",
-    "summary": "IPARK현대산업개발이 글로벌 설계사 겐슬러와 함께 경기도 광명시 하안주공 6·7단지 재건축정비사업을 진행한다. 국제 수준의 설계로 대규모 도시재생 프로젝트를 추진하는 건설사의 수주 확대 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T14:29:58+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
