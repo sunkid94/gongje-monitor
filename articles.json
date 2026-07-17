@@ -5385,23 +5385,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "이성룡 울산시의장, 울산지역 설비건설협회 현안 간담회 개최 - 울산종합일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sTlgzZWFraEw5Z1ZzMTZ2d0g1SWpFa2VfODEyUnNoOElpdHN4RWd3Y3JLZ3ZtSFlYMTZhcW12cTFZMnNPUXgyd3FBWWtqZWZSczJFQzc0YjhqYmJEbzJ1N0lKa2MybFE5bWVnbXln?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1sTlgzZWFraEw5Z1ZzMTZ2d0g1SWpFa2VfODEyUnNoOElpdHN4RWd3Y3JLZ3ZtSFlYMTZhcW12cTFZMnNPUXgyd3FBWWtqZWZSczJFQzc0YjhqYmJEbzJ1N0lKa2MybFE5bWVnbXln?oc=5\" target=\"_blank\">이성룡 울산시의장, 울산지역 설비건설협회 현안 간담회 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">울산종합일보</font>",
-    "published_at": "2026-06-17T13:49:05+09:00",
-    "cluster_id": "2c6c",
-    "publisher": "울산종합일보",
-    "title_clean": "이성룡 울산시의장, 울산지역 설비건설협회 현안 간담회 개최",
-    "summary": "이성룡 울산시의장이 울산지역 설비건설협회와의 현안 간담회를 개최했다. 건설업계의 현안 사항을 청취하고 협력 방안을 모색하는 행정-업계 소통 자리다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-17T15:22:54+09:00",
-    "event_label": "대한기계설비건설협회 울산지역 간담회 개최",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21359,6 +21342,21 @@
     "summary": "대우건설이 중동재건 TF를 구성하고 이라크 알포 신항 연결도로 준공을 승인받았다. 분쟁 리스크가 존재하는 중동 지역에서도 해외 인프라 사업 수행 역량을 증명했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T13:49:31+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "탑솔라, 무안 80㎿ ESS발전소 건설 PF금융 조달 마무리 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQTUwzelJwX0RzSDdZenlHNHQ0N3FGQWtqbTk5MzA1MEpDVXl2QllsX1NBZzRUbzdzbENoS3Z6RzBlNFJ5MzhVOENlcXhKRmFsenpYRWZXdXM0T1hUWGJRMFZBUlpWeURlLUllT3Y3NFZxRkR3TlNCdGlmWWxLUXFEWlBxVllwa3JFbUdNMXRtYXE4bnlxT2cwekh0UjJGbmRLRkZHakZoVFlyMk94X2FiVjRMRUh3UUgwRWRNc29hUktMUHpBSjhLNnJULUFmdi1Pb2tQYUt0RkdWUUU0MHdiZVRQU2lOUElEZlJZNEJFbnJlampxT3h3RGtNMzlZeVhyWGpjRGFUNXVGZG9abE0yTXAyWl9hTFFqVS03UDR4QzVQUDlHLUQ0VjFUbThqWFNDUnJpU3pCLXR6OXpaODI0eFBaTDJwN0gxWkVHOTlpU2Y2MkVoWjJaTDB0Mlp3dHFIVDFHTlV1eEZ6TjBKYjZaREpLcVMxMUs5djVaS2w3OGRyZGNjclI0YnZ3LXlhd1NxSFVSSU5ydEl1c2ZrQkU5a0FKdzBBR0FKTkJqTkg5d0EyTHg5SmcycWNwOWkxMkJBcldZcXYtVWZySXF6YkZBM2FBaw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wNBVV95cUxQTUwzelJwX0RzSDdZenlHNHQ0N3FGQWtqbTk5MzA1MEpDVXl2QllsX1NBZzRUbzdzbENoS3Z6RzBlNFJ5MzhVOENlcXhKRmFsenpYRWZXdXM0T1hUWGJRMFZBUlpWeURlLUllT3Y3NFZxRkR3TlNCdGlmWWxLUXFEWlBxVllwa3JFbUdNMXRtYXE4bnlxT2cwekh0UjJGbmRLRkZHakZoVFlyMk94X2FiVjRMRUh3UUgwRWRNc29hUktMUHpBSjhLNnJULUFmdi1Pb2tQYUt0RkdWUUU0MHdiZVRQU2lOUElEZlJZNEJFbnJlampxT3h3RGtNMzlZeVhyWGpjRGFUNXVGZG9abE0yTXAyWl9hTFFqVS03UDR4QzVQUDlHLUQ0VjFUbThqWFNDUnJpU3pCLXR6OXpaODI0eFBaTDJwN0gxWkVHOTlpU2Y2MkVoWjJaTDB0Mlp3dHFIVDFHTlV1eEZ6TjBKYjZaREpLcVMxMUs5djVaS2w3OGRyZGNjclI0YnZ3LXlhd1NxSFVSSU5ydEl1c2ZrQkU5a0FKdzBBR0FKTkJqTkg5d0EyTHg5SmcycWNwOWkxMkJBcldZcXYtVWZySXF6YkZBM2FBaw?oc=5\" target=\"_blank\">탑솔라, 무안 80㎿ ESS발전소 건설 PF금융 조달 마무리</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+    "cluster_id": "9db3",
+    "publisher": "MSN",
+    "title_clean": "탑솔라, 무안 80㎿ ESS발전소 건설 PF금융 조달 마무리",
+    "summary": "탑솔라, 무안 80㎿ ESS발전소 건설 PF금융 조달 마무리 MSN",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-17T15:27:54+09:00",
     "importance": 2
   },
   {
