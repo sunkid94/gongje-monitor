@@ -5199,23 +5199,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "구조물안전단체총연합회, ‘건설안전 포럼’ 연다 - mcnews.co.kr",
-    "link": "http://mcnews.co.kr/86293",
-    "description": "한국구조물안전단체총연합회(구안연)는 오는 23일 오후 2시 건설공제조합 2층 중회의실에서 ‘2026 건설안전 포럼 - 구조물안전 책임자는 누구인가?’를 주제로 ‘국민의 생명과 안전을 위한 건설안전 제도 개선 대토론회’...",
-    "published_at": "2026-06-18T15:30:00+09:00",
-    "cluster_id": "02b3",
-    "publisher": "mcnews.co.kr",
-    "title_clean": "구조물안전단체총연합회, ‘건설안전 포럼’ 연다",
-    "summary": "한국구조물안전단체총연합회가 23일 건설공제조합에서 '2026 건설안전 포럼'을 개최하여 구조물안전 책임자 역할과 건설안전 제도 개선 방안을 논의한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-18T15:32:37+09:00",
-    "event_label": "건설공제조합 건설안전 포럼 개최",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21174,6 +21157,21 @@
     "summary": "여의도 목화 재건축 프로젝트가 첫 입찰에서 유찰되었으며, 삼성물산이 재입찰에서 수주할 가능성이 높아지고 있습니다. 대형 건설사 7개가 참여 의사를 보였으나 경쟁 구도가 좁혀지는 상황입니다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-09T15:19:48+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "10% 미만, 새로운 인증 된 건설 노동자 629,622 명 - VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vNXExd0g2SW1FVG1FY2EydHJwamxhOTh5VV9GSFlvODVjQ3pLVEtFMWVtOHRfU2x6NkZ4dGtQcDVScEpoYXMw0gFCQVVfeXFMTkVRQkhodWY5emVkbjlBUXZaMTlNUnZ5d2JVaWxnSEJFcllCRVVDQWJadEJqeFlGY2MzR0ZXSUJlTWtR?oc=5",
+    "description": "국내 총생산(GDP)에 9.81%를 차지하는 건설 부문의 기여에도 불구하고 인도네시아의 건설 인력 인증(TKK)은 여전히 매우 낮습니다.",
+    "cluster_id": "b5ae",
+    "publisher": "VOI.ID",
+    "title_clean": "10% 미만, 새로운 인증 된 건설 노동자 629,622 명",
+    "summary": "국내 총생산(GDP)에 9.81%를 차지하는 건설 부문의 기여에도 불구하고 인도네시아의 건설 인력 인증(TKK)은 여전히 매우 낮습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T17:07:48+09:00",
     "importance": 2
   },
   {
