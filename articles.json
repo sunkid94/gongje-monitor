@@ -21159,6 +21159,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통부, `미래를 짓다, 모두를 잇다` 4대 개혁·전략 추진 - 서남투데이",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OSFUteFVCSnNybHpFRVZ0Q1Q3SmhZMFNMS1EySFpBZmI0OTh0T2pDcEtTWU1FSlF0aS1FVVNtZmxqQjdwaU1xanN2Yzlud0tRbENJa2dJQ3U4QQ?oc=5",
+    "description": "국토교통부가 국민이 체감할 수 있는 국토교통 분야의 실질적인 변화를 이끌어내기 위해 `미래를 짓다, 모두를 잇다`를 핵심 슬로건으로 내걸고 4대 개혁 및 4대 전략 과제를 추진한다. 국토교통부가 국민이 체감할 수 있는 국토교통 분야의 실질적인 변화를 이끌어내기 위해 `미래를 짓다, 모두를 잇다`를 핵심 슬로건으로 내걸고 4대 개혁 및 4대 전략 과제를 추진한다.지난 16일 진행된 대통령 업무보고에서 국토교통부는 국민이 요구한 주거 불안",
+    "cluster_id": "b5c5",
+    "publisher": "서남투데이",
+    "title_clean": "국토교통부, `미래를 짓다, 모두를 잇다` 4대 개혁·전략 추진",
+    "summary": "국토교통부가 국민이 체감할 수 있는 국토교통 분야의 실질적인 변화를 이끌어내기 위해 `미래를 짓다, 모두를 잇다`를 핵심 슬로건으로 내걸고 4대 개혁 및 4대 전략 과제를 추진한다. 국토교통부가 국민이 체감할 수 있는 국토교통 분야의 실질적인 변화를 이끌어내기 위해 `미래를 짓다, 모두를 잇다`를 핵심 슬로건으로 내걸고 4대 개혁 및 4대 전략 과제를 추진",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T04:47:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32100,22 +32115,6 @@
     "summary": "6월 건설사 체감경기가 상승세를 보였으나 절대적인 수준에서는 여전히 부진 상태가 지속되고 있습니다. 특히 중소건설사의 경기 악화가 심각한 것으로 나타났습니다.",
     "sentiment": "negative",
     "collected_at": "2026-07-14T16:29:09+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "6월 건설사 체감경기 상승에도 여전히 '부진' 국면, 중소건설사 더 어렵... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442327",
-    "description": "건설사가 체감하는 건설경기가 소폭 회복됐지만 여전히 부진한 수준에 머물렀다. 14일 한국건설산업연구원(건산연)에 따르면 2026년 6월 건설경기실사지수(CBSI)가 74.5로 집계됐다. 5월과 비교해 3.0포인트 올랐다....",
-    "published_at": "2026-07-14T16:20:00+09:00",
-    "cluster_id": "1e7a",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "6월 건설사 체감경기 상승에도 여전히 '부진' 국면, 중소건설사 더 어렵...",
-    "summary": "6월 건설경기실사지수(CBSI)가 74.5로 전월 대비 소폭 상승했으나, 여전히 부진한 수준을 벗어나지 못했다. 특히 중소건설사의 경기 부진이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T16:24:31+09:00",
     "importance": 4
   }
 ]
