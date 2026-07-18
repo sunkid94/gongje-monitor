@@ -21125,6 +21125,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국에서 산업재해를 당한 어느 이주노동자의 답변 [김승섭의 공부] - sisain.co.kr",
+    "link": "https://www.sisain.co.kr/news/articleView.html?idxno=58135",
+    "description": "건설노동자의 추락 같은 사고사나 탄광 노동자의 진폐증 같은 질병사와 달리, 돌연사는 말 그대로 갑작스럽게 심장이 멈추어 사망하기에 직업과의 연관성을 확인하기 어렵습니다. 그렇기에 현재 규정은 돌연사 직전...",
+    "published_at": "2026-07-19T08:31:00+09:00",
+    "cluster_id": "735c",
+    "publisher": "sisain.co.kr",
+    "title_clean": "한국에서 산업재해를 당한 어느 이주노동자의 답변 [김승섭의 공부]",
+    "summary": "건설노동자의 추락 같은 사고사나 탄광 노동자의 진폐증 같은 질병사와 달리, 돌연사는 말 그대로 갑작스럽게 심장이 멈추어 사망하기에 직업과의 연관성을 확인하기 어렵습니다. 그렇기에 현재 규정은 돌연사 직전...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T08:37:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32099,21 +32115,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T16:39:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "1조 매출 뒤 감춰진 대방그룹의 민낯···미분양·PF·오너리스크 '동시 압박' - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4bWlkbGdRTUR3aWNXV2RrcjBlSXp0aWtaUmhtcVoxOWlUcklaR2hRNWpRRE9idGhWTEtFVDdaWk9rVDcxc0lRVUl1UWYtY2g4VUZv?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : | 스마트비즈 = 최준 기자 | 건설업계 불황 속에서도 대방건설은 지난해 1조원이 넘는 매출과 16%를 웃도는 영업이익률을 기록하며 중견 건설사 가운데 돋보이는 성적표를 받아들었다. 그러나 그룹 전체를 들여다보면 분위기는 사뭇 다르다. 핵심 시행사인",
-    "published_at": "2026-07-14T16:24:00+09:00",
-    "cluster_id": "eb40",
-    "publisher": "네이트",
-    "title_clean": "1조 매출 뒤 감춰진 대방그룹의 민낯···미분양·PF·오너리스크 '동시 압박'",
-    "summary": "대방건설은 1조원 매출과 16% 영업이익률로 양호한 실적을 기록했으나, 그룹 전체적으로는 미분양, PF 문제, 오너리스크 등 여러 악재에 동시에 압박받고 있는 상황이다. 건설업계 불황 속에서도 상대적으로 우수한 성적이지만, 내재된 리스크 요인들이 향후 경영을 위협하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T16:39:51+09:00",
-    "importance": 4
   }
 ]
