@@ -21228,6 +21228,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "\"인상된 172억 안 줘도 돼\" KT, 쌍용건설 상대 공사비 소송 승소 - mt.co.kr",
+    "link": "https://www.mt.co.kr/society/2026/07/18/2026071809064056877",
+    "description": "이에 쌍용건설은 2023년 국토교통부 건설분쟁조정위원회에 KT를 상대로 추가 공사대금 약 172억원을 지급하라는 취지의 건설분쟁 조정을 신청했고, KT가 해당 채무가 존재하지 않는다고 소송을 제기하면서 법정 분쟁으로...",
+    "published_at": "2026-07-18T09:31:00+09:00",
+    "cluster_id": "74d1",
+    "publisher": "mt.co.kr",
+    "title_clean": "\"인상된 172억 안 줘도 돼\" KT, 쌍용건설 상대 공사비 소송 승소",
+    "summary": "이에 쌍용건설은 2023년 국토교통부 건설분쟁조정위원회에 KT를 상대로 추가 공사대금 약 172억원을 지급하라는 취지의 건설분쟁 조정을 신청했고, KT가 해당 채무가 존재하지 않는다고 소송을 제기하면서 법정 분쟁으로...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-18T09:37:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32106,21 +32122,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T15:59:20+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "고양상공회의소, 관내 기업 체감경기 '꽁꽁'…3분기 BSI 79포인트 - pressian.com",
-    "link": "https://www.pressian.com/pages/articles/2026071415330423719?utm_source=naver&utm_medium=search",
-    "description": "여기에 건설경기 침체와 소비 위축, 수주 감소 등이 맞물리면서 내수 회복에 대한 기대감도 제한적인 상황이다. 특히 중동 전쟁 지속에 따른 하반기 경영·운영계획 변동 여부를 묻는 질문에는 응답기업의 76.3%가...",
-    "published_at": "2026-07-14T15:37:00+09:00",
-    "cluster_id": "6552",
-    "publisher": "pressian.com",
-    "title_clean": "고양상공회의소, 관내 기업 체감경기 '꽁꽁'…3분기 BSI 79포인트",
-    "summary": "고양상공회의소의 3분기 BSI가 79포인트로 기업들의 경기 체감도가 부진한 것으로 나타났다. 건설경기 침체, 소비 위축, 수주 감소 등이 복합적으로 작용하고 있으며, 중동 전쟁으로 인한 경영 불확실성도 커지고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T15:49:51+09:00",
-    "importance": 4
   }
 ]
