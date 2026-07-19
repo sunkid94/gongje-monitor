@@ -5179,6 +5179,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "30년 가까이 화학플랜트 한길 ‘세종기술’…“전고체 소재·폐PET 재활... - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12101652",
+    "description": "세종기술에서 생산돼 삼성중공업, SK케미칼, 금호석유화학, KCC 등 화학 회사들에 공급된다. 고영현 세종기술 대표는 최근 기자들과 만나 “화학공정 기초설계 역량과 시뮬레이션 기술을 자체 보유해 설계·제작·시공...",
+    "published_at": "2026-07-19T14:44:00+09:00",
+    "cluster_id": "2635",
+    "publisher": "mk.co.kr",
+    "title_clean": "30년 가까이 화학플랜트 한길 ‘세종기술’…“전고체 소재·폐PET 재활...",
+    "summary": "세종기술에서 생산돼 삼성중공업, SK케미칼, 금호석유화학, KCC 등 화학 회사들에 공급된다. 고영현 세종기술 대표는 최근 기자들과 만나 “화학공정 기초설계 역량과 시뮬레이션 기술을 자체 보유해 설계·제작·시공...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T14:47:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21120,22 +21136,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-09T16:09:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "여의도 목화 재건축에 '나홀로 입찰'로 유찰 … 대형 건설사들 '선택과... - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900239.html",
-    "description": "앞서 지난 5월 열린 현장설명회에는 삼성물산을 비롯해 GS건설, 대우건설, 롯데건설, IPARK현대산업개발, 호반건설, 제일건설 등 7개사가 참석했다. 여의도 핵심 입지인 데다 공사비가 3.3㎡당 1370만원으로 책정돼 대형...",
-    "published_at": "2026-07-09T15:58:00+09:00",
-    "cluster_id": "d0e1",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "여의도 목화 재건축에 '나홀로 입찰'로 유찰 … 대형 건설사들 '선택과...",
-    "summary": "여의도 목화 재건축 사업이 나홀로 입찰로 유찰됐다. 현장설명회에는 대형 건설사 7개사가 참석했으나 실제 입찰에는 1개사만 참여해 높은 공사비와 시장 불확실성으로 인한 건설사들의 선택적 수주 전략을 드러냈다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T16:04:59+09:00",
-    "importance": 4
   },
   {
     "keyword": "모듈러 건설",
