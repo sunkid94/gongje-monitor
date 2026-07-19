@@ -21202,6 +21202,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "특별시의원들의 이유 있는 현안 해법 주문 - jndn.com",
+    "link": "http://www.jndn.com/article.php?aid=1784452071436241008",
+    "description": "강문성 의원은 \"석유화학과 철강산업 침체로 전남 경제 전체가 어려움을 겪고 있다\"며 \"건설노동자와 일용직 노동자들의 생계가 위협받는 만큼 실질적인 지원대책과 함께 연구개발센터와 연구기관을 확충해 석유화학...",
+    "published_at": "2026-07-19T18:10:00+09:00",
+    "cluster_id": "1c7c",
+    "publisher": "jndn.com",
+    "title_clean": "특별시의원들의 이유 있는 현안 해법 주문",
+    "summary": "강문성 의원은 \"석유화학과 철강산업 침체로 전남 경제 전체가 어려움을 겪고 있다\"며 \"건설노동자와 일용직 노동자들의 생계가 위협받는 만큼 실질적인 지원대책과 함께 연구개발센터와 연구기관을 확충해 석유화학...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T18:12:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32095,22 +32111,6 @@
     "publisher": "weeklytoday.com",
     "title_clean": "[위클리오늘] 울릉군 오늘(7. 14)",
     "summary": "울릉군에서 해양생태계 보전을 위한 환경정화 활동과 관광지 연계도로 개설사업 등을 추진 중이며, 노후 터널 등 주요 건설현장에 대한 안전점검 및 기술지원을 실시하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T17:20:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설수주 22조 원 돌파…공공·반도체 투자 견인에도 체감경기 회복은 '아직' - 코리아이글뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eWkzcXZyS2p6ZlpsbkJNeFEtYzE4Y0JmMExhNGI0SGZvWlFaN3hnU1YtemQ1aTltWjc3U2M2N3pCbnU3U25fNklRT2FvcnFVb1ZKR0pjM05nWlAteG96R2xnWWxuV3huLUM1M01OckdjZEE?oc=5",
-    "description": "지난 5월 국내 건설수주가 22조 원을 넘어서며 지난해 같은 기간보다 50% 증가했지만, 민간 주택시장 침체와 고용 감소, 공사비 상승이 이어지면서 건설경기 전반의 회복을 낙관하기에는 이르다는 분석이 나왔다.한국건설산업연구원이 14일 발표한",
-    "published_at": "2026-07-14T17:07:00+09:00",
-    "cluster_id": "ab02",
-    "publisher": "코리아이글뉴스",
-    "title_clean": "건설수주 22조 원 돌파…공공·반도체 투자 견인에도 체감경기 회복은 '아직'",
-    "summary": "5월 건설수주가 22조 원을 돌파하여 전년 동기 대비 50% 증가했으나, 민간 주택시장 침체와 고용 감소, 공사비 상승으로 인해 건설경기 전반의 회복은 아직 미흡한 상황이다. 공공·반도체 투자는 견인하고 있으나 기저 체감경기의 회복까지는 이르다는 분석이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-14T17:20:02+09:00",
     "importance": 2
