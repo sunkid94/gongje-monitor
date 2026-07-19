@@ -21202,6 +21202,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건협 충북도회, 영동군과 지역건설산업 활성화 간담회 개최 - ccdailynews.com",
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2428771",
+    "description": "지원 △건설현장 안전 확보를 위한 적정 공사비 및 공사기간 반영 △장기계속공사 간접비 분쟁 방지를 위한 구체적인 내부지침 마련 △무분별한 관급자재 적용 관행 개선 등을 건의했다. 유정선 회장은 \"공사 물량 감소와...",
+    "published_at": "2026-07-19T16:42:00+09:00",
+    "cluster_id": "5f1a",
+    "publisher": "ccdailynews.com",
+    "title_clean": "건협 충북도회, 영동군과 지역건설산업 활성화 간담회 개최",
+    "summary": "지원 △건설현장 안전 확보를 위한 적정 공사비 및 공사기간 반영 △장기계속공사 간접비 분쟁 방지를 위한 구체적인 내부지침 마련 △무분별한 관급자재 적용 관행 개선 등을 건의했다. 유정선 회장은 \"공사 물량 감소와...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T16:47:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32096,21 +32112,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T17:09:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "산업안전보건기준 전면 손질… 화재·폭발부터 한파작업까지 예방관리 강화 - 에너지데일리",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vWm0xQjRmQ0NrQmFNQ2EwSVNHWTFuYllUeVdsLVo0cTJEaG1rbWdRYXFxelYxNmdVWTB4U2hPbEc5b2VpR0FORzRtMzRMMnFOSG5JYlBmVHp0N1ZGWHRwZnJPaWQ3UDc0Mkk1bjVkbmJRUQ?oc=5",
-    "description": "[에너지데일리 변국영 기자] 정부가 산업현장의 화재·폭발과 건설·임업 재해, 한파로 인한 건강장해를 줄이기 위해 산업안전보건기준을 대폭 강화한다. 용접·용단 작업",
-    "published_at": "2026-07-14T17:02:16+09:00",
-    "cluster_id": "2106",
-    "publisher": "에너지데일리",
-    "title_clean": "산업안전보건기준 전면 손질… 화재·폭발부터 한파작업까지 예방관리 강화",
-    "summary": "정부가 산업안전보건기준을 대폭 강화하여 화재·폭발, 건설·임업 재해, 한파 등으로 인한 산업재해를 줄이기 위한 예방관리를 강화한다. 용접·용단 작업 등 고위험 작업에 대한 안전기준이 더욱 엄격해질 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T17:09:47+09:00",
-    "importance": 5
   }
 ]
