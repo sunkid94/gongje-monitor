@@ -21249,6 +21249,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "이 대통령 '불법 하도급 근절' 정조준 \"전담 인력 충원 검토\" - kado.net",
+    "link": "https://www.kado.net/news/articleView.html?idxno=2061938",
+    "description": "이 과정에서 강릉 출신 김석기(사진)국토교통부 건설국장이 \"전담 인력이 턱없이 부족한 상황\"이라고 충원을 건의하자 이 대통령이 검토해 볼 것을 지시했다. 김 국장은 이날 \"AI 기반으로 살펴보니 전국에 12만개 정도의...",
+    "published_at": "2026-07-20T00:07:00+09:00",
+    "cluster_id": "e3a0",
+    "publisher": "kado.net",
+    "title_clean": "이 대통령 '불법 하도급 근절' 정조준 \"전담 인력 충원 검토\"",
+    "summary": "이 과정에서 강릉 출신 김석기(사진)국토교통부 건설국장이 \"전담 인력이 턱없이 부족한 상황\"이라고 충원을 건의하자 이 대통령이 검토해 볼 것을 지시했다. 김 국장은 이날 \"AI 기반으로 살펴보니 전국에 12만개 정도의...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T00:12:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32096,21 +32112,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T17:39:27+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20260714161100057?input=1195m",
-    "description": "2023년엔 화공에너지과와 스마트전기전자과가, 2025년엔 스마트건설과가 선정된 바 있다. 울산마이스터고 자동화시스템과는 로봇 용접과 스마트 자동화 기술 관련 교육과정을 도입해 미래 산업에 필요한 융합형 기술인재...",
-    "published_at": "2026-07-14T17:35:00+09:00",
-    "cluster_id": "0af5",
-    "publisher": "yna.co.kr",
-    "title_clean": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정",
-    "summary": "울산공업고와 울산마이스터고가 직업계고 재구조화 지원사업에 선정되어 화공에너지, 스마트전기전자, 스마트건설, 자동화시스템 등 미래 산업 맞춤형 교육과정을 도입하고 있다. 로봇 용접과 스마트 자동화 기술 등 융합형 기술인재 양성을 통해 건설·기계·에너지 산업의 인력 수급 개선에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T17:39:27+09:00",
-    "importance": 2
   }
 ]
