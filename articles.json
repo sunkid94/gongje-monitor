@@ -21202,6 +21202,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "여건상 심상치 않은 경남경제…선제적 대응이 답 - newsgn.com",
+    "link": "https://www.newsgn.com/news/articleView.html?idxno=562957",
+    "description": "국내 경제 역시 소비 부진과 건설경기 침체, 자영업 폐업 증가로 활력을 잃고 있다. 제조업 중심의 경남경제는 외부 충격에 특히 민감한 만큼 여러 악재가 한꺼번에 덮치는 '퍼펙트 스톰'을 결코 가볍게 여겨서는 안 된다....",
+    "published_at": "2026-07-19T17:18:00+09:00",
+    "cluster_id": "9295",
+    "publisher": "newsgn.com",
+    "title_clean": "여건상 심상치 않은 경남경제…선제적 대응이 답",
+    "summary": "국내 경제 역시 소비 부진과 건설경기 침체, 자영업 폐업 증가로 활력을 잃고 있다. 제조업 중심의 경남경제는 외부 충격에 특히 민감한 만큼 여러 악재가 한꺼번에 덮치는 '퍼펙트 스톰'을 결코 가볍게 여겨서는 안 된다....",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T17:22:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32097,20 +32113,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T17:09:47+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설현장 폭염 강타…안전 ‘비상등’ - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rdVNGYURnV1BZNi1ScHU1T3VQNnVfT05WQnBuOWVxQUhlV0stUDVSejdKMFRMcXZSUks2bWZtaXJvQTdialBFY1NGclEzRGtSeEZWTG5ZdWFqNWJVX3o5aERBeXFwWUpDekxZazZCMVR2dFJN?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1rdVNGYURnV1BZNi1ScHU1T3VQNnVfT05WQnBuOWVxQUhlV0stUDVSejdKMFRMcXZSUks2bWZtaXJvQTdialBFY1NGclEzRGtSeEZWTG5ZdWFqNWJVX3o5aERBeXFwWUpDekxZazZCMVR2dFJN?oc=5\" target=\"_blank\">건설현장 폭염 강타…안전 ‘비상등’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "d6c5",
-    "publisher": "대한경제",
-    "title_clean": "건설현장 폭염 강타…안전 ‘비상등’",
-    "summary": "건설현장에 폭염이 강타하면서 안전 문제가 대두되고 있다. 극한의 날씨 조건에서 근로자 건강과 안전 관리가 긴급 과제로 떠올랐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T17:09:47+09:00",
-    "importance": 4
   }
 ]
