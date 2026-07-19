@@ -21249,6 +21249,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충북 음성 리모델링 철거 현장 사망 사고, 소규모 공사 안전 관리 구조적 허점 드러내 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4aXJ3RE9wYzYzTDM4Q1AwZzlpZkNxd2FzVlFXeTVFendCMkhXUnNWLTBHenp6WkZnc0ppNjNYbUF4NVJ0MzloNlFFMzY?oc=5",
+    "description": "소규모 철거 현장 안전의 허점 2026년 7월 13일 오후 1시 23분경, 충청북도 음성군 주택 리모델링 철거 공사 현장에서 천장에 불안정하게 매달려 있던 시멘트 블록이 낙하해 작업자 1명이 사망하는 중대재해가 발생했다. 실내 벽체 해체 작업 중 발생한 이 사고는 안전보건전문가 이규헌의 중대재해 블로그를 통해 경위가 공개되었다. 사고 당국은 현장 안전 관리",
+    "published_at": "2026-07-20T02:35:13+09:00",
+    "cluster_id": "99c9",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "충북 음성 리모델링 철거 현장 사망 사고, 소규모 공사 안전 관리 구조적 허점 드러내",
+    "summary": "소규모 철거 현장 안전의 허점 2026년 7월 13일 오후 1시 23분경, 충청북도 음성군 주택 리모델링 철거 공사 현장에서 천장에 불안정하게 매달려 있던 시멘트 블록이 낙하해 작업자 1명이 사망하는 중대재해가 발생했다. 실내 벽체 해체 작업 중 발생한 이 사고는 안전보건전문가 이규헌의 중대재해 블로그를 통해 경위가 공개되었다. 사고 당국은 현장 안전 관리",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T02:37:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32095,21 +32111,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T17:44:20+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "정부, 올해 성장률 3.0%로 대폭 상향…\"AI 반도체 호황에 5년 만의 3% 성... - newsian.co.kr",
-    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92241",
-    "description": "최근 건설경기 부진이 이어지고 있는 데다 성장을 주도하는 반도체 산업의 고용유발 효과가 상대적으로 크지 않다는 점을 반영한 것이다. 물가 전망도 상향 조정됐다. 정부는 올해 소비자물가 상승률을 기존 2.1%에서...",
-    "published_at": "2026-07-14T17:40:00+09:00",
-    "cluster_id": "c9b6",
-    "publisher": "newsian.co.kr",
-    "title_clean": "정부, 올해 성장률 3.0%로 대폭 상향…\"AI 반도체 호황에 5년 만의 3% 성...",
-    "summary": "정부가 올해 경제성장률을 3.0%로 상향 조정했으나, 건설경기 부진이 지속되고 반도체 산업의 고용유발 효과가 제한적인 상황이다. 성장의 주요 동력이 AI 반도체 호황에 집중되면서 건설업계의 성장 기여도가 미미한 것으로 평가된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T17:44:20+09:00",
-    "importance": 4
   }
 ]
