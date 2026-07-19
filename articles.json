@@ -5450,6 +5450,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[조선사 OS 경쟁] ④삼성중공업, 선박 데이터 활용도 높인 'SAS' - fetv.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41ejZQOE1JWFJGQ0pFTFpsclQ2VklCeWtXUTFRS2dXdmVnYlhsdVpIVTN0TWVMS3NES3BENEF5SGJRR0Y0cXV0SG5FbWpBOHFkZmI3aDhXNEZCOTFKd2Ztc2NmRV9Hc2po?oc=5",
+    "description": "[편집자 주] 국내 조선업계가 선박 건조를 넘어 인공지능(AI) 기반의 독자적인 운영체제(OS) 제작에 속도를 내고 있다. 수주 사이클의 변동성과 인력 부족 사태",
+    "published_at": "2026-07-20T07:00:00+09:00",
+    "cluster_id": "b770",
+    "publisher": "fetv.co.kr",
+    "title_clean": "[조선사 OS 경쟁] ④삼성중공업, 선박 데이터 활용도 높인 'SAS'",
+    "summary": "[편집자 주] 국내 조선업계가 선박 건조를 넘어 인공지능(AI) 기반의 독자적인 운영체제(OS) 제작에 속도를 내고 있다. 수주 사이클의 변동성과 인력 부족 사태",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T07:12:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21393,19 +21409,18 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[건설플러스] 롯데건설, ‘K-정보보호’ 기여…부총리 표창 수상 外 - news.dealsitetv.com",
-    "link": "https://news.dealsitetv.com/articles/173099",
-    "description": "◆ IPARK현산, 美 글로벌 설계사와 광명 하안주공 6·7단지 랜드마크 추진 IPARK현대산업개발이 광명시 재건축 시장의 최대어 중 하나인 광명 하안주공 6·7단지 재건축정비사업을 최고의 랜드마크로 조성하기 위해...",
-    "published_at": "2026-07-09T17:02:00+09:00",
-    "cluster_id": "c2e6",
-    "publisher": "news.dealsitetv.com",
-    "title_clean": "[건설플러스] 롯데건설, ‘K-정보보호’ 기여…부총리 표창 수상 外",
-    "summary": "롯데건설이 정보보호 기여로 부총리 표창을 수상했으며, IPARK현산이 광명 하안주공 6·7단지 재건축을 미국 글로벌 설계사와 함께 랜드마크로 추진 중이다. 건설업계의 기술 고도화와 대형 프로젝트 진행을 보여주는 호재성 뉴스다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T17:09:50+09:00",
+    "title": "경기도, 공공건설·건축 사전검토·자문 110건…처리기간 평균 5.6일 단축 - 경기도뉴스포털",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdRRFRSY1hDQ1ZTX3BhcFhWYkk0MzJjS2hiVlgwUTRFckxET09PVEJ5eC1DSklvekVnSzZ1M2dXRG9ObTY4dmhkUl8yRE5hQUhZVnpQZnVacUtXR0tsY2tiTjhYT3RQc3VBNk9JcGpOZGVwZGJlYnl4cktDcGlNUmFIdGM?oc=5",
+    "description": "경기도 공공건설지원센터가 올 상반기 도내 공공건설건축사업 110건에 대한...",
+    "cluster_id": "9052",
+    "publisher": "경기도뉴스포털",
+    "title_clean": "경기도, 공공건설·건축 사전검토·자문 110건…처리기간 평균 5.6일 단축",
+    "summary": "경기도 공공건설지원센터가 올 상반기 도내 공공건설건축사업 110건에 대한...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T07:12:45+09:00",
     "importance": 2
   },
   {
@@ -32097,21 +32112,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T22:33:48+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설수주 22.4조 '50% 급증'… 아직 회복은 제한적 - ppss.kr",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=302033",
-    "description": "건설수주가 큰 폭으로 증가했지만 건설경기 전반의 회복세는 여전히 제한적인 것으로 나타났다. 한국건설산업연구원은 7월 14일 발표한 '월간 건설시장동향(2026년 7월호)'에서 2026년 5월 건설수주가 22조4000억 원으로...",
-    "published_at": "2026-07-14T22:16:00+09:00",
-    "cluster_id": "b827",
-    "publisher": "ppss.kr",
-    "title_clean": "건설수주 22.4조 '50% 급증'… 아직 회복은 제한적",
-    "summary": "2026년 5월 건설수주가 22조4000억 원으로 전년 대비 50% 급증했으나, 건설경기 전반의 회복세는 여전히 제한적인 상황이다. 수주 증가에도 불구하고 실질적인 경기 개선으로 이어지지 못하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T22:28:56+09:00",
-    "importance": 2
   }
 ]
