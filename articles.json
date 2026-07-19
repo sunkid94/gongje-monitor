@@ -21155,6 +21155,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "평택시, 여름철 건설현장 민관 합동 안전점검 - jeonmae.co.kr",
+    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275561",
+    "description": "시 관계자는 \"이번 점검은 여름철 위험요인에 대비하는 동시에 지역 주민 생활과 밀접한 시설의 건설 현장 안전관리 실태를 살펴보는 계기가 됐다\"며 \"앞으로도 현장 중심 점검과 예방 활동을 이어가 안전한 일터 조성에...",
+    "published_at": "2026-07-19T12:58:00+09:00",
+    "cluster_id": "7e6c",
+    "publisher": "jeonmae.co.kr",
+    "title_clean": "평택시, 여름철 건설현장 민관 합동 안전점검",
+    "summary": "시 관계자는 \"이번 점검은 여름철 위험요인에 대비하는 동시에 지역 주민 생활과 밀접한 시설의 건설 현장 안전관리 실태를 살펴보는 계기가 됐다\"며 \"앞으로도 현장 중심 점검과 예방 활동을 이어가 안전한 일터 조성에...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T13:07:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32097,21 +32113,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T16:59:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산진해경자청, 폭염 대비 건설현장 집중 안전점검…온열질환 예방 강화 - 코리아이글뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zNVNqNWV6Ty1ISzVjczUwdVJlZGUxM083VDdwamppU2dydUpIRFRNLXhVMkZsU2lnVVMzUE16MC1zTXQtSFNObC1UTEZ4Rnl6a3I0cXMwQ0dlYVZIU0F3SGU1ckRuekFjdjRhd1ZCdzlVdFk?oc=5",
-    "description": "부산진해경제자유구역청(청장 박성호)이 여름철 폭염으로 인한 건설근로자의 온열질환과 안전사고 예방을 위해 대형 건설현장을 대상으로 집중 안전점검에 나선다.경자청은 본격적인 무더위가 이어지는 7월부터 8월까지 관내 대형 건축공사 현장을 대상으로",
-    "published_at": "2026-07-14T16:55:00+09:00",
-    "cluster_id": "4095",
-    "publisher": "코리아이글뉴스",
-    "title_clean": "부산진해경자청, 폭염 대비 건설현장 집중 안전점검…온열질환 예방 강화",
-    "summary": "부산진해경자청이 7월~8월 폭염 시즌을 대비해 관내 대형 건설현장을 대상으로 집중 안전점검을 실시한다. 온열질환과 안전사고 예방을 목표로 건설근로자 보호 강화에 나선다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T16:59:23+09:00",
-    "importance": 2
   }
 ]
