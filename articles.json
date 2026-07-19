@@ -21205,6 +21205,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "수자원공사·KISA, AI CCTV 인증기준 만든다…건설현장 안전 강화 - kyongbuk.co.kr",
+    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078686",
+    "description": "일반적인 영상 촬영 성능을 넘어 작업자와 장비가 뒤섞인 건설 현장에서 위험 상황을 제대로 식별할 수 있는지까지 인증 과정에서 평가하겠다는 것이다. 현재 6개 안전 분야로 한정된 '지능형 CCTV 성능시험 및...",
+    "published_at": "2026-07-19T19:34:00+09:00",
+    "cluster_id": "564f",
+    "publisher": "kyongbuk.co.kr",
+    "title_clean": "수자원공사·KISA, AI CCTV 인증기준 만든다…건설현장 안전 강화",
+    "summary": "일반적인 영상 촬영 성능을 넘어 작업자와 장비가 뒤섞인 건설 현장에서 위험 상황을 제대로 식별할 수 있는지까지 인증 과정에서 평가하겠다는 것이다. 현재 6개 안전 분야로 한정된 '지능형 CCTV 성능시험 및...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T19:37:43+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "김성경 한국농어촌공사 경기지역본부장 “안전은 타협할 수 없는 최우선... - kyeonggi.com",
     "link": "https://www.kyeonggi.com/article/20260719580090",
     "description": "기후변화로 극한호우와 태풍, 가뭄이 반복되면서 농업기반시설과 건설현장 안전관리가 농어촌 정책의 핵심 과제로 부상했다. 올해 1월 한국농어촌공사 경기지역본부장으로 부임한 김성경 본부장은 저수지와 배수장 등...",
@@ -32097,21 +32113,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T17:24:19+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[시멘트&Now] 한일시멘트·한일산업, '초유지 콘크리트' 기술성능 인증... - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716371",
-    "description": "이 제품은 지난 2024년 7월 국내 최초로 국토교통부 건설신기술(제995호)로 지정되며 기술력을 인정받았고, 이후 녹색기술 인증까지 획득해 친환경성과 기술 우수성을 동시에 입증한 바 있다. 블루콘 윈터는 양생 기간을...",
-    "published_at": "2026-07-14T17:08:00+09:00",
-    "cluster_id": "c34d",
-    "publisher": "ebn.co.kr",
-    "title_clean": "[시멘트&Now] 한일시멘트·한일산업, '초유지 콘크리트' 기술성능 인증...",
-    "summary": "한일시멘트·한일산업이 개발한 '초유지 콘크리트' 제품(블루콘 윈터)이 2024년 7월 국내 최초로 국토교통부 건설신기술 인증을 받았으며, 이후 녹색기술 인증까지 획득했다. 이는 친환경성과 기술 우수성을 동시에 입증한 사례로, 건설산업의 기술 혁신을 보여주는 성과다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T17:20:02+09:00",
-    "importance": 2
   }
 ]
