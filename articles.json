@@ -21158,6 +21158,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "'안전으로 오르는 다음 층' 조재천의 현대엘리베이터가 던진 다음 목표 - ftoday.co.kr",
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362230",
+    "description": "2022년 취임 당시 조재천 사장이 물려받은 현대엘리베이터는 건설경기 둔화와 원가 상승으로 영업이익률이 흔들리던 회사였다. 30년 가까이 승강기 영업 현장을 지켜온 그는 노후 승강기 교체와 유지·보수라는...",
+    "published_at": "2026-07-19T12:00:00+09:00",
+    "cluster_id": "cbff",
+    "publisher": "ftoday.co.kr",
+    "title_clean": "'안전으로 오르는 다음 층' 조재천의 현대엘리베이터가 던진 다음 목표",
+    "summary": "2022년 취임 당시 조재천 사장이 물려받은 현대엘리베이터는 건설경기 둔화와 원가 상승으로 영업이익률이 흔들리던 회사였다. 30년 가까이 승강기 영업 현장을 지켜온 그는 노후 승강기 교체와 유지·보수라는...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T12:07:37+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "주연창 전남광주통합특별시의원, 상무지구 통합공공임대주택 공사 재개... - breaknews.com",
     "link": "http://www.breaknews.com/1222566",
     "description": "이에 대해 김승남 광주광역시도시공사 사장은 “지역 건설경기 악화에 따른 중소 건설사의 부도로 불가피하게 공사에 차질이 발생했었다”고 설명하며, “이후...",
@@ -32097,21 +32113,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T16:49:29+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "강문성 전남광주통합특별시의원 “동부권 석유화학·철강 위기 대응 강... - betanews.net",
-    "link": "https://www.betanews.net/article/view/beta202607140057",
-    "description": "그는 “건설노동자와 일용직 노동자들의 일자리와 생계가 위협받고 있다”며 “지역 지정에 그치지 않고 현장에서 효과를 느낄 수 있는 실질적인 고용·생계 대책이 필요하다”고 말했다. 산업 침체가 인구 감소로 이어질...",
-    "published_at": "2026-07-14T16:46:00+09:00",
-    "cluster_id": "e36e",
-    "publisher": "betanews.net",
-    "title_clean": "강문성 전남광주통합특별시의원 “동부권 석유화학·철강 위기 대응 강...",
-    "summary": "강문성 의원이 전남광주 동부권 석유화학·철강 산업 침체로 인한 건설·일용직 노동자의 일자리 및 생계 위기를 지적하고 실질적인 고용·생계 대책 마련을 촉구했다. 산업 침체가 인구 감소로 연결될 수 있다는 우려를 제기했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T16:49:29+09:00",
-    "importance": 4
   }
 ]
