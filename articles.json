@@ -21249,6 +21249,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "주담대 금리 최고 7%대…영끌족 직격탄 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260719_0003714172",
+    "description": "당시에는 비상계엄 사태에 따른 정치적 불확실성과 국내 건설경기 부진, 미국의 상호관세 충격 등 대내외 악재가 겹치며 통화 완화가 불가피했다는 평가다. 이후 가계부채 증가세가 이어지고 원·달러 환율이 높은...",
+    "published_at": "2026-07-20T06:00:00+09:00",
+    "cluster_id": "cd85",
+    "publisher": "newsis.com",
+    "title_clean": "주담대 금리 최고 7%대…영끌족 직격탄",
+    "summary": "당시에는 비상계엄 사태에 따른 정치적 불확실성과 국내 건설경기 부진, 미국의 상호관세 충격 등 대내외 악재가 겹치며 통화 완화가 불가피했다는 평가다. 이후 가계부채 증가세가 이어지고 원·달러 환율이 높은...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T06:02:41+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구상의 박병복 팀장 \"민선 9기 새 대구시정, 건설 경기 회복과 신산업... - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4095489",
+    "description": "▶ 박병복 팀장: 상반기 대구 경제는 제조업 생산과 수출이 다소 회복세를 보였지만, 건설경기 침체와 기업 실적 부진 등의 영향으로 기업들이 체감하는 경기는 여전히 어려운 상황입니다. 특히 고유가와 고환율 등 대외...",
+    "published_at": "2026-07-20T06:00:00+09:00",
+    "cluster_id": "4279",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "대구상의 박병복 팀장 \"민선 9기 새 대구시정, 건설 경기 회복과 신산업...",
+    "summary": "▶ 박병복 팀장: 상반기 대구 경제는 제조업 생산과 수출이 다소 회복세를 보였지만, 건설경기 침체와 기업 실적 부진 등의 영향으로 기업들이 체감하는 경기는 여전히 어려운 상황입니다. 특히 고유가와 고환율 등 대외...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T06:02:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32079,37 +32111,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T17:58:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "빈롱의 노동조합 사회 주택 프로젝트 건설 가속화 - Laodong.vn",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkYtODlJLXhmMFZQRWdmS2M0MmNnX0kwN2QwM000LUtfQlc5Z0gyZ1JGLVo1Z3I3UUhBWHJoazNIcjFVVDJ5UU81dXlIeTN0cUtockpyUzFFZUhfdzRxUkRVbEJpMk0zd0JURUtldWFGNUp1S19aZXVtajlHLUNmQnVubEhwaVpIaU5HWWNORjFjT2xEczltdFpNQzZaUmpsSW5mQkRzZw?oc=5",
-    "description": "빈롱 - 자오롱 노동조합 사회 주택, 250명 이상의 노동자 동원, 동시 시공, 잔업, 품질 유지, 완료 결의...",
-    "published_at": "2026-07-14T15:46:24+07:00",
-    "cluster_id": "6437",
-    "publisher": "Laodong.vn",
-    "title_clean": "빈롱의 노동조합 사회 주택 프로젝트 건설 가속화",
-    "summary": "빈롱의 자오롱 노동조합이 사회 주택 프로젝트를 추진 중이며, 250명 이상의 노동자를 동원하여 동시 시공으로 공사를 가속화하고 있다. 품질 관리를 유지하면서 완료를 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T17:58:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한 총리, 건설현장 찾아 폭염대비 점검···“공사 늦어도 안전하게” - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325284",
-    "description": "한성숙 국무총리는 13일 서울 중구의 한 건설현장을 방문<사진>해 노동자 안전을 위한 폭염 대응 상황을 점검했다.한 총리는 이 자리에서 관계자 보고를 받은 뒤 “현장 노동자들은 더운 날씨에 제때 휴식을 취해달라”며 “공기가 늦어지더라도 안전하게 공사를 진행해 주시길 바란다”고 주문했다.그러면서 물 제공·그늘막 설치·휴식 시간 보장 등 ‘폭염 안전 5대 기본 수칙’의 철저한 준수를 당부했다.아울러 현장 노동자와 쪽방촌 주민 등 폭염 취약계층에 대한 정부 지원에도 만전을 기하라고 지시했다.한 총리는 건설현장을 둘러보며 아이스 조끼, 무",
-    "published_at": "2026-07-14T17:49:42+09:00",
-    "cluster_id": "18ae",
-    "publisher": "대한전문건설신문",
-    "title_clean": "한 총리, 건설현장 찾아 폭염대비 점검···“공사 늦어도 안전하게”",
-    "summary": "한성숙 총리가 서울 중구 건설현장을 방문하여 폭염 대응 상황을 점검했다. 총리는 노동자 안전을 최우선으로 하되 공기 지연도 감수하겠다는 입장을 전달하고, 물 제공·그늘막 설치 등 폭염 안전 5대 기본 수칙 준수를 당부했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T17:54:19+09:00",
-    "importance": 4
   }
 ]
