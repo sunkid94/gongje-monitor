@@ -21249,6 +21249,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "“청년·서민 삶 보장되는 ‘기본사회’ 구축, ‘3高 파고’ 넘는다” - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784187697&code=11131426&cp=nv",
+    "description": "장기적인 건설경기 침체로 어려움을 겪는 전문건설·전기·통신·소방 분야 중소업체의 경영난 해소를 위해 1억~2억원대 소규모 공사를 신속히 확대 추진해 지역 경제에 활력을 불어넣겠다. 가맹점이 결제 대금으로 받은...",
+    "published_at": "2026-07-20T02:24:00+09:00",
+    "cluster_id": "688f",
+    "publisher": "kmib.co.kr",
+    "title_clean": "“청년·서민 삶 보장되는 ‘기본사회’ 구축, ‘3高 파고’ 넘는다”",
+    "summary": "장기적인 건설경기 침체로 어려움을 겪는 전문건설·전기·통신·소방 분야 중소업체의 경영난 해소를 위해 1억~2억원대 소규모 공사를 신속히 확대 추진해 지역 경제에 활력을 불어넣겠다. 가맹점이 결제 대금으로 받은...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T02:27:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32095,21 +32111,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T17:44:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "영하 20도에도 타설…삼표산업, 동절기 콘크리트 현장 적용 확대 - ngetnews.com",
-    "link": "https://www.ngetnews.com/news/articleView.html?idxno=551534",
-    "description": "해당 기술은 2024년 7월 국토교통부 건설신기술 제995호로 지정됐고 녹색기술 인증까지 획득하며 친환경성까지 확보했다. 삼표산업은 기술 확산에도 속도를 내고 있다. 지난해부터 전국 중소 레미콘 업체들과 건설신기술...",
-    "published_at": "2026-07-14T17:34:00+09:00",
-    "cluster_id": "90c3",
-    "publisher": "ngetnews.com",
-    "title_clean": "영하 20도에도 타설…삼표산업, 동절기 콘크리트 현장 적용 확대",
-    "summary": "삼표산업이 영하 20도 저온에서도 시공 가능한 동절기 콘크리트 기술을 개발해 2024년 국토교통부 건설신기술로 지정받고 녹색기술 인증을 획득했다. 전국 중소 레미콘 업체와의 협력을 통해 기술 확산을 확대하고 있어 건설 현장의 계절적 제약을 완화할 수 있을 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T17:39:27+09:00",
-    "importance": 3
   }
 ]
