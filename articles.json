@@ -5322,6 +5322,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "김현기 강남구청장, “영동대로 교통 혼잡·안전성 개선 속도…작은 불... - munhwa.com",
+    "link": "https://www.munhwa.com/article/11603512?ref=naver",
+    "description": "김 구청장은 이에 지난 2일 현장을 직접 통행하며 상황을 확인하고, 노면 상태를 파악한 뒤 서울시와 시공사인 롯데건설에 신속한 보수를 요청했다. 시와 시공사도 주민 불편에 공감해 공사 일정과 보수 범위를 조율하며...",
+    "published_at": "2026-07-20T06:36:00+09:00",
+    "cluster_id": "230b",
+    "publisher": "munhwa.com",
+    "title_clean": "김현기 강남구청장, “영동대로 교통 혼잡·안전성 개선 속도…작은 불...",
+    "summary": "김 구청장은 이에 지난 2일 현장을 직접 통행하며 상황을 확인하고, 노면 상태를 파악한 뒤 서울시와 시공사인 롯데건설에 신속한 보수를 요청했다. 시와 시공사도 주민 불편에 공감해 공사 일정과 보수 범위를 조율하며...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T06:37:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21265,19 +21281,19 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "'파크로쉬 서울원' 정당계약 오늘까지…평균 경쟁률 5.8대 1 흥행 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/07/09/2026070902826.html",
-    "description": "IPARK현대산업개발이 공급하는 하이엔드 주거시설 ‘파크로쉬 서울원’이 7일부터 9일까지 3일간 정당계약을 진행했다. 파크로쉬 서울원은 앞서 진행한 청약에서 총 768가구 모집에 4469건이 접수돼 평균 5.8대 1의...",
-    "published_at": "2026-07-09T16:52:00+09:00",
-    "cluster_id": "a7f8",
-    "publisher": "realty.chosun.com",
-    "title_clean": "'파크로쉬 서울원' 정당계약 오늘까지…평균 경쟁률 5.8대 1 흥행",
-    "summary": "현대산업개발의 하이엔드 주거시설 '파크로쉬 서울원'이 768가구 모집에 4469건이 접수되어 평균 5.8대 1의 높은 경쟁률을 기록했다. 3일간의 정당계약이 성공적으로 진행되었으며 시장에서 높은 수요를 보였다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T16:59:47+09:00",
+    "title": "[설비인의 소리 뚝딱뚝딱] ⑭ 데이터센터와 기계설비 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50867",
+    "description": "▶진상기 기계설비산업연구원 실장데이터센터는 사용 목적이 명확하고 반복성이 높아 기계설비 모듈화를 적용하기 적합한 분야로 기획연구를 통해 향후 5개년 기술개발 방향과 산업 고도화 방안을 마련하고, 회원사들이 변화하는 시공 트렌드에 선제적으로 대응할 수 있도록 지원하겠다.▶백강철 바스코리아 대표그동안 설비와 제어기술 발전에 집중했다면, 앞으로는 데이터의 출발점인 센서의 신뢰성이 더욱 중요해질 것으로 예측된다. 데이터센터의 운영에 있어 안정적인 설비 운전이 반드시 뒷따라야 하는 만큼 자동제어설비 또한 크게 발전하게 될 것으로 전망된다.▶",
+    "published_at": "2026-07-20T05:55:00+09:00",
+    "cluster_id": "4d63",
+    "publisher": "기계설비신문",
+    "title_clean": "[설비인의 소리 뚝딱뚝딱] ⑭ 데이터센터와 기계설비",
+    "summary": "▶진상기 기계설비산업연구원 실장데이터센터는 사용 목적이 명확하고 반복성이 높아 기계설비 모듈화를 적용하기 적합한 분야로 기획연구를 통해 향후 5개년 기술개발 방향과 산업 고도화 방안을 마련하고, 회원사들이 변화하는 시공 트렌드에 선제적으로 대응할 수 있도록 지원하겠다.▶백강철 바스코리아 대표그동안 설비와 제어기술 발전에 집중했다면, 앞으로는 데이터의 출발점",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T06:37:39+09:00",
     "importance": 2
   },
   {
@@ -32095,21 +32111,6 @@
     "summary": "건설경기 침체와 공공물량 감소로 전기공사 업체들의 대금 미수 문제가 심각해지고 있다. 업계 단체는 회원사 협력강화와 인재양성 등으로 위기 극복에 나서고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-07-14T19:48:45+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "정종득 안전보건공단 부산본부장 “건설현장 온열질환 점검” - 국제신문",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWlIwN3hjLW5QeGJ6YVg3MWQ1T2RGZjNfWTZtMWUtcHVxWjdsWElNdzF0VWpBbTNsdlhfY2VKeWxnOGI0OUZpYnl2b1RhN0lPOXVsN1FXYkpBWGR3N3g4bW9LZDMwejBXNEJ1ZjFJeHZTa1o4X0FRcDl5SVBNWFVCZzZzcW1CZVBib25WOHEydEFyUHc?oc=5",
-    "description": "안전보건공단 부산광역본부는 부산지역에 폭염특보가 이어짐에 따라 고온 작업환경에 노출되는 건설현장을 찾아 온열질환 예방과 추락사고 방지를 위한 현장점검(사진)을 실..",
-    "cluster_id": "a87c",
-    "publisher": "국제신문",
-    "title_clean": "정종득 안전보건공단 부산본부장 “건설현장 온열질환 점검”",
-    "summary": "안전보건공단 부산광역본부가 폭염특보에 따라 건설현장의 온열질환 예방과 추락사고 방지를 위한 현장점검을 실시하고 있다. 고온 작업환경 노출 시설에 대한 안전관리 강화 활동이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T19:39:05+09:00",
     "importance": 4
   }
 ]
