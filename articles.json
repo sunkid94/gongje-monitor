@@ -21202,6 +21202,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건국대, 스마트건설 실무교육 운영 - naeil.com",
+    "link": "https://www.naeil.com/news/read/595709?ref=naver",
+    "description": "재학생·지역청년 101명 수료 … BIM·드론 등 현장기술 교육 건국대학교 대학일자리플러스사업단이 재학생과 졸업생, 지역청년을 대상으로 스마트건설 분야 실무교육을 운영했다. 건국대는 한국건설기술인협회와 함께...",
+    "published_at": "2026-07-19T20:36:00+09:00",
+    "cluster_id": "e181",
+    "publisher": "naeil.com",
+    "title_clean": "건국대, 스마트건설 실무교육 운영",
+    "summary": "재학생·지역청년 101명 수료 … BIM·드론 등 현장기술 교육 건국대학교 대학일자리플러스사업단이 재학생과 졸업생, 지역청년을 대상으로 스마트건설 분야 실무교육을 운영했다. 건국대는 한국건설기술인협회와 함께...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T20:42:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32096,22 +32112,6 @@
     "summary": "한성숙 국무총리가 폭염으로 인한 건설현장의 안전 관리 상황을 점검했다. 기사는 폭염 대응에 관한 사실 보도로, 업계에 직접적인 호재나 악재를 제시하지 않는다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-14T17:29:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "울산 중구, 건설사와 손잡고 '지역업체 하도급 확대' 나선다 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260714_0003708933",
-    "description": "울산 중구가 침체된 지역 건설경기 회복을 위해 대형 건설사들과 손을 맞잡았다. 지역 건설업체의 하도급 참여를 늘리고 지역 자재와 인력 사용을 확대하는 상생 협력체계를 구축해 지역경제 활성화에 나선다. 중구는...",
-    "published_at": "2026-07-14T17:17:00+09:00",
-    "cluster_id": "1951",
-    "publisher": "newsis.com",
-    "title_clean": "울산 중구, 건설사와 손잡고 '지역업체 하도급 확대' 나선다",
-    "summary": "울산 중구가 지역 건설경기 활성화를 위해 대형 건설사와 협력하여 지역 건설업체의 하도급 참여 확대 및 지역 자재·인력 사용을 늘리는 상생 협력체계를 구축한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T17:24:19+09:00",
     "importance": 2
   }
 ]
