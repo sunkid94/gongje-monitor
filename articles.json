@@ -21202,6 +21202,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "수원군공항 화성이전·경기국제공항 건설 반대 공감대 확산 - 현대일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GT2RES3ZXM2xyVF9iVHRtbUo5dkxiNEEybUE3OEhKNEVfQUtKVjA5UjdzeHFacHJ4VjRqaG51Y0xqRHAtS0RxdU5QTlBIdGE5NDRYVjJHQ2ZKN2RzRmxjeFNxRG9wODZVbENOYjFR?oc=5",
+    "description": "화성시 시민단체 ‘수원전투비행장 화성이전반대 범시민대책위원회’(이하 범대위)는 지난 16일 새솔동 행정복지센터 2층 회의실에서 새솔동 통장단협의회를 대상으로 ‘찾아가는 범대위 홍보활동’을 진행했다.이번 활동은 수원군공항 화성이전과 경기국제공항 화성건설 추진의 문제점을 시민들에게 알리고, 반대 공감대를 넓히기 위해 마련됐다. 이날 범대위는 관련 현안 설명과 함께 반대 서명운동 참여를 독려하고 시민 의견을 청취했다.범대위는 수원군공항 화성이전 및 경기국제공항 화성건설이 시민 삶과 지역 환경, 미래세대를 위한 도시발전에 미칠 영향을 설명",
+    "published_at": "2026-07-19T18:24:00+09:00",
+    "cluster_id": "c0cb",
+    "publisher": "현대일보",
+    "title_clean": "수원군공항 화성이전·경기국제공항 건설 반대 공감대 확산",
+    "summary": "화성시 시민단체 ‘수원전투비행장 화성이전반대 범시민대책위원회’(이하 범대위)는 지난 16일 새솔동 행정복지센터 2층 회의실에서 새솔동 통장단협의회를 대상으로 ‘찾아가는 범대위 홍보활동’을 진행했다.이번 활동은 수원군공항 화성이전과 경기국제공항 화성건설 추진의 문제점을 시민들에게 알리고, 반대 공감대를 넓히기 위해 마련됐다. 이날 범대위는 관련 현안 설명과 ",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T18:32:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32098,21 +32114,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T17:20:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[위클리오늘] 울릉군 오늘(7. 14) - weeklytoday.com",
-    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=785211",
-    "description": "따라서 양 기관은 ▲청정 울릉 해양생태계 보전을 위한 사동1리 해안변 환경정화 활동 ▲도동~저동간 관광지 연계순환도로 개설사업 등 주요 건설현장 안전점검 및 기술지원 ▲남양피암터널과 곰바위터널 등 노후...",
-    "published_at": "2026-07-14T17:12:00+09:00",
-    "cluster_id": "9838",
-    "publisher": "weeklytoday.com",
-    "title_clean": "[위클리오늘] 울릉군 오늘(7. 14)",
-    "summary": "울릉군에서 해양생태계 보전을 위한 환경정화 활동과 관광지 연계도로 개설사업 등을 추진 중이며, 노후 터널 등 주요 건설현장에 대한 안전점검 및 기술지원을 실시하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T17:20:02+09:00",
-    "importance": 2
   }
 ]
