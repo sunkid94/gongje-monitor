@@ -5322,6 +5322,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "반년 수주 113억달러 그친 K건설 \"어디로 가야 하죠\" - news.bizwatch.co.kr",
+    "link": "https://news.bizwatch.co.kr/article/real_estate/2026/07/16/0030",
+    "description": "중동 주요 수주는 두산에너빌리티가 사우디에서 따낸 '사우디 자푸라 열병합발전소 2단계'와 쌍용건설이 아랍에미리트연방(UAE)에서 수주한 두바이 '애비뉴 파크타워스(키파프 개발사업 Phase 5 Plot 1 Main Work)...",
+    "published_at": "2026-07-20T06:36:00+09:00",
+    "cluster_id": "fdb4",
+    "publisher": "news.bizwatch.co.kr",
+    "title_clean": "반년 수주 113억달러 그친 K건설 \"어디로 가야 하죠\"",
+    "summary": "중동 주요 수주는 두산에너빌리티가 사우디에서 따낸 '사우디 자푸라 열병합발전소 2단계'와 쌍용건설이 아랍에미리트연방(UAE)에서 수주한 두바이 '애비뉴 파크타워스(키파프 개발사업 Phase 5 Plot 1 Main Work)...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T06:42:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21265,20 +21281,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "목화아파트도 수의계약으로 가나…삼성물산, 한강변 수주 행진 - wikileaks-kr.org",
-    "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189561",
-    "description": "하지만 최근 들어 경쟁 예상업체로 지목됐던 대우건설이 여의도에서 특별한 움직임이 보이지 않으면서 삼성물산이 경쟁없이 수주할 수 있다는 분위기가 형성돼 왔다. 삼성물산의 목화아파트 수의계약 가능성이...",
-    "published_at": "2026-07-09T16:54:00+09:00",
-    "cluster_id": "fc1f",
-    "publisher": "",
-    "title_clean": "목화아파트도 수의계약으로 가나…삼성물산, 한강변 수주 행진 - wikileaks-kr.org",
-    "summary": "삼성물산이 목화아파트를 수의계약으로 수주할 가능성이 높아지고 있으며, 대우건설의 움직임 부재로 경쟁이 제한되는 상황이다. 삼성물산의 한강변 수주 행진이 지속되는 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-09T16:59:47+09:00",
-    "importance": 4
+    "title": "[진화하는 위험성평가, 변화하는 건설현장] 전문건설업계 “시공의 최전선…근로자가 안전한 일터 구현” - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NaDUxSnMxcF9kN1gtdWZiZXk5WFE3UEVLMTJLVWljT0Rod3ZlbjhXSDhuN09wR3ByUjZZdDJ2V3VUVjJwVkc0VUR2U3dMdElYbHJBam5EcUZBZWlRSkxJeVNINm1yczRKWlZEMnQzUWpub29R?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5NaDUxSnMxcF9kN1gtdWZiZXk5WFE3UEVLMTJLVWljT0Rod3ZlbjhXSDhuN09wR3ByUjZZdDJ2V3VUVjJwVkc0VUR2U3dMdElYbHJBam5EcUZBZWlRSkxJeVNINm1yczRKWlZEMnQzUWpub29R?oc=5\" target=\"_blank\">[진화하는 위험성평가, 변화하는 건설현장] 전문건설업계 “시공의 최전선…근로자가 안전한 일터 구현”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "4d4b",
+    "publisher": "대한경제",
+    "title_clean": "[진화하는 위험성평가, 변화하는 건설현장] 전문건설업계 “시공의 최전선…근로자가 안전한 일터 구현”",
+    "summary": "[진화하는 위험성평가, 변화하는 건설현장] 전문건설업계 “시공의 최전선…근로자가 안전한 일터 구현” 대한경제",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T06:42:41+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32095,22 +32110,6 @@
     "summary": "폭염으로 인한 옥외노동자(배달라이더, 건설노동자, 환경미화원 등)의 건강과 안전 위협 문제를 다루는 기사. 옥외 작업 종사자들의 폭염 대응 안전 대책 필요성을 제기하고 있음.",
     "sentiment": "negative",
     "collected_at": "2026-07-14T19:58:49+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야” - kookje.co.kr",
-    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260715.22017004338",
-    "description": "- 건설경기 침체·공공물량 감소 고충 - 회원사 협력강화·인재양성 등 주력 “공사를 하고도 대금을 받지 못하는 업체가 적지 않습니다. 회원사 상당수가 버티는 것 자체가 힘든 상황까지 내몰렸습니다.” 지난 2월...",
-    "published_at": "2026-07-14T19:37:00+09:00",
-    "cluster_id": "23e4",
-    "publisher": "kookje.co.kr",
-    "title_clean": "“전기공사 대금 떼이는 업체 수두룩…대책 세워야”",
-    "summary": "건설경기 침체와 공공물량 감소로 전기공사 업체들의 대금 미수 문제가 심각해지고 있다. 업계 단체는 회원사 협력강화와 인재양성 등으로 위기 극복에 나서고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T19:48:45+09:00",
     "importance": 4
   }
 ]
