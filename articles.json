@@ -1,5 +1,20 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비協, 기계설비 전문인재 양성 활성화 지원 - 칸 kharn",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5La2N4M1RJRXBsSi1BWkZIazcwa2NjZ0RTSUl3Y2xUcmg2SUtzQzVVMXBuTjRGN0xReEpOTDJxSHJEdjdVdEZjeGQ5UGhqNmFmdDFHSUtWekxVV0k?oc=5",
+    "description": "대한기계설비건설협회는 7월16일 국립한밭대학교와 한국폴리텍대학 충주캠퍼스를 방문해 기계설비 전문인력 양성 지원금 2,000만원씩을 전달했다고 밝혔다. 국립한밭대학교에서 진행된 지원금 기탁식에는 허용주 기계설비협회 회장, 이태왕 대전·세종·충남도회장, 오용준 국립한밭대학교 총장, 조진균·문주현·박병용 교수 등이, 폴리텍대학 충주캠퍼스 기탁식에는 신동희 폴리텍",
+    "cluster_id": "96b7",
+    "publisher": "칸 kharn",
+    "title_clean": "기계설비協, 기계설비 전문인재 양성 활성화 지원",
+    "summary": "대한기계설비건설협회는 7월16일 국립한밭대학교와 한국폴리텍대학 충주캠퍼스를 방문해 기계설비 전문인력 양성 지원금 2,000만원씩을 전달했다고 밝혔다. 국립한밭대학교에서 진행된 지원금 기탁식에는 허용주 기계설비협회 회장, 이태왕 대전·세종·충남도회장, 오용준 국립한밭대학교 총장, 조진균·문주현·박병용 교수 등이, 폴리텍대학 충주캠퍼스 기탁식에는 신동희 폴리텍",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T22:42:42+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "기계설비협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32097,20 +32112,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T17:39:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도, 혹서기·장마철 앞두고 ‘노동안전지킴이’ 현장점검 역량 대폭 강화 - 경기일보",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaFJIaTkyaHBTWm1tSTJCRHRwTm04NW5VTWN4aFRscnA1Z3IwYXdUb3dVZE1IQVlLMURUZkt0M0FsNVc0SnppZ2FHTEV4TkZPY2F0TTB0VUlwd2M?oc=5",
-    "description": "경기도가 본격적인 여름철 폭염과 장마를 앞두고 산업재해 예방의 최전선에 있는 ‘노동안전지킴이’의 직무역량 강화에 나섰다. 이번 교육은 특히 장마철 집중호우에 대비한 건설공사장 토사 방수포 설치 여부와 폭염기 온열질환 예방을 위한 안전관리 실태 집중점검에 방점을 뒀다.",
-    "cluster_id": "7b3b",
-    "publisher": "경기일보",
-    "title_clean": "경기도, 혹서기·장마철 앞두고 ‘노동안전지킴이’ 현장점검 역량 대폭 강화",
-    "summary": "경기도가 여름철 산업재해 예방을 위해 노동안전지킴이의 직무역량 강화 교육을 실시한다. 장마철 토사 방수포 설치 여부와 폭염기 온열질환 예방을 중점으로 건설공사장 안전관리 실태를 집중점검할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T17:39:27+09:00",
-    "importance": 5
   }
 ]
