@@ -5290,6 +5290,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "분담금에 주춤했더니…돌아온 건 호가 하락 부메랑 - dt.co.kr",
+    "link": "https://www.dt.co.kr/article/12073453?ref=naver",
+    "description": "이 아파트는 지난 2022년 포스코이앤씨를 시공사로 선정하며, 일산 최초 리모델링 단지가 될 것으로 평가받던 곳이다. 당시 이 아파트 전용 84㎡는 8억8500만원에 팔렸는데, 현재는 같은 평형 매물이 최저 5억5000만원으로...",
+    "published_at": "2026-07-20T05:40:00+09:00",
+    "cluster_id": "0c6b",
+    "publisher": "dt.co.kr",
+    "title_clean": "분담금에 주춤했더니…돌아온 건 호가 하락 부메랑",
+    "summary": "이 아파트는 지난 2022년 포스코이앤씨를 시공사로 선정하며, 일산 최초 리모델링 단지가 될 것으로 평가받던 곳이다. 당시 이 아파트 전용 84㎡는 8억8500만원에 팔렸는데, 현재는 같은 평형 매물이 최저 5억5000만원으로...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T05:42:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21230,22 +21246,6 @@
     "summary": "대우건설이 이라크 알포 신항과 움카스르를 연결하는 62km 규모의 고속도로 건설사업을 완료하고 최종 준공승인서를 취득했다. 해외 대형 인프라 프로젝트 완성으로 건설사의 기술력과 신뢰도를 입증했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-09T16:49:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현산, 6조 실적 압박 속 '광명 3만 가구' 정조준 - newsfreezone.co.kr",
-    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698729",
-    "description": "IPARK현대산업개발(이하 IPARK현산)이 광명시 재건축 시장의 핵심 사업지인 하안주공 6·7단지 정비사업 수주를 위해 차별화된 상품화 기획에 착수했다. 대외적으로는 글로벌 설계사와의 협업을 통한 가치 제고를...",
-    "published_at": "2026-07-09T16:36:00+09:00",
-    "cluster_id": "6b6c",
-    "publisher": "newsfreezone.co.kr",
-    "title_clean": "IPARK현산, 6조 실적 압박 속 '광명 3만 가구' 정조준",
-    "summary": "IPARK현산이 광명시 하안주공 6·7단지 재건축 정비사업 수주를 위해 글로벌 설계사와의 협업을 통한 차별화된 상품화 기획을 추진 중이다. 3만 가구 규모의 대형 프로젝트 수주로 6조 원대 실적 달성을 목표하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T16:40:11+09:00",
     "importance": 2
   },
   {
