@@ -21202,6 +21202,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "여고생 숨진 은마아파트 화재, 무자격자가 전기공사…업자 3명 입건 - donga.com",
+    "link": "https://www.donga.com/news/Society/article/all/20260719/134321836/1",
+    "description": "인테리어 업자에게는 건설산업기본법 위반 혐의 적용도 검토하고 있다. 이 법에 따르면 1500만 원 이상 규모의 인테리어 공사는 지방자치단체에 정식으로 등록한 건설업자가 맡아야 한다. 해당 가구의 인테리어 공사비는...",
+    "published_at": "2026-07-19T19:39:00+09:00",
+    "cluster_id": "5616",
+    "publisher": "donga.com",
+    "title_clean": "여고생 숨진 은마아파트 화재, 무자격자가 전기공사…업자 3명 입건",
+    "summary": "인테리어 업자에게는 건설산업기본법 위반 혐의 적용도 검토하고 있다. 이 법에 따르면 1500만 원 이상 규모의 인테리어 공사는 지방자치단체에 정식으로 등록한 건설업자가 맡아야 한다. 해당 가구의 인테리어 공사비는...",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-19T19:47:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32097,21 +32113,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T17:24:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "화성시 건설공사 시민감리단, 활동 시작…부실시공 감시 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iSnNIYmZUaFBvdC1Kb1BKUE5PZVk3VmF1dHFoYk9uODQxZnlWdnUzNFFCbllZVUlza1JoN2Mtbk1wZjM5eDg3UVpaSGdVbFpRY3JtSWNuSk16S015WmhmX9IBeEFVX3lxTE1DTnVxVHUxcVNfYngtVWZwX1BjTm1jMlJDcFVmUEViN0t0Q1VaSHU1VWdaV3ppMGlMZUFmT2xZNlNwV09td1BwazB1R3pJaC05bEU1SmFLWTZfcFdOUjNiaDBwM0JtcEdUeTZSU1NhOWM5aVhnY1ZScA?oc=5",
-    "description": "[화성=뉴시스] 문영호 기자 = 경기 화성시 건설공사 시민감리단이 첫 임무를 시작했다.시민감리단은 공공 건설현장의 부실시공을 막고, 산업재해를 사전에 예방할 수 있도록 개선안을 제시한다. 안전·토목·건축 분야 전문가 7명으로 구성됐다.화성시는 시민감리단이 지난 13일 '(가칭)화성시 독서문화공간 조성사업' 현장에서 첫 감리활동을 진행했다고 14일 밝혔다. ..",
-    "published_at": "2026-07-14T17:11:54+09:00",
-    "cluster_id": "2a51",
-    "publisher": "뉴시스",
-    "title_clean": "화성시 건설공사 시민감리단, 활동 시작…부실시공 감시",
-    "summary": "화성시가 건설공사 시민감리단을 구성하여 공공 건설현장의 부실시공 감시와 산업재해 예방에 나섰다. 안전·토목·건축 전문가 7명으로 구성된 감리단이 독서문화공간 조성사업 현장에서 첫 감리활동을 시작했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T17:24:19+09:00",
-    "importance": 4
   }
 ]
