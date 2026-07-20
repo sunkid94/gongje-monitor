@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "울산시, 대형건설사 본사 찾아 지역업체 수주 확대 나선다 - viva100.com",
+    "link": "https://www.viva100.com/article/20260720500618",
+    "description": "방문단은 울산시 주택허가과 공무원과 대한전문건설협회 울산광역시회, 대한기계설비건설협회 울산광역시·경상남도회 관계자 등 6명으로 구성됐다. 이들은 울산지역에서 공동주택과 기반시설 등 대형 건설사업을 추진...",
+    "published_at": "2026-07-20T13:52:00+09:00",
+    "cluster_id": "377a",
+    "publisher": "viva100.com",
+    "title_clean": "울산시, 대형건설사 본사 찾아 지역업체 수주 확대 나선다",
+    "summary": "울산시가 대형건설사 본사를 방문하여 지역업체의 공동주택·기반시설 건설사업 수주 확대를 추진 중이다. 대한기계설비건설협회 울산광역시회 등 관계자들이 함께 참여하여 지역 건설업체의 수주 기회 확보를 위해 노력하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-20T13:58:31+09:00",
+    "event_label": "대한기계설비건설협회 울산시의 지역업체 수주 확대 활동 참여",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -21781,6 +21798,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "어촌어항공단, 건설공사 안전점검 수행기관 모집…\"안전한 현장 조성\" - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gd0NRSDNueWZvVHF5ZHdyaWEwaU5rZVQ4U2tkNzdieVU3emJqMmJnUm5DOUFZdEJmTHlFZkhYaExIbGFuRnRwVkZGc1JnYTdOOWVIa3A4TDdMb3JRcXg4d0pIZTBwWU10bFFSOVhXSEcyZEE?oc=5",
+    "description": "한국어촌어항공단이 발주하는 건설공사의 안전을 체계적으로 책임질 전문기관 모집 절차가 시작된다.어촌어항공단은 공단이 발주하는 건설공사의 안전점검 수행기관 등록명부를 작성하기 위해 다음달 13일까지 안전진단 전문기관을 모집한다고 20일 밝혔다.모집은",
+    "published_at": "2026-07-20T13:52:35+09:00",
+    "cluster_id": "aba4",
+    "publisher": "핀포인트뉴스",
+    "title_clean": "어촌어항공단, 건설공사 안전점검 수행기관 모집…\"안전한 현장 조성\"",
+    "summary": "한국어촌어항공단이 공단 발주 건설공사의 안전점검을 담당할 전문기관 모집을 개시했다. 다음달 13일까지 안전진단 전문기관을 등록명부에 포함시켜 건설 현장의 체계적 안전관리 체계를 구축하려는 움직이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T13:58:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32151,38 +32184,6 @@
     "summary": "국토부가 모듈러 주택 산업 활성화를 추진 중이며, 김윤덕 장관이 군산 제작 공장을 방문해 생산 현장을 점검했다. 정부가 LH, KAIA 등과 협력하여 모듈러 주택 기술 발전과 시장 확대에 나서고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-15T09:53:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL건설, 협력사 250곳 대상 실무교육 실시…상생 경쟁력 강화 나서 - g-enews.com",
-    "link": "https://www.g-enews.com/view.php?ud=202607150930348296ea13369bfa_1",
-    "description": "법·제도 변화에 대한 이해를 높이고 현장 대응 능력을 강화해 협력사의 경쟁력을 높이겠다는 취지다. 15일... 교육 과정은 △건설산업기본법 실무 △하도급법 실무 △건설현장 노무관리 △납품대금 연동제 등 협력업체...",
-    "published_at": "2026-07-15T09:42:00+09:00",
-    "cluster_id": "d268",
-    "publisher": "",
-    "title_clean": "DL건설, 협력사 250곳 대상 실무교육 실시…상생 경쟁력 강화 나서 - g-enews.com",
-    "summary": "DL건설이 협력사 250곳을 대상으로 건설산업기본법, 하도급법, 노무관리 등 실무교육을 실시하여 협력업체의 법·제도 이해도와 현장 대응 능력을 강화하고 있다. 이는 협력사와의 상생을 통해 건설산업 전반의 경쟁력을 높이려는 상생 경영 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T09:49:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL건설, 협력업체 상호협력교육 성료…250개사 참여 - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573046811431",
-    "description": "교육은 건설산업기본법과 하도급법 실무를 비롯해 건설현장 노무관리, 납품대금 연동제 등 협력업체 실무에 필요한 내용을 중심으로 진행됐다. 사전 접수는 조기 마감됐으며, 실무자와 현장 기술자 등 다양한 직군이...",
-    "published_at": "2026-07-15T09:42:00+09:00",
-    "cluster_id": "463a",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "DL건설, 협력업체 상호협력교육 성료…250개사 참여",
-    "summary": "DL건설이 협력업체 250개사를 대상으로 건설산업기본법, 하도급법, 노무관리, 납품대금 연동제 등 실무 교육을 실시했다. 업계 규정 준수 및 협력업체 역량 강화를 통한 산업 안정화를 도모하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T09:49:13+09:00",
     "importance": 2
   }
 ]
