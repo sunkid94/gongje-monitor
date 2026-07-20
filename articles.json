@@ -22087,6 +22087,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[4차 항만기본계획 수정]항만 인프라 확충에 총 21.4兆 쏜다 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201327264660690",
+    "description": "건설업계에서는 건설수주액이 회복세에 접어드는 상황에서 항만 기반시설 투자까지 이어지면 지역 건설사에 큰 도움이 될 것으로 기대한다. 건설업계 관계자는 “지역 SOC 사업의 가뭄이 길어지는 상황에서...",
+    "published_at": "2026-07-21T06:22:00+09:00",
+    "cluster_id": "44fa",
+    "publisher": "대한경제",
+    "title_clean": "[4차 항만기본계획 수정]항만 인프라 확충에 총 21.4兆 쏜다",
+    "summary": "정부가 4차 항만기본계획 수정을 통해 항만 인프라 확충에 총 21.4조 원을 투자할 계획이다. 건설업계는 최근 회복세를 보이는 수주액에 항만 기반시설 투자가 더해져 지역 건설사의 사업 기회 확대로 이어질 것으로 기대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T06:28:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32181,21 +32197,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T15:05:49+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "권홍사號 반도건설, 자체사업 강화…미국 디벨로퍼 전략 속도 - fntimes.com",
-    "link": "https://www.fntimes.com/html/view.php?ud=20260715145311755b372994c95_18",
-    "description": "전국적인 건설경기 침체와 공사비 상승으로 건설사들의 수익성 확보가 최대 과제로 떠오른 가운데 반도건설이 내실 경영을 바탕으로 체질 개선에 속도를 내고 있다. 분양 미수금을 크게 줄이고 원가율을 개선하며 수익...",
-    "published_at": "2026-07-15T14:58:00+09:00",
-    "cluster_id": "6285",
-    "publisher": "fntimes.com",
-    "title_clean": "권홍사號 반도건설, 자체사업 강화…미국 디벨로퍼 전략 속도",
-    "summary": "건설경기 침체 속에서 반도건설이 분양 미수금 감소, 원가율 개선 등 체질 개선에 나서고 있으며, 미국 디벨로퍼 전략으로 사업 다각화를 추진 중이다. 건설사들의 수익성 확보가 과제인 시장 환경에서 자체사업 강화로 내실 있는 경영을 추구하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T15:05:49+09:00",
-    "importance": 2
   }
 ]
