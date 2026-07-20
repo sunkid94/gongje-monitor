@@ -22121,6 +22121,38 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[뉴스초점] 서울·경기 북부 호우특보…쿠팡 물류센터 화재 초진 - yonhapnewstv.co.kr",
+    "link": "http://www.yonhapnewstv.co.kr/news/MYH20260721075238c0F",
+    "description": "정창삼 인덕대 스마트건설방재공학과 교수와 짚어봅니다. <질문 1> 밤사이에도 많은 비가 쏟아졌는데, 수도권을 중심으로 호우주의보가 확대하고 있고요. 강원 북부와 충남 서해안도 오늘 시간당 최고 100mm 안팎의 많은...",
+    "published_at": "2026-07-21T07:53:00+09:00",
+    "cluster_id": "75a9",
+    "publisher": "yonhapnewstv.co.kr",
+    "title_clean": "[뉴스초점] 서울·경기 북부 호우특보…쿠팡 물류센터 화재 초진",
+    "summary": "서울·경기 북부를 중심으로 호우특보가 확대되고 있으며, 강원 북부와 충남 서해안에서도 시간당 최고 100mm 안팎의 집중호우가 예상되고 있다. 쿠팡 물류센터에서 화재가 발생했으나 초기 진화 중인 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T07:58:43+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "최동민 동대문구청장, 공사장·유수지서 '안전점검' 총력 - 서울동북신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1NVlRUUtmWWVqcUJoeUVkdjdsc3h5a2VwU3d0d1BWdnN5eThXZEIzeDRtWldwMXpQRTZoWFpGRVJaYjEtWDlrVENYSmFHbGVueEdWSTZjcHVqWTE3VlBQUTVvNmM1V0d3TzNhRw?oc=5",
+    "description": "동대문구가 본격적인 장마와 기습적인 집중호우에 대비해 구민 안전을 확보하기 위한 선제적 현장 점검에 나섰다.최동민 구청장은 20일 주요 대형 공사장인 간데메공원 지하주차장 건설현장과 방재 핵심 시설인 휘경유수지 일대를 잇따라 방문해 안전관리 실태를 전격 점검했다.이날 오전 답십리동에",
+    "published_at": "2026-07-21T07:39:55+09:00",
+    "cluster_id": "6c86",
+    "publisher": "서울동북신문",
+    "title_clean": "최동민 동대문구청장, 공사장·유수지서 '안전점검' 총력",
+    "summary": "동대문구청장이 장마와 집중호우에 대비해 간데메공원 지하주차장 건설현장과 휘경유수지를 점검했다. 구는 공사장 안전관리 실태를 전격 점검하여 선제적 현장 점검에 나섰다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T07:58:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32167,38 +32199,6 @@
     "summary": "평택시가 폭염 속 건설현장 안전 점검을 실시하며 근로자 보호에 나섰다. 고덕 현장 방문을 통해 안전 관리와 지역경제 상생을 동시에 추진했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-15T15:45:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "평택시, 폭염 속 건설현장 안전 점검…우미건설 고덕 현장서 지역상생도... - kmaeil.com",
-    "link": "https://www.kmaeil.com/news/articleView.html?idxno=645456",
-    "description": "이성호 부시장은 \"건설현장의 안전은 아무리 강조해도 지나치지 않다\"며 \"특히 폭염이 계속되는 만큼 근로자들이 충분히 휴식하며 안전하게 일할 수 있는 환경을 만드는 것이 무엇보다 중요하다\"고 밝혔다. 이어 \"현장에서...",
-    "published_at": "2026-07-15T15:32:00+09:00",
-    "cluster_id": "3d02",
-    "publisher": "kmaeil.com",
-    "title_clean": "평택시, 폭염 속 건설현장 안전 점검…우미건설 고덕 현장서 지역상생도...",
-    "summary": "평택시가 폭염 속 건설현장 안전점검을 실시하며 근로자 휴식과 안전한 작업환경 조성을 강조했다. 우미건설 고덕 현장에서 지역상생 활동을 전개하는 등 업계 안전 관리 강화 움직임을 보였다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T15:40:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"안전이 곧 프리미엄\"…두산·쌍용건설, 철저한 현장 관리로 신뢰도 입증 - 데일리한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xaEl1VkZyX0xnbm9tbzdpOS1Ba2R5U2Y4SGhGSnN4dldwUVVKNkh1SnR0TGFSTkQyQUo4TnRyZ2dmWGlPZTZ1bHB4LXZsT2VwTE1CSDJ5RG5KSXNkUkx3VDBDMVkzaTZNcHlqVFZnUQ?oc=5",
-    "description": "[데일리한국 김성배 기자] 원자재 가격 상승과 공기 지연 등 건설업계를 둘러싼 대내외 변동성이 커지면서 시공사의 현장 안전 및 공정 관리 역량이 핵심 경쟁력으로 부상하고 있다. 특히 다수의 협력업체가 투입되는 대규모 정비사업의 경우 철저한 현장 관리가 사업의 안정성을 좌우하는 지표로 작용하고 있다15일 건설업계에 따르면 고용노동부와 한국산업안전보건공단이 주관한",
-    "published_at": "2026-07-15T15:24:41+09:00",
-    "cluster_id": "d136",
-    "publisher": "데일리한국",
-    "title_clean": "\"안전이 곧 프리미엄\"…두산·쌍용건설, 철저한 현장 관리로 신뢰도 입증",
-    "summary": "건설업계의 변동성이 커지면서 현장 안전 및 공정 관리 역량이 핵심 경쟁력으로 부상하고 있다. 두산과 쌍용건설이 철저한 현장 관리를 통해 신뢰도를 입증하며 업계 선도 사례를 제시하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T15:40:28+09:00",
     "importance": 2
   }
 ]
