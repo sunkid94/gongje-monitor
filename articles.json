@@ -22056,6 +22056,21 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "여수광양항만공사, 혹서기 건설현장 근로자 온열질환 예방 위한 보냉장구 지급 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB5aVpmVUFBWWQ5WHJkREc5ZVBrZ2lhLTVmaGoxQ1VZMjdHeVRWSVhFeGIxYWptcGhaVzVaMGRXeWdCUjA?oc=5",
+    "description": "권동진 개발사업부사장 직접 현장 방문해 안전 수칙 점검… 8월 말까지 지원 지속",
+    "cluster_id": "ce0b",
+    "publisher": "더코리아",
+    "title_clean": "여수광양항만공사, 혹서기 건설현장 근로자 온열질환 예방 위한 보냉장구 지급 > 뉴스",
+    "summary": "여수광양항만공사가 혹서기 건설현장 근로자의 온열질환 예방을 위해 보냉장구를 지급하고 안전 수칙을 점검하고 있다. 경영진이 직접 현장을 방문해 근로자 안전관리에 적극 나서고 있으며 8월 말까지 지원을 계속할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T22:24:03+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "장성군, 여름철 자연재난 대비 지역 내 건설사업장 22곳 안전점검 실시 > 뉴스 - 더코리아",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TZjdZY3B4T3ZmLWxyQ2VGM21MTWtPcllKbXhXb1lBSzlOOVNaRWJwVUtadHNIbzRsWC1YcUtLbHg5X0g0RGdmZmx5b2s0dDVnejktVXRIWldhTHNaRzJjX3hsRVluVURNenRiZjRCc2E?oc=5",
     "description": "절개지 붕괴 우려 지역 및 폭염 대비 온열질환 예방수칙 준수 여부 등 집중 확인",
@@ -32184,21 +32199,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T13:49:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "비주택에 쏠린 수주 회복…대형 건설사, 원가·공정 관리 역량 부각 - mediapen.com",
-    "link": "https://www.mediapen.com/news/view/1110312",
-    "description": "건설수주가 표면적으로 회복되는 가운데 대형 건설사들의 원가·공정 데이터 관리 역량이 다시 부각되고 있다. 민간 비주택 대형 프로젝트가 수주 증가를 이끌고 있지만 민간 주택수주는 부진하고 공사비 부담도...",
-    "published_at": "2026-07-15T13:42:00+09:00",
-    "cluster_id": "e6f2",
-    "publisher": "mediapen.com",
-    "title_clean": "비주택에 쏠린 수주 회복…대형 건설사, 원가·공정 관리 역량 부각",
-    "summary": "건설수주가 회복되면서 민간 비주택 대형 프로젝트가 성장을 주도하고 있다. 대형 건설사들의 원가·공정 관리 역량이 경쟁 우위 요소로 부각되는 가운데, 민간 주택수주 부진과 공사비 부담이 업계 과제로 남아있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T13:49:45+09:00",
-    "importance": 2
   }
 ]
