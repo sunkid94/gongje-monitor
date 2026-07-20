@@ -22121,6 +22121,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "최동민 동대문구청장, 장마철 대비 공사장·유수지 현장점검…침수 예방 총력 - 문화일보",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83dVhMWFBFeVFtcjU5TUJqcF85X2o4TERadVlyMDZiTU9LMXVHc1JNMS0zdE1taWFTcTM2dlhEWElnU2VsMFJ3QW13ZGl0RG93?oc=5",
+    "description": "서울 동대문구가 장마와 집중호우에 대비해 공사 현장과 방재시설에 대한 안전 점검을 실시했다. 21일 동대문구에 따르면 최동민 동대문구청장은 20일 간데메공원 지하주차장 건설현장과 휘경유수지 일대를 방문해 우기 대비 안전관리 상태를 점검했다. 최 구청장은 20일 오전 간",
+    "published_at": "2026-07-21T06:50:35+09:00",
+    "cluster_id": "ff51",
+    "publisher": "문화일보",
+    "title_clean": "최동민 동대문구청장, 장마철 대비 공사장·유수지 현장점검…침수 예방 총력",
+    "summary": "서울 동대문구청장이 장마철 대비 공사장과 방재시설에 대한 안전점검을 실시했다. 간데메공원 지하주차장 건설현장과 휘경유수지 등을 방문하여 우기 대비 안전관리 상태를 확인했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T08:23:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32183,22 +32199,6 @@
     "summary": "경상북도개발공사가 폭염 속 건설현장을 방문하여 근로자 안전·건강 점검을 실시했다. 이온음료, 보냉장구, 수박 등을 제공하며 현장 근로자들을 격려하고 폭염 대응 안전 캠페인을 전개했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-15T15:50:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "김태흥 의왕시의원, 지역 건설산업 활성화 조례 개정 추진 - kyeonggi.com",
-    "link": "https://www.kyeonggi.com/article/20260715580338",
-    "description": "건설경기 침체로 의왕지역 건설업체들이 어려움을 겪는 가운데 지역 자재·장비·인력 활용을 확대해 지역경제의 선순환 구조를 구축하기 위한 제도적 근거가 마련될 전망이다. 김태흥 의왕시의원은 지역 건설경기 침체를...",
-    "published_at": "2026-07-15T15:38:00+09:00",
-    "cluster_id": "de2d",
-    "publisher": "kyeonggi.com",
-    "title_clean": "김태흥 의왕시의원, 지역 건설산업 활성화 조례 개정 추진",
-    "summary": "김태흥 의왕시의원이 건설경기 침체로 어려움을 겪는 지역 건설업체 지원을 위해 지역 자재·장비·인력 활용을 확대하는 조례 개정을 추진 중이다. 이를 통해 지역경제의 선순환 구조 구축을 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T15:45:28+09:00",
     "importance": 2
   }
 ]
