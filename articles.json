@@ -22087,6 +22087,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, 1.9조 '샬롯펀드 7400억' 조기 상환 - 블로터",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfOEFieTJ5d3BSbnJRUGNKMGFMaGJnYW1TcGkxanFpeVAxVFktNF9sZEh0a1JZT1Z6cjVKaFdLeFlJQS1Td0VnRkF5b1JoNElqdFBrX1RZNlJoM3hhZ3d4U1BIUUVHMG4z0gFsQVVfeXFMUHpiZXZGeDljUHNHRV9kejFZYjRVaGFwVGdJV0Z1V3J2akJVV2dGdldJWGJUeTh3LTJHM1hRcEdFWnhRYnExUXBGOVdFTDdFR09iVkJ3eTMtTEVaNzJkSlhZOHktNWh2VEExaklY?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfOEFieTJ5d3BSbnJRUGNKMGFMaGJnYW1TcGkxanFpeVAxVFktNF9sZEh0a1JZT1Z6cjVKaFdLeFlJQS1Td0VnRkF5b1JoNElqdFBrX1RZNlJoM3hhZ3d4U1BIUUVHMG4z0gFsQVVfeXFMUHpiZXZGeDljUHNHRV9kejFZYjRVaGFwVGdJV0Z1V3J2akJVV2dGdldJWGJUeTh3LTJHM1hRcEdFWnhRYnExUXBGOVdFTDdFR09iVkJ3eTMtTEVaNzJkSlhZOHktNWh2VEExaklY?oc=5\" target=\"_blank\">롯데건설, 1.9조 '샬롯펀드 7400억' 조기 상환</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블로터</font>",
+    "published_at": "2026-07-20T15:30:46+09:00",
+    "cluster_id": "107e",
+    "publisher": "블로터",
+    "title_clean": "롯데건설, 1.9조 '샬롯펀드 7400억' 조기 상환",
+    "summary": "롯데건설이 샬롯펀드 7,400억 원을 조기 상환하며 1.9조 원 규모의 채무를 감축했다. 이는 건설사의 재무 건전성 개선 신호로 볼 수 있으나, PF 부실 우려와 별개의 개별 사건으로 판단된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T05:38:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32181,21 +32197,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T14:55:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원, 신한울 3·4호기 건설현장 국민에 개방 … 시민참관단 발족 - 워크투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DM2h3bHdDZTJiY2tDczg1TGJZRGRGZklPYldvODZfX1lJaTUwSkVMbHdMcVZ0QlA4VkhiNFJ5dnFBZkRkcFNrdGxpSXBicWl6SDlFemcxejZmSW5ONk50YkhkeGRlcFF6TXJGYg?oc=5",
-    "description": "한국수력원자력이 원전 건설 과정의 투명성 제고를 목표로 시민들이 직접 참여하는 감시 프로그램을 새롭게 시작했다.한수원은 지난 14일 한울본부에서 &#39;신한울3,4호기 안전 시민참관단&#39; 1기 발대식을 진행했다고 15일 밝혔다.이 프로그램은 일반 국민의 시각에서 원전 건설 상황을 이해하고, 현장의 목소리를 사업에 반영하기 위해 마련됐다.참관단 모집은 지난 6월 한울본부 홈페이지를 통해 이뤄졌으며, 대구·경북 지역 주민을 대상으로 신청을 받아 추첨 방식으로 30명이 최종 선발됐다.이번에 발족한 1기 참관단은 9월까지 약 3개월",
-    "published_at": "2026-07-15T14:36:53+09:00",
-    "cluster_id": "8afe",
-    "publisher": "워크투데이",
-    "title_clean": "한수원, 신한울 3·4호기 건설현장 국민에 개방 … 시민참관단 발족",
-    "summary": "한수원이 신한울 3·4호기 건설현장의 투명성 강화를 위해 시민참관단 프로그램을 시작했다. 대구·경북 지역 주민 30명으로 구성된 1기 참관단이 9월까지 약 3개월간 활동하며 건설 과정을 감시한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T14:50:18+09:00",
-    "importance": 2
   }
 ]
