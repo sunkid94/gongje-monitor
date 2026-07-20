@@ -5988,6 +5988,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "거제외국인근로자지원센터, '2026년 하반기 한국어교육' 개강 - newsgn.com",
+    "link": "https://www.newsgn.com/news/articleView.html?idxno=563165",
+    "description": "이와 함께 삼성중공업과 한화오션 등 지역 조선업체 7개 사업장에도 한국어 강사를 주 1~2회 파견해 근무환경에 필요한 실용 한국어와 산업현장에서 자주 사용하는 용어 등을 중심으로 현장 맞춤형 교육을 실시함으로써...",
+    "published_at": "2026-07-20T16:52:00+09:00",
+    "cluster_id": "6b28",
+    "publisher": "newsgn.com",
+    "title_clean": "거제외국인근로자지원센터, '2026년 하반기 한국어교육' 개강",
+    "summary": "거제외국인근로자지원센터가 2026년 하반기 한국어교육을 개강하며, 삼성중공업과 한화오션 등 지역 조선업체 7개 사업장에 한국어 강사를 파견하여 현장 맞춤형 교육을 실시한다. 외국인 근로자의 의사소통 능력 향상을 통해 조선업 현장의 생산성과 안전성 개선에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-20T16:58:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21929,22 +21945,6 @@
     "summary": "경북개발공사가 금호건설 컨소시엄과 함께 경주 도청신도시에 726세대 규모의 공공임대아파트를 공급한다. 경상북도의 신도시 조성 사업의 일환으로 추진되는 대규모 건설 프로젝트이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T00:07:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "경북도청신도시 10년 만에 공공임대 공급 - idaegu.co.kr",
-    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=553626",
-    "description": "사업은 경북도개발공사가 발주하고 금호건설 컨소시엄(금호건설·포스코이앤씨·플러스종합건설)이 시공을 맡는다. 예천군 호명읍 산합리 1118번지 일원 2개 필지에 지하 3층~지상 최고 37층, 7개 동, 총 726세대 규모로...",
-    "published_at": "2026-07-12T21:34:00+09:00",
-    "cluster_id": "3529",
-    "publisher": "idaegu.co.kr",
-    "title_clean": "경북도청신도시 10년 만에 공공임대 공급",
-    "summary": "경북도개발공사 발주로 경북도청신도시 내 공공임대주택 726세대 규모 프로젝트가 추진된다. 금호건설 컨소시엄이 시공을 담당하며 지하 3층~지상 37층 규모로 건설될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-12T21:37:48+09:00",
     "importance": 2
   },
   {
