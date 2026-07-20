@@ -21948,6 +21948,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "오티스 코리아, 아셈타워 엘리베이터 29대 전면 교체 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40872",
+    "description": "[건설이코노미뉴스] 오티스 엘리베이터 코리아가 서울 강남구 한국종합무역센터 내 대표 프라임 오피스 빌딩인 아셈타워의 엘리베이터 전면 교체 공사에 나선다. 이번 사업을 통해 IoT 기반 디지털 플랫폼 '오티스 원(Otis ONE™)'을 적용해 예측 유지관리와 실시간 모니터링 체계를 구축하며 스마트 빌딩 경쟁력 강화에 속도를 낼 전망이다.오티스 엘리베이터 코리아(이하 오티스 코리아)는 서울 강남구 소재 한국종합무역센터 내 아셈타워(ASEM Tower)의 엘리베이터 교체 공사 프로젝트를 진행하고 첨단 디지털 모니터링 및 진단 솔루션을 공",
+    "published_at": "2026-07-20T16:53:00+09:00",
+    "cluster_id": "08a4",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "오티스 코리아, 아셈타워 엘리베이터 29대 전면 교체",
+    "summary": "오티스 엘리베이터 코리아가 아셈타워의 엘리베이터 29대를 전면 교체하며 IoT 기반 '오티스 원' 플랫폼을 도입해 예측 유지관리와 실시간 모니터링 체계를 구축한다. 이를 통해 스마트 빌딩 경쟁력 강화를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-20T16:56:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32175,21 +32191,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T11:14:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "황상하 SH 사장, 폭염 대비 건설 현장 안전 점검 실시 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XRHo1WHVGalJSNHhBT3BOQnRvdTgzdEczTE9ScmljcHJjTV8xekJpVFlrQkhWeE5JbkR0MXJhTVhTRk9KWXZoMnZjVVJYbGFfU0k4U1hzM2llZnlfUVRNVw?oc=5",
-    "description": "서울주택도시개발공사(SH)는 황상하 사장이 서울 강서구 마곡 16단지 건설 현장을 방문해 폭염 대비 안전 관리 실태를 점검했다고 15일 밝혔다.",
-    "published_at": "2026-07-15T11:08:50+09:00",
-    "cluster_id": "dcd8",
-    "publisher": "아시아경제",
-    "title_clean": "황상하 SH 사장, 폭염 대비 건설 현장 안전 점검 실시",
-    "summary": "SH공사 황상하 사장이 강서구 마곡 16단지 건설 현장을 방문하여 폭염 대비 안전 관리 실태를 점검했다. 건설 현장의 안전 관리 강화를 위한 경영진의 현장 점검 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T11:14:37+09:00",
-    "importance": 3
   }
 ]
