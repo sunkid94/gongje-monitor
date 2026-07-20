@@ -6158,6 +6158,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "중동 위기 고조에 건설 공사비 압박 커진다 - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20260720500282",
+    "description": "금융감독원 전자공시시스템에 따르면 시공능력평가 상위 대형 건설사 7곳(삼성물산·현대건설·대우건설·DL이앤씨·GS건설·포스코이앤씨·IPARK현대산업개발)의 지난해 평균 매출원가율은 90.4%로 집계됐다. 매출원가율은...",
+    "published_at": "2026-07-21T08:26:00+09:00",
+    "cluster_id": "b05f",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "중동 위기 고조에 건설 공사비 압박 커진다",
+    "summary": "중동 위기로 인한 건설 공사비 상승이 대형 건설사들의 수익성을 압박하고 있다. 지난해 상위 7개 건설사의 평균 매출원가율이 90.4%로 높아져 원가 부담이 심화되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T08:28:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -22102,22 +22118,6 @@
     "summary": "DL건설이 평택 고덕 A-70블록 민간참여 공공주택사업 우선협상대상자로 선정되고, 대우건설은 인도네시아에서 기가급 AI 데이터센터 구축 협력을 추진하면서 건설사들의 신규 사업 수주가 이어지고 있다. 한편 우면동 주민들의 서리풀2지구 개발사업 반대 시위도 함께 진행 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T11:48:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "조선업 첫 노사정협의체 출범…원하청 격차·인력 공백 등 논의 - yonhapnewstv.co.kr",
-    "link": "http://www.yonhapnewstv.co.kr/news/AKR202607131127242J5",
-    "description": "발족식에는 민주노총과 한국노총 등 양대노총이 모두 참여했으며, 한국조선해양플랜트협회와 함께 HD현대중공업, 삼성중공업, 한화오션 등 주요 조선사가 참여했습니다. 협의체에서는 조선업 현장에서의 숙련 인력 부족...",
-    "published_at": "2026-07-13T11:28:00+09:00",
-    "cluster_id": "994d",
-    "publisher": "yonhapnewstv.co.kr",
-    "title_clean": "조선업 첫 노사정협의체 출범…원하청 격차·인력 공백 등 논의",
-    "summary": "조선업 처음으로 노사정협의체가 출범했으며, 민주노총·한국노총과 HD현대중공업, 삼성중공업, 한화오션 등 주요 조선사가 참여했습니다. 협의체에서는 숙련 인력 부족, 원하청 격차 등 업계 현안을 논의합니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-13T11:38:48+09:00",
     "importance": 2
   },
   {
