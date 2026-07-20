@@ -22019,6 +22019,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "한문도 \"李자택 17.7억 근저당? 부동산 업계에선 자연스럽고 당연한 행... - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0101_202607202018045750",
+    "description": "경제를 생각해서, 건설사 PF 문제 그것도 이해가 돼요. 되지만 1번을 여기다 두고 가야 정상이지, 엄마 아빠가 있는데 옆집 아저씨하고 놀면 되겠습니까? 안 되잖아요. 그 얘기를 드리는 거예요. 그래서 정부가 지금 열심히...",
+    "published_at": "2026-07-20T20:18:00+09:00",
+    "cluster_id": "b704",
+    "publisher": "ytn.co.kr",
+    "title_clean": "한문도 \"李자택 17.7억 근저당? 부동산 업계에선 자연스럽고 당연한 행...",
+    "summary": "한문도 의원이 이준석 전 대표의 17.7억 근저당 논란에 대해 건설사 PF 문제는 이해하지만 우선순위 문제를 지적했습니다. 정부의 관련 대책 추진을 언급하며 기본 원칙 준수의 중요성을 강조했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-20T20:39:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32181,22 +32197,6 @@
     "summary": "전근식 한일시멘트 대표가 건설경기 회복 지연으로 인해 하반기 경영 키워드를 '내실경영'과 '유동성 관리'로 설정하고 불확실한 시장 대응에 나섰다. 이는 건설업계의 경기 둔화와 기업들의 보수적 경영 기조를 반영한다.",
     "sentiment": "negative",
     "collected_at": "2026-07-15T13:04:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "SH, 폭염 속 건설현장 안전관리 강화…현장 점검·스마트 안전장비 지원 확대 - 비즈니스플러스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBVDduN1hPclF4U0R3R2pBN2h6UkdmWDkxRDF2MmxkZ2V4c08yb2tZOHNJdmliVTZNZ2lfa3dHNW9XQVllanJoR2tXOHBfT2VCczRLREhXdGg1bjBFOW5uU3FsajF5LUJBckRtV1dIUQ?oc=5",
-    "description": "서울주택도시개발공사(SH)가 여름철 폭염에 따른 산업재해를 예방하기 위해 건설현장 안전 점검을 실시하고, 중소 규모 현장에는 스마트 안전장비 지원을 확대하는 등 근로자 보호 강화에 나섰다.SH는 황상하 사장이 지난 14일 서울 강서구 마곡 16단지 건설현장을 찾아 폭염 대응 안전관리 실태를 점검했다고 15일 밝혔다.이번 현장 점검은 연일 이어지는 폭염에 대비해 건설현장 근로자의 건강과 안전을 확보하고 온열질환 예방 체계를 점검하기 위해 마련됐다.황 사장은 이날 휴게실과 보건관리실 등 근로자 편의시설의 운영 상태를 살펴보고, 냉방기",
-    "published_at": "2026-07-15T11:43:28+09:00",
-    "cluster_id": "f5e3",
-    "publisher": "비즈니스플러스",
-    "title_clean": "SH, 폭염 속 건설현장 안전관리 강화…현장 점검·스마트 안전장비 지원 확대",
-    "summary": "SH가 폭염으로 인한 산업재해 예방을 위해 건설현장 안전 점검을 강화하고 중소 규모 현장에 스마트 안전장비 지원을 확대하는 등 근로자 보호에 나섰다. 황상하 사장이 마곡 16단지 건설현장을 방문해 폭염 대응 안전관리 체계와 근로자 편의시설을 점검했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-15T13:00:16+09:00",
     "importance": 4
   }
 ]
