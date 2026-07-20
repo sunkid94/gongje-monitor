@@ -22002,6 +22002,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"유리 등 관련 특허만 20개… 대형 건축 프로젝트 수주 총력\" [C리즈] - fnnews.com",
+    "link": "http://www.fnnews.com/news/202607201816439340",
+    "description": "건설경기가 단기간의 급성장이 힘든 성숙기에 접어든 데다가 원자재 가격 급등 등 악재가 겹치면서 침체가 이어지고 있다. 여기에 중국산 저가 제품 공세로 수출 경쟁력도 약화됐다. 이 같은 악조건 속에서도...",
+    "published_at": "2026-07-20T18:17:00+09:00",
+    "cluster_id": "9de9",
+    "publisher": "fnnews.com",
+    "title_clean": "\"유리 등 관련 특허만 20개… 대형 건축 프로젝트 수주 총력\" [C리즈]",
+    "summary": "건설업계가 성숙기 진입, 원자재 가격 급등, 중국산 저가 제품 공세 등으로 침체를 겪고 있는 가운데, 기업들이 대형 건축 프로젝트 수주와 특허 개발(유리 관련 특허 20개)을 통해 경쟁력 강화에 나서고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T18:24:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32179,22 +32195,6 @@
     "summary": "상반기 산업재해 사망자가 253명으로 역대 최대 감소했으며, 건설현장 수는 전년 대비 13만 곳 증가했다. 건설업 사망자 감소는 경기 침체가 아닌 노사의 적극적 감소 노력의 결과로 평가된다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-15T12:09:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경남도 지역건설산업 활성화 도·시군 협력체계 강화 - newstown.co.kr",
-    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=709222",
-    "description": "지역건설산업 활성화 도-시군 협력회의 모습/사진 경남도제공 경상남도가 침체된 지역 건설경기 회복과 지역업체 경쟁력 강화를 위해 도와 시군이 함께하는 협력체계를 강화하고 나섰다. 공공공사 발주 확대와 지역업체...",
-    "published_at": "2026-07-15T11:03:00+09:00",
-    "cluster_id": "49fd",
-    "publisher": "newstown.co.kr",
-    "title_clean": "경남도 지역건설산업 활성화 도·시군 협력체계 강화",
-    "summary": "경상남도가 침체된 지역 건설경기 회복을 위해 도와 시군 협력체계를 강화하고 공공공사 발주 확대 등을 추진 중이다. 지역업체의 경쟁력 강화와 건설산업 활성화를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T11:59:47+09:00",
     "importance": 2
   }
 ]
