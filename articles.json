@@ -22019,6 +22019,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "PF 총량은 줄었지만…지방·비주택 사업장 돈맥경화 여전 - 아주경제",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqUW5Jdmk4MXRSLVktVEJwQm5TV25idGlFamFLV29iV3RpOFMzaWtNN0ZtNlBDeHBSUnNCQnctYldpV05JZjVVMmxLemlpd3E1V0NzZzJXUTPSAVhBVV95cUxQalFuSXZpODF0Ui1ZLVRCcEJuU1duYnRpRWphS1dvYld0aThTM2lrTTdGbTZQQ3hwUlJzQkJ3LWJXaVdOSWY1VTJsS3ppaXdxNVdDc2cyV1Ez?oc=5",
+    "description": "부동산 프로젝트파이낸싱(PF) 시장이 총량 기준으로는 안정 조짐을 보이고 있지만, 지방·비주택 등 취약 사업장에서는 여전히 돈맥경화가 이어지고 있다....",
+    "published_at": "2026-07-20T16:04:28+09:00",
+    "cluster_id": "e470",
+    "publisher": "아주경제",
+    "title_clean": "PF 총량은 줄었지만…지방·비주택 사업장 돈맥경화 여전",
+    "summary": "PF 시장이 총량 기준으로는 개선되는 모습을 보이나, 지방과 비주택 사업장에서는 자금 조달 어려움이 계속되고 있다. 건설업계의 양극화 심화로 취약 사업장의 경영 악화가 우려된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-20T21:39:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32180,22 +32196,6 @@
     "publisher": "hdnews.co.kr",
     "title_clean": "철근값 급등에 분양가상한제 기본형건축비 인상…분양가 상승 압력 커진다.",
     "summary": "철근 가격 급등으로 정부가 분양가상한제의 기본형건축비를 상향 조정했다. 이에 따라 신규 분양 아파트의 분양가 상승 압력이 높아질 것으로 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T13:39:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원, 신한울 3·4호기 시민참관단 가동…건설 현장 공개 확대 - 위키리크스한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vSUhiYnR6MDhkNWxnb093alktVTl4X0kza0dnWWp3MTlrZC1IUVpQWnZwRVFFMGJBdzdCRkplc2tsb2lEVTFNcW14QVp2ZnZtUnZ0R09QMW5WbnVGVE5VYk12UkgxZXdqbWpwX3F0Yw?oc=5",
-    "description": "한국수력원자력이 신한울 3·4호기 건설 과정에 지역 주민이 직접 참여하는 안전 시민참관단 운영을 시작했다. 참관단은 원전 건설 현장과 주요 기자재 제작 과정을 살펴보고 안전성 향상을 위한 의견을 제안한다.15일 업계에 따르면 한수원은 지난 14일 경북 울진 한울원자력본부에서 ‘신한울 3·4호기 제1기 안전 시민참관단 발대식’을 개최했다.안전 시민참관단은 원전 건설 정보를 시민 눈높이에서 제공하고, 건설 과정에 대한 외부 의견을 사업에 반영하기 위해 마련됐다.한수원은 지난 6월 한울본부 홈페이지를 통해 대구·경북 지역 주민을 대상으로",
-    "published_at": "2026-07-15T12:58:00+09:00",
-    "cluster_id": "179f",
-    "publisher": "위키리크스한국",
-    "title_clean": "한수원, 신한울 3·4호기 시민참관단 가동…건설 현장 공개 확대",
-    "summary": "한국수력원자력이 신한울 3·4호기 건설 현장 투명성 강화를 위해 지역 주민 참여형 안전 시민참관단을 운영 시작했다. 시민들이 원전 건설 과정과 기자재 제작을 직접 살펴보고 안전성 개선 의견을 제안하는 구조로, 건설 사업의 공개성과 신뢰도를 높이려는 취지다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-15T13:39:35+09:00",
     "importance": 2
