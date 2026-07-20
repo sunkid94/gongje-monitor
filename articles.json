@@ -22019,6 +22019,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남부 레미콘 노사갈등 팽팽 - knnews.co.kr",
+    "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1546755",
+    "description": "전국건설노동조합 경남건설기계지부 레미콘지회는 20일 거제시청 기자회견실에서 기자회견을 열고 22일부터 경남 동·서·남부권역 조합원 총파업에 돌입한다고 밝혔다. 레미콘지회 동부권에는 창원·밀양·함안·의령...",
+    "published_at": "2026-07-20T21:30:00+09:00",
+    "cluster_id": "1573",
+    "publisher": "knnews.co.kr",
+    "title_clean": "남부 레미콘 노사갈등 팽팽",
+    "summary": "전국건설노동조합 경남건설기계지부 레미콘지회가 22일부터 경남 동·서·남부권역에서 총파업에 돌입한다고 발표했다. 노사갈등으로 인한 파업 예고로 건설 현장의 레미콘 공급 차질이 우려된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-20T21:33:59+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘신축매입임대 토지비’ 지원금 최대 80%로 상향… ‘부분매입방식’도 허용 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA5cHZLYzAxS0p0Y1hBdVlueDUwUEpuOW81ZEl6NnB3dzRaYVAzSzhVN3p3VXh4RVpHb3VNdjJIWFQ0c2M?oc=5",
+    "description": "이달 13일 서울 송파구 롯데월드타워 전망대 서울스카이에서 빌라 밀집 지역이 내려다보이고 있다.(사진 = 뉴시스) © 매일건설신문 매일건설신문=조",
+    "published_at": "2026-07-20T15:26:00+09:00",
+    "cluster_id": "51fa",
+    "publisher": "매일건설신문",
+    "title_clean": "‘신축매입임대 토지비’ 지원금 최대 80%로 상향… ‘부분매입방식’도 허용",
+    "summary": "정부가 신축매입임대주택 사업의 토지비 지원금을 기존 대비 상향하고 부분매입방식을 새롭게 허용하여 임대주택 공급 사업 활성화를 도모하고 있다. 이는 건설업계의 주택건설 수주 기회 증대 및 사업성 개선으로 작용할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-20T21:33:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32167,37 +32199,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-15T13:39:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[건설 Pick] 삼성물산·한화 건설부문·DL건설, 스마트 주거 혁신과 상생... - lcnews.co.kr",
-    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204979",
-    "description": "지난 2일과 14일 진행된 교육에는 250개 협력업체 관계자가 참석했으며, 건설산업기본법과 하도급법, 노무관리, 납품대금 연동제 등 현장에서 바로 활용할 수 있는 실무 교육이 진행됐다. DL건설은 매년 협력사 교육을...",
-    "published_at": "2026-07-15T13:30:00+09:00",
-    "cluster_id": "9deb",
-    "publisher": "lcnews.co.kr",
-    "title_clean": "[건설 Pick] 삼성물산·한화 건설부문·DL건설, 스마트 주거 혁신과 상생...",
-    "summary": "삼성물산, 한화건설, DL건설 등 대형 건설사들이 협력업체를 대상으로 법규 준수 및 현장 실무 교육을 실시했다. 250개 협력업체가 참석해 건설산업기본법, 하도급법, 노무관리 등을 학습하며 업계 상생과 내실 강화를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T13:35:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산진해경자청, 폭염 속 건설근로자 안전 챙긴다 - 중도일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVDQxaHZ1Sy1vMHp5VEhLX0pRZWttVU5Oeks4UU8td29sa1VfYUEyaDJtUUdKTVEwRk1XQnloZWlaTFNaRHRHV0p3empHeE1nVDVhckZJMHdLY1NmcGVaX0U0XzRva0pWa1cweQ?oc=5",
-    "description": "부산진해경제자유구역청이 여름철 폭염에 노출된 건설근로자의 온열질환 예방을 위해 관내 주요 건축공사장을 대상으로 집중 안전점검에 나선다. 부산진해경제자유구역청(청장 박성호)은 본격적..",
-    "published_at": "2026-07-15T13:15:21+09:00",
-    "cluster_id": "2775",
-    "publisher": "중도일보",
-    "title_clean": "부산진해경자청, 폭염 속 건설근로자 안전 챙긴다",
-    "summary": "부산진해경제자유구역청이 여름철 폭염으로 인한 건설근로자의 온열질환 예방을 위해 관내 건축공사장에 대한 집중 안전점검을 실시한다. 이는 건설근로자의 안전 보호를 위한 정부의 행정 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-15T13:29:47+09:00",
-    "importance": 4
   }
 ]
