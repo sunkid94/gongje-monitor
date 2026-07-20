@@ -22121,6 +22121,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "상습체불건설사업자 명단공표 절차 마련···매년 11월 말 명단 공개 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325428",
+    "description": "상습체불건설사업자 명단공표 제도의 세부 운영기준이 마련된다. 국토교통부는 명단공표 대상자 선정부터 소명 절차, 심의위원회 운영, 사후관리 등을 담은 상습체불건설사업자 명단공표 업무처리 지침 제정안을 21일 행정예고했다.이번 지침 제정안은 지난 6월 건설산업기본법 시행령 개정으로 상습체불건설사업자 명단공표에 필요한 사항을 국토부 장관이 정할 수 있도록 위임한 데 따른 후속조치다.제정안에 따르면 국토부는 건설산업종합정보망을 위탁·운영하는 건설산업정보원으로부터 체불 건설사업자의 기본사항과 행정처분 자료를 제출받아 명단공표 예정자를 추출한",
+    "published_at": "2026-07-21T08:08:20+09:00",
+    "cluster_id": "d19c",
+    "publisher": "대한전문건설신문",
+    "title_clean": "상습체불건설사업자 명단공표 절차 마련···매년 11월 말 명단 공개",
+    "summary": "국토교통부가 상습체불 건설사업자 명단공표 제도의 세부 운영기준을 마련하여 매년 11월 말 명단을 공개하기로 했다. 체불 기준, 소명 절차, 심의위원회 운영 등을 담은 업무처리 지침을 행정예고했으며, 이는 건설산업기본법 시행령 개정의 후속조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T08:10:11+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32184,21 +32200,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-15T15:45:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "가스공사 “중대재해 재발 없다”…신임 사장 임명 앞두고 ‘위험관리’ 강화 - 시사저널",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5idW1qNHlGeWYyaGE2WVhRT0VoMm80c1dUMnFUTjhWeTZOZms1d0g3TXYtXzljWFBnWktWMkJwcXRmSWhDRlRrNm9iaVY5X2VPNUVhQmMyWnVOUzNjVUd3V2JRc0gtTnZseVZaZkJsMNIBc0FVX3lxTE1TVlZmbU10MHhnSFFOVDdmRUczM2F3dU9yT1piRVh3S3preDlBU2wyc0d4NzdEbG9ZeHZBWXJQQ01hdmNLVG51bnRmNlkyZkx6U1JoV2lMMDNqQVppemFTd0pSQ1pRckxpNkllZnRndktlXzA?oc=5",
-    "description": "한국가스공사가 신임 사장으로 홍의락 전 더불어민주당 의원을 내정해 선임·임명 절차를 밟고 있는 가운데 지난해 공사 건설현장에서 발생한 중대재해 사망사고와 관련 개",
-    "published_at": "2026-07-15T15:35:00+09:00",
-    "cluster_id": "7192",
-    "publisher": "시사저널",
-    "title_clean": "가스공사 “중대재해 재발 없다”…신임 사장 임명 앞두고 ‘위험관리’ 강화",
-    "summary": "한국가스공사가 신임 사장 임명을 앞두고 지난해 건설현장 중대재해 사망사고에 대한 위험관리 강화 방침을 밝혔다. 공사는 중대재해 재발 방지를 위한 안전 개선 대책 추진을 예고했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-15T15:45:28+09:00",
-    "importance": 4
   }
 ]
