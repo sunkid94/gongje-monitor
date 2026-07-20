@@ -22019,6 +22019,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충북도의회 건설농림위원회, 도내 주요 사업 현장 점검···예산 집행 효율성 및 안전 강조 - 이뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TYnp5NTdGVkh0RVhoaVZqWEdxX3dqRVNWZXFGWm83dmxTcTM1U0t3T2pnaVc4SzJhTUFodUR6RnFsVXhMYWxLcTZhMDR6S1VnT2NIUzZPVnN0ZHJtZnRRUFZHMGhxZEREaTdIRVY3ckjSAXRBVV95cUxOazFpeVRjTmFQb1Q5R3c1WVVCZnBRSzJHdVNUZkhnaEoxbG1tODBnM1lURDJ6VTdxbEQ3VXBPWG9oeFhmazJOS0tHbU5wUmFGNE9DU2FLSHVNaThjUVlrb1BTbE1LR0VrRkFBTDktTnZZT25WYw?oc=5",
+    "description": "[이뉴스투데이 충북취재본부 김지혁 기자] 충북도의회 건설농림위원회가 20일 농소막, 조령산자연휴양림, 충북수산파크 등 도내 주요 사업 현장을 잇따라 방문하며 현장 중심의 의정 활동을 펼쳤다. 이번 점검은 도민의 세금이 투입된 인프라 구축 및 관광·휴양 사업의 예산 집행 적정성을 확인하",
+    "published_at": "2026-07-20T20:51:43+09:00",
+    "cluster_id": "4204",
+    "publisher": "이뉴스투데이",
+    "title_clean": "충북도의회 건설농림위원회, 도내 주요 사업 현장 점검···예산 집행 효율성 및 안전 강조",
+    "summary": "충북도의회 건설농림위원회가 농소막, 조령산자연휴양림, 충북수산파크 등 도내 주요 사업 현장을 점검하며 예산 집행 적정성과 안전을 확인했다. 도민 세금이 투입된 인프라 구축 및 관광·휴양 사업의 효율성 검증에 중점을 두었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T21:24:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32183,20 +32199,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T13:29:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "SH, 마곡16단지 건설현장 폭염 대응 점검…온열질환 모의훈련 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GU19INjlHX2VSdWxwcU5tNUQ0eFBlaGpsTHRrMmJabXJ5R2U2cTZmTjhhVUpTQzZNQ042LUV0Yi1FNXVRTDlGbmdob1JJWDhqcHMtNU5jN2pVc0xhaWNwRVEyd0VWSWQtbDl3M01JNzljMkxGY29tRw?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 황상하 사장이 스마트 안전 관리 시스템을 살펴보고 있다.(SH 제공) 뉴스1ⓒ news1 (서울=뉴스1) 김종윤 기자 = 서울주택도시개발공사(SH)는 지난 14일 황상하 사장이 마곡 16단지 건설 현장을 방문해 폭염 대비 안전 관리 실태를 점검했다고",
-    "cluster_id": "e58e",
-    "publisher": "네이트",
-    "title_clean": "SH, 마곡16단지 건설현장 폭염 대응 점검…온열질환 모의훈련",
-    "summary": "SH가 마곡 16단지 건설현장을 방문하여 폭염 대비 안전관리 실태를 점검하고 온열질환 모의훈련을 실시했다. 건설현장의 안전관리 체계 강화와 근로자 보호에 중점을 두고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T13:20:03+09:00",
-    "importance": 2
   }
 ]
