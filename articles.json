@@ -21948,6 +21948,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "주택관리사협회, 건물관리업 산업재해 예방 해법 제시…안전문화 확산 박차 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40875",
+    "description": "[건설이코노미뉴스] 대한주택관리사협회가 건물관리업의 산업재해 예방과 안전문화 정착을 위한 정책 개선 논의에 나섰다. 건물관리업 특성을 반영한 안전보건관리 체계 구축과 현장 중심의 재정 지원 확대 필요성이 제기된 가운데, 공동주택 관리현장의 우수 안전보건 사례를 공유하며 서비스업 맞춤형 안전관리 모델 확산에 힘을 모았다.대한주택관리사협회(회장 하원선)는 지난 9일 경기도 고양시 킨텍스 제2전시장에서 '서비스업 산업재해 예방 및 건물관리업 우수사례 공유 세미나'를 개최했다고 밝혔다.이번 세미나는 한국산업안전보건공단이 주관한 '2026",
+    "published_at": "2026-07-20T17:24:00+09:00",
+    "cluster_id": "4f6d",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "주택관리사협회, 건물관리업 산업재해 예방 해법 제시…안전문화 확산 박차",
+    "summary": "대한주택관리사협회가 건물관리업의 산업재해 예방을 위한 정책 개선과 안전문화 정착을 논의했다. 서비스업 맞춤형 안전관리 모델 확산과 현장 중심의 재정 지원 확대 필요성을 제기하며 우수 사례를 공유했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-20T17:26:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32174,20 +32190,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T11:34:29+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원, 신한울 3·4호기 안전 시민참관단 발대식…원전 건설 과정서 국민 목소리 청취 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSQkQ3WS0xSEQ3RkZfbWlZelJ2bHVFbU1LNTRMal9hbnotVTE1MkJkSjZ3ZkZLV2c1Uldna0Q2clBTWjdYc1VWbnUwamlBRmJLQnc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSQkQ3WS0xSEQ3RkZfbWlZelJ2bHVFbU1LNTRMal9hbnotVTE1MkJkSjZ3ZkZLV2c1Uldna0Q2clBTWjdYc1VWbnUwamlBRmJLQnc?oc=5\" target=\"_blank\">한수원, 신한울 3·4호기 안전 시민참관단 발대식…원전 건설 과정서 국민 목소리 청취</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제 마켓</font>",
-    "cluster_id": "231a",
-    "publisher": "매일경제 마켓",
-    "title_clean": "한수원, 신한울 3·4호기 안전 시민참관단 발대식…원전 건설 과정서 국민 목소리 청취",
-    "summary": "한수원이 신한울 3·4호기 건설 과정의 투명성과 신뢰성 강화를 위해 안전 시민참관단을 구성했다. 원전 건설 중 국민의 목소리를 청취하고 안전성을 확보하려는 공공 소통 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T11:34:29+09:00",
-    "importance": 2
   }
 ]
