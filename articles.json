@@ -6124,6 +6124,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[AI 경영] 코오롱글로벌, AI로 공사현장 인명사고 예방...AI 안전기술 10... - consumernews.co.kr",
+    "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=759490",
+    "description": "한편 건설 업계에는 AI 안전기술 도입이 확산되는 분위기다. 현대건설은 AI 폐쇄회로(CC) TV로 작업자와 건설장비, 연기와 불꽃을 감지하고 포스코이앤씨는 AI 드론으로 현장을 순찰한다. [소비자가만드는신문=]",
+    "published_at": "2026-07-21T06:10:00+09:00",
+    "cluster_id": "ef82",
+    "publisher": "consumernews.co.kr",
+    "title_clean": "[AI 경영] 코오롱글로벌, AI로 공사현장 인명사고 예방...AI 안전기술 10...",
+    "summary": "코오롱글로벌 등 건설사들이 AI 기술을 활용하여 공사현장 안전관리를 강화하고 있다. CCTV와 드론을 통한 AI 안전기술 도입이 건설업계에 확산되는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T06:13:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22071,20 +22087,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현대산업개발, 성남 태평3구역 재개발 수주···5852억 규모 - thetracker.co.kr",
-    "link": "https://thetracker.co.kr/View.aspx?No=4146544",
-    "description": "더트래커 강혜림 기­자 raak@thetracker.co.kr 더트래커 = 강혜림 기자IPARK현대산업개발이 약 5800억원 규모의 성남 태평3구역 공공 참여 재개발 정비사업의 시공사로 선정됐다. 13일 IPARK현대산업개발에 따르면...",
-    "published_at": "2026-07-13T11:08:00+09:00",
-    "cluster_id": "22e8",
-    "publisher": "thetracker.co.kr",
-    "title_clean": "IPARK현대산업개발, 성남 태평3구역 재개발 수주···5852억 규모",
-    "summary": "IPARK현대산업개발이 성남 태평3구역 공공 참여 재개발 정비사업의 시공사로 선정되어 약 5852억원 규모의 수주를 확보했다. 대형 재개발 사업 수주로 건설사의 수익성 개선과 기계설비건설공제조합의 공제 기반 확대에 긍정적인 영향을 미칠 것으로 예상된다.",
+    "title": "[AI 경영] 코오롱글로벌, AI로 공사현장 인명사고 예방...AI 안전기술 10건 이상 발굴, 현장 확대 - 소비자가 만드는 신문",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sdXg4VmViNW9seDQ5ak9pXzlJVVY4TU1kXzF0SVlMMmtwc2wycnU1QWxPbnlFY252TDhQZVhCSWNkSEt1ZUtPTGZMYk1waWV0cnFDZF9TZEZseExFU1Z4dG5hVDRVXzQxSnkwaTZjd29qQQ?oc=5",
+    "description": "중장비 주변으로 근로자가 접근하면 인공지능(AI)이 협착 위험을 감지한다. 건물 기초 공사용 파일을 지반에 박는 항타 작업에서는 관입 깊이를 AI가 자동으로 측정한다.코오롱글로벌(대표 김영범)은 건설 현장 곳곳에서 작업과 공정별 위험요인에 맞춘 AI 안전기술을 활용하고 있다.주요 건설사들이 AI 영상분석과 통합관제로 현장 전체를 살피는 데 집중한다면 코오롱글로벌은 작업별 사고 유형에 맞춰 다른 기술을 각각 적용한다.중장비 주변에는 AI 기반 인체인식 모니터링 시스템 ‘세이프아이’를 적용했다. AI가 카메라 영상에서 근로자를 장비와",
+    "published_at": "2026-07-21T06:10:00+09:00",
+    "cluster_id": "6a8c",
+    "publisher": "소비자가 만드는 신문",
+    "title_clean": "[AI 경영] 코오롱글로벌, AI로 공사현장 인명사고 예방...AI 안전기술 10건 이상 발굴, 현장 확대",
+    "summary": "코오롱글로벌이 건설 현장의 인명사고 예방을 위해 AI 안전기술 10건 이상을 발굴하여 현장에 확대 적용 중이다. 중장비 협착 위험 감지, 관입 깊이 자동 측정 등 작업별 특성에 맞춘 맞춤형 AI 기술로 안전성을 강화하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-13T11:18:40+09:00",
-    "importance": 5
+    "collected_at": "2026-07-21T06:13:56+09:00",
+    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
@@ -32181,21 +32197,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-15T15:05:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "상반기 산재사망 253명, 12%↓...통계 작성 후 최저 - womennews.co.kr",
-    "link": "https://www.womennews.co.kr/news/articleView.html?idxno=279934",
-    "description": "노동부는 건설경기 침체보다는 정부의 예방·감독과 현장에서의 안전 노력이 더해진 결과라고 설명했다. 기타 업종 산재사망자는 56명으로 1년 전보다 26명(31.7%) 감소했다. 제조업에서의 산재사망자는 작년...",
-    "published_at": "2026-07-15T14:55:00+09:00",
-    "cluster_id": "b79b",
-    "publisher": "womennews.co.kr",
-    "title_clean": "상반기 산재사망 253명, 12%↓...통계 작성 후 최저",
-    "summary": "올해 상반기 산재사망자가 253명으로 전년 대비 12% 감소하여 통계 작성 이후 최저치를 기록했다. 노동부는 정부의 안전 감독과 현장의 예방 노력이 주요 요인이라고 밝혔으며, 특히 기타 업종에서 31.7% 감소했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-15T15:00:03+09:00",
-    "importance": 4
   }
 ]
