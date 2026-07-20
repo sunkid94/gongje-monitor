@@ -6158,6 +6158,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[조명] 대러 제재의 명과 암 - monthly.chosun.com",
+    "link": "https://monthly.chosun.com/news/articleView.html?idxno=70785",
+    "description": "이어 \"삼성중공업은 제재로 계약이 중단된 쇄빙선 17척을 인도하지 못해 선수금 반환 분쟁을 벌이고 있고, 한화오션도 건조한 선박 3척을 납품하지 못했다. 대한항공도 러시아로부터 약 1800억원의 과징금을 부과받는 등...",
+    "published_at": "2026-07-21T07:22:00+09:00",
+    "cluster_id": "fdb9",
+    "publisher": "monthly.chosun.com",
+    "title_clean": "[조명] 대러 제재의 명과 암",
+    "summary": "대러 제재로 인해 삼성중공업, 한화오션 등 국내 조선·방위산업체들이 계약 중단, 선수금 반환 분쟁, 과징금 부과 등 심각한 피해를 입고 있다. 제재의 필요성은 있으나 국내 건설·기계설비 업계의 직접적인 경제적 손실이 가중되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T07:28:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22101,22 +22117,6 @@
     "title_clean": "‘색’으로 바꾼 산업현장…중대재해는 없다",
     "summary": "SK하이닉스, 삼성중공업, HD현대 등 주요 제조·건설·공공기관이 산업현장의 안전을 강화하기 위해 색상을 활용한 안전 시스템을 도입하고 있다. 이러한 안전 강화 움직임은 중대재해 예방을 목표로 하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-13T11:28:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[#부동산 나들이] DL '평택 고덕 A-70 민참사업 수주'·우면동 주민 '서리... - newsworks.co.kr",
-    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847007",
-    "description": "우면동 성당 신자들과 송동마을·식유촌 주민들이 LH 서울지역본부 앞에서 침묵시위를 진행했고 정원주 대우건설은 회장이 인도네시아 자카르타를 방문해 기가와트급 AI 데이터센터 구축과 신도시 개발 등 협력...",
-    "published_at": "2026-07-13T11:26:00+09:00",
-    "cluster_id": "b022",
-    "publisher": "newsworks.co.kr",
-    "title_clean": "[#부동산 나들이] DL '평택 고덕 A-70 민참사업 수주'·우면동 주민 '서리...",
-    "summary": "대우건설이 인도네시아 자카르타에서 AI 데이터센터 구축 및 신도시 개발 협력을 추진하는 한편, DL이 평택 고덕 A-70 민참사업을 수주했다. 한편 우면동 주민들이 LH를 상대로 침묵시위를 진행하며 부동산 관련 민원이 제기되고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-13T11:28:34+09:00",
     "importance": 2
   },
