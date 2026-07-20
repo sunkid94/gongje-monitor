@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "대한기계설비건설협회, 국립한밭대와 인재양성 협력...지원금 2000만 원... - dtnews24.com",
+    "link": "http://www.dtnews24.com/news/articleView.html?idxno=813382",
+    "description": "대한기계설비건설협회가 16일 국립한밭대학교를 방문해 기계설비 전문인력 양성 지원금 2000만 원을 전달했다. 기계설비협회 허용주 회장(왼쪽 다섯번째)과 국립한밭대학교 오용준 총장(왼쪽 네 번째) 등 전달식...",
+    "published_at": "2026-07-20T12:56:00+09:00",
+    "cluster_id": "7d7e",
+    "publisher": "dtnews24.com",
+    "title_clean": "대한기계설비건설협회, 국립한밭대와 인재양성 협력...지원금 2000만 원...",
+    "summary": "대한기계설비건설협회가 국립한밭대학교에 기계설비 전문인력 양성을 위해 2000만 원의 지원금을 전달했다. 업계와 학계의 협력을 통해 기계설비 분야의 전문인력 양성을 강화하는 취지의 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-20T12:58:26+09:00",
+    "event_label": "대한기계설비건설협회 국립한밭대학교에 인재양성 지원금 2000만 원 전달",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32101,22 +32118,6 @@
     "title_clean": "DL건설, 협력업체 임직원 대상 상호협력교육 진행",
     "summary": "DL건설이 협력업체 임직원을 대상으로 건설산업기본법, 하도급법, 노무관리 등 실무 교육을 실시하여 상생협력을 강화했다. 이러한 노력으로 국토교통부 주관 평가에서 인정받았다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-15T09:23:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "충남도, 폭염 대비 발주 공사 현장 28곳 안전 점검 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NT1RnTHNneGFpX19BbDlvVU55YTBlcHQ1SS1BbC1MNVlycS0zN01aS1ZJaE9TVEt2dE0tZXF4T2owMU1kZkFPQm1WUWVObFRhdFp5Wkt6elBxMlHSAWBBVV95cUxNNy1md3dQWWFMYWI2WEdpTG05TFo0MkxHNlM2RU5aclFSQzhJRWpyb1YzN0RLVjlfbUJWVWFjZlpFYUtFaXZTajJxck8xRzFIQ1lrTGpuanlwMmFWejg0SUc?oc=5",
-    "description": "(홍성=연합뉴스) 김준범 기자 = 충남도 건설본부는 오는 21일부터 다음 달 3일까지 도가 발주한 건설공사 현장 28곳을 대상으로 폭염 관련 안...",
-    "published_at": "2026-07-15T09:09:31+09:00",
-    "cluster_id": "b9ad",
-    "publisher": "연합뉴스",
-    "title_clean": "충남도, 폭염 대비 발주 공사 현장 28곳 안전 점검",
-    "summary": "충남도 건설본부가 21일부터 다음 달 3일까지 도 발주 건설공사 현장 28곳에 대해 폭염 대비 안전점검을 실시한다. 폭염으로 인한 안전사고 예방과 근로자 건강 보호에 중점을 두고 현장 점검을 진행할 계획이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-15T09:23:38+09:00",
     "importance": 2
   }
