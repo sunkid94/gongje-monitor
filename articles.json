@@ -22087,6 +22087,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "기본형건축비 0.77% 인상이 건설 현장과 인력단가에 미치는 파급 효과 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DYVZ6V1JjMjV1bHVsVEZKbFhhVUphY3U2ZUp4ZThEc21WajZhbUtKdGZtU3U4MXNlYkJVQTNXRlVrTF9VQzRvMXNjcnk?oc=5",
+    "description": "국토교통부의 2026년 7월 비정기 조정 배경과 수치 2026년 7월 15일, 국토교통부는 기본형 건축비를 비정기적으로 0.77% 인상한다고 발표했다. 고강도 철근 가격이 지난 3월 정기 고시 이후 18.6% 급등한 데 따른 조치다. 이번 결정의 실질적 의미는 단순한 단가 조정 이상이다. 고시일 이후 입주자 모집 승인 신청을 하는 아파트 단지부터 새 기준이",
+    "published_at": "2026-07-21T00:53:13+09:00",
+    "cluster_id": "beaa",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "기본형건축비 0.77% 인상이 건설 현장과 인력단가에 미치는 파급 효과",
+    "summary": "국토교통부가 고강도 철근 가격 급등(18.6%)에 따라 기본형건축비를 0.77% 인상하기로 결정했다. 2026년 7월 15일 고시 이후 입주자 모집 승인 신청하는 아파트부터 새 기준을 적용한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T00:59:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32184,21 +32200,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-15T14:10:24+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL건설, 협력업체 250곳 대상 법률·노무 실무교육 - beyondpost.co.kr",
-    "link": "http://www.beyondpost.co.kr/view.php?ud=202607151351537545205868f676_30",
-    "description": "건설산업기본법 실무와 하도급법 실무를 다뤘다. 건설현장 노무관리와 산업재해 예방, 납품대금 연동제도... 참석자들은 법 위반 사례와 노무관리 내용을 현장 업무에 활용할 수 있다는 반응을 보였다고 DL건설은...",
-    "published_at": "2026-07-15T14:00:00+09:00",
-    "cluster_id": "b62b",
-    "publisher": "beyondpost.co.kr",
-    "title_clean": "DL건설, 협력업체 250곳 대상 법률·노무 실무교육",
-    "summary": "DL건설이 협력업체 250곳을 대상으로 건설산업기본법, 하도급법 등 법률·노무 실무교육을 실시했다. 현장 노무관리, 산업재해 예방, 납품대금 연동제도 등을 다루며 참석자들의 긍정적 반응을 얻었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T14:10:24+09:00",
-    "importance": 3
   }
 ]
