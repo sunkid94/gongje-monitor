@@ -22087,6 +22087,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "탄천ㆍ한강변 차집관로 정비 6개 특정공법 채택 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201407068500701",
+    "description": "기술기업의 건설신기술 및 특허가 적용된다. 서울시는 최근 탄천ㆍ한강변 차집관로 정비사업 기본 및 실시설계 공법선정위원회를 열고 프리캐스트 콘크리트 암거, 자립식 흙막이 가시설, 차수성 흙막이 가시설 등...",
+    "published_at": "2026-07-21T04:20:00+09:00",
+    "cluster_id": "91c6",
+    "publisher": "대한경제",
+    "title_clean": "탄천ㆍ한강변 차집관로 정비 6개 특정공법 채택",
+    "summary": "서울시가 탄천·한강변 차집관로 정비사업에 프리캐스트 콘크리트 암거, 자립식 흙막이 등 6개 특정공법을 채택했다. 건설신기술과 특허 기술이 적용되어 기술기업들의 수주 기회가 증가할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T04:29:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32182,21 +32198,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-15T14:45:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "올해 상반기 산재 사망 노동자 253명 역대 최저치…제조업은 37%↑ - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026071514192668234",
-    "description": "노동부는 건설경기 침체보다는 정부의 예방·감독과 현장에서의 안전 노력이 합해진 결과라고 설명했다. 그러나 제조업 산재사망자는 지난해 상반기 67명에서 올해 상반기 92명으로 25명(37.3%) 늘었다. 지난 3월 대전...",
-    "published_at": "2026-07-15T14:19:00+09:00",
-    "cluster_id": "5a1e",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "올해 상반기 산재 사망 노동자 253명 역대 최저치…제조업은 37%↑",
-    "summary": "올해 상반기 산재 사망 노동자가 253명으로 역대 최저치를 기록했으나, 제조업 산재 사망자는 전년 동기 대비 37.3% 증가한 92명으로 악화되었다. 정부는 예방·감독 강화의 성과로 평가하지만 제조업 안전 문제가 심각해지고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-15T14:30:23+09:00",
-    "importance": 4
   }
 ]
