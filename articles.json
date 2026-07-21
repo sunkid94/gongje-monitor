@@ -22359,6 +22359,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "AI DC 건설산업 활성화 포럼, 현장 의견 청취 - 칸 kharn",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSOXVoNVkxRTJJYWoyM0JqTHFIRjU5RTFPV1QzUy1RelZuYnEwS1p2RUhyMlc1ZkdJNlo3anJUaEd0dW5mY3g4ZmhxcTFyZzRwQjZnNHhGT2lQTEU?oc=5",
+    "description": "국토교통부와 대한기계설비산업연구원은 7월21일 세종특별자치시 소재 네이버 데이터센터 ‘각 세종’를 방문해 ‘AI 시대 데이터센터 건설산업 활성화 포럼’간담회를 개최했다고 밝혔다. 이번 현장 방문은 지난 7월8일 산·학·연·관 65개 기관, 120여명의 전문가가 참여해 출범한 AI 데이터센터 건설산업 활성화 포럼의 첫 현장 프로그램이다. 탁상행정을 지양하고",
+    "cluster_id": "bcc6",
+    "publisher": "칸 kharn",
+    "title_clean": "AI DC 건설산업 활성화 포럼, 현장 의견 청취",
+    "summary": "국토교통부와 대한기계설비산업연구원이 AI 데이터센터 건설산업 활성화 포럼을 출범하고 세종의 네이버 데이터센터를 현장 방문했다. 산·학·연·관 120여 명의 전문가가 참여해 AI 시대 데이터센터 건설산업 활성화 방안을 논의하는 첫 현장 프로그램을 진행했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-22T01:00:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32228,22 +32243,6 @@
     "title_clean": "남부발전, 안동빛드림본부 현장 안전점검 시행",
     "summary": "한국남부발전이 안동빛드림본부 2호기 건설현장에 대한 안전점검을 시행했다. 기술안전부사장이 직접 현장을 방문하여 공사 추진 현황과 안전관리 실태를 점검했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-16T16:34:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건국대 대학일자리플러스사업단 '스마트건설기술교육' 운영.. 5일간 35시간 실무교육 '101명 수료' - 베리타스알파",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04Ql9WOWc4aDBuQThuS2VJbngxRW9TUXZScWRfTE1RU3JidjZPdVo4cDZjR283YmdRSm1MTUlhZFZYalZsWDA2cHFlcEhIUkJweHVQNDVESWphTzZtX1RtcGxjRjdtWnI5YUtzQg?oc=5",
-    "description": "[베리타스알파=김하연 기자] 건국대 대학일자리플러스사업단은 한국건설기술인협회와 함께 지난달 29일부터 이달 3일까지 재학생과 졸업생, 지역청년을 대상으로",
-    "published_at": "2026-07-16T16:02:29+09:00",
-    "cluster_id": "7579",
-    "publisher": "베리타스알파",
-    "title_clean": "건국대 대학일자리플러스사업단 '스마트건설기술교육' 운영.. 5일간 35시간 실무교육 '101명 수료'",
-    "summary": "건국대 대학일자리플러스사업단이 한국건설기술인협회와 함께 '스마트건설기술교육'을 운영하여 재학생, 졸업생, 지역청년 101명이 5일간 35시간의 실무교육을 수료했다. 건설업계 인력 양성 및 기술 교육을 통한 산업 인프라 강화 사업으로 평가된다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-16T16:34:49+09:00",
     "importance": 2
   }
