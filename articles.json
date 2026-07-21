@@ -22223,6 +22223,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[국회25시]서영석 의원 , 소규모주택정비사업 소음규제 완화 특례법 발의 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40885",
+    "description": "[건설이코노미뉴스]국회 보건복지위원회 서영석 의원( 더불어민주당 , 부천시 갑 ) 은 지난 16 일 , 가로주택정비사업 등 소규모주택정비사업의 건축규제 완화 특례에 소음방지대책 수립기준을 추가하는 내용의 '빈집 및 소규모주택 정비에 관한 특례법 일부개정법률안' (이하 개정안 )을 대표 발의한다고 21일 밝혔다 .서 의원에 따르면 가로주택정비사업은 노후 · 저층 주거지가 밀집한 좁은 블록 단위로 추진되는 대표적인 소규모주택정비사업으로 , 정비구역 면적이 작고 사업구역이 협소한 것이 특징이다 . 현행법상 소규모주택정비사업 시행자는 입주",
+    "published_at": "2026-07-21T15:10:00+09:00",
+    "cluster_id": "b429",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[국회25시]서영석 의원 , 소규모주택정비사업 소음규제 완화 특례법 발의",
+    "summary": "서영석 의원이 소규모주택정비사업의 건축규제 완화를 위해 소음방지대책 수립기준을 추가하는 특례법을 발의했다. 가로주택정비사업 등 노후 저층 주거지 정비사업의 규제를 합리화하려는 내용이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T15:12:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32206,20 +32222,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-16T09:42:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산동래교육지원청, 건설현장 합동 안전점검 나서 - 누리일보",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOQWtzQ0JWM3NqUnl4YXNQTVdrU0tpWldkcGxfam51XzNCZlh6VE9Rd1lEbDBlVEpkaFVRSTNIQXAyM0t0M3Nob2w0dkxJLWR5Z3ZLN1RBeU9rYXc3?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOQWtzQ0JWM3NqUnl4YXNQTVdrU0tpWldkcGxfam51XzNCZlh6VE9Rd1lEbDBlVEpkaFVRSTNIQXAyM0t0M3Nob2w0dkxJLWR5Z3ZLN1RBeU9rYXc3?oc=5\" target=\"_blank\">부산동래교육지원청, 건설현장 합동 안전점검 나서</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">누리일보</font>",
-    "cluster_id": "9d3a",
-    "publisher": "누리일보",
-    "title_clean": "부산동래교육지원청, 건설현장 합동 안전점검 나서",
-    "summary": "부산동래교육지원청이 건설현장에 대한 합동 안전점검을 실시했습니다. 이는 건설현장의 안전 관리를 강화하려는 행정 조치입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T09:42:06+09:00",
-    "importance": 4
   }
 ]
