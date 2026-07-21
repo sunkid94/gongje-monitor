@@ -6158,6 +6158,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성전자, '대표 직속' 로봇 조직 띄운다…로보틱스 사업 추진 본격화 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202607210906594074",
+    "description": "삼성전자 외에도 삼성디스플레이, 삼성전기, 삼성SDI, 삼성중공업, 삼성E&A 등 계열사가 디스플레이, 전자부품, 배터리, 조선·플랜트에 이르는 서로 다른 제조 현장을 두루 두고 있어 특정 공정에 최적화된 로봇을 넘어...",
+    "published_at": "2026-07-21T10:01:00+09:00",
+    "cluster_id": "7df3",
+    "publisher": "fnnews.com",
+    "title_clean": "삼성전자, '대표 직속' 로봇 조직 띄운다…로보틱스 사업 추진 본격화",
+    "summary": "삼성전자가 로봇 사업 추진을 위해 대표 직속 조직을 신설하고, 계열사의 다양한 제조 현장에 특화된 로봇 개발을 추진 중이다. 디스플레이, 배터리, 조선·플랜트 등 여러 산업 분야의 자동화 수요 증가로 기계설비 납입 기회가 확대될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T10:04:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22103,22 +22119,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-13T11:58:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "태평3구역 시공자로 IPARK현대산업개발·코오롱글로벌 컨소시엄 선정 - housingherald.co.kr",
-    "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=62282",
-    "description": "성남 공공참여 재개발 태평3구역의 시공자 선정을 위한 주민총회에서 IPARK현대산업개발·코오롱글로벌 컨소시엄(현산·코오롱사업단)이 시공자로 선정됐다. 한국토지주택공사(LH)는 '성남 태평3구역 공공참여 재개발...",
-    "published_at": "2026-07-13T11:48:00+09:00",
-    "cluster_id": "c363",
-    "publisher": "housingherald.co.kr",
-    "title_clean": "태평3구역 시공자로 IPARK현대산업개발·코오롱글로벌 컨소시엄 선정",
-    "summary": "성남 태평3구역 공공참여 재개발 사업의 시공자로 IPARK현대산업개발과 코오롱글로벌의 컨소시엄이 선정됐다. 주민총회를 통해 확정된 이번 선정은 건설사에 새로운 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T11:58:57+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
