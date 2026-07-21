@@ -6209,6 +6209,21 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[아유경제_재개발] 3207가구 규모 상도15구역 재개발, 대우건설 시공자 지위 확보 - 아유경제",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51SDhORmcyMW96SnpoY1ZObUpDNHZZV0xCUlladF9jNnlXOUw2clhieEVjYTBkSDBLdHd4Z1dYRWhaU19Bc0JLT0ItWmdEZ3h6VVJaTXp0VHAxem9fWkh6aV9KemF4bGg0?oc=5",
+    "description": "[아유경제=조명의 기자] 대우건설이 서울 동작구 최대 규모인 상도15구역 주택정비형 재개발사업을 수주했다.업계 소식통 등에 따르면 상도15구역 ...",
+    "cluster_id": "f8bd",
+    "publisher": "아유경제",
+    "title_clean": "[아유경제_재개발] 3207가구 규모 상도15구역 재개발, 대우건설 시공자 지위 확보",
+    "summary": "대우건설이 서울 동작구 상도15구역 주택정비형 재개발사업을 수주하며 3207가구 규모의 대형 프로젝트 시공자 지위를 확보했다. 이는 건설업계의 주요 수주 실적으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T12:44:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22153,22 +22168,6 @@
     "summary": "경북개발공사가 도청신도시에 10년 만에 공공임대주택을 추진하며, 금호건설 컨소시엄이 726세대 규모의 대형 신축 단지를 시공한다. 신도시 내 최고층 단지로 건설 수주 확대를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-13T13:49:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "국립한국해양대, 해양기술 40건 공개·스타트업 10곳 투자연계 - inthenews.co.kr",
-    "link": "https://www.inthenews.co.kr/news/article.html?no=89249",
-    "description": "부산항만공사, 삼성중공업, HD현대중공업, 한화오션이 공동으로 진행했습니다. 해양클러스터 기술이전 설명회는 2017년부터 매년 상반기와 하반기에 열리는 해양 분야 기술사업화 행사입니다. 대학과 연구기관이 보유한...",
-    "published_at": "2026-07-13T13:38:00+09:00",
-    "cluster_id": "d999",
-    "publisher": "inthenews.co.kr",
-    "title_clean": "국립한국해양대, 해양기술 40건 공개·스타트업 10곳 투자연계",
-    "summary": "국립한국해양대가 해양기술 40건을 공개하고 스타트업 10곳에 투자를 연계하는 기술이전 설명회를 개최했습니다. 부산항만공사, 삼성중공업, HD현대중공업, 한화오션 등 주요 해양산업 기업들이 공동으로 참여하여 대학과 연구기관의 기술을 사업화하는 플랫폼을 제공합니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T13:44:05+09:00",
     "importance": 2
   },
   {
