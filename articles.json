@@ -6327,6 +6327,22 @@
     "event_label": "N/A"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성, 대표직속 로봇조직 신설…글로벌 휴머노이드 경쟁 가세 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202607211822379494",
+    "description": "삼성전자 이외에도 삼성디스플레이, 삼성전기, 삼성SDI, 삼성중공업, 삼성E&A 등 계열사가 디스플레이, 전자부품, 배터리, 조선·플랜트에 이르는 서로 다른 제조 현장을 두루 가지고 있어 제조 로봇 데이터의 보고라는...",
+    "published_at": "2026-07-21T18:24:00+09:00",
+    "cluster_id": "8e8e",
+    "publisher": "fnnews.com",
+    "title_clean": "삼성, 대표직속 로봇조직 신설…글로벌 휴머노이드 경쟁 가세",
+    "summary": "삼samsung 전자가 대표직속 로봇조직을 신설하며 휴머노이드 로봇 사업에 진출합니다. 삼성 계열사들의 다양한 제조 현장 데이터를 활용해 제조 로봇 분야에서 경쟁력을 강화하려는 전략입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T18:30:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22275,19 +22291,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "국립한국해양대 산학협력단, ‘해양클러스터 기술이전 설명회’ 성료 - busan.com",
-    "link": "https://www.busan.com/view/busan/view.php?code=2026071315151540731",
-    "description": "부산항만공사, 삼성중공업㈜, HD현대중공업㈜, 한화오션㈜과 공동으로 진행했다. ‘해양클러스터 기술이전 설명회’는 2017년부터 매년 상·하반기 개최되고 있는 해양 분야 대표 기술사업화 행사로 올해 상반기...",
-    "published_at": "2026-07-13T15:16:00+09:00",
-    "cluster_id": "472f",
-    "publisher": "busan.com",
-    "title_clean": "국립한국해양대 산학협력단, ‘해양클러스터 기술이전 설명회’ 성료",
-    "summary": "국립한국해양대 산학협력단이 부산항만공사, 삼성중공업, HD현대중공업, 한화오션과 공동으로 '해양클러스터 기술이전 설명회'를 개최했다. 2017년부터 매년 상·하반기 개최되는 해양 분야 기술사업화 행사로, 해양산업의 기술이전과 산학협력을 촉진하고 있다.",
+    "title": "건협 충북도회, 옥천군과 지역건설산업 활성화 간담회 개최 - ccdailynews.com",
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2429333",
+    "description": "주요 건의사항은 △지역경제 성장을 위한 사회간접자본(SOC) 예산 확대 △지역 중소건설업체 수주물량 확보 지원 △건설현장 안전 확보를 위한 적정 공사비와 공사기간 반영 △장기계속공사 간접비 분쟁 방지를 위한...",
+    "published_at": "2026-07-21T18:18:00+09:00",
+    "cluster_id": "45e1",
+    "publisher": "ccdailynews.com",
+    "title_clean": "건협 충북도회, 옥천군과 지역건설산업 활성화 간담회 개최",
+    "summary": "건협 충북도회가 옥천군과 지역건설산업 활성화를 위한 간담회를 개최했다. SOC 예산 확대, 중소건설업체 수주 지원, 적정 공사비·공사기간 반영, 장기계속공사 간접비 분쟁 방지 등을 주요 건의사항으로 제시했다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-13T15:20:26+09:00",
+    "collected_at": "2026-07-21T18:30:03+09:00",
     "importance": 2
   },
   {
@@ -32231,21 +32247,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-16T14:56:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "광주반도체산단·행정수도 조성 등 국토균형발전 속도…코레일-에스알... - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260716000018",
-    "description": "지방 노후·취약시설물 정비 추진 및 해체공사 전주기 안전관리 제도 점검·개선방안 마련해 건설현장 안전을 강화한다. 이와 함께 '발주자 직접지급제' 의무화, 국토부 직권처분 도입, 페이퍼컴퍼니 근절 등을 통해...",
-    "published_at": "2026-07-16T14:45:00+09:00",
-    "cluster_id": "07b9",
-    "publisher": "newspim.com",
-    "title_clean": "광주반도체산단·행정수도 조성 등 국토균형발전 속도…코레일-에스알...",
-    "summary": "정부가 광주반도체산단, 행정수도 조성 등 국토균형발전 사업을 추진하면서 지방 노후시설 정비와 건설현장 안전관리를 강화한다. 동시에 발주자 직접지급제 의무화, 국토부 직권처분, 페이퍼컴퍼니 근절 등 건설업 규제를 강화하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T14:56:10+09:00",
-    "importance": 4
   }
 ]
