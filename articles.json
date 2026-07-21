@@ -6158,6 +6158,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부천시, 민간 시공사와 '신뉴딜정책 경제활력 협약' 체결 - obsnews.co.kr",
+    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1531307",
+    "description": "부천시가 지역업체와 지역 인력의 건설공사 참여를 확대하기 위해 롯데건설 등 7개 시공사와 '부천형 신뉴딜정책 경제활력' 업무협약을 체결했습니다. 협약에 따라 시공사들은 공사에 필요한 자재와 장비를 지역업체에서...",
+    "published_at": "2026-07-21T09:24:00+09:00",
+    "cluster_id": "6e51",
+    "publisher": "obsnews.co.kr",
+    "title_clean": "부천시, 민간 시공사와 '신뉴딜정책 경제활력 협약' 체결",
+    "summary": "부천시가 롯데건설 등 7개 시공사와 '신뉴딜정책 경제활력' 협약을 체결하여 지역업체와 지역 인력의 건설공사 참여 확대를 추진합니다. 협약에 따라 시공사들은 자재·장비 구매 및 인력 고용을 지역에서 우선적으로 진행하기로 약속했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T09:29:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -22105,20 +22121,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현대산업개발, 성남 태평3구역 시공권 확보…5852억원 규모 - tfmedia.co.kr",
-    "link": "https://www.tfmedia.co.kr/news/article.html?no=205735",
-    "description": "LH 시행 공공재개발 사업…약 2480가구 조성 예정 코오롱글로벌과 컨소…올해 도시정비사업 첫 수주  IPARK현대산업개발이 5852억원 규모의 성남 태평3구역 공공참여 재개발 정비사업 시공권을 확보했다. 올해...",
-    "published_at": "2026-07-13T11:40:00+09:00",
-    "cluster_id": "6643",
-    "publisher": "tfmedia.co.kr",
-    "title_clean": "IPARK현대산업개발, 성남 태평3구역 시공권 확보…5852억원 규모",
-    "summary": "IPARK현대산업개발이 코오롱글로벌과 컨소시엄으로 성남 태평3구역 공공재개발 사업의 시공권을 확보했으며, 5852억원 규모로 약 2480가구를 조성할 예정이다. 이는 올해 도시정비사업 첫 수주로 건설사의 수주 실적 증대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T11:48:47+09:00",
-    "importance": 3
+    "title": "울릉군, 국토안전관리원과 건설현장·노후시설 합동 안전점검 - tournews21.com",
+    "link": "https://www.tournews21.com/news/articleView.html?idxno=138993",
+    "description": "울릉군이 국토안전관리원과 손잡고 관내 주요 건설현장과 노후 기반시설에 대한 합동 안전점검과 기술컨설팅을 실시하며 건설현장 안전관리 강화에 나섰다. 울릉군은 지난 14일부터 15일까지 국토안전관리원...",
+    "published_at": "2026-07-21T09:26:00+09:00",
+    "cluster_id": "be6f",
+    "publisher": "tournews21.com",
+    "title_clean": "울릉군, 국토안전관리원과 건설현장·노후시설 합동 안전점검",
+    "summary": "울릉군이 국토안전관리원과 협력하여 관내 건설현장과 노후 기반시설에 대한 합동 안전점검 및 기술컨설팅을 실시 중이다. 이는 건설현장의 안전관리 강화를 위한 정부의 감시 및 규제 활동이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T09:29:07+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32182,22 +32198,6 @@
     "title_clean": "삼성물산, HJ重과 스마트 주거 서비스 확대 [건설·분양오늘]",
     "summary": "삼성물산이 HJ重과 스마트 주거 서비스 확대를 추진 중이며, 건설산업기본법·하도급법 실무 등 건설 관련 교육 프로그램을 운영하고 있다. 감정평가 기준으로 법 취지 충실과 상호 신뢰 원칙을 제시하고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-15T15:50:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[오늘의 건설브리핑] 스마트홈부터 용접로봇까지···건설·에너지업계... - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=148641",
-    "description": "DL건설은 250개 협력업체를 대상으로 건설산업기본법, 하도급법, 노무관리, 납품대금 연동제 등을 중심으로 실무 교육을 실시했다. 협력사의 경쟁력 강화를 지원하는 상생 프로그램으로, 회사는 국토교통부...",
-    "published_at": "2026-07-15T15:44:00+09:00",
-    "cluster_id": "a7a3",
-    "publisher": "smartbizn.com",
-    "title_clean": "[오늘의 건설브리핑] 스마트홈부터 용접로봇까지···건설·에너지업계...",
-    "summary": "DL건설이 250개 협력업체를 대상으로 건설산업기본법, 하도급법, 노무관리 등 실무 교육을 실시하는 상생 프로그램을 추진했다. 협력사의 경쟁력 강화 지원을 통해 건설산업 생태계 개선을 도모하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-15T15:50:43+09:00",
     "importance": 2
   }
