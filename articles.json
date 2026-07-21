@@ -22223,6 +22223,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "GTX-A 삼성역 개통 또 늦어진다…정부 안전점검 11월까지 확대 - 한국금융신문",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfV0cyYXlYcWdvMkluem1yR2F1SE80dmk1ZHVxaDdCbXJpcVJsODFSWmJZZlFpdlh2bTFNdDJ6dGoxSEZSc3RPczZBZ0wwenZaMlhPdDRIb2x1MVp3aEVVc2JFamNobWU2ZDNkYVIyRDFYNEdBRV9PaWVheHc?oc=5",
+    "description": "국토교통부와 행정안전부가 GTX-A 삼성역 시공오류 구간에 대한 정부 합동 안전점검을 11월까지 연장하기로 하면서 삼성역의 연내 개통이 사실상 어려워졌다. 안전성 검증 이후 보강공사와 열차 시험운행을 포함한 종합시운전 등 후속 절차가 남아 있어 GTX-A 전 구간 완전 개통도 당초 계획",
+    "published_at": "2026-07-21T19:25:45+09:00",
+    "cluster_id": "35f9",
+    "publisher": "한국금융신문",
+    "title_clean": "GTX-A 삼성역 개통 또 늦어진다…정부 안전점검 11월까지 확대",
+    "summary": "GTX-A 삼성역 시공오류로 인해 정부 합동 안전점검이 11월까지 연장되면서 연내 개통이 사실상 불가능해졌다. 안전성 검증 후 보강공사, 시험운행 등 후속 절차가 남아있어 전 구간 완전 개통 일정도 차질이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T07:34:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32219,22 +32235,6 @@
     "summary": "수원군공항 이전 및 경기통합국제공항 건설을 촉구하는 시민협의회가 사회적경제 박람회에서 10만 서명운동을 진행하며 공감대 형성 중. 해당 공항 건설 프로젝트는 대규모 건설 수주 기회로 건설업계에 긍정적 영향 예상.",
     "sentiment": "positive",
     "collected_at": "2026-07-16T16:44:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "3년6개월 만 긴축 돌입…'3고'에 서민경제 시름 - newstomato.com",
-    "link": "http://www.newstomato.com/ReadNews.aspx?no=1307418&inflow=N",
-    "description": "특히 지난해에는 비상계엄 사태에 따른 정치 불확실성과 국내 건설경기 악화, 미국 상호관세 충격 등의 악재가 겹치면서 통화 완화가 불가피한 상황이었습니다. 기준금리 인상 배경에는 물가 상승이 자리잡고...",
-    "published_at": "2026-07-16T16:36:00+09:00",
-    "cluster_id": "dc77",
-    "publisher": "newstomato.com",
-    "title_clean": "3년6개월 만 긴축 돌입…'3고'에 서민경제 시름",
-    "summary": "한국은행이 3년 6개월 만에 기준금리를 인상하며 긴축에 돌입했다. 건설경기 악화와 고금리, 고환율, 고유가 등 '3고'로 인해 서민경제와 건설업계가 어려움을 겪고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T16:39:47+09:00",
     "importance": 2
   }
 ]
