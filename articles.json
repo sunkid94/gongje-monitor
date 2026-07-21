@@ -22261,6 +22261,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "한국은행 \"충남 건설경기 부진…낮은 역내 수주율 등 개선해야\" - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20260721148900063?input=1195m",
+    "description": "'충남지역 건설경기 부진 배경 및 시사점' 보고서 발표 침체한 충남 지역 건설경기 부양을 위해서는 역내 수주율 제고 등 건설업 구조 개선을 위한 노력이 필요하다는 제언이 나왔다. 21일 한국은행 대전세종충남본부...",
+    "published_at": "2026-07-21T17:00:00+09:00",
+    "cluster_id": "cb51",
+    "publisher": "yna.co.kr",
+    "title_clean": "한국은행 \"충남 건설경기 부진…낮은 역내 수주율 등 개선해야\"",
+    "summary": "한국은행이 충남 지역의 침체된 건설경기 부양을 위해 역내 수주율 제고 등 건설업 구조 개선을 촉구했다. 현지 건설경기 부진의 배경과 개선 방안을 담은 보고서를 발표했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T17:05:14+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "LH, 민간참여 공공주택 금융지원 확대 … PF 보증 강화로 자금 부담 덜고... - queen.co.kr",
     "link": "http://www.queen.co.kr/news/articleView.html?idxno=460587",
     "description": "최근 건설경기 침체와 PF 시장 위축으로 민간 건설사들의 자금 조달이 어려워지면서 공공주택사업 참여를 꺼리는 사례가 늘어난 점도 이번 제도 개선의 배경으로 꼽힌다. 설명회는 '공공주택 신속 공급을 위한 패러다임...",
@@ -32230,21 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T12:44:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재개발] 916가구 용호4구역 재개발, 최근 시공자 입찰공고 '개... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94524",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제2조제7호에 의한 건설업자 또는 「주택법」 제7조제1항에 따라 건설업자로 보는 등록사업자 입찰보증금 100억 원 중 현금...",
-    "published_at": "2026-07-16T12:34:00+09:00",
-    "cluster_id": "5b42",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재개발] 916가구 용호4구역 재개발, 최근 시공자 입찰공고 '개...",
-    "summary": "916가구 규모의 용호4구역 재개발 사업이 시공자 입찰공고를 진행 중이며, 일반경쟁입찰 방식으로 진행된다. 입찰보증금 100억 원이 요구되는 대규모 건설 수주 기회이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T12:40:08+09:00",
-    "importance": 2
   }
 ]
