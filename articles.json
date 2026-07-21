@@ -6394,6 +6394,22 @@
     "event_label": "N/A"
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "성수전략정비구역 시공사 윤곽 드러나 - chosun.com",
+    "link": "https://www.chosun.com/economy/realty/2026/07/22/YK466VRYGVETFJEWR34Z3D7YPY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "이 자리에는 DL이앤씨와 IPARK현대산업개발이 참석했다. 성수2지구는 당초 DL이앤씨의 단독 입찰 가능성이 점쳐졌지만 IPARK현산이 막판에 참여하면서 입찰 경쟁이 2파전 구도로 진행될 전망이다. 업계 관계자는...",
+    "published_at": "2026-07-22T00:38:00+09:00",
+    "cluster_id": "6d70",
+    "publisher": "chosun.com",
+    "title_clean": "성수전략정비구역 시공사 윤곽 드러나",
+    "summary": "성수2지구 시공사 선정을 놓고 DL이앤씨와 IPARK현대산업개발이 경쟁 입찰에 나선다. 당초 단독 입찰 예상과 달리 2파전 구도로 진행되면서 건설사들의 수주 경쟁이 본격화되는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-22T00:50:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22343,18 +22359,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[도시정비시장 풍향계] 성남 태평3구역 재개발…IPARK현산ㆍ코오롱이 맡는다 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlc0VCeVk4RlhITU01VlItVTZMaURaTzlael81ZVVFSnlRRDkxbm9IUnJzT2NBVE9zbzVEY1FuWnM5Q0w5cGZmZ2JkVTJyanUxN2M5RW11czFjMWQ2OGFtTmNEakJMaVFmU0FwWE92ODZXNXBt?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBlc0VCeVk4RlhITU01VlItVTZMaURaTzlael81ZVVFSnlRRDkxbm9IUnJzT2NBVE9zbzVEY1FuWnM5Q0w5cGZmZ2JkVTJyanUxN2M5RW11czFjMWQ2OGFtTmNEakJMaVFmU0FwWE92ODZXNXBt?oc=5\" target=\"_blank\">[도시정비시장 풍향계] 성남 태평3구역 재개발…IPARK현산ㆍ코오롱이 맡는다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "3bc2",
-    "publisher": "대한경제",
-    "title_clean": "[도시정비시장 풍향계] 성남 태평3구역 재개발…IPARK현산ㆍ코오롱이 맡는다",
-    "summary": "성남 태평3구역 재개발 사업에 IPARK현산과 코오롱이 시공사로 선정되었다. 이는 건설업계의 수주 기회 증가와 도시정비 시장 활성화를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T15:54:30+09:00",
+    "title": "장성군, 여름철 자연재난 대비 건설 현장 안전점검 - 진일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTM3puNFphcjd0UDlHZXh0R2hwcUxFR1psSWpwSFdJSFNPOWpjUFNLOHhjVHZUWG1raWxCU1VKSW9FMEdOUVI0enY5X1FZWkFvU2Q5YlhBSkV6VElXR1dFY1ZMZXh3Sk8wN045eEp5Yw?oc=5",
+    "description": "전남광주통합특별시 장성군은 여름철 자연재난으로 인한 안전사고 예방을 위해 지역 내 건설사업장 22곳을 대상으로 안전점검을 실시한다고 22일 밝혔다.장성군은 담당",
+    "published_at": "2026-07-22T00:00:00+09:00",
+    "cluster_id": "4f26",
+    "publisher": "진일보",
+    "title_clean": "장성군, 여름철 자연재난 대비 건설 현장 안전점검",
+    "summary": "전남 장성군이 여름철 자연재난에 대비하여 지역 내 건설사업장 22곳에 대한 안전점검을 실시한다고 발표했다. 안전사고 예방을 위한 정기적인 점검으로 건설현장의 안전 관리 강화를 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-22T00:50:24+09:00",
     "importance": 2
   },
   {
@@ -32228,22 +32245,6 @@
     "summary": "건국대 대학일자리플러스사업단이 한국건설기술인협회와 함께 '스마트건설기술교육'을 운영하여 재학생, 졸업생, 지역청년 101명이 5일간 35시간의 실무교육을 수료했다. 건설업계 인력 양성 및 기술 교육을 통한 산업 인프라 강화 사업으로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-07-16T16:34:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "KISA-한국수자원공사, AI CCTV로 댐·수도 건설 현장 안전 관리 강화 - 테크월드",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PaVFodTRNWWdTclFwU3FzbnFJVTE1dWh5TjRBMG44czNyazVWdDd3S2FsS0xIclBQNVVsX2hwcU5jbnZRUG56bTZZd0JTMDVMRHlPQ2ZMbmU4SWgzSGpMejc0OVNaaXRz?oc=5",
-    "description": "[테크월드=김혜진 기자] 한국인터넷진흥원(KISA)이 한국수자원공사와 댐·수도 건설 현장의 안전사고 예방에 나섰다.KISA와 한국수자원공사는 16일 한국수자원공사",
-    "published_at": "2026-07-16T16:06:34+09:00",
-    "cluster_id": "446c",
-    "publisher": "테크월드",
-    "title_clean": "KISA-한국수자원공사, AI CCTV로 댐·수도 건설 현장 안전 관리 강화",
-    "summary": "KISA와 한국수자원공사가 AI CCTV 기술을 활용하여 댐·수도 건설 현장의 안전사고 예방에 협력한다. 이는 건설 현장의 안전 관리 강화를 통해 사고 위험을 줄이는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T16:24:42+09:00",
     "importance": 2
   }
 ]
