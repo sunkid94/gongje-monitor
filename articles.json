@@ -22291,6 +22291,37 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "동서대 앵커사업단, 산학협력 확대… AI콘텐츠 등 인재 육성 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202607211824066764",
+    "description": "정부의 산업AI 전환 정책에 맞춰 산업현장에서 요구하는 실무형AI 인재를 양성하기 위해 온·오프라인 교육과정을 운영하고 있으며, XR 콘텐츠, 디지털트윈, 스마트건설, 디자인AI 등 다양한 분야의 교육을 부산시 7대...",
+    "published_at": "2026-07-21T18:26:00+09:00",
+    "cluster_id": "49e1",
+    "publisher": "fnnews.com",
+    "title_clean": "동서대 앵커사업단, 산학협력 확대… AI콘텐츠 등 인재 육성",
+    "summary": "동서대 앵커사업단이 정부의 산업AI 전환 정책에 맞춰 실무형 AI 인재 양성을 위해 온·오프라인 교육과정을 운영 중입니다. XR콘텐츠, 디지털트윈, 스마트건설, 디자인AI 등 다양한 분야의 교육을 제공하며 산학협력을 확대하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T18:40:00+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "조철기 충남도의장, 건설 현장 노동조건 개선 위한 목소리 경청 - 노컷뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53a2xWZ3h4Q1RET3JSQXhmaER3Nko1cEtoc0xaX0o5Z0NEUVYzNUlhX1B1R0hhQXl3SkhobXZVY2tFY0U5YklVVTlVbFRzUVNXS3c?oc=5",
+    "description": "조철기 충남도의회 의장이 한국노총 소속 한국산업건설노동조합 세종충남본부 간부들과 간담회를 갖고 지역 건설 현장에서 겪는 노동자들의 어려움을 청취했다.",
+    "cluster_id": "7b37",
+    "publisher": "노컷뉴스",
+    "title_clean": "조철기 충남도의장, 건설 현장 노동조건 개선 위한 목소리 경청",
+    "summary": "충남도의회 조철기 의장이 한국산업건설노동조합 세종충남본부와 간담회를 개최하여 지역 건설 현장의 노동조건 개선 방안을 논의했다. 건설 현장 노동자들의 애로사항을 청취하고 개선 방향을 모색하는 행사이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T18:40:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32215,37 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T14:56:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "3기신도시 착공 2년 앞당긴다 … 부동산 5대惡 근절·9월 LH 개혁안 발표 - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600143.html",
-    "description": "포용 성장 측면에선 건설현장 안전관리를 대폭 강화할 방침이다. 사회간접자본(SOC) 노후화에 따른 해체공사 증가에 대비해 안전진단부터 시공까지 해체공사 전(全) 주기 안전관리 제도를 점검하고 개선방안을 마련한다....",
-    "published_at": "2026-07-16T14:46:00+09:00",
-    "cluster_id": "94fd",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "3기신도시 착공 2년 앞당긴다 … 부동산 5대惡 근절·9월 LH 개혁안 발표",
-    "summary": "정부가 3기신도시 착공을 2년 앞당기고 건설현장 안전관리를 대폭 강화하는 정책을 추진 중이다. SOC 노후화에 따른 해체공사 증가에 대비해 안전진단부터 시공까지 전 주기 안전관리 제도를 개선할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-16T14:56:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[국토부 업무보고] 3기 신도시 조기 착공…자율주행·UAM 등 모빌리티 혁... - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260716000213",
-    "description": "또 건설현장 안전을 강화하고 자율주행을 비롯한 건설산업 첨단화도 지원한다. 16일 국토교통부가 발표한 '하반기 대통령 업무보고'에서는 이같은 내용을 담은 국토부 역점 과제가 담겼다. 김윤덕 국토부 장관(사진...",
-    "published_at": "2026-07-16T14:45:00+09:00",
-    "cluster_id": "cc3b",
-    "publisher": "newspim.com",
-    "title_clean": "[국토부 업무보고] 3기 신도시 조기 착공…자율주행·UAM 등 모빌리티 혁...",
-    "summary": "국토부가 3기 신도시 조기 착공과 건설현장 안전 강화, 자율주행 등 첨단기술 도입을 추진한다. 건설산업의 현대화와 함께 신규 프로젝트 증가로 건설업계에 긍정적 영향을 미칠 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T14:56:10+09:00",
-    "importance": 2
   }
 ]
