@@ -22342,6 +22342,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"건설노동자가 살아야 지역경제도 산다\"…조철기 충남도의회 의장, 현장 목소리 직접 듣다 - 투어코리아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdUxUZVltbV91R09SaDJQUmpKeUpWaldIMHBLMDdzRmEtaTZxQnBBSXB1blJNeDhuYklmQTZReDBLN3lhOU1OOW5aaVRYV3d5UHdaS2YyYlhRWjRtS0JnWFdIZzFuaksxUC15Wl9n?oc=5",
+    "description": "[투어코리아=류석만 기자] ■ \"건설 현장의 절박한 목소리, 더 이상 외면해선 안 된다\"건설경기 침체가 장기화되면서 지역 건설노동자들의 생존권이 위협받는 가운데,",
+    "published_at": "2026-07-22T05:18:30+09:00",
+    "cluster_id": "c31e",
+    "publisher": "투어코리아",
+    "title_clean": "\"건설노동자가 살아야 지역경제도 산다\"…조철기 충남도의회 의장, 현장 목소리 직접 듣다",
+    "summary": "건설경기 침체로 지역 건설노동자들의 생존권이 위협받는 상황에서 조철기 충남도의회 의장이 현장의 목소리를 직접 청취하며 관심을 모으고 있다. 건설업계의 절박한 상황을 해결하기 위한 정책적 관심이 필요한 시점이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T05:39:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32227,22 +32243,6 @@
     "summary": "한국남부발전이 안동빛드림본부 2호기 건설현장을 점검하여 공사 추진 현황과 안전관리 실태를 확인했다. 여름철 폭염에 대비한 근로자 보호대책을 집중 점검하는 등 현장 안전관리를 강화하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-16T16:39:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"폭염으로부터 노동자의 건강과 일터 안전을 지키자\" - worknworld.kctu.org",
-    "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509691",
-    "description": "더위에 무방비로 노출된 상태에서 일하는 건설 노동자, 화구 앞에 서는 급식 노동자, 냉방시설 없이 찜통에서 일해야 하는 물류센터 노동자와 사우나를 방불케 하는 비닐하우스와 야외에서 일하는 이주노동자들은...",
-    "published_at": "2026-07-16T16:30:00+09:00",
-    "cluster_id": "420d",
-    "publisher": "worknworld.kctu.org",
-    "title_clean": "\"폭염으로부터 노동자의 건강과 일터 안전을 지키자\"",
-    "summary": "폭염 속에서 건설, 급식, 물류, 농업 등 다양한 산업의 노동자들이 열악한 작업 환경에 노출되어 있는 문제를 지적하고 있습니다. 이는 산업 현장의 안전 관리 강화와 노동 환경 개선의 필요성을 제기하는 내용입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T16:34:49+09:00",
     "importance": 2
   }
 ]
