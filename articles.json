@@ -6243,6 +6243,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[부천 24시] 부천시, 7개 건설사와 지역경제 활성화 협약…지역업체 참여 확대 - 시사저널",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wTko4WU9BVVVpbXBvN1hlNUg3NWxwRlE1eGFka0ZfcUhtT1p5dUt5VVQyempTX3EzWHhwd3h0UDJ0bHRCWE85WkIyZElucDJ3TnNLWHRqa1VlaDZzYkJmd3pfMWF5cVJhOC1vSTFSONIBc0FVX3lxTE9KUGdNT0tCdTFqb2k1WDBLVEM3N2dxa1hKSXJ0YUpqOFVTR1A4Y181dUtrSkh4X1d0LVZsWVF2VUZndW5FQkRxaFliZThMZDlqcENUWTI2SGctR2ZpQk1OclR5OExGZkozb0p1MW55aDl0OEk?oc=5",
+    "description": "경기 부천시는 지역업체와 지역 인력의 건설공사 참여 확대를 위해 롯데건설 등 7개 사업 현장 시공사와 ‘부천형 신(新)뉴딜정책 경제활력’ 업무협약을 체결했다고 2",
+    "published_at": "2026-07-21T14:20:00+09:00",
+    "cluster_id": "3e8c",
+    "publisher": "시사저널",
+    "title_clean": "[부천 24시] 부천시, 7개 건설사와 지역경제 활성화 협약…지역업체 참여 확대",
+    "summary": "부천시가 롯데건설 등 7개 건설사와 업무협약을 체결하여 지역업체와 지역 인력의 건설공사 참여 확대를 추진한다. 이는 지역경제 활성화와 건설 현장의 지역 업체 수주 기회 증대를 목표로 하는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T14:35:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22189,20 +22205,20 @@
     "importance": 3
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "IPARK현대산업개발, 성남 태평3구역 수주 - hankyung.com",
-    "link": "https://www.hankyung.com/article/2026071317836",
-    "description": "IPARK현대산업개발이 5852억원 규모의 성남 태평3구역 공공 참여 재개발 정비사업을 따냈다. 약 2480가구 규모 사업지로 한국토지주택공사(LH)가 사업시행자로 참여해 인허가와 이주, 사업비 조달 안정성을 높인...",
-    "published_at": "2026-07-13T14:09:00+09:00",
-    "cluster_id": "5678",
-    "publisher": "hankyung.com",
-    "title_clean": "IPARK현대산업개발, 성남 태평3구역 수주",
-    "summary": "IPARK현대산업개발이 5852억원 규모의 성남 태평3구역 재개발 사업을 수주했다. LH가 사업시행자로 참여하여 사업의 안정성을 강화한 공공참여형 프로젝트이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T14:20:03+09:00",
-    "importance": 3
+    "title": "조철기 충남도의회 의장, 건설노조와 간담회…현장 애로 청취 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1393565",
+    "description": "노조 관계자들은 \"최근 건설경기 침체로 인해 지역 건설 노동자들이 큰 어려움을 겪고 있다\"며 \"건설사와 노동조합의 상생을 위해 최저입찰제 지양과 대금결제일 단축, 그리고 지역 건설사 양성 등에 충남도의회가...",
+    "published_at": "2026-07-21T14:30:00+09:00",
+    "cluster_id": "37ec",
+    "publisher": "",
+    "title_clean": "조철기 충남도의회 의장, 건설노조와 간담회…현장 애로 청취 - m-i.kr",
+    "summary": "조철기 충남도의회 의장이 건설노조와 간담회를 개최하여 건설경기 침체로 인한 노동자들의 어려움을 청취했다. 노조는 최저입찰제 폐지, 대금결제일 단축, 지역 건설사 양성 등의 개선을 요청했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T14:35:33+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
@@ -32192,21 +32208,6 @@
     "summary": "의왕시의회 김태흥 의원이 지역건설산업 활성화를 위해 '의왕시 지역건설산업 활성화 촉진 조례 일부개정조례안'을 대표 발의했습니다. 건설경기 침체 속에서 지역건설산업체의 실질적인 수주 기회 확대를 목표로 하고 있습니다.",
     "sentiment": "positive",
     "collected_at": "2026-07-16T04:06:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 속 건설현장 직접 찾은 SH 사장…\"근로자 안전이 최우선\" - ikoreadaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51UGpUYjZiUExxMHlKcl92UUxCRjJCbHVCdzY2dVd5S3lsSUpfOWtIcEFVeXNxMFYyRklEekZlN0JucThlT0hLdFBEbWROSzBrQlQyYU5LQjNsTHd2eTlPazFYNFpEeVNzdEdGOFV0ang?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE51UGpUYjZiUExxMHlKcl92UUxCRjJCbHVCdzY2dVd5S3lsSUpfOWtIcEFVeXNxMFYyRklEekZlN0JucThlT0hLdFBEbWROSzBrQlQyYU5LQjNsTHd2eTlPazFYNFpEeVNzdEdGOFV0ang?oc=5\" target=\"_blank\">폭염 속 건설현장 직접 찾은 SH 사장…\"근로자 안전이 최우선\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ikoreadaily.co.kr</font>",
-    "cluster_id": "5ca6",
-    "publisher": "ikoreadaily.co.kr",
-    "title_clean": "폭염 속 건설현장 직접 찾은 SH 사장…\"근로자 안전이 최우선\"",
-    "summary": "SH공사 사장이 폭염 속 건설현장을 직접 방문하여 근로자 안전관리를 강조했다. 극한 기후 조건에서 건설 현장의 안전 관리 강화 필요성을 드러낸 사례이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-16T01:51:33+09:00",
     "importance": 2
   }
 ]
