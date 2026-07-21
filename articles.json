@@ -22358,6 +22358,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "AI 데이터센터 건설산업 활성화 포럼, ‘각 세종’서 현장 목소리 청취 - 냉동공조저널",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16elNHeHVyU05nVW03cHc5aFRxU0pVTmgwRGprUnpsZnRaSU5pNDIwRGxtb0lyYzJOMUNTOG5qSDZsc2VTeHdlZDFnMVJRbjZkTlFrTDA4ZWJuUWhGSUg4Qm1CNENXX0g0Zmc?oc=5",
+    "description": "국토교통부와 대한기계설비산업연구원은 21일 오후 2시 세종특별자치시에 위치한 네이버 데이터센터 ‘각 세종’을 방문해 ‘AI 시대 데이터센터 건설산업 활성화 포럼’",
+    "published_at": "2026-07-21T16:42:24+09:00",
+    "cluster_id": "7d07",
+    "publisher": "냉동공조저널",
+    "title_clean": "AI 데이터센터 건설산업 활성화 포럼, ‘각 세종’서 현장 목소리 청취",
+    "summary": "국토교통부와 대한기계설비산업연구원이 세종의 네이버 데이터센터를 방문해 AI 시대 데이터센터 건설산업 활성화 포럼을 개최했다. 현장 방문을 통해 건설산업과 기계설비산업의 성장 기회를 모색하는 행사이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T23:00:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32229,22 +32245,6 @@
     "title_clean": "스마트건설·건설안전·AI에 투자 집중···건설정책 무게중심 이동",
     "summary": "정부가 스마트건설 R&D, 건설현장 안전관리, AI 기술 활용 등에 수백억원 규모의 재정을 투입하며 건설업 생산성 향상과 안전 확보를 추진 중이다. 2026년 예산을 통해 건설정책의 무게중심을 기술혁신과 안전으로 이동시키고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-16T16:05:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "진안군, 여름철 건설현장 안전사고 예방 교육 실시 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4U0lFSHFobXNiSHk0ZkRnek5fMEM1ZmotQnEyMTk4V3pXSzJJR19VMndtVXVSdmNsYmtybnd6WkhzWFhLbE43TVJna0xzUnpBeGJGamNwMVc0dnd0dXV1bGIzenRrNjJiWEVLcm14YnIzZw?oc=5",
-    "description": "진안군은 14일 산약초타운에서 여름철 건설현장 안전교육을 진행했다.교육에는 건설사업 담당 공무원과 현장 관계자 등 200여 명이 참석했다.한국산업안전보건공단 권수",
-    "published_at": "2026-07-16T15:42:00+09:00",
-    "cluster_id": "8ddc",
-    "publisher": "웹이코노미",
-    "title_clean": "진안군, 여름철 건설현장 안전사고 예방 교육 실시",
-    "summary": "진안군이 여름철 건설현장 안전사고 예방을 위해 200여 명의 건설사업 담당 공무원과 현장 관계자를 대상으로 안전교육을 실시했다. 한국산업안전보건공단 등이 참여해 건설현장의 안전관리 강화를 도모했다.",
-    "sentiment": "negative",
     "collected_at": "2026-07-16T16:05:27+09:00",
     "importance": 2
   }
