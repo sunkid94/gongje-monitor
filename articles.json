@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "경남도, 5000km 뛴 하도급 세일즈…상반기 773억 수주 결실 - newsfreezone.co.kr",
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700280",
+    "description": "기동팀은 경남도와 시·군 공무원, 대한전문건설협회, 대한기계설비건설협회 등 10여 명으로 구성됐다. 100억 원 이상 대형 민간·공공공사와 수도권 대기업 본사를 집중 방문하며 지역업체의 참여를 적극 요청하고...",
+    "published_at": "2026-07-21T12:28:00+09:00",
+    "cluster_id": "f94e",
+    "publisher": "newsfreezone.co.kr",
+    "title_clean": "경남도, 5000km 뛴 하도급 세일즈…상반기 773억 수주 결실",
+    "summary": "경남도가 구성한 기동팀이 수도권 대기업과 대형 공사를 집중 방문하여 지역업체 참여를 유도한 결과, 상반기 773억 원 규모의 수주를 달성했다. 대한기계설비건설협회 등 건설 관련 협회가 참여하여 지역 건설업체의 수주 확대에 기여했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T12:39:43+09:00",
+    "event_label": "대한기계설비건설협회 경남도 기동팀 수주 활동으로 상반기 773억 원 수주 달성",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "[오늘 경남] 상반기 지역 건설업계 하도급 계약 773억원 수주 지원 - sidae.com",
     "link": "https://www.sidae.com/article/2026072110424572661",
     "description": "하도급 기동팀은 경남도와 시·군 공무원, 대한전문건설협회, 대한기계설비건설협회 등 10여명으로 구성됐다. 100억원 이상 대형 민간·공공공사와 수도권 대기업 본사를 중심으로 수주 활동을 벌였으며 올해...",
@@ -22155,6 +22172,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통부, 물류시설 화재안전관리체계, 전면 개선한다. - 코리아타임뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42aktxUGVTemxTYkNmSDlFbWxQekR0UTU4WFZreTloU0gxMnJPWXdpNVJoN0RiTHZwSC1rN2ROaGNlZVh1cWhpcEpJUTVBOHZlT0hoam9BNHEyYjBZVXZmTWpremdKdVVRM0E?oc=5",
+    "description": "코리아타임뉴스 김태훈 기자 | 국토교통부은 7월 18일 발생한 인천 소재 물류센터 화재와 관련하여 물류시설의 화재 예방 방안 등 안전관리체계를 종합적으로 점검하고 재발방지를 위한 제도개선에 나선다. 국토교통부는 7월 20일 오후 교통물류실장 주재로 행정안전부, 소방청, 건설기술연구원, 건축·소방·방재 분야 민간전문가, 물류업계 등이",
+    "cluster_id": "3706",
+    "publisher": "코리아타임뉴스",
+    "title_clean": "국토교통부, 물류시설 화재안전관리체계, 전면 개선한다.",
+    "summary": "국토교통부가 7월 18일 인천 물류센터 화재를 계기로 물류시설의 화재안전관리체계를 전면 개선하기로 결정했다. 관계부처 및 전문가·업계가 참여한 종합점검을 통해 화재 예방방안과 재발방지를 위한 제도개선에 착수한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T12:39:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32170,37 +32202,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-15T19:10:24+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "황상하 SH 사장, 마곡16단지서 폭염 대응 점검…5대 수칙 이행여부 확인 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CVVE4eEtIZU5Dem51TTdGMWR6Yko2bUJ4VDlucEY0dHZlLUhrQ2ZfTlNJSkx2RGo5VDJrcDd4NHJjdzlWcVlrMDJvcXY0UnRPYVVELTY2aGNNeDh1elBqWDAycGhGaDFXempHU0Rn?oc=5",
-    "description": "서울주택도시개발공사(SH)는 황상하 사장이 지난 14일 서울 마곡 16단지 건설 현장을 방문해 폭염 대비 안전 관리 실태를 점검했다고 15일 밝혔다.이번 점검은 여름철 폭염에 대비해 건설 현장 근로자의 건강과 안전을 확보하기 위해 마련했다.황 사장은 이날 △휴게실,..",
-    "published_at": "2026-07-15T18:57:40+09:00",
-    "cluster_id": "d7e6",
-    "publisher": "아시아투데이",
-    "title_clean": "황상하 SH 사장, 마곡16단지서 폭염 대응 점검…5대 수칙 이행여부 확인",
-    "summary": "SH 황상하 사장이 마곡 16단지 건설 현장을 방문하여 폭염 대응 안전 관리 실태를 점검했다. 근로자 건강과 안전 확보를 위해 휴게실, 음료 제공 등 5대 수칙 이행 여부를 확인했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T19:10:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "강원 취업자·고용률 동월 기준 역대 최고치… 건설업 고용 부진은 여전 - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2061532",
-    "description": "다만 건설경기 한파가 지속되면서 건설업 고용 부진은 여전히 지속됐다. 15일 강원데이터지청이 발표한 고용동향을 보면 올해 6월 강원도내 취업자 수는 89만명으로 집계됐다. 전년 동월(88만7000명) 대비 3000명(0....",
-    "published_at": "2026-07-15T18:56:00+09:00",
-    "cluster_id": "43da",
-    "publisher": "kado.net",
-    "title_clean": "강원 취업자·고용률 동월 기준 역대 최고치… 건설업 고용 부진은 여전",
-    "summary": "강원도의 6월 취업자 수가 89만명으로 동월 기준 역대 최고치를 기록했으나, 건설경기 한파로 인한 건설업 고용 부진은 계속되고 있다. 전반적인 고용 개선에도 불구하고 건설 부문의 구조적 약세가 지속되는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-15T19:05:35+09:00",
-    "importance": 4
   }
 ]
