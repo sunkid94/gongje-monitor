@@ -22358,6 +22358,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"건설경기 침체에 생존권 위협\"... 충남도의회 찾아간 건설 노동자들 - ngonews.kr",
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=233467",
+    "description": "건설경기 침체의 여파로 지역 건설 노동자들의 시름이 깊어지는 가운데, 충남도의회가 노동 현장의 생생한 목소리를 들기 위한 소통의 자리를 마련했다. 충남도의회 조철기 의장(아산4·더불어민주당)은 지난 20일 의회...",
+    "published_at": "2026-07-21T21:50:00+09:00",
+    "cluster_id": "cda7",
+    "publisher": "ngonews.kr",
+    "title_clean": "\"건설경기 침체에 생존권 위협\"... 충남도의회 찾아간 건설 노동자들",
+    "summary": "건설경기 침체로 지역 건설 노동자들의 생존권이 위협받고 있는 상황에서 충남도의회가 노동자들의 목소리를 청취하는 소통의 자리를 마련했다. 건설업계의 경기 부진이 현장 노동자들에게 실질적인 어려움을 주고 있음을 드러내는 사례다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T21:54:58+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32231,21 +32247,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-16T16:00:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[마감시황] 한은 기준금리 인상에 국내 증시 '찬바람' - joongangenews.com",
-    "link": "https://www.joongangenews.com/news/articleView.html?idxno=533510",
-    "description": "지난해 비상계엄 사태로 국내 건설경기 악화, 미국 상호관세 충격 등의 악재가 겹치면서 통화 완화 정책을 펼쳤다. 이후 가계부채 증가세가 지속되고 원/달러 환율이 높아졌지만 금통위는 기준금리를 8연속...",
-    "published_at": "2026-07-16T15:56:00+09:00",
-    "cluster_id": "c383",
-    "publisher": "joongangenews.com",
-    "title_clean": "[마감시황] 한은 기준금리 인상에 국내 증시 '찬바람'",
-    "summary": "한은의 기준금리 인상으로 인한 금리 부담 증가가 건설업계에 악영향을 미칠 것으로 예상된다. 높은 금리는 건설 프로젝트의 자금조달 비용을 증가시키고 PF 리스크를 심화시킬 우려가 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T16:00:21+09:00",
-    "importance": 4
   }
 ]
