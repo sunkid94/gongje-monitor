@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "경남도, 상반기 ‘773억’ 하도급 수주 달성…5000km 달린 결실 - viva100.com",
+    "link": "https://www.viva100.com/article/20260721500744",
+    "description": "이러한 성과는 경남도와 시·군 공무원, 대한전문건설협회, 대한기계설비건설협회 등으로 구성된 ‘민관 합동 하도급 기동팀’의 현장 활동을 바탕으로 이뤄졌다. 기동팀은 100억원 이상의 대형 민간·공공공사와 수도권...",
+    "published_at": "2026-07-21T13:26:00+09:00",
+    "cluster_id": "e90b",
+    "publisher": "viva100.com",
+    "title_clean": "경남도, 상반기 ‘773억’ 하도급 수주 달성…5000km 달린 결실",
+    "summary": "경남도가 민관 합동 하도급 기동팀을 통해 상반기 773억원의 하도급 수주를 달성했다. 기동팀은 대한기계설비건설협회 등 관련 협회와 함께 100억원 이상 대형 공사를 대상으로 현장 활동을 펼쳤다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T13:29:45+09:00",
+    "event_label": "대한기계설비건설협회 상반기 하도급 수주 773억원 달성",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "경남도, 5000km 뛴 하도급 세일즈…상반기 773억 수주 결실 - newsfreezone.co.kr",
     "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700280",
     "description": "기동팀은 경남도와 시·군 공무원, 대한전문건설협회, 대한기계설비건설협회 등 10여 명으로 구성됐다. 100억 원 이상 대형 민간·공공공사와 수도권 대기업 본사를 집중 방문하며 지역업체의 참여를 적극 요청하고...",
@@ -6207,6 +6224,22 @@
     "collected_at": "2026-06-21T15:22:31+09:00",
     "event_label": "건설공제조합 희망드림 프로젝트 도서지역 취약계층 주거환경개선 사업",
     "importance": 5
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "이재용 삼성의 '로봇' 출사표…\"AI 반도체·배터리 등 초격차 역량 총집... - widedaily.com",
+    "link": "https://www.widedaily.com/news/articleView.html?idxno=297916",
+    "description": "또 삼성전기와 삼성디스플레이, 삼성중공업 등 계열사의 다양한 제조 현장을 활용해 범용 로봇 개발에 필요한 작업 데이터를 확보할 수 있다. 삼성전자는 향후 로봇 분야 인수합병(M&A)과 유망 스타트업 투자도 확대할...",
+    "published_at": "2026-07-21T13:22:00+09:00",
+    "cluster_id": "04e9",
+    "publisher": "widedaily.com",
+    "title_clean": "이재용 삼성의 '로봇' 출사표…\"AI 반도체·배터리 등 초격차 역량 총집...",
+    "summary": "삼성전자가 AI 반도체, 배터리 등 보유 기술을 활용해 로봇 사업에 진출하며, 계열사 제조 현장의 작업 데이터를 확보하고 M&A·스타트업 투자를 확대할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T13:29:45+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -22155,22 +22188,6 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "조선업 첫 노사정 협의체 출범…인력난·원하청 해법 찾는다 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716131",
-    "description": "경영계에서는 한국조선해양플랜트협회와 함께 HD현대중공업, 삼성중공업, 한화오션 등 주요 조선 3사가 참여했다. 조선업 노사정 협의체는 현장의 산적한 과제를 해결하기 위해서다. 조선업은 친환경 고부가 선박 수요를...",
-    "published_at": "2026-07-13T13:56:00+09:00",
-    "cluster_id": "d140",
-    "publisher": "ebn.co.kr",
-    "title_clean": "조선업 첫 노사정 협의체 출범…인력난·원하청 해법 찾는다",
-    "summary": "조선업 첫 노사정 협의체가 출범하여 업계의 인력난과 원하청 문제 등 적체된 과제 해결에 나섰다. HD현대중공업, 삼성중공업, 한화오션 등 주요 3사가 참여하여 친환경 고부가 선박 수요 대응을 위한 논의를 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T13:59:10+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32185,21 +32202,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T20:10:28+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "신한울 3·4호기 건설현장 주민이 직접 살핀다…9월까지 안전 검증 - kyongbuk.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1azVIOE9fSFVLcllUUXh6RVhrYWJDclVmOG81dDJxcmtLTVVQOXJmX3NiSDFXd3ZlSFg2MHFnVUxCZ05oMkJiOHJ1NFBSd2RaYWFPMzhvTTRHc1RMS09UTTNXWXplZzZjaG1Od0R3QQ?oc=5",
-    "description": "신규 원전 건설을 둘러싼 사회적 수용성을 높이고, 기획 단계부터 시공까지 전 과정에 걸쳐 투명성을 확보하려는 공공기관의 개방형 방역망 행보가 본격화됐다.한국수력원자력(이하 한수원)은 14일 한울원자력본부에서 ‘신한울 3,4호기 제1기 안전 시민참관단 발대식’을 개최했다고 밝혔다. 이번",
-    "published_at": "2026-07-15T19:15:28+09:00",
-    "cluster_id": "1e41",
-    "publisher": "kyongbuk.co.kr",
-    "title_clean": "신한울 3·4호기 건설현장 주민이 직접 살핀다…9월까지 안전 검증",
-    "summary": "한수원이 신한울 3·4호기 건설현장에 시민참관단을 구성하여 9월까지 안전성을 검증하기로 했다. 신규 원전 건설의 사회적 수용성 확보와 투명성 강화를 위한 개방형 감시 체계를 도입하는 것으로, 원전 건설사업의 진행 가능성을 높이는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T19:30:43+09:00",
-    "importance": 2
   }
 ]
