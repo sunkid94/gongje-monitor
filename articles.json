@@ -22324,6 +22324,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설 작업 중 화재 및 폭발 안전 확보를 위한 지침. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGcyVjFVdnpXenlKSjNjSW9UbmFEMmE5dFFRclBJc0lYMm82RTNHT1JzVjFpOEVGRmVvZG1mbWRmYW5ob2hjdnNnYTR0QmprQWVkUUFHVUlYQjJneGU0eXhQdkVhbUl3Y0cyLUlnRGhlck1GVjdsZ3gyVUpjTXJJSXBPeTlhM0FoSXowSjdidUV0Ym5fMk1yTVRPRk9DYXZvZE82TlVjQQ?oc=5",
+    "description": "ANTD.VN - 건설 현장의 화재 및 폭발 안전을 확보하기 위해 하노이시 보데, 푸크로이, 롱비엔구 인민위원회와 협력하여 소방경찰 제18팀(화재예방·소방·구조대)이 초기 단계부터 위반 사항을 최소화하기 위한 화재 안전 점검을 실시했습니다.",
+    "cluster_id": "9f93",
+    "publisher": "Vietnam.vn",
+    "title_clean": "건설 작업 중 화재 및 폭발 안전 확보를 위한 지침.",
+    "summary": "하노이시 소방경찰이 건설 현장의 화재 및 폭발 안전을 확보하기 위해 관련 기관과 협력하여 화재 안전 점검을 실시했습니다. 초기 단계부터 위반 사항을 최소화하는 선제적 조치를 취하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T20:10:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32229,22 +32244,6 @@
     "title_clean": "3기 신도시 조기 착공·비주택용지 전환···정부 공급 확대 총력",
     "summary": "정부가 3기 신도시 조기 착공과 비주택용지 전환 등으로 건설 공급을 확대하는 한편, 서소문 고가차도 붕괴 사고 등을 계기로 노후 사회기반시설 해체 공사의 안전관리를 강화하기로 했다. 하반기 중 안전진단부터 시공까지 전 과정의 관리체계 개선 방안을 마련할 예정이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-16T15:40:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "동부건설, AI 통번역·품질 공유시스템 전 현장 도입 - cstimes.com",
-    "link": "https://www.cstimes.com/news/articleView.html?idxno=713789",
-    "description": "컨슈머타임스=정용규 기자 | 동부건설이 AI 기술을 건설현장 안전관리와 품질관리 전반으로 확대 적용했다고 16일 밝혔다. 동부건설은 외국인 근로자와의 언어 장벽을 해소하기 위해 AI 동시 통번역 프로그램을 전 현장에...",
-    "published_at": "2026-07-16T15:34:00+09:00",
-    "cluster_id": "771a",
-    "publisher": "cstimes.com",
-    "title_clean": "동부건설, AI 통번역·품질 공유시스템 전 현장 도입",
-    "summary": "동부건설이 AI 동시 통번역 시스템과 품질 공유시스템을 전 현장에 도입하여 외국인 근로자와의 언어 소통을 개선하고 안전·품질관리를 강화했다. 건설현장의 의사소통 효율성 향상과 안전성 강화로 업계 선진화를 주도하는 사례다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-16T15:40:36+09:00",
     "importance": 2
   }
