@@ -6258,6 +6258,22 @@
     "event_label": "전문건설공제조합 벤처캐피탈 펀드 청산 및 성과 공개"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[아주증시포커스] 6월 이후 하락률 1위 K-증시…한달 새 100조 자금 빠져... - ajunews.com",
+    "link": "https://www.ajunews.com/view/20260722072238296",
+    "description": "◆장 마감 후(21일) 주요공시 △블랙록, KAI 지분 5% 넘겼다…주요 주주 올라 △롯데건설 '2026 지속가능경영보고서' 발간, 최신 ESG 공시체계 반영 △에이프릴바이오, 큐리진과 기술도입 계약 체결 △고려아연...",
+    "published_at": "2026-07-22T07:24:00+09:00",
+    "cluster_id": "427c",
+    "publisher": "ajunews.com",
+    "title_clean": "[아주증시포커스] 6월 이후 하락률 1위 K-증시…한달 새 100조 자금 빠져...",
+    "summary": "K-증시가 6월 이후 하락률 1위를 기록하며 한달간 100조 원대 자금이 빠져나가고 있다. 주요 기업 공시 중 롯데건설이 ESG 공시를 강화하고 있으며, 블랙록의 KAI 지분 인수 등 외국인 자금 흐름이 주목된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T07:29:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22205,22 +22221,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-13T16:30:13+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성물산, 성수3지구 사실상 확보…'한강벨트' 존재감 확대 - inews24.com",
-    "link": "http://www.inews24.com/view/1984982",
-    "description": "2지구는 오는 15일 현장설명회를 시작으로 DL이앤씨와 IPARK현대산업개발 간 경쟁이 예상된다. 삼성물산은 올해 압구정4구역 재건축 시공권을 확보한 데 이어 성수3지구까지 사실상 손에 넣으면서 한강변 핵심 정비사업...",
-    "published_at": "2026-07-13T16:13:00+09:00",
-    "cluster_id": "49b6",
-    "publisher": "inews24.com",
-    "title_clean": "삼성물산, 성수3지구 사실상 확보…'한강벨트' 존재감 확대",
-    "summary": "삼samsung물산이 압구정4구역에 이어 성수3지구 재건축 사업까지 확보하면서 한강변 정비사업에서의 입지를 강화했다. 성수2지구는 DL이앤씨와 현대산업개발 간 경쟁이 예상되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T16:19:35+09:00",
-    "importance": 2
   },
   {
     "keyword": "스마트건설",
