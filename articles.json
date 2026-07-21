@@ -22358,6 +22358,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국농어촌공사 강진지사, 우기철 대비 건설현장 집중 안전점검 실시 - 폴리뉴스 Polinews",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGV3kxUTFYYzJ0YWlfRGkzeGZyN2VxemJOWDRfYm9yVGJtZkFIVFl4TmNGa3EwcmNJdDFWRUh1SnNKeWFJbURzSWRoNnNpN195MTJWNUZLaDg1bG1uUEtBODRkWlM3bVB5MXhuX0530gFyQVVfeXFMTVFiY0hrcUc3ZUg0WDA3Ujkzd2dCX2o2NkVSQk1YV3ZCcXp1RnRNTUdFenBPSDBVRUlmNVNnR1dpcFg2NEQ1WEZYMTFkdHVIZThHWnBWUkx1bTZPSHNtaGlrSmp6VVBZenRNVjJKTGRpZmVB?oc=5",
+    "description": "[폴리뉴스 김준혁(=호남) 기자] 한국농어촌공사 강진지사가 본격적인 우기철을 앞두고 관내 건설현장에 대한 집중 안전점검을 실시했다.강진지사(지사장 이철욱)는 우기철 집중호우로 인한 건설현장 피해를 최소화하고 근로자 안전을 확보하기 위해 이번 점검을 추진했다. 비상연락망 구축과 감전사고 예방을 위한 전기시설 관리실태 점검을 비롯해 호우·침수 대비 배수시설 정비, 태풍·강풍 대비 시설물 무너짐·매몰 사고 예방 조치 등을 중점적으로 살폈다.이철욱 강진지사장은 \"우기철 자연재난에 대비해 안전점검을 철저히 실시함으로써 인명 및 재산 피해를",
+    "published_at": "2026-07-21T21:43:31+09:00",
+    "cluster_id": "9a62",
+    "publisher": "폴리뉴스 Polinews",
+    "title_clean": "한국농어촌공사 강진지사, 우기철 대비 건설현장 집중 안전점검 실시",
+    "summary": "한국농어촌공사 강진지사가 우기철을 앞두고 관내 건설현장에 대한 집중 안전점검을 실시했다. 비상연락망 구축, 전기시설 관리, 배수시설 정비, 시설물 안전 조치 등을 중점적으로 점검하여 인명 및 재산피해 예방에 나섰다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T22:10:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32231,21 +32247,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T16:00:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'협력사가 곧 경쟁력'…DL건설 상생교육 '성황' - economytalk.kr",
-    "link": "http://www.economytalk.kr/news/articleView.html?idxno=422756",
-    "description": "교육은 ▲건설산업기본법 실무 ▲하도급법 실무 ▲건설현장 노무관리 ▲납품대금 연동제 등 협력업체 실무에 필요한 내용을 중심으로 진행됐다. 사전 접수를 통해 선착순 모집한 이번 교육은 조기 마감될 만큼 높은...",
-    "published_at": "2026-07-16T15:54:00+09:00",
-    "cluster_id": "42a4",
-    "publisher": "economytalk.kr",
-    "title_clean": "'협력사가 곧 경쟁력'…DL건설 상생교육 '성황'",
-    "summary": "DL건설이 협력업체를 대상으로 건설산업기본법, 하도급법, 노무관리 등 실무 중심의 상생교육을 진행하여 높은 호응을 얻었다. 협력사와의 상생 강화를 통해 경쟁력을 확보하려는 기업의 노력을 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T16:00:21+09:00",
-    "importance": 3
   }
 ]
