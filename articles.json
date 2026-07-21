@@ -6158,6 +6158,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "세진중공업, 조선업 슈퍼사이클에 '고공행진' - dealsite.co.kr",
+    "link": "https://dealsite.co.kr/articles/165584",
+    "description": "한화오션, 삼성중공업 등 조선 빅3까지 거래선을 확보한 것이 결정적이었다는 평가다. 마침 이 회사는 2023년 삼성중공업으로부터 액화석유가스(LPG) 카고탱크, 이듬해 한화오션에게 데크하우스를 수주한 바 있다....",
+    "published_at": "2026-07-21T09:02:00+09:00",
+    "cluster_id": "70af",
+    "publisher": "dealsite.co.kr",
+    "title_clean": "세진중공업, 조선업 슈퍼사이클에 '고공행진'",
+    "summary": "세진중공업이 조선업 빅3(한화오션, 삼성중공업 등)과의 거래선 확보를 통해 조선업 슈퍼사이클 호황을 활용하고 있다. 2023년 삼성중공업으로부터 LPG 카고탱크, 2024년 한화오션으로부터 데크하우스 수주 등 지속적인 주문 수주 성과를 기록 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T09:08:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22105,19 +22121,19 @@
     "importance": 3
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "경북도청신도시 10년 만에 공공임대 공급…최고 37층 랜드마크 들어선다 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121311541520816",
-    "description": "경상북도개발공사가 시행하고 금호건설㈜ 컨소시엄(금호건설·포스코이앤씨·플러스종합건설)이 시공한다. 단지는 지하 3층~지상 최고 37층, 7개 동, 총 726세대 규모로 조성되며, 완공 시 경북도청신도시 최고층...",
-    "published_at": "2026-07-13T11:42:00+09:00",
-    "cluster_id": "f52e",
-    "publisher": "대한경제",
-    "title_clean": "경북도청신도시 10년 만에 공공임대 공급…최고 37층 랜드마크 들어선다",
-    "summary": "경상북도개발공사가 경북도청신도시에 726세대 규모의 공공임대주택단지를 10년 만에 공급한다. 금호건설 컨소시엄이 시공하며 지상 최고 37층 규모의 랜드마크 건설로 도시개발사업이 진행 중이다.",
+    "title": "남광토건, 공공 주택시장서 존재감 키운다 - newsway.co.kr",
+    "link": "https://www.newsway.co.kr/news/view?ud=2026072016211894762",
+    "description": "건설경기 침체와 민간 분양시장 위축이 장기화하는 가운데 남광토건이 한국토지주택공사(LH) 민간참여 공공주택사업에 이어 LH참여형 소규모 정비사업까지 영역을 넓히며 공공사업 포트폴리오를 다변화하고 있다....",
+    "published_at": "2026-07-21T09:00:00+09:00",
+    "cluster_id": "3582",
+    "publisher": "newsway.co.kr",
+    "title_clean": "남광토건, 공공 주택시장서 존재감 키운다",
+    "summary": "건설시장 침체 속에서 남광토건이 LH 민간참여 공공주택사업과 소규모 정비사업으로 사업 영역을 확대하며 공공사업 포트폴리오를 다변화하고 있다. 민간 분양시장 위축에 대응한 공공 주택시장 중심의 전략 전환으로 존재감을 키우는 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-13T11:48:47+09:00",
+    "collected_at": "2026-07-21T09:08:54+09:00",
     "importance": 2
   },
   {
@@ -32184,21 +32200,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-15T15:50:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경상북도개발공사, 폭염 속 건설현장 찾아 근로자 안전‧건강 살펴 - 예천연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sUTluaVhWamZCSmpzQ3ZMakkzdTFXRDB6TVY2WlZPTlRncTB4aHgxUWM5Q0htOVpiVW9DRlNkWnVVZ2xibEZPQW5KcTZneGRuREJQem9qTG1HZ2UyVVFReW1iOUpqVG1O?oc=5",
-    "description": "경상북도개발공사(이하 공사, 사장 이재혁)는 14일 연일 이어지는 폭염 속에서 근무하는 건설현장 근로자들의 안전과 건강을 살피기 위해 청도 청려도원 지역활력타운 조성사업 현장을 방문해 폭염 대응 안전점검을 실시하고, 안전 홍보 캠페인을 전개했다.이날 현장에는 이재혁 사장을 비롯해 안전경영실 등 관계 부서 직원들이 함께 참석해 근로자들과 직접 소통하며 폭염 속 작업 여건과 현장의 의견을 청취했다. 이어 이온음료와 개인 보냉장구를 전달하고, 초복을 앞두고 수박을 함께 나누며 무더위 속 현장을 지키는 현장 근로자들을 격려하고 건강관리의",
-    "published_at": "2026-07-15T15:41:16+09:00",
-    "cluster_id": "523a",
-    "publisher": "예천연합뉴스",
-    "title_clean": "경상북도개발공사, 폭염 속 건설현장 찾아 근로자 안전‧건강 살펴",
-    "summary": "경상북도개발공사가 폭염 속 건설현장을 방문하여 근로자 안전·건강 점검을 실시했다. 이온음료, 보냉장구, 수박 등을 제공하며 현장 근로자들을 격려하고 폭염 대응 안전 캠페인을 전개했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T15:50:43+09:00",
-    "importance": 2
   }
 ]
