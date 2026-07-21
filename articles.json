@@ -6377,6 +6377,22 @@
     "event_label": "건설산업 공정성 진단"
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“재건축 속도가 깡패”…인허가 뚫은 단지 몸값 ‘쑥’ - dt.co.kr",
+    "link": "https://www.dt.co.kr/article/12073987?ref=naver",
+    "description": "특히 잠실주공5단지는 25년 전 선정한 삼성물산·GS건설·HDC현대산업개발의 시공사 지위를 그대로 유지하기로 하면서 재건축 속도를 더 낸다는 방침이다. 내년 말 이주·철거를 시작해 2028년 착공을 계획하고 있다. 이런...",
+    "published_at": "2026-07-22T05:40:00+09:00",
+    "cluster_id": "9893",
+    "publisher": "dt.co.kr",
+    "title_clean": "“재건축 속도가 깡패”…인허가 뚫은 단지 몸값 ‘쑥’",
+    "summary": "잠실주공5단지가 재건축 인허가를 획득하면서 기존 시공사(삼성물산·GS건설·HDC현대산업개발)의 지위를 유지하고 내년 말 이주·철거, 2028년 착공을 계획 중이다. 재건축 속도 가속화로 대형 건설사들의 수주 기회가 증대될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-22T05:44:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22324,22 +22340,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-13T16:14:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발 컨소, '성남 태평3구역 재개발' 시공권 확보 - shinailbo.co.kr",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040402",
-    "description": "IPARK현대산업개발은 코오롱글로벌과 함께 지난 12일 경기 '성남 태평3구역 공공 참여 재개발 정비사업'을 수주했다고 13일 밝혔다. 태평3구역 재개발은 경기 성남시 수정구 태평동 일원에 2480가구 규모 공동주택을...",
-    "published_at": "2026-07-13T16:04:00+09:00",
-    "cluster_id": "849e",
-    "publisher": "shinailbo.co.kr",
-    "title_clean": "IPARK현대산업개발 컨소, '성남 태평3구역 재개발' 시공권 확보",
-    "summary": "IPARK현대산업개발과 코오롱글로벌 컨소시엄이 경기 성남시 태평3구역 공공 참여 재개발 정비사업을 수주했다. 2480가구 규모의 대형 재개발 사업 수주로 건설사의 수주 실적 증대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T16:10:02+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 노동",
