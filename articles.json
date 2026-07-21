@@ -22324,6 +22324,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염 속 건설현장 가보니‥\"1분만 걸어도 땀 줄줄\" - imnews.imbc.com",
+    "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839019_37004.html",
+    "description": "[김해룡/건설 노동자] \"장갑 끼고도 손이 따가워요. 그럴 정도예요. 이게(철골을) 이고 다닐 때는, 뜨거울 때는 막 데여요.\" 안전모 안으로 흐른 땀은 작업복을 흠뻑 적시고, 얼굴에서는 땀방울이 비오듯 뚝뚝 떨어집니다....",
+    "published_at": "2026-07-21T19:58:00+09:00",
+    "cluster_id": "1b0c",
+    "publisher": "imnews.imbc.com",
+    "title_clean": "폭염 속 건설현장 가보니‥\"1분만 걸어도 땀 줄줄\"",
+    "summary": "폭염 속 건설현장 노동자들이 극심한 열악한 작업 환경에 노출되어 있습니다. 장갑을 껴도 손이 따가울 정도로 뜨거운 철골 작업을 진행하며 심각한 안전 위험에 처해 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-21T20:15:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32228,22 +32244,6 @@
     "title_clean": "[아유경제_부동산] DL건설, 250개 협력 업체 대상 상호협력교육… \"동반...",
     "summary": "DL건설이 250개 협력업체를 대상으로 건설산업기본법, 하도급법, 노무관리 등 실무 교육을 실시하며 동반성장을 추진하고 있다. 협력업체의 법령 준수 역량 강화와 상호협력 관계 구축을 통해 업계 건전성을 도모하는 내용이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-16T15:40:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "3기 신도시 조기 착공·비주택용지 전환···정부 공급 확대 총력 - seoulfn.com",
-    "link": "https://www.seoulfn.com/news/articleView.html?idxno=633561",
-    "description": "건설현장 안전관리도 강화한다. 정부는 서소문 고가차도 붕괴 사고 등 노후 사회기반시설 해체 공사가 늘어나는 데 대비해 안전진단부터 시공까지 전 과정의 관리체계를 점검하고 하반기 중 개선 방안을 마련한다....",
-    "published_at": "2026-07-16T15:35:00+09:00",
-    "cluster_id": "b592",
-    "publisher": "seoulfn.com",
-    "title_clean": "3기 신도시 조기 착공·비주택용지 전환···정부 공급 확대 총력",
-    "summary": "정부가 3기 신도시 조기 착공과 비주택용지 전환 등으로 건설 공급을 확대하는 한편, 서소문 고가차도 붕괴 사고 등을 계기로 노후 사회기반시설 해체 공사의 안전관리를 강화하기로 했다. 하반기 중 안전진단부터 시공까지 전 과정의 관리체계 개선 방안을 마련할 예정이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-16T15:40:36+09:00",
     "importance": 2
   }
