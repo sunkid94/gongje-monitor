@@ -22121,6 +22121,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경남기업, 양주 건설현장서 350인분 삼계탕 제공·폭염 안전교육 - 인더뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83a1dOYlFJZTNPdkVfbFcySXNiWGE4MHRiaG5hZURZbXFUZWtIbERiMWlHSk5hMlBwVGtfQnFpLWtiWmQ1al9rZTR5X2I2bmhsc2cwa0hxdFpHdUpWcG1mM2JPVEs?oc=5",
+    "description": "인더뉴스 제해영 기자ㅣSM그룹 건설부문 계열사 경남기업은 지난 16일 경기 양주시 양주 옥정 A-22블록 아파트 건설 1공구 현장에서 혹서기 온열질환 예방 캠페인의 하나로 ‘삼계탕 Day’를 진행했다고 21일 밝혔습니다. 이번 행사는 연일 이어지는 무더위 속에서 건설현장 근로자들의 건강한 여름나기를 돕고, 현장 구성원들이 폭염 대응 원칙을 다시 확인하도록",
+    "published_at": "2026-07-21T09:16:38+09:00",
+    "cluster_id": "c840",
+    "publisher": "인더뉴스",
+    "title_clean": "경남기업, 양주 건설현장서 350인분 삼계탕 제공·폭염 안전교육",
+    "summary": "경남기업이 양주 건설현장에서 폭염 대비 삼계탕 제공 및 안전교육을 실시했다. 혹서기 온열질환 예방과 근로자 건강관리를 위한 캠페인의 일환이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T09:24:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32184,21 +32200,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-15T15:50:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "집중호우 대비 나선 건설업계…현장 안전관리 ‘고삐’ - kukinews.com",
-    "link": "https://www.kukinews.com/article/view/kuk202607150107",
-    "description": "15일 고용노동부가 발표한 ‘장마철 건설현장 안전수칙’에 따르면 2023~2025년 여름철 건설현장 사망자는 총 269명으로, 계절 가운데 가장 많았다. 철골공사 도중 빗물에 미끄러져 추락하거나 집중호우로 흙막이 지보공이...",
-    "published_at": "2026-07-15T15:44:00+09:00",
-    "cluster_id": "71ec",
-    "publisher": "kukinews.com",
-    "title_clean": "집중호우 대비 나선 건설업계…현장 안전관리 ‘고삐’",
-    "summary": "고용노동부가 장마철 건설현장 안전수칙을 발표했으며, 2023~2025년 여름철 건설현장 사망자가 269명으로 계절 중 가장 많은 것으로 나타났다. 집중호우로 인한 추락, 흙막이 지보공 붕괴 등 안전사고 위험이 높아지면서 업계의 현장 안전관리 강화가 요구되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-15T15:50:43+09:00",
-    "importance": 4
   }
 ]
