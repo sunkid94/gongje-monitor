@@ -22310,6 +22310,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "서대구역세권 개발 새 전기…특별계획구역 지정으로 민간투자 활로 - kyongbuk.co.kr",
+    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078903",
+    "description": "대구시는 2023년 6월 서대구역 복합환승센터 지정 이후, 건설경기 침체와 민간투자 위축 등의 영향으로 사업 신청자가 없어 관련 규정상 3년의 유효기간이 만료됨에 따라 21일자로 지정이 자동 실효됐다고 설명했다....",
+    "published_at": "2026-07-21T19:10:00+09:00",
+    "cluster_id": "392b",
+    "publisher": "kyongbuk.co.kr",
+    "title_clean": "서대구역세권 개발 새 전기…특별계획구역 지정으로 민간투자 활로",
+    "summary": "서대구역 복합환승센터 사업이 3년 유효기간 만료로 자동 실효됐으나, 특별계획구역 지정을 통해 민간투자 활로를 모색 중이다. 건설경기 침체로 사업 신청자가 없었던 상황에서 규제 완화를 통한 재추진을 준비하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T19:14:57+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "LH, 민간참여 공공주택 금융지원 본격화… 건설사 자금부담 낮춘다 - newscj.com",
     "link": "https://www.newscj.com/news/articleView.html?idxno=3418727",
     "description": "오주헌 LH 공공주택본부장은 \"민간 건설사에 실질적인 도움이 되는 금융지원 모델을 마련하기 위해 노력해 왔다\"며 \"민간과의 협력을 바탕으로 건설경기 회복과 고품질 공공주택의 신속한 공급에 힘쓰겠다\"고 말했다....",
@@ -32229,21 +32245,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T15:30:04+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토교통부, 하반기 3기 신도시 공급 확대와 교통 서비스 개편 나서 - 2news.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lRV91amxPWVdVMzk2WU9ROXJfaVRXTlJfZ1hoc0ZidW5YN1RLMGxoZ05iTXJxSmxKcDhwbVIwWlY2cVMtUkhZNFBOX0YxWTE5bTZIMWl2WW9kSGlaYi02YnV1LXlTa21L?oc=5",
-    "description": "국토교통부가 하반기 주거, 교통, 건설안전, 첨단 모빌리티 등 4대 핵심 과제를 중심으로 한 정책 청사진을 공개했다. 뉴스1에 따르면 김윤덕 국토교통부 장관은 1",
-    "published_at": "2026-07-16T15:01:00+09:00",
-    "cluster_id": "bb16",
-    "publisher": "2news.co.kr",
-    "title_clean": "국토교통부, 하반기 3기 신도시 공급 확대와 교통 서비스 개편 나서",
-    "summary": "국토교통부가 하반기 정책 청사진으로 3기 신도시 공급 확대와 교통 서비스 개편을 추진한다. 주거, 교통, 건설안전, 첨단 모빌리티 등 4대 핵심 과제를 중심으로 정책을 펼칠 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T15:15:43+09:00",
-    "importance": 2
   }
 ]
