@@ -22307,6 +22307,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충북건설협회, 옥천군과 건설산업 활성화 간담회 - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1089459",
+    "description": "건설협회 충북도회는 이 자리에서 △SOC 예산 확대 편성 △지역 중소업체 수주물량 확보 지원 △건설현장 안전 확보를 위한 적정 공사비 및 공사기간 반영 △장기계속공사 간접비 분쟁 방지를 위한 내부지침 마련...",
+    "published_at": "2026-07-21T18:58:00+09:00",
+    "cluster_id": "5eaa",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "충북건설협회, 옥천군과 건설산업 활성화 간담회",
+    "summary": "충북건설협회가 옥천군과 건설산업 활성화를 위한 간담회를 개최했다. SOC 예산 확대, 중소업체 수주 지원, 적정 공사비 반영, 간접비 분쟁 방지 등을 논의하며 건설업계 현안 해결을 위한 협력을 도모했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T19:05:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-16T15:06:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "3기 신도시 조기 착공·광주 반도체 거점 조성…국토부 업무보고 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260715_0003710503",
-    "description": "포용성장을 위해서는 건설현장 안전관리 강화와 불법 하도급·임금체불 근절에 나선다. 화물차 안전운임제 영구화와 적용 품목 확대를 추진하고, 택배 종사자 적정 작업시간을 제도화해 전세버스에도 유가보조금을...",
-    "published_at": "2026-07-16T14:55:00+09:00",
-    "cluster_id": "b27c",
-    "publisher": "newsis.com",
-    "title_clean": "3기 신도시 조기 착공·광주 반도체 거점 조성…국토부 업무보고",
-    "summary": "국토부가 3기 신도시 조기 착공과 광주 반도체 거점 조성 등 포용성장 정책을 추진한다. 건설현장 안전관리 강화, 불법 하도급·임금체불 근절, 화물차 안전운임제 영구화 등을 포함한 업무보고를 실시했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T15:06:02+09:00",
-    "importance": 4
   }
 ]
