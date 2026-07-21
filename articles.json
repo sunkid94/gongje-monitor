@@ -22358,6 +22358,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "LH, 민간참여 공공주택사업 금융지원 설명회 개최…250여명 참석 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3642344",
+    "description": "설명회에서는 주택도시보증공사(HUG)와 공동으로 마련한 민간참여 공공주택사업 참여 확대 및 민간 건설경기 활성화를 위한 새로운 금융지원 상품구조와 운용 방안이 소개됐다. LH는 정부의 주택공급 확대방안(9.7대책)...",
+    "published_at": "2026-07-21T23:00:00+09:00",
+    "cluster_id": "fec7",
+    "publisher": "gukjenews.com",
+    "title_clean": "LH, 민간참여 공공주택사업 금융지원 설명회 개최…250여명 참석",
+    "summary": "LH와 HUG가 민간참여 공공주택사업의 금융지원 상품 및 운용방안을 설명하는 행사를 개최했으며, 정부의 주택공급 확대방안(9.7대책)의 일환으로 민간 건설경기 활성화를 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T23:09:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32229,22 +32245,6 @@
     "title_clean": "공공공사 발주 쏠림·불법 하도급 단속·건설고용 4년째 감소",
     "summary": "건설산업기본법 시행령 개정으로 불법 하도급에 대한 영업정지 기간(4~8개월→8개월~1년)과 과징금이 상향되면서 규제가 강화되고 있다. 동시에 공공공사 발주 편중, 건설고용 4년 연속 감소 등 산업 전반의 어려움이 심화되고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-07-16T16:05:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "스마트건설·건설안전·AI에 투자 집중···건설정책 무게중심 이동 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325345",
-    "description": "스마트건설 연구개발(R&D), 건설현장 안전관리, AI 기술의 국토·도시 분야 활용 등에 수백억원 규모의 재정을 투입하며 생산성 향상과 안전 확보를 동시에 추진하고 있는 것으로 나타났다. 본지가 국토부의 2026년 1...",
-    "published_at": "2026-07-16T15:58:00+09:00",
-    "cluster_id": "ce75",
-    "publisher": "대한전문건설신문",
-    "title_clean": "스마트건설·건설안전·AI에 투자 집중···건설정책 무게중심 이동",
-    "summary": "정부가 스마트건설 R&D, 건설현장 안전관리, AI 기술 활용 등에 수백억원 규모의 재정을 투입하며 건설업 생산성 향상과 안전 확보를 추진 중이다. 2026년 예산을 통해 건설정책의 무게중심을 기술혁신과 안전으로 이동시키고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-16T16:05:27+09:00",
     "importance": 2
   }
