@@ -22359,6 +22359,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "7월 4주 주요 제조업 전망 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41170",
+    "description": "- 중국발 공급 과잉, 국내 건설경기 침체 등으로 계속된 국내 철강 업계 부진이 반전할 가능성이 있다는 분석이 나오고 있음. 중국이 철강 생산량을 줄이고 있고, AI 데이터센터 및 전력망 등 AI 인프라 확대에 필요한...",
+    "published_at": "2026-07-22T01:36:00+09:00",
+    "cluster_id": "212f",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "7월 4주 주요 제조업 전망",
+    "summary": "중국의 철강 생산 감축과 AI 인프라 확대로 국내 철강 업계의 부진이 반전될 가능성이 제기되고 있다. 이는 건설 및 기계설비 수요 증가로 이어져 관련 업계에 긍정적 영향을 미칠 수 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-22T01:50:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32227,22 +32243,6 @@
     "title_clean": "신속하고 충분한 주택공급…3기 신도시 착공 앞당긴다",
     "summary": "정부가 3기 신도시 착공 시점을 앞당기고 비주택용지 용도 전환 등을 추진하여 주택 공급을 확대하는 정책을 추진 중이다. 이는 건설업계에 신규 수주 기회 증가와 건설 시장 확대로 이어질 수 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-16T16:34:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남부발전, 안동빛드림본부 현장 안전점검 시행 - 에너지데일리",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ta3Q4czloOHNYQ2hsZ0FCbXJiNERodTUwRFBRZDl4cmFiRlNZLVlkLWk1MWZMdVFORkZTZzR4T0dvRHIzNjBGX3NuTkRYQXNJOXNnNERURFRCTFRPTnFsei1WZlRaaFFQM29ORGpPNDZIdw?oc=5",
-    "description": "[에너지데일리 송병훈 기자] 한국남부발전(사장 김준동)은 서성재 기술안전부사장이 16일 안동빛드림본부 2호기 건설현장을 방문해 공사 추진 현황과 안전관리 실태를",
-    "published_at": "2026-07-16T16:25:23+09:00",
-    "cluster_id": "97b3",
-    "publisher": "에너지데일리",
-    "title_clean": "남부발전, 안동빛드림본부 현장 안전점검 시행",
-    "summary": "한국남부발전이 안동빛드림본부 2호기 건설현장에 대한 안전점검을 시행했다. 기술안전부사장이 직접 현장을 방문하여 공사 추진 현황과 안전관리 실태를 점검했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-16T16:34:49+09:00",
     "importance": 2
   }
