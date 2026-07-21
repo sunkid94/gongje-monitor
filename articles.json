@@ -22224,6 +22224,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "기계설비산업연구원, ‘AI 시대 데이터센터 건설산업 활성화 포럼’ 간담회 가져 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325446",
+    "description": "대한기계설비산업연구원은 국토교통부 등 산·학·연 관련 기관들과 21일 세종시 소재 네이버 데이터센터 ‘각 세종’을 방문하고 ‘AI 시대 데이터센터 건설산업 활성화 포럼’ 간담회를 개최했다고 밝혔다.이번 현장 방문은 지난 7월8일 산·학·연·관 65개 기관, 120여명의 전문가가 참여해 출범한 AI 데이터센터 건설산업 활성화 포럼의 첫 현장 프로그램이다.'각 세종'은 네이버가 자체 구축해 2023년 11월 준공한 국내 최대 규모의 하이퍼스케일 데이터센터다.이날 방문에는 국토부 김헌정 기획조정실장·김석기 건설정책국장, 기계설비산업연구원",
+    "published_at": "2026-07-21T16:43:30+09:00",
+    "cluster_id": "e0f9",
+    "publisher": "대한전문건설신문",
+    "title_clean": "기계설비산업연구원, ‘AI 시대 데이터센터 건설산업 활성화 포럼’ 간담회 가져",
+    "summary": "대한기계설비산업연구원이 국토교통부 등 산·학·연 기관과 함께 네이버 데이터센터 '각 세종'을 방문하여 'AI 시대 데이터센터 건설산업 활성화 포럼' 간담회를 개최했다. 이는 지난 7월 출범한 포럼의 첫 현장 프로그램으로, AI 데이터센터 건설산업 활성화를 논의했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T16:46:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32228,21 +32244,6 @@
     "summary": "울산항만공사가 여름철 건설현장의 산업재해 예방을 위해 안전 프로그램을 집중 운영한다. 이는 건설현장의 안전 강화 조치로, 업계의 안전 관리 기준 강화를 의미한다.",
     "sentiment": "negative",
     "collected_at": "2026-07-16T11:51:32+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[리스크] 호르무즈 해협 재봉쇄, 건설경기 회복에 찬물 끼얹나?…중동 리스크에 하반기 전망 '먹구름' - 내외뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52UWg2bV8tZHZiUkVTWG0yUkVXLWJPQnVIVUlOVHktLW96STNseE5PM0xMakRMcXlMbTBBZDJqQlZYX2Z3S1NrdFQxbFV2OTVOenFZSDIzMkplYWlhbFE0VXNUd0FFb3FUeXVpUdIBcEFVX3lxTE81a21EU1JqYnptLUtTM3JlajhIOF9ya1BGaEVkQk8xUmVuak5YTW1YQWxRS1VuRk5UNWtFdTA4S3R6V3lYQXJ0QjZTblFMbnV5ZTFGLVpHamY2NjZOVlRhaXM3T2dxQVNTV2hBUUpSOE8?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE52UWg2bV8tZHZiUkVTWG0yUkVXLWJPQnVIVUlOVHktLW96STNseE5PM0xMakRMcXlMbTBBZDJqQlZYX2Z3S1NrdFQxbFV2OTVOenFZSDIzMkplYWlhbFE0VXNUd0FFb3FUeXVpUdIBcEFVX3lxTE81a21EU1JqYnptLUtTM3JlajhIOF9ya1BGaEVkQk8xUmVuak5YTW1YQWxRS1VuRk5UNWtFdTA4S3R6V3lYQXJ0QjZTblFMbnV5ZTFGLVpHamY2NjZOVlRhaXM3T2dxQVNTV2hBUUpSOE8?oc=5\" target=\"_blank\">[리스크] 호르무즈 해협 재봉쇄, 건설경기 회복에 찬물 끼얹나?…중동 리스크에 하반기 전망 '먹구름'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">내외뉴스통신</font>",
-    "cluster_id": "5c6d",
-    "publisher": "내외뉴스통신",
-    "title_clean": "[리스크] 호르무즈 해협 재봉쇄, 건설경기 회복에 찬물 끼얹나?…중동 리스크에 하반기 전망 '먹구름'",
-    "summary": "호르무즈 해협 재봉쇄 위험으로 인한 중동 지역 정세 불안이 고조되고 있다. 이러한 지정학적 리스크가 하반기 건설경기 회복에 부정적 영향을 미칠 수 있을 것으로 우려된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T11:46:37+09:00",
     "importance": 4
   }
 ]
