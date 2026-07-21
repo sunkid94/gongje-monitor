@@ -6394,6 +6394,22 @@
     "event_label": "N/A"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[중부발전 소식] ‘2026년 맞춤형 갑질·갈등 예방 프로그램’ 본격 운영... - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026072119302599022",
+    "description": "두산에너빌리티와 삼성물산이 설계·조달·시공(EPC)에 참여한 바 있다. 빈탄 4 역시 베트남 전력공사(EVN) 100% 직영 발전소이지만 두산에너빌리티가 EPC를 단독 수주해 준공한 곳으로, 한국 기업의 기술력이 이미 검증된...",
+    "published_at": "2026-07-21T22:39:00+09:00",
+    "cluster_id": "33c4",
+    "publisher": "busan.com",
+    "title_clean": "[중부발전 소식] ‘2026년 맞춤형 갑질·갈등 예방 프로그램’ 본격 운영...",
+    "summary": "중부발전이 2026년 맞춤형 갑질·갈등 예방 프로그램을 본격 운영한다. 두산에너빌리티와 삼성물산이 참여한 베트남 발전소 사업 사례를 통해 한국 기업의 기술력을 검증하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-21T22:44:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22340,22 +22356,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-13T15:54:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"래미안 들어서나\"…여의도 목화 재건축, 삼성물산 단독 입찰로 유찰 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/07/13/2026071301920.html",
-    "description": "앞서 지난 5월 열린 현장설명회에는 삼성물산을 비롯해 대우건설, GS건설, 롯데건설, HDC현대산업개발, 제일건설 등 7개 건설사가 참석했지만 실제 입찰에는 삼성물산만 참여했다. 조합은 조만간 재입찰 공고를 내고...",
-    "published_at": "2026-07-13T15:40:00+09:00",
-    "cluster_id": "0b0a",
-    "publisher": "realty.chosun.com",
-    "title_clean": "\"래미안 들어서나\"…여의도 목화 재건축, 삼성물산 단독 입찰로 유찰",
-    "summary": "여의도 목화 재건축 사업에서 삼성물산이 단독 입찰해 유찰됐다. 현장설명회에는 7개 건설사가 참석했으나 실제 입찰 참여는 삼성물산뿐이었으며, 조합은 재입찰을 추진할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-13T15:49:40+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
