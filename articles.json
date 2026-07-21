@@ -22291,6 +22291,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 서대구역세권 특별계획구역 지정…민간투자 물꼬 튼다 - pennmike.com",
+    "link": "https://www.pennmike.com/news/articleView.html?idxno=124110",
+    "description": "대구시가 건설경기 침체로 난항을 겪던 서대구역세권 개발을 정상화하고 민간투자를 유도하기 위해 서대구역 일대를 '특별계획구역'으로 지정한다. 대구시는 복합환승센터부지(4만 4194㎡)를 포함한 서대구역 주변 14만...",
+    "published_at": "2026-07-21T18:50:00+09:00",
+    "cluster_id": "424a",
+    "publisher": "pennmike.com",
+    "title_clean": "대구시, 서대구역세권 특별계획구역 지정…민간투자 물꼬 튼다",
+    "summary": "대구시가 서대구역세권을 특별계획구역으로 지정하여 건설경기 침체로 어려움을 겪던 개발사업을 정상화하고 민간투자를 유도한다. 복합환승센터 등 대규모 인프라 개발로 건설수주 기회 확대가 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T18:55:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-16T15:00:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토교통 서비스 구조 개혁…부동산 불법 행위 근절 [국토부 업무보고] - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1667700/?sc=Naver",
-    "description": "불법하도급을 막기 위해 오는 12월까지 건설산업기본법 개정에 나선다. 등록관청이 아니더라도 해당 공사 지역 지방정부에게 조사 권한을 부여하기 위해서다. 또 오는 9월까지 시행령을 개정해 국토부 장관이...",
-    "published_at": "2026-07-16T14:50:00+09:00",
-    "cluster_id": "5f05",
-    "publisher": "dailian.co.kr",
-    "title_clean": "국토교통 서비스 구조 개혁…부동산 불법 행위 근절 [국토부 업무보고]",
-    "summary": "국토교통부가 불법하도급 근절을 위해 12월까지 건설산업기본법을 개정하고, 9월까지 시행령을 개정할 계획이다. 등록관청이 아닌 지방정부에도 조사 권한을 부여하여 불법 행위 감시를 강화한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T14:56:10+09:00",
-    "importance": 4
   }
 ]
