@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "경남도, 상반기 하도급 수주 773억원 달성 - ulsanpress.net",
+    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=579567",
+    "description": "이 같은 성과는 경남도와 시·군 공무원, 대한전문건설협회, 대한기계설비건설협회 등 10여명으로 구성된 민관 합동 하도급 기동팀의 현장 밀착 활동이 뒷받침했다. 기동팀은 100억원 이상 대형 민간·공공공사와...",
+    "published_at": "2026-07-21T21:42:00+09:00",
+    "cluster_id": "46a9",
+    "publisher": "ulsanpress.net",
+    "title_clean": "경남도, 상반기 하도급 수주 773억원 달성",
+    "summary": "경남도가 상반기 하도급 수주 773억원을 달성했으며, 이는 경남도와 대한기계설비건설협회 등으로 구성된 민관 합동 기동팀의 현장 밀착 활동으로 가능했다. 기동팀은 대형 민간·공공공사 수주 확대에 주력하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-21T21:49:59+09:00",
+    "event_label": "대한기계설비건설협회 경남도 하도급 수주 773억원 달성",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "경남 건설업체, 상반기 하도급 773억원 따냈다 - mhns.co.kr",
     "link": "https://www.mhns.co.kr/news/articleView.html?idxno=753973",
     "description": "경남도는 시·군 공무원과 대한전문건설협회, 대한기계설비건설협회 등과 함께 하도급 기동팀을 꾸려 공사현장을 직접 찾아다니고 있다. 올해 상반기에만 대형 공사현장과 수도권 대기업 등 43곳을 찾았다. 이동...",
@@ -32230,21 +32247,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T16:00:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"하도대 지급기한 단축시 지연꼼수 차단해야\" - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325368",
-    "description": "건설경기 침체로 전문건설업체의 자금 부담이 커지는 가운데 하도급대금을 더 빠르고 안전하게 지급받을 수 있도록 하는 입법 논의가 이어지고 있다. 전문건설업계는 대금 보호를 강화하는 방향에는 공감하면서도 새...",
-    "published_at": "2026-07-16T15:52:00+09:00",
-    "cluster_id": "745b",
-    "publisher": "대한전문건설신문",
-    "title_clean": "\"하도대 지급기한 단축시 지연꼼수 차단해야\"",
-    "summary": "건설경기 침체로 전문건설업체의 자금 부담이 증가하면서 하도급대금 지급기한 단축에 대한 입법 논의가 진행 중입니다. 업계는 대금 보호 강화에는 동의하나 지급기한 단축 시 발생할 수 있는 지연 회피 등 부작용 차단 방안이 필요합니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-16T16:00:21+09:00",
-    "importance": 2
   }
 ]
