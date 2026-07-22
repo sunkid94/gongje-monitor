@@ -22375,6 +22375,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경남레미콘노조 총파업 결의대회… 남부권 사측 단체협약 거부 규탄 - knnews.co.kr",
+    "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1546978",
+    "description": "전국건설노동조합 경남건설기계지부 레미콘지회는 22일 거제시청과 새한레미콘 앞에서 앞에서 ‘총파업 투쟁 결의대회’를 열고 파업투쟁에 나섰다. 레미콘지회 남부권에는 거제·통영·고성이, 동부권에는 창원·밀양...",
+    "published_at": "2026-07-22T21:18:00+09:00",
+    "cluster_id": "5475",
+    "publisher": "knnews.co.kr",
+    "title_clean": "경남레미콘노조 총파업 결의대회… 남부권 사측 단체협약 거부 규탄",
+    "summary": "전국건설노동조합 경남건설기계지부 레미콘지회가 사측의 단체협약 거부에 항의하며 총파업 투쟁 결의대회를 개최했다. 남부권(거제, 통영, 고성) 등 지역별로 파업투쟁을 전개 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T21:25:56+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32230,22 +32246,6 @@
     "title_clean": "TSMC \"AI 메가트렌드 수년간 이어진다\"…美애리조나공장 투자 가속",
     "summary": "TSMC가 미국 애리조나 공장 투자를 가속화하며 AI 메가트렌드가 수년간 지속될 것으로 전망했다. 건설 인력과 인프라 제약은 정부와 협력하여 해결할 계획이며, 최첨단 공정은 대만 중심으로 유지한다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-20T10:48:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "엘엑스글라스, 368억 적자 전환 쇼크...수익성 붕괴의 전말 - 한국신용신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02ME5sOEYzN1pORFcydXNkYUp0OTdUVm1CNUFTSVptYVBQbEZmNWNOcWtGT0JPNm9nclhab3BFUmI2OHBGTHJkYmJpZWFGeFBSVWhIeEEwNmFZMjRGd29fMmJpRnVqMkMtZkE?oc=5",
-    "description": "LX그룹의 유리 전문 제조기업 엘엑스글라스가 지난해 368억 원에 달하는 대규모 영업손실을 기록하며 적자 전환했다. 매출 감소와 원가 부담 가중이라는 이중고에 직",
-    "published_at": "2026-07-20T10:33:03+09:00",
-    "cluster_id": "b61a",
-    "publisher": "한국신용신문",
-    "title_clean": "엘엑스글라스, 368억 적자 전환 쇼크...수익성 붕괴의 전말",
-    "summary": "LX그룹의 유리 제조 전문기업 엘엑스글라스가 지난해 368억 원의 영업손실을 기록하며 적자로 전환했다. 매출 감소와 원가 부담 증가로 수익성이 악화된 상황이다.",
-    "sentiment": "negative",
     "collected_at": "2026-07-20T10:48:18+09:00",
     "importance": 2
   }
