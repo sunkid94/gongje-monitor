@@ -6444,21 +6444,20 @@
     "event_label": "대한기계설비건설협회 회원사 협회 운영 예산 공개 촉구"
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "비례율 관리처분 한계론…\"재건축, 조합원 권리 중심으로 바꿔야\" - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026062218365797539",
-    "description": "한국도시정비학회는 22일 서울 강남구 건설공제조합 본점에서 '주택재건축사업 관리처분방식의 개선방향'을 주제로 학술세미나를 열고 현행 관리처분 제도의 문제점과 개선 방향을 논의했다. 행사에는 이승주...",
-    "published_at": "2026-06-23T07:56:00+09:00",
-    "cluster_id": "d9af",
-    "publisher": "newsway.co.kr",
-    "title_clean": "비례율 관리처분 한계론…\"재건축, 조합원 권리 중심으로 바꿔야\"",
-    "summary": "한국도시정비학회가 주택재건축사업의 관리처분방식 개선방향을 주제로 세미나를 개최했다. 현행 비례율 중심의 관리처분 제도의 문제점을 지적하고 조합원 권리 중심의 개선 방향을 논의했다.",
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 목표가↓…미국 원전 수주는 내년부터-KB - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02833926645517472",
+    "description": "KB증권은 두산에너빌리티(034020)에 대해 미국 신규 원전 기자재 수주 시점이 올해에서 내년으로 늦춰질 것으로 예상된다며 목표주가를 14만원으로 하향 조정했다. 다만 미국 신규 원전 시장은 내년부터 본격화되고, 그...",
+    "published_at": "2026-07-23T07:53:00+09:00",
+    "cluster_id": "3686",
+    "publisher": "edaily.co.kr",
+    "title_clean": "두산에너빌리티, 목표가↓…미국 원전 수주는 내년부터-KB",
+    "summary": "KB증권이 두산에너빌리티의 미국 원전 기자재 수주 시점이 올해에서 내년으로 지연될 것으로 예상하며 목표주가를 하향 조정했다. 다만 미국 신규 원전 시장은 내년부터 본격화될 것으로 전망되고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-06-23T07:57:24+09:00",
-    "importance": 5,
-    "event_label": "한국도시정비학회 주택재건축 관리처분방식 개선 학술세미나 개최"
+    "collected_at": "2026-07-23T08:00:45+09:00",
+    "importance": 3
   },
   {
     "keyword": "대우건설",
@@ -22406,22 +22405,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-14T10:30:24+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "잔칫상 차려졌지만…건설사 눈치게임에 여의도 재건축 '찬바람' - mediapen.com",
-    "link": "https://www.mediapen.com/news/view/1110045",
-    "description": "앞서 지난 5월 열린 현장설명회에는 삼성물산을 비롯해 대우건설, GS건설, 롯데건설 등 7개 대형 건설사가 참석, 경쟁 구도 형성 가능성을 높였지만 실제 참전을 확정 지은 곳은 삼성물산뿐이었다. 목화아파트 재건축은...",
-    "published_at": "2026-07-14T10:16:00+09:00",
-    "cluster_id": "f9e8",
-    "publisher": "mediapen.com",
-    "title_clean": "잔칫상 차려졌지만…건설사 눈치게임에 여의도 재건축 '찬바람'",
-    "summary": "여의도 목화아파트 재건축 현장설명회에 7개 대형 건설사가 참석했으나 실제 입찰에는 삼성물산만 참전하기로 결정했다. 건설사들의 신중한 태도로 재건축 사업이 부진을 겪고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-14T10:19:54+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
