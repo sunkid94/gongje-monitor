@@ -22358,6 +22358,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "다른 쪽 성과급 환호에 묻힌 충북 건설업·자영업 '신음' - cctoday.co.kr",
+    "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233665",
+    "description": "반도체의 역대급 호황과 달리 지역 건설경기나 자영업자들의 살림은 더욱 팍팍해지고 있다.미국과 이란의 전쟁으로 국제유가가 고공행진을 하는 데다 금리 인상, 물가 상승 등의 여파가 그들을 직격하고 있기...",
+    "published_at": "2026-07-22T18:38:00+09:00",
+    "cluster_id": "6225",
+    "publisher": "cctoday.co.kr",
+    "title_clean": "다른 쪽 성과급 환호에 묻힌 충북 건설업·자영업 '신음'",
+    "summary": "반도체 산업의 호황과 달리 충북 지역 건설업과 자영업은 국제유가 상승, 금리 인상, 물가 상승 등으로 경영난을 겪고 있다. 건설경기 악화와 자영업자들의 생활 어려움이 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T18:45:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32235,22 +32251,6 @@
     "summary": "현대모비스·이랜드건설 등 주요 기업들이 폭염과 장마 속에서 협력사와 현장 근로자를 위한 안전·상생 활동을 강화하고 있다. 단순 지원을 넘어 안전, 복지, 기술 경쟁력 등 다각적 지원을 확대 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-20T09:42:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[태안소식] 민선 9기 핵심과제 점검…공약 실행 본격화 외 - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1386963",
-    "description": "이번 교육은 건설현장 안전 전문인력 양성을 위해 마련됐다. 군은 한국서부발전과 협력해 사업을 추진하고 있다. 현재까지 모두 192명의 안전전문감시원을 양성했다. 수료생에게는 구직 등록과 취업 알선도 지원할...",
-    "published_at": "2026-07-20T09:32:00+09:00",
-    "cluster_id": "5a54",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "[태안소식] 민선 9기 핵심과제 점검…공약 실행 본격화 외",
-    "summary": "태안군이 한국서부발전과 협력하여 건설현장 안전 전문인력 양성 사업을 추진 중이며, 현재까지 192명의 안전전문감시원을 양성했다. 수료생들에게 구직 등록과 취업 알선 지원도 함께 제공하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-20T09:38:14+09:00",
     "importance": 2
   }
 ]
