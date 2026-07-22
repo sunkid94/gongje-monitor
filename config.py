@@ -43,6 +43,14 @@ BLOCKED_PUBLISHERS = [
     "티스토리",
 ]
 
+# 대시보드·이메일·푸시에서 숨길 스토리 — 정규화 제목(enrich.normalize_title)으로 매칭.
+# 같은 기사가 다른 구글 URL·다른 매체로 재수집돼도 제목 기준으로 계속 차단된다.
+# 아카이브(archive.json)에 이미 적재된 원본 1건은 유지된다(공개 아카이브 정책). 민감/내부 사유로 수동 등록.
+HIDDEN_STORY_TITLES = [
+    # 2026-07-22 협회장·공제조합운영위원장 겸직 이슈 — 홍보 판단에 따라 대시보드 비노출(아카이브 유지).
+    "허용주 기계설비협회장·공제조합운영위원장 겸직 가능성에 제동…국토부, 법 개정 추진",
+]
+
 # 영문/특수 브랜드 별칭 — AI가 모를 수 있는 것만 (한글 약칭은 AI가 인식).
 # 키는 반드시 COMPANY_KEYWORDS 에 있는 조직명이어야 함 (enrich._build_tracked_orgs 가 COMPANY_KEYWORDS 기준으로 순회).
 COMPANY_ALIASES = {

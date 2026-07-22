@@ -1,7 +1,7 @@
 import logging
 import sys
 
-from article_store import add_articles, filter_duplicates
+from article_store import add_articles, filter_duplicates, is_hidden_story
 from crawler import fetch_new_articles, fetch_trade_only
 from enrich import enrich_articles
 from mailer import send_email
@@ -20,22 +20,32 @@ logger = logging.getLogger(__name__)
 def main(skip_email: bool = False, fast: bool = False) -> None:
     seen = load_seen()
     # fast-path: 직접 전문지 RSS 만(구글/네이버 제외) — 2분 주기 저지연 실행용.
-    new_articles = fetch_trade_only(seen) if fast else fetch_new_articles(seen)
+    fetched = fetch_trade_only(seen) if fast else fetch_new_articles(seen)
 
-    if not new_articles:
+    if not fetched:
         if not fast:
             logger.info("새 기사 없음. 처리 종료.")
         return
 
-    logger.info("새 기사 %d건 발견. enrich 중...", len(new_articles))
-    enriched = enrich_articles(new_articles)
-
-    # 수집한 모든 기사 link 를 seen 에 기록 — 게이트 제외분도 포함.
+    # 수집한 모든 기사 link 를 seen 에 기록 — 게이트/숨김 제외분도 포함.
     # (과거엔 enriched=게이트통과분만 seen 에 넣어 제외 기사를 매 런 재-enrich 했다.
     #  full run(5분)에선 비용이 작았지만 fast-path(2분)+직접RSS는 URL 고정이라 같은
     #  무관 기사를 무한 재판정 → API 비용 폭증. 그래서 fetched 전체를 seen 처리한다.
     #  Google 은 URL 이 회전하므로 재수집 시 새 URL 로 어차피 재평가됨.)
-    save_seen(seen | {a["link"] for a in new_articles})
+    save_seen(seen | {a["link"] for a in fetched})
+
+    # 숨김 스토리(민감/내부 사유, config.HIDDEN_STORY_TITLES) 제외 — enrich 이전에 걸러
+    # 이메일·푸시·대시보드·아카이브 재적재를 모두 건너뛴다(API 비용·아카이브 중복 방지).
+    # 최초 수집분은 이미 아카이브돼 있으므로 원본 기록은 archive.json 에 유지된다.
+    new_articles = [a for a in fetched if not is_hidden_story(a)]
+    if len(new_articles) < len(fetched):
+        logger.info("숨김 스토리 %d건 제외 (대시보드/이메일/푸시 비노출, 아카이브 원본 유지)",
+                    len(fetched) - len(new_articles))
+    if not new_articles:
+        return
+
+    logger.info("새 기사 %d건 발견. enrich 중...", len(new_articles))
+    enriched = enrich_articles(new_articles)
 
     deduped = filter_duplicates(enriched)
     if len(deduped) < len(enriched):

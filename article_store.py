@@ -78,6 +78,22 @@ def load_articles() -> list:
         return []
 
 
+def is_hidden_story(article: dict) -> bool:
+    """대시보드·이메일·푸시에서 숨길 스토리인지 — config.HIDDEN_STORY_TITLES 와 정규화 제목 비교.
+
+    같은 기사가 다른 URL·매체로 재수집돼도 계속 걸린다(발행처 표기·문장부호·대소문자 무시).
+    아카이브 적재 여부와는 무관 — 호출부(main)가 아카이브 이전 단계에서 이 필터를 적용한다.
+    """
+    from enrich import normalize_title  # 지연 import (enrich ↔ article_store 순환 회피)
+    from config import HIDDEN_STORY_TITLES
+
+    title = article.get("title") or ""
+    norm = normalize_title(title) if title else ""
+    if not norm:
+        return False
+    return any(norm == normalize_title(h) for h in HIDDEN_STORY_TITLES)
+
+
 def filter_duplicates(new_articles: list) -> list:
     """기존 저장본 + 신규 배치에서 중복 제거.
 
