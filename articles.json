@@ -22409,6 +22409,37 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "정부, 건설 대금 체불 원천 차단…발주자 직접지급제 도입 - electimes.com",
+    "link": "https://www.electimes.com/news/articleView.html?idxno=370588",
+    "description": "이는 지난 5월 법제사법위원회를 통과한 '건설산업기본법' 개정안에 맞춘 조치로, 공공·민간 건설현장 모두에 발주자 직접지급제가 도입된다. 이를 통해 임금 및 하도급 대금 체불을 구조적으로 차단한다는 방침이다....",
+    "published_at": "2026-07-23T02:40:00+09:00",
+    "cluster_id": "84ef",
+    "publisher": "electimes.com",
+    "title_clean": "정부, 건설 대금 체불 원천 차단…발주자 직접지급제 도입",
+    "summary": "정부가 건설산업기본법 개정을 통해 발주자 직접지급제를 공공·민간 건설현장에 도입한다. 이는 임금 및 하도급 대금 체불을 구조적으로 차단하기 위한 조치이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T02:51:13+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“전문건설업의 특성에 맞는 실천적인 안전문화 패러다임 전환 시급” - 안전정보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5feXhtNUd2ZlNyQU9JSWx6SnpNbTdYeWU0RGFJaUJsbVRkaUZKM2JBcHhnTy1faHFMSU9nOHp4X21LdDdwN1hDNmVDcEJ0bnRVelkxdGx6NWhIWVFfUGJUU0wzdWh0VnduNFRV?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5feXhtNUd2ZlNyQU9JSWx6SnpNbTdYeWU0RGFJaUJsbVRkaUZKM2JBcHhnTy1faHFMSU9nOHp4X21LdDdwN1hDNmVDcEJ0bnRVelkxdGx6NWhIWVFfUGJUU0wzdWh0VnduNFRV?oc=5\" target=\"_blank\">“전문건설업의 특성에 맞는 실천적인 안전문화 패러다임 전환 시급”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
+    "cluster_id": "a364",
+    "publisher": "안전정보",
+    "title_clean": "“전문건설업의 특성에 맞는 실천적인 안전문화 패러다임 전환 시급”",
+    "summary": "전문건설업의 안전사고 문제를 해결하기 위해 업계 특성에 맞는 안전문화 개선이 필요하다는 지적. 기존 안전 패러다임을 전환하여 실천적인 안전관리 체계 구축을 강조.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-23T02:51:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32214,38 +32245,6 @@
     "summary": "경기도 공공건설지원센터가 올해 상반기 공공건설·건축사업 사전검토 처리기간을 법정 기준 30일보다 평균 5.6일 단축했다. 총 110건(사업계획 사전검토 87건, 자문 23건)을 지원하며 행정 효율성을 개선했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-20T12:48:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "포인트웍스, 'NextCon 2026' 참가…FARO 3D 스캐닝 솔루션 선보여 - cbci.co.kr",
-    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=590274",
-    "description": "스마트건설, 건설자동화·로보틱스, 피지컬 AI, 스마트빌딩·시티, 스마트 안전 등 건설산업 관련 기술과 솔루션이 소개될 예정이다. 행사 기간에는 빌드콘써밋을 비롯해 구매상담회, 수출상담회, 네트워킹...",
-    "published_at": "2026-07-20T12:30:00+09:00",
-    "cluster_id": "6b34",
-    "publisher": "cbci.co.kr",
-    "title_clean": "포인트웍스, 'NextCon 2026' 참가…FARO 3D 스캐닝 솔루션 선보여",
-    "summary": "포인트웍스가 NextCon 2026에 참가하여 FARO 3D 스캐닝 솔루션을 선보인다. 행사에서는 스마트건설, 건설자동화·로보틱스, 피지컬 AI 등 건설산업 관련 신기술과 솔루션이 소개되며, 구매상담회와 네트워킹 행사가 진행될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T12:38:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "티시스 골프사업본부, 안전보건경영 국제표준 'ISO 45001' 인증 획득 - 신아일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYSkJVNTVCMm1jb0dhVzUxVG0wMW1IT25mUEZIVjl3MmhIYWtrel9aSGVwNUlDQU9vVjJ0TUVpa1hjM0tjb0RmbVd6ODYxb0JTTnJSWEhfOXVfQm40OUU3MXgzaGpBVFkzYWJrQktaaTU?oc=5",
-    "description": "태광그룹 레저·인프라 계열사 티시스는 골프사업본부가 국제 안전보건경영시스템 ‘ISO 45001’ 인증을획득했다고 20일 밝혔다. ISO 45001은 국제표준화기구",
-    "published_at": "2026-07-20T11:47:29+09:00",
-    "cluster_id": "dd27",
-    "publisher": "신아일보",
-    "title_clean": "티시스 골프사업본부, 안전보건경영 국제표준 'ISO 45001' 인증 획득",
-    "summary": "태광그룹 계열사 티시스의 골프사업본부가 국제 안전보건경영시스템 'ISO 45001' 인증을 획득했다. 이는 안전보건 관리 체계를 국제 표준에 맞춰 구축한 것으로, 기업의 안전경영 강화를 의미한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-20T12:08:21+09:00",
     "importance": 2
   }
 ]
