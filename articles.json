@@ -22258,6 +22258,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설대금 체불 막는다···발주자 직접지급 시스템 2028년 도입 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325462",
+    "description": "정부가 건설공사 대금체불을 막기 위해 발주자가 공사대금과 하도급대금, 근로자 임금 등을 직접 지급하는 차세대 전자대금지급시스템<개요도>을 구축한다. 기존 국가 전자대금지급시스템인 하도급지킴이를 전면 개편해 국토교통부로 이관하고, 2028년부터 시범 운영에 들어갈 계획이다.정부는 22일 비상경제본부 회의 겸 경제·산업경쟁력강화 관계장관회의에서 이 같은 내용을 담은 건설공사 불법하도급·체불방지를 위한 전자대금지급시스템 구축·운용계획을 발표했다.건설공사는 발주자에서 원수급인과 하수급인, 근로자로 이어지는 다단계 도급구조로 자금 흐름 관리",
+    "published_at": "2026-07-22T13:20:07+09:00",
+    "cluster_id": "89b2",
+    "publisher": "대한전문건설신문",
+    "title_clean": "건설대금 체불 막는다···발주자 직접지급 시스템 2028년 도입",
+    "summary": "정부가 건설공사 대금체불 문제 해결을 위해 발주자가 공사대금과 하도급대금, 근로자 임금을 직접 지급하는 차세대 전자대금지급시스템을 2028년부터 도입할 계획이다. 기존 하도급지킴이 시스템을 국토교통부로 이관하고 전면 개편하여 다단계 도급구조의 자금 흐름 관리를 투명화하겠다는 것이 핵심이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T13:22:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32222,22 +32238,6 @@
     "summary": "이탈리아 로마의 살인적 폭염으로 건설 노동자와 배달 라이더들이 파업을 선언했다. 라치오주의 오후 12시30분~4시 작업 금지 명령이 배달 앱의 미시행으로 제대로 지켜지지 않아 노동자들의 불만이 고조되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-07-17T11:28:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염에 멈추면 손실, 강행하면 위험…건설현장 `안전 딜레마` 깊어진다 - 매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BaXBGcjljUmhqSG9mQWdaemdTVHZCT3lPTU5oQ1RTRlF5enZSWFh1aGZFempyYVRZY2pxekV5YVRvejMtUXRtbTVCVDlBYTlXUVlfdE5Lbnc1Q21XNlB6UWVn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BaXBGcjljUmhqSG9mQWdaemdTVHZCT3lPTU5oQ1RTRlF5enZSWFh1aGZFempyYVRZY2pxekV5YVRvejMtUXRtbTVCVDlBYTlXUVlfdE5Lbnc1Q21XNlB6UWVn?oc=5\" target=\"_blank\">폭염에 멈추면 손실, 강행하면 위험…건설현장 `안전 딜레마` 깊어진다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-    "published_at": "2026-07-17T11:00:00+09:00",
-    "cluster_id": "79ad",
-    "publisher": "매일신문",
-    "title_clean": "폭염에 멈추면 손실, 강행하면 위험…건설현장 `안전 딜레마` 깊어진다",
-    "summary": "폭염으로 인해 건설현장이 공사 중단 시 경제적 손실과 강행 시 안전 위험 사이의 딜레마에 직면했다. 업계는 작업 중단으로 인한 공기 지연과 비용 증가 압박과 근로자 안전 보호 사이에서 어려운 선택을 강요받고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-17T11:03:14+09:00",
     "importance": 2
   }
 ]
