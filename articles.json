@@ -22392,6 +22392,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설업계 노동조합원과 노동자들을 대상으로 하는 의미 있는 활동 시리즈. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmE4cUdxSngxX2lnLXlITzNNWTRzZjBtU3FrMk9zd3dLSk1WZnZVZjNLbjEtRVJKRVNZY3ExN0tLbnNkYmt0QlI3SmRicDVueHJucEY5TjNfT1E4UVpLRWJOR0t2QUN0dDNNb2loYU9NdnU4NnhOODA4NG4yNFlVbTNrSTAtYXVSMVZsejJHVGVTRVNKS2QxY095cmk3VEE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmE4cUdxSngxX2lnLXlITzNNWTRzZjBtU3FrMk9zd3dLSk1WZnZVZjNLbjEtRVJKRVNZY3ExN0tLbnNkYmt0QlI3SmRicDVueHJucEY5TjNfT1E4UVpLRWJOR0t2QUN0dDNNb2loYU9NdnU4NnhOODA4NG4yNFlVbTNrSTAtYXVSMVZsejJHVGVTRVNKS2QxY095cmk3VEE?oc=5\" target=\"_blank\">건설업계 노동조합원과 노동자들을 대상으로 하는 의미 있는 활동 시리즈.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+    "cluster_id": "44b7",
+    "publisher": "Vietnam.vn",
+    "title_clean": "건설업계 노동조합원과 노동자들을 대상으로 하는 의미 있는 활동 시리즈.",
+    "summary": "건설업계 노동조합원과 노동자들을 위한 의미 있는 활동 시리즈가 진행 중이다. 구체적인 활동 내용이나 영향에 대한 상세 정보는 제시되지 않았다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T01:41:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32230,22 +32245,6 @@
     "summary": "충남 태안군이 지역 구직자의 건설현장 취업을 지원하기 위해 안전전문감시원 하반기 교육과정을 운영하고 수료식을 개최했다. 한국서부발전 태안발전본부 등이 참석하여 건설현장 안전감시 인력 양성에 협력하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-20T12:03:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "XGRIDS 한국 총판 '티쓰리솔루션', NextCon 2026 참가···디지털트윈 기... - enetnews.co.kr",
-    "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52553",
-    "description": "한편 티쓰리솔루션이 참가하는 이번 넥스트콘(NextCon)은 대한민국 건설·건축 전문 전시회 '코리아빌드위크' 및 '호반 동반성장+건설엑스포'와 함께 개최되며, 스마트건설, 건설자동화·로보틱스, 피지컬 AI...",
-    "published_at": "2026-07-20T11:56:00+09:00",
-    "cluster_id": "9e62",
-    "publisher": "enetnews.co.kr",
-    "title_clean": "XGRIDS 한국 총판 '티쓰리솔루션', NextCon 2026 참가···디지털트윈 기...",
-    "summary": "XGRIDS 한국 총판 티쓰리솔루션이 NextCon 2026에 참가하여 디지털트윈 기술을 선보인다. 스마트건설, 건설자동화·로보틱스 등 첨단기술이 집중된 전시회로 건설업계의 기술 혁신 추진을 반영한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T11:58:24+09:00",
     "importance": 2
   }
 ]
