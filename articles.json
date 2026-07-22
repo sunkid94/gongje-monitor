@@ -22206,6 +22206,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "천안, 공공건설현장 긴급 안전점검. 호우·폭염 대응 강화 - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9abEI2c05OMlN0OWVHOWRIU0ZoVGw3MFhLNnJBS1FYa29sbW1iMzExWHd6RjVCc1JKTmFaeGxrN19ONWhtdm1MUG5fV1Bod0xySmFrdFoxU1JUM3VXd21GNl9SODdMVDFXNXU1MmZB?oc=5",
+    "description": "(천안=국제뉴스) 이원철 기자 = 22일 천안시는 여름철 집중호우와 폭염으로 인한 안전사고를 예방하기 위해 주요 공공건설현장을 대상으로 특별 안전점검을 실시했다고 밝혔다.이번 점검은 최근 국지성 집중호우와 폭염이 반복되면서 건설현장의 재해 위험이 커짐에 따라 침수와 붕괴 등 각종 사고를 사전에 차단하고 근로자 안전을 확보하기 위해 마련됐다.시는 공사 현장을 방문해 가설구조물의 안전성을 비롯해 추락·낙하물 방지시설 설치 상태를 확인하고, 배수시설과 임시 배수로, 침수 예방시설 등 수해 대응체계를 중점 점검했다.또 폭염 속 작업이 이어",
+    "published_at": "2026-07-22T09:35:27+09:00",
+    "cluster_id": "c0ce",
+    "publisher": "gukjenews.com",
+    "title_clean": "천안, 공공건설현장 긴급 안전점검. 호우·폭염 대응 강화",
+    "summary": "천안시가 여름철 집중호우와 폭염으로 인한 건설현장 안전사고 예방을 위해 공공건설현장에 대한 특별 안전점검을 실시했다. 침수·붕괴 등 재해 위험에 대비해 가설구조물, 배수시설, 추락 방지시설 등을 중점 점검하고 근로자 안전을 확보하는 데 중점을 두었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T09:45:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32216,22 +32232,6 @@
     "summary": "건축용 데크플레이트 전문기업 덕신EPC가 장학생 건축학과 학생들을 대상으로 산업안전보건공단 인정 안전체험교육을 실시했다. 미래 건축인의 안전역량 강화와 건설 현장의 안전문화 확산을 위한 기업의 사회공헌활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-16T17:59:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 3기신도시 조기 착공…도심 정비사업 지원도 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50876",
-    "description": "국토교통부는 주택 공급을 위해 3기신도시의 착공 시점을 당기고, 비주택용지의 용도 전환 등 가용 수단을 최대한 동원한다.국토부는 16일 청와대 영빈관에서 열린 부처 업무보고에서 이재명 대통령에게 이같은 하반기 주요 과제 추진 계획을 보고했다. 특히 신속하고 충분한 주택 공급과 주거 안전망 제공을 발표했다.구체적으로 보면, 정부는 택지 조성 절차를 최대한 줄여 3기신도시 등 주요 지구 착공 시기를 1∼2년 단축하고, 지난 1·29 대책에서 발표한 과천, 태릉 등 도심 우수 입지 공급을 신속히 추진하기로 했다.이주 지원, 절차 간소화",
-    "published_at": "2026-07-16T17:47:27+09:00",
-    "cluster_id": "e4cd",
-    "publisher": "기계설비신문",
-    "title_clean": "국토부, 3기신도시 조기 착공…도심 정비사업 지원도",
-    "summary": "국토교통부가 주택 공급 확대를 위해 3기신도시 착공을 1~2년 단축하고 도심 정비사업을 신속 추진한다. 택지 조성 절차 간소화와 이주 지원 등으로 건설 공사 확대를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T17:54:04+09:00",
     "importance": 2
   }
 ]
