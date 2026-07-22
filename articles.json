@@ -22409,6 +22409,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "'건설 발주자 직접지급' 2028년 시범운영 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235834",
+    "description": "하도급거래 공정화에 관한 법률(하도급법), 건설산업기본법, 근로기준법 개정안으로, 당 을지로위원회 소속인 민병덕·염태영·박홍배 민주당 의원이 각각 법안을 발의했다. 3법 중 핵심이라 볼 수 있는 건설산업기본법...",
+    "published_at": "2026-07-23T06:34:00+09:00",
+    "cluster_id": "bd30",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "'건설 발주자 직접지급' 2028년 시범운영",
+    "summary": "민주당 의원들이 건설산업기본법 등 3개 법안을 발의하여 2028년부터 건설 발주자의 하도급업체 직접지급 시범운영을 추진 중입니다. 이는 하도급거래 공정화와 근로자 보호를 목표로 합니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T06:40:57+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "우리 부부는 아이를 갖기로 했지만 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235857",
+    "description": "롯데건설 노동자들은 지난 2012년부터 육아휴직 요건을 충족하면 별도의 신청이나 회사의 결재 없이 자동으로 육아휴직을 사용할 수 있다. 포스코는 육아휴직의 휴직이라는 단어가 육아보다는 '쉰다'라는 의미에...",
+    "published_at": "2026-07-23T06:34:00+09:00",
+    "cluster_id": "eeb9",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "우리 부부는 아이를 갖기로 했지만",
+    "summary": "롯데건설과 포스코 등 대기업들이 육아휴직 제도를 자동 승인 및 개선하여 직원들의 일-가정 양립을 지원하고 있다. 건설업계에서도 선진적인 인사 정책을 도입하여 인재 확보 및 근무 환경 개선을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T06:40:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32206,38 +32238,6 @@
     "summary": "우미건설이 LH가 추진하는 서울 용마터널 인근 도심공공주택복합사업 수주에 한걸음 가까워졌다. 대규모 공공주택 프로젝트 수주 가능성이 높아지면서 건설업계에 긍정적인 신호를 전달하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-20T14:58:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "AI시대 데이터센터 건설산업 활성화 포럼 8일 발대 - 대한건설기계신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wNEx1TW93V3pWdGt4bktacEt1SmdsOXZFa3RNWV9JY2wtaGtPZ0xVTjhWUzUwT1BsVkNKNVpfMnJ4NzJQcGFJN1ZrdXFIMnVMblRUZVNDUU03ejhweGxyUXFBVkphdkdB?oc=5",
-    "description": "AI·클라우드 확산에 따라 급성장하는 데이터센터 건설수요에 대응하고, 이를 고부가가치 해외시장 창출의 핵심동력으로 육성하기 위한 포럼이 발대했다. 국토교통부는 지",
-    "published_at": "2026-07-20T14:36:04+09:00",
-    "cluster_id": "8ffa",
-    "publisher": "대한건설기계신문",
-    "title_clean": "AI시대 데이터센터 건설산업 활성화 포럼 8일 발대",
-    "summary": "AI·클라우드 확산으로 급성장하는 데이터센터 건설수요에 대응하기 위해 국토교통부가 주도적으로 포럼을 발대했다. 이는 건설산업의 고부가가치 해외시장 창출을 위한 핵심동력으로 육성하려는 정부 차원의 지원책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T14:48:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "여기서잠깐/ 두뇌 얻은 스마트건설기계…AX·RX ‘교차’의 미학 - 대한건설기계신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBucVVEWm56cmZ1UFdSakJUUmVKWFdCMVphOU90Y1N6dkVMTEc5SkVhM1BRNXFqcEdvM0pvaFFZdndya3B2YjJZQ01BMUIxN3dyc1V0ZWNHcUF3YWhCRTNVWEFodTRnVGN6?oc=5",
-    "description": "최근 건설기계 업계뿐 아니라 전반적인 글로벌 업계의 카탈로그나 신제품 발표회를 보면 AX(AI Transformation/인공지능 전환)와 RX(Robot Tra",
-    "published_at": "2026-07-20T14:29:54+09:00",
-    "cluster_id": "87d6",
-    "publisher": "대한건설기계신문",
-    "title_clean": "여기서잠깐/ 두뇌 얻은 스마트건설기계…AX·RX ‘교차’의 미학",
-    "summary": "건설기계 업계가 AI 전환(AX)과 로봇 기술(RX)을 결합한 스마트건설기계 개발을 추진 중이다. 인공지능과 로봇 기술의 융합을 통해 건설기계의 지능화 및 자동화가 진행되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T14:48:36+09:00",
     "importance": 2
   }
 ]
