@@ -22409,6 +22409,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[패트롤] 경기도-경기주택도시공사 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20260723029005129",
+    "description": "경기도는 22일 도청 재난상황실에서 김규식 안전관리실장 주재로 '여름철 풍수해·폭염 등 대비 도-시군 합동회의(제12차 TF)'를 열고 호우 대비 재해예방, 건설노동자 폭염대책, 다중운집 행사 안전관리, 내수면 물놀이...",
+    "published_at": "2026-07-23T03:24:00+09:00",
+    "cluster_id": "3b4e",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤] 경기도-경기주택도시공사",
+    "summary": "경기도가 여름철 풍수해·폭염·안전사고 대비를 위해 도-시군 합동 TF회의를 개최했다. 호우 재해예방, 건설노동자 폭염대책, 다중운집 행사 안전관리 등을 논의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T03:31:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32226,22 +32242,6 @@
     "publisher": "thefirstmedia.net",
     "title_clean": "엔젤스윙, 'NextCon 2026' 참가…드론 스테이션 기반 스마트건설 DX 운영...",
     "summary": "드론 기반 디지털 트윈 플랫폼 기업 엔젤스윙이 'NextCon 2026'에 참가하여 드론 스테이션 기반 스마트건설 DX 솔루션을 선보인다. 건설 현장의 데이터 자동화와 본사 중심의 원격 관리 체계를 통해 건설 산업의 디지털화를 추진하는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T13:29:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "황운하 의원 , 국토교통부로부터 ｢ CTX( 충청권 광역급행철도 ) ｣ 추진현황 보고받아 “CTX 서대전역 연장 및 세종 시내 역사 건설 방안 ” 논의 - 유성매거진",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02RDJmMkJZb1FPV1NERzNmb3hGRlJsbi1HLU5UOHdKZUM0VFZsSy10clo5dl9xR096WHp4YUVfVWV1bjdKNFZMZXZtcTVvRW1QdUo3UFpURzJnbENtbWRpSU5zSHhjc2M?oc=5",
-    "description": "황운하 국회의원 ( 국토교통위원회 , 조국혁신당 , 재선 ) 이 16 일 ( 목 ) 국토교통부로부터 「 충청권 광역급행철도 (CTX) 」 사업 추진현황에 대한 업무보고를 받고 , 세종 도심 교통대책과 대전 서대전역 연장 등 지역 현안을 짚었다CTX 는 청주국제공항 ~ 정부대전청사 구간",
-    "published_at": "2026-07-20T13:00:00+09:00",
-    "cluster_id": "f35f",
-    "publisher": "유성매거진",
-    "title_clean": "황운하 의원 , 국토교통부로부터 ｢ CTX( 충청권 광역급행철도 ) ｣ 추진현황 보고받아 “CTX 서대전역 연장 및 세종 시내 역사 건설 방안 ” 논의",
-    "summary": "황운하 의원이 국토교통부로부터 충청권 광역급행철도(CTX) 사업 추진현황을 보고받고, 서대전역 연장 및 세종 시내 역사 건설 방안을 논의했다. CTX 사업의 확대 추진으로 관련 건설 공사 기회가 증가할 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-20T13:29:01+09:00",
     "importance": 2
