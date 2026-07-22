@@ -6411,6 +6411,22 @@
     "event_label": "한국도시정비학회 주택재건축 관리처분방식 개선 학술세미나 개최"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "이영조 중부발전 사장, 함안복합발전소 건설현장 특별 안전점검 - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026072221031961071",
+    "description": "이와 관련, 이영조 사장은 건설현장 내 각종 재난안전사고 예방을 위해 구축된 ‘스마트 안전센터’ 개소식에 참석해 공사 감독원 및 두산에너빌리티, 금호건설 등 시공사 관계자들을 격려했다. 특히 근로자의 쓰러짐...",
+    "published_at": "2026-07-22T22:43:00+09:00",
+    "cluster_id": "8216",
+    "publisher": "busan.com",
+    "title_clean": "이영조 중부발전 사장, 함안복합발전소 건설현장 특별 안전점검",
+    "summary": "이영조 중부발전 사장이 함안복합발전소 건설현장을 방문해 안전점검을 실시했다. 스마트 안전센터 개소식에 참석해 시공사 관계자들을 격려하며 건설현장의 재난안전사고 예방에 주력하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-22T22:51:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22359,20 +22375,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "롯데건설, 고용노동부 안양지청과 '건설안전' 업무협약 체결 - mt.co.kr",
-    "link": "https://www.mt.co.kr/estate/2026/07/14/2026071409442728124",
-    "description": "롯데건설이 고용노동부 안양지청과 함께 건설업계 근로자들의 안전보건 역량 강화 및 산업재해 예방 지원에 나선다. 롯데건설이 지난 13일 경기도 오산시 롯데인재개발원 내 안전체험센터 'Safety ON'에서 고용노동부...",
-    "published_at": "2026-07-14T10:01:00+09:00",
-    "cluster_id": "151b",
-    "publisher": "mt.co.kr",
-    "title_clean": "롯데건설, 고용노동부 안양지청과 '건설안전' 업무협약 체결",
-    "summary": "롯데건설이 고용노동부 안양지청과 건설안전 업무협약을 체결하여 근로자 안전보건 역량 강화 및 산업재해 예방을 지원한다. 안전체험센터 'Safety ON'을 통해 건설업계 전반의 안전 수준 향상을 도모하고 있다.",
+    "title": "국토부, 여름 휴가철 맞아 특별교통대책 시행 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nV2lwUzdRZF9BNHFZRHhjQW9FaW96SkJ4LXlGSFkyS19idmVkX014OGdHanN4YWczZm9SenB5QnJRZFJGOXJ1RjVCejBBUF9kWmFERkM3bFhTM1Z1WUI3ZVZlNE4?oc=5",
+    "description": "국토교통부가 여름 휴가철을 맞아 이달 25일부터 다음달 10일까지 17일간을 특별교통대책 시행 기간으로 지정한다고 22일 밝혔습니다. 국토부는 이 기간 동안 ▲원활한 이동 ▲교통안전 강화 ▲대중교통 수송력 확대 등을 중점 추진합니다. 한국도로공사는 특별교통대책 기간 동안 하루 평균 614만명이 이동할 것으로 내다봤습니다. 우선, 이용객 증가에 대비해 버스와 철도 운행을 확대합니다. 버스는 운행 횟수를 3만3746회 추가해 공급 좌석을 110만6000석 늘리고, 철도는 151회 증편해 공급 좌석을 9만7000석 확대할 예정입",
+    "published_at": "2026-07-22T21:00:55+09:00",
+    "cluster_id": "e96e",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "국토부, 여름 휴가철 맞아 특별교통대책 시행",
+    "summary": "국토교통부가 여름 휴가철(8월 25일~9월 10일)에 특별교통대책을 시행한다고 발표했습니다. 버스와 철도 운행을 확대하여 대중교통 수송력을 늘리고 교통안전을 강화할 계획입니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-14T10:10:37+09:00",
-    "importance": 3
+    "collected_at": "2026-07-22T22:51:09+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32230,22 +32246,6 @@
     "summary": "조달청이 2026년 7월 20~24일 시설공사분야 51건 3,534억 원 규모의 공사입찰을 집행할 예정이다. 이 중 45건(52%, 1,847억 원)이 지역제한 입찰 또는 지역의무 공동도급 대상으로 지역업체의 수주 기회를 보장하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-20T11:03:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[속보] 태평동5구역 조합 “비대위 의혹 제기 사실과 달라…사업 정상화... - cc.newdaily.co.kr",
-    "link": "https://cc.newdaily.co.kr/site/data/html/2026/07/20/2026072000086.html",
-    "description": "조합 관계자는 “건설경기 침체로 대형 건설사 확보 자체가 쉽지 않은 상황에서 어렵게 시공사 협의를 마무리 단계까지 끌어왔다”며 “지금 갈등이 확대되면 사업 일정 전체가 흔들릴 수 있다”고 우려했다. 기존...",
-    "published_at": "2026-07-20T10:50:00+09:00",
-    "cluster_id": "cb33",
-    "publisher": "cc.newdaily.co.kr",
-    "title_clean": "[속보] 태평동5구역 조합 “비대위 의혹 제기 사실과 달라…사업 정상화...",
-    "summary": "태평동5구역 조합이 비대위 의혹을 부인하며 시공사 협의를 정상화하겠다고 발표했다. 건설경기 침체 속에서 대형 건설사 확보가 어려운 상황에서 사업 진행을 우려하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-20T10:53:08+09:00",
     "importance": 2
   }
 ]
