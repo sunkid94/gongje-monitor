@@ -6275,6 +6275,22 @@
     "event_label": "건설공제조합 관계자 아동도서 기증"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[특징주] 두산에너빌리티, 대만發 수요 우려에도 강세…\"가스터빈 2029년까지 풀부킹\" - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JeGdNM2dkMHBCNGp6UW9xc1gyb290TF9xckZpNFlhejRBNlNNaktOb1dFOGJSRV9xeEI4OUpYc0VHT0loSHA0Q1JLV0s0WFZpQ2ZsTGRvVdIBXEFVX3lxTE1nc0xJVkpnMEtWZ0NEZi1WdVRjMW5WNXVDY01lNXl4WmEzanRwdzZXZGpzWkpvaXpFTDdZbVhmMlByczRzRmlfaC0yVjJvbUJzd3lUQkx0XzF1aDRL?oc=5",
+    "description": "두산에너빌리티가 가스터빈 수요 지속성에 대한 일부 해외 투자자의 우려에도 견조한 수주 가시성이 부각되며 상승하고 있다. 유안타증권은 대만 기관투자자들이 가스터빈 이중예약 가능성, 하이퍼스케일러 투자 축소, 2030년 이후 수요...",
+    "published_at": "2026-07-22T10:35:24+09:00",
+    "cluster_id": "9530",
+    "publisher": "tokenpost.kr",
+    "title_clean": "[특징주] 두산에너빌리티, 대만發 수요 우려에도 강세…\"가스터빈 2029년까지 풀부킹\"",
+    "summary": "두산에너빌리티가 견조한 가스터빈 수주 가시성으로 상승세를 보이고 있으며, 2029년까지 풀부킹 상태를 유지할 것으로 전망된다. 해외 투자자들의 수요 지속성 우려에도 불구하고 강한 수주 파이프라인이 긍정적 평가를 받고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-22T12:10:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22225,19 +22241,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우·호반, 해외영토 확장…거점 중심 미래성장사업 다각화 - 뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uWDI1T1hXX0JVSGJRR0pfT1BwWVplMnN3YUJacWtBbVVfMkxKNmk1ZGM5N0VHcGd6RUpIZ3BueW9xM2pnVjNXdWRXbmRwbW1wbGliUXdTWUVrTHNYUUE?oc=5",
-    "description": "[뉴스투데이=김성현 기자] 국내 건설사들이 글로벌 신시장 개척과 미래 성장 동력 확보를 위해 해외 현장경영 행보를 가속하고 있다. 대우건설과 호반그룹은 각각 아시아와 오세아니아의 핵심 거점 국가를 방문해 현지 정·관계 인사 및 글로벌 파트너사들과 만나 에너지 인프라와",
-    "cluster_id": "e53b",
-    "publisher": "뉴스투데이",
-    "title_clean": "대우·호반, 해외영토 확장…거점 중심 미래성장사업 다각화",
-    "summary": "대우건설과 호반그룹이 아시아·오세아니아 거점 국가를 방문하여 해외 현장경영을 강화하고 있다. 에너지 인프라 등 미래 성장사업 다각화를 통해 글로벌 신시장 개척을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T19:25:09+09:00",
-    "importance": 2
+    "title": "겨우 숨 돌리나 했더니…'레미콘 멈춤'에 또 멈춰 선 건설현장 - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=312139",
+    "description": "14일 한국건설산업연구원(건산연) 발표에 따르면, 올해 6월 건설경기실사지수(CBSI)는 전월 대비 3.0포인트 상승한 74.5로 집계됐다. CBSI는 100을 기준으로 이보다 낮으면 경기를 비관적으로 보는 기업이 많음을, 높으면...",
+    "published_at": "2026-07-22T11:56:00+09:00",
+    "cluster_id": "2f23",
+    "publisher": "thepublic.kr",
+    "title_clean": "겨우 숨 돌리나 했더니…'레미콘 멈춤'에 또 멈춰 선 건설현장",
+    "summary": "6월 건설경기실사지수가 74.5로 소폭 상승했으나, 레미콘 공급 차질로 건설현장이 다시 차질을 겪고 있다. 건설업계가 경기 회복 조짐을 보이지만 자재 수급 문제로 인한 구조적 어려움이 지속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T12:10:57+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32221,22 +32238,6 @@
     "summary": "계룡건설산업의 PF우발채무가 6172억원으로 확대되었으며, 자기자본의 61%에 달하는 수준으로 증가했다. 한기평은 단기 상환 부담은 제한적이나 수원·마곡 등 일부 사업장에 대한 모니터링이 필요하다고 지적했다.",
     "sentiment": "negative",
     "collected_at": "2026-07-17T08:08:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "취약 근로자 동참 유도가 제도 정착 ‘핵심키’ - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325382",
-    "description": "위험성평가 제도의 궁극적인 목적은 현장의 모든 구성원이 유해·위험요인을 스스로 찾아내고 개선해 나가는 ‘자기규율 예방체계’의 확립에 있다. 아무리 숙련된 관리감독자가 대책을 세우더라도, 실제 현장에서 발로 뛰며 작업을 수행하는 근로자의 눈과 귀가 닫혀 있다면 안전 구멍을 완벽히 메울 수 없기 때문이다. 현장에서 높은 성과를 거두고 있는 취약 근로자 중심의 참여 혁신 사례를 살펴본다.◇외국인 근로자 참여 활성화 사례국내 건설현장의 상당 부분을 차지하는 외국인 근로자의 경우, 언어 소통의 한계로 인해 위험성평가 과정에서 소외되는 경우가",
-    "published_at": "2026-07-17T08:00:00+09:00",
-    "cluster_id": "b0b6",
-    "publisher": "대한전문건설신문",
-    "title_clean": "취약 근로자 동참 유도가 제도 정착 ‘핵심키’",
-    "summary": "위험성평가 제도의 성공적 정착을 위해 취약 근로자(외국인 근로자 등)의 적극적 참여가 필수적이며, 현장 중심의 자기규율 예방체계 구축이 핵심 과제임을 강조하고 있다. 건설현장에서 실제 작업을 수행하는 근로자의 참여를 통해 안전 사각지대를 해소할 수 있다는 점을 제시한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-17T08:04:09+09:00",
     "importance": 2
   }
 ]
