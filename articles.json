@@ -22409,6 +22409,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "오산시, 공동주택 공사현장 안전관리 강화…지역업체 참여도 확대 - 뉴스타운",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oQ3ktSF9faXBUYmVQRGM3UDVFN0xXbFVyY2lHYmN1ZFg4NkhUZDdBdGVueXNKVGZtLWVXVjEwM2dVd3dtNmdWVUprUmtMUWthSHpfdHRWMk9RUzRyZm1ZNTlEZWdURXhRd2FnSVFn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5oQ3ktSF9faXBUYmVQRGM3UDVFN0xXbFVyY2lHYmN1ZFg4NkhUZDdBdGVueXNKVGZtLWVXVjEwM2dVd3dtNmdWVUprUmtMUWthSHpfdHRWMk9RUzRyZm1ZNTlEZWdURXhRd2FnSVFn?oc=5\" target=\"_blank\">오산시, 공동주택 공사현장 안전관리 강화…지역업체 참여도 확대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스타운</font>",
+    "cluster_id": "a176",
+    "publisher": "뉴스타운",
+    "title_clean": "오산시, 공동주택 공사현장 안전관리 강화…지역업체 참여도 확대",
+    "summary": "오산시가 공동주택 공사현장의 안전관리를 강화하고 지역업체의 참여 기회를 확대하는 정책을 추진하고 있다. 이는 건설현장 안전 기준 준수와 동시에 지역 건설업체의 수주 기회 증대를 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T05:16:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32229,21 +32244,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-20T13:38:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "주담대 금리, 7%대 중반까지 치솟았다…‘영끌족’ 상환 부담 비상 - joseilbo.com",
-    "link": "http://www.joseilbo.com/news/news_read.php?uid=572206&class=1&grp=",
-    "description": "당시 금리 인하와 동결에는 정치적 불확실성과 건설경기 부진, 미국 상호관세 충격 등 대내외 불안 요인이 영향을 줬다. 그러나 물가 부담이 다시 커지고 경기 회복 흐름이 나타나면서 통화정책은 긴축 쪽으로...",
-    "published_at": "2026-07-20T13:32:00+09:00",
-    "cluster_id": "7fb4",
-    "publisher": "joseilbo.com",
-    "title_clean": "주담대 금리, 7%대 중반까지 치솟았다…‘영끌족’ 상환 부담 비상",
-    "summary": "주담대 금리가 7%대 중반까지 올라 가계 상환 부담이 증가하고 있다. 물가 상승과 경기 회복으로 중앙은행이 긴축 통화정책으로 선회하면서 금리 인상 추세가 이어질 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-20T13:38:42+09:00",
-    "importance": 4
   }
 ]
