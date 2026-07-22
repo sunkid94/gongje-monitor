@@ -22258,6 +22258,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경남 남부 레미콘노조 총파업 결의대회…\"사측 단체협약 나서야\" - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20260722107200052?input=1195m",
+    "description": "민주노총 전국건설노동조합 경남건설기계지부 레미콘지회(이하 노조) 소속 거제·통영·고성 등 경남 남부권 레미콘 노동자들은 이날 오전 거제시청 앞에서 '총파업투쟁 결의대회'를 열었다. 대회에는 경남 남부권을 비롯한...",
+    "published_at": "2026-07-22T14:10:00+09:00",
+    "cluster_id": "dbfa",
+    "publisher": "yna.co.kr",
+    "title_clean": "경남 남부 레미콘노조 총파업 결의대회…\"사측 단체협약 나서야\"",
+    "summary": "경남 남부권 레미콘 노동자들이 사측의 단체협약 체결을 요구하며 총파업 결의대회를 개최했다. 거제·통영·고성 등지의 민주노총 전국건설노동조합 소속 노동자들이 집단행동에 나섰다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T14:16:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32225,22 +32241,6 @@
     "summary": "부천시장이 화학공장 암모니아 가스 유출 사고와 건설 현장을 점검하며 안전관리 강화를 당부했다. 이는 건설 현장의 안전 관리 강화 및 규제 강화 추세를 반영한 것으로, 업계의 규제 부담이 증가할 가능성을 시사한다.",
     "sentiment": "negative",
     "collected_at": "2026-07-17T18:07:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "권오상 구청장, 염색산단 공동폐수처리장 현장 점검… \"악취 저감이 역... - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=737329",
-    "description": "서대구역 복합환승센터는 2023년 지정·고시 이후 민간투자 방식으로 추진됐지만 건설경기 침체와 투자 위축 등의 영향으로 기한 내 민간사업자를 확보하지 못하면서 지정 해제 절차가 진행됐다. 이에 대구시는 난개발을...",
-    "published_at": "2026-07-17T17:48:00+09:00",
-    "cluster_id": "24bf",
-    "publisher": "polinews.co.kr",
-    "title_clean": "권오상 구청장, 염색산단 공동폐수처리장 현장 점검… \"악취 저감이 역...",
-    "summary": "대구시가 서대구역 복합환승센터 민간투자 사업의 지정을 해제하는 절차를 진행 중입니다. 건설경기 침체와 투자 위축으로 기한 내 민간사업자 확보에 실패했습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-17T17:52:45+09:00",
     "importance": 2
   }
 ]
