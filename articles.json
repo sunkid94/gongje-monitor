@@ -6444,6 +6444,22 @@
     "event_label": "대한기계설비건설협회 회원사 협회 운영 예산 공개 촉구"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "노태문 삼성 사장 \"로봇, 삼성의 다음 먹거리\"…직속 전담조직 띄운 이... - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260723_0003719527",
+    "description": "삼성은 삼성전자 외에도 삼성디스플레이, 삼성전기, 삼성SDI, 삼성중공업, 삼성E&A 등 계열사가 디스플레이, 전자부품, 배터리, 조선·플랜트에 이르는 서로 다른 제조 현장을 두고 있는 만큼 휴머노이드가 각기 다른 계열사...",
+    "published_at": "2026-07-23T08:00:00+09:00",
+    "cluster_id": "dcca",
+    "publisher": "newsis.com",
+    "title_clean": "노태문 삼성 사장 \"로봇, 삼성의 다음 먹거리\"…직속 전담조직 띄운 이...",
+    "summary": "삼성이 로봇을 차세대 사업 먹거리로 선정하고 직속 전담조직을 구성했다. 삼성의 다양한 계열사들이 보유한 제조 현장에 휴머노이드 로봇 적용을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T08:05:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22389,22 +22405,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-14T10:30:24+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코이앤씨, 부산 '더샵 트리센트' 이달 공급...더블생활권 프리미엄 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sbm4zTmtEVkJhamhCQldCT3VzZFVJWFBaUmdqNE5kbXpZelM1UXdsVklNUUVSVjVtQ1FIc3M4ZTZneHJFaFRSZGJvdll4TVRlVUl5eTV0MldZUQ?oc=5",
-    "description": "포스코이앤씨가 부산광역시 남구 문현동 일원에 짓는 '더샵 트리센트'를 오는 7월 분양한다고 14일 밝혔다.단지가 들어서는 문현동 일대는 인근 재개발 사업이 활발히 진행되면서 신흥 주거벨트로 급부상하고 있는 곳이다.더샵 트리센트는 대연동과 문현동의 경계에 위..",
-    "published_at": "2026-07-14T10:08:39+09:00",
-    "cluster_id": "d8a4",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "포스코이앤씨, 부산 '더샵 트리센트' 이달 공급...더블생활권 프리미엄",
-    "summary": "포스코이앤씨가 부산 남구 문현동에 건설 중인 '더샵 트리센트'를 7월에 분양한다. 해당 지역은 재개발 사업으로 신흥 주거벨트로 부상하고 있으며, 대연동과 문현동의 경계에 위치한 프리미엄 입지를 강점으로 내세우고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T10:30:24+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
