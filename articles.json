@@ -22409,6 +22409,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부·해건협, 해외건설 진출전략 설명회…美·동유럽 정보공유 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zbTBFQzRWQVJWekNrT2doejNhUEVLR01nX0ZpSFh0RWJqZzZjRW8wRlZzQXpMRUdoOUFENU5zODdGb3pvS1pZOEFyWm0wLTZOWXpLM3hqT0FPSjlRNW5NTA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zbTBFQzRWQVJWekNrT2doejNhUEVLR01nX0ZpSFh0RWJqZzZjRW8wRlZzQXpMRUdoOUFENU5zODdGb3pvS1pZOEFyWm0wLTZOWXpLM3hqT0FPSjlRNW5NTA?oc=5\" target=\"_blank\">국토부·해건협, 해외건설 진출전략 설명회…美·동유럽 정보공유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+    "cluster_id": "2569",
+    "publisher": "아시아경제",
+    "title_clean": "국토부·해건협, 해외건설 진출전략 설명회…美·동유럽 정보공유",
+    "summary": "국토부와 해건협이 해외건설 진출전략 설명회를 개최하여 미국과 동유럽 시장의 정보를 공유했다. 국내 건설업체들의 해외 진출을 지원하기 위한 정부 차원의 시장 정보 제공 활동이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T06:06:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32228,21 +32243,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-20T13:53:37+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "면목10구역 재개발 본격화… 최고 35층·959세대 , 중랑천 품은 수변도시... - dailyt.co.kr",
-    "link": "https://www.dailyt.co.kr/newsView/dlt202607200007",
-    "description": "또한 공사비 상승과 건설경기 변동, 금융시장 상황 등도 향후 사업 속도에 영향을 줄 수 있는 변수로 꼽힌다. 임규호 시의원 \"중랑의 새로운 랜드마크 만들겠다\" 임규호 시의원은 \"면목5동은 중랑천과 도시철도...",
-    "published_at": "2026-07-20T13:36:00+09:00",
-    "cluster_id": "9025",
-    "publisher": "dailyt.co.kr",
-    "title_clean": "면목10구역 재개발 본격화… 최고 35층·959세대 , 중랑천 품은 수변도시...",
-    "summary": "서울 중랑구 면목10구역 재개발이 본격화되며 최고 35층, 959세대 규모의 수변도시 조성이 추진 중이다. 다만 공사비 상승, 건설경기 변동, 금융시장 상황 등이 사업 속도에 영향을 줄 수 있는 변수로 지적되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-20T13:38:42+09:00",
-    "importance": 2
   }
 ]
