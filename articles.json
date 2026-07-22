@@ -6275,6 +6275,22 @@
     "event_label": "건설공제조합 관계자 아동도서 기증"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삽 떴는데 또 올랐다⋯공사비 '증액 도미노' 불붙었다 - 아이뉴스24",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QaGhLYmlQVW1xT25iR0d5YmZHYlNNOHdVN0JRakZJUUI5ZFprdjFBVlVGTHlGX253d1p0R24xTDB5dzRPbjFmUmZISQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QaGhLYmlQVW1xT25iR0d5YmZHYlNNOHdVN0JRakZJUUI5ZFprdjFBVlVGTHlGX253d1p0R24xTDB5dzRPbjFmUmZISQ?oc=5\" target=\"_blank\">삽 떴는데 또 올랐다⋯공사비 '증액 도미노' 불붙었다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이뉴스24</font>",
+    "published_at": "2026-07-22T11:46:39+09:00",
+    "cluster_id": "6784",
+    "publisher": "아이뉴스24",
+    "title_clean": "삽 떴는데 또 올랐다⋯공사비 '증액 도미노' 불붙었다",
+    "summary": "건설 공사 진행 중 자재비, 인건비 등의 상승으로 인한 공사비 증액이 연쇄적으로 발생하고 있다. 이는 건설사와 하도급업체 간의 분쟁 증가로 이어져 업계 전반에 부담을 주고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T11:50:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22224,19 +22240,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "IPARK현대산업개발, 성남 태평3구역 재개발 5852억원에 수주 - smarttimes.co.kr",
-    "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47234",
-    "description": "IPARK현대산업개발은 성남시 수정구 태평3구역 공공참여 재개발 사업의 시공사로 선정됐다고 13일 밝혔다. 태평3구역 주민대표회의는 지난 12일 시공자 선정을 위한 토지 등 소유자 전체 회의를 열고 IPARK...",
-    "published_at": "2026-07-13T19:14:00+09:00",
-    "cluster_id": "3b19",
-    "publisher": "smarttimes.co.kr",
-    "title_clean": "IPARK현대산업개발, 성남 태평3구역 재개발 5852억원에 수주",
-    "summary": "IPARK현대산업개발이 성남시 수정구 태평3구역 공공참여 재개발 사업의 시공사로 선정되어 5852억원 규모의 프로젝트를 수주했다. 이는 건설업계의 수주 증가를 의미하는 긍정적인 사업 수주 소식이다.",
+    "title": "발주자가 건설공사대금과 임금 직접 지급…차세대 전자대금시스템 개발... - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026072211400198251",
+    "description": "정부는 공공뿐만 아니라 민간 건설공사에도 전자대금지급시스템 사용을 의무화하기 위해 건설산업기본법 개정을 추진 중이다. 이 시스템은 내년 개발에 착수하고 2028년부터는 시범운영에 들어갈 계획이다. 시스템 구축...",
+    "published_at": "2026-07-22T11:42:00+09:00",
+    "cluster_id": "eec4",
+    "publisher": "busan.com",
+    "title_clean": "발주자가 건설공사대금과 임금 직접 지급…차세대 전자대금시스템 개발...",
+    "summary": "정부가 공공·민간 건설공사에 전자대금지급시스템 의무화를 추진 중이며, 내년 개발 착수 후 2028년부터 시범운영 예정이다. 발주자가 건설공사대금과 임금을 직접 지급하는 차세대 시스템으로 개선된다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-13T19:20:24+09:00",
+    "collected_at": "2026-07-22T11:50:17+09:00",
     "importance": 2
   },
   {
@@ -32221,22 +32237,6 @@
     "summary": "공사금액 100억원 미만의 관계수급인이 도급사 승인 후 선임한 안전관리자의 인건비는 산업안전보건법에 따라 안전·보건관리자 임금 항목으로 사용 가능함을 명확히 한 지침 제시. 건설현장의 안전관리자 임금 처리에 대한 법적 근거를 제공하여 산업안전보건 규정 준수를 지원.",
     "sentiment": "neutral",
     "collected_at": "2026-07-17T08:04:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"폭염은 안전의 문제···공기 연장·추가 비용 관련 제도 보완할 것\" - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325362",
-    "description": "스마트 안전장비 보급, 안전관리 컨설팅, 교육 지원 등을 확대해 예방 중심의 산업안전 체계를 정착시키는 데 힘쓰겠습니다.\" - 건설현장 안전과 관련 처벌 중심의 규제에 대해 건설업계의 우려가 큽니다. 위원장님의 입장은...",
-    "published_at": "2026-07-17T08:00:00+09:00",
-    "cluster_id": "28be",
-    "publisher": "대한전문건설신문",
-    "title_clean": "\"폭염은 안전의 문제···공기 연장·추가 비용 관련 제도 보완할 것\"",
-    "summary": "폭염 등 산업재해 예방을 위해 스마트 안전장비 보급, 안전관리 컨설팅, 교육 지원을 확대하는 예방 중심의 안전 체계를 추진할 계획. 건설현장 처벌 중심 규제에 대한 업계 우려를 고려해 제도 보완을 검토하겠다는 입장.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-17T08:03:43+09:00",
     "importance": 2
   }
 ]
