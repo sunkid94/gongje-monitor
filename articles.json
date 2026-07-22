@@ -6411,6 +6411,22 @@
     "event_label": "건설공제조합 재건축 관리처분방식 개선 토론회 개최"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'그림의 떡' 건설현장 주5일제, 산업 경쟁력 위해 안착돼야 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41181",
+    "description": "심상철 건설기업노조 수석부위원장(대우건설지부 위원장)은 \"공정에 맞게 2주 치 근무표를 작성한다. 주52시간 상한제에 맞춰 작성하지만 실제 그렇게 돌아가지 않는다\"며 \"건설 사무노동자는 관리자로 현장에 일찍...",
+    "published_at": "2026-07-22T18:21:00+09:00",
+    "cluster_id": "5d6c",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "'그림의 떡' 건설현장 주5일제, 산업 경쟁력 위해 안착돼야",
+    "summary": "건설현장 주5일제 도입이 제도적으로는 추진되지만 실제 운영에서는 제대로 이행되지 않고 있다는 지적이 제기되었다. 건설업계가 산업 경쟁력을 유지하면서 주5일제를 안정적으로 정착시키기 위한 개선이 필요한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T18:30:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22359,20 +22375,20 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "반도체 전력 인프라 확대 기대…원전·해상풍력 '우리기술' 주목 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260714000181",
-    "description": "두산에너빌리티와 SMR용 비안전계통 DCS 공급 계약을 체결했으며, 다수의 SMR 관련 국책과제에도 참여하며 기존 대형 원전 중심의 제어계측 기술을 차세대 원전 분야로 확대하고 있다. 회사 관계자는 \"원전 분야에서...",
-    "published_at": "2026-07-14T09:38:00+09:00",
-    "cluster_id": "f106",
-    "publisher": "newspim.com",
-    "title_clean": "반도체 전력 인프라 확대 기대…원전·해상풍력 '우리기술' 주목",
-    "summary": "두산에너빌리티와 SMR(소형모듈원전) 제어계측 시스템 공급 계약을 체결하며 차세대 원전 분야로 사업 확대. 원전 및 해상풍력 등 에너지 인프라 확대에 따른 제어계측 기술 수요 증가 전망.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T09:50:15+09:00",
-    "importance": 2
+    "title": "천안시, 여름철 공공건설 현장 고강도 안전점검 - 충청타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mQlFWaFRfXzk1a0VOMmtLa2N3TDctc1NHbnRWTjJTdUF6UEtjY0JoTUdwV3ZOMjE1UUpUbHJuWEFmblVNWDlPLXkyMTNxZHZpZDJXWmhBakNYUmZ5N2I4MjFLTXliV3pl?oc=5",
+    "description": "[충청타임즈] 충남 천안시가 여름철 장마와 폭염으로 인한 건설 현장 안전사고를 선제적으로 막기 위해 공공건설 현장을 대상으로 고강도 안전점검에 나섰다.천안시는 여름철 집중호우와 폭염에 대비해 관내 주요 공공건설 현장을 방문하고 침수·붕괴 위험 요소 및 근로자 온열질환 예방 실태를 집중 점검했다고 22일 밝혔다. 이번 점검은 기후 변화로 국지성 호우가 빈번해지고 폭염 특보가 지속됨에 따라 현장 근로자의 안전 확보와 시설물 관리를 위해 추진됐다.시는 △가설구조물 및 추락·낙하물 방호시설 상태 △배수계획·침수 방지시설 등 수방 대책 △근",
+    "published_at": "2026-07-22T18:20:00+09:00",
+    "cluster_id": "d439",
+    "publisher": "충청타임즈",
+    "title_clean": "천안시, 여름철 공공건설 현장 고강도 안전점검",
+    "summary": "천안시가 여름철 장마와 폭염에 대비해 공공건설 현장을 대상으로 안전점검을 실시했다. 침수·붕괴 위험 요소 및 근로자 온열질환 예방 실태를 집중 점검하여 현장 안전사고를 선제적으로 예방하려는 취지다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T18:30:54+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32236,22 +32252,6 @@
     "summary": "대구상공회의소 박병복 팀장이 민선 9기 대구시정에서 건설 경기 회복과 신산업 전환을 강조했습니다. 상반기 지역 경제 흐름 분석을 바탕으로 건설업계의 경기 회복 필요성을 제기했습니다.",
     "sentiment": "positive",
     "collected_at": "2026-07-20T08:47:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[리스크 인사이드 ⑥] 정원주의 해외 전략…대우건설은 어디까지 왔나 - koreareport.co.kr",
-    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=51533",
-    "description": "대우건설의 지분가치 하락 역시 개별 기업의 경쟁력만이 아니라 건설경기 침체가 반영된 결과라는 분석이다. 실제 주요 상장 건설사들도 업황 둔화의 영향으로 기업가치가 전반적으로 낮아졌다. 정원주 회장을 둘러싼...",
-    "published_at": "2026-07-20T08:34:00+09:00",
-    "cluster_id": "9176",
-    "publisher": "koreareport.co.kr",
-    "title_clean": "[리스크 인사이드 ⑥] 정원주의 해외 전략…대우건설은 어디까지 왔나",
-    "summary": "대우건설의 지분가치 하락은 기업 경쟁력 저하뿐만 아니라 건설경기 침체가 주요 원인으로 분석된다. 주요 상장 건설사들도 업황 둔화로 인해 기업가치가 전반적으로 낮아진 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-20T08:37:50+09:00",
     "importance": 2
   }
 ]
