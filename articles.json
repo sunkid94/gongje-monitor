@@ -22275,6 +22275,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "오텍캐리어-씨알케이, 올해의 에너지위너 등극 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50922",
+    "description": "오텍그룹이 18년 연속 ‘에너지위너상’을 수상했다. 오텍그룹의 계열사 오텍캐리어와 씨알케이(CRK)가 혁신적인 에너지 절감 신기술을 통해 친환경 고효율 가치를 실현한 기업들에게만 수여하는 ‘제29회 올해의 에너지위너상’을 각각 17년과 8년 연속, 나란히 수상하는 놀라운 성과를 거두며 독보적인 친환경 고효율 기술 리더십을 입증했다.‘올해의 에너지위너상’은 (사)소비자시민모임이 주최하고 기후에너지환경부, 한국에너지공단이 공동 후원하는 국내 최고 권위의 에너지 효율 시상 제도로서, 에너지 절감, 저탄소 및 탄소중립 제품·기술·활동을 대",
+    "published_at": "2026-07-22T12:02:35+09:00",
+    "cluster_id": "7933",
+    "publisher": "기계설비신문",
+    "title_clean": "오텍캐리어-씨알케이, 올해의 에너지위너 등극",
+    "summary": "오텍그룹이 18년 연속 '에너지위너상'을 수상하며 친환경 고효율 기술 리더십을 입증했다. 계열사 오텍캐리어와 씨알케이(CRK)도 각각 17년과 8년 연속 수상하는 성과를 거뒀다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-22T13:34:07+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "삼표그룹, 제2회 임원 리더십 포럼 개최… “불확실성 시대, 성과 창출 조직 구축” - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40900",
+    "description": "[건설이코노미뉴스]삼표그룹이 급변하는 글로벌 경영 환경과 기술 고도화 속에서 조직의 체질을 개선하고 지속 가능한 성과 창출을 위한 미래 리더십 확보에 나섰다.건설기초소재 전문기업 삼표그룹(회장 정도원)은 지난 20일 서울 광화문 센터포인트 강의장에서 삼표산업을 비롯해 삼표시멘트, 삼표피앤씨, 삼표레일웨이, 에스피네이처 등 그룹 및 주요 계열사 임원진 70여명이 참석한 가운데 ‘2026년 제2회 임원 리더십 포럼’을 개최했다고 22일 밝혔다. 이번 포럼은 불확실성이 높아진 시장 환경 속에서 조직이 나아가야 할 방향을 점검하고 성과 창",
+    "published_at": "2026-07-22T13:32:34+09:00",
+    "cluster_id": "dad7",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "삼표그룹, 제2회 임원 리더십 포럼 개최… “불확실성 시대, 성과 창출 조직 구축”",
+    "summary": "삼표그룹이 급변하는 경영 환경에 대응하기 위해 임원진 70여명이 참석한 '제2회 임원 리더십 포럼'을 개최했다. 불확실성이 높은 시장 속에서 조직의 체질 개선과 지속 가능한 성과 창출을 위한 미래 리더십 확보에 나섰다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-22T13:34:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32210,36 +32242,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-17T14:47:59+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "KISA·수자원공사, 안전관리 체계 개선..건설현장 위험 탐지 CCTV 인증 기준 마련 - 한국정경신문",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VSDRrLVhJLS13UXhyTmpzeE9Yd2phTGowdzhmelFsZV9DUy1HVFZhR0J3UXdyMmRRQXJZcWRYRERoTFRHUUplQzRpTzk0N18xakE?oc=5",
-    "description": "[한국정경신문=최현준 기자] 한국인터넷진흥원이 한국수자원공사와 건설 현장의 위험 상황을 자동으로 탐지하는 폐쇄회로 성능시험·인증 기준을 마련한다.한국인터넷진흥원은 최근 한국수자원공사 낙동강유역본부에서 수자원공사와",
-    "cluster_id": "ffdf",
-    "publisher": "한국정경신문",
-    "title_clean": "KISA·수자원공사, 안전관리 체계 개선..건설현장 위험 탐지 CCTV 인증 기준 마련",
-    "summary": "한국인터넷진흥원과 한국수자원공사가 건설현장의 위험 상황을 자동으로 탐지하는 CCTV 성능시험·인증 기준을 마련했다. 이는 건설현장 안전관리 체계를 개선하기 위한 조치이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-17T14:37:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "수출 증가 및 고용 불안 - 최근 경제동향 <2026.7.17. 분석> - ifs.or.kr",
-    "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11342",
-    "description": "7% 증가 ◯ 5월 건설투자는 전년동월대비 건설수주액(55.3%) 증가, 건설기성액(-1.9%), 건설업 생산지수 (-1.9%) 감소 ◯ 6월 OECD 선행지수는 전월(102.7)대비 0.2p 증가한 102.9으로, 경기선행지수는 2023년 2월...",
-    "published_at": "2026-07-17T14:06:00+09:00",
-    "cluster_id": "b730",
-    "publisher": "ifs.or.kr",
-    "title_clean": "수출 증가 및 고용 불안 - 최근 경제동향 <2026.7.17. 분석>",
-    "summary": "5월 건설수주액이 55.3% 증가한 호재가 있으나, 건설기성액과 생산지수가 각각 1.9% 감소하면서 실적 부진이 동시에 나타났다. 6월 OECD 선행지수는 소폭 상승했으나 고용 불안이 지속되는 양면적 경제동향을 보이고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-17T14:08:05+09:00",
-    "importance": 2
   }
 ]
