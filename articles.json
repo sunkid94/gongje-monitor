@@ -22206,6 +22206,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "발주자가 하도급·근로자에 직접 지급⋯정부, 건설현장 체불 근절 나선... - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2606023",
+    "description": "앞으로는 건설산업기본법 개정에 맞춰 발주자가 하도급업체와 근로자에게 직접 대금을 지급하도록 바뀐다. 특히 청구 단계부터 원도급사와 하도급사, 근로자 몫을 구분해 지급하도록 시스템을 설계해 원·하수급인의...",
+    "published_at": "2026-07-22T09:48:00+09:00",
+    "cluster_id": "1452",
+    "publisher": "etoday.co.kr",
+    "title_clean": "발주자가 하도급·근로자에 직접 지급⋯정부, 건설현장 체불 근절 나선...",
+    "summary": "정부가 건설산업기본법 개정을 통해 발주자가 하도급업체와 근로자에게 직접 대금을 지급하는 시스템을 도입한다. 청구 단계부터 원·하도급사와 근로자 몫을 구분하여 지급함으로써 건설현장 체불 문제를 근절하려는 정책.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T09:55:07+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 서대구역세권 특별계획구역 지정…민간투자 활성화 추진 - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043132",
+    "description": "서대구역 복합환승센터는 2023년 6월 지정됐지만 건설경기 침체와 민간투자 위축으로 사업 신청자가 나타나지 않아 관련 규정에 따른 유효기간이 만료되면서 지난 21일 지정이 자동 실효됐다. 다만 향후 민간사업자가...",
+    "published_at": "2026-07-22T09:48:00+09:00",
+    "cluster_id": "d04c",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "대구시, 서대구역세권 특별계획구역 지정…민간투자 활성화 추진",
+    "summary": "대구시가 서대duganggyeok세권 특별계획구역을 지정하여 민간투자 활성화를 추진 중이다. 기존 복합환승센터 사업은 건설경기 침체로 신청자 부족으로 지정이 자동 실효되었으나, 향후 민간사업자 참여를 통한 재추진을 예상하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-22T09:55:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,38 +32233,6 @@
     "summary": "국토안전관리원 영남지역본부가 울릉군과 ESG 공동선언을 체결하고 건설현장·노후시설물에 대한 안전관리 역량 강화 컨설팅을 실시했다. 2023년 안전관리 업무협약을 바탕으로 환경·사회·거버넌스를 접목한 지역상생형 협력 모델로 확대 추진 중이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-16T18:04:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "‘보일러 회사’ 벗어나려는 경동나비엔, 사업 키웠지만 숙제 ‘산적’ - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202607160076",
-    "description": "국내 보일러 시장의 성장 둔화와 건설경기 침체 때문입니다. 대표적인 승부수가 지난 2024년 9월 인수한 SK매직 가전사업부문. ‘나비엔 매직’을 출범시키며 사업에 공을 들였지만, 인수 첫해 성적표는 시장의 기대에...",
-    "published_at": "2026-07-16T17:48:00+09:00",
-    "cluster_id": "b6a3",
-    "publisher": "sentv.co.kr",
-    "title_clean": "‘보일러 회사’ 벗어나려는 경동나비엔, 사업 키웠지만 숙제 ‘산적’",
-    "summary": "경동나비엔이 국내 보일러 시장의 성장 둔화와 건설경기 침체를 벗어나기 위해 2024년 9월 SK매직 가전사업부문을 인수하여 사업을 다각화했다. 다만 인수 첫해 성적이 기대에 미치지 못하면서 향후 통합과 성장 과제가 남아있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-16T17:59:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "3기 신도시 속도·도심복합 이달 공개…국토부 하반기 청사진 - 한국부동산뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hbWZUeHdUc00yMV9WTVpJX0VURXd2dWlkSktiTHRyN3gzbWpNOVFUZ1pjcG1zVzJ3NTA0S2N0b25GbTUyb01abldGWjFDQU1xNU1NbHQtUnZCUkJEYkpkeTR2QmdRWE9HalBr?oc=5",
-    "description": "국토교통부가 3기 신도시 공급 확대와 코레일·SR 통합, LH 개혁 등을 축으로 한 하반기 국토·교통 정책 청사진을 내놨다. 주거 공급 확대와 철도 개혁, 건설안전 강화 등을 중심으로 국토·교통 정책 전반에 속도를 낸다는 구상이다.김윤덕 국토교통부 장관은 16일 청와대 영빈관에서 열린 국토교통부 업무보고에서 이 같은 내용을 담은 하반기 핵심 추진 과제를 발표했다.주거 공급 확대·철도 개혁 속도주거 분야에서는",
-    "published_at": "2026-07-16T17:42:24+09:00",
-    "cluster_id": "6391",
-    "publisher": "한국부동산뉴스",
-    "title_clean": "3기 신도시 속도·도심복합 이달 공개…국토부 하반기 청사진",
-    "summary": "국토교통부가 3기 신도시 공급 확대, 코레일·SR 통합, LH 개혁 등을 골자로 한 하반기 정책 청사진을 발표했다. 주거 공급 확대와 철도 개혁, 건설안전 강화 등을 중심으로 국토·교통 정책을 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T17:59:37+09:00",
     "importance": 2
   }
 ]
