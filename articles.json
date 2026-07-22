@@ -6275,6 +6275,22 @@
     "event_label": "건설공제조합 관계자 아동도서 기증"
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘우성 2,3차·극동·신동아’ 안전진단 통과 임박…사당동 일대 5000가구... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10816233?ref=naver",
+    "description": "업계에서는 포스코이앤씨가 재입찰 후 수의계약을 진행할 것으로 보고, 이 경우 신동아4차와 함께 우극신이 5000가구 규모 ‘포스코 타운’을 형성할 것으로 기대하고 있다.",
+    "published_at": "2026-07-22T11:28:00+09:00",
+    "cluster_id": "928c",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "‘우성 2,3차·극동·신동아’ 안전진단 통과 임박…사당동 일대 5000가구...",
+    "summary": "포스코이앤씨가 우성2,3차·극동·신동아 아파트 재건축 프로젝트에서 수의계약을 진행할 것으로 예상되며, 신동아4차와 함께 사당동 일대에 5000가구 규모의 '포스코 타운' 형성이 임박했다. 이는 건설사의 대규모 수주 기회 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-22T11:40:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -22224,20 +22240,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현산ㆍ코오롱, 성남 태평3구역 5852억 시공권 확보…1,038표로 선정 - 퍼블릭뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXbTBEWFVMY2h5VnZKYVQ2RFlSRFBES2pfSXp2Y2g1dWVrd1N6NjNDa0hiUXc3YjkzYmRkQ0xpcmRmR1YtVGJuOFhoaml2YjRwSVBJUmxZN3drOEdWbmltQURkejh4aGQ1Wldj?oc=5",
-    "description": "IPARK현대산업개발이 5852억 규모의 성남 태평3구역 공공 참여 재개발 정비사업의 시공사로 선정됐다.태평3구역 주민대표회의는 12일 진행된 시공자 선정 토지",
-    "published_at": "2026-07-13T11:43:29+09:00",
-    "cluster_id": "5464",
-    "publisher": "퍼블릭뉴스통신",
-    "title_clean": "IPARK현산ㆍ코오롱, 성남 태평3구역 5852억 시공권 확보…1,038표로 선정",
-    "summary": "IPARK현대산업개발이 5852억 규모의 성남 태평3구역 공공참여 재개발 정비사업 시공사로 선정됐다. 건설사의 대규모 수주 확보로 건설업계의 프로젝트 수주 기회 증대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T19:00:19+09:00",
-    "importance": 2
+    "title": "건설현장 임금체불 막는다…발주자 직접지급 시스템 사용 의무화 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10816239?ref=naver",
+    "description": "특히 이번 체불방지시스템은 청구단계부터 수급인, 하수급인, 근로자 몫 등이 구분되도록 해 상대적으로 대금지급 취약계층인 건설노동자·장비업자 등을 보호하도록 설계됐다. 또 화재 등 재난사고 등을 대비해 대규모...",
+    "published_at": "2026-07-22T11:29:00+09:00",
+    "cluster_id": "571b",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "건설현장 임금체불 막는다…발주자 직접지급 시스템 사용 의무화",
+    "summary": "정부가 건설현장 임금체불을 방지하기 위해 발주자 직접지급 시스템의 사용을 의무화한다. 이 시스템은 청구단계부터 수급인, 하수급인, 근로자 몫을 구분하여 건설노동자와 장비업자 등 취약계층을 보호하도록 설계되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-22T11:40:19+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32222,21 +32238,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-17T08:03:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "동부건설, AI로 건설현장 안전관리 강화 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJS3VhRjN3UnM4Y3FrYkZialRyX00wTWhhVncyQ1pGZFhucVVwQzVRSFdQZjNabVVUZzdCTVQwWmhmSkNITm5CZ190dXYxSDJWTmlFQzRWRUtoYUFPb2NVTk1pM3kwSWpYaGZHaw?oc=5",
-    "description": "동부건설은 현장 안전관리와 품질관리 강화를 위해 전 현장에 AI동시통변역 프로그램을 설치하는 등 건설현장 디지털 전환에 속도를 내고 있다고 16일 밝혔다.AI 동",
-    "published_at": "2026-07-16T15:55:00+09:00",
-    "cluster_id": "f04f",
-    "publisher": "기계설비신문",
-    "title_clean": "동부건설, AI로 건설현장 안전관리 강화",
-    "summary": "동부건설이 AI 동시통변역 프로그램을 전 현장에 설치하여 건설현장의 안전관리와 품질관리를 강화하고 있다. 이는 건설업계의 디지털 전환 추진 사례로, 현장 안전성 개선을 통해 산업 고도화를 도모하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-17T07:58:44+09:00",
-    "importance": 3
   }
 ]
