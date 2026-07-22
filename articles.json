@@ -22358,6 +22358,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "제주도지사 직속 '민생경제 상황실' 첫 회의…상시 대응체계 가동 - headlinejeju.co.kr",
+    "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596313",
+    "description": "이어진 토론에서는 관광 접근성 개선과 건설경기 회복, 농산물 수급 안정 등을 위한 현장 제안이 이어졌다. 강동훈 제주도관광협회장은 국내선 공급좌석 부족으로 관광객과 도민의 이동 불편이 커지고 있다며...",
+    "published_at": "2026-07-22T18:30:00+09:00",
+    "cluster_id": "4f61",
+    "publisher": "headlinejeju.co.kr",
+    "title_clean": "제주도지사 직속 '민생경제 상황실' 첫 회의…상시 대응체계 가동",
+    "summary": "제주도지사가 민생경제 상황실을 설립하여 관광, 건설, 농산물 등 주요 산업의 경기 회복과 시장 안정을 위한 상시 대응체계를 가동했다. 건설경기 회복이 논의 대상으로 포함되었으나 구체적인 정책 방향이나 투자 계획은 미제시된 상태이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-22T20:01:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32235,22 +32251,6 @@
     "summary": "롯데건설이 PF(프로젝트파이낸싱) 규모를 축소하고 ABS(자산유동화증권)를 발행하며 유동성 관리를 강화하고 있다. 이는 건설업계의 PF 위기 심화 속에서 재무 건전성을 개선하려는 조치로 평가된다.",
     "sentiment": "negative",
     "collected_at": "2026-07-20T09:48:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "주담대 금리 최고 7%대...영끌족 이자 부담 '껑충' - cjb.co.kr",
-    "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260720503&PRO_CODE=99",
-    "description": "당시에는 비상계엄 사태에 따른 정치적 불확실성과 국내 건설경기 부진, 미국의 상호관세 충격 등 대내외 악재가 겹치며 통화 완화가 불가피했다는 평가입니다. 이후 가계부채 증가세가 이어지고 원·달러 환율이 높은...",
-    "published_at": "2026-07-20T09:40:00+09:00",
-    "cluster_id": "b28a",
-    "publisher": "cjb.co.kr",
-    "title_clean": "주담대 금리 최고 7%대...영끌족 이자 부담 '껑충'",
-    "summary": "주담대 금리가 최고 7%대까지 상승하면서 영끌족의 이자 부담이 크게 증가했다. 비상계엄 이후 통화 완화에 따른 가계부채 증가와 원·달러 환율 상승이 주요 원인으로 지목되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-20T09:42:57+09:00",
     "importance": 2
   }
 ]
