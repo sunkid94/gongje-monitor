@@ -6445,6 +6445,22 @@
     "event_label": "한국도시정비학회 주택재건축 관리처분방식 개선 학술세미나 개최"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'하이엔드 깃발' 든 건설사, 목동서 정면 승부 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/07/23/2026072219292877541",
+    "description": "대우건설은 지난달 브랜드를 리뉴얼한 이후 처음 선보인 '써밋 목동 라운지'를 열고 8·11·14단지 재건축사업을 집중공략 중이다. 여기에 더해 삼성물산도 목동 내 홍보관이나 브랜드 라운지 개설을 검토 중이다....",
+    "published_at": "2026-07-23T04:00:00+09:00",
+    "cluster_id": "b03f",
+    "publisher": "mt.co.kr",
+    "title_clean": "'하이엔드 깃발' 든 건설사, 목동서 정면 승부",
+    "summary": "대우건설이 브랜드 리뉴얼 후 '써밋 목동 라운지'를 오픈하며 목동 재건축사업에 집중하고 있으며, 삼성물산도 목동 지역 진출을 검토 중이다. 하이엔드 건설사들의 목동 지역 경쟁이 심화되고 있는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T04:06:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22393,19 +22409,19 @@
     "importance": 4
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "롯데건설, 고용노동부 안양지청과 ‘건설안전 징검다리 프로젝트’에 맞... - fntimes.com",
-    "link": "https://www.fntimes.com/html/view.php?ud=202607141000572588b372994c95_18",
-    "description": "롯데건설이 고용노동부 안양지청과 손잡고 중소규모 건설현장 근로자를 대상으로 안전체험교육을 확대하며 산업재해 예방에 나선다. 롯데건설은 지난 13일 경기도 오산시 롯데인재개발원 내 안전체험센터 'Safety ON...",
-    "published_at": "2026-07-14T10:04:00+09:00",
-    "cluster_id": "3743",
-    "publisher": "fntimes.com",
-    "title_clean": "롯데건설, 고용노동부 안양지청과 ‘건설안전 징검다리 프로젝트’에 맞...",
-    "summary": "롯데건설이 고용노동부 안양지청과 협력하여 중소규모 건설현장 근로자 대상 안전체험교육을 확대하고 있다. 안전체험센터를 통해 산업재해 예방에 주력하는 업계의 안전 강화 움직임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-14T10:10:37+09:00",
+    "title": "하자 찾고 민원도 해결… 현장 빈틈 메운 'AI 데이터' - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/07/23/2026072219292628066",
+    "description": "스마트건설 플랫폼 기업 메이사와 개발한 드론 플랫폼을 통해 촬영한 건설현장을 3차원으로 구성해 공정별 현황과 시공정확도를 확인하는 기술이다. 항공촬영 자료를 기반으로 토공량도 자동산출해 원가관리와...",
+    "published_at": "2026-07-23T04:00:00+09:00",
+    "cluster_id": "6be3",
+    "publisher": "mt.co.kr",
+    "title_clean": "하자 찾고 민원도 해결… 현장 빈틈 메운 'AI 데이터'",
+    "summary": "AI와 드론 기술을 활용해 건설현장을 3D로 구성하고 공정 현황, 시공정확도, 토공량을 자동 산출하는 스마트건설 플랫폼이 개발됐다. 이를 통해 하자 발굴과 민원 해결, 원가관리 등 현장의 효율성을 높일 수 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T04:06:09+09:00",
     "importance": 2
   },
   {
@@ -32229,21 +32245,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-20T13:29:01+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "엔젤스윙, 'NextCon 2026' 참가…드론 스테이션 기반 스마트건설 DX 운영... - thefirstmedia.net",
-    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=204111",
-    "description": "드론 기반 디지털 트윈 플랫폼 기업 엔젤스윙(대표 박원녕)이 오는 8월 5일부터 8일까지 서울 코엑스에서 개최되는 'NextCon 2026'에 참가해 드론 스테이션 기반 건설 현장 데이터 자동화 및 본사 중심의 스마트건설 DX...",
-    "published_at": "2026-07-20T13:26:00+09:00",
-    "cluster_id": "efed",
-    "publisher": "thefirstmedia.net",
-    "title_clean": "엔젤스윙, 'NextCon 2026' 참가…드론 스테이션 기반 스마트건설 DX 운영...",
-    "summary": "드론 기반 디지털 트윈 플랫폼 기업 엔젤스윙이 'NextCon 2026'에 참가하여 드론 스테이션 기반 스마트건설 DX 솔루션을 선보인다. 건설 현장의 데이터 자동화와 본사 중심의 원격 관리 체계를 통해 건설 산업의 디지털화를 추진하는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T13:29:01+09:00",
-    "importance": 2
   }
 ]
