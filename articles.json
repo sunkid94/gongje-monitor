@@ -23124,6 +23124,21 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "한국기술교육대, 건설현장 근로자와 안전동행 간담회 개최 - 뉴스충청인",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wSGo3YnpYUERFZm5QTVZCdGNpZm1HWVFVU0VZUHNGX2t4UHgxaFJIQnNIWXMzLXNXU3J4Q0MzRUVXb3BLVlE?oc=5",
+    "description": "(천안=뉴스충청인)김수환기자=한국기술교육대학교가산업안전보건의달을맞아건설현장근로자들과안전동행간담회를열고폭염속안전한작업환경조성과상",
+    "cluster_id": "07bb",
+    "publisher": "뉴스충청인",
+    "title_clean": "한국기술교육대, 건설현장 근로자와 안전동행 간담회 개최",
+    "summary": "한국기술교육대학교가 산업안전보건의 달을 맞아 건설현장 근로자들과 안전동행 간담회를 개최했다. 폭염 속 안전한 작업환경 조성과 근로자 보호 방안을 논의하는 행사다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-24T00:05:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "국가철도공단·국토안전관리원 영남본부 안전관리 맞손 - ccnnews.co.kr",
     "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=412538",
     "description": "국가철도공단 영남본부는 23일 국토안전관리원 영남지역본부와 '영남지역 건설현장 안전관리 강화를 위한 업무협약(MOU)'을 체결했다고 밝혔다. 이번 협약은 철도공단 영남본부 관내 건설현장에 국토안전관리원이 그동안...",
@@ -32276,21 +32291,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-21T21:40:16+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "기업 '안전성적표' 공개된다… ‘안전보건공시제’ 8월 시행 - 뉴스후플러스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzS0NpV1hQdnBEWV9fVTR4RWI5R3MzQXZHaWpkbVAxZ2gwZ1Z0NG9LNjVfMEJIX0dkeDdPazMzTW82ci1xMVNQSndsZkp3N3RtNm95TjZpTUNWWEJGT2ZpbWdmVUtHVklUUGlfQXlB?oc=5",
-    "description": "상시근로자 500명 이상 기업과 연간 건설공사 금액이 1200억원 이상인 건설사는 앞으로 산업재해와 안전보건 현황을 매년 공개해야 한다. 사업장이 위험성평가를 실시하지 않으면 위반 횟수에 따라 최대 1000만원의 과태료가 부과된다. 정부는 21일 국무회의에서 이 같은 내용을 담은 고용",
-    "published_at": "2026-07-21T15:24:29+09:00",
-    "cluster_id": "9f0d",
-    "publisher": "뉴스후플러스",
-    "title_clean": "기업 '안전성적표' 공개된다… ‘안전보건공시제’ 8월 시행",
-    "summary": "상시근로자 500명 이상 기업과 연간 건설공사 1200억원 이상 건설사는 8월부터 산업재해와 안전보건 현황을 매년 공개해야 한다. 위험성평가 미실시 시 최대 1000만원의 과태료가 부과되는 '안전보건공시제'가 시행된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-21T21:40:16+09:00",
-    "importance": 4
   }
 ]
