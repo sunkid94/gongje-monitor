@@ -23088,6 +23088,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염 속 건설현장 가보니 \"숨 막히는 열기\" - busanmbc.co.kr",
+    "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=287365",
+    "description": "하지만 민주노총 건설본부의 건설노동자 970여 명 대상 설문조사에 따르면, 휴식권이 보장되지 않거나, 휴게 시설이 없다는 응답이 30% 이상에 달했습니다.[정종득 / 안전보건공단 부산본부장]\"가장 큰 애로점이 뭐냐하면...",
+    "published_at": "2026-07-23T22:00:00+09:00",
+    "cluster_id": "e94d",
+    "publisher": "busanmbc.co.kr",
+    "title_clean": "폭염 속 건설현장 가보니 \"숨 막히는 열기\"",
+    "summary": "폭염 속 건설현장의 열악한 근무 환경이 문제로 지적되고 있다. 민주노총 설문조사 결과 30% 이상의 건설노동자가 휴식권 보장 부족과 휴게시설 부재를 호소하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-23T22:04:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32273,21 +32289,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-21T20:40:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 속 건설현장 가보니‥\"1분만 걸어도 땀 줄줄\" - imnews.imbc.com",
-    "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839019_37004.html",
-    "description": "[김해룡/건설 노동자] \"장갑 끼고도 손이 따가워요. 그럴 정도예요. 이게(철골을) 이고 다닐 때는, 뜨거울 때는 막 데여요.\" 안전모 안으로 흐른 땀은 작업복을 흠뻑 적시고, 얼굴에서는 땀방울이 비오듯 뚝뚝 떨어집니다....",
-    "published_at": "2026-07-21T19:58:00+09:00",
-    "cluster_id": "1b0c",
-    "publisher": "imnews.imbc.com",
-    "title_clean": "폭염 속 건설현장 가보니‥\"1분만 걸어도 땀 줄줄\"",
-    "summary": "폭염 속 건설현장 노동자들이 극심한 열악한 작업 환경에 노출되어 있습니다. 장갑을 껴도 손이 따가울 정도로 뜨거운 철골 작업을 진행하며 심각한 안전 위험에 처해 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-21T20:15:14+09:00",
-    "importance": 4
   }
 ]
