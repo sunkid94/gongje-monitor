@@ -23037,6 +23037,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 혁신 스타트업 12곳 발굴 … 오픈이노베이션으로 ‘미래 건설’ 속도전 - 워크투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWlNSUHg3STdXZ3ZnZnVxSi1FeHN4SW9EM2hWT3BveGhFSzZKbnZUT1NlcFU3cU92cXBHUWVTQ2VZNUNEME1BemtiV09fT081c0FIRzFGUXJDZWt3cmk3ZTE2VkRxWV85b3I1bA?oc=5",
+    "description": "현대건설이 오픈이노베이션 프로그램을 통해 건설·주거·헬스케어 등 다양한 분야의 혁신 스타트업을 발굴하며 미래 건설 경쟁력 강화에 속도를 내고 있다.스타트업과의 기술 협업을 본격화해 신사업과 현장 혁신을 동시에 추진하는 전략이다.현대건설은 서울경제진흥원과 공동 주관한 ‘2026 현대건설×서울 스타트업 오픈 이노베이션(SEOUL STARTUP OPEN INNOVATION)’ 공모전을 통해 유망 스타트업 12개사를 최종 선정했다고 23일 밝혔다.이번 공모전에는 지난 3월 26일부터 4월 19일까지 접수기간 동안 총 156개 스타트업이 지",
+    "published_at": "2026-07-23T19:41:44+09:00",
+    "cluster_id": "b4c7",
+    "publisher": "워크투데이",
+    "title_clean": "현대건설, 혁신 스타트업 12곳 발굴 … 오픈이노베이션으로 ‘미래 건설’ 속도전",
+    "summary": "현대건설이 서울경제진흥원과 함께 오픈이노베이션 프로그램을 통해 건설·주거·헬스케어 분야의 유망 스타트업 12곳을 선정했다. 스타트업과의 기술 협업으로 신사업 개발과 현장 혁신을 추진하며 미래 건설 경쟁력을 강화하는 전략이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T19:50:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32267,21 +32283,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-21T18:55:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "7분 만에 1500억 보석 털린 루브르, 다시 문 연다 - wowtv.co.kr",
-    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607210440&t=NN",
-    "description": "건설 노동자로 위장한 4인조 일당이 사다리차를 타고 침입해 프랑스 왕실 보석 8점을 훔쳐 달아났다. 범행에 걸린 시간은 단 7분으로, 도난 보석의 가치는 약 8,800만유로(약 1,481억원)로 추산된다. 현재까지 도난된 보석은...",
-    "published_at": "2026-07-21T18:40:00+09:00",
-    "cluster_id": "9c3a",
-    "publisher": "wowtv.co.kr",
-    "title_clean": "7분 만에 1500억 보석 털린 루브르, 다시 문 연다",
-    "summary": "루브르 박물관에서 건설 노동자로 위장한 4인조가 사다리차를 이용해 프랑스 왕실 보석 8점(약 1,481억원)을 7분 만에 절도했다. 건설 장비와 노동자 신분을 악용한 범행이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-21T18:45:00+09:00",
-    "importance": 4
   }
 ]
