@@ -7106,6 +7106,22 @@
     "event_label": "건설공제조합 2026 대한민국 랜드페어 개최"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 공공기관 오픈이노베이션 지원금 6억2000만원 확보 - 아주경제",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCc2FFakU0NWg1M0V6MWpCenJLOEJRYmFhVE5Ka0NONTI3MzlDbWFKdWI0Q2podG5TOHFuSTlKRXhRNkdCdG8wR0NZTmlMdkVpMTZmNDh2c1fSAVhBVV95cUxQQnNhRWpFNDVoNTNFejFqQnpySzhCUWJhYVROSmtDTjUyNzM5Q21hSnViNENqaHRuUzhxbkk5SkV4UTZHQnRvMEdDWU5pTHZFaTE2ZjQ4dnNX?oc=5",
+    "description": "롯데건설이 공공기관과의 협력을 통해 최대 6억2000만원 규모의 기술실증(PoC) 지원금을 확보했다. 이를 계기로 스마트 건설 기술을 현장에 도입하기 위한 오픈이...",
+    "published_at": "2026-07-23T16:08:14+09:00",
+    "cluster_id": "a13a",
+    "publisher": "아주경제",
+    "title_clean": "롯데건설, 공공기관 오픈이노베이션 지원금 6억2000만원 확보",
+    "summary": "롯데건설이 공공기관 오픈이노베이션 사업을 통해 6억2000만원 규모의 기술실증 지원금을 확보했다. 스마트 건설 기술의 현장 도입을 추진하여 건설 산업의 기술 혁신을 선도한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T21:10:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23052,22 +23068,6 @@
     "summary": "성수2지구 재개발 사업에서 DL이앤씨와 IPARK현대산업개발의 경쟁이 예상됐으나, 현재로서는 DL이앤씨가 단독 입찰에 참여할 가능성이 높아진 상황. 사업 수주를 놓고 시공사 간 경합이 약해지면서 경쟁 구도가 약화된 것으로 보임.",
     "sentiment": "neutral",
     "collected_at": "2026-07-15T15:50:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[도시정비시장 풍향계] 성수2지구…DL이앤씨 vs. IPARK현대산업개발 ‘리... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151525124180336",
-    "description": "내달 말 입찰…경쟁 성사 주목 서울 성동구 성수2지구 재개발 시공권을 놓고 DL이앤씨와 IPARK현대산업개발의 경쟁이 성사될지 관심이 집중된다. 2017년 중순 서초 신동아 재건축 사업을 두고 벌어진 경쟁에서...",
-    "published_at": "2026-07-15T15:40:00+09:00",
-    "cluster_id": "d0f9",
-    "publisher": "대한경제",
-    "title_clean": "[도시정비시장 풍향계] 성수2지구…DL이앤씨 vs. IPARK현대산업개발 ‘리...",
-    "summary": "서울 성동구 성수2지구 재개발 시공권을 두고 DL이앤씨와 IPARK현대산업개발이 경쟁 입찰을 벌일 예정이다. 내달 말 입찰을 앞두고 대형 건설사 간 경쟁 성사 여부가 주목받고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T15:45:28+09:00",
     "importance": 2
   },
   {
