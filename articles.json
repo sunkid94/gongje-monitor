@@ -23037,6 +23037,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "롯데건설, AI·로봇 ‘이종 관제’ 시스템 구축···스마트 건설 선두 주자로 - 여성경제신문",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZDgxS0VITDZQcGxhUGVmcnNtVThzT2RsNmstREV5ellQYTFLRUxqaC1KR2lXS3JqMVFVX0RtcmlKSnpybVFEeldxQWNBY2tIdUZXdUc2bnNoOWtiZ3lyNnBUc0hyVG0xR2RYYmRCNUp6eHPSAXdBVV95cUxOUUFVblRBZ2dRa3lqN3pGNzFfXzNhY3NNRS1sNnlscnpUMGdRQklZLVFVY05WZHNyY2RfOG83elc4ZGtwdm9aSHJOQkl2dFVOaERQWTVPU0t2V2s0LWJ3NnJ1N0Y2dVNmVW1NcVdRVzByaUhiV1Uycw?oc=5",
+    "description": "롯데건설이 인공지능(AI)과 자율주행 로봇을 실제 시공 현장에 투입하며 스마트 건설 기술의 실증 단계에 들어갔다. 단순히 개별 장비를 시험하는 수준을 넘어 감리기록 관리, 결함 탐지, 자재 운반, 중장비 관제 등 현장 운영 전반을 데이터 기반으로 연결하는 구조다.23일 롯데건설에 따르면 회사는 창업진흥원과 서울경제진흥원(SBA)이 주관하는 오픈이노베이션 지원사업을 통해 최대 6억2000만원 규모의 기술실증(PoC) 지원금을 확보했다. 올해 창업진흥원이 공고한 3개 오픈이노베이션 프로그램에 총 5개의 협업 과제를 신청해 모두 최종 선",
+    "published_at": "2026-07-23T16:56:52+09:00",
+    "cluster_id": "620b",
+    "publisher": "여성경제신문",
+    "title_clean": "롯데건설, AI·로봇 ‘이종 관제’ 시스템 구축···스마트 건설 선두 주자로",
+    "summary": "롯데건설이 AI와 자율주행 로봇을 실제 건설 현장에 투입하여 감리, 결함 탐지, 자재 운반 등 현장 운영 전반을 데이터 기반으로 통합 관제하는 스마트 건설 시스템을 구축했다. 창업진흥원과 SBA로부터 6억2000만원의 기술실증 지원금을 확보하며 차세대 건설기술 선도에 나섰다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T20:00:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32266,22 +32282,6 @@
     "summary": "충북건설협회가 옥천군과 건설산업 활성화를 위한 간담회를 개최했다. SOC 예산 확대, 중소업체 수주 지원, 적정 공사비 반영, 간접비 분쟁 방지 등을 논의하며 건설업계 현안 해결을 위한 협력을 도모했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-21T19:05:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 서대구역세권 특별계획구역 지정…민간투자 물꼬 튼다 - pennmike.com",
-    "link": "https://www.pennmike.com/news/articleView.html?idxno=124110",
-    "description": "대구시가 건설경기 침체로 난항을 겪던 서대구역세권 개발을 정상화하고 민간투자를 유도하기 위해 서대구역 일대를 '특별계획구역'으로 지정한다. 대구시는 복합환승센터부지(4만 4194㎡)를 포함한 서대구역 주변 14만...",
-    "published_at": "2026-07-21T18:50:00+09:00",
-    "cluster_id": "424a",
-    "publisher": "pennmike.com",
-    "title_clean": "대구시, 서대구역세권 특별계획구역 지정…민간투자 물꼬 튼다",
-    "summary": "대구시가 서대구역세권을 특별계획구역으로 지정하여 건설경기 침체로 어려움을 겪던 개발사업을 정상화하고 민간투자를 유도한다. 복합환승센터 등 대규모 인프라 개발로 건설수주 기회 확대가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T18:55:06+09:00",
     "importance": 2
   }
 ]
