@@ -7123,6 +7123,22 @@
     "event_label": "건설공제조합 2026 대한민국 랜드페어 개최"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "노태문 삼성전자 사장 “삼성의 다음 먹거리는 OO”…직속 전담조직 신... - munhwa.com",
+    "link": "https://www.munhwa.com/article/11604636?ref=naver",
+    "description": "삼성은 삼성전자 외에도 삼성디스플레이, 삼성전기, 삼성SDI, 삼성중공업, 삼성E&A 등 계열사가 디스플레이, 전자부품, 배터리, 조선·플랜트에 이르는 서로 다른 제조 현장을 두고 있는 만큼 휴머노이드가 각기 다른 계열사...",
+    "published_at": "2026-07-23T21:56:00+09:00",
+    "cluster_id": "9419",
+    "publisher": "munhwa.com",
+    "title_clean": "노태문 삼성전자 사장 “삼성의 다음 먹거리는 OO”…직속 전담조직 신...",
+    "summary": "삼성전자가 휴머노이드 로봇을 차세대 핵심 사업으로 육성하기 위해 직속 전담조직을 신설했다. 삼성의 다양한 계열사들(디스플레이, 배터리, 조선·플랜트 등)이 보유한 제조 역량을 활용하여 휴머노이드 개발에 집중할 계획이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T21:59:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23072,19 +23088,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 신기술",
+    "category": "신기술",
     "is_company": false,
-    "title": "성수2지구 DL·현산 맞대결?…막상 뚜껑 여니 '미지근' - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=202725",
-    "description": "당초 DL이앤씨와 IPARK현대산업개발의 맞대결이 예상됐지만 현재로서는 DL이앤씨가 단독으로 입찰에 참여할 가능성이 높은 것으로 점쳐진다. 15일 서울 성동구 성수동2가1동 성수2지구 조합 사무실에서 열린 2차 시공사...",
-    "published_at": "2026-07-15T15:42:00+09:00",
-    "cluster_id": "d89b",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "성수2지구 DL·현산 맞대결?…막상 뚜껑 여니 '미지근'",
-    "summary": "성수2지구 재개발 사업에서 DL이앤씨와 IPARK현대산업개발의 경쟁이 예상됐으나, 현재로서는 DL이앤씨가 단독 입찰에 참여할 가능성이 높아진 상황. 사업 수주를 놓고 시공사 간 경합이 약해지면서 경쟁 구도가 약화된 것으로 보임.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T15:50:43+09:00",
+    "title": "현대건설-서울경제진흥원, 차세대 건설 이끌 혁신 기술 발굴…12개사 선정 - 백세시대",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RdFRkeklDSTZSbVBhREl6ZThpcVA4UGYxTnZkazAtQTZ2LTFrZENYQmNHT09ST1FydzNDa0N2NFpfMUdaVFNYNFJ4aWVQS2NRM2VNMEVsVkhSUk9xR2RBWG01ZzE5YWstU0d3?oc=5",
+    "description": "[백세시대 = 김인하 기자] 현대건설이 미래 건설을 이끌 혁신 스타트업 12개사를 선정했다. 현대건설은 서울시 창업지원기관인 서울경제진흥원과 공동 주관한 '현대건",
+    "published_at": "2026-07-23T15:47:06+09:00",
+    "cluster_id": "e6e5",
+    "publisher": "백세시대",
+    "title_clean": "현대건설-서울경제진흥원, 차세대 건설 이끌 혁신 기술 발굴…12개사 선정",
+    "summary": "현대건설이 서울경제진흥원과 함께 차세대 건설 기술을 보유한 혁신 스타트업 12개사를 선정했다. 미래 건설산업을 주도할 신기술 발굴 및 육성을 통해 건설업계의 혁신을 추진하는 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T21:59:47+09:00",
     "importance": 2
   },
   {
@@ -32272,21 +32288,6 @@
     "summary": "폭염 속 건설현장 노동자들이 극심한 열악한 작업 환경에 노출되어 있습니다. 장갑을 껴도 손이 따가울 정도로 뜨거운 철골 작업을 진행하며 심각한 안전 위험에 처해 있습니다.",
     "sentiment": "negative",
     "collected_at": "2026-07-21T20:15:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설 작업 중 화재 및 폭발 안전 확보를 위한 지침. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGcyVjFVdnpXenlKSjNjSW9UbmFEMmE5dFFRclBJc0lYMm82RTNHT1JzVjFpOEVGRmVvZG1mbWRmYW5ob2hjdnNnYTR0QmprQWVkUUFHVUlYQjJneGU0eXhQdkVhbUl3Y0cyLUlnRGhlck1GVjdsZ3gyVUpjTXJJSXBPeTlhM0FoSXowSjdidUV0Ym5fMk1yTVRPRk9DYXZvZE82TlVjQQ?oc=5",
-    "description": "ANTD.VN - 건설 현장의 화재 및 폭발 안전을 확보하기 위해 하노이시 보데, 푸크로이, 롱비엔구 인민위원회와 협력하여 소방경찰 제18팀(화재예방·소방·구조대)이 초기 단계부터 위반 사항을 최소화하기 위한 화재 안전 점검을 실시했습니다.",
-    "cluster_id": "9f93",
-    "publisher": "Vietnam.vn",
-    "title_clean": "건설 작업 중 화재 및 폭발 안전 확보를 위한 지침.",
-    "summary": "하노이시 소방경찰이 건설 현장의 화재 및 폭발 안전을 확보하기 위해 관련 기관과 협력하여 화재 안전 점검을 실시했습니다. 초기 단계부터 위반 사항을 최소화하는 선제적 조치를 취하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-21T20:10:14+09:00",
     "importance": 4
   }
 ]
