@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비공제조합, 신한은행과 중동 진출 금융 지원확대 협력 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85VWdYTHRobkRfWUNOcTVodjdKdWttZ2ViSmg4NHZVb2RBRnRVTFBack00YWt1U2Y1UVdVWFRtU195eGlDak1XQTd2dVlBTzlaYmN6bm5zTFF6czcxTlpUVnRydDFzSFlKVGxV?oc=5",
+    "description": "CI GUARANTEE(기계설비건설공제조합, 이사장 직무대행 최운구, 이하 조합)은 신한은행 두바이지점과 중동 지역에 진출하는 조합원을 대상으로 금융지원 확대를 위한 업무협약을 체결했다고 23일 밝혔다.이번 협약은 최근 중동 지역 인프라 및 플랜트 건설 프로젝트 확대에 따라 우리 기업들의 금융지원 수요가 증가하는 상황에 맞춰 마련되었다. 양 기관은 기존의 긴밀한 협력 관계를 바탕으로 조합원의 금융 부담을 완화하고, 해외 수주 경쟁력을 높이는 데 뜻을 모았다.조합은 그간 국내외 주요 금융기관과 협력하여 해외에 진출하는 조합원들에게 해",
+    "published_at": "2026-07-23T17:12:00+09:00",
+    "cluster_id": "e045",
+    "publisher": "한국건설신문",
+    "title_clean": "기계설비공제조합, 신한은행과 중동 진출 금융 지원확대 협력",
+    "summary": "기계설비건설공제조합이 신한은행 두바이지점과 중동 진출 조합원을 위한 금융지원 확대 협약을 체결했다. 중동 인프라·플랜트 프로젝트 확대에 따른 금융 수요 증가에 대응하여 조합원의 금융 부담 완화와 해외 수주 경쟁력 강화를 도모한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T21:39:53+09:00",
+    "event_label": "기계설비건설공제조합 신한은행과 중동 진출 금융지원 확대 협약 체결",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32271,21 +32288,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-21T20:10:14+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'AI 데이터센터 건설산업 활성화 포럼' 첫 현장 간담회 - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=332514",
-    "description": "김석기 국토교통부 건설정책국장은 \"데이터센터는 AI 시대 국가 경쟁력을 좌우하는 핵심 인프라이자 건설산업의 새로운 성장동력\"이라며 \"정책은 현장에서 출발해야 하는 만큼 앞으로도 포럼과 함께 현장을 찾아 기업이...",
-    "published_at": "2026-07-21T19:36:00+09:00",
-    "cluster_id": "a0d1",
-    "publisher": "e2news.com",
-    "title_clean": "'AI 데이터센터 건설산업 활성화 포럼' 첫 현장 간담회",
-    "summary": "국토교통부가 'AI 데이터센터 건설산업 활성화 포럼'을 개최하며 데이터센터를 AI 시대 국가 경쟁력의 핵심 인프라이자 건설산업의 새로운 성장동력으로 제시했다. 정부가 현장 중심의 정책 추진을 통해 건설업계의 의견 수렴과 지원을 강화하겠다는 의지를 드러냈다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T19:40:09+09:00",
-    "importance": 2
   }
 ]
