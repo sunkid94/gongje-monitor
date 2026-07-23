@@ -22425,6 +22425,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현장에 등장한 '안전 캐릭터'…한화건설 '한수호' 공개 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tY1FvbHJvTE50U3RwNVctREdvNUlIdlM1ZVJ6UFd4czRiWXI0MndPLUZMTDNhTVZsdVZsWnM5TVl0UW1PakhoRERYVUdnNW13UDFnM2ZmX01iX19kdVYwcTV2eWh2X040bEHSAW9BVV95cUxNN1VHdm5fRE1Rd1pYZVlJSjBxd0pZUGJORGRzTU1lUjJNcmlHQ2VqaGh6NUJldWlkdnZzaC1HUkhXcGF1SzdJNkJkaWcyd1BUbk4wOThvMXgwN3Jvd0ZBR3FZU1EtUVVMSlpFQks5cTA?oc=5",
+    "description": "한화 건설부문은 건설현장의 안전문화를 확산하고 근로자들에게 안전수칙을 보다 쉽고 친근하게 전달하기 위해 자체 기획한 안전캐릭터 '한수호'를 공개했다. 한화 건설부문은 안전캐릭터 '한수호'를 현장 안전시설물과 안내판, 안전포스터, 교육자료, 캠페인 콘텐츠 등에 순차적으로 적용할 예정이라고 23일 밝혔다.",
+    "published_at": "2026-07-23T10:15:28+09:00",
+    "cluster_id": "183f",
+    "publisher": "머니투데이",
+    "title_clean": "현장에 등장한 '안전 캐릭터'…한화건설 '한수호' 공개 - 머니투데이",
+    "summary": "한화건설이 건설현장의 안전문화 확산을 위해 자체 기획한 안전캐릭터 '한수호'를 공개했다. 이 캐릭터는 현장 안전시설물, 안내판, 포스터, 교육자료, 캠페인 콘텐츠 등에 순차적으로 적용될 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T10:24:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32226,21 +32242,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-20T18:44:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토·행안부, GTX 삼성역 구간 합동점검 4개월 연장 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZMzE5RXVHMDdDR1dqdEZWaHVpWkhGRnBZS1loX090a1lzX3FaMzRxWmlqNHB3SkJzWi1JTDFUbFlQOTRsU2lVZ2hRbjlOTTFCMVlr?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : \\▲ 김윤덕 국토교통부 장관이 5월 서울 강남구 영동대로 지하공간 복합개발사업 건설공사 현장을 방문, 점검하고 있다. 국토교통부와 행정안전부는 GTX 삼성역 시공오류에 대한 합동점검 기간을 오는 11월 20일까지로 4개월 연장한다고 오",
-    "published_at": "2026-07-20T18:21:00+09:00",
-    "cluster_id": "5813",
-    "publisher": "네이트",
-    "title_clean": "국토·행안부, GTX 삼성역 구간 합동점검 4개월 연장",
-    "summary": "국토교통부와 행정안전부가 GTX 삼sermon역 시공오류에 대한 합동점검 기간을 11월 20일까지 4개월 연장했다. 이는 시공 결함 문제의 심각성을 반영하며 건설업계에 규제 강화 신호를 보낸다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-20T18:34:00+09:00",
-    "importance": 4
   }
 ]
