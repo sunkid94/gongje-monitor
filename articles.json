@@ -23071,6 +23071,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "부진경자청 입주기업 후속 투자 이어져 - gnmaeil.com",
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=591315",
+    "description": "착공 건수 역시 건설경기 침체에도 전년 동기 21건에서 46건으로 두 배 이상 증가를 기록했다. 특히 이재모피자 생산공장 건립, 세진밸브공업 연구소 건립, KSP 생산설비 증설, 고모텍 신규 공장 투자 등은 모두 후속...",
+    "published_at": "2026-07-23T21:20:00+09:00",
+    "cluster_id": "af7a",
+    "publisher": "gnmaeil.com",
+    "title_clean": "부진경자청 입주기업 후속 투자 이어져",
+    "summary": "부진경자청 입주기업들이 건설경기 침체 속에도 후속 투자를 지속하고 있으며, 착공 건수가 전년 동기 21건에서 46건으로 2배 이상 증가했다. 이재모피자, 세진밸브공업, KSP, 고모텍 등 여러 기업이 생산시설 확장 및 신규 투자를 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T21:24:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32269,21 +32285,6 @@
     "title_clean": "'AI 데이터센터 건설산업 활성화 포럼' 첫 현장 간담회",
     "summary": "국토교통부가 'AI 데이터센터 건설산업 활성화 포럼'을 개최하며 데이터센터를 AI 시대 국가 경쟁력의 핵심 인프라이자 건설산업의 새로운 성장동력으로 제시했다. 정부가 현장 중심의 정책 추진을 통해 건설업계의 의견 수렴과 지원을 강화하겠다는 의지를 드러냈다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-21T19:40:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[경기in] 경기도의회 건설교통위원회, 제12대 전반기 상임위 구성 의정활동 본격 개시 - 경기in",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5IbDl1OE4tX3ZlUThmbEpmTzJLRXBMamJCRDlyVUlwV09ld0hybzJIZEpUZFZzUGZzZ19Qc1I1LVB6VW8?oc=5",
-    "description": "건설교통위원회, 제12대 전반기 상임위 구성 의정활동 본격 개시 [경기IN=오효석 기자] 경기도의회 건설교통위원회는 제12대 전반기 부위원장 선임 등 상",
-    "cluster_id": "a436",
-    "publisher": "경기in",
-    "title_clean": "[경기in] 경기도의회 건설교통위원회, 제12대 전반기 상임위 구성 의정활동 본격 개시",
-    "summary": "경기도의회 건설교통위원회가 제12대 전반기 상임위 구성을 완료하고 의정활동을 시작했다. 건설교통 분야 주요 현안에 대한 의회의 감시 및 입법 활동이 본격화될 것으로 예상된다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-21T19:40:09+09:00",
     "importance": 2
   }
