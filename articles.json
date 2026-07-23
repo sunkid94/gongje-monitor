@@ -7173,6 +7173,22 @@
     "event_label": "건설공제조합 2026 대한민국 랜드페어 개최"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "영등포 신길뉴타운에 하이엔드 아파트 분양 - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20260723/134354026/2",
+    "description": "대우건설은 서울 영등포구 신길동 신길10재정비촉진구역에서 ‘써밋 클라비온’(투시도)을 분양할 예정이라고 23일 밝혔다. 재건축 사업으로 공급되는 단지로 한국토지신탁이 시행을, 대우건설이 시공을 맡았다. 8개...",
+    "published_at": "2026-07-24T00:31:00+09:00",
+    "cluster_id": "a1a1",
+    "publisher": "donga.com",
+    "title_clean": "영등포 신길뉴타운에 하이엔드 아파트 분양",
+    "summary": "대우건설이 서울 영등포구 신길동 재건축 사업으로 '써밋 클라비온' 아파트를 분양한다. 한국토지신탁이 시행하고 대우건설이 시공하는 하이엔드 단지다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T00:34:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23118,21 +23134,6 @@
     "publisher": "realty.chosun.com",
     "title_clean": "'2조' 성수2지구 재개발 현장설명회에 DL이앤씨·IPARK현산 참석",
     "summary": "성수2지구 재개발 조합이 2조 규모 프로젝트의 시공사 입찰을 재공고하며 DL이앤씨와 IPARK현대산업개발이 현장설명회에 참석했다. 지난해 입찰 무산 이후 새롭게 추진되는 대규모 건설 수주 기회다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T16:30:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[이슈] 성수2·목동12, 시공사 선정 본격화…설명회에 성수 2개·목동 4개 대형사 참석 ‘대조’ - 팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wX3VtX29qbjVRZlBfSHJJQ2R2d3NJMVR0LXhsQ2Y4Yml3WGE3dWR2c1lCS0kyYi00cS1PVzlzcnVwS2wxbkdvWjRZWnZIRFh3SEM5amtUQ21JMEV4QmZYZXJTd00zbFk?oc=5",
-    "description": "서울의 대형 정비사업지로 꼽히는 성수2지구(재개발)와 목동12단지(재건축)가 15일 나란히 현장설명회를 열고 시공사 선정 절차를 본격화했다. 성수2지구 현설회에는 DL이앤씨와 IPARK현대산업개발 2개사만 참여한 반면 목동12단지에는 IPARK현대산업개발&middot;포스코이앤씨&middot;GS건설&middot;대우건설 등 4개사가 참석해 대조를 이뤘다.◆ 사업비 2조원 성수2지구...DL이앤씨&middot;IPARK현산 2파전 양상성수2지구는 현장설명회 전부터 DL이앤씨와 IPARK현대산업개발의 참여가 예상됐던 사업지다. 설명회",
-    "cluster_id": "ef3c",
-    "publisher": "팍스경제TV",
-    "title_clean": "[이슈] 성수2·목동12, 시공사 선정 본격화…설명회에 성수 2개·목동 4개 대형사 참석 ‘대조’",
-    "summary": "서울의 대형 정비사업인 성수2지구(재개발)와 목동12단지(재건축)가 시공사 선정을 위한 현장설명회를 개최했다. 성수2지구는 2조원 규모로 DL이앤씨와 IPARK현대산업개발 2개사가 참여한 반면, 목동12단지는 IPARK현대산업개발, 포스코이앤씨, GS건설, 대우건설 등 4개사가 참석하며 대조를 보였다.",
     "sentiment": "positive",
     "collected_at": "2026-07-15T16:30:34+09:00",
     "importance": 2
