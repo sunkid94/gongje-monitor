@@ -22953,6 +22953,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대규모 공사, 지역업체와 '상생' 기대한다 - samdailbo.com",
+    "link": "http://www.samdailbo.com/news/articleView.html?idxno=267983",
+    "description": "건설경기 침체가 장기화되면서 제주도내 건설업체들도 어려움을 겪고 있다. 이런 상황에서 도내 영세 업체들은 대규모 공사의 하도급이라도 받으려고 노력한다. 지역 건설산업 경기 활성화를 명분으로 내세우며 어떻게...",
+    "published_at": "2026-07-23T18:00:00+09:00",
+    "cluster_id": "d2b2",
+    "publisher": "samdailbo.com",
+    "title_clean": "대규모 공사, 지역업체와 '상생' 기대한다",
+    "summary": "건설경기 침체로 제주도내 건설업체들이 어려움을 겪고 있으며, 영세 업체들은 대규모 공사의 하도급 수주를 통해 경기 활성화를 기대하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T18:04:46+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현장 안전 지키는 ‘한수호’…한화 건설부문 캐릭터 첫선 - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSnlZSmdYay1RVDZLTUZHQ3REV0NUMFlEWXJBU3JCUThObHZlUmJsZEphaGJYNnctNmNBaFRneGxObjdZT2stTnRXYkhPODhvcFHSAVNBVV95cUxNMXozSE1DSDdIdXM0R2l0R3dfOVJpUzI0WkF3R2ZoblhzRlpWTk90ZE1FQlBpNUh6dDhsUDhlaEhyTW9fOVRsYjEwWWQyWVZDWER3MA?oc=5",
+    "description": "한화 건설부문은 건설현장 근로자들과 안전소통을 강화하기 위해 안전캐릭터 ‘한수호’를 제작했다고 23일 밝혔다. 김우석 한화 건설부문 대표는 “안전은 제도와 규정에 머무르는 것이 아니라 현장 구성원 모두가 일상에서 이해하고 실천할 때 비로소 문화로 자리 잡을 수 있다”며",
+    "published_at": "2026-07-23T17:50:12+09:00",
+    "cluster_id": "b852",
+    "publisher": "서울경제",
+    "title_clean": "현장 안전 지키는 ‘한수호’…한화 건설부문 캐릭터 첫선",
+    "summary": "한화 건설부문이 건설현장 안전문화 강화를 위해 안전캐릭터 '한수호'를 제작했다. 현장 근로자들과의 안전소통을 강화하여 안전을 일상적 문화로 정착시키려는 취지다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T18:04:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,37 +32278,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-21T17:40:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시회, 대형 건설사 본사 방문해 지역업체 하도급 세일즈 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325453",
-    "description": "대한전문건설협회 대구시회(회장 최상대)는 지역건설경기 활성화를 위해 지난 16일 대구시와 함께 호반건설, 롯데건설 서울 본사를 차례로 방문해 지역업체 하도급 세일즈 활동을 펼쳤다. 대구시회와 대구시는 지역업체...",
-    "published_at": "2026-07-21T17:28:00+09:00",
-    "cluster_id": "0f42",
-    "publisher": "대한전문건설신문",
-    "title_clean": "대구시회, 대형 건설사 본사 방문해 지역업체 하도급 세일즈",
-    "summary": "대한전문건설협회 대구시회가 대구시와 함께 호반건설, 롯데건설 등 대형 건설사 본사를 방문하여 지역 건설업체의 하도급 수주 기회를 모색하는 세일즈 활동을 전개했다. 지역 건설경기 활성화를 위한 협회의 주도적 영업 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T17:35:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "위성곤 지사 \"추경예산, 민생 회복.지역경제 활력화에 최우선\" - headlinejeju.co.kr",
-    "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596252",
-    "description": "건축 착공 면적과 건축 허가 면적 등의 지표는 전년 대비 감소한 것으로 나타나면서 건설경기 침체 현상 역시 뚜렷하게 나타나고 있습니다. 무엇보다 뼈아픈 것은 이처럼 도민경제가 위태로운 시기에 우리 도의 재정...",
-    "published_at": "2026-07-21T15:48:00+09:00",
-    "cluster_id": "2fe9",
-    "publisher": "headlinejeju.co.kr",
-    "title_clean": "위성곤 지사 \"추경예산, 민생 회복.지역경제 활력화에 최우선\"",
-    "summary": "건축 착공·허가 면적이 전년 대비 감소하면서 건설경기 침체가 심화되고 있습니다. 위성곤 지사는 추경예산을 민생 회복과 지역경제 활력화에 우선 투자하겠다고 강조했습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-21T17:35:20+09:00",
-    "importance": 4
   }
 ]
