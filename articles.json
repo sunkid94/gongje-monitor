@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "도회 기계설비협회 회원사 4명 장관 표창 - 전북중앙",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSGZjdnRrUV92LUYtZmVXcTZVSmlzQ1h2aExLQ3R5bDJqTkljak44WDl1aURZeTN5dm9zVGxxV1RMUF96OGJQMHBUU0dyT3VLTWI1UnBySG5ZUlBLZXNtRFVjYm9SWUh1TGZB0gFrQVVfeXFMUFBIZmN2dGtRX3YtRi1mZVdxNlVKaXNDWHZoTEtDdHlsMmpOSWNqTjhYOXVpRFl5M3l2b3NUbHFXVExQX3o4YlAwcFRTR3JPdUtNYjVScHJIbllSUEtlc21EVWNib1JZSHVMZkE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSGZjdnRrUV92LUYtZmVXcTZVSmlzQ1h2aExLQ3R5bDJqTkljak44WDl1aURZeTN5dm9zVGxxV1RMUF96OGJQMHBUU0dyT3VLTWI1UnBySG5ZUlBLZXNtRFVjYm9SWUh1TGZB0gFrQVVfeXFMUFBIZmN2dGtRX3YtRi1mZVdxNlVKaXNDWHZoTEtDdHlsMmpOSWNqTjhYOXVpRFl5M3l2b3NUbHFXVExQX3o4YlAwcFRTR3JPdUtNYjVScHJIbllSUEtlc21EVWNib1JZSHVMZkE?oc=5\" target=\"_blank\">도회 기계설비협회 회원사 4명 장관 표창</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북중앙</font>",
+    "cluster_id": "0371",
+    "publisher": "전북중앙",
+    "title_clean": "도회 기계설비협회 회원사 4명 장관 표창",
+    "summary": "도회 기계설비협회 회원사 소속 4명이 장관 표창을 수상했다. 기계설비 업계의 우수 인력이 정부로부터 인정받은 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T22:34:46+09:00",
+    "event_label": "기계설비협회 회원사 4명 장관 표창 수상",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32272,21 +32288,6 @@
     "title_clean": "한국토지주택공사, 민간 건설사 지원 확대… 공공주택 공급 속도낸다",
     "summary": "한국토지주택공사가 민간 건설사 지원을 확대하여 공공주택 공급을 가속화하고 있다. 이는 건설사의 자금 조달 불확실성을 줄여 사업 참여 유인을 증대하고 건설경기를 보완하는 정책이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-21T20:40:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "조철기 충남도의회 의장, 건설노동자 현장 목소리 청취 - nmn.ff.or.kr",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16czZyd2hMUmxzVWNzb2VwM0Fkdl9yQ05ieDNQTURPNWsySlpqSDQtemRTSlh2QnJucFBzUUp2X081RTl1RDZwVFR6UzZwSU9qc0tJQ29pY20tdXA2Tmc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE16czZyd2hMUmxzVWNzb2VwM0Fkdl9yQ05ieDNQTURPNWsySlpqSDQtemRTSlh2QnJucFBzUUp2X081RTl1RDZwVFR6UzZwSU9qc0tJQ29pY20tdXA2Tmc?oc=5\" target=\"_blank\">조철기 충남도의회 의장, 건설노동자 현장 목소리 청취</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nmn.ff.or.kr</font>",
-    "cluster_id": "cb27",
-    "publisher": "nmn.ff.or.kr",
-    "title_clean": "조철기 충남도의회 의장, 건설노동자 현장 목소리 청취",
-    "summary": "조철기 충남도의회 의장이 건설노동자들의 현장 목소리를 청취하는 활동을 진행했습니다. 건설현장의 실질적인 노동 환경과 애로사항을 파악하기 위한 소통 행사로 보입니다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-21T20:40:07+09:00",
     "importance": 2
   }
