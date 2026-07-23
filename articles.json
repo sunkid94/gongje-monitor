@@ -23121,6 +23121,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국가철도공단·국토안전관리원 영남본부 안전관리 맞손 - ccnnews.co.kr",
+    "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=412538",
+    "description": "국가철도공단 영남본부는 23일 국토안전관리원 영남지역본부와 '영남지역 건설현장 안전관리 강화를 위한 업무협약(MOU)'을 체결했다고 밝혔다. 이번 협약은 철도공단 영남본부 관내 건설현장에 국토안전관리원이 그동안...",
+    "published_at": "2026-07-23T23:56:00+09:00",
+    "cluster_id": "0d6d",
+    "publisher": "ccnnews.co.kr",
+    "title_clean": "국가철도공단·국토안전관리원 영남본부 안전관리 맞손",
+    "summary": "국가철도공단 영남본부와 국토안전관리원 영남지역본부가 영남지역 건설현장 안전관리 강화를 위한 업무협약을 체결했다. 철도공단 관내 건설현장에 대한 안전관리 감시·감독이 강화될 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-24T00:00:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-21T21:40:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "여수광양항만공사, 폭염 대비 건설현장 온열질환 예방 안전보건활동 펼쳐 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBadndNNjh1QktobG10LThyZmdRSW9QU1hPWVZFVGxCT2psQUwtTU5FS2ZVMGpwZ042UzkydVVTeGpTSDNwaWQ3dXlKUEU4NEJaZmpXS2JSMy0wcjlsdnlwZ0YzUFdZWVRBLS1hcWVFWmdLUDTSAXdBVV95cUxONnhEWG9FNW56dlFGNWFqaGRldUlLX0MwUWc4MkRUUFhCRFUyemMxcGwxOG1Ub3NFSlpiTXNZSmZmR0NjTExnb09QRkJpVDg4clhkWmg1djJZVXhOMjVBN2VPeFpFMDFQOWV3WHJsZkZXcFktakZCcw?oc=5",
-    "description": "여수광양항만공사(YGPA)가 혹서기 건설현장의 안전을 확보하고 작업자들의 건강을 지키기 위한 현장 밀착형 안전보건활동에 나섰다.21일 여수광양항만공사에 따르면 개발사업부사장이 직접 건설현장을 방문해 근로자를 격려하고 보냉장구를 지급하는 등 작업자의 온열질환 예방을 위한 안전보건활동을 추진했다.공사는 현장 작업자 안전 관리의 일환으로 작업 착수 전",
-    "published_at": "2026-07-21T16:54:21+09:00",
-    "cluster_id": "5579",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "여수광양항만공사, 폭염 대비 건설현장 온열질환 예방 안전보건활동 펼쳐",
-    "summary": "여수광양항만공사가 폭염 시즌을 맞아 건설현장의 온열질환 예방을 위한 안전보건활동을 추진하고 있다. 경영진이 현장을 방문해 근로자를 격려하고 보냉장구를 지급하는 등 작업자 안전 관리에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-21T21:10:10+09:00",
-    "importance": 2
   }
 ]
