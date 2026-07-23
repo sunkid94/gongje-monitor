@@ -23124,6 +23124,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "캠코, 공공개발사업장 AI 기반 안전관리 강화…중대재해 예방 체계 구축 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MOWI3UWVWRmlud3NWLWhCRW9Uc09Ya29SaWZvdm1YekxYV0dJdHJfc1BuYWprY2Y2ZE81c3JZV3BKWENNVjRKbE1zRHZCa2tsOG9rajVB?oc=5",
+    "description": "- 건설부터 준공까지 전 과정 안전보건관리 강화,- '안전의식 100%, 안전사고 0%' 슬로건 선포,- 특별 안전교육·경영진 점검 통해 현장 안전문화 확산",
+    "published_at": "2026-07-23T23:00:00+09:00",
+    "cluster_id": "621b",
+    "publisher": "위키트리",
+    "title_clean": "캠코, 공공개발사업장 AI 기반 안전관리 강화…중대재해 예방 체계 구축",
+    "summary": "캠코가 공공개발사업장에 AI 기반 안전관리 시스템을 도입하여 건설 전 과정의 안전보건관리를 강화하고 있다. '안전의식 100%, 안전사고 0%' 슬로건 선포와 함께 특별 안전교육 및 경영진 점검을 통해 중대재해 예방 체계를 구축 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T23:09:45+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "국토안전관리원·국가철도공단, 남부내륙철도 안전관리 강화 맞손 - 건설이코노미뉴스",
     "link": "http://www.cenews.kr/news/articleView.html?idxno=40914",
     "description": "[건설이코노미뉴스] 국토안전관리원(원장 박창근) 영남지역본부는 국가철도공단(부이사장 이안호)과 건설재해 예방 및 스마트 안전관리 체계 확산을 위한 업무협약(MOU)을 체결했다고 최근 밝혔다.이번 협약은 국토안전관리원이 추진하고 있는 '스마트 안전장비 지원사업'을 국가철도공단이 시행 중인 남부내륙철도 건설사업 등 주요 국가 인프라 사업에 접목하기 위해 마련됐다.국토안전관리원은 건설현장의 안전사고 예방을 위해 스마트 안전장비 지원사업을 중점 추진해 왔으며, 이를 통해 현장 중심의 예방적 안전관리 체계 구축에 힘써왔다.양 기관은 이번 협",
@@ -32275,21 +32291,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-21T21:04:58+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "서대구역 복합환승센터 새 판 짠다…대구시, 특별계획구역 지정해 민간... - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05946646645516816",
-    "description": "복합환승센터 지정은 건설경기 침체와 민간 투자 위축으로 사업 신청자가 나타나지 않으면서 3년간의 유효기간이 종료됐다. 다만 이는 사업 자체가 중단되는 것은 아니다. 대구시는 민간사업자가 확보될 경우...",
-    "published_at": "2026-07-21T20:48:00+09:00",
-    "cluster_id": "054b",
-    "publisher": "edaily.co.kr",
-    "title_clean": "서대구역 복합환승센터 새 판 짠다…대구시, 특별계획구역 지정해 민간...",
-    "summary": "서대구역 복합환승센터 사업이 3년 유효기간 종료로 지정이 해제되었으나, 대구시가 특별계획구역 지정을 통해 민간사업자 유치를 추진하면서 사업 자체는 계속된다. 건설경기 침체로 인한 일시적 차질이지만 시 주도의 재추진으로 향후 프로젝트 재개 가능성이 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-21T21:00:05+09:00",
-    "importance": 2
   }
 ]
