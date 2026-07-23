@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비건설공제조합, 신한은행과 중동 진출 조합원 금융지원 업무협력 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42NXVINEE1dFNCa2paVXM5Um51SGx3T0VQSlJqUTB5ZGluemJaQmVWOG83OVZ5TklFR3cwNmI2S081aVY5NVJ1YktWMzRPOFZTRDBlU2Utald4aXJQWUtmdHMtX1B2WVloNEF0cXNXM2hsLVU?oc=5",
+    "description": "(왼쪽부터) 지난 6일 장창우 기계설비건설공제조합 영업관리본부장과 임민우 신한은행 두바이지점장이중동 지역 진출 조합원 대상금융지원업무협약을 체결한 후 기념촬영을 하고 있다./사진: 기계설비건설공제조합 제공[대한경제=김수정 기자]기계설비건설공제조합(이사장 직무대행 최운구 ...",
+    "published_at": "2026-07-23T15:34:15+09:00",
+    "cluster_id": "c913",
+    "publisher": "대한경제",
+    "title_clean": "기계설비건설공제조합, 신한은행과 중동 진출 조합원 금융지원 업무협력",
+    "summary": "기계설비건설공제조합이 신한은행 두바이지점과 업무협약을 체결하여 중동 지역 진출 조합원을 위한 금융지원 체계를 구축했다. 이는 해외 시장 진출 지원을 통해 조합원의 사업 기반 확대를 돕는 조치다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T19:09:33+09:00",
+    "event_label": "기계설비건설공제조합, 신한은행과 중동 지역 진출 조합원 금융지원 협약 체결",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32262,21 +32279,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-21T18:00:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LH, 민간참여사업 금융지원 설명회 개최 - newsdream.kr",
-    "link": "http://www.newsdream.kr/news/articleView.html?idxno=114782",
-    "description": "이번 설명회는 민간건설사의 '민간참여 공공주택사업'(이하 민간참여사업) 참여 확대 및 위축된 민간 건설경기 활성화를 목표로 새롭게 마련한 금융지원 상품구조와 운용 방안 등을 알리고자 LH, 주택도시보증공사(HUG)가...",
-    "published_at": "2026-07-21T17:50:00+09:00",
-    "cluster_id": "c2b5",
-    "publisher": "newsdream.kr",
-    "title_clean": "LH, 민간참여사업 금융지원 설명회 개최",
-    "summary": "LH와 HUG가 민간건설사의 공공주택사업 참여를 확대하기 위해 새로운 금융지원 상품과 운용 방안을 설명하는 설명회를 개최했다. 이는 위축된 민간 건설경기 활성화를 목표로 추진되는 지원책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T18:00:06+09:00",
-    "importance": 2
   }
 ]
