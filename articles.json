@@ -7106,6 +7106,22 @@
     "event_label": "건설공제조합 2026 대한민국 랜드페어 개최"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"두산에너빌리티, 美원전 수주 내년 가시화…목표가↓\"-KB - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MTQ3amhMeU9wQVR6TGRSWDVCcWszVU5WaWl5eUFRemM3dzRfbTVVd25tUzJzQnhWLW5SM1E1YjZlMXUwRy0yMUR5SkJHRDZZT3FtMkVJMjg2QQ?oc=5",
+    "description": "\"두산에너빌리티, 美원전 수주 내년 가시화…목표가↓\"-KB, 고정삼 기자, 증권",
+    "published_at": "2026-07-23T08:38:57+09:00",
+    "cluster_id": "2998",
+    "publisher": "한국경제",
+    "title_clean": "\"두산에너빌리티, 美원전 수주 내년 가시화…목표가↓\"-KB",
+    "summary": "두산에너빌리티가 미국 원전 수주를 내년에 구체화할 것으로 예상되면서 긍정적 신호를 보이고 있습니다. 다만 KB증권이 목표가를 인하한 것으로 보아 실현 가능성에 대한 신중한 평가가 있는 상황입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T21:00:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23052,22 +23068,6 @@
     "summary": "서울 성동구 성수2지구 재개발 시공권을 두고 DL이앤씨와 IPARK현대산업개발이 경쟁 입찰을 벌일 예정이다. 내달 말 입찰을 앞두고 대형 건설사 간 경쟁 성사 여부가 주목받고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-15T15:45:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "성수2지구 2조 수주전 돌입…현설에 DL이앤씨·IPARK현산 참석 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260715_0003710695",
-    "description": "성수4지구는 대우건설과 경쟁 끝에 수주에 성공한 롯데건설이 시공을 맡아 지상 최고 64층, 1447가구 규모의 단지를 조성할 예정이다. 성수전략정비구역은 서울숲과 한강을 품은 입지에 강남 접근성까지 뛰어나 향후...",
-    "published_at": "2026-07-15T15:35:00+09:00",
-    "cluster_id": "b175",
-    "publisher": "newsis.com",
-    "title_clean": "성수2지구 2조 수주전 돌입…현설에 DL이앤씨·IPARK현산 참석",
-    "summary": "성수2지구 2조 규모 대형 프로젝트 수주전이 본격화되며 DL이앤씨, IPARK현산 등이 참여하고 있다. 성수4지구는 롯데건설이 수주해 64층 1447가구 규모의 대형 단지를 조성할 예정으로, 강남 접근성과 입지 조건이 우수한 프로젝트다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-15T15:40:28+09:00",
     "importance": 2
   },
   {
