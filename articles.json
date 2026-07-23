@@ -7004,6 +7004,22 @@
     "event_label": "대한기계설비건설협회 회원사 협회 운영 예산 공개 촉구"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, AI·로봇 기술로 시공현장 혁신 속도 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202607231818405767",
+    "description": "롯데건설이 오픈이노베이션 지원사업을 통해 최대 6억2000만원의 기술실증(PoC) 지원금을 확보하면서 건설 자동화, 인공지능(AI), 로봇 관제 등 실제 시공 현장에 적용할 혁신 기술 검증에 속도를 낸다. 롯데건설은 올해...",
+    "published_at": "2026-07-23T18:21:00+09:00",
+    "cluster_id": "37e1",
+    "publisher": "fnnews.com",
+    "title_clean": "롯데건설, AI·로봇 기술로 시공현장 혁신 속도",
+    "summary": "롯데건설이 오픈이노베이션 지원사업을 통해 6억2000만원의 기술실증 지원금을 확보했다. AI, 로봇 기술 등 건설 자동화 혁신 기술을 실제 시공현장에 적용하는 것을 추진한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-23T18:24:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22951,22 +22967,6 @@
     "summary": "IPARK현대산업개발이 성남 태평3구역 공공재개발 사업을 수주하며 올해 도시정비사업의 첫 신고를 기록했다. 상반기 복합개발과 비주택 사업에 집중한 후 하반기부터 정비사업 수주를 확대하는 전략을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-15T12:19:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "‘거제 푸르지오 마린피스’ 분양 - knnews.co.kr",
-    "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1546474",
-    "description": "무엇보다 삼성중공업 거제조선소가 도보 거리에 위치해 직주근접성이 높고, 거제대로와 통영나들목(IC), 거가대교 이용이 수월하다. 향후 KTX 남부내륙철도 개통(예정)과 빅아일랜드(고현항 항만재개발사업) 조성 시...",
-    "published_at": "2026-07-15T10:58:00+09:00",
-    "cluster_id": "69f0",
-    "publisher": "knnews.co.kr",
-    "title_clean": "‘거제 푸르지오 마린피스’ 분양",
-    "summary": "거제 푸르지오 마린피스 아파트 분양 뉴스로, 삼성중공업 인근 입지와 교통 인프라(거가대교, KTX 남부내륙철도 등) 우수성을 강조하고 있다. 지역 개발 사업(빅아일랜드 등)을 통한 주택 수요 증가 가능성을 시사하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T11:09:27+09:00",
     "importance": 2
   },
   {
