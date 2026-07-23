@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비건설협 강원도회 표창 수상 - 강원도민일보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XcTNvV1pFeEpZV3FUMXpYa0JVTGdvTWVNTGJfaGdUYnV6WXFXbXFlMzluNlozeHVtZU94X3pLSFNNWWdYRXZEUkdkZWxCUXN1bW8yanl1Y1k1WFNBMHVxdUp0WUE1STg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XcTNvV1pFeEpZV3FUMXpYa0JVTGdvTWVNTGJfaGdUYnV6WXFXbXFlMzluNlozeHVtZU94X3pLSFNNWWdYRXZEUkdkZWxCUXN1bW8yanl1Y1k1WFNBMHVxdUp0WUE1STg?oc=5\" target=\"_blank\">기계설비건설협 강원도회 표창 수상</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원도민일보</font>",
+    "published_at": "2026-07-24T00:02:01+09:00",
+    "cluster_id": "ba05",
+    "publisher": "강원도민일보",
+    "title_clean": "기계설비건설협 강원도회 표창 수상",
+    "summary": "기계설비건설협 강원도회가 표창을 수상했다. 협회의 활동 실적이 인정받은 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T00:30:16+09:00",
+    "event_label": "대한기계설비건설협회 강원도회 표창 수상",
+    "importance": 5
+  },
+  {
     "keyword": "기계설비건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -7154,6 +7171,22 @@
     "collected_at": "2026-06-24T05:27:25+09:00",
     "importance": 5,
     "event_label": "건설공제조합 2026 대한민국 랜드페어 개최"
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한미 조선협력센터 미국에 개소...'마스가' 속도 - newsworks.co.kr",
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848179",
+    "description": "인력양성 분야에서는 삼성중공업이 비거 마린 그룹과 VR·AR(가상·증강현실)기반 용접교육센터를 공동 설립하고, 한화필리조선소는 미국 대학과 연계해 조선기술 교육과 현장실습, 채용을 잇는 인력양성 체계를...",
+    "published_at": "2026-07-24T00:20:00+09:00",
+    "cluster_id": "2ef6",
+    "publisher": "newsworks.co.kr",
+    "title_clean": "한미 조선협력센터 미국에 개소...'마스가' 속도",
+    "summary": "한미 조선협력센터가 미국에 개소하며 한국 조선업계의 미국 진출이 가속화되고 있다. 삼성중공업과 한화필리조선소 등 주요 조선사들이 미국 내 인력양성 및 교육 체계를 구축하고 있어 조선산업의 현지화 기반을 마련하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T00:30:16+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -23105,22 +23138,6 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "거제 푸르지오 마린피스, 16일 견본주택 오픈 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260715001128",
-    "description": "삼성중공업 거제조선소가 도보 거리에 있어 직주근접 환경을 제공한다. 거제대로, 통영IC, 거가대교 이용이 편리하며, 향후 KTX 남부내륙철도 개통과 빅아일랜드(고현항 항만재개발사업) 조성 시 미래 내용가 예상된다....",
-    "published_at": "2026-07-15T16:00:00+09:00",
-    "cluster_id": "292f",
-    "publisher": "newspim.com",
-    "title_clean": "거제 푸르지오 마린피스, 16일 견본주택 오픈",
-    "summary": "거제 푸르지오 마린피스가 16일 견본주택을 오픈한다. 삼성중공업 거제조선소와의 직주근접성, 교통 접근성 개선, KTX 남부내륙철도 개통 등 향후 개발 호재를 바탕으로 주거 수요 창출을 기대하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-15T16:10:21+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32275,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-21T21:54:58+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "제천~영월 ‘22분 단축’…동서 고속축 첫삽 - 공뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wQ2JMZXMzRmIxTUhNZEtsTnJWcU9vcll2UVZZSm9JSkFqeUQ2RGFrbnVpalh5LWNXN1N2YmYtTE5lb3gwSnZOR2xSVUJ6NndLY2s4WWFBY2ZHTXY1b0JSa0hOQm85N3l0VHNoNg?oc=5",
-    "description": "국토교통부는 21일 오후 강원특별자치도 영월군에서 제천~영월 고속도로 건설공사 착공식을 열었다.행사에는 홍지선 국토교통부 제2차관과 엄태영·유상범 국회의원, 신용",
-    "published_at": "2026-07-21T18:51:45+09:00",
-    "cluster_id": "dc5c",
-    "publisher": "공뉴스",
-    "title_clean": "제천~영월 ‘22분 단축’…동서 고속축 첫삽",
-    "summary": "국토교통부가 제천~영월 고속도로 건설공사 착공식을 개최했으며, 이 사업으로 제천에서 영월까지 이동 시간이 22분 단축될 예정이다. 동서 고속축 구간의 첫 사업으로 건설 시장의 신규 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T21:40:16+09:00",
-    "importance": 2
   }
 ]
