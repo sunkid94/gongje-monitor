@@ -22953,6 +22953,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남부발전, 발전산업 현장 '안전사고 백서' 발간…51건 실제 사례 분석 - e-platform.net",
+    "link": "http://www.e-platform.net/news/articleView.html?idxno=104076",
+    "description": "한편 남부발전은 올해 행정안전부와 '찾아가는 안전체험교실' 업무협약을 체결하고 '건설현장 안전관리 혁신 워크샵'을 개최하는 등 현장 중심의 안전경영을 전개하고 있다. 하계 전력피크기 경영진 주도의 안전점검을...",
+    "published_at": "2026-07-23T18:50:00+09:00",
+    "cluster_id": "feae",
+    "publisher": "",
+    "title_clean": "남부발전, 발전산업 현장 '안전사고 백서' 발간…51건 실제 사례 분석 - e-platform.net",
+    "summary": "남부발전이 발전산업 현장의 51건 안전사고 사례를 분석한 '안전사고 백서'를 발간했다. 행정안전부와의 안전체험교실 업무협약, 건설현장 안전관리 혁신 워크샵 등을 통해 현장 중심의 안전경영을 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-23T18:54:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32263,21 +32279,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-21T17:50:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "충남 건설경기 침체 '장기화'... 수주·착공·고용 동반 위축 - chungnamilbo.co.kr",
-    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=899828",
-    "description": "충남지역의 건설경기가 침체된 상태이며 향후에도 침체가 이어질 것으로 예상되고 있다.(사진제공=게티이미지뱅크)  충남 건설업이 주택시장 침체와 공사비·금융비용 상승, 부동산 프로젝트파이낸싱 부실...",
-    "published_at": "2026-07-21T17:46:00+09:00",
-    "cluster_id": "7c83",
-    "publisher": "chungnamilbo.co.kr",
-    "title_clean": "충남 건설경기 침체 '장기화'... 수주·착공·고용 동반 위축",
-    "summary": "충남 건설업이 주택시장 침체, 공사비·금융비용 상승, 부동산 PF 부실 등으로 인해 수주·착공·고용이 동반 위축되고 있다. 건설경기 침체가 장기화될 것으로 예상되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-21T17:50:14+09:00",
-    "importance": 5
   }
 ]
