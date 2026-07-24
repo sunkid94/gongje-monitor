@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[기계설비의날ㆍ정부포상] 구태형 경인기계 대표, 제11회 기계설비의 날 ‘국토부장관 표창’ 수상 - 냉동공조저널",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TZlA4d3JYRjdvRWVhQXpOVk4yRHJJNXdmQVlnSkdHQ1NLSmNlaWlTdVh5TG1LQ3NyN0hTcjJHdkFUa1lwUnhpVXBqcU1zTWE1MS1nUF9QRDdVY1phNHlYNDZwWHR5UkJBWnc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1TZlA4d3JYRjdvRWVhQXpOVk4yRHJJNXdmQVlnSkdHQ1NLSmNlaWlTdVh5TG1LQ3NyN0hTcjJHdkFUa1lwUnhpVXBqcU1zTWE1MS1nUF9QRDdVY1phNHlYNDZwWHR5UkJBWnc?oc=5\" target=\"_blank\">[기계설비의날ㆍ정부포상] 구태형 경인기계 대표, 제11회 기계설비의 날 ‘국토부장관 표창’ 수상</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">냉동공조저널</font>",
+    "cluster_id": "4033",
+    "publisher": "냉동공조저널",
+    "title_clean": "[기계설비의날ㆍ정부포상] 구태형 경인기계 대표, 제11회 기계설비의 날 ‘국토부장관 표창’ 수상",
+    "summary": "구태형 경인기계 대표가 제11회 기계설비의 날에서 국토부장관 표창을 수상했다. 기계설비 산업의 발전에 기여한 개인·기업에 주어지는 정부 포상이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T21:37:01+09:00",
+    "event_label": "대한기계설비건설협회 기계설비의 날 정부포상 수상",
+    "importance": 5
+  },
+  {
     "keyword": "전문건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32220,21 +32236,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-22T15:06:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "장성군, 여름철 자연재난 대비 건설현장 안전점검 실시 - sports.donga.com",
-    "link": "https://sports.donga.com/region/article/all/20260722/134343859/1",
-    "description": "내 건설현장을 대상으로 안전관리 강화에 나섰다. 군은 오는 28일까지 공사비 1억 원 이상이 투입되는 건설사업장 22곳을 대상으로 안전점검을 실시한다고 밝혔다. 이를 위해 담당 공무원 등 8명으로 구성된 점검반을 편성해...",
-    "published_at": "2026-07-22T14:52:00+09:00",
-    "cluster_id": "46ef",
-    "publisher": "sports.donga.com",
-    "title_clean": "장성군, 여름철 자연재난 대비 건설현장 안전점검 실시",
-    "summary": "장성군이 여름철 자연재난에 대비하여 공사비 1억 원 이상의 건설현장 22곳에 대한 안전점검을 28일까지 실시한다. 담당 공무원 8명으로 구성된 점검반을 편성하여 건설사업장의 안전관리를 강화한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T15:01:35+09:00",
-    "importance": 5
   }
 ]
