@@ -23098,6 +23098,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[국감기획 2부] BIM은 의무화하면서 PMIS는 그대로 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QVEtRWXZHaXBTYkF5RExLQTJNRVdwTzh3bzJUN0tQemdIMzd1Y25nUGhKYWpTRE9GTng4RjZ2S3ZjS2FPeG1yZ3RrQXJXYWN0VVdCXzZOOEdhSV9KTzBwLXYwRWd3TE0?oc=5",
+    "description": "정부가 공공 건설사업의 BIM 도입을 확대하고 있지만 정작 발주기관의 건설사업관리시스템(PMIS)은 대용량 3차원 모델과 속성정보를 제대로 수용하지 못하는 상황이 이어지고 있다. BIM 모델은 만들어지는데 발주처·감리단·시공사가 매일 사용하는 PMIS에서는 모델을 직접 열어 공정·기성·설계변경 업무와 연결하기 어려운 ‘디지털 단절’이 발생하고 있는 것이다.문제의 핵심은 BIM 기술 자체가 아니다. BIM을 받아 사용할 국가 건설정보관리 체계를 함께 준비하지 않았다는 데 있다.국토교통부는 2020년 ‘건설산업 BIM 기본지침’을 마련",
+    "published_at": "2026-07-24T18:16:55+09:00",
+    "cluster_id": "f815",
+    "publisher": "국토교통신문",
+    "title_clean": "[국감기획 2부] BIM은 의무화하면서 PMIS는 그대로",
+    "summary": "정부가 공공 건설사업에 BIM 도입을 의무화하고 있으나, 발주기관의 건설사업관리시스템(PMIS)이 대용량 3차원 모델을 수용하지 못해 '디지털 단절'이 발생 중이다. BIM 기술 자체보다 이를 받아 활용할 국가 건설정보관리 체계 구축의 부재가 핵심 문제다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-24T18:26:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32230,22 +32246,6 @@
     "publisher": "dailian.co.kr",
     "title_clean": "2028년부터 건설대금·임금 '발주자 직접 지급'…차세대 전자시스템 도...",
     "summary": "2028년부터 건설대금과 임금을 발주자가 직접 지급하는 차세대 전자시스템이 도입된다. 그 전까지 민간 건설공사에 전자대금시스템 사용을 의무화하고 체불e제로, 민간시스템 활용을 지원할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T14:51:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"페인트만 팔아선 못 버틴다\"…페인트업계, 반도체·방산·우주서 '활로... - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260722000933",
-    "description": "건설경기 침체 장기화와 원재료 가격 상승, 친환경 규제 강화 등으로 어려움을 겪고 있는 국내 페인트업체들이 조선·방산·우주항공 등 첨단산업 분야 진출에 속도를 내고 있다. 전통 도료 사업만으로는 미래 성장동력...",
-    "published_at": "2026-07-22T14:38:00+09:00",
-    "cluster_id": "3732",
-    "publisher": "newspim.com",
-    "title_clean": "\"페인트만 팔아선 못 버틴다\"…페인트업계, 반도체·방산·우주서 '활로...",
-    "summary": "건설경기 침체와 원재료 가격 상승, 친환경 규제 강화로 어려움을 겪는 페인트업체들이 반도체, 방산, 우주항공 등 첨단산업으로 사업 다각화를 추진 중이다. 전통 도료 사업의 한계를 극복하고 새로운 성장동력 확보에 나서는 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-22T14:51:41+09:00",
     "importance": 2
