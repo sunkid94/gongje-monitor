@@ -23036,6 +23036,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "AI가 건설현장 안전 묻고 답한다…1600개 업체 실증 돌입 - ccdailynews.com",
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2430086",
+    "description": "소규모 건설현장에 인공지능 기반 안전관리 도구가 들어간다. 작업 전 위험요인을 확인하고 필요한 안전수칙을 모바일로 찾아볼 수 있어 현장 대응 속도를 높일 수 있을지 주목된다. 대전도시공사는 지난 23일...",
+    "published_at": "2026-07-25T08:46:00+09:00",
+    "cluster_id": "dc7a",
+    "publisher": "ccdailynews.com",
+    "title_clean": "AI가 건설현장 안전 묻고 답한다…1600개 업체 실증 돌입",
+    "summary": "소규모 건설현장의 안전관리 효율화를 위해 AI 기반 안전관리 도구가 1600개 업체를 대상으로 실증 운영에 돌입한다. 모바일을 통해 작업 전 위험요인 확인과 안전수칙 조회가 가능해 현장 대응 속도 향상이 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-25T08:50:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32203,22 +32219,6 @@
     "title_clean": "동부건설 상반기 1.5조 수주..하반기 '수익 전환' 집중",
     "summary": "동부건설이 상반기 1.5조 수주를 기록했으나 건설경기 침체와 공사비 부담으로 수익성이 악화되었다. 하반기 수익 전환을 위해 사업 포트폴리오를 수익성과 수행 역량 중심으로 재정비할 계획이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-22T15:41:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "신제주와 제원아파트 - jejunews.com",
-    "link": "http://www.jejunews.com/news/articleView.html?idxno=2226809",
-    "description": "이는 제주도가 침체된 건설경기를 부양하고 압축도시 개발을 위해 수립한 '제주형 압축도시 고도관리방안'을 반영한 것이다. ▲물론 제원아파트 재건축 변경안은 제주도의회 의견을 청취하고, 제주도경관위원회와...",
-    "published_at": "2026-07-22T15:28:00+09:00",
-    "cluster_id": "b05f",
-    "publisher": "jejunews.com",
-    "title_clean": "신제주와 제원아파트",
-    "summary": "제주도가 침체된 건설경기 부양과 압축도시 개발을 위해 '제주형 압축도시 고도관리방안'을 수립했으며, 제원아파트 재건축 변경안이 이를 반영하고 있다. 도의회 의견 청취와 경관위원회 심의 등 절차를 거쳐 추진 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-22T15:41:51+09:00",
     "importance": 2
   }
