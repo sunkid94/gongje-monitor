@@ -23090,6 +23090,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'2평 쪽방' 한낮에도 캄캄...재개발에 밀리고, 밀려 여기까지 온 사람들 - pn.or.kr",
+    "link": "https://www.pn.or.kr/news/articleView.html?idxno=33915",
+    "description": "<폭염 르포> 여름, 삶의 현장 [폭염 르포⑨] \"선풍기 틀어도 32도, 푹푹 찐다\"...대구 '쪽방의 여름' 올해도 힘겹다 [폭염 르포⑧] 40도 콘크리트 열기, 푹 젖은 작업복...건설노동자들 '폭염' 속 노동 [폭염 르포⑦] \"먹고 살려고...",
+    "published_at": "2026-07-24T22:06:00+09:00",
+    "cluster_id": "7cc2",
+    "publisher": "pn.or.kr",
+    "title_clean": "'2평 쪽방' 한낮에도 캄캄...재개발에 밀리고, 밀려 여기까지 온 사람들",
+    "summary": "폭염 시리즈 기사로 쪽방 거주자와 건설노동자들의 열악한 근무·생활 환경을 다루고 있습니다. 재개발 밀려남과 저임금 노동의 현실을 조명하며 산업 현장의 인권 문제를 지적하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-24T22:46:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32217,20 +32233,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T15:31:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설 현장 오가는 ‘투잡 선수’ 박기호, PBA 2부 투어 정상 올라 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmN4eFJNMUJXVnJ2WmZleHByWVhxQlRKamgwVi1iek9WcEF6bTNIY1JTbnJWU2hMQ2FEYzk3MVRrdnZqOHdKT0dzcjBLekJSc2R0VmVGWVMyakw0WngzSWpvS251NHk1RnVOZi05VU5UODVRcGFScS1YQkRIOGRkYU8xUmxBWmpRQ1Mw?oc=5",
-    "description": "건설 현장 오가는 투잡 선수 박기호, PBA 2부 투어 정상 올라 건설 노동하며 프로당구 투어 참여해 1부 리그 뛰다 강등됐지만 승격 가능성 높여",
-    "cluster_id": "9e93",
-    "publisher": "조선일보",
-    "title_clean": "건설 현장 오가는 ‘투잡 선수’ 박기호, PBA 2부 투어 정상 올라",
-    "summary": "건설 현장에서 일하면서 프로당구 선수로 활동하는 박기호 선수가 PBA 2부 투어에서 우승했습니다. 강등 위기를 극복하고 1부 리그 승격 가능성을 높였습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T15:31:34+09:00",
-    "importance": 2
   }
 ]
