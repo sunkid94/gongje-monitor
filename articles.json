@@ -23090,6 +23090,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "데이터센터·반덤핑 호재 탔다… 동국제강그룹, 2분기 실적 훈풍 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=345896",
+    "description": "중심의 견조한 수출을 유지한 점이 실적 반등을 이끌었다. 동국제강그룹 관계자는 \"건설경기 악화 등 시장 상황이 여전히 어렵지만, 수익성 중심의 전략과 고부가 제품 판매를 통해 실적 흐름을 이어갈 것\"이라 말했다.",
+    "published_at": "2026-07-24T22:36:00+09:00",
+    "cluster_id": "e5b2",
+    "publisher": "greened.kr",
+    "title_clean": "데이터센터·반덤핑 호재 탔다… 동국제강그룹, 2분기 실적 훈풍",
+    "summary": "동국제강그룹이 데이터센터 수요 확대와 반덤핑 관세 호재를 바탕으로 2분기 실적 반등을 기록했다. 건설경기 악화 속에서도 수익성 중심 전략과 고부가 제품 판매로 실적 흐름을 지속할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T22:41:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32216,21 +32232,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-22T15:31:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "서대구역세권 개발 재시동에 \"사업 여건 그대로…민간투자 쉽지 않아\" - news1.kr",
-    "link": "https://www.news1.kr/local/daegu-gyeongbuk/6235358",
-    "description": "2023년 복합환승센터 지정 이후 건설경기 침체와 민간투자 위축 등의 영향으로 사업 신청자가 단 한 곳도 나타나지 않았고, 관련 규정에 따른 3년의 유효 기간이 만료되면서 지정이 자동 해제됐다. 이에 따라 대구시는...",
-    "published_at": "2026-07-22T15:20:00+09:00",
-    "cluster_id": "509f",
-    "publisher": "news1.kr",
-    "title_clean": "서대구역세권 개발 재시동에 \"사업 여건 그대로…민간투자 쉽지 않아\"",
-    "summary": "서대구역세권 복합환승센터 개발이 건설경기 침체와 민간투자 위축으로 사업 신청자 없이 3년 유효기간이 만료되어 지정이 자동 해제됐다. 대구시가 사업을 재시동하려 하나 현재 사업 여건이 개선되지 않아 민간투자 유입이 어려운 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T15:26:38+09:00",
-    "importance": 4
   }
 ]
