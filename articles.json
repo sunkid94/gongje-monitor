@@ -7255,23 +7255,6 @@
     "event_label": "전문건설공제조합 자재 조달 솔루션 서비스 개시"
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "가스올림픽 '서울국제가스&수소산업전' 개막 - gasnews.com",
-    "link": "https://www.gasnews.com/news/articleView.html?idxno=125707",
-    "description": "사무총장, 대한기계설비건설협회 가스공사업협의회 김영태 회장, 서울도시가스 진용민 대표, 중국 JIEYU VALVE Zhang jianwu 대표, 가스신문 명예기자 김한수 단장 등 정부와 소비자단체, 공공기관, 산업계 대표자가...",
-    "published_at": "2026-06-24T12:22:00+09:00",
-    "cluster_id": "e312",
-    "publisher": "gasnews.com",
-    "title_clean": "가스올림픽 '서울국제가스&수소산업전' 개막",
-    "summary": "서울국제가스&수소산업전이 개막했으며, 정부와 소비자단체, 공공기관, 산업계 대표자들이 참석했다. 가스 및 수소 산업 활성화를 위한 업계 행사로 진행되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-24T12:27:27+09:00",
-    "importance": 5,
-    "event_label": "대한기계설비건설협회 서울국제가스&수소산업전 개막"
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23238,6 +23221,21 @@
     "sentiment": "positive",
     "collected_at": "2026-07-16T10:32:42+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 하반기 기술교육생 모집…AI 접목한 '스마트 건설인재' 키운다 - 비즈니스플러스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIRWtseHR4YlNka0NjUnNNc01MZ0N5TV9jR2tVQkMtdVZtZGxNY2Q5M2UtOHVYWG5UMzJCRzA5aVhYd3FUaXZCMDgzaFdIdmM5N0xsaGtCUGRyb25UTGdCSWtxZy0tcEFOVkI5eWtmaw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBIRWtseHR4YlNka0NjUnNNc01MZ0N5TV9jR2tVQkMtdVZtZGxNY2Q5M2UtOHVYWG5UMzJCRzA5aVhYd3FUaXZCMDgzaFdIdmM5N0xsaGtCUGRyb25UTGdCSWtxZy0tcEFOVkI5eWtmaw?oc=5\" target=\"_blank\">현대건설, 하반기 기술교육생 모집…AI 접목한 '스마트 건설인재' 키운다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스플러스</font>",
+    "cluster_id": "f2ec",
+    "publisher": "비즈니스플러스",
+    "title_clean": "현대건설, 하반기 기술교육생 모집…AI 접목한 '스마트 건설인재' 키운다",
+    "summary": "현대건설이 하반기 기술교육생을 모집하며 AI 기술을 접목한 스마트 건설인재 양성에 나선다. 이는 건설업계의 디지털 전환과 인력 확보 전략을 보여주는 사례로, 업계의 기술 고도화 추진을 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T12:31:43+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
