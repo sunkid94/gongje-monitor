@@ -7133,6 +7133,22 @@
     "event_label": "전문건설공제조합, 공새로와 스마트건설 생태계 확대 업무협약 체결"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 데이터센서 개발·시공 '통합 디벨로퍼화' 추진 - smarttimes.co.kr",
+    "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47584",
+    "description": "대우건설이 인터넷 인프라 및 데이터센터 전문 운영기업 케이아이엔엑스(KINX)와 업무협약을 맺고 단순 시공을 넘어 부지 확보부터 개발, 시공, 운영, 매각에 이르는 데이터센터 사업 전 과정을 아우르는 '통합 디벨로퍼...",
+    "published_at": "2026-07-24T22:12:00+09:00",
+    "cluster_id": "5930",
+    "publisher": "smarttimes.co.kr",
+    "title_clean": "대우건설, 데이터센서 개발·시공 '통합 디벨로퍼화' 추진",
+    "summary": "대우건설이 KINX와 협력하여 데이터센터 사업을 부지 확보부터 운영까지 통합 관리하는 '통합 디벨로퍼' 모델로 전환한다. 단순 시공 역할에서 벗어나 고부가가치 사업으로 확대하는 전략적 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T22:31:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23074,19 +23090,19 @@
     "importance": 3
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[단독] IPARK현산 노사, 반년 만에 임단협 마무리⋯노사 갈등 일단락 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2604520",
-    "description": "이투데이=이세령 기자 | 중노위 4차 현장조정회의서 임단협 타협 임금 최대 8.5% 인상·성과급 50% 지급 IPARK현대산업개발과 현대아이파크노동조합이 16일 중앙노동위원회 4차 현장조정회의에서 임금단체협약을...",
-    "published_at": "2026-07-16T14:06:00+09:00",
-    "cluster_id": "7b87",
-    "publisher": "etoday.co.kr",
-    "title_clean": "[단독] IPARK현산 노사, 반년 만에 임단협 마무리⋯노사 갈등 일단락",
-    "summary": "IPARK현대산업개발과 현대아이파크노동조합이 6개월의 임단협 협상을 마무리했으며, 임금 최대 8.5% 인상과 성과급 50% 지급에 합의했다. 노사 갈등이 일단락되면서 경영 안정성이 확보되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T14:11:07+09:00",
+    "title": "[패트롤] 고양시의회-구리시의회-동두천시의회-의정부시의회 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20260724022155961",
+    "description": "회기 마지막 날인 24일에는 제2차 본회의를 열어 기획행정위원회의 '고양시 지역건설노동자 우선 고용 및 체불임금 없는 관급공사 운영을 위한 조례 일부개정조례안'등 2건, 건설교통위원회의 '고양 도시관리계획(GB 해제)...",
+    "published_at": "2026-07-24T22:24:00+09:00",
+    "cluster_id": "7203",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤] 고양시의회-구리시의회-동두천시의회-의정부시의회",
+    "summary": "고양시의회가 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영을 위한 조례개정안을 본회의에서 심의했다. 도시관리계획 GB 해제 등 건설관련 의안들이 처리되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-24T22:31:52+09:00",
     "importance": 2
   },
   {
@@ -32216,21 +32232,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T15:26:38+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'20년래 최악' 고꾸라진 해외건설 수주…하반기도 전쟁리스크 지속 - mt.co.kr",
-    "link": "https://www.mt.co.kr/estate/2026/07/22/2026072211283929012",
-    "description": "상반기 해외건설수주액이 20년래 최저치를 기록한 것으로 나타났다. 유럽과 중동 수주액이 대폭 감소하면서 전체 수주 규모가 쪼그라들었다. 21일 한국건설산업연구원(건산연)에 따르면 올 상반기 해외건설 수주...",
-    "published_at": "2026-07-22T15:17:00+09:00",
-    "cluster_id": "8c98",
-    "publisher": "mt.co.kr",
-    "title_clean": "'20년래 최악' 고꾸라진 해외건설 수주…하반기도 전쟁리스크 지속",
-    "summary": "올해 상반기 해외건설 수주액이 20년래 최저치를 기록했으며, 유럽과 중동 지역의 수주 감소가 주요 원인이다. 전쟁 리스크 등으로 하반기도 어려운 수주 환경이 이어질 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T15:26:38+09:00",
-    "importance": 5
   }
 ]
