@@ -7099,6 +7099,22 @@
     "event_label": "전문건설공제조합 공새로와 스마트건설 생태계 조성 협약"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성重, 영업이익률 10% 돌파… 저가 수주 걷히자 이익이 매출보다 빨리 늘었다 - 뉴스로드",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RZVRYTzRkOWdYX3ZtSWlxbTJkenBQVDg2YlhwcTdxWTQ1QzBpRUxUZ3d2TUt3aS1fbWhOOThpcVlhcU1XdUswUmVRNzk0Q01xQ0xUeW5QTUdfenpKZ1g3RFNQS254eUhGYVpv0gFvQVVfeXFMT0NJeGdWS2xpb0VTUlNfRVluU2o1S29jdnpsSmtsUU52T2FBa3JYbm14SHdlaEJyNVJpYTFscmZRMmU5M2NwZ3FOaVdJNnk1TDdyZTQxeU8wU1pZcXBqalVjQ3ExN0thZGswVjJvMHVv?oc=5",
+    "description": "삼성중공업이 2분기 영업이익률 10%를 넘어섰다. 조업일수와 건조 물량이 늘어난 데다 과거 저가 수주 물량이 줄고 2024년 이후 확보한 고선가 선박이 매출에 반영된 결과다. 매출 확대보다 이익 증가 속도가 빨라지면서 조선업 회복의 무게중심도 ‘외형 성장’에서 ‘수익성 회수’로 이동했다.▲고선가 전환삼성중공업은 24일 올해 2분기 연결기준 잠정 매출액이 3조2307억원, 영업이익은 3250억원으로 집계됐다고 공시했다. 지난해 같은 기간보다 매출은 20%, 영업이익은 59% 증가했다. 직전 분기와 비교해도 각각 11%, 19% 늘었다",
+    "published_at": "2026-07-24T23:25:11+09:00",
+    "cluster_id": "0fbc",
+    "publisher": "뉴스로드",
+    "title_clean": "삼성重, 영업이익률 10% 돌파… 저가 수주 걷히자 이익이 매출보다 빨리 늘었다",
+    "summary": "삼성중공업이 2분기 영업이익률 10%를 돌파하며 저가 수주 물량 감소와 고선가 선박 매출 반영으로 이익이 매출보다 빠르게 증가했다. 조선업계의 회복 무게중심이 외형 성장에서 수익성 회수로 이동하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-25T05:40:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23032,22 +23048,6 @@
     "publisher": "goodkyung.com",
     "title_clean": "[굿모닝! 16일 건설업계 소식] 대우건설·부영·롯데건설·LH·HUG·SK에코...",
     "summary": "대우건설이 울산 북항 액화가스 및 석유제품 터미널 3단계 건설공사를 성공적으로 준공하고 프로젝트를 완료했다. 한국석유공사 발주 사업으로 초기 운영 안정화와 인수인계 절차를 모두 마쳤다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T14:50:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, ‘울산 북항 LNG 터미널 3단계 건설공사’ 준공 - viva100.com",
-    "link": "https://www.viva100.com/article/20260716500608",
-    "description": "대우건설은 ‘울산 북항 액화가스 및 석유제품 터미널 3단계 건설공사’를 준공하고 후속 인수인계 절차를 거쳐 사업을 최종 완료했다고 16일 밝혔다. 이번 사업은 한국석유공사와 SK가스가 공동 설립한...",
-    "published_at": "2026-07-16T14:42:00+09:00",
-    "cluster_id": "dbdb",
-    "publisher": "viva100.com",
-    "title_clean": "대우건설, ‘울산 북항 LNG 터미널 3단계 건설공사’ 준공",
-    "summary": "대우건설이 울산 북항 LNG 터미널 3단계 건설공사를 준공 완료했다. 한국석유공사와 SK가스가 공동 추진한 이 프로젝트는 에너지 인프라 확충으로 건설 수주 실적 창출에 기여한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-16T14:50:19+09:00",
     "importance": 2
