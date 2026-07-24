@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, 중동전쟁 등 유동성 위기 대응 '특별융자' 실시 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWJVRm45d1kwMUc4a0YyRHRxVUVGa0l0UUJkMVhick5ocFhqWEFjMjZoNkRlS3BYZGZuOG1TV2Q1Z3J6OEN3RmNyWjMzVjRUb2hVMzZpVmhPdzRSNzQxbGZaQzNxd19naG1ET1BuamR6WnNTZW1TYUkwc05scnZfdDdSOG1NaGIzMVhucW1hMEd2ZERjdzJuS2JuV2N6WWFxdjRtOUYwR2ZjT1NWRmw3ZTFONGhXdmtGclhQbjEzcGwwRW00Q21uLTlR?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWJVRm45d1kwMUc4a0YyRHRxVUVGa0l0UUJkMVhick5ocFhqWEFjMjZoNkRlS3BYZGZuOG1TV2Q1Z3J6OEN3RmNyWjMzVjRUb2hVMzZpVmhPdzRSNzQxbGZaQzNxd19naG1ET1BuamR6WnNTZW1TYUkwc05scnZfdDdSOG1NaGIzMVhucW1hMEd2ZERjdzJuS2JuV2N6WWFxdjRtOUYwR2ZjT1NWRmw3ZTFONGhXdmtGclhQbjEzcGwwRW00Q21uLTlR?oc=5\" target=\"_blank\">건설공제조합, 중동전쟁 등 유동성 위기 대응 '특별융자' 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일건설신문</font>",
+    "cluster_id": "d794",
+    "publisher": "매일건설신문",
+    "title_clean": "건설공제조합, 중동전쟁 등 유동성 위기 대응 '특별융자' 실시",
+    "summary": "건설공제조합이 중동전쟁 등으로 인한 유동성 위기에 대응하기 위해 특별융자를 실시한다. 건설업계의 자금 경색 상황을 완화하기 위한 지원 조치다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T12:01:35+09:00",
+    "event_label": "건설공제조합 유동성 위기 대응 특별융자 실시",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -7238,6 +7254,22 @@
     "collected_at": "2026-06-24T12:27:27+09:00",
     "importance": 5,
     "event_label": "대한기계설비건설협회 서울국제가스&수소산업전 개막"
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "HJ중공업, 한·미 알루미늄 함정 자율용접 핵심기술 개발 착수 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260724000610",
+    "description": "미국 샌디에이고주립대와 국내 기업 상림엠에스피는 FSW 시스템 하드웨어와 공구 설계·제작을 맡고 삼성중공업·한화오션·강남 등 국내 조선소는 수요기관으로 참여해 개발 기술의 현장 적용성과 상용화 가능성을...",
+    "published_at": "2026-07-24T11:54:00+09:00",
+    "cluster_id": "2ce7",
+    "publisher": "newspim.com",
+    "title_clean": "HJ중공업, 한·미 알루미늄 함정 자율용접 핵심기술 개발 착수",
+    "summary": "HJ중공업이 미국 샌디에이고주립대, 상림엠에스피와 함께 알루미늄 함정용 자율용접 기술(FSW)을 개발 중이며, 삼성중공업·한화오션·강남조선소 등이 수요기관으로 참여해 상용화를 추진 중이다. 이는 조선업계의 기술혁신과 생산성 향상을 위한 차세대 용접기술 개발 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T12:01:35+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -23192,18 +23224,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "삼성그룹 건설3사 '2026 콘테크 공모전'…현장 혁신기술 발굴 - 연합뉴스 한민족센터",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vbzQwWm9hUTg0cVRuNl9OU1B6dmYwT21ucEdBRlRHZjI2WU5Panc2MVgxbjk1a0NSSkVHckZqM21DZHVlLWs4cVNxdlAzTFJRU0tyRVhHM2Y4LW5zQ0ZJeVVjazlzRVkwM0JxcWliLVBHSDg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9vbzQwWm9hUTg0cVRuNl9OU1B6dmYwT21ucEdBRlRHZjI2WU5Panc2MVgxbjk1a0NSSkVHckZqM21DZHVlLWs4cVNxdlAzTFJRU0tyRVhHM2Y4LW5zQ0ZJeVVjazlzRVkwM0JxcWliLVBHSDg?oc=5\" target=\"_blank\">삼성그룹 건설3사 '2026 콘테크 공모전'…현장 혁신기술 발굴</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
-    "cluster_id": "ea1f",
-    "publisher": "연합뉴스 한민족센터",
-    "title_clean": "삼성그룹 건설3사 '2026 콘테크 공모전'…현장 혁신기술 발굴",
-    "summary": "삼성그룹 건설3사가 건설 기술 혁신을 위해 '2026 콘테크 공모전'을 개최하여 현장 혁신기술을 발굴한다. 콘테크(건설기술) 발전을 통해 건설업계의 생산성 향상과 기술 고도화를 추진하는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T10:32:42+09:00",
+    "title": "7월 3주  아파트 매매가 0.09%↑·전세가 0.11%↑ - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37030",
+    "description": "한국부동산원이 2026년 7월 3주(7월 20일 기준) 전국 주간 아파트가격 동향을 조사한 결과, 매매가격지수는 0.09% 상승, 전세가격지수는 0.11% 상승을 기록했다고 밝혔다.전국 주간 아파트 매매가격지수는 지난주 대비 0.09% 상승했다. 수도권(0.18%), 서울(0.27%)은 상승, 지방(0.00%)은 보합으로 나타났다. (4대광역시(0.00%), 세종(-0.04%), 전남광주(0.04%), 7개도(0.00%))시도별로는 경기(0.17%), 울산(0.07%), 전북(0.05%), 충북(0.03%), 경남(0.02%) 등은",
+    "published_at": "2026-07-24T11:39:04+09:00",
+    "cluster_id": "11c4",
+    "publisher": "한국건설신문",
+    "title_clean": "7월 3주  아파트 매매가 0.09%↑·전세가 0.11%↑",
+    "summary": "2026년 7월 3주 전국 아파트 매매가격지수는 0.09%, 전세가격지수는 0.11% 상승했으며, 수도권과 서울이 주도적으로 상승세를 보였다. 지방은 보합세를 유지하며 지역별로 편차가 나타나고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-24T12:01:35+09:00",
     "importance": 2
   },
   {
@@ -32255,37 +32288,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-22T10:10:18+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 서대구역세권 특별계획구역 지정…민간투자 재시동 - thepowernews.co.kr",
-    "link": "https://www.thepowernews.co.kr/view.php?ud=202607220941276157f88a455ae8_7",
-    "description": "그러나 건설경기 침체와 민간투자 위축 등의 영향으로 사업 신청자가 나오지 않으면서 관련 규정에 따른 3년 유효기간이 만료됐다. 이에 따라 복합환승센터 지정은 지난 21일 자동 실효됐다. 다만 대구시는 향후...",
-    "published_at": "2026-07-22T10:06:00+09:00",
-    "cluster_id": "1bc6",
-    "publisher": "thepowernews.co.kr",
-    "title_clean": "대구시, 서대구역세권 특별계획구역 지정…민간투자 재시동",
-    "summary": "대구시가 서대gubgu역세권 특별계획구역을 지정하여 민간투자를 재개하려 시도하고 있다. 다만 건설경기 침체와 민간투자 위축으로 인해 복합환승센터 지정이 자동 실효되는 등 사업 추진에 어려움을 겪고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T10:10:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "천안시 집중호우·폭염 대비 공공건설현장 안전점검 총력 - ccdailynews.com",
-    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2429430",
-    "description": "충남 천안시가 장마와 폭염으로 인한 건설 현장 안전사고를 선제적으로 막기 위해 공공건설 현장을 대상으로 고강도 안전점검에 나섰다. 22일 시에 따르면 연일 이어지는 집중호우와 폭염에 대비해 관내 주요...",
-    "published_at": "2026-07-22T10:02:00+09:00",
-    "cluster_id": "59db",
-    "publisher": "ccdailynews.com",
-    "title_clean": "천안시 집중호우·폭염 대비 공공건설현장 안전점검 총력",
-    "summary": "천안시가 장마와 폭염 시즌을 맞아 공공건설 현장에 대한 고강도 안전점검을 추진하고 있다. 집중호우와 폭염으로 인한 건설 현장 안전사고를 선제적으로 예방하기 위한 조치다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T10:10:18+09:00",
-    "importance": 4
   }
 ]
