@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "전문건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설현장 불공정 관행 근절…공정위‧전문건협 맞손 - 국토매일",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBNbkVkNVQ0aWphQWJzNFd1T0Vzd0NzQ0hDZGQ2Rkl0WW1uZWc2dDUwcWh4YU13WTkxa3NKVTdlaFBvdFJB?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBNbkVkNVQ0aWphQWJzNFd1T0Vzd0NzQ0hDZGQ2Rkl0WW1uZWc2dDUwcWh4YU13WTkxa3NKVTdlaFBvdFJB?oc=5\" target=\"_blank\">건설현장 불공정 관행 근절…공정위‧전문건협 맞손</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토매일</font>",
+    "cluster_id": "86e9",
+    "publisher": "국토매일",
+    "title_clean": "건설현장 불공정 관행 근절…공정위‧전문건협 맞손",
+    "summary": "공정거래위원회와 전문건설협회가 건설현장의 불공정 관행 근절을 위해 협력하기로 합의했다. 이는 건설업계의 거래 질서 개선과 공정한 경쟁 환경 조성을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-24T21:27:09+09:00",
+    "event_label": "전문건설공제조합 불공정 관행 근절 협력 (공정위)",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32220,21 +32236,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T15:01:35+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 폭염경보 땐 오후 2~5시 옥외작업 중단 권고 - hankyung.com",
-    "link": "https://www.hankyung.com/article/202607229416h",
-    "description": "경기도가 집중호우와 폭염, 여름철 물놀이 사고에 대비해 취약시설 점검과 건설현장 안전관리, 다중운집 행사 관리에 나섰다. 경기도는 22일 도청 재난상황실에서 김규식 안전관리실장 주재로 '여름철 풍수해·폭염 대비...",
-    "published_at": "2026-07-22T14:47:00+09:00",
-    "cluster_id": "3a50",
-    "publisher": "hankyung.com",
-    "title_clean": "경기도, 폭염경보 땐 오후 2~5시 옥외작업 중단 권고",
-    "summary": "경기도가 폭염경보 발령 시 오후 2~5시 옥외작업 중단을 권고하며 여름철 재해 대비에 나섰다. 건설현장의 안전관리 강화와 취약시설 점검을 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T15:01:35+09:00",
-    "importance": 4
   }
 ]
