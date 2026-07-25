@@ -7083,23 +7083,6 @@
     "event_label": "대한기계설비건설협회 2026년 권역별 회원사 합동간담회 개최"
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO, 공새로와 손잡고 스마트건설 생태계 혁신 나선다 - 건설이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KcmhMcXR4WDY1aTcwaldyZUxfMkRBRElNQW5kVmhxd0ZpSWFxbGFkdVR3bkNDaEkwRTBJbUkxNFVNdWZmUWI3LUtnbjZoV2J5QnF4T21nTzZwMEwwY2J0YU1BelA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KcmhMcXR4WDY1aTcwaldyZUxfMkRBRElNQW5kVmhxd0ZpSWFxbGFkdVR3bkNDaEkwRTBJbUkxNFVNdWZmUWI3LUtnbjZoV2J5QnF4T21nTzZwMEwwY2J0YU1BelA?oc=5\" target=\"_blank\">K-FINCO, 공새로와 손잡고 스마트건설 생태계 혁신 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">건설이코노미뉴스</font>",
-    "published_at": "2026-06-25T16:26:00+09:00",
-    "cluster_id": "fa3f",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "K-FINCO, 공새로와 손잡고 스마트건설 생태계 혁신 나선다",
-    "summary": "K-FINCO(전문건설공제조합)가 공새로와 손을 잡고 스마트건설 생태계 혁신에 나선다. 이를 통해 건설업계의 디지털 전환과 효율성 향상을 추진할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-06-25T16:37:45+09:00",
-    "importance": 5,
-    "event_label": "전문건설공제조합 공새로와 스마트건설 생태계 혁신 협력"
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23051,6 +23034,21 @@
     "sentiment": "positive",
     "collected_at": "2026-07-16T15:10:55+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대전 서구, 건설현장 관계자 특별 안전교육…산업재해 예방 강화 - 뉴스충청인",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uajJuUGNwYzI5dk5acHhxLVlqSm51MEhyTmtrRGJuMjZuMkxGY1B5UWRaNkZNWUxrQWhqNEMwcnVLUDRvOGc?oc=5",
+    "description": "(대전=뉴스충청인)김수환기자=대전서구가건설현장산업재해예방과안전관리강화를위해현장관계자를대상으로특별안전교육을실시했다. 대전서구는24일",
+    "cluster_id": "1fff",
+    "publisher": "뉴스충청인",
+    "title_clean": "대전 서구, 건설현장 관계자 특별 안전교육…산업재해 예방 강화",
+    "summary": "대전서구가 건설현장의 산업재해 예방을 위해 현장 관계자를 대상으로 특별안전교육을 실시했다. 안전관리 강화를 통해 건설현장의 사고 위험을 줄이려는 행정 조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-25T17:08:06+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
