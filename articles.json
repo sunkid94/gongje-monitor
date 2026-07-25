@@ -23036,6 +23036,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고양특례시의회, 제306회 임시회 폐회…제10대 의회 첫 회기 성공적 마... - tournews21.com",
+    "link": "https://www.tournews21.com/news/articleView.html?idxno=139361",
+    "description": "기획행정위원회에서는 '고양시 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영을 위한 조례 일부개정조례안' 등 2건이 의결됐으며, 건설교통위원회는 '고양 도시관리계획(개발제한구역 해제) 결정(변경)안...",
+    "published_at": "2026-07-25T09:26:00+09:00",
+    "cluster_id": "9fec",
+    "publisher": "tournews21.com",
+    "title_clean": "고양특례시의회, 제306회 임시회 폐회…제10대 의회 첫 회기 성공적 마...",
+    "summary": "고양특례시의회가 제306회 임시회를 폐회하며 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영 조례 개정안을 의결했다. 도시관리계획 개발제한구역 해제 등 건설 관련 안건이 처리됐다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-25T09:30:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32204,22 +32220,6 @@
     "summary": "부영그룹이 여름 장마철 대비 전국 건설 현장과 사업장에 대한 안전관리 특별점검을 실시했다. 집중호우와 폭염이 반복될 것으로 예상되는 가운데 안전사고와 중대재해를 선제적으로 예방하기 위한 조치다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-22T15:46:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "동부건설 상반기 1.5조 수주..하반기 '수익 전환' 집중 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2115079",
-    "description": "공공·민간 현장의 공정 진행으로 도급공사 매출은 늘었으나 건설경기 침체와 공사비 부담 등이 수익성에 영향을 미친 것으로 나타났다. 사업 포트폴리오도 수익성과 수행 역량을 기준으로 재정비한다. 공공 토목·건축...",
-    "published_at": "2026-07-22T15:32:00+09:00",
-    "cluster_id": "e0e2",
-    "publisher": "4th.kr",
-    "title_clean": "동부건설 상반기 1.5조 수주..하반기 '수익 전환' 집중",
-    "summary": "동부건설이 상반기 1.5조 수주를 기록했으나 건설경기 침체와 공사비 부담으로 수익성이 악화되었다. 하반기 수익 전환을 위해 사업 포트폴리오를 수익성과 수행 역량 중심으로 재정비할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T15:41:51+09:00",
     "importance": 2
   }
 ]
