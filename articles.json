@@ -3,6 +3,22 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "[제11회 기계설비의 날 장관상] 이철희 삼우엠이피컨설턴트 대표 - 칸 kharn",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EdUExMXk5cWJ2T1hKcWc5M1VzdTVWM0NJbGdKVzVmX2hYelJha2xlUXFVOUlhYWFHa0FGdmxncWJCQU1ZaGhyY3hhZEV5eEc0eVBxMDBn?oc=5",
+    "description": "이철희 삼우엠이피컨설턴트 대표는 친환경 에너지절약적설계와 신기술 신공법을 다수 공공·민간건물에 제안·적용하며 생애주기비용을 적용해 에너지비용을 절감한 성과를 인정받아국토교통부 장관상을 수상했다. 이철희 대표는 지난 1993년부터 현재까지 약 32년간 건축기계설비 설계업무에 종사하며 설비설계 품질향상과 기준제정, 각종 설비협회 활동을 통해 기계설비설계 발전에",
+    "cluster_id": "57c0",
+    "publisher": "칸 kharn",
+    "title_clean": "[제11회 기계설비의 날 장관상] 이철희 삼우엠이피컨설턴트 대표",
+    "summary": "이철희 삼우엠이피컨설턴트 대표가 친환경 에너지절약설계와 신기술 신공법을 적용하여 에너지비용을 절감한 성과를 인정받아 제11회 기계설비의 날 국토교통부 장관상을 수상했다. 32년간 설비설계 품질향상과 기준제정, 협회 활동을 통해 기계설비설계 발전에 기여한 것으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T08:57:49+09:00",
+    "event_label": "대한기계설비건설협회 제11회 기계설비의 날 장관상 수상",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "[2026기계설비의날] 임정묵 목원엔지니어링 상무 ‘국토교통부 장관 표창’ 수상 - 냉동공조저널",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUjFHemlKdWdjWW1uNlotS1A2Tm9WckUtRENDTEx5UTRtZVg1SFZFUWxwNUo4dnhKOWdIYU45RDBEQzRRbUNIeXRtRDhNb2Q2bzlBdTJVdmFuSm13TW81eGVTRXc3Q1NVZ2c?oc=5",
     "description": "임정묵 ㈜목원엔지니어링 상무가 7월 23일 열린 ‘제11회 기계설비의 날 기념식’에서 국토교통부 장관 표창을 수상했다.임 상무는 기술업무에 대한 책임을 바탕으로",
@@ -22952,6 +22968,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "7월 중순 특별한 건설 노동자들, 감사 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHFuanpTMTlYMFpjVlgzTkxoLVp0cDJ0cVFyc0FQUEg0QVZTd1NLLTdFWVRjYS1VcVNQS2lEVHByNDd4a1BKY0o3eVc4WFczZFprVUxqTUZ0VjgxRGtzY3o4V3pyQTdscUhVM3BQT2Q4anlxRkN4LWFXbThydGFlZ3hGcUFYQ0dQLTFiNHY2d3pEMDJUaXc?oc=5",
+    "description": "안장 - 다리 건설 현장, 집에는 콘크리트 믹서 기계 소리뿐만 아니라... 사람들의 웃음소리도 울려 퍼집니다.",
+    "published_at": "2026-07-26T06:34:08+07:00",
+    "cluster_id": "ea7c",
+    "publisher": "Laodong.vn",
+    "title_clean": "7월 중순 특별한 건설 노동자들, 감사",
+    "summary": "7월 중순 안장 지역 다리 건설 현장에서 건설 노동자들의 노고를 감사하는 내용의 기사입니다. 건설 현장의 일상과 노동자들의 긍정적인 분위기를 담고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T08:57:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32183,37 +32215,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-22T16:32:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "세종 노·사·민·정 “폭염 건설현장 재해 예방·안전문화 확산 협력” - 세종포스트",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mbE9hVFk5XzhySFBaY1VtbVZjbFo3QlZ2ZlZBUUp4ZnlZX3Y0bmxvV19RYWh4bm9Bd2c0QW5mdEZuZVVwZEQtTnMxa21xV0l2QTUxeTFtSnVFWEN2T3BSeFdldGd1S2pT?oc=5",
-    "description": "[세종포스트 황해동 기자] 세종시노사민정협의회(이하 협의회)를 비롯한 노·사·민·정 6개 기관이 여름철 건설노동자 재해예방과 안전문화 확산을 위해 손을 맞잡았다.협의회와 세종시, 대전지방고용노동청, 한국노총세종지역본부, 세종시근로자종합복지관 등은 이날 행정중심복합도시 6-3 L2BL 신축공사 현장을 찾아 ‘2026년 건설현장 온열질환 예방 및 안전일터 조성 캠페인’을 벌였다.이들은 노동자들에게 온열질환 예방 물품을 전달하고 안전수칙 안내 등 안전의식 고취, 자율적인 안전 실천 등 현장 중심의 안전보건관리체계 구축과 노동자가",
-    "published_at": "2026-07-22T16:12:44+09:00",
-    "cluster_id": "965d",
-    "publisher": "세종포스트",
-    "title_clean": "세종 노·사·민·정 “폭염 건설현장 재해 예방·안전문화 확산 협력”",
-    "summary": "세종시 노·사·민·정 6개 기관이 건설현장의 여름철 온열질환 예방과 안전문화 확산을 위해 협력하기로 합의했다. 건설노동자 대상 안전물품 전달 및 안전의식 고취 캠페인을 추진할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T16:32:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전 유등교 가설교량 부실시공 관련 공무원 및 업체 검찰 송치 - 안전신문",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsVjFKMHZsU1FVQ2xpY1JmWmNfVW9JalVvbjBYSmxSZ25tZ2Q4eUVaWm9id014TlFUS0JhS0FWZFRMdXpNNENjUGVTdldiTmdZU3pqenVpTHF2T1NpQXdYQnZNbnRzQTRFZmtfa3U3WQ?oc=5",
-    "description": "대전 유등교 가설교량 부실시공과 관련해 대전시 공무원들과 시공업체가 검찰 송치됐다.22일 장철민 더불어민주당 의원실에 따르면 대전경찰청 반부패범죄수사대는 대전시 소속 공무원 3명을 직무유기 혐의로, 시공업체와 그 관계자를 건설기술진흥법 위반 혐의로 대전지방검찰청에 송치했다.송치된 공무원들은 2016년 개정된 교량 설계기준(KL-510, 51톤) 대신 옛 기준 (DB-24, 43.2톤) 으로 구조검토를 승인했다. 중고 복공판의 사용 이력 등 재사용 조건을 확인하지 않았다. 안전관리계획서와 품질관리·시험계획서를 착공 이후에야 승인했다.",
-    "published_at": "2026-07-22T16:14:41+09:00",
-    "cluster_id": "682d",
-    "publisher": "안전신문",
-    "title_clean": "대전 유등교 가설교량 부실시공 관련 공무원 및 업체 검찰 송치",
-    "summary": "대전 유등교 가설교량 부실시공 관련 대전시 공무원 3명과 시공업체가 검찰 송치됐다. 공무원들은 구기준 적용, 중고 복공판 이력 미확인, 안전계획서 사후 승인 등의 직무유기로 적발됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T16:32:02+09:00",
-    "importance": 4
   }
 ]
