@@ -7066,23 +7066,6 @@
     "event_label": "대한기계설비건설협회 직접발주 활성화 TF 회의 개최"
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "서울시회 권역별 회원사 합동간담회 개최 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50483",
-    "description": "대한기계설비건설협회 서울시회(회장 류성목)는 지난 24일 서울 강남구에서 2026년 권역별 회원사 합동간담회를 개최<사진>하고, 회원사 경영상 애로사항과 협회 발전방안에 대한 의견을 공유했다. 권역별 간담회는...",
-    "published_at": "2026-06-25T17:22:00+09:00",
-    "cluster_id": "8616",
-    "publisher": "기계설비신문",
-    "title_clean": "서울시회 권역별 회원사 합동간담회 개최",
-    "summary": "대한기계설비건설협회 서울시회가 2026년 권역별 회원사 합동간담회를 개최하여 회원사의 경영 애로사항과 협회 발전방안에 대한 의견을 수렴했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-06-25T17:27:26+09:00",
-    "importance": 5,
-    "event_label": "대한기계설비건설협회 2026년 권역별 회원사 합동간담회 개최"
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23033,6 +23016,22 @@
     "summary": "대우건설이 울산 북항 LNG 터미널 3단계 건설공사를 성공적으로 준공하고 최종 완료했다. 이는 대우건설의 LNG 터미널 건설 분야 경쟁력을 입증하는 주요 프로젝트 완료 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-07-16T15:10:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "꽝닌성 번돈 여성 조합원에게 \"노동조합의 따뜻한 집\" 건설 자금 전달 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkpyUDZjNWgzWW9uZTlUQ1lOUm5nTHJkMlBMUTBvcHR5cC1oZ2p4VUdySnVua2hGdlNNU0Q2a3ZXNFBvTjdQZmtabGdjWVBkdTlINUxBd2loYnQ5eERXSDA3UnVueXp4VlUyZnVrMThOTm1yeTNET3hnMWFLX0R5clZHRm1tc0tqU2JKcm16SG13TVRDeXJWRTFhcUtLWlpZeHZFeXdsWHV4Sm1IcVBaTHd3NUFjeWRZeFc2Mw?oc=5",
+    "description": "꽝닌 - 반돈 특별구역의 어려운 상황에 처한 여성 노동조합원이 집을 짓기 위해 4천만 동을 지원받았습니다...",
+    "published_at": "2026-07-25T09:35:00+07:00",
+    "cluster_id": "91f6",
+    "publisher": "Laodong.vn",
+    "title_clean": "꽝닌성 번돈 여성 조합원에게 \"노동조합의 따뜻한 집\" 건설 자금 전달",
+    "summary": "베트남 꽝닌성 반돈 특별구역의 어려운 여성 노동조합원이 주택 건설을 위해 4천만 동의 지원금을 받았습니다. 노동조합의 사회복지 사업 관련 뉴스입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-25T17:47:59+09:00",
     "importance": 2
   },
   {
