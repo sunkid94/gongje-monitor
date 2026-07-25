@@ -7082,6 +7082,22 @@
     "event_label": "전문건설공제조합 스마트건설 생태계 조성 업무협약"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[르포] 재건축 ‘왕따’ 된 명일 삼익맨숀 5동 가 보니 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20260724029245752",
+    "description": "이후 2020년 정비구역 지정, 2021년 조합설립인가를 거쳐 2024년 대우건설을 시공사로 선정했다. 재건축 사업을 둘러싼 갈등은 단지에서 가장 큰 평형으로 구성된 5동 소유주들이 자산가치 평가에 이의를 제기하면서...",
+    "published_at": "2026-07-25T09:00:00+09:00",
+    "cluster_id": "2c60",
+    "publisher": "ekn.kr",
+    "title_clean": "[르포] 재건축 ‘왕따’ 된 명일 삼익맨숀 5동 가 보니",
+    "summary": "명일 삼익맨숀 재건축 사업에서 5동 소유주들의 자산가치 평가 이의로 갈등이 발생했다. 2024년 대우건설이 시공사로 선정되었으나 단지 내 의견 대립으로 사업 진행에 차질이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-25T09:10:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23018,22 +23034,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T15:00:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "태영건설, '메트로시티 자산 데시앙' 전 가구 계약 완료 - hankyung.com",
-    "link": "https://www.hankyung.com/article/202607169323O",
-    "description": "회사는 이번 분양 완료에 이어 올 하반기 중 대우건설과 컨소시엄을 통해 마산회원구 회성동 일원에 조성되는 ‘창원 자족형 복합행정타운’ 내 공동주택 약 2000가구를 공급할 계획이다. 창원 자족형복합행정타운은...",
-    "published_at": "2026-07-16T14:48:00+09:00",
-    "cluster_id": "781c",
-    "publisher": "hankyung.com",
-    "title_clean": "태영건설, '메트로시티 자산 데시앙' 전 가구 계약 완료",
-    "summary": "태영건설이 메트로시티 자산 데시앙 전 가구 계약을 완료했으며, 하반기 중 대우건설과 컨소시엄으로 창원 자족형 복합행정타운에 약 2000가구 공동주택을 공급할 계획이다. 건설사의 수주 확대 및 사업 진행을 보여주는 호재 소식이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T14:56:10+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
