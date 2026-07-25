@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "1조 자산 기계설비공제조합, 수장 인선 또 정치권 입김?…\"건설금융 전... - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=345903",
+    "description": "기계설비건설공제조합 기계설비건설공제조합의 지배구조를 둘러싼 논란이 다시 불거지고 있다. 협회장이 조합 운영위원장까지 맡을 가능성이 거론되자 국토교통부와 정치권이 법 개정을 통한 제동에 나선 가운데...",
+    "published_at": "2026-07-25T09:33:00+09:00",
+    "cluster_id": "36ad",
+    "publisher": "greened.kr",
+    "title_clean": "1조 자산 기계설비공제조합, 수장 인선 또 정치권 입김?…\"건설금융 전...",
+    "summary": "1조 원대 자산을 보유한 기계설비건설공제조합의 지배구조 논란이 재연되고 있다. 협회장이 조합 운영위원장까지 겸임할 가능성에 대해 국토교통부와 정치권이 법 개정으로 제동을 거는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-25T09:40:05+09:00",
+    "event_label": "기계설비건설공제조합 지배구조 논란 및 규제 개선",
+    "importance": 7
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32202,22 +32219,6 @@
     "publisher": "안전신문",
     "title_clean": "산업안전보건의 달 열기 전국 확산… 인천지역 행사 개최",
     "summary": "산업안전보건의 달을 맞아 전국적으로 안전 관련 행사와 캠페인이 확산되고 있으며, 인천지역에서도 다양한 행사가 개최되고 있다. 이는 건설업계의 산업안전 문화 정착과 재해 예방을 위한 업계 전반의 노력을 보여주는 사례다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T15:46:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부영그룹, 여름철 장마 대비 전국 현장 및 사업장 대상 안전점검 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VcVVSZVZNUGNYVWhTTDF2NWp0TXEyVk56Rk9QcWY3OExHTDFuSXBTMENNY01SOW9kYldLbWFicEUzSjFQeFdvdkk1X0FaZnpjQXhnY0UxdmdNa3pTOS1nTzJ6RQ?oc=5",
-    "description": "매일일보 = 김승현 기자 | 부영그룹은 폭염과 집중호우가 반복되는 여름 장마철을 맞아 건설 현장 내 안전사고 및 중대재해를 선제적으로 예방하고자 ‘용산 한강로3가 신축현장’을 포함한 전국 건설 현장 및 사업장을 대상으로 ‘장마철 대비 안전관리 특별 점검’을 시행했다고 22일 밝혔다.올해 장마는 단시간 내 많은 비가 집중되는 국지성 폭우와 폭염이 번갈아 발생할 것으로 전망된다. 이에 부영그룹은 전국 각 현장을 대상으로 한 재해 예방 및 피해 방지 점검에 나섰다.점검 대상엔 △용산 한강로3가 신축현장 △뚝섬부영복합빌딩 △소공동 부영호텔",
-    "published_at": "2026-07-22T15:30:27+09:00",
-    "cluster_id": "29eb",
-    "publisher": "매일일보",
-    "title_clean": "부영그룹, 여름철 장마 대비 전국 현장 및 사업장 대상 안전점검",
-    "summary": "부영그룹이 여름 장마철 대비 전국 건설 현장과 사업장에 대한 안전관리 특별점검을 실시했다. 집중호우와 폭염이 반복될 것으로 예상되는 가운데 안전사고와 중대재해를 선제적으로 예방하기 위한 조치다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-22T15:46:15+09:00",
     "importance": 2
