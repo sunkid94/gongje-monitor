@@ -23070,6 +23070,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고양시의회, 제306회 임시회 폐회…안건 6건 의결 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20260724500090",
+    "description": "이날 본회의에서는 기획행정위원회 소관 '고양시 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영을 위한 조례 일부개정조례안' 등 2건, 건설교통위원회의 '고양 도시관리계획(GB해제) 결정(변경)(안)...",
+    "published_at": "2026-07-25T10:34:00+09:00",
+    "cluster_id": "c551",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "고양시의회, 제306회 임시회 폐회…안건 6건 의결",
+    "summary": "고양시의회가 제306회 임시회를 폐회하며 6건의 안건을 의결했다. 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영 조례 개정안 등 건설 관련 안건이 포함되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-25T10:39:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32207,21 +32223,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-22T15:51:17+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 여름 안전관리 시군 합동회의…\"폭염·풍수해 대비\" - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260722_0003718959",
-    "description": "김규식 경기도 안전관리실장은 이날 도청 재난상황실에서 '여름철 풍수해·폭염 등 대비 도-시군 합동회의'를 열고 ▲호우 대비 재해예방대책 ▲건설노동자 폭염대책 ▲여름철 축제·행사 등 다중운집인파 안전관리...",
-    "published_at": "2026-07-22T15:37:00+09:00",
-    "cluster_id": "9386",
-    "publisher": "newsis.com",
-    "title_clean": "경기도, 여름 안전관리 시군 합동회의…\"폭염·풍수해 대비\"",
-    "summary": "경기도가 여름철 안전관리를 위해 도-시군 합동회의를 개최하여 폭염, 호우 등 재해예방과 건설노동자 안전대책을 추진한다. 건설현장의 폭염 대책 강화로 노동자 안전관리 규정이 강화될 가능성이 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T15:46:15+09:00",
-    "importance": 4
   }
 ]
