@@ -7116,6 +7116,22 @@
     "event_label": "전문건설공제조합 스마트건설 생태계 조성 업무협약"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "K-조선 3사, 워싱턴서 미국 협력 계약…1500억 달러 마스가 시동 - 자본시장뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45NUE0ZFNCeWdDV1BseXpKLVczYjNuRFg4TVZTYl9fUEozVjVNbUExZHRFUjB5OGRKbHNGbUhsNGh1TFJ0cjdQYS02YVhhRjB2dEtucXhyVGhCOWlpQVYxUzN1a1pYNlU?oc=5",
+    "description": "국내 조선 3사가 미국 워싱턴에서 함정 설계부터 스마트 조선소·무인수상정·유지보수(MRO)까지 아우르는 전방위 협력에 나섰다. 한·미 조선협력센터 개소를 계기로",
+    "published_at": "2026-07-25T12:00:00+09:00",
+    "cluster_id": "3543",
+    "publisher": "자본시장뉴스",
+    "title_clean": "K-조선 3사, 워싱턴서 미국 협력 계약…1500억 달러 마스가 시동",
+    "summary": "국내 조선 3사가 미국과 한·미 조선협력센터를 개소하여 함정 설계, 스마트 조선소, 무인수상정, MRO 등 전방위 협력을 추진한다. 1500억 달러 규모의 마스 프로젝트 수주를 목표로 미국과의 조선 협력을 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-25T12:59:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23052,22 +23068,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T15:06:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[굿모닝! 16일 건설업계 소식] 대우건설·부영·롯데건설·LH·HUG·SK에코플랜트·IPARK현대산업개발 - 굿모닝경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85QUlHdWY4XzBVaXk2d0xMMVBlUm9JWVAzRmZnclhNMjNaWEhTWmlQLVdOb3RBRzlIZURQQVVWUlRnVmx2Z2NuQk1fbWdMVzhfT29OOFVFdzZUWkxDcktTc2pNU29uek43QzNwaw?oc=5",
-    "description": "대우건설은 '울산 북항 액화가스 및 석유제품 터미널 3단계 건설공사'를 성공적으로 준공하고, 초기 운영 안정화와 발주처 인수인계 등 후속 절차를 모두 끝내고 프로",
-    "published_at": "2026-07-16T14:44:06+09:00",
-    "cluster_id": "b5f7",
-    "publisher": "굿모닝경제",
-    "title_clean": "[굿모닝! 16일 건설업계 소식] 대우건설·부영·롯데건설·LH·HUG·SK에코플랜트·IPARK현대산업개발",
-    "summary": "대우건설이 울산 북항 액화가스 및 석유제품 터미널 3단계 건설공사를 성공적으로 준공하고 인수인계를 완료했다. 주요 건설사들의 프로젝트 진행 현황을 전하는 정보성 뉴스이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T15:06:02+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
