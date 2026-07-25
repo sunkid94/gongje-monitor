@@ -23070,6 +23070,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "미·이란 충돌 재격화에 건설현장 비상… 유가 120달러 땐 건설비 0.42%↑ - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVA1N1ZlcGdwNHpFWW9EVm9udjRoNC1JTC0wZzdrYldIbVo0YmJCdENDamxrTWpOaFhrSkFjeUxZQ0RkWTdzemRXQl9mN0VkVEhFUVhnMTRTa241LVZjNHRQajdaSmM0aXM4cUN0X29sbjhVcFVTV2RJaEN3b1lVSk9GeTZwd3J5V01qNndzR1ZPNVEyTEN5RtIBrAFBVV95cUxOMGhXQjNQaU8tNWtuRkZSX2M3ODUtbk5RYV9yX2hZV3FyaTAydFJvU1dZU0xhUXIwNjRuWkp1andRM1k1OThhbW5rX0N2UHRmdFFmUXhwRG5Nb1oxTS1mb3Jmc3V6V19VTGlHRnlpV2hzVEVLREdBNHNtT3NmUGlfeHlfdktDNVlRV2Jwc1RvUXRvbjREaUF3OTBUMDBkaFRFOXl6bmt4VDBRdXRL?oc=5",
+    "description": "미·이란 충돌 재격화에 건설현장 비상 유가 120달러 땐 건설비 0.42%↑ 브렌트유 사흘 만에 12.9% 올라 100.69달러 건산연 유가 20% 뛰면 주택 건축비 0.36%↑ 침체 속 원가 부담착공 지연·공사비 갈등 우려",
+    "published_at": "2026-07-22T02:07:37.526000+00:00",
+    "cluster_id": "f30a",
+    "publisher": "Chosunbiz",
+    "title_clean": "미·이란 충돌 재격화에 건설현장 비상… 유가 120달러 땐 건설비 0.42%↑ - 조선비즈",
+    "summary": "미·이란 충돌 심화로 유가가 급등하면서 건설비 상승 우려가 제기되고 있습니다. 유가 120달러 시 건설비 0.42% 인상 등 원가 부담 증가로 착공 지연과 공사비 갈등이 예상됩니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-25T09:50:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32207,21 +32223,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T15:46:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "동부건설 \"수주 성과를 실질적 이익으로 변환\" - 미래경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JMk1oWndRN05zaFRQR2VZZDkwMkNya1M2cmpZWFdLS2VtWW1VRGptYzdZdjJWTThCdXpGaXB5OFlTTzlNa2Zuckc1bUtWY3JzZ0tJeXBSOHBKWUUwa2twR0xwZXVpOTEyRVMwMA?oc=5",
-    "description": "[미래경제 한우영 기자] 동부건설이 수주 물량 확대를 넘어 실질적인 수익 창출과 생산성 극대화에 사업 역량을 집중한다.동부건설은 서울 강남구 역삼동 사옥에서",
-    "published_at": "2026-07-22T11:56:39+09:00",
-    "cluster_id": "363d",
-    "publisher": "미래경제",
-    "title_clean": "동부건설 \"수주 성과를 실질적 이익으로 변환\"",
-    "summary": "동부건설이 수주 확대를 넘어 실질적인 수익 창출과 생산성 극대화에 역량을 집중하고 있다. 기존의 물량 중심에서 수익성 중심의 사업 전략으로 전환하는 움직임을 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T15:46:15+09:00",
-    "importance": 2
   }
 ]
