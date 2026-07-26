@@ -23053,6 +23053,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "필리핀 건설 인력 유출과 시장 충격: 국내 공사 지연·비용 상승, 한국 해외 프로젝트에도 파장 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2a1ktc0l1bU5KcUlvNEFGM2VJZlQ5WW84X2JvV01GV0Y4bzhEMlFrN3F0SlpELXZwVTFlSUxJNGFXcDg0SkNFNEY1NHI?oc=5",
+    "description": "해외 임금 경쟁에 따른 국내 공사 차질과 비용 상승 2026년 7월 20일 필리핀 데일리 인콰이어러(Philippine Daily Inquirer) 보도에 따르면, 필리핀 건설 경기 활황에도 불구하고 숙련 건설 노동자의 해외 유출이 가속화되었다. 그 직접적 결과로 국내 대규모 인프라 프로젝트와 민간 건설 현장에서 만성적 인력 부족이 발생하였으며, 공사 일정",
+    "published_at": "2026-07-27T06:27:09+09:00",
+    "cluster_id": "be54",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "필리핀 건설 인력 유출과 시장 충격: 국내 공사 지연·비용 상승, 한국 해외 프로젝트에도 파장",
+    "summary": "필리핀의 건설 경기 호황에도 숙련 노동자의 해외 유출로 인한 국내 인력 부족이 심화되고 있다. 이는 국내 대규모 인프라 프로젝트 지연과 공사 비용 상승을 초래하며, 한국의 해외 건설 프로젝트에도 영향을 미치고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T06:37:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32217,20 +32233,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T06:31:04+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부·해건협, ‘해외건설 유망국가 심층정보 고도화사업 성과공유회’ 개최 - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLa3RpSzlvQXh5U0UyWFF4X3NZNGo2eFZ1RkM5TjEySlZTSkNsNFE5U0lUUEozS1ZuSV9OMlRkamVfWXlwSHZNczhKRGtrM3Jidlp3cEln?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLa3RpSzlvQXh5U0UyWFF4X3NZNGo2eFZ1RkM5TjEySlZTSkNsNFE5U0lUUEozS1ZuSV9OMlRkamVfWXlwSHZNczhKRGtrM3Jidlp3cEln?oc=5\" target=\"_blank\">국토부·해건협, ‘해외건설 유망국가 심층정보 고도화사업 성과공유회’ 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-    "cluster_id": "f341",
-    "publisher": "헤럴드경제",
-    "title_clean": "국토부·해건협, ‘해외건설 유망국가 심층정보 고도화사업 성과공유회’ 개최",
-    "summary": "국토부와 해건협이 해외건설 유망국가에 대한 심층정보 고도화사업의 성과를 공유하는 행사를 개최했다. 이는 해외건설 시장 진출을 위한 정보 인프라 강화 및 업체 지원 방안을 논의하는 자리이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T06:11:13+09:00",
-    "importance": 2
   }
 ]
