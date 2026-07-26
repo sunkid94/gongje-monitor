@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "조합 이사장에 ‘뉴이재명’ 낙하산… 대의원들 반대로 선임 불발 - chosun.com",
+    "link": "https://www.chosun.com/politics/blue_house/2026/07/27/BGPIWPYOIRG27KGWU3BHHS7ISY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "전문건설공제조합 총회에서 이인기 이사장 선임안 부결 내부 “당 바꿔서 온 사람 반대” 전문건설공제조합이 지난 대선 때 이재명 대통령을 지지하며 국민의힘을 탈당한 이인기 전 의원의 이사장 선임안을 부결시킨...",
+    "published_at": "2026-07-27T00:50:00+09:00",
+    "cluster_id": "ca1e",
+    "publisher": "chosun.com",
+    "title_clean": "조합 이사장에 ‘뉴이재명’ 낙하산… 대의원들 반대로 선임 불발",
+    "summary": "전문건설공제조합 총회에서 이재명 대통령 지지로 국민의힘을 탈당한 이인기 전 의원의 이사장 선임안이 대의원들의 반대로 부결됨. 업계 내 당을 바꾼 인물에 대한 저항감이 드러남.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T00:53:00+09:00",
+    "event_label": "전문건설공제조합 이인기 이사장 선임안 부결",
+    "importance": 5
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "충북병무청, 찾아가는 병역이행 설명회 - dynews.co.kr",
     "link": "https://www.dynews.co.kr/news/articleView.html?idxno=859171",
     "description": "［동양일보 김민환 기자］ 충북병무청(청장 이호준)은 지난 24일 음성군 전문건설공제조합 기술교육원을 찾아 교육생을 대상으로 '찾아가는 병역이행 설명회'를 열었다. 이날 설명회에서는 취업맞춤특기병 제도를 비롯한...",
@@ -32201,21 +32218,6 @@
     "summary": "유해·위험기계기구에 대한 스마트 안전장비 적용 세미나가 개최되었습니다. 이는 건설업계의 안전 관리 수준을 향상시키고 기계설비 관련 규제 준수를 지원하기 위한 정보 제공 행사입니다.",
     "sentiment": "positive",
     "collected_at": "2026-07-22T20:41:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중·소규모 건설현장 안전의식 생활화 확산 세미나 개최 - 안전정보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yYjdEdldaYWRjQ2xFXzUyekNPSDVBb19HSlNRZlpfMzhQYlg1UWdPNzNzVkdCQ2hnZHdyMFBsVm1pLXZRblN2SHNzMENqUFZ5TnFlQl81Q1drY0FxUFhObmFmX2E3UGdIeEFn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8yYjdEdldaYWRjQ2xFXzUyekNPSDVBb19HSlNRZlpfMzhQYlg1UWdPNzNzVkdCQ2hnZHdyMFBsVm1pLXZRblN2SHNzMENqUFZ5TnFlQl81Q1drY0FxUFhObmFmX2E3UGdIeEFn?oc=5\" target=\"_blank\">중·소규모 건설현장 안전의식 생활화 확산 세미나 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
-    "cluster_id": "0345",
-    "publisher": "안전정보",
-    "title_clean": "중·소규모 건설현장 안전의식 생활화 확산 세미나 개최",
-    "summary": "중·소규모 건설현장의 안전의식 생활화를 확산하기 위한 세미나가 개최되었습니다. 이는 건설업계의 안전 문화 정착과 현장 사고 예방을 위한 업계 차원의 노력입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T20:31:12+09:00",
     "importance": 2
   }
 ]
