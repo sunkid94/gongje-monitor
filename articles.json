@@ -23020,6 +23020,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "중소기업 안전투자 생존전략: 2026년 상반기 산재 감소가 증명한 정부 지원 활용법 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KNDBRSjhqTkhqSUotZzg1cDNMVzZtejN4MFBMQ0RpZzgzWkVzU1lFZlNIZTFVcTg4TzA3LW5KNHcxU0xWbWxyeUxMTTA?oc=5",
+    "description": "2026년 상반기 통계로 본 지원 효과와 한계 2026년 상반기 산업재해 사망사고가 전년 대비 11.8% 감소했다. 고용노동부가 2026년 7월 발표한 재해조사 결과에 따르면 재해조사 대상 사고사망자는 253명(232건)으로, 상시근로자 50인 미만 사업장의 감소율은 17.0%, 5인 미만 초소규모 사업장은 23.9%에 달했다. 소규모 사업장에서 오히려 감",
+    "published_at": "2026-07-26T21:21:48+09:00",
+    "cluster_id": "2f29",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "중소기업 안전투자 생존전략: 2026년 상반기 산재 감소가 증명한 정부 지원 활용법",
+    "summary": "2026년 상반기 산업재해 사망사고가 전년 대비 11.8% 감소했으며, 특히 소규모 사업장(50인 미만 17.0%, 5인 미만 23.9%)에서 감소율이 두드러졌다. 정부의 중소기업 안전투자 지원이 효과를 보이고 있는 것으로 나타났다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T21:27:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32198,22 +32214,6 @@
     "publisher": "sedaily.com",
     "title_clean": "현대엔지니어링, 안성 교량 붕괴 사고로 영업정지 3개월",
     "summary": "현대엔지니어링이 지난해 2월 안성 교량 붕괴 사고로 인해 건설산업기본법에 따라 영업정지 3개월 처분을 받았다. 고용노동부장관이 중대재해 발생 건설사업자에 대한 규정에 따라 영업정지를 요청한 것으로, 건설업계의 안전관리 강화를 시사한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T18:41:21+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'삼중고' 지역 레미콘 업계 대책 마련 시급 - jndn.com",
-    "link": "http://www.jndn.com/article.php?aid=1784712560436506008",
-    "description": "건설경기 침체와 원자재 가격 상승, 골재 공급난이라는 '삼중고'에 시달리면서 최근 1년 새 출하량이 36.8%나 감소했다. 여기에 골재 채취 허가 지연으로 원자재 확보도 어려움을 겪고 있다. 올 하반기부터 휴·폐업과...",
-    "published_at": "2026-07-22T18:32:00+09:00",
-    "cluster_id": "18c6",
-    "publisher": "jndn.com",
-    "title_clean": "'삼중고' 지역 레미콘 업계 대책 마련 시급",
-    "summary": "레미콘 업계가 건설경기 침체, 원자재 가격 상승, 골재 공급난으로 인한 삼중고를 겪으면서 최근 1년간 출하량이 36.8% 감소했다. 골재 채취 허가 지연으로 인한 원자재 확보 어려움이 가중되고 있으며, 하반기부터 휴·폐업 사태가 우려되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-07-22T18:41:21+09:00",
     "importance": 4
