@@ -23053,6 +23053,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[인터뷰] 김석기 국토부 건설정책국장 \"기계설비, AI시대 핵심 인프라\" - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51051",
+    "description": "올해 건설산업기본법 시행령 개정을 통해 불법하도급시 영업정지 처분을 현행법상 최대 상한인 2년 수준으로 강화하고, 국토부 장관이 직접 처분할 수 있도록 제도를 다듬고 있다. 단속 기준도 명확히 정비해 정상적인...",
+    "published_at": "2026-07-27T06:06:00+09:00",
+    "cluster_id": "94b1",
+    "publisher": "기계설비신문",
+    "title_clean": "[인터뷰] 김석기 국토부 건설정책국장 \"기계설비, AI시대 핵심 인프라\"",
+    "summary": "국토부가 건설산업기본법 시행령을 개정하여 불법하도급에 대한 영업정지 처분을 최대 2년으로 강화하고 국토부 장관의 직접 처분 권한을 확대할 계획. 단속 기준 정비를 통해 불법행위에 대한 규제를 강화하는 조치.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T06:13:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32207,21 +32223,6 @@
     "summary": "건설업계 노동조합원과 노동자들을 위한 의미 있는 활동 시리즈가 진행 중이다. 구체적인 활동 내용이나 영향에 대한 상세 정보는 제시되지 않았다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T01:41:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도의회 유재수 의원, “건설현장 입찰 제도 개선 및 신안산선·화물차 주차난 등 현안 해결 당부” - 경기종합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfTkU1azlCVzBUSldhWnRnaUcwVW16WVNUSmpfWkpITExUY2h3LXlxMUZzYTN1NlRMSWM2LVF1dUUwLUsyYnR1WjVLa3FBckdkdExwTWlpV09Td2g0WjF4Und6dm1PTTkxNHNkT0puc1ozb015?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBfTkU1azlCVzBUSldhWnRnaUcwVW16WVNUSmpfWkpITExUY2h3LXlxMUZzYTN1NlRMSWM2LVF1dUUwLUsyYnR1WjVLa3FBckdkdExwTWlpV09Td2g0WjF4Und6dm1PTTkxNHNkT0puc1ozb015?oc=5\" target=\"_blank\">경기도의회 유재수 의원, “건설현장 입찰 제도 개선 및 신안산선·화물차 주차난 등 현안 해결 당부”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기종합뉴스</font>",
-    "cluster_id": "e6c8",
-    "publisher": "경기종합뉴스",
-    "title_clean": "경기도의회 유재수 의원, “건설현장 입찰 제도 개선 및 신안산선·화물차 주차난 등 현안 해결 당부”",
-    "summary": "경기도의회 유재수 의원이 건설현장 입찰 제도 개선, 신안산선 건설, 화물차 주차난 해결 등을 주요 현안으로 제시하며 개선을 당부했습니다. 건설업계의 제도 개선과 기반시설 확충을 요구하는 의견 제시입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T00:41:05+09:00",
     "importance": 2
   }
 ]
