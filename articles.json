@@ -23020,6 +23020,21 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "김성제 의왕시장, 전문건설업계와 함께 지역건설 활성화 나서겠다고 밝혀 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtWnNiQ1lWRzBnNUlsTnd0NnhfYThpdUh1aEtWRktZajJXT3g3anEwWVNOZGhFS3BqT1lCbWVrMzM2cFBRaVNfMEg2ck5SOHdwelUxWjYxSi0weE5KTVphNlZ4cExXMmNjZzBwbEZoMEw?oc=5",
+    "description": "관내 전문건설업체 대표들과 간담회를 개최해 건설경기 침체로 인한 애로사항을 청취하고 지역 건설산업 활성화와 상생협력 방안을 모색했다.의왕시는 지난달 22일 시청 중회의실에서 대한전문건설협회 의왕시협의회 이원재 회장을 비롯한 관내 전문건설업체 대표 등 20여 명이 참석한 가운데 2026년 의왕시 전문건설업 관계자 간담회를 개최했다고 밝혔다.이번 간담회는 건설경기 침체로 어려움을 겪고 있는 지역 전문건설업체들의 현장 애로사항을 청취하고, 지역 건설산업 활성...",
+    "cluster_id": "85ce",
+    "publisher": "더코리아",
+    "title_clean": "김성제 의왕시장, 전문건설업계와 함께 지역건설 활성화 나서겠다고 밝혀 > 뉴스",
+    "summary": "김성제 의왕시장이 지역 전문건설업체 대표들과 간담회를 개최하여 건설경기 침체로 인한 애로사항을 청취했다. 시는 지역 건설산업 활성화와 상생협력 방안을 모색하겠다고 밝혔다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T23:02:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,21 +32216,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-22T18:50:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "다른 쪽 성과급 환호에 묻힌 충북 건설업·자영업 '신음' - cctoday.co.kr",
-    "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233665",
-    "description": "반도체의 역대급 호황과 달리 지역 건설경기나 자영업자들의 살림은 더욱 팍팍해지고 있다.미국과 이란의 전쟁으로 국제유가가 고공행진을 하는 데다 금리 인상, 물가 상승 등의 여파가 그들을 직격하고 있기...",
-    "published_at": "2026-07-22T18:38:00+09:00",
-    "cluster_id": "6225",
-    "publisher": "cctoday.co.kr",
-    "title_clean": "다른 쪽 성과급 환호에 묻힌 충북 건설업·자영업 '신음'",
-    "summary": "반도체 산업의 호황과 달리 충북 지역 건설업과 자영업은 국제유가 상승, 금리 인상, 물가 상승 등으로 경영난을 겪고 있다. 건설경기 악화와 자영업자들의 생활 어려움이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T18:45:54+09:00",
-    "importance": 4
   }
 ]
