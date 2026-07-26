@@ -23023,6 +23023,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "네덜란드 모뉴멘탈, 벽돌쌓기 로봇으로 480억원 유치하며 美 공략 - irobotnews.com",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47600",
+    "description": "◇미국 건설 시장을 겨냥하는 모뉴멘탈 미국은 매달 20만~40만 명의 건설 노동자가 부족한 실정이며, 주택 건설업체들은 수요를 맞추기 위해 향후 3년 동안 220만 명을 추가로 고용해야 한다. 모뉴멘탈은 이러한 격차를...",
+    "published_at": "2026-07-26T20:20:00+09:00",
+    "cluster_id": "5368",
+    "publisher": "irobotnews.com",
+    "title_clean": "네덜란드 모뉴멘탈, 벽돌쌓기 로봇으로 480억원 유치하며 美 공략",
+    "summary": "네덜란드의 건설기술 스타트업 모뉴멘탈이 벽돌쌓기 로봇 기술로 480억원을 유치하며 미국 건설 시장 진출을 추진 중이다. 미국의 심각한 건설 노동자 부족 현상(월 20~40만 명)을 자동화 기술로 해결하려는 움직임이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-26T20:27:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "고양시의회, 제306회 임시회 폐회…조례안 등 6건 의결 - globalepic.co.kr",
     "link": "http://www.globalepic.co.kr/view.php?ud=2026072414545350725f69d33b22_29",
     "description": "24일 열린 제2차 본회의에서는 기획행정위원회의 '고양시 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영을 위한 조례 일부개정조례안' 등 2건, 건설교통위원회의 '고양 도시관리계획(GB 해제) 결정(변경)(안)...",
@@ -32201,21 +32217,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T18:41:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭우에 폭염까지…경기도, 취약시설·건설현장 '특별관리' - 보도자료 | 기사 - 더팩트",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQWjhwbXhVRE4tZHdOcERIVDIxb3Y4Y055eFRmOHY4cENXZEFnOVdpc2NTNTkzbTZkWndQMzZKY1dWdzFxYThXQ05JWm5sM0FJN3BrRjdiNGQ2SFZYTnJR?oc=5",
-    "description": "침수예방사업 91% 완료·온열질환 대응 강화축제·물놀이 안전관리까지 여름철 재난 전방위 대응22일 경기도청 재난상황실에서 김규식 안전관리실장 주재로 여름철 풍수해·폭염 ..",
-    "published_at": "2026-07-22T18:26:58+09:00",
-    "cluster_id": "6698",
-    "publisher": "더팩트",
-    "title_clean": "폭우에 폭염까지…경기도, 취약시설·건설현장 '특별관리' - 보도자료 | 기사",
-    "summary": "경기도가 여름철 폭우와 폭염에 대비하여 침수예방사업 91% 완료, 취약시설 및 건설현장에 대한 특별관리 강화 등 전방위적 재난 대응에 나섰다. 온열질환 대응 강화와 축제·물놀이 안전관리까지 포함한 종합적인 여름철 재난 관리 체계를 구축했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T18:41:21+09:00",
-    "importance": 2
   }
 ]
