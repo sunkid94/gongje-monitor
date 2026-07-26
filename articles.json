@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "김강복 기계설비건설협회 강원도회 부회장 국방부 장관 표창 - 강원도민일보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wT1l1SUh1aDBxYW1KRFNRemtUSURqYkRtcEhlazRJZW5XZkNjMFljZWp2c0ZTdjA1VXNHX3NTLUQzbC1Kb3hFdHRYMXY3Vjc0SHZRekVlTFRQbW5DbkhmZGRhVTZ4clU?oc=5",
+    "description": "김강복(62·청화설비 대표이사·사진) 대한기계설비 건설협회 강원도회 부회장(굿리더 아카데미 제4대 원주권 총원우회장)이 23일 서울 드래곤시티에서 열린 2026",
+    "published_at": "2026-07-27T00:02:01+09:00",
+    "cluster_id": "fc28",
+    "publisher": "강원도민일보",
+    "title_clean": "김강복 기계설비건설협회 강원도회 부회장 국방부 장관 표창",
+    "summary": "김강복 대한기계설비건설협회 강원도회 부회장이 국방부 장관 표창을 수상했다. 기사는 업계 인사의 영예로운 수상 소식을 전하는 내용이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-27T03:07:56+09:00",
+    "event_label": "대한기계설비건설협회 김강복 부회장 국방부 장관 표창 수상",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32205,21 +32222,6 @@
     "summary": "서부발전이 충남 지역 직업계고 10개교 학생 280여명을 대상으로 산업안전교육을 진행했으며, 9월에는 현장 체험교육을 실시할 예정이다. 이는 건설·기계설비 분야 인재 양성 및 산업안전 의식 제고를 위한 사회공헌 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-22T21:01:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "‘건설업 스마트 안전보건기술 융합 폭염·한파 보건관리 우수사례’ 발표 - 안전정보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZjFnZDNXQ3ZpcktNWVhuRlRLbVlfeUhLNTZmeGR5dUlxcDY5Ym5EMGdPOHdaQ1VGREFfTjR4N0FIVHpzOVE5dEdkM3BxQlhhQkJsdnlsckJ1QXB3S1A0VEhvaDNvZkUzQlM0?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZjFnZDNXQ3ZpcktNWVhuRlRLbVlfeUhLNTZmeGR5dUlxcDY5Ym5EMGdPOHdaQ1VGREFfTjR4N0FIVHpzOVE5dEdkM3BxQlhhQkJsdnlsckJ1QXB3S1A0VEhvaDNvZkUzQlM0?oc=5\" target=\"_blank\">‘건설업 스마트 안전보건기술 융합 폭염·한파 보건관리 우수사례’ 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
-    "cluster_id": "0dba",
-    "publisher": "안전정보",
-    "title_clean": "‘건설업 스마트 안전보건기술 융합 폭염·한파 보건관리 우수사례’ 발표",
-    "summary": "건설업계의 스마트 안전보건기술과 폭염·한파 등 극한 환경에서의 보건관리 우수사례가 발표되었다. 이는 건설업계의 안전 및 보건 관리 수준 향상을 통해 산업 신뢰도를 제고하는 긍정적 사례 공유이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T20:55:54+09:00",
     "importance": 2
   }
 ]
