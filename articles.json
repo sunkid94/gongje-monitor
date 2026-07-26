@@ -7066,6 +7066,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "얼음물·이동식 에어컨 총동원… 경남 산업현장 ‘더위와 전쟁’ - knnews.co.kr",
+    "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1547219",
+    "description": "지난 23일 삼성중공업 거제조선소에서 경남도와 동아오츠카, 삼성중공업 관계자들이 근로자들의 휴식시간에 이온음료와 수박화채를 제공하고 있다./경남도/ 26일 도내 산업계에 따르면 조선·제조·건설 기업들은 야외...",
+    "published_at": "2026-07-26T20:56:00+09:00",
+    "cluster_id": "9bba",
+    "publisher": "knnews.co.kr",
+    "title_clean": "얼음물·이동식 에어컨 총동원… 경남 산업현장 ‘더위와 전쟁’",
+    "summary": "경남 지역 조선·제조·건설 산업현장에서 폭염 대응을 위해 이동식 에어컨, 얼음물, 이온음료 등 다양한 대책을 총동원하고 있다. 업체들이 근로자 안전과 쾌적한 작업환경 유지에 적극 나서고 있는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-26T20:57:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23002,22 +23018,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-16T15:50:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 사용기간 장기화 '건물일체형 태양광 발전시스템' 현장 적용 - hbnpress.com",
-    "link": "https://hbnpress.com/news/view/1065595424581268",
-    "description": "롯데건설은 사용 기간을 50년으로 늘린 건물일체형 태양광발전시스템(BIPV)을 개발해 서울 서초동 역세권 청년주택 건설현장에 적용했다고 16일 밝혔다. 서울 서초구 '서초동 역세권 청년주택' 건설현장에 설치된...",
-    "published_at": "2026-07-16T15:46:00+09:00",
-    "cluster_id": "407d",
-    "publisher": "hbnpress.com",
-    "title_clean": "롯데건설, 사용기간 장기화 '건물일체형 태양광 발전시스템' 현장 적용",
-    "summary": "롯데건설이 사용 기간을 50년으로 연장한 건물일체형 태양광발전시스템(BIPV)을 개발하여 서울 서초동 역세권 청년주택 건설현장에 적용했다. 이는 건설업체의 신재생에너지 기술 확보와 건설 프로젝트의 부가가치 상승을 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T15:50:35+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
