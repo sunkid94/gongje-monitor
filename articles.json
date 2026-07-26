@@ -22986,6 +22986,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[기자수첩] 숙원사업이 이권사업으로 변질, 철저히 감시해야 - newsprime.co.kr",
+    "link": "http://www.newsprime.co.kr/news/article.html?no=741554",
+    "description": "건설업 등록만 해놓은 업체가 명의만 빌려주고 실제 공사는 무등록 업체가 시공하는 사례는 건설산업기본법이 엄격히 금지하고 있다. 면허 대여는 등록 취소와 형사처벌 대상이 될 수 있으며, 부실시공과 안전사고의...",
+    "published_at": "2026-07-26T12:06:00+09:00",
+    "cluster_id": "0e0f",
+    "publisher": "newsprime.co.kr",
+    "title_clean": "[기자수첩] 숙원사업이 이권사업으로 변질, 철저히 감시해야",
+    "summary": "건설업 면허 대여를 통한 무등록 업체의 불법 시공 관행을 지적하며, 숙원사업이 이권사업으로 변질되는 것을 비판. 건설산업기본법 위반에 대한 철저한 감시와 단속을 촉구하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-26T12:07:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32200,21 +32216,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-22T16:51:53+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남부권 레미콘 단체협약 갈등, 거제서 500명 파업 집회 - idomin.com",
-    "link": "https://www.idomin.com/news/articleView.html?idxno=2010673",
-    "description": "건설노동조합 경남건설기계지부 레미콘지회는 22일 오전 거제시청 앞에서, 이어 오후 새한레미콘 앞에서 '노조탄압 분쇄, 임단협 투쟁 승리를 위한 총파업 투쟁 결의대회'를 열었다. 경남 서부권과 동부권 레미콘...",
-    "published_at": "2026-07-22T16:42:00+09:00",
-    "cluster_id": "00f4",
-    "publisher": "idomin.com",
-    "title_clean": "남부권 레미콘 단체협약 갈등, 거제서 500명 파업 집회",
-    "summary": "건설노동조합 경남건설기계지부 레미콘지회가 거제에서 500명 규모의 파업 집회를 개최하며 노조탄압 분쇄와 임단협 투쟁을 벌이고 있다. 남부권 레미콘 산업의 단체협약 갈등이 본격화되면서 업계 운영에 차질이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T16:51:53+09:00",
-    "importance": 5
   }
 ]
