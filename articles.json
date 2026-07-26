@@ -23037,6 +23037,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "포항의료원 별관·부설주차장 공사… 설계부터 안전관리 '총체적 부실' - 영남경제",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LbXhQcWc3VmY3d1BCRnBRS3phQk1fdjY2ZlJaZkFPdHk1RFcwdmdQbUZYUDJ6em00eUlueGtCZEY4SXBHNUNjTlJpcDVXcXFwUEF4RVdwYkZ2MWNlckx2MmRPUjllRzQ?oc=5",
+    "description": "포항의료원이 건립하고 있는 별과 및 부설 주차장 공사가 총체적 부실로 드러났다.경북도 감사결과에 따르면 포항의료원이 추진 중인 별관 증축공사 및 부설주차장 구축공사가, 설계용역 발주 단계부터 시공·안전관리에 이르기까지 전 과정에서 각종 규정 위반이 무더기로 확인됐다.경북도는 지난달 발표한 감사결과 처분요구서를 통해 해당 공사와 관련해 여덟 가지 부적정 사항을 지적하고 의료원장에게 시정을 요구했다.이번에 문제가 된 공사는 총사업비 150억원대 규모로, 설계용역과 본공사, 건설사업관리(감리) 용역이 각각 별도로 발주됐다.그러나 감사 결",
+    "published_at": "2026-07-26T15:19:14+09:00",
+    "cluster_id": "4b03",
+    "publisher": "영남경제",
+    "title_clean": "포항의료원 별관·부설주차장 공사… 설계부터 안전관리 '총체적 부실'",
+    "summary": "포항의료원의 별관·부설주차장 공사(150억원 규모)가 설계용역부터 시공·안전관리까지 전 과정에서 규정 위반으로 드러났다. 경북도 감사에서 8가지 부적정 사항을 지적하고 의료원장에게 시정을 요구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T01:37:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32202,21 +32218,6 @@
     "title_clean": "‘AI 기반 자율 안전관리로 건설현장 패러다임 전환’ 심포지엄 개최",
     "summary": "건설현장의 안전관리 혁신을 위해 AI 기술 도입을 다루는 심포지엄이 개최되었습니다. AI 기반 자율 안전관리 시스템으로 건설현장의 패러다임 전환을 모색하고 있습니다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-22T20:41:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "‘AI 기반 가설공사 추락재해 예방 및 안전기준 고도화 세미나’ 개최 - 안전정보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1maFJKLTRVWUJEUU1Rd2ZJdHlsenNrTU1DWHNJZTBWaTZobV8zSTJKNGtWZ3YwTUZETXN6V1pNMFVrZl9SUUJoWWVXWEpDR1B5S1J2c09feHVfanpPTDlBaUhOdFRRbnJBamhJ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1maFJKLTRVWUJEUU1Rd2ZJdHlsenNrTU1DWHNJZTBWaTZobV8zSTJKNGtWZ3YwTUZETXN6V1pNMFVrZl9SUUJoWWVXWEpDR1B5S1J2c09feHVfanpPTDlBaUhOdFRRbnJBamhJ?oc=5\" target=\"_blank\">‘AI 기반 가설공사 추락재해 예방 및 안전기준 고도화 세미나’ 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
-    "cluster_id": "34f5",
-    "publisher": "안전정보",
-    "title_clean": "‘AI 기반 가설공사 추락재해 예방 및 안전기준 고도화 세미나’ 개최",
-    "summary": "건설업계의 가설공사 추락재해 예방을 위해 AI 기술을 활용한 안전기준 고도화 세미나가 개최되었다. 이는 산업 안전 강화 및 재해 감소를 목표로 한 업계의 안전 개선 노력을 의미한다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-22T20:41:27+09:00",
     "importance": 2
   }
