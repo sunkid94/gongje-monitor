@@ -22986,6 +22986,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울특별시의회 도시안전건설위원회 '노후 도시기반시설 해체공사 안전 확보 위한 법령 및 제도 정비 촉구 건의안' 채택 - 산경일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qY3lJQ0hNX2MyeE1wdEFGYXAybnRsWFZHVFRQWXNCM3I3NDhXUEdQLVF1MHRvanE1aW8wMFFoOFZHLXJUTE1OeUstV1VrTUhmZFg3ZlNhWlktNlItSzNpRk0zNHJRd1V3bVBvdTZoalc?oc=5",
+    "description": "제12대 서울특별시의회 전반기를 시작하는 도시안전건설위원회는 지난 23일 제338회 폐회중 제1차 도시안전건설위원회 회의에서",
+    "published_at": "2026-07-26T10:04:01+09:00",
+    "cluster_id": "82bc",
+    "publisher": "산경일보",
+    "title_clean": "서울특별시의회 도시안전건설위원회 '노후 도시기반시설 해체공사 안전 확보 위한 법령 및 제도 정비 촉구 건의안' 채택",
+    "summary": "서울시의회 도시안전건설위원회가 노후 도시기반시설 해체공사의 안전성을 강화하기 위한 법령 및 제도 정비를 촉구하는 건의안을 채택했습니다. 이는 해체공사 과정에서의 안전 기준 강화와 규제 확대를 의미합니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-26T12:02:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32200,21 +32216,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T16:51:53+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "계룡건설산업, 제2경춘국도 1공구 낙찰예정자 선정…공사예정금액 1848억원 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZ1BnZXRqV21qZFhVdTZvRWRTY2MtVkZUUDdYTGctb0thUG9YeXlSOXYxLXVCQW5WZzFJbmJKdUpMX1EzMS1TZHRUdEIwcVktb0NucW9PUnk5anpEd0ZQNTRha0lBeU9rc0RxOFU5cmEwSjQ?oc=5",
-    "description": "[디지털투데이 김주훈 에디터] 주택·토목 건설 기업 계룡건설산업(013580)이 제2경춘국도(남양주-춘천) 도로건설공사(1공구) 낙찰예정자로 선정됐다고 22일 공시했다.선정일자는 2026년 7월 22일이며 발주처는 조달청이다. 수요기관은 국토교통부 서울지방국토관리청이다. 공사예정금액은 부가세를 제외한 약 1848억원이며, 공사기간은 착공일로부터 2555일이다.공시에 기재된 최근 매출액은 2조8874억원으로, 공사예정금액의 매출액 대비 비율은 약 6.40%다. 최근 매출액은 2025년 연결재무제표 기준이다.상기 공사예정금액은 도급계약",
-    "published_at": "2026-07-22T16:32:04+09:00",
-    "cluster_id": "a632",
-    "publisher": "디지털투데이",
-    "title_clean": "계룡건설산업, 제2경춘국도 1공구 낙찰예정자 선정…공사예정금액 1848억원",
-    "summary": "계룡건설산업이 제2경춘국도 1공구 도로건설공사 낙찰예정자로 선정되어 약 1848억원 규모의 수주를 확보했다. 공사기간은 2555일이며, 발주처는 조달청이고 수요기관은 국토교통부 서울지방국토관리청이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T16:51:53+09:00",
-    "importance": 2
   }
 ]
