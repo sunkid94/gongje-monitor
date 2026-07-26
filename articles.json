@@ -23003,6 +23003,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH 대구경북본부, 대구국가산단 현장 산업재해예방 장관 표창 - 경북신문",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KekZfRl9BeFUtWV9PZ080U1h3ckZfY1VwbVM5SWhsWmhKOE5FWGswNUlwZ2dLRzJzQk1LZXhRWFlBVVY2RV9odllfYzE1TXk4aEw2MDc5dFo?oc=5",
+    "description": "한국토지주택공사(LH) 대구경북지역본부가 대구국가산단 행복주택 건설현장의 안전관리 성과를 인정받아 장관 표창을 받았다.LH에 따르면 대구경북본부는 대구국가산단 A7-1BL 아파트 건설공사 현장대리인인 정상원 일성건설..",
+    "published_at": "2026-07-26T09:53:55+00:00",
+    "cluster_id": "57e5",
+    "publisher": "경북신문",
+    "title_clean": "LH 대구경북본부, 대구국가산단 현장 산업재해예방 장관 표창",
+    "summary": "LH 대구경북본부가 대구국가산단 행복주택 건설현장의 우수한 산업재해예방 성과로 장관 표창을 수상했다. 이는 건설현장의 안전관리 강화 및 모범사례 확산에 기여하는 긍정적 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T15:57:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32201,21 +32217,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-22T17:31:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설업계도 반도체 공사만 독주…홈플 PF 우발채무 긴장모드 - sidae.com",
-    "link": "https://www.sidae.com/article/2026072215064296884",
-    "description": "한국신용평가에 따르면 지난 3월 말 건설사 PF 보증은 총 26조원이며, 우발채무가 많은 미착공 도급사업 보증이 7조1000억원에 달한다. 최근 회생절차를 밟고 있는 홈플러스 개발사업 PF 보증도 잠재 위험으로...",
-    "published_at": "2026-07-22T17:23:00+09:00",
-    "cluster_id": "0e35",
-    "publisher": "sidae.com",
-    "title_clean": "건설업계도 반도체 공사만 독주…홈플 PF 우발채무 긴장모드",
-    "summary": "건설사 PF 보증이 26조원에 달하며, 미착공 도급사업 보증만 7조1000억원으로 우발채무 위험이 증가하고 있다. 홈플러스 개발사업 PF 보증 등이 잠재 위험으로 떠오르면서 건설업계 전반의 PF 부실 위험이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T17:31:47+09:00",
-    "importance": 4
   }
 ]
