@@ -23040,6 +23040,21 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "호반건설, 수도권 정비사업 확대… 경기 군포 금정3구역 재개발 수주 - 서울신문",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jc0JSc0JWU3VXYWN2WjVVWUl6ZmQySkZodnpROElGb0c3aXNRLWVZZkVkb0dmQ2tvR0lFdDROUlJ5ZmNzcFdIdEZ4djRFbHg2UDJYeXlaY1FnZk5PZUh6eG1R?oc=5",
+    "description": "호반건설이 경기 군포시 금정3구역 재개발 정비사업 시공사로 선정됐다. 지하 4층~지상 35층, 6개 동, 656가구와 부대복리시설을 조성하는 약 2300억원 규모 사업이다. 금정역·군포역·산본역 접근성과 GTX-C 기대감도 크다.",
+    "cluster_id": "1ceb",
+    "publisher": "서울신문",
+    "title_clean": "호반건설, 수도권 정비사업 확대… 경기 군포 금정3구역 재개발 수주",
+    "summary": "호반건설이 경기 군포시 금정3구역 재개발 사업의 시공사로 선정되어 약 2,300억원 규모의 수주를 확보했다. 656가구와 부대복리시설을 포함한 대규모 정비사업으로 수도권 사업 포트폴리오를 확충했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-27T01:07:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "8년만에야 첫 입주 3기 신도시… 광명은 이달부터 토지보상 절차 - donga.com",
     "link": "https://www.donga.com/news/Economy/article/all/20260726/134367226/2",
     "description": "2018, 2019년 발표된 3기 신도시는 부동산 프로젝트파이낸싱(PF) 사태에 따른 건설경기 침체, 공사비 인상 등의 직격탄을 맞기도 했다. 국토교통부는 최근 업무보고에서 “3기 신도시 등 주요 지구 착공 시기를 1, 2년...",
@@ -32202,21 +32217,6 @@
     "title_clean": "‘AI 기반 가설공사 추락재해 예방 및 안전기준 고도화 세미나’ 개최",
     "summary": "건설업계의 가설공사 추락재해 예방을 위해 AI 기술을 활용한 안전기준 고도화 세미나가 개최되었다. 이는 산업 안전 강화 및 재해 감소를 목표로 한 업계의 안전 개선 노력을 의미한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-22T20:41:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "‘유해·위험기계기구 스마트 안전장비 적용 세미나’ 개최 - 안전정보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12WTg3ZXpyVW9nWVhVbFFBN0IxVTF0eEd0bzZic2pjQXp0a3NtNW1UbzlGT1IyRGtXZ0JrT2dMdUdMWDhMRVdHa2h2eDQ3cE1HODdWalFia2ktWkJ4ZFZmVGltWTlJbURuaG1B?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE12WTg3ZXpyVW9nWVhVbFFBN0IxVTF0eEd0bzZic2pjQXp0a3NtNW1UbzlGT1IyRGtXZ0JrT2dMdUdMWDhMRVdHa2h2eDQ3cE1HODdWalFia2ktWkJ4ZFZmVGltWTlJbURuaG1B?oc=5\" target=\"_blank\">‘유해·위험기계기구 스마트 안전장비 적용 세미나’ 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
-    "cluster_id": "1573",
-    "publisher": "안전정보",
-    "title_clean": "‘유해·위험기계기구 스마트 안전장비 적용 세미나’ 개최",
-    "summary": "유해·위험기계기구에 대한 스마트 안전장비 적용 세미나가 개최되었습니다. 이는 건설업계의 안전 관리 수준을 향상시키고 기계설비 관련 규제 준수를 지원하기 위한 정보 제공 행사입니다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-22T20:41:27+09:00",
     "importance": 2
   }
