@@ -22986,6 +22986,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"안전도 퀴즈로 배운다\"…경북개발공사, 건설현장 근로자 대상 '감성 안... - hidomin.com",
+    "link": "https://www.hidomin.com/news/articleView.html?idxno=714665",
+    "description": "연일 폭염이 이어지는 가운데 건설현장 안전사고와 온열질환 예방의 중요성이 커지면서 현장 근로자들의 자발적인 안전의식을 높이기 위한 이색 프로그램이 눈길을 끌고 있다. 경북개발공사는 최근 건설공사 현장에서...",
+    "published_at": "2026-07-26T12:56:00+09:00",
+    "cluster_id": "19bc",
+    "publisher": "hidomin.com",
+    "title_clean": "\"안전도 퀴즈로 배운다\"…경북개발공사, 건설현장 근로자 대상 '감성 안...",
+    "summary": "경북개발공사가 건설현장 근로자의 안전의식 고취를 위해 퀴즈 등 감성 안전 프로그램을 도입했다. 폭염으로 인한 안전사고와 온열질환 예방을 위한 자발적 참여 유도 방안이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T13:07:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설업 규제",
     "category": "정책·규제",
     "is_company": false,
@@ -32200,21 +32216,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-22T16:52:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "옴니시스템, 주식병합·자사주 매입…동전주 탈출 총력 - bloter.net",
-    "link": "https://www.bloter.net/news/articleView.html?idxno=668659",
-    "description": "'건설경기 부진' 계량기 매출 급감…수출 확대 모색 옴니시스템은 디지털 전력량계와 원격검침 시스템 등을 생산하는 MMV(측정·모니터링·검증) 사업을 주력으로 신용카드 제조와 조명 사업을 함께 운영하고 있다. MMV...",
-    "published_at": "2026-07-22T16:43:00+09:00",
-    "cluster_id": "2167",
-    "publisher": "bloter.net",
-    "title_clean": "옴니시스템, 주식병합·자사주 매입…동전주 탈출 총력",
-    "summary": "옴니시스템이 건설경기 부진으로 계량기 매출이 급감함에 따라 주식병합과 자사주 매입을 통해 동전주 탈출을 추진 중이며, 수출 확대를 모색하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T16:51:53+09:00",
-    "importance": 4
   }
 ]
