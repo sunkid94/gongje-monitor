@@ -7100,6 +7100,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘의 정치일정] 7월 27일(월) - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260726000177",
+    "description": "보수기후환경네트워크 두산에너빌리티 본사 현장시찰 및 간담회(두산에너빌리티 창원 본사, 경남 창원시 성산구 두산볼보로 22) -이주영 정책위의장 13:00 보수기후환경네트워크 두산에너빌리티 본사 현장시찰...",
+    "published_at": "2026-07-27T04:00:00+09:00",
+    "cluster_id": "7c71",
+    "publisher": "newspim.com",
+    "title_clean": "[오늘의 정치일정] 7월 27일(월)",
+    "summary": "보수기후환경네트워크가 두산에너빌리티 창원 본사를 현장시찰하고 간담회를 개최합니다. 이주영 정책위의장이 참석하여 에너지 관련 정책과 산업 현황을 논의할 예정입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T04:07:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23038,19 +23054,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 울산 북항 LNG 터미널 3단계 준공… 해외 플랜트 확대 기반 다... - s-journal.co.kr",
-    "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42454",
-    "description": "대우건설이 울산 북항 액화천연가스(LNG) 터미널 3단계 사업을 마무리하며 국내외 LNG 인프라 시장 확대를 위한 실적을 추가했다. 울산 북항 LNG 1·2·3단계를 연속 수행하며 축적한 설계·조달·시공(EPC) 경험을...",
-    "published_at": "2026-07-16T15:46:00+09:00",
-    "cluster_id": "0803",
-    "publisher": "",
-    "title_clean": "대우건설, 울산 북항 LNG 터미널 3단계 준공… 해외 플랜트 확대 기반 다... - s-journal.co.kr",
-    "summary": "대우건설이 울산 북항 LNG 터미널 3단계 사업을 완료하며 국내외 LNG 인프라 시장 확대 기반을 마련했다. 1·2·3단계 연속 수행으로 축적한 EPC 경험을 바탕으로 해외 플랜트 사업 확대를 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T15:50:35+09:00",
+    "title": "이재혁 사장, \"안전한 일터, 근로자 실천에서 시작\"… 안전문화 확산 강조 - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UblRnZ1hiRE9Xc0tvamp3b2dLU1JXdndnMERZSThpb3llZklJWXlWYjNyeC11NFZiUTh5Q0F2VGx3UmRhNU9mY0g2SGk1WW05UExPdTRFb3ktZG10cUhoZmZEelpfM1ZRT0FZQWJ3?oc=5",
+    "description": "(경북=국제뉴스) 김용구 기자 = 경상북도개발공사는 최근 건설공사 현장에서 근로자를 대상으로 감성 안전퀴즈대회를 개최하고, 안전문화 확산에 나섰다.이번 대회는 근로자들이 퀴즈를 통해 산업안전보건 지식을 쉽게 익히고, 자발적으로 안전 실천 문화를 확산할 수 있도록 마련됐다.근로자들은 퀴즈를 풀며 안전의 중요성을 다시 생각하고 소통하는 시간을 가졌다.퀴즈는 중대재해 처벌 등에 관한 법률과 건설현장 안전·보건 수칙을 주제로 진행됐다.정답을 맞힌 근로자들에게는 혹서기 개인 보냉장구 등 안전용품을 지급했다.이재혁 사장은 \"안전한 일터는 규정",
+    "published_at": "2026-07-26T22:03:43+09:00",
+    "cluster_id": "ced1",
+    "publisher": "gukjenews.com",
+    "title_clean": "이재혁 사장, \"안전한 일터, 근로자 실천에서 시작\"… 안전문화 확산 강조",
+    "summary": "경상북도개발공사가 건설공사 현장에서 근로자 대상 감성 안전퀴즈대회를 개최하여 산업안전보건 지식 전달 및 안전문화 확산에 나섰다. 중대재해 처벌법과 건설현장 안전 수칙을 주제로 진행되었으며, 참여 근로자에게 안전용품을 지급했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T04:07:53+09:00",
     "importance": 2
   },
   {
@@ -32205,21 +32221,6 @@
     "title_clean": "서귀포시, 지역 건설산업 활성화를 위한 업무협약 체결",
     "summary": "서귀포시가 FSAA JEJU 국제학교 건립사업 관련 허가기관, 시행사, 시공사 간 업무협약을 체결했다. 협약을 통해 지역 건설사, 장비, 근로자 참여 확대 및 지역 상권 활성화에 노력하기로 합의했다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-22T21:10:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국건설기술인협회 안전관리기술인회, 특별세미나 개최 - 안전정보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FSi1zX0RaODlJejdyUnUyMlFiNUE2S2JjMUg0MkJsVVZSSnFMMDNhRGpkazBoOVVvMWljR0dtUm1wam5rVFBRYzZwT1NrTXQ2bndHQncyY19yQy15YVc4Q3NIbmJwR3lzRmY4?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5FSi1zX0RaODlJejdyUnUyMlFiNUE2S2JjMUg0MkJsVVZSSnFMMDNhRGpkazBoOVVvMWljR0dtUm1wam5rVFBRYzZwT1NrTXQ2bndHQncyY19yQy15YVc4Q3NIbmJwR3lzRmY4?oc=5\" target=\"_blank\">한국건설기술인협회 안전관리기술인회, 특별세미나 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
-    "cluster_id": "a9cb",
-    "publisher": "안전정보",
-    "title_clean": "한국건설기술인협회 안전관리기술인회, 특별세미나 개최",
-    "summary": "한국건설기술인협회 안전관리기술인회가 특별세미나를 개최했다. 건설업 안전관리 기술 및 정보 공유를 위한 행사로 업계 전문성 강화에 기여한다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-22T21:10:57+09:00",
     "importance": 2
   }
