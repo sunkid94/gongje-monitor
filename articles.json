@@ -23020,6 +23020,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "호반건설, 2300억 규모 '군포 금정3구역' 재개발 수주 - 뉴스락",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tSWg2Tm1paWFjdXN3THNGZVNpX24tVUJYYWpFbkx3a0RoaUY2TS1XT2d2cHRvVmxPSk5vdTNRbDVFa2ZCUkZ2YXR5RW5pekFaXzRmbV9pTkhDZFlhUjV2eTA3N1ZiS1Z0c0pyZg?oc=5",
+    "description": "[뉴스락] 호반건설이 수도권 주요 교통 요충지로 꼽히는 경기도 군포시 금정 일대의 대규모 정비사업 시공권을 거머쥐며 시장 내 입지를 단단히 다지고 있다.호반건설이 금정3구역 재개발 정비사업의 최종 시공사로 선정됐다고 26일 밝혔다.해당 프로젝트는 경기도 군포시 금정동 766번지 일대에 지하 4층에서 지상 35층 높이의 아파트 6개 동, 총 656가구 규모의 주거 단지와 부대 복리시설을 짓는 공사다. 전체 투입 자금은 약 2300억원 규모다.사업지가 위치한 곳은 대중교통 편의성이 돋보인다. 현재 운행 중인 지하철 1호선과 4호선 환승",
+    "published_at": "2026-07-26T20:57:44+09:00",
+    "cluster_id": "7149",
+    "publisher": "뉴스락",
+    "title_clean": "호반건설, 2300억 규모 '군포 금정3구역' 재개발 수주",
+    "summary": "호반건설이 경기도 군포시 금정3구역 재개발 정비사업의 시공사로 선정되어 약 2,300억 원 규모의 대형 프로젝트를 수주했다. 지하 4층~지상 35층 규모의 아파트 6개 동 656가구와 부대 복리시설을 건설할 예정이며, 사업지는 지하철 1·4호선 환승역 인근으로 대중교통 접근성이 우수하다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T21:08:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32198,22 +32214,6 @@
     "publisher": "jndn.com",
     "title_clean": "'삼중고' 지역 레미콘 업계 대책 마련 시급",
     "summary": "레미콘 업계가 건설경기 침체, 원자재 가격 상승, 골재 공급난으로 인한 삼중고를 겪으면서 최근 1년간 출하량이 36.8% 감소했다. 골재 채취 허가 지연으로 인한 원자재 확보 어려움이 가중되고 있으며, 하반기부터 휴·폐업 사태가 우려되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T18:41:21+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "나주 대학 옥상서 하청 노동자 투신 소동 - jndn.com",
-    "link": "http://www.jndn.com/article.php?aid=1784712387436501101",
-    "description": "나주에 위치한 한 대학 건물 옥상에서 건설 노동자가 임금을 받지 못했다며 투신을 시도하는 소동이 빚어졌다. 22일 나주소방서에 따르면 이날 오후 12시 22분께 나주시 빛가람동 한국에너지공과대학 건물 4층 옥상에서...",
-    "published_at": "2026-07-22T18:30:00+09:00",
-    "cluster_id": "b152",
-    "publisher": "jndn.com",
-    "title_clean": "나주 대학 옥상서 하청 노동자 투신 소동",
-    "summary": "나주의 한 대학 건물 옥상에서 미급 임금을 이유로 하청 건설 노동자가 투신을 시도하는 사건이 발생했다. 이는 건설업계의 임금 체불 문제와 하청업체 노동자 보호 미흡을 드러내는 사건으로, 업계의 구조적 문제를 심화시킨다.",
     "sentiment": "negative",
     "collected_at": "2026-07-22T18:41:21+09:00",
     "importance": 4
