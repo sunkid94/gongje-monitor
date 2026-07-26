@@ -23020,6 +23020,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[명경대] 불편한 진실 - kado.net",
+    "link": "https://www.kado.net/news/articleView.html?idxno=2063207",
+    "description": "데이터센터 건설로 일시적인 투자와 건설경기 활성화가 기대된다. 정보통신 기업의 집적과 세수 증가도 예상된다. 하지만 긍정적인 요소만 있는 게 아니다. 소음공해는 가장 큰 문제점으로 지적된다. 미국, 일본은 물론...",
+    "published_at": "2026-07-27T00:07:00+09:00",
+    "cluster_id": "8bad",
+    "publisher": "kado.net",
+    "title_clean": "[명경대] 불편한 진실",
+    "summary": "데이터센터 건설로 인한 투자 증대와 건설경기 활성화 기대효과가 있으나, 소음공해 등 부작용 문제가 지적되고 있다. 긍정적 요소와 부정적 요소가 공존하는 양면적 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T00:12:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32199,22 +32215,6 @@
     "summary": "산업안전보건지도사의 역할을 강화하여 위험성평가 제도를 정착시키기 위한 세미나가 개최되었다. 이는 건설업계의 안전보건 관리 체계 개선을 위한 정책 추진 사항이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-22T20:31:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주도지사 직속 '민생경제 상황실' 첫 회의…상시 대응체계 가동 - headlinejeju.co.kr",
-    "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596313",
-    "description": "이어진 토론에서는 관광 접근성 개선과 건설경기 회복, 농산물 수급 안정 등을 위한 현장 제안이 이어졌다. 강동훈 제주도관광협회장은 국내선 공급좌석 부족으로 관광객과 도민의 이동 불편이 커지고 있다며...",
-    "published_at": "2026-07-22T18:30:00+09:00",
-    "cluster_id": "4f61",
-    "publisher": "headlinejeju.co.kr",
-    "title_clean": "제주도지사 직속 '민생경제 상황실' 첫 회의…상시 대응체계 가동",
-    "summary": "제주도지사가 민생경제 상황실을 설립하여 관광, 건설, 농산물 등 주요 산업의 경기 회복과 시장 안정을 위한 상시 대응체계를 가동했다. 건설경기 회복이 논의 대상으로 포함되었으나 구체적인 정책 방향이나 투자 계획은 미제시된 상태이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T20:01:02+09:00",
     "importance": 2
   }
 ]
