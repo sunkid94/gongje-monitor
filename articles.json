@@ -23020,6 +23020,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고양시의회, 제306회 임시회 폐회…조례안 등 6건 의결 - globalepic.co.kr",
+    "link": "http://www.globalepic.co.kr/view.php?ud=2026072414545350725f69d33b22_29",
+    "description": "24일 열린 제2차 본회의에서는 기획행정위원회의 '고양시 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영을 위한 조례 일부개정조례안' 등 2건, 건설교통위원회의 '고양 도시관리계획(GB 해제) 결정(변경)(안)...",
+    "published_at": "2026-07-26T20:02:00+09:00",
+    "cluster_id": "c386",
+    "publisher": "globalepic.co.kr",
+    "title_clean": "고양시의회, 제306회 임시회 폐회…조례안 등 6건 의결",
+    "summary": "고양시의회가 제306회 임시회에서 지역건설노동자 우선고용 및 체불임금 없는 관급공사 운영 조례 개정안 등 6건을 의결했습니다. 건설노동자 보호 강화 및 공사 운영 관련 조례들이 주요 의제입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-26T20:07:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,21 +32217,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-22T18:41:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "천안시, 여름철 공공건설 현장 고강도 안전점검 - 충청타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mQlFWaFRfXzk1a0VOMmtLa2N3TDctc1NHbnRWTjJTdUF6UEtjY0JoTUdwV3ZOMjE1UUpUbHJuWEFmblVNWDlPLXkyMTNxZHZpZDJXWmhBakNYUmZ5N2I4MjFLTXliV3pl?oc=5",
-    "description": "[충청타임즈] 충남 천안시가 여름철 장마와 폭염으로 인한 건설 현장 안전사고를 선제적으로 막기 위해 공공건설 현장을 대상으로 고강도 안전점검에 나섰다.천안시는 여름철 집중호우와 폭염에 대비해 관내 주요 공공건설 현장을 방문하고 침수·붕괴 위험 요소 및 근로자 온열질환 예방 실태를 집중 점검했다고 22일 밝혔다. 이번 점검은 기후 변화로 국지성 호우가 빈번해지고 폭염 특보가 지속됨에 따라 현장 근로자의 안전 확보와 시설물 관리를 위해 추진됐다.시는 △가설구조물 및 추락·낙하물 방호시설 상태 △배수계획·침수 방지시설 등 수방 대책 △근",
-    "published_at": "2026-07-22T18:20:00+09:00",
-    "cluster_id": "d439",
-    "publisher": "충청타임즈",
-    "title_clean": "천안시, 여름철 공공건설 현장 고강도 안전점검",
-    "summary": "천안시가 여름철 장마와 폭염에 대비해 공공건설 현장을 대상으로 안전점검을 실시했다. 침수·붕괴 위험 요소 및 근로자 온열질환 예방 실태를 집중 점검하여 현장 안전사고를 선제적으로 예방하려는 취지다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T18:30:54+09:00",
-    "importance": 4
   }
 ]
