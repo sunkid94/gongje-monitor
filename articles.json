@@ -23020,6 +23020,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH, 대구국가산단 A7-1BL 현장 안전관리 성과 인정 - 영남경제",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82SHBmNXNXd2pyM0szTzJ5cWhjS0tVMWVuQV9TaWh3dGhKQzVaOUdSVTY1LWs5eHVjREZlREtIWE01WkczWWZ2TXdNSkN2YS1mUGw4RkQzb3o3c0oxWnVQUDdreTdCN1E?oc=5",
+    "description": "한국토지주택공사 대구경북지역본부(LH 대구경북지역본부)가 대구국가산단 A7-1BL 아파트 건설공사 현장대리인[일성건설(주), 정상원]이 2026년도 산업재해예방 유공자로 선정, 지난15일 고용노동부 장관 표창을 수상했다. 24일 LH 대구경북지역본부에 따르면 대구국가산단 A7-1BL은 대구 달성군 구지면 일원에 행복주택 448호를 공급하는 사업으로,",
+    "published_at": "2026-07-26T15:14:06+09:00",
+    "cluster_id": "272f",
+    "publisher": "영남경제",
+    "title_clean": "LH, 대구국가산단 A7-1BL 현장 안전관리 성과 인정",
+    "summary": "LH 대구경북지역본부의 대구국가산단 A7-1BL 아파트 건설공사 현장이 2026년도 산업재해예방 유공자로 선정되어 고용노동부 장관 표창을 수상했다. 이는 건설 현장의 안전관리 우수 사례를 인정받은 것으로, 건설업계의 안전 의식 고취에 긍정적 신호를 보낸다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T23:38:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32200,21 +32216,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T19:31:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[취임 인터뷰] ‘8년의 씨앗, 결실의 4년으로’ 차준택 부평구청장 - kyeongin.com",
-    "link": "https://www.kyeongin.com/article/1767730",
-    "description": "그는 “부평 주민들은 지역 안에서 더 다양한 쇼핑과 문화생활을 누릴 수 있는 공간 조성을 원하고 있다”며 “건설경기와 사업 여건을 고려하면서도 충분한 규모와 경쟁력을 갖춘 시설이 들어설 수 있도록 시행자와...",
-    "published_at": "2026-07-22T18:42:00+09:00",
-    "cluster_id": "c3ef",
-    "publisher": "kyeongin.com",
-    "title_clean": "[취임 인터뷰] ‘8년의 씨앗, 결실의 4년으로’ 차준택 부평구청장",
-    "summary": "차준택 부평구청장이 취임하며 부평 지역의 쇼핑과 문화시설 조성을 추진할 계획을 밝혔다. 건설경기와 사업 여건을 고려하면서 충분한 규모와 경쟁력을 갖춘 시설 유치를 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T18:50:56+09:00",
-    "importance": 2
   }
 ]
