@@ -23053,6 +23053,37 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[전문분야 이야기] 공사계약서 없는 불법하도급: 실행계약의 입증 - news.koreanbar.or.kr",
+    "link": "https://news.koreanbar.or.kr/news/articleView.html?idxno=35916",
+    "description": "△ 손유정 대한변협 등록 건설 전문 변호사 건설산업기본법은 건설공사의 전부 또는 주요 부분 대부분을 다른 건설업자에게 하도급하는 이른바 '일괄하도급(제29조 제1항)'과 건설면허 등 시공자격을 갖추지 못한 자에게...",
+    "published_at": "2026-07-27T08:00:00+09:00",
+    "cluster_id": "aa9a",
+    "publisher": "news.koreanbar.or.kr",
+    "title_clean": "[전문분야 이야기] 공사계약서 없는 불법하도급: 실행계약의 입증",
+    "summary": "건설산업기본법에서 규정하는 불법하도급의 유형과 실행계약 입증 방법에 대한 법률 전문가의 설명. 공사계약서 없는 불법하도급 적발 시 실행계약으로 입증할 수 있는 법적 근거를 다룬 교육성 기사.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T08:07:52+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "점심시간에 복권을 산 건설 노동자가 남부 베트남 복권에서 320억 VND의 당첨금을 받게 되었습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWZFcVlGZHFnRW4xNERqM1BzbWZtbTJFZzdPdkk1MllKNXRZLTR6MkRCcVM5b2tpNTZaT1JzUU9OZDM5ZV8yOHZ0VjJJNlVsR3NTeFM4MlEtVmFNb1kydjlTQkhXMVZVbkN6WVE0ZzRDNldNZTRBbHpVelJiQzhHbUI4ekZna0ZNaG1seWlNTUVLTE1RTEE?oc=5",
+    "description": "빈롱성 짜빈동의 한 복권 판매원이 남부 베트남 복권 당첨권 16장을 건설 노동자에게 나눠줬다.",
+    "cluster_id": "c237",
+    "publisher": "Vietnam.vn",
+    "title_clean": "점심시간에 복권을 산 건설 노동자가 남부 베트남 복권에서 320억 VND의 당첨금을 받게 되었습니다.",
+    "summary": "베트남 건설 노동자가 남부 베트남 복권에서 320억 VND(약 17억 원)의 당첨금을 받게 되었다. 빈롱성의 복권 판매원이 건설 노동자에게 16장의 당첨권을 판매한 사례이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T08:07:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,38 +32232,6 @@
     "summary": "민주당 의원들이 건설산업기본법 등 3개 법안을 발의하여 2028년부터 건설 발주자의 하도급업체 직접지급 시범운영을 추진 중입니다. 이는 하도급거래 공정화와 근로자 보호를 목표로 합니다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T06:40:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "우리 부부는 아이를 갖기로 했지만 - labortoday.co.kr",
-    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235857",
-    "description": "롯데건설 노동자들은 지난 2012년부터 육아휴직 요건을 충족하면 별도의 신청이나 회사의 결재 없이 자동으로 육아휴직을 사용할 수 있다. 포스코는 육아휴직의 휴직이라는 단어가 육아보다는 '쉰다'라는 의미에...",
-    "published_at": "2026-07-23T06:34:00+09:00",
-    "cluster_id": "eeb9",
-    "publisher": "labortoday.co.kr",
-    "title_clean": "우리 부부는 아이를 갖기로 했지만",
-    "summary": "롯데건설과 포스코 등 대기업들이 육아휴직 제도를 자동 승인 및 개선하여 직원들의 일-가정 양립을 지원하고 있다. 건설업계에서도 선진적인 인사 정책을 도입하여 인재 확보 및 근무 환경 개선을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T06:40:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[GS건설, 판을 바꾸다③] 현장에 스며든 AI…경쟁력은 '기술 내재화' - the-biz.co.kr",
-    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=724794",
-    "description": "'THE Biz'는 수익성 중심의 선별수주에서 에너지·개발사업 확대, 인공지능(AI)과 스마트건설 기반의 기술 혁신까지 GS건설이 그리는 변화의 방향과 미래 경쟁력을 살펴본다. [편집자주]  건설사의 미래 경쟁력이 수주...",
-    "published_at": "2026-07-23T06:30:00+09:00",
-    "cluster_id": "f15f",
-    "publisher": "",
-    "title_clean": "[GS건설, 판을 바꾸다③] 현장에 스며든 AI…경쟁력은 '기술 내재화' - the-biz.co.kr",
-    "summary": "GS건설이 수익성 중심의 선별수주, 에너지·개발사업 확대, AI와 스마트건설 기술 혁신을 추진하며 미래 경쟁력을 강화하고 있다. 기술 내재화를 통해 건설 현장에 AI를 적용하는 등 업계의 혁신 방향을 제시하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T06:35:58+09:00",
     "importance": 2
   }
 ]
