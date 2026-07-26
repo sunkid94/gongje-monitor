@@ -23003,6 +23003,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "호반건설, '2300억 규모' 경기 군포 금정3구역 재개발 수주 - 땅집고",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UU5QWUhCR2xkcnFHR2Nva3VPZUozVWpFc3dSVHd5MVdpcXg4WjJhNjdFYVZjRTVpNGtDYVFjX3VtNDU2SXNkUGR4T28yRGczR0pYZ1dLLUxYVzFsNm55M2FYMGZJeTM3RGwta2YzNXRvQXl5UHdoSWpVRTJFbWPSAXNBVV95cUxOVHVaUjNuUFVicllzR1V0NmRtWThEMXlyOUxvVzl2TW5YVGFuZ3ZHelVOWnJ4RUJpRFBGam8wZnhEZ1RXT09PUk5hZkRNVDBtbHU2YUt0bGlxOFIySmwwa1NSQ2lMOWY0UDBoVzZ5RjZ3WS1R?oc=5",
+    "description": "[땅집고] 호반건설이 총 공사비 2300억원 규모인 경기 군포시 금정3구역 재개발 사업을 수주했다. 26일 호반건설은 경기 군포시 금정동 76..",
+    "published_at": "2026-07-26T11:16:56+09:00",
+    "cluster_id": "6891",
+    "publisher": "땅집고",
+    "title_clean": "호반건설, '2300억 규모' 경기 군포 금정3구역 재개발 수주",
+    "summary": "호반건설이 경기 군포시 금정3구역 재개발 사업을 2300억원 규모로 수주했다. 건설업체의 대형 사업 수주는 업계 수주 증가를 의미하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T14:57:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,21 +32217,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T17:11:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이영조 중부발전 사장, 발전소·건설현장 안전 직접 챙긴다 - biztribune.co.kr",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356318",
-    "description": "여름철 전력수급 안정과 건설현장 안전을 직접 점검하며 현장 안전관리 체계 고도화에 힘을 싣는 모습이다. 22일 중부발전에 따르면 이영조 사장은 최근 경남 함안복합발전소 건설현장을 찾아 폭염 대응과 안전관리...",
-    "published_at": "2026-07-22T17:04:00+09:00",
-    "cluster_id": "1fc2",
-    "publisher": "biztribune.co.kr",
-    "title_clean": "이영조 중부발전 사장, 발전소·건설현장 안전 직접 챙긴다",
-    "summary": "이영조 중부발전 사장이 경남 함안복합발전소 건설현장을 방문하여 폭염 대응과 안전관리를 직접 점검했다. 발전소와 건설현장의 안전관리 체계 고도화에 중점을 두고 있는 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T17:11:45+09:00",
-    "importance": 3
   }
 ]
