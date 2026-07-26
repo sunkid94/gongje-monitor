@@ -22986,6 +22986,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설업 고용 4년 연속 감소의 실상 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9HSTFudWtnU21DOGtteUgtR001QnhtSzFMX3pMSDR6c2Q1emNlLWlNVHQ5aEViMk9WRjRWeTdBVElqVHc?oc=5",
+    "description": "192만명으로 줄어든 건설 인력과 가계 영향 화두 2026년 6월, 한적한 주택단지 공사 현장에서 만난 50대 작업반장은",
+    "published_at": "2026-07-26T06:02:51+09:00",
+    "cluster_id": "b4c2",
+    "publisher": "한국공공정책신문",
+    "title_clean": "건설업 고용 4년 연속 감소의 실상",
+    "summary": "건설업 고용이 192만 명으로 4년 연속 감소하고 있으며, 현장 인력 부족과 고령화로 산업 전반의 어려움이 심화되고 있다. 이는 건설 인력 공급 부족과 가계 경제에 부정적 영향을 미치는 구조적 문제로 작용하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-26T12:12:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32200,21 +32216,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T16:51:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이대한 경기도의원 “도로안전 기준, 변화된 기후와 현장 따라가야” - seoul.co.kr",
-    "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500299?wlog_tag3=naver",
-    "description": "경기도의회 건설교통위원회 이대한 의원(더불어민주당, 남양주4)이 급변하는 기후 여건과 실제 도로 이용 환경을 반영해 건설현장 안전점검 시기와 도로안전시설 관리 기준을 현실에 맞게 정비하라고 촉구했다. 이대한...",
-    "published_at": "2026-07-22T16:44:00+09:00",
-    "cluster_id": "b3f6",
-    "publisher": "seoul.co.kr",
-    "title_clean": "이대한 경기도의원 “도로안전 기준, 변화된 기후와 현장 따라가야”",
-    "summary": "경기도의원 이대한이 급변하는 기후 여건을 반영해 건설현장 안전점검 시기와 도로안전시설 관리 기준을 현실에 맞게 정비할 것을 촉구했다. 기후 변화에 대응한 안전 기준 개선을 주장하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-22T16:51:53+09:00",
-    "importance": 2
   }
 ]
