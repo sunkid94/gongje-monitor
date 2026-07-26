@@ -23006,6 +23006,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "호반건설, 경기 ‘군포 금정3구역 재개발’ 수주…공사비 2300억원 - 로이슈",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HZEtzT2hGb2NoNmc0YlM5VGpIZzJrMERTeHdKclFzVFpoQWJqbVo3eUo3dGVzelFtck9HUVRVc2ZBNm9vaDBMd0dtZnNidmZzaFBydktzN2ctOE5PcFdfNUdmMkUtU3lsZmdpSEtsclN5U1N0SS03N0tR?oc=5",
+    "description": "호반건설이 경기 군포시 금정3구역 재개발 사업의 시공사로 선정되며 수도권 도시정비사업 경쟁력을 강화했다.이 사업은 군포시 금정동 766번지 일원에 지하 4층~지상 35층, 6개동, 아파트 656세대와 부대 복리시설을 조성하는 프로젝트로, 총 공사비는 약 2300억원이다.금정3구역은 지하",
+    "published_at": "2026-07-26T14:58:40+09:00",
+    "cluster_id": "4e41",
+    "publisher": "로이슈",
+    "title_clean": "호반건설, 경기 ‘군포 금정3구역 재개발’ 수주…공사비 2300억원",
+    "summary": "호반건설이 경기 군포시 금정3구역 재개발 사업의 시공사로 선정되어 약 2,300억원 규모의 수주를 확보했다. 이 사업은 아파트 656세대와 부대시설을 포함한 대규모 도시정비사업으로, 건설사의 수도권 프로젝트 수주 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T15:02:50+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "호반건설, '2300억 규모' 경기 군포 금정3구역 재개발 수주 - 땅집고",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UU5QWUhCR2xkcnFHR2Nva3VPZUozVWpFc3dSVHd5MVdpcXg4WjJhNjdFYVZjRTVpNGtDYVFjX3VtNDU2SXNkUGR4T28yRGczR0pYZ1dLLUxYVzFsNm55M2FYMGZJeTM3RGwta2YzNXRvQXl5UHdoSWpVRTJFbWPSAXNBVV95cUxOVHVaUjNuUFVicllzR1V0NmRtWThEMXlyOUxvVzl2TW5YVGFuZ3ZHelVOWnJ4RUJpRFBGam8wZnhEZ1RXT09PUk5hZkRNVDBtbHU2YUt0bGlxOFIySmwwa1NSQ2lMOWY0UDBoVzZ5RjZ3WS1R?oc=5",
     "description": "[땅집고] 호반건설이 총 공사비 2300억원 규모인 경기 군포시 금정3구역 재개발 사업을 수주했다. 26일 호반건설은 경기 군포시 금정동 76..",
@@ -32201,21 +32217,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-22T17:11:45+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대전 일부지역 정비사업 침체 원인은? - joongdo.co.kr",
-    "link": "https://www.joongdo.co.kr/web/view.php?key=20260722010006599",
-    "description": "서구와 유성구는 재개발·재건축 사업이 비교적 원활하게 흘러가는 반면, 중구와 동구, 대덕구에서는 건설경기 침체 등의 영향으로 사업 지연과 중단되는 사례가 늘고 있어서다. 22일 정비업계 등에 따르면 올해 1분기(1...",
-    "published_at": "2026-07-22T17:00:00+09:00",
-    "cluster_id": "e00a",
-    "publisher": "joongdo.co.kr",
-    "title_clean": "대전 일부지역 정비사업 침체 원인은?",
-    "summary": "대전 지역 정비사업에서 서구·유성구는 순조로운 반면, 중구·동구·대덕구는 건설경기 침체의 영향으로 사업 지연 및 중단이 증가하고 있다. 지역별로 정비사업 추진 상황에 현저한 편차가 발생 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T17:11:45+09:00",
-    "importance": 4
   }
 ]
