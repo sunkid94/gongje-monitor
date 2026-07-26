@@ -22969,6 +22969,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "호반건설, 경기 군포 금정3구역 재개발 수주 - 메트로신문",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORzRsMk1VOUhURVBVazJKQXZxSE84Yk4yQWc1RE95TnhWbFJzSG5ZLVVDWlVrSDV6U0F2TmFnU29oRVlVUEtidXgwQVhpZ0w2SjhsakhvOUNPendQWjN4ZA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORzRsMk1VOUhURVBVazJKQXZxSE84Yk4yQWc1RE95TnhWbFJzSG5ZLVVDWlVrSDV6U0F2TmFnU29oRVlVUEtidXgwQVhpZ0w2SjhsakhvOUNPendQWjN4ZA?oc=5\" target=\"_blank\">호반건설, 경기 군포 금정3구역 재개발 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메트로신문</font>",
+    "cluster_id": "0565",
+    "publisher": "메트로신문",
+    "title_clean": "호반건설, 경기 군포 금정3구역 재개발 수주",
+    "summary": "호반건설이 경기 군포 금정3구역 재개발 사업을 수주했다. 건설사의 수주 증가로 업계에 긍정적인 신호를 나타낸다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T09:37:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32200,21 +32215,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T16:32:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LG엔솔 오창에너지플랜트·대우건설 '무재해 릴레이 캠페인'동참 - 충북일보",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SSkJXNWwtbW5OclN1Z1NyTjUyRlh4bXl0TTBYSkZfcVVxeUF2ZXZzQWk1T1ZXX0thTGVHZVVvUEF4NEVEcVZ5TFQ0SXlXM25zWkkxR2c1NW5VbUpYTFVuSHFR?oc=5",
-    "description": "［충북일보］ LG에너지솔루션 오창에너지플랜트와 ㈜대우건설이 5대 중대재해 사망사고 근절을 위해 추진하고 있는",
-    "published_at": "2026-07-22T16:15:33+09:00",
-    "cluster_id": "87d0",
-    "publisher": "충북일보",
-    "title_clean": "LG엔솔 오창에너지플랜트·대우건설 '무재해 릴레이 캠페인'동참",
-    "summary": "LG에너지솔루션 오창에너지플랜트와 대우건설이 5대 중대재해 사망사고 근절을 위한 무재해 릴레이 캠페인에 동참하고 있다. 건설업계의 안전문화 강화 및 재해 예방을 위한 협력 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T16:32:02+09:00",
-    "importance": 2
   }
 ]
