@@ -23003,6 +23003,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "호반건설, 경기 군포 금정3구역 재개발 수주…656세대 브랜드 단지 조성 - 투어코리아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4SWJCNkhwV1V6ZWdlOFNrZ1RIeXJodDY1dm5UNXR2V0o4dWxna2ZEUzNDUWo2dWsxLVN2aFM4VUtXbVp5d1lMV0t6V3UyYjIzUEVjN2pVR0tRcUZyNnFqOTlUOTJmRko4cUJRVFpn?oc=5",
+    "description": "[투어코리아=윤형근 기자] 호반건설이 경기 군포시 금정3구역 재개발 사업의 시공권을 확보하며 수도권 도시정비사업 영역을 넓혔다.호반건설은 군포시 금정동 766번지",
+    "published_at": "2026-07-26T15:35:49+09:00",
+    "cluster_id": "8e32",
+    "publisher": "투어코리아",
+    "title_clean": "호반건설, 경기 군포 금정3구역 재개발 수주…656세대 브랜드 단지 조성",
+    "summary": "호반건설이 경기 군포시 금정3구역 재개발 사업의 시공권을 수주하였다. 656세대 규모의 브랜드 단지 조성을 통해 수도권 도시정비사업 영역을 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T15:52:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,21 +32217,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T17:31:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "영어교육도시 FSAA JEJU 건립, 지역업체 하도급 70% 권장 - jemin.com",
-    "link": "https://www.jemin.com/news/articleView.html?idxno=840553",
-    "description": "22일 서귀포시청에서 열린 지역건설산업 활성화를 위한 국제학교 FSAA JEJU 건립사업 업무협약식 건설경기 침체 등 어려운 여건을 극복하기 위해 허가기관을 비롯, 시행사 및 시공사 간 체결을 통해 지역건설사, 건설장비...",
-    "published_at": "2026-07-22T17:20:00+09:00",
-    "cluster_id": "a68f",
-    "publisher": "jemin.com",
-    "title_clean": "영어교육도시 FSAA JEJU 건립, 지역업체 하도급 70% 권장",
-    "summary": "서귀포시에서 국제학교 FSAA JEJU 건립사업 업무협약식을 개최하며 지역건설사와 건설장비업체의 하도급을 70% 이상 권장하기로 했다. 건설경기 침체 극복을 위해 허가기관, 시행사, 시공사가 협력하는 체계를 구축했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T17:26:48+09:00",
-    "importance": 2
   }
 ]
