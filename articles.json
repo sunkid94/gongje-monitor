@@ -23020,6 +23020,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "공공·정비사업 '투 트랙' 한신공영…수익성·신용등급 개선 이어 외형... - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260724010008989",
+    "description": "건설경기 침체 속에서도 수익성과 재무건전성을 개선하며 체력을 키운 데 이어, 신규 수주 확대와 주요 사업장의 착공을 통해 실적 반등을 본격화하겠다는 구상으로 풀이된다.26일 건설업계에 따르면 한신공영은 최근...",
+    "published_at": "2026-07-26T18:42:00+09:00",
+    "cluster_id": "abc8",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "공공·정비사업 '투 트랙' 한신공영…수익성·신용등급 개선 이어 외형...",
+    "summary": "한신공영이 건설경기 침체 속에서도 수익성과 재무건전성을 개선하며 체력을 강화하고 있다. 신규 수주 확대와 주요 사업장 착공을 통해 실적 반등을 본격화할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-26T18:47:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,21 +32217,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-22T18:26:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[부동산 돋보기] 부동산 규제대책과 부산 - busan.com",
-    "link": "https://www.busan.com/view/busan/view.php?code=2026072218021438182",
-    "description": "서울은 공급 부족과 풍부한 유동성으로 가격 상승 압력이 이어지고 있지만, 부산은 거래 감소와 미분양 증가, 건설경기 침체가 동시에 나타나고 있다. 같은 처방을 적용하기 어려운 이유다. 서울과 부산의 양극화는...",
-    "published_at": "2026-07-22T18:03:00+09:00",
-    "cluster_id": "b808",
-    "publisher": "busan.com",
-    "title_clean": "[부동산 돋보기] 부동산 규제대책과 부산",
-    "summary": "서울과 부산의 부동산 시장이 상이한 구조를 보이고 있다. 서울은 공급 부족과 유동성으로 가격 상승 중이며, 부산은 거래 감소, 미분양 증가, 건설경기 침체가 동시 진행 중이다. 같은 규제대책 적용의 한계를 지적하는 내용이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T18:12:02+09:00",
-    "importance": 4
   }
 ]
