@@ -23020,6 +23020,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "생명까지 위협한다…폭염주의보·경보 넘어 '중대경보' - jnilbo.com",
+    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000052352",
+    "description": "특히 고령자와 만성질환자, 농업인, 건설노동자 등 폭염 취약계층은 냉방이 가능한 장소에서 충분한 휴식을 취하고 주변의 안부를 수시로 확인하는 것이 무엇보다 중요하다고 강조했다. 광주지방기상청 관계자는 \"이번...",
+    "published_at": "2026-07-26T17:35:00+09:00",
+    "cluster_id": "8e8c",
+    "publisher": "jnilbo.com",
+    "title_clean": "생명까지 위협한다…폭염주의보·경보 넘어 '중대경보'",
+    "summary": "기록적인 폭염이 심해지면서 '중대경보' 수준까지 상향되었다. 건설노동자 등 폭염 취약계층의 안전관리와 휴식이 강조되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-26T17:37:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32199,22 +32215,6 @@
     "publisher": "gndomin.com",
     "title_clean": "경남 남부 레미콘노조 총파업 결의대회 가져",
     "summary": "경남 남부권 레미콘 노동자들이 임금 및 단체협약 교섭을 촉구하며 총파업 결의대회를 개최했다. 민주노총 산하 전국건설노동조합 경남건설기계지부 레미콘지회 주도의 노동 분쟁으로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T18:01:16+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "면적 10% 비주거시설 건설 의무…PF 건전성 관리에 돈줄도 막혀 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SRW9ReDY2QWFmWmt6RGh1NGU4d0s2azEwODA5UVlxOTEyOXFseWFYc1FUblZBMG5wazZsWi12RHBXNnNNaDduZGlWWkFJaVVvNE9n?oc=5",
-    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 정부가 ‘속도감 있는 공급 대책’을 예고하고 있지만 서울 정비사업 현장은 인허가를 받고도 멈춰 선 곳이 수두룩하다. 경직된 용도지역제와 프로젝트파이낸싱(PF) 자금 경색, 쪼그라든 이주비 대출로 곳곳에서 정비사업은 중단됐다. 여기에 재건축초과이익환수제",
-    "published_at": "2026-07-22T17:50:00+09:00",
-    "cluster_id": "3c75",
-    "publisher": "네이트",
-    "title_clean": "면적 10% 비주거시설 건설 의무…PF 건전성 관리에 돈줄도 막혀",
-    "summary": "정부의 공급 대책에도 불구하고 서울 정비사업이 용도지역제 경직, PF 자금 경색, 이주비 대출 축소 등으로 중단 상태에 빠져 있다. 재건축초과이익환수제 등 규제까지 겹치면서 건설업계가 어려움을 겪고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-07-22T18:01:16+09:00",
     "importance": 4
