@@ -23020,6 +23020,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "푸틴, 김정은에 ‘파병 입금’ 안했는데…북한 또 3만명 파병설 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25448284",
+    "description": "기존의 정예 전투 병력이 아닌 민간 건설 노동자 등 재건 인력을 파견하는 형태는 가능할 수 있다. 반대로 이런 상황에서 추가 파병이 현실화한다면 이는 그 자체로 푸틴이 김정은을 설득할 만큼 상당한 경제·군사적...",
+    "published_at": "2026-07-27T00:02:00+09:00",
+    "cluster_id": "cbe1",
+    "publisher": "joongang.co.kr",
+    "title_clean": "푸틴, 김정은에 ‘파병 입금’ 안했는데…북한 또 3만명 파병설",
+    "summary": "러시아-북한 군사협력 관련 뉴스로, 북한의 추가 파병 가능성과 푸틴의 경제·군사적 설득 능력에 대한 분석 기사입니다. 건설 노동자 등 민간 인력 파견 형태의 가능성을 언급하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T00:07:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32200,21 +32216,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-22T20:01:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남 건설노조, 거제서 대규모 결의대회 - gnnews.co.kr",
-    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=641630",
-    "description": "민주노총 전국건설노동조합 경남건설기계지부(이하 노조)가 총파업을 앞두고 거제에서 대규모 결의대회를 열며 새한레미콘을 향해 단체교섭에 나설 것을 촉구했다. 노조는 교섭 거부가 계속될 경우, 레미콘 운송은 물론...",
-    "published_at": "2026-07-22T19:26:00+09:00",
-    "cluster_id": "3d8a",
-    "publisher": "gnnews.co.kr",
-    "title_clean": "경남 건설노조, 거제서 대규모 결의대회",
-    "summary": "민주노총 전국건설노동조합 경남건설기계지부가 새한레미콘과의 단체교섭을 촉구하며 거제에서 대규모 결의대회를 개최했다. 교섭 거부 시 레미콘 운송 등 전면 파업을 예고하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T19:31:00+09:00",
-    "importance": 4
   }
 ]
