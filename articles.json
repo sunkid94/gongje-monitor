@@ -23020,6 +23020,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경북개발공사, 건설현장 '안전퀴즈대회' 개최…참여형 안전문화 확산 - kyongbuk.co.kr",
+    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079329",
+    "description": "이날 퀴즈는 '중대재해 처벌 등에 관한 법률' 주요 내용과 건설현장 안전·보건 수칙을 중심으로 진행됐으며, 참가자들은 문제를 함께 풀며 현장에서 반드시 지켜야 할 안전수칙을 다시 한번 확인하는 시간을 가졌다. 특히...",
+    "published_at": "2026-07-26T19:52:00+09:00",
+    "cluster_id": "604b",
+    "publisher": "kyongbuk.co.kr",
+    "title_clean": "경북개발공사, 건설현장 '안전퀴즈대회' 개최…참여형 안전문화 확산",
+    "summary": "경북개발공사가 건설현장에서 안전퀴즈대회를 개최하여 중대재해 처벌법과 안전수칙 교육을 진행했다. 현장 근로자들이 참여형 행사를 통해 필수 안전규칙을 재확인하고 안전문화 확산을 도모했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-26T19:57:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32201,21 +32217,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T18:30:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"현장 안전관리 총력\"…중부발전, 함안복합발전소 건설현장 CEO 주관 특별 점검 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wUXpBTjFzNXhXd1k1TjdNVVZYV2NoT05RMWk1MDZQRk5CTXRsVGJoXzljWkhuN1R3OVh1SDRwdzd2QUg1MWdUVW9MUTVNWFVUZXNV?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : AI CCTV·스마트 안전조끼 등 첨단 기술 활용 무사고·무재해 사업장 구축 한국중부발전이 여름철 온열질환 예방과 집중호우·폭염 대비 현장 안전관리에 총력을 쏟고 있다. 22일 중부발전에 따르면 이영조 사장은 현재 골조 공사가 한창 진행 중인 발전소",
-    "published_at": "2026-07-22T18:12:00+09:00",
-    "cluster_id": "a589",
-    "publisher": "네이트",
-    "title_clean": "\"현장 안전관리 총력\"…중부발전, 함안복합발전소 건설현장 CEO 주관 특별 점검",
-    "summary": "한국중부발전이 함안복합발전소 건설현장에서 CEO 주관 특별 점검을 실시하며 여름철 안전관리에 총력을 기울이고 있다. AI CCTV, 스마트 안전조끼 등 첨단 기술을 활용해 무사고·무재해 사업장 구축을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T18:26:48+09:00",
-    "importance": 2
   }
 ]
