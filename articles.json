@@ -7100,6 +7100,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "페로타임즈 손바닥뉴스 7월27일(월) - ferrotimes.com",
+    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=49355",
+    "description": "운영 대우건설-KINX, 데이터센터 사업 맞손…'개발 시공 운영' 통합 이주성 세아제강지주 사장, 자사주 매입…90만 주 돌파 조일알미늄, 5대 1 주식병합 추진…적정 주가 형성 나선다 한화오션, 美 함정 개발·인력양성...",
+    "published_at": "2026-07-27T07:44:00+09:00",
+    "cluster_id": "8083",
+    "publisher": "ferrotimes.com",
+    "title_clean": "페로타임즈 손바닥뉴스 7월27일(월)",
+    "summary": "대우건설-KINX의 데이터센터 사업 협력, 세아제강지주의 자사주 매입, 조일알미늄의 주식병합, 한화오션의 미국 함정 개발 사업 등 건설·조선·기계업계의 다양한 경영 활동과 사업 확대 소식을 전하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-27T07:47:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23033,22 +23049,6 @@
     "title_clean": "신동빈이 띄운 'AX'…롯데 AI 혁신, 어디까지 왔나",
     "summary": "롯데그룹이 AI 기술 'AX'를 건설 현장에 도입해 롯데건설과 대우건설에 적용하고 있으며, 롯데이노베이트는 이를 SaaS 형태로 외부 기업에도 공급 중이다. 건설업계의 디지털 혁신과 기술 확산을 통한 산업 고도화를 보여주는 움직임이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-16T16:34:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"광명 신안산선 건설현장 붕괴 주된 원인은 시공사의 복합 부실 누적\" - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260716010006266",
-    "description": "광명시, 붕괴사고 발생 후 14개월 자체조사 마무리 박승원 시장 \"유사사고 방지 위해 정부와 긴밀협의\" 지난해 4월 11일 경기 광명시 일직동에서 발생한 신안산선 건설현장 붕괴사고는 시공사인 포스코이앤씨의 지반조사와...",
-    "published_at": "2026-07-16T16:28:00+09:00",
-    "cluster_id": "f3b2",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "\"광명 신안산선 건설현장 붕괴 주된 원인은 시공사의 복합 부실 누적\"",
-    "summary": "지난해 4월 경기 광명시 신안산선 건설현장 붕괴사고는 시공사 포스코이앤씨의 지반조사 부실과 복합적 시공 오류가 주요 원인으로 확인되었다. 광명시가 14개월 자체조사를 마무리했으며, 정부와 협력해 유사사고 방지에 나설 예정이다.",
-    "sentiment": "negative",
     "collected_at": "2026-07-16T16:34:49+09:00",
     "importance": 2
   },
