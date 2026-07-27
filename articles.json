@@ -23085,6 +23085,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 등 광역시 전문건설 경기 ‘침체 지속’…7월 반등 기대 속 불확실성 여전 - 대구일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZWNNMmp5UzEzOXNpYloyZi1ZaVFGQ0trbDh6a1VjRjY3Q2dUZWZXd25yZnBkaWx6UHpJbDZGXzNrU2djWlNNcDRYX2Q1YzZxUW1saHNzeUJHYS1KdThGdHV6Um40QU9l?oc=5",
+    "description": "대구를 비롯한 지방 광역시의 전문건설업 체감 경기가 수도권과의 격차를 줄이지 못한 채 침체의 늪에 머물러 있는 것으로 나타났다. 대한건설정책연구원(RICON)이 최근 발표한 ‘2026년 6월 전문건설업 경기실사지수(SC-BSI)’에 따르면, 대구 등 6대 광역시의 6월 종합 경기평가지",
+    "published_at": "2026-07-27T11:45:16+09:00",
+    "cluster_id": "759e",
+    "publisher": "대구일보",
+    "title_clean": "대구 등 광역시 전문건설 경기 ‘침체 지속’…7월 반등 기대 속 불확실성 여전",
+    "summary": "대구 등 지방 광역시의 전문건설업 경기가 6월 침체를 지속하고 있으며, 수도권과의 경기 격차가 좁혀지지 않고 있다. 7월 반등 기대가 있으나 불확실성이 여전한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T12:48:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32218,22 +32234,6 @@
     "summary": "현대건설이 서울경제진흥원과 함께 AI·로보틱스 등 미래 건설기술을 보유한 스타트업 12곳을 선정하여 건설현장과 주거상품 대상 기술 실증을 추진한다. 혁신기술 도입을 통해 건설산업의 디지털화 및 스마트화 기반을 마련하려는 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-23T10:10:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "서울시, 상가 의무규제 푼다…비주거 의무비율 폐지·용적률 완화 - news1.kr",
-    "link": "https://www.news1.kr/local/seoul/6236228",
-    "description": "거쳐 8월 말까지 결정을 완료하고 건축 인허가 단계부터 완화된 기준을 적용할 계획이다. 김창규 서울시 도시공간본부장은 \"서울시 건설경기를 활성화하고 양질의 주거 공급을 촉진하는 계기가 되기를 바란다\"고 말했다.",
-    "published_at": "2026-07-23T10:00:00+09:00",
-    "cluster_id": "7a2b",
-    "publisher": "news1.kr",
-    "title_clean": "서울시, 상가 의무규제 푼다…비주거 의무비율 폐지·용적률 완화",
-    "summary": "서울시가 상가 의무규제를 폐지하고 비주거 의무비율을 없애며 용적률을 완화하기로 결정했다. 8월 말까지 세부사항을 정리해 건축 인허가 단계부터 완화된 기준을 적용할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T10:05:23+09:00",
     "importance": 2
   }
 ]
