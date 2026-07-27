@@ -23136,6 +23136,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "코웨이, 코웨이갤러리 10곳 추가 신규 출점 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51074",
+    "description": "코웨이는 올 상반기 전국 주요 상권에 고객이 직접 누워보거나 기능을 작동해보는 브랜드 체험판매매장인 ‘코웨이갤러리’ 10곳을 새롭게 선보이며 오프라인 체험 네트워크를 확대하고 있다고 27일 밝혔다.코웨이는 코웨이갤러리를 올해 수도권에 코웨이갤러리 현대 목동·중동 직영점과 롯데 인천 직영점, 롯데 잠실·본점 팝업스토어 등 5곳을 새롭게 선보였다. 영남권에는 포항 직영점과 롯데 창원·동래 직영점, 갤러리아 진주 직영점 등 4곳을, 호남권에는 순천 직영점을 출점했다. 이번 신규 출점으로 전국 코웨이갤러리는 총 42곳으로 늘어났다. 코웨이",
+    "published_at": "2026-07-27T16:38:13+09:00",
+    "cluster_id": "28e8",
+    "publisher": "기계설비신문",
+    "title_clean": "코웨이, 코웨이갤러리 10곳 추가 신규 출점",
+    "summary": "코웨이가 상반기 전국 주요 상권에 코웨이갤러리 10곳을 신규 출점하여 오프라인 체험 네트워크를 확대했다. 수도권 5곳, 영남권 4곳, 호남권 1곳이 추가되어 전국 갤러리는 총 42곳으로 증가했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T16:40:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32218,22 +32234,6 @@
     "publisher": "네이트",
     "title_clean": "\"건설현장 낙하·추락 가상공간에…\" 안전공단, LB VR 도입으로 산재 예방",
     "summary": "안전보건공단이 LB VR(위치기반 가상현실) 기술을 산업현장에 도입하여 건설 근로자들이 가상공간에서 낙하·추락 등 위험 상황에 대한 안전교육을 받을 수 있게 한다. 이는 산업재해 예방을 위한 새로운 안전교육 방식으로 추진되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T11:15:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 안전문화 확산 위한 캐릭터 '한수호' 공개 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtVWVSZ1p0UjFRRWRDNzJEck9XcVMwTWQyRWNYdnN0T09PNzBPdDVOMGN6Wml2UDNCYlc4Um01ZFptZzBPXzJOT2JnMzMxbV9UaER3?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 사내 공모로 명칭 확정…현장 근로자 형상화 안내판\\·포스터\\·교육자료 등에 순차 적용 안전수칙 이해도 높여 자발적 참여 유도 한화 건설부문의 안전캐릭터",
-    "published_at": "2026-07-23T10:54:00+09:00",
-    "cluster_id": "a4d1",
-    "publisher": "네이트",
-    "title_clean": "한화 건설부문, 안전문화 확산 위한 캐릭터 '한수호' 공개",
-    "summary": "한화 건설부문이 안전문화 확산을 위해 현장 근로자를 형상화한 캐릭터 '한수호'를 공개했다. 사내 공모로 명칭을 확정하고 안내판, 포스터, 교육자료 등에 순차 적용하여 안전수칙 이해도를 높이고 자발적 참여를 유도할 계획이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-23T11:15:00+09:00",
     "importance": 2
