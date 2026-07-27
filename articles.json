@@ -23218,6 +23218,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기 광주 공장 신축공사 현장서 50대 근로자 추락 - 경기일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhMzZJTDBNanBZV0RoLVZ3S094bzh0QkR1Y0c4MGZBakJRSDQxRlAxS2kzVWtjWlc2ZnJQUWp5SXUyZVhhTndqblBKMjBtMFJXRXNTRElEMVZEWmM?oc=5",
+    "description": "경기 광주의 한 공장 신축 건설 현장에서 근로자가 추락했다. 27일 경기도소방재난본부 등에 따르면 이날 낮 12시55분께 경기 광주시 도척면 일대 신축 공장 건설공사 현장에서 작업자가 추락했다는 신고가 접수됐다. 신고를 받은 소방 당국은 인력 18명과 장비 6대를 동원",
+    "cluster_id": "8f50",
+    "publisher": "경기일보",
+    "title_clean": "경기 광주 공장 신축공사 현장서 50대 근로자 추락",
+    "summary": "경기 광주의 공장 신축 건설 현장에서 50대 근로자가 추락하는 사고가 발생했다. 소방 당국이 인력 18명과 장비 6대를 동원하여 대응했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T06:50:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32216,22 +32231,6 @@
     "title_clean": "[2026 기계설비의 날] 국토교통부장관 표창- 임재균 계룡건설산업(주) 부장",
     "summary": "임재균 계룡건설산업 부장이 32년간 공공 기반시설의 기계설비 기술을 담당한 공로로 2026 기계설비의 날 국토교통부장관 표창을 수상했다. BIM과 친환경 설비기술을 도입해 기계설비 기술의 새로운 기준을 확립한 현장 엔지니어로 평가받고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-23T13:37:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[2026 기계설비의 날] 국토교통부장관 표창- 박창용 서울과학기술대학교 교수 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50981",
-    "description": "“연구실에서의 기초 연구가 산업 현장의 실질적인 에너지절감과 혁신으로 이어질 수 있도록 산학연 협력에 매진하겠습니다.”2026 기계설비의 날 기념식에서 국토교통부 장관 표창을 수상한 박창용 서울과학기술대학교 기계시스템공학부 교수가 이같은 소감을 밝혔다. 그는 기계설비 분야의 지속적인 연구와 인력 양성, 학회 발전에 기여한 공로를 인정받았다. 박 교수는 2008년 3월부터 18년 1개월간 서울과기대에 재직하며 열전달과 열교환기, 열역학 사이클 해석 등 기계설비 관련 기초·응용 연구를 뚝심 있게 수행해 온 학자다. 그동안 총 120편이",
-    "published_at": "2026-07-23T12:57:00+09:00",
-    "cluster_id": "9535",
-    "publisher": "기계설비신문",
-    "title_clean": "[2026 기계설비의 날] 국토교통부장관 표창- 박창용 서울과학기술대학교 교수",
-    "summary": "박창용 서울과학기술대학교 교수가 2026 기계설비의 날 기념식에서 국토교통부장관 표창을 수상했다. 18년간 열전달, 열교환기 등 기계설비 기초·응용 연구와 인력 양성, 학회 발전에 기여한 공로가 인정된 것이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-23T13:37:38+09:00",
     "importance": 2
   }
