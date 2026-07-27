@@ -23139,6 +23139,22 @@
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
+    "title": "공정위, 하도대 지연지급·지연이자 안 준 라인건설 제재 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51072",
+    "description": "공정거래위원회는 하도급공사대금을 늑장 지급하고, 12억원에 달하는 지연 이자를 주지 않는 등 하도급법 위반한 종합건설업체 (주)라인건설에 시정명령을 부과했다고 27일 밝혔다.공정위 조사결과, 라인건설은 지난 2019년 10월부터 2024년 7월까지 64개 수급 사업자에게 아파트 석재공사, 가스 설비공사, 전기통신공사 등을 위탁하면서 공사 작업물을 받았는데도 60일을 넘어 하도급대금을 지급했다. 이 과정에서 발생한 지연이자 총 11억6천184만원을 지급하지 않은 것으로 드러났다.공정위에 따르면, 라인건설은 공정위 조사가 개시 이후 지",
+    "published_at": "2026-07-27T16:30:41+09:00",
+    "cluster_id": "e55a",
+    "publisher": "기계설비신문",
+    "title_clean": "공정위, 하도대 지연지급·지연이자 안 준 라인건설 제재",
+    "summary": "공정거래위원회가 하도급대금을 60일 이상 지연 지급하고 11억 6천만원의 지연이자를 미지급한 라인건설에 시정명령을 부과했다. 2019년 10월부터 2024년 7월까지 64개 수급사업자에 대한 위반 행위가 적발되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T16:34:05+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
     "title": "LG전자, 액체냉각솔루션 엔비디아 인증 획득 - 기계설비신문",
     "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51071",
     "description": "LG전자는 국내 기업 최초로 최근 엔비디아로부터 처음으로 600㎾급 '냉각수 분배 장치(CDU)'에 대한 최종 품질 인증을 획득했다고 27일 밝혔다. 이번에 인증받은 LG전자 600㎾급 CDU는 액체 냉각의 심장 역할을 하는 핵심 설비로, 고밀도 AI 서버의 GPU와 중앙처리장치(CPU)에 장착된 콜드 플레이트로 냉각수를 순환시켜 칩에서 발생하는 열을 회수하는 '다이렉트 투 칩'(DTC) 솔루션을 구현해 기존 공랭식 시스템과 시너지를 낸다.특히 온도 제어 정밀도를 ±0.25℃까지 구현해 고발열 AI GPU의 열 안정성을 극대화했다.",
@@ -32221,21 +32237,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T11:10:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"건설현장 낙하·추락 가상공간에…\" 안전공단, LB VR 도입으로 산재 예방 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ieVVUcS1LYmY2S0dzYjdGb3ZxUWFtT2Roci1FTTlTMk9IcHFlMmVHbU9qSDZuekdscG92X05LY1ptcm1EMEpqclV5a2xtNFJaczZxVlpvR1d3WXV0T3Y1WFhON0FtTXBLeElB0gFwQVVfeXFMTVR1Y1c3cm5vNThOZU9CU29YcGFuaTIzQTByNHBLVkZNYVZUMXJPSWozU3pHemVVSWdoMlVXbmRqaWNTcm5ob0RIcUR4amlEWFRJalE3bW9PWjhyalV6bTdqLWV4VDBTUXhJb1NMbFpCTw?oc=5",
-    "description": "작업자가 가상공간 속에서 위험 현장을 직접 돌아다니며 안전교육을 받을 수 있는 LB VR(위치기반 가상현실) 기술이 산업현장에 본격 도입된다. 현장의 안전교육 방식이 단순한 지도·교육에서 벗어나 체험형 교육으로 바뀌면서 산업재해 예방 효과가 기대된다는 분석이다.",
-    "published_at": "2026-07-23T10:59:04+09:00",
-    "cluster_id": "806b",
-    "publisher": "머니투데이",
-    "title_clean": "\"건설현장 낙하·추락 가상공간에…\" 안전공단, LB VR 도입으로 산재 예방 - 머니투데이",
-    "summary": "안전공단이 건설현장 안전교육에 LB VR 기술을 도입하여 가상공간에서의 체험형 교육을 시작한다. 이를 통해 산업재해 예방 효과가 기대되며 현장 안전교육의 혁신이 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T11:10:06+09:00",
-    "importance": 2
   }
 ]
