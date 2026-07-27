@@ -23186,6 +23186,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현장사고 접수 30분 내 변호사 출동…법무법인 YK, 중대재해 법률 지원 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rQWN5SHJYR1lHYWhtemRLakxrMVVNWU9wWWpXc1ktREhGeTJBUFFqUXluUUR1Q1FzdEJsVmlYY0hOLTFLSXAwdnYxUkpwSXJQOTNQTjdfSk1PM3psQXZKUA?oc=5",
+    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : [이데일리 성가현 기자] 법무법인 YK가 한국건설기술인협회와 함께 건설 현장 내 중대재해 및 안전사고 발생 시 즉각적인 법률 지원에 나선다. 한국건설기술인협회 긴급 법률출동 서비스. (사진=한국건설기술인협회)YK는 27일 한국건설기술인협회와 현장 재현",
+    "published_at": "2026-07-27T19:00:00+09:00",
+    "cluster_id": "6eb1",
+    "publisher": "네이트",
+    "title_clean": "현장사고 접수 30분 내 변호사 출동…법무법인 YK, 중대재해 법률 지원",
+    "summary": "법무법인 YK가 한국건설기술인협회와 협력하여 건설 현장의 중대재해 및 안전사고 발생 시 30분 내 변호사를 출동시키는 긴급 법률 지원 서비스를 개시했다. 이는 건설업계의 법적 리스크 관리 및 사고 대응 체계를 강화하는 업계 지원 사업이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T19:10:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32224,21 +32240,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-23T12:55:04+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[기자수첩] 현대건설, 힐스테이트 더 운정’ 설계 변경 논란에 철근 누... - livesnews.com",
-    "link": "https://www.livesnews.com/news/article.html?no=62863",
-    "description": "수분양자 100여명 강남경찰서 앞 집회…“140건 설계변경, 검찰 송치해야” 국토부 “내용 모르는 상태서 포괄적 사전동의, 건축물분양법 입법 취지에 부합하지 않아” GTX-A 삼성역 철근 누락 이어 건설현장 안전사고 반복...",
-    "published_at": "2026-07-23T12:08:00+09:00",
-    "cluster_id": "b67b",
-    "publisher": "livesnews.com",
-    "title_clean": "[기자수첩] 현대건설, 힐스테이트 더 운정’ 설계 변경 논란에 철근 누...",
-    "summary": "현대건설의 '힐스테이트 더 운정' 아파트에서 140건의 설계변경이 이루어졌으나 수분양자들이 내용을 모르는 상태에서 사전동의를 받은 것으로 드러났다. 국토부는 이것이 건축물분양법 입법 취지에 부합하지 않는다며 문제를 지적했으며, GTX-A 삼성역 철근 누락 사건에 이어 건설현장 안전사고가 반복되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-23T12:14:56+09:00",
-    "importance": 4
   }
 ]
