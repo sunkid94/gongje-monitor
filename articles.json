@@ -7234,6 +7234,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘의 주요 공시·27일] 대우건설, 2730억 열병합발전소 주기기 수주 - 세이프머니",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aSXBlR0RJdU5MX3R4WE1YQmFoQ2MySXplXzA0V1NubXNEdWtvMjEzM2hobmVHeENJdWUzeHhKYV9KRDBrbFZfN0V4WW5GTnlULTN6RC1lWTlleFVXWE9ySkQ2bW0tRzd3dGR1S3hn?oc=5",
+    "description": "▲ 한화오션, 2분기 영업익 7361억 … 전년대비 98% 증가▲ 삼성카드, 상반기 당기 순이익 3105억 … 전년대비 7.5% 감소▲ 미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가▲ 네이버, 14.7조 규모 AI 인프라 승부수 … 엔비디아·브룩필드와 글로벌 공략▲ 라온피플, 2",
+    "published_at": "2026-07-27T17:00:00+09:00",
+    "cluster_id": "b56b",
+    "publisher": "세이프머니",
+    "title_clean": "[오늘의 주요 공시·27일] 대우건설, 2730억 열병합발전소 주기기 수주",
+    "summary": "대우건설이 2730억 규모의 열병합발전소 주기기 수주로 기계설비 부문 수주를 확대했습니다. 한화오션 영업익 98% 증가 등 건설·해양 관련 기업들의 실적 개선이 나타나고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-27T20:00:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23169,19 +23185,18 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 1.4兆 '상도15구역 재개발' 확보…하이엔드 '써밋' 출격 - newsian.co.kr",
-    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92459",
-    "description": "대우건설이 수주한 상도15구역 재개발 사업 '상도 써밋' 투시도 [사진=대우건설] 대우건설(대표이사 김보현)이 서울 동작구 상도동 일대의 대규모 정비사업인 '상도15구역 주택정비형 재개발사업'의 시공권을 확보했다....",
-    "published_at": "2026-07-20T15:26:00+09:00",
-    "cluster_id": "5c62",
-    "publisher": "newsian.co.kr",
-    "title_clean": "대우건설, 1.4兆 '상도15구역 재개발' 확보…하이엔드 '써밋' 출격",
-    "summary": "대우건설이 서울 동작구 상도15구역 주택정비형 재개발사업의 시공권을 확보하며 1.4조 원대 대형 수주를 기록했다. 하이엔드 브랜드 '써밋'을 투입하는 프리미엄 프로젝트로 건설사의 수주 실적 증대에 기여한다.",
+    "title": "7월 독일 건설 경기 심리 개선, 제프리스 발표 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IVGoxRzlMT0hxNmdVWFJTRmRFc0hvVlphYWg1eDJXQkhocXZwWG1CbmhoRE4xY1FFNzVJMXhhOEtNZW9tWUhCT3BxVVFwV3VTdllXcUQzOElTS0VKN0RjZE1wRVZUYjB0TThBcTczSlZNSmtyamxr?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1IVGoxRzlMT0hxNmdVWFJTRmRFc0hvVlphYWg1eDJXQkhocXZwWG1CbmhoRE4xY1FFNzVJMXhhOEtNZW9tWUhCT3BxVVFwV3VTdllXcUQzOElTS0VKN0RjZE1wRVZUYjB0TThBcTczSlZNSmtyamxr?oc=5\" target=\"_blank\">7월 독일 건설 경기 심리 개선, 제프리스 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com 한국어</font>",
+    "cluster_id": "ea71",
+    "publisher": "Investing.com 한국어",
+    "title_clean": "7월 독일 건설 경기 심리 개선, 제프리스 발표",
+    "summary": "7월 독일 건설 경기 심리가 개선되었다고 제프리스가 발표했습니다. 이는 건설업계의 긍정적인 신호로 해석됩니다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-20T15:29:09+09:00",
+    "collected_at": "2026-07-27T20:00:10+09:00",
     "importance": 2
   },
   {
@@ -32220,22 +32235,6 @@
     "title_clean": "강원개발공사, 집중호우·폭염 건설현장 긴급 안전점검",
     "summary": "강원개발공사 경영진이 태백 등 도내 4개 건설현장을 방문하여 집중호우와 폭염으로 인한 안전점검을 실시했다. 현장에서 발견된 위험요인에 대해 즉시 개선을 지시하며 건설현장 안전관리를 강화했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-23T13:10:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[2026 기계설비의 날] 국토교통부장관 표창- 박민희 (주)한화 건설부문 차장 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tcmdXNEhQRXk1M2RCVU5adE1pTnpIU1llcU5IQndVNElldlkwZ01yNXF1aDBMcVFiOEljT1RrbW9kNzlncUZ5UXRRclNBLUk2a0NOazZMRmdGLVBzUzVXVDlFZlozVk1qaFl1NA?oc=5",
-    "description": "“최근 폭발적으로 증가하는 데이터센터 등 특수건축물의 완성도는 결국 기계설비 엔지니어링 역량에 달려 있습니다.”초고층 건축물, 아레나, 대규모 데이터센터에 이르기",
-    "published_at": "2026-07-23T12:57:00+09:00",
-    "cluster_id": "f872",
-    "publisher": "기계설비신문",
-    "title_clean": "[2026 기계설비의 날] 국토교통부장관 표창- 박민희 (주)한화 건설부문 차장",
-    "summary": "박민희 한화 건설부문 차장이 2026 기계설비의 날에서 국토교통부장관 표창을 수상했다. 데이터센터 등 특수건축물의 완성도가 기계설비 엔지니어링 역량에 달려 있다는 점을 강조하며 업계 전문성을 인정받았다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-23T13:10:21+09:00",
     "importance": 2
   }
