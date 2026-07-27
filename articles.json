@@ -7234,6 +7234,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[클릭 e종목]\"두산퓨얼셀, 해외 수주 예상보다 늦어져…목표가↓\" - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6blhpT3NiY3J4SC1wSjh1bnh5d2RYTVFBUmJwZFprdWR6cEljbjZRbW9FU2dYRWhVM2dHVGx0UlU0dVF0ZTVPeWZtamdxZFBlbU5ibW81NHhjem1nTUJpdGRxRGlmNEJKTF9QTk1kZkh2NDlyem93?oc=5",
+    "description": "DS투자증권은 27일 두산퓨얼셀에 대해 해외 수주 유입 시기가 예상보다 미뤄지고 있다며 목표주가를 기존 5만6000원에서 4만7000원으로 하향하고 투자의견은",
+    "published_at": "2026-07-27T18:11:00+09:00",
+    "cluster_id": "30cb",
+    "publisher": "아시아경제",
+    "title_clean": "[클릭 e종목]\"두산퓨얼셀, 해외 수주 예상보다 늦어져…목표가↓\"",
+    "summary": "DS투자증권이 두산퓨얼셀의 해외 수주 시기 지연을 이유로 목표주가를 5만6000원에서 4만7000원으로 하향 조정했다. 수주 부진은 관련 업계의 실적 악화로 이어질 수 있는 부정적 신호다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T20:30:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23167,22 +23183,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-20T15:39:10+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "중동 문 닫고 철근값 뛰고…건설업계 하반기 '시계제로' - newstomato.com",
-    "link": "http://www.newstomato.com/ReadNews.aspx?no=1307589&inflow=N",
-    "description": "기업별로는 현대건설이 35억1400만달러로 가장 많은 수주를 올렸고 삼성중공업, 삼성물산, 삼성E&A 순으로 집계됐습니다. 공종별로는 산업설비 중심의 재편이 더욱 뚜렷해졌습니다. 산업설비 수주액은...",
-    "published_at": "2026-07-20T15:22:00+09:00",
-    "cluster_id": "2f95",
-    "publisher": "newstomato.com",
-    "title_clean": "중동 문 닫고 철근값 뛰고…건설업계 하반기 '시계제로'",
-    "summary": "중동 시장 침체로 건설업계가 어려움을 겪고 있으며, 철근값 상승 등 원가 부담이 가중되고 있다. 현대건설이 최대 수주사이며 산업설비 중심의 프로젝트 수주 추세가 뚜렷하다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-20T15:29:09+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
