@@ -23136,6 +23136,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "LG전자, 액체냉각솔루션 엔비디아 인증 획득 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51071",
+    "description": "LG전자는 국내 기업 최초로 최근 엔비디아로부터 처음으로 600㎾급 '냉각수 분배 장치(CDU)'에 대한 최종 품질 인증을 획득했다고 27일 밝혔다. 이번에 인증받은 LG전자 600㎾급 CDU는 액체 냉각의 심장 역할을 하는 핵심 설비로, 고밀도 AI 서버의 GPU와 중앙처리장치(CPU)에 장착된 콜드 플레이트로 냉각수를 순환시켜 칩에서 발생하는 열을 회수하는 '다이렉트 투 칩'(DTC) 솔루션을 구현해 기존 공랭식 시스템과 시너지를 낸다.특히 온도 제어 정밀도를 ±0.25℃까지 구현해 고발열 AI GPU의 열 안정성을 극대화했다.",
+    "published_at": "2026-07-27T16:26:29+09:00",
+    "cluster_id": "e80a",
+    "publisher": "기계설비신문",
+    "title_clean": "LG전자, 액체냉각솔루션 엔비디아 인증 획득",
+    "summary": "LG전자가 국내 기업 최초로 엔비디아로부터 600㎾급 냉각수 분배 장치(CDU)의 품질 인증을 획득했다. AI 서버의 고발열 칩 냉각을 위한 다이렉트 투 칩 솔루션으로 온도 제어 정밀도 ±0.25℃를 구현했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T16:30:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32220,22 +32236,6 @@
     "summary": "안전공단이 건설현장 안전교육에 LB VR 기술을 도입하여 가상공간에서의 체험형 교육을 시작한다. 이를 통해 산업재해 예방 효과가 기대되며 현장 안전교육의 혁신이 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-07-23T11:10:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "㈜한화 건설부문, 자체 기획 안전캐릭터 ‘한수호’ 공개 - datanews.co.kr",
-    "link": "http://www.datanews.co.kr/news/article.html?no=145703",
-    "description": "㈜한화 건설부문은 건설현장 안전수칙을 보다 쉽게 전달하기 위해 자체 안전 캐릭터 ‘한수호’를 공개했다고 23일 밝혔다. ‘한수호’는 흰색 안전모와 안전대, 안전화 등 필수 안전장비를 착용한 건설 근로자 모습을...",
-    "published_at": "2026-07-23T11:00:00+09:00",
-    "cluster_id": "4112",
-    "publisher": "datanews.co.kr",
-    "title_clean": "㈜한화 건설부문, 자체 기획 안전캐릭터 ‘한수호’ 공개",
-    "summary": "㈜한화 건설부문이 건설현장 안전문화 강화를 위해 자체 기획한 안전캐릭터 '한수호'를 공개했다. 안전수칙 전달을 보다 효과적으로 하기 위한 안전 관련 홍보 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T11:05:15+09:00",
     "importance": 2
   }
 ]
