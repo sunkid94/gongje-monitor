@@ -7251,6 +7251,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "국가 전략기술 핵심 기반…‘거대 현미경’ 새빛가속기 첫 삽 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25448565",
+    "description": "앞서 지난해 정부는 포스코이앤씨 컨소시엄과 계약을 맺고 가속기 기반 시설 등 건립에 착수하려했으나, 포스코이앤씨가 중대재해 문제를 겪으며 계약이 미뤄져 왔다. 사업도 당초 2027년 완공을 목표로 했으나 2029년 말...",
+    "published_at": "2026-07-27T21:59:00+09:00",
+    "cluster_id": "ab09",
+    "publisher": "joongang.co.kr",
+    "title_clean": "국가 전략기술 핵심 기반…‘거대 현미경’ 새빛가속기 첫 삽",
+    "summary": "정부가 새빛가속기 건설 사업에 첫 삽을 떴으나, 포스코이앤씨의 중대재해 문제로 계약이 지연되며 완공 시기가 2027년에서 2029년으로 2년 연장되었다. 국가 전략기술 기반 시설 구축이 지속되지만 건설사의 안전 이슈로 인한 일정 지연이 발생했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T22:05:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23185,22 +23201,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-20T16:29:22+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "전주 포스코 '더샵 라비온드', 승강식 피난기 적용 - koreastocknews.com",
-    "link": "http://www.koreastocknews.com/news/articleView.html?idxno=119902",
-    "description": "전북 전주시 기자촌구역 주택재개발정비사업으로 조성되고 포스코이앤씨가 시공하는 '더샵 라비온드'가 승강식 피난기를 설계에 반영해 설치를 진행하고 있다. 이번 승강식 피난기 적용은 화배 발생 시 자력 대피에...",
-    "published_at": "2026-07-20T16:24:00+09:00",
-    "cluster_id": "fd6a",
-    "publisher": "koreastocknews.com",
-    "title_clean": "전주 포스코 '더샵 라비온드', 승강식 피난기 적용",
-    "summary": "전주 포스코 '더샵 라비온드' 재개발 사업에서 승강식 피난기를 설계에 반영하여 설치 중이다. 화재 발생 시 자력 대피를 가능하게 하는 안전 시설로, 건설 기준의 고도화를 나타낸다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-20T16:29:22+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
