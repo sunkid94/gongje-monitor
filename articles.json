@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[제11회 기계설비의 날 대통령표창] 현동수 동원설비 대표 - 칸 kharn",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yR0pzUWpvbmo0QURGaFo1ZVY3c0x4cUFXbzhGX1ZsQmFmRm1Xa1RONUc2cVB3bmRVX2g5RnFOeWRqdzdjRlFsX1dla1FhbllaU1dWMENqc08yTXZqUWc?oc=5",
+    "description": "현동수 동원설비 대표는 기계설비공사업체의 기술력 향상과 제주지역 건설기술 발전에 기여한 공로를 인정받아 ‘제11회 기계설비의 날’ 기념식에서 대통령상을 수상했다. 현 대표는 48년 2개월간 건설업에 종사하며 국가 공공시설물, 교육청 시설, 아파트, 병원, 골프장 및 리조트, 공공하수처리장 등의 기계설비공사를 시공해왔다. 1997년 동원설비를 창립해 신재생에",
+    "cluster_id": "74ab",
+    "publisher": "칸 kharn",
+    "title_clean": "[제11회 기계설비의 날 대통령표창] 현동수 동원설비 대표",
+    "summary": "현동수 동원설비 대표가 기계설비공사업체의 기술력 향상과 제주지역 건설기술 발전에 기여한 공로를 인정받아 제11회 기계설비의 날 기념식에서 대통령상을 수상했다. 48년 2개월간 건설업에 종사하며 공공시설, 교육청, 아파트, 병원 등 다양한 기계설비공사를 시공해왔다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-27T12:24:13+09:00",
+    "event_label": "대한기계설비건설협회 제11회 기계설비의 날 현동수 동원설비 대표 대통령상 수상",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -7115,6 +7131,22 @@
     "collected_at": "2026-06-28T17:05:16+09:00",
     "event_label": "기계설비건설공제조합 미래산업 플랫폼 도약",
     "importance": 5
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "중국도 주목한 한국 원전 부품… 두산에너빌리티, 라이양 5·6호기 단조품 수주 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56Rm10dXEyMWhWbnp4dXkyV2VVYlJHS1NJN0huT1cxb3ZTal8wTUhjZnIzQ3ZBczhrNi12UnRlY0dhcV9GcUhNdEt2Z3VwSG5BSDAyeXlJbjFRcjI5N1VUbTZsYm52LS1JSlk1OVVKcWNyY2hqTEHSAWZBVV95cUxQVWdfakh5WXJ3SUtKOG5TbzdxRWlUWmMwVmp4cEE3Yk8tQzlTWllrb1JuS052TlBHZzQtNnBCQ0lFTmkwSGFpVFB1UFVpcHlraTNJZldOTERvNmtDTzFsNTJOMG42cWc?oc=5",
+    "description": "두산에너빌리티가 중국 라이양 원자력발전소 5·6호기에 들어가는 증기발생기용 단조품을 공급한다. 지난해 라이양 3·4호기 물량에 이어 추가 계약을 따내면서 중국 원전 시장에서 기존 공급 관계를 이어가게 됐다.두산에너빌리티는 중국 동팡전기그룹 계열사인 DEI, DFHM과…",
+    "published_at": "2026-07-27T12:10:05+09:00",
+    "cluster_id": "54f6",
+    "publisher": "동아일보",
+    "title_clean": "중국도 주목한 한국 원전 부품… 두산에너빌리티, 라이양 5·6호기 단조품 수주",
+    "summary": "두산에너빌리티가 중국 라이양 원전 5·6호기 증기발생기용 단조품 수주에 성공했다. 라이양 3·4호기에 이어 추가 계약으로 중국 원전 시장에서의 공급 관계를 지속적으로 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-27T12:24:13+09:00",
+    "importance": 2
   },
   {
     "keyword": "현대산업개발",
@@ -23053,20 +23085,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "목동에 깃발 꽂아라…건설사 '30조' 재건축 수주 전쟁 본격화 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260716_0003711983",
-    "description": "지난달 23일 열린 목동 10단지 현장설명회에는 현대건설, 포스코이앤씨, 대우건설 등 6개사가 참석했다. 10단지의 공사비는 약 2조6135억원 규모다. 지난달 29일 진행된 목동 13단지(3852가구) 현장설명회에는 삼성물산...",
-    "published_at": "2026-07-19T08:00:00+09:00",
-    "cluster_id": "ce29",
-    "publisher": "newsis.com",
-    "title_clean": "목동에 깃발 꽂아라…건설사 '30조' 재건축 수주 전쟁 본격화",
-    "summary": "목동 재건축 단지들이 대규모 공사를 진행하면서 건설사들의 수주 경합이 본격화되고 있다. 목동 10단지(2조6135억원), 13단지 등 여러 단지에서 대형 건설사들이 현장설명회에 참석하며 약 30조원대 재건축 시장 수주 경쟁을 벌이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-19T08:07:35+09:00",
-    "importance": 2
+    "title": "조철기 도의회 의장, 건설노동자와 간담회 - 청양신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83YndtNFlRTHNBRmRscnNWN2c3YmlFMkxuY2ZENjg4aUNtZkJ2dFBPTnVOQU5hZXRILXdSY0E5NWNGSFN1UFJYNFpOMDZmanVobzlEZjRfcGdGOUlqWHJseXJtTUJLQWVT?oc=5",
+    "description": "충남도의회 조철기 의장은 지난 20일 의회 국제회견장에서 한국산업건설노동조합 세종충남본부 간부들과 간담회를 하고 지역 건설 현장의 주요 현안과 애로사항을 청취했다.이날 간담회에는 한국산업건설노동조합 세종충남본부 간부 11명이 참석해 지역 건설 노동자들의 생존권 보장, 안전한 작업 환경 조성, 노동조건 개선 등 현장의 절박한 요구사항들을 전달하고 도의회 차원의 적극적인 관심과 지원을 요청했다.노조 관계자들은 “최근 건설경기 침체로 인해 지역 건설 노동자들이 큰 어려움을 겪고 있다”며 “건설사와 노동조합의 상생을 위해 최저입찰제 지양과",
+    "published_at": "2026-07-27T10:07:06+09:00",
+    "cluster_id": "0d92",
+    "publisher": "청양신문",
+    "title_clean": "조철기 도의회 의장, 건설노동자와 간담회",
+    "summary": "충남도의회 조철기 의장이 한국산업건설노동조합 세종충남본부와 간담회를 개최하여 건설 현장의 생존권 보장, 안전 환경 조성, 노동조건 개선 등을 논의했다. 노조는 건설경기 침체로 인한 어려움을 호소하며 도의회의 관심과 지원을 요청했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T12:24:13+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32202,38 +32234,6 @@
     "summary": "부영그룹이 장마철 안전사고 예방을 위해 전국 건설 현장에 대한 특별 안전점검을 시행했다. 폭염과 집중호우가 반복되는 여름철 재해 위험에 대비하여 무재해 사업장 조성에 총력을 기울이고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T10:05:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 안전캐릭터 '한수호' 공개…현장 안전문화 강화 - 코리아리포트",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JNUNXMExsTGR0bGUycl80V1NOdVZsVUpLd0hXc2NzSW54YTJhRGExaXdZRHVyZ1MyN2xVbHZhdGdOTzQ0ZUszbDVtV25tZ0xXWVFCNzRuZzZFbXlldS1xOHl6d1ByeHF1MFU0bXc4OW0?oc=5",
-    "description": "㈜한화 건설부문은 23일 건설현장의 안전문화를 상징하는 안전캐릭터 '한수호'를 공개했다.'한수호'는 흰색 안전모와 안전대, 안전화 등 건설현장의 필수 안전장비를",
-    "published_at": "2026-07-23T09:39:08+09:00",
-    "cluster_id": "45cb",
-    "publisher": "코리아리포트",
-    "title_clean": "한화 건설부문, 안전캐릭터 '한수호' 공개…현장 안전문화 강화",
-    "summary": "한화 건설부문이 건설현장 안전문화 강화를 위해 안전캐릭터 '한수호'를 공개했다. 안전모, 안전대, 안전화 등 필수 안전장비를 갖춘 캐릭터로 현장의 안전의식 제고를 도모하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T09:55:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안전모 쓴 ‘한수호’ 등장…한화 건설부문, 현장 안전캐릭터 공개 - 시사포커스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41SElDR19NcEJTbWY0TFNJTU5iQld3aEFuV0RDMTdGNVJ1d0FVMVhGcHgtdjI3Vm5fdlFPb0hod3E3V1pZMDVKd1NnWm5odGpSZ0ZZZGwxbmFTdXZ2WkdKNlRkWUR3cnY2ZGlES3ZjYw?oc=5",
-    "description": "[시사포커스 / 이혜영 기자] ㈜한화 건설부문이 건설현장 안전문화 확산을 위해 자체 기획한 안전캐릭터 ‘한수호’를 공개했다고 23일 밝혔다.‘한수호’는 흰색 안전모와 안전대, 안전화 등 건설현장의 필수 안전장비를 착용한 근로자를 형상화한 캐릭터다. 현장 구성원들에게 안전수칙을 보다 쉽고 친숙하게 전달하기 위해 기획됐다.캐릭터 이름은 임직원 네이밍 공모전과 사내 투표를 거쳐 선정했다. ‘현장의 위험으로부터 수호한다’는 의미를 담아 한화의 ‘한’과 ‘수호’를 결합했다.한화 건설부문은 앞으로 ‘한수호’를 현장 안전시설물과 안내판, 안전포",
-    "published_at": "2026-07-23T09:37:14+09:00",
-    "cluster_id": "9f75",
-    "publisher": "시사포커스",
-    "title_clean": "안전모 쓴 ‘한수호’ 등장…한화 건설부문, 현장 안전캐릭터 공개",
-    "summary": "한화 건설부문이 건설현장 안전문화 확산을 위해 안전캐릭터 '한수호'를 공개했다. 캐릭터는 안전모, 안전대, 안전화 등을 착용한 근로자 형상으로, 현장 구성원들에게 안전수칙을 친숙하게 전달하기 위해 기획되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T09:55:22+09:00",
     "importance": 2
   }
 ]
