@@ -7251,6 +7251,21 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "해외 수주 지연 두산퓨얼셀 목표價↓…실적 바닥론 - 경제타임스",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04UlEtNmxhS0pSczBvYlVhUGR1bUo4Vy1iVHh1ZURiMXJDakMtRHBIQVJhVlN3QUJXMjcyNVF6UUp2UzFWUzlTUEtmZENuMFhSZEtMZmxLZ3E?oc=5",
+    "description": "경제타임스 여원동 기자 | 해외 수주 유입 지연과 2분기 적자 폭 확대로 두산퓨얼셀(336260)의 목표주가가 하향 조정됐다. 다만 증권가에서는 올해 실적 저점을 통과한 뒤 하반기 국내 주기기 매출 반영과 해외 데이터센터향 공급 본격화로 중장기 실적 회복이 가능할 것으로 전망했다. DS투자증권은 두산퓨얼셀(336260)에 대해 투자의견",
+    "cluster_id": "f261",
+    "publisher": "경제타임스",
+    "title_clean": "해외 수주 지연 두산퓨얼셀 목표價↓…실적 바닥론",
+    "summary": "두산퓨얼셀이 해외 수주 지연과 2분기 적자 확대로 목표주가가 하향 조정되었다. 다만 증권가는 올해 실적 저점 통과 후 하반기 국내 주기기 매출과 해외 데이터센터향 공급 본격화로 중장기 실적 회복 가능성을 전망하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T22:35:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23187,20 +23202,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 1조4367억 규모 '상도15구역' 재개발 시공사로 선정 - weekly.hankooki.com",
-    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7174969",
-    "description": "사진 제공=대우건설  대우건설은 1조 4367억원 규모의 '상도15구역' 재개발 사업 시공사로 선정됐다고 20일 밝혔다. 이 사업은 서울 동작구 상도동 279번지 일대에 지하 8층~지상 35층 공동주택 30개동 3207개 가구 등을...",
-    "published_at": "2026-07-20T16:24:00+09:00",
-    "cluster_id": "02f7",
-    "publisher": "weekly.hankooki.com",
-    "title_clean": "대우건설, 1조4367억 규모 '상도15구역' 재개발 시공사로 선정",
-    "summary": "대우건설이 1조 4367억원 규모의 서울 동작구 상도15구역 재개발 사업 시공사로 선정됐다. 지하 8층~지상 35층 규모의 대형 공동주택 프로젝트로, 건설업계의 대규모 수주 확보 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T16:29:22+09:00",
-    "importance": 2
+    "title": "올해 해외건설 수주액 300억달러 방어 ‘빨간불’ - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03QXNVWWhCR1NIZ21nakFQUWw2SlVlVVVUUEI3U0dWWTZpTmxqWHZEdHdiODh3RUVyeVFkRlBVZnMxQVFjanhOdjA1YkRjWTFkbW9zX3VHXzQ0X0FtNENQUFF1Y240RkFlbUFra2RLa3lBVEtlQmc?oc=5",
+    "description": "[대한경제=김수정 기자] 올해 해외건설 수주액이 300억달러 방어도 쉽지 않을 것이란 전망이 나왔다. 상반기 기준으로 최근 5년 평균 실적을 하회한 상황이라, 하반기에는 정부 차원에서 ‘팀코리아’ 수주 활동 지원에 보다 적극적으로 나설 필요가 있다는 제언이다.또한 올해 ...",
+    "published_at": "2026-07-27T06:00:56+09:00",
+    "cluster_id": "0e9c",
+    "publisher": "대한경제",
+    "title_clean": "올해 해외건설 수주액 300억달러 방어 ‘빨간불’",
+    "summary": "올해 해외건설 수주액이 300억달러 이하로 떨어질 위험이 높아지고 있으며, 상반기 실적이 최근 5년 평균을 하회한 상황이다. 정부의 적극적인 '팀코리아' 수주 지원 활동이 필요하다는 지적이 제기되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-27T22:35:03+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32218,22 +32233,6 @@
     "publisher": "기계설비신문",
     "title_clean": "[2026 기계설비의 날] 국토교통부장관 표창- 박종숭 삼성전자(주) 프로",
     "summary": "삼성전자 박종숭 프로가 2026년 기계설비의 날 국토교통부장관 표창을 수상했다. 그는 16년간 고효율 히트펌프 보급과 친환경 냉난방 시스템 확대를 주도하며 탄소중립 사회 실현과 국가 에너지 효율 향상에 기여한 냉난방 전문가다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T13:37:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[2026 기계설비의 날] 국토교통부장관 표창- 이철희 (주)삼우엠이피컨설턴트 대표 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50991",
-    "description": "이철희 (주)삼우엠이피컨설턴트 대표는 지난 32년간 건축 기계설비설계 분야에 종사하며, 친환경 에너지 절약형 설계와 신기술·신공법 도입을 통해 기계설비산업 발전을 이끌어 온 공로로 주목받고 있다. 그는 LCC(생애주기비용) 분석을 기반으로 한 에너지 비용 절감과 최신 BIM(건설정보모델링) 설계 적용 등 기계설비설계의 선진화에 크게 기여했다는 평가를 받는다.32년 외길, 국책사업 성공적 수행선진화 된 기술력 현지화 ‘큰 호응’이철희 대표는 국립아시아문화전당, 동대문디자인플라자(DDP) 등 다수의 대형 국책 프로젝트에 참여해 저탄소에",
-    "published_at": "2026-07-23T12:56:00+09:00",
-    "cluster_id": "210c",
-    "publisher": "기계설비신문",
-    "title_clean": "[2026 기계설비의 날] 국토교통부장관 표창- 이철희 (주)삼우엠이피컨설턴트 대표",
-    "summary": "이철희 (주)삼우엠이피컨설턴트 대표가 32년간 기계설비설계 분야에서 친환경 에너지 절약형 설계와 BIM 등 신기술 도입으로 업계 발전을 주도한 공로로 국토교통부장관 표창을 수상했다. 국책 대형 프로젝트 참여를 통해 선진화된 기술력을 현지화하며 건설업계에 긍정적 영향을 미쳤다.",
     "sentiment": "positive",
     "collected_at": "2026-07-23T13:37:38+09:00",
     "importance": 2
