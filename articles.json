@@ -23052,6 +23052,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "두산건설 브랜드북, '레드닷 디자인 어워드 2026' 수상 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51070",
+    "description": "두산건설은 '레드닷 디자인 어워드 2026(Red Dot Design Award 2026)'에서 자사의 브랜드북 시리즈가 브랜즈&커뮤니케이션 디자인(Brands & Communication Design) 분야 내 '브랜드 디자인 & 아이덴티티(Brand Design & Identity) 부문'과 '퍼블리싱&프린트 미디어(Publishing & Print Media)' 부문에서 각각 본상을 수상했다고 27일 밝혔다.브랜드 디자인 & 아이덴티티부문에서는 두산건설의 브랜드 자산을 시각적으로 알기 쉽게 풀어낸 점을 인정받았다. 퍼블리싱 &",
+    "published_at": "2026-07-27T10:29:44+09:00",
+    "cluster_id": "c1b2",
+    "publisher": "기계설비신문",
+    "title_clean": "두산건설 브랜드북, '레드닷 디자인 어워드 2026' 수상",
+    "summary": "두산건설이 브랜드북 시리즈로 국제적 디자인상인 '레드닷 디자인 어워드 2026'에서 브랜드 디자인&아이덴티티, 퍼블리싱&프린트 미디어 부문 본상을 수상했다. 브랜드 자산의 시각적 표현력을 인정받은 것으로, 기업의 브랜드 가치 강화를 보여주는 성과다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T10:32:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32219,21 +32235,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T09:30:17+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 스마트건설 기술 실증에 최대 6억2000만원 지원 확보 - womentimes.co.kr",
-    "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104604",
-    "description": "우먼타임스 = 장준형 기자 롯데건설은 창업진흥원과 서울경제진흥원이 주관하는 오픈이노베이션 지원사업을 통해 최대 6억2000만원 규모의 기술실증(PoC) 지원금을 확보했다고 밝혔다. 롯데건설은 올해 창업진흥원이...",
-    "published_at": "2026-07-23T09:26:00+09:00",
-    "cluster_id": "bc03",
-    "publisher": "womentimes.co.kr",
-    "title_clean": "롯데건설, 스마트건설 기술 실증에 최대 6억2000만원 지원 확보",
-    "summary": "롯데건설이 창업진흥원과 서울경제진흥원의 오픈이노베이션 지원사업을 통해 스마트건설 기술 실증에 최대 6억2000만원의 지원금을 확보했다. 이는 건설업계의 기술혁신과 디지털 전환을 추진하는 긍정적 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T09:30:17+09:00",
-    "importance": 2
   }
 ]
