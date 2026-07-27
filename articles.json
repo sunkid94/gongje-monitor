@@ -23186,6 +23186,22 @@
     "importance": 3
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설기술인協, 27일 긴급 법률출동 서비스 개시 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKZlNIdDEwamd5S2NfekhOZlZjb05COU53MnZlLW5zajVhb0xkLW9tdnhESjBuTmJ2TVJvNlZWVjZ4WENZT3dHdm1LbWEyVWhZVUJWTlNiQlM2TUFKWVpEUTZkWDhYejFtbUk4?oc=5",
+    "description": "한국건설기술인협회(이하 협회)가 중대재해와 사망·중상사고 등 긴급한 법률지원이 필요한 회원에게 전문 변호사가 초기 대응을 지원하는",
+    "published_at": "2026-07-27T17:34:50+09:00",
+    "cluster_id": "24be",
+    "publisher": "한국건설신문",
+    "title_clean": "건설기술인協, 27일 긴급 법률출동 서비스 개시",
+    "summary": "한국건설기술인협회가 회원들을 위한 긴급 법률출동 서비스를 27일 개시한다. 중대재해와 사망·중상사고 등 긴급한 법률지원이 필요한 경우 전문 변호사의 초기 대응을 지원하는 서비스다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-27T21:30:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32220,22 +32236,6 @@
     "title_clean": "[2026 기계설비의 날] 국토교통부장관 표창- 이관선 한국자산관리공사 과장",
     "summary": "이관선 한국자산관리공사 과장이 13년간의 기계설비 업무 경험을 바탕으로 시공 품질 향상과 제로에너지건축물 사업에 기여한 공로로 2026년 기계설비의 날 국토교통부장관 표창을 수상했다. 정부의 에너지 절감 정책 추진에서 기계설비 기술 고도화를 주도적으로 추진한 전문가의 성과 인정.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-23T13:37:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[2026 기계설비의 날] 중소기업중앙회 회장상 - 유계호 (주)혜성 대표이사 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50946",
-    "description": "2026년 기계설비의 날 중소기업중앙회 표창을 수상한 유계호 (주)혜성 대표이사는 31년 동안 기계설비·가스공사 분야를 지켜오며 품질과 기술력을 바탕으로 지역 건설산업 경쟁력 강화에 기여해 온 전문 경영인이다. 에너지 절감과 청정에너지 활용을 확대하는 한편, 성실시공과 체계적인 현장관리를 통해 생산성과 시공 품질을 높였다.그의 경쟁력은 다양한 공공 프로젝트를 통해 입증됐다. 삼양초등학교와 일도초등학교 화장실 기계설비공사를 비롯해 제주시 용강마을 LPG배관망 구축사업 등 2022년부터 2025년까지 수십 건의 공공시설과 도시기반시설",
-    "published_at": "2026-07-23T12:56:00+09:00",
-    "cluster_id": "f3bb",
-    "publisher": "기계설비신문",
-    "title_clean": "[2026 기계설비의 날] 중소기업중앙회 회장상 - 유계호 (주)혜성 대표이사",
-    "summary": "유계호 (주)혜성 대표이사가 2026년 기계설비의 날 중소기업중앙회 회장상을 수상했다. 31년간 기계설비·가스공사 분야에서 품질과 기술력을 바탕으로 에너지 절감, 청정에너지 활용, 공공 프로젝트 다수 수행을 통해 지역 건설산업 경쟁력 강화에 기여해 왔다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-23T13:37:38+09:00",
     "importance": 2
   }
