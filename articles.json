@@ -7268,6 +7268,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "지역 신공항 곳곳 ‘암초’…재원·공사비·주민갈등 ‘산 넘어 산’ - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202607270168",
+    "description": "부지조성 공사는 대우건설이 주간사인 컨소시엄이 기본설계를 진행하고 있다. 부산 8개사와 경남 5개사 등 지역업체 13곳이 참여하고 있다. 이들 업체는 중동전쟁 이후 유가와 원자재 가격 등이 급등하면서 업체별로...",
+    "published_at": "2026-07-28T06:02:00+09:00",
+    "cluster_id": "ee71",
+    "publisher": "kukinews.com",
+    "title_clean": "지역 신공항 곳곳 ‘암초’…재원·공사비·주민갈등 ‘산 넘어 산’",
+    "summary": "신공항 건설 프로젝트에서 재원 부족, 공사비 상승, 주민갈등 등 다양한 난제가 발생하고 있으며, 지역 건설업체들이 유가·원자재 가격 급등으로 어려움을 겪고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T06:10:11+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23198,22 +23214,6 @@
     "title_clean": "대우건설, 1.4조 규모 상도15구역 재개발 수주",
     "summary": "대우건설이 서울 동작구 상도15구역 재개발사업의 시공사로 선정되어 1조 4000억 원 규모의 수주를 확보했다. 동작구 내 최대 규모 재개발 사업으로, 건설업계의 대형 프로젝트 수주 사례이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-20T17:29:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "현대건설, 35억 달러 수주로 1위…중공업 등 삼성家 상위권 차지 [상반기 해외건설 결산] - 한국금융신문",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tal83ekMwcV9zQzVjc1dyU0cyZmcwd3RhMS0zSG1kRlViRC1hMFlpWEhKeEV2eVZHeldJMjRvMzBBZzhMbHBnYWVnOHpUbFNVSTFxQnFfWmcyU3pja2E4V3JLXzJobDdIcUpfMlBDVFQwbWpnWENfNW00Mzc?oc=5",
-    "description": "올해 상반기 국내 기업의 해외건설 수주액이 112억 달러를 넘어섰다. 지난해 체코 원전 사업에 따른 기저효과와 중동 지역의 지정학적 불확실성으로 전체 수주액은 감소했지만, 북미 지역 대형 플랜트 사업이 실적을 지탱했다.업체별로는 현대건설이 35억 달러를 수주하며 1위에 올랐다. 삼성중공",
-    "published_at": "2026-07-20T17:20:17+09:00",
-    "cluster_id": "7e58",
-    "publisher": "한국금융신문",
-    "title_clean": "현대건설, 35억 달러 수주로 1위…중공업 등 삼성家 상위권 차지 [상반기 해외건설 결산]",
-    "summary": "올해 상반기 국내 기업의 해외건설 수주액이 112억 달러를 기록했으며, 현대건설이 35억 달러로 1위를 차지했다. 지난해 기저효과와 중동 지정학적 불확실성으로 전체 수주액은 감소했지만, 북미 지역 대형 플랜트 사업이 실적을 지탱했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-20T17:29:07+09:00",
     "importance": 2
   },
