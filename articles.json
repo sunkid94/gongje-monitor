@@ -23522,6 +23522,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[Who Is ?] 정도원 삼표그룹 회장 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443112",
+    "description": "이후 꾸준한 성장세를 이어오던 삼표그룹은 다시 국내 건설경기 침체 장기화라는 악재에 부딪혀있다. 그룹의 지주사 역할을 하는 삼표산업의 연결 기준 매출은 2023년 1조6619억 원에서 2024년 1조5958억 원으로 소폭...",
+    "published_at": "2026-07-29T08:10:00+09:00",
+    "cluster_id": "5230",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[Who Is ?] 정도원 삼표그룹 회장",
+    "summary": "정도원 삼표그룹 회장에 대한 인물 소개 기사로, 삼표그룹이 국내 건설경기 침체로 인한 악재에 직면하고 있으며 2023년 대비 2024년 매출이 소폭 감소했음을 보도하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-29T08:13:47+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[Who Is ?] 차정훈 엠케이전자 회장 겸 한국토지신탁 회장 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442306",
+    "description": "그러나 건설경기 악화가 한국토지신탁을 비롯한 금융·건설 부문 계열사들의 실적 부진으로 이어지며 연결 기준 실적의 변동성을 키웠다. 연결 법인들의 재무 건전성 악화가 엠케이전자의 투자 재원 확보나...",
+    "published_at": "2026-07-29T08:10:00+09:00",
+    "cluster_id": "faf3",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[Who Is ?] 차정훈 엠케이전자 회장 겸 한국토지신탁 회장",
+    "summary": "건설경기 악화로 인해 한국토지신탁 등 엠케이전자 계열사들의 실적이 부진하고 있으며, 연결 법인들의 재무 건전성 악화가 심화되고 있다. 이는 모기업의 투자 재원 확보에도 부정적 영향을 미치고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-29T08:13:47+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32216,36 +32248,6 @@
     "summary": "대구시가 폭염기 건설현장의 온열질환과 추락사고 예방을 위해 안전관리를 강화하고 있다. 3월부터 추락사고 위험이 높은 현장을 대상으로 촘촘한 현장 안전망을 구축하여 운영 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-07-24T09:14:36+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "스마트도시산업 통계 특수분류 제정으로 산업육성 토대 마련한다 - 한국부동산신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKRWVGeEwtSDAyalU0eFZFTnhOUkp6cXFSUW5NREhBRlRuSEpiOHBLNktJS21OcjVRWFgzUk1pbUtQZmE2MkZTaWhMMEJ2Q3lyN1oxSFNKaTBSWjdzWWNWMldPQ0doTDdp?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKRWVGeEwtSDAyalU0eFZFTnhOUkp6cXFSUW5NREhBRlRuSEpiOHBLNktJS21OcjVRWFgzUk1pbUtQZmE2MkZTaWhMMEJ2Q3lyN1oxSFNKaTBSWjdzWWNWMldPQ0doTDdp?oc=5\" target=\"_blank\">스마트도시산업 통계 특수분류 제정으로 산업육성 토대 마련한다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국부동산신문</font>",
-    "cluster_id": "96bf",
-    "publisher": "한국부동산신문",
-    "title_clean": "스마트도시산업 통계 특수분류 제정으로 산업육성 토대 마련한다",
-    "summary": "정부가 스마트도시산업에 대한 통계 특수분류를 새로 제정하여 산업 육성의 기반을 마련했다. 이는 스마트도시산업의 규모와 중요성을 체계적으로 파악하고 정책 수립을 지원할 수 있는 토대가 될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-24T09:10:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "충남도, 건설현장 품질관리 강화로 부실공사 예방한다 - 누리일보",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kR2VYaTBWd3hycnJnUTB2Q2lfVmxqdE1tM3NVSkhvbXFqRGxLSjhlTHpYd21LbVBHZjR3Wkg1a1dHak1JcGtuMWlxNDl2UGFJd2xvMEMtejdnTGNTQTJJ?oc=5",
-    "description": "(누리일보) 충남도는 24일 도 인재개발원에서 ‘건설공사 품질관리 실무 및 건축구조 교육’을 실시했다. 이번 교육은 시군 건축·안전 담당 공무원, 건축공사 관계자를 대상으로 건설현장의 품질관리 역량을 높이고, 건축구조 분야의 전문성을 강화해 부실시공 예방 및 안전한 건축환경을 조성하기 위해 마련했다. 교육에서는 △건설",
-    "cluster_id": "e92a",
-    "publisher": "누리일보",
-    "title_clean": "충남도, 건설현장 품질관리 강화로 부실공사 예방한다",
-    "summary": "충남도가 건설현장 품질관리 강화를 위해 시군 공무원과 건축공사 관계자를 대상으로 품질관리 및 건축구조 교육을 실시했다. 부실시공 예방과 안전한 건축환경 조성을 목표로 전문성 강화에 나섰다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-24T08:39:43+09:00",
     "importance": 4
   }
 ]
