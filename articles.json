@@ -23250,6 +23250,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "볼보그룹코리아, ‘볼보 뉴홈 빌더즈’ 3기 모집 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40943",
+    "description": "[건설이코노미뉴스]세계적인 굴착기 제조업체 볼보그룹코리아(볼보건설기계코리아)가 한국해비타트와 함께 주거 취약계층의 안전하고 건강한 생활환경 조성을 위한 활동에 참여할 대학생 봉사단 ‘볼보 뉴홈 빌더즈(Volvo New Home Builders)’ 3기 단원 30명을 전국에서 모집한다. 이번 모집은 양사가 공동 추진하는 대표 사회공헌 프로그램 ‘볼보 뉴홈 프로젝트(Volvo New Home Project)’ 5호의 일환으로 진행된다.‘볼보 뉴홈 빌더즈’는 미래 세대인 대학생들이 프로젝트에 직접 참여해 주거 복지의 중요성을 이해하고 지",
+    "published_at": "2026-07-28T12:15:24+09:00",
+    "cluster_id": "2d40",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "볼보그룹코리아, ‘볼보 뉴홈 빌더즈’ 3기 모집",
+    "summary": "볼보그룹코리아가 한국해비타트와 함께 주거 취약계층을 지원하는 사회공헌 프로그램의 일환으로 대학생 봉사단 '볼보 뉴홈 빌더즈' 3기 30명을 모집한다. 이는 양사가 공동 추진하는 '볼보 뉴홈 프로젝트' 5호 사업의 일환이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-28T12:16:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32220,21 +32236,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-23T15:09:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[기업 공시] 계룡건설, 시흥 거모 개발사업 PF 660억원 채무보증…리파이낸싱 지원 - 이슈밸리",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tZUNDRE05cGhlUUNuOEUxMVY3RXJ3QzRyZHhkVEZkNkVkY2RlTk51ZUJFREFxZ0JZemtZcFMtZjk5Q2lWNzMzbnVZRTlGT3FEQUNmZEh5NnBieVE5bzRFU0hFakFLMTZCWFZLbVhR?oc=5",
-    "description": "[이슈밸리=경제산업팀] 계룡건설이 자회사인 시흥거모피에프브이(PFV)가 추진하는 경기도 시흥시 거모동 개발사업의 프로젝트파이낸싱(PF) 대출에 대해 660억원 규모의 채무보증을 제공한다.계룡건설은 23일 공시를 통해 시흥거모피에프브이에 대한 660억원 규모 채무보증을 결정했다고 밝혔다. 이는 2025년 말 연결 기준 자기자본(9,908억9,000만원)의 6.66%에 해당한다.채권자는 전북은행이며, 이번 보증은 시흥시 거모동 15-0번지 일원에서 추진 중인 개발사업 PF 대출과 관련한 연대보증 및 책임준공 미이행 시 조건부 채무인수를",
-    "published_at": "2026-07-23T14:56:22+09:00",
-    "cluster_id": "5e9d",
-    "publisher": "이슈밸리",
-    "title_clean": "[기업 공시] 계룡건설, 시흥 거모 개발사업 PF 660억원 채무보증…리파이낸싱 지원",
-    "summary": "계룡건설이 자회사 시흥거모PFV의 경기도 시흥시 거모동 개발사업 PF 대출에 대해 660억원 규모의 채무보증을 제공하기로 결정했다. 이는 자기자본의 6.66%에 해당하며, 전북은행을 채권자로 하는 리파이낸싱 지원이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-23T15:09:56+09:00",
-    "importance": 4
   }
 ]
