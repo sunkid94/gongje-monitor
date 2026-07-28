@@ -7490,6 +7490,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 강남원효성빌라 재건축 사업 시공사 해지 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2608469",
+    "description": "이투데이=이세령 기자 | 시공사 선정 후 1년 만에 취소 결정 대우건설 \"소송 등 법적 절차 진행\" 대우건설은 28일 공시를 통해 “강남원효성빌라 재건축정비사업조합 총회에서 당사에 대한 시공사 선정 취소가 결정됐다”...",
+    "published_at": "2026-07-28T18:30:00+09:00",
+    "cluster_id": "aabc",
+    "publisher": "etoday.co.kr",
+    "title_clean": "대우건설, 강남원효성빌라 재건축 사업 시공사 해지",
+    "summary": "대우건설이 강남원효성빌라 재건축사업의 시공사 선정 취소 결정을 받았다. 시공사 선정 1년 만의 취소로 법적 분쟁이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T18:33:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23415,22 +23431,6 @@
     "publisher": "newspim.com",
     "title_clean": "준공 5년 이하 아파트, 전국 시장 상승세 주도",
     "summary": "준공 5년 이하의 신축 아파트가 전국 부동산 시장의 상승세를 주도하고 있다. 현대산업개발은 김해 신문 센트럴 아이파크(1,379가구)를 분양 중이며, 계약금 5%와 중도금 무이자 조건을 적용하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T10:30:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "전국 아파트 시장 연령별 양극화…준공 5년 이하 단지 상승세 주도 - geconomy.co.kr",
-    "link": "https://www.geconomy.co.kr/news/article.html?no=322019",
-    "description": "IPARK현대산업개발은 경남 김해시 신문동 일원에 건립되는 ‘김해 신문 센트럴 아이파크’를 분양 중이다. 지하 2층~지상 25층, 13개 동, 총 1,379가구의 대단지로 조성된다. 단지가 들어서는 장유신문지구는 약 55만 6270...",
-    "published_at": "2026-07-22T10:20:00+09:00",
-    "cluster_id": "4b86",
-    "publisher": "geconomy.co.kr",
-    "title_clean": "전국 아파트 시장 연령별 양극화…준공 5년 이하 단지 상승세 주도",
-    "summary": "현대산업개발이 경남 김해시에 1,379가구 규모의 대단지 아파트를 분양 중이며, 전국 아파트 시장에서 준공 5년 이하의 신규 단지가 상승세를 주도하고 있다. 신규 대단지 조성으로 건설 수주 기회가 창출되고 있는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-22T10:30:17+09:00",
     "importance": 2
