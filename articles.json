@@ -23299,6 +23299,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "정읍시, 제2차 민간사업장 산업재해 예방교육 - 전민일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14TDlYZ3Z2TUVSV2tGcDVaSmhaalI0TTlZQ1AxekhDcmIzXzZZMFhoQjFUcm1LYTV4dFg2OEdBczN4TEp2eEwtT1RFWWFON2w4anVkMG92eTJnTU1PU2ktZGZ4MlYxT2x0OVJJ?oc=5",
+    "description": "정읍시가 지난 24일 연지아트홀에서 관내 건설업 사업주와 안전보건담당자를 대상으로 2026년도 제2차 민간사업장 산업재해 예방교육을 실시했다.이번 교육은 건설 현장에서 발생할 수 있는 중대재해를 예방하고, 사업장 유해·위험 요인을 발굴·개선하는 자기규율 예방체계 구축 지원을 위해 마련됐다.또한 여름철 야외 작업이 많은 건설 현장의 특성을 고려해 온열질환 대응 교육도 함께 진행됐다.강의는 한국산업안전보건공단 전북지역본부 정효석 건설보건부장이 맡았다. 주요 내용은 △건설 현장 중대재해 발생 사례와 대응 방법 △위험성 평가를 통한 유해·",
+    "published_at": "2026-07-28T22:38:06+09:00",
+    "cluster_id": "894a",
+    "publisher": "전민일보",
+    "title_clean": "정읍시, 제2차 민간사업장 산업재해 예방교육",
+    "summary": "정읍시가 건설업 사업주와 안전보건담당자를 대상으로 산업재해 예방교육을 실시했다. 중대재해 예방, 유해·위험 요인 개선, 온열질환 대응 등을 주요 내용으로 진행됐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T22:53:52+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "폴더스, 재해예방 기술지도 AI 자동화 플랫폼 '지도비서' 출시 - 한국AI부동산신문",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iZDNCS3pWc3AyZVdQMkZXN0pTVFZtVnR1XzdkSDlkaEhFQXZwdzN2WDZrYUIxMUlTaTNpaE9YYXZtZ3h5MVdNOElaaXQ?oc=5",
     "description": "건설안전 솔루션 기업 폴더스가 건설재해예방 기술지도 기관의 결과보고서 작성을 지원하는 AI 플랫폼",
@@ -32230,21 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T19:39:29+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, AI·로보틱스 분야 스타트업 12곳 선발 - 데일리한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmWUxXM1Q0RW5IRGRPWWJTSzNuamxIb0hlaGRiUDBNQk8zbjVMTE1pN0l6Ync2YlJib3hUd09Wb2hzUHBuNjVmZHJ0Uk93Si1JZzRRZFVmeE50NENlQVlMOEVxMTAxanhLemJXZlhEd9IBc0FVX3lxTFB5Q2R0WV9aWDZhNE8yckJ2UjNkME9salVvVGtnQWVGWHRXMmVDSDRib0dXU3hEQVRmY0NQUDdNSzBIanlycXpKYU9zcHZFaENrQTlrdFB1UkZZTGtqYzllNnM4T09PbkZTVFBSbEg2c01mZXc?oc=5",
-    "description": "[데일리한국 김하수 기자] 현대건설은 서울시 창업지원기관인 서울경제진흥원과 공동 주관한",
-    "published_at": "2026-07-23T19:14:54+09:00",
-    "cluster_id": "bc61",
-    "publisher": "데일리한국",
-    "title_clean": "현대건설, AI·로보틱스 분야 스타트업 12곳 선발",
-    "summary": "현대건설이 서울경제진흥원과 공동으로 AI·로보틱스 분야 스타트업 12곳을 선발했다. 건설업의 디지털 혁신과 기술 고도화를 통해 산업 경쟁력 강화에 나서고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T19:39:29+09:00",
-    "importance": 2
   }
 ]
