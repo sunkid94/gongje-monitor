@@ -7558,6 +7558,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대전 유성구, 민관 손잡고 도로 열섬·비산먼지 잡는다… - breaknews.com",
+    "link": "http://www.breaknews.com/1225167",
+    "description": "이를 위해 유성구는 현대건설(주), (주)대우건설, (주)서해종합건설, GS건설(주) 등 관내 대형 현장을 시공 중인 건설사 4곳과 민관 협력 체계를 구축했다. 시공사 측은...",
+    "published_at": "2026-07-29T03:46:00+09:00",
+    "cluster_id": "f71b",
+    "publisher": "breaknews.com",
+    "title_clean": "대전 유성구, 민관 손잡고 도로 열섬·비산먼지 잡는다…",
+    "summary": "대전 유성구가 현대건설, 대우건설, 서해종합건설, GS건설 등 4개 건설사와 민관 협력체계를 구축하여 도로 열섬과 비산먼지 문제 해결에 나선다. 건설사들이 환경개선 사업에 참여하게 되면서 지역 환경관리와 건설현장 관리가 강화될 전망이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-29T03:58:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -32229,22 +32245,6 @@
     "summary": "기계설비의날 11회 기념식이 서울에서 개최되어 기계설비인 500여 명이 참석했다. 국토교통부 차관과 국회의장 등 고위 정치인들이 참석해 기계설비산업 발전과 유공자 포상을 논의했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-23T23:22:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "캠코, 공공개발사업장 AI 기반 안전관리 강화…중대재해 예방 체계 구축 - 위키트리",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MOWI3UWVWRmlud3NWLWhCRW9Uc09Ya29SaWZvdm1YekxYV0dJdHJfc1BuYWprY2Y2ZE81c3JZV3BKWENNVjRKbE1zRHZCa2tsOG9rajVB?oc=5",
-    "description": "- 건설부터 준공까지 전 과정 안전보건관리 강화,- '안전의식 100%, 안전사고 0%' 슬로건 선포,- 특별 안전교육·경영진 점검 통해 현장 안전문화 확산",
-    "published_at": "2026-07-23T23:00:00+09:00",
-    "cluster_id": "621b",
-    "publisher": "위키트리",
-    "title_clean": "캠코, 공공개발사업장 AI 기반 안전관리 강화…중대재해 예방 체계 구축",
-    "summary": "캠코가 공공개발사업장에 AI 기반 안전관리 시스템을 도입하여 건설 전 과정의 안전보건관리를 강화하고 있다. '안전의식 100%, 안전사고 0%' 슬로건 선포와 함께 특별 안전교육 및 경영진 점검을 통해 중대재해 예방 체계를 구축 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T23:09:45+09:00",
     "importance": 2
   }
 ]
