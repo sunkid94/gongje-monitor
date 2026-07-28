@@ -7541,6 +7541,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 3387억 강남원효성빌라 재건축 시공사 취소에 \"소송 제기 등 법적 대응\" - 데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZHprTEV1cl9YX0RBNGNBM1NRU19QYWQ4aExQTDJtOHJVRzNBbUsyalJTakZyTlNWMzV5Umt0LUktNG4xRWxFbUxBd0N4a2kzUC1TSXJGRDZCd1ZkaGF4T2ZHNmZQTXhnMXFYN0Ntd2s2SVk?oc=5",
+    "description": "대우건설은 강남원효성빌라 재건축정비사업조합의 총회에서 당사에 대한 시공사 선정 취소가 결정되었다고 2026년 7월 28일 투자판단 관련 주요경영사항을 통해 공시했다.이번에 시공사 선정이 취소된 강남원효성빌라 재건축정비사업의 최초 시공사 선정일은 2025년 6월 14일이며, 본 사업의 공",
+    "published_at": "2026-07-28T17:25:44+09:00",
+    "cluster_id": "fcd0",
+    "publisher": "데이터투자",
+    "title_clean": "대우건설, 3387억 강남원효성빌라 재건축 시공사 취소에 \"소송 제기 등 법적 대응\"",
+    "summary": "대우건설이 강남원효성빌라 재건축정비사업(3387억 규모)의 시공사 선정 취소 결정에 대해 소송 제기 등 법적 대응을 진행할 계획입니다. 2025년 6월 선정되었던 시공사 지위가 총회 결의로 취소되었습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T23:39:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T20:04:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, AI·로봇 ‘이종 관제’ 시스템 구축···스마트 건설 선두 주자로 - 여성경제신문",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5ZDgxS0VITDZQcGxhUGVmcnNtVThzT2RsNmstREV5ellQYTFLRUxqaC1KR2lXS3JqMVFVX0RtcmlKSnpybVFEeldxQWNBY2tIdUZXdUc2bnNoOWtiZ3lyNnBUc0hyVG0xR2RYYmRCNUp6eHPSAXdBVV95cUxOUUFVblRBZ2dRa3lqN3pGNzFfXzNhY3NNRS1sNnlscnpUMGdRQklZLVFVY05WZHNyY2RfOG83elc4ZGtwdm9aSHJOQkl2dFVOaERQWTVPU0t2V2s0LWJ3NnJ1N0Y2dVNmVW1NcVdRVzByaUhiV1Uycw?oc=5",
-    "description": "롯데건설이 인공지능(AI)과 자율주행 로봇을 실제 시공 현장에 투입하며 스마트 건설 기술의 실증 단계에 들어갔다. 단순히 개별 장비를 시험하는 수준을 넘어 감리기록 관리, 결함 탐지, 자재 운반, 중장비 관제 등 현장 운영 전반을 데이터 기반으로 연결하는 구조다.23일 롯데건설에 따르면 회사는 창업진흥원과 서울경제진흥원(SBA)이 주관하는 오픈이노베이션 지원사업을 통해 최대 6억2000만원 규모의 기술실증(PoC) 지원금을 확보했다. 올해 창업진흥원이 공고한 3개 오픈이노베이션 프로그램에 총 5개의 협업 과제를 신청해 모두 최종 선",
-    "published_at": "2026-07-23T16:56:52+09:00",
-    "cluster_id": "620b",
-    "publisher": "여성경제신문",
-    "title_clean": "롯데건설, AI·로봇 ‘이종 관제’ 시스템 구축···스마트 건설 선두 주자로",
-    "summary": "롯데건설이 AI와 자율주행 로봇을 실제 건설 현장에 투입하여 감리, 결함 탐지, 자재 운반 등 현장 운영 전반을 데이터 기반으로 통합 관제하는 스마트 건설 시스템을 구축했다. 창업진흥원과 SBA로부터 6억2000만원의 기술실증 지원금을 확보하며 차세대 건설기술 선도에 나섰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T20:00:03+09:00",
-    "importance": 2
   }
 ]
