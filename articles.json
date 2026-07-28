@@ -7319,6 +7319,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[포토뉴스] 대전 유성구, 폭염·비산먼지 완화 '대형공사장 살수차' 운영 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1390070",
+    "description": "유성구는 현대건설(주)·(주)대우건설·(주)서해종합건설·GS건설(주) 등 관내 대형공사장 시공사 4곳과 협력 체계를 구축했으며 공사장 살수차 5대를 투입할 예정이다. 살수차는 폭염주의보 또는 폭염경보 등 폭염특보 발효...",
+    "published_at": "2026-07-28T14:50:00+09:00",
+    "cluster_id": "9d20",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "[포토뉴스] 대전 유성구, 폭염·비산먼지 완화 '대형공사장 살수차' 운영",
+    "summary": "대전 유성구가 현대건설, 대우건설 등 4개 대형공사장과 협력하여 살수차 5대를 투입, 폭염과 비산먼지 완화에 나선다. 이는 공사장 환경개선을 위한 행정 지원 조치이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-28T14:54:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23249,19 +23265,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "광주 신가재개발 '래미안' 들어서나…삼성물산과 협의 본격화 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026072115345485654",
-    "description": "기존 시공사는 DL이앤씨·롯데건설·GS건설·SK에코플랜트·한양으로 구성된 빛고을사업단이다. 조합과 사업단은 공사비를 3.3㎡당 445만원에서 706만원으로 조정하는 데 합의했지만, 일반분양가를 놓고 이견을 좁히지...",
-    "published_at": "2026-07-21T15:41:00+09:00",
-    "cluster_id": "3baa",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "광주 신가재개발 '래미안' 들어서나…삼성물산과 협의 본격화",
-    "summary": "광주 신가재개발 사업에서 시공사 변경 논의가 진행 중이며, 삼성물산과의 협의가 본격화되고 있다. 기존 빛고을사업단과 조합 간 공사비 조정에는 합의했으나 분양가 협상이 진행 중인 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-21T15:50:07+09:00",
+    "title": "GS건설, 濠 NEL 터널 굴착 완료… 글로벌 인프라 시장 공략 속도 - cnbizm.com",
+    "link": "https://www.cnbizm.com/news/articleView.html?idxno=309804",
+    "description": "국내 건설경기침체가 이어지는 가운데 GS건설을 비롯한 대형 건설사들은 해외 인프라 PPP 사업으로 활로를 모색하고 있다. 호주는 도로·철도 등 대규모 인프라 투자가 이어지고 있어, 이번 이정표 달성이 향후...",
+    "published_at": "2026-07-28T14:50:00+09:00",
+    "cluster_id": "3e77",
+    "publisher": "cnbizm.com",
+    "title_clean": "GS건설, 濠 NEL 터널 굴착 완료… 글로벌 인프라 시장 공략 속도",
+    "summary": "GS건설이 호주 NEL 터널 굴착을 완료하며 해외 인프라 사업 진전을 보였다. 국내 건설경기 침체 속에서 대형 건설사들이 호주의 도로·철도 등 대규모 인프라 PPP 사업을 통해 해외 시장 진출을 가속화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-28T14:54:40+09:00",
     "importance": 2
   },
   {
@@ -32216,21 +32232,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-23T15:39:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[현장에서] '40년 전 후퇴' 시멘트업계 정부 지원 절실 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260723000854",
-    "description": "건설경기 침체 장기화에 '건설의 쌀'로 불리는 시멘트 수요가 40년전인 1980년대로 돌아갔다고 한다. 한국시멘트협회에 따르면 지난해 국내 시멘트 출하량은 3810만 톤(t)으로, 4000만t을 돌파한 1991년 이후 처음으로 4000만t...",
-    "published_at": "2026-07-23T15:30:00+09:00",
-    "cluster_id": "8b3d",
-    "publisher": "newspim.com",
-    "title_clean": "[현장에서] '40년 전 후퇴' 시멘트업계 정부 지원 절실",
-    "summary": "건설경기 침체로 시멘트 수요가 1980년대 수준으로 급락했으며, 시멘트 출하량이 1991년 이후 처음으로 4000만 톤 이하로 내려갔다. 시멘트업계가 정부 지원을 요청하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-23T15:39:26+09:00",
-    "importance": 4
   }
 ]
