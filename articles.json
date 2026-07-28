@@ -23441,6 +23441,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'CB부터 회사채까지' 버티는 현대건설·SK에코…건설사 수익성·재무건전성 ‘이중 압박’ - 오피니언뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SMzdtYUVPWUdWeGRwdkVENUtXVXhCcWlDYndGQjFCRmVLLVRiQ2xIekdPc1NiSUUzcWJSLU9neUNlaUhwTVUtbDZiSTQzQVAtNjhNZ1BwaGJfQlQzLXo0bzhGbDdESmxOcGsxUmUzX1d3dw?oc=5",
+    "description": "[오피니언뉴스=김기범 기자] 한국은행이 3년 6개월 만에 기준금리를 인상한 데 이어 공사비와 국제유가까지 오르면서 건설업계의 수익성과 재무 부담이 커지고 있다. PF 금융비용과 자재·운송비 상승에 주택 수요 둔화까지 겹치면 지방·중소 건설사의 경영난이 심화할 수 있다는 우려가 나온다.28일 업계에 따르면 한국은행 금융통화위원회는 지난 16일 기준금리를 연 2.50%에서 2.75%로 0.25%포인트 올렸다. 원화 약세와 가계부채 증가, 부동산 가격 상승 등을 고려해 추가 인상에 나설 가능성도 열어뒀다.시장에서는 한국은행이 연내 기준금",
+    "published_at": "2026-07-28T15:24:41+09:00",
+    "cluster_id": "e706",
+    "publisher": "오피니언뉴스",
+    "title_clean": "'CB부터 회사채까지' 버티는 현대건설·SK에코…건설사 수익성·재무건전성 ‘이중 압박’",
+    "summary": "한국은행의 기준금리 인상(2.50% → 2.75%)과 공사비, 국제유가 상승으로 건설업계의 수익성이 악화되고 재무 부담이 증가하고 있다. PF 금융비용 상승, 자재·운송비 인상, 주택 수요 둔화가 겹치면서 지방·중소 건설사의 경영난 심화가 우려된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-29T03:28:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32230,22 +32246,6 @@
     "summary": "국토안전관리원과 국가철도공단이 남부내륙철도 건설사업에 스마트 안전장비를 적용하기 위한 업무협약을 체결했다. 건설현장의 안전사고 예방과 스마트 안전관리 체계 확산을 목표로 협력하기로 합의했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T23:04:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "인천항만공사, 폭염 속 건설현장 점검…안전물품 전달 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SQnM3d0cyYlRNaFlMLUcweFhpWU9jc19DUWo3a3h4WWRTVU5pQUd3R3M0NHBEUnZQRmMzcE5HVW42VjdNaGI5VlptZFpjYWJjOTd6SmxqcWk2Z2xiSWRVREdnamh1YjNLR3NEUWd3?oc=5",
-    "description": "(인천=국제뉴스) 이병훈 기자 = 인천항만공사가 최근 이어진 무더위에 대응해 인천항 내 건설현장 근로자들의 온열질환 예방을 위한 현장 점검과 위문 활동을 진행했다.인천항만공사는 이달 13일부터 21일까지 갑문보수공사 등 8개 건설현장을 방문해 근로자들을 위문하고, 폭염에 따른 온열질환 예방수칙 준수 여부를 점검했다고 밝혔다.이번 점검에서는 물과 냉방장치 제공, 휴식시간 보장, 보냉장구 비치, 119 신고 체계 구축, 체감온도 측정 및 조치사항 기록 등 폭염안전 5대 기본수칙 이행 실태를 집중적으로 확인했다. 미흡한 부분이 발견된 현",
-    "published_at": "2026-07-23T22:51:10+09:00",
-    "cluster_id": "e8e5",
-    "publisher": "gukjenews.com",
-    "title_clean": "인천항만공사, 폭염 속 건설현장 점검…안전물품 전달",
-    "summary": "인천항만공사가 폭염 대응으로 항내 8개 건설현장을 점검하여 근로자들의 온열질환 예방 상황을 확인했다. 물 제공, 냉방장치, 휴식시간 등 폭염안전 5대 기본수칙 이행 실태를 집중 점검하고 미흡한 부분에 대해 개선 조치를 진행했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T22:59:47+09:00",
     "importance": 2
   }
 ]
