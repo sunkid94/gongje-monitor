@@ -7336,6 +7336,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한화오션 2분기 역대급 '상선 영업이익률'은 3년 전 수주 공백 덕? 김동... - huffingtonpost.kr",
+    "link": "https://www.huffingtonpost.kr/article/259064",
+    "description": "실적을 발표한 삼성중공업의 2분기 영업이익률은 10% 안팎으로 잠정집계됐다. 한화오션이 단순히 영업이익률 1위를 기록한 것을 넘어 격차도 적지 않게 벌리게 됐다. 한화오션이 상선 부문에서 우수한 수익성을...",
+    "published_at": "2026-07-28T15:20:00+09:00",
+    "cluster_id": "10de",
+    "publisher": "huffingtonpost.kr",
+    "title_clean": "한화오션 2분기 역대급 '상선 영업이익률'은 3년 전 수주 공백 덕? 김동...",
+    "summary": "한화오션이 2분기 상선 부문에서 역대급 영업이익률을 기록하며 삼성중공업(10% 수준)을 크게 앞서갔다. 3년 전 수주 공백으로 인한 구조적 이점이 현재의 우수한 수익성으로 이어진 것으로 분석된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-28T15:24:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23266,19 +23282,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "\"반대 동 제척\" 명일동 삼익맨숀의 이례적 재건축 실험 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260721000930",
-    "description": "2024년에는 대우건설을 시공사로 선정했다. 갈등은 단지에서 가장 큰 평형으로 구성된 5동 소유주들이 자산가치 평가에 문제를 제기하면서 본격화됐다. 5동 측은 다른 동보다 대지지분을 많이 보유한 만큼 권리가액과...",
-    "published_at": "2026-07-21T16:16:00+09:00",
-    "cluster_id": "7e06",
-    "publisher": "newspim.com",
-    "title_clean": "\"반대 동 제척\" 명일동 삼익맨숀의 이례적 재건축 실험",
-    "summary": "명일동 삼익맨숀에서 재건축 과정 중 5동 소유주들이 자산가치 평가를 문제 삼으며 갈등이 발생했다. 대우건설이 2024년 시공사로 선정되었으나 대지지분 배분을 둘러싼 분쟁이 본격화되고 있다.",
+    "title": "상반기 해외건설 수주 20년만에 최저···중동 변수가 하반기 ‘좌우’ - 이뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pUUpxMmI5cnIyUUVoWkdUSzJ1Tll1b3dPYW9XTGdQcEtweXhTY3NURWR1LWh4Nzd1QTJaaVcxLWZTRnpiQ002a1hIRnpfc1NOckttZnZjOWZzeTV2bGY2OGMxNnNrN3QwZDROc1UyczXSAXRBVV95cUxPcDJUTVRFWEFaanQzS2pMdVBkNG5tYi00TFZKcmhYVjZGZzE2cXZELXRwbUF1OVdjdzVoOWp5UzRDN0RjUE5uay0xWmxDSmhPVnM5WHl0dUlDOVRJRFlKRTljTFdyS1hURDUyLUZqZjlHV29EbA?oc=5",
+    "description": "[이뉴스투데이 신지원 기자] 올해 상반기 해외건설 수주액이 지난해 동기 대비 63.6% 감소하며 20년만에 최저치를 기록했다. 지난해 체코 원전 수주에 따른 기저효과가 반영된데다 중동과 유럽 지역의 대형 프로젝트 발주가 크게 줄어든 영향이다. 업계는 하반기 미국·이란 갈등에 따른 중동",
+    "published_at": "2026-07-28T15:09:48+09:00",
+    "cluster_id": "a9c4",
+    "publisher": "이뉴스투데이",
+    "title_clean": "상반기 해외건설 수주 20년만에 최저···중동 변수가 하반기 ‘좌우’",
+    "summary": "올해 상반기 해외건설 수주액이 지난해 동기 대비 63.6% 감소하며 20년만에 최저치를 기록했다. 체코 원전 수주 기저효과와 중동·유럽 지역 대형 프로젝트 발주 감소가 주요 원인이며, 하반기는 미국·이란 갈등 등 중동 변수에 따라 좌우될 것으로 예상된다.",
     "sentiment": "negative",
-    "collected_at": "2026-07-21T16:30:16+09:00",
+    "collected_at": "2026-07-28T15:24:34+09:00",
     "importance": 4
   },
   {
@@ -32218,21 +32234,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T15:49:58+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설교통신기술협회, 제25회 건설교통기술의 날 포상후보 접수 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231112428410234",
-    "description": "행사는건설신기술 제도가 도입된 건설기술관리법 시행일 1989년 5월 1일을 기려 매년 4월 마지막 주 목요일에 열린다. 신기술 유공자 포상은 지난 2005년부터 건설신기술의 개발ㆍ활용 촉진에 기여한 단체와 개인에게...",
-    "published_at": "2026-07-23T15:40:00+09:00",
-    "cluster_id": "207c",
-    "publisher": "대한경제",
-    "title_clean": "건설교통신기술협회, 제25회 건설교통기술의 날 포상후보 접수",
-    "summary": "건설교통신기술협회가 제25회 건설교통기술의 날 포상후보를 접수 중이다. 1989년 건설신기술 제도 도입을 기념하여 매년 개최되는 행사로, 신기술 개발·활용에 기여한 단체와 개인을 포상한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T15:49:58+09:00",
-    "importance": 2
   }
 ]
