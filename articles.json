@@ -7558,6 +7558,38 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설을 넘어 에너지 인프라 선도… 대우건설, K-원전 주역으로 뛴다 - hankookilbo.com",
+    "link": "https://www.hankookilbo.com/news/article/A2026072814260005038?did=NA",
+    "description": "대우건설이 체코에 이어 베트남, 인도네시아 등으로 원전 사업을 확대하며 K-원전의 핵심 주자로 나서고 있다. 대우건설은 한국수력원자력 주도의 팀코리아 시공 주간사로 체코 두코바니 신규 원전 건설에 참여하며...",
+    "published_at": "2026-07-29T04:32:00+09:00",
+    "cluster_id": "99e9",
+    "publisher": "hankookilbo.com",
+    "title_clean": "건설을 넘어 에너지 인프라 선도… 대우건설, K-원전 주역으로 뛴다",
+    "summary": "대우건설이 체코, 베트남, 인도네시아 등으로 원전 사업을 확대하며 K-원전 핵심 주자로 부상하고 있다. 한국수력원자력 주도의 팀코리아 시공 주간사로 체코 두코바니 신규 원전 건설에 참여 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T04:38:46+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“광운대 역세권 개발해 경제도시로 도약” - donga.com",
+    "link": "https://www.donga.com/news/Society/article/all/20260728/134382929/2",
+    "description": "광운대역세권 개발은 서울 지하철 1호선 광운대역 인근 15만 m² 규모 물류 부지 내 노후 시설을 철거하고 IPARK현대산업개발 본사 등 기업을 유치하는 등 재개발하는 사업이다. 서 구청장은 “대기업 본사 이전뿐 아니라...",
+    "published_at": "2026-07-29T04:35:00+09:00",
+    "cluster_id": "b186",
+    "publisher": "donga.com",
+    "title_clean": "“광운대 역세권 개발해 경제도시로 도약”",
+    "summary": "광운대역세역 인근 15만 m² 규모 노후 물류부지를 재개발하여 대기업 본사 이전 유치 등을 추진하는 사업. 건설·개발 수주 기회와 함께 지역 경제 활성화를 기대할 수 있는 프로젝트.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T04:38:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -32215,36 +32247,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-24T02:09:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국기술교육대, 건설현장 근로자와 안전동행 간담회 개최 - 뉴스충청인",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wSGo3YnpYUERFZm5QTVZCdGNpZm1HWVFVU0VZUHNGX2t4UHgxaFJIQnNIWXMzLXNXU3J4Q0MzRUVXb3BLVlE?oc=5",
-    "description": "(천안=뉴스충청인)김수환기자=한국기술교육대학교가산업안전보건의달을맞아건설현장근로자들과안전동행간담회를열고폭염속안전한작업환경조성과상",
-    "cluster_id": "07bb",
-    "publisher": "뉴스충청인",
-    "title_clean": "한국기술교육대, 건설현장 근로자와 안전동행 간담회 개최",
-    "summary": "한국기술교육대학교가 산업안전보건의 달을 맞아 건설현장 근로자들과 안전동행 간담회를 개최했다. 폭염 속 안전한 작업환경 조성과 근로자 보호 방안을 논의하는 행사다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-24T00:05:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국가철도공단·국토안전관리원 영남본부 안전관리 맞손 - ccnnews.co.kr",
-    "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=412538",
-    "description": "국가철도공단 영남본부는 23일 국토안전관리원 영남지역본부와 '영남지역 건설현장 안전관리 강화를 위한 업무협약(MOU)'을 체결했다고 밝혔다. 이번 협약은 철도공단 영남본부 관내 건설현장에 국토안전관리원이 그동안...",
-    "published_at": "2026-07-23T23:56:00+09:00",
-    "cluster_id": "0d6d",
-    "publisher": "ccnnews.co.kr",
-    "title_clean": "국가철도공단·국토안전관리원 영남본부 안전관리 맞손",
-    "summary": "국가철도공단 영남본부와 국토안전관리원 영남지역본부가 영남지역 건설현장 안전관리 강화를 위한 업무협약을 체결했다. 철도공단 관내 건설현장에 대한 안전관리 감시·감독이 강화될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-24T00:00:13+09:00",
-    "importance": 4
   }
 ]
