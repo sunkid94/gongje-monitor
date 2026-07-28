@@ -23282,6 +23282,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "K-UAM 상용화 모델, 제주서 첫 공개 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37052",
+    "description": "볼로콥터 기체로 관광·공공서비스 시연국토부, 2028년 초기 상용화 목표…인력·제도 논의 정부가 제주에서 도심항공교통(UAM) 초기 상용화 모델을 처음 공개한다. 관광 이동과 도서지역 교통, 응급 수송 등 지역 수요에 맞춘 서비스를 실제 운항 시나리오로 보여주고, 2028년 초기 상용화 준비에 속도를 낸다.국토교통부는 29일 제주 서귀포시 성산읍 섭지코지 일대에서 ‘제주 UAM 서비스 쇼케이스’를 연다. 행사는 휘닉스아일랜드 제주 일원에서 오전 10시40분부터 11시30분까지 진행된다.이번 쇼케이스에서는 제주형 UAM 서비스 모델이",
+    "published_at": "2026-07-28T14:50:00+09:00",
+    "cluster_id": "5643",
+    "publisher": "한국건설신문",
+    "title_clean": "K-UAM 상용화 모델, 제주서 첫 공개",
+    "summary": "정부가 제주에서 도심항공교통(UAM) 초기 상용화 모델을 첫 공개하며 2028년 상용화를 목표로 추진 중이다. 볼로콥터 기체를 활용한 관광, 공공서비스, 응급 수송 등 실제 운항 시나리오를 시연한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-28T15:50:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32219,21 +32235,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-23T16:30:04+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국가철도공단-국토안전관리원,영남 건설현장 스마트 안전관리 강화 맞손 - 한국철도일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jd0tMSUplQmtaOU1RWG5KMFUzaEpGdGJEbGl1QTU3RFVvMWZrdFhDRUFkSGRsYkdaTkFJSHpFVi1ka2JMSTliMXBsYmNHN1liblp0WkpaVFhmRDE5Qi1rRkszYVlhQ3RpWVBPZVl1UXE?oc=5",
-    "description": "[한국철도일보 박지현 기자] 국가철도공단 영남본부는 오늘(23일) 경북 김천시 국토안전교육원에서 국토안전관리원 영남지역본부와 '영남지역 건설현장 안전관리 강화를 위한 업무협약'을 체결했다.이번 협약은 영남본부 관내 철도 건설현장에 스마트 안전관리 체계를 고도화하기 위해 국토안전관리원이",
-    "published_at": "2026-07-23T16:17:15+09:00",
-    "cluster_id": "bf61",
-    "publisher": "한국철도일보",
-    "title_clean": "국가철도공단-국토안전관리원,영남 건설현장 스마트 안전관리 강화 맞손",
-    "summary": "국가철도공단 영남본부와 국토안전관리원이 영남지역 철도 건설현장의 스마트 안전관리 체계 고도화를 위한 업무협약을 체결했다. 이는 건설현장의 안전관리 강화를 목표로 한 협력이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-23T16:30:04+09:00",
-    "importance": 4
   }
 ]
