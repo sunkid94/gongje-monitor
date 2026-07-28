@@ -23505,6 +23505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국건설연맹-건설근로자공제회 정책간담회 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235942",
+    "description": "한국건설연맹(위원장 이승조)이 건설근로자공제회와 정책간담회를 갖고 건설노동자 권리 향상을 위한 단기·중기사업을 제안했다고 28일 밝혔다. 연맹은 지난 27일 오전 서울 중구 공제회에서 열린 간담회에서 신규인력...",
+    "published_at": "2026-07-29T06:34:00+09:00",
+    "cluster_id": "480c",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "한국건설연맹-건설근로자공제회 정책간담회",
+    "summary": "한국건설연맹이 건설근로자공제회와 정책간담회를 열어 건설노동자 권리 향상을 위한 단기·중기 사업을 제안했다. 건설업계의 노동 정책 개선과 근로자 복지 강화를 위한 협력 논의가 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T06:38:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-24T08:04:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[더벨][Company Watch] 수익성 굳건 KCC, 차입 감축에 쏠리는 눈 - thebell.co.kr",
-    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221515407880106449",
-    "description": "KCC는 건자재·도료 등을 주력 사업으로 영위하고 있어 전방인 건설경기 둔화로 타격을 받고 있는 상황이지만, 자동차·선박 도료 사업의 수익성이 뒷받침된 덕분에 상향 트리거를 충족하고 있는 모습이다. KCC의...",
-    "published_at": "2026-07-24T07:02:00+09:00",
-    "cluster_id": "c048",
-    "publisher": "thebell.co.kr",
-    "title_clean": "[더벨][Company Watch] 수익성 굳건 KCC, 차입 감축에 쏠리는 눈",
-    "summary": "KCC는 건설경기 둔화로 건자재·도료 사업이 타격을 받고 있으나, 자동차·선박 도료 사업의 강한 수익성으로 실적을 지탱하고 있다. 차입금 감축에 대한 시장의 관심이 집중되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-24T07:09:50+09:00",
-    "importance": 2
   }
 ]
