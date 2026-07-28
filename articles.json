@@ -23441,6 +23441,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설안전감시단협회·사이버한국외대, 건설안전 전문인력 양성 맞손 - 안전정보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Fcl9NejFkT2VvVXFVLWtvTGZHUmdzSlEwVHNXVXQ0d1FhRG5DYlA1OU14czFwQmtLSzhsMV9iVjJ4dmZtQ29tRnBTdGdIZTQ1eExNYjBlSTRZNmtoRTRtX3p4NWlobzR6ZXpJ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5Fcl9NejFkT2VvVXFVLWtvTGZHUmdzSlEwVHNXVXQ0d1FhRG5DYlA1OU14czFwQmtLSzhsMV9iVjJ4dmZtQ29tRnBTdGdIZTQ1eExNYjBlSTRZNmtoRTRtX3p4NWlobzR6ZXpJ?oc=5\" target=\"_blank\">건설안전감시단협회·사이버한국외대, 건설안전 전문인력 양성 맞손</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
+    "cluster_id": "ea25",
+    "publisher": "안전정보",
+    "title_clean": "건설안전감시단협회·사이버한국외대, 건설안전 전문인력 양성 맞손",
+    "summary": "건설안전감시단협회와 사이버한국외대가 건설안전 전문인력 양성을 위해 협력한다. 이는 건설업계의 안전 인력 기반 강화와 전문성 향상을 도모하는 긍정적 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T03:43:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32230,22 +32245,6 @@
     "summary": "캠코가 공공개발사업장에 AI 기반 안전관리 시스템을 도입하여 건설 전 과정의 안전보건관리를 강화하고 있다. '안전의식 100%, 안전사고 0%' 슬로건 선포와 함께 특별 안전교육 및 경영진 점검을 통해 중대재해 예방 체계를 구축 중이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T23:09:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토안전관리원·국가철도공단, 남부내륙철도 안전관리 강화 맞손 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=40914",
-    "description": "[건설이코노미뉴스] 국토안전관리원(원장 박창근) 영남지역본부는 국가철도공단(부이사장 이안호)과 건설재해 예방 및 스마트 안전관리 체계 확산을 위한 업무협약(MOU)을 체결했다고 최근 밝혔다.이번 협약은 국토안전관리원이 추진하고 있는 '스마트 안전장비 지원사업'을 국가철도공단이 시행 중인 남부내륙철도 건설사업 등 주요 국가 인프라 사업에 접목하기 위해 마련됐다.국토안전관리원은 건설현장의 안전사고 예방을 위해 스마트 안전장비 지원사업을 중점 추진해 왔으며, 이를 통해 현장 중심의 예방적 안전관리 체계 구축에 힘써왔다.양 기관은 이번 협",
-    "published_at": "2026-07-23T22:59:00+09:00",
-    "cluster_id": "fd70",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "국토안전관리원·국가철도공단, 남부내륙철도 안전관리 강화 맞손",
-    "summary": "국토안전관리원과 국가철도공단이 남부내륙철도 건설사업에 스마트 안전장비를 적용하기 위한 업무협약을 체결했다. 건설현장의 안전사고 예방과 스마트 안전관리 체계 확산을 목표로 협력하기로 합의했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T23:04:54+09:00",
     "importance": 2
   }
 ]
