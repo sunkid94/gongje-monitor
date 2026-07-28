@@ -7490,6 +7490,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대미투자 1호, 텍사스 가스복합발전 유력…29조원 투자 추진 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25448861",
+    "description": "삼성물산 등 국내 건설사가 발전소 설계·조달·시공을 맡고, 두산에너빌리티 등이 가스터빈과 발전설비를 공급하는 방식이 거론된다. 향후 가스발전을 보완하기 위한 대용량 에너지저장장치(ESS)가 추가되면 국내...",
+    "published_at": "2026-07-28T18:32:00+09:00",
+    "cluster_id": "aeb1",
+    "publisher": "joongang.co.kr",
+    "title_clean": "대미투자 1호, 텍사스 가스복합발전 유력…29조원 투자 추진",
+    "summary": "삼성물산 등 국내 건설사와 두산에너빌리티 등이 참여하여 텍사스 가스복합발전소 건설에 29조원 규모의 투자를 추진 중이다. 설계·조달·시공부터 발전설비 공급까지 국내 기업들이 전 과정을 담당하는 대규모 해외 수주 프로젝트이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-28T18:38:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23415,22 +23431,6 @@
     "publisher": "bizwork.co.kr",
     "title_clean": "수도권 아파트 매수 60%가 3040…'초품아' 단지에 수요 몰린다",
     "summary": "수도권 아파트 매수의 60%가 3040세대에서 나오면서 초품아(초저예산 프리미엄 아파트) 단지에 수요가 집중되고 있다. 대우건설의 '장위 푸르지오 마크원' 등 소형 평면 위주의 재개발 단지들이 시장의 주목을 받고 있는 추세를 보도했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T10:30:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "준공 5년 이하 아파트, 전국 시장 상승세 주도 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260722000317",
-    "description": "계약금 5%(1차 500만원 정액제)와 중도금 무이자를 적용한다. IPARK현대산업개발은 경남 김해시 신문동 일원에 '김해 신문 센트럴 아이파크'를 분양 중이다. 지하 2층~지상 25층, 13개 동, 총 1, 379가구 규모로 조성된다.",
-    "published_at": "2026-07-22T10:24:00+09:00",
-    "cluster_id": "5445",
-    "publisher": "newspim.com",
-    "title_clean": "준공 5년 이하 아파트, 전국 시장 상승세 주도",
-    "summary": "준공 5년 이하의 신축 아파트가 전국 부동산 시장의 상승세를 주도하고 있다. 현대산업개발은 김해 신문 센트럴 아이파크(1,379가구)를 분양 중이며, 계약금 5%와 중도금 무이자 조건을 적용하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-22T10:30:17+09:00",
     "importance": 2
