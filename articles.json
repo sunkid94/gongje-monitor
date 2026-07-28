@@ -7353,6 +7353,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[아유경제_재건축] 도곡우성 재건축, 시공자 확보 가늠 '롯데건설' - areyou.co.kr",
+    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94641",
+    "description": "그 결과, 롯데건설이 단독으로 참여한 것으로 알려졌다. 이에 조합은 조만간 이사회 등을 거쳐 수의계약 방식 전환 여부를 확정하고, 그간 꾸준한 관심을 보인 롯데건설을 대상으로 우선협상대상자 지정 여부를 결정할...",
+    "published_at": "2026-07-28T16:40:00+09:00",
+    "cluster_id": "e76d",
+    "publisher": "areyou.co.kr",
+    "title_clean": "[아유경제_재건축] 도곡우성 재건축, 시공자 확보 가늠 '롯데건설'",
+    "summary": "도곡우성 재건축 프로젝트에서 롯데건설이 단독 참여사로 확정되었으며, 조합은 수의계약 방식 전환 및 우선협상대상자 지정을 결정할 예정이다. 이는 대규모 재건축 사업의 시공사 확보로 이어질 가능성을 시사한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-28T16:48:59+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23282,19 +23298,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 울산 북항 LNG 터미널 3단계 준공…국내 LNG 인프라 경쟁력 한단계 도약 - 에너지프로슈머",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2UWRKeGRpdW16X3VjYmVkeDhwSGpHWkdadkdqSWZSaEtlY0NLZkxLNWVUa1FIOFJPcklrZV9TclRrZUs0MXNOQjRDR1o?oc=5",
-    "description": "울산 북항 액화가스 및 석유제품 터미널 /출처=대우건설 대우건설이 울산 북항 액화천연가스(LNG) 터미널 3단계 건설사업을 성공적으로 마무리하며 국내",
-    "published_at": "2026-07-21T05:19:00+09:00",
-    "cluster_id": "9c76",
-    "publisher": "에너지프로슈머",
-    "title_clean": "대우건설, 울산 북항 LNG 터미널 3단계 준공…국내 LNG 인프라 경쟁력 한단계 도약",
-    "summary": "대우건설이 울산 북항 LNG 터미널 3단계 건설사업을 완료하며 국내 LNG 인프라의 경쟁력을 강화했다. 이는 건설업계의 대형 인프라 프로젝트 수주 및 완수 사례로 긍정적인 신호를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T20:50:11+09:00",
+    "title": "조규일 진주시장, 상평산단 재생사업 현장 찾아 온열질환 예방 당부 - breaknews.com",
+    "link": "http://www.breaknews.com/1225050",
+    "description": "조규일 진주시장은 28일 폭염으로 온열질환자가 늘어남에 따라 상평산업단지 재생사업 건설현장을 찾아 온열질환 예방과 안전사고 방지를 위한 안전수칙 준수...",
+    "published_at": "2026-07-28T16:38:00+09:00",
+    "cluster_id": "72fe",
+    "publisher": "breaknews.com",
+    "title_clean": "조규일 진주시장, 상평산단 재생사업 현장 찾아 온열질환 예방 당부",
+    "summary": "조규일 진주시장이 상평산업단지 재생사업 건설현장을 방문하여 폭염으로 인한 온열질환 예방과 안전사고 방지를 당부했다. 건설현장의 작업자 안전관리 강화를 촉구하는 행정 공식 방문.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-28T16:48:59+09:00",
     "importance": 2
   },
   {
@@ -32217,22 +32233,6 @@
     "summary": "광양만권경자청이 순천 선월하이파크 건설현장을 방문하여 폭염 대응 및 안전보건관리 실태를 점검했다. 건설현장의 안전관리 강화 및 근로자 보호 조치 현황을 확인하는 정부 차원의 감시·관리 활동으로 보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T16:49:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국가철도공단 영남본부, 국토안전관리원과 철도 건설현장 스마트 안전관리 협력 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wMWM4Rmh6MmZoV092WmVNaUJhaEVhRVZ6T1cta2dCWjZyanBoUlp4cXB6eUpDNFQ3TG51OUhEdG9NQVlWN1dHSnpqYXhwbTlCUnVFZGRSOVhKS1BVenZySzZkMlB3UDA1eEV5YTRkbVd2YUXSAXdBVV95cUxQTG9xUGw2S25nMjVPb2hycTRkX21HelhqMWxrOElrdC10cXc2TFg4ZUtab19yZGVjMnZIQjFDRkhhT1JPbllDLTlRSE03dGNpQ2hrSUZxU1FWamVaVHFRR2RYRjQxNGRuTTRDTk15UURqd3BoQmg1Zw?oc=5",
-    "description": "철도 건설현장에 스마트 안전관리 체계 도입이 확대되는 가운데 국가철도공단과 국토안전관리원이 영남권 건설현장의 안전 수준을 높이기 위한 협력체계를 구축했다.국가철도공단 영남본부는 경북 김천시 국토안전교육원에서 국토안전관리원 영남지역본부와 ‘영남지역 건설현장 안전관리 강화를 위한 업무협약(MOU)’을 체결했다고 23일 밝혔다.이번 협약은 국토안전관리원이 보유한 스마트 안전장비 운영 경험과 기술을 철도 건설현장에 접목해 보다 체계적인 안전관리 기반을 마련하기 위해 추진됐다. 이를 통해 현장별 위험요인을 사전에 관리하고 사고 예방 체계를",
-    "published_at": "2026-07-23T15:19:31+09:00",
-    "cluster_id": "d92f",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "국가철도공단 영남본부, 국토안전관리원과 철도 건설현장 스마트 안전관리 협력",
-    "summary": "국가철도공단 영남본부와 국토안전관리원이 스마트 안전관리 체계 도입을 위한 업무협약을 체결했다. 국토안전관리원의 스마트 안전장비 운영 경험과 기술을 철도 건설현장에 적용하여 체계적인 안전관리 기반을 마련하고 사고 예방 체계를 강화할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T16:44:34+09:00",
     "importance": 2
   }
 ]
