@@ -7575,6 +7575,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "7월 29일 개장 전 주요 공시 - seoulfn.com",
+    "link": "https://www.seoulfn.com/news/articleView.html?idxno=634361",
+    "description": "대우건설은 강남원효성빌라 재건축정비사업조합 총회에서 시공사 선정 취소가 결정됐다고 공시했다. 공사금액은 약 3387억원 규모로, 지난해 6월 시공사로 선정됐다. 대우건설은 이 결정에 대해 소송 제기 등...",
+    "published_at": "2026-07-29T07:00:00+09:00",
+    "cluster_id": "4cb7",
+    "publisher": "seoulfn.com",
+    "title_clean": "7월 29일 개장 전 주요 공시",
+    "summary": "대우건설이 강남원효성빌라 재건축정비사업조합 총회에서 시공사 선정 취소가 결정됐다고 공시했다. 약 3387억원 규모의 공사로 지난해 6월 선정됐으나 취소되었으며, 대우건설은 소송 제기 등의 법적 대응을 준비 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-29T08:03:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23504,22 +23520,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-22T13:51:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "경쟁입찰 사라진 서울 재건축…삼성·현대 '2강 체제' - greened.kr",
-    "link": "https://www.greened.kr/news/articleView.html?idxno=345642",
-    "description": "각 사 공시와 IR 자료를 종합하면 삼성물산 건설부문과 현대건설, 대우건설은 올해 상반기 총 31건, 27조9138억원 규모의 건축공사를 수주했다. 현대건설이 11조9840억원으로 가장 많았고, 삼성물산 건설부문이 8조5229억원...",
-    "published_at": "2026-07-22T13:34:00+09:00",
-    "cluster_id": "32ad",
-    "publisher": "greened.kr",
-    "title_clean": "경쟁입찰 사라진 서울 재건축…삼성·현대 '2강 체제'",
-    "summary": "서울 재건축 시장에서 경쟁입찰이 사라지고 삼성물산과 현대건설의 2강 체제가 심화되고 있다. 올해 상반기 31건 27조9138억원 규모의 건축공사 중 현대건설(11조9840억원)과 삼성물산(8조5229억원)이 대부분을 차지하면서 업계 집중화가 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-22T13:41:11+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
