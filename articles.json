@@ -7558,6 +7558,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘29조원’ 대미 투자 1호, 텍사스 가스화력발전소 건설 낙점 - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/economy/2026/07/29/20260729033004?wlog_tag3=naver",
+    "description": "삼성물산, 현대건설 등 건설사가 발전소 설계·조달·시공(EPC)을 맡고, 두산에너빌리티가 발전소에 들어갈 가스터빈을 공급하는 시나리오가 예상된다. 발전업계 관계자는 “국내 원전 5~6기에 해당하는 대규모...",
+    "published_at": "2026-07-29T05:05:00+09:00",
+    "cluster_id": "9d5e",
+    "publisher": "seoul.co.kr",
+    "title_clean": "‘29조원’ 대미 투자 1호, 텍사스 가스화력발전소 건설 낙점",
+    "summary": "삼성물산, 현대건설 등 국내 건설사가 텍사스 가스화력발전소 29조원 규모 EPC 수주를 확정했다. 두산에너빌리티는 가스터빈을 공급하며, 국내 원전 5~6기 규모의 대형 프로젝트로 건설업계에 실질적인 수주 호재가 될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T05:08:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23487,22 +23503,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-22T10:45:05+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[특징주] 두산에너빌리티, 대만發 수요 우려에도 강세…\"가스터빈 2029년... - tokenpost.kr",
-    "link": "https://www.tokenpost.kr/news/economy/380027",
-    "description": "두산에너빌리티가 가스터빈 수요 지속성에 대한 일부 해외 투자자의 우려에도 견조한 수주 가시성이 부각되며 상승하고 있다. 유안타증권은 대만 기관투자자들이 가스터빈 이중예약 가능성, 하이퍼스케일러 투자 축소...",
-    "published_at": "2026-07-22T10:36:00+09:00",
-    "cluster_id": "114a",
-    "publisher": "tokenpost.kr",
-    "title_clean": "[특징주] 두산에너빌리티, 대만發 수요 우려에도 강세…\"가스터빈 2029년...",
-    "summary": "두산에너빌리티가 해외 투자자들의 가스터빈 수요 우려에도 불구하고 견조한 수주 가시성으로 주가 상승 중입니다. 2029년 이후의 수주 파이프라인이 확보되어 수요 지속성에 대한 긍정적 전망이 부각되고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T10:40:09+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
