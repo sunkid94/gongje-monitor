@@ -23248,6 +23248,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폴더스, 재해예방 기술지도 AI 자동화 플랫폼 '지도비서' 출시 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iZDNCS3pWc3AyZVdQMkZXN0pTVFZtVnR1XzdkSDlkaEhFQXZwdzN2WDZrYUIxMUlTaTNpaE9YYXZtZ3h5MVdNOElaaXQ?oc=5",
+    "description": "건설안전 솔루션 기업 폴더스가 건설재해예방 기술지도 기관의 결과보고서 작성을 지원하는 AI 플랫폼",
+    "published_at": "2026-07-28T22:27:47+09:00",
+    "cluster_id": "8bf4",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "폴더스, 재해예방 기술지도 AI 자동화 플랫폼 '지도비서' 출시",
+    "summary": "건설안전 솔루션 기업 폴더스가 AI 기반 '지도비서' 플랫폼을 출시했으며, 이는 재해예방 기술지도 기관의 결과보고서 작성을 자동화하는 솔루션입니다. 건설 현장의 안전관리 효율성 향상과 행정 부담 경감에 기여할 것으로 예상됩니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-28T22:38:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32228,22 +32244,6 @@
     "summary": "조철기 충남도의장이 건설노조와 간담회를 개최하여 건설근로자의 생존권 보장과 노동환경 개선에 대해 논의했다. 이는 건설업계의 노동 조건 개선을 위한 정책 대화로 볼 수 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T19:04:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남부발전, 발전산업 현장 '안전사고 백서' 발간…51건 실제 사례 분석 - e-platform.net",
-    "link": "http://www.e-platform.net/news/articleView.html?idxno=104076",
-    "description": "한편 남부발전은 올해 행정안전부와 '찾아가는 안전체험교실' 업무협약을 체결하고 '건설현장 안전관리 혁신 워크샵'을 개최하는 등 현장 중심의 안전경영을 전개하고 있다. 하계 전력피크기 경영진 주도의 안전점검을...",
-    "published_at": "2026-07-23T18:50:00+09:00",
-    "cluster_id": "feae",
-    "publisher": "",
-    "title_clean": "남부발전, 발전산업 현장 '안전사고 백서' 발간…51건 실제 사례 분석 - e-platform.net",
-    "summary": "남부발전이 발전산업 현장의 51건 안전사고 사례를 분석한 '안전사고 백서'를 발간했다. 행정안전부와의 안전체험교실 업무협약, 건설현장 안전관리 혁신 워크샵 등을 통해 현장 중심의 안전경영을 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T18:54:41+09:00",
     "importance": 2
   }
 ]
