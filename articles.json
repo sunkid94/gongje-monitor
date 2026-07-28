@@ -7319,6 +7319,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "서울∼양주 민자고속도로 착공 내년 하반기 이뤄질 듯 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20260728106200060?input=1195m",
+    "description": "이 사업은 2024년 포스코이앤씨컨소시엄(가칭 서울양주고속도로㈜)이 우선협상대상자로 선정된 데 이어 지난해 5월 실시설계에 들어가 지난달 공사를 시작할 것으로 예상됐다. 그러나 포스코이앤씨가 신안산선 사망사고...",
+    "published_at": "2026-07-28T14:28:00+09:00",
+    "cluster_id": "daa4",
+    "publisher": "yna.co.kr",
+    "title_clean": "서울∼양주 민자고속도로 착공 내년 하반기 이뤄질 듯",
+    "summary": "서울~양주 민자고속도로 사업이 포스코이앤씨컨소시엠이 우선협상대상자로 선정되어 추진 중이나, 포스코이앤씨의 신안산선 사망사고로 인해 공사 착공이 예상보다 지연될 것으로 보인다. 건설사의 안전 문제가 사업 일정에 영향을 미치고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T14:34:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23250,20 +23266,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "포스코이앤씨, 서울 핵심지 수주·오티에르 강화…안전 신뢰 회복 속 재... - fntimes.com",
-    "link": "https://www.fntimes.com/html/view.php?ud=202607210857446896b372994c95_18",
-    "description": "포스코이앤씨가 안전 리스크 극복과 도시정비사업 확대를 동시에 추진하며 경영 정상화에 속도를 내고 있다. 지난해 대규모 손실과 현장 안전 문제가 겹치며 위기를 겪었지만, 올해 들어 흑자 전환과 주요 정비사업...",
-    "published_at": "2026-07-21T15:06:00+09:00",
-    "cluster_id": "e441",
-    "publisher": "fntimes.com",
-    "title_clean": "포스코이앤씨, 서울 핵심지 수주·오티에르 강화…안전 신뢰 회복 속 재...",
-    "summary": "포스코이앤씨가 지난해 안전 문제와 손실을 극복하고 올해 흑자 전환 및 서울 핵심지 수주 확대로 경영 정상화를 추진 중이다. 도시정비사업 확대와 안전 신뢰 회복을 통해 건설사업 재개 속도를 내고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T15:10:41+09:00",
-    "importance": 2
+    "title": "조규일 진주시장, 건설현장 찾아 ‘온열질환 예방’ 당부 - 포인트경남",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XOUYwWWM2Rm43OXFkMXJzb0JuSGl2WUMyYkNOZ2FhLWVVWVFwVEZNUDdEMHR0NUFOeXdObExzUm1vcmZEWFJtcjlJVEdZbGdRMmdhSDBaWVdJSnV0ZGRSWVY1Z0hjUEJ2RXhuYUFoRko?oc=5",
+    "description": "[point경남뉴스=강대우 대표기자]진주시는 지난 28일 연일 기승을 부리는 매서운 폭염으로 인해 관내 온열질환자 발생이 급증함에 따라, 조규일 진주시장이 직접",
+    "published_at": "2026-07-28T14:14:12+09:00",
+    "cluster_id": "4944",
+    "publisher": "포인트경남",
+    "title_clean": "조규일 진주시장, 건설현장 찾아 ‘온열질환 예방’ 당부",
+    "summary": "진주시장이 폭염으로 인한 온열질환 예방을 위해 건설현장을 방문하여 관계자들에게 안전 대책 강화를 당부했습니다. 건설업계 현장의 근로자 안전관리 강화를 촉구하는 행정 조치입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T14:34:46+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
@@ -32217,21 +32233,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T15:39:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설 '미래 건설' 이끌 스타트업 12곳 선발···오픈이노베이션 속... - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=149248",
-    "description": "건설산업이 인공지능(AI), 디지털 전환, 스마트건설, 헬스케어 등 이종 산업과의 융합이 빨라지는 가운데 자체 연구개발(R&D)만으로는 변화 속도를 따라가기 어렵기 때문이다. 특히 건설 AX와 스마트건설 기술은 생산성과...",
-    "published_at": "2026-07-23T15:34:00+09:00",
-    "cluster_id": "06ff",
-    "publisher": "smartbizn.com",
-    "title_clean": "현대건설 '미래 건설' 이끌 스타트업 12곳 선발···오픈이노베이션 속...",
-    "summary": "현대건설이 AI, 디지털 전환, 스마트건설 등 미래 건설 기술 개발을 위해 스타트업 12곳을 선발했다. 건설산업이 이종 산업과의 융합 속도가 빨라지면서 오픈이노베이션을 통해 R&D 역량을 강화하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T15:39:26+09:00",
-    "importance": 2
   }
 ]
