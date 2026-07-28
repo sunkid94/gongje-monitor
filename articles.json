@@ -23473,6 +23473,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[심층진단②] 보령머드축제 350톤 어디로… 엄승용 보령시정 '환경관리... - goodkyung.com",
+    "link": "https://www.goodkyung.com/news/articleView.html?idxno=289677",
+    "description": "보령시 기후환경과는 물환경보전법 시행규칙에서 규정한 토사 유출 기준(1000킬로그램 이상 등)은 건설산업기본법상 건설공사로 발생하는 토사에 한정되는 규정으로, 축제장에서 사용하는 머드에는 해당되지 않는다고...",
+    "published_at": "2026-07-29T04:26:00+09:00",
+    "cluster_id": "dd11",
+    "publisher": "goodkyung.com",
+    "title_clean": "[심층진단②] 보령머드축제 350톤 어디로… 엄승용 보령시정 '환경관리...",
+    "summary": "보령머드축제에서 사용된 350톤의 머드 관리 문제를 두고 보령시가 물환경보전법의 토사 유출 기준이 건설공사에만 적용된다며 축제 머드는 해당 규정 대상이 아니라고 주장하고 있다. 환경 관리 책임 회피 논란이 제기되는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-29T04:28:46+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, '경기광주역 롯데캐슬 시그니처' 1단지 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EYmplREo1TlNuR19IXzFVa1poQThFUDFyTjlnaWlhdnI3WGg4dHBwamx6UTdfbXB1V0tIRzFsZG1jMlRtV0U5ZmZNdlZGYUZ1aWlj?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 롯데건설롯데건설이 경기도 광주시 양벌동에 들어서는 ‘경기광주역 롯데캐슬 시그니처’ 1단지를 분양하고 있다.이 단지는 민간공원조성 특례사업으로 조성돼 대규모 공원을 집앞에서 이용할 수 있고, 롯데캐슬 브랜드에 맞춘 차별화된 설계를 적용한 것이 특징이다.",
+    "published_at": "2026-07-29T04:20:00+09:00",
+    "cluster_id": "259b",
+    "publisher": "네이트",
+    "title_clean": "롯데건설, '경기광주역 롯데캐슬 시그니처' 1단지",
+    "summary": "롯데건설이 경기도 광주시에 '경기광주역 롯데캐슬 시그니처' 1단지를 분양 중이다. 민간공원조성 특례사업으로 추진되며 대규모 공원과 차별화된 설계가 특징이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T04:28:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32214,37 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-24T00:00:13+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "미 신규 실업수당 청구 18만7000건…1969년 9월 이후 최저 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260723001329",
-    "description": "시장은 이번 회의에서 금리가 동결될 것으로 보면서도, 금리선물 시장은 연준이 연내 최소 한 차례 0.25%포인트 인상에 나설 가능성을 반영하고 있다. 미국 건설 노동자 [사진=로이터 뉴스핌]",
-    "published_at": "2026-07-23T23:32:00+09:00",
-    "cluster_id": "dd16",
-    "publisher": "newspim.com",
-    "title_clean": "미 신규 실업수당 청구 18만7000건…1969년 9월 이후 최저",
-    "summary": "미국 신규 실업수당 청구가 18만7000건으로 1969년 9월 이후 최저 수준을 기록했으며, 금리선물 시장은 연준의 연내 인상 가능성을 반영하고 있다. 노동시장 개선으로 건설업 수요 증대 가능성이 있으나, 금리 인상은 건설 프로젝트 비용 상승 요인이 될 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-23T23:39:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 스마트도시산업 특수분류 첫 제정…데이터 기반 산업육성 본격화 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=40916",
-    "description": "[건설이코노미뉴스] 국토교통부(장관 김윤덕)는 스마트도시산업의 시장 규모와 기업·일자리 현황, 성장성 등을 체계적으로 파악하고 맞춤형 산업육성 정책을 지원하기 위해 ‘스마트도시산업 특수분류’를 오는 24일 신규 제정한다고 밝혔다.스마트도시산업은 교통, 환경, 방범 등 도시 건설과 운영 전반에 인공지능(AI), 사물인터넷(IoT) 등 첨단기술이 융합된 복합산업이다. 그러나 기존 한국표준산업분류(KSIC) 체계만으로는 스마트도시산업의 범위를 명확히 구분하기 어려워 산업 규모와 성장 추세를 체계적으로 분석하는 데 한계가 있었다.실제로 A",
-    "published_at": "2026-07-23T23:33:25+09:00",
-    "cluster_id": "4436",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "국토부, 스마트도시산업 특수분류 첫 제정…데이터 기반 산업육성 본격화",
-    "summary": "국토부가 스마트도시산업을 위한 특수분류를 신규 제정하여 AI, IoT 등 첨단기술이 융합된 도시건설·운영 산업의 시장 규모와 성장성을 체계적으로 파악할 수 있게 된다. 기존 산업분류 체계의 한계를 극복하고 맞춤형 산업육성 정책을 본격 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T23:34:05+09:00",
-    "importance": 2
   }
 ]
