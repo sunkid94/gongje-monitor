@@ -23522,6 +23522,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[국토일보 시론] 대한민국 건설기술 생태계의 근간이 흔들리고 있다 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=338203",
+    "description": "\"기술사=기능장이라는 현행법\" 현행 건설산업기본법(건산법)의 현장대리인 배치 기준(별표5)은 학문적·기술적 전문성을 엄격히 반영하지 못하고 있다. 법령상 수십, 수백억 원대 건설현장의 총책임자인 현장대리인 자격에...",
+    "published_at": "2026-07-29T08:34:00+09:00",
+    "cluster_id": "a876",
+    "publisher": "국토일보",
+    "title_clean": "[국토일보 시론] 대한민국 건설기술 생태계의 근간이 흔들리고 있다",
+    "summary": "현행 건설산업기본법의 현장대리인 배치 기준이 학문적·기술적 전문성을 제대로 반영하지 못하고 있어 건설기술 생태계가 흔들리고 있다는 지적. 기술사와 기능장을 구분하지 않는 법령상 문제점이 수십~수백억 원대 건설현장의 전문성 기준을 훼손하고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-29T08:38:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32233,21 +32249,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-24T09:14:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“안전에 지나침은 없다”… 대구시, 폭염기 건설현장 안전망 촘촘히 가동 - 서프라이즈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4WTVmOU1kV1RHSmtXeXc5b3BTbDE0bHVNaHVRYXh6ZGZhWmMzdTBoZzJDN2hMX0JkNzJDb3djaU1RWGxwQlFYcThwQWhJdjEwaWtzaEt4bEZxR19iUWFhLW9qaHJPWWVJekt0RGV3?oc=5",
-    "description": "[서프라이즈뉴스] 대구시는 본격적인 무더위와 폭염이 이어짐에 따라 건설현장 안전사고를 예방하기 위해 현장 안전관리를 강화하고 있다.최근 전국적으로 폭염특보가 지속되는 가운데 건설현장에서는 온열질환 발생 위험은 물론, 무더위로 인한 피로 누적과 집중력 저하로 추락·전도 등 안전사고 위험도 함께 높아지고 있다.이에 대구시는 ‘안전에 지나침은 없다’는 원칙 아래 폭염 대응과 추락사고 예방을 아우르는 촘촘한 현장 안전망을 가동하고 있다.대구시는 올해 3월부터 건설현장 사망사고의 주요 원인인 추락사고를 예방하기 위해 사고 위험이 높은 현장을",
-    "published_at": "2026-07-24T08:55:55+09:00",
-    "cluster_id": "7411",
-    "publisher": "서프라이즈뉴스",
-    "title_clean": "“안전에 지나침은 없다”… 대구시, 폭염기 건설현장 안전망 촘촘히 가동",
-    "summary": "대구시가 폭염기 건설현장의 온열질환과 추락사고 예방을 위해 안전관리를 강화하고 있다. 3월부터 추락사고 위험이 높은 현장을 대상으로 촘촘한 현장 안전망을 구축하여 운영 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-24T09:14:36+09:00",
-    "importance": 4
   }
 ]
