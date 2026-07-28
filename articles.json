@@ -7319,6 +7319,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[단독] 대미투자 1호는 텍사스 엔시날 가스복합발전 - hankyung.com",
+    "link": "https://www.hankyung.com/article/202607289475i",
+    "description": "삼성물산 등 건설사가 발전소의 설계·조달·시공(EPC)을 맡고, 두산에너빌리티 등이 발전소에 들어갈 가스터빈을 공급하게 되면 대미 투자로 인한 낙수효과가 상당할 것으로 기대된다. 향후 가스발전을 보완할 대용량...",
+    "published_at": "2026-07-28T14:53:00+09:00",
+    "cluster_id": "e3fd",
+    "publisher": "hankyung.com",
+    "title_clean": "[단독] 대미투자 1호는 텍사스 엔시날 가스복합발전",
+    "summary": "삼성물산 등 건설사와 두산에너빌리티 등이 참여하는 텍사스 천연가스복합발전소 프로젝트가 한국 기업의 첫 미국 직접투자 사례로 추진 중이다. EPC 수주와 설비 공급을 통해 건설업계에 상당한 낙수효과가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-28T14:59:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23249,20 +23265,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "부천시, 민간 건설사와 '신뉴딜정책 경제활력' 협약'…지역업체 수주 확... - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026072115410346480",
-    "description": "롯데건설, 두산건설, 스트락스, 대우건설, DL건설, 효성중공업, HL D&I한라 등 부천에서 건설공사를 추진 중인 시공사들이 참여했다. 이들 시공사는 공사에 필요한 장비와 자재를 부천지역 기업에서 우선 구매하고 지역 인력...",
-    "published_at": "2026-07-21T15:41:00+09:00",
-    "cluster_id": "27eb",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "부천시, 민간 건설사와 '신뉴딜정책 경제활력' 협약'…지역업체 수주 확...",
-    "summary": "부천시가 롯데건설, 두산건설 등 주요 건설사와 신뉴딜정책 경제활력 협약을 체결했다. 시공사들이 공사에 필요한 장비·자재를 지역 기업에서 우선 구매하고 지역 인력을 활용하여 지역업체의 수주 확대를 도모한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T15:50:07+09:00",
-    "importance": 2
+    "title": "SK에코플랜트 중대재해, 국토부 제재 면할 듯..형사책임 '촉각' - biz.sbs.co.kr",
+    "link": "https://biz.sbs.co.kr/article_hub/20000325115?division=NAVER",
+    "description": "건설산업기본법상 고용노동부 장관이 국토부에 영업정지를 요청할 수 있는 경우도 산업재해 사망자가 2명 이상일 때여서 이번 사고에는 적용되지 않는 것으로 알려졌습니다. 앞서 지난 1일 해당 현장에서는 미얀마 국적...",
+    "published_at": "2026-07-28T14:54:00+09:00",
+    "cluster_id": "ea4f",
+    "publisher": "biz.sbs.co.kr",
+    "title_clean": "SK에코플랜트 중대재해, 국토부 제재 면할 듯..형사책임 '촉각'",
+    "summary": "SK에코플랜트 중대재해 사건에서 산업재해 사망자가 1명으로 건설산업기본법상 영업정지 요건(2명 이상)을 충족하지 못해 국토부 제재는 면할 것으로 예상됩니다. 다만 형사책임 추궁은 예상되고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-28T14:59:40+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32215,22 +32231,6 @@
     "summary": "현대건설이 미래 건설 기술 개발을 위해 유망 스타트업 12곳을 선발하여 오픈이노베이션을 추진 중이다. 건설 현장에서의 기술 검증과 사업화를 통해 디지털 전환 및 신사업 발굴에 나서고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-23T15:49:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "충북 음성 글로벌에스텍, 이동식 강성 방호울타리로 공공시장 공략 - ccdailynews.com",
-    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2429868",
-    "description": "이 제품은 국토교통부 건설신기술(NET) 인증과 조달청 혁신제품 지정을 받았으며, TS한국교통안전공단의 SB3 등급 실차 충돌시험도 통과했다. 업계에서는 최근 공사구간과 임시 보행로, 교량, 추락 위험지역 등에서는 기존...",
-    "published_at": "2026-07-23T15:36:00+09:00",
-    "cluster_id": "3518",
-    "publisher": "ccdailynews.com",
-    "title_clean": "충북 음성 글로벌에스텍, 이동식 강성 방호울타리로 공공시장 공략",
-    "summary": "충북 음성의 글로벌에스텍이 국토교통부 NET 인증과 조달청 혁신제품 지정을 받은 이동식 강성 방호울타리로 공공시장 진출을 추진 중이다. 제품은 TS한국교통안전공단의 SB3 등급 실차 충돌시험을 통과해 공사구간, 임시 보행로, 교량 등 안전이 필요한 지역에서의 수요가 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T15:39:26+09:00",
     "importance": 2
   }
 ]
