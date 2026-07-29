@@ -23574,6 +23574,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대건설, 건설현장에 착용형 로봇 첫 적용…천장 작업 부담 줄인다 - 서울타임즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WS3hRS29ZOF8wZzRpNjhFZzBTVDV0N1VqbjdFSVFTQTk2NUp1d1BfLU9SSGRtV3RZSS0zYVJTS3BxLXhmaVNJSS1YaUU5MVdGMkRLNmtNYW1jaVNNckNhUkZKcU9SMGhjWGtn?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1WS3hRS29ZOF8wZzRpNjhFZzBTVDV0N1VqbjdFSVFTQTk2NUp1d1BfLU9SSGRtV3RZSS0zYVJTS3BxLXhmaVNJSS1YaUU5MVdGMkRLNmtNYW1jaVNNckNhUkZKcU9SMGhjWGtn?oc=5\" target=\"_blank\">현대건설, 건설현장에 착용형 로봇 첫 적용…천장 작업 부담 줄인다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울타임즈뉴스</font>",
+    "cluster_id": "63a9",
+    "publisher": "서울타임즈뉴스",
+    "title_clean": "현대건설, 건설현장에 착용형 로봇 첫 적용…천장 작업 부담 줄인다",
+    "summary": "현대건설이 건설현장에 착용형 로봇을 처음 적용하여 근로자의 천장 작업 부담을 경감시킨다. 이는 건설업의 안전성 향상과 생산성 개선을 위한 기술 혁신 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T23:08:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32283,21 +32298,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-27T09:06:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[디지털 대한민국을 선도한다] LX한국국토정보공사 강원지역본부 이강성... - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=338117",
-    "description": "▲ 최근 경기침체와 건설경기 위축으로 공간정보산업계가 많은 어려움을 겪고 있다는 점을 잘 알고 있다. 사업 물량 감소와 원가 상승, 인력 확보의 어려움 등으로 현장의 부담이 어느 때보다 큰 상황이다. 이러한 시기를...",
-    "published_at": "2026-07-27T08:52:00+09:00",
-    "cluster_id": "5250",
-    "publisher": "국토일보",
-    "title_clean": "[디지털 대한민국을 선도한다] LX한국국토정보공사 강원지역본부 이강성...",
-    "summary": "LX한국국토정보공사 강원지역본부가 경기침체와 건설경기 위축으로 어려움을 겪는 공간정보산업계의 상황을 인식하고 있으며, 사업 물량 감소, 원가 상승, 인력 확보 등의 현장 문제 해결을 위해 노력하겠다는 입장을 표명했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-27T08:58:16+09:00",
-    "importance": 4
   }
 ]
