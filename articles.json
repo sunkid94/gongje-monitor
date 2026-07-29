@@ -7592,6 +7592,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"청소부터 충전까지 스스로\"…롯데건설, '자율주행 청소로봇' 도입 - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLeGxJbXo5Y2doRk5vUk0tVlpMRU1QbHlySHpDWlB4X2VQc2hXdEpWOXo0aVVldGVwWVFVRjRjTWQyeHN0RGNqdGFjRXFBLW1hb0hHaDNFcw?oc=5",
+    "description": "롯데건설은 건설현장에 ‘자율주행 바닥청소 로봇(이하 자율주행 청소로봇)’을 도입한다고 29일 밝혔다.기존에는 근로자가 직접 쓰레기를 수거하고 청소기로 먼지를 제거하는 등 인력 중심의 수작업으로 건설현장 청소가 이뤄졌다. 이 과정에서 많은 양의 분진이 발생해 더운 날씨에도 근로자들은 방진 마스크를 착용하고 작업하는 번거로움이 있었다.이를 해결하고자 롯데건설은",
+    "published_at": "2026-07-29T08:53:00+09:00",
+    "cluster_id": "74b4",
+    "publisher": "데일리안",
+    "title_clean": "\"청소부터 충전까지 스스로\"…롯데건설, '자율주행 청소로봇' 도입",
+    "summary": "롯데건설이 건설현장에 자율주행 바닥청소 로봇을 도입하여 기존 인력 중심의 수작업을 자동화한다. 이를 통해 분진 발생을 줄이고 근로자의 작업 환경을 개선할 수 있을 것으로 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T18:43:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23523,22 +23539,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-23T17:59:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현산, 2분기 영업익 52%↑…2개 분기 연속 두자릿수 이익률 - news1.kr",
-    "link": "https://www.news1.kr/realestate/general/6237222",
-    "description": "IPARK현대산업개발(294870)이 원가율 개선과 대형 사업지 중심의 수주 전략에 힘입어 2분기 영업이익이 전년 동기 대비 52.9% 증가했다. 1분기에 이어 2개 분기 연속 두 자릿수 영업이익률을 기록하며 수익성을...",
-    "published_at": "2026-07-23T17:53:00+09:00",
-    "cluster_id": "b540",
-    "publisher": "news1.kr",
-    "title_clean": "IPARK현산, 2분기 영업익 52%↑…2개 분기 연속 두자릿수 이익률",
-    "summary": "IPARK현대산업개발이 2분기 영업이익을 전년 동기 대비 52.9% 증가시키며 원가율 개선과 대형 사업 수주 전략의 성과를 입증했다. 2개 분기 연속 두 자릿수 영업이익률을 기록하며 건설업계의 긍정적 수익성 개선 사례를 제시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T17:59:52+09:00",
-    "importance": 2
   },
   {
     "keyword": "스마트건설",
