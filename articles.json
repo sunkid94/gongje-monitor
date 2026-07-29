@@ -7626,6 +7626,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"쓰레기 수거부터 먼지 제거까지\"…롯데건설, 자율주행 청소로봇 도입 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Qb0JuRG1TeWhXdU9oRkk0eDNHSEV4ZUpPVmpQYXZNblpXdWdCYU4ySmRYd1cxRGZETzc3OHFqVk0yWXZWOTRzRkdFUkRnaHpMV3RGalQ4SGtEeW51N1Y0NDZsTExkT0FWRkHSAW9BVV95cUxPOVd2bVNMRnNZdFVMVmFnenZEbUNMeUVQWkdJX2wwWnBjR09SNURFcXNNTENmXzN5a2FjbVVQSFpnVXoxMjI3cDlkSjFxdUVSelA0d0RhVXFyN0xvMXg1LTdLX3gxaVB2NUYwRm9yZFE?oc=5",
+    "description": "롯데건설이 인력 중심이던 건설현장 청소 작업에 자율주행 로봇을 투입해 작업 효율성과 근로 환경 개선에 나선다. 기존에는 근로자가 직접 쓰레기를 수거하고 청소기로 먼지를 제거하는 등 인력 중심의 수작업으로 건설현장 청소가 이뤄졌다.",
+    "published_at": "2026-07-29T10:01:24+09:00",
+    "cluster_id": "96e9",
+    "publisher": "머니투데이",
+    "title_clean": "\"쓰레기 수거부터 먼지 제거까지\"…롯데건설, 자율주행 청소로봇 도입 - 머니투데이",
+    "summary": "롯데건설이 건설현장 청소 작업에 자율주행 로봇을 도입하여 인력 중심의 수작업을 자동화한다. 이를 통해 작업 효율성 향상과 근로 환경 개선을 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T22:03:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23555,22 +23571,6 @@
     "summary": "두산에너빌리티가 미국 원전 수주를 내년에 구체화할 것으로 예상되면서 긍정적 신호를 보이고 있습니다. 다만 KB증권이 목표가를 인하한 것으로 보아 실현 가능성에 대한 신중한 평가가 있는 상황입니다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-23T21:00:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 오픈이노베이션 성과 가시화 … 최대 6.2억 규모 PoC 확보 - 워크투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyNHc3ODExd2d3UkR2RnZmS1JmTjE5clY3alZxem5SLTM3Mjh4a3dScmVtSWYtQURRSFp5X2FzOXQzamkzdzlwemtuTXRoLXRJRHFlZjJDdzE1Uk1EWThZQ1A5S1hsX25HdWE5bA?oc=5",
-    "description": "롯데건설이 창업진흥원과 서울경제진흥원(SBA)이 주관하는 오픈이노베이션 지원사업에서 최대 6억2,000만 원 규모의 기술실증(PoC) 지원금을 확보하며 스마트 건설 분야 기술 확보에 속도를 내고 있다.롯데건설은 올해 창업진흥원이 공고한 3개 오픈이노베이션 프로그램에 총 5개 협업 과제를 신청해 전 과제가 최종 선정됐다고 23일 밝혔다.이는 제안 과제의 현장 적용 가능성과 미래 성장성을 동시에 인정받은 결과로 평가된다.우선 ‘민관협력 오픈이노베이션 지원사업(상호자율탐색형)’을 통해 건설 자동화 스타트업 스패너와 협력해 내년 1월까지",
-    "published_at": "2026-07-23T20:03:35+09:00",
-    "cluster_id": "52fa",
-    "publisher": "워크투데이",
-    "title_clean": "롯데건설, 오픈이노베이션 성과 가시화 … 최대 6.2억 규모 PoC 확보",
-    "summary": "롯데건설이 창업진흥원과 SBA가 주관하는 오픈이노베이션 사업에서 최대 6.2억 원의 PoC 지원금을 확보했다. 5개 협업 과제 전 과제가 선정되며 스마트 건설 기술 확보에 속도를 내고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T20:10:01+09:00",
     "importance": 2
   },
   {
