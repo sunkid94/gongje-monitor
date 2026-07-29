@@ -23541,6 +23541,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"폭염 안전관리\" 농어촌공사 전북, 건설현장 긴급 점검 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260729_0003727777",
+    "description": "김동인 전북본부장은 \"최근 기후변화로 인해 혹소기 폭염의 빈도와 강도가 갈수록 심해지는 만큼 건설현장 안전관리가 더욱 중요해졌다\"며 \"근로자의 안전을 최우선으로 현장 점검을 강화해 온열질환 예방에 최선을...",
+    "published_at": "2026-07-29T10:35:00+09:00",
+    "cluster_id": "d413",
+    "publisher": "newsis.com",
+    "title_clean": "\"폭염 안전관리\" 농어촌공사 전북, 건설현장 긴급 점검",
+    "summary": "농어촌공사 전북본부가 폭염으로 인한 온열질환 예방을 위해 건설현장에 대한 긴급 안전점검을 강화하고 있다. 기후변화로 폭염 빈도와 강도가 증가함에 따라 현장 안전관리의 중요성을 강조하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-29T10:43:35+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32238,21 +32254,6 @@
     "publisher": "글로벌이코노믹",
     "title_clean": "'안전사고 제로화' 철도망 구축…국가철도공단, 공공기관 간 기술 연계로 현장 안전망 강화",
     "summary": "국가철도공단이 공공기관 간 기술 연계를 통해 철도 현장의 안전망을 강화하고 안전사고 제로화를 추진 중입니다. 이는 철도 인프라 안전성 향상을 위한 정부 차원의 정책 추진 사항입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-24T11:31:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 안전캐릭터 '한수호' 공개 - meconomynews.com",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94OUswMC1DU29Bb1o5ZG1CNzVnQ3N3T09LZ2ZzODNISWxrb1FEMmp3eDhlTERhVkJkYWx1VkY2OFZsRkdKWm9pblhLTU8zUDZYVkdmMG5QV3FLNWlTRDFtNWtLU3hxdWc5N0ZzVnVlWDY?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE94OUswMC1DU29Bb1o5ZG1CNzVnQ3N3T09LZ2ZzODNISWxrb1FEMmp3eDhlTERhVkJkYWx1VkY2OFZsRkdKWm9pblhLTU8zUDZYVkdmMG5QV3FLNWlTRDFtNWtLU3hxdWc5N0ZzVnVlWDY?oc=5\" target=\"_blank\">한화 건설부문, 안전캐릭터 '한수호' 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meconomynews.com</font>",
-    "cluster_id": "7341",
-    "publisher": "meconomynews.com",
-    "title_clean": "한화 건설부문, 안전캐릭터 '한수호' 공개",
-    "summary": "한화 건설부문이 안전 문화 강화를 위해 안전캐릭터 '한수호'를 새롭게 공개했습니다. 이는 건설 현장의 안전 의식 고취와 산업재해 예방을 위한 노력입니다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-24T11:31:53+09:00",
     "importance": 2
