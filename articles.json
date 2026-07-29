@@ -7626,6 +7626,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "4세대 방사광가속기 '한국새빛가속기' 착공... 1조1643억 투입 - ggilbo.com",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1171599",
+    "description": "앞서 지난해 정부는 포스코이앤씨 컨소시엄과 계약을 맺고 가속기 기반 시설 건립에 착수할 전망이었으나, 포스코이앤씨가 중대재해 문제를 겪으며 계약이 미뤄져 왔다. 사업도 당초 2027년 완공을 목표로 했으나 2029년...",
+    "published_at": "2026-07-30T03:20:00+09:00",
+    "cluster_id": "d080",
+    "publisher": "ggilbo.com",
+    "title_clean": "4세대 방사광가속기 '한국새빛가속기' 착공... 1조1643억 투입",
+    "summary": "4세대 방사광가속기 '한국새빛가속기' 사업이 1조1643억 원 투입으로 착공된다. 포스코이앤씨의 중대재해 문제로 계약이 지연되었으며, 완공 일정도 2027년에서 2029년으로 연기되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T03:28:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -23552,22 +23568,6 @@
     "publisher": "biz.chosun.com",
     "title_clean": "한미 조선협력센터 워싱턴서 출범… 1500억달러 조선 협력 프로젝트 시...",
     "summary": "한미 조선협력센터가 워싱턴에서 출범하며 1500억달러 규모의 조선 협력 프로젝트가 시작되었다. 한화필리조선소와 삼성중공업이 미국 교육기관 및 조선사와 손잡고 인력 양성 및 기술 교육 프로그램을 구축하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T23:04:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "워싱턴에 마스가 전진기지 KUSPC 출범… 韓美 조선 설계부터 교육까지 ... - hankookilbo.com",
-    "link": "https://www.hankookilbo.com/news/article/A2026072315220002856?did=NA",
-    "description": "델라웨어 카운티 커뮤니티 컬리지(DCCC)에서 조선 기술을 교육하고 현장 실습, 채용을 연계하는 체계를 구축한다. 삼성중공업은 비고 마린 그룹과 첨단 교육 인프라를 갖춘 인력 양성 센터를 공동으로 세운다.",
-    "published_at": "2026-07-23T23:01:00+09:00",
-    "cluster_id": "13c6",
-    "publisher": "hankookilbo.com",
-    "title_clean": "워싱턴에 마스가 전진기지 KUSPC 출범… 韓美 조선 설계부터 교육까지 ...",
-    "summary": "삼성중공업이 미국 워싱턴에 한미 조선 교육 및 인력양성 센터를 설립하여 조선 기술 교육, 현장 실습, 채용까지 연계하는 시스템을 구축한다. 이는 한국 조선업의 미국 진출 거점 역할과 함께 장기적 인력 수급 기반을 마련하는 전략적 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-23T23:04:54+09:00",
     "importance": 2
