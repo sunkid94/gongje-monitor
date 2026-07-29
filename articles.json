@@ -23540,6 +23540,21 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "BNK금융, 포용금융 확대…건설노동자 신용대출 공급 - 국제신문",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjBSQUFrVENLNnYtV1pUcEZ0MFR1RGU1T2E1UUx2d0RLZWpadGxKOXFVZkRnWG8zeXE5RTB5aDN0X1c1WjZ2MGIteno5WmFULXVIakRRNXVCaHdPbHlhbXp1TTRZRmh5b2ZGYXMyNjNiS3ZQUkhCZXdTMU5keDRNU09EY1VuSGM5T2FMWWxB?oc=5",
+    "description": "지역 건설경기 침체가 장기화하는 가운데 BNK금융그룹이 일용직 건설노동자를 위한 맞춤형 금융지원에 나선다. BNK금융그룹은 29일 부산 남구 BNK금융그룹..",
+    "cluster_id": "40d0",
+    "publisher": "국제신문",
+    "title_clean": "BNK금융, 포용금융 확대…건설노동자 신용대출 공급",
+    "summary": "BNK금융그룹이 지역 건설경기 침체 속에서 일용직 건설노동자를 위한 맞춤형 신용대출 상품을 출시하여 포용금융을 확대하고 있다. 이는 건설업 종사자의 금융 접근성 개선 조치로, 업계 금융 지원 확대의 긍정적 신호이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T19:43:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32280,22 +32295,6 @@
     "publisher": "기계설비신문",
     "title_clean": "(17) 설계시공 일괄입찰",
     "summary": "설계시공 일괄입찰(턴키 방식)은 설계와 시공을 하나의 계약으로 통합하여 동일 사업자가 수행하는 입찰 방식이다. 설계 단계부터 시공자가 참여함으로써 책임을 일원화하고 설계-시공 단계 간 오류를 줄이는 구조적 특징을 가진다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T06:16:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[핀란드 여름을 즐기는 법] 백야부터 음악까지 이색 축제 4선 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51002",
-    "description": "짧아서 더 강렬한 핀란드의 여름. 길고 어두운 겨울이 끝나고 시작된 찰나의 아름다움을 기념하기 위해 전국 각지에서는 다양한 축제가 열린다. 아래 네 곳은 각각의 방식으로 핀란드의 여름을 이야기하는 축제들이다. 이미 끝나버린 축제도 있지만, 2027년 여행을 미리 준비하는 핑계가 될 수 있다. /편집자 주◇ 플로우 페스티벌8월 중순 헬싱키 수빌라티(Suvilahti)에서 열리는 페스티벌. 옛 발전소와 가스 공장 터에서 열리는 가장 크고 현대적인 음악 축제로 힙합, EDM, 재즈는 물론이고 세계적으로 유명한 아티스트들이 헬싱키로 모인다",
-    "published_at": "2026-07-27T05:00:00+09:00",
-    "cluster_id": "5034",
-    "publisher": "기계설비신문",
-    "title_clean": "[핀란드 여름을 즐기는 법] 백야부터 음악까지 이색 축제 4선",
-    "summary": "핀란드의 여름 축제를 소개하는 여행 정보 기사로, 플로우 페스티벌 등 4개 축제를 안내하고 있습니다. 건설업계 및 기계설비건설공제조합과 직접적인 관련이 없는 순수 관광·문화 컨텐츠입니다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-27T06:16:10+09:00",
     "importance": 2
