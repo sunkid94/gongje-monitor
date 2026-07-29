@@ -23574,6 +23574,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도-GH, 공공건설 51개 현장 임금·대금 관리 강화 나서 - 디스커버리뉴스(DISCOVERYNEWS)",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhcVpuSkRkZnBPVm9XODFLNGt3dVJSSkVsMm10ZHdMcnVDaDZ5ZkFoYV9GempCUjlfOElyWHdHM1dMTTlrMm44ZDVuN3p5a2lPSFMyT0pLOVBsTWFTZTcwNE5pRVVVR21xUVhsNElRVHVPZw?oc=5",
+    "description": "건설경기 침체와 공사비 상승으로 건설현장의 임금과 공사대금 체불 문제가 지속되는 가운데 경기도와 경기주택도시공사(GH)가 공공 발주사업을 대상으로 선제적 관리체계 구축에 나섰다.체불 발생 이후 해결하는 방식에서 벗어나 계약과 시공, 대금 지급 전 과정을 점검하는 예방 중심 행정을 강화해 건설노동자와 협력업체의 피해를 줄이겠다는 취지다.경기도는 29일 도청에서 GH와 함께 건설공사 임금체불 예방 전담 특별조직(TF) 출범 회의를 열고 GH가 추진 중인 51개 건설사업을 대상으로 운영할 체불 예방체계의 세부 추진방향을 논의했다.이날 회",
+    "published_at": "2026-07-29T17:14:47+09:00",
+    "cluster_id": "6073",
+    "publisher": "디스커버리뉴스(DISCOVERYNEWS)",
+    "title_clean": "경기도-GH, 공공건설 51개 현장 임금·대금 관리 강화 나서",
+    "summary": "경기도와 경기주택도시공사(GH)가 51개 공공건설 현장을 대상으로 임금·대금 체불 예방 전담조직(TF)을 출범시켰다. 사후 대응에서 벗어나 계약부터 대금 지급까지 전 과정을 사전에 점검하는 예방 중심 관리체계를 구축하겠다는 방침이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-29T22:48:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-27T08:58:16+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[정책인터뷰] 국토교통부 김명준 기술안전정책관에게 듣는다 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=338116",
-    "description": "또 창업 단계부터 시제품 제작 및 컨설팅을 지원하는 '스마트건설 지원센터'를 2027년부터 전국에 단계적으로 추가 설치해 지역 건설업체와 중소·스타트업 지원을 확대해 나가고 '건설기술 진흥법' 개정을 통해...",
-    "published_at": "2026-07-27T08:48:00+09:00",
-    "cluster_id": "467a",
-    "publisher": "국토일보",
-    "title_clean": "[정책인터뷰] 국토교통부 김명준 기술안전정책관에게 듣는다",
-    "summary": "국토교통부가 스마트건설 지원센터를 2027년부터 전국에 단계적으로 설치하여 지역 건설업체와 중소·스타트업에 창업부터 시제품 제작, 컨설팅을 지원한다. 건설기술 진흥법 개정을 통해 건설산업의 기술 혁신과 중소기업 지원 체계를 강화할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T08:58:16+09:00",
-    "importance": 3
   }
 ]
