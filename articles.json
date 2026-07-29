@@ -23574,6 +23574,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "삼표산업 \"폭염·폭우에도 품질 유지…특수 콘크리트 기술 선보여\" - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90aEpSQTBBRnBPRlZCZm84Z3NjQU5EblpINzlRMldQVkVyZHVSVzdsZXNEdW40bUxGZUd4YTd5ekd2Q1dXOXhOeG9KRmFWVUNPNzl1akxsWE5ocTR2VTV4YlE1bDEyT2ZsdHlZeFln?oc=5",
+    "description": "(서울=국제뉴스) 박종진 기자 = 삼표그룹의 계열사 삼표산업은 27일 경기 화성시 S&I센터 삼표기술연구소에서 강우 타설용 콘크리트",
+    "published_at": "2026-07-29T21:12:30+09:00",
+    "cluster_id": "4d82",
+    "publisher": "gukjenews.com",
+    "title_clean": "삼표산업 \"폭염·폭우에도 품질 유지…특수 콘크리트 기술 선보여\"",
+    "summary": "삼표산업이 극한 기후 조건에서도 품질을 유지하는 특수 콘크리트 기술을 선보였다. 폭염·폭우 환경에서의 강우 타설용 콘크리트 기술로 건설업계의 시공 품질 개선에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T21:38:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32281,22 +32297,6 @@
     "summary": "한국소방시설협회가 전국 7개 대학의 우수 소방인재 15명에게 총 1,500만원의 장학금을 지원했다. 소방분야 전문인재 양성을 위해 대학과 협회 간 협력을 강화하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T08:54:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "조달청, 소방전기분야 표준공사코드 신설 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51061",
-    "description": "한국소방시설협회(회장 박현석)는 조달청 공사원가통합관리시스템 내 시설공사 소방(전기) 분야 27개 공종에 대한 표준공사코드를 신설해 지난달 8일부터 본격 적용했다고 27일 밝혔다.그동안 소방(기계) 분야는 일위대가 형태로 표준공사코드가 규격화된 반면 소방(전기) 분야는 표준공사코드가 부재해 총사업비 산정 시 발주기관 담당자가 수작업으로 일일이 자료를 검색하고 비교·검토해야 하는 행정적 불편이 컸다.이번 소방(전기) 분야 표준공사코드 신설은 현장의 불편을 해소하기 위해 조달청 정부공사비 민·관 협업 전담팀과의 협력을 통해 추진됐다.이",
-    "published_at": "2026-07-27T08:46:52+09:00",
-    "cluster_id": "7b87",
-    "publisher": "기계설비신문",
-    "title_clean": "조달청, 소방전기분야 표준공사코드 신설",
-    "summary": "조달청이 소방(전기) 분야 27개 공종에 대한 표준공사코드를 신설하여 지난달 8일부터 적용했다. 그동안 표준공사코드가 부재해 발주기관이 수작업으로 공사비를 산정해야 했던 행정적 불편을 해소하는 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T08:50:05+09:00",
     "importance": 2
   }
 ]
