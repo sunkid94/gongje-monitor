@@ -7626,6 +7626,22 @@
     "importance": 6
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[증시키워드] SK하닉 2분기 실적 전망치 하회에 반도체 폭락…삼전 어닝... - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2609009",
+    "description": "두산에너빌리티는 전 거래일 대비 6.03% 내린 6만800원으로 장을 마감했다. 원전과 전력 인프라 관련 중장기 수주 모멘텀은 유효하지만 대형주 전반의 수급 악화 속에 외국인과 기관의 순매도가 집중되며 내림세를...",
+    "published_at": "2026-07-30T07:58:00+09:00",
+    "cluster_id": "58c6",
+    "publisher": "etoday.co.kr",
+    "title_clean": "[증시키워드] SK하닉 2분기 실적 전망치 하회에 반도체 폭락…삼전 어닝...",
+    "summary": "두산에너빌리티가 전 거래일 대비 6.03% 하락하며 장을 마감했다. 원전과 전력 인프라 관련 중장기 수주 모멘텀은 유효하나 대형주 전반의 수급 악화로 외국인과 기관의 순매도가 집중되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-30T08:07:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23557,19 +23573,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[영상] 재건축 다음은 '재개발'···과천 정비사업 2막 열려 - sisajournal-e.com",
-    "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422567",
-    "description": "주공5단지는 대우건설이 맡았습니다. 기존 800가구를 최고 35층, 8개 동, 1242가구 규모 '써밋 마에스트로'로 재건축하는 사업입니다. 2025년 3월 관리처분계획인가를 받은 뒤 현재 철거 절차를 진행하고 있습니다....",
-    "published_at": "2026-07-24T06:10:00+09:00",
-    "cluster_id": "58d6",
-    "publisher": "",
-    "title_clean": "[영상] 재건축 다음은 '재개발'···과천 정비사업 2막 열려 - sisajournal-e.com",
-    "summary": "과천 주공5단지가 대우건설 주도로 재건축되며, 800가구에서 1,242가구 규모의 '써밋 마에스트로'로 재개발된다. 2025년 3월 관리처분계획인가를 거쳐 현재 철거 절차가 진행 중이다.",
+    "title": "[건축명가 리포트] [한미글로벌] SMR·데이터센터 '배팅'…글로벌 체질... - dealsite.co.kr",
+    "link": "https://dealsite.co.kr/articles/166095",
+    "description": "국내 건설경기 침체와 주택시장 둔화에 영향을 받는 일반 건축 CM 대비 국가 인프라와 첨단산업 시설은 프로젝트 규모가 크고 장기 계약 비중이 높아 안정적인 수익 기반을 확보할 수 있다는 판단에서다. 실제...",
+    "published_at": "2026-07-30T08:02:00+09:00",
+    "cluster_id": "1833",
+    "publisher": "dealsite.co.kr",
+    "title_clean": "[건축명가 리포트] [한미글로벌] SMR·데이터센터 '배팅'…글로벌 체질...",
+    "summary": "한미글로벌이 국내 건설경기 침체 속에서 SMR, 데이터센터 등 국가 인프라와 첨단산업 시설에 집중하여 대규모 장기 계약을 통한 안정적 수익 기반을 확보하는 전략을 추진 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-24T06:14:42+09:00",
+    "collected_at": "2026-07-30T08:07:59+09:00",
     "importance": 2
   },
   {
@@ -32279,22 +32295,6 @@
     "summary": "부산도시공사가 에코델타시티 2709세대 공공주택 사업을 추진하며 건설경기 침체 속 지역 경제 활성화를 도모하고 있다. 대규모 공공주택 사업을 통해 입주민 만족도 향상과 함께 지역 건설업체들의 수주 기회 창출을 기대하는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T11:39:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 속 건설현장 안전 강화…IPARK현대산업개발, '고드름 캠페인' 운영 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEYTE0QVFTOC0xX1QyLTlCaHFsVWRZXzBEYmVQZ1pVb3p0cDVRLVItTjM1QlVzZnJneTBwb3hJVjNIcDlxTUZXcEtlOFlhM2FaREhJ?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : IPARK현대산업개발이 근로자들의 온열질환을 예방하기 위해 IPARK 고드름 캠페인을 진행 중이다. [사진=IPARK현대산업개발][경제일보] IPARK현대산업개발이 장마 이후 본격화한 무더위에 대비해 건설현장 근로자 온열질환 예방 체계를 강화하고 있다",
-    "published_at": "2026-07-27T11:18:00+09:00",
-    "cluster_id": "d7ab",
-    "publisher": "네이트",
-    "title_clean": "폭염 속 건설현장 안전 강화…IPARK현대산업개발, '고드름 캠페인' 운영",
-    "summary": "IPARK현대산업개발이 폭염으로 인한 건설현장 근로자의 온열질환 예방을 위해 '고드름 캠페인'을 운영 중이다. 이는 건설현장의 안전 관리 강화 사례를 보여주는 것으로, 업계 전반의 안전 의식 개선을 나타낸다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T11:29:14+09:00",
     "importance": 2
   }
 ]
