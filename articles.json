@@ -23573,6 +23573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "반도체 웃고, 주택 울고…삼성물산·GS건설 2분기 실적 희비 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZUHhSa1BDXzl6NXBLX0pvUXVTakw1RzVRNTBLTzZXSWZ5M2JmZE83TkwtenNuS1NqTWszVERhclJ4aXJxWWNFNE1wLW00VF9LMTYtUG1rb3BQZC1l?oc=5",
+    "description": "[서울=뉴스핌] 박우진 기자 = 주요 건설사들의 2분기 실적에서 삼성물산 건설부문과 GS건설의 희비가 엇갈렸다.삼성물산 건설부문은 반도체 관련 사업과 플랜트 설비 공사가 본격화되면서 영업이익이 크게 증가한 반면, GS건설은 주택경기 침체 여파로 건축&middo",
+    "published_at": "2026-07-29T17:05:00+09:00",
+    "cluster_id": "7442",
+    "publisher": "뉴스핌",
+    "title_clean": "반도체 웃고, 주택 울고…삼성물산·GS건설 2분기 실적 희비",
+    "summary": "삼성물산 건설부문은 반도체 및 플랜트 설비 공사 호조로 2분기 영업이익이 증가한 반면, GS건설은 주택경기 침체로 실적이 부진했다. 건설업계 내에서 반도체·플랜트 등 특화 사업 분야와 주택건설 부문의 실적 양극화가 심화되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T03:53:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32277,22 +32293,6 @@
     "summary": "경기도가 장마 종료 후 폭염에 대비하여 건설현장 근로자를 대상으로 온열질환 안전점검을 실시하고 있다. 건설현장의 작업자 안전 관리 강화를 통해 폭염으로 인한 산업재해 예방에 나서고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-27T09:53:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "참여가 안전을 만들고, 자격이 생명을 지킨다 - laborplus.co.kr",
-    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41201",
-    "description": "③ 참여가 안전을 만든다 이미 한국에도 소개된 일본의 참여형 안전 활동인 危険予知(Kiken Yochi), 일명 KY활동(위험예지활동)이 일본 건설현장 안전의 바탕이다. 김정남 씨는 \"아침 현장 조례가 끝나면 팀 단위로 KY활동을...",
-    "published_at": "2026-07-27T09:38:00+09:00",
-    "cluster_id": "bdac",
-    "publisher": "laborplus.co.kr",
-    "title_clean": "참여가 안전을 만들고, 자격이 생명을 지킨다",
-    "summary": "일본의 위험예지활동(KY활동)을 소개하며 건설현장 안전 문화 개선 방안을 제시한 기사. 근로자 참여와 자격 강화를 통해 산업재해를 예방하고 안전 의식을 제고하는 내용.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T09:48:48+09:00",
     "importance": 2
   }
 ]
