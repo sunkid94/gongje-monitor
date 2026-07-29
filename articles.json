@@ -23574,6 +23574,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도-GH, 건설기계·자재대금 직접지급 등 임금체불 예방 강화 - webeconomy.co.kr",
+    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2249736",
+    "description": "특히 건설노동자와 하수급인, 임대업자, 납품업체가 정당한 대가를 받을 수 있도록 발주부터 대금 지급까지 단계별로 체불 위험을 관리할 계획이다. 전담 조직은 경기도 공간전략과와 GH 계약총괄부 등 관련 부서가 참여...",
+    "published_at": "2026-07-30T00:18:00+09:00",
+    "cluster_id": "747a",
+    "publisher": "webeconomy.co.kr",
+    "title_clean": "경기도-GH, 건설기계·자재대금 직접지급 등 임금체불 예방 강화",
+    "summary": "경기도와 GH가 건설기계·자재 대금 직접지급 등 임금체불 예방 체계를 강화한다. 발주부터 대금 지급까지 단계별 체불 위험 관리로 건설노동자와 협력업체의 정당한 대가 지급을 보장할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-30T00:23:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32281,21 +32297,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-27T09:40:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건축사 자격제도 20년 만의 대수술 - 국토교통신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3cVljdXZQOVNkX3FVQjNzbmVCWTBaUDBIdXEwN1IwUUYzSkxtRjNNRHBBSFp0c2Z3U3dQVWRpT2JvZDY3alp4X2QzY1o0TmhkcTl0c0wtV1F0WFZNMEJoU0RmazIybFk?oc=5",
-    "description": "국토부, 2032년까지 시험·실무수련 전면 개편법규·안전·에너지·건축관리 역량 대폭 강화건축사 자격제도가 20여 년 만에 대대적인 변화를 맞는다. 단순한 도면 작성 능력을 평가하던 기존 시험에서 벗어나 법규와 구조·안전, 에너지, 건축물관리까지 아우르는 종합 역량 중심으로 개편된다. 실무수련 관리도 대폭 강화해 건축사의 전문성과 국제 경쟁력을 높인다는 것이 정부의 구상이다.국토교통부는 2027년 건축사 자격시험 응시자격이 국제 기준에 맞게 전환되는 것을 계기로 2028년부터 실무수련 제도를, 2032년부터 건축사 자격시험을 단계적으",
-    "published_at": "2026-07-27T09:25:32+09:00",
-    "cluster_id": "f93e",
-    "publisher": "국토교통신문",
-    "title_clean": "건축사 자격제도 20년 만의 대수술",
-    "summary": "국토부가 건축사 자격제도를 20년 만에 개편하여 2027년부터 응시자격을 국제 기준으로 전환하고, 2028년 실무수련 제도, 2032년 자격시험을 단계적으로 개편한다. 도면 작성 중심에서 법규, 안전, 에너지, 건축관리 등 종합 역량 중심으로 변경하여 건축사의 전문성과 국제 경쟁력을 강화할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-27T09:38:55+09:00",
-    "importance": 4
   }
 ]
