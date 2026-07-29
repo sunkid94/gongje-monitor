@@ -23577,6 +23577,21 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "BNK금융그룹, 건설노동자 금융지원 위한 업무협약 체결 - 이슈투데이",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NSkVnYUtWZndmVXV5enFWMk9nS3pVdDNUNV9XcGZPMGo5TWdWdWYzWUpnSndDb3VtZldpQmc4aEhDTV9wWDliZk1SX2l3TUVDVTRNWHNqUmlNaU5sVG1uQnU4T1pCUQ?oc=5",
+    "description": "BNK금융그룹은 29일 본사에서 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹과 함께 건설노동자 금융지원 및 생활 안정을 위한 ‘건설노동자 포용금융을 위한 업무협약’을 체결했다. 이번 협약은 소득 증빙이 어려워 제도권 금융 이용이 어려웠던 건설노동자들에게 실질적인 금융 지원을 제공하고 포용금융을 실천하기 위해 마련됐다. 협약 당사자들은 각자의",
+    "cluster_id": "766e",
+    "publisher": "이슈투데이",
+    "title_clean": "BNK금융그룹, 건설노동자 금융지원 위한 업무협약 체결",
+    "summary": "BNK금융그룹이 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹과 업무협약을 체결하여 소득 증빙이 어려운 건설노동자들을 위한 포용금융 지원을 추진한다. 제도권 금융 접근이 제한적이었던 건설노동자들의 생활 안정과 금융 접근성 개선을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-30T00:58:26+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "경기도-GH, 건설기계·자재대금 직접지급 등 임금체불 예방 강화 - webeconomy.co.kr",
     "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2249736",
     "description": "특히 건설노동자와 하수급인, 임대업자, 납품업체가 정당한 대가를 받을 수 있도록 발주부터 대금 지급까지 단계별로 체불 위험을 관리할 계획이다. 전담 조직은 경기도 공간전략과와 GH 계약총괄부 등 관련 부서가 참여...",
@@ -32280,22 +32295,6 @@
     "summary": "한국건설기술연구원이 밀양시 인목상 저수지에 AI와 IoT 기반 디지털 재해 감시 및 비상 대응 시스템을 처음으로 현장 적용했다. 이 시스템은 집중호우 시 이상징후를 조기에 감시하고 비상방류까지 통합 대응할 수 있어 노후 저수지의 안전관리를 강화한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T09:48:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "HUG, 부산 취약계층 지원 ‘골든타임 세이프홈’ 참여가정 모집 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51066",
-    "description": "주택도시보증공사(HUG)는 세이브더칠드런 남부지역본부와 함께 부산지역의 취약계층 아동 양육가정을 지원하는 ‘골든타임 세이프홈’ 사업 참여가정을 모집한다고 27일 밝혔다.이 사업은 주거, 의료 위기에 놓인 아동 양육가구를 보호하기 위한 것으로, 지원 대상은 부산에 거주하고 기저질환이 있는 만 18세 이하 아동 양육가구 중 의료서비스가 필요한 가구다. 지원 규모는 총 10가구.허그는 △‘전세사기 피해자 지원 및 주거 안정에 관한 특별법’에 따른 전세피해자 결정 가구 △HUG의 전세피해자 대상 저리 대출을 활용해 이주를 준비 중이거나 진",
-    "published_at": "2026-07-27T09:36:24+09:00",
-    "cluster_id": "5842",
-    "publisher": "기계설비신문",
-    "title_clean": "HUG, 부산 취약계층 지원 ‘골든타임 세이프홈’ 참여가정 모집",
-    "summary": "HUG가 세이브더칠드런과 함께 부산 취약계층 아동 양육가정을 지원하는 '골든타임 세이프홈' 사업을 추진하며 참여가정을 모집 중이다. 주거·의료 위기 아동가구 10가구를 대상으로 전세피해자 지원 및 주거 안정화 등을 지원한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T09:40:05+09:00",
     "importance": 2
   }
 ]
