@@ -23573,6 +23573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH 대전충남본부, 대전 둔곡 건설현장 폭염 대응 점검 - cctoday.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1djBLMzNYUGQxSVdQSlp5Zk16aTR2UmxDQzkxR0JRMmhZeEJ1MXRVMWttbVBBcXo5dm1tc3pIaUhKQmlYVzZBZzhUd0d5a3Q3TUJvV1I3Uk5EcGFlaGtWR0pJZFBoOEg1QnNGUTh3?oc=5",
+    "description": "[충청투데이 함성곤 기자] LH 대전충남지역본부는 28일 대전 유성구 둔곡지구 A-4BL 아파트 건설현장을 찾아 폭염 대응체계와 안전관리 실태를 점검했다고 29일 밝혔다.이번 점검은 연일 폭염경보가 이어지는 가운데 건설현장 근로자의 온열질환을 예방하고 안전사고를 막기 위해 마련됐다.이날 양치훈 본부장은 670여 세대 규모의 대전둔곡 A-4BL 건설현장을 찾아 근로자 휴게시설과 식수, 응급세트 등 폭염 예방물품 비치 현황을 살폈다.또 체감온도가 높은 시간대 옥외작업 운영 실태와 온열질환 발생 시 비상 대응체계 등 현장 안전관리 상황을",
+    "published_at": "2026-07-29T15:43:00+09:00",
+    "cluster_id": "f7e3",
+    "publisher": "cctoday.co.kr",
+    "title_clean": "LH 대전충남본부, 대전 둔곡 건설현장 폭염 대응 점검",
+    "summary": "LH 대전충남본부가 대전 둔곡지구 A-4BL 아파트 건설현장에서 폭염 대응 및 안전관리 실태를 점검했다. 근로자의 온열질환 예방과 안전사고 방지를 위해 휴게시설, 식수, 응급세트 등 예방물품 비치 현황과 비상 대응체계를 확인했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T04:23:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32277,22 +32293,6 @@
     "summary": "호반그룹이 임직원 대상 명사특강을 개최하여 프랑스 문화 전문가 정일영 교수를 초청했다. 강연에서는 급변하는 시대에 '평생성장'의 중요성과 질문, 도전정신, 신뢰와 협업이 새로운 경쟁력임을 강조했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-27T10:04:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "장마 끝, 이제는 폭염…건설현장 근로자 안전점검 실시 - 사회적경제뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE10Znd5OXJUOEwxaTI1QkZ4RXNuY0JIVTJXbUNjRk95NmNBdmo3Z1ZLNmFjZXpwQTBJZnBaczZVMA?oc=5",
-    "description": "■ 장마 끝, 이제는 폭염…건설현장 근로자 안전점검 실시 경기도가 장마가 끝난 뒤 본격적으로 시작된 폭염에 대비해 온열질환 발생 위험이 높은 건설",
-    "published_at": "2026-07-27T09:45:00+09:00",
-    "cluster_id": "0e52",
-    "publisher": "사회적경제뉴스",
-    "title_clean": "장마 끝, 이제는 폭염…건설현장 근로자 안전점검 실시",
-    "summary": "경기도가 장마 종료 후 폭염에 대비하여 건설현장 근로자를 대상으로 온열질환 안전점검을 실시하고 있다. 건설현장의 작업자 안전 관리 강화를 통해 폭염으로 인한 산업재해 예방에 나서고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T09:53:39+09:00",
     "importance": 2
   }
 ]
