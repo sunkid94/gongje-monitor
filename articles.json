@@ -23541,6 +23541,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH 대전충남본부, 폭염 속 건설현장 안전관리 강화 - chungnamilbo.co.kr",
+    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=901193",
+    "description": "LH 대전충남지역본부는 지난 28일 폭염경보가 발효 중인 대전둔곡 A-4BL 건설현장을 찾아 폭염 대응체계와 안전관리 실태 점검에 나섰다. 이번 점검에서는 670여 세대 규모의 대단지 건설현장을 대상으로 근로자 휴게시설과...",
+    "published_at": "2026-07-29T13:20:00+09:00",
+    "cluster_id": "4ef9",
+    "publisher": "chungnamilbo.co.kr",
+    "title_clean": "LH 대전충남본부, 폭염 속 건설현장 안전관리 강화",
+    "summary": "LH 대전충남지역본부가 폭염경보 발효 중인 대전둔곡 A-4BL 건설현장을 방문하여 근로자 안전관리 실태를 점검했다. 폭염 대응체계 강화를 통해 건설현장의 안전관리 수준을 제고하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-29T13:28:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32261,20 +32277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-24T15:12:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "삼표산업 '블루콘 스피드', 국토부 녹색기술 인증 획득 - 뉴스락",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SU0QyUEp6TGdVV3o3WUx6cHNadzhZX0l6WS04bktmRVlUWlRBMFpNWkZzdmtDLWV5R05LRnVrc0tVZEliMzRLY3VFLVRNV3c0ZkpodG9DWFZLU29BUjlHc1V6UEVfdHlRUVVZNw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1SU0QyUEp6TGdVV3o3WUx6cHNadzhZX0l6WS04bktmRVlUWlRBMFpNWkZzdmtDLWV5R05LRnVrc0tVZEliMzRLY3VFLVRNV3c0ZkpodG9DWFZLU29BUjlHc1V6UEVfdHlRUVVZNw?oc=5\" target=\"_blank\">삼표산업 '블루콘 스피드', 국토부 녹색기술 인증 획득</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스락</font>",
-    "cluster_id": "f50d",
-    "publisher": "뉴스락",
-    "title_clean": "삼표산업 '블루콘 스피드', 국토부 녹색기술 인증 획득",
-    "summary": "삼표산업이 친환경 건설자재 '블루콘 스피드'에 대해 국토교통부 녹색기술 인증을 획득했다. 이는 업계의 친환경 기술 개발과 규제 대응 능력을 입증하는 사례로, 건설업계의 녹색 전환을 선도하는 긍정적 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-24T15:12:23+09:00",
-    "importance": 2
   }
 ]
