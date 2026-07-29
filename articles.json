@@ -23540,6 +23540,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건설자재도 AI·스마트 기술 경쟁…삼표는 특수 콘크리트, 한일시멘트는 AI 시공 솔루션 - 비즈트리뷴",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05WF9VZlV4ek1YaXhRNDkxOTFRUjJpa2U0aWYwa0JsNWNSUXUyZXYtLUMzSWlwR1pYUmw0bXRKV1h2NVBvaVRkcDRwMkRfNGswOWxxRDdwanJPcVFpcmt4Ml9nS1YxV2k1bnhGZThWODI?oc=5",
+    "description": "건설자재 업계가 기후변화와 건설현장 생산성 향상에 대응하기 위해 스마트 기술 경쟁을 본격화하고 있다. 삼표그룹은 폭염과 장마철에도 안정적인 품질을 유지하는 특수 콘크리트를 선보였고, 한일시멘트는 인공지능(AI)을 활용한 바닥 모르타르 시공 기술로 특허를 취득하며 건설현장의 품질과 안전성 강화에 나섰다.삼표그룹의 건설기초소재 전문 계열사인 삼표산업은 지난 27일 경기 화성시 S&I센터 삼표기술연구소에서 강우 타설용 콘크리트",
+    "published_at": "2026-07-29T17:22:38+09:00",
+    "cluster_id": "9d67",
+    "publisher": "비즈트리뷴",
+    "title_clean": "건설자재도 AI·스마트 기술 경쟁…삼표는 특수 콘크리트, 한일시멘트는 AI 시공 솔루션",
+    "summary": "건설자재 업계가 AI와 스마트 기술을 활용한 경쟁을 본격화하고 있다. 삼표그룹은 기후 변화에 대응하는 특수 콘크리트를, 한일시멘트는 AI 기반 시공 솔루션으로 건설현장의 품질과 생산성 향상을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T20:08:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32281,21 +32297,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-27T06:28:03+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "김석기 국토부 건설정책국장 “기계설비, AI시대 핵심 인프라\" - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oc1lsWFhRM1FiRHlGeHlSQjF4LVVRSjZrc05JMnp6REd2RkNISUdXeW0tWldsMlJKaTNVUXBjZEppQ3Q3RVgtVjZ6bFVaVl9HNUt6QmQtR093R2RnOUtyVG9jdXRCUTN2VTJqSA?oc=5",
-    "description": "인터뷰 정부 정책을 듣는다 ⑰ | 김석기 국토부 건설정책국장“사업개발·운영까지 주도··· ‘디벨로퍼’로의 도약 기대”“안전관리 역량과 시공 역량을 갖춘 건설업체가",
-    "published_at": "2026-07-27T05:59:00+09:00",
-    "cluster_id": "7aa7",
-    "publisher": "기계설비신문",
-    "title_clean": "김석기 국토부 건설정책국장 “기계설비, AI시대 핵심 인프라\"",
-    "summary": "국토부 건설정책국장이 기계설비를 AI시대 핵심 인프라로 평가하며 건설업체의 사업개발·운영 주도 역할(디벨로퍼 전환)을 강조했다. 안전관리와 시공 역량을 갖춘 업체의 도약을 기대하는 정부 정책 방향을 제시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T06:28:03+09:00",
-    "importance": 2
   }
 ]
