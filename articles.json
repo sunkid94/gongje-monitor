@@ -23573,6 +23573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염 속 땡볕 건설현장 달군 비상 점검… 안전보건공단, 대구서 온열질환 차단 총력 - 대경일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zQ3RfZ0FrdUdhVGlZWlNCelFFTmFBS2w4SXJEWnRZU3cwN1VHNTQ1Q002eWVOUFlQOVk1UjQ3YVE4NzMtczRmeEtVcFVFRzRKX1FRci04V0VrNHk1ZGV6WVFtRjlENElw?oc=5",
+    "description": "연일 이어지는 가마솥더위 속에서 산업현장 대형사고를 막기 위한 유관 기관의 현장 행보가 바빠지고 있다. 한국산업안전보건공단 김인우 경영기획이사는 29일 대구광역본부를 긴급 방문해 비상경영체제 추진 상황을 점검하는 한편 지역내 대형 건설현장을 찾아 폭염 대비 안전관리 실태를 직접 살폈다. 공단에 따르면 현재 공단은 화재·폭발, 붕괴·도괴, 질식,",
+    "published_at": "2026-07-29T16:54:12+09:00",
+    "cluster_id": "7a16",
+    "publisher": "대경일보",
+    "title_clean": "폭염 속 땡볕 건설현장 달군 비상 점검… 안전보건공단, 대구서 온열질환 차단 총력",
+    "summary": "폭염으로 인한 산업현장 안전사고 우려가 높아지면서 한국산업안전보건공단이 대구 지역 건설현장에 대한 긴급 점검을 실시하고 온열질환 차단에 나섰다. 공단은 화재·폭발, 붕괴·도괴, 질식 등 대형사고 예방을 위해 비상경영체제를 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-30T05:28:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32278,21 +32294,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-27T10:28:53+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "해외건설 수주 20년 만에 최저…체코 원전 기저효과·중동 리스크 ‘이중 악재’ - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12aGF6TWI3aW5YcTVodzFfcGR0UWxhdF9WamZYQ2dIcXhvNEJ5Z2hRSnZlblpTSlR4WTBleklMdUlfYUFjQm9pRk5iTm9LdFdUTDlDVUhMQ3ZFMWRzRlp3WFVkWUllaEY2UWI3TTZra2J6QmvSAXdBVV95cUxNUmZJb1N2LUwxaEZ1N1p0eEpHUDRDNU1naGVpZXQ4UENSelotU1FHUnZUV0ZsQ2NZYk9oci1kQzJrYzRQdmhPV09VSFM2RmF6dmh3amttZHlXWFVSb29SdlB1UkZSTFN2MnNEM3FHMkdmczlOTWM4NA?oc=5",
-    "description": "올해 상반기 국내 건설사의 해외건설 수주액이 112억8000만달러에 그치며 20년 만에 최저 수준을 기록했다. 지난해 체코 두코바니 원전 수주에 따른 기저효과와 미국-이란 갈등 장기화로 중동 지역 대형 프로젝트 발주가 지연된 영향이 겹친 결과다.업계에서는 체코 원전을 제외하면 예년과 비슷한 수준의 실적이라는 평가도 내놓고 있지만, 상반기 부진으로 7년 연속 연간 해외건설 수주 300억달러 달성에는 경고등이 켜졌다는 분석이 나온다.27일 해외건설협회에 따르면 올해 상반기 해외건설 수주액은 112억8000만달러로 지난해 같은 기간(31",
-    "published_at": "2026-07-27T09:25:09+09:00",
-    "cluster_id": "7995",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "해외건설 수주 20년 만에 최저…체코 원전 기저효과·중동 리스크 ‘이중 악재’",
-    "summary": "올해 상반기 해외건설 수주액이 112억8000만달러로 20년 만에 최저 수준을 기록했다. 지난해 체코 원전 수주의 기저효과와 중동 지역 대형 프로젝트 지연이 겹쳐 부진을 야기했으며, 7년 연속 연간 300억달러 달성이 위험한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-27T10:24:05+09:00",
-    "importance": 4
   }
 ]
