@@ -23574,6 +23574,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "정부 '간선급행버스체계' BRT 건설계획, '제주도 2개 노선' 반영 - 헤드라인제주",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiQnFNWVNycnBaT0kwYVkxM0xZc3VrSXJEaHBwOEFXY1pZNTA3ODBuYTVCc0dHWndyaVpwQno1bk9yZXRMSDJlMkh3M3BMTXlZMW5CR3lmNzkyMnFrY2pYUWtvcEI3RTI3Y21lR1pkczlYUEE?oc=5",
+    "description": "국토교통부의 전국 간선급행버스체계(BRT) 건설 계획에 제주도 2개 노선이 반영됐다.국토부 대도시권광역교통위원회(위원장 김용석)는 BRT(Bus Rapid Transit)의 효율적인 건설을 위한 향후 5년 간의 중장기 정책 방향과 추진 과제를 담은",
+    "published_at": "2026-07-29T15:49:01+09:00",
+    "cluster_id": "0669",
+    "publisher": "헤드라인제주",
+    "title_clean": "정부 '간선급행버스체계' BRT 건설계획, '제주도 2개 노선' 반영",
+    "summary": "국토교통부가 간선급행버스체계(BRT) 건설 중장기 계획에 제주도 2개 노선을 반영했다. 향후 5년간 BRT 효율적 건설을 위한 정책 방향과 추진 과제를 수립 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T21:58:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-27T08:58:16+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[고시] 수원~인천 복선전철 건설사업 실시계획 변경(16차) 승인 고시 - 재개발재건축매거진",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Pby0zOU42YkFIUTd4Y19HbzdWV0FTMTF3T1psbDJKeHppZ3VZUXpSMTFmWHFKZFF3MWt3dC1HU1Q5T0FweDNLNFFxb2ttWUZGX3o0U0IyYl9MRUZZUWNodUJGTHFJMUdjNHJN?oc=5",
-    "description": "[고시] 수원~인천 복선전철 건설사업 실시계획 변경(16차) 승인 고시고시 제2026-366호◉국토교통부고시 제2026-366호국토교통부고시 제2013-696호(2013.11.25.), 국토교통부고시 제2014-554호(2014.09.23.), 국토교통부고시 제2015-231호(201",
-    "published_at": "2026-07-27T08:30:17+09:00",
-    "cluster_id": "38ed",
-    "publisher": "재개발재건축매거진",
-    "title_clean": "[고시] 수원~인천 복선전철 건설사업 실시계획 변경(16차) 승인 고시",
-    "summary": "수원~인천 복선전철 건설사업의 실시계획 변경(16차)이 승인되었습니다. 이는 해당 철도 건설사업의 진행 단계를 공식화하는 행정 조치입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T08:58:16+09:00",
-    "importance": 2
   }
 ]
