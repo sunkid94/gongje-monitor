@@ -23540,6 +23540,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "토지 가진 개인 2012만명…소유자는 늘고 면적은 줄었다 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37056",
+    "description": "개인 토지소유자 1년 새 47만명 증가세대 기준 64.4%가 토지 보유…60대 소유 면적 가장 커 국내에서 토지를 가진 개인은 늘었지만 이들이 보유한 전체 면적은 줄었다. 지난해 말 기준 개인 토지소유자는 2012만명으로 1년 전보다 47만명 늘었다. 반면 개인이 가진 토지 면적은 4만6127㎢로 전년보다 131㎢ 감소했다.국토교통부는 2025년 말 기준 토지소유현황 통계를 공표했다. 이번 통계는 지방정부가 등록한 토지·임야 대장 정보를 바탕으로 작성됐다. 개인과 세대, 법인, 비법인이 가진 토지를 성별, 연령별, 지역별, 면적·가",
+    "published_at": "2026-07-29T10:30:00+09:00",
+    "cluster_id": "fc00",
+    "publisher": "한국건설신문",
+    "title_clean": "토지 가진 개인 2012만명…소유자는 늘고 면적은 줄었다",
+    "summary": "2025년 말 기준 개인 토지소유자는 2012만명으로 1년 전보다 47만명 증가했으나, 보유 토지 면적은 4만6127㎢로 131㎢ 감소했다. 세대 기준 64.4%가 토지를 보유하고 있으며, 60대가 가장 큰 면적을 소유하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-29T17:16:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도-GH, 건설현장 체불 원천 봉쇄 나선다 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37053",
+    "description": "경기도와 경기주택도시공사(GH)가 건설현장의 만성적인 대금 체불 문제를 근본적으로 해결하기 위해 손을 잡았다. 노무비뿐만 아니라 건설기계와 자재대금까지 직접 지급 대상을 대폭 확대해 건설현장의 체불 가능성을 단계별로 차단한다는 구상이다.경기도는 29일 경기도청에서 GH가 추진하는 51개 건설공사 현장을 대상으로 '도-GH 건설공사 임금체불 예방 전담 특별조직(T/F) 킥오프 회의'를 개최하고, 체불 예방을 위한 핵심 과제 추진 방향을 논의했다.이번 대책은 공사 발주부터 계약, 시공, 대금 지급에 이르는 건설공사 전 과정의 체불 위험",
+    "published_at": "2026-07-29T09:55:00+09:00",
+    "cluster_id": "e6aa",
+    "publisher": "한국건설신문",
+    "title_clean": "경기도-GH, 건설현장 체불 원천 봉쇄 나선다",
+    "summary": "경기도와 경기주택도시공사(GH)가 51개 건설현장을 대상으로 건설공사 체불 예방 특별조직을 구성하여 노무비뿐만 아니라 건설기계, 자재대금까지 직접 지급 범위를 확대한다. 공사 전 과정에서 체불 위험을 단계별로 차단하려는 근본적 대책을 추진한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-29T17:16:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32266,37 +32298,6 @@
     "summary": "대전도시공사가 소규모 건설 현장의 산업재해 예방을 위해 AI 기반 안전관리 모바일 앱 시범운영에 나섰다. 한국전기공사협회 등 관련 협회와 업무협약을 통해 외국인 근로자 안전관리를 고도화하는 사업을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-26T18:02:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "도민칼럼-경제의 쏠림 현상 이대로 둘 것인가(3) - gndomin.com",
-    "link": "http://www.gndomin.com/news/articleView.html?idxno=483368",
-    "description": "우리 국민들 중 10% 이상이 건설업에 직간접적으로 관여하며 살고 있고 특히나 서민들 삶은 건설경기와 밀접한 관계가 있는데도 불구하고 지난 문재인 정부에서는 건설산업기본법 41조(시공자 자격 제한)를 개정하여 영세...",
-    "published_at": "2026-07-26T17:48:00+09:00",
-    "cluster_id": "0fa2",
-    "publisher": "gndomin.com",
-    "title_clean": "도민칼럼-경제의 쏠림 현상 이대로 둘 것인가(3)",
-    "summary": "건설업이 국민경제에서 차지하는 중요성에도 불구하고 문재인 정부가 건설산업기본법 41조를 개정하여 영세 시공자들의 자격을 제한했다는 비판. 건설경기와 서민 삶의 밀접한 연관성을 강조하며 정부 정책의 문제점을 지적하는 칼럼.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-26T17:52:54+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "7월 중순에는 특별한 공로를 세운 건설 노동자들을 표창합니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ya2NERjZxUUhFNkpOWUptTWk1aFZnUzhNNTFDOVhOdkpGRHlCb2xrMXYyVE5Db1pHSFdERXM4WjJfZXA4eTNvSHhnWlFjNHZfQ2tMdlFTOTR1bjZKb2drcDdzZnludjl0eU9JWlgyN1FPNXlsRlVCODlQZnk0Rjg?oc=5",
-    "description": "안장성 - 다리와 집을 짓는 건설 현장에서는 콘크리트 믹서 소리뿐만 아니라 열정적인 건설 노동자들의 활기찬 이야기와 웃음소리도 들립니다.",
-    "cluster_id": "551c",
-    "publisher": "Vietnam.vn",
-    "title_clean": "7월 중순에는 특별한 공로를 세운 건설 노동자들을 표창합니다.",
-    "summary": "7월 중순 건설 현장에서 공로를 세운 노동자들을 표창하는 행사가 예정되어 있습니다. 기사는 건설 현장의 활기찬 분위기와 노동자들의 열정을 긍정적으로 묘사하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-26T17:52:54+09:00",
     "importance": 2
   }
 ]
