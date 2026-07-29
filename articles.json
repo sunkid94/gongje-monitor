@@ -23574,6 +23574,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "BNK금융그룹, \"포용금융으로 건설 노동자를 품다\" - 투데이 부산",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05NjJSZ2c1M1B6WHk0WUpWeE5USGpWdld4a24tOWVpUkZIX1FtVTRBbGoxNGt2dVpnQlBqa2ZkS3k1VWdNQVZCUkx6aTh0QmdlSEJyRjN1bEVrT3lhc1VTQW81NDV2Rk4tVDNN?oc=5",
+    "description": "BNK금융그룹(회장 빈대인)은 29일 BNK금융그룹 본사에서 건설근로자공제회와 민주노총 건설산업연맹, 한국노총 건설연맹과 함께 건설노동자 금융지원 생활안정을 위해",
+    "published_at": "2026-07-29T16:41:50+09:00",
+    "cluster_id": "f8a0",
+    "publisher": "투데이 부산",
+    "title_clean": "BNK금융그룹, \"포용금융으로 건설 노동자를 품다\"",
+    "summary": "BNK금융그룹이 건설근로자공제회, 민주노총, 한국노총 등과 협력하여 건설노동자의 금융지원 및 생활안정을 위한 포용금융 프로그램을 추진한다. 이는 건설산업의 사회적 책임을 강화하고 저소득 건설노동자 지원체계를 구축하려는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-29T22:58:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-27T08:58:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, '휴가지원' 1,000명 추가 모집 - srtimes.kr",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=208353",
-    "description": "건설근로자공제회가 상반기 조기 마감된 '건설노동자 휴가지원' 복지서비스 참여자를 추가로 모집하며 건설 현장 근로자들의 휴식과 재충전 지원에 나선다. ​27일 건설근로자공제회는 건설노동자 휴가지원 사업 참여자...",
-    "published_at": "2026-07-27T08:56:00+09:00",
-    "cluster_id": "dc19",
-    "publisher": "srtimes.kr",
-    "title_clean": "건설근로자공제회, '휴가지원' 1,000명 추가 모집",
-    "summary": "건설근로자공제회가 상반기 조기 마감된 '건설노동자 휴가지원' 사업의 추가 참여자 1,000명을 모집한다. 건설 현장 근로자들의 휴식과 복지 지원을 확대하는 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T08:58:16+09:00",
-    "importance": 2
   }
 ]
