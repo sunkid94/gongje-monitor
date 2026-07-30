@@ -23882,6 +23882,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현장 데이터 전방위 분석… 설계부터 튼튼해졌다 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/07/31/2026073019490763542",
+    "description": "대우건설은 국토교통부가 주관하는 스마트건설 얼라이언스 의장사로서 관련기술 확산을 주도한다. 대우건설은 다양한 분야에서 AI 활용을 본격화한다. 조경의 경우 AI기술을 활용하면 다양한 설계안을 자동으로 생성해...",
+    "published_at": "2026-07-31T03:00:00+09:00",
+    "cluster_id": "17f2",
+    "publisher": "mt.co.kr",
+    "title_clean": "현장 데이터 전방위 분석… 설계부터 튼튼해졌다",
+    "summary": "대우건설이 국토교통부 스마트건설 얼라이언스 의장사로서 AI 기술 확산을 주도하고 있다. 조경 설계 등 다양한 분야에서 AI를 활용해 자동으로 설계안을 생성하는 등 건설 기술 혁신을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T03:03:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32316,22 +32332,6 @@
     "publisher": "daejonilbo.com",
     "title_clean": "반도체가 이끈 충청 경제…건설은 여전히 '먹구름'",
     "summary": "충청권 경제는 반도체 산업 호황으로 성장하고 있으나, 건설업계는 공사비 상승과 투자 위축으로 여전히 부진 상태에 있다. 한국은행의 2026년 상반기 경제 모니터링 결과에서 건설경기의 약세가 지속되고 있는 것으로 나타났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-29T15:28:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대경권 상반기 경제 완만한 회복…건설·고용·물가 부담 - idaegu.com",
-    "link": "https://www.idaegu.com/news/articleView.html?idxno=664680",
-    "description": "원자재 가격 상승에 따른 공사비 부담과 고금리로 위축된 상업용 부동산 수요가 건설경기를 눌렀다. 신규 착공 물량 감소도 이어지고 있어 단기간 내 회복을 기대하기 어려운 상황이다. 고용은 경북을 중심으로 나빠졌다....",
-    "published_at": "2026-07-29T15:20:00+09:00",
-    "cluster_id": "9879",
-    "publisher": "idaegu.com",
-    "title_clean": "대경권 상반기 경제 완만한 회복…건설·고용·물가 부담",
-    "summary": "대경권이 상반기 완만한 경제 회복을 보였으나, 원자재 가격 상승과 고금리로 인한 공사비 부담이 건설경기를 위축시키고 있다. 신규 착공 물량 감소와 고용 악화로 단기 회복이 어려운 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-07-29T15:28:56+09:00",
     "importance": 4
