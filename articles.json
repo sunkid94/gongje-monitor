@@ -23623,6 +23623,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한화 건설부문, 장비관리자 대상 안전관리 전문화 교육 실시 - 퍼블릭뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnYlFHVldMTEg3ZG51WFVzaHd0Q2pTZEQtSFAxUHFlZWMyU0x1OVdaMkVROTNLTXMyNTJDSWFyc25pdjdneHBZZDRlOVhyQ0hOU2trRXFjYXp1WnBBS2JXMmFLLVpRcm9IMzVn?oc=5",
+    "description": "한화 건설부문이 건설 현장의 중장비 안전사고 예방을 위해 현장 장비관리자 대상 전문화 교육을 29일 진행했다. 최근 건설 현장에서 중장비 관련 사고에 대한 경각심",
+    "published_at": "2026-07-30T10:26:19+09:00",
+    "cluster_id": "785e",
+    "publisher": "퍼블릭뉴스통신",
+    "title_clean": "한화 건설부문, 장비관리자 대상 안전관리 전문화 교육 실시",
+    "summary": "한화 건설부문이 건설 현장의 중장비 안전사고 예방을 위해 현장 장비관리자 대상 전문화 교육을 실시했다. 최근 건설 현장에서 중장비 관련 사고에 대한 경각심을 높이기 위한 안전관리 강화 조치다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T13:08:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-28T14:10:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "4년만에 26만명 감소한 건설 고용 시장…경기침체에 산업구조 변화 겹쳐 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026072810160606928",
-    "description": "건설경기 침체가 장기화한 데다 산업구조 변화까지 맞물리면서 당분간 고용 부진이 이어질 것이라는 분석이 나왔다. 박선구 대한건설정책연구원 경제금융연구실장은 최근 발간한 '건설 Brief 107호'에 실린 '건설고용...",
-    "published_at": "2026-07-28T13:54:00+09:00",
-    "cluster_id": "ec73",
-    "publisher": "imaeil.com",
-    "title_clean": "4년만에 26만명 감소한 건설 고용 시장…경기침체에 산업구조 변화 겹쳐",
-    "summary": "건설경기 침체와 산업구조 변화로 인해 건설 고용이 4년간 26만 명 감소했으며, 당분간 고용 부진이 지속될 것으로 예상된다. 건설업계는 경기 회복과 구조 개선이 필요한 상황에 직면해 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-28T13:59:52+09:00",
-    "importance": 4
   }
 ]
