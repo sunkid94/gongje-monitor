@@ -23882,6 +23882,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"AI로 현장 혁신\"…'설계'부터 '안전'까지 건설 전 과정에 AI 생태계 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZnVSd3IxbnZ3d2xPcGVHMjl6eGpqUllWbzgyZGFKVWF0UUZaOHhjRzBFRXpfU0dfbDcxdTYyb19naHM3WFYwcWZTbC15OVRwdUJPMEZtR2g4aGtZSmdGQ0VtTDBjOWJHdUHSAW9BVV95cUxQSURoZnF6REpWT1I5Z0pzODY1OHB4U3ozQWtSOTgwWGYtS3pLQnNScm9fRlVxc3docURfSVFKY2FUenFhYXoyUVJDaDh4RUllSXluZFJUVjJ5LTUzSVFQYjRzSjJRdElHd01kOW1SOW8?oc=5",
+    "description": "#지난 6월 준공한 인덕원 퍼스비엘 단지 내부 지하에서 지상으로 자연스럽게 이어지는 선큰(sunken) 공간은 설계 단계부터 기존 방식과 뚜렷한 차이를 보였다. 대우건설은 초기 설계부터 AI 기반 법규 검토와 도면 분석 시스템을 적용해 구조적 제약과 규제 조건을 선제적으로 반영했다.",
+    "published_at": "2026-07-31T04:35:00+09:00",
+    "cluster_id": "5ac5",
+    "publisher": "머니투데이",
+    "title_clean": "\"AI로 현장 혁신\"…'설계'부터 '안전'까지 건설 전 과정에 AI 생태계 - 머니투데이",
+    "summary": "대우건설이 인덕원 퍼스비엘 단지 준공에서 AI 기반 법규 검토와 도면 분석 시스템을 설계 단계부터 적용했다. 건설 전 과정에 AI 생태계를 도입해 구조적 제약과 규제 조건을 선제적으로 반영하는 혁신 사례를 보여줬다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T04:43:39+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32317,22 +32333,6 @@
     "summary": "폭염이 심해지면서 안전보건공단이 폭염·질식 취약사업장 1000곳을 대상으로 집중점검을 추진한다. 건설업 등 고위험 사업장의 산업재해 예방을 위한 정부의 안전관리 강화 조치이다.",
     "sentiment": "negative",
     "collected_at": "2026-07-29T15:43:30+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도-GH, '임금·하도대 체불 예방' 체계 구축 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51090",
-    "description": "경기도와 경기주택도시공사(GH)는 GH가 추진하는 51개 사업 현장에서 건설노동자의 임금과 하도급 대금, 건설기계·자재대금 체불을 예방하기 위한 공동 대응체계를 구축한다고 29일 밝혔다.경기도는 이날 도청에서 '도-GH 건설공사 임금체불 예방 전담 특별조직(TF) 킥오프 회의'를 열고 이같이 전했다.회의에서는 건설기계·자재대금 직접지급 확대, 임금체불 신고·모니터링 체계 구축, 대가지급 사전예고제 확대, 건설 현장 하도급 사전컨설팅 강화 등 4개 예방 과제의 추진 방향이 논의됐다.논의된 내용은 하도급대금과 노무비를 중심으로 운영 중",
-    "published_at": "2026-07-29T15:37:11+09:00",
-    "cluster_id": "68e0",
-    "publisher": "기계설비신문",
-    "title_clean": "경기도-GH, '임금·하도대 체불 예방' 체계 구축",
-    "summary": "경기도와 GH가 51개 사업 현장에서 건설노동자 임금 및 하도급 대금 체불을 예방하기 위한 공동 대응체계를 구축했다. 건설기계·자재대금 직접지급 확대, 임금체불 모니터링, 대가지급 사전예고제 등 4개 예방 과제를 추진할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-29T15:40:06+09:00",
     "importance": 4
   }
 ]
