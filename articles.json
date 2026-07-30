@@ -23882,6 +23882,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "6월 전남 광공업 생산 감소·광주 급증…건설수주는 동반 폭증 - sidae.com",
+    "link": "https://www.sidae.com/article/2026073108111233461",
+    "description": "다만 양 지역 모두 민간 건축 부문 활성화에 힘입어 건설수주액은 대폭 늘어났다. 31일 호남지방데이터청이 발표한 '6월 전남광주 산업동향'에 따르면 전남권 광공업 생산은 전년 동월 대비 3.2% 감소했다....",
+    "published_at": "2026-07-31T08:42:00+09:00",
+    "cluster_id": "0130",
+    "publisher": "sidae.com",
+    "title_clean": "6월 전남 광공업 생산 감소·광주 급증…건설수주는 동반 폭증",
+    "summary": "6월 전남 광공업 생산은 전년 동월 대비 3.2% 감소했으나, 전남과 광주 모두 민간 건축 부문 활성화로 건설수주액이 대폭 증가했다. 광주 광공업 생산은 급증한 것으로 나타났다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T08:48:21+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기 회복세 ‘트리플 플러스’… 6월 생산 6년만에 최대폭↑ - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030187670&code=61141411&cp=nv",
+    "description": "하지만 건설수주는 공장·창고 등 건축(-36.9%)에서 수주가 줄면서 전년 동월 대비 28.1% 감소했다. 경기동행지수와 선행지수는 동반 상승했다. 현재 경기 상황을 보여주는 동행지수 순환변동치는 전월보다 0.5p...",
+    "published_at": "2026-07-31T08:40:00+09:00",
+    "cluster_id": "b4a3",
+    "publisher": "kmib.co.kr",
+    "title_clean": "경기 회복세 ‘트리플 플러스’… 6월 생산 6년만에 최대폭↑",
+    "summary": "6월 산업생산이 6년 만에 최대폭 증가하며 경기 회복세를 보였으나, 건설수주는 공장·창고 건축 수주 감소로 전년 동월 대비 28.1% 감소했다. 경기동행지수와 선행지수는 동반 상승하는 등 전반적 경기 개선 신호가 나타났다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-31T08:48:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32299,37 +32331,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-29T16:28:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'역대 최고 비중'의 함정… K-건설 해외 알짜 사업의 불편한 진실 - fortunekorea.co.kr",
-    "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53389",
-    "description": "한국건설산업연구원이 매달 집계하는 건설경기실사지수(CBSI)도 이를 방증한다. 100을 밑돌수록 업계가 경기를 비관적으로 본다는 뜻인데, 지난 6월엔 74.5로 소폭 올랐지만 여전히 부진을 면치 못했다. 내수에서...",
-    "published_at": "2026-07-29T16:00:00+09:00",
-    "cluster_id": "ecd8",
-    "publisher": "fortunekorea.co.kr",
-    "title_clean": "'역대 최고 비중'의 함정… K-건설 해외 알짜 사업의 불편한 진실",
-    "summary": "한국 건설업계가 해외 수주는 역대 최고 비중을 기록했으나, 국내 시장 부진으로 건설경기실사지수(CBSI)는 74.5로 저조한 상황이다. 해외 대형 사업 수주 증가에도 불구하고 업계 전반의 경기 심화는 해결되지 않고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-29T16:08:58+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "사업자 못 찾은 서대구 복합환승센터…'용적률 1000%' 승부수 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026072908234235070",
-    "description": "대구시는 2023년 6월 서대구역 일대 4만4천194㎡를 복합환승센터로 지정했지만 건설경기 침체와 민간투자 위축 등의 영향으로 3년의 유효기간 동안 사업 신청자가 나타나지 않았다. 향후 민간사업자를 확보하면...",
-    "published_at": "2026-07-29T15:57:00+09:00",
-    "cluster_id": "f049",
-    "publisher": "imaeil.com",
-    "title_clean": "사업자 못 찾은 서대구 복합환승센터…'용적률 1000%' 승부수",
-    "summary": "대구시가 3년간 사업자를 못 찾은 서대구 복합환승센터 조성을 위해 용적률 1000%를 허용하는 규제완화 카드를 꺼냈다. 건설경기 침체와 민간투자 위축 속에서 민간사업자 유치를 위한 인센티브를 강화한 것으로, 향후 사업 추진 여부는 미정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-29T16:08:58+09:00",
-    "importance": 2
   }
 ]
