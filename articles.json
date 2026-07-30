@@ -23848,6 +23848,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[민선 9기 출범] 이홍기 거창군수 만나다 - knnews.co.kr",
+    "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1547661",
+    "description": "양수발전소는 첨단 신산업을 움직이는 에너지 심장이자, 지역 건설경기 부양과 주민 직접소득, 나아가 분산에너지 특별법에 따른 전기요금 차등제와 연계해 장래 AI데이터센터 유치 기반까지 이어지는 다목적...",
+    "published_at": "2026-07-30T20:48:00+09:00",
+    "cluster_id": "db84",
+    "publisher": "knnews.co.kr",
+    "title_clean": "[민선 9기 출범] 이홍기 거창군수 만나다",
+    "summary": "거창군 이홍기 군수가 양수발전소를 첨단 신산업 중심의 에너지 기반시설로 추진하고 있으며, 지역 건설경기 부양과 AI데이터센터 유치 등 다목적 개발을 계획하고 있다. 분산에너지 특별법 연계로 새로운 사업 기회 창출을 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-30T20:58:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32315,22 +32331,6 @@
     "summary": "KBI건설이 의왕 고천2초등학교 신축공사를 무재해로 준공하여 안전보건 최우수현장으로 선정했다. 짧은 공사기간과 돌관공사라는 어려운 여건 속에서도 산업재해 없이 전 공정을 완료하며 안전관리 역량을 입증했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T14:43:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "하반기 주택시장 전망 '상승' 우세… 56% '집값 오른다' - m-i.kr",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=1396674",
-    "description": "부담과 소비 여력이 영향을 받을 수 있다는 점도 주요 변수로 인식됐다. 이어 △공사비 상승에 따른 건설경기 변화(16.67%) △정부 규제지역 확대 여부(12.67%) △다주택자 및 임대사업자 매물 출회 여부(9.36%) 순이다.",
-    "published_at": "2026-07-29T14:36:00+09:00",
-    "cluster_id": "8651",
-    "publisher": "",
-    "title_clean": "하반기 주택시장 전망 '상승' 우세… 56% '집값 오른다' - m-i.kr",
-    "summary": "하반기 주택시장이 상승세로 전망되는 가운데, 건설경기에 영향을 미칠 주요 변수로 공사비 상승, 정부 규제, 매물 출회 등이 지목되었다. 시장 심리는 긍정적이나 금리 인상과 구매력 제약이 불확실성 요인으로 작용하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-29T14:38:39+09:00",
     "importance": 2
   }
 ]
