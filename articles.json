@@ -23882,6 +23882,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "SM그룹 경남기업, 혹서기 현장 근로자 안전 점검 총력전 - newslock.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LY2dyd3E2VHFmaFJCYV91MXFkRl8wdFVxQV9JUGxQRV9kUzA5SjN1Q0N3b3lzYUYydUFLQml3d1ByTzQtczFyaHI2Y2pjMEtTdjZrcDM3OGVpUTgya0lCQTAySTd4RzNzTGdWbQ?oc=5",
+    "description": "[뉴스락] SM그룹 계열사 경남기업이 폭염과 집중호우가 빈번한 여름철 건설 현장의 중대재해를 막기 위해 정부 기관 및 공공기관과 합동으로 철저한 안전 보건 관리 체계 점검에 나섰다.SM그룹은 경남기업이 지난 28일 경기도 수원시 당수지구 아파트 신축 공사장에서 경기지방고용노동청, 한국토지주택공사와 혹서기 근로자 보호를 위한 간담회를 진행했다고 30일 밝혔다.이번 회의는 무더위 속 발생하기 쉬운 온열질환이나 빗물로 인한 감전 등 각종 재난을 사전에 차단하기 위한 목적으로 열렸다. 이기동 경남기업 사장과 김도형 경기지방고용노동청장, 권",
+    "published_at": "2026-07-30T15:45:16+09:00",
+    "cluster_id": "a659",
+    "publisher": "newslock.co.kr",
+    "title_clean": "SM그룹 경남기업, 혹서기 현장 근로자 안전 점검 총력전",
+    "summary": "SM그룹 경남기업이 폭염과 집중호우가 빈번한 여름철 건설현장의 중대재해 예방을 위해 정부 기관과 합동으로 안전 보건 관리 체계 점검을 실시했다. 온열질환과 감전 등 각종 재난을 사전에 차단하기 위한 목적으로 경기도 수원시 현장에서 근로자 보호 간담회를 개최했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T21:58:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32319,22 +32335,6 @@
     "summary": "건설근로자공제회가 BNK금융그룹과 양대 노총과 함께 건설노동자 포용금융 업무협약을 체결했다. 이는 건설노동자의 금융접근성 개선 및 복지 확대를 위한 협력체계 구축을 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T15:08:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, 건설현장 최초 산업용 웨어러블 로봇 도입…근로자 부담 줄인... - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472578",
-    "description": "현대건설이 작업자의 신체 부담을 낮추는 착용형 로봇을 현장에 적용하며 사람 중심의 스마트건설 전환에 속도를 내고 있다. 현대건설은 서울 서초구 '디에이치 클래스트' 현장 내장목공사에 현대자동차·기아...",
-    "published_at": "2026-07-29T14:58:00+09:00",
-    "cluster_id": "5a11",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "현대건설, 건설현장 최초 산업용 웨어러블 로봇 도입…근로자 부담 줄인...",
-    "summary": "현대건설이 건설현장에 산업용 웨어러블 로봇을 처음 도입하여 근로자의 신체 부담을 경감하고 있다. 이는 안전성 향상과 작업 효율성 증대로 스마트건설 전환을 가속화하는 긍정적 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:03:48+09:00",
     "importance": 2
   }
 ]
