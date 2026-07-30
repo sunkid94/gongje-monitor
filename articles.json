@@ -23882,6 +23882,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도, 누적 온열질환자 326명…시군과 취약계층 보호 강화 - news1.kr",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03eTlRTHVHU3R5V3p0b2pHc2ZTWVR1dlJwTmU3NXRUckgzVkY4REdweFBlWGgyRzMzV0JlR016eE53LUN2Y2h5b1ZZT2FrNVVxUDE5TnBB?oc=5",
+    "description": "건설현장 작업시간 조정·취약계층 안부 확인 등 경기도 전역에 폭염특보가 이어지는 가운데 도내 누적 온열질환자가 326명으로 집계됐다. 도는 시군과 함께 건설 현장과 취약계층을 중심으로 폭염 대응을 강화한다.도 …",
+    "published_at": "2026-07-30T21:37:27+09:00",
+    "cluster_id": "0125",
+    "publisher": "news1.kr",
+    "title_clean": "경기도, 누적 온열질환자 326명…시군과 취약계층 보호 강화",
+    "summary": "경기도 전역의 폭염특보로 누적 온열질환자가 326명 발생했으며, 도는 시군과 함께 건설현장의 작업시간 조정과 취약계층 안부 확인을 중심으로 폭염 대응을 강화하고 있다. 이는 건설현장에 대한 규제 강화 및 작업 제약으로 이어질 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-30T21:48:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32320,21 +32336,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-29T15:03:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남도의회 건설소방위 주택·도로 건설현장 안전관리 점검 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMVExfa1VBWDJsNWJZYXZPMmRKZ3RrUHVoWFZxZ1pzd3ppZFl2OW1wOS1GV3pKWU4tNEFCRFN1TlZYaGpzWFg4cG5Fb1pmb1RqbWNEdU5CVEo5aG41WWFSYjZPUm1wc0wtNXfSAW9BVV95cUxOWnRYaXdVX25aZlE2WHQ4QWdwZDFTYTliNUhNVmtPb3ZSenBfcHY4SEJZQ2tkUHpHS0M0UGRVWFVOX3kwWUtBTm1xSTFydDFLWF9YVnJsTTNkT2Y2aDdUcEVyeURpMU05cklCUXpldEU?oc=5",
-    "description": "경남도의회 건설소방위원회가 29일 창원특례시 진해구 공동주택 건설현장과 김해시 한림~생림 도로 건설현장을 찾아 폭염 대응 체계와 근로자 안전관리 실태를 점검했다. 첫 현장 행보로 건설현장을 선택한 것은 경남에서 132명의 온열질환 피해가 발생한 가운데 77%가 실외이고 실외 작업장이 40명에 달했기 때문으로 현장에서 폭염 안전관리를 집중적으로 점검했다.",
-    "published_at": "2026-07-29T14:53:02+09:00",
-    "cluster_id": "1928",
-    "publisher": "머니투데이",
-    "title_clean": "경남도의회 건설소방위 주택·도로 건설현장 안전관리 점검 - 머니투데이",
-    "summary": "경남도의회 건설소방위원회가 창원과 김해의 건설현장을 점검하여 폭염 대응 체계와 근로자 안전관리 실태를 확인했다. 경남 온열질환 피해가 132명 발생한 가운데 실외 작업장이 40명에 달해 안전관리 강화의 필요성이 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-29T15:03:48+09:00",
-    "importance": 5
   }
 ]
