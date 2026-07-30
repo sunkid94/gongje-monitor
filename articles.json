@@ -23848,6 +23848,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "< 인터뷰>박용선 포항시장 \"민생 안정’과 ‘일상의 행복을 최우선 과제... - ksmnews.co.kr",
+    "link": "https://www.ksmnews.co.kr/news/view.php?idx=615786",
+    "description": "Q4 건설경기 침체, 도심공동화 등으로 지역 소상공인들이 어느 때보다 어려움에 처해 있다. 해결 방안은-금융 지원부터 소비 촉진, 원도심 재생과 상권 특화까지 연계한 민생 경제 대책을 추진해 지역 상권에 활기가 도는...",
+    "published_at": "2026-07-30T19:32:00+09:00",
+    "cluster_id": "6083",
+    "publisher": "ksmnews.co.kr",
+    "title_clean": "< 인터뷰>박용선 포항시장 \"민생 안정’과 ‘일상의 행복을 최우선 과제...",
+    "summary": "박용선 포항시장이 건설경기 침체와 도심공동화로 어려움을 겪는 지역 소상공인을 위해 금융 지원, 소비 촉진, 원도심 재생 등을 연계한 민생 경제 대책을 추진하겠다고 밝혔다. 지역 상권 활성화를 통한 경제 회복을 강조하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T19:38:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32313,22 +32329,6 @@
     "title_clean": "하반기 집값 오를까요? 56% “오른다” 10%만 “하락” [부동산360]",
     "summary": "하반기 집값에 대해 56%가 상승을 예상하고 있으며, 공사비 상승, 정부 규제, 매물 출회 등이 시장의 주요 변수로 지목되었다. 부동산 시장의 불확실성이 높은 가운데 건설·공사비 관련 요인들이 업계에 영향을 미칠 것으로 보인다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-29T14:13:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반도건설, '고양시 안전관리 우수 건설현장' 선정…산업재해예방 포상까지 - 한국금융신문",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oejhWYUpZZS1NTklCdWFZM2Z1UlozRnl4Q3Z6YzdKTnFPM1NQQ3NQcTltWGhTWVppX1JrTVlTb1lBaVAwV3MzNkszeFVhQWFwRUI5MkkxSkZ0eGJsMzFuTHpQXzY4TGNKVXdvbElHQ3lHZHlPOERPSkE2WnI?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5oejhWYUpZZS1NTklCdWFZM2Z1UlozRnl4Q3Z6YzdKTnFPM1NQQ3NQcTltWGhTWVppX1JrTVlTb1lBaVAwV3MzNkszeFVhQWFwRUI5MkkxSkZ0eGJsMzFuTHpQXzY4TGNKVXdvbElHQ3lHZHlPOERPSkE2WnI?oc=5\" target=\"_blank\">반도건설, '고양시 안전관리 우수 건설현장' 선정…산업재해예방 포상까지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국금융신문</font>",
-    "published_at": "2026-07-29T11:42:04+09:00",
-    "cluster_id": "5b87",
-    "publisher": "한국금융신문",
-    "title_clean": "반도건설, '고양시 안전관리 우수 건설현장' 선정…산업재해예방 포상까지",
-    "summary": "반도건설이 고양시로부터 '안전관리 우수 건설현장'으로 선정되고 산업재해예방 포상을 받았다. 건설현장의 안전관리 우수 사례를 보여주는 긍정적 뉴스다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-29T14:13:44+09:00",
     "importance": 2
   }
