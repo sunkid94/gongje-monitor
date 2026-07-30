@@ -23899,6 +23899,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"노후 장비·고령자도 배제 못 한다\"…중처법 안은 건설사 난감 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNlhWcmNFWnROODA1Xy0yQ0FzcGlxR2FDZnpqVXpwdVYyRFFqVnJwR3RacXJJbDhWWVpncmdBVmJJYnQwWmgwcUtyWllBbS1ySEp2WGc0UVVpSmM?oc=5",
+    "description": "연식·연령 이유 계약 제한 금지 추진…현장 안전관리 우려 \"중대재해 책임은 그대로인데 예방 기준만 제한\" 건설기계 임대 계약이나 조종사 채용 과정에서 건설기계의 연식과 조종사의 연령을 이유로 계약을 제한하지 못하도록 하는 법안이 발의되면서 건설업계가 우려를 나타내고 …",
+    "published_at": "2026-07-31T06:05:00+09:00",
+    "cluster_id": "3d22",
+    "publisher": "뉴스1",
+    "title_clean": "\"노후 장비·고령자도 배제 못 한다\"…중처법 안은 건설사 난감",
+    "summary": "건설기계 연식과 조종사 연령을 이유로 계약 제한을 금지하는 법안이 발의되면서 건설업계가 반발하고 있다. 업계는 노후 장비와 고령 작업자로 인한 현장 안전관리 악화를 우려하며, 중대재해 책임은 그대로인데 예방 기준만 제한된다고 지적하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T06:58:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32315,22 +32331,6 @@
     "publisher": "joongangenews.com",
     "title_clean": "BNK금융 \"민·관·노 손잡고 건설노동자 금융장벽 허문다\"",
     "summary": "BNK금융그룹이 건설근로자공제회, 민주노총, 한국노총과 협력하여 건설노동자의 금융접근성을 개선하고 생활 안정을 지원하는 업무협약을 체결했다. 민·관·노가 함께 건설노동자 금융장벽 해소에 나선다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:48:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"금융 문턱 낮춘다\"…BNK금융, 건설노동자 포용금융 확대 - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3650016",
-    "description": "BNK금융그룹이 소득 증빙이 어려워 금융 이용에 제약을 받아온 건설노동자 지원에 나선다. 29일, BNK금융그룹 본사에서 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹과 함께 건설노동자 금융지원 및 생활...",
-    "published_at": "2026-07-29T15:44:00+09:00",
-    "cluster_id": "edfa",
-    "publisher": "gukjenews.com",
-    "title_clean": "\"금융 문턱 낮춘다\"…BNK금융, 건설노동자 포용금융 확대",
-    "summary": "BNK금융그룹이 소득 증빙이 어려운 건설노동자를 위해 포용금융을 확대하고 있다. 건설근로자공제회, 민주노총, 한국노총 등과 협력하여 금융 접근성을 높이는 지원 사업을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T15:48:25+09:00",
     "importance": 2
