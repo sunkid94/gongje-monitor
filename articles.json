@@ -23848,6 +23848,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘대표도서관 붕괴’ 행정처분 추진…재발 방지 대책 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8624553&ref=A",
+    "description": "경찰 수사와 국립재난안전연구원 조사와 마찬가지로 국토교통부 건설사고조사위원회도 '용접 불량'과 '부실 검사'를 붕괴 원인으로 꼽았습니다. 시공된 용접 접합부 강도는 설계 강도의 22~31% 수준에 그친 것으로...",
+    "published_at": "2026-07-30T19:09:00+09:00",
+    "cluster_id": "27b2",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "‘대표도서관 붕괴’ 행정처분 추진…재발 방지 대책",
+    "summary": "국토교통부 건설사고조사위원회가 대표도서관 붕괴 원인을 '용접 불량'과 '부실 검사'로 판단하고 행정처분을 추진 중입니다. 시공 용접 강도가 설계 강도의 22~31% 수준에 불과한 것으로 확인되었습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-30T19:28:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32313,22 +32329,6 @@
     "title_clean": "전남광주통합특별시의회 안전건설위원회, 상임위 출범 후 첫 현지활동 전개 > 뉴스",
     "summary": "전남광주통합특별시의회 안전건설위원회가 에너지산업 지식산업센터와 도로개설 현장을 방문해 공사 진행 상황과 안전 실태를 점검했다. 상임위 출범 후 첫 현지활동으로 건설 사업의 안전성 확보에 중점을 두고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-29T14:13:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, 건설노동자 저금리 신용대출 공급키로 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41WFF0eWNteGtyZHo1OUV1LUQ4eEJTZXRVREtaMUQyQmpoYmx6U01zTzdVcTg3UERZbnVwRGpYdGdvU3NWQlFKendRWHduMTllN2M1ZkVuVERsSUlFV3hQRWNnUWJ2RWxORU9seA?oc=5",
-    "description": "건설근로자공제회는 부산은행과 경남은행에서 건설노동자 전용 저금리 신용대출 등이 출시될 예정이라고 밝혔다. 공제회는 29일 부산은행 본점에서 BNK금융그룹, 한국노",
-    "published_at": "2026-07-29T14:05:24+09:00",
-    "cluster_id": "d302",
-    "publisher": "기계설비신문",
-    "title_clean": "건설근로자공제회, 건설노동자 저금리 신용대출 공급키로",
-    "summary": "건설근로자공제회가 부산은행, 경남은행과 협력하여 건설노동자 전용 저금리 신용대출 상품을 출시할 예정이다. 이는 건설노동자의 금융 접근성 개선 및 금리 부담 경감을 목표로 한다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-29T14:13:44+09:00",
     "importance": 2
   }
