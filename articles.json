@@ -23882,6 +23882,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "삼성물산, 2026년 시공능력평가 1위 수성…GS건설 3위 '도약' - srtimes.kr",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=208769",
+    "description": "국토교통부는 30일 건설산업기본법에 따라 전국 7만4,332개 건설업체를 대상으로 실시한 '2026년도 시공능력평가' 결과를 공시했다. 이번 평가에 참여한 업체는 전체 건설업체 8만8,424개사의 84.1%에 해당한다. 평가...",
+    "published_at": "2026-07-30T23:18:00+09:00",
+    "cluster_id": "9c02",
+    "publisher": "srtimes.kr",
+    "title_clean": "삼성물산, 2026년 시공능력평가 1위 수성…GS건설 3위 '도약'",
+    "summary": "국토교통부가 2026년도 시공능력평가 결과를 공시했으며, 삼성물산이 1위를 유지하고 GS건설이 3위로 도약했다. 전국 7만4,332개 건설업체가 평가에 참여해 업계의 경쟁 구도 변화를 보여준다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T23:23:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32320,21 +32336,6 @@
     "summary": "건설근로자공제회가 BNK금융그룹과 양대 노총(한국노총, 민주노총)과 협력하여 건설노동자의 금융 접근성 개선과 생활 안정을 위한 포용금융 업무협약을 체결했다. 이는 건설업계 근로자의 금융복지 향상을 목표로 하는 협력 사업이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T15:28:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, BNK금융그룹·양대 노총과 「건설노동자 포용금융」 업무협약 체결 - 서울Pn",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zRlRTRXZaQUNXU1lCb3RBYnI2Y3ZxUUpYSWlEUGlGSk9OWWFRb1MxS1BtRlMxeGM5ZzVkdDVOSTR5RkY5MFprSDlBUVBabi1nQmdwY2xaRVctSEFkdGk0Qndn?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zRlRTRXZaQUNXU1lCb3RBYnI2Y3ZxUUpYSWlEUGlGSk9OWWFRb1MxS1BtRlMxeGM5ZzVkdDVOSTR5RkY5MFprSDlBUVBabi1nQmdwY2xaRVctSEFkdGk0Qndn?oc=5\" target=\"_blank\">건설근로자공제회, BNK금융그룹·양대 노총과 「건설노동자 포용금융」 업무협약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울Pn</font>",
-    "cluster_id": "1c10",
-    "publisher": "서울Pn",
-    "title_clean": "건설근로자공제회, BNK금융그룹·양대 노총과 「건설노동자 포용금융」 업무협약 체결",
-    "summary": "건설근로자공제회가 BNK금융그룹과 양대 노총과 함께 건설노동자 포용금융 업무협약을 체결했다. 이는 건설노동자의 금융접근성 개선 및 복지 확대를 위한 협력체계 구축을 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:08:26+09:00",
     "importance": 2
   }
 ]
