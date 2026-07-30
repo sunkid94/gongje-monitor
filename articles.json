@@ -23882,6 +23882,21 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도의회 유재수 의원, 건설현장 입찰 제도 개선 및 신안산선과 화물차 주차난 등 현안 해결 당부 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41UkkxUkIyd094dE0yaWl5RXpRelQ4ZVN5azJaS0d6MXp0ZTRVMXhxR2gxUVdyWVF4VDhWUmp5ZlU5N3Q4aUIyYU9id2pCQ25MSWE0ekxlRjhWVTVqOUJqVnQ2WUJtWTAxUXNWNHVVN00?oc=5",
+    "description": "건설국과 철도항만물류국 등 대상 업무보고서 부실기업 입찰 방지 제도 개선과 신안산선 조속 개통 및 화물차 주차난 대책 촉구",
+    "cluster_id": "f35e",
+    "publisher": "더코리아",
+    "title_clean": "경기도의회 유재수 의원, 건설현장 입찰 제도 개선 및 신안산선과 화물차 주차난 등 현안 해결 당부",
+    "summary": "경기도의회 유재수 의원이 건설현장 입찰 제도 개선을 통해 부실기업 입찰 방지를 당부했습니다. 신안산선 조속 개통과 화물차 주차난 대책도 함께 촉구했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T05:38:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32315,22 +32330,6 @@
     "publisher": "newsclaim.co.kr",
     "title_clean": "BNK금융 건설노동자 포용금융 협약",
     "summary": "BNK금융그룹이 건설근로자공제회, 민주노총 건설산업연맹, 한노총 건설연맹과 함께 건설노동자 포용금융을 위한 협약을 체결했다. 이는 건설노동자의 금융지원 및 생활 안정을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:43:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"팔 드는 일 줄인다\"…현대건설, 건설현장에 '웨어러블 로봇' 첫 투입 - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=149791",
-    "description": "현대건설과 현대엔지니어링의 통합 연구개발 조직인 HMG건설기술연구원은 스마트건설연구실과 로보틱스연구팀, AI연구팀 등을 운영하며 현장 자동화 기술을 고도화하고 있다. 현재 지상제어 타워크레인, 야간 자율...",
-    "published_at": "2026-07-29T15:38:00+09:00",
-    "cluster_id": "8f89",
-    "publisher": "smartbizn.com",
-    "title_clean": "\"팔 드는 일 줄인다\"…현대건설, 건설현장에 '웨어러블 로봇' 첫 투입",
-    "summary": "현대건설이 HMG건설기술연구원을 통해 웨어러블 로봇 등 스마트건설 기술을 개발해 건설현장에 첫 투입하고 있다. 지상제어 타워크레인, 야간 자율주행 등 현장 자동화 기술을 고도화하여 근로자의 신체 부담을 경감하고 안전성을 높이는 혁신을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T15:43:30+09:00",
     "importance": 2
