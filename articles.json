@@ -23882,6 +23882,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“작업화까지 땀 범벅” 폭염 산재와 사투 - donga.com",
+    "link": "https://www.donga.com/news/Society/article/all/20260730/134398184/2",
+    "description": "건설노동자 김대전 씨(57)가 작업을 앞두고 야외에서 바람을 쐬며 휴식을 취하고 있었다. 김 씨는 오후 10시부터 다음 날 오전 5시까지 건물 10층 식당의 인테리어 철거 작업을 약 한 달째 해왔다. 바람이 통하지 않는...",
+    "published_at": "2026-07-31T04:35:00+09:00",
+    "cluster_id": "9280",
+    "publisher": "donga.com",
+    "title_clean": "“작업화까지 땀 범벅” 폭염 산재와 사투",
+    "summary": "폭염 속 야간 건설노동자들이 열악한 작업 환경에서 산업재해 위험에 노출되어 있다. 건설업계의 안전 문제와 노동자 보호 현황을 조명한 기사다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T04:38:37+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "\"AI로 현장 혁신\"…'설계'부터 '안전'까지 건설 전 과정에 AI 생태계 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/07/31/2026073010152887738",
+    "description": "대우건설은 국토교통부가 주관하는 스마트건설 얼라이언스 의장사로서 관련 기술 확산을 주도하고 있다. AI가 만든 정원, 설계 패러다임을 바꾸다 대우건설은 조경 분야에서도 AI 활용을 본격화하고 있다. AI는 공간...",
+    "published_at": "2026-07-31T04:35:00+09:00",
+    "cluster_id": "8b17",
+    "publisher": "mt.co.kr",
+    "title_clean": "\"AI로 현장 혁신\"…'설계'부터 '안전'까지 건설 전 과정에 AI 생태계",
+    "summary": "대우건설이 국토교통부 스마트건설 얼라이언스 의장사로서 AI 기술을 건설 전 과정(설계, 조경, 안전 등)에 적용하는 생태계를 주도하고 있다. AI 기반 설계 및 조경 혁신으로 건설산업의 디지털 혁신을 선도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T04:38:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32302,37 +32334,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-29T15:40:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "BNK금융, 건설노동자 맞춤 금융지원…포용금융 확대 - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202607290154",
-    "description": "BNK금융그룹이 건설근로자공제회, 건설노조와 손잡고 건설노동자를 위한 맞춤형 금융지원에 나선다. 소득 증빙이 어려워 제도권 금융 이용에 제약을 받았던 일용직 건설노동자의 금융 접근성을 높이고, 포용금융을...",
-    "published_at": "2026-07-29T15:34:00+09:00",
-    "cluster_id": "322c",
-    "publisher": "sentv.co.kr",
-    "title_clean": "BNK금융, 건설노동자 맞춤 금융지원…포용금융 확대",
-    "summary": "BNK금융그룹이 건설근로자공제회, 건설노조와 협력하여 일용직 건설노동자를 위한 맞춤형 금융지원 상품을 출시한다. 소득 증빙이 어려웠던 건설노동자의 금융 접근성을 높이고 포용금융을 확대하는 것이 목표다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:38:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"청소도 로봇이 한다\"···롯데건설, 자율주행 청소로봇 현장 투입 - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=149785",
-    "description": "한 대형 건설사 스마트건설 담당 관계자는 \"건설현장의 로봇 도입은 단순한 기술 시연 단계를 넘어 실제 공정에 적용되는 사례가 빠르게 늘고 있다\"며 \"반복적이고 위험도가 있는 작업부터 자동화가 확산되면서 향후에는...",
-    "published_at": "2026-07-29T15:30:00+09:00",
-    "cluster_id": "c359",
-    "publisher": "smartbizn.com",
-    "title_clean": "\"청소도 로봇이 한다\"···롯데건설, 자율주행 청소로봇 현장 투입",
-    "summary": "롯데건설이 자율주행 청소로봇을 건설현장에 투입하며, 건설현장의 로봇 도입이 기술 시연 단계를 넘어 실제 공정에 적용되는 사례가 확산되고 있다. 반복적이고 위험도가 있는 작업부터 자동화가 진행되면서 건설업의 혁신적 변화가 가속화되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:33:31+09:00",
-    "importance": 2
   }
 ]
