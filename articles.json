@@ -23882,6 +23882,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "호반그룹, 전국 건설 현장에 팥빙수 쏜다 - 서울신문",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wbjd1UjM1NlJ5VlRDeFpSY2ZzRGxtaTdiTWxxME1VTmZoTVgxYzNJYzZLaDg3OWVHUkhaNnVKclluelJaQmNUSV9sR2NXaWxWQTJCSVdWTVRkNlZnNExWVjBNcng0Tm45MHJyaEVrTQ?oc=5",
+    "description": "호반그룹이 폭염 속 건설현장 근로자의 온열질환 예방을 위해 전국 현장에 팥빙수와 냉음료를 제공하는 푸드트럭을 운영했다. 쿨링조끼와 폭염 응급키트도 전달하고, 체감온도 기준 휴식과 그늘막·에어컨 설치 등 안전관리도 강화했다.",
+    "cluster_id": "23f9",
+    "publisher": "서울신문",
+    "title_clean": "호반그룹, 전국 건설 현장에 팥빙수 쏜다",
+    "summary": "호반그룹이 전국 건설현장에서 폭염으로 인한 근로자 온열질환 예방을 위해 팥빙수, 냉음료 푸드트럭 운영 및 쿨링조끼, 응급키트를 제공했다. 체감온도 기준 휴식, 그늘막·에어컨 설치 등 안전관리를 강화하여 근로자 복지 개선을 시행했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-31T01:13:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32318,22 +32333,6 @@
     "title_clean": "안전보건공단 경영기획이사, 대구 방문 폭염 대응 현장점검",
     "summary": "안전보건공단이 폭염에 따른 산업재해 예방을 위해 대구지역 건설현장의 안전관리 실태를 점검했다. 경영기획이사가 현장을 방문하여 비상경영체제 추진 상황과 사업 개편 현황을 확인했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-29T15:28:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반도건설, 고양 장항 현장 '안전관리 우수 현장'으로 선정돼 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472596",
-    "description": "건설현장 안전 관리 수준이 기업 경쟁력의 핵심 요소로 떠오르는 가운데 반도건설이 현장 중심의 안전보건 체계를 인정받았다. 대규모 주거단지 조성 현장에서 체계적인 위험 관리와 안전문화 정착 노력을 이어온...",
-    "published_at": "2026-07-29T15:24:00+09:00",
-    "cluster_id": "bbc6",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "반도건설, 고양 장항 현장 '안전관리 우수 현장'으로 선정돼",
-    "summary": "반도건설이 고양 장항 현장에서 체계적인 위험 관리와 안전문화 정착으로 '안전관리 우수 현장'으로 선정되었다. 건설현장 안전관리가 기업 경쟁력의 핵심 요소로 부각되는 가운데 현장 중심의 안전보건 체계가 인정받은 사례다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-29T15:28:56+09:00",
     "importance": 2
   }
