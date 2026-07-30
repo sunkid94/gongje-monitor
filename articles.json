@@ -23865,6 +23865,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한화 건설부문, 장비관리자 전문화 교육 실시…중대재해 예방 강화 - 주간한국",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wUVhkYmxzeWJ4MGI5VVQwQmp3YXowRmZOTzZheGxSTmo5bXBvZWZCZUZZSnFqRVZjby1lQnpUaWNuSXBteGhVVl95ZjRMWmt5VVlhYzhwR21OR0JGc0lTcHlwQXcxZGxwMlZWNGtTU3DSAXRBVV95cUxORTVydjBLc1dfdl96UlgweTFBOHdxOTZVRlpHUlhFRHpKbXhpeXpTN2pXMlJQRUZhWHdoSWJnMWlxUHBjV3hsS3ljUURrUHcxRWpZRGNKQ2N1dXVDZDMyZEVqX2RuWkZjVnIyRWI3S1RmVDF3cg?oc=5",
+    "description": "[주간한국 김택수 기자] 한화 건설부문은 지난 29일 충북 음성 음성문화예술회관과 동건티엔엘 제2공장에서 현장 장비관리자 30여 명을 대상으로 전문화 교육을 실시했다고 30일 밝혔다. 이번 교육은 건설중장비 관련 사고가 건설현장 중대재해의 30% 이상을 차지하는 만큼 안전관리 역량 강화가 시급하다는 판단에 따른 것이다. 오전에는 음성문화예술회관에서 건설용 리프트의 종류와 안전장치 작동 원리, 사고 사례 등 이론교육을 진행했고 오후에는 동건티엔엘 제2공장으로 이동해 탑승·작동, 각종 설비 점검 등 실습교육을 이어갔다. 전문 협력사인",
+    "published_at": "2026-07-30T08:57:30+09:00",
+    "cluster_id": "a064",
+    "publisher": "주간한국",
+    "title_clean": "한화 건설부문, 장비관리자 전문화 교육 실시…중대재해 예방 강화",
+    "summary": "한화 건설부문이 건설중장비 관련 사고 예방을 위해 현장 장비관리자 30여 명을 대상으로 이론 및 실습 교육을 실시했다. 건설중장비 사고가 중대재해의 30% 이상을 차지하는 만큼 안전관리 역량 강화에 나선 것이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T21:13:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32319,21 +32335,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-29T14:58:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "수도권·충청 '반도체 초호황' 누릴 때, 강원·호남·동남권은 소외됐다 - hankookilbo.com",
-    "link": "https://www.hankookilbo.com/news/article/A2026072909060001260?did=NA",
-    "description": "강원권에서는 건설경기 부진으로 시멘트 업체들이 생산량을 조절하는 긴축 운영에 나서면서 생산이 줄었다. 자동차 부품도 미국의 자동차 관세 부과 영향이 이어지는 가운데 전기차 구매 혜택 축소에 따른 신차 수요...",
-    "published_at": "2026-07-29T14:49:00+09:00",
-    "cluster_id": "80c0",
-    "publisher": "hankookilbo.com",
-    "title_clean": "수도권·충청 '반도체 초호황' 누릴 때, 강원·호남·동남권은 소외됐다",
-    "summary": "수도권·충청 지역이 반도체 호황으로 성장하는 반면, 강원·호남·동남권은 건설경기 부진과 자동차 산업 위축으로 경제 침체를 겪고 있다. 시멘트, 자동차 부품 등 주요 산업의 생산 감소로 지역 간 경제 격차가 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-29T14:53:13+09:00",
-    "importance": 4
   }
 ]
