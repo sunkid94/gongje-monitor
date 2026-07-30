@@ -23882,6 +23882,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[건설 브리핑] ‘스마트 주거·도시재생’ 혁신 바람...로봇·AI 기술 도입부터 도심 유휴공간의 변신까지 - dailypop.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03SVY2Q3Y1SERiR1Vlc3ppcm1aNlAtSDdiV1dMdjlrWmJWbWdybnF0U3N4cXk2N1U4LTM0NlhuNTRFWFFTbHdlVTk0dkROb2luZ3N0eHZic2E3TWNHNzN1eC0yZ2VxZS1G?oc=5",
+    "description": "도심 내 방치된 유휴공간이 주민 편의시설과 공공임대주택, 문화공간으로 탈바꿈하고, 건설 현장에는 착용형 로봇이 투입되는 등 국내 건설·부동산 및 IT·테크 분야에서 ‘공간의 재해석’과 ‘사람 중심의 기술 혁신’이 활발히 이뤄지고 있다. 공공기관과 민간 기업이 협력해 공간의 가치를 높이고 근로자 안전과 주민 복지를 동시에 아우르는 새로운 주거 생태계 구축에 속도를 내는 모습이다.현대건설, 건설업계 최초 Wearable 로봇 ‘엑스블 숄더’ 현장 투입공간의 혁신과 더불어 건설 현장의 일하는 방식에도 최첨단 로봇 기술이 도입되어 근로자",
+    "published_at": "2026-07-30T13:33:00+09:00",
+    "cluster_id": "fc80",
+    "publisher": "dailypop.kr",
+    "title_clean": "[건설 브리핑] ‘스마트 주거·도시재생’ 혁신 바람...로봇·AI 기술 도입부터 도심 유휴공간의 변신까지",
+    "summary": "국내 건설·부동산·IT 분야에서 도심 유휴공간을 주거·문화시설로 재개발하고 건설 현장에 착용형 로봇 등 첨단 기술을 도입하는 혁신이 활발히 진행 중이다. 현대건설이 건설업계 최초로 웨어러블 로봇을 현장 투입하는 등 근로자 안전성과 작업 효율성 개선에 나서고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T00:03:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32319,21 +32335,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-29T15:28:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH 대전충남본부, 대전둔곡 현장 찾아 폭염·안전관리 점검 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Zb0lJSkZHdFNQb2xDdUJ6bkl1QXVOSFQ0SFUxdnRBSUZpanhzY090ZldsNmgtNWJrOW5LdmppUjFoTTQxbnBqeXo2UUI1MmxDWmpOOExjZFRteVMzMzZVTdIBeEFVX3lxTE1nSTFvU0JycVpsNXVhbUhzbHJ0NEl2U2FFc25JOG5HS3VrbkVOOHJMSEJlNjRsdS1EamFmVjZCOUlPemNacktZdEFNUHhaSnlqZGtKOVcwNDg4UDRpZXkzX3FBWktob0pRREhzanlnTjhoUGgwNzNnSQ?oc=5",
-    "description": "[대전=뉴시스]곽상훈 기자 = LH 대전충남지역본부는 폭염경보가 발효 중인 가운데 건설현장 근로자의 안전을 위해 폭염 취약 요소 및 안전대책 준비 상태 등을 점검했다고 29일 밝혔다.본부는 670여 세대 대단지 규모의 대전둔곡 A-4BL 건설현장을 찾아 근로자 휴게시설과 식수, 응급세트 등 폭염 예방물품 비치 상태를 확인했다.체감온도가 높은 낮 시간대 옥외..",
-    "published_at": "2026-07-29T15:17:16+09:00",
-    "cluster_id": "686e",
-    "publisher": "뉴시스",
-    "title_clean": "LH 대전충남본부, 대전둔곡 현장 찾아 폭염·안전관리 점검",
-    "summary": "LH 대전충namibia본부가 폭염경보 발효 중 대전둔곡 건설현장을 점검하여 근로자 안전관리 상태를 확인했다. 휴게시설, 식수, 응급세트 등 폭염 예방물품 비치 상태와 안전대책 준비 상태를 검토했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-29T15:28:56+09:00",
-    "importance": 2
   }
 ]
