@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "무경, 설비건설 평가액 2408억 2년 연속 1위 - ulsanpress.net",
+    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=580199",
+    "description": "대한기계설비건설협회 울산·경남도회가 울산지역 설비건설업체 461개사를 대상으로 산정한 2026년 시공능력평가에 따르면 무경의 평가액은 2,408억5,596만원으로 집계됐다. 동일산업이 1,436억9,952만원으로 2위...",
+    "published_at": "2026-07-30T21:29:00+09:00",
+    "cluster_id": "274f",
+    "publisher": "ulsanpress.net",
+    "title_clean": "무경, 설비건설 평가액 2408억 2년 연속 1위",
+    "summary": "대한기계설비건설협회 울산·경남도회가 발표한 2026년 시공능력평가에서 무경이 2,408억원으로 2년 연속 1위를 차지했다. 울산지역 설비건설업체 461개사를 대상으로 산정된 평가 결과이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T21:33:40+09:00",
+    "event_label": "대한기mechanicse설비건설협회 2026년 시공능력평가 발표",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -23865,6 +23882,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정 - ulsanpress.net",
+    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=580188",
+    "description": "울산공업고는 2023년 화공에너지과와 스마트전기전자과, 2025년 스마트건설과가 교육부 학과 개편 사업에 선정된 바 있다. 울산마이스터고 자동화시스템과는 로봇용접과 스마트 자동화 기술 관련 교육과정을 도입해 미래...",
+    "published_at": "2026-07-30T21:29:00+09:00",
+    "cluster_id": "0af5",
+    "publisher": "ulsanpress.net",
+    "title_clean": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정",
+    "summary": "울산공업고와 울산마이스터고가 교육부 직업계고 재구조화 지원사업에 선정되어 화공에너지, 스마트전기전자, 스마트건설, 로봇용접 등 미래 산업 맞춤형 학과를 개편·운영한다. 이는 건설·기계설비 산업의 숙련 인력 양성 기반을 확대하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-30T21:33:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32301,38 +32334,6 @@
     "title_clean": "경기도-GH, 건설기계·자재대금 직접지급 확대… 임금체불 '제로화' 선언 - m-i.kr",
     "summary": "경기도와 GH가 51개 사업 현장에서 건설노동자 임금 및 하도급·건설기계·자재대금 체불 예방을 위한 공동 대응체계를 구축하기로 했다. 직접지급 확대를 통해 임금체불 '제로화'를 선언했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-29T14:58:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설·건축·인테리어 전시회 '2026 코리아빌드위크' 8월 코엑스 개최 - gosiweek.com",
-    "link": "https://www.gosiweek.com/article/1065592442167775",
-    "description": "㈜메쎄이상이 주최하는 이번 행사는 약 600개 기업이 참여하는 1,900부스 규모로 진행되며 건축자재부터 스마트건설, 공간디자인, 인테리어까지 산업 전반을 아우르는 다양한 제품과 기술을 소개한다. 전시는 분야별...",
-    "published_at": "2026-07-29T14:56:00+09:00",
-    "cluster_id": "ef0f",
-    "publisher": "gosiweek.com",
-    "title_clean": "건설·건축·인테리어 전시회 '2026 코리아빌드위크' 8월 코엑스 개최",
-    "summary": "메쎄이상이 8월 코엑스에서 '2026 코리아빌드위크'를 개최하며, 약 600개 기업이 참여하는 1,900부스 규모로 건축자재부터 스마트건설, 인테리어까지 건설산업 전반의 제품과 기술을 선보인다. 업계 내 네트워킹과 최신 기술 공유의 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T14:58:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "KBI건설, 무재해 준공 및 2025년 안전보건 최우수현장 시상식 개최 - 시장경제신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiODFlWklJcl9xMWV4aHpyY2lzc09YbnNnek00akdQUjJIS2tZcUdKb1NfSmNLS1ZKX2tua1Y3Zm9GcGMyVC1BaE5ZT0JEVm1fVm5wbE1fdkhfZHYxSVpILUN4SGtEWWtabG81Z3Jfd2Q?oc=5",
-    "description": "KBI그룹 건설부문을 이끌고 있는 KBI건설은 지난 21일 갑을빌딩 8층 컨퍼런스룸에서 ‘의왕 고천2초등학교 신축공사 무재해 준공 및 2025년 안전보건 최우수현",
-    "published_at": "2026-07-29T14:52:27+09:00",
-    "cluster_id": "7e67",
-    "publisher": "시장경제신문",
-    "title_clean": "KBI건설, 무재해 준공 및 2025년 안전보건 최우수현장 시상식 개최",
-    "summary": "KBI건설이 의왕 고천2초등학교 신축공사를 무재해로 준공하고 2025년 안전보건 최우수현장 시상식을 개최했다. 건설 현장의 안전보건 관리 우수사례를 공유하는 산업계 긍정 신호이다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-29T14:58:30+09:00",
     "importance": 2
   }
