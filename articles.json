@@ -23848,6 +23848,21 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고용노동부 강원지청, 30일 중대재해 예방 위한 ‘건설공사 발주 공공기관 긴급 간담회’ 개최 - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWakJXQXNzN0lFcVZTTGlXMC1fdjZsN1l4VlFidVc0QmFVekNtX1RDVjQxYVNET2FYWWYwcXJhTTZXUmZLY3hPWmtUSm5JaTlNNTZCRXlPSmY?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWakJXQXNzN0lFcVZTTGlXMC1fdjZsN1l4VlFidVc0QmFVekNtX1RDVjQxYVNET2FYWWYwcXJhTTZXUmZLY3hPWmtUSm5JaTlNNTZCRXlPSmY?oc=5\" target=\"_blank\">고용노동부 강원지청, 30일 중대재해 예방 위한 ‘건설공사 발주 공공기관 긴급 간담회’ 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+    "cluster_id": "28e1",
+    "publisher": "강원일보",
+    "title_clean": "고용노동부 강원지청, 30일 중대재해 예방 위한 ‘건설공사 발주 공공기관 긴급 간담회’ 개최",
+    "summary": "고용노동부 강원지청이 건설공사 발주 공공기관을 대상으로 중대재해 예방을 위한 긴급 간담회를 개최했다. 이는 건설업 안전 규제 강화 움직임으로 업계의 규제 부담 증가를 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-30T19:33:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32314,21 +32329,6 @@
     "title_clean": "반도건설, '고양시 안전관리 우수 건설현장' 선정…산업재해예방 포상까지",
     "summary": "반도건설이 고양시로부터 '안전관리 우수 건설현장'으로 선정되고 산업재해예방 포상을 받았다. 건설현장의 안전관리 우수 사례를 보여주는 긍정적 뉴스다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-29T14:13:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전남광주통합특별시의회 안전건설위원회, 상임위 출범 후 첫 현지활동 전개 > 뉴스 - 더코리아",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sUGZkN3VneHhWcDRMMkFPbHFUQnc3VjVwQlNMZWxSZlQ3T0lMR3RQTndRU2lpRDJyNzU5a1pSTjhnTXVPQ1VNVkNBRFctbnFKRzRQNUl3cDBIYkRBTVczMF9mVEQwLU45WkVvV1c4d2M?oc=5",
-    "description": "에너지산업 지식산업센터 및 도로개설 현장 방문해 진행 상황과 안전 실태 점검",
-    "cluster_id": "8c08",
-    "publisher": "더코리아",
-    "title_clean": "전남광주통합특별시의회 안전건설위원회, 상임위 출범 후 첫 현지활동 전개 > 뉴스",
-    "summary": "전남광주통합특별시의회 안전건설위원회가 에너지산업 지식산업센터와 도로개설 현장을 방문해 공사 진행 상황과 안전 실태를 점검했다. 상임위 출범 후 첫 현지활동으로 건설 사업의 안전성 확보에 중점을 두고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-29T14:13:44+09:00",
     "importance": 2
   }
