@@ -23623,6 +23623,37 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설업 고용 2년만에 증가 전환...실질임금은 두달째 줄어 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/life/2348778.htm",
+    "description": "정향숙 노동시장조사과장은 이날 브리핑에서 \"건설수주와 착공면적, 건설기성 등 건설 지표는 개선 흐름을 보이고 있다\"며 \"살아난다고 하기에는 아직 더 지켜봐야 한다\"고 설명했다. 제조업 종사자도...",
+    "published_at": "2026-07-30T12:55:00+09:00",
+    "cluster_id": "9052",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "건설업 고용 2년만에 증가 전환...실질임금은 두달째 줄어",
+    "summary": "건설업 고용이 2년만에 증가로 전환되며 건설수주, 착공면적 등 지표가 개선 흐름을 보이고 있다. 다만 실질임금은 2개월째 감소하고 있어 업계 회복이 아직 초기 단계로 평가된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T12:58:28+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대우건설, 한국재난안전기술원과 안전관리 및 연구개발 협력 업무협약 체결 - 이슈투데이",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QVHlzZ2UtbFVuQlVvWlgzQzVFZGlNX3VjVld3d0k5OGxITmEtQTNxNUV5elE1bzg0d0JqWi1CXzl3R0hzY3NHREtxUzBiUVp3VEo5UHN3UmlIQ2lOcGZlcVRQbkdmUQ?oc=5",
+    "description": "대우건설은 29일 을지로 본사에서 한국재난안전기술원과 건설 및 재난안전 분야 연구개발과 안전교육 협력을 위한 업무협약(MOU)을 체결했다. 협약식에는 대우건설 신동혁 CSO를 비롯한 안전담당 임원과 안전보건팀장, 한국재난안전기술원 송창영 이사장, 정상만 원장 등 양측 관계자들이 참석해 건설현장 안전관리 역량 강화와 재난안전 분야 협력 확대 방안을 논의했다.",
+    "cluster_id": "cba0",
+    "publisher": "이슈투데이",
+    "title_clean": "대우건설, 한국재난안전기술원과 안전관리 및 연구개발 협력 업무협약 체결",
+    "summary": "대우건설이 한국재난안전기술원과 건설 및 재난안전 분야의 연구개발과 안전교육 협력을 위한 업무협약을 체결했다. 양 기관은 건설현장 안전관리 역량 강화와 재난안전 분야 협력 확대 방안을 논의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T12:58:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32276,38 +32307,6 @@
     "summary": "건설경기 침체와 산업구조 변화로 인해 건설 고용이 4년간 26만 명 감소했으며, 당분간 고용 부진이 지속될 것으로 예상된다. 건설업계는 경기 회복과 구조 개선이 필요한 상황에 직면해 있다.",
     "sentiment": "negative",
     "collected_at": "2026-07-28T13:59:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "주택·해외 불확실성 커지자, '특화 공종' 키우는 중견건설사 - the-biz.co.kr",
-    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725155",
-    "description": "도로와 철도, 항만 등은 주택사업보다 발주와 자금 조달의 안정성이 높아 건설경기 변동에 따른 위험을 줄일 수 있는 분야로 꼽힌다. 업계가 주요 건설사의 공공공사 수주 실적을 집계한 결과 올해 상반기 계룡건설은...",
-    "published_at": "2026-07-28T13:46:00+09:00",
-    "cluster_id": "2b53",
-    "publisher": "",
-    "title_clean": "주택·해외 불확실성 커지자, '특화 공종' 키우는 중견건설사 - the-biz.co.kr",
-    "summary": "주택·해외 시장의 불확실성이 커지면서 중견건설사들이 도로, 철도, 항만 등 공공공사 분야로 사업 다각화를 추진 중이다. 공공공사는 발주와 자금 조달이 안정적이어서 건설경기 변동에 따른 위험을 줄일 수 있는 전략으로 평가된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-28T13:50:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도 소규모 건설현장 추락 예방…8월 말까지 보호구 배부 - 글로벌E",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DNVlreW9vbGt2WGNhUExULXhzYmpkRUtjWl9PNGJPcjhHV0hvZHY1a2JKc0dYNklKSmNWWDRHY0gyLWtVZUdzWHN3aEVYcExpUXh3RWdvUGMwTzFHTUpLV3FiNFdNdXdXelFZ0gFvQVVfeXFMT3AtZ1U0NUtnR2NnNE82M3lnb19VRzhpLW96TmNaRFAzWUFmeEZ0Nmc2LXhCa25sNW1WZnhDLVRLMlQ5eF9hMDJJZGxuVUZEOGZvT2lUMjBhLTRWYk9mX1ZXQUNDR1lTUy10QUIxSUFV?oc=5",
-    "description": "경기도가 공사금액 5억 원 미만의 민간 건설현장에 전신안전벨트와 안전각반 등 추락사고 예방용품 600개를 지원한다. 도내 31개 시군이 공사가 진행 중인 현장을 확인해 추락 위험이 있는 작업장을 선별하고, 오는 8월 말까지 보호구를 지급할 예정이다.지원 물품은 전신안전벨트 200개와",
-    "published_at": "2026-07-28T13:24:21+09:00",
-    "cluster_id": "ac08",
-    "publisher": "글로벌E",
-    "title_clean": "경기도 소규모 건설현장 추락 예방…8월 말까지 보호구 배부",
-    "summary": "경기도가 5억 원 미만 소규모 건설현장의 추락사고 예방을 위해 전신안전벨트, 안전각반 등 보호구 600개를 8월 말까지 배부한다. 31개 시군이 위험현장을 선별하여 지원할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-28T13:50:01+09:00",
     "importance": 4
   }
 ]
