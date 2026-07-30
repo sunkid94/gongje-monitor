@@ -23882,6 +23882,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "보성군의회 문점숙 산업건설위원장, 지역건설산업 활성화 및 공정 하도급 촉구 > 뉴스 - thekorea.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSd01XS0xhQWc3Nkp4d3FNdEt1RFpHV3hnTENQNkVTb0hBRUJsVXJ2Z3FqREZxSm04eDV3LUhQYVVMazlHaDBQZ3FnbzY4RXc1UVNsa3Y5emF5anByY1NNU0dreGI5NUlLYWxnU1ZndnM?oc=5",
+    "description": "5분 자유발언 통해 하도급 관리 전담조직 신설 및 지역업체 우선 참여 제안",
+    "cluster_id": "bc0f",
+    "publisher": "thekorea.kr",
+    "title_clean": "보성군의회 문점숙 산업건설위원장, 지역건설산업 활성화 및 공정 하도급 촉구 > 뉴스",
+    "summary": "보성군의회 문점숙 산업건설위원장이 지역건설산업 활성화를 위해 하도급 관리 전담조직 신설과 지역업체 우선 참여를 촉구했다. 공정한 하도급 거래질서 확립을 통해 건설산업 생태계 개선을 제안했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T03:38:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32317,22 +32332,6 @@
     "title_clean": "\"청소도 로봇이 한다\"···롯데건설, 자율주행 청소로봇 현장 투입",
     "summary": "롯데건설이 자율주행 청소로봇을 건설현장에 투입하며, 건설현장의 로봇 도입이 기술 시연 단계를 넘어 실제 공정에 적용되는 사례가 확산되고 있다. 반복적이고 위험도가 있는 작업부터 자동화가 진행되면서 건설업의 혁신적 변화가 가속화되고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-29T15:33:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH 대전충남, 건설현장 폭염 대응 점검…옥외작업 탄력 운영 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16emVaSExQZmM1T1BLb1dVeEktMHNpMGVqUUR0Vnp5T0VsZ00xdmNiMDRIMDVBWmpzNGcwSVV4TXQ0SkJLcnhhcUFwT2NiTWRxcnFnSE9NSzJWUnh3?oc=5",
-    "description": "[대전=뉴스핌] 오영균 기자 = LH 대전충남지역본부가 폭염 속 건설현장 근로자의 온열질환과 안전사고를 막기 위해 현장 대응체계 점검에 나섰다.LH 대전충남지역본부는 지난 28일 대전둔곡 A-4BL 건설현장을 찾아 폭염 취약 요인과 근로자 보호대책 이행 상황을 점검했다",
-    "published_at": "2026-07-29T15:28:00+09:00",
-    "cluster_id": "f19a",
-    "publisher": "뉴스핌",
-    "title_clean": "LH 대전충남, 건설현장 폭염 대응 점검…옥외작업 탄력 운영",
-    "summary": "LH 대전충남지역본부가 폭염 시즌을 맞아 건설현장의 온열질환 및 안전사고 예방을 위해 현장 점검에 나섰다. 대전둔곡 건설현장에서 폭염 취약 요인과 근로자 보호대책 이행 상황을 확인했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-29T15:33:31+09:00",
     "importance": 2
   }
