@@ -7930,6 +7930,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성물산 13년 연속 시공능력 1위…GS건설 ‘빅3’ 복귀 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20260730021098090",
+    "description": "GS건설과 현대엔지니어링은 각각 두 계단씩 뛰어오른 반면 대우건설과 DL이앤씨는 순위가 두 단계씩 하락했다. 국토교통부가 30일 발표한 '2026년도 건설업체 시공능력평가'에 따르면 토목건축공사업 평가액은...",
+    "published_at": "2026-07-30T22:30:00+09:00",
+    "cluster_id": "b507",
+    "publisher": "ekn.kr",
+    "title_clean": "삼성물산 13년 연속 시공능력 1위…GS건설 ‘빅3’ 복귀",
+    "summary": "국토교통부의 2026년 건설업체 시공능력평가 결과 삼성물산이 13년 연속 1위를 유지했으며, GS건설이 순위를 올려 빅3에 복귀했다. 현대엔지니어링도 상승세를 보인 반면 대우건설과 DL이앤씨는 하락했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-30T22:38:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -23861,22 +23877,6 @@
     "publisher": "viva100.com",
     "title_clean": "대우건설, KINX와 데이터센터 개발 협력…‘통합 디벨로퍼’ 역량 강화",
     "summary": "대우건설이 데이터센터 전문 운영사 KINX와 MOU를 체결하여 개발·시공·운영을 통합한 사업체계를 구축한다. 이는 건설사의 통합 디벨로퍼 역량 강화와 데이터센터 시장 진출을 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-24T16:52:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "현장 경쟁력의 시대... 교육과 소통이 승부 가른다 - pressman.kr",
-    "link": "https://www.pressman.kr/news/articleView.html?idxno=102879",
-    "description": "롯데건설은 23일 서울 서초구 엘타워에서 열린 '소셜아이어워드 2026'에서 디자인 혁신대상과 건설브랜드분야 디지털영상 대상을 받으며 2관왕에 올랐다. 디자인 혁신대상은 전 분야에서 가장 뛰어난 디자인 혁신성을...",
-    "published_at": "2026-07-24T16:44:00+09:00",
-    "cluster_id": "f399",
-    "publisher": "pressman.kr",
-    "title_clean": "현장 경쟁력의 시대... 교육과 소통이 승부 가른다",
-    "summary": "롯데건설이 '소셜아이어워드 2026'에서 디자인 혁신대상과 건설브랜드분야 디지털영상 대상을 수상하며 2관왕을 달성했다. 건설업체의 혁신적 디자인과 디지털 마케팅 역량을 인정받은 사례로, 건설업계의 기술 경쟁력 강화를 보여준다.",
     "sentiment": "positive",
     "collected_at": "2026-07-24T16:52:33+09:00",
     "importance": 2
