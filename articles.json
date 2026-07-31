@@ -23638,6 +23638,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[베트남 인프라 대전환①] 70조원대 북남고속철도 열린다 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sRkQ4OXlhTjRyYy1sN0lwVDg5eTJrblFyZF9ZRXVRdnV3RkRvSFkyemVjMmExcWFValhDSXFWOTQ1b2UyQ2p1dGQ4MXJJaGFSMnE2dmdadXBUWFFwMlE0YThsbXcyZlU?oc=5",
+    "description": "김윤덕 국토교통부 장관이 7월 30일 베트남 하노이에서 또 럼 당서기장을 만나 북남고속철도와 도시개발 분야의 협력 확대를 논의했다. 단순한 외교적 면담을 넘어 대통령 친서가 전달됐고, 베트남 측도 기술기준 마련과 기술이전, 전문인력 양성 등에서 한국과 실질적인 협력을 희망한다는 뜻을 밝혔다.특히 양국은 ‘한-베 철도협력회의’를 정례적인 정부 간 채널로 발전시키기로 했다. 박닌성 동남신도시 사업도 투자정책승인 절차를 거쳐 LH와 국내 기업이 참여하는 민관 컨소시엄 방식으로 추진될 가능성이 커지고 있다.베트남은 고속철도·도",
+    "published_at": "2026-07-31T20:34:33+09:00",
+    "cluster_id": "80f0",
+    "publisher": "국토교통신문",
+    "title_clean": "[베트남 인프라 대전환①] 70조원대 북남고속철도 열린다",
+    "summary": "한국 국토교통부 장관이 베트남을 방문하여 70조원대 북남고속철도 사업과 도시개발 협력을 논의했으며, 양국은 정례적인 철도협력회의 채널을 구축하기로 합의했다. LH와 국내 건설기업이 박닌성 동남신도시 민관 컨소시엄으로 참여할 가능성이 커지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T20:44:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32313,21 +32329,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-30T11:09:44+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[위클리오늘] \"폭염 뚫고 시민 삶 속으로\"… 이현재 하남시장, 휴가 반납... - weeklytoday.com",
-    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=788040",
-    "description": "이달 폭염 속 건설현장 안전 점검과 근로자 격려를 위해 위례복합체육센터(학암동 649)와 위례숲속도서관(학암동 28-3)을 방문한다. 이어 다음 달에는 시립 행복모아어린이집과 햇살어린이집의 365일 긴급 돌봄 점검을...",
-    "published_at": "2026-07-30T10:58:00+09:00",
-    "cluster_id": "df93",
-    "publisher": "weeklytoday.com",
-    "title_clean": "[위클리오늘] \"폭염 뚫고 시민 삶 속으로\"… 이현재 하남시장, 휴가 반납...",
-    "summary": "하남시장이 폭염 중 건설현장 안전 점검과 근로자 격려를 위해 휴가를 반납하고 위례복합체육센터, 위례숲속도서관 등을 방문. 건설현장 안전 관리에 대한 행정의 관심과 지원을 보여주는 사례.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T11:09:44+09:00",
-    "importance": 2
   }
 ]
