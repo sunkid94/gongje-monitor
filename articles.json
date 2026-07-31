@@ -7913,6 +7913,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "동해 북평산단 AI 데이터센터 추진… 인접 삼척시 배후 주거지 관심 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3050192",
+    "description": "서울 성수동 '트리마제'를 시공한 두산에너빌리티가 2024년 새롭게 선보인 주거 브랜드 '트리븐'의 강원 지역 첫 적용 사례인 '트리븐 삼척' 단지가 대표적이다. 해당 단지는 지하 1층~지상 29층, 4개 동, 총 418가구 규모로...",
+    "published_at": "2026-07-31T12:26:00+09:00",
+    "cluster_id": "a609",
+    "publisher": "apnews.kr",
+    "title_clean": "동해 북평산단 AI 데이터센터 추진… 인접 삼척시 배후 주거지 관심",
+    "summary": "두산에너빌리티의 '트리븐 삼척' 주거단지가 강원 지역에 첫 적용되며, 동해 북평산단 AI 데이터센터 추진에 따른 배후 주거지 수요 증가를 배경으로 건설 프로젝트가 활성화되고 있다. 지하 1층~지상 29층, 418가구 규모의 대형 단지 건설로 건설업계에 수주 기회가 창출되는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T12:29:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23855,19 +23871,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "IPARK현대산업개발 2분기 5년 만에 분기 영업이익 1천억에도 안심 못해, 정경구 수주 부진 해결 절실 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxeXlKRzRtZGxBaHozTmt2Q1d6Q1RBMWFycDEtQW9DR0NXTVduRDZ6TmlGUkZrbDVDTGI4QzJBVWFtdUtwckE3Yll0LVZLZ2Q1YXE5aS1hNVBKREVXdl8yRFMyVmFtTXRqZFBLSGtJU0xtZE0?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBxeXlKRzRtZGxBaHozTmt2Q1d6Q1RBMWFycDEtQW9DR0NXTVduRDZ6TmlGUkZrbDVDTGI4QzJBVWFtdUtwckE3Yll0LVZLZ2Q1YXE5aS1hNVBKREVXdl8yRFMyVmFtTXRqZFBLSGtJU0xtZE0?oc=5\" target=\"_blank\">IPARK현대산업개발 2분기 5년 만에 분기 영업이익 1천억에도 안심 못해, 정경구 수주 부진 해결 절실</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스포스트</font>",
-    "cluster_id": "ef10",
-    "publisher": "비즈니스포스트",
-    "title_clean": "IPARK현대산업개발 2분기 5년 만에 분기 영업이익 1천억에도 안심 못해, 정경구 수주 부진 해결 절실",
-    "summary": "현대산업개발이 2분기 5년 만에 분기 영업이익 1천억을 달성했으나, 수주 부진으로 인한 실적 지속성에 대한 우려가 제기되고 있다. 정경구 회장이 수주 활황 필요성을 강조하며 경영 정상화가 시급한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-24T19:41:54+09:00",
-    "importance": 4
+    "title": "국토부 선정 올해 시공능력 종합 1위는 삼성물산 - engdaily.com",
+    "link": "http://www.engdaily.com/news/articleView.html?idxno=23009",
+    "description": "이번 시공능력평가는 건설산업기본법에 따라 등록된 전국 건설업체 중 평가를 신청한 업체를 대상으로 진행하는 것으로 발주자가 적정한 건설업체를 선정할 수 있도록 건설공사실적-경영상태-기술능력...",
+    "published_at": "2026-07-31T12:26:00+09:00",
+    "cluster_id": "7be3",
+    "publisher": "engdaily.com",
+    "title_clean": "국토부 선정 올해 시공능력 종합 1위는 삼성물산",
+    "summary": "국토부가 건설산업기본법에 따라 전국 건설업체의 시공능력을 종합 평가한 결과, 삼성물산이 올해 1위에 선정되었다. 평가는 건설공사실적, 경영상태, 기술능력 등을 종합적으로 고려하여 발주자의 적정한 업체 선정을 돕기 위해 실시된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-07-31T12:29:44+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32323,21 +32340,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-29T22:48:13+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "정부 '간선급행버스체계' BRT 건설계획, '제주도 2개 노선' 반영 - 헤드라인제주",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiQnFNWVNycnBaT0kwYVkxM0xZc3VrSXJEaHBwOEFXY1pZNTA3ODBuYTVCc0dHWndyaVpwQno1bk9yZXRMSDJlMkh3M3BMTXlZMW5CR3lmNzkyMnFrY2pYUWtvcEI3RTI3Y21lR1pkczlYUEE?oc=5",
-    "description": "국토교통부의 전국 간선급행버스체계(BRT) 건설 계획에 제주도 2개 노선이 반영됐다.국토부 대도시권광역교통위원회(위원장 김용석)는 BRT(Bus Rapid Transit)의 효율적인 건설을 위한 향후 5년 간의 중장기 정책 방향과 추진 과제를 담은",
-    "published_at": "2026-07-29T15:49:01+09:00",
-    "cluster_id": "0669",
-    "publisher": "헤드라인제주",
-    "title_clean": "정부 '간선급행버스체계' BRT 건설계획, '제주도 2개 노선' 반영",
-    "summary": "국토교통부가 간선급행버스체계(BRT) 건설 중장기 계획에 제주도 2개 노선을 반영했다. 향후 5년간 BRT 효율적 건설을 위한 정책 방향과 추진 과제를 수립 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T21:58:11+09:00",
-    "importance": 2
   }
 ]
