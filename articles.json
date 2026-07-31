@@ -23655,6 +23655,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[기획 1부] 미국이 먼저 손 내민 K-건설…10조원 프로젝트 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReHZ1VF9MY3ZZMmhOdmxiU2JRbzFVaFBJTnNrWFJrWFNOQ0VCVE9GbmFEb1dobnJlU3liTDcyR1hRNk04UkdaYk1MUnZVSzBQa2RrQTB1YkNqd1FXenprNThmaGs2aEk?oc=5",
+    "description": "중동과 아시아 시장을 중심으로 성장해 온 국내 해외건설 산업에 미국이라는 새로운 시장이 열리고 있다.미국 에너지부와 농무부 등은 최근 에너지저장장치(ESS), 암모니아, 비료, 리튬·붕소 플랜트 등 10여 개 프로젝트에 한국 기업이 참여하는 방안을 우리 정부에 제안했다. 현재 거론되는 전체 사업비는 10조원을 웃도는 것으로 알려졌다.미국은 세계 최대 건설시장 가운데 하나이면서도 국내 건설기업의 진입이 쉽지 않았던 지역이다. 높은 인건비와 까다로운 인허가, 현지 조달 의무, 복잡한 계약·노무제도, 소송 위험이 동시에 존재",
+    "published_at": "2026-07-31T18:50:04+09:00",
+    "cluster_id": "fc97",
+    "publisher": "국토교통신문",
+    "title_clean": "[기획 1부] 미국이 먼저 손 내민 K-건설…10조원 프로젝트",
+    "summary": "미국 에너지부·농무부가 한국 기업의 ESS, 암모니아, 리튬 플랜트 등 10여 개 프로젝트 참여를 제안하며 10조원대 신규 시장을 열었다. 중동·아시아 중심의 국내 해외건설 산업에 세계 최대 건설시장인 미국이 새로운 기회가 되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T18:59:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32312,22 +32328,6 @@
     "title_clean": "한화 건설부문, 장비관리자 30여명 전문교육…현장 안전 강화",
     "summary": "한화 건설부문이 현장 장비관리자 30여 명을 대상으로 건설용 리프트의 구조, 점검 기준, 안전장치 등에 대한 전문교육을 실시했다. 중장비 관련 안전사고 예방을 위한 현장 안전 강화 조치다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-30T11:09:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, 건설노동자 전용 신용대출 상품을 기획·공급 나선다 - 뉴스후플러스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IS2p1YWRGanpneVBTaTFXUnBaME9wdENjdklTQ21RckRhVmd2ZlAwcDlEUXc3R0xSSFZ5bHNtVDVSTTNra3l0aWNyTkNQcnJINU9SeThLcWl5WEFyOVhPLW4yS0QyY3dVNVQzTDBB?oc=5",
-    "description": "건설근로자공제회가 건설노동자들의 안정적인 금융서비스 이용을 통한 생활 안정 지원에 나선다.건설근로자공제회(공제회)는 부산은행 본점에서 BNK금융그룹, 한국노총 건설연맹, 민주노총 건설산업연맹과 함께 건설노동자 포용금융 업무협약을 체결했다고 29일 밝혔다.이번 협약은 국민주권정부의 12",
-    "published_at": "2026-07-30T07:30:00+09:00",
-    "cluster_id": "b4d0",
-    "publisher": "뉴스후플러스",
-    "title_clean": "건설근로자공제회, 건설노동자 전용 신용대출 상품을 기획·공급 나선다",
-    "summary": "건설근로자공제회가 부산은행, 노동조합 등과 협력하여 건설노동자 전용 신용대출 상품을 기획·공급한다. 건설노동자의 금융접근성 개선과 생활 안정을 목표로 포용금융 업무협약을 체결했다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-30T11:09:44+09:00",
     "importance": 2
   }
