@@ -23621,6 +23621,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한화 건설부문, 건설중장비 안전관리 전문화 교육 실시 - globalnewsagency.kr",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CcEYxMExMa3otQklGNHNOTUdENFJLT0diaTFyclBWR09JcF9ab25DSmtWVklXWUpUN2hmdnJmT2xQZzUwejQ1Ul9fQjZSTTZSR3pKNFlYT2dnM2FNOXlrVkEwbkJjX3V0U1MtSEx2cUppMTg3?oc=5",
+    "description": "[서울=글로벌뉴스통신]㈜한화 건설부문(대표이사 김우석)은 지난 7월29일(수) 충북 음성문화예술회관과 ㈜동건티엔엘 제2공장에서 현장 장비관리자들을 대상으로 건설중",
+    "published_at": "2026-08-01T05:31:57+09:00",
+    "cluster_id": "a36b",
+    "publisher": "globalnewsagency.kr",
+    "title_clean": "한화 건설부문, 건설중장비 안전관리 전문화 교육 실시",
+    "summary": "한화 건설부문이 충북 음성에서 현장 장비관리자를 대상으로 건설중장비 안전관리 교육을 실시했다. 이는 건설현장의 안전 관리 역량을 강화하기 위한 전문화 교육 프로그램이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-01T05:49:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T11:28:24+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "산업현장 안전, 기술과 현장 점검으로 이중 대응 - pressman.kr",
-    "link": "https://www.pressman.kr/news/articleView.html?idxno=102951",
-    "description": "KT는 웨어러블 기기를 활용한 산업안전 부가서비스를 새로 선보였고, SM그룹 경남기업은 폭염기 건설현장 안전을 점검하는 합동간담회를 열었다. 롯데글로벌로지스는 근로자의 신체 부담을 덜어주는 웨어러블 로봇...",
-    "published_at": "2026-07-30T11:24:00+09:00",
-    "cluster_id": "05c1",
-    "publisher": "pressman.kr",
-    "title_clean": "산업현장 안전, 기술과 현장 점검으로 이중 대응",
-    "summary": "KT, SM그룹, 롯데글로벌로지스 등 주요 기업들이 웨어러블 기술과 현장 점검을 통해 산업안전 강화에 나서고 있다. 안전 부가서비스 확대와 근로자 보호 솔루션 도입으로 건설현장의 안전 환경 개선이 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T11:28:24+09:00",
-    "importance": 2
   }
 ]
