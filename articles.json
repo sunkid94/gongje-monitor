@@ -23655,6 +23655,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[기획 3부] 시공을 넘어 투자·금융·운영으로…‘팀 코리아’ 승부처 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSTGVoajE1NVRGS1JfNHNZak5ZMzdkOE4wUldvazlLaWIydGdacko2Z3RpTUNJYk5SdUJhdzNZbkJLVjNNNlpzN2diU00zaE9kd3NDNzhSS0twSUNtNUNSVjNsTWVxb1E?oc=5",
+    "description": "대기업 독식 아닌 기술·기자재·엔지니어링 동반 진출 필요PIS·KIND·정책금융 결합해 한국형 투자개발 모델 구축 미국이 제안한 10조원 규모의 프로젝트를 일회성 수주로 끝내서는 안 된다.이번 기회를 국내 해외건설 산업의 체질을 단순 시공에서 사업개발·투자·금융·운영 중심으로 바꾸는 전환점으로 삼아야 한다.국내 건설기업은 세계적인 설계·조달·시공 능력을 갖추고 있지만 해외 프로젝트를 직접 발굴하고 금융을 조달해 장기간 운영수익을 확보하는 투자개발 분야에서는 아직 후발주자다.도급공사는 준공과 함께 대부분의 수익구조가 끝난다. 반면 투",
+    "published_at": "2026-07-31T18:58:23+09:00",
+    "cluster_id": "56e2",
+    "publisher": "국토교통신문",
+    "title_clean": "[기획 3부] 시공을 넘어 투자·금융·운영으로…‘팀 코리아’ 승부처",
+    "summary": "미국의 10조원 규모 프로젝트를 단순 시공 수주로 끝내지 말고, 투자·금융·운영 중심으로 사업 구조를 전환해야 한다고 제시. PIS·KIND·정책금융 결합 등 한국형 투자개발 모델 구축을 통해 해외건설산업의 경쟁력을 강화해야 함.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T19:04:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32311,22 +32327,6 @@
     "publisher": "뉴스락",
     "title_clean": "한화 건설부문, 중장비 안전관리 전문화 강화…현장 장비관리자 역량 높인다",
     "summary": "한화 건설부문이 건설현장 중장비 안전사고 예방을 위해 현장 장비관리자 대상 전문화 교육을 실시했다. 건설용 리프트 등 장비 운영 과정의 안전사고를 예방하고 점검·관리 역량을 강화하기 위한 조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T11:09:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 장비관리자 30여명 전문교육…현장 안전 강화 - 인더뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CN2YxUldOR0stTXBoVXJCN0dVcHhCcDVEWFlZNWw5MTZSUnY2VXhmaHAzSGw0RFdGUzlRWXpQSGJXSmJudmg3UXczemFBaExZV2lYM0pHRGZHZ0gzbUpKZ28xMTc?oc=5",
-    "description": "인더뉴스 제해영 기자ㅣ한화 건설부문은 지난 29일 충북 음성군 음성문화예술회관과 동건티엔엘 제2공장에서 현장 장비관리자를 대상으로 전문화교육을 실시했다고 30일 밝혔습니다. 건축·인프라사업본부 소속 현장 장비관리자 등 30여 명이 참여해 건설용 리프트의 구조와 점검 기준, 안전장치 작동 방식 등을 이론과 실습으로 익혔습니다. 건설현장에서 중장비 관련 안전사",
-    "published_at": "2026-07-30T10:52:30+09:00",
-    "cluster_id": "ad1a",
-    "publisher": "인더뉴스",
-    "title_clean": "한화 건설부문, 장비관리자 30여명 전문교육…현장 안전 강화",
-    "summary": "한화 건설부문이 현장 장비관리자 30여 명을 대상으로 건설용 리프트의 구조, 점검 기준, 안전장치 등에 대한 전문교육을 실시했다. 중장비 관련 안전사고 예방을 위한 현장 안전 강화 조치다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T11:09:44+09:00",
     "importance": 2
