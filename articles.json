@@ -23884,6 +23884,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구·경북 제조업 회복세…소비·건설은 여전히 부진 - kbmaeil.com",
+    "link": "https://www.kbmaeil.com/article/20260731500067",
+    "description": "대구·경북 지역의 제조업 생산이 회복세를 보였지만 소비와 건설경기의 부진이 이어지면서 지역 경제 전반의 회복은 여전히 제한적인 것으로 나타났다. 31일 동북지방데이터청이 발표한 ‘6월 대구·경북...",
+    "published_at": "2026-07-31T09:54:00+09:00",
+    "cluster_id": "e092",
+    "publisher": "kbmaeil.com",
+    "title_clean": "대구·경북 제조업 회복세…소비·건설은 여전히 부진",
+    "summary": "대구·경북 지역의 제조업 생산은 회복세를 보이고 있으나, 소비와 건설경기의 부진이 지속되고 있다. 건설업계를 포함한 지역 경제 전반의 회복은 여전히 제한적인 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T09:58:37+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[정책리뷰] 6월 산업활동, 생산·소비·투자 '트리플 증가' - financialreview.co.kr",
+    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43904",
+    "description": "건설수주 역시 공장과 창고 등 건축 부문의 감소 영향으로 지난해 같은 달보다 28.1% 줄었다. 토목 부문은 증가했지만 건축 수주 감소 폭을 상쇄하기에는 부족했다. 경기 선행·동행지수 모두 상승 경기 흐름을 보여주는...",
+    "published_at": "2026-07-31T09:56:00+09:00",
+    "cluster_id": "c8f7",
+    "publisher": "financialreview.co.kr",
+    "title_clean": "[정책리뷰] 6월 산업활동, 생산·소비·투자 '트리플 증가'",
+    "summary": "6월 산업활동이 생산·소비·투자 전 부문에서 증가세를 보였으나, 건설수주는 건축 부문의 28.1% 감소로 전년 대비 하락했다. 토목 부문 증가에도 불구하고 건축 수주 감소를 상쇄하지 못했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T09:58:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32302,37 +32334,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-29T16:59:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[기획] BNK금융그룹, 현장 맞춤형 '상생·포용금융' 선도…\"지역을 넘어... - dailypop.kr",
-    "link": "http://www.dailypop.kr/news/articleView.html?idxno=101031",
-    "description": "금융 사각지대 품는다…민·관·노 손잡고 건설노동자 '포용금융' 구축 상생의 손길은 현장의 노동자들에게도 닿았다. BNK금융그룹은 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹과 함께 '건설노동자...",
-    "published_at": "2026-07-29T16:50:00+09:00",
-    "cluster_id": "ab34",
-    "publisher": "dailypop.kr",
-    "title_clean": "[기획] BNK금융그룹, 현장 맞춤형 '상생·포용금융' 선도…\"지역을 넘어...",
-    "summary": "BNK금융그룹이 건설근로자공제회, 민주노총, 한노총과 손잡고 건설노동자를 위한 '포용금융' 서비스를 구축하고 있다. 금융 사각지대에 있던 건설현장 노동자들을 대상으로 민·관·노 협력을 통해 상생 금융을 선도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T16:59:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "BNK금융, 건설노동자 맞춤대출·산재 부실채무 조기 탕감 추진 - inthenews.co.kr",
-    "link": "https://www.inthenews.co.kr/news/article.html?no=89939",
-    "description": "건설연맹과 ‘건설노동자 포용금융을 위한 업무협약’을 체결했다고 밝혔습니다. 이번 협약은 상대적으로 소득 증빙이 어려워 제도권 금융 이용에 제약을 받아온 건설노동자에게 실질적인 금융 혜택을 제공하기 위해...",
-    "published_at": "2026-07-29T16:48:00+09:00",
-    "cluster_id": "6ef4",
-    "publisher": "inthenews.co.kr",
-    "title_clean": "BNK금융, 건설노동자 맞춤대출·산재 부실채무 조기 탕감 추진",
-    "summary": "BNK금융이 건설연맹과 업무협약을 체결하여 소득 증빙이 어려운 건설노동자를 위한 맞춤대출과 산재 부실채무 조기 탕감 제도를 추진한다. 건설업 종사자들의 금융 접근성을 개선하고 실질적인 금융 혜택을 제공하는 포용금융 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T16:59:15+09:00",
-    "importance": 2
   }
 ]
