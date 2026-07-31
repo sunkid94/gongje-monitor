@@ -7658,6 +7658,22 @@
     "event_label": "분석 불가 - 본문 내용 부재"
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "폭염 속 \"근로자 지켜라\"…혹서기 대응 나선 건설현장 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2349342.htm",
+    "description": "IPARK현대산업개발은 체감온도 38도 이상 시 옥외 작업을 중지하는 폭염중대경보를 추가하는 등 근로자들의 안전을 위한 조치를 강화했다. 또 근로자 밀착 관리 시스템과 작업 중지 기준을 강화해 옥외 작업 체감온도를...",
+    "published_at": "2026-08-01T00:01:00+09:00",
+    "cluster_id": "b97b",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "폭염 속 \"근로자 지켜라\"…혹서기 대응 나선 건설현장",
+    "summary": "IPARK현대산업개발이 폭염으로 인한 근로자 안전 피해를 예방하기 위해 체감온도 38도 이상 시 옥외 작업 중지 기준을 신설하고 근로자 밀착 관리 시스템을 강화했다. 건설현장에서 혹서기 대응 조치를 적극 추진하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-01T00:09:55+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23600,22 +23616,6 @@
     "publisher": "newspim.com",
     "title_clean": "[오늘의 국회일정] 국회의장·상임위·세미나·기자회견·주요 정당 - 7월...",
     "summary": "국회의장 및 상임위원회, 보수기후환경네트워크 현장시찰 등 7월 국회 일정을 안내하는 기사. 건설·에너지 관련 현장시찰(두산에너빌리티 창원 본사)이 포함되어 있음.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T05:07:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[오늘의 주요일정]정치(7월27일 월요일) - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260726_0003723786",
-    "description": "보수기후환경네트워크 두산에너빌리티 본사 현장시찰 및 간담회(경남 창원시 성산구 두산볼보로 22 두산에너빌리티 창원 본사) ◇진보당【당대표】 10:00 진보당 당대표 기자회견(국회 소통관) 10:30 진보당 4기...",
-    "published_at": "2026-07-27T05:00:00+09:00",
-    "cluster_id": "5ab7",
-    "publisher": "newsis.com",
-    "title_clean": "[오늘의 주요일정]정치(7월27일 월요일)",
-    "summary": "보수기후환경네트워크가 두산에너빌리티 본사를 현장시찰하고 간담회를 개최하며, 진보당 당대표 기자회견 등 정치일정이 예정되어 있다. 건설기계설비 관련 업체인 두산에너빌리티의 정책 관심도가 높아지고 있는 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-27T05:07:58+09:00",
     "importance": 2
