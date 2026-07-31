@@ -7642,22 +7642,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[The 초점]기계설비공사의 중요성 - 강원일보",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pVl95b0hnYlo5eXJIX2VrV2xVM1NFSk50T3JHaGsyLXk4TUlpQ0YyR3dBaTVJNzBlODdHTlpYVV9lWDE0YjVTZG9ZQ2Rta1l1YXR2Rk96NE02dnlRTXFoZXRnU1l0Q2N4eHFpLUhHUnpMOFdmQjN3RmF4TE1udw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5pVl95b0hnYlo5eXJIX2VrV2xVM1NFSk50T3JHaGsyLXk4TUlpQ0YyR3dBaTVJNzBlODdHTlpYVV9lWDE0YjVTZG9ZQ2Rta1l1YXR2Rk96NE02dnlRTXFoZXRnU1l0Q2N4eHFpLUhHUnpMOFdmQjN3RmF4TE1udw?oc=5\" target=\"_blank\">[The 초점]기계설비공사의 중요성</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
-    "cluster_id": "b957",
-    "publisher": "강원일보",
-    "title_clean": "[The 초점]기계설비공사의 중요성",
-    "summary": "기사 제목은 '기계설비공사의 중요성'이나, 제공된 본문 내용이 없어 구체적인 분석이 불가능합니다. 제목만으로는 기계설비공사의 일반적 중요성을 다룬 것으로 보이나, 업계 호재·악재 판단이나 특정 조직과의 관련성을 파악할 수 없습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-02T07:32:32+09:00",
-    "importance": 5,
-    "event_label": "분석 불가 - 본문 내용 부재"
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23619,6 +23603,21 @@
     "summary": "건설사들이 아파트 분양 경쟁력을 높이기 위해 단지 내 상가의 입지, 운영 방안 등을 특화 컨설팅으로 제안하고 있다. 상가 컨설팅은 시공사 간 차별화 전략으로 확산되는 추세이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T07:02:52+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공정, 혁신, 포용의 경기 - 경기도청",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sc3lQbDExUmlmM3dfVk5uMGdmaFBiMVZKaFdfd0R1b2JqVFJRTXBRUjNrcHBGOWkzUXc5WmRkdUp1aUxqUkhPQzFWOHhoemFUdFhwZFI1VG9sbENmY1BCeFA5ZTVUbFRlQkdQTHdZYXJpXzEzT1NhV1NCSlRYbDA?oc=5",
+    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
+    "cluster_id": "5269",
+    "publisher": "경기도청",
+    "title_clean": "공정, 혁신, 포용의 경기",
+    "summary": "경기도의 공정, 혁신, 포용이라는 주요 정책 기조와 도민 참여, 행정 서비스 안내에 관한 일반적인 소식입니다. 건설업계와 직접적인 관련성이 없는 광역 행정 공지사항입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-01T07:59:40+09:00",
     "importance": 2
   },
   {
