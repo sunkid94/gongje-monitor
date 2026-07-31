@@ -7642,6 +7642,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "경남 종합건설업체 매년 쪼그라들었다 - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202608010003",
+    "description": "대한건설협회 경남도회는 지난 30일 해당 평가 결과 자료를 통해 두산에너빌리티(주)가 토목건축공사업 시공능력평가액 2조9550억원으로 지난해에 이어 도내 1위이며 전국 15위를 기록했다고 밝혔다. 도내 2위는...",
+    "published_at": "2026-08-01T08:24:00+09:00",
+    "cluster_id": "8004",
+    "publisher": "kukinews.com",
+    "title_clean": "경남 종합건설업체 매년 쪼그라들었다",
+    "summary": "경남도회가 2024년 시공능력평가 결과를 발표했으며, 두산에너빌리티가 2조9550억원으로 도내 1위, 전국 15위를 기록했다. 기사 제목에서 경남 종합건설업체의 규모가 축소되고 있음을 시사하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-01T08:29:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -23587,22 +23603,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-27T07:08:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[apt 브랜드스토리⑥] 더샵, 삶의 가치를 반올림하다 - theviewers.co.kr",
-    "link": "https://theviewers.co.kr/View.aspx?No=4160764",
-    "description": "뷰어스 오아름 기­자 ar0707@viewers.co.kr 포스코이앤씨는 2002년 대표 아파트 브랜드 ‘더샵(THE SHARP)’을 선보이며 주택사업의 새로운 전환점을 마련했다. 더샵 출시 이후 포스코이앤씨는 시공능력평가 순위를 13위에서...",
-    "published_at": "2026-07-27T07:02:00+09:00",
-    "cluster_id": "4220",
-    "publisher": "theviewers.co.kr",
-    "title_clean": "[apt 브랜드스토리⑥] 더샵, 삶의 가치를 반올림하다",
-    "summary": "포스코이앤씨의 대표 아파트 브랜드 '더샵'이 2002년 출시 이후 기업의 시공능력평가 순위를 13위에서 상승시키며 주택사업의 전환점을 마련했다. 더샵 브랜드의 성장을 통해 건설사의 시장 확대와 경쟁력 강화를 보여주는 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T07:08:00+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설산업기본법",
