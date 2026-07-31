@@ -23638,6 +23638,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "수주 3배에도 매출 23%↓…현대엔지니어링, 시평 4위의 과제 - wolyo.co.kr",
+    "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315867",
+    "description": "현대엔지니어링은 산업안전보건법에 따른 중대재해 발생을 사유로 건설산업기본법에 근거해 서울시로부터 토목건축공사업 3개월 영업정지 처분을 받았다. 집행정지 신청이 인용되면서 당장의 영업 차질...",
+    "published_at": "2026-07-31T20:26:00+09:00",
+    "cluster_id": "e1b4",
+    "publisher": "wolyo.co.kr",
+    "title_clean": "수주 3배에도 매출 23%↓…현대엔지니어링, 시평 4위의 과제",
+    "summary": "현대엔지니어링이 중대재해 발생으로 인한 3개월 영업정지 처분을 받았다. 수주는 3배 증가했으나 매출은 23% 감소하는 등 실적 악화와 안전 규제 강화라는 이중고를 겪고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T20:39:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32311,22 +32327,6 @@
     "title_clean": "[위클리오늘] \"폭염 뚫고 시민 삶 속으로\"… 이현재 하남시장, 휴가 반납...",
     "summary": "하남시장이 폭염 중 건설현장 안전 점검과 근로자 격려를 위해 휴가를 반납하고 위례복합체육센터, 위례숲속도서관 등을 방문. 건설현장 안전 관리에 대한 행정의 관심과 지원을 보여주는 사례.",
     "sentiment": "positive",
-    "collected_at": "2026-07-30T11:09:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, 한국재난안전기술원과 협약…현장 안전관리 고도화 - inthenews.co.kr",
-    "link": "https://www.inthenews.co.kr/news/article.html?no=89963",
-    "description": "양 기관은 건설현장 안전관리 역량을 높이고 재난안전 기술과 교육 협력 체계를 확대하기로 했습니다. 협약식은 지난 29일 서울 을지로 대우건설 본사에서 열렸습니다. 행사에는 신동혁 대우건설 최고안전책임자를 비롯한...",
-    "published_at": "2026-07-30T10:58:00+09:00",
-    "cluster_id": "7757",
-    "publisher": "inthenews.co.kr",
-    "title_clean": "대우건설, 한국재난안전기술원과 협약…현장 안전관리 고도화",
-    "summary": "대우건설이 한국재난안전기술원과 건설현장 안전관리 고도화를 위한 협약을 체결했습니다. 양 기관은 재난안전 기술과 교육 협력 체계를 확대하기로 합의했습니다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-30T11:09:44+09:00",
     "importance": 2
   }
