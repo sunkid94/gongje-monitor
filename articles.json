@@ -23672,6 +23672,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[진단] 반도체만 웃는 한국 제조업…8월 경기 회복 기대 속 깊어지는 산... - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=738717",
+    "description": "철강업계는 중국발 공급 과잉과 글로벌 수요 둔화, 건설경기 침체가 겹치면서 수익성 회복이 쉽지 않은 상황이다. 석유화학 업계 역시 공급 과잉과 낮은 제품 가격, 중국의 대규모 증설 여파가 지속되면서 실적 개선 속도가...",
+    "published_at": "2026-07-31T18:00:00+09:00",
+    "cluster_id": "b9e3",
+    "publisher": "polinews.co.kr",
+    "title_clean": "[진단] 반도체만 웃는 한국 제조업…8월 경기 회복 기대 속 깊어지는 산...",
+    "summary": "반도체 산업은 호조를 보이는 반면, 철강과 석유화학 업계는 중국발 공급 과잉, 글로벌 수요 둔화, 건설경기 침체로 수익성 회복이 어려운 상황이다. 한국 제조업 내 업종별 격차가 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T18:04:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32313,22 +32329,6 @@
     "title_clean": "대우건설-재난안전기술원, 건설현장 안전사고 예방 맞손",
     "summary": "대우건설과 재난안전기술원이 건설현장 안전사고 예방을 위한 협약을 체결했다. 안전교육, 기술 협력, 전문인력 양성 등을 공동 추진하여 건설안전 역량을 강화할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-30T10:48:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산항만공사, 폭염 속 건설현장 안전관리 강화…온열질환 예방 총력 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2609193",
-    "description": "폭염응급키트를 비롯해 냉감두건(쿨스카프)도 함께 전달했다. 부산항만공사는 폭염과 폭우 등 여름철 재난에 대비해 건설현장 안전관리를 지속 강화하고, 현장 중심의 예방 활동을 통해 근로자의 안전 확보에 힘쓸 계획이다.",
-    "published_at": "2026-07-30T10:44:00+09:00",
-    "cluster_id": "a674",
-    "publisher": "etoday.co.kr",
-    "title_clean": "부산항만공사, 폭염 속 건설현장 안전관리 강화…온열질환 예방 총력",
-    "summary": "부산항만공사가 폭염으로 인한 온열질환 예방을 위해 건설현장에 폭염응급키트와 냉감두건 등을 지원하고 안전관리를 강화하고 있다. 여름철 재난 대비 현장 중심의 예방 활동을 통해 근로자 안전 확보에 집중하겠다는 계획을 발표했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-30T10:48:38+09:00",
     "importance": 2
   }
