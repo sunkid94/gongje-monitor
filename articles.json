@@ -7642,6 +7642,21 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "SK하이닉스·삼성전기·두산퓨얼셀 - 마켓인",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53cGJKbjRLbHpIYVRDZERTcVBXNllWZTVvWFVYWk12OXJTRjVXTnRXM3lUZlBMWjVUUzN3MThYSXhFQ1oyZTNoUFlHcnFHVlNHb1M2YTBxUXgtYzFBbUg5cllVZVBBZ0c4dW5lRnZzdXpOYms?oc=5",
+    "description": "△SK하이닉스(000660)- HBM4 본격 출하와 서버용 DRAM·고성능 eSSD 수요 확대로 실적 성장세 지속 전망- 일반 메모리 매출의 최소 30%를 장기 공급계약으로 확보해 중장기 이익 가시성 상승△삼성전기(009150)- AI 서버용 고용량 MLCC 수요가 확대되는 가운데 공급사들의 증설은 제한적- AI 가속기용 FCBGA의 대형화·고다층화로 구...",
+    "cluster_id": "0622",
+    "publisher": "마켓인",
+    "title_clean": "SK하이닉스·삼성전기·두산퓨얼셀",
+    "summary": "SK하이닉스는 HBM4 출하 확대와 서버용 메모리 수요 증가로 실적 성장이 예상되며, 장기 공급계약으로 이익 가시성을 확보했다. 삼성전기는 AI 서버용 MLCC와 FCBGA 수요 확대 속에서 공급사의 제한적 증설로 경쟁력 강화가 전망된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-01T08:04:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23588,22 +23603,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-27T07:08:00+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "분양 넘어 운영까지…‘단지 내 상가’ 컨설팅 확산[코주부] - sedaily.com",
-    "link": "https://www.sedaily.com/article/20071920?ref=naver",
-    "description": "대우건설과는 부산 사직2구역과 여의도 공작아파트 재건축 수주전에서 사업지별 입지와 배후 수요를 고려한 상가 특화 방안을 제안했다. 시공사 간 경쟁이 아파트 평면이나 조경, 커뮤니티시설에 머물지 않고 단지 내...",
-    "published_at": "2026-07-27T07:01:00+09:00",
-    "cluster_id": "aece",
-    "publisher": "sedaily.com",
-    "title_clean": "분양 넘어 운영까지…‘단지 내 상가’ 컨설팅 확산[코주부]",
-    "summary": "건설사들이 아파트 분양 경쟁력을 높이기 위해 단지 내 상가의 입지, 운영 방안 등을 특화 컨설팅으로 제안하고 있다. 상가 컨설팅은 시공사 간 차별화 전략으로 확산되는 추세이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T07:02:52+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
