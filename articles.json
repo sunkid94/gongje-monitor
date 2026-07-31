@@ -7845,23 +7845,6 @@
     "published_at": "2026-03-19T17:44:00+09:00"
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, 54억원 예산 절감…\"불필요한 비용 차단\" - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260701_0003691557",
-    "description": "전문건설공제조합(K-FINCO)은 지난달 30일 서울 동작구 본사에서 '2026년 예산 집행 실적 점검회의'를 개최했다고 1일 밝혔다. 이번 회의는 지연되는 건설경기 회복세 속에서 체계적인 예산 점검을 통해 조합 경영의 내실을...",
-    "published_at": "2026-07-01T13:43:00+09:00",
-    "cluster_id": "f0d3",
-    "publisher": "newsis.com",
-    "title_clean": "전문건설공제조합, 54억원 예산 절감…\"불필요한 비용 차단\"",
-    "summary": "전문건설공제조합(K-FINCO)이 2026년 예산 집행 실적 점검회의를 개최하여 54억원의 예산을 절감했다. 건설경기 회복 지연 속에서 체계적인 예산 점검을 통해 조합 경영의 내실화를 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-01T13:48:12+09:00",
-    "event_label": "전문건설공제조합 2026년 예산 집행 실적 점검 및 54억원 예산 절감",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23821,6 +23804,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-24T23:52:09+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염이 드러낸 취약 계층의 그늘...고령자·농민·노동자 덮친 ‘불평등... - cfnews.kr",
+    "link": "https://www.cfnews.kr/news/article.html?no=110710",
+    "description": "특히, 건설노동자와 택배·배달노동자, 환경미화원, 농업인 등은 햇볕과 복사열에 장시간 노출된다. 보호장비와 작업복을 착용하면 체온이 더 빠르게 오를 수 있지만, 작업량과 납기, 임금 손실을 우려해 충분히 쉬지...",
+    "published_at": "2026-07-31T13:42:00+09:00",
+    "cluster_id": "cf96",
+    "publisher": "cfnews.kr",
+    "title_clean": "폭염이 드러낸 취약 계층의 그늘...고령자·농민·노동자 덮친 ‘불평등...",
+    "summary": "폭염으로 인한 건설노동자, 택배·배달노동자, 환경미화원, 농업인 등 취약 계층의 건강 위협 문제를 다룬 기사. 보호장비 착용으로 인한 체온 상승과 임금 손실 우려로 인한 불충분한 휴식이 주요 쟁점.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T13:49:38+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
