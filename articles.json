@@ -23621,6 +23621,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "펜 대신 연장 드는 Z세대… 사무직-현장 노동자 임금 격차 감소 - donga.com",
+    "link": "https://www.donga.com/news/Society/article/all/20260731/134403217/2",
+    "description": "미국 노동부 산하 노동통계국의 2024∼2034년 고용 전망에 따르면 단순 조립과 기계 조작 같은 반복적인 생산직은 수요가 감소하는 반면에 전기기사, 건설 노동자, 냉난방·공조 기술자 등 현장 설비직의 수요는 늘어날...",
+    "published_at": "2026-08-01T01:43:00+09:00",
+    "cluster_id": "afe3",
+    "publisher": "donga.com",
+    "title_clean": "펜 대신 연장 드는 Z세대… 사무직-현장 노동자 임금 격차 감소",
+    "summary": "미국에서 현장 설비직(전기기사, 건설노동자, 냉난방공조 기술자 등) 수요가 증가하는 추세로, 향후 10년간 사무직 대비 현장노동자의 임금 격차가 감소할 것으로 예상된다. Z세대가 전통적 사무직보다 기술 기반 현장직으로 진출하는 변화가 일어나고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-01T01:49:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32308,22 +32324,6 @@
     "title_clean": "삼성물산, 시공능력평가 13년 연속 1위",
     "summary": "삼성물산이 올해 국토교통부 시공능력평가에서 13년 연속 1위를 차지했다. 시공능력평가는 공공공사 입찰 자격과 민간 발주처의 시공사 선정, 금융기관 신용평가 등에 중요한 기준으로 활용된다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-30T11:23:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, AI·첨단 안전기술 기반 건설현장 재난 대응 역량 강화 나선... - e-science.co.kr",
-    "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132667",
-    "description": "대우건설이 재난안전 전문기관과 협력을 강화하며 건설현장 안전관리 고도화와 디지털 기반 안전경영 체계 강화에 나선다. 대우건설은 한국재난안전기술원과 건설 및 재난안전 분야 연구개발과 안전교육 협력을 위한...",
-    "published_at": "2026-07-30T11:20:00+09:00",
-    "cluster_id": "da07",
-    "publisher": "",
-    "title_clean": "대우건설, AI·첨단 안전기술 기반 건설현장 재난 대응 역량 강화 나선... - e-science.co.kr",
-    "summary": "대우건설이 한국재난안전기술원과 협력하여 AI·첨단 안전기술 기반의 건설현장 재난 대응 역량을 강화한다. 디지털 기반 안전경영 체계 고도화와 안전교육을 통해 건설현장 안전관리를 고도화하는 것을 목표로 한다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-30T11:23:28+09:00",
     "importance": 2
   }
