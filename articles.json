@@ -23870,6 +23870,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "생산·소비·투자, 3개월 만에 동반 증가…6월 산업활동 반등 - whitepaper.co.kr",
+    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265203",
+    "description": "다만 건설수주는 감소세를 보였다. 경상 기준 건설수주는 도로·교량 등 토목 부문에서 3.2% 증가했으나 공장·창고 등 건축 부문에서 36.9% 줄어 전년 같은 달보다 28.1% 감소했다. 경기 흐름을 보여주는 지표도 나란히...",
+    "published_at": "2026-07-31T11:46:00+09:00",
+    "cluster_id": "e398",
+    "publisher": "whitepaper.co.kr",
+    "title_clean": "생산·소비·투자, 3개월 만에 동반 증가…6월 산업활동 반등",
+    "summary": "6월 산업활동이 3개월 만에 생산·소비·투자가 동반 증가하며 반등했으나, 건설수주는 건축 부문의 36.9% 급락으로 전년 대비 28.1% 감소했다. 건설업계의 수주 부진이 경기 회복의 걸림돌이 되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-07-31T11:49:39+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "BNK부산은행, 건설근로자 대출 문턱 낮춘 상품 선봬 - popcornnews.net",
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=128312",
+    "description": "이번 상품은 지난 29일 BNK금융그룹과 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹이 체결한 '건설노동자 포용금융을 위한 업무협약'의 첫 실행사업이다. 부산은행은 건설근로자공제회가 발급하는...",
+    "published_at": "2026-07-31T11:46:00+09:00",
+    "cluster_id": "4e6e",
+    "publisher": "popcornnews.net",
+    "title_clean": "BNK부산은행, 건설근로자 대출 문턱 낮춘 상품 선봬",
+    "summary": "BNK부산은행이 건설근로자공제회와 협력하여 건설근로자 대상 저금리 대출 상품을 출시했다. 건설노동자 포용금융 업무협약의 첫 실행사업으로, 건설근로자의 금융 접근성을 높이기 위한 상품이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T11:49:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32306,37 +32338,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-29T19:43:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "오성한 서귀포시 안전도시건설국장, 하천 물놀이 관리지역 현장점검…“안전사고 예방 총력” - 뉴스N제주",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTTHlIOWlKOXJOc2o4bzBJcE9PX1BWUXJjU1h5UzFDR1FueWlNOTdLWVY0ODNDUE9EaUEwUVZqVjUtVE1hM3BvdjkybEtHcndGVjVIejI3cGpISjdzMHp4WmcwZjhoN3ZPV0g0Qg?oc=5",
-    "description": "오성한 서귀포시 안전도시건설국장이 본격적인 여름 휴가철을 맞아 하천 물놀이 관리지역을 찾아 안전관리 실태를 점검하며 안전사고 예방에 만전을 기해줄 것을 당부했다.오성한 국장은 지난 28일 솜반천과 속골 등 하천 물놀이 관리지역을 방문해 현장 안전관리 상황을 직접 확인하고, 물놀이 이용객들의 안전 확보를 위한 관리 실태를 점검했다.이번 점검은 여름철 물놀이객이 증가하는 시기를 맞아 안전사고를 사전에 예방하고 현장 대응체계를 강화하기 위해 마련됐다.오 국장은 현장에서 안전관리요원의 근무 실태를 비롯해 구명조끼와 안내표지판 등 안전시설물",
-    "published_at": "2026-07-29T19:24:00+09:00",
-    "cluster_id": "4863",
-    "publisher": "뉴스N제주",
-    "title_clean": "오성한 서귀포시 안전도시건설국장, 하천 물놀이 관리지역 현장점검…“안전사고 예방 총력”",
-    "summary": "서귀포시 안전도시건설국장이 여름 휴가철을 맞아 솜반천, 속골 등 하천 물놀이 관리지역을 현장점검하여 안전관리 실태를 확인했다. 물놀이객 증가 시기에 안전사고 예방 및 현장 대응체계 강화를 위해 구명조끼, 안내표지판 등 안전시설물과 관리요원 근무 상황을 점검했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-29T19:38:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "플랜트건설노조 울산지부, s-oil 본사앞에서 원청교섭 촉구 상경투쟁 진... - worknworld.kctu.org",
-    "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509742",
-    "description": "원청교섭이 시행되고 4개월이 지났지만 원청교섭 진행속도는 더디기만한 상황에서 전국플랜트건설노동조합(위원장 이주안/ 이하 플랜트건설노조)는 원청교섭해태 악질기업 1순위로 S-OIL을 꼽았다. 플랜트건설노조는...",
-    "published_at": "2026-07-29T19:08:00+09:00",
-    "cluster_id": "d441",
-    "publisher": "worknworld.kctu.org",
-    "title_clean": "플랜트건설노조 울산지부, s-oil 본사앞에서 원청교섭 촉구 상경투쟁 진...",
-    "summary": "전국플랜트건설노동조합이 원청교섭 진행이 지연되고 있다며 S-OIL을 교섭해태 악질기업 1순위로 지정하고 본사 앞에서 상경투쟁을 전개하고 있다. 원청교섭 시작 후 4개월이 경과했으나 진행 속도가 더딘 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-29T19:13:17+09:00",
-    "importance": 4
   }
 ]
