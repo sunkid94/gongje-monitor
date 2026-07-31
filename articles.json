@@ -7896,23 +7896,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, '건설경기 침체' 정면 돌파...예산 집행 긴급 점검 - kscnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYXpLLXN4enc2Z0hhMGpCaU5waG5hSVhINmNTYjhCeU5oX0ppYmZUQThCZWVnSEZ0a3JBT1FpRkRhRzV5ck94S1lEeEwzWnczVnIzUkFMamRaeWRpQ2wzVHc2LXpZbXJOSUdZ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYXpLLXN4enc2Z0hhMGpCaU5waG5hSVhINmNTYjhCeU5oX0ppYmZUQThCZWVnSEZ0a3JBT1FpRkRhRzV5ck94S1lEeEwzWnczVnIzUkFMamRaeWRpQ2wzVHc2LXpZbXJOSUdZ?oc=5\" target=\"_blank\">전문건설공제조합, '건설경기 침체' 정면 돌파...예산 집행 긴급 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kscnews.co.kr</font>",
-    "published_at": "2026-07-01T12:22:11+09:00",
-    "cluster_id": "df6a",
-    "publisher": "kscnews.co.kr",
-    "title_clean": "전문건설공제조합, '건설경기 침체' 정면 돌파...예산 집행 긴급 점검",
-    "summary": "전문건설공제조합이 건설경기 침체에 대응하기 위해 예산 집행을 긴급 점검하고 있다. 업계 어려움을 극복하기 위한 적극적인 대응 움직임을 보이고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-01T12:37:42+09:00",
-    "event_label": "전문건설공제조합 건설경기 침체 대응 예산 집행 긴급 점검",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23868,6 +23851,22 @@
     "summary": "대우건설이 KINX와 협력하여 데이터센터 사업에서 시공 중심에서 운영·관리까지 포함한 통합 디벨로퍼로 사업모델을 전환한다. AI 인프라 경쟁 심화에 따라 건설사들의 역할 변화와 새로운 수익 창출 기회를 모색하는 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-24T19:52:05+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "BNK부산은행, 일용직 건설근로자 전용대출 출시… 최대 3500만원 - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026073112291127750",
+    "description": "이번 상품은 지난 29일 BNK금융그룹이 건설근로자공제회와 양대 노총(민주노총·한국노총) 건설노동조합과 맺은 포용금융 협약의 첫 실질 결실이다. 금융권과 노동계가 머리를 맞대 현장 노동자의 실질적 금융...",
+    "published_at": "2026-07-31T12:29:00+09:00",
+    "cluster_id": "607f",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "BNK부산은행, 일용직 건설근로자 전용대출 출시… 최대 3500만원",
+    "summary": "BNK부산은행이 건설근로자공제회, 양대 노총과의 포용금융 협약에 따라 일용직 건설근로자 전용대출 상품을 출시했다. 최대 3500만원 규모의 이번 상품은 금융권과 노동계가 협력해 현장 노동자의 금융 접근성을 개선하는 첫 실질 결과물이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T12:39:41+09:00",
     "importance": 2
   },
   {
