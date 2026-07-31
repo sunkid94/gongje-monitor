@@ -23707,6 +23707,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "BNK부산은행, 일용직 건설근로자 대상 ‘우대 대출’ 출시 - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026073115201966535",
+    "description": "이 상품은 지난 29일 BNK금융그룹과 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹이 체결한 ‘건설노동자 포용금융을 위한 업무협약’의 첫 실행사업이다. 소득과 재직 증빙이 쉽지 않은 건설 일용직...",
+    "published_at": "2026-07-31T16:44:00+09:00",
+    "cluster_id": "5da0",
+    "publisher": "busan.com",
+    "title_clean": "BNK부산은행, 일용직 건설근로자 대상 ‘우대 대출’ 출시",
+    "summary": "BNK부산은행이 건설근로자공제회, 민주노총, 한국노총과 협약하여 소득 증빙이 어려운 일용직 건설근로자를 위한 우대 대출 상품을 출시했다. 건설노동자 포용금융을 위한 첫 실행사업으로, 금융 접근성이 낮은 계층을 지원하는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-07-31T16:49:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32319,21 +32335,6 @@
     "publisher": "아시아경제",
     "title_clean": "황상하 SH 사장, 건설 현장 방문해 폭염 대비 안전 점검",
     "summary": "SH 황상하 사장이 서울 중랑구 신내4 송수관로 이설공사 현장을 방문하여 폭염 대비 안전 관리 실태를 점검했다. 건설 현장의 안전 관리 강화를 위한 경영진의 현장 점검 활동을 보도한 사실 뉴스다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T10:13:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남기업, 노동청·LH와 건설현장 온열질환 예방 합동간담회 개최 - 팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxZ29RMk13aWVCMXF3UFJuOTVyM0FGMFZwdU5TMzQxaGpRNnF1UXZuV0syOWl6NGtLS3drd0l0NExaS2RmbXpRd1NBTlMwUWstM3V5TktRVk53MUw5Q1JHOFMxOFVlLTg?oc=5",
-    "description": "SM그룹 건설부문 계열사인 경남기업이 지난 28일 경기 수원시 당수지구 아파트 건설현장에서 경기지방고용노동청, 한국토지주택공사(LH)와 함께 여름철 온열질환 및 감전사고 예방을 위한 합동간담회를 개최했다고 30일 밝혔습니다.간담회에서 경남기업은 자체 운영 중인 폭염 대비 캠페인과 안전수칙 이행 사례를 공유하고 무재해 달성 의지를 피력했습니다. 참석자들은 근로자 건강 보호와 감전사고 예방을 위한 작업환경 개선, 위험성평가 이행, 응급상황 발생 시 대응체계 구축 등 현장 안전관리의 질적 향상 방안을 폭넓게 논의했습니다.이기동 경남기업",
-    "cluster_id": "3c2b",
-    "publisher": "팍스경제TV",
-    "title_clean": "경남기업, 노동청·LH와 건설현장 온열질환 예방 합동간담회 개최",
-    "summary": "경남기업이 경기지방고용노동청, LH와 함께 건설현장의 온열질환 및 감전사고 예방을 위한 합동간담회를 개최했다. 폭염 대비 캠프인 공유 및 작업환경 개선, 위험성평가, 응급대응체계 구축 등 현장 안전관리 강화방안을 논의했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T10:13:32+09:00",
     "importance": 2
