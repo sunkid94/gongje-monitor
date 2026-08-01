@@ -23588,6 +23588,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'자동차·반도체가 끌고 소비·투자도 반등'... 6월 산업활동 '트리플 증... - chungnamilbo.co.kr",
+    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=901723",
+    "description": "현재 건설 실적은 전월보다 반등했지만 신규 수주가 크게 줄었다는 점에서 앞으로의 건설경기에는 부담이 이어질 가능성이 크다. 제조업과 소비 회복이 건설투자까지 확산하지 못할 경우 경기 개선의 폭도 제한될 수...",
+    "published_at": "2026-08-01T16:00:00+09:00",
+    "cluster_id": "f400",
+    "publisher": "chungnamilbo.co.kr",
+    "title_clean": "'자동차·반도체가 끌고 소비·투자도 반등'... 6월 산업활동 '트리플 증...",
+    "summary": "6월 산업활동이 자동차·반도체 중심으로 회복되면서 소비와 투자도 반등했으나, 건설업은 신규 수주가 크게 감소해 향후 경기 부담 우려.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-01T16:07:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32304,22 +32320,6 @@
     "publisher": "koreareport.co.kr",
     "title_clean": "대우건설, 한국재난안전기술원과 맞손…건설현장 안전관리 강화",
     "summary": "대우건설이 한국재난안전기술원과 업무협약을 체결하여 건설현장 안전관리 역량을 강화한다. R&D와 안전교육 협력을 통해 건설현장의 안전 수준을 높이는 것을 목표로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T11:39:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이현재 하남시장, 환경공무직과 새벽 쓰레기 수거 작업 참여 - m-i.kr",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=1397052",
-    "description": "이 시장은 다음 달까지 폭염 대응 건설현장 안전 점검을 비롯해 어린이집 긴급돌봄 운영 상황, 장리단길과 하남수산물전통시장, 미사 상권, 창우동 화훼단지, 위례 다함께돌봄센터, 석바대상점가 등을 차례로 방문할...",
-    "published_at": "2026-07-30T11:28:00+09:00",
-    "cluster_id": "d348",
-    "publisher": "",
-    "title_clean": "이현재 하남시장, 환경공무직과 새벽 쓰레기 수거 작업 참여 - m-i.kr",
-    "summary": "이현재 하남시장이 환경공무직과 함께 쓰레기 수거 작업에 참여하고 있으며, 폭염 대응 건설현장 안전 점검 등 지역 시설 점검을 진행 중이다. 건설현장 안전 점검을 통해 현장 관리 강화 의지를 보이고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T11:39:23+09:00",
     "importance": 2
