@@ -7574,6 +7574,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, 하안주공3·4단지 재건축 잡았다…수주액 3조 돌파 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/news-detail/2026080116503686189",
+    "description": "장근호 포스코이앤씨 도시재생영업실장과 포스코이앤씨 임직원들이 1일 하안주공3·4단지 시공사로 선정된 이후 감사인사를 하고 있다. 사진=윤하늘 기자“광명 최고의 재건축 단지를 만들겠습니다.”...",
+    "published_at": "2026-08-01T18:20:00+09:00",
+    "cluster_id": "637d",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "포스코이앤씨, 하안주공3·4단지 재건축 잡았다…수주액 3조 돌파",
+    "summary": "포스코이앤씨가 광명 하안주공3·4단지 재건축 사업의 시공사로 선정되어 수주액 3조 원을 돌파했다. 이는 건설업계의 대형 프로젝트 수주 확대로 긍정적인 신호를 제시하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-01T18:27:43+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23519,22 +23535,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-27T08:28:11+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[자본의 계보⑯] 박정원 두산 10년, 원전 수주 모멘텀… 5세 승계 변수 - 자본시장뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aamxxcmhJMjlQc1NNSklCOWRYeXFuMWwyd01RT0k5LVp3TjhEV0E2SE82UTd1UE51Vzg3U2x5LVpqQWJxT0hTWGFIR1RadTEwMFJsdVpDUUcwUUhWNWc2MF9Ha0FOaFU?oc=5",
-    "description": "박정원 두산그룹 회장은 2020년 유동성 위기로 계열사 매각과 구조조정을 단행한 뒤 원전·가스터빈·로보틱스·반도체소재 중심으로 그룹을 첨단기업으로 탈바꿈시켰지만",
-    "published_at": "2026-07-27T08:00:00+09:00",
-    "cluster_id": "505b",
-    "publisher": "자본시장뉴스",
-    "title_clean": "[자본의 계보⑯] 박정원 두산 10년, 원전 수주 모멘텀… 5세 승계 변수",
-    "summary": "박정원 두산그룹 회장이 2020년 유동성 위기 이후 구조조정을 통해 원전·가스터빈·로보틱스·반도체소재 중심으로 그룹을 재편성했다. 원전 수주 모멘텀을 확보했으나 5세 승계라는 변수가 남아있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T08:28:11+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
