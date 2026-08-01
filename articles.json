@@ -7489,6 +7489,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "원전 모멘텀 다시 부활…두산에너빌리티 장기 성장론 재점화 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473548",
+    "description": "두산에너빌리티가 단기 주가 조정에도 불구하고 원전과 발전설비를 중심으로 한 중장기 성장 동력을 유지할 것이라는 분석이 나왔다. 신한투자증권은최근 보고서에서 대미 투자 확대와 해외 원전 수주, 국내 신규 발전원...",
+    "published_at": "2026-08-02T08:36:00+09:00",
+    "cluster_id": "9c5f",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "원전 모멘텀 다시 부활…두산에너빌리티 장기 성장론 재점화",
+    "summary": "두산에너빌리티가 단기 주가 조정에도 불구하고 원전과 발전설비 중심의 중장기 성장 동력을 유지할 것으로 분석됨. 대미 투자 확대와 해외 원전 수주, 국내 신규 발전원 확보 등이 긍정 요인으로 평가됨.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-02T08:37:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23436,20 +23452,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "[모닝 리포트] 두산퓨얼셀, 美 데이터센터·SOFC로 반등 노린다 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260727000114",
-    "description": "두산퓨얼셀이 2분기 매출 부진과 프로젝트 이연 여파로 적자가 확대됐지만, 미국 데이터센터 수주와 고체산화물연료전지(SOFC) 본계약 등 향후 성장 경로는 이미 그려져 있다는 분석이 나왔다. 경쟁사 공급망 리스크가...",
-    "published_at": "2026-07-27T09:00:00+09:00",
-    "cluster_id": "cf01",
-    "publisher": "newspim.com",
-    "title_clean": "[모닝 리포트] 두산퓨얼셀, 美 데이터센터·SOFC로 반등 노린다",
-    "summary": "두산퓨얼셀이 2분기 적자 확대에도 불구하고 미국 데이터센터 수주와 SOFC 본계약 등 향후 성장 동력을 확보했다. 경쟁사 공급망 리스크 속에서 회사의 재도약 가능성이 평가되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T09:08:34+09:00",
-    "importance": 3
+    "title": "[이슈] 건설업계, 시평 '빅5' 재편…하반기 수주 경쟁 본격화 - 시사포커스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PM01EY1Vtek9Sa0RkV1RjZ1c0OENsdVNNcFI5QVVFMFExZnE1RVpQUHdwYkdpZ3prMEY1eU5JN01iOVZEWVhyMkFyakVpRm90bXZMVmpFUHZYd0p2ZXhzLVdmc0VYcUxHeExGemln?oc=5",
+    "description": "[시사포커스 / 이혜영 기자] 건설업계 경쟁 구도가 달라지고 있다. 시공능력평가에서는",
+    "published_at": "2026-08-02T08:30:00+09:00",
+    "cluster_id": "c7a6",
+    "publisher": "시사포커스",
+    "title_clean": "[이슈] 건설업계, 시평 '빅5' 재편…하반기 수주 경쟁 본격화",
+    "summary": "건설업계의 시공능력평가 기준에 따라 '빅5' 상위 건설사 순위가 재편되고 있으며, 하반기 수주 경쟁이 본격화될 것으로 예상된다. 건설사들 간의 경쟁 구도 변화를 보도하는 뉴스로, 업계의 구조적 변화를 다루고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-02T08:37:46+09:00",
+    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
