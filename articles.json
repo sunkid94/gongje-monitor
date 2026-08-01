@@ -23503,6 +23503,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "김민석, 민주당 첫 충청권 경선 1위... 정청래 2위·송영길 3위 - ohmynews.com",
+    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255853&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+    "description": "그는 또 검찰개혁이 일단락된 만큼 앞으로는 부동산과 금융, 건설경기, 주식시장 등 민생·경제 문제 해결에 당력을 집중해야 한다고 밝혔다. 그러면서 인천시장 재임 당시 재정 위기를 극복하고 바이오산업을 육성한...",
+    "published_at": "2026-08-01T20:21:00+09:00",
+    "cluster_id": "53fb",
+    "publisher": "ohmynews.com",
+    "title_clean": "김민석, 민주당 첫 충청권 경선 1위... 정청래 2위·송영길 3위",
+    "summary": "민주당 대선 경선에서 김민석 후보가 충청권 1위를 차지했으며, 당선 후 부동산, 금융, 건설경기 등 민생경제 문제 해결에 집중하겠다고 밝혔다. 인천시장 재임 시 재정 위기 극복과 바이오산업 육성 경험을 강조했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-01T20:27:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32299,21 +32315,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T11:39:23+09:00",
     "importance": 6
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "올들어 건설사 폐업 증가, 12년마에 최다 - newsis.com",
-    "link": "https://www.newsis.com/view/NISI20260730_0021382646",
-    "description": "이날 국토교통부 건설산업지식정보시스템에 따르면 올 1~6월 폐업 신고(변경·정정·철회 포함)한 건설사는 2092곳으로 집계됐다. 이는 전년 동기간(1746곳) 대비 19.8% 증가한 것으로, 2014년 상반기의 2194곳 이후 12년...",
-    "published_at": "2026-07-30T11:32:00+09:00",
-    "cluster_id": "9b30",
-    "publisher": "newsis.com",
-    "title_clean": "올들어 건설사 폐업 증가, 12년마에 최다",
-    "summary": "올 상반기 건설사 폐업이 2092곳으로 전년 대비 19.8% 증가했으며, 2014년 이후 12년 만에 최다 기록을 갱신했다. 이는 건설업계의 경영 악화와 시장 수축을 시사하는 심각한 신호다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T11:39:23+09:00",
-    "importance": 4
   }
 ]
