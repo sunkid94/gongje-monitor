@@ -23486,6 +23486,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "용인특례시, 상수도 유지보수 대행업체 10곳 공개 모집 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20260731500182",
+    "description": "신청 자격은 건설산업기본법에 따른 상·하수도 설비공사업 면허를 보유하고, 시가 정한 기술인력과 장비 기준을 충족하는 업체다. 국세와 지방세 체납, 최근 행정처분 등 결격사유가 없어야 한다. 접수는 오는 8월...",
+    "published_at": "2026-08-02T06:56:00+09:00",
+    "cluster_id": "d31e",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "용인특례시, 상수도 유지보수 대행업체 10곳 공개 모집",
+    "summary": "용인특례시가 상수도 유지보수 대행업체 10곳을 공개 모집한다. 상·하수도 설비공사업 면허 보유, 기술인력 및 장비 기준 충족, 세금 체납 및 행정처분 이력이 없어야 한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-02T06:57:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32296,22 +32312,6 @@
     "title_clean": "대우건설, 한국재난안전기술원과 업무협약 체결… 현장 안전관리 고도화",
     "summary": "대우건설이 한국재난안전기술원과 업무협약을 체결하여 건설현장 안전관리를 고도화한다. R&D 및 안전교육 협력을 통해 현장 안전 수준을 향상시킬 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-30T11:48:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "SH, 폭염 대비 건설 현장 안전 점검 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aTGtQRE13TWVHZjVMMTdGWjNLTnY0YWNTVE1Ga1k1NkN1VE5GT2hhLVFSNWNHaVJ2d0lqWWFJakNRcTlXcFhEWUZyUzRubVZGQTJxaVlaU1lvVk84?oc=5",
-    "description": "[서울=뉴스핌] 박우진 기자 = 서울주택도시개발공사(SH)는 여름철 폭염 대비 안전 관리 실태를 점검했다고 30일 밝혔다.황상하 SH 사장은 지난 29일 신내4 송수관로 이설공사 현장을 방문했다.서울주택도시개발공사(SH)는 지난 29일 황상하 SH 사장 등이",
-    "published_at": "2026-07-30T11:43:00+09:00",
-    "cluster_id": "0c81",
-    "publisher": "뉴스핌",
-    "title_clean": "SH, 폭염 대비 건설 현장 안전 점검",
-    "summary": "SH가 여름철 폭염에 대비하여 건설 현장의 안전 관리 실태를 점검했다. 황상하 SH 사장이 신내4 송수관로 이설공사 현장을 방문하여 현장의 안전 상황을 확인했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-30T11:48:48+09:00",
     "importance": 2
   }
