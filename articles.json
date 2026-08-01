@@ -7625,6 +7625,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산, SK실트론 최종 인수 계약…2.3조 빅딜 배경은? - bizhankook.com",
+    "link": "https://bizhankook.com/articles/doosan-sk-siltron-acquisition-2-3-trillion.html",
+    "description": "두산그룹은 에너지(두산에너빌리티·두산퓨얼셀), 스마트 머신(두산밥캣·두산로보틱스), 반도체 및 첨단소재(전자BG·두산테스나) 3대 축으로 사업 포트폴리오를 구성하고 있는데, 이번 인수로 세 번째 축의 무게감이...",
+    "published_at": "2026-08-01T15:18:00+09:00",
+    "cluster_id": "6902",
+    "publisher": "bizhankook.com",
+    "title_clean": "두산, SK실트론 최종 인수 계약…2.3조 빅딜 배경은?",
+    "summary": "두산그룹이 SK실트론을 2.3조 원에 최종 인수하며 반도체·첨단소재 사업 확대를 추진하고 있다. 이는 그룹의 에너지, 스마트 머신, 반도체·첨단소재 3대 축 중 반도체 부문 강화 전략의 일환이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-01T15:23:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23569,22 +23585,6 @@
     "summary": "듀켐바이오가 파킨슨병 진단제의 주원료를 FDA에 등록했으며, 국내 조선 빅3가 미국 기업·기관과 계약 및 MOU를 체결하면서 K-조선의 미국 시장 진출이 본격화되고 있다. 이에 따라 조선기자재주 전반이 강세를 보이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T07:57:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "페로타임즈 손바닥뉴스 7월27일(월) - ferrotimes.com",
-    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=49355",
-    "description": "운영 대우건설-KINX, 데이터센터 사업 맞손…'개발 시공 운영' 통합 이주성 세아제강지주 사장, 자사주 매입…90만 주 돌파 조일알미늄, 5대 1 주식병합 추진…적정 주가 형성 나선다 한화오션, 美 함정 개발·인력양성...",
-    "published_at": "2026-07-27T07:44:00+09:00",
-    "cluster_id": "8083",
-    "publisher": "ferrotimes.com",
-    "title_clean": "페로타임즈 손바닥뉴스 7월27일(월)",
-    "summary": "대우건설-KINX의 데이터센터 사업 협력, 세아제강지주의 자사주 매입, 조일알미늄의 주식병합, 한화오션의 미국 함정 개발 사업 등 건설·조선·기계업계의 다양한 경영 활동과 사업 확대 소식을 전하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T07:47:49+09:00",
     "importance": 2
   },
   {
