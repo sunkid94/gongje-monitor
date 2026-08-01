@@ -7540,23 +7540,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "하자충당부채 2조대···하청사, 구상권 부담 커 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325025",
-    "description": "건설업계가 공사비 상승과 공기 지연에 따른 부담에서 점차 벗어나는 모습이다. 반면 하자 문제는 여전히 업계 전반의 숙제로 남아 있다는 분석이 나온다. 특히 대형 건설사들이 충당부채를 통해 보여주는 위험 인식의 변화는 전문건설업계에도 적지 않은 시사점을 던진다.대한전문건설신문이 시공능력평가 상위 10개 건설사의 2026년 1분기 보고서를 분석한 결과, 총 충당부채는 6조3516억원으로 전분기(6조4957억원) 대비 2.2% 감소했다.공사손실 관련 충당부채의 감소세는 더욱 뚜렷했다. 공사손실충당부채와 손실충당부채, 준공원가 관련 충당부",
-    "published_at": "2026-07-02T17:14:23+09:00",
-    "cluster_id": "8236",
-    "publisher": "대한전문건설신문",
-    "title_clean": "하자충당부채 2조대···하청사, 구상권 부담 커",
-    "summary": "대형 건설사들의 공사손실충당부채가 감소 추세를 보이는 반면, 하자충당부채는 2조대 수준으로 여전히 높아 업계 과제로 지적된다. 특히 하청사들의 구상권 부담이 커지는 상황이 전문건설업계에 시사점을 제공하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-02T19:38:18+09:00",
-    "event_label": "전문건설공제조합 업계 하자충당부채 수준 분석 및 하청사 구상권 문제 지적",
-    "importance": 7
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -23518,6 +23501,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-27T08:28:11+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이 땡볕에 수십, 수백 번 계단을... 우리에겐 '일상'입니다 - ohmynews.com",
+    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255842&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+    "description": "대표적인 야외 노동과 이동 노동인 건설 노동자들과, 배달 노동자들, 퀵서비스, 가전 설치 노동자들, 대리운전 노동자 등 폭염과 한파로부터 자유롭지 못한 수 많은 특수고용·플랫폼 노동자들의 목소리를 택배 노동자의...",
+    "published_at": "2026-08-01T19:41:00+09:00",
+    "cluster_id": "7bc6",
+    "publisher": "ohmynews.com",
+    "title_clean": "이 땡볕에 수십, 수백 번 계단을... 우리에겐 '일상'입니다",
+    "summary": "건설 노동자, 배달원, 퀵서비스 등 야외·이동 노동자들이 폭염과 한파 속에서 열악한 근무 환경에 노출되어 있는 현실을 보도하는 기사. 특수고용·플랫폼 노동자들의 근로 환경 개선 필요성을 강조.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-01T19:47:43+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
