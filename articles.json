@@ -23506,6 +23506,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "강원 미분양 다시 증가…준공 후 미분양도 늘어 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626154&ref=A",
+    "description": "신규 사업에도 영향을 미쳐 지역 건설경기 침체를 심화시키는 요인으로 꼽힙니다. 전문가들은 시장 회복까지는 시간이 더 필요할 것으로 보고 있습니다. [함영진/우리은행 부동산리서치랩장 : \"장기적으로는 해소될...",
+    "published_at": "2026-08-01T21:20:00+09:00",
+    "cluster_id": "20ee",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "강원 미분양 다시 증가…준공 후 미분양도 늘어",
+    "summary": "강원지역 미분양이 다시 증가세를 보이고 있으며, 준공 후 미분양까지 늘어나고 있다. 이는 신규 사업에 부정적 영향을 미쳐 지역 건설경기 침체를 심화시키는 요인으로 작용하고 있으며, 시장 회복에는 상당한 시간이 필요할 것으로 전망된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-01T21:47:43+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "김민석, 민주당 첫 충청권 경선 1위... 정청래 2위·송영길 3위 - ohmynews.com",
     "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255853&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
     "description": "그는 또 검찰개혁이 일단락된 만큼 앞으로는 부동산과 금융, 건설경기, 주식시장 등 민생·경제 문제 해결에 당력을 집중해야 한다고 밝혔다. 그러면서 인천시장 재임 당시 재정 위기를 극복하고 바이오산업을 육성한...",
@@ -32299,21 +32315,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T11:39:23+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "위기의 건설업…올 상반기만 2092곳 폐업 - newsis.com",
-    "link": "https://www.newsis.com/view/NISI20260730_0021382626",
-    "description": "이날 국토교통부 건설산업지식정보시스템에 따르면 올 1~6월 폐업 신고(변경·정정·철회 포함)한 건설사는 2092곳으로 집계됐다. 이는 전년 동기간(1746곳) 대비 19.8% 증가한 것으로, 2014년 상반기의 2194곳 이후 12년...",
-    "published_at": "2026-07-30T11:32:00+09:00",
-    "cluster_id": "a5cf",
-    "publisher": "newsis.com",
-    "title_clean": "위기의 건설업…올 상반기만 2092곳 폐업",
-    "summary": "올 상반기 건설사 폐업이 2092곳으로 전년 동기 대비 19.8% 증가했다. 2014년 이후 12년 만에 높은 수준으로 건설업계의 구조적 어려움이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T11:39:23+09:00",
-    "importance": 6
   }
 ]
