@@ -23116,6 +23116,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대구 건설현장 사망자 72% 급감…추경호 시장 ‘현장 안전행정’ 성과 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tYjZYcWFJV0JuRjZ1TDVEZ3R5VnNuYllkZ2hTUGhhanFkRXJzbktfTE1jQk9qMXI5NUs0clpXeEhfUjRvM3Uzb3pLXzFmLVdSdmxONw?oc=5",
+    "description": "[아이뉴스24 이창재 기자] 대구시가 건설현장의 산업재해를 줄이기 위해 추진해 온 현장 중심 안전대책이 실제 사망사고 감소로 이어지고 있다. 특히 공공 건설현장에 집중됐던 점검 범위를 소규모 민간현장과 중장비 사용 고위험 작업장까지 확대하고, 관계기관 합동점검과 실시간 위험요인 공유를 병행한 결과 건설업 사고사망자가 지난해 같은 기간보다 70% 이상 줄어든",
+    "published_at": "2026-08-02T13:32:44+09:00",
+    "cluster_id": "a7b1",
+    "publisher": "v.daum.net",
+    "title_clean": "대구 건설현장 사망자 72% 급감…추경호 시장 ‘현장 안전행정’ 성과",
+    "summary": "대구시가 추진한 건설현장 안전대책으로 건설업 사망사고가 72% 감소했다. 공공과 민간현장, 고위험 작업장까지 점검 범위를 확대하고 합동점검과 실시간 위험요소 공유를 통해 성과를 냈다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T21:57:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32278,22 +32294,6 @@
     "summary": "한국건설기술인협회가 엔케이세종병원과 MOU를 체결하여 건설기술인의 의료복지 혜택을 지방 지역으로 확대한다. 협약을 통해 회원들은 종합건강검진 35% 할인 등 다양한 의료 혜택을 받을 수 있게 된다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T14:04:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설업 종사자 2년 만에 늘었다…실질임금은 두 달째 마이너스 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026073013532969810",
-    "description": "지난해 말부터 건설수주와 착공 면적이 늘어난 데 이어 건설기성까지 회복되면서 고용도 개선된 영향으로 풀이된다. 반면 소비자물가 상승을 반영한 실질임금은 사실상 3년 만에 두 달 연속 감소했다. 물가...",
-    "published_at": "2026-07-30T13:53:00+09:00",
-    "cluster_id": "a3b6",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "건설업 종사자 2년 만에 늘었다…실질임금은 두 달째 마이너스",
-    "summary": "건설수주와 착공 면적 증가로 건설업 종사자가 2년 만에 증가하며 고용이 개선되었다. 다만 소비자물가 상승으로 인해 실질임금은 2개월 연속 감소하며 노동자의 실질 구매력이 악화되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T13:58:47+09:00",
     "importance": 2
   }
 ]
