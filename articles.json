@@ -23132,6 +23132,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이대한 경기도의원, “도로안전 기준, 변화된 기후와 현장 따라가야” > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RMS1iTHdWb0lVZmVkQmpxRURpMnZzZ2ZtWmdwOXZZaWhtTGtxQ3FMZmN4a0hoV2pSVENQM0dFQVMxT2l3bFVEUzh5SXZVbDJEY0dPVV9GYUJrWFVCb2RfRnNnYmE5T3JMYk5wT1pxVDE?oc=5",
+    "description": "건설현장 안전점검 시기 현실화 및 터널·경사구간·보호구역 안전기준 재점검 촉구",
+    "cluster_id": "2133",
+    "publisher": "더코리아",
+    "title_clean": "이대한 경기도의원, “도로안전 기준, 변화된 기후와 현장 따라가야” > 뉴스",
+    "summary": "경기도의원이 변화된 기후 환경에 맞춰 도로안전 기준을 현실화하고, 건설현장 안전점검 시기를 조정할 것을 촉구했습니다. 터널, 경사구간, 보호구역 등 위험지역의 안전기준을 재점검할 필요성을 제기했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-03T01:57:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32277,22 +32292,6 @@
     "publisher": "view.asiae.co.kr",
     "title_clean": "\"광주대표도서관, 용접 부위에 이물질 무단투입…접합부 파손 뒤 4초 만...",
     "summary": "광주대표도서관 붕괴 사고의 직접적 원인이 용접 부위에 무단투입된 이물질로 인한 불량 용접으로 밝혀졌다. 용접부 파손으로 구조물의 강도가 4분의 1 수준으로 저하되어 콘크리트 무게를 견디지 못하고 붕괴가 발생했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T14:04:19+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "광주대표도서관 붕괴는 '人災'…용접 부실이 직접 원인 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202607300838444954",
-    "description": "30일 국토교통부 건설사고조사위원회는 광주대표도서관 붕괴사고의 조사 결과를 이같이 발표했다. 사조위는 이해관계가 없는 산·학·연 전문가 11명으로 구성됐으며, 전체회의 20회와 현장조사 5회, 관계자 청문 2회...",
-    "published_at": "2026-07-30T14:00:00+09:00",
-    "cluster_id": "7f3b",
-    "publisher": "fnnews.com",
-    "title_clean": "광주대표도서관 붕괴는 '人災'…용접 부실이 직접 원인",
-    "summary": "광주대표도서관 붕괴사고의 원인이 용접 부실 등 인재로 확정되었다. 국토교통부 건설사고조사위원회가 산학연 전문가 11명으로 구성하여 20회 전체회의와 현장조사를 통해 조사 결과를 발표했다.",
     "sentiment": "negative",
     "collected_at": "2026-07-30T14:04:19+09:00",
     "importance": 4
