@@ -23183,6 +23183,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "광주대표도서관 공사 재개 '안갯속'…본공사는 내년 전망 - namdonews.com",
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=918776",
+    "description": "2일 전남광주통합특별시 종합건설본부 등에 따르면 국토교통부 건설사고조사위원회는 지난달 30일 광주대표도서관 붕괴 사고 원인을 설계와 다른 불량 용접, 부실 검사 등이 복합적으로 작용한 인재로 최종 결론 내렸다....",
+    "published_at": "2026-08-02T17:58:00+09:00",
+    "cluster_id": "a2e0",
+    "publisher": "namdonews.com",
+    "title_clean": "광주대표도서관 공사 재개 '안갯속'…본공사는 내년 전망",
+    "summary": "광주대표도서관 붕괴 사고의 원인을 설계 미준수, 불량 용접, 부실 검사 등 인재로 최종 결론. 공사 재개 시기 불투명하고 본공사는 내년으로 예정되어 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T18:02:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32281,22 +32297,6 @@
     "summary": "롯데건설이 건설현장에 자율주행 청소로봇을 도입하여 청소 작업 효율성을 높이고 근로자의 신체적 부담을 줄이고 있다. 기존 인력 중심의 수작업 방식을 자동화함으로써 작업 환경 개선과 안전성 향상을 도모하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-30T13:28:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "SH, 신내4 송수관로 현장서 폭염 대응 안전점검 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417781",
-    "description": "서울주택도시개발공사(SH)가 여름철 폭염과 풍수해에 대비해 건설현장 안전관리 강화에 나섰다. SH는 황상하 사장이 지난 29일 신내4 송수관로 이설공사 현장을 찾아 근로자 보호시설과 폭염 대응체계를 점검했다고 30일...",
-    "published_at": "2026-07-30T13:20:00+09:00",
-    "cluster_id": "9830",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "SH, 신내4 송수관로 현장서 폭염 대응 안전점검",
-    "summary": "SH가 신내4 송수관로 공사 현장에서 폭염 대응 및 안전관리를 강화하고 있다. 여름철 극한 날씨에 대비한 근로자 보호와 안전체계 점검으로 건설현장의 안전 관리 수준을 높이고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T13:23:24+09:00",
     "importance": 2
   }
 ]
