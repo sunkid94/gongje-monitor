@@ -23455,6 +23455,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "주택 넘어 '의료·실버'까지…우미건설, 비주택 복합개발로 도약 날개 ... - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1391736",
+    "description": "사진=우미건설 제공  건설경기 침체와 주택시장 불확실성이 장기화하는 가운데, 우미건설이 복합개발과 의료복합, 시니어 주거 등 비주택 분야로 발 빠르게 사업 영역을 넓히고 있다. 기존 주택사업에 집중됐던 수익...",
+    "published_at": "2026-08-02T11:00:00+09:00",
+    "cluster_id": "8c53",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "주택 넘어 '의료·실버'까지…우미건설, 비주택 복합개발로 도약 날개 ...",
+    "summary": "건설경기 침체 속에서 우미건설이 주택사업을 넘어 의료복합, 시니어 주거 등 비주택 분야로 사업을 다각화하고 있다. 복합개발을 통해 새로운 수익 기반을 확보하려는 전략적 움직임.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-02T11:07:47+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "“떼인 돈 다 받았습니다”…이천 건설현장 일용직 116명 체불임금 싹 다 받아줬다 - 경기일보",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxaVRzVTdwa0poVHQyMGJKVFNjcGlfMTBWVU9LaUIwRGNSbnM4TG14di03aFgwZHgyb2NWYk4xeElTTVRGOFh3ejFaM3FTOGtaZDd2YWZjeXlXWDQ?oc=5",
     "description": "이천시의 한 건설현장에서 발생한 일용직 노동자 116명의 5억원대 임금체불 집단 민원이 노동 당국의 전수감독으로 전액 청산됐다. 2일 고용노동부 성남지청에 따르면 이번 임금체불은 지난달 초 이천시의 한 건설현장에서 일용직 노동자들의 집단 임금체불 진정이 접수되면서 시작",
@@ -32295,20 +32311,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T12:28:28+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'현장 밀착·스마트 기술'…한화 건설부문, 선제적 안전망 구축 - 청년일보",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZQThUcTlHTnVTc2VMUlNlSG50elJuY0ZXdjU2empfRXBFeHpjdUtoR05NWnN1dG0xVzI0TmtqQXA4dkktQ3pGem1hVzlVcXlmVmpZWUNNUWpoRnR0TWUzNFZwSlRjbzQ?oc=5",
-    "description": "【 청년일보 】 한화 건설부문이 건설 현장 사망사고의 30% 이상을 유발하는 중장비 재해를 예방하고자 현장 실무 교육과 디지털 기술 관제를 결합한 안전 관리 체계 구축에 나섰다. 한화 건설부문은 전날 충북 음성군 음성문화예술회관과 협력사 동건티엔엘 제2공장에서 건축·인프라사업본부 소속 장비관리자 30여 명을 대상으로 실무형",
-    "cluster_id": "56c8",
-    "publisher": "청년일보",
-    "title_clean": "'현장 밀착·스마트 기술'…한화 건설부문, 선제적 안전망 구축",
-    "summary": "한화 건설부문이 중장비 재해 예방을 위해 현장 실무 교육과 디지털 기술 관제를 결합한 안전 관리 체계를 구축했다. 건설 현장 사망사고의 30% 이상을 차지하는 중장비 재해를 선제적으로 대응하려는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T12:28:28+09:00",
-    "importance": 2
   }
 ]
