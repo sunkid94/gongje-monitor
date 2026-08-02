@@ -23455,6 +23455,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "폭염 속 근로자안전 대책으로 ‘코이텐트 에어텐트’ 현장 적용 확대 - 비즈월드",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fZ1dRbVZCWUp2bE16cHpkNGlqVzdFNnVpbXQ1SVVUNktQMHJ3cHk3d2FvTTFiMGN3YjdaeG5rNnNVV053Nkp3SzZqblpubDA4NzVlOXFvUnVBZnBpUjJhWmFQbWliOUtocGc?oc=5",
+    "description": "[비즈월드] 최근 여름철 폭염이 장기화되면서 야외 작업이 많은 건설현장에서는 근로자 휴게공간 확보가 중요한 안전관리 과제로 떠오르고 있다. 기상청도 올해 여름 기온이 평년보다 높을 것으로 전망하면서 폭염과 집중호우에 모두 대응할 수 있는 임시 쉼터에 대한 관심도 커지고 있다.이와 함께 개정 산업안전보건 규칙 시행으로 체감온도 31℃ 이상에서 작업할 경우 사업주가 그늘과 물, 휴식시간 등을 제공하도록 의무화되면서 건설현장에서도 휴게시설 확충이 이뤄지고 있다. 온열질환 예방이 현장 안전관리의 주요 요소로 자리 잡으면서 이동형 쉼터를 도",
+    "published_at": "2026-08-02T10:17:00+09:00",
+    "cluster_id": "1d0a",
+    "publisher": "비즈월드",
+    "title_clean": "폭염 속 근로자안전 대책으로 ‘코이텐트 에어텐트’ 현장 적용 확대",
+    "summary": "장기화된 폭염으로 인해 건설현장의 근로자 안전관리가 중요해지면서 '코이텐트 에어텐트' 등 이동형 쉼터 수요가 증가하고 있다. 개정 산업안전보건 규칙에 따라 체감온도 31℃ 이상에서 휴게시설 제공이 의무화되면서 건설현장의 휴게시설 확충이 추진되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-02T10:27:52+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "예천군, 폭염 속 건설현장 안전점검 강화 - kbsm.net",
     "link": "https://www.kbsm.net/news/view.php?idx=528812",
     "description": "예천군은 여름철 폭염은 물론 집중호우와 태풍 등 자연재난에 대비해 건설현장 안전점검을 지속적으로 실시하고 위험요인을 사전에 제거해 안전사고 예방에 행정력을 집중할 방침이다. 안병윤 예천군수는 \"폭염에 취약한...",
@@ -32295,21 +32311,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-30T12:08:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "2년 만에 늘어난 건설업 고용…실질임금은 두 달째 뒷걸음 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10825512?ref=naver",
-    "description": "실제 한국건설산업연구원에 따르면 올 6월 건설경기실사지수(CBSI)가 전월 대비 3.0포인트 상승한 74.5를 기록했다. CBSI가 기준선인 100을 밑돌면 건설경기를 비관적으로 보는 기업이 더 많다는 뜻이다. 100을 웃돌면...",
-    "published_at": "2026-07-30T12:01:00+09:00",
-    "cluster_id": "cced",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "2년 만에 늘어난 건설업 고용…실질임금은 두 달째 뒷걸음",
-    "summary": "건설업 고용이 2년 만에 증가했으나 실질임금은 2개월 연속 하락했다. 건설경기실사지수(CBSI)는 74.5로 기준선 100 이하를 기록해 업계의 약한 경기 심리를 반영하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T12:08:48+09:00",
-    "importance": 5
   }
 ]
