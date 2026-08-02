@@ -23183,6 +23183,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "6월 수도권 건설수주, 인천 ‘웃고’ 경기 ‘울상’ - 중부일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtUm5yTkFaMTVLRGlQeVhtZi1JUlBLUDJhczN5SWhOSUJxQldjU2x0Qk52cHBfQjJPMTM1T29OYmdrcVZkSWlwb0tVVXFuUE1rbmMxZnhuWllGT2tHZS1vSE5IZGxwRzdTV3JwMHp3?oc=5",
+    "description": "경기도가 지난 6월 수도권에서 유일하게 건설수주가 감소했지만 인천은 증가하면서 건설경기 온도차를 드러냈다.2일 경인지방데이터청의 ‘수도권 시도별 산업활동동향’에 따르면, 6월 경기지역의 건설수주액은 3조4천302억 원으로 전년 동월 대비 66.0% 축소됐다.",
+    "published_at": "2026-08-02T17:20:00+09:00",
+    "cluster_id": "d5b7",
+    "publisher": "중부일보",
+    "title_clean": "6월 수도권 건설수주, 인천 ‘웃고’ 경기 ‘울상’",
+    "summary": "6월 수도권 건설수주에서 지역별 양극화가 심화됐다. 경기도는 전년 동월 대비 66.0% 감소한 반면, 인천은 증가세를 보이며 대조적인 모습을 드러냈다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T17:47:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32281,22 +32297,6 @@
     "summary": "SH가 신내4 송수관로 공사 현장에서 폭염 대응 및 안전관리를 강화하고 있다. 여름철 극한 날씨에 대비한 근로자 보호와 안전체계 점검으로 건설현장의 안전 관리 수준을 높이고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T13:23:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 장비관리자 대상 안전관리 전문화 교육 실시 - 퍼블릭뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnYlFHVldMTEg3ZG51WFVzaHd0Q2pTZEQtSFAxUHFlZWMyU0x1OVdaMkVROTNLTXMyNTJDSWFyc25pdjdneHBZZDRlOVhyQ0hOU2trRXFjYXp1WnBBS2JXMmFLLVpRcm9IMzVn?oc=5",
-    "description": "한화 건설부문이 건설 현장의 중장비 안전사고 예방을 위해 현장 장비관리자 대상 전문화 교육을 29일 진행했다. 최근 건설 현장에서 중장비 관련 사고에 대한 경각심",
-    "published_at": "2026-07-30T10:26:19+09:00",
-    "cluster_id": "785e",
-    "publisher": "퍼블릭뉴스통신",
-    "title_clean": "한화 건설부문, 장비관리자 대상 안전관리 전문화 교육 실시",
-    "summary": "한화 건설부문이 건설 현장의 중장비 안전사고 예방을 위해 현장 장비관리자 대상 전문화 교육을 실시했다. 최근 건설 현장에서 중장비 관련 사고에 대한 경각심을 높이기 위한 안전관리 강화 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T13:08:33+09:00",
     "importance": 2
   }
 ]
