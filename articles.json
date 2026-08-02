@@ -23166,6 +23166,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "동국제강, H형강 판매가격 인상…현대제철 이어 시장 정상화 '속도' - ferrotimes.com",
+    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=49500",
+    "description": "계절적 비수기 속 가격 하락을 막기 위한 선제적 인상이라는 분석이다. 다만 철스크랩 가격이 최근 약세인데다 건설경기 침체로 실수요 회복이 더딘 만큼, 인상분이 시장에 얼마나 반영될지는 알 수 없다는 평가다.",
+    "published_at": "2026-08-02T19:00:00+09:00",
+    "cluster_id": "1dad",
+    "publisher": "ferrotimes.com",
+    "title_clean": "동국제강, H형강 판매가격 인상…현대제철 이어 시장 정상화 '속도'",
+    "summary": "동국제강이 H형강 판매가격을 인상하며 현대제철에 이어 시장 정상화를 추진하고 있다. 비수기 가격 하락을 막기 위한 선제적 조치이나, 철스크랩 약세와 건설경기 침체로 실제 가격 인상이 시장에 반영될지는 불확실한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-02T19:02:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32281,21 +32297,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T13:48:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "6월 건설업 종사자 수 상승 전환… 24개월만 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607301322498510182",
-    "description": "장기간 침체에 빠져 있던 건설경기가 바닥을 찍고, 회복 국면에 접어들 것이라는 기대가 나온다. 30일 고용노동부가 발표한 ‘2026년 6월 사업체노동력조사 결과’에 따르면 올해 6월 마지막 영업일 기준 건설업...",
-    "published_at": "2026-07-30T13:40:00+09:00",
-    "cluster_id": "4f35",
-    "publisher": "대한경제",
-    "title_clean": "6월 건설업 종사자 수 상승 전환… 24개월만",
-    "summary": "건설업 종사자 수가 24개월 만에 증가로 전환되면서 장기 침체에서 벗어날 조짐을 보이고 있다. 고용노동부 자료에 따르면 6월 건설업 고용이 개선되어 업계 회복 가능성이 높아지고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T13:48:43+09:00",
-    "importance": 2
   }
 ]
