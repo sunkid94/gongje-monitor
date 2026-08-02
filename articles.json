@@ -7151,23 +7151,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회-한기대, 기계설비 유지관리 온라인 교육 강화 '맞손’ - 건설이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MT1M4VkgyN3ZYbmIwSy1COXRQdTRDNEpIaVQwV3ZXYnFNYm9UWGRLcnlyRFMyRHFCTmlGUzJHU3B0aWxQQXNWTVpaSmRXM1Brang2OGx5MWpTMVBsMzQwemVINlo?oc=5",
-    "description": "[건설이코노미뉴스] 대한기계설비건설협회(이하 기계설비협회)가 한국기술교육대학교(이하 한기대) 온라인평생교육원과 기계설비 유지관리 분야 전문인력 양성과 실무 중심 교육체계 구축을 위해 협력에 나섰다.기계설비협회는 3일 충남 천안시에 위치한 한기대에서 한국기술교육대학교 온라인평생교육원과 업무협약(MOU)을 체결했다고 밝혔다.이날 협약식에는 허용주 기계설비협회장, 현규섭 기계설비유지관리기술인협회장, 한연희 한기대 온라인평생교육원장 등 양 기관 관계자들이 참석해 기계설비 분야 교육 경쟁력 강화를 위한 협력 방안을 논의했다.이번 협약에 따라",
-    "published_at": "2026-07-03T13:27:00+09:00",
-    "cluster_id": "92b0",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "기계설비협회-한기대, 기계설비 유지관리 온라인 교육 강화 '맞손’",
-    "summary": "대한기계설비건설협회가 한국기술교육대학교 온라인평생교육원과 업무협약을 체결하고 기계설비 유지관리 분야 전문인력 양성 및 실무 중심 교육체계 구축을 위해 협력하기로 합의했다. 이는 기계설비 산업의 인력 양성 기반을 강화하는 교육 협력 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T19:37:36+09:00",
-    "event_label": "대한기계설비건설협회 한국기술교육대학교와 기계설비 유지관리 교육 협력 MOU 체결",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -23130,6 +23113,22 @@
     "summary": "두산에너빌리티가 중국 라이양 원전 5·6호기 증기발생기용 초대형 단조품 공급 계약을 체결했다. 이는 해외 원전 수주로 기계설비 제조업체의 매출 확대 기회를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T09:28:47+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "박완수 지사, 폭염 현장 찾아 “노동자 안전 지켜야” - 경남일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUWWxjam5rc2QwTW9fM2s1M21SMGlqZGIxbHd0Tms2Z2NDN0dkMlhOblNEUm9TN1hTamJaNnd2S3pNWUNvd243RVJRRWcxNDU3N1NVQm5GTk5mOW5yX3Q3MThGLXBlRnRrRHlz?oc=5",
+    "description": "기록적인 폭염이 지속되자 박완수 도지사가 지난달 31일 창녕군과 창원시 일대 도로건설 현장, 과수원, 조선업 사업장을 잇따라 방문해 폭염 대응 상황을 챙겼다.이날",
+    "published_at": "2026-08-02T18:16:05+09:00",
+    "cluster_id": "0be5",
+    "publisher": "경남일보",
+    "title_clean": "박완수 지사, 폭염 현장 찾아 “노동자 안전 지켜야”",
+    "summary": "박완수 도지사가 기록적 폭염 속 도로건설 현장, 과수원, 조선업 사업장을 방문하여 폭염 대응 상황과 노동자 안전을 점검했다. 정부의 현장 안전관리 강화 의지를 보여주는 소식이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-02T19:42:47+09:00",
     "importance": 2
   },
   {
