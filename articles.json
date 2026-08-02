@@ -23452,6 +23452,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "“떼인 돈 다 받았습니다”…이천 건설현장 일용직 116명 체불임금 싹 다 받아줬다 - 경기일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxaVRzVTdwa0poVHQyMGJKVFNjcGlfMTBWVU9LaUIwRGNSbnM4TG14di03aFgwZHgyb2NWYk4xeElTTVRGOFh3ejFaM3FTOGtaZDd2YWZjeXlXWDQ?oc=5",
+    "description": "이천시의 한 건설현장에서 발생한 일용직 노동자 116명의 5억원대 임금체불 집단 민원이 노동 당국의 전수감독으로 전액 청산됐다. 2일 고용노동부 성남지청에 따르면 이번 임금체불은 지난달 초 이천시의 한 건설현장에서 일용직 노동자들의 집단 임금체불 진정이 접수되면서 시작",
+    "cluster_id": "8a27",
+    "publisher": "경기일보",
+    "title_clean": "“떼인 돈 다 받았습니다”…이천 건설현장 일용직 116명 체불임금 싹 다 받아줬다",
+    "summary": "이천 건설현장에서 발생한 일용직 116명의 5억원대 임금체불이 노동 당국의 전수감독으로 전액 청산됐다. 노동 당국이 체불임금 문제를 신속하게 해결함으로써 건설업 노동자 보호 강화 의지를 보여주고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T10:57:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32294,22 +32309,6 @@
     "summary": "한화 건설부문이 중장비 재해 예방을 위해 현장 실무 교육과 디지털 기술 관제를 결합한 안전 관리 체계를 구축했다. 건설 현장 사망사고의 30% 이상을 차지하는 중장비 재해를 선제적으로 대응하려는 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-30T12:28:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "늘어난 일자리 10명 중 6명 임시일용…짙어지는 ‘고용 불안’ - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1672671/?sc=Naver",
-    "description": "노동부 관계자는 “최근 건설수주와 착공 면적에 이어 건설기성도 증가하면서 고용에 반영된 것으로 보인다”며 “다만 건설경기가 살아났다고 판단하기에는 추이를 더 지켜봐야 한다”고 설명했다. 비자발적...",
-    "published_at": "2026-07-30T12:02:00+09:00",
-    "cluster_id": "7740",
-    "publisher": "dailian.co.kr",
-    "title_clean": "늘어난 일자리 10명 중 6명 임시일용…짙어지는 ‘고용 불안’",
-    "summary": "최근 건설수주, 착공, 기성이 증가하면서 일자리가 늘었으나, 신규 고용의 60%가 임시일용직으로 고용 불안이 심화되고 있다. 노동부는 건설경기 회복 신호로 보되, 지속성 판단을 위해 추이 관찰이 필요하다고 평가했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T12:08:48+09:00",
     "importance": 2
   }
 ]
