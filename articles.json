@@ -7118,6 +7118,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설현장 작업중지권 확산…‘안전 최우선’ 인식 강화 - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202607310082",
+    "description": "31일 건설업계에 따르면 최근 3년간 삼성물산 건설부문·현대건설·대우건설·DL이앤씨 등 주요 4개 건설사의 작업중지권 사용 건수를 합산한 결과 2023년 23만6172건에서 2024년 44만7659건, 2025년 45만9848건으로 증가했다....",
+    "published_at": "2026-08-03T06:02:00+09:00",
+    "cluster_id": "5b7b",
+    "publisher": "kukinews.com",
+    "title_clean": "건설현장 작업중지권 확산…‘안전 최우선’ 인식 강화",
+    "summary": "주요 건설사들의 작업중지권 사용이 2023년 23만6천 건에서 2025년 46만 건으로 증가했다. 이는 건설현장에서 안전을 최우선으로 하는 인식이 강화되고 있음을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T06:07:54+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23064,22 +23080,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-27T09:38:55+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 中 라이양 원전 5·6호기 단조품 수주…2029년까지 공급 - handmk.com",
-    "link": "https://www.handmk.com/news/articleView.html?idxno=41637",
-    "description": "두산에너빌리티가 중국 라이양 원자력발전소 5·6호기에 들어가는 증기발생기용 초대형 단조품을 수주했다. 지난해 라이양 3·4호기에 이어 연속 수주다. 두산에너빌리티는 중국 동팡전기그룹 계열사 DEI(Dongfang...",
-    "published_at": "2026-07-27T09:26:00+09:00",
-    "cluster_id": "bb6d",
-    "publisher": "handmk.com",
-    "title_clean": "두산에너빌리티, 中 라이양 원전 5·6호기 단조품 수주…2029년까지 공급",
-    "summary": "두산에너빌리티가 중국 라이양 원전 5·6호기의 증기발생기용 초대형 단조품을 수주했으며, 지난해 3·4호기에 이어 연속 수주를 기록했다. 2029년까지 공급 예정으로 기계설비건설 분야의 해외 수주 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T09:38:55+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 신기술",
