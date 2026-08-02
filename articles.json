@@ -23452,6 +23452,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "예천군, 폭염 속 건설현장 안전점검 강화 - kbsm.net",
+    "link": "https://www.kbsm.net/news/view.php?idx=528812",
+    "description": "예천군은 여름철 폭염은 물론 집중호우와 태풍 등 자연재난에 대비해 건설현장 안전점검을 지속적으로 실시하고 위험요인을 사전에 제거해 안전사고 예방에 행정력을 집중할 방침이다. 안병윤 예천군수는 \"폭염에 취약한...",
+    "published_at": "2026-08-02T10:08:00+09:00",
+    "cluster_id": "35dd",
+    "publisher": "kbsm.net",
+    "title_clean": "예천군, 폭염 속 건설현장 안전점검 강화",
+    "summary": "예천군이 폭염, 집중호우, 태풍 등 자연재난에 대비하여 건설현장 안전점검을 강화하고 있다. 안전사고 예방을 위해 위험요인을 사전에 제거하는 행정력을 집중할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T10:12:54+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32295,21 +32311,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T12:08:48+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설업 고용 24개월 만에 증가 전환…실질임금 두 달째 감소 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6555842?utm_source=naver&utm_medium=article&utm_campaign=20260730120421",
-    "description": "노동부 정향숙 노동시장조사과장은 브리핑에서 \"건설수주와 착공면적, 건설기성 등 건설 지표는 개선 흐름을 보이고 있지만 살아난다고 하기에는 아직 더 지켜봐야 한다\"고 말했다. 지난해 6월 건설업 종사자가...",
-    "published_at": "2026-07-30T12:05:00+09:00",
-    "cluster_id": "5121",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "건설업 고용 24개월 만에 증가 전환…실질임금 두 달째 감소",
-    "summary": "건설업 고용이 24개월 만에 증가로 전환되었으나, 건설 지표 개선이 아직 초기 단계인 것으로 평가된다. 실질임금은 두 달째 감소 추세를 보이고 있어 업계 회복이 본격화되기 위해서는 추가 관찰이 필요한 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T12:08:48+09:00",
-    "importance": 2
   }
 ]
