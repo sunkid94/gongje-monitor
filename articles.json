@@ -23083,6 +23083,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "윤진오號 동부건설, 수주잔고 13조 쌓았지만···주택 리스크 과제 - 뉴스웨이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSXNIZ2VscldvcEJVcTNQai1aWmQtUF9RRkN0eW4xSHF1NmF5WnlqdXZJdWhLVE1HcDh6UlZGZmNka2h4WTlhMmFMSnZVZVU2Nlg5ekwxQW1PYy13OFNEeWNpNGc3aHNjcVE?oc=5",
+    "description": "동부건설이 공공·토목 중심의 신규 수주 확대를 통해 외형 성장을 이어가고 있다. 그러나 민간 주택사업 비중 축소와 분양 부진, 장기 미회수 채권 등으로 인한 재무 부담이 남아 있어 수익성 중심의 내실경영은 여전히 시험대에 올라 있다. 안정적 수주 기반 확보에도 불구하고 현금흐름과 순차입금 관리가 해결 과제로 지적된다.",
+    "published_at": "2026-08-03T07:06:00+09:00",
+    "cluster_id": "09c3",
+    "publisher": "뉴스웨이",
+    "title_clean": "윤진오號 동부건설, 수주잔고 13조 쌓았지만···주택 리스크 과제",
+    "summary": "동부건설이 공공·토목 중심의 수주 확대로 13조 수주잔고를 쌓았으나, 민간 주택사업 부진과 장기 미회수 채권 등으로 재무 부담이 남아있다. 안정적 수주 기반에도 불구하고 현금흐름 관리와 수익성 개선이 과제로 지적되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-03T07:12:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32274,22 +32290,6 @@
     "publisher": "news.nate.com",
     "title_clean": "최병정 국토부 건설사고조사위원장, 광주대표도서관 붕괴사고 조사 결과 발표",
     "summary": "최병정 국토교통부 건설사고조사위원장이 광주대표도서관 붕괴사고에 대한 조사 결과를 발표했다. 대형 건설사고 조사 결과 발표는 건설업계에 대한 안전 규제 강화 및 책임 추궁으로 이어질 가능성이 높다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T14:08:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설업, 줄폐업 현실화…상반기 폐업 2092곳 '12년 최대' - 스페셜경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqTmVoZmJGMVRjTFdYUjU1VEVOcUhFekVHeFpHV2RScWI3N2VFcExYZU5hZG9McU9tRGk4WEFrczM4Rmx6b0pjamdnclMxODJZYlJ2SUNwdlZKWU5pZDJ0bFU0X0ptU2xuYXpmdg?oc=5",
-    "description": "스페셜경제=강민철 기자 | 국내 건설업계의 경영난이 심화되면서 올해 상반기에만 2000곳이 넘는 건설사가 문을 닫았다. 건설사 폐업 신고 건수가 상반기 기준 12",
-    "published_at": "2026-07-30T11:32:04+09:00",
-    "cluster_id": "1d94",
-    "publisher": "스페셜경제",
-    "title_clean": "건설업, 줄폐업 현실화…상반기 폐업 2092곳 '12년 최대'",
-    "summary": "국내 건설업계의 경영난이 심화되면서 올해 상반기에 2,092곳의 건설사가 폐업했으며, 이는 12년 만에 최대 규모이다. 건설 경기 부진과 자금난으로 인한 대량 폐업 사태가 현실화되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-07-30T14:08:52+09:00",
     "importance": 4
