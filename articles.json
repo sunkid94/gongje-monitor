@@ -7168,6 +7168,21 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부천시, 민간 건설공사 시공사와 ‘신뉴딜정책 경제활력 협약’ 체결 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pU2ZFa1dzTjBOZGdHYU9CWUR3bFBKNWwxdGhUWDkwMGJDY0Z5eVBsTldFNVZjeWtFWGRta0lva1ZKbUZuYnhGTDJlRkRqZWEzNTRlLWd1cHlzTUswcU83aVlIV1pncEItLW44Vlhfb3k?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1pU2ZFa1dzTjBOZGdHYU9CWUR3bFBKNWwxdGhUWDkwMGJDY0Z5eVBsTldFNVZjeWtFWGRta0lva1ZKbUZuYnhGTDJlRkRqZWEzNTRlLWd1cHlzTUswcU83aVlIV1pncEItLW44Vlhfb3k?oc=5\" target=\"_blank\">부천시, 민간 건설공사 시공사와 ‘신뉴딜정책 경제활력 협약’ 체결 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더코리아</font>",
+    "cluster_id": "38b0",
+    "publisher": "더코리아",
+    "title_clean": "부천시, 민간 건설공사 시공사와 ‘신뉴딜정책 경제활력 협약’ 체결 > 뉴스",
+    "summary": "부천시가 민간 건설공사 시공사와 신뉴딜정책 경제활력 협약을 체결했다. 이는 건설업계 활성화와 경제 활력 제고를 위한 협력 방안이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T00:57:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23112,22 +23127,6 @@
     "publisher": "newsquest.co.kr",
     "title_clean": "두산에너빌리티, 중국 라이양 원전 5·6호기 단조품 수주",
     "summary": "두산에너빌리티가 중국 라이양 원전 5·6호기에 증기발생기용 초대형 단조품을 수주했다. 지난해 3·4호기에 이어 후속 호기까지 연속 수주하며 중국 원전 핵심 소재 공급을 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T09:28:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 中 라이양 원전 5·6호기 핵심 소재 공급 계약 - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1671058/?sc=Naver",
-    "description": "두산에너빌리티가 중국 원전용 핵심 소재 공급 계약을 추가로 맺었다. 중국이 원전 건설을 확대하는 가운데 대형 단조 기술을 앞세워 글로벌 원전 기자재 공급망에서 수주 기반을 넓히는 모습이다. 두산에너빌리티는...",
-    "published_at": "2026-07-27T09:23:00+09:00",
-    "cluster_id": "1acb",
-    "publisher": "dailian.co.kr",
-    "title_clean": "두산에너빌리티, 中 라이양 원전 5·6호기 핵심 소재 공급 계약",
-    "summary": "두산에너빌리티가 중국 라이양 원전 5·6호기 핵심 소재 공급 계약을 체결했다. 대형 단조 기술을 바탕으로 글로벌 원전 기자재 공급망에서 수주 기반을 확대하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T09:28:47+09:00",
     "importance": 2
