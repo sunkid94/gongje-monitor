@@ -7118,6 +7118,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "뉴스케일, 美 최대 SMR 사업 추진…비구속 협약이 변수 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=202608030642315811fbbec65dfb_1",
+    "description": "모틀리풀은 8월 1일(현지시각) 이 사업이 아직 전력구매계약 전이라고 보도했고, 뉴스케일 파워에 1억 400만 달러(약 1503억 8400억 원)를 투자한 두산에너빌리티도 물량 확정을 기다리게 됐다. 미국 역사상 최대 규모 SMR...",
+    "published_at": "2026-08-03T06:52:00+09:00",
+    "cluster_id": "907e",
+    "publisher": "",
+    "title_clean": "뉴스케일, 美 최대 SMR 사업 추진…비구속 협약이 변수 - g-enews.com",
+    "summary": "뉴스케일이 추진 중인 미국 최대 규모 SMR 사업이 전력구매계약 체결 전 단계에 있으며, 투자사인 두산에너빌리티도 물량 확정을 기다리고 있는 상황. 비구속 협약으로 인해 사업 진행에 불확실성이 존재하는 상태.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-03T06:57:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -23062,21 +23078,6 @@
     "publisher": "ziksir.com",
     "title_clean": "\"역세권보다 한발 더\" 지하철 직통 연결 단지…청약시장서 높은 경쟁률",
     "summary": "포스코이앤씨가 서울 중구 신당동에서 지하철 5·6호선 청구역과 직통 연결되는 '오티에르 어반더스321' 재개발 프로젝트를 추진 중이다. 1159세대 규모의 대형 단지로 지하철 직통 연결이라는 차별화된 특장점으로 청약시장에서 높은 경쟁률을 기록하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T09:48:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 중국 라이양 원전 5·6호기 초대형 단조품 공급 계약 체결 - 팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03Ukd2SjdGNE84NkVIMHFneUJfN3hGZy1mRlpETmtZaDd3dmE5Q1lhNWpEcU5YMnI2VmZ0dFMxZDN2bnVRWEdxNFN6Wm5URDVEZGpEZmJtMC1tY1BtalMyTDNmRGFRSGM?oc=5",
-    "description": "두산에너빌리티가 중국 동팡전기그룹 계열사와 라이양 원전 5&middot;6호기에 들어가는 증기발생기용 초대형 단조품 공급 계약을 체결했다고 27일 밝혔습니다. 두산에너빌리티는 직경 5m, 최대 130톤 규모의 채널헤드와 튜브시트 등 총 8개 단조품을 2029년까지 순차적으로 공급할 예정입니다.이번 계약은 지난해 라이양 3&middot;4호기 수주에 이은 연속 수주로 중국 원전 시장에서 기술력과 품질 경쟁력을 다시 인정받았다는 평가입니다. 라이양 5&middot;6호기에는 중국의 1400MW급 차세대 원전 모델인 CAP1400 노형이",
-    "cluster_id": "bdfb",
-    "publisher": "팍스경제TV",
-    "title_clean": "두산에너빌리티, 중국 라이양 원전 5·6호기 초대형 단조품 공급 계약 체결",
-    "summary": "두산에너빌리티가 중국 라이양 원전 5·6호기용 초대형 단조품 공급 계약을 체결했습니다. 직경 5m, 최대 130톤 규모의 채널헤드와 튜브시트 등 8개 단조품을 2029년까지 공급할 예정이며, 지난해 3·4호기 수주에 이은 연속 수주로 중국 원전 시장에서의 기술력을 인정받았습니다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T09:48:48+09:00",
     "importance": 2
