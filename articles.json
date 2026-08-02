@@ -7269,23 +7269,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설協-한기大, 기계설비 실무 전문성 강화 공동행보 - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=331974",
-    "description": "대한기계설비건설협회와 한국기술교육대학교 온라인평생교육원이 기계설비 유지관리 및 성능점검 분야의 실무 전문성 강화에 손을 잡았다. 이를 통해 유지관리자의 현장 대응 능력과 실무 전문성을 강화하고 기계설비...",
-    "published_at": "2026-07-03T16:16:00+09:00",
-    "cluster_id": "d4d4",
-    "publisher": "e2news.com",
-    "title_clean": "기계설비건설協-한기大, 기계설비 실무 전문성 강화 공동행보",
-    "summary": "대한기계설비건설협회와 한국기술교육대학교가 기계설비 유지관리 및 성능점검 분야의 실무 전문성 강화를 위해 협력한다. 유지관리자의 현장 대응 능력과 전문 역량 강화를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T16:18:30+09:00",
-    "event_label": "대한기계설비건설협회 한국기술교육대학교와 기계설비 실무 전문성 강화 협력",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23250,6 +23233,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "강원 광공업 생산·출하 늘었다… 대형소매점 판매는 큰 폭 감소 - kado.net",
+    "link": "https://www.kado.net/news/articleView.html?idxno=2064305",
+    "description": "건설수주 또한 큰 폭으로 늘었으나, 대형소매점 판매는 감소하며 희비가 엇갈렸다. 2일 국가데이터처 강원데이터지청이 발표한 산업활동동향을 보면 올해 6월 기준 강원도내 광공업 생산은 전년 동월 대비 3.3...",
+    "published_at": "2026-08-02T16:25:00+09:00",
+    "cluster_id": "4af2",
+    "publisher": "kado.net",
+    "title_clean": "강원 광공업 생산·출하 늘었다… 대형소매점 판매는 큰 폭 감소",
+    "summary": "강원도 광공업 생산·출하와 건설수주가 전년 동월 대비 증가하며 긍정적 신호를 보였다. 다만 대형소매점 판매는 큰 폭으로 감소하여 지역 경제의 양극화 현상이 나타났다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-02T16:27:45+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "자동차·기계장비 선전…울산 광공업 생산 2.9% 증가 - iusm.co.kr",
+    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1066130",
+    "description": "우려스러운 부문은 투자 지표인 건설수주다. 6월 울산 지역 건설수주액은 1,085억 원으로 전년 동월 대비 88.4% 급감했다. 공공부문 수주액은 433억 원으로 학교·관공서, 도로·교량 발주에 힘입어 250.5% 늘었으나, 전체...",
+    "published_at": "2026-08-02T16:20:00+09:00",
+    "cluster_id": "0dcd",
+    "publisher": "iusm.co.kr",
+    "title_clean": "자동차·기계장비 선전…울산 광공업 생산 2.9% 증가",
+    "summary": "울산 광공업 생산이 자동차·기계장비 중심으로 2.9% 증가했으나, 건설수주는 전년 동월 대비 88.4% 급감해 투자 지표가 악화되었다. 공공부문 수주는 증가했지만 민간 부문의 부진으로 전체 수주액이 크게 감소했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T16:27:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32284,21 +32299,6 @@
     "summary": "대우건설이 한국재난안전기술원과 건설 및 재난안전 분야의 연구개발과 안전교육 협력을 위한 업무협약을 체결했다. 양 기관은 건설현장 안전관리 역량 강화와 재난안전 분야 협력 확대 방안을 논의했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T12:58:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "평택시, 국토교통부 대도시권 광역교통 위원장과 현안 논의…‘평택 30분 생활권’ 실현 본격화 - 경기탑뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0VnlkNl8xeklHUmNwRWRGUkVXeUhKd2wxUnc4S2xoRGxOOFNVYjdUZjUwZVl1NUpqY2ZaQ21aN0xYakY4ckJweGQ0OTlTQmxnRksyVWZYakZZWjhnay1KOTF0dXVVdw?oc=5",
-    "description": "[경기탑뉴스=박봉석 기자] 평택시는 지난 29일 국토교통부 대도시권광역교통위원회(대광위)를 방문해 위원장과의 면담에서 시민 교통편의 증진과 ‘평택 30분 생활권’ 실현을 위한 주요 광역교통 현안을 건의했다고 밝혔다. 이번 면담에서는 ▲대광위 준공영제 광역버스 노선 2개(평택지제역~소사벌지구~용죽지구~교대역, 서정리역~송탄터미널~브레인",
-    "cluster_id": "9d6c",
-    "publisher": "경기탑뉴스",
-    "title_clean": "평택시, 국토교통부 대도시권 광역교통 위원장과 현안 논의…‘평택 30분 생활권’ 실현 본격화",
-    "summary": "평택시가 국토교통부 대도시권광역교통위원회와 면담하여 광역버스 노선 확충 등 '평택 30분 생활권' 실현을 위한 교통 현안을 건의했다. 지역 교통 인프라 확충 관련 논의로 건설 및 기계설비 분야의 관련 사업 기회 증가 가능성이 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T12:48:37+09:00",
     "importance": 2
   }
 ]
