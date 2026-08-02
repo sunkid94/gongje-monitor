@@ -23116,6 +23116,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "中企, 회생 시도도 못하고 줄파산 … 올해 신청 2500건 넘을 듯 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12114692",
+    "description": "산업계 양극화 심화 원재료·인건비 모두 오르고 건설경기 악화에 파산 도미노 코로나 지원책 종료도 영향 누적 부실 드러나며 법원行 전문가 \"재기 가능성 따져 천편일률 아닌 핀셋지원을\" 공장 자동화 솔루션 등...",
+    "published_at": "2026-08-02T19:49:00+09:00",
+    "cluster_id": "9728",
+    "publisher": "mk.co.kr",
+    "title_clean": "中企, 회생 시도도 못하고 줄파산 … 올해 신청 2500건 넘을 듯",
+    "summary": "건설경기 악화, 원재료비·인건비 상승, 코로나 지원 종료 등으로 중소건설업체의 파산이 급증하고 있으며, 올해 신청 건수가 2500건을 넘을 것으로 예상된다. 전문가는 재기 가능성을 개별 평가하여 선별적 지원이 필요하다고 지적했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T19:57:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32279,21 +32295,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-30T13:48:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[주변의 법률산책] '공동수급체' 공사 수급인 중 1명이 소송 진행을 거... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443544",
-    "description": "<연합뉴스> 건설경기가 최악이다. 경기가 침체되면서 공사를 수주하기도 어렵지만, 공사를 해놓고 미분양 등으로 공사대금을 받지 못하는 사례도 늘고 있다. 성한수(가명)씨는 중소 시공사를 운영하고 있는데, 친구 박진철...",
-    "published_at": "2026-07-30T13:42:00+09:00",
-    "cluster_id": "4243",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "[주변의 법률산책] '공동수급체' 공사 수급인 중 1명이 소송 진행을 거...",
-    "summary": "건설경기 침체로 공사 수주 어려움과 미분양으로 인한 공사대금 미수 사례가 증가하고 있다. 공동수급체 구성원 중 일부가 소송을 진행하는 사례를 통해 건설업계의 구조적 문제를 다룬 법률 상담 기사이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T13:48:43+09:00",
-    "importance": 4
   }
 ]
