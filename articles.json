@@ -23250,6 +23250,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한전, 호남 반도체산단 전력망 공기 단축…신기술 적극 도입 - m-i.kr",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82Y0F3bEZRY2FhbVQ1empJQUVldVpjdUVWZnpVVUZWelB5bG9OdzhnYTZ3azN4cDR6LU5lNnBpbEZ5bUxMQks0cGMtZTBILWdvTU94WmJ0OVJ1Y1lOUmtpM01mZw?oc=5",
+    "description": "매일일보 = 김현우 기자 | 한국전력이 호남권 반도체 산업단지의 적기 전력 공급을 위해 전력망 구축 기간 단축에 나선다. 비굴착 공법과 케이블 장거리 포설, 조립식 전력구 등 신기술·신공법을 도입해 공사 속도와 시공 품질을 함께 높인다.한전은 호남권 반도체 산단 전력망 구축에 신기술과 신공법을 적극 도입하는 ‘전력망 적기 구축 기술혁신 방안’을 수립했다고 2일 밝혔다.한전은 기존 건설 방식의 한계를 줄이기 위해 공사 기간 단축과 사업비 절감, 주민 수용성 확보에 초점을 맞춘 기술을 적용할 방침이다.우선 강과 하천을 지나는 구간에는",
+    "published_at": "2026-08-02T15:54:37+09:00",
+    "cluster_id": "d5a3",
+    "publisher": "",
+    "title_clean": "한전, 호남 반도체산단 전력망 공기 단축…신기술 적극 도입 - m-i.kr",
+    "summary": "한국전력이 호남 반도체 산단 전력망 구축을 위해 비굴착 공법, 장거리 케이블 포설, 조립식 전력구 등 신기술·신공법을 도입하여 공사 기간 단축과 품질 향상에 나선다. 공사 기간 단축, 사업비 절감, 주민 수용성 확보를 목표로 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-02T15:57:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32284,21 +32300,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T12:48:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, '장비관리자 전문화 교육' 진행…장비 안전관리 강화 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PT0xUMEY2U1BhNmxsQUlWd05adUZWSWhwRWRTYlNCU2hBSlpRNzdYSDRRUGRuMUxDN0RsTXk1UThEaDlheDZkbHp5ZDFqVzRkX0lV?oc=5",
-    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 한화 건설부문 현장 장비관리자들이 실습교육을 진행하고 있다. 한화 건설부문 제공 한화 건설부문이 지난 29일 충북 음성의 음성문화예술회관과 ㈜동건티엔엘 제2공장에서 현장 장비관리자들을 대상으로 전문화 교육을 진행했다고 30일 밝혔다. 건설현장 내 중장",
-    "published_at": "2026-07-30T12:30:00+09:00",
-    "cluster_id": "3324",
-    "publisher": "네이트",
-    "title_clean": "한화 건설부문, '장비관리자 전문화 교육' 진행…장비 안전관리 강화",
-    "summary": "한화 건설부문이 현장 장비관리자들을 대상으로 전문화 교육을 실시하며 장비 안전관리를 강화했다. 건설현장 내 중장비 관련 안전 역량 강화를 통해 사고 예방에 나서는 모습이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T12:48:37+09:00",
-    "importance": 2
   }
 ]
