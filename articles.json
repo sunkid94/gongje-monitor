@@ -7286,40 +7286,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "한국기술교육대, STEP 통해 '기계설비 근로자 직무능력 맞춤형 교육' 제... - news.unn.net",
-    "link": "https://news.unn.net/news/articleView.html?idxno=594300",
-    "description": "한국기술교육대 온라인평생교육원이 대한기계설비건설협회와 기계설비 분야 근로자 직무능력 향상을 위한 업무협약(MOU)을 체결하고 기념촬영을 했다. 사진=하국기술교육대  한국기술교육대학교 온라인평생교육원...",
-    "published_at": "2026-07-03T14:54:00+09:00",
-    "cluster_id": "41ba",
-    "publisher": "news.unn.net",
-    "title_clean": "한국기술교육대, STEP 통해 '기계설비 근로자 직무능력 맞춤형 교육' 제...",
-    "summary": "한국기술교육대 온라인평생교육원이 대한기계설비건설협회와 MOU를 체결하여 기계설비 분야 근로자의 직무능력 향상을 위한 맞춤형 교육 프로그램을 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T14:57:46+09:00",
-    "event_label": "대한기계설비건설협회 한국기술교육대와 직무능력 교육 MOU 체결",
-    "importance": 5
-  },
-  {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회-한기대,MOU 체결…실무형 교육 확대 - shinailbo.co.kr",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037162",
-    "description": "대한기계설비건설협회(기계설비협회)와 한국기술교육대학교(한기대)가 기계설비 유지관리 분야 전문인력 양성을 위해 손을 맞잡았다. 기계설비협회는 3일 충남 천안시 한기대에서 온라인평생교육원과 MOU(업무협약)를...",
-    "published_at": "2026-07-03T14:52:00+09:00",
-    "cluster_id": "8fe1",
-    "publisher": "shinailbo.co.kr",
-    "title_clean": "기계설비협회-한기대,MOU 체결…실무형 교육 확대",
-    "summary": "대한기계설비건설협회와 한국기술교육대학교가 기계설비 유지관리 분야 전문인력 양성을 위해 MOU를 체결했다. 협회는 온라인평생교육원과의 협약을 통해 실무형 교육을 확대하여 업계 인력 수급에 나선다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T14:57:46+09:00",
-    "event_label": "대한기계설비건설협회 한국기술교육대학교와 MOU 체결",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23281,6 +23247,21 @@
     "sentiment": "positive",
     "collected_at": "2026-07-27T09:28:47+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노동 당국, 이천 건설현장 5억대 체불 해결 - M이코노미뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBscE1DczdMaktWWTVfdVdVSTQ2QnJtVVNTTHd4NVhtM2hLRE53WDdVOFNvdVlOQjVUTnJHRUwxOENQbWFsU3NSTE55cXJmaVpWWHl5YjlvTWVtQnFKcFF1MVVzam1jNjQ?oc=5",
+    "description": "경기 이천시의 한 건설공사 현장에서 5억원대의 집단 임금 체불사건이 발생했으나 노동 당국의 현장 감독과 지도로 전액 청산됐다. 고용노동부 성남지청은 이천 소재 건설 현장 일용직 노동자 116명의 체불 임금 총 5억3000만 원이 전액 청산됐다고 2일 밝혔다. 이번 청산액에는 당초 성남지청에 진정을 낸 노동자 51명의 체불액 3억3000만원 외에도, 당국이",
+    "cluster_id": "7e64",
+    "publisher": "M이코노미뉴스",
+    "title_clean": "노동 당국, 이천 건설현장 5억대 체불 해결",
+    "summary": "경기 이천시 건설현장에서 발생한 일용직 노동자 116명의 5억3000만원 임금 체불이 노동 당국의 현장 감독으로 전액 청산됐다. 당초 진정한 51명의 3억3000만원 외에 추가 노동자들의 체불액도 해결됐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T15:12:44+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
