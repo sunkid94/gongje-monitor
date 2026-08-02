@@ -23452,6 +23452,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대구 건설현장 사고사망자 71% 감소 - kbsm.net",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqc3VwYXVqSDUyRlBnNWs0VERRN2VOR3IwZGVnZDhfcFdHdzZkVW1uSGkxVkE2VW5fZnJFa0gwckZTZ01zVExvNzJPNHVKWGZ3NnpJLW42MGo?oc=5",
+    "description": "대구시의 현장 중심 안전관리 강화로 건설현장 사고사망자가 크게 감소한 것으로 나타났다.2일 시에 따르면 올해 추진한 현장 밀착형 산업재해 예방 대책의 효과로 건설현장 사고사망자가 지난해보다 큰 폭으로 줄었다.고용노..",
+    "published_at": "2026-08-02T11:22:15+00:00",
+    "cluster_id": "e412",
+    "publisher": "kbsm.net",
+    "title_clean": "대구 건설현장 사고사망자 71% 감소",
+    "summary": "대구시의 현장 중심 안전관리 강화로 건설현장 사고사망자가 전년 대비 71% 감소했다. 현장 밀착형 산업재해 예방 대책이 효과를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T11:27:47+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32295,21 +32311,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-30T12:28:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'40도 찜통'서 마루시공…폭염에 대책 없는 실내 건설 노동 환경 - lawleader.co.kr",
-    "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=19627",
-    "description": "폭염 속 실내 건설 노동자들을 외면하고 있는 노동부의 작업중지권고 및 노동 감독 이미소 노무사는 \"2026년 정부의 폭염 대책에는 옥외 작업중지만을 권고하고 있다. 실내 작업은 전면 배제하고 있는 것\"이라며 \"그러나...",
-    "published_at": "2026-07-30T12:22:00+09:00",
-    "cluster_id": "e014",
-    "publisher": "lawleader.co.kr",
-    "title_clean": "'40도 찜통'서 마루시공…폭염에 대책 없는 실내 건설 노동 환경",
-    "summary": "폭염 속 실내 건설 현장의 열악한 노동 환경에 대해 노동부의 대책이 부족하다는 지적. 옥외 작업중지만 권고하고 실내 작업은 규제 대상에서 제외되어 있어 노동자 보호 공백 발생.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T12:28:28+09:00",
-    "importance": 4
   }
 ]
