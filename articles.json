@@ -23452,6 +23452,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "삼성물산, 시공능력 압도적 1위 '독주'…상위권 순위 경쟁 '치열' - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=202607310940092880ea13369bfa_1",
+    "description": "업계에서는 최근 건설경기 둔화와 프로젝트파이낸싱(PF) 시장 위축 속에서 건설사별 사업 포트폴리오와 재무 건전성의 차이가 시공능력평가에도 반영되고 있다는 분석이 나온다. 단순한 외형 성장보다 안정적인...",
+    "published_at": "2026-08-02T09:02:00+09:00",
+    "cluster_id": "13e1",
+    "publisher": "",
+    "title_clean": "삼성물산, 시공능력 압도적 1위 '독주'…상위권 순위 경쟁 '치열' - g-enews.com",
+    "summary": "삼성물산이 시공능력평가에서 1위를 유지하고 있으며, 건설경기 둔화와 PF 시장 위축 속에서 건설사 간 포트폴리오와 재무 건전성의 차이가 평가에 반영되는 추세다. 업계는 단순 외형 성장보다 안정적 경영을 중시하는 방향으로 재편되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T09:07:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32294,22 +32310,6 @@
     "title_clean": "[2026 시평] 삼성물산, 13년 연속 1위…GS건설, 6년 만에 ‘빅3’ 복귀",
     "summary": "2026년 건설사 시공능력평가에서 삼성물산이 13년 연속 1위를 차지했으며, GS건설은 6년 만에 3위로 복귀하면서 빅3 건설사에 이름을 올렸다. 국토교통부가 공사실적, 경영상태, 기술능력, 신인도 등을 종합평가한 결과를 발표했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-30T12:08:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "삼성물산·DL이앤씨 주가 신바람… 건설 경기 회복 기대 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51b253amptWjhibWNLekZMUDNpZzdkLVNhTEJRcW5KSm5UdEwxMVFPZGlxQXBaMXNCTjFQMkY5bV9QRlhYSlU1SkdsY0ZadVRFRkVPLUgzSkFFYlFobmhYSjhQRHVyOGlKLUtleFVrX2RUTk3SAXdBVV95cUxNbzltOEE4S2NNTXN0amNoRk0xUmRkY0preWtCRXJMV2FSUjg5b3JGT2xIRGV0aHkzdVNnX2dMcVRWWXhKdlpLbDhLSFVmd2laOUQ3bkxBUHozTUhMU19HYTlZaW1za0VXMnJXSW9XVXJQZmNUZV9JOA?oc=5",
-    "description": "건설 대표주가 30일 강세를 보이고 있다. 부동산 시장 회복 기대감과 정부의 주택 공급 확대 정책 기대가 커지면서 대형 건설사를 중심으로 투자자들의 매수세가 유입되고 있다.이날 건설 대표주 테마는 상승 흐름을 나타내고 있다. 최근 금리 인하 기대감과 주택 경기 개선 전망, 대형 건설사의 신규 수주 확대 가능성이 투자 심리를 끌어올리는 요인으로 작용하고 있다.건설업종은 금리와 부동산 경기 변화에 민감하게 움직이는 대표적인 경기 민감 업종이다. 금리 부담이 완화되고 주택 공급 확대 정책이 본격화될 경우 신규 분양과 도시정비 사업 활성화",
-    "published_at": "2026-07-30T11:04:52+09:00",
-    "cluster_id": "d128",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "삼성물산·DL이앤씨 주가 신바람… 건설 경기 회복 기대",
-    "summary": "부동산 시장 회복 기대감과 정부의 주택 공급 확대 정책, 금리 인하 전망 등으로 삼성물산·DL이앤씨 등 대형 건설사의 주가가 상승하고 있다. 금리 부담 완화와 주택 공급 확대 정책 본격화 시 신규 분양과 도시정비 사업 활성화로 건설업의 경기 회복이 예상되고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-30T12:08:48+09:00",
     "importance": 2
   }
