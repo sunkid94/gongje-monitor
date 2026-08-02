@@ -23452,6 +23452,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한전, 기술 혁신 박차..호남권 반도체 산단 적기 전력공급 총력 - 한국정경신문",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWnpvNWd1Qm5LdVlQeklZbGctOWJCdWpLQWZSUWMzMC13TzVFa3pRM3FneGxaU2Z1WENrcVJCenJvQ3BJMVNkdTFfVkNHdWlncmc?oc=5",
+    "description": "[한국정경신문=변동휘 기자] 한국전력이 호남권 반도체 산단 적기 전력공급을 위해 신기술·신공법을 적극 도입한다. 전력망 구축기간 단축과 시공 품질 확보를 동시에 추진하기 위함이다.2일 한전에 따르면 지방 정부와 한전, 민간기업이 참여하는 실무협의체 착수회의가 지난달 29일 개최됐다. 이는 인허가 기관 간 실질적 협력체계를 본격적으로 가동해 전력망 적기 건설에 총력을 기울이기 위함이다. 한전은 기존 건설 방식의 한계를 극복하기 위해 ‘전력망 적기 구축 기술혁신 방안’을 수립했다. 이를 통해 공사 기간을 단축하는 동시에 사업비를 절",
+    "cluster_id": "1cba",
+    "publisher": "한국정경신문",
+    "title_clean": "한전, 기술 혁신 박차..호남권 반도체 산단 적기 전력공급 총력",
+    "summary": "한국전력이 호남권 반도체 산단의 적기 전력공급을 위해 신기술·신공법을 도입하고 지방정부, 민간기업과 실무협의체를 구성했다. 전력망 구축기간 단축과 시공 품질 확보를 동시에 추진하는 기술혁신 방안을 수립했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-02T10:07:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32294,22 +32309,6 @@
     "title_clean": "건설업 고용 24개월 만에 증가 전환…실질임금 두 달째 감소",
     "summary": "건설업 고용이 24개월 만에 증가로 전환되었으나, 건설 지표 개선이 아직 초기 단계인 것으로 평가된다. 실질임금은 두 달째 감소 추세를 보이고 있어 업계 회복이 본격화되기 위해서는 추가 관찰이 필요한 상황이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-30T12:08:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "6월 사업체 종사자 18개월 만에 최대폭↑…건설업도 '반등' - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260730_0003729579",
-    "description": "노동부 관계자는 \"아직은 지켜봐야 하지만 건설수주, 착공 면적, 건설기성 등이 증가한 영향이 반영된 것\"이라고 설명했다. 반면 도매 및 소매업과 예술,스포츠 및 여가관련 서비스업은 각각 2만9000명(-1.3...",
-    "published_at": "2026-07-30T12:00:00+09:00",
-    "cluster_id": "632d",
-    "publisher": "newsis.com",
-    "title_clean": "6월 사업체 종사자 18개월 만에 최대폭↑…건설업도 '반등'",
-    "summary": "6월 사업체 종사자가 18개월 만에 최대폭으로 증가했으며, 건설업도 반등했다. 건설수주, 착공 면적, 건설기성 등의 증가가 긍정적 영향을 미친 것으로 분석된다.",
-    "sentiment": "positive",
     "collected_at": "2026-07-30T12:08:48+09:00",
     "importance": 2
   }
