@@ -23250,6 +23250,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "울산 작년 전기공사업체 실적 6% 감소…금양그린파워 '수주 1위' - iusm.co.kr",
+    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1066126",
+    "description": "지속된 건설경기 침체와 투자 위축, 신규 발주 감소, 민간 건축경기 부진 등 대외 수주 환경 악화가 반영된 결과라는 게 협회의 분석이다. 기업 규모별로는 양극화 현상이 두드러졌다. 공사실적 5억 원 미만...",
+    "published_at": "2026-08-02T16:02:00+09:00",
+    "cluster_id": "1809",
+    "publisher": "iusm.co.kr",
+    "title_clean": "울산 작년 전기공사업체 실적 6% 감소…금양그린파워 '수주 1위'",
+    "summary": "울산 지역 전기공사업체의 작년 실적이 6% 감소했으며, 건설경기 침체와 투자 위축, 신규 발주 감소 등이 주요 원인으로 분석됐다. 기업 규모별 양극화 현상이 두드러지는 등 업계 전반의 어려움이 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T16:07:47+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "광주 산업 회복세 뚜렷…전남은 부진 지속 - namdonews.com",
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=918730",
+    "description": "광주권역은 광공업 생산과 출하가 두 자릿수 증가하고 건설수주도 큰 폭으로 늘며 회복세를 보인 반면, 전남권역은 생산과 출하가 감소하고 소비 부진이 지속됐지만 건설수주는 증가하며 투자 부문은...",
+    "published_at": "2026-08-02T16:02:00+09:00",
+    "cluster_id": "f957",
+    "publisher": "namdonews.com",
+    "title_clean": "광주 산업 회복세 뚜렷…전남은 부진 지속",
+    "summary": "광주권역은 광공업 생산·출하가 두 자릿수 증가하고 건설수주가 큰 폭으로 늘며 회복세를 보였다. 전남권역은 생산·출하 감소와 소비 부진이 지속되었으나 건설수주는 증가하는 등 지역별로 경제 회복 격차가 나타났다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-02T16:07:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32268,37 +32300,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-30T12:48:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국농어촌공사 달성지사, 안전보건협의체 개최…폭염 대응·현장 안전 강화 논의 - 신아일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNng5WWRvbTQ0NDlxXzRfYzhIZ3pNR0FPTE5Xdjh0WUFxTVJRa2ZFTlZCanFnN3lSam1mdkw4eW1Ed29CdFI1ZUQ2Yk55Y2R4NDRqdDZ4c1FYWEI4bGszdUt6NkhoR2d0NGN0Y2s0aXc?oc=5",
-    "description": "한국농어촌공사 달성지사는 지난 28일 지사 회의실에서 '7월 안전보건협의체'를 열고 건설현장 안전관리와 폭염 대응 방안을 논의했다고 30일 밝혔다.안전보건협의체는",
-    "published_at": "2026-07-30T12:11:31+09:00",
-    "cluster_id": "8347",
-    "publisher": "신아일보",
-    "title_clean": "한국농어촌공사 달성지사, 안전보건협의체 개최…폭염 대응·현장 안전 강화 논의",
-    "summary": "한국농어촌공사 달성지사가 안전보건협의체를 개최하여 건설현장 안전관리와 폭염 대응 방안을 논의했다. 건설현장의 안전 강화와 근로자 보호를 위한 대응책을 마련하는 회의이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T12:48:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고용노동부 서산지청, 폭염 대응소규모 건설현장 불시 점검 - 충청일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aWXhwZTJjaEhRTXhDamlnN0Y3c2pQaUVma2VBV3JPYzhsaldUZzhaNE8wS2l5SGEwN2t4WTk1RWhVeFJaOVE4eEZYMFgxR2Y2VVFyMXh4V3FaM24wUUJtUjJHOWM1OGRfeEZCeWtQRS0?oc=5",
-    "description": "충남 서산시 소재 고용노동부 서산지청은 한국산업안전보건공단 충남지역본부와 함께 여름철 건설현장 안전사고 예방을 위해 안전관리에 취약한 소규모 건설 현장 대상으로 불시 현장점검을 실시했다.이번 점검은 최근 장마철 이후 고온다습한 날씨가 이어지며 폭염으로 인한 온열질환자가 속출하여 사고발생 위험이 높아짐에 따라",
-    "published_at": "2026-07-30T11:14:29+09:00",
-    "cluster_id": "c83f",
-    "publisher": "충청일보",
-    "title_clean": "고용노동부 서산지청, 폭염 대응소규모 건설현장 불시 점검",
-    "summary": "고용노동부 서산지청이 폭염으로 인한 온열질환 위험이 증가함에 따라 소규모 건설현장에 대한 불시 점검을 실시했다. 여름철 안전사고 예방을 위해 한국산업안전보건공단과 함께 안전관리 취약 현장을 점검하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T12:48:37+09:00",
-    "importance": 4
   }
 ]
