@@ -7320,23 +7320,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "한기술대 온라인평생교육원, 대한기계설비건설협회와 업무 협약 체결 - 백제뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oZkVFbDE1WXN0dGhOYkgta056d3owNnNhZFFzSzBtMHRjdC1Ka0dVTU93WlJRdjZiYWFIekZua3dST1NtRHpXdzRqZzF4cXhpaVBnSnVpZlhFZlI2a25OamJtMXF5YmpvY0tTdQ?oc=5",
-    "description": "한국기술교육대학교 온라인평생교육원(원장 한연희)은 3일(금) 대한기계설비건설협회(회장 허용주)와 기계설비 분야 근로자의 직무능력 향상 및 평생직업능력개발 협력체계",
-    "published_at": "2026-07-03T13:52:26+09:00",
-    "cluster_id": "f2a8",
-    "publisher": "백제뉴스",
-    "title_clean": "한기술대 온라인평생교육원, 대한기계설비건설협회와 업무 협약 체결",
-    "summary": "한국기술교육대학교 온라인평생교육원과 대한기계설비건설협회가 기계설비 분야 근로자의 직무능력 향상 및 평생직업능력개발을 위한 업무 협약을 체결했다. 이는 업계 인력 교육 및 역량 강화를 위한 협력 체계 구축 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-03T14:48:35+09:00",
-    "event_label": "대한기계설비건설협회 한국기술교육대학교와 평생직업능력개발 업무협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23297,6 +23280,38 @@
     "summary": "두산에너빌리티가 중국 산둥성 라이양 원전 5·6호기의 증기발생기용 초대형 단조품 공급 계약을 체결했다. 이는 국내 기계설비 제조업체의 해외 원전 수주 성과로, 건설기계 및 관련 산업에 긍정적인 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-07-27T09:28:47+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[취재수첩] 일부 10년 공공지원 민간임대주택의 함정...철저한 분석과 ... - cnbnews.com",
+    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1010014",
+    "description": "하지만, 최근 건설경기 악화와 미분양·공실 누적으로 인해, 임대사업자(시행사·시공사)가 회삿돈 부족을 이유로 계약 종료 시점에 보증금을 제때 반환하지 못하는 사례가 늘고 있다. HUG를 통해 보증금을 돌려받는다고...",
+    "published_at": "2026-08-02T14:50:00+09:00",
+    "cluster_id": "8352",
+    "publisher": "cnbnews.com",
+    "title_clean": "[취재수첩] 일부 10년 공공지원 민간임대주택의 함정...철저한 분석과 ...",
+    "summary": "건설경기 악화와 미분양·공실 누적으로 인해 민간임대주택 임대사업자들이 계약 종료 시 보증금을 제때 반환하지 못하는 사례가 증가하고 있다. 10년 공공지원 민간임대주택 투자 시 보증금 반환 위험 등 잠재적 함정이 존재할 수 있음을 지적하는 기사다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T14:52:47+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "수자원공사, 폭염 대응 현장 안전관리 강화…구미 건설현장 점검 - 더퍼블릭",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45U2ZrYUtuM0daMDU2UWNDN2VpUVRvcTQxRFZXTW1ZUzhqQmxfUzhFSE9FaUpDR1dDdF9pYUotUEZtRFhkdURRUS1MT25xWnIwNFhjaGcxcXhjS2VqckhoVFRMVFJsR2tfMDdR0gFvQVVfeXFMTXZYVmkwTmdhYWFaSlhYcVB2TmZRNFRlMlNSeHVUOXlpVU44RkU3dTRSRVpoVFg5SUxXZmpScWtCUkVrX05UMzE4VVB6emtiSjVFRjRpMnNod0NuMlpXYnVFampSZVdMTDlnUEpFdHpn?oc=5",
+    "description": "[더퍼블릭=홍찬영 기자] 윤석대 한국수자원공사(K-water) 사장은 7월 31일 경북 구미 하이테크밸리(HTV) 2단계 사업 현장을 방문해 폭염 대비 안전관리 실태를 점검했다.이번 방문은 장마 이후 본격화된 폭염으로 현장 근로자들의 온열질환 우려가 커짐에 따라, 현장 안전관리에 만전",
+    "published_at": "2026-08-02T08:34:25+09:00",
+    "cluster_id": "bafb",
+    "publisher": "더퍼블릭",
+    "title_clean": "수자원공사, 폭염 대응 현장 안전관리 강화…구미 건설현장 점검",
+    "summary": "한국수자원공사 사장이 경북 구미 건설현장을 방문하여 폭염 시즌 안전관리 실태를 점검했다. 현장 근로자들의 온열질환 예방을 위해 안전관리에 강화된 조치를 시행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-02T14:52:47+09:00",
     "importance": 2
   },
   {
