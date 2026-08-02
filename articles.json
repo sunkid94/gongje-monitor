@@ -23116,6 +23116,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 건설현장 사망자 급감… 밀착예방 결실 - hidomin.com",
+    "link": "https://www.hidomin.com/news/articleView.html?idxno=715646",
+    "description": "다만, 지역 건설경기 침체로 신규 공사 물량이 대폭 줄어든 것도 원인으로 지목된다. 고용노동부의 '2026년 상반기 재해조사 대상 사망사고 발생 현황'에 따르면, 올 2분기 대구시 전체 사고사망자는 3명으로 지난해 같은...",
+    "published_at": "2026-08-02T20:30:00+09:00",
+    "cluster_id": "41ec",
+    "publisher": "hidomin.com",
+    "title_clean": "대구 건설현장 사망자 급감… 밀착예방 결실",
+    "summary": "대구 건설현장 사망사고가 감소했으나, 이는 안전예방 강화뿐 아니라 건설경기 침체로 신규 공사 물량이 대폭 감소한 것이 주요 원인으로 지적된다. 실질적인 업계 활동 축소가 사고 감소에 영향을 미친 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-02T20:37:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32277,22 +32293,6 @@
     "title_clean": "대우건설-한국재난안전기술원, 건설현장 안전관리 협력",
     "summary": "대우건설이 한국재난안전기술원과 건설·재난안전 분야 연구개발 및 안전교육 협력을 위한 업무협약을 체결했다. 건설현장의 안전관리 강화를 위한 협력 체계를 구축한 것으로, 업계의 안전 인프라 개선을 의미한다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-30T13:58:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[부산항만공사] 폭염 대비 현장 안전관리 강화 - 해양레저신문",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MMlpJVjZWS19obmJ0bk84Zzhpa2xSSGs4Q25xZ1FnSl9kTDFnMEFBaVNRZ2M4dHYzUHhIdU9zc1RqOGUzb1puUnhlMmFYQ1lSUU9WN1B5Zw?oc=5",
-    "description": "- 건설현장 특별점검·온열질환 예방활동 병행… 근로자 안전 확보부산항만공사(BPA)는 여름철 폭염에 대비해 부산항 건설현장과 주요 협력업체 야외근로자를 대상으로 ‘찾아가는 온열질환 예방활동’을 실시했다고 30일 밝혔다.▲ 폭염 예방물품 전달 모습 (사진.제공=BPA)부산항만공사는 부산항",
-    "published_at": "2026-07-30T13:49:23+09:00",
-    "cluster_id": "6eec",
-    "publisher": "해양레저신문",
-    "title_clean": "[부산항만공사] 폭염 대비 현장 안전관리 강화",
-    "summary": "부산항만공사가 여름철 폭염에 대비해 건설현장 근로자를 대상으로 온열질환 예방활동과 안전점검을 실시했다. 건설현장 안전관리 강화를 통해 근로자 보호에 나서는 내용으로, 업계의 안전 문화 개선 움직임을 보여준다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-30T13:58:47+09:00",
     "importance": 2
   }
