@@ -23400,6 +23400,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "김보현 대우건설 사장, 신입사원과 간담회…소통·화합 행사 참석 - thedailypost.kr",
+    "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114905",
+    "description": "안전과 품질이라는 기본을 바탕으로 AI·스마트건설 시대를 함께 준비하며 'Hyper E&C' 비전을 실현하는 스마트건설의 새로운 표준을 만들어갑시다.\" (대우건설 김보현 사장) 대우건설은 김보현 사장이 지난달 30일 경기 수원...",
+    "published_at": "2026-08-04T01:00:00+09:00",
+    "cluster_id": "19eb",
+    "publisher": "thedailypost.kr",
+    "title_clean": "김보현 대우건설 사장, 신입사원과 간담회…소통·화합 행사 참석",
+    "summary": "대우건설 김보현 사장이 신입사원과 간담회를 개최하여 안전·품질을 기반으로 AI·스마트건설 시대 준비를 강조했다. 'Hyper E&C' 비전 실현을 통해 스마트건설의 새로운 표준 구축을 목표로 경영진과 신입사원 간 소통과 화합을 도모하는 행사이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-04T01:11:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-31T15:30:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서류에 갇힌 건설 현장 안전… 발주청 지원군 투입에 재해율 32% ‘뚝’ - kidd.co.kr",
-    "link": "https://kidd.co.kr/news/246913",
-    "description": "독일은 ‘건설현장안전보건시행령’에 따라 발주자가 독립적인 안전보건조정자(SiGeKo)를 선임해 여러 공종 간의 위험을 조정한다. 싱가포르 역시 직장안전보건법과 ‘DfS(설계안전성검토)’ 제도를 통해 설계 단계부터...",
-    "published_at": "2026-07-31T15:20:00+09:00",
-    "cluster_id": "b06c",
-    "publisher": "kidd.co.kr",
-    "title_clean": "서류에 갇힌 건설 현장 안전… 발주청 지원군 투입에 재해율 32% ‘뚝’",
-    "summary": "건설현장 안전관리 강화를 위해 발주청이 안전보건조정자 등 지원군을 투입한 결과 재해율이 32% 감소했다. 독일, 싱가포르 등 선진국의 설계 단계부터의 안전성 검토 제도를 벤치마킹하여 한국 건설업의 안전 문제 해결을 시도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T15:30:21+09:00",
-    "importance": 3
   }
 ]
