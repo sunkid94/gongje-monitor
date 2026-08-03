@@ -23353,6 +23353,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘악성 미분양’ 집중된 지역에 신규 착공 급증 - 세계일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MFdGSS1xb1lWbFpwRTlMVTNxYnJMSU4yZFdXSkVrdGc0TTc2NGhzN0daRlp4bTJLYTNraHpESXpubmF0eGRiWGdpMDBvMjlkdllNV1VnRW92c1pjM1BKbEhNQzIyVm1mVWFZ0gFUQVVfeXFMT1dqenNaVXlfTU5rcDlrbnNfZld3S19pemE0YUpzblAwLUNfUjI5X1BxOFNaU0ppSjRoNHhWR2w3ZEtreWFod1hScWN0amowLW1yVnV1?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE41MFdGSS1xb1lWbFpwRTlMVTNxYnJMSU4yZFdXSkVrdGc0TTc2NGhzN0daRlp4bTJLYTNraHpESXpubmF0eGRiWGdpMDBvMjlkdllNV1VnRW92c1pjM1BKbEhNQzIyVm1mVWFZ0gFUQVVfeXFMT1dqenNaVXlfTU5rcDlrbnNfZld3S19pemE0YUpzblAwLUNfUjI5X1BxOFNaU0ppSjRoNHhWR2w3ZEtreWFod1hScWN0amowLW1yVnV1?oc=5\" target=\"_blank\">‘악성 미분양’ 집중된 지역에 신규 착공 급증</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+    "cluster_id": "7489",
+    "publisher": "세계일보",
+    "title_clean": "‘악성 미분양’ 집중된 지역에 신규 착공 급증",
+    "summary": "악성 미분양이 집중된 지역에서 신규 건설 착공이 급증하고 있는 추세를 보도한 기사입니다. 이는 시장 과잉공급 우려와 PF 리스크 증대로 이어질 수 있는 부정적 신호로 해석됩니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-03T20:46:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32284,22 +32299,6 @@
     "publisher": "thepowernews.co.kr",
     "title_clean": "부산은행, 건설 일용직 금융 문턱 낮췄다…맞춤형 대출 출시",
     "summary": "부산은행이 건설근로자공제회, 민주노총, 한국노총과의 협약을 통해 건설 일용직 근로자를 위한 맞춤형 대출 상품을 출시했다. 퇴직공제금을 기반으로 금융 접근성을 높여 건설노동자의 금융 포용성을 확대하는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T14:40:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "BNK부산은행, 일용직 건설근로자 전용 대출 출시…포용금융 확대 - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=738710",
-    "description": "이번 상품은 BNK금융그룹이 지난 29일 건설근로자공제회와 민주노총 건설산업연맹, 한국노총 건설연맹 등과 체결한 '건설노동자 포용금융을 위한 업무협약'의 첫 실행 사업이다. 소득과 재직 증빙이 어려운 일용직...",
-    "published_at": "2026-07-31T14:34:00+09:00",
-    "cluster_id": "4ffe",
-    "publisher": "polinews.co.kr",
-    "title_clean": "BNK부산은행, 일용직 건설근로자 전용 대출 출시…포용금융 확대",
-    "summary": "BNK부산은행이 건설근로자공제회 등과 협력하여 일용직 건설근로자 전용 대출 상품을 출시했다. 소득 증빙이 어려운 일용직 근로자들의 금융 접근성을 높이는 포용금융 확대 사업이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-31T14:40:27+09:00",
     "importance": 2
