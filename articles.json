@@ -23083,6 +23083,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "삼성물산 12년 연속 시공능력평가 1위···GS건설 3위로 ‘톱3’ 재진입 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325558",
+    "description": "삼성물산이 2026년도 건설업체 시공능력평가에서 12년 연속 1위를 차지했다. 현대건설은 지난해에 이어 2위를 유지했고, GS건설과 현대엔지니어링은 각각 두 계단씩 상승하며 3·4위에 올랐다. 반면 지난해 3·4위였던 대우건설과 DL이앤씨는 각각 5위와 6위로 밀려 상위권 순위에 변화가 나타났다.국토교통부는 건설산업기본법에 따라 등록된 전국 건설업체 가운데 시공능력평가를 신청한 업체를 대상으로 실시한 2026년도 시공능력평가 결과를 지난달 30일 공시했다. 올해 평가를 받은 업체는 전체 건설업체 8만8424개사 가운데 84.1%인",
+    "published_at": "2026-08-03T09:29:59+09:00",
+    "cluster_id": "9c8e",
+    "publisher": "대한전문건설신문",
+    "title_clean": "삼성물산 12년 연속 시공능력평가 1위···GS건설 3위로 ‘톱3’ 재진입",
+    "summary": "삼성물산이 2026년도 건설업체 시공능력평가에서 12년 연속 1위를 차지했으며, GS건설과 현대엔지니어링이 상위권으로 진입하면서 상위 건설사 순위에 변화가 생겼다. 국토교통부가 공시한 이번 평가는 전국 건설업체의 84.1%가 참여했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-03T09:34:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32280,21 +32296,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-30T15:28:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고흥군, 폭염 대응 강화…건설현장·치매어르신 안전 총력 - 오늘경제",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zS05hb3otc1J0aWRVZ2p5YzI3Q3JieDNJQ0Z3cC1yVFhOQkRIcTFYWVdIOGlRd0wxbGEwVlJ2c0JabGtuTXJBS09BMlpJLWxBamZPVGhDUXNVdTlRZ1pzMUJYcG1IcEtzQng5ekhNdmhPR00?oc=5",
-    "description": "고흥군이 연일 이어지는 폭염에 대응하기 위해 건설현장과 무더위쉼터를 점검하고 고위험 치매어르신에 대한 집중 안전관리에 나섰다.30일 고흥군에 따르면 건설현장에서",
-    "published_at": "2026-07-30T15:09:36+09:00",
-    "cluster_id": "9d9b",
-    "publisher": "오늘경제",
-    "title_clean": "고흥군, 폭염 대응 강화…건설현장·치매어르신 안전 총력",
-    "summary": "고흥군이 폭염 대응을 위해 건설현장에 대한 점검을 강화하고 있으며, 무더위쉼터 운영 및 취약계층 안전관리에 나섰다. 건설현장의 안전 점검 강화는 규제 강화에 해당하는 사항이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T15:28:51+09:00",
-    "importance": 4
   }
 ]
