@@ -7435,6 +7435,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[굿모닝! 3일 건설업계 소식] 삼성물산·현대건설·대우건설·롯데건설... - goodkyung.com",
+    "link": "https://www.goodkyung.com/news/articleView.html?idxno=289869",
+    "description": "롯데건설은 비접촉식 센서 전문기업인 가디언웍스와 협업해 '고소작업대 스마트 과상승 방지 시스템'을 현장에 적용, 높은 작업 공간에서의 충돌∙끼임 사고를 예방한다. 기존 기계식 정지장치는 과상승 방지봉, 협착...",
+    "published_at": "2026-08-03T15:16:00+09:00",
+    "cluster_id": "3cc8",
+    "publisher": "goodkyung.com",
+    "title_clean": "[굿모닝! 3일 건설업계 소식] 삼성물산·현대건설·대우건설·롯데건설...",
+    "summary": "롯데건설이 가디언웍스와 협업하여 비접촉식 센서 기반의 '고소작업대 스마트 과상승 방지 시스템'을 현장에 도입했다. 이를 통해 고소 작업 중 발생하는 충돌·끼임 사고 등 안전사고를 예방한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T06:36:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23382,22 +23398,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-27T17:09:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산, 2분기 영업이익 4884억원…계열사 매출 증가에 수익성 개선 - ngetnews.com",
-    "link": "https://www.ngetnews.com/news/articleView.html?idxno=551877",
-    "description": "특히 두산에너빌리티는 원자력과 가스·수소 등 에너지 사업 중심으로 수주 확대와 매출 증가가 이어지며 실적 개선세를 보였다. 상반기 수주는 7조1000억원을 기록했으며 연간 13조3000억원 수주 목표 달성이 기대된다....",
-    "published_at": "2026-07-27T17:00:00+09:00",
-    "cluster_id": "a162",
-    "publisher": "ngetnews.com",
-    "title_clean": "두산, 2분기 영업이익 4884억원…계열사 매출 증가에 수익성 개선",
-    "summary": "두산이 2분기 영업이익 4884억원을 기록하며 수익성을 개선했다. 두산에너빌리티의 원자력·가스·수소 등 에너지 사업 수주 확대로 상반기 7조1000억원 수주를 달성해 연간 목표 달성이 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T17:05:19+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
