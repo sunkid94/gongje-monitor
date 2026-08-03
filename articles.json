@@ -23118,6 +23118,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "조달청, ‘공공조달데이터·AI 활용 창업경진대회’ 시상식 개최 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10829101?ref=naver",
+    "description": "▶아이디어 기획 부문의 대상작은 VitAlGuard팀의 ’산업현장 생체 환경 통합 관제 기반 건설현장 안전관리비 실집행 검증 플랫폼‘이 차지했다. 스마트워치, 현장IoT, AI를 결합해 건설현장에서의 안전 수칙 준수 여부를...",
+    "published_at": "2026-08-03T12:52:00+09:00",
+    "cluster_id": "b72b",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "조달청, ‘공공조달데이터·AI 활용 창업경진대회’ 시상식 개최",
+    "summary": "조달청이 공공조달데이터와 AI를 활용한 창업경진대회를 개최했으며, VitAlGuard팀의 건설현장 안전관리 AI 플랫폼이 대상을 수상했다. 스마트워치와 IoT 기술을 통해 건설현장의 안전 수칙 준수를 검증하는 혁신 기술이 선정되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T12:59:17+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "현대건설 기술교육원, ‘건설 실무 교육 체험 데이’ 오는 28일 개최 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40979",
+    "description": "[건설이코노미뉴스]현대건설 기술교육원이 건설 분야 취업을 희망하는 청년들을 대상으로 교육과정과 주요 직무를 직접 경험할 수 있는 기회를 제공한다. 현대건설이 오는 8월 28일 서울 영등포구 소재 기술교육원에서 ‘건설 실무 교육 체험 데이’를 진행한다고 3일 밝혔다. 이번 행사는 청년 취업역량 강화 정책의 일환으로 청년 구직자들의 건설산업과 직무에 대한 이해를 높이고 구체적인 진로 설계를 지원하기 위해 마련됐다. 행사는 교육원 소개를 시작으로 ▲교육시설 투어 ▲분야별 실무 교육과정 체험 ▲전문 교수진 진로 멘토링 등의 순서로 진행된다",
+    "published_at": "2026-08-03T12:58:01+09:00",
+    "cluster_id": "b36f",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "현대건설 기술교육원, ‘건설 실무 교육 체험 데이’ 오는 28일 개최",
+    "summary": "현대건설 기술교육원이 8월 28일 '건설 실무 교육 체험 데이'를 개최하여 청년 구직자들에게 건설산업 이해와 실무 교육 기회를 제공한다. 교육시설 투어, 분야별 실무 체험, 진로 멘토링 등을 통해 청년 취업역량 강화를 지원하는 행사이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T12:59:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32265,36 +32297,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T00:03:40+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "광주대표도서관 붕괴 참사는 '부실 용접' 부른 인재 - srtimes.kr",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=208772",
-    "description": "건설산업기본법에 따라 시공사와 건설사업관리자에 대해 각각 최대 8개월, 12개월의 영업정지 처분을 추진하며 하도급 업체에도 최대 4개월의 영업정지를 내릴 방침이다. 구체적인 처분 대상과 기간은 향후 행정처분...",
-    "published_at": "2026-07-30T23:28:00+09:00",
-    "cluster_id": "0a87",
-    "publisher": "srtimes.kr",
-    "title_clean": "광주대표도서관 붕괴 참사는 '부실 용접' 부른 인재",
-    "summary": "광주대표도서관 붕괴 참사의 원인이 부실 용접으로 확인되어 시공사, 건설사업관리자, 하도급 업체에 대한 영업정지 처분이 추진 중이다. 건설산업기본법에 따라 최대 8~12개월의 영업정지 처분으로 건설업계의 관리 감시가 강화될 예상이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T23:38:46+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "포항시, 민·관 공동 안전지킴이 가동…건설 현장 산재 예방 총력 - sisa-news.com",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtT0NqZ01QTWlZNlRMZmVFQWltZ3FPR29JX0FKRlZlNVpXSlBUaHpEVHpEX2JqVlpJdUtvdVY4b3loVHdIcXVaTGpVcTdqU3VFaVg4YWMxUWszNXVNcnZpUHAyVQ?oc=5",
-    "description": "[시사뉴스 장시목 기자]포항시는 30일 경북시청자미디어센터·오천읍 행정복지센터 복합청사 건립 현장에서 안전보건공단, 포스코와 함께 ‘현장밀착형 공동 안전지킴이 합동점검 및 안전문화 캠페인’을 실시했다. 이번 점검은 지난 3월 출범한 공동 안전지킴이 협의체 추진 사업으로, 민·관이 협력해 건설 현장의 위험 요인을 선제적으로 발굴·개선하고, 현장 관계자들의 안",
-    "cluster_id": "08f2",
-    "publisher": "",
-    "title_clean": "포항시, 민·관 공동 안전지킴이 가동…건설 현장 산재 예방 총력 - sisa-news.com",
-    "summary": "포항시가 안전보건공단, 포스코와 함께 건설 현장의 산업재해 예방을 위한 공동 안전지킴이 합동점검을 실시했다. 민·관이 협력하여 건설 현장의 위험 요인을 선제적으로 발굴·개선하고 안전문화를 확산하는 사업이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T23:38:46+09:00",
-    "importance": 4
   }
 ]
