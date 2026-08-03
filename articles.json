@@ -23118,6 +23118,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"천장 닿기 전 자동 정지\"…롯데건설, 고소작업대 안전 강화 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0azBHVHljMWx5Uk9KTzRraW9QMVJmVVJYcDdSWTN3blJIOU53V096cU0yVnNwbWNyd3l6UjhSZ095ajVPQWdnVklGX2diRkUyXzFLMXZmUER5ZU4z?oc=5",
+    "description": "[서울=뉴스핌] 정영희 기자 = 롯데건설이 기계식 과상승 방지장치의 한계를 보완한 스마트 안전 시스템을 도입한다.고소작업대 스마트 과상승 방지 센서 작동 개념도 [자료=롯데건설]3일 롯데건설은 비접촉식 센서 전문기업 가디언웍스와 협업해",
+    "published_at": "2026-08-03T13:23:00+09:00",
+    "cluster_id": "de96",
+    "publisher": "뉴스핌",
+    "title_clean": "\"천장 닿기 전 자동 정지\"…롯데건설, 고소작업대 안전 강화",
+    "summary": "롯데건설이 비접촉식 센서 기업 가디언웍스와 협업해 고소작업대의 스마트 과상승 방지 시스템을 도입한다. 기계식 장치의 한계를 보완한 자동 정지 기술로 건설 현장의 안전성을 강화한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T13:29:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32281,22 +32297,6 @@
     "summary": "대우건설이 국토교통부 스마트건설 얼라이언스 의장사로서 AI 기술 확산을 주도하고 있다. 조경 설계 등 다양한 분야에서 AI를 활용해 자동으로 설계안을 생성하는 등 건설 기술 혁신을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-31T03:03:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국농어촌공사 충북본부, 폭염 대응 위한 노‧사합동 건설현장 안전점검 실시 - 동양일보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUHJPWWFieUpMZ2RGWVZYeFV1NWwwSmlpOEU3cjdNbmY2bjdRb3JKdjlHMDlZVlp4aFVTMXU3MDlfblJkSXp0MkdBRHVfMENHSTdta1VrcUI4WTc3WU1ZaTZSc2RDQmZjanNF?oc=5",
-    "description": "한국농어촌공사 충북지역본부(본부장 김경한)는 30일 폭염 장기화에 따른 건설현장 근로자의 온열질환 예방과 안전관리 강화를 위해",
-    "published_at": "2026-07-30T16:32:26+09:00",
-    "cluster_id": "e89d",
-    "publisher": "동양일보",
-    "title_clean": "한국농어촌공사 충북본부, 폭염 대응 위한 노‧사합동 건설현장 안전점검 실시",
-    "summary": "한국농어촌공사 충북지역본부가 폭염으로 인한 건설현장 근로자의 온열질환 예방을 위해 노·사합동 안전점검을 실시했다. 건설현장의 안전관리 강화 및 근로자 보호 조치로 업계 안전 기준 준수 강화를 보여주는 사례다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-31T01:58:43+09:00",
     "importance": 2
   }
 ]
