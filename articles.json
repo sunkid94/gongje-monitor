@@ -23400,6 +23400,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염, \"나 죽었소∼하고 버티죠\"…더위와 사투 벌이는 노동자 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008688832&plink=ORI&cooper=NAVER",
+    "description": "방문 점검원이나 건설 노동자 외에도 도시 곳곳에는 폭염을 온몸으로 견디는 야외 노동자들이 있습니다. 방문 학습지 교사인 안 모 씨는 \"여름 방학에는 아이들이 갑자기 외출했다는 경우가 잦다\"며 \"갑자기 수업이 없어질...",
+    "published_at": "2026-08-04T07:51:00+09:00",
+    "cluster_id": "4b6b",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "폭염, \"나 죽었소∼하고 버티죠\"…더위와 사투 벌이는 노동자",
+    "summary": "폭염 속에서 건설 노동자, 방문 점검원 등 야외 노동자들이 극심한 근무 환경에 직면하고 있습니다. 기사는 고온 환경에서 일하는 노동자들의 고충과 어려움을 조명하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-04T08:01:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32272,21 +32288,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T16:29:45+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[금융권 소식] 인천저축은행ㆍBNK부산은행ㆍBNK경남은행(7.31) - weeklytoday.com",
-    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=788435",
-    "description": "이번 상품은 지난 29일 BNK금융그룹과 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹이 체결한 '건설노동자 포용금융 업무협약'의 첫 실행사업이다. BNK부산은행은 건설근로자공제회가 발급하는...",
-    "published_at": "2026-07-31T16:24:00+09:00",
-    "cluster_id": "a416",
-    "publisher": "weeklytoday.com",
-    "title_clean": "[금융권 소식] 인천저축은행ㆍBNK부산은행ㆍBNK경남은행(7.31)",
-    "summary": "BNK금융그룹이 건설근로자공제회, 민주노총, 한노총과 '건설노동자 포용금융 업무협약'을 체결하고 첫 실행사업으로 건설근로자 대상 금융상품을 출시했다. 건설업계 취약계층 근로자들을 위한 금융 포용 정책이 추진되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T16:29:45+09:00",
-    "importance": 2
   }
 ]
