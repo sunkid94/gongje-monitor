@@ -23400,6 +23400,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "정명근 화성시장, 폭염 속 노동자 안전 최우선…건설현장 직접 점검 - fieldnews.kr",
+    "link": "http://www.fieldnews.kr/news/articleView.html?idxno=30421",
+    "description": "정명근 화성시장이 추미애 경기도지사와 함께 화성동부소방서 건립 현장을 찾아 폭염 속 건설노동자들의 휴식시간과 안전수칙 준수 여부를 점검했다. 정 시장은 지난 3일 연일 이어지는 폭염으로 공사현장과 농촌 등...",
+    "published_at": "2026-08-04T00:46:00+09:00",
+    "cluster_id": "f89a",
+    "publisher": "fieldnews.kr",
+    "title_clean": "정명근 화성시장, 폭염 속 노동자 안전 최우선…건설현장 직접 점검",
+    "summary": "정명근 화성시장이 폭염 속 건설현장 안전 점검을 실시하며 노동자 휴식과 안전수칙 준수 여부를 확인했다. 공사현장의 안전 관리 강화로 건설노동자 보호에 행정력을 집중하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-04T00:51:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T15:30:21+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현장 노동자도 제도권 금융으로···BNK부산은행, 생활안정형 대출 출시 - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1391660",
-    "description": "이 상품은 지난 29일 BNK금융그룹이 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹과 체결한 '건설노동자 포용금융 업무협약'의 첫 실행 사업이다. 제도권 금융 이용에 제약을 받던 일용직 건설근로자가...",
-    "published_at": "2026-07-31T15:26:00+09:00",
-    "cluster_id": "b07c",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "현장 노동자도 제도권 금융으로···BNK부산은행, 생활안정형 대출 출시",
-    "summary": "BNK부산은행이 건설근로자공제회, 민주노총, 한국노총과 협약하여 일용직 건설근로자를 위한 '생활안정형 대출' 상품을 출시했다. 제도권 금융 접근성이 낮던 건설노동자의 금융 포용을 추진하는 첫 번째 실행 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T15:30:21+09:00",
-    "importance": 2
   }
 ]
