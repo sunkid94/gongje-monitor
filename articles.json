@@ -23321,6 +23321,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[분석] 물가·고용·소비 총출동…이번 주 한국경제 향방 가를 '슈퍼위크... - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=738996",
+    "description": "국내 주요 기업들이 AI와 반도체, 첨단 제조업 분야 투자를 확대하고 있지만 건설경기 둔화와 일부 내수 업종 부진은 여전히 부담 요인이다. 산업생산이 시장 기대를 웃돌 경우 하반기 성장률 전망에도 긍정적인 영향을 줄...",
+    "published_at": "2026-08-03T18:52:00+09:00",
+    "cluster_id": "49ad",
+    "publisher": "polinews.co.kr",
+    "title_clean": "[분석] 물가·고용·소비 총출동…이번 주 한국경제 향방 가를 '슈퍼위크...",
+    "summary": "국내 기업들이 AI·반도체·첨단 제조업에 투자를 확대하고 있으나, 건설경기 둔화와 내수 업종 부진이 지속되고 있다. 산업생산 회복이 하반기 경제 성장률 전망을 좌우할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-03T19:00:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32289,22 +32305,6 @@
     "publisher": "enewstoday.co.kr",
     "title_clean": "사이버한국외대-건설안전감시단협회, 건설안전 전문인재 양성 위한 산학...",
     "summary": "사이버한국외대와 건설안전감시단협회가 건설현장 안전관리 전문인력 양성을 위해 산학협력을 체결했다. 교육과정 개발부터 취업 연계까지 협력체계를 구축하여 안전 전문인재를 육성할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T14:14:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남은행, 건설일용직 노동자 저금리 대출 출시…최대 3500만원 지원 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260731001019",
-    "description": "BNK경남은행은 일용직 건설노동자의 금융 접근성을 높이고 금융비용 부담을 덜기 위해 '건설근로자 희망대출(경남새희망홀씨II 특판)'을 출시했다고 31일 밝혔다. BNK경남은행이 속한 BNK금융그룹이 건설근로자공제회와...",
-    "published_at": "2026-07-31T14:04:00+09:00",
-    "cluster_id": "98b2",
-    "publisher": "newspim.com",
-    "title_clean": "경남은행, 건설일용직 노동자 저금리 대출 출시…최대 3500만원 지원",
-    "summary": "경남은행이 건설일용직 노동자를 대상으로 최대 3500만원의 저금리 대출상품을 출시했다. 건설근로자공제회와 협력하여 금융 접근성을 높이고 금융비용 부담을 덜어주는 것을 목표로 한다.",
     "sentiment": "positive",
     "collected_at": "2026-07-31T14:14:55+09:00",
     "importance": 2
