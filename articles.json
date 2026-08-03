@@ -23400,6 +23400,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "아산 북부권 산업지도 바뀐다…'경동 일반산업단지' 승인 - goodmorningcc.com",
+    "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=450039",
+    "description": "부지 조성과 기반시설 공사, 건설자재·장비 공급, 지역 건설업체 참여 확대 등이 이어지면서 침체된 지역 건설경기에도 활력을 불어넣을 것으로 전망된다. 오세현 아산시장은 \"아산 경동 일반산업단지는 북부 생활권...",
+    "published_at": "2026-08-04T07:42:00+09:00",
+    "cluster_id": "0e4e",
+    "publisher": "goodmorningcc.com",
+    "title_clean": "아산 북부권 산업지도 바뀐다…'경동 일반산업단지' 승인",
+    "summary": "아산시 북부권에 '경동 일반산업단지'가 승인되어 부지 조성, 기반시설 공사 등이 추진될 예정이다. 건설자재·장비 공급 확대와 지역 건설업체 참여 기회 증가로 침체된 지역 건설경기 활성화가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T07:51:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32271,22 +32287,6 @@
     "summary": "BNK금융그룹이 건설근로자공제회, 민주노총, 한노총과 '건설노동자 포용금융 업무협약'을 체결하고 첫 실행사업으로 건설근로자 대상 금융상품을 출시했다. 건설업계 취약계층 근로자들을 위한 금융 포용 정책이 추진되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-31T16:29:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "박완수 경남지사, 폭염 속 건설·농업·조선 현장 점검…\"생명과 안전이 최우선\" - 코리아이글뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBabl9KRGdMNFJvZnk3NHkyelg1dUhFVHdJUUJSWmoyX2ltbUtqaVNqQmZVSDFia3hWMk5DZmw4NExoU1VvcWR3a0lvX000X1BVb1VnRGh5RUZiNTBZcDE1Z010UHptRDlrR1pjN19pZmg4TU0?oc=5",
-    "description": "박완수 경남도지사가 연일 이어지는 기록적인 폭염 속에서 건설현장과 농업, 조선업 사업장을 잇달아 방문해 현장 근로자와 농업인의 안전관리 실태를 점검하며 폭염 대응 강화에 나섰다.박완수 도지사는 31일 오전 창녕군과 창원시 일원의 도로건설 현장, 단감 과수원, 조선업 사업장을 차례로 찾아 분야별 폭염 예방대책 추진 상황을 살피고 현장 관계자들의 의견을 청취했다.이번 현장점검은 작업환경이 서로 다른 건설·농업·조선업 현장을 직접 방문해 폭염 대응체계와 안전수칙 이행 여부를 확인하기 위해 마련됐다.박 지사는 먼저 창녕군 부곡면 수다리의",
-    "published_at": "2026-07-31T16:17:00+09:00",
-    "cluster_id": "1860",
-    "publisher": "코리아이글뉴스",
-    "title_clean": "박완수 경남지사, 폭염 속 건설·농업·조선 현장 점검…\"생명과 안전이 최우선\"",
-    "summary": "박완수 경남지사가 폭염 속 건설현장, 농업, 조선업 사업장을 방문하여 근로자 안전관리 실태를 점검했다. 현장의 폭염 예방대책 추진 상황과 안전수칙 이행 여부를 확인하며 폭염 대응을 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-31T16:25:23+09:00",
     "importance": 2
   }
 ]
