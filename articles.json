@@ -23400,6 +23400,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[강원경제인대상]“지역 업체와 상생, 인재 육성 통해 건설경기 활성화 기여 약속” - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ta2V0OGRGbzlaQzI2MHlwTEZfTmczYWlHdE1HaHVNZl9hSnZxQ1JVMWpfUDlXcW9ObHBRbENqb0pCNE85MkFja2UxRzRCaGM?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ta2V0OGRGbzlaQzI2MHlwTEZfTmczYWlHdE1HaHVNZl9hSnZxQ1JVMWpfUDlXcW9ObHBRbENqb0pCNE85MkFja2UxRzRCaGM?oc=5\" target=\"_blank\">[강원경제인대상]“지역 업체와 상생, 인재 육성 통해 건설경기 활성화 기여 약속”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "27d2",
+    "publisher": "v.daum.net",
+    "title_clean": "[강원경제인대상]“지역 업체와 상생, 인재 육성 통해 건설경기 활성화 기여 약속”",
+    "summary": "건설경제인이 지역 업체와의 상생경영과 인재 육성을 통해 건설경기 활성화에 기여하겠다고 약속했다. 지역 경제 활성화와 업계 발전을 위한 경영 철학을 제시한 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T02:11:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32275,22 +32290,6 @@
     "summary": "현대건설이 국내외 지속가능성 공시 기준을 반영한 '2026 지속가능경영보고서'를 발간했다. ESG 데이터 수집부터 공시까지 전 과정의 내부통제 프로세스를 구축하여 정보의 신뢰성과 정확성을 강화했다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-31T15:39:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "용인특례시, 상수도 유지보수 담당 업체 10곳 모집 - kmaeil.com",
-    "link": "https://www.kmaeil.com/news/articleView.html?idxno=647247",
-    "description": "신청 자격은 '건설산업기본법'에 따른 상·하수도 설비공사업 면허를 보유하고 용인시가 정한 기술 인력 및 장비 기준을 충족하는 업체여야 한다. 국세 및 지방세 체납 또는 최근 행정처분 등 결격사유가 없어야 한다....",
-    "published_at": "2026-07-31T15:26:00+09:00",
-    "cluster_id": "a02c",
-    "publisher": "kmaeil.com",
-    "title_clean": "용인특례시, 상수도 유지보수 담당 업체 10곳 모집",
-    "summary": "용인특례시가 상수도 유지보수 담당 업체 10곳을 모집한다. 상·하수도 설비공사업 면허 보유 및 기술 인력·장비 기준 충족이 필수 요건이며, 세금 체납이나 행정처분 이력이 없어야 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T15:30:21+09:00",
     "importance": 2
   }
 ]
