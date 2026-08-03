@@ -23202,6 +23202,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "LG전자, 제주 히트펌프 보급사업 1호 설치 현판식 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51129",
+    "description": "",
+    "published_at": "2026-08-02T18:00:00+09:00",
+    "cluster_id": "ff20",
+    "publisher": "기계설비신문",
+    "title_clean": "LG전자, 제주 히트펌프 보급사업 1호 설치 현판식",
+    "summary": "LG전자가 제주도 히트펌프 보급사업의 첫 설치 현판식을 개최했습니다. 이는 정부의 친환경 난방 보급 정책 추진으로 기계설비 시장 확대를 의미합니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T16:36:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32284,21 +32300,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T11:29:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "자동차·반도체 호조에 산업생산 6년來 최대폭 증가…소비·투자도↑(종... - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260731_0003731207",
-    "description": "하지만 건설수주는 공장·창고 등 건축(-36.9%)에서 수주가 줄면서 전년 동월 대비 28.1% 감소했다. 경기동행지수와 선행지수는 동반 상승했다. 현재 경기 상황을 보여주는 동행지수 순환변동치는 전월보다 0.5p...",
-    "published_at": "2026-07-31T11:18:00+09:00",
-    "cluster_id": "8c7e",
-    "publisher": "newsis.com",
-    "title_clean": "자동차·반도체 호조에 산업생산 6년來 최대폭 증가…소비·투자도↑(종...",
-    "summary": "자동차·반도체 호조로 산업생산이 6년 来 최대폭 증가하고 소비·투자도 증가했으나, 건설수주는 공장·창고 등 건축 부진으로 전년 동월 대비 28.1% 감소했다. 경기동행지수와 선행지수는 동반 상승 추세를 보이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-31T11:24:46+09:00",
-    "importance": 4
   }
 ]
