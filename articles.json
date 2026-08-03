@@ -1,5 +1,38 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "한국주택금융공사·인천공항시설관리·전북 5개 산하공공기관등 채용뉴... - kdpress.co.kr",
+    "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=207453",
+    "description": "서울문화재단, 건설공제조합, 전북특별자치도, 한국해외인프라도시개발지원공사, 여수문화재단도 채용 소식을 3일 발표했다. 서울문화재단에서 2026년도 제2차 직원(기간제 계약직) 공개 채용을 진행한다. 채용 분야는...",
+    "published_at": "2026-08-03T21:50:00+09:00",
+    "cluster_id": "48d4",
+    "publisher": "kdpress.co.kr",
+    "title_clean": "한국주택금융공사·인천공항시설관리·전북 5개 산하공공기관등 채용뉴...",
+    "summary": "한국주택금융공사, 인천공항시설관리, 서울문화재단, 건설공제조합, 전북특별자치도 등 공공기관들이 2026년도 채용 공고를 발표했다. 기간제 계약직 등 다양한 직종의 공개 채용을 진행할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-03T22:01:15+09:00",
+    "event_label": "건설공제조합 채용 공고 발표",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "대전 기계설비 시평 1위 '이케이네이션'… 충남은 수산인더스트리 선두 - 중도일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBZG9UNUpXdWZqa1hkdmZOUFE1UFZ1MlBjclhfTWJ1VDRpYnRPWGhJbGc2TURqVm1taWM4YjlWNWQzTXNvVWg4SlAteGRkNVdnZ1NLRHFBM0llQmJueHhHcDJXelE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBZG9UNUpXdWZqa1hkdmZOUFE1UFZ1MlBjclhfTWJ1VDRpYnRPWGhJbGc2TURqVm1taWM4YjlWNWQzTXNvVWg4SlAteGRkNVdnZ1NLRHFBM0llQmJueHhHcDJXelE?oc=5\" target=\"_blank\">대전 기계설비 시평 1위 '이케이네이션'… 충남은 수산인더스트리 선두</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중도일보</font>",
+    "cluster_id": "1159",
+    "publisher": "중도일보",
+    "title_clean": "대전 기계설비 시평 1위 '이케이네이션'… 충남은 수산인더스트리 선두",
+    "summary": "대전의 이케이네이션이 기계설비 시평에서 1위를 차지했으며, 충남 지역에서는 수산인더스트리가 선두를 기록했다. 이는 지역별 산업 경쟁력을 보여주는 성과이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T22:01:15+09:00",
+    "event_label": "기계설비건설공제조합 기계설비 시평 평가 결과",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -7400,6 +7433,21 @@
     "collected_at": "2026-07-05T08:47:49+09:00",
     "event_label": "대한기계설비건설협회 한기대와 기계설비 유지관리 교육 콘텐츠 확대 협력",
     "importance": 6
+  },
+  {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 제2경춘국도 2공구 수주...1403억원 규모 - 데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aM0FhcFA2S1ZWbDhnYldGa3gyWHpLYUV2Q2JlQTdhek50VUF3TXRzbXhlTDV1M3gtczVPQVBTYzM2MUN1Yks5REtoZC14dFBzM3pYWFJnZlVXRkx3R2xvSkp5R3piZFJlMFNCX24xWEkzd2s?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5aM0FhcFA2S1ZWbDhnYldGa3gyWHpLYUV2Q2JlQTdhek50VUF3TXRzbXhlTDV1M3gtczVPQVBTYzM2MUN1Yks5REtoZC14dFBzM3pYWFJnZlVXRkx3R2xvSkp5R3piZFJlMFNCX24xWEkzd2s?oc=5\" target=\"_blank\">IPARK현대산업개발, 제2경춘국도 2공구 수주...1403억원 규모</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데이터투자</font>",
+    "cluster_id": "d9c6",
+    "publisher": "데이터투자",
+    "title_clean": "IPARK현대산업개발, 제2경춘국도 2공구 수주...1403억원 규모",
+    "summary": "IPARK현대산업개발이 제2경춘국도 2공구 프로젝트를 수주하며 1403억원 규모의 신규 수주를 기록했다. 건설업계에 긍정적인 신규 프로젝트 수주 사례를 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T22:01:15+09:00",
+    "importance": 2
   },
   {
     "keyword": "롯데건설",
@@ -23353,22 +23401,6 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "㈜두산, 2분기 영업익 4884억…AI·반도체 훈풍에 자체 사업도 최대 실적 - magazine.hankyung.com",
-    "link": "https://magazine.hankyung.com/business/article/202607278706b",
-    "description": "주요 계열사인 두산에너빌리티는 매출 4조 7248억원, 영업이익 3143억원을 거두며 각각 3.4%, 15.9% 성장했다. 상반기 국내외 가스터빈 및 중동 가스복합 프로젝트 등으로 7조 1000억원을 수주한 회사는 하반기 체코...",
-    "published_at": "2026-07-27T16:48:00+09:00",
-    "cluster_id": "5fb1",
-    "publisher": "magazine.hankyung.com",
-    "title_clean": "㈜두산, 2분기 영업익 4884억…AI·반도체 훈풍에 자체 사업도 최대 실적",
-    "summary": "두산이 2분기 영업익 4884억원을 기록하며 호실적을 거뒀다. 계열사 두산에너빌리티는 매출과 영업이익이 각각 3.4%, 15.9% 성장했으며, 상반기 국내외 가스터빈 및 중동 가스복합 프로젝트 등으로 7조 1000억원을 수주해 하반기 성장을 기대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T17:00:24+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32266,37 +32298,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T15:10:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "iH, 인천로봇랜드 조성 사업에 '생성형 AI 기반 스마트안전기술' 도입 - 신아일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSmJhSWgya1ZRc2lDQWFGRkVYdDI3V2dqWktyTU1Jc19vTVZoZXhxZldCMTAwX0ROQWJ2UHpROF9KcG9PLW9QRk96NU9xNUNtVHpyR3g4UTd5ZFlQeXlHTTV4QWdQM0lDVE5BR3VsRmM?oc=5",
-    "description": "인천도시공사(iH)는 지난 30일 한국스마트안전보건협회와 인천로봇랜드 조성 사업 공급처리시설 건설 현장에 '생성형 AI(인공지능) 기반 스마트안전기술'을 도입하기",
-    "published_at": "2026-07-31T14:56:36+09:00",
-    "cluster_id": "4f52",
-    "publisher": "신아일보",
-    "title_clean": "iH, 인천로봇랜드 조성 사업에 '생성형 AI 기반 스마트안전기술' 도입",
-    "summary": "인천도시공사가 인천로봇랜드 조성 사업 현장에 생성형 AI 기반 스마트안전기술을 도입하여 건설 안전관리를 고도화하고 있다. 이는 건설업계의 디지털 전환과 안전 기준 강화 추세를 반영한 사례로, 향후 유사 기술 도입 수요 증가를 시사한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T15:10:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "iH, 생성형 AI로 건설현장 안전혁신…인천로봇랜드 첫 적용 - 데일리안",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONWg1a2VsTFNRa0kyUDcxN1JURWtnTE5ZOWhrc0pmSzlZOEowTVBXMzBraklkbjlLZVhLUkpkb3VhSjB2U3g2NUhveHFwclZGcHo1X3Y4OGh2dG1ZYU8xaUVsS1paRWlmMGxmUWJmMDYtS19jS19PUUczVW12cDVIRjlJQ1dTUnZhdktEelJuSXc4d19pekxiYlJkSmFBSS05RkR4aWU4eE5FVjB5MF93YlMyXzBxdkJWLTkwd3gzSGFUU19iLTkyeGhzUFJFdk5FS0VKdzZ4S2h0Y21sd2pwUEJCR3NIZGpLNzZCSVphLVF3SW5BUWprSg?oc=5",
-    "description": "인천도시공사(iH)가 인천로봇랜드 건설사업 현장에 생성형 인공지능(AI)을 활용한 스마트 안전관리 시스템을 도입하며 건설현장의 디지털 안전관리 혁신에 나선다.iH는 지난 30일 인천로봇랜드 공급처리시설 건설현장에서 (사)한국스마트안전보건협회와 생성형 AI 기반 스마트안전기술 확산을 위한 업무협약(MOU)을 체결했다고 31일 밝혔다.이날 협약식에는 임재욱 i",
-    "published_at": "2026-07-31T14:54:00+09:00",
-    "cluster_id": "224b",
-    "publisher": "데일리안",
-    "title_clean": "iH, 생성형 AI로 건설현장 안전혁신…인천로봇랜드 첫 적용",
-    "summary": "인천도시공사(iH)가 인천로봇랜드 건설현장에 생성형 AI 기반 스마트 안전관리 시스템을 도입했다. 한국스마트안전보건협회와 협약을 체결하여 건설현장의 디지털 안전관리를 혁신하는 첫 사례를 선보였다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T14:59:53+09:00",
-    "importance": 3
   }
 ]
