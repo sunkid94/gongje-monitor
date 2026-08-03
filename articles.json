@@ -23369,6 +23369,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "12일째 폭염특보… 추미애 지사 “야외 작업 안전 최우선” - 기호일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VbTR2Q3BDRlVmamFrSkFqeXRqZDM3aUdmOWpWazRnNjkyT3dncm9hSGtfN1ljWG4zc1Jsd21mYUNuSUpMMy03UjJoUjRCeG9PWk5MVE1kYTRaOWhqbkhUaU9Fb1o4SHBZVEpmVm90TQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5VbTR2Q3BDRlVmamFrSkFqeXRqZDM3aUdmOWpWazRnNjkyT3dncm9hSGtfN1ljWG4zc1Jsd21mYUNuSUpMMy03UjJoUjRCeG9PWk5MVE1kYTRaOWhqbkhUaU9Fb1o4SHBZVEpmVm90TQ?oc=5\" target=\"_blank\">12일째 폭염특보… 추미애 지사 “야외 작업 안전 최우선”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기호일보</font>",
+    "cluster_id": "95e7",
+    "publisher": "기호일보",
+    "title_clean": "12일째 폭염특보… 추미애 지사 “야외 작업 안전 최우선”",
+    "summary": "추미애 지사가 12일째 계속되는 폭염특보 상황에서 야외 작업 안전을 최우선으로 삼겠다고 강조했습니다. 폭염으로 인한 야외 작업 중단 또는 제한이 예상되어 건설업 일정에 영향을 미칠 수 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-03T21:46:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32283,21 +32298,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T14:59:53+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "iH, 로봇랜드 현장 위험요인 AI로 실시간 분석 - 애드뉴스인천",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNXpiM2F2V0dzY0RlQXdkcVdoZmtCMkxITE1aQ25RUWtSMDFnUWNkVWM5YldxN0ZQT1Q0UmpoVzN4eERfdUpkM2t1UHBITjlrZGZGcG9Wb1ZzeTV5UFlxS01SQVlhMHZPd2NF?oc=5",
-    "description": "건설현장의 안전관리 방식이 사후 대응에서 실시간 위험 예측 중심으로 전환된다. 인천도시공사(iH)는 인천로봇랜드 조성사업 현장에 생성형 인공지능(AI)을 활용한",
-    "published_at": "2026-07-31T14:36:00+09:00",
-    "cluster_id": "fb7d",
-    "publisher": "애드뉴스인천",
-    "title_clean": "iH, 로봇랜드 현장 위험요인 AI로 실시간 분석",
-    "summary": "인천도시공사가 인천로봇랜드 현장에 생성형 AI를 도입하여 건설현장의 안전관리를 사후 대응에서 실시간 위험 예측 중심으로 전환하고 있다. 이는 건설업계의 안전관리 기술 고도화와 AI 활용 확대를 보여주는 긍정적 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T14:59:53+09:00",
-    "importance": 2
   }
 ]
