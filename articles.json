@@ -23121,6 +23121,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "한화 건설부문, 'Summer Safety' 푸드트럭 운영 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40974",
+    "description": "[건설이코노미뉴스]㈜한화 건설부문(대표이사 김우석)이 올해도 혹서기 건설현장 근로자들을 격려하고, 온열질환 예방 등 여름철 안전보건 활동을 강화하기 위해 찾아가는 ‘Summer Safety 푸드트럭’을 운영한다.한화 건설부문은 7월 15일부터 8월 27일까지 전국 건설현장을 대상으로 시원한 팥빙수와 수박화채를 제공하는 행사를 진행한다. 이번 행사는 무더위 속에서도 현장을 지키는 근로자들이 휴식을 취하고, 안전하고 건강한 여름을 보낼 수 있도록 마련됐다.지난 달 31일에는 서울특별시 도봉구에 위치한 서울아레나 복합문화시설 현장에 팥빙",
+    "published_at": "2026-08-03T12:45:03+09:00",
+    "cluster_id": "27b8",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "한화 건설부문, 'Summer Safety' 푸드트럭 운영",
+    "summary": "한화 건설부문이 7월 15일부터 8월 27일까지 전국 건설현장을 대상으로 '서머 세이프티 푸드트럭'을 운영하며 팥빙수와 수박화채를 제공한다. 혹서기 근로자 격려 및 온열질환 예방 등 여름철 안전보건 활동을 강화하는 사회공헌 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-03T12:46:05+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "대우건설, 한국재난안전기술원과 업무협약 - arunews.com",
     "link": "https://www.arunews.com/news/articleView.html?idxno=65586",
     "description": "대우건설 을지로 본사에서 열린 협약식에는 대우건설 신동혁 CSO를 비롯한 안전담당임원, 안전보건팀장 등 주요 관계자와 한국재난안전기술원 송창영 이사장, 정상만 원장 등 양측 관계자들이 참석해 건설현장 안전관리...",
@@ -32279,21 +32295,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-30T21:38:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정 - ulsanpress.net",
-    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=580188",
-    "description": "울산공업고는 2023년 화공에너지과와 스마트전기전자과, 2025년 스마트건설과가 교육부 학과 개편 사업에 선정된 바 있다. 울산마이스터고 자동화시스템과는 로봇용접과 스마트 자동화 기술 관련 교육과정을 도입해 미래...",
-    "published_at": "2026-07-30T21:29:00+09:00",
-    "cluster_id": "0af5",
-    "publisher": "ulsanpress.net",
-    "title_clean": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정",
-    "summary": "울산공업고와 울산마이스터고가 교육부 직업계고 재구조화 지원사업에 선정되어 화공에너지, 스마트전기전자, 스마트건설, 로봇용접 등 미래 산업 맞춤형 학과를 개편·운영한다. 이는 건설·기계설비 산업의 숙련 인력 양성 기반을 확대하는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T21:33:40+09:00",
-    "importance": 2
   }
 ]
