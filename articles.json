@@ -7152,6 +7152,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[민주 부동산] 동부건설·포스코이앤씨·롯데건설 - iminju.net",
+    "link": "http://www.iminju.net/news/articleView.html?idxno=167492",
+    "description": "롯데건설은 비접촉식 센서 전문기업 가디언웍스와 협업해 고소작업대 스마트 과상승 방지 시스템을 건설 현장에 적용한다. 이번 시스템은 고소작업대 작업 중 발생할 수 있는 충돌과 끼임 사고를 예방하기 위해...",
+    "published_at": "2026-08-03T12:40:00+09:00",
+    "cluster_id": "85d0",
+    "publisher": "iminju.net",
+    "title_clean": "[민주 부동산] 동부건설·포스코이앤씨·롯데건설",
+    "summary": "롯데건설이 비접촉식 센서 전문기업 가디언웍스와 협업하여 고소작업대 스마트 과상승 방지 시스템을 개발·적용한다. 이 시스템은 건설 현장의 충돌과 끼임 사고 예방을 통해 안전성을 강화하는 기술 혁신이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-03T12:44:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23098,22 +23114,6 @@
     "title_clean": "두산에너빌, 중국 원전 5·6호기 핵심소재 공급",
     "summary": "두산에너빌리티가 중국 동팡전기그룹과 산둥성 라이양 원전 5·6호기용 증기발생기 초대형 단조품 공급 계약을 체결했다. 이는 국내 기계설비 제조업체의 해외 대형 프로젝트 수주로 기계설비건설 업계의 수출 수주 확대를 의미한다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-27T13:09:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[특징주] 두산퓨얼셀, 증권사 목표가 '하향 vs 유지'… 매수 타이밍은? - newstnt.com",
-    "link": "https://www.newstnt.com/news/articleView.html?idxno=711705",
-    "description": "두산퓨얼셀(336260)의 2분기 실적 발표 이후 증권가에서는 실적 하회의 주요 원인으로 일회성 비용을 꼽으며, 향후 해외 수주와 수율 개선 여부가 실적 반등의 주요 변수가 될 것이라는 분석을 내놓았다. 27일...",
-    "published_at": "2026-07-27T13:06:00+09:00",
-    "cluster_id": "8f9d",
-    "publisher": "newstnt.com",
-    "title_clean": "[특징주] 두산퓨얼셀, 증권사 목표가 '하향 vs 유지'… 매수 타이밍은?",
-    "summary": "두산퓨얼셀이 2분기 실적 부진을 기록했으나, 증권가는 일회성 비용이 주원인으로 평가하고 있다. 향후 해외 수주 확대와 수율 개선이 실적 반등의 핵심 변수로 지목되고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-27T13:09:06+09:00",
     "importance": 2
   },
