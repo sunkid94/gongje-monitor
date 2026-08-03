@@ -23338,6 +23338,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도 추미애 지사, 폭염 속 공사현장 점검…\"노동자 안전이 최우선\" - 메트로신문",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WenV5VEdDWmpHZV9wWUdJeHNFcmlfSk0xWlM4c1NyMnE5ZDZ0NGg4Q29XNFhhTmtmSG9ZQ3FpU0NqZnFZamc2WFIxcExLbEg3YlI4MFByZ1NmZnBuMEZPZA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WenV5VEdDWmpHZV9wWUdJeHNFcmlfSk0xWlM4c1NyMnE5ZDZ0NGg4Q29XNFhhTmtmSG9ZQ3FpU0NqZnFZamc2WFIxcExLbEg3YlI4MFByZ1NmZnBuMEZPZA?oc=5\" target=\"_blank\">경기도 추미애 지사, 폭염 속 공사현장 점검…\"노동자 안전이 최우선\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메트로신문</font>",
+    "cluster_id": "9bf4",
+    "publisher": "메트로신문",
+    "title_clean": "경기도 추미애 지사, 폭염 속 공사현장 점검…\"노동자 안전이 최우선\"",
+    "summary": "경기도 추미애 지사가 폭염 속 공사현장을 점검하며 노동자 안전을 최우선으로 강조했다. 극한 날씨 조건에서 건설 현장의 안전 관리 강화 필요성을 드러낸 행보다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-03T19:31:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32292,21 +32307,5 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T14:30:23+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고흥군, 폭염 대응 총력...건설현장부터 치매어르신까지 현장 안전관리 강화 - 뉴스프리존",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVGdjZFpUMGRrUnJIOXRpOXZ6bG9CQzJzcUVPZ0dwNi1QTHN6bzFNTVhVMnk4ckVQcktsZ3hxWEppWWhNYjhFdzN4eDF1Y1J5Y0dWemU0TnpORHdSOFMwRG0tUGxqVzdjRDdweEdYNEowdXPSAXdBVV95cUxPcHkzMGRMdGphOXRwbmxKYjR3OVVSS2gzaVlnOTkySW1TYmJRRVlEcmFjLUc2NERuTjZkMm5rYlh4ZGFEUGhFV0xpdWtvalpvMXdUN25IWldwTXdIRDl6QVlHTzhQbjhBTGdDcm9HVkFkWGJGYi1GQQ?oc=5",
-    "description": "고흥군이 연일 이어지는 폭염에 대응하기 위해 건설현장과 무더위쉼터에 대한 현장 점검을 강화하는 한편, 치매 고위험 어르신을 대상으로 휴일 없는 안전관리 체계를 가동하며 폭염 피해 최소화에 총력을 기울이고 있다.지난 30일 양국진 부군수를 비롯한 재난안전 분야 관계 공무원들이 군이 발주",
-    "published_at": "2026-07-31T06:57:08+09:00",
-    "cluster_id": "0698",
-    "publisher": "뉴스프리존",
-    "title_clean": "고흥군, 폭염 대응 총력...건설현장부터 치매어르신까지 현장 안전관리 강화",
-    "summary": "고흥군이 폭염 대응으로 건설현장에 대한 현장 점검을 강화하고 있으며, 안전관리 체계를 가동 중이다. 이는 건설현장 근로자 안전을 위한 조치로 규제 강화에 해당한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-31T14:30:23+09:00",
-    "importance": 4
   }
 ]
