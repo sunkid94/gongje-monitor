@@ -23400,6 +23400,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[오늘의 신문] 폭염·증시 조정 속 반도체는 강세…집값·대출·물가 부... - kor.theasian.asia",
+    "link": "http://kor.theasian.asia/archives/411520",
+    "description": "전세 매물이 줄고 보증금 부담이 커지면서 주거시장의 월세화가 빠르게 진행되고 있다.건설경기 침체에도 대형 건설사 영업익 53% 증가주요 대형 건설사의 2분기 영업이익이 지난해보다 53% 늘었다. 반도체 공장과 원전...",
+    "published_at": "2026-08-04T08:38:00+09:00",
+    "cluster_id": "b156",
+    "publisher": "kor.theasian.asia",
+    "title_clean": "[오늘의 신문] 폭염·증시 조정 속 반도체는 강세…집값·대출·물가 부...",
+    "summary": "전세 매물 감소로 주거시장의 월세화가 진행되고 있는 가운데, 대형 건설사의 2분기 영업이익이 전년 대비 53% 증가했다. 반도체 공장과 원전 등 대규모 프로젝트가 건설사의 실적 호전을 견인하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T08:46:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32269,21 +32285,5 @@
     "sentiment": "negative",
     "collected_at": "2026-07-31T16:59:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "BNK부산은행, 건설근로자 전용 대출상품 선보인다 - seoultimes.news",
-    "link": "https://www.seoultimes.news/news/article.html?no=2000098367",
-    "description": "이번 상품은 지난 29일 BNK금융그룹과 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹이 체결한 '건설노동자 포용금융을 위한 업무협약'의 첫 후속 사업이다. 협약을 실제 금융상품으로 연결해 금융...",
-    "published_at": "2026-07-31T16:55:00+09:00",
-    "cluster_id": "7566",
-    "publisher": "seoultimes.news",
-    "title_clean": "BNK부산은행, 건설근로자 전용 대출상품 선보인다",
-    "summary": "BNK부산은행이 건설근로자공제회, 민주노총, 한국노총과의 업무협약을 통해 건설근로자 전용 대출상품을 출시한다. 금융접근성이 낮은 건설노동자들을 위한 포용금융 사업으로, 협약을 실제 금융상품으로 구현한 첫 후속 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T16:59:50+09:00",
-    "importance": 2
   }
 ]
