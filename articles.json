@@ -23400,6 +23400,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "강원 건설경기 침체 속 시공능력평가액도 ‘뒷걸음질’ - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0JTcGs5aTJ5N3ItbHN3cVpReVBZTGdhWWloNGh2ejZnZlZyQVFhQkp4UU5wMUZXUGFKdE4tV0VkQjFFZXZsWS1xM2g0MVBIVFg0LQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0JTcGs5aTJ5N3ItbHN3cVpReVBZTGdhWWloNGh2ejZnZlZyQVFhQkp4UU5wMUZXUGFKdE4tV0VkQjFFZXZsWS1xM2g0MVBIVFg0LQ?oc=5\" target=\"_blank\">강원 건설경기 침체 속 시공능력평가액도 ‘뒷걸음질’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "cluster_id": "69dc",
+    "publisher": "v.daum.net",
+    "title_clean": "강원 건설경기 침체 속 시공능력평가액도 ‘뒷걸음질’",
+    "summary": "강원 지역의 건설경기 침체로 시공능력평가액이 감소세를 보이고 있다. 건설업계의 경기 부진이 지속되면서 기업의 신용도 평가 지표인 시공능력평가액도 하락하는 악재적 상황이 전개되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-03T23:51:07+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32279,21 +32294,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-31T15:10:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "iH 인천로봇랜드 건설현장에 생성형 AI…‘스마트 안전’ 입힌다 - viva100.com",
-    "link": "https://www.viva100.com/article/20260731500554",
-    "description": "CCTV 영상분석으로 위험요인을 실시간 포착하고 위험성평가와 작업 전 안전회의(TBM), 외국어 통역까지 AI가 지원하는 스마트 안전관리체계가 구축돼 건설현장 안전관리의 디지털 전환이 본격화될 전망이다....",
-    "published_at": "2026-07-31T14:56:00+09:00",
-    "cluster_id": "d2d6",
-    "publisher": "viva100.com",
-    "title_clean": "iH 인천로봇랜드 건설현장에 생성형 AI…‘스마트 안전’ 입힌다",
-    "summary": "인천로봇랜드 건설현장에 생성형 AI를 활용한 스마트 안전관리체계가 도입되어 CCTV 영상분석, 위험성평가, 안전회의 지원 등을 자동화하고 있다. 이는 건설현장의 디지털 전환과 안전관리 고도화를 선도하는 사례로, 업계 전반의 안전관리 혁신을 촉발할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T15:10:14+09:00",
-    "importance": 3
   }
 ]
