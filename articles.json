@@ -23413,6 +23413,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "직업건강협회-동아오츠카, 소규모 건설현장 폭염예방 릴레이 캠페인 - 라포르시안",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xVFdQVUNnbkljUjNuNFAzOHl0WFBNNU5vNjBWNGw3cDhNNEEwR1MtbkIwV1dyTVN1Z2JiQmR4ZmI1U25mSUE3QnRlVzQ4Y3pFdHhvVDBJTlE4aTQzQlNkX3RqQ0pXYmtBZDY5NA?oc=5",
+    "description": "[라포르시안] 한국직업건강간호협회(회장 이복임, 이하 직업건강협회)는 동아오츠카와 함께 2년 연속으로 전국 5개 지역(전북, 서울, 인천 등)의 소규모 건설 현장 대상 '폭염예방",
+    "published_at": "2026-08-04T17:49:00+09:00",
+    "cluster_id": "a02e",
+    "publisher": "라포르시안",
+    "title_clean": "직업건강협회-동아오츠카, 소규모 건설현장 폭염예방 릴레이 캠페인",
+    "summary": "한국직업건강간호협회와 동아오츠카가 2년 연속으로 전국 소규모 건설현장을 대상으로 폭염예방 릴레이 캠페인을 진행 중이다. 건설업계 근로자의 보건안전 개선을 위한 사회공헌 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-04T18:04:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "summary": "동부건설이 공공·토목 중심의 수주 확대로 13조 수주잔고를 쌓았으나, 민간 주택사업 부진과 장기 미회수 채권 등으로 재무 부담이 남아있다. 안정적 수주 기반에도 불구하고 현금흐름 관리와 수익성 개선이 과제로 지적되고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-03T07:12:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "새 가치체계 선포한 현대엔지니어링, 에너지 기업 변신 가속 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20074884?ref=naver",
-    "description": "새로운 가치체계는 건설경기 침체 장기화와 중대 재해 등 대내외 악재 속에서 변화와 혁신을 통해 체질 개선과 미래 성장동력 확보를 꾀하자는 취지에서 마련됐다. 현대엔지니어링은 기존 설계·조달·시공(EPC) 역량을...",
-    "published_at": "2026-08-03T06:57:00+09:00",
-    "cluster_id": "a0d2",
-    "publisher": "sedaily.com",
-    "title_clean": "새 가치체계 선포한 현대엔지니어링, 에너지 기업 변신 가속",
-    "summary": "현대엔지니어링이 건설경기 침체와 안전 문제 등의 어려움 속에서 새로운 가치체계를 선포하며 에너지 기업으로의 전환을 추진 중이다. 기존 EPC 역량을 바탕으로 체질 개선과 미래 성장동력 확보를 목표로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T07:02:50+09:00",
     "importance": 2
   }
 ]
