@@ -23481,6 +23481,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울광역본부, 서울 첫 '폭염중대경보' 발령에 긴급 현장 경영 실시 - 안전정보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00bHU2OHBWTlp3UDZTbjhqc0VEQkhRS29DenpIOFgzSmJpckZhSTgzV2hLWG1wdDVnTUYtZnVVcFZzV2RSTVFnY1VsMTNkVWRacElfUnZ3cC1PcUo1U3BhamllaE5ZZnlzSTFN?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE00bHU2OHBWTlp3UDZTbjhqc0VEQkhRS29DenpIOFgzSmJpckZhSTgzV2hLWG1wdDVnTUYtZnVVcFZzV2RSTVFnY1VsMTNkVWRacElfUnZ3cC1PcUo1U3BhamllaE5ZZnlzSTFN?oc=5\" target=\"_blank\">서울광역본부, 서울 첫 '폭염중대경보' 발령에 긴급 현장 경영 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
+    "cluster_id": "83b1",
+    "publisher": "안전정보",
+    "title_clean": "서울광역본부, 서울 첫 '폭염중대경보' 발령에 긴급 현장 경영 실시",
+    "summary": "서울시가 첫 폭염중대경보를 발령하고 긴급 현장 경영을 실시했다. 극한 기후 현상에 따른 안전 대응 강화 소식이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T01:24:35+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32253,22 +32268,6 @@
     "title_clean": "대우건설, 김보현 사장 주관 ‘하반기 신입사원 간담회’ 개최",
     "summary": "대우건설이 신입사원 62명을 대상으로 간담회를 개최했으며, 김보현 사장은 신입사원들을 회사의 미래 핵심 동력으로 평가했다. 안전·품질 우선과 AI·스마트건설 기술 도입을 통해 'Hyper E&C' 비전 실현을 강조했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-03T09:28:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "김보현 대우건설 사장, 신입사원과 소통...\"스마트건설 표준 만들자\" - fnnews.com",
-    "link": "http://www.fnnews.com/news/202608030919395101",
-    "description": "김 사장은 \"62명의 신입사원 여러분들이 대우건설의 미래이자 재도약을 이끌 핵심 동력\"이라며 \"건설업의 기본인 안전과 품질을 최우선 가치로 삼고, 대우건설이 스마트 건설의 새로운 표준이 될 수 있도록 함께 만들어...",
-    "published_at": "2026-08-03T09:25:00+09:00",
-    "cluster_id": "9ada",
-    "publisher": "fnnews.com",
-    "title_clean": "김보현 대우건설 사장, 신입사원과 소통...\"스마트건설 표준 만들자\"",
-    "summary": "김보현 대우건설 사장이 신입사원 62명을 대상으로 안전과 품질을 강조하고 스마트건설 표준화를 추진하겠다는 의지를 표현했다. 건설업의 기본가치 준수와 혁신 기술 도입을 통한 업계 리더십 확보를 목표로 하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-03T09:28:29+09:00",
     "importance": 2
   }
