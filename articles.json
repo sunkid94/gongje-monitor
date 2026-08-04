@@ -7452,6 +7452,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[굿모닝! 4일 건설업계 소식] 현대건설·신동아건설·IPARK현대산업개발 - 굿모닝경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0UmVubHN0eWRLWFkzYzVma19GZWhscGZEXzFyTWo1NHBxaW5iMUJkMFUwVFZqTFFNUWlDdUdVbjlMcGRfcWdSbXNYNGNCcHB1R0pSMHo3dzNST0t5TWlrclc4Zk9CYnBzbWJwaA?oc=5",
+    "description": "현대건설은 과천주공 8·9단지 재건축 정비사업 현장에서 살수 드론을 통한 비산먼지 저감 작업 실증을 완료했다. 실증을 통해 실제 철거공사 환경에서 살수 드론의 성",
+    "published_at": "2026-08-04T15:08:19+09:00",
+    "cluster_id": "582c",
+    "publisher": "굿모닝경제",
+    "title_clean": "[굿모닝! 4일 건설업계 소식] 현대건설·신동아건설·IPARK현대산업개발",
+    "summary": "현대건설이 과천주공 재건축 현장에서 살수 드론을 이용한 비산먼지 저감 기술 실증을 완료했다. 이는 건설현장의 환경 관리 기술 고도화로 건설업계의 규제 대응 및 안전성 개선을 보여주는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T15:40:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23395,19 +23411,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산에너빌리티, 원전·SMR 훈풍 타고 수주잔고 26조 돌파 - bloter.net",
-    "link": "https://www.bloter.net/news/articleView.html?idxno=669141",
-    "description": "두산에너빌리티의 수주잔고가 26조원을 돌파했다. 원자력과 가스터빈을 중심으로 수주 호조가 이어지면서 올해 연간 수주 목표인 13조3000억원을 초과 달성할 가능성도 커지고 있다. 풍부한 일감을 바탕으로 중장기...",
-    "published_at": "2026-07-28T10:51:00+09:00",
-    "cluster_id": "a0b1",
-    "publisher": "bloter.net",
-    "title_clean": "두산에너빌리티, 원전·SMR 훈풍 타고 수주잔고 26조 돌파",
-    "summary": "두산에너빌리티의 수주잔고가 26조원을 넘었으며, 원자력과 가스터빈 중심의 호조로 올해 연간 수주 목표 13조3000억원 초과 달성이 임박했다. 원전·SMR 등 에너지 전환 추세 속에서 중장기 사업 안정성이 강화되고 있다.",
+    "title": "아산 경동 일반산단 조성 - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092033",
+    "description": "산업단지 조성 과정에서도 지역 건설경기 활성화가 기대된다. 부지 조성과 기반시설 공사, 건설자재 및 장비 공급, 지역 건설업체의 공사 참여 확대 등을 통해 지역 건설산업에 새로운 활력을 불어넣을 것으로 전망된다....",
+    "published_at": "2026-08-04T15:34:00+09:00",
+    "cluster_id": "14f0",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "아산 경동 일반산단 조성",
+    "summary": "아산 경동 일반산단 조성 사업으로 부지 조성, 기반시설 공사 등을 통해 지역 건설경기 활성화가 기대된다. 건설자재 공급과 지역 건설업체의 공사 참여 확대로 건설산업에 새로운 활력이 전망된다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-28T10:59:52+09:00",
+    "collected_at": "2026-08-04T15:40:51+09:00",
     "importance": 2
   },
   {
@@ -32248,22 +32264,6 @@
     "summary": "한국수자원공사 사장이 경북 구미 건설현장을 방문하여 폭염 시즌 안전관리 실태를 점검했다. 현장 근로자들의 온열질환 예방을 위해 안전관리에 강화된 조치를 시행 중이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-02T14:52:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경북개발공사, 건설현장 `감성 안전퀴즈`로 안전문화 확산 - imaeil.com",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HaTdlbl82dUxhamFDQWYzSUhLanNnWUFNaEJtTkk1YzE3RW1BZkh5cUZZaHZlM09pNTBkTVlYUXBoWDBmSGNxRWM2cTBDNjUtWmdNUTUyNjJKSG1PUFIzZTNB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HaTdlbl82dUxhamFDQWYzSUhLanNnWUFNaEJtTkk1YzE3RW1BZkh5cUZZaHZlM09pNTBkTVlYUXBoWDBmSGNxRWM2cTBDNjUtWmdNUTUyNjJKSG1PUFIzZTNB?oc=5\" target=\"_blank\">경북개발공사, 건설현장 `감성 안전퀴즈`로 안전문화 확산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">imaeil.com</font>",
-    "published_at": "2026-08-02T14:02:21+09:00",
-    "cluster_id": "9875",
-    "publisher": "imaeil.com",
-    "title_clean": "경북개발공사, 건설현장 `감성 안전퀴즈`로 안전문화 확산",
-    "summary": "경북개발공사가 건설현장에서 '감성 안전퀴즈' 프로그램을 도입하여 근로자들의 안전의식 고취 및 안전문화 확산을 추진하고 있다. 이는 건설현장의 안전 관리 강화와 산업재해 예방을 위한 적극적인 노력이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-02T14:37:51+09:00",
     "importance": 2
   }
 ]
