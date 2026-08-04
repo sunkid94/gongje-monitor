@@ -23383,6 +23383,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설현장 레미콘 품질관리 ‘구멍’···불법 재사용·형식적 품질시험 도마 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325612",
+    "description": "건설현장 레미콘 품질관리가 도마 위에 올랐다. 잔여 레미콘의 불법 재사용 사례가 잇따라 제보된 데 이어, 일부 현장에서는 시공사가 아닌 레미콘 공장 직원이 품질시험을 실시하는 관행도 문제로 지적되고 있다.4일 관련 업계 등에 따르면 국토교통부는 지방자치단체와 공공기관, 건설 관련 협회·단체 등에 잔여 레미콘 재사용 근절 및 품질관리 철저 당부 공문을 보내 잔여 레미콘 불법 재사용 근절과 품질관리를 강화하도록 요청했다.공문에 따르면 최근 일부 건설현장에서 사용 후 남은 잔여 레미콘이 정상적인 폐기 절차를 거치지 않은 채 광고나 오픈채",
+    "published_at": "2026-08-04T08:55:38+09:00",
+    "cluster_id": "6929",
+    "publisher": "대한전문건설신문",
+    "title_clean": "건설현장 레미콘 품질관리 ‘구멍’···불법 재사용·형식적 품질시험 도마",
+    "summary": "건설현장 레미콘의 불법 재사용과 형식적 품질시험 관행이 적발되어 국토교통부가 품질관리 강화를 요청했다. 레미콘 공장 직원이 시공사 대신 품질시험을 실시하는 등 관리 체계의 허점이 문제로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-04T09:04:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32265,22 +32281,6 @@
     "publisher": "dailypop.kr",
     "title_clean": "BNK금융그룹, 거버넌스 개편부터 포용금융·해양금융까지…지역 상생 경...",
     "summary": "BNK금융그룹이 건설근로자공제회, 민주노총, 한국노총과 '건설노동자 포용금융' 업무협약을 체결하고 BNK부산은행이 건설근로자 우대대출을 출시했다. 이는 건설업계 종사자들의 금융 접근성을 개선하고 산업 환경을 지원하는 금융권의 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T17:09:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대건설, 수주잔고 100조 첫 돌파…영업이익도 회복세 - 스페셜경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52V1ZRVEhXTmpoVzRoWEFGRWE4eWRjbnRzWjBUbnlMNjZaR01fSVRXS0F2Q2p4UHFRUWgyNzZDd25tbmhNMzRXUjVrQWdUa1VHSUkySWtNeTZMa1FPc0hES1g1RUMyLU92bEc4eA?oc=5",
-    "description": "스페셜경제=강민철 기자 | 현대건설이 해외 대형 프로젝트와 복합개발 사업 수주 확대에 힘입어 창사 이후 처음으로 수주잔고 100조원을 넘어섰다. 주택사업 원가율",
-    "published_at": "2026-07-31T16:51:48+09:00",
-    "cluster_id": "b888",
-    "publisher": "스페셜경제",
-    "title_clean": "현대건설, 수주잔고 100조 첫 돌파…영업이익도 회복세",
-    "summary": "현대건설이 해외 대형 프로젝트와 복합개발 사업 수주 확대를 바탕으로 창사 이후 처음 수주잔고 100조원을 돌파했다. 주택사업 원가율 개선으로 영업이익도 회복세를 보이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-31T17:09:43+09:00",
     "importance": 2
