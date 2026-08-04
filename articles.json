@@ -23481,6 +23481,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[스카이 View] 42.5도 기록 아래 드러난 노동·주거 격차 - m.skyedaily.com",
+    "link": "https://m.skyedaily.com/news_view.html?ID=308990",
+    "description": "반면 건설노동자에게는 작업을 멈춰야 할 위험이고, 배달기사와 환경미화원에게는 피하기 어려운 노동환경이며, 농민에게는 작물이 타들어가는 생계의 위기다. 밤에도 식지 않는 쪽방촌과 옥탑방과 반지하, 바람 없는...",
+    "published_at": "2026-08-05T00:04:00+09:00",
+    "cluster_id": "8c4a",
+    "publisher": "m.skyedaily.com",
+    "title_clean": "[스카이 View] 42.5도 기록 아래 드러난 노동·주거 격차",
+    "summary": "폭염으로 인한 건설노동자의 작업 중단 위험, 배달기사와 환경미화원의 열악한 노동환경, 저소득층의 열악한 주거환경 등 사회적 격차 문제를 조명한 기사입니다. 극한의 고온 환경에서 취약계층이 겪는 생계 위기와 안전 문제를 지적하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T00:10:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32253,22 +32269,6 @@
     "title_clean": "김보현 대우건설 사장, 신입사원과 소통...\"스마트건설 표준 만들자\"",
     "summary": "김보현 대우건설 사장이 신입사원 62명을 대상으로 안전과 품질을 강조하고 스마트건설 표준화를 추진하겠다는 의지를 표현했다. 건설업의 기본가치 준수와 혁신 기술 도입을 통한 업계 리더십 확보를 목표로 하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-03T09:28:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"건설업 기본은 안전과 품질\" 대우건설 신입사원 간담회 보니… - newsclaim.co.kr",
-    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071013",
-    "description": "김보현 사장은 \"62명의 신입사원 여러분들이 대우건설의 미래이자 재도약을 이끌 핵심 동력\"이라며 \"건설업의 기본인 안전과 품질을 최우선 가치로 삼고, AI·스마트건설 시대에 선제적으로 대응해 대우건설이...",
-    "published_at": "2026-08-03T09:18:00+09:00",
-    "cluster_id": "b7b1",
-    "publisher": "newsclaim.co.kr",
-    "title_clean": "\"건설업 기본은 안전과 품질\" 대우건설 신입사원 간담회 보니…",
-    "summary": "대우건설이 신입사원 62명을 대상으로 간담회를 개최하여 안전과 품질을 최우선 가치로 강조했다. CEO는 신입사원들이 회사의 미래 동력이며 AI·스마트건설 시대에 선제적으로 대응할 것을 당부했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-03T09:28:29+09:00",
     "importance": 2
   }
