@@ -23396,6 +23396,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 새 관문 ‘서대구역’ 살아날까…열차 증편, 역세권 개발 재개 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000000671&cp=nv",
+    "description": "하지만 건설경기 침체와 민간투자 위축 등의 영향으로 사업 신청자가 없어 3년의 유효기간이 만료돼 지정이 해제됐다. 이에 대구시는 민간사업자들이 자유로운 개발을 통해 사업 수익성을 높일 수 있도록 서대구역...",
+    "published_at": "2026-08-04T11:32:00+09:00",
+    "cluster_id": "8e78",
+    "publisher": "kmib.co.kr",
+    "title_clean": "대구 새 관문 ‘서대구역’ 살아날까…열차 증편, 역세권 개발 재개",
+    "summary": "대구시가 서대구역 역세권 개발을 재개하며 민간사업자의 자유로운 개발을 통해 사업 수익성을 높이는 방안을 추진 중이다. 열차 증편과 함께 건설경기 침체로 중단됐던 프로젝트가 다시 활성화될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T11:41:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32248,22 +32264,6 @@
     "summary": "광주·전남 지역의 6월 투자가 민간 건설 수주 호조에 힘입어 전년 동월 대비 대폭 증가했다. 광주는 857.6%, 전남은 상당한 수준의 투자 증가를 기록하며 공공·민간 부문 모두에서 성장을 보였다.",
     "sentiment": "positive",
     "collected_at": "2026-07-31T23:59:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "인천로봇랜드 건설현장에 생성형 AI 안전관리 도입 - THE인천​",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56T1FiV1BYcUFSdUlVU1Q2V0phLW9QazN0cV8waDg1VXFXUmJGcFVic2lOQkd2eUdwaUtzcjF6Q21GX1RySlN6RS1sblZDUXU1WFpnam5HWHZrWVlmYzJ4NHcwbWN3S21EQnc?oc=5",
-    "description": "인천도시공사(iH)가 인천로봇랜드 조성사업 건설현장에 생성형 인공지능(AI) 기반 안전관리 기술을 도입한다.iH는 지난 30일 인천로봇랜드 공급처리시설 건설현장에서 한국스마트안전보건협회와 스마트 안전기술 도입을 위한 업무협약을 체결했다.iH는 관련 기술과 장비를 현장에 적용하고, 협회",
-    "published_at": "2026-07-31T23:11:44+09:00",
-    "cluster_id": "8c9f",
-    "publisher": "THE인천​",
-    "title_clean": "인천로봇랜드 건설현장에 생성형 AI 안전관리 도입",
-    "summary": "인천도시공사가 인천로봇랜드 건설현장에 생성형 AI 기반 안전관리 기술을 도입하기로 결정했다. 한국스마트안전보건협회와의 업무협약을 통해 스마트 안전기술을 현장에 적용할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T23:29:45+09:00",
     "importance": 2
   }
 ]
