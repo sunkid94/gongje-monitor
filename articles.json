@@ -23448,6 +23448,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "폭염 중대경보에…경기고용노동청, 건설현장 긴급점검 - 중부일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTjJyd3ZWWmNjOHhZRGZzalVTS2trZjk4NFE1dGQ4R2M0UGpScDRkb1J4N0lBZ1l6S25UdTlIQjdaTGxRNnRuYzliSzU4Y2FJNWNIQXd4NFgxRVpjQ29yUkdqU2tIRWkyTjBGdlhB?oc=5",
+    "description": "연일 폭염이 이어지며 건설현장 근로자의 온열질환 위험이 커지자 고용노동부 경기지방고용노동청이 폭염 취약 사업장을 대상으로 긴급 현장점검에 나섰다.",
+    "published_at": "2026-08-04T18:50:00+09:00",
+    "cluster_id": "03df",
+    "publisher": "중부일보",
+    "title_clean": "폭염 중대경보에…경기고용노동청, 건설현장 긴급점검",
+    "summary": "폭염 중대경보로 인한 건설현장 온열질환 위험 증가에 따라 경기고용노동청이 취약 사업장 긴급점검을 실시 중이다. 건설업계의 안전 관리 강화 필요성이 부각되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-04T19:09:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32256,21 +32272,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-03T09:08:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 비접촉식 센서 전문기업 '㈜가디언웍스'와 협업 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=338402",
-    "description": "롯데건설 관계자는 \"이번에 개발한 '고소작업대 스마트 과상승 방지 시스템'을 통해 충돌∙끼임 사고 감소가 기대되며 AI, 로봇 등 스마트건설 기술을 현장에 확대 적용할 예정\"이라고 말했다.",
-    "published_at": "2026-08-03T08:56:00+09:00",
-    "cluster_id": "85f9",
-    "publisher": "국토일보",
-    "title_clean": "롯데건설, 비접촉식 센서 전문기업 '㈜가디언웍스'와 협업",
-    "summary": "롯데건설이 비접촉식 센서 전문기업 가디언웍스와 협업하여 고소작업대 스마트 과상승 방지 시스템을 개발했다. 이 시스템을 통해 충돌·끼임 사고 감소를 기대하며, AI·로봇 등 스마트건설 기술을 현장에 확대 적용할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T08:57:57+09:00",
-    "importance": 3
   }
 ]
