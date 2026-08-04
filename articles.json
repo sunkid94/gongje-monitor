@@ -23482,6 +23482,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[칼럼] 재난이 된 폭염, 기후취약계층을 위한 지원이 필요하다 - cctimes.kr",
+    "link": "http://www.cctimes.kr/news/articleView.html?idxno=920162",
+    "description": "또한 야외 근무를 피할 수 없는 건설 노동자나 배달 노동자 등도 있다. 이들에게 극단적인 폭염은 건강에 대한 위협뿐만 아니라 근로 여건을 위협하는 요소가 된다. 이에 청주시도 기후취약계층을 돕기 위한 지원 사업을...",
+    "published_at": "2026-08-04T20:22:00+09:00",
+    "cluster_id": "8f91",
+    "publisher": "cctimes.kr",
+    "title_clean": "[칼럼] 재난이 된 폭염, 기후취약계층을 위한 지원이 필요하다",
+    "summary": "극단적 폭염이 건설노동자, 배달노동자 등 기후취약계층의 건강과 근로여건을 위협하고 있다. 청주시가 이들을 위한 지원사업을 추진하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-04T20:29:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32256,22 +32272,6 @@
     "title_clean": "롯데건설 스마트 센서로 고소작업 안전 강화",
     "summary": "롯데건설이 스마트 센서 기술로 고소작업 중 충돌·끼임 사고 방지 시스템을 개발했습니다. 향후 AI와 로봇 등 스마트건설 기술을 현장에 확대 적용할 계획입니다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-03T09:08:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "김보현 대우건설 사장, 신입사원과 소통 나서 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=338406",
-    "description": "AI·스마트건설 시대에 선제적으로 대응해 대우건설이 스마트건설의 새로운 표준이 될 수 있도록 함께 만들어 가자\"고 당부했다. 간담회 이후에는 신입사원들이 직접 기획하고 준비한 '한마음의 장' 행사도 이어졌다....",
-    "published_at": "2026-08-03T09:02:00+09:00",
-    "cluster_id": "616c",
-    "publisher": "국토일보",
-    "title_clean": "김보현 대우건설 사장, 신입사원과 소통 나서",
-    "summary": "김보현 대우건설 사장이 신입사원들과 간담회를 통해 AI와 스마트건설 시대에 선제적으로 대응할 것을 강조했다. 대우건설이 스마트건설의 새로운 표준이 될 수 있도록 함께 나아가자는 비전을 제시했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-03T09:08:14+09:00",
     "importance": 2
   }
