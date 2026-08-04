@@ -23481,6 +23481,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'고원가 터널' 끝 보인다…대형 건설사, 수익성 대폭 개선 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2610857",
+    "description": "건설경기 부진으로 외형 성장은 제한됐지만 저수익 사업 비중이 줄고 원가 관리 효과가 반영되면서 수익성이 대폭 개선됐다. 4일 건설업계에 따르면 삼성물산·현대건설·GS건설·DL이앤씨·IPARK현대산업개발...",
+    "published_at": "2026-08-05T05:02:00+09:00",
+    "cluster_id": "719f",
+    "publisher": "etoday.co.kr",
+    "title_clean": "'고원가 터널' 끝 보인다…대형 건설사, 수익성 대폭 개선",
+    "summary": "건설경기 부진 속에서도 대형 건설사들이 저수익 사업 축소와 원가 관리를 통해 수익성을 대폭 개선하고 있다. '고원가 터널'을 벗어나며 업계의 구조적 개선이 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-05T05:09:22+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "바깥은 38도, 작업장은 43도… 생명줄이라곤 포도당 사탕뿐 [불평등한 폭... - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/plan/unequal-heat/2026/08/05/20260805001006?wlog_tag3=naver",
+    "description": "전국건설노조가 지난해 7월 건설노동자 976명을 조사한 결과 폭염특보 때 2시간마다 20분씩 쉬는 규정이 지켜진다는 응답은 42.7%에 그쳤다. 2024년 서비스연맹이 배달·택배·방문점검 등 이동노동자 1198명에게 물어보니...",
+    "published_at": "2026-08-05T05:02:00+09:00",
+    "cluster_id": "b69a",
+    "publisher": "seoul.co.kr",
+    "title_clean": "바깥은 38도, 작업장은 43도… 생명줄이라곤 포도당 사탕뿐 [불평등한 폭...",
+    "summary": "건설노동자의 42.7%만이 폭염특보 시 휴식 규정을 준수받고 있으며, 작업장 온도가 38도를 초과하는 극한 환경에 노출되어 있다. 기사는 건설업 노동자의 열악한 근로 환경과 산업안전 규정 미준수 문제를 지적하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T05:09:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32236,37 +32268,6 @@
     "summary": "김보현 대우건설 대표가 하반기 신입사원 62명을 만나 스마트건설 신표준 구축을 강조했다. 신입인재 영입을 통해 건설산업의 혁신과 기술 고도화를 추진하려는 의지를 드러냈다.",
     "sentiment": "positive",
     "collected_at": "2026-08-03T09:38:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "김보현 대우건설 사장, 신입사원들과 소통 “스마트건설, 새 표준 돼야” 당부 - heraldk.com",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MV2hzZlFfNVI3NWVoRWRTNHF6RWJHZHhVVmFyXzlxbGVOMGFlVm5YSGhVVk16NHlId0V5RHp1QUlubGtTc09aZ3I3SVBTeFNWaXJKMnlNQzZ5V2RJbFdXWg?oc=5",
-    "description": "WE HERALD!, 헤럴드경제는 모바일 시대를 선도하는 종합일간경제 매체입니다.",
-    "cluster_id": "2231",
-    "publisher": "heraldk.com",
-    "title_clean": "김보현 대우건설 사장, 신입사원들과 소통 “스마트건설, 새 표준 돼야” 당부",
-    "summary": "김보현 대우건설 사장이 신입사원들과 소통하며 스마트건설이 건설업의 새로운 표준이 되어야 한다고 강조했습니다. 이는 건설업계의 디지털 혁신과 기술 고도화를 추진하려는 경영진의 의지를 보여주는 사항입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T09:38:46+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "삼성물산 12년 연속 시공능력평가 1위···GS건설 3위로 ‘톱3’ 재진입 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325558",
-    "description": "삼성물산이 2026년도 건설업체 시공능력평가에서 12년 연속 1위를 차지했다. 현대건설은 지난해에 이어 2위를 유지했고, GS건설과 현대엔지니어링은 각각 두 계단씩 상승하며 3·4위에 올랐다. 반면 지난해 3·4위였던 대우건설과 DL이앤씨는 각각 5위와 6위로 밀려 상위권 순위에 변화가 나타났다.국토교통부는 건설산업기본법에 따라 등록된 전국 건설업체 가운데 시공능력평가를 신청한 업체를 대상으로 실시한 2026년도 시공능력평가 결과를 지난달 30일 공시했다. 올해 평가를 받은 업체는 전체 건설업체 8만8424개사 가운데 84.1%인",
-    "published_at": "2026-08-03T09:29:59+09:00",
-    "cluster_id": "9c8e",
-    "publisher": "대한전문건설신문",
-    "title_clean": "삼성물산 12년 연속 시공능력평가 1위···GS건설 3위로 ‘톱3’ 재진입",
-    "summary": "삼성물산이 2026년도 건설업체 시공능력평가에서 12년 연속 1위를 차지했으며, GS건설과 현대엔지니어링이 상위권으로 진입하면서 상위 건설사 순위에 변화가 생겼다. 국토교통부가 공시한 이번 평가는 전국 건설업체의 84.1%가 참여했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T09:34:11+09:00",
     "importance": 2
   }
 ]
