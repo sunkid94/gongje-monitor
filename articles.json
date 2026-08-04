@@ -23393,6 +23393,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "철도연, 기후위기 시대 '철도 지속가능성 제고 기술 전략' 제시 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=40992",
+    "description": "[건설이코노미뉴스]한국철도기술연구원(원장 사공명)은 철도, 대중교통, 물류 분야를 둘러싼 핵심 기술·정책 이슈를 분석하고 인사이트를 공유하는 분기별 정기간행물 'KRRI Tech Policy Brief (테크 팔러시 브리프)' 제2호를 발간했다.제2호의 주제는 「극한을 넘다, 기후탄력형 철도와 차세대 전력 시스템」으로, 폭염·집중호우 등 극한기상과 에너지 비용 상승이라는 두 가지 충격에 직면한 철도의 대응 방향을 ‘회복력(resilience)’과 ‘자기적응(self-adaptation)’의 관점에서 심층 분석했다.이번 호는 ▲사후",
+    "published_at": "2026-08-04T13:22:39+09:00",
+    "cluster_id": "c707",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "철도연, 기후위기 시대 '철도 지속가능성 제고 기술 전략' 제시",
+    "summary": "한국철도기술연구원이 기후변화 대응을 위한 '철도 지속가능성 제고 기술 전략'을 담은 테크 팔러시 브리프 제2호를 발간했다. 폭염·집중호우 등 극한기상과 에너지 비용 상승에 대응하는 회복력 있는 차세대 철도·전력 시스템 구축 방향을 제시했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T13:24:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32244,20 +32260,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-01T17:47:44+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "사이버한국외대-건설안전감시단협회, 건설안전 교육·취업 연계 맞손 - metroseoul.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwN0o2Y2hTYkZCUlJ2NmJCZ3gyVVBrcUZMbU5GSDNGTUZCSnluQ0NzM2dQd1MwRXY2cXlCSmN1UU5YRnZUVlQzeVB5YTZDSWUtMGZmUGRlVGxKaDg0N1VHLQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwN0o2Y2hTYkZCUlJ2NmJCZ3gyVVBrcUZMbU5GSDNGTUZCSnluQ0NzM2dQd1MwRXY2cXlCSmN1UU5YRnZUVlQzeVB5YTZDSWUtMGZmUGRlVGxKaDg0N1VHLQ?oc=5\" target=\"_blank\">사이버한국외대-건설안전감시단협회, 건설안전 교육·취업 연계 맞손</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">metroseoul.co.kr</font>",
-    "cluster_id": "fb45",
-    "publisher": "metroseoul.co.kr",
-    "title_clean": "사이버한국외대-건설안전감시단협회, 건설안전 교육·취업 연계 맞손",
-    "summary": "사이버한국외대와 건설안전감시단협회가 건설안전 교육과 취업을 연계하는 협약을 체결했다. 이는 건설업계 인력 양성과 안전 전문가 육성을 통해 산업 기반을 강화하는 협력이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-01T17:37:56+09:00",
-    "importance": 2
   }
 ]
