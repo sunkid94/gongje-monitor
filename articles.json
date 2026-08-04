@@ -23481,6 +23481,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭우 대비 공정 절반뿐…용인 SK 일반산단 현장 안전관리 ‘도마’ - 경기일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zYWg4dkNNR1VhNTF4NmxDeUYzTFEyY3diY0NHRm9tXzVhX1FDY2FmUXg3a29WMXZDRUVDQXNQR2R5V19xbjZRQXFCcjJpbFZubjJNZ3lmUDN0YVk?oc=5",
+    "description": "지난달 집중호우로 용인 반도체 일반산업단지 임시 주차장에서 토사가 유출되는 사고가 발생한 가운데 우기 이전에 대비하지 못한 건설사의 현장 안전관리 실태가 도마에 올랐다. 전문가들은 본격적인 장마가 시작되기 전인 6월 말까지 관련 조치가 완료되지 못하면서 사전 대비가 미",
+    "cluster_id": "fe27",
+    "publisher": "경기일보",
+    "title_clean": "폭우 대비 공정 절반뿐…용인 SK 일반산단 현장 안전관리 ‘도마’",
+    "summary": "용인 SK 일반산단에서 집중호우로 토사 유출 사고가 발생했으며, 우기 대비 공정이 절반 수준에 그쳐 건설사의 현장 안전관리 실태가 문제로 지적되고 있다. 전문가들은 6월 말까지 관련 조치가 완료되지 못할 경우 더 큰 피해가 발생할 수 있다고 우려하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T06:09:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32253,21 +32268,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-03T09:38:46+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설, 신입사원과 소통 강화… 김보현 사장 \"스마트건설 함께 이끌... - cnbizm.com",
-    "link": "https://www.cnbizm.com/news/articleView.html?idxno=310367",
-    "description": "AI·스마트건설로 산업 환경이 빠르게 변화하는 가운데, 조직 적응을 지원하고 핵심 인재를 확보하기 위한 행보다. 대우건설은 김보현 사장이 지난달 30일 수원 인재경영원에서 올 하반기 신입사원 62명과 간담회를...",
-    "published_at": "2026-08-03T09:30:00+09:00",
-    "cluster_id": "c971",
-    "publisher": "cnbizm.com",
-    "title_clean": "대우건설, 신입사원과 소통 강화… 김보현 사장 \"스마트건설 함께 이끌...",
-    "summary": "대우건설이 AI·스마트건설 시대 대응을 위해 신입사원 62명과 간담회를 개최하며 조직 적응 지원과 핵심 인재 확보에 나섰다. 김보현 사장이 직접 참여해 변화하는 산업 환경에 대한 소통을 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T09:38:46+09:00",
-    "importance": 2
   }
 ]
