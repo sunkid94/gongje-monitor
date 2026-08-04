@@ -23399,6 +23399,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "조달청, 공사관리 현장 ‘폭염 대비 긴급 안전점검’ 실시 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325618",
+    "description": "조달청(청장 백승보)은 최근 전국적으로 연일 계속되는 폭염으로 인해 건설근로자의 온열질환 사고 위험이 급증함에 따라, 조달청이 직접 시공관리 중인 29개 현장을 대상으로 ‘건설현장 폭염 대비 긴급 안전점검’을 실시한다고 3일 밝혔다.이번 점검은 지난 6월 실시한 우기 및 폭염 취약요인 사전점검에 이은 특별 안전조치의 하나다.조달청은 폭염에 직접 노출되는 건설근로자의 안심 일터 조성을 최우선 목표로 삼고 현장에서 물, 냉방장치, 휴식, 보냉장구, 119신고로 대표되는 ‘폭염안전 5대 기본수칙’이 철저히 이행되고 있는지 밀착점검할 계획",
+    "published_at": "2026-08-04T11:53:55+09:00",
+    "cluster_id": "75f6",
+    "publisher": "대한전문건설신문",
+    "title_clean": "조달청, 공사관리 현장 ‘폭염 대비 긴급 안전점검’ 실시",
+    "summary": "조달청이 폭염으로 인한 건설근로자의 온열질환 사고 위험 증가에 대응하여 29개 공사현장에 대한 긴급 안전점검을 실시한다. 물, 냉방장치, 휴식, 보냉장구, 119신고 등 '폭염안전 5대 기본수칙' 준수 여부를 중점 점검할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-04T11:56:05+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "AI 디지털 트윈으로 건설현장 혁신…플럭시티, 호반 건설엑스포서 기술... - venturesquare.net",
     "link": "https://www.venturesquare.net/1103342/",
     "description": "건설현장 안전관리부터 골프장 운영까지 AI와 디지털 트윈을 접목한 통합관제 기술을 공개하며 산업 현장의 운영 혁신 사례를 선보일 예정이다. 플럭시티는 오는...",
@@ -32250,20 +32266,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-01T00:04:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "6개의 새로운 풀뿌리 노동조합이 설립되어 베트남 건설 노동조합의 네트워크가 확장되었다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTB1T2ZzN09UZXVtZENjMDFfVUZQNXZZa19UVXRFdWI4ZWYzNVNQcjN1Y1RqanFTQ1Flc2R0b2R0NEw1WWtPSzVYUnE2RjZWWGp0R2xVUzZMNHdsMFlnb25ySXcxaWI0R2JtVU1MT3B5RFB5bV93MjNIbXdWR2o2WjBzeTlDcFY3ZWlOcE5uakZpMjJ0TmQtQ3FIN3d0Mk1obHNDNjB3?oc=5",
-    "description": "6개의 새로운 풀뿌리 노동조합과 338명의 신규 조합원이 추가되면서, 베트남 건설 노동조합은 이제 200개의 산하 노동조합과 약 13만 1천 명의 조합원 및 노동자를 보유하게 되었습니다.",
-    "cluster_id": "2854",
-    "publisher": "Vietnam.vn",
-    "title_clean": "6개의 새로운 풀뿌리 노동조합이 설립되어 베트남 건설 노동조합의 네트워크가 확장되었다.",
-    "summary": "베트남 건설 노동조합이 6개의 새로운 풀뿌리 노동조합과 338명의 신규 조합원을 확보하며 조직을 확장했다. 현재 200개의 산하 노동조합과 약 13만 1천 명의 조합원을 보유하게 되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-01T00:04:57+09:00",
-    "importance": 2
   }
 ]
