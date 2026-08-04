@@ -7435,6 +7435,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"온열질환 막아라\"...건설현장 체감온도 실시간 관리 - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0102_202608041234441657",
+    "description": "[기자] 롯데건설 안전상황센터에 나와 있습니다. 손 기자 뒤로 모니터가 보이는데, 어떤 공간에 나와 있나요? [기자] 네 제 뒤로 보이는 화면은 건설현장 80곳의 폭염 상황을 실시간으로 확인할 수 있는 안전 상황 관제...",
+    "published_at": "2026-08-04T12:34:00+09:00",
+    "cluster_id": "afd6",
+    "publisher": "ytn.co.kr",
+    "title_clean": "\"온열질환 막아라\"...건설현장 체감온도 실시간 관리",
+    "summary": "롯데건설이 건설현장 80곳의 폭염 상황을 실시간으로 모니터링하는 안전상황센터를 운영하며 온열질환 예방에 나섰다. 체감온도 실시간 관리 시스템으로 근로자 안전관리를 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T12:46:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -23379,19 +23395,19 @@
     "importance": 4
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "NH증권 \"두산퓨얼셀, 수주 규모 불확실성 확대…목표가↓\" - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20260728029100008?input=1195m",
-    "description": "NH투자증권은 28일 두산퓨얼셀에 대해 수주 규모에 대한 불확실성이 확대됐다며 목표주가를 기존 8만원에서 3만4천원으로 하향 조정했다. 투자의견은 '보유'를 유지했다. 두산퓨얼셀의 전장 종가는 3만원이다. 정연승...",
-    "published_at": "2026-07-28T08:50:00+09:00",
-    "cluster_id": "1eae",
-    "publisher": "yna.co.kr",
-    "title_clean": "NH증권 \"두산퓨얼셀, 수주 규모 불확실성 확대…목표가↓\"",
-    "summary": "NH투자증권이 두산퓨얼셀의 수주 규모 불확실성 확대를 이유로 목표주가를 8만원에서 3만4천원으로 대폭 하향 조정했다. 투자의견은 보유를 유지했으나, 기계설비건설 관련 주요 수주 전망이 부정적으로 평가되고 있다.",
+    "title": "집값보다 거래가 사라지는 시장 경계해야 - housingherald.co.kr",
+    "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=62457",
+    "description": "기존 주택 거래가 줄어들면 신규 분양시장도 영향을 받고, 이는 착공 감소와 건설경기 둔화로 이어질 수 있다. 결국 공급 확대라는 정책 목표도 달성하기 어려워진다. 공급은 발표가 아니라 실제 착공과 입주로 완성되기...",
+    "published_at": "2026-08-04T12:38:00+09:00",
+    "cluster_id": "003f",
+    "publisher": "housingherald.co.kr",
+    "title_clean": "집값보다 거래가 사라지는 시장 경계해야",
+    "summary": "기존 주택 거래 감소가 신규 분양, 착공, 건설경기에 부정적 영향을 미칠 수 있다는 경고. 공급 확대 정책 목표 달성이 어려워질 수 있다는 우려를 제시하는 기사.",
     "sentiment": "negative",
-    "collected_at": "2026-07-28T08:59:38+09:00",
+    "collected_at": "2026-08-04T12:46:04+09:00",
     "importance": 4
   },
   {
@@ -32246,21 +32262,6 @@
     "summary": "조병옥 음성군수가 폭염 속 무더위쉼터와 건설현장을 방문하여 취약계층 보호 및 현장 안전관리 상황을 점검했다. 무더위로 인한 안전 관리와 복지 시설 운영 현황을 확인하는 행정 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-01T08:39:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "공정, 혁신, 포용의 경기 - 경기도청",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sc3lQbDExUmlmM3dfVk5uMGdmaFBiMVZKaFdfd0R1b2JqVFJRTXBRUjNrcHBGOWkzUXc5WmRkdUp1aUxqUkhPQzFWOHhoemFUdFhwZFI1VG9sbENmY1BCeFA5ZTVUbFRlQkdQTHdZYXJpXzEzT1NhV1NCSlRYbDA?oc=5",
-    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
-    "cluster_id": "5269",
-    "publisher": "경기도청",
-    "title_clean": "공정, 혁신, 포용의 경기",
-    "summary": "경기도의 공정, 혁신, 포용이라는 주요 정책 기조와 도민 참여, 행정 서비스 안내에 관한 일반적인 소식입니다. 건설업계와 직접적인 관련성이 없는 광역 행정 공지사항입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-01T07:59:40+09:00",
     "importance": 2
   }
 ]
