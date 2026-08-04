@@ -23481,6 +23481,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "동부vs극동, 송파하남선 4공구 이달 25일 적격자 선정 심의 개최 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xZE1Dalk2MHJ0ZGd5NHBnWm9qc3A0bjlESnM4cWdQVVNjYUUyOG1DOHhtekZZNHIyV3pLWlJOcTA3eExjdFJlR3J6U0RxN3U5SWJfeS13azAzanNlMGd5Y203T0I?oc=5",
+    "description": "경기도가 ‘송파∼하남 간 광역철도 건설사업’(이하 송파하남선) 3공구에 이어 4공구 실시설계 적격자 선정 절차를 본격화한다. 이달 25일 심의를 열고 동부건설과 극동건설 중 한 곳을 설계·건설 담당자로 지정할 계획이다. 경기도는 턴키(설계·시공 일괄 진행) 방식의 송파하남선 4공구 적격자 선정 심의를 담당할 위원 15명을 확정해 오늘(4일) 공고했다. 경기도청을 비롯해 국토교통부·국방시설본부·인천국제공항공사 소속 관계자 등으로 꾸려지는 심의위원단은 7개 분야(▲철도 ▲토목구조 ▲토질·기초 ▲토목시공 ▲건축계획 ▲기계 ▲전기",
+    "published_at": "2026-08-04T17:00:01+09:00",
+    "cluster_id": "5f26",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "동부vs극동, 송파하남선 4공구 이달 25일 적격자 선정 심의 개최",
+    "summary": "경기도가 송파하남선 4공구 실시설계 적격자 선정 심의를 이달 25일 개최하며, 동부건설과 극동건설 중 한 곳을 설계·시공 담당자로 지정할 계획이다. 턴키 방식의 대규모 광역철도 건설사업으로 건설업계에 수주 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-04T23:09:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32256,20 +32272,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-03T09:28:29+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설 김보현, 신입사원 간담회…“안전·품질 최우선” 강조 - 서울타임즈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hWDRESEthb3lQdWpBeUlOQTB1ZTc4SGtRdUQwNGFOVHdjTnRVaXlPUnpVdEJaclpfZm9yZC01dnpqTkh3UkphVUtWNFZ4czFqUmFwUG1VYVVMSWpQUXdnVzVqQ0lvQmVqTFNz?oc=5",
-    "description": "[서울타임즈뉴스 = 서연옥 기자] 대우건설은 김보현 사장이 지난달 30일 수원 인재경영원에서 2026년 하반기 신입사원들과 간담회를 열고 회사의 경영 방향과 핵심가치를 공유했다고 3일 밝혔다. 이날 간담회에는 김 사장을 비롯한 주요 임원진이 참석해 신입사원들의 회사 생활과 조직문화에 대한 의견을 청취하고 질의응답을 진행했다. 김 사장은 \"62명의",
-    "cluster_id": "0512",
-    "publisher": "서울타임즈뉴스",
-    "title_clean": "대우건설 김보현, 신입사원 간담회…“안전·품질 최우선” 강조",
-    "summary": "대우건설 김보현 사장이 2026년 하반기 신입사원 62명과 간담회를 열어 안전·품질 최우선 경영 방향을 공유했다. 임원진과 함께 신입사원들의 의견을 청취하고 회사의 핵심가치에 대해 소통했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T09:28:29+09:00",
-    "importance": 2
   }
 ]
