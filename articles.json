@@ -7469,23 +7469,6 @@
     "importance": 6
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설협회, 서귀포산업과학고에 장학금 전달 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KSEk1SjJyNlFEcGJrbURrVUc4Z2paMWUwMGZ1eURqUWFSQW1BUGNZbGZleWIzTFN0TENrdUFoNFh4Mmp5Yk91WGxUaTZBUThzdTJ0LXJxcWlVbFhuTWFUTVJzaXI4REx6SlA1Rg?oc=5",
-    "description": "대한기계설비건설협회(회장 허용주)는 지난 3일 서귀포 산업과학고등학교에서 스마트에너지설비과 학생들에게 장학금 1000만원을 전달했다.이날 장학금 전달식에는 제주도",
-    "published_at": "2026-07-06T18:00:00+09:00",
-    "cluster_id": "485d",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비건설협회, 서귀포산업과학고에 장학금 전달",
-    "summary": "대한기계설비건설협회가 서귀포산업과학고 스마트에너지설비과 학생들에게 1000만원의 장학금을 전달했다. 업계의 미래 인력 양성을 위한 사회공헌 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T02:30:29+09:00",
-    "event_label": "대한기계설비건설협회 서귀포산업과학고에 장학금 1000만원 전달",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23437,6 +23420,22 @@
     "summary": "두산에너빌리티가 2분기 영업이익 16% 증가, 수주잔고 확대 등 호실적을 기록했으나 증권사들은 금리 상승과 시장 변동성을 반영해 목표가를 하향 조정했다. 다만 원전·SMR·가스터빈 중심의 수주 확대 가능성을 높게 평가하며 매수 의견을 유지했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T15:48:25+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'신축' 벽 넘은 건자재… 주택건설 불황에도 웃었다 - mt.co.kr",
+    "link": "https://www.mt.co.kr/industry/2026/08/06/2026080519273420010",
+    "description": "자동차소재와 하이테크 건자재, 실리콘 등으로 사업포트폴리오를 넓힌 기업들이 건설경기 침체에도 실적방어에 성공하면서 기나긴 불황을 버티는 새로운 성장전략으로 자리잡는 모습이다. 5일 업계에 따르면...",
+    "published_at": "2026-08-06T03:00:00+09:00",
+    "cluster_id": "05dd",
+    "publisher": "mt.co.kr",
+    "title_clean": "'신축' 벽 넘은 건자재… 주택건설 불황에도 웃었다",
+    "summary": "건설경기 침체 속에서도 자동차소재, 하이테크 건자재, 실리콘 등으로 사업 다각화한 기업들이 실적을 방어하고 있다. 건자재 업체들이 포트폴리오 확대를 통해 불황 극복의 새로운 전략으로 대응 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T03:03:49+09:00",
     "importance": 2
   },
   {
