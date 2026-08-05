@@ -7469,23 +7469,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합 ‘중동 전쟁 위기 대응 TF’ 성과 가시화 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20064473?ref=naver",
-    "description": "전문건설공제조합이 중동 리스크 장기화에 대비해 올해 5월 출범시킨 전담 태스크포스를 통해 금융·법률·리스크관리 전반의 조합원사 지원 성과를 내고 있다. 7일 전문건설공제조합은 중동 리스크 장기화에 따른...",
-    "published_at": "2026-07-07T07:57:00+09:00",
-    "cluster_id": "c87a",
-    "publisher": "sedaily.com",
-    "title_clean": "전문건설공제조합 ‘중동 전쟁 위기 대응 TF’ 성과 가시화",
-    "summary": "전문건설공제조합이 5월 출범한 중동 리스크 대응 TF를 통해 조합원사에 대한 금융·법률·리스크관리 지원 성과를 가시화하고 있다. 중동 전쟁 위기 장기화에 대비한 조직적 대응 체계를 구축하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-07T08:04:34+09:00",
-    "event_label": "전문건설공제조합 중동 전쟁 위기 대응 TF 성과 가시화",
-    "importance": 6
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23438,6 +23421,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-29T16:08:58+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "영동군, 폭염 대응 강화…현장 안전관리와 건강돌봄 병행 - discoverynews.kr",
+    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1097952",
+    "description": "연일 이어지는 폭염이 계속되는 가운데 영동군이 건설현장 안전관리와 건강취약계층 보호를 동시에 강화하며 현장 중심의 대응에 나섰다. 현장 근로자의 온열질환 예방과 독거노인 등 고위험군 건강관리를 병행해 폭염...",
+    "published_at": "2026-08-06T08:08:00+09:00",
+    "cluster_id": "647f",
+    "publisher": "discoverynews.kr",
+    "title_clean": "영동군, 폭염 대응 강화…현장 안전관리와 건강돌봄 병행",
+    "summary": "영동군이 폭염 대응으로 건설현장 안전관리를 강화하고 현장 근로자의 온열질환 예방에 나섰다. 건설현장에서의 안전 기준 강화로 업계의 규제 부담이 증가할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T08:13:36+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
