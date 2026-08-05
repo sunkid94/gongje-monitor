@@ -7486,6 +7486,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주요공시] 알테오젠, 두산퓨얼셀, SK하이닉스, 고려아연, 한솔제지 외 - kdpress.co.kr",
+    "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=207549",
+    "description": "주요 공시 흐름은 하나머티리얼즈 교환사채 발행, 알테오젠 ALT-B4 독점적 라이선스 계약, 두산퓨얼셀 독일 SOFC 연료전지 Stack 공급계약, LG씨엔에스·고려아연·한솔제지·현대백화점·대화제약 배당...",
+    "published_at": "2026-08-05T23:58:00+09:00",
+    "cluster_id": "f8a6",
+    "publisher": "kdpress.co.kr",
+    "title_clean": "[주요공시] 알테오젠, 두산퓨얼셀, SK하이닉스, 고려아연, 한솔제지 외",
+    "summary": "알테오젠, 두산퓨얼셀, SK하이닉스, 고려아연, 한솔제지 등 주요 기업들의 교환사채 발행, 라이선스 계약, 연료전지 공급계약, 배당 등 다양한 공시가 공개되었습니다. 건설업계와 직접적인 연관성이 제한적이며 주로 제조·에너지·유통업 중심의 공시입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-06T00:08:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23422,22 +23438,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-29T15:28:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[굿모닝! 29일 건설업계 소식] 현대건설·롯데건설·우미희망재단·이랜드건설 - 굿모닝경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSlJxNkg3cmY5d2hkMU1aVEdieGpUbWJ0dFNUTlJEdS1McDhSd1NkNHpiZ3FPYVROaHFqSGJqRFlPRkdYeFBpdF90Z19UX1lPVVZqNTZ0ZTlQSEFxeTF5Qllqb0pxdEwwalB0Ng?oc=5",
-    "description": "현대건설은 서울 서초구 '디에이치 클래스트'의 내장목공사 현장에 업계 처음으로 산업용 착용 로봇 '엑스블 숄더'를 도입했다. 내장목공사의 경우 천장 작업은 근로자",
-    "published_at": "2026-07-29T14:53:43+09:00",
-    "cluster_id": "c1dd",
-    "publisher": "굿모닝경제",
-    "title_clean": "[굿모닝! 29일 건설업계 소식] 현대건설·롯데건설·우미희망재단·이랜드건설",
-    "summary": "현대건설이 서울 서초구 '디에이치 클래스트' 프로젝트의 내장목공사 현장에 업계 최초로 산업용 착용 로봇 '엑스블 숄더'를 도입했다. 이는 천장 작업 등 고도의 육체적 부담이 큰 작업의 자동화를 통해 근로자 안전과 생산성 향상을 추진하는 시도로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:28:56+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
