@@ -23426,6 +23426,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "DL이앤씨, AI 기반 스마트 안전관리 도입…건설현장 안전체계 고도화 - smarttoday.co.kr",
+    "link": "https://www.smarttoday.co.kr/ko-kr/articles/110164",
+    "description": "|스마트투데이=나기천 기자| DL이앤씨가 인공지능(AI)과 데이터 기반의 스마트 안전기술을 도입하고 근로자 복지를 확대하는 등 건설 현장의 안전관리 체계 고도화에 나선다고 6일 밝혔다. DL이앤씨는 '안전 최우선...",
+    "published_at": "2026-08-06T08:42:00+09:00",
+    "cluster_id": "0dba",
+    "publisher": "smarttoday.co.kr",
+    "title_clean": "DL이앤씨, AI 기반 스마트 안전관리 도입…건설현장 안전체계 고도화",
+    "summary": "DL이앤씨가 AI와 데이터 기반의 스마트 안전기술을 건설현장에 도입하여 안전관리 체계를 고도화하고 근로자 복지를 확대한다. 이는 건설업계의 안전 수준 향상과 기술 혁신을 선도하는 사례로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T08:48:33+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "AI 드론부터 신약개발까지…스타트업 22곳, 대기업·공공기관과 실증 나... - biz.heraldcorp.com",
     "link": "https://biz.heraldcorp.com/article/10832352?ref=naver",
     "description": "바이오·헬스 분야에서는 국민건강보험 일산병원의 치료보조 헬스케어 제품 임상 실증과 호반건설의 건설현장 안전·건강 모니터링 플랫폼, 공동주택 AI 헬스케어 플랫폼 구축, HLB생명과학R&D의 AI 신약개발 과제 등이...",
@@ -32241,21 +32257,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-03T18:11:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"다주택자 중과 한시 완화\"…종부세 죄고 '양도세 퇴로' 열었다[2026 세제... - fnnews.com",
-    "link": "http://www.fnnews.com/news/202607311725013083",
-    "description": "지방 건설경기 부양을 위한 '세컨드홈' 과세특례 대상도 대폭 확대된다. 기존에는 인구감소지역 및 관심지역 내 공시가격 9억원(관심지역 4억원) 이하 주택 취득 시에만 1세대 1주택 특례 및 다주택 중과 주택 수 제외...",
-    "published_at": "2026-08-03T18:01:00+09:00",
-    "cluster_id": "bd9e",
-    "publisher": "fnnews.com",
-    "title_clean": "\"다주택자 중과 한시 완화\"…종부세 죄고 '양도세 퇴로' 열었다[2026 세제...",
-    "summary": "정부가 2026년 세제 개편안으로 다주택자 종부세는 인상하되 양도세 특례 대상을 확대하고, 지방 건설경기 부양을 위해 세컨드홈 과세특례 적용 대상을 대폭 확대할 계획이다. 인구감소지역과 관심지역의 주택 취득 시 1세대 1주택 특례 및 다주택 중과 제외 혜택이 늘어나면서 지방 주택시장 활성화를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T18:06:03+09:00",
-    "importance": 2
   }
 ]
