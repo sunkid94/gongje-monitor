@@ -23423,6 +23423,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[8ㆍ11 하도급법 시행] 건설업‘3종 규제’ 완성…“지급보증 무조건” - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15NVVCS2w1c1JEY1pndFNIN0w0a1ItWHlOOU5FWmdXSlBpeGpMRUgtZm90TXJUZXFDbDB3bkZmWVo2M0o2a0U5UGF1b0JUdVVadjhnSlRPRTRlSjhTSUpCMXlIZWlnQXRsN3dQWnJqZlByNkxN?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE15NVVCS2w1c1JEY1pndFNIN0w0a1ItWHlOOU5FWmdXSlBpeGpMRUgtZm90TXJUZXFDbDB3bkZmWVo2M0o2a0U5UGF1b0JUdVVadjhnSlRPRTRlSjhTSUpCMXlIZWlnQXRsN3dQWnJqZlByNkxN?oc=5\" target=\"_blank\">[8ㆍ11 하도급법 시행] 건설업‘3종 규제’ 완성…“지급보증 무조건”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "25e2",
+    "publisher": "대한경제",
+    "title_clean": "[8ㆍ11 하도급법 시행] 건설업‘3종 규제’ 완성…“지급보증 무조건”",
+    "summary": "8월 11일 하도급법 시행으로 건설업에 '3종 규제'가 완성되며, 지급보증이 의무화된다. 이는 건설업계에 새로운 규제 요건을 추가하는 내용으로, 기계설비건설공제조합 등 업계 전반에 영향을 미칠 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T06:38:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32242,21 +32257,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-03T18:01:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "불법하도급 규제 대수술…시행령 개정이 바꾼 건설현장의 법적 기준은? · 달라지는 점은? - supple.kr",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aSVBrRERlbUNSNFdMS21BNkdMWEc5Qmt4bEZZWVZieDc3eGRoYXYwczYyRUktQ2ZsYU1rVldLVG1pRGpZZEJ4eHpBN0VmeWl3aElZcTJOQjdZUFM1?oc=5",
-    "description": "머니투데이 · 경제/금융 핵심 정리 · -김형진 법무법인(유한) 대륜 변호사 법률칼럼 최근 국토교통부가",
-    "published_at": "2026-08-03T08:41:00+00:00",
-    "cluster_id": "92d0",
-    "publisher": "supple.kr",
-    "title_clean": "불법하도급 규제 대수술…시행령 개정이 바꾼 건설현장의 법적 기준은? · 달라지는 점은?",
-    "summary": "국토교통부가 불법하도급 규제를 강화하기 위해 시행령을 개정했으며, 이에 따라 건설현장의 법적 기준이 변경되었다. 법률 전문가가 달라지는 규제 내용을 분석하는 기사다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-03T18:01:19+09:00",
-    "importance": 4
   }
 ]
