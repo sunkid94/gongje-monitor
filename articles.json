@@ -23463,6 +23463,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "AI 붐이 초래한 고금리 기조…하반기 건설경기 문제없나 - snmnews.com",
+    "link": "http://www.snmnews.com/news/articleView.html?idxno=572810",
+    "description": "이처럼 데이터센터 특수는 건설경기 장기 침체와 중국발 공급과잉으로 신음하던 국내 철강산업에 모처럼 단비로 다가왔다. 하지만 현장에서 만난 철강업계 관계자들의 표정은 여전히 어둡기만 하다. 데이터센터...",
+    "published_at": "2026-08-05T09:00:00+09:00",
+    "cluster_id": "5ebd",
+    "publisher": "snmnews.com",
+    "title_clean": "AI 붐이 초래한 고금리 기조…하반기 건설경기 문제없나",
+    "summary": "AI 붐으로 데이터센터 수요가 증가하면서 침체된 국내 철강산업에 긍정적 영향을 미치고 있다. 다만 고금리 기조와 중국발 공급과잉 등으로 인해 업계 전망이 여전히 불확실한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-05T09:03:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32246,22 +32262,6 @@
     "title_clean": "초음파·적외선으로 충돌·끼임 막는다…롯데건설, 고소작업대 안전 강...",
     "summary": "롯데건설이 초음파·적외선 기술을 활용한 '고소작업대 스마트 과상승 방지 시스템'을 개발해 충돌·끼임 사고 예방에 나섰다. 향후 AI, 로봇 등 스마트건설 기술을 현장에 확대 적용할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-03T09:48:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설, 신입사원 간담회 개최…김보현 사장 \"AI·스마트건설 표준 만... - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=278443",
-    "description": "아울러 AI 및 스마트건설 시대에 선제적으로 대응해 대우건설이 스마트건설의 새로운 표준으로 자리매김할 것을 당부했습니다. 이어 진행된 '한마음의 장' 행사에서는 신입사원들이 직접 준비한 팀별 공연과...",
-    "published_at": "2026-08-03T09:38:00+09:00",
-    "cluster_id": "bc95",
-    "publisher": "paxetv.com",
-    "title_clean": "대우건설, 신입사원 간담회 개최…김보현 사장 \"AI·스마트건설 표준 만...",
-    "summary": "대우건설이 신입사원 간담회를 개최하고 김보현 사장이 AI 및 스마트건설 시대에 선제적으로 대응하여 스마트건설의 새로운 표준을 만들 것을 강조했다. 신입사원들이 참여하는 '한마음의 장' 행사를 통해 회사 문화를 형성하고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-03T09:48:58+09:00",
     "importance": 2
   }
