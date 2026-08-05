@@ -23440,6 +23440,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "광명시 폭염중대경보 대응 체계 강화 - newsclaim.co.kr",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071291",
+    "description": "이와 함께 어르신과 장애인을 대상으로 방문 건강관리를 실시하고, 노숙인 밀집 지역 순찰과 지원, 건설현장 안전점검, 농업 현장 예찰 등 분야별 대응도 이어가고 있습니다. 온열질환 발생 위험이 높은 낮 12시부터 오후...",
+    "published_at": "2026-08-05T21:44:00+09:00",
+    "cluster_id": "5649",
+    "publisher": "newsclaim.co.kr",
+    "title_clean": "광명시 폭염중대경보 대응 체계 강화",
+    "summary": "광명시가 폭염중대경보에 대응하여 취약계층 방문 건강관리, 노숙인 지역 순찰, 건설현장 안전점검 등을 강화하고 있다. 낮 12시부터 오후 시간대 온열질환 예방을 중점 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T21:48:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32243,22 +32259,6 @@
     "summary": "롯데건설이 비접촉식 센서 전문기업과 협업하여 '고소작업대 스마트 과상승 방지 시스템'을 개발·적용했다. 기존 기계식 안전장치의 한계를 보완한 스마트 안전기술로 고소작업 중 충돌·끼임 사고 예방에 나섰다.",
     "sentiment": "positive",
     "collected_at": "2026-08-03T17:24:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "추미애 경기도지사, 폭염 속 화성동부소방서 공사현장 점검 - globalepic.co.kr",
-    "link": "http://www.globalepic.co.kr/view.php?ud=2026080315070145525f69d33b22_29",
-    "description": "추 지사는 이날 화성시 영천동 화성동부소방서 신축현장에서 공사 진행 상황과 폭염대책을 보고받은 뒤 건설현장 안전시설을 살피고 근로자 20여 명을 만나 애로사항을 청취했다. 추 지사는 \"폭염중대경보가 발령된...",
-    "published_at": "2026-08-03T17:02:00+09:00",
-    "cluster_id": "1d5f",
-    "publisher": "globalepic.co.kr",
-    "title_clean": "추미애 경기도지사, 폭염 속 화성동부소방서 공사현장 점검",
-    "summary": "추미애 경기도지사가 화성동부소방서 신축공사 현장을 방문하여 공사 진행 상황과 폭염 대책을 점검했다. 건설현장 안전시설 확인 및 근로자 애로사항을 청취하며 폭염 속 건설 현장의 근로자 보호에 관심을 기울였다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T17:11:17+09:00",
     "importance": 2
   }
 ]
