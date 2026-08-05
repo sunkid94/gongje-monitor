@@ -23440,6 +23440,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "재경오현봉사단·서울시립대 스마트건설관리연구실, 공동 하계봉사활동 펼쳐 - 뉴스N제주",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0bWZ4ekxlQ1pUeFF5NDh0d0lHdVBrZWhhUTZ6dWRBeEVTNXc3SklvcHJaUXprNzJ4cDg4bDNNNzRwSmZlUnI5a09CNmxzb1lWRDJxb25wY3R3X0l5cGstc3dGUlBIWUdPME1TcQ?oc=5",
+    "description": "재경오현봉사단(이사장 이일현)과 서울시립대학교 스마트건설관리연구실이 지난 7월 30일 서울 중랑구 신내2동 서울시립대 종합사회복지관을 찾아 뜻깊은 하계 공동 봉사활동을 펼쳤다.이번 봉사에는 재경오현봉사단 현창택 명예교수를 비롯한 봉사단원 3명과 서울시립대 스마트건설관리연구실 이상훈 교수 및 연구원 등 총 13명이 참여해 지역 이웃들에게 따뜻한 정을 전했다.무더운 날씨 속에서도 오전 9시 50분 복지관에 모인 참가자들은 10시에 김채원 사회복지사로부터 안전 교육과 활동 유의사항을 안내받은 뒤 본격적인 활동에 나섰다.오전 10시 20분",
+    "published_at": "2026-08-05T17:42:00+09:00",
+    "cluster_id": "47e8",
+    "publisher": "뉴스N제주",
+    "title_clean": "재경오현봉사단·서울시립대 스마트건설관리연구실, 공동 하계봉사활동 펼쳐",
+    "summary": "재경오현봉사단과 서울시립대 스마트건설관리연구실이 7월 30일 중랑구 종합사회복지관에서 공동 하계봉사활동을 실시했다. 13명의 참가자들이 지역 이웃을 위한 봉사활동에 참여해 따뜻한 정을 전했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-05T23:48:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32243,21 +32259,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-03T17:40:38+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "동부건설, 시공능력평가 25위로…시평액 2조원대 회복 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44ck1jb2F3WnpWQUVNM3poQTRYSWVmb3YzSW9hNUlNQmdXOHl1VFpLUmRoT1IxVEVIRDNZSTBHMlBqZ3hPWjlMLWNUcmNRZHlNNnVWckJmZW12WTFVQjh5TnBjSWVFeWZmWXfSAW9BVV95cUxOaktJTl8yTmVHU2xLbVJrVUVmMmxlOGFFczhEQi1yZ2N2X1JVaDVlN0V1WDFYTXNpb0xfY1dPUkhXZ3VVN3hJeGthWTE3VG4zbW1aV2FZN1hIR3ppUC14NzhKbEpYWS14RHNOZW5QM2c?oc=5",
-    "description": "동부건설이 시공능력평가액 2조원을 회복하며 종합순위 20위권 중반에 안착했다. 동부건설은 국토교통부가 발표한 '2026년도 건설업체 시공능력평가'에서 토목건축공사업 평가액 2조215억원으로 25위를 기록했다고 3일 밝혔다.",
-    "published_at": "2026-08-03T17:24:24+09:00",
-    "cluster_id": "fa12",
-    "publisher": "머니투데이",
-    "title_clean": "동부건설, 시공능력평가 25위로…시평액 2조원대 회복 - 머니투데이",
-    "summary": "동부건설이 2026년도 건설업체 시공능력평가에서 평가액 2조215억원으로 25위를 기록했다. 이는 시공능력평가액이 2조원대를 회복한 것으로, 건설업체의 경영 안정화를 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T17:35:28+09:00",
-    "importance": 2
   }
 ]
