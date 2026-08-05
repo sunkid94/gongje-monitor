@@ -23463,6 +23463,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설불황에 취약계층 일용직 일자리 타격…퇴직공제 적립 19만명↓ - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026080509275373628",
+    "description": "퇴직공제는 근로계약기간이 1년 미만인 일용·임시직 건설노동자를 대상으로 공사를 시공하는 건설사업주가 낸다. 공공공사는 1억원, 민간공사는 50억원 이상일 경우 사업주가 매달 근로자의 근로일을 따져...",
+    "published_at": "2026-08-05T09:27:00+09:00",
+    "cluster_id": "6875",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "건설불황에 취약계층 일용직 일자리 타격…퇴직공제 적립 19만명↓",
+    "summary": "건설경기 불황으로 인해 일용·임시직 건설노동자의 퇴직공제 적립이 감소하고 있다. 근로일 기준으로 적립되는 퇴직공제 규모가 19만 명 수준에서 줄어들면서 취약계층 노동자의 일자리와 노후보장이 타격을 받고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T09:33:57+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-03T09:48:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[워치칼럼] 날씨만 쫓아가는 폭염 정책 - newswatch.kr",
-    "link": "http://www.newswatch.kr/news/articleView.html?idxno=80612",
-    "description": "건설 노동자, 배달원, 농부, 환경미화원, 그리고 수많은 야외 노동자들이 생산성 압박 때문에 안전보다 위험한 환경에서 계속 일하고 있다. 휴식과 수분 섭취를 권장하는 지침이 있지만, 실제 시행은 미흡한 실정이다....",
-    "published_at": "2026-08-03T09:42:00+09:00",
-    "cluster_id": "4e88",
-    "publisher": "newswatch.kr",
-    "title_clean": "[워치칼럼] 날씨만 쫓아가는 폭염 정책",
-    "summary": "야외 노동자들이 폭염 속에서도 생산성 압박으로 인해 안전 지침을 제대로 따르지 못하고 위험한 환경에서 일하고 있다. 휴식과 수분 섭취 권장 지침이 실제로는 제대로 시행되지 않고 있는 상황을 지적한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-03T09:48:58+09:00",
-    "importance": 4
   }
 ]
