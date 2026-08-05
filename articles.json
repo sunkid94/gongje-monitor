@@ -23440,6 +23440,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "GH, 친환경 태양광 ‘GH 케어스테이션’ 확대… 건설현장 안전 강화 - 천지일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PdlBZZkc0WFBUZFI4Z3NwRHlJWlNKSW11SUV1bzBHZFZ0WFlsRkdVMzc0Y0U1X3h4X0QzUXVpSGloaHdTd3RjQWpVSW1FbnFQS0ZiUHBQeVE0NlU4TjRpUXZfd2F5VlAtc3c?oc=5",
+    "description": "[천지일보 경기=김정자 기자] 경기주택도시공사(GH)가 친환경 태양광 발전을 활용한 스마트 휴게시설 ‘GH 케어스테이션’을 확대 도입하며 건설현장 근로자의 안전과 복지 향상에 나섰다.GH는 양주·안성 부지조성공사 현장에 ‘GH 케어스테이션’ 3기를 추가 설치해 본격 운영한다고 5일 밝",
+    "published_at": "2026-08-06T00:22:10+09:00",
+    "cluster_id": "18d2",
+    "publisher": "천지일보",
+    "title_clean": "GH, 친환경 태양광 ‘GH 케어스테이션’ 확대… 건설현장 안전 강화",
+    "summary": "경기주택도시공사(GH)가 친환경 태양광 발전을 활용한 스마트 휴게시설 'GH 케어스테이션'을 양주·안성 건설현장에 추가 설치해 운영을 확대하고 있다. 이는 건설현장 근로자의 안전과 복지 향상을 목표로 한 조치다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T00:28:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32243,21 +32259,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-03T17:42:45+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[르포]드디어 양산 폭염 주춤…\"가을 빨리 오라고 기도까지\" - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6557559?utm_source=naver&utm_medium=article&utm_campaign=20260803053512",
-    "description": "건설노동자 이모(50대)씨는 \"덥지만 먹고 살아야 하니까 한다\"며 \"쉬엄쉬엄이라도 일은 해야하지 않겠나\"라고 말했다. 이들은 양산시청역과 시청을 잇는 연결통로에서 승객들이 떨어지지 않도록 철제 난간을 설치...",
-    "published_at": "2026-08-03T17:36:00+09:00",
-    "cluster_id": "9cc4",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "[르포]드디어 양산 폭염 주춤…\"가을 빨리 오라고 기도까지\"",
-    "summary": "극심한 폭염 속에서 건설노동자들이 열악한 근무 환경을 견디며 일하고 있다. 양산시청역 연결통로 공사 등 현장에서 노동자들은 생계를 위해 계속 작업을 진행하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-03T17:40:38+09:00",
-    "importance": 4
   }
 ]
