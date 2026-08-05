@@ -23440,6 +23440,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"체납액 징수부터 생계 지원까지\"…경북도, 체납관리단 본격 가동 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3656010",
+    "description": "황명석 경북도 행정부지사는 \"체납관리단이 사명감과 책임감을 갖고 공정한 조세질서 확립과 복지 사각지대 해소에 앞장서 주길 바란다\"며 \"수도권 집중과 건설경기 침체 등으로 지방재정 여건이 어려운 만큼...",
+    "published_at": "2026-08-05T23:56:00+09:00",
+    "cluster_id": "795e",
+    "publisher": "gukjenews.com",
+    "title_clean": "\"체납액 징수부터 생계 지원까지\"…경북도, 체납관리단 본격 가동",
+    "summary": "경북도가 체납관리단을 출범시켜 세금 체납액 징수와 생계 지원을 병행하는 정책을 추진한다. 지방재정 악화로 인한 조세질서 확립과 복지 사각지대 해소를 목표로 하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T23:58:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32240,22 +32256,6 @@
     "publisher": "nocutnews.co.kr",
     "title_clean": "[르포]드디어 양산 폭염 주춤…\"가을 빨리 오라고 기도까지\"",
     "summary": "극심한 폭염 속에서 건설노동자들이 열악한 근무 환경을 견디며 일하고 있다. 양산시청역 연결통로 공사 등 현장에서 노동자들은 생계를 위해 계속 작업을 진행하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-03T17:40:38+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "세종시, 폭염 속 건설현장 근로자 안전 점검 - 세종시민일보",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zc295b2ROUkdFWGZuQXdYTC1YTmRCemZ0aHgyTklnUTVLNnd5clRfU016VG5rTERJdm1hOUItTW0xXzJFOGJUNUJ0Y3FNZkpkcFBiUktMMnV3ZHZIcXRqcTNvRUx2SWhCUE1GU0FPbHc2aFE?oc=5",
-    "description": "세종특별자치시(시장 조상호)는 행정안전부의 폭염 위기경보 '심각' 단계 격상에 따라 2026년 8월 3일 건설현장의 폭염 대응 상황을 집중 점검했다.이번 점검은",
-    "published_at": "2026-08-03T16:22:41+09:00",
-    "cluster_id": "d10f",
-    "publisher": "세종시민일보",
-    "title_clean": "세종시, 폭염 속 건설현장 근로자 안전 점검",
-    "summary": "세종시가 폭염 위기경보 '심각' 단계에 따라 건설현장의 폭염 대응 상황을 집중 점검했다. 이는 건설 현장의 근로자 안전을 확보하기 위한 행정조치로, 업계에 안전 규제 강화를 의미한다.",
     "sentiment": "negative",
     "collected_at": "2026-08-03T17:40:38+09:00",
     "importance": 4
