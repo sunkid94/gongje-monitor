@@ -7469,6 +7469,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“시공사 바꾸자” 계약 해지…소송전에 멈춰 선 정비사업 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2611321",
+    "description": "5일 정비업계에 따르면 서울 서초구 반포동 강남원효성빌라 재건축 조합은 최근 총회를 열고 대우건설의 시공사 지위를 해지하는 안건을 통과시켰다. 이곳은 대우건설이 지난해 6월 시공사로 선정되면서 한남더힐과 같은...",
+    "published_at": "2026-08-06T05:02:00+09:00",
+    "cluster_id": "715a",
+    "publisher": "etoday.co.kr",
+    "title_clean": "“시공사 바꾸자” 계약 해지…소송전에 멈춰 선 정비사업",
+    "summary": "서울 서초구 반포동 강남원효성빌라 재건축 조합이 총회를 통해 시공사로 선정된 지 1년여 만에 대우건설의 지위를 해지했다. 시공사 변경을 둘러싼 계약 분쟁으로 정비사업이 진행 중단 상태에 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T05:08:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23402,22 +23418,6 @@
     "publisher": "lawtv.kr",
     "title_clean": "\"대미투자 1호, 텍사스 가스발전소 유력\"",
     "summary": "한국 기업들이 미국 텍사스에 가스발전소 건설사업에 참여할 예정이며, 삼성물산·현대건설이 EPC를 맡고 두산에너빌리티가 가스터빈을 공급하는 등 관련 업계의 대규모 수주가 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:48:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[실적 후] 두산에너빌리티, 호실적에도 목표가 줄하향… \"원전·SMR 성장 기대는 유효\" - 인포스탁데일리",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JMFkzUEsyVDNDSF9ZQ2lVNWVTN0ZCcDI5ZHJmU0pwMXJhc19xQmlOZXl1TkZaWUsyb3FjdkptVE9UQWx4aHVWWWZHUWZLQ3A0eURnZXBGdlB5WHc1TEhIMXdER3MtdUl2NGRrcDhzVmFrd20wMmc?oc=5",
-    "description": "[인포스탁데일리=윤서연 기자] 두산에너빌리티(034020)가 2분기 영업이익 증가와 수주잔고 확대를 동시에 달성했다. 증권사들은 금리 상승과 시장 변동성을 반영해 목표주가를 일제히 낮췄지만 대형 원전과 소형모듈원전(SMR), 가스터빈을 중심으로 한 수주 확대 가능성을 높게 평가하며 매수 의견을 유지했다.두산에너빌리티는 올해 2분기 연결 기준 영업이익이 전년 동기 대비 16% 증가한 3143억원으로 잠정 집계됐다고지난 27일 공시했다. 같은 기간 매출은 4조7248억원으로 전년 동기보다 3% 늘었다. 영업이익은 직전 분기(2335억원",
-    "published_at": "2026-07-29T15:45:21+09:00",
-    "cluster_id": "a0ea",
-    "publisher": "인포스탁데일리",
-    "title_clean": "[실적 후] 두산에너빌리티, 호실적에도 목표가 줄하향… \"원전·SMR 성장 기대는 유효\"",
-    "summary": "두산에너빌리티가 2분기 영업이익 16% 증가, 수주잔고 확대 등 호실적을 기록했으나 증권사들은 금리 상승과 시장 변동성을 반영해 목표가를 하향 조정했다. 다만 원전·SMR·가스터빈 중심의 수주 확대 가능성을 높게 평가하며 매수 의견을 유지했다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T15:48:25+09:00",
     "importance": 2
