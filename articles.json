@@ -7486,6 +7486,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[증시전략] 뉴욕증시, 호르무즈 개방 기대·빅테크 부진에 혼조 마감 - biz.sbs.co.kr",
+    "link": "https://biz.sbs.co.kr/article_hub/20000326938?division=NAVER",
+    "description": "GS건설·현대건설·대우건설·DL이앤씨 등 일제히 급등 - AI 데이터센터·반도체 클러스터 투자 계획에 수주 확대 - 중동지역 재건 및 에너지 인프라 설립 사업 참여 기대도 Q. 코스닥은 4거래일 연속 오르며 모처럼...",
+    "published_at": "2026-08-06T07:10:00+09:00",
+    "cluster_id": "6954",
+    "publisher": "biz.sbs.co.kr",
+    "title_clean": "[증시전략] 뉴욕증시, 호르무즈 개방 기대·빅테크 부진에 혼조 마감",
+    "summary": "건설업체들이 AI 데이터센터·반도체 클러스터 투자와 중동 재건·에너지 인프라 사업 참여 기대로 일제히 급등했다. 건설업계가 신성장 시장 진출과 수주 확대 기회를 맞이하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T07:13:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -23419,22 +23435,6 @@
     "publisher": "khan.co.kr",
     "title_clean": "국내 조선 3사 2분기 호실적 냈지만…“미국에서 배 만들라” 러트윅 숙...",
     "summary": "국내 조선 3사(HD현대중공업, 한화오션, 삼성중공업)가 2분기에 LNG 운반선 등 고수익 선종 수주로 매출과 수익성 모두 호실적을 기록했다. 그러나 미국 정부의 선박 건조 정책이 국내 조선업계에 부담이 될 수 있는 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-29T16:08:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"계약금 5%·중도금 무이자\"…동부건설, '센트레빌 아스테리움 거제' 분... - inews24.com",
-    "link": "http://www.inews24.com/view/1989931",
-    "description": "삼성중공업 거제조선소와 한화오션 사업장까지는 차량으로 10분대에 이동할 수 있다. 동부건설 관계자는 \"센트레빌 아스테리움 거제는 계룡로와 국도우회도로 등과 가까워 거제 전역으로 이동하기 편리하다\"며...",
-    "published_at": "2026-07-29T16:01:00+09:00",
-    "cluster_id": "0610",
-    "publisher": "inews24.com",
-    "title_clean": "\"계약금 5%·중도금 무이자\"…동부건설, '센트레빌 아스테리움 거제' 분...",
-    "summary": "동부건설이 거제 지역에 '센트레빌 아스테리움 거제' 아파트를 분양하며 계약금 5%, 중도금 무이자 등의 분양 조건을 제시했다. 삼성중공업, 한화오션 등 주요 산업시설과의 근접성을 강조하며 접근성을 홍보하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-29T16:08:58+09:00",
     "importance": 2
