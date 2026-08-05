@@ -23440,6 +23440,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기지역 준공 반토막…집값 불안 키우는 '공급절벽' 오나 - 중부일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VZ3BEX0VLdUJBLWRjV2JFVDdTejNXeDdJNE95TDYyc044M1NESEYzVm9sSXlfUVlOREJ0WEFwUEowQXl2cFVKMmtMUFFObVFBdldGTjROdTVBQ19ocHdTX3lLSVVzMS1CbUdtQnVXdw?oc=5",
+    "description": "올해 상반기 경기도 내 준공 물량이 지난해 대비 절반 가까이 감소하면서 주택 공급 부족 현상이 지속될 것이란 우려가 나온다.건설사들의 자금 조달 어려움과 고금리 기조 지속, 공사비·인건비 상승 등으로 사업 추진 속도가 지연돼 이같은 현상이 발생한 것으로 보인다.",
+    "published_at": "2026-08-05T17:47:00+09:00",
+    "cluster_id": "532b",
+    "publisher": "중부일보",
+    "title_clean": "경기지역 준공 반토막…집값 불안 키우는 '공급절벽' 오나",
+    "summary": "경기도 상반기 준공 물량이 전년 대비 절반 수준으로 감소하면서 주택 공급 부족 현상이 심화될 우려가 제기됐다. 건설사들의 자금 조달 어려움, 고금리 지속, 공사비·인건비 상승 등으로 인해 사업 추진이 지연되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T08:03:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32242,21 +32258,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-03T18:06:03+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대제철, 2분기 매출 6조 1073억원 '선방' - weekly.hankooki.com",
-    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7177277",
-    "description": "현대제철이 올해 2분기 건설경기 침체, 중동 전쟁, 관세 등의 파고에도 매출 성장을 이뤘다. 3일 현대제철은 올해 2분기 매출 6조 1073억원, 영업이익 577억원을 기록했다고 밝혔다. 전년 동기 대비 매출은 2.7% 늘었지만...",
-    "published_at": "2026-08-03T17:56:00+09:00",
-    "cluster_id": "4a08",
-    "publisher": "weekly.hankooki.com",
-    "title_clean": "현대제철, 2분기 매출 6조 1073억원 '선방'",
-    "summary": "현대제철이 건설경기 침체, 중동 전쟁, 관세 등 악재에도 불구하고 2분기 매출 6조 1073억원으로 전년 동기 대비 2.7% 성장을 기록했다. 업황 악화 속에서도 매출 성장을 이룬 '선방'이라는 평가다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T18:01:19+09:00",
-    "importance": 2
   }
 ]
