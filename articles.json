@@ -7486,6 +7486,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 세계 시장 전략적 제휴 - gnmaeil.com",
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=592164",
+    "description": "﻿두산에너빌리티가 개발하고 제작한 380㎿급 가스터빈 제품. / 두산에너빌리티 두산에너빌리티가 미국의 글로벌 에너지 설계·조달·시공(EPC) 기업 맥더모트와 손잡고 가스터빈과 발전기 등 세계 발전설비 시장 공략에...",
+    "published_at": "2026-08-05T22:54:00+09:00",
+    "cluster_id": "0f68",
+    "publisher": "gnmaeil.com",
+    "title_clean": "두산에너빌리티, 세계 시장 전략적 제휴",
+    "summary": "두산에너빌리티가 미국의 글로벌 EPC 기업 맥더모트와 전략적 제휴를 통해 가스터빈, 발전기 등 세계 발전설비 시장 진출을 추진 중이다. 이는 국내 기계설비 제조업체의 해외 시장 확대 및 수주 기회 증대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-05T22:58:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23424,20 +23440,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "가덕도신공항, 국내 첫 '해상 PBD 공법' 시공성 조사 착수 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260729_0003728311",
-    "description": "공단은 지난 28일 기본설계 추진의 일환으로 활주로 예정부지 동측 해상 3개 구간에서 대우건설 컨소시엄이 기본설계에 국내 최초로 도입하는 해상 PBD 공법의 시공성 조사를 시작했다. PBD 공법은 연약지반에 배수재를...",
-    "published_at": "2026-07-29T15:03:00+09:00",
-    "cluster_id": "cf94",
-    "publisher": "newsis.com",
-    "title_clean": "가덕도신공항, 국내 첫 '해상 PBD 공법' 시공성 조사 착수",
-    "summary": "가덕도신공항 프로젝트에서 대우건설 컨소시엄이 국내 최초로 해상 PBD 공법을 도입하여 시공성 조사를 착수했다. 이는 연약지반 처리 기술로 기본설계 추진의 일환으로 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:08:26+09:00",
-    "importance": 2
+    "title": "고용노동부, 건설현장 폭염·밀폐공간 위험요인 집중 점검 - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Cb19rSUNhMlFxdG9FMDRlYVV4WFZ3NDgtcnBneW5Qd3l4NFNtcFlCQ3l6THZKckY1Uk1FNWoxd0xZakNCWkZCUUgzN2JLclI2NTc2NXBpWmc1MlB4Y3A4eVd1US1FTk9qOV9EdjZ3?oc=5",
+    "description": "(서울=국제뉴스) 박종진 기자 = 고용노동부 서울강남지청(지청장 민광제)은 5일 관내 건설현장에서 폭염과 밀폐공간 작업에 따른 산업재해 예방을 위한 테마별 위험요인 집중점검을 진행했다.이번 점검에서는 폭염안전 5대 핵심 기본수칙과 질식사고 예방을 위한 3대 안전수칙 준수 여부를 중점적으로 확인했다.또, 온열질환 예방지침과 온·습도계 등 관련 물품도 현장에 전달했다.폭염 안전 5대 기본수칙으로는 시원한 물 마시기, 냉방장치 가동, 2시간마다 20분 이상 휴식, 보냉장구 지급, 위급 시 119 신고가 포함되며, 질식사고 예방을 위한 3",
+    "published_at": "2026-08-05T22:29:51+09:00",
+    "cluster_id": "6baf",
+    "publisher": "gukjenews.com",
+    "title_clean": "고용노동부, 건설현장 폭염·밀폐공간 위험요인 집중 점검",
+    "summary": "고용노동부 서울강남지청이 관내 건설현장을 대상으로 폭염과 밀폐공간 작업의 산업재해 예방을 위한 집중점검을 실시했다. 폭염 안전 5대 기본수칙과 질식사고 예방 3대 안전수칙 준수 여부를 확인하고 온열질환 예방지침 및 관련 물품을 전달했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T22:58:45+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32242,22 +32258,6 @@
     "summary": "동부건설이 2026년도 건설업체 시공능력평가에서 평가액 2조215억원으로 25위를 기록했다. 이는 시공능력평가액이 2조원대를 회복한 것으로, 건설업체의 경영 안정화를 보여주는 긍정적 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-08-03T17:35:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "삼성물산, 시공능력평가 13년 연속 1위…GS건설 '빅3' 복귀...\"대우건설... - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133860",
-    "description": "상위 건설사들의 순위 경쟁과 별개로 건설경기 침체와 공사 물량 감소, 재무 부담이 업계 전반의 평가액을 끌어내린 것으로 분석된다. 올해 시공능력평가 결과는 지난 1일부터 공공·민간공사 입찰과 시공사...",
-    "published_at": "2026-08-03T17:26:00+09:00",
-    "cluster_id": "ccc5",
-    "publisher": "newslock.co.kr",
-    "title_clean": "삼성물산, 시공능력평가 13년 연속 1위…GS건설 '빅3' 복귀...\"대우건설...",
-    "summary": "삼성물산이 시공능력평가에서 13년 연속 1위를 차지했으며, GS건설이 빅3에 복귀했다. 다만 건설경기 침체, 공사 물량 감소, 재무 부담으로 업계 전반의 평가액이 하락했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T17:30:44+09:00",
     "importance": 2
   }
 ]
