@@ -23463,6 +23463,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[아유경제_재건축] 광주옥천 소규모재건축, 시공자 물색 발걸음 '재개봉... - areyou.co.kr",
+    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94716",
+    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제2조제7호 규정 및 「주택법」 제7조에 따라 건설업자로 보는 등록사업자 입찰보증금 8억 원을 조합의 계좌에 현금 납부 또는...",
+    "published_at": "2026-08-05T12:40:00+09:00",
+    "cluster_id": "5bbb",
+    "publisher": "areyou.co.kr",
+    "title_clean": "[아유경제_재건축] 광주옥천 소규모재건축, 시공자 물색 발걸음 '재개봉...",
+    "summary": "광주옥천 소규모재건축이 시공자 모집을 위한 일반경쟁입찰을 재개한다. 입찰 참여 업체는 건설업자 등록과 8억 원의 입찰보증금 납부 요건을 충족해야 한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-05T12:44:01+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설근로자공제회, 2025년 사업연보 발간…“생활안정과 복지 중심 지원... - globalepic.co.kr",
+    "link": "http://www.globalepic.co.kr/view.php?ud=20260805123538397748439a4874_29",
+    "description": "매년 퇴직공제제도와 자산운용 현황, 고용복지 등을 정리해 발표하는 이 연보는 건설노동자들의 경제 현황을 파악할 수 있는 중요한 지표로 주목받고 있다. 퇴직공제 적립 감소, 지급액은 증가세 2025년 퇴직공제...",
+    "published_at": "2026-08-05T12:38:00+09:00",
+    "cluster_id": "9211",
+    "publisher": "globalepic.co.kr",
+    "title_clean": "건설근로자공제회, 2025년 사업연보 발간…“생활안정과 복지 중심 지원...",
+    "summary": "건설근로자공제회가 2025년 사업연보를 발간하여 퇴직공제제도와 자산운용 현황을 공개했다. 퇴직공제 적립은 감소하고 지급액은 증가세를 보이며 건설노동자들의 경제 현황을 보여주고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-05T12:44:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32233,38 +32265,6 @@
     "summary": "부산도시공사가 폭염 속 건설현장 근로자 건강 보호를 위해 한국주택금융공사, 부산지방고용노동청과 함께 '안전 푸드트럭'을 운영했다. 에코델타시티 건립사업 현장에서 근로자 안전문화 확산을 위한 지원 사업을 진행했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-03T11:24:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산도시공사, 폭염 속 건설현장에 '안전 푸드트럭' 운영 - 더쎈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QY2x3VlB0UllaODZwd3Y4N2RKSTlNc2UxemdEcGwtWEtEZ3pYY3p2YS1pSzQwLVQzb0VkOUl5QU1aVllybDdkdlp5VnJ0elNqdmV3bG5FdFRBR0dqTGdqSVZTM3BpM1Zr?oc=5",
-    "description": "[더쎈뉴스 / The CEN News 이승렬 기자]부산도시공사가 한국주택금융공사(HF), 부산지방고용노동청과 함께 건설현장 근로자의 폭염 피해 예방을 위한 공동 안전 캠페인에 나섰다.부산도시공사는 지난달 28일 에코델타시티 11·24BL 민간참여 공공분양주택 건설현장에서 '안전 푸드트",
-    "published_at": "2026-08-03T09:56:09+09:00",
-    "cluster_id": "d0e5",
-    "publisher": "더쎈뉴스",
-    "title_clean": "부산도시공사, 폭염 속 건설현장에 '안전 푸드트럭' 운영",
-    "summary": "부산도시공사가 한국주택금융공사, 부산지방고용노동청과 함께 건설현장 근로자의 폭염 피해 예방을 위한 '안전 푸드트럭' 캠페인을 운영 중이다. 에코델타시티 건설현장에서 근로자 안전과 복지 향상을 위한 공동 사업을 추진하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T11:24:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "김보현 “스마트건설 새 표준 만들자” - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10828924?ref=naver",
-    "description": "(AI)·스마트건설 시대에 선제적으로 대응해 대우건설이 스마트건설의 새로운 표준이 될 수 있도록 함께 만들어 가자”고 말했다. 이날 행사는 신입사원들이 회사의 비전과 핵심가치를 이해하고 경영진과 자유롭게 소통할...",
-    "published_at": "2026-08-03T11:10:00+09:00",
-    "cluster_id": "ed7e",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "김보현 “스마트건설 새 표준 만들자”",
-    "summary": "대우건설 김보현 회장이 신입사원 입사식에서 AI·스마트건설 시대에 선제적으로 대응하여 스마트건설의 새로운 표준을 만들어가자고 강조했다. 경영진과 신입사원 간 자유로운 소통을 통해 회사 비전과 핵심가치 공유를 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T11:14:30+09:00",
     "importance": 2
   }
 ]
