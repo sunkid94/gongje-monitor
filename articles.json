@@ -23440,6 +23440,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"돌려차기\" 망언한 국힘 의원들, 경향신문 \"천박한 언동, 국회 차원 징계... - mediatoday.co.kr",
+    "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336248",
+    "description": "5명씩 이뤄진 4개조로 꾸린 예찰단은 지난 4일 고추밭과 깨밭에서 일하던 농민, 건설노동자 등 10명을 발견해 설득한 끝에 5명을 귀가시켰다. 여름철 온열질환 산업재해가 해마다 늘고 있는 만큼, 권고 사항인 폭염 중...",
+    "published_at": "2026-08-06T07:34:00+09:00",
+    "cluster_id": "efe2",
+    "publisher": "mediatoday.co.kr",
+    "title_clean": "\"돌려차기\" 망언한 국힘 의원들, 경향신문 \"천박한 언동, 국회 차원 징계...",
+    "summary": "국회의원들의 '돌려차기' 망언에 대해 경향신문이 국회 차원의 징계를 촉구했다. 폭염 중 야외에서 일하던 농민과 건설노동자들을 대상으로 한 예찰단의 온열질환 예방 활동 관련 기사로 보이며, 의원들의 부적절한 언행이 도마에 올랐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T07:38:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32239,22 +32255,6 @@
     "publisher": "weekly.hankooki.com",
     "title_clean": "현대제철, 2분기 매출 6조 1073억원 '선방'",
     "summary": "현대제철이 건설경기 침체, 중동 전쟁, 관세 등 악재에도 불구하고 2분기 매출 6조 1073억원으로 전년 동기 대비 2.7% 성장을 기록했다. 업황 악화 속에서도 매출 성장을 이룬 '선방'이라는 평가다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T18:01:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "충남 아산, 삼성 대규모 투자 맞아 지역건설업체 참여 확대 방안 모색 - ccdn.co.kr",
-    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1091776",
-    "description": "김범수 부시장은 \"건설경기 침체가 지속되는 상황에서 이번 대규모 투자는 아산시 발전에 매우 좋은 기회가 될 것\"이라며, \"지역업체들이 적극적으로 참여할 수 있도록 행정적 지원을 아끼지 않겠다\"고 말했다. 한편...",
-    "published_at": "2026-08-03T17:51:00+09:00",
-    "cluster_id": "de65",
-    "publisher": "ccdn.co.kr",
-    "title_clean": "충남 아산, 삼성 대규모 투자 맞아 지역건설업체 참여 확대 방안 모색",
-    "summary": "충남 아산시가 삼성의 대규모 투자 사업을 맞아 지역 건설업체의 참여 확대를 추진하기로 했다. 시 행정 당국은 건설경기 침체 상황에서 이번 투자가 지역 발전의 기회가 될 것으로 보고 지역업체 참여를 위한 행정적 지원을 약속했다.",
     "sentiment": "positive",
     "collected_at": "2026-08-03T18:01:19+09:00",
     "importance": 2
