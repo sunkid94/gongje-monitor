@@ -23456,6 +23456,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "행복청, 차세대 스마트 종합사업관리시스템(MPAS) 본격 가동 - 충청탑뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LSUdUUzZqWENaZzNZSjRxbzBpcDJVWXRGTHY4dlVYYXlTUkpOUVdiby1obnBYbnpkQXdkMmg2QnJxVEFWekh5bHVINmQ1VHE5UTBHRU4tUkw5VW5RTEVvWHFrLTU?oc=5",
+    "description": "[세종/CTN]정민준 기자ㅣ행정중심복합도시건설청(이하 행복청)은 행정중심복합도시(이하 행복도시) 건설을 한 단계 진화시킬 ‘차세대 종합사업관리시스템(MPAS)’ 고도화 사업을 완료하고 7월 31일부터 본격적인 가동에…",
+    "published_at": "2026-08-05T14:38:13+09:00",
+    "cluster_id": "939e",
+    "publisher": "충청탑뉴스",
+    "title_clean": "행복청, 차세대 스마트 종합사업관리시스템(MPAS) 본격 가동",
+    "summary": "행복청이 행정중심복합도시 건설 관리를 위한 차세대 종합사업관리시스템(MPAS) 고도화를 완료하고 7월 31일부터 본격 운영을 시작했다. 스마트 기술을 적용한 이 시스템으로 건설 사업의 효율성과 투명성이 강화될 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-05T20:33:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32243,22 +32259,6 @@
     "summary": "롯데건설이 비접촉식 센서 시스템을 고소작업대에 도입하여 안전사고를 예방하는 스마트 시스템을 현장에 적용한다. 기존 기계식 장치의 한계를 보완하여 건설 현장의 안전성을 강화하는 혁신 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-08-03T17:11:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "우미건설·쌍용건설·효성중공업 특화공종 기반업체 시평 순위 '약진', ... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443821",
-    "description": "건설경기 침체가 이어지는 가운데 특화공종을 기반으로 일감을 확보한 중견건설사들의 시공능력평가 순위 상승이 두드러진 모습이다. 우미건설·쌍용건설·효성중공업은 실적평가액과 경영평가액에서 모두...",
-    "published_at": "2026-08-03T16:54:00+09:00",
-    "cluster_id": "1220",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "우미건설·쌍용건설·효성중공업 특화공종 기반업체 시평 순위 '약진', ...",
-    "summary": "건설경기 침체 속에서 우미건설, 쌍용건설, 효성중공업 등 특화공종 기반 중견건설사들의 시공능력평가 순위가 상승하고 있다. 실적평가액과 경영평가액에서 개선 추세를 보이며 차별화된 경쟁력을 입증하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T17:00:28+09:00",
     "importance": 2
   }
 ]
