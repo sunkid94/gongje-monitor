@@ -23443,6 +23443,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "GH, 양주·안성 건설현장에 스마트 휴게시설 3기 추가 운영 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OeDNLTFJtaDRhaDR4QnVnd2x6MkN2NEdKVF9Ia0VhLXh0dTd0TXpEYUhkTkVMbF9Ybm9vUkZGelhVbnJfS1RLTkxaODg4UQ?oc=5",
+    "description": "경기주택도시공사(GH·사장 김용진)가 양주·안성 부지조성공사 현장에 태양광 자가발전 기반 스마트 휴게시설인",
+    "published_at": "2026-08-05T22:00:36+09:00",
+    "cluster_id": "e036",
+    "publisher": "전자신문",
+    "title_clean": "GH, 양주·안성 건설현장에 스마트 휴게시설 3기 추가 운영",
+    "summary": "경기주택도시공사(GH)가 양주·안성 건설현장에 태양광 자가발전 기반 스마트 휴게시설 3기를 추가 운영한다. 건설현장의 근로자 복지 개선 및 스마트 기술 적용으로 산업 선진화를 추진하는 사항이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-05T22:08:34+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "광명시 폭염중대경보 대응 체계 강화 - newsclaim.co.kr",
     "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071291",
     "description": "이와 함께 어르신과 장애인을 대상으로 방문 건강관리를 실시하고, 노숙인 밀집 지역 순찰과 지원, 건설현장 안전점검, 농업 현장 예찰 등 분야별 대응도 이어가고 있습니다. 온열질환 발생 위험이 높은 낮 12시부터 오후...",
@@ -32244,21 +32260,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-03T17:30:44+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[신기술이 경쟁력] 롯데건설, 스마트센서 적용한 고소작업대 안전시스템 개발 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=40983",
-    "description": "[건설이코노미뉴스] 롯데건설이 비접촉식 센서 전문기업인 ㈜가디언웍스와 협업해 '고소작업대 스마트 과상승 방지 시스템'을 건설현장에 적용하며 고소작업 중 발생할 수 있는 충돌·끼임 사고 예방에 나섰다.이번에 도입된 시스템은 기존 기계식 안전장치의 한계를 보완하기 위해 개발된 스마트 안전기술이다. 기존 기계식 정지장치는 과상승 방지봉과 협착 방지대로 구성돼 작업대가 천장이나 슬래브 등 구조물에 직접 닿을 때만 작동하는 방식이었다. 이 때문에 장치가 고장 나거나 파손돼도 작업자가 이를 인지하지 못한 채 작업을 계속하는 위험이 존재했다.롯",
-    "published_at": "2026-08-03T17:23:00+09:00",
-    "cluster_id": "5f1d",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "[신기술이 경쟁력] 롯데건설, 스마트센서 적용한 고소작업대 안전시스템 개발",
-    "summary": "롯데건설이 비접촉식 센서 전문기업과 협업하여 '고소작업대 스마트 과상승 방지 시스템'을 개발·적용했다. 기존 기계식 안전장치의 한계를 보완한 스마트 안전기술로 고소작업 중 충돌·끼임 사고 예방에 나섰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T17:24:06+09:00",
-    "importance": 2
   }
 ]
