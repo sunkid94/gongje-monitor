@@ -7502,6 +7502,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“이름은 낯설어도 벌써 9부 능선”…관리처분 끝낸 서울 ‘숨은 신축’... - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12118095",
+    "description": "시공은 롯데건설이 맡는다. 일반분양 물량은 조합원 물량과 임대를 제외한 500여가구가 나올 것으로 예상되는데, 인근 신축인 ‘힐스테이트 메디알레’가 기준이 될 가능성이 크다. 이 단지 전용 59㎡ 최고 분양가가...",
+    "published_at": "2026-08-05T19:57:00+09:00",
+    "cluster_id": "bee3",
+    "publisher": "mk.co.kr",
+    "title_clean": "“이름은 낯설어도 벌써 9부 능선”…관리처분 끝낸 서울 ‘숨은 신축’...",
+    "summary": "서울의 한 재개발 단지가 관리처분을 완료했으며, 롯데건설이 시공을 맡는다. 500여 가구의 일반분양이 예상되며 인근 신축 단지의 분양가가 기준이 될 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-05T20:09:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -23440,20 +23456,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[건설업계 브리핑] 현대건설·롯데건설·삼표산업·LH - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1390706",
-    "description": "◇ 롯데건설, 자율주행 바닥청소 로봇 도입 롯데건설이 시공 중인 건설현장에서 '자율주행 바닥청소 로봇'(왼쪽)이 장애물을 우회해(오른쪽 위) 바닥을 청소한 후 스스로 충전 장소로 복귀하고(오른쪽 아래) 있다. 사진...",
-    "published_at": "2026-07-29T15:06:00+09:00",
-    "cluster_id": "fd30",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "[건설업계 브리핑] 현대건설·롯데건설·삼표산업·LH",
-    "summary": "롯데건설이 건설현장에 자율주행 바닥청소 로봇을 도입하여 운영 중이다. 로봇이 장애물 회피, 자동 청소, 자동 충전 기능을 수행하며 현장의 자동화와 효율성을 개선하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T15:08:26+09:00",
-    "importance": 2
+    "title": "대한건설협회 광주시회, 공사는 줄고 원가는 급등…광주 건설업계 '출구... - mhns.co.kr",
+    "link": "https://www.mhns.co.kr/news/articleView.html?idxno=755631",
+    "description": "김 사무처장은 지역 건설경기 침체의 가장 큰 원인으로 지방자치단체의 재정 여건 악화와 주택경기 부진을 꼽았다. 광주시를 비롯한 지방자치단체들이 세입 감소와 재정난으로 긴축재정을 펴면서 당장 추진하지 않아도...",
+    "published_at": "2026-08-05T20:04:00+09:00",
+    "cluster_id": "e49a",
+    "publisher": "mhns.co.kr",
+    "title_clean": "대한건설협회 광주시회, 공사는 줄고 원가는 급등…광주 건설업계 '출구...",
+    "summary": "광주 건설업계가 지방자치단체의 재정 악화로 공사 물량이 감소하면서 어려움을 겪고 있다. 주택경기 부진과 함께 건설사들의 수익성 악화로 업계 전반이 침체 상황에 직면해 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-05T20:09:24+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32242,22 +32258,6 @@
     "title_clean": "롯데건설, 고소작업대 '스마트 과상승 방지 시스템' 도입 … 비접촉 센...",
     "summary": "롯데건설이 고소작업대의 과상승을 방지하는 AI 기반 스마트 시스템을 개발했다. 이를 통해 현장의 충돌·끼임 사고 감소를 기대하며, 향후 AI와 로봇 등 스마트건설 기술을 확대 적용할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-03T17:00:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설, 신입사원 간담회 개최… \"미래를 위한 도전 함께하자\" - fntoday.co.kr",
-    "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=389563",
-    "description": "AI·스마트건설 시대에 선제적으로 대응해 대우건설이 스마트건설의 새로운 표준이 될 수 있도록 함께 만들어 가자\"고 당부했다. 간담회 이후에는 신입사원들이 직접 기획한 '한마음의 장' 행사가 이어졌다. 팀별 공연과...",
-    "published_at": "2026-08-03T16:52:00+09:00",
-    "cluster_id": "85bc",
-    "publisher": "fntoday.co.kr",
-    "title_clean": "대우건설, 신입사원 간담회 개최… \"미래를 위한 도전 함께하자\"",
-    "summary": "대우건설이 신입사원 간담회를 개최하여 AI·스마트건설 시대에 대응하고 스마트건설의 새로운 표준을 함께 만들어가자고 당부했다. 간담회 이후 신입사원들이 기획한 '한마음의 장' 행사를 통해 팀별 공연 등을 진행했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-03T17:00:28+09:00",
     "importance": 2
   }
