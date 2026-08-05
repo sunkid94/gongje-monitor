@@ -23440,6 +23440,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대한건설협회 광주시회, 공사는 줄고 원가는 급등…광주 건설업계 ‘출구가 없다’ - 더쎈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mMHF0WkZkbF9NZ0F4OHBhMGNrTGhLRTVQTjR0dkwyN3FsSm9fcm9UeGRsNGZKRV9ReE96QUZrNGZlSEZISTlGaWdNMUIzZUpET09oTEczR21NZlprT3JNdVJsbDRTeFU?oc=5",
+    "description": "더쎈뉴스 / The CEN News 이주상 기자 ㅣ 광주지역 건설업계가 공공공사 감소와 주택경기 침체, 자재비·인건비 상승이라는 ‘삼중고’를 겪고 있다.전남광주통합특별시 출범에 따라 건설시장이 확대될 것이라는 기대감도 나오지만, 지역 간 경쟁이 더욱 치열해질 수 있어 지역업체 참여를",
+    "published_at": "2026-08-05T20:03:24+09:00",
+    "cluster_id": "d1e5",
+    "publisher": "더쎈뉴스",
+    "title_clean": "대한건설협회 광주시회, 공사는 줄고 원가는 급등…광주 건설업계 ‘출구가 없다’",
+    "summary": "광주 건설업계가 공공공사 감소, 주택경기 침체, 자재비·인건비 상승의 삼중고를 겪고 있다. 전남광주통합특별시 출범으로 시장 확대 기대가 있으나, 지역 간 경쟁 심화로 어려움이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T01:28:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32243,21 +32259,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-03T17:42:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "6월 사업체 종사자 18개월 만 최대 증가···건설업도 24개월 만에 반등 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325581",
-    "description": "6월 말 기준 국내 사업체 종사자가 18개월 만에 최대폭으로 증가했다. 한동안 불황을 지속했던 건설업까지 24개월 만에 고개를 들면서 채용에 청신호가 켜진 모습이다.지난달 30일 고용노동부가 발표한 ‘2026년 6월 사업체노동력조사 결과’에 따르면 지난달 말 기준 사업체 종사자 수는 2071만4000명으로 전년 동월(2046만6000명) 대비 24만8000명(1.2%) 증가했다. 사업체종사자 수는 6개월째 증가세를 유지하고 있으며, 2024년 12월 26만2000명이 늘어난 이후 최대폭 증가다.산업별로는 보건업 및 사회복지 서비스업",
-    "published_at": "2026-08-03T17:37:03+09:00",
-    "cluster_id": "0810",
-    "publisher": "대한전문건설신문",
-    "title_clean": "6월 사업체 종사자 18개월 만 최대 증가···건설업도 24개월 만에 반등",
-    "summary": "6월 사업체 종사자가 18개월 만에 최대폭으로 증가하며 고용이 개선되고 있다. 특히 건설업이 24개월 만에 반등하면서 채용 시장에 긍정 신호가 나타났다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T17:42:45+09:00",
-    "importance": 2
   }
 ]
