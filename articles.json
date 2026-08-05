@@ -23456,6 +23456,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[패트롤]경주시-경산시-칠곡군-대구남구-대구북구 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20260805023299970",
+    "description": "군은 최근 폭염 대응상황 긴급 점검회의를 열고 취약계층 보호 대책과 무더위쉼터 운영 실태, 폭염저감시설 관리, 농업 및 건설현장 안전관리 등을 종합적으로 점검했다. 아울러 폭염이 장기화될 가능성에 대비해 부서별...",
+    "published_at": "2026-08-05T20:18:00+09:00",
+    "cluster_id": "eb89",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤]경주시-경산시-칠곡군-대구남구-대구북구",
+    "summary": "경주시, 경산시, 칠곡군, 대구남구, 대구북구 등 지역에서 폭염 대응 긴급 점검회의를 개최하여 취약계층 보호, 무더위쉼터, 폭염저감시설 관리, 농업·건설현장 안전을 종합 점검했다. 장기화 가능성에 대비하여 부서별 대응 체계를 강화할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-05T20:29:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32241,22 +32257,6 @@
     "publisher": "businesspost.co.kr",
     "title_clean": "우미건설·쌍용건설·효성중공업 특화공종 기반업체 시평 순위 '약진', ...",
     "summary": "건설경기 침체 속에서 우미건설, 쌍용건설, 효성중공업 등 특화공종 기반 중견건설사들의 시공능력평가 순위가 상승하고 있다. 실적평가액과 경영평가액에서 개선 추세를 보이며 차별화된 경쟁력을 입증하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T17:00:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 고소작업대 '스마트 과상승 방지 시스템' 도입 … 비접촉 센... - worktoday.co.kr",
-    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87478",
-    "description": "롯데건설 관계자는 \"이번에 개발한 '고소작업대 스마트 과상승 방지 시스템'으로 충돌·끼임 사고가 줄어들 것으로 기대된다\"며 \"앞으로 AI와 로봇 등 스마트건설 기술을 현장에 더 폭넓게 적용해 나갈 계획\"이라고 말했다.",
-    "published_at": "2026-08-03T16:56:00+09:00",
-    "cluster_id": "a720",
-    "publisher": "worktoday.co.kr",
-    "title_clean": "롯데건설, 고소작업대 '스마트 과상승 방지 시스템' 도입 … 비접촉 센...",
-    "summary": "롯데건설이 고소작업대의 과상승을 방지하는 AI 기반 스마트 시스템을 개발했다. 이를 통해 현장의 충돌·끼임 사고 감소를 기대하며, 향후 AI와 로봇 등 스마트건설 기술을 확대 적용할 계획이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-03T17:00:28+09:00",
     "importance": 2
