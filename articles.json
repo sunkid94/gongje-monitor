@@ -23503,6 +23503,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[신간] 실험하는 고고학자 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51203",
+    "description": "과거 인류가 먹고, 입고, 만든 것을 직접 재현해봄으로써 고대인의 일상을 탐구하는 실험고고학의 세계를 소개하는 책이다.실험고고학자들은 고대 도기에서 효모를 채취해 빵을 만들고, 중세 화약 제조법을 재현하고 복제 대포를 만드는 등 기존 틀을 벗어난 방법으로 고대 인류를 이해하고자 한다.돌로 만든 칼로 정말 고기를 자를 수 있을까. 누구나 한 번쯤 떠올렸을 만한 궁금증을 고대인의 방식으로 직접 실험해 풀어가는 이들은 유물 발굴이나 사료 분석만으로는 얻을 수 없는 새로운 사실들을 발견해낸다.과학 작가인 저자는 세계 곳곳에 있는 실험고고학",
+    "published_at": "2026-08-07T08:06:23+09:00",
+    "cluster_id": "b0d6",
+    "publisher": "기계설비신문",
+    "title_clean": "[신간] 실험하는 고고학자",
+    "summary": "고대 인류의 일상을 직접 재현하는 실험고고학을 소개하는 신간 도서. 실험고고학자들은 도기에서 채취한 효모로 빵을 만들고, 화약 제조법을 재현하는 등 기존 방식을 벗어난 방법으로 고대 역사를 탐구한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T08:10:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32279,21 +32295,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-05T10:44:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "노원소방서, 폭염경보 속 대형 건설현장 화재안전 점검 강화 - 소방방재신문",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ma2Ryamswa09JUldBU2lZbGhJUmhMeWpKZ3pLT3R0MDN0aGkxVWNySllNUXV4cHdjbWJQNVNuRHJSckpM?oc=5",
-    "description": "[FPN 정재우 기자] = 노원소방서(서장 정교철)는 지난 4일 서울 월계동 광운대역 물류부지 개발사업 상업업무용지 건설현장을 찾아 폭염경보 발령에 따",
-    "published_at": "2026-08-05T10:33:00+09:00",
-    "cluster_id": "d670",
-    "publisher": "소방방재신문",
-    "title_clean": "노원소방서, 폭염경보 속 대형 건설현장 화재안전 점검 강화",
-    "summary": "노원소방서가 폭염경보 발령에 따라 광운대역 물류부지 개발사업 건설현장에 대한 화재안전 점검을 강화했다. 여름철 고온 환경에서 건설현장의 화재 위험을 사전에 예방하기 위한 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T10:44:02+09:00",
-    "importance": 4
   }
 ]
