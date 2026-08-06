@@ -23488,6 +23488,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "부산도시공사, 공공부문 스마트 건설 전환…LH와 협약 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HaTItRGJfWVpOaXNsb3N3ekgxbWhfcGtRWVZNSlhQZHZTd01BVmNxMWhwTUx6bG9tWEJTZ0x6SU1oRHo1Y2JCTFlhZjQxb3JaZzkzU3RQb0JfUFnSAWBBVV95cUxQMHFzWHAtaE1wLUlsZTU0dWdMdE5VdHBIbmZ1bUV1SlBEbmg5SDI3c0d1N2laUk5CdmswdWJJUEpaTnBSU21MZFBTcUkxNWtJeUVZRmNHSkpSaWZDNEtOVDc?oc=5",
+    "description": "(부산=연합뉴스) 오수희 기자 = 부산도시공사는 한국토지주택공사(LH)와 공공부문 BIM 기술 수준 제고를 위한 업무협약을 체결했다고 6일 밝혔...",
+    "published_at": "2026-08-06T13:56:47+09:00",
+    "cluster_id": "54af",
+    "publisher": "연합뉴스",
+    "title_clean": "부산도시공사, 공공부문 스마트 건설 전환…LH와 협약",
+    "summary": "부산도시공사가 LH와 공공부문 BIM(건축정보모델링) 기술 수준 제고를 위한 업무협약을 체결했다. 공공건설 프로젝트에 스마트 건설 기술 도입을 확대하는 협력 추진이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T23:09:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32282,21 +32298,6 @@
     "summary": "AI 붐으로 데이터센터 수요가 증가하면서 침체된 국내 철강산업에 긍정적 영향을 미치고 있다. 다만 고금리 기조와 중국발 공급과잉 등으로 인해 업계 전망이 여전히 불확실한 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-05T09:03:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, ‘재난대응 모듈러주택 100호’ 비축…이재민 임시주거 지원 - 팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CZDAxSDBJak9HUHpid0VDUWloQVJDSTI1U2VxNFR6dFBIOXNNZExoWUZlOEVpbVBrRWZsMHBvczh5TzIybm9jS0Z3eVhWcDJwc3FONHdDSUg3NFZWdDk4cnFaOUN2aDg?oc=5",
-    "description": "한국토지주택공사(LH)가 산불, 호우 등 재난&middot;재해 발생 시 이재민에게 신속하게 쾌적한 주거 공간을 제공하기 위해 재난대응 모듈러주택 100호를 비축한다고 5일 밝혔습니다.LH는 모듈러주택 표준설계안을 적용해 재난&middot;재해 환경에서도 신속한 설치가 가능하도록 설치 효율성과 이동성을 높였습니다. 또 쾌적하게 생활할 수 있도록 창호 면적을 넓혀 실내 개방감과 채광을 늘리고, 고령자 비율이 높은 점을 고려해 무장애 설계도 반영했습니다.LH는 이달 말까지 재난대응 모듈러주택 100호 비축을 완료한다는 방침입니다. 해당",
-    "cluster_id": "767d",
-    "publisher": "팍스경제TV",
-    "title_clean": "LH, ‘재난대응 모듈러주택 100호’ 비축…이재민 임시주거 지원",
-    "summary": "LH가 산불·호우 등 재난 대응을 위해 모듈러주택 100호를 비축한다고 발표했습니다. 표준설계안을 적용해 신속한 설치가 가능하도록 하고, 무장애 설계 등 거주성을 개선했으며 이달 말 비축 완료 예정입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T08:59:18+09:00",
     "importance": 2
   }
 ]
