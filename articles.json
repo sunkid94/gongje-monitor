@@ -7554,6 +7554,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[속보] 대우건설, 모잠비크 LNG 프로젝트 낙찰의향서 수령…\"본계약 전... - cbci.co.kr",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=595564",
+    "description": "대우건설은 모잠비크 Rovuma LNG Project와 관련해 사업주 대표사인 ExxonMobil Mozambique Limitada로부터 낙찰의향서(LOI·Letter of Intent)를 수령했다고 6일 공시했다. 이번 프로젝트는 연간 약 1,860만톤 규모의 LNG...",
+    "published_at": "2026-08-07T07:52:00+09:00",
+    "cluster_id": "6c8d",
+    "publisher": "cbci.co.kr",
+    "title_clean": "[속보] 대우건설, 모잠비크 LNG 프로젝트 낙찰의향서 수령…\"본계약 전...",
+    "summary": "대우건설이 모잠비크 Rovuma LNG 프로젝트에서 ExxonMobil로부터 낙찰의향서(LOI)를 수령했다. 연간 약 1,860만톤 규모의 대형 LNG 프로젝트로, 본계약 체결을 앞두고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T07:59:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -23484,22 +23500,6 @@
     "summary": "미국 조선 재건 협력 및 수주 훈풍으로 대한조선, 한화엔진, 한화오션, 삼성중공업 등 국내 조선주들이 일제히 급등했다. 국내 조선 3사의 상반기 매출이 30조원을 돌파하고 수주액도 증가하며 업계 호실적이 지속되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-07-30T09:58:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "아주대, AI 데이터센터 전력·열 잡는다 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10825311?ref=naver",
-    "description": "이와 함께 한화에어로스페이스, LG전자, LIG넥스원, 두산에너빌리티 등 14개 협력기관과 손잡고 산업 현장에 필요한 맞춤형 교육을 진행한다. 대학 측은 AI 데이터센터 열관리, AI 방위산업 열관리, AI 스마트 열유체 등...",
-    "published_at": "2026-07-30T09:50:00+09:00",
-    "cluster_id": "f252",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "아주대, AI 데이터센터 전력·열 잡는다",
-    "summary": "아주대가 AI 데이터센터의 전력과 열 관리 기술 개발에 나서고 있으며, 한화에어로스페이스, LG전자 등 14개 협력기관과 함께 산업 맞춤형 교육을 진행 중이다. AI 데이터센터 열관리, 방위산업 열관리 등 다양한 분야의 열유체 기술 개발에 초점을 맞추고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T09:53:19+09:00",
     "importance": 2
   },
   {
