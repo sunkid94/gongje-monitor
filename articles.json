@@ -7537,6 +7537,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"가만히 있어도 땀이 줄줄\"…39도 건설현장의 사투[출동!인턴] - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260806_0003738789",
+    "description": "경기도 고양시 풍동의 포스코이앤씨와 DL이앤씨 현장은 이번 주 폭염 대응 차원에서 작업을 전면 중단한 상태였다. 또한 모든 현장이 폭염 대응에 나설 여건을 갖춘 것은 아니다. 소규모 사업장이나 지방 현장에서는...",
+    "published_at": "2026-08-07T05:00:00+09:00",
+    "cluster_id": "ab5b",
+    "publisher": "newsis.com",
+    "title_clean": "\"가만히 있어도 땀이 줄줄\"…39도 건설현장의 사투[출동!인턴]",
+    "summary": "경기도 고양시 건설현장에서 39도의 폭염으로 인해 작업이 전면 중단되었다. 포스코이앤씨 등 대형사업장은 폭염 대응 체계를 갖춘 반면, 소규모 사업장과 지방 현장은 여건 부족으로 어려움을 겪고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T05:04:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23468,22 +23484,6 @@
     "summary": "SM그룹 경남기업이 노동청과 LH와 협력하여 혹서기 건설 현장의 온열질환 예방에 나서고 있다. 대우건설, 삼성물산, GS건설, DL이앤씨 등 주요 건설사들이 에어컨 쉼터, IoT 감시 시스템, 쿨링조끼 등 다양한 안전 장비를 도입하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T09:23:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "도시정비 수주전 끝나자 청약전…대단지 공급 본격화 - ziksir.com",
-    "link": "https://www.ziksir.com/news/articleView.html?idxno=141585",
-    "description": "현대건설과 GS건설이 각각 7조원대 수주액을 기록했고 삼성물산과 대우건설, 두산건설이 뒤를 이으며 상위권을 형성했다. 두산건설은 상반기 전국 10개 도시정비사업에서 2조6426억원 규모의 시공권을 확보해 업계...",
-    "published_at": "2026-07-30T09:02:00+09:00",
-    "cluster_id": "71c4",
-    "publisher": "ziksir.com",
-    "title_clean": "도시정비 수주전 끝나자 청약전…대단지 공급 본격화",
-    "summary": "현대건설과 GS건설이 7조원대 수주액을 기록하며 도시정비사업 수주전을 주도했고, 삼성물산, 대우건설, 두산건설 등이 뒤를 이었다. 상반기 대단지 공급이 본격화되면서 건설업계의 수주 경쟁이 활발해지고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T09:08:10+09:00",
     "importance": 2
   },
   {
