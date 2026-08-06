@@ -23488,6 +23488,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "부산도시공사, LH와 손잡고 스마트건설 전환 본격화 - 영남신문",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FcG5GVFA0TXJoSW14cHN1S1c3RU0waV9oby0zOUZLRGYxOVB2T3Vxel91X282MF95QU9MdlQ0RHFDOElPUkpUVFNzUmlFQ3dFYXI1eGdGWmE3VWM4dnhWNlgwbjg1Q1BXdkFHWWxn?oc=5",
+    "description": "부산도시공사(사장 신창호)는 한국토지주택공사(LH)와 공공부문 BIM 기술 수준 제고를 위한 업무협약을 체결했다고 6일 밝혔다.BIM(Building Information Modeling)은 3차원 모델과 건설정보를 결합하여 기획부터 설계, 시공, 유지관리까지 건설 전 과정에 필요한 정보와 프로세스를 관리·운영하는 기술이다.이번 협약은 양 기관의 협력체계를 기반으로 공공부문의 BIM 적용 수준과 활용 기반을 확대하고, 스마트건설 기술 경쟁력을 강화하기 위해 마련됐다. 협약에 따라 공사는 LH가 독자적으로 개발· 보유한 단지분야 BI",
+    "published_at": "2026-08-06T19:42:57+09:00",
+    "cluster_id": "1a3f",
+    "publisher": "영남신문",
+    "title_clean": "부산도시공사, LH와 손잡고 스마트건설 전환 본격화",
+    "summary": "부산도시공사와 LH가 BIM 기술 고도화를 위한 업무협약을 체결하여 공공부문의 스마트건설 전환을 본격화한다. 양 기관의 협력을 통해 BIM 적용 수준 확대와 스마트건설 기술 경쟁력 강화를 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T19:54:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T05:59:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 스마트 비접촉식 센서 도입 - globalnewsagency.kr",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwMUgzZHZYSEhmM3lIdm1lWF9RTVlubXV5UDUxYndPOS1yOXdwcGVFd1BWaFB3MEVTcmVBS1c2Z3VrSEQ0enV5VWlpdWdSS0xPaVNObXB5WTRGelFWdUh0aGRZUVY1UEdvcldkMGpnR1AyaWpn?oc=5",
-    "description": "[서울=글로벌뉴스통신]롯데건설이 비접촉식 센서 전문기업 ㈜가디언웍스와 손잡고 ‘고소작업대 스마트 과상승 방지 시스템’을 현장에 도입했다. 이번 시스템은 초음파와",
-    "published_at": "2026-08-04T23:14:52+09:00",
-    "cluster_id": "e215",
-    "publisher": "globalnewsagency.kr",
-    "title_clean": "롯데건설, 스마트 비접촉식 센서 도입",
-    "summary": "롯데건설이 비접촉식 센서 전문기업과 협력하여 고소작업대 안전 시스템을 현장에 도입했다. 초음파 기반의 스마트 과상승 방지 시스템으로 건설 현장의 안전성을 강화하는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T05:29:28+09:00",
-    "importance": 2
   }
 ]
