@@ -23488,6 +23488,36 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기 ‘악성 미분양’ 80% 중견·중소사 물량… 3채 중 2채 경기북부 몰려 - 브릿지경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lb2ZfWnBPMmpvd3ZjdnRqeVJOZExtZUYzeTNLbGtXTDBEV21JMjV4dHBKbkRDdHlVZ2l6LVZPMkdvcWxoUjV4VXdNSXlLTk5Va0JVdTd6TXBjdw?oc=5",
+    "description": "경기도에서 준공 이후에도 팔리지 않은 이른바 ‘악성 미분양’ 물량 5가구 중 4가구가 중견·중소 건설사 시공 사업장에 집중된 것으로 나타났다. 권역별로는 전체 물량의 약 3분의 2가 경기북부에 몰렸다. 특히 경기북부에 위치한 중견·중소 건설사 사업장이 전체 악성 미분양",
+    "cluster_id": "c3b7",
+    "publisher": "브릿지경제",
+    "title_clean": "경기 ‘악성 미분양’ 80% 중견·중소사 물량… 3채 중 2채 경기북부 몰려",
+    "summary": "경기도의 악성 미분양 물량 대부분이 중견·중소 건설사 시공 사업장에 집중되어 있으며, 특히 경기북부 지역에 전체의 약 3분의 2가 몰려 있는 것으로 나타났다. 이는 중소 건설사들의 사업 부실 및 시장 구조의 불균형을 시사한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T22:09:13+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고용노동부 서울강남지청, 폭염 대응 건설현장 집중점검 - 강남내일신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydnF0dnVuMFZfNWtQV2hya0o4RmFvWGt2R2xoRkh3dzJxQ0gxdmEwNmQ5NG8xN0xHVkV3ZndZbkxrQ1NDNHEwbU5PTDFObXRfTHZWVjFRNHVWbjJpbWxNVUJaZkd0VU0?oc=5",
+    "description": "연일 이어지는 기록적인 폭염 속에서 고용노동부 서울강남지청이 건설현장의 온열질환과 밀폐공간 질식사고 예방을 위한 현장 점검에 나섰다.고용노동부 서울강남지청(지청장 민광제)은 지난 5일 관내 건설현장을 대상으로",
+    "cluster_id": "361f",
+    "publisher": "강남내일신문",
+    "title_clean": "고용노동부 서울강남지청, 폭염 대응 건설현장 집중점검",
+    "summary": "고용노동부 서울강남지청이 폭염 시기 건설현장의 온열질환과 밀폐공간 질식사고 예방을 위해 집중점검을 실시했다. 안전 관련 규제 강화 및 현장 점검으로 건설업계의 규정 준수 부담이 증가할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T22:09:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32267,37 +32297,6 @@
     "summary": "경기주택도시공사(GH)가 건설현장 근로자를 위한 친환경 스마트 휴게시설을 확대하고 있다. 폭염과 한파 등 사계절 안전 위험에 대응하여 근로자의 작업 환경과 안전성을 개선하는 사업이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-05T08:49:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 철거현장 ‘살수드론’ 확대…환경·안전 강화 - dt.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnSDdmeXI2SEdQR19OMXoxYkw2VmpMVFRxQlhvMjA4ZzJDZXlSeDVSdUZyZlFqelBVMmVibEoyQnhRZnRfSW9rYzhwelVBdw?oc=5",
-    "description": "현대건설이 건설현장 비산먼지를 줄이기 위해 살수드론 실증을 마치고 적용 확대에 나선다. 현대건설은 4일 과천주공 8·9단지 재건축(디에이치 르블리스) 공사장에서 살수드론을 통한 비산먼지 저감작업 실증을 완료했다고 밝혔다. 이번 실증에서는 실제 철거공사 환경에서 살수",
-    "published_at": "2026-08-04T16:39:29+09:00",
-    "cluster_id": "4a5d",
-    "publisher": "dt.co.kr",
-    "title_clean": "현대건설, 철거현장 ‘살수드론’ 확대…환경·안전 강화",
-    "summary": "현대건설이 철거현장에서 비산먼지 저감을 위한 살수드론 실증을 완료하고 적용을 확대한다. 이는 건설현장의 환경·안전 관리 기술 고도화를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T08:49:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GH, 친환경 태양광 '케어스테이션' 확대…건설현장 근로자 안전·복지 강화 - 비욘드포스트",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PeFY0cjdDU1FOYUd0UXpZaXd3ZHFnOFA4c3VGM2dRRmhHV015YzF5bjhzM0JpLXpveER2ODl5clE5cDNaaF9Pd3dlXzN5MjJncUk2MDNCckNjSHhtZ2FhNVVMYmNEYVBMNGF4cEdrVlR2Mmc0eFBRX01mdzY?oc=5",
-    "description": "경기주택도시공사(GH)가 건설현장 근로자의 안전과 건강을 보호하기 위해 친환경 태양광 스마트 휴게시설인",
-    "cluster_id": "6153",
-    "publisher": "비욘드포스트",
-    "title_clean": "GH, 친환경 태양광 '케어스테이션' 확대…건설현장 근로자 안전·복지 강화",
-    "summary": "경기주택도시공사(GH)가 건설현장 근로자의 안전과 복지 향상을 위해 친환경 태양광 스마트 휴게시설 '케어스테이션'을 확대 도입하고 있다. 이는 건설현장의 근로 환경 개선과 안전 기준 강화를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T08:24:34+09:00",
     "importance": 2
   }
 ]
