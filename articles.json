@@ -7537,6 +7537,21 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[드론·AI·BIM 뭉쳤다… 건설 현장 바꾸는 '공간 AI' 혁신] 단순 탐지 넘어 의사결정 지원까지… 현대·롯데건설, 안전·시공 자동화 속도 - AI넷",
+    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SQURNdFJDbGI5YzhURzkyUk1oZkR1bHNSMUxCLXZobEE3OFZsUVpScVU5M0NmcDF6R0VtMkQ3SmE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE1SQURNdFJDbGI5YzhURzkyUk1oZkR1bHNSMUxCLXZobEE3OFZsUVpScVU5M0NmcDF6R0VtMkQ3SmE?oc=5\" target=\"_blank\">[드론·AI·BIM 뭉쳤다… 건설 현장 바꾸는 '공간 AI' 혁신] 단순 탐지 넘어 의사결정 지원까지… 현대·롯데건설, 안전·시공 자동화 속도</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI넷</font>",
+    "cluster_id": "672d",
+    "publisher": "AI넷",
+    "title_clean": "[드론·AI·BIM 뭉쳤다… 건설 현장 바꾸는 '공간 AI' 혁신] 단순 탐지 넘어 의사결정 지원까지… 현대·롯데건설, 안전·시공 자동화 속도",
+    "summary": "현대·롯데건설 등이 드론, AI, BIM 기술을 융합한 '공간 AI'를 건설 현장에 도입하여 안전 관리와 시공 자동화를 추진 중이다. 단순 탐지를 넘어 의사결정 지원까지 확대되면서 건설업의 디지털 혁신이 가속화되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T13:39:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23468,22 +23483,6 @@
     "publisher": "businessplus.kr",
     "title_clean": "[영상]롯데건설, 자율주행 청소로봇 운용…현장 효율성 높인다",
     "summary": "롯데건설이 건설 현장에 자율주행 바닥청소 로봇을 도입하여 분진 발생을 줄이고 근로자의 방진 마스크 착용 불편을 해소했다. 건설 현장의 안전성과 작업 효율성을 높이는 기술 혁신 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-29T17:28:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[건설브리핑] 현대건설, 착용로봇 '엑스블 숄더' 현장 투입 - seoulfn.com",
-    "link": "https://www.seoulfn.com/news/articleView.html?idxno=634403",
-    "description": "롯데건설, 건설현장에 '자율주행 바닥청소 로봇' 도입 롯데건설은 건설현장에 '자율주행 바닥청소 로봇'(이하 자율주행 청소로봇)을 도입한다. 롯데건설은 공사 중인 '인천 효성지구 도시개발사업 공동주택 4BL...",
-    "published_at": "2026-07-29T17:00:00+09:00",
-    "cluster_id": "0d9b",
-    "publisher": "seoulfn.com",
-    "title_clean": "[건설브리핑] 현대건설, 착용로봇 '엑스블 숄더' 현장 투입",
-    "summary": "현대건설과 롯데건설이 건설현장에 착용로봇과 자율주행 청소로봇 등 건설 자동화 기술을 도입하고 있다. 이는 건설현장의 노동력 부족 해소, 작업 효율성 증대, 안전성 개선으로 업계의 생산성 향상을 도모하는 긍정적 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T17:28:35+09:00",
     "importance": 2
