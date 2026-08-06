@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "효성중공업·진흥기업, 용인 보라 효성해링턴 플레이스 하자소송 패 - newswatch.kr",
+    "link": "http://www.newswatch.kr/news/articleView.html?idxno=80671",
+    "description": "7일 업계에 따르면 서울중앙지법 민사18부는 용인 보라 효성해링턴 플레이스 입주자대표회의가 시공사인 효성중공업과 진흥기업, 건설공제조합 등을 상대로 제기한 56억7789만원 규모의 하자보수금청구소송을 지난 6월...",
+    "published_at": "2026-08-07T08:40:00+09:00",
+    "cluster_id": "8679",
+    "publisher": "newswatch.kr",
+    "title_clean": "효성중공업·진흥기업, 용인 보라 효성해링턴 플레이스 하자소송 패",
+    "summary": "용인 보라 효성해링턴 플레이스 입주자대표회의가 시공사 효성중공업·진흥기업과 건설공제조합을 상대로 제기한 56억7789만원 규모의 하자보수금청구소송에서 패소했다. 이는 건설업체의 하자 책임 소송에서 입주자 측이 법적 패배를 당한 사례로 기록됐다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T08:44:12+09:00",
+    "event_label": "건설공제조합 관련 하자보수금청구소송 입주자 측 패소",
+    "importance": 5
+  },
+  {
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32277,22 +32294,6 @@
     "title_clean": "IPARK현대산업개발, 기록적 폭염에 CSO 주관 온열질환 예방 강화",
     "summary": "IPARK현대산업개발이 기록적 폭염 속에서 경영진 주도의 현장 점검과 온열질환 예방 활동을 확대하며 건설현장 안전관리를 강화하고 있다. 혹서기 건설 현장의 근로자 안전을 위한 적극적인 CSO 활동을 실시 중이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-05T10:44:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "코오롱글로벌, 사내 플랫폼 ‘KNIT’ 도입… AI·디지털 건설 혁신 가속 - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12117466",
-    "description": "국토교통부 스마트건설 얼라이언스 기술 실증 지원사업을 통해 3D 굴착기와 마감 로봇의 현장 검증도 추진하고 있다. 코오롱글로벌 관계자는 “‘KNIT’를 시작으로 통합 관제 플랫폼과 사업관리 시스템까지 구조를...",
-    "published_at": "2026-08-05T10:40:00+09:00",
-    "cluster_id": "4396",
-    "publisher": "mk.co.kr",
-    "title_clean": "코오롱글로벌, 사내 플랫폼 ‘KNIT’ 도입… AI·디지털 건설 혁신 가속",
-    "summary": "코오롱글로벌이 AI·디지털 기술을 활용한 사내 플랫폼 'KNIT'을 도입하여 건설 현장의 효율성을 높이고 있다. 국토교통부 스마트건설 사업을 통해 3D 굴착기, 마감 로봇 등 첨단 장비 현장 검증을 추진 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-05T10:44:02+09:00",
     "importance": 2
   }
