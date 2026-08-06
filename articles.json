@@ -23490,6 +23490,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "건설투자 9분기 연속 감소 ‘바닥 신호’···하반기 민간투자 회복이 관건 - 이뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yZ3l2QWoxZGQ3dnpkV2hsUmhQWWo1cVdVVnNaNkVod1NpY1YzSXo1MEt0TE45Wl9zYWhIOGtqRzVRQlJ6U29uY2ttaHZMVV9JV2NOLXRjUHBRem1ZQXFWSTRtY2x0bUIyNDFuZ3BsamXSAXRBVV95cUxOSTB6ekdFOHl2a2kzVUJBWEdBRU5Wa09YSXRvWmlUNFd2cWlSU2t0Y1ExUjBzX3FPLWFxdEpEREpsNmY2Z1JFZWRHc2tMWmNKcUZybXNfbEJKSE1SMnhUajc3TVJqY2JwUkF2enNNdEdpcmNYUw?oc=5",
+    "description": "[이뉴스투데이 신지원 기자] 올해 2분기 건설투자가 9분기 연속 감소했지만 감소폭은 크게 축소되며 건설경기가 바닥을 다지고 있다는 분석이 나왔다. 다만 회복세는 공공부문이 견인하고 있는 데다 민간 건설경기는 여전히 부진한 만큼 하반기에는 민간투자 활성화가 경기 회복의 핵심 변수로 꼽혔",
+    "published_at": "2026-08-06T14:48:49+09:00",
+    "cluster_id": "2e87",
+    "publisher": "이뉴스투데이",
+    "title_clean": "건설투자 9분기 연속 감소 ‘바닥 신호’···하반기 민간투자 회복이 관건",
+    "summary": "2분기 건설투자가 9분기 연속 감소했으나 감소폭이 축소되면서 건설경기가 바닥을 형성 중이다. 공공부문이 회복을 견인하고 있으나 민간 건설경기는 여전히 부진하여, 하반기 민간투자 회복이 경기 회복의 핵심 변수로 지적되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T02:59:33+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "고찬석·경기의회 건설위·용인의회, 반도체 클러스터 교통 대책 논의 용인의원 초청 도의회서 용인 미래교통과 안전한 도시기반 조성 정책간담회 - 오토투데이",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CM1FxamhBRXdIdTZXcFd5TE1FbEEwWVhSV0lieGRuLTRSbEhWYjI1cml0djdZVmdQbmZZYnBWMnVPdFVPclpRTEdQY0IwOERneEZ1UGRJQXRicFE4MjRYTHVEaTFfaW1LbGdjVG50Yw?oc=5",
     "description": "경기도의회 건설교통위원회와 용인특례시의회가 용인에 들어설 예정인 반도체 클러스터 조성에 따른 교통 인프라 확충 방안 등 도시기반 시설 조성을 공동으로 모색하는 자",
@@ -32283,21 +32299,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T09:48:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "코오롱글로벌, AI·디지털 도입… 건설업무 혁신 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=338531",
-    "description": "국토교통부 스마트건설 얼라이언스 기술 실증 지원사업에도 참여해 3D 굴착기와 마감 로봇의 현장 검증도 추진 중이다. 코오롱글로벌 관계자는 \"'KNIT'를 시작으로 통합 관제 플랫폼과 사업관리 시스템까지 구조를...",
-    "published_at": "2026-08-05T09:36:00+09:00",
-    "cluster_id": "4d7c",
-    "publisher": "국토일보",
-    "title_clean": "코오롱글로벌, AI·디지털 도입… 건설업무 혁신",
-    "summary": "코오롱글로벌이 AI와 디지털 기술을 건설업무에 도입하여 혁신을 추진 중이다. 국토교통부 스마트건설 얼라이언스 사업에 참여하며 3D 굴착기, 마감 로봇 등 첨단 기술을 현장에 검증하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T09:38:59+09:00",
-    "importance": 2
   }
 ]
