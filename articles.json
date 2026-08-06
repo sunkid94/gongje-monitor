@@ -23471,6 +23471,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "호반그룹, 나흘간 '오픈이노베이션 위크' 개최 .... 스타트업 발굴·투자... - worktoday.co.kr",
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87624",
+    "description": "이번 '2026 호반혁신기술공모전'에서는 AI, 스마트건설, 로봇, 디지털 전환 등 미래 산업 분야에서 두각을 나타낸 스타트업 10곳이 최종 수상 명단에 올랐다. 대상은 AI로 건축도면을 자동 검토하고 설계를 자동화하는 기술을...",
+    "published_at": "2026-08-06T14:00:00+09:00",
+    "cluster_id": "ada3",
+    "publisher": "worktoday.co.kr",
+    "title_clean": "호반그룹, 나흘간 '오픈이노베이션 위크' 개최 .... 스타트업 발굴·투자...",
+    "summary": "호반그룹이 AI, 스마트건설, 로봇 등 미래 기술 분야의 유망 스타트업 10곳을 발굴하고 투자하는 '오픈이노베이션 위크'를 개최했다. 건축도면 자동 검토, 설계 자동화 등 건설 디지털 전환 기술 혁신을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T14:04:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32287,21 +32303,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-04T13:16:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금리인상에 건설사 자금경색 주의 - naeil.com",
-    "link": "https://www.naeil.com/news/read/597604?ref=naver",
-    "description": "현재 건설경기 부진의 핵심요인이 이같은 병목현상인데 기준금리 인상이 이를 심화할 가능성이 상당하다는 지적이다. 고금리와 부동산시장 둔화가 함께 나타날 경우 프로젝트파이낸싱(PF) 연체와 채무 재조정이...",
-    "published_at": "2026-08-04T13:04:00+09:00",
-    "cluster_id": "6748",
-    "publisher": "naeil.com",
-    "title_clean": "금리인상에 건설사 자금경색 주의",
-    "summary": "기준금리 인상으로 인한 고금리와 부동산시장 둔화가 동시에 발생할 경우 건설사의 자금경색이 심화될 우려가 있다. 프로젝트파이낸싱(PF) 연체와 채무 재조정 등 건설업계 전반의 위기 가능성이 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-04T13:11:15+09:00",
-    "importance": 4
   }
 ]
