@@ -23488,6 +23488,38 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "부산도시공사, LH와 BIM 기술 이전 MOU - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260806000741",
+    "description": "지난 5일 한국토지주택공사에서 열린 'BIM 기술이전 및 협력체계 구축 협약식' [사진=부산도시공사] 2026.08.06 이번 협약은 공공부문의 BIM 적용 수준과 활용 기반을 넓히고 스마트건설 기술 경쟁력을 강화하기...",
+    "published_at": "2026-08-06T13:44:00+09:00",
+    "cluster_id": "9f39",
+    "publisher": "newspim.com",
+    "title_clean": "부산도시공사, LH와 BIM 기술 이전 MOU",
+    "summary": "부산도시공사가 한국토지주택공사(LH)와 BIM(건축정보모델링) 기술 이전 및 협력체계 구축 MOU를 체결했다. 공공부문의 BIM 적용 수준을 확대하고 스마트건설 기술 경쟁력을 강화하기 위한 협력이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T13:54:27+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "포천시 노동안전지킴이, 사업장 안전관리 체계 구축 점검 실시 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVOTVOTFY5UHVRSTVqdkdMRU1LOVFBVm9IMHZnVmZERnNtdmZZcXBsMHhiTEVhTUZsMENhOFBMTVhlUHRuT2lPWGdhMEZtek5aNU1FSElrdGZZUVBfUzN0c2M2UQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVOTVOTFY5UHVRSTVqdkdMRU1LOVFBVm9IMHZnVmZERnNtdmZZcXBsMHhiTEVhTUZsMENhOFBMTVhlUHRuT2lPWGdhMEZtek5aNU1FSElrdGZZUVBfUzN0c2M2UQ?oc=5\" target=\"_blank\">포천시 노동안전지킴이, 사업장 안전관리 체계 구축 점검 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+    "published_at": "2026-08-06T13:45:32+09:00",
+    "cluster_id": "f34c",
+    "publisher": "매일일보",
+    "title_clean": "포천시 노동안전지킴이, 사업장 안전관리 체계 구축 점검 실시",
+    "summary": "포천시 노동안전지킴이가 사업장의 안전관리 체계 구축 현황을 점검하는 활동을 실시했다. 이는 산업안전 강화를 위한 정기적인 감시 및 점검 활동이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T13:54:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32268,37 +32300,6 @@
     "summary": "현대건설이 철거현장에 살수 드론을 도입하여 환경오염 방지와 안전성을 강화하고 있습니다. 이는 건설사의 기술 혁신과 환경·안전 관리 수준 향상을 보여주는 사례입니다.",
     "sentiment": "positive",
     "collected_at": "2026-08-04T13:06:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[안전이 문화가 되는 대한민국➂]신동아건설, 혹서기 근로자 건강 보호·안전사고 예방 만전 - 건설이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UZUp5MEFFMC1SWFNhVnR4dkt2VGNsY0pvZEdSaWpqTk82U3ZrVjA5WGlzdzFhNk5mNk90Rl9GTHc5dUtTRHd5ZXRSaS00LUZubDQyWnVhUGhLMHRlNHpXT1ZXaGk?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UZUp5MEFFMC1SWFNhVnR4dkt2VGNsY0pvZEdSaWpqTk82U3ZrVjA5WGlzdzFhNk5mNk90Rl9GTHc5dUtTRHd5ZXRSaS00LUZubDQyWnVhUGhLMHRlNHpXT1ZXaGk?oc=5\" target=\"_blank\">[안전이 문화가 되는 대한민국➂]신동아건설, 혹서기 근로자 건강 보호·안전사고 예방 만전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">건설이코노미뉴스</font>",
-    "cluster_id": "87a0",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "[안전이 문화가 되는 대한민국➂]신동아건설, 혹서기 근로자 건강 보호·안전사고 예방 만전",
-    "summary": "신동아건설이 혹서기 근로자 건강 보호 및 안전사고 예방을 위한 대책을 시행하고 있다. 건설 현장의 안전 문화 정착을 위한 기업의 자발적 노력 사례를 소개한 기사다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-04T13:01:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[안전이 문화가 되는 대한민국➃]현대건설, 현장 환경·안전관리 위한 '무인로봇' 도입 확대 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=40989",
-    "description": "[건설이코노미뉴스]현대건설이 건설현장의 환경·안전관리를 위해 무인로봇 도입 확대를 추진한다.이와 관련, 현대건설은 최근 과천주공 8·9단지 재건축 정비사업 현장에서 살수드론을 통한 비산먼지 저감 작업 실증을 완료했다고 4일 밝혔다. 이번 실증을 통해 실제 철거공사 환경에서 살수드론의 성능과 비행 안정성, 작업 연계성 등을 종합적으로 점검했다.철거공사 현장에서는 비산먼지 저감과 작업자의 안전 확보가 동시에 요구된다. 비산먼지 저감은 필수적인 환경관리 활동이지만 작업 시 미끄러짐, 감전, 중장비 충돌 등의 위험요인이 발생할 수 있다.",
-    "published_at": "2026-08-04T12:52:00+09:00",
-    "cluster_id": "2616",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "[안전이 문화가 되는 대한민국➃]현대건설, 현장 환경·안전관리 위한 '무인로봇' 도입 확대",
-    "summary": "현대건설이 건설현장의 환경·안전관리를 위해 살수드론 등 무인로봇 도입을 확대하고 있다. 과천주공 재건축 현장에서 살수드론의 비산먼지 저감 작업 실증을 완료하여 성능과 안정성을 검증했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-04T12:54:08+09:00",
     "importance": 2
   }
 ]
