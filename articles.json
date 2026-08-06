@@ -7571,6 +7571,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[AI청약 리서치] 포스코이앤씨 '더샵 트리센트', 1순위 평균 18대 1 마감 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNQW9Vb1BhVWZ4SER0MUVZeXNId2Z6MTdaZkV3Qzc5ZU52SFFlZmlZTE13UG05LU44QTZBZFRBT1VKV2dZaGhTRG13NEtBUEdPQ3dMa2s1eUMwZi1qYUJwSw?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [서울=뉴스핌] 송현도 기자 = 포스코이앤씨가 시공하는",
+    "published_at": "2026-08-06T17:20:00+09:00",
+    "cluster_id": "d267",
+    "publisher": "네이트",
+    "title_clean": "[AI청약 리서치] 포스코이앤씨 '더샵 트리센트', 1순위 평균 18대 1 마감",
+    "summary": "포스코이앤씨의 '더샵 트리센트' 아파트 청약에서 1순위 평균 18대 1의 높은 경쟁률을 기록했다. 이는 건설사의 수주 수익성 향상과 브랜드 가치 상승을 의미하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T17:24:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23507,19 +23523,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "HD한국조선해양, 2분기 영업이익 1.6조… 72% 급증 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlNlcll3Y2dVN29fZFZDcnJXby14eEFWcEVhYm9ZQlgzMEhLcmMwcmlzWEMzZHZlTG1LYjNtQnFhNjM2SkZ4dlZZWWktRkJmUks1eUktUmJVbmI5ODJ2MW1VYVRlX284OFRKaWdQc1paWENBVTRMMTVGYVJFeXEtWU9kWHNvQVBXeGcwNTdINA?oc=5",
-    "description": "HD한국조선해양은 2분기 매출 8조 9270억 원, 영업이익 1조 6451억 원을 기록했습니다. 선박 수주 호황과 생산성 향상 및 고환율 수혜로 역대 최고 실적을 냈으며, 국내 조선 3사 합산 영업이익은 2조 7062억 원을 돌파하며 업계 전체의 초호황을 입증했습니다.",
-    "cluster_id": "74db",
-    "publisher": "조선일보",
-    "title_clean": "HD한국조선해양, 2분기 영업이익 1.6조… 72% 급증",
-    "summary": "HD한국조선해양이 2분기 영업이익 1조 6451억 원으로 72% 급증하며 역대 최고 실적을 달성했습니다. 선박 수주 호황, 생산성 향상, 고환율 수혜 등으로 국내 조선 3사 합산 영업이익도 2조 7062억 원을 돌파하며 업계 전체의 초호황을 입증했습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T01:28:17+09:00",
-    "importance": 2
+    "title": "대전·충남, 폭염 대응 강화…취약층 확인하고 현장 점검(종합) - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZmxGLUdiZS1ETmhpT013cGNMZWxRdEhNTkxOcEJSUVN1bzFxeVVOSC1HT0tMMkFfQlJJaHFXTmJEc01MS2otVkNFckRSdkNrc2lRYmozT1k2LWvSAWBBVV95cUxOdENiTDFLa2JFQjMxbzdld2lKQWMyZDNKNHN5REYzbEdtLU41NW1feXFpQ01DTllieWhoU2YydFhiYlBhMEM1TnNFMXpFeDB3LUpkMHVUVWN5VUplMUxmRW0?oc=5",
+    "description": "(대전·홍성=연합뉴스) 이재림 김준범 기자 = 폭염이 기승을 부린 6일 대전시와 충남도는 취약계층 보호와 야외 작업장 안전 점검 강화에 나섰다.",
+    "published_at": "2026-08-06T16:45:56+09:00",
+    "cluster_id": "7f44",
+    "publisher": "연합뉴스",
+    "title_clean": "대전·충남, 폭염 대응 강화…취약층 확인하고 현장 점검(종합)",
+    "summary": "대전시와 충남도가 폭염 대응을 위해 취약계층 보호와 야외 작업장 안전 점검을 강화하고 있다. 이는 건설업계의 안전 관리 강화 및 규제 움직임으로 볼 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T17:24:49+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32281,22 +32298,6 @@
     "title_clean": "무주군 온열질환 예방 및 작물 피해 방지 현장 지도",
     "summary": "무주군이 폭염 대응으로 37개 건설사업장에 대해 건설노동자 보호 조치 및 안전 상황을 28일까지 점검한다. 동시에 독거노인 등 취약계층 1,457명에 대한 온열질환 예방 지원을 추진 중이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-04T18:40:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'미분양 꼬리표' 뗀 대전 중구, 시장 관리 나섰다 - 로컬투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RSGZWU0xwaHdpa3czU2VUY0s4U1d1SFBVelpVU3d3X3FxdWJxSlRrZDA1M2RVUFVNZU44b1V1czExZnlvZHZLbjV4RW5vUExKMXEzQjZKYUM1SGdXaGdMRi0xTFNnTHB5QjlzbjRudl8?oc=5",
-    "description": "[로컬투데이=이지윤 기자]지정 한 달 만에 미분양관리지역 꼬리표를 뗀 대전 중구가 주택시장 안정과 지역 건설경기 활성화를 위해 선제적 관리 모드에 들어갔다.대전",
-    "published_at": "2026-08-04T18:25:34+09:00",
-    "cluster_id": "aa77",
-    "publisher": "로컬투데이",
-    "title_clean": "'미분양 꼬리표' 뗀 대전 중구, 시장 관리 나섰다",
-    "summary": "대전 중구가 미분양관리지역 지정 1개월 만에 해제되어 미분양 꼬리표를 벗었다. 지역 주택시장 안정과 건설경기 활성화를 위해 시장 관리에 나섰다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-04T18:40:00+09:00",
     "importance": 2
   }
