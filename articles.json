@@ -7537,6 +7537,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“한국” 트럼프가 콕 집더니, 백악관이 밀어붙이는 상황…K조선 일 터... - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/international/2026/08/05/20260805500186?wlog_tag3=naver",
+    "description": "중형 군수지원함 관련 RFI에는 두 업체와 함께 삼성중공업도 참여한 것으로 전해졌다. RFI는 정식 발주에 앞서 업체의 기술력과 생산능력 등을 파악하는 시장조사 절차다. 특정 업체의 수주나 사업 참여가 결정됐다는...",
+    "published_at": "2026-08-05T15:30:00+09:00",
+    "cluster_id": "8f40",
+    "publisher": "seoul.co.kr",
+    "title_clean": "“한국” 트럼프가 콕 집더니, 백악관이 밀어붙이는 상황…K조선 일 터...",
+    "summary": "삼성중공업이 미국 중형 군수지원함 프로젝트의 RFI(시장조사)에 참여한 것으로 전해졌다. 트럼프 행정부가 추진하는 해당 사업은 한국 조선업계에 신규 수주 기회를 제공할 수 있는 호재로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T13:14:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23470,22 +23486,6 @@
     "summary": "조선 빅3사의 2분기 합산 영업이익이 2조7000억원을 돌파했으며, 고부가가치 선박 중심의 선별 수주 전략으로 실적이 지속적으로 개선되고 있다. 조선업계의 수익성 강화와 사업 다각화가 진행 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-07-29T17:28:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[대전 24시] 대덕구 공공도서관, 주민 인공지능 역량 키운다 - sisajournal.com",
-    "link": "https://www.sisajournal.com/news/articleView.html?idxno=381495",
-    "description": "유성구는 현대건설·대우건설·서해종합건설·GS건설 등 관내 대형공사장 시공사 4곳과 협력 체계를 구축했으며 공사장 살수차 5대를 투입할 예정이다. 살수차는 폭염주의보 또는 폭염경보 등 폭염특보 발효 시 유동...",
-    "published_at": "2026-07-29T17:05:00+09:00",
-    "cluster_id": "353b",
-    "publisher": "sisajournal.com",
-    "title_clean": "[대전 24시] 대덕구 공공도서관, 주민 인공지능 역량 키운다",
-    "summary": "대전 유성구가 현대건설, 대우건설 등 대형공사장 시공사 4곳과 협력하여 폭염 대비 살수차 5대를 투입하기로 했다. 이는 공사장 안전관리 강화 및 근로자 보호 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-29T17:08:08+09:00",
     "importance": 2
   },
   {
