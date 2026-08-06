@@ -7537,6 +7537,21 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "(주)대우건설 단일판매ㆍ공급계약체결 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVWxzRlFHRjVrOHNzYlFiZEp3RDJZNVZwQjJobDdoWTZuTUU5UXNDaFZFNkx6aW9DbU1SNGpfU2dfbEdSbU9xMnhOb1RqSVp1UnlIaTNZQlNzN1U?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVWxzRlFHRjVrOHNzYlFiZEp3RDJZNVZwQjJobDdoWTZuTUU5UXNDaFZFNkx6aW9DbU1SNGpfU2dfbEdSbU9xMnhOb1RqSVp1UnlIaTNZQlNzN1U?oc=5\" target=\"_blank\">(주)대우건설 단일판매ㆍ공급계약체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제 마켓</font>",
+    "cluster_id": "e9fc",
+    "publisher": "매일경제 마켓",
+    "title_clean": "(주)대우건설 단일판매ㆍ공급계약체결",
+    "summary": "(주)대우건설이 단일판매 및 공급계약을 체결했다. 구체적인 프로젝트 규모, 금액, 기간 등 상세 내용이 제시되지 않아 업계 영향도 판단이 어렵다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T00:09:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -23472,19 +23487,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "[김우일의 세상 돋보기] AI 경제, 신기루(蜃氣樓)인가? 그 진면목(眞面目... - tfmedia.co.kr",
-    "link": "https://www.tfmedia.co.kr/news/article.html?no=206084",
-    "description": "필자는 1980년대 대우건설의 건설현장인 사하라사막 도로공사를 감사하면서 사막을 횡단했고, 그 과정에서 수많은 신기루를 보며 착각과 환상을 경험했다. 끝없는 사막의 열기 속에서 시속 20㎞로 달리는 행군은 일행을...",
-    "published_at": "2026-07-30T09:00:00+09:00",
-    "cluster_id": "5fc4",
-    "publisher": "tfmedia.co.kr",
-    "title_clean": "[김우일의 세상 돋보기] AI 경제, 신기루(蜃氣樓)인가? 그 진면목(眞面目...",
-    "summary": "저자가 사하라사막 도로공사 감사 경험을 통해 신기루와 환상을 언급하며 AI 경제의 실체를 검토하는 칼럼. 건설 현장 경험을 바탕으로 현재의 AI 경제 열풍에 대한 비판적 성찰을 시도.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T09:03:11+09:00",
+    "title": "[알립니다]포천~철원 고속도로 포럼 - kwnews.co.kr",
+    "link": "https://www.kwnews.co.kr/article/20260806500705",
+    "description": "대진대 스마트건설환경공학과 교수, 이혜교 강원특별자치도 SOC정책관, 심태현 철원군청 건설도시과장, 이정상 철원군 이장연합회장, 신영철 포천시 정주여건조성과장 ■ 주최 : 한기호 국회의원실, 철원군, 강원일보사...",
+    "published_at": "2026-08-07T00:02:00+09:00",
+    "cluster_id": "986d",
+    "publisher": "kwnews.co.kr",
+    "title_clean": "[알립니다]포천~철원 고속도로 포럼",
+    "summary": "포천~철원 고속도로 건설 관련 포럼이 개최되며, 국회의원실, 지자체, 건설 전문가 등이 참여하여 사업 추진을 논의하는 행사. 새로운 도로 인프라 건설 프로젝트로 건설업계의 잠재적 수주 기회 증대.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T00:09:26+09:00",
     "importance": 2
   },
   {
@@ -32283,21 +32298,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T09:38:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설불황에 취약계층 일용직 일자리 타격…퇴직공제 적립 19만명↓ - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026080509275373628",
-    "description": "퇴직공제는 근로계약기간이 1년 미만인 일용·임시직 건설노동자를 대상으로 공사를 시공하는 건설사업주가 낸다. 공공공사는 1억원, 민간공사는 50억원 이상일 경우 사업주가 매달 근로자의 근로일을 따져...",
-    "published_at": "2026-08-05T09:27:00+09:00",
-    "cluster_id": "6875",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "건설불황에 취약계층 일용직 일자리 타격…퇴직공제 적립 19만명↓",
-    "summary": "건설경기 불황으로 인해 일용·임시직 건설노동자의 퇴직공제 적립이 감소하고 있다. 근로일 기준으로 적립되는 퇴직공제 규모가 19만 명 수준에서 줄어들면서 취약계층 노동자의 일자리와 노후보장이 타격을 받고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T09:33:57+09:00",
-    "importance": 4
   }
 ]
