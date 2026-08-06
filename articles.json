@@ -7537,6 +7537,21 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산퓨얼셀, 창사 최대 해외 계약… 독일 리베리온과 1087억원 수주 - 스카이데일리",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wZVdlZF9MSDBtbThfdWdiVnF3eFlSRF9RVHM5eTBJZGFmeWgwdEJkU0tDUmdibnZqWXVCR2tkbUhoQkZOU1RDLU8xMXluVUlnRDRxaVNvdEhLZWZY?oc=5",
+    "description": "두산퓨얼셀이 고체산화물연료전지(SOFC)의 핵심 부품인 스택을 자체 생산 기술로 양산해 유럽 시장에 공급한다. �...",
+    "cluster_id": "fb38",
+    "publisher": "스카이데일리",
+    "title_clean": "두산퓨얼셀, 창사 최대 해외 계약… 독일 리베리온과 1087억원 수주",
+    "summary": "두산퓨얼셀이 독일 리베리온과 1087억원 규모의 SOFC 스택 공급 계약을 체결했으며, 이는 창사 이래 최대 규모의 해외 계약이다. 자체 개발한 스택 양산 기술로 유럽 시장 진출을 본격화하며 신재생에너지 관련 기계설비 부문의 해외 수주 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T19:39:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23473,20 +23488,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "상반기 정비사업 수주 상위 건설사, 하반기 분양 잇따라 - gpkorea.com",
-    "link": "https://www.gpkorea.com/news/articleView.html?idxno=145203",
-    "description": "현대건설과 GS건설이 각각 7조원대 수주고를 기록했고 삼성물산과 대우건설, 두산건설이 뒤를 이었다. 두산건설은 전국 10개 정비사업에서 총 2조6426억원의 시공권을 확보해 업계 5위에 올랐다. 수주 상위 건설사들은...",
-    "published_at": "2026-07-30T08:58:00+09:00",
-    "cluster_id": "eb54",
-    "publisher": "gpkorea.com",
-    "title_clean": "상반기 정비사업 수주 상위 건설사, 하반기 분양 잇따라",
-    "summary": "현대건설과 GS건설이 상반기 정비사업 수주에서 각각 7조원대의 수주고를 기록했으며, 삼성물산, 대우건설, 두산건설 등이 뒤를 이었다. 수주 상위 건설사들이 하반기 분양을 잇따라 진행할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T09:03:11+09:00",
-    "importance": 2
+    "title": "국토교통부, 건설현장 폭염 안전 집중 점검 - 누리일보",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GOGFnaU83Z1BRWExCWUkybXc1YkJzMmw0NnBwc1lPWnhHM0l3dERzaHJ3SDhQVmpQVUU1VDltcW1qYjZ3QXRkMFY2OUIzR3gxVGxHQy1OS2QzOTVhbWlN?oc=5",
+    "description": "(누리일보) 국토교통부는 폭염대응을 위한 중앙재난안전대책본부의 대응이 2단계로 격상(8.2)되고 폭염이 장기간 지속됨에 따라, 건설현장 노동자의 온열질환 발생 예방을 위해, 8월 6일 오후 서울에서 삼성물산, 대우건설, 디엘건설 등 20여 개 주요 건설사 안전 담당임원 대상 폭염안전긴급점검회의를 개최했다. 이번 회의에서는 주요 건설사",
+    "cluster_id": "bf88",
+    "publisher": "누리일보",
+    "title_clean": "국토교통부, 건설현장 폭염 안전 집중 점검",
+    "summary": "국토교통부가 폭염 2단계 격상에 따라 건설현장의 온열질환 예방을 위해 주요 건설사 20여 곳 안전 담당임원을 대상으로 폭염안전긴급점검회의를 개최했다. 이는 건설현장 노동자 안전 확보를 위한 정부의 적극적인 점검 및 관리 강화 조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T19:39:46+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32284,22 +32298,6 @@
     "summary": "건설노동자의 42.7%만이 폭염특보 시 휴식 규정을 준수받고 있으며, 작업장 온도가 38도를 초과하는 극한 환경에 노출되어 있다. 기사는 건설업 노동자의 열악한 근로 환경과 산업안전 규정 미준수 문제를 지적하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-05T05:09:22+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[시론] 실효성 있는 폭염 대책 시급하다 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608012123036680415",
-    "description": "따라서 폭염 피해를 근본적으로 예방하기 위한 제도적 장치 마련이 필요한데, 건설노동자들에게 가장 시급한 것은 폭염에 따른 휴식을 공사기간과 공사금액에 반영하는 것이다. 국가나 지방자치단체, 공공기관은...",
-    "published_at": "2026-08-05T04:20:00+09:00",
-    "cluster_id": "1b11",
-    "publisher": "대한경제",
-    "title_clean": "[시론] 실효성 있는 폭염 대책 시급하다",
-    "summary": "폭염으로 인한 건설노동자 피해를 예방하기 위해 제도적 장치 마련이 필요하며, 폭염 휴식을 공사기간과 공사금액에 반영할 것을 주장하는 기사이다. 이는 건설업계에 추가 비용 부담과 공기 연장을 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T04:24:26+09:00",
     "importance": 4
   }
 ]
