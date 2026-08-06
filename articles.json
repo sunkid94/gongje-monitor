@@ -23487,6 +23487,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "일상 된 극단적 더위…물가·소비·노동 흔드는 '폭염 리스크' - news1.kr",
+    "link": "https://www.news1.kr/economy/trend/6250815",
+    "description": "건설 노동자는 물론이고 전기·전자제품 설치기사, 택배기사, 라이더 등이 폭염의 영향을 많이 받는다\"고 설명했다. 이어 \"업종별로 보면 농업과 수산업 등 1차 산업의 영향이 크고, 생산성이 떨어지면 물가에도...",
+    "published_at": "2026-08-07T06:00:00+09:00",
+    "cluster_id": "a1b2",
+    "publisher": "news1.kr",
+    "title_clean": "일상 된 극단적 더위…물가·소비·노동 흔드는 '폭염 리스크'",
+    "summary": "폭염이 건설노동자, 택배기사, 라이더 등 야외 근로자의 생산성을 저하시키고 있으며, 농수산업 등 1차 산업의 영향이 커지면서 물가 상승으로 이어질 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T06:09:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32280,22 +32296,6 @@
     "title_clean": "코오롱글로벌, AI 기술 통해 업무 효율화…자체 디지털 생태계 구축 - g-enews.com",
     "summary": "코오롱글로벌이 AI 기술과 자체 디지털 생태계(KNIT 플랫폼)를 구축하여 건설 현장의 업무 효율화를 추진 중이다. 국토교통부 스마트건설 얼라이언스 사업에 참여해 3D 굴착기, 마감 로봇 등 첨단 기술의 현장 검증도 진행하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-05T10:09:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "차세대 스마트 종합사업관리시스템 본격 가동 - 뉴스파이어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XbHVfZlpMLVdOTmN1UEZxNnBMZFZFeDBDeWpuaUNFMG1qX0RWekhXY3JwUWFMUkRPT0IyaTNab29pOS1vVHZmQkdHMURPdlRnYS1pcXdtd3FxTkRXRGdKQjFhRDhpdVF4NGl6UXNYNA?oc=5",
-    "description": "[뉴스파이어] 행정중심복합도시건설청은 행정중심복합도시 건설을 한 단계 진화시킬 ‘차세대 종합사업관리시스템’ 고도화 사업을 완료하고 지난 7월 31일부터 본격적인 가동에 들어갔다고 밝혔다.그간 행복청은 다수 주체가 동시다발적으로 참여하는 행복도시 건설사업 특성상 발생하기 쉬운 공사 간 간섭과 예산 중복 투입 같은 비효율을 막기 위해 2008년부터 ‘종합사업관리’ 체계를 선도적으로 도입·운영해 왔다. 정부청사 이전에만 프랑스가 12년, 스웨덴이 19년 소요된 것에 비해, 착공 5년 반 만에 중앙행정기관 이전을 성공적으로 마무리할 수 있",
-    "published_at": "2026-08-05T09:48:38+09:00",
-    "cluster_id": "f085",
-    "publisher": "뉴스파이어",
-    "title_clean": "차세대 스마트 종합사업관리시스템 본격 가동",
-    "summary": "행정중심복합도시건설청이 차세대 종합사업관리시스템 고도화를 완료하고 7월 31일부터 본격 운영을 시작했다. 이 시스템은 다중 주체의 동시 참여로 인한 공사 간섭과 예산 중복 투입을 방지하여 건설사업의 효율성을 높이는 것을 목표로 한다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-05T10:09:06+09:00",
     "importance": 2
   }
