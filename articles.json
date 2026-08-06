@@ -23488,6 +23488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[기고] 그늘 없는 폭염 현장, 쉬면 손해 보는 노동자들 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OZUVyMkluM1F1Yk1kc1pEbTVIb0ZDdkhQS1RLM1FuLTNhc3lnNjRGR3ViVlBBdUhhQ293LTF1Y1lrSXhL?oc=5",
+    "description": "최명기 교수 ©매일건설신문 연일 기록적인 폭염이 기승이다. 전국 곳곳에 폭염중대경보가 발령된 가운데 극심한 무더위 속 하루 200명 가까운 온열",
+    "published_at": "2026-08-06T16:05:00+09:00",
+    "cluster_id": "fbe9",
+    "publisher": "매일건설신문",
+    "title_clean": "[기고] 그늘 없는 폭염 현장, 쉬면 손해 보는 노동자들",
+    "summary": "기록적인 폭염으로 인해 건설 현장에서 노동자들이 극한 근무 환경에 노출되고 있으며, 경제적 손실을 우려해 휴식을 취하지 못하는 상황이 발생하고 있다. 이는 건설업계의 안전 관리와 근로 환경 개선의 필요성을 제기하는 기고문이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T22:14:20+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32279,22 +32295,6 @@
     "publisher": "dt.co.kr",
     "title_clean": "GH, 건설현장 안전정책 확대…근로자 보호 위한 안전·복지시설 강화",
     "summary": "경기주택도시공사(GH)가 건설현장 근로자의 안전과 복지를 위해 친환경 스마트 휴게시설 'GH 케어스테이션' 3기를 추가 설치하며 안전정책을 확대하고 있다. 이는 건설현장의 안전·복지 기준 강화로 관련 산업의 수익성 증가와 새로운 사업 기회 창출을 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T08:49:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"폭염·한파 걱정 끝\"…GH, 건설현장 스마트 휴게시설 확대 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKbU0zYjVyVE1IQmxEN2U3VWR1cWVZb2E2S2xnZ3NCRXQ4WVhKQ2o1YVRCOTRIdC1SajdSYWljc0YyNW5rMVZCT2Q4QkpLZmZaT1BV?oc=5",
-    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 경기주택도시공사(GH)가 건설현장 근로자의 쾌적한 휴식 여건을 개선하고 폭염과 한파 등 사계절 안전 위험에 대응하기 위한 친환경 스마트 휴게시설인",
-    "published_at": "2026-08-05T08:28:00+09:00",
-    "cluster_id": "d715",
-    "publisher": "네이트",
-    "title_clean": "\"폭염·한파 걱정 끝\"…GH, 건설현장 스마트 휴게시설 확대",
-    "summary": "경기주택도시공사(GH)가 건설현장 근로자를 위한 친환경 스마트 휴게시설을 확대하고 있다. 폭염과 한파 등 사계절 안전 위험에 대응하여 근로자의 작업 환경과 안전성을 개선하는 사업이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-05T08:49:20+09:00",
     "importance": 2
