@@ -23489,6 +23489,37 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "호반그룹, 오픈 이노베이션 위크…AI·로봇 등 스타트업 기술 발굴 - 1conomynews.co.kr",
+    "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49879",
+    "description": "이날 열린 2026 호반혁신기술공모전 시상식에서는 AI와 스마트건설, 로봇, 디지털 전환 등 미래산업 분야의 기술력을 갖춘 스타트업 10곳이 최종 선정됐다. 대상은 AI 기반 건축도면 자동 검토 및 설계 자동화 기술을...",
+    "published_at": "2026-08-06T11:50:00+09:00",
+    "cluster_id": "0c36",
+    "publisher": "1conomynews.co.kr",
+    "title_clean": "호반그룹, 오픈 이노베이션 위크…AI·로봇 등 스타트업 기술 발굴",
+    "summary": "호반그룹이 AI, 로봇, 스마트건설 등 미래기술을 보유한 스타트업 10곳을 선정해 오픈 이노베이션 위크를 개최했다. AI 기반 건축도면 자동 검토 및 설계 자동화 등 건설산업의 디지털 전환을 가속화할 기술들이 발굴되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T11:58:54+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "백승보 조달청장, 폭염 속 건설현장 방문해 근로자 안전 점검 - 서남투데이",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DWjRoSlh1YzAxcGk1WUltTmpLZ3JwNXQwcThEdTJ5cEFtR0JzUEVmdzlGTWx3UFV6Nkh6NExOem05VDRQQkNLQkdrTml3QTYzV2pYYTcyX0FuZw?oc=5",
+    "description": "백승보 조달청장이 5일 폭염 속에서 건설 현장 근로자의 온열질환 예방과 안전 관리를 위해 현장 점검에 나섰다. 백승보 조달청장이 5일 폭염 속에서 건설 현장 근로자의 온열질환 예방과 안전 관리를 위해 현장 점검에 나섰다.조달청은 공사관리 중인 전국 29개 현장을 대상으로 폭염 대비 긴급 안전점검을 추진하고 있다. 이 날 백 청장은 충북 청주시에 위치한 119 항공정비실 건립사업 현장을 방문해 폭염 대응 실태를 살폈다. 해당 사",
+    "cluster_id": "de31",
+    "publisher": "서남투데이",
+    "title_clean": "백승보 조달청장, 폭염 속 건설현장 방문해 근로자 안전 점검",
+    "summary": "백승보 조달청장이 폭염 속 건설현장의 근로자 안전 관리 실태를 점검했다. 조달청은 공사관리 중인 전국 29개 현장을 대상으로 폭염 대비 긴급 안전점검을 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-06T11:58:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32269,37 +32300,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-04T11:36:09+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[그래픽] 건설경기 침체에도 대형 건설사 실적 개선 - newsis.com",
-    "link": "https://www.newsis.com/view/NISI20260804_0002203764",
-    "description": "건설 경기 침체에도 주요 대형 건설사들의 올해 2분기 영업이익은 증가한 것으로 나타났다. 매출은 감소했지만 원가율 개선과 수익성이 높은 사업 비중 확대가 실적을 끌어올렸다. 4일 금융감독원 전자공시에...",
-    "published_at": "2026-08-04T11:22:00+09:00",
-    "cluster_id": "0c07",
-    "publisher": "newsis.com",
-    "title_clean": "[그래픽] 건설경기 침체에도 대형 건설사 실적 개선",
-    "summary": "건설경기 전반적 침체 속에서도 대형 건설사들은 원가율 개선과 고수익 사업 비중 확대를 통해 2분기 영업이익을 증가시켰다. 매출 감소에도 불구하고 수익성 개선으로 실적 개선을 달성했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-04T11:31:30+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금융당국, 잔금대출 풀고 PF 활성화 방안 마련 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10830208?ref=naver",
-    "description": "다만 현재 건설경기 불황의 배경이 글로벌 공급망 위축에 따른 자값 상승 등 갖가지 외부 요인이 작용한 결과라는 점에서, PF 활성화 만으로 공급 문제가 풀리진 않을 것이라는 우려가 많다. 이에 더해 자칫 금융권의...",
-    "published_at": "2026-08-04T11:19:00+09:00",
-    "cluster_id": "cb66",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "금융당국, 잔금대출 풀고 PF 활성화 방안 마련",
-    "summary": "금융당국이 건설경기 부양을 위해 잔금대출 확대와 PF 활성화 방안을 추진하고 있다. 다만 글로벌 공급망 위축과 자재비 상승 등 외부 요인이 근본 원인이어서 금융 완화만으로는 공급 문제 해결이 어려울 것이라는 우려가 제기되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-04T11:31:30+09:00",
-    "importance": 2
   }
 ]
