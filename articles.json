@@ -7537,6 +7537,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "하반기 원전수주 기대…잘나가는 건설주 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12119502",
+    "description": "대우건설 1주일새 50% 급반등 원전 수주 기대감이 재부각되며 대형 건설주 주가가 가파르게 반등하고 있다. 특히 대우건설은 파푸아뉴기니 액화천연가스(LNG) 프로젝트의 우선협상대상자 선정 소식과 함께 연간 수주...",
+    "published_at": "2026-08-06T18:11:00+09:00",
+    "cluster_id": "5074",
+    "publisher": "mk.co.kr",
+    "title_clean": "하반기 원전수주 기대…잘나가는 건설주",
+    "summary": "원전 수주 기대감과 파푸아뉴기니 LNG 프로젝트 우선협상대상자 선정으로 대우건설을 포함한 대형 건설주들의 주가가 급반등하고 있다. 하반기 원전 수주 증가 전망이 업계 호재로 작용하며 건설업 경기 회복 기대감이 높아지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T18:15:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23471,22 +23487,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-30T08:33:08+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[증시키워드] SK하닉 2분기 실적 전망치 하회에 반도체 폭락…삼전 어닝... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2609009",
-    "description": "두산에너빌리티는 전 거래일 대비 6.03% 내린 6만800원으로 장을 마감했다. 원전과 전력 인프라 관련 중장기 수주 모멘텀은 유효하지만 대형주 전반의 수급 악화 속에 외국인과 기관의 순매도가 집중되며 내림세를...",
-    "published_at": "2026-07-30T07:58:00+09:00",
-    "cluster_id": "58c6",
-    "publisher": "etoday.co.kr",
-    "title_clean": "[증시키워드] SK하닉 2분기 실적 전망치 하회에 반도체 폭락…삼전 어닝...",
-    "summary": "두산에너빌리티가 전 거래일 대비 6.03% 하락하며 장을 마감했다. 원전과 전력 인프라 관련 중장기 수주 모멘텀은 유효하나 대형주 전반의 수급 악화로 외국인과 기관의 순매도가 집중되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T08:07:59+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
