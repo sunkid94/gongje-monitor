@@ -23471,6 +23471,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "스마트인재개발원팀, 조달청 AI 데이터 경진대회서 대상 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260806_0003739130",
+    "description": "이번 대회에서 팀은 교육과정 핵심프로젝트를 바탕으로 산업현장 생체·환경 통합 관제와 안전관리비 실집행 검증을 결합한 건설현장 안전관리 플랫폼을 기획·구현해 높은 평가를 받았다. 해당 플랫폼은 엣지 AI 기술을...",
+    "published_at": "2026-08-06T14:53:00+09:00",
+    "cluster_id": "ae5a",
+    "publisher": "newsis.com",
+    "title_clean": "스마트인재개발원팀, 조달청 AI 데이터 경진대회서 대상",
+    "summary": "스마트인재개발원팀이 조달청 AI 데이터 경진대회에서 대상을 수상했으며, 건설현장 안전관리 플랫폼을 개발해 높은 평가를 받았다. 해당 플랫폼은 생체·환경 통합 관제와 안전관리비 검증을 결합한 것으로, 건설현장의 AI 기술 도입을 보여주는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T14:59:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "DL이앤씨, AI 기반 안전관리 체계 전면 개편 [건설·분양오늘] - sisaon.co.kr",
+    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203302",
+    "description": "'2026 호반혁신기술공모전'에서는 인공지능(AI), 스마트건설, 로봇, 디지털 전환 등 미래산업 분야 스타트업 10개사가 최종 선정됐다. 대상은 AI 기반 건축도면 자동 검토 및 설계 자동화 기술을 개발한 투피트가 받았다....",
+    "published_at": "2026-08-06T14:56:00+09:00",
+    "cluster_id": "cff7",
+    "publisher": "sisaon.co.kr",
+    "title_clean": "DL이앤씨, AI 기반 안전관리 체계 전면 개편 [건설·분양오늘]",
+    "summary": "DL이앤씨가 AI, 스마트건설, 로봇 등 미래기술 기반의 안전관리 체계를 전면 개편하고 있으며, '2026 호반혁신기술공모전'을 통해 10개 스타트업을 선정했다. AI 기반 건축도면 자동검토 기술 등 건설산업의 디지털 혁신을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T14:59:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32269,38 +32301,6 @@
     "summary": "상반기 자동차 등록의 4대 중 1대가 전기차로 집계되며 전동화 추세가 가속화되고 있다. 건설경기 침체 속에서도 기아의 전용 PBV 모델 출시로 전기 화물차 판매가 증가하는 등 신규 전동화 모델이 시장을 견인하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-04T15:10:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "철강 3사 외형 성장에도 이익 희비…美·EU 장벽까지 덮쳤다 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026080414510647143",
-    "description": "봉형강 판매량 증가와 주요 제품 가격 상승으로 매출은 늘었지만, 건설경기 침체와 원가 부담이 수익성 개선을 제약했다. 상반기 누적 매출은 11조8470억원으로 전년 동기 대비 2.9% 증가한 반면 영업이익은 734억원으로...",
-    "published_at": "2026-08-04T14:58:00+09:00",
-    "cluster_id": "1e18",
-    "publisher": "newsway.co.kr",
-    "title_clean": "철강 3사 외형 성장에도 이익 희비…美·EU 장벽까지 덮쳤다",
-    "summary": "철강 3사가 봉형강 판매량 증가와 제품 가격 상승으로 매출은 증가했으나, 건설경기 침체와 원가 부담으로 영업이익은 크게 감소했다. 미국과 EU의 무역 장벽까지 가중되며 수익성 악화가 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-04T15:05:57+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대리바트, 2분기 영업익 55.6억…전년比 9.4%↑ - news1.kr",
-    "link": "https://www.news1.kr/industry/sb-founded/6248790",
-    "description": "현대리바트 관계자는 \"건설경기 침체가 지속되며 빌트인 가구 공급 물량이 감소해 매출이 줄었다\"며 \"효율 경영을 통해 영업이익은 전년 대비 소폭 늘었다\"고 말했다. 이어 \"향후 신규 주택정비 사업과 B2B...",
-    "published_at": "2026-08-04T14:56:00+09:00",
-    "cluster_id": "0318",
-    "publisher": "news1.kr",
-    "title_clean": "현대리바트, 2분기 영업익 55.6억…전년比 9.4%↑",
-    "summary": "현대리바트가 2분기 영업익 55.6억 원으로 전년 대비 9.4% 증가했으나, 건설경기 침체로 인한 빌트인 가구 공급 물량 감소로 매출은 하락했다. 효율 경영을 통해 수익성은 개선했으며, 신규 주택정비 사업 등으로 향후 성장을 모색 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-04T15:05:57+09:00",
     "importance": 2
   }
 ]
