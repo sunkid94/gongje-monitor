@@ -23489,6 +23489,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[산업소식] 제주항공, 하반기 객실승무원 공개채용 - 4th.kr",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2115904",
+    "description": "'2026 호반혁신기술공모전'에서는 AI, 스마트건설, 로봇, 디지털 전환 등 미래산업 분야의 기술을 보유한 스타트업 10개사를 선정했다. 대상은 AI 기반 건축도면 자동 검토 및 설계 자동화 기술을 개발한 투피트가 받았다....",
+    "published_at": "2026-08-06T12:22:00+09:00",
+    "cluster_id": "2984",
+    "publisher": "4th.kr",
+    "title_clean": "[산업소식] 제주항공, 하반기 객실승무원 공개채용",
+    "summary": "제주항공이 하반기 객실승무원 공개채용을 진행한다. 동시에 2026 호반혁신기술공모전에서 AI, 스마트건설, 로봇 등 미래기술 분야 스타트업 10개사를 선정했으며, 대상은 AI 기반 건축도면 자동검토 기술 개발사가 수상했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-06T12:28:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32282,21 +32298,6 @@
     "publisher": "news.ifm.kr",
     "title_clean": "\"폭염도 불평등이다\"…진보당, '불평등 현장 대장정' 돌입",
     "summary": "진보당이 기후 재난으로 인한 사회 불평등 문제를 지적하며 '불평등 현장 대장정'을 시작했다. 민주노점상연합, 건설노동조합, 배달·택배노동조합 등 저소득 노동계층 단체들이 참석해 폭염 등 기후 재난이 가장 취약한 계층에 집중된다고 주장했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-04T12:36:09+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전시, 폭염 대응 현장점검 강화…경로당·건설현장 안전관리 집중 - 뉴스충청인",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kd2VrbXMtczBFWWI0YjVQNjBMeWQta25NZzNlSE1UQjIzMG1mUTc5UWZySVJFZFZqeFRwVHFmUnJOb1p0MEE?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kd2VrbXMtczBFWWI0YjVQNjBMeWQta25NZzNlSE1UQjIzMG1mUTc5UWZySVJFZFZqeFRwVHFmUnJOb1p0MEE?oc=5\" target=\"_blank\">대전시, 폭염 대응 현장점검 강화…경로당·건설현장 안전관리 집중</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스충청인</font>",
-    "cluster_id": "6d16",
-    "publisher": "뉴스충청인",
-    "title_clean": "대전시, 폭염 대응 현장점검 강화…경로당·건설현장 안전관리 집중",
-    "summary": "대전시가 폭염 시즌을 맞아 경로당과 건설현장에 대한 현장점검을 강화하고 있다. 건설현장의 안전관리를 집중 관리하는 내용으로, 근로자 보호 및 사고 예방에 중점을 두고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-04T12:36:09+09:00",
     "importance": 4
