@@ -23489,6 +23489,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염과의 총력전…대전시, 폭염 대응 긴급 점검회의 열어 - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092604",
+    "description": "취약계층 보호부터 건설현장 안전관리, 무더위쉼터 운영까지 전 분야를 다시 점검하며 폭염 피해 최소화에 행정력을 집중한다. 대전시는 6일 시청에서 지영한 정무경제과학부시장 주재로 실·국장과 5개 자치구 부구청장이...",
+    "published_at": "2026-08-06T18:44:00+09:00",
+    "cluster_id": "4c5f",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "폭염과의 총력전…대전시, 폭염 대응 긴급 점검회의 열어",
+    "summary": "대전시가 폭염 대응을 위해 긴급 점검회의를 개최하여 취약계층 보호, 건설현장 안전관리, 무더위쉼터 운영 등을 집중 점검한다. 폭염으로 인한 건설현장 안전 강화로 규제가 강화될 가능성이 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T18:50:09+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "부산도시공사, LH와 BIM 협력 확대…스마트건설 디지털 전환 본격 추진 - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=711615",
+    "description": "부산도시공사가 한국토지주택공사와 공공부문 BIM 기술 수준 제고를 위한 업무협약을 체결 (사진/부산도시공사) 부산도시공사가 한국토지주택공사와 손잡고 스마트건설 기술 확산에 나섰다. 부산도시공사는...",
+    "published_at": "2026-08-06T18:36:00+09:00",
+    "cluster_id": "1f36",
+    "publisher": "newstown.co.kr",
+    "title_clean": "부산도시공사, LH와 BIM 협력 확대…스마트건설 디지털 전환 본격 추진",
+    "summary": "부산도시공사가 한국토지주택공사와 BIM 기술 협력 업무협약을 체결하여 스마트건설 디지털 전환을 추진 중입니다. 공공부문 BIM 기술 수준 제고 및 건설기술 확산을 통해 건설업계의 디지털 혁신을 가속화하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T18:50:09+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32267,36 +32299,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-05T01:39:33+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울광역본부, 서울 첫 '폭염중대경보' 발령에 긴급 현장 경영 실시 - 안전정보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00bHU2OHBWTlp3UDZTbjhqc0VEQkhRS29DenpIOFgzSmJpckZhSTgzV2hLWG1wdDVnTUYtZnVVcFZzV2RSTVFnY1VsMTNkVWRacElfUnZ3cC1PcUo1U3BhamllaE5ZZnlzSTFN?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE00bHU2OHBWTlp3UDZTbjhqc0VEQkhRS29DenpIOFgzSmJpckZhSTgzV2hLWG1wdDVnTUYtZnVVcFZzV2RSTVFnY1VsMTNkVWRacElfUnZ3cC1PcUo1U3BhamllaE5ZZnlzSTFN?oc=5\" target=\"_blank\">서울광역본부, 서울 첫 '폭염중대경보' 발령에 긴급 현장 경영 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
-    "cluster_id": "83b1",
-    "publisher": "안전정보",
-    "title_clean": "서울광역본부, 서울 첫 '폭염중대경보' 발령에 긴급 현장 경영 실시",
-    "summary": "서울시가 첫 폭염중대경보를 발령하고 긴급 현장 경영을 실시했다. 극한 기후 현상에 따른 안전 대응 강화 소식이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T01:24:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[스카이 View] 42.5도 기록 아래 드러난 노동·주거 격차 - m.skyedaily.com",
-    "link": "https://m.skyedaily.com/news_view.html?ID=308990",
-    "description": "반면 건설노동자에게는 작업을 멈춰야 할 위험이고, 배달기사와 환경미화원에게는 피하기 어려운 노동환경이며, 농민에게는 작물이 타들어가는 생계의 위기다. 밤에도 식지 않는 쪽방촌과 옥탑방과 반지하, 바람 없는...",
-    "published_at": "2026-08-05T00:04:00+09:00",
-    "cluster_id": "8c4a",
-    "publisher": "m.skyedaily.com",
-    "title_clean": "[스카이 View] 42.5도 기록 아래 드러난 노동·주거 격차",
-    "summary": "폭염으로 인한 건설노동자의 작업 중단 위험, 배달기사와 환경미화원의 열악한 노동환경, 저소득층의 열악한 주거환경 등 사회적 격차 문제를 조명한 기사입니다. 극한의 고온 환경에서 취약계층이 겪는 생계 위기와 안전 문제를 지적하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T00:10:26+09:00",
-    "importance": 4
   }
 ]
