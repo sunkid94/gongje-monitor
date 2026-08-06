@@ -23488,6 +23488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[단독] ‘폭염 산재’ 절반은 의식 잃었다…홀로 방치돼 사망도 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630693&ref=A",
+    "description": "한 건설노동자는 화장실에 갔다가 50분이 지나서야 지하 바닥에서 숨진 채 발견됐고, 측량 기사는 사라진 뒤 수색 끝에 발견됐지만 결국 열사병으로 숨졌습니다. 폭염 때는 2인 1조 근무, 주기적인 안전 확인이 기본인데...",
+    "published_at": "2026-08-06T21:21:00+09:00",
+    "cluster_id": "571e",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "[단독] ‘폭염 산재’ 절반은 의식 잃었다…홀로 방치돼 사망도",
+    "summary": "폭염으로 인한 건설 현장 산재 사망 사고가 심각한 수준이며, 절반 이상이 의식을 잃은 상태에서 발생하고 있다. 2인 1조 근무 및 정기적 안전 확인 같은 기본 안전 규칙이 지켜지지 않고 있어 업계의 안전 관리 체계 개선이 시급한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T21:39:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32282,22 +32298,6 @@
     "summary": "경기주택도시공사(GH)가 양주·안성 건설 현장에 태양광 자가발전 시스템 기반의 스마트 휴게시설 'GH 케어스테이션' 3기를 추가 도입한다. 모듈러 공법으로 신속한 설치·이동이 가능하며, 근로자의 안전과 건강 증진을 위한 친환경 시설이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-05T07:29:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LX하우시스, B2C·비건자재 사업 강화로 수익성 개선…순이익 흑자전환 - ceoscoredaily.com",
-    "link": "https://www.ceoscoredaily.com/page/view/2026080416355109352",
-    "description": "건설경기 침체가 장기화된 상황에서 LX하우시스가 B2C(기업과 소비자 간 거래), 비건자재 중심으로 수익성을 개선하고 있다. 다만 주택경기 침체와 원재료가 변동성 확대 등에 따른 불확실성도 여전히 이어지고 있는...",
-    "published_at": "2026-08-05T07:00:00+09:00",
-    "cluster_id": "4967",
-    "publisher": "ceoscoredaily.com",
-    "title_clean": "LX하우시스, B2C·비건자재 사업 강화로 수익성 개선…순이익 흑자전환",
-    "summary": "LX하우시스가 건설경기 침체 속에서 B2C와 비건자재 사업 강화로 수익성을 개선하고 순이익 흑자전환에 성공했다. 다만 주택경기 침체와 원재료 가격 변동성 확대로 인한 불확실성이 지속되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-05T07:09:23+09:00",
     "importance": 2
   }
 ]
