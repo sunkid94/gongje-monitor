@@ -23489,6 +23489,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "칠곡군 공무원, 216개 전 마을 돌며 폭염 대응 - hidomin.com",
+    "link": "https://www.hidomin.com/news/articleView.html?idxno=716329",
+    "description": "또한, 폭염 대응상황 긴급 점검회의를 열고 취약계층 보호 대책, 무더위쉼터 운영 현황, 폭염저감시설 관리, 농업 및 건설현장 안전관리 상황 등을 점검했다. 아울러 장기화하는 폭염에 대비해 대응체계를 재정비하고...",
+    "published_at": "2026-08-06T19:20:00+09:00",
+    "cluster_id": "1c91",
+    "publisher": "hidomin.com",
+    "title_clean": "칠곡군 공무원, 216개 전 마을 돌며 폭염 대응",
+    "summary": "칠곡군이 폭염 대응을 위해 전 마을을 순회하며 긴급 점검회의를 개최했다. 취약계층 보호, 무더위쉼터 운영, 건설현장 안전관리 등을 점검하고 대응체계를 재정비하는 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T19:29:21+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염에 일 못하면 보험금…주목 받는 기후보험 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630510&ref=A",
+    "description": "[건설 노동자 : \"더워도 일할 수 있는 여건이 있으면 좋죠. 하루 일하기 위해서 들어왔는데, 반만 하고 간다 그러면 수입이 반으로 줄어드니까….\"] 제주도가 이런 소득 공백을 메워주는 기후보험을 도입했습니다. 폭염으로...",
+    "published_at": "2026-08-06T19:14:00+09:00",
+    "cluster_id": "5d9d",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "폭염에 일 못하면 보험금…주목 받는 기후보험",
+    "summary": "제주도가 폭염으로 인한 건설 노동자의 소득 손실을 보장하는 기후보험을 도입했습니다. 이는 극한 날씨로 인한 작업 중단 시 노동자의 수입 공백을 메우는 제도입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-06T19:29:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설업 규제",
     "category": "정책·규제",
     "is_company": false,
@@ -32269,35 +32301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T04:24:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기북부 도로 유지관리 CM에 14개 컨소시엄 출사표 - dnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94cDR6bGFma19iWVVla1hjSDFHYW1zUE9LNDRNdEE2UTJsc1ptOXFTZTFYc1c2bUUyM3JwOFdnZE44NTFJT2xMXzBQUHhxeFUtcndqdVU1NzdzMlhuMW40Zk4xZml4Uy0wOF9TYVlEakZLZ1Ny?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE94cDR6bGFma19iWVVla1hjSDFHYW1zUE9LNDRNdEE2UTJsc1ptOXFTZTFYc1c2bUUyM3JwOFdnZE44NTFJT2xMXzBQUHhxeFUtcndqdVU1NzdzMlhuMW40Zk4xZml4Uy0wOF9TYVlEakZLZ1Ny?oc=5\" target=\"_blank\">경기북부 도로 유지관리 CM에 14개 컨소시엄 출사표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dnews.co.kr</font>",
-    "cluster_id": "f527",
-    "publisher": "dnews.co.kr",
-    "title_clean": "경기북부 도로 유지관리 CM에 14개 컨소시엄 출사표",
-    "summary": "경기북부 도로 유지관리 CM(건설관리) 사업에 14개 컨소시엄이 참여의사를 표시했다. 건설관리 용역 수주 기회가 증가하면서 건설업계에 긍정적 신호를 보내고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T02:39:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전시, 폭염 속 경로당·건설 현장 안전 점검 강화 > 뉴스 - 더코리아",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9obWJtU1M3MTBxOGZiaHJmNl9oOTNUbHpTTjhkZUdfdnd5U2tNZFl6ZkFaeFlFNjdDVFA0T0hvMGhtQUVUYzV6WjJraEJZeGY2d012dzVwa0dqbE8wNUNOb3g4bTJhU0tWcUtNd0NkSEw?oc=5",
-    "description": "지영한 정무경제과학부시장 현장 방문, 무더위쉼터 및 근로자 보호 대책 점검",
-    "cluster_id": "e7ee",
-    "publisher": "더코리아",
-    "title_clean": "대전시, 폭염 속 경로당·건설 현장 안전 점검 강화 > 뉴스",
-    "summary": "대전시가 폭염 속 경로당과 건설 현장에 대한 안전 점검을 강화하고 있으며, 무더위쉼터 및 근로자 보호 대책을 점검 중이다. 건설 현장의 근로자 안전 관리 강화로 산재 예방에 중점을 두고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-05T02:39:42+09:00",
-    "importance": 2
   }
 ]
