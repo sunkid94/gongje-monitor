@@ -23487,6 +23487,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도교육청, 건설공사 시민감리단 활동 본격 시작 - suwonilbo.kr",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96X0hPTldWWGZmMjgxeTBXdDdBSVY0VVZpczlHZVlWYzRzWjhDZmNtSkhtMS15am5aTE5fTEM3QWszYnpOX0ZKOTFxVU9XMlFHWnRSZGVXaXhscW9fU1U0MHVMYkhfc0x3RDdR?oc=5",
+    "description": "- 건축 12명등 분야별 전문가 30명 선발 - 건설공사 공정, 품질, 시공 부실시공 방지",
+    "published_at": "2026-08-06T16:59:52+09:00",
+    "cluster_id": "e411",
+    "publisher": "suwonilbo.kr",
+    "title_clean": "경기도교육청, 건설공사 시민감리단 활동 본격 시작",
+    "summary": "경기도교육청이 건축, 기계설비 등 분야별 전문가 30명으로 구성된 시민감리단을 발족하여 건설공사의 공정성, 품질, 시공 부실을 감시한다. 이는 건설공사 투명성 강화 및 부실공사 방지를 목표로 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T00:49:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32281,21 +32297,6 @@
     "title_clean": "5개 사내 시스템 하나로…코오롱글로벌, 통합 플랫폼 'KNIT' 구축",
     "summary": "코오롱글로벌이 5개 사내 시스템을 통합한 플랫폼 'KNIT'을 구축하고, 스마트 건설장비와 기술 실증을 완료했다. 국토교통부 지원사업을 통해 3D 굴착기와 마감 로봇 등의 현장 검증을 추진 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-05T09:38:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공정, 혁신, 포용의 경기 - 경기도청",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50ZWNCXzJ3dnl4ZUNvUzVOMHc3Mlgzd0doWUYtem5ZQ25SWGZYN1d6eHIxVGdsamlIM1hTNmdrc3Z6SjdLTHVoVnkzcDNYSG5xcXI4UXJpUFpqSGpOUnZqTWtfODQ3WHZIWll2MVZ6N2M4cjB2UG90dTZ6bmVkOTg?oc=5",
-    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
-    "cluster_id": "5269",
-    "publisher": "경기도청",
-    "title_clean": "공정, 혁신, 포용의 경기",
-    "summary": "경기도의 공정, 혁신, 포용 정책 및 주요 소식을 안내하는 기사로, 도민참여와 행정 서비스 개선에 중점을 두고 있습니다. 건설업계와 직접적인 연관성이 명확하지 않습니다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-05T09:38:59+09:00",
     "importance": 2
   }
