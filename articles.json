@@ -23488,6 +23488,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도, 폭염 속 건설현장 안전 점검…\"체감온도별 작업 중지 준수해야... - fntoday.co.kr",
+    "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=389904",
+    "description": "이번 점검은 폭염 중대본 2단계 상황 속에서 건설 현장의 폭염 대응 체계를 확인하고, 노동자 안전관리 강화를 위해 마련됐다. 이날 점검에는 이인용 경기도 노동안전과장과 구리시 관계자, 노동안전지킴이 등이 참여해...",
+    "published_at": "2026-08-06T19:44:00+09:00",
+    "cluster_id": "0715",
+    "publisher": "fntoday.co.kr",
+    "title_clean": "경기도, 폭염 속 건설현장 안전 점검…\"체감온도별 작업 중지 준수해야...",
+    "summary": "경기도가 폭염 중대본 2단계 상황에서 건설현장 안전 점검을 실시했다. 체감온도별 작업 중지 준수 등 노동자 안전관리 강화를 목표로 관계 기관이 참여한 점검이 진행되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-06T19:49:31+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "말라가는 울산…김상욱 시장, 대통령에 회야댐 기후대응댐 조속 추진 요... - iusm.co.kr",
+    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1066383",
+    "description": "아울러 취약노인과 거리노숙인 보호활동을 강화하고 건설현장 안전점검, 농촌지역 드론 예찰과 마을방송, 응급의료기관 12개소와 연계한 온열질환 감시체계도 지속적으로 운영하고 있다. 시 관계자는 \"폭염과 가뭄이...",
+    "published_at": "2026-08-06T19:40:00+09:00",
+    "cluster_id": "171c",
+    "publisher": "iusm.co.kr",
+    "title_clean": "말라가는 울산…김상욱 시장, 대통령에 회야댐 기후대응댐 조속 추진 요...",
+    "summary": "울산시장이 대통령에게 회야댐 기후대응댐의 조속 추진을 요청. 폭염과 가뭄 대응을 위해 취약계층 보호, 건설현장 안전점검, 온열질환 감시체계 등을 운영 중.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-06T19:49:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32267,37 +32299,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-05T05:29:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'고원가 터널' 끝 보인다…대형 건설사, 수익성 대폭 개선 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2610857",
-    "description": "건설경기 부진으로 외형 성장은 제한됐지만 저수익 사업 비중이 줄고 원가 관리 효과가 반영되면서 수익성이 대폭 개선됐다. 4일 건설업계에 따르면 삼성물산·현대건설·GS건설·DL이앤씨·IPARK현대산업개발...",
-    "published_at": "2026-08-05T05:02:00+09:00",
-    "cluster_id": "719f",
-    "publisher": "etoday.co.kr",
-    "title_clean": "'고원가 터널' 끝 보인다…대형 건설사, 수익성 대폭 개선",
-    "summary": "건설경기 부진 속에서도 대형 건설사들이 저수익 사업 축소와 원가 관리를 통해 수익성을 대폭 개선하고 있다. '고원가 터널'을 벗어나며 업계의 구조적 개선이 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T05:09:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "바깥은 38도, 작업장은 43도… 생명줄이라곤 포도당 사탕뿐 [불평등한 폭... - seoul.co.kr",
-    "link": "https://www.seoul.co.kr/news/plan/unequal-heat/2026/08/05/20260805001006?wlog_tag3=naver",
-    "description": "전국건설노조가 지난해 7월 건설노동자 976명을 조사한 결과 폭염특보 때 2시간마다 20분씩 쉬는 규정이 지켜진다는 응답은 42.7%에 그쳤다. 2024년 서비스연맹이 배달·택배·방문점검 등 이동노동자 1198명에게 물어보니...",
-    "published_at": "2026-08-05T05:02:00+09:00",
-    "cluster_id": "b69a",
-    "publisher": "seoul.co.kr",
-    "title_clean": "바깥은 38도, 작업장은 43도… 생명줄이라곤 포도당 사탕뿐 [불평등한 폭...",
-    "summary": "건설노동자의 42.7%만이 폭염특보 시 휴식 규정을 준수받고 있으며, 작업장 온도가 38도를 초과하는 극한 환경에 노출되어 있다. 기사는 건설업 노동자의 열악한 근로 환경과 산업안전 규정 미준수 문제를 지적하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T05:09:22+09:00",
-    "importance": 4
   }
 ]
