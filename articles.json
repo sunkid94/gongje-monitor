@@ -23660,6 +23660,37 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "과천시, 폭염 대응 건설현장·비닐하우스촌 안전점검 강화 - 이슈게이트",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ma2ROSVQzXzZ5aWtKRW1HZ2lyY2ZmUGpEYkJMQ285RGpuREY3TzNUbUhUbnN3YWd1cXpGWEdaOWhwTENlN2Z2NlJNTWVLWFh6V2UzTzN3bms?oc=5",
+    "description": "과천시는 연일 이어지는 폭염으로부터 시민의 생명과 건강을 지키기 위해 무더위쉼터 운영, 폭염 저감 시설 확충, 취약계층 보호, 야외 근로자 안전관리 등을 담은 '2026년 여름철 폭염 대응 종합대책'을 추진하고 있다.시는 오는 9월 30일까지를 폭염 대응 기간으로 정하고 관계 부서 협력체계를 유지하며 폭염 상황을 상시 관리하는 등 시민 피해를 최소화하는 데 행정력을 집중할 계획이다.먼저 시민들이 가까운 곳에서 더위를 피할 수 있도",
+    "cluster_id": "82d3",
+    "publisher": "이슈게이트",
+    "title_clean": "과천시, 폭염 대응 건설현장·비닐하우스촌 안전점검 강화",
+    "summary": "과천시가 2026년 여름철 폭염 대응 종합대책을 추진하며 건설현장과 비닐하우스촌에 대한 안전점검을 강화하고 있다. 9월 30일까지를 대응 기간으로 설정하고 야외 근로자 안전관리를 포함한 시민 피해 최소화에 행정력을 집중할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T11:33:56+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설현장 폭염 비상… 정부·업계, 온열질환 예방 총력 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37095",
+    "description": "국토교통부가 장기화하는 폭염 속에서 건설 노동자의 온열질환을 예방하기 위해 건설현장 안전 관리에 나섰다. 중앙재난안전대책본부 대응이 2단계로 격상된 가운데, 옥외작업 비중이 높은 건설 분야의 특성을 고려해 건설사 본사 차원의 적극적인 대응과 현장 안전 조치 이행을 촉구했다.국토교통부는 지난 8월 6일 서울에서 주요 건설사 안전 담당 임원들과 폭염안전 긴급점검회의를 개최했다. 이번 회의에는 삼성물산, 대우건설, 디엘건설 등 20여 개 주요 건설사가 참석해 건설현장의 폭염 대응 현황을 공유했다.정부는 깨끗한 생수 제공, 냉방·통풍장치",
+    "published_at": "2026-08-07T09:07:00+09:00",
+    "cluster_id": "e1e6",
+    "publisher": "한국건설신문",
+    "title_clean": "건설현장 폭염 비상… 정부·업계, 온열질환 예방 총력",
+    "summary": "국토교통부가 폭염으로 인한 건설 노동자의 온열질환 예방을 위해 주요 건설사와 긴급점검회의를 개최했다. 정부는 건설사에 생수 제공, 냉방·통풍장치 등 현장 안전 조치 이행을 촉구하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T11:33:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32277,37 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T12:54:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[포토] '호반 동반성장+건설특별관' 둘러보는 관람객들 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719214",
-    "description": "호반그룹 협력사 등 다양한 혁신기업이 함께 부스를 꾸렸다. 참관객들은 건설 신기술을 비롯해 인공지능(AI), 로보틱스 등 첨단 분야의 기술을 직접 체험하고 현장 관계자들과 사업 협력, 투자 상담을 진행할 수 있다.",
-    "published_at": "2026-08-05T12:48:00+09:00",
-    "cluster_id": "946b",
-    "publisher": "ebn.co.kr",
-    "title_clean": "[포토] '호반 동반성장+건설특별관' 둘러보는 관람객들",
-    "summary": "호반그룹이 협력사와 함께 건설특별관을 운영하며 AI, 로보틱스 등 첨단기술을 전시하고 있다. 참관객들은 신기술 체험과 사업 협력, 투자 상담 기회를 가질 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T12:54:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "보령시, ㈜동명철강과 105억 원 규모 투자협약 체결... '웅천산단' 기업... - cctimes.kr",
-    "link": "http://www.cctimes.kr/news/articleView.html?idxno=920356",
-    "description": "한편 2021년 7월 설립된 ㈜동명철강은 철근 가공품을 전문적으로 생산하는 기업으로, 스마트건설 철근 선조립 기술을 바탕으로 2025년 기준 100여억 원의 매출을 달성하는 등 건실한 성장세를 이어가고 있는 우량...",
-    "published_at": "2026-08-05T12:42:00+09:00",
-    "cluster_id": "1070",
-    "publisher": "cctimes.kr",
-    "title_clean": "보령시, ㈜동명철강과 105억 원 규모 투자협약 체결... '웅천산단' 기업...",
-    "summary": "보령시가 철근 가공 전문업체 ㈜동명철강과 105억 원 규모 투자협약을 체결했다. 동명철강은 스마트건설 철근 선조립 기술을 바탕으로 2025년 100억 원대 매출을 달성하며 건실한 성장세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T12:49:09+09:00",
-    "importance": 2
   }
 ]
