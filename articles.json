@@ -7485,21 +7485,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "2026 건설의 날 기념식 개최…‘미래를 짓는 K-건설’ 주제 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10802420?ref=naver",
-    "description": "한편 국토부는 중동전쟁으로 인한 건설업계의 경영상 어려움을 해소하기 위해 건설공제조합, 전문건설공제조합, 주택도시보증공사(HUG)와 협력해 금융지원 패키지를 시행 중이다.",
-    "published_at": "2026-07-09T06:00:00+09:00",
-    "cluster_id": "bdd5",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "2026 건설의 날 기념식 개최…‘미래를 짓는 K-건설’ 주제",
-    "summary": "국토부가 2026 건설의 날 기념식을 '미래를 짓는 K-건설' 주제로 개최한다. 중동전쟁으로 인한 건설업계 경영난 해소를 위해 건설공제조합, 전문건설공제조합, HUG와 협력해 금융지원 패키지를 시행 중이다.",
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "반도체 건설, 제철소...폭염 속 근로자 IT가 지킨다 - chosun.com",
+    "link": "https://www.chosun.com/economy/industry-company/2026/08/08/XWIOYY4RRRBSFJPPUXWHNVDV74/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "이 시스템은 현재 평택 현장의 삼성물산, 삼성E&A, 삼성중공업 근로자 중 고령자, 기저 질환 보유자에게 우선 보급됐다. 삼성물산의 경우, 지난달 23일부터 31일까지 총 35건의 알람 가운데 4건의 이상 상황을 발견해 근로자...",
+    "published_at": "2026-08-08T06:01:00+09:00",
+    "cluster_id": "5413",
+    "publisher": "chosun.com",
+    "title_clean": "반도체 건설, 제철소...폭염 속 근로자 IT가 지킨다",
+    "summary": "삼성 건설 현장에서 IoT 시스템을 통해 폭염 속 근로자의 건강을 실시간 모니터링하고 있으며, 고령자·기저질환자를 우선 보호하고 있다. 지난달 한 달간 35건의 알람 중 4건의 이상 상황을 조기 발견해 안전사고를 예방하는 성과를 거두었다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-09T06:04:10+09:00",
-    "event_label": "건설공제조합·전문건설공제조합 금융지원 패키지 시행",
-    "importance": 5
+    "collected_at": "2026-08-08T06:08:40+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -23436,22 +23435,6 @@
     "summary": "대우건설이 연천군과의 상생 자매결연을 실천하며 지역 환경 정화 활동(플로깅)을 진행했다. 건설사의 사회공헌 활동과 지역사회와의 협력 강화 사례를 보여주는 내용이다.",
     "sentiment": "neutral",
     "collected_at": "2026-07-31T13:09:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "현대엔지니어링, 새 가치체계 선포…\"공간·에너지 잇는 핵심기업\" - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260731124531374",
-    "description": "공사실적평가액에서 6조원대를 기록하며 삼성물산과 현대건설의 뒤를 이어 3위를 차지했고, 기술능력평가액에서도 현대건설(1조8235억원), 대우건설(1조4250억원)에 이어 3위에 이름을 올렸다. 토목건축에서도...",
-    "published_at": "2026-07-31T12:56:00+09:00",
-    "cluster_id": "fd5b",
-    "publisher": "ajunews.com",
-    "title_clean": "현대엔지니어링, 새 가치체계 선포…\"공간·에너지 잇는 핵심기업\"",
-    "summary": "현대엔지니어링이 새로운 가치체계를 선포하며 공사실적평가액 6조원대로 업계 3위를 차지했다. 기술능력평가액에서도 현대건설, 대우건설에 이어 3위에 올라 기술력을 인정받고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T12:59:52+09:00",
     "importance": 2
   },
   {
