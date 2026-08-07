@@ -23472,6 +23472,36 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'군포시, 폭염 대비 주요 건설공사 안전 점검 실시' - 브릿지경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vdGVKNGxwNDZsbTNMMXhKalpEWjVkaDZnUGRDdmFhS2ExdkR6S2VVYWVBM3Y3VUp2RzFGTHg4RFBmRExqOGdmSkRrd0thQTU2LVo0X0FITmN3dw?oc=5",
+    "description": "군포시는 7일부터 12일까지 관내 주요 건설 현장에서 폭염 대비 안전 점검을 실시, 근로자 안전을 강화하고 산업재해 예방에 앞장선다고 밝혔다. 연일 계속되는 폭염 속에 건설 현장 근로자의 안전을 확보하기 위해 긴급 금정고가교 보수-보강공사를 포함한 주요 건설 현장을 집",
+    "cluster_id": "3ea8",
+    "publisher": "브릿지경제",
+    "title_clean": "'군포시, 폭염 대비 주요 건설공사 안전 점검 실시'",
+    "summary": "군포시가 7일부터 12일까지 관내 주요 건설 현장에 대해 폭염 대비 안전 점검을 실시한다. 폭염으로 인한 건설 현장 근로자의 안전 확보 및 산업재해 예방을 목표로 하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-08T03:28:52+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[스마트 건설환경관리] 흩어진 환경데이터 하나로 - 토목신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNUjlGbzRvcFVrSmVuOWViV1NOTWhIUkJNeFNicXF6SndfM1JmOUVhem1Wdl9KZm1FM1c2M05uUFdxRklJOWJMc3dCTU1HQ3kwZE9wcm56V05TdGFCZWMyeUF0OWxLYVlv?oc=5",
+    "description": "소음·진동·미세먼지·풍속 등 실시간 계측LED 넘어 PC·모바일 통합관제로 차별화건설·철도·도로·도시정비 등 적용시장 확대 기대 건설현장의 환경...",
+    "cluster_id": "0d93",
+    "publisher": "토목신문",
+    "title_clean": "[스마트 건설환경관리] 흩어진 환경데이터 하나로",
+    "summary": "건설현장의 소음, 진동, 미세먼지 등 환경데이터를 실시간으로 통합 관제하는 스마트 환경관리 솔루션이 등장했다. PC와 모바일을 통한 통합관제로 차별화되며, 건설·철도·도로·도시정비 등 다양한 분야로 적용시장 확대가 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-08T03:28:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32265,35 +32295,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-05T15:54:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "「건설산업기본법」 위반 종합건설사업자 행정처분(영업정지) 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTGFDN01BZ3M4M3lzMzE5YWJUcjFBOWFwb1VZbUY4SWxDYW9DWjlEZk1XTjR3enF6cmFUTnVQdTdwTEE1NGpGc1JReDdIWlVvMjlmR2I5YVZNNEJ2QW4wNVBjcy1NTTZrdV9yMkFiSFNHdVZhZTFva2trNGJJV2c?oc=5",
-    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
-    "cluster_id": "ea9a",
-    "publisher": "경기도청",
-    "title_clean": "「건설산업기본법」 위반 종합건설사업자 행정처분(영업정지) 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스",
-    "summary": "경기도가 건설산업기본법 위반 종합건설사업자에 대해 영업정지 행정처분을 공고했습니다. 건설업계의 법규 준수 감시가 강화되고 있음을 시사합니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T15:54:13+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "화성시 폭염 중대경보 발령 ···경기지방고용노동청장, 건설현장 긴급점검 - 한국미디어뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlUXAzRm4tblNvOElnbEFrcmtGSVA4MHlYX3JqN3VtSDdEcXJPck1mUUh4U1NJeFVtemVyRi1yd2x2YVN0cE9pQ3BwMzlfUFZ3cUx2Y1dvcF9Sd2dibjdrS2lNb3g1UQ?oc=5",
-    "description": "[ 한국미디어뉴스 이원영 기자 ] 고용노동부 경기지방고용노동청(청장 김도형)은 8월 5일(수) 화성시에 폭염중대경보 발령에 따라, 경기도 화성시 소재 청사 건립공사 현장을 방문하여 폭염에 따른 옥외작업 중지 등 근로자 건강보호조치 이행 여부를 긴급 점검했다. 이번 점검은 연일 계속되는 폭염으로 건설현장 근로자의 온열질환 발생 위험이 높아지는 상황에서, 현장",
-    "cluster_id": "7b7e",
-    "publisher": "한국미디어뉴스",
-    "title_clean": "화성시 폭염 중대경보 발령 ···경기지방고용노동청장, 건설현장 긴급점검",
-    "summary": "고용노동부 경기지방고용노동청이 화성시 폭염중대경보 발령에 따라 건설현장에 대한 긴급점검을 실시했다. 폭염으로 인한 건설근로자의 온열질환 위험이 높아지는 상황에서 옥외작업 중지 등 근로자 건강보호조치 이행 여부를 점검했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T15:54:13+09:00",
-    "importance": 4
   }
 ]
