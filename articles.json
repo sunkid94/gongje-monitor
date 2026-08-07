@@ -7570,6 +7570,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우·GS·DL·현산 4개 건설사 샅바싸움... 1조1,100억 원 목동8단지 재건축, 현설 성황 - 하우징타임즈",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTURDNlFRLVBrZFptd1hCVE1rRkpkTWFRc0hEaDNMbXVaTFM5el9DZlJKbjU5VW9ld2J1VzBNOHVLNlFKZEtJbmdkVUtGYV9nS1RRcnkxcWtWSmtjR1dsSmJmcHNKeHFJQlJHRHUzb2c?oc=5",
+    "description": "[하우징타임즈=김상규 전문기자]총 공사비 약 1조1,100억 원. 양천구 목동8단지 재건축사업(조합장 김종건)의 시공권 확보를 위한 경쟁이 치열하다.조합은 7일 오후 3시 조합사무실에서 시공자 선정을 위한 1차 현장설명회(이하 ‘현설’)를 개최했다. 그 결과 대우건설, GS건설, DL",
+    "published_at": "2026-08-07T18:15:46+09:00",
+    "cluster_id": "574f",
+    "publisher": "하우징타임즈",
+    "title_clean": "대우·GS·DL·현산 4개 건설사 샅바싸움... 1조1,100억 원 목동8단지 재건축, 현설 성황",
+    "summary": "양천구 목동8단지 재건축사업(공사비 1조1,100억 원)의 시공권을 놓고 대우건설, GS건설, DL, 현산 등 4개 대형 건설사가 경쟁 중이다. 조합이 개최한 1차 현장설명회에 여러 건설사가 참여하며 수주 의욕을 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T18:28:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23504,22 +23520,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-31T10:08:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[2026 수주전]경쟁입찰 실종된 서울 정비시장…'목동 4·7'서 다시 불 붙... - mediapen.com",
-    "link": "https://www.mediapen.com/news/view/1113456",
-    "description": "이날 현설에는 GS건설과 대우건설, 포스코이앤씨, IPARK현대산업개발 등 대형 건설사 4곳이 참석하며 성황을 이뤘다. 다만 현장설명회 흥행이 실제 경쟁입찰로 이어질지는 미지수다. 현장설명회 참석은 입찰 참여를 위한...",
-    "published_at": "2026-07-31T09:50:00+09:00",
-    "cluster_id": "1ac2",
-    "publisher": "mediapen.com",
-    "title_clean": "[2026 수주전]경쟁입찰 실종된 서울 정비시장…'목동 4·7'서 다시 불 붙...",
-    "summary": "서울 정비시장에서 경쟁입찰이 부진한 가운데 목동 4·7 사업이 대형 건설사 4곳의 관심을 모으며 수주 경쟁이 재점화되고 있다. 다만 현장설명회 참석이 실제 입찰 참여로 이어질지는 불확실한 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-31T09:53:36+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
