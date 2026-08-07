@@ -7724,6 +7724,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "더샵 신길센트럴시티, 조합원 취소분 67세대 일반분양 진행…18일부터 ... - hankyung.com",
+    "link": "https://www.hankyung.com/article/202608070485O",
+    "description": "포스코이앤씨가 서울 영등포구 신길동 일원에 공급하는 ‘더샵 신길센트럴시티’의 조합원 취소분 67가구에 대한 일반분양을 진행한다고 7일 밝혔다. 이번 공급 물량은 조합원 부적격 판정 및 계약 해제 등으로...",
+    "published_at": "2026-08-07T12:22:00+09:00",
+    "cluster_id": "c667",
+    "publisher": "hankyung.com",
+    "title_clean": "더샵 신길센트럴시티, 조합원 취소분 67세대 일반분양 진행…18일부터 ...",
+    "summary": "포스코이앤씨의 '더샵 신길센트럴시티'에서 조합원 취소분 67가구를 일반분양으로 공급한다. 조합원 부적격 판정 및 계약 해제로 인한 공급 물량으로, 18일부터 분양을 진행할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T12:29:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23658,22 +23674,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-30T15:33:59+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "상반기 도시정비 수주 34조 돌파…현대·GS·삼성·대우·두산, 톱5 진입 - ttlnews.com",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13VFNKRE55dUJzOE82dWE2V3hWc0IzWU5hcjRwd0xLeWdtS2YxMjktekIybnNxUmNyZU83SFpOYjZjYXE1c19Zd3M1MFZYOHl6T3NYVW0tV0drOWVHMVNEVnlUOHByM2VHSDUw?oc=5",
-    "description": "상반기 도시정비 수주 실적이 34조원을 초과하며 주요 건설사 간의 경쟁이 치열했다. 현대건설과 GS건설은 각각 7조원대의 수주고를 기록했고, 삼성물산, 대우건설,",
-    "published_at": "2026-07-30T09:07:48+09:00",
-    "cluster_id": "8a9e",
-    "publisher": "ttlnews.com",
-    "title_clean": "상반기 도시정비 수주 34조 돌파…현대·GS·삼성·대우·두산, 톱5 진입",
-    "summary": "상반기 도시정비 수주 실적이 34조원을 초과하며 건설시장이 활성화되었다. 현대건설, GS건설, 삼성물산, 대우건설, 두산 등 주요 건설사들이 7조원대의 수주고를 기록하며 톱5에 진입했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T15:33:59+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
