@@ -7724,6 +7724,21 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, ‘로부마 LNG 1단계’ EPC 업체 선정…글로벌 시장 영토 확장 - 팍스경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjR3pscmtKaEVwMXFEdnNoa2pmMGJjNUNMTWJfSEdXeTV0R2N2d1Z4MHBlanRmd2lTRFoxbTExRWVYbWh4SlhBMVRmX1lsN2pydHdEWElkQVlPTWlCWnFpWlcxSjc2eHM?oc=5",
+    "description": "대우건설이 포함된 컨소시엄이 모잠비크의 초대형 사업인 &lsquo;로부마 LNG 1단계&rsquo; 프로젝트의 EPC 업체로 선정돼 낙찰의향서를 받았습니다. 대우건설은 글로벌 건설사들과 함께 원청사업자로 참여하며 LNG 플랜트 시장에서의 경쟁력을 다시 입증했습니다.이번 사업은 연간 1,860만 톤 규모의 LNG를 생산하는 친환경 설비를 건설하는 프로젝트입니다. 대우건설은 본계약 전 초기 설계와 자재 조달, 시공성 검토를 수행하며, 발주처는 올해 말까지 최종투자결정을 완료하고 본계약을 체결할 계획입니다.대우건설 관계자는 &ldquo;",
+    "cluster_id": "bc79",
+    "publisher": "팍스경제TV",
+    "title_clean": "대우건설, ‘로부마 LNG 1단계’ EPC 업체 선정…글로벌 시장 영토 확장",
+    "summary": "대우건설이 모잠비크 로부마 LNG 1단계 프로젝트의 EPC 업체로 선정되어 낙찰의향서를 받았습니다. 연간 1,860만 톤 규모의 LNG 플랜트 건설 사업으로, 올해 말 최종투자결정 후 본계약 예정입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T12:38:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -23658,22 +23673,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-30T15:33:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "목동 재건축, '동시다발' 입찰에 건설사들 셈법 복잡 - theguru.co.kr",
-    "link": "https://www.theguru.co.kr/news/article.html?no=105143",
-    "description": "현재 대우건설이 가장 적극적인 수주 의지를 보이고 있다. 당초 8단지는 이달 초 성수 4지구에서 맞붙었던 대우건설과 롯데건설의 리턴매치가 예상됐으나 롯데건설이 전략 수주 대상을 재조정하며 8단지를...",
-    "published_at": "2026-07-30T15:28:00+09:00",
-    "cluster_id": "72db",
-    "publisher": "theguru.co.kr",
-    "title_clean": "목동 재건축, '동시다발' 입찰에 건설사들 셈법 복잡",
-    "summary": "목동 재건축 사업에서 대우건설, 롯데건설 등 건설사들이 동시다발 입찰에 참여하며 수주 경쟁을 벌이고 있다. 각 건설사가 전략적 수주 대상을 조정하며 복잡한 셈법을 펼치는 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T15:33:59+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
