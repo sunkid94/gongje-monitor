@@ -23676,6 +23676,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고흥군, 고흥읍 자율방재단과 폭염대응 발주공사 현장 합동점검 실시 - 전남투데이",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83QkdxODdfdGtOQkZDMVNoaS1IdHB5SVl6cUs0bVNCRW95SUkwQnVIQmRBMjY0SW9MRlVmNi05UTRNdDFPTURUVkwzX0V4NFVXVG1WYTVlaVEyZjlxZDJRZDhoVQ?oc=5",
+    "description": "전남투데이 최영남 기자 | 고흥군은 연일 계속되는 폭염으로부터 건설현장 근로자의 안전을 확보하기 위해 지난 6일 고흥읍 자율방재단과 함께 고흥2지구 풍수해생활권 정비사업 현장을 찾아 폭염대응 합동점검을 실시했다. 이번 합동점검은 폭염특보가 지속되는 가운데 건설현장의 온열질환을 예방하고 안전사고를 사전에 차단하기 위해 마련됐으며, 고흥",
+    "cluster_id": "d5a0",
+    "publisher": "전남투데이",
+    "title_clean": "고흥군, 고흥읍 자율방재단과 폭염대응 발주공사 현장 합동점검 실시",
+    "summary": "고흥군이 폭염으로부터 건설현장 근로자 보호를 위해 자율방재단과 함께 풍수해생활권 정비사업 현장에서 합동점검을 실시했다. 온열질환 예방과 안전사고 사전 차단을 목표로 한 점검 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T12:23:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32291,21 +32306,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T13:09:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울시, 공사장 1094곳 안전점검… 위험요소 3218건 사전 조치 - newscj.com",
-    "link": "https://www.newscj.com/news/articleView.html?idxno=3422643",
-    "description": "시는 계절별 위험요인을 반영한 건설현장 안전관리도 지속하고 있다. 해빙기에는 붕괴, 우기에는 침수, 여름철에는 폭염, 가을에는 태풍, 겨울에는 한파와 화재 등 시기별 위험요인에 맞춰 연간 약 2300개 건설공사장을...",
-    "published_at": "2026-08-05T13:06:00+09:00",
-    "cluster_id": "f9bf",
-    "publisher": "newscj.com",
-    "title_clean": "서울시, 공사장 1094곳 안전점검… 위험요소 3218건 사전 조치",
-    "summary": "서울시가 1094개 공사장에 대해 안전점검을 실시하여 3218건의 위험요소를 사전 조치했다. 계절별 위험요인(해빙기 붕괴, 우기 침수, 여름 폭염, 가을 태풍, 겨울 한파·화재)에 맞춰 건설현장 안전관리를 지속 강화하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T13:09:00+09:00",
-    "importance": 5
   }
 ]
