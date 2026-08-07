@@ -7571,6 +7571,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 모잠비크 '로부마 LNG 1단계' 낙찰의향서 접수 - 뉴스후플러스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jMzhUMnR5R2VsZlRZcktJTDJPTEJXSS1iS0tGeWV1eUVrMlhxWUc0OE9lRTFjd0lBVkVCb0x1TmJjc3FxNW9ZaWRJaS1DYjcxejdJemc5aXpkYldqc09Lc1VaNGZCZVI1S1lBNUR3?oc=5",
+    "description": "대우건설이 원청사로 참여한 SMDC JV가 모잠비크의 초대형 액화천연가스(LNG) 개발 사업인 'Rovuma(로부마) LNG 1단계' 프로젝트의 미드스트림(Midstream) 설계, 구매 및 시공을 담당하는 설계·조달·시공(EPC) 업체로 선정되어 글로벌 LNG 플랜트 시장 내 대우건",
+    "published_at": "2026-08-07T08:49:11+09:00",
+    "cluster_id": "6e0b",
+    "publisher": "뉴스후플러스",
+    "title_clean": "대우건설, 모잠비크 '로부마 LNG 1단계' 낙찰의향서 접수",
+    "summary": "대우건설이 SMDC JV의 원청사로 모잠비크 로부마 LNG 1단계 프로젝트의 미드스트림 EPC 업체로 선정되었다. 이는 글로벌 LNG 플랜트 시장에서 대우건설의 위상을 강화하는 대규모 수주 성과이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T09:09:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23505,19 +23521,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[서울아파트거래] '재건축 사업시행인가' 잠실 주공 5단지 전용 81.75㎡ ... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443508",
-    "description": "삼성물산과 GS건설, HDC현대산업개발이 2000년에 시공권을 따냈다. 단지명은 '빌 라디우스 잠실'로 당초에 계획됐지만 현재까지 확정되지 않았다. 한강변에 위치해 있고 지하철 2호선과 8호선이 지나는 잠실역과...",
-    "published_at": "2026-07-30T10:38:00+09:00",
-    "cluster_id": "1b41",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "[서울아파트거래] '재건축 사업시행인가' 잠실 주공 5단지 전용 81.75㎡ ...",
-    "summary": "잠실 주공 5단지 재건축 사업이 시행인가를 획득했으며, 삼성물산·GS건설·HDC현대산업개발이 시공을 담당한다. 한강변 입지에 지하철 2호선·8호선 인접으로 수익성 있는 대형 재건축 프로젝트가 본격화된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-30T10:43:35+09:00",
+    "title": "건설 한파에도 존재감 키운 LX하우시스…리모델링시장 공략 가속 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1393583",
+    "description": "사진=LX하우시스 제공  건설경기 둔화와 주택 착공 감소로 건자재 업계의 사업환경이 녹록지 않은 가운데 LX하우시스가 리모델링 시장 확대와 기업·소비자 간 거래(B2C) 강화에 무게를 두며 사업 포트폴리오를...",
+    "published_at": "2026-08-07T08:58:00+09:00",
+    "cluster_id": "a24e",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "건설 한파에도 존재감 키운 LX하우시스…리모델링시장 공략 가속",
+    "summary": "건설경기 둔화 속에서 LX하우시스가 리모델링 시장 확대와 B2C 거래 강화로 사업 포트폴리오를 재편하며 존재감을 높이고 있다. 신규 주택 시장의 축소에도 불구하고 기존 주택 리모델링 수요 확대를 통해 성장 기회를 모색하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T09:09:20+09:00",
     "importance": 2
   },
   {
@@ -32282,20 +32298,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-05T10:49:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울 첫 폭염중대경보 발령…안전보건공단 원방희 서울광역본부장, 건설현장 긴급 점검 - 비욘드포스트",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxcll5SzFuSDB5ak5oSUdjLWVNdWRNUjhHVjdTRk5MVzFBQzZ1ZlJ4QlE5RDEyekIzTVB4Vl8wdDVJNUNqdEd6bjdxQVZ2NGFMZGhXSjNyTkpWNXpJc3EwZkZwVFU1ZXF1NFhUSjJURWc5LXRkU21xc3ZjLVM?oc=5",
-    "description": "서울 동남권과 서남권에 폭염중대경보가 발령된 가운데, 안전 당국이 건설현장을 방문해 옥외작업 중지와 온열질환 예방 조치 이행 여부를 점검했다.한국산업안전보건공단 서울광역본부는 4일 원방희 본부장이 서울 서초구 소재 건설현장을 찾아 폭염 대응 실태를 점검하는 현장경영을 실시했다고 밝혔다.",
-    "cluster_id": "44c5",
-    "publisher": "비욘드포스트",
-    "title_clean": "서울 첫 폭염중대경보 발령…안전보건공단 원방희 서울광역본부장, 건설현장 긴급 점검",
-    "summary": "서울에 폭염중대경보가 발령되면서 안전보건공단이 건설현장을 긴급 점검했다. 옥외작업 중지와 온열질환 예방 조치 이행 여부를 중점적으로 확인하는 현장경영을 실시했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T10:49:07+09:00",
-    "importance": 4
   }
 ]
