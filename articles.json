@@ -7553,6 +7553,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "폭염에 건설현장 사투...얼음 목도리에 옥상 쉼터도 - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0102_202608072150051120",
+    "description": "[유종철 / 대우건설 의정부 건설현장 작업자 : 어휴 이번 더위가 제일 더운 것 같아요. 더운 데다가 습해서 많이 힘듭니다. 어쩔 수 없잖아요? 현장에선 일을 진행해야 하고…] 작업자들은 얼음을 가득 채운 비닐 목도리를...",
+    "published_at": "2026-08-07T21:50:00+09:00",
+    "cluster_id": "3bb5",
+    "publisher": "ytn.co.kr",
+    "title_clean": "폭염에 건설현장 사투...얼음 목도리에 옥상 쉼터도",
+    "summary": "폭염으로 인한 건설현장의 어려움이 증가하고 있으며, 작업자들이 얼음 목도리, 옥상 쉼터 등 자체 대응책으로 열악한 근무 환경을 견디고 있다. 극한의 날씨 속에서도 공사 일정을 지켜야 하는 건설업계의 현실을 드러낸다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T21:58:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23488,22 +23504,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-31T11:24:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "시공 순위 '지각변동'…10대 건설사 합산액 4조 '후퇴' - topdaily.kr",
-    "link": "https://www.topdaily.kr/articles/111233",
-    "description": "10조 못넘긴 대우건설·DL이앤씨 순위 하락…상위 10대사 합산 평가액 122조 올해 국내 건설사 시공능력평가에서 삼성물산이 1위 자리를 수성했으나 상위권 내 크고 작은 순위 변화를 낳았다. 대우건설과...",
-    "published_at": "2026-07-31T11:01:00+09:00",
-    "cluster_id": "c9e5",
-    "publisher": "topdaily.kr",
-    "title_clean": "시공 순위 '지각변동'…10대 건설사 합산액 4조 '후퇴'",
-    "summary": "올해 건설사 시공능력평가에서 삼성물산이 1위를 유지했으나 상위 10대사 합산 평가액이 122조으로 감소했다. 대우건설, DL이앤씨 등 주요 건설사들의 순위 하락으로 업계 내 순위 변동이 나타났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-31T11:09:33+09:00",
-    "importance": 5
   },
   {
     "keyword": "건설현장 안전",
