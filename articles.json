@@ -23522,6 +23522,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[라이브 인 서울] 극한 폭염...서울시 대책은 ? - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4099402",
+    "description": "그냥 서 있기만해도 땀이 쏟아지는 찜통 더위 속에서 일해야 하는 건설 노동자, 시장 상인 등은 갈수록 걱정인데요. 폭염 상황과 서울시의 폭염 대책은 어떤건지 전경윤 기자와 함께 알아보겠습니다. 가만히 있어도 땀이...",
+    "published_at": "2026-08-07T18:30:00+09:00",
+    "cluster_id": "8c23",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "[라이브 인 서울] 극한 폭염...서울시 대책은 ?",
+    "summary": "극한 폭염 속에서 건설 노동자와 시장 상인 등이 어려움을 겪고 있으며, 서울시의 폭염 대책을 점검하는 기사. 건설현장의 근로환경 악화와 안전 우려를 다루고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T18:34:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32280,21 +32296,6 @@
     "publisher": "경기in",
     "title_clean": "파주시, 건설기계 임시 공영주기장 하반기 이용자 모집",
     "summary": "파주시가 2026년 하반기 건설기계 임시 공영주기장 이용자를 모집한다. 건설기계와 화물차에 대해 각각 다른 모집 일정을 안내하고 있는 행정 공지사항이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-05T15:40:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "담양군, 폭염 취약계층·건설현장 안전 점검 강화 - 선데이뉴스신문",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CQWoyOHUxSDJtcG1DVVNFQkdUUzd4bzRMS1A2SEVUbWhnVzQycU5hTV9iWlE4RGlOTGF2b0lGV180NDhKdjNBeUxqLXZaelo0UU9uOUxTbEZfMlk?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CQWoyOHUxSDJtcG1DVVNFQkdUUzd4bzRMS1A2SEVUbWhnVzQycU5hTV9iWlE4RGlOTGF2b0lGV180NDhKdjNBeUxqLXZaelo0UU9uOUxTbEZfMlk?oc=5\" target=\"_blank\">담양군, 폭염 취약계층·건설현장 안전 점검 강화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">선데이뉴스신문</font>",
-    "cluster_id": "f341",
-    "publisher": "선데이뉴스신문",
-    "title_clean": "담양군, 폭염 취약계층·건설현장 안전 점검 강화",
-    "summary": "담양군이 폭염으로 인한 취약계층 피해 예방과 건설현장 안전 점검을 강화하고 있다. 이는 건설현장의 폭염 관련 사고 방지를 위한 안전 관리 조치이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-05T15:40:11+09:00",
     "importance": 2
