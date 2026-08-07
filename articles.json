@@ -23438,6 +23438,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "수도권 최전선 유의동, 국민의힘 ‘주류 감성’ 바꿀까 [주간 여의도 Wh... - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/plan/congressperson/2026/08/07/20260807500239?wlog_tag3=naver",
+    "description": "유 의원은 국토위 첫 회의에서 “다시 오르는 집값과 전월세 부담, 청년 주거난과 전세 사기 피해, 더딘 주택 공급과 침체된 건설경기, 건설 현장 안전과 지역 간 교통 격차. 어느 하나 뒤로 미룰 수 없는 과제들”이라며...",
+    "published_at": "2026-08-08T07:01:00+09:00",
+    "cluster_id": "dcf6",
+    "publisher": "seoul.co.kr",
+    "title_clean": "수도권 최전선 유의동, 국민의힘 ‘주류 감성’ 바꿀까 [주간 여의도 Wh...",
+    "summary": "국민의힘 유의동 의원이 국토위원회에서 집값 상승, 주거난, 건설경기 침체, 건설 현장 안전 등 주택·건설 관련 과제들을 언급하며 정책 개선 의지를 표현했습니다. 건설경기 침체와 안전 문제 등 업계 현안이 국정과제로 제시되었습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-08T07:08:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T15:54:13+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "코오롱글로벌, 자체 개발 플랫폼 'KNIT'로 건설업 디지털 혁신 가속 - worktoday.co.kr",
-    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87568",
-    "description": "국토교통부의 스마트건설 얼라이언스 기술 실증 지원사업에도 참여해 3D 굴착기와 마감 로봇의 현장 검증을 이어가고 있다. 코오롱글로벌 관계자는 \"KNIT를 시작으로 통합 관제 플랫폼과 사업관리 시스템까지...",
-    "published_at": "2026-08-05T15:48:00+09:00",
-    "cluster_id": "ad42",
-    "publisher": "worktoday.co.kr",
-    "title_clean": "코오롱글로벌, 자체 개발 플랫폼 'KNIT'로 건설업 디지털 혁신 가속",
-    "summary": "코오롱글로벌이 자체 개발한 건설 디지털화 플랫폼 'KNIT'를 통해 건설업 현장 자동화에 나서고 있다. 국토교통부의 스마트건설 얼라이언스 사업에 참여하며 3D 굴착기, 마감 로봇 등 첨단 장비의 현장 검증을 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T15:54:13+09:00",
-    "importance": 2
   }
 ]
