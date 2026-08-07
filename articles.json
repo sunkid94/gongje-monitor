@@ -7570,6 +7570,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[정비사업 포커스] 목동8단지 현장설명회, 대우·현산·DL·GS 참석 - dealsite.co.kr",
+    "link": "https://dealsite.co.kr/articles/166841",
+    "description": "대우건설이 오랫동안 수주에 공을 들여왔지만, 다수의 건설사가 현장설명회에 모습을 비춘 만큼 경쟁 입찰이 성사될 가능성도 제기된다. 7일 정비업계에 따르면 이날 열린 목동8단지 현장설명회에 대우건설...",
+    "published_at": "2026-08-07T19:26:00+09:00",
+    "cluster_id": "ff1e",
+    "publisher": "dealsite.co.kr",
+    "title_clean": "[정비사업 포커스] 목동8단지 현장설명회, 대우·현산·DL·GS 참석",
+    "summary": "목동8단지 정비사업 현장설명회에 대우건설을 포함한 대우·현산·DL·GS 등 다수의 건설사가 참석하며 경쟁 입찰 가능성이 제기되었다. 이는 건설사들 간 수주 경쟁이 활발함을 보여주는 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T19:28:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23507,20 +23523,20 @@
     "importance": 4
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "중견·중소 주택업계, 내달 전국 공급 물량 4600가구 그쳐 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026073110183364700",
-    "description": "시공은 포스코이앤씨가 맡는다. 지방에서는 8개 사업장에서 3168가구가 풀린다. 이 중 이지건설의 충남 아산시 아산테크노밸리(622가구), 호반건설의 충북 청주시 서원구 현도면(656가구), 동원개발의 울산 무거삼호지구...",
-    "published_at": "2026-07-31T10:18:00+09:00",
-    "cluster_id": "ed8b",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "중견·중소 주택업계, 내달 전국 공급 물량 4600가구 그쳐",
-    "summary": "중견·중소 주택업계가 다음 달 전국 공급 물량 4600가구에 그칠 것으로 예상된다. 지방 8개 사업장에서 3168가구가 공급되며, 포스코이앤씨가 시공을 담당하는 등 대형 건설사와의 협력이 이루어지고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-31T10:28:54+09:00",
-    "importance": 2
+    "title": "충북에 줄줄이 대규모 투자…건설업계는 고사 위기 - nocutnews.co.kr",
+    "link": "https://www.nocutnews.co.kr/news/6560029?utm_source=naver&utm_medium=article&utm_campaign=20260807071707",
+    "description": "국토교통부 건설산업지식정보시스템 등에 따르면 올 들어 지난달까지 폐업을 신고한 도내 건설회사는 1년 새 38% 가량 늘어난 무려 127곳에 달했다. 이는 2009년 이후 17년 만에 가장 많은 규모다. 심지어 70년 동안 자리를...",
+    "published_at": "2026-08-07T19:18:00+09:00",
+    "cluster_id": "5ef5",
+    "publisher": "nocutnews.co.kr",
+    "title_clean": "충북에 줄줄이 대규모 투자…건설업계는 고사 위기",
+    "summary": "충북지역 건설회사의 폐업이 급증하여 올해 127곳이 폐업 신고했으며, 이는 38% 증가로 17년 만에 최고치를 기록했다. 대규모 투자 증가에도 불구하고 건설업계는 경영 악화로 고사 위기에 처해 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T19:28:53+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32286,21 +32302,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T15:40:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "보령시 웅천산단에 105억 투자… 동명철강 공장 들어선다 - ccnnews.co.kr",
-    "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=413080",
-    "description": "2021년 7월 설립된 ㈜동명철강은 철근 가공품을 전문적으로 생산하는 기업으로, 스마트건설 철근 선조립 기술을 기반으로 성장해 왔다. 2025년 기준 100여억 원의 매출을 기록하는 등 기술력과 성장성을 인정받는 우량...",
-    "published_at": "2026-08-05T15:32:00+09:00",
-    "cluster_id": "fa73",
-    "publisher": "ccnnews.co.kr",
-    "title_clean": "보령시 웅천산단에 105억 투자… 동명철강 공장 들어선다",
-    "summary": "동명철강이 보령시 웅천산단에 105억 원을 투자하여 새로운 공장을 설립한다. 스마트건설 철근 선조립 기술을 보유한 우량기업의 생산 시설 확충으로 건설용 철근 공급 능력이 증대될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T15:40:11+09:00",
-    "importance": 2
   }
 ]
