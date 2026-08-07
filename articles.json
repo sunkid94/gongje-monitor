@@ -23523,6 +23523,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "강성휘 목포시장, 폭염 현장 찾아 시민 안전 살펴 - 전남인터넷신문",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNGZNaWtaeFM4VTJSS1hGY3FjMjlQVlpyTDllQlB3aUZ1TzhXUnNRaG1QY093cGR4TXRWaEx4M1hEUXc3NjhWaTVHMW55OHoxdEFESFhnV0FTa24x?oc=5",
+    "description": "[전남인터넷신문/안애영 기자]기록적인 폭염이 이어지는 가운데 목포시가 시민 안전을 위한 현장 대응을 강화하고 있다. 강성휘 목포시장은 주요 폭염 취약 ...",
+    "cluster_id": "977e",
+    "publisher": "전남인터넷신문",
+    "title_clean": "강성휘 목포시장, 폭염 현장 찾아 시민 안전 살펴",
+    "summary": "목포시장이 폭염 현장을 방문하여 시민 안전 대응을 강화하고 있는 내용의 지역 뉴스입니다. 건설업계와 기계설비건설공제조합과 직접적인 관련성이 없는 행정 소식입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T19:48:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32286,21 +32301,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T15:40:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "광명시, 폭염 대응체계 강화로 시민 안전 확보 - viva100.com",
-    "link": "https://www.viva100.com/article/20260805500925",
-    "description": "또한 어르신과 장애인을 대상으로 방문 건강관리를 실시하고, 노숙인 밀집 지역 순찰과 지원, 건설현장 안전 점검, 농업 현장 예찰 등 분야별 대응을 이어가고 있다. 온열질환 발생 위험이 높은 정오부터 오후 4시까지는...",
-    "published_at": "2026-08-05T15:28:00+09:00",
-    "cluster_id": "abae",
-    "publisher": "viva100.com",
-    "title_clean": "광명시, 폭염 대응체계 강화로 시민 안전 확보",
-    "summary": "광명시가 폭염 대응체계를 강화하여 취약계층 방문 건강관리, 노숙인 지원, 건설현장 안전 점검 등을 실시하고 있다. 건설현장에 대한 안전 점검이 강화되는 것으로 보아 폭염으로 인한 안전 규제가 더욱 엄격해질 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T15:40:11+09:00",
-    "importance": 4
   }
 ]
