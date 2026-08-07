@@ -7775,6 +7775,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남부발전, 하동복합 건설사업 낙찰자로 '두산에너빌리티 컨소시엄' 선정 - mtnews.net",
+    "link": "https://www.mtnews.net/news/articleView.html?idxno=25575",
+    "description": "한국남부발전이 정부의 에너지 전환 정책에 맞춰 추진하는 하동복합 건설사업의 일괄 설치조건부 구매계약 낙찰자로 두산에너빌리티 컨소시엄을 선정했다고 7일 밝혔다. 이번 사업은 노후 석탄화력발전소인 하동화력 2...",
+    "published_at": "2026-08-07T14:28:00+09:00",
+    "cluster_id": "fd31",
+    "publisher": "mtnews.net",
+    "title_clean": "남부발전, 하동복합 건설사업 낙찰자로 '두산에너빌리티 컨소시엄' 선정",
+    "summary": "한국남부발전이 하동복합 건설사업의 낙찰자로 두산에너빌리티 컨소시엠을 선정했다. 이는 노후 석탄화력발전소를 현대화하는 에너지 전환 프로젝트로, 건설 및 기계설비 업체에 수주 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T14:33:54+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23707,22 +23723,6 @@
     "sentiment": "positive",
     "collected_at": "2026-07-30T17:38:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대구·경북 시공능력 100위권 건설사 6개사...전년보다 1개사 감소 - ksmnews.co.kr",
-    "link": "https://www.ksmnews.co.kr/news/view.php?idx=615721",
-    "description": "30일 국토교통부가 발표한 ‘2026년도 건설업체 시공능력평가’에 따르면 토목건축공사업 전국 100위 안에 포함된 대구·경북 본사 건설사는 포스코이앤씨(8위·7조5851억원)와 HS화성(48위·8325억원), 서한(49위...",
-    "published_at": "2026-07-30T17:30:00+09:00",
-    "cluster_id": "cd29",
-    "publisher": "ksmnews.co.kr",
-    "title_clean": "대구·경북 시공능력 100위권 건설사 6개사...전년보다 1개사 감소",
-    "summary": "2026년도 건설업체 시공능력평가에서 대구·경북 본사 건설사 중 전국 100위권에 포함된 기업이 6개사로 전년도 7개사 대비 1개사 감소했다. 포스코이앤씨가 8위로 최상위 랭킹을 유지했으며, HS화성, 서한 등이 포함되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-30T17:38:43+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
