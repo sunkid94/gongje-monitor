@@ -23744,6 +23744,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "KCC, 2분기 실적 선방…비우호적 업황 뚫은 '다각화' - joseilbo.com",
+    "link": "http://www.joseilbo.com/news/news_read.php?uid=573434&class=17&grp=",
+    "description": "KCC가 건설경기 침체 장기화 국면 속 중동지역 분쟁으로 인한 긴장, 글로벌 원자내 가격 상승 등 대내외적 비우호적 업황이 지속되는 가운데 올해 2분기에 전년대비 외형 성장을 일구고 견조한 이익을 유지한 것으로...",
+    "published_at": "2026-08-07T15:18:00+09:00",
+    "cluster_id": "3cba",
+    "publisher": "joseilbo.com",
+    "title_clean": "KCC, 2분기 실적 선방…비우호적 업황 뚫은 '다각화'",
+    "summary": "KCC가 건설경기 침체와 글로벌 악재 속에서도 2분기에 전년대비 외형 성장을 달성하고 견조한 이익을 유지했다. 다각화 전략으로 비우호적 업황을 극복한 것으로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T15:23:48+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "일자리 줄었는데 숙련공도 없다… 건설현장 인력 '미스매치' - the-biz.co.kr",
     "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725857",
     "description": "건설경기 침체로 건설 일자리가 2년 넘게 줄어드는 가운데, 현장에서는 숙련 기능인력의 공급 기반도 약해지고 있다. 지금은 공사 물량이 줄어 당장 인력 부족이 티 나지 않지만, 고령화와 청년층 유입 부진이...",
@@ -32291,21 +32307,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T14:04:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "KCC, 2분기 영업이익 1288억…전년比 13% 감소 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20076006?ref=naver",
-    "description": "건설경기 침체와 지정학적 불확실성 확대 등 대외 경영 환경이 악화한 것이 영향을 미친 것으로 분석된다. 호르무즈 해협 봉쇄에 따른 원재료 가격 상승으로 도료 부문의 수익성이 악화되며 영업이익이 감소했다....",
-    "published_at": "2026-08-05T13:56:00+09:00",
-    "cluster_id": "5928",
-    "publisher": "sedaily.com",
-    "title_clean": "KCC, 2분기 영업이익 1288억…전년比 13% 감소",
-    "summary": "KCC의 2분기 영업이익이 1288억원으로 전년 대비 13% 감소했다. 건설경기 침체, 지정학적 불확실성, 호르무즈 해협 봉쇄에 따른 원재료 가격 상승 등이 주요 원인이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T13:59:33+09:00",
-    "importance": 4
   }
 ]
