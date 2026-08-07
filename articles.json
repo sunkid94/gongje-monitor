@@ -7791,6 +7791,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설레이더] IPARK현대산업개발·부영그룹·대우건설·호반그룹 주요 업... - finomy.com",
+    "link": "http://www.finomy.com/news/articleView.html?idxno=258770",
+    "description": "◆ 대우건설, 모잠비크 'Rovuma LNG 1단계' EPC 업체 선정 대우건설이 원청사로 참여한 SMDC JV가 모잠비크의 초대형 LNG 개발 사업 'Rovuma LNG 1단계' 프로젝트의 미드스트림 설계·구매·시공을 담당하는 EPC 업체로 선정됐다....",
+    "published_at": "2026-08-07T15:08:00+09:00",
+    "cluster_id": "ae85",
+    "publisher": "finomy.com",
+    "title_clean": "[건설레이더] IPARK현대산업개발·부영그룹·대우건설·호반그룹 주요 업...",
+    "summary": "대우건설이 SMDC JV의 원청사로 참여하여 모잠비크 Rovuma LNG 1단계 프로젝트의 미드스트림 EPC 업체로 선정되었다. 초대형 해외 LNG 개발 사업 수주로 건설업계의 대규모 프로젝트 수주 사례를 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-07T15:13:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23725,20 +23741,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "삼성물산, 13년 연속 시평 1위…GS건설·현대엔지니어링 2계단↑, 대우건설·DL이앤씨 2계단↓ - 소비자가 만드는 신문",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yd0Y5LUExRG9LamFwcFNHVEZHdUNvVFhEN0paT28tZnlnNTRWUTlQZUtRNjdKTjlLbDQ0N3R1SzRMbE9Ibm5TZUw4akFvTll1TU83NWxyc0pMaDJhQmVyOG1uQUFEbFNKNm5yc1llUEFGMVE?oc=5",
-    "description": "올해 시공능력평가에서 삼성물산(건설부문 대표 오세철)이 13년 연속 1위를 지켰다.현대건설(대표 이한우)은 지난해와 같은 2위를 유지했다. GS건설(대표 허윤홍)과 현대엔지니어링(대표 주우정)은 각각 3위와 4위에 올랐다. 나란히 두 계단 상승했다.반면 대우건설(대표 김보현)과 DL이앤씨(대표 박상신)는 두 계단씩 떨어졌다.50~100위권에서는 순위 변동이 컸다. 경동건설(대표 김동규)은 무려 69계단 상승하며 올해 시평 순위가 가장 많이 올랐다. 지난해 48위였던 SK에코엔지니어링(대표 이형원)은 26계단 하락해 74위에 그쳤다.",
-    "published_at": "2026-07-30T18:15:51+09:00",
-    "cluster_id": "6cc2",
-    "publisher": "소비자가 만드는 신문",
-    "title_clean": "삼성물산, 13년 연속 시평 1위…GS건설·현대엔지니어링 2계단↑, 대우건설·DL이앤씨 2계단↓",
-    "summary": "2024년 시공능력평가에서 삼성물산이 13년 연속 1위를 유지했으며, 현대건설은 2위, GS건설과 현대엔지니어링이 각각 3위, 4위로 상승했다. 대우건설과 DL이앤씨는 하락했고, 중위권에서는 경동건설의 69계단 상승 등 큰 순위 변동이 발생했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T18:29:00+09:00",
-    "importance": 2
+    "title": "일자리 줄었는데 숙련공도 없다… 건설현장 인력 '미스매치' - the-biz.co.kr",
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725857",
+    "description": "건설경기 침체로 건설 일자리가 2년 넘게 줄어드는 가운데, 현장에서는 숙련 기능인력의 공급 기반도 약해지고 있다. 지금은 공사 물량이 줄어 당장 인력 부족이 티 나지 않지만, 고령화와 청년층 유입 부진이...",
+    "published_at": "2026-08-07T15:10:00+09:00",
+    "cluster_id": "ffe3",
+    "publisher": "",
+    "title_clean": "일자리 줄었는데 숙련공도 없다… 건설현장 인력 '미스매치' - the-biz.co.kr",
+    "summary": "건설경기 침체로 일자리가 감소하는 가운데 숙련 기능인력 공급도 부족해지고 있다. 현재는 공사 물량 감소로 인력 부족이 드러나지 않지만, 고령화와 청년층 유입 부진으로 향후 구조적 문제가 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T15:13:51+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32291,21 +32307,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T13:59:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "혹서기 중대재해 막아라 … 38도 폭염에 건설사 현장관리 '비상' - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500167.html",
-    "description": "혹서기 현장 관리를 위해 스마트건설 시스템을 도입한 건설사도 있다. 롯데건설은 지난 7월부터 전국 80개 현장을 대상으로 '체감온도 IoT 모니터링 플랫폼'을 가동 중이다. 롯데건설은 2023년 자체 연구개발을 시작으로...",
-    "published_at": "2026-08-05T13:54:00+09:00",
-    "cluster_id": "c061",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "혹서기 중대재해 막아라 … 38도 폭염에 건설사 현장관리 '비상'",
-    "summary": "극한 폭염으로 인한 건설 현장의 중대재해 위험이 증가하면서 업계가 대응에 나섰다. 롯데건설 등이 IoT 기반 스마트 모니터링 시스템을 도입해 혹서기 현장 안전관리를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-05T13:59:33+09:00",
-    "importance": 2
   }
 ]
