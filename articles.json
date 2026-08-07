@@ -23506,6 +23506,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천북부고용노동지청, 폭염 중대경보에 건설현장 긴급점검 - 내외뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MX1RDUUtKYjRxVFBFb3VLQlA4dXY4SkFJcGxrRmVuTXBqdlVZd0UzT2JudmQ1eXltMF9RZFkzZHRZN3hNOGlmX01GV2Z0WWtid09mWU9IZndidTh6NzF3d2pFM1czQzJsSFAwSdIBcEFVX3lxTE1uMzZ4V2ZQZGZ5bjB6OUxXVktiQWxCaGJmNU1hbEJicmszUG8xeTlGak9DRHFNZGppUXBBNURQT1RGTzRCcTZGc05nT0dzR0xScl9jcEhOVTEwbVFDazVJQ1pESEJPYmp3Qm9DcUNEcU8?oc=5",
+    "description": "[인천=내외뉴스통신] 김향훈 기자 = 중부지방고용노동청 인천북부지청이 폭염 중대경보 발령에 따라 건설현장과 물류센터를 대상으로 긴급 현장점검에 나섰다. 이번 점검은 폭염 속에서 일하는 근로자들의 온열질환과 중대재해를 예방하기 위해 추진됐다.인천북부지청은 지난 5일부터 7일까지 3일간 인천시, 안전보건공단, 민간재해예방기관 등 관계기관과 긴급 상황점검 회의를 개최한 뒤 인천 서해구와 검단구 소재 건설현장 및 물류센터를 방문해 폭염 대응체계와 온열질환 예방을 위한 안전관리 이행 실태를 집중 점검했다.특히 연일 계속되는 폭염으로 건설현장",
+    "published_at": "2026-08-07T22:16:56+09:00",
+    "cluster_id": "a849",
+    "publisher": "내외뉴스통신",
+    "title_clean": "인천북부고용노동지청, 폭염 중대경보에 건설현장 긴급점검",
+    "summary": "인천북부고용노동지청이 폭염 중대경보에 따라 건설현장과 물류센터에 대한 긴급 현장점검을 실시했다. 근로자들의 온열질환과 중대재해 예방을 위해 폭염 대응체계와 안전관리 이행 실태를 집중 점검했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T23:38:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32282,21 +32298,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T15:54:13+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "대방건설, 시공능력평가 22위 기록… 평가액 약 1327억 증가 - sisacast.kr",
-    "link": "http://www.sisacast.kr/news/articleView.html?idxno=98511",
-    "description": "건설산업기본법 제23조에 따라 매년 7월 말 공시되며, 공공공사 입찰을 비롯해 민간 시공사 선정, 신용평가 등 건설사의 경쟁력을 판단하는 주요 지표로 활용된다. 주요 실적으로는 종합건설업 주요 세부공종별...",
-    "published_at": "2026-08-05T15:44:00+09:00",
-    "cluster_id": "ec73",
-    "publisher": "sisacast.kr",
-    "title_clean": "대방건설, 시공능력평가 22위 기록… 평가액 약 1327억 증가",
-    "summary": "대방건설이 올해 시공능력평가에서 22위를 기록하며 평가액이 약 1327억 원 증가했다. 시공능력평가는 건설산업기본법에 따라 매년 7월 말 공시되며, 공공공사 입찰과 신용평가 등 건설사의 경쟁력을 판단하는 주요 지표로 활용된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T15:49:07+09:00",
-    "importance": 2
   }
 ]
