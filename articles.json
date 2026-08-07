@@ -7707,6 +7707,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "오일근 롯데건설, 계열 공사 96%가 수의계약… 전주 지역업체엔 \"실적·신용도\" 문턱 - 뉴스필드",
+    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNTjNwSHlaUmtYNG1mRG5XTGVJcGVSa0diVExiWlR0aS1IYS14M2xnU3VlZlhnSjQ3NFpmcjNsMmhmd1dNVUxDc2czcHNmMXJIRl9Zd29xRUQzSE1mZnN0eXRRNzJ3ZGtGNnUteWVmaG5jVGE2UWEzVEpWbWROYmJpemg1ZVBtZ0hYSnpnTE5kRFlYdEhQWmJwMFB1Z2stLW8wUHZuZ0NPcUxoNnJQTEkwYUFSSWVCeEJtTmlfRkpGa1EtY0dFSTJJY0oyMzlseTF4MFFIeUlBdW43WFpGa1RyWVR6QUtDWFIyRnJrZVpGRmRZcF9FQ20zV2M5Y2MwR3RRdksxY1pGM0FMbGJvNFNza1FjbkNzOGlnYmxidVFfZlN3V1lTM0xqaEtUU0N6dGdDZTI5a05ZTQ?oc=5",
+    "description": "■ \"실적 쌓을 기회 없는데 실적을 보나\"… 지역업계 반발에 롯데건설 반박",
+    "published_at": "2026-08-07T11:40:34+09:00",
+    "cluster_id": "43c2",
+    "publisher": "뉴스필드",
+    "title_clean": "오일근 롯데건설, 계열 공사 96%가 수의계약… 전주 지역업체엔 \"실적·신용도\" 문턱",
+    "summary": "롯데건설이 계열사 공사의 96%를 수의계약으로 처리하면서 지역업체들의 공정한 수주 기회를 제한하고 있다는 지적이 제기됐다. 지역 중소건설업체들은 실적 없이 입찰 기준을 충족할 수 없다며 반발하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-07T11:49:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -23641,22 +23657,6 @@
     "summary": "포스코이앤씨가 부산 '더샵 트리센트' 견본주택을 개관하고 분양을 시작했으며, GS건설이 2분기 경영실적을 발표하고 SH공사가 현장 안전점검을 실시하는 등 건설업계의 정상적인 사업 추진 소식들이 보도됨.",
     "sentiment": "neutral",
     "collected_at": "2026-07-30T14:48:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코이앤씨, 부산 남구 '더샵 트리센트' 31일 견본주택 개관 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52dzRJcm4tUXJhLXFTclNqNE05TlFCQUU1bFBaNFRsN2ZhbEhoRkhjdDVpeWp2SDJCWHc4X3REQjRZUjRpTEpEMUFJdjNBWGtCNG5FSjNSUTA3dw?oc=5",
-    "description": "포스코이앤씨가 부산시 남구 문현동 일원에 조성하는 '더샵 트리센트'의 견본주택을 31일 개관하고 본격적인 분양 일정에 돌입한다.정당계약은 8월 24일부터 26일까지 3일간 진행된다.1순위 청약은 부산, 경남, 울산 거주 만 19세 이상이면 1주택자나 다주택자도 가능하..",
-    "published_at": "2026-07-30T14:27:51+09:00",
-    "cluster_id": "d4bd",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "포스코이앤씨, 부산 남구 '더샵 트리센트' 31일 견본주택 개관",
-    "summary": "포스코이앤씨가 부산 남구 문현동에 개발 중인 '더샵 트리센트' 아파트의 견본주택을 31일 개관하고 분양을 시작한다. 정당계약은 8월 24~26일, 1순위 청약은 부산·경남·울산 거주 만 19세 이상 누구나 가능하다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T14:43:47+09:00",
     "importance": 2
   },
   {
