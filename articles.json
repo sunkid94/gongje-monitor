@@ -7553,21 +7553,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "국토부·기계설비산업硏  'AI 시대 데이터센터 건설산업 활성화 포럼' 발... - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=332119",
-    "description": "포럼은 국토교통부가 주관하고, 대한기계설비건설협회 산하 대한기계설비산업연구원이 간사 역할을 맡는다. 제조 및 시공, 운영 및 유지관리, 제도 및 표준화, 해외진출 및 금융지원 등 4개 분과로 구성 운영할 예정이다....",
-    "published_at": "2026-07-08T20:56:00+09:00",
-    "cluster_id": "d463",
-    "publisher": "e2news.com",
-    "title_clean": "국토부·기계설비산업硏  'AI 시대 데이터센터 건설산업 활성화 포럼' 발...",
-    "summary": "국토교통부와 대한기계설비산업연구원이 'AI 시대 데이터센터 건설산업 활성화 포럼'을 개최한다. 제조·시공, 운영·유지관리, 제도·표준화, 해외진출·금융지원 등 4개 분과로 구성하여 데이터센터 건설산업의 활성화를 도모한다.",
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성전자, 휴머노이드 로봇에 꽂히다 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12113331",
+    "description": "로봇의 학습 무대가 삼성디스플레이, 삼성전기, 삼성SDI, 삼성중공업, 삼성E&A 등 계열사 생산 현장에 순차적으로 적용될 경우 정밀 전자 조립부터 중량물 운반까지 다양한 작업 데이터를 축적할 수 있다. 이를 통해 AI...",
+    "published_at": "2026-08-07T21:01:00+09:00",
+    "cluster_id": "7078",
+    "publisher": "mk.co.kr",
+    "title_clean": "삼성전자, 휴머노이드 로봇에 꽂히다",
+    "summary": "삼성전자가 휴머노이드 로봇 개발에 주력하며 계열사 생산 현장에 순차 적용을 추진 중이다. 로봇이 정밀 전자 조립부터 중량물 운반까지 다양한 작업 데이터를 축적해 AI 역량을 고도화할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-08T20:59:12+09:00",
-    "event_label": "대한기계설비건설협회 AI 시대 데이터센터 건설산업 활성화 포럼 개최",
-    "importance": 5
+    "collected_at": "2026-08-07T21:09:00+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -23505,22 +23504,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-31T11:09:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성물산, 13년 시공 1위…상위 ‘빅4’ 변동 - news.dealsitetv.com",
-    "link": "https://news.dealsitetv.com/articles/174079",
-    "description": "GS건설과 현대엔지니어링이 뚜렷한 상승세를 보이며 상위권에 안착한 반면, 5위 안에 들던 대우건설과 DL이앤씨는 순위가 밀려났다. 31일 국토교통부에 따르면 전국 등록 건설업체 중 평가를 신청한 7만4332개사를...",
-    "published_at": "2026-07-31T10:56:00+09:00",
-    "cluster_id": "ac2e",
-    "publisher": "news.dealsitetv.com",
-    "title_clean": "삼성물산, 13년 시공 1위…상위 ‘빅4’ 변동",
-    "summary": "삼성물산이 13년 연속 건설 시공 1위를 기록했으며, GS건설과 현대엔지니어링이 상위권에 안착하는 등 상위 4개사의 순위 변동이 발생했다. 대우건설과 DL이앤씨는 상위 5위에서 밀려났다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-31T10:59:07+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
