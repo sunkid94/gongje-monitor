@@ -7553,6 +7553,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 3000억 ABS 연속 발행…재무 체질 개선 전략 본격화 - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=739492",
+    "description": "롯데건설이 공사대금채권을 활용한 자산유동화증권(ABS)을 연이어 발행하며 재무구조 안정화에 속도를 내고 있다. 건설업 전반이 고원가 부담과 부동산 경기 침체라는 이중고를 겪는 상황에서, 보유 자산을 적극...",
+    "published_at": "2026-08-07T21:49:00+09:00",
+    "cluster_id": "8b7b",
+    "publisher": "polinews.co.kr",
+    "title_clean": "롯데건설, 3000억 ABS 연속 발행…재무 체질 개선 전략 본격화",
+    "summary": "롯데건설이 공사대금채권을 담보로 3000억 규모의 ABS를 연속 발행하며 재무구조 개선을 추진하고 있다. 건설업계의 고원가 부담과 부동산 경기 침체 속에서 보유 자산 유동화를 통해 자금 확보에 나서는 전략이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-07T21:53:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -23488,22 +23504,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-31T11:09:33+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "시공사 바꿨더니 공사비 더 뛰었다···정비사업 '갈아타기'의 함정 - seoulfn.com",
-    "link": "https://www.seoulfn.com/news/articleView.html?idxno=634579",
-    "description": "30일 건설업계에 따르면 서울 강남구 원효성빌라 재건축정비사업조합은 최근 총회를 열고 대우건설의 시공사 선정을 취소하기로 결정했다. 지난해 6월 시공사로 선정된 대우건설은 마감재 상향 등 조합 측의 요구 조건을...",
-    "published_at": "2026-07-31T11:00:00+09:00",
-    "cluster_id": "b3c0",
-    "publisher": "seoulfn.com",
-    "title_clean": "시공사 바꿨더니 공사비 더 뛰었다···정비사업 '갈아타기'의 함정",
-    "summary": "서울 강남구 원효성빌라 재건축정비사업조합이 대우건설과의 시공사 계약을 취소했으나, 새로운 시공사 선정으로 인해 공사비가 추가로 상승하는 문제가 발생했다. 정비사업의 시공사 변경이 원래 의도와 달리 건축주의 부담만 증가시키는 구조적 문제를 드러냈다.",
-    "sentiment": "negative",
-    "collected_at": "2026-07-31T11:09:33+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
