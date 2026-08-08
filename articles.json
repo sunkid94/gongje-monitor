@@ -6758,6 +6758,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "조선업 블루오션 ‘부유식 데이터센터’…삼성重 이어 HD현대도 본격 참... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10834303?ref=naver",
+    "description": "FDC는 높은 수익성이 보장돼 국내 조선소 중에서는 삼성중공업에 이어 HD현대가 본격 뛰어들고 있다. 9일 상상인증권에 따르면 HD현대는 최근 진행한 기업설명회(NDR)를 통해 고객사로부터 FDC 수주 관련 문의를...",
+    "published_at": "2026-08-09T07:00:00+09:00",
+    "cluster_id": "ce14",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "조선업 블루오션 ‘부유식 데이터센터’…삼성重 이어 HD현대도 본격 참...",
+    "summary": "부유식 데이터센터(FDC)가 높은 수익성을 갖춘 조선업의 새로운 블루오션으로 부상하고 있다. 삼성중공업에 이어 HD현대도 기업설명회를 통해 FDC 수주 관련 고객사 문의를 받으며 본격 진출하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-09T07:07:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22691,22 +22707,6 @@
     "title_clean": "한강 푸르지오 리버프론트, 31일 견본주택 개관…2432세대 분양",
     "summary": "대우건설이 시공하는 한강 푸르지오 리버프론트가 31일 견본주택을 개관하며 2432세대를 분양한다. 8월 10일부터 청약을 시작하여 9월 1일부터 정당계약을 진행할 예정이다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-31T14:50:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데, 지난해 탄소배출 목표보다 3.8% 더 줄여…ESG 경영 강화 - news1.kr",
-    "link": "https://www.news1.kr/industry/distribution/6245446",
-    "description": "롯데건설, AI로 안전건설 현장…롯데칠성, 2040년 탄소중립 목표 롯데건설은 안전한 건설 현장 조성에도 앞장서고 있다. 외국인 근로자 비중이 높은 건설 현장의 특성을 고려해 AI 기반 다국어 번역 모델을 도입했다....",
-    "published_at": "2026-07-31T14:42:00+09:00",
-    "cluster_id": "0da3",
-    "publisher": "news1.kr",
-    "title_clean": "롯데, 지난해 탄소배출 목표보다 3.8% 더 줄여…ESG 경영 강화",
-    "summary": "롯데는 지난해 탄소배출을 목표보다 3.8% 초과 감축하며 ESG 경영을 강화하고 있다. 롯데건설은 AI 기반 다국어 번역 모델을 도입하여 안전한 건설 현장을 조성하고, 롯데칠성은 2040년 탄소중립을 목표로 설정했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-07-31T14:50:04+09:00",
     "importance": 2
   },
