@@ -7468,23 +7468,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설협회 서울시회 대외협력위원회, 제2차 회의 개최 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50716",
-    "description": "대한기계설비건설협회 서울시회 대외협력위원회(위원장 정광일)는 지난 8일 서울 강남구 청담동 기계설비건설회관에서 '2026년 제2차 대외협력위원회'<사진>를 개최했다. 대외협력위원회는 공공기관을 대상으로 분야별...",
-    "published_at": "2026-07-09T09:24:00+09:00",
-    "cluster_id": "4f83",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비건설협회 서울시회 대외협력위원회, 제2차 회의 개최",
-    "summary": "대한기계설비건설협회 서울시회 대외협력위원회가 제2차 회의를 개최했다. 공공기관을 대상으로 분야별 협력 방안을 논의하는 정기 회의로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-09T09:29:13+09:00",
-    "event_label": "대한기계설비건설협회 서울시회 대외협력위원회 제2차 회의 개최",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -23436,6 +23419,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T14:25:14+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "군포시, 폭염 대응 건설현장 안전점검 확대…근로자 보호 총력 - kgnews.co.kr",
+    "link": "https://www.kgnews.co.kr/news/article.html?no=906894",
+    "description": "아울러 폭염 장기화에 대비해 건설현장 안전관리 체계를 한층 강화하고, 근로자 보호 중심의 현장 운영이 정착될 수 있도록 행정지원을 이어갈 방침이다. [ 경기신문 = 김성훈 기자 ] 군포시 폭염대책에 총력전을 펼치고...",
+    "published_at": "2026-08-08T09:42:00+09:00",
+    "cluster_id": "5ecb",
+    "publisher": "kgnews.co.kr",
+    "title_clean": "군포시, 폭염 대응 건설현장 안전점검 확대…근로자 보호 총력",
+    "summary": "군포시가 폭염에 대응하여 건설현장 안전점검을 확대하고 근로자 보호를 강화하는 방침을 추진 중이다. 장기 폭염에 대비해 현장 안전관리 체계를 강화하고 행정지원을 지속할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-08T09:48:19+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
