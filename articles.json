@@ -23421,6 +23421,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 불황 직격탄…근로자보다 ‘근로일’ 더 크게 줄었다 - mediapen.com",
+    "link": "https://www.mediapen.com/news/view/1115040",
+    "description": "건설경기 침체가 길어지면서 건설현장의 고용 기반이 빠르게 쪼그라들고 있다. 퇴직공제 신규 가입공사가 줄고 건축 부문의 현장 위축이 두드러지면서 퇴직공제 적용 근로자 수보다 공제부금 적립일수가 더 큰...",
+    "published_at": "2026-08-08T10:44:00+09:00",
+    "cluster_id": "3a5d",
+    "publisher": "mediapen.com",
+    "title_clean": "건설 불황 직격탄…근로자보다 ‘근로일’ 더 크게 줄었다",
+    "summary": "건설경기 침체로 인해 퇴직공제 신규 가입공사가 감소하고 건축 현장이 위축되면서 건설 근로자 수보다 근로일수 감소가 더 크게 나타나고 있다. 건설현장의 고용 기반이 빠르게 축소되는 추세다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-08T10:48:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "publisher": "ggilbo.com",
     "title_clean": "보령시, ㈜동명철강과 105억 원 규모 투자협약 체결",
     "summary": "보령시가 철근 가공품 전문기업인 ㈜동명철강과 105억 원 규모 투자협약을 체결했습니다. 동명철강은 스마트건설 철근 선조립 기술을 보유한 우량기업으로 2025년 기준 100여억 원의 매출을 달성할 것으로 예상됩니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T15:59:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "충남 보령시, ㈜동명철강과 105억 원 규모 투자협약 체결... '웅천산단' ... - ccdn.co.kr",
-    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092300",
-    "description": "한편 2021년 7월 설립된 ㈜동명철강은 철근 가공품을 전문적으로 생산하는 기업으로, 스마트건설 철근 선조립 기술을 바탕으로 2025년 기준 100여억 원의 매출을 달성하는 등 건실한 성장세를 이어가고 있는 우량...",
-    "published_at": "2026-08-05T15:52:00+09:00",
-    "cluster_id": "0cea",
-    "publisher": "ccdn.co.kr",
-    "title_clean": "충남 보령시, ㈜동명철강과 105억 원 규모 투자협약 체결... '웅천산단' ...",
-    "summary": "충남 보령시가 철근 가공품 전문업체 ㈜동명철강과 105억 원 규모의 투자협약을 체결했다. 동명철강은 스마트건설 철근 선조립 기술을 바탕으로 건실한 성장세를 이어가고 있는 우량기업이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-05T15:59:07+09:00",
     "importance": 2
