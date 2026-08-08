@@ -7316,22 +7316,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, ‘재무성과 관리위원회’ 운영…올 경영목표 초과달성 총력 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsaEdKRmI0S3NUOFNtUW4zWjU3b3RLX29iRUxuc3Ntd3QwSG1MclNFY3NLSkE4cFRWLVloWEx3TGwzU1d5bGZVbXQwdjhxTGpHMkUtT2kzeWJ4WW5WdDV0aThMakJBY2U3aE5fODNvM0JOVkFs?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBsaEdKRmI0S3NUOFNtUW4zWjU3b3RLX29iRUxuc3Ntd3QwSG1MclNFY3NLSkE4cFRWLVloWEx3TGwzU1d5bGZVbXQwdjhxTGpHMkUtT2kzeWJ4WW5WdDV0aThMakJBY2U3aE5fODNvM0JOVkFs?oc=5\" target=\"_blank\">건설공제조합, ‘재무성과 관리위원회’ 운영…올 경영목표 초과달성 총력</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "577b",
-    "publisher": "대한경제",
-    "title_clean": "건설공제조합, ‘재무성과 관리위원회’ 운영…올 경영목표 초과달성 총력",
-    "summary": "건설공제조합이 재무성과 관리위원회를 운영하며 올해 경영목표 초과달성을 위해 총력을 기울이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-09T14:45:02+09:00",
-    "event_label": "건설공제조합 재무성과 관리위원회 운영 및 경영목표 초과달성 추진",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -23283,6 +23267,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T14:30:23+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공간정보산업협회·파주시, 개발규제 개선 ‘맞손’…“현장 목소리 반영해야” - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41015",
+    "description": "[건설이코노미뉴스] 한국공간정보산업협회(회장 김대천, 이하 협회)와 파주시(시장 손배찬)가 지역 발전과 개발 관련 규제 개선을 위해 머리를 맞댔다.협회는 지난 6일 파주시청에서 면담을 갖고 지역 내 측량업계의 애로사항을 전달하는 한편 지역 발전과 현안 해결을 위한 제도 개선 방안을 논의했다고 최근 밝혔다.이날 면담에는 손배찬 파주시장과 시 관계공무원을 비롯해 김대천 한국공간정보산업협회 회장, 김승현 경기북부도회장, 김효중 파주지회장 등 관계자들이 참석했다.협회는 이날 파주시의 지속 가능한 발전과 지역경제 활성화를 위해 현장 중심의",
+    "published_at": "2026-08-08T14:53:00+09:00",
+    "cluster_id": "e69a",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "공간정보산업협회·파주시, 개발규제 개선 ‘맞손’…“현장 목소리 반영해야”",
+    "summary": "한국공간정보산업협회와 파주시가 지역 측량업계의 애로사항을 논의하고 개발 관련 규제 개선 방안을 협의했다. 현장 중심의 제도 개선을 통해 지역경제 활성화와 지속 가능한 발전을 도모하려는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-08T14:56:05+09:00",
+    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
