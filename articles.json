@@ -6775,23 +6775,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, ‘재무성과 관리위원회’ 운영 - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8yOWlfZ2pvUzk3WXpBd2NDTTd3N0VkVDJvS2JYWlc5aVdDdU1qU0F1U3hNd0p3MkkwYlRWSXliV280SU0?oc=5",
-    "description": "사진은 건설공제조합의 비상경영체제 컨트롤타워 이미지(사진제공=건설공제조합)매일건설신문=허문수 기자 | 건설공제조합은 지난 5월 출범시킨 비상",
-    "published_at": "2026-07-09T19:15:00+09:00",
-    "cluster_id": "abab",
-    "publisher": "매일건설신문",
-    "title_clean": "건설공제조합, ‘재무성과 관리위원회’ 운영",
-    "summary": "건설공제조합이 지난 5월 출범시킨 비상경영체제의 컨트롤타워인 '재무성과 관리위원회'를 운영 중이다. 업계 어려움에 대응하기 위한 재무 관리 체계를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-10T00:19:38+09:00",
-    "event_label": "건설공제조합 재무성과 관리위원회 운영",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22743,6 +22726,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-07-31T14:40:27+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "파주시·고양노동지청, 폭염 대비 건설현장 합동 안전점검 - 내외뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IQmtqcnlUMS1kVDBGRVZKblJZdzNEZkJ5aGVWZUdaMmN4bmZhbk0yZGQ0TWJYU2RwWE0wbklrU1JCX1pFTTJmSUF3VEFzaU5MQ1dfX29idWNwM2FLLTFBQzBmbjdRWHE5UFVqetIBcEFVX3lxTE56RktzbnlQYUlmelExQkgyR0JNaTZmUzZ4X1YzYm41UVN1QjlRdVVwRHJiWk45T0VRT3kwLU5tV1dNT1BtVHV3T1RzYUhPZE9kXzl3TGhNRi0wUzFDNHdzS3hwcGctY3NtcjJJUHJBcUQ?oc=5",
+    "description": "[파주=내외뉴스통신] 이용범 기자파주시와 고양노동지청이 지난 5일 파주연천축협 종합청사 신축 공사 현장을 대상으로 폭염 대비 합동 안전점검을 실시했다.이번 점검은 8월 ‘노동안전의 날’ 활동의 일환으로 진행됐으며, 파주시 노동안전지킴이를 비롯한 관계자 8명이 참여했다.합동 점검팀은 현장에서 ▲폭염 대비 안전수칙 준수 여부 ▲근로자 충분한 휴식 제공 ▲시원한 물 비치 ▲그늘막 및 휴게시설 운영 ▲폭염에 따른 작업시간 조정 여부 등 온열질환 예방조치 전반을 집중 점검했다.이와 함께 보호구 착용과 작업장 내 위험요인 관리 등 기본적인 산",
+    "published_at": "2026-08-08T18:38:44+09:00",
+    "cluster_id": "1c72",
+    "publisher": "내외뉴스통신",
+    "title_clean": "파주시·고양노동지청, 폭염 대비 건설현장 합동 안전점검",
+    "summary": "파주시와 고양노동지청이 건설현장을 대상으로 폭염 대비 합동 안전점검을 실시했다. 근로자 휴식, 물 비치, 휴게시설 운영 등 온열질환 예방조치를 중점 점검했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-09T01:52:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
