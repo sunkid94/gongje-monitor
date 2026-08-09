@@ -22477,6 +22477,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "[게시판] 건설근로자공제회, 중소 건설현장 선정해 생수·냉각용품 지급 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20260808024800530?input=1195m",
+    "description": "▲ 건설근로자공제회는 10일 건설노동자를 위한 '혹서기 찾아가는 건설 현장 휴식 지원' 사업을 실시한다고 밝혔다. 이번 사업에서는 전국 700여 개 중소규모 건설 현장에 생수와 목걸이형 냉각기(넥쿨러) 등 폭염 대비...",
+    "published_at": "2026-08-10T06:00:00+09:00",
+    "cluster_id": "ca6d",
+    "publisher": "yna.co.kr",
+    "title_clean": "[게시판] 건설근로자공제회, 중소 건설현장 선정해 생수·냉각용품 지급",
+    "summary": "건설근로자공제회가 전국 700여 개 중소 건설현장을 대상으로 '혹서기 찾아가는 건설 현장 휴식 지원' 사업을 실시한다. 생수와 넥쿨러 등 폭염 대비용품을 지급하여 건설근로자의 건강과 안전을 지원한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-10T06:07:44+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "건설근로자공제회, 중소 건설현장에 생수·넥쿨러 지원 - newsis.com",
     "link": "https://www.newsis.com/view/NISX20260809_0003741858",
     "description": "건설근로자공제회는 건설노동자의 안전한 노동환경 조성을 위해 '혹서기 찾아가는 휴식지원' 사업을 실시한다고 10일 밝혔다. 이번 사업은 연일 이어지는 폭염으로부터 건설노동자의 건강을 보호하고 온열질환을...",
@@ -32220,21 +32236,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T16:24:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"LX하우시스·현대리바트·한샘 맞붙는다\"…인테리어 신기술 향연 - news.bizwatch.co.kr",
-    "link": "https://news.bizwatch.co.kr/article/real_estate/2026/08/05/0015",
-    "description": "건축자재부터 스마트건설, 공간디자인, 인테리어까지 산업 전반을 아우르는 다양한 신제품과 첨단 기술을 선보인다. 전시장은 분야별 전문성에 따라 나눴다. 홀(Hall) A에서는 건설·건축 자재, 설비, 창호, 공구...",
-    "published_at": "2026-08-05T16:19:00+09:00",
-    "cluster_id": "d771",
-    "publisher": "news.bizwatch.co.kr",
-    "title_clean": "\"LX하우시스·현대리바트·한샘 맞붙는다\"…인테리어 신기술 향연",
-    "summary": "LX하우시스, 현대리바트, 한샘 등 주요 기업들이 건축자재부터 스마트건설, 인테리어까지 신제품과 첨단기술을 선보이는 전시회를 개최한다. 건설·건축 산업 전반의 신기술 동향을 보여주는 종합 전시 행사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T16:24:34+09:00",
-    "importance": 2
   }
 ]
