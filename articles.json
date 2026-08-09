@@ -6674,23 +6674,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "조인호 대한기계설비건설협회 명예회장, '건설의 날' 금탑산업훈장 수훈 - todayenergy.kr",
-    "link": "https://www.todayenergy.kr/news/articleView.html?idxno=300213",
-    "description": "기계설비업계의 산증인인 조인호 대한기계설비건설협회 명예회장이 건설 산업 발전에 앞장선 공로를 인정받아 국가 최고 권위의 훈장을 품에 안았다. 9일 열린 '2026 건설의 날' 기념식에서 조 명예회장은...",
-    "published_at": "2026-07-10T11:16:00+09:00",
-    "cluster_id": "8389",
-    "publisher": "todayenergy.kr",
-    "title_clean": "조인호 대한기계설비건설협회 명예회장, '건설의 날' 금탑산업훈장 수훈",
-    "summary": "조인호 대한기계설비건설협회 명예회장이 건설 산업 발전 공로로 '2026 건설의 날' 기념식에서 금탑산업훈장을 수훈했다. 기계설비업계의 발전을 주도한 인물이 국가 최고 권위의 훈장을 받으며 업계의 위상을 높였다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-10T11:19:27+09:00",
-    "event_label": "대한기계설비건설협회 조인호 명예회장 금탑산업훈장 수훈",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22641,6 +22624,21 @@
     "summary": "SNT에너지가 미국 최초 부유식 LNG(FLNG) 프로젝트인 Delfin FLNG1의 공급계약을 체결했습니다. 삼성중공업이 참여하는 약 50억달러 규모의 세계 최대 FLNG 사업으로, 건설업계에 대규모 수주 기회를 제공합니다.",
     "sentiment": "positive",
     "collected_at": "2026-07-31T14:59:53+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "4월 1일부터 건설신기술·특허 플랫폼 본격운영 - 서울Pn",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW9oaTFSR3QwME9sMEpFVFNJc2MxMXhXMTBIWWtXY00tdUpMVFR0MFU2RE1xb2VmQklxa2VEbW5MazhneW5Uank1Uk9ocVkybFRzOXFiRU9XWm91VVlmTmdJckhtUU9hWHpUZjBmcVluRjE4QjlLMnlvX0JMZUJJZGVpdzNvMEpOYUR2dA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW9oaTFSR3QwME9sMEpFVFNJc2MxMXhXMTBIWWtXY00tdUpMVFR0MFU2RE1xb2VmQklxa2VEbW5MazhneW5Uank1Uk9ocVkybFRzOXFiRU9XWm91VVlmTmdJckhtUU9hWHpUZjBmcVluRjE4QjlLMnlvX0JMZUJJZGVpdzNvMEpOYUR2dA?oc=5\" target=\"_blank\">4월 1일부터 건설신기술·특허 플랫폼 본격운영</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울Pn</font>",
+    "cluster_id": "99cc",
+    "publisher": "서울Pn",
+    "title_clean": "4월 1일부터 건설신기술·특허 플랫폼 본격운영",
+    "summary": "4월 1일부터 건설신기술·특허 플랫폼이 본격 운영을 시작한다. 플랫폼을 통해 건설업체들의 신기술과 특허 정보 공유 및 활용이 용이해질 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-09T11:47:45+09:00",
     "importance": 2
   },
   {
