@@ -22474,6 +22474,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건협 충북도회, 증평군에 지역건설업체 수주 확대 건의 - ccdailynews.com",
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2433127",
+    "description": "이날 건협 충북도회는 건설경기 침체와 공사비 상승 등으로 지역 건설업체들이 어려움을 겪고 있다며 지역경제 활성화를 위해 공공부문의 적극적인 지원이 필요하다고 건의했다. 주요 건의사항은 지역경제 성장을 위한 SOC...",
+    "published_at": "2026-08-09T23:46:00+09:00",
+    "cluster_id": "58e3",
+    "publisher": "ccdailynews.com",
+    "title_clean": "건협 충북도회, 증평군에 지역건설업체 수주 확대 건의",
+    "summary": "건협 충북도회가 증평군에 건설경기 침체와 공사비 상승으로 어려움을 겪는 지역 건설업체들을 위해 공공부문의 지역 수주 확대를 건의했다. SOC 등 공공사업 추진을 통한 지역경제 활성화를 촉구했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-09T23:52:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32217,22 +32233,6 @@
     "publisher": "polinews.co.kr",
     "title_clean": "LH, 이재민 임시 거처용 모듈러주택 100호 비축…대응 체계 정비",
     "summary": "LH가 재난 이재민을 위한 모듈러주택 100호를 비축하고 긴급 주거 지원 체계를 정비하고 있다. 모듈러 건설 기술을 재난 대응 체계와 연계하여 상시 운용하면 지자체 대응력 강화에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T16:09:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금호건설, 2149억원 규모 ‘영종하늘도시 A4·A6 블록’ 수주 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EUGRPUm1aUk1rY0R5ZXZYWl92VWpiMHVOQktCNmdNY2V5ZC1VcEgyekszeWc4c0JjbzNZVW1vXzBMR1NQNFNGaU1pejV0ZG9VeFQ1amNhZUc1cDNjMGFjZFFiRGM?oc=5",
-    "description": "매일일보 = 김승현 기자 | 금호건설은 5일 ㈜에스아이리얼티에서 발주한 ‘영종하늘도시 A4·A6 블록 공동주택 신축공사’를 수주했다고 밝혔다.이번 사업은 인천 영종하늘도시 A4·A6 블록에 지하 2층~지상 20층 8개 동 총 703세대 규모 공동주택을 조성하는 프로젝트다. 금호건설이 단독(지분 100%)으로 시공을 맡으며 총공사비는 2149억원 규모다. 단지는 금호건설 주거 브랜드 ‘아테라(ARTERA)’가 적용된다.A4 블록은 지하 2층~지상 20층 4개 동 335세대 규모로 조성된다. A6 블록은 지하 2층~지상 20층 4개 동",
-    "published_at": "2026-08-05T15:50:29+09:00",
-    "cluster_id": "606e",
-    "publisher": "매일일보",
-    "title_clean": "금호건설, 2149억원 규모 ‘영종하늘도시 A4·A6 블록’ 수주",
-    "summary": "금호건설이 인천 영종하늘도시 A4·A6 블록 공동주택 신축공사를 2149억원 규모로 수주했다. 총 703세대 규모의 8개 동을 단독 시공하며 아테라 브랜드를 적용한다.",
     "sentiment": "positive",
     "collected_at": "2026-08-05T16:09:42+09:00",
     "importance": 2
