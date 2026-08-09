@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[알립니다] 건설산업의 디지털 혁신…‘게임 체인저’를 찾습니다 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608091001443970279",
+    "description": "등 □ 후원 : 국토교통부 대한건설협회 건설공제조합 한국건설산업연구원 □ 응모 요강 및 참가신청서 : 대한경제 홈페이지(www.dnews.co.kr) 내 배너 □ 상세문의 : 02-3485-8493(스마트건설대상 사무국) , e-mail :",
+    "published_at": "2026-08-10T06:22:00+09:00",
+    "cluster_id": "7a2e",
+    "publisher": "대한경제",
+    "title_clean": "[알립니다] 건설산업의 디지털 혁신…‘게임 체인저’를 찾습니다",
+    "summary": "국토교통부, 대한건설협회, 건설공제조합, 한국건설산업연구원이 후원하는 '스마트건설대상'을 개최하여 건설산업의 디지털 혁신 사례를 발굴·시상합니다. 대한경제 홈페이지를 통해 응모를 받고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T06:27:46+09:00",
+    "event_label": "건설공제조합 스마트건설대상 개최 및 응모 공고",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -22474,6 +22491,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "<알립니다> ‘2026 대경 스마트건설 대상’ 공모 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608031546196040605",
+    "description": "‘2026 대경 스마트건설대상’ 공모 가 ‘2026 대한경제 스마트건설 대상’의 주인공을 공모합니다. AI(인공지능)와 로봇을 필두로 4차 산업혁명이 가속화하는 가운데 건설산업에서도 생성형 AI를 활용한 업무 혁신과...",
+    "published_at": "2026-08-10T06:22:00+09:00",
+    "cluster_id": "0bc6",
+    "publisher": "대한경제",
+    "title_clean": "<알립니다> ‘2026 대경 스마트건설 대상’ 공모",
+    "summary": "대한경제에서 '2026 대경 스마트건설대상'을 공모하며, AI와 로봇 등 4차 산업혁명 기술을 활용한 건설산업의 업무 혁신 사례를 발굴하고 있다. 건설산업의 디지털 전환과 기술 혁신을 장려하는 취지의 공모전이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T06:27:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32206,37 +32239,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T17:14:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "벽산엔지니어링, 법정관리 졸업…1년5개월 만 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608051613437710937",
-    "description": "앞서 벽산엔지니어링은 건설경기 침체와 유동성 악화로 재무 부담이 커지자 지난해 3월4일 법원에 기업회생을 신청했다. 이후 핵심 사업의 경쟁력을 유지하면서 비용 구조 개선과 조직 효율화를 병행했고, 법원은 올해...",
-    "published_at": "2026-08-05T17:02:00+09:00",
-    "cluster_id": "4f90",
-    "publisher": "대한경제",
-    "title_clean": "벽산엔지니어링, 법정관리 졸업…1년5개월 만",
-    "summary": "벽산엔지니어링이 지난해 3월 기업회생을 신청한 지 1년5개월 만에 법정관리를 졸업했다. 건설경기 침체 극복을 위해 핵심 사업 경쟁력 유지, 비용 구조 개선, 조직 효율화를 추진한 결과다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T17:08:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "포스코 노사, 파업 일단 피했다…중노위 조정 연장에 교섭 지속 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719286",
-    "description": "회사는 중국발 저가 철강재 공세와 보호무역 확산, 건설경기 침체 등으로 철강업황이 악화된 상황에서 노조 요구를 모두 수용하기는 어렵다는 입장이다. 반면 노조는 회사가 기존 입장을 반복하며 실질적인 수정안을...",
-    "published_at": "2026-08-05T17:00:00+09:00",
-    "cluster_id": "5481",
-    "publisher": "ebn.co.kr",
-    "title_clean": "포스코 노사, 파업 일단 피했다…중노위 조정 연장에 교섭 지속",
-    "summary": "포스코 노사가 중노위 조정 연장으로 파업을 일단 피했으나, 저가 철강재 공세와 건설경기 침체 속 임금·복지 문제로 교섭이 계속되고 있다. 회사는 악화된 업황을 이유로 노조 요구 수용이 어렵다는 입장이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T17:03:58+09:00",
-    "importance": 4
   }
 ]
