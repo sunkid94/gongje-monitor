@@ -6539,6 +6539,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "LS證 “건설, 데이터센터로 붙이고 원전으로 연다⋯GS건설·대우건설 주... - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2612556",
+    "description": "LS증권은 장기 최선호주로 두산에너빌리티와 현대건설을 유지했다. 차선호주로는 삼성물산과 삼성E&A를 제시했다. 다만 단기적으로는 데이터센터 수주가 기대되는 GS건설과 연쇄적인 수주 파이프라인 가시화가...",
+    "published_at": "2026-08-10T08:08:00+09:00",
+    "cluster_id": "3330",
+    "publisher": "etoday.co.kr",
+    "title_clean": "LS證 “건설, 데이터센터로 붙이고 원전으로 연다⋯GS건설·대우건설 주...",
+    "summary": "LS증권이 건설업체에 대한 투자 의견을 제시했으며, 장기적으로는 두산에너빌리티와 현대건설을 최선호주로, 단기적으로는 데이터센터와 원전 수주가 기대되는 GS건설과 대우건설을 주목하고 있다. 이는 건설업계의 데이터센터, 원전 등 신규 사업 분야 수주 기회 확대를 긍정적으로 평가한 것이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T08:12:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22476,20 +22492,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[주요공시] LG유플러스, 미래산업, 한중엔시에스, 현대자동차, SK하이닉... - kdpress.co.kr",
-    "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=207421",
-    "description": "■ 대우건설(KOSPI, 047040)은 서울특별시 도시기반시설본부와 동부간선 지하화(영동대로) 건설공사 계약을 체결했다. 계약금액은 2017억원이며, 최근 매출액 대비 2.5% 규모다. 공급지역은 서울특별시 강남구...",
-    "published_at": "2026-07-31T23:46:00+09:00",
-    "cluster_id": "4ba7",
-    "publisher": "kdpress.co.kr",
-    "title_clean": "[주요공시] LG유플러스, 미래산업, 한중엔시에스, 현대자동차, SK하이닉...",
-    "summary": "대우건설이 서울시 동부간선 지하화 공사를 수주했으며, 계약금액은 2017억원으로 최근 매출액 대비 2.5% 규모다. 건설업체의 대형 인프라 프로젝트 수주로 건설업계 수주 기회가 지속되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T23:49:47+09:00",
-    "importance": 2
+    "title": "강원자치도, 건설현장 폭염 예방 '도로·하천 분야 건설공사' 긴급 점검 - 이코노믹포스트",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tS3o4SnBUTXU0dlJ0YWtCeFZQTHRLX1lRQm9FYVJRMWI1QUdwNEpiOEpEbEFyVkdUWVNQX044OUVZZW1ZUXVtbWRCa0Q?oc=5",
+    "description": "사진=강원특별자치도 [이코노믹포스트=이석균 부장] 강원특별자치도는 최근 약 2주간 폭염이 이어짐에 따라 건설현장 근로자의 온열질환과 안전사고",
+    "published_at": "2026-08-10T05:07:00+09:00",
+    "cluster_id": "d0d6",
+    "publisher": "이코노믹포스트",
+    "title_clean": "강원자치도, 건설현장 폭염 예방 '도로·하천 분야 건설공사' 긴급 점검",
+    "summary": "강원특별자치도가 폭염으로 인한 건설현장 근로자의 온열질환과 안전사고 예방을 위해 도로·하천 분야 건설공사에 대한 긴급 점검을 실시 중입니다. 약 2주간 지속된 폭염 상황에서 건설 현장의 안전관리 강화에 나서고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-10T08:12:50+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32223,21 +32239,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-05T17:59:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울 전역 오존주의보…관악구 측정소 기준치 초과 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05740006645544368",
-    "description": "환경미화원과 도로보수 작업자, 건설 노동자 등 야외 노동자는 오후 2시부터 5시 사이 가급적 그늘에서 휴식하고, 일반 시민도 장시간 또는 무리한 야외활동을 줄일 것을 권고했다.",
-    "published_at": "2026-08-05T17:47:00+09:00",
-    "cluster_id": "f68f",
-    "publisher": "edaily.co.kr",
-    "title_clean": "서울 전역 오존주의보…관악구 측정소 기준치 초과",
-    "summary": "서울 전역에 오존주의보가 발령되어 야외 노동자들에게 오후 2~5시 휴식을 권고했다. 건설 노동자 등 야외작업자들의 작업 시간 제한으로 인한 공사 일정 지연 및 생산성 저하가 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T17:59:07+09:00",
-    "importance": 4
   }
 ]
