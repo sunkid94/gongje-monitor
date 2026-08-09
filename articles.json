@@ -6522,22 +6522,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[KHARN칸] 조인호 해광이엔씨대표, ‘건설의 날’ 금탑산업훈장 '영예' - 칸(KHARN)",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTGd1aktWaG1Pc2NZTjRCZW94ZEF0RFJoM3hRU1RvUEVjLU03UWtxeHhnd2RBdjlVeEowU1JiNHByS1U5bXpJdTBaUDdkc3NYU0Jvb3hB?oc=5",
-    "description": "조인호 해광이엔씨 대표가 건설업에 40년간 종사하면서 책임있는 기계설비 시공으로 국책·기반사업을 성실히 수행하며 나눔실천 및 인력양성 등 사회공헌과 기계설비건설협회 회장 활동으로 업계 발전에 크게 기여한 공로를 인정받아 금탑산업훈장을 수훈하는 영예를 안았다. 대한기계설비건설협회는 명예회장인 조인호 해광이엔씨 대표가 7월9일 서울시 논현동 건설회관에서 개최된",
-    "cluster_id": "9135",
-    "publisher": "칸(KHARN)",
-    "title_clean": "[KHARN칸] 조인호 해광이엔씨대표, ‘건설의 날’ 금탑산업훈장 '영예'",
-    "summary": "조인호 해광이엔씨 대표가 건설업 40년 종사와 기계설비 시공, 사회공헌, 기계설비건설협회 회장 활동 등의 공로를 인정받아 금탑산업훈장을 수훈했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-10T18:28:42+09:00",
-    "event_label": "대한기계설비건설협회 조인호 대표 금탑산업훈장 수훈",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22489,6 +22473,22 @@
     "sentiment": "positive",
     "collected_at": "2026-07-31T16:29:45+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 한계기업 5년새 62→173곳 급증…\"PF 구조 개선 필요\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96bDZ0UU1LanoxNnl5bVVibmFIR1lXT3FwSF81SVRKUERsTnNqbjloUDRVX3kzdjdYY00xbW9zOE5NZ2ZOR0FmM2hDbEJscDRBajVUbXh3cHBIeEJ2ZkJHdA?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 폭염 중대경보가 내려진 지난 5일 오전 인천시 미추홀구 주택 재개발 정비사업 현장에서 외부 작업이 사실상 중단된 채 비계 작업을 하고 있다./사진=연합아시아투데이 이수일 기자 = 영업이익으로 이자를 감당하지 못하는 건설업계 한계기업이 최근 5년간(20",
+    "published_at": "2026-08-09T18:58:00+09:00",
+    "cluster_id": "46ab",
+    "publisher": "네이트",
+    "title_clean": "건설 한계기업 5년새 62→173곳 급증…\"PF 구조 개선 필요\"",
+    "summary": "최근 5년간 건설 한계기업(영업이익으로 이자를 감당하지 못하는 기업)이 62곳에서 173곳으로 급증했다. 이는 건설업계의 PF(프로젝트파이낸싱) 구조 개선의 필요성을 제기하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-09T19:02:53+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
