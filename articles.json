@@ -22492,6 +22492,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "철강 3사 상반기 본업 성적 희비...동국제강·동국씨엠만 웃었다 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475414",
+    "description": "건설경기 부진이 장기화하는 상황에서도 전통적인 건설용 철강재 이외의 신규 수요를 확보한 효과가 나타난 것이다. 동국씨엠은 프리미엄 강판 브랜드 '럭스틸' 등 고부가 제품을 중심으로 해외 시장 공략을 확대하며...",
+    "published_at": "2026-08-10T07:58:00+09:00",
+    "cluster_id": "30f2",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "철강 3사 상반기 본업 성적 희비...동국제강·동국씨엠만 웃었다",
+    "summary": "건설경기 부진 속에서도 동국제강과 동국씨엠은 신규 수요 확보와 고부가 제품 해외 공략으로 상반기 호실적을 기록했다. 전통 건설용 철강재 이외의 다양한 시장 개척이 성과를 거두고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T08:07:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32223,21 +32239,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T17:59:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도의회 건설위-용인시의회 ‘반도체 클러스터 교통 대책’ 논의 - 도민연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bG5lUC1iendaRG9FVkYtRFBsSERGN1BPenZKM3pqeG9TX0RGYmZCMWwwTzdZTHdkSDJKQmlsdkFiSm1VZnpJaEdOc29WLUF4djVjM0E2UkYycDZSZDVBN3liRWJBTmdRYXc?oc=5",
-    "description": "[도민연합뉴스] 경기도의회 건설교통위원회와 용인특례시의회가 용인에 들어설 예정인 반도체 클러스터 조성에 따른 교통 인프라 확충 방안 등 도시기반 시설 조성을 공동으로 모색하는 자리를 마련했다.고찬석 도의회 건설교통위원장은 5일 용인시의회 신현녀·김종억·서정일·이주연·심정은·오수정·임유",
-    "published_at": "2026-08-05T17:30:07+09:00",
-    "cluster_id": "f66d",
-    "publisher": "도민연합뉴스",
-    "title_clean": "경기도의회 건설위-용인시의회 ‘반도체 클러스터 교통 대책’ 논의",
-    "summary": "경기도의회와 용인시의회가 용인 반도체 클러스터 조성에 따른 교통 인프라 확충 방안을 논의했다. 도시기반 시설 조성을 위한 협력체계를 구축하는 자리를 마련했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T17:59:07+09:00",
-    "importance": 2
   }
 ]
