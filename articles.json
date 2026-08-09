@@ -6674,6 +6674,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대단지 프리미엄…'한강 푸르지오 리버프론트' 특별공급, 내일 시작 - wikitree.co.kr",
+    "link": "https://www.wikitree.co.kr/articles/1151321",
+    "description": "김포 한강시네폴리스 핵심 입지와 단지 세부 현황 단지는 대우건설이 시공을 맡고 한강시네폴리스개발이 시행을 진행한다. 전체 2,432세대 가운데 전용면적 84㎡ 타입이 1,809세대로 가장 큰 비중을 차지한다....",
+    "published_at": "2026-08-09T14:46:00+09:00",
+    "cluster_id": "e7d3",
+    "publisher": "wikitree.co.kr",
+    "title_clean": "대단지 프리미엄…'한강 푸르지오 리버프론트' 특별공급, 내일 시작",
+    "summary": "대우건설이 시공하는 김포 한강 푸르지오 리버프론트 아파트 2,432세대의 특별공급이 시작된다. 전용면적 84㎡ 타입이 대부분을 차지하는 프리미엄 대단지 분양 소식이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-09T14:47:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22609,22 +22625,6 @@
     "sentiment": "negative",
     "collected_at": "2026-07-31T15:30:21+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[더벨][thebell note] 건설사의 AI 혁신 공식 - thebell.co.kr",
-    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607281336257600103981",
-    "description": "SK에코플랜트는 AI 인프라 기술을, 삼성물산은 미래 주거와 로봇을, 현대건설은 AI 기반 안전기술을, 대우건설은 스마트 안전과 자동화를, 롯데건설은 현장관리 기술을 스타트업과 함께 검증하고 있다. 눈여겨볼 점은...",
-    "published_at": "2026-07-31T15:02:00+09:00",
-    "cluster_id": "d576",
-    "publisher": "thebell.co.kr",
-    "title_clean": "[더벨][thebell note] 건설사의 AI 혁신 공식",
-    "summary": "주요 건설사들이 AI 기술을 스타트업과 협력하여 인프라, 안전, 자동화, 현장관리 등 다양한 분야에서 검증 및 혁신을 추진 중이다. 건설업계가 AI 기술 도입을 통해 경쟁력 강화와 산업 고도화를 모색하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T15:10:14+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
