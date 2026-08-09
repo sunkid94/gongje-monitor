@@ -6674,6 +6674,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[발전사 이모저모] 남부, 하동복합 EPC에 두산에너빌 선정 - news.einfomax.co.kr",
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429284",
+    "description": "○…한국남부발전이 노후 석탄화력인 하동화력 2·3호기(1천메가와트(MW))를 대체하는 1기가와트(GW) 규모의 하동복합 건설사업 일괄 설치조건부 구매계약(EPC) 낙찰자로 두산에너빌리티[034020] 컨소시엄을 선정했다고 지난...",
+    "published_at": "2026-08-09T13:02:00+09:00",
+    "cluster_id": "23d9",
+    "publisher": "news.einfomax.co.kr",
+    "title_clean": "[발전사 이모저모] 남부, 하동복합 EPC에 두산에너빌 선정",
+    "summary": "한국남부발전이 하동화력 2·3호기를 대체하는 1GW 규모 하동복합 건설사업 EPC 낙찰자로 두산에너빌리티 컨소시엄을 선정했다. 이는 건설업계에 대규모 발전소 건설 수주 기회를 제공하는 호재다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-09T13:07:55+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22611,20 +22627,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 국군재정관리단과 2413억원 규모 시설공사 계약 체결 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50WWNOMDFCX1F3MDFGdHROd1pqc2FuVU5mOWR4TEZUdXFZenczc01vRmVhTncxVmpkUWhqWHJvLTBnUkN6WVByX1BMazZZc2tmTHhjX2J0UGxkd0VvVmxhakxCRmZUTlVxRmFaNjhpQ1ZQbU0?oc=5",
-    "description": "[디지털투데이 김지선 에디터] 종합 건설 회사 대우건설(047040)이 국군재정관리단과 2413억8085만원 규모의 시설공사 계약을 체결했다고 31일 공시했다.계약명은",
-    "published_at": "2026-07-31T14:53:01+09:00",
-    "cluster_id": "4d31",
-    "publisher": "디지털투데이",
-    "title_clean": "대우건설, 국군재정관리단과 2413억원 규모 시설공사 계약 체결",
-    "summary": "대우건설이 국군재정관리단과 2413억원 규모의 시설공사 계약을 체결했다. 건설업체의 수주 확대를 의미하는 긍정적 신소식이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-31T15:10:14+09:00",
-    "importance": 2
+    "title": "한계 건설사 5년간 3배 급증…수익성·안정성·성장성 악화 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20260809500088",
+    "description": "(단위: %) /한국건설산업연구원 건설경기 침체가 장기화되면서 벌어서 이자도 못내는 한계 건설사들이 3배 가까이 급증한 것으로 나타났다. 수익성은 물론 성장성과 활동성 지표도 모두 악화되면서 향후 전망은...",
+    "published_at": "2026-08-09T13:02:00+09:00",
+    "cluster_id": "e663",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "한계 건설사 5년간 3배 급증…수익성·안정성·성장성 악화",
+    "summary": "건설경기 침체 장기화로 이자 상환 능력이 없는 한계 건설사가 5년간 3배 급증했다. 수익성, 안정성, 성장성 등 주요 지표가 전반적으로 악화되면서 업계 전망이 부정적인 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-09T13:07:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
