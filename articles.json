@@ -6674,6 +6674,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데그룹 회장, 송도 1공장 방문해 생산시설 점검…임직원 격려 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3659748",
+    "description": "이번 방문에는 박제임스 롯데바이오로직스 각자대표, 신유열 롯데바이오로직스 각자대표 겸 롯데지주 미래성장실장, 오일근 롯데건설 대표이사 등이 함께했다. 신 회장의 이번 현장 방문은 지난 4월 베트남에서 유통...",
+    "published_at": "2026-08-09T15:04:00+09:00",
+    "cluster_id": "27a8",
+    "publisher": "gukjenews.com",
+    "title_clean": "롯데그룹 회장, 송도 1공장 방문해 생산시설 점검…임직원 격려",
+    "summary": "롯데그룹 회장이 송도 1공장을 방문하여 생산시설을 점검하고 임직원을 격려했다. 롯데바이오로직스와 롯데건설 등 주요 계열사 임원들이 함께 참석한 현장 방문으로, 그룹의 미래성장 사업에 대한 관심을 드러냈다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-09T15:07:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22611,20 +22627,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 시공능력 3위→5위 엇갈린 '공사실적·경영평가' - 블로터",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1RWZMbXZrdzFHOHYxbEdDd2pGREFVN0RZeWlNbHVMTHlsV1d2bUhvYkpEYlFoS0pDdXFXVmk2RzhfNEpqZS1nOThEWlNBcGsxeWt0WDdrVjlqbFR6bmotUEVPQ2VMUzlM0gFsQVVfeXFMTUpYNWpGX3VlY2swY3hqNHdhNEYwU1MzR002MVAxZjZUU2Z4VnJlWHRjVEpEeWI0ZjNfSlZEUF9kbmJEeUY1dzd1MEpaY2xzckpwOGFnRjFrempyX2NtZUlNZEtabXB6Y3JJcUhJ?oc=5",
-    "description": "대우건설이 올해 시공능력평가에서 지난해보다 2계단 낮은 5위를 기록했다. 최근 3년 공사실적을 반영한 공사실적평가액은 상위 20개사 가운데 4위였지만 지난해 재무상태를 반영한 경영평가액은 0원으로 산정됐다. 이번 평가에 포함되지 않은 올해 1분기에는 흑자 전환과 주택·건축 수익성 개선",
-    "published_at": "2026-07-31T15:11:17+09:00",
-    "cluster_id": "a7f7",
-    "publisher": "블로터",
-    "title_clean": "대우건설, 시공능력 3위→5위 엇갈린 '공사실적·경영평가'",
-    "summary": "대우건설이 시공능력평가에서 3위에서 5위로 하락했으며, 공사실적평가액은 4위이나 경영평가액은 0원으로 산정됐다. 재무상태 악화로 인한 평가 부진이지만, 1분기 흑자 전환 등 회복 신호가 나타나고 있다.",
+    "title": "‘펄펄 끓는 현장, 안전 챙겨라’… 충주시장, 폭염 뚫고 건설 사업장 긴급 점검 - 충청매일",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pY0hFVzNyaVMzWkItRFcxd0lXZDBaVTUwY2stbGtHXzE1ZURLSThZOG5XLURWZ2lnc3hYTlBGd1R2T0xrU0tLVDQyZEdIVW5Mam4tZ09tSjJtdWJfU1JzQzJQM3pwWEtmM1E?oc=5",
+    "description": "충북 충주시가 연일 이어지는 폭염특보 속 야외 근로자들의 온열질환을 막기 위해 주요 건설 사업장과 취약 시설 긴급 점검에 나섰다. 시는 옥외 작업 비중이 높은 건설 현장의 위험 요소를 사전에 차단하고 근로자 보호 조치가 실효성 있게 이행되는지 확인하기 위해 현장점검을 진행했다고 9일",
+    "published_at": "2026-08-09T14:15:31+09:00",
+    "cluster_id": "62d6",
+    "publisher": "충청매일",
+    "title_clean": "‘펄펄 끓는 현장, 안전 챙겨라’… 충주시장, 폭염 뚫고 건설 사업장 긴급 점검",
+    "summary": "충주시가 폭염 특보 속 야외 근로자들의 온열질환 예방을 위해 건설 사업장에 대한 긴급 점검을 실시했다. 건설 현장의 안전 조치 이행 여부를 확인하고 위험 요소를 사전에 차단하기 위한 행정 차원의 관리 활동이다.",
     "sentiment": "negative",
-    "collected_at": "2026-07-31T15:30:21+09:00",
-    "importance": 5
+    "collected_at": "2026-08-09T15:07:50+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
