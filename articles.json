@@ -22474,6 +22474,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "서해선 '하중역' 건설 본궤도…국토부 승인받아 '탄력' - 일간경인",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44RDZtc2R1ckR5OUs2clJCVEM4dDZwVk9iVS1uWGFwcXNCcUx2MER3bzdPRHlfRVZWY3VPTHdXc0FkcWlq?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE44RDZtc2R1ckR5OUs2clJCVEM4dDZwVk9iVS1uWGFwcXNCcUx2MER3bzdPRHlfRVZWY3VPTHdXc0FkcWlq?oc=5\" target=\"_blank\">서해선 '하중역' 건설 본궤도…국토부 승인받아 '탄력'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">일간경인</font>",
+    "published_at": "2026-08-09T18:53:00+09:00",
+    "cluster_id": "42a8",
+    "publisher": "일간경인",
+    "title_clean": "서해선 '하중역' 건설 본궤도…국토부 승인받아 '탄력'",
+    "summary": "서해선 하중역 건설이 국토부 승인을 받아 본격적으로 추진된다. 이는 건설업계에 새로운 수주 기회를 제공하는 호재로 작용할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T00:47:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32220,21 +32236,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T16:09:42+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, ‘2025년도 건설근로자공제회 사업연보’ 발간 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050927237340819",
-    "description": "했으며, 건강관리 지원으로 1만4000명에게 35억원 상당의 무료 종합건강검진을 제공했다. 이와 함께 결혼ㆍ출산 지원으로 2만여명에게 78억원을 지급하는 등 건설노동자의 생활안정과 복지 증진에 힘썼다. crystal@",
-    "published_at": "2026-08-05T16:00:00+09:00",
-    "cluster_id": "adf2",
-    "publisher": "대한경제",
-    "title_clean": "건설근로자공제회, ‘2025년도 건설근로자공제회 사업연보’ 발간",
-    "summary": "건설근로자공제회가 2025년도 사업연보를 발간했으며, 1만4000명에게 35억원 상당의 무료 종합건강검진을 제공했다. 결혼·출산 지원 등으로 2만여명에게 78억원을 지급하는 등 건설노동자의 생활안정과 복지 증진에 노력했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T16:09:42+09:00",
-    "importance": 2
   }
 ]
