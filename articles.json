@@ -22474,6 +22474,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "영국 주택시장, 고금리 여파로 가사 상태 진입… 7월 가격 보합세 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=202608091446509110fbbec65dfb_1",
+    "description": "현장 조립 방식인 모듈러 건설 공법을 확대하면 공사 기간과 비용을 최대 3분의 1까지 단축할 수 있다는 분석도 나온다. 이 제안대로 30만 가구를 추가 공급할 경우 영국 국내총생산은 최대 0.4% 증가할 수 있다. 한국...",
+    "published_at": "2026-08-10T03:26:00+09:00",
+    "cluster_id": "4c1c",
+    "publisher": "",
+    "title_clean": "영국 주택시장, 고금리 여파로 가사 상태 진입… 7월 가격 보합세 - g-enews.com",
+    "summary": "영국이 모듈러 건설공법 확대를 통해 공사 기간과 비용을 최대 3분의 1까지 단축할 수 있다고 분석했다. 30만 가구 추가 공급 시 영국 GDP를 최대 0.4% 증가시킬 수 있어 건설업계에 긍정적 신호를 보내고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T03:32:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32220,21 +32236,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-05T16:09:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울시, 해체·굴토 공사장 1094곳 점검…위험요인 3218건 조치 - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202608050164",
-    "description": "점검 결과 ▲경사지 사면 노출로 인한 흙 흘러내림 ▲건설현장 안전난간 및 낙하물 방지망 설치 미흡 ▲공사장 가설 울타리 전도 위험 ▲가설계단 등 가시설물 설치 미흡 ▲가스·산소통 등 보관 관리 미흡 ▲바닥면...",
-    "published_at": "2026-08-05T15:58:00+09:00",
-    "cluster_id": "0331",
-    "publisher": "sentv.co.kr",
-    "title_clean": "서울시, 해체·굴토 공사장 1094곳 점검…위험요인 3218건 조치",
-    "summary": "서울시가 해체·굴토 공사장 1094곳에 대한 안전점검을 실시하여 경사지 붕괴, 낙하물, 가설구조물 등 3218건의 위험요인을 적발하고 조치했다. 이는 건설현장의 안전 규제 강화 및 적극적인 단속 의지를 보여주는 사례다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-05T16:09:42+09:00",
-    "importance": 5
   }
 ]
