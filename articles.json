@@ -22473,6 +22473,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노동청 인천북부지청, 폭염 중대경보 발령에 따른 건설현장 긴급 현장점검 나서 - 비즈월드",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBM3JhNU9xZXF1a0xOOFpTVHg2aDBIbkdwUFJlanFKQXNVY0FtRGE1VkpoTEhINFpYcE9QX0k2Q2NmYkdEeTItOFR4cVlkWGxlcXBVeHFWOUo5TjJic2dkY0ZDM3puT25Rb3c?oc=5",
+    "description": "[비즈월드] 중부지방고용노동청인천북부지청(건설·산재과장, 이하 인천북부지청)은 지난 5일부터 7일까지 3일 동안 폭염 중대경보 발령에 따라 인천시·안전보건공단·민간재해예방기관 등과 긴급 상황점검 회의를 개최했다고 10일 밝혔다.이어 인천시 서해구·검단구 소재 건설현장과 물류센터를 방문해 폭염 대응체계와 온열질환 예방을 위한 안전관리 이행 실태를 점검했다고 한다. 인천북부지청장(직무 대리인)은 연일 계속되는 폭염으로 건설현장의 온열질환 발생 위험이 크게 증가함에 따라 건설현장과 물류센터의 폭염 대응체계를 점검하고 ‘폭염안전 5대 기본",
+    "published_at": "2026-08-10T20:15:00+09:00",
+    "cluster_id": "c928",
+    "publisher": "비즈월드",
+    "title_clean": "노동청 인천북부지청, 폭염 중대경보 발령에 따른 건설현장 긴급 현장점검 나서",
+    "summary": "노동청 인천북부지청이 폭염 중대경보에 따라 인천시 건설현장과 물류센터를 대상으로 긴급 현장점검을 실시했다. 온열질환 예방 및 폭염 대응체계 이행 실태를 점검하여 안전관리를 강화하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-10T20:23:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32213,22 +32229,6 @@
     "summary": "호반그룹이 '오픈이노베이션 위크'를 개최하여 AI, 스마트건설, 로봇 등 혁신기술을 보유한 스타트업 10개사를 선정했다. 총 2억6600만원의 상금과 사업화 지원금을 제공하며 건설산업의 디지털 전환과 기술혁신을 추진하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-06T16:03:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "호반그룹, '오픈이노베이션 위크' 개최…미래 생태계 육성 - etnews.com",
-    "link": "https://www.etnews.com/20260806000344",
-    "description": "첫날인 5일 열린 '2026 호반혁신기술공모전' 시상식에서는 인공지능(AI), 스마트건설, 로봇 등 미래 산업 분야 혁신 기술을 보유한 스타트업 10개사가 선정됐다. 대상은 AI 기반 건축도면 자동 검토 및 설계 자동화 기술을...",
-    "published_at": "2026-08-06T15:54:00+09:00",
-    "cluster_id": "c655",
-    "publisher": "etnews.com",
-    "title_clean": "호반그룹, '오픈이노베이션 위크' 개최…미래 생태계 육성",
-    "summary": "호반그룹이 '오픈이노베이션 위크'를 개최하여 AI, 스마트건설, 로봇 등 미래 기술 스타트업 10개사를 선정했다. AI 기반 건축도면 자동 검토 및 설계 자동화 기술 등 혁신 기술을 지원함으로써 건설산업의 디지털화와 생산성 향상을 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-06T15:58:59+09:00",
     "importance": 2
   }
 ]
