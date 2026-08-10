@@ -22476,6 +22476,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "“이민 단속한다며 내 집 무단 진입” 연방정부 제소 - koreadaily.com",
+    "link": "https://www.koreadaily.com/article/20260810125838265",
+    "description": "소장에 따르면 CBP 요원들은 작년 10월 24일, 펠러가 출장을 떠난 사이 노스 레이크우드 애비뉴에 있는 그의 집에 진입해 앞마당에서 작업 중이던 건설 노동자들을 조사하고 이 가운데 1 명을 체포했다. 펠러는 보안...",
+    "published_at": "2026-08-11T05:00:00+09:00",
+    "cluster_id": "f559",
+    "publisher": "koreadaily.com",
+    "title_clean": "“이민 단속한다며 내 집 무단 진입” 연방정부 제소",
+    "summary": "미국 CBP(국경수비대) 요원들이 이민 단속을 명목으로 주인 허락 없이 주택에 무단 진입해 건설 노동자를 조사·체포한 사건. 주택 소유자가 연방정부를 상대로 제소함.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T05:08:32+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "시카고 첫 카지노 발리스, 부대시설 공사 중단 - koreadaily.com",
     "link": "https://www.koreadaily.com/article/20260810125518228",
     "description": "이번 공사 중단으로 약 1천500명의 건설 노동자들이 영향을 받을 전망이다. 발리스는 공사 중단 기간이나 재개 시점을 밝히지 않았다. 또 오는 9월 예정된 연간 400만 달러 규모의 시 납부금 지급을 보류하는 방안도...",
@@ -32213,21 +32229,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-06T16:44:49+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[칼럼] 경기도 폭염 노동현장 안전, 민간 건설·농업 현장 보호 강화해야 - 케이에스피뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1iaU9IR2g0ZnhPSXdOTEpIajVsUmVRUWN5RzNxOGhLS2tlQXVxVjVmRkZ4X2c4dFVZb1poQmhORVNqbnV6?oc=5",
-    "description": "기후위기는 더 이상 미래의 문제가 아니다. 여름철 폭염은 매년 기록을 경신하며 노동자의 생명과 건강을 위협하고 있다. 특히 야외에서 장시간 일해",
-    "published_at": "2026-08-06T16:29:00+09:00",
-    "cluster_id": "288c",
-    "publisher": "케이에스피뉴스",
-    "title_clean": "[칼럼] 경기도 폭염 노동현장 안전, 민간 건설·농업 현장 보호 강화해야",
-    "summary": "기후변화에 따른 폭염이 심화되면서 야외 노동현장의 안전 위협이 증가하고 있다. 건설·농업 현장 근로자의 생명과 건강 보호를 위해 민간 현장의 안전 관리 강화가 필요하다는 주장이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-06T16:44:49+09:00",
-    "importance": 4
   }
 ]
