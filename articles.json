@@ -22473,6 +22473,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통부, 100m 이상 높이 작업 가능한 대형 고소작업차 건설기계로 지정 - SR타임스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZjFmYlRGLXRqTWxYQjlBeFpxc0VONVRQbWN3Q0ZkVzM0eXl4c0U2dFhJT2V6bHlXX3Y2Z3laa3BtZXRGaEZTSXhpZW85TkFfR0ZmMVBFaDdkRlAxZ3EzQkFTbmJ3YjDSAWtBVV95cUxNV3lhMFFQQzJCekRveDM2c2NWZVRJSEpmblVVblQ4enFiVTZVM0NaV1ZxUzBzaG1EYUhuR2QtaXk4bmx2SW43ZGczaDExVG02NzdOdXpQTXFZNGFUYUstRG1JZ1UtQVRTSGxnZw?oc=5",
+    "description": "[SRT(에스알 타임스) 유정근 기자] 초대형 건설현장의 안정성과 작업 효율성을 키울 수 있는 대형 고소작업차가 건설기계로 지정됐다.국토교통부는 100m 이상 높이도 작업이 가능한 ‘대형 고소작업차’를 건설기계로 지정한다고 10일 밝혔다. 이에 반도체 클러스터, 풍력발전소 등 대규모",
+    "published_at": "2026-08-10T16:02:07+09:00",
+    "cluster_id": "7917",
+    "publisher": "SR타임스",
+    "title_clean": "국토교통부, 100m 이상 높이 작업 가능한 대형 고소작업차 건설기계로 지정",
+    "summary": "국토교통부가 100m 이상 높이 작업이 가능한 대형 고소작업차를 건설기계로 지정했다. 반도체 클러스터, 풍력발전소 등 대규모 초대형 건설현장의 안정성과 작업 효율성 향상이 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T19:28:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32211,22 +32227,6 @@
     "publisher": "포천신문",
     "title_clean": "경기도, 폭염 속 구리 건설현장 점검…체감온도별 작업 중지 당부",
     "summary": "경기도가 폭염 속 구리시 건설현장에서 노동안전의 날 행사를 개최하고 옥외 노동자의 온열질환 예방을 위한 합동점검을 실시했다. 체감온도별 작업 중지를 당부하며 건설 현장의 안전 관리를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-06T15:39:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 속 건설현장, 안전사각지대 다시 점검한다 - 현대일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPYzkwNkt3UkFfc1RxMXFxOG8yZmJncTUtTjlmU1liWXBCMUZEQnBWZEd0ck5KS3VuNzdhZnQ3dXVMTFoweEc3SnEtcW1HTWE2ZU9JalllbjVpWWs5d0daM2hRUU1zTjJBcjhxV1lB?oc=5",
-    "description": "포천시 노동안전지킴이는 지난 5일 &#39;노동안전의 날&#39;을 맞아 가평군, 경기북부노동인권센터와 함께 사업장 안전관리 체계 구축을 위한 교차 합동점검을 실시했다.경기도는 매월 첫째 주 수요일을 &#39;노동안전의 날&#39;로 지정·운영하고 있으며, 시도 이에 발맞춰 인근 시군, 관계기관과 함께 합동점검과 캠페인 활동을 진행하고 있다. 이번 점검은 산업재해 예방과 현장 중심의 안전관리 체계 정착을 위해 마련됐으며, 포천시 선단동과 가평군 상면에 위치한 건설업 현장 각 1개소를 대상으로 이뤄졌다. 점검에는 전문기관인 경기북부근",
-    "published_at": "2026-08-06T15:25:00+09:00",
-    "cluster_id": "bd38",
-    "publisher": "현대일보",
-    "title_clean": "폭염 속 건설현장, 안전사각지대 다시 점검한다",
-    "summary": "경기도 포천시와 가평군에서 폭염 시즌을 맞아 건설현장 안전관리 체계 구축을 위한 합동점검을 실시했다. 산업재해 예방과 현장 중심의 안전관리 정착을 목표로 전문기관과 함께 안전점검을 진행했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-06T15:39:03+09:00",
     "importance": 2
