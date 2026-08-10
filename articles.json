@@ -6523,6 +6523,22 @@
     "importance": 5
   },
   {
+    "keyword": "신세계건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[이슈]16년전 신세계는 막았는데..소송 건 이중근…조정호 609평 저택 못... - the-today.com",
+    "link": "https://www.the-today.com/news/articleView.html?idxno=88311",
+    "description": "◇ 2009년엔 신세계 주택 공사 막아…엇갈린 결과 이 회장은 2009년 7월에도 이명희 총괄회장과 정유경 신세계 회장, 신세계건설을 상대로 공사중지 가처분 신청을 냈다. 신세계 일가가 이 회장 자택 바로 앞에 단독주택을...",
+    "published_at": "2026-08-11T07:54:00+09:00",
+    "cluster_id": "b011",
+    "publisher": "",
+    "title_clean": "[이슈]16년전 신세계는 막았는데..소송 건 이중근…조정호 609평 저택 못... - the-today.com",
+    "summary": "재벌 일가의 주택 건설 관련 오래된 소송 분쟁 사건을 다룬 기사로, 2009년 신세계 측 공사중지 가처분 신청 사건과 현재의 이중근 회장 저택 건설 관련 법적 분쟁을 보도하고 있습니다. 건설업계의 구체적인 수주, 규제, 시장 이슈와는 직접적인 연관이 없는 개인 분쟁 사건입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T07:58:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22455,22 +22471,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-03T18:35:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 제2경춘국도 2공구 낙찰..1403억원 규모 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2115727",
-    "description": "포쓰저널 이현민 기자 제2경춘국도 노선도 / 이미지=연합 IPARK현대산업개발이 1400억원 규모의 제2경춘국도 건설공사를 따내며 공공 토목사업 수주 확대에 속도를 내고 있다. 상반기 남부내륙철도에 이어 도로...",
-    "published_at": "2026-08-03T18:20:00+09:00",
-    "cluster_id": "7fb1",
-    "publisher": "4th.kr",
-    "title_clean": "IPARK현대산업개발, 제2경춘국도 2공구 낙찰..1403억원 규모",
-    "summary": "IPARK현대산업개발이 제2경춘국도 2공구 건설공사를 1,403억원 규모로 낙찰받았다. 상반기 남부내륙철도에 이어 공공 토목사업 수주를 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T18:31:17+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
