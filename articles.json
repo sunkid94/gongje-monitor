@@ -6523,6 +6523,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 글로벌 엔지니어링사와 목동8단지 재건축 추진…초고층 안전... - cbci.co.kr",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=596821",
+    "description": "ARUP이 구조설계사로 참여한 싱가포르의 대표 랜드마크 '마리나 베이 샌즈' 모습.[대우건설 제공. 재판매 및 DB 금지]이강석 신임 대우건설 대표이사 부사장 후보 [대우건설 제공. 재판매 및 DB 금지]대우건설 로고...",
+    "published_at": "2026-08-11T00:00:00+09:00",
+    "cluster_id": "257f",
+    "publisher": "cbci.co.kr",
+    "title_clean": "대우건설, 글로벌 엔지니어링사와 목동8단지 재건축 추진…초고층 안전...",
+    "summary": "대우건설이 글로벌 엔지니어링사 ARUP과 함께 목동8단지 재건축 사업을 추진하며 초고층 안전 기술을 강화하고 있다. 신임 대표 체제 아래 국제 수준의 대형 재건축 프로젝트 수주를 통해 건설사의 기술 역량과 수주 기회를 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-11T00:03:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -22455,22 +22471,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-03T17:50:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "건설 '빅5' 재편…순위보다 원가율·수주가 갈랐다 - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133865",
-    "description": "GS건설과 현대엔지니어링이 시공능력평가 상위권으로 올라선 반면 대우건설과 DL이앤씨는 두 계단씩 밀렸다. 그러나 2분기 실적과 주가는 시평 순위와 다른 흐름을 보였다. 고원가 현장 종료와 원가율 개선 여부가...",
-    "published_at": "2026-08-03T17:34:00+09:00",
-    "cluster_id": "72fa",
-    "publisher": "newslock.co.kr",
-    "title_clean": "건설 '빅5' 재편…순위보다 원가율·수주가 갈랐다",
-    "summary": "건설 빅5의 시공능력평가 순위가 재편되어 GS건설과 현대엔지니어링이 상승하고 대우건설과 DL이앤씨가 하락했다. 다만 시평 순위와 달리 2분기 실적과 주가는 원가율 개선 등 다른 기준으로 평가되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-03T17:40:38+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
