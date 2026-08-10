@@ -22473,6 +22473,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "성남시, 민간 건축공사장 34곳 폭염 안전점검 - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3QzVuRHdNVTI1Y0ZkXzRWUFJhZmVYdy00ejZyckc2U24wN0FKSzk0V3MxWHhMQzZ4MUphSFJvNDdnQWtpUkI4cjUtT0QyaWlpU3fSAVNBVV95cUxPT05EMl9SaEF0WDNYRXZNSFV4di1KdFBhalFWak5wVkp2dW0xSmhGRUE5dGY0aHBhamFBUzhfVC1Tc0JaVjBlQzBPWTBLaS0yMm9KSQ?oc=5",
+    "description": "성남시가 여름철 폭염에 따른 건설현장 온열질환 사고를 막기 위해 민간 건축공사장을 대상으로 현장 안전점검에 나섰다. 시는 이번 달 31일까지 관내 신·증축 민간 건축공사장 34곳을 점검한다고 11일 밝혔다. 대상은 착공 신고 이후 아직 사용승인을 받지 않은 공사장이다.",
+    "published_at": "2026-08-11T07:35:58+09:00",
+    "cluster_id": "f6be",
+    "publisher": "서울경제",
+    "title_clean": "성남시, 민간 건축공사장 34곳 폭염 안전점검",
+    "summary": "성남시가 여름철 폭염으로 인한 온열질환 사고 예방을 위해 민간 건축공사장 34곳을 대상으로 안전점검을 실시한다. 착공 신고 후 사용승인을 받지 않은 공사장들이 점검 대상이며, 월말까지 진행될 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T07:43:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32208,22 +32224,6 @@
     "title_clean": "건설·인테리어 최신 트렌드 집결…‘2026 코리아빌드위크’",
     "summary": "2026 코리아빌드위크에서 자재·설비·공구부터 AI 기술 접목 건설자동화, 스마트건설 기술까지 건설·인테리어 최신 트렌드가 종합 전시되었다. 업계의 기술 혁신과 시장 동향을 한눈에 볼 수 있는 종합 박람회로 진행되었다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-06T16:59:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "공정위, 하도급업체 도면 中법인에 넘긴 세라젬 철퇴 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51201",
-    "description": "공정거래위원회는 6일 세라젬이 하도급업체에 도면을 요구하고 이를 중국 계열사에 넘기는 등 부당특약, 기술 유용 행위 등 하도급법 위반 행위를 적발해 시정명령과 과징금 4억3200만원을 부과하기로 결정했다고 밝혔다.공정위 조사 결과, 세라젬은 안마의자 등 의료기기 제조에 필요한 금형의 제작을 중소기업인 수급사업자에 위탁하면서 수급사업자가 작성한 금형도면 등 기술자료를 정당한 대가 없이 일방적으로 자신에게 귀속시키는 특약을 설정했다.공정위 측은 하도급 거래 과정에서 취득한 수급사업자의 기술자료에 관한 권리를 원사업자에 일방적으로 귀속시",
-    "published_at": "2026-08-06T16:54:29+09:00",
-    "cluster_id": "de32",
-    "publisher": "기계설비신문",
-    "title_clean": "공정위, 하도급업체 도면 中법인에 넘긴 세라젬 철퇴",
-    "summary": "공정거래위원회가 세라젬의 하도급법 위반 행위를 적발해 시정명령과 4억3200만원의 과징금을 부과했다. 세라젬이 하도급업체의 도면 등 기술자료를 정당한 대가 없이 중국 계열사에 넘기는 기술 유용 행위를 저질렀다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-06T16:59:52+09:00",
     "importance": 2
   }
