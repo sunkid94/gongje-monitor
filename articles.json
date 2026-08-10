@@ -22456,6 +22456,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "수출 299.7% 급증에도 관광·고용 둔화… 제주경제 엇갈린 흐름 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202608110836264947",
+    "description": "5월 건설수주액은 전년 동월보다 320.2% 증가했지만 지난해 같은 달 97.9% 감소했던 데 따른 기저효과와 공공부문 수주 3056.7% 증가가 영향을 미쳤다. 같은 달 건축착공면적은 47.4%, 레미콘 출하량은 10.6% 각각...",
+    "published_at": "2026-08-11T08:44:00+09:00",
+    "cluster_id": "e51b",
+    "publisher": "fnnews.com",
+    "title_clean": "수출 299.7% 급증에도 관광·고용 둔화… 제주경제 엇갈린 흐름",
+    "summary": "제주 지역 5월 건설수주액이 320.2% 급증했으나, 기저효과와 공공부문 특수 수주에 의한 것으로 실질적 성장은 제한적이다. 건축착공과 자재 출하량 증가에도 불구하고 관광·고용 부문의 둔화로 경제 회복이 불균형적인 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T08:48:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32208,21 +32224,6 @@
     "title_clean": "건설근로자공제회, 현장성 강화 위한 건설기능인 양성 사업",
     "summary": "건설근로자공제회가 취약계층 주거환경 개선과 건설기능인 양성을 연계한 협력 모델을 추진 중이다. 다양한 기관과의 협력을 통해 건설노동자의 역량 강화 및 현장성을 높이려는 사회공헌 활동이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-06T17:09:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전북개발공사, 폭염 속 건설현장 안전관리 강화 - 전라매일",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wOTJBTFZ1RXZYVllkSUw5eVZnVVM4VTlEY0JPWmpUV2w0Nkl6eDdmWVExUG1HTkg5RzJra3FJUW11dVJ5N09aRlVyNUU0X3QzLWpBTkZOd2JUMkF6WHl4VW9QaC1pLVNueDBLYXRB?oc=5",
-    "description": "전북개발공사가 연일 이어지는 폭염으로부터 건설현장 근로자의 안전을 지키기 위해 현장 중심의 안전관리 강화에 나섰다.전북개발공사는 지난 3일부터 7일까지 공사가 추진 중인 건설현장을 대상으로 폭염 대응 실태와 온열질환 예방조치 이행 여부를 집중 점검하고 있다고 밝혔다.이번 점검은 여름철 폭염으로 인한 근로자의 건강장해와 안전사고를 예방하고, 현장에서 폭염 대응수칙이 제대로 이행되고 있는지를 확인하기 위해 마련됐다.특히 김대근 사장이 직접 주요 건설현장을 찾아 폭염 대응 상황을 점검하고 현장 근로자와 관계자들의 애로사항을 청취하는",
-    "cluster_id": "b9c9",
-    "publisher": "전라매일",
-    "title_clean": "전북개발공사, 폭염 속 건설현장 안전관리 강화",
-    "summary": "전북개발공사가 폭염 대응을 위해 건설현장에 대한 안전관리 점검을 강화하고 있다. 온열질환 예방 조치 이행 여부를 확인하고 현장 근로자의 애로사항을 청취하는 중이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-06T17:09:46+09:00",
     "importance": 2
   }
