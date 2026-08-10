@@ -22477,6 +22477,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설근로자공제회, 중소 건설현장 선정해 생수·냉각용품 지급 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325709",
+    "description": "건설근로자공제회는 10일 건설노동자를 위한 ‘혹서기 찾아가는 건설현장 휴식 지원’ 사업<포스터>을 실시한다고 밝혔다.이번 사업은 연일 이어지는 폭염으로부터 건설노동자의 건강을 보호하고 온열질환을 예방하기 위해 마련됐다. 옥외작업이 많은 건설현장의 특성을 고려해 현장에서 바로 활용할 수 있는 물품을 지원하는 방식이다.지원 대상은 전국 700여개 중소규모 건설현장이다. 공제회는 상대적으로 폭염 대응 여건이 취약한 현장을 중심으로 생수와 넥쿨러 등 폭염 대비 물품을 지급할 예정이다.지원을 희망하는 사업장은 공제회가 제공하는 QR코드를 통",
+    "published_at": "2026-08-10T14:52:07+09:00",
+    "cluster_id": "563c",
+    "publisher": "대한전문건설신문",
+    "title_clean": "건설근로자공제회, 중소 건설현장 선정해 생수·냉각용품 지급",
+    "summary": "건설근로자공제회가 폭염 시즌에 전국 700여 개 중소 건설현장을 대상으로 생수와 냉각용품을 지원하는 '혹서기 찾아가는 건설현장 휴식 지원' 사업을 실시한다. 건설노동자의 온열질환 예방과 건강 보호를 위한 현장 맞춤형 지원 방식이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-10T14:56:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32219,21 +32235,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-06T11:28:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "구미시, 폭염 대응 강화…건설현장·농가 찾아 온열질환 예방 점검 - 미디어디펜스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53OFdZa3Q0NjgwY1BQVUYwWFFpNFJpVlBRbXNjZGsxdGVjTzYxVUJCc3VZNlV1YUp3ZmxFcXVnSy1VLUx0cjE3SWMzZHNrU0JhZl9wTGlWRnJvUXdsOXJsUC13V1drV1NWTXc?oc=5",
-    "description": "구미시가 연일 이어지는 폭염으로부터 시민과 야외근로자, 농업인 등 취약계층을 보호하기 위해 대응체계를 점검하고 건설현장과 농가 등 폭염 취약현장에 대한 안전점검에 나섰다.구미시는 지난 5일 정성현 부시장 주재로 폭염 대응 대책회의를 열고 재난상황 관리현황과 분야별 대응체계를 종합 점검했다고 밝혔다.이번 점검은 기후변화로 폭염의 빈도와 강도가 높아지는 상황에서 야외근로자와 농업인, 고령자 등 폭염 취약계층에 대한 보호를 강화하고 폭염 대응시설의 운영 실태를 확인하기 위해 마련됐다.정 부시장은 대책회의에 이어 아파트 건설현장을 방문해",
-    "published_at": "2026-08-06T11:17:40+09:00",
-    "cluster_id": "2cd6",
-    "publisher": "미디어디펜스",
-    "title_clean": "구미시, 폭염 대응 강화…건설현장·농가 찾아 온열질환 예방 점검",
-    "summary": "구미시가 폭염 대응 강화를 위해 건설현장과 농가 등 야외근로 현장에 대한 안전점검에 나섰다. 정성현 부시장 주재로 폭염 대응 대책회의를 열고 온열질환 예방을 위한 대응체계를 점검했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-06T11:28:58+09:00",
-    "importance": 4
   }
 ]
