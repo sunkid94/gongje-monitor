@@ -22473,6 +22473,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "시카고 첫 카지노 발리스, 부대시설 공사 중단 - koreadaily.com",
+    "link": "https://www.koreadaily.com/article/20260810125518228",
+    "description": "이번 공사 중단으로 약 1천500명의 건설 노동자들이 영향을 받을 전망이다. 발리스는 공사 중단 기간이나 재개 시점을 밝히지 않았다. 또 오는 9월 예정된 연간 400만 달러 규모의 시 납부금 지급을 보류하는 방안도...",
+    "published_at": "2026-08-11T04:56:00+09:00",
+    "cluster_id": "11e4",
+    "publisher": "koreadaily.com",
+    "title_clean": "시카고 첫 카지노 발리스, 부대시설 공사 중단",
+    "summary": "시카고 첫 카지노인 발리스가 부대시설 공사를 중단하면서 약 1,500명의 건설 노동자가 영향을 받게 되었다. 공사 중단 기간과 재개 시점이 불명확하며, 시 납부금 지급도 보류되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T04:58:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32213,21 +32229,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-06T16:44:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"물·바람·그늘·휴식 준수 확인\"…전북개발공사, 건설 현장 온열질환 예방 점검 - 전민일보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBseEFENTl2NWM3V3h3TlBTMFRWaHU2TzFPbUdhbktRbHVkc2hWSk5vQ3o4OXdVbTlCMVJXRHZDaUJ5Z1hYblQwXy1mWmxrYmx2WVE1U3dUNjJ2Ml9hd1gta1hYYXZPX3lBNjBz?oc=5",
-    "description": "연일 계속되는 폭염 속에 건설현장 근로자의 온열질환 예방을 위해 전북개발공사가 현장점검에 나섰다. 6일 전북개발공사(사장 김대근)는 지난 3일부터 건설현장을 대상으로 근로자 온열질환 예방조치 이행상황을 점검하고 있다고 밝혔다. 이번 점검은 7일까지 진행된다. 여름철 폭염으로 인한 건설현장 근로자의 건강장해와 안전사고를 예방하고, 현장에서 온열질환 예방수칙이 실질적으로 이행되고 있는지 확인하기 위해 김대근 사장은 직접 건설현장을 방문해 폭염 대응상황을 살피고, 현장 근로자 및 관계자들과 만나 애로사항에 대해 들었다.주로 물·바람·그늘",
-    "published_at": "2026-08-06T16:12:08+09:00",
-    "cluster_id": "194c",
-    "publisher": "전민일보",
-    "title_clean": "\"물·바람·그늘·휴식 준수 확인\"…전북개발공사, 건설 현장 온열질환 예방 점검",
-    "summary": "전북개발공사가 폭염 속 건설현장 근로자의 온열질환 예방을 위해 3일부터 7일까지 현장점검을 실시하고 있다. 물·바람·그늘·휴식 등 예방수칙 이행 여부를 확인하고 근로자 애로사항을 청취하는 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-06T16:44:49+09:00",
-    "importance": 2
   }
 ]
