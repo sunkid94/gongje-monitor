@@ -22459,6 +22459,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 40톤 초과 대형 고소작업차 특수건설기계로 편입 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41025",
+    "description": "[건설이코노미뉴스] 100m 이상 높이의 초고층 작업이 가능한 대형 고소작업차가 건설기계로 제도권에 들어온다.국토교통부(장관 김윤덕)는 초대형 건설현장의 안전성과 작업 효율성을 높이기 위해 총중량 40톤을 초과하는 대형 고소작업차를 특수건설기계로 지정한다고 밝혔다.이에 따라 반도체 클러스터와 AI 데이터센터, 풍력발전소 등 대규모 시설 공사에서 대형 고소작업차를 활용한 보다 안전하고 체계적인 고층 작업이 가능해질 전망이다.현재 「건설기계관리법」에는 굴착기와 타워크레인, 특수건설기계 등 총 27종의 건설기계가 지정돼 있다. 특수건설기",
+    "published_at": "2026-08-10T13:43:00+09:00",
+    "cluster_id": "6fc1",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "국토부, 40톤 초과 대형 고소작업차 특수건설기계로 편입",
+    "summary": "국토교통부가 총중량 40톤을 초과하는 대형 고소작업차를 특수건설기계로 지정하여 제도권에 편입시킨다. 이를 통해 반도체 클러스터, AI 데이터센터, 풍력발전소 등 대규모 시설 공사에서 안전하고 체계적인 초고층 작업이 가능해질 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T13:44:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32219,21 +32235,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-06T10:38:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL이앤씨, AI 기반 안전관리 고도화…근로자 복지 ‘역점’ - 페로타임즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DV0tlaElQNnM3c1lzekhRNThXdDlqQ05QSGwzTkJyZXVoUVpteXE1MU5kOFU5cThLczVoMm9SNjFqOVVPcmZnbDlnenpUNjZHVHdWc2psUXdBNGZnUkFIbFBCaE15TmdUdUR1MQ?oc=5",
-    "description": "DL이앤씨가 인공지능(AI)과 데이터 기반의 스마트 안전기술을 도입하고 근로자 복지를 확대하는 등 건설현장의 안전관리 체계를 전면 고도화한다.DL이앤씨는",
-    "published_at": "2026-08-06T10:25:59+09:00",
-    "cluster_id": "1c7b",
-    "publisher": "페로타임즈",
-    "title_clean": "DL이앤씨, AI 기반 안전관리 고도화…근로자 복지 ‘역점’",
-    "summary": "DL이앤씨가 AI와 데이터 기반의 스마트 안전기술을 도입하여 건설현장 안전관리를 고도화하고 근로자 복지를 확대한다. 이는 업계의 안전 기준 강화 추세에 대한 기업의 선제적 대응으로 평가된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-06T10:38:57+09:00",
-    "importance": 2
   }
 ]
