@@ -22473,6 +22473,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "9회 지방선거 충청권 당선자 10명 중 3명 '전과' - ccdailynews.com",
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2433351",
+    "description": "전과 내용은 △공정증서원본불실기재, 불실기재공정증서원본행사, 상법위반, 건설산업기본법위반 △도로교통법위반(음주운전) 3건 △근로기준법위반 △도로교통법위반(무면허운전) △도박이다. 충남에선 백용달...",
+    "published_at": "2026-08-11T00:06:00+09:00",
+    "cluster_id": "5ba5",
+    "publisher": "ccdailynews.com",
+    "title_clean": "9회 지방선거 충청권 당선자 10명 중 3명 '전과'",
+    "summary": "9회 지방선거 충청권 당선자 중 10명 중 3명이 전과 기록을 보유한 것으로 나타났다. 전과 내용은 공정증서 위조, 도로교통법 위반(음주운전, 무면허운전), 건설산업기본법 위반 등 다양하다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T00:08:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32212,21 +32228,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-06T16:39:48+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "울산시, 폭염·가뭄 총력 대응…\"시민 안전·식수 확보 최우선\" - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6559371?utm_source=naver&utm_medium=article&utm_campaign=20260806042853",
-    "description": "또 취약 노인과 거리 노숙인 보호활동을 강화하고, 건설현장 안전점검, 농촌지역 드론 예찰·마을방송, 응급의료기관 12곳과 연계한 온열질환 감시체계도 지속 운영하고 있다. 울산지역의 최근 6개월 누적 강수량은 382.2...",
-    "published_at": "2026-08-06T16:29:00+09:00",
-    "cluster_id": "a7c9",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "울산시, 폭염·가뭄 총력 대응…\"시민 안전·식수 확보 최우선\"",
-    "summary": "울산시가 폭염과 가뭄 대응을 위해 시민 안전과 식수 확보에 최우선을 두고 있다. 취약계층 보호, 건설현장 안전점검, 온열질환 감시체계 등을 운영 중이며 최근 6개월 누적 강수량이 382.2mm에 불과한 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-06T16:39:48+09:00",
-    "importance": 2
   }
 ]
