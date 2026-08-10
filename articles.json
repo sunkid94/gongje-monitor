@@ -22476,6 +22476,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "조병옥 음성군수, 폭염 속 주요 건설현장 · 무더위쉼터 밀착 점검 - 음성타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xOV9EX0FaTjFNSEZYNktfbkdtVHA1eVZGX1FXN19pTVpRYWtWLVJTc1VHaG1SdGJzRjkwRjNDYnVxekt0NHhXbHRHcXhNVmFVbkc1WFdLc3Y0UkN4TS1IVG5lQWpQeEdWamc?oc=5",
+    "description": "음성군이 연일 장기화 되는 폭염 경보 속에서 군민 건강 보호와 현장 근로자의 안전 확보를 위한 종합 현장점검을 이어가고 있다.조병옥 군수는 지난...",
+    "published_at": "2026-08-10T21:15:42+09:00",
+    "cluster_id": "a40d",
+    "publisher": "음성타임즈",
+    "title_clean": "조병옥 음성군수, 폭염 속 주요 건설현장 · 무더위쉼터 밀착 점검",
+    "summary": "음성군이 폭염 경보 속에서 건설현장과 무더위쉼터에 대한 현장점검을 진행 중입니다. 조병옥 군수가 주도적으로 현장 근로자의 안전과 군민 건강 보호를 위한 종합점검을 실시하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-10T21:28:46+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "충주시, 폭염 속 건설현장 긴급점검…옥외근로자 안전 챙긴다 - 뉴스21 통신",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JY3JZNHNwcV9lako5UGp6M0RNd1BOX195SFZ5OGE4SlE3WlMwcFJjcW5VbmtrbjNlNkxrVzNqYTk1MzZUb19ZWlRreGRDel9KVW9iU1d3?oc=5",
     "description": "충주시가 연일 이어지는 폭염에 대응해 건설현장 등 옥외작업 근로자의 온열질환 예방을 위한 현장 점검에 나섰다.충주시는 폭염특보가 지속됨에 따라 관내 주요 건설사업장과 취약시설을 대상으로 긴급 안전점검을 실시하고 근로자 보호를 위한 대응을 강화하고 있다고 밝혔다.이번 점검은 장시간 야외에서 작업하는 건설근로자들이 폭염에 노출되는 것을 최소화하고 각 사업장에서 온열질환 예방조치가 제대로 시행되고 있는지 확인하기 위해 마련됐다.이동석 충주시장도 직접",
@@ -32214,20 +32230,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-06T16:08:41+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[참고] 국토교통부, 건설현장 폭염 안전 집중 점검 - 서울Pn",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JeU05ZzU4S0NoMG9xX3llZGg0ZWFRcWpwRDItUElSU1QzREhOR0MxTU1RTUNwbHllR3pEZHdCSlRYV3RDQUU3MHQweldPQmNqZFdoSFktdkFZMWZ2Qzdzcnp3?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JeU05ZzU4S0NoMG9xX3llZGg0ZWFRcWpwRDItUElSU1QzREhOR0MxTU1RTUNwbHllR3pEZHdCSlRYV3RDQUU3MHQweldPQmNqZFdoSFktdkFZMWZ2Qzdzcnp3?oc=5\" target=\"_blank\">[참고] 국토교통부, 건설현장 폭염 안전 집중 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울Pn</font>",
-    "cluster_id": "c0cc",
-    "publisher": "서울Pn",
-    "title_clean": "[참고] 국토교통부, 건설현장 폭염 안전 집중 점검",
-    "summary": "국토교통부가 건설현장의 폭염 안전을 위해 집중 점검을 실시한다. 이는 여름철 건설근로자의 안전을 강화하기 위한 규제 조치로, 건설업계에 추가 감시와 규제 부담을 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-06T16:08:41+09:00",
-    "importance": 4
   }
 ]
