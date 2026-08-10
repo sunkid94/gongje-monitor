@@ -22473,6 +22473,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사 영업익 33% 늘었지만…건설 경기 회복은 ‘아직’ - 쿠키뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XSmd6d19qWVl6eWtFXzd3TC1CTXFUVjRlZFd0S3JoeldVNmoxQldfWjY0VVRNVWwwN003MDNVd0VmeTNXM3JyV0ZqRTJrakZobVpETG9QSUNGeThxUDRBYU11QQ?oc=5",
+    "description": "주요 상장 건설사들의 올해 2분기 영업이익이 30% 이상 늘었다. 다만 매출 감소 속에서 나타난 수익성 개선을 건설 경기 회복의 신호로 해석하기는 어렵",
+    "published_at": "2026-08-11T06:00:04+09:00",
+    "cluster_id": "73aa",
+    "publisher": "쿠키뉴스",
+    "title_clean": "건설사 영업익 33% 늘었지만…건설 경기 회복은 ‘아직’",
+    "summary": "주요 상장 건설사들의 2분기 영업이익이 33% 증가했으나, 이는 매출 감소 속에서의 수익성 개선일 뿐 실질적인 건설 경기 회복으로 보기 어렵다는 평가다. 비용 절감 등으로 인한 일시적 수익 개선이 지속 가능한 경기 회복과는 별개라는 의미로 해석된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T06:08:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32212,21 +32228,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-06T16:50:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "울산시, 폭염·가뭄 대응 총력…\"시민 식수 확보 최우선\" - news1.kr",
-    "link": "https://www.news1.kr/local/ulsan/6251510",
-    "description": "이 밖에 취약노인과 거리노숙인 보호활동, 건설현장 안전점검, 농촌지역 드론 예찰과 마을방송을 진행하고 있다. 응급의료기관 12곳과 연계한 온열질환 감시체계도 운영 중이다. 가뭄 대응도 이어가고 있다. 최근 6개월...",
-    "published_at": "2026-08-06T16:40:00+09:00",
-    "cluster_id": "af4e",
-    "publisher": "news1.kr",
-    "title_clean": "울산시, 폭염·가뭄 대응 총력…\"시민 식수 확보 최우선\"",
-    "summary": "울산시가 폭염과 가뭄 대응을 위해 시민 식수 확보를 최우선으로 하고 있으며, 취약계층 보호, 건설현장 안전점검, 온열질환 감시체계 등을 운영 중이다. 가뭄 대응도 지속적으로 추진하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-06T16:44:49+09:00",
-    "importance": 3
   }
 ]
