@@ -6523,6 +6523,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "수주잔액 200조 시대...질적 성장 궤도 오른 K조선 - ebn.co.kr",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719803",
+    "description": "10일 업계에 따르면 HD한국조선해양과 한화오션, 삼성중공업의 올해 2분기 말 기준 조선·해양 부문 수주잔액은 총 1453억9500만달러(약 224조원)로 집계됐다. 조선 빅3의 수주잔액이 200조원을 넘어선 것은 2014년 이후...",
+    "published_at": "2026-08-11T06:00:00+09:00",
+    "cluster_id": "3b1e",
+    "publisher": "ebn.co.kr",
+    "title_clean": "수주잔액 200조 시대...질적 성장 궤도 오른 K조선",
+    "summary": "HD한국조선해양, 한화오션, 삼성중공업의 올해 2분기 말 조선·해양 부문 수주잔액이 총 224조원으로 집계되어 2014년 이후 처음 200조원을 돌파했다. 조선 빅3의 수주잔액 증가로 산업의 질적 성장이 가속화되는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-11T06:03:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -22455,22 +22471,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-03T17:50:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 강남원효성빌라 재건축 시공권 상실 - koreastocknews.com",
-    "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120278",
-    "description": "대우건설(047040, 대표 김보현)이 지난해 수주한 서울 서초구 반포동 강남원효성빌라 재건축사업의 시공자 지위를 잃게 됐다. 지난달 28일 대우건설 공시에 따르면 강남원효성빌라 재건축정비사업조합은 대우건설에...",
-    "published_at": "2026-08-03T17:42:00+09:00",
-    "cluster_id": "7b7a",
-    "publisher": "koreastocknews.com",
-    "title_clean": "대우건설, 강남원효성빌라 재건축 시공권 상실",
-    "summary": "대우건설이 지난해 수주한 서울 서초구 강남원효성빌라 재건축사업의 시공권을 상실했다. 재건축정비사업조합이 시공자 지위를 박탈한 것으로 보이며, 이는 건설사의 수주 손실을 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-03T17:50:49+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
