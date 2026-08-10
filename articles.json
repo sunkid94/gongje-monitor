@@ -22477,6 +22477,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "킨텍스, 건설안전 혁신상 14점으로 확대…‘건설AI Awards’ 첫 도입 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41022",
+    "description": "[건설이코노미뉴스] 건설현장 안전관리의 패러다임이 사고 발생 후 대응에서 AI와 데이터를 활용한 사전 예측·예방 중심으로 전환되고 있는 가운데 킨텍스가 건설현장의 안전혁신을 이끌 우수 기술과 제품 발굴에 나선다.킨텍스(KINTEX)는 오는 10월 개최되는 ‘2026 한국건설·안전박람회(K-CONSAFETY EXPO 2026)’ 참가기업을 대상으로 ‘2026 건설·안전혁신상(K-Consafety Awards)’을 개최한다고 최근 밝혔다.올해 건설·안전혁신상의 가장 큰 특징은 건설업계의 인공지능(AI) 전환과 스마트건설 기술 확산에 발",
+    "published_at": "2026-08-10T13:13:00+09:00",
+    "cluster_id": "164d",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "킨텍스, 건설안전 혁신상 14점으로 확대…‘건설AI Awards’ 첫 도입",
+    "summary": "킨텍스가 10월 개최되는 '2026 한국건설·안전박람회'에서 '건설·안전혁신상'을 확대 운영하며, 처음으로 'AI Awards'를 도입해 건설현장의 AI 기술과 스마트건설 솔루션을 발굴한다. 건설업계가 사후 대응에서 AI·데이터 기반 사전 예측·예방 중심으로 패러다임이 전환되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T13:16:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32222,21 +32238,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-06T10:23:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "체감 50도 뙤약볕에 25kg 장비 멨지만?'작업 중지'는 꿈도 못 꾸는 건설... - lawtalknews.co.kr",
-    "link": "https://lawtalknews.co.kr/article/PUPY91VET0E2",
-    "description": "체감온도 50도에 육박하는 뙤약볕, 25kg 장비를 멘 건설노동자들은 쉴 권리를 박탈당한 채 쓰러져가고 있다. 폭염 중대 경보가 내려진 영남권의 한 건설 현장. 오전 6시부터 건설노동자 A씨의 하루가 시작된다. 안전모를...",
-    "published_at": "2026-08-06T10:18:00+09:00",
-    "cluster_id": "c78b",
-    "publisher": "lawtalknews.co.kr",
-    "title_clean": "체감 50도 뙤약볕에 25kg 장비 멨지만?'작업 중지'는 꿈도 못 꾸는 건설...",
-    "summary": "극한의 폭염 속에서 25kg 장비를 착용한 건설노동자들이 안전 휴식 없이 작업을 강요받고 있다. 체감온도 50도에 육박하는 영남권 건설현장의 열악한 근무 환경이 노동자 건강을 위협하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-06T10:23:50+09:00",
-    "importance": 4
   }
 ]
