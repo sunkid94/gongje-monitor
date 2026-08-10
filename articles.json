@@ -22476,6 +22476,21 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "충주시, 폭염 속 건설현장 긴급점검…옥외근로자 안전 챙긴다 - 뉴스21 통신",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JY3JZNHNwcV9lako5UGp6M0RNd1BOX195SFZ5OGE4SlE3WlMwcFJjcW5VbmtrbjNlNkxrVzNqYTk1MzZUb19ZWlRreGRDel9KVW9iU1d3?oc=5",
+    "description": "충주시가 연일 이어지는 폭염에 대응해 건설현장 등 옥외작업 근로자의 온열질환 예방을 위한 현장 점검에 나섰다.충주시는 폭염특보가 지속됨에 따라 관내 주요 건설사업장과 취약시설을 대상으로 긴급 안전점검을 실시하고 근로자 보호를 위한 대응을 강화하고 있다고 밝혔다.이번 점검은 장시간 야외에서 작업하는 건설근로자들이 폭염에 노출되는 것을 최소화하고 각 사업장에서 온열질환 예방조치가 제대로 시행되고 있는지 확인하기 위해 마련됐다.이동석 충주시장도 직접",
+    "cluster_id": "0c8f",
+    "publisher": "뉴스21 통신",
+    "title_clean": "충주시, 폭염 속 건설현장 긴급점검…옥외근로자 안전 챙긴다",
+    "summary": "충주시가 폭염 대응으로 건설현장 긴급안전점검을 실시하여 옥외근로자의 온열질환 예방에 나섰다. 점검을 통해 각 사업장의 폭염 대응 조치 이행 상황을 확인하고 근로자 보호를 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-10T20:38:29+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "노동청 인천북부지청, 폭염 중대경보 발령에 따른 건설현장 긴급 현장점검 나서 - 비즈월드",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBM3JhNU9xZXF1a0xOOFpTVHg2aDBIbkdwUFJlanFKQXNVY0FtRGE1VkpoTEhINFpYcE9QX0k2Q2NmYkdEeTItOFR4cVlkWGxlcXBVeHFWOUo5TjJic2dkY0ZDM3puT25Rb3c?oc=5",
     "description": "[비즈월드] 중부지방고용노동청인천북부지청(건설·산재과장, 이하 인천북부지청)은 지난 5일부터 7일까지 3일 동안 폭염 중대경보 발령에 따라 인천시·안전보건공단·민간재해예방기관 등과 긴급 상황점검 회의를 개최했다고 10일 밝혔다.이어 인천시 서해구·검단구 소재 건설현장과 물류센터를 방문해 폭염 대응체계와 온열질환 예방을 위한 안전관리 이행 실태를 점검했다고 한다. 인천북부지청장(직무 대리인)은 연일 계속되는 폭염으로 건설현장의 온열질환 발생 위험이 크게 증가함에 따라 건설현장과 물류센터의 폭염 대응체계를 점검하고 ‘폭염안전 5대 기본",
@@ -32214,21 +32229,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-06T16:08:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "호반그룹, '오픈이노베이션 위크'...스타트업 협력 확대 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202608061546597913",
-    "description": "'2026 호반혁신기술공모전' 시상식에서는 인공지능(AI), 스마트건설, 로봇, 디지털 전환 등 미래산업 분야의 혁신기술을 보유한 스타트업 10개사가 최종 선정됐다. 수상기업에는 총 2억6600만원 규모 상금과 사업화 지원금이...",
-    "published_at": "2026-08-06T15:59:00+09:00",
-    "cluster_id": "297e",
-    "publisher": "fnnews.com",
-    "title_clean": "호반그룹, '오픈이노베이션 위크'...스타트업 협력 확대",
-    "summary": "호반그룹이 '오픈이노베이션 위크'를 개최하여 AI, 스마트건설, 로봇 등 혁신기술을 보유한 스타트업 10개사를 선정했다. 총 2억6600만원의 상금과 사업화 지원금을 제공하며 건설산업의 디지털 전환과 기술혁신을 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-06T16:03:57+09:00",
-    "importance": 2
   }
 ]
