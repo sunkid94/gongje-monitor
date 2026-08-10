@@ -22473,6 +22473,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "김태선·조지연 의원, 경산~울산 고속도로 건설 ′한목소리′ - 울산종합일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WbHVaWHFSUS1sRmxXMG95UFpwLUhvZVoycDhjUHlBd05qbmJYS2Q1RGNvdUV5ME1YejFPWXJ5dFVfSXdab0E1V2Z0N01wdTJUdkZkc3VIYXVHcVN3dE83MURRZWVNOXB1a3pTejNB?oc=5",
+    "description": "박홍근 기획예산처 장관 면담… 제3차 고속도로 건설계획 반영 요청울산 완성차·경산 부품산업 연결… 동남권 제조벨트 경쟁력 강화",
+    "published_at": "2026-08-10T16:28:43+09:00",
+    "cluster_id": "e80f",
+    "publisher": "울산종합일보",
+    "title_clean": "김태선·조지연 의원, 경산~울산 고속도로 건설 ′한목소리′",
+    "summary": "김태선·조지연 의원이 박홍근 기획예산처 장관을 면담하여 경산~울산 고속도로 건설을 제3차 고속도로 건설계획에 반영해 줄 것을 요청했다. 울산 완성차와 경산 부품산업을 연결하여 동남권 제조벨트의 경쟁력을 강화하기 위한 인프라 구축 추진이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-10T22:33:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32213,20 +32229,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-06T16:39:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 대응 현장점검 총력 - e-newsp.com",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCZlpTLVVxelRJMHp5Y2NydGd3dk1ZZG91SVpyWm5LcEtMNjUzVVNjYTZFUW5CS0FXeVA4dFdycTh6Y2hha2d4NWRIRDNVcUk0MWpyZlNxNXJyUnBwY0FB?oc=5",
-    "description": "충남도가 연일 지속되는 폭염에서 도민의 안전을 확보하기 위해 현장점검 강화 등 대응에 총력을 기울이고 있다. 도는 6일 서산시에서 신동헌 도 자치안전실장 등 점검반이 아파트 건설현장과 주요 관광지의 폭염 대응 실태를 점검했다고 밝혔다. 아파트 건설현장에서는 폭염 장기화에 따른 야외근로자 온열질환 예방 조치 상황과 현장 근로자와 지역 주민의 안전 관리 체계를",
-    "cluster_id": "9c14",
-    "publisher": "",
-    "title_clean": "폭염 대응 현장점검 총력 - e-newsp.com",
-    "summary": "충남도가 폭염 대응을 위해 건설현장 등에 대한 현장점검을 강화하고 있으며, 야외근로자의 온열질환 예방 조치와 안전 관리 체계를 점검 중이다. 도민 안전 확보를 위한 행정 감시 활동이 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-06T16:39:48+09:00",
-    "importance": 4
   }
 ]
