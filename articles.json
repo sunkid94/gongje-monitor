@@ -6522,6 +6522,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘의 경제뉴스] 송도 IBS 15년째 PF족쇄...대우건설, 또 1700억 채무보증 - 뉴스버스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RWHk0RVpFbnRidExXdTNaVWp5WmhRQjF3UEVQVnJYN3pJdDRVTEUtYVlJUWF5bXJMMzFQZTM5S1F0U0JYYWxZdld2MFFYNEd6YVRxTHpPelpJS0VhV0dtMHE5VVF5MnVSQkE?oc=5",
+    "description": "대우건설이 송도국제도시 IBS타워 프로젝트파이낸싱(PF) 대출 리파이낸싱에 또 채무보증에 나선다. 2011년 준공 이후 15년이 지났지만 건물 매각이나 임대수익을 통한 PF 상환에 이르지 못한 채 대우건설의 신용보강으로 차환을 반복하는 모습이다.대우건설은 송도IBS가 금융기관에서 조달하는 1,700억원 규모의 PF 대출에 채무보증을 제공하기로 했다고 11일 공시했다. 보증금액은 대우건설 자기자본 약 3조4,746억원의 4.89%에 해당한다.이번 보증은 지난해 8월 제공한 1,650억원 규모의 PF 보증을 대체하는 성격이다. 대출 만",
+    "published_at": "2026-08-12T02:24:36+09:00",
+    "cluster_id": "48ea",
+    "publisher": "뉴스버스",
+    "title_clean": "[오늘의 경제뉴스] 송도 IBS 15년째 PF족쇄...대우건설, 또 1700억 채무보증",
+    "summary": "대우건설이 송도 IBS타워 PF 대출 1,700억원에 대해 채무보증을 제공하기로 했다. 2011년 준공 이후 15년이 지났음에도 건물 매각이나 임대수익으로 PF를 상환하지 못하고 채무보증을 통한 리파이낸싱을 반복하는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T02:29:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -22461,22 +22477,6 @@
     "publisher": "pressman.kr",
     "title_clean": "수익성 살아난 대우건설… 원전·LNG 앞세워 27조 정조준",
     "summary": "대우건설이 상반기 영업이익을 전년 동기 대비 두 배 이상 증가시키며 수익성 개선을 달성했다. 원전과 LNG 등 해외 대형 프로젝트 수주를 통해 27조 규모의 수주를 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-04T15:30:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[공시 Pick] 대우건설, 상반기 영업익 109% 급증…장중 주가 12%대 폭등 - news2day.co.kr",
-    "link": "https://www.news2day.co.kr/article/20260804500152",
-    "description": "영업이익 4879억원…당기순이익 흑자전환 신규 수주 7조1285억원으로 전년比 22.4%↑ 수주잔고 53조원…원전·LNG 등 수주 확대 [사진=대우건설] [뉴스투데이=김소연 기자] 대우건설이 상반기 영업이익을 두 배 이상...",
-    "published_at": "2026-08-04T15:18:00+09:00",
-    "cluster_id": "826c",
-    "publisher": "news2day.co.kr",
-    "title_clean": "[공시 Pick] 대우건설, 상반기 영업익 109% 급증…장중 주가 12%대 폭등",
-    "summary": "대우건설이 상반기 영업이익 4879억원으로 전년 대비 109% 증가하며 실적을 크게 개선했다. 신규 수주 7조1285억원으로 전년 대비 22.4% 증가하고 수주잔고 53조원을 확보하는 등 건설 수주 시장이 활황을 보이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-04T15:30:49+09:00",
     "importance": 2
