@@ -22475,6 +22475,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "인천송도 럭스오션SK뷰 신축 아파트 오픈 테라스 붕괴 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=2026081113170860869ae5042aca_1",
+    "description": "특히 국토교통부 건설사고조사위원회 등 독립성과 전문성을 갖춘 기관이 사고 조사에 참여해야 한다는 입장이다. 정 의원은 “광주 화정과 인천 검단 사고를 겪고도 입주 1년여 만에 신축 아파트에서 이런 사고가...",
+    "published_at": "2026-08-11T14:18:00+09:00",
+    "cluster_id": "a0e0",
+    "publisher": "",
+    "title_clean": "인천송도 럭스오션SK뷰 신축 아파트 오픈 테라스 붕괴 - g-enews.com",
+    "summary": "인천송도 럭스오션SK뷰 신축 아파트에서 오픈 테라스 붕괴 사고가 발생했다. 정의원은 국토교통부 건설사고조사위원회 등 독립적 기관의 참여를 촉구하며, 광주·인천의 과거 사고 사례에도 불구하고 신축 아파트에서 재차 발생한 점을 지적했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T14:29:20+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "정일영 의원, 송도 테라스 붕괴 사고 철저 조사하고 책임 있는 대책 내... - breaknews.com",
+    "link": "http://www.breaknews.com/1228155",
+    "description": "정 의원은 11일 국회 국토교통위원회 전체회의에서 국토교통부 장관을 상대로 사고 원인과 책임소재를 따져 묻고, 국토교통부 건설사고조사위원회 등 공신력 있는...",
+    "published_at": "2026-08-11T14:18:00+09:00",
+    "cluster_id": "1705",
+    "publisher": "breaknews.com",
+    "title_clean": "정일영 의원, 송도 테라스 붕괴 사고 철저 조사하고 책임 있는 대책 내...",
+    "summary": "정일영 의원이 송도 테라스 붕괴 사고에 대해 국회 국토교통위원회에서 국토교통부 장관에게 사고 원인과 책임소재를 추궁하고 공신력 있는 조사를 촉구했다. 건설사고에 대한 철저한 조사와 대책 마련을 요구하는 입장을 표명했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T14:29:20+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32203,38 +32235,6 @@
     "summary": "폭염이 건설노동자, 택배기사, 라이더 등 야외 근로자의 생산성을 저하시키고 있으며, 농수산업 등 1차 산업의 영향이 커지면서 물가 상승으로 이어질 우려가 제기되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-07T06:09:23+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김성제 의왕시장, 폭염중대경보 속 건설현장·쉼터 등 안전 점검 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5seEJCWlBYeHVWU0NNT1JDaHhCbHIyTTFIOGhhS0lHX1lDazd0cEdEZzE5bnNhSUVVSERfTlVTV0FwbWRoTjBsNkVfWDRMTGZQbUo4M3JB?oc=5",
-    "description": "경기 의왕시는 '폭염중대경보'가 유지된 6일 김성제 시장이 건설현장과 무더위쉼터 등을 찾았다고 밝혔다.연일 이어지는 폭염으로 온열질환 위험이 커지는 상황에서 야외 …",
-    "published_at": "2026-08-06T17:16:14+09:00",
-    "cluster_id": "b10c",
-    "publisher": "뉴스1",
-    "title_clean": "김성제 의왕시장, 폭염중대경보 속 건설현장·쉼터 등 안전 점검",
-    "summary": "의왕시장이 폭염중대경보 상황에서 건설현장과 무더위쉼터를 안전 점검했다. 야외 근로자 중심으로 온열질환 예방 및 안전 관리에 나선 것으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-07T05:49:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"폭염엔 과하다 싶을 만큼 선제 대응\"…대전시, 취약계층·건설현장 '총력 안전점검' - 투어코리아",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96dnJmaGtyZGZ1VTlscEhPaTJMbXRRd2RuRHZfNkg0VzJQQzZxZTh2bWhZUkdKM0xJenpwTGxvSGJDYVBzSERtajA4Zko0QVFKcGp6dGw0bmIxOHh5bEVWclVCLUNGcE9GRkJ1VnZ3?oc=5",
-    "description": "[투어코리아=류석만 기자] 연일 기록적인 폭염이 이어지는 가운데 대전시가 시민 생명과 안전을 지키기 위해 폭염 대응 수위를 최고 수준으로 끌어올렸다.대전시는 폭염",
-    "published_at": "2026-08-07T04:46:05+09:00",
-    "cluster_id": "9f6a",
-    "publisher": "투어코리아",
-    "title_clean": "\"폭염엔 과하다 싶을 만큼 선제 대응\"…대전시, 취약계층·건설현장 '총력 안전점검'",
-    "summary": "대전시가 기록적 폭염에 대응하여 취약계층과 건설현장에 대한 안전점검을 강화하고 있다. 폭염으로 인한 건설현장 안전사고 예방을 위해 선제적 점검 체계를 운영 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-07T04:59:20+09:00",
     "importance": 4
   }
 ]
