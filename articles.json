@@ -22478,6 +22478,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울유니에듀, 호반건설과 '안전보건 공시제 대응 실무' 파일럿 교육 실시 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LdjJlMTFiNXRBYlJOTkljTDhBZkhxbkR4bmdQZFRJWUhPRGFqdThId1hWMlhwTmRMOFAtYlZ4VjRWRFFnVGM1UjA0NTRsclh1eVB6TFlXNFRkQlVyZmZLOA?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [서울신문]서울유니에듀, 호반건설과 ‘안전보건 공시제 대응 실무’ 파일럿 교육 성료- 8월 1일 안전보건 공시제 본격 시행 앞두고 대응 실무 프로그램 첫 적용- 호반건설, ‘중대재해 ZERO’ 달성 기조 잇는 전사적 안전보건경영 총력 서울유니에듀는 지",
+    "published_at": "2026-08-11T15:22:00+09:00",
+    "cluster_id": "9f90",
+    "publisher": "네이트",
+    "title_clean": "서울유니에듀, 호반건설과 '안전보건 공시제 대응 실무' 파일럿 교육 실시",
+    "summary": "서울유니에듀와 호반건설이 8월 1일 시행 예정인 안전보건 공시제에 대응하기 위한 파일럿 교육을 실시했다. 호반건설은 중대재해 ZERO 달성을 목표로 전사적 안전보건경영을 강화하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T15:29:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32223,22 +32239,6 @@
     "title_clean": "울산시, 폭염·가뭄에 시민 식수 확보 노력",
     "summary": "울산시가 폭염과 가뭄 대비로 시민 식수 확보, 도로 살수차 운영, 취약계층 보호 등 종합 대책을 추진 중입니다. 건설현장 안전점검과 응급의료기관 연계를 통해 온열질환 감시 체계를 강화하고 있습니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-07T09:39:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "호반그룹·플랜에이치벤처스, '2026 HOBAN Hi DEMODAY' 개최…투자기업 혁... - thedrive.co.kr",
-    "link": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065572742519926",
-    "description": "발표 세션에서는 엔티, 로닉, 팔레트, 베스텔라랩, 티엘엑스, 포스리젠 등 6개 투자기업이 AI, 스마트건설, 로보틱스 등 다양한 분야의 기술과 사업 사례를 발표했다. 각 기업은 실제 산업 현장에서 활용 가능한 기술과...",
-    "published_at": "2026-08-07T09:28:00+09:00",
-    "cluster_id": "5387",
-    "publisher": "thedrive.co.kr",
-    "title_clean": "호반그룹·플랜에이치벤처스, '2026 HOBAN Hi DEMODAY' 개최…투자기업 혁...",
-    "summary": "호반그룹과 플랜에이치벤처스가 2026 HOBAN Hi DEMODAY를 개최하여 AI, 스마트건설, 로보틱스 등 첨단기술을 보유한 6개 투자기업의 기술과 사업 사례를 발표했다. 건설산업의 디지털화와 혁신기술 도입을 통한 업계 고도화를 추진하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-07T09:39:56+09:00",
     "importance": 2
   }
