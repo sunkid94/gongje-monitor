@@ -6522,6 +6522,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[불황을 넘는 건설사들] 정경구의 IPARK현대산업개발, ‘서울원’ 넘어 도시개발 플랫폼 키운다 - S저널",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56VEJ6OGFOanA0YUI4TUU4V1BhQmVPZDBWc2NUSHlLczRPRjlsRlRzUk05UlpkN1pKLUtLNUFsQnlTam5TeWtMYTJVZnoxU3ZzWTEtRzQ2YzlfV3paMHhQOWxSTU5yQ1RQa0NkVWtn?oc=5",
+    "description": "건설경기 침체와 원가 부담이 이어지는 가운데 IPARK현대산업개발이 우량 사업지 중심의 선별 수주와 자체사업, 복합개발 역량을 앞세워 수익성 중심의 성장 전략을",
+    "published_at": "2026-08-11T18:28:50+09:00",
+    "cluster_id": "44bb",
+    "publisher": "S저널",
+    "title_clean": "[불황을 넘는 건설사들] 정경구의 IPARK현대산업개발, ‘서울원’ 넘어 도시개발 플랫폼 키운다",
+    "summary": "건설경기 침체 속에서 현대산업개발이 우량 사업지 선별 수주와 자체사업, 복합개발 역량을 통해 수익성 중심의 성장 전략을 추진 중이다. 서울원을 넘어 도시개발 플랫폼 확대를 목표로 하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T22:59:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22467,20 +22483,34 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설 PF",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "휴가 끝나면 다시 '폭염과 전쟁'…조선3사, 온열질환 예방 총력 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260804_0003735573",
-    "description": "4일 업계에 따르면 HD현대중공업과 한화오션, 삼성중공업 등 국내 조선 3사는 현재 여름휴가 기간을 보내고 있다. 조선소마다 일정에는 다소 차이가 있지만 이번 주에는 대부분 생산 현장이 멈춘 상태다. 다만 휴가가 끝난...",
-    "published_at": "2026-08-04T14:45:00+09:00",
-    "cluster_id": "f920",
-    "publisher": "newsis.com",
-    "title_clean": "휴가 끝나면 다시 '폭염과 전쟁'…조선3사, 온열질환 예방 총력",
-    "summary": "조선 3사(HD현대중공업, 한화오션, 삼성중공업)가 여름휴가 후 폭염에 대비해 온열질환 예방에 총력을 기울이고 있다. 휴가 종료 후 생산 현장의 안전 관리와 근로자 건강 보호를 위한 대책을 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-04T15:01:00+09:00",
-    "importance": 2
+    "title": "자본잠식 시행사에 1천700억원 보증…대우건설 ‘PF 연장’ 속사정 - 경인방송 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyakFySE50Z1AtOWd0QTVKcVZxQTFxRzZMN3ZXUjFfUVVHdkFtajY4ZmI0NG9jcF9UaXMxb09NT201R0FNMUZhdURyaTFjOGljbWhReHNSd3JSSGlZcEJKZVpTV2VCUEQ50gFoQVVfeXFMUDJqQXJITnRnUC05Z3RBNUpxVnFBMXFHNkw3dldSMV9RVUd2QW1qNjhmYjQ0b2NwX1RpczFvT01PbTVHQU0xRmF1RHJpMWM4aWNtaFF4c1J3clJIaVlwQkplWlNXZUJQRDk?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyakFySE50Z1AtOWd0QTVKcVZxQTFxRzZMN3ZXUjFfUVVHdkFtajY4ZmI0NG9jcF9UaXMxb09NT201R0FNMUZhdURyaTFjOGljbWhReHNSd3JSSGlZcEJKZVpTV2VCUEQ50gFoQVVfeXFMUDJqQXJITnRnUC05Z3RBNUpxVnFBMXFHNkw3dldSMV9RVUd2QW1qNjhmYjQ0b2NwX1RpczFvT01PbTVHQU0xRmF1RHJpMWM4aWNtaFF4c1J3clJIaVlwQkplWlNXZUJQRDk?oc=5\" target=\"_blank\">자본잠식 시행사에 1천700억원 보증…대우건설 ‘PF 연장’ 속사정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경인방송 뉴스</font>",
+    "cluster_id": "4f21",
+    "publisher": "경인방송 뉴스",
+    "title_clean": "자본잠식 시행사에 1천700억원 보증…대우건설 ‘PF 연장’ 속사정",
+    "summary": "대우건설이 자본잠식 상태의 시행사에 1천700억원 규모의 보증을 제공하며 PF 연장을 추진하고 있다. 이는 건설업계의 PF 부실 문제와 연쇄 부도 위험을 시사하는 사례로 평가된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T22:59:42+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염보다 더 무서운 ‘일당 삭감’…건설노동자 절반 “그냥 일한다” - seoul.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3Vm12ZW11blREa1RxSmxBLTNVUkVIMU5LZHpOMlV5V0hQSkxYS2ZYRndWZUlSR3ZiU0lnQU4tejB1ZXk2V19nWnVuOHloYXV2SHFPZkNwZXlQYk9iUUc1S2dqalN3bmQtWERQdGx6bw?oc=5",
+    "description": "건설노동자 절반이 체감온도 35도 이상에서도 별도 중단 지시 없이 일했다. 일용직은 쉬면 임금이 줄어 작업중지를 요구하기 어려웠고, 조사에선 51.8%가 어지러움, 28.5%가 근육 경련을 겪었다.",
+    "cluster_id": "c499",
+    "publisher": "seoul.co.kr",
+    "title_clean": "폭염보다 더 무서운 ‘일당 삭감’…건설노동자 절반 “그냥 일한다”",
+    "summary": "건설노동자 절반이 폭염(체감온도 35도 이상) 속에서도 일당 삭감 우려로 작업을 중단하지 못하고 있다. 일용직 근로자들이 휴식을 요청하기 어려운 구조 속에서 어지러움, 근육 경련 등 건강 피해가 발생하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T22:59:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32204,36 +32234,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-07T21:29:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국지역난방공사, 건설현장 폭염 대응실태 CEO 특별 현장안전점검 - 천지일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UM3JFQjZheDBpQzJVejZEdVRYMXdFNjhTUUZmLWZmZHFaTkgyeTUtVWNITnJkTHhXeldOc0l4Y2ZMS0ZWNlFNYS16RktRVk5rSGJVd3VrVjQ2M1dRUWU3VGNpOFMwTEhnRXc?oc=5",
-    "description": "[천지일보=김정자 기자] 연일 이어지는 폭염으로 건설현장 근로자의 온열질환 발생 위험이 높아지고 있다. 한국지역난방공사(사장 하동근, 한난)는 근로자의 온열질환 발생을 예방하기 위해 수원사업소에서 진행되고 있는 ‘친환경에너지 개선사업’ 건설현장에 사장이 방문, 폭염 대응 실태를 직접",
-    "published_at": "2026-08-07T19:51:56+09:00",
-    "cluster_id": "5cb4",
-    "publisher": "천지일보",
-    "title_clean": "한국지역난방공사, 건설현장 폭염 대응실태 CEO 특별 현장안전점검",
-    "summary": "한국지역난방공사가 폭염으로 인한 건설현장 온열질환 위험에 대응하기 위해 CEO가 수원사업소 현장을 직접 방문하여 안전점검을 실시했다. 건설현장 근로자의 안전과 보건 관리 강화를 위한 적극적인 조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-07T20:44:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL이앤씨, AI 데이터와 근로자 복지 중심 안전 패러다임 바꿔 - 한국부동산신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RZDdKUGFIMkF2ZVB4Z0NPSlkwWXdMRTB2N0k3Vl96Vjd2R3p0TTRoWG1xQnZyZVNseEhJNTNCTzRZUm1BZzdJYm5PV2s5X0ZEa0l6X3p5cTdMZHk5djJRV0NIaWJCcWow?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RZDdKUGFIMkF2ZVB4Z0NPSlkwWXdMRTB2N0k3Vl96Vjd2R3p0TTRoWG1xQnZyZVNseEhJNTNCTzRZUm1BZzdJYm5PV2s5X0ZEa0l6X3p5cTdMZHk5djJRV0NIaWJCcWow?oc=5\" target=\"_blank\">DL이앤씨, AI 데이터와 근로자 복지 중심 안전 패러다임 바꿔</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국부동산신문</font>",
-    "cluster_id": "7fb0",
-    "publisher": "한국부동산신문",
-    "title_clean": "DL이앤씨, AI 데이터와 근로자 복지 중심 안전 패러다임 바꿔",
-    "summary": "DL이앤씨가 AI 데이터 활용과 근로자 복지를 중심으로 건설 안전 패러다임을 전환하고 있다. 이는 업계의 안전 관리 고도화 및 근로자 보호 강화를 위한 긍정적 사례로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-07T20:44:17+09:00",
-    "importance": 2
   }
 ]
