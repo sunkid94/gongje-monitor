@@ -22483,6 +22483,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[주식마감] '3대 메가프로젝트' 소식에 금호건설·금호전기 상한가... 남... - ggilbo.com",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174863",
+    "description": "회사의 사업 특성상 건설경기와 건설공사 물량, 원재료 가격 등의 영향을 받을 수 있다. LK삼양은 전 거래일 대비 29.93%(243원) 오른 1055원에 거래를 마쳤다. 이날 LK삼양에 대한 별다른 공시는 올라온 바 없다. 다만...",
+    "published_at": "2026-08-11T19:40:00+09:00",
+    "cluster_id": "bca4",
+    "publisher": "ggilbo.com",
+    "title_clean": "[주식마감] '3대 메가프로젝트' 소식에 금호건설·금호전기 상한가... 남...",
+    "summary": "정부의 3대 메가프로젝트 소식에 금호건설과 금호전기가 상한가를 기록했다. 건설업계는 대형 프로젝트 수주 기회 증가로 긍정적 영향을 받고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-11T19:44:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32219,22 +32235,6 @@
     "summary": "경기도교육청이 교육시설 건설공사의 안전과 품질 관리를 강화하기 위해 제4기 시민감리단 30명을 위촉했다. 시민감리단은 현장 활동을 통해 공사 감시 및 모니터링을 수행할 예정이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-07T18:09:15+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설침체 '직격탄' 中 철근 가격 10년 만에 최저 - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000327410?division=NAVER",
-    "description": "블룸버그는 세계 철강 소비량의 약 절반을 차지하는 중국에서 장기간 건설경기 부진이 이어진 탓에 전반적인 부동산 부문의 철강 소비가 위축되고 있다고 설명했습니다. 국제신용평가기관 피치그룹 산하 피치솔루션의...",
-    "published_at": "2026-08-07T17:46:00+09:00",
-    "cluster_id": "5f9a",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "건설침체 '직격탄' 中 철근 가격 10년 만에 최저",
-    "summary": "중국의 장기간 건설경기 부진으로 철근 가격이 10년 만에 최저치를 기록했다. 세계 철강 소비량의 절반을 차지하는 중국의 부동산 부문 철강 소비 위축이 주원인이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-07T17:49:10+09:00",
     "importance": 4
   }
 ]
