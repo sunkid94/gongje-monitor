@@ -22483,6 +22483,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"사고 난 뒤 대응은 늦다\"… 킨텍스, AI·로봇이 사고 막는 '건설AI 어워즈' 신설 - 안전정보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83QVpMcXFLam1UYkozendOYTJYbm1hMnNsQ3hGMmFYYUNINHJtTi1mdmNnTkoteG14UEVWNVpoekI3dlhzUjNkUVBCSHB3U2VnbTFMczd6R0dpM2wzcm1pblVIOU5leVRrTjFF?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE83QVpMcXFLam1UYkozendOYTJYbm1hMnNsQ3hGMmFYYUNINHJtTi1mdmNnTkoteG14UEVWNVpoekI3dlhzUjNkUVBCSHB3U2VnbTFMczd6R0dpM2wzcm1pblVIOU5leVRrTjFF?oc=5\" target=\"_blank\">\"사고 난 뒤 대응은 늦다\"… 킨텍스, AI·로봇이 사고 막는 '건설AI 어워즈' 신설</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전정보</font>",
+    "cluster_id": "8d9a",
+    "publisher": "안전정보",
+    "title_clean": "\"사고 난 뒤 대응은 늦다\"… 킨텍스, AI·로봇이 사고 막는 '건설AI 어워즈' 신설",
+    "summary": "킨텍스가 AI와 로봇 기술로 건설 현장 사고를 사전에 예방하는 것을 목표로 '건설AI 어워즈'를 신설했다. 사고 발생 후 대응보다 사전 예방에 중점을 두고 업계의 안전 기술 혁신을 촉진하려는 취지다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-11T21:59:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32219,21 +32234,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-07T19:04:41+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안전보건공단 경기서부지사, 폭염 대응 강화...현장 작업중지 기준 점검 - 경인매일",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uWFEyU25LOEw5eDI5YjM1dlNHZG90OGt5bkJ2MlQ4TEMzQkZGdWVsSjZnWmhURlJ2ZzhlOTZLWGlkcGgyWm1zQ3NSdXR5YWh2VFV4cmlOX3F0OHFrUGFzMGVzWktyeWEt?oc=5",
-    "description": "폭염 중대경보가 발령된 가운데 안전보건공단 경기서부지사가 건설현장을 찾아 온열질환 예방조치와 폭염 대응 체계 점검에 나섰다. 현장에서 작업중지 기준이 제대로 이행",
-    "published_at": "2026-08-07T18:52:44+09:00",
-    "cluster_id": "c192",
-    "publisher": "경인매일",
-    "title_clean": "안전보건공단 경기서부지사, 폭염 대응 강화...현장 작업중지 기준 점검",
-    "summary": "안전보건공단 경기서부지사가 폭염 중대경보 발령에 따라 건설현장의 온열질환 예방조치와 작업중지 기준 이행 여부를 점검하고 있다. 폭염 대응 체계 강화를 통해 현장 안전관리를 강조하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-07T19:04:41+09:00",
-    "importance": 4
   }
 ]
