@@ -22474,6 +22474,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "디월트, 저진동 샌더부터 그린레이저까지…전문가용 전동공구 라인업 강화 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41027",
+    "description": "[건설이코노미뉴스] 스탠리블랙앤데커코리아의 전문가용 프리미엄 전동공구 브랜드 디월트가 협소한 공간과 고부하 작업, 정밀 측정 등 다양한 건설·산업현장 조건에 대응할 수 있는 신제품을 대거 선보였다. 저진동 샌더와 충전 라쳇, 그린레이저 등을 통해 작업자의 피로도는 낮추고 정밀성과 작업 안전성은 높이는 데 초점을 맞췄다.스탠리블랙앤데커코리아(대표 홍성완)는 디월트가 ▲20V MAX 브러쉬리스 저진동 원형 샌더(DCW211) ▲20V MAX 브러쉬리스 6mm(1/4”) 충전 라쳇(DCF514) ▲C타입 크로스라인 그린레이저(DCLE14",
+    "published_at": "2026-08-11T13:26:00+09:00",
+    "cluster_id": "1dd2",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "디월트, 저진동 샌더부터 그린레이저까지…전문가용 전동공구 라인업 강화",
+    "summary": "디월트가 저진동 샌더, 충전 라쳇, 그린레이저 등 신제품을 출시하여 전문가용 전동공구 라인업을 강화했다. 협소한 공간과 고부하 작업 등 다양한 건설현장 조건에 대응하며 작업자 피로도 감소와 정밀성·안전성 향상에 초점을 맞췄다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T13:29:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32216,22 +32232,6 @@
     "summary": "새울원자력본부가 폭염 속 원전 건설현장의 안전관리를 강화하기 위해 IoT, 냉방버스, 응급의료체계 등 스마트 대응체계를 본격 가동 중이다. 근로자 건강관리를 집중적으로 추진하여 대형 국책공사의 안전성을 확보하려는 움직임이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-06T23:39:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "부산도시공사, 공공부문 스마트 건설 전환…LH와 협약 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HaTItRGJfWVpOaXNsb3N3ekgxbWhfcGtRWVZNSlhQZHZTd01BVmNxMWhwTUx6bG9tWEJTZ0x6SU1oRHo1Y2JCTFlhZjQxb3JaZzkzU3RQb0JfUFnSAWBBVV95cUxQMHFzWHAtaE1wLUlsZTU0dWdMdE5VdHBIbmZ1bUV1SlBEbmg5SDI3c0d1N2laUk5CdmswdWJJUEpaTnBSU21MZFBTcUkxNWtJeUVZRmNHSkpSaWZDNEtOVDc?oc=5",
-    "description": "(부산=연합뉴스) 오수희 기자 = 부산도시공사는 한국토지주택공사(LH)와 공공부문 BIM 기술 수준 제고를 위한 업무협약을 체결했다고 6일 밝혔...",
-    "published_at": "2026-08-06T13:56:47+09:00",
-    "cluster_id": "54af",
-    "publisher": "연합뉴스",
-    "title_clean": "부산도시공사, 공공부문 스마트 건설 전환…LH와 협약",
-    "summary": "부산도시공사가 LH와 공공부문 BIM(건축정보모델링) 기술 수준 제고를 위한 업무협약을 체결했다. 공공건설 프로젝트에 스마트 건설 기술 도입을 확대하는 협력 추진이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-06T23:09:23+09:00",
     "importance": 2
   }
 ]
