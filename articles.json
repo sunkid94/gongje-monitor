@@ -22483,6 +22483,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염 속 건설현장·무더위쉼터 현장 밀착 ‘점검’ - 중부매일",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80UE9WaTR0UktMb1RwQ01obWVPUFJkY1NQSlcyVnBtR1d1MDZwaXdtMUpkVlc4OGVMTFppUHBmZlZMVkY3aF9CNEtCNWJ5VzhVeVV5ZTRMUHphVjJpTkxwMEdJWjZ5NC1UdGc?oc=5",
+    "description": "［중부매일 서인석 기자］ 음성군이 장기화 되고 있는 폭염 경보 속에서 군민 건강 보호와 현장 근로자의 안전 확보를 위한 ‘종합 현장점검’을 이어가고 있다.조병옥 음성군수는 지난 2일 지역 건설 현장을 둘러본 데 이어, 지난 10일에는 ‘청년농촌 보금자리 조성공사’ 현장과 ‘갑산소하천 정비사업’ 현장, 지역 무더위쉼터를 잇달아 방문해 현장별 애로사항을 청취했다.이번 점검은 폭염에 취약한 어르신 등 취약계층을 보호하고 건설 현장의 폭염 안전관리가 제대로 이뤄지고 있는지 확인하기 위해 마련됐다.조 군수는 먼저 지난해 착공한 원남면 ‘청년",
+    "published_at": "2026-08-11T11:02:57+09:00",
+    "cluster_id": "cdac",
+    "publisher": "중부매일",
+    "title_clean": "폭염 속 건설현장·무더위쉼터 현장 밀착 ‘점검’",
+    "summary": "음성군이 폭염 경보 속에서 건설현장과 무더위쉼터에 대한 현장점검을 실시했습니다. 군수가 청년농촌 보금자리 조성공사, 갑산소하천 정비사업 등 지역 건설현장을 방문해 폭염 안전관리 현황을 확인하고 애로사항을 청취했습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T20:49:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32217,22 +32233,6 @@
     "publisher": "기계설비신문",
     "title_clean": "추락재해 토론회…안전 신기술, 임시 기준으로 안전성 검토 ‘강조",
     "summary": "국회 토론회에서 기존 안전 기준 체계로는 평가하기 어려운 신기술·신제품에 대해 임시 기준을 마련해야 한다는 의견이 제기되었다. 동시에 안전난간, 작업발판 등 기본적인 추락 방호시설이 현장에 제대로 설치되지 않고 있는 문제점이 지적되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-07T18:26:25+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "(48) 안전보건교육질의회신 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51222",
-    "description": "Q. 건설업 기초안전보건교육기관에서 안전보건위탁기관을 등록 시 기존 건설업 기초안전보건교육기관의 시설과 인력을 활용해 등록할 수 있는 것인지.A. 건설업 기초안전보건교육기관 등록의 경우 다른 업무와의 겸직을 허용하고 있지 않습니다.따라서 건설업 기초안전보건교육기관 등록에 필요한 인력을 안전보건교육기관의 인력으로 등록하게 될 경우 건설업 기초안전보건교육기관의 등록이 취소될 수 있음을 알려드립니다./고용노동부 자료 제공",
-    "published_at": "2026-08-07T10:59:56+09:00",
-    "cluster_id": "f14f",
-    "publisher": "기계설비신문",
-    "title_clean": "(48) 안전보건교육질의회신",
-    "summary": "건설업 기초안전보건교육기관 등록 시 다른 업무와의 겸직이 허용되지 않으므로, 기존 시설과 인력을 공유하여 안전보건위탁기관을 등록할 수 없습니다. 이를 위반할 경우 교육기관의 등록이 취소될 수 있습니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-07T18:26:25+09:00",
     "importance": 4
