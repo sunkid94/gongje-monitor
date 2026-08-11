@@ -22482,6 +22482,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[단독] 김사랑도 당했다…구축 거래 늘자 ‘인테리어 사기’ 폭증 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25452645",
+    "description": "하지만 국토교통부는 이를 ‘건설산업기본법’ 등 법에 명시하는 것은 “당사자 간 합의에 의하여 계약 내용이 결정되는 민법상 ‘사적자치(계약자유)의 원칙’에 위배될 소지가 있다”는 입장이다. 국토부 관계자는...",
+    "published_at": "2026-08-12T05:00:00+09:00",
+    "cluster_id": "4b44",
+    "publisher": "joongang.co.kr",
+    "title_clean": "[단독] 김사랑도 당했다…구축 거래 늘자 ‘인테리어 사기’ 폭증",
+    "summary": "구축 거래 증가에 따라 인테리어 사기 사건이 폭증하고 있으며, 국토교통부는 법적 규제보다 민법상 계약자유의 원칙을 우선하는 입장을 유지하고 있다. 건설업계의 신뢰도 저하와 규제 공백이 문제로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T05:09:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32219,22 +32235,6 @@
     "summary": "국민의힘 유의동 의원이 국토위원회에서 집값 상승, 주거난, 건설경기 침체, 건설 현장 안전 등 주택·건설 관련 과제들을 언급하며 정책 개선 의지를 표현했습니다. 건설경기 침체와 안전 문제 등 업계 현안이 국정과제로 제시되었습니다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-08T07:08:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "9000억원 규모 국도45호선 반도체 도로, 건설사업자 선정 절차 착수 - MTN 머니투데이방송",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94QzRzdHlSLTRoVFVhdTczYXBOVkdRdFNQN0sxMG0zOThnUV9iVlVVaGt0SWM0UUwxTmZiQVZITTVZamkyekliRzQ5OG1XNDlJZldKRTRXRFktOWluRDkwYUVYczg?oc=5",
-    "description": "공사비가 9000억원에 달하는 초대어 턴키(설계·시공 일괄 진행) 물량인 ‘국도45호선 용인 처인 이동∼남동 국도 건설공사’가 사업자 선정 절차에 착수했다. 조달청과 국토교통부는 이달 입찰참가자격사전심사(PQ) 서류 접수를 통해 참가사를 확인하고, 예정대로 입찰 절차를 밟아 내년 1분기 중으로 실시설계 적격자를 선발할 계획이다. 8일 건설·엔지니어링 업계에 따르면 조달청은 국토부 서울지방국토관리청 수요에 따라 지난 6일 ‘국도45호선 용인 처인 이동∼남동 국도 건설공사’에 대한 입찰공고를 냈다. 용인 처인 이동∼남동 국도 건",
-    "published_at": "2026-08-08T06:30:01+09:00",
-    "cluster_id": "513e",
-    "publisher": "MTN 머니투데이방송",
-    "title_clean": "9000억원 규모 국도45호선 반도체 도로, 건설사업자 선정 절차 착수",
-    "summary": "국도45호선 용인 처인 이동~남동 구간 건설공사(9000억원 규모)의 사업자 선정 절차가 시작되었다. 조달청과 국토교통부는 입찰참가자격사전심사를 통해 참가사를 확인하고, 내년 1분기 중 실시설계 적격자를 선발할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-08T06:33:45+09:00",
     "importance": 2
   }
 ]
