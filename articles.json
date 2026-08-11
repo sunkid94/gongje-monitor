@@ -22483,6 +22483,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "강동하남남양주선 ‘엇박자’…서울은 속도ㆍ경기는 제자리 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10TnNqb09lblpaRGltX0pkd0xZbzFfTnRBZjVmS2loa1ZraHQ1WGR4b0FlQUZXU1dkU2xXMUQ4NThpYXZqWnpGWGZNR1VoSFFhbG9MYnI1SXdvem54WTVlZnExMmh3RGVxQ1JZTnVteERyVXYz?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE10TnNqb09lblpaRGltX0pkd0xZbzFfTnRBZjVmS2loa1ZraHQ1WGR4b0FlQUZXU1dkU2xXMUQ4NThpYXZqWnpGWGZNR1VoSFFhbG9MYnI1SXdvem54WTVlZnExMmh3RGVxQ1JZTnVteERyVXYz?oc=5\" target=\"_blank\">강동하남남양주선 ‘엇박자’…서울은 속도ㆍ경기는 제자리</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "f0a5",
+    "publisher": "대한경제",
+    "title_clean": "강동하남남양주선 ‘엇박자’…서울은 속도ㆍ경기는 제자리",
+    "summary": "강동하남남양주선 건설에서 서울과 경기도의 진행 속도가 불일치하고 있습니다. 서울은 사업 추진에 속도를 내고 있으나 경기도는 진전이 더딘 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T18:59:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32222,21 +32237,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-07T17:39:29+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[책마을] '4500년 전 이집트 빵'을 만들어 먹는 사람들 - hankyung.com",
-    "link": "https://www.hankyung.com/article/2026080712291",
-    "description": "안데스산맥의 여성 사냥꾼과 피라미드 건설 노동자, 중국 궁정의 환관 같은 인물이 등장해 한 시대의 일상을 보여준다. 감각이 풍부한 역사와 생동감 있는 서사를 결합하면서, 실험고고학이 과거를 이해하는 데 왜...",
-    "published_at": "2026-08-07T17:27:00+09:00",
-    "cluster_id": "7920",
-    "publisher": "hankyung.com",
-    "title_clean": "[책마을] '4500년 전 이집트 빵'을 만들어 먹는 사람들",
-    "summary": "실험고고학을 통해 고대 이집트 빵 제조 등 과거 일상을 재현하는 내용의 책 소개 기사입니다. 건설업계와 직접적인 관련이 없는 역사 교양 콘텐츠입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-07T17:39:29+09:00",
-    "importance": 2
   }
 ]
