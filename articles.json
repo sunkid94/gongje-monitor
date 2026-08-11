@@ -6522,6 +6522,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“천안 성성동 땅값 더 올리려고?”…현대산업개발 측 주장에 토지주 정면 반박 - 디트NEWS24",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FMjBOOTZUNDhqZnZDNWNsZlhseDVOanlVOGNvYzVfQUJCdnZoRy02WTduNDN4c3NoYTRoMVI1YW81VHNiaThkYzhudm15NTU0MzRTSm1vWTdmOHdERkt3OW5zNFluLThabEpr?oc=5",
+    "description": "천안 성성동 아파트 개발사업 과정에서 사유지 무단 사용 및 훼손 의혹이 제기된 가운데 토지주와 현대산업개발 측 입장 차가 커지고 있다.현대산업개발 측은 토지주가 토지 가격을 올리기 위해 사유지 무단 사용 등 문제를 제기하고 있다고 주장하지만, 토지주는 이미 토지 매입가격은 협의가 끝난 상황이라며 정면으로 반박하고 나섰다.특히, 사유지 무단 사용 및 훼손 의혹과 관련, 천안시의 원상복구 명령에 따라 현장 철거가 진행되는 과정에서 토지주가 원상복구 작업을 제지하면서 경찰까지 출동하는 등 양측 갈등이 더욱 격화되고 있는 양상이다.토지주",
+    "published_at": "2026-08-11T16:27:21+09:00",
+    "cluster_id": "3bb2",
+    "publisher": "디트NEWS24",
+    "title_clean": "“천안 성성동 땅값 더 올리려고?”…현대산업개발 측 주장에 토지주 정면 반박",
+    "summary": "천안 성성동 아파트 개발사업에서 현대산업개발과 토지주 간 사유지 무단 사용 및 훼손 문제로 갈등이 심화되고 있다. 현대산업개발은 토지주의 지가 인상 목적 주장을 제기했으나 토지주는 이미 가격 협의가 완료됐다고 반박하며 원상복구 작업 제지 등으로 분쟁이 확대되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T22:34:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22467,19 +22483,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 상반기 매출 3조 9949억원·영업이익 4879억원 기록 - ngonews.kr",
-    "link": "https://www.ngonews.kr/news/articleView.html?idxno=234571",
-    "description": "대우건설(대표이사 김보현)이 2026년 상반기 경영실적(연결기준)을 잠정 집계한 결과 매출 3조 9949억원, 영업이익 4879억원, 당기순이익 3630억원을 기록했다고 4일 밝혔다. 그러면서 대우건설은 올해 신규 수주...",
-    "published_at": "2026-08-04T14:54:00+09:00",
-    "cluster_id": "1456",
-    "publisher": "ngonews.kr",
-    "title_clean": "대우건설, 상반기 매출 3조 9949억원·영업이익 4879억원 기록",
-    "summary": "대우건설이 2026년 상반기 매출 3조 9949억원, 영업이익 4879억원을 기록했으며, 올해 신규 수주 확대를 추진 중이다. 건설사의 안정적인 실적과 수주 확대는 건설업계 전반의 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-04T15:01:00+09:00",
+    "title": "“한인 사역 하려 했는데”…캄보디아 아이 44명이 왔다 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002336&cp=nv",
+    "description": "건설노동자나 툭툭(오토바이 택시) 기사로 일하는 부모들이 모여 산다. 아이들의 하루 일과는 3시간의 학교 수업을 마치고 집안일을 돕거나 하릴 없이 보내는 시간이 대부분이다. 임 선교사는 교회를 찾는 아이들을 모아...",
+    "published_at": "2026-08-11T22:27:00+09:00",
+    "cluster_id": "1961",
+    "publisher": "kmib.co.kr",
+    "title_clean": "“한인 사역 하려 했는데”…캄보디아 아이 44명이 왔다",
+    "summary": "캄보디아에서 선교 활동 중인 선교사가 저소득층 아이들을 위한 교육 사역을 펼치고 있는 사례를 다룬 기사. 건설노동자 등 저임금 노동자 가정의 아이 44명이 교회 프로그램에 참여하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T22:34:32+09:00",
     "importance": 2
   },
   {
@@ -32218,22 +32234,6 @@
     "summary": "DL이앤씨가 AI 데이터 활용과 근로자 복지를 중심으로 건설 안전 패러다임을 전환하고 있다. 이는 업계의 안전 관리 고도화 및 근로자 보호 강화를 위한 긍정적 사례로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-08-07T20:44:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "충주시, 폭염 속 건설 현장·취약시설 긴급 안전점검 실시 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Skt0LTNKSDBMVURFOC1jQ3h3c0RGVnFGMTNEdW02QlNZaXhudE91eXV4aXZIUG5yVnIyU1M1OVNTeldMbjYxdnloUUlyVElsbmI2dGFBUGI4R1VYNDhaQlNtNkZIUktKNkxnMXR3?oc=5",
-    "description": "(충주=국제뉴스) 김상민 기자 = 충북 충주시가 폭염특보가 이어지는 가운데 관내 주요 건설사업장과 취약시설을 대상으로 긴급 안전점검을 실시했다.이번 현장점검은 야외 작업 비중이 높은 건설현장에서 발생할 수 있는 온열질환 위험을 사전에 차단하고, 근로자 보호조치가 제대로 이행되고 있는지 확인하기 위해 추진됐다.이동석 시장은 벌미소하천 개선복구 사업장, 수안보 중산소하천 사업장, 중앙탑 신대소하천 사업장, 노후하수관로 정비 사업장 등 주요 하천 공사장을 직접 방문해 폭염 대응 실태를 점검했다.현장에는 하천과, 안전총괄과 등 관계 공무원",
-    "published_at": "2026-08-07T20:17:50+09:00",
-    "cluster_id": "7aba",
-    "publisher": "gukjenews.com",
-    "title_clean": "충주시, 폭염 속 건설 현장·취약시설 긴급 안전점검 실시",
-    "summary": "충주시가 폭염특보 상황에서 관내 건설현장과 취약시설에 대한 긴급 안전점검을 실시했다. 야외 작업 비중이 높은 건설현장의 온열질환 위험 차단과 근로자 보호조치 이행 여부를 확인하기 위한 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-07T20:39:04+09:00",
     "importance": 2
   }
 ]
