@@ -22474,6 +22474,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "성남시, 건축공사장 34곳 현장안전점검 - 경기도민일보 미디어",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sQ0ZxTVJaSUVhQjQ0MXFRQkJlb3lmVnNxYTI5MFRvQU1GQ21ueW9yRXVDTnZCTmdmNVl6ekRfVUlIS1ZUb1l6eXUtMWpJQ01DczlkcGFDdzF4SWxURDEzbjRTSTdieFV4WGc?oc=5",
+    "description": "[경기도민일보미디어 오인기 기자] 성남시는 폭염에 노출된 건설근로자의 온열질환을 막기 위해 민간 건축공사장 34곳을 대상으로 현장 중심의 안전점검에 들어갔다고 1",
+    "published_at": "2026-08-11T12:35:39+09:00",
+    "cluster_id": "c528",
+    "publisher": "경기도민일보 미디어",
+    "title_clean": "성남시, 건축공사장 34곳 현장안전점검",
+    "summary": "성남시가 폭염으로 인한 건설근로자의 온열질환 예방을 위해 민간 건축공사장 34곳에 대한 현장안전점검을 실시하고 있다. 안전점검을 통해 건설현장의 작업환경 개선을 추진하는 조치이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T13:09:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32216,21 +32232,6 @@
     "summary": "기록적인 폭염으로 인해 건설 현장에서 노동자들이 극한 근무 환경에 노출되고 있으며, 경제적 손실을 우려해 휴식을 취하지 못하는 상황이 발생하고 있다. 이는 건설업계의 안전 관리와 근로 환경 개선의 필요성을 제기하는 기고문이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-06T22:14:20+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기 ‘악성 미분양’ 80% 중견·중소사 물량… 3채 중 2채 경기북부 몰려 - 브릿지경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lb2ZfWnBPMmpvd3ZjdnRqeVJOZExtZUYzeTNLbGtXTDBEV21JMjV4dHBKbkRDdHlVZ2l6LVZPMkdvcWxoUjV4VXdNSXlLTk5Va0JVdTd6TXBjdw?oc=5",
-    "description": "경기도에서 준공 이후에도 팔리지 않은 이른바 ‘악성 미분양’ 물량 5가구 중 4가구가 중견·중소 건설사 시공 사업장에 집중된 것으로 나타났다. 권역별로는 전체 물량의 약 3분의 2가 경기북부에 몰렸다. 특히 경기북부에 위치한 중견·중소 건설사 사업장이 전체 악성 미분양",
-    "cluster_id": "c3b7",
-    "publisher": "브릿지경제",
-    "title_clean": "경기 ‘악성 미분양’ 80% 중견·중소사 물량… 3채 중 2채 경기북부 몰려",
-    "summary": "경기도의 악성 미분양 물량 대부분이 중견·중소 건설사 시공 사업장에 집중되어 있으며, 특히 경기북부 지역에 전체의 약 3분의 2가 몰려 있는 것으로 나타났다. 이는 중소 건설사들의 사업 부실 및 시장 구조의 불균형을 시사한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-06T22:09:13+09:00",
     "importance": 4
   }
 ]
