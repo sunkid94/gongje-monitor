@@ -22486,6 +22486,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[뉴스분석] 상반기 실적으로 본 산업별 흐름 - kyeongin.com",
+    "link": "https://www.kyeongin.com/article/1768855",
+    "description": "내수 건설경기 침체와 원자재 가격 변동성이라는 ‘이중고’를 겪던 철강 업계도 AI 데이터센터 등 인프라 수요에 전략적으로 대응하며 2분기 반등에 성공했다. 현대제철은 봉형강 판매 회복과 가격 상승에 따라 2분기...",
+    "published_at": "2026-08-11T19:46:00+09:00",
+    "cluster_id": "c519",
+    "publisher": "kyeongin.com",
+    "title_clean": "[뉴스분석] 상반기 실적으로 본 산업별 흐름",
+    "summary": "철강 업계가 AI 데이터센터 등 신규 인프라 수요에 대응하며 2분기 실적 반등에 성공했다. 내수 건설경기 침체와 원자재 가격 변동성이라는 어려움 속에서도 전략적 대응으로 봉형강 판매 회복과 가격 상승을 달성했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T19:49:35+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "[주식마감] '3대 메가프로젝트' 소식에 금호건설·금호전기 상한가... 남... - ggilbo.com",
     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174863",
     "description": "회사의 사업 특성상 건설경기와 건설공사 물량, 원재료 가격 등의 영향을 받을 수 있다. LK삼양은 전 거래일 대비 29.93%(243원) 오른 1055원에 거래를 마쳤다. 이날 LK삼양에 대한 별다른 공시는 올라온 바 없다. 다만...",
@@ -32220,21 +32236,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-07T18:26:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "도교육청, 제4기 건설공사 시민감리단 30명 위촉·현장 활동 돌입 - 화성신문",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NZlRzTmhkV2ExaExqaXFDaUxycHoyM3RleENUWVc3QnJnRlZsNWxnYmstSm5lcExKTUg3MTN5b2RPQQ?oc=5",
-    "description": "도교육청 교육시설 건설공사의 안전과 품질을 올리기 위한 시민감리단을 위촉하고 있다. 경기도교육청(교육감 안민석)이 6일 남부청사에서 관내 교육",
-    "published_at": "2026-08-07T17:20:00+09:00",
-    "cluster_id": "4fc5",
-    "publisher": "화성신문",
-    "title_clean": "도교육청, 제4기 건설공사 시민감리단 30명 위촉·현장 활동 돌입",
-    "summary": "경기도교육청이 교육시설 건설공사의 안전과 품질 관리를 강화하기 위해 제4기 시민감리단 30명을 위촉했다. 시민감리단은 현장 활동을 통해 공사 감시 및 모니터링을 수행할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-07T18:09:15+09:00",
-    "importance": 4
   }
 ]
