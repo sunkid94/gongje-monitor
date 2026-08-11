@@ -22482,6 +22482,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "산림청, 국립새만금수목원 건설현장 안전점검 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PNlBETklYNEN5dHg5Yk5tTWJKQ0NXR3V6am1iV21kQWxrbXEzaW5HRWhBUFBzZUY1QllLVEdLTzhLOHZsRFV1bzJHTnpmbV9KcEN6QjhJSGhDNGFjelJzalFrSm8yZ1dpUE5N?oc=5",
+    "description": "산림청(청장 박은식)이 계속된 무더위 속 온열질환 및 안전사고 예방을 위해 국립새만금수목원 조성사업의 작업환경 관리실태를 점검하고 폭염 대비 노동자 행동요령 교육을 실시했다고 11일 밝혔다.국립새만금수목원은 기후 및 식생대별 수목원 조성계획에 따라 조성되는 해안·간척지형 수목원으로 151ha 규모에 총사업비 2,139억원이 투입돼 내년 개원을 목표로 추진 중이며, 현재 공정률 69.7%를 넘어서고 있다.산림청은 시공사와 감리단을 대상으로 8월 혹서기 노동자 작업환경 개선을 위한 사업장 내 복지시설 설치 및 응급구급약품 비치 여부,",
+    "published_at": "2026-08-11T16:58:25+09:00",
+    "cluster_id": "2c7a",
+    "publisher": "한국건설신문",
+    "title_clean": "산림청, 국립새만금수목원 건설현장 안전점검",
+    "summary": "산림청이 국립새만금수목원 건설현장에 대해 무더위 속 안전점검을 실시하고 노동자 교육을 진행했다. 151ha 규모, 총사업비 2,139억원 규모 프로젝트가 공정률 69.7%로 진행 중이며 내년 개원을 목표로 하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-11T23:09:29+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "춘천시, 폭염 속 시 발주 건설현장 6곳 집중점검... 근로자 안전강화 - 웹이코노미",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oT2p3M2JYQkowSjVDcnpXSXhwR09BTmVjWTUyT1JieE01WEktX3o1MS0yVkZJdHQ2U3lLbi1hb0ItaXBFRzlJNUFVeFUwSzJJZ2lEWjB2ZlZlMmREMTFsTk1HeER5WEVfUEpoTnN2ZWRqdw?oc=5",
+    "description": "춘천시는 10일부터 11일까지 안전보건공단과 함께 사업비 50억 원 이하 소규모 건설현장 6곳을 점검했다.이번 점검에서는 온열질환 예방조치, 보호구 착용, 안전작",
+    "published_at": "2026-08-11T20:39:10+09:00",
+    "cluster_id": "e427",
+    "publisher": "웹이코노미",
+    "title_clean": "춘천시, 폭염 속 시 발주 건설현장 6곳 집중점검... 근로자 안전강화",
+    "summary": "춘천시가 안전보건공단과 함께 폭염 시기 시 발주 건설현장 6곳에 대한 집중점검을 실시했다. 온열질환 예방, 보호구 착용 등 근로자 안전조치를 강화하는 내용이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-11T23:09:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32202,36 +32234,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-07T22:28:44+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공정, 혁신, 포용의 경기 - 경기도청",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpU0pmNTZzUTV0eTJPNmVZeE4ya0tIcU85RXEwT0VXc19EakF2ek1GT0E2cFpEUUNmYzl6UTVBSHZreW8xMnFJNWxhMG9DYTB5andDRU9lTG5WX1dpbTRoRG95Y3FlY3IwZzBnTHdBVm94TGdVOGpGM1NtM3BEclE?oc=5",
-    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
-    "cluster_id": "5269",
-    "publisher": "경기도청",
-    "title_clean": "공정, 혁신, 포용의 경기",
-    "summary": "경기도의 공정, 혁신, 포용을 주제로 한 주요 소식 및 행정 서비스 안내 기사입니다. 건설업계와 직접적인 관련성이 없는 일반적인 도정 소식으로 판단됩니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-07T22:08:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "충주시, 폭염 건설현장 긴급점검 - cctoday.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lTW1BY3VzWGVWLXlxZ3ZwX2tyT1Y5SkJjTi1FYjRKdlR6MnZ6Q0dNWHByTHFNOFFNVExkNEo0bVM2ODZaYzJnaXEzRGQtRzVxWlRLNkZCQWtEOGtSc0w4YllJYTZjNGhfdTZIc2FR?oc=5",
-    "description": "[충청투데이 김의상 기자] 충주시가 연일 이어지는 폭염특보에 대응해 옥외작업 근로자의 온열질환 예방과 안전사고 방지를 위해 주요 건설사업장과 폭염 취약시설을 대상으로 긴급 현장점검을 실시했다.이번 점검은 폭염에 장시간 노출되는 건설현장의 온열질환 위험요인을 사전에 차단하고, 현장별 근로자 보호조치가 제대로 이행되고 있는지를 확인하기 위해 마련됐다.이동석 충주시장은 하천과와 안전총괄과 관계 공무원들과 함께 벌미소하천 개선복구 사업장, 수안보 중산소하천 사업장, 중앙탑 신대소하천 사업장, 노후하수관로 정비사업장 등을 차례로 방문해 폭염",
-    "published_at": "2026-08-07T08:23:07+09:00",
-    "cluster_id": "e04a",
-    "publisher": "cctoday.co.kr",
-    "title_clean": "충주시, 폭염 건설현장 긴급점검",
-    "summary": "충주시가 연일 폭염특보에 대응하여 건설사업장에 대한 긴급 현장점검을 실시했다. 온열질환 예방과 안전사고 방지를 위해 주요 건설사업장과 취약시설의 근로자 보호조치 이행 여부를 확인했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-07T21:29:02+09:00",
-    "importance": 4
   }
 ]
