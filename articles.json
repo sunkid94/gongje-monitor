@@ -22414,6 +22414,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "공사비 오르고, 민간 수주는 감소…건설경기 '또 악화' - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54V1JwLS1GaWJGZWFmbXVnMnJpaXZEa2RMUVJwTmU4eS14T1djbzZkbk9KanhTbTBQWFRRUV9YSGtZRkZLeF9JYVZMR1AwbTlCRkRJ?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이데일리 이정현 기자]6월 건설수주가 큰 폭으로 감소한 것으로 나타났다. 공공수주 확대에도 민간 토목·주택·비주택이 동반 위축된 탓이다. 건설현장에 설치된 타워크레인 (사진=이데일리 방인권 기자)12일 한국건설산업연구원(원장 이충재)가 발표한 8월",
+    "published_at": "2026-08-12T08:10:00+09:00",
+    "cluster_id": "ec7e",
+    "publisher": "네이트",
+    "title_clean": "공사비 오르고, 민간 수주는 감소…건설경기 '또 악화'",
+    "summary": "6월 건설수주가 큰 폭으로 감소했으며, 공공수주 확대에도 불구하고 민간 토목·주택·비주택 수주가 동반 위축되었다. 공사비 상승으로 인한 채산성 악화와 함께 건설경기가 지속적으로 악화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T08:24:20+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "삼표그룹, ‘2026 코리아빌드위크’서 스마트 건설 4대 혁신 제품 공개 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZjV5SXlod3BULWdMMlROdExUSWJpX05uTE5KSm5xd3U3MUVCSWVndmY5MERHbmctTFY3WXd1dUtfWUNZY0pzQmRXeWZ4TXFVbHlzY0dwNUVLNGdwUllIUVYzZFpZS2JDallLdGpMX18yc03SAXdBVV95cUxPRXBGeXk0VzNwczNqSnBIZ2RkMFF3cXFxQm1IVGhST3RpZmxMVnpnQkhuWWJjQU5hRENQZmdEd0VUc3RTYkVWMEk1VDc4YkRrS214dmNwY3ZmNU5XSC13b05aN0RnNjdfdXZzbHJoY3hCWmdsYzc5RQ?oc=5",
+    "description": "삼표그룹이 기후변화 대응과 층간소음 저감, 친환경·스마트 시공을 아우르는 건설 솔루션을 공개했다.건설기초소재 전문기업 삼표그룹은 지난 5일부터 8일까지 서울 코엑스에서 열린 국내 최대 건설·건축·인테리어 전문 전시회 ‘2026 코리아빌드위크’ 호반 동반성장 건설엑스포에 참가했다고 12일 밝혔다.삼표그룹은 이번 전시에서 건설 현장의 주요 난제를 해결할 수 있는 4대 혁신 제품을 선보였다. 전시 품목은 특수 콘크리트 VAP, 층간소음 저감 고성능 몰탈, 친환경 특수 시멘트 ‘블루멘트’, 모바일 배치플랜트 등이다.가장 주목받은 제품은 기",
+    "published_at": "2026-08-12T08:04:41+09:00",
+    "cluster_id": "3d64",
+    "publisher": "핀포인트뉴스",
+    "title_clean": "삼표그룹, ‘2026 코리아빌드위크’서 스마트 건설 4대 혁신 제품 공개",
+    "summary": "삼표그룹이 '2026 코리아빌드위크'에서 VAP 콘크리트, 층간소음 저감 몰탈, 친환경 시멘트 '블루멘트', 모바일 배치플랜트 등 4대 혁신 제품을 공개했다. 기후변화 대응과 층간소음 저감, 친환경·스마트 시공 등 건설 현장의 주요 난제 해결을 위한 솔루션들이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-12T08:24:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32200,37 +32232,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-08T14:32:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설 한파에 벼랑끝 데크업계…반도체·AI 데이터센터 ‘단비’ 될까 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20077053?ref=naver",
-    "description": "국내 데크플레이트 업계가 건설경기 침체 장기화로 실적 악화에 시달리는 가운데 반도체 공장과 인공지능(AI) 데이터센터 건설 확대가 새로운 돌파구로 떠오르고 있다. 메모리 반도체 투자 재개와 글로벌 반도체...",
-    "published_at": "2026-08-08T11:01:00+09:00",
-    "cluster_id": "a1f9",
-    "publisher": "sedaily.com",
-    "title_clean": "건설 한파에 벼랑끝 데크업계…반도체·AI 데이터센터 ‘단비’ 될까",
-    "summary": "건설경기 침체로 어려움을 겪고 있는 국내 데크플레이트 업계가 반도체 공장과 AI 데이터센터 건설 확대를 새로운 성장 기회로 주목하고 있다. 메모리 반도체 투자 재개와 글로벌 반도체·AI 시장 확대가 업계의 돌파구가 될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-08T11:08:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설 불황 직격탄…근로자보다 ‘근로일’ 더 크게 줄었다 - mediapen.com",
-    "link": "https://www.mediapen.com/news/view/1115040",
-    "description": "건설경기 침체가 길어지면서 건설현장의 고용 기반이 빠르게 쪼그라들고 있다. 퇴직공제 신규 가입공사가 줄고 건축 부문의 현장 위축이 두드러지면서 퇴직공제 적용 근로자 수보다 공제부금 적립일수가 더 큰...",
-    "published_at": "2026-08-08T10:44:00+09:00",
-    "cluster_id": "3a5d",
-    "publisher": "mediapen.com",
-    "title_clean": "건설 불황 직격탄…근로자보다 ‘근로일’ 더 크게 줄었다",
-    "summary": "건설경기 침체로 인해 퇴직공제 신규 가입공사가 감소하고 건축 현장이 위축되면서 건설 근로자 수보다 근로일수 감소가 더 크게 나타나고 있다. 건설현장의 고용 기반이 빠르게 축소되는 추세다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-08T10:48:23+09:00",
-    "importance": 4
   }
 ]
