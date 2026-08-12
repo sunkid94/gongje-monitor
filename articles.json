@@ -22275,6 +22275,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "계룡건설 수주공시 - 제2경춘국도(남양주-춘천) 도로건설공사(1공구) 1,847.5억원 (매출액대비 6.40 %) - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtNmZkUDJlMXRESmEzUkVLQThDSlpfX3ROY1Y1Ty00ZjN1dG9URzNuSXhPUXJNb29qZDZ0SHRzcTRFdUxKT2hITW83SlJVTDNNVmpz?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : ◆계룡건설 수주공시 개요- 제2경춘국도(남양주-춘천) 도로건설공사(1공구) 1,847.5억원 (매출액대비 6.40 %)계룡건설(013580)은 제2경춘국도(남양주-춘천) 도로건설공사(1공구)에 관한 단일판매ㆍ공급계약체결 을 12일에 공시했다.계약 상대",
+    "published_at": "2026-08-12T11:46:00+09:00",
+    "cluster_id": "240a",
+    "publisher": "네이트",
+    "title_clean": "계룡건설 수주공시 - 제2경춘국도(남양주-춘천) 도로건설공사(1공구) 1,847.5억원 (매출액대비 6.40 %)",
+    "summary": "계룡건설이 제2경춘국도(남양주-춘천) 도로건설공사 1공구를 1,847.5억원에 수주했으며, 이는 연간 매출액의 6.40%에 해당한다. 건설업계의 공공 인프라 프로젝트 수주로 긍정적인 신호를 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-12T12:49:06+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "태안군, 폭염 속 건설현장 4곳 불시 점검…드론 띄워 온열질환 예방 안내 - 한국사회복지저널",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEbVZkdUE3aUFpS0x5eHI0N2F4NVZncGk2cXROMmRYLWdwcXVXNEVqZklBTTBVY3ZJc0hUOFBLeUkwRkNLbEtuTmdfcVJCeGw1dUszVWt0STI0bnl4SkdESWlGMGVXc3FWcExB?oc=5",
+    "description": "태안군이 지난 11일 관내 건설현장을 대상으로 유관기관과 함께 ‘2026년 폭염 대비 건설현장 안전점검’을 실시했다고 12일 밝혔다. 이번 점검에는 태안군 안전관리과, 충청남도 일자리기업지원과, 대전지방고용노동청 서산지청 산재예방감독과, 한국산업안전보건공단 충남지역본부, 대한산업안전협",
+    "published_at": "2026-08-12T12:39:51+09:00",
+    "cluster_id": "c11f",
+    "publisher": "한국사회복지저널",
+    "title_clean": "태안군, 폭염 속 건설현장 4곳 불시 점검…드론 띄워 온열질환 예방 안내",
+    "summary": "태안군이 폭염 대비 건설현장 안전점검을 실시하고 드론을 활용한 온열질환 예방 안내를 진행했다. 관련 기관과 협력하여 현장 안전관리 강화에 나섰다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-12T12:49:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32191,37 +32223,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-09T10:37:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "세계는 지금 – 각국 목재산업 보고서 ㉓ 슬로베니아 '숲을 가진 나라에... - woodkorea.co.kr",
-    "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90712",
-    "description": "최근 유럽의 목재산업은 에너지 가격 상승, 인건비 부담, 건설경기 둔화, 기후변화, 산림재해, EU 환경규제 등 복합적인 압력을 받고 있다. 그러나 동시에 콘크리트와 철강 중심 건축에서 저탄소 건축으로 전환하려는...",
-    "published_at": "2026-08-09T10:00:00+09:00",
-    "cluster_id": "4e57",
-    "publisher": "woodkorea.co.kr",
-    "title_clean": "세계는 지금 – 각국 목재산업 보고서 ㉓ 슬로베니아 '숲을 가진 나라에...",
-    "summary": "유럽 목재산업이 에너지·인건비 상승, 건설경기 둔화, 기후변화 등 복합적 압력을 받고 있으나, 저탄소 건축 전환 추세에 따른 목재 수요 증가의 기회가 있다. 슬로베니아는 산림자원 기반으로 목재산업 발전을 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-09T10:02:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "엇갈린 대전·세종·충남 경제...수출·생산 회복 속 소비 회복 '제자리... - chungnamilbo.co.kr",
-    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902983",
-    "description": "경제계 한 전문가는 \"대전·세종·충남은 제조업 생산과 수출에서 회복 신호가 나타나고 있지만 소비와 설비투자, 건설경기까지 온기가 확산됐다고 보기는 어렵다\"며 \"특히 충남의 반도체 중심 수출 증가가 지역...",
-    "published_at": "2026-08-09T09:20:00+09:00",
-    "cluster_id": "7c76",
-    "publisher": "chungnamilbo.co.kr",
-    "title_clean": "엇갈린 대전·세종·충남 경제...수출·생산 회복 속 소비 회복 '제자리...",
-    "summary": "대전·세종·충남 지역의 제조업 수출과 생산은 회복세를 보이고 있으나, 소비와 설비투자, 건설경기는 회복이 더디다. 건설경기 부진으로 지역 경제의 온기 확산이 제한적인 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-09T09:27:41+09:00",
-    "importance": 4
   }
 ]
