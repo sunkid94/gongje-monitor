@@ -6080,23 +6080,6 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회, 대학 지원금 두 배로…올해 2억 원 규모 - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3634899",
-    "description": "대한기계설비협회(회장 허용주)는 13일, 전국 9개 기계설비 관련 대학교에 전문 인력 양성을 위한 지원금을 전달한다고 발표했다. 기계설비협회는 지난 2024년부터 각 대학의 교육 환경 개선과 경쟁력 강화를 목적으로...",
-    "published_at": "2026-07-13T23:34:00+09:00",
-    "cluster_id": "a18e",
-    "publisher": "gukjenews.com",
-    "title_clean": "기계설비협회, 대학 지원금 두 배로…올해 2억 원 규모",
-    "summary": "대한기계설비협회가 전국 9개 기계설비 관련 대학에 올해 2억 원 규모의 지원금을 전달하며 지난 2024년부터 시작한 대학 지원을 확대했다. 교육 환경 개선과 전문 인력 양성을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T23:40:06+09:00",
-    "event_label": "대한기계설비건설협회 대학 지원금 확대(2억 원 규모)",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22050,6 +22033,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T14:49:45+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "여주시노동안전지킴이, 건설 현장 합동점검 실시 - 여주저널",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYcjh0d09XZ3hYX3pTZ1FOaGlfOUljQVVpZkd5M2JvbWhVYzBzTXRwckNlTXgtcFlHaXRZakthOUdWeG9iT2ZFbmY4SzdUaDZUcTJLbWRaVTV3ZndpRXIxZEFoUHpOR1A3RkdzZ01Qcw?oc=5",
+    "description": "여주시와 여주시노동안전지킴이, 여주노동권익센터(센터장 김민수)는 12일 공공 건설 현장의 산업재해를 예방하고 노동자들의 안전한 작업 환경을 조성하기 위해 8월 노동안전의 날 합동점검 및 안전 캠페인을 실시했다.이번 합동점검에는 여주시 일자리경제과 담당 팀장 및 주무관을 비롯해 여주노동안전지킴이, 여주시 노동권익센터 관계자들이 참여했다.이날 교동 일원에서 진행 중인 여주초 신설 대체 이전 학교복합시설 개발사업 공사 현장을 찾아 사업주의 안전 시설물 설치 상태부터 노동자들의 세부 안전 수칙 준수 여부까지 점검했다.점검단은 추락 예방을",
+    "published_at": "2026-08-12T17:46:39+09:00",
+    "cluster_id": "ab07",
+    "publisher": "여주저널",
+    "title_clean": "여주시노동안전지킴이, 건설 현장 합동점검 실시",
+    "summary": "여주시와 여주노동안전지킴이가 8월 노동안전의 날을 맞아 교동 일원의 여주초 신설 대체 이전 학교복합시설 개발사업 공사 현장을 합동점검했다. 안전 시설물 설치 상태와 노동자들의 안전 수칙 준수 여부를 중점적으로 점검하여 산업재해 예방 및 작업 환경 개선을 도모했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T23:54:49+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
