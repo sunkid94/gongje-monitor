@@ -6250,40 +6250,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설협회 대전·세종·충남도회, 유성구와 지역건설 활성화 협... - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50818",
-    "description": "대한기계설비건설협회 대전·세종·충남도회(회장 이태왕)는 지난 10일 대전 유성구청 본관 대회의실<사진>에서 지역 건설업체 참여 활성화와 일자리 창출을 위한 업무협약을 체결했다고 13일 밝혔다. 이번 협약식에는...",
-    "published_at": "2026-07-13T15:04:00+09:00",
-    "cluster_id": "d9ef",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비건설협회 대전·세종·충남도회, 유성구와 지역건설 활성화 협...",
-    "summary": "대한기계설비건설협회 대전·세종·충남도회가 대전 유성구청과 지역 건설업체 참여 활성화 및 일자리 창출을 위한 업무협약을 체결했다. 지역 건설산업 발전과 경제 활성화를 도모하는 협력 방안을 마련했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T15:09:53+09:00",
-    "event_label": "대한기계설비건설협회 유성구청과 지역건설 활성화 업무협약 체결",
-    "importance": 5
-  },
-  {
-    "keyword": "기계설비협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회, 기계설비 전문인력 양성 지원금 전달...지원금 2억원 전... - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467991",
-    "description": "대한기계설비협회가 전국 9개 대학에 지원금을 전달하며 전문 인력 확보와 산학협력 강화에 나섰다. 대한기계설비협회(회장 허용주)는 기계설비 분야 전문 인력 양성을 위해 전국 9개 기계설비 관련 대학교에 지원금을...",
-    "published_at": "2026-07-13T15:02:00+09:00",
-    "cluster_id": "3819",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "기계설비협회, 기계설비 전문인력 양성 지원금 전달...지원금 2억원 전...",
-    "summary": "대한기계설비협회가 기계설비 분야 전문인력 양성을 위해 전국 9개 대학에 2억원의 지원금을 전달했다. 이는 산학협력 강화와 업계 인력 확보를 위한 적극적인 투자 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-13T15:09:53+09:00",
-    "event_label": "기계설비협회 전국 9개 대학에 전문인력 양성 지원금 2억원 전달",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22241,6 +22207,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-05T10:04:05+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "현대건설 독주·삼성E&A 선전…건설사 수주전도 '수익성 우선' - opinionnews.co.kr",
+    "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=142924",
+    "description": "사진=연합뉴스  올해 상반기 대형 건설사들이 신규 수주를 크게 늘렸지만 건설경기 부진과 수익성 압박이 이어지면서 외형보다 수익성과 현금흐름을 중시하는 선별 수주 기조가 더욱 뚜렷해지고 있다. 12일...",
+    "published_at": "2026-08-12T15:08:00+09:00",
+    "cluster_id": "8420",
+    "publisher": "opinionnews.co.kr",
+    "title_clean": "현대건설 독주·삼성E&A 선전…건설사 수주전도 '수익성 우선'",
+    "summary": "상반기 대형 건설사들이 신규 수주를 늘렸으나, 건설경기 부진으로 인해 수익성과 현금흐름을 우선하는 선별 수주 전략으로 전환 중이다. 외형 성장보다 수익성 확보에 집중하는 업계의 보수적 기조가 강화되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-12T15:13:55+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
