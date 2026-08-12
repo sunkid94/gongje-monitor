@@ -22258,6 +22258,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "전국플랜트건설노조-포스코, 발주사·노동조합 직접 교섭 첫걸음 - 중도일보",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvRkJKUU5NV2pCbEZBQnItUGFCWlhvSFpTRzYxaHlvVzlDZllkR0J1dlhPTVJRYlNtQzVRdVFLcVU3UU1PbkpTSFNzV2FKRTBjS2tHX0lRY1c0aTRXZ2pQcmtkVGpBRnBueFQ3Zg?oc=5",
+    "description": "포스코가 발주한 플랜트 건설현장의 하청 노동자들과 발주사 포스코가 직접 대화하는 자리가 마련됐다. 하청 노동자의 노동조건과 안전 문제에 대해 발주사와 노동조합이 직접 교섭하는 첫..",
+    "published_at": "2026-08-12T14:27:53+09:00",
+    "cluster_id": "9e80",
+    "publisher": "중도일보",
+    "title_clean": "전국플랜트건설노조-포스코, 발주사·노동조합 직접 교섭 첫걸음",
+    "summary": "포스코가 발주한 플랜트 건설현장에서 하청 노동자와 발주사가 직접 교섭하는 자리가 마련됨. 노동조건과 안전 문제 개선을 위한 발주사-노동조합 간 직접 대화 첫 시도.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-12T14:34:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32207,21 +32223,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-09T19:02:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "창원시 여름철 폭염 대비 건설현장 안전 점검 실시 - gndomin.com",
-    "link": "http://www.gndomin.com/news/articleView.html?idxno=484766",
-    "description": "있는 만큼 근로자의 생명과 안전을 최우선으로 고려한 현장관리가 무엇보다 중요하다\"며 \"폭염이 지속되는 기간 동안 현장 점검을 강화하고 안전수칙 이행 여부를 지속적으로 확인해 안전한 건설현장을 만들겠다\"고 말했다.",
-    "published_at": "2026-08-09T17:40:00+09:00",
-    "cluster_id": "984f",
-    "publisher": "gndomin.com",
-    "title_clean": "창원시 여름철 폭염 대비 건설현장 안전 점검 실시",
-    "summary": "창원시가 여름철 폭염에 대비해 건설현장 안전 점검을 강화하고 있다. 근로자 생명과 안전을 최우선으로 현장관리를 진행하며 안전수칙 이행 여부를 지속적으로 확인할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-09T17:47:54+09:00",
-    "importance": 2
   }
 ]
