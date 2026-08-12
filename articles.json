@@ -22121,6 +22121,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "에너지공단, ‘2026 기후산업국제박람회 청년 앰버서더’ 본격 출범 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41043",
+    "description": "[건설이코노미뉴스]한국에너지공단(이사장 최재관)은 12일 부산 벡스코(BEXCO)에서 '2026 기후산업국제박람회(WCE) 청년 앰버서더 발대식'을 개최했다고 밝혔다.기후산업국제박람회(WCE)는 기후위기 대응과 탄소중립 실현을 목표로 개최되는 국제행사로, 정부·국제기구 고위인사가 참여하는 컨퍼런스와 국내외 기업의 첨단기술 전시가 함께 열린다. 올해는 오는 9월 16일부터 18일까지 부산 벡스코에서 개최된다.기후산업국제박람회 앰버서더로 위촉된 청년 42명은 8월부터 9월 말까지 약 2개월간 활동한다. 개인 사회관계망서비스(SNS)를",
+    "published_at": "2026-08-12T17:54:24+09:00",
+    "cluster_id": "e54e",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "에너지공단, ‘2026 기후산업국제박람회 청년 앰버서더’ 본격 출범",
+    "summary": "한국에너지공단이 2026 기후산업국제박람회의 성공적 개최를 위해 청년 42명을 앰버서더로 위촉하고 발대식을 개최했다. 박람회는 9월 부산에서 개최되며, 앰버서더들은 SNS를 통한 홍보활동을 2개월간 진행한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-12T17:56:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32192,21 +32208,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-10T07:02:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "영등포구, 국토부에 GTX-B 노선 조정?환기구 이전 촉구 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PY083TzhUOTk0dkhrNEE2ZnRIR2cwandfalQyTXVCOHNLZHFMdEwyMl9ja0hfVGlONEVLLWNJVmJWOGx5ZVh1cElQenBiMFBWUDRkdU1XUXpPMUx2R2V0Zw?oc=5",
-    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : [헤럴드경제=박종일 선임기자]영등포구(구청장 조유진)가 수도권광역급행철도 B노선(GTX-B) 건설 공사로 인한 주민들의 피해를 최소화하기 위해 국토교통부에 노선 조정과 환기구 이전을 강력히 촉구하고 나섰다. 조유진 영등포구청장은 8월 7일 서울 중구",
-    "published_at": "2026-08-10T06:49:00+09:00",
-    "cluster_id": "ac0d",
-    "publisher": "네이트",
-    "title_clean": "영등포구, 국토부에 GTX-B 노선 조정?환기구 이전 촉구",
-    "summary": "영등포구가 GTX-B 노선 건설으로 인한 주민 피해 최소화를 위해 국토부에 노선 조정과 환기구 이전을 강력히 촉구하고 있다. 지자체의 건설 사업 조정 요구로 공사 일정 변경 가능성이 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T06:57:53+09:00",
-    "importance": 4
   }
 ]
