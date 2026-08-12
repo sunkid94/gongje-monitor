@@ -22053,6 +22053,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "머리 위에서 '펄펄'…매일같이 \"말 그대로 사투\" - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702569&plink=ORI&cooper=NAVER",
+    "description": "[엄인수/전국건설노동조합 수석부위원장 : 개정된 (산업)안전보건 규칙에 따라 (지급돼야 할) 작업장 냉방시설과 개인용 보냉장구를 모두 지급받은 사람은 20.6%에 지나지 않는다.] 법으로 정한 최소한의 보호 장치가 없는...",
+    "published_at": "2026-08-12T20:36:00+09:00",
+    "cluster_id": "fccc",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "머리 위에서 '펄펄'…매일같이 \"말 그대로 사투\"",
+    "summary": "건설 현장의 폭염 대응 규정이 법제화되었으나 실제 이행률은 20.6%에 불과해 근로자 보호가 제대로 이루어지지 않고 있다. 산업안전보건 규칙상 작업장 냉방시설과 개인용 보냉장구 지급이 의무화되었지만 대다수 현장에서 미준수 상태다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T20:49:33+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32187,22 +32203,6 @@
     "summary": "천안시가 폭염 대응으로 공동주택 건설현장에 살수차 운영을 확대하고 근로자 온열질환 예방 및 안전관리를 강화하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-10T09:28:05+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "완공하고도 받지 못한 미지급공사대금, 초기 대응이 중요 - ksilbo.co.kr",
-    "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064067",
-    "description": "최근 건설경기 침체와 원자재 가격상승, 자금난이 맞물리면서 공사를 성실히 완공하고도 대금을 받지 못해 줄도산 위기에 처하는 시공사 및 하도급업체들이 늘고 있다. 미지급공사대금은 단순한 채권미수 문제를 넘어...",
-    "published_at": "2026-08-10T09:00:00+09:00",
-    "cluster_id": "9341",
-    "publisher": "ksilbo.co.kr",
-    "title_clean": "완공하고도 받지 못한 미지급공사대금, 초기 대응이 중요",
-    "summary": "건설경기 침체와 원자재 가격 상승, 자금난으로 인해 공사를 완공했음에도 대금을 받지 못한 시공사 및 하도급업체들이 줄도산 위기에 직면하고 있다. 미지급공사대금 문제의 초기 대응이 중요함을 강조하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T09:08:22+09:00",
     "importance": 4
   }
 ]
