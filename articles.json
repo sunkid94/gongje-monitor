@@ -22053,6 +22053,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "제주경제 ‘빨간불’…관광객 줄고 소비심리 꺾여 둔화 흐름 지속 - 뉴스N제주",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Dam56cUtEUGtsOGNZWmNGeGYwakFDUjNLR0VLVTN1aEh4RkhSTWNyNmZqQjlVa2ZLNW5mbDVQS3c3ZTF0ZlhIT3FPeG5sMkNuNzV2QXZWckgtZ09hNzd0a0VJck1rN29Gdmh6dg?oc=5",
+    "description": "제주경제가 건설수주 증가와 양호한 고용 상황에도 관광객 감소와 소비심리 악화 등의 영향으로 둔화 흐름을 이어가고 있는 것으로 나타났다.특히 제주경제의 핵심 축인 관광산업에서 내국인 관광객 감소세가 지속되고 소비 증가폭마저 둔화되면서 지역경기 회복에 부담으로 작용하고 있다.한국은행 제주본부가 12일 발표한 ‘최근 제주지역 실물경제 동향’에 따르면 최근 제주경제는 건설수주 증가와 양호한 고용 상황에도 불구하고 관광객 수 감소와 소비심리 악화 등으로 둔화 흐름을 지속하고 있는 것으로 분석됐다.7월 관광객 122만8000명…전년보다 8만4",
+    "published_at": "2026-08-12T20:16:45+09:00",
+    "cluster_id": "0452",
+    "publisher": "뉴스N제주",
+    "title_clean": "제주경제 ‘빨간불’…관광객 줄고 소비심리 꺾여 둔화 흐름 지속",
+    "summary": "제주경제가 둔화 흐름을 지속하고 있으며, 관광객 감소와 소비심리 악화가 주요 악재로 작용하고 있다. 건설수주 증가는 긍정 요인이나 관광산업 부진이 지역경기 회복에 부담을 주고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-12T20:29:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32188,21 +32204,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-10T09:08:22+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'스마트 보건버스' 띄운 DL이앤씨…폭염 속 건설현장 안전관리 만전 - thefairnews.co.kr",
-    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84530",
-    "description": "DL이앤씨는 전국 건설현장의 혹서기 안전관리를 강화하고 근로자 건강 보호를 위한 현장점검을 실시했다고 10일 밝혔다. 지난 1일에는 박상신 대표이사가 천안 성성 현장을 찾아 안전 실태를 직접 점검하기도 했다....",
-    "published_at": "2026-08-10T08:58:00+09:00",
-    "cluster_id": "5bb0",
-    "publisher": "thefairnews.co.kr",
-    "title_clean": "'스마트 보건버스' 띄운 DL이앤씨…폭염 속 건설현장 안전관리 만전",
-    "summary": "DL이앤씨가 폭염 속 전국 건설현장의 혹서기 안전관리를 강화하고 근로자 건강 보호를 위한 현장점검을 실시했다. 대표이사가 직접 현장을 방문하여 안전 실태를 점검하는 등 건설현장 안전관리에 만전을 기하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T09:08:22+09:00",
-    "importance": 2
   }
 ]
