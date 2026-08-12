@@ -22274,6 +22274,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "더위보다 무서운 중대재해...폭염 속 건설현장 고강도 합동 점검 - paxetv.com",
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=279223",
+    "description": "대비 건설현장 안전점검'을 전격 실시 했다고 밝혔습니다. 점검 대상은 공공발주 공사인 태안 반다비 체육센터 건설현장과 고용노동부가 지정한 민간 소규모 공사현장 3개소 등 총 4개소로, 폭염 예방 관리 실태를 실효성...",
+    "published_at": "2026-08-12T11:58:00+09:00",
+    "cluster_id": "6c6c",
+    "publisher": "paxetv.com",
+    "title_clean": "더위보다 무서운 중대재해...폭염 속 건설현장 고강도 합동 점검",
+    "summary": "정부가 폭염 시즌에 건설현장 안전점검을 강화하고 있으며, 태안 반다비 체육센터 등 4개 현장을 대상으로 고강도 합동 점검을 실시했다. 폭염 예방 관리 실태를 중심으로 현장 안전 관리 기준을 엄격히 적용하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T12:04:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32205,21 +32221,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-09T09:07:50+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "새벽 공사·야간 축제… 사계 잃은 일본, ‘낮’ 가리는 중 [세계는 지금... - segye.com",
-    "link": "https://www.segye.com/newsView/20260805525998?OutUrl=naver",
-    "description": "한 번 충전하면 온종일 조끼 안에 선풍기 바람을 돌릴 수 있는 이 작업복은 2024년 185억엔(약 1680억원) 규모의 시장이 형성됐을 정도로 일본 건설노동자들 사이에서 인기다. 제대로 된 것은 2만엔(약 18만원)가량인 가격이...",
-    "published_at": "2026-08-09T09:02:00+09:00",
-    "cluster_id": "f643",
-    "publisher": "segye.com",
-    "title_clean": "새벽 공사·야간 축제… 사계 잃은 일본, ‘낮’ 가리는 중 [세계는 지금...",
-    "summary": "일본의 극심한 날씨 변화로 건설 현장이 새벽과 야간에 작업하면서 냉각복 등 특수 작업복 시장이 2024년 185억엔 규모로 성장했다. 건설노동자들이 극한의 작업 환경에 적응하기 위해 고가의 기술 제품을 구입하고 있는 추세다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-09T09:07:50+09:00",
-    "importance": 2
   }
 ]
