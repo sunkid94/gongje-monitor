@@ -22053,6 +22053,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "영업익 230%↑…롯데건설, 2분기 1224억·PF 부담도 축소 - 월요신문",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QdVR5b2g0YXoydHpiMUVUSERHQ0NiZ09UOFNFbHo4eHBicW1lVE13b2FnYTFuYlBCMk5wM3ZJeFRlN1JwZUF1OS1IMUpsRmsxNWI2NFdiX2lIV2RLZVNjUGlGTHNqX0p5MXc?oc=5",
+    "description": "롯데건설은 올해 2분기 연결 기준 영업이익이 1224억원을 기록했다고 12일 밝혔다. 전년 동기보다 230% 증가한 수준으로 1분기 영업이익 504억원보다 두 배",
+    "published_at": "2026-08-12T20:28:09+09:00",
+    "cluster_id": "c0e4",
+    "publisher": "월요신문",
+    "title_clean": "영업익 230%↑…롯데건설, 2분기 1224억·PF 부담도 축소",
+    "summary": "롯데건설이 2분기 영업이익 1224억원을 기록하며 전년 동기 대비 230% 증가했다. PF 부담 축소로 재무 건전성이 개선되는 긍정적인 성과를 보였다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-12T20:39:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32188,21 +32204,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-10T09:08:22+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL이앤씨, 폭염에 전국 건설현장 안전관리 강화 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475780",
-    "description": "DL이앤씨는 전국 건설현장의 혹서기 안전관리 실태를 점검하고 폭염 대응 체계를 강화했다고 10일 밝혔다. 박상신 DL이앤씨 대표이사는 지난 1일 천안 성성 현장을 찾아 안전관리 실태를 살피고 폭염 속에서 근무하는...",
-    "published_at": "2026-08-10T08:58:00+09:00",
-    "cluster_id": "12ef",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "DL이앤씨, 폭염에 전국 건설현장 안전관리 강화",
-    "summary": "DL이앤씨가 전국 건설현장의 폭염 안전관리 실태를 점검하고 혹서기 대응 체계를 강화했다. 대표이사가 현장을 방문해 근로자 안전 관리 상황을 직접 확인했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T09:08:22+09:00",
-    "importance": 3
   }
 ]
