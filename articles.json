@@ -22053,6 +22053,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "8월 가뭄도 '뉴 노멀'?‥국지성 호우가 만든 복합재난 - imnews.imbc.com",
+    "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844307_37004.html",
+    "description": "[정창삼/인덕대 스마트건설방재학과 교수 (MBC 재난자문위원)] \"불과 50km, 100km 상간으로 극한, 극단적인 강우 패턴이 나타나고 있기 때문에 수자원 관리에 굉장히 어려운 시기가 온 거죠.\" 그나마 다행인 건, 다가오는...",
+    "published_at": "2026-08-12T19:52:00+09:00",
+    "cluster_id": "2b7e",
+    "publisher": "imnews.imbc.com",
+    "title_clean": "8월 가뭄도 '뉴 노멀'?‥국지성 호우가 만든 복합재난",
+    "summary": "극한적인 강우 패턴으로 인한 국지성 호우와 가뭄이 동시에 발생하는 복합재난이 '뉴 노멀'로 자리잡고 있다. 수자원 관리의 어려움이 증가하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T19:59:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32186,22 +32202,6 @@
     "title_clean": "LH, 대학생 국토·도시 기술 아이디어 공모",
     "summary": "LH가 대학생을 대상으로 국토·도시 기술 아이디어 공모전을 개최하며, 환경·재해안전·AI·ESG·스마트건설기술 등 다양한 분야의 참신한 기술 아이디어를 발굴하고 있다. 미래 건설기술 인재 양성 및 신기술 개발 기회 제공으로 건설업계의 혁신과 기술 고도화를 촉진하는 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-10T09:08:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL이앤씨, 폭염 현장 안전관리 강화…보건버스 15대 운영 - 인더뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wOWkxcWN3NkNuRnRsSktOekNuOHJFaERySHhFVHNoblpfMjJnYVhQZGFxa2NUcmQxVnQ5ZjdtS2dlOHFBcDdnMVc3bHZZcmNSaXc4MEZ5c1F5V1lLcy1tYndpcXk?oc=5",
-    "description": "인더뉴스 제해영 기자ㅣDL이앤씨는 연일 이어지는 폭염에 대응해 전국 건설현장의 혹서기 안전관리 수준을 높이고 근로자 건강 보호를 위한 현장 점검을 실시했다고 10일 밝혔습니다. 박상신 DL이앤씨 대표이사는 지난 1일 천안 성성 현장을 직접 찾아 안전관리 실태를 점검하고 폭염 속에서 근무하는 근로자들을 격려했습니다. 박 대표는 현장 관계자들에게 안전수칙을 철",
-    "published_at": "2026-08-10T08:54:14+09:00",
-    "cluster_id": "c281",
-    "publisher": "인더뉴스",
-    "title_clean": "DL이앤씨, 폭염 현장 안전관리 강화…보건버스 15대 운영",
-    "summary": "DL이앤씨가 폭염에 대응해 전국 건설현장의 안전관리를 강화하고 있으며, 보건버스 15대를 운영하여 근로자 건강 보호에 나서고 있다. 대표이사가 직접 현장을 방문해 안전실태를 점검하고 근로자들을 격려했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-10T09:08:22+09:00",
     "importance": 2
   }
