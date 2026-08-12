@@ -6168,6 +6168,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "최현덕 남양주시장 “왕숙신도시 공사, 지역업체 참여 선순환 만들 것” - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026081217375964561",
+    "description": "현대건설과 대우건설, 쌍용건설, 계룡건설, 동부건설 등 19개 대형 건설업체가 참여하고 있다. 남양주시는 2025년 6월 '지역업체 상생협력 업무협약'을 체결한 데 이어 지난 7월 시민 소통창구인 '시장 좀 만납시다'를 통해...",
+    "published_at": "2026-08-12T17:37:00+09:00",
+    "cluster_id": "afd9",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "최현덕 남양주시장 “왕숙신도시 공사, 지역업체 참여 선순환 만들 것”",
+    "summary": "남양주시가 왕숙신도시 공사에 19개 대형 건설업체를 참여시키고 지역업체 상생협력 업무협약을 체결하여 건설 수주 기회를 창출하고 있다. 시장과의 소통창구를 통해 지역업체의 참여 활성화를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-12T17:44:44+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "최현덕 남양주시장, 왕숙 신도시 일감 지역으로 돌린다…'파트너스센터... - fieldnews.kr",
     "link": "http://www.fieldnews.kr/news/articleView.html?idxno=30685",
     "description": "현대건설과 금광기업, 쌍용건설, 대우건설, 대광건영, 계룡건설, 동부건설, 서한 등 19개 대형 건설업체가 참여하고 있다. 시는 이날 지역 업체의 기술력과 사업 참여 의지를 시공사 측에 설명하고, 협력업체 등록 기준 완화...",
@@ -22105,20 +22121,19 @@
     "importance": 3
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "독보적 SOFC 기술력 증명한 두산퓨얼셀, 美 전력 시장 판도 흔든다 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474603",
-    "description": "가장 폭발적인 상승세를 나타내는 종목은 두산퓨얼셀이다. 한국거래소에 따르면 두산퓨얼셀은 이날 오후 2시13분 현재 25.35% 오른 3만 5850원에 거래되고 있다. 해외 업체향 대규모 고체산화물 연료전지(SOFC) 공급 계약 체결...",
-    "published_at": "2026-08-05T14:18:00+09:00",
-    "cluster_id": "f936",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "독보적 SOFC 기술력 증명한 두산퓨얼셀, 美 전력 시장 판도 흔든다",
-    "summary": "두산퓨얼셀이 해외 업체向 대규모 SOFC(고체산화물 연료전지) 공급 계약을 체결하며 주가가 25% 이상 급등했다. 독보적 기술력을 통해 美 전력 시장 확대 기회를 창출하는 긍정적 뉴스다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T14:24:40+09:00",
-    "importance": 2
+    "title": "중대재해 아니라지만’…현대건설 5007가구 반포 재건축 현장서 작업자 사망 - 위메이크뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbktnY2JadTRJenZHZlozYkJaUHFxT1FhcGM1SWwwU1E4MDdpdzEtODIxZmd1ZmMzWjBONm5GRlVVMktoZVpVWEVfU2N1SDFRdy1hRmp1YTExQTA?oc=5",
+    "description": "현대건설이 시공하는 서울 서초구 5007가구 규모의 초대형 재건축 현장에서 50대 근로자가 작업 중 쓰러져 숨졌다. 기사의",
+    "cluster_id": "61b2",
+    "publisher": "위메이크뉴스",
+    "title_clean": "중대재해 아니라지만’…현대건설 5007가구 반포 재건축 현장서 작업자 사망",
+    "summary": "현대건설의 서울 서초구 5007가구 대규모 재건축 현장에서 50대 작업자가 작업 중 사망하는 사고가 발생했다. 중대재해로 분류되지 않았으나 건설현장 안전 문제를 다시 부각시키는 사건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T17:44:44+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32192,21 +32207,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T06:14:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "지자체, MIS 정보 신뢰도 바닥…개선 방안 마련 시급 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51192",
-    "description": "기계설비 관련 행정업무의 효율성을 높이기 위해 기계설비산업정보체계(MIS)가 도입됐지만, 일선 지방자치단체에서는 MIS에서 제공하는 정보의 오류가 상당해 시스템에 대한 신뢰도가 저하되고 있는 것으로 나타났다.지난 5일 지자체 등에 따르면, 일선 행정현장에서 기계설비성능점검업체 관리, 성능점검 이행 여부 확인, 유지관리자 선임 대상 건축물의 현황 관리 등 기계설비법령에서 위임받은 행정업무 수행을 돕기 위해 마련된 기계설비산업정보체계(MIS)가 유지관리자 선임, 성능점검 대상 건축물 정보를 제대로 제공하지 못하고 있는 것으로 나타났다.",
-    "published_at": "2026-08-10T06:00:00+09:00",
-    "cluster_id": "c636",
-    "publisher": "기계설비신문",
-    "title_clean": "지자체, MIS 정보 신뢰도 바닥…개선 방안 마련 시급",
-    "summary": "기계설비산업정보체계(MIS)가 유지관리자 선임, 성능점검 대상 건축물 정보를 제대로 제공하지 못해 지자체의 신뢰도가 저하되고 있다. 시스템의 정보 오류가 상당하여 행정업무 수행에 차질이 발생 중이며 개선 방안 마련이 시급한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T06:14:49+09:00",
-    "importance": 4
   }
 ]
