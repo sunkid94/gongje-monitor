@@ -22001,6 +22001,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "태안군, 중대재해 예방 현장 점검 - 엠뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJSW5vMl9VNDZjcWpKMm9aOExBYVdlWHU0WERpVVZ4aUtUQ1lFY2FiQ2FEQ0RlRVZmRktHdmtGOGgxR2Y5ZFU1LWNLZDlpRFFTak14RnA2TG1Cc2Z0UTMzUVZzM0dBdw?oc=5",
+    "description": "태안군이 연일 이어지는 폭염 속에서 건설현장 근로자의 온열질환을 예방하고 산업재해를 사전 차단하기 위해 유관기관과 손잡고 고강도 현장 점검에 나...",
+    "published_at": "2026-08-12T19:20:24+09:00",
+    "cluster_id": "753f",
+    "publisher": "엠뉴스",
+    "title_clean": "태안군, 중대재해 예방 현장 점검",
+    "summary": "태안군이 폭염 속 건설현장의 온열질환 예방과 산업재해 차단을 위해 유관기관과 함께 현장 점검을 강화하고 있다. 근로자 안전을 위한 정부의 규제 및 감시 활동이 증대되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-13T07:34:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32181,22 +32197,6 @@
     "title_clean": "불황에도 12분기 연속 흑자…한샘, 오피스·고급주택으로 영토 넓힌다",
     "summary": "건설경기 침체 속에서 한샘이 12분기 연속 흑자를 기록하며 수익성 중심 경영으로 실적을 방어하고 있다. 비용 구조 개선으로 본업 수익성을 강화하는 동시에 오피스 가구와 고급 주거 시장으로 사업 영역을 확대하고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-10T09:58:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "AI·재해·안전 아이디어 찾는다…LH, 국토기술대전 개최 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202608100931458539",
-    "description": "주제는 환경, 재해·안전, 인공지능(AI), ESG, 스마트건설기술 등이다. 기후위기 대응 단지설계, AI 기반 위험요인 사전감지시스템, 에너지 관리시스템 등이 예시로 제시됐다. 공모 주제를 특정 분야에 한정하지 않은...",
-    "published_at": "2026-08-10T09:56:00+09:00",
-    "cluster_id": "f3b3",
-    "publisher": "fnnews.com",
-    "title_clean": "AI·재해·안전 아이디어 찾는다…LH, 국토기술대전 개최",
-    "summary": "LH가 환경, 재해·안전, AI, ESG, 스마트건설기술 등을 주제로 국토기술대전을 개최하여 혁신 아이디어를 공모한다. 기후위기 대응 단지설계, AI 기반 위험감지시스템, 에너지 관리시스템 등 건설업계의 기술혁신을 촉진하는 기회를 제공한다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-10T09:58:22+09:00",
     "importance": 2
   }
