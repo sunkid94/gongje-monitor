@@ -6047,23 +6047,6 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비협회, 기계설비 전문인력 양성 지원금 2억원 기탁 - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=332284",
-    "description": "대한기계설비협회(회장 허용주)가 기계설비 전문 인력 양성을 위해 지원금을 증액하고, 이를 전국 9개 기계설비 관련 대학교에 전달한다. 기계설비협회는 미래 기계설비산업을 이끌어 갈 인재를 양성하고, 교육 환경...",
-    "published_at": "2026-07-14T00:42:00+09:00",
-    "cluster_id": "45c6",
-    "publisher": "e2news.com",
-    "title_clean": "대한기계설비협회, 기계설비 전문인력 양성 지원금 2억원 기탁",
-    "summary": "대한기계설비협회가 기계설비 전문인력 양성을 위해 지원금 2억원을 증액하여 전국 9개 대학교에 기탁한다. 미래 산업을 이끌 인재 양성과 교육 환경 개선을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-14T00:50:21+09:00",
-    "event_label": "대한기계설비협회 기계설비 전문인력 양성 지원금 2억원 기탁",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22016,6 +21999,22 @@
     "summary": "IPARK현대산업개발이 운정 아이파크 포레스트 현장에서 CSO 주관으로 폭염 시기 온열질환 예방 캠페인을 실시했다. 안전 문화 강화 및 근로자 건강 보호 활동을 추진하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-05T14:49:45+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "삼성전자도 뛰어든 모듈러 주택, 공급 속도전 '첨병' 역할 - 스트레이트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mVlBucVJQa3ZVS1hkUDc4emtZQk84OFdiSVpHc0g2Wk5SbzU2SEVxZUtkTDNfQ1BqbkphVlRBWUhOX3FkaXZtY3RlbUk3VG5IOG9ZckFIUDY4Y3J5YS1jSXUyMlpKTmtuXzltdUE3MU5GclXSAXdBVV95cUxOak1iOFg4UTZIUG5nYnhfdVJRY19wSmlfVm43LVQ3NEFnMDd4Qlo1QnAtbFVrU05hUG16azlTWU1WQms4b1V0YjhBSlRHWWVxYkJtTmplRG1zSjVMWkl2UnhjejhJb2ZRaWNqYkdDUnVzNnRaLUJRUQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9mVlBucVJQa3ZVS1hkUDc4emtZQk84OFdiSVpHc0g2Wk5SbzU2SEVxZUtkTDNfQ1BqbkphVlRBWUhOX3FkaXZtY3RlbUk3VG5IOG9ZckFIUDY4Y3J5YS1jSXUyMlpKTmtuXzltdUE3MU5GclXSAXdBVV95cUxOak1iOFg4UTZIUG5nYnhfdVJRY19wSmlfVm43LVQ3NEFnMDd4Qlo1QnAtbFVrU05hUG16azlTWU1WQms4b1V0YjhBSlRHWWVxYkJtTmplRG1zSjVMWkl2UnhjejhJb2ZRaWNqYkdDUnVzNnRaLUJRUQ?oc=5\" target=\"_blank\">삼성전자도 뛰어든 모듈러 주택, 공급 속도전 '첨병' 역할</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스트레이트뉴스</font>",
+    "published_at": "2026-08-12T16:24:09+09:00",
+    "cluster_id": "1975",
+    "publisher": "스트레이트뉴스",
+    "title_clean": "삼성전자도 뛰어든 모듈러 주택, 공급 속도전 '첨병' 역할",
+    "summary": "삼성전자가 모듈러 주택 사업에 진출하며 건설업계의 공급 속도 경쟁이 본격화되고 있다. 모듈러 주택은 공장에서 부품을 생산해 현장에서 조립하는 방식으로 건설 기간 단축과 공급 확대를 가능하게 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-13T01:39:47+09:00",
     "importance": 2
   },
   {
