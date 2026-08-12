@@ -6199,21 +6199,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설협회, 전문인력 양성 지원금 2억원 전달 - energy-news.co.kr",
-    "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=226766",
-    "description": "대한기계설비건설협회(회장 허용주)가 기계설비 전문인력 양성을 위해 전국 9개 기계설비 관련 대학교에 지원금을 전달한다. 경상권을 대상으로 14일 국립창원대, 동의대, 대구공업대에, 충청권은 16일  폴리택대...",
-    "published_at": "2026-07-13T16:00:00+09:00",
-    "cluster_id": "ff03",
-    "publisher": "",
-    "title_clean": "기계설비건설협회, 전문인력 양성 지원금 2억원 전달 - energy-news.co.kr",
-    "summary": "대한기계설비건설협회가 기계설비 전문인력 양성을 위해 전국 9개 대학에 2억원의 지원금을 전달한다. 경상권, 충청권 등 전국 거점별로 단계적으로 기금을 지급할 예정이다.",
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 2분기 영업이익 1224억… 전년比 230%↑ - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbUxuVjlPTFJPYlBSMG1WYkNxUXJ5NWs4aV9FUmtSbGVIWGtta2h6VFRJa1VPb3dSQThxM0NGbzU1Snlka0ljY1UydUxQQmtrWEk0T2JhWmlNUQ?oc=5",
+    "description": "롯데건설, 2분기 영업이익 1224억… 전년比 230%↑, 원가율 88.8%로 낮추고, 부채비율 162.8%로 지속 감소&hellip; 수익성, 재무안정성 동반 개선 도시정비사업 및 개발사업 실적 호조&hellip; 선별 수주 및 체질 개선 효과 가시화",
+    "published_at": "2026-08-12T15:05:04+09:00",
+    "cluster_id": "a3a0",
+    "publisher": "한국경제",
+    "title_clean": "롯데건설, 2분기 영업이익 1224억… 전년比 230%↑",
+    "summary": "롯데건설이 2분기 영업이익 1224억원으로 전년 대비 230% 증가하며 수익성을 크게 개선했다. 원가율 88.8%, 부채비율 162.8%로 낮추면서 도시정비사업과 개발사업 실적 호조를 기반으로 체질 개선 효과를 가시화했다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-13T16:05:08+09:00",
-    "event_label": "대한기계설비건설협회 전문인력 양성 지원금 2억원 전달",
-    "importance": 5
+    "collected_at": "2026-08-12T16:09:12+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -22154,22 +22153,6 @@
     "summary": "조선 빅3이 2분기에 매출과 영업이익이 양호한 실적을 기록하고 있으며, 삼성중공업이 원유운반선 2척 수주로 상선 부문 수주 목표를 조기 달성했다. 슈퍼사이클이 지속되면서 조선업계의 호조세가 이어지고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-05T12:09:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 폭염 속 현장 찾아 '온열질환 예방' 캠페인 - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133950",
-    "description": "IPARK현대산업개발은 지난 4일 경기 운정 아이파크 포레스트 현장에서 CSO 주관의 혹서기 온열질환 예방 캠페인을 벌였다고 5일 밝혔다. 서울과 수도권에는 사상 첫 폭염중대경보가 발효됐고, 전국적으로 열대야와...",
-    "published_at": "2026-08-05T11:58:00+09:00",
-    "cluster_id": "5e8f",
-    "publisher": "newslock.co.kr",
-    "title_clean": "IPARK현대산업개발, 폭염 속 현장 찾아 '온열질환 예방' 캠페인",
-    "summary": "IPARK현대산업개발이 경기 운정 아이파크 포레스트 현장에서 폭염 속 근로자 온열질환 예방 캠페인을 실시했다. 안전보건 관리 강화로 현장 재해 예방에 앞장서고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-05T12:04:11+09:00",
     "importance": 2
   },
   {
