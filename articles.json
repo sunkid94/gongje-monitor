@@ -22053,6 +22053,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이천시, ‘노동안전의 날’ 건설현장 합동점검…산업재해 예방 강화 - 뉴스타운",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YNmpOTGNtdkNCMkptRE5fX0taMHdGOWhmX3RnOTNXdDloYVhjekxObVVvSzdudm1TTjZFVWxuOTltSVdDTExPTXN2Y2NTY0lORjhlSm16bzZ2dHJ6a3JGbGY1LUJzMFpTSUF6czNn?oc=5",
+    "description": "[뉴스타운/김준혁 기자] 이천시가 8월 ‘노동안전의 날’을 맞아 공공시설 신축현장을 대상으로 산업재해 예방 활동을 강화했다. 시 관계자와 노동안전지킴이는 관고동 보훈회관과 창전동 행정복지센터 신축현장을 합동 점검하고, 사업주와 현장 관계자가 위험요인을 직접 찾아 개선하는 안전관리체계 구축을 안내했다. 점검에서는 추락·끼임·충돌 등 건설현장의 주요 사고 위험과 작업별 안전조치 이행 여부를 집중적으로 살폈다. 현장 노동자가 위험요인을 발견하면 즉시 관리자에게 알리고 개선 이후 작업을 재개하는 참여형 안전문화의 중요성도 강조했다. 폭염이",
+    "published_at": "2026-08-12T22:39:41+09:00",
+    "cluster_id": "41d7",
+    "publisher": "뉴스타운",
+    "title_clean": "이천시, ‘노동안전의 날’ 건설현장 합동점검…산업재해 예방 강화",
+    "summary": "이천시가 '노동안전의 날'을 맞아 공공시설 신축현장에 대한 합동점검을 실시하고 산업재해 예방 활동을 강화했다. 추락·끼임·충돌 등 주요 사고 위험을 점검하고 현장 노동자 참여형 안전문화 구축을 강조했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T22:49:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32184,22 +32200,6 @@
     "publisher": "smarttoday.co.kr",
     "title_clean": "LH, ‘제17회 국토기술대전’ 개최…28일까지 작품 접수",
     "summary": "LH가 제17회 국토기술대전을 개최하며 그린단지, AI, ESG, 스마트건설기술 등을 주제로 한 혁신 기술 제안을 28일까지 접수한다. 건설업계의 미래 기술 개발과 산업 혁신을 촉진하는 플랫폼을 제공하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T09:38:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 국토·도시 기술 아이디어 공모…28일까지 대학생 작품 접수 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=115226",
-    "description": "/사진=LH 한국토지주택공사(LH)가 재해·안전과 인공지능(AI), 환경, 스마트건설 등 국토·도시 분야에 적용할 수 있는 기술 아이디어를 발굴하기 위해 대학(원)생 대상 공모전을 연다. LH는 '제17회 LH 국토기술대전'을...",
-    "published_at": "2026-08-10T09:34:00+09:00",
-    "cluster_id": "36de",
-    "publisher": "businessplus.kr",
-    "title_clean": "LH, 국토·도시 기술 아이디어 공모…28일까지 대학생 작품 접수",
-    "summary": "LH가 재해·안전, AI, 환경, 스마트건설 등 국토·도시 분야 기술 아이디어 발굴을 위해 대학(원)생 대상 공모전을 개최한다. 혁신 기술 발굴을 통해 건설산업의 미래 경쟁력 강화 및 신규 사업 기회 창출을 추진하는 것으로 보인다.",
     "sentiment": "positive",
     "collected_at": "2026-08-10T09:38:27+09:00",
     "importance": 2
