@@ -6318,6 +6318,22 @@
     "importance": 6
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "씨엔플러스, 초대형 해상 풍력발전기 설치공사 수주 - 철강금속신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Iel9IQzc2V0NGb3otMTNjckdkM19SMWhTQTN6UW5DZ2I5aFBmbGFZN2Zwd3ZTVHhpb2cyZUVLVlRTVFdUM0daNzBVanRmQUkyRERrTlFfRWNveXpKNkt6aFVjWm1pRkRi?oc=5",
+    "description": "씨엔플러스가 국내 전남 영광 실증단지에서 두산에너빌리티의 10MW 초대형 해상 풍력발전기 설치 공사를 맡는다.씨엔플러스는 두산에너빌리티로부터 전남 영광 실증단지 내 &#39;K-WIND 10MW 설치공사&#39;를 수주하고 본계약을 체결했다고 11일 밝혔다. 계약금액은 약 52억 1,116만원(VAT 포함)이며, 공사 기간은 이달 11일부터 12월 31일까지다.이번 수주는 씨엔플러스가 초대형 해상 풍력발전기 시공 시장에서 입지를 굳히는 계기라는 점에서 의미가 있다.공사 대상인 두산에너빌리티의 10MW급 해상풍력발전기(DS205-10",
+    "published_at": "2026-08-12T12:00:00+09:00",
+    "cluster_id": "2eaf",
+    "publisher": "철강금속신문",
+    "title_clean": "씨엔플러스, 초대형 해상 풍력발전기 설치공사 수주",
+    "summary": "씨엔플러스가 두산에너빌리티로부터 전남 영광 실증단지의 10MW 초대형 해상 풍력발전기 설치공사를 약 52억 원 규모로 수주했다. 11월부터 12월까지 공사를 진행하며, 초대형 해상 풍력발전기 시공 시장에서의 입지 강화를 기대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-12T12:09:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22258,20 +22274,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "'대우건설, 실적 서프라이즈·수주 가이던스 상향…'매수' 유지' -다올 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02797846645544368",
-    "description": "다올투자증권은 대우건설(047040)에 대해 실적 서프라이즈와 수주 가이던스가 상향됐다며 적정주가 2만4000원, 투자의견 ‘매수(BUY)’를 유지한다고 5일 밝혔다. 박영도 다올투자증권 연구원은 이날 보고서에서...",
-    "published_at": "2026-08-05T08:01:00+09:00",
-    "cluster_id": "4c18",
-    "publisher": "edaily.co.kr",
-    "title_clean": "'대우건설, 실적 서프라이즈·수주 가이던스 상향…'매수' 유지' -다올",
-    "summary": "다올투자증권이 대우건설의 실적 서프라이즈와 수주 가이던스 상향을 긍정적으로 평가하며 매수 의견을 유지했다. 적정주가는 2만4000원으로 제시됐다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T08:09:33+09:00",
-    "importance": 3
+    "title": "[2026 시공능력평가] [코오롱글로벌] 5계단 추락…주택 침체에 20위권 밖... - dealsite.co.kr",
+    "link": "https://dealsite.co.kr/articles/166800",
+    "description": "최근 건설경기 침체와 주택사업 위축의 영향으로 공사실적과 경영평가가 모두 둔화되면서 20위권 밖으로 밀려난 것으로 분석된다. 10일 국토교통부가 최근 발표한 '2026년 시공능력평가'에 따르면 코오롱글로벌의...",
+    "published_at": "2026-08-12T12:02:00+09:00",
+    "cluster_id": "d4bb",
+    "publisher": "dealsite.co.kr",
+    "title_clean": "[2026 시공능력평가] [코오롱글로벌] 5계단 추락…주택 침체에 20위권 밖...",
+    "summary": "코오롱글로벌이 2026년 시공능력평가에서 5계단 하락하여 20위권 밖으로 밀려났다. 건설경기 침체와 주택사업 위축으로 인한 공사실적 악화와 경영평가 둔화가 주요 원인이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T12:09:14+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32205,21 +32221,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-09T09:12:41+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "신축 줄고 리모델링 뜨자…건설업계, 로봇·모듈러로 방향 튼다 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026080822331962273",
-    "description": "건설경기 침체와 리모델링 시장 확대가 동시에 진행되면서, 건설·인테리어 업계의 기술 개발과 신제품 전략도 이에 맞춰 재편되고 있다. 국토교통부에 따르면 올해 1~5월 전국 주택매매 거래량은 지난해 같은 기간보다 15....",
-    "published_at": "2026-08-09T09:01:00+09:00",
-    "cluster_id": "9a22",
-    "publisher": "imaeil.com",
-    "title_clean": "신축 줄고 리모델링 뜨자…건설업계, 로봇·모듈러로 방향 튼다",
-    "summary": "건설경기 침체로 신축 사업이 감소하는 가운데 리모델링 시장이 확대되면서 건설업계가 로봇과 모듈러 공법 등 새로운 기술로 사업 방향을 전환하고 있다. 이는 변화된 시장 환경에 대응하기 위한 업계의 구조적 재편 움직임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-09T09:07:50+09:00",
-    "importance": 3
   }
 ]
