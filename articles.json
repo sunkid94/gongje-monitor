@@ -6301,6 +6301,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "韓 조선, 7월 글로벌 수주 점유율 16%…中 81% 압도적 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kbGtpOWFNRkRqMVcxT1A2bzJRbk01SEZWSGxYMGFzaHN2dE50TzhOYXJPZzFCNFFxNVlyZy1VVEE1bUxvQ3NOZ2ljVHFyVGx2dEg0?oc=5",
+    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 삼성중공업이 건조한 LNG운반선 ⓒ삼성중공업 국내 조선 업계가 지난달 전 세계 선박 발주량의 16%를 수주한 것으로 나타났다. 중국은 80% 이상의 점유율을 기록하며 한국과의 격차를 벌렸다. 12일 영국 조선·해운 시황 분석기관 클락슨리서치에 따르면",
+    "published_at": "2026-08-12T14:41:00+09:00",
+    "cluster_id": "6be2",
+    "publisher": "네이트",
+    "title_clean": "韓 조선, 7월 글로벌 수주 점유율 16%…中 81% 압도적",
+    "summary": "한국 조선업이 7월 글로벌 선박 수주에서 16%의 점유율을 기록했으나, 중국이 80% 이상으로 압도적 우위를 차지하고 있다. 한중 조선업의 시장 격차가 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-12T14:58:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22240,22 +22256,6 @@
     "summary": "대우건설이 2분기에 일회성 이익을 제외하고도 견실한 실적 개선을 기록했으며, 주택·건축 부문의 높은 수익성(GPM 15.6%)과 긍정적 현금 흐름이 확인됐다. IBK투자증권은 매수 의견과 3만1000원 목표주가를 유지했다.",
     "sentiment": "positive",
     "collected_at": "2026-08-05T09:09:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IBK투자증권 \"대우건설, 실적보다 주목할 점은 '수주' 목표 상향\" - g-enews.com",
-    "link": "https://www.g-enews.com/view.php?ud=20260805084151411044093b5d4e_1",
-    "description": "​ IBK투자증권은 5일 대우건설에 대해 실적보다 주목할 부분은 신규 수주 목표를 기존 18조원에서 27조원으로 50.0% 상향한 점에 있다고 짚었다. 투자의견 ‘매수’, 목표주가 3만 1000원을 유지했다. 대우건설의 2분기...",
-    "published_at": "2026-08-05T08:54:00+09:00",
-    "cluster_id": "be42",
-    "publisher": "",
-    "title_clean": "IBK투자증권 \"대우건설, 실적보다 주목할 점은 '수주' 목표 상향\" - g-enews.com",
-    "summary": "IBK투자증권이 대우건설의 신규 수주 목표를 18조원에서 27조원으로 50% 상향한 점을 주목했으며, 투자의견 '매수'와 목표주가 3만 1000원을 유지했다. 이는 건설업계의 수주 증가라는 긍정적 신호를 시사한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T08:59:18+09:00",
     "importance": 2
   },
   {
