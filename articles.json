@@ -22001,6 +22001,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설수주 1806.5% 급증에도… 관광객 8.4만명 줄며 제주경제 둔화 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202608130742076327",
+    "description": "제주경제가 건설수주 급증과 고용률 상승에도 관광객 감소와 소비심리 악화로 둔화 흐름을 이어갔다. 특히 제주경제에서 비중이 큰 관광은 7월에도 내국인 감소세가 이어졌고, 소비 증가세도 한풀 꺾였다. 13일...",
+    "published_at": "2026-08-13T07:52:00+09:00",
+    "cluster_id": "feaf",
+    "publisher": "fnnews.com",
+    "title_clean": "건설수주 1806.5% 급증에도… 관광객 8.4만명 줄며 제주경제 둔화",
+    "summary": "제주경제가 건설수주 1806.5% 급증으로 건설업계에는 호재를 가져왔으나, 관광객 감소와 소비심리 악화로 지역경제 전반은 둔화 흐름을 지속하고 있다. 건설업은 수주 호황에도 불구하고 지역경제 전망은 부정적이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-13T07:59:24+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32182,22 +32198,6 @@
     "summary": "DL이앤씨가 연속된 폭염에 대응하여 전국 건설현장의 혹서기 안전관리를 강화하고 있다. 대표가 직접 현장을 방문하여 근로자 건강 보호를 위한 안전실태 점검을 실시했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-10T10:03:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "몸집 키우려는 서귀포항, 일부 시설 잘라낸다 - jejusori.net",
-    "link": "https://www.jejusori.net/news/articleView.html?idxno=505430",
-    "description": "김종수 해양수산국장은 \"서귀포항 재정비 공사가 준공되면 무역항으로서의 접안능력이 향상되고 안전한 입·출항 여건이 조성될 것으로 기대한다\"며 \"지역경제 활성화는 물론 침체된 제주 건설경기 회복에도 도움이...",
-    "published_at": "2026-08-10T09:56:00+09:00",
-    "cluster_id": "75e7",
-    "publisher": "jejusori.net",
-    "title_clean": "몸집 키우려는 서귀포항, 일부 시설 잘라낸다",
-    "summary": "서귀포항 재정비 공사를 통해 항만 시설을 현대화하고 무역항으로서의 기능을 강화한다. 공사 준공 시 입출항 안전성 향상과 지역경제 활성화, 제주 건설경기 회복에 긍정적 영향을 미칠 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T09:58:22+09:00",
     "importance": 2
   }
 ]
