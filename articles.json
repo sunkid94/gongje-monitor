@@ -22528,6 +22528,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국노총 전국건설·기계일반노동조합-(사)장애인미래에너지창조연합회, 노사 화합·일자리 창출 업무협약 체결 - 충남일보",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02X1ZtRmpObGtQbWZvdlhGUzhFR3M5TUpYb1hxR2t0V1hPNVUzamh1el93bjZhWUZFZU5fREs1dEZIYVByandLY1JtY2hyeGF3WWhEb3VNQzR1Zk13SHlRdF9aeHVRSF8yWkZEY1JLUGc4ZVE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE02X1ZtRmpObGtQbWZvdlhGUzhFR3M5TUpYb1hxR2t0V1hPNVUzamh1el93bjZhWUZFZU5fREs1dEZIYVByandLY1JtY2hyeGF3WWhEb3VNQzR1Zk13SHlRdF9aeHVRSF8yWkZEY1JLUGc4ZVE?oc=5\" target=\"_blank\">한국노총 전국건설·기계일반노동조합-(사)장애인미래에너지창조연합회, 노사 화합·일자리 창출 업무협약 체결</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">충남일보</font>",
+    "cluster_id": "239c",
+    "publisher": "충남일보",
+    "title_clean": "한국노총 전국건설·기계일반노동조합-(사)장애인미래에너지창조연합회, 노사 화합·일자리 창출 업무협약 체결",
+    "summary": "한국노총 전국건설·기계일반노동조합과 장애인미래에너지창조연합회가 노사 화합과 일자리 창출을 위한 업무협약을 체결했다. 건설·기계설비 산업에서 장애인 고용 확대 및 사회적 책임을 강화하는 내용으로 추진된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-13T23:06:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32207,22 +32222,6 @@
     "summary": "음성군이 폭염 경보 속 건설현장과 무더위쉼터에 대한 밀착 점검을 실시 중. 청년농촌보금자리 조성공사, 갑산소하천 정비사업 등 주요 현장에서 근로자 안전관리 및 취약계층 보호 상황을 확인.",
     "sentiment": "neutral",
     "collected_at": "2026-08-10T22:08:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "UPA, 항만 건설현장 안전사고 예방 총력 - ujeil.com",
-    "link": "http://www.ujeil.com/news/articleView.html?idxno=390163",
-    "description": "울산항만공사 임직원들이 건설안전기술사와 함께 항만 건설현장의 안전관리 실태를 점검하고 있다. 사진제공=UPA 울산항만공사(UPA)가 항만 건설현장의 안전사고를 예방하고 자율적인 안전관리 체계를 정착시키기 위해...",
-    "published_at": "2026-08-10T22:00:00+09:00",
-    "cluster_id": "644c",
-    "publisher": "ujeil.com",
-    "title_clean": "UPA, 항만 건설현장 안전사고 예방 총력",
-    "summary": "울산항만공사(UPA)가 항만 건설현장의 안전사고 예방을 위해 건설안전기술사와 함께 안전관리 실태를 점검하고 자율적 안전관리 체계를 정착시키고 있다. 건설현장의 안전성 강화를 통해 산업재해를 사전에 방지하려는 움직임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T22:03:38+09:00",
     "importance": 2
   }
 ]
