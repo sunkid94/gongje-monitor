@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "기계설비건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비협회, 기계설비 홍보 강화…컬러링 서비스 도입 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRXVpX3RDWkdWb2N4Q0IwRVhnNjlrTVZyejF2UW9rREhKNVlWdFdJWjlJTElXSzVYRGVsT3UwV19HOWppcm9qVDdNQXpoOU9mR1VvMGIwSDJVLUZiRGpxU2dIRklmVzdoY1Bucw?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRXVpX3RDWkdWb2N4Q0IwRVhnNjlrTVZyejF2UW9rREhKNVlWdFdJWjlJTElXSzVYRGVsT3UwV19HOWppcm9qVDdNQXpoOU9mR1VvMGIwSDJVLUZiRGpxU2dIRklmVzdoY1Bucw?oc=5\" target=\"_blank\">기계설비협회, 기계설비 홍보 강화…컬러링 서비스 도입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
+    "cluster_id": "ad83",
+    "publisher": "기계설비신문",
+    "title_clean": "기계설비협회, 기계설비 홍보 강화…컬러링 서비스 도입",
+    "summary": "기계설비협회가 기계설비 산업의 홍보 강화를 위해 컬러링 서비스를 새로 도입하기로 결정했다. 이는 기계설비 건설 산업에 대한 인지도 제고 및 긍정적 이미지 형성을 위한 마케팅 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-14T07:11:24+09:00",
+    "event_label": "기계설비협회 컬러링 서비스 도입을 통한 홍보 강화",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -6585,6 +6601,22 @@
     "collected_at": "2026-07-15T09:42:05+09:00",
     "event_label": "기계설비건설공제조합 모바일·AI 기반 차세대 디지털 플랫폼 출시",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[비바100] 낡은 집에서 몸테크? 이젠 ‘사는 맛’ 따진다 - viva100.com",
+    "link": "https://www.viva100.com/article/20260715500487",
+    "description": "대우건설은 서울시 성북구 장위동 일원에서 장위10재정비촉진구역 주택재개발 정비사업을 통해 ‘장위 푸르지오 마크원’을 분양 중이다. 지하 5층~지상 35층, 23개 동, 총 1931가구 규모의 대단지로 조성되며, 이 중...",
+    "published_at": "2026-08-14T07:02:00+09:00",
+    "cluster_id": "bd2c",
+    "publisher": "viva100.com",
+    "title_clean": "[비바100] 낡은 집에서 몸테크? 이젠 ‘사는 맛’ 따진다",
+    "summary": "대우건설이 서울 성북구 장위동에서 1931가구 규모의 대단지 '장위 푸르지오 마크원'을 분양 중이다. 소비자들의 주거 품질 향상 요구에 따라 고급 아파트 수요가 증가하는 추세를 반영한 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-14T07:11:24+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -22527,19 +22559,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 상반기 매출 3조 9949억원, 영업이익 4879억원 - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqLXpsVDZPd3F2S3hWa1Y3UDVyU3ppSm9ZS1RCNV9lalZxRHNCeUJvU0wwbUVQYTRCeDMwdFBUVVFzdS1KUlJxMkw4V3F2dTM1NmotSVVjN0pjcDhHSjhZWkdKUE16NzlUejNr?oc=5",
-    "description": "대우건설(대표이사 김보현)은 4일 공시를 통해 2026년 상반기 경영실적(연결기준)을 잠정 집계한 결과, 매출 3조 9949억원, 영업이익 4879억원, 당기순이익 3630억원을 기록했다고 밝혔다. 이와 함께 올해 신규 수주 목표를 기존 18조원에서 27조원으로 상향 조정했다고 발표했다.상반기 매출은 3조 9949억원으로 전년 동기(4조 3500억원) 대비 8.2% 감소했다. 사업부문별로는 ▲건축사업부문 2조 6656억원 ▲토목사업부문 7433억원 ▲플랜트사업부문 5115억원 ▲기타연결종속부문 745억원의 매출을 기록했다.반면 영업",
-    "published_at": "2026-08-05T11:15:19+09:00",
-    "cluster_id": "7ac3",
-    "publisher": "한국건설신문",
-    "title_clean": "대우건설, 상반기 매출 3조 9949억원, 영업이익 4879억원",
-    "summary": "대우건설이 2026년 상반기 매출 3조 9949억원, 영업이익 4879억원을 기록했으며, 전년 동기 대비 매출은 8.2% 감소했다. 신규 수주 목표를 18조원에서 27조원으로 50% 상향 조정하며 하반기 실적 개선을 기대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-06T09:54:05+09:00",
+    "title": "[CEO워치] 김영범 코오롱글로벌 대표, 취임 첫 해 ‘비주택’으로 실적... - ceoscoredaily.com",
+    "link": "https://www.ceoscoredaily.com/page/view/2026081314031692344",
+    "description": "이는 주택시장 침체 등 건설경기 악화에 따른 사업 변동성을 줄이고 안정적인 수익 기반을 만들겠다는 의지로 풀이된다. 이를 위해 비주택 부문 수주를 확대하는 모습이다. 올해 상반기 기준 코오롱글로벌의 신규...",
+    "published_at": "2026-08-14T07:02:00+09:00",
+    "cluster_id": "85be",
+    "publisher": "ceoscoredaily.com",
+    "title_clean": "[CEO워치] 김영범 코오롱글로벌 대표, 취임 첫 해 ‘비주택’으로 실적...",
+    "summary": "김영범 코오롱글로벌 대표가 취임 첫 해 주택시장 침체에 대응하여 비주택 부문 수주 확대에 집중하고 있다. 주택 의존도를 줄이고 사업 변동성을 감소시켜 안정적 수익 기반을 구축하려는 전략이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-14T07:11:24+09:00",
     "importance": 2
   },
   {
@@ -32186,38 +32218,6 @@
     "summary": "인천의 건설 현장에서 폭염으로 인한 온열질환이 증가하고 있으며, 근로자들이 휴게시간에도 제대로 쉴 수 있는 그늘진 공간이 부족한 실정이다. 건설근로자 등에서 온열질환 발생이 30%에 달하는 것으로 나타났다.",
     "sentiment": "negative",
     "collected_at": "2026-08-11T05:38:32+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“이민 단속한다며 내 집 무단 진입” 연방정부 제소 - koreadaily.com",
-    "link": "https://www.koreadaily.com/article/20260810125838265",
-    "description": "소장에 따르면 CBP 요원들은 작년 10월 24일, 펠러가 출장을 떠난 사이 노스 레이크우드 애비뉴에 있는 그의 집에 진입해 앞마당에서 작업 중이던 건설 노동자들을 조사하고 이 가운데 1 명을 체포했다. 펠러는 보안...",
-    "published_at": "2026-08-11T05:00:00+09:00",
-    "cluster_id": "f559",
-    "publisher": "koreadaily.com",
-    "title_clean": "“이민 단속한다며 내 집 무단 진입” 연방정부 제소",
-    "summary": "미국 CBP(국경수비대) 요원들이 이민 단속을 명목으로 주인 허락 없이 주택에 무단 진입해 건설 노동자를 조사·체포한 사건. 주택 소유자가 연방정부를 상대로 제소함.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T05:08:32+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "시카고 첫 카지노 발리스, 부대시설 공사 중단 - koreadaily.com",
-    "link": "https://www.koreadaily.com/article/20260810125518228",
-    "description": "이번 공사 중단으로 약 1천500명의 건설 노동자들이 영향을 받을 전망이다. 발리스는 공사 중단 기간이나 재개 시점을 밝히지 않았다. 또 오는 9월 예정된 연간 400만 달러 규모의 시 납부금 지급을 보류하는 방안도...",
-    "published_at": "2026-08-11T04:56:00+09:00",
-    "cluster_id": "11e4",
-    "publisher": "koreadaily.com",
-    "title_clean": "시카고 첫 카지노 발리스, 부대시설 공사 중단",
-    "summary": "시카고 첫 카지노인 발리스가 부대시설 공사를 중단하면서 약 1,500명의 건설 노동자가 영향을 받게 되었다. 공사 중단 기간과 재개 시점이 불명확하며, 시 납부금 지급도 보류되는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T04:58:34+09:00",
     "importance": 4
   }
 ]
