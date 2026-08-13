@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "대전교육청, 장학금 1천500만원 기탁…지역 학생 후원 이어져 - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093844",
+    "description": "대전시교육청은 13일 교육감실에서 ㈜이노솔루텍으로부터 대전행복교육장학금 500만 원, 대한기계설비건설협회 대전세종충남도회로부터 1천만 원을 각각 기탁받았다고 밝혔다. 기탁금은 대전행복교육장학재단을 통해...",
+    "published_at": "2026-08-13T18:43:00+09:00",
+    "cluster_id": "f875",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "대전교육청, 장학금 1천500만원 기탁…지역 학생 후원 이어져",
+    "summary": "대전시교육청이 ㈜이노솔루텍과 대한기계설비건설협회 대전세종충남도회로부터 각각 500만 원, 1천만 원의 장학금을 기탁받았다. 기탁금은 지역 학생 후원에 사용될 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-13T18:51:54+09:00",
+    "event_label": "대한기계설비건설협회 교육 장학금 기탁",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "대구시 대형 공공공사 공구분할 제도화… 건설 침체 정면 돌파 - newsclaim.co.kr",
     "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072001",
     "description": "이날 회의에 참석한 대한건설협회, 대한전문건설협회, 대한기계설비건설협회 등 대구 지역 건설 단체들은 일제히 환영 성명을 발표했습니다. 건설업계 관계자들은 \"이번 대책은 수주 물량 확대와 하도급률 제고...",
@@ -22427,6 +22444,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "홍현영 수원학연구센터 연구원 \"수원비행장 이전, 또 다른 희생 강요해... - kihoilbo.co.kr",
+    "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031672",
+    "description": "수원비행장이 수원시민들에게 어떤 영향을 줬는지 묻는 질문에 홍 연구원은 \"당시 주민들이 남긴 일기 등 자료를 보면 비행장 건설 노동력 확보 위해 주민들을 동원했다\"며 \"장지리 등 일부 주민들이 원치 않게 살던 곳을...",
+    "published_at": "2026-08-13T18:40:00+09:00",
+    "cluster_id": "96f2",
+    "publisher": "kihoilbo.co.kr",
+    "title_clean": "홍현영 수원학연구센터 연구원 \"수원비행장 이전, 또 다른 희생 강요해...",
+    "summary": "수원학연구센터 연구원이 수원비행장 이전 논란과 관련해 역사적 문제점을 지적했다. 과거 비행장 건설 당시 주민 동원과 강제이주 등의 피해 사례를 언급하며 비판적 입장을 제시했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-13T18:51:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32195,36 +32228,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T18:09:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "영산대 스마트건설교통공학과, 청소년 드론 경진대회 운영 - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1394463",
-    "description": "사진=영산대 제공 와이즈유 영산대학교가 2027학년도 신설 예정인 스마트건설교통공학과의 전문성을 활용해 지역 청소년을 대상으로 한 드론 콘텐츠 경연을 운영했다. 영산대 스마트건설교통공학과는 경남로봇랜드...",
-    "published_at": "2026-08-10T18:00:00+09:00",
-    "cluster_id": "437e",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "영산대 스마트건설교통공학과, 청소년 드론 경진대회 운영",
-    "summary": "영산대학교가 2027학년도 신설 예정인 스마트건설교통공학과의 전문성을 활용하여 지역 청소년 대상 드론 경진대회를 운영했다. 건설·교통 분야 인재 양성 및 드론 기술 확산에 기여하는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T18:09:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "강원도, 폭염 장기화에 건설현장 안전조치 강화 ::::: 기사 - 춘천MBC",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yaGZZSEZnTkF3a1RrOXR5ZGFHRmVuSy1wUUlYekxVMEZQUVg5UjRidVNRd2pRNXQ3aUc4T3VlRW16clVNWXhnMXhBaFY?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yaGZZSEZnTkF3a1RrOXR5ZGFHRmVuSy1wUUlYekxVMEZQUVg5UjRidVNRd2pRNXQ3aUc4T3VlRW16clVNWXhnMXhBaFY?oc=5\" target=\"_blank\">강원도, 폭염 장기화에 건설현장 안전조치 강화 ::::: 기사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">춘천MBC</font>",
-    "cluster_id": "638e",
-    "publisher": "춘천MBC",
-    "title_clean": "강원도, 폭염 장기화에 건설현장 안전조치 강화 ::::: 기사",
-    "summary": "강원도가 폭염 장기화에 따른 건설현장의 안전 위험에 대응하기 위해 안전조치를 강화하고 있다. 이는 건설현장 근로자 보호와 사고 예방을 위한 행정 조치로, 업계에 추가 비용과 규제 부담을 초래할 수 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T18:09:30+09:00",
-    "importance": 4
   }
 ]
