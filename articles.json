@@ -22444,6 +22444,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, PF 우발채무 7200억 줄었다 - 모바일한경",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0FER0x3NWRjTldxTmU4OGtYRmZmSkNWUmhSRjhtVXlNNmlRMU9SbWpPb1N5cWdDM1VXc3JhOTVuT3pqdlR5QjNCVlVzUW9MVlNaazdOdHpaMklaX0xpSHVZX0s1YmlIT3JVbnZyU1p3empITmRiSXZwbmV5djZkeDlSMUd3cEhGazc3ZTZxYmlkYS16MXhIdlN5OXI1LXZFSWRNYTVxN010WWhSMVE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0FER0x3NWRjTldxTmU4OGtYRmZmSkNWUmhSRjhtVXlNNmlRMU9SbWpPb1N5cWdDM1VXc3JhOTVuT3pqdlR5QjNCVlVzUW9MVlNaazdOdHpaMklaX0xpSHVZX0s1YmlIT3JVbnZyU1p3empITmRiSXZwbmV5djZkeDlSMUd3cEhGazc3ZTZxYmlkYS16MXhIdlN5OXI1LXZFSWRNYTVxN010WWhSMVE?oc=5\" target=\"_blank\">롯데건설, PF 우발채무 7200억 줄었다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">모바일한경</font>",
+    "cluster_id": "b41b",
+    "publisher": "모바일한경",
+    "title_clean": "롯데건설, PF 우발채무 7200억 줄었다",
+    "summary": "롯데건설이 PF 우발채무 7200억 원을 감소시켰다. 이는 건설사의 재무 건전성 개선 및 PF 위험 완화를 의미하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-13T19:11:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32211,22 +32226,6 @@
     "summary": "영산대학교가 2027학년도 신설 예정인 스마트건설교통공학과의 전문성을 기반으로 지역 청소년을 대상으로 드론 콘텐츠 경연을 개최했다. 이는 건설·교통 분야의 미래 인재 양성 및 드론 기술 활성화 노력을 보여주는 사례다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-10T18:14:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재건축] 낙원아파트 재건축, 시공자 입찰공고 '재출항' - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94797",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제9조에 따른 건설사업자 또는 「주택법」 제7조제1항에 따라 건설업자로 보는 등록사업자 현설에 참석해 조합이 배부하는...",
-    "published_at": "2026-08-10T18:06:00+09:00",
-    "cluster_id": "2ad9",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재건축] 낙원아파트 재건축, 시공자 입찰공고 '재출항'",
-    "summary": "낙원아파트 재건축 사업의 시공자 입찰공고가 재진행된다. 일반경쟁입찰 방식으로 진행되며 건설사업자 및 등록사업자가 참여 가능하다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T18:09:30+09:00",
     "importance": 2
   }
 ]
