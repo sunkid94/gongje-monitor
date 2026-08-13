@@ -22528,6 +22528,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "집 짓는 돈은 풀고, 집 살 돈은 잠근 정권… \"산수도 못 하는 관료주의... - ngonews.kr",
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=235446",
+    "description": "건설경기 불황으로 고사 직전에 몰린 건설사와 개발업자들에게 숨통을 터주는 조치 자체를 부정할 수는 없다. 건설 시장이 완전히 무너지면 건설 현장 근로자, 인테리어·자재 업체, 골목상권 등 서민 경제 전체로 위험이...",
+    "published_at": "2026-08-13T22:56:00+09:00",
+    "cluster_id": "edf0",
+    "publisher": "ngonews.kr",
+    "title_clean": "집 짓는 돈은 풀고, 집 살 돈은 잠근 정권… \"산수도 못 하는 관료주의...",
+    "summary": "건설경기 불황으로 어려움을 겪는 건설사와 개발업자에 대한 정부 지원 조치를 평가하면서, 주택 공급 정책의 모순을 지적하고 있습니다. 건설 시장 붕괴 시 근로자와 서민 경제 전반에 미칠 악영향을 우려하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-13T23:01:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32208,20 +32224,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-10T22:03:38+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "강원도, 폭염 장기화에 건설현장 안전조치 강화 > 뉴스데스크 - mbceg.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UdnFYa3lvbmVFZE9UUWtZSHdyMVNFUVptY3Z3WnhBS2k0d1owaC1ObzFvWk81TkcwcExtdVZpS19pd2hEWjRaSEdQbw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UdnFYa3lvbmVFZE9UUWtZSHdyMVNFUVptY3Z3WnhBS2k0d1owaC1ObzFvWk81TkcwcExtdVZpS19pd2hEWjRaSEdQbw?oc=5\" target=\"_blank\">강원도, 폭염 장기화에 건설현장 안전조치 강화 > 뉴스데스크</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mbceg.co.kr</font>",
-    "cluster_id": "29ca",
-    "publisher": "mbceg.co.kr",
-    "title_clean": "강원도, 폭염 장기화에 건설현장 안전조치 강화 > 뉴스데스크",
-    "summary": "강원도가 폭염 장기화에 따른 건설현장의 안전 문제에 대응하기 위해 안전조치를 강화하고 있다. 이는 폭염으로 인한 건설근로자의 건강 피해 예방 및 현장 사고 방지를 위한 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T21:53:39+09:00",
-    "importance": 4
   }
 ]
