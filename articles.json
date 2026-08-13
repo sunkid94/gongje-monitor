@@ -6571,6 +6571,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 파푸아뉴기니 LNG 프로젝트 CPF EPC 우선협상대상자 선정 - ttlnews.com",
+    "link": "http://www.ttlnews.com/news/articleView.html?idxno=3133944",
+    "description": "대우건설이 오세아니아 지역의 대형 에너지 개발 사업에서 핵심 시설 건설을 전담하는 우선협상대상자 지위를 확보하며 글로벌 EPC(설계·조달·시공) 시장 내 입지를 다시 한번 다졌다. 대우건설은 프랑스 에너지...",
+    "published_at": "2026-08-13T22:28:00+09:00",
+    "cluster_id": "c735",
+    "publisher": "ttlnews.com",
+    "title_clean": "대우건설, 파푸아뉴기니 LNG 프로젝트 CPF EPC 우선협상대상자 선정",
+    "summary": "대우건설이 파푸아뉴기니 LNG 프로젝트 CPF(중앙처리시설) EPC 우선협상대상자로 선정되었다. 이는 건설사의 글로벌 EPC 시장 내 경쟁력을 입증하며 대형 에너지 개발 사업 수주 성과이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-13T22:41:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22512,18 +22528,18 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "올 公共공사 최대어 ‘용인 첨단시스템반도체 국가산업단지 조성공사 1공구’ 누구 품에 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JZmlDUHA5TEpaRzJUVW5xTU5yaGx2eERpMl9ySTJrUElERjhWX0xocGNkNFFtMDNnZzY3RWUxWjhMTE9QUVpfRWZuWTUzR0dzTFFZXzhYbUdrMVBFenFHVkJwLTg3TUI4Yk5EUldsTlFSTUJa?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9JZmlDUHA5TEpaRzJUVW5xTU5yaGx2eERpMl9ySTJrUElERjhWX0xocGNkNFFtMDNnZzY3RWUxWjhMTE9QUVpfRWZuWTUzR0dzTFFZXzhYbUdrMVBFenFHVkJwLTg3TUI4Yk5EUldsTlFSTUJa?oc=5\" target=\"_blank\">올 公共공사 최대어 ‘용인 첨단시스템반도체 국가산업단지 조성공사 1공구’ 누구 품에</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "d6c7",
-    "publisher": "대한경제",
-    "title_clean": "올 公共공사 최대어 ‘용인 첨단시스템반도체 국가산업단지 조성공사 1공구’ 누구 품에",
-    "summary": "용인 첨단시스템반도체 국가산업단지 조성공사 1공구가 올해 공공공사 최대 규모 프로젝트로 추진되고 있습니다. 건설업체들의 대형 수주 기회를 제공하는 프로젝트입니다.",
+    "title": "한화 건설부문, 롯데칠성과 손잡고 폭염 현장 온열질환 차단 - fetv.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNEZoQklaNWNRYTA3X2xjTm9YY1dLbEpKS3RXaDJBcm5KMTl5ODhNSUQ3ZUdzM0hsTkkxdTdvUjhRYlJhUTlVTGF2QlR2Z0pzdnpVbTZTOF9GZFg3eGw2Wm9uS09kel9M?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNEZoQklaNWNRYTA3X2xjTm9YY1dLbEpKS3RXaDJBcm5KMTl5ODhNSUQ3ZUdzM0hsTkkxdTdvUjhRYlJhUTlVTGF2QlR2Z0pzdnpVbTZTOF9GZFg3eGw2Wm9uS09kel9M?oc=5\" target=\"_blank\">한화 건설부문, 롯데칠성과 손잡고 폭염 현장 온열질환 차단</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fetv.co.kr</font>",
+    "cluster_id": "98fe",
+    "publisher": "fetv.co.kr",
+    "title_clean": "한화 건설부문, 롯데칠성과 손잡고 폭염 현장 온열질환 차단",
+    "summary": "한화 건설부문이 롯데칠성과 협력하여 건설현장의 폭염 대비 온열질환 예방 사업을 추진한다. 현장 근로자 안전과 건강 관리 개선을 위한 산업 협력 사례이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-06T09:03:32+09:00",
+    "collected_at": "2026-08-13T22:41:27+09:00",
     "importance": 2
   },
   {
@@ -32208,21 +32224,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-10T21:38:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "조병옥 음성군수, 폭염 속 주요 건설현장 · 무더위쉼터 밀착 점검 - 음성타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xOV9EX0FaTjFNSEZYNktfbkdtVHA1eVZGX1FXN19pTVpRYWtWLVJTc1VHaG1SdGJzRjkwRjNDYnVxekt0NHhXbHRHcXhNVmFVbkc1WFdLc3Y0UkN4TS1IVG5lQWpQeEdWamc?oc=5",
-    "description": "음성군이 연일 장기화 되는 폭염 경보 속에서 군민 건강 보호와 현장 근로자의 안전 확보를 위한 종합 현장점검을 이어가고 있다.조병옥 군수는 지난...",
-    "published_at": "2026-08-10T21:15:42+09:00",
-    "cluster_id": "a40d",
-    "publisher": "음성타임즈",
-    "title_clean": "조병옥 음성군수, 폭염 속 주요 건설현장 · 무더위쉼터 밀착 점검",
-    "summary": "음성군이 폭염 경보 속에서 건설현장과 무더위쉼터에 대한 현장점검을 진행 중입니다. 조병옥 군수가 주도적으로 현장 근로자의 안전과 군민 건강 보호를 위한 종합점검을 실시하고 있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T21:28:46+09:00",
-    "importance": 2
   }
 ]
