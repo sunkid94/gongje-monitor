@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "대전시교육청, '기업 이어 건설단체도 동참'... 학생 위한 장학 후원 잇... - newsworker.co.kr",
+    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=441191",
+    "description": "시교육청은 이날 교육감실에서 ㈜이노솔루텍으로부터 대전행복교육장학금 500만 원을 전달받은 데 이어, 대한기계설비건설협회 대전세종충남도회로부터 1,000만 원을 추가로 기탁받았다. 두 기관이 이날 전달한 장학금은...",
+    "published_at": "2026-08-13T19:46:00+09:00",
+    "cluster_id": "6625",
+    "publisher": "newsworker.co.kr",
+    "title_clean": "대전시교육청, '기업 이어 건설단체도 동참'... 학생 위한 장학 후원 잇...",
+    "summary": "대전시교육청이 이노솔루텍과 대한기계설비건설협회 대전세종충남도회로부터 각각 500만 원, 1,000만 원의 장학금을 기탁받았다. 건설업계가 학생 교육 지원에 동참하는 사회공헌 활동이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-13T19:51:42+09:00",
+    "event_label": "대한기계설비건설협회 대전세종충남도회 장학금 1,000만 원 기탁",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "기계설비협회 \"전남 학생들, 꿈 실현\"…1천만원 기탁 - 전남인뉴스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90R0J2cVdvQW5ESklEajhoQzlFVkxPR0JoUHZKamxOamdZd1k4REFtelpJcFZWQ2Jab19fNUZxMi1VamxzMmxaSDVtbmV3OTFBblBHNGNrQ0FNQmhkV3dleWxlSWFTU01jUmc?oc=5",
     "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE90R0J2cVdvQW5ESklEajhoQzlFVkxPR0JoUHZKamxOamdZd1k4REFtelpJcFZWQ2Jab19fNUZxMi1VamxzMmxaSDVtbmV3OTFBblBHNGNrQ0FNQmhkV3dleWxlSWFTU01jUmc?oc=5\" target=\"_blank\">기계설비협회 \"전남 학생들, 꿈 실현\"…1천만원 기탁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전남인뉴스</font>",
@@ -32211,21 +32228,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-10T18:29:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "유성구, 폭염 ‘심각’ 속 취약지역 현장 안전점검 강화 - 충청매일",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wWUpqSGJsY1ZsUzJQa2dmSWJodFFVbUZnTmgzczdLZzlTbndLMVIzSjkzcUx0WDM4bWt3a0N2Y0xqbnE4SGt0cU1OTk5xRzhHUjZqWHFuSFpuQ3ZldDRZZXF2Mk5qVC1WVWc?oc=5",
-    "description": "대전 유성구(구청장 정용래)가 폭염 위기경보 ‘심각’ 단계가 이어지는 가운데 폭염 취약지역에 대한 현장 안전관리를 강화하고 나섰다. 유성구는 10일 송강시장과 관내 대규모 건설 현장을 찾아 폭염 대응 상황을 점검하고 온열질환 등 안전사고 예방을 위한 현장점검을 실시했다. 송강시장에서는",
-    "published_at": "2026-08-10T17:20:09+09:00",
-    "cluster_id": "7fe9",
-    "publisher": "충청매일",
-    "title_clean": "유성구, 폭염 ‘심각’ 속 취약지역 현장 안전점검 강화",
-    "summary": "대전 유성구가 폭염 위기경보 '심각' 단계 속에서 송강시장과 대규모 건설 현장에 대한 현장 안전점검을 강화했다. 온열질환 등 안전사고 예방을 위해 폭염 취약지역 안전관리에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T18:29:26+09:00",
-    "importance": 2
   }
 ]
