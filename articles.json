@@ -22240,6 +22240,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "골드만삭스, AI 붐의 구축효과 작다…조달비용 증가 '미미' - biz.sbs.co.kr",
+    "link": "https://biz.sbs.co.kr/article_hub/20000328523?division=NAVER",
+    "description": "골드만삭스는 또 데이터센터 건설 붐이 다른 건설 활동도 구축한다고 분석했는데, 건설 노동자와 장비 등이 AI 인프라 쪽으로 집중되기 때문입니다. 데이터센터 건설의 총이익은 테크쪽이 아닌 건설 프로젝트보다 두 배...",
+    "published_at": "2026-08-13T14:04:00+09:00",
+    "cluster_id": "5540",
+    "publisher": "biz.sbs.co.kr",
+    "title_clean": "골드만삭스, AI 붐의 구축효과 작다…조달비용 증가 '미미'",
+    "summary": "골드만삭스는 AI 데이터센터 건설 붐이 건설업계 전반에 미치는 구축효과가 제한적이라고 분석했습니다. 건설 노동자와 장비가 AI 인프라에 집중되면서 다른 건설 프로젝트의 조달비용 증가는 미미한 수준으로 평가되었습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-13T14:10:24+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "광주대표도서관 붕괴사고 38명 검찰로…직접 원인 수사 일단락 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12126451",
+    "description": "지난 5일 공무원 등 27명 추가 송치 업무상과실치사·불법하도급 등 혐의 앞서 주요 책임자 11명 검찰 넘겨 건설업계 구조적 불법행위 수사 계속 건설노동자 4명이 숨진 광주대표도서관 공사 현장 붕괴사고와 관련해...",
+    "published_at": "2026-08-13T14:03:00+09:00",
+    "cluster_id": "31e8",
+    "publisher": "mk.co.kr",
+    "title_clean": "광주대표도서관 붕괴사고 38명 검찰로…직접 원인 수사 일단락",
+    "summary": "광주대표도서관 붕괴사고 관련 38명이 검찰에 송치되었으며, 공무원 27명이 추가로 넘겨졌다. 업무상과실치사와 불법하도급 등의 혐의가 적용되었고, 건설업계의 구조적 불법행위에 대한 수사가 계속 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-13T14:10:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32192,38 +32224,6 @@
     "summary": "국토교통과학기술진흥원이 상호존중과 수평적 조직문화 정착을 위해 2026년 서약식을 개최했다. 원장과 부원장, 신임 본부장 등 주요 리더들이 직접 참여해 노사 상생협력 강화 의지를 표현했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-10T13:24:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "킨텍스, 건설안전 혁신상 14점으로 확대…‘건설AI Awards’ 첫 도입 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=41022",
-    "description": "[건설이코노미뉴스] 건설현장 안전관리의 패러다임이 사고 발생 후 대응에서 AI와 데이터를 활용한 사전 예측·예방 중심으로 전환되고 있는 가운데 킨텍스가 건설현장의 안전혁신을 이끌 우수 기술과 제품 발굴에 나선다.킨텍스(KINTEX)는 오는 10월 개최되는 ‘2026 한국건설·안전박람회(K-CONSAFETY EXPO 2026)’ 참가기업을 대상으로 ‘2026 건설·안전혁신상(K-Consafety Awards)’을 개최한다고 최근 밝혔다.올해 건설·안전혁신상의 가장 큰 특징은 건설업계의 인공지능(AI) 전환과 스마트건설 기술 확산에 발",
-    "published_at": "2026-08-10T13:13:00+09:00",
-    "cluster_id": "164d",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "킨텍스, 건설안전 혁신상 14점으로 확대…‘건설AI Awards’ 첫 도입",
-    "summary": "킨텍스가 10월 개최되는 '2026 한국건설·안전박람회'에서 '건설·안전혁신상'을 확대 운영하며, 처음으로 'AI Awards'를 도입해 건설현장의 AI 기술과 스마트건설 솔루션을 발굴한다. 건설업계가 사후 대응에서 AI·데이터 기반 사전 예측·예방 중심으로 패러다임이 전환되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T13:16:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 17회 국토기술대전 개최 - naeil.com",
-    "link": "https://www.naeil.com/news/read/598297?ref=naver",
-    "description": "기술 △스마트건설기술-BIM·드론·빅데이터·건설자동화·UAM·스마트시티 등 총 5개 분야다. 참가 자격은 국내 대학생·대학원생으로 전공에 상관없이 1팀당 2인 이내로 구성할 수 있다. 대학원생은 단독 참여가...",
-    "published_at": "2026-08-10T13:06:00+09:00",
-    "cluster_id": "a360",
-    "publisher": "naeil.com",
-    "title_clean": "LH, 17회 국토기술대전 개최",
-    "summary": "LH가 제17회 국토기술대전을 개최하며 스마트건설기술, BIM, 드론, 빅데이터, 건설자동화, UAM, 스마트시티 등 5개 분야의 기술 경연을 진행한다. 국내 대학생·대학원생을 대상으로 1팀당 2인 이내로 참가 가능하다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T13:08:30+09:00",
     "importance": 2
   }
 ]
