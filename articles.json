@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "기계설비건설협회, 기계설비공사업 ‘가업상속공제 대상 포함’ 안내 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51287",
+    "description": "기계설비공사업이 정부의 가업상속공제 적용 대상에 포함돼 업계가 축적한 전문기술과 경영 노하우를 다음 세대로 안정적으로 승계할 수 있는 기반이 마련될 전망이다.대한기계설비건설협회(회장 허용주·사진)는 정부가 발표한 ‘2026년 세제개편안’의 가업상속공제 대상에 기계설비공사업이 포함된 내용을 시·도회에 전달했다고 지난 12일 밝혔다.앞서 정부는 가업상속공제 제도가 상속세 회피 수단으로 악용되는 것을 막기 위해 가업의 정의와 대상 업종, 적용 요건을 전면적으로 정비했다. 전문기술이나 경영상 노하우를 보유한 기업 중 민·관 심사위원회 승인",
+    "published_at": "2026-08-13T10:00:00+09:00",
+    "cluster_id": "54ba",
+    "publisher": "기계설비신문",
+    "title_clean": "기계설비건설협회, 기계설비공사업 ‘가업상속공제 대상 포함’ 안내",
+    "summary": "대한기계설비건설협회가 기계설비공사업이 정부의 2026년 세제개편안에서 가업상속공제 적용 대상에 포함됐음을 안내했다. 이를 통해 업계가 축적한 전문기술과 경영 노하우를 다음 세대로 안정적으로 승계할 수 있는 기반이 마련될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-13T10:04:11+09:00",
+    "event_label": "대한기mechanicalEquipmentBuildingAssociation 기계설비공사업 가업상속공제 대상 포함",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "기계설비협회 하도급거래 모범업체 신청 전달 - 기계설비신문",
     "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51282",
     "description": "대한기계설비건설협회(회장 허용주·사진)는 최근 회원사를 대상으로 공정거래위원회의 ‘2026년도 하도급거래 모범업체 선정’ 신청 절차를 안내했다고 13일 밝혔다.하도급거래 모범업체 제도는 중소기업 간 공정한 거래질서를 정착시키고 하도급업체의 자금난 완화를 위한 상생협력을 유도하기 위해 마련됐다.공정위는 하도급거래 공정화에 관한 법률상 원사업자 요건을 충족하는 중소기업 가운데 모범업체를 선정해 직권조사 면제 등의 혜택을 제공하고 있다.신청 대상은 하도급법상 원사업자 요건을 충족하면서 2025년 하도급거래 실적이 있고, 시공능력평가액이",
@@ -32182,21 +32199,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-10T10:28:18+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL이앤씨, 폭염 대응 강화⋯전국 현장 근로자 안전관리 총력 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zOElnNms4NXVnNjQ5M1lJeWVKdDMwODdIYXM3VTlvVUVqbEM1azZuZXJ3eTNrOG55RXdfc18wUFp6cm1YSTVBcTczRzE3dFRFQV9PeA?oc=5",
-    "description": "▲박상신 DL이앤씨 대표가 1일 천안 성성 현장을 찾아 폭염 대응 현장 안전점검에 나섰다. (사진제공=DL이앤씨)DL이앤씨가 연일 이어지는 폭염에 대응",
-    "published_at": "2026-08-10T10:11:00+09:00",
-    "cluster_id": "7ebc",
-    "publisher": "이투데이",
-    "title_clean": "DL이앤씨, 폭염 대응 강화⋯전국 현장 근로자 안전관리 총력",
-    "summary": "DL이앤씨가 폭염으로 인한 현장 근로자 안전관리를 강화하고 있으며, 대표가 직접 현장을 방문하여 안전점검을 실시하고 있다. 이는 건설 현장의 기본적인 안전관리 강화 조치에 해당한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T10:28:18+09:00",
-    "importance": 2
   }
 ]
