@@ -22121,6 +22121,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부산시 노사민정협의회, 노사민정이 함께하는 폭염 대비 산업안전 캠페인 개최 - 누리일보",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44QktGSUpnWkhKVzhSSmZSSE1LRkIzRGd5VEZHanN2R2pRY2hfdVNXS1Y2NHlRbkRaYUVFVmJLNUhocE0tZDk1cnYyNXhVNUFfZXJRalhkeE9qLUxs?oc=5",
+    "description": "(누리일보) 부산시는 오늘(13일) 오전 10시 30분 폭염 취약 사업장 2곳에서 여름철 폭염에 따른 온열질환을 예방하기 위한",
+    "cluster_id": "8ce5",
+    "publisher": "누리일보",
+    "title_clean": "부산시 노사민정협의회, 노사민정이 함께하는 폭염 대비 산업안전 캠페인 개최",
+    "summary": "부산시 노사민정협의회가 폭염 취약 사업장을 대상으로 온열질환 예방 캠페인을 개최했다. 여름철 산업안전을 위한 노·사·민·정의 협력 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-13T12:29:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32200,21 +32215,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-10T11:38:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 등으로 작업중지된 노동자 ‘안심수당’ 소득기준 없앴다···단가... - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202608101135001",
-    "description": "기존에는 한 달에 8일 이상 근무하고 서울시 생활임금 이하를 받는 건설 노동자에게만 수당을 지급했다. 앞으로는 월 8일 이상 일한 내국인 건설 노동자라면 누구나 지급 대상이 된다. 서울시는 이번 제도 개선으로 안심...",
-    "published_at": "2026-08-10T11:35:00+09:00",
-    "cluster_id": "daf8",
-    "publisher": "khan.co.kr",
-    "title_clean": "폭염 등으로 작업중지된 노동자 ‘안심수당’ 소득기준 없앴다···단가...",
-    "summary": "서울시가 폭염 등으로 작업이 중지된 건설 노동자의 '안심수당' 지급 기준을 개선했다. 기존의 소득기준을 폐지하고 월 8일 이상 근무한 모든 내국인 건설 노동자에게 수당을 지급하기로 변경했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T11:38:35+09:00",
-    "importance": 2
   }
 ]
