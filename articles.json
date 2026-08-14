@@ -22508,6 +22508,21 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "진주시, 전문건설업계와 상생협력 간담회 개최해 지역 건설경기 활성화 모색 > 뉴스 - 더코리아",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBDcFpCOEtYVTN1M2EwN29RX0hmejZIXzhKWk03MEhwNmY0WmJmc3BIOVZsM25LS3ZGX2xxNTVGeVUxalE?oc=5",
+    "description": "대한전문건설협회 진주시운영위원회와 간담회 열고 애로사항 청취 및 지역 업체 수주율 제고 방안 논의",
+    "cluster_id": "d05d",
+    "publisher": "더코리아",
+    "title_clean": "진주시, 전문건설업계와 상생협력 간담회 개최해 지역 건설경기 활성화 모색 > 뉴스",
+    "summary": "진주시가 대한전문건설협회와 간담회를 개최하여 건설업계의 애로사항을 청취하고 지역 업체의 수주율 제고 방안을 논의했다. 지역 건설경기 활성화를 위한 상생협력 방안을 모색하는 자리다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-14T19:30:33+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "한일시멘트, 경기침체 속 원가절감으로 영업익 30%↑ - 서울경제",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uOTU2U3RocVBRanVKdFlyRkp2eTZxUk5zOE9RYVhtbDdTOHV1VW14alJIM0h6YVJRNW9nUk82bjV0elNWNjBmQUNBTjh3Z3pDQ2c?oc=5",
     "description": "한일시멘트(300720)가 건설경기 침체에도 원가절감 노력을 기울인 덕에 올해 2분기 수익성을 개선했다. 한일시멘트가 14일 올해 2분기 연결 기준 매출액 3710억 원, 영업이익 616억 원을 기록했다고 공시했다. 매출은 지난해 같은 기간보다 8.9% 감소했지만 영업",
@@ -32175,20 +32190,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T17:15:13+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 대비 국립새만금수목원 건설현장 안전점검 실시 - 서울Pn",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XUWFQYVRhbE56a0czQWhKSTAzd0pjWnRfLVExMEsyRUFZcUxGcWEtYXlUOXNVSXZXdTNHTmZWNUIxb3BOWGdVaE9oUXdpc2g0MmZrMW93bEZkNl9MQnhpN193?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XUWFQYVRhbE56a0czQWhKSTAzd0pjWnRfLVExMEsyRUFZcUxGcWEtYXlUOXNVSXZXdTNHTmZWNUIxb3BOWGdVaE9oUXdpc2g0MmZrMW93bEZkNl9MQnhpN193?oc=5\" target=\"_blank\">폭염 대비 국립새만금수목원 건설현장 안전점검 실시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울Pn</font>",
-    "cluster_id": "b766",
-    "publisher": "서울Pn",
-    "title_clean": "폭염 대비 국립새만금수목원 건설현장 안전점검 실시",
-    "summary": "폭염 시즌을 앞두고 국립새만금수목원 건설현장에서 안전점검을 실시했다. 건설현장의 안전관리 강화로 사고 예방에 주력하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T17:15:13+09:00",
-    "importance": 2
   }
 ]
