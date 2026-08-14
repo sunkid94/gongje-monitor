@@ -6537,21 +6537,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비協, 대구공업대 인재 양성 지원금 4천만원 전달 - idaegu.co.kr",
-    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=554021",
-    "description": "대한기계설비건설협회(회장 허용주)는 지난 14일 오후 대구공업대학교에서 기계설비 전문인력 양성 지원금 전달식을 가졌다. 이날 기계설비협회는 2천만원을, 대구시회와 경북도회가 각각 1천만원을 전달했다. 이...",
-    "published_at": "2026-07-15T21:44:00+09:00",
-    "cluster_id": "0f8f",
-    "publisher": "idaegu.co.kr",
-    "title_clean": "대한기계설비協, 대구공업대 인재 양성 지원금 4천만원 전달",
-    "summary": "대한기계설비건설협회가 대구공업대학교에 기계설비 전문인력 양성 지원금 4천만원을 전달했다. 협회 본부에서 2천만원, 대구시회와 경북도회가 각각 1천만원씩 기여했다.",
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "빌 게이츠 SMR 사업에 한국 기업 참여 확대 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637695&ref=A",
+    "description": "테라파워와 미국 등 해외 SMR 공동사업 추진에 합의했습니다. HD현대와 현대건설은 각각 주기기 제조와 설계·시공 분야 등의 협력을 확대하기로 했고, 두산에너빌리티도 핵심 기자재를 제작하기로 했습니다.",
+    "published_at": "2026-08-14T21:53:00+09:00",
+    "cluster_id": "705e",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "빌 게이츠 SMR 사업에 한국 기업 참여 확대",
+    "summary": "빌 게이츠의 테라파워와 한국 기업들이 SMR(소형모듈원전) 공동사업을 추진하기로 합의했습니다. HD현대, 현대건설, 두산에너빌리티 등이 주기기 제조, 설계·시공, 핵심 기자재 제작 등 다양한 분야에서 협력을 확대합니다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-15T21:50:25+09:00",
-    "event_label": "대한기계설비건설협회 대구공업대학교 인재양성 지원금 4천만원 전달",
-    "importance": 5
+    "collected_at": "2026-08-14T22:04:58+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -22472,21 +22471,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T00:07:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 4년만에 매탄주공 4·5단지 재건축 시공권 움직임… 사업지연 우려 - 경인일보",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EenBZUWY4SEdpQXRlUGpnQVh5czhRTGZlQzNKdDZhYVgzU2xmQ3pTY2lka3U3cENEallwRlVkV2V1UjNyeTN2YzFQOHM3dVpyRGc?oc=5",
-    "description": "수원시의 ‘노른자 땅’ 지역에 3천700여가구 규모의 아파트를 짓는 매탄주공 4·5단지 재건축 사업이 당초 계획보다 늦어지고 있는 가운데, IPARK현대산업개발의 시공권 문제까지 얽혀 사업 지연 우려가 나오고 있다. 최근 IPARK현대산업개발은 영통2구역 주택재건축정비",
-    "cluster_id": "6acb",
-    "publisher": "경인일보",
-    "title_clean": "IPARK현대산업개발, 4년만에 매탄주공 4·5단지 재건축 시공권 움직임… 사업지연 우려",
-    "summary": "수원시 매탄주공 4·5단지 재건축 사업(3,700여 가구)이 당초 계획보다 지연되고 있으며, IPARK현대산업개발의 시공권 문제까지 겹쳐 사업 추진에 차질이 우려되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-09T19:38:01+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
