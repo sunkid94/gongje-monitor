@@ -22457,6 +22457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "162만호 대책, 건설 수주 영향 먼저 거론됐다 - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fVFJ6cEJka1pCdU9KNTl2TUhvTFk1cXI5YmxIOVZkWFdCQnZ0SFRQSTJlRm1iX0tFTHpMUUdJOVZaaEpXQXFZZ0dMV3Y2RzVfZGVSUmJ30gFbQVVfeXFMTVVNR3pSN0NpU1djRi1TY05UTzRuTkFYR292eXZ0V1FvbGptMHZYbXN5dHFyVk5JbWxGM25UVGljQ0ZodVBDUVBwdGlaY2NPSm1JMWtMOE9QOUlKQQ?oc=5",
+    "description": "정부의 8·13 부동산 대책이 주택 가격보다 건설 수주와 관련 업종 실적에 먼저 영향을 줄 수 있다는 증권가 분석이 나왔다.현대차증권은 14일 보고서에서 이번 대책에 대해 “주택 가격보다는 건설주에 미칠 영향이 클 것”이라고...",
+    "published_at": "2026-08-14T15:20:32+09:00",
+    "cluster_id": "50ca",
+    "publisher": "tokenpost.kr",
+    "title_clean": "162만호 대책, 건설 수주 영향 먼저 거론됐다",
+    "summary": "정부의 8·13 부동산 대책(162만호)이 주택 가격보다 건설 수주와 관련 업종 실적에 먼저 긍정적 영향을 줄 것으로 증권가가 분석했다. 건설주들이 대책의 직접적인 수혜자가 될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-15T04:00:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32172,21 +32188,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T18:10:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "한샘·현대리바트, 2분기 건설경기 침체 속 '체질 개선'으로 지탱 - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260811151102870",
-    "description": "한샘, 홈퍼니싱 부문 매출 증가...'키친바흐' 견인 현대리바트, B2B 성장세...사업 다각화 '속도전' 아주경제=정연우 기자 ynu@ajunews.com 한샘 로고 이미지 [사진=한샘] 건설경기 침체와 주택 매매시장 불확실성이 장기화되는...",
-    "published_at": "2026-08-11T17:58:00+09:00",
-    "cluster_id": "3aca",
-    "publisher": "ajunews.com",
-    "title_clean": "한샘·현대리바트, 2분기 건설경기 침체 속 '체질 개선'으로 지탱",
-    "summary": "건설경기 침체 속에서 한샘과 현대리바트가 홈퍼니싱, B2B 등 사업 다각화를 통해 실적을 지탱하고 있다. 두 회사 모두 기존 사업 구조 개선과 신사업 확대로 시장 불확실성에 대응 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T18:10:30+09:00",
-    "importance": 3
   }
 ]
