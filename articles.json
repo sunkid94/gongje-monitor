@@ -6603,6 +6603,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "빌 게이츠, SMR 들고 왔다…HD현대·두산에 날개 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZU2xEam05QmlCRVVnQXowZG1uYUdDRVRoMEoxMlNZZDBaZ1QzUmQ5dXk2aTZBRWRaU09TNDFyMFpTNGZWZEg4Mkw3RE91QVU?oc=5",
+    "description": "[한국경제TV 배창학 기자] <앵커> 1년 만에 한국을 찾은 빌 게이츠의 행보에 들썩인 산업은 IT가 아니라 중공업과 원전이었습니다. 특히 빌 게이츠가 창업한 테라파워와 두산, HD현대 간 결성한 SMR 동맹이 이번 방한으로 한층 굳건해질 전망입니다. 산업부 배창학 기자 나와 있습니다. 배 기자, 빌 게이츠의 방한과 동시에 두산에너빌티리의 수주 소식이 들리",
+    "published_at": "2026-08-14T15:04:00+09:00",
+    "cluster_id": "ca53",
+    "publisher": "v.daum.net",
+    "title_clean": "빌 게이츠, SMR 들고 왔다…HD현대·두산에 날개",
+    "summary": "빌 게이츠가 창업한 테라파워와 두산, HD현대가 소형모듈원전(SMR) 동맹을 결성하며 협력을 강화하고 있습니다. 두산에너지의 수주 소식과 함께 SMR 시장 확대로 중공업 업계에 새로운 성장 기회가 마련되고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-14T15:15:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22523,20 +22539,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "남부발전, 하동복합 EPC 우선협상자에 두산에너빌 컨소시엄 선정 - enewstoday.co.kr",
-    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457206",
-    "description": "한국남부발전이 하동복합 건설사업의 일괄 설치조건부 구매계약(EPC) 낙찰자로 두산에너빌리티 컨소시엄을 선정했다. 7일 남부발전에 따르면 하동복합 건설사업은 정부의 에너지 전환 정책에 따라 노후...",
-    "published_at": "2026-08-07T16:51:00+09:00",
-    "cluster_id": "ee1b",
-    "publisher": "enewstoday.co.kr",
-    "title_clean": "남부발전, 하동복합 EPC 우선협상자에 두산에너빌 컨소시엄 선정",
-    "summary": "한국남부발전이 하동복합 건설사업의 EPC 낙찰자로 두산에너빌리티 컨소시엄을 선정했다. 정부의 에너지 전환 정책에 따른 노후 발전설비 현대화 프로젝트로, 건설업계에 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-07T16:59:21+09:00",
-    "importance": 2
+    "title": "전남광주통합특별시의회 \"여수를 고용위기지역으로 즉각 지정하라\" - bizwnews.com",
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=143458",
+    "description": "플랜트 건설 노동자 역시 2024년 8742명에서 2026년 2월 1634명으로 81.3% 급감했다. 여수시는 그동안 2025년 53억원, 2026년 142억원 규모의 대응 사업을 추진해 왔으나 석유화학 업황 침체와 구조개편 여파로 고용 악화가...",
+    "published_at": "2026-08-14T15:08:00+09:00",
+    "cluster_id": "bbba",
+    "publisher": "bizwnews.com",
+    "title_clean": "전남광주통합특별시의회 \"여수를 고용위기지역으로 즉각 지정하라\"",
+    "summary": "여수 지역 플랜트 건설 노동자가 2024년 8,742명에서 2026년 2월 1,634명으로 81.3% 급감하면서 심각한 고용 위기에 직면했다. 석유화학 업황 침체와 구조개편으로 인한 고용 악화에 대응하기 위해 전남광주통합특별시의회가 여수를 고용위기지역으로 즉각 지정할 것을 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-14T15:15:50+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32172,22 +32188,6 @@
     "summary": "새만금개발청이 폭염으로 인한 건설근로자의 온열질환 예방을 위해 산업단지 조성 현장에 대한 안전점검을 실시했다. 물 공급, 그늘 제공, 휴식시간 등 폭염 대응 안전조치의 현장 이행 실태를 확인하여 산업재해를 예방하기 위한 조치이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-11T13:59:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "\"현장에서 배우는 콘크리트\"…삼표그룹, VAP 기술 공개 - kpinews.kr",
-    "link": "https://www.kpinews.kr/newsView/1065579330895076",
-    "description": "지난해 국토교통부 건설신기술(제995호)로 지정되고 녹색기술 인증도 받았다. 최근에는 충남예술의전당 건립 공사에 적용이 논의되는 등 실제 현장 적용 사례도 늘고 있다.. 삼표산업은 지난 2024년부터 서울대·한양대...",
-    "published_at": "2026-08-11T13:41:00+09:00",
-    "cluster_id": "b38f",
-    "publisher": "kpinews.kr",
-    "title_clean": "\"현장에서 배우는 콘크리트\"…삼표그룹, VAP 기술 공개",
-    "summary": "삼표그룹이 개발한 VAP 기술이 국토교통부 건설신기술로 지정되고 녹색기술 인증을 받아 실제 현장 적용이 확대되고 있다. 서울대·한양대 등과 협력하여 기술 개발 및 현장 적용을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-11T13:49:28+09:00",
     "importance": 2
   }
 ]
