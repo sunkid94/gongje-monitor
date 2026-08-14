@@ -22473,6 +22473,37 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[경기in] 의정부시, 취약계층 주거 환경 개선 힘 모은다…대한주택건설협회 경기도회와 간담회 - 경기in",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wd2cxTF9LUFB6X0lMWllHbmxsLUh4MnZVRWtseGhJLV9fbEZGX3I1R3pHZ05KT2paeklTSFdwUlNMd2c?oc=5",
+    "description": "김원기 의정부시장이 8월 13일 시장실에서 진행된 대한주택건설협회 경기도회와의 간담회에서 함께 기념촬영을 하고 있다. [경기IN=오효석 기자] 의정부",
+    "cluster_id": "b0ee",
+    "publisher": "경기in",
+    "title_clean": "[경기in] 의정부시, 취약계층 주거 환경 개선 힘 모은다…대한주택건설협회 경기도회와 간담회",
+    "summary": "의정부시장이 대한주택건설협회 경기도회와 간담회를 개최하여 취약계층 주거 환경 개선을 위한 협력을 논의했다. 공공부문과 건설업계의 협력으로 사회적 책임 사업에 함께 참여하는 계기가 마련되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-14T22:40:29+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "영동양수건설소, 노·사 합동 안전점검 실시 - 도민연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMMTBpTk10UTJLY0RKZVE2NFJLWVdqWndxNnZHT1VwTjlmUjZ1RFg4QU4zWTlSd1daNkRVOWhsOHRmNjJ3djVXMldZSkpiYWZCV1JfYjNpVmxKNERmTmNCa3M5ejVmZlA1emc?oc=5",
+    "description": "[도민연합뉴스] 영동양수건설소는 8월 13일 영동양수 건설현장에서 김선신 건설소장과 김재현 지부노조위원장을 비롯한 노·사 관계자들이 참석한 가운데 합동 안전점검을 실시했다.이번 점검은 건설현장의 유해·위험요인을 노·사가 함께 살피고 개선방안을 모색함으로써 산업재해를 예방하고 노·사 공",
+    "published_at": "2026-08-14T11:11:09+09:00",
+    "cluster_id": "e7da",
+    "publisher": "도민연합뉴스",
+    "title_clean": "영동양수건설소, 노·사 합동 안전점검 실시",
+    "summary": "영동양수건설소가 8월 13일 건설현장에서 노·사 합동 안전점검을 실시했다. 건설현장의 유해·위험요인을 함께 점검하고 개선방안을 모색하여 산업재해 예방과 노·사 관계 개선을 도모했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-14T22:40:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32155,21 +32186,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-11T18:10:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염속 건설근로자 안전 총력...현장점검 강화 - 무진장인터넷뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBTko5WXdjNFZvOHFWdjhHLXVUdW5lam1RWThwVEhSdU45alFxLTBzUlVVU0c5TXlSb19qTC11T01kVjR3S2dDeFp4ZGVjdFpIRVhNWTVaU29Qdw?oc=5",
-    "description": "전북특별자치도는 지속되는 폭염으로부터 건설근로자를 보호하고 온열질환을 예방하기 위해 건설현장 안전점검을 강화하고 있다고 11일 밝혔다. 최정일 전북자치도 건설교통국장은 이날 세계서예비엔날레관 건립공사 현장을 찾아 근로자 휴게시설과 폭염 단계별 대응요령 준수 여부 등 안전관리 실태를 점검하고 현장 근무자들을 격려했다. 도는 지난 7월 16일부터 오는 27일까",
-    "published_at": "2026-08-11T12:40:41+09:00",
-    "cluster_id": "5ea6",
-    "publisher": "무진장인터넷뉴스",
-    "title_clean": "폭염속 건설근로자 안전 총력...현장점검 강화",
-    "summary": "전북특별자치도가 폭염으로 인한 건설근로자의 온열질환 예방을 위해 현장 안전점검을 강화하고 있다. 휴게시설 확충과 폭염 대응요령 준수 여부 등을 점검하며 근로자 보호에 나서고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T18:00:31+09:00",
-    "importance": 4
   }
 ]
