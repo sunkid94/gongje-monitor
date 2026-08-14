@@ -22473,6 +22473,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "③ 산업화 뒤에 숨겨진 노동의 그늘 - anjunj.com",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NM2pSNWZ6Y3BTMS1fZGJ3cmVYc25Hd3BvcVBsS19WUndyVTdNTm1xeDNkLU1QeTdhRjQxT1RWSWgxT2FpclNMaElESkpRcWloTktrRUd0eU1JaFJkLVl5WTdIcTU0eFU?oc=5",
+    "description": "대한민국 산업안전보건의 역사는 산업화의 흐름과 함께 변화해 왔다. 서울과학기술대학교 안전공학과 교수, 한국안전학회 회장, 한국산업안전보건공단 이사장 등을 역임하며",
+    "published_at": "2026-08-14T16:47:42+09:00",
+    "cluster_id": "8ce8",
+    "publisher": "anjunj.com",
+    "title_clean": "③ 산업화 뒤에 숨겨진 노동의 그늘",
+    "summary": "대한민국 산업안전보건의 역사가 산업화와 함께 변화해온 과정을 다룬 기사로, 산업화 과정에서 노동자 안전 문제의 중요성을 강조하고 있다. 건설업 등 산업현장의 안전 관리 체계와 역사적 배경에 대한 사실적 보도이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-14T23:10:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32171,20 +32187,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T18:10:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "춘천시, 폭염 속 건설현장 안전 점검 실시 - 뉴스팟",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBibTZPeVAtcTdjT1E2M0hXelB1VExTa3N2aEJhemtjS2pnd2VWbUhVWmdla3JGenY1amhtam1QWGN5akE?oc=5",
-    "description": "춘천시(시장 육동한)가 폭염에 따른 온열질환과 산업재해를 예방하기 위해 시 발주 주요 건설현장을 집중 점검했다.시는 10일부터 11일까지 안전보건공",
-    "cluster_id": "1216",
-    "publisher": "뉴스팟",
-    "title_clean": "춘천시, 폭염 속 건설현장 안전 점검 실시",
-    "summary": "춘천시가 폭염으로 인한 온열질환과 산업재해 예방을 위해 시 발주 주요 건설현장에 대한 집중 점검을 실시했다. 안전보건공단과 함께 건설현장의 안전 관리 체계를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T18:10:30+09:00",
-    "importance": 2
   }
 ]
