@@ -6554,6 +6554,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "1년 만에 방한한 빌 게이츠…K원전, 美 차세대 원전 짓고 운영까지 - news.tvchosun.com",
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490274.html",
+    "description": "보호용기와 지지구조물, 내부구조물은 두산에너빌리티가 오늘 제작 계약을 따냈습니다. 현대건설은 후속 원전의 설계·조달·시공 참여를 추진하고, SK도 오늘 테라파워와 미국과 해외 원전 사업을 함께 추진하는 주요...",
+    "published_at": "2026-08-14T21:38:00+09:00",
+    "cluster_id": "c5d0",
+    "publisher": "news.tvchosun.com",
+    "title_clean": "1년 만에 방한한 빌 게이츠…K원전, 美 차세대 원전 짓고 운영까지",
+    "summary": "빌 게이츠가 방한하여 한국 기업들의 미국 차세대 원전 사업 참여를 공식화했습니다. 두산에너빌리티는 원전 부품 제작 계약을 체결했고, 현대건설과 SK는 테라파워와 함께 미국 및 해외 원전 사업을 추진합니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-14T21:50:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22473,19 +22489,19 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현대산업개발, 4년만에 매탄주공 4·5단지 재건축 시공권 움직임…... - kyeongin.com",
-    "link": "https://www.kyeongin.com/article/1768683",
-    "description": "IPARK현대산업개발의 시공권 문제까지 얽혀 사업 지연 우려가 나오고 있다. 최근 IPARK현대산업개발은 영통2구역 주택재건축정비사업 조합에 ‘조합원 총회에서 시공권 확보 논의를 해달라’고 요청한 것으로...",
-    "published_at": "2026-08-09T19:18:00+09:00",
-    "cluster_id": "a753",
-    "publisher": "kyeongin.com",
-    "title_clean": "IPARK현대산업개발, 4년만에 매탄주공 4·5단지 재건축 시공권 움직임…...",
-    "summary": "IPARK현대산업개발이 매탄주공 4·5단지 재건축 사업에서 시공권 문제로 인한 분쟁에 직면했다. 조합과의 시공권 확보 논의 요청으로 사업 지연 우려가 제기되고 있다.",
+    "title": "폭염에 주 5일 공쳤다…‘작업중지’에 날아간 일당 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637627&ref=A",
+    "description": "[신재훈/건설 노동자 : \"갑작스러운 폭염 때문에 일은 못 하게 됐고 대비책은 없고, 소비 부분에서 좀 더 아끼는 수밖에 없죠.\"] \"하루이틀은 몰라도 더 길어지면 버티기 어렵다\" \"일을 할 수밖에 없다\"고 말합니다. [양창수...",
+    "published_at": "2026-08-14T21:37:00+09:00",
+    "cluster_id": "ee57",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "폭염에 주 5일 공쳤다…‘작업중지’에 날아간 일당",
+    "summary": "극심한 폭염으로 건설 현장에서 안전상 이유로 작업이 중단되면서 일용직 노동자들이 일당 손실을 입고 있다. 노동자들은 수입 감소에 대응할 뾰족한 대책 없이 생활비 절감으로만 버티고 있는 상황이다.",
     "sentiment": "negative",
-    "collected_at": "2026-08-09T19:22:49+09:00",
+    "collected_at": "2026-08-14T21:50:06+09:00",
     "importance": 4
   },
   {
@@ -32171,21 +32187,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T18:00:31+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH 강원지역본부, 건설현장 안전문화 확산을 위한 냉커피차 행사 - kwnews.co.kr",
-    "link": "https://www.kwnews.co.kr/article/20260811501664",
-    "description": "이번 행사는 연일 이어지는 폭염 속에서도 건설공사와 안전사고 예방을 위해 힘쓰고 있는 현장 근로자와 임직원들을 격려하고 우기철 건설현장의 안전의식을 높이기 위해 마련됐다. 이날 강원지역본부는 100여명분의...",
-    "published_at": "2026-08-11T17:46:00+09:00",
-    "cluster_id": "def3",
-    "publisher": "kwnews.co.kr",
-    "title_clean": "LH 강원지역본부, 건설현장 안전문화 확산을 위한 냉커피차 행사",
-    "summary": "LH 강원지역본부가 폭염 속 건설현장 근로자들을 격려하고 안전의식을 높이기 위해 냉커피차 행사를 개최했다. 우기철 건설현장의 안전사고 예방과 안전문화 확산을 위한 활동으로, 100여명분의 음료를 제공했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T17:54:49+09:00",
-    "importance": 2
   }
 ]
