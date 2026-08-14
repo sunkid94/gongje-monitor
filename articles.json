@@ -22573,6 +22573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울 동남권 폭염주의보 발효…종합지원상황실 가동 - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1678493/?sc=Naver",
+    "description": "야외 작업으로 온열질환에 취약한 건설노동자 보호를 위한 대책도 시행된다. 시는 ▲충분한 휴식시간 보장 ▲휴게공간 마련 등을 권고하고 이행 여부를 점검할 계획이다. 폭염 피해 예방을 위한 시민행동요령도 적극...",
+    "published_at": "2026-08-14T13:01:00+09:00",
+    "cluster_id": "213e",
+    "publisher": "dailian.co.kr",
+    "title_clean": "서울 동남권 폭염주의보 발효…종합지원상황실 가동",
+    "summary": "서울 동남권에 폭염주의보가 발효되어 종합지원상황실이 가동되었다. 건설노동자의 온열질환 예방을 위해 충분한 휴식시간 보장과 휴게공간 마련 등의 대책을 시행하고 이행 여부를 점검할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-14T13:06:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32173,21 +32189,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T12:24:25+09:00",
     "importance": 7
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염대책 촉구 위한 퍼포먼스 - newsis.com",
-    "link": "https://www.newsis.com/view/NISI20260811_0021394872",
-    "description": "민주노총 전국건설노동조합 조합원들이 11일 서울 여의도 국회 정문 앞에서 폭염기 작업중지·임금보전 법제도를 촉구하는 기자회견을 마치고 안전모에 얼음과 물을 담아 폭염대책 마련을 위한 퍼포먼스를...",
-    "published_at": "2026-08-11T12:15:00+09:00",
-    "cluster_id": "1971",
-    "publisher": "newsis.com",
-    "title_clean": "폭염대책 촉구 위한 퍼포먼스",
-    "summary": "민주노총 전국건설노동조합이 폭염기 작업중지 및 임금보전 법제도화를 촉구하며 국회 정문 앞에서 기자회견 및 퍼포먼스를 진행했다. 건설 현장의 폭염 안전 대책 마련을 요구하는 노동조합의 입장 표현이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T12:24:25+09:00",
-    "importance": 5
   }
 ]
