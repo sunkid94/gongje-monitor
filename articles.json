@@ -6488,20 +6488,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[부산ㆍ경남 대학 브리핑 모음(7월16일)] 대한기계설비건설협회, 동의대에 인재 양성금 2000만 원 기탁 등 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03YlpxTkZPMXU0U0JZcEd2YU1BUnVXLWJJaVNDdnBqZmZ3eHh5WTJWX3ZTbGFacENEUExfU3VTcXAxeGlpa1QzTHBaaXZYc1pSRWMzY2RISmcyUTViNk5IbVE5eVRzVGg5UjlOdnd0QTBveC1i?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE03YlpxTkZPMXU0U0JZcEd2YU1BUnVXLWJJaVNDdnBqZmZ3eHh5WTJWX3ZTbGFacENEUExfU3VTcXAxeGlpa1QzTHBaaXZYc1pSRWMzY2RISmcyUTViNk5IbVE5eVRzVGg5UjlOdnd0QTBveC1i?oc=5\" target=\"_blank\">[부산ㆍ경남 대학 브리핑 모음(7월16일)] 대한기계설비건설협회, 동의대에 인재 양성금 2000만 원 기탁 등</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "d9e7",
-    "publisher": "대한경제",
-    "title_clean": "[부산ㆍ경남 대학 브리핑 모음(7월16일)] 대한기계설비건설협회, 동의대에 인재 양성금 2000만 원 기탁 등",
-    "summary": "대한기계설비건설협회가 동의대학교에 인재 양성금 2000만 원을 기탁했다. 업계 인재 육성을 위한 사회공헌 활동으로 평가된다.",
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[중화학ON]빌 게이츠 방한에 뜨거워진 K-SMR…테라파워로 모이는 기업들 - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026081416523326497",
+    "description": "SK이노베이션은 투자자를 넘어 사업개발 파트너로 보폭을 넓히고, HD현대와 현대건설은 제조와 설계·조달·시공(EPC), 두산에너빌리티는 핵심 기자재 제작을 맡으며 테라파워를 중심으로 한 차세대 원전 공급망에 속속...",
+    "published_at": "2026-08-15T07:30:00+09:00",
+    "cluster_id": "5cd8",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "[중화학ON]빌 게이츠 방한에 뜨거워진 K-SMR…테라파워로 모이는 기업들",
+    "summary": "빌 게이츠의 테라파워 방문으로 K-SMR(소형모듈원전) 시장이 활성화되고 있으며, SK이노베이션, HD현대, 현대건설, 두산에너빌리티 등 주요 기업들이 차세대 원전 공급망에 참여하고 있다. 건설, 제조, 기자재 등 다양한 분야의 기업들이 테라파워를 중심으로 협력하며 새로운 사업기회를 모색하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-07-16T07:31:07+09:00",
-    "event_label": "대한기계설비건설협회 동의대학교에 인재 양성금 2000만 원 기탁",
-    "importance": 5
+    "collected_at": "2026-08-15T07:35:10+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -22422,22 +22422,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T08:12:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"2시부터는 공사 못합니다\" 역대급 폭염에 건설현장 '초비상' - hankyung.com",
-    "link": "https://www.hankyung.com/article/202608070683i",
-    "description": "대우건설도 33도가 넘으면 시간당 10분 휴식을 의무화하고 38도를 넘기면 옥외작업을 아예 멈춘다. GS건설과 HS화성은 폭염중대경보 때 긴급작업을 뺀 옥외작업을 전면 중지하는 등 노동부 지침보다 한 칸 더 조였다....",
-    "published_at": "2026-08-10T07:29:00+09:00",
-    "cluster_id": "f499",
-    "publisher": "hankyung.com",
-    "title_clean": "\"2시부터는 공사 못합니다\" 역대급 폭염에 건설현장 '초비상'",
-    "summary": "극한의 폭염으로 건설현장이 초긴급 상태에 돌입했으며, 대우건설, GS건설, HS화성 등 대형사들이 노동부 지침보다 강화된 자체 기준을 시행 중이다. 33도 이상 시 휴식 의무화, 38도 초과 시 옥외작업 전면 중단 등으로 공기 지연과 비용 증가 우려가 커지고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T07:32:46+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
