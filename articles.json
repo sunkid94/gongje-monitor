@@ -6504,23 +6504,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[부산ㆍ경남 대학 브리핑 모음(7월16일)] 대한기계설비건설협회, 동의대... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151324486210295",
-    "description": "◆ 대한기계설비건설협회, 동의대에 인재 양성금 2000만 원 기탁 부산권 지원대학 선정…건축공학과 교육환경 개선 및 장학금으로 활용 대한기계설비건설협회(회장 허용주)가 동의대학교(총장 한수환)에 기계설비분야...",
-    "published_at": "2026-07-16T07:02:00+09:00",
-    "cluster_id": "9776",
-    "publisher": "대한경제",
-    "title_clean": "[부산ㆍ경남 대학 브리핑 모음(7월16일)] 대한기계설비건설협회, 동의대...",
-    "summary": "대한기계설비건설협회가 동의대학교에 인재 양성금 2000만 원을 기탁했다. 기금은 건축공학과 교육환경 개선과 장학금으로 활용될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T07:11:28+09:00",
-    "event_label": "대한기계설비건설협회 동의대학교에 인재 양성금 2000만 원 기탁",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22455,6 +22438,22 @@
     "sentiment": "negative",
     "collected_at": "2026-08-10T07:32:46+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'기후보험' 내년 시범사업 추진…건설노동자 대상 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706510&plink=ORI&cooper=NAVER",
+    "description": "건설노동자 1만 3천 명이 대상인데, 폭염으로 작업이 중단돼도 하루 평균 일당의 절반 정도를 보험금으로 받을 수 있습니다. 하정연 기자가 취재했습니다. <기자> [시민 (지난 7일) : 근래 제일 더웠던 것 같습니다.] 폭염이...",
+    "published_at": "2026-08-15T07:16:00+09:00",
+    "cluster_id": "c128",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "'기후보험' 내년 시범사업 추진…건설노동자 대상",
+    "summary": "건설노동자 1만 3천 명을 대상으로 내년 기후보험 시범사업을 추진한다. 폭염으로 작업 중단 시 일당의 절반 정도를 보험금으로 지급하는 제도로, 건설노동자의 소득 손실을 보완한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-15T07:25:10+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
