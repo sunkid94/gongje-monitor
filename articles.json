@@ -22541,6 +22541,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "내달 착공식 앞둔 현대제철 美 제철소…현지 반발은 과제 - news.einfomax.co.kr",
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430210",
+    "description": "서한은 주민 이주 우려, 그린 수소 전환 약속의 구체성, 환경 오염, 건설 노동자의 안전 등에 대한 문제 제기를 담았다. 특히 온실가스 배출량을 더욱 줄여야 한다고 이들은 주장하고 있다. 시민단체 시에라 클럽은...",
+    "published_at": "2026-08-14T14:24:00+09:00",
+    "cluster_id": "98bb",
+    "publisher": "news.einfomax.co.kr",
+    "title_clean": "내달 착공식 앞둔 현대제철 美 제철소…현지 반발은 과제",
+    "summary": "현대제철의 미국 제철소 건설이 내달 착공을 앞두고 있으나, 현지 주민과 시민단체들이 주민 이주, 환경 오염, 온실가스 배출 등을 이유로 강하게 반발하고 있다. 그린 수소 전환 약속의 구체성 부족과 건설 노동자 안전 문제도 쟁점이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-14T14:30:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32175,21 +32191,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-11T13:24:41+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[단독] '그로기' 건설사 한달새 500여곳 문 닫아 … 주택 공급의 뿌리부... - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100108.html",
-    "description": "11일 국토교통부 건설산업지식정보시스템(키스콘)에 따르면 7월부터 이날까지 폐업신고를 한 건설사는 총 539곳으로 전년 동기 378곳 대비 42.6% 늘었다. 단순 계산하면 하루에 13곳 꼴로 문을 닫은 셈이다. 이 중 비교적...",
-    "published_at": "2026-08-11T13:20:00+09:00",
-    "cluster_id": "8f59",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "[단독] '그로기' 건설사 한달새 500여곳 문 닫아 … 주택 공급의 뿌리부...",
-    "summary": "7월부터 한 달간 539곳의 건설사가 폐업신고를 제출해 전년 동기 대비 42.6% 증가했다. 하루 평균 13곳이 문을 닫는 상황으로 건설업계의 구조적 위기가 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T13:24:41+09:00",
-    "importance": 4
   }
 ]
