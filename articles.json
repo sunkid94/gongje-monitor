@@ -6455,39 +6455,6 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "2026 기계설비의 날 기념식 오는 23일 개최 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50856",
-    "description": "기계설비인들의 축제인 2026 기계설비의 날 행사가 오는 23일 서울 용산구 ‘서울드래곤시티 3층 그랜드볼룸 한라룸’에서 열린다.기계설비의 날 조직위원회(위원장 허용주)는 오는 23일 정부, 국회, 기계설비산업계 관계자 등 500여 명이 참석하는 기계설비의 날 행사를 개최할 예정이라고 16일 밝혔다.이번 기계설비의 날의 슬로건은 ‘AI 시대, 미래를 선도하는 K-기계설비’로, 급변하는 AI 산업 생태계 속에서 대두되는 기계설비의 중요성을 표현했다.조직위원회 관계자는 “3대 메가프로젝트의 성공을 위해 기계설비산업의 동반 성장 생태계",
-    "published_at": "2026-07-16T08:00:00+09:00",
-    "cluster_id": "afbe",
-    "publisher": "기계설비신문",
-    "title_clean": "2026 기계설비의 날 기념식 오는 23일 개최",
-    "summary": "기계설비건설협회 조직위원회가 23일 서울 용산구에서 '2026 기계설비의 날' 기념식을 개최한다. 행사는 'AI 시대, 미래를 선도하는 K-기계설비'를 슬로건으로 정부·국회·업계 관계자 500여 명이 참석할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T08:16:06+09:00",
-    "event_label": "대한기계설비건설협회 2026 기계설비의 날 기념식 개최",
-    "importance": 5
-  },
-  {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회, 인재양성사업 강화…부산·대구·창원에 지원금 전달 (종합) - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfQm16M3dvOG9UdGtGQ1pXZ1AzVkItVEhyTkpEcFh1V0N0MHF6UXEyX0xYRDhwVUpLQWJTcmFmREI0Q2V3OVJpbGY5cjFWQVN4RlNlNFJmX3lqUWZnV0h1bXZUOG9fbkxYVGlEdw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBfQm16M3dvOG9UdGtGQ1pXZ1AzVkItVEhyTkpEcFh1V0N0MHF6UXEyX0xYRDhwVUpLQWJTcmFmREI0Q2V3OVJpbGY5cjFWQVN4RlNlNFJmX3lqUWZnV0h1bXZUOG9fbkxYVGlEdw?oc=5\" target=\"_blank\">기계설비협회, 인재양성사업 강화…부산·대구·창원에 지원금 전달 (종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
-    "cluster_id": "fccd",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비협회, 인재양성사업 강화…부산·대구·창원에 지원금 전달 (종합)",
-    "summary": "기계설비협회가 인재양성사업을 강화하기 위해 부산, 대구, 창원 지역에 지원금을 전달했다. 이는 기계설비 산업의 인력 확보 및 육성을 위한 적극적인 투자로 업계 발전을 도모하는 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-16T08:10:52+09:00",
-    "event_label": "기계설비협회 인재양성사업 지원금 전달",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22422,6 +22389,22 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T08:38:24+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염 건설현장·도심 쉼터 동시 점검…인미동 \"안전은 현장에서 완성\" - 충청일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYXFfT2VxMkNIUjhBVmtMZXEydl95dmNEaThNNHUxaWUzYTlCanlCRHdXanhQcFpyWE92QVM3cFdCdi1wRVJUY0tKV1BsZU9mZzEwai1tcExpYndaWHZIeG00aVVRSnZ6NnBpOUQ3VzY?oc=5",
+    "description": "뜨거운 열기가 가시지 않은 도시철도 공사구간에서는 근로자의 건강과 작업환경을, 시민 발길이 이어지는 도심 쉼터에서는 편의·안전시설의 작동 상태를 확인하는 현장 점검이 진행됐다.대전시의회 행정자치위원회는 14일 대전도시철도 2호선 12공구 건설현장과 유성구 해랑숲 고운마루 스마트쉼터를 잇달아 방문해 사업 추진 상황과 운영 실태를 살폈다. 보고서에 담긴 계획을 확인하는 데 그치지 않고 현장에서 실제 작동하는 안전대책과 시민 이용 여건을 직접 점검하는 데 무게를 뒀다.도시철도 2호선 12공구에서는 공사 진행 상황과 단계별 안전관리 대책을",
+    "published_at": "2026-08-15T08:24:42+09:00",
+    "cluster_id": "8759",
+    "publisher": "충청일보",
+    "title_clean": "폭염 건설현장·도심 쉼터 동시 점검…인미동 \"안전은 현장에서 완성\"",
+    "summary": "대전시의회 행정자치위원회가 도시철도 2호선 12공구 건설현장과 도심 쉼터를 점검하여 근로자 안전과 작업환경, 시민 편의시설 운영 실태를 확인했다. 현장 기반의 실질적 안전관리 대책 이행 상황을 점검하며 공사 추진 상황을 감시했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-15T08:30:13+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
