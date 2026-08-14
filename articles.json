@@ -22489,6 +22489,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "지역 건설경기 침체에 건설 일자리 ‘뚝’ - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZmduRVZGVFRqUFVvdmhPM0gwT2ZWZnVyb1d0dU84Y2lsVjh6RjVyY2k0Rnd3R3ROU3RMT1BGbzFYNWMxVFR4ZWZISnJIZEJYNUMyTnFKanpXTzdkLUlPUGZ0ekpNVWg2VnhmSUhVT0FNOTVyc1FKRzVwZXU3MHJKMg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZmduRVZGVFRqUFVvdmhPM0gwT2ZWZnVyb1d0dU84Y2lsVjh6RjVyY2k0Rnd3R3ROU3RMT1BGbzFYNWMxVFR4ZWZISnJIZEJYNUMyTnFKanpXTzdkLUlPUGZ0ekpNVWg2VnhmSUhVT0FNOTVyc1FKRzVwZXU3MHJKMg?oc=5\" target=\"_blank\">지역 건설경기 침체에 건설 일자리 ‘뚝’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+    "cluster_id": "156c",
+    "publisher": "강원일보",
+    "title_clean": "지역 건설경기 침체에 건설 일자리 ‘뚝’",
+    "summary": "지역 건설경기 침체로 인해 건설 일자리가 감소하고 있다. 건설업계의 고용 악화가 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-14T21:00:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32173,21 +32188,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-11T17:54:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전북도, 폭염 속 건설근로자 안전 총력... 현장점검 강화 - jeollailbo.com",
-    "link": "http://www.jeollailbo.com/news/articleView.html?idxno=807933",
-    "description": "전북특별자치도가 폭염 속 건설근로자 보호를 위해 건설현장 안전점검을 강화한다. 전북도는 11일 세계서예비엔날레관 건립공사 현장을 찾아 근로자 휴게시설과 폭염 단계별 대응요령 준수 여부 등 안전관리 실태를...",
-    "published_at": "2026-08-11T17:42:00+09:00",
-    "cluster_id": "df06",
-    "publisher": "jeollailbo.com",
-    "title_clean": "전북도, 폭염 속 건설근로자 안전 총력... 현장점검 강화",
-    "summary": "전북도가 폭염 속 건설근로자 안전 보호를 위해 건설현장 안전점검을 강화하고 있다. 근로자 휴게시설과 폭염 대응요령 준수 여부 등을 집중적으로 점검하는 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T17:50:14+09:00",
-    "importance": 4
   }
 ]
