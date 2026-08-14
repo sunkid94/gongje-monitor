@@ -22457,6 +22457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "68개월→37개월…'빨리 짓기' 승부수, 주택 공급 체감 높일까 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260813_0003748455",
+    "description": "다만 건설경기와 주택 수요, 토지 보상 과정에서의 갈등 등 변수가 많아 정부 계획대로 사업 속도를 높일 수 있을지는 지켜봐야 한다. 정부가 13일 발표한 '전월세 및 매매시장 안정을 위한 주택 신속공급 방안'에는 수도권...",
+    "published_at": "2026-08-15T04:00:00+09:00",
+    "cluster_id": "aea1",
+    "publisher": "newsis.com",
+    "title_clean": "68개월→37개월…'빨리 짓기' 승부수, 주택 공급 체감 높일까",
+    "summary": "정부가 주택 공급을 위해 건설 기간을 68개월에서 37개월로 단축하는 신속공급 방안을 발표했다. 다만 건설경기 변동성, 주택 수요 불확실성, 토지 보상 갈등 등 변수가 많아 실제 계획 이행 여부는 불확실한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-15T04:10:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32171,22 +32187,6 @@
     "summary": "경남도의회 건설소방위원회가 폭염 시기 건설현장의 안전관리 실태를 점검하고 있다. 근로자 안전과 현장 관리 상황을 모니터링하는 정부 차원의 감시·감독 활동이 강화되고 있는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-11T18:39:45+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "아세아·한라시멘트 수익성 ‘반토막’…“친환경으로 돌파” - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202608100121",
-    "description": "건설경기 침체가 길어지면서 아세아그룹의 시멘트 사업도 흔들리고 있습니다. 아세아시멘트에 이어 한라시멘트까지 수익성이 크게 악화됐는데요. 올해 1분기에는 실적이 반등했지만, 원가 부담까지 커지면서...",
-    "published_at": "2026-08-11T18:04:00+09:00",
-    "cluster_id": "18de",
-    "publisher": "sentv.co.kr",
-    "title_clean": "아세아·한라시멘트 수익성 ‘반토막’…“친환경으로 돌파”",
-    "summary": "건설경기 침체로 아세아시멘트와 한라시멘트의 수익성이 악화되었으며, 1분기 실적 반등에도 불구하고 원가 부담이 증가하고 있다. 업계는 친환경 사업으로 위기 돌파를 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T18:10:30+09:00",
     "importance": 4
   }
 ]
