@@ -6521,6 +6521,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[초점] '빌 게이츠 원전' 테라파워에 K기업 총출동…SMR 공급망 선점전 - newsian.co.kr",
+    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93777",
+    "description": "두산에너빌리티 역시 테라파워와 나트륨 원자로 핵심 기자재 제작 계약을 맺었다. 두산에너빌리티는 원자로 보호용기와 지지구조물, 내부구조물 등을 제작할 예정이다. 앞서 테라파워와 제작성 검토 및 설계 개선...",
+    "published_at": "2026-08-15T06:48:00+09:00",
+    "cluster_id": "cb9d",
+    "publisher": "newsian.co.kr",
+    "title_clean": "[초점] '빌 게이츠 원전' 테라파워에 K기업 총출동…SMR 공급망 선점전",
+    "summary": "빌 게이츠의 테라파워와 한국 기업들이 소형모듈원전(SMR) 공급망 계약을 체결하고 있다. 두산에너빌리티가 나트륨 원자로 핵심 기자재 제작을 담당하며 한국 건설·기계 업계가 차세대 원전 시장을 선점하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-15T06:57:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22439,22 +22455,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T07:07:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 고덕 아이파크 디어반 '장기전' - dealsite.co.kr",
-    "link": "https://dealsite.co.kr/articles/166035",
-    "description": "PF 3000억원 대위변제·미수공사비 2411억원…22년 장기 회수 구조 IPARK현대산업개발이 고덕 아이파크 디어반 준공 이후에도 재무 부담을 이어가고 있다. 지난해 약 3000억원 규모의 PF 채무를 대위변제한 데 이어 미지급...",
-    "published_at": "2026-08-10T07:02:00+09:00",
-    "cluster_id": "3064",
-    "publisher": "dealsite.co.kr",
-    "title_clean": "IPARK현대산업개발, 고덕 아이파크 디어반 '장기전'",
-    "summary": "IPARK현대산업개발이 고덕 아이파크 디어반 준공 후에도 3000억원 규모 PF 채무 대위변제와 2411억원의 미수공사비로 인해 22년에 걸친 장기 재무 부담을 안고 있다. 준공 이후에도 지속되는 채무 상환 구조는 건설업계의 PF 리스크를 반영하는 사례다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T07:07:49+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
