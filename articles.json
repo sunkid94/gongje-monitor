@@ -22375,6 +22375,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설협회 “8·13 대책 환영”…PF 숨통 트여 주택 공급 속도 기대 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84LVhTVVIyTTBuZl9sVFBlYURrNGMyRG9QaExJMlVTbW1OQS1VSWV3eGZla2VqVDNMQjZmblA0QUhybEpFVzFGcTNob2Y2WE1DTzhlc3NVMHJkZ2ZMR1puMUY4SGdZeldSMkFqRnUxT1ZFLTDSAXdBVV95cUxPLWdqYzJFUTNyQ1dYVFlNZFVvUW8zNDUxdjVwWGlMS2lmRjJkZzBqU2FCLVVkUjFGQTBaclowM0VqRjJidVFFZDFHb2NSVFhhZ1RtWl9DUTB6UWFlWWt4Y3BxdkRZaUxpNXFNd1hScXVZLU9CZ0pwRQ?oc=5",
+    "description": "대한건설협회가 정부의 ‘8·13 주택 신속 공급 방안’과 ‘부동산 시장 안정을 위한 금융 종합대책’에 대해 환영의 뜻을 밝혔다. 프로젝트파이낸싱(PF) 관련 금융 부담을 낮추고 정비사업의 이주 여건을 개선하는 조치가 민간 주택 공급을 앞당기는 데 도움이 될 것이라는 평가다.대한건설협회는 14일 입장문을 내고 “이번 대책은 건설업계의 자금조달 부담을 완화하고 민간 주택 공급 여건을 개선하는 실효성 있는 방안”이라며 “금융시장 경색으로 어려움을 겪고 있는 정상 사업장의 자금조달에 도움이 될 것으로 기대한다”고 밝혔다.협회가 가장 긍정적",
+    "published_at": "2026-08-15T09:23:33+09:00",
+    "cluster_id": "6749",
+    "publisher": "핀포인트뉴스",
+    "title_clean": "건설협회 “8·13 대책 환영”…PF 숨통 트여 주택 공급 속도 기대",
+    "summary": "정부의 '8·13 주택 신속 공급 방안'과 금융 종합대책에 대해 대한건설협회가 환영의 입장을 표명했다. PF 금융 부담 완화와 정비사업 이주 여건 개선 등이 민간 주택 공급을 촉진할 것으로 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-15T09:49:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32169,22 +32185,6 @@
     "summary": "강동하남남양주선 건설에서 서울과 경기도의 진행 속도가 불일치하고 있습니다. 서울은 사업 추진에 속도를 내고 있으나 경기도는 진전이 더딘 상황입니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-11T18:59:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "음성군, 폭염 장기화에 현장 안전점검 강화 - 충청도민일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkV3ZYcVp3eEdfbTFaZUVZdFA1UVBSMC1PRDNDM2VZWUM5YVR2alRIYU5aaXJQblpiNFNrSnFUbXB6YVphVGJ0UENycGZoeHprTnFFN0FYTk85NVQxdHczTnpSczRNZWdOcjNGYw?oc=5",
-    "description": "[충청도민일보 노헌호 기자] = 충북 음성군이 장기화하는 폭염 속에서 군민 건강과 현장 근로자 안전을 지키기 위한 현장 중심 점검을 이어가고 있다.조병옥 음성군수",
-    "published_at": "2026-08-11T18:21:10+09:00",
-    "cluster_id": "155d",
-    "publisher": "충청도민일보",
-    "title_clean": "음성군, 폭염 장기화에 현장 안전점검 강화",
-    "summary": "충북 음성군이 폭염 장기화에 따른 현장 안전점검을 강화하고 있다. 군민 건강과 현장 근로자 안전 보호에 중점을 두고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T18:54:53+09:00",
     "importance": 4
   }
 ]
