@@ -22358,6 +22358,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부 “용산공원 전체에 주택 건설 아냐…적합 부지 검토 취지” - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51SnNtbHp0Vjkzc1Y5YUtfZXNxMFhQd3RTY1RRMGwxa0FOeWs4LW4xT2t6LVctZXAzUjg4dXRoZFRZWGpHaF91ZkszbUkyZw?oc=5",
+    "description": "국토교통부가 용산공원 전체를 주택 공급지로 활용하는 방안을 검토한다는 보도에 대해 “공원 전체에 주택을 건설한다는 의미가 아니다”라고 해명했다. 국토부는 전날 밤 보도해명자료를 내고 “용산공원 전체 부지를 대상으로 어느 곳이 주택 건설에 적합한지를 검토한다는 취지”라며 이같이 밝혔다. 앞서 김윤덕 국토부 장관은 같은 날 취임 1주년 기자간담회에서 주택 공급을 위한 용산공원 활용 가능성과 관련해 “용산어린이정원이라는 좁은 개념이 아니라 용산공원",
+    "published_at": "2026-08-15T11:58:21+09:00",
+    "cluster_id": "7567",
+    "publisher": "전자신문",
+    "title_clean": "국토부 “용산공원 전체에 주택 건설 아냐…적합 부지 검토 취지”",
+    "summary": "국토부가 용산공원 전체에 주택을 건설한다는 보도를 해명하며, 공원 전체를 대상으로 주택 건설에 적합한 부지를 검토하는 것이라고 밝혔다. 용산공원의 주택 공급 활용 가능성을 검토 중인 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-15T12:09:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32170,21 +32186,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T19:14:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[현장 의정 리포트]남종섭 경기도의장, 폭염 속 ‘현장 의정’…건설현... - nspna.com",
-    "link": "https://www.nspna.com/news/?mode=view&newsid=823876",
-    "description": "“생명·안전 최우선”…건설 노동자 보호조치 집중 점검 이날 김규식 경기도 안전관리실장 등 관계자들과 함께 용인플랫폼시티 조성 공사 현장을 찾은 남 의장은 근로자 온열질환 예방 체계를 우선적으로 확인했다. 남...",
-    "published_at": "2026-08-11T19:00:00+09:00",
-    "cluster_id": "cc63",
-    "publisher": "nspna.com",
-    "title_clean": "[현장 의정 리포트]남종섭 경기도의장, 폭염 속 ‘현장 의정’…건설현...",
-    "summary": "남종섭 경기도의장이 폭염 속 건설현장을 방문하여 근로자 온열질환 예방 체계를 중심으로 현장 의정을 실시했다. 생명·안전을 최우선으로 건설 노동자 보호조치를 집중 점검했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T19:09:40+09:00",
-    "importance": 2
   }
 ]
