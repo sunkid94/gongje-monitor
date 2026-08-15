@@ -22358,6 +22358,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "‘수출 강국’ 대한민국은 누가 만들었나…미싱 소리, 중동 사막바람, ... - shindonga.donga.com",
+    "link": "https://shindonga.donga.com/3/all/13/6337036/1",
+    "description": "상사 직원들의 일은 봉제 노동자의 손끝이나 중동 건설노동자의 땀처럼 선명한 이미지로 남기 어렵다. 그러나 좋은 상품과 기술이 있어도 계약이 이루어지지 않으면 세계시장으로 나갈 수 없다. 누군가는 바이어를 만나고...",
+    "published_at": "2026-08-15T13:01:00+09:00",
+    "cluster_id": "5a2e",
+    "publisher": "shindonga.donga.com",
+    "title_clean": "‘수출 강국’ 대한민국은 누가 만들었나…미싱 소리, 중동 사막바람, ...",
+    "summary": "한국의 수출 성공이 봉제 노동자, 건설 노동자, 영업 담당자 등 다양한 직종의 노고로 이루어졌음을 조명하는 기사. 눈에 띄지 않는 상사 직원들의 역할과 계약 성사의 중요성을 강조.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-15T13:04:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32170,21 +32186,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-11T19:29:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "에어컨 없고, 200도 넘는 화구 한가득…폭염 지나도 힘겨운 노동자들 - yonhapnewstv.co.kr",
-    "link": "http://www.yonhapnewstv.co.kr/news/MYH202608111908241zw",
-    "description": "이 땀이 장화 속으로 그대로 들어가고 오후에 장화를 뒤집으면 장화에서 물이 흥건히 나오거든요.\" 뙤약볕 아래서 일하는 건설노동자들의 상황은 더 열악합니다. 고용노동부는 체감온도 38도 이상이면 옥외 작업을...",
-    "published_at": "2026-08-11T19:09:00+09:00",
-    "cluster_id": "3ba0",
-    "publisher": "yonhapnewstv.co.kr",
-    "title_clean": "에어컨 없고, 200도 넘는 화구 한가득…폭염 지나도 힘겨운 노동자들",
-    "summary": "폭염 속에서 건설노동자들이 에어컨 없는 환경과 200도를 넘는 화구 등 극한의 작업 환경에 노출되어 있다. 고용노동부의 작업 중단 기준(체감온도 38도 이상)에도 불구하고 현장에서는 열악한 근무 조건이 개선되지 않고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T19:14:33+09:00",
-    "importance": 4
   }
 ]
