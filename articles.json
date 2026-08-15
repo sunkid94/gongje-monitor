@@ -22361,6 +22361,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "벨기에 건설 현장서 142억원 상당 금 발견 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665662",
+    "description": "사진제공/AFP통신 벨기에의 건설 현장서 이번 주 건설 노동자들이 1천만 달러(약 142억원) 상당의 금괴가 발견됐다. 14일(현지시간) AFP통신에 따르면 현지 경찰은 건설 노동자들이 많은 양의 금을 발견한 후 신고했으며...",
+    "published_at": "2026-08-15T14:24:00+09:00",
+    "cluster_id": "3d73",
+    "publisher": "gukjenews.com",
+    "title_clean": "벨기에 건설 현장서 142억원 상당 금 발견",
+    "summary": "벨기에의 건설 현장에서 약 142억원 상당의 금괴가 발견되었다. 건설 노동자들이 금을 발견한 후 경찰에 신고했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-15T14:29:03+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "‘수출 강국’ 대한민국은 누가 만들었나…미싱 소리, 중동 사막바람, ... - shindonga.donga.com",
     "link": "https://shindonga.donga.com/3/all/13/6337036/1",
     "description": "상사 직원들의 일은 봉제 노동자의 손끝이나 중동 건설노동자의 땀처럼 선명한 이미지로 남기 어렵다. 그러나 좋은 상품과 기술이 있어도 계약이 이루어지지 않으면 세계시장으로 나갈 수 없다. 누군가는 바이어를 만나고...",
@@ -32171,20 +32187,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T19:29:36+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남종섭 경기도의회 의장, 건설현장·공원 찾아 폭염 안전대책 점검 - 비욘드포스트",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yUUVDM1M4bHBNOE1VbHRlRFZJVkxfWUxPOW45LXRkYzZCNlZndnptTmJaaEF6UlV0UlRmS0xXdzZLMDdReFFpXzR5NXctdFNwNWxYZzQ1OFBEV29INWNWZ1VXcUdHTVlybmhHSmhDNlpkajJTLWRLNFhKbnU?oc=5",
-    "description": "남종섭 경기도의회 의장이 폭염에 노출된 건설 노동자의 작업환경과 주민 생활공간에 설치된 폭염저감시설을 잇달아 점검하며 현장 중심의 안전 행보에 나섰다.남 의장은 11일 김규식 경기도 안전관리실장과 함께 용인플랫폼시티 조성공사 현장과 용인시 동백동 내꽃근린공원을 방문해 폭염 대응체계와 시",
-    "cluster_id": "3ea2",
-    "publisher": "비욘드포스트",
-    "title_clean": "남종섭 경기도의회 의장, 건설현장·공원 찾아 폭염 안전대책 점검",
-    "summary": "남종섭 경기도의회 의장이 용인플랫폼시티 건설현장과 공원을 방문하여 폭염 안전대책을 점검했다. 건설 노동자의 작업환경과 폭염저감시설을 중심으로 현장 안전 관리 강화에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T19:29:36+09:00",
-    "importance": 2
   }
 ]
