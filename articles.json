@@ -6439,20 +6439,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설협회 제45회 인정기능사 검정 접수 연장 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMllVdHR5Nlp3cUhyQU1OS0xqMFBLMDRydENlUmlmWWdPcmlSbUVmOXN2bWxvUUFxeUt6MkdkVDJ0YmxDYXdYaV9PbU9vV281OF9zMGtVUWMwOHpoX3RnSTVFWExFTGw1Ri1MZQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMllVdHR5Nlp3cUhyQU1OS0xqMFBLMDRydENlUmlmWWdPcmlSbUVmOXN2bWxvUUFxeUt6MkdkVDJ0YmxDYXdYaV9PbU9vV281OF9zMGtVUWMwOHpoX3RnSTVFWExFTGw1Ri1MZQ?oc=5\" target=\"_blank\">기계설비건설협회 제45회 인정기능사 검정 접수 연장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
-    "cluster_id": "a901",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비건설협회 제45회 인정기능사 검정 접수 연장",
-    "summary": "기계설비건설협회가 제45회 인정기능사 검정의 접수 기간을 연장했다. 이는 기술인력 양성 및 자격 취득 기회 확대를 위한 조치로 보인다.",
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "올해는 선별수주가 대세…목동·여의도·성수 등 단독수주 가능성↑ - fntimes.com",
+    "link": "https://www.fntimes.com/html/view.php?ud=202608141150499330b372994c95_18",
+    "description": "현장설명회에는 삼성물산과 대우건설·GS건설·HDC현대산업개발 등 7개사가 참석했다. 다만 현재까지 삼성물산을 제외하면 뚜렷한 수주 움직임은 나타나지 않고 있다. 삼성물산의 단독 응찰 가능성이 거론되는 배경이다....",
+    "published_at": "2026-08-15T09:02:00+09:00",
+    "cluster_id": "8959",
+    "publisher": "fntimes.com",
+    "title_clean": "올해는 선별수주가 대세…목동·여의도·성수 등 단독수주 가능성↑",
+    "summary": "올해 건설 시장이 선별수주 기조로 전환되면서 목동, 여의도, 성수 등 대형 프로젝트에서 단독수주 가능성이 높아지고 있다. 현장설명회에 7개 건설사가 참석했으나 삼성물산을 제외한 업체들의 수주 움직임은 아직 미흡한 상태다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-16T09:06:20+09:00",
-    "event_label": "대한기계설비건설협회 제45회 인정기능사 검정 접수 연장",
-    "importance": 5
+    "collected_at": "2026-08-15T09:09:48+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -22373,22 +22373,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T08:38:24+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 글로벌 엔지니어링 기업 ARUP과 협업 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=338715",
-    "description": "대우건설이 목동8단지 재건축정비사업(이하 목동8단지) 수주를 위해 세계적인 구조 설계 및 엔지니어링 기업인 ARUP과 전략적 협업에 나섰다. 영국 런던에 본사를 둔 ARUP은 전 세계 100여 개국 이상에서 활동하고 있는...",
-    "published_at": "2026-08-10T08:30:00+09:00",
-    "cluster_id": "3d86",
-    "publisher": "국토일보",
-    "title_clean": "대우건설, 글로벌 엔지니어링 기업 ARUP과 협업",
-    "summary": "대우건설이 목동8단지 재건축 수주를 위해 글로벌 엔지니어링 기업 ARUP과 전략적 협업을 추진 중이다. 세계적 수준의 설계 역량을 확보하여 대규모 재건축 프로젝트 수주 가능성을 높이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T08:38:24+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 노동",
