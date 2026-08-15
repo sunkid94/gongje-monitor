@@ -6442,6 +6442,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "[분양캘린더] 8월 셋째 주 청약시장, 수도권에 80% 집중···서울 도심·... - smartbizn.com",
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=151356",
+    "description": "19일 1순위 청약을 받는 '써밋 클라비온'은 신길뉴타운에서 처음으로 대우건설의 하이엔드 주거 브랜드 '써밋'이 적용되는 단지다. 신길10재정비촉진구역 주택재건축정비사업을 통해 조성되며 지하 4층~지상 최고 29층...",
+    "published_at": "2026-08-15T09:24:00+09:00",
+    "cluster_id": "a87e",
+    "publisher": "smartbizn.com",
+    "title_clean": "[분양캘린더] 8월 셋째 주 청약시장, 수도권에 80% 집중···서울 도심·...",
+    "summary": "8월 셋째 주 수도권 청약시장에서 '써밋 클라비온' 등 대규모 분양물량이 공급되며, 신길뉴타운 재건축 프로젝트를 통해 대우건설의 하이엔드 브랜드가 처음 적용된다. 수도권 공급 집중으로 건설업계의 프로젝트 수주 기회가 확대되는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-15T09:29:44+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "올해는 선별수주가 대세…목동·여의도·성수 등 단독수주 가능성↑ - fntimes.com",
     "link": "https://www.fntimes.com/html/view.php?ud=202608141150499330b372994c95_18",
     "description": "현장설명회에는 삼성물산과 대우건설·GS건설·HDC현대산업개발 등 7개사가 참석했다. 다만 현재까지 삼성물산을 제외하면 뚜렷한 수주 움직임은 나타나지 않고 있다. 삼성물산의 단독 응찰 가능성이 거론되는 배경이다....",
@@ -22359,20 +22375,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 목동8단지 재건축에 글로벌 엔지니어링사 'ARUP' 기술력 도입 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=115219",
-    "description": "건축구조분야 엔지니어링 전문 글로벌 기업, ARUP(아룹)이 구조설계사로 참여한 싱가포르의 대표 랜드마크 '마리나 베이 샌즈' /사진=대우건설 대우건설이 서울 양천구 목동8단지 재건축 사업 수주를 위해 세계적 구조...",
-    "published_at": "2026-08-10T08:30:00+09:00",
-    "cluster_id": "ea9d",
-    "publisher": "businessplus.kr",
-    "title_clean": "대우건설, 목동8단지 재건축에 글로벌 엔지니어링사 'ARUP' 기술력 도입",
-    "summary": "대우건설이 목동8단지 재건축 사업에서 글로벌 구조엔지니어링 회사 ARUP을 설계사로 참여시켜 기술력을 강화하고 있다. 이는 대규모 재건축 수주 경쟁에서 기술 차별화를 통해 수주 확보를 추진하는 건설사의 전략적 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T08:38:24+09:00",
-    "importance": 2
+    "title": "美·EU 철강 장벽에 수출 부담↑…포스코·현대제철, 현지화 속도 - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=315010",
+    "description": "여기에 건설경기 부진 등으로 국내 철강 수요마저 정체되면서 포스코와 현대제철은 해외 현지 생산을 통해 새로운 성장동력을 확보한다는 전략이다. 14일 철강업계에 따르면 포스코는 올해부터 2028년까지 해외...",
+    "published_at": "2026-08-15T09:20:00+09:00",
+    "cluster_id": "59b0",
+    "publisher": "thepublic.kr",
+    "title_clean": "美·EU 철강 장벽에 수출 부담↑…포스코·현대제철, 현지화 속도",
+    "summary": "미국·EU의 철강 관세 장벽 강화로 한국 철강사의 수출 부담이 증가하고 있으며, 포스코·현대제철 등이 해외 현지 생산으로 대응하고 있다. 국내 건설경기 부진으로 수요가 정체되면서 해외 현지화가 새로운 성장전략으로 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-15T09:29:44+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32170,21 +32186,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T18:54:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "전남개발공사, 행안부 경영평가 3년 연속 ‘우수기관’ - jndn.com",
-    "link": "http://www.jndn.com/article.php?aid=1786440438437672003",
-    "description": "전남개발공사는 지역 부동산 경기침체와 건설경기 위축 등 어려운 경영 여건 속에서도 △안정적인 재무구조 지속 유지(부채비율 28%) △CLEAN 행정을 통한 종합청렴도 최우수 기관 달성(대통령표창 수상) △ESG경영 및...",
-    "published_at": "2026-08-11T18:30:00+09:00",
-    "cluster_id": "9420",
-    "publisher": "jndn.com",
-    "title_clean": "전남개발공사, 행안부 경영평가 3년 연속 ‘우수기관’",
-    "summary": "전남개발공사가 행안부 경영평가에서 3년 연속 우수기관으로 선정되었으며, 부채비율 28% 유지, 청렴도 최우수, ESG경영 등으로 안정적 경영을 입증했다. 건설경기 침체 속에서도 양호한 재무 상태를 유지하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T18:39:45+09:00",
-    "importance": 2
   }
 ]
