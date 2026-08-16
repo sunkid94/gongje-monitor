@@ -5931,6 +5931,22 @@
     "event_label": "대한기계설비건설협회 폴리텍大 충주캠퍼스에 2천만원 후원금 기탁"
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[프리스탁 건강검진] 포스코이앤씨, 수익성 회복에도 현금창출력은 과제 - 프리스탁뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0YWJrQ2JtdEwwdkZRdy1PVXRoYjd0Wms0bm14V0FJY2tRcnFhLXByelRNOWpXSzZFai1aLVdvVllTYlBISWUtdks0TmluQmpnd2hHdDBlY3dZY2dQbTRUVFNsb0ItRXM4U0FmRHFzdw?oc=5",
+    "description": "포스코이앤씨는 2026년 상반기에 매출이 감소했지만 원가 부담이 완화되면서 영업이익과 순이익이 흑자로 전환됐다. 자본도 증가했지만 영업활동에서는 여전히 현금이 유출됐다. 매출채권과 미청구공사 등 운전자금 부담이 이어지는 가운데 차입금도 증가해 수익성 회복이 현금창출력 개선으로 이어지는지는 추가 확인이 필요하다.성장성상반기 매출액은 3조4489억원으로 전년 동기 3조6800억원 대비 6.3% 감소했다. 외형이 줄었지만 매출원가는 3조5094억원에서 3조1314억원으로 10.8% 감소했다.매출총이익은 1707억원에서 3175억원으로 8",
+    "published_at": "2026-08-16T10:28:05+09:00",
+    "cluster_id": "ec59",
+    "publisher": "프리스탁뉴스",
+    "title_clean": "[프리스탁 건강검진] 포스코이앤씨, 수익성 회복에도 현금창출력은 과제",
+    "summary": "포스코이앤씨가 2026년 상반기 원가 절감으로 영업이익과 순이익이 흑자 전환했으나, 운전자금 부담과 차입금 증가로 현금창출력 개선이 과제다. 수익성 회복이 실제 현금흐름 개선으로 이어질지 추가 모니터링이 필요한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-16T10:32:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21849,22 +21865,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T09:43:14+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 목동8단지 재건축 수주전 돌입…글로벌 엔지니어링 기업 ARUP과 맞손 - g-enews.com",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRElwa3k4UVBIYmZKRExfMFMtY25NZ1JpWTlCWVNMRHhZWmlLMHdLaUdzdW8wb1hsVGJoN21ONmlGNmN2aW8tVElBRU9zWFRaOFVSSV8tSEZxRmp2U04ybWdlNEYtUzVpX2x3dmlyc0hETUc0VFh3TDNBd0JTVTVmUVVZUkdOM09jUEE?oc=5",
-    "description": "대우건설이 서울 양천구 목동8단지 재건축 사업 수주를 위해 글로벌 엔지니어링 기업 ARUP(아룹)과 손잡았다. 단순한 외관 설계를 넘어 초고층 구조 설계 역량을 접목해 안전성과 상품성을 동시에 확보하는 전략이다. 목동 일대 재건축 사업의 경쟁이 치열해지는 가운데 기술력을 앞세워 조합원",
-    "published_at": "2026-08-10T09:26:31+09:00",
-    "cluster_id": "0f47",
-    "publisher": "",
-    "title_clean": "대우건설, 목동8단지 재건축 수주전 돌입…글로벌 엔지니어링 기업 ARUP과 맞손 - g-enews.com",
-    "summary": "대우건설이 글로벌 엔지니어링 기업 ARUP과 협력하여 서울 양천구 목동8단지 재건축 사업 수주에 나섰다. 초고층 구조 설계 기술력을 바탕으로 안전성과 상품성을 강화하는 전략으로 경쟁력을 확보하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T09:43:14+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
