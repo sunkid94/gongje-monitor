@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[8월17일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444894",
+    "description": "이어간다 ● 포스코이앤씨 4년 만에 수익성 반등 신호탄, 송치영 '주택 올인' 지속성 시험대 ● [현장] '1등 K만두' 매일 160톤씩 생산, CJ제일제당 보몬트공장 '미국판 비비고 신화' 쓴다 ● [현장] \"구름 같은 식감에...",
+    "published_at": "2026-08-16T16:50:00+09:00",
+    "cluster_id": "d2b8",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[8월17일자] 비즈니스포스트 아침의 주요기사",
+    "summary": "포스코이앤씨가 4년 만에 수익성 반등 신호를 보이며 주택사업 집중 전략의 지속성을 시험받고 있다. CJ제일제당은 미국 보몬트공장에서 K만두를 일일 160톤 규모로 생산하며 해외 식품산업 확대를 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-16T16:52:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21816,21 +21832,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T09:53:22+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 영국 안전 구조 설계기업 ‘아룹’과 협업…목동8단지 수주 총력 - 팍스경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scnc1YTlGOFFBeHlMbDFBYnpueFo2elZWNXRjYTM4SVVKTlZ5ekVfTXc2R1cyRWQzeHNDR19iQTNpb0hIWXBRVHVIT1ZzLWg4Yk1SRXhCZ281MGJsVHo5Yl9teXUwTVk?oc=5",
-    "description": "대우건설이 목동8단지 재건축사업 수주를 위해 영국 구조 설계 및 엔지니어링기업인 &lsquo;아룹(ARUP)&rsquo;과 전략적 협업에 나선다고 10일 밝혔습니다.아룹은 고층 건축물 설계에 필수적인 구조 시스템 최적화, 풍하중 분석, 성능 기반 내진 설계 등 고도의 엔지니어링 기술을 보유하고 있습니다. 이를 통해 복잡한 도시 환경 속에서도 안전성과 효율성을 높인다는 평가를 받습니다.대우건설은 아룹과 협업해 최고 높이 180m 규모의 목동8단지 건축물 계획에 맞춰 최적화된 구조 시스템을 검토합니다. 아울러 지진‧강풍 등 다양한 외부",
-    "cluster_id": "bc1e",
-    "publisher": "팍스경제TV",
-    "title_clean": "대우건설, 영국 안전 구조 설계기업 ‘아룹’과 협업…목동8단지 수주 총력",
-    "summary": "대우건설이 영국의 구조 설계 전문기업 아룹과 협업하여 목동8단지 재건축사업 수주를 추진 중입니다. 아룹의 고도의 엔지니어링 기술을 활용해 180m 규모 건축물의 구조 시스템을 최적화하고 지진·강풍 등 안전성을 확보할 계획입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T09:53:22+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
