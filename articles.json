@@ -5931,23 +5931,6 @@
     "event_label": "대한기계설비건설협회 폴리텍大 충주캠퍼스에 2천만원 후원금 기탁"
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협회, 국립한밭대에 인재양성 지원금 2000만 원 전달 - 투데이플러스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsTkhSRmwzZ3RtdDlLVXlUN3hIeUhzVUdmNVc3cjJJby1jbGcxV2QxblRDcU04YVk5aFZDbHJvRUZ4WFpzZGt2eHdqVk5hcFFzLVJhNndrcUFQdU9zUkcyZXZ4MG1UemR6UlFRYXczY2t4Zw?oc=5",
-    "description": "대한기계설비건설협회가 16일 국립한밭대학교를 방문해 기계설비 전문인력 양성 지원금 2000만 원을 전달했다.이날 국립한밭대학교에서 진행된 지원금 기탁식에는 국립한",
-    "published_at": "2026-07-17T09:59:19+09:00",
-    "cluster_id": "37c0",
-    "publisher": "투데이플러스",
-    "title_clean": "대한기계설비건설협회, 국립한밭대에 인재양성 지원금 2000만 원 전달",
-    "summary": "대한기계설비건설협회가 국립한밭대학교에 기계설비 전문인력 양성을 위해 2000만 원의 지원금을 전달했다. 이는 업계 인재 양성에 대한 협회의 사회적 책임 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-17T10:08:28+09:00",
-    "importance": 5,
-    "event_label": "대한기계설비건설협회 국립한밭대학교 인재양성 지원금 2000만 원 전달"
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21881,6 +21864,22 @@
     "summary": "대우건설이 글로벌 엔지니어링 기업 ARUP과 협력하여 서울 양천구 목동8단지 재건축 사업 수주에 나섰다. 초고층 구조 설계 기술력을 바탕으로 안전성과 상품성을 강화하는 전략으로 경쟁력을 확보하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-10T09:43:14+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "철강업계, AI 데이터센터 수요로 반등 모색한다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zSEExaUZFY0JYclFtN1h2SWpKZVhHanBvU1BpZGozQjFrQjZRNERnSmxhTDNCM0RpdGp0alJjSHdqbG85dEpERGdwSnBHLS05cjRN?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이데일리 이수빈 기자] 국내 건설 경기 부진과 중국산 저가 철강재 유입으로 고전을 겪어온 철강업계가 하반기 AI 데이터센터와 전력 인프라를 새로운 수요처로 삼아 반등을 모색하고 있다. 건설용 철강재 수요가 좀처럼 살아나지 않는 상황에 데이터센터향 철",
+    "published_at": "2026-08-16T10:02:00+09:00",
+    "cluster_id": "9db3",
+    "publisher": "네이트",
+    "title_clean": "철강업계, AI 데이터센터 수요로 반등 모색한다",
+    "summary": "국내 철강업계가 건설 경기 부진과 중국산 저가 제품 유입으로 어려움을 겪고 있는 가운데, AI 데이터센터와 전력 인프라 수요를 새로운 성장 동력으로 모색 중이다. 건설용 철강재 대신 데이터센터향 철강재 수요 확대를 통해 하반기 반등을 시도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-16T10:12:48+09:00",
     "importance": 2
   },
   {
