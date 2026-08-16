@@ -21834,6 +21834,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[노무] 온열질환 예방을 위한 사업주의 보건조치 의무 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325804",
+    "description": "여름철 평균기온이 매년 최고치를 경신하면서 온열질환으로 인한 산업재해가 급증하고 있습니다. 이에 따라 사업주는 단순한 안내·권고 수준을 넘어, 산업안전보건법령에 따른 구체적인 보건조치의무를 부담하게 됐습니다.산업안전보건기준에 관한 규칙은 ‘폭염작업’을 체감온도 31℃ 이상이 되는 작업장소에서의 장시간(연속 2시간 이상) 작업으로 정의하고 있어, 근로자가 작업하는 주된 작업장소의 체감온도가 일정 기준 이상에 이르렀는지가 법적 의무 발생의 핵심 기준이 됩니다.Check point. 건설현장에서는 체감온도 단계에 따라 냉방·통풍 조치,",
+    "published_at": "2026-08-17T07:00:00+09:00",
+    "cluster_id": "e81b",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[노무] 온열질환 예방을 위한 사업주의 보건조치 의무",
+    "summary": "여름철 온열질환 산업재해 증가에 따라 사업주는 체감온도 31℃ 이상의 폭염작업에서 구체적인 보건조치의무를 부담하게 됐습니다. 건설현장에서는 체감온도 단계별로 냉방·통풍 조치 등을 실시해야 하는 법적 의무가 강화되었습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T07:04:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32136,21 +32152,6 @@
     "publisher": "경향신문",
     "title_clean": "[포토뉴스]“이 더위엔 일 못한다”…건설노동조합, 폭염기 ‘작업중지·임금보전’ 제도화 촉구",
     "summary": "민주노총 전국건설노동조합이 폭염기 작업중지와 임금보전 제도화를 촉구하며 국회 앞에서 기자회견을 개최했다. 건설 현장의 폭염 안전 문제 개선을 요구하는 노조의 입장을 드러낸 소식이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T21:49:35+09:00",
-    "importance": 5
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"이 더위엔 일 못한다\"…건설노동조합, 폭염기 '작업중지·임금보전' 제도화 촉구[포토뉴스] - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xVzVxODhhUlRjbG0tSlM3SnBlZmV5YXU0X2FiUmtHcDZPWG1rUTgyb1A1Z3ZjZzI4bkNpb2FvU0N3S29oYVEycWU1QWVDdTRjMG1QN0dlc3IzUW5ZamVEbWppemxwRGNlOE9vVlU5aE44bllMV1JTSA?oc=5",
-    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 민주노총 전국건설노동조합원이 11일 서울 여의도 국회 앞에서 폭염기 작업중지·임금보전 법제도 촉구 기자회견을 마친 후 얼음물을 뒤집어쓰는 퍼포먼스를 하고 있다. 김정근 선임기자 jeongk@kyunghyang.com 경향신문 주요뉴스 \\· 새벽 1시에",
-    "cluster_id": "0675",
-    "publisher": "네이트",
-    "title_clean": "\"이 더위엔 일 못한다\"…건설노동조합, 폭염기 '작업중지·임금보전' 제도화 촉구[포토뉴스]",
-    "summary": "민주노총 전국건설노동조합이 폭염기 작업중지 및 임금보전 제도화를 촉구하며 국회에서 기자회견을 개최했다. 극한 고온 환경에서의 근로자 안전 보호를 위한 법제도 마련을 주장하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-11T21:49:35+09:00",
     "importance": 5
