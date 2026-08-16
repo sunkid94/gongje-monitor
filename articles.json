@@ -5965,6 +5965,22 @@
     "event_label": "부영그룹 외 단체들 제헌절 유엔 감사 캠페인 추진"
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "음료부터 보건버스까지…건설사, 혹서기 안전 점검 확대 - ebn.co.kr",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720513",
+    "description": "IPARK현대산업개발은 최근 운정 아이파크 포레스트 현장에서 양승철 CSO 주관으로 혹서기 온열질환 예방 캠페인을 펼쳤다. 양 CSO는 현장 근로자들에게 넥쿨러와 쿨패치 등 보냉용품과 식염포도당, 전해질 음료를 전달하고...",
+    "published_at": "2026-08-16T09:00:00+09:00",
+    "cluster_id": "092a",
+    "publisher": "ebn.co.kr",
+    "title_clean": "음료부터 보건버스까지…건설사, 혹서기 안전 점검 확대",
+    "summary": "현대산업개발이 운정 아이파크 포레스트 현장에서 혹서기 온열질환 예방 캠페인을 실시하여 근로자들에게 보냉용품과 음료를 제공했다. 건설사가 작업장 안전 점검을 확대하는 모습을 보여주는 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-16T09:02:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21883,22 +21899,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T09:38:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 목동8단지 수주전 英 ARUP과 협업…180m 구조설계 검토 - seoultimes.news",
-    "link": "https://www.seoultimes.news/news/article.html?no=2000098634",
-    "description": "메르데카118·상하이타워 참여한 글로벌 엔지니어링사 최고 180m 건축계획 맞춰 구조 시스템·풍하중 분석 성능 기반 내진 설계 검토…지진·강풍 대응 구조안 제시 [서울타임즈뉴스 = 최남주 기자] 대우건설이...",
-    "published_at": "2026-08-10T09:28:00+09:00",
-    "cluster_id": "9108",
-    "publisher": "seoultimes.news",
-    "title_clean": "대우건설, 목동8단지 수주전 英 ARUP과 협업…180m 구조설계 검토",
-    "summary": "대우건설이 목동8단지 수주전을 위해 글로벌 엔지니어링사 ARUP과 협업하여 180m 높이 건축물의 구조설계를 검토 중이다. 지진과 강풍 대응 구조안을 제시하며 수주 경쟁력을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T09:38:27+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 노동",
