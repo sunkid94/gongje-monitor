@@ -5965,6 +5965,22 @@
     "event_label": "부영그룹 외 단체들 제헌절 유엔 감사 캠페인 추진"
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산퓨얼셀, 수소연료전지 글로벌 경쟁력 강화 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YR01qWFhGMXo1T3Z4anQtZGh2SmZtaTBEeFlNLUJ5bnFrMFhlU25JMTZzWmNqZWRlLVNEa0lUTk1YVnlvbVBaY0MwSU4?oc=5",
+    "description": "두산퓨얼셀이 수소연료전지 시장에서 글로벌 경쟁력을 강화하고 있다. 최근 발표된 실적에 따르면 회사는 해외 프로젝트 수주와 기술 고도화를 통해 매출 성장세를 유지하고 있는 것으로 나타났다.업계에 따르면 전 세계적으로 탄소중립 추진이 가속화되면서 수소연료전지에 대한 수요가 급증하고 있다. 두산퓨얼셀은 이러한 시장 기회를 선점하기 위해 지난해부터 연구개발 투자를",
+    "published_at": "2026-08-16T09:14:34+09:00",
+    "cluster_id": "cdbd",
+    "publisher": "한국AI부동산신문",
+    "title_clean": "두산퓨얼셀, 수소연료전지 글로벌 경쟁력 강화",
+    "summary": "두산퓨얼셀이 수소연료전지 시장에서 해외 프로젝트 수주와 기술 고도화를 통해 매출 성장을 지속하고 있다. 전 세계 탄소중립 추진으로 수소연료전지 수요가 급증하면서 시장 기회를 선점하기 위해 R&D 투자를 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-16T09:22:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21885,20 +21901,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 목동8단지 재건축 수주전 돌입…글로벌 엔지니어링 기업 ARUP... - g-enews.com",
-    "link": "https://www.g-enews.com/view.php?ud=202608100922052071ea13369bfa_1",
-    "description": "대우건설이 서울 양천구 목동8단지 재건축 사업 수주를 위해 글로벌 엔지니어링 기업 ARUP(아룹)과 손잡았다. 단순한 외관 설계를 넘어 초고층 구조 설계 역량을 접목해 안전성과 상품성을 동시에 확보하는 전략이다. 목동...",
-    "published_at": "2026-08-10T09:28:00+09:00",
-    "cluster_id": "cf4c",
-    "publisher": "",
-    "title_clean": "대우건설, 목동8단지 재건축 수주전 돌입…글로벌 엔지니어링 기업 ARUP... - g-enews.com",
-    "summary": "대우건설이 글로벌 엔지니어링 기업 ARUP과 협력하여 서울 양천구 목동8단지 재건축 사업 수주를 추진 중이다. 초고층 구조 설계 역량을 활용해 안전성과 상품성을 강화하는 전략으로 경쟁력을 확보하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T09:38:27+09:00",
-    "importance": 2
+    "title": "미분양 2909채 쌓이고 관광객 8만4000명 줄었다… 제주경제 '이중 한파' - fnnews.com",
+    "link": "http://www.fnnews.com/news/202608160904071624",
+    "description": "공공수주가 통계상 건설경기를 끌어올리고 있지만 민간 주택수요는 살아나지 않고, 관광객 감소는 소비와 서비스업 고용까지 번지고 있다. 제주경제의 반등 여부는 결국 공공부문의 온기가 민간수요 회복으로...",
+    "published_at": "2026-08-16T09:20:00+09:00",
+    "cluster_id": "00c7",
+    "publisher": "fnnews.com",
+    "title_clean": "미분양 2909채 쌓이고 관광객 8만4000명 줄었다… 제주경제 '이중 한파'",
+    "summary": "제주 지역에서 미분양 주택이 2909채 쌓이고 관광객이 8만4000명 감소하면서 건설경기 부진과 소비 위축이 동시에 진행 중이다. 공공수주만으로는 건설경기를 견인하기 어려우며, 민간 주택수요 회복과 관광 산업 부양이 제주경제 반등의 핵심 과제다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-16T09:22:51+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
