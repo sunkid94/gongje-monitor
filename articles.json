@@ -21849,6 +21849,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "세아제강지주, 북미 강관 호조에 외형 성장…해상풍력 선제 비용에 '숨... - pointdaily.co.kr",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315684",
+    "description": "국내에서는 건설경기 침체에 대응해 제품 단가 인상과 LNG 프로젝트용 제품 판매 확대를 통해 수익성 확보에 나선다. 신사업 시장 공략도 강화한다. LNG와 탄소포집·활용·저장(CCUS), 수소 등 에너지 전환 프로젝트뿐...",
+    "published_at": "2026-08-18T08:26:00+09:00",
+    "cluster_id": "f128",
+    "publisher": "pointdaily.co.kr",
+    "title_clean": "세아제강지주, 북미 강관 호조에 외형 성장…해상풍력 선제 비용에 '숨...",
+    "summary": "세아제강지주는 북미 강관 수요 호조로 외형 성장을 이루고 있으나, 해상풍력 등 신사업 선제 투자 비용으로 수익성 압박을 받고 있다. 국내에서는 건설경기 침체 대응으로 제품 단가 인상과 LNG·CCUS·수소 등 에너지 전환 프로젝트 수주 확대를 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-18T08:28:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32136,21 +32152,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T13:49:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"기후위기·층간소음 잡는다\"… 삼표그룹, '2026 코리아빌드위크'서 스마트 건설 4대 혁신 기술 공개 - ER 이코노믹리뷰",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Wk1PRUpSMUoyRWVybUp3R2Jzd2FtbllGZmw2TlZURXZoenBQYXJoWTZMYXBEZEZKWTFqTGRBWDZqSzlZNldCdW1HQXcyZWpITFEtQ0h5T0FUbDNPQVVYdzhzNlJObWhTTlZOQw?oc=5",
-    "description": "건설기초소재 전문기업 삼표그룹이 급변하는 기후 변화와 층간소음 등 건설 현장의 핵심 난제를 해결할 독자적 혁신 기술을 선보이며 미래 건축 시장의 새로운 기준을 제시했다.삼표그룹은 지난 8일까지 나흘간 서울 코엑스에서 열린 국내 최대 건설·건축·인테리어 전문 전시회",
-    "published_at": "2026-08-12T10:41:05+09:00",
-    "cluster_id": "1b04",
-    "publisher": "ER 이코노믹리뷰",
-    "title_clean": "\"기후위기·층간소음 잡는다\"… 삼표그룹, '2026 코리아빌드위크'서 스마트 건설 4대 혁신 기술 공개",
-    "summary": "삼표그룹이 2026 코리아빌드위크에서 기후변화 대응과 층간소음 해결을 위한 스마트 건설 혁신 기술 4가지를 공개했다. 건설 산업의 주요 과제 해결을 위한 신기술 제시로 미래 건축 시장의 새로운 기준을 제안하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T13:49:16+09:00",
-    "importance": 2
   }
 ]
