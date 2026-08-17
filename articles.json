@@ -21836,6 +21836,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "건설경기 부진 이겨낸 가구·건자재 업계 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01866326645548304",
+    "description": "건설경기 침체가 장기화하는 가운데 가구·건자재 업계가 올해 2분기 일부 사업의 성장과 비용 효율화를 앞세워 실적 방어에 성공했다. 주택 착공과 건설투자 부진으로 기업간거래(B2B) 수요는 위축됐지만, 주택 거래에...",
+    "published_at": "2026-08-17T18:00:00+09:00",
+    "cluster_id": "32cd",
+    "publisher": "edaily.co.kr",
+    "title_clean": "건설경기 부진 이겨낸 가구·건자재 업계",
+    "summary": "건설경기 침체 속에서 가구·건자재 업계가 원가 효율화와 일부 사업 성장으로 2분기 실적을 방어했다. B2B 수요는 위축됐으나 주택 거래 관련 수요로 부분적 성장을 이뤘다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T18:08:12+09:00",
+    "importance": 3
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "PF대출 연체도 10년래 최고 - mk.co.kr",
     "link": "https://www.mk.co.kr/article/12129478",
     "description": "건설 경기 침체 장기화에 금융권 1분기 연체율 4.65% 증권사 30.4%로 가장 높아 고정이하여신 비율도 상승 건설경기 침체가 장기화하면서 금융권 부동산 프로젝트파이낸싱(PF) 대출 연체율이 약 10년 만에 최고...",
@@ -32136,22 +32152,6 @@
     "summary": "전체 취업자는 10.8만명 증가했으나 청년 실업이 45개월째 감소세를 이어가고 있다. 건설업은 감소 폭이 소폭 축소되었으며, 최근 건설기성 개선과 자재 수급 애로도 완화되는 추세를 보이고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-12T10:44:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "첨단안전산업협회 ‘제3회 첨단치안산업 新기술 공모전’ 개최 - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNjVucGYtOXNJNlNtUUhveUtnNm5FeU9aZGNLQUpNNjJtanNWSFU0TXhTN2NYcmotTjZhNUc5a0lBbnkxTHFDNU15ZlIxNU55aDBIMHBlTkRmM0FKNzhqeG9zcmcwcmdTeEU4?oc=5",
-    "description": "한국첨단안전산업협회(회장 이성진)는 경찰청이 주최하고 한국첨단안전산업협회, 과학치안진흥센터, 경찰과학전략센터가 공동 주관하는 「제3회 첨단치안산업 新기술 공모전」을 개최하고, 오는 9월 18일(금) 오후 6시까지 참가자를 모집한다고 밝혔다.이번 공모전은 신종 범죄의 출현과 인공지능(AI) 기술 발전 등으로 치안 환경이 빠르게 변화하는 가운데, 민간이 보유한 우수 첨단기술을 발굴하고 치안 현장에 적용할 수 있는 신기술의 개발과 육성을 지원하기 위해 마련됐다. 이를 통해 국내 치안산업의 기술 경쟁력을 높이고 첨단화를 촉진한다는 취지다.",
-    "published_at": "2026-08-12T10:28:38+09:00",
-    "cluster_id": "11d1",
-    "publisher": "한국건설신문",
-    "title_clean": "첨단안전산업협회 ‘제3회 첨단치안산업 新기술 공모전’ 개최",
-    "summary": "경찰청이 주최하는 '제3회 첨단치안산업 新기술 공모전'이 9월 18일까지 참가자를 모집한다. 신종 범죄 대응과 AI 기술 발전에 따라 민간의 우수 첨단기술을 발굴하여 치안 현장 적용을 지원함으로써 국내 치안산업의 기술 경쟁력 강화를 목표로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T10:39:17+09:00",
     "importance": 2
   }
 ]
