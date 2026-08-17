@@ -21833,6 +21833,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "진주시, 전문건설업계와 상생협력 간담회 가져 - newsgn.com",
+    "link": "https://www.newsgn.com/news/articleView.html?idxno=568100",
+    "description": "이번 간담회는 최근 중동전쟁의 여파로 인한 원자재의 가격 상승과 금리 인상, 건설경기 침체 등으로 어려움을 겪고 있는 지역 전문건설업계의 현장 목소리를 직접 청취하고, 실질적인 지원과 지역 경제의 활성화 방안을...",
+    "published_at": "2026-08-17T12:20:00+09:00",
+    "cluster_id": "9f12",
+    "publisher": "newsgn.com",
+    "title_clean": "진주시, 전문건설업계와 상생협력 간담회 가져",
+    "summary": "진주시가 원자재 가격 상승, 금리 인상, 건설경기 침체로 어려움을 겪고 있는 지역 전문건설업계와 간담회를 개최했다. 건설업계의 현장 목소리를 청취하고 실질적 지원 방안을 모색하는 자리다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T12:22:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32137,21 +32153,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-12T05:24:20+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[단독] 김사랑도 당했다…구축 거래 늘자 ‘인테리어 사기’ 폭증 - joongang.co.kr",
-    "link": "https://www.joongang.co.kr/article/25452645",
-    "description": "하지만 국토교통부는 이를 ‘건설산업기본법’ 등 법에 명시하는 것은 “당사자 간 합의에 의하여 계약 내용이 결정되는 민법상 ‘사적자치(계약자유)의 원칙’에 위배될 소지가 있다”는 입장이다. 국토부 관계자는...",
-    "published_at": "2026-08-12T05:00:00+09:00",
-    "cluster_id": "4b44",
-    "publisher": "joongang.co.kr",
-    "title_clean": "[단독] 김사랑도 당했다…구축 거래 늘자 ‘인테리어 사기’ 폭증",
-    "summary": "구축 거래 증가에 따라 인테리어 사기 사건이 폭증하고 있으며, 국토교통부는 법적 규제보다 민법상 계약자유의 원칙을 우선하는 입장을 유지하고 있다. 건설업계의 신뢰도 저하와 규제 공백이 문제로 지적되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T05:09:24+09:00",
-    "importance": 4
   }
 ]
