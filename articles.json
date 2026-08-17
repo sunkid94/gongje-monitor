@@ -5900,6 +5900,21 @@
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
+    "title": "찢겨나간 도로 ‘처참’…한화오션·삼성중공업 \"출근 말라\" - JTBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wV256UTJqeUNCdmZmSzMtZVkySkRodnl3dUtrWVZYMmJ3MWpvNWJXeVBnSzhGZ1lfYlctTkdkOXA3Z0RwUklfYzdaZC1USTJvelIxYg?oc=5",
+    "description": "거제는 오늘 낮에도 강한 비가 내리면서 복구 작업이 늦어지고 있다는데요. 지금은 어떤 상황인지 현장으로 가보겠습니다. 배승주 기자가 나가있습니다...",
+    "cluster_id": "f943",
+    "publisher": "JTBC",
+    "title_clean": "찢겨나간 도로 ‘처참’…한화오션·삼성중공업 \"출근 말라\"",
+    "summary": "거제 지역 강한 비로 인한 도로 피해로 한화오션, 삼성중공업 등 주요 조선업체들이 직원 출근을 중단하도록 지시. 복구 작업이 악천후로 인해 지연되고 있는 상황.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T19:58:14+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "[사설] 거제·통영 덮친 물폭탄 신속·철저한 피해 복구를 - kookje.co.kr",
     "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260818.22019004533",
     "description": "폭우 여파는 산업 현장에도 미쳐 거제 조선업체인 한화오션과 삼성중공업도 안전 확보를 위해 작업을 중단했다. 이처럼 산업 현장까지 타격을 입은 비상 상황에서 정부와 경남도, 거제·통영 등 지자체는 피해 주민의...",
@@ -21817,20 +21832,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 목동 재건축 \"글로벌 초고층 기술력 승부수\" - newsprime.co.kr",
-    "link": "http://www.newsprime.co.kr/news/article.html?no=743267",
-    "description": "대우건설(047040)이 이런 흐름에 맞춰 목동8단지 재건축정비사업 수주를 위해 글로벌 구조 설계·엔지니어링 기업 'ARUP'과의 전략적 협업에 나섰다. 최고 49층 규모로 계획된 목동8단지에 글로벌 초고층 프로젝트를 통해...",
-    "published_at": "2026-08-10T11:06:00+09:00",
-    "cluster_id": "c0c1",
-    "publisher": "newsprime.co.kr",
-    "title_clean": "대우건설, 목동 재건축 \"글로벌 초고층 기술력 승부수\"",
-    "summary": "대우건설이 목동8단지 재건축정비사업 수주를 위해 글로벌 구조 설계·엔지니어링 기업 ARUP과 전략적 협업을 추진 중이다. 49층 규모의 초고층 프로젝트로 글로벌 기술력을 활용한 수주 경쟁에 나선다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T11:08:30+09:00",
-    "importance": 2
+    "title": "[경인 WIDE] 폭염으로 겪은 ‘기후위기’ - kyeongin.com",
+    "link": "https://www.kyeongin.com/article/1769151",
+    "description": "생업 말리는 더위… 바닥부터 달궜다 아스팔트 열기 노출 배달노동자 콘크리트 슬래브 위 건설노동자 취약층부터 감지한 ‘재난’ 징후 70년 후 인천 평균기온 5.8℃ ↑ “눈앞이 샛노래진 적이 한두 번이 아니었어요.”...",
+    "published_at": "2026-08-17T19:56:00+09:00",
+    "cluster_id": "697a",
+    "publisher": "kyeongin.com",
+    "title_clean": "[경인 WIDE] 폭염으로 겪은 ‘기후위기’",
+    "summary": "극심한 폭염으로 배달노동자, 건설노동자 등 취약층이 심각한 열악한 근무환경에 노출되고 있다. 인천 평균기온이 70년간 5.8℃ 상승하는 등 기후위기가 심화되면서 건설현장의 안전 문제가 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T19:58:14+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32136,21 +32151,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-12T10:54:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "태안군, 폭염 속 건설현장 중대재해 예방 총력 - 전국매일신문",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rTklPSURzWWM4ZHo4SUZnQ2ZxQ0VzakNKTmhKSUVLaGJiSkdaVXF3QjMzN1NFNjFqVkRXMU5QczB2bDBBUDRDV2ZrX3BDU1hmSGl1aTFLSzJ0OXhsSkJWWGRfSmVnT20wQ19sRGVn?oc=5",
-    "description": "충남 태안군은 폭염에 노출된 건설근로자의 온열질환과 산업재해를 막기 위해 지난 11일 관계기관과 관내 공공·민간 소규모 건설현장을 합동 점검했다고 밝혔다.이번 ‘2026년 폭염 대비 건설현장 안전점검’에는 태안군 안전관리과와 충청남도 일자리기업지원과, 대전지방고용노동청 서산지청 산재예방감독과, 한국산업안전보건공단 충남지역본부, 대한산업안전협회 등 5개 기관이 참여했다. 민·관 전문가 10명으로 점검반을 꾸려 현장의 위험 요인을 집중적으로 살폈다.점검 대상은 공공사업으로 추진 중인 태안 반다비 체육센터 건립 현장과 고용노동부가 지정한",
-    "published_at": "2026-08-12T09:55:22+09:00",
-    "cluster_id": "dc2d",
-    "publisher": "전국매일신문",
-    "title_clean": "태안군, 폭염 속 건설현장 중대재해 예방 총력",
-    "summary": "충남 태안군이 폭염 시즌을 대비해 5개 관계기관과 함께 건설현장 합동 안전점검을 실시했다. 건설근로자의 온열질환과 산업재해 예방을 위해 공공·민간 건설현장의 위험 요인을 집중 점검했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T10:49:04+09:00",
-    "importance": 4
   }
 ]
