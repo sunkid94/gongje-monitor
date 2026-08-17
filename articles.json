@@ -21833,6 +21833,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "금융권 부동산PF 부실 다시 커졌다…연체율 10년 만에 '최고' - newsian.co.kr",
+    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93821",
+    "description": "PF 대출 잔액은 감소하고 있지만 건설경기 침체가 장기화하면서 부실 우려 사업장은 늘고 정리·재구조화 실적은 줄어든 것으로 나타났다. 지난달 30일 경기 구리시의 한 크레인 주차장에 크레인이 주차되어...",
+    "published_at": "2026-08-17T17:38:00+09:00",
+    "cluster_id": "f8ac",
+    "publisher": "newsian.co.kr",
+    "title_clean": "금융권 부동산PF 부실 다시 커졌다…연체율 10년 만에 '최고'",
+    "summary": "부동산 PF 대출 연체율이 10년 만에 최고조에 달했다. 건설경기 침체 장기화로 부실 우려 사업장은 증가하고 있으나 정리·재구조화 실적은 감소하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T17:48:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32136,22 +32152,6 @@
     "summary": "국내 건설수주가 21.7% 급감하며 민간 부진이 심화되고 있다. 공공 발주 확대에도 고용 감소와 공사비 상승 부담이 지속되면서 건설경기 회복이 지연되고 있는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T09:59:10+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "충남 태안군, 폭염 속 건설현장 집중 점검…“멈춤은 있어도 사고는 없다” - 뉴스홈(newshome)",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZnRoSEtHWVA4SjU0cjFHNjN5bEw3NzdBV0pwWjllYUdBaVJCNkl1MlM0b0FuUGlnOVlpSGd4ZENOai1UTlB3T19HU290eEVzSW9tOE5Pb1Z4UEFiWHhXdG5qZkRMNnh2WlNLaHJR?oc=5",
-    "description": "충남 태안군이 연일 이어지는 폭염으로부터 건설현장 근로자를 보호하고 온열질환에 따른 중대재해를 사전에 차단하기 위해 관계기관과 함께 고강도 현장 점검에 나섰다.태안군은 지난 11일 관내 공공 및 민간 소규모 건설현장을 대상으로 ‘2026년 폭염 대비 건설현장 안전점검’을 실시했다.이번",
-    "published_at": "2026-08-12T09:45:05+09:00",
-    "cluster_id": "5708",
-    "publisher": "뉴스홈(newshome)",
-    "title_clean": "충남 태안군, 폭염 속 건설현장 집중 점검…“멈춤은 있어도 사고는 없다”",
-    "summary": "충남 태안군이 폭염 시즌에 건설현장 안전점검을 강화하여 근로자 온열질환과 중대재해 예방에 나섰다. 관계기관과 함께 공공·민간 건설현장을 대상으로 고강도 점검을 실시 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T09:54:08+09:00",
     "importance": 4
   }
 ]
