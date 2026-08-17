@@ -21832,6 +21832,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대전시의회 행자위, 도시철도 2호선 건설 현장방문… 스마트쉼터 안전점검 - 전국매일신문",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0MjJOUnpVNVo1S0hZejVoR2NqS0Z2R2syRUs1TDdOLWNra1NhOVdFZkR2ek1TUjM0VXo5eHBhY0NiZXYtblBYSFFEdTdtcWp6NmdQSmJSb3FjVGIwOTlaUXJxS3o3aDZablYzUGFn?oc=5",
+    "description": "대전시의회 행정자치위원회는 대전도시철도 2호선 12공구 건설공사현장과 유성구 해랑숲 고운마루 스마트쉼터를 방문해 근로자 안전관리와 시민 편의·건강관리시설 운영 현황을 점검했다고 17일 밝혔다.위원회는 먼저 대전도시철도 2호선 12공구 건설공사현장을 찾아 공사 추진 현황과 안전관리 대책을 청취하고, 근로자 온열질환 예방대책과 작업환경 등 현장 안전관리 실태를 살펴봤다.특히 여름철 현장근로자의 건강과 안전을 최우선으로 두고 안전사고 예방과 쾌적한 작업환경 조성에 만전을 기해 줄 것을 요청했다.이어 유성구 해랑숲 고운마루 스마트쉼터를 방",
+    "published_at": "2026-08-17T15:54:15+09:00",
+    "cluster_id": "eef8",
+    "publisher": "전국매일신문",
+    "title_clean": "대전시의회 행자위, 도시철도 2호선 건설 현장방문… 스마트쉼터 안전점검",
+    "summary": "대전시의회 행자위가 도시철도 2호선 12공구 건설현장을 방문해 근로자 안전관리 현황을 점검했다. 여름철 온열질환 예방과 안전사고 예방을 강조하며 쾌적한 작업환경 조성을 요청했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T20:43:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32134,22 +32150,6 @@
     "summary": "민주노총이 110만 조합원을 대상으로 위원장을 직접 선출하는 민주적 절차를 진행 중이다. 기사는 건설노동자 등 다양한 업종 노동자들의 현실과 공모전 당선 관련 내용을 다루고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-12T10:59:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭우·폭염 복합재난 급증…건설노동자 보호 강화 - dailypop.kr",
-    "link": "http://www.dailypop.kr/news/articleView.html?idxno=101443",
-    "description": "이렇듯 기후재난의 양상이 달라지면서 현장 노동자를 보호하기 위한 제도도 확대되고 있다. 서울시는 이달부터 폭염과 폭우 등 극한기후로 공공공사장 작업이 중단될 경우 지급하는 '건설현장 안심수당'의...",
-    "published_at": "2026-08-12T10:50:00+09:00",
-    "cluster_id": "bfe2",
-    "publisher": "dailypop.kr",
-    "title_clean": "폭우·폭염 복합재난 급증…건설노동자 보호 강화",
-    "summary": "기후변화로 폭우·폭염 등 극한기후 재난이 증가하면서 건설 현장의 안전 문제가 대두되고 있다. 서울시가 극한기후로 공공공사가 중단될 경우 지급하는 '건설현장 안심수당' 제도를 확대하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T10:54:00+09:00",
     "importance": 2
   }
 ]
