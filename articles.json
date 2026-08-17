@@ -21833,6 +21833,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "금융권 PF 연체율 10년 만에 최고…부실 우려도 올 들어 증가 - chosun.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVhfQkFLNkI3NllDMXNfMGhrUHVoX2hvQ0x5YVdJNlItR2wyWXpzTGh1a21qQmdoS2I5eEZJYkdxLTZTN0hVSEcyYjJmc0JpNnVIUjhveWpDcGp4Yl9saDZuMm56dzgyVWtjUWpaY0ZOZnhPN1M3bHZ4Um1UaUN4TVUxUHJJUWVka1NXSnFR?oc=5",
+    "description": "금융권 부동산 PF 연체율이 올해 1분기 4.65%로 2016년 이후 최고치를 기록했습니다. 대출 잔액은 115조 5천억 원으로 줄었지만, 부실 우려 사업장의 익스포저는 16조 4천억 원으로 늘어 리스크 관리에 경고등이 켜졌습니다.",
+    "cluster_id": "b826",
+    "publisher": "chosun.com",
+    "title_clean": "금융권 PF 연체율 10년 만에 최고…부실 우려도 올 들어 증가",
+    "summary": "금융권 부동산 PF 연체율이 1분기 4.65%로 10년 만에 최고치를 기록했습니다. 부실 우려 사업장의 익스포저가 16조 4천억 원으로 증가하면서 건설업계의 리스크가 높아지고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T13:53:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32136,21 +32151,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T08:24:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "삼표그룹, ‘2026 코리아빌드위크’서 스마트 건설 4대 혁신 제품 공개 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZjV5SXlod3BULWdMMlROdExUSWJpX05uTE5KSm5xd3U3MUVCSWVndmY5MERHbmctTFY3WXd1dUtfWUNZY0pzQmRXeWZ4TXFVbHlzY0dwNUVLNGdwUllIUVYzZFpZS2JDallLdGpMX18yc03SAXdBVV95cUxPRXBGeXk0VzNwczNqSnBIZ2RkMFF3cXFxQm1IVGhST3RpZmxMVnpnQkhuWWJjQU5hRENQZmdEd0VUc3RTYkVWMEk1VDc4YkRrS214dmNwY3ZmNU5XSC13b05aN0RnNjdfdXZzbHJoY3hCWmdsYzc5RQ?oc=5",
-    "description": "삼표그룹이 기후변화 대응과 층간소음 저감, 친환경·스마트 시공을 아우르는 건설 솔루션을 공개했다.건설기초소재 전문기업 삼표그룹은 지난 5일부터 8일까지 서울 코엑스에서 열린 국내 최대 건설·건축·인테리어 전문 전시회 ‘2026 코리아빌드위크’ 호반 동반성장 건설엑스포에 참가했다고 12일 밝혔다.삼표그룹은 이번 전시에서 건설 현장의 주요 난제를 해결할 수 있는 4대 혁신 제품을 선보였다. 전시 품목은 특수 콘크리트 VAP, 층간소음 저감 고성능 몰탈, 친환경 특수 시멘트 ‘블루멘트’, 모바일 배치플랜트 등이다.가장 주목받은 제품은 기",
-    "published_at": "2026-08-12T08:04:41+09:00",
-    "cluster_id": "3d64",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "삼표그룹, ‘2026 코리아빌드위크’서 스마트 건설 4대 혁신 제품 공개",
-    "summary": "삼표그룹이 '2026 코리아빌드위크'에서 VAP 콘크리트, 층간소음 저감 몰탈, 친환경 시멘트 '블루멘트', 모바일 배치플랜트 등 4대 혁신 제품을 공개했다. 기후변화 대응과 층간소음 저감, 친환경·스마트 시공 등 건설 현장의 주요 난제 해결을 위한 솔루션들이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T08:24:20+09:00",
-    "importance": 2
   }
 ]
