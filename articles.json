@@ -21832,6 +21832,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[오늘의 세계] 리투아니아 공원 달군 코기 경주…예측 불가 질주 - obsnews.co.kr",
+    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534299",
+    "description": "--------------------------------- 벨기에의 한 사회복지단체 소유 건물을 개조하던 건설 노동자들이 금괴를 발견했습니다. 굴착 작업을 하던 중 드릴이 무언가에 걸려 움직이지 않자 이상함을 느끼고 경찰에 신고하게 됐다고...",
+    "published_at": "2026-08-17T20:58:00+09:00",
+    "cluster_id": "15fd",
+    "publisher": "obsnews.co.kr",
+    "title_clean": "[오늘의 세계] 리투아니아 공원 달군 코기 경주…예측 불가 질주",
+    "summary": "벨기에 건설 노동자들이 사회복지단체 건물 개조 작업 중 금괴를 발견했습니다. 굴착 중 드릴이 걸려 이상을 감지하고 경찰에 신고한 것으로 알려졌습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T21:03:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32135,21 +32151,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T11:09:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"한표의 힘! 노동의 미래! 110만 조합원이 민주노총 위원장 직접뽑는다... - worknworld.kctu.org",
-    "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509790",
-    "description": "\"다른 덴가 하고 들어가 봤는데 마크가 똑같은 거예요.\" 건설노동자는 어떻게 됐나, 교사는 어떻게 됐나 뉴스를 쭉 읽어 내려가다 공고란에서 공모전을 봤다. 당선 1등을 알리는 전화는 의심했다. \"보이스피싱인 줄...",
-    "published_at": "2026-08-12T10:54:00+09:00",
-    "cluster_id": "5336",
-    "publisher": "worknworld.kctu.org",
-    "title_clean": "\"한표의 힘! 노동의 미래! 110만 조합원이 민주노총 위원장 직접뽑는다...",
-    "summary": "민주노총이 110만 조합원을 대상으로 위원장을 직접 선출하는 민주적 절차를 진행 중이다. 기사는 건설노동자 등 다양한 업종 노동자들의 현실과 공모전 당선 관련 내용을 다루고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T10:59:03+09:00",
-    "importance": 2
   }
 ]
