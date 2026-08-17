@@ -21833,6 +21833,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[칼럼] 개미와 배짱이, 어느 쪽이 더 현명한 \"삶\"을 살았다 할것인가? - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=711643",
+    "description": "농부도 필요하고, 건설 노동자도 필요하며, 공장에서 일하는 사람도 필요하다. 우리 사회는 수많은 사람들이 자신의 자리에서 땀 흘려 일하기 때문에 유지되고 있다. 다만 이제는 열심히 일하는 것과 현명하게 살아가는...",
+    "published_at": "2026-08-17T13:12:00+09:00",
+    "cluster_id": "6b35",
+    "publisher": "newstown.co.kr",
+    "title_clean": "[칼럼] 개미와 배짱이, 어느 쪽이 더 현명한 \"삶\"을 살았다 할것인가?",
+    "summary": "칼럼은 건설 노동자를 포함한 각 직종 종사자들의 노동의 가치를 인정하면서, 단순한 근면함을 넘어 현명한 삶의 방식에 대해 성찰을 촉구하고 있다. 열심히 일하는 것과 지혜롭게 살아가는 것의 균형을 강조하는 철학적 담론이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T14:48:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32134,22 +32150,6 @@
     "summary": "태안군이 폭염 속 건설현장의 온열질환 예방과 산업재해 차단을 위해 유관기관과 함께 공공·민간 건설현장에 대한 고강도 안전점검을 실시했다. 이는 근로자 안전 강화를 위한 정부의 적극적인 현장 감시 및 규제 활동을 보여주는 사례다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T08:29:10+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공사비 오르고, 민간 수주는 감소…건설경기 '또 악화' - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54V1JwLS1GaWJGZWFmbXVnMnJpaXZEa2RMUVJwTmU4eS14T1djbzZkbk9KanhTbTBQWFRRUV9YSGtZRkZLeF9JYVZMR1AwbTlCRkRJ?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이데일리 이정현 기자]6월 건설수주가 큰 폭으로 감소한 것으로 나타났다. 공공수주 확대에도 민간 토목·주택·비주택이 동반 위축된 탓이다. 건설현장에 설치된 타워크레인 (사진=이데일리 방인권 기자)12일 한국건설산업연구원(원장 이충재)가 발표한 8월",
-    "published_at": "2026-08-12T08:10:00+09:00",
-    "cluster_id": "ec7e",
-    "publisher": "네이트",
-    "title_clean": "공사비 오르고, 민간 수주는 감소…건설경기 '또 악화'",
-    "summary": "6월 건설수주가 큰 폭으로 감소했으며, 공공수주 확대에도 불구하고 민간 토목·주택·비주택 수주가 동반 위축되었다. 공사비 상승으로 인한 채산성 악화와 함께 건설경기가 지속적으로 악화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T08:24:20+09:00",
     "importance": 4
   }
 ]
