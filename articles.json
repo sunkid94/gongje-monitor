@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "초기업노조도 있는데 연대 못하는 삼성중공업 복수노조 - idomin.com",
+    "link": "https://www.idomin.com/news/articleView.html?idxno=2012431",
+    "description": "이와 달리 조선 빅3로 꼽히는 거제 삼성중공업에 2개 노조가 있지만 힘을 모으지 못하고 있다. 삼성중공업 올해 임금·단체협상 쟁점 중 하나는 성과급이다. 삼성중공업 실적은 조선업 회복과 수주량 증가로 호조세다....",
+    "published_at": "2026-08-17T18:36:00+09:00",
+    "cluster_id": "5cd5",
+    "publisher": "idomin.com",
+    "title_clean": "초기업노조도 있는데 연대 못하는 삼성중공업 복수노조",
+    "summary": "삼성중공업의 2개 노조가 연대하지 못하고 있는 상황을 보도한 기사. 조선업 회복으로 실적이 호조세이지만 노조 분열로 단체협상 진행에 어려움이 예상됨.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T18:38:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21812,22 +21828,6 @@
     "publisher": "ziksir.com",
     "title_clean": "대우건설, 목동8단지 재건축에 글로벌 엔지니어링 기업 ARUP 참여",
     "summary": "대우건설이 글로벌 엔지니어링 기업 ARUP과 협업하여 목동8단지 재건축사업 수주를 추진 중이다. 최고 49층 180m 규모 단지에서 구조 안전성 강화 및 설계 경쟁력을 확보하여 대형 수주 수성을 노린다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T11:08:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 목동8단지 수주전 승부수…글로벌 구조설계사 ARUP과 맞손 - 공감신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtbVIya29iQVRnYlpJZWljOU9WN1JjTXBHMHppVlU4bnYzUlJQaDk0SUpJQklwSldCbzZRRTduQlloY2hETktPQ0xubFBMdVdDMTQ1b2xCUXRMTm5zcTNsdU5oS2NsTjZt?oc=5",
-    "description": "[공감신문] 이혜정 기자=목동8단지 재건축사업을 둘러싼 건설사들의 수주 경쟁이 기술력 경쟁으로 확대되고 있다. 대우건설은 글로벌 구조 설계·엔지니어링 기업 ARUP과 전략적 협업에 나서며 초고층 구조 안전성과 디자인을 앞세운 차별화 전략을 꺼내 들었다.대우건설은 목동8단지 재건축정비사",
-    "published_at": "2026-08-10T10:50:00+09:00",
-    "cluster_id": "57a3",
-    "publisher": "공감신문",
-    "title_clean": "대우건설, 목동8단지 수주전 승부수…글로벌 구조설계사 ARUP과 맞손",
-    "summary": "대우건설이 글로벌 구조설계사 ARUP과 전략적 협업을 통해 목동8단지 재건축사업 수주를 추진하고 있다. 초고층 구조 안전성과 디자인 기술력을 앞세운 차별화 전략으로 건설사들 간의 기술 경쟁이 확대되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-10T11:08:30+09:00",
     "importance": 2
