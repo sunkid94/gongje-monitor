@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너, 美 테라파워에 원자로 기자재 공급 - gnmaeil.com",
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=592836",
+    "description": "두산에너빌리티가 미국 첨단 원자력 기술 선도기업 테라파워(TerraPower)의 나트륨 원자로용 핵심 기자재 제작 사업을 수주했다고 17일 밝혔다. 두산에너빌리티는 테라파워 나트륨 원자로의 원자로 보호용기, 원자로...",
+    "published_at": "2026-08-17T21:10:00+09:00",
+    "cluster_id": "83b1",
+    "publisher": "gnmaeil.com",
+    "title_clean": "두산에너, 美 테라파워에 원자로 기자재 공급",
+    "summary": "두산에너빌리티가 미국 테라파워의 나트륨 원자로용 핵심 기자재 제작 사업을 수주했다. 원자로 보호용기, 원자로 내부구조물 등 첨단 원자력 설비 제조로 해외 시장 진출을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T21:13:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21811,22 +21827,6 @@
     "publisher": "sisafocus.co.kr",
     "title_clean": "대우건설, 목동8단지 수주 도전…英 ARUP과 기술 협업",
     "summary": "대우건설이 글로벌 엔지니어링 기업 ARUP과 협업하여 서울 목동8단지 재건축 사업 수주를 추진 중이다. 최고 높이 180m의 대규모 프로젝트로 기술력 강화를 통한 수주 경쟁력 확보를 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T11:13:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, ARUP 전략적 협업…목동8단지 재건축에 초고층 기술 투입 - weekly.hankooki.com",
-    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7178214",
-    "description": "사진=대우건설 대우건설이 목동8단지 재건축정비사업 수주를 위해 글로벌 엔지니어링 기업 아룹(ARUP)과 전략적 협업에 나선다고 10일 밝혔다. 영국 런던에 본사를 둔 아룹은 100여 개국에서 활동하며 말레이시아...",
-    "published_at": "2026-08-10T11:08:00+09:00",
-    "cluster_id": "29f7",
-    "publisher": "weekly.hankooki.com",
-    "title_clean": "대우건설, ARUP 전략적 협업…목동8단지 재건축에 초고층 기술 투입",
-    "summary": "대우건설이 글로벌 엔지니어링 기업 ARUP과 전략적 협업을 통해 목동8단지 재건축정비사업 수주를 추진 중이다. ARUP의 초고층 건설 기술을 활용해 경쟁력을 강화하려는 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-10T11:13:15+09:00",
     "importance": 2
