@@ -21833,6 +21833,38 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "광양 플랜트건설노조, 임단협 첫 무분규 타결…11차례 교섭 끝 합의 - jndn.com",
+    "link": "http://www.jndn.com/article.php?aid=1786950182437876107",
+    "description": "지역경제와 건설경기 침체 등으로 노사 모두 어려운 상황이었지만 양측은 대화와 협상을 이어가며 합의점을 찾았다. 합의안에는 전 직종 임금 일괄 인상을 비롯해 모두 5개 조항이 담겼다. 폭염주의보가 발령되면 노동자...",
+    "published_at": "2026-08-17T16:06:00+09:00",
+    "cluster_id": "a464",
+    "publisher": "jndn.com",
+    "title_clean": "광양 플랜트건설노조, 임단협 첫 무분규 타결…11차례 교섭 끝 합의",
+    "summary": "광양 플랜트건설노조가 11차례 교섭 끝에 임금협상을 무분규로 타결했다. 전 직종 임금 일괄 인상 등 5개 조항을 포함한 합의안이 도출되었으며, 지역경기 침체 속에서도 노사가 대화를 통해 합의점을 찾았다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T16:08:10+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "영동양수 건설현장 노사 합동점검…고위험 작업 집중 점검 - 충북일보",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4bFUwSXB6aVJMVFVJeC1PRkNGZldUcnAtc2RSUmF2bUF0bGRVTHBTNjBodW5PX0xiQ2NEZ2htTmFPalNEV2ZNNll5M3RkUlFxVjR0MHNCU2wwZmtlZWFQeDN3?oc=5",
+    "description": "［충북일보］ 영동양수발전소 건설현장의 위험요인을 줄이기 위해 노사가 함께 현장 점검에 나섰다. 관리자가 안전수칙 준수 여부를 확인하는 데 그치지 않고 근로자 측이 직접 참여해 위험요인을 찾고 개선책을 논의했다. 영동양수건설소는 지난 13일 김선신 건설소장과 김재현 지부 노조위원장 등 노사 관계자들이 참여한 가운데 양수발전소 건설현장에서 합동 안전점검을 실",
+    "published_at": "2026-08-17T16:02:16+09:00",
+    "cluster_id": "1fbb",
+    "publisher": "충북일보",
+    "title_clean": "영동양수 건설현장 노사 합동점검…고위험 작업 집중 점검",
+    "summary": "영동양수발전소 건설현장에서 노사가 함께 안전점검을 실시하여 고위험 작업을 집중 점검했다. 관리자의 일방적 점검을 넘어 근로자가 직접 참여해 위험요인을 발굴하고 개선방안을 논의하는 협력적 안전관리 체계를 구축했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T16:08:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32120,38 +32152,6 @@
     "summary": "태안군이 폭염 대비 건설현장 안전점검을 강화하며 행정·사법 조치를 예고했다. 공공발주 사업과 민간 소규모 공사현장 4곳을 대상으로 현장 안전관리 상황을 점검하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T09:49:37+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "삼표그룹, '코리아빌드위크'서 스마트 시공 제품 공개 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFaHc3bGpQMHM4TkNtbE13YjhFTU5yOHVEZkdHTEwxcVpwdnFsYmhBVEVKeklQUlFiQ0lhMFRmRUNqOC1iSzIzNEJpYjJfLU16NHpJ?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 삼표그룹이 기후변화 대응과 층간소음 저감, 친환경·스마트 시공을 위한 건설 솔루션을 선보였다.",
-    "published_at": "2026-08-12T09:22:00+09:00",
-    "cluster_id": "0200",
-    "publisher": "네이트",
-    "title_clean": "삼표그룹, '코리아빌드위크'서 스마트 시공 제품 공개",
-    "summary": "삼표그룹이 '코리아빌드위크'에서 기후변화 대응, 층간소음 저감, 친환경·스마트 시공을 위한 건설 솔루션을 공개했다. 스마트 시공 제품 선보임으로 건설업계의 기술 혁신과 시장 수요 대응을 시도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T09:44:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고용노동부 서산지청, 소규모 건설현장 폭염 대비 온열질환 예방 활동에 총력 - 서산포스트",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92WnZQTXI2enVqT25SWUhrZFFoOXRMNWRReHZhTEYzQ2R5akNieklnOUc3ZTcyWHVUZlpUb1ROSWx0dEFHSEMzWEtIMkthajFqLUlXV3FqakxJMTdoUm9pTFJPc0hyMnlZQm83Wnd2Yw?oc=5",
-    "description": "고용노동부 서산지청(지청장 김경민)은 ’26.8.11.(화) 서산·태안 지역 소규모 건설현장을 대상으로 폭염 대비 온열질환 예방을 위한 합동 패트롤을 집중 실시했다.이번 현장 점검은 연일 지속되는 폭염으로 옥외작업 비중이 높은 건설현장 노동자의 온열질환 발생 위험이 높아짐에 따라, 안전보건 관리 여건이 취약한 소규모 건설현장의 폭염 대응 실태를 중점으로 확인했다.고용노동부 서산지청을 비롯해 충남도·서산시·태안군 등 지방정부, 한국산업안전보건공단, 대한산업안전협회 전문가 등 25명이 참여하여 소규모 건설현장 10개소를 대상으로 폭염안",
-    "published_at": "2026-08-12T09:28:11+09:00",
-    "cluster_id": "5ebf",
-    "publisher": "서산포스트",
-    "title_clean": "고용노동부 서산지청, 소규모 건설현장 폭염 대비 온열질환 예방 활동에 총력",
-    "summary": "고용노동부 서산지청이 폭염으로 인한 온열질환 예방을 위해 소규모 건설현장 10개소에 대한 합동 패트롤을 실시했다. 25명의 전문가가 참여하여 안전보건 관리 여건이 취약한 현장의 폭염 대응 실태를 중점 점검했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T09:39:32+09:00",
     "importance": 4
   }
 ]
