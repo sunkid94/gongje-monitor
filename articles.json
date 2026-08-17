@@ -21834,6 +21834,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대출 줄여도 부실은 늘었다…금융권 PF 연체율 9년6개월 만에 ‘최고’ - dt.co.kr",
+    "link": "https://www.dt.co.kr/article/12078479?ref=naver",
+    "description": "건설경기 침체가 장기화하면서 금융권의 부동산 프로젝트파이낸싱(PF) 부실 우려가 다시 커지고 있다. PF 대출 잔액은 줄고 있지만 올해 들어 연체율과 건전성 지표가 악화한 데다 부실 가능성이 큰...",
+    "published_at": "2026-08-17T09:39:00+09:00",
+    "cluster_id": "50f8",
+    "publisher": "dt.co.kr",
+    "title_clean": "대출 줄여도 부실은 늘었다…금융권 PF 연체율 9년6개월 만에 ‘최고’",
+    "summary": "건설경기 침체로 인해 금융권의 PF 대출 연체율이 9년6개월 만에 최고 수준으로 악화했다. 대출 잔액 감소에도 불구하고 부실 가능성이 커지면서 건설업계의 자금난이 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T09:47:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32134,21 +32150,6 @@
     "publisher": "경인방송 뉴스",
     "title_clean": "자본잠식 시행사에 1천700억원 보증…대우건설 ‘PF 연장’ 속사정",
     "summary": "대우건설이 자본잠식 상태의 시행사에 1천700억원 규모의 보증을 제공하며 PF 연장을 추진하고 있다. 이는 건설업계의 PF 부실 문제와 연쇄 부도 위험을 시사하는 사례로 평가된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T22:59:42+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염보다 더 무서운 ‘일당 삭감’…건설노동자 절반 “그냥 일한다” - seoul.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3Vm12ZW11blREa1RxSmxBLTNVUkVIMU5LZHpOMlV5V0hQSkxYS2ZYRndWZUlSR3ZiU0lnQU4tejB1ZXk2V19nWnVuOHloYXV2SHFPZkNwZXlQYk9iUUc1S2dqalN3bmQtWERQdGx6bw?oc=5",
-    "description": "건설노동자 절반이 체감온도 35도 이상에서도 별도 중단 지시 없이 일했다. 일용직은 쉬면 임금이 줄어 작업중지를 요구하기 어려웠고, 조사에선 51.8%가 어지러움, 28.5%가 근육 경련을 겪었다.",
-    "cluster_id": "c499",
-    "publisher": "seoul.co.kr",
-    "title_clean": "폭염보다 더 무서운 ‘일당 삭감’…건설노동자 절반 “그냥 일한다”",
-    "summary": "건설노동자 절반이 폭염(체감온도 35도 이상) 속에서도 일당 삭감 우려로 작업을 중단하지 못하고 있다. 일용직 근로자들이 휴식을 요청하기 어려운 구조 속에서 어지러움, 근육 경련 등 건강 피해가 발생하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-11T22:59:42+09:00",
     "importance": 4
