@@ -21834,6 +21834,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "광양시, 플랜트건설노조 임·단협 첫 무분규 타결 - jeonmae.co.kr",
+    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284322",
+    "description": "특히 노사는 실무교섭위원단을 구성해 교섭의 효율성을 높였으며, 지역경제와 건설경기 침체 등 어려운 여건을 고려해 대화와 소통을 이어간 끝에 역대 최단기간이자 첫 무분규 타결이라는 성과를 거뒀다. 이번...",
+    "published_at": "2026-08-17T10:52:00+09:00",
+    "cluster_id": "8108",
+    "publisher": "jeonmae.co.kr",
+    "title_clean": "광양시, 플랜트건설노조 임·단협 첫 무분규 타결",
+    "summary": "광양시 플랜트건설노조가 임단협을 역대 최단기간에 무분규로 타결했다. 노사가 실무교섭위원단을 구성하고 대화와 소통을 이어가며 지역경제와 건설경기 침체 여건을 함께 고려한 결과다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T10:57:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32137,22 +32153,6 @@
     "summary": "춘천시가 폭염으로 인한 건설현장 안전사고 예방을 위해 시 발주 소규모 건설현장 6곳을 점검했다. 온열질환 예방조치와 추락·끼임 등 주요 산업재해 위험요인을 확인하며 근로자 안전 관리를 강화했다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T00:39:55+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“더위도 안전도 놓치지 않는다” - 현대일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11d0NuMDBQMGMtX1YzSGRObHo3b0RuQmJmX1dDOGZrZWpCUlBOeVY4dEc3X0p5S3hjQ1hRWkNWdHdHbzl2ZDJ6clduUTVQZWRtWERvUzNhUnlCbmQyMW9IVmI0VEZ3dV83WFBTM2F3?oc=5",
-    "description": "성남시는 폭염으로 인한 건설현장 근로자의 온열질환을 예방하고 안전한 작업환경을 조성하기 위해 관내 민간 건축공사장 34개소를 대상으로 안전점검을 실시하고 있다.점검은 오는 31일까지 진행되며, 착공신고 후 사용승인을 받지 않은 신·증축 민간 건축공사장이 대상이다. 지역건축안전센터 전문인력이 현장을 직접 방문해 공사 관계자와 함께 폭염 대응 및 안전관리 실태를 확인한다.주요 점검 사항은 △물, 바람·그늘, 휴식, 보냉장구, 응급조치 등 폭염 안전 5대 기본수칙 이행 여부 △휴게시설 설치 및 휴식시간 준수 여부 △폭염 단계별 작업중지",
-    "published_at": "2026-08-11T17:37:00+09:00",
-    "cluster_id": "6d3c",
-    "publisher": "현대일보",
-    "title_clean": "“더위도 안전도 놓치지 않는다”",
-    "summary": "성남시가 폭염으로 인한 건설현장 근로자의 온열질환 예방을 위해 관내 민간 건축공사장 34개소를 대상으로 안전점검을 실시 중이다. 폭염 안전 5대 기본수칙 이행 여부, 휴게시설 설치, 작업중지 기준 등을 점검하는 정부 차원의 안전관리 강화 정책이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T23:49:48+09:00",
     "importance": 4
   }
 ]
