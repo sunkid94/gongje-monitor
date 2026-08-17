@@ -21832,6 +21832,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "시멘트업계, 실적 방어 총력…‘원가 절감 효과’ 한계 우려 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141631146670128",
+    "description": "삼표시멘트 관계자는 “건설경기 침체 상황이 이어지는 가운데, 유연탄ㆍ유가 및 환율 상승으로 원가 부담도 증가하고 있다”며 “대체연료 사용 확대 등 원가 절감을 통한 수익성 개선을 기대할 것”이라고 말했다....",
+    "published_at": "2026-08-18T06:40:00+09:00",
+    "cluster_id": "4060",
+    "publisher": "대한경제",
+    "title_clean": "시멘트업계, 실적 방어 총력…‘원가 절감 효과’ 한계 우려",
+    "summary": "시멘트업계가 건설경기 침체와 유연탄·유가·환율 상승으로 인한 원가 부담 증가에 직면하고 있다. 업계는 대체연료 사용 확대 등 원가 절감을 통해 수익성 개선을 추진 중이나, 구조적 어려움 해결에 한계가 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T06:43:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32135,21 +32151,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T12:59:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울시의회 도시안전건설위, 대형 지하공간 화재 대응 조례 발의 - TBS 서울",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0F2eXRWQjY3Q0lzUjRCU2h5RURnNFNOVFZybHc3UzRwZjZJeUZ6S1duTlZUV0Z0TzBaaDZrSFJlQm8wMkNZSGFod3paRVpPMGxGODdVamJRTU9hc1d1YXBhNmdvOU5KSUZ5ZXg2Y3NyVnhLUVI1STZZbDczM2hRZWdQZVFwMHZp?oc=5",
-    "description": "서울시의회 도시안전건설위원회는 소속 의원 12명 전원이 대규모 지하공간 화재로부터 서울을 안전하게 보호하기 위한 '서울특별시 대규모 지하...",
-    "published_at": "2026-08-12T12:45:00+09:00",
-    "cluster_id": "9bde",
-    "publisher": "TBS 서울",
-    "title_clean": "서울시의회 도시안전건설위, 대형 지하공간 화재 대응 조례 발의",
-    "summary": "서울시의회 도시안전건설위원회가 대규모 지하공간 화재 대응을 위한 조례를 발의했습니다. 이는 지하공간 화재 안전 기준 강화로 관련 안전설비 및 건설공사 수요 증가를 가져올 수 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T12:59:11+09:00",
-    "importance": 2
   }
 ]
