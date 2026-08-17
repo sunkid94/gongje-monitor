@@ -21834,6 +21834,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "광양 플랜트건설 노사, 2026년 임단협 무분규 타결 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396367",
+    "description": "사진=광양시 제공  전남광주통합특별시 광양시가 지역 건설경기 침체와 산업현장의 어려움 속에서도 노사 간 대화와 협력을 통해 플랜트건설 분야 임금 및 단체협약을 무분규로 타결하는 성과를 거뒀다. 광양시는...",
+    "published_at": "2026-08-17T11:10:00+09:00",
+    "cluster_id": "ca2a",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "광양 플랜트건설 노사, 2026년 임단협 무분규 타결",
+    "summary": "광양시 플랜트건설 분야에서 노사가 2026년 임금 및 단체협약을 무분규로 타결했다. 건설경기 침체 속에서도 노사 간 대화와 협력을 통해 노동 분쟁 없이 합의를 도출한 성과이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T11:12:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32137,22 +32153,6 @@
     "summary": "베트남 건설노조가 디지털 플랫폼을 활용한 정책 홍보를 강화하고 고용, 임금, 노동 안전, 디지털·녹색 전환 관련 콘텐츠를 제공하기로 결정했습니다. 노동자 권익 보호 및 산업 전환 지원을 위한 정보 접근성 개선 사업입니다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-12T03:04:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남종섭 경기도의원, 건설현장·생활밀착시설 찾아 폭염 안전대책 점검 - newspeak.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdXEtbEFuN1k2R2o0eVRKcVNTbzBqVEZSZ1ZuYXZ4ZElDSXBiOGx0dU0yTWtBZ0p4a3ZtX1NhbkdDM1c3aVRnRmUxeW15LVlGV1lVOEptVnROMEZOeFJRNUxlbkxMem9y?oc=5",
-    "description": "[뉴스피크] 남종섭 경기도의회 의장(더민주, 용인3)이 11일 폭염에 노출된 건설 현장과 주민들이 이용하는 도심 폭염저감시설을 잇달아 찾아 폭염 대응 실태를 점검했다.이번 점검은 건설 현장과 주민 생활공간의 폭염 대책이 실제 현장에서 제대로 작동하는지를 확인하고, 필요한 보완 사항을 의정활동에 반영하기 위해 마련됐다.남종섭 의장은 이날 김규식 경기도 안전관리실장과 함께 용인플랫폼시티 조성 공사 현장과 동백동 내꽃근린공원을 차례로 방문했다. 공사 현장에서는 근로자 온열질환 예방과 안전관리 실태를, 내꽃근린공원에서는 쿨링포그(안개형 냉",
-    "published_at": "2026-08-11T22:17:33+09:00",
-    "cluster_id": "c8ee",
-    "publisher": "newspeak.kr",
-    "title_clean": "남종섭 경기도의원, 건설현장·생활밀착시설 찾아 폭염 안전대책 점검",
-    "summary": "경기도의회 의장이 폭염 대응 실태를 점검하기 위해 건설현장과 도시시설을 방문했다. 건설현장의 근로자 온열질환 예방과 안전관리 실태를 확인하고 필요한 보완사항을 의정활동에 반영할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T00:59:37+09:00",
     "importance": 2
   }
 ]
