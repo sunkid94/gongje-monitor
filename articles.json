@@ -21833,6 +21833,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "금융권 PF 연체율 10년來 최고 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260818.22010004617",
+    "description": "건설경기 침체 장기화로 금융권 부동산 프로젝트파이낸싱(PF) 대출 연체율이 약 10년 만에 최고 수준으로 상승했다. 17일 국회 정무위원회 소속 국민의힘 박성훈 의원이 금융감독원에서 제출받은 자료에 따르면...",
+    "published_at": "2026-08-17T19:29:00+09:00",
+    "cluster_id": "6df8",
+    "publisher": "kookje.co.kr",
+    "title_clean": "금융권 PF 연체율 10년來 최고",
+    "summary": "건설경기 침체로 금융권 부동산 PF 대출 연체율이 10년 만에 최고 수준으로 상승했다. 이는 건설업계 전반의 자금난 심화와 프로젝트 부실 위험 증가를 의미하는 신호이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T19:33:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32136,21 +32152,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T10:49:04+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[CEO열전] 몸집 두 배 키운 LX 출범 5주년…구본준 회장의 'M&A 승부수' 이... - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576454830451",
-    "description": "반면 LX글라스는 건설경기 침체 영향으로 다소 부진하지만 원가 절감과 효율화 등을 통해 수익성 개선에 집중하고 있다. 12일 업계에 따르면 LX그룹은 계열분리 이후 5년 동안 구 회장의 주도 아래 기존 상사·물류...",
-    "published_at": "2026-08-12T10:40:00+09:00",
-    "cluster_id": "0f14",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "[CEO열전] 몸집 두 배 키운 LX 출범 5주년…구본준 회장의 'M&A 승부수' 이...",
-    "summary": "LX그룹이 계열분리 5년 동안 M&A를 통해 사업 규모를 두 배로 확대했다. 다만 LX글라스는 건설경기 침체로 부진 중이며, 원가 절감과 효율화를 통한 수익성 개선에 집중하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T10:44:00+09:00",
-    "importance": 2
   }
 ]
