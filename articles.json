@@ -21849,6 +21849,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "여수 석유화학 위기…강문성 시의원 “고용위기지역 재지정해야” - sedaily.com",
+    "link": "https://www.sedaily.com/article/20080186?ref=naver",
+    "description": "플랜트건설노동자는 2024년 8742명에서 2026년 2월 1634명으로 감소했다. 81.3% 급감한 수치다. 강 의원은 이러한 고용 감소가 지역경제 전반으로 확산될 수 있다고 우려했다. 특히 여수시의 고용위기 선제대응지역 지정은...",
+    "published_at": "2026-08-18T08:17:00+09:00",
+    "cluster_id": "61f0",
+    "publisher": "sedaily.com",
+    "title_clean": "여수 석유화학 위기…강문성 시의원 “고용위기지역 재지정해야”",
+    "summary": "여수 석유화학산업 부진으로 플랜트건설노동자가 2024년 8,742명에서 2026년 2월 1,634명으로 81.3% 급감했다. 강문성 시의원이 지역경제 전반으로 확산될 수 있는 고용위기에 대응해 고용위기지역 재지정을 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T08:23:08+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공간정보품질관리원, 제1기 서포터즈 ‘누리이음’ 출범…국민 소통 강화 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41062",
+    "description": "[건설이코노미뉴스] 공간정보품질관리원이 MZ세대의 창의적이고 트렌디한 시각을 활용해 국가 공간정보의 가치를 국민들에게 알리는 소통 창구를 마련했다. 외부 10명과 내부 5명 등 15명으로 구성된 제1기 ‘누리이음’ 서포터즈는 오는 12월까지 카드뉴스와 숏폼 등 다양한 디지털 콘텐츠를 제작하며 공간정보품질관리원의 주요 사업과 성과를 국민에게 알리는 역할을 맡는다.공간정보품질관리원(원장 정형교)은 국민과의 소통을 강화하고 기관 인지도를 높이기 위해 지난 12일 ‘제1기 누리이음 서포터즈 발대식’을 개최했다고 최근 밝혔다.이번 서포터즈",
+    "published_at": "2026-08-18T08:21:00+09:00",
+    "cluster_id": "3a09",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "공간정보품질관리원, 제1기 서포터즈 ‘누리이음’ 출범…국민 소통 강화",
+    "summary": "공간정보품질관리원이 MZ세대 중심의 제1기 서포터즈 '누리이음'(15명)을 출범시켜 국민과의 소통 강화에 나섰다. 서포터즈는 12월까지 카드뉴스, 숏폼 등 디지털 콘텐츠를 제작해 공간정보 사업과 성과를 홍보할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-18T08:23:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32120,37 +32152,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-12T13:49:16+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염에도 사고는 없다... 태안군, 중대재해 예방 위해 고강도 현장점검... - chungnamilbo.co.kr",
-    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=903731",
-    "description": "군은 지난 11일 관내 공공 및 민간 소규모 건설현장을 대상으로 관계기관과 함께 '2026년 폭염 대비 건설현장 안전점검'을 전격 실시했다고 밝혔다. 이번 점검은 태안군(안전관리과)을 비롯해 충청남도(일자리기업지원과)...",
-    "published_at": "2026-08-12T13:28:00+09:00",
-    "cluster_id": "b30d",
-    "publisher": "chungnamilbo.co.kr",
-    "title_clean": "폭염에도 사고는 없다... 태안군, 중대재해 예방 위해 고강도 현장점검...",
-    "summary": "태안군이 폭염 시즌을 앞두고 관내 건설현장에 대한 고강도 안전점검을 실시했다. 중대재해 예방을 위해 공공 및 민간 소규모 건설현장을 대상으로 관계기관과 함께 현장 안전관리를 강화하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T13:34:29+09:00",
-    "importance": 5
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염에도 사고는 없다... 태안군, 중대재해 예방 위해 고강도 현장점검 실시 - 충남일보",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cb2pPbUJCdFJMRUNFdHFrSnZCcWw0X3dTaXo0RHRNWTdBQlJJaXozRGZPeXl3UVhiQngzZGlna19oeTlBV1pJV0xyOEFwdl9UenROWnhXWDVSNWdtTnpzUGx5NlVGSkNPVlBSRzVnRGVrVnM?oc=5",
-    "description": "[충남일보 문길진 기자] 충남 태안군이 연일 이어지는 폭염 속에서 건설현장 근로자의 온열질환을 예방하고 산업재해를 사전 차단하기 위해 유관기관과 손잡고 고강도 현장 점검에 나섰다.군은 지난 11일 관내 공공 및 민간 소규모 건설현장을 대상으로 관계기관과 함께 ‘2026년 폭염 대비 건설현장 안전점검’을 전격 실시했다고 밝혔다.이번 점검은 태안군(안전관리과)을 비롯해 충청남도(일자리기업지원과), 대전지방고용노동청 서산지청(산재예방감독과), 한국산업안전보건공단 충남지역본부, 대한산업안전협회 등 5개 기관의 민·관 전문가 10명으로 구성",
-    "published_at": "2026-08-12T13:27:17+09:00",
-    "cluster_id": "b30d",
-    "publisher": "충남일보",
-    "title_clean": "폭염에도 사고는 없다... 태안군, 중대재해 예방 위해 고강도 현장점검 실시",
-    "summary": "태안군이 폭염 시즌을 맞아 건설현장의 온열질환 예방과 산업재해 차단을 위해 5개 관계기관과 함께 고강도 현장점검을 실시했다. 공공 및 민간 소규모 건설현장을 대상으로 안전점검을 전격 실행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T13:34:29+09:00",
-    "importance": 5
   }
 ]
