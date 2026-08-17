@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "K-원전, 테라파워 SMR 밸류체인 진입…초도호기 넘어 후속 수주 기대 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20260817500252",
+    "description": "두산에너빌리티는 미국 와이오밍주 케머러 1호기에 들어갈 핵심 기자재 제작 계약을 맺었다. ◆최태원·빌 게이츠, 1년 새 두 번째 회동 최태원 SK그룹 회장과 빌 게이츠 테라파워 이사회 의장은 지난 14일 서울 종로구...",
+    "published_at": "2026-08-17T15:52:00+09:00",
+    "cluster_id": "9bbb",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "K-원전, 테라파워 SMR 밸류체인 진입…초도호기 넘어 후속 수주 기대",
+    "summary": "두산에너빌리티가 미국 테라파워의 SMR(소형모듈원전) 사업에 핵심 기자재 제작 계약을 체결했다. 초도호기 수주에 이어 후속 수주 기회 확대로 K-원전 기업의 해외 밸류체인 진입이 가속화되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T15:58:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21817,20 +21833,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 PF",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 아룹과 손잡고 '목동8단지' 수주 경쟁력 강화 - cnbizm.com",
-    "link": "https://www.cnbizm.com/news/articleView.html?idxno=310990",
-    "description": "문화경제 = 김응구 기자 | 대우건설이 '목동8단지' 재건축정비사업 수주를 위해 글로벌 엔지니어링 기업인 아룹(ARUP)과 손잡고 초고층 주거단지 설계 경쟁력 확보에 나선다. 영국 런던에 본사를 둔 아룹은 그간...",
-    "published_at": "2026-08-10T10:48:00+09:00",
-    "cluster_id": "7511",
-    "publisher": "cnbizm.com",
-    "title_clean": "대우건설, 아룹과 손잡고 '목동8단지' 수주 경쟁력 강화",
-    "summary": "대우건설이 글로벌 엔지니어링 기업 아룹과 협력하여 목동8단지 재건축정비사업 수주 경쟁력을 강화하고 있다. 초고층 주거단지 설계 역량을 확보함으로써 대형 프로젝트 수주 가능성을 높이는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T10:53:15+09:00",
-    "importance": 2
+    "title": "금융권, 부동산PF 대출 연체율 4.65%…10년만 최고치 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xU042QWlEbW84Y3hHaVZOZHp6NGRBNnd4QUtXT2k1VlJVVFJfUlpVYzdUd2pPVlRBQlJiNlM2VS1NX3JfTVlhS2xMSjYzbV9mdUI4WTdVeUFfSExYNDVFbE9QLXczVy1GajNIc1YxMTV3RDhnMzNtatIBeEFVX3lxTE0xU042QWlEbW84Y3hHaVZOZHp6NGRBNnd4QUtXT2k1VlJVVFJfUlpVYzdUd2pPVlRBQlJiNlM2VS1NX3JfTVlhS2xMSjYzbV9mdUI4WTdVeUFfSExYNDVFbE9QLXczVy1GajNIc1YxMTV3RDhnMzNtag?oc=5",
+    "description": "[서울=뉴시스] 이정필 기자 = 금융권의 부동산 프로젝트파이낸싱(PF) 대출 연체율이 10년 만에 가장 높은 수준으로 뛰었다",
+    "published_at": "2026-08-17T14:26:24+09:00",
+    "cluster_id": "23fb",
+    "publisher": "뉴시스",
+    "title_clean": "금융권, 부동산PF 대출 연체율 4.65%…10년만 최고치",
+    "summary": "금융권의 부동산 PF 대출 연체율이 4.65%로 10년 만에 최고 수준을 기록했다. 이는 건설업계의 자금 조달 악화와 프로젝트 부실 위험을 시사하는 신호다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T15:58:03+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32137,20 +32153,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T09:39:32+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "SIGNAL - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tb3BXLThCWXFHcDhFWGduc01NM2l4ZW5jazVrcU5UZDQ4Q05RbjI1LTg0SmM3WHpMc3JYYXBDSEcwQ1VHWG85NDdFSnBQcjAzaE10LTZqSkgyalBqTDJCU0VGTQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tb3BXLThCWXFHcDhFWGduc01NM2l4ZW5jazVrcU5UZDQ4Q05RbjI1LTg0SmM3WHpMc3JYYXBDSEcwQ1VHWG85NDdFSnBQcjAzaE10LTZqSkgyalBqTDJCU0VGTQ?oc=5\" target=\"_blank\">SIGNAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
-    "cluster_id": "36ab",
-    "publisher": "서울경제",
-    "title_clean": "SIGNAL",
-    "summary": "SIGNAL 서울경제",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T09:14:18+09:00",
-    "importance": 2
   }
 ]
