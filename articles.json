@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "전시컨벤션센터 건립 속도…3천7백억 원대 재원 조달 시험대 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638723&ref=A",
+    "description": "[서인석/롯데건설 현장소장 : \"현재 공정률은 2% 정도 됩니다. 지금 터파기와 흙막이 공사가 진행 중입니다. 연말까지 건물을 올리기 위한 기초공사, 지하 공사가 이뤄질 것 같습니다. 공정률은 7% 정도 예상하고 있습니다....",
+    "published_at": "2026-08-17T21:30:00+09:00",
+    "cluster_id": "f2c8",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "전시컨벤션센터 건립 속도…3천7백억 원대 재원 조달 시험대",
+    "summary": "전시컨벤션센터 건립 프로젝트가 진행 중이며, 현재 공정률은 2% 수준으로 터파기와 흙막이 공사가 진행 중입니다. 3천7백억 원대 재원 조달이 관심사로, 연말까지 기초공사와 지하공사를 통해 공정률 7% 달성을 목표로 하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T21:53:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21814,22 +21830,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-10T11:28:45+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 충남 대천항 북방파제 준설토투기장 수주 유력 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608071135089320180",
-    "description": "롯데건설(대표 오일근)이 ‘대천항 북방파제 준설토투기장 축조공사’ 수주를 위한 유리한 고지에 올라섰다. 9일 조달청에 따르면, 지난 7일 충청남도 수요의 종합평가낙찰제인 이 공사에 대한 개찰 결과...",
-    "published_at": "2026-08-10T11:22:00+09:00",
-    "cluster_id": "1503",
-    "publisher": "대한경제",
-    "title_clean": "롯데건설, 충남 대천항 북방파제 준설토투기장 수주 유력",
-    "summary": "롯데건설이 충남 대천항 북방파제 준설토투기장 축조공사 수주를 위한 유리한 위치에 올라섰다. 조달청의 종합평가낙찰제 개찰 결과 롯데건설이 경쟁에서 우위를 점한 것으로 나타났다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T11:28:45+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
