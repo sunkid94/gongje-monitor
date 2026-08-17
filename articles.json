@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "이 시각 거제 아파트 산사태 현장…경남 곳곳서 고립·침수 속출 - news.tvchosun.com",
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/17/2026081790121.html",
+    "description": "\" 차량 고립과 침수 피해 신고도 속출했습니다. 삼성중공업 등 대형 조선소들도 휴일 특근을 중단하고 근로자 출근을 제한한 채 긴급 시설물 점검에 들어갔습니다. TV조선 하동원입니다.",
+    "published_at": "2026-08-17T21:26:00+09:00",
+    "cluster_id": "4755",
+    "publisher": "news.tvchosun.com",
+    "title_clean": "이 시각 거제 아파트 산사태 현장…경남 곳곳서 고립·침수 속출",
+    "summary": "경남 거제 지역에서 집중호우로 인한 산사태, 차량 고립, 침수 피해가 발생했다. 삼성중공업 등 대형 조선소들이 긴급 시설물 점검을 위해 특근을 중단하고 근로자 출근을 제한했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T21:33:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21816,19 +21832,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 목동8단지 수주 도전…英 ARUP과 기술 협업 - sisafocus.co.kr",
-    "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=363557",
-    "description": "(사진 / 대우건설 제공) 대우건설이 서울 양천구 목동8단지 재건축정비사업 수주를 위해 글로벌 구조 설계·엔지니어링 기업 ARUP(아룹)과 협업한다고 10일 밝혔다. 이번 협업에 따라 대우건설은 최고 높이 180m, 49층...",
-    "published_at": "2026-08-10T11:10:00+09:00",
-    "cluster_id": "7a62",
-    "publisher": "sisafocus.co.kr",
-    "title_clean": "대우건설, 목동8단지 수주 도전…英 ARUP과 기술 협업",
-    "summary": "대우건설이 글로벌 엔지니어링 기업 ARUP과 협업하여 서울 목동8단지 재건축 사업 수주를 추진 중이다. 최고 높이 180m의 대규모 프로젝트로 기술력 강화를 통한 수주 경쟁력 확보를 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T11:13:15+09:00",
+    "title": "[미리보는 이데일리 신문]훈련 축소, 투자 압박…한미 '이상기류' - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02528886645548304",
+    "description": "흠뻑 -건설경기 부진 이겨낸 가구·건자재 업계 -“폭염에 손님 안 와요”…전통시장 71%, 냉방설비 없다 △제약·바이오 -더 깐깐해진 ECM스킨부스터 관리…소비자 신뢰 굳힌다 -늪에 빠진 삼바 노사갈등, 출구 보인다...",
+    "published_at": "2026-08-17T21:29:00+09:00",
+    "cluster_id": "b4be",
+    "publisher": "edaily.co.kr",
+    "title_clean": "[미리보는 이데일리 신문]훈련 축소, 투자 압박…한미 '이상기류'",
+    "summary": "건설경기 부진 속에서 가구·건자재 업계는 선전하고 있으며, 전통시장의 냉방설비 부족 문제가 드러났다. 제약·바이오와 삼바 등 다양한 산업에서 구조적 변화와 노사 문제 해결의 움직임이 보이고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-17T21:33:10+09:00",
     "importance": 2
   },
   {
@@ -32135,21 +32151,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-12T11:14:04+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고용노동부 서산지청, 소규모 건설현장 폭염 대비 합동 패트롤 실시 - 대전일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFa0t4bFhjTklWWVJCTkRvdHNZQW03NUgxWU5pRE5pak5xQlZVSDN4ZFVrR1BjdnZ6QkJaM2cwSXU5Y0RhUG5YLXJaZXVxbTFLcnNpTk9uTnZ0eDk4SEt2M1BPWm1EMzBaRFhVNVMxONIBc0FVX3lxTE1sY1c4ZndhemhBRkpTaS16ejhfakVsb05pT3hpTFdxMW1Nd285MktrYjlhcDRLV2V1SWIyNFdpQmItRVFTcXAtS1F5YmV4aVl1VVplTjZBNVNxRjJQcVNGZFh1ejhRNElna0s5MXFiZDB2RzA?oc=5",
-    "description": "[서산]고용노동부 서산지청이 연일 기세를 부리는 폭염 속에서 온열질환에 노출되기 쉬운 소규모 건설현장 근로자들의 안전을 지키기 위해 유관기관과 손잡고 고강도 현장 점검에 나섰다.고용노동부 서산지청(지청장 김경민)은 지난 11일 서산·태안 지역 소규모 건설현장을 대상으로 폭염 대비 온열질환 예방을 위한 민·관 합동 패트롤 점검을 집중 실시했다고 밝혔다.이번 현장 점검은 연일 이어지는 폭염 특보로 옥외 작업 비중이 높은 건설현장 근로자들의 온열질환 발생 위험이 극에 달함에 따라, 상대적으로 안전보건 관리 여건이 취약한 소규모 건설 현장",
-    "published_at": "2026-08-12T10:55:00+09:00",
-    "cluster_id": "c227",
-    "publisher": "대전일보",
-    "title_clean": "고용노동부 서산지청, 소규모 건설현장 폭염 대비 합동 패트롤 실시",
-    "summary": "고용노동부 서산지청이 폭염 시즌을 맞아 서산·태안 지역의 소규모 건설현장을 대상으로 온열질환 예방 합동 패트롤을 실시했다. 안전보건 관리가 취약한 소규모 현장 근로자들의 안전을 강화하기 위한 정부의 현장 점검 활동이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T11:14:04+09:00",
-    "importance": 4
   }
 ]
