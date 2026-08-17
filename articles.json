@@ -21833,6 +21833,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"건설안전 세운다\"…숙련근로자 장기재직 지원 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iZmh1SUJ5QjRabkR4NmFVbkgtUDVhWjFUQ3pyM0RoOGExSEJvcE9CdnpMSUVwdFA0SC03NEZndk41UXp0VDFJeUZHMlRkSHpMN29NM0tn?oc=5",
+    "description": "중진공·현대엔지니어링 맞손안전·품질인력 250명 지원8월 말까지 참여기업 모집",
+    "published_at": "2026-08-17T16:03:24+09:00",
+    "cluster_id": "dfe4",
+    "publisher": "매일경제",
+    "title_clean": "\"건설안전 세운다\"…숙련근로자 장기재직 지원",
+    "summary": "중진공과 현대엔지니어링이 건설안전 및 품질 관리를 위해 숙련근로자 250명을 지원하는 프로그램을 시작한다. 장기재직을 유도하여 안전·품질 인력을 확보하고, 8월 말까지 참여기업을 모집할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T16:28:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32134,22 +32150,6 @@
     "publisher": "fnnews.com",
     "title_clean": "6월 건설수주 21.7%↓…민간은 41.5% 급감",
     "summary": "6월 건설수주가 전월 대비 21.7% 감소했으며, 민간 부문은 41.5% 급감하면서 건설업계 부진이 심화되었다. 7월 건설경기실사지수(CBSI)도 72.8로 하락하여 신규수주와 자금조달 악화가 지속되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T09:49:37+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "태안군, '행정·사법 조치' 예고... 폭염 건설현장 불시점검 강화 - newsworker.co.kr",
-    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440790",
-    "description": "군은 지난 11일 공공발주 사업인 태안 반다비 체육센터 건설현장과 고용노동부가 지정한 민간 소규모 공사현장 3곳 등 모두 4곳을 대상으로 '2026년 폭염 대비 건설현장 안전점검'을 실시했다. 특히 현장의 평소 안전관리...",
-    "published_at": "2026-08-12T09:46:00+09:00",
-    "cluster_id": "4dbc",
-    "publisher": "newsworker.co.kr",
-    "title_clean": "태안군, '행정·사법 조치' 예고... 폭염 건설현장 불시점검 강화",
-    "summary": "태안군이 폭염 대비 건설현장 안전점검을 강화하며 행정·사법 조치를 예고했다. 공공발주 사업과 민간 소규모 공사현장 4곳을 대상으로 현장 안전관리 상황을 점검하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T09:49:37+09:00",
     "importance": 4
