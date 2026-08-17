@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "쌍령공원 품은 대단지… ‘계약금 5%’ 부담 낮춰 - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/economy/estate/2026/08/18/20260818016002?wlog_tag3=naver",
+    "description": "롯데건설이 경기도 광주시 양벌동 일원에 건립되는 ‘경기광주역 롯데캐슬 시그니처’ 1단지를 분양 중이다. 지하 7층~지상 최고 32층, 7개동, 전용면적 59~260㎡, 1077세대 대단지로 조성된다. 수요자의 초기 자금 부담을...",
+    "published_at": "2026-08-18T05:02:00+09:00",
+    "cluster_id": "af1e",
+    "publisher": "seoul.co.kr",
+    "title_clean": "쌍령공원 품은 대단지… ‘계약금 5%’ 부담 낮춰",
+    "summary": "롯데건설이 경기 광주시에 1077세대 대규모 아파트 단지를 분양 중이며, 계약금 5% 조건으로 수요자의 초기 자금 부담을 낮췄다. 쌍령공원을 품은 입지와 낮은 계약금 조건으로 분양 활성화를 노리고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T05:08:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21816,19 +21832,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 목동8단지 구조 안전성 높인다... 글로벌 엔지니어링 기업 ARUP과 협업 - 내외일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zZ0t6d3VMWmF6SExBbllHdEZfMjBEckJFZ2liRnZVeXB4N3d2c3Q5VG9MUV9aYUhiRGhFLTcxUDk2RFVuX3V0RmlEU0dDTl9XRHhzMWdjWjhyT004N1Yya2djdVFiUEtLZ1dkbEhpYw?oc=5",
-    "description": "[내외일보] 이수한 기자 = 대우건설이 목동8단지 재건축정비사업(이하 목동8단지) 수주를 위해 세계적인 구조 설계 및 엔지니어링 기업인 ARUP과 전략적 협업에",
-    "published_at": "2026-08-10T09:47:29+09:00",
-    "cluster_id": "60fb",
-    "publisher": "내외일보",
-    "title_clean": "대우건설, 목동8단지 구조 안전성 높인다... 글로벌 엔지니어링 기업 ARUP과 협업",
-    "summary": "대우건설이 목동8단지 재건축정비사업 수주를 위해 글로벌 엔지니어링 기업 ARUP과 협업하여 구조 안전성을 높이는 전략을 추진하고 있다. 이는 대형 재건축 프로젝트 수주 경쟁에서 기술력을 강화하려는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T11:38:35+09:00",
+    "title": "하수관 뚫다 '148억 금 더미' 발견한 18세 인부…소유권은 누구에게? - news1.kr",
+    "link": "https://www.news1.kr/world/general-world/6260976",
+    "description": "벨기에의 한 주택을 리모델링하던 건설 노동자들이 약 900만 유로(약 148억 원)에 달하는 금괴와 금화 무더기를 발견했다. 14일(현지시간) 영국 BBC 등에 따르면 벨기에 동플랑드르 지역의 한 주택에서 하수관 설치 공사를...",
+    "published_at": "2026-08-18T05:00:00+09:00",
+    "cluster_id": "76db",
+    "publisher": "news1.kr",
+    "title_clean": "하수관 뚫다 '148억 금 더미' 발견한 18세 인부…소유권은 누구에게?",
+    "summary": "벨기에에서 주택 리모델링 공사 중 약 148억 원 규모의 금괴와 금화가 발견되었다. 건설 현장에서의 귀금속 발견 사건으로, 건설업계와 직접적인 관련성이 낮은 일반 사회 뉴스이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-18T05:08:10+09:00",
     "importance": 2
   },
   {
@@ -32135,21 +32151,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-12T12:23:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[2026 시공능력평가] [코오롱글로벌] 5계단 추락…주택 침체에 20위권 밖... - dealsite.co.kr",
-    "link": "https://dealsite.co.kr/articles/166800",
-    "description": "최근 건설경기 침체와 주택사업 위축의 영향으로 공사실적과 경영평가가 모두 둔화되면서 20위권 밖으로 밀려난 것으로 분석된다. 10일 국토교통부가 최근 발표한 '2026년 시공능력평가'에 따르면 코오롱글로벌의...",
-    "published_at": "2026-08-12T12:02:00+09:00",
-    "cluster_id": "d4bb",
-    "publisher": "dealsite.co.kr",
-    "title_clean": "[2026 시공능력평가] [코오롱글로벌] 5계단 추락…주택 침체에 20위권 밖...",
-    "summary": "코오롱글로벌이 2026년 시공능력평가에서 5계단 하락하여 20위권 밖으로 밀려났다. 건설경기 침체와 주택사업 위축으로 인한 공사실적 악화와 경영평가 둔화가 주요 원인이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T12:09:14+09:00",
-    "importance": 4
   }
 ]
