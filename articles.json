@@ -21837,6 +21837,21 @@
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
+    "title": "【생산성 혁신기술】 교량은 건설비보다 ‘생애주기’가 경쟁력 - 토목신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Vc2FWNzF2V05LYzA2LTh6RUZRZjRILUdTbDB4RVk2RG96RnA2QTZXbWZIaGpYZUNESG10a1p3TXZxUUozUkJ0X0NIUHJLMkdVd0xub3FiVVFKMmxmQnhUYXFGOUx4dDFa?oc=5",
+    "description": "BIB 거더·EPF 받침교체 기술 등 교량 전 생애주기 겨냥신축이음 하자 줄이고 유지관리 효율 높여&hellip;‘건설&rarr;유지관리’ 기술...",
+    "cluster_id": "0e33",
+    "publisher": "토목신문",
+    "title_clean": "【생산성 혁신기술】 교량은 건설비보다 ‘생애주기’가 경쟁력",
+    "summary": "교량 건설의 경쟁력이 초기 건설비보다 생애주기 관점에서 평가되는 추세를 반영한 기사입니다. BIB 거더, EPF 받침교체 등 신기술로 신축이음 하자를 줄이고 유지관리 효율을 높이는 '건설→유지관리' 기술 혁신이 강조되었습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T09:27:50+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
     "title": "【생산성 혁신기술-교량】 더 길게, 더 가볍게, 더 빨리 - 토목신문",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwckVWQlR1N21nLWRNN29SQTY2STdvLUZEbFZiTDctWWkyQjExZWJGdlo1R2hxcUhEY1FrTTROY2VRQkVDbVlyWDZNdUVvRXc3b0NuMnlReDNrVklWYjJjcUxIc25tb2ot?oc=5",
     "description": "【편집자 주】 【연중기획】 생산성 혁신기술 ― 건설의 판을 바꾼다싼 기술보다 경제적인 기술&hellip;공기·안전·품질·유지관리까지 LCC로 다...",
@@ -32137,21 +32152,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-11T22:59:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“한인 사역 하려 했는데”…캄보디아 아이 44명이 왔다 - kmib.co.kr",
-    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002336&cp=nv",
-    "description": "건설노동자나 툭툭(오토바이 택시) 기사로 일하는 부모들이 모여 산다. 아이들의 하루 일과는 3시간의 학교 수업을 마치고 집안일을 돕거나 하릴 없이 보내는 시간이 대부분이다. 임 선교사는 교회를 찾는 아이들을 모아...",
-    "published_at": "2026-08-11T22:27:00+09:00",
-    "cluster_id": "1961",
-    "publisher": "kmib.co.kr",
-    "title_clean": "“한인 사역 하려 했는데”…캄보디아 아이 44명이 왔다",
-    "summary": "캄보디아에서 선교 활동 중인 선교사가 저소득층 아이들을 위한 교육 사역을 펼치고 있는 사례를 다룬 기사. 건설노동자 등 저임금 노동자 가정의 아이 44명이 교회 프로그램에 참여하고 있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-11T22:34:32+09:00",
-    "importance": 2
   }
 ]
