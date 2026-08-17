@@ -21833,6 +21833,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 업황 부진에 금융권 PF 연체율 10년 만에 최고 - newscj.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43NnJsT2w1MHZ6c2V5Nno0alVMUEFQZ2NyM2dOSHhzNDVrRW0xZmZjRXBLbXFWTXRDN3R5Tm9kZjdRaHFtVGRHUEdjaHNnUDZKNlVtRW9WZ2NlekxxS1VsUGpaazhKbXpZYXc?oc=5",
+    "description": "[천지일보=김누리 기자] 금융권 부동산 부동산 프로젝트파이낸싱(PF) 대출 연체율이 약 10년 만에 가장 높은 수준으로 치솟았다. 대출 총액 자체는 줄었으나 건설 업황 부진에 위험군 사업장의 부실 압력이 한층 가중됐다. 부실 사업장 정리·재구조화 실적도 감소해 구조조정 동력이 크게 떨",
+    "published_at": "2026-08-17T15:00:00+09:00",
+    "cluster_id": "d4cd",
+    "publisher": "newscj.com",
+    "title_clean": "건설 업황 부진에 금융권 PF 연체율 10년 만에 최고",
+    "summary": "금융권 부동산 PF 대출 연체율이 10년 만에 최고 수준으로 상승했다. 건설 업황 부진으로 인한 위험군 사업장의 부실 압력이 증가하고 있으며, 부실 사업장 정리 실적도 감소해 구조조정 동력이 약화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T15:08:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32135,22 +32151,6 @@
     "summary": "대구시 상수도사업본부 시설관리소가 건설현장 안전관리비를 부정하게 사용한 것으로 적발되었다. 사진 재탕과 목적 외 용도 사용 등 비리가 드러나 건설 안전 관리의 신뢰성 문제가 제기되었다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T08:49:10+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대구시 상수도사업본부 시설관리소, 안전관리비 '줄줄'···사진 재탕·... - newsprime.co.kr",
-    "link": "http://www.newsprime.co.kr/news/article.html?no=743546",
-    "description": "대구시 상수도사업본부 시설관리소가 건설현장 안전을 위한 '산업안전보건관리비'를 목적 외로 사용하거나 허위 증빙으로 부당 챙겨온 사실이 대구시 감사위원회 조사 결과 드러났다. 감사위원회의 시정요구 처분서에...",
-    "published_at": "2026-08-12T08:34:00+09:00",
-    "cluster_id": "c7ea",
-    "publisher": "newsprime.co.kr",
-    "title_clean": "대구시 상수도사업본부 시설관리소, 안전관리비 '줄줄'···사진 재탕·...",
-    "summary": "대구시 상수도사업본부 시설관리소가 건설현장 안전관리비를 목적 외로 사용하거나 허위 증빙으로 부당 청구한 사실이 감사위원회 조사로 적발됐다. 공공기관의 안전관리비 부정 사용으로 건설업계의 신뢰성과 투명성에 부정적 영향을 미칠 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T08:39:15+09:00",
     "importance": 4
   }
 ]
