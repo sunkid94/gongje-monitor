@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "용산국제업무지구와 함께⋯서계·청파·남영 재개발도 속도 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2614152",
+    "description": "삼성물산과 대우건설 등의 참전 가능성도 거론된다. 서계동 인근의 청파동과 남영동 일대 역시 구체적인 정비 계획을 확정하며 속도를 내고 있다. 청파동 1가 89-18일대의 청파2구역은 조합설립인가를 마치고 사업을...",
+    "published_at": "2026-08-17T10:58:00+09:00",
+    "cluster_id": "a7e7",
+    "publisher": "etoday.co.kr",
+    "title_clean": "용산국제업무지구와 함께⋯서계·청파·남영 재개발도 속도",
+    "summary": "용산국제업무지구 개발과 함께 서계동, 청파동, 남영동 일대 재개발 사업이 가속화되고 있으며, 삼성물산, 대우건설 등 대형 건설사의 참여 가능성이 거론되고 있다. 청파2구역 등 여러 구역에서 조합설립인가를 완료하며 구체적인 정비 계획을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T11:03:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21818,20 +21834,20 @@
     "importance": 3
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "가락한신, 시공자로 포스코이앤씨 선정… 리모델링 속도 - arunews.com",
-    "link": "https://www.arunews.com/news/articleView.html?idxno=65679",
-    "description": "서울 송파구 가락한신아파트가 시공자로 포스코이앤씨를 선정하면서 리모델링에 속도를 낼 전망이다. 가락한신아파트 리모델링조합(조합장 이지원)은 지난 9일 시공자 선정을 골자로 한 총회를 열었다. 이날...",
-    "published_at": "2026-08-10T10:18:00+09:00",
-    "cluster_id": "4999",
-    "publisher": "arunews.com",
-    "title_clean": "가락한신, 시공자로 포스코이앤씨 선정… 리모델링 속도",
-    "summary": "서울 송파구 가락한신아파트가 포스코이앤씨를 시공자로 선정하여 리모델링 사업을 본격화한다. 대형 건설사의 참여로 리모델링 사업이 속도를 낼 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T10:23:21+09:00",
-    "importance": 2
+    "title": "[마켓+]2조원대 재건축도 '단독입찰'…서울 대형 정비사업 경쟁구도 안... - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=115540",
+    "description": "건설수주는 증가했지만 6월 건설기업경기실사지수는 74.5에 머물러 건설업 전반의 체감경기는 여전히 부진한 것으로 조사됐다. 수주 물량이 늘어나는 것과 사업을 안정적으로 수행할 수 있는 환경이 같은 의미는...",
+    "published_at": "2026-08-17T10:58:00+09:00",
+    "cluster_id": "523c",
+    "publisher": "businessplus.kr",
+    "title_clean": "[마켓+]2조원대 재건축도 '단독입찰'…서울 대형 정비사업 경쟁구도 안...",
+    "summary": "건설수주는 증가했으나 6월 건설기업경기실사지수가 74.5로 부진해 업계 체감경기가 여전히 불황인 상황이다. 서울 대형 정비사업에서 단독입찰이 증가하는 등 경쟁 구도가 약화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T11:03:01+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32138,21 +32154,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-12T00:59:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "춘천시, 폭염 속 건설현장 6곳 점검…온열질환·추락 위험 살펴 - 한국사회복지저널",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9acWJ1NWgwZ0NKUnNJWGhmZ3M1T2VQblgyWk1DZlBESmdOUEVjMllYcEprTDNiYVRqN3g5cWFqRFBvbEZGNWthOVZUWlFxOTM2cUhNREptajNCUG1PM1hCMWlOdW9jR2R1My1B?oc=5",
-    "description": "춘천시(시장 육동한)가 폭염에 따른 온열질환과 산업재해를 예방하기 위해 시 발주 주요 건설현장을 집중 점검했다.춘천시는 8월 10일부터 11일까지 안전보건공단과 함께 사업비 50억원 이하 소규모 건설현장 6곳을 찾아 온열질환 예방조치와 추락·끼임 등 주요 산업재해 위험요인을 점검했다.",
-    "published_at": "2026-08-11T18:32:21+09:00",
-    "cluster_id": "8b03",
-    "publisher": "한국사회복지저널",
-    "title_clean": "춘천시, 폭염 속 건설현장 6곳 점검…온열질환·추락 위험 살펴",
-    "summary": "춘천시가 폭염으로 인한 건설현장 안전사고 예방을 위해 시 발주 소규모 건설현장 6곳을 점검했다. 온열질환 예방조치와 추락·끼임 등 주요 산업재해 위험요인을 확인하며 근로자 안전 관리를 강화했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T00:39:55+09:00",
-    "importance": 4
   }
 ]
