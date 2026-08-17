@@ -21835,6 +21835,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "세아제강, 해상풍력·캐나다 LNG 매출 '본격화'…\"중동 송유관 신설 프로... - newsprime.co.kr",
+    "link": "http://www.newsprime.co.kr/news/article.html?no=744076",
+    "description": "국내 건설경기 부진에도 불구하고 신안우이 해상풍력과 캐나다 LNG 프로젝트 관련 매출 인식으로 2분기 전체 강관 판매가 지난해 동기 대비 9.4% 증가한 24만5000톤을 기록했다. 국내 열연 유통 가격이 상승했지만 내수...",
+    "published_at": "2026-08-18T07:36:00+09:00",
+    "cluster_id": "a054",
+    "publisher": "newsprime.co.kr",
+    "title_clean": "세아제강, 해상풍력·캐나다 LNG 매출 '본격화'…\"중동 송유관 신설 프로...",
+    "summary": "세아제강이 신안우이 해상풍력과 캐나다 LNG 프로젝트 매출 인식으로 2분기 강관 판매량을 전년동기 대비 9.4% 증가시켰다. 국내 건설경기 부진 속에서도 해외 대형 인프라 프로젝트 수주가 실적을 견인하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T07:43:09+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "세아제강지주, 북미 오일·가스향 강관 판매 증가에 매출 늘어 - snmnews.com",
     "link": "http://www.snmnews.com/news/articleView.html?idxno=573391",
     "description": "국내에서는 건설경기 부진에 대응해 제품 가격 인상과 LNG 프로젝트 판매 확대를 추진한다. 액화천연가스와 탄소 포집·활용·저장(CCUS), 수소 등 에너지 프로젝트용 강관과 함께 인공지능(AI) 데이터센터 관련 스테인리스...",
@@ -32135,21 +32151,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T13:09:24+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“노동·성장, 대립 넘어 지속성·혁신 만들어야 ‘진짜 성장’” - naeil.com",
-    "link": "https://www.naeil.com/news/read/598539?ref=naver",
-    "description": "데이터센터의 형틀·목공이나 전기공사 등은 높은 숙련과 기술이 필요하지만 건설노동에 대한 사회적 인식은 과거에 머물러 있다. 적정임금제 등 숙련에 합당한 처우와 직업 전망을 갖춰 청년이 기술을 쌓고 미래를 설계할...",
-    "published_at": "2026-08-12T13:04:00+09:00",
-    "cluster_id": "fbdd",
-    "publisher": "naeil.com",
-    "title_clean": "“노동·성장, 대립 넘어 지속성·혁신 만들어야 ‘진짜 성장’”",
-    "summary": "건설노동의 높은 숙련도에 비해 사회적 인식과 처우가 낙후되어 있다는 지적. 적정임금제 등 개선을 통해 청년 인력 유입과 기술 발전을 도모해야 진정한 성장이 가능하다는 주장.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T13:09:24+09:00",
-    "importance": 2
   }
 ]
