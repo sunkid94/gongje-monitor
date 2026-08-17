@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남부 집중호우에 중대본 1단계…거제 사흘간 800㎜ '물폭탄' - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/national/2354745.htm",
+    "description": "집중호우로 산업 현장에도 차질이 빚어진 가운데 한화오션과 삼성중공업은 거제 지역 도로 통제에 따라 노동자들에게 출근하지 말고 대기할 것을 안내한 것으로 알려졌다. 거제 지역에는 광복절 연휴 사흘간 800㎜가...",
+    "published_at": "2026-08-17T11:30:00+09:00",
+    "cluster_id": "0c37",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "남부 집중호우에 중대본 1단계…거제 사흘간 800㎜ '물폭탄'",
+    "summary": "남부 지역 집중호우로 중대본 1단계 가동되었으며, 거제 지역 사흘간 800㎜의 기록적 강우가 발생했다. 한화오션, 삼성중공업 등 주요 조선업체들이 도로 통제에 따라 노동자 출근을 중단하는 등 산업 현장에 차질이 발생했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T11:32:57+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21818,20 +21834,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, '장위 푸르지오 마크원' 39가구 10일 무순위 청약 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418056",
-    "description": "대우건설이 서울 장위뉴타운 10구역 재개발을 통해 공급하는 '장위 푸르지오 마크원'이 10일 무순위 청약을 진행한다고 밝혔다. 이번 공급 물량은 부적격 등으로 발생한 잔여 39가구로, ▲전용 39㎡A 21가구 ▲84...",
-    "published_at": "2026-08-10T10:20:00+09:00",
-    "cluster_id": "de76",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "대우건설, '장위 푸르지오 마크원' 39가구 10일 무순위 청약",
-    "summary": "대우건설이 서울 장위뉴타운 재개발 사업의 '장위 푸르지오 마크원'에서 부적격 등으로 발생한 잔여 39가구에 대해 무순위 청약을 진행한다. 전용 39㎡와 84㎡ 등 다양한 규모의 주택을 공급할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T10:23:21+09:00",
-    "importance": 2
+    "title": "\"대출 줄였는데 부실은 늘었다\"…금융권 PF 연체율 10년 만에 최고 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477951",
+    "description": "건설경기 침체가 장기화하면서 금융권 부동산 프로젝트파이낸싱(PF) 부실 우려가 다시 커지고 있다. 사진은 아파트 공사 현장 모습. 사진=연합뉴스 건설경기 침체가 장기화하면서 금융권 부동산 프로젝트파이낸싱...",
+    "published_at": "2026-08-17T11:28:00+09:00",
+    "cluster_id": "3c19",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "\"대출 줄였는데 부실은 늘었다\"…금융권 PF 연체율 10년 만에 최고",
+    "summary": "건설경기 침체로 금융권 부동산 PF 연체율이 10년 만에 최고 수준으로 상승했다. 대출 규모는 감소했음에도 부실 비율이 증가하면서 건설업계의 구조적 위기가 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T11:32:57+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32139,20 +32155,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T03:59:27+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "정책과 법률을 건설 노동자들에게 더 가깝게 다가가도록 합니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVlnMHJBN2VFQ05QdEViLU1PcE1jb2tpWmtwalRTRHZTUm9hX25BWjM1eTlqVExGVmxJdGRtZU1UUnBvcHN2TDRVd09aZ1VraHRLQzZtUnR3VFF6NzFiMmM3V2JqdVRKRmE1U3NncmhqU3JBVzlDZDJtb2tIZFYyemdUS3d3eGpUdUxnUEFCTVptZ29PZnI2OXJ1OGM?oc=5",
-    "description": "베트남 건설노조는 기존의 교육 및 설명회를 넘어 디지털 플랫폼을 활용한 홍보 활동을 강화하기로 결정했으며, 고용, 임금, 노동 안전, 디지털 전환, 녹색 전환과 관련된 콘텐츠를 제공할 예정입니다.",
-    "cluster_id": "1e6d",
-    "publisher": "Vietnam.vn",
-    "title_clean": "정책과 법률을 건설 노동자들에게 더 가깝게 다가가도록 합니다.",
-    "summary": "베트남 건설노조가 디지털 플랫폼을 활용한 정책 홍보를 강화하고 고용, 임금, 노동 안전, 디지털·녹색 전환 관련 콘텐츠를 제공하기로 결정했습니다. 노동자 권익 보호 및 산업 전환 지원을 위한 정보 접근성 개선 사업입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T03:04:26+09:00",
-    "importance": 2
   }
 ]
