@@ -5897,6 +5897,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "하늘 뚫린 경남 남해안 피해 속출 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003676&cp=nv",
+    "description": "한화오션과 삼성중공업은 야드 일부 구역과 도크가 침수되는 등 시설물 피해가 잇따르자 휴일 특근 예정이던 생산직 근로자들의 출근을 전면 통제했다.  이들 업체는 현장 안전점검팀을 급파해 배수 작업과 시설...",
+    "published_at": "2026-08-17T14:32:00+09:00",
+    "cluster_id": "2b69",
+    "publisher": "kmib.co.kr",
+    "title_clean": "하늘 뚫린 경남 남해안 피해 속출",
+    "summary": "경남 남해안의 집중호우로 한화오션, 삼성중공업 등 조선업체의 야드와 도크가 침수되는 피해가 발생했다. 업체들은 안전점검팀을 급파하여 배수 작업 등 복구에 나섰으며, 근로자 출근을 통제하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T14:38:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21814,22 +21830,6 @@
     "summary": "대우건설이 목동8단지 재건축 수주전에서 경쟁력을 높이기 위해 ARUP과 협력하여 초고층 건축의 안전성 및 엔지니어링 기술을 강화한다. 글로벌 구조설계 전문기업과의 손잡기를 통해 대형 재건축 프로젝트 수주 가능성을 높이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-10T10:48:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 목동8단지 수주전서 구조 안전성 차별화…英 아룹과 제휴 - socialvalue.kr",
-    "link": "https://www.socialvalue.kr/news/view/1065576234518115",
-    "description": "대우건설이 목동8단지 재건축정비사업 수주를 위해 글로벌 엔지니어링 기업 ARUP과 협업해 구조 안전성과 설계 경쟁력 강화에 나선다. ▲건축구조분야 엔지니어링 전문 글로벌 기업 아룹(ARUP)이 구조설계사로 참여한...",
-    "published_at": "2026-08-10T10:40:00+09:00",
-    "cluster_id": "3dd3",
-    "publisher": "socialvalue.kr",
-    "title_clean": "대우건설, 목동8단지 수주전서 구조 안전성 차별화…英 아룹과 제휴",
-    "summary": "대우건설이 목동8단지 재건축정비사업 수주를 위해 글로벌 엔지니어링 기업 ARUP과 협업하여 구조 안전성과 설계 경쟁력을 강화하고 있다. 국제 수준의 구조설계 기술을 도입해 입찰 경쟁에서 차별화를 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T10:43:25+09:00",
     "importance": 2
   },
   {
