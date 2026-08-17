@@ -21832,6 +21832,22 @@
     "importance": 3
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "(주)폼이즈, 국토교통부 ‘혁신 프리미어 1000’ 기업 선정 - magazine.hankyung.com",
+    "link": "https://magazine.hankyung.com/job-joy/article/202608175621d",
+    "description": "스마트건설 기술기업 주식회사 폼이즈(FORMiS, 대표 임혜경)가 국토교통부가 추천·선정하는 ‘2026년 혁신 프리미어 1000’ 기업에 최종 선정됐다. 폼이즈는 이번 선정을 통해 알루미늄 거푸집 분야에서 축적한 현장...",
+    "published_at": "2026-08-17T22:58:00+09:00",
+    "cluster_id": "836c",
+    "publisher": "magazine.hankyung.com",
+    "title_clean": "(주)폼이즈, 국토교통부 ‘혁신 프리미어 1000’ 기업 선정",
+    "summary": "스마트건설 기술기업 폼이즈가 국토교통부의 '2026년 혁신 프리미어 1000' 기업으로 최종 선정되었다. 알루미늄 거푸집 분야의 기술력을 인정받은 것으로, 정부의 건설기술 혁신 지원이 확대되는 시점이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T23:08:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32135,21 +32151,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T11:59:20+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 12일부터 도시재생지원센터 릴레이 간담회 - fetv.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84VnVmQk9ORGNwcjYtc0Q0S0l4eE9kV2pmY3dlZWNOOFItWEdXaER1Z2t5ZDhIZV9jOGdrRzF1RnQ2VlhhSUhyNm5iYmQyUGpNV1c4MUJsazJhMTBDX1BvLUR0d2Z0TkZj?oc=5",
-    "description": "[FETV=임요한 기자] 국토교통부가 12일부터 전국 7개 권역을 돌며 도시재생지원센터 간담회를 연다. 지방정부와 지원센터의 의견을 직접 듣고 현장 중심의 지원체",
-    "published_at": "2026-08-12T10:40:09+09:00",
-    "cluster_id": "18c2",
-    "publisher": "fetv.co.kr",
-    "title_clean": "국토부, 12일부터 도시재생지원센터 릴레이 간담회",
-    "summary": "국토교통부가 12일부터 전국 7개 권역에서 도시재생지원센터 릴레이 간담회를 개최한다. 지방정부와 지원센터의 의견을 수렴하여 현장 중심의 지원체계를 강화하는 것을 목표로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T11:59:20+09:00",
-    "importance": 2
   }
 ]
