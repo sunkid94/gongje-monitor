@@ -21835,6 +21835,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "울산 아파트값 상승 지방 광역시 중 최고… 시 “2030년까지 공공주택 ... - donga.com",
+    "link": "https://www.donga.com/news/Society/article/all/20260817/134490693/2",
+    "description": "울산시는 건설경기 침체와 자금 조달 여건 악화로 신규 공급이 줄어든 상황에서 남구와 중구, 북구 송정지구 등으로 실수요가 몰린 것을 가격 상승의 주요 원인으로 분석했다. 시는 우선 울산도시공사...",
+    "published_at": "2026-08-18T04:31:00+09:00",
+    "cluster_id": "25e2",
+    "publisher": "donga.com",
+    "title_clean": "울산 아파트값 상승 지방 광역시 중 최고… 시 “2030년까지 공공주택 ...",
+    "summary": "울산 아파트값이 지방 광역시 중 최고 수준으로 상승하고 있으며, 시는 신규 공급 부족과 실수요 집중을 원인으로 분석했다. 울산시는 2030년까지 공공주택 공급을 통해 주택 수급 문제 해결에 나설 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T04:38:15+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "경기 광주시, 화물차·건설기계 밤샘주차 특별단속…올해 362건 적발 - 뉴스타운",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qMkgyRjc0UFM3SlNWdEh5d2Eza01FbmdOUGVDVVlhYTNQdC1RdHNLcWdCZXN0WXFId05HLTR1bVJJWmw5LTJzLW9uOTgyNzJQYTdlSE9UbnpjM1BYSmxWRFRsSjRBanNQMHE4Z2dB?oc=5",
     "description": "[뉴스타운/송은경 기자] 경기 광주시가 대형 차량의 불법주정차로 인한 통행 불편과 안전사고를 줄이기 위해 영업용 화물차와 건설기계의 밤샘주차 단속을 강화했다.시는 지난 7월 27일부터 8월 9일까지 주말과 야간 불시단속을 벌여 송정동과 퇴촌면 일대에서 17건을 적발해 현장 계도했으며, 올해 들어 8월 초까지 확인된 영업용 화물차 밤샘주차 위반은 모두 362건으로 집계됐다.이번 특별단속은 기존 평일 정기 단속반 2명에 담당 팀장과 직원 등을 추가 투입하는 방식으로 진행됐다. 단속 시간도 평일에 한정하지 않고 주말과 심야시간까지 확대해",
@@ -32134,22 +32150,6 @@
     "summary": "코오롱글로벌이 2026년 시공능력평가에서 5계단 하락하여 20위권 밖으로 밀려났다. 건설경기 침체와 주택사업 위축으로 인한 공사실적 악화와 경영평가 둔화가 주요 원인이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T12:09:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "더위보다 무서운 중대재해...폭염 속 건설현장 고강도 합동 점검 - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=279223",
-    "description": "대비 건설현장 안전점검'을 전격 실시 했다고 밝혔습니다. 점검 대상은 공공발주 공사인 태안 반다비 체육센터 건설현장과 고용노동부가 지정한 민간 소규모 공사현장 3개소 등 총 4개소로, 폭염 예방 관리 실태를 실효성...",
-    "published_at": "2026-08-12T11:58:00+09:00",
-    "cluster_id": "6c6c",
-    "publisher": "paxetv.com",
-    "title_clean": "더위보다 무서운 중대재해...폭염 속 건설현장 고강도 합동 점검",
-    "summary": "정부가 폭염 시즌에 건설현장 안전점검을 강화하고 있으며, 태안 반다비 체육센터 등 4개 현장을 대상으로 고강도 합동 점검을 실시했다. 폭염 예방 관리 실태를 중심으로 현장 안전 관리 기준을 엄격히 적용하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T12:04:43+09:00",
     "importance": 4
   }
 ]
