@@ -21833,6 +21833,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[국토위- 노후 SOC 기획①] 10년 뒤 SOC 절반이 노후시설 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TcXU5UjhwbmtCUzV4bjZfRkFFdWMwekI0dTZPVUQzOHBFdEEtT0ZkcXlxVVdKM0FVd0hWOVM3cEpJR2FfYzI4b2M2M3dMRkVuSW5Hc0haS0tZXzBJNnBEbmwzM1l2MGM?oc=5",
+    "description": "대한민국의 사회기반시설(SOC)이 빠른 속도로 늙어가고 있다.국토교통부 자료를 분석하면 현재 준공 후 30년 이상 된 노후시설물은 약 4만3,000개로 전체 시설물의 23%에 달한다.더 심각한 것은 앞으로의 변화다.10년 뒤인 2036년에는 30년 이상 시설물이 약 9만7,000개, 전체의 52%까지 증가할 것으로 전망된다.대한민국 주요 시설물 두 곳 가운데 한 곳 이상이 30년을 넘기는 시대가 다가오고 있는 것이다.여기에 안전등급 C·D·E 시설물도 이미 1만6,000개에 이른다.집중호우와 폭염 등 기후변화가 일상화되",
+    "published_at": "2026-08-17T16:36:30+09:00",
+    "cluster_id": "5cc5",
+    "publisher": "국토교통신문",
+    "title_clean": "[국토위- 노후 SOC 기획①] 10년 뒤 SOC 절반이 노후시설",
+    "summary": "국내 사회기반시설(SOC)의 노후화가 심각한 상황으로, 현재 30년 이상 시설물이 전체의 23%이며 2036년에는 52%까지 증가할 것으로 예측된다. 안전등급 하위 시설물도 1만6,000개에 달해 대규모 노후 SOC 개선·보수 수요가 발생할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T16:43:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32136,22 +32152,6 @@
     "summary": "충남 태안군이 폭염 시즌에 건설현장 안전점검을 강화하여 근로자 온열질환과 중대재해 예방에 나섰다. 관계기관과 함께 공공·민간 건설현장을 대상으로 고강도 점검을 실시 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T09:54:08+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "6월 건설수주 21.7%↓…민간은 41.5% 급감 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202608120912533354",
-    "description": "7월 건설경기실사지수(CBSI)는 72.8로 전월보다 1.7p 떨어졌다. 신규수주지수가 68.6으로 4.5p 하락하고 자금조달지수도 1.7p 낮아진 영향이다. 8월 전망지수는 72.5로 7월 실적보다 0.3p 낮았다. CBSI가 100을 밑돌면 현재...",
-    "published_at": "2026-08-12T09:45:00+09:00",
-    "cluster_id": "e2c5",
-    "publisher": "fnnews.com",
-    "title_clean": "6월 건설수주 21.7%↓…민간은 41.5% 급감",
-    "summary": "6월 건설수주가 전월 대비 21.7% 감소했으며, 민간 부문은 41.5% 급감하면서 건설업계 부진이 심화되었다. 7월 건설경기실사지수(CBSI)도 72.8로 하락하여 신규수주와 자금조달 악화가 지속되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T09:49:37+09:00",
     "importance": 4
   }
 ]
