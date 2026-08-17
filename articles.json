@@ -21832,6 +21832,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기 광주시, 화물차·건설기계 밤샘주차 특별단속…올해 362건 적발 - 뉴스타운",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qMkgyRjc0UFM3SlNWdEh5d2Eza01FbmdOUGVDVVlhYTNQdC1RdHNLcWdCZXN0WXFId05HLTR1bVJJWmw5LTJzLW9uOTgyNzJQYTdlSE9UbnpjM1BYSmxWRFRsSjRBanNQMHE4Z2dB?oc=5",
+    "description": "[뉴스타운/송은경 기자] 경기 광주시가 대형 차량의 불법주정차로 인한 통행 불편과 안전사고를 줄이기 위해 영업용 화물차와 건설기계의 밤샘주차 단속을 강화했다.시는 지난 7월 27일부터 8월 9일까지 주말과 야간 불시단속을 벌여 송정동과 퇴촌면 일대에서 17건을 적발해 현장 계도했으며, 올해 들어 8월 초까지 확인된 영업용 화물차 밤샘주차 위반은 모두 362건으로 집계됐다.이번 특별단속은 기존 평일 정기 단속반 2명에 담당 팀장과 직원 등을 추가 투입하는 방식으로 진행됐다. 단속 시간도 평일에 한정하지 않고 주말과 심야시간까지 확대해",
+    "published_at": "2026-08-17T19:39:54+09:00",
+    "cluster_id": "46d0",
+    "publisher": "뉴스타운",
+    "title_clean": "경기 광주시, 화물차·건설기계 밤샘주차 특별단속…올해 362건 적발",
+    "summary": "경기 광주시가 영업용 화물차와 건설기계의 밤샘주차 특별단속을 강화하여 올해 8월 초까지 362건을 적발했다. 주말과 야간 불시단속 확대로 통행 불편과 안전사고 감소를 목표로 하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T01:48:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32135,21 +32151,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T12:04:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설사 체감경기 다시 뒷걸음질…건설수주 21.7%↓·민간수주 41.5%↓ - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260812112456634",
-    "description": "com 지난 5일 인천에 위치한 건설현장 [사진=연합뉴스] 공공 대형 사업 발주가 늘었지만 민간 토목·주택·비주택 수주가 동반 위축되면서 건설경기 회복세가 제한된 것으로 나타났다. 한국건설산업연구원은 12일...",
-    "published_at": "2026-08-12T11:52:00+09:00",
-    "cluster_id": "f58e",
-    "publisher": "ajunews.com",
-    "title_clean": "건설사 체감경기 다시 뒷걸음질…건설수주 21.7%↓·민간수주 41.5%↓",
-    "summary": "건설수주가 21.7% 감소하고 민간수주가 41.5% 급감하면서 건설경기 회복이 지연되고 있다. 공공 대형 사업 증가에도 불구하고 민간 토목·주택·비주택 부문의 동반 위축으로 업계 체감경기가 악화되는 추세다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T11:59:20+09:00",
-    "importance": 5
   }
 ]
