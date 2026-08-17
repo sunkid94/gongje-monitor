@@ -21834,6 +21834,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "공사비 절반 지원…모듈러 주택 공급 속도 낸다 - 스페셜경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4Nmg0ak41d0hXclRJTzFuMFY4cTZaVTNRRlJWLTVjWEJpbE1sZnhTNURvTm1BLWFKZGYtSkFpUlk1Mmh5aG42SEl5Q1hUQ19BS2pGNEwzWXp2SHdScGJjOFNyNGtXWUM5c2R5cg?oc=5",
+    "description": "스페셜경제=박숙자 기자 | 정부가 주택 공급 속도를 끌어올리기 위해 모듈러 공법 지원을 확대한다. 짧은 공사 기간에도 높은 비용 탓에 확산이 더뎠던 시장에 재정을",
+    "published_at": "2026-08-17T10:11:34+09:00",
+    "cluster_id": "0b5b",
+    "publisher": "스페셜경제",
+    "title_clean": "공사비 절반 지원…모듈러 주택 공급 속도 낸다",
+    "summary": "정부가 모듈러 공법 주택 공급 확대를 위해 공사비 절반을 지원하기로 결정했다. 이는 높은 시공비로 인한 시장 확산 부진을 해결하고 주택 공급 속도를 가속화하려는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T10:27:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32138,21 +32154,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-11T23:09:29+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "춘천시, 폭염 속 시 발주 건설현장 6곳 집중점검... 근로자 안전강화 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oT2p3M2JYQkowSjVDcnpXSXhwR09BTmVjWTUyT1JieE01WEktX3o1MS0yVkZJdHQ2U3lLbi1hb0ItaXBFRzlJNUFVeFUwSzJJZ2lEWjB2ZlZlMmREMTFsTk1HeER5WEVfUEpoTnN2ZWRqdw?oc=5",
-    "description": "춘천시는 10일부터 11일까지 안전보건공단과 함께 사업비 50억 원 이하 소규모 건설현장 6곳을 점검했다.이번 점검에서는 온열질환 예방조치, 보호구 착용, 안전작",
-    "published_at": "2026-08-11T20:39:10+09:00",
-    "cluster_id": "e427",
-    "publisher": "웹이코노미",
-    "title_clean": "춘천시, 폭염 속 시 발주 건설현장 6곳 집중점검... 근로자 안전강화",
-    "summary": "춘천시가 안전보건공단과 함께 폭염 시기 시 발주 건설현장 6곳에 대한 집중점검을 실시했다. 온열질환 예방, 보호구 착용 등 근로자 안전조치를 강화하는 내용이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T23:09:29+09:00",
-    "importance": 4
   }
 ]
