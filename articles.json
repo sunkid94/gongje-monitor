@@ -21835,6 +21835,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "삼표시멘트, 2분기 영업익 58.8% 급감…원가·건설 불황 '이중고' - sentv.co.kr",
+    "link": "https://www.sentv.co.kr/article/view/sentv202608170010",
+    "description": "업계에 따르면, 건설경기 침체가 이어지는 가운데, 중동 정세 불안으로 유연탄 등 에너지 가격과 운송비 부담까지 커지고 있다. 특히 시멘트 제조 원가의 약 30%를 차지하는 유연탄 가격은 연초 대비 20% 가까이 상승한...",
+    "published_at": "2026-08-17T22:00:00+09:00",
+    "cluster_id": "c045",
+    "publisher": "sentv.co.kr",
+    "title_clean": "삼표시멘트, 2분기 영업익 58.8% 급감…원가·건설 불황 '이중고'",
+    "summary": "삼표시멘트가 건설경기 침체와 유연탄 가격 상승으로 2분기 영업익이 58.8% 급감했다. 중동 정세 불안으로 에너지 및 운송비 부담이 동시에 커지면서 제조업체들이 원가 압박에 시달리고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T22:08:18+09:00",
+    "importance": 5
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "추경호 시장, 대구 건설업계 숙원 일괄 해소 - 시정일보",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvdXFKY0tDS0oyNTJZeWNxemVqYWZPRVQ0Zm1qdDBCZmN2Sjh4WDBtM0gtNXJQeDMzczJwWUQ2N3RUSXlwRWZCVloxdWNDNy1vNlM0bFZsNVJhZ0ttNVZUTmtCTEdKMjk3Uy1V?oc=5",
     "description": "[시정일보] 추경호 대구시장은 지난 13일 오전 10시 대한건설협회 대구시회에서 ‘제3차 비상경제대책회의’ 를 주재하며, 지역 건설업의 오랜 숙원이었던 공공 공사",
@@ -32134,22 +32150,6 @@
     "summary": "국토교통부가 12일부터 전국 7개 권역에서 도시재생지원센터 릴레이 간담회를 개최한다. 지방정부와 지원센터의 의견을 수렴하여 현장 중심의 지원체계를 강화하는 것을 목표로 한다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-12T11:59:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재건축] 2218가구 규모 하안주공9단지 재건축, 시공권 대상 향... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=94821",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」에 따른 토목공사업과 건축공사업 면허를 겸유하거나 토목건축공사업 면허를 보유한 업체 「건설산업기본법」에 따른...",
-    "published_at": "2026-08-12T11:34:00+09:00",
-    "cluster_id": "4011",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재건축] 2218가구 규모 하안주공9단지 재건축, 시공권 대상 향...",
-    "summary": "서울 하안주공9단지(2,218가구) 재건축 사업이 일반경쟁입찰 방식으로 진행되며, 토목과 건축 면허를 보유한 업체들의 시공권 확보 경쟁이 예상된다. 대규모 재건축 프로젝트로 건설업체들에게 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T11:38:57+09:00",
     "importance": 2
   }
 ]
