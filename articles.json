@@ -21832,6 +21832,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구광역시장 추경호, 대구 건설업계 오랜 현안 일괄 해소한다 !! - 내외일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80UTZLWVhoRlJRRU5OVjlmX25sbzRDR2FxaEZ4VFBZbVJtZDR3R05MQUJ5WG1aTkRtcGlBa3hPYkJRa2UxUEc0dEc0U2MtUHZwTTlVbzlEOXA5ZXhQS3NZcVItSDdoWlV4SC1vcklaOA?oc=5",
+    "description": "[내외일보=대구] 하청해 기자= 추경호 대구광역시장은 8월 13일(목) 오전 10시 대한건설협회 대구시회에서 ‘제3차 비상경제대책회의’ 를 주재하며, 지역 건설업",
+    "published_at": "2026-08-17T20:58:30+09:00",
+    "cluster_id": "8308",
+    "publisher": "내외일보",
+    "title_clean": "대구광역시장 추경호, 대구 건설업계 오랜 현안 일괄 해소한다 !!",
+    "summary": "추경호 대구광역시장이 대한건설협회 대구시회에서 제3차 비상경제대책회의를 주재하여 지역 건설업계의 오랜 현안들을 해소하겠다고 발표했다. 구체적인 내용은 기사 본문이 불완전하여 상세 파악이 어렵다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-17T21:08:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32134,22 +32150,6 @@
     "summary": "고용노동부 서산지청이 폭염 시즌을 맞아 서산·태안 지역의 소규모 건설현장을 대상으로 온열질환 예방 합동 패트롤을 실시했다. 안전보건 관리가 취약한 소규모 현장 근로자들의 안전을 강화하기 위한 정부의 현장 점검 활동이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-12T11:14:04+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고용노동부 서산지청, 소규모 건설현장 폭염 안전점검 강화 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZN2tyVHcxU3Jfd05MVG5qX2psVklIaVpsZDZpdXg1enY3WVlmMEJmbXUycmNJbGR4cWh2clgzMmZoRDRWSkIta1BTTkxabEg0eHFxZXEyZ2Jmd1o4SURLcdIBZkFVX3lxTE5mMDRwOGlEMFp5YWFFT2ZWWEVySU9kQTFyZkFUekFSSnNHT2xhaS03d2lKZmZCc0FsblBwZUk3ODhFWnpFT1NoWlJ1YjR6UnRGallUbWdZWElyZWtWcEV0RTIwTlFydw?oc=5",
-    "description": "서산·태안 10개 현장 합동 패트롤…5대 수칙 이행 여부 점검 고용노동부 서산지청이 연일 이어지는 폭염에 대비해 서산·태안지역 소규모 건설현장을 대상으로 온열질환 예방을 위한 현장 점검을 강화하고 있다.고용노동부 서산지청(지 …",
-    "published_at": "2026-08-12T10:55:41+09:00",
-    "cluster_id": "20d7",
-    "publisher": "뉴스1",
-    "title_clean": "고용노동부 서산지청, 소규모 건설현장 폭염 안전점검 강화",
-    "summary": "고용노동부 서산지청이 폭염 대비 서산·태안지역 소규모 건설현장 10곳에 대한 합동 패트롤을 실시하여 온열질환 예방 5대 수칙 이행 여부를 점검하고 있다. 현장 안전관리 강화를 위한 행정조치로 볼 수 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T11:09:07+09:00",
     "importance": 4
   }
 ]
