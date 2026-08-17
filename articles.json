@@ -21833,6 +21833,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[삐딱경제] 치솟는 부동산PF 연체율...벼랑끝 '한계 사업장' 쌓인다 - nongaek.com",
+    "link": "http://www.nongaek.com/news/articleView.html?idxno=96430",
+    "description": "건설경기 부진이 장기화하는 가운데 본격적인 금리 인상기마저 도래해 건설·부동산발 연쇄 부실의 후폭풍이 커질 수 있다는 경고음이 나온다. 17일 국회 정무위원회 소속 국민의힘 박성훈 의원이...",
+    "published_at": "2026-08-17T12:40:00+09:00",
+    "cluster_id": "64e8",
+    "publisher": "nongaek.com",
+    "title_clean": "[삐딱경제] 치솟는 부동산PF 연체율...벼랑끝 '한계 사업장' 쌓인다",
+    "summary": "건설경기 부진과 금리 인상으로 부동산PF 연체율이 증가하고 있으며, 건설·부동산발 연쇄 부실 위험이 커지고 있다. 한계 사업장이 쌓이면서 건설업계 전반에 악영향을 미칠 수 있다는 우려가 제기되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-17T12:42:57+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32135,22 +32151,6 @@
     "summary": "노후 건설기계의 운영 제한 문제를 둘러싸고 안전성 강화 입장과 연식 기준 폐지 입장이 대립 중입니다. 건설업계는 성능·안전 기준과 운전 적성 검사 등 객관적 지표로 출입을 결정할 것을 주장하고 있습니다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-12T06:29:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "자산운용사 블랙록이 미국 건설노조와 손잡은 이유는?···AI 인프라 건... - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202608120600101",
-    "description": "10일(현지시간) 블룸버그 통신에 따르면, 자산운용사인 블랙록과 기술 기업 합작 투자 회사인 AI 인프라파트너십(AIP)은 최근 북미건설노동조합연맹(NABTU)과 AI·에너지 인프라 투자 관련 양해각서(MOU)를 체결했다. NABTU는...",
-    "published_at": "2026-08-12T06:00:00+09:00",
-    "cluster_id": "5c6c",
-    "publisher": "khan.co.kr",
-    "title_clean": "자산운용사 블랙록이 미국 건설노조와 손잡은 이유는?···AI 인프라 건...",
-    "summary": "블랙록과 AI 인프라파트너십이 북미건설노동조합연맹과 AI·에너지 인프라 투자 관련 양해각서를 체결했다. 이는 AI 인프라 건설 프로젝트 확대로 건설업계의 수주 기회 증가를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T06:09:32+09:00",
     "importance": 2
   }
 ]
