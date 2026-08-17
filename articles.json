@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "대한기계설비건설협회 광주·전남도회, 미래 인재 육성 기탁 - gj.newdaily.co.kr",
+    "link": "https://gj.newdaily.co.kr/site/data/html/2026/08/17/2026081700048.html",
+    "description": "전남교육 꿈실현재단은 대한기계설비건설협회 광주·전남도회(회장 전상철)로부터 미래 인재 육성을 지원하기 위해 꿈실현금 1000만 원을 기탁받았다고 지난 13일 밝혔다. 대한기계설비건설협회 광주·전남도회는 2012년...",
+    "published_at": "2026-08-18T07:50:00+09:00",
+    "cluster_id": "f4ba",
+    "publisher": "gj.newdaily.co.kr",
+    "title_clean": "대한기계설비건설협회 광주·전남도회, 미래 인재 육성 기탁",
+    "summary": "대한기계설비건설협회 광주·전남도회가 전남교육 꿈실현재단에 1000만 원을 기탁하여 미래 인재 육성을 지원했다. 협회는 2012년부터 지속적으로 교육 기부 활동을 펼치고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T07:53:13+09:00",
+    "event_label": "대한기계설비건설협회 광주·전남도회 교육 인재 육성 기금 기탁",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5895,6 +5912,22 @@
     "collected_at": "2026-07-19T10:07:38+09:00",
     "importance": 5,
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스에 인재양성 지원금 2000만 원 전달"
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[증시키워드] 삼성전자·SK하이닉스 반등…LG전자 ‘로봇’, 두산에너빌... - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2615226",
+    "description": "두산에너빌리티는 빌 게이츠 방한을 계기로 테라파워와의 원전 기자재 계약이 가시화됐고, 삼성전기는 글로벌 투자은행의 최선호주 변경으로 관심을 끌었다. 18일 금융투자업계에 따르면 장 시작 전...",
+    "published_at": "2026-08-18T07:48:00+09:00",
+    "cluster_id": "c963",
+    "publisher": "etoday.co.kr",
+    "title_clean": "[증시키워드] 삼성전자·SK하이닉스 반등…LG전자 ‘로봇’, 두산에너빌...",
+    "summary": "두산에너빌리티가 빌 게이츠 방한을 계기로 테라파워와의 원전 기자재 계약 가시화, 삼성전기는 글로벌 투자은행의 최선호주 변경으로 관심 집중. 반도체 및 기계설비 관련 대형주들의 긍정적인 기업 뉴스들이 시장을 주도.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T07:53:13+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -21816,22 +21849,6 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "신길뉴타운 첫 '써밋'…'써밋 클라비온' 14일 견본주택 개관 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418067",
-    "description": "한국토지신탁은 자사가 시행하고 대우건설이 시공하는 '써밋 클라비온'이 오는 14일 견본주택을 열고 본격적인 분양에 나선다고 10일 밝혔다. 신길10재정비촉진구역 주택재건축정비사업을 통해 공급되는 이 단지는...",
-    "published_at": "2026-08-10T12:46:00+09:00",
-    "cluster_id": "74d1",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "신길뉴타운 첫 '써밋'…'써밋 클라비온' 14일 견본주택 개관",
-    "summary": "한국토지신탁과 대우건설이 신길뉴타운 첫 '써밋' 프로젝트인 '써밋 클라비온'의 견본주택을 14일 개관하고 본격 분양을 시작한다. 신길10재정비촉진구역 주택재건축정비사업을 통한 대규모 주택공급 프로젝트다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-10T12:48:25+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32135,21 +32152,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-12T13:23:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "광주 도서관 붕괴 4명 사망… ‘관리부실’ 공무원에 책임 물었다 - chosun.com",
-    "link": "https://www.chosun.com/national/regional/honam/2026/08/12/EQQYV6XVPZBY7P7KVD23MZUY5M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "description": "건설 노동자 등 4명이 숨진 광주대표도서관 붕괴 사고의 ‘관리 부실’ 책임자로 지목된 공무원들이 검찰에 넘겨졌다. 광주경찰청 광역범죄수사대는 업무상 과실치사 등 혐의로 전남광주통합특별시 소속 공무원 2명을...",
-    "published_at": "2026-08-12T13:06:00+09:00",
-    "cluster_id": "a72e",
-    "publisher": "chosun.com",
-    "title_clean": "광주 도서관 붕괴 4명 사망… ‘관리부실’ 공무원에 책임 물었다",
-    "summary": "광주대표도서관 붕괴 사고로 4명이 사망한 가운데 관리 부실 책임자인 공무원 2명이 검찰에 넘겨졌다. 업무상 과실치사 등의 혐의로 수사가 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T13:09:24+09:00",
-    "importance": 4
   }
 ]
