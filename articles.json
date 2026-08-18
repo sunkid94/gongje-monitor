@@ -21853,6 +21853,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[경남 브리핑 모음(8월18일)] 함안군, 기업 애로 현장서 듣고 해결한다... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608162148481920174",
+    "description": "이번 간담회는 최근 중동전쟁의 여파로 인한 원자재의 가격 상승과 금리 인상, 건설경기 침체 등으로 어려움을 겪고 있는 지역 전문건설업계의 현장 목소리를 직접 청취하고, 실질적인 지원과 지역 경제의 활성화 방안을...",
+    "published_at": "2026-08-18T09:02:00+09:00",
+    "cluster_id": "660b",
+    "publisher": "대한경제",
+    "title_clean": "[경남 브리핑 모음(8월18일)] 함안군, 기업 애로 현장서 듣고 해결한다...",
+    "summary": "함안군이 중동전쟁 여파로 인한 원자재 가격 상승, 금리 인상, 건설경기 침체 등으로 어려움을 겪는 지역 전문건설업계와 간담회를 개최하여 현장 목소리를 청취하고 실질적 지원 방안을 모색 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-18T09:08:13+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "세아제강지주, 북미 강관 호조에 외형 성장…해상풍력 선제 비용에 '숨... - pointdaily.co.kr",
     "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315684",
     "description": "국내에서는 건설경기 침체에 대응해 제품 단가 인상과 LNG 프로젝트용 제품 판매 확대를 통해 수익성 확보에 나선다. 신사업 시장 공략도 강화한다. LNG와 탄소포집·활용·저장(CCUS), 수소 등 에너지 전환 프로젝트뿐...",
@@ -32137,21 +32153,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-12T13:59:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설수주 22% 급감…공공은 버텼지만 민간 위축 못 막았다 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2353351.htm",
-    "description": "건설업 취업자 수 전년 동월 대비 감소폭 커져 건설공사비 상승률 확대...일반철근 가격 상승 자재비 부담 가중 공공 수주는 늘었지만 민간 건설시장이 얼어붙으면서 건설경기 회복이 지연되고 있다. 지난 6월...",
-    "published_at": "2026-08-12T13:41:00+09:00",
-    "cluster_id": "53a5",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "건설수주 22% 급감…공공은 버텼지만 민간 위축 못 막았다",
-    "summary": "건설수주가 22% 급감하며 업계가 위축되고 있다. 공공 수주는 증가했으나 민간 건설시장 부진으로 전체 건설경기 회복이 지연되고 있으며, 자재비 상승까지 겹쳐 건설업체들의 경영 부담이 커지고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T13:49:16+09:00",
-    "importance": 4
   }
 ]
