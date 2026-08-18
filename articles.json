@@ -21780,6 +21780,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "온열질환 예방·안전관리 강화…'대우네 뿌듯트럭'으로 근로자 사기 복돋아 - 경기신문",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IQnMySWxDN1JUYm50N24yM3VLQW1YRThQdl9mMUk4b3VxUEhIbVFudDlLTkRoMDRLWGJDMmhFNXdMV2VxUUlvVHY5Zlp4VzlWS1hPZFlWUjY5NVpuajhSM0dB?oc=5",
+    "description": "대우건설이 국내 건설현장의 소통과 안전관리, 근무환경 개선 사례를 발굴해 현장 조직문화 확산에 나섰다. 올해는 온열질환 예방과 안전관리 강화 등 현장에서 직접 만든 사례가 선정됐다. 대우건설은 현장 조직문화 프로그램인",
+    "cluster_id": "f63f",
+    "publisher": "경기신문",
+    "title_clean": "온열질환 예방·안전관리 강화…'대우네 뿌듯트럭'으로 근로자 사기 복돋아",
+    "summary": "대우건설이 현장 조직문화 프로그램을 통해 온열질환 예방과 안전관리 강화 사례를 발굴·확산하고 있다. 근로자 사기 복돋음과 현장 근무환경 개선에 주력하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T19:04:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32132,22 +32147,6 @@
     "title_clean": "이억원 “부동산과 금융 절연 안 흔들려…실수요자만 핀셋 지원”",
     "summary": "정부가 전월세 시장 안정과 비아파트 주택공급 활성화를 위해 금융·세제 지원을 확대하겠다고 발표했습니다. 부동산과 금융의 절연 정책은 유지하면서 실수요자 중심의 선별적 지원을 추진할 계획입니다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-13T12:09:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대한건설협회 경북도회, 경북도에 장학금·재해보험 지원금 4000만 원 전... - pennmike.com",
-    "link": "https://www.pennmike.com/news/articleView.html?idxno=125607",
-    "description": "이철우 경북도지사는 \"어려운 건설경기 속에서도 매년 따뜻한 나눔을 실천해 주신 협회에 감사드린다\"며 \"기탁받은 장학금과 기부금이 학생들의 꿈을 키우고 도민의 안전망을 든든히 하는 밑거름이 되도록 뜻깊게...",
-    "published_at": "2026-08-13T12:04:00+09:00",
-    "cluster_id": "af0f",
-    "publisher": "pennmike.com",
-    "title_clean": "대한건설협회 경북도회, 경북도에 장학금·재해보험 지원금 4000만 원 전...",
-    "summary": "대한건설협회 경북도회가 경북도에 장학금과 재해보험 지원금 4000만 원을 기탁했다. 이철우 도지사는 어려운 건설경기 속에서도 지속적인 나눔을 실천하는 협회에 감사의 뜻을 전했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-13T12:09:46+09:00",
     "importance": 2
   }
