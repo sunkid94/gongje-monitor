@@ -21780,6 +21780,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘강남 공사장 추락사’ 책임 떠넘긴 원청 대표… 서울 첫 중대재해법 ... - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/society/2026/08/18/20260818500242?wlog_tag3=naver",
+    "description": "서울중앙지검 공공수사3부(부장 김정옥)는 18일 원청인 기계식 주차 설비 업체의 대표 A씨를 중대재해처벌법상 산업재해치사와 건설산업기본법 위반 혐의로, 사업부장을 산업안전보건법 위반과 업무상 과실치사 혐의로...",
+    "published_at": "2026-08-18T19:54:00+09:00",
+    "cluster_id": "19a4",
+    "publisher": "seoul.co.kr",
+    "title_clean": "‘강남 공사장 추락사’ 책임 떠넘긴 원청 대표… 서울 첫 중대재해법 ...",
+    "summary": "서울중앙지검이 강남 공사장 추락사 사건으로 기계식 주차 설비 업체 대표를 중대재해처벌법상 산업재해치사 혐의로 기소했습니다. 서울에서 중대재해법이 적용된 첫 번째 사건으로, 원청의 책임 회피에 대한 강력한 조치입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T19:59:22+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "LH, 미분양 아파트 매입 추가 공고 - gnnews.co.kr",
+    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=643495",
+    "description": "한국토지주택공사(LH)는 지방 미분양 부담 완화와 건설경기 활성화를 적극 지원하고자 '지방 준공 후 미분양 아파트 4차 매입 공고'를 시행한다고 18일 밝혔다. 이번 공고는 지난 4월 시행한 3차 매입공고에 이은 추가...",
+    "published_at": "2026-08-18T19:50:00+09:00",
+    "cluster_id": "a883",
+    "publisher": "gnnews.co.kr",
+    "title_clean": "LH, 미분양 아파트 매입 추가 공고",
+    "summary": "LH가 지방 미분양 아파트 4차 매입 공고를 시행하며 건설경기 활성화를 지원한다. 미분양 부담 완화를 통해 건설사의 자금난 해소 및 시장 안정화에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T19:59:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32116,37 +32148,6 @@
     "summary": "한화 건설부문이 폭염 시즌에 현장 근로자의 온열질환 예방을 위해 롯데칠성음료와 함께 '온열질환 대응 공동 캠페인'을 진행했다. 음료 지원 및 예방 캠페인 부스 운영 등 안전 5대 기본 수칙 집중 점검에 나섰다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-13T12:49:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[8·13 대책] 김윤덕 국토 장관 “마른 수건 짜듯 ‘영끌’하겠다” - biz.chosun.com",
-    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/13/IHLQ2LMFMRG2FLN6ZCV4KDVTU4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "전월세 문제가 심각한 만큼 오피스텔 등 비아파트 공급을 늘리기 위해 금융·세제 지원을 확대하고 있으며, 이는 건설경기 활성화라는 생산적 금융과도 연결된다고 본다. 공급을 앞당기기 위한 인센티브도 단계적으로...",
-    "published_at": "2026-08-13T12:30:00+09:00",
-    "cluster_id": "8ea9",
-    "publisher": "biz.chosun.com",
-    "title_clean": "[8·13 대책] 김윤덕 국토 장관 “마른 수건 짜듯 ‘영끌’하겠다”",
-    "summary": "정부가 전월세 문제 해결을 위해 오피스텔 등 비아파트 공급 확대에 금융·세제 지원을 확대하고 공급 앞당김 인센티브를 단계적으로 추진 중이다. 이는 건설경기 활성화와 연결되는 생산적 금융 정책으로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T12:34:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산시 노사민정협의회, 노사민정이 함께하는 폭염 대비 산업안전 캠페인 개최 - 누리일보",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44QktGSUpnWkhKVzhSSmZSSE1LRkIzRGd5VEZHanN2R2pRY2hfdVNXS1Y2NHlRbkRaYUVFVmJLNUhocE0tZDk1cnYyNXhVNUFfZXJRalhkeE9qLUxs?oc=5",
-    "description": "(누리일보) 부산시는 오늘(13일) 오전 10시 30분 폭염 취약 사업장 2곳에서 여름철 폭염에 따른 온열질환을 예방하기 위한",
-    "cluster_id": "8ce5",
-    "publisher": "누리일보",
-    "title_clean": "부산시 노사민정협의회, 노사민정이 함께하는 폭염 대비 산업안전 캠페인 개최",
-    "summary": "부산시 노사민정협의회가 폭염 취약 사업장을 대상으로 온열질환 예방 캠페인을 개최했다. 여름철 산업안전을 위한 노·사·민·정의 협력 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T12:29:41+09:00",
     "importance": 2
   }
 ]
