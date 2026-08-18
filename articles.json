@@ -21801,6 +21801,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국가철도공단, 전국 철도노선 LTE-R 시대 완성 위한 마지막 단계 착수 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41067",
+    "description": "[건설이코노미뉴스]국가철도공단은 전국 철도노선 철도통합무선망(LTE-R) 시대 완성을 위해 마지막 구간인 태백선 등 12개 노선의 LTE-R 구축 사업을 발주한다고 18일 밝혔다.공단은 국토교통부의 철도신호통신시스템 국산화 정책에 따라 기존 무선통신시스템(VHF·TRS)을 4세대 이동통신기술 LTE 기반 철도통합무선망(LTE-R)으로 전환하는 사업을 추진하고 있다.전체 LTE-R 구축 대상 3,523km 가운데 강릉선 등 794km는 구축 완료, 경부선 등 1,677km 구간은 2026년 말 개통을 목표로 구축 중이다.이번에 발주하",
+    "published_at": "2026-08-18T16:15:07+09:00",
+    "cluster_id": "16a6",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "국가철도공단, 전국 철도노선 LTE-R 시대 완성 위한 마지막 단계 착수",
+    "summary": "국가철도공단이 전국 철도노선 LTE-R 구축의 마지막 단계로 태백선 등 12개 노선의 사업을 발주한다. 기존 VHF·TRS 무선통신시스템을 4세대 LTE 기반 철도통합무선망으로 전환하는 국산화 정책에 따른 것으로, 전체 3,523km 중 794km는 완료, 1,677km는 2026년 완공을 목표로 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T16:16:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32140,22 +32156,6 @@
     "summary": "롯데건설이 2분기 영업이익 1224억원을 기록하며 전년 동기 대비 230% 증가했다. PF 부담 축소로 재무 건전성이 개선되는 긍정적인 성과를 보였다.",
     "sentiment": "positive",
     "collected_at": "2026-08-12T20:39:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주경제 ‘빨간불’…관광객 줄고 소비심리 꺾여 둔화 흐름 지속 - 뉴스N제주",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Dam56cUtEUGtsOGNZWmNGeGYwakFDUjNLR0VLVTN1aEh4RkhSTWNyNmZqQjlVa2ZLNW5mbDVQS3c3ZTF0ZlhIT3FPeG5sMkNuNzV2QXZWckgtZ09hNzd0a0VJck1rN29Gdmh6dg?oc=5",
-    "description": "제주경제가 건설수주 증가와 양호한 고용 상황에도 관광객 감소와 소비심리 악화 등의 영향으로 둔화 흐름을 이어가고 있는 것으로 나타났다.특히 제주경제의 핵심 축인 관광산업에서 내국인 관광객 감소세가 지속되고 소비 증가폭마저 둔화되면서 지역경기 회복에 부담으로 작용하고 있다.한국은행 제주본부가 12일 발표한 ‘최근 제주지역 실물경제 동향’에 따르면 최근 제주경제는 건설수주 증가와 양호한 고용 상황에도 불구하고 관광객 수 감소와 소비심리 악화 등으로 둔화 흐름을 지속하고 있는 것으로 분석됐다.7월 관광객 122만8000명…전년보다 8만4",
-    "published_at": "2026-08-12T20:16:45+09:00",
-    "cluster_id": "0452",
-    "publisher": "뉴스N제주",
-    "title_clean": "제주경제 ‘빨간불’…관광객 줄고 소비심리 꺾여 둔화 흐름 지속",
-    "summary": "제주경제가 둔화 흐름을 지속하고 있으며, 관광객 감소와 소비심리 악화가 주요 악재로 작용하고 있다. 건설수주 증가는 긍정 요인이나 관광산업 부진이 지역경기 회복에 부담을 주고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T20:29:29+09:00",
     "importance": 2
   }
 ]
