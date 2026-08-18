@@ -21730,6 +21730,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "부영그룹, 부산신항 6단지 어린이집 '육아쉼표' 거점 보육기관 선정 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41069",
+    "description": "[건설이코노미뉴스]부영그룹이 지원하는 부산신항 6단지 부영 사랑으로 어린이집이 교육부가 추진하는 '2026년 육아쉼표' 사업에서 창원시육아종합지원센터의 거점 어린이집으로 선정돼 지역 영유아 가정을 위한 맞춤형 양육지원 서비스를 제공한다고 18일 밝혔다.'육아쉼표' 사업은 교육부와 한국영유아보육·교육진흥원이 공동으로 육아종합지원센터에 가기 어려운 학부모들을 위해 지역 내 어린이집을 거점 어린이집으로 선정하여 육아 사각지대를 해소하는 사업이다. '육아쉼표' 사업에 선정된 거점 어린이집은 부모교육, 부모자녀 체험활동, 양육상담 및 놀이프",
+    "published_at": "2026-08-18T23:23:24+09:00",
+    "cluster_id": "2036",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "부영그룹, 부산신항 6단지 어린이집 '육아쉼표' 거점 보육기관 선정",
+    "summary": "부영그룹이 지원하는 부산신항 6단지 어린이집이 교육부의 '2026년 육아쉼표' 사업 거점 기관으로 선정되어 지역 영유아 가정을 위한 양육지원 서비스를 제공한다. 이는 육아종합지원센터 접근성이 낮은 학부모들을 위한 지역사회 맞춤형 보육 인프라 확충 사업의 일환이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-18T23:24:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32129,21 +32145,6 @@
     "title_clean": "주택건설 공적보증 3년간 86조 확대…부실사업장은 PF 정상화펀드 3조",
     "summary": "정부가 주택공급 확대를 위해 정상사업장에 대한 공적보증을 3년간 86조원으로 대폭 확대하기로 발표했다. 동시에 부실사업장 정상화를 위해 PF 정상화 지원펀드 3조원 이상을 신규 조성할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-13T13:30:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "수원특례시, 건설현장 방문하여 온열질환 예방 및 산업안전 캠페인 전개 > 뉴스 - thekorea.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sWlc1WGhETVh2TmNyek50aHBVenhKV2I4bE9Rb1A0Rk40WHJvbGE4d3QtRW5teVhuQzl5V041ZFBoMHU2OWxnQlhBbTFvb3FXZ011M3dma1hIdHQtQWdxZ25KeW1wak9Dc2xiejhVMkk?oc=5",
-    "description": "권선구 세류동 오피스텔 신축공사 현장을 찾아 건설근로자를 대상으로 폭염 대비 안전수칙을 안내하고 예방 물품 배부",
-    "cluster_id": "1df0",
-    "publisher": "thekorea.kr",
-    "title_clean": "수원특례시, 건설현장 방문하여 온열질환 예방 및 산업안전 캠페인 전개 > 뉴스",
-    "summary": "수원특례시가 권선구 세류동 오피스텔 신축공사 현장을 방문하여 건설근로자들을 대상으로 폭염 대비 안전수칙 안내 및 온열질환 예방 물품을 배부하는 캠페인을 전개했다. 건설현장의 산업안전과 근로자 보건을 위한 정부 차원의 예방 활동이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-13T13:30:09+09:00",
     "importance": 2
   }
