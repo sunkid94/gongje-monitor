@@ -21731,6 +21731,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "수색~광명 고속철도 전용선 건설…2036년 개통 - 대한일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tMkswa3ktcFE1eUxQZGo5OWw0U194YndfSHA3TkJIa1lKSmJ0YlNkS2lfVjhKV0k5Z2FTOTRuZVAtMHlpZTVieERsS2ppT0g4LVJjQ0JraUZneVZXQTZLSE1mazlVdXhLVW4wV2JyQQ?oc=5",
+    "description": "[대한일보=김경배 기자] 서울 수색에서 광명까지 24.5㎞ 구간에 고속철도 전용선로를 건설하는 사업이 본격 추진된다.국토교통부는 총사업비 3조2330억원을 투입해",
+    "published_at": "2026-08-18T20:20:41+09:00",
+    "cluster_id": "092e",
+    "publisher": "대한일보",
+    "title_clean": "수색~광명 고속철도 전용선 건설…2036년 개통",
+    "summary": "국토교통부가 서울 수색에서 광명까지 24.5㎞ 구간에 3조2330억원을 투입해 고속철도 전용선을 건설한다. 2036년 개통 예정인 이 대규모 인프라 프로젝트는 건설업계에 상당한 수주 기회를 제공할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T02:29:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32132,22 +32148,6 @@
     "summary": "한화 건설부문이 롯데칠성음료와 함께 건설현장에서 온열질환 대응 공동 캠페인을 진행했다. 이는 여름철 건설현장 근로자의 안전과 보건관리 강화를 위한 업계 차원의 사회책임활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-13T13:39:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금호건설, 실적·재무구조 '두 토끼' 수익성 개선 본궤도 - newsprime.co.kr",
-    "link": "http://www.newsprime.co.kr/news/article.html?no=743768",
-    "description": "건설경기 불확실성이 이어지는 가운데 무리한 외형 확대가 아닌, 사업성을 고려한 선별 수주와 현장 원가 관리에 무게를 두면서 안정적 수익 기반과 재무건전성을 함께 확보한다는 방침이다. 금호건설 관계자는...",
-    "published_at": "2026-08-13T13:30:00+09:00",
-    "cluster_id": "d4b8",
-    "publisher": "newsprime.co.kr",
-    "title_clean": "금호건설, 실적·재무구조 '두 토끼' 수익성 개선 본궤도",
-    "summary": "금호건설이 건설경기 불확실성 속에서 무리한 외형 확대보다 사업성 있는 선별 수주와 원가 관리에 집중하여 수익성 개선을 추진 중이다. 이를 통해 안정적 수익 기반과 재무건전성을 동시에 확보하겠다는 전략이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T13:35:04+09:00",
     "importance": 2
   }
 ]
