@@ -21780,6 +21780,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "붕괴사고 1년여 만에 '시민 감시체계'… 광명시, 신안산선 완공까지 가... - thereport.co.kr",
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90544",
+    "description": "국토교통부 건설사고조사위원회 조사 결과 사고는 터널 중앙기둥에 작용하는 하중을 실제보다 2.5배 적게 산정한 설계 오류에 부실한 지반조사와 시공·감리 문제가 겹쳐 발생한 것으로 나타났다. 설계와 시공...",
+    "published_at": "2026-08-18T19:02:00+09:00",
+    "cluster_id": "417a",
+    "publisher": "thereport.co.kr",
+    "title_clean": "붕괴사고 1년여 만에 '시민 감시체계'… 광명시, 신안산선 완공까지 가...",
+    "summary": "신안산선 붕괴사고 원인은 터널 중앙기둥 하중 산정 오류(2.5배 과소), 부실 지반조사, 시공·감리 결함의 복합적 문제로 파악됐다. 광명시가 완공까지 시민 감시체계를 운영하며 사고 재발 방지에 나서고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T19:09:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32132,22 +32148,6 @@
     "summary": "정부가 공장에서 주택 구조물을 제작하고 현장에서 조립하는 모듈러 공법을 본격 확대하여 주택 공급 속도를 높인다. LH 등 공공 부문의 주택 신속공급 방안으로 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-13T12:14:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "이억원 “부동산과 금융 절연 안 흔들려…실수요자만 핀셋 지원” - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04788806645546992",
-    "description": "김 장관은 “전월세 시장 불안을 완화하고 비아파트 등 주택공급을 활성화하기 위해서는 금융·세제 지원을 확대할 필요가 있다”며 “주택 건설과 건설경기 활성화는 경제 전반에 미치는 영향이 큰 만큼 적극적으로...",
-    "published_at": "2026-08-13T12:05:00+09:00",
-    "cluster_id": "48b0",
-    "publisher": "edaily.co.kr",
-    "title_clean": "이억원 “부동산과 금융 절연 안 흔들려…실수요자만 핀셋 지원”",
-    "summary": "정부가 전월세 시장 안정과 비아파트 주택공급 활성화를 위해 금융·세제 지원을 확대하겠다고 발표했습니다. 부동산과 금융의 절연 정책은 유지하면서 실수요자 중심의 선별적 지원을 추진할 계획입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T12:09:46+09:00",
     "importance": 2
   }
 ]
