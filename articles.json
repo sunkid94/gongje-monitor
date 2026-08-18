@@ -21780,6 +21780,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "강남 외국인 노동자 추락사…주차 설비 원청 대표 '구속 기소' - news.tvchosun.com",
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890238.html",
+    "description": "법조계에 따르면 서울중앙지검 공공수사3부(부장검사 김정옥)는 18일 기계식 주차설비 업체 A사와 대표 B씨를 중대재해처벌법 위반 및 건설산업기본법 위반 혐의로, 사업부장 C씨를 산업안전보건법 위반 및...",
+    "published_at": "2026-08-18T18:30:00+09:00",
+    "cluster_id": "e7e5",
+    "publisher": "news.tvchosun.com",
+    "title_clean": "강남 외국인 노동자 추락사…주차 설비 원청 대표 '구속 기소'",
+    "summary": "서울중앙지검이 강남역 근처 외국인 노동자 추락사 사건과 관련해 기계식 주차설비 업체 대표를 중대재해처벌법 위반 혐의로 구속 기소했다. 이는 건설업계에 대한 안전 규제 강화 및 법적 책임 강화를 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T18:39:17+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "LH, 지방 미분양 아파트 5000가구 추가 매입 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202608181825558982",
+    "description": "한국토지주택공사(LH)가 지방 미분양 부담을 덜고 건설경기를 지원하기 위해 준공 후 미분양 아파트 추가 매입에 나선다. 매입 규모는 총 5000가구다. 18일 LH는 '지방 준공 후 미분양 아파트 4차 매입공고'를 실시한다고...",
+    "published_at": "2026-08-18T18:28:00+09:00",
+    "cluster_id": "5399",
+    "publisher": "fnnews.com",
+    "title_clean": "LH, 지방 미분양 아파트 5000가구 추가 매입",
+    "summary": "LH가 지방 미분양 아파트 5000가구를 추가 매입하여 건설경기 부양에 나선다. 이는 건설사의 미분양 부담을 경감하고 건설수주 위기 완화에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T18:39:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32117,38 +32149,6 @@
     "summary": "하동군이 군내 대형 건설사업장에 대한 현장 점검을 실시했다. 연초부터의 경제 여건 변화에 따른 자재 수급 불안정 등 건설 현황을 점검한 것으로 보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-13T11:59:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "송영길 \"부동산은 세금 아닌 공급으로\"…5대 민생 공약 발표 - newsworks.co.kr",
-    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850265",
-    "description": "지방 건설경기와 관련해서는 \"막힌 돈길부터 뚫겠다. 사업성 있는 정상 사업장에는 공적 보증을 확대해 공사가 이어지게 하고, 부실 사업장은 신속히 정리해 불확실성을 걷어내겠다\"고 말했다. 둘째로는 부동산 문제를...",
-    "published_at": "2026-08-13T11:46:00+09:00",
-    "cluster_id": "84c2",
-    "publisher": "newsworks.co.kr",
-    "title_clean": "송영길 \"부동산은 세금 아닌 공급으로\"…5대 민생 공약 발표",
-    "summary": "송영길 후보가 지방 건설경기 활성화를 위해 사업성 있는 사업장에 공적 보증 확대, 부실 사업장 신속 정리 등의 정책을 제시했다. 부동산 문제 해결에 세금 정책보다 공급 확대 방식을 강조했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T11:49:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 무인 드론으로 건설현장 환경·안전 혁신 - 파이낸스투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3dW5Yd2JjUXJIZmgtZVdDVzZPT0tDQ09YdHFyalRBX01PdkZOcDZOTWE3N2ZCcmhNN012b25zQi1temw3QTVYb1hwd2R6UFpiRVZRcjlVdXM2R3U3djBSM2RLdUg5czk5QjZsLQ?oc=5",
-    "description": "현대건설이 건설현장의 환경·안전관리 수준을 높이기 위해 무인로봇과 드론 등 스마트 건설기술 도입을 확대한다.현대건설은 최근 과천주공 8·9단지 재건축 정비사업 현장에서 살수드론을 활용한 비산먼지 저감 작업 실증을 성공적으로 마쳤다고 밝혔다. 이번 실증은 실제 철거공사 환경에서 살수드론의 성능과 비행 안정성, 현장 작업과의 연계성 등을 종합적으로 검증하는 데 초점을 맞췄다.철거공사 현장은 비산먼지 관리와 작업자 안전을 동시에 확보해야 하는 대표적인 고위험 작업 공간이다. 특히 살수 작업 과정에서 미끄러짐이나 감전, 중장비와의 충돌 등",
-    "published_at": "2026-08-13T09:02:56+09:00",
-    "cluster_id": "e34a",
-    "publisher": "파이낸스투데이",
-    "title_clean": "현대건설, 무인 드론으로 건설현장 환경·안전 혁신",
-    "summary": "현대건설이 과천주공 재건축 현장에서 살수드론을 활용한 비산먼지 저감 작업을 성공적으로 실증했다. 무인로봇과 드론 등 스마트 건설기술을 도입해 건설현장의 환경·안전관리 수준을 높이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T11:39:51+09:00",
     "importance": 2
   }
 ]
