@@ -5864,21 +5864,20 @@
     "event_label": "대한기계설비건설협회 국립한밭대 인재양성 지원금 전달"
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협회, 한국폴리텍대학 충주캠퍼스 '전문인력 양성 지원... - inews365.com",
-    "link": "https://www.inews365.com/news/article.html?no=928147",
-    "description": "지난해 대비 지원 예산 2배 증액 기계설비 분야 전문 인재 육성 박차 ［충북일보］ 대한기계설비건설협회가 미래 기계설비 산업을 이끌어갈 전문인력 양성을 위해 적극적인 지원에 나섰다. 기계설비협회는 지난 16일...",
-    "published_at": "2026-07-19T14:54:00+09:00",
-    "cluster_id": "71f3",
-    "publisher": "inews365.com",
-    "title_clean": "대한기계설비건설협회, 한국폴리텍대학 충주캠퍼스 '전문인력 양성 지원...",
-    "summary": "대한기계설비건설협회가 한국폴리텍대학 충주캠퍼스의 기계설비 분야 전문인력 양성을 지원하며 지난해 대비 예산을 2배 증액했다. 기계설비 산업의 미래 인재 육성에 적극적으로 나서고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-19T14:57:40+09:00",
-    "importance": 5,
-    "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스 전문인력 양성 지원 예산 2배 증액"
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[기획] 정비사업 곳곳서 시공사 교체 분쟁… 공사비 상승 불가피 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1403239",
+    "description": "18일 정비업계에 따르면 대우건설은 지난달 서울 서초구 일원 강남원효성빌라 재건축사업 시공자 선정이 취소되자 소송 제기 등 법적 절차를 예고했다. 협상 과정에서 공사비 등에 관한 입장 차를 결국 좁히지...",
+    "published_at": "2026-08-18T14:56:00+09:00",
+    "cluster_id": "3f8f",
+    "publisher": "",
+    "title_clean": "[기획] 정비사업 곳곳서 시공사 교체 분쟁… 공사비 상승 불가피 - m-i.kr",
+    "summary": "정비사업에서 시공사 교체 분쟁이 빈번해지면서 공사비 상승이 불가피한 상황. 대우건설의 강남원효성빌라 재건축사업 시공자 선정 취소로 소송 등 법적 분쟁이 예상되며, 협상 과정에서 공사비 등의 의견 차이가 해결되지 않고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T14:58:59+09:00",
+    "importance": 4
   },
   {
     "keyword": "대우건설",
@@ -21801,22 +21800,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-10T17:08:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "부산·경남 건설업계 \"가덕도신공항 공사비 급등…특례 마련을\" - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6560795?utm_source=naver&utm_medium=article&utm_campaign=20260810045442",
-    "description": "이날 간담회에는 부산상의 양재생 회장을 비롯해 가덕도신공항 건설공사를 맡은 대우건설 컨소시엄에 참여한 건설업체 대표, 가덕도신공항건설공단과 부산시 관계자 등 20여 명이 참석했다. 지역 건설업체 대표들은...",
-    "published_at": "2026-08-10T16:55:00+09:00",
-    "cluster_id": "da22",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "부산·경남 건설업계 \"가덕도신공항 공사비 급등…특례 마련을\"",
-    "summary": "부산·경남 건설업계가 가덕도신공항 건설공사의 공사비 급등 문제를 지적하며 정부 특례 마련을 요청했다. 대우건설 컨소시엄 참여 건설업체들과 부산시, 공단이 참석한 간담회에서 업계의 어려움을 논의했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-10T16:59:01+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
