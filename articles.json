@@ -5797,22 +5797,6 @@
     "event_label": "세종시교육청 기계설비 직접발주 제도 추진"
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비協, 기계설비 전문인재 양성 활성화 지원 - 칸 kharn",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5La2N4M1RJRXBsSi1BWkZIazcwa2NjZ0RTSUl3Y2xUcmg2SUtzQzVVMXBuTjRGN0xReEpOTDJxSHJEdjdVdEZjeGQ5UGhqNmFmdDFHSUtWekxVV0k?oc=5",
-    "description": "대한기계설비건설협회는 7월16일 국립한밭대학교와 한국폴리텍대학 충주캠퍼스를 방문해 기계설비 전문인력 양성 지원금 2,000만원씩을 전달했다고 밝혔다. 국립한밭대학교에서 진행된 지원금 기탁식에는 허용주 기계설비협회 회장, 이태왕 대전·세종·충남도회장, 오용준 국립한밭대학교 총장, 조진균·문주현·박병용 교수 등이, 폴리텍대학 충주캠퍼스 기탁식에는 신동희 폴리텍",
-    "cluster_id": "96b7",
-    "publisher": "칸 kharn",
-    "title_clean": "기계설비協, 기계설비 전문인재 양성 활성화 지원",
-    "summary": "대한기계설비건설협회가 기계설비 전문인력 양성을 지원하기 위해 국립한밭대학교와 한국폴리텍대학 충주캠퍼스에 각각 2,000만원씩의 지원금을 전달했다. 이는 업계 인력난 해소와 전문성 강화를 위한 협회의 산학협력 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-19T22:42:42+09:00",
-    "importance": 5,
-    "event_label": "대한기계설비건설협회 기계설비 전문인력 양성 지원금 전달"
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21743,6 +21727,22 @@
     "summary": "대우건설이 임직원 자녀를 초청하는 '꿈나무 초대행사'를 개최했으며, 2004년 시작해 올해 20회를 맞이한 사내 복지 프로그램이다. 건설 현장 근무 부모에 대한 자녀 이해도를 높이기 위한 HR 사업으로 평가된다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-11T09:08:42+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "여수산단 플랜트 노사, 6년 연속 임단협 무분규 타결 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1403406",
+    "description": "여수시는 지난 14일 시청 이순신홀에서 전국플랜트건설노동조합 여수지부와 여수산단건설업협의회가 임금·단체협약을 체결하고 여수시 노사민정협의회와 상생발전 공동선언문을 발표했다고 밝혔다. 행사에는 서영학...",
+    "published_at": "2026-08-18T22:44:00+09:00",
+    "cluster_id": "d1fc",
+    "publisher": "",
+    "title_clean": "여수산단 플랜트 노사, 6년 연속 임단협 무분규 타결 - m-i.kr",
+    "summary": "여수산단 플랜트 건설업체와 노동조합이 6년 연속으로 임금·단체협약을 무분규로 타결했다. 노사 간 안정적 합의로 건설 현장의 작업 중단 위험 요소가 해소되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T22:49:13+09:00",
     "importance": 2
   },
   {
