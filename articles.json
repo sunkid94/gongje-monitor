@@ -21780,6 +21780,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설경기 침체 늪···올해 지역 건설사 42곳 문 닫았다 - iusm.co.kr",
+    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1066791",
+    "description": "건설경기 침체가 장기화하면서 울산지역 건설업체들의 폐업이 늘고 있다. 올 들어 7월까지 폐업을 신고한 건설업체는 모두 42곳으로 2018년 이후 가장 많았다. 특히 전체 폐업 업체의 85% 이상이 상대적으로 영세한...",
+    "published_at": "2026-08-18T18:40:00+09:00",
+    "cluster_id": "0664",
+    "publisher": "iusm.co.kr",
+    "title_clean": "건설경기 침체 늪···올해 지역 건설사 42곳 문 닫았다",
+    "summary": "건설경기 침체로 울산지역 건설업체의 폐업이 증가하고 있으며, 올해 7월까지 42곳이 폐업을 신고해 2018년 이후 최고 수준을 기록했다. 특히 영세 건설업체들의 폐업이 전체의 85% 이상을 차지하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T18:44:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32134,21 +32150,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-13T11:59:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "군, 대형 건설사업장에 대한 현장 점검 - 하동뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jSnZrenE0eHUtU2d2SklqdVBrWGV6aUUtd1pneVpqREl4MTJwbEpFYks1TVlJMDBpU09NYm9peDJ2THBfS201SGN0YUo0QzR4LUw3bTVKNUhzb2gxb0hsbk43WFZfY0ZlRGVxcUdFSQ?oc=5",
-    "description": "하동군은 군내 주요 대형 건설사업장에 대한 현장 점검을 벌였다고 13일 밝혔다.이날 점검은 연초부터 이어진 대외 경제 여건 변화에 따른 자재 수급 불안정 등 건설",
-    "published_at": "2026-08-13T09:57:04+09:00",
-    "cluster_id": "69f2",
-    "publisher": "하동뉴스",
-    "title_clean": "군, 대형 건설사업장에 대한 현장 점검",
-    "summary": "하동군이 군내 대형 건설사업장에 대한 현장 점검을 실시했다. 연초부터의 경제 여건 변화에 따른 자재 수급 불안정 등 건설 현황을 점검한 것으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T11:59:57+09:00",
-    "importance": 2
   }
 ]
