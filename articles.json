@@ -21780,6 +21780,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "특검, ‘관저 이전’ 김건희 불구속 기소 - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202608182059005",
+    "description": "김 여사에게는 직권남용 권리행사방해, 특정범죄가중처벌법상 알선수재 혐의, 윤 의원에겐 직권남용, 건설산업기본법 위반 혐의가 적용됐다. 김 대표가 운영하는 21그램은 2022년 종합건설업 면허가 없는데도 관저...",
+    "published_at": "2026-08-18T20:59:00+09:00",
+    "cluster_id": "25da",
+    "publisher": "khan.co.kr",
+    "title_clean": "특검, ‘관저 이전’ 김건희 불구속 기소",
+    "summary": "특검이 김건희 여사를 관저 이전 관련 직권남용, 알선수재 혐의로 불구속 기소했다. 21그램이 2022년 종합건설업 면허 없이 관저 이전 사업을 수주한 것으로 적발돼 건설산업기본법 위반 혐의도 함께 제기됐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T21:09:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32131,22 +32147,6 @@
     "summary": "화성특례시가 민·관 합동으로 물류·건설 현장을 방문하여 폭염으로 인한 산업안전사고와 온열질환 예방 캠페인을 실시했다. 장기간의 폭염으로부터 현장 노동자의 건강과 안전한 노동환경을 조성하기 위한 예방 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-13T13:00:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "울산시, ‘주거안정 대책’ 수립… 6600백 가구 공급 - kmib.co.kr",
-    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002806&cp=nv",
-    "description": "시는 이번 가격 상승의 주요 원인으로 건설경기 침체 및 부동산 프로젝트파이낸싱(PF) 대출 규제에 따른 신규 주택 공급 감소, 그리고 남구·중구·북구 송정지구 등 주거 선호지역으로의 실수요 집중을 꼽았다. 이에...",
-    "published_at": "2026-08-13T12:39:00+09:00",
-    "cluster_id": "f0ce",
-    "publisher": "kmib.co.kr",
-    "title_clean": "울산시, ‘주거안정 대책’ 수립… 6600백 가구 공급",
-    "summary": "울산시가 주거안정 대책으로 6,600가구 주택 공급을 추진한다. 건설경기 침체와 PF 대출 규제로 인한 신규 공급 감소가 주요 배경이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T12:49:51+09:00",
     "importance": 2
   }
 ]
