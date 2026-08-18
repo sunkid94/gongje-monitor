@@ -21731,6 +21731,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'합리화 설비'로, 시멘트업계 불황 넘는다 - mt.co.kr",
+    "link": "https://www.mt.co.kr/living/2026/08/19/2026081820031415650",
+    "description": "건설경기 침체의 직격탄을 맞은 시멘트업계가 '합리화설비' 투자를 바탕으로 체질개선에 사활을 건다. 시멘트 수요부진에 공장 가동률이 절반에 머문 가운데 대체연료와 폐열발전, 공장 자동화로 비용을 낮추고...",
+    "published_at": "2026-08-19T04:05:00+09:00",
+    "cluster_id": "53cd",
+    "publisher": "mt.co.kr",
+    "title_clean": "'합리화 설비'로, 시멘트업계 불황 넘는다",
+    "summary": "건설경기 침체로 시멘트 수요가 부진한 가운데, 업계가 합리화설비 투자를 통해 대체연료, 폐열발전, 공장 자동화 등으로 비용 절감을 시도하고 있다. 이는 기계설비 관련 수주 기회를 창출할 수 있는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T04:09:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32132,22 +32148,6 @@
     "summary": "롯데건설이 2분기 영업이익 1,224억원을 기록하며 수익성 중심 경영 전환을 입증했다. 매출 감소에도 원가율 개선으로 영업이익이 크게 증가했으며, 부채비율과 PF 우발채무도 개선되어 수익성과 재무 안정성을 동시에 강화했다.",
     "sentiment": "positive",
     "collected_at": "2026-08-13T13:46:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 롯데칠성음료와 '온열질환 대응 캠페인' 진행 - 뉴스포스트",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2V2RjSThHd3pmbXZmWVpKRnNsTHF2ZUdpcHc4WXBjZGtzRmZQX0ZqOE5xWlViVVNOejlLSVdROUg0U2xmTHVfbEoxd3VjemY4YlA3MGY1R3g1aENSclhsYllnakZFYlgx?oc=5",
-    "description": "[뉴스포스트=이우섭 기자] 한화 건설부문은 지난 12일 경기도 고양시 덕양구 원당 1구역주택재개발 공사현장에서 롯데칠성음료와 '온열질환 대응 공동 캠페인'을 진행했다.이번 캠페인에는 김윤해 한화 건설부문 안전환경경영실장(CSO)을 비롯해 건축안전팀장 등 임직원들과 롯데칠성음료 관계자들",
-    "published_at": "2026-08-13T13:32:53+09:00",
-    "cluster_id": "5278",
-    "publisher": "뉴스포스트",
-    "title_clean": "한화 건설부문, 롯데칠성음료와 '온열질환 대응 캠페인' 진행",
-    "summary": "한화 건설부문이 롯데칠성음료와 함께 건설현장에서 온열질환 대응 공동 캠페인을 진행했다. 이는 여름철 건설현장 근로자의 안전과 보건관리 강화를 위한 업계 차원의 사회책임활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T13:39:45+09:00",
     "importance": 2
   }
 ]
