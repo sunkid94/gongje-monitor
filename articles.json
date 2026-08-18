@@ -21731,6 +21731,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "북미 강관 잘 팔았는데…세아제강지주, 세아윈드 비용에 적자전환 - economytalk.kr",
+    "link": "http://www.economytalk.kr/news/articleView.html?idxno=423559",
+    "description": "국내 건설경기 부진에도 제품 단가 인상과 LNG 프로젝트 판매 확대를 추진하고, LNG·CCUS·수소 등 에너지 전환 프로젝트와 함께 AI 데이터센터 전력 수요 증가에 대응해 STS 파이프·송유관 등 특수 강관 판매도 강화한다....",
+    "published_at": "2026-08-19T05:30:00+09:00",
+    "cluster_id": "bbca",
+    "publisher": "economytalk.kr",
+    "title_clean": "북미 강관 잘 팔았는데…세아제강지주, 세아윈드 비용에 적자전환",
+    "summary": "세아제강지주가 북미 강관 판매로 실적을 올렸으나 세아윈드 비용 증가로 적자로 전환했습니다. LNG·수소·AI 데이터센터 등 신성장 분야 특수강관 판매 강화로 실적 개선을 추진 중입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-19T05:39:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32133,21 +32149,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-13T13:50:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "롯데칠성음료, 한화 건설부문과 '폭염 대비 안전캠페인' 전개 - bizwnews.com",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ObDlBMDVzMURfdXl4dEJ0OXN2N2JKZE9PQzh4NHVjSVBRNXFtTXdqSkZpazd3X25QOXVMUGZpa3dDcEZqS09kRVIxTHFmZEdZY1BXRnVjMl9JVVFEdU5TWUpXZ3hhdG5iNEE?oc=5",
-    "description": "[비즈월드] 롯데칠성음료가 건설사와 손잡고 건설현장 근로자의 온열질환 예방과 안전한 작업환경 조성을 위한 지원에 나섰다.롯데칠성음료는 지난 12일 경기 고양시 덕양구에 위치한",
-    "published_at": "2026-08-13T13:38:00+09:00",
-    "cluster_id": "be09",
-    "publisher": "bizwnews.com",
-    "title_clean": "롯데칠성음료, 한화 건설부문과 '폭염 대비 안전캠페인' 전개",
-    "summary": "롯데칠성음료가 한화 건설부문과 협력하여 건설현장 근로자의 폭염 대비 및 온열질환 예방을 위한 안전캠페인을 전개했다. 이는 건설업계의 근로자 안전과 복지 개선을 위한 긍정적 사회공헌 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T13:50:07+09:00",
-    "importance": 2
   }
 ]
