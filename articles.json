@@ -21730,6 +21730,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[BEYOND DGIST] 세상을 바꾸는 기술 창업, 차세대 '유니콘' 향해 뛴다 〈... - etnews.com",
+    "link": "https://www.etnews.com/20260817000154",
+    "description": "2023년 DGIST 사업화 유망기술 공모전 최우수상, 2024년 K-테크 스타트업 왕중왕전 장려상, 2025년 스마트건설 창업아이디어 공모전 우수상을 거머쥐었다. 또한, 중소벤처기업부 팁스(TIPS) 프로그램과 정부 R&D 디딤돌 과제...",
+    "published_at": "2026-08-18T23:01:00+09:00",
+    "cluster_id": "4224",
+    "publisher": "etnews.com",
+    "title_clean": "[BEYOND DGIST] 세상을 바꾸는 기술 창업, 차세대 '유니콘' 향해 뛴다 〈...",
+    "summary": "DGIST 출신 창업팀이 스마트건설 분야에서 연속으로 공모전 수상 및 정부 지원 프로그램(TIPS, R&D 디딤돌)에 선정되며 차세대 유니콘 기업으로 성장 중이다. 기술 창업을 통한 건설산업의 혁신과 새로운 사업 기회 창출을 보여주는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T23:09:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32128,22 +32144,6 @@
     "title_clean": "공급 물꼬는 트고 투기 차단…‘부동산시장 안정 금융종합대책’",
     "summary": "정부가 PF 자기자본비율 규제 시행을 2년 유예하고 중소형 건설사 정비사업 대출 보증상품을 신설하는 등 건설업계 금융 부담 완화책을 추진한다. 이주비 대출 LTV 산정을 개선하는 등 건설사 자금 조달 환경을 개선하는 종합대책이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-13T13:10:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "美데이터센터 건설 붐의 진짜 병목은 '숙련공'…20대 연봉 3억대 - news.einfomax.co.kr",
-    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429988",
-    "description": "딜라드는 \"모든 MEP 인력이 양질이 아니고, 지리적으로 접근할 수 있거나 이용할 수 있지도 않다\"며 \"데이터센터 작업은 전문성 있는 기술이 필요한 데, 비주택용 건설 노동자 79만 명으로 좁혀봐도 높은 기준선 때문에...",
-    "published_at": "2026-08-13T13:00:00+09:00",
-    "cluster_id": "5a1c",
-    "publisher": "news.einfomax.co.kr",
-    "title_clean": "美데이터센터 건설 붐의 진짜 병목은 '숙련공'…20대 연봉 3억대",
-    "summary": "미국 데이터센터 건설 붐이 가속화되는 가운데, 부족한 숙련공이 프로젝트 진행의 주요 병목이 되고 있다. 특히 MEP(기계·전기·배관) 분야 전문 인력 부족으로 고급 인재에 높은 연봉(20대 3억대)을 제시하고 있지만 수급 불균형이 심각한 상황이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-13T13:10:15+09:00",
     "importance": 2
   }
