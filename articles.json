@@ -21730,6 +21730,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "시민과 함께하는 신안산선 안전점검…광명시 협의체 가동 - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qbEFzWndCR2xYUUQ2bksxYWE2WU5jRXUtQTJ0S1IxYjhfc09TYXdteXpqbS1hZ2l4WU03S1NjaWNZQ3Z4bGlUWE8xVGJXUHFRQjRJc2g1d0ZmV1FBeFktcFM4eUxoMHdpT3pWRFhn?oc=5",
+    "description": "(광명=국제뉴스) 윤은중 기자 = 신안산선 건설 현장에 대한 시민 안전 감시가 본격적으로 시작됐다.광명시는 18일 시청 중회의실에서 시민대표, 포스코이앤씨와 함께",
+    "published_at": "2026-08-18T23:01:52+09:00",
+    "cluster_id": "ece8",
+    "publisher": "gukjenews.com",
+    "title_clean": "시민과 함께하는 신안산선 안전점검…광명시 협의체 가동",
+    "summary": "광명시가 신안산선 건설 현장에 대한 시민 안전 감시체계를 구축하기 위해 시민대표와 포스코이앤씨가 참여하는 협의체를 가동했다. 건설 현장의 안전점검을 시민과 함께 진행하는 협력 체계를 마련한 것이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-18T23:14:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32129,22 +32145,6 @@
     "summary": "수원특례시가 권선구 세류동 오피스텔 신축공사 현장을 방문하여 건설근로자들을 대상으로 폭염 대비 안전수칙 안내 및 온열질환 예방 물품을 배부하는 캠페인을 전개했다. 건설현장의 산업안전과 근로자 보건을 위한 정부 차원의 예방 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-13T13:30:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공급 물꼬는 트고 투기 차단…‘부동산시장 안정 금융종합대책’ - naeil.com",
-    "link": "https://www.naeil.com/news/read/598683?ref=naver",
-    "description": "건설업계의 금융 부담을 덜기 위해 PF 자기자본비율 규제 강화를 2년 한시 유예(2027년→2029년 시행)한다. 정비사업 지원 강화를 위해 중소형 건설사 대상 정비사업 대출 보증상품을 신설한다. 또 이주비 대출 LTV 산정...",
-    "published_at": "2026-08-13T13:02:00+09:00",
-    "cluster_id": "5b1e",
-    "publisher": "naeil.com",
-    "title_clean": "공급 물꼬는 트고 투기 차단…‘부동산시장 안정 금융종합대책’",
-    "summary": "정부가 PF 자기자본비율 규제 시행을 2년 유예하고 중소형 건설사 정비사업 대출 보증상품을 신설하는 등 건설업계 금융 부담 완화책을 추진한다. 이주비 대출 LTV 산정을 개선하는 등 건설사 자금 조달 환경을 개선하는 종합대책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T13:10:15+09:00",
     "importance": 2
   }
 ]
