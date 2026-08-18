@@ -21731,6 +21731,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'불법 하도급' 근로자 사망사고 낸 원청 대표…서울 첫 중대재해법 구속 기소 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQ0pyNkJObUtaMHVFaFlUempnVGMxdVJNMklqbkpEUG9hTTY2dUNGaVFZeHU2ajlpX093dFRvY2lCU09md0RsbFFMYzFheGxGT3BWUWJPYzktUQ?oc=5",
+    "description": "'불법 하도급' 근로자 사망사고 낸 원청 대표…서울 첫 중대재해법 구속 기소, 중앙지검, 기계식 주차설비 업체 대표 기소",
+    "published_at": "2026-08-18T16:11:14+09:00",
+    "cluster_id": "1eb3",
+    "publisher": "한국경제",
+    "title_clean": "'불법 하도급' 근로자 사망사고 낸 원청 대표…서울 첫 중대재해법 구속 기소",
+    "summary": "기계식 주차설비 업체 대표가 불법 하도급으로 인한 근로자 사망사고를 야기하여 중대재해법 위반으로 서울에서 처음 구속 기소되었다. 이는 건설 및 기계설비 업계에 대한 규제 강화와 법적 책임 강화를 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T05:59:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32133,21 +32149,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-13T13:50:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "광주대표도서관 붕괴 후속수사…공무원 금품·뇌물 의혹 들여다본다 - jnilbo.com",
-    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000056631",
-    "description": "부실 용접·검사에 불법 하도급까지 드러나 건설노동자 등 현장 작업자 4명이 숨진 광주대표도서관 붕괴 사고는 지난해 12월11일 전남광주 서구 치평동 공사 현장에서 발생했다. 콘크리트 타설 중 철제 구조물 연쇄 붕괴에...",
-    "published_at": "2026-08-13T13:38:00+09:00",
-    "cluster_id": "e24e",
-    "publisher": "jnilbo.com",
-    "title_clean": "광주대표도서관 붕괴 후속수사…공무원 금품·뇌물 의혹 들여다본다",
-    "summary": "광주대표도서관 붕괴 사고(사망 4명)와 관련하여 부실 용접·검사, 불법 하도급 등의 적법성 문제가 드러났으며, 후속수사에서 공무원의 금품·뇌물 의혹까지 수사 대상으로 확대되고 있다. 건설 현장의 안전·관리 체계 부실과 관행적 비리가 도마 위에 올랐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-13T13:50:07+09:00",
-    "importance": 4
   }
 ]
