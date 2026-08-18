@@ -21780,6 +21780,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "2차특검, ‘관저 이전 의혹’ 김건희·윤한홍 기소 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004088&cp=nv",
+    "description": "특검은 이날 김 여사를 특정범죄가중처벌법상 알선수재 및 직권남용권리행사방해 혐의로, 윤 의원을 직권남용권리행사방해 및 건설산업기본법 위반 혐의로 각각 불구속기소 했다. 관저 이전·증축 공사를 맡은 김태영...",
+    "published_at": "2026-08-18T19:17:00+09:00",
+    "cluster_id": "dd05",
+    "publisher": "kmib.co.kr",
+    "title_clean": "2차특검, ‘관저 이전 의혹’ 김건희·윤한홍 기소",
+    "summary": "특검이 관저 이전·증축 공사 의혹 관련 김건희를 알선수재 등 혐의로, 윤한홍 의원을 직권남용 및 건설산업기본법 위반 혐의로 불구속기소했다. 고위층의 부정 이슈로 건설업계 신뢰도 하락 및 규제 강화 우려가 발생했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T19:24:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32133,21 +32149,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-13T12:14:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'4명 사망' 광주대표도서관 붕괴…공무원 비위 등 후속수사 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20260812081852054?input=1195m",
-    "description": "건설노동자 등 현장 작업자 4명이 숨진 광주대표도서관 붕괴 사고는 지난해 12월 11일 전남광주 서구 치평동 공사 현장에서 발생했다. 콘크리트 타설 중 철제 구조물 연쇄 붕괴에 의해 일어난 이번 사고는 설계와 다른 부실...",
-    "published_at": "2026-08-13T12:08:00+09:00",
-    "cluster_id": "7500",
-    "publisher": "yna.co.kr",
-    "title_clean": "'4명 사망' 광주대표도서관 붕괴…공무원 비위 등 후속수사",
-    "summary": "광주대표도서관 공사 현장에서 콘크리트 타설 중 철제 구조물 연쇄 붕괴로 건설노동자 4명이 사망한 사고가 발생했다. 설계와 다른 부실시공이 원인으로 지목되며 공무원 비위 등에 대한 후속수사가 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-13T12:14:51+09:00",
-    "importance": 4
   }
 ]
