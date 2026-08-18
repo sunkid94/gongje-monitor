@@ -5847,6 +5847,22 @@
     "event_label": "한국토지주택공사(LH) 용인 반도체 국가산업단지 조성공사 1공구 발주"
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "광명시, 신안산선 '시민 안전 레이더' 가동…시민 참여 안전관리 강화 - paxetv.com",
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=279666",
+    "description": "광명시는 18일 시민 대표와 신안산선 시공사인 포스코이앤씨와 함께 '시민안전 공동선언식'을 열고, 신안산선 완공까지 시민이 직접 참여하는 안전관리 체계를 구축하기로 했다[사진=광명시]  광명시가 신안산선 공사 전...",
+    "published_at": "2026-08-18T18:54:00+09:00",
+    "cluster_id": "3d55",
+    "publisher": "paxetv.com",
+    "title_clean": "광명시, 신안산선 '시민 안전 레이더' 가동…시민 참여 안전관리 강화",
+    "summary": "광명시가 신안산선 공사의 안전관리를 강화하기 위해 시민이 직접 참여하는 '시민안전 공동선언식'을 개최했다. 시공사 포스코이앤씨와 함께 완공까지 시민 참여 안전관리 체계를 구축하기로 합의했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T18:59:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21764,20 +21780,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "BNK證 “대우건설, 역대급 수주 모멘텀 임박…목표가 2만7000원 유지” - biz.chosun.com",
-    "link": "https://biz.chosun.com/stock/stock_general/2026/08/11/MPMPY6C7YBHLZG4STKWJFTXJAQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "BNK투자증권은 11일 대우건설에 대해 역대급 수주 모멘텀이 임박했다고 분석했다. 투자의견 ‘매수’(BUY)와 목표주가 2만7000원을 그대로 유지했다. 전 거래일 종가는 1만7030원이다. 이선일 BNK투자증권 연구원은...",
-    "published_at": "2026-08-11T08:54:00+09:00",
-    "cluster_id": "348f",
-    "publisher": "biz.chosun.com",
-    "title_clean": "BNK證 “대우건설, 역대급 수주 모멘텀 임박…목표가 2만7000원 유지”",
-    "summary": "BNK투자증권이 대우건설에 대해 역대급 수주 모멘텀 임박을 분석하며 매수 의견과 2만7000원 목표주가를 유지했다. 건설업계에 긍정적인 수주 전망을 제시하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-11T08:58:34+09:00",
-    "importance": 3
+    "title": "'관저 이전 부당개입' 김건희·윤한홍 기소 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026081878901",
+    "description": "2차 종합특별검사팀(특별검사 권창영)은 18일 김 여사를 직권남용 권리행사방해와 특정범죄가중처벌법상 알선수재 혐의로, 윤 의원을 직권남용 권리행사방해와 건설산업기본법 위반 혐의로 불구속 기소했다. 특검은...",
+    "published_at": "2026-08-18T18:54:00+09:00",
+    "cluster_id": "3f73",
+    "publisher": "hankyung.com",
+    "title_clean": "'관저 이전 부당개입' 김건희·윤한홍 기소",
+    "summary": "김건희 여사와 윤한홍 의원이 관저 이전 부당개입 혐의로 기소됨. 직권남용, 권리행사방해, 알선수재 등의 혐의가 적용됨.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-18T18:59:16+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32132,22 +32148,6 @@
     "title_clean": "대한건설협회 경북도회, 경북도에 장학금·재해보험 지원금 4000만 원 전...",
     "summary": "대한건설협회 경북도회가 경북도에 장학금과 재해보험 지원금 4000만 원을 기탁했다. 이철우 도지사는 어려운 건설경기 속에서도 지속적인 나눔을 실천하는 협회에 감사의 뜻을 전했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-13T12:09:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[뉴스+]정부, 수도권에 23만가구+α 추가 공급…신규 택지 10만가구 포함 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=115425",
-    "description": "한국건설산업연구원에 따르면 2026년 5월 건설수주는 전년 동월보다 늘었지만 6월 건설업 경기실사지수는 70선 중반에 머물렀고, 2026년 7월 발표 기준 건설공사비지수는 137.67로 전년 동월 대비 5.1% 상승했다. 토지와 자금...",
-    "published_at": "2026-08-13T12:06:00+09:00",
-    "cluster_id": "73ea",
-    "publisher": "businessplus.kr",
-    "title_clean": "[뉴스+]정부, 수도권에 23만가구+α 추가 공급…신규 택지 10만가구 포함",
-    "summary": "정부가 수도권에 23만가구 이상을 추가 공급하기로 결정했으며, 신규 택지 10만가구를 포함하고 있다. 2026년 건설수주는 전년 동월 대비 증가했으나 경기실사지수는 70선 중반에 머물렀고 공사비지수는 5.1% 상승했다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-13T12:09:46+09:00",
     "importance": 2
   }
