@@ -5593,6 +5593,22 @@
     "event_label": "대한기계설비건설협회 울산시 지역 하도급 확대 협력"
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "8월 18일 주식시장 주요공시 - catchnews.kr",
+    "link": "https://www.catchnews.kr/news/articleView.html?idxno=127443",
+    "description": "57%) 규모 공급계약(인천신포 LH매입주택 신축공사) 체결(계약기간:2026-08-18~2028-09-30) ▶세보엠이씨, 삼성중공업과 435.30억원(최근 매출액대비 6.08%) 규모 공급계약(평택 설비공사) 체결(계약기간:2026-06-01~2027...",
+    "published_at": "2026-08-19T08:48:00+09:00",
+    "cluster_id": "4c17",
+    "publisher": "catchnews.kr",
+    "title_clean": "8월 18일 주식시장 주요공시",
+    "summary": "건설업체들이 대규모 공급계약을 체결했습니다. 인천신포 LH매입주택 신축공사와 평택 설비공사 등으로 수주 실적을 확대하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T08:54:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21512,20 +21528,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "[Who Is ?] 송치영 포스코이앤씨 대표이사 사장 - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444172",
-    "description": "신안산선 공사는 포스코이앤씨, 롯데건설, 대보건설, 위본건설, 서희건설 등이 시공한다. 주관사는 가장 많은 구간을 담당하는 포스코이앤씨다. 신안산선 전체 11개 공구 중 2공구, 3-2공구, 4-1공구, 4-2공구, 5-2공구...",
-    "published_at": "2026-08-11T07:02:00+09:00",
-    "cluster_id": "65e2",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "[Who Is ?] 송치영 포스코이앤씨 대표이사 사장",
-    "summary": "송치영 포스코이앤씨 대표이사 사장이 신안산선 프로젝트의 주관사로서 11개 공구 중 5개를 담당하며 대규모 철도 건설사업을 주도하고 있다. 포스코이앤씨가 최대 구간을 시공하는 주요 시공사로서의 위상을 보여주는 인사 보도다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-11T10:28:59+09:00",
-    "importance": 2
+    "title": "종합특검, '21그램 관저 이전 특혜 의혹' 김건희·윤한홍 기소 - newdaily.co.kr",
+    "link": "https://www.newdaily.co.kr/site/data/html/2026/08/18/2026081800285.html",
+    "description": "18일 법조계에 따르면 종합특검팀은 이날 김 여사에게 특정범죄가중법상 알선수재와 직권남용 권리행사방해 혐의를, 윤 의원에게 직권남용 권리행사방해와 건설산업기본법 위반 혐의를 적용해 기소했다. 특검팀은 김...",
+    "published_at": "2026-08-19T08:50:00+09:00",
+    "cluster_id": "aac9",
+    "publisher": "newdaily.co.kr",
+    "title_clean": "종합특검, '21그램 관저 이전 특혜 의혹' 김건희·윤한홍 기소",
+    "summary": "종합특검팀이 김건희 여사를 알선수재·직권남용 혐의로, 윤한홍 의원을 직권남용·건설산업기본법 위반 혐의로 기소했다. 21그램 관저 이전 과정에서의 특혜 의혹과 관련된 수사 결과다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T08:54:01+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설수주",
