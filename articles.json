@@ -5881,6 +5881,22 @@
     "event_label": "대한기계설비건설협회 한국폴리텍대학 충주캠퍼스 전문인력 양성 지원 예산 2배 증액"
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "HJ중공업, 제2경춘국도 4공구 수주..1044억원 규모 - 4th.kr",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2116489",
+    "description": "전체 공사는 5개 공구로 나뉘며 1공구 계룡건설산업, 2공구 HDC현대산업개발, 3공구 GS건설, 4공구 HJ중공업, 5공구 DL이앤씨가 각각 시공을 맡는다. HJ중공업은 최근 대형 도로 인프라 공사를 잇따라 확보하고 있다....",
+    "published_at": "2026-08-18T11:54:00+09:00",
+    "cluster_id": "13bd",
+    "publisher": "4th.kr",
+    "title_clean": "HJ중공업, 제2경춘국도 4공구 수주..1044억원 규모",
+    "summary": "HJ중공업이 제2경춘국도 4공구 1044억원 규모 공사를 수주했다. 동사는 최근 대형 도로 인프라 공사를 잇따라 확보하며 수주 실적을 증가시키고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-18T11:58:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21800,22 +21816,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-10T15:48:46+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "목동10단지 재건축 현대건설 단독 응찰…수의계약 전망 - viva100.com",
-    "link": "https://www.viva100.com/article/20260810500874",
-    "description": "앞서 지난 6월 15일 입찰공고 이후 열린 현장설명회에는 현대건설과 대우건설, 포스코이앤씨, 제일건설, 금호건설, CA이앤씨 등 6개사가 참석했다. 그러나 실제 입찰서를 제출한 곳은 현대건설뿐이었다. 대우건설은...",
-    "published_at": "2026-08-10T15:38:00+09:00",
-    "cluster_id": "e958",
-    "publisher": "viva100.com",
-    "title_clean": "목동10단지 재건축 현대건설 단독 응찰…수의계약 전망",
-    "summary": "목동10단지 재건축 입찰에서 현대건설이 단독 응찰하면서 수의계약으로 진행될 전망이다. 6개사가 현장설명회에 참석했으나 실제 입찰에는 현대건설만 참여해 경쟁 입찰이 성사되지 않았다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-10T15:48:46+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
