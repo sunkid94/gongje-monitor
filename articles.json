@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "울산병원-대한기계설비건설협회, 건강증진 맞손 - ujeil.com",
+    "link": "http://www.ujeil.com/news/articleView.html?idxno=390580",
+    "description": "혜명심의료재단 울산병원?은 최근 대한기계설비건설협회 울산시·경상남도회와 회원들의 건강 증진과 양 기관의 상호 발전을 위한 업무협약을 체결했다.",
+    "published_at": "2026-08-19T19:54:00+09:00",
+    "cluster_id": "07d8",
+    "publisher": "ujeil.com",
+    "title_clean": "울산병원-대한기계설비건설협회, 건강증진 맞손",
+    "summary": "울산병원이 대한기계설비건설협회 울산시·경상남도회와 업무협약을 체결했다. 협회 회원들의 건강증진과 양 기관의 상호 발전을 위한 협력 관계를 구축한 것으로, 일반적인 보건·복지 협력 사안이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-19T19:59:11+09:00",
+    "event_label": "대한기계설비건설협회 울산병원과 건강증진 업무협약 체결",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32143,21 +32160,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T11:13:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[창간 27주년 (사)한국국산목제재협회 축사] \"국산목재의 가치를 산업의... - woodkorea.co.kr",
-    "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90811",
-    "description": "건설경기 침체로 목재 수요까지 위축되면서 많은 제재업체가 경영상 어려움을 겪고 있습니다. 산림자원은 풍부해지고 있지만 이를 고품질 건축자재로 생산할 수 있는 제재·건조·가공 기반은 충분히 갖춰지지 못한...",
-    "published_at": "2026-08-14T10:40:00+09:00",
-    "cluster_id": "b8a0",
-    "publisher": "woodkorea.co.kr",
-    "title_clean": "[창간 27주년 (사)한국국산목제재협회 축사] \"국산목재의 가치를 산업의...",
-    "summary": "건설경기 침체로 목재 수요가 위축되면서 제재업체들이 경영난을 겪고 있습니다. 산림자원은 증가하고 있으나 제재·건조·가공 기반이 부족한 실정입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T10:52:56+09:00",
-    "importance": 4
   }
 ]
