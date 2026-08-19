@@ -5186,6 +5186,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[N2 모닝 경제 브리핑-8월 20일] 美 증시, 국채금리 진정에 3대 지수 반등... - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20260819500329",
+    "description": "결정 - 대우건설 : 나산으로부터 3126억5467만3000원 규모 청주 송절 2 지구 도시개발구역 A1BL 공동주택 신축사업 수주 - 삼성화재 : 슈로더인베스트먼트 보유 주식 232만 주(5.04%)에서 197만 주(4.43%)로 감소...",
+    "published_at": "2026-08-20T05:54:00+09:00",
+    "cluster_id": "435a",
+    "publisher": "news2day.co.kr",
+    "title_clean": "[N2 모닝 경제 브리핑-8월 20일] 美 증시, 국채금리 진정에 3대 지수 반등...",
+    "summary": "대우건설이 청주 송절 2지구 도시개발 공동주택 신축사업을 3126억원 규모로 수주했다. 삼성화재의 슈로더인베스트먼트 지분 감소는 별도 뉴스로 건설업과 직접적 영향 관계가 낮다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T05:58:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21104,22 +21120,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-11T17:30:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현산, 능곡5구역 작업자 벌에 쏘여 사망…중대재해 발생 - news1.kr",
-    "link": "https://www.news1.kr/realestate/general/6255871",
-    "description": "IPARK현대산업개발(294870)은 경기 고양시 능곡5구역 공사 현장에서 작업자 한명이 벌에 쏘여 사망하는 중대재해가 발생했다고 11일 공시했다. 사고는 지난달 24일 발생했다. 당시 작업자는 호흡곤란으로 의식 불명...",
-    "published_at": "2026-08-11T17:09:00+09:00",
-    "cluster_id": "d2d2",
-    "publisher": "news1.kr",
-    "title_clean": "IPARK현산, 능곡5구역 작업자 벌에 쏘여 사망…중대재해 발생",
-    "summary": "IPARK현대산업개발의 경기 고양시 능곡5구역 공사 현장에서 작업자가 벌에 쏘여 사망하는 중대재해가 발생했다. 지난달 24일 발생한 사고로 작업자는 호흡곤란으로 의식불명 상태에 빠졌다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T17:15:13+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
