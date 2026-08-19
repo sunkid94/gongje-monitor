@@ -21122,6 +21122,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대엘리베이터, 현장 안전관리 시스템 ‘고도화’ 드라이브 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oRkVNNDRwWHFTakJ3RS1qbk5kNEVsY2hYZFdsVHJ3WU1WVTFLN20tYVRScnlQMTVPQkQ2Y0ZITGJWYVNTV0ZyR1JpT0ZKQnhoU2FVYzFobnlpSlIwc2dleUpyX1p5TV9xVlE4?oc=5",
+    "description": "현대엘리베이터가 기술･조직･협력사를 하나로 연결하는 현장 안전관리 체계 구축에 속도를 내고 있다. 인공지능(AI) 기반 예방 시스템을 적용하고 협력사까지 동일한 안전 기준으로 관리한다. 시니어 구성원 경험을 안전 전문 역량으로 전환하는 인재 육성도 검토 중이다.특히 사고 발생 이후 대응하는 방식에서 벗어나 위험 요인을 사전 제거하는 데에 집중하고 있다. 수년간 업계 1위를 지키며 축적된 경험을 안전관리 자산으로 전환 중이란 평가다. 최근 잇달아 획득한 안전 관련 인증도 이 같은 체계 개선의 성과라는 분석이다.◼ AI로 위험 선제 포",
+    "published_at": "2026-08-19T11:06:03+09:00",
+    "cluster_id": "4d56",
+    "publisher": "한국건설신문",
+    "title_clean": "현대엘리베이터, 현장 안전관리 시스템 ‘고도화’ 드라이브",
+    "summary": "현대엘리베이터가 AI 기반 예방 시스템 도입과 협력사 통합 관리로 현장 안전관리 체계를 고도화하고 있다. 사후 대응에서 사전 위험 제거로 전환하며 업계 경험을 안전관리 자산으로 활용 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T23:13:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32143,20 +32159,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:53:19+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "수원특례시의회 윤경선 의원, 폭염 속 택배·건설현장 찾아 야외노동자 안전 점검 - 정필",
-    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iS3lLSDliYUN1Q0E3LVFoOUM2bGhMQktNYm0zVW5lY3QzT2JCWnNWLVFWdFlfYktTWW1CR3NLYjNfQ2ZWbFFR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iS3lLSDliYUN1Q0E3LVFoOUM2bGhMQktNYm0zVW5lY3QzT2JCWnNWLVFWdFlfYktTWW1CR3NLYjNfQ2ZWbFFR?oc=5\" target=\"_blank\">수원특례시의회 윤경선 의원, 폭염 속 택배·건설현장 찾아 야외노동자 안전 점검</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">정필</font>",
-    "cluster_id": "8efa",
-    "publisher": "정필",
-    "title_clean": "수원특례시의회 윤경선 의원, 폭염 속 택배·건설현장 찾아 야외노동자 안전 점검",
-    "summary": "수원특례시의회 윤경선 의원이 폭염 중 택배 및 건설현장을 방문하여 야외노동자의 안전 상황을 점검했다. 이는 건설현장 노동자의 안전과 복지에 대한 관심을 보여주는 정책 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-14T11:53:19+09:00",
-    "importance": 2
   }
 ]
