@@ -21139,6 +21139,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설·조선 다단계 체불 끊고 생계망 넓힌다…'임금체불 근절' 총력전 - mediapen.com",
+    "link": "https://www.mediapen.com/news/view/1117383",
+    "description": "건설업의 경우 '건설산업기본법' 개정을 통해 내년 1월 1일부터 시행되는 '발주자직접지급제'와 함께 30일 초과 도급 사업 전체에 적용된다. 조선업은 선박 1척당 최초 발주금액 120억 원 이상 사업을 대상으로 하되, 현장...",
+    "published_at": "2026-08-19T21:56:00+09:00",
+    "cluster_id": "2cae",
+    "publisher": "mediapen.com",
+    "title_clean": "건설·조선 다단계 체불 끊고 생계망 넓힌다…'임금체불 근절' 총력전",
+    "summary": "정부가 건설·조선업의 임금체불 근절을 위해 내년 1월부터 '발주자직접지급제'를 시행한다. 건설업은 30일 초과 도급사업 전체에, 조선업은 120억원 이상 선박사업에 적용되어 다단계 체불 문제를 해결하고자 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T21:59:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32142,22 +32158,6 @@
     "publisher": "sisafocus.co.kr",
     "title_clean": "국힘, 8·13 부동산 대책에 \"재탕·숫자놀음\"",
     "summary": "국민의힘 원내대표가 정부의 8·13 부동산 대책을 '재탕'이라고 비판하며, 전국 미분양 주택의 72.2%가 지방에 집중되어 있고 건설경기 침체가 심각하다고 지적했다. 이는 부동산 정책의 실효성 부족을 드러내는 발언으로, 건설업계의 어려움이 지속되고 있음을 반영한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T11:33:16+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울 폭염특보 해제 사흘 만에…동남권 다시 폭염주의보 - munhwa.com",
-    "link": "https://www.munhwa.com/article/11609572?ref=naver",
-    "description": "야외 건설노동자 보호를 위해 충분한 휴식시간 보장과 휴게공간 마련 등을 권고하고 이행 여부도 점검한다. 전광판과 홈페이지, 안전안내문자 등을 통해 야외 활동 자제와 충분한 수분 섭취, 무더위 시간대 휴식 등...",
-    "published_at": "2026-08-14T11:25:00+09:00",
-    "cluster_id": "bf81",
-    "publisher": "munhwa.com",
-    "title_clean": "서울 폭염특보 해제 사흘 만에…동남권 다시 폭염주의보",
-    "summary": "서울 폭염특보 해제 사흘 만에 동남권에서 폭염주의보가 발효되었다. 정부는 야외 건설노동자 보호를 위해 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검할 계획이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:33:16+09:00",
     "importance": 4
