@@ -21122,6 +21122,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "BJFEZ 안전관리 강화 무재해 릴레이 이어간다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tUjNRcFdDd0NIcVJsNkVHUWF1YTFLQ3VLVU9kbU10aTNnZDM5Ujk1M1JabGtEWUU5OEVQTlV2ejVycFhXVUtCWmthS0VMMERGUVVR?oc=5",
+    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 사면·배수시설·가시설 등 건설현장·재해취약지 점검 부산진해경제자유구역청이 공사 현장에서 안전점검을 하고 있다./사진제공=부산진해경제자유구역청 부산진해경제자유구역청이 태풍·집중호우 등 재해로 인한 안전사고를 예방하기 위해 부산진해경제자유구역(BJFEZ)",
+    "published_at": "2026-08-19T17:51:00+09:00",
+    "cluster_id": "364f",
+    "publisher": "네이트",
+    "title_clean": "BJFEZ 안전관리 강화 무재해 릴레이 이어간다",
+    "summary": "부산진해경제자유구역청이 태풍·집중호우 등 재해 예방을 위해 건설현장과 재해취약지에 대한 안전점검을 강화하고 있다. 사면·배수시설·가시설 등을 중점 점검하여 무재해 릴레이를 이어가고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-20T02:49:07+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32143,21 +32159,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T11:53:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염 다음은 태풍·집중호우···건설현장 풍수해 대비 '비상' - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325835",
-    "description": "연일 이어진 폭염으로 건설현장 안전관리가 강화되고 있는 가운데 앞으로는 태풍과 집중호우 등 풍수해에도 대비해야 할 시기가 다가오고 있다. 폭염에 따른 온열질환뿐 아니라 집중호우에 따른 침수·붕괴와 태풍으로...",
-    "published_at": "2026-08-14T11:46:00+09:00",
-    "cluster_id": "87df",
-    "publisher": "대한전문건설신문",
-    "title_clean": "폭염 다음은 태풍·집중호우···건설현장 풍수해 대비 '비상'",
-    "summary": "폭염 이후 태풍과 집중호우 등 풍수해 시즌을 맞아 건설현장의 안전관리 강화가 필요한 상황이다. 온열질환뿐 아니라 침수, 붕괴 등 풍수해로 인한 피해 예방이 건설업계의 주요 과제로 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T11:53:19+09:00",
-    "importance": 4
   }
 ]
