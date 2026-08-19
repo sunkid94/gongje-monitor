@@ -21122,6 +21122,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, ‘주택 신속공급 방안’ 기업 참여 독려 - 환경일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FanhORWZRM1dNeWVKMlVXTzFWMlFuZnY3b0E1QnlxZTgtUXNvQVhfNi1nMGx2Sko3N3lob2hoNVdSTWh0TUxGUENtQ2ZXcGRJRno1Qi1LUlI0amxmOTlLdnViM0ZURHRC?oc=5",
+    "description": "[환경일보] 국토교통부(장관 김윤덕)는 8월 18일 오후 장관 주재로 유관 공공기관 및 산업계 간담회를 개최해, ‘주택 신속공급 방안’ 관련 공공기관의 후속조치 계획을 점검하고 주택건설 업계의 적극적인 참여를 독려했다.이번 간담회는 수도권 주택 공급 유관 공공기관인 한국주택토지공사(LH), 서울주택도시개발공사(SH), 경기주택도시공사(GH), 인천도시공사(iH), 주택건설 금융을 지원하는 주택도시보증공사(HUG), 한국주택금융공사(HF)와 함께, 한국주택협회, 대한주택건설협회, 한국디벨로퍼협회 및 주요 업계가 참석하는 가운데, ‘주",
+    "published_at": "2026-08-19T09:47:26+09:00",
+    "cluster_id": "4199",
+    "publisher": "환경일보",
+    "title_clean": "국토부, ‘주택 신속공급 방안’ 기업 참여 독려",
+    "summary": "국토교통부가 수도권 주택 신속공급을 위해 LH, SH, GH 등 공공기관과 주택건설업계가 참여하는 간담회를 개최했다. 공공기관의 후속조치 계획을 점검하고 건설업계의 적극적 참여를 독려하는 자리다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T03:28:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32143,21 +32159,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:53:19+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "의정부시, 소통·공감 중심 청렴문화 확산…전 직원 청렴교육 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141018067060079",
-    "description": "이번 간담회는 양 기관이 협력해 관내 주거취약계층의 주거 환경을 개선하고 침체된 지역 건설경기에 활력을 불어넣기 위해 마련됐다. 간담회에는 김원기 시장을 비롯한 시 관계자와 지재기 대한주택건설협회...",
-    "published_at": "2026-08-14T11:42:00+09:00",
-    "cluster_id": "59ec",
-    "publisher": "대한경제",
-    "title_clean": "의정부시, 소통·공감 중심 청렴문화 확산…전 직원 청렴교육",
-    "summary": "의정부시와 대한주택건설협회가 주거취약계층 주거환경 개선과 지역 건설경기 활성화를 위해 협력하기로 합의했다. 시장을 포함한 시 관계자와 협회 관계자들이 참석한 간담회를 통해 지역 건설사업 활성화 방안을 논의했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T11:53:19+09:00",
-    "importance": 2
   }
 ]
