@@ -21140,6 +21140,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "조달청, AI·위성통신 등 혁신기술 실증 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51363",
+    "description": "조달청은 AI·위성통신 등 혁신기술 실증을 위해 74개 혁신제품 선정하고 시범사용 기관을 선정했다하는 등 3차 혁신제품 시범구매 대상을 선정했다고 19일 밝혔다. 시범구매 대상은 총 127억원 규모로, AI와 위성통신, 휴대용 드론 대응체계 등 미래 산업을 이끌 혁신제품이다. 또 해당 제품을 적용할 120개 시범사용기관도 선정됐다.주요 선정 제품으로는 △작업자의 생체신호를 실시간으로 분석하는 ‘AI 웨어러블 안전관리시스템’ △위성과 안정적인 통신이 가능한 ‘게이트웨이 안테나 시스템’ 등이 있다. 또 △원거리 탐지 및 비가시거리 무력",
+    "published_at": "2026-08-19T18:20:17+09:00",
+    "cluster_id": "6e56",
+    "publisher": "기계설비신문",
+    "title_clean": "조달청, AI·위성통신 등 혁신기술 실증",
+    "summary": "조달청이 AI, 위성통신, 휴대용 드론 대응체계 등 74개 혁신제품을 선정하여 3차 혁신제품 시범구매를 추진한다. 총 127억원 규모로 120개 기관에서 시범사용할 예정이며, AI 웨어러블 안전관리시스템 등 미래 산업 기술이 포함되어 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T18:26:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32140,21 +32156,6 @@
     "title_clean": "아산시 자율방재단, 폭염 취약현장 얼음물 지원…시민 안전 지킨다",
     "summary": "아산시 자율방재단이 폭염 취약현장에 얼음물을 지원하여 시민 안전을 보호하고 있다. 건설현장 등 고위험 현장에서의 열사병 예방 활동으로 보인다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-14T10:33:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "롯데칠성음료, 건설근로자 300명 대상 폭염 대응 캠페인 - 스마트경제",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxOUhjVXVSMnNJLXFidktRcU9PMFBvVHlXLVlaS01QUm5ZcFdTbm15MmVMOHllSHV0blRSV09OM1dscHpLN2hhSHh2Vi1haGJSRWI3bkNPVlg4VmxaQmNyY05WaDRaZ3JIaVU0WGRvTQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAxOUhjVXVSMnNJLXFidktRcU9PMFBvVHlXLVlaS01QUm5ZcFdTbm15MmVMOHllSHV0blRSV09OM1dscHpLN2hhSHh2Vi1haGJSRWI3bkNPVlg4VmxaQmNyY05WaDRaZ3JIaVU0WGRvTQ?oc=5\" target=\"_blank\">롯데칠성음료, 건설근로자 300명 대상 폭염 대응 캠페인</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스마트경제</font>",
-    "cluster_id": "d297",
-    "publisher": "스마트경제",
-    "title_clean": "롯데칠성음료, 건설근로자 300명 대상 폭염 대응 캠페인",
-    "summary": "롯데칠성음료가 건설근로자 300명을 대상으로 폭염 대응 캠프를 실시하고 있다. 건설현장의 열악한 근무환경 개선을 위한 사회공헌 활동으로 업계의 근로조건 향상에 긍정적인 사례다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-14T10:33:06+09:00",
     "importance": 2
   }
