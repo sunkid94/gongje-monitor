@@ -5593,6 +5593,22 @@
     "event_label": "대한기계설비건설협회 울산시 지역 하도급 확대 협력"
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[르포] 日·대만 제친 포스코이앤씨…태국 LNG 영토 넓힌다[K건설, 플랜... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10844800?ref=naver",
+    "description": "공사기간이 2.5개월 정도 단축되고 있는데, 해외에서 이런 사례가 거의 없습니다 박여식 포스코이앤씨 플랜트사업본부 에너지사업실 총괄 PM 태국의 작은 어촌 마을 라용. 이곳 LNG 탱크 건설 현장에서 근무 중인 한국인...",
+    "published_at": "2026-08-19T09:10:00+09:00",
+    "cluster_id": "9e07",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "[르포] 日·대만 제친 포스코이앤씨…태국 LNG 영토 넓힌다[K건설, 플랜...",
+    "summary": "포스코이앤씨가 태국 라용의 LNG 탱크 건설 현장에서 공사기간을 2.5개월 단축하며 해외 건설시장에서의 경쟁력을 입증했다. 일본, 대만 등 경쟁사를 제치고 LNG 사업 영역을 확대하고 있는 한국 건설기업의 우수 사례로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T09:13:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21512,20 +21528,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "한국주강, 삼성중공업과 26억 규모 납품 계약 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026081110250946843",
-    "description": "한국주강은 삼성중공업과 26억원 규모의 조선기자재 선미주강품 납품 계약을 체결했다고 11일 공시했다. 계약 기간은 지난 10일부터 2028년 11월25일까지다.",
-    "published_at": "2026-08-11T10:25:00+09:00",
-    "cluster_id": "3415",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "한국주강, 삼성중공업과 26억 규모 납품 계약",
-    "summary": "한국주강이 삼성중공업과 26억원 규모의 조선기자재 납품 계약을 체결했다. 계약 기간은 2025년 10월부터 2028년 11월까지 약 3년간 지속될 예정이다.",
+    "title": "김윤덕 국토부 장관, “과거와 다른 공급 속도전 필요”ⵈ ‘150만호+α’ 착공 총력 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PSDRTVGFXZFZPUllLTE5Ba18zMndKLUFEdnVTX3p0d18yTFYtX2JuaUFRakNzRVV1cnEyRkc5d1ZfQzJLNnF4bnhiWnZxR1ZCM2U3T2ZOb1RuQ05sU3RtaksyTQ?oc=5",
+    "description": "[국토일보 김현재 기자] 정부가 수도권 ‘150만호+α’ 주택 착공 목표 달성을 위해 공공기관과 주택업계에 주택공급 속도전을 주문했다.국토교통부는 어제(18일) 서울에서 김윤덕 장관 주재로 유관 공공기관 및 산업계 간담회를 개최했다고 밝혔다.이날 간담회는 지난 13일 발표한 ‘주택 신속공급 방안’ 관련 공공기관의 후속조치 계획을 점검하고 주택건설업계의 적극적인 참여를 독려하기 위해 마련됐다.간담회에는 수도권 주택 공급을 담당하는 한국주택토지공사(LH)와 서울주택도시개발공사(SH), 경기주택도시공사(GH), 인천도시공사(iH)를 비롯",
+    "published_at": "2026-08-19T09:06:30+09:00",
+    "cluster_id": "78e2",
+    "publisher": "국토일보",
+    "title_clean": "김윤덕 국토부 장관, “과거와 다른 공급 속도전 필요”ⵈ ‘150만호+α’ 착공 총력",
+    "summary": "정부가 수도권 150만호+α 주택 공급 목표 달성을 위해 공공기관과 주택업계에 공급 속도전을 주문했다. 국토부는 18일 관련 기관과 산업계 간담회를 개최해 신속공급 방안의 후속조치를 점검하고 건설업계의 참여를 독려했다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-11T10:28:59+09:00",
-    "importance": 3
+    "collected_at": "2026-08-19T09:13:54+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
@@ -32120,21 +32136,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-13T13:55:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "윤석대 K-water 사장, “가뭄도 홍수도 빈틈없이”…경북 물 재해 현장 총점검 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=41046",
-    "description": "[건설이코노미뉴스] 낙동강 유역의 가뭄이 장기화되는 가운데 한국수자원공사가 영천댐의 용수 공급 상황을 긴급 점검하고 항사댐 조기 추진에도 힘을 싣는 등 경북지역 물 재해 대응에 총력을 기울이고 있다.윤석대 한국수자원공사(K-water) 사장은 12일 경북 영천댐 현장을 방문해 가뭄 상황에 따른 용수 공급 대응체계를 점검하고, 항사댐(포항) 예정지를 찾아 물 재해 대응 방안을 전반적으로 점검했다고 밝혔다.영천댐은 포항·경주·영천 등 지역 주민 46만명의 생활용수와 포항철강산업단지의 공업용수 등 하루 총 55만톤의 용수 공급을 담당하는",
-    "published_at": "2026-08-13T13:53:17+09:00",
-    "cluster_id": "5471",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "윤석대 K-water 사장, “가뭄도 홍수도 빈틈없이”…경북 물 재해 현장 총점검",
-    "summary": "한국수자원공사 윤석대 사장이 낙동강 유역 가뭄 장기화에 대응하여 영천댐의 용수 공급 상황을 긴급 점검하고 항사댐 조기 추진을 추진 중이다. 영천댐은 경북 지역 46만 명의 생활용수와 포항철강산업단지의 공업용수 등 일일 55만톤을 공급하는 핵심 시설이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T13:55:16+09:00",
-    "importance": 2
   }
 ]
