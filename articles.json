@@ -21122,6 +21122,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "반도체 생산 70.9% 급증…충북 광공업 생산 증가율 전국 1위 - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094730",
+    "description": "건설수주는 공장·창고와 도로·교량 발주가 늘면서 전년 동기 대비 1조6천억원 증가했다. 반면 주택과 철도·궤도 부문은 감소했다. 서비스업 생산은 도소매와 운수·창고업 호조로 0.4% 증가했다. 도소매업은 2.5...",
+    "published_at": "2026-08-19T18:52:00+09:00",
+    "cluster_id": "8755",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "반도체 생산 70.9% 급증…충북 광공업 생산 증가율 전국 1위",
+    "summary": "충북 반도체 생산이 70.9% 급증하며 광공업 생산 증가율이 전국 1위를 기록했다. 건설수주는 공장·창고와 도로·교량 발주 증가로 전년 동기 대비 1조6천억원 증가했으나, 주택과 철도·궤도 부문은 감소했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T18:59:10+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "공사현장서 휴대용연삭기 작업 중 파편에 맞은 노동자 사망 - 안전신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Vc2hfNGl0QzZKeFVfcGhWNHFPaGdXbWtSRUZmOUNRLV9idjg5bDhKeUJPRGRFSk1DZEExdWVpSUs5alZvZ3kydExqbkFCdXk5cS1aN2ZuR0lTZDVHOEgxc2UtUGJRQ2I4VTFXVUdNQng?oc=5",
+    "description": "한 공사현장서 휴대용연삭기 작업 중이던 노동자가 파편에 맞아 사망하는 사고가 났다.19일 노동당국에 따르면 지난 15일 8시45분께 강원 강릉 소재 배수로 설치 공사현장서 휴대용연삭기로 거푸집에 용접한 부위 절단 작업 중이던 노동자가 깨진 연삭숫돌의 파편에 맞아 사망했다.휴대용연삭기 등 회전체의 날이 튕겨 날아오거나 베일 위험을 예방키 위해 방호덮개를 설치해야 한다.또 연삭기 제원에 맞는 연삭숫돌을 장착하고 방호덮개를 임의로 해체하지 않도록 관리 및 감독해야 한다는 게 노동당국에 의해 당부됐다.",
+    "published_at": "2026-08-19T18:48:32+09:00",
+    "cluster_id": "7a17",
+    "publisher": "안전신문",
+    "title_clean": "공사현장서 휴대용연삭기 작업 중 파편에 맞은 노동자 사망",
+    "summary": "강릉 배수로 공사현장에서 휴대용연삭기 작업 중 깨진 연삭숫돌 파편에 맞은 노동자가 사망했다. 노동당국은 방호덮개 설치, 제원에 맞는 숫돌 장착, 방호덮개 임의 해체 금지 등 안전관리를 강화할 것을 당부했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T18:59:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32126,36 +32158,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T10:52:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "라틴아메리카 건설 안전 규제 급증, 중소 건설사 인건비·공기 이중 압박 - 한국AI부동산신문",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4OTVZdEVKei1BbG1Zc20zcExnRmJqYV8ydk5GU0xVWkM0cnpKVjJyQUR0NG5tZFJORllackp5ZFFXLWdjc3dYR0FUMGg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4OTVZdEVKei1BbG1Zc20zcExnRmJqYV8ydk5GU0xVWkM0cnpKVjJyQUR0NG5tZFJORllackp5ZFFXLWdjc3dYR0FUMGg?oc=5\" target=\"_blank\">라틴아메리카 건설 안전 규제 급증, 중소 건설사 인건비·공기 이중 압박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국AI부동산신문</font>",
-    "cluster_id": "0fc5",
-    "publisher": "한국AI부동산신문",
-    "title_clean": "라틴아메리카 건설 안전 규제 급증, 중소 건설사 인건비·공기 이중 압박",
-    "summary": "라틴아메리카에서 건설 안전 규제가 강화되면서 중소 건설사들이 인건비 상승과 공사 기간 연장으로 이중 압박을 받고 있다. 규제 강화는 산업 안전성 개선의 긍정 효과가 있으나 중소 업체의 경영 부담 증가로 이어지고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T10:42:48+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "정점식, 8·13 공급대책에 \"현란한 눈속임용 숫자놀음\" - iminju.net",
-    "link": "http://www.iminju.net/news/articleView.html?idxno=168076",
-    "description": "정 원내대표는 \"수도권이 공급 부족과 집값 상승으로 몸살을 앓는 동안 지방은 미분양과 건설경기 침체가 심각하다\"고 거듭 비판했다. 회의에 참석한 오세훈 서울시장도 정비사업 규제 개선 방안이 일부 포함된 점은...",
-    "published_at": "2026-08-14T10:22:00+09:00",
-    "cluster_id": "eede",
-    "publisher": "iminju.net",
-    "title_clean": "정점식, 8·13 공급대책에 \"현란한 눈속임용 숫자놀음\"",
-    "summary": "정점식 원내대표가 정부의 8·13 공급대책을 '현란한 눈속임용 숫자놀음'이라고 비판했다. 수도권 공급 부족과 집값 상승 문제 해결 미흡, 지방의 미분양과 건설경기 침체 심각성을 지적했으며, 정비사업 규제 개선 방안만으로는 부족하다는 입장을 드러냈다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T10:33:06+09:00",
-    "importance": 4
   }
 ]
