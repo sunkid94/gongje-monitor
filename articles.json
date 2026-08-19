@@ -5186,23 +5186,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "市, 지역 건설산업·업체 활력 불어넣는다 - ujeil.com",
-    "link": "http://www.ujeil.com/news/articleView.html?idxno=389057",
-    "description": "이번 방문단은 울산시 주택허가과 등 관계 공무원 3명과 대한전문건설협회 울산시회 관계자 2명, 대한기계설비건설협회 울산시·경남도회 관계자 1명 등 총 6명으로 구성됐다. 방문단은 울산지역에서 대규모 공동주택 및...",
-    "published_at": "2026-07-20T22:04:00+09:00",
-    "cluster_id": "8582",
-    "publisher": "ujeil.com",
-    "title_clean": "市, 지역 건설산업·업체 활력 불어넣는다",
-    "summary": "울산시가 지역 건설산업 활성화를 위해 관계 공무원과 대한기계설비건설협회, 대한전문건설협회 관계자들로 구성된 방문단을 파견했다. 울산지역 대규모 공동주택 및 관련 건설 프로젝트 현장 방문을 통해 건설업계 현황을 파악하고 지원 방안을 모색하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-20T22:09:03+09:00",
-    "event_label": "대한기계설비건설협회 울산시 건설산업 활력 지원 방문",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21136,6 +21119,21 @@
     "summary": "오세철 삼Samsung물산 대표가 성수·여의도·목동 재건축 사업의 수주를 적극 추진 중이며, 대우건설이 경쟁에서 물러나면서 삼성물산의 수주 독주 가능성이 높아졌다. 목동 재건축이 13조원 목표 달성의 핵심 사업으로 평가되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-11T17:10:04+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "광명시, 수색~광명 고속철도 건설 기본계획 확정 고시 - 모닝투데이",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2Ul9pN0VMeTFyc0tHZ3g4VjR1OE5JaTIxdVVrcUlwZzliTm9YWUxLbmxRdE5vTW15ZjZoM1lLWlIzTnBsOU90VXBpSUU?oc=5",
+    "description": "[모닝투데이=이복영기자]광명시의오랜숙원이자핵심공약사업인‘수색~광명고속철도건설사업’의기본계획이19일국토교통부고시로확정됐다. 수색~광",
+    "cluster_id": "4c89",
+    "publisher": "모닝투데이",
+    "title_clean": "광명시, 수색~광명 고속철도 건설 기본계획 확정 고시",
+    "summary": "광명시의 숙원사업인 '수색~광명 고속철도 건설사업'의 기본계획이 국토교통부 고시로 확정되었다. 대규모 철도 인프라 건설 프로젝트로 건설·기계설비 분야의 수주 기회 및 시장 확대가 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T22:24:03+09:00",
     "importance": 2
   },
   {
