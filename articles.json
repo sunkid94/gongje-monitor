@@ -21122,6 +21122,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“기후위기 서울, 재난 대응체계 근본적인 패러다임 전환 필요” - sedaily.com",
+    "link": "https://www.sedaily.com/article/20081110?ref=naver",
+    "description": "단순한 물품 지원을 넘어 침수방지 시설지원 확대, 무더위쉼터의 야간·24시간 확대 운영, 폭염 시 야외 근로자 및 건설 노동자의 휴식권 보장 등과 관련해 행정력이 미치지 못하던 사각지대를 발굴·보완할 계획이다....",
+    "published_at": "2026-08-19T23:21:00+09:00",
+    "cluster_id": "b4ee",
+    "publisher": "sedaily.com",
+    "title_clean": "“기후위기 서울, 재난 대응체계 근본적인 패러다임 전환 필요”",
+    "summary": "서울시가 기후위기 대응을 위해 침수방지 시설 지원 확대, 무더위쉼터 운영 확대, 야외·건설 노동자 휴식권 보장 등 재난 대응체계의 패러다임 전환을 추진 중이다. 이는 건설 현장의 안전 규제 강화 및 운영 제약으로 이어질 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T23:29:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32140,22 +32156,6 @@
     "publisher": "대한전문건설신문",
     "title_clean": "폭염 다음은 태풍·집중호우···건설현장 풍수해 대비 '비상'",
     "summary": "폭염 이후 태풍과 집중호우 등 풍수해 시즌을 맞아 건설현장의 안전관리 강화가 필요한 상황이다. 온열질환뿐 아니라 침수, 붕괴 등 풍수해로 인한 피해 예방이 건설업계의 주요 과제로 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T11:53:19+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울 동남권에 폭염주의보…시, 종합지원상황실 재가동 - news.kbs.co.kr",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637276&ref=A",
-    "description": "또 야외에서 작업하는 건설노동자 보호 대책도 시행됩니다. 충분한 휴식 시간 보장, 휴게 공간 마련 등을 권고하고 이행 여부를 점검할 방침입니다. 아울러 전광판, 웹사이트, 안전안내문자를 활용해 야외 활동 자제...",
-    "published_at": "2026-08-14T11:43:00+09:00",
-    "cluster_id": "24d7",
-    "publisher": "news.kbs.co.kr",
-    "title_clean": "서울 동남권에 폭염주의보…시, 종합지원상황실 재가동",
-    "summary": "서울 동남권의 폭염주의보에 따라 시가 종합지원상황실을 재가동하고 건설노동자 보호 대책을 시행합니다. 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검할 예정입니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:53:19+09:00",
     "importance": 4
