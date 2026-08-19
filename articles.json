@@ -5186,6 +5186,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[같이경제] ‘침체의 늪’ 건설업…지역 건설 생태계 ‘흔들’ - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640690&ref=A",
+    "description": "또, 포스코이앤씨를 제외하면 모두 40위권 밖이었습니다. 대구시도 대책을 내놨는데요. 500억 원 이상 공공공사는 공구 분할을 활성화하고, 천억 원 이상 공사는 공구분할 검토위원회를 도입합니다. 또, 대형 외지...",
+    "published_at": "2026-08-19T19:20:00+09:00",
+    "cluster_id": "6cbb",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "[같이경제] ‘침체의 늪’ 건설업…지역 건설 생태계 ‘흔들’",
+    "summary": "건설업 침체로 지역 건설 생태계가 흔들리고 있으며, 포스코이앤씨를 제외한 대형건설사들이 40위권 밖으로 밀려났다. 대구시는 공공공사 공구 분할 활성화 및 검토위원회 도입 등의 대책을 추진하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T19:34:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21104,22 +21120,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-11T17:04:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "공사비 급증에 가덕도 신공항 난항…대우건설의 고민 - it.chosun.com",
-    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167870",
-    "description": "이에 따라 시공 주관사인 대우건설의 고민도 커지고 있다. 11일 관련 업계 소식을 종합하면 대우건설과 가덕도신공항 컨소시엄 참여 지역 건설사들은 지난 10일 부산상공회의소에 모여 가덕도신공항 부지조성공사 현안...",
-    "published_at": "2026-08-11T16:58:00+09:00",
-    "cluster_id": "6414",
-    "publisher": "it.chosun.com",
-    "title_clean": "공사비 급증에 가덕도 신공항 난항…대우건설의 고민",
-    "summary": "가덕도 신공항 공사비 급증으로 시공사 대우건설과 컨소시엄 참여 지역 건설사들이 어려움을 겪고 있다. 건설업계는 공사비 증액 등 현안 해결을 위해 부산상공회의소에 모여 대응 방안을 논의 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T17:04:59+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
