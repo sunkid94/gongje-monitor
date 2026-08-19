@@ -21125,6 +21125,21 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "전북경제 ‘엇갈린 회복’…수출·생산 늘었지만 건설·소비 급랭 - 전라매일",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BdGpWUTBkbHRINXBpQ3M0eXZBZzdjRU1MUklIckdVeWlRMXlvSVMxOVg5Vi1RV1VhZ2JqbndUMHdRY0wzbHdCZjlRbTlKVEhEMWc?oc=5",
+    "description": "올해 2분기 전북경제가 수출과 생산을 중심으로 회복 흐름을 보였지만 건설과 내수 부진이 동시에 나타나면서 경기 회복의 온기가 지역경제 전반으로 확산하지 못한 것으로 나타났다.특히 수출이 두 자릿수 증가율을 기록하고",
+    "cluster_id": "f38b",
+    "publisher": "전라매일",
+    "title_clean": "전북경제 ‘엇갈린 회복’…수출·생산 늘었지만 건설·소비 급랭",
+    "summary": "전북경제가 수출·생산은 회복했으나 건설·소비 부진으로 경기 회복이 불균형하게 진행 중이다. 건설업계는 내수 침체의 영향으로 실적 부진이 계속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T22:49:01+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "올해 울산 건설사 42곳 폐업…8년 만에 최다 - news.kbs.co.kr",
     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641046&ref=A",
     "description": "건설경기 침체가 장기화하면서 올해들어 문을 닫은 울산의 건설업체가 8년 만에 가장 많았습니다. 건설산업지식정보시스템에 따르면 올들어 지난달 말까지 울산에서 폐업을 신고한 종합·전문건설업체는 모두...",
@@ -32143,21 +32158,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-14T11:53:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울 3일 만에 다시 폭염주의보 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10841481?ref=naver",
-    "description": "야외 작업으로 온열질환에 취약한 건설노동자 보호를 위한 대책도 시행한다. 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검한다. 폭염 피해 예방을 위한 시민행동요령도 적극 안내한다. 시 보유...",
-    "published_at": "2026-08-14T11:27:00+09:00",
-    "cluster_id": "11be",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "서울 3일 만에 다시 폭염주의보",
-    "summary": "서울에 폭염주의보가 발령되어 건설노동자 등 야외작업자 보호를 위한 대책을 시행한다. 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T11:43:11+09:00",
-    "importance": 4
   }
 ]
