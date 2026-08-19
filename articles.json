@@ -21243,6 +21243,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[고양특례시의회 25시]김미수 의장, ‘2026 고양특례시 의장기배 한마음 복식 탁구대회’ 참석 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41076",
+    "description": "[건설이코노미뉴스]고양특례시의회 김미수 의장이 지난 16일 고양어울림누리 체육관에서 열린 ‘2026 고양특례시 의장기배 한마음 복식 탁구대회’ 개회식에 참석해 개회를 축하하고 참가 선수단을 직접 격려했다.고양특례시체육회와 고양특례시탁구협회가 주최·주관한 이번 대회는 탁구 동호인 간의 친목을 다지고 지역 생활체육을 활성화하기 위해 마련됐으며, 관내 탁구 동호인들이 참가해 열띤 경기를 펼쳤다.이날 현장을 찾은 김미수 의장은 대회를 세심하게 준비한 고양특례시탁구협회 이구 회장을 비롯한 관계자들에게 감사를 전하며, 경기에 임하는 동호인들에",
+    "published_at": "2026-08-19T15:52:37+09:00",
+    "cluster_id": "b1a5",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[고양특례시의회 25시]김미수 의장, ‘2026 고양특례시 의장기배 한마음 복식 탁구대회’ 참석",
+    "summary": "고양특례시의회 김미수 의장이 '2026 고양특례시 의장기배 한마음 복식 탁구대회' 개회식에 참석해 지역 생활체육 활성화를 지원했다. 탁구 동호인들의 친목 도모와 지역 스포츠 진흥을 위한 행사로 관내 선수단이 참여해 경기를 펼쳤다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-19T15:54:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32129,20 +32145,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-13T21:16:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설현장 안전점검 및 온열질환 예방 캠페인 전개 - 뉴스N제주",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUS19WU0t6TEFtQ0NJYkJkUWNSWmZlcjl0ZFBKRTFLZGRnLVltM2ZMQW9ERk5FMWlDNmg4M09FUllTdWNxNmQ4WUdXcUVuWjBMM19WY1JTV2ItWE56UUdPNkVWbGhlYlJlYTVkNg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBUS19WU0t6TEFtQ0NJYkJkUWNSWmZlcjl0ZFBKRTFLZGRnLVltM2ZMQW9ERk5FMWlDNmg4M09FUllTdWNxNmQ4WUdXcUVuWjBMM19WY1JTV2ItWE56UUdPNkVWbGhlYlJlYTVkNg?oc=5\" target=\"_blank\">건설현장 안전점검 및 온열질환 예방 캠페인 전개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스N제주</font>",
-    "cluster_id": "f6ec",
-    "publisher": "뉴스N제주",
-    "title_clean": "건설현장 안전점검 및 온열질환 예방 캠페인 전개",
-    "summary": "건설현장의 안전점검과 온열질환 예방을 위한 캠페인이 전개되고 있다. 이는 건설업계의 안전관리 강화 및 근로자 보호를 위한 조치로, 규제 강화에 해당한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-13T21:16:31+09:00",
-    "importance": 4
   }
 ]
