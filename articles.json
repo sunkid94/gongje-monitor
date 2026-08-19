@@ -21139,6 +21139,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "반도체의 힘 … 충북 생산 27.8% `쑥' - cctimes.kr",
+    "link": "http://www.cctimes.kr/news/articleView.html?idxno=922565",
+    "description": "건설수주는 주택(-57.3백억원), 철도·궤도(-23.7백억원) 등이 줄었으나, 공장·창고(177.2백억원), 도로·교량(67.6백억원) 등이 늘어 전년동분기대비 164.8백억원 증가했다. 수출은 의약품(-6.4천만달러), 기타 음식료...",
+    "published_at": "2026-08-19T20:20:00+09:00",
+    "cluster_id": "f67c",
+    "publisher": "cctimes.kr",
+    "title_clean": "반도체의 힘 … 충북 생산 27.8% `쑥'",
+    "summary": "충북의 반도체 생산이 27.8% 증가하며 제조업 성장을 견인했다. 건설수주는 주택 감소에도 불구하고 공장·창고 등 산업용 건설이 늘어 전년동분기대비 164.8백억원 증가했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T20:29:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32145,20 +32161,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:13:36+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[투데이 포커스] \"블록 쌓듯 집 짓는다\" 中 모듈러 건축, 해외서 '인기' - 서울뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SdE1YVWJ5eHRHaGJLQTdRM0s2dTJWNGp2YWhYSThkLWhnYlk0LXk3QUdoSG5yRFYxWmNaUV9qQ0Q1NGxHTkNVZVhwNnpsaFA2cHlhdnZ4b2V4ek4zbWdLUF9OSVVwMzBMeFFJ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5SdE1YVWJ5eHRHaGJLQTdRM0s2dTJWNGp2YWhYSThkLWhnYlk0LXk3QUdoSG5yRFYxWmNaUV9qQ0Q1NGxHTkNVZVhwNnpsaFA2cHlhdnZ4b2V4ek4zbWdLUF9OSVVwMzBMeFFJ?oc=5\" target=\"_blank\">[투데이 포커스] \"블록 쌓듯 집 짓는다\" 中 모듈러 건축, 해외서 '인기'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울뉴스통신</font>",
-    "cluster_id": "4233",
-    "publisher": "서울뉴스통신",
-    "title_clean": "[투데이 포커스] \"블록 쌓듯 집 짓는다\" 中 모듈러 건축, 해외서 '인기'",
-    "summary": "중국의 모듈러 건축 기술이 해외에서 인기를 얻고 있으며, 블록을 쌓듯이 건설하는 방식으로 건설 효율성을 높이고 있다. 이는 한국 건설업계에 새로운 건축 방식의 시장 확대 가능성을 시사한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T11:13:36+09:00",
-    "importance": 2
   }
 ]
