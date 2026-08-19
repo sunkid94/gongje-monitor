@@ -5203,6 +5203,21 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 롯데케미칼 ‘묵은 빚’ 다 받았다…인니 프로젝트 미수금 ‘제로’ - 마켓인",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tUEJkRzl4VjRDaURDVUFCLVdPdHdndXZ6Mm4zYzBvSHRiNVBWcjhlWVRJLWlIMzVwWGwyQUoyNUNrQWJPeGM5V011M2l2cEJPYnVBalE4cE01UGtXNGdzSVgxMEdBMzJKQjNYTUdrMmJQdw?oc=5",
+    "description": "롯데건설이 5조원 규모의 롯데케미칼(011170) 인도네시아 ‘라인(LINE)’ 프로젝트의 공사 대금을 전액 정산받으며 ‘묵은 빚’을 말끔히 털어냈다. 같은 기간 다른 계열사발(發) 채권 규모가 20% 가까이 불어난 것과 뚜렷하게 대비되는 행보다. 건설업계 전반에 유동성 우려가 커진 가운데 초대형 해외 플랜트 사업장에서 완전 정산표를 끊으면서 롯데건설의 ...",
+    "cluster_id": "5915",
+    "publisher": "마켓인",
+    "title_clean": "롯데건설, 롯데케미칼 ‘묵은 빚’ 다 받았다…인니 프로젝트 미수금 ‘제로’",
+    "summary": "롯데건설이 인도네시아 라인 프로젝트(5조원 규모)의 롯데케미칼 미수금을 전액 정산받아 채권을 완전히 회수했다. 건설업계 전반의 유동성 악화 속에서 대형 해외 플랜트 사업의 정산 완료는 긍정적 신호로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T18:29:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21124,20 +21139,20 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현산 능곡5구역 근로자 사망…벌에 쏘인 뒤 치료 중 숨져 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2116147",
-    "description": "포쓰저널 이현민 기자 IPARK현대산업개발 신규 CI. /IPARK현대산업개발 IPARK현대산업개발이 시공하는 능곡5구역 주택재개발정비사업 공사현장에서 작업자가 벌에 쏘인 뒤 치료를 받다 숨지는 사고가 발생했다. 11일...",
-    "published_at": "2026-08-11T16:52:00+09:00",
-    "cluster_id": "9a69",
-    "publisher": "4th.kr",
-    "title_clean": "IPARK현산 능곡5구역 근로자 사망…벌에 쏘인 뒤 치료 중 숨져",
-    "summary": "IPARK현대산업개발이 시공 중인 능곡5구역 주택재개발정비사업 공사현장에서 근로자가 벌에 쏘인 뒤 치료 중 사망하는 사고가 발생했다. 건설현장의 안전 관리 문제를 드러내는 사건으로, 업계의 산업재해 리스크를 증대시킨다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-11T16:59:58+09:00",
-    "importance": 4
+    "title": "광주전남 지역 건설 노사 상생 모델 실천 첫 발 떼다 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41335",
+    "description": "아울러 건설노동자 자녀의 장학 지원도 이뤄졌다. 19일 오전 민주노총 건설노조 광주전남건설지부와 ㈜지형건설의 '노사 상생 업무협약 및 장학증서 수여식'이 전남광주통합특별시 시의회에서 열렸다. △무재해·책임 시공...",
+    "published_at": "2026-08-19T18:20:00+09:00",
+    "cluster_id": "db16",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "광주전남 지역 건설 노사 상생 모델 실천 첫 발 떼다",
+    "summary": "민주노총 건설노조 광주전남건설지부와 지형건설이 노사 상생 업무협약을 체결하고 건설노동자 자녀에 대한 장학금을 지원하였다. 무재해·책임 시공 등을 통해 건설업계의 협력 문화를 조성하는 첫 사례를 마련했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T18:29:02+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설 신기술",
@@ -32143,20 +32158,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-14T10:33:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "아산시 자율방재단, 폭염 취약현장 얼음물 지원…시민 안전 지킨다 - 뉴스충청인",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8xbEZpZUZ0Y0d4dExSUEJvTG1aeHF2Yi1KYk1hWk5ZRWduNks1TV83ZWNROFVmck0tX3FsOEZZYzhmZkZPNmc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE8xbEZpZUZ0Y0d4dExSUEJvTG1aeHF2Yi1KYk1hWk5ZRWduNks1TV83ZWNROFVmck0tX3FsOEZZYzhmZkZPNmc?oc=5\" target=\"_blank\">아산시 자율방재단, 폭염 취약현장 얼음물 지원…시민 안전 지킨다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스충청인</font>",
-    "cluster_id": "a295",
-    "publisher": "뉴스충청인",
-    "title_clean": "아산시 자율방재단, 폭염 취약현장 얼음물 지원…시민 안전 지킨다",
-    "summary": "아산시 자율방재단이 폭염 취약현장에 얼음물을 지원하여 시민 안전을 보호하고 있다. 건설현장 등 고위험 현장에서의 열사병 예방 활동으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-14T10:33:06+09:00",
-    "importance": 2
   }
 ]
