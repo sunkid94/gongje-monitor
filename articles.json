@@ -21122,6 +21122,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "올해 울산 건설사 42곳 폐업…8년 만에 최다 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641046&ref=A",
+    "description": "건설경기 침체가 장기화하면서 올해들어 문을 닫은 울산의 건설업체가 8년 만에 가장 많았습니다. 건설산업지식정보시스템에 따르면 올들어 지난달 말까지 울산에서 폐업을 신고한 종합·전문건설업체는 모두...",
+    "published_at": "2026-08-19T22:33:00+09:00",
+    "cluster_id": "e86c",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "올해 울산 건설사 42곳 폐업…8년 만에 최다",
+    "summary": "건설경기 침체로 올해 울산 건설업체 42곳이 폐업하며 8년 만에 최다 기록을 경신했다. 이는 건설산업 전반의 장기적 경기 부진이 중소 건설사들의 경영 악화로 이어지고 있음을 보여준다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T22:38:58+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32142,22 +32158,6 @@
     "summary": "서울에 폭염주의보가 발령되어 건설노동자 등 야외작업자 보호를 위한 대책을 시행한다. 충분한 휴식시간 보장, 휴게공간 마련 등을 권고하고 이행 여부를 점검할 예정이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:43:11+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "국힘, 8·13 부동산 대책에 \"재탕·숫자놀음\" - sisafocus.co.kr",
-    "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=363817",
-    "description": "정 원내대표는 \"지방 어디를 가더라도 미분양과 악성 미분양, 건설경기 침체가 심각하다\"고 말했다. 그는 6월 전국 미분양 주택 약 6만7000호 가운데 지방이 약 4만8000호로 72.2%를 차지한다고 설명했다. 정 원내대표는...",
-    "published_at": "2026-08-14T11:24:00+09:00",
-    "cluster_id": "92f6",
-    "publisher": "sisafocus.co.kr",
-    "title_clean": "국힘, 8·13 부동산 대책에 \"재탕·숫자놀음\"",
-    "summary": "국민의힘 원내대표가 정부의 8·13 부동산 대책을 '재탕'이라고 비판하며, 전국 미분양 주택의 72.2%가 지방에 집중되어 있고 건설경기 침체가 심각하다고 지적했다. 이는 부동산 정책의 실효성 부족을 드러내는 발언으로, 건설업계의 어려움이 지속되고 있음을 반영한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T11:33:16+09:00",
     "importance": 4
   }
 ]
