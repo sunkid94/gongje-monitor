@@ -21174,6 +21174,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'대전시 경제 왜 이래?'...소매판매 5.1% 급감 전국 최악 - tjb.co.kr",
+    "link": "https://www.tjb.co.kr/news05/bodo/view/id/102613",
+    "description": "대전 광공업 5.3% 감소에 건설수주 5,870억 급감, 20대 고용률도 3.9%p 하락 충남 수출 571억달러로 전국 증가액 2위, 세종은 물가 3.2%로 전국 상위권 대전 경제가 2분기 들어 생산과 소비, 건설에서 나란히...",
+    "published_at": "2026-08-19T17:38:00+09:00",
+    "cluster_id": "cda8",
+    "publisher": "tjb.co.kr",
+    "title_clean": "'대전시 경제 왜 이래?'...소매판매 5.1% 급감 전국 최악",
+    "summary": "대전 지역 경제가 2분기 소매판매 5.1% 급감, 광공업 5.3% 감소, 건설수주 5,870억 급감 등으로 전국 최악 수준의 부진을 기록했다. 건설 부문을 포함한 생산과 소비 전반에서 동시다발적 침체를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-19T17:44:00+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "수도권 주택공급 속도↑…공공택지·정비사업·PF 지원 - 폴리뉴스 Polinews",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83LWV6X3Q1WGFRUERuZW1BRENCMjJsdnFiT1RXV3ZNWUhhTC1TVFVyRW1SZVpsM1IxMDdOdWxUQXpfZkZWdkgxelplaHNNTVo0V2cyd19ISUVmVkgwX0ZIM0E2Zmh2UmZ3dlBWcjNn0gFyQVVfeXFMTVJUNU11b1ZnZzhpNjhDN1A2QV9obVBtWFNhYVB3MTljMHpTRG1STGFsSGN3ZF9VQWxvT1FwX2VCTmhQTTRRWWVPM3Nid0FoZk5BSVM4ZFEtd05jV2N0dE9Jc1VsMGVURGJza21ac1J5Yjh3?oc=5",
+    "description": "정부가 수도권 주택 공급 목표를 실제 착공으로 연결하기 위해 공공택지와 정비사업의 사업 기간을 줄이고 민간 주택사업의 자금 조달을 지원한다. 공공택지는 인허가와 보상을 병행하고 재건축·재개발은 갈등 조정과 금융 지원을 통해 사업 지연 요인을 줄인다.공공택지 사업기간 68개월→37개월국토교통부는 최근 김윤덕 장관 주재로 공공기관과 주택건설업계 간담회를 열고 8·13 주택 신속공급 방안의 후속 조치를 점검했다. 수도권",
+    "published_at": "2026-08-19T15:50:00+09:00",
+    "cluster_id": "67b5",
+    "publisher": "폴리뉴스 Polinews",
+    "title_clean": "수도권 주택공급 속도↑…공공택지·정비사업·PF 지원",
+    "summary": "정부가 공공택지 사업기간을 68개월에서 37개월로 단축하고, 재건축·재개발 사업의 금융 지원을 강화하며, 민간 주택사업의 자금 조달을 지원하기로 결정했다. 인허가·보상 병행 및 갈등 조정을 통해 수도권 주택공급을 가속화할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-19T17:44:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32119,37 +32151,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T08:36:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "전자대금지급 민간공사 의무화 혼선 우려 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325828",
-    "description": "건설현장의 고질적인 임금·하도급대금 체불을 막기 위해 전자대금지급시스템 사용 의무를 민간공사까지 확대하는 건설산업기본법 개정안이 국회 법제사법위원회를 통과해 본회의 상정을 앞두고 있다. 그러나 정부가 별도로 추진 중인 ‘차세대 전자대금지급시스템’ 구축은 법 시행 이후 1년이 지나서야 첫 시범운영에 들어갈 예정이어서, 그 사이 현장의 혼선이 불가피할 것이라는 우려가 나온다.국회는 지난 4월 전체회의에서 전자대금결제시스템 민간 확대를 위한 법안을 위원회 대안 의결했다. 법안은 지난 5월 법사위를 통과해 현재 본회의 상정을 기다리고 있으",
-    "published_at": "2026-08-14T08:00:00+09:00",
-    "cluster_id": "2fdd",
-    "publisher": "대한전문건설신문",
-    "title_clean": "전자대금지급 민간공사 의무화 혼선 우려",
-    "summary": "건설현장 체불 방지를 위해 전자대금지급시스템 사용을 민간공사까지 의무화하는 법안이 국회를 통과했다. 다만 정부의 차세대 시스템 구축이 법 시행 1년 후에야 시범운영되어 현장 혼선이 우려된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T08:02:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "자재·물품 설치시공 포함할 경우 무면허·무자격 불법하도급 조심 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325827",
-    "description": "정부가 최근 공정한 시장질서 확립을 위해 불법하도급 단속을 강화하면서 전문건설업계의 각별한 주의가 요구되고 있다.건설산업기본법상 불법하도급은 △무등록자 및 무자격자 하도급 △일괄하도급 △전문공사 하도급 △재하도급 △10억원 미만 공사 하도급 △상호시장 하도급 등 주요 유형 6가지로 규정하고 있다.연도별 불법하도급 유형별 처분 현황을 보면 △2025년 298건 △2024년 249건 △2023년 230건 △2022년 221건 △2021년 176건 등 매년 200건에서 300건 가까이 처분이 이뤄지고 있다. 이 중에서 무등록자 및 무자격",
-    "published_at": "2026-08-14T08:00:00+09:00",
-    "cluster_id": "74d8",
-    "publisher": "대한전문건설신문",
-    "title_clean": "자재·물품 설치시공 포함할 경우 무면허·무자격 불법하도급 조심",
-    "summary": "정부가 공정한 시장질서 확립을 위해 불법하도급 단속을 강화하고 있으며, 무등록자·무자격자 하도급 등 6가지 주요 유형에 대해 매년 200~300건 수준의 처분을 단행 중이다. 전문건설업계는 자재·물품 설치시공 포함 시 불법하도급에 해당할 수 있어 주의가 필요하다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T08:02:43+09:00",
-    "importance": 4
   }
 ]
