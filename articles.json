@@ -21088,6 +21088,22 @@
     "importance": 5
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부산진해경제자유구역청(BJFEZ), 폭염부터 태풍까지 무재해릴레이…건설... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608191022075460480",
+    "description": "특히 태풍·호우에 대한 철저한 대비가 필요한 시기인 만큼 이번 점검에서는 강풍·집중호우 피해 예방에 중점을 두고 건설현장 안전관리 실태를 집중적으로 살폈다. 부산진해경제자유구역은 해안지역에 위치한 대규모...",
+    "published_at": "2026-08-20T08:22:00+09:00",
+    "cluster_id": "3ad5",
+    "publisher": "대한경제",
+    "title_clean": "부산진해경제자유구역청(BJFEZ), 폭염부터 태풍까지 무재해릴레이…건설...",
+    "summary": "부산진해경제자유구역청이 건설현장 안전관리 강화를 위해 태풍·호우 피해 예방에 중점을 두고 집중 점검을 실시했다. 해안지역 대규모 건설현장의 안전 관리 체계를 철저히 점검하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T08:28:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32141,21 +32157,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T14:11:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전시교육청, 시설공사 현장 찾아 안전·청렴 점검 - 뉴스홈(newshome)",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53M1BqVVpYS1BUc0JUQ0JjMWVkakVjN3NhSjZSOXFLU1UtY3cyQTRJVk9IcWFleVVadURwU1RDV0tXV1dqazA4RkZCcW9iRDBnRkZicnFweFpwS2ltSGZIcWRYeDVKRkd1WGxOVnVB?oc=5",
-    "description": "대전시교육청은 오석진 교육감이 14일 대전체육고등학교 복합체육관 공사 현장을 방문해 공사 진행 상황과 안전수칙 이행 여부 등을 점검하고, 공사 관계자·민간명예감독관·교육청 관계자 등이 참석한 가운데 ‘시설 공사관계자 청렴·소통 현장 간담회’를 개최했다.이번 현장 점검은 시설공사의 안전",
-    "published_at": "2026-08-14T13:52:52+09:00",
-    "cluster_id": "e6b6",
-    "publisher": "뉴스홈(newshome)",
-    "title_clean": "대전시교육청, 시설공사 현장 찾아 안전·청렴 점검",
-    "summary": "대전시교육청이 대전체육고등학교 복합체육관 공사 현장을 점검하고 안전·청렴 간담회를 개최했다. 공사 진행 상황, 안전수칙 이행 여부 등을 확인하며 시설공사의 투명성과 안전관리를 강화하는 모습을 보였다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T14:11:48+09:00",
-    "importance": 4
   }
 ]
