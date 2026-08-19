@@ -21139,6 +21139,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "신안산선 광명구간 내달 공사 재개…포스코이앤씨·시·주민, 안전 책임 약속 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrMXVaNjdBWGp1TE1NakVwSEUtWTJWODNrTTBBOURSS1FEZVd0cVFUWU9kek1aRnlhR3RhZ0ZJd0hWSjZrZk1raVo0LWhWTktzeDd3Q1QwYkx4V3Z5dGk5VTFKRQ?oc=5",
+    "description": "매일일보 = 이혜경 기자 | 지난해 4월 붕괴 사고로 중단됐던 신안산선 복선전철 광명 구간 공사가 이르면 다음 달 재개될 예정이다.19일 광명시에 따르면 시는 전날 시청 중회의실에서 시민대표와 신안산선 시공사인 포스코이앤씨와 함께 ‘시민안전 공동선언식’을 열었다. 선언식에서는 공사 전 과정에서 시민이 직접 참여하고 안전성을 확인할 수 있는 안전관리 체계를 구축·운영하기로 뜻을 모았다.박승원 광명시장, 김광웅 시민 대표, 김대현 포스코이앤씨 신안산선 사업실장(송치영 포스코이앤씨 대표 대리)이 공동 선언문에 서명하고, 신안산선 완공까지",
+    "published_at": "2026-08-19T20:50:22+09:00",
+    "cluster_id": "a438",
+    "publisher": "매일일보",
+    "title_clean": "신안산선 광명구간 내달 공사 재개…포스코이앤씨·시·주민, 안전 책임 약속",
+    "summary": "신안산선 광명구간 공사가 지난해 4월 붕괴 사고 이후 다음 달 재개될 예정이다. 포스코이앤씨, 광명시, 시민대표가 공동선언식을 열어 공사 전 과정에 시민 참여와 안전관리 체계 구축을 약속했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-19T20:59:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32143,21 +32159,6 @@
     "publisher": "newspim.com",
     "title_clean": "서울 강남·서초·송파·강동 폭염주의보…시·자치구 취약계층 지원 강...",
     "summary": "서울 강남·서초·송파·강동 지역에 폭염주의보가 발령되며, 야외 작업 건설노동자의 온열질환 예방을 위해 휴식시간 보장 및 휴게공간 마련 등의 대책이 시행된다. 시는 취약계층 지원과 시민행동요령 안내를 강화할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T11:13:36+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남광토건 포항 현장서 중대재해…근로자 화상으로 사망 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhZlRKR2pyVzA4OWlwWlNkMDJCai1vZHhHRExkT000b2Z1aF90VHBoa0dYd3JOVUVPNGJQdDg2OXpTazFId2NsWlZ1RDVBTzJIYnloNzFQZmlFNVRO?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhZlRKR2pyVzA4OWlwWlNkMDJCai1vZHhHRExkT000b2Z1aF90VHBoa0dYd3JOVUVPNGJQdDg2OXpTazFId2NsWlZ1RDVBTzJIYnloNzFQZmlFNVRO?oc=5\" target=\"_blank\">남광토건 포항 현장서 중대재해…근로자 화상으로 사망</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
-    "cluster_id": "d1d3",
-    "publisher": "뉴스핌",
-    "title_clean": "남광토건 포항 현장서 중대재해…근로자 화상으로 사망",
-    "summary": "남광토건의 포항 건설 현장에서 근로자가 화상으로 인한 사망 사고가 발생했다. 이는 건설업계의 안전 관리 부실 문제를 드러내는 중대재해 사건이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:13:36+09:00",
     "importance": 4
