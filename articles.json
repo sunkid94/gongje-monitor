@@ -21088,6 +21088,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남재헌 해수부 차관, 20일 인천항 현장점검…신항 건설부터 복합테러 대응까지 - haesanews.com",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yY3p1ZDNjajYwb1pOUlluMVhxUWJEaE1sZ3VVWUdvOUVBQnV5eFB0aExiUmFwR2k0d0xrMEdGUmJQX0lBeDVGTGVzWFJvVm8yXzdDQ09fYUJSTHBXakJEcWJ2THZ6enFhTmFN?oc=5",
+    "description": "오전 인천신항 1-2단계 컨테이너부두 건설현장 점검…수도권 물동량 처리능력 확충 확인오후 연안여객부두서 사이버·물리적 복합테러 대응훈련 현장지도…항만 기능 유지·피해복구 체계 점검 남재헌 해양수산부 차관이 20일 인천항을 찾아 인천신항 컨테이너부두 건설사업 추진 상황과 국가중요시설인 인천항의 복합테러 대응태세를 잇달아 점검한다.해양수산부에 따르면 남 차관은 이날 오전 10시 40분 인천 연수구 선광신컨테이너터미널(SNCT)을 방문해 인천신항 운영현황을 살펴보고 인천신항 1-2단계 컨테이너부두 건설사업 추진 상황을 점검할 예정이다.이",
+    "published_at": "2026-08-20T07:30:00+09:00",
+    "cluster_id": "85f1",
+    "publisher": "haesanews.com",
+    "title_clean": "남재헌 해수부 차관, 20일 인천항 현장점검…신항 건설부터 복합테러 대응까지",
+    "summary": "남재헌 해수부 차관이 인천항을 방문하여 인천신항 1-2단계 컨테이너부두 건설사업 추진 상황을 점검하고, 항만의 복합테러 대응훈련을 지도한다. 수도권 물동량 처리능력 확충과 국가중요시설 보안 태세를 확인하는 일정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T07:38:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32141,22 +32157,6 @@
     "summary": "안전보건공단 제주지역본부와 고용노동청이 건설현장에 대한 안전점검을 실시했다. 이는 산업안전 강화를 위한 정부 차원의 감시 활동으로, 건설업계의 안전 규제가 강화되고 있음을 나타낸다.",
     "sentiment": "negative",
     "collected_at": "2026-08-14T14:01:16+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설현장 안전점검 및 온열질환 예방 캠페인 - DWBNEWS",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUeGt0YlBqRGRrOWlKZ25ud0lSTnZkaWRQd2JqbWt4ekFmdjcwNnF2aEtBUzJDR29nOFRqY1FHY1hsVmtWbHFjMEtJazEzMkowQzlUZEpsRGdzM2dIWGZBRDhmUlVRNzl5?oc=5",
-    "description": "광주지방고용노동청(청장 이도영) 제주산재예방감독팀, 한국산업안전보건공단제주지역본부(본부장 한정민)는 8월 12일 ㈜사닥다리종합건설 봉개동공공주택 건립사업 건설현장에서 “안전일터 조성의 날” 안전점검 및 캠페인을실시했다.이번 행사는 여름철 폭염에 노출되기 쉬운 옥외 노동자의 온열질환을예방과 건설현장에 추락, 화재·폭발, 붕괴 등 대형사고 예방을 위해 주요위험요인을 중점적으로 점검하였으며, 폭염안전 5대 기본수칙(물, 냉방장치,휴식, 보냉장구, 119 신고) 이행여부 확인 및 슬래브 단부 추락방호조치,낙하물 방호조치, 굴착면 경사각 및",
-    "published_at": "2026-08-14T13:33:07+09:00",
-    "cluster_id": "02ea",
-    "publisher": "DWBNEWS",
-    "title_clean": "건설현장 안전점검 및 온열질환 예방 캠페인",
-    "summary": "광주지방고용노동청과 한국산업안전보건공단이 제주의 건설현장에서 안전점검 및 온열질환 예방 캠페인을 실시했다. 폭염 안전수칙 이행 여부와 추락, 낙하물, 붕괴 등 주요 위험요인을 중점 점검하였다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T13:41:56+09:00",
     "importance": 4
   }
 ]
