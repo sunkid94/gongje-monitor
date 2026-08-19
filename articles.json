@@ -21088,6 +21088,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[인사] 국토교통부 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=325911",
+    "description": "◇과장급 전보=△주택기금과장 최병길 △항공보안정책과장 성은하 △도로건설과장 한성수 △도로관리과장 최아름 △철도운행안전과장 김혜진 △대도시권광역교통위원회 광역교통정책과장 문석준 △홍보담당관 김연희 △감사담당관 김영혜 △항공정책과장 정진훈",
+    "published_at": "2026-08-20T07:22:06+09:00",
+    "cluster_id": "ad5b",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[인사] 국토교통부",
+    "summary": "국토교통부에서 주택기금, 항공보안정책, 도로건설, 철도운행안전 등 9개 부서의 과장급 인사를 단행했다. 건설·교통 관련 주요 부서의 리더십 교체로 정책 방향 변화가 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T07:24:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32141,22 +32157,6 @@
     "summary": "광주지방고용노동청과 한국산업안전보건공단이 제주의 건설현장에서 안전점검 및 온열질환 예방 캠페인을 실시했다. 폭염 안전수칙 이행 여부와 추락, 낙하물, 붕괴 등 주요 위험요인을 중점 점검하였다.",
     "sentiment": "negative",
     "collected_at": "2026-08-14T13:41:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울 동남권 다시 폭염주의보…서울시, 신속 대응 체제 강화 - gokorea.kr",
-    "link": "https://www.gokorea.kr/news/articleView.html?idxno=875028",
-    "description": "아울러 야외에서 일하는 건설노동자를 보호하기 위해 충분한 휴식 시간 보장과 휴게 공간 마련 등의 조치를 권고하며, 이러한 조치의 이행 여부를 점검할 예정이다. 또한 전광판과 웹사이트, 안전안내문자를 통해...",
-    "published_at": "2026-08-14T13:18:00+09:00",
-    "cluster_id": "945f",
-    "publisher": "gokorea.kr",
-    "title_clean": "서울 동남권 다시 폭염주의보…서울시, 신속 대응 체제 강화",
-    "summary": "서울 동남권에 폭염주의보가 발령되어 서울시가 신속 대응 체제를 강화하고 있다. 건설노동자 보호를 위해 휴식 시간 보장, 휴게 공간 마련 등의 조치를 권고하고 이행 여부를 점검할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T13:31:49+09:00",
     "importance": 4
   }
 ]
