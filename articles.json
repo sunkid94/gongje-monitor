@@ -21277,6 +21277,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "친환경차 검사기준 따로 둔다…전기차 진단정보 제출 앞당겨 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37134",
+    "description": "국토부, 자동차관리법 시행규칙 개정안 입법예고신차 판매 10일 전 정보 제출…휠 너트·볼트 이탈도 부적합 판정 정부가 친환경차와 내연기관차의 자동차 검사기준을 나눠 관리한다. 전기차 배터리와 고전원전기장치 검사를 강화하기 위해 제작사가 내야 하는 진단정보의 제출 시기도 신차 판매 전으로 앞당긴다.국토교통부는 이런 내용을 담은 ‘자동차관리법 시행규칙’ 개정안을 20일부터 다음 달 30일까지 입법예고한다고 밝혔다.이번 개정안은 친환경차 보급이 늘면서 기존 내연기관차 중심 검사 체계를 손보는 데 초점을 맞췄다. 차량 구조와 주요 장치가",
+    "published_at": "2026-08-19T14:40:00+09:00",
+    "cluster_id": "8212",
+    "publisher": "한국건설신문",
+    "title_clean": "친환경차 검사기준 따로 둔다…전기차 진단정보 제출 앞당겨",
+    "summary": "정부가 친환경차와 내연기관차의 자동차 검사기준을 구분하여 관리하고, 전기차 배터리 등에 대한 검사를 강화한다. 제조사의 진단정보 제출 시기를 신차 판매 전으로 앞당기고 휠 너트·볼트 이탈도 부적합 판정 기준에 추가한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-19T15:26:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32124,21 +32140,6 @@
     "publisher": "경기in",
     "title_clean": "[경기in] 경기도의회 최수연 의원, 양주시 건설·교통 현안 및 공공입찰 점검 업무보고 받아",
     "summary": "경기도의회 최수연 의원이 양주시의 건설·교통 현안과 공공입찰 점검 업무보고를 받았다. 지역 건설·교통 사업에 대한 의회 차원의 감시 및 점검 활동이 진행되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T20:41:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 롯데칠성과 건설현장 온열질환 예방 캠페인 - 메트로신문",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPUU5tNnl2Q3pnNlNoNXNCeERoZGV3ZWM0UWpwMVVTeWk2QzYzcVA2ZjNncnptNlMydG5BMzlnVnNsNHJ2OHJmTG82VnJKMmpRSkVvLXdZOHFpWVJ5VUFSNQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPUU5tNnl2Q3pnNlNoNXNCeERoZGV3ZWM0UWpwMVVTeWk2QzYzcVA2ZjNncnptNlMydG5BMzlnVnNsNHJ2OHJmTG82VnJKMmpRSkVvLXdZOHFpWVJ5VUFSNQ?oc=5\" target=\"_blank\">한화 건설부문, 롯데칠성과 건설현장 온열질환 예방 캠페인</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메트로신문</font>",
-    "cluster_id": "f427",
-    "publisher": "메트로신문",
-    "title_clean": "한화 건설부문, 롯데칠성과 건설현장 온열질환 예방 캠페인",
-    "summary": "한화 건설부문이 롯데칠성과 함께 건설현장의 온열질환 예방을 위한 캠페인을 진행하고 있다. 건설업계의 안전 및 근로자 보건 증진을 위한 협력 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-13T20:41:42+09:00",
     "importance": 2
