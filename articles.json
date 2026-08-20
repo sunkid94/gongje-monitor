@@ -21181,6 +21181,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "“민간 건설공사 체불 없게”…‘직접지급’ 시스템 의무화 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642028&ref=A",
+    "description": "국토교통부는 이 같은 내용이 담긴 ‘건설산업기본법’과 ‘민간임대주택에 관한 특별법’ 개정안 등이 오늘(20일) 국회 본회의를 통과했다고 밝혔습니다. 공공에서 발주하는 공사는 전자대금지급시스템을 통해...",
+    "published_at": "2026-08-20T20:23:00+09:00",
+    "cluster_id": "2af8",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "“민간 건설공사 체불 없게”…‘직접지급’ 시스템 의무화",
+    "summary": "국토교통부가 건설산업기본법 등 개정안을 통과시켜 민간 건설공사에서 직접지급 시스템을 의무화하기로 결정했습니다. 이는 건설업체의 임금·자재비 체불 방지를 목표로 합니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-20T20:28:35+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서부발전 노사, 전국 사업소 폭염 현장서 ‘안전 동행’ 강화 - 투데이충남",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2QUc2eUFnUXVnajhJa1BZQUhGQm1KYVRnVFEwempwQ1huOWNxV0VIZThXejN3ejBlMElOSnBYU2RHQVNZd3NSV05oY2pUY3IzYWN3bXpmN25nM1IzSnkwZVMwN3VsY3RWdXdZT2t6Q1dFdw?oc=5",
+    "description": "[태안] 홍순만 기자 = 한국서부발전 노사가 폭염 속 발전소와 건설현장을 지키는 임직원과 협력사 근로자의 건강을 살피고 현장 중심의 안전문화 확산에 나섰다. 서부",
+    "published_at": "2026-08-20T14:08:13+09:00",
+    "cluster_id": "0f2e",
+    "publisher": "투데이충남",
+    "title_clean": "서부발전 노사, 전국 사업소 폭염 현장서 ‘안전 동행’ 강화",
+    "summary": "한국서부발전 노사가 폭염 속 발전소와 건설현장 근로자의 안전관리를 강화하고 있다. 현장 중심의 안전문화 확산을 통해 임직원과 협력사 근로자의 건강 보호에 나서고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T20:28:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32150,36 +32182,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-17T12:42:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전북자치도, 폭염 속 건설근로자 안전 총력 대응 > 뉴스 - 더코리아",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iWm1BdWpPQXNLV09VSEtIMmdydE1FY2N0SVA4LVEzYnZienVTTU91SF82T2pYTzFoR01qN2NibENwbjFvQ2RGRTZIeW4xQW44WnZaNk9jTU9oS3FWTzJQZFFnM250NmRlbFFoQ0JzblY?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9iWm1BdWpPQXNLV09VSEtIMmdydE1FY2N0SVA4LVEzYnZienVTTU91SF82T2pYTzFoR01qN2NibENwbjFvQ2RGRTZIeW4xQW44WnZaNk9jTU9oS3FWTzJQZFFnM250NmRlbFFoQ0JzblY?oc=5\" target=\"_blank\">전북자치도, 폭염 속 건설근로자 안전 총력 대응 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더코리아</font>",
-    "cluster_id": "e0ae",
-    "publisher": "더코리아",
-    "title_clean": "전북자치도, 폭염 속 건설근로자 안전 총력 대응 > 뉴스",
-    "summary": "전북자치도가 폭염 속 건설근로자의 안전을 위해 종합적인 대응 체계를 구축하고 있다. 이는 건설현장의 근로자 보호 강화로 안전 관리 기준이 높아지는 추세를 반영한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-17T12:37:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "진주시, 전문건설업계와 상생협력 간담회 가져 - newsgn.com",
-    "link": "https://www.newsgn.com/news/articleView.html?idxno=568100",
-    "description": "이번 간담회는 최근 중동전쟁의 여파로 인한 원자재의 가격 상승과 금리 인상, 건설경기 침체 등으로 어려움을 겪고 있는 지역 전문건설업계의 현장 목소리를 직접 청취하고, 실질적인 지원과 지역 경제의 활성화 방안을...",
-    "published_at": "2026-08-17T12:20:00+09:00",
-    "cluster_id": "9f12",
-    "publisher": "newsgn.com",
-    "title_clean": "진주시, 전문건설업계와 상생협력 간담회 가져",
-    "summary": "진주시가 원자재 가격 상승, 금리 인상, 건설경기 침체로 어려움을 겪고 있는 지역 전문건설업계와 간담회를 개최했다. 건설업계의 현장 목소리를 청취하고 실질적 지원 방안을 모색하는 자리다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-17T12:22:57+09:00",
-    "importance": 2
   }
 ]
