@@ -21198,6 +21198,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "울산 국회의원 대표발의 법안 잇따라 통과 - ksilbo.co.kr",
+    "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065075",
+    "description": "진보당 원내대표 윤종오(울산 북구) 의원이 대표 발의한 '건설산업기본법' 개정안 역시 이날 국회 본회의를 통과했다. 개정안은 발주자부터 건설노동자, 자재·장비업자로 이어지는 대금 지급 흐름을 전산화해 다단계...",
+    "published_at": "2026-08-21T00:02:00+09:00",
+    "cluster_id": "20d6",
+    "publisher": "ksilbo.co.kr",
+    "title_clean": "울산 국회의원 대표발의 법안 잇따라 통과",
+    "summary": "울산 국회의원이 발의한 건설산업기본법 개정안이 국회를 통과했으며, 건설대금 지급 흐름을 전산화하여 투명성을 강화하는 내용을 담고 있다. 이는 건설업계의 지급 구조 개선을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T00:08:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32166,22 +32182,6 @@
     "title_clean": "광양 플랜트건설노조, 임단협 첫 무분규 타결…11차례 교섭 끝 합의",
     "summary": "광양 플랜트건설노조가 11차례 교섭 끝에 임금협상을 무분규로 타결했다. 전 직종 임금 일괄 인상 등 5개 조항을 포함한 합의안이 도출되었으며, 지역경기 침체 속에서도 노사가 대화를 통해 합의점을 찾았다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-17T16:08:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "영동양수 건설현장 노사 합동점검…고위험 작업 집중 점검 - 충북일보",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4bFUwSXB6aVJMVFVJeC1PRkNGZldUcnAtc2RSUmF2bUF0bGRVTHBTNjBodW5PX0xiQ2NEZ2htTmFPalNEV2ZNNll5M3RkUlFxVjR0MHNCU2wwZmtlZWFQeDN3?oc=5",
-    "description": "［충북일보］ 영동양수발전소 건설현장의 위험요인을 줄이기 위해 노사가 함께 현장 점검에 나섰다. 관리자가 안전수칙 준수 여부를 확인하는 데 그치지 않고 근로자 측이 직접 참여해 위험요인을 찾고 개선책을 논의했다. 영동양수건설소는 지난 13일 김선신 건설소장과 김재현 지부 노조위원장 등 노사 관계자들이 참여한 가운데 양수발전소 건설현장에서 합동 안전점검을 실",
-    "published_at": "2026-08-17T16:02:16+09:00",
-    "cluster_id": "1fbb",
-    "publisher": "충북일보",
-    "title_clean": "영동양수 건설현장 노사 합동점검…고위험 작업 집중 점검",
-    "summary": "영동양수발전소 건설현장에서 노사가 함께 안전점검을 실시하여 고위험 작업을 집중 점검했다. 관리자의 일방적 점검을 넘어 근로자가 직접 참여해 위험요인을 발굴하고 개선방안을 논의하는 협력적 안전관리 체계를 구축했다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-17T16:08:10+09:00",
     "importance": 2
   }
