@@ -21198,6 +21198,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 경기 불황에 찬물맞은 철 스크랩 시장, 향후 방향은? - 스틸데일리",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDR2h3ZkRqT0ZBZGVrd0J4OVVubVgtZjZ3Z3E3U205Y2dzU2VvTUV0U2hJNkRlOGY0cFIzVUJNcEdxRUJraGFDWDFjQWVuOVgyWVBzYkgwX2M2eUhjQUowUVRyeDIyX3NFMFF5M1R1ZUHSAXRBVV95cUxNb2Fpd2NYQm1WRFU1aTJGZWQ3ZWV1c3RFZHlKOEgwQmxGUFdYM1NwOXRsbWQydG9lMC0tSFVYb2FCQXppVEVtRDNhUkZQbjhpVWlDMXgwYlF2OE44TUhwNVhfQWpLRUZtTXMxTU96NkRsM0RJNw?oc=5",
+    "description": "스틸앤스틸의 유튜브 채널 철강TV에서 ‘건설 경기 불황에 찬물맞은 철 스크랩 시장, 향후 방향은?’라는 주제의 영상이 업로드됐다.해당 영상에서는 국제 철 스크랩 가격 약세와 철근 경기 부진이 이어지는 가운데 현대제철의 철근 추가 감산에 따른 철 스크랩 소비 감소와 다른 제강사로의 감산 확대 가능성, 추가 가격 인하 전망과 시중 유통량 변화 등 최근 철 스크랩 시장의 흐름을 살펴봤다.",
+    "published_at": "2026-08-20T18:45:00+09:00",
+    "cluster_id": "a280",
+    "publisher": "스틸데일리",
+    "title_clean": "건설 경기 불황에 찬물맞은 철 스크랩 시장, 향후 방향은?",
+    "summary": "건설 경기 불황으로 인한 철근 수요 부진이 철 스크랩 시장에 부정적 영향을 미치고 있다. 현대제철의 철근 감산으로 스크랩 소비가 감소하고 있으며, 다른 제강사들의 감산 확대와 추가 가격 인하가 예상되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-20T23:03:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32168,21 +32184,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-17T15:38:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "정기국회 앞둔 대전·충남 국회의원들, 지역 현안·핵심 입법 '총력' - jbnews.com",
-    "link": "https://www.jbnews.com/news/articleView.html?idxno=1509556",
-    "description": "지방 미분양과 건설경기 침체에 대한 실효성 있는 대책, 무주택 서민 주거안정 정책, 주택도시기금 운용 실태 점검도 함께 추진할 계획이다. 문체위 소속 윤용근(국민의힘 ·충남 공주 부여 청양)의원은 이장·통장의 처우...",
-    "published_at": "2026-08-17T15:22:00+09:00",
-    "cluster_id": "1b7a",
-    "publisher": "jbnews.com",
-    "title_clean": "정기국회 앞둔 대전·충남 국회의원들, 지역 현안·핵심 입법 '총력'",
-    "summary": "대전·충남 국회의원들이 정기국회를 앞두고 지방 미분양 해소와 건설경기 침체 대책, 무주택 서민 주거안정 정책 등을 추진할 계획이다. 주택도시기금 운용 실태 점검도 함께 진행할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-17T15:28:24+09:00",
-    "importance": 2
   }
 ]
