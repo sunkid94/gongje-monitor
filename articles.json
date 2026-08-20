@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "에너지공단, 지붕태양광 보험료 최대 50% 지원 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479216",
+    "description": "최재관 한국에너지공단 이사장(중앙)과 이명순 서울보증보험 사장(왼쪽), 이재완 엔지니어링공제조합 이사장이 지난 20일 공단 서울지역본부에서 '지붕 태양광 보증보험료등 지원사업 업무협약식'을 갖고 기념촬영하고...",
+    "published_at": "2026-08-21T08:24:00+09:00",
+    "cluster_id": "2f4f",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "에너지공단, 지붕태양광 보험료 최대 50% 지원",
+    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 함께 지붕태양광 설치 시 보증보험료를 최대 50% 지원하는 사업을 추진한다. 재정적 부담을 줄여 태양광 보급을 확대하려는 취지다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-21T08:28:18+09:00",
+    "event_label": "엔지니어링공제조합 지붕태양광 보증보험료 지원사업 업무협약",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5355,6 +5372,38 @@
     "collected_at": "2026-07-22T10:15:01+09:00",
     "event_label": "대한기계설비건설협회 AI 데이터센터 현장 점검 및 산업 활성화 정책 발굴",
     "importance": 5
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[속보] 두산에너빌리티, 9281억원 규모 오만 발전 프로젝트 공사 수주 - cbci.co.kr",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599868",
+    "description": "두산에너빌리티가 오만에서 9281억3647만원 규모의 'Misfah Independent Power Project' 공사를 수주했다고 밝혔다. 계약금액은 9281억3646만6540원으로, 2025년 말 연결재무제표 기준 최근 매출액...",
+    "published_at": "2026-08-21T08:22:00+09:00",
+    "cluster_id": "de5b",
+    "publisher": "cbci.co.kr",
+    "title_clean": "[속보] 두산에너빌리티, 9281억원 규모 오만 발전 프로젝트 공사 수주",
+    "summary": "두산에너빌리티가 오만에서 약 9281억원 규모의 'Misfah Independent Power Project' 발전소 건설 공사를 수주했다. 이는 건설업계의 해외 수주 증가로 긍정적인 신호를 나타낸다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T08:28:18+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 9281억원 규모 공급계약 체결 - 데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TcUE3T0pQTnBIY05FZmRSRmFUU0VJeXhPX1BnOHFoMUcxekJydkstU2RwcC1pUXdsZ2YwQXE0dmJ3b3FoY212ekxMaHgycWQxUTFDeEdIZ295eTdFWmd2cnBCTExiR09XSVVIRF9WcEpjUEk?oc=5",
+    "description": "두산에너빌리티는 21일 Jabel Power SAOC와 9281억3646만원 규모의 공급계약을 체결했다고 공시했다. 계약 내용은 Misfah Independent Power Project 공급계약이다.계약기간은 2026년 8월 20일부터 2029년 4월 1일까지 총 공급기간은 955일이",
+    "published_at": "2026-08-21T08:18:19+09:00",
+    "cluster_id": "87b0",
+    "publisher": "데이터투자",
+    "title_clean": "두산에너빌리티, 9281억원 규모 공급계약 체결",
+    "summary": "두산에너빌리티가 Jabel Power SAOC와 약 9281억원 규모의 Misfah Independent Power Project 공급계약을 체결했다. 계약 기간은 2026년 8월부터 2029년 4월까지 약 955일간 진행될 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T08:28:18+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21268,38 +21317,6 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[경쟁 실종, 선별수주 시대]④ 광명 하안주공, 13조원 규모 12개 단지 시... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101810218690497",
-    "description": "통합재건축을 추진하는 6ㆍ7단지는 겐슬러와 손잡은 IPARK현대산업개발이, 9단지는 DL이앤씨가 각각 유력한 것으로 분석된다. 3ㆍ4단지에 이어 두 번째로 큰 10ㆍ11단지 역시 GS건설과 롯데건설이 활발히 움직이며...",
-    "published_at": "2026-08-13T05:22:00+09:00",
-    "cluster_id": "b722",
-    "publisher": "대한경제",
-    "title_clean": "[경쟁 실종, 선별수주 시대]④ 광명 하안주공, 13조원 규모 12개 단지 시...",
-    "summary": "광명 하안주공 13조원 규모 12개 단지 통합재건축에서 현대산업개발, DL이앤씨, GS건설, 롯데건설 등 대형 건설사들이 경쟁적으로 수주를 노리고 있다. 대규모 재건축 프로젝트를 두고 건설사들의 활발한 움직임이 이어지는 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T05:29:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "LNG 연료선 수주잔량 韓 압도하는 中조선업계…\"韓과 기술격차 축소는 기정사실\" - 스트레이트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05UnBYTjBMLTNwMVJ4ZkowN1BrR2pGR1o2dUdCc3JtVkdZMEN0MlBNVjRXYzRWOEg5T1BzU21MaEhOWXRIejlrRnF3dEVSNzNRbmNsZi1PbF9VTGEzSFpBOUQwR0Y5VGd1cFdjYjdPNldzUVk?oc=5",
-    "description": "중국 조선업이 막대한 수주잔량을 바탕으로 세계 시장에서 영향력을 확대하고 있다. 대표적인 고부가 선종인 LNG운반선에서는 한국이 여전히 우위를 유지하고 있지만 LNG 연료 사용 가능 선박 전체로 범위를 넓히면 중국의 수주잔량이 척수 기준 한국의 2배를 넘어섰다. 한중 기술격차도 크지 않다는 평가가 나오면서 K조선의 고부가 선박 경쟁력에도 경고음이 커지고 있다.12일 삼성중공업이 제공한 클락슨리서치 자료에 따르면 지난 7월 기준 세계 선박 수주잔량은 2억1175만CGT(표준화물선환산톤수)로 집계됐다. 중국은 1억4022만CGT로 전체",
-    "published_at": "2026-08-12T16:46:20+09:00",
-    "cluster_id": "6791",
-    "publisher": "스트레이트뉴스",
-    "title_clean": "LNG 연료선 수주잔량 韓 압도하는 中조선업계…\"韓과 기술격차 축소는 기정사실\"",
-    "summary": "중국 조선업이 LNG 연료선 전체 수주잔량에서 한국의 2배 이상을 확보하며 영향력을 확대하고 있다. 한중 기술격차도 축소되고 있어 K조선의 고부가 선박 경쟁력이 위협받고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-13T02:29:52+09:00",
-    "importance": 4
-  },
-  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32175,21 +32192,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-18T06:08:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "“삽 뜰 때부터 돈 때문에 휘청”…부동산 PF대출 연체율 10년래 최고 - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12129754",
-    "description": "건설 경기 침체 장기화에 금융권 1분기 연체율 4.65% 증권사 30.4%로 가장 높아 고정이하여신 비율도 상승 건설경기 침체가 장기화하면서 금융권 부동산 프로젝트파이낸싱(PF) 대출 연체율이 약 10년 만에 최고...",
-    "published_at": "2026-08-18T06:02:00+09:00",
-    "cluster_id": "519a",
-    "publisher": "mk.co.kr",
-    "title_clean": "“삽 뜰 때부터 돈 때문에 휘청”…부동산 PF대출 연체율 10년래 최고",
-    "summary": "건설경기 침체 장기화로 부동산 PF대출 연체율이 10년래 최고 수준을 기록했으며, 금융권 평균 연체율은 4.65%, 증권사는 30.4%에 달했다. 고정이하여신 비율도 함께 상승하고 있어 건설업계의 자금 조달 어려움이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T06:08:37+09:00",
-    "importance": 5
   }
 ]
