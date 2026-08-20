@@ -5100,6 +5100,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[게시판] 팀스파르타, 폐쇄망 코딩 에이전트 'AX 포트리스' 시연 등 단신 - aitimes.com",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214155",
+    "description": "이번 행사는 'AI, 현장에 착륙하다'를 주제로 두산에너빌리티, 한국앤컴퍼니, HD현대, 삼성전자 등 주요 기업이 참여해 산업 현장에서 피지컬 AI를 적용하며 AI 주권을 실현해 나가는 사례와 전략을 공유한다. 현장에는...",
+    "published_at": "2026-08-20T17:44:00+09:00",
+    "cluster_id": "0727",
+    "publisher": "aitimes.com",
+    "title_clean": "[게시판] 팀스파르타, 폐쇄망 코딩 에이전트 'AX 포트리스' 시연 등 단신",
+    "summary": "팀스파르타가 폐쇄망 코딩 에이전트 'AX 포트리스'를 시연했으며, 두산에너빌리티, 한국앤컴퍼니, HD현대, 삼성전자 등 주요 기업이 참여한 행사에서 산업 현장에 AI를 적용하는 사례와 전략을 공유했다. AI 기술을 통해 건설·제조 현장의 디지털화와 스마트화를 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T17:48:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21027,20 +21043,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 신기술",
+    "category": "신기술",
     "is_company": false,
-    "title": "공사비 인상에 재개발 조합·건설사 갈등 격화 - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=739967",
-    "description": "대우건설과 조합은 2018년 3697억원으로 합의했던 공사비를 7871억원으로 변경했다. 기존 계약금액보다 4174억원 늘어난 규모다. 사업이 장기간 지연된 데다 사업계획 변경 등이 이어지면서 초기 계약금액과 실제 공사비...",
-    "published_at": "2026-08-12T16:51:00+09:00",
-    "cluster_id": "5931",
-    "publisher": "polinews.co.kr",
-    "title_clean": "공사비 인상에 재개발 조합·건설사 갈등 격화",
-    "summary": "대우건설과 재개발조합이 2018년 합의한 공사비 3697억원을 7871억원으로 변경하면서 4174억원의 공사비 추가 인상으로 갈등이 심화하고 있다. 사업 지연과 계획 변경으로 인한 원가 상승이 원인으로, 건설업체와 조합 간 분쟁이 장기화될 가능성이 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-12T16:59:38+09:00",
-    "importance": 4
+    "title": "[e포토]한국가스공사, 2026년 을지훈련 실시 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41086",
+    "description": "[건설이코노미뉴스]한국가스공사는 19일 을지연습 국가중요시설 방호 및 화재대응 훈련으로 가스공사 인천기지본부에서 17보병사단, 연수경찰서, 송도소방서를 비롯한 관계기관이 참여한 가운데 동력패러글라이더 테러 진압 및 추락에 의한 화재, 위험물 누출 대응 등 종합방재훈련을 실시했다고 밝혔다.",
+    "published_at": "2026-08-20T17:46:38+09:00",
+    "cluster_id": "a7f9",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[e포토]한국가스공사, 2026년 을지훈련 실시",
+    "summary": "한국가스공사가 을지훈련의 일환으로 인천기지본부에서 관계기관들과 함께 종합방재훈련을 실시했다. 동력패러글라이더 테러 대응, 화재, 위험물 누출 등 다양한 상황을 가정한 훈련으로 국가중요시설 방호 능력을 점검했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T17:48:48+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설 신기술",
@@ -32146,22 +32162,6 @@
     "summary": "경기도의회 김성태 의원이 용인시 처인구 이동읍 일대를 현장점검하여 지방도 318호선 도로 재포장 및 보행환경 개선을 주민들과 함께 요구했다. 이는 지역 도로 인프라 개선 관련 정치활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-16T11:52:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "철강업계, AI 데이터센터 수요로 반등 모색한다 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zSEExaUZFY0JYclFtN1h2SWpKZVhHanBvU1BpZGozQjFrQjZRNERnSmxhTDNCM0RpdGp0alJjSHdqbG85dEpERGdwSnBHLS05cjRN?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이데일리 이수빈 기자] 국내 건설 경기 부진과 중국산 저가 철강재 유입으로 고전을 겪어온 철강업계가 하반기 AI 데이터센터와 전력 인프라를 새로운 수요처로 삼아 반등을 모색하고 있다. 건설용 철강재 수요가 좀처럼 살아나지 않는 상황에 데이터센터향 철",
-    "published_at": "2026-08-16T10:02:00+09:00",
-    "cluster_id": "9db3",
-    "publisher": "네이트",
-    "title_clean": "철강업계, AI 데이터센터 수요로 반등 모색한다",
-    "summary": "국내 철강업계가 건설 경기 부진과 중국산 저가 제품 유입으로 어려움을 겪고 있는 가운데, AI 데이터센터와 전력 인프라 수요를 새로운 성장 동력으로 모색 중이다. 건설용 철강재 대신 데이터센터향 철강재 수요 확대를 통해 하반기 반등을 시도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-16T10:12:48+09:00",
     "importance": 2
   }
 ]
