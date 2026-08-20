@@ -21198,6 +21198,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "영산대, 코코드론과 양산 '드론 관광' 만든다 - gnmaeil.com",
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=593156",
+    "description": "와이즈유 영산대학교 경남앵커사업단과 스마트건설교통공학과가 양산 원도심의 역사와 문화를 최신 드론 기술과 융합해 새로운 관광 콘텐츠로 재탄생시킨다. 영산대는 최근 '양산시 지역 관광자원 발굴 민관산학...",
+    "published_at": "2026-08-20T21:46:00+09:00",
+    "cluster_id": "48ad",
+    "publisher": "gnmaeil.com",
+    "title_clean": "영산대, 코코드론과 양산 '드론 관광' 만든다",
+    "summary": "영산대학교가 양산시와 협력하여 드론 기술을 활용한 관광 콘텐츠 개발 사업을 추진한다. 원도심의 역사·문화 자원을 드론 촬영 및 기술과 융합하여 새로운 관광 상품을 창출하는 프로젝트다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T21:48:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32167,21 +32183,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-17T13:38:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설경기 침체 속 PF 대출 연체율 10여년 만에 '최고치' - 중도일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Uajh3Nk1IekNVRkxaTUZnNDhWaktZTC1rWXEwMjN5NEJ3V00xTW5RVHdtSU9kSE9OYk1KMDdXLWtVTWwxcEJXaEI4elBWeU8xMklBWGVZdmR1eVNYa3k1WnFQaWY?oc=5",
-    "description": "건설 경기 침체 속에 금융권 부동산 프로젝트파이낸싱(PF) 대출 연체율이 10여 년 만에 가장 높은 수준으로 치솟았다. PF 대출 잔액과 전체 위험노출(익스포저)은 계속 줄고 있지..",
-    "published_at": "2026-08-17T13:21:46+09:00",
-    "cluster_id": "3c62",
-    "publisher": "중도일보",
-    "title_clean": "건설경기 침체 속 PF 대출 연체율 10여년 만에 '최고치'",
-    "summary": "건설 경기 침체로 인해 금융권의 PF 대출 연체율이 10여 년 만에 최고 수준으로 상승했다. PF 대출 잔액과 전체 위험노출은 감소 추세이나 연체 심화가 업계의 자금 조달 어려움을 시사한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T13:28:12+09:00",
-    "importance": 4
   }
 ]
