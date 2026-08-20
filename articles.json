@@ -21147,6 +21147,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[단독] 정진혁 철도공단 이사장 내정자, 9월 1일 취임 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Mb1FMOUgtNWNjOWpxb2FBX1lDcDRQX1hpU0NUNkhITkNjSFBPSm9ibkUwYjM0V2ZyLTN5Vmp4cm9MRkFPWURmYk9ZRjZhWEtqRmZhbzlWdTRlbU1JUHNtb2JKNDE?oc=5",
+    "description": "국가철도공단 신임 이사장으로 정진혁 연세대 도시공학과 교수가 내정, 다음달 1일 취임한다. 최종 후보군에 올랐지만, 인사 검증 절차가 늦어지면서 예정보다 늦게 부임한다는 진단이다. 관가와 관계기관에 따르면 국토교통부는 철도공단에 정진혁 교수를 신임 이사장으로 낙점했다는 공문을 오늘(20일) 보냈다. 철도공단 이사장 공모에는 19명이 지원했다. 이후 최종 후보 3인에 정진혁 교수와 함께 철도공단 전 부이사장 A씨와 과학기술정보통신부 출신 고위공무원 B씨가 오른 것으로 알려졌다. 이 가운데 정진혁 교수는 신규 철도건설 추진 동",
+    "published_at": "2026-08-20T19:43:31+09:00",
+    "cluster_id": "5680",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "[단독] 정진혁 철도공단 이사장 내정자, 9월 1일 취임",
+    "summary": "정진혁 연세대 도시공학과 교수가 국가철도공단 신임 이사장으로 내정되어 9월 1일 취임한다. 신규 철도건설 추진에 관심 있는 인물로, 19명 지원 중 최종 3인 후보 중 선정되었으며 인사 검증 절차로 예정보다 늦게 부임하게 되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T19:58:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32162,21 +32178,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-17T10:47:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "박칠성 서울시의회 도시안전건설위원장 “땅속 공동부터 노후 교량까지… 현장서 답 찾는 안전 시정 펼치겠다” - 데일리한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00NERCTjg5bndQLXhtSVdrZHN0VjJHV2F3VENYNjEwOHR3WnhxSW9HRUllNVlKNURlUTRFb0hLTzAyTF9lU3dMZFpzWm9TVEdoYzFsMWlfRTJ4XzRIWm1vSmpRalVzandXa0JIWTQ2Z9IBc0FVX3lxTE44cTFwZlpsT0tYVU4xTzBfZ3ExQ240NEpZRjFwS3hfUEQ4aE1JUDlTcFNfN0hBUjR4NXN5MS1idWtkV3NqakNhYmZrcVBmSlFNaEEtUnpYOW1mYkgtRE0zZy1POGxTT3VabDd2T1ZtTmc4NGc?oc=5",
-    "description": "[데일리한국 유충상 기자]“서울 전역의 노후화된 도로와 지하 공간, 공사 현장을 직접 발로 뛰며 위험 요인을 정밀 타격하겠다.”제12대 서울시의회 전반기 도시안전건설위원회를 이끌게 된 박칠성 위원장(더불어민주당·구로4)의 의정 철학은 다름 아닌",
-    "published_at": "2026-08-17T08:33:00+09:00",
-    "cluster_id": "76c7",
-    "publisher": "데일리한국",
-    "title_clean": "박칠성 서울시의회 도시안전건설위원장 “땅속 공동부터 노후 교량까지… 현장서 답 찾는 안전 시정 펼치겠다”",
-    "summary": "박칠성 서울시의회 도시안전건설위원장이 노후 도로, 지하 공간, 공사 현장 등에 대한 안전 점검을 강화하겠다고 발표했습니다. 현장 중심의 안전 시정을 추진할 방침입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T10:37:53+09:00",
-    "importance": 4
   }
 ]
