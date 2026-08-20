@@ -3,6 +3,23 @@
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "에너지공단, 서울보증보험·엔지니어링공제조합과 지붕 태양광 발전사업... - gasnews.com",
+    "link": "https://www.gasnews.com/news/articleView.html?idxno=126445",
+    "description": "한국에너지공단(이사장 최재관, 이하 '공단')은 서울보증보험(사장 이명순), 엔지니어링공제조합(이사장 이재완)과 8월 20일, 공단 서울지역본부에서 '지붕 태양광 보증보험료등 지원사업 업무협약(MOU)'을 체결했다....",
+    "published_at": "2026-08-21T08:46:00+09:00",
+    "cluster_id": "b1c4",
+    "publisher": "gasnews.com",
+    "title_clean": "에너지공단, 서울보증보험·엔지니어링공제조합과 지붕 태양광 발전사업...",
+    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 지붕 태양광 발전사업의 보증보험료 지원을 위한 업무협약을 체결했다. 이는 소규모 태양광 사업자의 진입장벽을 낮추기 위한 지원 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T08:48:12+09:00",
+    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 업무협약",
+    "importance": 5
+  },
+  {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "에너지공단, 지붕태양광 보험료 최대 50% 지원 - pinpointnews.co.kr",
     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479216",
     "description": "최재관 한국에너지공단 이사장(중앙)과 이명순 서울보증보험 사장(왼쪽), 이재완 엔지니어링공제조합 이사장이 지난 20일 공단 서울지역본부에서 '지붕 태양광 보증보험료등 지원사업 업무협약식'을 갖고 기념촬영하고...",
@@ -32175,22 +32192,6 @@
     "summary": "정부의 8.13 부동산 대책이 발표됨에 따라 건축설계 및 CM 업계에서는 고금리와 경기 침체로 위축되었던 용역 발주 시장이 단계적으로 회복될 것으로 기대하고 있다. 업계에서는 이번 대책을 긍정적으로 평가하며 시장 활성화 가능성에 주목하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-18T06:28:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "서한 주식병합 절차로 거래 일시 중단, 9월 1일 재개 예정 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02148406645548632",
-    "description": "다만 주식병합만으로 기업의 실적이나 본질적인 가치가 개선되는 것은 아니며 향후 주가는 건설경기와 신규 수주, 재무성과 등에 따라 결정된다. 거래정지 기간은 이달 12일부터 31일까지다. 주식병합 효력은 지난 14일...",
-    "published_at": "2026-08-18T06:03:00+09:00",
-    "cluster_id": "216d",
-    "publisher": "edaily.co.kr",
-    "title_clean": "서한 주식병합 절차로 거래 일시 중단, 9월 1일 재개 예정",
-    "summary": "서한이 주식병합 절차를 진행하며 12월 12일부터 31일까지 거래를 일시 중단하고 9월 1일 재개할 예정이다. 다만 주식병합 자체는 기업의 실적이나 본질적 가치를 개선하지 못하며, 향후 주가는 건설경기와 신규 수주, 재무성과 등에 따라 결정될 것으로 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-18T06:08:37+09:00",
     "importance": 2
   }
 ]
