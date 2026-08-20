@@ -21198,6 +21198,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH, 건설현장 안전 위해 실시간 정보 시스템 운영 강화 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3670240",
+    "description": "RICS를 통해 전국 350개 LH 건설현장 중 매일 작업 위험도가 높은 20곳을 선별해 맞춤형 안전관리를 실시할 계획이다. 선정된 고위험 현장에는 CCTV 영상과 IoT 센서 데이터를 AI로 분석하는 '늘봄 A-Eye' 시스템을 활용해...",
+    "published_at": "2026-08-20T23:20:00+09:00",
+    "cluster_id": "330b",
+    "publisher": "gukjenews.com",
+    "title_clean": "LH, 건설현장 안전 위해 실시간 정보 시스템 운영 강화",
+    "summary": "LH가 RICS 시스템으로 전국 350개 건설현장 중 고위험 현장 20곳을 매일 선별하여 맞춤형 안전관리를 강화한다. AI 기반 '늘봄 A-Eye' 시스템으로 CCTV 영상과 IoT 센서 데이터를 분석해 현장 안전성을 제고할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-20T23:23:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32168,21 +32184,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-17T16:08:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금융권, 부동산PF 대출 연체율 4.65%…10년만 최고치 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xU042QWlEbW84Y3hHaVZOZHp6NGRBNnd4QUtXT2k1VlJVVFJfUlpVYzdUd2pPVlRBQlJiNlM2VS1NX3JfTVlhS2xMSjYzbV9mdUI4WTdVeUFfSExYNDVFbE9QLXczVy1GajNIc1YxMTV3RDhnMzNtatIBeEFVX3lxTE0xU042QWlEbW84Y3hHaVZOZHp6NGRBNnd4QUtXT2k1VlJVVFJfUlpVYzdUd2pPVlRBQlJiNlM2VS1NX3JfTVlhS2xMSjYzbV9mdUI4WTdVeUFfSExYNDVFbE9QLXczVy1GajNIc1YxMTV3RDhnMzNtag?oc=5",
-    "description": "[서울=뉴시스] 이정필 기자 = 금융권의 부동산 프로젝트파이낸싱(PF) 대출 연체율이 10년 만에 가장 높은 수준으로 뛰었다",
-    "published_at": "2026-08-17T14:26:24+09:00",
-    "cluster_id": "23fb",
-    "publisher": "뉴시스",
-    "title_clean": "금융권, 부동산PF 대출 연체율 4.65%…10년만 최고치",
-    "summary": "금융권의 부동산 PF 대출 연체율이 4.65%로 10년 만에 최고 수준을 기록했다. 이는 건설업계의 자금 조달 악화와 프로젝트 부실 위험을 시사하는 신호다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T15:58:03+09:00",
-    "importance": 4
   }
 ]
