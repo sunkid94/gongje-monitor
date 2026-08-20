@@ -5100,6 +5100,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 순천 조례동에 683가구 규모 ‘아이파크’ 짓는다 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20081485?ref=naver",
+    "description": "IPARK현대산업개발이 전남광주 순천시 조례동에서 2450억 원 규모의 아파트 도급공사를 수주했다. 20일 IPARK현대산업개발에 따르면 이번 사업은 순천시 조례동 60-16번지 일대에 아파트 683가구를 조성하는 민간 수주...",
+    "published_at": "2026-08-20T17:39:00+09:00",
+    "cluster_id": "2fab",
+    "publisher": "sedaily.com",
+    "title_clean": "IPARK현대산업개발, 순천 조례동에 683가구 규모 ‘아이파크’ 짓는다",
+    "summary": "IPARK현대산업개발이 순천시 조례동에서 2450억 원 규모의 아파트 683가구 건설 도급공사를 수주했다. 민간 수주 프로젝트로 건설사의 수주 실적 증대에 기여하는 소식이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T17:43:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21025,22 +21041,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-12T16:59:38+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 2분기 영업익 전년비 230% 급증...선별 수주로 호실적 - newspost.kr",
-    "link": "https://www.newspost.kr/news/articleView.html?idxno=224867",
-    "description": "롯데건설이 2분기 연결기준 매출이 1조6792억원, 영업이익이 1224억원을 각각 기록했다고 12일 공시했다. 매출은 전년 동기 대비 14.1% 감소했으나, 영업이익은 230% 급증했다. 영업이익률은 7.3%로 전년 동기(1.9%) 대비...",
-    "published_at": "2026-08-12T16:52:00+09:00",
-    "cluster_id": "edf6",
-    "publisher": "newspost.kr",
-    "title_clean": "롯데건설, 2분기 영업익 전년비 230% 급증...선별 수주로 호실적",
-    "summary": "롯데건설이 2분기 매출 1조6792억원, 영업이익 1224억원을 기록하며 영업이익이 전년 동기 대비 230% 급증했다. 선별 수주 전략으로 영업이익률을 1.9%에서 7.3%로 대폭 개선하며 수익성을 강화했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T16:59:38+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
