@@ -5306,6 +5306,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 중국 라이양 원전 단조품 연속 수주 - 에너지안전신문",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sekdtc3AzMjBuTTd5RUJkR3RtTUVWY2t3d2lMSEtpTDhfR1FUWkZYazVQRXRiN21oM1Q5ZV9INmhiMjcxZWs2WUl1VHlLeXlGWVJsNlBndzJLbHpvY29DZ2ZWVUo?oc=5",
+    "description": "두산에너빌리티가 중국 산둥성 라이양 원자력발전소 5·6호기에 들어가는 증기발생기용 초대형 단조품을 수주하면서 중국 원전 핵심 기자재 시장에서 입지를 넓히고 있다.",
+    "published_at": "2026-08-21T07:36:51+09:00",
+    "cluster_id": "7637",
+    "publisher": "에너지안전신문",
+    "title_clean": "두산에너빌리티, 중국 라이양 원전 단조품 연속 수주",
+    "summary": "두산에너빌리티가 중국 산둥성 라이양 원전 5·6호기에 공급할 증기발생기용 초대형 단조품을 수주했다. 이를 통해 중국 원전 핵심 기자재 시장에서 입지를 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T07:48:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21233,18 +21249,19 @@
     "importance": 4
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "포스코이앤씨, 상반기 ‘흑자전환’ 성공…정비사업도 3.2조원 수주 - 서울타임즈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EMTFYQ2RSTEpYUVRrNFloU2VqRGV1TldwV2FyTHhqVjdzNUZsY1Qtbm1HOG96VkFERVlBOWxnWmUzcXU0VW1MMjFtMmNYc1oxZUNMVUdoQUp3R2Z1SGZUUjVFUGRuRzUwbHBJ?oc=5",
-    "description": "[서울타임즈뉴스 = 최남주 기자] 포스코이앤씨(대표 송치영)가 올해 상반기 970억원의 영업이익을 내며 지난해 적자 국면을 말끔히 벗어났다. 1분기 533억원에 이어 2분기에도 440억원을 벌었다. 올해 영업이익 목표 1200억원의 80.8%를 반년 만에 채웠다. 포스코이앤씨의 영업이익은 2021년 4409억원에서 2022년 3086억원, 2023년 201",
-    "cluster_id": "7424",
-    "publisher": "서울타임즈뉴스",
-    "title_clean": "포스코이앤씨, 상반기 ‘흑자전환’ 성공…정비사업도 3.2조원 수주",
-    "summary": "포스코이앤씨가 상반기 970억원의 영업이익을 기록하며 전년도 적자에서 흑자로 전환했다. 정비사업 3.2조원 수주 등 실적 회복으로 연간 목표의 80.8%를 반년 만에 달성했다.",
+    "title": "AI데이터센터 붐에 '숙련 블루칼라' 모시기 경쟁 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=02538726645549616&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "글로벌 컨설팅사 맥킨지는 미국 AIDC 업계가 2030년까지 전기기사 13만명, 건설노동자 24만명, 현장감독 15만명을 추가로 필요로 할 것으로 추산했다. 데이터센터 투자가 급증하면서 전력·설비를 담당할 현장 인력...",
+    "published_at": "2026-08-21T07:44:00+09:00",
+    "cluster_id": "c524",
+    "publisher": "edaily.co.kr",
+    "title_clean": "AI데이터센터 붐에 '숙련 블루칼라' 모시기 경쟁",
+    "summary": "AI 데이터센터 붐으로 미국에서 2030년까지 전기기사 13만명, 건설노동자 24만명, 현장감독 15만명 등 대규모 숙련 인력이 필요할 것으로 예상된다. 데이터센터 투자 급증에 따른 전력·설비 담당 현장 인력 수요 급증으로 건설업계의 새로운 기회가 창출되고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-12T23:09:42+09:00",
+    "collected_at": "2026-08-21T07:48:15+09:00",
     "importance": 2
   },
   {
@@ -32170,22 +32187,6 @@
     "summary": "대전시의회 행자위가 도시철도 2호선 12공구 건설현장을 방문해 근로자 안전관리 현황을 점검했다. 여름철 온열질환 예방과 안전사고 예방을 강조하며 쾌적한 작업환경 조성을 요청했다.",
     "sentiment": "negative",
     "collected_at": "2026-08-17T20:43:13+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[경인 WIDE] 폭염으로 겪은 ‘기후위기’ - kyeongin.com",
-    "link": "https://www.kyeongin.com/article/1769151",
-    "description": "생업 말리는 더위… 바닥부터 달궜다 아스팔트 열기 노출 배달노동자 콘크리트 슬래브 위 건설노동자 취약층부터 감지한 ‘재난’ 징후 70년 후 인천 평균기온 5.8℃ ↑ “눈앞이 샛노래진 적이 한두 번이 아니었어요.”...",
-    "published_at": "2026-08-17T19:56:00+09:00",
-    "cluster_id": "697a",
-    "publisher": "kyeongin.com",
-    "title_clean": "[경인 WIDE] 폭염으로 겪은 ‘기후위기’",
-    "summary": "극심한 폭염으로 배달노동자, 건설노동자 등 취약층이 심각한 열악한 근무환경에 노출되고 있다. 인천 평균기온이 70년간 5.8℃ 상승하는 등 기후위기가 심화되면서 건설현장의 안전 문제가 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T19:58:14+09:00",
     "importance": 4
   }
 ]
