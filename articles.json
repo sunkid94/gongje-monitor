@@ -21181,6 +21181,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "마포구·국무조정실· 건설근로자공제회 건설노동자 정신건강 살핀다 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KOFFGcmZNcGxhSXNzT3ZCYVJSNWlVQ3pZLU5KLU5RS1RkYV9XOFU0ZVB5OTlpTGRBcEo3V3pLVUhIbUxjZjJsZkRjTmVrRWw2d0FvTXZ3?oc=5",
+    "description": "[헤럴드경제=박종일 선임기자]마포구(구청장 유동균)가 국무조정실 범정부 생명지킴추진본부(본부장 송민섭), 건설근로자공제회(이사장 장건)와 손잡고 건설노동자의 정신",
+    "published_at": "2026-08-20T22:17:25+09:00",
+    "cluster_id": "bfbe",
+    "publisher": "헤럴드경제",
+    "title_clean": "마포구·국무조정실· 건설근로자공제회 건설노동자 정신건강 살핀다",
+    "summary": "마포구, 국무조정실, 건설근로자공제회가 건설노동자의 정신건강 관리를 위해 협력한다. 건설업계 종사자들의 심리 건강 지원 및 복지 강화 정책을 추진하는 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T22:28:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32166,22 +32182,6 @@
     "summary": "금융권 부동산 PF 대출 연체율이 10년 만에 최고 수준으로 상승했다. 건설 업황 부진으로 인한 위험군 사업장의 부실 압력이 증가하고 있으며, 부실 사업장 정리 실적도 감소해 구조조정 동력이 약화되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-17T15:08:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[금주의인물] '일하다 죽지 않을 권리' 만든 여자…폭염 속 소환된 프랜... - weekly.hankooki.com",
-    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7178718",
-    "description": "더위로 목숨을 잃는 산재 사망자 열 명 가운데 일곱 명은 건설 노동자다. 정부도 손을 놓고 있는 건 아니다. 고용노동부는 올해 '폭염 대비 노동자 건강보호 대책'을 내놨다. 지난해 법으로 못 박은 '체감온도 33도 이상이면...",
-    "published_at": "2026-08-17T15:00:00+09:00",
-    "cluster_id": "2a8b",
-    "publisher": "weekly.hankooki.com",
-    "title_clean": "[금주의인물] '일하다 죽지 않을 권리' 만든 여자…폭염 속 소환된 프랜...",
-    "summary": "폭염으로 인한 건설 노동자 산재 사망이 심각한 상황 속에서 정부가 '체감온도 33도 이상' 기준의 노동자 건강보호 대책을 시행 중이다. 건설업계에 안전 규제 강화 및 추가 의무가 부과될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T15:03:20+09:00",
     "importance": 4
   }
 ]
