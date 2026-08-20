@@ -3,6 +3,23 @@
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "에너지공단, 지붕태양광 보증보험 지원사업 추진 - e2news.com",
+    "link": "http://www.e2news.com/news/articleView.html?idxno=333433",
+    "description": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 손잡고 지붕 태양광 발전사업자의 금융 부담 완화에 나선다. 공단은 20일 공단 서울지역본부에서 이들 기업과 '지붕 태양광 보증보험료등 지원사업 업무협약(MOU)...",
+    "published_at": "2026-08-20T22:46:00+09:00",
+    "cluster_id": "304e",
+    "publisher": "e2news.com",
+    "title_clean": "에너지공단, 지붕태양광 보증보험 지원사업 추진",
+    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 협력하여 지붕 태양광 발전사업자의 보증보험료 지원사업을 추진한다. 이는 태양광 발전사업자의 금융 부담을 완화하기 위한 정책으로, 재생에너지 확대에 따른 시장 성장을 지원하는 것.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T22:48:32+09:00",
+    "event_label": "엔지니어링공제조합 지붕태양광 보증보험 지원사업 협약",
+    "importance": 5
+  },
+  {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "에너지공단, 지붕 태양광 확산에 100억원 투입…임대 보증보험료 최대 50% 지원 - 에너지플랫폼뉴스",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tXzFrTXlfd0hmNWtQUUd0NXBhci1wY09WU1ZBSm9vcTJqcmVmR19KRlh4TElOX0ZieXNpQlRJTTQtdm9EdTVZOTFtY0tMaWtJYnYxUi1YNmplc1NZTlhjdzRrdG1tbHpUSjBXedIBcEFVX3lxTE8tOTlaTW9PVWZ3STN6Y2RqbktFeS1UUHlITTVxWDNZQ0JPbkNhTkdEWjJoSVVwWWVXc1p3TF9hQ2VXSWlMSDJqWVgxYnZtOVVIY1FRUXh5bDZkOFlUQXZqVlFFWEEwdWgyVmU3RHVjSHo?oc=5",
     "description": "[에너지플랫폼뉴스 박병인 기자] 에너지공단이 서울보증보험, 엔지니어링공제조합과 함께 지붕 태양광의 확산을 위한 예산 100억원을 투입하고 임대 보증보험료를 최대 50%까지 지원하는 등 재생에너지 확대를 위해 노력한다.한국에너지공단(이사장 최재관)은 서울보증보험(사장 이명순), 엔지니어링공제조합(이사장 이재완)과 20일 에너지공단 서울지역본부에서",
@@ -32167,21 +32184,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-17T15:28:24+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설 업황 부진에 금융권 PF 연체율 10년 만에 최고 - newscj.com",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43NnJsT2w1MHZ6c2V5Nno0alVMUEFQZ2NyM2dOSHhzNDVrRW0xZmZjRXBLbXFWTXRDN3R5Tm9kZjdRaHFtVGRHUEdjaHNnUDZKNlVtRW9WZ2NlekxxS1VsUGpaazhKbXpZYXc?oc=5",
-    "description": "[천지일보=김누리 기자] 금융권 부동산 부동산 프로젝트파이낸싱(PF) 대출 연체율이 약 10년 만에 가장 높은 수준으로 치솟았다. 대출 총액 자체는 줄었으나 건설 업황 부진에 위험군 사업장의 부실 압력이 한층 가중됐다. 부실 사업장 정리·재구조화 실적도 감소해 구조조정 동력이 크게 떨",
-    "published_at": "2026-08-17T15:00:00+09:00",
-    "cluster_id": "d4cd",
-    "publisher": "newscj.com",
-    "title_clean": "건설 업황 부진에 금융권 PF 연체율 10년 만에 최고",
-    "summary": "금융권 부동산 PF 대출 연체율이 10년 만에 최고 수준으로 상승했다. 건설 업황 부진으로 인한 위험군 사업장의 부실 압력이 증가하고 있으며, 부실 사업장 정리 실적도 감소해 구조조정 동력이 약화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T15:08:14+09:00",
-    "importance": 4
   }
 ]
