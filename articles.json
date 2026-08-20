@@ -21231,6 +21231,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[법률라운지] 건설기술자 미고용 시 법적 책임 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608201343506700690",
+    "description": "현행 건설산업기본법 제9조(건설업의 등록) 및 동법 시행령 제13조(건설업의 등록기준)는 건설업을 영위하기 위해 업종별로 일정 수 이상의 상근 건설기술자를 확보하도록 법적 의무를 명시하고 있다. 또한 동법 제35조...",
+    "published_at": "2026-08-21T06:22:00+09:00",
+    "cluster_id": "b6e1",
+    "publisher": "대한경제",
+    "title_clean": "[법률라운지] 건설기술자 미고용 시 법적 책임",
+    "summary": "건설산업기본법에서 건설업체의 업종별 상근 건설기술자 확보를 법적 의무로 규정하고 있으며, 이를 위반할 경우 법적 책임을 진다. 건설기술자 미고용 시 등록 취소, 과태료 등의 행정처분이 부과될 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-21T06:28:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32167,22 +32183,6 @@
     "title_clean": "수도권 23만호 청사진…지역별 기대·반발 엇갈려",
     "summary": "정부가 수도권 23만호 주택공급 대책을 추진하면서 PF 자기자본비율 상향 유예와 이주비대출 확대 등이 포함되었다. 건설업계는 사업 초기 자금조달 부담 완화와 착공 여건 개선으로 평가하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-17T17:53:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "진주시·전문건설업계, 상생협력 간담회 개최 - gndomin.com",
-    "link": "http://www.gndomin.com/news/articleView.html?idxno=485727",
-    "description": "이번 회의는 원자재 가격 상승과 금리 인상, 건설경기 침체 등으로 어려움을 겪는 지역 건설업계를 직접 지원하고 지역경제 활성화 방안을 모색하기 위해 마련됐다. 간담회에는 조규일 진주시장과 건설하천과 관계자...",
-    "published_at": "2026-08-17T17:47:00+09:00",
-    "cluster_id": "f639",
-    "publisher": "gndomin.com",
-    "title_clean": "진주시·전문건설업계, 상생협력 간담회 개최",
-    "summary": "진주시가 원자재 가격 상승, 금리 인상, 건설경기 침체로 어려움을 겪는 지역 건설업계와 상생협력 간담회를 개최했다. 시장과 건설하천과 관계자들이 참석해 건설업계 지원 방안과 지역경제 활성화 방안을 논의했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-17T17:53:25+09:00",
     "importance": 2
   }
