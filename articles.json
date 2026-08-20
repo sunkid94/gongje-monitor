@@ -21181,6 +21181,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "신고 없이 민간임대 투자자 모집 금지…민간 건설공사 대금 '직접지급' - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aLWJheDJiVTg3V21ZQ2xDRXNNeE5DSkk1X1Rta0NULXIxSWJlSEVJVEZoQ1NDdElTQV9NRHZoTEhzZl8xUWktTkMtNWp1LUx1TXBBZDZwOUR2UXMxVlVsMkJYZkF5Y21rMUsyN2lvTTNJZ0NRemNWbdIBeEFVX3lxTE5aLWJheDJiVTg3V21ZQ2xDRXNNeE5DSkk1X1Rta0NULXIxSWJlSEVJVEZoQ1NDdElTQV9NRHZoTEhzZl8xUWktTkMtNWp1LUx1TXBBZDZwOUR2UXMxVlVsMkJYZkF5Y21rMUsyN2lvTTNJZ0NRemNWbQ?oc=5",
+    "description": "[서울=뉴시스] 변해정 기자 = 앞으로는 신고 없이 민간임대주택 예비임차인(투자자·회원)을 모집하는 행위가 전면 금지된다",
+    "published_at": "2026-08-20T21:10:25+09:00",
+    "cluster_id": "df2d",
+    "publisher": "뉴시스",
+    "title_clean": "신고 없이 민간임대 투자자 모집 금지…민간 건설공사 대금 '직접지급'",
+    "summary": "민간임대주택 투자자 모집 시 신고 의무화로 규제가 강화되며, 민간 건설공사 대금을 직접 지급하도록 변경된다. 이는 투기 억제 및 건설사 자금 관리 강화를 목표로 한 정책으로, 건설업계의 자금조달 구조에 영향을 미칠 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-20T22:08:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32167,21 +32183,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-17T15:03:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[칼럼] 개미와 배짱이, 어느 쪽이 더 현명한 \"삶\"을 살았다 할것인가? - newstown.co.kr",
-    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=711643",
-    "description": "농부도 필요하고, 건설 노동자도 필요하며, 공장에서 일하는 사람도 필요하다. 우리 사회는 수많은 사람들이 자신의 자리에서 땀 흘려 일하기 때문에 유지되고 있다. 다만 이제는 열심히 일하는 것과 현명하게 살아가는...",
-    "published_at": "2026-08-17T13:12:00+09:00",
-    "cluster_id": "6b35",
-    "publisher": "newstown.co.kr",
-    "title_clean": "[칼럼] 개미와 배짱이, 어느 쪽이 더 현명한 \"삶\"을 살았다 할것인가?",
-    "summary": "칼럼은 건설 노동자를 포함한 각 직종 종사자들의 노동의 가치를 인정하면서, 단순한 근면함을 넘어 현명한 삶의 방식에 대해 성찰을 촉구하고 있다. 열심히 일하는 것과 지혜롭게 살아가는 것의 균형을 강조하는 철학적 담론이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-17T14:48:12+09:00",
-    "importance": 2
   }
 ]
