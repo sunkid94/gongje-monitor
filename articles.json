@@ -21300,6 +21300,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국회 본회의, 「공공주택 특별법」 등 73건 의안 처리 - breaknews.com",
+    "link": "http://www.breaknews.com/1230485",
+    "description": "(대안) ▲건설산업기본법 일부개정법률안(대안) ▲공공주택 특별법 일부개정법률안(대안) ▲녹색건축물 조성 지원법 일부개정법률안(대안) ▲도심 내 주택공급을...",
+    "published_at": "2026-08-21T08:00:00+09:00",
+    "cluster_id": "0de9",
+    "publisher": "breaknews.com",
+    "title_clean": "국회 본회의, 「공공주택 특별법」 등 73건 의안 처리",
+    "summary": "국회 본회의에서 건설산업기본법, 공공주택 특별법, 녹색건축물 조성 지원법 등 건설·주택 관련 73건의 의안을 처리했다. 공공주택 확대 및 녹색건축 지원 등 건설산업 관련 제도 개선이 이루어졌다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-21T08:08:13+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "KCC건설, 대손충당금 50% 넘겨…채권 관리 숙제로 - ebn.co.kr",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721055",
+    "description": "KCC건설이 건설경기 침체 장기화 국면 속에 매출채권과 미청구공사액 관리라는 과제를 남겼다. 20일 금융감독원 전자공시시스템에 따르면 KCC건설의 매출채권(미정산 판매금) 회수 위험도를 보여주는 매출채권...",
+    "published_at": "2026-08-21T08:00:00+09:00",
+    "cluster_id": "bcd2",
+    "publisher": "ebn.co.kr",
+    "title_clean": "KCC건설, 대손충당금 50% 넘겨…채권 관리 숙제로",
+    "summary": "KCC건설이 건설경기 침체 속에서 매출채권과 미청구공사액 관리 문제를 안고 있으며, 대손충당금이 50%를 넘는 수준으로 채권 회수 위험도가 높아진 상태이다. 이는 건설업계 전반의 경기 부진과 자금 회수의 어려움을 반영하는 사례이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-21T08:08:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32159,37 +32191,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-18T06:08:37+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "하수관 뚫다 '148억 금 더미' 발견한 18세 인부…소유권은 누구에게? - news1.kr",
-    "link": "https://www.news1.kr/world/general-world/6260976",
-    "description": "벨기에의 한 주택을 리모델링하던 건설 노동자들이 약 900만 유로(약 148억 원)에 달하는 금괴와 금화 무더기를 발견했다. 14일(현지시간) 영국 BBC 등에 따르면 벨기에 동플랑드르 지역의 한 주택에서 하수관 설치 공사를...",
-    "published_at": "2026-08-18T05:00:00+09:00",
-    "cluster_id": "76db",
-    "publisher": "news1.kr",
-    "title_clean": "하수관 뚫다 '148억 금 더미' 발견한 18세 인부…소유권은 누구에게?",
-    "summary": "벨기에에서 주택 리모델링 공사 중 약 148억 원 규모의 금괴와 금화가 발견되었다. 건설 현장에서의 귀금속 발견 사건으로, 건설업계와 직접적인 관련성이 낮은 일반 사회 뉴스이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-18T05:08:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "울산 아파트값 상승 지방 광역시 중 최고… 시 “2030년까지 공공주택 ... - donga.com",
-    "link": "https://www.donga.com/news/Society/article/all/20260817/134490693/2",
-    "description": "울산시는 건설경기 침체와 자금 조달 여건 악화로 신규 공급이 줄어든 상황에서 남구와 중구, 북구 송정지구 등으로 실수요가 몰린 것을 가격 상승의 주요 원인으로 분석했다. 시는 우선 울산도시공사...",
-    "published_at": "2026-08-18T04:31:00+09:00",
-    "cluster_id": "25e2",
-    "publisher": "donga.com",
-    "title_clean": "울산 아파트값 상승 지방 광역시 중 최고… 시 “2030년까지 공공주택 ...",
-    "summary": "울산 아파트값이 지방 광역시 중 최고 수준으로 상승하고 있으며, 시는 신규 공급 부족과 실수요 집중을 원인으로 분석했다. 울산시는 2030년까지 공공주택 공급을 통해 주택 수급 문제 해결에 나설 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T04:38:15+09:00",
-    "importance": 4
   }
 ]
