@@ -21093,6 +21093,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[e-사람] 하경자 아태기후센터 원장, 취임 첫 외부행보…UN기념공원 참배·아동복지시설 위문 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41080",
+    "description": "[건설이코노미뉴스] 하경자 아시아·태평양경제협력체 기후센터 원장이 취임 후 첫 외부 일정으로 재한유엔기념공원을 찾아 6·25전쟁 유엔군 전몰장병을 추모하고, 지역 아동복지시설을 방문해 위문품을 전달하는 등 평화와 나눔을 통한 ESG 경영 실천에 나섰다.아시아·태평양경제협력체 기후센터(APCC)는 하경자 원장이 지난 18일 부산 남구에 위치한 재한유엔기념공원(United Nations Memorial Cemetery in Korea)​과 아동복지시설 동산원을 차례로 방문했다고 밝혔다.이번 일정은 하 원장이 취임 이후 가진 첫 외부 일",
+    "published_at": "2026-08-20T12:07:00+09:00",
+    "cluster_id": "3d98",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[e-사람] 하경자 아태기후센터 원장, 취임 첫 외부행보…UN기념공원 참배·아동복지시설 위문",
+    "summary": "하경자 아태기후센터 원장이 취임 후 첫 외부 일정으로 UN기념공원 참배와 아동복지시설 위문을 실시하며 평화와 나눔의 ESG 경영 실천을 선보였다. 기관장의 사회공헌활동 추진 소식을 다룬 인사 브리핑 기사이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T12:10:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32145,21 +32161,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T18:45:34+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대한건설협회, 8·13 주택공급 대책 환영…\"민간 공급여건 개선 기대\" - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396297",
-    "description": "중소건설사 PF 특별보증과 건축공사비 플러스 PF보증 규모 확대, 수수료 인하 기간 연장 및 조기착공 시 추가 인하 등의 조치도 민간 주택사업의 금융 부담 완화와 착공 촉진에 긍정적으로 작용할 것으로 전망했다....",
-    "published_at": "2026-08-14T18:36:00+09:00",
-    "cluster_id": "2841",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "대한건설협회, 8·13 주택공급 대책 환영…\"민간 공급여건 개선 기대\"",
-    "summary": "정부의 8·13 주택공급 대책에 대해 대한건설협회가 환영 입장을 표했다. 중소건설사 PF 보증 확대, 수수료 인하, 조기착공 인센티브 등이 민간 주택사업의 금융 부담 완화와 착공 촉진에 긍정적 영향을 미칠 것으로 예상했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T18:40:44+09:00",
-    "importance": 2
   }
 ]
