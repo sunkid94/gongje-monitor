@@ -21059,6 +21059,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "8월 3주 아파트 매매가 0.08%↑·전세가 0.10%↑ - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37138",
+    "description": "한국부동산원이 2026년 8월 3주(8월 17일 기준) 전국 주간 아파트가격 동향을 조사한 결과, 매매가격지수는 0.08% 상승, 전세가격지수는 0.10% 상승을 기록했다고 밝혔다. 전국 주간 아파트 매매가격지수는 지난주 대비 0.08% 상승했다. 수도권(0.15%), 서울(0.22%)은 상승, 지방(0.00%)은 보합으로 나타났다. (4대광역시(0.00%), 세종(0.00%), 전남광주(0.03%), 7개도(0.00%))시도별로는 경기(0.15%), 충북(0.07%), 전북(0.06%), 울산(0.04%), 대전(0.03%) 등은",
+    "published_at": "2026-08-20T14:00:00+09:00",
+    "cluster_id": "9220",
+    "publisher": "한국건설신문",
+    "title_clean": "8월 3주 아파트 매매가 0.08%↑·전세가 0.10%↑",
+    "summary": "2026년 8월 3주 전국 아파트 매매가격지수는 0.08% 상승, 전세가격지수는 0.10% 상승했다. 수도권과 서울은 상승세를 보였으나 지방은 보합 수준으로 지역별 편차가 나타났다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T14:02:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32143,22 +32159,6 @@
     "summary": "정부의 8·13 공급 대책에 대해 건설협회가 환영 입장을 표현했다. 중소 건설사 PF 보증 확대, 수수료 인하, 조기 착공 추가 인하 등의 조치가 민간 주택사업의 금융부담 완화와 착공 촉진에 긍정적으로 작용할 것으로 평가했다.",
     "sentiment": "positive",
     "collected_at": "2026-08-14T20:10:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대한건설협회, 8·13대책 환영… “PF 자기자본 유예, 착공에 숨통” - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJBX0FDbFl3ek1MMlNBYXVwWVk1Q3pvbmg4bk50OGd5aWFBV2dYRzc0NnM0cWo2YU9HWHk5MGdFNHhBMzN0OGJTWWdWelRfZnc5T0pBa2JvLTh6VjdkdmFRdmlJdUpYSVhuN204eTlVSzZSUF9CU3dOSEVxVWdrbWIyVDdnV2FQRFgzRWc3akU4NnVSZ3BnNNIBrAFBVV95cUxNMHJkYzJ2cmQyWHhYbmxCRWxlYmpteXlKcXhibWZNd2swMTF4S3NaU0pYTlRyZmNFazBhOU1OMFBYVXo1UW41Mk5rd090N0RqdzBvY0t4ckpzUWtibXI2ME1lTFF5NHNJTTRQeUgzeDlwQ3J3cTc5UVhoNUFJU3NocG9zYkpnNVNKZWNHa2JLbWJXU0NoY0YwUzlYbk9NdTZvX3dndlY0NXpNQ184?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzJBX0FDbFl3ek1MMlNBYXVwWVk1Q3pvbmg4bk50OGd5aWFBV2dYRzc0NnM0cWo2YU9HWHk5MGdFNHhBMzN0OGJTWWdWelRfZnc5T0pBa2JvLTh6VjdkdmFRdmlJdUpYSVhuN204eTlVSzZSUF9CU3dOSEVxVWdrbWIyVDdnV2FQRFgzRWc3akU4NnVSZ3BnNNIBrAFBVV95cUxNMHJkYzJ2cmQyWHhYbmxCRWxlYmpteXlKcXhibWZNd2swMTF4S3NaU0pYTlRyZmNFazBhOU1OMFBYVXo1UW41Mk5rd090N0RqdzBvY0t4ckpzUWtibXI2ME1lTFF5NHNJTTRQeUgzeDlwQ3J3cTc5UVhoNUFJU3NocG9zYkpnNVNKZWNHa2JLbWJXU0NoY0YwUzlYbk9NdTZvX3dndlY0NXpNQ184?oc=5\" target=\"_blank\">대한건설협회, 8·13대책 환영… “PF 자기자본 유예, 착공에 숨통” - 조선비즈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
-    "published_at": "2026-08-14T10:51:14.400000+00:00",
-    "cluster_id": "7ae0",
-    "publisher": "Chosunbiz",
-    "title_clean": "대한건설협회, 8·13대책 환영… “PF 자기자본 유예, 착공에 숨통” - 조선비즈",
-    "summary": "대한건설협회가 정부의 8·13대책을 환영하며, PF(프로젝트파이낸싱) 자기자본 유예 조치가 건설업계의 착공을 촉진할 것으로 평가했다. 이는 건설업계의 자금난 완화와 사업 추진 활성화를 기대하는 긍정적 입장을 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T20:05:00+09:00",
     "importance": 2
   }
 ]
