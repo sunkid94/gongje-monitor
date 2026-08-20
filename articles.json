@@ -5255,6 +5255,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남양주시, 왕숙 파트너스센터 개소로 지역업체 사업 참여 지원 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1404375",
+    "description": "총 38개 공구에는 현대건설, 금광기업, 쌍용건설, 대우건설 등 19개 대형 건설업체가 참여하고 있다. 남양주시에는 건설공사·용역·인력·자재 등 다양한 분야의 지역업체 6000여 개가 등록돼 있다. 시는 대규모 개발사업에...",
+    "published_at": "2026-08-20T23:06:00+09:00",
+    "cluster_id": "ee03",
+    "publisher": "",
+    "title_clean": "남양주시, 왕숙 파트너스센터 개소로 지역업체 사업 참여 지원 - m-i.kr",
+    "summary": "남양주시가 왕숙 파트너스센터를 개소하여 지역업체의 대형 건설사업 참여 기회를 확대하고 있다. 38개 공구에 현대건설, 쌍용건설 등 19개 대형 건설사가 참여 중이며, 등록된 지역업체 6000여 개가 건설공사, 용역, 인력, 자재 등 다양한 분야에서 수주 기회를 얻을 수 있도록 지원한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T23:13:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21182,20 +21198,20 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 2Q 영업익 1224억…전년比 230％↑ - 1conomynews.co.kr",
-    "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49965",
-    "description": "한편 롯데건설은 도시정비사업에서 지난달 성수4지구 시공권을 두고 대우건설과 경쟁한 끝에 수주에 성공했다. 올해 연간 도시정비사업 수주 목표액으로 5조원을 제시한 만큼 수익성이 높은 사업을 중심으로...",
-    "published_at": "2026-08-12T17:48:00+09:00",
-    "cluster_id": "c760",
-    "publisher": "1conomynews.co.kr",
-    "title_clean": "롯데건설, 2Q 영업익 1224억…전년比 230％↑",
-    "summary": "롯데건설이 2분기 영업익 1224억원으로 전년 대비 230% 증가했으며, 도시정비사업에서 성수4지구 시공권을 수주했다. 올해 도시정비사업 수주 목표액 5조원을 제시하며 수익성 높은 사업을 중심으로 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T17:54:24+09:00",
-    "importance": 2
+    "title": "경남 경제 2분기 제조·고용 회복, 수출·건설 부진 '온도차' - 경남일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxa21SZlU0cEFXWmYzc1ZxQnFNc3pXNVlDQ0pNUEFvZ1VHRDl4Y2JFc0dQZzF0YzFscFNvQThEV1lhVTRQMzloTTJOYXlmemtwS1FoNERoQXhiT3N3VFJQazVtWDl1dnRmRlpv?oc=5",
+    "description": "올해 2분기 경남 경제가 제조업 생산과 고용률에서 회복세를 보였지만 수출과 건설 수주는 전국에서 가장 부진한 흐름을 보이는 등 부문별로 극명한 온도차를 나타냈다.",
+    "published_at": "2026-08-20T18:48:03+09:00",
+    "cluster_id": "32dc",
+    "publisher": "경남일보",
+    "title_clean": "경남 경제 2분기 제조·고용 회복, 수출·건설 부진 '온도차'",
+    "summary": "올해 2분기 경남 경제가 제조업 생산과 고용은 회복했으나, 수출과 건설 수주는 전국에서 가장 부진한 상황을 보이고 있다. 건설 부문이 특히 약세를 나타내며 부문별 온도차가 두드러지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-20T23:13:31+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32167,22 +32183,6 @@
     "summary": "금융권의 부동산 PF 대출 연체율이 4.65%로 10년 만에 최고 수준을 기록했다. 이는 건설업계의 자금 조달 악화와 프로젝트 부실 위험을 시사하는 신호다.",
     "sentiment": "negative",
     "collected_at": "2026-08-17T15:58:03+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금융권 PF 연체율 10년 만에 최고…자금 회수 어려운 사업장 늘어 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/news-detail/2026081714431334366",
-    "description": "/ 사진=뉴스1국내 건설경기 침체가 장기화되면서 금융권 부동산 프로젝트파이낸싱(PF) 대출 연체율이 10년여 만에 최고치로 올라갔다. 금융권 PF 대출 총량은 줄었지만, 돈을 제때 돌려받지 못할 위험성이...",
-    "published_at": "2026-08-17T15:34:00+09:00",
-    "cluster_id": "ef63",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "금융권 PF 연체율 10년 만에 최고…자금 회수 어려운 사업장 늘어",
-    "summary": "건설경기 침체로 금융권 PF 대출 연체율이 10년 만에 최고 수준으로 상승했다. 자금 회수 위험성이 높아지면서 건설업계의 자금 조달 어려움이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T15:38:00+09:00",
     "importance": 4
   }
 ]
