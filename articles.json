@@ -5289,6 +5289,21 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 현장 근로자 건 - 이투데이",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVUFnWTllTzAxWFMxTUZIRzZJM0t4TVU5a3N4ZGg2SFRQUWE4RHpVWDhpaXFFVVZUTkJ6dVFKRUtfN0I5bVZGMkdDMFlrcWtyUTBHbjVTVk5oVGhTUjVGQ3BvbEpVNm5W?oc=5",
+    "description": "IPARK현대산업개발, 현장 근로자 건강·안전 디지털 시스템으로 관리 관련 이미지 원본을 이투데이에서 확인하세요",
+    "cluster_id": "4fb9",
+    "publisher": "이투데이",
+    "title_clean": "IPARK현대산업개발, 현장 근로자 건",
+    "summary": "IPARK현대산업개발이 현장 근로자의 건강과 안전을 관리하기 위해 디지털 시스템을 도입했다. 이는 건설현장의 안전 관리 수준을 향상시키는 긍정적인 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T05:43:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21214,22 +21229,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-12T21:29:29+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "이익 쑥, 부채비율 뚝...롯데건설, 상반기 영업익 4배↑ - newstopkorea.com",
-    "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46986",
-    "description": "롯데건설이 선별 수주로 올해 상반기 영업이익을 전년 대비 4배 늘리고, 부채비율은 약 24%포인트 낮췄다. 수익성 향상과 재무 건전성 제고라는 두 마리 토끼를 다 잡으며, 경영 체질 강화를 공식화했다. 12일...",
-    "published_at": "2026-08-12T21:00:00+09:00",
-    "cluster_id": "7eb0",
-    "publisher": "newstopkorea.com",
-    "title_clean": "이익 쑥, 부채비율 뚝...롯데건설, 상반기 영업익 4배↑",
-    "summary": "롯데건설이 선별 수주 전략으로 상반기 영업이익을 전년 대비 4배 증가시키고 부채비율을 24%포인트 낮췄다. 수익성 향상과 재무 건전성 개선을 동시에 달성하며 경영 체질 강화를 실현했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T21:09:39+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
