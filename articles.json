@@ -3,6 +3,23 @@
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "지붕태양광 보증보험료 최대 절반 지원 - 에너지타임즈",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JMjRaMmY5TnVUekdZalg0d1NKTk5hZ09HdmR5ZE9feXhtUGpjTFAzN09FQXltOGZZOGd5aVpLYnFnSUJVN3NMWmNUbEdUR3dRaUd3NWFxSzhUSjRyYXNLWUlxWlZRVEtmcy1v?oc=5",
+    "description": "지붕태양광 사업자의 금융부담이 줄어들 것으로 기대됩니다.정부가 지붕태양광 확산을 위해 보증보험료를 최대 50%까지 지원합니다.20일 에너지공단은 서울보증보험‧엔지니어링공제조합과 지붕태양광 보증보험료 지원을 위한 업무협약을 체결했습니다.지원 대상은 한국형 RE100 기업과 PPA를 체결한 지붕태양광 사업자입니다.에너지공단은 100억을 투입해 보증보험료와 공제료를 최대 50%까지 지원합니다.지원 규모는 전기 사용자 규모와 저탄소 모듈 사용 여부, PPA 중개플랫폼 활용 여부 등에 따라 달라집니다.",
+    "published_at": "2026-08-20T19:35:54+09:00",
+    "cluster_id": "d3d6",
+    "publisher": "에너지타임즈",
+    "title_clean": "지붕태양광 보증보험료 최대 절반 지원",
+    "summary": "정부가 지붕태양광 확산을 위해 에너지공단, 서울보증보험, 엔지니어링공제조합과 협력하여 보증보험료를 최대 50% 지원하기로 했다. 한국형 RE100 기업과 PPA 체결 사업자를 대상으로 100억 규모의 지원이 이루어질 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T19:43:32+09:00",
+    "event_label": "엔지니어링공제조합 지붕태양광 보증보험료 지원 업무협약 체결",
+    "importance": 5
+  },
+  {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "지붕태양광 금융부담 낮춘다…에너지공단, 보증보험료 최대 50% 지원 - 에너지타임즈",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WcWp2X3E5b0pUQVU5TlZDOTY1eTRJVlluM0gtVlBpZWdjSkJDbWxkcURfWi1mRHo4cnZfOGtfb0hXUlJHT1FOdkt4alk1Q1l0aWNJYVBrOWZUMTJlNlNRb1o4SmVUVFR6dVJhVw?oc=5",
     "description": "지붕태양광발전 사업자 금융 부담을 낮추고 PPA 참여자를 보호하기 위해 보증보험료가 최대 50% 지원된다. 한국에너지공단(이사장 최재관)은 서울보증보험·엔지니어링공제조합 등과 지붕태양광발전 보증보험료 등 지원사업에 협력하기로 하고 20일 서울지역본부(서울 영등포구 소재)에서 업무협약을 체결했다.",
@@ -5185,6 +5202,22 @@
     "collected_at": "2026-07-21T19:50:06+09:00",
     "event_label": "대한기계설비건설협회 경남도회 상반기 773억 원 하도급 수주 달성",
     "importance": 5
+  },
+  {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "신길2 찾은 국토장관 “도심 공공주택 복합사업, 민간 정비 대안” - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641938&ref=A",
+    "description": "2021년 복합지구 지정과 2024년 복합사업계획 승인을 거쳐 올해 3월 포스코이앤씨를 시공사로 선정했습니다. 현재 2028년 착공을 목표로 보상 절차를 진행하고 있습니다.",
+    "published_at": "2026-08-20T19:36:00+09:00",
+    "cluster_id": "2944",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "신길2 찾은 국토장관 “도심 공공주택 복합사업, 민간 정비 대안”",
+    "summary": "신길2 도심공공주택 복합사업이 포스코이앤씨 시공사 선정을 통해 본격화되고 있으며, 2028년 착공을 목표로 보상 절차를 진행 중입니다. 민간 정비의 대안으로 제시되는 도심 공공주택 복합사업으로 건설시장 수주 기회가 창출되고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T19:43:32+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -21114,22 +21147,6 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[초점] 5대 건설사 수주 희비…삼성·현대ENG·대우 '순항', 현대·GS건설... - newswatch.kr",
-    "link": "http://www.newswatch.kr/news/articleView.html?idxno=80734",
-    "description": "그래프=제미나이 | 뉴스워치= 민서하 기자 | 올해 상반기 국내 5대 대형 건설사(삼성물산·현대건설·GS건설·현대엔지니어링·대우건설)의 수주 성적표가 엇갈렸다. 삼성물산 건설부문과 현대엔지니어링...",
-    "published_at": "2026-08-12T17:28:00+09:00",
-    "cluster_id": "38d6",
-    "publisher": "newswatch.kr",
-    "title_clean": "[초점] 5대 건설사 수주 희비…삼성·현대ENG·대우 '순항', 현대·GS건설...",
-    "summary": "5대 건설사의 올해 상반기 수주 성적이 양극화되었다. 삼성물산·현대엔지니어링·대우건설은 호조를 보인 반면, 현대건설·GS건설은 부진한 것으로 나타났다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-12T17:39:51+09:00",
-    "importance": 3
-  },
-  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32160,22 +32177,6 @@
     "summary": "금융권 PF 연체율이 10년 만에 최고 수준으로 상승하면서 건설업계의 부실 위기가 심화되고 있습니다. 정부는 캠코 PF 정상화 펀드 3조원 이상 신규 조성과 은행·보험 신디케이트론 확대(1조→5조원)로 대응하고 있습니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-17T10:07:55+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대출 줄여도 부실은 늘었다…금융권 PF 연체율 9년6개월 만에 ‘최고’ - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12078479?ref=naver",
-    "description": "건설경기 침체가 장기화하면서 금융권의 부동산 프로젝트파이낸싱(PF) 부실 우려가 다시 커지고 있다. PF 대출 잔액은 줄고 있지만 올해 들어 연체율과 건전성 지표가 악화한 데다 부실 가능성이 큰...",
-    "published_at": "2026-08-17T09:39:00+09:00",
-    "cluster_id": "50f8",
-    "publisher": "dt.co.kr",
-    "title_clean": "대출 줄여도 부실은 늘었다…금융권 PF 연체율 9년6개월 만에 ‘최고’",
-    "summary": "건설경기 침체로 인해 금융권의 PF 대출 연체율이 9년6개월 만에 최고 수준으로 악화했다. 대출 잔액 감소에도 불구하고 부실 가능성이 커지면서 건설업계의 자금난이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T09:47:46+09:00",
     "importance": 4
   }
 ]
