@@ -5135,6 +5135,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "BS한양·HJ중공업, 공공 공사 수주…SOC 경쟁력 부각 - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20260820500129",
+    "description": "태영건설, 대우건설, 동부건설, HJ중공업과 컨소시엄을 꾸려 수주했다. 설계·시공 일괄입찰(턴키) 방식인 이 사업은 전남 여수시 묘도동 인근 2760m 구간 항로 폭을 185m에서 300m로 넓히고 수심을 10.5m로 준설하는...",
+    "published_at": "2026-08-20T13:24:00+09:00",
+    "cluster_id": "605c",
+    "publisher": "news2day.co.kr",
+    "title_clean": "BS한양·HJ중공업, 공공 공사 수주…SOC 경쟁력 부각",
+    "summary": "BS한양과 HJ중공업이 태영건설, 대우건설, 동부건설과 컨소시엄을 구성하여 전남 여수시 항로 준설 공공 공사를 수주했다. 설계·시공 일괄입찰(턴키) 방식의 이 사업은 항로 폭 확장 및 준설을 통해 해상 인프라를 개선한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T13:28:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21056,22 +21072,6 @@
     "summary": "두산퓨얼셀이 연료전지 시스템 장기유지보수계약(LTSA) 288억원을 수주했으며, 이는 매출액 대비 6.33%에 해당한다. 연료전지 관련 장기 유지보수 사업 수주로 안정적인 매출 확보를 기대할 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-12T11:44:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산퓨얼셀, 연료전지 관련 3건 계약 체결 공시…894억원 규모 - cbci.co.kr",
-    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=597584",
-    "description": "두산퓨얼셀이 연료전지 시스템 공급과 장기유지보수와 관련해 총 3건의 계약을 체결했다. 세 계약의 공시상 계약금액을 합하면 894억원이다. 두산퓨얼셀은 와이에이치파워1 주식회사와 310억원 규모의 연료전지...",
-    "published_at": "2026-08-12T11:36:00+09:00",
-    "cluster_id": "e8e6",
-    "publisher": "cbci.co.kr",
-    "title_clean": "두산퓨얼셀, 연료전지 관련 3건 계약 체결 공시…894억원 규모",
-    "summary": "두산퓨얼셀이 연료전지 시스템 공급 및 유지보수 관련 3건의 계약을 체결하여 총 894억원 규모의 수주를 확보했다. 이는 수소연료전지 시장 확대와 관련 기계설비 수요 증가를 나타내는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T11:38:57+09:00",
     "importance": 2
   },
   {
