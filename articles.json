@@ -3,6 +3,23 @@
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "한국에너지공단-서울보증보험-엔지니어링공제조합, 지붕 태양광 발전사업 활성화 위한 업무협약 체결 - 천지일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0QUpwalk5VkZCT3BSYUc1LWhYdENMMUJWVHd2YmE1Q0VfM241RDdZclFaSnIzNnNRMjJta2xseVJrWU1NM2ZTV0ZUeWdtM2tDSXlRaVN5TnVqeERTeDFtNHFDUTNEMzB4Nmc?oc=5",
+    "description": "[천지일보=김예슬 기자] 한국에너지공단(이사장 최재관)은 서울보증보험(사장 이명순), 엔지니어링공제조합(이사장 이재완)과 20일 공단 서울지역본부에서 ‘지붕 태양광 보증보험료등 지원사업 업무협약(MOU)’을 체결했다고 밝혔다.공단은 총 100억원의 예산을 투입해 한국형 RE100 기업",
+    "published_at": "2026-08-20T20:44:28+09:00",
+    "cluster_id": "e9cb",
+    "publisher": "천지일보",
+    "title_clean": "한국에너지공단-서울보증보험-엔지니어링공제조합, 지붕 태양광 발전사업 활성화 위한 업무협약 체결",
+    "summary": "한국에너지공단, 서울보증보험, 엔지니어링공제조합이 지붕 태양광 발전사업 활성화를 위한 업무협약을 체결했다. 총 100억원 예산으로 보증보험료 지원을 통해 태양광 사업 진입장벽을 낮추는 사업을 추진한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T20:53:38+09:00",
+    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 협약 체결",
+    "importance": 5
+  },
+  {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "에너지공단, 지붕 태양광 사업에 100억원 지원… 9월 중 공고 - biztribune.co.kr",
     "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357701",
     "description": "이재완 엔지니어링공제조합 이사장, 최재관 한국에너지공단 이사장, 이명순 서울보증보험 사장이 업무협약 체결 후 기념촬영을 하고 있다. ㅣ 한국에너지공단 한국에너지공단이 지붕 태양광 발전사업자의 금융...",
@@ -5236,6 +5253,22 @@
     "collected_at": "2026-07-21T21:00:05+09:00",
     "event_label": "대한기계설비건설협회 경남도 하도급 기동팀 활동으로 상반기 773억원 수주 창출",
     "importance": 5
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[하이엔드 돋보기] 성수 품은 롯데건설...'르엘' 핵심지 전략 통했다 - 뉴스포스트",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wd29wUHhuMTBQMEd0UEJVVU0xRlZHOElobWpOcnF2X3k5eXlyald4d0JhYlVIa2doU0JlRzkyMkE3RnN0V0NCX1pOa1NKU1dtTnIyb0dueWluWEVDNkhtNkR6S2lBMDhjNVE?oc=5",
+    "description": "[뉴스포스트=이우섭 기자] 롯데건설의 하이엔드 주거 브랜드 '르엘'이 서울 주요 정비사업지를 중심으로 입지를 넓혀가고 있다. 기존 사업장에 브랜드를 적용하는 데서 나아가 핵심 정비사업 수주전에서도 르엘을 전면에 내세우고 있다.롯데건설은 지난달 성수4지구 재개발 시공사 선정 총회에서는",
+    "published_at": "2026-08-20T09:14:29+09:00",
+    "cluster_id": "22e6",
+    "publisher": "뉴스포스트",
+    "title_clean": "[하이엔드 돋보기] 성수 품은 롯데건설...'르엘' 핵심지 전략 통했다",
+    "summary": "롯데건설의 하이엔드 브랜드 '르엘'이 성수4지구 재개발 등 서울 주요 정비사업지를 중심으로 수주 확대 중이다. 기존 브랜드 적용을 넘어 핵심 정비사업 수주전에서 르엘을 전면에 내세우며 입지를 넓혀가고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T20:53:38+09:00",
+    "importance": 2
   },
   {
     "keyword": "현대산업개발",
@@ -21165,22 +21198,6 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "몸집 줄이자 이익 3배 '껑충'…롯데건설, 부채비율 확 낮춰 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyVDRjeURFN2gtVVY1MzlfZ2pVTEpEdmg1Vk9GTzhmUWlPSkdwaGlJNlJqbkRFNlZ4N0w1T1JFbm84T3ZvYUNfVEkwZ0MwSENnc25J?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 롯데건설이 2분기에 전년 대비 3배 이상 개선된 수익성 지표와 함께 부채비율을 지속적으로 낮추며 재무 안전성을 높여가고 있다. 안정적 이익 창출 기반을 바탕으로 한 원가 관리 강화와 선별 수주 기조가 실적으로 증명됐다고 평가받는다. 12일 금융감독원",
-    "published_at": "2026-08-12T17:11:00+09:00",
-    "cluster_id": "ed40",
-    "publisher": "네이트",
-    "title_clean": "몸집 줄이자 이익 3배 '껑충'…롯데건설, 부채비율 확 낮춰",
-    "summary": "롯데건설이 2분기 수익성을 3배 이상 개선하고 부채비율을 지속 낮추며 재무 안전성을 강화하고 있다. 원가 관리 강화와 선별 수주 기조가 실적으로 증명되며 안정적 이익 창출 기반을 구축했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T17:49:50+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32166,21 +32183,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-17T13:28:12+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금융권 PF 연체율 10년 만에 최고치… 부실 우려 PF도 증가 - biz.chosun.com",
-    "link": "https://biz.chosun.com/stock/finance/2026/08/17/RA37JI4EIFEJXM6QBJ4GRHBDXE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "건설경기 침체가 장기화하면서 금융권 부동산 프로젝트파이낸싱(PF) 대출 연체율이 약 10년 만에 최고치를 기록한 것으로 나타났다. 금융권 PF 대출 잔액은 줄었지만, 사업성 평가에서 유의·부실 우려 PF...",
-    "published_at": "2026-08-17T12:58:00+09:00",
-    "cluster_id": "047c",
-    "publisher": "biz.chosun.com",
-    "title_clean": "금융권 PF 연체율 10년 만에 최고치… 부실 우려 PF도 증가",
-    "summary": "건설경기 침체로 금융권 PF 대출 연체율이 약 10년 만에 최고치를 기록했다. PF 대출 잔액은 감소했으나 부실 우려 PF는 오히려 증가하면서 건설업계의 자금난이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T13:03:27+09:00",
-    "importance": 4
   }
 ]
