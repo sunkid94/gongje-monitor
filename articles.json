@@ -21130,6 +21130,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "GS건설, 현대엘리베이터와 초고층 승강기 기밀성 강화 공동 기술개발 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41088",
+    "description": "[건설이코노미뉴스]GS건설이 초고층 건축물의 핵심 설비인 엘리베이터 기술 경쟁력 강화에 나선다.GS건설은 20일 서울 서초구 GS건설 서초타워에서 현대엘리베이터와 ‘초고층 승강기 기밀 성능 확보를 위한 공동 기술개발’ 업무협약(MOU)을 체결했다고 밝혔다.이번 업무협약은 초고층 건축물에서 발생할 수 있는 승강기의 기밀 성능을 개선하고자 건설사와 엘리베이터 제조사가 머리를 맞댄 것으로, 단순한 제품 개발을 넘어 설계·시공·운영 전반을 고려한 초고층 건축물 엘리베이터 기술 기준을 마련하는데 의미가 있다.양사는 초고층 건축물 엘리베이터에",
+    "published_at": "2026-08-20T19:35:03+09:00",
+    "cluster_id": "72b8",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "GS건설, 현대엘리베이터와 초고층 승강기 기밀성 강화 공동 기술개발",
+    "summary": "GS건설과 현대엘리베이터가 초고층 건축물의 엘리베이터 기밀성 강화를 위한 공동 기술개발 협약을 체결했다. 설계·시공·운영 전반을 고려한 초고층 건축물 엘리베이터 기술 기준 마련으로 건설사의 기술 경쟁력을 강화하는 의미 있는 협력이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T19:36:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32159,21 +32175,6 @@
     "summary": "교량 건설의 경쟁력이 초기 건설비보다 생애주기 관점에서 평가되는 추세를 반영한 기사입니다. BIB 거더, EPF 받침교체 등 신기술로 신축이음 하자를 줄이고 유지관리 효율을 높이는 '건설→유지관리' 기술 혁신이 강조되었습니다.",
     "sentiment": "positive",
     "collected_at": "2026-08-17T09:27:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "【생산성 혁신기술-교량】 더 길게, 더 가볍게, 더 빨리 - 토목신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwckVWQlR1N21nLWRNN29SQTY2STdvLUZEbFZiTDctWWkyQjExZWJGdlo1R2hxcUhEY1FrTTROY2VRQkVDbVlyWDZNdUVvRXc3b0NuMnlReDNrVklWYjJjcUxIc25tb2ot?oc=5",
-    "description": "【편집자 주】 【연중기획】 생산성 혁신기술 ― 건설의 판을 바꾼다싼 기술보다 경제적인 기술&hellip;공기·안전·품질·유지관리까지 LCC로 다...",
-    "cluster_id": "cd9a",
-    "publisher": "토목신문",
-    "title_clean": "【생산성 혁신기술-교량】 더 길게, 더 가볍게, 더 빨리",
-    "summary": "건설 산업의 생산성 혁신기술 중 교량 분야의 기술 발전을 소개하는 기사로, 더 길고 가볍고 빠른 시공을 가능하게 하는 기술들을 다룬다. LCC(생애주기비용) 관점에서 공기 단축, 안전성 향상, 품질 개선, 유지관리 효율화까지 종합적으로 평가하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-17T08:57:55+09:00",
     "importance": 2
   }
 ]
