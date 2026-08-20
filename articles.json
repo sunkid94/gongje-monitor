@@ -21130,6 +21130,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[e부동산]\"양산 집값·개발호재 같이 움직인다\"…‘힐스테이트 양산더스카이’ 주목 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41087",
+    "description": "[건설이코노미뉴스]경남 양산 부동산 시장에 다시 온기가 돌고 있다. 기존 아파트 가격이 회복 조짐을 보이는 가운데 연말 양산선 개통을 비롯한 광역교통망 확충도 속도를 내면서다. 특히 생활 인프라가 갖춰진 물금읍의 신축 아파트 공급이 제한적인 만큼 현대건설의 ‘힐스테이트 양산더스카이’에 대한 관심도 커지는 분위기다.최근 국토교통부 실거래가 공개시스템에 따르면 경남 양산시 물금읍 가촌리 ‘양산대방노블랜드8차로얄카운티’ 전용면적 84㎡는 이달 18층이 5억6400만원에 거래됐다. 지난 2월 같은 층이 4억8300만원에 거래된 것을 감안하",
+    "published_at": "2026-08-20T19:32:30+09:00",
+    "cluster_id": "458d",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[e부동산]\"양산 집값·개발호재 같이 움직인다\"…‘힐스테이트 양산더스카이’ 주목",
+    "summary": "경남 양산의 부동산 시장이 회복세를 보이고 있으며, 연말 양산선 개통 등 광역교통망 확충으로 개발 호재가 진행 중이다. 생활 인프라가 갖춰진 물금읍에서 신축 아파트 공급이 제한적인 가운데 현대건설의 '힐스테이트 양산더스카이'에 대한 관심이 높아지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T19:34:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32156,21 +32172,6 @@
     "publisher": "토목신문",
     "title_clean": "【생산성 혁신기술-교량】 더 길게, 더 가볍게, 더 빨리",
     "summary": "건설 산업의 생산성 혁신기술 중 교량 분야의 기술 발전을 소개하는 기사로, 더 길고 가볍고 빠른 시공을 가능하게 하는 기술들을 다룬다. LCC(생애주기비용) 관점에서 공기 단축, 안전성 향상, 품질 개선, 유지관리 효율화까지 종합적으로 평가하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-17T08:57:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "‘공기 단축’ 모듈러 주택, 정부 발주 계기로 시장 키운다 - 세계일보",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaOTNIZVFFZjdUOER6NEQ0eGprRkFhSkN6VzR5UlFzTXh1T1ZwS3BKTE05aFVvcDFfWnJkaEJkazQwVUROc0UxQl9wWDBWamx0Tm5XNtIBVEFVX3lxTFBaOTNIZVFFZjdUOER6NEQ0eGprRkFhSkN6VzR5UlFzTXh1T1ZwS3BKTE05aFVvcDFfWnJkaEJkazQwVUROc0UxQl9wWDBWamx0Tm5XNg?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaOTNIZVFFZjdUOER6NEQ0eGprRkFhSkN6VzR5UlFzTXh1T1ZwS3BKTE05aFVvcDFfWnJkaEJkazQwVUROc0UxQl9wWDBWamx0Tm5XNtIBVEFVX3lxTFBaOTNIZVFFZjdUOER6NEQ0eGprRkFhSkN6VzR5UlFzTXh1T1ZwS3BKTE05aFVvcDFfWnJkaEJkazQwVUROc0UxQl9wWDBWamx0Tm5XNg?oc=5\" target=\"_blank\">‘공기 단축’ 모듈러 주택, 정부 발주 계기로 시장 키운다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-    "cluster_id": "682d",
-    "publisher": "세계일보",
-    "title_clean": "‘공기 단축’ 모듈러 주택, 정부 발주 계기로 시장 키운다",
-    "summary": "모듈러 주택이 공기 단축의 장점으로 주목받으며 정부 발주를 계기로 시장이 확대되고 있다. 건설업계에 새로운 수주 기회와 시장 성장 가능성을 제공하는 호재 뉴스다.",
     "sentiment": "positive",
     "collected_at": "2026-08-17T08:57:55+09:00",
     "importance": 2
