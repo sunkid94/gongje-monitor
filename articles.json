@@ -3,6 +3,23 @@
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "에너지공단, 서울보증보험·엔지니어링공제조합과 ‘지붕 태양광 발전사업’ 활성화 - 주간한국",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9keHpiT3lVREpELWNKMlBfcm5MQkpXT2VDMk5VVjk4Q2tfM3hZVGU4b1dOQVdPdzBFUjlGazBBb2JPTjJuczFHLUhSZERTczh2MGJrOGgyWWZpc0NsOExjNWw3d3U0ZVNHWjhDNFhFWEHSAXRBVV95cUxNY2dvTWdFSEd0eXJMenNQcU5MMUNzdS05N1QzNWtHZW5ZZXdCTnpUSjRySFVqSlM0Y2RsRV9ROTdyd1RDTTlXV2pjM3VUeXpNbURZeERKeXVTX2tDTjBtbE9SWG96MUZmU09BeW42UlpyOGtjNw?oc=5",
+    "description": "[주간한국 강민혜 기자] 한국에너지공단은 서울보증보험, 엔지니어링공제조합과 공단 서울지역본부에서 ‘지붕 태양광 보증보험료등 지원사업 업무협약’을 체결했다고 21일 알렸다.공단은 총 100억 원의 예산을 투입해 한국형 RE100 기업과 전력거래계약(PPA)을 체결한 지붕 태양광 발전사업자의 보험료를 최대 50%까지 지원한다. 지원규모는 전기사용자의 기업규모, 저탄소 모듈 사용 여부, 전력거래계약(PPA) 중개 플랫폼 활용 여부 등에 따라 차등 지급된다.협약에 따라 공단은 ‘지붕 태양광 보증보험료등 지원사업’ 주관기관으로 지원대상 발굴",
+    "published_at": "2026-08-21T01:14:12+09:00",
+    "cluster_id": "b1f5",
+    "publisher": "주간한국",
+    "title_clean": "에너지공단, 서울보증보험·엔지니어링공제조합과 ‘지붕 태양광 발전사업’ 활성화",
+    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 협약을 체결하여 지붕 태양광 발전사업 활성화를 위해 100억 원 규모로 보험료를 최대 50%까지 지원한다. 한국형 RE100 기업과 전력거래계약을 체결한 발전사업자를 대상으로 차등 지원할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-21T05:28:24+09:00",
+    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 업무협약 체결",
+    "importance": 5
+  },
+  {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "에너지공단, 서울보증보험·엔지니어링공제조합과 '지붕 태양광 발전사... - weekly.hankooki.com",
     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7179917",
     "description": "한국에너지공단 서울지역본부에서 진행된 '지붕 태양광 보증보험료등 지원사업 업무협약식'에서 최재관 한국에너지공단 이사장(가운데)과 이명순 서울보증보험 사장(오른쪽), 이재완 엔지니어링공제조합 이사장이 20일...",
@@ -5270,6 +5287,22 @@
     "collected_at": "2026-07-22T10:15:01+09:00",
     "event_label": "대한기계설비건설협회 AI 데이터센터 현장 점검 및 산업 활성화 정책 발굴",
     "importance": 5
+  },
+  {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"韓·中에 뺏긴 조선 패권 되찾는다\"… 日, 9년 만에 '대형 건조 독' 신... - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=202608201643081560c8c1c064d_1",
+    "description": "나무라조선소의 1,000억 엔 규모 신규 대형 도크 착공과 LNG선 건조 재개는, 향후 ‘한국(HD한국조선해양·삼성중공업·한화오션)과 중국이 양분해 온 글로벌 LNG·친환경 선박 시장의 판도 변화’와 더불어 ‘다카이치...",
+    "published_at": "2026-08-21T05:26:00+09:00",
+    "cluster_id": "33a3",
+    "publisher": "",
+    "title_clean": "\"韓·中에 뺏긴 조선 패권 되찾는다\"… 日, 9년 만에 '대형 건조 독' 신... - g-enews.com",
+    "summary": "일본 나무라조선소가 1,000억 엔 규모의 대형 도크를 신설하고 LNG선 건조를 재개하며 조선 시장 재진출을 시도하고 있습니다. 이는 한국과 중국이 주도해온 글로벌 LNG·친환경 선박 시장의 판도 변화를 예고하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-21T05:28:24+09:00",
+    "importance": 4
   },
   {
     "keyword": "롯데건설",
@@ -21199,22 +21232,6 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "빌 게이츠 방한 앞두고···K-원전, 테라파워 SMR 공급망 '선점' - 뉴스웨이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFM05kYkRtTjc4ZEdwRG9IR0FFbWdSZ203djFFT0lSNHY5Ym05dkF4UVlIUXRVRWYzZ2lHVXp1RmUtVjBnWjZvdDZFZU9zYzJRNzczQVBIeXktTUpzRklJcF9ZcEN4TGRNZ0E?oc=5",
-    "description": "빌 게이츠 이사장 방한을 계기로 테라파워의 나트륨 소형모듈원자로(SMR) 실증 사업이 본격화되며 두산에너빌리티, HD현대 등 국내 기업들이 핵심 기자재 공급에 참여하고 있다. SK·한수원·현대건설도 투자 및 설계·시공 협력을 확대하며, 한미 차세대 원전 공급망의 초기 모델이 구축되고 있다. 전력수요 증가와 정부 지원책으로 SMR 상용화에 대한 기대가 커지는 가운데, 국내 기업의 글로벌 진출과 실질 수주 전환 여부가 주목되고 있다.",
-    "published_at": "2026-08-12T15:19:01+09:00",
-    "cluster_id": "47f5",
-    "publisher": "뉴스웨이",
-    "title_clean": "빌 게이츠 방한 앞두고···K-원전, 테라파워 SMR 공급망 '선점'",
-    "summary": "빌 게이츠 방한을 계기로 테라파워의 나트륨 SMR 실증 사업이 본격화되며, 두산에너빌리티, HD현대 등 국내 기업들이 핵심 기자재 공급과 설계·시공에 참여하고 있다. 한미 차세대 원전 공급망 구축으로 국내 건설·기계설비 기업의 글로벌 진출과 수주 기회 확대가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-12T21:09:39+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32169,21 +32186,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-17T17:48:12+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[국토위- 노후 SOC 기획①] 10년 뒤 SOC 절반이 노후시설 - 국토교통신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TcXU5UjhwbmtCUzV4bjZfRkFFdWMwekI0dTZPVUQzOHBFdEEtT0ZkcXlxVVdKM0FVd0hWOVM3cEpJR2FfYzI4b2M2M3dMRkVuSW5Hc0haS0tZXzBJNnBEbmwzM1l2MGM?oc=5",
-    "description": "대한민국의 사회기반시설(SOC)이 빠른 속도로 늙어가고 있다.국토교통부 자료를 분석하면 현재 준공 후 30년 이상 된 노후시설물은 약 4만3,000개로 전체 시설물의 23%에 달한다.더 심각한 것은 앞으로의 변화다.10년 뒤인 2036년에는 30년 이상 시설물이 약 9만7,000개, 전체의 52%까지 증가할 것으로 전망된다.대한민국 주요 시설물 두 곳 가운데 한 곳 이상이 30년을 넘기는 시대가 다가오고 있는 것이다.여기에 안전등급 C·D·E 시설물도 이미 1만6,000개에 이른다.집중호우와 폭염 등 기후변화가 일상화되",
-    "published_at": "2026-08-17T16:36:30+09:00",
-    "cluster_id": "5cc5",
-    "publisher": "국토교통신문",
-    "title_clean": "[국토위- 노후 SOC 기획①] 10년 뒤 SOC 절반이 노후시설",
-    "summary": "국내 사회기반시설(SOC)의 노후화가 심각한 상황으로, 현재 30년 이상 시설물이 전체의 23%이며 2036년에는 52%까지 증가할 것으로 예측된다. 안전등급 하위 시설물도 1만6,000개에 달해 대규모 노후 SOC 개선·보수 수요가 발생할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-17T16:43:14+09:00",
-    "importance": 2
   }
 ]
