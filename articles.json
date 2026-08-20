@@ -5135,23 +5135,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "경남도, 5000km 뛴 하도급 세일즈…상반기 773억 수주 결실 - newsfreezone.co.kr",
-    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700280",
-    "description": "기동팀은 경남도와 시·군 공무원, 대한전문건설협회, 대한기계설비건설협회 등 10여 명으로 구성됐다. 100억 원 이상 대형 민간·공공공사와 수도권 대기업 본사를 집중 방문하며 지역업체의 참여를 적극 요청하고...",
-    "published_at": "2026-07-21T12:28:00+09:00",
-    "cluster_id": "f94e",
-    "publisher": "newsfreezone.co.kr",
-    "title_clean": "경남도, 5000km 뛴 하도급 세일즈…상반기 773억 수주 결실",
-    "summary": "경남도가 구성한 기동팀이 수도권 대기업과 대형 공사를 집중 방문하여 지역업체 참여를 유도한 결과, 상반기 773억 원 규모의 수주를 달성했다. 대한기계설비건설협회 등 건설 관련 협회가 참여하여 지역 건설업체의 수주 확대에 기여했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T12:39:43+09:00",
-    "event_label": "대한기계설비건설협회 경남도 기동팀 수주 활동으로 상반기 773억 원 수주 달성",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21090,6 +21073,22 @@
     "summary": "대우건설의 청주 푸르지오 씨엘리체가 1순위 6.47대 1의 높은 경쟁률을 기록하며 브랜드 아파트 선호 현상이 지속되고 있다. 대형 건설사의 브랜드 가치와 차별화된 설계·시설이 분양 수요를 견인하고 있는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-12T11:29:12+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "선앤엘 '이루팩', 2분기 흑자전환…체질 개선 성과 가시화 - iminju.net",
+    "link": "http://www.iminju.net/news/articleView.html?idxno=168309",
+    "description": "이루팩은 플라스틱 패키징 사업을 바탕으로 2분기 흑자전환을 이뤄낸 반면, 건설경기 둔화의 영향을 받는 선앤엘인테리어는 상반기에도 적자를 이어갔다. 선앤엘은 실적 개선과 함께 자산 효율화에도 속도를 내고...",
+    "published_at": "2026-08-20T12:38:00+09:00",
+    "cluster_id": "e498",
+    "publisher": "iminju.net",
+    "title_clean": "선앤엘 '이루팩', 2분기 흑자전환…체질 개선 성과 가시화",
+    "summary": "선앤엘 자회사 이루팩은 플라스틱 패키징 사업으로 2분기 흑자전환을 달성하며 체질 개선이 진행 중이다. 반면 모사인 선앤엘인테리어는 건설경기 둔화의 영향으로 상반기 적자를 지속했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T12:44:01+09:00",
     "importance": 2
   },
   {
