@@ -21058,6 +21058,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "\"하청 근로자 임금 지급 여부까지 매달 확인 해야\"…원청사 관리부담 커... - mediapen.com",
+    "link": "https://www.mediapen.com/news/view/1117667",
+    "description": "적용 대상은 30일을 초과하는 도급사업 가운데 건설산업기본법상 '발주자직접지급제' 적용 범위에 들어가는... 건산연 관계자는 \"준비 기간이 짧다는 점에서 민간공사에서의 혼선 발생과 불필요한 법 위반 사업자 양산이...",
+    "published_at": "2026-08-20T14:28:00+09:00",
+    "cluster_id": "2552",
+    "publisher": "mediapen.com",
+    "title_clean": "\"하청 근로자 임금 지급 여부까지 매달 확인 해야\"…원청사 관리부담 커...",
+    "summary": "발주자직접지급제 적용 범위 확대로 원청사가 하청 근로자 임금 지급을 매달 확인해야 하는 관리 부담이 증가했다. 준비 기간 부족으로 민간공사에서의 혼선 발생과 불필요한 법 위반 사업자 양산 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-20T14:33:58+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "HJ중공업, 제2경춘국도 4공구 공사계약 체결 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDQ09tckpsSUFtNDVobzdqYWhucEhpa3RNR0R1OGlZaEpSM2VmQldHLTNKa19YTnhKRWNWUFF1THBpRWdMWVJzVHZPbUlEOVdJTnlPZVV5R2FaQVpxU1M4cFRYSm8?oc=5",
+    "description": "매일일보 = 장원석 기자 | HJ중공업이 국토교통부 원주지방국토관리청이 발주한",
+    "published_at": "2026-08-20T14:20:33+09:00",
+    "cluster_id": "fe26",
+    "publisher": "매일일보",
+    "title_clean": "HJ중공업, 제2경춘국도 4공구 공사계약 체결",
+    "summary": "HJ중공업이 국토교통부 원주지방국토관리청 발주 제2경춘국도 4공구 공사계약을 체결했습니다. 건설업계의 수주 증가로 볼 수 있는 호재입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-20T14:33:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32128,37 +32160,6 @@
     "summary": "영동양수건설소가 8월 13일 건설현장에서 노·사 합동 안전점검을 실시했다. 건설현장의 유해·위험요인을 함께 점검하고 개선방안을 모색하여 산업재해 예방과 노·사 관계 개선을 도모했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-14T22:40:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염에 주 5일 공쳤다…‘작업중지’에 날아간 일당 - news.kbs.co.kr",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637627&ref=A",
-    "description": "[신재훈/건설 노동자 : \"갑작스러운 폭염 때문에 일은 못 하게 됐고 대비책은 없고, 소비 부분에서 좀 더 아끼는 수밖에 없죠.\"] \"하루이틀은 몰라도 더 길어지면 버티기 어렵다\" \"일을 할 수밖에 없다\"고 말합니다. [양창수...",
-    "published_at": "2026-08-14T21:37:00+09:00",
-    "cluster_id": "ee57",
-    "publisher": "news.kbs.co.kr",
-    "title_clean": "폭염에 주 5일 공쳤다…‘작업중지’에 날아간 일당",
-    "summary": "극심한 폭염으로 건설 현장에서 안전상 이유로 작업이 중단되면서 일용직 노동자들이 일당 손실을 입고 있다. 노동자들은 수입 감소에 대응할 뾰족한 대책 없이 생활비 절감으로만 버티고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T21:50:06+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 여름철 풍수해 및 폭염 대비 안전관리 강화 - 서남투데이",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBST1Y0Y1NHWnFkdFg2TnVrUzR5SDlma1A0dXJZakxhY2xsLTNTLXZOY1F2VlZwaThTVEtnVWxNOHJVZG50eEdwMkM4U0dfZ0U3cngxMFRhQlZNUQ?oc=5",
-    "description": "경기도가 14일 도 재난상황실에서 ‘여름철 풍수해·폭염 등 대비 도-시군 합동회의’를 개최하고 여름철 안전관리 대책을 점검했다. 경기도, 여름철 풍수해 및 폭염 대비 안전관리 강화이 날 회의에서 도는 최근 폭염 기세가 다소 꺾였음에도 여름철이 끝날 때까지 긴장을 늦추지 않겠다는 방침을 세웠다. 특히 야외근로자, 농업인, 취약계층 등 폭염 피해에 노출되기 쉬운 도민들을 중심으로 현장 대응을 지속하고 있다",
-    "cluster_id": "4042",
-    "publisher": "서남투데이",
-    "title_clean": "경기도, 여름철 풍수해 및 폭염 대비 안전관리 강화",
-    "summary": "경기도가 여름철 풍수해와 폭염에 대비하기 위해 도-시군 합동회의를 개최하고 안전관리 대책을 점검했다. 야외근로자, 농업인, 취약계층 등을 중심으로 현장 대응을 지속할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-14T21:30:10+09:00",
     "importance": 2
   }
 ]
