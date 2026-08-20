@@ -21231,6 +21231,38 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[초점] 시류에 맞춰 진화하는 산업전시회 코리아빌드위크, 4개 섹션 동시... - gasnews.com",
+    "link": "https://www.gasnews.com/news/articleView.html?idxno=126432",
+    "description": "수평적 융합은 전통 건축 자재뿐 아니라 건설자동화·로보틱스, 피지컬 AI를 비롯한 스마트건설 기술, 건축소방안전, 전기차 충전 인프라처럼 이질적인 산업도 함께 편성했다는 점이다. 여기에 LX하우시스 등 대형...",
+    "published_at": "2026-08-21T07:04:00+09:00",
+    "cluster_id": "9f3b",
+    "publisher": "gasnews.com",
+    "title_clean": "[초점] 시류에 맞춰 진화하는 산업전시회 코리아빌드위크, 4개 섹션 동시...",
+    "summary": "코리아빌드위크가 건축자재, 스마트건설 기술, 건축소방안전, 전기차 충전 인프라 등 4개 섹션으로 확대 편성하며 시대 변화에 대응하고 있다. 전통 건축산업과 이질적 산업 간 수평적 융합을 통해 산업전시회의 역할을 확장하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T07:08:17+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[해명] 현재 용산공원을 활용한 구체적인 주택건설계획은 정해진 바가 없습니다. - 대한민국 정책브리핑",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5paHlFZnJZd3BUTHJQY1hVTkxFZUpjM0dvakNtRjVRNzZwY0lTNFpJZkZMNDR6Sm1BVklPQ25Dc01BZkxnMHFIZUJaNDAxSXU2OFdHN2FTWUZkcHpOSXVfekEyUHlfdWtyZnpFazNBRQ?oc=5",
+    "description": "[해명] 현재 용산공원을 활용한 구체적인 주택건설계획은 정해진 바가 없습니다. 관련 보도자료 내용입니다. 자세한 내용은 첨부파일을 참고하시기 바랍니다. - 정책브리핑 | 브리핑룸 | 사실은 이렇습니다",
+    "published_at": "2026-08-20T19:47:00+00:00",
+    "cluster_id": "0067",
+    "publisher": "대한민국 정책브리핑",
+    "title_clean": "[해명] 현재 용산공원을 활용한 구체적인 주택건설계획은 정해진 바가 없습니다.",
+    "summary": "정부가 용산공원을 활용한 주택건설 계획에 대해 현재 구체적으로 정해진 바가 없다고 해명했습니다. 향후 용산공원 개발 관련 건설 수주 가능성이 불확실한 상황입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-21T07:08:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32154,36 +32186,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-17T19:33:29+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "【스마트 건설기업】 계측의 미래는 ‘자동화·예측’이다 - 토목신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfUlA3ZmVEQmFqa2lBVjVmRjEtNFBUR1hqb3VGZ3hvaC1xclNEOVR3bWtnOHMwMUtQNW1FNjE1SUdHRkgyMDlOX2Fydlg0cC04Q21UOFdvd3NlMm5ocmVwN3pVb2NCdGtE?oc=5",
-    "description": "연약지반·터널·교량 등 건설계측 전 분야서 기술력 축적실시간 자동수집·통합분석 통해 위험징후 조기 발견한국건설계측협회 중심으로 기술기준·전문인력...",
-    "cluster_id": "6ecb",
-    "publisher": "토목신문",
-    "title_clean": "【스마트 건설기업】 계측의 미래는 ‘자동화·예측’이다",
-    "summary": "건설계측 분야에서 자동화·예측 기술이 미래의 핵심으로 떠오르고 있으며, 연약지반, 터널, 교량 등 전 분야에서 실시간 자동수집 및 통합분석을 통해 위험징후를 조기 발견하는 기술력이 축적되고 있다. 한국건설계측협회 중심으로 기술기준 확립과 전문인력 양성이 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-17T18:48:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설경기 부진 이겨낸 가구·건자재 업계 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01866326645548304",
-    "description": "건설경기 침체가 장기화하는 가운데 가구·건자재 업계가 올해 2분기 일부 사업의 성장과 비용 효율화를 앞세워 실적 방어에 성공했다. 주택 착공과 건설투자 부진으로 기업간거래(B2B) 수요는 위축됐지만, 주택 거래에...",
-    "published_at": "2026-08-17T18:00:00+09:00",
-    "cluster_id": "32cd",
-    "publisher": "edaily.co.kr",
-    "title_clean": "건설경기 부진 이겨낸 가구·건자재 업계",
-    "summary": "건설경기 침체 속에서 가구·건자재 업계가 원가 효율화와 일부 사업 성장으로 2분기 실적을 방어했다. B2B 수요는 위축됐으나 주택 거래 관련 수요로 부분적 성장을 이뤘다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-17T18:08:12+09:00",
-    "importance": 3
   }
 ]
