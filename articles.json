@@ -21231,6 +21231,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "해외 건설 수주 20년 만의 최저…'팀 코리아' 통합 모델로 돌파구 모색 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5pMWt3SHZoREs5YnpWMmVBVWNPSTdabXZUTXhFSnJmM1F4cmNXdl80SVRvTUJMMjNZSXd0aUxFU1RjN2M?oc=5",
+    "description": "2026년 상반기 수주 급감이 드러낸 구조적 취약성 2026년 상반기 국내 건설업계의 해외 수주 총액이 112억 8천만 달러(약 15조 3천억 원)에 그쳤다. 전년 동기 대비 63.6% 급감한 이 수치는 20년 만의 최저 성적으로, 단순한 계절적 부침이 아니라 한국 해외 건설산업의 경쟁 구조 자체가 흔들리고 있음을 보여준다(이코노믹리뷰 보도). 중동의 지정",
+    "published_at": "2026-08-21T06:48:25+09:00",
+    "cluster_id": "6bfb",
+    "publisher": "한국공공정책신문",
+    "title_clean": "해외 건설 수주 20년 만의 최저…'팀 코리아' 통합 모델로 돌파구 모색",
+    "summary": "2026년 상반기 국내 건설업계의 해외 수주액이 112억 8천만 달러로 전년 동기 대비 63.6% 급감하며 20년 만의 최저 성적을 기록했다. 이는 단순한 계절 변동이 아닌 한국 해외 건설산업의 경쟁 구조 약화를 시사하고 있으며, 업계가 '팀 코리아' 통합 모델 등으로 돌파구를 모색하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-21T06:53:21+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32169,21 +32185,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-17T18:08:12+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "PF대출 연체도 10년래 최고 - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12129478",
-    "description": "건설 경기 침체 장기화에 금융권 1분기 연체율 4.65% 증권사 30.4%로 가장 높아 고정이하여신 비율도 상승 건설경기 침체가 장기화하면서 금융권 부동산 프로젝트파이낸싱(PF) 대출 연체율이 약 10년 만에 최고...",
-    "published_at": "2026-08-17T17:51:00+09:00",
-    "cluster_id": "999f",
-    "publisher": "mk.co.kr",
-    "title_clean": "PF대출 연체도 10년래 최고",
-    "summary": "건설경기 침체 장기화로 금융권 PF대출 연체율이 1분기 4.65%로 10년래 최고 수준을 기록했다. 증권사의 연체율이 30.4%에 달하는 등 고정이하여신 비율도 동반 상승하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T17:53:25+09:00",
-    "importance": 4
   }
 ]
