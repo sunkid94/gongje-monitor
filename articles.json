@@ -5238,23 +5238,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "경남 건설업체, 상반기 하도급 773억원 따냈다 - mhns.co.kr",
-    "link": "https://www.mhns.co.kr/news/articleView.html?idxno=753973",
-    "description": "경남도는 시·군 공무원과 대한전문건설협회, 대한기계설비건설협회 등과 함께 하도급 기동팀을 꾸려 공사현장을 직접 찾아다니고 있다. 올해 상반기에만 대형 공사현장과 수도권 대기업 등 43곳을 찾았다. 이동...",
-    "published_at": "2026-07-21T20:50:00+09:00",
-    "cluster_id": "6f1b",
-    "publisher": "mhns.co.kr",
-    "title_clean": "경남 건설업체, 상반기 하도급 773억원 따냈다",
-    "summary": "경남도가 시·군 공무원, 대한전문건설협회, 대한기계설비건설협회 등과 하도급 기동팀을 구성해 공사현장을 방문하고 있다. 상반기에 43곳을 방문해 건설업체들의 하도급 수주 773억원을 지원했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-21T21:00:05+09:00",
-    "event_label": "대한기계설비건설협회 경남도 하도급 기동팀 활동으로 상반기 773억원 수주 창출",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21195,6 +21178,22 @@
     "summary": "롯데건설이 2분기 영업익 1224억원으로 전년 대비 230% 증가했으며, 도시정비사업에서 성수4지구 시공권을 수주했다. 올해 도시정비사업 수주 목표액 5조원을 제시하며 수익성 높은 사업을 중심으로 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-12T17:54:24+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "GS건설, 종합건설사 첫 원하청 교섭 나섰다 - m.skyedaily.com",
+    "link": "https://m.skyedaily.com/news_view.html?ID=310202",
+    "description": "스카이데일리 김진강기자 = 김태진 사장 \"호혜와 이해의 원칙으로 풀지 못할 문제 없다\" ▲ 20일 오후 GS건설과 민주노총 전국건설노동조합(건설노조), 플랜트건설노조는 서울 영등포구 노동조합 회의실에서 ‘단체협약...",
+    "published_at": "2026-08-20T21:20:00+09:00",
+    "cluster_id": "59ec",
+    "publisher": "m.skyedaily.com",
+    "title_clean": "GS건설, 종합건설사 첫 원하청 교섭 나섰다",
+    "summary": "GS건설이 종합건설사 최초로 원청·하청 간 단체협약 교섭에 나섰다. 김태진 사장은 '호혜와 이해의 원칙'으로 문제 해결이 가능하다는 입장을 밝혔다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-20T21:23:32+09:00",
     "importance": 2
   },
   {
