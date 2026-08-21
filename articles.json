@@ -5544,23 +5544,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협, 전주비전대에 발전기금 2천만원 기탁 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42MnI5dDFxT0Rvd1dpdDFqV2djR0N0eXRNUE1LdHRYdkpVUVdOVm1ka0U2RjdrNGlDeUp1OFdpQy1mbnBSX0hjWjNGazB6QzNGbzFYU0RIQUpjX1F2TlF6bdIBeEFVX3lxTFBXNDhUNE4xd3NFdXNZS1QxOEk2elJXX0JMWVdSV1NSeDBWVDFUSDdlNHdVaHVTdVdCMzJFSmhQRE1DOWdsMGFVck1qUXlUSW85dnFDY2lkdnZhY2VKcmdQVFNFMFJsLXJBSWpETnN2b0FENFF0RFFPTg?oc=5",
-    "description": "[전주=뉴시스] 윤난슬 기자 = 전북 전주비전대학교는 대한기계설비건설협회로부터 기계설비 전문 인력 양성을 위한 발전기금 2000만원을 기탁받았다고 22일 밝혔다.이날 기탁식에는 우병훈 총장과 허용주 대한기계설비건설협회장, 유제영 전북특별자치도회장, 전상철 광주·전남도회장 등 관계자들이 참석했다.대한기계설비건설협회는 전주비전대 기계과가 지역 기계설비 산업 발..",
-    "published_at": "2026-07-22T11:10:42+09:00",
-    "cluster_id": "5dd9",
-    "publisher": "뉴시스",
-    "title_clean": "대한기계설비건설협, 전주비전대에 발전기금 2천만원 기탁",
-    "summary": "대한기계설비건설협회가 전주비전대학교에 기계설비 전문 인력 양성을 위한 발전기금 2000만원을 기탁했다. 협회는 지역 기계설비 산업 발전과 인재 양성에 기여하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-22T11:30:31+09:00",
-    "event_label": "대한기계설비건설협회 전주비전대 발전기금 2000만원 기탁",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21501,6 +21484,22 @@
     "summary": "대우건설이 파푸아뉴기니 최대 자원개발 사업의 핵심 가스처리시설(Papua CPF 및 Wellpads) 공사 시공권을 획득할 전망이다. 토탈에너지스가 발주한 이 대규모 프로젝트는 건설업계에 수주 기회를 제공하는 긍정적 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-08-13T17:36:34+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "한준호 의원, 대장홍대선 덕은역 24일 본격 실착공 밝혀 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37142",
+    "description": "부천 대장신도시와 서울 홍대입구역을 연결하는 대장~홍대선 광역철도의 주요 역사인 덕은역(가칭, 108정거장)이 오는 24일 본격적인 공사에 들어간다.대장~홍대선은 총 민간투자비 약 2조 7000억 원이 투입되는 사업으로 총연장 20km 구간에 12개 정거장이 조성된다. 서해선 대곡역을 비롯해 서울 지하철 2·5·9호선 등 주요 4개 노선과 환승이 연결돼 수도권 서북부 교통 편의를 크게 개선할 철도망으로 꼽힌다.시공사인 현대건설에 따르면 24일부터 진행되는 덕은역 수직구 공사는 지하 터널의 환기와 비상대피를 담당하는 안전시설을 구축하",
+    "published_at": "2026-08-21T10:14:00+09:00",
+    "cluster_id": "91a6",
+    "publisher": "한국건설신문",
+    "title_clean": "한준호 의원, 대장홍대선 덕은역 24일 본격 실착공 밝혀",
+    "summary": "부천 대장신도선과 서울 홍대입구역을 연결하는 대장~홍대선 광역철도의 덕은역이 24일 본격 착공된다. 총 2조 7000억 원의 민간투자가 투입되는 20km 구간 12개 정거장 사업으로, 현대건설이 시공사로 참여하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T11:32:07+09:00",
     "importance": 2
   },
   {
