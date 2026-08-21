@@ -21731,6 +21731,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남광토건, 역곡 하우스토리 안전관리 고삐 - 스마트비즈",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wSVhsU25ySTBTNWxJUFRTM3hjWFcwWDJ3UE54OHkwTERFNVhCLVhCZlJYRXdLcDZJR1dGNllmTTE2OFduWVQ0M1J0R0Y5MEJWRlpTeGZiQWhHdHNYcUZjYzFoTG91Rk05SGN1Ng?oc=5",
+    "description": "| 스마트비즈 = 최형호 기자 | 남광토건이 경기도 부천시 역곡지구에서 시공 중인 신혼희망타운 현장의 안전관리를 강화하고 있다. 최근 건설현장에서 폭염에 따른 온",
+    "published_at": "2026-08-21T16:06:22+09:00",
+    "cluster_id": "9180",
+    "publisher": "스마트비즈",
+    "title_clean": "남광토건, 역곡 하우스토리 안전관리 고삐",
+    "summary": "남광토건이 경기도 부천시 역곡지구 신혼희망타운 현장에서 폭염 등 계절적 위험요소에 대응하여 안전관리를 강화하고 있다. 건설현장의 안전 관리 체계를 개선하려는 업계의 노력을 보여주는 사례이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-21T16:43:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32204,21 +32220,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-18T15:59:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "지방 미분양 '소방수' 나선 LH…5000가구 매입 추진 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720764",
-    "description": "정부와 LH는 공공이 일부 물량을 직접 매입해 건설사의 재고 부담을 줄이고 지역 건설경기 위축을 막겠다는 구상이다. 매입한 주택은 향후 '든든전세' 주택으로 공급한다. 미분양 해소와 무주택 실수요자의 주거...",
-    "published_at": "2026-08-18T15:38:00+09:00",
-    "cluster_id": "9255",
-    "publisher": "ebn.co.kr",
-    "title_clean": "지방 미분양 '소방수' 나선 LH…5000가구 매입 추진",
-    "summary": "정부와 LH가 지방 미분양 주택 5,000가구를 직접 매입하여 건설사의 재고 부담을 경감하고 지역 건설경기 위축을 방지하는 정책을 추진 중이다. 매입 주택은 향후 '든든전세' 주택으로 공급되어 미분양 해소와 무주택 실수요자의 주거 안정을 동시에 도모한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-18T15:48:58+09:00",
-    "importance": 2
   }
 ]
