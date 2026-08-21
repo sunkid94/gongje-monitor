@@ -5798,6 +5798,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'검암역 푸르지오 프라베뉴' 분양…신혼부부 등 특별공급 75% - 스트레이트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aR09JeUpNWjR3MEJOZkpSSHlqRFZnZ0VxTzlhaGVMakVEOVR3bFYzdVE1dnN5TV9hVGZ3NDI2QVZZTEtEd1BOM2M5eUN3eEZ3M3pGbTFwM1I0WlJSeHEwVDg3cW1Zam5WR1k4UGFvdk1SMGfSAXdBVV95cUxPTEhqZF8wOW11S18xN04wb3dSSWVfb29QT3JyU015anBwTVo3QzB2Mk93YnZjb2wxNVcwLVNnTTFtYngwSWFjZms4U0dwQmRlS3diaFgxdWJoMm5NRS1lY2ozTzhoUm9Dc21hU0lvbi1zdUYybW1iOA?oc=5",
+    "description": "대우건설은 인천광역시 서해구 검암동 일원에 조성하는 ‘검암역 푸르지오 프라베뉴’의 견본주택을 21일 개관하고 본격적인 분양에 나선다고 밝혔다.청약 접수는 오는 31일 특별공급을 시작으로 다음달 1일 1순위, 2일 2순위 일정으로 진행된다. 당첨자 발표는 다음달 8일, 정당 계약은 오는 11월 2일부터 4일까지 3일간 이어질 예정이다.민간참여 공공분양 단지인 ‘검암역 푸르지오 프라베뉴’는 전체 공급 물량의 약 75%가 특별공급으로 배정된다. 민간분양 대비 10%포인트 높은 20%가 배정되는 신생아 특별공급을 비롯해 생애최초, 신혼부부",
+    "published_at": "2026-08-21T10:53:49+09:00",
+    "cluster_id": "a138",
+    "publisher": "스트레이트뉴스",
+    "title_clean": "'검암역 푸르지오 프라베뉴' 분양…신혼부부 등 특별공급 75%",
+    "summary": "대우건설이 인천 검암동에 '검암역 푸르지오 프라베뉴'를 분양하며, 전체 물량의 75%를 특별공급(신혼부부, 생애최초, 신생아 등)으로 배정한다. 31일 특별공급을 시작으로 청약 접수를 진행하고 11월 정당계약을 예정하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-22T01:58:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21732,21 +21748,6 @@
     "title_clean": "중대재해 압박에 기업들, AI까지 동원해 폭염과 총력전 벌인다",
     "summary": "건설업계가 중대재해 처벌법 강화에 대응하기 위해 IoT 모니터링, AI 등 첨단 기술을 도입해 폭염 대비 안전관리에 나서고 있다. 롯데건설 등 대형사들이 실시간 온습도 감시와 자동 경고 시스템을 구축 중이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-14T10:13:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 美 테라파워 나트륨 원자로 핵심 기자재 제작 사업 수주 - mtnews.net",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PcVlpWGk5YzZnZG9VMHREQTJYTkY5SklHUWQyYnpLeXlRanpPYVlDSUtmWnV2RVNXdmlENzZkcmlDWEhCeEdkZkdSMUF2SndoUjNkbEIxNGhJdVV5Z0ItOU9tckE4dw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PcVlpWGk5YzZnZG9VMHREQTJYTkY5SklHUWQyYnpLeXlRanpPYVlDSUtmWnV2RVNXdmlENzZkcmlDWEhCeEdkZkdSMUF2SndoUjNkbEIxNGhJdVV5Z0ItOU9tckE4dw?oc=5\" target=\"_blank\">두산에너빌리티, 美 테라파워 나트륨 원자로 핵심 기자재 제작 사업 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mtnews.net</font>",
-    "cluster_id": "0734",
-    "publisher": "mtnews.net",
-    "title_clean": "두산에너빌리티, 美 테라파워 나트륨 원자로 핵심 기자재 제작 사업 수주",
-    "summary": "두산에너빌리티가 미국 테라파워의 나트륨 원자로 핵심 기자재 제작 사업을 수주했다. 이는 원자력 기계설비 제조 부문의 해외 수주 확대로 건설기계 관련 업계에 긍정적 신호다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-14T10:13:22+09:00",
     "importance": 2
   },
