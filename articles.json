@@ -5781,6 +5781,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "8.13 공급대책, 재건축·재개발 빗장 풀리나…'활짝' 웃는 건설사들 - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271453",
+    "description": "이에 삼성물산·현대건설·대우건설·DL이앤씨·GS건설 등 건설사들은 정비사업 시장에 온기가 돌 수 있다는 기대감에 활짝 웃는 모양새다. 강남권과 한강변 등 사업성이 우수한 재건축 단지를 중심으로 삼성물산...",
+    "published_at": "2026-08-22T07:00:00+09:00",
+    "cluster_id": "b794",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "8.13 공급대책, 재건축·재개발 빗장 풀리나…'활짝' 웃는 건설사들",
+    "summary": "정부의 8.13 공급대책으로 재건축·재개발 규제가 완화되면서 삼성물산, 현대건설 등 주요 건설사들이 정비사업 시장 활성화를 기대하고 있다. 강남권과 한강변 등 사업성 우수 단지를 중심으로 수주 기회가 증가할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-22T07:08:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21714,22 +21730,6 @@
     "publisher": "tokenpost.kr",
     "title_clean": "두산에너빌리티 8만원대 회복, 수주 7.1조 확인",
     "summary": "두산에너빌리티가 주가 하락 후 8만원대를 회복했으며, 2분기 실적 개선과 상반기 수주 7.1조원 확대가 주요 반등 요인이다. 다만 높은 밸류에이션과 하반기 실적 전망에 대한 불확실성이 남아있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T10:13:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"잘나가도 방심 못한다\"···HD현대·삼성重·한화오션, 中 추격 무서운... - womaneconomy.co.kr",
-    "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257288",
-    "description": "삼성중공업은 5년 만에 연간 수주액 100억 달러를 넘어선 데 이어 이달 초 누적 수주액을 102억 달러까지 늘렸다. 상선 부문에서는 LNG운반선 14척, 에탄운반선 2척, 가스운반선 4척, 원유운반선 12척 등을 수주해 고부가...",
-    "published_at": "2026-08-14T10:06:00+09:00",
-    "cluster_id": "23a1",
-    "publisher": "womaneconomy.co.kr",
-    "title_clean": "\"잘나가도 방심 못한다\"···HD현대·삼성重·한화오션, 中 추격 무서운...",
-    "summary": "삼성중공업이 5년 만에 연간 수주액 100억 달러를 돌파하고 누적 수주액 102억 달러를 달성했으며, LNG운반선 등 다양한 선종에서 고부가 수주를 확보했다. 제목에서는 한국 대형 조선사들이 중국의 추격에 직면한 경쟁 심화 상황을 우려하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-14T10:13:22+09:00",
     "importance": 2
