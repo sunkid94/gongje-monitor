@@ -5798,21 +5798,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[동정] 박용모 대한기계설비건설협회 강원특별자치도회장 - kwnews.co.kr",
-    "link": "https://www.kwnews.co.kr/article/20260722500674",
-    "description": "◇박용모 대한기계설비건설협회 강원특별자치도회장은 23일 오전 11시 서울드래곤시티 3층 그랜드볼룸 한라홀에서 열리는 제11회 기계설비의 날 기념식에 참석.",
-    "published_at": "2026-07-23T00:03:00+09:00",
-    "cluster_id": "4395",
-    "publisher": "kwnews.co.kr",
-    "title_clean": "[동정] 박용모 대한기계설비건설협회 강원특별자치도회장",
-    "summary": "박용모 대한기계설비건설협회 강원특별자치도회장이 23일 서울드래곤시티에서 열리는 제11회 기계설비의 날 기념식에 참석한다.",
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티 약세흐름…수주 소식에도 - cbci.co.kr",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600109",
+    "description": "두산에너빌리티 자료사진. AI가 생성한 이미지. 두산에너빌리티(034020)가 21일 정규장에서 약세로 마감하며 4거래일 연속 하락세를 이어갔다. 이날 코스피가 상승 마감한 것과는 엇갈린 흐름이다. 21일 KRX 장에서...",
+    "published_at": "2026-08-22T00:16:00+09:00",
+    "cluster_id": "9a8e",
+    "publisher": "cbci.co.kr",
+    "title_clean": "두산에너빌리티 약세흐름…수주 소식에도",
+    "summary": "두산에너빌리티가 4거래일 연속 하락세를 이어가며 약세를 보이고 있다. 수주 소식 같은 긍정적 뉴스에도 불구하고 주가는 약세 흐름을 벗어나지 못하고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-07-23T00:11:13+09:00",
-    "event_label": "대한기계설비건설협회 박용모 회장 제11회 기계설비의 날 기념식 참석",
-    "importance": 5
+    "collected_at": "2026-08-22T00:28:49+09:00",
+    "importance": 3
   },
   {
     "keyword": "대우건설",
@@ -21746,22 +21745,6 @@
     "summary": "두산에너빌리티가 빌 게이츠가 설립한 미국의 테라파워와 소형모듈원전(SMR) 핵심 기자재 제작 계약을 체결했다. 이는 차세대 원전 시장 진출 및 해외 수주 확대의 기회로 기계설비건설 업계에 긍정적인 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-08-14T10:13:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌, 테라파워와 SMR 핵심기자재 제작계약 - busan.com",
-    "link": "https://www.busan.com/view/busan/view.php?code=2026081409545169613",
-    "description": "두산에너빌리티가 미국 테라파워의 소듐냉각고속로(SFR) 초도호기에 들어가는 핵심 기자재 제작을 맡으며 글로벌 소형모듈원전(SMR) 공급망에서 입지를 넓히게 됐다. 두산에너빌리티는 테라파워와 원자로 보호용기...",
-    "published_at": "2026-08-14T09:56:00+09:00",
-    "cluster_id": "d6ae",
-    "publisher": "busan.com",
-    "title_clean": "두산에너빌, 테라파워와 SMR 핵심기자재 제작계약",
-    "summary": "두산에너빌리티가 미국 테라파워의 소듐냉각고속로(SFR) 초도호기 핵심 기자재 제작을 수주하며 글로벌 SMR 공급망에서의 입지를 확대했다. 이는 한국 기계설비건설업체의 원전 관련 해외 수주 확대로 이어지는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T10:03:03+09:00",
     "importance": 2
   },
   {
