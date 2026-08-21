@@ -3,6 +3,23 @@
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "SGI서울보증, 지붕 태양광 사업자 보증보험료 지원으로 친환경 행보 지속 - 일요주간",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82UlNSdy16ajRkNmwzNGNGQWlJVkNBYTZlWm9GbE84ZUZuOENSWFFtSTJRa3UyckhpX2ZxUTZJdUNoMUxGWDg1b0M1X0M3aWVHblRYZGJGY0o3VzVRNU0yQ2RZZUhjUGcyVkZhRklyNlBrM2c?oc=5",
+    "description": "SGI서울보증, 지붕태양광발전 보급 확대 위해 한국에너지공단,엔지니어링공제조합과 맞손",
+    "published_at": "2026-08-21T10:18:42+09:00",
+    "cluster_id": "9ad8",
+    "publisher": "일요주간",
+    "title_clean": "SGI서울보증, 지붕 태양광 사업자 보증보험료 지원으로 친환경 행보 지속",
+    "summary": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 협력하여 지붕태양광발전 사업자의 보증보험료를 지원하는 사업을 추진 중이다. 이는 태양광 보급 확대와 친환경 에너지 전환을 위한 금융 지원 정책이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-21T14:03:42+09:00",
+    "event_label": "엔지니어링공제조합 태양광발전 보증보험료 지원사업 추진",
+    "importance": 5
+  },
+  {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "SGI서울보증, 지붕태양광발전 보급 확대 협약 체결 - lawissue.co.kr",
     "link": "http://www.lawissue.co.kr/view.php?ud=2026082112434235279817d053b9_12",
     "description": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 '지붕 태양광 보증보험료등 지원사업 업무협약'을 체결했다고 21일 밝혔다. SGI서울보증에 따르면 이 사업은 지붕 임대형 태양광 발전사업자가 납부한...",
@@ -5610,6 +5627,22 @@
     "collected_at": "2026-07-22T15:01:35+09:00",
     "event_label": "대한기계설비건설협회 대림대학교 인재양성 지원금 전달",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "광양푸르지오센터파크, 잔여세대 공급 중 - nextdaily.co.kr",
+    "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252378",
+    "description": "대우건설이 전남 광양에 시공한 '광양푸르지오센터파크(전용면적 59·84·105㎡)'가 전반적인 경기 침체에도 분양률 98%를 기록하며 분양 마감을 앞두고 있다. 현재 59㎡와 84㎡ 타입은 전 세대 분양이 끝난 상태이며, 대형...",
+    "published_at": "2026-08-21T14:00:00+09:00",
+    "cluster_id": "fe22",
+    "publisher": "nextdaily.co.kr",
+    "title_clean": "광양푸르지오센터파크, 잔여세대 공급 중",
+    "summary": "대우건설이 시공한 광양푸르지오센터파크가 경기 침체 속에서도 98%의 높은 분양률을 기록하며 분양 마감을 앞두고 있다. 59㎡와 84㎡ 타입은 완판되었으며, 대형 평수인 105㎡ 타입의 잔여세대를 공급 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T14:03:42+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -21540,22 +21573,6 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 美 테라파워와 SMR 핵심 기자재 제작 계약 - thetracker.co.kr",
-    "link": "https://thetracker.co.kr/View.aspx?No=4186396",
-    "description": "더트래커 장진 기­자 jjin@thetracker.co.kr 더트래커 = 장진 기자두산에너빌리티는 미국 첨단 원자력 기술 선도기업 '테라파워'의 나트륨 원자로용 핵심 기자재 제작 사업을 수주했다고 14일 밝혔다. 두산에너빌리티는...",
-    "published_at": "2026-08-14T08:36:00+09:00",
-    "cluster_id": "c089",
-    "publisher": "thetracker.co.kr",
-    "title_clean": "두산에너빌리티, 美 테라파워와 SMR 핵심 기자재 제작 계약",
-    "summary": "두산에너빌리티가 미국 테라파워의 소형모듈원자로(SMR) 나트륨 원자로용 핵심 기자재 제작 사업을 수주했다. 국내 기계설비건설업체의 해외 원전 관련 대형 수주로 향후 추가 수주 및 시장 확대 기회가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T08:51:42+09:00",
-    "importance": 3
-  },
-  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32188,22 +32205,6 @@
     "title_clean": "LH, 지방 미분양 아파트 4차 매입공고 실시",
     "summary": "LH가 지방의 미분양 아파트 4차 매입공고를 실시하며 건설경기 안정화를 지원하고 있다. 3차 공고 주택에 대한 현장실태조사를 완료하고 8월 중 추진 계획을 진행 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-18T13:39:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "“수출 날고, 내수는 버텼다”… 상반기 잘 나간 중견기업, 하반기엔 ‘... - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10843833?ref=naver",
-    "description": "내수와 건설경기 영향을 크게 받는 가구업체들은 외형 성장보다 비용 관리로 버텼다. 한샘의 2분기 매출은 4172억원으로 전년 동기보다 9.2% 감소했지만 영업이익은 113억원으로 400.2% 증가했다. 현대리바트도 매출이...",
-    "published_at": "2026-08-18T13:31:00+09:00",
-    "cluster_id": "6e06",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "“수출 날고, 내수는 버텼다”… 상반기 잘 나간 중견기업, 하반기엔 ‘...",
-    "summary": "상반기 수출 호조에도 불구하고 내수 부진으로 어려움을 겪는 중견기업들의 현황 분석. 가구업체들은 매출 감소 속에서도 비용 관리를 통해 이익을 확보하며 생존 전략을 취하고 있음.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-18T13:39:09+09:00",
     "importance": 2
   }
