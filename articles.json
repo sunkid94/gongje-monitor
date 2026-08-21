@@ -21735,6 +21735,21 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "“공사비 상승분 반영 적극 노력”…전재수시장, 가덕도신공항건설공단 이사장 만나 - 부산일보",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ic3Nnak90V3pUZEpzbVdBUDBCUlRvRjJveGxzdW1KaERNRzVnZFpzSHY1Rjhsa01WT1RyOXdBeHAxeFZJcFpHZEd3Y1QwdGJtWkV3SWNBZUpmdzU4aDFENnZmNlFzWmdGT2dqaExmYWFlcFFU?oc=5",
+    "description": "전재수 부산시장은 21일 오전 시청에서 이윤상 가덕도신공항건설공단 이사장을 만나 가덕도신공항 건설사업의 성공적인 추진을 위한 주요 현안을 논의했다...",
+    "cluster_id": "48e6",
+    "publisher": "부산일보",
+    "title_clean": "“공사비 상승분 반영 적극 노력”…전재수시장, 가덕도신공항건설공단 이사장 만나",
+    "summary": "전재수 부산시장이 가덕도신공항건설공단 이사장과 면담하여 공사비 상승분 반영 등 건설사업 추진의 주요 현안을 논의했다. 공사비 상승에 대한 적극적인 대응 의지를 보였다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-22T05:58:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32202,22 +32217,6 @@
     "publisher": "mt.co.kr",
     "title_clean": "종합특검, '관저이전 의혹' 김건희·윤한홍 기소…수사 종료 D-5",
     "summary": "종합특검이 관저이전 의혹 관련 김건희와 윤한홍 의원을 기소했으며, 21그램 대표 등 추가 인물도 불구속 기소했다. 수사 종료를 앞두고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T16:39:49+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "檢, '노동차 추락사' 주차설비 원청 대표 중대재해법 구속기소…서울 처... - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260818_0003753000",
-    "description": "18일 법조계에 따르면 서울중앙지검 공공수사3부(부장검사 김정옥)는 이날 기계식 주차설비 업체 A사와, 대표 B씨를 중대재해처벌법 위반(산업재해치사) 및 건설산업기본법 위반 혐의로, 사업부장 C씨를 산업안전보건법...",
-    "published_at": "2026-08-18T16:29:00+09:00",
-    "cluster_id": "7673",
-    "publisher": "newsis.com",
-    "title_clean": "檢, '노동차 추락사' 주차설비 원청 대표 중대재해법 구속기소…서울 처...",
-    "summary": "기계식 주차설비 업체 대표가 노동자 추락사 사건으로 중대재해처벌법 위반 혐의로 구속 기소되었다. 산업안전보건법 위반 등 복수 혐의로 관계자들이 함께 기소된 것으로 보인다.",
     "sentiment": "negative",
     "collected_at": "2026-08-18T16:39:49+09:00",
     "importance": 4
