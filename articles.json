@@ -21731,6 +21731,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "주우정 현대엔지니어링 대표, ‘공간·에너지 통합기업’으로 체질 개선 - ceoscoredaily.com",
+    "link": "https://www.ceoscoredaily.com/page/view/2026082116325505129",
+    "description": "특히 건설경기 침체 장기화와 취임 초기 발생한 중대재해 등 악재가 겹치면서 기존 사업구조를 넘어선 미래 성장동력 발굴의 중요성은 더욱 커졌다. 이에 주 대표는 취임 후 약 10개월 간 총 6585명의 임직원 의견을 수렴해...",
+    "published_at": "2026-08-21T17:10:00+09:00",
+    "cluster_id": "3915",
+    "publisher": "ceoscoredaily.com",
+    "title_clean": "주우정 현대엔지니어링 대표, ‘공간·에너지 통합기업’으로 체질 개선",
+    "summary": "주우정 현대엔지니어링 대표가 건설경기 침체와 중대재해 등의 악재를 극복하기 위해 공간·에너지 통합기업으로의 체질 개선을 추진 중이다. 약 10개월간 임직원 6585명의 의견을 수렴하며 기존 사업구조를 넘어 미래 성장동력 발굴에 나서고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-21T17:13:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32204,22 +32220,6 @@
     "summary": "국내 철강업계가 건설경기 침체로 수요 감소와 영업이익 악화를 겪고 있으며, 한일 양국이 관세 장벽을 높여 시장 보호에 나서고 있다. 포스코와 현대제철의 2분기 영업이익이 전년 동기 대비 40% 이상 급락했다.",
     "sentiment": "negative",
     "collected_at": "2026-08-18T16:09:00+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, '관저 이전 의혹' 김건희·윤한홍 불구속 기소 - news1.kr",
-    "link": "https://www.news1.kr/society/court-prosecution/6262025",
-    "description": "윤 의원에는 직권남용권리행사방해, 건설산업기본법위반 혐의를 적용했다. 특검팀은 김 여사와 윤 의원이 2022년 4월쯤 관저 공사를 준비하던 업체 관계자에게 김 모 21그램 대표와 건설사업자 명의대여에 관해...",
-    "published_at": "2026-08-18T15:57:00+09:00",
-    "cluster_id": "65e8",
-    "publisher": "news1.kr",
-    "title_clean": "종합특검, '관저 이전 의혹' 김건희·윤한홍 불구속 기소",
-    "summary": "종합특검이 관저 이전 의혹 관련 김건희, 윤한홍을 불구속 기소했으며, 윤 의원에게 직권남용, 건설산업기본법 위반 혐의를 적용했다. 건설사업자 명의대여 등의 위법 행위가 적용된 사건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T16:04:05+09:00",
     "importance": 4
   }
 ]
