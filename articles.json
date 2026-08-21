@@ -21767,6 +21767,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "정부 \"비주택·물류센터 PF 지원, 20년 임대 사업자는 5%룰 배제도 검토할 것\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mb2FDdFhSWEMtc1hsV3RWdnFUM1NOZ1BVZmc0SUJYaFFOMG5CRmcwbHBWckFRWkJ0aEZpRk8zdWxITTZ0c1gwSmJvLWMxVzd1TmJrM1VwUHhCNzJyTDFTak9OTUt0SVNmVkhiTmw5bXRlYWV1c0Y5Vw?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 21일 오후 서울 강남구 건설회관에서 열린 국토부",
+    "cluster_id": "8cc1",
+    "publisher": "네이트",
+    "title_clean": "정부 \"비주택·물류센터 PF 지원, 20년 임대 사업자는 5%룰 배제도 검토할 것\"",
+    "summary": "정부가 비주택·물류센터 PF(프로젝트파이낸싱) 지원 방안으로 20년 이상 임대 사업자에 대한 5%룰(의무보유율) 배제를 검토하겠다고 발표했다. 이는 물류센터 등 장기임대 사업의 PF 애로를 완화하기 위한 지원책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-21T18:28:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32205,22 +32220,6 @@
     "publisher": "view.asiae.co.kr",
     "title_clean": "종합특검, ‘관저 이전 특혜’ 김건희·윤한홍 기소…21그램 선정 개입...",
     "summary": "검찰이 관저 이전 관련 특혜 의혹으로 김건희와 윤한홍을 기소했으며, 21그램 선정 개입 등 직권남용과 알선수재 혐의를 적용했다. 건설산업기본법 위반 혐의도 포함되어 건설업계의 부정 이슈가 드러났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T16:29:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[속보] 종합특검, ‘관저 이전 의혹’ 김건희 불구속 기소…윤한홍 국민... - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10844268?ref=naver",
-    "description": "대통령인수위원회 청와대 이전 TF(태스크포스) 팀장이었던 윤한홍 국민의힘 의원도 건설산업기본법 위반 혐의로 재판에 넘겼다. 특검팀은 각각 직권남용권리행사방해 혐의도 적용했다. 특검팀은 관저 이전 공사를...",
-    "published_at": "2026-08-18T15:45:00+09:00",
-    "cluster_id": "2725",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "[속보] 종합특검, ‘관저 이전 의혹’ 김건희 불구속 기소…윤한홍 국민...",
-    "summary": "종합특검이 관저 이전 공사와 관련된 의혹으로 김건희 전 첫째 부인과 윤한홍 국민의힘 의원을 기소했다. 건설산업기본법 위반 및 직권남용 혐의가 적용되었다.",
     "sentiment": "negative",
     "collected_at": "2026-08-18T16:29:52+09:00",
     "importance": 4
