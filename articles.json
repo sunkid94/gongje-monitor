@@ -21702,6 +21702,21 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "“사람 더 투입하는 건설은 한계” - 토목신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SbUNoVzBLZDQyMzNZYzJGMGlpd3NXWEU1bExhR2dNUUY5Vm9qT2ppRVJmcUk4bk9KV3RSOUZ5N3JIY1cwMG1QVWszUzJmN3R0Z1I5NXlXM1U2VWpMZTJBdEw2dTBpZlhv?oc=5",
+    "description": "<편집자 주>건설산업은 지금 중대한 전환점에 서 있다.숙련인력은 줄어들고 현장 근로자의 고령화는 빨라지고 있다.인력과 장비를 추가 투입해 공기를...",
+    "cluster_id": "0d8e",
+    "publisher": "토목신문",
+    "title_clean": "“사람 더 투입하는 건설은 한계”",
+    "summary": "건설산업이 숙련인력 감소와 근로자 고령화로 인한 구조적 위기에 직면하고 있다. 단순히 인력과 장비 추가 투입으로는 한계가 있어 산업의 근본적 전환이 필요하다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-22T10:13:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32200,22 +32215,6 @@
     "publisher": "kado.net",
     "title_clean": "종합특검, '관저 이전 특혜' 혐의 김건희·윤한홍 기소",
     "summary": "특검팀이 관저 이전·증축 과정에서 특혜를 제공한 혐의로 김건희 여사와 윤한홍 의원을 기소했다. 건설 관련 법령 위반 혐의가 포함되어 건설업계 신뢰도 저하 우려가 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T16:39:49+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, '尹 관저 이전 의혹' 김건희·윤한홍 기소 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260818001139",
-    "description": "윤 의원은 같은 시기 김 대표가 21그램 상호를 사용해 건설공사를 수급·시공하도록 알선한 혐의(건설산업기본법 위반)도 함께 받게됐다. 김 여사와 김 대표는 같은 해 5월 법령과 규정을 어기고 21그램과 수의계약을...",
-    "published_at": "2026-08-18T16:31:00+09:00",
-    "cluster_id": "a9f2",
-    "publisher": "newspim.com",
-    "title_clean": "종합특검, '尹 관저 이전 의혹' 김건희·윤한홍 기소",
-    "summary": "종합특검이 관저 이전 의혹 관련 김건희·윤한홍을 기소했으며, 21그램을 통한 불법적 공사 수급·시공 알선 및 수의계약 위반 혐의가 포함됐다. 건설산업기본법 위반으로 적발된 사건으로 건설업계의 부정·비리 이슈다.",
     "sentiment": "negative",
     "collected_at": "2026-08-18T16:39:49+09:00",
     "importance": 4
