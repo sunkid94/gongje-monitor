@@ -5714,6 +5714,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "공사비 상승에 커지는 분양 부담…신규 분양단지 눈길 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260821_0003757919",
+    "description": "22일 부동산 전문 리서치업체 리얼투데이에 따르면 대우건설은 이달중 '검암역 푸르지오 프라베뉴'를 분양한다. 검암역 푸르지오 프라베뉴는 대우건설의 올해 첫 민간참여 공공분양 단지다. 인천검암역세권...",
+    "published_at": "2026-08-22T11:30:00+09:00",
+    "cluster_id": "ad70",
+    "publisher": "newsis.com",
+    "title_clean": "공사비 상승에 커지는 분양 부담…신규 분양단지 눈길",
+    "summary": "공사비 상승으로 분양가 부담이 커지는 가운데 대우건설이 검암역 푸르지오 프라베뉴를 올해 첫 민간참여 공공분양 단지로 선보인다. 신규 분양단지들이 시장의 주목을 받고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-22T11:33:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21648,21 +21664,6 @@
     "publisher": "경제타임스",
     "title_clean": "두산에너빌리티, 美 테라파워 SMR 기자재 수주 성공",
     "summary": "두산에너빌리티가 미국의 테라파워 소형모듈원전(SMR) 프로젝트에서 기자재 수주를 성공적으로 확보했다. 이는 국내 기계설비건설업계의 해외 수주 확대와 원전 관련 신시장 진출을 의미하는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T10:33:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 美 테라파워 나트륨 원자로 핵심 기자재 수주 - Queen 이코노미퀸",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6QTNPZWhpZURBYUg3S1d2WUhaZUZPUFk4b01PTFByd1U5dEpPMzBDZmlKNkFRck1NSXVPOTdweHR3eUNreGNuZnVRbDMxNjZTdmkxOUVnU3NsdUFWMEZUSE9HTW9aWFFmVWc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB6QTNPZWhpZURBYUg3S1d2WUhaZUZPUFk4b01PTFByd1U5dEpPMzBDZmlKNkFRck1NSXVPOTdweHR3eUNreGNuZnVRbDMxNjZTdmkxOUVnU3NsdUFWMEZUSE9HTW9aWFFmVWc?oc=5\" target=\"_blank\">두산에너빌리티, 美 테라파워 나트륨 원자로 핵심 기자재 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queen 이코노미퀸</font>",
-    "cluster_id": "4910",
-    "publisher": "Queen 이코노미퀸",
-    "title_clean": "두산에너빌리티, 美 테라파워 나트륨 원자로 핵심 기자재 수주",
-    "summary": "두산에너빌리티가 미국 테라파워의 나트륨 냉각 고속로 원자로 프로젝트에서 핵심 기자재 공급 계약을 수주했다. 이는 차세대 원전 기술 분야로의 사업 확대와 해외 수주 증가를 의미하는 긍정적 신호이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-14T10:33:06+09:00",
     "importance": 2
