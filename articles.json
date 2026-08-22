@@ -21702,6 +21702,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "마포구, 건설노동자의 정신건강을 위한 지원에 나선다 - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4102111",
+    "description": "서울 마포구가 국무조정실 범정부 생명지킴추진본부, 건설근로자공제회와 함께 건설노동자의 정신건강을 위한 지원에 나섭니다. 국가데이터처 고용동향에 따르면 올해 6월 건설업 취업자는 189만 3천 명으로 지난해 같은...",
+    "published_at": "2026-08-22T10:04:00+09:00",
+    "cluster_id": "c842",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "마포구, 건설노동자의 정신건강을 위한 지원에 나선다",
+    "summary": "마포구가 국무조정실, 건설근로자공제회와 함께 건설노동자의 정신건강 지원에 나선다. 건설업 취업자 감소 추세 속에서 근로자 복지 강화를 위한 정책 지원이 추진되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-22T10:08:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32200,22 +32216,6 @@
     "publisher": "newspim.com",
     "title_clean": "종합특검, '尹 관저 이전 의혹' 김건희·윤한홍 기소",
     "summary": "종합특검이 관저 이전 의혹 관련 김건희·윤한홍을 기소했으며, 21그램을 통한 불법적 공사 수급·시공 알선 및 수의계약 위반 혐의가 포함됐다. 건설산업기본법 위반으로 적발된 사건으로 건설업계의 부정·비리 이슈다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T16:39:49+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, ‘관저 이전 특혜 의혹’ 김건희·윤한홍 기소 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2615604",
-    "description": "윤 의원은 이와 관련해 건설산업기본법 위반 혐의로도 기소됐다. 윤 의원은 당시 대통령직인수위원회 청와대이전 태스크포스(TF) 팀장을 맡아 대통령 관저와 집무실 이전 업무를 총괄했다. 특검팀은 윤 의원이 대통령...",
-    "published_at": "2026-08-18T16:30:00+09:00",
-    "cluster_id": "9787",
-    "publisher": "etoday.co.kr",
-    "title_clean": "종합특검, ‘관저 이전 특혜 의혹’ 김건희·윤한홍 기소",
-    "summary": "종합특검이 대통령 관저 이전 업무 과정에서 특혜 의혹으로 김건희와 윤한홍 의원을 기소했다. 윤 의원은 건설산업기본법 위반 혐의도 함께 적용되어 건설업계 부정 이슈가 대두되었다.",
     "sentiment": "negative",
     "collected_at": "2026-08-18T16:39:49+09:00",
     "importance": 4
