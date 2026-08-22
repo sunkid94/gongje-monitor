@@ -5086,23 +5086,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비공제조합, 신한은행과 중동 진출 금융 지원확대 협력 - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85VWdYTHRobkRfWUNOcTVodjdKdWttZ2ViSmg4NHZVb2RBRnRVTFBack00YWt1U2Y1UVdVWFRtU195eGlDak1XQTd2dVlBTzlaYmN6bm5zTFF6czcxTlpUVnRydDFzSFlKVGxV?oc=5",
-    "description": "CI GUARANTEE(기계설비건설공제조합, 이사장 직무대행 최운구, 이하 조합)은 신한은행 두바이지점과 중동 지역에 진출하는 조합원을 대상으로 금융지원 확대를 위한 업무협약을 체결했다고 23일 밝혔다.이번 협약은 최근 중동 지역 인프라 및 플랜트 건설 프로젝트 확대에 따라 우리 기업들의 금융지원 수요가 증가하는 상황에 맞춰 마련되었다. 양 기관은 기존의 긴밀한 협력 관계를 바탕으로 조합원의 금융 부담을 완화하고, 해외 수주 경쟁력을 높이는 데 뜻을 모았다.조합은 그간 국내외 주요 금융기관과 협력하여 해외에 진출하는 조합원들에게 해",
-    "published_at": "2026-07-23T17:12:00+09:00",
-    "cluster_id": "e045",
-    "publisher": "한국건설신문",
-    "title_clean": "기계설비공제조합, 신한은행과 중동 진출 금융 지원확대 협력",
-    "summary": "기계설비건설공제조합이 신한은행 두바이지점과 중동 진출 조합원을 위한 금융지원 확대 협약을 체결했다. 중동 인프라·플랜트 프로젝트 확대에 따른 금융 수요 증가에 대응하여 조합원의 금융 부담 완화와 해외 수주 경쟁력 강화를 도모한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T21:39:53+09:00",
-    "event_label": "기계설비건설공제조합 신한은행과 중동 진출 금융지원 확대 협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21058,6 +21041,22 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T10:42:48+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충남교육청, '안전 핑계로 현장 취재 거부' - 충청탑뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNHhWWThaLW1EdGhMcEhBWkU4UlhWTWx0WktiUjR5ZS1LMGZORGhLTWU1VzNERXlmS2RsZXhrUkpsOE9IVlpVOUszVEFIRklDTmdVazlEbmh0RGJkM3VQVXNXa1k?oc=5",
+    "description": "[CTN/사회]가금현 기자= 충청남도교육청 교직원수련원 건립 현장에 대한 언론의 현장 동행 취재 요청이 사실상 거부되면서 충남교육청의 폐쇄적인 행정이 도마 위에 올랐다. 충남교육청 교직원수련원 발주처 관계자는 …",
+    "published_at": "2026-08-22T10:17:07+09:00",
+    "cluster_id": "ebc2",
+    "publisher": "충청탑뉴스",
+    "title_clean": "충남교육청, '안전 핑계로 현장 취재 거부'",
+    "summary": "충남교육청이 교직원수련원 건립 현장에 대한 언론 취재를 '안전'을 이유로 거부하면서 투명성 논란이 제기되었다. 공공 건설 프로젝트의 폐쇄적 행정 관행이 비판받고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-22T22:22:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
