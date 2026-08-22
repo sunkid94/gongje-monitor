@@ -5748,23 +5748,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회, 대림대학교에 인재 양성 지원금 200만원 전달 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325475",
-    "description": "대한기계설비건설협회(회장 허용주)가 22일 대림대학교에 기계설비 전문인력 양성 지원금 2000만원을 전달했다고 밝혔다. 서울 청담동 기계설비회관에서 진행된 기탁식에는 대림대에서 옥경재 학과장이, 협회에서는...",
-    "published_at": "2026-07-23T08:58:00+09:00",
-    "cluster_id": "b917",
-    "publisher": "대한전문건설신문",
-    "title_clean": "기계설비협회, 대림대학교에 인재 양성 지원금 200만원 전달",
-    "summary": "대한기계설비건설협회가 대림대학교에 기계설비 전문인력 양성을 위해 2000만원의 지원금을 전달했다. 건설업계 인재 육성을 위한 협회의 사회공헌 활동.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T09:05:12+09:00",
-    "event_label": "대한기계설비건설협회 대림대학교에 인재양성 지원금 2000만원 전달",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21716,6 +21699,22 @@
     "summary": "두산에너빌리티가 미국 테라파워의 나트륨 원자로용 핵심 기자재 제작 사업을 수주했다. 이는 국내 기계설비건설업계의 해외 수주 확대 및 첨단 원자력 기술 시장 진출을 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-08-14T10:13:22+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "기후 급반전해 대기의 강 출현‥뒤집히는 기후에 흔들리는 세계 [기후인... - imnews.imbc.com",
+    "link": "https://imnews.imbc.com/newszoomin/newsinsight/6846507_29123.html",
+    "description": "방재 전문가 정창삼 교수(인덕대 스마트건설방재학과)는 정부와 지자체가 다양한 재난 시나리오를 만들고, 미리 고민해 두는 것이 중요하다고 말합니다. 지난해 강릉이 도시 전체의 수원을 '오봉저수지' 한 곳에...",
+    "published_at": "2026-08-22T09:01:00+09:00",
+    "cluster_id": "99b3",
+    "publisher": "imnews.imbc.com",
+    "title_clean": "기후 급반전해 대기의 강 출현‥뒤집히는 기후에 흔들리는 세계 [기후인...",
+    "summary": "기후변화로 인한 극단적 기후 현상이 증가하면서 재난 대응의 필요성이 대두되고 있다. 전문가들은 정부와 지자체가 다양한 재난 시나리오를 사전에 준비할 것을 강조하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-22T09:08:30+09:00",
     "importance": 2
   },
   {
