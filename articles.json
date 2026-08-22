@@ -5053,39 +5053,6 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설공제조합, 신한은행 두바이지점과 맞손...중동 진출 조합원 지원 확대 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=40912",
-    "description": "[건설이코노미뉴스] 기계설비건설공제조합(CI GUARANTEE·이사장 직무대행 최운구)은 신한은행 두바이지점과 중동 지역에 진출하는 조합원을 대상으로 금융지원 확대를 위한 업무협약을 체결했다고 23일 밝혔다.이번 협약은 최근 중동 지역을 중심으로 인프라 및 플랜트 건설 프로젝트가 확대되면서 국내 기업들의 금융지원 수요가 증가하는 상황에 대응하기 위해 마련됐다.양 기관은 기존 협력 관계를 바탕으로 중동 시장에 진출하는 조합원들의 금융 부담을 완화하고 해외수주 경쟁력을 높이는 데 협력하기로 했다.조합은 그동안 국내외 주요 금융기관과 협",
-    "published_at": "2026-07-23T22:38:00+09:00",
-    "cluster_id": "3fa9",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "기계설비건설공제조합, 신한은행 두바이지점과 맞손...중동 진출 조합원 지원 확대",
-    "summary": "기계설비건설공제조합이 신한은행 두바이지점과 업무협약을 체결하여 중동 진출 조합원에 대한 금융지원을 확대한다. 중동의 인프라·플랜트 건설 프로젝트 증가에 따른 국내 기업의 금융수요 증가에 대응하고 해외수주 경쟁력을 강화하는 것을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T22:39:44+09:00",
-    "event_label": "기계설비건설공제조합 신한은행 두바이지점과 중동 진출 조합원 금융지원 협약 체결",
-    "importance": 5
-  },
-  {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "도회 기계설비협회 회원사 4명 장관 표창 - 전북중앙",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSGZjdnRrUV92LUYtZmVXcTZVSmlzQ1h2aExLQ3R5bDJqTkljak44WDl1aURZeTN5dm9zVGxxV1RMUF96OGJQMHBUU0dyT3VLTWI1UnBySG5ZUlBLZXNtRFVjYm9SWUh1TGZB0gFrQVVfeXFMUFBIZmN2dGtRX3YtRi1mZVdxNlVKaXNDWHZoTEtDdHlsMmpOSWNqTjhYOXVpRFl5M3l2b3NUbHFXVExQX3o4YlAwcFRTR3JPdUtNYjVScHJIbllSUEtlc21EVWNib1JZSHVMZkE?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSGZjdnRrUV92LUYtZmVXcTZVSmlzQ1h2aExLQ3R5bDJqTkljak44WDl1aURZeTN5dm9zVGxxV1RMUF96OGJQMHBUU0dyT3VLTWI1UnBySG5ZUlBLZXNtRFVjYm9SWUh1TGZB0gFrQVVfeXFMUFBIZmN2dGtRX3YtRi1mZVdxNlVKaXNDWHZoTEtDdHlsMmpOSWNqTjhYOXVpRFl5M3l2b3NUbHFXVExQX3o4YlAwcFRTR3JPdUtNYjVScHJIbllSUEtlc21EVWNib1JZSHVMZkE?oc=5\" target=\"_blank\">도회 기계설비협회 회원사 4명 장관 표창</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북중앙</font>",
-    "cluster_id": "0371",
-    "publisher": "전북중앙",
-    "title_clean": "도회 기계설비협회 회원사 4명 장관 표창",
-    "summary": "도회 기계설비협회 회원사 소속 4명이 장관 표창을 수상했다. 기계설비 업계의 우수 인력이 정부로부터 인정받은 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-23T22:34:46+09:00",
-    "event_label": "기계설비협회 회원사 4명 장관 표창 수상",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21041,6 +21008,22 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T10:42:48+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[위클립] 8월 3주 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41354",
+    "description": "'산재와 전쟁'을 선포했던 정부는 말만 앞세우지 말고 청년노동자를 죽음으로 내몬 사회적 살인, 죽음의 외주화를 중단하라\"고 촉구함 □ 건설노조, 건설산업기본법 개정안 국회 통과 환영 성명 ▷ 어떤 내용? 20일...",
+    "published_at": "2026-08-22T23:21:00+09:00",
+    "cluster_id": "b498",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "[위클립] 8월 3주",
+    "summary": "정부의 산재 감소 공약에 대해 청년노동자 사망 문제를 지적하며 구조적 개선을 촉구하는 내용. 건설노조는 건설산업기본법 개정안의 국회 통과를 환영하고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-22T23:27:43+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
