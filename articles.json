@@ -4788,6 +4788,21 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "최고 49층 1859가구… 7호선 초역세권 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTlOLTgzM1hWTE8yTlVEUHdqM2hvNnNNLWIyWXNyZlBwN2dUWFZFd3hVeEZieDUzS2dhd01ZMS15N3lfVWFhSXZsbkZNWERMcC1BaEFxYjZuUk1xZTJaNEFtS3ZXNk96M2JKa3RCZ3pGZ3J1dmk3MmtXZ2lPT2U1ZlVzcWl6bEFq?oc=5",
+    "description": "롯데건설이 부천 상동 옛 홈플러스 부지에 1859가구 규모의 상동역 롯데캐슬 시그니처를 분양합니다. 7호선 초역세권 입지에 GTX 호재를 갖췄으며, 전용 84㎡부터 펜트하우스까지 다양한 평형으로 구성됩니다. 청약 가점이 낮은 층을 고려한 추첨제 물량을 확보하고 계약금 5% 조건 등을 통해 수요자 공략에 나섭니다.",
+    "cluster_id": "6bb2",
+    "publisher": "조선일보",
+    "title_clean": "최고 49층 1859가구… 7호선 초역세권",
+    "summary": "롯데건설이 부천 상동에 1859가구 규모의 대형 주택단지를 분양하며, 7호선 역세권 입지와 GTX 호재를 바탕으로 공급합니다. 다양한 평형과 낮은 청약 진입장벽을 통해 수요 확대를 추진 중입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-24T00:57:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20733,22 +20748,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-14T11:33:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "8·13 부동산 대책에 힘받는 건설株…AI·원전도 '플러스알파' - newsprime.co.kr",
-    "link": "http://www.newsprime.co.kr/news/article.html?no=743925",
-    "description": "올해 2분기 영업이익은 대우건설이 시장 예상치를 41.4% 웃돌았고, DL이앤씨 26.4%, 현대건설 25.2%, 삼성E&A 24.6% 등도 기대 이상의 실적을 거뒀다. 과거 원자재 가격 급등기에 수익성을 훼손했던 현장이 순차적으로...",
-    "published_at": "2026-08-14T11:18:00+09:00",
-    "cluster_id": "4f16",
-    "publisher": "newsprime.co.kr",
-    "title_clean": "8·13 부동산 대책에 힘받는 건설株…AI·원전도 '플러스알파'",
-    "summary": "8·13 부동산 대책에 힘입어 건설주들이 2분기 실적에서 시장 예상을 크게 상회했다. 대우건설, DL이앤씨, 현대건설, 삼성E&A 등 주요 건설사들이 영업이익에서 24~41% 초과 달성했으며, AI·원전 등 신사업도 추가 성장 기회로 작용하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T11:33:16+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
