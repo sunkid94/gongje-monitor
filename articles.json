@@ -20785,6 +20785,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "공장에서 집 짓는다…건설사 새 먹거리로 뜨는 ‘모듈러 주택’ - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pOVBBLU5QSGRQbEhCNmdja0pTRW1feDhiWGJqRXNjdlQ2dmFYdDhQZ2pSTFFlUXlTbE8ta0xfODRlTkRxS2h6b2xCM0NaNkdTX0VselZn?oc=5",
+    "description": "정부가 주택 공급 속도를 높이기 위해 모듈러 공공주택 발주 물량을 대폭 확대하면서 건설업계의 새 먹거리로 자리잡을지 주목된다.주택 경기 불확실성과 공사비 상승 등으로 기존 사업의 수익성 확보가 녹록지 않은 만큼 정부의 공공 발주 확대를 계기로 모듈러 주택 시장의 성장세가 더욱 가팔라질 것으로 기대되기 때문이다.다만 ‘저가·임시주택’이라는 모듈러 주택에 대한",
+    "published_at": "2026-08-24T07:00:00+09:00",
+    "cluster_id": "725f",
+    "publisher": "데일리안",
+    "title_clean": "공장에서 집 짓는다…건설사 새 먹거리로 뜨는 ‘모듈러 주택’",
+    "summary": "정부가 모듈러 공공주택 발주를 대폭 확대하면서 건설업계의 새로운 수익원으로 주목받고 있다. 주택 시장 불확실성과 공사비 상승 속에서 정부 공공 발주 확대를 통한 시장 성장이 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-24T08:12:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32156,22 +32172,6 @@
     "publisher": "nocutnews.co.kr",
     "title_clean": "특검, '관저 이전 의혹' 김건희·윤한홍 기소",
     "summary": "특별검사가 관저 이전·증축 공사와 관련해 김건희와 윤한홍을 직권남용, 권리행사방해 혐의로 기소했다. 김건희에는 알선수재, 윤한홍에는 건설산업기본법 위반 혐의가 추가 적용됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T16:59:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, '관저 이전 특혜 의혹' 김건희 기소... 윤한홍도 재판행 - hankookilbo.com",
-    "link": "https://www.hankookilbo.com/news/article/A2026081815360003230?did=NA",
-    "description": "특검팀은 윤 의원이 공사업체 역시 21그램으로 변경하도록 지시했고, 이 과정에서 21그램이 다른 건설업체 명의를 빌리도록 알선한 혐의(건설산업기본법 위반)도 함께 적용했다. 김 여사에게는 특정범죄가중처벌상...",
-    "published_at": "2026-08-18T15:40:00+09:00",
-    "cluster_id": "2c48",
-    "publisher": "hankookilbo.com",
-    "title_clean": "종합특검, '관저 이전 특혜 의혹' 김건희 기소... 윤한홍도 재판행",
-    "summary": "특검이 관저 이전 특혜 의혹과 관련해 김건희 전 도우미를 기소하고 윤한홍 의원을 재판에 넘겼다. 윤 의원이 공사업체에 21그램으로 변경 지시 및 타 건설업체 명의 차용을 알선한 혐의(건설산업기본법 위반)로 적용되었다.",
     "sentiment": "negative",
     "collected_at": "2026-08-18T16:59:56+09:00",
     "importance": 4
