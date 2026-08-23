@@ -4788,6 +4788,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "기술력 1위 ‘현대건설ʼ…계룡건설 ‘톱10ʼ 진입 [2026 시평-기술능력평가] - 한국금융신문",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CNHhPdTdYLVZVbkhTdzl4Tk9LTUhmRUw3bE5HZ2h3WjBfNEZ1TDVzZVdacUdha245OEg5UmRLZlVOZzJnVzRTYWozQXREMDRMX29NQS1hN1lWVEZoczMxNnpsVVozMUg4Sl9WMWlZYXN2RnhnR21VS25ZUng?oc=5",
+    "description": "현대건설(대표이사 이한우)이 올해 건설사 시공능력평가(시평) 기술능력평가에서 1위를 차지했다. 종합 시평에서는 삼성물산(대표이사 오세철)에 이어 2위지만 기술능력평가액은 1조8000억원을 넘어서며 주요 건설사를 앞섰다.시공능력평가는 공사실적과 재무상태, 기술능력, 신인도 등을 종합해 건",
+    "published_at": "2026-08-24T00:00:00+09:00",
+    "cluster_id": "9133",
+    "publisher": "한국금융신문",
+    "title_clean": "기술력 1위 ‘현대건설ʼ…계룡건설 ‘톱10ʼ 진입 [2026 시평-기술능력평가]",
+    "summary": "2026년 시공능력평가에서 현대건설이 기술능력평가 부문 1위를 차지했으며, 기술능력평가액 1조8000억원 이상으로 주요 건설사를 앞섰다. 종합 시평에서는 삼성물산에 이어 2위를 기록했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T03:47:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20732,22 +20748,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T11:33:16+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "【기획】국내 대기업 99개사 KSSB 전수 분석② - 기후위험은 96곳이 찾았... - impacton.net",
-    "link": "http://www.impacton.net/news/articleView.html?idxno=19974",
-    "description": "반면 대우건설은 탄소전환의 영향을 받을 수 있는 탄화수소 관련 프로젝트 18건을 전환위험 취약 사업활동으로 특정했다. 해당 프로젝트의 수주잔고는 약 4조103억원으로 전체 수주잔고 약 50조5968억원의 약 8%였다....",
-    "published_at": "2026-08-14T11:22:00+09:00",
-    "cluster_id": "a97c",
-    "publisher": "impacton.net",
-    "title_clean": "【기획】국내 대기업 99개사 KSSB 전수 분석② - 기후위험은 96곳이 찾았...",
-    "summary": "국내 대기업 99개사 기후위험 공시 분석 결과, 대우건설이 탄화수소 관련 18건의 프로젝트(4조원 규모)를 탄소전환 취약 사업으로 특정했다. 건설업계의 기후변화 및 탄소중립 전환에 따른 리스크 노출이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-14T11:33:16+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
