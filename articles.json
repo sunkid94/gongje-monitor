@@ -4820,6 +4820,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한남뉴타운에 '871억 청구서’… 보광역 분담비용 누가 내나 - fnnews.com",
+    "link": "http://www.fnnews.com/news/202608231846131090",
+    "description": "출입구, 연결통로 및 환기구 배치 등에 따라 단지 가치와 설계안 전반에 큰 영향을 받기 때문이다. 한남2구역은 대우건설, 한남3구역은 현대건설, 한남4구역은 삼성물산, 한남5구역은 DL이앤씨가 시공한다.",
+    "published_at": "2026-08-23T18:47:00+09:00",
+    "cluster_id": "c46c",
+    "publisher": "fnnews.com",
+    "title_clean": "한남뉴타운에 '871억 청구서’… 보광역 분담비용 누가 내나",
+    "summary": "한남뉴타운 보광역 분담비용 871억원 청구 문제로 분쟁 발생. 출입구, 연결통로, 환기구 배치 등이 단지 가치와 설계에 영향을 미쳐 비용 분담을 둘러싼 논란 심화.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-23T18:52:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20762,22 +20778,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-14T11:13:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 테라파워 '나트륨' 핵심 기자재 수주 - inews24.com",
-    "link": "http://www.inews24.com/view/1995010",
-    "description": "두산에너빌리티가 미국 첨단 원자력 기업 테라파워의 차세대 원자로 ‘나트륨’에 들어가는 핵심 기자재 제작 사업을 수주했다. 테라파워 초도 원자로에 기자재를 공급하며 글로벌 소형모듈원전(SMR) 공급망 진입을...",
-    "published_at": "2026-08-14T10:57:00+09:00",
-    "cluster_id": "0f44",
-    "publisher": "inews24.com",
-    "title_clean": "두산에너빌리티, 테라파워 '나트륨' 핵심 기자재 수주",
-    "summary": "두산에너빌리티가 미국 테라파워의 차세대 나트륨 원자로 핵심 기자재 제작 사업을 수주했다. 테라파워 초도 원자로에 기자재를 공급하며 글로벌 소형모듈원전(SMR) 공급망에 진입한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T11:13:36+09:00",
-    "importance": 3
   },
   {
     "keyword": "국토교통부 건설",
