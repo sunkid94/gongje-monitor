@@ -4820,22 +4820,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "‘2026 기계설비의 날’ 기념식 성료…AI 시대 선도할 ‘K-기계설비’ 비전 선포 - 냉동공조저널",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSjJBWXZVanphV2lyWVJfMF9HQ1NrdVcwZm9PcTRLSGNxT1BkSXk2bEFkUlBaMEFESDJmQUU4YndTeUJFeFFCTFRFVnMxdXozZUhwLWhqRGtjVURnNDdmWUxxaVg3WWJ5RWc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSjJBWXZVanphV2lyWVJfMF9HQ1NrdVcwZm9PcTRLSGNxT1BkSXk2bEFkUlBaMEFESDJmQUU4YndTeUJFeFFCTFRFVnMxdXozZUhwLWhqRGtjVURnNDdmWUxxaVg3WWJ5RWc?oc=5\" target=\"_blank\">‘2026 기계설비의 날’ 기념식 성료…AI 시대 선도할 ‘K-기계설비’ 비전 선포</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">냉동공조저널</font>",
-    "cluster_id": "822d",
-    "publisher": "냉동공조저널",
-    "title_clean": "‘2026 기계설비의 날’ 기념식 성료…AI 시대 선도할 ‘K-기계설비’ 비전 선포",
-    "summary": "'2026 기계설비의 날' 기념식에서 AI 시대를 선도할 'K-기계설비' 비전이 선포되었다. 기계설비 산업의 미래 방향성과 발전 전략을 제시하는 행사가 성공적으로 개최되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-24T14:12:28+09:00",
-    "event_label": "대한기계설비건설협회 '2026 기계설비의 날' 기념식 개최 및 K-기계설비 비전 선포",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20793,6 +20777,22 @@
     "summary": "대우건설이 목동8단지 재건축 입찰을 준비하며 글로벌 조경설계그룹과 협업하여 수목원 콘셉트의 차별화된 단지 설계를 추진 중이다. 건설사들이 품질과 디자인 경쟁력으로 재건축 시장에서의 수주를 확대하려는 움직임을 보여준다.",
     "sentiment": "positive",
     "collected_at": "2026-08-14T11:03:02+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "충북지식재산센터 '글로벌 IP 스타기업' 육성, 해외시장 성과 - inews365.com",
+    "link": "https://www.inews365.com/news/article.html?no=932680",
+    "description": "이를 바탕으로 국토교통부 건설신기술 제1025호를 획득하고 국내 유일의 이동식 강성 방호울타리 SB3 등급 충돌 성능평가를 완료했으며, 기획재정부·조달청 혁신제품 지정과 SOC 기술마켓 인증을 획득하는 등 기술...",
+    "published_at": "2026-08-23T14:50:00+09:00",
+    "cluster_id": "cc0f",
+    "publisher": "inews365.com",
+    "title_clean": "충북지식재산센터 '글로벌 IP 스타기업' 육성, 해외시장 성과",
+    "summary": "충북지식재산센터가 지원한 기업이 건설신기술 인증, 혁신제품 지정 등을 획득하며 글로벌 IP 스타기업으로 육성되고 있다. 이동식 강성 방호울타리 등 건설 안전 기술이 국내외 인정을 받아 건설시장 확대 기회를 창출하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-23T14:52:43+09:00",
     "importance": 2
   },
   {
