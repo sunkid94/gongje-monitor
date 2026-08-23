@@ -4822,6 +4822,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 7363억 부산 남천동 사업 ‘분양불’ 전환…P-CBO 조달 추진 - 뉴스필드",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaVVwWUpUaGJQb3IwdUoyTHF3aWpBUy1iaTd2X0tBcy1EU1ZtcFNONHJSbzJDSHJBcWF1bTFRckxpMjhTTXVsMkM3dU15VnM4YXpINUk2RkNGXzZkRGZhcmVpUFR6T2dybk9pbEFkRnBCVXFwaGEwbW9zcFA0U2dMYlJRV0tLMUxFNlZvM2NaTE9KaXRmbWd1VFlXTFZXYjVVOGlURjBiR3pEZThGQzd2SnFubU95T19lbUlVT0g2bjZKbDctREhUWlFtWU0yT3BTdTRUVXVsZEFObXFIR1FmQVJiaXYtYXI1SHJadno2U29uYmEwV09JakpmeG5fajFYTHZsZTNad2dNRzNpTk51UmdUZ1RyNS13ZktB?oc=5",
+    "description": "대우건설이 7363억원 규모 부산 남천동 공동주택 신축사업의 공사대금 지급 조건을 ‘분양수입금 내 기성불’에서 ‘분양불’로 변경했다.",
+    "published_at": "2026-08-24T07:55:54+09:00",
+    "cluster_id": "f3be",
+    "publisher": "뉴스필드",
+    "title_clean": "대우건설, 7363억 부산 남천동 사업 ‘분양불’ 전환…P-CBO 조달 추진",
+    "summary": "대우건설이 부산 남천동 7363억원 규모 공동주택 사업의 공사대금 지급 조건을 변경하여 분양불로 전환하고 P-CBO 조달을 추진 중이다. 이는 시공사의 자금 조달 방식 변경으로 프로젝트 파이낸싱 구조 재편을 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T08:07:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20769,20 +20785,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 목동8단지 '수목원형 조경' 적용 - kfenews.co.kr",
-    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662449",
-    "description": "한국금융경제신문=김한나 기자 | 대우건설이 목동8단지 아파트 재건축정비사업 입찰에서 단지 전체를 수목원으로 조성해 차별화한 조경 공간을 선보인다. 대우건설은 미국 뉴욕을 기반으로 활동하는 조경설계 그룹...",
-    "published_at": "2026-08-14T11:44:00+09:00",
-    "cluster_id": "25f2",
-    "publisher": "kfenews.co.kr",
-    "title_clean": "대우건설, 목동8단지 '수목원형 조경' 적용",
-    "summary": "대우건설이 목동8단지 아파트 재건축정비사업 입찰에서 수목원형 조경을 적용하여 차별화된 공간을 제안하고 있다. 미국의 유명 조경설계 그룹과 협력하여 프리미엄 조경으로 경쟁력을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T11:53:19+09:00",
-    "importance": 2
+    "title": "'착공 절벽'에 건설 현장 '스톱'…일용직 직격탄 - econovill.com",
+    "link": "https://www.econovill.com/news/articleView.html?idxno=748594",
+    "description": "건설경기 체감지수는 이미 100선이 무너진 지 오래고 이제 장기화 조짐까지 보이면서 비관론이 확산되는 모양새다. 단순한 경기 침체에 따른 현상이 아닌 건설산업 생태계 전반으로 퍼지며 고착되고 있다는 점에서...",
+    "published_at": "2026-08-24T08:00:00+09:00",
+    "cluster_id": "5aec",
+    "publisher": "econovill.com",
+    "title_clean": "'착공 절벽'에 건설 현장 '스톱'…일용직 직격탄",
+    "summary": "건설경기 체감지수가 100선 아래로 내려가며 착공 절벽 현상이 심화되고 있다. 단순 경기 침체를 넘어 건설산업 생태계 전반에 악영향이 퍼지면서 일용직 근로자들이 직격탄을 맞고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T08:07:46+09:00",
+    "importance": 5
   },
   {
     "keyword": "국토교통부 건설",
@@ -32159,21 +32175,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-18T16:59:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "승강기부터 미분양·보훈까지… LH 주거안정 확대 - pressman.kr",
-    "link": "https://www.pressman.kr/news/articleView.html?idxno=103228",
-    "description": "매입 주택은 향후 '든든전세'로 공급해 지방 건설경기 지원과 무주택 실수요자의 주거안정을 함께 도모할 계획이다. 보훈 분야 사회공헌도 확대했다. LH는 서울 강동구 중앙보훈병원 내 노후 휴게공간을 개선해 'LH Lounge...",
-    "published_at": "2026-08-18T16:52:00+09:00",
-    "cluster_id": "aba8",
-    "publisher": "pressman.kr",
-    "title_clean": "승강기부터 미분양·보훈까지… LH 주거안정 확대",
-    "summary": "LH가 매입 주택을 '든든전세'로 공급하여 지방 건설경기를 지원하고 무주택층의 주거안정을 도모할 계획이다. 보훈 분야 사회공헌도 확대하며 노후 시설 개선 사업을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-18T16:59:56+09:00",
-    "importance": 2
   }
 ]
