@@ -20784,6 +20784,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"안전장구 구매ㆍ관리 근로자에 맡겨야\" - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FdzctaGp4Y2JjTFdRa0ZhRW9PTDl2Q1BrSy1XMlNzdG5VY1JVX0REZ0RqSDRrS0dtMFlNRnQyWWx3Zl9hT2FtNmVQZ0hzTThMRGhiVnlOX29GSV9vZWFNZU1JN3ZiNEc0cmFQMTN1YWpwNERE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5FdzctaGp4Y2JjTFdRa0ZhRW9PTDl2Q1BrSy1XMlNzdG5VY1JVX0REZ0RqSDRrS0dtMFlNRnQyWWx3Zl9hT2FtNmVQZ0hzTThMRGhiVnlOX29GSV9vZWFNZU1JN3ZiNEc0cmFQMTN1YWpwNERE?oc=5\" target=\"_blank\">\"안전장구 구매ㆍ관리 근로자에 맡겨야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "2869",
+    "publisher": "대한경제",
+    "title_clean": "\"안전장구 구매ㆍ관리 근로자에 맡겨야\"",
+    "summary": "안전장구 구매 및 관리를 근로자에게 맡겨야 한다는 주장이 제기되고 있습니다. 이는 현재의 안전장구 관리 체계에 대한 문제 제기로 보입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T06:47:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32159,21 +32174,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-18T16:59:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "불법 하도급 공사서 외국인 노동자 추락사…檢, 원청 대표이사 구속기소 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20080460?ref=naver",
-    "description": "서울중앙지검 공공수사3부(김정옥 부장검사)는 18일 기계식 주차설비 업체 대표 A 씨를 중대재해처벌법상 산업재해치사와 건설산업기본법 위반 혐의로 구속기소했다고 밝혔다. 이 업체 사업부장 B 씨도 산업안전보건법...",
-    "published_at": "2026-08-18T16:43:00+09:00",
-    "cluster_id": "39cf",
-    "publisher": "sedaily.com",
-    "title_clean": "불법 하도급 공사서 외국인 노동자 추락사…檢, 원청 대표이사 구속기소",
-    "summary": "기계식 주차설비 업체 대표가 불법 하도급 공사에서 외국인 노동자 추락사를 야기한 혐의로 구속기소됨. 중대재해처벌법과 건설산업기본법 위반으로 적발되어 업계에 대한 규제 강화 신호.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T16:49:27+09:00",
-    "importance": 4
   }
 ]
