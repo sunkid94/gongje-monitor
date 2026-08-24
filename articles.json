@@ -4805,23 +4805,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[2026기계설비의날] 임정묵 목원엔지니어링 상무 ‘국토교통부 장관 표창’ 수상 - 냉동공조저널",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUjFHemlKdWdjWW1uNlotS1A2Tm9WckUtRENDTEx5UTRtZVg1SFZFUWxwNUo4dnhKOWdIYU45RDBEQzRRbUNIeXRtRDhNb2Q2bzlBdTJVdmFuSm13TW81eGVTRXc3Q1NVZ2c?oc=5",
-    "description": "임정묵 ㈜목원엔지니어링 상무가 7월 23일 열린 ‘제11회 기계설비의 날 기념식’에서 국토교통부 장관 표창을 수상했다.임 상무는 기술업무에 대한 책임을 바탕으로",
-    "published_at": "2026-07-24T16:50:00+09:00",
-    "cluster_id": "7f7f",
-    "publisher": "냉동공조저널",
-    "title_clean": "[2026기계설비의날] 임정묵 목원엔지니어링 상무 ‘국토교통부 장관 표창’ 수상",
-    "summary": "임정묵 목원엔지니어링 상무가 제11회 기계설비의 날 기념식에서 국토교통부 장관 표창을 수상했다. 기술업무 책임성을 바탕으로 한 업계 공헌이 인정되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-25T18:52:50+09:00",
-    "event_label": "대한기계설비건설협회 임정묵 목원엔지니어링 상무 국토교통부 장관 표창 수상",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20785,6 +20768,22 @@
     "sentiment": "positive",
     "collected_at": "2026-08-16T02:07:49+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "엔젤스윙, 드론 기반 건설 DX 고도화 체계 제시 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51459",
+    "description": "CJ대한통운 건설부문은 2019년부터 드론 플랫폼을 활용해 현장 데이터를 축적해 왔으며, 스마트건설 로드맵과 본사 통합 계약을 거쳐 드론 스테이션 도입 및 전사 확산을 추진하고 있다. 현재는 토공량 산정, 시공...",
+    "published_at": "2026-08-24T18:54:00+09:00",
+    "cluster_id": "a917",
+    "publisher": "기계설비신문",
+    "title_clean": "엔젤스윙, 드론 기반 건설 DX 고도화 체계 제시",
+    "summary": "CJ대한통운 건설부문이 2019년부터 축적한 드론 플랫폼 데이터를 바탕으로 스마트건설 로드맵을 추진 중이며, 드론 스테이션 도입과 전사 확산을 통해 토공량 산정, 시공 관리 등 건설 DX를 고도화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-24T18:59:46+09:00",
+    "importance": 3
   },
   {
     "keyword": "건설경기",
