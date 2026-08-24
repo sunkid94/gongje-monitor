@@ -20769,6 +20769,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "한남대 학생들, 경부고속철 지하화 건설공사 반대 집회 - 충청타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KbFJ5NUNWTUdDbjVkRTQ2Y1RoMG4yVENqWncyaWY0SWhXcnkwSGZrRG1McEdXbGxWamNyX01uZkRKRkEzcUpqQm1qZXlQRzdsSHlpZTNERmlOb3BqV2tGZm92d04tclpY?oc=5",
+    "description": "[충청타임즈] 한남대학교 학생들이 국토교통부를 찾아 캠퍼스를 관통하는 경부고속철도 공사 강행을 반대하는 집회를 했다.한남대 총학생회 30여명의 학생들은 국토교통부 앞에서 학생들의 입장을 전달하는 시위를 진행하는 한편 학생들의 의견을 담은 성명서를 국토교통부에 전달했다.학생들은 국토교통부와 국가철도공단이 추진하는 ‘경부고속선 안전취약개소 대전북연결 건설공사’에 대한 사업 전면 재검토와 공사 중단을 요청했다.학생들은 “공사가 시작되면 교내 운동장, 체육시설, 동아리실, 통학로가 장기간 소음·진동·분진과 대형 공사차량의 위험에 노출되고,",
+    "published_at": "2026-08-24T16:26:00+09:00",
+    "cluster_id": "0a8c",
+    "publisher": "충청타임즈",
+    "title_clean": "한남대 학생들, 경부고속철 지하화 건설공사 반대 집회",
+    "summary": "한남대학교 학생들이 캠퍼스를 관통하는 경부고속철도 지하화 공사에 반대하며 국토교통부 앞에서 집회를 개최했다. 학생들은 소음, 진동, 분진 등으로 인한 피해와 공사 차량의 위험을 우려하며 사업 전면 재검토와 공사 중단을 요청했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T08:29:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32150,22 +32166,6 @@
     "publisher": "hani.co.kr",
     "title_clean": "종합특검, ‘관저이전 감사 무마 의혹’ 감사원 간부 불구속 기소",
     "summary": "감사원 간부가 관저이전 감사 과정에서 건설산업기본법 위반 사항을 감사보고서에서 제외하도록 지시한 혐의로 불구속 기소되었다. 건설업 규제 관련 감사 무마 의혹으로 적발된 사건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T13:39:10+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'엇갈린 충청권 2분기 경제'... 충남 수출 급증 속 대전 생산·소비 위축 - chungnamilbo.co.kr",
-    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=904762",
-    "description": "대전의 건설수주는 전년 동분기 대비 5870억 원 감소했다. 사무실·점포와 도로·교량 수주는 늘었지만 주택 수주가 5530억 원 줄어든 영향이 컸다. 다만 수출은 소폭 증가했다. 대전의 2분기 수출액은 12억7000만...",
-    "published_at": "2026-08-19T13:34:00+09:00",
-    "cluster_id": "7116",
-    "publisher": "chungnamilbo.co.kr",
-    "title_clean": "'엇갈린 충청권 2분기 경제'... 충남 수출 급증 속 대전 생산·소비 위축",
-    "summary": "충남은 2분기 수출이 급증한 반면, 대전은 주택 수주 5530억 원 감소로 건설수주가 전년 동분기 대비 5870억 원 줄어들며 생산·소비가 위축되었다. 충청권 내 지역별 경제 양극화 현상이 심화되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-19T13:39:10+09:00",
     "importance": 4
