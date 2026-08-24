@@ -4805,6 +4805,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[2보 종합] 지분 100%와 '함정 기밀'은 별개… K조선 1500억달러 통제권 - newsroad.co.kr",
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63289",
+    "description": "삼성중공업은 설계·자동화·인력 교육에 머무르지 않고 이를 실제 선박 건조와 장기 기술지원 계약으로 전환해야 한다. 결국 미국이 한국의 생산방식을 배운 뒤에도 한국 기업에 현금흐름이 계속 돌아오는 구조를...",
+    "published_at": "2026-08-24T14:44:00+09:00",
+    "cluster_id": "6f74",
+    "publisher": "newsroad.co.kr",
+    "title_clean": "[2보 종합] 지분 100%와 '함정 기밀'은 별개… K조선 1500억달러 통제권",
+    "summary": "삼성중공업이 미국의 조선 기술 이전 요구에 대응하기 위해 설계·자동화·인력 교육을 넘어 실제 선박 건조와 장기 기술지원 계약으로 전환해야 한다는 분석. 기술 이전 후에도 한국 조선업체에 지속적인 현금흐름이 돌아오는 구조 구축이 핵심.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T14:49:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20752,22 +20768,6 @@
     "publisher": "news.mtn.co.kr",
     "title_clean": "빌 게이츠 만난 정기선·최태원…AI 전력수요에 K원전 협력",
     "summary": "빌 게이츠의 테라파워와 한국 기업들이 AI 시대 전력수요 대응을 위한 원전 협력을 추진 중입니다. 두산에너빌리티가 나트륨 원자로용 핵심 기자재 제작 사업을 수주하며 차세대 원전 시장 진출을 확대하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T17:45:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "빌 게이츠, 소형모듈원전 협력 확대…SK·HD현대·두산 참여 - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2066827",
-    "description": "두산에너빌리티도 이날 테라파워와 나트륨 원자로용 핵심 기자재 제작 계약을 체결했다고 밝혔다. 두산에너빌리티는 테라파워 나트륨 원자로의 원자로 보호용기와 원자로 지지구조물, 원자로 내부구조물을...",
-    "published_at": "2026-08-14T17:40:00+09:00",
-    "cluster_id": "e320",
-    "publisher": "kado.net",
-    "title_clean": "빌 게이츠, 소형모듈원전 협력 확대…SK·HD현대·두산 참여",
-    "summary": "빌 게이츠의 테라파워가 소형모듈원전(SMR) 사업을 확대하면서 SK, 현대, 두산 등 국내 주요 기업들이 참여하고 있다. 두산에너빌리티는 나트륨 원자로용 핵심 기자재 제작 계약을 체결하며 대규모 수주 기회를 확보했다.",
     "sentiment": "positive",
     "collected_at": "2026-08-14T17:45:31+09:00",
     "importance": 2
