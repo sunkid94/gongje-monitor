@@ -20772,6 +20772,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[포토뉴스]철원군 중대재해예방 관계공무원 특별 안전교육 - kwnews.co.kr",
+    "link": "https://www.kwnews.co.kr/article/20260824500893",
+    "description": "철원군은 24일 갈말도서관 별관에서 중대재해예방 관계공무원 특별 안전교육을 갖고 건설현장 안전관리 역량 강화 교육 등을 실시했다.",
+    "published_at": "2026-08-24T15:04:00+09:00",
+    "cluster_id": "088b",
+    "publisher": "kwnews.co.kr",
+    "title_clean": "[포토뉴스]철원군 중대재해예방 관계공무원 특별 안전교육",
+    "summary": "철원군이 중대재해예방 관계공무원을 대상으로 특별 안전교육을 실시하고 건설현장 안전관리 역량 강화 교육을 진행했다. 건설현장의 안전관리 강화를 통한 중대재해 예방에 중점을 두고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T15:09:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32158,21 +32174,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T09:29:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설·조선 '임금 구분지급' 기준 나왔다…조선업 500억부터 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6564540?utm_source=naver&utm_medium=article&utm_campaign=20260819092328",
-    "description": "건설업은 건설산업기본법 개정을 통해 내년 1월 1일 시행이 추진 중인 '발주자직접지급제'와 적용 범위를 맞췄다. 발주자가 수급인 계좌를 거치지 않고 하수급인과 건설노동자 등에게 공사대금을 나눠 지급하는...",
-    "published_at": "2026-08-19T09:24:00+09:00",
-    "cluster_id": "2557",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "건설·조선 '임금 구분지급' 기준 나왔다…조선업 500억부터",
-    "summary": "건설·조선업의 임금 구분지급 기준이 확정되어 내년 1월 1일 시행 예정이다. 발주자가 수급인을 거치지 않고 하수급인과 노동자에게 직접 공사대금을 지급하는 제도로, 건설업은 발주자직접지급제와 적용 범위를 맞춘다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T09:29:06+09:00",
-    "importance": 2
   }
 ]
