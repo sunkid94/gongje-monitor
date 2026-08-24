@@ -4805,6 +4805,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "〔심층기획〕 가덕도신공항, 좌초 위기인가? ‘공사비·책임공백’ 위기인가? - 웰페어뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIb2VUSEk2cktxTEJMT3F6Y3hyV283cUd0aHY0dDRDMDQxUUlGVmN0ZEw5UDZZT3VEbHhxaEdNX1dfVUt1VHNSb1ZORTVOOGY1MTVjQkN1eFpVM0E3bXJpZTRBVDBXNUx4eU1OS2VIRQ?oc=5",
+    "description": "부산의 오랜 숙원이었던 가덕도신공항 건설 사업이 또다시 시험대에 올랐다. 사업이 당장 중단되거나 폐기되는 상황은 아니다.정부는 가덕도신공항건설을 계속 추진하고 있",
+    "published_at": "2026-08-24T11:37:51+09:00",
+    "cluster_id": "038b",
+    "publisher": "웰페어뉴스",
+    "title_clean": "〔심층기획〕 가덕도신공항, 좌초 위기인가? ‘공사비·책임공백’ 위기인가?",
+    "summary": "부산 가덕도신공항 건설사업이 공사비 증액과 책임공백 등으로 위기 상황에 직면했다. 정부는 사업을 계속 추진 중이나 공사 지연과 원가 상승으로 건설업계에 부담이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T23:14:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20751,22 +20767,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-16T13:57:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "방화뉴타운 '마지막 퍼즐' 방화2구역, 시공권 주인은? - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396319",
-    "description": "정비업계는 IPARK현대산업개발의 수주 가능성을 높게 점치고 있다. 16일 정비업계에 따르면 방화2구역 사업시행자인 한국토지신탁은 지난 14일 시공사 현장설명회를 개최했다. 이날 설명회엔 IPARK현대산업개발...",
-    "published_at": "2026-08-16T11:00:00+09:00",
-    "cluster_id": "c070",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "방화뉴타운 '마지막 퍼즐' 방화2구역, 시공권 주인은?",
-    "summary": "방화뉴타운 마지막 구역인 방화2구역의 시공사 선정이 임박했으며, 정비업계에서는 IPARK현대산업개발의 수주 가능성을 높게 평가하고 있다. 사업시행자 한국토지신탁이 시공사 현장설명회를 개최하며 시공권 결정 절차가 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-16T11:02:46+09:00",
-    "importance": 2
   },
   {
     "keyword": "모듈러 건설",
