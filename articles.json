@@ -20770,6 +20770,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[태왕 법정관리 신청] 산업포장 수상·지역 건설사 최초 골프단까지 뒀... - yeongnam.com",
+    "link": "https://www.yeongnam.com/web/view.php?key=20260824021493955",
+    "description": "유동성이 확보되면 즉시 법정관리 신청을 취하한다는 계획으로 알려지고 있다.중견건설사 태왕이앤씨의 유동성 악화는 지방 건설경기 침체로 각종 분양사업에서 대금 회수가 지연되고, 동시에 금리 상승으로 부동산...",
+    "published_at": "2026-08-24T21:32:00+09:00",
+    "cluster_id": "1df1",
+    "publisher": "yeongnam.com",
+    "title_clean": "[태왕 법정관리 신청] 산업포장 수상·지역 건설사 최초 골프단까지 뒀...",
+    "summary": "중견건설사 태왕이앤씨가 지방 건설경기 침체와 금리 상승으로 인한 유동성 악화로 법정관리 신청을 추진 중이다. 산업포장 수상 경력의 지역 건설사가 어려움을 겪으면서 건설업계의 경기 악화를 시사한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T21:39:35+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대한전문건설협회 충북도회·제천시운영위, 제천시 장애인 인재육성 후원금 500만원 기탁 - 도민연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRGlfUVQxRXZnWWZZOEUwMEFXaFloUmktYlRGYU94dWNzUkVuZ3kzTkhGRTZCaFBfUG1YeXJTdkRyQURJMzhmdmdLSnpaUm9BV3dTVnFTTVE4Wi1WQ1dDcDB3a0psQ1hFQnc?oc=5",
+    "description": "[도민연합뉴스] 제천시는 25일 대한전문건설협회 충청북도회와 제천시운영위원회가 제천시장실을 방문해 관내 장애인 인재 육성과 복지 증진을 위한 후원금 500만원을 기탁했다고 밝혔다.이날 기탁식에는 이상천 제천시장을 비롯해 대한전문건설협회 충청북도회 류근형 회장 등 도회 관계자 3명과 제",
+    "published_at": "2026-08-24T21:08:26+09:00",
+    "cluster_id": "f621",
+    "publisher": "도민연합뉴스",
+    "title_clean": "대한전문건설협회 충북도회·제천시운영위, 제천시 장애인 인재육성 후원금 500만원 기탁",
+    "summary": "대한전문건설협회 충청북도회와 제천시운영위원회가 제천시 장애인 인재육성 및 복지 증진을 위해 500만원을 기탁했다. 이는 건설업계의 사회공헌 활동을 보여주는 사례이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T21:39:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32141,37 +32173,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-19T13:29:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대한건설협회, 건설업계 25개사 청년 채용정보 한자리 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478608",
-    "description": "대한건설협회와 건설산업사회공헌재단은 국토교통부 후원으로 오는 25일 서울 강남구 건설회관 2층에서 '2026 스마트건설 청년인재 채용설명회'를 개최한다고 19일 밝혔다. 행사는 오전 10시부터 오후 5시까지 진행된다....",
-    "published_at": "2026-08-19T13:18:00+09:00",
-    "cluster_id": "b82b",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "대한건설협회, 건설업계 25개사 청년 채용정보 한자리",
-    "summary": "대한건설협회와 건설산업사회공헌재단이 국토교통부 후원으로 '2026 스마트건설 청년인재 채용설명회'를 개최한다. 25개 건설사가 참여하여 청년층의 건설업계 취업 기회를 제공하는 행사이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T13:29:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "‘서강대교 넘지 말라’ 조성현 이르면 오늘 기소 - naeil.com",
-    "link": "https://www.naeil.com/news/read/599299?ref=naver",
-    "description": "한편 종합특검은 전날 관저 이전 의혹과 관련해 김건희씨와 윤한홍 국민의힘 의원, 21그램 대표 김 모씨 등을 직권남용 권리행사방해, 건설산업기본법 위반, 특가법상 알선수재 등 혐의로 불구속 기소했다. 특검팀은...",
-    "published_at": "2026-08-19T13:08:00+09:00",
-    "cluster_id": "a1e7",
-    "publisher": "naeil.com",
-    "title_clean": "‘서강대교 넘지 말라’ 조성현 이르면 오늘 기소",
-    "summary": "조성현 전 비서실장이 기소될 것으로 예상되며, 김건희씨와 윤한홍 의원, 21그램 대표 등이 관저 이전 의혹과 관련해 직권남용, 건설산업기본법 위반, 알선수재 등 혐의로 불구속 기소됨. 건설산업기본법 위반 혐의로 건설업계 관련 의혹이 수사 대상이 되고 있는 상황.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T13:14:10+09:00",
-    "importance": 4
   }
 ]
