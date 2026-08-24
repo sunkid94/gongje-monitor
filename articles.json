@@ -20770,6 +20770,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[세상을 보며] 달라진 하늘, 달라져야 할 안전- 김종민(문화체육부장) - knnews.co.kr",
+    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1549238",
+    "description": "특히 땡볕을 견뎌야 하는 건설 노동자나 농부, 냉방비 걱정에 에어컨을 켜지 못하는 취약계층에게 폭염은 더욱 가혹하다. 폭우도 마찬가지다. 누군가에게는 잠시 불편한 비일 뿐이지만, 저지대나 반지하에 사는 사람에게는...",
+    "published_at": "2026-08-24T19:26:00+09:00",
+    "cluster_id": "1262",
+    "publisher": "knnews.co.kr",
+    "title_clean": "[세상을 보며] 달라진 하늘, 달라져야 할 안전- 김종민(문화체육부장)",
+    "summary": "기후변화로 인한 폭염과 폭우 등 극한 날씨가 심화되고 있으며, 건설 노동자와 취약계층이 이러한 자연재해의 피해를 더욱 크게 입고 있다. 안전 기준과 대책의 개선 필요성을 제기하는 칼럼이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T19:34:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32157,21 +32173,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-19T12:09:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, '尹 관저 이전 감사 무마' 감사원 간부 2명 기소 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260819000602",
-    "description": "최 전 국장은 2024년 6월 직권을 남용해 감사보고서에서 21그램의 위반행위 중 건설산업기본법 제16조 제1항(도급 시 등록 필요) 위반 부분을 제외하도록 지시한 혐의(직권남용권리행사방해)를 받는다. 손 전 과장은 같은...",
-    "published_at": "2026-08-19T12:00:00+09:00",
-    "cluster_id": "3ca0",
-    "publisher": "newspim.com",
-    "title_clean": "종합특검, '尹 관저 이전 감사 무마' 감사원 간부 2명 기소",
-    "summary": "검찰이 윤석열 대통령 관저 이전 감사를 무마한 혐의로 감사원 간부 2명을 기소했다. 감사보고서에서 건설산업기본법 위반 사항을 의도적으로 제외하도록 지시한 직권남용 혐의다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T12:09:15+09:00",
-    "importance": 4
   }
 ]
