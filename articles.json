@@ -20770,6 +20770,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[천자춘추] 건설현장 ‘패트롤 컨설팅’이 필요한 이유 - kyeonggi.com",
+    "link": "https://www.kyeonggi.com/article/20260824580090",
+    "description": "다른 산업보다 재해율이 높은 건설업의 사망사고 감소는 고무적인 일이고, 건설경기가 회복돼 공사장 노동자가 늘어도 사고는 증가하지 않도록 관리하는 것이 필요하다. 이를 위해 국토교통부와 국토안전관리원이 올해...",
+    "published_at": "2026-08-24T19:40:00+09:00",
+    "cluster_id": "cff7",
+    "publisher": "kyeonggi.com",
+    "title_clean": "[천자춘추] 건설현장 ‘패트롤 컨설팅’이 필요한 이유",
+    "summary": "건설업의 높은 재해율 감소는 긍정적이나, 건설경기 회복에 따른 노동자 증가 시에도 사고를 관리해야 한다는 점을 지적. 국토교통부와 국토안전관리원이 패트롤 컨설팅 등의 안전관리 강화 방안을 추진 중.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T19:49:40+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32157,21 +32173,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T12:23:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "다단계 하도급 건설·조선업 ‘중간착취’ 막는다…임금체불 대지급금... - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202608191200001",
-    "description": "건설업은 건설산업기본법 개정을 통해 내년부터 전자대금지급시스템 사용이 의무화되는 현장에 임금구분지급제도가 도입된다. 조선업의 경우 선박건조 및 수리 목적의 도급 사업에 적용하며, 선박 1척을 기준으로 최초...",
-    "published_at": "2026-08-19T12:00:00+09:00",
-    "cluster_id": "c2f5",
-    "publisher": "khan.co.kr",
-    "title_clean": "다단계 하도급 건설·조선업 ‘중간착취’ 막는다…임금체불 대지급금...",
-    "summary": "건설·조선업의 다단계 하도급 구조에서 발생하는 중간착취를 방지하기 위해 임금구분지급제도가 도입된다. 건설업은 내년부터 전자대금지급시스템 의무화와 함께 임금체불 문제 해결을 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T12:09:15+09:00",
-    "importance": 2
   }
 ]
