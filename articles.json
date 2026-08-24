@@ -4805,6 +4805,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[비즈투데이] 대우건설 이강석 신임 대표 \"안전 최우선\" - obsnews.co.kr",
+    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1535102",
+    "description": "대우건설 이강석 신임 대표가 국내 아파트 건설 현장을 찾아 '안전 최우선 경영 의지'를 강조했습니다. 이강석 대표는 지난 19일 오전 경기도 양주시에 위치한 '양주역 푸르지오 센터파크' 현장을 방문해 현장 안전관리 및...",
+    "published_at": "2026-08-24T20:08:00+09:00",
+    "cluster_id": "d4d5",
+    "publisher": "obsnews.co.kr",
+    "title_clean": "[비즈투데이] 대우건설 이강석 신임 대표 \"안전 최우선\"",
+    "summary": "대우건설의 신임 대표가 경기도 양주시 아파트 건설 현장을 방문하여 안전 최우선 경영 의지를 강조했습니다. 현장 안전관리를 중심으로 업계의 안전 문화 강화를 추진하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T20:14:38+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20754,20 +20770,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[분양캘린더]서울 신길·중림동 등 청약…전국 3788가구 분양 - mt.co.kr",
-    "link": "https://www.mt.co.kr/estate/2026/08/16/2026081413574232253",
-    "description": "대우건설은 서울 영등포구 신길동 3590번지 일원 신길10재정비촉진구역을 재건축한 '써밋클라비온'을 분양한다. 지하 4층~지상 최고 29층, 8개 동, 전용면적 44~84㎡, 총 812가구 규모다. 이 가운데 전용면적 44~59...",
-    "published_at": "2026-08-16T06:05:00+09:00",
-    "cluster_id": "a124",
-    "publisher": "mt.co.kr",
-    "title_clean": "[분양캘린더]서울 신길·중림동 등 청약…전국 3788가구 분양",
-    "summary": "대우건설이 서울 영등포구 신길동에서 '써밋클라비온' 재건축 프로젝트로 총 812가구를 분양하며, 전국적으로 3788가구의 분양이 진행 중이다. 신규 공급 물량 증가로 건설사의 수주 기회 및 건설 경기 활성화가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-16T06:07:48+09:00",
-    "importance": 2
+    "title": "대구 중견건설사 태왕이앤씨 결국 법정관리 신청…지역 건설업계 '긴장... - kyongbuk.co.kr",
+    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082009",
+    "description": "태왕이앤씨의 자금난에는 지역 건설경기 침체와 함께 회사가 주주이자 시공사로 참여한 특수목적법인(SPC)의 사천IC복합산업단지 사업이 영향을 미친 것으로 알려졌다. 산업단지 분양이 계획대로 진행되지 않으면서 관련...",
+    "published_at": "2026-08-24T20:10:00+09:00",
+    "cluster_id": "9323",
+    "publisher": "kyongbuk.co.kr",
+    "title_clean": "대구 중견건설사 태왕이앤씨 결국 법정관리 신청…지역 건설업계 '긴장...",
+    "summary": "대구 중견건설사 태왕이앤씨가 자금난으로 법정관리를 신청했다. 건설경기 침체와 사천IC복합산업단지 사업의 분양 부진이 주요 원인으로 지목되며 지역 건설업계에 긴장을 초래하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T20:14:38+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32157,21 +32173,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T12:49:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[재계 포커스] 사고의 그늘 걷어내고 수익성 살아난 IPARK현대산업개발... - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740607",
-    "description": "이 전략은 건설경기 침체기에는 합리적이다. 그러나 지나치게 선별 수주에 집중해 신규수주가 장기간 둔화한다면 수년 뒤 매출 감소로 돌아올 가능성도 있다. 현재의 높은 이익률과 미래의 외형 성장을 얼마나 균형...",
-    "published_at": "2026-08-19T12:28:00+09:00",
-    "cluster_id": "0d0a",
-    "publisher": "polinews.co.kr",
-    "title_clean": "[재계 포커스] 사고의 그늘 걷어내고 수익성 살아난 IPARK현대산업개발...",
-    "summary": "IPARK현대산업개발이 선별 수주 전략으로 수익성을 개선했으나, 신규수주 둔화가 지속될 경우 수년 뒤 매출 감소 위험이 있다. 현재의 높은 이익률과 미래의 외형 성장 사이의 균형 유지가 과제다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T12:39:24+09:00",
-    "importance": 2
   }
 ]
