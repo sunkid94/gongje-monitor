@@ -20770,6 +20770,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경남 건설수주액 감소율 전국 2번째 \"지역업체 공사 참여 확대해야\" - idomin.com",
+    "link": "https://www.idomin.com/news/articleView.html?idxno=2013048",
+    "description": "경남지역 건설수주액 감소율이 전국에서 두 번째로 높은 가운데 정쌍학(국민의힘·창원10) 경남도의회 건설소방위원장이 지역업체 공사 참여를 확대하는 개정안을 발의했다. 국가데이터처 '2026년 2분기 지역경제 동향...",
+    "published_at": "2026-08-24T19:02:00+09:00",
+    "cluster_id": "2535",
+    "publisher": "idomin.com",
+    "title_clean": "경남 건설수주액 감소율 전국 2번째 \"지역업체 공사 참여 확대해야\"",
+    "summary": "경남지역 건설수주액이 전국에서 두 번째로 높은 감소율을 기록하고 있다. 정쌍학 도의회 건설소방위원장이 지역업체의 공사 참여를 확대하기 위한 개정안을 발의했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T19:09:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32154,22 +32170,6 @@
     "publisher": "dailian.co.kr",
     "title_clean": "생산·소비 회복에도 고용 부진…전국 고용률 63.2%",
     "summary": "전국 건설수주액이 59조6000억원으로 전년 동분기 대비 10조8000억원 증가하며 생산·소비 회복세를 보였다. 다만 고용률이 63.2%로 부진하면서 경기 회복이 고용으로 이어지지 못하는 모습이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T12:09:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 수출 '질주'에도 지역 고용은 '뒷걸음'...지역경제 회복 온도차 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260819000469",
-    "description": "전국 수출은 1006억4000만달러 늘어난 2755억1000만달러, 건설수주는 10조8000억원 증가한 59조6000억원을 기록했다. 광공업생산은 충북과 광주, 대구 등 8개 시도에서 증가한 반면 전남과 서울, 대전 등 9개 시도에서는...",
-    "published_at": "2026-08-19T12:00:00+09:00",
-    "cluster_id": "01ed",
-    "publisher": "newspim.com",
-    "title_clean": "반도체 수출 '질주'에도 지역 고용은 '뒷걸음'...지역경제 회복 온도차",
-    "summary": "전국 수출과 건설수주가 증가했으나, 지역별로 경제 회복 격차가 심화되고 있다. 광공업생산도 일부 지역은 증가한 반면 전남, 서울, 대전 등에서는 감소하며 지역 고용 회복이 미흡한 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-19T12:09:15+09:00",
     "importance": 2
