@@ -20773,6 +20773,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "올해 1분기 임금근로 일자리 29만 개 증가…60대 이상·복지 중심 증가 - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4102290",
+    "description": "반면 건설경기 둔화의 영향으로 건설업에서는 5만 2천 개, 부동산업에서는 1천 개의 일자리가 줄어들었습니다. 가장 큰 비중을 차지하는 제조업의 경우 식료품과 반도체 부문에서는 일자리가 늘었으나 섬유제품...",
+    "published_at": "2026-08-24T13:28:00+09:00",
+    "cluster_id": "dc03",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "올해 1분기 임금근로 일자리 29만 개 증가…60대 이상·복지 중심 증가",
+    "summary": "1분기 임금근로 일자리가 29만 개 증가했으나, 건설경기 둔화로 건설업에서 5만 2천 개, 부동산업에서 1천 개의 일자리가 감소했습니다. 60대 이상과 복지 중심으로 고용이 재편되는 추세를 보이고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T13:33:58+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32160,21 +32176,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-19T05:39:17+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "“서강대교 넘지 말라” 조성현도 기소… 종합특검 ‘성과 내기’ 논란 - seoul.co.kr",
-    "link": "https://www.seoul.co.kr/news/society/law/2026/08/19/20260819008005?wlog_tag3=naver",
-    "description": "한편 특검은 이날 관저 이전 의혹과 관련해 김건희 여사, 윤한홍 국민의힘 의원, 공사업체 21그램 대표 김 모 씨 등을 직권남용 권리행사 방해 , 건설산업기본법 위반, 특가법상 알선수재 등의 혐의로 불구속기소했다....",
-    "published_at": "2026-08-19T05:01:00+09:00",
-    "cluster_id": "fa5d",
-    "publisher": "seoul.co.kr",
-    "title_clean": "“서강대교 넘지 말라” 조성현도 기소… 종합특검 ‘성과 내기’ 논란",
-    "summary": "종합특검이 관저 이전 의혹과 관련해 김건희 여사, 윤한홍 의원, 건설공사업체 21그램 대표 등을 직권남용, 건설산업기본법 위반, 알선수재 혐의로 불구속기소했다. 건설업체가 연루된 비리 혐의로 기소되면서 건설산업 신뢰도 하락 우려가 제기된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T05:09:16+09:00",
-    "importance": 4
   }
 ]
