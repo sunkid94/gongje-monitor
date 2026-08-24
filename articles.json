@@ -20769,6 +20769,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "2분기 대구·경북 경제 부문별 '명암' 엇갈려···생산·수출 늘고 건설 수주 급감 - 대구MBC",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQcmhlTzQ5WUt0MEZtRURSOEJLalJzSi12MzFYa2NWMmdwV1RncFh4WFNhMHdiQ2oxa05YZDlGZkx4cnlvcDhONUhGemM?oc=5",
+    "description": "2026년 2분기 대구·경북 지역 경제는 제조업 생산과 수출은 성장세를 이어갔지만, 건설 수주가 급감하는 등 명암이 뚜렷했습니다.동북지방데이터청이 발표한 '2026년 2분기 대구·경북 지역 경제 동향'에 따르면, 광...",
+    "cluster_id": "b586",
+    "publisher": "대구MBC",
+    "title_clean": "2분기 대구·경북 경제 부문별 '명암' 엇갈려···생산·수출 늘고 건설 수주 급감",
+    "summary": "2026년 2분기 대구·경북 지역 경제에서 제조업 생산과 수출은 성장했으나, 건설 수주가 급감하며 부정적 신호를 보였다. 건설업계의 수주 감소는 향후 공사량 감소로 이어질 가능성이 높아 업계 전망이 악화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T00:39:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32151,22 +32166,6 @@
     "publisher": "기계설비신문",
     "title_clean": "오텍캐리어, 48MW급 하이퍼스케일 데이터센터 냉각 수주",
     "summary": "오텍캐리어가 수도권 48MW급 하이퍼스케일 데이터센터 냉각 솔루션 공급업체로 선정되었으며, 고효율 무급유 인버터 터보냉동기를 공급할 예정이다. 장비 공급과 유지보수 서비스를 연계하여 데이터센터 구축부터 운영까지 전 생애주기 사업을 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T13:34:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "남동발전, 새만금에 국내 첫 청정수소 복합단지 조성 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51338",
-    "description": "한국남동발전이 새만금개발청과 함께 태양광·수전해 그린수소 생산·수소전소발전을 한 부지에 집적해 국내 첫 청정수소 복합단지 조성에 나선다.남동발전은 지난 14일 전북 군산 새만금개발청사에서 이같은 내용을 담은 ‘새만금 그린에너지 복합단지’ 조성을 위한 MOU를 체결했다고 밝혔다.해당 사업은 새만금 사업지역 3권역 305만평 부지에 1000MW급 육상 태양광발전, 320MW급 수전해 그린수소 생산설비, 100MW급 수소전소발전을 한 곳에 구축하는 프로젝트다.프로젝트의 핵심은 전기→수소→전기(P2G2P)로 이어지는 무탄소 에너지 순환 구",
-    "published_at": "2026-08-18T16:47:23+09:00",
-    "cluster_id": "849d",
-    "publisher": "기계설비신문",
-    "title_clean": "남동발전, 새만금에 국내 첫 청정수소 복합단지 조성",
-    "summary": "한국남동발전이 새만금에 태양광·수전해·수소발전을 통합한 국내 첫 청정수소 복합단지를 조성한다. 1000MW급 태양광, 320MW급 수전해, 100MW급 수소발전 설비를 한 곳에 구축하는 대규모 프로젝트로, 기계설비건설 수요 증가를 기대할 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-19T13:34:28+09:00",
     "importance": 2
