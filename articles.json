@@ -20793,6 +20793,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "미 관세에 EU 쿼터까지 축소… 한국 철강 어디로 가나 - the-biz.co.kr",
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726704",
+    "description": "포스코경영연구원은 건설경기 침체와 제조업 회복 지연에 따른 수요 부진이 고착화하면서 2026~2027년에도 국내 철강 수요가 4500만t 수준을 회복하기 어려울 것으로 전망한 바 있다. 철강업계 관계자는 \"EU 조치가...",
+    "published_at": "2026-08-24T16:00:00+09:00",
+    "cluster_id": "b874",
+    "publisher": "",
+    "title_clean": "미 관세에 EU 쿼터까지 축소… 한국 철강 어디로 가나 - the-biz.co.kr",
+    "summary": "미국 관세와 EU 쿼터 축소로 한국 철강 수출이 위축되는 가운데, 국내 건설경기 침체와 제조업 회복 지연으로 2026~2027년에도 철강 수요가 4500만t 수준 회복이 어려울 것으로 전망된다. 철강업계는 내수 부진과 수출 부진의 이중고를 겪게 될 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T16:04:12+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "[단독] 대구 ‘탑3’ 중견건설사 태왕, 법정관리 신청 - yeongnam.com",
     "link": "https://www.yeongnam.com/web/view.php?key=20260824021423927",
     "description": "태왕의 법정관리 신청은 작년 6월 경북 경산에 본사를 둔 종합건설사 <주>홍성건설에 이은 것으로, 미분양 등으로 촉발된 대구경북 건설경기 침체 여파로 보인다. 지방을 중심으로 한 건설경기 침체가 길어지면서...",
@@ -32163,21 +32179,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-19T10:49:12+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "내년부터 건설·조선업 '임금구분지급제' 전면시행…임금체불 차단 - womentimes.co.kr",
-    "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105395",
-    "description": "건설업은 공공과 민간 구분 없이 '건설산업기본법'상 '발주자직접지급제'와 적용 범위를 맞춰 내년 1월 1일부터 시행된다. 조선업은 선박 건조와 수리 목적의 도급 사업 중 최초 발주금액 120억원 이상 사업이 대상이다....",
-    "published_at": "2026-08-19T10:18:00+09:00",
-    "cluster_id": "4a57",
-    "publisher": "womentimes.co.kr",
-    "title_clean": "내년부터 건설·조선업 '임금구분지급제' 전면시행…임금체불 차단",
-    "summary": "내년 1월부터 건설·조선업에 '임금구분지급제'가 전면 시행되어 발주자가 직접 근로자에게 임금을 지급하는 방식이 도입된다. 이는 임금체불 방지를 목표로 하며, 건설업은 전면 적용되고 조선업은 120억원 이상 대규모 사업이 대상이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T10:29:23+09:00",
-    "importance": 4
   }
 ]
