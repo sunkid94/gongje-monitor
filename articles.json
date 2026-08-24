@@ -20771,6 +20771,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경남 건설수주 75%↓…정쌍학 \"지역업체부터 살린다\" - hansbiz.co.kr",
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859020",
+    "description": "사진=정수연 기자 | 경남=한스경제 정수연 기자 | 경상남도의회 건설소방위원장 정쌍학(국민의힘, 창원 10) 의원이 2026년 2분기 경남 건설수주액이 전년 동기 대비 75.2% 급감한 가운데, 지역업체의 공사 참여 기회를...",
+    "published_at": "2026-08-24T17:48:00+09:00",
+    "cluster_id": "acec",
+    "publisher": "hansbiz.co.kr",
+    "title_clean": "경남 건설수주 75%↓…정쌍학 \"지역업체부터 살린다\"",
+    "summary": "경남 건설수주액이 2026년 2분기 전년 동기 대비 75.2% 급감하며 업계 부진이 심각한 상황이다. 정쌍학 의원이 지역업체의 공사 참여 기회 확대를 통해 위기 극복을 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T17:54:49+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대방건설, 전국 14개 현장서 푸드트럭 운영…혹서기 근로자 지원 - 신아일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU3oyMTV4aEpXWnlEVXlGQ1dTM080WVlxWEhCaVc1Sm12ekhDWVBxZTAyNUZqN2lXWlIxWXFvNS1RbHRlLUl0N0pqRFFGckNJRWhDTTRWUXVZbDl4eTJUZ2hnVUtKeXZzdFJ2VGtHaTc?oc=5",
+    "description": "대방건설은 폭염 속 건설 현장 근로자의 온열질환 예방을 위해 전국 현장에서 푸드트럭을 운영하고 혹서기 안전관리 강화에 나섰다.대방건설은 지난 12~14일 경기 수",
+    "published_at": "2026-08-24T17:36:38+09:00",
+    "cluster_id": "d528",
+    "publisher": "신아일보",
+    "title_clean": "대방건설, 전국 14개 현장서 푸드트럭 운영…혹서기 근로자 지원",
+    "summary": "대방건설이 전국 14개 건설 현장에서 푸드트럭을 운영하며 폭염 시즌 근로자의 온열질환 예방에 나섰다. 혹서기 안전관리 강화를 통해 현장 근로자 복지를 개선하는 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T17:54:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32143,37 +32175,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T11:44:14+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "특검, '관저 감사 무마' 감사원 간부 2명 기소…증거 조작 혐의 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20260819080700004?input=1195m",
-    "description": "구체적으로 최씨는 그해 6월 감사보고서에서 21그램의 위반 행위 가운데 건설산업기본법상 도급 시 등록이 필요하다는 내용을 제외하도록 지시한 것으로 파악됐다. 손씨는 같은 해 7월 21그램 대표와 현장소장의 실제...",
-    "published_at": "2026-08-19T11:37:00+09:00",
-    "cluster_id": "63cf",
-    "publisher": "yna.co.kr",
-    "title_clean": "특검, '관저 감사 무마' 감사원 간부 2명 기소…증거 조작 혐의",
-    "summary": "감사원 간부 2명이 관저 감사 결과를 무마하기 위해 건설산업기본법 위반 내용을 감사보고서에서 제외하도록 지시하고 증거를 조작한 혐의로 기소됐다. 공직자의 감시·감독 기능 훼손 및 건설업체의 불법 행위 은폐로 업계 신뢰도를 크게 손상시킨 사건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T11:44:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주 2분기 경제, 수출·건설 ‘급증’에도 생산은 뒷걸음…인구 순유출 지속 - 뉴스N제주",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPU25Ja0czeHRYZVBIQUJwTlRHbjZmaTBrYjlRWnFaUy1TMlJXWWVPTHFvWFJEbTZwWXhSaEFuNWJHdjdScmxjOXFPSkJzaG9FLWd0RmNjcTZKV014eGw5eVV4d0k2QWhxR0UzVg?oc=5",
-    "description": "제주지역 경제가 올해 2분기 수출과 건설수주에서 큰 폭의 증가세를 보인 반면 광공업과 서비스업 생산은 동시에 감소한 것으로 나타났다. 소매판매와 고용지표는 개선됐지만 소비자물가는 3%대로 올라섰고 인구 순유출도 이어졌다.국가데이터처 제주사무소가 19일 발표한 ‘2026년 2분기 제주 지역경제동향’에 따르면 제주지역 광공업 생산은 전년 같은 분기보다 1.9%, 서비스업 생산은 3.0% 각각 감소했다. 반면 소매판매는 2.3%, 건설수주는 464.2%, 수출은 347.0% 증가했다.특히 건설과 수출의 증가율이 두드러지면서 외형적인 경제",
-    "published_at": "2026-08-19T08:44:59+09:00",
-    "cluster_id": "928e",
-    "publisher": "뉴스N제주",
-    "title_clean": "제주 2분기 경제, 수출·건설 ‘급증’에도 생산은 뒷걸음…인구 순유출 지속",
-    "summary": "제주 2분기 건설수주가 464.2% 급증하며 강한 성장세를 보였으나, 광공업과 서비스업 생산은 감소하고 인구 순유출이 지속되는 등 경제 전반은 불균형적 회복 양상을 보임. 수출도 347% 증가했지만 생산 기반 약화로 지역경제의 지속성에 의문이 제기됨.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T11:44:14+09:00",
-    "importance": 2
   }
 ]
