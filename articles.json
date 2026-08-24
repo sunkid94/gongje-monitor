@@ -4808,6 +4808,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "대우건설 이강석 대표, 첫 현장 행보…'안전' 강조 - kfenews.co.kr",
+    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662952",
+    "description": "한국금융경제신문=김한나 기자 | 대우건설 이강석 신임 대표가 취임 후 첫 현장 행보로 국내 아파트 건설 현장을 찾아 안전관리 실태를 점검하고 '안전 최우선 경영'을 강조했다. 대우건설 이강석 신임 대표가 19일 오전...",
+    "published_at": "2026-08-24T15:10:00+09:00",
+    "cluster_id": "7314",
+    "publisher": "kfenews.co.kr",
+    "title_clean": "대우건설 이강석 대표, 첫 현장 행보…'안전' 강조",
+    "summary": "대우건설 이강석 신임 대표가 취임 후 첫 현장 방문에서 아파트 건설 현장의 안전관리 실태를 점검했다. 새 경영진이 '안전 최우선 경영'을 강조하며 건설 현장의 안전 문화 개선에 나선다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T15:14:12+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "이강석 대우건설 대표, 첫 행보는 건설현장 … \"안전과 타협 없다\" - biz.newdaily.co.kr",
     "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400228.html",
     "description": "뉴데일리 신유진 기자 = 이강석 대우건설 신임 대표가 대표 내정 이후 첫 현장 행보로 공동주택 건설현장을 찾아 안전관리 실태를 점검했다. 여름철 폭염 대응과 근로자 보호조치를 직접 살피며 안전을 경영의 최우선...",
@@ -20756,20 +20772,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "빌 게이츠, 최태원·정기선과 회동… SMR 협력 강화 - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12128233",
-    "description": "두산에너빌리티는 테라파워와 나트륨 원자로용 핵심 기자재 제작 계약을 체결했다고 이날 밝혔다. 구체적으로 테라파워 나트륨 원자로의 원자로 보호 용기와 원자로 지지 구조물, 원자로 내부 구조물을 제작한다....",
-    "published_at": "2026-08-14T18:01:00+09:00",
-    "cluster_id": "fc03",
-    "publisher": "mk.co.kr",
-    "title_clean": "빌 게이츠, 최태원·정기선과 회동… SMR 협력 강화",
-    "summary": "빌 게이츠 테라파워가 소형모듈원자로(SMR) 개발 협력을 강화하며, 두산에너빌리티가 나트륨 원자로 핵심 기자재 제작 계약을 체결했다. 이는 차세대 원전 시장 진출로 기계설비건설 분야의 새로운 수주 기회를 창출한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T18:05:50+09:00",
-    "importance": 2
+    "title": "건설수주 75.2% 급감…정쌍학 도의원, 지역업체 수주 확대 나서 - mhns.co.kr",
+    "link": "https://www.mhns.co.kr/news/articleView.html?idxno=757478",
+    "description": "경남지역 건설수주가 전년 동기 대비 75.2% 급감한 가운데 지역 건설업체의 공사 참여 기회를 확대하고 공정한 하도급 거래와 현장 노동자의 안전을 강화하기 위한 조례 개정이 추진된다. 정쌍학 경상남도의회...",
+    "published_at": "2026-08-24T15:08:00+09:00",
+    "cluster_id": "20ed",
+    "publisher": "mhns.co.kr",
+    "title_clean": "건설수주 75.2% 급감…정쌍학 도의원, 지역업체 수주 확대 나서",
+    "summary": "경남지역 건설수주가 전년 동기 대비 75.2% 급감하며 업계 부진이 심화되고 있다. 지역업체 수주 확대와 함께 하도급 거래 공정화 및 현장 안전 강화를 위한 조례 개정이 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-24T15:14:12+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32158,21 +32174,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-19T09:29:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "보성군, 군의원 남편 소유 건설회사에 4년간 133건 수의계약 - pressian.com",
-    "link": "https://www.pressian.com/pages/articles/2026081909224300440?utm_source=naver&utm_medium=search",
-    "description": "문 위원장은 \"건설산업이 지역경제를 지탱하는 핵심 산업인 만큼 지역업체가 공사에 보다 적극적으로 참여할 수 있는 기반을 마련해야 한다\"며 \"건설산업기본법의 취지가 현장에서 실효성 있게 운영될 수 있도록...",
-    "published_at": "2026-08-19T09:24:00+09:00",
-    "cluster_id": "aba4",
-    "publisher": "pressian.com",
-    "title_clean": "보성군, 군의원 남편 소유 건설회사에 4년간 133건 수의계약",
-    "summary": "보성군이 군의원의 남편 소유 건설회사에 4년간 133건의 수의계약을 발주한 것으로 드러났다. 지역업체 참여 확대를 명분으로 내세웠으나 특정 업체에 대한 과도한 수의계약 관행이 문제가 되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T09:29:06+09:00",
-    "importance": 4
   }
 ]
