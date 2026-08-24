@@ -20769,6 +20769,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“지역 건설업 수주 참여 확대·노동자 안전 강화를” - knnews.co.kr",
+    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1549298",
+    "description": "경남지역 건설업체의 수주 참여를 확대하고 건설노동자의 안전을 강화하기 위한 조례 개정안이 발의됐다. 국민의힘 정쌍학(창원10) 경남도의회 건설소방위원장은 24일 ‘경상남도 지역 건설산업 활성화 조례 일부개정...",
+    "published_at": "2026-08-25T07:56:00+09:00",
+    "cluster_id": "343c",
+    "publisher": "knnews.co.kr",
+    "title_clean": "“지역 건설업 수주 참여 확대·노동자 안전 강화를”",
+    "summary": "경남도의회에서 지역 건설업체의 수주 참여 확대와 건설노동자 안전 강화를 위한 조례 개정안이 발의됐다. 이는 경남 건설산업 활성화를 목표로 한 정책 추진이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T07:59:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32153,20 +32169,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T13:39:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"수원 군공항 이전, 경기통합국제공항 건설\" 온라인 서명운동 확대…네이버폼으로 참여 문턱 낮춘다 - 비전21뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ValF3d2hLR3lETlRNeFJ1X0M3WmkyRi1veV9jcG4tNm9SNkYtVkdSc1RzZFp1MTRGeFMwWVZ2ZXdqaFNsU0tHMTkwUTVDWnRkdWhmUlhFN2x5c0M2SU1tRw?oc=5",
-    "description": "(비전21뉴스=정서영 기자) 수원군공항이전 및 경기통합국제공항 추진 시민협의회(이하 시민협의회)가 수원 군공항 이전과 경기통합국제공항 건설 사업의 조속한 추진을 촉구하기 위해 8월 19일부터 네이버폼을 활용한 온라인 서명운동을 확대 추진한다. 접근성 높은 네이버폼으로 참여 경로 확대이번 온라인 서명운동 확대는 시민들이 보다 쉽고 편리하게 참여할 수 있도록",
-    "cluster_id": "8c11",
-    "publisher": "비전21뉴스",
-    "title_clean": "\"수원 군공항 이전, 경기통합국제공항 건설\" 온라인 서명운동 확대…네이버폼으로 참여 문턱 낮춘다",
-    "summary": "수원 군공항 이전 및 경기통합국제공항 건설 사업을 추진하는 시민협의회가 8월 19일부터 네이버폼을 통한 온라인 서명운동을 확대한다. 접근성을 높여 시민 참여를 활성화하고 사업의 조속한 추진을 촉구하는 취지다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T13:39:10+09:00",
-    "importance": 2
   }
 ]
