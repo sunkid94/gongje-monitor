@@ -4805,6 +4805,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부울경 1시간 생활권 목표…울산~창원 철도 예타 통과 촉각 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260825.22003006677",
+    "description": "가덕도신공항과 관련해서는 접근철도(16.5㎞·복선전철)가 착공을 기다리고 있다. 1공구(8.5㎞)는 롯데건설 컨소시엄이, 2공구(8㎞)는 쌍용건설 컨소시엄이 공사를 한다. 예상 완공 시기는 2031년이다.",
+    "published_at": "2026-08-24T19:56:00+09:00",
+    "cluster_id": "348b",
+    "publisher": "kookje.co.kr",
+    "title_clean": "부울경 1시간 생활권 목표…울산~창원 철도 예타 통과 촉각",
+    "summary": "가덕도신공항 접근철도(16.5㎞) 건설이 본격화되고 있으며, 롯데건설과 쌍용건설 컨소시엄이 각각 1공구와 2공구를 맡아 2031년 완공을 목표로 하고 있다. 부울경 지역의 1시간 생활권 구현을 위한 울산~창원 철도 예타 통과가 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-24T19:59:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20754,19 +20770,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "삐끗하던 대장홍대선 다시 정상화, 대우 빠지고 현대건설 주도권 장악 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401556.html",
-    "description": "지난해 12월 착공식을 열었지만 이후 역사 설치를 둘러싼 지자체·국토교통부 간 법적 다툼, 시공사인 대우건설의 사업 철수 등으로 진통을 겪었던 ‘대장홍대선’이 다시 진행에 속도를 내고 있다. 대우건설이 빠진...",
-    "published_at": "2026-08-16T06:02:00+09:00",
-    "cluster_id": "12d6",
-    "publisher": "realty.chosun.com",
-    "title_clean": "삐끗하던 대장홍대선 다시 정상화, 대우 빠지고 현대건설 주도권 장악",
-    "summary": "대장홍대선 프로젝트가 역사 설치 분쟁과 대우건설 철수 등의 어려움을 겪었으나 현대건설이 주도권을 장악하며 사업 진행이 다시 가속화되고 있다. 이는 건설사 교체로 인한 프로젝트 정상화를 의미한다.",
+    "title": "주택건설사업 기부채납 완화로 민간주택 사업 주택 공급 촉진 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KNUc4RHQzZkpZSVptSmtmUXBHY0hxbkxWaHJNX3JkSHhZZ1A4SnpIYXoxajJuZUt0Qk5NY3BybnZJT3ZOZ0xBRW9aZGZTTEVVR3RPWG1GSzBJdEdTU2ZLVEF3REhLcjVSamVQWDFB?oc=5",
+    "description": "문화체육관광부에서 운영하는 대한민국 정책을 제공하는 포털사이트로 정책뉴스, 정책포커스, 국민이말하는정책, 정책기고, 문화칼럼, 사실은이렇습니다, 멀티미디어뉴스, 보도자료, 브리핑자료, 연설문, 채용정보 등을 서비스합니다. - 정책브리핑 | 뉴스 | 카드/한컷",
+    "published_at": "2026-08-24T13:28:00+00:00",
+    "cluster_id": "249c",
+    "publisher": "대한민국 정책브리핑",
+    "title_clean": "주택건설사업 기부채납 완화로 민간주택 사업 주택 공급 촉진 - 카드/한컷 | 멀티미디어",
+    "summary": "정부가 주택건설사업의 기부채납 요건을 완화하여 민간주택 사업의 진입장벽을 낮추고 있다. 이러한 규제 완화는 주택 공급 촉진과 건설사업 활성화를 목표로 한다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-16T06:07:48+09:00",
+    "collected_at": "2026-08-24T19:59:44+09:00",
     "importance": 2
   },
   {
@@ -32157,21 +32173,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-19T12:39:24+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "종합특검, '관저 감사 무마' 감사원 간부 2명 기소…\"증거 왜곡·조작\" - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/life/2355492.htm",
-    "description": "구체적으로 최 씨는 2024년 6월께 직권을 남용해 감사보고서에서 21그램의 건설산업기본법 위반 사항 가운데 '도급 시 등록 필요' 부분을 제외하도록 지시한 혐의를 받는다. 손 씨는 같은 해 7월께 21그램 대표와 현장소장의...",
-    "published_at": "2026-08-19T12:20:00+09:00",
-    "cluster_id": "31da",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "종합특검, '관저 감사 무마' 감사원 간부 2명 기소…\"증거 왜곡·조작\"",
-    "summary": "감사원 간부 2명이 건설회사 '21그램'의 건설산업기본법 위반 사항을 감사보고서에서 제외하도록 지시한 혐의로 기소됐다. 증거 왜곡·조작 혐의로 적발되며 건설업계 규제 당국의 신뢰성 문제가 노출됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T12:23:53+09:00",
-    "importance": 4
   }
 ]
