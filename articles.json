@@ -20772,6 +20772,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 불황 끝자락 보이나…주택 착공 14%↑, 시멘트업계 ‘회복 시간표... - thepowernews.co.kr",
+    "link": "https://www.thepowernews.co.kr/view.php?ud=202608241014213171de3f0aa1be_7",
+    "description": "건설경기 침체가 장기화하면서 시멘트 공장 가동률도 크게 떨어졌다. 시멘트는 생산설비 규모가 크고 고정비 비중이 높은 장치산업이다. 공장이 덜 돌아갈수록 톤당 고정비 부담이 커져 판매량 감소가 곧바로 수익성...",
+    "published_at": "2026-08-24T12:40:00+09:00",
+    "cluster_id": "9311",
+    "publisher": "thepowernews.co.kr",
+    "title_clean": "건설 불황 끝자락 보이나…주택 착공 14%↑, 시멘트업계 ‘회복 시간표...",
+    "summary": "건설경기 침체로 시멘트 산업의 공장 가동률이 저하되었으나, 주택 착공이 14% 증가하면서 건설 불황의 끝자락이 보이고 있다. 시멘트업계는 고정비 부담 증가로 수익성 악화를 겪고 있지만 회복의 시간표를 기다리는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-24T12:43:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32159,22 +32175,6 @@
     "summary": "기본소득당 노동위원회가 반복되는 전기버스 화재 문제를 지적하며 지자체, 제조사, 운수회사에 근본적 안전대책 마련을 촉구했다. 전기버스 보급의 양적 확대보다 노동자와 시민의 생명을 지킬 수 있는 안전대책이 필요하다는 입장이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-19T01:59:31+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "산재 사망 10명 중 8명 소규모 사업장인데…안전보건공시는 500인 이상부터 - 인천일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uc0JDd0ZDamVaSzRVNmNsa2ZCTlNQWFJBREZfakE4c3hlQWVEOUx2NnhGajZKTWktOHdYaEd4X29QcjZjaEJxTUE4Zy1UdGVicmtLNEVNdVJyOEI4dGh3OEQ5QVdGOGtKV1otMW9aaFU?oc=5",
-    "description": "산업재해 예방을 위해 기업의 안전보건 현황을 공개하는 ‘안전보건공시제’가 이달부터 시행됐지만, 정작 사고사망자가 집중되는 소규모 사업장 상당수는 의무 공시 대상에서 제외돼 제도 실효성을 높이기 위한 보완이 필요하다는 지적이 나온다.",
-    "published_at": "2026-08-18T15:51:00+09:00",
-    "cluster_id": "1b7a",
-    "publisher": "인천일보",
-    "title_clean": "산재 사망 10명 중 8명 소규모 사업장인데…안전보건공시는 500인 이상부터",
-    "summary": "산업재해 예방을 위해 이달부터 시행된 안전보건공시제가 500인 이상 기업만 의무 대상으로 지정돼 있어, 사고사망자의 80%가 발생하는 소규모 사업장이 공시 대상에서 제외되고 있다. 제도의 실효성을 높이기 위해 소규모 사업장까지 의무 공시 범위 확대 등의 보완이 필요하다는 지적이 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-18T23:29:31+09:00",
     "importance": 4
   }
 ]
