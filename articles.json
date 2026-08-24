@@ -4805,6 +4805,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"받자니 증설 부담, 놓치자니 중국행\"…K조선, LNG선 수주 딜레마 - ziksir.com",
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=144067",
+    "description": "삼성중공업 LNG운반선. [삼성중공업] ◇수주 한 척이 다음 계약 실적으로…中 기술·가격 추격 국내 조선사의 제한된 건조 여력은 해외 선주가 중국 조선소를 대체 건조처로 검토하는 요인 가운데 하나로 작용할 수...",
+    "published_at": "2026-08-25T06:00:00+09:00",
+    "cluster_id": "d58a",
+    "publisher": "ziksir.com",
+    "title_clean": "\"받자니 증설 부담, 놓치자니 중국행\"…K조선, LNG선 수주 딜레마",
+    "summary": "국내 조선사들이 LNG운반선 수주 증설로 인한 건조 여력 부담과 중국 조선소의 기술·가격 경쟁력 추격 사이에서 딜레마를 겪고 있다. 제한된 건조 능력으로 인해 해외 선주들이 중국 조선소를 대체 건조처로 검토하면서 수주 기회 상실 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T06:04:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20753,20 +20769,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "공사비 50% 파격 지원…'모듈러 주택' 공급 게임체인저 될까 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260814_0003750218",
-    "description": "민간이 초기 비용을 감당하고도 안정적 수익을 확보하기 어려운 구조이다 보니, 실제로 국내 최초로 모듈러 학교·공동주택 사업을 수행했던 포스코이앤씨의 자회사 포스코 A&C는 올해 모듈러 제작·설치 사업을...",
-    "published_at": "2026-08-17T05:00:00+09:00",
-    "cluster_id": "49c2",
-    "publisher": "newsis.com",
-    "title_clean": "공사비 50% 파격 지원…'모듈러 주택' 공급 게임체인저 될까",
-    "summary": "정부가 모듈러 주택 공급 활성화를 위해 공사비 50%를 지원하는 파격적 정책을 추진 중이다. 그간 민간 수익성 부족으로 사업이 저조했으나, 정부 지원으로 모듈러 건설 시장 확대 및 건설사의 새로운 수주 기회 창출이 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-17T05:07:43+09:00",
-    "importance": 3
+    "title": "경남도의회, 수해복구부터 지역건설·농업 현장까지 민생 행보 강화 - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202608250011",
+    "description": "이번 조례안은 최근 악화된 경남 건설경기와 지역업체 수주 감소에 대응하기 위한 것이다. 2026년 2분기 경남 건설수주액은 6230억원으로 전년 동기 대비 75.2% 감소했고, 지역업체 원도급 수주율도 2023년 53.7%에서 2024년 46.9...",
+    "published_at": "2026-08-25T05:58:00+09:00",
+    "cluster_id": "3401",
+    "publisher": "kukinews.com",
+    "title_clean": "경남도의회, 수해복구부터 지역건설·농업 현장까지 민생 행보 강화",
+    "summary": "경남도의회가 건설경기 악화에 대응하기 위해 조례안을 추진 중. 2026년 2분기 건설수주액이 전년 동기 대비 75.2% 감소하고 지역업체 수주율도 하락한 상황에서 민생 지원 강화",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T06:04:37+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32153,21 +32169,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-19T13:36:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체가 끌어올린 3.2% 성장…\"AI 호황 뒤 한국경제가 더 문제다\" - newsian.co.kr",
-    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93920",
-    "description": "건설경기 회복은 여전히 더디다 내수의 또 다른 축인 건설투자 역시 뚜렷한 반등을 기대하기 어려운 상황이다. KDI는 올해 건설투자가 0.1% 증가하는 데 그칠 것으로 전망했다. 지방 부동산 경기 침체와 높은 공사비가...",
-    "published_at": "2026-08-19T13:28:00+09:00",
-    "cluster_id": "090e",
-    "publisher": "newsian.co.kr",
-    "title_clean": "반도체가 끌어올린 3.2% 성장…\"AI 호황 뒤 한국경제가 더 문제다\"",
-    "summary": "반도체 호황으로 한국경제가 3.2% 성장했으나, 건설투자는 0.1%에 그칠 것으로 예상된다. 지방 부동산 침체와 높은 공사비로 건설경기 회복이 지연되고 있어 내수 기반이 약해질 우려가 제기된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T13:34:28+09:00",
-    "importance": 4
   }
 ]
