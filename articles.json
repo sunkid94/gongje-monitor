@@ -20754,6 +20754,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설수주 급감에 지역업체 참여 확대… 경남도의회, 하도급·안전 기준... - ziksir.com",
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=144140",
+    "description": "[경남도의회] 경남 건설경기가 전국 흐름과 반대로 크게 위축되면서 지역업체의 수주 기회를 제도적으로 넓히려는 움직임이 경남도의회에서 시작됐다. 단순한 지역업체 우대에 그치지 않고 하도급 거래의 공정성과...",
+    "published_at": "2026-08-25T09:36:00+09:00",
+    "cluster_id": "9fec",
+    "publisher": "ziksir.com",
+    "title_clean": "건설수주 급감에 지역업체 참여 확대… 경남도의회, 하도급·안전 기준...",
+    "summary": "경남 건설경기 위축으로 지역업체의 수주 기회를 확대하기 위해 경남도의회가 제도 개선에 나섰다. 단순 우대를 넘어 하도급 거래 공정성과 안전 기준 강화를 추진하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T09:39:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32150,22 +32166,6 @@
     "publisher": "교통뉴스",
     "title_clean": "국토부, 수색~광명 고속철도 지하 전용선 2036년 개통 고시",
     "summary": "국토교통부가 수색~광명 간 24.5km 고속철도 지하 전용선 건설 기본계획을 고시했으며, 2036년 개통 예정이다. 이는 서울·용산 KTX의 운행 속도와 빈도 증대를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T13:59:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건협, 오는 25일 ‘스마트건설 청년인재 채용설명회’ 개최 - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9lZnVac2ZIaUZuMDBGb1ZBYzZ1UGsycWtBNFFzMmxpM3FEWVk2UTJIM1RfeE5HYW9Bc0VtV0VkODdONXM?oc=5",
-    "description": "2026 스마트건설 청년인재 채용설명서 포스터(사진제공=대한건설협회) © 매일건설신문매일건설신문=허문수 기자 | ‘2026 스마트건설 청년인재 채용",
-    "published_at": "2026-08-19T09:33:00+09:00",
-    "cluster_id": "e9b5",
-    "publisher": "매일건설신문",
-    "title_clean": "건협, 오는 25일 ‘스마트건설 청년인재 채용설명회’ 개최",
-    "summary": "대한건설협회가 25일 '2026 스마트건설 청년인재 채용설명회'를 개최한다. 건설업계의 스마트건설 분야 인재 양성 및 채용 활성화 행사로, 청년 구직자와 기업의 매칭 기회를 제공한다.",
     "sentiment": "positive",
     "collected_at": "2026-08-19T13:59:15+09:00",
     "importance": 2
