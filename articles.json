@@ -4891,23 +4891,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "조합 이사장에 ‘뉴이재명’ 낙하산… 대의원들 반대로 선임 불발 - chosun.com",
-    "link": "https://www.chosun.com/politics/blue_house/2026/07/27/BGPIWPYOIRG27KGWU3BHHS7ISY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "description": "전문건설공제조합 총회에서 이인기 이사장 선임안 부결 내부 “당 바꿔서 온 사람 반대” 전문건설공제조합이 지난 대선 때 이재명 대통령을 지지하며 국민의힘을 탈당한 이인기 전 의원의 이사장 선임안을 부결시킨...",
-    "published_at": "2026-07-27T00:50:00+09:00",
-    "cluster_id": "ca1e",
-    "publisher": "chosun.com",
-    "title_clean": "조합 이사장에 ‘뉴이재명’ 낙하산… 대의원들 반대로 선임 불발",
-    "summary": "전문건설공제조합 총회에서 이재명 대통령 지지로 국민의힘을 탈당한 이인기 전 의원의 이사장 선임안이 대의원들의 반대로 부결됨. 업계 내 당을 바꾼 인물에 대한 저항감이 드러남.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-27T00:53:00+09:00",
-    "event_label": "전문건설공제조합 이인기 이사장 선임안 부결",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20864,6 +20847,21 @@
     "summary": "대우건설이 5개 건설 현장에서 근로자 사기 진작을 위해 '뿌듯트럭 시즌4' 프로그램을 진행 중이다. 현장 근로자 지원을 통한 기업의 사회적 책임 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-18T12:28:44+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국가 건설에 참여했던 노동의 기억을 시각 예술을 통해 표현합니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORU5qSkkxTDZxQVNsb3p3RThLN0R3eHJ3M2VOTzRVWXhiZGFPdWNHRHloQjh4VkhUdVpJQzNKVEQ2dGlwUzY1OTEtWHZDYTIzU1VTU2RRS0w5NGxCOGFwRVA3cWpQOFVPUVJZd2daQjFHN2h6WG1SendjM0kzQWxCZ2hjS1lZY205eGc?oc=5",
+    "description": "\"잊을 수 없는 시절의 추억\" 전시회에는 50점 이상의 회화, 판화, 조각 작품이 전시되어 있으며, 관람객들을 국가 경제 회복과 조국 재건의 시대로 되돌려 놓음으로써 이전 세대의 근면성, 역경 극복 의지, 그리고 국가 건설에 대한 열망을 더욱 깊이 되새기게 합니다.",
+    "cluster_id": "5167",
+    "publisher": "Vietnam.vn",
+    "title_clean": "국가 건설에 참여했던 노동의 기억을 시각 예술을 통해 표현합니다.",
+    "summary": "국가 건설에 참여했던 노동의 기억을 담은 미술 전시회가 개최되어 과거 세대의 근면성과 국가 재건 의지를 조명하고 있습니다. 50점 이상의 회화, 판화, 조각 작품을 통해 경제 회복 시대의 추억을 되살리고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-26T01:49:11+09:00",
     "importance": 2
   },
   {
