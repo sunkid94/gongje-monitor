@@ -4874,6 +4874,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "땅 좁아, 전력 부족해… 데이터센터, 바다·우주로 영토 개척[데이터센... - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/plan/datacenter/2026/08/26/20260826005001?wlog_tag3=naver",
+    "description": "삼성중공업은 지난 4월 미국 선급협회와 영국 로이드 선급협회로부터 개념설계 인증(AIP)을 확보했고, FDC 상업 서비스 시점을 2028년 상반기로 발표했다. 연내 최대 2척의 FDC 수주 가능성도 거론되고 있다....",
+    "published_at": "2026-08-26T05:02:00+09:00",
+    "cluster_id": "75eb",
+    "publisher": "seoul.co.kr",
+    "title_clean": "땅 좁아, 전력 부족해… 데이터센터, 바다·우주로 영토 개척[데이터센...",
+    "summary": "삼combines 중공업이 해상 데이터센터(FDC) 개념설계 인증을 획득하고 2028년 상반기 상업화를 목표로 추진 중이며, 연내 최대 2척 수주 가능성이 제기되고 있다. 이는 건설·해양플랜트 업계에 새로운 수주 기회와 성장 시장을 제공할 수 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T05:08:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20815,22 +20831,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-18T12:33:49+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "현대건설, 테라파워 원전 최대 8기 우선권 확보 - tokenpost.kr",
-    "link": "https://www.tokenpost.kr/news/cryptocurrency/392276",
-    "description": "본지는 앞서 두산에너빌리티가 케머러 1호기 핵심 기자재 제작 계약을 체결했다고 보도했다. 두산에너빌리티의 계약은 원자로 보호용기와 지지구조물, 내부구조물 제작에 한정됐다. 이번 현대건설 협약은 기자재...",
-    "published_at": "2026-08-18T12:18:00+09:00",
-    "cluster_id": "49af",
-    "publisher": "tokenpost.kr",
-    "title_clean": "현대건설, 테라파워 원전 최대 8기 우선권 확보",
-    "summary": "현대건설이 테라파워 원전 사업에서 최대 8기에 대한 우선권을 확보했으며, 두산에너빌리티는 케머러 1호기 핵심 기자재 제작 계약을 체결했다. 이는 한국 건설업계가 해외 원전 프로젝트 수주 기회를 확대하는 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-18T12:28:44+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
