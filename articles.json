@@ -20834,6 +20834,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 ‘AI 다국어 소통플랫폼’…외국인근로자에 ‘안전’ 통역하다 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8waURoSm1QX3RjdnZYS3d0eXVkdUR6YzVuanZPWXg3NzlDNmdZMm5Rb2Nncl92RzBTZTdBZFJRUU9EdndkMDJweXpzSnh4VXVZQWYzaHJrQ2cxbV93dFlpcVNmWW5Oa0JIME8wOWJSWXBMaUJS?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8waURoSm1QX3RjdnZYS3d0eXVkdUR6YzVuanZPWXg3NzlDNmdZMm5Rb2Nncl92RzBTZTdBZFJRUU9EdndkMDJweXpzSnh4VXVZQWYzaHJrQ2cxbV93dFlpcVNmWW5Oa0JIME8wOWJSWXBMaUJS?oc=5\" target=\"_blank\">건설현장 ‘AI 다국어 소통플랫폼’…외국인근로자에 ‘안전’ 통역하다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "3a68",
+    "publisher": "대한경제",
+    "title_clean": "건설현장 ‘AI 다국어 소통플랫폼’…외국인근로자에 ‘안전’ 통역하다",
+    "summary": "건설현장에서 AI 기술을 활용한 다국어 소통플랫폼이 외국인근로자의 안전 소통을 지원하고 있다. 언어 장벽으로 인한 안전사고 위험을 낮추고 건설업의 근무 환경 개선을 도모하는 혁신 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T06:44:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32147,21 +32162,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-20T09:49:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "마포구, 건설노동자 마음건강 챙긴다…무료 정신건강 상담 운영 - jeonmae.co.kr",
-    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285397",
-    "description": "건설노동자가 정신건강 상담을 받고 있는 모습(생성형 AI 활용 이미지 제작) 마포구가 국무조정실 범정부 생명지킴추진본부, 건설근로자공제회와 협력해 건설노동자의 정신건강을 살피는 지원사업을 추진한다고 20일...",
-    "published_at": "2026-08-20T09:42:00+09:00",
-    "cluster_id": "4c48",
-    "publisher": "jeonmae.co.kr",
-    "title_clean": "마포구, 건설노동자 마음건강 챙긴다…무료 정신건강 상담 운영",
-    "summary": "마포구가 건설노동자의 정신건강 지원을 위해 국무조정실, 건설근로자공제회와 협력하여 무료 정신건강 상담 사업을 추진한다. 건설업 종사자의 심리 건강 증진을 목표로 하는 복지 지원 정책이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T09:49:07+09:00",
-    "importance": 2
   }
 ]
