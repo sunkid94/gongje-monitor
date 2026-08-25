@@ -4908,6 +4908,21 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한국환경보전원, 조선 3사와 환경·화학안전 역량 강화에 맞손 - 세계환경신문",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVTVHZUpZQnBhcUZwRU5rZkNRRWNqTU1WVFItTHJlTDRtdk5Bb1dVWm16WnA4VkU2Mnhyaldwa0MxVHphcFE1RWV0Tl9aRkhzVlJyLUNYVGlsb2lzcXpN?oc=5",
+    "description": "한국환경보전원(원장 신진수) 영남지사는 8월 25일 경남 거제시 삼성중공업 DT캠퍼스에서 삼성중공업, 한화오션, HSG성동조선과 ‘환경·화학안전관리 역량 강화 및 사고 예방을 위한 업무협약’을 체결했다. 이번 협약은 대규모 생산시설에서 다양한 화학물질을 취급하는 조선업의 특성을 반영해 현장 중심의 교육과 정보 교류를 확대하고, 사업장의 환경·화학사고 예방",
+    "cluster_id": "f31f",
+    "publisher": "세계환경신문",
+    "title_clean": "한국환경보전원, 조선 3사와 환경·화학안전 역량 강화에 맞손",
+    "summary": "한국환경보전원이 삼성중공업, 한화오션, HSG성동조선 등 조선 3사와 환경·화학안전관리 역량 강화를 위한 업무협약을 체결했다. 조선업의 화학물질 취급 특성을 반영한 현장 중심 교육과 정보 교류 확대를 통해 산업 사고 예방을 추진한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T21:59:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20848,22 +20863,6 @@
     "title_clean": "롯데그룹 바이오 드라이브…롯데건설, 후속 EPC로 ‘새 먹거리’",
     "summary": "롯데그룹이 바이오를 전략적 성장동력으로 추진하면서 롯데건설이 송도 바이오의약품 생산시설(프로젝트 프로비던스) 준공을 완료했다. 이는 롯데건설의 그룹 후속 바이오 공장 EPC 사업 수주로 이어져 건설업계에 새로운 수주 기회를 창출하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-18T12:09:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "인천 소래 도시공원 미래, 시민이 그린다··· 환경단체 '아카데미' 마... - incheontoday.com",
-    "link": "https://www.incheontoday.com/news/articleView.html?idxno=322425",
-    "description": "인천시와 포스코이앤씨, 월드비전, 인천사회복지공동모금회가 후원했다. 인천환경운동연합은 소래 생물다양성에 관한 시민 이해를 높이고 국가도시공원 미래 구상을 시민 참여 의제로 연결하기 위해 이번 아카데미를...",
-    "published_at": "2026-08-18T12:04:00+09:00",
-    "cluster_id": "b566",
-    "publisher": "incheontoday.com",
-    "title_clean": "인천 소래 도시공원 미래, 시민이 그린다··· 환경단체 '아카데미' 마...",
-    "summary": "인천시와 포스코이앤씨 등이 소래 도시공원 조성을 위해 시민 아카데미를 개최하여 생물다양성 이해와 시민 참여를 확대하고 있다. 국가도시공원 미래 구상에 시민 의견을 반영하는 사업이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-18T12:09:05+09:00",
     "importance": 2
   },
