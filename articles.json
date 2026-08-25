@@ -20818,6 +20818,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설장비부터 근로자 쉼터까지…부산항 현장 살핀다 - 서울경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wQVI3SU1vaF8wU3JXcFAtR3pnbmQwdjgzdEd3eE4tS2R5d0ZGVGd1TG5QaXBvVlE0cW54ZGsyX1BqMWZCaFJJbFdLdElIaWZncVdoZ0ctbERSVXA4YVhDOXJrcHo?oc=5",
+    "description": "부산항 건설현장의 여름철 사고를 막기 위한 예방 활동이 잇따르고 있다. 25일 부산항만공사(BPA)에 따르면 전날 부산항국제전시컨벤션센터에서 소규",
+    "cluster_id": "0377",
+    "publisher": "서울경제TV",
+    "title_clean": "건설장비부터 근로자 쉼터까지…부산항 현장 살핀다",
+    "summary": "부산항만공사가 부산항 건설현장의 여름철 안전사고 예방을 위한 활동을 전개하고 있다. 건설장비 점검부터 근로자 쉼터 확충 등 현장 안전관리를 강화하고 있는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T18:59:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32148,21 +32163,6 @@
     "title_clean": "기업 복지, 장례까지 챙긴다…기업상조 시장 '각축'",
     "summary": "기업상조 시장이 확대되면서 대우건설, 서울 지하철, 국민연금공단 등 주요 기업과 공기업의 노동조합이 기업전용 상조 상품을 도입하고 있다. 장례 등 복리후생 서비스까지 확대되는 추세로, 상조업계의 B2B 사업 기회가 증가하고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-20T08:08:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[뉴테크 포커스]기술기업 자연재해위험지구 개선사업 ‘눈독’ 이유는? - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11S3dYRHdKeUluOWIwczExUm1FQ2d5Rnh0UDI4MUtGWHcyMnZadG1kb0pJdTZCUHpvWlprZU9GNFpTUDdieXZwTG82WkgwZnJXWUdrZnFNQ0NaSW1PRU1jRHUtMXZST3J2MlYzb2JtbG1vc0Ez?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE11S3dYRHdKeUluOWIwczExUm1FQ2d5Rnh0UDI4MUtGWHcyMnZadG1kb0pJdTZCUHpvWlprZU9GNFpTUDdieXZwTG82WkgwZnJXWUdrZnFNQ0NaSW1PRU1jRHUtMXZST3J2MlYzb2JtbG1vc0Ez?oc=5\" target=\"_blank\">[뉴테크 포커스]기술기업 자연재해위험지구 개선사업 ‘눈독’ 이유는?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "6cbd",
-    "publisher": "대한경제",
-    "title_clean": "[뉴테크 포커스]기술기업 자연재해위험지구 개선사업 ‘눈독’ 이유는?",
-    "summary": "기술기업들이 자연재해위험지구 개선사업에 관심을 보이고 있으며, 이는 새로운 시장 기회를 의미합니다. 건설업계와 기계설비건설공제조합에 수주 기회 증가 및 시장 확대 가능성을 제시합니다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-20T08:08:52+09:00",
     "importance": 2
   }
