@@ -20817,6 +20817,21 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "성남시, 재개발 임대주택 건설비율 12% → 10% 조정 추진 - 경기in",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE85VDhFVE1vM1FzX3NvWUpoYzBGOUlrM19QY3QyMlFSWWI1VFdDcFhQZDBIRXBycG9OOHNZbDgzUW9mODQ?oc=5",
+    "description": "성남시청사 전경 [경기IN=오효석 기자] 성남시는 수정·중원구 재개발사업의 사업 여건을 개선하고 원도심 정비사업을 활성화하기 위해 재개발 임대주",
+    "cluster_id": "6158",
+    "publisher": "경기in",
+    "title_clean": "성남시, 재개발 임대주택 건설비율 12% → 10% 조정 추진",
+    "summary": "성남시가 재개발사업 활성화를 위해 임대주택 건설비율을 12%에서 10%로 완화하는 것을 추진 중이다. 이는 수정·중원구 재개발사업의 사업성을 개선하고 원도심 정비사업을 촉진하기 위한 조치이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T19:39:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32148,22 +32163,6 @@
     "summary": "부산진해경제자유구역청이 극한 날씨 조건에서 건설현장의 안전을 강화하기 위해 폭염과 태풍 시즌 특별점검을 추진 중이다. 이는 건설현장의 무재해 달성을 목표로 한 사전 예방 조치이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-20T08:49:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설분야 임금체불 막는 ‘임금구분지급제’ 시행기준 마련 - lak.co.kr",
-    "link": "http://www.lak.co.kr/news/boardview.php?id=23734",
-    "description": "건설업은 ‘건설산업기본법’ 개정을 통해 내년 1월 1일부터 시행을 추진 중인 ‘발주자직접지급제’와 적용 범위를 같이 한다. 발주자직접지급제는 발주자는 수급인 등의 계좌를 거치지 않고 하수급인, 건설근로자...",
-    "published_at": "2026-08-20T08:30:00+09:00",
-    "cluster_id": "6825",
-    "publisher": "lak.co.kr",
-    "title_clean": "건설분야 임금체불 막는 ‘임금구분지급제’ 시행기준 마련",
-    "summary": "건설업계의 임금체불을 방지하기 위해 내년 1월부터 '임금구분지급제'의 시행기준이 마련되었다. 발주자직접지급제와 함께 적용되어 발주자가 수급인을 거치지 않고 직접 하수급인과 건설근로자에게 임금을 지급하는 방식이 도입된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T08:39:06+09:00",
     "importance": 2
   }
 ]
