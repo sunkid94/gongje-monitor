@@ -20736,6 +20736,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "반도건설, 협력사와 안전문화체험교육…기후재난 대비 현장 점검도 - 컨슈머타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uSGV0ZkJlWXJqZW44RldjUU9TVTNzTlQ2UlF3NkZvdEhNU1lnS2lTZFV4R2s4N3VjSkVlWkRPczk0LUNNLXlaSVRoMlZNTkcyTFNLNUV6M0RrdV9wTkZvdHNCMzhwU1Nad0E?oc=5",
+    "description": "컨슈머타임스=정용규 기자 | 반도건설이 협력사 임직원과 함께 안전문화체험교육을 실시하고 기후재난에 대비한 전국 공사 현장 안전·보건 점검을 진행했다고 25일 밝혔다.이번 교육은 현장 교육과 별도로 본사와 협력사 임직원을 한자리에 모아 진행했다. 올해 안전보건목표 가운데 현장 재해예방 역량 강화 계획의 하나로 기획됐으며, 고위험 공종과 주요 공종을 중심으로 내용을 짰다.교육 대상은 현장소장과 관리감독자다. 현장 책임자급이 안전문화 필요성과 사고 위험을 몸으로 익힌 뒤 하부 직원에게 내용을 직접 전달하는 방식이다.당일 교육은 이론 강의",
+    "published_at": "2026-08-25T12:24:31+09:00",
+    "cluster_id": "f436",
+    "publisher": "컨슈머타임스",
+    "title_clean": "반도건설, 협력사와 안전문화체험교육…기후재난 대비 현장 점검도",
+    "summary": "반도건설이 협력사 임직원을 대상으로 안전문화체험교육을 실시하고 기후재난에 대비한 전국 현장 안전·보건 점검을 진행했다. 현장 책임자가 중심이 되어 안전문화 필요성을 습득한 후 하부 직원에게 전달하는 방식으로 현장 재해예방 역량을 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T13:14:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32149,21 +32165,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-19T16:49:03+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설 노조 “경영권 존중, 독단은 경계”⋯정치권도 소통 주문 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2616031",
-    "description": "조승호 전국건설노동조합 위원장도 뜻을 같이했다. 조 위원장은 “어려운 시기 노조가 회사에 손을 내밀었다면 이제는 회사가 노동조합의 목소리를 존중해야 할 때”라며 “대우건설이 대한민국 대표 건설사에 걸맞은...",
-    "published_at": "2026-08-19T16:38:00+09:00",
-    "cluster_id": "2f9e",
-    "publisher": "etoday.co.kr",
-    "title_clean": "대우건설 노조 “경영권 존중, 독단은 경계”⋯정치권도 소통 주문",
-    "summary": "대우건설 노조 위원장이 회사의 경영권을 존중하면서도 노조와의 소통을 강조했다. 정치권도 노사 간 대화를 주문하며 건설사의 안정적 운영을 당부했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T16:49:03+09:00",
-    "importance": 3
   }
 ]
