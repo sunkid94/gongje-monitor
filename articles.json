@@ -20735,6 +20735,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "반도건설, 협력사 안전문화 체험교육…기후 재난 대비 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94RFN2enMtNUVuZXAtTENpQ2dYU1ZGTmpHckZuUGxfTWFzeHhHWnpNRTFCVElEZUJLbFRqRWJuWUdEUk9EbVRmeEZzY3FRZWlHZlN2aDlkVF82bHVhNnR3Z3BUSU02RDJnRzlvQUIydjJtdkJkc2dESQ?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 반도건설과 협력사 임직원 안전문화체험교육 기념 촬영(반도건설 제공) (서울=뉴스1) 김종윤 기자 = 반도건설은 안전문화체험교육과 기후재난 대비 근로자 안전·보건 점검을 진행했다고 25일 밝혔다. 안전문화체험교육 대상은 반도건설과 협력사 임직원이다. 안",
+    "cluster_id": "bc4e",
+    "publisher": "네이트",
+    "title_clean": "반도건설, 협력사 안전문화 체험교육…기후 재난 대비",
+    "summary": "반도건설이 협력사 임직원을 대상으로 안전문화체험교육을 실시하고 기후재난 대비 근로자 안전·보건 점검을 진행했다. 건설업계의 안전문화 강화 및 재난 대비 역량 제고를 위한 자발적 노력을 보여주는 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T13:54:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32147,21 +32162,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-19T16:59:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대제철, 비수기 철근 감산 확대…내수·수익성 부담 여전 - metroseoul.co.kr",
-    "link": "http://www.metroseoul.co.kr/article/20260819500469",
-    "description": "인천 매주 4일 휴동·포항도 추가 비가동 8대 제강사 재고 4월 24만5000t→7월 30만t 육박 연간 수요 659만t·3년 연속 최저 전망 현대제철 충남 당진 제철소 전경./현대제철 건설경기 침체로 철근 내수가 위축된 가운데...",
-    "published_at": "2026-08-19T16:50:00+09:00",
-    "cluster_id": "f173",
-    "publisher": "metroseoul.co.kr",
-    "title_clean": "현대제철, 비수기 철근 감산 확대…내수·수익성 부담 여전",
-    "summary": "건설경기 침체로 철근 수요가 위축되면서 현대제철이 감산을 확대하고 있습니다. 8대 제강사 재고가 4월 24만5000t에서 7월 30만t 수준으로 증가했으며, 올해 연간 철근 수요는 659만t으로 3년 연속 최저 전망입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T16:59:15+09:00",
-    "importance": 4
   }
 ]
