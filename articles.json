@@ -20736,6 +20736,21 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "GS건설, 세계적 건축가 라티와 ‘기후위기 대응 주거’ 공동연구 - 팍스경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xLU5FMjhHdEYycEt0VE1YYVhpRFRFSTFOaGdqZGhYby10aHR3VUVrV21FNEthUzY1aFpEN0VtQkpGWmpqakhwM0YtbWptd3RYMnJJcjkxYml1RVRmODZKNG9ILU9pV1pP?oc=5",
+    "description": "GS건설이 세계적인 건축가 카를로 라티 교수가 이끄는 CRA 연구팀과 함께 기후위기 대응을 위한 미래형 주거 솔루션 연구를 진행했다고 25일 밝혔습니다.양측은 데이터와 센서 기반의 신기술과 주택 시공 노하우를 결합해 폭우와 폭염 등 심화하는 기후변화에 선제적으로 대응하는 주거 개념을 도출했습니다.GS건설은 향후 기술적 타당성과 효과를 검증하는 실증 단계를 거쳐, 검증된 기술을 자이 아파트 주요 단지에 순차적으로 적용해 나간다는 계획입니다.",
+    "cluster_id": "233b",
+    "publisher": "팍스경제TV",
+    "title_clean": "GS건설, 세계적 건축가 라티와 ‘기후위기 대응 주거’ 공동연구",
+    "summary": "GS건설이 세계적 건축가 카를로 라티 교수의 CRA 연구팀과 협력하여 기후변화 대응형 미래주거 솔루션을 공동 연구했습니다. 데이터·센서 기반 신기술과 시공 노하우를 결합해 폭우·폭염 등에 대응하는 주거 개념을 도출했으며, 향후 실증 단계를 거쳐 자이 아파트 주요 단지에 순차적으로 적용할 계획입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T12:59:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32149,21 +32164,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T16:49:03+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설·조선 도급 임금 따로 지급한다…내년부터 ‘임금구분지급제’ 시... - idsn.co.kr",
-    "link": "https://idsn.co.kr/news/view/1065598124740666",
-    "description": "건설업의 적용 범위는 건설산업기본법 개정을 통해 도입이 추진되고 있는 발주자직접지급제 대상 공사와 연계한다. 발주자직접지급제는 발주자가 수급인의 계좌를 거치지 않고 하수급인과 건설근로자 등에게 공사대금이...",
-    "published_at": "2026-08-19T16:32:00+09:00",
-    "cluster_id": "c073",
-    "publisher": "idsn.co.kr",
-    "title_clean": "건설·조선 도급 임금 따로 지급한다…내년부터 ‘임금구분지급제’ 시...",
-    "summary": "내년부터 건설·조선 도급 임금을 분리하여 지급하는 '임금구분지급제'가 도입된다. 발주자직접지급제와 연계하여 발주자가 직접 하수급인과 건설근로자에게 공사대금을 지급하는 방식으로 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T16:38:49+09:00",
-    "importance": 2
   }
 ]
