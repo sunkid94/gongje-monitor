@@ -20818,6 +20818,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "승강기안전공단, GTX-A서 다국어 승강기 안전캠페인 전개 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41114",
+    "description": "[건설이코노미뉴스] 빅뱅 월드 투어 콘서트를 앞두고 고양종합운동장 일대에 10만명 이상의 관람객이 몰릴 것으로 예상되면서 한국승강기안전공단이 GTX-A 역사와 수도권 전철을 중심으로 다국어 승강기 안전홍보에 나섰다. 외국인 관람객까지 고려한 안전정보 제공으로 대규모 인파에 따른 승강기 안전사고 예방에 힘을 보탰다.한국승강기안전공단(이사장 고성균) 고양파주지사(지사장 이상훈)는 지난 21일부터 3일간 GTX-A 역사 내 다국어 승강기 안전 홍보물을 게시하고 미디어 안전홍보를 송출하는 등 대국민 안전캠페인을 전개했다고 최근 밝혔다.이번",
+    "published_at": "2026-08-25T19:24:00+09:00",
+    "cluster_id": "52c6",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "승강기안전공단, GTX-A서 다국어 승강기 안전캠페인 전개",
+    "summary": "한국승강기안전공단이 빅뱅 콘서트로 예상되는 대규모 인파에 대비해 GTX-A 역사와 수도권 전철에서 다국어 승강기 안전캠페인을 전개했다. 외국인 관람객을 포함한 승강기 안전사고 예방에 중점을 두고 홍보물 게시 및 미디어 안전홍보를 실시했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T19:26:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32147,21 +32163,6 @@
     "publisher": "topdaily.kr",
     "title_clean": "한샘, '넥서스' 품어 B2B 키운다는데…매출 하락세 어쩌나",
     "summary": "한샘이 한샘넥서스를 흡수합병하며 B2B 사업 강화를 추진 중이나, 건설경기 침체로 주택 특판시장 위축과 프로젝트 지연 등으로 인해 넥서스의 최근 매출이 감소세를 보이고 있다. 건설업계의 경기 부진이 기업 실적에 직접적인 영향을 미치는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T08:39:06+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중노위, 건설사 사용자성 재심 잇단 기각 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zdWtIUENrcTQ5WERjUEsyV0M4bmFMeWs1aDJVOFE2SU9ESTRRck9KODBPWm8wVm5FZ1hOUDQ1WlBZbWk4WXpXNXBjcm5VM0YwdERJdllUV0tIZ2dLbFQ2U2Nyb05Ha1I5WnNJeHM3cHJ0Q3lx?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0zdWtIUENrcTQ5WERjUEsyV0M4bmFMeWs1aDJVOFE2SU9ESTRRck9KODBPWm8wVm5FZ1hOUDQ1WlBZbWk4WXpXNXBjcm5VM0YwdERJdllUV0tIZ2dLbFQ2U2Nyb05Ha1I5WnNJeHM3cHJ0Q3lx?oc=5\" target=\"_blank\">중노위, 건설사 사용자성 재심 잇단 기각</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "4274",
-    "publisher": "대한경제",
-    "title_clean": "중노위, 건설사 사용자성 재심 잇단 기각",
-    "summary": "중앙노동위원회가 건설사의 사용자성 재심 청구를 잇달아 기각했다. 이는 건설업계의 근로자 지위 인정 문제와 관련된 판단으로, 향후 산업 현장의 근로 관계 규제에 영향을 미칠 수 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-20T08:39:06+09:00",
     "importance": 4
