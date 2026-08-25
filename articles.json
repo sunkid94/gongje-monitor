@@ -4874,23 +4874,6 @@
     "importance": 7
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "김강복 기계설비건설협회 강원도회 부회장 국방부 장관 표창 - 강원도민일보",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wT1l1SUh1aDBxYW1KRFNRemtUSURqYkRtcEhlazRJZW5XZkNjMFljZWp2c0ZTdjA1VXNHX3NTLUQzbC1Kb3hFdHRYMXY3Vjc0SHZRekVlTFRQbW5DbkhmZGRhVTZ4clU?oc=5",
-    "description": "김강복(62·청화설비 대표이사·사진) 대한기계설비 건설협회 강원도회 부회장(굿리더 아카데미 제4대 원주권 총원우회장)이 23일 서울 드래곤시티에서 열린 2026",
-    "published_at": "2026-07-27T00:02:01+09:00",
-    "cluster_id": "fc28",
-    "publisher": "강원도민일보",
-    "title_clean": "김강복 기계설비건설협회 강원도회 부회장 국방부 장관 표창",
-    "summary": "김강복 대한기계설비건설협회 강원도회 부회장이 국방부 장관 표창을 수상했다. 기사는 업계 인사의 영예로운 수상 소식을 전하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T03:07:56+09:00",
-    "event_label": "대한기계설비건설협회 김강복 부회장 국방부 장관 표창 수상",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20847,6 +20830,22 @@
     "summary": "현대건설이 테라파워 원전 사업에서 최대 8기에 대한 우선권을 확보했으며, 두산에너빌리티는 케머러 1호기 핵심 기자재 제작 계약을 체결했다. 이는 한국 건설업계가 해외 원전 프로젝트 수주 기회를 확대하는 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-08-18T12:28:44+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대한전문건설협회 충북지회·제천시운영위원회, 장애인 인재 육성 500만 원 후원 - 충북일보",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uVzhmazdyR0RnbDJxMVBvWEZxdGZkTFdUQ3haRHdpeUY5NHRTSV8xcVZxX2UxVjhpcU5pMWg2SlRWbmFDanBVTENlWS1NeHA4UmU3YUQ1RE9teWhfN3R6Rnl3?oc=5",
+    "description": "［충북일보］ 대한전문건설협회 충청북도회와 제천시운영위원회가 25일 제천시를 찾아 지역 내 장애인 인재 육성과 복지 증진을 위해 500만 원 상당의 후원금을 기탁했다. 이번 기탁식에는 이상천 제천시장과 류근형 회장 등 도회 관계자 3명, 박수근 위원장과 운영위원회 관계자 3명이 참석해 지역사회 나눔 문화 확산과 건설산업의 상생 발전 방안에 대한 뜻깊은 의견",
+    "published_at": "2026-08-25T16:47:16+09:00",
+    "cluster_id": "48e0",
+    "publisher": "충북일보",
+    "title_clean": "대한전문건설협회 충북지회·제천시운영위원회, 장애인 인재 육성 500만 원 후원",
+    "summary": "대한전문건설협회 충북지회와 제천시운영위원회가 장애인 인재 육성 및 복지 증진을 위해 500만 원을 후원했다. 건설업계의 사회 공헌 활동과 지역사회 나눔 문화 확산을 보여주는 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-26T04:53:57+09:00",
     "importance": 2
   },
   {
