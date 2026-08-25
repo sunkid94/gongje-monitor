@@ -20736,6 +20736,37 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "AI 바탕 글로벌 CM 경쟁력 강화 방안 모색한다 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=339479",
+    "description": "CM협회 관계자는 \"현재 AI와 디지털 기술의 발전은 건설산업의 업무 방식과 사업관리 체계를 빠르게 변화시키고 있을 뿐만아니라 데이터센터 건설, 스마트건설, 해외 재건사업 등 새로운 시장이 확대되고 있다\"며...",
+    "published_at": "2026-08-25T10:34:00+09:00",
+    "cluster_id": "c733",
+    "publisher": "국토일보",
+    "title_clean": "AI 바탕 글로벌 CM 경쟁력 강화 방안 모색한다",
+    "summary": "CM협회가 AI와 디지털 기술 발전에 대응하여 글로벌 경쟁력 강화 방안을 모색하고 있다. 데이터센터 건설, 스마트건설, 해외 재건사업 등 새로운 시장 확대로 건설산업의 업무 방식과 사업관리 체계가 빠르게 변화 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T10:39:06+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공정, 혁신, 포용의 경기 - 경기도청",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaLW84T1pRdkZiWkw0TTkzanMwMHNLeHN1emZDZUtyY3AwYnhBdllibmthTW4wZXZvZ2k2U1JqcDQ0WXRJRjBTVjd1bi1vTWJ5ZHdVUENOYnpaaE1hMmdFSFpMSmhjZno1dmJuWmlySUpVNE4tUlVfOVR1YmRvUEE?oc=5",
+    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
+    "cluster_id": "5269",
+    "publisher": "경기도청",
+    "title_clean": "공정, 혁신, 포용의 경기",
+    "summary": "경기도의 공정, 혁신, 포용을 주제로 도민 참여와 행정 서비스 안내에 관한 소식입니다. 건설업계와 기계설비건설공제조합과의 직접적인 연관성이 명확하지 않은 일반 행정 뉴스입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T10:39:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32135,37 +32166,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-19T15:28:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "친환경차 검사기준 따로 둔다…전기차 진단정보 제출 앞당겨 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37134",
-    "description": "국토부, 자동차관리법 시행규칙 개정안 입법예고신차 판매 10일 전 정보 제출…휠 너트·볼트 이탈도 부적합 판정 정부가 친환경차와 내연기관차의 자동차 검사기준을 나눠 관리한다. 전기차 배터리와 고전원전기장치 검사를 강화하기 위해 제작사가 내야 하는 진단정보의 제출 시기도 신차 판매 전으로 앞당긴다.국토교통부는 이런 내용을 담은 ‘자동차관리법 시행규칙’ 개정안을 20일부터 다음 달 30일까지 입법예고한다고 밝혔다.이번 개정안은 친환경차 보급이 늘면서 기존 내연기관차 중심 검사 체계를 손보는 데 초점을 맞췄다. 차량 구조와 주요 장치가",
-    "published_at": "2026-08-19T14:40:00+09:00",
-    "cluster_id": "8212",
-    "publisher": "한국건설신문",
-    "title_clean": "친환경차 검사기준 따로 둔다…전기차 진단정보 제출 앞당겨",
-    "summary": "정부가 친환경차와 내연기관차의 자동차 검사기준을 구분하여 관리하고, 전기차 배터리 등에 대한 검사를 강화한다. 제조사의 진단정보 제출 시기를 신차 판매 전으로 앞당기고 휠 너트·볼트 이탈도 부적합 판정 기준에 추가한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T15:26:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "남편 회사 133건 수의계약…보성군의원 논란 - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1397160",
-    "description": "문 위원장은 당시 \"건설산업이 지역경제를 지탱하는 핵심 산업인 만큼 지역업체가 공사에 보다 적극적으로 참여할 수 있는 기반을 마련해야 한다\"며 \"건설산업기본법의 취지가 현장에서 실효성 있게 운영될 수 있도록...",
-    "published_at": "2026-08-19T15:18:00+09:00",
-    "cluster_id": "d83c",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "남편 회사 133건 수의계약…보성군의원 논란",
-    "summary": "보성군의원이 남편 회사를 통해 133건의 수의계약을 수주한 것으로 논란이 된 사건. 지역업체 지원 명목으로 건설산업기본법 취지를 내세웠으나 특정 회사 편중 계약 의혹으로 지목.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T15:23:54+09:00",
-    "importance": 4
   }
 ]
