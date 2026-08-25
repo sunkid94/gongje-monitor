@@ -20718,6 +20718,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "폭염·폭우 일상화…건설사 '기후적응' 경쟁 - 4th.kr",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2116832",
+    "description": "대우건설도 6월 발간한 '2026 지속가능경영보고서'에서 기후변화 대응을 고객만족·품질관리, AI·스마트건설, 산업안전보건, 윤리·준법경영과 함께 5대 중대 이슈로 선정했다. 기후 관련 공시 의무화에 대비해 기후변화가...",
+    "published_at": "2026-08-25T15:22:00+09:00",
+    "cluster_id": "1281",
+    "publisher": "4th.kr",
+    "title_clean": "폭염·폭우 일상화…건설사 '기후적응' 경쟁",
+    "summary": "대우건설이 기후변화 대응을 경영의 5대 중대 이슈로 선정하며 건설사들의 기후적응 경쟁이 심화되고 있다. 기후 관련 공시 의무화에 대비한 업계의 선제적 대응이 이루어지는 추세다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T15:29:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32145,21 +32161,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T17:29:13+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "창립 39주년 맞은 대우건설 노조…경영진에 “신뢰·소통 회복” 주문 - viva100.com",
-    "link": "https://www.viva100.com/article/20260819501361",
-    "description": "전국건설노동조합 위원장, 이주안 플랜트건설노동조합 위원장 등 정·노동계 인사와 조합원들이 참석했다. 심 위원장은 기념사에서 최근 경영진 인사 과정을 직접 언급하며 회사 측에 원칙과 절차에 따른 조직 운영을...",
-    "published_at": "2026-08-19T17:20:00+09:00",
-    "cluster_id": "755e",
-    "publisher": "viva100.com",
-    "title_clean": "창립 39주년 맞은 대우건설 노조…경영진에 “신뢰·소통 회복” 주문",
-    "summary": "대우건설 노조가 창립 39주년 기념식에서 경영진에게 신뢰와 소통 회복을 촉구했다. 최근 인사 과정에서 원칙과 절차 준수를 요구하며 조직 운영의 투명성 개선을 주문했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T17:29:13+09:00",
-    "importance": 4
   }
 ]
