@@ -20834,6 +20834,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국에너지공단, 미래세대 대상 '찾아가는 에너지 교실’ 시범교육 실시 - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41117",
+    "description": "[건설이코노미뉴스]한국에너지공단(이사장 최재관, 이하 ‘공단’)은 25일 울산 대현초등학교 6학년 학생들을 대상으로 '찾아가는 에너지 교실' 시범교육을 실시했다고 밝혔다.이번 시범교육은 2026년도 '찾아가는 에너지 교실' 사업의 본격적인 추진에 앞서 현장의 목소리를 직접 듣고 교육 프로그램의 완성도를 높이기 위해 기획됐다.이날 최재관 공단 이사장은 직접 일일 에너지 교사로 나서 '햇빛이 소득이 되는 마을'을 주제로 특강을 진행했다. 특강에서는 태양광 발전의 기본 원리와 함께, 마을 주민이 발전소의 주인이 되어 수익을 공유하는 '햇",
+    "published_at": "2026-08-25T20:10:57+09:00",
+    "cluster_id": "888a",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "한국에너지공단, 미래세대 대상 '찾아가는 에너지 교실’ 시범교육 실시",
+    "summary": "한국에너지공단이 울산 대현초등학교에서 '찾아가는 에너지 교실' 시범교육을 실시했다. 2026년 본사업 추진을 앞두고 태양광 발전 교육을 통해 미래세대 에너지 인식 제고 및 신재생에너지 시장 확대를 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T20:14:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32150,20 +32166,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-20T08:59:09+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "약국 앞에서 식사를 하던 건설 노동자들이 재빨리 일어서자 약사는 \"앉으세요!\"라고 말했다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2VjTjQxZG5xczgwc091UXB1UlViRGF6WWV0M0E2STQ2cmd5QzBwWHdnSXZEWW91TWFybHpCWkRCeFhHSnlQQVc3UmxZYVFsdGFsVWdzd2NhdUdtS252Zk1mbi1rQmNjaVNfSmlNV1dieGZJSzk3WHpaU1lOdmhFZE9CQ3dXX3FnQjE4UUwzZEJwXzV2NS1KZ1FIU3lLODlSVkhNM0ZJQQ?oc=5",
-    "description": "호치민시의 한 여성 약사는 약국 앞에서 점심을 먹던 건설 노동자들이 급히 자리를 뜨려는 모습을 보고 그들을 멈춰 세우고 빵을 건넸습니다. 이 영상은 거의 100만 조회수를 기록하며 큰 화제를 모았습니다.",
-    "cluster_id": "a88f",
-    "publisher": "Vietnam.vn",
-    "title_clean": "약국 앞에서 식사를 하던 건설 노동자들이 재빨리 일어서자 약사는 \"앉으세요!\"라고 말했다.",
-    "summary": "호치민시의 약사가 약국 앞에서 점심을 먹던 건설 노동자들에게 음식을 제공한 훈훈한 사연이 100만 조회수를 넘으며 화제가 됐다. 건설 노동자들의 근무 환경과 삶의 질을 긍정적으로 조명하는 콘텐츠다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T08:59:09+09:00",
-    "importance": 2
   }
 ]
