@@ -4772,6 +4772,22 @@
     "importance": 6
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "잘나가는 K-조선에도 숙제는 있다…OECD가 짚은 ‘다음 10년’ - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20260824500174",
+    "description": "HD현대중공업, 삼성중공업 주요 조선·해양 사업 현장. [사진=각 사 / 편집=뉴스투데이] [뉴스투데이=박상미 기자] 세계 조선시장에서 중국의 몸집이 빠르게 커지고 있지만 한국 조선업의 ‘고부가 선박’ 경쟁력은...",
+    "published_at": "2026-08-25T11:52:00+09:00",
+    "cluster_id": "4b39",
+    "publisher": "news2day.co.kr",
+    "title_clean": "잘나가는 K-조선에도 숙제는 있다…OECD가 짚은 ‘다음 10년’",
+    "summary": "한국 조선업이 고부가 선박 분야에서 경쟁력을 유지하고 있으나, 중국의 시장 점유율 확대와 OECD가 지적한 향후 과제들이 업계의 숙제로 남아있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T11:59:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20720,19 +20736,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "찢겨나간 도로 ‘처참’…한화오션·삼성중공업 \"출근 말라\" - JTBC",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wV256UTJqeUNCdmZmSzMtZVkySkRodnl3dUtrWVZYMmJ3MWpvNWJXeVBnSzhGZ1lfYlctTkdkOXA3Z0RwUklfYzdaZC1USTJvelIxYg?oc=5",
-    "description": "거제는 오늘 낮에도 강한 비가 내리면서 복구 작업이 늦어지고 있다는데요. 지금은 어떤 상황인지 현장으로 가보겠습니다. 배승주 기자가 나가있습니다...",
-    "cluster_id": "f943",
-    "publisher": "JTBC",
-    "title_clean": "찢겨나간 도로 ‘처참’…한화오션·삼성중공업 \"출근 말라\"",
-    "summary": "거제 지역 강한 비로 인한 도로 피해로 한화오션, 삼성중공업 등 주요 조선업체들이 직원 출근을 중단하도록 지시. 복구 작업이 악천후로 인해 지연되고 있는 상황.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-17T19:58:14+09:00",
-    "importance": 4
+    "title": "삼성전자·KT 등 15곳의 혁신 과제…대구서 협업 스타트업 찾는다 - venturesquare.net",
+    "link": "https://www.venturesquare.net/1108286/",
+    "description": "현대건설과 호반건설은 스마트건설과 건설 안전, 로봇, 피지컬 AI를 비롯해 디지털 헬스케어와 미래 주거, 라이프스타일, 친환경 기술을 살펴본다. HS효성은 탄소·첨단소재와 공정 AI, 산업 안전, 전자결제, 블록체인...",
+    "published_at": "2026-08-25T11:47:00+09:00",
+    "cluster_id": "96fe",
+    "publisher": "venturesquare.net",
+    "title_clean": "삼성전자·KT 등 15곳의 혁신 과제…대구서 협업 스타트업 찾는다",
+    "summary": "삼성전자, KT 등 대기업 15곳이 대구에서 스타트업과의 협업을 통해 스마트건설, 로봇, 디지털 헬스케어, 친환경 기술 등 혁신 과제를 추진 중이다. 현대건설, 호반건설, HS효성 등 건설·제조업체들이 기술 혁신과 안전 개선을 위한 스타트업 발굴에 적극 나서고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T11:59:39+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32148,22 +32165,6 @@
     "summary": "대우건설 노조가 창립 39주년 기념식을 개최했으며, 경영진과 정치인, 건설노조 지도부가 참석하여 신뢰받는 조직문화 구축의 필요성을 논의했다. 건설업계 노사 협력 강화를 위한 행사로 진행되었다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-19T16:28:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주, 서비스업 6분기 연속 '역성장'...\"소비 개선에도 내수 회복 제한적... - headlinejeju.co.kr",
-    "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597658",
-    "description": "다른 내수지표인 건설수주도 크게 늘었다. 반면,서비스업 소비를 반영하는 서비스업 생산지표는 6개 분기 연속 역성장을 면치 못했다. 상품 소비가 일부 회복 흐름을 보이고 있지만, 내수 회복은 제한적이라는...",
-    "published_at": "2026-08-19T16:02:00+09:00",
-    "cluster_id": "79e6",
-    "publisher": "headlinejeju.co.kr",
-    "title_clean": "제주, 서비스업 6분기 연속 '역성장'...\"소비 개선에도 내수 회복 제한적...",
-    "summary": "제주 지역의 건설수주가 크게 증가하며 긍정적 신호를 보이고 있으나, 서비스업 생산이 6개 분기 연속 역성장하면서 전체 내수 회복은 제한적인 상황이다. 상품 소비 일부 회복에도 불구하고 지역 경제의 내수 기반이 약한 상태가 지속되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T16:09:04+09:00",
     "importance": 2
   }
 ]
