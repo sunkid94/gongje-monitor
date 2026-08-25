@@ -20850,6 +20850,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[원주소식]재해취약시설·건설현장 안전관리 실태 점검 등 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lTW5nQllLcmFfTFBvRzFmMi1pZDNpRmtCenktRFdEZ1N3RjJQSVpqSGFaUURmcGN0bFd6MHllOV9JTlRHNnBlS1E4WERtN3NhUEdHclc3Z3MwQjVqZ1NOdNIBeEFVX3lxTFBaMWlVenMwOHZsc0ZaUjVWb1Rkd1diYW1GYU0zMEl2bk1PandDQjZRRkJZVzFIWFp6NFBGcXRNOGl2SnlPcHJ2NFBIWXRYWWQxNVZYT1JvSTF6N2dkZnJGSmFad2thMWVMRGtKVU4xVzRGYThZLVZEcQ?oc=5",
+    "description": "[원주=뉴시스]이덕화 기자 = 원주시는 26일 집중호우로 시설물 변위가 발생한 태장동 삼정백조아파트 인근 옹벽과 자연재해위험개선이 진행 중인 문막교지구를 찾아 현장 안전점검을 했다.김정남 원주부시장은 태장동 옹벽 현장에서 긴급 안전조치와 시설물 상태, 추가 위험요인을 점검하고 조속한 보강공사를 통해 시민 안전을 확보할 것을 주문했다.해당 옹벽은 지난달 집중..",
+    "published_at": "2026-08-26T08:38:44+09:00",
+    "cluster_id": "f8a4",
+    "publisher": "뉴시스",
+    "title_clean": "[원주소식]재해취약시설·건설현장 안전관리 실태 점검 등",
+    "summary": "원주시가 집중호우로 피해를 입은 태장동 옹벽과 문막교지구 안전점검을 실시했다. 부시장은 긴급 안전조치와 시설물 보강공사를 통해 시민 안전 확보를 지시했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-26T08:53:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32139,22 +32155,6 @@
     "publisher": "newsis.com",
     "title_clean": "트럼프 대통령, 백악관 헬리콥터 착륙장 건설 현장 직접 소개 [뉴시스Pi...",
     "summary": "트럼프 대통령이 백악관 헬리콥터 착륙장 건설 현장을 방문하여 건설 노동자들과 함께 화강암 석판에 서명했다. 현장 방문은 정부 건설 프로젝트의 진행 상황을 보여주는 사례이나, 기사의 주요 내용은 북한 관련 외교 발언에 초점이 맞춰져 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T10:13:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "한국토지주택공사, 인공지능 접목 통합 안전망 본격 가동 - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134583",
-    "description": "이상조 한국토지주택공사 스마트건설안전본부장은 \"기존의 현장 인력 중심의 관리 한계를 극복하여 AI 등 스마트 기술을 활용해 빈틈없는 안전관리 체계를 구축하고자 노력하고 있다\"며 \"근로자의 안전을 최우선 가치로...",
-    "published_at": "2026-08-20T10:08:00+09:00",
-    "cluster_id": "f4b9",
-    "publisher": "newslock.co.kr",
-    "title_clean": "한국토지주택공사, 인공지능 접목 통합 안전망 본격 가동",
-    "summary": "한국토지주택공사가 AI 기술을 활용한 스마트 안전관리 시스템을 도입하여 건설현장의 안전관리 체계를 고도화하고 있다. 기존 인력 중심의 관리 한계를 극복하고 근로자 안전을 최우선으로 하는 통합 안전망을 구축 중이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-20T10:13:55+09:00",
     "importance": 2
