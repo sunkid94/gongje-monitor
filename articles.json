@@ -20851,6 +20851,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "김도읍 의원, 부전~마산 복선전철 2027년 4월 부분 개통…2028년 하반기 ... - fntoday.co.kr",
+    "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=391298",
+    "description": "국토교통부 건설사고조사위원회 조사 결과를 토대로 피난연결통로를 포함한 안전시설 시공방안을 마련하고 관련 절차를 진행한 뒤, 2028년 하반기 부전에서 마산까지 전체 51.1km 구간을 연결한다는 계획이다. 부전~마산...",
+    "published_at": "2026-08-26T07:44:00+09:00",
+    "cluster_id": "04eb",
+    "publisher": "fntoday.co.kr",
+    "title_clean": "김도읍 의원, 부전~마산 복선전철 2027년 4월 부분 개통…2028년 하반기 ...",
+    "summary": "부전~마산 복선전철 사업이 2027년 4월 부분 개통, 2028년 하반기 전체 개통될 예정이다. 국토교통부 건설사고조사위원회 조사 결과를 바탕으로 안전시설 시공방안을 마련하고 절차를 진행한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-26T07:48:54+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부천시, 원종중앙시장 화재 현장점검 안전조치 신속 추진 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1INzFXc1VaaHU1NWZ4Z0hKbmR6TDVFOEgxbmhXZVlXOVlCQXprMUxfQTI1MUd1cGR3Y0M2Vmhkb3BuWEUwZzByb05UbG9OaHhUTnhrdXEwbkwtZEhrN24waEFCdDlTN3d6eXhnNGVMTQ?oc=5",
+    "description": "부천시는 지난 25일 원종중앙시장 내 마트에서 발생한 화재와 관련해 현장을 긴급 점검하고, 시청 재난안전상황실에서 남동경 부천시 부시장 주재로 관계부서 대책회의를",
+    "published_at": "2026-08-26T07:34:17+09:00",
+    "cluster_id": "52f5",
+    "publisher": "오토투데이",
+    "title_clean": "부천시, 원종중앙시장 화재 현장점검 안전조치 신속 추진",
+    "summary": "부천시가 원종중앙시장 마트 화재 현장을 긴급 점검하고 안전조치를 추진했다. 관계부서 대책회의를 통해 화재 대응 및 재발 방지 방안을 논의했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-26T07:48:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32128,37 +32160,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-20T09:59:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구·경북 생산·수출 호조…건설수주는 급감 - news.kbs.co.kr",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641339&ref=A",
-    "description": "대구·경북의 생산과 수출이 호조세를 이어가고 있습니다. 동북지방데이터청 자료를 보면 올해 2분기 대구·경북의 광공업 생산은 전자·통신업종 등의 호황에 힘입어 전년 동기 대비 4.1% 증가했습니다.",
-    "published_at": "2026-08-20T09:16:00+09:00",
-    "cluster_id": "b43f",
-    "publisher": "news.kbs.co.kr",
-    "title_clean": "대구·경북 생산·수출 호조…건설수주는 급감",
-    "summary": "대구·경북 지역의 광공업 생산과 수출이 전자·통신업종 호황으로 전년 동기 대비 4.1% 증가하며 호조세를 지속하고 있습니다. 다만 건설수주는 급감하는 추세를 보이고 있어 건설업계에는 부정적 신호입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T09:59:16+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설현장 안전관리 강화…LH, '실시간 종합건설정보 시스템' 운영 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2355832.htm",
-    "description": "위험성 분석과 AI CCTV 관제로 안전사고 예방체계 강화 한국토지주택공사(LH)는 건설현장 안전사고 예방을 위해 전국 건설현장의 위험요소를 실시간으로 확인·분석하는 '실시간 종합건설정보 시스템'을 본격적으로...",
-    "published_at": "2026-08-20T09:47:00+09:00",
-    "cluster_id": "d2b1",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "건설현장 안전관리 강화…LH, '실시간 종합건설정보 시스템' 운영",
-    "summary": "LH가 건설현장 안전사고 예방을 위해 실시간 종합건설정보 시스템을 운영하며, AI CCTV 관제와 위험성 분석을 통해 안전관리를 강화하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T09:59:16+09:00",
-    "importance": 5
   }
 ]
