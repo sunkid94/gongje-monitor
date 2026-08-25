@@ -20735,6 +20735,38 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[포토] 건설사 채용설명회에 쏠린 관심 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251408453950253",
+    "description": "25일 서울 강남구 건설회관에서 열린 '2026 스마트건설 청년인재 채용설명회'를 찾은 청년들이 현대건설의 채용설명을 듣고 있다. 대한건설협회가 주최한 이번 행사에는 현대건설, GS건설, 대우건설, DL이앤씨...",
+    "published_at": "2026-08-25T14:20:00+09:00",
+    "cluster_id": "9a32",
+    "publisher": "대한경제",
+    "title_clean": "[포토] 건설사 채용설명회에 쏠린 관심",
+    "summary": "대한건설협회가 주최한 '2026 스마트건설 청년인재 채용설명회'가 서울 강남구에서 개최되어 현대건설, GS건설, 대우건설, DL이앤씨 등 주요 건설사들이 참여했다. 청년들의 높은 관심이 모여 건설업계의 인재채용이 활발히 진행되고 있음을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T14:29:40+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[포토] 건설인을 꿈꾸는 청년들...'스마트건설 청년인재 채용설명회' - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608251359158330251",
+    "description": "25일 서울 강남구 건설회관에서 열린 '2026 스마트건설 청년인재 채용설명회'를 찾은청년들이 부스를 돌며 채용상담을 받고 있다. 대한건설협회가 주최한 이번 행사에는 현대건설, GS건설, 대우건설, DL이앤씨...",
+    "published_at": "2026-08-25T14:20:00+09:00",
+    "cluster_id": "281e",
+    "publisher": "대한경제",
+    "title_clean": "[포토] 건설인을 꿈꾸는 청년들...'스마트건설 청년인재 채용설명회'",
+    "summary": "대한건설협회가 서울 강남구 건설회관에서 '2026 스마트건설 청년인재 채용설명회'를 개최했다. 현대건설, GS건설, 대우건설, DL이앤씨 등 주요 건설사들이 참여해 청년 구직자들과 채용상담을 진행했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T14:29:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32131,36 +32163,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-19T17:03:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금호건설 경기 남양주 3기 신도시 '왕숙 아테라' 완판, 812세대 계약 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hSWRrV3VKOWdRb0M2clQ2eG83eTdMSkZvemYtSG9rZzZPWnBxTG1leWJxdVk5aWh4UU5oaVRnNjk1bnhvVzZzcF9jREFONXh4UVJJR1dWSkY3UHJtWEVkOGRSdkUta2ZqcnNvX1MxbzhnczQ?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1hSWRrV3VKOWdRb0M2clQ2eG83eTdMSkZvemYtSG9rZzZPWnBxTG1leWJxdVk5aWh4UU5oaVRnNjk1bnhvVzZzcF9jREFONXh4UVJJR1dWSkY3UHJtWEVkOGRSdkUta2ZqcnNvX1MxbzhnczQ?oc=5\" target=\"_blank\">금호건설 경기 남양주 3기 신도시 '왕숙 아테라' 완판, 812세대 계약</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스포스트</font>",
-    "cluster_id": "b005",
-    "publisher": "비즈니스포스트",
-    "title_clean": "금호건설 경기 남양주 3기 신도시 '왕숙 아테라' 완판, 812세대 계약",
-    "summary": "금호건설이 경기 남양주 3기 신도시 '왕숙 아테라'에서 812세대 완판을 달성했다. 이는 건설사의 수주 실적 증가와 신도시 시장 수요 회복을 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T17:03:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"본격 심사 아직\" 제물포구 산업위기 선제대응지역 지정 엇갈린 전망 - joongboo.com",
-    "link": "https://www.joongboo.com/news/articleView.html?idxno=363734245",
-    "description": "제물포구 통합 전 동구는 국내 핵심 제강사가 밀집한 철강산업 중심지였으나, 건설경기 침체 장기화와 미국의 철강 관세 부과, 저가 중국산 철강 유입 등 복합적인 악재로 경영 환경이 빠르게 악화됐다. 이에 시는 지난 3월...",
-    "published_at": "2026-08-19T16:54:00+09:00",
-    "cluster_id": "de30",
-    "publisher": "joongboo.com",
-    "title_clean": "\"본격 심사 아직\" 제물포구 산업위기 선제대응지역 지정 엇갈린 전망",
-    "summary": "제물포구(구 동구)가 철강산업 중심지에서 건설경기 침체, 철강 관세, 저가 중국산 유입 등으로 경영 환경이 악화되면서 산업위기 선제대응지역 지정을 추진 중이다. 지정 여부에 대해 업계 내 전망이 엇갈리고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T16:59:15+09:00",
-    "importance": 4
   }
 ]
