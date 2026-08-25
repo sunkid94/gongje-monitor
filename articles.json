@@ -20735,6 +20735,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "도심복합사업, 2029년 일몰 연장…건설사 새 먹거리 될까 - ebn.co.kr",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721543",
+    "description": "건설경기 침체 속 미분양 리스크를 피하려는 대형 건설사들의 새로운 수주 격전지가 될 수 있을지 주목된다. 25일 정비업계에 따르면 지난 20일 국회에서 공공주택 특별법 개정안이 통과되면서 올해 말 종료될 예정이던...",
+    "published_at": "2026-08-25T14:08:00+09:00",
+    "cluster_id": "3c3a",
+    "publisher": "ebn.co.kr",
+    "title_clean": "도심복합사업, 2029년 일몰 연장…건설사 새 먹거리 될까",
+    "summary": "국회에서 도심복합사업의 일몬 기한을 2029년으로 연장하는 공공주택 특별법 개정안이 통과됐다. 건설경기 침체 속 대형 건설사들의 새로운 수주처가 될 수 있어 업계의 관심이 높다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T14:14:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32146,21 +32162,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T16:59:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대우건설 노조 '인사 과정엔 쓴소리, 이강석 체제엔 손 내밀어'…\"새 도... - newsdream.kr",
-    "link": "http://www.newsdream.kr/news/articleView.html?idxno=116523",
-    "description": "심상철 위원장은 기념사를 통해 \"지난 몇 년간 우리는 건설경기 침체와 경영환경 악화라는 쉽지 않은 시간을 지나왔다\"며 \"그 과정에서 우리 노동조합은 회사의 어려움을 외면하지 않았다. 회사가 살아야 조합원의 일자리도...",
-    "published_at": "2026-08-19T16:52:00+09:00",
-    "cluster_id": "116c",
-    "publisher": "newsdream.kr",
-    "title_clean": "대우건설 노조 '인사 과정엔 쓴소리, 이강석 체제엔 손 내밀어'…\"새 도...",
-    "summary": "대우건설 노조 위원장이 건설경기 침체와 경영악화 속에서 회사의 어려움을 함께하겠다는 입장을 표명했다. 새 경영진(이강석 체제)에 대해 지지 의사를 나타내면서도 인사 과정에서는 비판적 의견을 제시했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T16:59:15+09:00",
-    "importance": 2
   }
 ]
