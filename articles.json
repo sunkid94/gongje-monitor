@@ -20868,6 +20868,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "철원군, 건설현장 중대재해 막는다…관계공무원 특별 안전교육 실시 - NANOOM ENERGY",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Lck9QM0txZXMzQmtOLXpvTEZadFlPZWlYam5fZ3dGaU54Y01OeHQwaVM4bS1YY1paYlMzR2VfWEd1UU9VcGxQUWtDRWRoWVFUN2hxaFJ2Q2hLQWxGa1Z6bkllMG5RR2ptZDZLaA?oc=5",
+    "description": "철원군이 8월 24일 사업장 관계공무원의 안전관리 역량을 강화하기 위해 '중대재해예방 관계공무원 특별 안전교육'을 실시했다. 이번 교육은 건설현장 등에서 산업재해 발생 우려가 큰 사업장을 담당하는 주요 관계공무원을 대상으로 진행됐다.교육은 중대재해 관련 법령 및 목적에 대한 이해, 중",
+    "published_at": "2026-08-25T07:42:27+09:00",
+    "cluster_id": "9499",
+    "publisher": "NANOOM ENERGY",
+    "title_clean": "철원군, 건설현장 중대재해 막는다…관계공무원 특별 안전교육 실시",
+    "summary": "철원군이 건설현장의 산업재해를 예방하기 위해 관계공무원을 대상으로 중대재해예방 특별 안전교육을 실시했다. 교육은 중대재해 관련 법령 이해 및 안전관리 역량 강화에 중점을 두었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T21:39:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32152,21 +32168,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-20T09:14:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "30일 초과 도급 사업 '임금구분지급제' 적용 - koit.co.kr",
-    "link": "https://www.koit.co.kr/news/articleView.html?idxno=208558",
-    "description": "건설업은 '건설산업기본법' 개정을 통해 내년 1월 1일부터 시행을 추진 중인 '발주자직접지급제'와 적용 범위를 같이 한다. 발주자직접지급제에서 발주자는 수급인 등의 계좌를 거치지 않고 하수급인, 건설근로자 등에게...",
-    "published_at": "2026-08-20T09:06:00+09:00",
-    "cluster_id": "58af",
-    "publisher": "koit.co.kr",
-    "title_clean": "30일 초과 도급 사업 '임금구분지급제' 적용",
-    "summary": "건설업에 '임금구분지급제'가 내년 1월 1일부터 시행된다. 발주자가 수급인을 거치지 않고 직접 하수급인과 건설근로자에게 임금을 지급하는 제도로, 발주자직접지급제와 같은 범위로 적용된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T09:09:05+09:00",
-    "importance": 4
   }
 ]
