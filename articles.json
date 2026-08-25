@@ -20818,6 +20818,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "삼성 19조 천안 투자 '첫 삽' - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1095758",
+    "description": "두 첨단산업의 대규모 투자가 동시에 진행되는 만큼 생산시설 조성에 따른 건설경기뿐 아니라 향후 관련 소재·부품·장비기업의 투자와 협력업체 유입 등 지역경제 전반에 미칠 파급효과에도 관심이 쏠린다. 이에 따라...",
+    "published_at": "2026-08-25T18:58:00+09:00",
+    "cluster_id": "be44",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "삼성 19조 천안 투자 '첫 삽'",
+    "summary": "삼성이 천안에 19조 원 규모의 첨단산업 투자를 추진하며 건설공사 수주가 증가할 것으로 예상된다. 생산시설 조성에 따른 건설경기 활성화와 관련 협력업체 유입 등 지역경제 전반에 긍정적 파급효과가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T19:09:35+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "충북도, ‘오송 철도클러스터 국가산단’조속 추진 촉구 - 시사일보",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tcnlJbDRzU1pxMXA4eHdzOEZQYVU1MF9xaWw1Q0tfSDVPV1N1YlJ4UndHVklhdjFSYlFoTng4aVBqbHd4aFR4a2NFbmk?oc=5",
+    "description": "충북도, 국토부 방문 철도클러스터 국가산단 촉구 [시사일보=박태선 기자] 충북도는 25일 ‘오송 철도클러스터 국가산업단지 조성사업’에 대해 국토교",
+    "published_at": "2026-08-25T16:52:00+09:00",
+    "cluster_id": "0653",
+    "publisher": "시사일보",
+    "title_clean": "충북도, ‘오송 철도클러스터 국가산단’조속 추진 촉구",
+    "summary": "충북도가 오송 철도클러스터 국가산업단지 조성사업의 조속 추진을 위해 국토교통부를 방문했다. 이 사업은 철도 관련 산업단지 개발로 건설수주 및 인프라 구축 기회를 제공할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T19:09:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32133,37 +32165,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-20T08:39:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산진해경제자유구역청(BJFEZ), 폭염부터 태풍까지 무재해릴레이…건설... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608191022075460480",
-    "description": "특히 태풍·호우에 대한 철저한 대비가 필요한 시기인 만큼 이번 점검에서는 강풍·집중호우 피해 예방에 중점을 두고 건설현장 안전관리 실태를 집중적으로 살폈다. 부산진해경제자유구역은 해안지역에 위치한 대규모...",
-    "published_at": "2026-08-20T08:22:00+09:00",
-    "cluster_id": "3ad5",
-    "publisher": "대한경제",
-    "title_clean": "부산진해경제자유구역청(BJFEZ), 폭염부터 태풍까지 무재해릴레이…건설...",
-    "summary": "부산진해경제자유구역청이 건설현장 안전관리 강화를 위해 태풍·호우 피해 예방에 중점을 두고 집중 점검을 실시했다. 해안지역 대규모 건설현장의 안전 관리 체계를 철저히 점검하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T08:28:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"먼저 뜬 착공 신호\"…시멘트株, 내년 영업레버리지 터지나 - fnnews.com",
-    "link": "http://www.fnnews.com/news/202608200757462527",
-    "description": "최근 건설경기 침체에 눌렸던 시멘트업종이 2027년 본격적인 실적 턴어라운드에 진입할 것이란 증권가의 전망이 나왔다. 올해 늘어난 주택 착공물량이 시차를 두고 시멘트 출하로 연결되면서다. 실적보다 주가가 먼저...",
-    "published_at": "2026-08-20T08:02:00+09:00",
-    "cluster_id": "47cb",
-    "publisher": "fnnews.com",
-    "title_clean": "\"먼저 뜬 착공 신호\"…시멘트株, 내년 영업레버리지 터지나",
-    "summary": "건설경기 침체로 부진했던 시멘트업종이 올해 증가한 주택 착공물량이 시차를 두고 시멘트 출하로 연결되면서 2027년 본격적인 실적 턴어라운드를 기대하고 있다. 증권가는 영업레버리지 효과로 실적 개선이 예상되며, 주가도 실적 개선에 앞서 움직일 것으로 전망하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T08:08:52+09:00",
-    "importance": 2
   }
 ]
