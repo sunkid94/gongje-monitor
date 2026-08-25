@@ -20757,6 +20757,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "건설경기 침체·금융경색에 대구3위 건설사 태왕, 법정관리 신청 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326031",
+    "description": "극심한 건설경기 침체가 이어지고 있는 가운데 대구 3위 건설사인 ㈜태왕이앤씨가 법정관리를 신청해 지역경제에 적지않은 파장이 예상된다.대구회생법원은 ㈜태왕이앤씨가 지난 21일 기업회생절차(법정관리)를 신청했다고 24일 밝혔다.태왕은 회생절차 신청과 함께 포괄적 금지명령과 보전처분도 신청했다.법원이 포괄적 금지명령을 받아들이면 채권자들의 개별적인 강제 집행이 제한된다.태왕은 이날(24일)에는 채권자 목록을 법원에 제출했다.대구회생법원 관계자는 “현재로서는 구체적인 회생절차 일정이 정해지지 않았다”며 “향후 법원의 절차에 따라 진행될 예",
+    "published_at": "2026-08-25T09:36:32+09:00",
+    "cluster_id": "8859",
+    "publisher": "대한전문건설신문",
+    "title_clean": "건설경기 침체·금융경색에 대구3위 건설사 태왕, 법정관리 신청",
+    "summary": "건설경기 침체와 금융경색으로 인해 대구 3위 건설사인 태왕이앤씨가 법정관리를 신청했다. 법원으로부터 포괄적 금지명령이 승인되면 채권자들의 개별 강제집행이 제한될 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T09:40:13+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "건설수주 급감에 지역업체 참여 확대… 경남도의회, 하도급·안전 기준... - ziksir.com",
     "link": "https://www.ziksir.com/news/articleView.html?idxno=144140",
     "description": "[경남도의회] 경남 건설경기가 전국 흐름과 반대로 크게 위축되면서 지역업체의 수주 기회를 제도적으로 넓히려는 움직임이 경남도의회에서 시작됐다. 단순한 지역업체 우대에 그치지 않고 하도급 거래의 공정성과...",
@@ -32153,21 +32169,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T13:59:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 수색~광명 고속철도 지하 전용선 2036년 개통 고시 - 교통뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XTjBoSzRPZm1NYXZZQlV0SkpQNkx3ZXB1SlBHbVYzUGRwQmdLeTF3d2dhdl9XSlBobkw3cnVIWmg3VHp1eWFTX1NhRGZZNkhnNXd2ZXVTRTdRZXEwMDdDSWVkRVNfbzdKdXotcQ?oc=5",
-    "description": "서울·용산 KTX, 더 빨리 더 자주 달린다...수색~광명 고속전용선 건설 기본계획 고시국토교통부는 8월 19일 수색에서 광명까지 24.5km 구간에 고속철도 전",
-    "published_at": "2026-08-19T11:40:00+09:00",
-    "cluster_id": "88af",
-    "publisher": "교통뉴스",
-    "title_clean": "국토부, 수색~광명 고속철도 지하 전용선 2036년 개통 고시",
-    "summary": "국토교통부가 수색~광명 간 24.5km 고속철도 지하 전용선 건설 기본계획을 고시했으며, 2036년 개통 예정이다. 이는 서울·용산 KTX의 운행 속도와 빈도 증대를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-19T13:59:15+09:00",
-    "importance": 2
   }
 ]
