@@ -20834,6 +20834,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[현장기획]“강산이 두번 변했다”… 산황동 골프장 증설 허송세월에 주민 \"뿔났다\" - 건설이코노미뉴스",
+    "link": "http://www.cenews.kr/news/articleView.html?idxno=41115",
+    "description": "[건설이코노미뉴스]\"15년이면 충분합니다. 고양시는 적법한 인가에 대한 직권취소 철회하고 후속행정 집행해야 한다”-<산황동 스프링힐스 18홀 증설 찬성 범시민대책위원회 공동선언문 내용 中>산황동 스프링힐스 골프장 18홀 증설을 지지하는 주민과 토지주, 고양시민들이 범시민대책위원회를 출범시키고 고양시에 사업 정상화를 강력히 촉구하고 나섰다. 지난 15년 가까운 행정절차 끝에 실시계획인가까지 받은 사업을 다시 되돌리는 것은 행정 신뢰와 재산권을 훼손할 수 있다고 주장했다.‘산황동 스프링힐스 18홀 증설 찬성 범시민대책위원회’는 25일",
+    "published_at": "2026-08-25T20:04:10+09:00",
+    "cluster_id": "bafa",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[현장기획]“강산이 두번 변했다”… 산황동 골프장 증설 허송세월에 주민 \"뿔났다\"",
+    "summary": "산황동 스프링힐스 골프장 18홀 증설 사업이 15년의 행정절차를 거쳐 실시계획인가를 받았으나, 고양시의 인가 직권취소로 사업이 중단된 상황. 찬성 주민들이 범시민대책위를 구성하여 행정 신뢰와 재산권 훼손을 이유로 사업 정상화를 촉구하고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T20:06:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32148,22 +32164,6 @@
     "title_clean": "마포구, 국무조정실․건설근로자공제회와 건설노동자 정신건강 살핀다 - m-i.kr",
     "summary": "마포구가 국무조정실 생명지킴추진본부, 건설근로자공제회와 협력하여 건설노동자의 정신건강 지원 사업을 추진한다. 건설업계 종사자의 심리 건강 증진과 복지 개선을 목표로 하는 정책 사업이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-20T08:49:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 건설현장에 ‘실시간 종합건설정보 시스템’ 운영… 안전사고 예방... - biz.chosun.com",
-    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/20/OGLTP5I2JVAEZDTLSGS66XG7IQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "이상조 LH 스마트건설안전본부장은 “기존의 현장 인력 중심의 관리 한계를 극복해 AI 등 스마트 기술을 활용해 빈틈없는 안전관리 체계를 구축하고자 노력하고 있다”고 말했다.",
-    "published_at": "2026-08-20T08:46:00+09:00",
-    "cluster_id": "743b",
-    "publisher": "biz.chosun.com",
-    "title_clean": "LH, 건설현장에 ‘실시간 종합건설정보 시스템’ 운영… 안전사고 예방...",
-    "summary": "LH가 AI 등 스마트 기술을 활용한 '실시간 종합건설정보 시스템'을 건설현장에 도입하여 안전사고 예방에 나선다. 기존 인력 중심의 관리 한계를 극복하고 빈틈없는 안전관리 체계를 구축하려는 노력이다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-20T08:49:02+09:00",
     "importance": 2
   }
