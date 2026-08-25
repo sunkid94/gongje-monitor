@@ -4857,6 +4857,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'노후 단지 밀집' 노원구에 부는 재건축 바람…분담금은 변수 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008572",
+    "description": "IPARK현대산업개발과 대우건설, 롯데건설 등 주요 건설사들도 사업에 관심을 보이고 있는 것으로 알려졌다.인근 한신동성아파트도 재건축을 준비하고 있다. 1993년 준공된 498가구 규모 단지로, 재건축을 통해 최고 46층...",
+    "published_at": "2026-08-25T19:26:00+09:00",
+    "cluster_id": "7a75",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "'노후 단지 밀집' 노원구에 부는 재건축 바람…분담금은 변수",
+    "summary": "노원구의 노후 아파트 단지들이 재건축 추진 중으로 IPARK, 대우건설, 롯데건설 등 주요 건설사들이 사업 수주에 관심을 보이고 있다. 한신동성아파트 등 다수 단지가 재건축을 준비하며 건설시장 활성화가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-25T19:29:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20802,19 +20818,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "세보엠이씨, 삼성중공업과 435억 규모 '평택 설비공사' 수주…매출액 대비 6.08% - 한국공공정책신문",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE94ODRiTUZ0REpKa2lQQzBPVzR1MERmRUM1SGlBZi1vb3BxYWl2ZEhsYU1SWDVWelhVc3d1MWFQemJZQ2c?oc=5",
-    "description": "코스닥 상장 설비·플랜트 전문기업 세보엠이씨가 삼성중공업과 435억 원 규모의 대형 설비공사 공급계약을 체결했다. 18일 금융감독원 전자공시시스템에 따르면 세보엠이씨는 삼성중공업과",
-    "published_at": "2026-08-18T11:43:49+09:00",
-    "cluster_id": "fb1c",
-    "publisher": "한국공공정책신문",
-    "title_clean": "세보엠이씨, 삼성중공업과 435억 규모 '평택 설비공사' 수주…매출액 대비 6.08%",
-    "summary": "코스닥 상장 설비·플랜트 전문기업 세보엠이씨가 삼성중공업으로부터 435억 원 규모의 평택 설비공사를 수주했다. 이는 세보엠이씨 매출액 대비 6.08%에 해당하는 대형 수주 계약이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-18T11:53:42+09:00",
+    "title": "“안전·상생 활동 지속” 반도건설, 협력사 근로자 안전 교육 실시 - 아시아투데이",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mZW9XRU1oY24yLUhydzdNelV5MUlLbXkwSFlUa3JmQnRiUkE3NlFqMkhZNFpIUnExdDZoeDNVcU5BeXIycFdLbC1Gd0xzRDRfS3dNUDdMeTQzMEJDLTgtbEV6UHhVNE1rUzNYVTBn?oc=5",
+    "description": "반도건설은 안전보건경영 실천을 위해 협력사 임직원의 안전문화체험교육을 실시하고 최근 극심해진 기후재난 대비 근로자 안전·보건 점검에 나섰다고 25일 밝혔다.이번 교육은 현장에서 실시하는 교육과 별개로 반도건설과 협력사 임직원을 대상으로 진행했다. 올해 회사의 안전보건..",
+    "published_at": "2026-08-25T19:21:19+09:00",
+    "cluster_id": "a66c",
+    "publisher": "아시아투데이",
+    "title_clean": "“안전·상생 활동 지속” 반도건설, 협력사 근로자 안전 교육 실시",
+    "summary": "반도건설이 협력사 근로자를 대상으로 안전문화체험교육을 실시하고 기후재난 대비 안전·보건 점검을 진행했다. 안전보건경영 실천을 통해 안전·상생 활동을 지속하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T19:29:27+09:00",
     "importance": 2
   },
   {
@@ -32150,21 +32166,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-20T08:39:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "한샘, '넥서스' 품어 B2B 키운다는데…매출 하락세 어쩌나 - topdaily.kr",
-    "link": "https://www.topdaily.kr/articles/111535",
-    "description": "한샘 관계자는 “한샘넥서스의 최근의 실적 감소는 건설경기 침체 장기화에 따른 주택 특판시장 위축과 일부 프로젝트 진행 시점의 영향이 복합적으로 작용한 것으로 보고 있다”며 “이번 흡수합병은 한샘이...",
-    "published_at": "2026-08-20T08:30:00+09:00",
-    "cluster_id": "48ff",
-    "publisher": "topdaily.kr",
-    "title_clean": "한샘, '넥서스' 품어 B2B 키운다는데…매출 하락세 어쩌나",
-    "summary": "한샘이 한샘넥서스를 흡수합병하며 B2B 사업 강화를 추진 중이나, 건설경기 침체로 주택 특판시장 위축과 프로젝트 지연 등으로 인해 넥서스의 최근 매출이 감소세를 보이고 있다. 건설업계의 경기 부진이 기업 실적에 직접적인 영향을 미치는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T08:39:06+09:00",
-    "importance": 4
   }
 ]
