@@ -4772,6 +4772,22 @@
     "importance": 6
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "공사비 올려준대도 '꿈쩍 않는' 건설사들 - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271965",
+    "description": "지난달 현장설명회에는 DL이앤씨와 IPARK현대산업개발이 2곳이 참석했다. 건설사들이 상당히 소극적인 것은 수주 규모보다 실제 수익을 확보할 수 있는지가 중요해졌기 때문이다. 공사비가 수조원에 달해도 착공까지...",
+    "published_at": "2026-08-25T14:00:00+09:00",
+    "cluster_id": "2b8f",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "공사비 올려준대도 '꿈쩍 않는' 건설사들",
+    "summary": "공사비 인상에도 불구하고 건설사들의 현장설명회 참석이 저조한 상황이다. 건설업체들이 수주 규모보다 실제 수익성을 중시하면서 소극적 태도를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-25T14:09:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20717,22 +20733,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-18T00:03:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성물산 독주 속 순위 요동…대우건설 0원 ‘직격탄ʼ [2026 시평-경영평가] - 한국금융신문",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uU01wUWJaQnltLThuR081dmxkby1XRFBxbDJCaGhvSlRpaExqWlRvRG91dlU3UUpqSFpVYlRRUXdxZTUzTUZJWGN0ZEpVYzRicm1CN3VQNVVsQkNZZlFLZ19EcHVubmwwZ09PWXY3elVua0N4dWZfdUptYw?oc=5",
-    "description": "건설사의 시공능력평가액은 공사실적평가액, 경영평가액, 기술능력평가액, 신인도평가액을 합해 계산된다. 이 가운데, 경영평가액은 차입금의존도와 이자보상비율, 자기자본비율, 매출순이익율, 총자본회전율 등을 더한 값을 5로 나눠 산출한다. 경영평점에 초점을 두고 있는 만큼, 건설사의 재무건전성",
-    "published_at": "2026-08-18T00:00:00+09:00",
-    "cluster_id": "a9fb",
-    "publisher": "한국금융신문",
-    "title_clean": "삼성물산 독주 속 순위 요동…대우건설 0원 ‘직격탄ʼ [2026 시평-경영평가]",
-    "summary": "2026년 시공능력평가에서 경영평가액 산출방식이 적용되며, 차입금의존도, 이자보상비율, 자기자본비율 등 재무건전성 지표가 건설사 순위에 큰 영향을 미친다. 대우건설 등 일부 건설사가 경영평가에서 0점을 받아 순위 변동이 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-18T00:03:20+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
