@@ -4755,6 +4755,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'정자역 더블 역세권' 더샵 분당하이스트, 9월 143가구 일반분양 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260825_0003761908",
+    "description": "경기도 성남시 분당구 정자동 느티마을 4단지 리모델링주택조합이 시행하고 포스코이앤씨가 시공 중인 더샵 분당하이스트'가 오는 9월 분양에 나선다. 단지는 지하 4층~지상 최고 26층, 17개 동, 전용면적 66~84㎡ 총...",
+    "published_at": "2026-08-25T15:31:00+09:00",
+    "cluster_id": "e1c8",
+    "publisher": "newsis.com",
+    "title_clean": "'정자역 더블 역세권' 더샵 분당하이스트, 9월 143가구 일반분양",
+    "summary": "성남시 분당구 정자동의 더샵 분당하이스트가 9월에 143가구를 일반분양한다. 포스코이앤씨가 시공하는 이 프로젝트는 정자역 인근 '더블 역세권' 위치의 리모델링주택으로 66~84㎡ 전용면적의 주거단지다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T15:39:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20702,19 +20718,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "‘빌 게이츠 방한’ 그 후…두산·SK·HD현대, 美 SMR 선점 본격화 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15VG5xTkg4ZnBOR1ctVWlDV2hIX2VfczlvU1Y1SGZ5ZEgwN0RWb1BhdktKMDF3NWNWQzVUeTBHMVYyZkVCcmpwNjBraXNNMmtaWHFjaQ?oc=5",
-    "description": "두산 기자재 본계약·SK 공동사업 합의·HD현대 EPC 분업 가동증권가 \"美 정부 대출 등 발주 본격, 하반기 프로젝트 가시성 주목\"(이미지=제미나이)마이",
-    "published_at": "2026-08-18T06:00:00+09:00",
-    "cluster_id": "4f49",
-    "publisher": "이투데이",
-    "title_clean": "‘빌 게이츠 방한’ 그 후…두산·SK·HD현대, 美 SMR 선점 본격화",
-    "summary": "빌 게이츠 방한 이후 두산, SK, HD현대가 미국 소형모듈원전(SMR) 사업에 본격 진출하고 있으며, 기자재 본계약, 공동사업 합의, EPC 분업 등을 추진 중이다. 미국 정부의 대출 및 발주 본격화로 하반기 프로젝트 가시성이 높아질 것으로 예상되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-18T06:48:32+09:00",
+    "title": "반도건설, 안전보건경영 위해 협력사 임직원 안전 체험 실시 - 뉴스톱",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVWpNYi1RYl83NUxsQkhZTENKWk1LWmV0ZmxEVF9oMUIyZk1jbW0yRGdIdGo1VklGRVoxdGpmN1lUYnl4TVo5dGlUa1hwcDlSUThqdWFvNnZ5WlFLVzlhVm81b20yaGpuUGQ4SXdrdw?oc=5",
+    "description": "반도건설이 안전보건경영 실천에 나섰다.반도건설은 협력사 임직원의 안전문화체험교육 및 기후재난 대비 근로자 안전·보건 점검에 나섰다고 25일 밝혔다.이번에 진행한",
+    "published_at": "2026-08-25T15:30:14+09:00",
+    "cluster_id": "5d6e",
+    "publisher": "뉴스톱",
+    "title_clean": "반도건설, 안전보건경영 위해 협력사 임직원 안전 체험 실시",
+    "summary": "반도건설이 협력사 임직원을 대상으로 안전문화체험교육과 기후재난 대비 근로자 안전·보건 점검을 실시하며 안전보건경영을 강화하고 있다. 건설업 현장 안전 관리 강화 및 예방 활동을 통해 산업 안전문화 개선에 앞장서고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-25T15:39:21+09:00",
     "importance": 2
   },
   {
@@ -32145,21 +32161,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-19T17:29:13+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경북·대구, 2분기 IT·화학 수출 훈풍…건설 수주 '직격탄' - kyongbuk.co.kr",
-    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081557",
-    "description": "대경권 건설수주액은 8536억 원에 그쳐 전년 동기 대비 68.6% 급감했다. 공종별로는 건축이 81.8%, 토목이 38.5% 줄었고 발주자별로는 민간 부문이 79.5% 축소됐다. 특히 대구의 건설수주액은 901억 원으로 전년 대비 94.0...",
-    "published_at": "2026-08-19T17:18:00+09:00",
-    "cluster_id": "335b",
-    "publisher": "kyongbuk.co.kr",
-    "title_clean": "경북·대구, 2분기 IT·화학 수출 훈풍…건설 수주 '직격탄'",
-    "summary": "경북·대구의 2분기 IT·화학 수출은 호조를 보였으나, 건설수주액은 전년 동기 대비 68.6% 급감했다. 특히 건축 수주가 81.8%, 민간 부문이 79.5% 급락하며 건설업계에 큰 타격을 입었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-19T17:29:13+09:00",
-    "importance": 5
   }
 ]
