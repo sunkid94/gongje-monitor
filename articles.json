@@ -5349,6 +5349,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "서울숲에 가면 에스파-NCT 목소리 들리는 정원 있다 - donga.com",
+    "link": "https://www.donga.com/news/Society/article/all/20260827/134551085/2",
+    "description": "대우건설, GS건설, HDC현대산업개발, 계룡건설, 호반건설, 서울주택도시개발공사(SH공사) 등이 참여한 기부정원은 풍성한 꽃과 감각적인 휴게시설을 갖췄다. 서울숲 명소인 호숫가 주변에서는 공모 작가 정원 2곳과...",
+    "published_at": "2026-08-27T04:36:00+09:00",
+    "cluster_id": "d6c3",
+    "publisher": "donga.com",
+    "title_clean": "서울숲에 가면 에스파-NCT 목소리 들리는 정원 있다",
+    "summary": "대우건설, GS건설, HDC현대산업개발 등 건설사들이 서울숲에 기부정원을 조성하여 사회공헌 활동을 전개하고 있다. 호숫가 주변에 꽃과 휴게시설을 갖춘 정원을 조성해 시민 문화공간을 확대했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-27T04:50:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21291,20 +21307,20 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현대산업개발, 2450억 순천 조례동 아이파크 수주…683가구 공급 - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134598",
-    "description": "IPARK현대산업개발은 지난 19일 순천 조례동 아이파크 도급공사를 수주했다고 20일 밝혔다. 이번 사업은 영림개발이 발주한 민간 수주 프로젝트다. 사업지는 전남광주통합특별시 순천시 조례동 60-16번지 일원이다....",
-    "published_at": "2026-08-20T12:18:00+09:00",
-    "cluster_id": "4112",
-    "publisher": "newslock.co.kr",
-    "title_clean": "IPARK현대산업개발, 2450억 순천 조례동 아이파크 수주…683가구 공급",
-    "summary": "IPARK현대산업개davil이 순천 조례동 아이파크 도급공사 2450억 규모를 수주하여 683가구를 공급한다. 민간 수주 프로젝트로 건설사의 수주 실적 증가를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T12:28:52+09:00",
-    "importance": 2
+    "title": "경기도, 신안산선 광명 5-2공구 공사 재개 앞두고 현장 안전 점검 - 프레시안",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yeXJzNUI5dWt6M1hfamkzel9TSGVxY09hVWQxUTRMMzlBalhzWGg2bGdydVVWZWpDeGVyUmtja1pSSWhsWDlmZEY2TkpmRWk2eWlOTS1VZy1sNjl3VlhHX2lKUG9vX3lkOEI4?oc=5",
+    "description": "경기도가 지난해 4월 붕괴사고가 발생했던 신안산선 광명시 5-2공구의 공사 재개를 앞두고 현장 안전관리 상황을 꼼꼼히 살폈다. 26일 도에 따르면 도는 이날 광명시 일직동 복...",
+    "published_at": "2026-08-26T16:35:43+09:00",
+    "cluster_id": "1289",
+    "publisher": "프레시안",
+    "title_clean": "경기도, 신안산선 광명 5-2공구 공사 재개 앞두고 현장 안전 점검",
+    "summary": "경기도가 지난해 4월 붕괴사고가 발생했던 신안산선 광명 5-2공구의 공사 재개를 앞두고 현장 안전점검을 실시했다. 사고 재발 방지를 위한 안전관리 강화 조치로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-27T04:50:08+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32152,22 +32168,6 @@
     "summary": "HJ중공업이 1740억원 규모의 제2경춘국도 4공구 도로건설 공사를 수주했다. 조선부문 실적 개선에 힘입어 건설부문의 공공 인프라 수주를 확대하며 사업 포트폴리오 다각화를 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-20T22:58:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "마포구·국무조정실· 건설근로자공제회 건설노동자 정신건강 살핀다 - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KOFFGcmZNcGxhSXNzT3ZCYVJSNWlVQ3pZLU5KLU5RS1RkYV9XOFU0ZVB5OTlpTGRBcEo3V3pLVUhIbUxjZjJsZkRjTmVrRWw2d0FvTXZ3?oc=5",
-    "description": "[헤럴드경제=박종일 선임기자]마포구(구청장 유동균)가 국무조정실 범정부 생명지킴추진본부(본부장 송민섭), 건설근로자공제회(이사장 장건)와 손잡고 건설노동자의 정신",
-    "published_at": "2026-08-20T22:17:25+09:00",
-    "cluster_id": "bfbe",
-    "publisher": "헤럴드경제",
-    "title_clean": "마포구·국무조정실· 건설근로자공제회 건설노동자 정신건강 살핀다",
-    "summary": "마포구, 국무조정실, 건설근로자공제회가 건설노동자의 정신건강 관리를 위해 협력한다. 건설업계 종사자들의 심리 건강 지원 및 복지 강화 정책을 추진하는 것으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T22:28:30+09:00",
     "importance": 2
   }
 ]
