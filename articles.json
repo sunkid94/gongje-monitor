@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "대한기계설비건설협회, 장학금 전달 - 금강일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96aE14LWNBSDhNUFo3aFJ2b2tMRk1iV2lYVDFoa2tfbTJ4SkM5SzNCanM4dENyZmlOblVFSkhKUllubDBnNXdrMThWbVpxR2NzS2h0OUg1eGRMSGVFd3dlS3VWS1M0dmhYdlE?oc=5",
+    "description": "이태왕 대한기계설비건설협회 대전·세종·충남도회장은 26일 충남교육청을 찾아 지난해에 이어 교육 소외 학생의 성장 지원을 위한 장학금 1000만 원을 이병도 교육감에게 전달했다.이석호 기자 ilbolee@ggilbo.com",
+    "published_at": "2026-08-26T14:40:47+09:00",
+    "cluster_id": "d3a1",
+    "publisher": "금강일보",
+    "title_clean": "대한기계설비건설협회, 장학금 전달",
+    "summary": "대한기계설비건설협회 대전·세종·충남도회장이 충남교육청에 교육 소외 학생 지원을 위한 장학금 1000만 원을 전달했다. 협회의 지속적인 사회공헌 활동으로, 업계 이미지 개선에 긍정적으로 작용한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T14:55:02+09:00",
+    "event_label": "대한기계설비건설협회 장학금 1000만 원 전달",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -21178,6 +21195,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "중견건설사 수주잔고 '역대 최대'라는데…수년째 첫삽 못 뜬 사업장도 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=348464",
+    "description": "AI 이미지 건설경기 침체에도 중견건설사들이 대규모 수주잔고를 확보하며 일감을 쌓고 있지만, 수주한 사업이 실제 착공과 매출로 이어지는 속도에는 상당한 차이가 나타나고 있다. 수년 전 도급계약을 맺고도 아직...",
+    "published_at": "2026-08-26T14:49:00+09:00",
+    "cluster_id": "78ae",
+    "publisher": "greened.kr",
+    "title_clean": "중견건설사 수주잔고 '역대 최대'라는데…수년째 첫삽 못 뜬 사업장도",
+    "summary": "중견건설사들이 역대 최대 수주잔고를 확보하고 있으나, 실제 착공과 매출로 연결되는 속도가 지연되고 있는 상황. 수년 전 도급계약 후에도 미착공 사업장이 있어 수주 물량과 실적 사이의 괴리가 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-26T14:55:02+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "DL이앤씨, 2441억 원 규모 아산 발전소 수주… 주택 불황 속 돌파구는 플... - ilyoseoul.co.kr",
     "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521685",
     "description": "DL이앤씨가 발전 플랜트 수주를 이어가는 배경에는 장기간 이어진 건설경기 침체가 자리하고 있다. 한국은행에 따르면 국내 건설업 성장률은 2024년 -3.8%에서 지난해 -9.5%로 감소 폭이 확대됐다. 2023년 하락(-0.6...",
@@ -32146,37 +32179,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-20T15:09:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "자살예방·정신건강 증진 위한 협력...마포구, 국무조정실·건설근로자... - cnbizm.com",
-    "link": "https://www.cnbizm.com/news/articleView.html?idxno=312160",
-    "description": "문화경제 | CNB저널 | 씨앤비저널 서울 마포구(구청장 유동균)가 국무조정실 범정부 생명지킴추진본부(본부장 송민섭), 건설근로자공제회(이사장 장건)와 손잡고 건설노동자의 정신건강을 위한 지원에 나선다....",
-    "published_at": "2026-08-20T15:04:00+09:00",
-    "cluster_id": "ba8f",
-    "publisher": "cnbizm.com",
-    "title_clean": "자살예방·정신건강 증진 위한 협력...마포구, 국무조정실·건설근로자...",
-    "summary": "마포구가 국무조정실 범정부 생명지킴추진본부, 건설근로자공제회와 협력하여 건설노동자의 정신건강 지원에 나선다. 자살예방 및 정신건강 증진을 위한 정부 차원의 협력체계를 구축하는 내용이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T15:09:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "선앤엘, 생활뷰티 패키징 체질 개선 성과...자회사 이루팩도 흑자전환 - joongangenews.com",
-    "link": "https://www.joongangenews.com/news/articleView.html?idxno=541453",
-    "description": "플라스틱 패키징 사업을 담당하는 이루팩이 회복세에 진입한 것과 달리 선앤엘인테리어는 전방산업인 건설경기 침체의 영향을 직접적으로 받으면서 적자를 이어갔다. 지난해에도 선앤엘인테리어는 매출액 1490억원...",
-    "published_at": "2026-08-20T14:48:00+09:00",
-    "cluster_id": "a04a",
-    "publisher": "joongangenews.com",
-    "title_clean": "선앤엘, 생활뷰티 패키징 체질 개선 성과...자회사 이루팩도 흑자전환",
-    "summary": "선앤엘 그룹의 생활뷰티 패키징 사업 회복으로 자회사 이루팩이 흑자 전환했으나, 건설경기 침체로 선앤엘인테리어는 지속적인 적자를 기록 중이다. 그룹 내 사업 부문 간 실적 양극화가 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T14:59:23+09:00",
-    "importance": 4
   }
 ]
