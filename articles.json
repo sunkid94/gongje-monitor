@@ -5349,6 +5349,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "네팔 대홍수 사망자 160명으로 늘어…\"지진 아닌 빙하붕괴 재앙\" - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20260827005600091?input=1195m",
+    "description": "현지 수력발전소 건설 현장 인근에서 연락이 끊긴 한국남동발전과 두산에너빌리티 소속 한국인 9명도 실종 상태다. 정부는 외교부·소방청·경찰청 등으로 구성된 합동 신속대응팀을 현지로 급파할 계획이다. 이번...",
+    "published_at": "2026-08-27T04:52:00+09:00",
+    "cluster_id": "6018",
+    "publisher": "yna.co.kr",
+    "title_clean": "네팔 대홍수 사망자 160명으로 늘어…\"지진 아닌 빙하붕괴 재앙\"",
+    "summary": "네팔에서 빙하붕괴로 인한 대홍수로 160명 이상이 사망했으며, 한국남동발전과 두산에너빌리티 소속 한국인 9명이 수력발전소 건설 현장에서 실종된 상태다. 정부가 합동 신속대응팀을 현지로 파견할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-27T05:00:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21291,20 +21307,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "포스코이앤씨 브라질법인 파산, 정치·외교 문제 악화 '국제망신' - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2116622",
-    "description": "포쓰저널 이현민 기자 포스코이앤씨가 2016년 준공한 브라질 CSP 제철소 전경. /포스코이앤씨 포스코이앤씨 브라질법인의 파산을 둘러싼 수천억원대 채권 분쟁이 브라질의 정치·외교 문제로 확산하고 있다. 브라질...",
-    "published_at": "2026-08-20T12:36:00+09:00",
-    "cluster_id": "c0e3",
-    "publisher": "4th.kr",
-    "title_clean": "포스코이앤씨 브라질법인 파산, 정치·외교 문제 악화 '국제망신'",
-    "summary": "포스코이앤씨 브라질법인이 파산하면서 수천억원대 채권 분쟁이 발생하고 있으며, 이 문제가 브라질의 정치·외교 문제로 확대되고 있다. 대형 건설사의 해외 프로젝트 실패로 인한 국제 신뢰도 하락 및 건설업계 이미지 악화 우려가 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T12:39:01+09:00",
-    "importance": 4
+    "title": "\"AI 개발은 개발자가?\"…현장 PM이 직접 코딩, '안전·원가' 잡는다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KajZSN3NqelFjVUdEYUpqVkNYdGs0MzY0UW9kYk5YbHUwNGJLX1U4bW1rLXNUbjVkdjlqZ3o3NEViRUxfVVRENU9hTHhPRkdLUjhEdGs3VGg5cTRLeEtSbA?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [건설업의 AI 대전환] ⑨한미글로벌, 현장 주도형 AI 혁신 [편집자주] AI가 건설업의 새로운 경쟁력으로 떠오르고 있다. 건설사들은 생성형 AI를 활용한 설계 자동화부터 공사비 예측, 안전관리, 현장 로봇, 고객 서비스 혁신까지 전방위 투자에 나서",
+    "published_at": "2026-08-27T04:45:00+09:00",
+    "cluster_id": "5481",
+    "publisher": "네이트",
+    "title_clean": "\"AI 개발은 개발자가?\"…현장 PM이 직접 코딩, '안전·원가' 잡는다",
+    "summary": "건설업계가 AI를 활용한 디지털 혁신에 나서고 있으며, 한미글로벌은 현장 PM이 직접 코딩하는 현장 주도형 AI 혁신으로 안전성과 원가 절감을 동시에 추진 중이다. 설계 자동화부터 안전관리, 로봇 활용까지 건설사들의 전방위 AI 투자가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-27T05:00:08+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32153,21 +32169,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-20T22:58:37+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "HJ중공업, 1740억 규모 제2경춘국도 4공구 수주…실적 개선 속 공공사업 확대 - 비즈트리뷴",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nSUlodkVzRktoVkgzTUhsSk9za1dKOVMzelprS1NsdUlpcHNEMjhuQzV1R3FMdmhTUHRlN0pHaFJseUwzUUZFYURzLUYwMmFkWGZyZ0s2X2ljZFFMTUhDNWc4ZHJXazFrYTJObU9LMjY?oc=5",
-    "description": "HJ중공업이 대형 공공 토목사업을 잇따라 수주하며 건설부문 경쟁력을 강화하고 있다. 조선부문의 실적 개선으로 올해 상반기 수익성이 크게 개선된 가운데 건설부문에서도 도로·교량 등 공공 인프라 수주를 확대하며 안정적인 사업 포트폴리오 구축에 속도를 내는 모습이다.HJ중공업 건설부문은 국토교통부 원주지방국토관리청이 발주한 ‘국도46호선 남양주~춘천(제2경춘국도) 도로건설공사 제4공구’ 공사계약을 1740억원 규모로 체결했다고 20일 밝혔다.제4공구는 경기도 가평군 가평읍 하색리와 강원도 춘천시 남산면 서천리 일원을 연결하는 구간으로,",
-    "published_at": "2026-08-20T22:50:01+09:00",
-    "cluster_id": "f964",
-    "publisher": "비즈트리뷴",
-    "title_clean": "HJ중공업, 1740억 규모 제2경춘국도 4공구 수주…실적 개선 속 공공사업 확대",
-    "summary": "HJ중공업이 1740억원 규모의 제2경춘국도 4공구 도로건설 공사를 수주했다. 조선부문 실적 개선에 힘입어 건설부문의 공공 인프라 수주를 확대하며 사업 포트폴리오 다각화를 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T22:58:37+09:00",
-    "importance": 2
   }
 ]
