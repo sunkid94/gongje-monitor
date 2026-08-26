@@ -21278,6 +21278,37 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "초우종합건설, 공공 조달 시장 수주 성과로 지역 건설업계에서 성장세 지속 - 한국신용신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40ZkRuU1hsdmU4SlVjaXhzdS1xWTcwMGZuOExaeTd0R1dGanpLLWk3M3k4ZTd1Vng1aHFMYUd5NU4wUjB4djQ2NzhxdGxxWUtyWWxiM1ptQ3U1dWxPWjBuUzhRYzVZYkVMNGVv?oc=5",
+    "description": "부산 남구에 기반을 둔 초우종합건설이 최근 공공 조달 시장에서 굵직한 프로젝트를 연이어 수주하며 지역 건설업계에서 성장을 거듭하고 있다. 이달 종합건설업계에 따르",
+    "published_at": "2026-08-26T17:14:00+09:00",
+    "cluster_id": "68d4",
+    "publisher": "한국신용신문",
+    "title_clean": "초우종합건설, 공공 조달 시장 수주 성과로 지역 건설업계에서 성장세 지속",
+    "summary": "부산 남구의 초우종합건설이 공공 조달 시장에서 연이어 프로젝트를 수주하며 지역 건설업계에서 성장세를 지속하고 있다. 종합건설업계의 수주 증가 사례로 보도되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T17:30:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도, 광명 신안산선 붕괴사고 복구 철도건설공사 현장 점검 실시 - 뉴스N연합",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UM3h2WGw5S3NLbjhaLWVzOUkxbkZJSUM2WWx5cGZFR1JndmNycWdxVDZRMVVWLVUwNUt2UG9EcFlZLU9CT1dRSDBB?oc=5",
+    "description": "[투데이타임즈 유규상 기자]경기도는 광명시 신안산선 5-2공구 공사 재개를 앞두고 26일 일직동 복구현장에서 안전관리상황을 집중 점검했다. 해당 현장은 지난해 4월 지하 2아치터널 및 도로 붕괴 사고로 인해 2명(사망 1명, 경상 1명)의 인명피해가 발생한 곳이다. 현재 선로 설치공사를 위한 흙막이 공사를 진행 중이다.이번 점검은 경기도 안전관리실 안전특별",
+    "cluster_id": "0f94",
+    "publisher": "뉴스N연합",
+    "title_clean": "경기도, 광명 신안산선 붕괴사고 복구 철도건설공사 현장 점검 실시",
+    "summary": "경기도가 지난해 4월 붕괴사고가 발생한 광명 신안산선 5-2공구 복구 현장에 대해 안전관리 상황을 집중 점검했다. 현장에서는 선로 설치공사를 위한 흙막이 공사가 진행 중이며, 공사 재개를 앞두고 안전성을 강화하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-26T17:30:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32150,38 +32181,6 @@
     "summary": "HJ중공업이 국토교통부 원주지방국토관리청으로부터 제2경춘국도 4공구 도로건설공사 계약을 체결했다. 총 1,740억 원 규모의 본 공사는 경기도 가평군과 강원도 춘천시를 연결하는 5.16km 도로 개설로 교량 6개소, 터널 1개소 신설 등을 포함한다.",
     "sentiment": "positive",
     "collected_at": "2026-08-20T17:40:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[산업소식] 현대차, 전주월드컵경기장서 '현대 N 파트너 데이' 개최 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2116617",
-    "description": "LH는 건설현장 안전사고 예방을 위해 '실시간 종합건설정보 시스템(RICS)'을 본격 운영한다고 20일 밝혔다. RICS는 Real-time Integrated Construction Information System의 약자다. 전국 LH 건설현장의 공정 현황, 인력·장비 투입 정보...",
-    "published_at": "2026-08-20T11:46:00+09:00",
-    "cluster_id": "cf24",
-    "publisher": "4th.kr",
-    "title_clean": "[산업소식] 현대차, 전주월드컵경기장서 '현대 N 파트너 데이' 개최",
-    "summary": "LH가 건설현장 안전사고 예방을 위해 실시간 종합건설정보 시스템(RICS)을 본격 운영한다. 전국 LH 건설현장의 공정 현황, 인력·장비 투입 정보를 통합 관리하는 시스템으로, 건설 안전성과 효율성 강화를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T17:38:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "네이버클라우드·현대건설도 만났다…충남 스타트업, 대기업 협업 넓힌... - donga.com",
-    "link": "https://www.donga.com/news/Economy/article/all/20260820/134514397/2",
-    "description": "논의 분야도 AI·AX와 스마트건설, 클라우드, 디지털 헬스케어, 제조혁신, 스마트 시설관리, 친환경 기술, 리테일테크 등으로 넓어졌다. 참여 기업들은 각 분야에서 기술실증과 공동사업, 투자 연계 등을 논의했다....",
-    "published_at": "2026-08-20T17:34:00+09:00",
-    "cluster_id": "8fd5",
-    "publisher": "donga.com",
-    "title_clean": "네이버클라우드·현대건설도 만났다…충남 스타트업, 대기업 협업 넓힌...",
-    "summary": "충남 스타트업이 네이버클라우드, 현대건설 등 대기업들과 협업을 확대하고 있으며, AI·스마트건설·클라우드·디지털 헬스케어 등 다양한 분야에서 기술실증과 공동사업을 논의 중이다. 스타트업-대기업 간 협력을 통한 기술혁신과 투자 연계가 활발히 진행되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T17:38:54+09:00",
     "importance": 2
   }
 ]
