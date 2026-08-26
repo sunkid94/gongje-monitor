@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문건설공제조합, 거제 호우 피해복구 지원ⵈ 성금 1천만원 기탁 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=339585",
+    "description": "전문건설공제조합(K-FINCO)이 집중호우로 피해를 입은 경남 거제지역 주민들의 조속한 일상 회복을 위한 지원에 나섰다. K-FINCO는 오늘(26일) 사회복지공동모금회에 거제시 수해 복구 지원을 위한 성금 1,000만원을...",
+    "published_at": "2026-08-26T19:22:00+09:00",
+    "cluster_id": "f06d",
+    "publisher": "국토일보",
+    "title_clean": "전문건설공제조합, 거제 호우 피해복구 지원ⵈ 성금 1천만원 기탁",
+    "summary": "전문건설공제조합(K-FINCO)이 경남 거제지역의 집중호우 피해 복구를 위해 사회복지공동모금회에 1,000만원의 성금을 기탁했다. 이는 수해 피해 주민들의 일상 회복을 지원하기 위한 사회공헌 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-26T19:30:17+09:00",
+    "event_label": "전문건설공제조합 거제 호우 피해복구 성금 1,000만원 기탁",
+    "importance": 6
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32164,21 +32181,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-20T18:44:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LG유플러스, AI 기반 건물 관리 솔루션 ‘AI빌딩넷 by ixi’ 출시 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51384",
-    "description": "LG유플러스는 20일 AI를 활용한 건물 관리 솔루션 ‘AI 빌딩넷 by ixi’를 출시했다고 밝혔다.이 솔루션은 건물 내 센서, CCTV, 로봇 등이 수집한 데이터를 AI가 통합 분석해 최적의 시설 운영을 이끈다. 시니어 케어시설, 레지던스, 오피스, 상업시설 등 다양한 유형의 건물에 적용할 수 있다.솔루션은 건물 안전·보안과 공간 관리 분야 서비스를 제공한다. 출입 시스템과 위치 인식 센서를 연동해 공간별 이용 현황을 실시간 파악하고, 혼잡도에 따라 출입 인원을 조절한다. 출입 인원 효율적 관리, 비인가 출입 통제, 이상 체류",
-    "published_at": "2026-08-20T10:11:49+09:00",
-    "cluster_id": "4d8f",
-    "publisher": "기계설비신문",
-    "title_clean": "LG유플러스, AI 기반 건물 관리 솔루션 ‘AI빌딩넷 by ixi’ 출시",
-    "summary": "LG유플러스가 AI 기반 건물 관리 솔루션 'AI빌딩넷 by ixi'를 출시했다. 센서, CCTV, 로봇 데이터를 AI가 통합 분석하여 안전·보안과 공간 관리 서비스를 제공하며, 다양한 건물 유형에 적용 가능하다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T18:44:15+09:00",
-    "importance": 2
   }
 ]
