@@ -5281,23 +5281,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회, 서울과기대에 인재 양성 지원금 전달 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51076",
-    "description": "대한기계설비건설협회(회장 허용주)가 인공지능 데이터센터(AI DC), 반도체 등 첨단산업 수요가 늘어나고 있는 가운데 안정적인 기계설비분야 전문인력 양성 체계를 마련하기 위한 장학사업을 전개하고 있다.기계설비협회는 27일 서울 노원구 공릉동 소재 서울과학기술대학교를 방문해 기계설비 전문인력 양성을 위한 지원금 2000만원을 전달하는 기탁식<사진>을 가졌다고 밝혔다.이날 서울과기대 대학본부에서 진행된 기탁식에는 학교측에서는 김동환 총장, 김선혜 학과장, 김지민 교수 등이, 기계설비협회에서는 허용주 회장, 유경하 자동제어설비공사협의장,",
-    "published_at": "2026-07-27T17:30:00+09:00",
-    "cluster_id": "ee54",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비협회, 서울과기대에 인재 양성 지원금 전달",
-    "summary": "대한기계설비건설협회가 AI 데이터센터, 반도체 등 첨단산업 수요 증가에 대응하여 기계설비 전문인력 양성을 위한 장학사업을 추진 중이다. 협회는 서울과학기술대학교에 2000만원의 지원금을 기탁했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-07-27T18:24:06+09:00",
-    "event_label": "대한기계설비건설협회 서울과학기술대학교에 인재양성 지원금 2000만원 전달",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21258,6 +21241,22 @@
     "summary": "대우건설이 주식회사 나산과 청주시 송절동에서 1,065세대 규모의 공동주택 신축 공사수주 계약을 체결했다. 지하 2층부터 지상 29층까지 10개 동 규모의 대형 프로젝트로, 건설사의 수주 확대를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-08-19T13:09:30+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충청본부, 협력사와 ‘무사고·무재해’ 한뜻… 철도현장 안전 결의 - 천지일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VRUJCdEI2SU5iekFhQ0FzWGlCRDFsZUIybTNtZTJfTWV6bGpITW1wZmdiVWFGOHdpMXI2bTdsbjFhMXNPX09VNzA1S2xDYWw3TDJER1RwV3lHOXBOZ2tXcEQyeVh0MkRKRUE?oc=5",
+    "description": "[천지일보=홍보영 기자] 국가철도공단 충청본부가 26일 관내 철도건설 및 시설 개량 현장 협력사 관계자들과 함께 ‘무사고·무재해 합동 결의대회’를 개최했다고 밝혔다.이날 행사에는 충청본부 임직원과 협력사 관계자 등 200여명이 참석했다. 참석자들은 핵심 안전수칙을 공유하고 안전 실천",
+    "published_at": "2026-08-26T18:19:29+09:00",
+    "cluster_id": "5a9c",
+    "publisher": "천지일보",
+    "title_clean": "충청본부, 협력사와 ‘무사고·무재해’ 한뜻… 철도현장 안전 결의",
+    "summary": "국가철도공단 충청본부가 협력사와 함께 '무사고·무재해 합동 결의대회'를 개최하여 철도건설 현장의 안전 문화 강화에 나섰다. 200여명이 참석하여 핵심 안전수칙을 공유하고 안전 실천을 다짐했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-26T18:29:06+09:00",
     "importance": 2
   },
   {
