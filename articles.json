@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "충남교육청, 대한기계설비건설협회로부터 장학금 1천만 원 전달받아 - 충청메시지",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTWNsVy11WnhhVE94ZHdjY2pPSnNrZ1JPR3g3S1RSek03OWkxazNHbGNiMkVkdGZGMHg2RDlweHhFY1JjQVZaVWdBM2pWZE1tR3hPbThtQXJ6bDBOby1rRGxBS0tJOENfSXpV?oc=5",
+    "description": "충남교육청(교육감 이병도)은 26일(수) 교육청 접견실에서 대한기계설비건설협회 대전·세종·충남도회(회장 이태왕)로부터 교육 소외 학생의 성장 지원을 위한 장학금",
+    "published_at": "2026-08-26T13:51:22+09:00",
+    "cluster_id": "aaec",
+    "publisher": "충청메시지",
+    "title_clean": "충남교육청, 대한기계설비건설협회로부터 장학금 1천만 원 전달받아",
+    "summary": "대한기계설비건설협회 대전·세종·충남도회가 충남교육청에 교육 소외 학생 지원을 위한 장학금 1천만 원을 전달했다. 업계의 사회공헌 활동으로 평가된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-26T14:04:56+09:00",
+    "event_label": "대한기계설비건설협회 장학금 기탁",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "충남교육청, 교육 소외 학생 위한 1000만원 장학금 전달받아 - weekly.hankooki.com",
     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180713",
     "description": "사진=충남교육청 충남교육청은 26일 접견실에서 대한기계설비건설협회 대전·세종·충남도회로부터 교육 소외 학생들을 위한 장학금 1000만 원을 전달받았다. 대한기계설비건설협회 대전·세종·충남도회는 지난해에 이어...",
@@ -32156,22 +32173,6 @@
     "summary": "오산 경부선 횡단도로 공사가 안전 확보 조건 하에 계속 진행되고 있으며, 공사 중단이 아님을 명확히 함. 우기철 관계자가 안전관리를 강조하며 프로젝트 지속을 통보.",
     "sentiment": "positive",
     "collected_at": "2026-08-20T14:08:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "8월 3주 아파트 매매가 0.08%↑·전세가 0.10%↑ - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37138",
-    "description": "한국부동산원이 2026년 8월 3주(8월 17일 기준) 전국 주간 아파트가격 동향을 조사한 결과, 매매가격지수는 0.08% 상승, 전세가격지수는 0.10% 상승을 기록했다고 밝혔다. 전국 주간 아파트 매매가격지수는 지난주 대비 0.08% 상승했다. 수도권(0.15%), 서울(0.22%)은 상승, 지방(0.00%)은 보합으로 나타났다. (4대광역시(0.00%), 세종(0.00%), 전남광주(0.03%), 7개도(0.00%))시도별로는 경기(0.15%), 충북(0.07%), 전북(0.06%), 울산(0.04%), 대전(0.03%) 등은",
-    "published_at": "2026-08-20T14:00:00+09:00",
-    "cluster_id": "9220",
-    "publisher": "한국건설신문",
-    "title_clean": "8월 3주 아파트 매매가 0.08%↑·전세가 0.10%↑",
-    "summary": "2026년 8월 3주 전국 아파트 매매가격지수는 0.08% 상승, 전세가격지수는 0.10% 상승했다. 수도권과 서울은 상승세를 보였으나 지방은 보합 수준으로 지역별 편차가 나타났다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T14:02:05+09:00",
     "importance": 2
   }
 ]
