@@ -21141,6 +21141,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[위클리오늘] 원주시, 민선 9기 공약사업·2027년도 주요시책 보고회 마... - weeklytoday.com",
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791740",
+    "description": "원주시, 재해취약시설·건설현장 안전관리 실태 점검 지난 25일 집중호우로 시설물 변위가 발생한 태장동 삼정백조아파트 101동 뒤 도시계획도로(소로3-113호) 옹벽과 자연재해위험개선사업이 진행 중인 문막교지구를...",
+    "published_at": "2026-08-26T14:26:00+09:00",
+    "cluster_id": "ce78",
+    "publisher": "weeklytoday.com",
+    "title_clean": "[위클리오늘] 원주시, 민선 9기 공약사업·2027년도 주요시책 보고회 마...",
+    "summary": "원주시가 민선 9기 공약사업과 2027년도 주요시책을 보고하였으며, 집중호우로 인한 시설물 변위 발생에 따라 재해취약시설과 건설현장에 대한 안전관리 실태 점검을 실시하고 있다. 도시계획도로 옹벽 및 자연재해위험개선사업 등을 통해 안전 강화에 중점을 두고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-26T14:30:00+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, 수익성 개선에 재무체력 강화…정비사업 수주도 확대 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40dFFXaVhoMjVENi1yd2oyV04zVUJqWVZyX2pZMlh5UmF1Y0VBNV95bGdaNkRpSDk4YnhyblVuc2pTSm1ub25udHR4MHY1Nkg2NW1Z?oc=5",
+    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 롯데건설이 수익성 개선과 프로젝트파이낸싱(PF) 우발채무 축소를 이어가는 가운데 주택·도시정비사업을 중심으로 사업 확대에 나서고 있다. 26일 롯데건설에 따르면, 회사의 올해 2분기 영업이익은 1224억원으로 전년 동기 대비 230% 증가하며 어닝 서",
+    "published_at": "2026-08-26T14:14:00+09:00",
+    "cluster_id": "2990",
+    "publisher": "네이트",
+    "title_clean": "롯데건설, 수익성 개선에 재무체력 강화…정비사업 수주도 확대",
+    "summary": "롯데건설이 2분기 영업이익 1,224억원으로 전년동기 대비 230% 증가하며 수익성을 개선했다. PF 우발채무 축소와 함께 주택·도시정비사업 수주 확대로 사업 포트폴리오를 재편하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T14:30:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32143,37 +32175,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-20T14:14:01+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "일감 끊긴 대구 건설업계…2분기 수주 901억 원에 그쳐 - idaegu.com",
-    "link": "https://www.idaegu.com/news/articleView.html?idxno=665125",
-    "description": "건설수주는 계약 체결 이후 실제 공사가 진행되는 만큼, 수주 부진이 이어질 경우 향후 지역 건설경기에도 영향을 미칠 가능성이 있다. 주택시장에 쌓여 있는 미분양 물량도 신규 사업 추진의 부담 요인으로 꼽힌다....",
-    "published_at": "2026-08-20T14:10:00+09:00",
-    "cluster_id": "42ba",
-    "publisher": "idaegu.com",
-    "title_clean": "일감 끊긴 대구 건설업계…2분기 수주 901억 원에 그쳐",
-    "summary": "대구 건설업계가 2분기 수주 901억 원에 그치며 심각한 부진을 겪고 있다. 수주 부진이 지속될 경우 향후 건설경기 악화로 이어질 우려가 있으며, 미분양 물량 증가도 신규 사업 추진에 걸림돌이 되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T14:14:01+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, 전국 건설현장 위험도 실시간 분석...안전관리 강화 - asiaa.co.kr",
-    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259387",
-    "description": "한국토지주택공사(LH)는 건설현장 안전사고 예방을 위해 전국 건설현장의 위험요소를 실시간으로 확인·분석하는 '실시간 종합건설정보 시스템(RICS)'을 본격 운영한다고 20일 밝혔다. '실시간 종합건설정보 시스템(RICS)...",
-    "published_at": "2026-08-20T14:04:00+09:00",
-    "cluster_id": "c7ff",
-    "publisher": "asiaa.co.kr",
-    "title_clean": "LH, 전국 건설현장 위험도 실시간 분석...안전관리 강화",
-    "summary": "LH가 건설현장 안전사고 예방을 위해 실시간 종합건설정보 시스템(RICS)을 도입해 전국 건설현장의 위험요소를 실시간으로 분석한다. 이는 안전관리 강화로 사고 예방을 목표로 하는 시스템 운영이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T14:08:59+09:00",
-    "importance": 2
   }
 ]
