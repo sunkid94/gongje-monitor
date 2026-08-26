@@ -21073,6 +21073,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "민간주택수주 급감, 2년후 공급 불안 - naeil.com",
+    "link": "https://www.naeil.com/news/read/600058?ref=naver",
+    "description": "건설공사 실적이 소폭 개선됐지만 민간주택건설 수주가 급감해 향후 건설경기 회복은 불투명한 것으로 나타났다. 26일 국토교통부와 한국건설산업연구원 따르면 6월 건설수주는 18조7000억원으로 전년동기대비...",
+    "published_at": "2026-08-26T13:02:00+09:00",
+    "cluster_id": "c6d4",
+    "publisher": "naeil.com",
+    "title_clean": "민간주택수주 급감, 2년후 공급 불안",
+    "summary": "6월 건설수주는 전년동기대비 소폭 증가했으나, 민간주택건설 수주가 급감하면서 향후 건설경기 회복 전망이 불투명해졌다. 2년 후 주택 공급 부족 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-26T13:09:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32151,22 +32167,6 @@
     "publisher": "news.einfomax.co.kr",
     "title_clean": "전월세 안심신탁, 9월부터 참여자 모집…연4% 운용수익 지급(종합)",
     "summary": "HUG가 9월부터 전월세 안심신탁 참여자를 모집하며 연 4% 운용수익을 지급할 예정이다. 주택공금펀드 자금을 건설사 PF에 직접 투자해 건설업계 유동성 경색 해소를 지원하고, 중장기적으로 매입임대 사업 확대를 통한 주택공급 활성화를 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-20T13:24:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "K-water, 필리핀 댐에 최대 90MW 수상태양광 띄운다…해외 첫 기술 적용 - 건설이코노미뉴스",
-    "link": "http://www.cenews.kr/news/articleView.html?idxno=41083",
-    "description": "[건설이코노미뉴스] 한국수자원공사(K-water)가 국내에서 상용화한 수상태양광 기술을 해외 댐에 처음 적용하기 위한 사업 검토에 착수한다.한국수자원공사(사장 윤석대)는 지난 19일 서울 중구 글로벌녹색성장기구(GGGI) 본부에서 GGGI, 한국기후변화연구원, 회계법인 새길과 ‘필리핀 부스토스댐 수상태양광 개발사업 예비타당성조사 공동수행 협정’​을 체결했다고 밝혔다.이번 사업은 수자원공사가 국내 최초로 상용화한 수상태양광 기술을 해외 댐에 적용하는 첫 시도라는 점에서 의미가 크다.특히 GGGI가 운영하는 한국그린뉴딜펀드(KGNDTF",
-    "published_at": "2026-08-20T13:19:00+09:00",
-    "cluster_id": "d074",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "K-water, 필리핀 댐에 최대 90MW 수상태양광 띄운다…해외 첫 기술 적용",
-    "summary": "K-water가 국내 상용화한 수상태양광 기술을 필리핀 부스토스댐에 처음 적용하는 사업 검토에 착수했다. 최대 90MW 규모의 이번 프로젝트는 해외 신재생에너지 시장 진출 및 건설·기계설비 수주 확대의 기회를 제공한다.",
     "sentiment": "positive",
     "collected_at": "2026-08-20T13:24:11+09:00",
     "importance": 2
