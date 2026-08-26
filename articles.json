@@ -21278,6 +21278,21 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[2026 스마트건설 청년인재 채용설명회] AX시대…건설산업에 필요한 인재는? - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14VUlNWUNMVlFxNkJWeE85Q0pkSmRfeHZzVkM3aXRuLVZOcm1zS3h6TW9oRlczcEV3VVBzQUFXcEd0M0JhV01lSC0xaVJhZ0JCamJQY3VLZTA2QnhwRzJuRWplTHFpM2dXSU5IYm02NElXWk9m?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE14VUlNWUNMVlFxNkJWeE85Q0pkSmRfeHZzVkM3aXRuLVZOcm1zS3h6TW9oRlczcEV3VVBzQUFXcEd0M0JhV01lSC0xaVJhZ0JCamJQY3VLZTA2QnhwRzJuRWplTHFpM2dXSU5IYm02NElXWk9m?oc=5\" target=\"_blank\">[2026 스마트건설 청년인재 채용설명회] AX시대…건설산업에 필요한 인재는?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
+    "cluster_id": "191d",
+    "publisher": "대한경제",
+    "title_clean": "[2026 스마트건설 청년인재 채용설명회] AX시대…건설산업에 필요한 인재는?",
+    "summary": "2026년 스마트건설 청년인재 채용설명회가 개최되며, AX(인공지능과 확장현실) 시대에 건설산업이 필요로 하는 인재상을 제시하고 있다. 디지털 기술 중심으로 변화하는 건설산업의 미래 인력 수요를 반영한 채용 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T20:00:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32163,22 +32178,6 @@
     "summary": "패트 단축법은 국회를 통과했으나, 주택공급 관련 용산공원특별법·도시 등의 법안은 본회의 상정이 미뤄졌다. 국민의힘이 부동산거래신고법 등 건설산업 관련 법안에 반대 입장을 나타냈다.",
     "sentiment": "negative",
     "collected_at": "2026-08-20T19:03:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대성산업 290억 수혈에도…대성쎌틱 자본잠식 심화 - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202608190137",
-    "description": "건설경기 침체로 국내 보일러 시장이 정체된 가운데 경쟁사들은 해외 진출과 사업 다각화로 돌파구를 찾았지만, 대성쎌틱은 뚜렷한 성장 동력을 확보하지 못했다는 분석이 나옵니다. 완전자본잠식이 심화된 만큼...",
-    "published_at": "2026-08-20T18:44:00+09:00",
-    "cluster_id": "d80a",
-    "publisher": "sentv.co.kr",
-    "title_clean": "대성산업 290억 수혈에도…대성쎌틱 자본잠식 심화",
-    "summary": "건설경기 침체로 국내 보일러 시장이 정체되는 가운데 대성쎌틱은 290억 원 자본 수혈에도 불구하고 해외 진출이나 사업 다각화 등 뚜렷한 성장 동력을 확보하지 못해 자본잠식이 심화되고 있다. 경쟁사들은 위기 극복에 나선 반면 대성쎌틱의 경영 전망이 악화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T18:48:37+09:00",
     "importance": 4
   }
 ]
