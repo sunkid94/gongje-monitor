@@ -5110,6 +5110,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[APT 랜드마크 스토리⑦] 디에이치 퍼스티어 아이파크, 개포를 바꿨다 - theviewers.co.kr",
+    "link": "https://theviewers.co.kr/View.aspx?No=4197011",
+    "description": "현대건설과 IPARK현대산업개발이 공동 시공을 맡았으며, 현대건설의 ‘디에이치’와 IPARK현대산업개발의 ‘아이파크’가 하나의 단지에 결합했다.이 단지가 주목받은 이유는 단순히 규모가 크기 때문만은 아니다. 1982년...",
+    "published_at": "2026-08-26T13:00:00+09:00",
+    "cluster_id": "3ff8",
+    "publisher": "theviewers.co.kr",
+    "title_clean": "[APT 랜드마크 스토리⑦] 디에이치 퍼스티어 아이파크, 개포를 바꿨다",
+    "summary": "현대건설과 IPARK현대산업개발이 공동 시공한 'DH퍼스티어 아이파크'는 두 브랜드를 결합한 대규모 아파트 단지로 개포지역을 변화시켰다. 1982년부터의 개발 역사를 담은 랜드마크 프로젝트로 평가받고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T13:04:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21057,19 +21073,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설 신기술",
+    "category": "신기술",
     "is_company": false,
-    "title": "롯데바이오 '송도 시대' 열었지만…1.5조 투자 증명할 '빅딜'은 아직 - docdocdoc.co.kr",
-    "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041862",
-    "description": "송도 1공장에 계획된 총 투자액은 약 1조4,000억원이며, 롯데건설과 체결한 공장 건설 계약 규모만 8,750억원이다. 송도 바이오캠퍼스 전체로 범위를 넓히면 필요한 자금은 더욱 커진다. 롯데바이오로직스는 향후 12만리터...",
-    "published_at": "2026-08-19T06:28:00+09:00",
-    "cluster_id": "9840",
-    "publisher": "docdocdoc.co.kr",
-    "title_clean": "롯데바이오 '송도 시대' 열었지만…1.5조 투자 증명할 '빅딜'은 아직",
-    "summary": "롯데바이오가 송도에 1조4,000억원을 투자해 바이오캠퍼스를 개발하고 있으며, 롯데건설과 8,750억원 규모의 공장 건설 계약을 체결했다. 다만 기사 제목에서 암시하듯 대규모 투자에 비해 아직 실질적인 사업 성과나 빅딜이 부족한 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-19T06:39:20+09:00",
+    "title": "폐콘크리트 재활용부터 겨울철 시공까지…한솔그룹, 기술력 강화 - cctoday.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDdTBGTE5EQlZJWjZyX2tOZ1BNM2U5WFBVVXZEd2Vfa1ExTEJKZ2xuQ0VEOXJreFp2MDlqcXJNTU9UdTVsbUlIRm5jczJ5RUdGb254cnlwMy1fS3hhQmVWREM2MThpMGNFZEROR09B?oc=5",
+    "description": "[충청투데이 김경동 기자] 한솔그룹이 환경신기술 인증과 함께 건설소재 분야 등록특허 4건을 잇달아 확보하며 친환경·동절기 건설기술 경쟁력을 대폭 강화했다.한솔그룹은 충남 아산 소재 품질연구소를 중심으로 추진한 연구개발을 통해 환경신기술 인증 1건과 등록특허 4건을 확보하고, 동절기 콘크리트 관련 기술의 전문기관 성능인증을 위한 후속 검증에 착수한다고 밝혔다.이번에 확보한 핵심 기술은 (주)한솔산업개발이 광일토건환경(주), 리뉴콘대원(주)과 공동으로 인증받은 환경신기술 제643호(위치 조정이 가능한 편심 질량추 플라이휠 및 진동선별",
+    "published_at": "2026-08-26T11:18:05+09:00",
+    "cluster_id": "cae1",
+    "publisher": "cctoday.co.kr",
+    "title_clean": "폐콘크리트 재활용부터 겨울철 시공까지…한솔그룹, 기술력 강화",
+    "summary": "한솔그룹이 환경신기술 인증 1건과 등록특허 4건을 확보하며 친환경·동절기 건설기술 경쟁력을 강화했다. 폐콘크리트 재활용 및 겨울철 시공 관련 핵심기술 개발로 건설소재 분야 기술력을 대폭 향상시켰다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-26T13:04:59+09:00",
     "importance": 2
   },
   {
@@ -32154,21 +32170,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-20T13:24:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, 건설현장 사고위험 실시간 관리 - naeil.com",
-    "link": "https://www.naeil.com/news/read/599452?ref=naver",
-    "description": "한국토지주택공사(LH)는 건설현장 안전사고 예방을 위해 전국 건설현장의 위험요소를 실시간으로 확인·분석하는 ‘실시간 종합건설정보시스템’(RICS)을 본격 운영한다고 20일 밝혔다. 실시간 종합건설정보시스템은...",
-    "published_at": "2026-08-20T13:08:00+09:00",
-    "cluster_id": "1446",
-    "publisher": "naeil.com",
-    "title_clean": "LH, 건설현장 사고위험 실시간 관리",
-    "summary": "LH가 건설현장의 위험요소를 실시간으로 관리하는 '실시간 종합건설정보시스템(RICS)'을 본격 운영한다고 발표했다. 이는 건설현장 안전사고 예방을 위한 시스템으로, 건설업계의 안전관리 강화를 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-20T13:14:05+09:00",
-    "importance": 4
   }
 ]
