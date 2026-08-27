@@ -21121,6 +21121,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "신속대응팀 네팔 도착...곧 사고 현장으로 이동 - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0104_202608280517132745",
+    "description": "정부는 발전소 건설 노동자 9명 외에 추가 실종 신고는 없다고 밝혔지만, 네팔이 여행지로 인기가 높은 만큼 혹시나 추가 실종자가 나오지 않을지 촉각을 곤두세우고 있습니다. [박두순 / 외교부 대변인 : 통상 연 한 2만 명...",
+    "published_at": "2026-08-28T05:17:00+09:00",
+    "cluster_id": "7a27",
+    "publisher": "ytn.co.kr",
+    "title_clean": "신속대응팀 네팔 도착...곧 사고 현장으로 이동",
+    "summary": "네팔 발전소 건설 현장에서 노동자 9명이 실종되어 정부 신속대응팀이 현장으로 이동 중입니다. 현재 추가 실종자는 없으나 관광객 다수 방문 지역이어서 추가 피해 발생 가능성을 우려하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-28T05:24:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32153,21 +32169,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-24T06:47:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "민간 건설현장도 발주자가 임금 직접 지급 - labortoday.co.kr",
-    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236383",
-    "description": "23일 대한민국 건설 똑바로 범국민대책위원회에 따르면 염태영 더불어민주당 의원이 발의한 건설산업기본법 개정안이 지난 20일 국회를 통과했다. 개정안은 일정 규모 이상의 민간 건설공사 발주자에게 임금을 직접...",
-    "published_at": "2026-08-24T06:32:00+09:00",
-    "cluster_id": "69bd",
-    "publisher": "labortoday.co.kr",
-    "title_clean": "민간 건설현장도 발주자가 임금 직접 지급",
-    "summary": "염태영 의원이 발의한 건설산업기본법 개정안이 국회를 통과했으며, 일정 규모 이상의 민간 건설공사에서 발주자가 근로자 임금을 직접 지급하도록 의무화하는 내용을 담고 있다. 이는 건설현장의 임금 체불 문제 해결을 목표로 하는 규제 강화 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-24T06:38:02+09:00",
-    "importance": 5
   }
 ]
