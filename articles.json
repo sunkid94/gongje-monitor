@@ -21137,6 +21137,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "10대 건설사 상반기 제재 89건···‘안전 관련 제재’ 44% 최다 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326103",
+    "description": "시공능력평가 상위 10대 건설사들이 반기보고서에 공시한 제재를 분석한 결과, 안전 관련 제재가 10건 중 4건꼴로 가장 많은 것으로 나타났다. 품질·시공 관련까지 더하면 전체의 60%를 훌쩍 넘어 건설현장의 안전과 시공관리가 주요 제재 요인으로 확인됐다.10대 건설사의 2026년 반기보고서에 공시된 ‘제재 등과 관련된 사항’을 전수 분석한 결과, 공시된 제재는 총 89건으로 집계됐다. 회사별로는 GS건설이 23건으로 가장 많았고 현대엔지니어링 16건, 현대건설 10건, 삼성물산 9건, IPARK현대산업개발 8건 순이었다.총 89건을",
+    "published_at": "2026-08-28T07:00:00+09:00",
+    "cluster_id": "1a86",
+    "publisher": "대한전문건설신문",
+    "title_clean": "10대 건설사 상반기 제재 89건···‘안전 관련 제재’ 44% 최다",
+    "summary": "10대 건설사의 상반기 제재 89건을 분석한 결과, 안전 관련 제재가 44%로 가장 많았으며 품질·시공 관련까지 포함하면 60%를 초과했다. GS건설이 23건으로 가장 많은 제재를 받았으며, 건설현장의 안전과 시공관리가 주요 제재 요인으로 드러났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-28T07:04:05+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32151,22 +32167,6 @@
     "publisher": "ilyoseoul.co.kr",
     "title_clean": "[일요서울 4기 독자 위원회 1686호 모니터링] \"국내 증시 폭락, 단순한 ...",
     "summary": "일용직 건설노동자, 택배·배달 노동자, 농민 등 저소득 취약층이 규정의 사각지대에 놓여 있으며, 폭염 등 환경 변화에도 일을 멈출 수 없는 현실을 지적하는 기사입니다. 저소득 가구의 냉방기기 활용 문제 등을 다루고 있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-24T08:58:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이강석 대우건설 신임 대표, ‘안전 최우선’ 강조 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xZWRLUzNxR0d5X0wzcE5YT3pQN1ZqMVhTOUtMVTN2c2RiT0p3X1NZaDFCanFpbWloVHFEeGtFSEV5Y0VWNkJ5alZ0UmRVa0IybGJ6RlFLT0RscGJJc3N2R2pWQmRWQzFkMU1fYg?oc=5",
-    "description": "대우건설은 24일 최근 이강석 신임 대표가 국내 아파트 건설 현장을 찾아 안전관리 실태를 직접 점검하며 ‘안전 최우선 경영’ 의지를 강조했다고 밝혔다.이강석 대표",
-    "published_at": "2026-08-24T08:45:28+09:00",
-    "cluster_id": "dd0d",
-    "publisher": "기계설비신문",
-    "title_clean": "이강석 대우건설 신임 대표, ‘안전 최우선’ 강조",
-    "summary": "대우건설의 이강석 신임 대표가 아파트 건설 현장을 직접 방문하여 안전관리 실태를 점검했다. 신임 대표가 '안전 최우선 경영' 의지를 강조하며 업체의 안전 관리 체계 강화 의지를 드러냈다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-24T08:58:02+09:00",
     "importance": 2
