@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비건설협회, ‘기업승계 지원제도 설명회’ 개최 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJSWtkYndhNWduY2VTN3hLTmFmSVJpRklHMWdUalBhUENDZ2hvSXBkSjRKRzdsTkhsSy1WLWN2R2Q5bEdyamVwQ2FJT2NLek1pM282d1RqV1B1ZUdmdmxxZkhHcGJRWnd5cm13NQ?oc=5",
+    "description": "대한기계설비건설협회(회장 허용주·사진)는 회원사의 원활한 기업 승계를 지원하기 위해 ‘기업승계 지원제도 설명회’를 개최한다고 내달 30일 개최한다고 밝혔다. 이번",
+    "published_at": "2026-08-28T07:00:00+09:00",
+    "cluster_id": "01c5",
+    "publisher": "기계설비신문",
+    "title_clean": "기계설비건설협회, ‘기업승계 지원제도 설명회’ 개최",
+    "summary": "대한기계설비건설협회가 회원사의 기업 승계를 지원하기 위해 내달 30일 '기업승계 지원제도 설명회'를 개최한다. 협회는 승계 과정에서의 세제 혜택과 절차를 안내할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-28T07:10:12+09:00",
+    "event_label": "대한기계설비건설협회 기업승계 지원제도 설명회 개최",
+    "importance": 5
+  },
+  {
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5159,6 +5176,38 @@
     "collected_at": "2026-07-29T07:36:06+09:00",
     "event_label": "대한기계설비건설협회 서울과학기술대학교에 2천만원 지원",
     "importance": 5
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "트럼프 \"네팔에 필요한 모든 도움 제공\"…구호물자 발송 - ebn.co.kr",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1722022",
+    "description": "이 지역에서는 한국남동발전과 두산에너빌리티가 어퍼트리슐리-1(UT-1) 수력발전소를 짓던 현장에서 한국인 9명의 연락이 끊긴 상태다. 한국 정부도 외교부와 경찰청, 소방청으로 구성된 합동 신속대응팀을 현지에...",
+    "published_at": "2026-08-28T07:02:00+09:00",
+    "cluster_id": "fb51",
+    "publisher": "ebn.co.kr",
+    "title_clean": "트럼프 \"네팔에 필요한 모든 도움 제공\"…구호물자 발송",
+    "summary": "네팔 수력발전소 건설 현장에서 한국인 9명의 연락이 끊겨 한국 정부가 합동 신속대응팀을 파견했다. 트럼프 미국 대통령이 네팔에 구호물자 발송을 표명했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-28T07:10:12+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "네팔 대홍수 사망자 389명으로 늘어…정부 합동대응팀 현지 도착[오늘아... - nocutnews.co.kr",
+    "link": "https://www.nocutnews.co.kr/news/6569484?utm_source=naver&utm_medium=article&utm_campaign=20260828070025",
+    "description": "출근길 뉴스 브리핑, 오늘아침정부 합동 신속대응팀 이어 두산에너빌리티·한국남동발전 현장 대응팀도 곧 현지 도착 이재명 대통령, \"실종자 가족 지원 전담관 지정\"…여당 의원과의 오찬 일정 연기 한국은행, 두 달 연속...",
+    "published_at": "2026-08-28T07:01:00+09:00",
+    "cluster_id": "d648",
+    "publisher": "nocutnews.co.kr",
+    "title_clean": "네팔 대홍수 사망자 389명으로 늘어…정부 합동대응팀 현지 도착[오늘아...",
+    "summary": "네팔에서 대홍수로 사망자 389명이 발생하면서 한국 정부가 합동 신속대응팀을 현지에 파견했다. 두산에너빌리티, 한국남동발전 등 에너지 기업 현장 대응팀도 곧 도착할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-28T07:10:12+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21105,38 +21154,6 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "직스테크놀로지, 서울특별시건축사회와 설계AX 협력 - zdnet.co.kr",
-    "link": "https://zdnet.co.kr/view/?no=20260826095136",
-    "description": "삼성물산, 대우건설, DL이앤씨 등 건설사를 비롯해 한화오션, 포스코모빌리티솔루션, SK, 한국항공우주연구원, 국방과학연구소, 서울주택도시개발공사(SH) 등 주요 기업과 공공·연구기관에서 도입했다. 이와 함께 AI...",
-    "published_at": "2026-08-26T09:52:00+09:00",
-    "cluster_id": "2aba",
-    "publisher": "zdnet.co.kr",
-    "title_clean": "직스테크놀로지, 서울특별시건축사회와 설계AX 협력",
-    "summary": "직스테크놀로지가 서울특별시건축사회와 설계AX 협력을 통해 AI 기술을 건설 설계 분야에 적용하고 있다. 삼성물산, 대우건설 등 주요 건설사 및 공공기관에서 이미 도입하여 건설업계의 디지털 혁신을 촉진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-26T09:59:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'시티오씨엘 9단지 오션파크뷰' 분양 돌입…27일 견본주택 개관 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418501",
-    "description": "디씨알이가 시행하고 IPARK현대산업개발·현대건설·포스코이앤씨가 시공하는 '시티오씨엘 9단지 오션파크뷰'가 27일 견본주택을 열고 분양에 들어간다. 단지는 인천 미추홀구 용현·학익 1블록 도시개발사업 공동...",
-    "published_at": "2026-08-26T09:52:00+09:00",
-    "cluster_id": "7e0c",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "'시티오씨엘 9단지 오션파크뷰' 분양 돌입…27일 견본주택 개관",
-    "summary": "디씨알이 시행, 현대산업개발·현대건설·포스코이앤씨 시공의 '시티오씨엘 9단지 오션파크뷰'가 27일 견본주택 개관으로 분양에 돌입한다. 인천 미추홀구 용현·학익 1블록 도시개발사업으로 건설 물량 창출 기대.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-26T09:59:07+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32153,22 +32170,6 @@
     "summary": "대우건설 이강석 신임 대표가 양주역 푸르지오 센터파크 현장을 방문하여 안전관리 실태를 점검하고 '안전 최우선 경영'을 강조했다. 신임 대표는 '안전에는 과하다는 기준이 없다'며 현장 안전관리와 임직원 소통에 중점을 두겠다는 의지를 표현했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-24T09:03:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[일요서울 4기 독자 위원회 1686호 모니터링] \"국내 증시 폭락, 단순한 ... - ilyoseoul.co.kr",
-    "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521532",
-    "description": "일용직 건설노동자는 일을 멈출 수 없고, 택배와 배달 노동자는 이동을 멈출 수 없습니다. 농민 역시 수확 시기를 내 맘대로 바꾸기 어렵죠. 규정의 사각지대에 놓인 사람들입니다. 저소득 가구의 냉방기기 활용은 또...",
-    "published_at": "2026-08-24T08:54:00+09:00",
-    "cluster_id": "fc71",
-    "publisher": "ilyoseoul.co.kr",
-    "title_clean": "[일요서울 4기 독자 위원회 1686호 모니터링] \"국내 증시 폭락, 단순한 ...",
-    "summary": "일용직 건설노동자, 택배·배달 노동자, 농민 등 저소득 취약층이 규정의 사각지대에 놓여 있으며, 폭염 등 환경 변화에도 일을 멈출 수 없는 현실을 지적하는 기사입니다. 저소득 가구의 냉방기기 활용 문제 등을 다루고 있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-24T08:58:02+09:00",
     "importance": 2
   }
 ]
