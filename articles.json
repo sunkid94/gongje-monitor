@@ -21358,6 +21358,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "한-베트남 건설·인프라 협력 확대…북남고속철도 참여 '청신호' - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37178",
+    "description": "한국과 베트남이 북남고속철도 건설 사업을 비롯해 스마트시티, 지능형교통체계(ITS) 등 대형 인프라 분야에서의 협력을 대폭 강화한다. 국내 건설 및 엔지니어링 업계의 해외 시장 진출을 뒷받침하기 위한 정부 차원의 건설 외교가 본격적인 성과로 이어질지 주목된다. 국토교통부는 김윤덕 장관이 26일 오후 서울 국토발전전시관에서 쩐 홍민(Tran Hong Minh) 베트남 건설부 장관과 면담을 가졌다고 밝혔다. 양측은 베트남의 핵심 국책 사업인 북남고속철도 건설 사업의 타당성조사에 한국 기업이 참여할 수 있도록 지원하는 방안을 비롯해 스마",
+    "published_at": "2026-08-27T10:52:18+09:00",
+    "cluster_id": "91e6",
+    "publisher": "한국건설신문",
+    "title_clean": "한-베트남 건설·인프라 협력 확대…북남고속철도 참여 '청신호'",
+    "summary": "한국과 베트남이 북남고속철도, 스마트시티, 지능형교통체계 등 대형 인프라 사업에서 협력을 확대하기로 합의했다. 한국 건설·엔지니어링 기업들이 베트남의 핵심 국책 사업인 북남고속철도 건설의 타당성조사에 참여할 수 있는 길이 열렸다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-27T10:54:09+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "한화 건설부문, AI 활용 건물에너지 효율화 국책과제 참여 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37173",
+    "description": "한화 건설부문이 기후에너지환경부가 추진하는 「BIM 활용 디지털트윈 기반 건물에너지 관리 시뮬레이터 개발 및 실증」국책과제에 참여하며 AI를 활용한 건물에너지 관리 기술 고도화에 나선다.이번 과제는 ㈜한화 건설부문을 비롯해 E8, 서울대학교, 한국건설기술연구원 등 11개의 산학연 기관이 참여하며, 총 연구개발비는 약 153억원 규모다.이번 과제에서는 건물 정보를 3D로 구현한 모델(BIM: Building Information Modeling)에 실제 건물 운영 데이터를 연계하는 ‘디지털트윈 기술’을 적용한다. 실제 건물을 구현한",
+    "published_at": "2026-08-26T17:50:00+09:00",
+    "cluster_id": "9cd7",
+    "publisher": "한국건설신문",
+    "title_clean": "한화 건설부문, AI 활용 건물에너지 효율화 국책과제 참여",
+    "summary": "한화 건설부문이 기후에너지환경부의 국책과제에 참여하여 BIM과 디지털트윈 기술을 활용한 AI 기반 건물에너지 관리 시뮬레이터를 개발한다. 11개 산학연 기관이 함께 153억원 규모로 진행되는 프로젝트로, 건설업계의 기술 혁신과 에너지 효율화 시장 진출 기회를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-27T10:54:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32133,37 +32165,6 @@
     "summary": "고양시의회 김학영 건설교통위원장이 대규모 경제자유구역 지정 사업을 '콤팩트 경자구역'으로 전환하도록 주도했다. 기존 '만주벌판식' 광역 개발 계획에서 규모를 축소한 형태로 정책 방향이 변경되었다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-21T14:48:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "산업안전상생재단, 건설 안전교육 자격제 도입…평가 후 자격 부여 - 헬로티",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTTcwYjBaTkl4UkRzRVQ1ZWkyM3U1S01XMWlsOVppTVZPaVlYc2d5dVQ1bXV0c29QQy1kaGVXN2ZrUHdscmlIejM1ZEJSN1lFamo1LXlaUXJwOVdDaG9r?oc=5",
-    "description": "산업안전상생재단이 건설업 안전보건교육을 단순 이수 확인 방식에서 교육과 평가를 거쳐 자격을 부여하는 체계로 전환하는 ‘건설안전교육 자격제’ 도입을 제안했다. 산업안전상생재단은 서울과학기술대학교 안전공학과 정재욱 교수 연구팀과 함께 수행한 ‘건설업 안전보건교육제도 개편 연구용역’ 결과를 발표하고, 현행 건설업 기초안전보건교육을 평가·자격 중심으로 전환하는 ‘",
-    "published_at": "2026-08-21T14:30:48+09:00",
-    "cluster_id": "c2d9",
-    "publisher": "헬로티",
-    "title_clean": "산업안전상생재단, 건설 안전교육 자격제 도입…평가 후 자격 부여",
-    "summary": "산업안전상생재단이 건설업 안전교육을 단순 이수 확인에서 평가·자격 중심으로 전환하는 '건설안전교육 자격제'를 도입할 것을 제안했다. 이는 건설업 기초안전보건교육의 질을 높이기 위한 제도 개편으로, 교육 수료자들이 평가를 통해 자격을 부여받게 된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-21T14:38:44+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GH, 폭염 속 건설근로자 챙긴다…6개 현장서 '감성안전캠페인' - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yQk5EeXpiVVJjcjJJMFJCWmFmNkJTMHhiUnlsODFCQmJfcGlqdl9VM0Q2bUNvMTJ0ZkZaTy1veVFGZFJGVXlrM3g2b01jV2R6M2dIbVVrNnNzT0FRUXpzb0JTZjdmb0FrZWd2UFg4WElZSWNUMXF2eA?oc=5",
-    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 경기주택도시공사(GH)가 여름철 폭염에 노출된 건설현장 근로자 2500여 명을 대상으로 간식과 추가 휴식시간을 제공하는 등 온열질환 예방 활동을 펼쳤다. GH는 지난 6월부터 8월까지 도내 6개 건설현장에서 진행한 여름철 ‘감성안전캠페인’을 마무리했다",
-    "cluster_id": "bf00",
-    "publisher": "네이트",
-    "title_clean": "GH, 폭염 속 건설근로자 챙긴다…6개 현장서 '감성안전캠페인'",
-    "summary": "경기주택도시공사(GH)가 6월부터 8월까지 도내 6개 건설현장에서 폭염 대비 '감성안전캠페인'을 진행하며 근로자 2500여 명을 대상으로 간식 제공 및 추가 휴식시간을 제공했다. 건설현장의 온열질환 예방을 위한 산업안전 강화 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-21T14:38:44+09:00",
     "importance": 2
   }
 ]
