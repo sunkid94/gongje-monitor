@@ -21138,6 +21138,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "임무송 대한산업안전협회장, 건설폐기물 처리업체 찾아 ‘현장 소통’ - 안전저널",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMXI5Z29hMEpxdWgwQXIzNXNINEZIQnJJc3RjNEJ3aW0zWkgyQmQ4V3A5TTR2a3BUMUN6Q2JnMDB1bWVNLXhBMWpjTUhqS1RDV0F1OTZVQlRham11OWk3T3VFLVVUSXM?oc=5",
+    "description": "임무송 대한산업안전협회 회장이 산업현장을 직접 찾아 안전관리의 어려움을 듣고, 현장 중심의 안전보건 활동을 강조했다.임 회장은 27일 경기 화성시에 위치한 삼흥산",
+    "published_at": "2026-08-27T18:18:11+09:00",
+    "cluster_id": "f311",
+    "publisher": "안전저널",
+    "title_clean": "임무송 대한산업안전협회장, 건설폐기물 처리업체 찾아 ‘현장 소통’",
+    "summary": "임무송 대한산업안전협회장이 경기 화성의 건설폐기물 처리업체를 방문하여 현장 안전관리의 어려움을 청취하고 현장 중심의 안전보건 활동을 강조했다. 협회장의 직접 방문을 통해 산업현장의 안전관리 개선 의지를 드러냈다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-28T00:30:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32155,21 +32171,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-24T06:38:02+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "용산공원을 아파트 부지로? 이재명 대통령은 틀렸다 - labortoday.co.kr",
-    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236376",
-    "description": "이명박 정권 시절 전국 4대강에 댐을 짓는 사업으로 건설경기를 활성화시키려 했다. 노무현 정권 시절에는 전국에 골프장을 지어 건설경기를 활성화시키려 했다. 말이 좋아 건설경기 활성화지, 사실은 전국의 강과 산을...",
-    "published_at": "2026-08-24T06:32:00+09:00",
-    "cluster_id": "6f2f",
-    "publisher": "labortoday.co.kr",
-    "title_clean": "용산공원을 아파트 부지로? 이재명 대통령은 틀렸다",
-    "summary": "용산공원을 아파트 부지로 개발하려는 정책을 비판하는 기사로, 과거 이명박·노무현 정권의 건설경기 활성화 사업들을 언급하며 유사한 정책의 문제점을 지적하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-24T06:38:02+09:00",
-    "importance": 4
   }
 ]
