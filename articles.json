@@ -21137,6 +21137,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[2026년 정기국회 무엇을 준비하나]북울산역세권 제2혁신도시 추진 방점 - ksilbo.co.kr",
+    "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065690",
+    "description": "건설 현장의 임금 및 대금 체불을 막기 위해 전자적 대금지급시스템을 민간으로 확대하는 개정 '건설산업기본법'의 현장 안착도 챙긴다. 택배 과로와 수수료 체불 방지, 철도·도시철도의 공공성 강화도 주요 입법 과제로...",
+    "published_at": "2026-08-28T00:02:00+09:00",
+    "cluster_id": "7a04",
+    "publisher": "ksilbo.co.kr",
+    "title_clean": "[2026년 정기국회 무엇을 준비하나]북울산역세권 제2혁신도시 추진 방점",
+    "summary": "2026년 정기국회에서 북울산역세권 제2혁신도시 추진과 건설산업기본법 개정을 통한 전자대금지급시스템 확대를 추진할 예정이다. 건설 현장의 임금·대금 체불 방지 및 공공성 강화가 주요 입법 과제로 추진된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-28T00:10:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32154,21 +32170,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-24T06:38:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "K-노동복지회의소 '건설근로자공제회+α'가 관건 - labortoday.co.kr",
-    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236381",
-    "description": "건설노동자 퇴직공제사업을 하는 건설근로자공제회를 기본 모델로 기능·사업이 마련될 것으로 보인다. 정부의 예산 확보와 재계의 역할 등 재원 조성이 정책·사업 안착의 관건이 될 전망이다. 노동복지회의소가 관...",
-    "published_at": "2026-08-24T06:32:00+09:00",
-    "cluster_id": "e376",
-    "publisher": "labortoday.co.kr",
-    "title_clean": "K-노동복지회의소 '건설근로자공제회+α'가 관건",
-    "summary": "K-노동복지회의소 설립 시 건설근로자공제회를 기본 모델로 기능과 사업이 구성될 예정이다. 정부 예산 확보와 재계의 역할 등 재원 조성이 정책 안착의 핵심 과제로 지목되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-24T06:38:02+09:00",
-    "importance": 3
   }
 ]
