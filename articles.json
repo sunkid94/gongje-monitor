@@ -1,5 +1,21 @@
 [
   {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "엔지니어링공제 13대 이사장에 이재완 회장 연임 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYk10bHZESE5KNzhFWU51LUh6N3JIWGFzajh1cHk0QV9DcmFzZHJYa09STmpkOXE5RWFJRTd0bjdidjVkWVp3NHBOWGpuRmNPdjNVektab3dDUHNYSGxhbDI0VFY2c3NJS3QyZFVtVDJyY1JCbjZLRF82S1MwcW5uY0RhUnZlMUlxT3R3ZnlnYTRZT1JtRUhHNmFqbzZSMEV2N1RTZkNwZmtHcHFqMzZwZUpMS1h6cnRub21LaWQyT3VFbkpOaFh6clNR?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPYk10bHZESE5KNzhFWU51LUh6N3JIWGFzajh1cHk0QV9DcmFzZHJYa09STmpkOXE5RWFJRTd0bjdidjVkWVp3NHBOWGpuRmNPdjNVektab3dDUHNYSGxhbDI0VFY2c3NJS3QyZFVtVDJyY1JCbjZLRF82S1MwcW5uY0RhUnZlMUlxT3R3ZnlnYTRZT1JtRUhHNmFqbzZSMEV2N1RTZkNwZmtHcHFqMzZwZUpMS1h6cnRub21LaWQyT3VFbkpOaFh6clNR?oc=5\" target=\"_blank\">엔지니어링공제 13대 이사장에 이재완 회장 연임</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일건설신문</font>",
+    "cluster_id": "88a6",
+    "publisher": "매일건설신문",
+    "title_clean": "엔지니어링공제 13대 이사장에 이재완 회장 연임",
+    "summary": "엔지니어링공제조합이 이재완 회장을 13대 이사장으로 연임 선출했다. 이는 기존 경영진의 연속성을 유지하는 인사 결정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-28T06:34:55+09:00",
+    "event_label": "엔지니어링공제조합 이재완 이사장 연임",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5143,6 +5159,22 @@
     "collected_at": "2026-07-29T07:36:06+09:00",
     "event_label": "대한기계설비건설협회 서울과학기술대학교에 2천만원 지원",
     "importance": 5
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "기업 대응팀, 네팔 도착…“사무동 근무자들 연락 끊겨” - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8648443&ref=A",
+    "description": "[리포트] 연락이 끊긴 우리 근로자 9명 가운데 6명은 두산에너빌리티, 나머지 3명은 한국남동발전 소속입니다. 회사는 다르지만 이들은 발전소 건설 현장에서 함께 일했습니다. 건물 배치를 보면 트리슐리강을 사이에...",
+    "published_at": "2026-08-28T06:15:00+09:00",
+    "cluster_id": "4d51",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "기업 대응팀, 네팔 도착…“사무동 근무자들 연락 끊겨”",
+    "summary": "네팔 발전소 건설 현장에서 두산에너빌리티 6명, 한국남동발전 3명 등 한국인 근로자 9명과의 연락이 끊긴 상황이 발생했습니다. 기업 대응팀이 현지에 도착하여 상황 파악 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-28T06:34:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -21105,22 +21137,6 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "코스피, 하락출발 후 상승 전환… 美 금리·유가 하락 훈풍 - mt.co.kr",
-    "link": "https://www.mt.co.kr/stock/2026/08/26/2026082608524044700",
-    "description": "전날 북미 신규 원전 수주 기대감에 급등했던 두산에너빌리티는 이날 1%대 오르며 상승세를 이어가고 있다. 반면 SK스퀘어와 현대차, 삼성바이오로직스, KB금융은 약보합세다. 삼성전기와 LG에너지솔루션은 1%대...",
-    "published_at": "2026-08-26T09:36:00+09:00",
-    "cluster_id": "37c5",
-    "publisher": "mt.co.kr",
-    "title_clean": "코스피, 하락출발 후 상승 전환… 美 금리·유가 하락 훈풍",
-    "summary": "코스피가 미국 금리와 유가 하락에 힘입어 상승으로 전환했으며, 두산에너빌리티는 북미 신규 원전 수주 기대감으로 상승세를 이어가고 있다. 다만 SK스퀘어, 현대차 등 주요 종목들은 약보합세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-26T09:49:19+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32151,22 +32167,6 @@
     "publisher": "pointe.co.kr",
     "title_clean": "[포인트PICK] '탈주택' 아닌 선택과 집중…한화건설이 바라보는 다음 성...",
     "summary": "건설경기 불확실성 속에서 한화건설이 주택·정비사업 중심의 선택과 집중 전략으로 수주 포트폴리오를 재편하고 있다. 데이터센터, 환경 인프라 등 수익성 높은 비주택 분야 확대를 추진하며 경기 변동성에 대응하는 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-24T08:37:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[정책인터뷰] 국토교통부 장구중 종합교통정책관에게 듣는다 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85aEVKcEdwZWZTZGMtdE8wQnlseHNHeEVCcWpNZ0JmdzRIdWlSeE9mUjdIVzByTFdib0hlLW5JeFJNaERmekw3MXRyOGpma1pWREZ1STVHUHAxMUVWYjkxV1dCVQ?oc=5",
-    "description": "“안전 중심 지속가능 교통환경 조성 만전국민 체감형 이동서비스 혁신 속도”[국토일보 김광년 기자] “무엇보다도 국민 생활 편익증진을 위한 버스, 택시 등 대중교통 서비스 향상에 정책 역량을 집중하고 있습니다.”보다 안전하고 편리한 대중 교통망 구축 및 운영이 곧 국민의 삶의 질을 높이는 지름길이라고 강조하는 국토교통부 종합교통정책관 장구중 국장.그는 모든 국민이 체감할 수 있는 피부에 와 닿는 교통정책이 중요하다며 교통약자에 대한 배려와 소통 그리고 폭 넓은 관심을 집중하고 있다고 밝힌다.다음은 국토부 종합교통정책관실 업무 현황 및",
-    "published_at": "2026-08-24T08:30:00+09:00",
-    "cluster_id": "ec4a",
-    "publisher": "국토일보",
-    "title_clean": "[정책인터뷰] 국토교통부 장구중 종합교통정책관에게 듣는다",
-    "summary": "국토교통부 종합교통정책관이 안전 중심의 지속가능한 교통환경 조성과 대중교통 서비스 향상에 정책 역량을 집중하고 있다고 밝혔다. 교통약자 배려와 국민 체감형 이동서비스 혁신을 추진 중이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-24T08:37:47+09:00",
     "importance": 2
