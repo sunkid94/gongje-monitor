@@ -21199,6 +21199,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설근로자공제회, 용인소방서와 건설노동자 자녀 대상 소방안전체험 진... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608281131032730708",
+    "description": "건설근로자공제회 경기지사(지사장 김정환)는 지난 28일 용인소방서 시민안전체험관에서 용인소방서와 함께 건설노동자 자녀를 위한 소방안전체험을 진행했다고 29일 밝혔다. 이날 행사에는 건설노동자와 그 자녀들이...",
+    "published_at": "2026-08-29T06:20:00+09:00",
+    "cluster_id": "dfe9",
+    "publisher": "대한경제",
+    "title_clean": "건설근로자공제회, 용인소방서와 건설노동자 자녀 대상 소방안전체험 진...",
+    "summary": "건설근로자공제회 경기지사가 용인소방서와 함께 건설노동자 자녀를 대상으로 소방안전체험 행사를 개최했다. 건설업계 종사자 가족의 안전교육 및 사회공헌 활동을 추진하는 내용이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-29T06:24:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32184,21 +32200,6 @@
     "summary": "2026년 2분기 대구·경북 지역 경제에서 제조업 생산과 수출은 성장했으나, 건설 수주가 급감하며 부정적 신호를 보였다. 건설업계의 수주 감소는 향후 공사량 감소로 이어질 가능성이 높아 업계 전망이 악화되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-25T00:39:40+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "공공 모듈러 발주 커지는데…공장 없는 중소업체엔 ‘먼 시장’ - 미디어펜",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkR1h4SnFfTGdOd2hncU4tYXA3cGZ3aWgxWVBGNXVvMFpGVGdORTJyT29Ra3JQRmszdFdjcXl2MGhsYTk3NmxyX09YYnFmR3lnQm5zN9IBWEFVX3lxTE1yVWpOXzB1cUdHcnBuRFVqVEhlSEZ1MUt3RF81dEU3LVpWbkIzdWlmM3FxRnRYVHY1TjlmT1pPUGxud2Rwc2pSSkNvN3duSE1tZnp2MUR4SmE?oc=5",
-    "description": "[미디어펜=조태민 기자]정부가 공공 모듈러 주택 발주를 2만 가구로 늘리고 국회에서도 지역업체 참여를 의무화하는 법안이 발의됐지만, 생산공장이 없는 중소건설업체가 모듈 제작 일감을",
-    "cluster_id": "8cde",
-    "publisher": "미디어펜",
-    "title_clean": "공공 모듈러 발주 커지는데…공장 없는 중소업체엔 ‘먼 시장’",
-    "summary": "정부가 공공 모듈러 주택 발주를 2만 가구로 확대하고 지역업체 참여를 의무화하는 법안이 발의되었으나, 생산공장이 없는 중소건설업체는 모듈 제작 일감 수주에 어려움을 겪고 있다. 시장 확대에도 불구하고 중소업체의 실질적 참여 장벽이 존재하는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-24T22:59:44+09:00",
     "importance": 4
   }
 ]
