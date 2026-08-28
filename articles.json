@@ -21233,6 +21233,22 @@
     "importance": 5
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "주택공급 속도전...'PF 금융애로 해소센터' 가동 - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmN0ZNR003cGxITnI5LXJtVkRWOEJ1aGhXMXFtdWF6M1RGWFdvZ1hhNTRxdmdUa0Jzc0hlNFd0OUlyMmNRRHp2QU5USHp3cWFXcnIzYmoyeTd4QQ?oc=5",
+    "description": "금융감독원의 부동산 프로젝트파이낸싱 총괄지원센터가 'PF 금융애로 해소센터'로 확대된다.권대영 금융위 부위원장은 \"금융권은 주택 공급을 위한 확실한 자금 공급을, 정부와 유관기관은 후속 조치의 신속한 이행을 해야 할 것\"이라며 \"건설업계는 앞으로도 현장 애로..",
+    "published_at": "2026-08-28T14:59:25+09:00",
+    "cluster_id": "9c3a",
+    "publisher": "파이낸셜뉴스",
+    "title_clean": "주택공급 속도전...'PF 금융애로 해소센터' 가동",
+    "summary": "금융감독원이 부동산 PF 지원센터를 'PF 금융애로 해소센터'로 확대하여 건설업체들의 자금 조달 어려움을 지원한다. 금융권의 적극적 자금 공급과 정부의 신속한 후속 조치를 통해 주택공급 속도를 높이려는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-28T21:10:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32184,22 +32200,6 @@
     "summary": "기후변화로 인한 폭염과 폭우 등 극한 날씨가 심화되고 있으며, 건설 노동자와 취약계층이 이러한 자연재해의 피해를 더욱 크게 입고 있다. 안전 기준과 대책의 개선 필요성을 제기하는 칼럼이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-24T19:34:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구 중견 태왕이앤씨, 법정관리 신청…건설경기 침체 직격탄 - idaegu.com",
-    "link": "https://www.idaegu.com/news/articleView.html?idxno=665208",
-    "description": "미분양 누적 등으로 이어진 지역 건설경기 부진이 배경으로 꼽힌다. 자금난의 직접적 원인은 태왕이앤씨가 주주 겸 시공사로 참여한 특수목적법인(SPC)의 사천IC복합산업단지 사업으로 지목된다. 해당 사업의 분양이...",
-    "published_at": "2026-08-24T19:20:00+09:00",
-    "cluster_id": "e8f6",
-    "publisher": "idaegu.com",
-    "title_clean": "대구 중견 태왕이앤씨, 법정관리 신청…건설경기 침체 직격탄",
-    "summary": "대구 중견 건설사 태왕이앤씨가 미분양 누적과 사천IC복합산업단지 사업의 분양 부진으로 인한 자금난으로 법정관리를 신청했다. 이는 지역 건설경기 침체가 심각함을 보여주는 사례다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-24T19:24:51+09:00",
     "importance": 4
   }
 ]
