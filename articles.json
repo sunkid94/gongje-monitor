@@ -5267,6 +5267,22 @@
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
+    "title": "[경제읽기] 두산·남동발전, 현지 캠프 마련…수색·구조 총력 - yonhapnewstv.co.kr",
+    "link": "http://www.yonhapnewstv.co.kr/news/MYH20260828130511l7A",
+    "description": "라수와 지역 수력발전소 건설 현장에 빙하로 인한 돌발홍수가 덮치면서 우리 근로자 9명이 실종되자 두산에너빌리티, 한국남동발전 등 현장대응팀이 급파됐습니다. 하지만 여전히 생사 확인이 안 돼 가족들은 더 애가...",
+    "published_at": "2026-08-28T13:06:00+09:00",
+    "cluster_id": "6b5b",
+    "publisher": "yonhapnewstv.co.kr",
+    "title_clean": "[경제읽기] 두산·남동발전, 현지 캠프 마련…수색·구조 총력",
+    "summary": "네팔 라수와 지역 수력발전소 건설 현장에서 빙하 돌발홍수로 인해 한국 근로자 9명이 실종되는 사고가 발생했습니다. 두산에너빌리티와 한국남동발전이 수색·구조 활동을 전개 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-28T13:15:21+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "네팔 수력발전 8900억 규모…연말 완공 앞두고 봉변 - newspim.com",
     "link": "https://www.newspim.com/news/view/20260828000526",
     "description": "한국남동발전과 두산에너빌리티 소속 한국인 9명을 포함한 403명이 실종 상태다. 2026.08.27 khwphoto@newspim.com 네팔 카트만두에 소재한 현지 법인 인력을 사고 현장에 급파하고, 본사 및 현지법인, 외교부, 주네팔...",
@@ -21225,20 +21241,20 @@
     "importance": 5
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "네팔 홍수로 9명 사망·384명 실종…한국인 8명 연락두절 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026082620374759384",
-    "description": "외교부에 따르면 현지 수력발전소 건설 현장에서 근무하던 한국남동발전과 두산에너빌리티 소속 한국인 직원 8명이 현재까지 연락 두절 상태다. 두산에너빌리티 소속 또 다른 한국인 직원 10명은 현지에 고립돼 구조를...",
-    "published_at": "2026-08-26T20:37:00+09:00",
-    "cluster_id": "6e8a",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "네팔 홍수로 9명 사망·384명 실종…한국인 8명 연락두절",
-    "summary": "네팔 수력발전소 건설 현장에서 홍수로 인해 한국남동발전과 두산에너빌리티 소속 한국인 직원 8명이 연락두절되고 10명이 고립된 상황이 발생했다. 현지 홍수로 9명 사망, 384명 실종 등 대규모 인명피해가 발생했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-26T20:51:07+09:00",
-    "importance": 4
+    "title": "국내 건설업 회복 조짐, 해외는 이중 타격 - inews24.com",
+    "link": "http://www.inews24.com/view/1999414",
+    "description": "계약이 공사보다 통상 1~1.5년 앞서는 선행지표라는 점을 감안하면, 국내 건설경기는 바닥을 지나 회복 국면에 들어섰을 가능성을 시사하는 대목이다. 해외는 정반대다. 해외 건설공사액은 38조원으로 전년 대비 10조원...",
+    "published_at": "2026-08-28T13:09:00+09:00",
+    "cluster_id": "58c1",
+    "publisher": "inews24.com",
+    "title_clean": "국내 건설업 회복 조짐, 해외는 이중 타격",
+    "summary": "국내 건설경기는 계약 증가를 바탕으로 회복 국면에 진입할 가능성을 보이고 있다. 그러나 해외 건설공사액은 전년 대비 큰 폭으로 감소하면서 건설업계가 국내외 양극화를 겪고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-28T13:15:21+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32171,20 +32187,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-24T13:29:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대방건설, 혹서기 현장 근로자 위한 푸드트럭 운영…감성안전 캠페인 전개 - 시사코리아",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5V3RyM0NvcW5aeEVCWUVrR3U5SENBdThwaU9XRS00dVJHSXhoU3M3d2tvOWI1T2dQamRaVU1GWVR6dzFx?oc=5",
-    "description": "[시사코리아=최효정 기자] 대방건설(대표이사 구찬우)은 지속되는 폭염 속 건설현장 근로자들의 건강과 안전을 위해 푸드트럭을 운영했다고 밝혔다.",
-    "cluster_id": "1f8c",
-    "publisher": "시사코리아",
-    "title_clean": "대방건설, 혹서기 현장 근로자 위한 푸드트럭 운영…감성안전 캠페인 전개",
-    "summary": "대방건설이 폭염 속 건설현장 근로자의 건강과 안전을 위해 푸드트럭을 운영하는 감성안전 캠페인을 전개했다. 이는 극한 환경에서의 근로자 복지 개선 사례로, 업계의 안전 관리 강화 움직임을 보여준다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-24T13:29:01+09:00",
-    "importance": 2
   }
 ]
