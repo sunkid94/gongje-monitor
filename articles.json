@@ -5213,6 +5213,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "산들마을 아파트 밑 지나던 수광선 노선, 단지 밖으로 조정 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260828010009949",
+    "description": "28일 성남시에 따르면, 산들마을 주민 대표와 국가철도공단, 시공사인 롯데건설은 권익위 조정 절차를 통해 기존에 단지 아래를 통과하기로 했던 전철 노선을 단지 외부로 변경하기로 했다. 아울러 공사와 운영 과정에서...",
+    "published_at": "2026-08-28T22:34:00+09:00",
+    "cluster_id": "415b",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "산들마을 아파트 밑 지나던 수광선 노선, 단지 밖으로 조정",
+    "summary": "성남시 산들마을 아파트 단지 아래를 통과하기로 했던 수광선 전철 노선이 권익위 조정을 통해 단지 외부로 변경되었다. 주민 민원 해결로 공사 지연 및 설계 변경에 따른 추가 비용이 발생할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-28T22:40:11+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21181,22 +21197,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-27T07:40:12+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티 \"네팔에 현장대응팀 급파 예정…실종 직원 수색·구조 노력\" - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WZ2ZIYWRfN1FmcDRVVTYxZEtjalIzVmF6dmsxaHB6MnVXVEYtYTN5VVZHdlFKcVpzdFJETVNkVXlCSHdnSVlwNkZaNjBRd3RuR0Vv?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [출처=연합뉴스]두산에너빌리티가 네팔 홍수가 발생한 것과 관련 비상대책본부를 꾸리고 현장대응팀을 급파하는 등 실종자 직원 수색과 구조에 나섰다.두산에너빌리티는 지난 26일 오전 9시 30분경(현지 시간) 네팔 라수와 지역에 발생한 대규모 홍수로 당사가",
-    "published_at": "2026-08-27T07:27:00+09:00",
-    "cluster_id": "1bbe",
-    "publisher": "네이트",
-    "title_clean": "두산에너빌리티 \"네팔에 현장대응팀 급파 예정…실종 직원 수색·구조 노력\"",
-    "summary": "두산에너빌리티가 네팔 라수와 지역의 대규모 홍수 피해에 대응하여 비상대책본부를 설치하고 현장대응팀을 급파했다. 실종된 직원의 수색과 구조 활동을 전개 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T07:40:12+09:00",
-    "importance": 5
   },
   {
     "keyword": "건설 PF",
