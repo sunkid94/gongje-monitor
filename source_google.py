@@ -1,4 +1,5 @@
 import calendar
+import logging
 from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 
@@ -7,6 +8,8 @@ import feedparser
 from article_store import is_empty_stub
 from config import CATEGORY_KEYWORDS, COMPANY_KEYWORDS, KEYWORD_CANONICAL
 from pub_date import resolve_published_time_and_content
+
+logger = logging.getLogger(__name__)
 
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={}&hl=ko&gl=KR&ceid=KR:ko"
 ORIGINAL_PUB_MAX_AGE_DAYS = 7   # 원문 발행이 이보다 오래되면 폐기(구글 재색인 대응)
@@ -32,7 +35,7 @@ def _fetch_keyword(keyword: str, category: str, is_company: bool) -> list:
 
 
 def fetch(seen=frozenset()) -> list:
-    """구글 뉴스 RSS 최근 24h 기사. 원문 발행 7일 초과분 폐기.
+    """구글 뉴스 RSS 최근 24h 기사. 원문 발행 7일 초과분 폐기, 발행일 미확인분 보류.
 
     seen 에 있는 link 는 resolve_published_time(HTTP 비용) 전에 건너뛴다.
     """
@@ -61,13 +64,23 @@ def fetch(seen=frozenset()) -> list:
             if real_url and "/tools/image_popup.html" in real_url:
                 seen_links.add(item["link"])
                 continue
-            if original_pub is not None:
-                if original_pub.tzinfo is None:
-                    original_pub = original_pub.replace(tzinfo=_KST)
-                if original_pub < original_cutoff:
-                    seen_links.add(item["link"])
-                    continue
-                item["published_at"] = original_pub.isoformat()
+            if original_pub is None:
+                # 발행일 미확인 기사는 싣지 않는다(보류). fail-open 으로 통과시키면
+                # 구글이 재색인한 옛 기사를 7일 가드로 거를 수 없다
+                # (2026-08-28, 3월 기사가 최신처럼 푸시된 사건). 반환·seen 저장을
+                # 안 하면 구글이 매 런 새 토큰 URL 을 발급하므로 다음 런에 자연히
+                # 재시도된다 — 일시 오류면 수 분 지연 후 정상 유입.
+                # 트레이드오프: 지속 실패 사이트(예: metroseoul 타임아웃, ikld SSL)의
+                # 구글 경유 기사는 유입되지 않는다 — 필요 시 사이트별 원인을 해결할 것.
+                logger.info("발행일 미확인 — 보류: %s", item.get("title", "")[:60])
+                seen_links.add(item["link"])
+                continue
+            if original_pub.tzinfo is None:
+                original_pub = original_pub.replace(tzinfo=_KST)
+            if original_pub < original_cutoff:
+                seen_links.add(item["link"])
+                continue
+            item["published_at"] = original_pub.isoformat()
             # 구글뉴스 description 은 본문 없는 HTML 링크뿐 — 원문 발행사 요약이 있으면
             # 그것으로 교체해 enrich 가 실제 내용으로 요약하게 한다.
             if content and len(content) > 40:

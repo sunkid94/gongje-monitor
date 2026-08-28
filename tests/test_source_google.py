@@ -85,7 +85,11 @@ def test_fetch_keeps_recent_original_pub_and_sets_published_at():
     assert result[0]["published_at"] == recent.isoformat()
 
 
-def test_fetch_keeps_when_pub_unresolvable():
+def test_fetch_defers_when_pub_unresolvable():
+    # 발행일 해석 실패 기사는 싣지 않는다(보류). fail-open 으로 통과시키면 구글이
+    # 재색인한 옛 기사를 7일 가드로 거를 수 없다 (2026-08-28 3월 기사 푸시 사건).
+    # 반환되지 않으면 seen 에도 저장되지 않아, 구글이 다음 런에 새 토큰으로 내보내면
+    # 자연히 재시도된다 — 일시 오류는 다음 런에 정상 유입.
     import source_google
     importlib.reload(source_google)
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
@@ -94,18 +98,19 @@ def test_fetch_keeps_when_pub_unresolvable():
          patch("source_google.resolve_published_time_and_content", return_value=(None, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
-    assert len(result) == 1
-    assert "published_at" not in result[0]
+    assert result == []
 
 
 def test_fetch_dedups_same_link_across_keywords():
     # 같은 기사가 두 키워드에 걸려도 1건만
     import source_google
     importlib.reload(source_google)
+    from datetime import datetime as _dt
+    recent = _dt(2026, 4, 17, 9, 0, tzinfo=timezone.utc)
     with patch("source_google.feedparser.parse", return_value=_mock_feed([MOCK_ENTRY])), \
          patch("source_google.COMPANY_KEYWORDS", ["기계설비건설공제조합", "건설공제조합"]), \
          patch("source_google.CATEGORY_KEYWORDS", {}), \
-         patch("source_google.resolve_published_time_and_content", return_value=(None, "", None)):
+         patch("source_google.resolve_published_time_and_content", return_value=(recent, "", None)):
         source_google.datetime = _make_datetime_mock()
         result = source_google.fetch()
     assert len(result) == 1
