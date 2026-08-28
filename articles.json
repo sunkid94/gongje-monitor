@@ -21199,6 +21199,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "고비 넘긴 위례선 트램…12월 개통까지 '속도전' - 사회 | 기사 - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GRVJaYkpmTUZJOVEwZzE4ekwwWjFqY2JoYmxPNTFfbUJFQ2VHS29sam5VQ3RKVFl1blZOcndtUmEzcF9jVkxUZVNZdHBHeXpRYkEyYVdn?oc=5",
+    "description": "안전진단·교통안전심의 등 후속 절차 남아국토교통부 대도시권광역교통위원회는 지난 27일 갈등조정위원회를 열고 위례선 트램 건설사업과 관련한 갈등조정안을 의결했다. /서울..",
+    "published_at": "2026-08-29T00:00:06+09:00",
+    "cluster_id": "792d",
+    "publisher": "더팩트",
+    "title_clean": "고비 넘긴 위례선 트램…12월 개통까지 '속도전' - 사회 | 기사",
+    "summary": "위례선 트램 건설사업이 갈등조정위원회를 통과하며 12월 개통을 목표로 속도전에 돌입했다. 안전진단과 교통안전심의 등 후속 절차가 남아있지만 사업 진행이 가시화되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-29T00:15:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32183,21 +32199,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-24T20:39:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "그늘 보행권·노동자 보험 지방정부 기후위기 대응 - mbceg.co.kr",
-    "link": "https://www.mbceg.co.kr/post/139467",
-    "description": "최초 '건설노동자 기후보험'을 도입했습니다. 폭염경보가 발령돼 작업이 중지되면 일부 상실된 소득을 보장하는 제도입니다. 제주도는 폭염과 폭우, 태풍 등 기후위기에 가장 큰 영향을 받는 만큼 선제적 대응에...",
-    "published_at": "2026-08-24T20:34:00+09:00",
-    "cluster_id": "d78c",
-    "publisher": "mbceg.co.kr",
-    "title_clean": "그늘 보행권·노동자 보험 지방정부 기후위기 대응",
-    "summary": "제주도가 건설노동자를 위한 기후보험을 최초로 도입하여 폭염경보 시 작업 중단에 따른 소득 손실을 보장한다. 지방정부가 기후위기 대응 차원에서 건설노동자 보호 정책을 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-24T20:39:39+09:00",
-    "importance": 3
   }
 ]
