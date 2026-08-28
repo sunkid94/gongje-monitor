@@ -21199,6 +21199,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "위례선 트램 건설사업 갈등조정안 심의·의결 - 전국도민뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMTlBmOXpoN3p0a2Y4aXdla2FNY1BMUEtZemJpWFRUcEZkRlBfaXRCWFBnUW5wYTBZUDNyMnZXME9LNDlpS3lhRl9yamlCWVl6UUhnV2thTUMzRU90akRxTjAtWF9lOXNXWnNaWXV3?oc=5",
+    "description": "[전국도민뉴스 / (前)세종매거진] 국토교통부 대도시권 광역교통위원회는 8월 27일 오후 서울에서 갈등조정위원회를 열어 위례선 트램 건설사업 관련 갈등조정안을 의결했다.이번 갈등조정위원회는 위례선 트램 건설사업의 교차로·횡단부 내 교통안전시설 설치와 교통안전심의에 관한 서울특별시와 서",
+    "published_at": "2026-08-28T13:02:32+09:00",
+    "cluster_id": "4a85",
+    "publisher": "전국도민뉴스",
+    "title_clean": "위례선 트램 건설사업 갈등조정안 심의·의결",
+    "summary": "국토교통부 대도시권 광역교통위원회가 위례선 트램 건설사업의 교통안전시설 설치와 심의에 관한 갈등조정안을 의결했다. 서울특별시와의 이견을 조정하여 사업 진행을 위한 절차를 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-29T02:55:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32184,20 +32200,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-24T21:54:31+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "구미대학교, 칠곡군과 손잡고 동력예초기 특별점검 실시 - 구미일보",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BOXFTdWM3V0ZEc1VKTXR4OURMOVJ2Nm5Db2NKTWxtUi13MVJJVFhnQlBLZ1R2MWQwQUtzaVpjM19MSG81Y2FsT0dreFJxMmx2ZWlCbkpPZEhtcGYxTFE?oc=5",
-    "description": "구미대학교(총장 이승환)가 칠곡군과 함께 지역 농업인의 안전한 농기계 사용을 지원하기 위해 동력예초기 특별점검 봉사활동을 실시했다. 구미대는 24일 칠곡군 북삼농협 참외집하장에서 김재욱 칠곡군수와 이승환 구미대 총장 등이 참석한 가운데 지역 주민을 대상으로 동력예초기 특별점검을 진행했다. 이날 점검에는 구미대 스마트건설기계학부 교수와 학생들이 참여해 지역",
-    "cluster_id": "58be",
-    "publisher": "구미일보",
-    "title_clean": "구미대학교, 칠곡군과 손잡고 동력예초기 특별점검 실시",
-    "summary": "구미대학교와 칠곡군이 지역 농업인의 농기계 안전 사용을 위해 동력예초기 특별점검 봉사활동을 실시했다. 스마트건설기계학부 교수와 학생들이 참여하여 농기계 점검 및 안전 지원 활동을 진행했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-24T21:54:31+09:00",
-    "importance": 2
   }
 ]
