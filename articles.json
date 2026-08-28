@@ -21199,6 +21199,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“부동산 정책, 배고픈 자 아닌 배아픈 자 위한 것” - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25457212",
+    "description": "시장 침체기가 오면 민간 공급이 사라지고, 세수도 감소하며, 건설 노동자의 일자리마저 줄어든다. 물론 투기적 폭등은 막아야 한다. 하지만 그것은 세제나 대출 억제가 아닌, 정교한 수요와 공급의 원리로 관리해야 할...",
+    "published_at": "2026-08-29T00:51:00+09:00",
+    "cluster_id": "60f5",
+    "publisher": "joongang.co.kr",
+    "title_clean": "“부동산 정책, 배고픈 자 아닌 배아픈 자 위한 것”",
+    "summary": "부동산 시장 침체 시 민간 공급 감소, 세수 감소, 건설 노동자 일자리 감소 등의 부작용이 발생한다고 지적. 투기 억제는 필요하지만 세제나 대출 억제보다는 수요-공급 원리로 관리해야 한다는 주장.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-29T01:00:20+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32183,21 +32199,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-24T21:39:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한남대 학생들, 경부고속철 지하화 건설공사 강행 반대집회 - 굿모닝충청",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XTGdTTXRJaWJpSkxvZGxidzVvQnhmSlJWclF2M3VDLVplZlE3OTU1dnpDb3NDeWY4RFRTNU9pQzJSRGU1MEh1dDZkX0JTNEZQNVpJN2xFRmdmdWtpZjAyM29fLXZXTnBGdUs1cW9IUEVUdw?oc=5",
-    "description": "[굿모닝충청 이유나 기자] 한남대학교 학생들이 24일 세종시 국토교통부를 찾아 캠퍼스를 관통하는 경부고속철도 공사 강행을 반대하는 집회를 개최했다.30여 명의 한남대 학생대표들은 국토교통부 앞에서 학생들의 입장을 전달하는 시위를 진행하는 한편, 학생들의 의견을 담은 성명서를 국토교통부",
-    "published_at": "2026-08-24T15:22:33+09:00",
-    "cluster_id": "7185",
-    "publisher": "굿모닝충청",
-    "title_clean": "한남대 학생들, 경부고속철 지하화 건설공사 강행 반대집회",
-    "summary": "한남대학교 학생들이 캠퍼스를 관통하는 경부고속철도 지하화 공사의 강행을 반대하며 국토교통부 앞에서 집회를 개최했다. 학생 대표 30여 명이 참여해 반대 입장을 전달하고 성명서를 제출했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-24T21:34:45+09:00",
-    "importance": 4
   }
 ]
