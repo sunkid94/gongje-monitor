@@ -5247,6 +5247,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘나홀로 입찰’로 역대 최대?···삼성물산, 현대건설 기록 넘나 - 시사저널e",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03eU9wNTRMazZtckgzUjBUTHlnbG5XQVRRX0xiNEtPZzhoSTBZcWZtbHRZaW1Fam5wQ0c5VEZHaEtEcWh2TWxHZ0hIdVBEc2VtR2tFNEc5TlpQbWMxTXRabVY3MTluOTNtZi1kTGJRbHBzQdIBdkFVX3lxTE9RTlRJSnJ1SmdtWndMdjk4T2tGVThCTGFkQ3RXOFl3T0x6UjNLdXEyWnoyQnhGWlJlUGdpOUV6dm1YMXBzUi1seXQxSmJPaHZpWldiM0hYZXdyUng5QkF2RVJqSGFtQml5VjNLNGd1d1NZTjdwWlE?oc=5",
+    "description": "[시사저널e=길해성 기자] 삼성물산 건설부문이 잇단 단독 응찰을 발판으로 도시정비사업 역대 최대 수주 기록을 넘보고 있다.현재 확정 수주액에 성수3지구와 여의도",
+    "published_at": "2026-08-27T14:22:27+09:00",
+    "cluster_id": "9110",
+    "publisher": "시사저널e",
+    "title_clean": "‘나홀로 입찰’로 역대 최대?···삼성물산, 현대건설 기록 넘나",
+    "summary": "삼samsung물산 건설부문이 단독 입찰을 통해 도시정비사업에서 잇따른 수주를 기록하고 있으며, 현대건설의 역대 최대 수주 기록을 넘을 수 있을 것으로 전망된다. 성수3지구와 여의도 등의 프로젝트가 확정 수주액에 포함되어 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-28T12:39:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21202,22 +21218,6 @@
     "publisher": "ytn.co.kr",
     "title_clean": "[속보] 남동발전·두산에너빌리티 \"상황 파악 중\"",
     "summary": "남동발전이 네팔 UT-1 수력발전사업 현장에서 직원 3명과의 연락이 두절되었다고 발표했습니다. 연락두절된 직원들은 수력발전소 건설 현장 관리 업무를 담당 중이며, 남동발전은 상황실을 구성하여 현지 법인을 통해 네팔 정부에 구조를 요청한 상태입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-26T20:30:42+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[속보] 네팔 히말라야 산악지대 홍수…외국인 291명 포함 여행객 384명 실... - kyeonggi.com",
-    "link": "https://www.kyeonggi.com/article/20260826580575",
-    "description": "한편 한국 외교부도 바그마티주 라수와 지역의 수력발전소 건설 현장에 체류 중이던 한국남동발전과 두산에너빌리티 소속 한국인 직원 8명이 연락 두절 상태라고 밝혔다. 현장에 남아있던 두산에너빌리티 소속 한국인...",
-    "published_at": "2026-08-26T20:01:00+09:00",
-    "cluster_id": "f049",
-    "publisher": "kyeonggi.com",
-    "title_clean": "[속보] 네팔 히말라야 산악지대 홍수…외국인 291명 포함 여행객 384명 실...",
-    "summary": "네팔 히말라야 산악지대 홍수로 외국인 291명 포함 여행객 384명이 실종되었으며, 한국남동발전과 두산에너빌리티 소속 한국인 직원 8명도 수력발전소 건설 현장에서 연락두절 상태다. 건설 현장의 인명 피해와 사업 차질이 우려되는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-26T20:30:42+09:00",
     "importance": 4
