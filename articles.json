@@ -5213,6 +5213,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"네팔 군 헬기 ·임차 헬기 1대 현장 수색\" - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727552&plink=ORI&cooper=NAVER",
+    "description": "다만 안타깝게도 계속 수색 작업이 이루어져야 하는 상황입니다.] 대응팀은 직원들이 실종된 두산에너빌리티, 한국남동발전과 함께 총 6대의 헬기를 현지에서 임차했지만, 네팔 군 당국 통제에 막혔습니다. 궂은 날씨와...",
+    "published_at": "2026-08-29T06:20:00+09:00",
+    "cluster_id": "9a9d",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "\"네팔 군 헬기 ·임차 헬기 1대 현장 수색\"",
+    "summary": "네팔에서 실종된 두산에너빌리티와 한국남동발전 직원 구조를 위해 6대의 헬기를 임차하여 수색 작업을 진행 중입니다. 네팔 군 당국의 통제와 악천후로 인해 수색 활동이 제약을 받고 있는 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-29T06:29:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21181,22 +21197,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-27T08:30:01+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌, 네팔 홍수에 비상대책본부 가동…韓 직원 5명 연락두절 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85WTVpd0NncXRrUkxQcFl6THNDZFF2b2ZEWU92TC05SzBJa0lfb2VMUGg4QnJXOWY4ekswczZHdUpDQTVUWkl5Ty1LWXBYQnFRVXdpck1BeGVFcGN0a0NZaA?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 지난 8월 26일 밤 두산에너빌리티 서울사무소가 위치한 경기도 성남시 분당두산타워의 모습. [사진=연합뉴스]두산에너빌리티가 26일 오전 9시30분(현지시간) 네팔 라수와 지역에 발생한 대규모 홍수와 관련해 현장 대응팀을 구성해 수색과 구조에 최선을 다",
-    "published_at": "2026-08-27T08:13:00+09:00",
-    "cluster_id": "53f1",
-    "publisher": "네이트",
-    "title_clean": "두산에너빌, 네팔 홍수에 비상대책본부 가동…韓 직원 5명 연락두절",
-    "summary": "두산에너빌리티가 네팔 라수와 지역의 대규모 홍수 재난에 대응하기 위해 비상대책본부를 가동했으며, 현장에 있던 한국 직원 5명과의 연락이 두절된 상태. 회사는 수색과 구조 활동을 진행 중.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T08:30:01+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
