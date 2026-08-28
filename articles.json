@@ -5264,6 +5264,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“리테일로 굳히고 IB로 넓힌다”…엄주성號 키움증권, PF 확대 ‘양날의... - ddaily.co.kr",
+    "link": "https://www.ddaily.co.kr/page/view/2026082713184099432",
+    "description": "다만 시공사인 롯데건설이 자금보충 의무를 부담하고 일정 조건에서는 채무를 인수하도록 해 신용을 보강했다. 7706억원을 현재 키움증권의 PF 위험노출액으로 그대로 볼 수는 없다. 증권사는 대형 PF를 주관하면서...",
+    "published_at": "2026-08-28T13:22:00+09:00",
+    "cluster_id": "e0e5",
+    "publisher": "ddaily.co.kr",
+    "title_clean": "“리테일로 굳히고 IB로 넓힌다”…엄주성號 키움증권, PF 확대 ‘양날의...",
+    "summary": "키움증권이 PF 사업 확대를 추진하는 가운데, 롯데건설 프로젝트는 시공사의 자금보충 의무와 채무인수 조건으로 신용이 보강된 상태이다. 대형 PF 주관 시 리스크 관리의 중요성이 대두되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-28T13:29:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21225,20 +21241,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "네팔 홍수에 발전소 짓던 남동발전·두산에너빌 직원 8명 연락 두절 - news.einfomax.co.kr",
-    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431970",
-    "description": "네팔 홍수[출처: 연합뉴스 자료사진] 네팔에서 일어난 홍수로 현지 수력발전소 건설 현장에 있던 한국남동발전과 두산에너빌리티 직원 8명이 연락 두절 상태다. 26일 두산에너빌리티와 남동발전에 따르면, 이날 오전 9시...",
-    "published_at": "2026-08-26T20:40:00+09:00",
-    "cluster_id": "ae1f",
-    "publisher": "news.einfomax.co.kr",
-    "title_clean": "네팔 홍수에 발전소 짓던 남동발전·두산에너빌 직원 8명 연락 두절",
-    "summary": "네팔 홍수로 인해 한국남동발전과 두산에너빌리티가 공동으로 진행 중인 수력발전소 건설 현장에서 한국인 직원 8명이 연락 두절되었다. 현지 자연재해로 인한 건설 현장 피해와 인명 안전 문제가 발생한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-26T20:51:07+09:00",
-    "importance": 5
+    "title": "남부발전, 2.5GW 석탄 대체복합 건설에 AI 안전관리 도입 - 아주경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByZV8yeVkzVHdWb3BrdG5hczNpTUcyMXJGZ055UHp5eDhxbDFDU3RXak5DWkxyREN3WUpMNzNmNy14UFNpR2xKNHdWWDU5NkVLcmxGRUxsWFRuQdIBWEFVX3lxTE5LLVR1OVdpbVNrZFA0M3lKZW1NX2xWMVJ4SGNYb2VxbVpCalZTdmZIYmF2c01NaVlFcTVWVXI4aE1CMWEyQVJWUnlZSEVwajlwckdaWjBnQ0s?oc=5",
+    "description": "한국남부발전이 총 2.5GW 규모의 석탄 대체복합발전소 건설 현장에 인공지능(AI) 기반 스마트 안전관리시스템을 도입한다. AI 영상분석과 드론 관제 등을 활용해...",
+    "published_at": "2026-08-28T13:21:15+09:00",
+    "cluster_id": "8508",
+    "publisher": "아주경제",
+    "title_clean": "남부발전, 2.5GW 석탄 대체복합 건설에 AI 안전관리 도입",
+    "summary": "한국남부발전이 2.5GW 규모 석탄 대체복합발전소 건설에 AI 기반 스마트 안전관리시스템을 도입하여 건설 안전성을 강화한다. AI 영상분석과 드론 관제 등 첨단기술을 활용한 사례로, 건설업계의 디지털화 및 안전관리 고도화 추세를 반영한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-28T13:29:48+09:00",
+    "importance": 3
   },
   {
     "keyword": "국토교통부 건설",
@@ -32170,22 +32186,6 @@
     "summary": "정부가 1145개 건설임대사업장에 20조 원대의 주택도시기금을 융자했으나, 건설경기 악화로 116개 사업장이 연체하면서 누적 연체액이 1조210억 원에 달했다. 건설업계의 자금난과 PF 위기가 심화되고 있는 상황을 보여준다.",
     "sentiment": "negative",
     "collected_at": "2026-08-24T13:39:22+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "올해 1분기 임금근로 일자리 29만 개 증가…60대 이상·복지 중심 증가 - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4102290",
-    "description": "반면 건설경기 둔화의 영향으로 건설업에서는 5만 2천 개, 부동산업에서는 1천 개의 일자리가 줄어들었습니다. 가장 큰 비중을 차지하는 제조업의 경우 식료품과 반도체 부문에서는 일자리가 늘었으나 섬유제품...",
-    "published_at": "2026-08-24T13:28:00+09:00",
-    "cluster_id": "dc03",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "올해 1분기 임금근로 일자리 29만 개 증가…60대 이상·복지 중심 증가",
-    "summary": "1분기 임금근로 일자리가 29만 개 증가했으나, 건설경기 둔화로 건설업에서 5만 2천 개, 부동산업에서 1천 개의 일자리가 감소했습니다. 60대 이상과 복지 중심으로 고용이 재편되는 추세를 보이고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-24T13:33:58+09:00",
     "importance": 4
   }
 ]
