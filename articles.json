@@ -21199,6 +21199,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국중부발전, 기관장 주관 서울발전본부 건설현장 특별 안전점검 - 글로벌뉴스통신GNA",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lLVVINVNEVFNxTXlGTHdxaTFDc2lERlF5cE1lUFdIbTY1Wlh4VHJPRFlDV1ItbmU0SDIxUDlsT0ItYU5PcENabkJhaHBJZUl3TFpFczIzZllUZmMyZi14aGRRM1JFbDluTGpYbHJwSHBLMGcz?oc=5",
+    "description": "[서울=글로벌뉴스통신] 한국중부발전이 지난 27일(목) 서울발전본부 지하주차장 및 공원화 2단계 조성공사 현장에서 중대재해 예방을 위한 기관장 주관 특별 안전점검",
+    "published_at": "2026-08-28T18:09:05+09:00",
+    "cluster_id": "6295",
+    "publisher": "글로벌뉴스통신GNA",
+    "title_clean": "한국중부발전, 기관장 주관 서울발전본부 건설현장 특별 안전점검",
+    "summary": "한국중부발전이 서울발전본부 건설현장에서 기관장 주관의 특별 안전점검을 실시했다. 중대재해 예방을 위한 안전관리 강화 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-29T00:30:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32182,22 +32198,6 @@
     "summary": "경남의 2분기 건설수주액이 6230억원으로 전년 동기 대비 75.2% 급감하며 전국 증가세와 대비된다. 건설 입찰 시 지역업체 비율을 명시하는 근거 마련이 추진되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-24T21:29:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "정쌍학 경남도의원, 건설수주 75% 급감에 ‘지역업체 참여 확대’ 제도... - breaknews.com",
-    "link": "http://www.breaknews.com/1231160",
-    "description": "건설경기 위축이 지역업체의 일감 감소로 이어지는 상황에서 공공공사 입찰 단계부터 지역업체 참여를 확대하고 하도급 거래와 건설현장 안전까지 제도적으로...",
-    "published_at": "2026-08-24T20:36:00+09:00",
-    "cluster_id": "1aea",
-    "publisher": "breaknews.com",
-    "title_clean": "정쌍학 경남도의원, 건설수주 75% 급감에 ‘지역업체 참여 확대’ 제도...",
-    "summary": "경남 건설수주가 75% 급감하면서 지역 건설업체의 일감이 크게 줄어들고 있다. 정쌍학 경남도의원이 공공공사 입찰 단계부터 지역업체 참여를 확대하고 하도급 거래 및 안전 관리를 제도화하는 방안을 제시했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-24T20:39:39+09:00",
     "importance": 4
   }
 ]
