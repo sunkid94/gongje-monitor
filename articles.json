@@ -4926,21 +4926,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[오늘의 인사 : 7월 30일] 한국은행·국토교통부·법무부·법제처·헌법... - news2day.co.kr",
-    "link": "https://www.news2day.co.kr/article/20260730500130",
-    "description": "전문건설공제조합 <전보> ◇ 1급 ▷ 하덕성 감사실 실장 ▷ 박석중 광주지점 지점장 ▷ 이석근 대전지점 지점장 ▷ 조미라 수원지점 지점장 ▷ 안광인 성남지점 지점장 ◇ 2급 ▷ 윤대섭 영업기획팀 팀장 ▷우규선...",
-    "published_at": "2026-07-30T17:40:00+09:00",
-    "cluster_id": "5ba9",
-    "publisher": "news2day.co.kr",
-    "title_clean": "[오늘의 인사 : 7월 30일] 한국은행·국토교통부·법무부·법제처·헌법...",
-    "summary": "전문건설공제조합의 7월 30일자 임원 인사가 단행되었다. 감사실 실장, 지점장, 팀장 등 다양한 직급에서 인사 이동이 있었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T17:44:02+09:00",
-    "event_label": "전문건설공제조합 임원 인사",
-    "importance": 5
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "네팔·중국 대홍수 사망 633명…실종자 3천명 육박(종합) - namdonews.com",
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=921551",
+    "description": "네팔 어퍼트리슐리(UT)-1 수력발전소 건설 현장에서 근무했던 두산에너빌리티 직원 6명과 한국남동발전 직원 3명의 연락이 끊긴 상태다. 우리 정부도 수색 지원을 확대하고 있다. 외교부 직원 1명과 소방청 인력 8명 등...",
+    "published_at": "2026-08-29T17:50:00+09:00",
+    "cluster_id": "5acb",
+    "publisher": "namdonews.com",
+    "title_clean": "네팔·중국 대홍수 사망 633명…실종자 3천명 육박(종합)",
+    "summary": "네팔 수력발전소 건설 현장에서 발생한 대홍수로 두산에너빌리티 직원 6명과 한국남동발전 직원 3명이 연락이 끊긴 상태이며, 한국 정부가 수색 지원을 확대하고 있다. 해외 건설 프로젝트 중 대형 자연재해로 인한 인명 피해 사건.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-29T17:53:11+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -20917,22 +20916,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-27T11:50:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"발전소 건설현장 9명 연락두절\"…두산·남동발전, 대응팀 네팔 급파 - seouleconews.com",
-    "link": "http://www.seouleconews.com/news/articleView.html?idxno=93347",
-    "description": "대규모 홍수와 산사태로 진흙더미에 휩싸인 네팔 중북부 산악지대 마을./연합뉴스 네팔 중북부에서 대규모 홍수가 발생한 이후 연락이 두절된 수력발전소 건설 현장의 한국인 근로자 9명이 소속된 두산에너빌리티와...",
-    "published_at": "2026-08-27T11:36:00+09:00",
-    "cluster_id": "ef56",
-    "publisher": "seouleconews.com",
-    "title_clean": "\"발전소 건설현장 9명 연락두절\"…두산·남동발전, 대응팀 네팔 급파",
-    "summary": "네팔 중북부의 대규모 홍수로 인해 수력발전소 건설 현장에서 한국인 근로자 9명의 연락이 두절되었다. 두산에너빌리티와 남동발전이 대응팀을 현지에 급파하여 상황 파악 및 구조에 나섰다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T11:40:24+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
