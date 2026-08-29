@@ -5182,6 +5182,22 @@
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
+    "title": "네팔·티베트 강타한 대홍수…사망자 540명 넘어, 한국인 9명 여전히 실... - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/world/2359388.htm",
+    "description": "현지 수력발전소 건설 현장에서 근무하던 한국남동발전과 두산에너빌리티 소속 한국인 9명도 여전히 연락이 닿지 않고 있다. 네팔 구조당국은 이날까지 보안요원 약 1만 4800명을 투입해 피해 지역에서 3742명을...",
+    "published_at": "2026-08-29T10:31:00+09:00",
+    "cluster_id": "112a",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "네팔·티베트 강타한 대홍수…사망자 540명 넘어, 한국인 9명 여전히 실...",
+    "summary": "네팔·티베트 지역 대홍수로 540명 이상이 사망했으며, 수력발전소 건설 현장에 근무 중인 한국남동발전과 두산에너빌리티 소속 한국인 9명이 여전히 연락이 닿지 않고 있다. 현지 구조당국이 대규모 인력을 투입해 구조 활동을 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-29T10:34:19+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "오늘은 헬기 뜰까…두산에너빌리티, 네팔 실종자 수색 '촉각' - news1.kr",
     "link": "https://www.news1.kr/industry/general-industry/6273323",
     "description": "네팔에서 발생한 대규모 홍수로 한국인 근로자 9명의 연락이 나흘째 끊긴 가운데 두산에너빌리티(034020)가 현장 수색을 위한 헬기 투입에 총력을 기울이고 있다. 현재 사고 현장으로 이어지는 도로가 유실돼 사실상 헬기가...",
@@ -21151,20 +21167,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "'네팔 홍수' 직원 연락두절…두산에너빌, 정연인 대표 등 오늘 오후 급... - mt.co.kr",
-    "link": "https://www.mt.co.kr/industry/2026/08/27/2026082707512411833",
-    "description": "네팔에서 발생한 대홍수로 두산에너빌리티 직원 5명이 연락 두절된 가운데 정연인 대표이사를 포함한 현장대응팀이 27일 오후 현지로 출발한다. 정 대표를 포함한 현장대응팀은 이날 오후 일찍 네팔로 출발할...",
-    "published_at": "2026-08-27T08:58:00+09:00",
-    "cluster_id": "cc25",
-    "publisher": "mt.co.kr",
-    "title_clean": "'네팔 홍수' 직원 연락두절…두산에너빌, 정연인 대표 등 오늘 오후 급...",
-    "summary": "네팔 대홍수로 두산에너빌리티 직원 5명이 연락 두절되었으며, 정연인 대표이사를 포함한 현장대응팀이 27일 오후 현지로 출발한다. 기업의 현장 안전 사고에 해당하는 악재 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T09:04:39+09:00",
-    "importance": 4
+    "title": "품질과 안전으로 침체 건설 시장을 버티는 다힘건설의 전략 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yOXV0SDhIbTViQnN6ZXVaWS1VMTY5LWt4aGV1S0Q2WUxJbWY4Y2wzWVpyTjY1Q0s3QzYzbXMtZy1yMURyOWRmVmtFQWpRWTZXOHc?oc=5",
+    "description": "2026년 8월 이용광 대표의 책임 경영 선언과 그 의미 장기 건설 경기 침체 속에서도",
+    "published_at": "2026-08-29T10:29:37+09:00",
+    "cluster_id": "db03",
+    "publisher": "유스연합",
+    "title_clean": "품질과 안전으로 침체 건설 시장을 버티는 다힘건설의 전략",
+    "summary": "다힘건설은 장기 건설 경기 침체 속에서 품질과 안전을 경영 전략으로 삼아 시장 침체를 극복하고 있습니다. 2026년 8월 이용광 대표가 책임 경영을 선언하며 업체의 경영 방향을 제시했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-29T10:34:19+09:00",
+    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
@@ -32186,21 +32202,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-25T06:04:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[야고부-김교영] 배달 시인이 '루쉰문학상' - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026082418071323065",
-    "description": "농촌 출신에 중졸 학력인 그는 건설 노동, 폐지 수집 등을 거쳐 지금은 식당 운영과 배달 일을 겸하고 있다. 왕지빙은 구겨진 영수증에 뭔가를 끄적인다. 손이 바쁘면 담뱃갑에, 이마저 여의치 않으면 휴대전화에 음성으로...",
-    "published_at": "2026-08-25T05:01:00+09:00",
-    "cluster_id": "ba70",
-    "publisher": "imaeil.com",
-    "title_clean": "[야고부-김교영] 배달 시인이 '루쉰문학상'",
-    "summary": "농촌 출신 중졸 학력의 배달 종사자 왕지빙이 루쉰문학상을 수상했다. 건설 노동, 폐지 수집 등 다양한 일을 거쳐 현재 식당 운영과 배달을 병행하며 영수증, 담뱃갑, 휴대전화 등에 창작물을 남겼다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-25T05:09:34+09:00",
-    "importance": 2
   }
 ]
