@@ -4875,21 +4875,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[인사] 한국은행 외 - segye.com",
-    "link": "https://www.segye.com/newsView/20260730516712?OutUrl=naver",
-    "description": "전문건설공제조합 ◆1급 전보 △감사실 실장 하덕성 △광주지점 지점장 박석중 △대전지점 〃 이석근 △수원지점 〃 조미라 △성남지점 〃 안광인 해외건설협회 △경영지원본부장 이용광 △기획조정실장 권오훈...",
-    "published_at": "2026-07-30T21:03:00+09:00",
-    "cluster_id": "0fac",
-    "publisher": "segye.com",
-    "title_clean": "[인사] 한국은행 외",
-    "summary": "전문건설공제조합과 해외건설협회의 임원 인사가 단행되었다. 감사실 실장, 지점장 등 주요 보직에 인사 발령이 이루어졌다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-07-30T21:08:45+09:00",
-    "event_label": "전문건설공제조합 및 해외건설협회 임원 인사",
-    "importance": 5
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산 박정원 회장도 네팔로…\"실종 직원 수색 총력\" - yonhapnewstv.co.kr",
+    "link": "http://www.yonhapnewstv.co.kr/news/MYH202608292120275yP",
+    "description": "두산에너빌리티와 한국남동발전 직원 9명이 네팔 대홍수로 연락이 끊긴 가운데, 박정원 두산그룹 회장이 네팔로 향했습니다. 구조 작업을 현장에서 돕기 위해선데요. 헬기 수색 작업도 본격화했습니다. 최지숙...",
+    "published_at": "2026-08-29T21:21:00+09:00",
+    "cluster_id": "a886",
+    "publisher": "yonhapnewstv.co.kr",
+    "title_clean": "두산 박정원 회장도 네팔로…\"실종 직원 수색 총력\"",
+    "summary": "두산에너빌리티와 한국남동발전 직원 9명이 네팔 대홍수로 연락이 끊긴 상황에서 박정원 두산그룹 회장이 직접 네팔로 향했다. 헬기 수색 작업을 포함한 구조 작업이 현장에서 본격화하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-29T21:28:07+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -20866,22 +20865,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-27T12:10:09+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'가시 뒤덮인 야자수에?'…사인 놓고 의문 투성 / \"멀쩡한 이까지 몽땅... - mbn.mk.co.kr",
-    "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5215218",
-    "description": "현지 수력발전소 건설 현장 인근에서 연락이 끊긴 한국남동발전과 두산에너빌리티 소속 한국인 9명도 실종 상태입니다. 안타까운 소식에 \"모두 무사하길 바란다\", \"불보다 물이 무섭네요. 더 이상의 인명피해 없길\" \"제발...",
-    "published_at": "2026-08-27T12:01:00+09:00",
-    "cluster_id": "3e8d",
-    "publisher": "mbn.mk.co.kr",
-    "title_clean": "'가시 뒤덮인 야자수에?'…사인 놓고 의문 투성 / \"멀쩡한 이까지 몽땅...",
-    "summary": "수력발전소 건설 현장 인근에서 한국남동발전과 두산에너빌리티 소속 한국인 9명이 실종된 사고 발생. 건설업계에 안전관리 강화 필요성을 제기하며 인명피해 우려.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T12:05:39+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설수주",
