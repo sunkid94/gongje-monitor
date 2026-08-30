@@ -4824,6 +4824,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "성남시 수광선 노선, '산들마을 지하 하부서 단지 밖으로' - kgnews.co.kr",
+    "link": "https://www.kgnews.co.kr/news/article.html?no=909494",
+    "description": "30일 시에 따르면 국가철도공단, 시공사인 롯데건설, 주민대표 등과 함께 국민권익위원회의 조정 과정을 거쳐 노선 조정 등을 포함한 시공·운행 단계의 안전성 확보를 위한 종합 대책을 마련, 시행하기로 했다....",
+    "published_at": "2026-08-30T15:36:00+09:00",
+    "cluster_id": "05b2",
+    "publisher": "kgnews.co.kr",
+    "title_clean": "성남시 수광선 노선, '산들마을 지하 하부서 단지 밖으로'",
+    "summary": "성남시 수광선 노선이 산들마을 지하 하부에서 단지 밖으로 조정되었다. 국가철도공단, 롯데건설, 주민대표 등이 국민권익위원회 조정을 거쳐 안전성 확보를 위한 종합 대책을 마련하기로 합의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-30T15:38:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20797,22 +20813,6 @@
     "summary": "네팔 대홍수로 수력발전소 건설 현장에서 연락이 끊긴 한국인 직원 9명(두산에너빌리티, 한국남동발전)의 수색을 위해 각 기업의 현장대응팀이 네팔로 출발했다. 실종자 구조 활동이 진행 중인 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-27T15:25:06+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티·남동발전, 네팔 홍수 현장에 긴급대응팀 파견 - pointdaily.co.kr",
-    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317030",
-    "description": "사진=연합뉴스  두산에너빌리티와 한국남동발전이 네팔 수력발전소 건설 현장에서 발생한 대규모 홍수에 대응하기 위해 현지에 긴급대응 인력을 파견했다. 정연인 두산에너빌리티 대표이사 부회장은 27일 인천국제공항...",
-    "published_at": "2026-08-27T15:04:00+09:00",
-    "cluster_id": "ce37",
-    "publisher": "pointdaily.co.kr",
-    "title_clean": "두산에너빌리티·남동발전, 네팔 홍수 현장에 긴급대응팀 파견",
-    "summary": "두산에너빌리티와 한국남동발전이 네팔 수력발전소 건설 현장의 대규모 홍수에 대응하기 위해 긴급대응팀을 파견했다. 현지 사업 진행 중 발생한 자연재해에 대한 신속한 대응 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T15:10:56+09:00",
     "importance": 4
   },
   {
