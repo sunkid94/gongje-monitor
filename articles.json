@@ -4824,6 +4824,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"등반객 소변도 빙하 녹여\"…네팔 대홍수, 관광·온난화가 키운 재난 - dongascience.com",
+    "link": "https://www.dongascience.com/news/view/79659",
+    "description": "두산에너빌리티와 한국남동발전 소속 한국인 9명이 닷새째 실종돼 수색이 진행 중이다. 어퍼트리슐리-1 시설 대부분이 유실되며 준공과 운전 일정에도 차질이 생겼다. 조천호 전 국립기상과학원장은 \"인프라 사업에서...",
+    "published_at": "2026-08-30T10:35:00+09:00",
+    "cluster_id": "e528",
+    "publisher": "dongascience.com",
+    "title_clean": "\"등반객 소변도 빙하 녹여\"…네팔 대홍수, 관광·온난화가 키운 재난",
+    "summary": "네팔 히말라야 지역 대홍수로 한국인 9명이 실종되고 어퍼트리슐리-1 수력발전소 시설이 대부분 유실되었다. 기후변화와 관광 개발이 복합적으로 작용한 자연재해로, 건설 사업의 준공과 운전 일정에 차질이 발생했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-30T10:38:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20800,20 +20816,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "중국·네팔 국경 대홍수 인명피해 늘어…사망자 최소 165명 - newsworks.co.kr",
-    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851728",
-    "description": "외교부에 따르면 이번 홍수로 현지에서 수력발전소 건설 공사 현장에서 근무하던 두산에너빌리티와 한국남동발전 소속 한국인 직원 9명의 연락이 두절된 상태다. 두산에너빌리티 직원 10명은 고립돼 있지만 안전한...",
-    "published_at": "2026-08-27T13:36:00+09:00",
-    "cluster_id": "392f",
-    "publisher": "newsworks.co.kr",
-    "title_clean": "중국·네팔 국경 대홍수 인명피해 늘어…사망자 최소 165명",
-    "summary": "중국·네팔 국경 대홍수로 사망자 165명 이상 발생. 한국인 건설근로자 9명 연락두절, 10명 고립된 상태로 한국 건설업계 인력 피해 심각.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T13:39:01+09:00",
-    "importance": 4
+    "title": "천안시, 대형 건설사 본사 ‘노크’ 지역업체 일감 확대 - viva100.com",
+    "link": "https://www.viva100.com/article/20260830500174",
+    "description": "천안시가 건설경기 침체로 어려움을 겪고 있는 지역 건설업체의 일감 확보와 지역경제 활성화를 위해 대형 건설사 본사를 직접 찾아 지역업체 참여 확대를 요청하고 나섰다. 시는 유경상 공동주택과장을 비롯한...",
+    "published_at": "2026-08-30T10:34:00+09:00",
+    "cluster_id": "8dbb",
+    "publisher": "viva100.com",
+    "title_clean": "천안시, 대형 건설사 본사 ‘노크’ 지역업체 일감 확대",
+    "summary": "천안시가 건설경기 침체로 어려움을 겪는 지역 건설업체의 일감 확보를 위해 대형 건설사 본사를 직접 방문하여 지역업체 참여 확대를 요청하고 있다. 지역경제 활성화와 건설업체 수주 기회 확대를 목표로 하는 정부 차원의 지원 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-30T10:38:02+09:00",
+    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
