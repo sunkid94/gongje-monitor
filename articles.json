@@ -4824,6 +4824,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데-현대건설, 1.4조 안양 충훈부 공공재개발 수주… 3856가구 - newscj.com",
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3428759",
+    "description": "롯데건설·현대건설 컨소시엄이 1조 4000억원대 규모의 안양 충훈부 공공재개발 사업 시공권을 확보했다. 롯데건설이 공공 정비사업을 수주한 첫 사례다. 롯데건설·현대건설 컨소시엄은 지난 29일 안양시청에서 열린...",
+    "published_at": "2026-08-30T16:32:00+09:00",
+    "cluster_id": "2f98",
+    "publisher": "newscj.com",
+    "title_clean": "롯데-현대건설, 1.4조 안양 충훈부 공공재개발 수주… 3856가구",
+    "summary": "롯데건설과 현대건설 컨소시엄이 안양 충훈부 공공재개발 사업에서 1.4조원 규모 시공권을 확보했다. 롯데건설이 공공 정비사업을 수주한 첫 사례로, 3,856가구 규모의 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-30T16:38:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20800,19 +20816,19 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "‘네팔 홍수’ 정연인 두산에너빌 부회장 출국…“당국과 협력, 직원 구조에 최선” - 쿠키뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CUjBPZFFSUXpLWEk0ZDVLeGZuNU1YeUFSYTllQ2xRcVJpMG5rWG1fZEh0TWtqVXB5NDJrMTVIUnFfMFFrLUhISHJNWlBQSl9EMDBNZlVUOEVHaEtNbmtGa1h5RQ?oc=5",
-    "description": "네팔 대홍수 사태로 현지 두산에너빌리티 직원 일부가 연락 두절된 가운데, 현장대응팀을 이끌고 출국한 정연인 두산에너빌리티 대표이사 부회장이",
-    "published_at": "2026-08-27T06:00:06+09:00",
-    "cluster_id": "2e4b",
-    "publisher": "쿠키뉴스",
-    "title_clean": "‘네팔 홍수’ 정연인 두산에너빌 부회장 출국…“당국과 협력, 직원 구조에 최선”",
-    "summary": "네팔 대홍수로 두산에너빌리티 현지 직원 일부가 연락 두절된 상황에서 정연인 부회장이 현장대응팀을 이끌고 출국했다. 회사는 당국과 협력하여 직원 구조에 최선을 다하겠다는 입장을 밝혔다.",
+    "title": "네팔 대홍수, 수색 난항⋯경제도 휘청ㆍ복구비 GDP 10% - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2619693",
+    "description": "이투데이=고대영 기자 | 사망 750명⋯실종 3044명ㆍ외국인도 850명 강 수위 다시 상승⋯자연댐 범람에 2차 피해 우려 수력발전소 27곳 피해⋯건설 노동자도 대거 실종 “네팔서만 피해 복구 추산액 최대 50억 달러” 네팔...",
+    "published_at": "2026-08-30T16:34:00+09:00",
+    "cluster_id": "b551",
+    "publisher": "etoday.co.kr",
+    "title_clean": "네팔 대홍수, 수색 난항⋯경제도 휘청ㆍ복구비 GDP 10%",
+    "summary": "네팔에서 발생한 대홍수로 750명 사망, 3,000명 이상 실종되었고 복구비가 GDP의 10%에 달하는 50억 달러 규모로 추정된다. 수력발전소 27곳 피해와 강 수위 재상승으로 2차 피해가 우려되며 건설 노동자 대거 실종 등 경제 타격이 심각한 상황이다.",
     "sentiment": "negative",
-    "collected_at": "2026-08-27T15:40:37+09:00",
+    "collected_at": "2026-08-30T16:38:15+09:00",
     "importance": 4
   },
   {
@@ -32174,21 +32190,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-25T10:29:24+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH 성장신기술 '선정 따로·적용 따로'ⵈ 中企 판로지원 실효성 도마 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=339470",
-    "description": "정부가 건설현장 안전 강화를 강조하고 있는 만큼 안전 분야 신기술의 활용이 적극 확대돼야 한다는 지적이 나온다. LH는 우수 기술을 보유한 중소기업의 판로 개척과 성장을 지원하기 위해 '중소기업 성장신기술...",
-    "published_at": "2026-08-25T10:10:00+09:00",
-    "cluster_id": "ca75",
-    "publisher": "국토일보",
-    "title_clean": "LH 성장신기술 '선정 따로·적용 따로'ⵈ 中企 판로지원 실효성 도마",
-    "summary": "LH가 중소기업 성장신기술 지원사업을 추진하고 있으나, 기술 선정과 실제 현장 적용 간 괴리가 발생하면서 판로지원의 실효성이 의문을 받고 있다. 건설현장 안전 강화라는 정부 방침에도 불구하고 안전 신기술의 적극적 활용이 미흡하다는 지적이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-25T10:14:14+09:00",
-    "importance": 4
   }
 ]
