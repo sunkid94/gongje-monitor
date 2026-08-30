@@ -4824,6 +4824,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설주 한 달 새 33% 급등…AI·원전·데이터센터 수주 기대에 ‘재평가’ - 산경투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtWjE0d3UzQnNSTWZVR0syNnpDaVRqSGtzWXlaaU5YSHBJV1NQZzNZTUlqdG9IT05xcUk1MnFxQ2VDb2N4LVZQY3hueU1na1I4Z1I4cGlINUJpRWlSWk5ER05VZElYVTZHQkRhdzUyWHjSAXRBVV95cUxQNkZaMXdnRmxjOXl2XzBmcnY5OUE1dXJ2ajlrYjlrVElWNmdISFk5amI2b1BDeEU0MkIxRlNPVnNOR2dLeXZhcU1oMjlDdF8zLTJoSHNyZndxRUZTT3NiZTBLbVVvVE1XSGZVaHlmdEJSRWxyQw?oc=5",
+    "description": "[산경투데이 = 박태진 기자]국내 증시에서 건설주가 이달 가장 강한 상승세를 나타냈다.부동산 경기 회복 기대보다 인공지능(AI) 데이터센터와 원자력발전소, 액화천연가스(LNG) 플랜트 등 대형 비주택 사업이 새로운 성장 동력으로 부각되면서 건설업종에 대한 투자자들의 평가가 달라지고 있",
+    "published_at": "2026-08-30T11:48:25+09:00",
+    "cluster_id": "544b",
+    "publisher": "산경투데이",
+    "title_clean": "건설주 한 달 새 33% 급등…AI·원전·데이터센터 수주 기대에 ‘재평가’",
+    "summary": "건설주가 한 달간 33% 상승했으며, AI 데이터센터, 원전, LNG 플랜트 등 대형 비주택 사업이 새로운 성장 동력으로 평가받으면서 건설업계에 대한 투자자 재평가가 이루어지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-30T12:03:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20795,22 +20811,6 @@
     "publisher": "kookje.co.kr",
     "title_clean": "남동발전·두산, 네팔 UT-1 사고 비상대책본부 설치…본사 인력 현지 급...",
     "summary": "네팔 UT-1 수력발전소 건설 현장에서 홍수 피해 발생으로 남동발전과 두산에너빌리티가 비상대응 체제를 가동했다. 실종된 한국인 근로자 구조 및 사고 수습을 위해 본사 인력을 현지에 급파했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T14:30:20+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "전문가 \"네팔 홍수, 지구 온난화→빙하 붕괴 영향\"…알프스·안데스산맥... - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260827000576",
-    "description": "외교부가 파악한 연락 두절 한국인은 9명이다. 한국인 실종자들은 한국남동발전과 두산에너빌리티 소속으로 현지 수력발전소 건설 현장에 파견된 직원들인 것으로 알려졌다.",
-    "published_at": "2026-08-27T14:21:00+09:00",
-    "cluster_id": "3eb6",
-    "publisher": "newspim.com",
-    "title_clean": "전문가 \"네팔 홍수, 지구 온난화→빙하 붕괴 영향\"…알프스·안데스산맥...",
-    "summary": "네팔 홍수로 인해 한국남동발전과 두산에너빌리티 소속 직원 9명이 연락 두절되었다. 현지 수력발전소 건설 현장에 파견된 한국인 실종자들의 안전이 우려되는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-27T14:30:20+09:00",
     "importance": 4
