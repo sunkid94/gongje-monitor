@@ -20887,6 +20887,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[속보] 7월 생산 ‘제자리’·소비 2.4%↓…설비투자는 7.5%↑ - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10856723?ref=naver",
+    "description": "건설수주는 철도·궤도 등 토목과 주택 등 건축에서 모두 줄어 전년 동월보다 34.0% 감소했다. 현재 경기 상황을 보여주는 동행종합지수 순환변동치는 전월보다 0.8포인트 상승했다. 향후 경기 흐름을 예고하는...",
+    "published_at": "2026-08-31T08:01:00+09:00",
+    "cluster_id": "bbb5",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "[속보] 7월 생산 ‘제자리’·소비 2.4%↓…설비투자는 7.5%↑",
+    "summary": "7월 산업생산은 전월 대비 제자리 수준을 유지했으나, 소비가 2.4% 감소하고 건설수주가 34.0% 급락했다. 설비투자는 7.5% 증가했으나 건설업계 전반적인 수주 부진이 심각한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-31T08:03:16+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[속보] 7월 소비 2.4%↓·투자 7.5%↑…생산은 보합 - news1.kr",
+    "link": "https://www.news1.kr/economy/trend/6274112",
+    "description": "건설수주(경상)는 철도·궤도 등 토목(-55.0%) 및 주택 등 건축(-23.2%)에서 수주가 모두 줄어 전년 동월 대비 34.0% 감소했다. 현재 경기 상황을 보여주는 동행종합지수 순환변동치는 전월 대비 0.8포인트(p) 상승했다....",
+    "published_at": "2026-08-31T08:00:00+09:00",
+    "cluster_id": "f601",
+    "publisher": "news1.kr",
+    "title_clean": "[속보] 7월 소비 2.4%↓·투자 7.5%↑…생산은 보합",
+    "summary": "7월 경제지표에서 소비가 2.4% 감소하고 투자는 7.5% 증가했으나, 건설수주는 전년 동월 대비 34.0% 급감했다. 특히 토목과 건축 부문 모두 큰 폭의 감소를 기록하며 건설업계의 부진이 두드러졌다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-31T08:03:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32170,38 +32202,6 @@
     "summary": "반도건설이 협력사 임직원 대상 안전문화 체험교육을 확대하고 폭염, 태풍 등 이상기후에 대비한 건설현장 안전·보건 점검을 강화하고 있다. 이는 건설현장 안전사고 예방과 업계 안전관리 수준 향상을 위한 선제적 조치로 평가된다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-25T15:09:29+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "시평 67위 태왕이앤씨 법정관리 신청…흔들리는 지방 건설사 - asiatime.co.kr",
-    "link": "https://www.asiatime.co.kr/article/20260825500302",
-    "description": "흑자를 내고 있는 건설사까지 유동성 위기로 회생절차를 신청하면서 장기화한 건설경기 침체가 중견사들의 자금줄을 압박하고 있다는 분석이 나온다. 태왕 본사 전경. (사진=태왕이앤씨) 25일 건설업계에 따르면...",
-    "published_at": "2026-08-25T14:48:00+09:00",
-    "cluster_id": "bd32",
-    "publisher": "asiatime.co.kr",
-    "title_clean": "시평 67위 태왕이앤씨 법정관리 신청…흔들리는 지방 건설사",
-    "summary": "시공순위 67위인 태왕이앤씨가 유동성 위기로 법정관리를 신청했다. 흑자 기업까지 자금난을 겪으면서 장기화한 건설경기 침체가 중견 건설사들의 경영을 악화시키고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-25T14:59:38+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[로컬 게시판/부산항만공사] 폭염 속 건설현장 안전관리 만전 - betanews.net",
-    "link": "https://www.betanews.net/article/view/beta202608250061",
-    "description": "24일엔 부산항국제전시컨벤션센터(BPEX)에서 소규모 건설현장과 긴급 유지보수공사 현장 관계자를 대상으로 '소규모 건설현장 안전역량 강화 세미나'를 개최했다. 25일엔 김호영 건설본부장이 태풍·집중호우 및 폭염에...",
-    "published_at": "2026-08-25T14:54:00+09:00",
-    "cluster_id": "f839",
-    "publisher": "betanews.net",
-    "title_clean": "[로컬 게시판/부산항만공사] 폭염 속 건설현장 안전관리 만전",
-    "summary": "부산항만공사가 폭염 등 악천후 속 건설현장 안전관리를 강화하고 있다. 소규모 건설현장 관계자를 대상으로 안전역량 강화 세미나를 개최하고 현장 점검을 실시 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-25T14:59:38+09:00",
     "importance": 3
   }
 ]
