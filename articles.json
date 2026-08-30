@@ -20783,6 +20783,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[일요와이드] 대응팀 네팔 육상 수색 확대…'셰르파' 동행 - yonhapnewstv.co.kr",
+    "link": "http://www.yonhapnewstv.co.kr/news/MYH202608302042239wJ",
+    "description": "어디를 중점적으로 훑어봐야 할지 정창삼 인덕대 스마트건설방재학과 교수 모시고 짚어보겠습니다. <질문 1> 빙하 붕괴로 인한 대홍수 당시 상황을 보여주는 영상이 공개됐습니다. 연락 두절된 한국인 9명이 근무하던...",
+    "published_at": "2026-08-30T20:43:00+09:00",
+    "cluster_id": "ab51",
+    "publisher": "yonhapnewstv.co.kr",
+    "title_clean": "[일요와이드] 대응팀 네팔 육상 수색 확대…'셰르파' 동행",
+    "summary": "네팔에서 빙하 붕괴로 인한 대홍수가 발생했으며, 현장에 근무 중이던 한국인 9명과의 연락이 두절되어 대응팀이 육상 수색을 확대하고 있습니다. 전문가 자문을 통해 수색 지역을 체계적으로 진행 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-30T20:48:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32174,21 +32190,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-25T10:59:25+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "도공, 10기 설계심의위원 발표… 계양강화道 사업자 선정 등 담당 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/news-detail/2026082510374116198",
-    "description": "분과별로는 ▲도로 및 교통 25명 ▲토목구조 22명 ▲토질 및 기초 26명 ▲토목시공 23명 ▲스마트건설기술 16명 ▲안전 16명이다. 10기 위원들의 임기는 내년 8월까지다. 이들은 임기 동안 계양∼강화 고속도로 1공구...",
-    "published_at": "2026-08-25T10:40:00+09:00",
-    "cluster_id": "9a9f",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "도공, 10기 설계심의위원 발표… 계양강화道 사업자 선정 등 담당",
-    "summary": "도공이 10기 설계심의위원 128명을 발표했으며, 도로·토목·안전 등 6개 분과로 구성되어 내년 8월까지 임기를 수행한다. 위원들은 계양~강화 고속도로 등 주요 사업의 설계심의를 담당할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-25T10:49:42+09:00",
-    "importance": 2
   }
 ]
