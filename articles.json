@@ -20816,6 +20816,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "전국 건설한파 비껴간 울산…공사액 9.6%↑, 계약은 8조원대 '정체' - iusm.co.kr",
+    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1067134",
+    "description": "전국 건설경기가 1998년 외환위기 이후 가장 큰 폭의 기성 감소를 기록한 지난해 울산은 건설공사 실적이 두 자릿수에 가까운 증가세를 보인 것으로 나타났다. 이같은 상황에서 공사 물량을 지역...",
+    "published_at": "2026-08-30T15:26:00+09:00",
+    "cluster_id": "fbb0",
+    "publisher": "iusm.co.kr",
+    "title_clean": "전국 건설한파 비껴간 울산…공사액 9.6%↑, 계약은 8조원대 '정체'",
+    "summary": "전국 건설경기가 외환위기 이후 최악의 기성 감소를 기록한 가운데 울산은 공사액 9.6% 증가로 건설한파를 비껴간 것으로 나타났다. 다만 신규 계약은 8조원대에 머물러 향후 공사량 확보에 대한 우려가 제기되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-30T15:33:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32173,21 +32189,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-25T09:56:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "(강관) 건설 수주 감소에 판매 경쟁 이어져 - 철강금속신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54SzdIM0lKR19WcDB4WU5nRGlkQjhoaGtjYWIzeWR3bk1YRzktVkV3TE5UX05UQnJDWFFnWlBYdFJXOTV1MGU2Q2ppZ0JPQ1FRYjc0N0tDTUZsb3lPbjBNc2x4d1duR25fSHc?oc=5",
-    "description": "최근 강관업계가 건설 수주 감소에 제품판매에도 영향을 미치고 있다. 특히 건설 수주가 줄면서 강관업계에 판매 경쟁으로 이어지고 있는 상황이다.업계에 따르면 공공 수주는 늘었지만 민간 건설시장이 얼어붙으면서 건설경기 회복이 지연되고 있다. 지난 6월 건설수주는 전년보다 20% 넘게 감소했고 건설업 취업자 수도 1년 전보다 줄었다. 자재비 부담까지 커지면서 업계 체감경기도 다시 악화됐다.민간수주는 토목·주택·비주택 부문이 모두 줄면서 41.5% 급감했다. 공공 발주 확대만으로 민간 부문의 위축을 만회하기에는 역부족이었다는 분석이다.상황",
-    "published_at": "2026-08-25T09:46:46+09:00",
-    "cluster_id": "5ba2",
-    "publisher": "철강금속신문",
-    "title_clean": "(강관) 건설 수주 감소에 판매 경쟁 이어져",
-    "summary": "건설 수주 감소로 강관업계의 판매 경쟁이 심화되고 있다. 민간 건설시장 위축으로 6월 건설수주가 전년 대비 20% 이상 감소했으며, 공공 수주 증가만으로는 부족한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-25T09:54:36+09:00",
-    "importance": 4
   }
 ]
