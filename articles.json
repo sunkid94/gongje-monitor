@@ -20784,6 +20784,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "카이스트 연구팀, '1만원대 비용으로 몰카 감지' AI신기술 개발 - 녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GT2xhYTViX0JHZXF1R2xTRmNSaWU1R2s1angyVFBYZjU0QXk1RmFVdFV3NUpOQ3IyVF9DS2U3cndXTTM5aVBFMHFRYzhjeWlwZ2xiMmNaRXNwcEdvdFJmckRKamZNNllM?oc=5",
+    "description": "[녹색경제신문 = 김지문 기자]한국과학기술원(카이스트)에서 저비용으로 불법 촬영 카메라를 탐지할 수 있는 AI기술을 개발했다. 30일 카이스트 전산학부 한준 교수 연구팀은 싱가포르국립대 등과 공동연구를 통해 스마트폰 케이스에 부착해 불법 촬영 카메라를 탐지해낼 수 있는 AI기술 ‘스윕LED’를 개발했다고 밝혔다. 스윕LED는 LED 조명을 통해 물체 표면에서 나타나는 반사광의 패턴을 AI로 분석해 불법 촬영 카메라를 포착한다. 한준 교수는 과 인터뷰에서 “쉽게 말해 스마트폰 케이스와 비슷한 부착물을 달면 기존의 스마트",
+    "published_at": "2026-08-30T12:00:00+09:00",
+    "cluster_id": "d3bb",
+    "publisher": "녹색경제신문",
+    "title_clean": "카이스트 연구팀, '1만원대 비용으로 몰카 감지' AI신기술 개발",
+    "summary": "카이스트 연구팀이 싱가포르국립대와 공동으로 스마트폰 케이스 부착형 AI기술 '스윕LED'를 개발했다. LED 조명으로 반사광 패턴을 분석해 1만원대 저비용으로 불법 촬영 카메라를 탐지할 수 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-31T05:43:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32175,21 +32191,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-25T11:29:45+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[함께가자 우리ESG] 반도건설, 협력사 안전문화교육 실시 - 뉴스락",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GX19pT05yY01xMklmMENZX3VDSC1nN0Z6OHVSVU81clVqN1V3MmozTGRnR1lRcGlWZlJtT3hIcnpUVHYzUkhMT3JjS0JTNUJQa1lZV0dCMEFSTUoxbEVLUTlIWVlqN01YTkI1QQ?oc=5",
-    "description": "[뉴스락] 반도건설이 협력사 임직원을 대상으로 안전문화체험교육을 실시하고, 폭염과 태풍·장마 등 기후재난에 대비한 전국 공사현장 안전·보건 점검을 진행했다고 25일 밝혔다.이번 교육은 반도건설의 2026년 안전보건목표 추진 계획 가운데 ‘안전보건교육을 통한 현장 재해예방 역량 강화’의 일환으로 마련됐다.현장에서 진행하는 정기 교육과 별도로 반도건설 및 협력사 임직원을 대상으로 실시했다.교육에는 현장소장과 관리감독자가 참여했다. 공사가 진행 중인 고위험 공종과 현장에서 빈번히 이뤄지는 주요 공종의 안전관리 내용을 다뤘다. 교육을 이수",
-    "published_at": "2026-08-25T11:07:00+09:00",
-    "cluster_id": "a7e3",
-    "publisher": "뉴스락",
-    "title_clean": "[함께가자 우리ESG] 반도건설, 협력사 안전문화교육 실시",
-    "summary": "반도건설이 협력사 임직원을 대상으로 안전문화체험교육을 실시하고 전국 공사현장에 대한 안전·보건 점검을 진행했다. 이는 2026년 안전보건목표 달성을 위해 현장 재해예방 역량 강화에 중점을 두는 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-25T11:29:45+09:00",
-    "importance": 2
   }
 ]
