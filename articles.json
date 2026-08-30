@@ -4824,6 +4824,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "성남시, 아파트 밑 지나던 수광선 산들마을 밖으로 돌렸다 - cnbnews.com",
+    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1013402",
+    "description": "성남시는 산들마을 주민대표와 사업 시행자인 국가철도공단, 시공사인 롯데건설이 국민권익위원회 조정을 통해 노선 변경에 최종 합의했다. 합의에 따라, 아파트 직하부를 지나던 철도 선형은 단지 외부로 옮겨진다....",
+    "published_at": "2026-08-30T15:46:00+09:00",
+    "cluster_id": "4dd9",
+    "publisher": "cnbnews.com",
+    "title_clean": "성남시, 아파트 밑 지나던 수광선 산들마을 밖으로 돌렸다",
+    "summary": "성남시가 산들마을 주민과 국가철도공단, 롯데건설 간의 노선 변경 분쟁을 국민권익위원회 조정을 통해 합의 해결했다. 아파트 직하부를 지나던 수광선 철도를 단지 외부로 옮기기로 확정했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-30T15:53:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20800,19 +20816,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "남종섭 경기도의장 \"네팔 실종 도민과 국민 모두 무사생환하길\" - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=04073766645551584&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "관광객 403명이 실종됐으며 이 가운데 341명은 외국인이다. 중국 측에서도 265명이 실종된 것으로 파악됐다. 현지 수력발전소 건설 현장에서 근무하던 한국남동발전과 두산에너빌리티 소속 한국인 9명도 실종된 상태다.",
-    "published_at": "2026-08-27T15:21:00+09:00",
-    "cluster_id": "7935",
-    "publisher": "edaily.co.kr",
-    "title_clean": "남종섭 경기도의장 \"네팔 실종 도민과 국민 모두 무사생환하길\"",
-    "summary": "네팔에서 수력발전소 건설 현장의 사고로 관광객 403명이 실종되었으며, 한국남동발전과 두산에너빌리티 소속 한국인 9명도 포함되어 있다. 경기도의장이 무사생환을 바라는 입장을 표했다.",
+    "title": "[단독] 20대 건설사서 5년여간 산재로 296명 숨져…절반 가까이 '질병' [건설현장 질병 경고등] - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tUzhEMDVaZERkT2Q1N2RBbGxiY3pGcUhKeGd0aGZUYWhTMHR4MnNTaEZDcDNZR0lBNVVCX1FiV0dhSzJSSVJ1R2NkVjZ3ZFMwMHRn?oc=5",
+    "description": "한눈에 보는 오늘 : 사회 - 뉴스 : 사고사망 152명\\·질병사망 144명",
+    "published_at": "2026-08-30T15:10:00+09:00",
+    "cluster_id": "dc38",
+    "publisher": "네이트",
+    "title_clean": "[단독] 20대 건설사서 5년여간 산재로 296명 숨져…절반 가까이 '질병' [건설현장 질병 경고등]",
+    "summary": "20대 건설사에서 5년여간 296명이 산재로 사망했으며, 이 중 사고사망 152명, 질병사망 144명으로 절반 가까이가 질병으로 인한 사망인 것으로 나타났다. 건설현장의 열악한 안전·보건 환경 실태가 드러나며 업계 전반의 구조적 문제를 시사하고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-08-27T15:25:06+09:00",
+    "collected_at": "2026-08-30T15:53:20+09:00",
     "importance": 4
   },
   {
@@ -32174,21 +32190,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-25T10:04:36+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "(글로벌GNA)김홍수 회장, “전문성 제대로 평가받는 건설시장 만들겠다” - 글로벌뉴스통신GNA",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xMnYzemV5djZjbGM1OEhrdFcwMXZ4bWtYSm9uay1GM0tiZ2dlY3VEdkk4LWVxUmlLdXRTOHFmQjhPUlpvYWxxRThBSTF6Rm5DVzMtQlZwRGVjRGN6aWQ5amhGVk50RUZ5MTdHTVFkVUpVd1FM?oc=5",
-    "description": "“현장의 목소리를 제도 변화로” 전문건설업의 권익과 경쟁력 강화에 앞장 적정공사비·공정한 시장질서·안전과 품질, 전문건설의 지속가능한 미래 강조[서울=글로벌뉴스통",
-    "published_at": "2026-08-25T09:48:41+09:00",
-    "cluster_id": "1eb7",
-    "publisher": "글로벌뉴스통신GNA",
-    "title_clean": "(글로벌GNA)김홍수 회장, “전문성 제대로 평가받는 건설시장 만들겠다”",
-    "summary": "김홍수 회장이 전문건설업의 권익 강화와 경쟁력 제고를 위해 적정공사비, 공정한 시장질서, 안전과 품질을 강조하며 현장의 목소리를 제도 변화로 반영하겠다고 밝혔다. 전문건설의 지속가능한 미래를 위한 개선 의지를 표현했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-25T09:59:25+09:00",
-    "importance": 2
   }
 ]
