@@ -20816,6 +20816,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "함안 칠서정수장 크레인 전도 사고 협의 마무리 - idomin.com",
+    "link": "https://www.idomin.com/news/articleView.html?idxno=2013522",
+    "description": "민주노총 건설산업연맹 전국건설노동조합 부울경본부 관계자 설명을 종합하면, 사고 처리 비용은 창원시 영조물 책임보험과 시공사 부담으로 정리됐다. 창원시가 가입한 영조물 책임보험 한도 안에서 일부 비용을...",
+    "published_at": "2026-08-30T14:42:00+09:00",
+    "cluster_id": "4f49",
+    "publisher": "idomin.com",
+    "title_clean": "함안 칠서정수장 크레인 전도 사고 협의 마무리",
+    "summary": "함안 칠서정수장 크레인 전도 사고의 처리 비용이 창원시 영조물 책임보험과 시공사 부담으로 정리되며 협의가 마무리됐다. 사고 처리 방안이 보험과 시공사 책임으로 구체화되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-30T14:48:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32172,22 +32188,6 @@
     "summary": "국토안전관리원이 SOC·안전분야 준정부기관 최초로 심리사회적 위험관리 국제표준 ISO 45003 인증을 취득했다. 근로자의 정신건강과 심리적 안정까지 포함한 통합 안전보건관리체계를 구축하며 안전관리 기준을 강화했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-25T09:46:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "야간 자재 운반 로봇으로, 건설현장 '24시간' 운영 - engjournal.co.kr",
-    "link": "http://www.engjournal.co.kr/news/articleView.html?idxno=3941",
-    "description": "2026년 4월 수주한 국토교통부 건설로봇 국책과제를 통해 제품의 신뢰성과 안전성을 표준 수준까지 끌어올리는 작업도 병행하고 있다. 국내 현장 적용 사례를 바탕으로 해외 시장 진출도 꾀하고 있다. 미국은 인력난이...",
-    "published_at": "2026-08-25T09:40:00+09:00",
-    "cluster_id": "b93c",
-    "publisher": "engjournal.co.kr",
-    "title_clean": "야간 자재 운반 로봇으로, 건설현장 '24시간' 운영",
-    "summary": "건설현장의 야간 자재 운반 로봇 기술로 24시간 운영 체계를 구축하고 있다. 국토교통부 국책과제를 통해 제품 신뢰성을 고도화하고 국내 현장 적용 사례를 바탕으로 해외 시장 진출을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-25T09:44:33+09:00",
     "importance": 2
   }
 ]
