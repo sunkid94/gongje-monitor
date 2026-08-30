@@ -4824,6 +4824,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "나우씨엠, 대전 도마변동 3구역 재개발 건축감리 예약 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608281708100150764",
+    "description": "GS건설, 현대건설, 포스코이앤씨가 시공하며 예건종합건축사사무소 설계를 맡았다. 앞서 경기주택도시공사(GH)가 PQ(사업수행능력평가)+SOQ(기술인평가) 방식으로 개찰한 ‘GH Biz&광교 건립사업 감독권한대행 등...",
+    "published_at": "2026-08-30T16:40:00+09:00",
+    "cluster_id": "3af0",
+    "publisher": "대한경제",
+    "title_clean": "나우씨엠, 대전 도마변동 3구역 재개발 건축감리 예약",
+    "summary": "나우씨엠이 대전 도마변동 3구역 재개발 사업의 건축감리를 예약했으며, GS건설·현대건설·포스코이앤씨가 시공을 맡는다. 예건종합건축사사무소가 설계를 담당하는 대규모 재개발 프로젝트이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-30T16:48:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20798,22 +20814,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-27T15:40:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "SGC E&C",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "SGC E&C, 산업·환경설비 공사실적 10위…플랜트 경쟁력 강화 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202608271507527312",
-    "description": "SGC E&C가 국토교통부가 발표한 2025년 종합건설업 공사실적 평가에서 산업·환경설비 부문 10위에 올랐다. 27일 SGC E&C에 따르면 회사는 최근 3년 동안 건설사 시공능력평가 '산업·환경설비' 부문에서 지속 상승세를...",
-    "published_at": "2026-08-27T15:32:00+09:00",
-    "cluster_id": "b938",
-    "publisher": "fnnews.com",
-    "title_clean": "SGC E&C, 산업·환경설비 공사실적 10위…플랜트 경쟁력 강화",
-    "summary": "SGC E&C가 국토교통부 2025년 종합건설업 공사실적 평가에서 산업·환경설비 부문 10위를 기록했으며, 최근 3년간 해당 부문에서 지속적인 상승세를 보이고 있다. 이는 회사의 플랜트 경쟁력 강화를 의미하는 긍정적인 평가 결과다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-27T15:40:37+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 노동",
