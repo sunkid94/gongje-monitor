@@ -4824,6 +4824,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "네팔 대홍수 실종자 3000명으로 늘어…사망 675명 - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026083009161631022",
+    "description": "네팔 어퍼트리슐리(UT)-1 수력발전소 건설 현장에서는 두산에너빌리티 직원 6명과 한국남동발전 직원 3명 등 한국인 9명의 연락이 끊긴 상태다. 네팔 구조 당국은 침수된 발전소 터널 내부에 100명 이상이 갇혀 있는...",
+    "published_at": "2026-08-30T09:16:00+09:00",
+    "cluster_id": "f099",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "네팔 대홍수 실종자 3000명으로 늘어…사망 675명",
+    "summary": "네팔 대홍수로 사망 675명, 실종자 3000명으로 늘어났으며, 한국 건설사(두산에너빌리티, 한국남동발전) 직원 9명이 수력발전소 건설 현장에서 연락이 끊긴 상태다. 침수된 터널 내부에 100명 이상이 갇혀있는 것으로 추정되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-30T09:23:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20798,22 +20814,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-27T12:59:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 장중 상승세...계약 공시·IR 기대감 반영 : 기업주식정보 - 재경일보",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90R3ZvSVpFYXprSnVKeTRqbzZYR056TWg3WTB5dFZIaWFwRjFKcnlWbUVCUWhSYm93ZjJjQlVBTTVIQm9nNUUteHd3?oc=5",
-    "description": "두산에너빌리티(034020) 주가가 이날 장중 소폭 상승세를 이어가고 있다. 현재 86,100원에 거래되며 전 거래일 대비 300원(0.35%) 오른 수치다. 최근 공시된 단일판매·공급 계약 체결 소식과 기업설명회 개최 예고가 긍정적인 투자 심리를 자극하는 것으로 풀이된다. 두산에너빌리티(034020)는 2026년 08월 27일 현재 코스피 시장에서 견조한",
-    "published_at": "2026-08-27T01:25:30+00:00",
-    "cluster_id": "43dd",
-    "publisher": "재경일보",
-    "title_clean": "두산에너빌리티, 장중 상승세...계약 공시·IR 기대감 반영 : 기업주식정보",
-    "summary": "두산에너빌리티 주가가 단일판매·공급 계약 체결 공시와 기업설명회 개최 예고로 인해 장중 소폭 상승세를 보이고 있다. 신규 계약 체결과 IR 활동이 투자자들의 긍정적 심리를 자극하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-27T12:59:57+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
