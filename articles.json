@@ -5199,21 +5199,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "직불합의면 안심?…건설하청 4곳 중 1곳 대금 전액 못 받아[세쓸통] - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260731_0003731274",
-    "description": "지급보증은 원사업자가 부도·파산 등으로 하도급대금을 지급하지 못할 경우 건설공제조합이나 서울보증보험 등 제3의 보증기관이 수급사업자에게 대금을 대신 지급하는 제도입니다. 직불합의가 돈을 누구에게서 받을지...",
-    "published_at": "2026-08-02T07:00:00+09:00",
-    "cluster_id": "7eee",
-    "publisher": "newsis.com",
-    "title_clean": "직불합의면 안심?…건설하청 4곳 중 1곳 대금 전액 못 받아[세쓸통]",
-    "summary": "건설하청업체가 직불합의를 체결했어도 원사업자 부도 시 지급보증기관(건설공제조합, 서울보증보험 등)을 통해 대금을 받는 구조로, 4곳 중 1곳이 전액을 받지 못하는 현황을 지적하고 있다. 지급보증 제도의 실효성 한계를 드러내는 뉴스.",
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "제주 실종 \"타살 가능성 낮다\"더니…경찰, 일주일 만에 \"사인 불명\"[오늘... - nocutnews.co.kr",
+    "link": "https://www.nocutnews.co.kr/news/6571007?utm_source=naver&utm_medium=article&utm_campaign=20260901072314",
+    "description": "네팔 고립 韓직원 9명 귀국 네팔 대홍수로 한때 피해 지역에 고립됐던 한국인 10명 가운데 두산에너빌리티 직원 9명이 오늘 무사히 귀국한 가운데, 현지에 남은 현장소장은 실종된 한국인 9명에 대한 수색을 지원하고...",
+    "published_at": "2026-09-01T07:24:00+09:00",
+    "cluster_id": "6484",
+    "publisher": "nocutnews.co.kr",
+    "title_clean": "제주 실종 \"타살 가능성 낮다\"더니…경찰, 일주일 만에 \"사인 불명\"[오늘...",
+    "summary": "네팔 대홍수로 고립되었던 한국인 10명 중 두산에너빌리티 직원 9명이 귀국했으며, 현지 남은 현장소장은 실종된 한국인 9명의 수색을 지원 중이다. 해외 건설 현장의 자연재해로 인한 인명 피해 및 실종 사태가 발생했다.",
     "sentiment": "negative",
-    "collected_at": "2026-08-02T07:07:46+09:00",
-    "event_label": "건설공제조합 지급보증 실적 미흡 – 하청업체 대금회수율 저조",
-    "importance": 7
+    "collected_at": "2026-09-01T07:34:02+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -21198,22 +21197,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-28T22:50:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "산들마을 아파트 밑 지나던 수광선 노선, 단지 밖으로 조정 - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260828010009949",
-    "description": "28일 성남시에 따르면, 산들마을 주민 대표와 국가철도공단, 시공사인 롯데건설은 권익위 조정 절차를 통해 기존에 단지 아래를 통과하기로 했던 전철 노선을 단지 외부로 변경하기로 했다. 아울러 공사와 운영 과정에서...",
-    "published_at": "2026-08-28T22:34:00+09:00",
-    "cluster_id": "415b",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "산들마을 아파트 밑 지나던 수광선 노선, 단지 밖으로 조정",
-    "summary": "성남시 산들마을 아파트 단지 아래를 통과하기로 했던 수광선 전철 노선이 권익위 조정을 통해 단지 외부로 변경되었다. 주민 민원 해결로 공사 지연 및 설계 변경에 따른 추가 비용이 발생할 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T22:40:11+09:00",
-    "importance": 4
   },
   {
     "keyword": "스마트건설",
