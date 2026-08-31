@@ -5216,6 +5216,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "中 코스코·헝리, 80억弗 발주와 신기록… 韓 조선, 고부가 시장 정면 압... - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=202608311729088265fbbec65dfb_1",
+    "description": "한국 가스선 시장 수주 경쟁 압박 중국 조선업계의 대형 LNG 추진선 대량 수주와 야드 확장은 한국 조선 3사(HD한국조선해양·삼성중공업·한화오션)의 고부가가치 선종 수주 전략에 직접적인 영향을 미친다....",
+    "published_at": "2026-09-01T03:16:00+09:00",
+    "cluster_id": "5218",
+    "publisher": "",
+    "title_clean": "中 코스코·헝리, 80억弗 발주와 신기록… 韓 조선, 고부가 시장 정면 압... - g-enews.com",
+    "summary": "중국 조선업체 코스코와 헝리가 80억 달러 규모 LNG 추진선을 대량 수주하며 조선소 확장을 진행 중이다. 이러한 중국의 공격적 시장 진출은 한국 조선 3사의 고부가가치 선종 수주 전략에 직접적인 경쟁 압박으로 작용하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-01T03:34:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21195,22 +21211,6 @@
     "publisher": "segye.com",
     "title_clean": "히말라야 대홍수 사망 543명·실종 1535명…한국인 9명 여전히 연락두절",
     "summary": "히말라야 지역 대홍수로 543명 사망, 1535명 실종되었으며, 수력발전소 건설 중인 한국남동발전과 두산에너빌리티 소속 한국인 9명이 연락 두절 상태다. 네팔 정부가 외국 수색·구조팀의 현장 진입을 제한하면서 한국인 구조 작업에 어려움이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T20:40:38+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'고립 잔류' 한국인 1명도 안전지역으로 이송 - yonhapnewstv.co.kr",
-    "link": "http://www.yonhapnewstv.co.kr/news/MYH202608282031323CU",
-    "description": "앞서 어제(27일) 오후 수력발전소 건설 현장에 고립됐던 한국인 10명 중 9명이 헬기로 이송됐지만, 두산에너빌리티 소속 현장소장은 네팔인 직원이 모두 구조될 때까지 기다리겠다는 뜻을 밝혀 남은 바 있습니다. 이로써...",
-    "published_at": "2026-08-28T20:32:00+09:00",
-    "cluster_id": "e9e8",
-    "publisher": "yonhapnewstv.co.kr",
-    "title_clean": "'고립 잔류' 한국인 1명도 안전지역으로 이송",
-    "summary": "네팔 수력발전소 건설 현장에 고립됐던 한국인 10명 중 9명이 헬기로 구조되었으며, 현장소장은 남은 네팔인 직원들이 모두 안전하게 구조될 때까지 대기 중입니다. 해외 건설 현장의 안전사고로 인한 인명 피해 상황이 발생했습니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-28T20:40:38+09:00",
     "importance": 4
