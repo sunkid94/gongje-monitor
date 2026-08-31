@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "엔지니어링협회, 공공 발주 담당자 160명 대상 실무교육 … 분쟁 대응 역... - worktoday.co.kr",
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88625",
+    "description": "엔지니어링산업 진흥법의 주요 개정 내용을 비롯해 표준품셈과 대가산정서비스, 엔지니어링공제조합 보증제도 등이 소개됐다. 발주 담당자들이 사업 추진 과정에서 활용할 수 있는 제도와 지원 수단을 폭넓게 파악할 수...",
+    "published_at": "2026-08-31T12:48:00+09:00",
+    "cluster_id": "a42e",
+    "publisher": "worktoday.co.kr",
+    "title_clean": "엔지니어링협회, 공공 발주 담당자 160명 대상 실무교육 … 분쟁 대응 역...",
+    "summary": "엔지니어링협회가 공공 발주 담당자 160명을 대상으로 엔지니어링산업 진흥법 개정 내용, 표준품셈, 대가산정서비스, 엔지니어링공제조합 보증제도 등을 소개하는 실무교육을 개최했다. 발주 담당자들이 사업 추진 과정에서 활용할 수 있는 제도와 지원 수단을 제시하는 교육이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-31T12:56:00+09:00",
+    "event_label": "엔지니어링공제조합 공공 발주 담당자 대상 실무교육 개최",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -5044,6 +5061,22 @@
     "collected_at": "2026-08-02T07:07:46+09:00",
     "event_label": "건설공제조합 지급보증 실적 미흡 – 하청업체 대금회수율 저조",
     "importance": 7
+  },
+  {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, '안울림R' 국토부 인증 획득...\"리모델링 층간소음도 잡... - popcornnews.net",
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=131285",
+    "description": "포스코이앤씨가 리모델링 아파트 전용 층간소음 저감 기술인 'AnwoollimR(안울림R)'을 개발, 국토교통부 '층간소음 사후확인제 인증'을 국내 최초로 획득했다고 31일 밝혔다. 층간소음 사후확인제는 시공 후 실제 현장에서...",
+    "published_at": "2026-08-31T12:46:00+09:00",
+    "cluster_id": "057f",
+    "publisher": "popcornnews.net",
+    "title_clean": "포스코이앤씨, '안울림R' 국토부 인증 획득...\"리모델링 층간소음도 잡...",
+    "summary": "포스코이앤씨가 리모델링 아파트 층간소음 저감 기술 '안울림R'을 개발하여 국토교통부 층간소음 사후확인제 인증을 국내 최초로 획득했다. 이는 리모델링 시장에서 기술 차별화를 통한 수주 경쟁력 강화를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-31T12:56:00+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21027,19 +21060,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설 PF",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산·남동발전 대응팀 곧 네팔 현지 도착 - 국제신문",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTJpRjJzdkh3dmR2cVYxMlNYTE50SllQOVhzdlZUMEhzYldkWDE4WlkxWW9zS2VWallUMFZybHNHdW85cnd0NDhGQU85dzR3SEdIeEhBV1Rzc0FvUlNTU1pJWGh1MExtMUlMRDlESFk2VTBJMDBXNHBwMFY3b0pEd1FZVnp2dS0wT1RHdmhLTURNUVU?oc=5",
-    "description": "네팔에서 발생한 홍수로 연락 두절된 한국인 근로자 9명을 찾기 위해 파견된 두산에너빌리티, 한국남동발전 현장 대응팀이 곧 현지에 도착한다. 지난 26일 네팔..",
-    "cluster_id": "53ba",
-    "publisher": "국제신문",
-    "title_clean": "두산·남동발전 대응팀 곧 네팔 현지 도착",
-    "summary": "네팔 홍수로 연락이 끊긴 한국인 근로자 9명 구조를 위해 두산에너빌리티와 한국남동발전의 현장 대응팀이 네팔로 파견되어 곧 현지 도착할 예정이다. 기업들이 신속한 대응에 나서고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T23:00:21+09:00",
-    "importance": 4
+    "title": "주금공, PF 공적보증 강화로 주택공급 활성화…8·13대책 후속조치 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KV1ZfdWhhZHYxUWstN29sMmtRRmphUzB3X1VoUXF0dmFmRm1VeXZZRWZXU2VEbTJrRjJ1YzZza3NSZHA1VjJPNTFjaUFrYVJkV1IzOGlDQUVjc3JpRE9sc0xZQkM3MjFxZTk1OWg2amHSAXBBVV95cUxOSldWX3VoYWR2MVFrLTdvbDJrUUZqYVMwd19VaFFxdHZhZkZtVXl2WUVmV1NlRG0ya0YydWM2c2tzUmRwNVYyTzUxY2lBa2FSZFdSMzhpQ0FFY3NyaURPbHNMWUJDNzIxcWU5NTloNmph?oc=5",
+    "description": "한국주택금융공사가 부동산 프로젝트파이낸싱(PF) 사업장에 대한 원활한 자금공급을 지원하고 주택공급을 촉진하기 위해 보증비율을 한시적으로 확대하고, 사업자보증 관련 규제도 완화한다고 31일 밝혔다.",
+    "published_at": "2026-08-31T11:16:43+09:00",
+    "cluster_id": "8ea9",
+    "publisher": "머니투데이",
+    "title_clean": "주금공, PF 공적보증 강화로 주택공급 활성화…8·13대책 후속조치 - 머니투데이",
+    "summary": "한국주택금융공사가 PF 사업장의 자금공급 활성화를 위해 보증비율을 한시적으로 확대하고 사업자보증 규제를 완화한다. 이는 주택공급 촉진과 건설업계 자금난 해소를 위한 8·13대책의 후속조치이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-08-31T12:56:00+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32201,38 +32235,6 @@
     "summary": "수요자의 선택 기준이 입지·가격에서 브랜드·설계·주거경험으로 변화하고 있으며, 건설현장 안전에 대한 사회적 요구도 증가하면서 건설사들의 경쟁 전략이 복합화되고 있다. 이는 건설업계에 더 높은 품질과 안전 기준 충족이 요구되는 상황을 의미한다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-26T11:40:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "폭염·태풍에 무너지는 건설현장···반도건설 '기후재난 안전관리' 고삐 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1bXdkNVNIU2t5Yi1RNzRaN0F0amFpZ0NVR2pwbXJ4T0hOdkFxVHl0ejJlYzFLLTFjX0xjM3hiUHhYN1ZQLVFta1JMZ3I1N0xqN0RF?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : | 스마트비즈 = 최형호 기자 | 폭염에 집중호우, 태풍까지 건설현장을 둘러싼 기후 리스크가 커지면서 건설업계의 안전관리 방식도 달라지고 있다. 단순히 사고 발생 이후 대응하는 수준을 넘어 기상 상황을 사전에 예측하고 공정별 위험요인을 선제적으로 관리",
-    "published_at": "2026-08-26T11:21:00+09:00",
-    "cluster_id": "c5f4",
-    "publisher": "네이트",
-    "title_clean": "폭염·태풍에 무너지는 건설현장···반도건설 '기후재난 안전관리' 고삐",
-    "summary": "폭염, 집중호우, 태풍 등 기후 리스크가 증가하면서 건설현장의 안전관리 방식이 사후 대응에서 사전 예측 기반으로 전환되고 있다. 반도건설 등 업체들이 기상 상황 예측과 공정별 위험요인의 선제적 관리를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-26T11:40:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "롯데건설, '경기광주역 롯데캐슬 시그니처 2단지' 9월 분양 예정 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MQVBYa1E2OHlkZkRUTXkxSnYwTXRlcWx1VXpEeDJqMDgxa2FCR1NVLWtnR2JvZXZrdzdENUloOEVYVUdLbkxMS0p0NG5IMHlCWXdj?oc=5",
-    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 롯데건설은 경기 광주시 쌍령동에 조성하는 ‘경기광주역 롯데캐슬 시그니처 2단지’를 오는 9월 분양한다고 26일 밝혔다. 경기광주역 롯데캐슬 시그니처는 광주시 양벌동과 쌍령동 일대에 총 2326가구 규모로 조성된다. 앞서 공급에 나선 1단지 1077가구",
-    "published_at": "2026-08-26T11:11:00+09:00",
-    "cluster_id": "eaa8",
-    "publisher": "네이트",
-    "title_clean": "롯데건설, '경기광주역 롯데캐슬 시그니처 2단지' 9월 분양 예정",
-    "summary": "롯데건설이 경기 광주시에 조성 중인 '경기광주역 롯데캐슬 시그니처 2단지'를 9월에 분양 예정이다. 1단지 1077가구에 이어 2단지가 공급되며, 전체 프로젝트는 2326가구 규모로 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-26T11:25:01+09:00",
     "importance": 2
   }
 ]
