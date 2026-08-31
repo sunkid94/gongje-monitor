@@ -21216,6 +21216,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[사설] 건설현장 불법 하도급, 구조적 원인부터 손봐야 한다 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311606514100039",
+    "description": "<대한경제>가 국토교통부 자료를 분석한 결과 올 상반기 건설산업기본법 등 관계 법령 위반으로 부과된 과징금 처분 151건 가운데 ‘무등록 업체 대상 하도급 및 재하도급’이 82건으로 54.3%를 차지했다. 과징금 처분 두 건...",
+    "published_at": "2026-09-01T04:20:00+09:00",
+    "cluster_id": "4a39",
+    "publisher": "대한경제",
+    "title_clean": "[사설] 건설현장 불법 하도급, 구조적 원인부터 손봐야 한다",
+    "summary": "건설현장 불법 하도급이 적발 처분의 절반 이상을 차지하고 있으며, 이는 구조적 문제에서 비롯된 것으로 지적된다. 업계의 만성적인 법령 위반 문제 해결을 위해 근본적인 원인 개선이 필요하다는 주장이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-01T04:34:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32250,21 +32266,6 @@
     "publisher": "경기도청",
     "title_clean": "「건설산업기본법」 위반 종합건설업체 행정처분(과징금부과) 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스",
     "summary": "경기도가 건설산업기본법 위반으로 종합건설업체에 대한 행정처분(과징금부과)을 공고했습니다. 건설업계의 법규 준수 강화 및 규제 집행이 진행 중입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-27T09:25:16+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "「건설산업기본법」 위반 건설사업자 행정처분(영업정지) 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVlITVNteHNzWUxiV0syQ1M5VUdLUTF3S0tZOExCT0pkaldwYkNFcTdXRU1nRW1FM05LNFFRaG9ldk9yejZTbkMtNnFTWXJrUHdLYWp1UElUR2pGaGVqTmVUMl9iMTBYZFpSWWRiOG82bnZBbGpiN3BHRTFscWN2YlVMLTdNVmVzRDNmQXpnenJ2R3pfbHc?oc=5",
-    "description": "공정, 혁신, 포용의 경기, 경기도의 주요소식, 도민참여, 행정 서비스 안내",
-    "cluster_id": "faa2",
-    "publisher": "경기도청",
-    "title_clean": "「건설산업기본법」 위반 건설사업자 행정처분(영업정지) 공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스",
-    "summary": "경기도가 건설산업기본법 위반 건설사업자에 대해 영업정지 행정처분을 공고했습니다. 건설업계의 법규 준수를 강화하는 조치로, 업계의 규제 강화 신호입니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-27T09:25:16+09:00",
     "importance": 4
