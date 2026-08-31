@@ -20991,6 +20991,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "습식·방수 주력분야위, 경남지역 회원사 애로사항 청취 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326159",
+    "description": "대한전문건설협회(전건협) 습식·방수 주력분야위원회(위원장 유재창)는 31일 경남 전문건설회관에서 경남지역 회원사 간담회를 개최했다.위원회는 지난 3월부터 전국 시·도를 순회하며 지역별 시장 현황을 살피고, 회원사들이 현장에서 겪는 어려움과 제도 개선 건의를 청취하고 있다.이날 간담회에는 유재창 위원장과 김주생 전건협 경남도회장, 지역 회원사 관계자 등 20명이 참석했다.참석자들은 건설경기 침체와 수주물량 감소, 공사비 상승 및 저가수주 등 경영상 어려움을 공유했다. 적정공사비 확보와 불공정 하도급거래 개선, 습식·방수공사의 전문성",
+    "published_at": "2026-08-31T11:11:35+09:00",
+    "cluster_id": "b5aa",
+    "publisher": "대한전문건설신문",
+    "title_clean": "습식·방수 주력분야위, 경남지역 회원사 애로사항 청취",
+    "summary": "대한전문건설협회 습식·방수 주력분야위원회가 경남지역 회원사와 간담회를 열어 건설경기 침체, 수주물량 감소, 저가수주 등의 경영 애로사항을 청취했다. 적정공사비 확보와 불공정 하도급거래 개선 등의 제도 개선을 건의받았다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-31T11:16:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32213,21 +32229,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-26T09:29:17+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김정남 원주부시장, 태장동 옹벽·문막교지구 건설현장 '안전점검' 실시 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sZXFnTG5yb0RsZFlpbVRNWlV4Q3FyU2JhX24xMndIUDNfN0JWd3g1d3RMWlF6SFcxMWplNE1aOTFOVV9rdmQtX0Qwemd4QTlxRzlaLUw2UmZrMXFINVJ1T0JWS1hTU0Z3eExyTnJB?oc=5",
-    "description": "(원주=국제뉴스) 이현복 기자 = 원주시가 지난 25일 태장동 삼정백조아파트 101동 뒤 도시계획도로(소로3-113호) 옹벽과 문막교지구 건설현장에서 김정남 부시장이 안전점검을 실시했다.김정남 원주부시장은 먼저 집중호우로 변위가 발생한 태장동 옹벽 현장을 방문해 긴급 안전조치와 시설물 상태, 추가 위험요인 등을 확인했다.이 구간은 지난 7월 24일부터 도로가 전면 통제되고 안전시설이 설치됐으며, 추가 붕괴 방지를 위한 지지시설 설치 등 긴급 조치가 진행된 곳이다.김 부시장은 현장 점검 후 신속한 보강공사 추진과 함께 도로 통제로 인",
-    "published_at": "2026-08-26T09:12:55+09:00",
-    "cluster_id": "5e54",
-    "publisher": "gukjenews.com",
-    "title_clean": "김정남 원주부시장, 태장동 옹벽·문막교지구 건설현장 '안전점검' 실시",
-    "summary": "원주시가 태장동 옹벽과 문막교지구 건설현장에 대한 안전점검을 실시했다. 7월 집중호우로 변위가 발생한 옹벽은 도로 전면 통제 및 긴급 안전조치가 진행 중이며, 부시장이 보강공사 추진을 지시했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-26T09:29:17+09:00",
-    "importance": 4
   }
 ]
