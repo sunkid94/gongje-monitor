@@ -5199,6 +5199,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "목동12단지 재건축 시공사 입찰 유찰…GS건설 단독 응찰 - sentv.co.kr",
+    "link": "https://www.sentv.co.kr/article/view/sentv202609010006",
+    "description": "지난 7월 열린 현장설명회에는 GS건설을 비롯해 대우건설, 포스코이앤씨, IPARK현대산업개발 등 4개 건설사가 참석했지만 실제 입찰에는 GS건설만 참여했다. 조합은 재입찰 공고를 내고 시공사 선정 절차를 다시...",
+    "published_at": "2026-09-01T08:30:00+09:00",
+    "cluster_id": "2fb2",
+    "publisher": "sentv.co.kr",
+    "title_clean": "목동12단지 재건축 시공사 입찰 유찰…GS건설 단독 응찰",
+    "summary": "목동12단지 재건축 사업의 시공사 입찰에서 GS건설만 단독 응찰하여 유찰되었다. 현장설명회에는 4개 건설사가 참석했으나 실제 입찰 참여는 GS건설뿐이어서 조합이 재입찰을 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-01T08:43:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21178,22 +21194,6 @@
     "publisher": "kmib.co.kr",
     "title_clean": "한국인 9명 아직 연락두절… 정부, 헬기 운항 허가 요청",
     "summary": "네팔에서 발생한 사고로 한국인 9명이 연락두절된 상황에서 두산에너빌리티와 한국남동발전이 현지 당국과 협력하여 구조활동을 진행 중이다. 정부는 헬기 운항 허가를 요청하여 구조 활동을 지원하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-29T00:10:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[주간政談<하>] 네팔 대홍수에 국민 피해도…李 수습 총력 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/ptoday/2359365.htm",
-    "description": "이들은 현지 수력발전소 건설 현장에 파견된 한국남동발전 직원 3명과 두산에너빌리티 직원 6명이야. 이재명 대통령도 메시지를 냈더라. -맞아. 총력을 다하라는 메시지를 지속적으로 내는 한편 주요 일정들도 취소하고...",
-    "published_at": "2026-08-29T00:01:00+09:00",
-    "cluster_id": "4880",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "[주간政談<하>] 네팔 대홍수에 국민 피해도…李 수습 총력",
-    "summary": "네팔 대홍수로 수력발전소 건설 현장에 파견된 한국남동발전과 두산에너빌리티 직원 9명이 피해를 입었다. 이재명 대통령이 총력 수습을 지시하며 주요 일정을 취소하고 대응 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-29T00:10:14+09:00",
     "importance": 4
