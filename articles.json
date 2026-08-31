@@ -20991,6 +20991,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "행복청, \"국립도시건축박물관 우수건축사례로 선 봬\" - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50043",
+    "description": "[건설이코노미뉴스] 행정중심복합도시건설청(이하 행복청·청장 강주엽)은 경상남도 및 시·군 공무원, 건축사회 회원 등 약 50여명이 우수 건축 사례 답사를 위해 8월 28일에 국립도시건축박물관을 방문했다고 31일 밝혔다.국립도시건축박물관은 국내·외 건축 문화활동의 허브로서 도시‧건축에 대한 자료 수집 및 전시를 통해 연구거점 기능을 수행하는 국내 최초 도시건축 전문 박물관이다.해당 박물관은 연면적 21,091㎡의 지하 2층 ‧ 지상 3층 규모로, 향후 전시 소관 부처인 국토교통부의 전시공사를 거쳐 2027년 국립박물관단지 내 두 번째",
+    "published_at": "2026-08-31T11:06:44+09:00",
+    "cluster_id": "6796",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "행복청, \"국립도시건축박물관 우수건축사례로 선 봬\"",
+    "summary": "행복청이 국립도시건축박물관을 우수 건축 사례로 소개하며 경남 공무원과 건축사 50여명이 답사를 진행했다. 국내 최초 도시건축 전문박물관으로 2027년 개관 예정이며 건축 문화 허브로서의 역할을 수행할 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-31T11:12:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32213,20 +32229,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-26T09:29:17+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[부산 브리핑 모음(8월26일)] 부산항만공사, 폭염 속 건설현장 안전관리에 만전 등 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80SmJWM2lVUmFBZksyN1NkazVwTWpKT0hOODNya3BjcWt0YUFtQUJIR09hamdPZjFKQlVTTXFDTW1OaVdPVm5oZGs3ZDlfRWhEOFpWNGZCQXhsQkIyVmxsWGwteHFMUGhhNkplTzF1MDZocDFh?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80SmJWM2lVUmFBZksyN1NkazVwTWpKT0hOODNya3BjcWt0YUFtQUJIR09hamdPZjFKQlVTTXFDTW1OaVdPVm5oZGs3ZDlfRWhEOFpWNGZCQXhsQkIyVmxsWGwteHFMUGhhNkplTzF1MDZocDFh?oc=5\" target=\"_blank\">[부산 브리핑 모음(8월26일)] 부산항만공사, 폭염 속 건설현장 안전관리에 만전 등</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한경제</font>",
-    "cluster_id": "9da5",
-    "publisher": "대한경제",
-    "title_clean": "[부산 브리핑 모음(8월26일)] 부산항만공사, 폭염 속 건설현장 안전관리에 만전 등",
-    "summary": "부산항만공사가 폭염 속 건설현장의 안전관리를 강화하고 있다는 보도. 기후변화에 따른 건설현장 환경 관리 필요성을 보여주는 사실 중심의 뉴스.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-26T09:29:17+09:00",
-    "importance": 2
   }
 ]
