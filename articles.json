@@ -21216,6 +21216,22 @@
     "importance": 4
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "DL건설, 안전 전문가 하정민 대표이사 선임...안전경영 강화 신호탄 - 뉴스웨이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BRWxFQmNKSzNJeFN5NnJRRUZkZ09aTnBHcVF6UDRGZmlnSUxkM0lTUzJpbzZVNGY4akxUVEpqQ091NEk3cVJ2WlJabzJJM0E2d004dWFYaHlucDhlQUxXMUwwWjRNYmJfY2c?oc=5",
+    "description": "DL건설이 현장 출신의 안전 전문가 하정민 CSO를 신임 대표이사로 선임하며 안전경영을 강화한다. 하 대표는 20년 이상 안전관리 경력을 보유하고 데이터 기반 위험관리 시스템 구축 등에서 성과를 냈다. 이번 인사는 중대재해처벌법 등 강화되는 안전 규제에 대응하고, 실적과 능력을 인정받은 내부 인재가 경영을 이끄는 변화로 평가된다.",
+    "published_at": "2026-08-31T18:10:39+09:00",
+    "cluster_id": "4535",
+    "publisher": "뉴스웨이",
+    "title_clean": "DL건설, 안전 전문가 하정민 대표이사 선임...안전경영 강화 신호탄",
+    "summary": "DL건설이 20년 이상 안전관리 경력의 하정민 CSO를 신임 대표이사로 선임하여 안전경영을 강화한다. 중대재해처벌법 등 강화되는 안전 규제에 대응하고 데이터 기반 위험관리 시스템을 확대할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-08-31T19:12:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32245,22 +32261,6 @@
     "publisher": "mt.co.kr",
     "title_clean": "서울시, 모아주택 초기사업비 첫 융자…조합당 최대 20억",
     "summary": "서울시가 건설경기 침체로 자금난을 겪는 소규모주택정비사업 조합을 대상으로 모아주택 초기사업비 융자를 지원하며, 조합당 최대 20억 원까지 가능하다. 이는 정체된 건설시장에 유동성을 공급하여 사업 추진을 촉진하려는 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-27T06:10:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "모아주택 초기사업비 최대 20억 융자…총사업비 5% 이내 지원 - news1.kr",
-    "link": "https://www.news1.kr/realestate/general/6270480",
-    "description": "명노준 서울시 주택실장은 \"건설경기 침체로 자금난을 겪는 소규모주택정비사업 조합이 융자 지원을 통해 어려움을 해소하고 사업을 원활히 추진할 수 있기를 기대한다\"며 \"앞으로도 정비사업 활성화를 위해 지원을...",
-    "published_at": "2026-08-27T06:00:00+09:00",
-    "cluster_id": "a7a7",
-    "publisher": "news1.kr",
-    "title_clean": "모아주택 초기사업비 최대 20억 융자…총사업비 5% 이내 지원",
-    "summary": "서울시가 소규모주택정비사업(모아주택) 조합을 대상으로 초기사업비 최대 20억 원의 융자 지원을 추진한다. 건설경기 침체로 자금난을 겪는 사업 조합의 어려움 해소와 정비사업 활성화를 목표로 하는 정책이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-27T06:10:29+09:00",
     "importance": 2
