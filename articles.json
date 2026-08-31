@@ -21148,6 +21148,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국토안전관리원, 서산 방조제서 현장 이사회…폭염 대응 '총력' - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50052",
+    "description": "[건설이코노미뉴스] 국토안전관리원(원장 박창근)은 충남 서산시 서산A방조제 인근 현장에서 박창근 원장을 비롯해 상임이사, 비상임이사, 노동이사 등이 참여한 가운데 현장 이사회와 폭염 대응 캠페인을 실시했다고 31일 밝혔다.28일 열린 이날 행사는 폭염에 따른 온열질환 위험이 높아지는 계절을 맞아 현장의 위험요인을 직접 확인하고 폭염 상황에 대한 대응 역량을 강화하기 위해 마련됐다.특히 경영진이 현장에서 근로자의 안전을 직접 살피고 폭염 대응체계를 점검함으로써 현장 중심의 안전관리를 강화하는 데 의미를 뒀다.이날 참석자들은 온열질환",
+    "published_at": "2026-08-31T17:15:52+09:00",
+    "cluster_id": "a3ba",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "국토안전관리원, 서산 방조제서 현장 이사회…폭염 대응 '총력'",
+    "summary": "국토안전관리원이 서산A방조제 현장에서 경영진 참석 이사회를 개최하여 폭염 대응 체계를 점검했다. 현장 중심의 안전관리 강화와 온열질환 예방에 집중하는 모습을 보였다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-08-31T17:26:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32235,21 +32251,6 @@
     "summary": "모듈러 주택은 공사기간을 단축할 수 있으나 기존 방식 대비 30% 비싼 시공비가 과제다. 정부가 주택 공급 속도를 높이려 추진하고 있어 시장 확대 가능성이 있지만 가격 경쟁력이 관건이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-26T19:55:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 미국 정부 제안 인프라 건설사업 설명회 개최 - 국토매일",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBvSXNZR29GX0xUMjJMYWhLM0ZPeFJ0Z3ZxNHU0QV9fejdpMUVWeTM3SF9oZnNlV2RZYzlHWVlsenNzaGQ5?oc=5",
-    "description": "국토교통부(사진=연합뉴스) ©국토매일 [국토매일=백지선기자]국토교통부는오는27일오후서울에서국내건설사및종합상사등기업관계자약40명이참석한",
-    "cluster_id": "8656",
-    "publisher": "국토매일",
-    "title_clean": "국토부, 미국 정부 제안 인프라 건설사업 설명회 개최",
-    "summary": "국토교통부가 미국 정부 제안 인프라 건설사업에 대한 설명회를 개최하며 국내 건설사 및 종합상사 약 40명이 참석했다. 해외 인프라 사업 수주 기회를 제공하는 행사로 건설업계의 해외 시장 진출을 지원하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-26T19:50:23+09:00",
     "importance": 2
   }
 ]
