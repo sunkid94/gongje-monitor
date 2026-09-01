@@ -21233,6 +21233,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "한국에너지공단, 산업체 온실가스 관리 역량 강화 앞장 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50067",
+    "description": "[건설이코노미뉴스] 한국에너지공단(이사장 최재관)은 지난 8월 31일 한국무역협회 트레이드타워에서 산업체의 체계적인 온실가스 관리를 지원하기 위한 '산업체 온실가스 인벤토리 구축 지원사업 설명회'를 개최했다고 1일 밝혔다.이번 설명회에는 2026년 신규 지원대상으로 선정된 55개 사업장과 공단 및 사업 수행기관 관계자 등 약 60명이 참석했으며, 오는 9월부터 본격적으로 진행되는 온실가스 인벤토리 구축에 앞서 사업 추진방향과 참여기업의 준비사항 등을 공유하기 위해 마련됐다.공단은 이번 설명회에서 ▲2026년 산업체 온실가스 인벤토리",
+    "published_at": "2026-09-01T15:20:33+09:00",
+    "cluster_id": "cfd8",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "한국에너지공단, 산업체 온실가스 관리 역량 강화 앞장",
+    "summary": "한국에너지공단이 산업체의 온실가스 관리 역량 강화를 위해 2026년 신규 지원대상 55개 사업장을 대상으로 온실가스 인벤토리 구축 지원사업 설명회를 개최했다. 이는 산업체의 체계적인 온실가스 관리를 지원하고 관련 규제에 대한 준비를 돕기 위한 정부 지원 사업이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-01T15:26:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32260,21 +32276,6 @@
     "publisher": "mt.co.kr",
     "title_clean": "LH \"2028~2030년, 매년 10만가구 이상 주택 착공\"",
     "summary": "LH가 2028~2030년 매년 10만가구 이상 주택 착공 계획을 발표했다. 정부는 신속한 공급을 추진하되 안전사고와 부실시공 방지를 위해 적정 공사기간과 공사비 확보 등 제도적 지원을 약속했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-27T16:00:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "‘용인 원삼~마평’ 등 경기 7개 도로, 예비타당성 조사 통과 - KBS 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ajVMU2tuZ0dtSUpKQjJrVmZrMEdTN3lncVp2eDBkWThnbkg5d1p2ZlNkRGZxOWN0NXJWMDEyNG9GQkpxYnNCZzh5NHZQMUdMVkJfVHFoQ0xUb0k?oc=5",
-    "description": "경기도는 추진 중인 7개 도로 건설 계획이 정부의 예비타당성 조사를 통과했다고 오늘(27일) 밝혔습니다. ...",
-    "cluster_id": "6879",
-    "publisher": "KBS 뉴스",
-    "title_clean": "‘용인 원삼~마평’ 등 경기 7개 도로, 예비타당성 조사 통과",
-    "summary": "경기도의 7개 도로 건설 계획이 정부 예비타당성 조사를 통과했습니다. 용인 원삼~마평 등의 도로 사업이 사업성 검증을 받았으며, 향후 본격적인 추진 단계로 진행될 것으로 예상됩니다.",
     "sentiment": "positive",
     "collected_at": "2026-08-27T16:00:31+09:00",
     "importance": 2
