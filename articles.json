@@ -21216,6 +21216,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[마켓인]AI 냉각업체가 5.6조원…PE 투자·회수 시장 달군 데이터센터 붐 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01567846645576184&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "전반적으로 건설경기가 주춤하는 가운데서도 데이터센터 관련 투자는 빠른 증가세를 이어가고 있는 셈이다. 자본시장에서는 AI 데이터센터 투자가 확대될수록 관련 M&A의 범위도 더 넓어질 것으로 보고 있다. 피치북은...",
+    "published_at": "2026-09-02T04:51:00+09:00",
+    "cluster_id": "52da",
+    "publisher": "edaily.co.kr",
+    "title_clean": "[마켓인]AI 냉각업체가 5.6조원…PE 투자·회수 시장 달군 데이터센터 붐",
+    "summary": "건설경기 둔화 속에서도 AI 데이터센터 투자는 빠른 증가세를 유지하고 있으며, 관련 M&A 시장도 확대되는 추세이다. PE 투자와 회수 시장이 활성화되면서 데이터센터 관련 업체들의 성장이 주목받고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-02T05:03:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32269,21 +32285,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-28T06:39:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "미검증 특허공법 사기주의보…피해 확산 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261652200620462",
-    "description": "NewTR공법은 과거 건설신기술 제426호로 지정됐던 NTR공법을 개선한 기술로, 기존 NTR공법은 이미 지정기간과 특허권리가 만료된 상태다. 이를 개선했다는 NewTR공법은 실제 시공사례가 검증되지 않은 것으로 알려졌다. 이...",
-    "published_at": "2026-08-28T06:22:00+09:00",
-    "cluster_id": "4e27",
-    "publisher": "대한경제",
-    "title_clean": "미검증 특허공법 사기주의보…피해 확산",
-    "summary": "미검증 특허공법 'NewTR공법'이 실제 시공사례 검증 없이 시장에 유통되며 사기 피해가 확산되고 있다. 만료된 NTR공법을 개선했다고 주장하지만 신뢰성이 입증되지 않아 건설업계 전반의 신뢰도 하락과 소비자 피해 우려가 제기된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T06:30:01+09:00",
-    "importance": 4
   }
 ]
