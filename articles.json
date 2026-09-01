@@ -21219,6 +21219,22 @@
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
+    "title": "노동차관 \"정년연장 입법 연내 마무리 노력\" - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236544",
+    "description": "최근 본회의에서 의결된 건설산업기본법상 발주자 직접지급제를 근로기준법에도 담는 개정안도 포함됐다. 국민의힘쪽에서 발의한 노동조합 및 노동관계조정법(노조법) 재개정안들도 고용노동법안심사소위원회로...",
+    "published_at": "2026-09-02T06:34:00+09:00",
+    "cluster_id": "9924",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "노동차관 \"정년연장 입법 연내 마무리 노력\"",
+    "summary": "노동차관이 정년연장 입법을 연내 마무리할 것을 밝혔으며, 건설산업기본법의 발주자 직접지급제를 근로기준법에도 포함하는 개정안과 노조법 재개정안이 추진 중이다. 건설업 노동 관련 법제 개편이 진행되고 있는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-02T06:43:03+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
     "title": "건설 하도급, 규제 일변도에서 인센티브 촉진으로 가나 - 대한경제",
     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609011406393190195",
     "description": "실제로 2022년 광주 화정 붕괴사고 후에 불법 하도급 등에 대한 사회적 경각심이 높아지면서 건설 하도급 규제는 건설산업기본법, 하도급법 등으로 계속해서 강화되고 있는 추세다. 전영준 한국건설산업연구원...",
@@ -32269,21 +32285,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-28T08:59:45+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대구고용노동청, 군위 건설현장 안전 점검…'3단디 실천' 캠페인 전개 - breaknews.com",
-    "link": "http://www.breaknews.com/1232231",
-    "description": "이번 활동은 상대적으로 안전관리의 사각지대가 발생할 가능성이 있는 비밀집지역 건설현장의 안전의식을 높이기 위해 마련됐다. 대구지방고용노동청에 따르면...",
-    "published_at": "2026-08-28T08:18:00+09:00",
-    "cluster_id": "e492",
-    "publisher": "breaknews.com",
-    "title_clean": "대구고용노동청, 군위 건설현장 안전 점검…'3단디 실천' 캠페인 전개",
-    "summary": "대구고용노동청이 군위 건설현장을 대상으로 안전 점검 및 '3단디 실천' 캠페인을 전개했다. 비밀집지역 건설현장의 안전관리 사각지대를 해소하고 안전의식을 높이기 위한 활동이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T08:24:44+09:00",
-    "importance": 4
   }
 ]
