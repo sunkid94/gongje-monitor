@@ -5250,6 +5250,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "내 집 선택, 결국 '주거 기본기'가 결정짓는다 - popcornnews.net",
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=131516",
+    "description": "경기 화성시 동탄구 반송동 일원에는 포스코이앤씨가 시공하는 지상 최고 49층, 총 1808가구 규모 '아크메르 동탄'이 공급을 앞두고 있다. 인덕원~동탄 복선전철 역사 및 단지가 바로 연결되는 직결 통로 계획을...",
+    "published_at": "2026-09-01T18:46:00+09:00",
+    "cluster_id": "b811",
+    "publisher": "popcornnews.net",
+    "title_clean": "내 집 선택, 결국 '주거 기본기'가 결정짓는다",
+    "summary": "경기 화성시 동탄구에 포스코이앤씨가 시공하는 대규모 아파트 단지 '아크메르 동탄'(49층, 1808가구)이 공급을 앞두고 있다. 인덕원~동탄 복선전철 직결 통로 등 주거 기본기를 갖춘 프로젝트로 평가되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-01T21:04:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21229,22 +21245,6 @@
     "publisher": "hani.co.kr",
     "title_clean": "희생자 사진 걸리자 구름처럼 몰려…“이 아이라도 살아있어야 해요”...",
     "summary": "두산에너빌리티와 한국남동발전의 라수와 지역 댐 공사 현장에서 근로자가 실종되는 사고 발생. 건설현장 안전관리 부실로 인한 인명피해 이슈로 업계 신뢰도 하락 우려.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-29T19:08:17+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "수력 발전 관련 실종자만 1000명 육박…경보기도 '속수무책' - news.tvchosun.com",
-    "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/29/2026082990084.html",
-    "description": "수력발전소 시공사인 두산에너빌리티는 강 수위 변화를 인식하는 홍수 경보 시스템을 설치했지만 갑작스런 홍수를 막아내진 못했습니다. 올해도 이미 두 차례 대피 훈련까지 진행했지만, 최대 시속 180km에 달했던 전례...",
-    "published_at": "2026-08-29T19:01:00+09:00",
-    "cluster_id": "4093",
-    "publisher": "news.tvchosun.com",
-    "title_clean": "수력 발전 관련 실종자만 1000명 육박…경보기도 '속수무책'",
-    "summary": "수력발전소에서 1000명 근처의 실종자가 발생했으며, 두산에너빌리티가 설치한 홍수 경보 시스템이 갑작스러운 홍수를 방지하지 못했습니다. 대피 훈련에도 불구하고 시속 180km에 달하는 홍수 앞에서 안전 대책의 한계를 드러냈습니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-29T19:08:17+09:00",
     "importance": 4
