@@ -21233,6 +21233,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "하반기 건설업 전체직종 평균임금 282,737원...전년 동기 대비 1.40% 상승 - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104141",
+    "description": "건협은 최근 건설경기 부진에 따른 고용 감소 등이 임금 상승률 둔화의 주요 요인으로 작용한 것으로 보인다고 분석했습니다. 또 5월 건설업 취업자 수는 192만명으로 전년 동월 대비 2.2% 줄었습니다. 이번...",
+    "published_at": "2026-09-01T22:56:00+09:00",
+    "cluster_id": "ae75",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "하반기 건설업 전체직종 평균임금 282,737원...전년 동기 대비 1.40% 상승",
+    "summary": "하반기 건설업 평균임금이 282,737원으로 전년 동기 대비 1.40% 상승했으나, 건설경기 부진으로 인한 고용 감소가 임금 상승률을 둔화시키고 있습니다. 5월 건설업 취업자 수는 192만명으로 전년 동월 대비 2.2% 감소했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-01T23:14:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32269,21 +32285,6 @@
     "summary": "네팔 발전소 건설 현장에서 노동자 9명이 실종되어 정부 신속대응팀이 현장으로 이동 중입니다. 현재 추가 실종자는 없으나 관광객 다수 방문 지역이어서 추가 피해 발생 가능성을 우려하고 있습니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-28T05:24:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "‘완공 코앞’ 발전소 90% 소실… 고립 한국인 9명 안전지대로 - 서울신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdTdRNDBjTGFMX29KNDU1dXdiRGVwb2ZrTWlGdkZCT3ZOcDQ4bVE1UU5zbXVGSXFTTXRtZ2FwSHNzSmtUbmNoLVpmZlE5cDdlUndJYjVGNk80MWtFX1U0MGlTbTBiZWxxVGhHNklUeVU?oc=5",
-    "description": "네팔 어퍼트리슐리-1 수력발전소가 대홍수로 위어와 베이스캠프 대부분을 잃어 준공 일정에 차질이 생겼다. 현지에 고립됐던 한국인 10명 중 9명은 헬기로 구조됐고, 1명은 현장에 남아 있다. 연락 두절된 9명은 아직 소재가 확인되지 않았다.",
-    "cluster_id": "2eee",
-    "publisher": "서울신문",
-    "title_clean": "‘완공 코앞’ 발전소 90% 소실… 고립 한국인 9명 안전지대로",
-    "summary": "네팔의 어퍼트리슐리-1 수력발전소가 대홍수로 시설의 90%가 손실되어 준공 일정이 지연될 것으로 예상된다. 현장에 고립됐던 한국인 10명 중 9명은 헬기로 구조됐으나, 연락 두절된 9명의 소재 확인이 아직 이루어지지 않았다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T01:10:19+09:00",
     "importance": 4
   }
 ]
