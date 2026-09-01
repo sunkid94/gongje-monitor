@@ -21250,6 +21250,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "유학생으로 들어와 이슬람 테러단체 지원 - kwangju.co.kr",
+    "link": "http://www.kwangju.co.kr/article.php?aid=1788261900802923006",
+    "description": "A씨는 지난 2017년 8월 대전시에 있는 한 대학에 유학생 신분으로 입국한 뒤, 지난 2023년 비자 만료 이후에도 국내에 불법 체류하며 일용직 건설노동자로 생활해 온 것으로 파악됐다. 이후 KTJ 무장 조직원으로 활동...",
+    "published_at": "2026-09-01T20:28:00+09:00",
+    "cluster_id": "fabe",
+    "publisher": "kwangju.co.kr",
+    "title_clean": "유학생으로 들어와 이슬람 테러단체 지원",
+    "summary": "유학생 신분으로 입국한 외국인이 비자 만료 후 불법 체류하며 건설 일용직으로 근무 중 테러단체 지원 혐의로 적발됐다. 건설업계의 불법 근로자 관리 문제와 산업 안보 이슈를 드러내는 사건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-01T20:44:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32269,22 +32285,6 @@
     "summary": "건설업계 다양한 분야의 전문가들이 참여한 제16회 리더스 캠프가 개최되었다. 건축, 구조, 시공부터 스마트건설, 건설금융 등 광범위한 분야의 전문가와 고등학생부터 대학원생까지의 청년들이 한자리에 모여 소통했다.",
     "sentiment": "positive",
     "collected_at": "2026-08-27T23:55:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "완산구, 건축인허가 신속 추진 체계 구축 - 전북엔비전",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtY1JCNTJvaWw3d2FFYVFvdVFjeF9Sdy12Y3VNSHpNbF9rbV9kUXBxODU2N0V6QTJfVFFtM05DalhZWEJ0WFlxQnBOdlJNNXpPTGhBRjB6dXdsY2tSMXM4ZERhRTRWQQ?oc=5",
-    "description": "전주시 완산구가 지역건설경기를 활성화하고 시민의 경제적 부담을 줄이기 위해 신속하고 예측 가능한 건축인허가 행정서비스 구축에 나선다.구는 지난 26일 오후 2시",
-    "published_at": "2026-08-27T17:31:47+09:00",
-    "cluster_id": "64ee",
-    "publisher": "전북엔비전",
-    "title_clean": "완산구, 건축인허가 신속 추진 체계 구축",
-    "summary": "전주시 완산구가 신속하고 예측 가능한 건축인허가 행정서비스 구축에 나선다. 지역건설경기 활성화와 시민의 경제적 부담 경감을 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-27T23:50:31+09:00",
     "importance": 2
   }
 ]
