@@ -21250,6 +21250,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "오늘의 주장/ 건설업계 '고사' 위기, 충청권 현실과 우리의 과제 - dynews.co.kr",
+    "link": "https://www.dynews.co.kr/news/articleView.html?idxno=863866",
+    "description": "건설경기 침체, 국민 생활에 미칠 파장 건설업은 단순히 주택 공급에 그치지 않고 건설경기 침체와 국민 생활에 미칠 파장이 커지고 있다. 지역 경제와 고용, 자재 산업, 금융까지 광범위하게 연결된 구조다. 건설경기...",
+    "published_at": "2026-09-01T20:46:00+09:00",
+    "cluster_id": "1d62",
+    "publisher": "dynews.co.kr",
+    "title_clean": "오늘의 주장/ 건설업계 '고사' 위기, 충청권 현실과 우리의 과제",
+    "summary": "건설경기 침체로 인한 위기 상황을 다루는 기사로, 주택 공급뿐 아니라 지역 경제, 고용, 자재산업, 금융 등 광범위한 분야에 부정적 영향을 미치고 있다. 충청권을 중심으로 건설업계의 구조적 문제와 해결 과제를 제시하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-01T21:14:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32269,22 +32285,6 @@
     "summary": "LH가 2030년까지 최소 42만 가구 착공을 목표로 주택공급을 확대한다. 다만 건설현장 안전사고와 부실시공 방지를 위해 적정 공사기간과 공사비 확보 등 제도적 뒷받침이 필요하다는 입장을 보였다.",
     "sentiment": "positive",
     "collected_at": "2026-08-28T00:05:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "청년-건설 전문가들 한자리에…'제16회 리더스 캠프' 성료 - mbn.mk.co.kr",
-    "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5215376",
-    "description": "건축·구조·시공 뿐만 아니라 기계, 교통, 부동산개발, 인테리어, 건설자재, 환경디자인, 스마트건설, 조경, 건설사업관리, 건설금융 등 다양한 분야의 전문가들이 참여했습니다. 또 고등학생부터 대학생·대학원생, 청년...",
-    "published_at": "2026-08-27T23:50:00+09:00",
-    "cluster_id": "e474",
-    "publisher": "mbn.mk.co.kr",
-    "title_clean": "청년-건설 전문가들 한자리에…'제16회 리더스 캠프' 성료",
-    "summary": "건설업계 다양한 분야의 전문가들이 참여한 제16회 리더스 캠프가 개최되었다. 건축, 구조, 시공부터 스마트건설, 건설금융 등 광범위한 분야의 전문가와 고등학생부터 대학원생까지의 청년들이 한자리에 모여 소통했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-27T23:55:23+09:00",
     "importance": 2
   }
 ]
