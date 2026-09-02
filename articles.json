@@ -5341,6 +5341,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가야역 공매 5차례 유찰…롯데건설, 대주단 CR리츠 참여 검토 - knpnews.com",
+    "link": "http://www.knpnews.com/news/articleView.html?idxno=34393",
+    "description": "부산 가야역 롯데캐슬 스카이엘 미분양 주택 486가구에 대한 공매가 다섯 차례 유찰된 가운데 시공사인 롯데건설이 대주단이 추진하는 기업구조조정 부동산투자회사(CR리츠) 참여를 검토 중인 것으로 확인됐다....",
+    "published_at": "2026-09-02T23:44:00+09:00",
+    "cluster_id": "4aff",
+    "publisher": "knpnews.com",
+    "title_clean": "가야역 공매 5차례 유찰…롯데건설, 대주단 CR리츠 참여 검토",
+    "summary": "부산 가야역 롯데캐슬 스카이엘의 486가구 미분양 주택이 5차례 공매 유찰되면서 PF 부실화 심화. 시공사 롯데건설이 CR리츠 참여를 검토하는 등 구조조정 추진 중.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-02T23:59:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21323,22 +21339,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T05:53:20+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "발전소 현장소장 “구조될 때까지 남아있겠다”…대응팀은 육로 수색 시... - segye.com",
-    "link": "https://www.segye.com/newsView/20260831500931?OutUrl=naver",
-    "description": "“여기에 남아서 최대한 수색에 도움이 될 수 있도록 지원하겠습니다.” 네팔 대홍수 현장에서 구조된 두산에너빌리티 현장소장이 30일(현지시간) 오후 이같이 말했다. 깡마른 몸에 지친 기색이 역력한 목소리였으나...",
-    "published_at": "2026-08-31T05:32:00+09:00",
-    "cluster_id": "45b6",
-    "publisher": "segye.com",
-    "title_clean": "발전소 현장소장 “구조될 때까지 남아있겠다”…대응팀은 육로 수색 시...",
-    "summary": "네팔 대홍수 현장에서 구조된 두산에너빌리티 현장소장이 현장에 남아 추가 수색 지원을 약속했다. 건설 현장 안전사고와 관련된 사건으로, 업계 전반에 안전관리의 중요성을 상기시키는 사례다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T05:38:18+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
