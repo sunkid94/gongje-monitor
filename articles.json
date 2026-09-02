@@ -5389,40 +5389,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO, 하반기 신입·경력직원 입교식 개최…미래 인재 육성 본격화 - 건설이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1OElmc2ZRN202ZV9nMm9hUjBBOEZRN2F5V2RXd1RnbGUtTnpwNkdPOEt1b2k2UnhrRThjRGhmcEh6VXdlb01KR0E1SVRyRl9SWVdTb3VXSC11eGtycnU1b2Ezd2Q?oc=5",
-    "description": "[건설이코노미뉴스] K-FINCO 전문건설공제조합이 하반기 신입 및 경력직원 임용과 함께 AI 활용 교육을 포함한 체계적인 연수 프로그램을 시작하며 미래 전문 인재 육성에 나섰다. 조합원 중심의 서비스 경쟁력을 강화하기 위한 인재 양성에 속도를 낸다는 계획이다.조합(이하 K-FINCO)은 3일 서울 동작구 전문건설회관 2층 소회의실에서",
-    "published_at": "2026-08-03T17:19:00+09:00",
-    "cluster_id": "eb9c",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "K-FINCO, 하반기 신입·경력직원 입교식 개최…미래 인재 육성 본격화",
-    "summary": "K-FINCO(전문건설공제조합)가 하반기 신입 및 경력직원 입교식을 개최하고 AI 활용 교육을 포함한 체계적 연수 프로그램을 시작했다. 조합원 중심 서비스 경쟁력 강화와 미래 전문 인재 양성에 나서고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T17:30:44+09:00",
-    "event_label": "전문건설공제조합 하반기 신입·경력직원 입교식 및 AI 활용 교육 프로그램 시작",
-    "importance": 5
-  },
-  {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "제주도회, 위성곤 제주도지사와 간담회···5개 주제 13개 전문건설업 활성화 정책 제언 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325602",
-    "description": "대한전문건설협회 제주도회(회장 백상훈)는 지난달 27일 제주도청에서 위성곤 제주특별자치도지사와 지역 전문건설업 활성화를 위한 정책 제언 간담회를 가졌다.백상훈 회장은 위성곤 도지사의 취임과 민선9기 도정 출발을 축하하며 “지역경제 활성화를 위해 건설산업 활성화가 무엇보다 중요하다”고 강조했다. 이어 전문건설업 보호·육성을 위한 제도적 대책이 절실하다고 역설했다.이에 위성곤 도지사는 “이번 도정의 최우선 과제는 민생안정을 위한 지역경제 선순환 생태계 회복”이라며 “지역 경제의 주축인 건설산업 활성화를 위한 행정적 지원을 아끼지 않겠다",
-    "published_at": "2026-08-03T17:29:02+09:00",
-    "cluster_id": "7b39",
-    "publisher": "대한전문건설신문",
-    "title_clean": "제주도회, 위성곤 제주도지사와 간담회···5개 주제 13개 전문건설업 활성화 정책 제언",
-    "summary": "대한전문건설협회 제주도회가 위성곤 제주도지사와 간담회를 개최하여 전문건설업 활성화를 위한 13개 정책 제언을 제시했다. 도지사는 건설산업 활성화를 위한 행정적 지원을 약속했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-03T17:30:44+09:00",
-    "event_label": "전문건설공제조합(대한전문건설협회 제주도회) 정책 제언 간담회 개최",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21421,6 +21387,22 @@
     "sentiment": "negative",
     "collected_at": "2026-08-30T21:03:17+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국비계기술원, 김해본부 가동ⵈ 고소작업 안전관리 강화 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oQUprcXVRMHFmcHhmZFdLOGc5M0drMl9Ld3owZDVpckdUV3Q4Nkl2LVI1UjI0ZWNaU2hfeFRvTVJKYTlmbDZtZEhjOUxKZlo5Y0lXSzhmS1phVUM4Uy1IWnRZdw?oc=5",
+    "description": "[국토일보 김현재 기자] 한국비계기술원(원장 홍기철)이 산업현장 추락재해 예방을 위한 교육·훈련과 성능인증, 기술지원을 아우르는 ‘고소작업 안전 플랫폼’ 구축에 본격 나선다.비계기술원은 경남 김해 대동산업단지에 남부권 김해본부를 신축하고 이달부터 본격적인 운영에 들어갔다고 오늘(2일) 밝혔다.김해본부는 기존 부산지사를 이전·확장해 조성한 시설로 경기 안성 수도권본부에 이은 기술원의 두 번째 핵심 거점이다. 관리자와 작업자를 위한 체험·실습 공간을 비롯해 대형 가설구조물의 안전성을 실물로 검증할 수 있는 성능인증 시설을 갖췄다.고용노",
+    "published_at": "2026-09-02T16:30:20+09:00",
+    "cluster_id": "1d1a",
+    "publisher": "국토일보",
+    "title_clean": "한국비계기술원, 김해본부 가동ⵈ 고소작업 안전관리 강화",
+    "summary": "한국비계기술원이 경남 김해에 남부권 거점인 김해본부를 신축하고 본격 운영을 시작했다. 추락재해 예방을 위한 교육·훈련, 성능인증, 기술지원을 통합한 '고소작업 안전 플랫폼'을 구축하여 산업현장 안전관리를 강화한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-02T17:34:22+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
