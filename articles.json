@@ -21318,6 +21318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "SH·대한건설협회 서울시회와 간담회...공공주택 확대·현장안전 방안 논의 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UWl91TFROb0xVUUNuMWw2ZUlFTlZpczk5OXl4cmliQ0ZfVVBHUi1zajFFT2hFMFFlbkVLMzZGM1ZXQ21uYkJLa3FHX3pHX3JoekJHX2tjZ3A1Yl9u?oc=5",
+    "description": "[서울=뉴스핌] 박우진 기자 = 서울주택도시개발공사(SH)와 대한건설협회 서울특별시회는 2일 간담회를 열고 건설 현장에서 겪는 주요 현안 등을 논의했다.이날 간담회에는 황상하 SH 사장과 최태진 대한건설협회 서울시회장을 비롯한 양 기관 관계자가 참석했다. 이들",
+    "published_at": "2026-09-02T12:00:00+09:00",
+    "cluster_id": "0c85",
+    "publisher": "뉴스핌",
+    "title_clean": "SH·대한건설협회 서울시회와 간담회...공공주택 확대·현장안전 방안 논의",
+    "summary": "SH와 대한건설협회 서울시회가 간담회를 개최하여 공공주택 확대와 현장안전 방안을 논의했다. 건설업계의 주요 현안에 대해 양 기관이 협력하기로 의견을 모았다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-02T12:24:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "summary": "한국은행이 기준금리를 2.75%에서 3.00%로 인상했다. 주택시장에는 제한적 영향을 미치지만, 건설업계와 PF(프로젝트파이낸싱) 부담이 가중될 것으로 예상된다.",
     "sentiment": "negative",
     "collected_at": "2026-08-28T12:25:12+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "작년 건설공사액 29조 '뚝'…'선행지표' 계약액도 고꾸라졌다 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=03335766645551912&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "특히 향후 건설경기를 가늠하는 선행지표인 건설계약액마저 해외 수주 부진 여파로 감소하면서 건설업계 침체 우려가 커지고 있다. SK하이닉스 용인반도체클러스터 건설 현장.(사진=연합뉴스) 28일...",
-    "published_at": "2026-08-28T12:02:00+09:00",
-    "cluster_id": "84be",
-    "publisher": "edaily.co.kr",
-    "title_clean": "작년 건설공사액 29조 '뚝'…'선행지표' 계약액도 고꾸라졌다",
-    "summary": "작년 건설공사액이 29조 원 감소하면서 건설업계 침체가 심화되고 있다. 특히 향후 경기를 예측하는 선행지표인 건설계약액도 해외 수주 부진으로 감소하면서 업계의 구조적 어려움이 심각한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T12:10:23+09:00",
     "importance": 4
   }
 ]
