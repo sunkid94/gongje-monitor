@@ -21341,6 +21341,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "정상 줄고 위험 늘고...건설업 신용도 악화일로 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609021747133040472",
+    "description": "건설경기 침체 장기화와 원가부담 지속으로 국내 건설사들의 신용도에 경고음이 울리고 있다. 재무상태가 양호한 정상등급의 건설사는 급감하고 있는 반면, 단기연체 및 채무불이행 등 부실징후를 보이는...",
+    "published_at": "2026-09-03T06:22:00+09:00",
+    "cluster_id": "9ed1",
+    "publisher": "대한경제",
+    "title_clean": "정상 줄고 위험 늘고...건설업 신용도 악화일로",
+    "summary": "건설경기 침체 장기화와 원가부담 지속으로 국내 건설사들의 신용도가 악화되고 있다. 정상등급 건설사는 감소하는 반면 연체 및 채무불이행 등 부실징후를 보이는 건설사가 증가하는 추세다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-03T06:29:19+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "세무사회·건설근로자공제회, 건설노동자 무료 세무상담 지원 - joseilbo.com",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTSXU3UmhtRk1aQWg2a0pvWE5zS2tobnZEd1JReEF0TmdkaWpRcVBDSFNyMnh3Yk9xRjRaUEs5blVZUllWWnRqNVhvZlNtZzYxSHdzME9rN3FmRkhzNFM5UGhvWVh4UERrMmxCRHVVVQ?oc=5",
+    "description": "한국세무사회가 550만 건설근로자의 세금 고민을 덜기 위해 무료 세무상담 지원에 나선다. 세무사회와 건설근로자공제회는 지난달 31일 서울 중구 건설근로자공제회 회의",
+    "published_at": "2026-09-02T10:58:33+09:00",
+    "cluster_id": "326e",
+    "publisher": "joseilbo.com",
+    "title_clean": "세무사회·건설근로자공제회, 건설노동자 무료 세무상담 지원",
+    "summary": "한국세무사회와 건설근로자공제회가 550만 건설근로자를 대상으로 무료 세무상담 지원 사업을 추진한다. 건설노동자들의 세금 관련 부담을 경감하기 위한 업계 지원 협력 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-03T06:29:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32266,38 +32298,6 @@
     "summary": "네팔 홍수로 수력발전소 건설 현장에 고립되었던 한국인 10명이 모두 안전지역으로 이송되었다. 외교부는 임시 대피소에 남아있던 국민과 대사관 직원도 네팔 군 헬기를 통해 안전하게 대피시켰다고 발표했다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-29T03:35:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "위례선 트램 건설사업 갈등조정안 심의·의결 - 전국도민뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMTlBmOXpoN3p0a2Y4aXdla2FNY1BMUEtZemJpWFRUcEZkRlBfaXRCWFBnUW5wYTBZUDNyMnZXME9LNDlpS3lhRl9yamlCWVl6UUhnV2thTUMzRU90akRxTjAtWF9lOXNXWnNaWXV3?oc=5",
-    "description": "[전국도민뉴스 / (前)세종매거진] 국토교통부 대도시권 광역교통위원회는 8월 27일 오후 서울에서 갈등조정위원회를 열어 위례선 트램 건설사업 관련 갈등조정안을 의결했다.이번 갈등조정위원회는 위례선 트램 건설사업의 교차로·횡단부 내 교통안전시설 설치와 교통안전심의에 관한 서울특별시와 서",
-    "published_at": "2026-08-28T13:02:32+09:00",
-    "cluster_id": "4a85",
-    "publisher": "전국도민뉴스",
-    "title_clean": "위례선 트램 건설사업 갈등조정안 심의·의결",
-    "summary": "국토교통부 대도시권 광역교통위원회가 위례선 트램 건설사업의 교통안전시설 설치와 심의에 관한 갈등조정안을 의결했다. 서울특별시와의 이견을 조정하여 사업 진행을 위한 절차를 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-29T02:55:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중부발전, 기관장 주관 서울발전본부 건설현장 특별 안전점검 실시 - 한국전력신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxQWpfTkU0LVE0cFd5ZVllV191LXBLa0xjdFN2T0g0VVVmUl9OOVBIMWFoYkNLRXIwcDJTcXpRY2p6cHdxQ2RYb1Z0REFFbkVUR1JyVmZraFBkVUJZVGpKQlAzRmxWSC02NXc?oc=5",
-    "description": "중부발전(사장 이영조)이 지난 27일 서울발전본부 지하주차장 및 공원화 2단계 조성공사 현장에서 중대재해 예방을 위한 기관장 주관 특별 안전점검을 실시하였다.이번 점검은 공사 전반에 대한 공정 현황을 파악하고, PC(Precast Concrete) 부재 설치 및 조립 등 고위험 작업의 안전조치 이행 상태를 집중적으로 확인하기 위해 마련되었다.특히 이번 점검에는 지난 3월 중부발전과 건설기계 안전관리 강화를 위해 업무협약(MOU)을 체결한 대한건설기계안전관리원 소속 전문가 2명이 합동으로 참여했다. 이들은 크레인, 굴착기, 지게차 등",
-    "published_at": "2026-08-28T19:20:30+09:00",
-    "cluster_id": "b3b6",
-    "publisher": "한국전력신문",
-    "title_clean": "중부발전, 기관장 주관 서울발전본부 건설현장 특별 안전점검 실시",
-    "summary": "중부발전이 서울발전본부 건설현장에서 기관장 주관 특별 안전점검을 실시했다. PC 부재 설치 등 고위험 작업의 안전조치를 집중 확인했으며, 대한건설기계안전관리원 전문가가 합동으로 참여해 건설기계 안전관리를 강화했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-29T01:30:27+09:00",
     "importance": 2
   }
 ]
