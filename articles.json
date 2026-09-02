@@ -21373,6 +21373,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"일감·자금 동시에 푼다\"…추경호, 위기 건설업계에 '실행형 처방' 속도 - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=742014",
+    "description": "대구신용보증재단은 오는 3일부터 300억 원 규모의 지역건설경기 활성화 특별보증을 시행한다. 업체당 보증 한도는 최대 2억 원으로 확대됐으며 대구시 경영안정자금과 연계한 이차보전과 보증료 우대도 적용된다. 2억 원...",
+    "published_at": "2026-09-02T20:04:00+09:00",
+    "cluster_id": "4224",
+    "publisher": "polinews.co.kr",
+    "title_clean": "\"일감·자금 동시에 푼다\"…추경호, 위기 건설업계에 '실행형 처방' 속도",
+    "summary": "대구신용보증재단이 300억 원 규모의 건설경기 활성화 특별보증을 시행하며, 업체당 보증 한도를 최대 2억 원으로 확대했다. 보증료 우대와 이차보전 등을 통해 위기의 건설업계에 자금 지원을 강화한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-02T20:14:37+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건설연, AI 데이터센터 건설산업 전환 논의…모듈러·OSC 기술개발 추진 - 세이프티퍼스트닷뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrOVpXaV93enJXR0lSMjlnNEUzSzZhXy15cDFPaG0wV1ZfRUMzVEtTVkVfeWM2UXhEcEVmWE52VHh6VUVKYktuaVE5Si03T2xIZ2M5cEZKYk9oZzd5NHd2MUpsS1hIdGItWUxtc3dLSQ?oc=5",
+    "description": "[세이프티퍼스트닷뉴스] 한국건설기술연구원이 급증하는 AI 데이터센터 수요에 대응하기 위해 건설산업의 공급전략과 기술·제도 개선방안을 논의했다. 고밀도·고발열 시설에 맞는 설계와 냉각·전력 기술을 확보하고, 모듈러·OSC(탈현장건설)를 활용한 생산체계 전환도 추진한다. 건설연은 지난 8월 31일 국회도서관 대강당에서 ‘AI시대의 데이터센터 건설산업 육성과 공급전략’ 국회 세미나를 개최했다. 박덕흠 국회부의장과 유의동 국회 국토교통위원회 위원장, 복기왕·정동만 국토교통위원회 간사가 공동 주최하고 건설연이 주관했다. 이번 세미나는 정부의",
+    "published_at": "2026-09-02T20:08:16+09:00",
+    "cluster_id": "cb87",
+    "publisher": "세이프티퍼스트닷뉴스",
+    "title_clean": "건설연, AI 데이터센터 건설산업 전환 논의…모듈러·OSC 기술개발 추진",
+    "summary": "한국건설기술연구원이 AI 데이터센터 건설 수요 증가에 대응하기 위해 정부·국회와 협력하여 고밀도 시설 설계, 냉각·전력 기술 확보, 모듈러·OSC 기술 개발 등 산업 전환 방안을 추진 중이다. 이는 건설산업의 새로운 성장 동력으로서 데이터센터 건설 시장 확대를 위한 기술·제도 개선 노력이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-02T20:14:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32267,21 +32299,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-28T21:30:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대구광역시, 건설기계 사고 예방 안전교육 실시...\"유사사고 재발 방지 집중\" - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZ3RFX243VkJDSWRQRnVOVENwd19BWFNORDhuQm9SSkYyd2MtdkEtd3RXMFlNQ1ZscllwRWQtVVRYS2Z0UW9xc2c0aUdVeXplRC1PaXk1MHVFQ2NxM09mbmgxTVU5WjNnU2ZDNTBB?oc=5",
-    "description": "(대구=국제뉴스) 백운용 기자 = 대구광역시는 8월 28일 시청 동인청사 대강당에서 시·구·군 감독공무원과 건설 현장 관리자 등 100여 명을 대상으로 건설공사장 건설기계 사고예방 및 안전관리 교육을 실시했다.이번 교육은 명덕네거리와 만촌네거리에서 발생한 건설 중장비 전도사고 등 건설기계 관련 사고의 재발을 막기 위해 준비됐다.교육에서는 감독공무원과 현장관리자를 대상으로 건설기계별 안전수칙, 작업계획 등 현장에서 필요한 사항이 안내됐다.교육에는 대한건설기계안전관리원 사고조사 전문가인 김승재 차장이 초청돼 최근 5년간의 건설기계 사고",
-    "published_at": "2026-08-28T15:17:52+09:00",
-    "cluster_id": "950b",
-    "publisher": "gukjenews.com",
-    "title_clean": "대구광역시, 건설기계 사고 예방 안전교육 실시...\"유사사고 재발 방지 집중\"",
-    "summary": "대구광역시가 건설공사장 안전관리 강화를 위해 감독공무원과 현장관리자 100여 명을 대상으로 건설기계 사고예방 교육을 실시했다. 명덕네거리와 만촌네거리의 중장비 전도사고 등 재발 방지를 목표로 건설기계별 안전수칙과 작업계획 등을 교육했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T21:30:26+09:00",
-    "importance": 4
   }
 ]
