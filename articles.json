@@ -21335,6 +21335,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“숨 막히는 비극 속에도 웃음은 있다”…정의신 연출 ‘스미레 미용실... - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1685487/?sc=Naver",
+    "description": "정 연출은 “취재 과정에서 탄광에서 해고된 광부들이 1970년대 오사카 만국박람회 활주로 공사 현장 등 대형 건설 노동자로 유입됐다는 사실을 알게 됐다”라며 “일본의 눈부신 경제 성장을 밑바닥에서 지탱한 이들이...",
+    "published_at": "2026-09-02T12:43:00+09:00",
+    "cluster_id": "a2cc",
+    "publisher": "dailian.co.kr",
+    "title_clean": "“숨 막히는 비극 속에도 웃음은 있다”…정의신 연출 ‘스미레 미용실...",
+    "summary": "영화 '스미레 미용실'의 정의신 연출이 1970년대 일본 경제 성장 과정에서 탄광 해고 광부들이 대형 건설 현장 노동자로 유입된 역사를 다룬 취재 내용을 공개했다. 경제 성장 뒷면의 노동자 착취 역사를 조명하는 문화 콘텐츠 관련 뉴스이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-02T12:54:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-28T13:10:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설기능인 ‘정규직 고용’, 정말 불가능한가? - naeil.com",
-    "link": "https://www.naeil.com/news/read/600411?ref=naver",
-    "description": "우리나라에서 건설노동자의 ‘고용 불안’은 당연한 것으로 여겨진다. 특히 육체노동에 종사하는 건설기능인 중 정규직은 거의 없다. 수주 부족 또는 악천후로 작업이 중단되면 노동력이 불필요하니 사업주의 입장에선...",
-    "published_at": "2026-08-28T13:02:00+09:00",
-    "cluster_id": "26cd",
-    "publisher": "naeil.com",
-    "title_clean": "건설기능인 ‘정규직 고용’, 정말 불가능한가?",
-    "summary": "건설노동자의 고용 불안이 업계의 구조적 문제로 지적되고 있다. 수주 변동성과 날씨에 따른 작업 중단으로 인해 정규직 고용이 어려운 현실을 다루고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T13:10:15+09:00",
-    "importance": 4
   }
 ]
