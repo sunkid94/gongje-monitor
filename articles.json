@@ -21440,6 +21440,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 '안전순찰'도 무인화···동부건설, 드론 띄우고 AI로 위험 잡는다 - smartbizn.com",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQU5MTkVnc29ndllMWlFxc1F5SDFpSk9hSFRVX0Y5U2lQX0plemtTTlFiSnJ2bG03RlRJbkNmVW10SnFyYTdXc3V6VnFxdHcxdUxidmdVaVpXU3QxZThPWlRuMUJ6Qkcyd3h3MQ?oc=5",
+    "description": "| 스마트비즈 = 최형호 기자 | 건설현장의 안전관리 방식이 인력 중심의 현장 순찰에서 드론과 인공지능(AI)을 활용한 데이터 기반 관리체계로 빠르게 전환되고 있",
+    "published_at": "2026-09-02T17:37:55+09:00",
+    "cluster_id": "9bc1",
+    "publisher": "smartbizn.com",
+    "title_clean": "건설현장 '안전순찰'도 무인화···동부건설, 드론 띄우고 AI로 위험 잡는다",
+    "summary": "건설현장의 안전관리가 인력 중심의 순찰에서 드론과 AI 기반의 데이터 관리체계로 전환되고 있다. 동부건설이 드론 띄우고 AI로 현장 위험을 감지하는 방식을 도입하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-02T18:29:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32285,22 +32301,6 @@
     "summary": "건설경기 침체와 PF 경색으로 심화된 건설사의 자금난 해소를 위해 정부가 금융 애로 전담 창구를 운영한다. 대구 태왕이앤씨의 기업회생절차 신청 등 지역 건설업계의 유동성 위기가 현실화한 상황에서 정부의 실질적 자금 공급 효과에 주목된다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-28T19:40:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "천안시, 대형 건설사 본사 잇달아 방문... 지역업체 하도급 확대 요청 - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3678167",
-    "description": "이번 조치는 건설경기 위축으로 지역 건설업체들이 수주와 하도급 물량 확보에 어려움을 겪는 상황에서 지역 내 건설사업이 지역경제로 이어지는 선순환 구조를 만들기 위한 것이다. 천안시는 오는 10월 건설사와...",
-    "published_at": "2026-08-28T19:02:00+09:00",
-    "cluster_id": "2fbf",
-    "publisher": "gukjenews.com",
-    "title_clean": "천안시, 대형 건설사 본사 잇달아 방문... 지역업체 하도급 확대 요청",
-    "summary": "천안시가 건설경기 위축으로 어려움을 겪는 지역 건설업체들을 지원하기 위해 대형 건설사 본사를 방문하여 지역업체 하도급 물량 확대를 요청 중이다. 지역 내 건설사업이 지역경제로 연결되는 선순환 구조 조성을 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-28T19:09:59+09:00",
     "importance": 2
   }
 ]
