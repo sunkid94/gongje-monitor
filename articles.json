@@ -5471,6 +5471,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC E&C",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "SGC E&C, 차세대 공사관리 'AWP' 도입…플랜트 경쟁력 강화 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260902_0003773357",
+    "description": "SGC E&C는 프로젝트 수행 역량을 높이고 수주 경쟁력을 강화하기 위해 차세대 공사관리 시스템인 'AWP(Advanced Work Packaging)'를 도입한다고 2일 밝혔다. AWP는 설계·구매·시공·시운전 등 프로젝트 전 과정을 디지털...",
+    "published_at": "2026-09-02T14:39:00+09:00",
+    "cluster_id": "5afe",
+    "publisher": "newsis.com",
+    "title_clean": "SGC E&C, 차세대 공사관리 'AWP' 도입…플랜트 경쟁력 강화",
+    "summary": "SGC E&C가 차세대 공사관리 시스템 'AWP(Advanced Work Packaging)'를 도입하여 프로젝트 수행 역량을 강화하고 있다. 이는 설계부터 시운전까지 전 과정의 디지털화를 통해 플랜트 사업의 수주 경쟁력을 높이려는 전략이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-02T14:49:39+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21452,22 +21468,6 @@
     "summary": "건설 현장에서 헬기 운행 허가를 기다리며 기업 대응팀이 현지에서 대기 중이다. 헬기는 건설 현장 주변과 고지대 지역에 투입될 예정인 상황으로, 허가 절차가 지연되고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-30T14:43:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데-현대 컨소시엄, 1.4조 규모 안양 공공재개발 수주, 단지 이름으로... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445929",
-    "description": "<롯데건설> 롯데건설-현대건설 컨소시엄이 1조4278억 원 규모 안양시 충훈부 일원 공공재개발 정비 사업을 수주했다. 롯데건설은 29일 경기도 안양시청 대강당에서 열린 안양시 충훈부 일원 공공재개발 조합원 총회에서...",
-    "published_at": "2026-08-30T14:34:00+09:00",
-    "cluster_id": "6313",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "롯데-현대 컨소시엄, 1.4조 규모 안양 공공재개발 수주, 단지 이름으로...",
-    "summary": "롯데건설-현대건설 컨소시엘이 안양시 충훈부 일원 공공재개발 정비 사업을 1조4278억 원 규모로 수주했다. 대형 건설사의 공공재개발 수주는 건설업계의 프로젝트 파이프라인 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-30T14:38:14+09:00",
     "importance": 2
   },
   {
