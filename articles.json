@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "건설공제조합, 은평구 지역아동센터 새 단장…'푸른꿈 자람터' 결실 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50088",
+    "description": "[건설이코노미뉴스] 건설공제조합이 소외계층 아동들의 생활환경 개선을 위해 노후 지역아동센터 시설을 새롭게 단장하고 임직원들이 직접 현장을 찾아 환경정비 봉사활동을 펼쳤다.건설공제조합(이사장 이석용, 이하 조합)은 국제구호개발 NGO 플랜코리아와 협력해 서울 은평구에 위치한 '꿈이있는푸른학교 지역아동센터'의 시설 개선 공사를 완료하고 직원 봉사활동을 실시했다고 2일 밝혔다.이번 활동은 조합의 대표적인 사회공헌사업인 '푸른꿈 자람터' 프로젝트의 일환으로 진행됐다.조합은 먼저 자금을 선지원해 센터의 노후화된 시설에 대한 사전 공사를 실시",
+    "published_at": "2026-09-02T17:45:33+09:00",
+    "cluster_id": "b91d",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "건설공제조합, 은평구 지역아동센터 새 단장…'푸른꿈 자람터' 결실",
+    "summary": "건설공제조합이 플랜코리아와 협력해 서울 은평구 지역아동센터 시설을 개선하고 임직원 봉사활동을 실시했다. '푸른꿈 자람터' 프로젝트의 일환으로 소외계층 아동들의 생활환경 개선에 주력했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-02T17:50:06+09:00",
+    "event_label": "건설공제조합 은평구 지역아동센터 시설 개선 및 봉사활동 실시",
+    "importance": 5
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "\"마음껏 꿈 펼치도록\"…건설공제조합, 지역아동센터 시설 개선·봉사활동 - 신아일보",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PNFVDeWp3TnpPUzRHdlZSVHJlVGZkM1JseF9OMlFsUG9NR0tYWWFmckM2blVtcTJBOUU5UFJZU0VZTDZac2xuM2h4X0w3OFhiSm10WlBTamxYRlY1NDFEWEdwMFRLSzVvOVY0UkJmamE?oc=5",
     "description": "건설공제조합은 지역아동센터 등 노후된 시설을 개선해 아이들에게 쾌적한 생활·학습 환경을 만들어 주는 사회공헌 사업을 지속 추진하고 있다. 건설공제조합은 국제구호개",
@@ -32283,21 +32300,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-28T16:50:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "우미건설, ‘챔피언스시티’ 분양에 촉각…PF·내부거래 부담 겹쳐 - 산경투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzcTZibXFaVEFqSVBPUzZodTd1WTZRMnFPWlZJaFZBZDdfdXJtVUMwbGN0YW10ZGgzS1JaMkg3djF3SEhINmpib0NyRkdEUHFkR1hycms4dzdYS0JfVDh1UTNRLTY0NVg0T1BHRlQyQ27SAXRBVV95cUxNRU94b0pmYk5pNjROZW9Ka01oWVE4T2JLREtSelhGd001QmU2aFl2dUpRN013eDcyTlZxM0pXRUg4ck5vbHdWM2U2Q3VoU3VwLWppNkE5aHFPeWZITkRiQ2ZNNHFkYlI5eVlCWGZkdUU1WWZmOQ?oc=5",
-    "description": "[산경투데이 = 한승수 기자]우미건설이 외형 성장과 재무구조 개선에도 프로젝트파이낸싱(PF) 만기와 내부거래 비중 확대라는 부담을 동시에 안고 있다.광주 대규모 복합개발 사업의 분양 실적이 향후 공사비 회수와 유동성 관리에 중요한 변수가 될 것으로 보인다.28일 업계에 따르면 우미건설",
-    "published_at": "2026-08-28T16:35:24+09:00",
-    "cluster_id": "b6a6",
-    "publisher": "산경투데이",
-    "title_clean": "우미건설, ‘챔피언스시티’ 분양에 촉각…PF·내부거래 부담 겹쳐",
-    "summary": "우미건설이 광주 챔피언스시티 분양을 앞두고 있으나, PF 만기 도래와 내부거래 비중 확대로 재무 부담을 안고 있다. 향후 분양 실적이 공사비 회수와 유동성 관리의 핵심 변수가 될 전망이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-28T16:50:09+09:00",
-    "importance": 4
   }
 ]
