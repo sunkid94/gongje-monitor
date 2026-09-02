@@ -21335,6 +21335,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "용인시의회 도시건설위, 경기도의회와 도로·철도 현안 논의 - asiae.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ha0lmSUJ1d3VuQjczcmpxdFZnSTlwVEpHRmFnTnJCLWQ1MHJldTZTQkhmYXFaamF0Tk1HSE0zemdITExuNDAweXNhVktQUUVyOU93bHVYMzVpZmhmVThFag?oc=5",
+    "description": "경기 용인특례시의회 도시건설위원회는 지난 1일 경기도의회 건설교통위원회 소회의실에서 정책간담회를 열고 용인 지역 도로·철도 현안과 광역·기초의회 간 협.",
+    "published_at": "2026-09-02T12:51:40+09:00",
+    "cluster_id": "f9cc",
+    "publisher": "asiae.co.kr",
+    "title_clean": "용인시의회 도시건설위, 경기도의회와 도로·철도 현안 논의",
+    "summary": "경기 용인특례시의회 도시건설위원회가 경기도의회 건설교통위원회와 정책간담회를 개최하여 용인 지역의 도로·철도 현안을 논의했습니다. 광역·기초의회 간 협력을 통해 지역 건설 인프라 개선 방안을 모색하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-02T12:59:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-28T13:10:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "모아주택 1호 나왔다…소규모 정비사업 ‘속도’ - naeil.com",
-    "link": "https://www.naeil.com/news/read/600382?ref=naver",
-    "description": "건설경기 침체와 공사비 상승, 주민간 이해관계 조정 등 사업을 가로막는 변수가 여전하기 때문이다. 다만 규제 완화에 초기 자금 지원과 절차 단축이 더해지면서 그동안 대규모 재개발의 그늘에 가려 있던 소규모...",
-    "published_at": "2026-08-28T13:02:00+09:00",
-    "cluster_id": "0078",
-    "publisher": "naeil.com",
-    "title_clean": "모아주택 1호 나왔다…소규모 정비사업 ‘속도’",
-    "summary": "모아주택 1호가 출시되며 소규모 정비사업이 본격화되고 있다. 규제 완화, 초기 자금 지원, 절차 단축 등 정책 지원으로 그동안 대규모 재개발에 밀려있던 소규모 정비사업 시장이 확대될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-28T13:10:15+09:00",
-    "importance": 2
   }
 ]
