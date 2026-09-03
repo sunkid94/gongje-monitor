@@ -5409,6 +5409,22 @@
     "importance": 6
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부산시, '안전·협치·산업' 동시 가속…민선9기 실행력 높인다 - industrynews.co.kr",
+    "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=85500",
+    "description": "삼성중공업 연구개발(R&D) 거점 확장까지 이끌며 '안전·협치·산업'을 축으로 시정 실행력을 끌어올리고 있다. 전재수 부산시장은 3일 재난안전대책본부 회의와 구·군 소통·협력회의를 잇따라 주재하며 현장 중심의...",
+    "published_at": "2026-09-03T21:06:00+09:00",
+    "cluster_id": "cdaf",
+    "publisher": "industrynews.co.kr",
+    "title_clean": "부산시, '안전·협치·산업' 동시 가속…민선9기 실행력 높인다",
+    "summary": "부산시가 안전·협치·산업을 축으로 시정 실행력을 강화하고 있으며, 삼성중공업 R&D 거점 확장을 추진 중이다. 시장이 재난안전대책과 구·군 협력을 통해 현장 중심의 정책을 펼치고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-03T21:10:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21391,22 +21407,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T16:03:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "일감 넘치는데 도크 못 늘린다…K-조선 '200조 딜레마' - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026083115274198326",
-    "description": "삼성중공업도 7월까지 102억달러를 수주했다. 연간 목표 139억달러의 73%다. 상선 수주액은 58억달러로 연간 목표를 이미 초과했다. 한화오션은 같은 기간 52억달러를 수주했고, 이 가운데 상선이 40억7000만달러를...",
-    "published_at": "2026-08-31T15:52:00+09:00",
-    "cluster_id": "6718",
-    "publisher": "newsway.co.kr",
-    "title_clean": "일감 넘치는데 도크 못 늘린다…K-조선 '200조 딜레마'",
-    "summary": "한국 조선업계가 상반기 수주에서 호실적을 거두고 있으나, 도크 부족으로 일감 처리에 애로를 겪고 있다. 삼성중공업과 한화오션 등 주요 조선사들이 연간 목표를 상회하는 수주를 확보했지만 생산 인프라 확충이 뒤따르지 못하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T16:03:02+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
