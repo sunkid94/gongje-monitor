@@ -5409,6 +5409,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 美 STOSS와 신월시영 조경 협업…'신월8경' 제안 - 월요신문",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FSzJPbndtU0k5Zk1qQWJxcHBub01RNkFQZ0NLaU5Zd1lkZk5RS044MlFEbDhBT0FDeHpmQkJRWFV5MFUwUVhuNmJPakk1bjhUVzhlSTNSNm9KRUc0ckpMZkdkZ1pPbEFlMWc?oc=5",
+    "description": "대우건설은 서울 양천구 신월시영아파트 재건축사업 수주를 위해 조경·도시 설계 전문그룹 STOSS와 협업한다고 3일 밝혔다.신월시영아파트 재건축사업은 서울 양천구",
+    "published_at": "2026-09-03T09:15:31+09:00",
+    "cluster_id": "07a9",
+    "publisher": "월요신문",
+    "title_clean": "대우건설, 美 STOSS와 신월시영 조경 협업…'신월8경' 제안",
+    "summary": "대우건설이 미국 조경·도시설계 전문그룹 STOSS와 협업하여 서울 양천구 신월시영아파트 재건축사업 수주를 추진 중이다. 국제적 설계 파트너십을 통해 '신월8경' 조경 계획을 제안하며 사업 경쟁력을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-03T21:39:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21393,20 +21409,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "두산에너빌, 헬기 1대 수색 시작…드론 투입 예정 수색 '총력전'(종합) - news1.kr",
-    "link": "https://www.news1.kr/industry/general-industry/6274953",
-    "description": "현장 상황에 익숙한 인력을 추가로 파견하고 박정원 두산그룹 회장과 박지원 두산에너빌리티 회장이 현지에서 직접 대응을 지휘하는 등 수색 역량을 최대한 끌어올리는 모습이다. 특히 헬기 운항 허가와 기상 등 현지...",
-    "published_at": "2026-08-31T15:46:00+09:00",
-    "cluster_id": "2f2d",
-    "publisher": "news1.kr",
-    "title_clean": "두산에너빌, 헬기 1대 수색 시작…드론 투입 예정 수색 '총력전'(종합)",
-    "summary": "두산에너빌에서 실종자 수색을 위해 헬기와 드론을 투입하며 대응 중이다. 박정원 회장 등 경영진이 현지에서 직접 지휘하며 수색 역량을 집중하고 있다.",
+    "title": "김회근·서울의회, 안전지수제 시행에도 대형사고 반복 점수 관리 넘어 실제 사고 예방 성과 보여줘야 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBENkxTcUhpRVFHYjRKQnI2bldPOUxBbDdYTjhkRW1pVm1CZ2h1MnNKODRtVDFsdnVsNjBwZnRjYWhQLXpHeHBGRjFYREIyVFF1aDlaVFNjWkFHYzJGYWtmaGZJMkljeGpHNkVFaktxaw?oc=5",
+    "description": "서울특별시의회 김회근 의원(더불어민주당, 광진1, 사진)이 9월 2일(목) 도시기반시설본부 도시철도국 업무보고에서 서울시가 2024년부터 시행하고 있는 안전지수제",
+    "published_at": "2026-09-03T15:20:24+09:00",
+    "cluster_id": "122f",
+    "publisher": "오토투데이",
+    "title_clean": "김회근·서울의회, 안전지수제 시행에도 대형사고 반복 점수 관리 넘어 실제 사고 예방 성과 보여줘야",
+    "summary": "서울시의회 김회근 의원이 안전지수제 시행에도 불구하고 대형사고가 반복되고 있다며 점수 관리를 넘어 실제 사고 예방 성과를 요구했다. 도시철도국 업무보고에서 제기된 의견으로, 현행 안전관리 체계의 실효성 강화 필요성을 지적했다.",
     "sentiment": "negative",
-    "collected_at": "2026-08-31T16:03:02+09:00",
-    "importance": 5
+    "collected_at": "2026-09-03T21:39:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32287,21 +32303,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T09:03:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구 건설 수주액 7개월 만에 '반등'…소비는 '둔화' - news1.kr",
-    "link": "https://www.news1.kr/local/daegu-gyeongbuk/6274189",
-    "description": "31일 동북지방데이터청의 산업 활동 동향을 보면 7월 대구의 건설수주액이 5681억 원으로 전년 동월(2328억 원) 대비 2.44배 늘어 7개월 만에 증가세로 전환했다. 부문별로는 철도·궤도, 기계설치, 조경공사 등 공공...",
-    "published_at": "2026-08-31T08:54:00+09:00",
-    "cluster_id": "61c6",
-    "publisher": "news1.kr",
-    "title_clean": "대구 건설 수주액 7개월 만에 '반등'…소비는 '둔화'",
-    "summary": "7월 대구 건설수주액이 5681억 원으로 전년 동월 대비 2.44배 증가하며 7개월 만에 증가세로 전환했다. 철도·궤도, 기계설치, 조경공사 등 공공부문 수주가 주도했으나, 소비는 둔화 추세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T08:58:32+09:00",
-    "importance": 2
   }
 ]
