@@ -21426,6 +21426,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "철도공단 충청본부, 철도 유휴부지 사용허가 원스톱 창구 개설 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50100",
+    "description": "[건설이코노미뉴스] 국가철도공단 충청본부는 서해선 철도 유휴부지 활용 활성화와 주민 편의 향상을 위해 충남 당진시 합덕읍과 홍성군 홍북읍 행정복지센터에 ‘철도 유휴부지 사용허가 원스톱 창구’를 개설했다고 지난 3일 밝혔다.이번 조치는 디지털 환경에 익숙하지 않은 농촌지역 주민들의 행정 접근성을 높여 철도 유휴부지의 이용을 더욱 편리하게 하는 데 중점을 뒀다.원스톱 창구에서는 철도 유휴부지 사용허가에 필요한 사항을 종합적으로 지원한다. 이에 따라 주민들은 별도로 관련 정보를 찾아보거나 신청 절차를 확인할 필요 없이 가까운 행정복지센터",
+    "published_at": "2026-09-04T08:30:39+09:00",
+    "cluster_id": "8fe8",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "철도공단 충청본부, 철도 유휴부지 사용허가 원스톱 창구 개설",
+    "summary": "국가철도공단 충청본부가 충남 당진시와 홍성군에 철도 유휴부지 사용허가 원스톱 창구를 개설했다. 농촌지역 주민의 행정 접근성을 높여 철도 유휴부지 활용을 용이하게 하는 조치다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T08:34:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T09:50:18+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[특징주] 티케이지애강, 자진 상폐 위한 2차 공개매수에 상한가 - biz.chosun.com",
-    "link": "https://biz.chosun.com/stock/stock_general/2026/08/31/5VWBJ2HUUZCO5LCOQS3KYWGOFI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "최대주주는 건설경기 침체가 장기화하는 상황에서 비상장사 전환이 경영 효율성을 높이는 데 필요하다는 입장이다. 최대주주 측은 공시를 통해 “건설경기 침체에 따른 전방산업 위축이 단기간 내 해소되기 어려운...",
-    "published_at": "2026-08-31T09:44:00+09:00",
-    "cluster_id": "73f4",
-    "publisher": "biz.chosun.com",
-    "title_clean": "[특징주] 티케이지애강, 자진 상폐 위한 2차 공개매수에 상한가",
-    "summary": "티케이지애강의 최대주주가 건설경기 침체 장기화에 따른 경영 효율성 개선을 위해 자진 상폐를 추진 중이며, 2차 공개매수에서 주가가 상한가를 기록했다. 비상장사 전환으로 단기간 내 해소되기 어려운 전방산업 위축에 대응하려는 전략으로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T09:50:18+09:00",
-    "importance": 4
   }
 ]
