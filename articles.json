@@ -5426,6 +5426,22 @@
     "importance": 6
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"시간당 최소 800만원인데\"…두산, 헬기 빌리고도 못 띄워 '발 동동' - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxRFNseEJZYWtHc3hUZ0c1OUpHZmhDY2V4LWF0RVdxU3Z1cFBwR1VaU2otT0lpaDJsV00xb25YSTlRY2t5c2cxd0MyTEllVGdFelpr?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 3일(현지시간) 네팔 라수와 지역 람체 인근 어퍼트리슐리(UT)-1 수력발전소 건설현장 위로 실종자 수색에 동원되는 민간 산악구조헬기가 통과하고 있다. 2026.9.3 ⓒ 뉴스1 구윤성 기자 (서울=뉴스1) 김진희 기자 = 두산에너빌리티(034020)",
+    "published_at": "2026-09-04T06:30:00+09:00",
+    "cluster_id": "3104",
+    "publisher": "네이트",
+    "title_clean": "\"시간당 최소 800만원인데\"…두산, 헬기 빌리고도 못 띄워 '발 동동'",
+    "summary": "두산에너빌리티가 네팔 수력발전소 건설현장에서 실종자 수색을 위해 시간당 800만원대의 민간 산악구조헬기를 임차했으나 운영상 문제로 출동하지 못하고 있다. 이는 건설현장의 안전관리 체계 미흡과 비용 낭비 문제를 드러낸다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T06:59:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21405,22 +21421,6 @@
     "publisher": "pinpointnews.co.kr",
     "title_clean": "IPARK현대산업개발, 의정부 장암2구역 시공사 선정",
     "summary": "IPARK현대산업개발이 경기 의정부 장암2구역 재개발사업의 시공사로 선정되었다. 약 9,002억원 규모의 대형 정비사업으로 2,344가구를 조성할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T16:43:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데, 지속가능이라는 나이테를 새기다 - ftoday.co.kr",
-    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=364514",
-    "description": "롯데건설은 외국인 근로자 비중이 높은 건설 현장의 특성을 고려해 AI 기반 다국어 번역 모델을 도입했다. 현장 특화 용어를 반영한 이 모델은 안전·품질 지침과 작업 지시를 다양한 언어로 정확하게 전달해...",
-    "published_at": "2026-08-31T16:24:00+09:00",
-    "cluster_id": "175c",
-    "publisher": "ftoday.co.kr",
-    "title_clean": "롯데, 지속가능이라는 나이테를 새기다",
-    "summary": "롯데건설이 외국인 근로자 비중이 높은 건설현장의 안전성 강화를 위해 AI 기반 다국어 번역 모델을 도입했다. 현장 특화 용어를 반영한 이 시스템으로 안전·품질 지침과 작업 지시를 다양한 언어로 정확하게 전달할 수 있게 되었다.",
     "sentiment": "positive",
     "collected_at": "2026-08-31T16:43:15+09:00",
     "importance": 2
