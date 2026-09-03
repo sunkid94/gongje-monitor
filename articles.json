@@ -5409,23 +5409,6 @@
     "importance": 6
   },
   {
-    "keyword": "전문건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO, 신규직원 입교식… 3주간 실무 교육 후 현업 배치 - 금융경제신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNUZobEt2VUV6b1dxV29nQnlneFZub3dKdG5jdThTZUlWSkYyQ25BTlZfMzkwSEdKdEpkRW1rTFFGTFNOV2tGNWpxM1h0bzhKWFJLSm1vZ0x2XzJsaG9hdGlEVkEyemR0SnExWtIBb0FVX3lxTE5zLWV5TXJmTGFxRnJlQWp6VERUZDdhYmJWMG55LURFalJYU01FaFJkVXluRklQSXA3eG0zWk1NN2NSM1Q0UTNIX1RWX0ZpX1FoM1VncHNJUUoyeEtGMjJRdEswajRpRzFUZ0tHY1F5TQ?oc=5",
-    "description": "[금융경제신문=조정현 기자] K-FINCO 전문건설공제조합(이하 K-FINCO)이 2026년도 하반기 ‘신입 및 경력직원 사령장 수여식 및 입교식’을 개최했다.4일 K-FINCO에 따르면 지난 3일 서울 동작구 전문건설회관 2층 소회의실에서 열린 입교식에는 K-FINCO 임원진이 참석해 새 출발을 앞둔 직원들을 격려했다. 행사는 사령장 수여식에 이어 신입직원들이 임원진과 소통하는 간담회 형태로 진행됐다.K-FINCO 임원진은 환영사를 통해 “어려운 취업 관문을 뚫고 K-FINCO의 새로운 식구가 된 신입직원 여러분들을 진심으로 환영",
-    "published_at": "2026-08-04T15:46:50+09:00",
-    "cluster_id": "7d4d",
-    "publisher": "금융경제신문",
-    "title_clean": "K-FINCO, 신규직원 입교식… 3주간 실무 교육 후 현업 배치",
-    "summary": "전문건설공제조합(K-FINCO)이 2026년도 하반기 신입 및 경력직원 입교식을 개최했다. 신입직원들은 3주간의 실무 교육을 거쳐 현업에 배치될 예정이며, 임원진이 참석하여 격려했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-04T19:49:37+09:00",
-    "event_label": "전문건설공제조합 2026년도 하반기 신입직원 입교식 개최",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21423,6 +21406,22 @@
     "summary": "GS건설이 목동12단지 재건축 사업에 단독 응찰했으며, 현장설명회에는 대우건설, 포스코이앤씨, IPARK현대산업개발 등 4개사가 참석했다. 조합은 조만간 2차 입찰을 재공고할 예정이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T15:52:17+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남부발전, 건설현장 '산재 예방'…매월 안전 전략회의 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIYVZxZmpWeURYMTlyd193Uk5vWnc4SDktVC1TUXJLYkxmc21TYzA5Nk1CdlMzamtFRVBCazFBNGVsRlB5bjhwNG1BbjZXalFpdW9ocHlYWHVPVVlxd3pVWdIBeEFVX3lxTE8tV3Y4RWxPRFdvdjhJLUpSOGxLQUNjNy0tYUR0QmE1NS1pWnRBc0JEVlZaYndpWUNHRHg2ZjVfMW5NeF9FT0dwekhpemFvcXJ5cF92SzdVaDRLVFNWVTYzN2ZSbmpkZXc3dUE4a2xWUDRVVmxOdVctdg?oc=5",
+    "description": "[세종=뉴시스]이수정 기자 = 한국남부발전이 건설현장 산업재해 예방을 위해 매월 안전 전략회의를 열고 현장 중심의 안전관리 체계를 강화한다.남부발전은 지난 2일 안동복합건설소에서 산업재해 제로 달성을 위한 '건설현장 Safety 365 전략회의'를 개최했다고 3일 밝혔다.이번 회의는 안동복합 2호기 건설사업의 핵심 공정인 최초점화를 앞두고 시운전과 건설 작..",
+    "published_at": "2026-09-03T16:10:16+09:00",
+    "cluster_id": "24f2",
+    "publisher": "뉴시스",
+    "title_clean": "남부발전, 건설현장 '산재 예방'…매월 안전 전략회의",
+    "summary": "한국남부발전이 건설현장 산업재해 예방을 위해 매월 안전 전략회의를 개최하고 현장 중심의 안전관리 체계를 강화한다. 안동복합 2호기 건설사업의 최초점화를 앞두고 산업재해 제로 달성을 목표로 Safety 365 전략을 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-03T19:49:52+09:00",
     "importance": 2
   },
   {
