@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "GTX-A 삼성역 시공 오류 논란, 정부 합동점검 속 \"국민 안전 최우선 조치\" - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37238",
+    "description": "수도권광역급행철도(GTX)-A 삼성역 구간에서 발생한 시공 오류 문제를 두고 정부가 국민 안전을 최우선으로 후속 조치를 취하겠다는 방침을 거듭 밝혔다. 최근 일각에서 제기된 개통 지연 보상금 논란 등에 대해서도 정부는 객관적인 안전성 분석 결과에 따라 조치 방안을 마련하겠다고 선을 그었다.국토교통부와 행정안전부는 서울시가 시행 중인 GTX 삼성역 시공 오류 구간의 안전성을 면밀하게 확인하기 위해 당초 7월 20일까지였던 정부합동점검단 운영 기간을 오는 11월 20일까지 4개월 연장해 정밀 조사를 진행하고 있다. 점검단은 현장 조사와",
+    "published_at": "2026-09-04T07:00:00+09:00",
+    "cluster_id": "9bc9",
+    "publisher": "한국건설신문",
+    "title_clean": "GTX-A 삼성역 시공 오류 논란, 정부 합동점검 속 \"국민 안전 최우선 조치\"",
+    "summary": "GTX-A 삼성역 시공 오류 문제로 정부가 국민 안전을 최우선으로 하여 합동점검 기간을 11월까지 4개월 연장해 정밀 조사를 진행 중이다. 개통 지연 보상금 논란에 대해서는 객관적 안전성 분석 결과에 따라 조치 방안을 마련하겠다는 입장이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T07:04:35+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T09:39:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설 “현장이 키운 안전 전문가 하정민 대표이사 선임” - 안전신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52SjhFXzlZajFIc1dieV82U2J5VHFOQ2lDZlZDQS1jUTEtcUpnWkdkRFVGWS1NWHc3eWdFd1VhM0FCNG5Wc2UwUHlkcjB6TzNTdTd3T19ObHFRU3VpY1ZrS08tdFA3UkpyOWNPRXZWb0M?oc=5",
-    "description": "DL건설이 안전 전문가 하정민 대표이사를 31일 선임했다.DL건설에 따르면 1974년생인 하정민 대표는 신림고등학교를 졸업한 뒤 2003년 대림산업(현 DL이앤씨)에 현장 안전관리직으로 입사해 건설 현장 안전관리 업무를 시작했다.다양한 현장 경험과 업무 역량을 인정 받았고 건설안전기술사를 취득했다.이후 DL이앤씨 팀장과 DL건설 최고안전책임자(CSO)를 거쳐 DL건설 대표이사에 선임됐다.하 대표는 20여 년 이상의 경력을 보유한 건설 안전 전문가다. 새만금, 도담-영천전철, 세종-안성고속도로 등 총 6개 현장뿐만 아니라 본사 안전교",
-    "published_at": "2026-08-31T09:29:57+09:00",
-    "cluster_id": "560f",
-    "publisher": "안전신문",
-    "title_clean": "DL건설 “현장이 키운 안전 전문가 하정민 대표이사 선임”",
-    "summary": "DL건설이 20년 이상의 건설 현장 안전 경력을 보유한 하정민을 새로운 대표이사로 선임했다. 안전 전문가의 리더십 강화로 건설 현장의 안전 관리 체계 고도화를 추진할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T09:39:56+09:00",
-    "importance": 3
   }
 ]
