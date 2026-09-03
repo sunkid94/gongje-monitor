@@ -21426,6 +21426,22 @@
     "importance": 3
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "천안 성거~목천 도로공사, “실적 완화” 한목소리 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0SUtNOEJLWXFhMWxxekgzTFpBY2dLbnVWM2NSVUtSd1FaWVpIdW5jc05HQ3ZTNUszYzBxVUgxclRZYU9tNGowcDd3bF9ENkRUeWd2NXpnM00xaXkxZHVkdG5OaXJXSUU4dHZGUkd5cURlQkU?oc=5",
+    "description": "‘1공구 1등급ㆍ2공구 고난도’ 유력현 시공실적 평가기준 문턱 높아실적 뒷받침할 지역업체도 제한적[대한경제=백경민 기자]이달 발주를 앞둔 ‘천안시 국도대체우회도로(성거∼목천) 건설공사 1~2공구’를 두고 입찰 요건을 완화해달라는 목소리가 높다. 2개 공구 모두 시공실적 ...",
+    "published_at": "2026-09-03T11:00:19+09:00",
+    "cluster_id": "5d8f",
+    "publisher": "대한경제",
+    "title_clean": "천안 성거~목천 도로공사, “실적 완화” 한목소리",
+    "summary": "천안 성거~목천 도로공사 1~2공구 입찰을 앞두고 건설업계가 시공실적 평가기준 완화를 요청하고 있다. 현행 기준이 높아 참여 가능한 지역업체가 제한적이라는 입장이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T00:40:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T09:29:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "7월 산업생산 제자리…서비스업 4년 5개월 만에 최대 감소 - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1684288/?sc=Naver",
-    "description": "건설수주도 전년 동월보다 34.0% 감소했다. 현재 경기 상황을 보여주는 동행종합지수 순환변동치는 전월보다 0.8p 상승했고, 향후 경기 흐름을 예고하는 선행종합지수 순환변동치도 0.4p 올라 9개월 연속 상승했다....",
-    "published_at": "2026-08-31T09:06:00+09:00",
-    "cluster_id": "2fa2",
-    "publisher": "dailian.co.kr",
-    "title_clean": "7월 산업생산 제자리…서비스업 4년 5개월 만에 최대 감소",
-    "summary": "7월 산업생산이 전월 대비 정체 상태를 보였으며, 서비스업이 4년 5개월 만에 최대 낙폭을 기록했다. 건설수주는 전년 동월 대비 34% 감소했으나, 선행지수는 9개월 연속 상승하며 향후 경기 회복 신호를 보이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T09:08:55+09:00",
-    "importance": 4
   }
 ]
