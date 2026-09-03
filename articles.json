@@ -5426,6 +5426,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 신월시영 수주전 승부수…美 STOSS와 '신월8경' 띄운다 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3050969",
+    "description": "©AP신문(AP뉴스)/이미지 제공 = 대우건설 ▲STOSS가 참여한 미국 세인트루이스의 대형 도시 그린웨이 사업 '브릭라인 그린웨이(Brickline Greenway)' 대우건설이 올해 전략사업지로 선정한 서울 양천구 신월시영아파트...",
+    "published_at": "2026-09-04T04:54:00+09:00",
+    "cluster_id": "bd8a",
+    "publisher": "apnews.kr",
+    "title_clean": "대우건설, 신월시영 수주전 승부수…美 STOSS와 '신월8경' 띄운다",
+    "summary": "대우건설이 서울 양천구 신월시영아파트 재개발 사업 수주를 위해 미국의 저명한 건축사 STOSS와 협력하여 '신월8경' 설계안을 제시하고 있다. 이는 대우건설의 올해 전략사업으로 추진 중인 프로젝트로, 국제 수준의 설계를 통해 수주전을 주도하려는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T04:59:31+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21405,22 +21421,6 @@
     "publisher": "mk.co.kr",
     "title_clean": "반도체·조선 … AI가 바꿀 제조업 미래 한눈에",
     "summary": "AI 기술이 반도체, 조선 등 제조업 분야에 적용되는 현황을 소개하는 기사로, 두산에너빌리티, HD현대, 삼성전자 등 주요 기업들이 AI 혁신에 참여하고 있음을 보도하고 있다. 제조업의 미래 방향을 제시하는 산업 트렌드 기사이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T16:13:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "노인에 포카리 나눠주던 회사…9년째 '폭염' 파고든 이유 [권용훈의 트... - hankyung.com",
-    "link": "https://www.hankyung.com/article/202608312791i",
-    "description": "포스코 광양제철소와 삼성중공업, 두산에너빌리티, 한국가스공사, 넥센타이어, 대우건설 등의 사업장에서 온열질환 예방 활동을 진행했다. 경상남도와는 삼성중공업 거제조선소, 넥센타이어, 두산에너빌리티...",
-    "published_at": "2026-08-31T16:01:00+09:00",
-    "cluster_id": "5fe7",
-    "publisher": "hankyung.com",
-    "title_clean": "노인에 포카리 나눠주던 회사…9년째 '폭염' 파고든 이유 [권용훈의 트...",
-    "summary": "포스코, 삼성중공업, 두산에너빌리티 등 주요 건설·중공업 사업장에서 폭염 시즌에 노인들을 대상으로 온열질환 예방 활동을 9년째 진행 중이다. 기업의 사회적 책임 실천 사례를 보도하는 내용이다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T16:13:08+09:00",
     "importance": 2
