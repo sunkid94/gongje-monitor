@@ -21426,6 +21426,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공사비 상승폭 한풀 꺾였는데… 여전한 고유가, 등 휘는 건설사 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/09/04/2026090319280151405",
+    "description": "국토교통부 건설산업정보시스템(KISCON)에 따르면 지난 8월 한 달간 종합건설업체 폐업신고 수는 88건으로 이 중 78건이 서울 외 지역 건설사였다. 종합건설업계 폐업신고 수는 지난해에 비해서도 부쩍 늘었다. 연초부터...",
+    "published_at": "2026-09-04T03:01:00+09:00",
+    "cluster_id": "ef72",
+    "publisher": "mt.co.kr",
+    "title_clean": "공사비 상승폭 한풀 꺾였는데… 여전한 고유가, 등 휘는 건설사",
+    "summary": "8월 종합건설업체 폐업신고가 88건으로 증가했으며, 대부분이 지역 건설사였다. 공사비 상승폭은 완화되었으나 유가 상승으로 건설사들의 경영 악화가 계속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T03:03:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32285,22 +32301,6 @@
     "publisher": "페로타임즈",
     "title_clean": "DL건설, 하정민 대표이사 선임…현장 '안전통' 부임",
     "summary": "DL건설이 현장 안전관리 경험이 풍부한 하정민을 신임 대표이사로 선임했다. 내부 인재 중심의 현장 중심 경영 강화와 전사 안전관리체계 구축을 추진하는 인사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T09:29:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[비즈+]DL건설, 하정민 대표이사 선임…안전관리 현장 전문가 전면 배치 - 비즈니스플러스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95UjdFaVBraVk3RGpleG5McGR3aEp0dl9WdDkwSEJ0WFRmdXdmbEJINlNKOEJUNlhSaWU5bWFuSDhkYlZ2TlEza2JIdGs4UUc0cWJ6LUo5OVhyazlDYnYybk1zd2tqZVdUdzRWSGx3?oc=5",
-    "description": "DL건설이 현장 안전관리 업무를 시작으로 최고안전책임자(CSO)를 맡아온 하정민 부사장을 신임 대표이사로 선임하고 안전 중심의 현장 경영을 한층 강화한다.DL건설은 31일 하정민 대표이사를 선임했다고 밝혔다. 이번 인사는 외부 영입보다 내부에서 실력과 업무 성과를 쌓아온 인재를 중용하는 데 초점을 맞췄다. 회사는 현장 중심 경영 기조를 이어가는 동시에 안전관리 분야의 전문성을 경영 전반으로 확대한다는 방침이다.1974년생인 하 대표는 신림고등학교를 졸업한 뒤 2003년 대림산업(현 DL이앤씨)에 입사하면서 건설 현장의 안전관리 업무",
-    "published_at": "2026-08-31T09:19:20+09:00",
-    "cluster_id": "7a20",
-    "publisher": "비즈니스플러스",
-    "title_clean": "[비즈+]DL건설, 하정민 대표이사 선임…안전관리 현장 전문가 전면 배치",
-    "summary": "DL건설이 안전관리 전문가인 하정민 부사장을 신임 대표이사로 선임했다. 현장 중심 경영과 안전관리 전문성을 경영 전반으로 확대하는 방침이다.",
     "sentiment": "positive",
     "collected_at": "2026-08-31T09:29:43+09:00",
     "importance": 2
