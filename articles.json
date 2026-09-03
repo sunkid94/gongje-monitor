@@ -5392,6 +5392,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "긴급구호대, 실종자 수색 본격화…사망자 1천2백 명 넘어 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008736016&plink=ORI&cooper=NAVER",
+    "description": "발전소 공사를 맡은 한국남동발전과 두산에너빌리티도 헬기와 드론, 수색견을 투입해 실종자들의 흔적을 찾고 있습니다. 시간과의 싸움이 이어지는 가운데, 이번 대홍수로 인한 공식 사망자는 네팔과 중국을 합쳐...",
+    "published_at": "2026-09-03T12:12:00+09:00",
+    "cluster_id": "8c87",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "긴급구호대, 실종자 수색 본격화…사망자 1천2백 명 넘어",
+    "summary": "네팔과 중국의 대홍수로 사망자 1,200명을 넘겼으며, 한국남동발전과 두산에너빌리티 등이 헬기, 드론, 수색견을 동원해 실종자 수색에 나서고 있다. 재난 상황에서 건설·에너지 업체들이 긴급 구호에 투입되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-03T12:29:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21371,22 +21387,6 @@
     "publisher": "idomin.com",
     "title_clean": "삼성중공업, 올해 상선 수주 목표치 달성",
     "summary": "삼성중공업이 올해 상선 수주 목표치 107%를 달성하며 36척의 수주고를 기록했다. 목표 달성 후에도 추가 수주가 이어지고 있으며, 아프리카 선사로부터 컨테이너운반선 2척 수주 등 실적이 계속되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T11:41:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, 컨테이너선 2척 4445억원에 수주... 상선 목표 초과 달성 - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=135061",
-    "description": "삼성중공업이 상선 부문 수주 목표를 넘어선 가운데 추가 수주를 이어가고 있다고 31일 밝혔다. 삼성중공업은 아프리카 지역 선사로부터 컨테이너운반선 2척을 4445억원에 수주했다고 이날 공시했다. 해당 선박은...",
-    "published_at": "2026-08-31T11:28:00+09:00",
-    "cluster_id": "f713",
-    "publisher": "newslock.co.kr",
-    "title_clean": "삼성중공업, 컨테이너선 2척 4445억원에 수주... 상선 목표 초과 달성",
-    "summary": "삼성중공업이 아프리카 지역 선사로부터 컨테이너선 2척을 4445억원에 수주했다. 이는 상선 부문 수주 목표를 초과 달성한 이후의 추가 수주로, 조선업계의 호실적을 보여주고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-31T11:41:12+09:00",
     "importance": 2
