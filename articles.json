@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "【인터뷰】 이성원 경기도의원 “건축사의 눈으로 민생현장 읽고, 정책화할 것\" - 대한건축사협회 건축사신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84T21fS2VmaDBwcGQwcnU0Tldyb0RxZC1WcnF2UndZYm1Jc0U5YXZEWmEzRkN0UERZUTJkV2hNZzY3ci15UHhWU0pONl9qU1IzQVd6ZmtEYkRzMnhaalpJOXpRdG1VY0k?oc=5",
+    "description": "6·3지방선거에서 당선된 건축사 출신 당선인들이 본격적인 의정활동을 시작했다. 대한건축사신문은 건축사라는 정체성과 경력을 토대로 의정활동에 임하고 있는 당선인들과의 인터뷰를 이어가려 한다. 이번 인터뷰는 이성원 경기도의원과 진행했다.Q. 임기 동안 주력해서 추진하고자 하는 정책 및 현안, 그리고 생활 민원에 대해 답변 부탁합니다. 무엇보다 일자리와 민생을 최우선에 두고 의정활동을 하겠습니다. 시화공단의 고도화와 제조업의 미래 산업 전환을 통해 양질의 일자리를 늘리고, 경기도 시흥시 정왕동 노후계획도시 재정비도 속도감 있게 추진하고자",
+    "published_at": "2026-09-03T16:32:28+09:00",
+    "cluster_id": "e3a0",
+    "publisher": "대한건축사협회 건축사신문",
+    "title_clean": "【인터뷰】 이성원 경기도의원 “건축사의 눈으로 민생현장 읽고, 정책화할 것\"",
+    "summary": "건축사 출신 이성원 경기도의원이 시화공단 고도화, 제조업 미래산업 전환, 정왕동 노후계획도시 재정비 등을 주요 정책으로 추진할 계획이다. 일자리 창출과 민생을 중심으로 의정활동을 진행할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T05:09:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T09:29:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL건설, 하정민 대표이사 선임…\"현장이 키운 안전 전문가\" - financialpost.co.kr",
-    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=272837",
-    "description": "DL건설은 협력업체의 경쟁력 강화와 지속가능한 동반성장을 지원하기 위해 이번 교육을 마련했고, 교육은 ▲건설산업기본법 실무 ▲하도급법 실무 ▲건설현장 노무관리 ▲납품대금 연동제 등 협력업체 실무에 필요한...",
-    "published_at": "2026-08-31T09:22:00+09:00",
-    "cluster_id": "560f",
-    "publisher": "financialpost.co.kr",
-    "title_clean": "DL건설, 하정민 대표이사 선임…\"현장이 키운 안전 전문가\"",
-    "summary": "DL건설이 하정민 신임 대표이사를 선임했으며, 협력업체의 경쟁력 강화를 위해 건설산업기본법, 하도급법, 노무관리 등 실무 교육을 제공하고 있다. 현장 경험을 갖춘 안전 전문가 중심의 리더십으로 지속가능한 동반성장을 추진하는 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T09:29:43+09:00",
-    "importance": 3
   }
 ]
