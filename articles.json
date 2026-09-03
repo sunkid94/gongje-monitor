@@ -5358,6 +5358,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 신월시영 재건축 ‘신월8경’ 콘셉트로 에술 정원 구현 - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GU2Ntdk5Kalo0dmQ4cnV4LS01TFJrMWc3dXp2MFRHR3YwNzhqcXJlNDBkUUpQUGQzT2lSLVUyYzBISTY4Vi05enZuNGE5ZlBPYTBFWDhSX3ZrSGZtNkVzcmNTczJkOWFJZVZJdg?oc=5",
+    "description": "“신월8경(新月八景) 콘셉트로 단지를 하나의 예술 정원으로 구현하겠다”대우건설이 서울 양천구 신월시영아파트 재건축사업 수주를 위해 야심찬 목표를 걸었다. 특히 글로벌 조경·도시설계 전문 그룹과 협업을 통해 차별화에 나선다는 전략이다.대우건설은 STOSS(스토스)와 함께, 신월시영 재건축 단지를 자연과 문화, 예술이 공존하는 미래형 주거 공간으로 조성하겠다고 3일 밝혔다.STOSS는 보스턴과 로스앤젤레스에 스튜디오를 운영하고 있으며 지난 2001년 미국 보스턴에서 설립됐다.‘회복력(Resilience), ‘활력(Vitality)’,",
+    "published_at": "2026-09-03T09:18:00+09:00",
+    "cluster_id": "24bd",
+    "publisher": "ER 이코노믹리뷰",
+    "title_clean": "대우건설, 신월시영 재건축 ‘신월8경’ 콘셉트로 에술 정원 구현",
+    "summary": "대우건설이 서울 양천구 신월시영아파트 재건축사업 수주를 목표로 글로벌 조경·도시설계 전문 그룹 STOSS와 협업하여 '신월8경' 콘셉트의 예술 정원 단지를 구현할 계획이다. 자연과 문화, 예술이 공존하는 미래형 주거 공간 조성을 통해 사업 수주 경쟁에서 차별화 전략을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-03T09:29:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21342,19 +21358,19 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "삼성·SK '반도체 머니' 풀리나…동탄·용인 등 주택시장 주목 - gpkorea.com",
-    "link": "https://www.gpkorea.com/news/articleView.html?idxno=146191",
-    "description": "화성 동탄에서는 포스코이앤씨가 시공하는 '아크메르 동탄'이 9월 분양을 앞두고 있으며, 용인 반도체클러스터 인근에서는 '용인반도체클러스터 동일하이빌 파크밸리 1단지'가 계약 일정을 진행한다. 평택 고덕에서는...",
-    "published_at": "2026-08-31T09:22:00+09:00",
-    "cluster_id": "c8ce",
-    "publisher": "gpkorea.com",
-    "title_clean": "삼성·SK '반도체 머니' 풀리나…동탄·용인 등 주택시장 주목",
-    "summary": "삼성·SK 등 대형 반도체 기업의 투자 확대로 동탄, 용인, 평택 등 주변 지역 주택시장이 활성화되고 있다. 포스코이앤씨 등 건설사들이 대형 주택 프로젝트를 추진하면서 건설 수주 및 시공 기회가 증가할 것으로 예상된다.",
+    "title": "부전~마산 복선전철 내년 4월 부분개통 - 대한건설기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10OFAxZm1MMVh2emF6ZFNnQ0otLWdkNmZCUTZDaWd1RWI1VVZWajJfRFBTakpHRHJoaVdidjl4elk3VFcxVDdHcDUxSUpfLTcyQTlqYjJXOERqUWdYWlFNc2VfVVJjeGFJ?oc=5",
+    "description": "국토교통부는 지난 25일 동남권 핵심 철도망인 부전~마산 복선전철의 공사가 완료된 구간을 내년 4월 1일 우선 개통한다고 밝혔다.우선 개통구간은 부전역~사상역과",
+    "published_at": "2026-09-03T09:14:13+09:00",
+    "cluster_id": "8bcc",
+    "publisher": "대한건설기계신문",
+    "title_clean": "부전~마산 복선전철 내년 4월 부분개통",
+    "summary": "부전~마산 복선전철이 내년 4월 1일 부분개통될 예정이다. 부전역~사상역 구간이 우선 개통되며, 동남권 핵심 철도 인프라 구축이 진행 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-31T09:29:43+09:00",
+    "collected_at": "2026-09-03T09:29:09+09:00",
     "importance": 2
   },
   {
@@ -32284,21 +32300,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-29T19:28:16+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토부, 의왕역 코레일 직원 사망 사고에 “철저한 원인 규명 통해 엄중... - viva100.com",
-    "link": "https://www.viva100.com/article/20260829500135",
-    "description": "한편 코레일의 안전관리종합등급은 2023년부터 지난해까지 3등급을 유지하고 있지만 건설현장 안전관리등급은 2023년 4등급에서 2024년과 지난해 각각 5등급을 기록했다.",
-    "published_at": "2026-08-29T14:40:00+09:00",
-    "cluster_id": "15b7",
-    "publisher": "viva100.com",
-    "title_clean": "국토부, 의왕역 코레일 직원 사망 사고에 “철저한 원인 규명 통해 엄중...",
-    "summary": "의왕역 코레일 직원 사망 사고와 관련해 국토부가 철저한 원인 규명을 약속했다. 코레일의 건설현장 안전관리등급이 2023년 4등급에서 2024년과 2025년 연속 5등급(최하위)으로 하락하면서 건설현장 안전 관리 강화 필요성이 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-29T14:49:06+09:00",
-    "importance": 4
   }
 ]
