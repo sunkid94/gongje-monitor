@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "‘PF 우발채무 4조원 이상 축소’ 롯데건설, 본PF 전환으로 정상화 속도 - 포인트데일리",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04RW04OE00a3UyUG9ZYXRORDBtN0QwUlFVMDBCTU5iNVU4cHVsRTBaZU1Ia1JTVTd3QkhMS1R4cUpnSEJ5elhtaXdVcENhbG9YeHV6ZHdtZ0hCazRvQlNQVVRTdVlVdGQ2Q0s2Y1QzVErSAXRBVV95cUxPdFRyeHFReDQ4X3dXd2JXdnBNN2YwdHNTQUU1a1pLb2NCYVJ2OHYtTkVvNjFHMnNYLUtOQ2hmXzNDYTlHamoyYklibFlkakt1RDRNWHdLZHJBdVM0THFIYWNZQ1dpX1FNVkd2RmRreVVpNV9kZA?oc=5",
+    "description": "[포인트데일리 성창훈 기자] 부동산 프로젝트파이낸싱(PF) 유동성 우려의 중심에 섰던 롯데건설이 우발채무를 대폭 줄이고 대형 사업장을 본PF로 전환하며 재무구조 개선에 속도를 내고 있다. 수도권 핵심 사업장이 분양 단계에 진입한 가운데, 향후 계약 실적과 자금 회수 여부가 경영 정상화의 최종 관문이 될 전망이다.3일 건설·금융투자업계에 따르면 롯데건설의 올해 2분기 말 연결 기준 PF 우발채무인 신용보강 잔액은 2조4262억원으로 집계됐다. 레고랜드 사태 직후인 2022년 말 6조8000억원에 육박했던 것과 비교하면 4조원 이상 감",
+    "published_at": "2026-09-03T15:46:55+09:00",
+    "cluster_id": "54ec",
+    "publisher": "포인트데일리",
+    "title_clean": "‘PF 우발채무 4조원 이상 축소’ 롯데건설, 본PF 전환으로 정상화 속도",
+    "summary": "롯데건설이 우발채무를 2022년 말 6조8000억원에서 2분기 말 2조4262억원으로 4조원 이상 감축하며 재무구조 개선에 성공했다. 대형 사업장을 본PF로 전환하고 수도권 핵심 사업장이 분양 단계에 진입한 가운데, 향후 계약 실적과 자금 회수가 경영 정상화의 관건이 될 전망이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T04:34:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T09:29:43+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "부산 광공업 생산, 1차금속·기타 운송장비 힘입어 넉 달째 증가 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6570352?utm_source=naver&utm_medium=article&utm_campaign=20260831092403",
-    "description": "건설수주액은 3726억원으로 전년동월대비 18.0% 감소했다. 발주자별로는 공공부문 수주가 1608억원으로 463.2% 늘었지만 민간부문 수주는 2118억원으로 50.2% 줄었다.",
-    "published_at": "2026-08-31T09:25:00+09:00",
-    "cluster_id": "e943",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "부산 광공업 생산, 1차금속·기타 운송장비 힘입어 넉 달째 증가",
-    "summary": "부산 광공업 생산이 1차금속과 기타 운송장비 부문의 호조로 4개월 연속 증가세를 지속하고 있다. 다만 건설수주액은 전년동월대비 18% 감소했으며, 민간부문 수주 부진으로 업계 회복세가 제한적이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T09:29:43+09:00",
-    "importance": 2
   }
 ]
