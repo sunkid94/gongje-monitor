@@ -21426,6 +21426,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[원혜원 건설전문변호사의 법률 바로알기]집합건물 하자보수 탐구(5) 조경 하자 중 수목 고사 하자에 관하여 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50098",
+    "description": "[건설이코노미뉴스] 조경수목의 고사는 아파트 등 공동주택에서 발생하는 하자 중에서도 원인 규명이 복잡하고 책임 소재를 둘러싼 분쟁이 빈번한 유형이다. 살아있는 생물인 수목은 식재 당시의 건강 상태, 토양 환경, 배수 문제 등 시공상 요인뿐만 아니라, 식재 이후의 기후 변화, 병충해, 유지관리 등 다양한 외부 변수에 의해 영향을 받기 때문이다. 이러한 복합성으로 인해 비전문가인 입주자나 관리주체가 고사의 명확한 원인을 특정하여 시공사에 책임을 묻는 것은 결코 쉽지 않다. 이하에서는 이러한 현실적 어려움을 감안하여, 수목 고사 하자를",
+    "published_at": "2026-09-04T08:21:56+09:00",
+    "cluster_id": "4549",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[원혜원 건설전문변호사의 법률 바로알기]집합건물 하자보수 탐구(5) 조경 하자 중 수목 고사 하자에 관하여",
+    "summary": "아파트 등 공동주택의 조경수목 고사는 시공 요인과 식재 후 기후, 병충해, 유지관리 등 외부 변수가 복합적으로 작용하여 원인 규명과 책임 소재 파악이 어려운 하자 유형이다. 건설전문변호사가 수목 고사 하자의 판단 기준에 대해 설명하는 교육성 기사이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T08:26:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T09:50:18+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설 새 대표에 하정민 CSO…'안전 전문가' 전면 배치 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13cG5fbWRFbkl0cVkwbDVqeFNsVVhxdHlTTUtkc011UXRXcDJKN1JvRUpPd3VMbzd4UGJlR205cTNYMWdJaG9vckVzcHhpRWpYc1ZzdTAtVkQ5SWFw?oc=5",
-    "description": "[서울=뉴스핌] 정영희 기자 = DL건설이 안전 분야에서 20여년간 현장과 본사 주요 조직을 거친 내부 전문가에게 경영을 맡겼다. 대표이사와 최고안전책임자(CSO)를 한 사람이 맡는 체제를 통해 안전관리 경험을 경영 전반에 접목하고, 40대 신규 임원들을 전면",
-    "published_at": "2026-08-31T09:41:00+09:00",
-    "cluster_id": "ec32",
-    "publisher": "뉴스핌",
-    "title_clean": "DL건설 새 대표에 하정민 CSO…'안전 전문가' 전면 배치",
-    "summary": "DL건설이 안전 분야 20년 경력의 하정민 CSO를 새 대표이사로 임명했다. 안전관리 전문가를 경영진에 배치하여 안전관리 경험을 경영 전반에 적용하고 조직 개편을 추진할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T09:50:18+09:00",
-    "importance": 2
   }
 ]
