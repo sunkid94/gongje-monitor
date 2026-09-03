@@ -21426,6 +21426,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울특별시의회 박칠성 도시안전건설위원장, 소방 업무보고 시 현장 목소리 전달 - newszoom.kr",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5BdFRuS0xRY3hldy14bXdzNGdXU3lxQmU3RFVEU3VmTEhERnhUbGZ0Zk1zeGw0ZGNDVEs2TF9HRzc0Y1Fw?oc=5",
+    "description": "[뉴스줌=정진태기자] 서울시의회 도시안전건설위원회 박칠성 위원장(더불어민주당, 구로4)은 별도 면담을 통해 청취한 서울소방 현장의 목소리를 바탕",
+    "published_at": "2026-09-03T18:26:00+09:00",
+    "cluster_id": "37c6",
+    "publisher": "newszoom.kr",
+    "title_clean": "서울특별시의회 박칠성 도시안전건설위원장, 소방 업무보고 시 현장 목소리 전달",
+    "summary": "서울시의회 도시안전건설위원회 박칠성 위원장이 서울소방의 현장 목소리를 청취하여 소방 업무보고에 반영하고 있다. 소방 현장의 의견을 정책에 수렴하는 행정 활동에 관한 기사다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T02:27:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32286,22 +32302,6 @@
     "title_clean": "DL건설, '안전 전문가' 하정민 대표이사 선임",
     "summary": "DL건설이 건설 현장 안전관리 경력 20년의 하정민을 대표이사로 선임하고 최고안전책임자(CSO)를 겸직하게 했다. 안전 전문가를 최고경영진으로 등용하여 안전경영을 강화하는 조직개편이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-31T09:29:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설, 하정민 대표이사 선임…현장 경험 갖춘 안전 전문가 - 더팩트",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DUW51TGJFTFFDSzVKQThkVm50dnIyNTJwVGZUQXBHS0tLeEpGZG9GN1hoOFF6dncwRE41OElUQkk1bmo0b1hqSjFxMEMzbl94aEtUbkppVWZwQdIBVEFVX3lxTE9FdGJoZVEyUHoydlBDMFl4TnNPSW0tQ2QxVE91dVA2OWV1Zk5zdHQ3SFpxWGc5c3ZoYlVkUlRnMFFwZl8tVW8xX1NoUTdhVm5WODJmcw?oc=5",
-    "description": "데이터 기반 안전매뉴얼 시스템 구축…전사 안전관리체계 혁신 주도변화와 혁신을 주도할 수 있는 실력주의 인사 단행DL건설이 하정민 대표이사를 선임했다. 이번 인사는 실력주의..",
-    "published_at": "2026-08-31T09:14:08+09:00",
-    "cluster_id": "2b3a",
-    "publisher": "더팩트",
-    "title_clean": "DL건설, 하정민 대표이사 선임…현장 경험 갖춘 안전 전문가",
-    "summary": "DL건설이 하정민 대표이사를 선임했으며, 데이터 기반 안전매뉴얼 시스템 구축과 전사 안전관리체계 혁신을 주도할 예정이다. 현장 경험을 갖춘 안전 전문가의 실력주의 인사로 조직 변화와 혁신을 추진한다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-31T09:29:43+09:00",
     "importance": 2
   }
