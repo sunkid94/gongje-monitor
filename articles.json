@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "공사비 상승폭 한풀 꺾였는데… 여전한 고유가, 등 휘는 건설사 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNkI0VV85V2tnOHliOWZqdk12T1dZeG9ZWjdCMHNaS2NfaURsZmdrUHdwbzZjUGtGc1ctQWVVMVNQR0Z0aHp1ZldKRElDelhVd1dsTFdQeWtiQjE3d3N4b0VWMlJYam5lNDEzcmtJVdIBb0FVX3lxTE5XNkI0VV85V2tnOHliOWZqdk12T1dZeG9ZWjdCMHNaS2NfaURsZmdrUHdwbzZjUGtGc1ctQWVVMVNQR0Z0aHp1ZldKRElDelhVd1dsTFdQeWtiQjE3d3N4b0VWMlJYam5lNDEzcmtJVQ?oc=5",
+    "description": "공사비와 금리상승이라는 이중고 속에서 건설경기는 최악으로 치닫는다. 3일 한국건설기술연구원 공사비원가관리센터에 따르면 7월 건설공사비지수는 138.59(잠정치)를 기록했다. 건설공사비지수는 지난 4월 중동전쟁으로 인한 국제유가 급등 영향이 반영되면서 전월 대비 1.93% 폭등한 이후 5월과 6월에는 각각 전월에 비해 0.50%, 0.39% 올랐다.",
+    "published_at": "2026-09-04T03:01:00+09:00",
+    "cluster_id": "3f49",
+    "publisher": "머니투데이",
+    "title_clean": "공사비 상승폭 한풀 꺾였는데… 여전한 고유가, 등 휘는 건설사 - 머니투데이",
+    "summary": "7월 건설공사비지수가 138.59로 상승폭이 완화되었으나, 고유가와 금리인상으로 인한 이중고 속에서 건설경기는 최악으로 악화되고 있다. 건설사들의 채산성 악화로 업계 전반이 어려운 상황이 지속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T06:54:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T09:39:56+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설 새 대표는 안전 담당…CSO 겸직한다 - 자본시장뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZVW5HX2hyeS1OQlhxZE02aWItdmVwZGJ6dmh0bER5WmxQZmpfUmhPdXh0M1lKY2R0OXVidUJ5VFJzTkk5dkZ2MXE2RFpoZF82cUFXUXBadEE0akUtakc3OEpsUXdiQnM?oc=5",
-    "description": "DL건설이 하정민 최고안전책임자를 대표이사로 선임했다. 대표 취임 이후에도 최고안전책임자를 겸직한다. 안전 조직 팀장을 거쳐 지난해 8월 최고안전책임자에 오른 지",
-    "published_at": "2026-08-31T09:29:59+09:00",
-    "cluster_id": "5005",
-    "publisher": "자본시장뉴스",
-    "title_clean": "DL건설 새 대표는 안전 담당…CSO 겸직한다",
-    "summary": "DL건설이 안전 전문가인 하정민 최고안전책임자를 새 대표이사로 선임했다. 대표 취임 후에도 CSO(최고안전책임자)를 겸직하며 안전 경영을 강화하는 모습을 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T09:39:56+09:00",
-    "importance": 2
   }
 ]
