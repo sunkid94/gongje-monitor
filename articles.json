@@ -21409,6 +21409,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "R]철강 수출 20% 늘었지만.. 경기 반등은 아직 - andongmbc.co.kr",
+    "link": "http://andongmbc.co.kr/adboard/NewsView84583",
+    "description": "반면 철근과 H빔, 파이프 등 건설 현장에 공급되는 제품이 많은 만큼, 침체된 건설경기는 여전히 지역 철강업계의 부담입니다. [CG 4] 7월 수출은 증가세로 돌아섰지만, 올해 1월부터 7월까지 누적 수출은 54억 2천 100만...",
+    "published_at": "2026-09-03T21:28:00+09:00",
+    "cluster_id": "6e6f",
+    "publisher": "andongmbc.co.kr",
+    "title_clean": "R]철강 수출 20% 늘었지만.. 경기 반등은 아직",
+    "summary": "철강 수출이 20% 증가했으나 건설경기 침체로 인한 부담이 지속되고 있습니다. 철근, H빔, 파이프 등 건설용 제품의 수요가 약한 상황이 계속되고 있어 산업 회복이 미흡합니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-03T21:51:19+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "동부건설, 현장에 '무인 드론·AI' 도입…2029년 전 현장 적용 - srtimes.kr",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=211592",
+    "description": "동부건설이 무인 자동화 드론과 인공지능(AI) 기술을 앞세워 건설현장 안전관리의 디지털 전환에 박차를 가한다. 사람이 직접 조작하지 않아도 사각지대까지 점검하고, 축적된 데이터를 바탕으로 위험요소를 사전에...",
+    "published_at": "2026-09-03T21:32:00+09:00",
+    "cluster_id": "c656",
+    "publisher": "srtimes.kr",
+    "title_clean": "동부건설, 현장에 '무인 드론·AI' 도입…2029년 전 현장 적용",
+    "summary": "동부건설이 무인 드론과 AI 기술을 건설현장에 도입하여 안전관리의 디지털 전환을 추진 중이며, 2029년까지 전 현장에 적용할 계획이다. 자동화 기술을 통해 사각지대 점검과 위험요소 사전 예측으로 현장 안전성 강화 및 업무 효율화를 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-03T21:51:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32271,37 +32303,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T09:08:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[8월 독자위원회] 현장 취재·단독성 기사 눈길… 정책 전달 넘어 대안... - knnews.co.kr",
-    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1549734",
-    "description": "다뤘다”며 “건설경기 침체 속에서 지자체가 지역업체의 수주를 지원하고 있다는 점에서 긍정적인 소식”이라고 말했다. 이어 “향후 대형 SOC 사업 확대와 함께 지역업체의 수주 기회와 실적 확보에도 도움이 될 것”...",
-    "published_at": "2026-08-31T08:58:00+09:00",
-    "cluster_id": "18a1",
-    "publisher": "knnews.co.kr",
-    "title_clean": "[8월 독자위원회] 현장 취재·단독성 기사 눈길… 정책 전달 넘어 대안...",
-    "summary": "건설경기 침체 속에서 지자체가 지역업체의 수주를 지원하고 있으며, 향후 대형 SOC 사업 확대로 지역업체의 수주 기회와 실적 확보에 도움이 될 것으로 전망된다. 현장 취재를 통한 단독성 있는 긍정적 소식을 보도하였다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T09:03:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "한 달 만에 끊긴 ‘트리플 증가’...7월 생산 제자리·소비 2.4%↓ - m-economynews.com",
-    "link": "https://www.m-economynews.com/news/article.html?no=70251",
-    "description": "향후 건설 경기를 가늠할 수 있는 건설수주도 철도·궤도 등 토목과 주택 등 건축 부문에서 모두 줄면서 지난해 같은 달보다 34.0% 감소했다. 경기 흐름을 나타내는 지표는 개선됐다. 현재 경기 상황을 보여주는...",
-    "published_at": "2026-08-31T08:58:00+09:00",
-    "cluster_id": "293f",
-    "publisher": "",
-    "title_clean": "한 달 만에 끊긴 ‘트리플 증가’...7월 생산 제자리·소비 2.4%↓ - m-economynews.com",
-    "summary": "7월 산업생산이 전월 대비 제자리에 머물렀고 소비가 2.4% 감소했다. 건설수주는 토목과 건축 부문 모두에서 줄어들며 전년 동월 대비 34.0% 급감했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T09:03:30+09:00",
-    "importance": 4
   }
 ]
