@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "PF 회수 늘고 신규자금 줄고…주택사업 '돈줄' 마른다 - 한스경제",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Sc1lpaGZaS0wyTjNlWm9fZll5SWJHUjVuOXloTG00ZGxkUkl2UHNPRkkyUWIxRXgzVUpfM0JXX3dyTEhMeXlhWHhjT2VPTWUzUW5BVHp2ZnVmYkVteDVKNWJ3bHBFbEd3SVJJ0gFvQVVfeXFMUGc4ck1YejJEdEZhaHZGZWxvRW9xcmh4OWJMd3k0RS1XQzFXZ0lPSTQ5QmhFbDBVTFRRYmwtNTgzcU8xRmRpMDE1cXRRZ1BTVUNvMndPSElzU0stQnZLR1R5cUJqSUNzckdiV1pPam93?oc=5",
+    "description": "| 서울=한스경제 한나연 기자 | 부동산 프로젝트파이낸싱(PF) 부실 사업장 정리가 속도를 내고 있지만 신규 사업으로 흘러가는 자금은 좀처럼 회복되지 못하고 있다. 금융권이 기존 PF에서 거둬들이는 돈보다 새 사업에 공급하는 자금이 적은 흐름이 약 2년간 이어지면서 정상 주택사업의 자금조달까지 위축될 수 있다는 우려가 나온다.3일 한국건설산업연구원이 발표한",
+    "published_at": "2026-09-03T14:27:12+09:00",
+    "cluster_id": "0ece",
+    "publisher": "한스경제",
+    "title_clean": "PF 회수 늘고 신규자금 줄고…주택사업 '돈줄' 마른다",
+    "summary": "부동산 PF 부실 사업장 정리는 진행 중이나 신규 자금 공급이 회수보다 적어 2년째 악화되고 있다. 금융권의 자금 회수 우위 현상이 지속되면서 정상 주택사업의 자금조달 위축까지 우려되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T07:34:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32285,22 +32301,6 @@
     "publisher": "대한전문건설신문",
     "title_clean": "상습체불 건설사업자 매년 11월까지 명단 공개한다",
     "summary": "건설산업기본법 시행령 개정에 따라 상습체불 건설사업자 명단을 매년 11월까지 공개하는 지침이 마련됐다. 명단 공표 대상자 선정, 소명 절차, 공표 시기 등 세부 절차를 규정한 것으로 미지급금 문제 해소를 위한 제도적 보완이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T09:39:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "고물가·폭염 여파 7월 서비스업 급감···광공업 늘어 전산업 '보합' - newsfreezone.co.kr",
-    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706497",
-    "description": "건설수주(경상)는 철도·궤도 등 토목(-55.0%)과 주택 등 건축(-23.2%)에서 모두 부진해 전년동월대비 34.0% 감소했다. 건설수주 감소세가 이어지면서 향후 건설투자 위축 우려도 커지고 있다. 경기 흐름을 보여주는...",
-    "published_at": "2026-08-31T09:34:00+09:00",
-    "cluster_id": "56c9",
-    "publisher": "newsfreezone.co.kr",
-    "title_clean": "고물가·폭염 여파 7월 서비스업 급감···광공업 늘어 전산업 '보합'",
-    "summary": "7월 서비스업 부진으로 전산업이 보합을 보인 가운데, 건설수주는 토목과 건축 모두 부진하며 전년동월대비 34.0% 감소했다. 건설수주 감소세가 지속되면서 향후 건설투자 위축에 대한 우려가 커지고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-31T09:39:56+09:00",
     "importance": 4
