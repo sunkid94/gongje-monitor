@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[뉴테크 포커스]국토부 소속기관들 특정공법 재공고가 많은 이유는? - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609021557555510437",
+    "description": "창구인 건설신기술ㆍ특허 플랫폼에는 유난히 재공고가 많다. 3일 현재 플랫폼에서 후보모집 중인 공법 가운데 익산지방국토관리청의 프리캐스트 콘크리트 패널(바닥판), 복합말뚝, 합성형 라멘 등 3건은 재공고다. 익산청...",
+    "published_at": "2026-09-04T04:20:00+09:00",
+    "cluster_id": "174e",
+    "publisher": "대한경제",
+    "title_clean": "[뉴테크 포커스]국토부 소속기관들 특정공법 재공고가 많은 이유는?",
+    "summary": "국토부 소속기관의 건설신기술 공법 모집에서 재공고가 빈번한 현상을 다룬 기사이다. 익산지방국토관리청 등에서 프리캐스트 콘크리트 패널, 복합말뚝 등 여러 공법을 반복 공고하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T04:24:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32286,22 +32302,6 @@
     "title_clean": "부산 광공업 생산, 1차금속·기타 운송장비 힘입어 넉 달째 증가",
     "summary": "부산 광공업 생산이 1차금속과 기타 운송장비 부문의 호조로 4개월 연속 증가세를 지속하고 있다. 다만 건설수주액은 전년동월대비 18% 감소했으며, 민간부문 수주 부진으로 업계 회복세가 제한적이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-31T09:29:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설, 하정민 대표이사 선임…현장 '안전통' 부임 - 페로타임즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11cEVjS0E1cWNCY2gtUWhfRzc1cEdqd3J0SHJXSlFxMDVpUzY1NnRJbUNFc1ZmaWdSd3lLdndhWTNPZE0yU1dZWDNkR1Awbzd2QWlGNkpBeGRXTmZEZzJwdHZ6UEU0WWVMUlduQQ?oc=5",
-    "description": "DL건설이 하정민 대표이사를 선임했다. 현장 안전관리부터 본사 안전조직, 최고안전책임자(CSO)까지 경험한 내부 인재를 대표이사로 발탁했다는 평가다.이번 인사는 내부 인재를 중심으로 현장 중심 경영을 강화하는 게 핵심이다. 특히 안전 분야에서 전문성을 쌓아온 하 대표를 선임해 전사 안전관리체계를 강화해 눈에 띈다.하 대표는 1974년생으로 신림고등학교를 졸업한 뒤 2003년 대림산업(현 DL이앤씨)에 현장 안전관리직으로 입사했다. 이후 새만금, 도담-영천 전철, 세종-안성고속도로 등 6개 현장에서 근무했다.본사에서는 안전교육운영팀,",
-    "published_at": "2026-08-31T09:18:22+09:00",
-    "cluster_id": "e302",
-    "publisher": "페로타임즈",
-    "title_clean": "DL건설, 하정민 대표이사 선임…현장 '안전통' 부임",
-    "summary": "DL건설이 현장 안전관리 경험이 풍부한 하정민을 신임 대표이사로 선임했다. 내부 인재 중심의 현장 중심 경영 강화와 전사 안전관리체계 구축을 추진하는 인사다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-31T09:29:43+09:00",
     "importance": 2
   }
