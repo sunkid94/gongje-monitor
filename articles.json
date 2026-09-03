@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[더벨][노루페인트의 확장전략] 내수 막히자 일본 직접 판매 나섰다 - thebell.co.kr",
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609021433338200107940",
+    "description": "특히 내수 시장의 매출 구조인 탓에 국내 건설경기가 침체 시 타격이 더 크다. 올해 상반기 실적에서도 외형 성장은 크지 않았다. 매출은 4062억원으로 전년 동기 대비 2.4% 증가하는 데 그쳤다. 영업이익은 323억원으로 72....",
+    "published_at": "2026-09-04T07:02:00+09:00",
+    "cluster_id": "ed60",
+    "publisher": "thebell.co.kr",
+    "title_clean": "[더벨][노루페인트의 확장전략] 내수 막히자 일본 직접 판매 나섰다",
+    "summary": "노루페인트가 국내 건설경기 침체로 인한 내수 부진을 극복하기 위해 일본 직접 판매에 나섰다. 올해 상반기 매출 증가율이 2.4%에 그치는 등 성장성이 제한적인 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T07:09:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T09:39:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[정책인터뷰] 국토교통부 이기봉 도시정책관에게 듣는다 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iQzlQZWRkWG40QVlPelNzOFB2QnB5Q28zWllsQVdBUXRjSmZkbHBxZXlkTUNPTlZxYWY3bkJScEw5SUhiS05yWThJei1hZWgxa1QxSWFXZlhITlBLYWxrZFAzQQ?oc=5",
-    "description": "“기후위기 대응 지속가능 도시 창출K-AI시티 조성 등 도시 경쟁력 강화”[국토일보 김광년 기자] “유연한 공간 활용과 첨단기술 도입을 통해 도시 경쟁력을 높이고, 인구감소와 기후위기에 대응하는 지속가능한 도시를 만들어 나가겠습니다.”국토교통부 도시정책의 올해 핵심 방향이다.정부가 외연적 확장 중심의 도시계획에서 벗어나 지역 여건을 반영한 전략적 도시정책으로의 전환에 속도를 내고 있다. 공간혁신구역 활성화와 K-AI시티 조성, 개발제한구역의 전략적 활용, 빈집·노후주거지 정비 등을 통해 지역 경쟁력을 높이는 데 정책 역량을 집중하고",
-    "published_at": "2026-08-31T09:35:42+09:00",
-    "cluster_id": "36f7",
-    "publisher": "국토일보",
-    "title_clean": "[정책인터뷰] 국토교통부 이기봉 도시정책관에게 듣는다",
-    "summary": "국토교통부가 공간혁신구역 활성화, K-AI시티 조성, 개발제한구역 전략적 활용, 빈집·노후주거지 정비 등을 통해 지속가능한 도시정책으로 전환하고 있다. 외연적 확장 중심에서 벗어나 지역 여건을 반영한 도시 경쟁력 강화에 정책 역량을 집중할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T09:39:56+09:00",
-    "importance": 2
   }
 ]
