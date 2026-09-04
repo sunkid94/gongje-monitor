@@ -5325,6 +5325,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남동발전·두산, 네팔 현지서 전방위 수색활동…연락두절 직원 구조 총... - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026090421562296974",
+    "description": "네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위해 한국남동발전과 두산에너빌리티가 현장 수색 인력과 범위를 확대하며 구조에 총력을 기울이고 있다. 4일 현지 기업 대응팀에 따르면 남동발전과 두산에너빌리티는...",
+    "published_at": "2026-09-04T22:14:00+09:00",
+    "cluster_id": "e771",
+    "publisher": "busan.com",
+    "title_clean": "남동발전·두산, 네팔 현지서 전방위 수색활동…연락두절 직원 구조 총...",
+    "summary": "네팔 대홍수로 인해 한국남동발전과 두산에너빌리티의 현지 직원 9명이 실종되어 양사가 구조에 총력을 기울이고 있다. 현장 수색 인력과 범위를 확대하며 대응 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T22:29:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21307,22 +21323,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T20:43:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 의정부 장암2구역 재개발 수주…공사비 9002억 - koreareport.co.kr",
-    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=52464",
-    "description": "IPARK현대산업개발이 공사비 9002억원 규모의 의정부 장암2구역 재개발정비사업을 수주했다. 이번 수주로 올해 도시정비사업 누적 수주액은 1조 4854억원으로 늘었다. IPARK현대산업개발은 지난 29일 의정부시...",
-    "published_at": "2026-08-31T20:26:00+09:00",
-    "cluster_id": "20ca",
-    "publisher": "koreareport.co.kr",
-    "title_clean": "IPARK현대산업개발, 의정부 장암2구역 재개발 수주…공사비 9002억",
-    "summary": "IPARK현대산업개발이 의정부 장암2구역 재개발사업을 9002억원 규모로 수주했다. 올해 도시정비사업 누적 수주액이 1조 4854억원으로 증가하며 건설업계의 수주 호조를 보여주고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T20:43:50+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
