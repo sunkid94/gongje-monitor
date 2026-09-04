@@ -5426,6 +5426,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "8월 선박 수주 中 85% 독식…한국 점유율 7% 그쳐 - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnMWlnc203WFhlNTEtcEY0OG94OXJQTlhuRGJGMUZFeG5sR3NyM21NRW13UU9wOWd2aDVwUlBGUHl4UFBKWW56aVJRXzlBODd3cUl3T1BFN3NaLUpUb09ibVF4b0FiblIzWElPQg?oc=5",
+    "description": "지난달 글로벌 선박 발주량이 전년 동월보다 20% 넘게 줄어든 가운데 중국이 전체 물량의 85%를 가져간 것으로 나타났다. 한국의 8월 수주 점유율은 7%에 그쳤다. 다만 올해 1~8월 누적 기준으로는 한국의 수주량도 전년보다 55% 증가하며 글로벌 신조선 발주 확대 흐름에 올라탄 것으로 나타났다.4일 영국 조선·해운시황 전문기관 클락슨리서치에 따르면 올해 8월 전 세계 선박 수주량은 420만CGT(표준선환산톤수·125척)로 집계됐다. 전월 595만CGT보다 29% 감소했고, 지난해 같은 달 551만CGT와 비교해서도 24% 줄었다",
+    "published_at": "2026-09-04T16:29:26+09:00",
+    "cluster_id": "8c30",
+    "publisher": "ER 이코노믹리뷰",
+    "title_clean": "8월 선박 수주 中 85% 독식…한국 점유율 7% 그쳐",
+    "summary": "8월 글로벌 선박 수주량이 전년 동월 대비 24% 감소하며 약세를 보인 가운데, 중국이 85%를 독점했고 한국은 7%에 그쳤다. 다만 올해 누적(1~8월) 기준으로는 한국의 수주량이 전년 대비 55% 증가하며 성장 흐름을 지속하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T16:39:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21408,22 +21424,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T19:02:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성重, 4445억 원에 컨테이너운반선 2척 수주 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20085465?ref=naver",
-    "description": "삼성중공업(010140)은 아프리카 지역 선사로부터 컨테이너운반선 2척을 수주했다고 31일 밝혔다. 계약 규모는 4445억 원이며 선박은 2028년 12월까지 고객에 인도될 예정이다. 이번 수주로 삼성중공업은 상선...",
-    "published_at": "2026-08-31T18:43:00+09:00",
-    "cluster_id": "3cd5",
-    "publisher": "sedaily.com",
-    "title_clean": "삼성重, 4445억 원에 컨테이너운반선 2척 수주",
-    "summary": "삼성중공업이 아프리카 지역 선사로부터 컨테이너운반선 2척을 4445억 원에 수주했다. 선박은 2028년 12월까지 인도될 예정으로, 이는 조선업계의 수주 증가를 의미하는 호재다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T18:53:06+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
