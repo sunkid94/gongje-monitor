@@ -21325,6 +21325,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[사설] 1년 만에 부활한 ‘건폭’, 親勞 대통령도 걱정하는 횡포 - chosun.com",
+    "link": "https://www.chosun.com/opinion/editorial/2026/09/05/Z6NDN4HAHZDOZE5FOYPP3NJKCA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "이 대통령은 폭력을 휘두른 건설 노동자가 유죄 판결을 받은 것이 “이해되지 않는다”고 말하기도 했다. 잘못된 신호가 켜지자 불과 1년여 만에 현장은 다시 아수라장으로 전락했다. 법망을 교묘히 피하는 지능적...",
+    "published_at": "2026-09-05T00:21:00+09:00",
+    "cluster_id": "c75a",
+    "publisher": "chosun.com",
+    "title_clean": "[사설] 1년 만에 부활한 ‘건폭’, 親勞 대통령도 걱정하는 횡포",
+    "summary": "건설 현장의 폭력 문제가 1년 만에 재발하고 있으며, 대통령의 관대한 태도가 노동자들의 법 위반을 조장하는 신호로 작용하고 있다. 업계의 질서 붕괴와 법 집행의 약화가 심각한 문제로 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-05T00:24:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T13:56:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "(21) 소송 중일 때 세금계산서는 언제 발행해야 하나요? - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51532",
-    "description": "소송 중일 때 세금계산서는 언제 발행해야 하나요?Q. 분쟁이 걸린 금액은 세금계산서를 미뤄도 되나요?A. 당초 공급분은 제때 발행하고, 증감분만 나중에 처리합니다.분쟁 이전에 건설용역을 공급한 부분은 각각의 공급시기에 맞게 세금계산서를 발행해야 합니다. 그 후 다툼으로 공급가액이 늘거나 줄어든 부분에 대해서만, 확정판결일 등을 공급시기로 하여 수정세금계산서를 발행하는 것입니다. 분쟁이 있다고 해서 이미 제공한 용역의 세금계산서까지 미룰 수 있는 것은 아닙니다.Q. 법원 조정이나 판결로 확정되는 경우는요?A. 조정조서 정본 송달일 또",
-    "published_at": "2026-08-31T05:00:00+09:00",
-    "cluster_id": "5392",
-    "publisher": "기계설비신문",
-    "title_clean": "(21) 소송 중일 때 세금계산서는 언제 발행해야 하나요?",
-    "summary": "소송 중인 건설용역에서 분쟁이 있더라도 이미 공급한 부분의 세금계산서는 제때 발행해야 하며, 금액 증감분만 확정판결일을 기준으로 수정세금계산서를 발행해야 한다는 세무 지침을 제시한 기사이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T13:56:59+09:00",
-    "importance": 2
   }
 ]
