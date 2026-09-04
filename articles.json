@@ -5325,6 +5325,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주택뉴스] 이언주 의원 \"등록임대 세제 강화보다 서민 주거 안정 우선... - ibabynews.com",
+    "link": "https://www.ibabynews.com/news/articleView.html?idxno=154267",
+    "description": "◇ 대우건설, 美 STOSS와 신월시영 재건축 조경 차별화 STOSS사가 참여한 미국 세인트루이스의 대형 도시 그린웨이 사업인 '브릭라인 그린웨이(Brickline Greenway). ⓒ대우건설 대우건설이 서울 양천구 신월시영아파트...",
+    "published_at": "2026-09-04T19:26:00+09:00",
+    "cluster_id": "c6ac",
+    "publisher": "ibabynews.com",
+    "title_clean": "[주택뉴스] 이언주 의원 \"등록임대 세제 강화보다 서민 주거 안정 우선...",
+    "summary": "이언주 의원이 등록임대주택 세제 강화보다 서민 주거 안정을 우선해야 한다고 주장하고 있으며, 대우건설은 미국 STOSS와 협력하여 신월시영아파트 재건축 조경을 차별화하는 프로젝트를 진행 중입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T19:34:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21305,22 +21321,6 @@
     "title_clean": "네팔 홍수로 고립됐던 두산에너빌 직원 9명 귀국..현장소장은 잔류 - 머니투데이",
     "summary": "두산에너빌리티 직원 10명 중 9명이 네팔 홍수로부터 구조되어 31일 귀국했다. 남은 1명(현장소장)은 현지에 잔류 중이며, 귀국한 직원들은 건강 상태 확인 후 가족과 만났다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-31T20:12:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "해양플랜트 다시 뜬다…삼성중공업·한화오션 수주 잇따라 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OaEFHZFhiZE1KZE5TMi1YMHRlZDlETGdSRDNkX3dBQmV1OTFzVWlpN01VZDZILVNaMGV4SlhZendBVk1tc0twZXNlNllTX1o3c3RwSExsdVRaYkFJMGlNOHYtVQ?oc=5",
-    "description": "부산=에너지경제신문 조탁만 기자 <span style=``white-space: normal;``>해양플랜트 시장이 다시 살아나면서 부산에서 열리는 `OK 2026`에 업계의 관심이..",
-    "published_at": "2026-08-31T16:12:00+09:00",
-    "cluster_id": "e183",
-    "publisher": "에너지경제신문",
-    "title_clean": "해양플랜트 다시 뜬다…삼성중공업·한화오션 수주 잇따라",
-    "summary": "해양플랜트 시장이 회복세를 보이면서 삼성중공업과 한화오션 등 주요 조선사들의 수주가 증가하고 있다. 부산에서 개최되는 OK 2026 전시회에 업계의 관심이 높아지고 있어 해양플랜트 산업의 부흥을 시사하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-08-31T20:12:58+09:00",
     "importance": 2
   },
