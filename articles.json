@@ -5477,6 +5477,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "69일 만에 또 사망사고…현대건설 ‘샤힌’ 재발방지 약속, 현장서 작동... - geconomy.co.kr",
+    "link": "https://www.geconomy.co.kr/news/article.html?no=323359",
+    "description": "2023년 착공했으며 현대건설이 주간사를 맡고 현대엔지니어링과 DL이앤씨, 롯데건설 등이 공사에 참여하고 있다. 현대건설 구간에 앞서 지난 5월 25일에는 DL이앤씨가 시공에 참여한 샤힌 프로젝트 현장에서 작업자 1명이...",
+    "published_at": "2026-09-04T13:56:00+09:00",
+    "cluster_id": "6544",
+    "publisher": "geconomy.co.kr",
+    "title_clean": "69일 만에 또 사망사고…현대건설 ‘샤힌’ 재발방지 약속, 현장서 작동...",
+    "summary": "현대건설이 주간사로 참여 중인 대형 프로젝트 현장에서 69일 만에 또 다시 사망사고가 발생했다. 현대건설은 '샤힌' 안전 재발방지 대책을 약속했으나 현장에서의 실제 작동 상황이 미흡한 상태로 나타났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T14:00:07+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21459,22 +21475,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T18:03:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, '9000억원 규모' 의정부 장암2구역 재개발 수주 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260831001020",
-    "description": "IPARK현대산업개발이 경기 의정부 장암2구역 재개발정비사업 시공사로 선정됐다. IPARK현대산업개발은 지난 29일 열린 의정부 장암2구역 재개발정비사업 시공사 선정총회에서 사업 시공사로 선정됐다고 31일 밝혔다....",
-    "published_at": "2026-08-31T17:54:00+09:00",
-    "cluster_id": "cc63",
-    "publisher": "newspim.com",
-    "title_clean": "IPARK현대산업개발, '9000억원 규모' 의정부 장암2구역 재개발 수주",
-    "summary": "IPARK현대산업개발이 경기 의정부 장암2구역 재개발정비사업의 시공사로 선정되어 약 9000억원 규모의 사업을 수주했다. 건설업계에 수주 기회 증가와 건설 수요 창출로 작용할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T18:03:42+09:00",
-    "importance": 3
   },
   {
     "keyword": "중대재해 건설",
