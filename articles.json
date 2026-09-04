@@ -5325,6 +5325,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "지방은 \"신축 찾아 삼만리\"…IPARK현산, '천안 아이파크 시티 3·4단지' 분양 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpWTZXOTFnLWdsQkN5ZVdxVi15MXpKNVRLQWh4dVV2aGx2bEtLUlkwM1gtVjdaSzY2dHJwMVRkRW1Zbmc3Nm83aVNFN1J1Sy1wR0w0?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 지방도 ‘얼죽신’ 트렌드… 준공 5년 이내 신축, 높은 선호에 매매가 강세신축 브랜드 아파트 ‘천안 아이파크 시티 3\\·4단지’에도 수요자 관심 천안 서북구 부대동 일원에 조성되는",
+    "published_at": "2026-09-04T09:51:00+09:00",
+    "cluster_id": "de66",
+    "publisher": "네이트",
+    "title_clean": "지방은 \"신축 찾아 삼만리\"…IPARK현산, '천안 아이파크 시티 3·4단지' 분양",
+    "summary": "신축 아파트에 대한 수요가 지방까지 확대되는 추세 속에서 IPARK현산이 천안 아이파크 시티 3·4단지를 분양한다. 준공 5년 이내 신축 물량에 대한 높은 선호도로 건설사의 수주 기회가 증가하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-05T00:49:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21307,22 +21323,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T20:43:50+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔서 구조된 두산 한국인 직원 9명 귀국···현장소장은 수색 도우려... - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202608312019001",
-    "description": "두산에너빌리티는 이날 오후 2시쯤 네팔 홍수 현장에서 구조된 직원 9명이 한국에 도착했다고 밝혔다. 이들은 귀국 직후 건강 상태를 확인한 뒤 귀가했다. 입원이 필요하거나 거동이 불편한 직원은 없는 것으로 전해졌다....",
-    "published_at": "2026-08-31T20:19:00+09:00",
-    "cluster_id": "96b4",
-    "publisher": "khan.co.kr",
-    "title_clean": "네팔서 구조된 두산 한국인 직원 9명 귀국···현장소장은 수색 도우려...",
-    "summary": "두산에너빌리티 직원 9명이 네팔 홍수 현장에서 구조되어 한국으로 귀국했다. 귀국 직후 건강 상태 확인 결과 입원이 필요한 직원은 없으며 모두 안전한 상태다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T20:43:50+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
