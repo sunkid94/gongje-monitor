@@ -21477,6 +21477,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설연, 도심 수소시설 고압설비 지하화 안전기술 개발 - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONGZYX2ZuUjRRUkY5TmMyTmhhUVpBRFpXdzNPYkJhZ0V4aGRzM2haRUxqcUxiT2lhanRFSjdQN0U5QTNTektLZ2ZMaFA1aHY3bUFUM2FwNG5VYWxURG1GR0x3TnZrZ0h5VEk4b2pzSE9VSVVPRVpxLUFxQmVZanVTR1J1M3pQN04zLWFtM1R5cjQwSlBBeTdyRHAxV3dlYnhhVXo5OFZ6VElpQjdLYWR1OF90d1pXempuRDhKTHUzSVRfb3FuT3laUlUxNmlFQ1dKNE9EUHlGV044dmdvWDRxd0s4UEYxYUZvMjlGM2IwM2xlZUROYUhPNFg5cWl6T2ZQaHBVZm1UVE5sb3FsdmxvQjR0UFFWX1U1bUcwbF9UQjdyTkk?oc=5",
+    "description": "﻿한국건설기술연구원(건설연)이 도심 수소시설의 고압설비를 지하에 배치해 사고 피해를 줄이는 안전기술을 개발했다.건설연은 수소 생산·충전시설의 고압설비를 지하 방호공간에 두고 지상 운영시설과 연계하는 ‘지상-지하 입체화 방호구조 안전성 설계기술’을 개발했다고 4일 밝혔다.수소가 누출되면 센서가 이를 감지해 밸브를 차단하고 설비를 멈춘 뒤 강제 환기가 가동된다",
+    "published_at": "2026-09-04T10:43:00+09:00",
+    "cluster_id": "b548",
+    "publisher": "데일리안",
+    "title_clean": "건설연, 도심 수소시설 고압설비 지하화 안전기술 개발",
+    "summary": "한국건설기술연구원이 도심 수소시설의 고압설비를 지하에 배치하는 안전기술을 개발했다. 지상-지하 입체화 방호구조로 사고 피해를 최소화하고, 수소 누출 시 자동 감지·차단·환기 시스템으로 안전성을 강화했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T10:49:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32288,22 +32304,6 @@
     "publisher": "아시아경제",
     "title_clean": "DL건설, 하정민 신임 대표 선임…안전분야 전문 현장통",
     "summary": "DL건설이 안전 분야 전문가인 하정민을 신임 대표이사로 선임했다. 현장 경험이 풍부한 인사로 건설 현장의 안전 관리 강화가 기대된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T10:35:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설, 하정민 대표이사 선임…'현장형 안전 전문가' 발탁 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xN21RNVVLMTlMaThxQTJMRmdIal9xWEM4QTd6T2lEZS1pRl8ya1RrT1lpdmc5ckJKSXFlOFpLQ2kzUjZRWFU1UjBKVXpick1UYXRr?oc=5",
-    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : [서울=뉴시스]DL건설 하정민 신임 대표이사 (사진=DL건설 제공) 2026. 8. 31. *재판매 및 DB 금지 [서울=뉴시스]정유선 기자 = DL건설은 하정민 최고안전책임자(CSO)를 신임 대표이사로 선임했다고 31일 밝혔다. 하 신임 대표는 19",
-    "published_at": "2026-08-31T10:15:00+09:00",
-    "cluster_id": "5edd",
-    "publisher": "네이트",
-    "title_clean": "DL건설, 하정민 대표이사 선임…'현장형 안전 전문가' 발탁",
-    "summary": "DL건설이 최고안전책임자(CSO) 하정민을 신임 대표이사로 선임했다. 현장형 안전 전문가를 경영진에 발탁하여 안전 경영 강화 의지를 드러냈다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T10:35:18+09:00",
     "importance": 2
