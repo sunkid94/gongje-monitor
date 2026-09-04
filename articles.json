@@ -21308,6 +21308,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기 부진·민간 시장 위축…작년 건설공사액 7.9% 급감 - 정보통신신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSXotMjlzZTVlajYzYkh2Nng1QnIxaXNMS3VtLXB6SEtkQThNVDhObDdRc2dpTzcxM280TEdvbnIyNnhHZFh3UXhZdmxteGUyYmZzbnhXa0lvNkhxMVVDVF9sT1VYbzVp0gFsQVVfeXFMUEF5SXNaenA3UTVNd0Jfa1RHazB2cDJ5M1lFTHJpb21nUHEzY3ltQmR1VkYxd2RURzViLUJsQktSbnhNRFJlUjZtcWRJNHJZbTVzekI0MVZFRXZOT2N0VDB4M0I0YjVERjRKTFF3?oc=5",
+    "description": "[정보통신신문=이민규기자]지난해 국내 건설공사액이 1998년 IMF 외환위기 이후 가장 큰 폭으로 감소한 것으로 나타났다. 이런 흐름과 맞물려 정보통신공사 업종의",
+    "published_at": "2026-09-05T07:12:16+09:00",
+    "cluster_id": "ba89",
+    "publisher": "정보통신신문",
+    "title_clean": "경기 부진·민간 시장 위축…작년 건설공사액 7.9% 급감",
+    "summary": "지난해 국내 건설공사액이 7.9% 급감하여 1998년 IMF 외환위기 이후 최대 낙폭을 기록했다. 경기 부진과 민간 시장 위축이 주요 원인으로 작용하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-05T08:09:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32280,22 +32296,6 @@
     "title_clean": "감염병 확산예방을 위해 필요한 적절한 기계설비 관리",
     "summary": "감염병 확산을 예방하기 위해 건물의 배관, 환기덕트 등 기계설비에 대한 적절한 관리가 절대적으로 필요하다는 내용으로, 역류차단, 밸런스 조정, TAB 등의 관리 미흡 시 바이러스 전파 경로가 될 수 있음을 지적. 천연두 사례를 통해 기계설비의 중요성을 강조.",
     "sentiment": "positive",
-    "collected_at": "2026-08-31T13:56:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "〈48〉 테이크어웨이에서 헤드가 처질 때 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51483",
-    "description": "테이크어웨이에서 헤드가 뒤로 처지는 골퍼들이 있다. 이 동작은 훅, 뒷땅, 생크로 이어지기 쉬운 대표적인 실수다. 문제를 모르는 골퍼는 없다. 그런데 왜 고쳐지지 않을까?요즘의 골퍼들은 당연히 손목을 올바르게 써야 한다고 생각한다. 그래서 손목에 집중해서 연습하지만 결과는 크게 달라지지 않는다.사실 헤드가 처지는 원인은 손목보다 팔에 있는 경우가 많다. 힌지를 거는 순간, 왼손과 왼팔이 공 쪽으로, 즉 몸에서 멀어지는 방향으로 밀려나가기 때문이다.<사진1> 팔이 밀려나가니 헤드는 자연히 뒤로 남게 되고, 그 상태로 다운스윙이 시작되",
-    "published_at": "2026-08-31T05:10:00+09:00",
-    "cluster_id": "99ba",
-    "publisher": "기계설비신문",
-    "title_clean": "〈48〉 테이크어웨이에서 헤드가 처질 때",
-    "summary": "이 기사는 골프 기술 분석 콘텐츠로, 테이크어웨이 시 헤드가 처지는 골퍼들의 흔한 실수를 다룬다. 손목이 아닌 팔의 움직임이 원인이며, 힌지 과정에서 팔이 몸에서 멀어지는 방향으로 밀려나가면서 헤드가 뒤로 남게 된다.",
-    "sentiment": "neutral",
     "collected_at": "2026-08-31T13:56:59+09:00",
     "importance": 2
   }
