@@ -21443,6 +21443,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "아이티유, 안전산업박람회서 통합 안전 솔루션 'AICURE' 공개…\"개발부터 생산까지 자체 수행\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLMmFOeW82WGd2X1FfRHFrUU9tOXAwUnE2R3BMRkVTVjc0b1JxZnRaWWJzOEpCRnRfSXJVU2o5eHdyRjhJSlV5ZVBDNUlJWlZHMW1R?oc=5",
+    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 촬영-에이빙뉴스(주)아이티유(itu co., Ltd)가 2일부터 4일까지 3일간 부산 벡스코에서 열린",
+    "published_at": "2026-09-04T12:24:00+09:00",
+    "cluster_id": "18da",
+    "publisher": "네이트",
+    "title_clean": "아이티유, 안전산업박람회서 통합 안전 솔루션 'AICURE' 공개…\"개발부터 생산까지 자체 수행\"",
+    "summary": "아이티유가 부산 벡스코에서 열린 안전산업박람회에서 통합 안전 솔루션 'AICURE'를 공개했다. 개발부터 생산까지 자체 수행하는 자체 역량을 강조한 제품이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T12:50:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32289,21 +32305,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T11:05:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "베트남 건설 노동조합, 벨로루시 노동조합과 협력 강화 - Laodong.vn",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnhYZGl4MExxeWFiYVlZVS1aS3dZQkFiZGhZamtiRW1pMWJBbWRMSkQtbkt0VG0wSEVqY2RBVEFEOG9WOE9Pc0FlMmZvSjZOd1F3Mmc2dzRsa2wxYjR4UDFnc2NRSC1iV2V5SXY0djFxV0JYS2c0akduMnEwd1R5a2N0Mk83M1FPbHJ3MHdMdlBLaGxzcFF3ai02Ty1UZXlESlgySjA5V2ZmbVlIbjZIZEpobnQ?oc=5",
-    "description": "베트남 건설 노동조합, 벨로루시 건설 산업 및 건축 자재 생산 산업 노동조합 방문 및 업무 협의.",
-    "published_at": "2026-08-31T08:48:47+07:00",
-    "cluster_id": "859f",
-    "publisher": "Laodong.vn",
-    "title_clean": "베트남 건설 노동조합, 벨로루시 노동조합과 협력 강화",
-    "summary": "베트남 건설 노동조합이 벨로루시의 건설 산업 및 건축 자재 생산 산업 노동조합과 업무 협력을 강화하기 위해 방문 및 협의를 추진하고 있다. 국제 건설업계의 협력 네트워크 확대 움직임으로 볼 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T11:05:54+09:00",
-    "importance": 2
   }
 ]
