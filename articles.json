@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "대한기계설비건설협회 강원특별자치도회, 강원교육장학회에 장학금 기탁 - webeconomy.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4WENRS2pyZU5EWmZvTTZhNXRubVpCSmJhOV9id1Rjek55M1hFYjFaNDhSbV9ua2lsREtzOWZGYTcxa004Um9JZW5KUi1vRTNQV2J0RnE3ZXRVb0U2dnJjV2p1dVkyeWVZWnNFaE5LTjlwUQ?oc=5",
+    "description": "강원특별자치도교육청은 대한기계설비건설협회 강원특별자치도회로부터 장학금 5백만 원을 전달받았다.이 협회는 매년 지역 인재를 위해 장학금을 지원해 왔다.강삼영 교육감",
+    "published_at": "2026-09-04T12:56:01+09:00",
+    "cluster_id": "f112",
+    "publisher": "webeconomy.co.kr",
+    "title_clean": "대한기계설비건설협회 강원특별자치도회, 강원교육장학회에 장학금 기탁",
+    "summary": "대한기계설비건설협회 강원특별자치도회가 지역 인재 육성을 위해 강원교육장학회에 장학금 5백만 원을 기탁했다. 동 협회는 매년 지속적으로 장학금을 지원해 왔다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T13:09:55+09:00",
+    "event_label": "대한기계설비건설협회 강원특별자치도회 장학금 기탁",
+    "importance": 5
+  },
+  {
     "keyword": "기계설비협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32290,21 +32307,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T11:12:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기·인천 7월 소비·건설 동반 위축…광공업 생산은 엇갈려 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mSERQMU9tRkd5bXBnaFNUM3FUU3dHSTZDZENEQ0VocHBZSkdTY1VLWllqTzUzWlh2M1g2ZkI1aVNvSTBfVk5HMWV5cEFadm8?oc=5",
-    "description": "경기지역 7월 광공업 생산과 출하가 지난해 같은 달보다 나란히 줄고 제조업 재고는 두 자릿수 증가율을 기록했다. 대형소매점 판매와 건설수주도 줄어 생산·소비·건설 지표가 전반적으로 부진했다. 31일 경인지방데이터청이 발표한",
-    "published_at": "2026-08-31T10:12:32+09:00",
-    "cluster_id": "70de",
-    "publisher": "v.daum.net",
-    "title_clean": "경기·인천 7월 소비·건설 동반 위축…광공업 생산은 엇갈려",
-    "summary": "경기지역 7월 광공업 생산과 출하가 전년 동월 대비 감소했으며, 제조업 재고는 두 자릿수 증가율을 기록했다. 대형소매점 판매와 건설수주도 줄어 생산·소비·건설 지표가 전반적으로 부진한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T11:10:43+09:00",
-    "importance": 4
   }
 ]
