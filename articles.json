@@ -21325,6 +21325,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "한성숙 신축 매입임대, 미분양 위험 덜고 건설경기에도 도움 - 아주경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xX1FVY2NsakpwNzdoZFptNzNpTldEQjRXcjVtRUJuNXJ6SWFJQWt5YzZPYVpQckQ3S292R0Z6UlZaaUdFczVsaDBOY2R3UHVSWGh3blVabVBHQdIBWEFVX3lxTE45bXVKVHIydS1PWUdQUzJxSjV6U3J1dHdXYzdoNHVRNzdQc0JVZmlmQkhOMmt4RWFDS1pUbExkOG9HZW1vQXc2UFE0bkhWdURrN1NpWUJWMjE?oc=5",
+    "description": "한성숙 국무총리가 4일 신축 매입임대주택 현장을 점검한 데 이어 주요 건설·개발업계 대표들과 만나 주택 공급 활성화 방안을 논의했다. 공공이 단기간에...",
+    "published_at": "2026-09-04T20:35:30+09:00",
+    "cluster_id": "6be0",
+    "publisher": "아주경제",
+    "title_clean": "한성숙 신축 매입임대, 미분양 위험 덜고 건설경기에도 도움",
+    "summary": "한성숙 국무총리가 신축 매입임대주택 사업을 점검하고 건설·개발업계와 주택 공급 활성화 방안을 논의했다. 공공의 적극적인 주택 공급 정책으로 미분양 위험 완화 및 건설경기 활성화를 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T20:39:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T13:41:23+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "울산 7월 산업활동 엇갈려…생산·건설수주↑ 소비·출하↓ - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260831_0003768770",
-    "description": "광공업 생산과 건설수주는 증가했지만 광공업 출하와 소비는 감소했다. 31일 국가데이터처 동남지방데이터청이 발표한 '2026년 7월 울산시 산업활동동향'에 따르면 울산지역 광공업 생산은 전년 동월 대비 0.9...",
-    "published_at": "2026-08-31T13:00:00+09:00",
-    "cluster_id": "e39b",
-    "publisher": "newsis.com",
-    "title_clean": "울산 7월 산업활동 엇갈려…생산·건설수주↑ 소비·출하↓",
-    "summary": "울산지역 7월 산업활동이 엇갈린 결과를 보였으며, 광공업 생산과 건설수주는 전년 동월 대비 증가했으나 출하와 소비는 감소했다. 건설수주 증가는 건설업계에 긍정적 신호이나, 출하 감소는 선행 부진을 시사한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T13:11:06+09:00",
-    "importance": 3
   }
 ]
