@@ -5359,23 +5359,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, 광주 '서부보상센터' 신설…호남권 보상업무 통합 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260805001451",
-    "description": "전문건설공제조합(K-FINCO)이 호남지역 조합원과 보증채권자의 업무 편의를 높이기 위해 광주에 서부보상센터를 신설했다. 광주·전주·목포·순천지점에 분산돼 있던 보상과 채권관리 업무를 한곳으로 모아 처리 속도와...",
-    "published_at": "2026-08-05T17:36:00+09:00",
-    "cluster_id": "cf98",
-    "publisher": "newspim.com",
-    "title_clean": "전문건설공제조합, 광주 '서부보상센터' 신설…호남권 보상업무 통합",
-    "summary": "전문건설공제조합이 광주에 서부보상센터를 신설하여 호남지역 4개 지점의 보상·채권관리 업무를 통합. 조합원과 채권자의 업무 편의성 향상 및 처리 속도 개선을 목표로 함.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-05T17:44:04+09:00",
-    "event_label": "전문건설공제조합 광주 서부보상센터 신설",
-    "importance": 6
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21373,6 +21356,22 @@
     "summary": "네팔 대홍수 현장에서 구조된 두산에너빌리티 현장소장이 사고 당시 거센 물보라로 시야 확보가 불가능했던 상황을 증언했습니다. 현장소장은 구조 후에도 남아 실종된 동료들의 수색을 돕겠다는 의지를 보였습니다.",
     "sentiment": "negative",
     "collected_at": "2026-08-31T19:43:10+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대건설, 울산 샤힌 에틸렌시설 공사서 중대재해 발생 - 아시아투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwWHFpRWxvSDVXRUs1dXlON0tocWFoRFRxTFc3WWhWbDhDZnFJalpKMWY2ckY4YUpXV3NEazdGMmoxUXMxWXpwSjhYVUwxTm9RT2MybDNCMlJmOFNzbU03cEk3MnV4bjNPNnJhSQ?oc=5",
+    "description": "현대건설이 시공 중인 울산 샤힌 에틸렌 시설 건설공사 현장에서 중대재해가 발생했다.현대건설은 지난 3일 울산 샤힌 에틸렌시설 건설공사 PKG1 현장에서 노동자 1명이 추락해 사망했다고 4일 공시했다.사고 당시 뿜칠 작업을 지원하기 위해 안전난간대가 설치된 안쪽에서 몸..",
+    "published_at": "2026-09-04T17:36:25+09:00",
+    "cluster_id": "27ab",
+    "publisher": "아시아투데이",
+    "title_clean": "현대건설, 울산 샤힌 에틸렌시설 공사서 중대재해 발생",
+    "summary": "현대건설이 시공 중인 울산 샤힌 에틸렌시설 건설공사 현장에서 노동자 1명이 추락으로 사망하는 중대재해가 발생했다. 뿜칠 작업 지원 중 안전난간대 내측에서 발생한 사고로, 건설업계의 안전관리 문제를 드러냈다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T17:49:46+09:00",
     "importance": 4
   },
   {
