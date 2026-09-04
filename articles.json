@@ -21325,6 +21325,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고위험 사업장 지원 늘리고 AI 활용…내년 산업안전 예산 ‘현장’에 방점 - 안전저널",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40SThmcFM3a3g0QkJPc0xRZGdaQnFhMDdKOUJ6RTJtVUJ2X2t2d2tSUS1rcFRBYkttWmxvclRhSGs2bTYtSFhNSm1ma3RYV2FHZFdpU3ptbDdMaTJQcUZOVlZfeWk1bkk?oc=5",
+    "description": "고용노동부가 내년도 산업안전 분야 예산을 '고위험 사업장 지원'에 집중 투입한다. 산재 사각지대 지원을 확대하고, AI를 활용한 산재예방 체계도 고도화된다.4일",
+    "published_at": "2026-09-04T14:58:43+09:00",
+    "cluster_id": "4df4",
+    "publisher": "안전저널",
+    "title_clean": "고위험 사업장 지원 늘리고 AI 활용…내년 산업안전 예산 ‘현장’에 방점",
+    "summary": "고용노동부가 내년도 산업안전 예산을 고위험 사업장 지원과 AI 기반 산재예방에 집중 투입한다. 산재 사각지대 확대 지원과 안전관리 체계 고도화를 추진한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T21:04:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T13:41:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설, 하정민 CSO 신임 대표이사 선임…안전경영 강화 - 리더스팩트",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSjhDUW5YUUtsa3JGRklGQlQzWENZbW43cjh2cFBMcUpQaE1fa3ZhSUdIZTNaeHBFXzkzcWp3dmtjdjFON2R6WUY4RnFLQVFmRGl3d2hsQzRLbzZSY05yQVUyTmF6R1ZaYW5weHNKUE8?oc=5",
-    "description": "[리더스팩트=정은아 기자] DL건설은 하정민 최고안전책임자(CSO)를 신임 대표이사로 선임했다고 31일 밝혔다. 하 대표는 대표이사 취임 이후에도 CSO를 겸직한",
-    "published_at": "2026-08-31T11:03:00+09:00",
-    "cluster_id": "f062",
-    "publisher": "리더스팩트",
-    "title_clean": "DL건설, 하정민 CSO 신임 대표이사 선임…안전경영 강화",
-    "summary": "DL건설이 하정민 최고안전책임자(CSO)를 신임 대표이사로 선임했다. 새 대표는 대표이사 취임 후에도 CSO를 겸직하며 안전경영 강화를 추진할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T13:41:23+09:00",
-    "importance": 2
   }
 ]
