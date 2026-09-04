@@ -5325,6 +5325,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부산시 삼성중공업 R&D 거점 품는다 - 환경일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuSy15Q1dHXzNtdjJhNE1fTlNZaERJX2JCbE5YdDEzLXM0U2ljdXJMOF9ERDFuN1NsdFg4dnhwYi1vSzM4Q2c2cHJwRDU3MHZCSkJRWEtmd2RBeWI0ajhFdVhBSmQzbmJL?oc=5",
+    "description": "[부산=환경일보] 장가을 기자 = 부산시(시장 전재수) 9월3일 오전 10시 30분 시청 국제의전실에서 국내 대표 조선 해양 기업인 삼성중공업㈜과 ‘부산 R&D센터’ 확장을 위한 투자 양해각서를 체결한다고 밝혔다. 이날 체결식에는 전재수 시장, 최성안 삼성중공업 대표이사가 참석해 양해각서에 직접 서명했다. 삼성중공업은 최근 미국 델핀사의 FLNG 수주로, 북미지역의 성공적인 진출과 추가적인 FLNG 수주 및 해양플랜트 산업에 대한 기술적 경쟁력을 확보했다. 최근 수주에 성공한 미국 델핀사의 FLNG의 본격적인 설계 착수를 위해 부산",
+    "published_at": "2026-09-04T15:40:00+09:00",
+    "cluster_id": "83e4",
+    "publisher": "환경일보",
+    "title_clean": "부산시 삼성중공업 R&D 거점 품는다",
+    "summary": "부산시가 삼성중공업과 R&D센터 확장을 위한 투자 양해각서를 체결했다. 삼성중공업은 미국 델핀사의 FLNG 수주로 북미 진출에 성공하였으며, 부산에서 설계 업무를 본격화할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-05T02:14:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21304,22 +21320,6 @@
     "publisher": "news.sbs.co.kr",
     "title_clean": "구조된 현장소장 \"비통\"…직접 전한 당시 상황",
     "summary": "수력발전소 건설 현장에서 발생한 사고로 두산에너빌리티 현장소장을 포함한 직원들이 구조되었습니다. 당시 거센 물보라로 현장 확인에 수 시간이 소요된 것으로 전해졌습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T20:43:50+09:00",
-    "importance": 5
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[속보] 네팔 홍수로 고립됐던 근로자 9명 귀국…현장소장은 잔류 - wowtv.co.kr",
-    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608310510&t=NN",
-    "description": "네팔 대홍수로 수력발전소 건설 현장에 고립됐다가 구조된 두산에너빌리티 직원 9명이 31일 오후 국내로 귀국했다. 두산에너빌리티에 따르면 네팔 중북부 어퍼트리슐리-1(UT-1) 수력발전소 공사 현장에서 구조된 한국인...",
-    "published_at": "2026-08-31T20:21:00+09:00",
-    "cluster_id": "893c",
-    "publisher": "wowtv.co.kr",
-    "title_clean": "[속보] 네팔 홍수로 고립됐던 근로자 9명 귀국…현장소장은 잔류",
-    "summary": "네팔 홍수로 수력발전소 건설 현장에 고립됐던 두산에너빌리티 직원 9명이 귀국했다. 현장소장은 잔류하며 상황 관리를 계속하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-31T20:43:50+09:00",
     "importance": 5
