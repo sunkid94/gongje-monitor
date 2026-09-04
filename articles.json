@@ -5325,6 +5325,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"중국이 다 쓸어갔다\" 비상…한국은 한 자릿 수 '충격 상황' - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCNzV3NmpkRjlCamN2ZzZTQW80b1o5UmZ2czJzR2ZQMHZ0YTRwLWRjVDZrWjI5bU83MWJFX0hUWTd1LUdkMi1yR1R0eFpZbGZXNUFHMHhnWXRWUQ?oc=5",
+    "description": "\"중국이 다 쓸어갔다\" 비상…한국은 한 자릿 수 '충격 상황', 8월 선박 수주 중국 85% 싹쓸이&hellip;한국은 7% 그쳐 8월 전세계 선박 수주, 전년 대비 24% 감소 올해 누적 기준 점유율 韓 16%, 中 76%",
+    "published_at": "2026-09-04T16:36:03+09:00",
+    "cluster_id": "8479",
+    "publisher": "한국경제",
+    "title_clean": "\"중국이 다 쓸어갔다\" 비상…한국은 한 자릿 수 '충격 상황'",
+    "summary": "8월 전세계 선박 수주에서 중국이 85%를 차지하며 한국은 7%에 그쳤다. 올해 누적 기준으로도 중국이 76%, 한국이 16%의 점유율을 기록하며 한국 조선업의 수주 경쟁력이 급격히 약화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-05T06:09:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21304,22 +21320,6 @@
     "publisher": "segye.com",
     "title_clean": "네팔 대홍수 구조된 두산에너빌리티 직원 9명 한국 귀국… 회사는 남은...",
     "summary": "네팔 대홍수로 두산에너빌리티의 수력발전소 건설 현장에서 고립된 직원 9명이 구조되어 한국으로 귀국했다. 현장소장은 현지에 남아 있으며 연락 두절된 직원들의 구조 작업이 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T20:43:50+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 홍수서 구조된 두산에너빌리티 직원 9명 귀국…현장소장 현지 남아... - ngetnews.com",
-    "link": "https://www.ngetnews.com/news/articleView.html?idxno=552875",
-    "description": "뉴스저널리즘 장하민 기자 = 네팔 대홍수 현장에서 구조된 두산에너빌리티 직원 9명이 31일 귀국했다. 현장소장은 연락이 닿지 않는 동료 6명의 수색 작업을 지원하기 위해 현지에 남았다. 두산에너빌리티는 귀국 직원들의...",
-    "published_at": "2026-08-31T20:22:00+09:00",
-    "cluster_id": "7760",
-    "publisher": "ngetnews.com",
-    "title_clean": "네팔 홍수서 구조된 두산에너빌리티 직원 9명 귀국…현장소장 현지 남아...",
-    "summary": "네팔 대홍수 현장에서 두산에너빌리티 직원 9명이 구조되어 31일 귀국했다. 현장소장은 연락이 닿지 않는 동료 6명의 수색을 위해 현지에 남아있는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-08-31T20:43:50+09:00",
     "importance": 4
