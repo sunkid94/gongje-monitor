@@ -5308,21 +5308,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[Invest]상반기 닫힌 지갑, 하반기 열린다…연기금·공제회 PE·VC 2조 출... - investchosun.com",
-    "link": "https://www.investchosun.com/site/data/html_dir/2026/08/05/2026080580116.html",
-    "description": "구체적인 출자액은 정해지지 않았지만 지난해에는 중·소형 운용사를 대상으로 총 2500억원을 출자했다.전문건설공제조합도 국내 PE 블라인드펀드 운용사 한 곳에 300억원을 출자하는 절차를 밟고 있다. 최종 운용사...",
-    "published_at": "2026-08-06T07:02:00+09:00",
-    "cluster_id": "42d1",
-    "publisher": "investchosun.com",
-    "title_clean": "[Invest]상반기 닫힌 지갑, 하반기 열린다…연기금·공제회 PE·VC 2조 출...",
-    "summary": "연기금과 공제회들이 상반기 이후 PE·VC 펀드에 대한 출자를 확대하고 있다. 전문건설공제조합은 국내 PE 블라인드펀드 운용사에 300억원을 출자 중이며, 지난해에는 중·소형 운용사 대상 총 2,500억원을 출자했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-06T07:08:46+09:00",
-    "event_label": "전문건설공제조합 PE·VC 펀드 출자 확대",
-    "importance": 5
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "LNG선 발주 살아나는데…조선업계 원가·파업 변수 겹쳐 [KDF Industry] - kdfnews.com",
+    "link": "http://www.kdfnews.com/news/articleView.html?idxno=187557",
+    "description": "한화오션 거제 조선소 사업장 모습 영국 조디악마리타임은 LNG선 신조 발주를 검토하며 삼성중공업, 한화오션과 협의를 진행하고 있는 것으로 전해졌다. 회사는 장기 용선계약 확보를 과제로 두고 있으며, 최근 신규...",
+    "published_at": "2026-09-05T07:00:00+09:00",
+    "cluster_id": "5ced",
+    "publisher": "kdfnews.com",
+    "title_clean": "LNG선 발주 살아나는데…조선업계 원가·파업 변수 겹쳐 [KDF Industry]",
+    "summary": "영국 조디악마리타임이 LNG선 신조 발주를 검토하며 삼성중공업, 한화오션과 협의 중이나, 조선업계는 원가 상승과 파업 등 변수에 직면해 있다. LNG선 발주 수주는 긍정적이지만 수익성 악화 우려가 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-05T07:09:04+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21307,22 +21306,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T20:43:50+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 홍수로 고립됐던 근로자 9명 귀국…현장소장 잔류 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202608312020227849",
-    "description": "구조된 두산에너빌리티 직원 9명은 이날 오후 2시께 한국에 들어온 것으로 뒤늦게 알려졌다. 이들은 귀국 직후 건강 상태를 확인한 뒤 귀가했으며 입원 치료가 필요할 정도의 건강 이상은 없는 것으로 전해졌다. 이들은...",
-    "published_at": "2026-08-31T20:23:00+09:00",
-    "cluster_id": "9dea",
-    "publisher": "fnnews.com",
-    "title_clean": "네팔 홍수로 고립됐던 근로자 9명 귀국…현장소장 잔류",
-    "summary": "네팔 홍수로 고립됐던 두산에너빌리티 직원 9명이 귀국했으며, 입원 치료가 필요할 정도의 건강 이상은 없는 것으로 전해졌다. 현장소장은 잔류 중인 것으로 알려졌다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T20:43:50+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
