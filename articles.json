@@ -5477,6 +5477,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "기업 공시 [9월 4일] - sedaily.com",
+    "link": "https://www.sedaily.com/article/20087265?ref=naver",
+    "description": "예정 ▲두산퓨얼셀(336260)=울산에너루트2호 연료전지 시스템 장기유지보수계약 체결 353억 원 규모 ▲한국앤컴퍼니(000240)=대전공장 자동차용 납축전지 배터리 전체 생산 재개, 화재사고 수습 및 공정 정비 완료에...",
+    "published_at": "2026-09-04T15:30:00+09:00",
+    "cluster_id": "0981",
+    "publisher": "sedaily.com",
+    "title_clean": "기업 공시 [9월 4일]",
+    "summary": "두산퓨얼셀이 울산에너루트2호 연료전지 시스템 장기유지보수계약 353억 원 규모를 체결했고, 한국앤컴퍼니는 대전공장 납축전지 배터리 전체 생산을 재개했다. 기계설비건설 관련 수주 및 생산 활동이 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T15:44:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21459,22 +21475,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T18:43:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "성수2·목동12 유찰…DL이앤씨·GS건설 수의계약 수순 - dealsite.co.kr",
-    "link": "https://dealsite.co.kr/articles/168134",
-    "description": "앞서 지난달 15일 열린 현장설명회에는 DL이앤씨와 HDC현대산업개발이 참석했지만 실제 입찰에는 DL이앤씨만 참여했다. 이에 따라 경쟁입찰 요건을 충족하지 못하면서 첫 입찰은 유찰됐다. 성수2지구는 서울 성동구...",
-    "published_at": "2026-08-31T18:28:00+09:00",
-    "cluster_id": "3019",
-    "publisher": "dealsite.co.kr",
-    "title_clean": "성수2·목동12 유찰…DL이앤씨·GS건설 수의계약 수순",
-    "summary": "성수2·목동12 지구 공사의 첫 입찰이 경쟁 요건 미충족으로 유찰되었다. 향후 DL이앤씨와 GS건설이 수의계약을 진행할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T18:43:10+09:00",
-    "importance": 4
   },
   {
     "keyword": "중대재해 건설",
