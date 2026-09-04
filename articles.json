@@ -5477,6 +5477,22 @@
     "importance": 6
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "기업 대응팀 \"가용 방안 총동원\"…상공·지상 수색 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TYVFqOFh0MnZFVlk1UmhRZkdwS2Y1VHZSa2gwb2NuY0hwZVF1WUs5dmpBV3ZxVGpMbGcyT1ZyNktBcm9hY2dMRVZkZnEySHEwVDltOW9HSmktMjFLc0hhYjg0MWYyelE?oc=5",
+    "description": "[앵커] 두산에너빌리티와 한국남동발전 현지 대응팀은 실종된 직원들을 찾기 위해 수색 작업을 이어가고 있습니다. 현장에서 활용 가능한 방안을 총동원해, 상공과 지상 수색을 확대하고 있습니다. 구하림 기자입니다. [기자] 두산에너빌리티와 한국남동발전 등 기업 대응팀은 오늘",
+    "published_at": "2026-09-04T04:41:33+00:00",
+    "cluster_id": "b1b9",
+    "publisher": "연합뉴스TV",
+    "title_clean": "기업 대응팀 \"가용 방안 총동원\"…상공·지상 수색",
+    "summary": "두산에너빌리티와 한국남동발전이 실종된 직원 수색을 위해 상공과 지상 수색을 확대하고 있습니다. 기업 대응팀이 가용한 모든 방안을 동원하여 수색 작업을 진행 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T13:49:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21459,22 +21475,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T18:03:42+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "검단소방서, 성능위주설계 대상 관서장 실무현장 점검 - fpn119.co.kr",
-    "link": "http://fpn119.co.kr/255927",
-    "description": "오원신 서장을 비롯한 소방공무원 25명과 롯데건설, T.A.B.(시험조정평가)팀 관계자들이 참여했다. 검단신도시 롯데캐슬 넥스티엘 2차는 연면적 10만㎡ 이상에 지하 6층~지상 20층 규모의 대형 복합건축물이다. 화재 발생 시...",
-    "published_at": "2026-08-31T17:50:00+09:00",
-    "cluster_id": "0e28",
-    "publisher": "fpn119.co.kr",
-    "title_clean": "검단소방서, 성능위주설계 대상 관서장 실무현장 점검",
-    "summary": "검단소방서가 롯데건설과 함께 검단신도시 롯데캐슬 넥스티엘 2차 대형 복합건축물에 대한 성능위주설계 현장 점검을 실시했다. 소방공무원 25명과 건설사, T.A.B.팀이 참여하여 화재 안전성 검증을 진행했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T18:03:42+09:00",
-    "importance": 2
   },
   {
     "keyword": "중대재해 건설",
