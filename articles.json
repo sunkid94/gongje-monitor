@@ -21426,6 +21426,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대건설, 울산 샤힌 에틸렌시설 건설 현장서 중대재해 발생 - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fc3pqeWhzbTRrRUdfcE5aaU1XVVB3YjFjN2NtNFZYa2ZJaWJ3dGFiQ2hCVVJCU2locGNhUUV4NHlBeVNDMVZpZkUycGlybXNEMklMWmJrZ1FKd9IBVEFVX3lxTE8xaUtrQXN1UU9PZ1B4cVdpZ2Y2SHRPMzJKVy1nQjUwMjFSUEUtcndsZ1lzejE0cjFHQTB1MkNHcVJ2MWNHZkx5MFhheW1DNnZtRE9ZZQ?oc=5",
+    "description": "노동자 1명 균형 잃고 추락사지난 3일 울산 샤힌 에틸렌시설 건설공사 PKG1 현장에서 노동자 1명이 추락해 사망했다. /현대건설[더팩트｜황준익 기자] 현대건설은 지난 3일 울산 ..",
+    "published_at": "2026-09-04T09:21:25+09:00",
+    "cluster_id": "2982",
+    "publisher": "더팩트",
+    "title_clean": "현대건설, 울산 샤힌 에틸렌시설 건설 현장서 중대재해 발생",
+    "summary": "현대건설 울산 샤힌 에틸렌시설 건설 현장에서 노동자가 균형을 잃고 추락해 사망하는 중대재해가 발생했다. 건설업계의 안전 관리 문제와 재해 위험성을 드러내는 사건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T09:29:47+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "positive",
     "collected_at": "2026-08-31T10:10:23+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "7월 산업생산 제자리…소비 2.4%↓·설비투자 7.5%↑ - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2117115",
-    "description": "향후 건설경기를 가늠하는 건설수주는 전년 동월보다 34.0% 급감했다. 철도·궤도 등을 중심으로 토목 수주가 55.0% 줄고 주택 등을 포함한 건축도 23.2% 감소했다. 실물지표가 엇갈린 것과 달리 경기종합지수는 상승...",
-    "published_at": "2026-08-31T09:48:00+09:00",
-    "cluster_id": "72be",
-    "publisher": "4th.kr",
-    "title_clean": "7월 산업생산 제자리…소비 2.4%↓·설비투자 7.5%↑",
-    "summary": "7월 산업생산이 정체된 가운데 소비가 2.4% 감소했으나 설비투자는 7.5% 증가했다. 다만 건설수주는 전년 동월 대비 34.0% 급감하며 토목 55.0%, 건축 23.2% 감소로 건설경기 부진이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T10:00:06+09:00",
-    "importance": 4
   }
 ]
