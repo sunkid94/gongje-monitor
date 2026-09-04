@@ -5325,6 +5325,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "8월 선박 수주 중국 85% 싹쓸이…한국은 7% 그쳐 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Gckh4RVJWdmlWcHRDdGVHa2d1OGFyeS1jOEFXb1E1VmJJUXMzZDJGbnFsMHF6bjdodUpvYjBQTm9Md19TOFVyYlpEWTZZU3pPVjRV?oc=5",
+    "description": "한눈에 보는 오늘 : 경제 - 뉴스 : 삼성중공업의 액화천연가스(LNG)운반선. / 사진=삼성중공업 제공중국이 지난달 세계 선박 수주량의 85%를 차지한 것으로 나타났다. 같은 기간 한국의 점유율은 7%에 그쳤다.4일 영국 조선\\·해운 시황 전문기관 클라크슨리서치에 따르면 8월 세계 선박",
+    "published_at": "2026-09-04T16:37:00+09:00",
+    "cluster_id": "f15f",
+    "publisher": "네이트",
+    "title_clean": "8월 선박 수주 중국 85% 싹쓸이…한국은 7% 그쳐",
+    "summary": "8월 세계 선박 수주에서 중국이 85%를 차지하며 압도적 우위를 보인 반면, 한국은 7%에 불과해 시장 점유율 격차가 심화되고 있다. 한국 조선업계의 경쟁력 약화와 수주 부진이 심각한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T23:09:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21307,22 +21323,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T20:43:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 홍수로 고립됐던 한국인 9명 귀국‥현장소장은 잔류 - imnews.imbc.com",
-    "link": "https://imnews.imbc.com/news/2026/society/article/6848623_36918.html",
-    "description": "두산에너빌리티는 네팔 현장에서 구조된 9명이 오늘 오후 귀국했고 나머지 1명인 현장소장은 수색 작업을 지원하기 위해 현지에 남았다고 밝혔습니다. 이들 9명은 귀국 직후 건강상태를 확인한 뒤 집으로 돌아갔으며...",
-    "published_at": "2026-08-31T20:10:00+09:00",
-    "cluster_id": "fe6f",
-    "publisher": "imnews.imbc.com",
-    "title_clean": "네팔 홍수로 고립됐던 한국인 9명 귀국‥현장소장은 잔류",
-    "summary": "네팔 홍수로 고립되었던 한국인 9명이 귀국했으며, 현장소장 1명은 수색 작업 지원을 위해 현지에 잔류했다. 귀국한 9명은 건강상태 확인 후 집으로 돌아갔다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T20:43:50+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
