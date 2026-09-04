@@ -21328,6 +21328,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "한 총리 \"신축매입임대 사업으로 공급 속도 내달라\" - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0101_202609042336550771",
+    "description": "이어 민간건설 사업자들의 적극적 사업 참여를 유도해 주택공급 확대와 건설경기 활성화에 도움이 될 수 있도록 해달라며, 다만 주택 물량에만 그치지 않고 주거 품질도 함께 챙겨달라고 강조했습니다.",
+    "published_at": "2026-09-04T23:36:00+09:00",
+    "cluster_id": "4679",
+    "publisher": "ytn.co.kr",
+    "title_clean": "한 총리 \"신축매입임대 사업으로 공급 속도 내달라\"",
+    "summary": "한 총리가 신축매입임대 사업 활성화를 통해 주택공급 속도 확대를 지시했습니다. 민간건설 사업자들의 적극적 참여를 유도하여 건설경기를 활성화하되, 주택 물량뿐만 아니라 주거 품질 개선도 함께 추진하라고 강조했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-04T23:54:41+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "韓총리, 주택공급현장 찾아 \"빠르게 진행…품질도 챙겨야\" - yna.co.kr",
     "link": "https://www.yna.co.kr/view/AKR20260904178500001?input=1195m",
     "description": "또 \"(정부) 지원이 민간 건설 사업자들의 적극적 사업 참여를 유도해 주택공급 확대와 건설경기 활성화에 도움이 될 수 있도록 해달라\"며 \"주택공급이 단순히 물량을 늘리는 데 그쳐서는 안 된다. 청년과 신혼부부 등...",
@@ -32282,22 +32298,6 @@
     "summary": "로마의 바르베리니 지역을 출발점으로 하는 5시간 도보 여행 코스를 소개하는 관광 기사입니다. 트레비 분수, 스페인계단, 핀초 언덕, 포폴로 광장 등 주요 명소와 현지 식당을 거치는 관광 루트를 안내합니다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T13:56:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설, '안전 전문가' 하정민 신임 대표이사 선임 - 비즈월드",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBN25mV2xvVEpqLXJKc0xyb05sWkRkZ2E4TXNpbVE4eWlIWnJfOXI4eGlxazl2cDVidWFVQ0JRTkVCTDUwdy1qV29pM0laV2djMVIzejlTYmp3MTF2T3h4eE1DMTFtTy1MMEE?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBBN25mV2xvVEpqLXJKc0xyb05sWkRkZ2E4TXNpbVE4eWlIWnJfOXI4eGlxazl2cDVidWFVQ0JRTkVCTDUwdy1qV29pM0laV2djMVIzejlTYmp3MTF2T3h4eE1DMTFtTy1MMEE?oc=5\" target=\"_blank\">DL건설, '안전 전문가' 하정민 신임 대표이사 선임</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈월드</font>",
-    "published_at": "2026-08-31T13:45:00+09:00",
-    "cluster_id": "83d1",
-    "publisher": "비즈월드",
-    "title_clean": "DL건설, '안전 전문가' 하정민 신임 대표이사 선임",
-    "summary": "DL건설이 안전 전문가 하정민을 신임 대표이사로 선임했다. 이는 건설업계의 안전 강화 방향을 반영한 인사로 평가된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T13:51:36+09:00",
     "importance": 2
   }
 ]
