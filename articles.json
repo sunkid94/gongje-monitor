@@ -5426,6 +5426,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "K-조선 8월 점유율 7%…'85% 차지' 1위 中과 격차↑ - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocnJaMUxFTFptaExTX0p0aV9ySUZqamxwVDNfNElxVUZORk5xQzVwNlhUT25vcUdldTV5TW54OGZGcW9jYUJNS2d4NUVuMzg?oc=5",
+    "description": "(서울=뉴스1) 박종홍 기자 = 국내 조선업계의 지난달 글로벌 시장 점유율이 7%를 기록했다. 85%를 차지한 1위 중국과의 격차가 더 벌어진 모습이다. 4일 영국 조선·해운 시황 전문기관 클락슨리서치에 따르면 8월 전 세계 선박 수주량은 420만CGT(표준선환산톤수), 125척으로 집계됐다. 전월 대비 29%, 전년 동기 대비 24% 감소한 수치다.",
+    "published_at": "2026-09-04T09:48:50+09:00",
+    "cluster_id": "7f3d",
+    "publisher": "v.daum.net",
+    "title_clean": "K-조선 8월 점유율 7%…'85% 차지' 1위 中과 격차↑",
+    "summary": "8월 국내 조선업계의 글로벌 시장 점유율이 7%를 기록하며 1위 중국(85%)과의 격차가 확대되었다. 전 세계 선박 수주량은 전월 대비 29%, 전년 동기 대비 24% 감소한 것으로 나타났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-04T16:24:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21410,19 +21426,35 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "네팔 대홍수 실종 한국인 찾기 총력전…신속대응팀 육로 수색 시도 - jnilbo.com",
-    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000061178",
-    "description": "앞서 두산에너빌리티가 임차한 헬기도 오전에 이륙해 현장 수색에 나섰다. 네팔 당국의 수색 역시 지속해서 독려했다. 신속대응팀 임상우 단장은 전날 네팔 경찰청장 및 네팔 육군 관계자들과 접촉했다. 또 네팔인...",
-    "published_at": "2026-08-31T18:24:00+09:00",
-    "cluster_id": "f6df",
-    "publisher": "jnilbo.com",
-    "title_clean": "네팔 대홍수 실종 한국인 찾기 총력전…신속대응팀 육로 수색 시도",
-    "summary": "네팔 대홍수로 실종된 한국인 구조를 위해 정부와 두산에너빌리티가 협력하여 신속대응팀 파견, 헬기 수색, 현지 당국과의 협력 등 총력전을 펼치고 있다. 건설업계 관계자의 안전 문제와 국제 협력 사례를 보여주는 상황이다.",
+    "title": "정보현·인천의회, 안전사업 예산 편성 전 타당성 검토 철저·위험지역 적극 발굴 주문 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85OUxqNUo2bl92MlA3LTlOY3JrUkZUX09WOFB1bFlWX0RmQ1FrNWZCOXA3RzhfWHh5eWRjWlk0VWVhWjZKWi1rRXpVR254bW1QRWFZV29zT0kyNWhncDBBV1puX3k3OWM3YnRCSzBKYw?oc=5",
+    "description": "인천광역시의회 정보현 의원(민·연구수3, 사진)은 최근 열린 2일차 추가경정예산안 심의에서 전기차 화재 대응, 재난안전관리기금, 지반침하 대응사업 등 시민 안전과",
+    "published_at": "2026-09-04T15:31:12+09:00",
+    "cluster_id": "cb45",
+    "publisher": "오토투데이",
+    "title_clean": "정보현·인천의회, 안전사업 예산 편성 전 타당성 검토 철저·위험지역 적극 발굴 주문",
+    "summary": "인천시의회 정보현 의원이 전기차 화재, 지반침하 등 안전사업 예산 편성 시 타당성 검토를 강화하고 위험지역 발굴을 적극 추진할 것을 주문했다. 시민 안전 관련 예산 심의에서 안전관리 강화 필요성을 제기한 것으로 보인다.",
     "sentiment": "neutral",
-    "collected_at": "2026-08-31T18:43:10+09:00",
+    "collected_at": "2026-09-04T16:24:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "TS, 미래차 안전 시험·인증 선보여 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZVTVkWXdaOG0tb1RTSUwzM0g1Z3lsOWxWVnJfMWZXbm1ORkkyVUtzeEhhQUlzRVZmYzhNYW4wRmpFUzg1SDRoVWlhcmZjMUI2RzhjWGtjeWRKMXNWZXNRQTdQVlNqQnRIbVhEZDlUTTMyZzTSAXdBVV95cUxOVUljYXhxX0JmSzZLSnVscXVrOXpzSU5lVnE3bDVnaHphMEo3OUV1eVl4aFdaOFlTOTZOLWZhcFRFZ1JObW4zSnZqM2tKeHUyVGlkTFdtUWZkTkp2QjB1bzJXVlpkREFDRWYtLVZUSUExeDVtVUpNdw?oc=5",
+    "description": "친환경차 보급 확대에 따라 배터리와 충돌 안전을 검증하는 시험·인증의 역할이 커지는 가운데 한국교통안전공단(TS)이 지역 기업을 대상으로 관련 기술과 지원사업을 소개한다.TS 자동차안전연구원(KATRI)은 2일부터 5일까지 전남광주 김대중컨벤션센터에서 열리는 ‘2026 전남광주미래산업박람회’에 홍보 부스를 운영한다고 4일 밝혔다.이번 박람회에는 국내 300개 기업이 참가해 모빌리티·로봇·드론 관련 기술을 선보인다. 전남광주통합특별시가 주최하고 광주관광공사·광주미래차모빌리티진흥원·대한무역투자진흥공사가 주관한다.TS 자동차안전연구원은",
+    "published_at": "2026-09-04T10:12:39+09:00",
+    "cluster_id": "8400",
+    "publisher": "핀포인트뉴스",
+    "title_clean": "TS, 미래차 안전 시험·인증 선보여",
+    "summary": "한국교통안전공단이 전남광주미래산업박람회에서 미래차 배터리·충돌 안전 시험·인증 기술을 소개한다. 친환경차 보급 확대로 안전 검증 역할이 확대되는 가운데 지역 기업 지원사업을 홍보한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T16:24:55+09:00",
     "importance": 2
   },
   {
@@ -32271,22 +32303,6 @@
     "summary": "DL건설이 안전 전문가인 하정민 CSO를 신임 대표이사로 선임하며 안전 경영 강화와 40대 임원 전진 배치를 추진했다. 건설업의 안전 관리 강화 및 조직 개편을 통한 경영 혁신 움직임으로 평가된다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T11:51:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_가로주택정비] 구로동 451 일대 가로주택정비, 시공 주인공 찾... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95087",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 입찰공고일 현재 「건설산업기본법」 제2조제7호에 따른 건설업자 또는 「주택법」 제7조제1항에 따라 건설업자로 보는 등록사업자 현설에 참석해...",
-    "published_at": "2026-08-31T11:30:00+09:00",
-    "cluster_id": "2d5b",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_가로주택정비] 구로동 451 일대 가로주택정비, 시공 주인공 찾...",
-    "summary": "서울 구로동 451 일대에서 가로주택정비 사업을 진행하며 일반경쟁입찰 방식으로 시공업체를 모집 중입니다. 건설업자 또는 등록사업자의 입찰 참여를 모집하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T11:41:12+09:00",
     "importance": 2
   }
 ]
