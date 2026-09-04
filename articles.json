@@ -5477,6 +5477,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[분양 NOW] 대우건설, 포스코이앤씨, 우미건설-신영씨앤디 - 위키리크스한국",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Pdm9VMXFnOWZFOW5KS3I4a01nTDBvZGx5b3hUUXpGZzBKTC1sVl9QRGJwd0tQdnRnN2p2a1F0WnJDMnZjT3huYVZZUDRjZ3hsdHotZDdlRUFFMDJvdXRESk9NdUVGXzh5MDRVUU1EOA?oc=5",
+    "description": "◆대우건설, 두정역 푸르지오 그랑피크대우건설이 충청남도 천안시에 공급하는 ‘두정역 푸르지오 그랑피크’ 견본주택을 개관하고 본격적인 분양 일정에 돌입한다.단지는 지하 3층~지상 35층, 10개동, 총 1438가구 규모다. 이 중 전용면적 44~59㎡ 176가구가 일반분양된다.14일 특별공급을 시작으로 15일 1순위, 16일 2순위 청약을 접수를 진행할 예정이며, 당첨자 발표는 22일, 정당계약은 10월 5일부터 8일까지 4일간 진행될 예정이다.단지 인근에는 이마트, 롯데마트, 신세계백화점, 단국대학교병원 등 생활편의시설이 자리하고 있",
+    "published_at": "2026-09-04T15:48:11+09:00",
+    "cluster_id": "6a12",
+    "publisher": "위키리크스한국",
+    "title_clean": "[분양 NOW] 대우건설, 포스코이앤씨, 우미건설-신영씨앤디",
+    "summary": "대우건설이 천안시 두정역에 1438가구 규모의 '두르지오 그랑피크' 단지를 공급하며, 44~59㎡ 176가구에 대해 14일부터 순차적 청약을 진행한다. 10월 5일부터 정당계약을 체결할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-04T15:54:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21456,22 +21472,6 @@
     "publisher": "webeconomy.co.kr",
     "title_clean": "삼성중공업, 아프리카 선사서 컨테이너선 2척 수주",
     "summary": "삼성중공업이 아프리카 선사로부터 컨테이너선 2척을 4,445억원에 수주했다. 선박은 2028년 12월까지 순차적으로 인도될 예정으로, 회사의 상선 부문 수주 실적 증가에 기여할 것으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T18:43:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, 컨테이너운반선 2척·4445억 규모 수주 - gndomin.com",
-    "link": "http://www.gndomin.com/news/articleView.html?idxno=487412",
-    "description": "▲ 삼성중공업이 건조한 컨테이너운반선. /삼성중공업 삼성중공업이 상선 부문 수주 목표 달성 이후에도 추가 수주를 이어가고 있다. 삼성중공업은 아프리카 지역 선사로부터 컨테이너운반선 2척을 4445억원에...",
-    "published_at": "2026-08-31T18:16:00+09:00",
-    "cluster_id": "633d",
-    "publisher": "gndomin.com",
-    "title_clean": "삼성중공업, 컨테이너운반선 2척·4445억 규모 수주",
-    "summary": "삼성중공업이 아프리카 지역 선사로부터 컨테이너운반선 2척을 4445억원 규모로 수주했다. 상선 부문 수주 목표 달성 후에도 추가 수주를 지속하고 있어 조선업계의 수주 활황이 계속되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-08-31T18:43:10+09:00",
     "importance": 2
