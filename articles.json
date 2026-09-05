@@ -21257,6 +21257,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "농어촌公 나주지사, 건설현장 사고 예방···체험형 안전교육 실시 - 녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LNnJ1QXBySTlYSlZKcTQyZzJMeUgtaXdHT1k1STJwTXliWG1TQU5QVFR5OWgxb0VCQzRxTEl2TkxnVElKTFFtMi1ZdnhMNk1YbzNUdWtBM1VRT1Y4Qm9SU3lwb1dGeGhQ?oc=5",
+    "description": "[녹색경제신문 = 양은주 기자] 한국농어촌공사 나주지사가 건설현장과 농업인 안전을 위한 현장 중심의 대응을 강화하고 있다고 5일 밝혔다.한국농어촌공사 나주지사는 지난 4일 현장대리인과 안전관리 담당자 등 약 20명을 대상으로 농어촌 생산기반 정비사업과 지역개발 건설공사의 사고 예방을 위한 체험형 안전교육을 실시했다.교육에는 3D·VR 콘텐츠가 활용됐으며, 참석자들은 안전대와 추락방지 설비의 착용 및 점검 방법을 비롯해 고소작업대와 비계 설치·사용 등을 직접 체험했다. 심폐소생술과 자동심장충격기(AED) 조작 훈련도 진행됐다.나주지사",
+    "published_at": "2026-09-05T14:36:28+09:00",
+    "cluster_id": "67dc",
+    "publisher": "녹색경제신문",
+    "title_clean": "농어촌公 나주지사, 건설현장 사고 예방···체험형 안전교육 실시",
+    "summary": "한국농어촌공사 나주지사가 건설현장 안전사고 예방을 위해 3D·VR 기반의 체험형 안전교육을 실시했다. 현장대리인과 안전관리 담당자 등이 추락방지, 고소작업, 심폐소생술 등 실무 중심의 교육을 받았다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-05T14:43:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32279,21 +32295,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T13:56:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[인터뷰] 이봉구 세종사이버대학교 공학부 기계공학과 학과장 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51492",
-    "description": "“기계설비산업에서 요구되는 ‘설계’, ‘시공’, ‘안전’ 인력을 모두 양성할 수 있도록 교육과정을 설계했습니다. 시공간 제약을 최소화해 이론부터 실무까지 모두 섭렵한 기계설비 융합 인재를 만드는 것이 목표입니다.”이봉구 학과장<사진>은 ‘기계설비’의 중요성과 향후 시장 경쟁력에 대해 강조했다. 국민 삶의 질이 향상될수록 그와 직결되는 ‘기계설비산업’의 힘은 커질 수 밖에 없다는 것이다.특히 최근 ‘에너지 효율화’, ‘탄소중립’, ‘스마트 빌딩’ 같은 정책·산업 트렌드와 맞물리면서 기계설비 분야의 중요성이 날로 커지고 있다고 설명했다",
-    "published_at": "2026-08-31T06:00:00+09:00",
-    "cluster_id": "c3ac",
-    "publisher": "기계설비신문",
-    "title_clean": "[인터뷰] 이봉구 세종사이버대학교 공학부 기계공학과 학과장",
-    "summary": "세종사이버대학교 기계공학과는 기계설비산업의 설계, 시공, 안전 인력 양성을 목표로 교육과정을 운영 중이며, 에너지 효율화, 탄소중립, 스마트 빌딩 등 정책 트렌드에 따라 기계설비 분야의 중요성이 증대되고 있다고 강조했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T13:56:59+09:00",
-    "importance": 2
   }
 ]
