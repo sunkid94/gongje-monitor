@@ -5172,21 +5172,20 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[더벨][PF Radar] 롯데건설, 해운대 제일장로교회 개발사업 대위변제 - thebell.co.kr",
-    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608041648535240103828",
-    "description": "이 사업의 선순위 대주단은 △새마을금고·새마을금고중앙회 총 496억원 △신협 300억원 △엔지니어링공제조합 200억원 △산은캐피탈 100억원 등으로 구성된다. 다만 현재까지는 구체적인 후속 계획이 확정되지 않은...",
-    "published_at": "2026-08-07T07:02:00+09:00",
-    "cluster_id": "2ebd",
-    "publisher": "thebell.co.kr",
-    "title_clean": "[더벨][PF Radar] 롯데건설, 해운대 제일장로교회 개발사업 대위변제",
-    "summary": "롯데건설이 해운대 제일장로교회 개발사업에서 대위변제를 실행했다. 선순위 대주단에는 새마을금고, 신협, 엔지니어링공제조합, 산은캐피탈 등 총 1,096억원이 투입되었으며, 현재 구체적인 후속 계획은 미정인 상태다.",
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "조현, 네팔 일정 시작…외교 장관 회담·실종자 가족 면담 - ajunews.com",
+    "link": "https://www.ajunews.com/view/20260906072401647",
+    "description": "두산에너빌리티 직원 6명과 한국남동발전 직원 3명이다. 이날 네팔군과 KDRT 합동 구조팀은 UT-1 수력발전소 공사 현장 터널에서 중국인 남성 1명을 구조했다. 네팔군은 네팔 군인과 한국 재난 전문가로 꾸린 합동...",
+    "published_at": "2026-09-06T07:26:00+09:00",
+    "cluster_id": "fda6",
+    "publisher": "ajunews.com",
+    "title_clean": "조현, 네팔 일정 시작…외교 장관 회담·실종자 가족 면담",
+    "summary": "네팔 수력발전소 공사 현장에서 터널 붕괴로 한국 건설 인력 9명이 실종되었고, 합동 구조팀이 중국인 1명을 구조했다. 조현 외교부 장관이 네팔을 방문하여 외교 장관 회담과 실종자 가족 면담을 진행하고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-08-07T07:09:21+09:00",
-    "event_label": "엔지니어링공제조합 해운대 제일장로교회 개발사업 대위변제 관련",
-    "importance": 7
+    "collected_at": "2026-09-06T07:37:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "대우건설",
@@ -21171,22 +21170,6 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T22:03:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[오늘의 종합뉴스] 네팔서 고립됐던 한국인 9명 무사귀국…두산 \"가족의... - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260831213027721",
-    "description": "31일 두산에너빌리티는 네팔 홍수 현장에서 구조된 두산에너빌리티 소속 직원 9명이 이날 오후 2시께 한국에 들어왔다고 밝혔다. 두산에너빌리티에 따르면 이들은 귀국 직후 건강 상태를 확인한 뒤 귀가했으며, 입원...",
-    "published_at": "2026-08-31T21:38:00+09:00",
-    "cluster_id": "396e",
-    "publisher": "ajunews.com",
-    "title_clean": "[오늘의 종합뉴스] 네팔서 고립됐던 한국인 9명 무사귀국…두산 \"가족의...",
-    "summary": "두산에너빌리티 직원 9명이 네팔 홍수로 고립됐다가 31일 무사히 귀국했다. 구조된 직원들은 귀국 후 건강상태 확인을 거쳐 귀가했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T22:03:57+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
