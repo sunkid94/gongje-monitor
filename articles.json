@@ -5155,23 +5155,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "효성중공업·진흥기업, 용인 보라 효성해링턴 플레이스 하자소송 패 - newswatch.kr",
-    "link": "http://www.newswatch.kr/news/articleView.html?idxno=80671",
-    "description": "7일 업계에 따르면 서울중앙지법 민사18부는 용인 보라 효성해링턴 플레이스 입주자대표회의가 시공사인 효성중공업과 진흥기업, 건설공제조합 등을 상대로 제기한 56억7789만원 규모의 하자보수금청구소송을 지난 6월...",
-    "published_at": "2026-08-07T08:40:00+09:00",
-    "cluster_id": "8679",
-    "publisher": "newswatch.kr",
-    "title_clean": "효성중공업·진흥기업, 용인 보라 효성해링턴 플레이스 하자소송 패",
-    "summary": "용인 보라 효성해링턴 플레이스 입주자대표회의가 시공사 효성중공업·진흥기업과 건설공제조합을 상대로 제기한 56억7789만원 규모의 하자보수금청구소송에서 패소했다. 이는 건설업체의 하자 책임 소송에서 입주자 측이 법적 패배를 당한 사례로 기록됐다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-07T08:44:12+09:00",
-    "event_label": "건설공제조합 관련 하자보수금청구소송 입주자 측 패소",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21169,6 +21152,22 @@
     "summary": "네팔 대홍수로 고립된 두산에너빌리티 직원 9명이 안전하게 구조되어 귀국했습니다. 현장소장은 추가 수색 지원을 위해 현지에 남아있습니다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T22:03:57+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[분석] 고려아연 상반기 '수익성 압도'…동국 세아 '약진' - ferrotimes.com",
+    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=49805",
+    "description": "상반기 봉형강 내수 매출은 1조1172억 원, 후판은 4155억 원으로 건설경기 침체에도 내수 중심의 사업 구조를 유지했다. 동국씨엠은 흑자전환에 성공했다. 매출은 1조4603억 원으로 1.6% 증가했고, 영업이익은 전년...",
+    "published_at": "2026-09-06T08:42:00+09:00",
+    "cluster_id": "943c",
+    "publisher": "ferrotimes.com",
+    "title_clean": "[분석] 고려아연 상반기 '수익성 압도'…동국 세아 '약진'",
+    "summary": "고려아연이 상반기 수익성으로 강세를 보인 반면, 건설경기 침체 속에서도 봉형강·후판 등 내수 중심 사업 구조를 유지했다. 동국씨엠은 매출 증가와 함께 흑자전환에 성공하며 건설사들의 실적 회복세를 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T08:57:43+09:00",
     "importance": 2
   },
   {
