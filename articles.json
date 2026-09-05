@@ -21189,6 +21189,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "화성특례시의회 도시건설위, 배터리 화재 안전교육 실습 점검 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSG5PWDVWUDF0NV9HT2stc1hpUXRPQmxidDRYUmZzcHhDN2Yyc3RJY3hMb0NlYkpkRXhPWFFKWXRxT004czBIY0pNM2ZGbHpJT2d1NzVUYlg1MmppaVhlejFOdzfSAWhBVV95cUxQOUFCdzZsOXlDemRSU1ZFQ0cwSnoxU25MOEJnWjctdm0zNlZlRnFBNWZyZkl3R2tDTmVzZEdpUmw5QUpGdGFoMnJ6YVJtV0Y1Yml0NDdjQ1JlVFNPRjN5SzRXb0xCcVNyTg?oc=5",
+    "description": "매일일보 = 한철희 기자 | 화성특례시의회 도시건설위원회는 4일 배터리 화재 안전교육 현장을 찾아 체험형 실습에 참여하고 화재 발생 때의 대응 절차와 안전관리 체계를 점검했다.교육에는 김상균 위원장과 최청환·오문섭·송현미·최태양 의원, 화성시청 및 화성도시공사 직원 등이 참석했다.이날 교육에서는 2024년 발생한 화성 아리셀 배터리 공장 화재 사고 사례 등을 통해 리튬배터리 화재의 특성과 위험요인을 살폈다. 화재 발생 시 초기 대응과 신고, 인명 대피, 현장 통제, 관계기관 간 협력체계도 점검했다.참석자들은 실제 화재 상황을 가정해",
+    "published_at": "2026-09-06T04:30:22+09:00",
+    "cluster_id": "259c",
+    "publisher": "매일일보",
+    "title_clean": "화성특례시의회 도시건설위, 배터리 화재 안전교육 실습 점검",
+    "summary": "화성특례시의회 도시건설위원회가 배터리 화재 안전교육 현장을 방문하여 2024년 아리셀 화재 사고 사례를 통해 리튬배터리 화재의 특성을 학습하고 초기 대응 및 안전관리 체계를 점검했다. 화재 발생 시 신고, 인명 대피, 관계기관 협력체계 등 실제 상황 대응 절차를 확인했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-06T04:37:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32272,22 +32288,6 @@
     "publisher": "기계설비신문",
     "title_clean": "신동아건설, 풍납강변현대 가로주택정비사업 수주",
     "summary": "신동아건설이 서울 송파구 풍납동의 가로주택정비사업 시공사로 선정되었으며, 5165㎡ 부지에 133가구 규모의 공동주택을 539억원대 공사비로 건설할 예정이다. 2028년 착공을 목표로 고급 마감재와 차별화된 설계를 통해 '파밀리에' 브랜드 경쟁력을 강화하는 프로젝트다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T13:56:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "서울시, 신축건물 지열·수열 설치비 최대 2억5000만원 지원 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51565",
-    "description": "서울시가 민간 신축건물의 지열·수열 등 재생열 설비 설치비를 건물 규모와 관계없이 최대 2억5000만원까지 지원한다.서울시는 오는 9월 1일부터 민간 신축건물을 대상으로 '재생열 공사비 지원사업' 신청을 받는다고 31일 밝혔다.시는 그동안 연면적 3만㎡ 이상 비주거 신축건물에 한해 공사비를 지원했지만 이번에 면적 제한을 폐지했다. 일정 수준 이상의 재생열 설비를 설치해야 했던 조건도 없애 중소규모 신축건물도 지원 대상에 포함했다.지원 대상은 올해 안에 재생열 설치공사에 착수할 예정인 민간 신축건물이다.지원액은 설치용량에 따라 500",
-    "published_at": "2026-08-31T11:24:31+09:00",
-    "cluster_id": "ecbd",
-    "publisher": "기계설비신문",
-    "title_clean": "서울시, 신축건물 지열·수열 설치비 최대 2억5000만원 지원",
-    "summary": "서울시가 9월 1일부터 민간 신축건물의 지열·수열 등 재생열 설비 설치비를 최대 2억5000만원까지 지원한다. 기존의 연면적 3만㎡ 이상, 일정 수준 이상 설비 설치 조건을 폐지해 중소규모 신축건물도 지원 대상에 포함시켰다.",
     "sentiment": "positive",
     "collected_at": "2026-08-31T13:56:59+09:00",
     "importance": 2
