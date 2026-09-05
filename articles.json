@@ -5189,23 +5189,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO 기술교육원, 위탁교육생 대상 '병무청 취업맞춤특기병 제도 설명... - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=325670",
-    "description": "K-FINCO 전문건설공제조합 기술교육원(이하 기술교육원)이 지난달 24일 충북 음성 기술교육원 본원에서 고등학교 3학년 위탁교육생을 대상으로 '병무청 취업맞춤특기병 제도 설명회'를 개최했다. 이번 설명회는...",
-    "published_at": "2026-08-06T16:52:00+09:00",
-    "cluster_id": "6bcf",
-    "publisher": "대한전문건설신문",
-    "title_clean": "K-FINCO 기술교육원, 위탁교육생 대상 '병무청 취업맞춤특기병 제도 설명...",
-    "summary": "K-FINCO 전문건설공제조합 기술교육원이 위탁교육생을 대상으로 병무청 취업맞춤특기병 제도 설명회를 개최했다. 건설기술인력 양성 및 취업 지원 활동을 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-06T16:59:52+09:00",
-    "event_label": "전문건설공제조합 기술교육원 취업맞춤특기병 제도 설명회 개최",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21203,6 +21186,22 @@
     "summary": "마산대와 국립창원대가 AI 헬스케어 창업경진대회에서 우수상을 수상했으며, AI-NMIC 센터는 두산에너빌리티와 함께 원자력 주기기 설계 현장연수를 실시하고 있다. 이는 대학의 산학협력 및 기술혁신 역량을 보여주는 사례다.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T21:13:33+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[ABC AI국가대전환=이성훈 한국토지주택공사 사장] AI가 집 짓고 사고도... - ajunews.com",
+    "link": "https://www.ajunews.com/view/20260904111057070",
+    "description": "AI-BIM 설계부터 건설현장 안전·디지털트윈·스마트홈까지 'AI 대전환' 임규진 편집인 AI가 도면을 그리고  건설현장의 위험을 찾아낸다. 도시를 짓기 전에는 디지털트윈으로 가상공간에 먼저 만들어본다. 완성된...",
+    "published_at": "2026-09-05T17:02:00+09:00",
+    "cluster_id": "7027",
+    "publisher": "ajunews.com",
+    "title_clean": "[ABC AI국가대전환=이성훈 한국토지주택공사 사장] AI가 집 짓고 사고도...",
+    "summary": "한국토지주택공사가 AI-BIM 설계, 건설현장 안전 관리, 디지털트윈, 스마트홈 등 AI 기술을 건설 전 과정에 도입하는 'AI 대전환'을 추진 중이다. AI를 활용한 도면 자동 생성, 위험 요소 탐지, 가상 시뮬레이션 등으로 건설산업의 혁신을 주도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-05T17:07:52+09:00",
     "importance": 2
   },
   {
