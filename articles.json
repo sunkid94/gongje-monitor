@@ -5172,6 +5172,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "中 조선업 수주 공세에…K-조선 '해외 생산' 승부수 - ddaily.co.kr",
+    "link": "https://www.ddaily.co.kr/page/view/2026090417065039336",
+    "description": "삼성중공업 역시 해외 조선소를 활용한 '글로벌 오퍼레이션' 전략을 확대하고 있다. 삼성중공업은 2025년부터 베트남 국영 에너지기업 페트로베트남과 조선 분야 협력을 추진하며 현지 선박 블록 제작과 해양플랜트...",
+    "published_at": "2026-09-06T08:00:00+09:00",
+    "cluster_id": "c7e9",
+    "publisher": "ddaily.co.kr",
+    "title_clean": "中 조선업 수주 공세에…K-조선 '해외 생산' 승부수",
+    "summary": "중국의 조선업 수주 공세에 대응하여 삼성중공업이 베트남 등 해외 조선소를 활용한 글로벌 오퍼레이션 전략을 확대 중이다. 페트로베트남과의 협력을 통해 2025년부터 선박 블록 제작과 해양플랜트 사업을 추진할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T08:12:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21156,20 +21172,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "네팔 홍수서 구조된 두산에너빌 직원 9명 귀국…현장소장은 잔류 - ekn.kr",
-    "link": "https://www.ekn.kr/web/view.php?key=20260831021498775",
-    "description": "네팔 홍수로 수력발전소 건설 현장에 고립됐다 구조된 두산에너빌리티 직원 10명 중 9명이 한국으로 무사히 돌아왔다. 현장소장은 현장에 남아 수색 작업을 돕기로 했다. 31일 두산에너빌리티에 따르면, 네팔 중북부...",
-    "published_at": "2026-08-31T21:40:00+09:00",
-    "cluster_id": "7fbd",
-    "publisher": "ekn.kr",
-    "title_clean": "네팔 홍수서 구조된 두산에너빌 직원 9명 귀국…현장소장은 잔류",
-    "summary": "네팔 홍수로 수력발전소 건설 현장에 고립된 두산에너빌리티 직원 10명 중 9명이 한국으로 귀국했다. 현장소장은 수색 작업을 돕기 위해 현장에 잔류하기로 했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T22:03:57+09:00",
-    "importance": 4
+    "title": "‘반도체 관세 표적’ 삼성·SK 보란 듯 마이크론 CEO “우리의 美 투자... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10863240?ref=naver",
+    "description": "그러면서 “현재 아이다호주 보이시 팹에 약 8000명의 건설 노동자가 일하고 있다”며 “고객들은 마이크론이 미국 노동자들에게 투자하고 있다는 점을 높이 평가한다”고 강조했다. 미국은 인건비와 기타 운영비...",
+    "published_at": "2026-09-06T08:01:00+09:00",
+    "cluster_id": "f761",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "‘반도체 관세 표적’ 삼성·SK 보란 듯 마이크론 CEO “우리의 美 투자...",
+    "summary": "마이크론 CEO가 미국의 반도체 관세 정책 속에서 아이다호주 팹 건설에 8,000명의 노동자를 투입하며 미국 내 투자를 강조했다. 이는 삼성·SK 등 한국 기업들의 미국 반도체 투자와 대비되는 상황으로, 미국의 현지 일자리 창출을 강조하는 입장을 드러낸 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T08:12:43+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
