@@ -5257,23 +5257,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, '서부보상센터' 개소... 호남권 채권관리 일원화 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37092",
-    "description": "K-FINCO 전문건설공제조합이 조합원과 보증채권자의 업무 편의 제고 및 채권관리 전문성 강화를 위해 '서부보상센터'를 신설했다.K-FINCO는 5일 오전 광주 전문건설회관에서 채권관리본부 임직원이 참석한 가운데 서부보상센터 개소식을 진행했다. 이번 조직 개편으로 기존 광주, 전주, 목포, 순천 등 4개 지점에서 각각 담당하던 보상 및 채권관리 업무가 서부보상센터로 일원화됐다.지난 3일부터 공식 업무를 시작한 서부보상센터는 전남광주통합특별시 서구 상무중앙로 전문건설회관 7층에 자리를 잡고 호남 지역의 채권관리 업무를 전담한다. K-",
-    "published_at": "2026-08-06T10:53:50+09:00",
-    "cluster_id": "8c84",
-    "publisher": "한국건설신문",
-    "title_clean": "전문건설공제조합, '서부보상센터' 개소... 호남권 채권관리 일원화",
-    "summary": "K-FINCO 전문건설공제조합이 호남권 채권관리 업무 일원화를 위해 광주에 '서부보상센터'를 신설했다. 기존 광주, 전주, 목포, 순천 등 4개 지점의 보상 및 채권관리 업무를 통합하여 전문성과 업무 효율성을 강화한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-06T11:04:04+09:00",
-    "event_label": "전문건설공제조합 서부보상센터 개소",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21271,6 +21254,22 @@
     "summary": "네팔 홍수 현장에서 두산에너빌리티 직원 9명이 구조되어 귀국했다. 직원들은 건강 상태 확인 후 가족에게 인수되었으며, 현장소장은 수색 작업에 계속 참여하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-31T20:53:25+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "화성특례시의회 도시건설위, 배터리 화재 대응체계 현장 점검 - 투어코리아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9paDJhbFQ3aUxXNVQ4dlI2cHRYN1RlQmZMNDhNWjJKVzZyRmtwMFAxTkNOYThXOHU5WUo3M3JqNkYwRTNlODFCUFhELUZiOGZOSHFfTWp4YXI4Yy1UZE5JT2NSMlFoT2NfOVBFdjNB?oc=5",
+    "description": "[투어코리아=정명달 기자]화성특례시의회 도시건설위원회가 배터리 화재에 대한 현장 대응 능력을 높이고 시민 안전을 확보하기 위한 점검에 나섰다.화성특례시의회 도시건",
+    "published_at": "2026-09-05T08:49:58+09:00",
+    "cluster_id": "e1b3",
+    "publisher": "투어코리아",
+    "title_clean": "화성특례시의회 도시건설위, 배터리 화재 대응체계 현장 점검",
+    "summary": "화성특례시의회 도시건설위원회가 배터리 화재 대응체계에 대한 현장 점검을 실시했다. 이는 배터리 화재 사고에 대한 대응 능력 강화와 시민 안전 확보를 목표로 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-05T11:08:22+09:00",
     "importance": 4
   },
   {
