@@ -4935,6 +4935,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[아시아라운드업 20260906] 네팔 대홍수 10일 만에 중국인 생존자 구조 - kor.theasian.asia",
+    "link": "http://kor.theasian.asia/archives/414780",
+    "description": "실종자 가운데는 UT-1 수력발전소 건설 현장에서 근무하던 두산에너빌리티 직원 6명과 한국남동발전 직원 3명 등 한국인 9명도 포함돼 있음.7. 인도네시아 아낙 크라카타우 분화…공항 6곳 일시 폐쇄- 인도네시아...",
+    "published_at": "2026-09-06T20:44:00+09:00",
+    "cluster_id": "ff56",
+    "publisher": "kor.theasian.asia",
+    "title_clean": "[아시아라운드업 20260906] 네팔 대홍수 10일 만에 중국인 생존자 구조",
+    "summary": "네팔 대홍수로 인해 UT-1 수력발전소 건설 현장에서 두산에너빌리티와 한국남동발전 직원 등 한국인 9명이 실종되었으며, 중국인 생존자가 10일 만에 구조되었다. 인도네시아 아낙 크라카타우 분화로 공항 6곳이 일시 폐쇄되는 등 해외 건설 프로젝트가 자연재해의 위협을 받고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-06T20:48:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20914,22 +20930,6 @@
     "publisher": "pinpointnews.co.kr",
     "title_clean": "대우건설, 목동8단지 재건축 글로벌 설계사 협업",
     "summary": "대우건설이 목동8단지 재건축사업에서 덴마크 디자인 그룹 등 글로벌 설계사와 협업하여 단지 외관 설계를 진행 중이다. 국제적 수준의 설계를 통해 재건축 경쟁력을 강화하려는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-01T10:14:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 덴마크 도시·건축 디자인 그룹과 목동8단지 외관 설계 - wowtv.co.kr",
-    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609010406&t=NN",
-    "description": "대우건설은 덴마크를 기반으로 활동하는 글로벌 도시·건축 디자인 그룹 어반 에이전시(Urban Agency)와 손잡고 목동8단지 재건축사업의 랜드마크 외관 설계에 나선다고 1일 밝혔다. 어반 에이전시는 도시와 건축...",
-    "published_at": "2026-09-01T10:03:00+09:00",
-    "cluster_id": "dfd2",
-    "publisher": "wowtv.co.kr",
-    "title_clean": "대우건설, 덴마크 도시·건축 디자인 그룹과 목동8단지 외관 설계",
-    "summary": "대우건설이 덴마크의 글로벌 도시·건축 디자인 그룹 어반 에이전시와 협력하여 목동8단지 재건축사업의 외관 설계를 진행한다. 국제적 수준의 설계를 통해 프로젝트의 경쟁력을 강화하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-01T10:14:23+09:00",
     "importance": 2
