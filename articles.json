@@ -20935,6 +20935,22 @@
     "importance": 4
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "AI 인프라 대란 정면 돌파…LG유플러스·건설업계, 모듈러 데이터센터 동맹 결성 - thefairnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQXEwOVZCcll5Q0ZLTmUxNUVHUDlUT0ZDbU9xTWdocFM4NWFhb1FPQzdwTEVnV3dJVnEzNjlLSndja1llMG5EaVdjOHRiUWVLbGljbl8wQ2hCNGIySmpFdEdrWHBkNDY0WFJ2M2NLb0_SAXRBVV95cUxQaU44aXhTSURpcjduU1dYNG5JcjhoVl9UZVFxX2lYcFJVeDVBMnhnRDJyRzY3ZHAwMlJ2Z1Y4MVlGdEhrYkl4VUwtN3dwMmhGaWd0bnBsbGViRlFfeXRJMjUxZkhCLW9DMVZfdWRtVXVVQTlJUQ?oc=5",
+    "description": "[더페어] 최준규 기자 = 모듈형 데이터센터(PMDC) 표준모델 확보를 목표로 국내 주요 건설·건축·통신 기업들이 대규모 동맹을 결성했다.LG유플러스는 GS건설, 자이C&A, 간삼건축, D&O CM 등과 손잡고 AI 데이터센터(AIDC) 구축 기간을 획기적으로 줄이기 위한 ‘PMDC",
+    "published_at": "2026-09-06T09:16:44+09:00",
+    "cluster_id": "66fe",
+    "publisher": "thefairnews.co.kr",
+    "title_clean": "AI 인프라 대란 정면 돌파…LG유플러스·건설업계, 모듈러 데이터센터 동맹 결성",
+    "summary": "LG유플러스가 GS건설, 자이C&A, 간삼건축 등 주요 건설사와 손잡고 모듈형 데이터센터(PMDC) 표준모델 개발 동맹을 결성했다. AI 데이터센터 구축 기간을 대폭 단축하고 표준화를 추진하는 사업으로, 건설업계에 새로운 수주 기회를 창출할 수 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T07:13:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32261,21 +32277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-01T09:14:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "삼표그룹, 특수 콘크리트 전문인력 키운다…전사 VAP 교육 체계 구축 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=116184",
-    "description": "저온 환경에서 콘크리트의 초기 강도 발현을 돕는 기술을 적용한 제품으로, 국토교통부 건설신기술 제995호로 지정됐다. 공개된 기술 자료에서는 일 최저기온 영하 10도 조건에서 별도의 급열 양생 없이 비닐...",
-    "published_at": "2026-09-01T08:20:00+09:00",
-    "cluster_id": "5280",
-    "publisher": "businessplus.kr",
-    "title_clean": "삼표그룹, 특수 콘크리트 전문인력 키운다…전사 VAP 교육 체계 구축",
-    "summary": "삼표그룹이 저온 환경에서 콘크리트 초기 강도 발현을 돕는 특수 기술(국토교통부 건설신기술 제995호)을 적용한 제품을 개발했다. 전사 VAP 교육 체계를 구축하여 특수 콘크리트 전문인력 양성에 나서고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-01T08:34:04+09:00",
-    "importance": 2
   }
 ]
