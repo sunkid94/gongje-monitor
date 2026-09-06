@@ -5121,6 +5121,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 도곡우성 재건축 수주…올해 도시정비 4조 돌파 - 이투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rTkw2eEo1VXRUWHI2ZHJSZzdhRXB5dTlZVEdEcXJib1l4NWdyVmNjdXM1bnJ3RjRwN0JUN1p0cTFycGVISzNZcVJSaVhMXzNhbldxa1RGOG5sM1lIZ3V2Uk9pMmdiYk9Rb1pWcQ?oc=5",
+    "description": "4002억원 규모…지하 6층~지상 26층·4개 동 조성▲서울 강남구 ‘도곡 르엘’(도곡우성아파트 재건축정비사업) 투시도. (사진제공=롯데건설)롯데건설이 서",
+    "published_at": "2026-09-06T09:44:00+09:00",
+    "cluster_id": "099c",
+    "publisher": "이투데이",
+    "title_clean": "롯데건설, 도곡우성 재건축 수주…올해 도시정비 4조 돌파",
+    "summary": "롯데건설이 도곡우성아파트 재건축정비사업을 4002억원 규모로 수주했다. 이를 통해 올해 도시정비 수주액이 4조원을 돌파하며 건설업계의 수주 실적이 증가하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T09:47:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21100,22 +21116,6 @@
     "publisher": "newsworks.co.kr",
     "title_clean": "두산에너빌 네팔 구조자 9명, 오늘 귀국…\"6명 여전히 실종상태\"",
     "summary": "네팔 홍수 현장에서 고립된 두산에너빌리티 직원 9명이 구조되어 귀국했으나, 6명은 여전히 실종 상태다. 건설 현장의 자연재해로 인한 인명피해 사건으로, 업계의 안전 관리와 위험 대응 능력에 대한 우려를 야기하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T22:34:02+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한국남동발전, 네팔 대응인력 20명으로 확대…2차 현지대응반 9명 추가... - newstown.co.kr",
-    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=714235",
-    "description": "한국남동발전은 정부 신속대응팀과 현지 대사관, 두산에너빌리티와 24시간 밀착 공조체계를 유지할 계획이다. 각 기관과 정보를 공유하면서 실종자 수색과 피해 수습을 지원하고 현장 상황 변화에도 즉각 대응할...",
-    "published_at": "2026-08-31T21:54:00+09:00",
-    "cluster_id": "062c",
-    "publisher": "newstown.co.kr",
-    "title_clean": "한국남동발전, 네팔 대응인력 20명으로 확대…2차 현지대응반 9명 추가...",
-    "summary": "한국남동발전이 네팔 현지 사건에 대응하기 위해 대응인력을 20명으로 확대하고, 정부·대사관·두산에너빌리티와 24시간 공조체계를 구축했다. 실종자 수색과 피해 수습 지원에 나서고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-08-31T22:34:02+09:00",
     "importance": 4
