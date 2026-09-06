@@ -20938,6 +20938,22 @@
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
+    "title": "모듈형 AI데이터센터 확대…LGU+, 4개사와 PMDC 동맹 - 포쓰저널",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XREtKWTBMZ0I0YVVaU0Rna2U1SHJwMTJ4aXZwbk9lWHJiRWY0ejdxU1diRmg4Nk8zRGE2QlI5Wm1ESl94dnZNZ1VEVFBkcE15cDZYTU9DX0V0UXBwYUx5QUt5OTc?oc=5",
+    "description": "LG유플러스가 인공지능(AI) 데이터센터 구축 방식을 표준화·모듈화하는 작업에 나선다.AI 확산으로 데이터센터 수요가 빠르게 늘면서 필요한 인프라를 얼마나 신속하게 공급하느냐가 사업 경쟁력으로 떠오른 가운데 공장 사전제작 방식을 활용해 구축 기간을 줄이고 품질을 일정하게 유지할 수 있는 표준모델을 확보하려는 전략이다.LG유플러스는 지난 4일 경기 안양시 평촌메가센터에서 GS건설, 자이C&A, 간삼건축, D&O CM과",
+    "published_at": "2026-09-06T10:43:42+09:00",
+    "cluster_id": "a893",
+    "publisher": "포쓰저널",
+    "title_clean": "모듈형 AI데이터센터 확대…LGU+, 4개사와 PMDC 동맹",
+    "summary": "LG유플러스가 AI 데이터센터 구축을 표준화·모듈화하기 위해 GS건설, 자이C&A, 간삼건축, D&O CM과 PMDC 동맹을 구성했다. 공장 사전제작 방식을 통해 구축 기간 단축과 품질 표준화를 실현하려는 전략이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T21:58:27+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
     "title": "LG유플러스, 모듈러 AI 데이터센터 표준모델 개발…시단 단축·품질 유지 - 라이센스뉴스",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wS2dxTUgwUnZUUk9NYlVwWW90aFVjRG5zMlpVWTBjTk9wUnN0VlBvZy1hYzRObEhINlRiOUxjaVBuaEJMRTUzQ05ybmxnNkNKcmNVTlpIblVaRUFwbVNnUm5WZWM1TDMwTDMw?oc=5",
     "description": "라이센스뉴스 = 백성요 기자 | LG유플러스가 GS건설 등 데이터센터 설계·시공·운영 전문기업과 사전제작형 모듈러 데이터센터(PMDC) 표준모델 개발에 나선다.",
@@ -32261,21 +32277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T17:54:13+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "김병주·유용원 의원, AI·드론 등 ‘첨단전력’ 신속 확보 법안 추진 - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50055",
-    "description": "[건설이코노미뉴스] 더불어민주당 김병주 의원(국회 국방위원회 간사·경기 남양주시을)과 국민의힘 유용원 의원(국회 국방위원회)이 31일 '국방첨단전력사업에 관한 법률안'을 공동 대표발의했다. 여야 의원 16명도 공동발의에 참여했다.이번 제정안은 인공지능(AI)·드론 등 첨단전력의 획득절차를 별도로 규정하는 내용을 담고 있다.미래전의 승패는 더 이상 완성도 높은 무기체계를 장기간 개발하는 방식만으로 결정되지 않는다. 전장에서 요구되는 기술을 얼마나 빠르게 식별하고, 민간의 혁신기술을 신속하게 군사적 능력으로 전환하며, 운용 과정에서 지",
-    "published_at": "2026-08-31T17:41:54+09:00",
-    "cluster_id": "f86e",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "김병주·유용원 의원, AI·드론 등 ‘첨단전력’ 신속 확보 법안 추진",
-    "summary": "여야 의원 16명이 공동으로 AI, 드론 등 첨단전력의 신속한 획득을 위한 법안을 발의했다. 이는 민간 혁신기술을 군사적 능력으로 빠르게 전환하기 위한 별도의 획득절차 규정을 담고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T17:54:13+09:00",
-    "importance": 2
   }
 ]
