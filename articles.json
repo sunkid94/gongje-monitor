@@ -20968,6 +20968,22 @@
     "importance": 4
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "GS건설, ‘모듈러 주택처럼’ 모듈러 데이터센터 개발 착수···LGU+ 등과 협력 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzB0dWNDN25CT0c4eTlzclJjV21DMnFaMTVndkVzT2tNYXFOalF5WkZlZFdSdkRBbHhXSEoyT2V2cWRRZDdmMVJIblRialQyRk9oVDU3VGtEZVRzWGZUbkZrdnRKOWlvczFOS1JiTmlMd1RLb2ZDQ1dvaGJCU0ZKLWxCeW1xSG5sRnNfekd2cHFJUzBWVXItVklmU2h1a3ZtUkIzejNWcENRd9IBX0FVX3lxTE9GWEkzY250Y0RrRUtiYkozb1hETVZRS1B1NmNBSE1uSXpkUzJuN1U4THg0UE1WUGFJVG13ZTduaFc0emtDeXktVXFZeEowMko1VkJsemt4aWg5QVJOMHNR?oc=5",
+    "description": "GS건설이 인공지능(AI) 데이터센터 수요 급증에 대응하기 위해 ‘모듈러 데이터센터’ 공동 개발에 나선다. GS건설은 지난 4일 LG유플러스, 자이C&A, 간삼건축, D&O CM과 ‘사전 제작형 모듈러 데이터센터(PMDC) 얼라이언스 구축을 위한 업무협약’을 체결했다고 6일 밝혔다. PMDC는 모듈러 주택처럼 데이터센터도 건축 구조물과 설비를 모듈화해...",
+    "published_at": "2026-09-06T13:35:00+09:00",
+    "cluster_id": "9f9c",
+    "publisher": "경향신문",
+    "title_clean": "GS건설, ‘모듈러 주택처럼’ 모듈러 데이터센터 개발 착수···LGU+ 등과 협력",
+    "summary": "GS건설이 LG유플러스, 자이C&A, 간삼건축, D&O CM과 함께 AI 데이터센터 수요 증가에 대응하기 위해 모듈러 데이터센터(PMDC) 공동 개발에 착수했다. 모듈러 주택처럼 건축 구조물과 설비를 모듈화하여 건설 효율성과 속도를 높일 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T13:43:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32262,21 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T16:13:08+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "울산 7월 광공업 생산 0.9% 증가…자동차 부진에 증가폭 둔화 - news1.kr",
-    "link": "https://www.news1.kr/local/ulsan/6275020",
-    "description": "7월 건설수주액은 3844억 원으로 전년 동월 대비 57.0% 증가했다. 6월 수주액이 1152억 원으로 87.7% 급감했던 것과 대비된다. 발주자별로는 공공부문이 학교·병원, 치산·치수 등의 수주가 늘며 73.5% 증가한 509억 원...",
-    "published_at": "2026-08-31T15:57:00+09:00",
-    "cluster_id": "d55e",
-    "publisher": "news1.kr",
-    "title_clean": "울산 7월 광공업 생산 0.9% 증가…자동차 부진에 증가폭 둔화",
-    "summary": "울산 7월 광공업 생산이 0.9% 증가했으나 자동차 부진으로 증가폭이 둔화되었다. 건설수주액은 3844억 원으로 전년 동월 대비 57.0% 증가했으며, 공공부문 수주가 73.5% 늘어나며 건설업계를 견인했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T16:13:08+09:00",
-    "importance": 2
   }
 ]
