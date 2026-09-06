@@ -4918,6 +4918,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 도곡우성 재건축 수주…도곡 르엘로 탈바꿈 - realty.chosun.com",
+    "link": "https://realty.chosun.com/site/data/html_dir/2026/09/06/2026090601242.html",
+    "description": "롯데건설은 서울 강남구 도곡우성아파트 재건축 정비사업 시공사로 선정됐다고 6일 밝혔다. 롯데건설은 이번 수주로 올해 도시정비사업 6건에 누적 수주액 4조110억원을 달성했다. 롯데건설은 지난 5일 도곡우성아파트...",
+    "published_at": "2026-09-06T15:24:00+09:00",
+    "cluster_id": "15da",
+    "publisher": "realty.chosun.com",
+    "title_clean": "롯데건설, 도곡우성 재건축 수주…도곡 르엘로 탈바꿈",
+    "summary": "롯데건설이 서울 강남구 도곡우성아파트 재건축 정비사업 시공사로 선정되었다. 올해 도시정비사업 누적 수주액이 4조110억원에 도달하며 건설사의 수주 실적이 증가하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T15:33:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20902,20 +20918,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "모듈러 건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "목동12단지 재건축 시공사 입찰 유찰…GS건설 단독 응찰 - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202609010006",
-    "description": "지난 7월 열린 현장설명회에는 GS건설을 비롯해 대우건설, 포스코이앤씨, IPARK현대산업개발 등 4개 건설사가 참석했지만 실제 입찰에는 GS건설만 참여했다. 조합은 재입찰 공고를 내고 시공사 선정 절차를 다시...",
-    "published_at": "2026-09-01T08:30:00+09:00",
-    "cluster_id": "2fb2",
-    "publisher": "sentv.co.kr",
-    "title_clean": "목동12단지 재건축 시공사 입찰 유찰…GS건설 단독 응찰",
-    "summary": "목동12단지 재건축 사업의 시공사 입찰에서 GS건설만 단독 응찰하여 유찰되었다. 현장설명회에는 4개 건설사가 참석했으나 실제 입찰 참여는 GS건설뿐이어서 조합이 재입찰을 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-01T08:43:40+09:00",
-    "importance": 4
+    "title": "GS건설, AI 데이터센터에 모듈러 적용…'공급 속도' 경쟁력 높인다 - 파이낸셜신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GT0JmLXFwSUVZSngxemp0TGZ4N3VwdUtRWGlWbkdIaGxFTGVPOWtoc1lGbUtyZlNmXzFaajJlaUxPcWtwYmFSblRkZ2FfSy16QmY0Qlp2NzZJZWJZcXRDcXZld2F6LVE0eXc4?oc=5",
+    "description": "GS건설이 급증하는 인공지능(AI) 데이터센터 수요에 대응하기 위해 모듈러 기술을 적용한 사전 제작형 데이터센터 표준모델 개발에 나선다. 데이터센터 건설 기간을 줄여 고객이 원하는 시점에 인프라를 공급하는",
+    "published_at": "2026-09-06T14:01:17+09:00",
+    "cluster_id": "ecbc",
+    "publisher": "파이낸셜신문",
+    "title_clean": "GS건설, AI 데이터센터에 모듈러 적용…'공급 속도' 경쟁력 높인다",
+    "summary": "GS건설이 AI 데이터센터 수요 증가에 대응하기 위해 모듈러 기술을 활용한 사전 제작형 표준모델을 개발 중이다. 건설 기간 단축으로 고객의 원하는 시점에 신속한 인프라 공급이 가능해져 경쟁력을 강화할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T15:33:38+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32260,21 +32276,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T16:43:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대형 건설사, 원전·AIDC '호재' 지방은 PF 악재···'양극화' 심화 - finomy.com",
-    "link": "http://www.finomy.com/news/articleView.html?idxno=260404",
-    "description": "올해 상반기 국내 건설수주액은 116조원으로 전년 동기보다 25.8% 증가했다. 반도체 공장과 데이터센터 등 민간 비주거용 건축 수주가 증가세를 이끌며, 주택 부문 회복 지연을 비주택 수주가 일부 보완하는 상황이라...",
-    "published_at": "2026-08-31T16:28:00+09:00",
-    "cluster_id": "5dca",
-    "publisher": "finomy.com",
-    "title_clean": "대형 건설사, 원전·AIDC '호재' 지방은 PF 악재···'양극화' 심화",
-    "summary": "상반기 건설수주액이 116조원으로 전년 대비 25.8% 증가했으나, 대형사는 원전·AI데이터센터 등으로 호재를 누리는 반면 지방 중소건설사는 PF 악화로 어려움을 겪으면서 업계 양극화가 심화되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T16:43:15+09:00",
-    "importance": 2
   }
 ]
