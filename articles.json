@@ -20935,6 +20935,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“청년 돌아오는 호남 만들자”…좋은 일자리 촉구 - kjdaily.com",
+    "link": "http://www.kjdaily.com/article.php?aid=1788691679686083005",
+    "description": "특히 건설노동자들은 산업단지 조성 단계부터 지역 노동자의 참여와 적정임금·안전한 노동환경을 보장해야 한다고 촉구했다. 반도체 노동자들도 노동환경과 고용 실태를 파악하고 노동이사제 등 노동자 참여 제도를...",
+    "published_at": "2026-09-06T20:00:00+09:00",
+    "cluster_id": "f1e5",
+    "publisher": "kjdaily.com",
+    "title_clean": "“청년 돌아오는 호남 만들자”…좋은 일자리 촉구",
+    "summary": "호남 지역 청년 인구 유입을 위해 산업단지 조성 시 건설노동자들의 적정임금, 안전한 노동환경 보장과 반도체 업계 노동환경 개선을 촉구하는 기사. 지역 노동자 참여와 노동이사제 등 노동자 참여 제도 도입을 주장.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-06T20:08:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32258,22 +32274,6 @@
     "publisher": "usmbc.co.kr",
     "title_clean": "7월 울산 산업활동‥생산↑·소비↓·건설 수주↑",
     "summary": "7월 울산의 산업활동이 기계장비와 1차금속 생산 증가로 전월대비 0.9% 증가했으나, 소비는 1.5% 감소했습니다. 건설수주액은 3,844억 원으로 전년동월대비 57% 증가하며 건설업계에 긍정적 신호를 보냈습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T17:53:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[알립니다] 제4회 ‘한국건설부동산산업대상’ 주인공을 찾습니다 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20085402?ref=naver",
-    "description": "최우수상은 건축·토목 등에서 혁신적 기술을 도입한 스마트건설, 주거 상품의 질적 개선을 이룬 주거혁신, 주거의 쾌적성과 미관 개선 등을 이끈 주거경관, 노후 주거 환경 개선을 통해 주거 복지를 달성한 도시정비...",
-    "published_at": "2026-08-31T17:43:00+09:00",
-    "cluster_id": "e3f8",
-    "publisher": "sedaily.com",
-    "title_clean": "[알립니다] 제4회 ‘한국건설부동산산업대상’ 주인공을 찾습니다",
-    "summary": "한국건설부동산산업대상 제4회 개최로 스마트건설, 주거혁신, 주거경관, 도시정비 등 우수 사례를 선정하여 시상합니다. 건설업계의 혁신 기술과 주거 환경 개선 사례를 공모하여 업계 우수 사례를 확산하고 홍보하는 행사입니다.",
     "sentiment": "positive",
     "collected_at": "2026-08-31T17:53:16+09:00",
     "importance": 2
