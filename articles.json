@@ -20921,6 +20921,22 @@
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
+    "title": "GS건설, 모듈러 AI 데이터 센터 연합 구축… PMDC 표준 모델 개발 - 파이낸셜포스트",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxejEtRjFzUFE0MUxDMHFKOVlNUVJ2ZjhUVURVUUo5S2ljV29tZkxJa1R4bXFwVGRrWkNoTEpta1hRTlJrY0tieW5MVHFjSFQ3d014VTM1cmh3bkJFdXZ4bDU0QUs1R2g1OUVhelVGU0ZSY2lq?oc=5",
+    "description": "GS건설이 공장에서 미리 데이터 센터 구조물, 설비를 제작해 현장에서 조립하는 PMDC 방식의 표준 모델을 공동 개발한다. AI 연산 인프라 수요가 빠르게 늘면서 데이터 센터를 실제 가동하기까지 걸리는 시간을 줄이는 데 초점을 맞췄다.GS건설은 지난 4일 경기 안양시 LG유플러스 평촌",
+    "published_at": "2026-09-06T14:18:12+09:00",
+    "cluster_id": "a10c",
+    "publisher": "파이낸셜포스트",
+    "title_clean": "GS건설, 모듈러 AI 데이터 센터 연합 구축… PMDC 표준 모델 개발",
+    "summary": "GS건설이 AI 데이터 센터 연합을 구축하여 모듈러 방식(PMDC) 표준 모델을 공동 개발한다. 공장 사전제작 후 현장 조립을 통해 데이터 센터 구축 시간을 단축하는 것이 목표로, 급증하는 AI 인프라 수요에 대응한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T14:58:48+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
     "title": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 나선다 - supple.kr",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlaUIyVHlsV2FSRWQyZ3N4X1FQNGx6amMzRXRBV09KZHpYZGUtajJhU3lYaGpWeWtyeVJlakNwcS1LNEdxb3dsenFQMHdwVXg5NDhUX1ZfQ1NLMG5W?oc=5",
     "description": "SBS Biz · 경제/금융 핵심 정리 · [PMDC 얼라이언스 구축을 위한 업무협약 체결한 김욱수 자이C&A대표, 허윤홍 GS건설 대표, 홍범식 LG유플러스 대표, 이영호 D&O CM 대표, 박무찬 간삼건축 총괄대표(왼쪽부터). (GS건설 제공=연합뉴스)] G...",
@@ -32260,21 +32276,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T16:33:40+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "근기법 \"하청 임금지급, 원청이 챙겨라\"…노란봉투법 '함정' 될수도 - hankyung.com",
-    "link": "https://www.hankyung.com/article/2026083129261",
-    "description": "않고, 건설산업기본법과 하도급법이 이미 도급대금의 적정 지급을 다루고 있으므로 그쪽 법령에서 정하는... 두 법 모두 저마다 선한 목적을 갖고 있다. 문제는 이 둘이 한 기업의 한 현장에서 동시에 작동한다는 사실을...",
-    "published_at": "2026-08-31T16:04:00+09:00",
-    "cluster_id": "a98c",
-    "publisher": "hankyung.com",
-    "title_clean": "근기법 \"하청 임금지급, 원청이 챙겨라\"…노란봉투법 '함정' 될수도",
-    "summary": "노란봉투법이 근기법과 건설산업기본법, 하도급법 등 기존 법령과 동시에 적용되면서 규제 충돌로 인한 혼란과 부작용이 우려된다. 건설업계가 상충하는 법적 요구사항을 동시에 준수해야 할 가능성이 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T16:13:08+09:00",
-    "importance": 4
   }
 ]
