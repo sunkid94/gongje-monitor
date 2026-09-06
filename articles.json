@@ -20935,6 +20935,22 @@
     "importance": 4
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "GS건설, 데이터센터도 '레고 조립'하듯 빠르게 짓는다…5개사 손잡고 모듈러 표준화 - 투어코리아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xNkpfZUI4WTVkUEVRRl8xTGdiNTZFR09idlk3eDBqY0xJb1FQaFpQM3NVVGQ0R1FOSU4teGplc0hRTXBVZ2k0V1BtOUZQWkQ0YjBjcC1fc3NwanBtOGx1OEt5TU5oaTZKeTBoTEZB?oc=5",
+    "description": "[투어코리아=김경석 기자] AI 붐을 타고 데이터센터 수요가 폭발적으로 늘어나는 가운데, GS건설이 공사 속도를 끌어올릴 카드로 '모듈러 공법'을 꺼내 들었다.G",
+    "published_at": "2026-09-06T18:47:37+09:00",
+    "cluster_id": "151e",
+    "publisher": "투어코리아",
+    "title_clean": "GS건설, 데이터센터도 '레고 조립'하듯 빠르게 짓는다…5개사 손잡고 모듈러 표준화",
+    "summary": "GS건설이 AI 데이터센터 수요 증가에 대응하여 5개사와 협력해 모듈러 공법을 표준화하여 공사 속도를 향상시키는 전략을 추진 중이다. 이는 건설업계의 생산성 향상과 데이터센터 시장 확대라는 긍정적 신호를 제시한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T03:23:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32261,21 +32277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T18:32:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토안전관리원, 현장 이사회서 폭염 대응체계 점검 - NSP통신",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS3FBajRsUnF6MDRNNDUxVTZKMzVJN0hNUzQzb2NRSFBWVW15N2w4NU9NeWEwbWFMb09QelQ4b1pkcHdXc2t5Z1JYVWVJLUJpQlpfNzY3X005RlF4LXliYQ?oc=5",
-    "description": "국토안전관리원이 서산A방조제 인근 현장에서 이사회를 열고 폭염 대응체계를 점검했다. 온열질환 위험이 커지는 계절에 맞춰 경영진이 현장 위험요인을 직접 확인하고 건설현장 사고 예방을 위한 스마트 안전기술 지원 방안도 함께 추진하겠다는 것.",
-    "published_at": "2026-08-31T18:20:55+09:00",
-    "cluster_id": "bc41",
-    "publisher": "NSP통신",
-    "title_clean": "국토안전관리원, 현장 이사회서 폭염 대응체계 점검",
-    "summary": "국토안설관리원이 서산A방조제 현장에서 이사회를 개최하여 폭염 시즌 대응체계를 점검했다. 온열질환 예방과 건설현장 사고 방지를 위해 경영진이 현장 위험요인을 직접 확인하고 스마트 안전기술 지원을 추진할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T18:32:56+09:00",
-    "importance": 2
   }
 ]
