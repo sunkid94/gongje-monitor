@@ -20935,6 +20935,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "화성특례시의회 도시건설위원회 봉담읍 옹벽 붕괴 현장 긴급 점검 - 경기in",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBuazdxTVJlN2oxWEZMclY5UDRaM0pUNWw3ekNLRWljMTZVNG1FR2FIWWxtclNhOUJ4cDlaOW9pRm0tS0U?oc=5",
+    "description": "화성특례시의회 도시건설위원회 봉담읍 옹벽 붕괴 현장 긴급 점검 [경기IN=강동완 기자] 화성특례시의회의 도시건설위원회(위원장 김상균)는 9월 4일 오",
+    "published_at": "2026-09-06T19:00:00+09:00",
+    "cluster_id": "2cf1",
+    "publisher": "경기in",
+    "title_clean": "화성특례시의회 도시건설위원회 봉담읍 옹벽 붕괴 현장 긴급 점검",
+    "summary": "화성특례시의회 도시건설위원회가 봉담읍 옹벽 붕괴 현장을 긴급 점검했다. 안전 문제로 인한 현장 점검으로 건설 안전 관리 강화 필요성이 대두되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T01:53:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32261,21 +32277,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-08-31T18:32:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한전, 우수 협력회사 대표 19명 포상…“경영자가 현장 안전 직접 챙긴다” - 전기신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CcDNjMk0yRUl2bWxzYjZ6UHFIVUgtRDhxNXdtdUFpUngyVFVuRFFfaVJPdTZIRDg2X2lPc243bmJoWkVPZXRRQ3oyMkJZVlU5T19MT1A4SjFmZHlVQVJ3amQ3QVJ5WHoyWHJIVdIBcEFVX3lxTE9aZ2xHUDFGOUYxeEVpSFk4Y3pfS0pJc3dwVXM1VWF6aWt2bEsxZ0s3MGZsb0MySWt4NzZzUXBMTWxoZVBhdGUyTHlMbnRoSHNsYmFnMnRtREdnaHdVVjlXWUJydml6ck92bmxVVVRTWnY?oc=5",
-    "description": "한국전력이 협력회사 대표자가 직접 현장 안전을 관리하는 자율안전 문화 확산에 나섰다.한전은 31일 충북 오송 소재 한국전기공사협회 중앙회에서 ‘2026년 2분기 우수 협력회사 대표자 시상식’을 열고 현장 안전문화 정착에 앞장선 협력회사 대표자 19명을 선정해 포상했다.행사에는 정치교 한전 안전&영업배전부사장과 이형주 한국전기공사협회 회장, 김동민 한전 안전혁신단장, 이경제 고용노동부 중대산업재해수사과장 및 우수 협력회사 대표 등이 참석했다. 선정된 대표자에게는 각각 50만원의 ‘자율안전 실천 포상금’과 ‘자율안전 선도 협력회사’ 현판이 수여됐다.이번 행사는 협력회사 대표자가 직접 현장을 관리하는 안전문화를 정착시키고 실질적인 안전 책무 이행을 독려하기 위해 마련됐다.한전은 협력회사 대표자의 안전에 대한 관심이 현장의 안전 수준과 직결된다고 보고 지난 4월부터 ‘협력회사 대표자 현장 안전점검 활성화 계획’을 시행하고 있다.이에 따라 협력회사 대표들은 주 1회 이상 직접 현장을 찾아 TBM(Tool Box Meeting·작업 전 안전점검회의)을 주관하고 위험요인을 점검·조치하는 등 자율안전 활동을 수행하고 있다. 또 한전 사업소장과 협력회사 대표자가 월 1회 이",
-    "published_at": "2026-08-31T17:58:57+09:00",
-    "cluster_id": "402c",
-    "publisher": "전기신문",
-    "title_clean": "한전, 우수 협력회사 대표 19명 포상…“경영자가 현장 안전 직접 챙긴다”",
-    "summary": "한전이 협력회사 대표 19명을 포상하며 현장 안전 자율관리 문화 확산을 추진 중이다. 협력회사 대표들의 현장 점검 활성화와 자율안전 활동을 강화하기 위한 정책이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-31T18:12:55+09:00",
-    "importance": 4
   }
 ]
