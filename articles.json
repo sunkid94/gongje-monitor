@@ -4935,6 +4935,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"두산퓨얼셀, 美 데이터센터 연료전지 수주…투자의견·목표가↑\"-NH - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026090773276",
+    "description": "NH투자증권은 7일 두산퓨얼셀에 대해 \"미국 데이터센터 주 전력용 연료전지 수주로 중장기 외형 성장에 대한 불확실성이 완화됐다\"며 투자의견을 기존 '보유'에서 '매수'로, 목표주가를 3만4000원에서 5만8000원으로 각각...",
+    "published_at": "2026-09-07T08:05:00+09:00",
+    "cluster_id": "7e6a",
+    "publisher": "hankyung.com",
+    "title_clean": "\"두산퓨얼셀, 美 데이터센터 연료전지 수주…투자의견·목표가↑\"-NH",
+    "summary": "두산퓨얼셀이 미국 데이터센터 연료전지 수주로 중장기 성장성을 입증했으며, NH투자증권이 투자의견을 '보유'에서 '매수'로 상향 조정했다. 목표주가도 3만4000원에서 5만8000원으로 상향 조정되며 긍정적 신호를 보내고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T08:13:59+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20917,22 +20933,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-01T10:44:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "이 대통령 “네팔에 인력과 헬기 추가 투입…실종자 생환 기원” - hani.co.kr",
-    "link": "https://www.hani.co.kr/arti/politics/bluehouse/1275627.html",
-    "description": "지난달 26일 히말라야 산악지대인 네팔 중북부 바그마티주 일대에서 발생한 홍수로 인해 수력발전소 건설 현장에서 일하던 두산에너빌리티 직원 6명, 한국남동발전 직원 3명 등 총 한국인 9명이 연락두절됐다.",
-    "published_at": "2026-09-01T10:30:00+09:00",
-    "cluster_id": "b104",
-    "publisher": "hani.co.kr",
-    "title_clean": "이 대통령 “네팔에 인력과 헬기 추가 투입…실종자 생환 기원”",
-    "summary": "네팔 히말라야 산악지대 홍수로 인해 두산에너빌리티와 한국남동발전 직원 총 9명이 수력발전소 건설 현장에서 연락두절됐다. 대통령이 인력과 헬기 추가 투입을 지시하며 실종자 생환을 기원하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-01T10:44:36+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
