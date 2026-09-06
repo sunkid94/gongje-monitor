@@ -20935,6 +20935,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대보건설, 수주잔고 4.6조 쌓고 시평 47위…정부 철도투자와 맞물려 - 토요경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84emxQMVJScERjY1RJbVUzWnNuSkZ6a2RYYTNKbTlpVlpiVjZQd29sVlNXY2VUckc4S3VWdVRidjhwSUoybXp0Q0tkdnpFUlFVOFpIZXN1MF81R1puRElXZtIBb0FVX3lxTE5zbERwSHUtaXhDcDFPc0F0ZExWSmtPalR1eEhneW5HUGZBVHcyOUxiTWt1TVluRm9NaEJqaVBDRnhaYXBTeWFqSTktUkc4N05rdVV4UTZYSlNTUUVpdFA5S2JCa1RxcXV0cmE1RTcxVQ?oc=5",
+    "description": "지난해 말 수주잔고 연매출의 4.4배…신규수주 2.2조 사상 최대2027 예산안 GTX-B 3662억·남부내륙철도 2006억…공공토목 성장축과 접점",
+    "published_at": "2026-09-06T13:56:49+09:00",
+    "cluster_id": "34e2",
+    "publisher": "토요경제",
+    "title_clean": "대보건설, 수주잔고 4.6조 쌓고 시평 47위…정부 철도투자와 맞물려",
+    "summary": "대보건설이 지난해 수주잔고 4.6조원을 기록하며 신규수주 2.2조원으로 사상 최대치를 달성했다. 2027년 예산안에 GTX-B와 남부내륙철도 등 공공토목 사업이 포함되면서 정부 철도투자와 맞물려 성장 기회를 노리고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T00:33:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32260,22 +32276,6 @@
     "summary": "한국건설기술인협회가 110만 회원의 상담 편의 개선을 위해 AI 음성상담 시스템 '보이스봇'을 구축하고 31일부터 시범운영 시작. 응대율 92%로 상담 대기시간 단축 및 회원 편의 제고를 목표로 함.",
     "sentiment": "neutral",
     "collected_at": "2026-08-31T18:04:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "車·조선 빠지자 기계가 메웠다…울산 광공업 생산 0.9% 증가 - iusm.co.kr",
-    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1067206",
-    "description": "전달 급락했던 건설수주는 반등했다. 7월 울산 건설수주액은 3,844억원으로 전년 동월보다 57.0% 증가했다. 6월 1,152억원(수정치)과 비교하면 한 달 새 3배 이상 늘어난 규모다. 공공부문은 509억원으로 73.5%, 민간부문은...",
-    "published_at": "2026-08-31T17:50:00+09:00",
-    "cluster_id": "f9b0",
-    "publisher": "iusm.co.kr",
-    "title_clean": "車·조선 빠지자 기계가 메웠다…울산 광공업 생산 0.9% 증가",
-    "summary": "울산의 7월 광공업 생산이 전월 대비 0.9% 증가했으며, 자동차와 조선업의 부진을 기계설비가 메웠다. 건설수주액은 3,844억원으로 전년 동월 대비 57.0% 증가하며 건설업계의 회복세를 보였다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-31T18:03:42+09:00",
     "importance": 2
   }
 ]
