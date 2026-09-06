@@ -5002,21 +5002,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 하도급대금 지급보증 수수료 최대 20% 할인 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260807000546",
-    "description": "건설공제조합이 오는 11일 하도급대금 지급보증 의무 확대를 앞두고 조합원의 보증 비용 부담을 낮추기 위한 지원에 나선다. 직불합의 계약의 지급보증 수수료를 최대 20% 할인하고 보증한도도 완화해 건설사의 금융비용...",
-    "published_at": "2026-08-07T11:13:00+09:00",
-    "cluster_id": "4ac4",
-    "publisher": "newspim.com",
-    "title_clean": "건설공제조합, 하도급대금 지급보증 수수료 최대 20% 할인",
-    "summary": "건설공제조합이 11일 하도급대금 지급보증 의무 확대를 앞두고 조합원 지원에 나선다. 지급보증 수수료를 최대 20% 할인하고 보증한도를 완화하여 건설사의 금융비용 부담을 경감한다.",
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 도곡우성아파트 재건축 수주…도시정비사업 4조원 돌파 - 리드경제",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fVjBublhGTnIteVM1WFVxQTRxdEN6MnBpaXhjRllDbDBSelVpeUxDb0tMRWgxem5Gd0x0anVMZjZEcGFtZTZhUkRkaVhzR2JXazl3RUduM1cwcUotWE9ObTlsRFBNME1VUXJHMDBrVQ?oc=5",
+    "description": "롯데건설이 서울 강남구 도곡우성아파트 재건축사업을 수주하며 올해 도시정비사업 누적 수주액 4조원을 넘어섰다.롯데건설은 지난 5일 서울 강남구 대치중학교 강당에서",
+    "published_at": "2026-09-06T11:27:02+09:00",
+    "cluster_id": "d289",
+    "publisher": "리드경제",
+    "title_clean": "롯데건설, 도곡우성아파트 재건축 수주…도시정비사업 4조원 돌파",
+    "summary": "롯데건설이 서울 강남구 도곡우성아파트 재건축사업을 수주하며 올해 도시정비사업 누적 수주액 4조원을 돌파했다. 이는 건설업계의 수주 증가를 보여주는 긍정적 지표이다.",
     "sentiment": "positive",
-    "collected_at": "2026-08-07T11:29:25+09:00",
-    "event_label": "건설공제조합 하도급대금 지급보증 수수료 할인 및 보증한도 완화",
-    "importance": 7
+    "collected_at": "2026-09-06T11:38:18+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21001,22 +21000,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-01T05:13:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "홍수 잔해 속 60시간, 네팔 5세 소녀 ‘기적의 생환’ - donga.com",
-    "link": "https://www.donga.com/news/Inter/article/all/20260901/134579622/2",
-    "description": "한국 정부 합동 신속대응팀과 두산에너빌리티는 31일 육상 및 헬기 수색에 각각 나섰다. 앞서 홍수 현장에서 구조된 두산에너빌리티 직원 9명은 이날 귀국해 가족의 품으로 돌아갔다. 한편, 31일 한국인 근로자들이...",
-    "published_at": "2026-09-01T04:34:00+09:00",
-    "cluster_id": "22a1",
-    "publisher": "donga.com",
-    "title_clean": "홍수 잔해 속 60시간, 네팔 5세 소녀 ‘기적의 생환’",
-    "summary": "네팔 홍수 현장에서 두산에너빌리티 직원 9명이 구조되어 귀국했다. 한국 정부 합동 신속대응팀과 두산에너빌리티는 추가 인원 수색을 위해 육상 및 헬기 수색을 진행 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-01T04:54:04+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
