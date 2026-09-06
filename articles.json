@@ -4935,6 +4935,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[비즈+]롯데건설, 강남 도곡우성 재건축 품었다…올해 정비사업 수주 4조 돌파 - 비즈니스플러스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LWkc5ejJCdk4tOVl6N01QZEplNThzWWE3aTNpMUJkeFRGUURyamhyWGFoOU5Kc0hxclJMTko4elN2TUlPN3ZKdU9wV2V4VUFPbHB6UHRYbkgwOFBjUDhkN0kxeW4wVVc4bThIMUNrWQ?oc=5",
+    "description": "롯데건설이 서울 강남구 도곡우성아파트 재건축 사업의 시공권을 확보하며 올해 도시정비사업 부문 누적 수주액 4조원 고지를 넘어섰다.롯데건설은 지난 5일 서울 강남구 대치중학교에서 개최된",
+    "published_at": "2026-09-06T11:18:48+09:00",
+    "cluster_id": "8bfe",
+    "publisher": "비즈니스플러스",
+    "title_clean": "[비즈+]롯데건설, 강남 도곡우성 재건축 품었다…올해 정비사업 수주 4조 돌파",
+    "summary": "롯데건설이 강남 도곡우성아파트 재건축 사업 시공권을 확보하며 올해 도시정비사업 수주액이 4조원을 돌파했다. 건설업계의 주요 수주 호재로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T16:58:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20917,22 +20933,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-01T09:44:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 덴마크 어반 에이전시와 목동8단지 설계 협업 - businesskorea.co.kr",
-    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275896",
-    "description": "대우건설은 글로벌 도시·건축 디자인 그룹인 어반 에이전시와 협력해 목동8단지 재건축 사업의 랜드마크 외관 설계를 추진한다고 밝혔다. 설계 및 도시정비사업 담당 임직원들은 지난 8월 28일 한국을 찾은 어반...",
-    "published_at": "2026-09-01T09:20:00+09:00",
-    "cluster_id": "590b",
-    "publisher": "businesskorea.co.kr",
-    "title_clean": "대우건설, 덴마크 어반 에이전시와 목동8단지 설계 협업",
-    "summary": "대우건설이 덴마크의 글로벌 도시·건축 디자인 그룹 어반 에이전시와 협력하여 목동8단지 재건축 사업의 랜드마크 외관 설계를 추진한다. 국제적 디자인 전문가와의 협업으로 프로젝트의 경쟁력을 강화하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-01T09:44:01+09:00",
-    "importance": 3
   },
   {
     "keyword": "모듈러 건설",
