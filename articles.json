@@ -4918,22 +4918,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 개정 하도급법 시행 대응…보증수수료 할인·한도 완화 - 국토매일",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FRU90MnpwT1RLbXdSTlN2VzBLVkQ4QVZUR1dtc2tGVC1YdzJuWU9fYUE1Vm15bmQxTUI5U0N0bWxBcTZs?oc=5",
-    "description": "(사진=건설공제조합) ©국토매일 [국토매일=백지선기자]건설공제조합은오는11일시행되는개정하도급거래공정화에관한법률(하도급법)로건설업계의보증",
-    "cluster_id": "cb21",
-    "publisher": "국토매일",
-    "title_clean": "건설공제조합, 개정 하도급법 시행 대응…보증수수료 할인·한도 완화",
-    "summary": "건설공제조합이 11일 시행되는 개정 하도급법에 대응하여 보증수수료 할인 및 한도 완화 정책을 추진한다. 이는 건설업계의 하도급거래 환경 개선을 지원하는 조치로, 중소 건설업체의 자금 부담을 완화할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-07T14:49:09+09:00",
-    "event_label": "건설공제조합 개정 하도급법 시행 대응 보증수수료 할인·한도 완화",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20932,6 +20916,22 @@
     "sentiment": "negative",
     "collected_at": "2026-09-01T08:34:04+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 나선다 - supple.kr",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlaUIyVHlsV2FSRWQyZ3N4X1FQNGx6amMzRXRBV09KZHpYZGUtajJhU3lYaGpWeWtyeVJlakNwcS1LNEdxb3dsenFQMHdwVXg5NDhUX1ZfQ1NLMG5W?oc=5",
+    "description": "SBS Biz · 경제/금융 핵심 정리 · [PMDC 얼라이언스 구축을 위한 업무협약 체결한 김욱수 자이C&A대표, 허윤홍 GS건설 대표, 홍범식 LG유플러스 대표, 이영호 D&O CM 대표, 박무찬 간삼건축 총괄대표(왼쪽부터). (GS건설 제공=연합뉴스)] G...",
+    "published_at": "2026-09-06T05:16:27+00:00",
+    "cluster_id": "34ca",
+    "publisher": "supple.kr",
+    "title_clean": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 나선다",
+    "summary": "GS건설, LGU+, 자이C&A, D&O CM, 간삼건축 등이 모듈러 데이터센터의 표준모델 공동개발을 위해 PMDC 얼라이언스를 구축했다. 이는 데이터센터 건설의 효율성 향상과 신규 시장 창출로 건설업계에 새로운 기회를 제공할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T14:53:40+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
