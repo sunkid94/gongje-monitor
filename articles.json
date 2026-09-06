@@ -20935,6 +20935,22 @@
     "importance": 4
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LG유플러스, GS건설 등과 모듈러 데이터센터 공동개발 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JaWJhenZhOFlBQ2JtZ2locDRtQ2dlVGZhRTVGZ1NMLXFMQWFaZ0NidjEweDlwSWFQalRnYmN2V3B6SzdOZWhic0Vla3Rlbl9jRnlPT2E4TDI0VGlQM1B1dXdHaXhiVDZDT2hJSVdId21kaDhaX3fSAWZBVV95cUxQdzJaSDdNenRVbHdWYzJHWWFkTktZWDNhODhveXY4TEFxOEN0QXBuSWNVcUYxNXNpSGpQbVkydlNHdFlCS1lnempBRHBYY2tiNTJ6YjhIVGdFZk1DTGdxUDdwX2tCa2c?oc=5",
+    "description": "LG유플러스와 GS건설 등이 손잡고 ‘사전제작형 모듈러 데이터센터(PMDC)’ 표준모델 개발에 나선다. LG유플러스는 4일 GS건설, 자이C&A, 간삼건축, D&O CM과 ‘PMDC 얼라이언스 구축을 위한 업무협약’을 체결했다고 6일 밝혔다. 협약식에는 LG유플러스 …",
+    "published_at": "2026-09-07T00:30:00+09:00",
+    "cluster_id": "8da3",
+    "publisher": "동아일보",
+    "title_clean": "LG유플러스, GS건설 등과 모듈러 데이터센터 공동개발",
+    "summary": "LG유플러스가 GS건설, 자이C&A, 간삼건축, D&O CM과 손잡고 사전제작형 모듈러 데이터센터(PMDC) 표준모델 개발을 위한 업무협약을 체결했다. 이는 데이터센터 시장 확대에 따른 새로운 건설 사업 분야 개척으로, 건설업계에 수주 기회 증대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T00:38:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32261,21 +32277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-08-31T18:12:55+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설기술인협회, AI 음성상담 ‘보이스봇’ 도입 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51580",
-    "description": "한국건설기술인협회는 110만 회원의 상담 편의 향상을 위한 AI음성상담시스템 ‘보이스봇’을 구축하고 31일부터 시범운영을 시작한다고 밝혔다.보이스봇은 상담원이 모두 통화 중일 때 걸려오는 전화를 대신 응대해 필요한 정보를 음성으로 안내하는 시스템으로, 문의가 집중되는 시간대의 회원 대기시간을 줄이는 등 회원의 편의 제고를 위해 도입됐다. 박종면 건설기술인협회 회장은 “응대율 92%는 회원 불편 해소를 최우선에 두고 추진한 혁신의 결실”이라며 “보이스봇 도입으로 기다림 없는 상담을 제공하고, 건설기술인 공제회 설립 추진과 함께 협회를",
-    "published_at": "2026-08-31T17:56:14+09:00",
-    "cluster_id": "2a3a",
-    "publisher": "기계설비신문",
-    "title_clean": "건설기술인협회, AI 음성상담 ‘보이스봇’ 도입",
-    "summary": "한국건설기술인협회가 110만 회원의 상담 편의 개선을 위해 AI 음성상담 시스템 '보이스봇'을 구축하고 31일부터 시범운영 시작. 응대율 92%로 상담 대기시간 단축 및 회원 편의 제고를 목표로 함.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T18:04:09+09:00",
-    "importance": 2
   }
 ]
