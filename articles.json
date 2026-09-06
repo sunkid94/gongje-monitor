@@ -4935,6 +4935,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 도곡우성 재건축 수주…도시정비 수주 4조원 돌파 - pointdaily.co.kr",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318178",
+    "description": "사진=롯데건설 롯데건설이 서울 강남구 도곡우성아파트 재건축사업의 시공권을 확보하며 올해 도시정비사업 누적 수주액 4조원을 넘어섰다. 롯데건설은 지난 5일 서울 강남구 대치중학교 강당에서 열린...",
+    "published_at": "2026-09-07T00:00:00+09:00",
+    "cluster_id": "e3b6",
+    "publisher": "pointdaily.co.kr",
+    "title_clean": "롯데건설, 도곡우성 재건축 수주…도시정비 수주 4조원 돌파",
+    "summary": "롯데건설이 서울 강남구 도곡우성아파트 재건축사업 시공권을 수주하며 올해 도시정비사업 누적 수주액이 4조원을 돌파했다. 재건축 시장에서의 수주 성과로 건설업계에 긍정적 신호를 전달하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T00:03:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20914,22 +20930,6 @@
     "publisher": "",
     "title_clean": "韓긴급구호대, 오늘 네팔로 출발...44명 규모 - m-economynews.com",
     "summary": "네팔 홍수로 인해 한국남동발전과 두산에너빌리티 소속 한국인 9명이 실종되어 긴급구호대 44명 규모가 현지로 출발. 어퍼트리슐리-1 수력발전소 건설 현장에서 근무 중이던 인원들의 안전 확보가 시급한 상황.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-01T10:14:23+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 수력발전소 터널서 시신 1구 수습... 한국인 신원 확인 중 - insight.co.kr",
-    "link": "https://www.insight.co.kr/news/571228",
-    "description": "사고가 발생한 어퍼트리슐리-1 발전소는 한국남동발전과 두산에너빌리티가 공동 추진하던 현장으로, 홍수 발생 당시 한국인 인력 9명이 근무하고 있었다. 구조대는 인근의 또 다른 현장인 칠리메 수력발전소 터널에서도...",
-    "published_at": "2026-09-01T10:06:00+09:00",
-    "cluster_id": "bd5b",
-    "publisher": "insight.co.kr",
-    "title_clean": "네팔 수력발전소 터널서 시신 1구 수습... 한국인 신원 확인 중",
-    "summary": "네팔에서 한국남동발전과 두산에너빌리티가 공동 추진 중인 어퍼트리슐리-1 수력발전소 터널에서 홍수로 인한 사고가 발생했으며, 현장에 있던 한국인 9명 중 1구의 시신이 수습되었다. 한국 건설기업의 해외 프로젝트에서 인명 피해가 발생하며 산업 이미지와 안전 관리 강화 필요성이 대두되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-01T10:14:23+09:00",
     "importance": 4
