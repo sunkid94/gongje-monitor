@@ -5070,40 +5070,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 업계 보증 부담 지원 맞춤형 대응 나선다 - econovill.com",
-    "link": "https://www.econovill.com/news/articleView.html?idxno=747397",
-    "description": "건설공제조합(이하 조합)은 오는 11일 시행되는'하도급거래 공정화에 관한 법률(이하 하도급법)'개정에 따른 조합원 부담 경감을 위해 보증한도 등을 완화하는 등 맞춤형 대응에 적극 나서기로 했다. 7일 조합에 따르면...",
-    "published_at": "2026-08-07T10:10:00+09:00",
-    "cluster_id": "8a5c",
-    "publisher": "econovill.com",
-    "title_clean": "건설공제조합, 업계 보증 부담 지원 맞춤형 대응 나선다",
-    "summary": "건설공제조합이 11일 시행되는 하도급법 개정에 대응하여 조합원의 보증한도 완화 등 맞춤형 지원책을 마련했다. 업계 부담 경감을 위한 사전 대응으로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-07T10:14:18+09:00",
-    "event_label": "건설공제조합 하도급법 개정 대응 보증한도 완화 지원",
-    "importance": 6
-  },
-  {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 하도급법 개정 맞춰 조합원 부담 경감 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260807_0003740046",
-    "description": "건설공제조합이 오는 11일 시행되는 개정 '하도급거래 공정화에 관한 법률(하도급법)'에 맞춰 조합원의 금융비용 부담을 완화하기 위한 맞춤형 지원대책을 마련했다고 7일 밝혔다. 지난 2월 공포된 개정 하도급법에 따르면...",
-    "published_at": "2026-08-07T09:56:00+09:00",
-    "cluster_id": "71e6",
-    "publisher": "newsis.com",
-    "title_clean": "건설공제조합, 하도급법 개정 맞춰 조합원 부담 경감",
-    "summary": "건설공제조합이 11일 시행되는 개정 하도급법에 대응하여 조합원의 금융비용 부담을 경감하는 맞춤형 지원대책을 마련했다. 이는 법 개정으로 인한 조합원의 경제적 어려움을 완화하기 위한 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-07T10:09:51+09:00",
-    "event_label": "건설공제조합 개정 하도급법 대응 조합원 지원대책 마련",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21101,6 +21067,22 @@
     "summary": "IPARK현대산업개발이 의정부시 장암2구역 재개발정비사업을 9,000억원 규모로 수주했다. 이는 건설업계의 대형 프로젝트 수주로 긍정적 신호를 나타낸다.",
     "sentiment": "positive",
     "collected_at": "2026-08-31T23:14:09+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "“PMDC 표준모델 공동개발”…GS건설, 모듈러로 AI데이터센터 공기 단축 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PS0pSdVJsWVJLR1hIelBQeFE4SThmT1JWeThpWlZQV1Z1d3U3UVhudURWYkNiWkw1LXZlNnRwVVZTcXlhS1djVUk0c01PZGRaenREZHJwR0k?oc=5",
+    "description": "LG유플러스 등 5개사 협력 하이퍼스케일 PMDC 표준모델 공동개발 설계·시공·운영 등 전문역량 결집 AI데이터센터 벨류체인 확대 데이터센터 수행 경쟁력 제고",
+    "published_at": "2026-09-06T10:14:02+09:00",
+    "cluster_id": "cd36",
+    "publisher": "매일경제",
+    "title_clean": "“PMDC 표준모델 공동개발”…GS건설, 모듈러로 AI데이터센터 공기 단축",
+    "summary": "GS건설이 LG유플러스 등 5개사와 협력하여 모듈러 방식의 하이퍼스케일 PMDC(Private Multi-tenant Data Center) 표준모델을 공동개발한다. 설계·시공·운영 전문역량을 결집하여 AI데이터센터 공사 기간을 단축하고 벨류체인을 확대함으로써 건설사의 데이터센터 수행 경쟁력을 강화한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-06T10:23:02+09:00",
     "importance": 2
   },
   {
