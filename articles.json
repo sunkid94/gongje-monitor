@@ -20986,6 +20986,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[산업소식] 현대차 정몽구 재단 라오스 인재 육성 나선다…국립대생 60명 지원 - 포쓰저널",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XUG4yLWRHS042R1V2b0ViSlNDVmdvRjNIQnR0ZWMtYzlhR3JoakNLNEhiSkxnV0d5UklDV2NWTHM1SFJjYjFRWjR5WmlVckgyZmctTUpoTFZQcVNYMmtiaXE1R1M?oc=5",
+    "description": "현대차 정몽구 재단 라오스 인재 육성 나선다…국립대생 60명 지원현대차 정몽구 재단이 라오스에서 해외 현지 교육 지원 사업의 첫발을 뗐다. 그동안 아세안 국가 우수 인재의 한국 유학을 지원해온 데 이어 라오스 현지 대학생들이 자국에서 학업을 이어갈 수 있도록 지원 범위를 넓힌다.현대차 정몽구 재단은 ‘라오스 현지 교육 지원 사업’을 새롭게 시작하고 4일 라오스 국립대학교에서 첫 장학생 60명을 대상으로 장학증서 수여식을 개최했다고 7일 밝혔다.첫 장학생으로 선발된 60명은 모두 라오스 국립대학교 학부생으로, 우수한 학업 성적을 거두",
+    "published_at": "2026-09-07T11:14:14+09:00",
+    "cluster_id": "5f71",
+    "publisher": "포쓰저널",
+    "title_clean": "[산업소식] 현대차 정몽구 재단 라오스 인재 육성 나선다…국립대생 60명 지원",
+    "summary": "현대차 정몽구 재단이 라오스에서 현지 교육 지원 사업을 시작하여 라오스 국립대학교 학부생 60명을 대상으로 장학금을 지원한다. 기존의 아세안 국가 우수 인재의 한국 유학 지원에서 나아가 현지 교육 지원으로 범위를 확대하는 것이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-08T05:40:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32263,22 +32279,6 @@
     "summary": "AI 데이터센터 건설 수요가 급증함에 따라 건설연이 모듈러·표준화 기술 R&D를 추진하고 있다. 이는 건설업계의 새로운 시장 기회이자 기술 고도화를 통한 경쟁력 강화 방향을 제시한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-02T11:09:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "“수요 급증, AI 데이터센터”…‘K-모듈러’로 건설기간 확 줄인다 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Tclh0SnlmRDlQbm9Gbm1JdkZ1RTc1T1NISzlkTG13RUt5Uk1jWkFhZzRsMnQ5blpmbDRpTDl4bFlRSDhmem9JV19FMEpjMkxPYUVRMg?oc=5",
-    "description": "[헤럴드경제=구본혁 기자] AI 데이터센터(AIDC)의 급격한 수요 대응을 위해 공장에서 주요 구조물과 설비를 미리 제작해 현장에서 조립하는 ‘K-모듈러’ 기술이 해법으로 제시됐다. 한국건설기술연구원(KICT)은 지난달 31일 국회도서관에서 ‘AI시대의 데이터센터 건설산업 육성과 공급전략’ 세미나를 열고 AI 데이터센터의 신속한 공급을 위한 기술·제도",
-    "published_at": "2026-09-01T13:50:38+09:00",
-    "cluster_id": "ae45",
-    "publisher": "v.daum.net",
-    "title_clean": "“수요 급증, AI 데이터센터”…‘K-모듈러’로 건설기간 확 줄인다",
-    "summary": "AI 데이터센터 수요 급증에 대응하기 위해 'K-모듈러' 기술이 해결책으로 제시되었다. 공장에서 주요 구조물과 설비를 사전 제작 후 현장 조립으로 건설기간을 단축할 수 있는 기술로, 한국건설기술연구원이 세미나를 통해 관련 전략을 공개했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-02T11:04:16+09:00",
     "importance": 2
   }
 ]
