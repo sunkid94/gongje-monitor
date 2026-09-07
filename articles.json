@@ -20969,6 +20969,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "농어촌공사, 전국 건설현장 감시망 짠다…‘안전 순찰차’ 9대로 확대 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PQ2ZTSFhzMVpjbm1Da2N0TlZaZkR1R3pKWkRHRENEcWpJenBOS3JNYURwSUl2aU5YMlNNUDJadDdjaTktQnB0OExhUG9ld0x1RnJFU0dacDRXYjdhTlZrYURiWUFHb2htTUViX1Nmb3N4emN5aXfSAWZBVV95cUxOdU96aGFIM0ZpX0cxblRocHdMbU13NGQ5amM2YjFGMVRxaXJydzJDdzVFakwzeUJTWnR4dG1DVzBuN2N0WUREQVNpY0ZDR1FPcHhiMXJ2TTFLYlpFUWhzd2dFTEtHUnc?oc=5",
+    "description": "한국농어촌공사가 시공 현장의 실질적인 안전 감시 기능을 대폭 강화하기 위해 ‘KRC 안전 순찰차’를 전국 거점으로 확산 배치한다. 공사는 7일 기존 본사 중심의 점검 체계를 8개 지역본부로 확충해 본격적인 운용에 들어간다고 발표했다.해당 순찰차는 사전 통보 없이 공사…",
+    "published_at": "2026-09-07T17:05:03+09:00",
+    "cluster_id": "06c8",
+    "publisher": "동아일보",
+    "title_clean": "농어촌공사, 전국 건설현장 감시망 짠다…‘안전 순찰차’ 9대로 확대",
+    "summary": "한국농어촌공사가 시공 현장의 안전 감시를 강화하기 위해 'KRC 안전 순찰차'를 기존 본사 중심에서 8개 지역본부로 확대 배치한다. 사전 통보 없는 현장 점검을 통해 건설 안전 관리를 강화하는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T17:15:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32262,22 +32278,6 @@
     "summary": "미국의 7월 건설지출이 전월 대비 0.5% 감소했으며, 특히 주택 건설 부진과 제조업 건설투자가 전년 대비 20% 이상 감소하면서 건설경기의 약세가 지속되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-02T00:04:23+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "美 7월 구인 727만건 '제자리걸음'…노동시장 냉각 지속 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=06500966645575856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "지난해 7월 21일(현지시간) 미국 캘리포니아주 엔시니타스에서 한 건설 노동자가 셰아홈스(Shea Homes)의 공동주택 건설 현장에서 작업하고 있다. (사진=로이터) 미 노동부 노동통계국(BLS)은 1일(현지시간) 공개한 구인...",
-    "published_at": "2026-09-01T23:30:00+09:00",
-    "cluster_id": "3cf1",
-    "publisher": "edaily.co.kr",
-    "title_clean": "美 7월 구인 727만건 '제자리걸음'…노동시장 냉각 지속",
-    "summary": "미국 7월 구인 건수가 727만 건으로 전월 대비 정체 상태를 보이며 노동시장 냉각이 지속되고 있다. 이는 건설업 인력 수요 감소로 이어져 건설업계에 부정적 신호를 전달하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-01T23:44:19+09:00",
     "importance": 4
   }
 ]
