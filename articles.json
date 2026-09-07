@@ -20952,6 +20952,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설현장 추락사고 예방 공모전 개최 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37244",
+    "description": "국토교통부와 고용노동부가 건설현장의 안전의식을 확산하고 사고 예방 아이디어를 발굴하기 위해 '건설 추락사고 예방 콘텐츠 공모전'을 공동 개최한다고 밝혔다.이번 행사는 국토안전관리원, 한국산업안전보건공단, 한국건설기술인협회, 건설근로자공제회가 공동 주관한다. 공모전은 건설현장 추락사고 예방에 관심이 있는 국민이라면 누구나 개인이나 팀(최대 3인), 단체 형태로 참여할 수 있다. 공모 분야는 홍보영상(숏폼)과 정책제안·우수사례 등 2개 부문으로 나뉜다. 홍보영상 부문은 추락사고 예방 수칙과 위험요소 경고 등을 담은 3분 이내의 영상을",
+    "published_at": "2026-09-07T09:07:00+09:00",
+    "cluster_id": "cc2f",
+    "publisher": "한국건설신문",
+    "title_clean": "건설현장 추락사고 예방 공모전 개최",
+    "summary": "국토교통부와 고용노동부가 건설현장 추락사고 예방을 위한 콘텐츠 공모전을 개최한다. 홍보영상과 정책제안 부문으로 나뉘며, 일반 국민 누구나 개인·팀·단체로 참여할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T12:02:05+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32262,21 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-01T13:14:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건정硏, 10월 1일 개원 20주년 기념식·세미나 개최 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418738",
-    "description": "이어지는 세미나에서는 박선구 경제금융연구실장이 '건설시장 변화에 따른 전문건설업의 혁신전략'을, 김태준 신성장전략연구실장이 'AI·스마트건설이 바꾸는 전문건설업의 미래'를 주제로 각각 발표한다. 종합토론은...",
-    "published_at": "2026-09-01T13:02:00+09:00",
-    "cluster_id": "429b",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "건정硏, 10월 1일 개원 20주년 기념식·세미나 개최",
-    "summary": "건설정책연구원이 개원 20주년을 맞아 기념식과 세미나를 개최한다. 전문건설업의 혁신전략과 AI·스마트건설의 미래 등을 주제로 발표하며 업계의 미래 방향을 모색한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-01T13:14:34+09:00",
-    "importance": 2
   }
 ]
