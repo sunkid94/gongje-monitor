@@ -20969,6 +20969,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경상남도의회 정쌍학 의원, 지역건설업체 참여 확대 조례안 상임위 통과 - koreasisailbo.com",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92VWlrZzBubnVXN0hrWFpVZ1ZKeWE1bVlTVkZxMHhnTFpQUzZ3blBIYXVJNmthak1GY0lpMzl2VHR2XzY3bDkzRXh5amg?oc=5",
+    "description": "정쌍학 의원 [시사일보=김호태 기자] 정쌍학(국민의힘, 창원 10) 도의원이 대표발의한",
+    "published_at": "2026-09-07T14:52:00+09:00",
+    "cluster_id": "cf24",
+    "publisher": "koreasisailbo.com",
+    "title_clean": "경상남도의회 정쌍학 의원, 지역건설업체 참여 확대 조례안 상임위 통과",
+    "summary": "경상남도의회 정쌍학 의원이 지역건설업체의 참여 기회를 확대하는 조례안을 상임위를 통과시켰다. 이는 지역 건설업계에 수주 기회 증대와 시장 진출 확대를 의미하는 호재다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T19:45:12+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울시의회 이영실 의원, '서소문고가 사고' 위험징후에 안전 대응체계 제대로 작동했나 - newszoom.kr",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WVDMwNC0xenp1VG9yU2VSSXRsUXJ4ZlhlNm5KdWhKSjRYUGIwbksxZkpNSFZuN1pEVGg1X2dVY2xBVGZB?oc=5",
+    "description": "서울시의회 이영실 의원 [뉴스줌=정진태기자] 서소문고가 철거공사 사고와 관련한 수사가 진행 중인 가운데, 사고 원인과 책임 소재와는 별개로 위험징",
+    "published_at": "2026-09-07T10:18:00+09:00",
+    "cluster_id": "2475",
+    "publisher": "newszoom.kr",
+    "title_clean": "서울시의회 이영실 의원, '서소문고가 사고' 위험징후에 안전 대응체계 제대로 작동했나",
+    "summary": "서울시의회 이영실 의원이 서소문고가 철거공사 사고와 관련하여 안전 대응체계의 작동 여부를 점검하고 있습니다. 건설 현장 안전 문제에 대한 감시와 규제 강화 논의가 진행 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T19:45:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32247,37 +32279,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-02T10:12:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "동부건설, 무인드론·AI 활용… 건설현장 안전관리 고도화 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=339945",
-    "description": "동부건설이 무인 자동화 드론과 AI 기술을 활용해 건설현장 안전관리의 디지털 전환에 속도를 낸다. 드론을 통해 사각지대까지 점검하고, 축적된 데이터를 기반으로 위험요소를 사전에 파악하는 스마트 안전관리 체계를...",
-    "published_at": "2026-09-02T09:58:00+09:00",
-    "cluster_id": "49a2",
-    "publisher": "국토일보",
-    "title_clean": "동부건설, 무인드론·AI 활용… 건설현장 안전관리 고도화",
-    "summary": "동부건설이 무인드론과 AI 기술을 활용하여 건설현장 안전관리를 디지털화하고 있다. 드론을 통한 사각지대 점검과 데이터 기반 위험요소 사전파악으로 스마트 안전관리 체계를 구축 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-02T10:12:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "동부건설, 현장 무인 드론·AI로 건설현장 안전관리 고도화 - viva100.com",
-    "link": "https://www.viva100.com/article/20260902500325",
-    "description": "축적된 현장 데이터는 3차원 시각화 과정을 거쳐 공정회의 시 협력업체 간 작업 간섭 여부와 위험요소를 사전 점검하고 안전수칙 교육 자료로 활용된다. 동부건설은 향후 드론이 촬영한 현장 정사사진을 AI 기반...",
-    "published_at": "2026-09-02T09:56:00+09:00",
-    "cluster_id": "38c8",
-    "publisher": "viva100.com",
-    "title_clean": "동부건설, 현장 무인 드론·AI로 건설현장 안전관리 고도화",
-    "summary": "동부건설이 드론과 AI 기술을 활용하여 건설현장 안전관리를 고도화하고 있다. 현장 데이터를 3D 시각화하여 작업 간섭과 위험요소를 사전에 점검하고 안전교육에 활용함으로써 산업재해 예방에 기여하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-02T10:12:26+09:00",
-    "importance": 2
   }
 ]
