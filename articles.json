@@ -20986,6 +20986,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천시, 지역건설산업 활성화 상생협약 - 경기도민일보 미디어",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ST0JmelFCaEo4endIRWJDaGlFeWN0cjdzMEg3SlVxMWlXZVlycTJuLU9iSmE3NWxNQzl5emlHNElaVlZoblRlb2Y0Uk80azM5bXhUOVI3UFJXYTRGNXE1V2R1d1pOelEybGc?oc=5",
+    "description": "[경기도민일보미디어 박은구 기자] 인천광역시가 7일 시청 대접견실에서 ㈜포스코이앤씨, 대한전문건설협회 인천광역시회와 함께 ‘인천대로 일반화(2단계) 도로개량 및",
+    "published_at": "2026-09-07T17:08:47+09:00",
+    "cluster_id": "c71a",
+    "publisher": "경기도민일보 미디어",
+    "title_clean": "인천시, 지역건설산업 활성화 상생협약",
+    "summary": "인천시가 포스코이앤씨, 대한전문건설협회 인천광역시회와 인천대로 도로개량 사업에 대한 상생협약을 체결했다. 지역건설산업 활성화를 위한 공동협력 방안을 모색하는 협약으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-08T00:15:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32264,21 +32280,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-02T10:59:42+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "포스코의 두 얼굴, 3050억 골프장은 '비즈니스 무대'…송도 주민은 구경... - the-today.com",
-    "link": "https://www.the-today.com/news/articleView.html?idxno=89316",
-    "description": "포스코그룹은 철강과 친환경 소재, 수소, 이차전지, 스마트건설 등 본업 경쟁력을 강화해야 하는 중대한 전환기에 놓여 있다. 본업과 연관성이 낮은 특권적 레저 자산을 계속 보유할 필요가 있는지, 보유한다면...",
-    "published_at": "2026-09-02T10:54:00+09:00",
-    "cluster_id": "f102",
-    "publisher": "",
-    "title_clean": "포스코의 두 얼굴, 3050억 골프장은 '비즈니스 무대'…송도 주민은 구경... - the-today.com",
-    "summary": "포스코그룹이 본업 경쟁력 강화 전환기에 있는 가운데, 3050억 규모의 골프장 등 본업 연관성 낮은 레저 자산 보유의 적절성을 문제 제기. 특권적 자산의 보유 필요성과 투명한 운영에 대한 비판적 검토.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-02T10:59:42+09:00",
-    "importance": 2
   }
 ]
