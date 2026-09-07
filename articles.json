@@ -4952,6 +4952,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘美 데이터센터 수주’ 두산퓨얼셀 “2027년 흑자 전환 전망” - 주간동아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWxOVHZMSDljeGsydjczaE5PcDlqRWJTaHNnbmQzcU5TVU82ODk1N1Y1d1FIc2w0UUxUMW9XNUJRY1g3WkFDM2RfLVVYRHBOV0RReFk5RlZHX2dLQU1pU0ZySHNRRXRWTllXSFRn?oc=5",
+    "description": "두산퓨얼셀이 미국 데이터센터용 연료전지 공급 계약을 따내며 본격적인 실적 개선 구간에 진입했다는 평가가 나왔다.",
+    "published_at": "2026-09-07T11:51:12+09:00",
+    "cluster_id": "370f",
+    "publisher": "주간동아",
+    "title_clean": "‘美 데이터센터 수주’ 두산퓨얼셀 “2027년 흑자 전환 전망”",
+    "summary": "두산퓨얼셀이 미국 데이터센터용 연료전지 공급 계약을 체결하며 실적 개선 구간에 진입했다. 2027년 흑자 전환을 전망하고 있어 기계설비 건설 부문의 수주 확대로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T11:59:17+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20936,20 +20952,20 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 1.1조 목동8단지 수주전…덴마크 설계사와 협업 - kgnews.co.kr",
-    "link": "https://www.kgnews.co.kr/news/article.html?no=909742",
-    "description": "목동8단지 현장 함께 둘러보며 랜드마크 설계 방향 논의 구조는 ARUP(아룹), 조경 슈퍼매스스튜디오, 외관설계는 어반에이전시까지 글로벌 콜라보레이션 돋보여 대우건설이 서울 양천구 목동8단지 재건축사업 외관...",
-    "published_at": "2026-09-01T16:46:00+09:00",
-    "cluster_id": "62fc",
-    "publisher": "kgnews.co.kr",
-    "title_clean": "대우건설, 1.1조 목동8단지 수주전…덴마크 설계사와 협업",
-    "summary": "대우건설이 1.1조 규모의 서울 양천구 목동8단지 재건축사업 수주를 추진 중이며, 덴마크 설계사 등 글로벌 설계팀과 협업하여 랜드마크급 건축물을 기획하고 있다. ARUP, 슈퍼매스스튜디오, 어반에이전시 등 국제적 전문가들이 구조, 조경, 외관설계에 참여한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-01T17:05:54+09:00",
-    "importance": 2
+    "title": "“안전은 단단하게, 임금은 제때” 경남도, 추석 명절 건설현장 집중 점검 - naewoeilbo.com",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SbXdLOWFsMElOcTFTcng4cmR1Z0oxV3dXZlVoc3IyVERBdFNYMzhYQndURTlHX0FGaE1CbzB3RGNXSGhMeGtWVDIxMVE4RXotLXhreEUwZk95OE5pN3Y2RUxFYVg3dFBRVVhUM09nSQ?oc=5",
+    "description": "[내외일보 = 경남] 주영서 기자 = 경남도는 추석 명절을 앞두고 건설 현장 안전사고 예방과 공사대금 체불을 방지하기 위해 민간 안전·건설 분야 전문가가 함께 9",
+    "published_at": "2026-09-07T11:45:36+09:00",
+    "cluster_id": "5519",
+    "publisher": "naewoeilbo.com",
+    "title_clean": "“안전은 단단하게, 임금은 제때” 경남도, 추석 명절 건설현장 집중 점검",
+    "summary": "경남도가 추석 명절을 앞두고 건설현장 안전사고 예방과 공사대금 체불 방지를 위해 민간 전문가와 함께 집중 점검을 실시한다. 건설 현장의 안전 관리 강화 및 근로자 권익 보호에 나서는 행정 조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T11:59:17+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 신기술",
@@ -32262,21 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-01T13:05:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한국부동산원, 경기도 공무원 대상 'K-apt 활용 교육' 진행 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37200",
-    "description": "한국부동산원은 지난 8월 27일 경기도 인재개발원에서 경기도 시·군 공동주택관리 감사담당 공무원을 대상으로 '공동주택관리정보시스템(K-apt) 활용 교육'을 실시했다고 1일 밝혔다.이번 교육은 감사담당 공무원의 직무 역량을 높이고, K-apt에 축적된 관리정보를 지자체의 관리·감독 업무에 효과적으로 활용할 수 있도록 돕기 위해 마련됐다. 한국부동산원은 2015년부터 국토교통부의 위탁을 받아 K-apt를 운영하며 관리비 등 관련 정보를 수집·공개해 오고 있다.교육에서는 단지정보, 관리비, 유지관리이력, 입찰정보, 외부회계감사 결과 등",
-    "published_at": "2026-09-01T12:52:36+09:00",
-    "cluster_id": "d4a1",
-    "publisher": "한국건설신문",
-    "title_clean": "한국부동산원, 경기도 공무원 대상 'K-apt 활용 교육' 진행",
-    "summary": "한국부동산원이 경기도 공무원을 대상으로 공동주택관리정보시스템(K-apt) 활용 교육을 실시했다. 지자체의 관리감독 업무 효율성을 높이고 감사 역량을 강화하기 위한 취지의 교육이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-01T13:05:34+09:00",
-    "importance": 2
   }
 ]
