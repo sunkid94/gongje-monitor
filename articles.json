@@ -4935,6 +4935,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 공사비 4002억 규모…‘도곡우성아파트 재건축’ 수주 - 시사캐스트",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MNmdZQkMtTXBMRFRYcjd1d1Frc0lFNVlZSFBobk1kT1FBeWlBbTAzemtCaUJmZ1lyVlBPQlhUbkdtQVIyMmVMelhPVHRkYWMxaGUzbV9fZnNjSHZfZ28yczNMSUlFX3c?oc=5",
+    "description": "(시사캐스트, SISACAST=황최현주 기자) 롯데건설은 공사비 총 4002억원 규모의 ‘도곡우성아파트 재건축’ 수주를 통해 올해 도시정비사업 누적 수주액 4조원을 돌파했다고 7일 밝혔다. 롯데건설은 지난 5일 서울 강남구 대치중학교 강당에서 열린 ‘도곡우성아파트 재건축정비사업’ 조합원 총회에서 시공사로 선정됐다. 이 과정에서 하이엔드 브랜드 ‘르엘’을 적용한 ‘도곡 르엘’ 단지명을 제안했다. 이번 사업은 서울시 강남구 도곡우성아파트를 재건축해 지하 6층~지상 26층, 4개동 규모이다. 롯데건설 관계자는 “그동안 축적해 온 시공 역",
+    "published_at": "2026-09-07T10:54:39+09:00",
+    "cluster_id": "618b",
+    "publisher": "시사캐스트",
+    "title_clean": "롯데건설, 공사비 4002억 규모…‘도곡우성아파트 재건축’ 수주",
+    "summary": "롯데건설이 도곡우성아파트 재건축 공사비 4002억원 규모를 수주하며 올해 도시정비사업 누적 수주액 4조원을 돌파했다. 서울 강남구 소재 이 사업은 지하 6층~지상 26층, 4개동 규모로 진행될 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T10:59:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20915,22 +20931,6 @@
     "title_clean": "남부발전, 석탄분야 중소기업 사업전환 지원 박차",
     "summary": "남부발전이 석탄분야 중소기업의 사업전환을 지원하기 위해 교육 및 현장견학을 실시하고 있다. 에너지전환 시대에 참여기업들이 발전산업의 기술 변화를 체험하고 제품 및 사업전환을 추진할 수 있도록 돕는 사업이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-01T16:05:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"목동8단지 독창적 외관 디자인 구현\" - econovill.com",
-    "link": "https://www.econovill.com/news/articleView.html?idxno=749536",
-    "description": "대우건설이 목동8단지를 목동의 가치와 미래를 담아낼 상징적 스카이라인 및 하이엔드 주거공간으로 구현할 것임을 다짐했다. 대우건설은 덴마크 어반 에이전시(Urban Agency)와 손잡고 목동8단지 재건축사업의 랜드마크...",
-    "published_at": "2026-09-01T15:50:00+09:00",
-    "cluster_id": "a183",
-    "publisher": "econovill.com",
-    "title_clean": "대우건설 \"목동8단지 독창적 외관 디자인 구현\"",
-    "summary": "대우건설이 덴마크 설계사와 협력하여 목동8단지 재건축사업을 상징적 스카이라인과 하이엔드 주거공간으로 구현할 계획이다. 독창적 외관 디자인으로 목동의 가치와 미래상을 담아낸 랜드마크 개발을 추진 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-01T16:05:20+09:00",
     "importance": 2
   },
