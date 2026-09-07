@@ -4935,6 +4935,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설 '르엘' 앞세워 도시정비 질주, 오일근 '목동'서 사상 최대 수주 노려 - 비즈니스포스트",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YeS1hUlhIaGIya2pKSGQ5alJVT1lLQUtEbnhLQ1k0RVM2c1dWWTBrSzd4WGNQaUNSMWxDYm1ZbWxoSUh6emlpc3NubDYwRUxyTEg0Y2ZnZUVVa2x1RFhNNm9lSGNCRXVWY2w4d1BnQQ?oc=5",
+    "description": "롯데건설 '르엘' 앞세워 도시정비 질주, 오일근 '목동'서 사상 최대 수주 노려",
+    "published_at": "2026-09-07T15:51:17+09:00",
+    "cluster_id": "9447",
+    "publisher": "비즈니스포스트",
+    "title_clean": "롯데건설 '르엘' 앞세워 도시정비 질주, 오일근 '목동'서 사상 최대 수주 노려",
+    "summary": "롯데건설이 '르엘' 브랜드를 통해 도시정비사업을 추진하며 목동에서 사상 최대 규모의 수주를 노리고 있다. 오일근 회장 체제에서 도시정비 사업 확대로 수주 기회를 창출하는 공세적 영업전략을 펼치고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T16:50:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20914,22 +20930,6 @@
     "publisher": "pressman.kr",
     "title_clean": "AI 데이터센터 늘자 전력 확보전… 발전부터 케이블까지 뜬다",
     "summary": "두산퓨얼셀이 미국 AI 데이터센터 전력 시장에 진출하며 5,014억 원 규모의 연료전지 공급계약을 체결했다. AI 인프라 확대에 따른 전력 수요 증가로 발전·케이블 등 관련 산업의 성장 기회가 확대되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-02T10:29:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산퓨얼셀, 5014억 규모 AIDC용 연료전지 수주 - sidae.com",
-    "link": "https://www.sidae.com/article/2026090209143752418",
-    "description": "두산퓨얼셀이 북미 전력시장 첫발을 떼며 현지 공략에 속도를 내고 있다. 두산퓨얼셀→두산 자회사 하이엑시엄→미국 AI 데이터센터로 이어지는 연료전지 공급망을 통해 현지 전력 수요에 적극 대응하겠다는 구상이다....",
-    "published_at": "2026-09-02T10:07:00+09:00",
-    "cluster_id": "1681",
-    "publisher": "sidae.com",
-    "title_clean": "두산퓨얼셀, 5014억 규모 AIDC용 연료전지 수주",
-    "summary": "두산퓨얼셀이 5014억 규모의 AI 데이터센터용 연료전지를 북미에서 수주하며 해외 시장 진출을 확대하고 있다. 자회사 하이엑시엄을 통해 미국 현지 전력 수요에 대응하는 공급망을 구축했다.",
     "sentiment": "positive",
     "collected_at": "2026-09-02T10:29:55+09:00",
     "importance": 2
