@@ -4986,6 +4986,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[애널리스트의 마켓뷰]한국의 원전 및 가스발전산업… 성장 내러티브의... - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20260907/134621967/2",
+    "description": "한전기술은 원전 설계에서, 두산에너빌리티는 원전 및 가스 발전 주 기기 제작과 본공사(EPC) 참여에서 중장기 성장성이 재부각될 것으로 예상된다. 한전KPS도 한국전력 발전 자회사의 원전·LNG 발전 정비 분야에서...",
+    "published_at": "2026-09-08T00:31:00+09:00",
+    "cluster_id": "97db",
+    "publisher": "donga.com",
+    "title_clean": "[애널리스트의 마켓뷰]한국의 원전 및 가스발전산업… 성장 내러티브의...",
+    "summary": "한전기술, 두산에너빌리티, 한전KPS 등 원전 및 가스발전 관련 기업들의 중장기 성장성이 재부각되고 있다. 원전 설계, 주기기 제작, EPC 참여, 정비 분야 등에서 사업 확대가 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-08T00:40:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20968,22 +20984,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-02T11:59:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "SNT에너지 하동LNG복합발전소 HRSG 1282억 수주 - mt.co.kr",
-    "link": "https://www.mt.co.kr/policy/2026/09/02/2026090211403611925",
-    "description": "SNT에너지는 두산에너빌리티와 공동수급체를 구성해 분담이행방식으로 사업을 수행하며 LNG복합화력발전소의 핵심설비인 HRSG 공급을 담당한다. 계약기간은 이달부터 2029년 12월까지이며 이번 계약금액은...",
-    "published_at": "2026-09-02T11:47:00+09:00",
-    "cluster_id": "274e",
-    "publisher": "mt.co.kr",
-    "title_clean": "SNT에너지 하동LNG복합발전소 HRSG 1282억 수주",
-    "summary": "SNT에너지가 두산에너빌리티와 공동수급체를 구성해 하동LNG복합발전소의 핵심설비인 HRSG 1282억 원 규모 수주를 확보했다. 2029년 12월까지 약 5년간 진행되는 사업으로 기계설비건설 부문의 대규모 수주 실적을 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-02T11:59:11+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
