@@ -20986,6 +20986,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이숙자 서울시의원, 서울시 건설현장 안전과 주민 생활권 보호까지 선제적 대책마련 촉구 - 더뉴스코리아",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0ycVNZQTI2YWp4cWVMUDExRC1mcy1pVGFRaXM5SEN2WUU5Y3dxVnVlTEpzdkxzbVNFRmpSZlk5bm0tZEF5WEt6OE1B?oc=5",
+    "description": "이숙자 의원 회의장 [더뉴스코리아=김창구 기자] 서울특별시의회 이숙자 의원(국민의힘·서초2)은 지난 4일 제339회 임시회 도시안전건설위원회에서 건",
+    "published_at": "2026-09-07T22:10:00+09:00",
+    "cluster_id": "f890",
+    "publisher": "더뉴스코리아",
+    "title_clean": "이숙자 서울시의원, 서울시 건설현장 안전과 주민 생활권 보호까지 선제적 대책마련 촉구",
+    "summary": "이숙자 서울시의원이 서울시 건설현장의 안전 강화와 주민 생활권 보호를 위한 선제적 대책 마련을 촉구했습니다. 도시안전건설위원회에서 건설현장 관련 안전 이슈에 대해 논의한 것으로 보입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T23:00:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32264,21 +32280,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-02T10:50:01+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "무인 드론이 동부건설 현장 점검한다 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202609021010047753",
-    "description": "이를 현장에 직접 적용, 건설현장 안전관리 디지털 전환에도 속도를 낸다는 계획이다.동부건설은 스마트 안전관리 기능을 오뚜기물류서비스 백암물류센터 신축공사 현장과 진해신항 준설토투기장 3-1공구, 남양주 왕숙 A...",
-    "published_at": "2026-09-02T10:32:00+09:00",
-    "cluster_id": "577c",
-    "publisher": "fnnews.com",
-    "title_clean": "무인 드론이 동부건설 현장 점검한다",
-    "summary": "동부건설이 무인 드론을 활용한 스마트 안전관리 시스템을 건설현장에 적용하고 있다. 오뚜기물류서비스 센터, 진해신항 준설토투기장 등 여러 현장에서 디지털 기반의 안전관리 체계를 도입 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-02T10:50:01+09:00",
-    "importance": 2
   }
 ]
