@@ -4986,6 +4986,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[민주 부동산] IPARK현대산업개발·GS건설·롯데건설 - iminju.net",
+    "link": "http://www.iminju.net/news/articleView.html?idxno=169168",
+    "description": "롯데건설이 서울 강남구 도곡우성아파트 재건축사업을 수주하며 올해 도시정비사업 누적 수주액 4조 원을 넘어섰다. 롯데건설은 지난 5일 열린 도곡우성아파트 재건축정비사업 조합원 총회에서 시공사로 선정됐다....",
+    "published_at": "2026-09-07T17:14:00+09:00",
+    "cluster_id": "1211",
+    "publisher": "iminju.net",
+    "title_clean": "[민주 부동산] IPARK현대산업개발·GS건설·롯데건설",
+    "summary": "롯데건설이 서울 강남구 도곡우성아파트 재건축사업을 수주하며 올해 도시정비사업 누적 수주액 4조 원을 돌파했다. 건설사들의 재건축 프로젝트 수주 경쟁이 활발히 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T22:10:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20965,22 +20981,6 @@
     "publisher": "mt.co.kr",
     "title_clean": "SNT에너지 하동LNG복합발전소 HRSG 1282억 수주",
     "summary": "SNT에너지가 두산에너빌리티와 공동수급체를 구성해 하동LNG복합발전소의 핵심설비인 HRSG 1282억 원 규모 수주를 확보했다. 2029년 12월까지 약 5년간 진행되는 사업으로 기계설비건설 부문의 대규모 수주 실적을 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-02T11:59:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산퓨얼셀, 美 AI 데이터센터 전력 시장 진출…5014억 공급 계약 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2360949.htm",
-    "description": "하이엑시엄과 인산형 연료전지 공급 계약 체결 올해 하반기부터 2028년 상반기까지 순차 납품 두산퓨얼셀이 5014억원 규모 공급 계약을 맺으며 미국 인공지능(AI) 데이터센터 전력 시장에 진출한다. 두산퓨얼셀은 ㈜두산의...",
-    "published_at": "2026-09-02T11:46:00+09:00",
-    "cluster_id": "1228",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "두산퓨얼셀, 美 AI 데이터센터 전력 시장 진출…5014억 공급 계약",
-    "summary": "두산퓨얼셀이 미국 하이엑시엄과 인산형 연료전지 5014억원 공급 계약을 체결하며 AI 데이터센터 전력 시장에 진출했다. 2024년 하반기부터 2028년 상반기까지 순차 납품할 예정이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-02T11:59:11+09:00",
     "importance": 2
