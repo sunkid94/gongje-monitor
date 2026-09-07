@@ -4952,6 +4952,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설업계, 재건축 수주·AI 데이터센터 구축·공공택지 분양 속도 - 뉴스티앤티",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WaVVNYVFsR2JWdTBsY1VvSWlwZTNJX1dMQUJrRHdKNW40Q29KcTgtU3JJam50Qnk0ZXJZNGVubHZEekxFN0s2T01iQ2QzWjBkTGs5emZKVDVMSWZ5d1YzQXNyZDdTa0llc3c?oc=5",
+    "description": "국내 주요 건설사들이 주요 정비사업 수주와 차세대 신사업 추진, 분양 시장 공략에 일제히 속도를 내고 있다.롯데건설은 지난 5일 개최된 '도곡우성아파트 재건축정비",
+    "published_at": "2026-09-07T13:09:37+09:00",
+    "cluster_id": "2c78",
+    "publisher": "뉴스티앤티",
+    "title_clean": "건설업계, 재건축 수주·AI 데이터센터 구축·공공택지 분양 속도",
+    "summary": "국내 주요 건설사들이 재건축 수주, AI 데이터센터 구축, 공공택지 분양 등 다양한 사업에 속도를 내고 있다. 롯데건설이 도곡우성아파트 재건축정비사업 수주를 추진하는 등 정비사업과 신규 사업 확보에 나서고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T13:15:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20936,19 +20952,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "대우건설, 덴마크 어반 에이전시와 '목동8단지 재건축사업' 랜드마크 외... - sisacast.kr",
-    "link": "http://www.sisacast.kr/news/articleView.html?idxno=99472",
-    "description": "사진=대우건설  대우건설은 '목동8단지 재건축사업'의 랜드마크 외관 설계를 덴마크 도시건축 디자인 그룹 어반 에이전시(Urban Agency)와 협업을 통해 진행한다고 1일 밝혔다. 어반 에이전시는 도시와 건축, 공공공간...",
-    "published_at": "2026-09-01T17:32:00+09:00",
-    "cluster_id": "b992",
-    "publisher": "sisacast.kr",
-    "title_clean": "대우건설, 덴마크 어반 에이전시와 '목동8단지 재건축사업' 랜드마크 외...",
-    "summary": "대우건설이 덴마크 도시건축 디자인 그룹 어반 에이전시와 협력하여 목동8단지 재건축사업의 랜드마크 외관 설계를 진행한다. 국제적 설계 전문가 그룹과의 협업으로 사업의 경쟁력과 가치를 높이는 조치다.",
+    "title": "원광대 최세진 교수팀, 미생물·나노 융합 ‘탄소중립 스마트 건설재료’ 개발 박차 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lOE9sOXR2Q2Vjb0EySFVIYWZmbnRfUzBVd3VnZDRWd21fNGNEdFZLaUNBM2RvSlZmS3J0UW5obmhZTTc1UDZ3cEpCUnZQX3c?oc=5",
+    "description": "건축 인프라가 단순한 거주·보호 기능을 뛰어넘어 스스로 에너지를 생산하고 환경 부하를 낮추는 친환경 능동형 플랫폼으로 진화하고 있다. 이러한 패러다임 전환의 중심에서 첨단 소재 융합 연구로 스마트 건설기술의 지평을 넓히는 원광대학교 창의공과대학 건축공학과 최세진 교수의 연구 성과가 주목받고 있다. 최 교수는 과학기술정보통신부와 한국연구재단이 국내 건설공학의",
+    "published_at": "2026-09-07T13:01:59+09:00",
+    "cluster_id": "a00f",
+    "publisher": "v.daum.net",
+    "title_clean": "원광대 최세진 교수팀, 미생물·나노 융합 ‘탄소중립 스마트 건설재료’ 개발 박차",
+    "summary": "원광대 최세진 교수팀이 미생물과 나노 기술을 융합하여 탄소중립 스마트 건설재료를 개발 중이다. 건축물이 에너지를 자체 생산하고 환경 부하를 낮추는 친환경 능동형 플랫폼으로 진화하는 추세 속에서 첨단 소재 기술을 적용한 차세대 건설기술 연구가 진행되고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-01T17:55:50+09:00",
+    "collected_at": "2026-09-07T13:15:00+09:00",
     "importance": 2
   },
   {
@@ -32261,22 +32277,6 @@
     "summary": "7월 주택 인허가가 전년 동월 대비 59.6% 증가하며 강세를 보였으나, 착공은 4.8% 감소했다. 연초부터 누적 인허가는 오히려 7.9% 감소하는 등 회복세가 일시적인 것으로 보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-01T15:05:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "삼표그룹, 특수 콘크리트 전문가 키운다 … 'VAP 제너럴리스트' 육성 - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/01/2026090100217.html",
-    "description": "동절기 전용 제품인 '블루콘 윈터(BLUECON WINTER)'는 영하 20도에서도 보양 없이 타설 36시간 내 강도를 확보해 국토교통부 건설신기술(제995호) 지정 및 녹색기술 인증을 취득했다. 아울러 우천 시 타설 품질을 유지하는...",
-    "published_at": "2026-09-01T14:30:00+09:00",
-    "cluster_id": "5c51",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "삼표그룹, 특수 콘크리트 전문가 키운다 … 'VAP 제너럴리스트' 육성",
-    "summary": "삼표그룹이 동절기 전용 특수 콘크리트 'VAP 제너럴리스트' 인력을 육성하고 있다. 영하 20도에서도 36시간 내 강도를 확보하는 '블루콘 윈터' 등 건설신기술 지정 제품으로 시장 경쟁력을 강화하는 중.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-01T14:55:33+09:00",
     "importance": 2
   }
 ]
