@@ -4952,6 +4952,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "출혈 경쟁 대신 '선택과 집중'…30조 목동 수주전 달군 선별수주 - ebn.co.kr",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1723225",
+    "description": "앞서 지난 7월 열린 현장설명회에는 GS건설을 비롯해 대우건설과 포스코이앤씨, IPARK현대산업개발 등 4개 대형사가 참석했다. 정작 최종 입찰에는 GS건설만이 단독 참여했다. 도시정비법에 따라 2차 입찰에서도 단독...",
+    "published_at": "2026-09-07T12:16:00+09:00",
+    "cluster_id": "af4b",
+    "publisher": "ebn.co.kr",
+    "title_clean": "출혈 경쟁 대신 '선택과 집중'…30조 목동 수주전 달군 선별수주",
+    "summary": "30조 규모 목동 재개발 사업 수주전에서 초기 4개 대형사 중 GS건설만 최종 입찰에 참여하며 선별수주 현상이 두드러짐. 과도한 경쟁으로 인한 손실 입찰을 피하고 수익성 있는 프로젝트에 집중하는 건설사들의 전략 변화를 반영.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-07T12:24:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -20936,20 +20952,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "미래성장 이끌 차기 靑정책 콘트롤타워...'집행' 역량 주목 - mt.co.kr",
-    "link": "https://www.mt.co.kr/politics/2026/09/01/2026090116033152746",
-    "description": "김 장관은 기획재정부에서 경제분석과장과 종합정책과장, 정책기획관 등을 지내고 두산에너빌리티에서 기업인으로 일했다. 행정 업무와 기업 현장을 두루 경험한 실행형 인사다. 대미투자 협상을 이끌며 초강대국을...",
-    "published_at": "2026-09-01T16:44:00+09:00",
-    "cluster_id": "f9a9",
-    "publisher": "mt.co.kr",
-    "title_clean": "미래성장 이끌 차기 靑정책 콘트롤타워...'집행' 역량 주목",
-    "summary": "기획재정부 출신으로 행정과 기업 현장 경험을 갖춘 실행형 인사가 차기 정부의 경제정책 콘트롤타워로 추진되고 있다. 미래 성장과 국정 과제 실행 역량이 주목되는 가운데, 구체적인 건설·산업 정책 방향은 아직 명확하지 않다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-01T17:05:54+09:00",
-    "importance": 2
+    "title": "대통령 업무보고까지 했으나…국세청 '세무플랫폼 감독규정 명문화' 불... - taxtimes.co.kr",
+    "link": "https://www.taxtimes.co.kr/news/article.html?no=276739",
+    "description": "있으며, ‘건설산업기본법’ 역시 건설산업에 관한 기본적 사항을 규율하면서 건설사업자에 대한 시정명령 및 필요한 지시 근거를 두고 있다. 국세청 관계자는 “감독규정을 세법에 명문화할 수 있도록 재경부와...",
+    "published_at": "2026-09-07T12:14:00+09:00",
+    "cluster_id": "ddbe",
+    "publisher": "taxtimes.co.kr",
+    "title_clean": "대통령 업무보고까지 했으나…국세청 '세무플랫폼 감독규정 명문화' 불...",
+    "summary": "국세청이 세무플랫폼 감독규정을 세법에 명문화하려던 계획이 무산됐다. 대통령 업무보고까지 진행됐으나 재경부와의 협의 과정에서 실패로 돌아간 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T12:24:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "모듈러 건설",
@@ -32262,21 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-01T14:04:58+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "여주역 로제비앙 더센텀 공동주택 품질점검 '양호' - discoverynews.kr",
-    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1100244",
-    "description": "경기도가 공동주택의 품질을 높이고 건설현장 안전사고를 예방하기 위해 여주시 소재 공동주택 건설현장에 대한 품질점검을 실시했다. 경기도는 지난 8월 27일 오전 10시 30분부터 오후 5시까지 여주시 여주역 로제비앙...",
-    "published_at": "2026-09-01T13:48:00+09:00",
-    "cluster_id": "cd6a",
-    "publisher": "discoverynews.kr",
-    "title_clean": "여주역 로제비앙 더센텀 공동주택 품질점검 '양호'",
-    "summary": "경기도가 여주역 로제비앙 더센텀 공동주택 건설현장에 대한 품질점검을 실시하여 '양호' 판정을 내렸다. 공동주택 품질 향상과 건설현장 안전사고 예방을 위한 정부의 점검 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-01T14:04:58+09:00",
-    "importance": 2
   }
 ]
