@@ -20952,6 +20952,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통부, 건설추락사고 예방 콘텐츠 공모전 개최 - 세종충청뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81NU5VRGVuSnE0VHY4b2txRmtfMWJBUktZTjlhYlJ4SHBqd0VWb1dnU1FyTTJsYzdEOWZPSHVRSU1VZFJQMUJRdzg4Mi1KN3ZiaTNMZWtzVWdGaGZtRUtSaDZpR2ZYcy0zSXVMSnRGMNIBb0FVX3lxTE81NU5VRGVuSnE0VHY4b2txRmtfMWJBUktZTjlhYlJ4SHBqd0VWb1dnU1FyTTJsYzdEOWZPSHVRSU1VZFJQMUJRdzg4Mi1KN3ZiaTNMZWtzVWdGaGZtRUtSaDZpR2ZYcy0zSXVMSnRGMA?oc=5",
+    "description": "(세종=세종충청뉴스) 노충근 기자 = 국토교통부와 고용노동부는 건설현장의 안전의식을 확산하고 활용성 높은 추락사고 예방 아이디어·우수사례 발굴을 위해 건설 추락사",
+    "published_at": "2026-09-07T08:58:17+09:00",
+    "cluster_id": "2c1a",
+    "publisher": "세종충청뉴스",
+    "title_clean": "국토교통부, 건설추락사고 예방 콘텐츠 공모전 개최",
+    "summary": "국토교통부와 고용노동부가 건설현장의 추락사고 예방을 위해 콘텐츠 공모전을 개최한다. 건설업계의 안전의식 확산과 우수 예방 아이디어 발굴이 목표다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-07T11:29:12+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[최승준 변호사의 건설법률 상식-40]재난·안전 관련 법령 강화가 건설업계에 미치는 영향 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aZDM4RFU0UU1hM3dVZFZLOGl2NmJueFI2SmtRUDlENzZsQnNLYkZJTlpRekNXWUFXTlBiaGZNLUNRbFVOMFN4bk1aZ0I0akJENC13SWJlY0NCS0FQVlprY2VMRQ?oc=5",
+    "description": "재난 안전 관련 법령의 강화는 건설업계에 단순히 안전관리 비용을 늘리는 규제가 아니다. 발주·설계·시공·감리·유지관리의 전 과정에서 위험을 미리 발견하고 통제하는 능력이 수주 경쟁력과 기업 존속을 결정하는 기준으로 바뀌고 있다는 점에서, 건설산업의 경영 구조 자체를 재편하는 변화이다.재난은 더 이상 천재지변이나 현장 근로자의 일회적 과실로만 설명될 수 없으며, 적정 공기·공사비·설계 품질·하도급 구조·안전 인력·의사결정 체계가 누적돼 드러나는 구조적 결과로 이해해야 한다.우리 법체계는 재난 및 안전관리 기본법을 중심으로 국민의 생명",
+    "published_at": "2026-09-07T11:21:32+09:00",
+    "cluster_id": "7b74",
+    "publisher": "국토일보",
+    "title_clean": "[최승준 변호사의 건설법률 상식-40]재난·안전 관련 법령 강화가 건설업계에 미치는 영향",
+    "summary": "재난·안전 관련 법령 강화는 건설업계의 단순한 규제 비용 증가를 넘어 발주부터 유지관리까지 전 과정에서 위험 관리 능력이 수주 경쟁력과 기업 존속을 결정하는 핵심 기준으로 변화하고 있다. 재난을 구조적 결과로 이해하고 적정 공기·공사비·설계·하도급·안전 인력·의사결정 체계 등을 통합적으로 관리해야 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T11:29:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32245,38 +32277,6 @@
     "summary": "2027년 예산안에 GTX, 가덕도 신공항 등 지방 SOC 사업 예산이 반영되고, 스마트건설지원센터 예산이 61억원에서 70억원으로 확대됐습니다. 도로, 철도, 공항 등 주요 인프라 사업의 정상 추진을 위한 예산이 확보된 상황입니다.",
     "sentiment": "positive",
     "collected_at": "2026-09-01T12:14:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[2027 예산안] 국토부 내년 예산 69조 ‘역대 최대’…공적주택 21.8만가... - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1684966/?sc=Naver",
-    "description": "이와함께 지방 거점도시에 집중 활성화지역(원도심)을 지정해 청년·문화·예술인·창업가 등 정착을 유도하는 신규사업으로 294억원, 관광형대중교통 도시 및 스마트건설지원센터 등 구축도 각각 31억원...",
-    "published_at": "2026-09-01T11:59:00+09:00",
-    "cluster_id": "ff80",
-    "publisher": "dailian.co.kr",
-    "title_clean": "[2027 예산안] 국토부 내년 예산 69조 ‘역대 최대’…공적주택 21.8만가...",
-    "summary": "국토부의 2027년 예산안이 69조 원으로 역대 최대 규모로 확정되었으며, 공적주택 21.8만가 공급과 지방 거점도시 활성화, 관광형 대중교통 및 스마트건설 지원 등 다양한 신규사업이 포함되었다. 이는 건설 수주 확대와 공공 건설사업 증가로 건설업계에 긍정적인 영향을 미칠 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-01T12:14:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_가로주택정비] 금성유성빌라 가로주택정비, 시공자 입찰 일정... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95105",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제9조에 따른 건설업자 또는 「주택법」 제7조제1항에 따라 건설업자로 보는 등록사업자 현설에 참석해 조합이 배부한...",
-    "published_at": "2026-09-01T11:48:00+09:00",
-    "cluster_id": "b72f",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_가로주택정비] 금성유성빌라 가로주택정비, 시공자 입찰 일정...",
-    "summary": "금성유성빌라 가로주택정비 사업의 시공자 입찰이 일반경쟁입찰 방식으로 진행된다. 건설업자 등록사업자가 현설에 참석하여 조합으로부터 입찰서류를 배부받을 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-01T12:04:36+09:00",
     "importance": 2
   }
 ]
