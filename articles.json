@@ -4969,6 +4969,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "고등동 노른자땅 용지변경 절차… ‘수원시 행정’ 잡음 - kyeongin.com",
+    "link": "https://www.kyeongin.com/article/1770402",
+    "description": "수원고등지구는 2008년 대한주택공사(현 LH)가 시행사로 사업을 시작했으나 사업성 문제로 표류했고 민간참여로 사업방향을 선회한 뒤 대우건설이 들어와 푸르지오 단지를 성공시킨 곳이다. 대우컨소시엄이 4천세대...",
+    "published_at": "2026-09-07T19:38:00+09:00",
+    "cluster_id": "3aff",
+    "publisher": "kyeongin.com",
+    "title_clean": "고등동 노른자땅 용지변경 절차… ‘수원시 행정’ 잡음",
+    "summary": "수원고등지구 재개발 사업에서 용지변경 절차 과정에 행정 잡음이 발생했다. 대우건설이 주도하는 대우컨소시엄의 4천세대 규모 프로젝트 진행 중 수원시 행정 절차의 투명성 문제가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-07T19:55:21+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20949,22 +20965,6 @@
     "title_clean": "동부건설, 무인 드론·AI로 안전관리…2029년 전 현장에 적용",
     "summary": "동부건설과 현대산업개발이 드론, AI, 디지털 트윈 등 첨단기술을 활용한 건설 현장 안전관리 시스템을 도입하고 있다. 현대산업개발은 클라우드 기반 드론 플랫폼과 BIM을 연계해 시공 상태와 사각지대를 점검 중이며, 동부건설은 2029년까지 전 현장에 적용할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-02T11:44:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'지난해 9위→첫 대회 4위' 한국 7인제 럭비, 아시아 정상권 두드렸다 - stnsports.co.kr",
-    "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321916",
-    "description": "한국은 국군체육부대와 포스코이앤씨, 한국전력공사, 현대글로비스 등 실업팀에 고려대와 연세대 선수들을 더해 대표팀을 꾸렸다. C조 예선 첫 상대는 개최국 중국이었다. 한국은 접전 끝에 19-21, 단 2점 차로...",
-    "published_at": "2026-09-02T11:33:00+09:00",
-    "cluster_id": "a992",
-    "publisher": "stnsports.co.kr",
-    "title_clean": "'지난해 9위→첫 대회 4위' 한국 7인제 럭비, 아시아 정상권 두드렸다",
-    "summary": "한국 7인제 럭비팀이 아시아 선수권대회에서 지난해 9위에서 첫 대회 4위로 급상승했다. 국군체육부대, 포스코이앤씨, 한국전력공사, 현대글로비스 등 실업팀과 대학 선수들이 참여해 개최국 중국과의 C조 예선에서 접전을 펼쳤다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-02T11:44:34+09:00",
     "importance": 2
   },
