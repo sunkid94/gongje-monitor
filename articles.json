@@ -20935,6 +20935,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "쏟아지는 데이터센터 공기단축 경쟁 - smedaily.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aYUVLM3VBT2U1aUZ4Um5YUWtVeWJqelJLN3dtRFBTY2ZxN21fazI1ZGVPUGlPcHVmYy02LWtIU0dqN3QyTDkwcTZNRi1tMS04M3BuVHhGckxKSjRyRTFfODA5VlRUT1RjVU5lSw?oc=5",
+    "description": "데이터센터 수요 확대에 건설사들이 공사기간 단축 경쟁에 나섰다. 인공지능(AI) 서비스를 뒷받침할 시설을 고객이 원하는 시점에 공급하기 위해 구조물과 설비를 미리 제작하거나 설계·시공·운영 역량을 사업 초기부터 결합하고 있다. GS건설은 모듈러 표준모델 개발을 추진하고, SK에코플랜트와 DL이앤씨는 공정 개선을 적용한 현장 성과를 내세운다.GS건설은 LG유플러스·자이C&A·간삼건축·D&O CM과 사전 제작형 모듈러 데이터센터(PMDC) 표준모델 개발을 위한 업무협약을 체결했다고 6일 밝혔다. 건축 구조물과 전력·냉각 설비를 모듈화해",
+    "published_at": "2026-09-07T10:36:31+09:00",
+    "cluster_id": "a2df",
+    "publisher": "smedaily.co.kr",
+    "title_clean": "쏟아지는 데이터센터 공기단축 경쟁",
+    "summary": "AI 수요 증가에 따른 데이터센터 건설 수주 확대로 건설사들이 공사기간 단축 경쟁을 벌이고 있다. GS건설, SK에코플랜트, DL이앤씨 등이 모듈러 설계·사전제작·공정 개선 등을 통해 납기 경쟁력을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-07T10:44:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32260,22 +32276,6 @@
     "summary": "이재명 대통령이 수도권 주택공급을 경기회복 정책으로 강조하며 적극 추진을 지시했다. 이는 건설사들의 수주 기회 증가와 건설경기 부양으로 이어질 가능성이 높다.",
     "sentiment": "positive",
     "collected_at": "2026-09-01T11:54:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "삼표그룹, 'VAP 제너럴리스트' 양성... 특수 콘크리트 전문성 강화 - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=135175",
-    "description": "국토교통부 건설신기술 제995호와 녹색기술 인증을 받았다. 우천 시 타설 품질을 유지하는 '레인 오케이', 고온 환경에서 품질 변화를 줄이는 '킵 슬럼프', 조기 강도 발현에 특화된 '블루콘 스피드', 바닥 시공용 '블루콘...",
-    "published_at": "2026-09-01T11:22:00+09:00",
-    "cluster_id": "3cfe",
-    "publisher": "newslock.co.kr",
-    "title_clean": "삼표그룹, 'VAP 제너럴리스트' 양성... 특수 콘크리트 전문성 강화",
-    "summary": "삼표그룹이 특수 콘크리트 제품들에 대해 국토교통부 건설신기술 제995호와 녹색기술 인증을 획득했다. 우천 시공, 고온 환경, 조기 강도 등 다양한 시공 환경에 대응하는 콘크리트 솔루션을 개발해 전문성을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-01T11:34:47+09:00",
     "importance": 2
   }
 ]
