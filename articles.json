@@ -5122,6 +5122,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "미분양 리스크 덜고 용적률 상향까지…알짜 '도심공공복합사업'에 몰린... - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026090719173830527",
+    "description": "신길2구역은 포스코이앤씨를 시공사로 선정했다. 건설사들이 최근 도심공공복합사업에 관심을 기울이는 이유는 정부가 대대적인 인센티브 혜택을 통해 사업 촉진에 나서고 있어서다. 국토부는 지난 4월 도심복합사업...",
+    "published_at": "2026-09-08T10:56:00+09:00",
+    "cluster_id": "0b21",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "미분양 리스크 덜고 용적률 상향까지…알짜 '도심공공복합사업'에 몰린...",
+    "summary": "정부의 인센티브 정책으로 도심공공복합사업이 활성화되고 있으며, 건설사들이 미분양 리스크 경감과 용적률 상향 혜택을 얻을 수 있어 사업 수주에 집중하고 있다. 신길2구역 등 주요 사업들이 진행 중으로 건설업계에 긍정적인 기회를 제공하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-08T12:30:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21101,22 +21117,6 @@
     "publisher": "thepublic.kr",
     "title_clean": "조선·철강 나란히 파업 갈림길…HD현대重 이어 포스코 '긴장'",
     "summary": "조선·철강 업계에서 성과급 확대 및 산정 방식 개편을 요구하는 파업 움직임이 확산하고 있다. HD현대중공업을 시작으로 한화오션, 삼성중공업 등에서 임금 협상이 진행 중이며, 조선업의 장기 수주 특성상 경영진의 부담이 커지고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-02T17:29:29+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'1.8조' 목동12단지, 시공사 선정 유찰…GS건설 수의계약 가시화 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/09/02/2026090202800.html",
-    "description": "앞서 지난 7월 열린 현장설명회에는 GS건설을 비롯해 대우건설, 포스코이앤씨, IPARK현대산업개발 등 4개 건설사가 참여했다. 그러나 이 현장은 당초부터 GS건설의 단독 입찰과 수의계약 가능성이 높다고 점쳐졌었다....",
-    "published_at": "2026-09-02T17:10:00+09:00",
-    "cluster_id": "5263",
-    "publisher": "realty.chosun.com",
-    "title_clean": "'1.8조' 목동12단지, 시공사 선정 유찰…GS건설 수의계약 가시화",
-    "summary": "1.8조 규모 목동12단지 재건축 사업에서 시공사 공개입찰이 유찰되어 GS건설의 수의계약이 진행될 가능성이 높아졌다. 당초부터 GS건설 단독 입찰과 수의계약 가능성이 지적되어 온 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-02T17:29:29+09:00",
     "importance": 4
