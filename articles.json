@@ -5241,6 +5241,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "공장지대서 미니신도시로…인천 용현·학익동 대변신 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026090819281",
+    "description": "디씨알이가 시행하고 HDC현대산업개발, 현대건설, 포스코이앤씨 컨소시엄이 시공한다. 생활 인프라도 순차적으로 들어선다. 용현학익2초는 2028년 개교할 예정이며 용현학익중과 고등학교도 2029년 개교를 목표로...",
+    "published_at": "2026-09-08T17:25:00+09:00",
+    "cluster_id": "a86a",
+    "publisher": "hankyung.com",
+    "title_clean": "공장지대서 미니신도시로…인천 용현·학익동 대변신",
+    "summary": "인천 용현·학익동 공장지대가 미니신도시로 재개발되며 디씨알이 시행, HDC현대산업개발·현대건설·포스코이앤씨 컨소시엄이 시공을 맡는다. 2028년부터 학교 등 생활 인프라가 순차적으로 개교할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-08T17:42:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21220,22 +21236,6 @@
     "publisher": "gukjenews.com",
     "title_clean": "두산에너빌리티, 네팔 사고 현장에 헬기 3일 연속 투입해 직원 수색",
     "summary": "두산에너빌리티가 네팔 대홍수로 연락이 끊긴 직원 6명을 수색하기 위해 헬기를 3일 연속으로 투입했다. 현지 임차 헬기를 통해 댐 부근 계곡 상부 등에서 실시간 수색 활동을 전개 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-02T20:04:37+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 실종 직원 9명 찾는다…남동발전·두산, 헬기·드론·수색견으로 저... - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10860794?ref=naver",
-    "description": "한국남동발전과 두산에너빌리티가 네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위해 헬기와 드론, 수색견까지 투입하며 사고 현장을 광범위하게 수색하고 있다. 2일 현지 기업 대응팀에 따르면 두산에너빌리티는 이날...",
-    "published_at": "2026-09-02T19:50:00+09:00",
-    "cluster_id": "ceed",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "네팔 실종 직원 9명 찾는다…남동발전·두산, 헬기·드론·수색견으로 저...",
-    "summary": "한국남동발전과 두산에너빌리티가 네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위해 헬기, 드론, 수색견 등을 동원하여 수색 작업을 진행 중이다. 해외 건설 현장에서 발생한 인명 피해 사고로, 기업들이 적극적인 구조 활동을 전개하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-02T20:04:37+09:00",
     "importance": 4
