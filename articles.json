@@ -5156,6 +5156,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌, 네팔 홍수 현장서 헬기·드론 수색 총력 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1411468",
+    "description": "지난달 29일(현지시간) 네팔 비두르에서 한국남동발전과 두산에너빌리티가 건설하던 수력 발전소로 가는 도로를 네팔 군인들을 비롯한 관계자들이 복구하고 있다. 사진=연합뉴스 매일일보 = 정경화 기자...",
+    "published_at": "2026-09-08T16:16:00+09:00",
+    "cluster_id": "4b34",
+    "publisher": "",
+    "title_clean": "두산에너빌, 네팔 홍수 현장서 헬기·드론 수색 총력 - m-i.kr",
+    "summary": "네팔 홍수 재해 현장에서 두산에너빌리티와 한국남동발전이 건설 중인 수력발전소 인프라 복구에 참여하고 있다. 헬기와 드론을 활용한 수색 활동을 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-08T16:31:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21138,22 +21154,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-02T19:49:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 KDRT, 바타르로 이동해 베이스캠프 설치…일부는 바로 사고 현장으... - news1.kr",
-    "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6278021",
-    "description": "이어 두산에너빌리티와 한국남동발전 관계자들로부터 어퍼트리슐리(UT)-1 수력발전소의 구조와 실종 당시 상황, 기업 측의 자체 수색 내용 등을 전달받았다. KDRT는 이를 토대로 조현문 중앙119구조본부장 주도로 향후...",
-    "published_at": "2026-09-02T19:31:00+09:00",
-    "cluster_id": "fbbd",
-    "publisher": "news1.kr",
-    "title_clean": "네팔 KDRT, 바타르로 이동해 베이스캠프 설치…일부는 바로 사고 현장으...",
-    "summary": "네팔 수력발전소 실종 사고와 관련하여 KDRT(국가재난안전관리기구)가 바타르에 베이스캠프를 설치하고 수색 활동을 전개 중이다. 두산에너빌리티와 한국남동발전 등 관계사들로부터 사고 현장 정보를 수집하여 구조 활동을 추진하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-02T19:34:52+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 신기술",
