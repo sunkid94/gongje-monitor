@@ -20969,6 +20969,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도, 6개 공구 철도건설 현장 3일간 안전·임금 실태 점검 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBENElhVFF1Tk1YX2dGRUFGZnQ5NC14emZ2Rk9rYXlybUVSSzBua3plYWUwVWJGLXVleHVYV2Fqei1OV3AxS3VfVjBKcHdRemtONDhV?oc=5",
+    "description": "한눈에 보는 오늘 : 정치 - 뉴스 : [의정부=뉴스핌] 안성진 기자 = 경기도는 8일부터 오는 10일까지 사흘간 옥정~포천선과 도봉산~옥정선 철도건설 현장 6개 공구를 대상으로 안전관리 및 임금·대금 지급 실태를 종합 점검한다고 밝혔다.경기도는 8일부터 오는 10일까지 철도건설현장 6개",
+    "published_at": "2026-09-08T10:13:00+09:00",
+    "cluster_id": "7fef",
+    "publisher": "네이트",
+    "title_clean": "경기도, 6개 공구 철도건설 현장 3일간 안전·임금 실태 점검",
+    "summary": "경기도가 옥정~포천선과 도봉산~옥정선 철도건설 현장 6개 공구에 대해 8~10일 3일간 안전관리 및 임금·대금 지급 실태를 종합 점검한다. 철도건설 현장의 안전과 노동조건을 감시하는 행정 조치로 시행된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-08T10:30:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32263,21 +32279,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-02T16:34:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[기획] 포스코이앤씨, 조직 축소·사업 재편 '수익성 집중' - kfenews.co.kr",
-    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663709",
-    "description": "지난 7월에는 국토부로부터 건설산업기본법 위반 혐의에 따른 영업정지 처분 사전통지를 받고 의견서를 제출한 상태다. 결국 포스코이앤씨의 조직개편은 단순한 비용 절감 차원을 넘어 수익성 중심의 사업구조로...",
-    "published_at": "2026-09-02T16:22:00+09:00",
-    "cluster_id": "e250",
-    "publisher": "kfenews.co.kr",
-    "title_clean": "[기획] 포스코이앤씨, 조직 축소·사업 재편 '수익성 집중'",
-    "summary": "포스코이앤씨가 국토부로부터 건설산업기본법 위반으로 영업정지 처분 사전통지를 받고 조직 축소 및 사업 재편을 추진 중이다. 비용 절감을 넘어 수익성 중심의 사업구조 전환을 단행하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-02T16:29:57+09:00",
-    "importance": 4
   }
 ]
