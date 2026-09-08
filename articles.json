@@ -21292,6 +21292,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "74명 사상 안전공업 임직원, 증거 위·변조 적발 - ggilbo.com",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1180508",
+    "description": "이와 함께 경찰은 공장 내 휴게시설을 불법 증축한 인테리어 업자와 공장 내부 화재 수신기를 임의 차단한 전임 소방관리자 등 4명도 건설산업기본법 위반, 소방시설법 위반 등 혐의로 추가 입건했다. 이들 중 2명은...",
+    "published_at": "2026-09-08T19:20:00+09:00",
+    "cluster_id": "67de",
+    "publisher": "ggilbo.com",
+    "title_clean": "74명 사상 안전공업 임직원, 증거 위·변조 적발",
+    "summary": "안전공업 임직원들이 74명 사상 사고와 관련하여 증거 위·변조 혐의로 적발되었다. 공장 내 불법 증축, 화재 수신기 임의 차단 등 건설산업기본법 및 소방시설법 위반 혐의로 관련자 4명이 추가 입건되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-08T19:33:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32281,22 +32297,6 @@
     "summary": "전남광주통합특별시의회 안전건설위원회가 제주도의 안전체험관과 한천저류지 등 주요 안전·건설 현장을 시찰했다. 의회의 의정활동 차원에서 안전 및 건설 인프라 운영 현황을 점검하는 행사로 진행됐다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-03T19:10:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "서해종합건설, 1600억원 규모 '동인천 서해그랑블' 공사 수주 - joongangenews.com",
-    "link": "https://www.joongangenews.com/news/articleView.html?idxno=545508",
-    "description": "이번 수주는 건설경기 침체와 부동산시장 불확실성이 이어지는 상황에서 확보한 대규모 주택사업이라는 점에서 의미가 있다는 게 회사 측 설명이다. 서해종합건설은 그동안 축적한 공동주택 시공 경험과 현장관리...",
-    "published_at": "2026-09-03T18:38:00+09:00",
-    "cluster_id": "e982",
-    "publisher": "joongangenews.com",
-    "title_clean": "서해종합건설, 1600억원 규모 '동인천 서해그랑블' 공사 수주",
-    "summary": "서해종합건설이 1600억원 규모의 '동인천 서해그랑블' 주택사업을 수주했다. 건설경기 침체와 부동산시장 불확실성 속에서 확보한 대규모 사업으로, 회사의 공동주택 시공 경험을 바탕으로 진행될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T18:50:04+09:00",
     "importance": 2
   }
 ]
