@@ -21241,6 +21241,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "전남광주 레미콘 운송노동자 이틀째 파업 - gjdream.com",
+    "link": "http://www.gjdream.com/news/articleView.html?idxno=672523",
+    "description": "8일, 전남광주통합특별시 광주청사 앞에서 민주노총 전국건설노동조합원들이  운송료 현실화를 요구하며 구호를 외치고 있다. 사진=민노총 전국건설노조 제공. 전남광주지역 레미콘 운송 노동자들이 운송료 현실화를...",
+    "published_at": "2026-09-08T17:46:00+09:00",
+    "cluster_id": "af3c",
+    "publisher": "gjdream.com",
+    "title_clean": "전남광주 레미콘 운송노동자 이틀째 파업",
+    "summary": "전남광주 지역 레미콘 운송노동자들이 운송료 현실화를 요구하며 파업을 진행 중이다. 민주노총 전국건설노조가 주도하는 이번 파업은 건설 현장의 자재 공급 차질을 초래할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-08T18:02:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32279,21 +32295,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-03T17:50:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전남광주통합특별시의회 안전건설위원회, 제주도 방재·안전 시설 현지 방문 - 서울뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nY1Q3RG9ZYlpJdGlEQUxoN1dybGY3ajA0YzdTQVJGdU1sR3VBQWtwdE44UkhOeTZRYnpPSThuV056Y3JkeThQSW9kazYxSmxtT3ZPX3BfV25OS1J2Qjc4cGl2TUF3RGh6ZGdJ?oc=5",
-    "description": "【광주·전남 = 서울뉴스통신】 이철수 기자 =전남광주통합특별시의회 안전건설위원회(위원장 강정일, 광양2)는 지난 9월 2일, 첫 전체 의원연찬회 2일 차 일정으로 제주특별자치도 내 안전·건설 소관 현장을 찾아 현지 의정활동을 펼쳤다.이날 안전건설위원회는 먼저 2020년 11월 개관해 생활·보건·교통안전 등 6개 테마 22개 시설을 갖춘 제주안전체험관을 방문했다.위원들은 자연재난체험관과 특성화체험관 등의 프로그램을 직접 체험하고 운영 현황을 청취했으며, 현재 전남 장흥군에 건립 중인 국민안전체험관의 효율적인 운영 계획 수립을 위한 질의응답을 진행했다.이어 위원회는 태풍 등 풍수해 피해 예방을 위해 조성된 한천저류지를 시찰했다.한천저류지는 제1저류지(39만 4천㎥)와 제2저류지(50만 5천㎥)로 조성된 우수유출저감시설로, 집중호우 시 빗물을 일시 저류해 하천 범람과 도심 침수를 막는 핵심 방재 인프라다.강정일 위원장은 “상임위 특성에 맞춘 현장 방문을 통해 향후 의정활동에 실질적인 보탬",
-    "published_at": "2026-09-03T17:33:14+09:00",
-    "cluster_id": "1861",
-    "publisher": "서울뉴스통신",
-    "title_clean": "전남광주통합특별시의회 안전건설위원회, 제주도 방재·안전 시설 현지 방문",
-    "summary": "전남광주통합특별시의회 안전건설위원회가 제주도의 안전체험관과 방재시설을 방문하여 현지 의정활동을 실시했다. 제주안전체험관 운영 현황 청취와 전남 장흥군에 건립 중인 국민안전체험관의 효율적 운영 방안을 논의했으며, 한천저류지 등 풍수해 방재 인프라를 시찰했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-03T17:50:01+09:00",
-    "importance": 2
   }
 ]
