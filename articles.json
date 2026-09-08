@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비건설협 강원도회 장학금 전달 - kado.net",
+    "link": "https://www.kado.net/news/articleView.html?idxno=2071438",
+    "description": "대한기계설비건설협회 강원특별자치도회(회장 박용모)는 8일 회원사 임직원 자녀 및 기계설비전공 우수학생 8명 대상으로 장학금을 수여했다.",
+    "published_at": "2026-09-09T00:09:00+09:00",
+    "cluster_id": "10ee",
+    "publisher": "kado.net",
+    "title_clean": "기계설비건설협 강원도회 장학금 전달",
+    "summary": "대한기계설비건설협회 강원특별자치도회가 회원사 임직원 자녀 및 기계설비전공 우수학생 8명을 대상으로 장학금을 수여했다. 업계 인재육성과 사회공헌을 위한 정기적 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-09T00:16:54+09:00",
+    "event_label": "대한기계설비건설협회 강원특별자치도회 장학금 전달",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32284,22 +32301,6 @@
     "summary": "GTX-A 삼성역 시공 오류 문제로 정부가 국민 안전을 최우선으로 하여 합동점검 기간을 11월까지 4개월 연장해 정밀 조사를 진행 중이다. 개통 지연 보상금 논란에 대해서는 객관적 안전성 분석 결과에 따라 조치 방안을 마련하겠다는 입장이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-04T07:04:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공사비 상승폭 한풀 꺾였는데… 여전한 고유가, 등 휘는 건설사 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNkI0VV85V2tnOHliOWZqdk12T1dZeG9ZWjdCMHNaS2NfaURsZmdrUHdwbzZjUGtGc1ctQWVVMVNQR0Z0aHp1ZldKRElDelhVd1dsTFdQeWtiQjE3d3N4b0VWMlJYam5lNDEzcmtJVdIBb0FVX3lxTE5XNkI0VV85V2tnOHliOWZqdk12T1dZeG9ZWjdCMHNaS2NfaURsZmdrUHdwbzZjUGtGc1ctQWVVMVNQR0Z0aHp1ZldKRElDelhVd1dsTFdQeWtiQjE3d3N4b0VWMlJYam5lNDEzcmtJVQ?oc=5",
-    "description": "공사비와 금리상승이라는 이중고 속에서 건설경기는 최악으로 치닫는다. 3일 한국건설기술연구원 공사비원가관리센터에 따르면 7월 건설공사비지수는 138.59(잠정치)를 기록했다. 건설공사비지수는 지난 4월 중동전쟁으로 인한 국제유가 급등 영향이 반영되면서 전월 대비 1.93% 폭등한 이후 5월과 6월에는 각각 전월에 비해 0.50%, 0.39% 올랐다.",
-    "published_at": "2026-09-04T03:01:00+09:00",
-    "cluster_id": "3f49",
-    "publisher": "머니투데이",
-    "title_clean": "공사비 상승폭 한풀 꺾였는데… 여전한 고유가, 등 휘는 건설사 - 머니투데이",
-    "summary": "7월 건설공사비지수가 138.59로 상승폭이 완화되었으나, 고유가와 금리인상으로 인한 이중고 속에서 건설경기는 최악으로 악화되고 있다. 건설사들의 채산성 악화로 업계 전반이 어려운 상황이 지속되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-04T06:54:48+09:00",
     "importance": 4
   }
 ]
