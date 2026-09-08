@@ -5360,6 +5360,22 @@
     "importance": 5
   },
   {
+    "keyword": "신세계건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대형 마트·백화점 부지에 아파트 단지 개발 잇따라 - chosun.com",
+    "link": "https://www.chosun.com/economy/2026/09/09/BIZ5EOFZXNAYRLIU54ECYWYCOQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "신세계건설이 ‘빌리브 울산’(아파트 405가구·오피스텔 162실)을 조성했다. 대구 이마트 시지점은 2018년 폐점 후 ‘시지 하늘채스카이뷰’(686가구)로 2022년 준공했다. 백화점 부지가 주거 시설로 바뀐 사례도 있다....",
+    "published_at": "2026-09-09T00:38:00+09:00",
+    "cluster_id": "fef5",
+    "publisher": "chosun.com",
+    "title_clean": "대형 마트·백화점 부지에 아파트 단지 개발 잇따라",
+    "summary": "대형 마트와 백화점 폐점 부지에 아파트 단지 개발이 증가하고 있다. 신세계건설의 울산 프로젝트, 대구 이마트 시지점 부지 개발 등 기존 상업시설 부지의 주거용 재개발 사례가 늘어나는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-09T01:11:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21342,22 +21358,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-03T07:09:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산퓨얼셀, 美 AI 데이터센터 전력시장 진출…5014억 연료전지 공급 - 인사이트코리아",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XRkFibXVsall1amJweW1xZXY0Zk82RzFEdl9mX055MUY4Uk90Zy1aQmE4X2czcU5sTzFEcXRkenNDT2NtNnI2WXNoMW9SajZsMWh4Z0lGUDl0YWlkaTJNUUw4OElMUXQ4TDVWYVFjQWFMU1HSAXdBVV95cUxNbkdKaFJxeTBjSTdVRWk1MHYwRWtzMDZaUDBXTWdLbDJldjA0RGVkTGFvWUpUd1FIN3lMNk5tZ3dYeUZUTUNISmoxdEJtZDV0UnlrVzMxSWxKV0paN3k5Zm1Rd0c5N1Y0azQyWkx5VmtKN3RxODc5bw?oc=5",
-    "description": "[인사이트코리아 = 김동수 기자] 두산퓨얼셀이 AI 데이터센터용 연료전지를 앞세워 미국 전력시장에 처음 진출한다.두산퓨얼셀은 2일 ㈜두산의 미국 자회사 하이엑시엄(HyAxiom)과 5014억원 규모의 인산형 연료전지(PAFC) 공급계약을 체결했다고 공시했다.공급 물량은 올해 하반기부터",
-    "published_at": "2026-09-02T09:22:59+09:00",
-    "cluster_id": "fc49",
-    "publisher": "인사이트코리아",
-    "title_clean": "두산퓨얼셀, 美 AI 데이터센터 전력시장 진출…5014억 연료전지 공급",
-    "summary": "두산퓨얼셀이 미국 자회사 하이엑시엄과 5014억원 규모의 인산형 연료전지(PAFC) 공급계약을 체결하며 미국 AI 데이터센터 전력시장에 진출했다. 신재생에너지 및 기계설비 수출 시장 확대로 기계설비건설 관련 수주 기회가 증가하는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T07:09:06+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
