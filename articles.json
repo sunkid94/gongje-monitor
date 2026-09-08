@@ -21343,6 +21343,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "북한-러시아 잇는 첫 자동차 다리 개통…교역·군사 협력 확대되나 - bbc.com",
+    "link": "https://www.bbc.com/korean/articles/cx2z7kkkwzzo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "description": "트루스 하운즈는 최근 성명에서 양국이 2024년 전략적 동반자 조약을 체결했다는 점을 지적하며, 새로운 다리가 북한 군인과 건설 노동자, 고위 군 관계자를 러시아로 이동시키는데 활용될 수 있다고 주장했다. 또 단체는...",
+    "published_at": "2026-09-08T22:34:00+09:00",
+    "cluster_id": "b2ab",
+    "publisher": "bbc.com",
+    "title_clean": "북한-러시아 잇는 첫 자동차 다리 개통…교역·군사 협력 확대되나",
+    "summary": "북한과 러시아가 새로운 자동차 다리를 개통하며 양국 간 교역과 군사 협력이 확대될 전망이다. 전문가들은 이 다리가 군인 이동과 물자 수송에 활용될 수 있다고 분석하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-08T22:51:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32285,21 +32301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-04T06:40:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "국중박 찾은 삼호개발 태국인 근로자들...\"서울 한복판서 고향의 숨결\" - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609031529289790621",
-    "description": "건설경기 침체와 유동성 악화 등으로 업계 전반이 어려움을 겪는 가운데, 외국인 근로자를 단순 인력이 아닌 동등한 파트너로 대우하는 삼호개발의 차별화된 상생 경영이 빛을 발한 순간이었다. 삼호개발 관계자는...",
-    "published_at": "2026-09-04T06:22:00+09:00",
-    "cluster_id": "24ff",
-    "publisher": "대한경제",
-    "title_clean": "국중박 찾은 삼호개발 태국인 근로자들...\"서울 한복판서 고향의 숨결\"",
-    "summary": "건설경기 침체 속에서 삼호개발이 태국인 근로자들을 위해 한복판에 '국중박'을 마련하며 외국인 근로자를 동등한 파트너로 대우하는 상생 경영을 펼치고 있다. 이는 업계 전반의 어려움 가운데 차별화된 경영 전략의 사례로 평가되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-04T06:40:01+09:00",
-    "importance": 2
   }
 ]
