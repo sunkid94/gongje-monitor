@@ -21445,6 +21445,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "거창군, 승강기산업 위기 돌파 나선다…산·학·연·관 TF 출범 - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202609100005",
+    "description": "이날 함께 열린 산업특구 컨설팅 중간보고회에서는 건설경기 침체에 따른 승강기 수요 감소와 기업의 판로·R&D 어려움 등을 점검하고 특구 활성화 방안을 논의했다. 이홍기 거창군수는 산·학·연·관의 협력을 통해...",
+    "published_at": "2026-09-10T07:38:00+09:00",
+    "cluster_id": "9a8b",
+    "publisher": "kukinews.com",
+    "title_clean": "거창군, 승강기산업 위기 돌파 나선다…산·학·연·관 TF 출범",
+    "summary": "거창군이 승강기산업 위기 극복을 위해 산·학·연·관 태스크포스를 출범시켰다. 건설경기 침체에 따른 수요 감소와 기업의 판로·R&D 어려움을 해결하기 위해 산업특구 활성화 방안을 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-10T08:01:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32288,22 +32304,6 @@
     "publisher": "공감신문",
     "title_clean": "AI 시대 선도할 모듈러 데이터센터, GS건설과 LG유플러스의 혁신적 협약",
     "summary": "GS건설이 LG유플러스 등 관련사들과 협력하여 모듈러 데이터센터(PMDC) 표준모델 개발을 추진 중이다. AI 시대 데이터센터 수요 급증에 대응하는 신규 사업으로, 건설업계에 새로운 수주 기회와 시장 확대를 가져올 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-06T10:58:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, 모듈러로 AI 데이터센터 공급 속도 - Nate News",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QNzVuUUs1Z3pIZUFBNjMySkE3QW5mU3VMbjhlbE53cUZuWkdyNkg5V2hzY2NUOFZrOVFZcjltNEJzRVVNZjY1NlI2S2FnY3F0b3pF?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QNzVuUUs1Z3pIZUFBNjMySkE3QW5mU3VMbjhlbE53cUZuWkdyNkg5V2hzY2NUOFZrOVFZcjltNEJzRVVNZjY1NlI2S2FnY3F0b3pF?oc=5\" target=\"_blank\">GS건설, 모듈러로 AI 데이터센터 공급 속도</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nate News</font>",
-    "published_at": "2026-09-06T10:33:00+09:00",
-    "cluster_id": "fc73",
-    "publisher": "Nate News",
-    "title_clean": "GS건설, 모듈러로 AI 데이터센터 공급 속도",
-    "summary": "GS건설이 모듈러 건설 방식을 활용하여 AI 데이터센터 공급 속도를 높이고 있다. 이는 건설업계의 신규 수주 기회 확대와 효율적 시공 기법 도입으로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-09-06T10:58:46+09:00",
     "importance": 2
