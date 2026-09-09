@@ -5445,6 +5445,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주요공시] 코스메카코리아, 넥사다이내믹스, 신세계, 한국가스공사, 금... - kdpress.co.kr",
+    "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=208472",
+    "description": "공시 흐름은 코스메카코리아의 1360억원 신규시설투자, 한화오션의 태국 차세대 호위함 사업 우선협상대상자 선정, 대우건설·동부건설의 상계2구역 주택재개발정비사업 계약, HS화성의 비취타운...",
+    "published_at": "2026-09-10T00:00:00+09:00",
+    "cluster_id": "e35c",
+    "publisher": "kdpress.co.kr",
+    "title_clean": "[주요공시] 코스메카코리아, 넥사다이내믹스, 신세계, 한국가스공사, 금...",
+    "summary": "코스메카코리아의 1360억원 신규시설투자, 한화오션의 태국 호위함 사업 우선협상대상자 선정, 대우건설·동부건설의 상계2구역 주택재개발사업 계약 등 건설·기계설비 분야의 주요 수주 및 투자 공시가 이어지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-10T00:11:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21427,22 +21443,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-03T14:39:33+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 신월시영 재건축에 특화 정원만 8곳 제안 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20086800?ref=naver",
-    "description": "대우건설이 서울 양천구 신월시영아파트 재건축사업 수주를 위해 미국의 조경·도시설계 전문그룹 스토스(STOSS)와 손잡는다. 대우건설은 스토스와 협업해 신월시영 재건축 단지에 ‘신월8경(新月八景)’을 콘셉트로 한...",
-    "published_at": "2026-09-03T14:35:00+09:00",
-    "cluster_id": "7010",
-    "publisher": "sedaily.com",
-    "title_clean": "대우건설, 신월시영 재건축에 특화 정원만 8곳 제안",
-    "summary": "대우건설이 미국 조경·도시설계 전문그룹 스토스와 협력하여 서울 양천구 신월시영아파트 재건축사업 수주를 추진 중입니다. '신월8경'을 콘셉트로 한 정원 8곳 등 차별화된 설계안을 제시하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T14:39:33+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
