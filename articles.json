@@ -21360,6 +21360,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[속보] 김천아포지역주택조합 홍보관 휴관, 임금 체불 등 피해 일파만파 - idaegu.com",
+    "link": "https://www.idaegu.com/news/articleView.html?idxno=665554",
+    "description": "여기에 건설경기 불황까지 맞아 실수요자들로부터 외면당했다. 특히 사업의 진정성을 둘러싼 논란도 지속돼 왔다. B조합 측은 사업의 핵심 거점이자 분양 홍보의 중심이 되어야 할 홍보관을 사업지인 김천이 아닌 구미시...",
+    "published_at": "2026-09-09T12:46:00+09:00",
+    "cluster_id": "cdde",
+    "publisher": "idaegu.com",
+    "title_clean": "[속보] 김천아포지역주택조합 홍보관 휴관, 임금 체불 등 피해 일파만파",
+    "summary": "김천아포지역주택조합이 홍보관 휴관, 임금 체불 등의 문제를 겪고 있으며, 건설경기 불황과 사업 진정성 논란이 겹쳐 실수요자들로부터 외면당하고 있다. 사업 거점인 홍보관을 다른 지역에 설치하는 등 사업 운영의 문제점이 드러나고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-09T13:12:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32286,21 +32302,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-04T14:09:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'최초 적발' 한국서 이슬람 테러단체에 물자 보낸 人 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=03585046645576840&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "경찰 조사 결과 2017년 국내 유학생 신분으로 입국했던 A씨는 2023년 체류 기간이 끝난 뒤 불법체류 상태에서 일용직 건설노동자로 생활했다. 이후 KTJ로부터 중고차 구매 대금 명목으로 최소 3000만원 상당의 가상자산을...",
-    "published_at": "2026-09-04T14:02:00+09:00",
-    "cluster_id": "6618",
-    "publisher": "edaily.co.kr",
-    "title_clean": "'최초 적발' 한국서 이슬람 테러단체에 물자 보낸 人",
-    "summary": "국내 불법체류자가 이슬람 테러단체에 자금을 송금한 혐의로 적발됐다. 용의자는 건설노동자로 일하며 가상자산을 통해 테러 자금을 지원한 것으로 조사됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-04T14:09:59+09:00",
-    "importance": 4
   }
 ]
