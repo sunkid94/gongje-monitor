@@ -5445,6 +5445,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "하이엔드 주거도 '대단지' 시대…희소성에서 규모로 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260909_0003782373",
+    "description": "시공은 부산 해운대 엘시티와 서울 강남구 논현동 브라이튼 N40 등 고급 주거를 지어온 포스코이앤씨가 맡았다. 서울 주요 정비사업장에서도 이 같은 흐름이 나타나고 있다. 재건축·재개발을 통해 수천 가구 규모의...",
+    "published_at": "2026-09-10T04:30:00+09:00",
+    "cluster_id": "f758",
+    "publisher": "newsis.com",
+    "title_clean": "하이엔드 주거도 '대단지' 시대…희소성에서 규모로",
+    "summary": "하이엔드 주거 시장이 희소성 중심에서 대규모 단지 중심으로 변화하고 있으며, 포스코이앤씨 등 시공사들이 수천 가구 규모의 재건축·재개발 프로젝트를 수주하고 있다. 서울 주요 정비사업장에서 대단지 개발 트렌드가 확산되는 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-10T04:36:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21429,20 +21445,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 도곡우성 재건축 수주 눈앞…성수 이어 강남까지 - greened.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5RXV4V3NTLXBFeF9FcGtaaVNCTEpmOGZFOGU5UVAtcGxUMHVZMlZfMWVUd0JVVG5KWFZtZjNaeXhjMzNueEF3YldXdU9EZmYzOWJEM1JHZnlNdWx0RXVWVG1FYXJtMk42?oc=5",
-    "description": "[녹색경제신문 = 문홍주 기자]롯데건설이 서울 성수전략정비구역 제4지구에 이어 강남 도곡우성아파트 재건축 수주를 눈앞에 두고 있다. 올해 서울 주요 정비사업에서 잇따라 시공권을 확보한 롯데건설이 강남권에서도 하이엔드 브랜드",
-    "published_at": "2026-09-03T14:37:10+09:00",
-    "cluster_id": "4bc2",
-    "publisher": "greened.kr",
-    "title_clean": "롯데건설, 도곡우성 재건축 수주 눈앞…성수 이어 강남까지",
-    "summary": "롯데건설이 서울 성수전략정비구역에 이어 강남 도곡우성아파트 재건축 수주를 추진 중이다. 올해 서울 주요 정비사업에서 잇따라 시공권을 확보하며 강남권 하이엔드 시장 진출을 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T14:49:47+09:00",
-    "importance": 2
+    "title": "[사설] 반복되는 건설자재난…공급망 상시 관리체계 서둘러야 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609091635397750349",
+    "description": "혼화제 원료가도 연초보다 30~40% 높지만, 건설경기 침체로 수요가 줄어 완제품 가격은 오히려 곤두박질쳐 이중고에 시달린다. 결국 원유 불안이 나프타ㆍ에틸렌ㆍ아스팔트 수급 불안으로 번져 원가 폭등과 공사 중단을...",
+    "published_at": "2026-09-10T04:20:00+09:00",
+    "cluster_id": "d756",
+    "publisher": "대한경제",
+    "title_clean": "[사설] 반복되는 건설자재난…공급망 상시 관리체계 서둘러야",
+    "summary": "건설자재 원료가가 연초 대비 30~40% 상승했으나 건설경기 침체로 수요가 감소하면서 업체들이 원가 상승과 판매 부진의 이중고를 겪고 있다. 원유 불안이 나프타·에틸렌·아스팔트 등 주요 자재의 수급 불안으로 확대되어 공사 중단까지 초래하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-10T04:36:56+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32290,22 +32306,6 @@
     "summary": "LG유플+-GS건설 등이 AI 데이터센터 수요 증가에 대응하기 위해 모듈러 데이터센터(PMDC) 표준모델 공동개발에 착수했다. 사전 제작형 모듈러 기술을 통해 건설 기간 단축 및 표준화된 데이터센터 구축이 가능할 것으로 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-09-06T10:28:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "“PMDC 표준모델 공동개발”…GS건설, 모듈러로 AI데이터센터 공기 단축 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PS0pSdVJsWVJLR1hIelBQeFE4SThmT1JWeThpWlZQV1Z1d3U3UVhudURWYkNiWkw1LXZlNnRwVVZTcXlhS1djVUk0c01PZGRaenREZHJwR0k?oc=5",
-    "description": "LG유플러스 등 5개사 협력 하이퍼스케일 PMDC 표준모델 공동개발 설계·시공·운영 등 전문역량 결집 AI데이터센터 벨류체인 확대 데이터센터 수행 경쟁력 제고",
-    "published_at": "2026-09-06T10:14:02+09:00",
-    "cluster_id": "cd36",
-    "publisher": "매일경제",
-    "title_clean": "“PMDC 표준모델 공동개발”…GS건설, 모듈러로 AI데이터센터 공기 단축",
-    "summary": "GS건설이 LG유플러스 등 5개사와 협력하여 모듈러 방식의 하이퍼스케일 PMDC(Private Multi-tenant Data Center) 표준모델을 공동개발한다. 설계·시공·운영 전문역량을 결집하여 AI데이터센터 공사 기간을 단축하고 벨류체인을 확대함으로써 건설사의 데이터센터 수행 경쟁력을 강화한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-06T10:23:02+09:00",
     "importance": 2
   }
 ]
