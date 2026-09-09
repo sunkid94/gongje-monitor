@@ -21411,6 +21411,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[e기업]BS그룹-KB금융그룹, 생산적 금융 확대ㆍ동반성장 '맞손' - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50145",
+    "description": "[건설이코노미뉴스] BS그룹과 KB금융그룹이 생산적 금융 확대 및 동반성장을 위해 맞손을 잡았다.BS그룹(비에스그룹)은 9일, 서울 송파구 문정동에 위치한 BS한양타워에서 KB금융그룹과 '생산적 금융 확대 및 동반성장을 위한 업무협약'을 체결하고, 양 그룹의 전문성과 사업 역량을 결합한 전략적 협력체계를 구축하기로 했다고 밝혔다.이번 협약식에는 ㈜BS보성(비에스보성), ㈜BS한양(비에스한양), ㈜BS산업(비에스산업) 등 BS그룹 3개사와 KB금융지주, KB국민은행, KB증권, KB자산운용, KB캐피탈 등 KB금융그룹 5개사가 참여했",
+    "published_at": "2026-09-09T16:42:39+09:00",
+    "cluster_id": "9723",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[e기업]BS그룹-KB금융그룹, 생산적 금융 확대ㆍ동반성장 '맞손'",
+    "summary": "BS그룹과 KB금융그룹이 생산적 금융 확대 및 동반성장을 위한 업무협약을 체결했다. 양 그룹이 전문성과 사업 역량을 결합하여 건설업체에 대한 금융 지원 체계를 구축하기로 했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-09T16:44:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32289,21 +32305,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-04T18:09:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "화성특례시의회 도시건설위원회 배터리 화재 안전교육 현장 방문 - 화성저널",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yV1ZxU1dLLXZtdkstMFlFSW12NnI3VERkcjZEclpoUTByQlJ1am1LWEltem1wN3VuTTVKMXNjZWlmMHROd09JME9QQTRCbzA0T0Z3M2ZwWDdzYnpnaVBGZGFJVm5fQQ?oc=5",
-    "description": "화성특례시의회(의장 이계철)의 도시건설위원회(위원장 김상균)는 4일 배터리 화재 안전교육 현장을 방문해 체험형 실습에 참여하고, 배터리 화재 발생 시 대응 절차와",
-    "published_at": "2026-09-04T17:52:37+09:00",
-    "cluster_id": "ddd0",
-    "publisher": "화성저널",
-    "title_clean": "화성특례시의회 도시건설위원회 배터리 화재 안전교육 현장 방문",
-    "summary": "화성특례시의회 도시건설위원회가 배터리 화재 안전교육 현장을 방문하여 체험형 실습을 진행하고 화재 대응 절차를 학습했다. 배터리 화재 안전에 대한 관심과 인식 제고 활동으로 보임.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-04T18:09:59+09:00",
-    "importance": 2
   }
 ]
