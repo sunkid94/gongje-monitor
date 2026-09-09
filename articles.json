@@ -21445,6 +21445,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘74명 사상’ 대전 안전공업 화재… 손주환 대표 등 6명 구속영장 기각 - fpn119.co.kr",
+    "link": "http://fpn119.co.kr/256381",
+    "description": "당초 업무상 과실치사상 혐의로 손 대표와 임직원 등 8명을 입건했던 경찰은 ‘소방시설 설치 및 관리에 관한 법률’과 ‘건설산업기본법’ 위반 등 혐의로 안전공업 임직원과 인테리어업자 6명을 추가 입건했다. 이에...",
+    "published_at": "2026-09-09T20:30:00+09:00",
+    "cluster_id": "f384",
+    "publisher": "fpn119.co.kr",
+    "title_clean": "‘74명 사상’ 대전 안전공업 화재… 손주환 대표 등 6명 구속영장 기각",
+    "summary": "대전 안전공업 화재 사고(74명 사상)와 관련해 손주환 대표 등 6명의 구속영장이 기각되었다. 경찰은 업무상 과실치사상 혐의 외 소방시설 관리 및 건설산업기본법 위반 등으로 추가 입건하며 수사를 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-09T20:46:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32290,22 +32306,6 @@
     "summary": "GS건설이 LG유플러스 등과 협력하여 모듈러 기술 기반의 사전 제작형 데이터센터(PMDC) 표준모델을 공동개발한다. AI 데이터센터 수요 증가에 대응하면서 구축 기간 단축과 시장 대응력 강화를 목표로 한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-06T09:27:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[분석] 고려아연 상반기 '수익성 압도'…동국 세아 '약진' - ferrotimes.com",
-    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=49805",
-    "description": "상반기 봉형강 내수 매출은 1조1172억 원, 후판은 4155억 원으로 건설경기 침체에도 내수 중심의 사업 구조를 유지했다. 동국씨엠은 흑자전환에 성공했다. 매출은 1조4603억 원으로 1.6% 증가했고, 영업이익은 전년...",
-    "published_at": "2026-09-06T08:42:00+09:00",
-    "cluster_id": "943c",
-    "publisher": "ferrotimes.com",
-    "title_clean": "[분석] 고려아연 상반기 '수익성 압도'…동국 세아 '약진'",
-    "summary": "고려아연이 상반기 수익성으로 강세를 보인 반면, 건설경기 침체 속에서도 봉형강·후판 등 내수 중심 사업 구조를 유지했다. 동국씨엠은 매출 증가와 함께 흑자전환에 성공하며 건설사들의 실적 회복세를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-06T08:57:43+09:00",
     "importance": 2
   }
 ]
