@@ -21394,6 +21394,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "세종･충남도회, 박정주 홍성군수와 간담회 개최 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326368",
+    "description": "대한전문건설협회 세종시·충남도회(회장 김종언)는 9일 홍성군청을 방문해 박정주 군수와 간담회를 갖고 지역건설경기 활성화를 위한 방안을 모색했다.이날 간담회에는 김종언 회장을 비롯해 김봉환 수석부회장, 윤현기 홍성군 지역위원장 등이 참석했다.김종언 회장은 “취임을 진심으로 축하드린다”며 “종합 대 종합 간 하도급 금지, 4억원 미만 종합공사 발주 시 2개 전문업종으로 제한 발주해 줄 것”을 건의했다.이어 “지역전문건설업 활성화를 위해 많은 관심과 협조를 당부한다”고 말했다.박정주 군수는 “지역건설경기가 살아야 지역경제도 살아날 수 있",
+    "published_at": "2026-09-09T15:53:48+09:00",
+    "cluster_id": "85fb",
+    "publisher": "대한전문건설신문",
+    "title_clean": "세종･충남도회, 박정주 홍성군수와 간담회 개최",
+    "summary": "대한전문건설협회 세종시·충남도회가 박정주 홍성군수와 간담회를 개최하여 지역건설경기 활성화 방안을 논의했다. 협회는 종합 대 종합 하도급 금지와 소규모 공사의 전문업종 제한 발주를 건의하며 지역 전문건설업 활성화를 촉구했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-09T16:02:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-04T17:34:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국농어촌공사 나주지사, 건설현장 사고예방 체험형 안전교육 - 뉴데일리",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Kd1pjRDhCR0tFZE1zdl9zbURwX2psb1FNTVV5eWNmUU5uWXFZVEhoWEJ1WFFVSWc1VEVONzI2QUhScWM2OGRkQlNXUmp5TDJyX3BzaUt4TTN3WGJTMnY3NTNFTE8tN2R6NzllbEhrTWIydHJtX3JhYzVn0gF_QVVfeXFMTnJpeThTTW93SmlFOXIzOVdxYjdObzRpZzVkNnFMSTFDZElRdGRyYmowSjAzWU9MUGxrQ2loNDl1U05KOU41eVFmLUY5VHF6V1piSDBCWDBvdWJremtod1IzOWNYRnRwcUthaEFFRmUxbmtfZTJkVXg3ZUhlbDVJYw?oc=5",
-    "description": "한국농어촌공사 나주지사가 농어촌 생산기반 정비와 지역개발 건설현장에서 발생할 수 있는 사고를 줄이기 위해 이론 위주의 교육에서 벗어나 실제 작업 상황을 직접 경험하는 체험형 안전교육을 강화하고 있다.한국농어촌공사 나주지사(지사장 류화열)는 4일 현장대리인과 안전관리 담당자 등 약 20명을 대상으로 건설공사 사고 예방과 현장 대응능력 향상을 위한 안전교육을 실시했다고 밝혔다. 이번 교육은 작업자들이 안전수칙을 영상이나 설명으로 접하는 데 그치지 ...",
-    "published_at": "2026-09-04T16:41:08+09:00",
-    "cluster_id": "4116",
-    "publisher": "뉴데일리",
-    "title_clean": "한국농어촌공사 나주지사, 건설현장 사고예방 체험형 안전교육",
-    "summary": "한국농어촌공사 나주지사가 건설현장 안전사고 예방을 위해 체험형 안전교육을 강화하고 있다. 현장대리인과 안전관리 담당자 등을 대상으로 실제 작업 상황 중심의 교육을 실시하여 현장 대응능력을 향상시키고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-04T17:34:41+09:00",
-    "importance": 2
   }
 ]
