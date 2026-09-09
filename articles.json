@@ -5445,6 +5445,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"아직 찾지 못했는데 철수라니\"…네팔 실종자 가족들, 정부에 수색 중단... - ngonews.kr",
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=237706",
+    "description": "당시 현장에 있던 두산에너빌리티 소속 한국인 직원 6명과 남동발전 직원 3명 등 모두 9명이 실종됐다. 수색 작업이 종료 단계에 접어들면서 실종자 가족들은 \"아직 생사조차 확인하지 못한 상황에서 수색을 끝내서는 안...",
+    "published_at": "2026-09-09T22:34:00+09:00",
+    "cluster_id": "c5a7",
+    "publisher": "ngonews.kr",
+    "title_clean": "\"아직 찾지 못했는데 철수라니\"…네팔 실종자 가족들, 정부에 수색 중단...",
+    "summary": "네팔에서 수력발전소 건설 현장의 산사태로 두산에너빌리티와 남동발전 직원 9명이 실종된 사건으로, 수색 작업 종료 단계에서 가족들이 생사 확인 전 수색 중단에 반발하고 있다. 건설 현장의 안전 관리 및 대응 체계의 문제가 드러나는 심각한 사고 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-09T22:51:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21424,22 +21440,6 @@
     "publisher": "sedaily.com",
     "title_clean": "대우건설, 신월시영 재건축에 특화 정원만 8곳 제안",
     "summary": "대우건설이 미국 조경·도시설계 전문그룹 스토스와 협력하여 서울 양천구 신월시영아파트 재건축사업 수주를 추진 중입니다. '신월8경'을 콘셉트로 한 정원 8곳 등 차별화된 설계안을 제시하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T14:39:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 신월시영아파트 재건축 수주 노린다 [건설·분양오늘] - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204084",
-    "description": "대우건설이 서울 양천구 신월시영아파트 재건축 사업 수주를 위해 글로벌 조경·도시 설계 전문그룹 STOSS와 협업한다고 3일 밝혔다. STOSS는 지난 2001년 미국 보스턴에서 설립된 조경·도시 설계 전문그룹이다....",
-    "published_at": "2026-09-03T14:32:00+09:00",
-    "cluster_id": "2b0e",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "대우건설, 신월시영아파트 재건축 수주 노린다 [건설·분양오늘]",
-    "summary": "대우건설이 서울 양천구 신월시영아파트 재건축 사업 수주를 목표로 글로벌 조경·도시 설계 전문그룹 STOSS와 협업을 시작했다. 국제적 전문 설계 역량을 확보해 재건축 프로젝트 수주 경쟁력을 강화하는 전략으로 보인다.",
     "sentiment": "positive",
     "collected_at": "2026-09-03T14:39:33+09:00",
     "importance": 2
