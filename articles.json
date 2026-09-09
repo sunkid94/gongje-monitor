@@ -5343,6 +5343,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "회사명 떼고 브랜드 달다…아파트 시장을 바꾼 '이름' [옛날신문보기] - sisaon.co.kr",
+    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204204",
+    "description": "'강남 재건축 신흥 강자인 반포동에 깃발을 꽂아라.' 서울 서초구 반포동 노른자 재건축 단지 중 하나인 삼호가든3차 시공사 선정을 놓고 대림산업과 롯데건설, 현대건설이 피 튀기는 수주 경쟁을 펼치게 됐다. (중략)...",
+    "published_at": "2026-09-09T09:00:00+09:00",
+    "cluster_id": "a2fd",
+    "publisher": "sisaon.co.kr",
+    "title_clean": "회사명 떼고 브랜드 달다…아파트 시장을 바꾼 '이름' [옛날신문보기]",
+    "summary": "서울 서초구 반포동의 삼호가든3차 재건축 단지 시공사 선정을 둘러싸고 대림산업, 롯데건설, 현대건설이 수주 경쟁을 벌이고 있다. 강남 재건축 시장에서 경쟁이 심화되고 있는 상황을 다루고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-09T10:01:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21324,22 +21340,6 @@
     "summary": "대우건설이 미국 건축설계사 STOSS와 협업하여 신월시영아파트 재건축 프로젝트의 설계를 진행 중이며, '신월8경'이라는 랜드마크 조성 방안을 제안했다. 국제 수준의 설계로 재건축 프로젝트 수주를 확보한 것으로 보인다.",
     "sentiment": "positive",
     "collected_at": "2026-09-03T08:59:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성SDS, RX 본격화…미국서 'RX ART 2026' 개최 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026090308333345644",
-    "description": "삼성중공업과 삼성E&A의 조선·플랜트 현장처럼 비정형적이고 거친 야외 환경 작업에는 로보포스의 피지컬 AI 기반 로봇 노동 기술을 적용해 로봇 자동화 가능성을 확인했다. 아울러 삼성디스플레이와 같이 고도의...",
-    "published_at": "2026-09-03T08:42:00+09:00",
-    "cluster_id": "dd07",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "삼성SDS, RX 본격화…미국서 'RX ART 2026' 개최",
-    "summary": "삼성SDS가 미국에서 'RX ART 2026'을 개최하며 로보포스의 피지컬 AI 기반 로봇 기술을 조선·플랜트 등 비정형 야외 환경 작업에 적용하고 있다. 삼성의 계열사들과 협력하여 로봇 자동화 가능성을 확인하고 있으며, 이는 건설·플랜트 산업의 자동화 솔루션 확대를 시사한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T08:49:32+09:00",
     "importance": 2
   },
   {
