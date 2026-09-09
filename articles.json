@@ -21394,6 +21394,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "외국인노동자 임금 1548억원 떼였다···건설·제조·영세사업장에 피해 집중 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326362",
+    "description": "외국인노동자에 대한 임금체불이 급증하고 있는 것으로 나타났다. 특히 건설업과 제조업, 30인 미만 영세사업장에 피해가 집중돼 정부의 선제적 근로감독과 피해구제 대책이 시급하다는 지적이다.국회 기후에너지환경노동위원회 소속 더불어민주당 신정훈 국회의원<사진>이 고용노동부로부터 제출받은 자료에 따르면, 2025년 외국인노동자 임금체불 피해자는 3만684명으로 2024년 2만2648명보다 8036명(35.5%) 증가했다. 체불액은 같은 기간 1078억원에서 1548억원으로 470억원(43.6%) 급증했다.내국인을 포함한 전체 임금체불액이",
+    "published_at": "2026-09-09T16:01:00+09:00",
+    "cluster_id": "2701",
+    "publisher": "대한전문건설신문",
+    "title_clean": "외국인노동자 임금 1548억원 떼였다···건설·제조·영세사업장에 피해 집중",
+    "summary": "외국인노동자 임금체불이 2025년 1548억원으로 전년 대비 43.6% 급증했으며, 건설업과 제조업, 30인 미만 영세사업장에 피해가 집중되고 있다. 정부의 선제적 근로감독과 피해구제 대책 강화가 필요한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-09T16:04:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32287,22 +32303,6 @@
     "summary": "현대건설이 시공 중인 울산 샤힌 에틸렌시설 건설공사 현장에서 노동자 1명이 추락으로 사망하는 중대재해가 발생했다. 뿜칠 작업 지원 중 안전난간대 내측에서 발생한 사고로, 건설업계의 안전관리 문제를 드러냈다.",
     "sentiment": "negative",
     "collected_at": "2026-09-04T17:49:46+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "기약없는 TK신공항건설추진단장 인선…2개월째 공석 - 매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iWmEzM3NlWG9KM1BjV08zS2FOLVJNZ0h0ZlJ2TkpoeDV6UnZOSHdZY211dzczejB4TDZCQkFlSnQ4Z3p3SWF1VVphWEFqWS1QekpsNkdVR0lLSGhWM2FBSWtR?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iWmEzM3NlWG9KM1BjV08zS2FOLVJNZ0h0ZlJ2TkpoeDV6UnZOSHdZY211dzczejB4TDZCQkFlSnQ4Z3p3SWF1VVphWEFqWS1QekpsNkdVR0lLSGhWM2FBSWtR?oc=5\" target=\"_blank\">기약없는 TK신공항건설추진단장 인선…2개월째 공석</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-    "published_at": "2026-09-04T17:22:23+09:00",
-    "cluster_id": "91fd",
-    "publisher": "매일신문",
-    "title_clean": "기약없는 TK신공항건설추진단장 인선…2개월째 공석",
-    "summary": "TK신공항건설추진단장 인선이 2개월째 공석 상태로 있어 사업 추진이 지연되고 있다. 단장 결정 시점이 불명확하면서 건설사업 일정에 차질이 우려되는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-04T17:34:41+09:00",
     "importance": 4
   }
 ]
