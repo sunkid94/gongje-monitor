@@ -5445,6 +5445,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "천문학적 자금 투입 한·미 ‘원전 빅딜’ 기대·우려 교차 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010671&cp=nv",
+    "description": "APR1400 건설 시 두산에너빌리티와 한전기술 등 국내 원전기업들은 1기당 수조원 규모의 수주가 예상된다. 8기 중 6기 이상이 미국 AP1000 노형으로 채워지면 국내 원전 생태계에 미치는 낙수효과는 크지 않을 수 있다는...",
+    "published_at": "2026-09-10T00:17:00+09:00",
+    "cluster_id": "7800",
+    "publisher": "kmib.co.kr",
+    "title_clean": "천문학적 자금 투입 한·미 ‘원전 빅딜’ 기대·우려 교차",
+    "summary": "한·미 원전 협력으로 APR1400 건설 시 국내 원전기업들의 수조원 규모 수주가 예상되나, 미국 AP1000 노형이 주도될 경우 국내 원전 생태계의 낙수효과가 제한될 수 있다는 우려가 제기되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-10T00:27:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21429,20 +21445,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "1.5조 계약 수주에 한화오션 7% 급등…조선주 ‘강세’ [코주부] - sedaily.com",
-    "link": "https://www.sedaily.com/article/20086786?ref=naver",
-    "description": "삼성중공업(010140)은 9.33% 상승한 2만 1800원으로 조선 대형주 가운데 상승 폭이 가장 크다. HD한국조선해양(009540)(5.31%), HD현대중공업(329180)(4.38%), HD현대(267250)(2.86%) 등 HD현대 계열도 동반 강세다. 한화엔진(082740)...",
-    "published_at": "2026-09-03T14:17:00+09:00",
-    "cluster_id": "7550",
-    "publisher": "sedaily.com",
-    "title_clean": "1.5조 계약 수주에 한화오션 7% 급등…조선주 ‘강세’ [코주부]",
-    "summary": "한화오션이 1.5조 규모의 대형 계약을 수주하면서 조선업계 전반에 긍정적 영향을 미쳤다. 삼성중공업, HD현대 계열사 등 주요 조선사들이 동반 상승세를 보이며 업계의 수주 호황을 반영했다.",
+    "title": "우 지사, 강원 건설수주 확대 직접 챙긴다 - kado.net",
+    "link": "https://www.kado.net/news/articleView.html?idxno=2071716",
+    "description": "도는 이처럼 늘어나는 공공 건설물량을 지역업체 수주로 연결하는 것이 지역 건설경기 회복의 관건이라고 보고 있다. 현장에서는 공공·토목 중심의 수주 증가가 지역업체의 실질적인 일감 확대로 이어지지 않고...",
+    "published_at": "2026-09-10T00:07:00+09:00",
+    "cluster_id": "f43a",
+    "publisher": "kado.net",
+    "title_clean": "우 지사, 강원 건설수주 확대 직접 챙긴다",
+    "summary": "강원도지사가 증가하는 공공 건설물량을 지역업체 수주로 연결하려는 정책을 직접 추진하고 있다. 현재 공공·토목 중심의 수주 증가가 지역업체의 실질적인 일감 확대로 이어지지 못하는 문제를 해결하려는 노력이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-03T14:39:33+09:00",
-    "importance": 3
+    "collected_at": "2026-09-10T00:27:05+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32290,22 +32306,6 @@
     "summary": "LG유플러스가 GS건설 등 4개 기업과 함께 사전제작형 모듈러 데이터센터 표준모델을 개발하여 AI 데이터센터 구축 기간을 단축한다. 이는 건설업계에 AI 인프라 관련 신규 수주 기회를 창출하는 호재로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-09-06T10:08:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 맞손 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRDN1Z0FsbnBraHRCSUJvZmNBNW5FdkRpdXIxOURKVWZIdzFDQk1lTlRrdm9jTVRfT1Vpa3hCbW5lUGN4aFdRdnRhR19VWlc5QldBV05FZFAycTDSAWBBVV95cUxPdW1OYmxoMlZFSEhhemxQVXNZYU1FQkU0b2lkd1hySFN1cWxWcGlSekl3aWFjSWdpMm5yTHVJanVvWmZCazRZZGp2OWlvM0NyZW9JVVRrQ3V5U2MxVkgxUXU?oc=5",
-    "description": "(서울=연합뉴스) 임기창 기자 = GS건설이 인공지능(AI) 데이터센터 수요 급증에 대응하고자 관련 업계와 함께 모듈러 기술을 접목한 사전 제작...",
-    "published_at": "2026-09-06T09:27:21+09:00",
-    "cluster_id": "b628",
-    "publisher": "연합뉴스",
-    "title_clean": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 맞손",
-    "summary": "GS건설과 LGU+ 등이 AI 데이터센터 수요 증가에 대응하기 위해 모듈러 기술을 적용한 표준모델을 공동개발하고 있다. 이는 건설업계에 새로운 사업 기회와 시장 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-06T09:42:56+09:00",
     "importance": 2
   }
 ]
