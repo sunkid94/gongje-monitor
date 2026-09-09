@@ -21448,6 +21448,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[TN 현장] 이성권 의원, 지방 부동산 위기 해법 토론회 개최...\"수도권과... - ntoday.co.kr",
+    "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=129274",
+    "description": "이날 토론회는 지방 부동산과 주택시장이 수도권과 달리 미분양, 거래절벽, 건설경기 침체 등이 악순환되며 사실상 고사 위기에 직면하고 있다는 문제의식을 바탕으로 진행됐다. 토론회 시작에 앞서 \"지방 부동산 미분양...",
+    "published_at": "2026-09-10T00:26:00+09:00",
+    "cluster_id": "4236",
+    "publisher": "ntoday.co.kr",
+    "title_clean": "[TN 현장] 이성권 의원, 지방 부동산 위기 해법 토론회 개최...\"수도권과...",
+    "summary": "이성권 의원이 지방 부동산 위기를 다루는 토론회를 개최했다. 지방은 미분양, 거래절벽, 건설경기 침체 등으로 악순환되고 있으며, 수도권과 달리 시장 위기에 직면한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-10T00:42:00+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "우 지사, 강원 건설수주 확대 직접 챙긴다 - kado.net",
     "link": "https://www.kado.net/news/articleView.html?idxno=2071716",
     "description": "도는 이처럼 늘어나는 공공 건설물량을 지역업체 수주로 연결하는 것이 지역 건설경기 회복의 관건이라고 보고 있다. 현장에서는 공공·토목 중심의 수주 증가가 지역업체의 실질적인 일감 확대로 이어지지 않고...",
@@ -32290,22 +32306,6 @@
     "summary": "GS건설이 LG유플러스 등 5개사와 협력하여 모듈러 방식의 하이퍼스케일 PMDC(Private Multi-tenant Data Center) 표준모델을 공동개발한다. 설계·시공·운영 전문역량을 결집하여 AI데이터센터 공사 기간을 단축하고 벨류체인을 확대함으로써 건설사의 데이터센터 수행 경쟁력을 강화한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-06T10:23:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LG유플러스·GS건설 등 5개사, 모듈형 AI 데이터센터 표준 개발 - 시사포커스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50UUNBTWhHUElzRHFadE1EUV93MTNKeXJldXBybkR3V0tIOWFyVThpWlFUOHBqdDZWdG9YeTNDX1hLN3kwRnUxUk1ZUVZXazFyVktNVmJTMzd6X1hxdGFwUGhoWk5JSXVGbWtKcmZR?oc=5",
-    "description": "[시사포커스 / 이혜영 기자] LG유플러스가 GS건설 등 4개 기업과 사전제작형 모듈러 데이터센터 표준모델을 개발해 인공지능(AI) 데이터센터의 구축 기간 단축에 나선다.LG유플러스는 지난 4일 경기 안양시 평촌메가센터에서 GS건설, 자이C&A, 간삼건축, D&O CM과",
-    "published_at": "2026-09-06T09:49:21+09:00",
-    "cluster_id": "9484",
-    "publisher": "시사포커스",
-    "title_clean": "LG유플러스·GS건설 등 5개사, 모듈형 AI 데이터센터 표준 개발",
-    "summary": "LG유플러스가 GS건설 등 4개 기업과 함께 사전제작형 모듈러 데이터센터 표준모델을 개발하여 AI 데이터센터 구축 기간을 단축한다. 이는 건설업계에 AI 인프라 관련 신규 수주 기회를 창출하는 호재로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-06T10:08:08+09:00",
     "importance": 2
   }
 ]
