@@ -21483,6 +21483,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "9월 1주 아파트 매매가 0.08%↑·전세가 0.10%↑ - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37274",
+    "description": "한국부동산원)이 2026년 9월 1주(9월 7일 기준) 전국 주간 아파트가격 동향을 조사한 결과, 매매가격지수는 0.08% 상승, 전세가격지수는 0.10% 상승을 기록했다고 밝혔다. 전국 주간 아파트 매매가격지수는 지난주 대비 0.08% 상승했다. 수도권(0.16%), 서울(0.20%) 및 지방(0.01%)은 상승했다.(4대광역시(0.01%), 세종(-0.02%), 전남광주(0.03%), 7개도(0.01%))시도별로는 경기(0.17%), 충북(0.06%), 전북(0.05%), 대전(0.04%), 울산(0.04%) 등은 상승, 대구(",
+    "published_at": "2026-09-10T14:00:00+09:00",
+    "cluster_id": "7d96",
+    "publisher": "한국건설신문",
+    "title_clean": "9월 1주 아파트 매매가 0.08%↑·전세가 0.10%↑",
+    "summary": "2026년 9월 1주 전국 아파트 매매가격지수는 0.08% 상승, 전세가격지수는 0.10% 상승했다. 수도권과 서울이 상대적으로 높은 상승률을 보였으며, 지방은 소폭 상승했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-10T14:03:32+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "쌍용건설, AI로 건설현장 안전관리 고도화 - koreaittimes.com",
     "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156994",
     "description": "AI 변역 블루투스 스피커를 이용해 외국인 근로자에게 작업을 지시하는 모습/ 쌍용건설 제공 쌍용건설이 건설현장의 안전관리 방식을 사후 확인 중심에서 실시간 위험 감지와 선제 대응 중심으로 전환하고 있다....",
@@ -32293,22 +32309,6 @@
     "summary": "GS건설이 AI 데이터센터 수요 증가에 대응하기 위해 사전 제작 모듈러 기술을 개발했다. 이는 공급 속도를 높여 건설업계의 신규 수주 기회 확대로 작용할 것으로 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-09-07T07:39:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "AI 인프라 대란 정면 돌파…LG유플러스·건설업계, 모듈러 데이터센터 동맹 결성 - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQXEwOVZCcll5Q0ZLTmUxNUVHUDlUT0ZDbU9xTWdocFM4NWFhb1FPQzdwTEVnV3dJVnEzNjlLSndja1llMG5EaVdjOHRiUWVLbGljbl8wQ2hCNGIySmpFdEdrWHBkNDY0WFJ2M2NLb0_SAXRBVV95cUxQaU44aXhTSURpcjduU1dYNG5JcjhoVl9UZVFxX2lYcFJVeDVBMnhnRDJyRzY3ZHAwMlJ2Z1Y4MVlGdEhrYkl4VUwtN3dwMmhGaWd0bnBsbGViRlFfeXRJMjUxZkhCLW9DMVZfdWRtVXVVQTlJUQ?oc=5",
-    "description": "[더페어] 최준규 기자 = 모듈형 데이터센터(PMDC) 표준모델 확보를 목표로 국내 주요 건설·건축·통신 기업들이 대규모 동맹을 결성했다.LG유플러스는 GS건설, 자이C&A, 간삼건축, D&O CM 등과 손잡고 AI 데이터센터(AIDC) 구축 기간을 획기적으로 줄이기 위한 ‘PMDC",
-    "published_at": "2026-09-06T09:16:44+09:00",
-    "cluster_id": "66fe",
-    "publisher": "thefairnews.co.kr",
-    "title_clean": "AI 인프라 대란 정면 돌파…LG유플러스·건설업계, 모듈러 데이터센터 동맹 결성",
-    "summary": "LG유플러스가 GS건설, 자이C&A, 간삼건축 등 주요 건설사와 손잡고 모듈형 데이터센터(PMDC) 표준모델 개발 동맹을 결성했다. AI 데이터센터 구축 기간을 대폭 단축하고 표준화를 추진하는 사업으로, 건설업계에 새로운 수주 기회를 창출할 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T07:13:46+09:00",
     "importance": 2
   }
 ]
