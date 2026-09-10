@@ -5684,6 +5684,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대건설, 해외수주 1위 질주…하반기 ‘원전’이 K건설 반등 이끈다 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=202609110809431145ea13369bfa_1",
+    "description": "삼성중공업이 28억8058만 달러, 두산에너빌리티가 15억8367만 달러로 뒤를 이었다. 현대건설은 특히 원전과 에너지, 인프라 등 대규모 프로젝트에서 쌓은 사업 경험으로 해외시장에서 경쟁력을 발휘하고 있다는 평가다....",
+    "published_at": "2026-09-11T08:22:00+09:00",
+    "cluster_id": "ef6d",
+    "publisher": "",
+    "title_clean": "현대건설, 해외수주 1위 질주…하반기 ‘원전’이 K건설 반등 이끈다 - g-enews.com",
+    "summary": "현대건설이 해외수주에서 1위를 기록하며 건설업계를 주도하고 있으며, 원전과 에너지, 인프라 등 대규모 프로젝트 경험으로 국제 경쟁력을 확보했다. 하반기 원전 수주를 중심으로 한국 건설업계의 반등이 예상되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T08:34:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21668,19 +21684,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 4002억 규모 도곡우성아파트 재건축 수주 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2362382.htm",
-    "description": "올해 도시정비사업 4조원 돌파 롯데건설이 서울 강남구 도곡우성아파트 재건축 시공권을 따냈다. 이번 수주로 올해 도시정비사업 6건, 누적 수주액 총 4조110억원을 달성했다. 롯데건설은 지난 5일 서울 강남구...",
-    "published_at": "2026-09-06T10:31:00+09:00",
-    "cluster_id": "6134",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "롯데건설, 4002억 규모 도곡우성아파트 재건축 수주",
-    "summary": "롯데건설이 서울 강남구 도곡우성아파트 재건축 사업 4002억 규모의 시공권을 수주했다. 이로써 올해 도시정비사업 누적 수주액이 4조110억원에 도달하며 업계의 강한 수주 실적을 보여주고 있다.",
+    "title": "[당진소식] 전문건설업계와 지역건설산업 활성화 논의 외 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1405048",
+    "description": "김기재 시장은 건설경기 활성화가 지역업체 경영 안정과 일자리 창출에 중요하다고 강조했다. 앞으로도 협회와 지속적으로 소통하며 지역건설산업 활성화를 지원할 방침이다. 투자협약 체결 모습. 사진=당진시 제공...",
+    "published_at": "2026-09-11T08:18:00+09:00",
+    "cluster_id": "3b39",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "[당진소식] 전문건설업계와 지역건설산업 활성화 논의 외",
+    "summary": "당진시장이 건설경기 활성화가 지역업체 경영안정과 일자리 창출에 중요하다고 강조하며 전문건설업계와의 협력을 약속했다. 시는 협회와 지속적으로 소통하면서 지역건설산업 활성화를 지원할 방침을 밝혔다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-06T10:38:17+09:00",
+    "collected_at": "2026-09-11T08:34:45+09:00",
     "importance": 2
   },
   {
@@ -32306,21 +32322,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-07T15:40:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "임춘대 서울시의원, 상반기 소진된 안전예산 및 공공공사 고비용 구조 질타 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wcVh5VnZIRnFaZnhZOFprTmYyUE94QU5CUVJaMTItQTk5R0l3bU11cU1vY0h1ZWtjdUhMZVpDSnpPWFN2c3E4X19EZVNKNndLZzJ3?oc=5",
-    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : [서울신문]서울시의회 임춘대 의원(국민의힘·송파3)은 지난 4일 제339회 임시회 도시안전건설위원회에서 건설기술정책관과 도시기반시설본부의 제2회 추가경정예산안 및 업무보고를 심사하며 건설안전 예산과 공공공사 비용관리 체계 개선을 촉구했다. 임 의원은",
-    "published_at": "2026-09-07T15:19:00+09:00",
-    "cluster_id": "33c3",
-    "publisher": "네이트",
-    "title_clean": "임춘대 서울시의원, 상반기 소진된 안전예산 및 공공공사 고비용 구조 질타",
-    "summary": "서울시의원 임춘대가 상반기 안전예산 소진 및 공공공사 고비용 구조에 대해 질타하며 비용관리 체계 개선을 촉구했다. 건설안전 예산 운영과 공공공사 비용 투명성 강화가 주요 쟁점이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-07T15:40:32+09:00",
-    "importance": 4
   }
 ]
