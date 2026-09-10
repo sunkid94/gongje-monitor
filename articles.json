@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비협회-LH, 공공주택 품질·안전 혁신 위해 '맞손' - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51769",
+    "description": "상생협의체 제1차 간담회 개최…적정 공사비 반영·물가변동 대응 강화 논의 주계약자공동도급 방식 운영 따른 자재 품질 강화·준공 후 관리 역량 강화 대한기계설비건설협회(회장 허용주)와 한국토지주택공사(LH)가...",
+    "published_at": "2026-09-10T18:28:00+09:00",
+    "cluster_id": "2196",
+    "publisher": "기계설비신문",
+    "title_clean": "기계설비협회-LH, 공공주택 품질·안전 혁신 위해 '맞손'",
+    "summary": "대한기계설비건설협회와 LH가 상생협의체를 구성하여 공공주택의 품질·안전 혁신을 추진한다. 적정 공사비 반영, 물가변동 대응, 자재 품질 강화 등을 협력하기로 합의했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-10T18:45:03+09:00",
+    "event_label": "대한기계설비건설협회 LH와 상생협의체 구성, 공공주택 품질·안전 혁신 협력",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32303,21 +32320,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-07T15:01:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 스마트건설 우수기술 4곳 선정 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484632",
-    "description": "올해로 6회째인 이번 공모전은 'Construction, Reimagined'를 주제로 신기술·신공법과 함께 AI, 빅데이터, IT 플랫폼, 드론, IoT, 센서, BIM 등 스마트 건설 기술(DX·AX)을 대상으로 진행됐다. 총 114건의 기술 제안이 접수됐으며...",
-    "published_at": "2026-09-07T14:54:00+09:00",
-    "cluster_id": "eebd",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "IPARK현대산업개발, 스마트건설 우수기술 4곳 선정",
-    "summary": "현대산업개발이 'Construction, Reimagined'를 주제로 제6회 스마트건설 공모전을 개최하여 AI, 빅데이터, 드론, IoT, BIM 등 첨단 기술 114건 중 우수기술 4곳을 선정했다. 건설업의 디지털 전환과 기술혁신을 주도하는 산업 발전 사례를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T15:01:00+09:00",
-    "importance": 2
   }
 ]
