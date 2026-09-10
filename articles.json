@@ -21650,6 +21650,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "오피스 줄이는 건설사…건설경기 침체에 비용 절감 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260910_0003784856",
+    "description": "장기간 건설경기 침체가 이어지는 만큼 임대료 등 비용을 절감하려는 시도다. 11일 쿠시먼앤드웨이크필드 코리아가 발간한 '2026 서울 오피스 임차사 업종 변화 보고서'에 따르면 서울 시내 건설개발업 오피스 임차사는...",
+    "published_at": "2026-09-11T04:00:00+09:00",
+    "cluster_id": "0327",
+    "publisher": "newsis.com",
+    "title_clean": "오피스 줄이는 건설사…건설경기 침체에 비용 절감",
+    "summary": "건설경기 침체가 장기화되면서 건설사들이 오피스 임차료 등 비용 절감에 나서고 있다. 서울 시내 건설개발업체의 오피스 임차 현황이 변화하는 추세를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-11T04:15:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32304,21 +32320,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-07T15:30:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "‘2026 IPARK 기술제안 공모전’ 우수기술 4곳 선정 - 뉴스웰",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96MWVyY0hPMTBPZWdZNThrVnlTcVdMaWh5TGtsbzBhaE5TR1FqS2tGV2s4aVIwNGhGamtVOTh2WkVYNC1oRWYtSEtEYzhDcWliRzdFVzdYdDdDdEhaakM3TnEtU1VIYWNhWWlCMQ?oc=5",
-    "description": "IPARK현대산업개발이 중소기업과의 상생 협력을 강화하고 미래 건설산업을 선도할 우수기술을 발굴하기 위해 마련한 2026 IPARK 기술제안 공모전의 우수기술을 선정하고 4일 포니정 홀에서 시상식을 개최했다.올해로 6회째를 맞은 이번 공모전은 Construction, Reimagined를 주제로 신기술·신공법을 비롯해 AI, 빅데이터, IT 플랫폼, 드론, IoT, 센서, BIM 등 스마트 건설 기술(DX·AX) 분야를 대상으로 진행됐다. 총 114건의 기술 제안이 접수됐으며, 서류심사와 최종 PT 심사를 거쳐 대상 1개 기업, 최",
-    "published_at": "2026-09-07T14:59:56+09:00",
-    "cluster_id": "34bc",
-    "publisher": "뉴스웰",
-    "title_clean": "‘2026 IPARK 기술제안 공모전’ 우수기술 4곳 선정",
-    "summary": "현대산업개발이 '2026 IPARK 기술제안 공모전'을 통해 114건의 기술 제안 중 우수기술 4곳을 선정하고 시상식을 개최했다. AI, 빅데이터, 드론, IoT 등 스마트 건설 기술 분야의 혁신적 기술을 발굴하여 중소기업과의 상생 협력을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T15:30:51+09:00",
-    "importance": 2
   }
 ]
