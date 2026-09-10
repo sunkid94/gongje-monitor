@@ -5650,6 +5650,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[9월11일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=446956",
+    "description": "[현장] 삼성중공업도 임단협 파열음, 노측 \"삼성그룹이 직접 교섭에 임해라\" ● 우리금융지주 과점주주 체제 나날이 희석, 임종룡 2기 이사회 '균형잡기' 과제 ● [821조 슈퍼예산⑦] 정부 AI 데이터센터 판 키운다...",
+    "published_at": "2026-09-10T20:54:00+09:00",
+    "cluster_id": "1bd6",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[9월11일자] 비즈니스포스트 아침의 주요기사",
+    "summary": "삼성중공업 임단협 결렬로 노사 갈등이 심화되고 있으며, 정부의 AI 데이터센터 투자 확대 계획이 추진 중이다. 건설·기계설비 업계는 노사분쟁 리스크와 데이터센터 수주 기회라는 양면적 상황에 직면해 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-10T21:05:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21629,22 +21645,6 @@
     "publisher": "ebn.co.kr",
     "title_clean": "강남 도곡우성에 '르엘' 깃발…롯데건설, 도시정비사업 4조원 돌파",
     "summary": "롯데건설이 서울 강남구 도곡우성아파트 재건축정비사업을 수주하며 올해 도시정비사업 누적 수주액 4조원을 돌파했다. 대규모 프로젝트 수주로 건설사의 브랜드 경쟁력과 시장 수요를 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-06T09:58:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'도곡 르엘' 품은 롯데건설, 올해 도시정비 누적 수주 4조원 고지 돌파 - thefairnews.co.kr",
-    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=87200",
-    "description": "롯데건설이 서울 강남권 핵심 사업지를 추가로 확보하며 올해 도시정비사업 누적 수주액 4조 원을 넘어섰다. 롯데건설은 지난 5일 서울 강남구 대치중학교 강당에서 개최된 '도곡우성아파트 재건축정비사업' 조합원...",
-    "published_at": "2026-09-06T09:54:00+09:00",
-    "cluster_id": "9c3d",
-    "publisher": "thefairnews.co.kr",
-    "title_clean": "'도곡 르엘' 품은 롯데건설, 올해 도시정비 누적 수주 4조원 고지 돌파",
-    "summary": "롯데건설이 도곡우성아파트 재건축정비사업을 추가 수주하며 올해 도시정비사업 누적 수주액 4조 원을 돌파했다. 강남권 핵심 사업지 확보로 도시정비사업 포트폴리오를 강화하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-06T09:58:13+09:00",
     "importance": 2
