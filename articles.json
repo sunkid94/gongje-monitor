@@ -21650,6 +21650,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "창원 북면 주민 숙원 ‘국도79호선 확장’ 또 좌절 - knnews.co.kr",
+    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1550615",
+    "description": "교통량 증가에 따른 6차로 확장 필요성이 제기됐지만 국토교통부 건설계획에는 반영되지 못했다. 흰색 점선으로 표시된 곳은 잦은 정체로 교통 사고 위험 구간이다./김승권 기자/ 창원시는 △국도79호선(동정~북면, 7.9...",
+    "published_at": "2026-09-10T20:18:00+09:00",
+    "cluster_id": "6ec1",
+    "publisher": "knnews.co.kr",
+    "title_clean": "창원 북면 주민 숙원 ‘국도79호선 확장’ 또 좌절",
+    "summary": "창원 북면의 국도79호선 6차로 확장 사업이 국토교통부 건설계획에 반영되지 못하며 주민 숙원이 다시 좌절됐다. 교통량 증가에 따른 확장 필요성이 제기됐으나 예산 승인이 이루어지지 않았다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-10T20:45:09+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "실리콘 살아났지만 건설은 아직…KCC, 하반기도 '사업별 온도차' - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=349809",
+    "description": "반면 건자재는 국내 건설경기 침체가 이어지면서 수요 회복이 더딘 상황이다. 도료 역시 자동차·조선 등 전방산업 수요와 원재료 가격 변동이 변수로 꼽힌다. 실적에서도 사업별 온도차가 나타났다. KCC는 올해 2분기...",
+    "published_at": "2026-09-10T20:28:00+09:00",
+    "cluster_id": "be71",
+    "publisher": "greened.kr",
+    "title_clean": "실리콘 살아났지만 건설은 아직…KCC, 하반기도 '사업별 온도차'",
+    "summary": "KCC는 반도체 소재인 실리콘 사업의 회복세를 보이고 있으나, 국내 건설경기 침체로 건자재 수요 회복이 부진하고 도료도 전방산업 수요 변동성에 영향을 받고 있다. 사업 부문별로 실적의 온도차가 나타나고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-10T20:45:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32287,38 +32319,6 @@
     "summary": "GS건설이 LG유플러스, 자이C&A 등과 협력하여 AI 데이터센터의 모듈러 표준모델 개발에 착수했다. 모듈화된 설계·시공으로 데이터센터 수요 증가에 신속하게 대응하고 효율성을 높이는 전략이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-07T15:30:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국농어촌공사, ‘안전 패트롤카’ 전국 확대…건설현장 불시점검 강화 - 스포츠동아",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00OVNybTBJZFhQdU1jY3FTLTY2bnRTbUFlY0cxdTJQWFhfZkdQUHEwSWFEbFlyMU8ycVkybTlCRldnTklPNmpZX1NqdjhZX0I5NXNmN3RmdVdjRjlhNVcyZGIxY3ZLaGF5dV9CMW83dVJOZw?oc=5",
-    "description": "■ 본사 1대서 9대로 확대…8개 지역본부에 순찰차 추가 배치■ 5대 핵심 안전수칙 집중 점검…위험요인 발견 시 즉시 조치한국농어촌공사가 건설현장의 안전사고 예방을 위해 현장 점검 체계를 전국 단위로 확대한다.한국농어촌공사는 건설현장을 직접 찾아 위험요인을 확인하는 …",
-    "published_at": "2026-09-07T14:58:37+09:00",
-    "cluster_id": "ce69",
-    "publisher": "스포츠동아",
-    "title_clean": "한국농어촌공사, ‘안전 패트롤카’ 전국 확대…건설현장 불시점검 강화",
-    "summary": "한국농어촌공사가 건설현장 안전관리 강화를 위해 안전 패트롤카를 1대에서 9대로 확대하고 8개 지역본부에 순찰차를 추가 배치한다. 5대 핵심 안전수칙을 중점 점검하여 위험요인 발견 시 즉시 조치할 방침이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-07T15:10:53+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "시의회 교통위, 동북선 건설현장-진접차량기지 점검 - 송파타임즈",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11dWk5Q0tKWDduOFp4MjRZZG1mZVJJQmJlb0Q0ZVE2T0VmOWxfQXVYckFBOE1qWkduMm1NREdEbXoteXpwSmJCdHBhM1QtVnVTNy0zQzZ0WFhwRXFDVzdKVGV0cloybFNqTTIyNlJLOA?oc=5",
-    "description": "서울시의회 교통위원회(위원장 한신)는 지난 4일 동북선 도시철도 건설현장과 최근 개통한 진접차량기지 현장을 방문, 공사 및 운영현황을 점검했다.현장 방문은 동북선 103정거장(제기동역)을 시작으로 노원구 중계동에 위치한 동북선 차량기지, 남양주시 진접읍에 위치한 진접차량기지를 차례로 방문하는 일정으로 진행됐다.동북선 도시철도는 왕십리역~고려대역~상계역까지 연결되는 총 연장 13.4㎞, 정거장 16개소의 도시철도로, 2027년 11월 개통을 목표로 공사가 진행되고 있다. 교통위원회는 동북선 현장 점검 과정에서 토목·건축 뿐만 아니라",
-    "published_at": "2026-09-07T15:02:52+09:00",
-    "cluster_id": "4e03",
-    "publisher": "송파타임즈",
-    "title_clean": "시의회 교통위, 동북선 건설현장-진접차량기지 점검",
-    "summary": "서울시의회 교통위원회가 동북선 도시철도 건설현장과 진접차량기지를 점검했습니다. 동북선은 총 연장 13.4㎞, 16개 정거장 규모로 2027년 11월 개통을 목표로 공사가 진행 중입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-07T15:10:53+09:00",
     "importance": 2
   }
 ]
