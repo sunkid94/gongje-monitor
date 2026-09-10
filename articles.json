@@ -21650,6 +21650,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설 불황에 노조원 급감하자… 소규모 현장까지 채용 강요 - chosun.com",
+    "link": "https://www.chosun.com/economy/real_estate/2026/09/11/IP4MTDZBUZCEVJRZQ64KQEVUBY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "국토교통부 건설산업지식정보시스템에 따르면, 올해 1월 1일부터 이달 7일까지 건설업 폐업 신고는 2992건으로 전년 동기(2357건) 대비 26.9% 급증했다. 부동산 프로젝트파이낸싱(PF) 대출 금리가 치솟은 상황에서 노조의...",
+    "published_at": "2026-09-11T00:41:00+09:00",
+    "cluster_id": "0f8d",
+    "publisher": "chosun.com",
+    "title_clean": "건설 불황에 노조원 급감하자… 소규모 현장까지 채용 강요",
+    "summary": "부동산 PF 대출 금리 상승으로 건설 불황이 심화되면서 건설업 폐업이 전년 동기 대비 26.9% 급증했다. 노조원 감소로 소규모 현장까지 채용 강요 문제가 발생하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-11T01:05:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32301,22 +32317,6 @@
     "publisher": "뉴스웰",
     "title_clean": "‘2026 IPARK 기술제안 공모전’ 우수기술 4곳 선정",
     "summary": "현대산업개발이 '2026 IPARK 기술제안 공모전'을 통해 114건의 기술 제안 중 우수기술 4곳을 선정하고 시상식을 개최했다. AI, 빅데이터, 드론, IoT 등 스마트 건설 기술 분야의 혁신적 기술을 발굴하여 중소기업과의 상생 협력을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T15:30:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 스마트건설 우수기술 4개사 선정…협력사 동반성장 강화 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNk9IcEZRVUtwVVduSFdsb3JsaTZZZTVvMG43SGtmZUx0Y3JBQVFSMUFzNXl2WUczV1pSR2g0eDctT0llUFVxNWZKMXNlX2pSRmw4dWplZVNXQXFoMkRjcElsdzBDaUpGeGlQLW03TXBrLXd6bmRsMF82UUlxZTEtWjFMeFFVODZvWEE?oc=5",
-    "description": "IPARK현대산업개발이 건설산업 경쟁력 강화와 협력기업과의 동반성장을 위해 스마트건설 우수기술 발굴에 나섰다.IPARK현대산업개발은",
-    "published_at": "2026-09-07T14:59:00+09:00",
-    "cluster_id": "6b68",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "IPARK현대산업개발, 스마트건설 우수기술 4개사 선정…협력사 동반성장 강화",
-    "summary": "IPARK현대산업개발이 건설산업 경쟁력 강화를 위해 스마트건설 우수기술 4개사를 선정했다. 협력기업과의 동반성장을 통해 건설산업의 혁신을 추진하는 사례로, 업계의 기술 고도화와 생태계 강화 움직임을 보여준다.",
     "sentiment": "positive",
     "collected_at": "2026-09-07T15:30:51+09:00",
     "importance": 2
