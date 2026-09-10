@@ -21684,6 +21684,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "휴머노이드 건설로봇, 영국·일본서 실증단계 진입 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326412",
+    "description": "글로벌 건설업계는 숙련인력의 고령화와 청년층 유입 절벽이 맞물린 초유의 인력난에 직면해 있다. 여기에 우리나라는 중대재해 예방이라는 시대적 요구까지 더해지며 현장의 자동화는 선택이 아닌 생존의 문제가 됐다. 그 대안으로 떠오른 것이 피지컬 AI와 결합한 휴머노이드 로봇이다.글로벌 기술기업들에게 굳이 바퀴형 장비가 아닌 인간의 형상을 한 로봇 개발이 주목받고 있는 이유는 건설현장의 공간적 특성에 있다. 건설현장의 공간구조는 인간의 신체와 이동능력에 맞춰져 있어 계단, 협소한 통로, 임시사다리 등은 바퀴형 로봇에게 장벽이 된다. 반면",
+    "published_at": "2026-09-11T08:00:00+09:00",
+    "cluster_id": "bbe1",
+    "publisher": "대한전문건설신문",
+    "title_clean": "휴머노이드 건설로봇, 영국·일본서 실증단계 진입",
+    "summary": "글로벌 건설업계의 인력난과 중대재해 예방 필요성에 대응하기 위해 휴머노이드 건설로봇이 실증단계에 진입하고 있다. 건설현장의 계단, 협소한 통로 등 인간 신체에 맞춘 공간구조에 적응하기 위해 바퀴형이 아닌 인간 형태의 로봇 개발이 주목받고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T08:06:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32306,21 +32322,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-07T15:40:32+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[건설 Pick] GS건설·롯데건설, ‘모듈러 데이터센터’ 선점과 강남권 ‘정비사업 4조’ 깃발 - 라이센스뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80VW1NUkEyWHI3VURCbExhUnVRSlB5cFFIaXRFSGRyZFhESVBKTXBZTGJzbXFDWGZCbFQzQ1M3bU5pRHVlSU9UYWVUNVl1ZW9FYjFMN3Bnc3lUUlB2RWZrMThxSUdOckZqRkJZ?oc=5",
-    "description": "라이센스뉴스 = 박창배 기자 | GS건설과 롯데건설이 ‘미래 먹거리 선점’과 ‘핵심 입지 정비사업 수주’에 돌입하고 있다.GS건설은 인공지능(AI) 열풍으로 급부",
-    "published_at": "2026-09-07T15:30:00+09:00",
-    "cluster_id": "3bef",
-    "publisher": "라이센스뉴스",
-    "title_clean": "[건설 Pick] GS건설·롯데건설, ‘모듈러 데이터센터’ 선점과 강남권 ‘정비사업 4조’ 깃발",
-    "summary": "GS건설과 롯데건설이 AI 데이터센터 등 미래 사업과 강남권 정비사업 수주에 나서며 새로운 성장동력을 확보하고 있다. 건설업계의 신규 시장 개척과 대형 프로젝트 수주는 업계 경기 부양에 긍정적인 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T15:40:32+09:00",
-    "importance": 2
   }
 ]
