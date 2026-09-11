@@ -21769,6 +21769,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토차관 \"LH 본사는 진주···직원 불이익 없어야\" - 서울파이낸스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zcmtISm1GZDQwQ1VqaFc4clk1YzhZN1RjbFFadFhiYkVTel9Nak9oVm5DWlBEYVRjNGM5YWl0YzJLQV84cUY2alE4UG05ekYxMEpiNU5TWTlZMG1COFJGU2xDdEU0Z293Y1E?oc=5",
+    "description": "[서울파이낸스 나민수 기자] 김이탁 국토교통부 1차관이 11일 한국토지주택공사(LH) 조직 개편과 관련해 기관 분리 과정에서 직원들의 처우상 불이익을 최소화하고,",
+    "published_at": "2026-09-11T17:22:52+09:00",
+    "cluster_id": "d3a4",
+    "publisher": "서울파이낸스",
+    "title_clean": "국토차관 \"LH 본사는 진주···직원 불이익 없어야\"",
+    "summary": "국토교통부 1차관이 LH 조직 개편 과정에서 본사를 진주로 이전하되 직원들의 처우 불이익을 최소화하겠다고 발표했습니다. LH의 구조 개편 관련 정책 방향을 제시한 것으로 보입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-11T17:40:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32311,21 +32327,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-08T00:10:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이숙자 서울시의원, 건설현장 안전관리 및 주민 생활권 보호 대책 촉구 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zbkMzbWZmekQzQ2t4TTFITGhyQjZUZ09KSXJDRk4wWXVqRXdjWVBObHhOdUc5SUJxa0FfbTh2UVdfXzZrbVRtZ21PZjBJdG4ySVloVmdHZHMyQ1NpUm53T3ZxSUdPSllGS1FST0hFOVFadw?oc=5",
-    "description": "이숙자 서울특별시의회 의원은 제339회 임시회 도시안전건설위원회에서 건설현장 안전관리와 예산운영 개선을 촉구했다.이 의원은 민간 해체·굴토공사장의 지적사항에 대해",
-    "published_at": "2026-09-07T23:40:01+09:00",
-    "cluster_id": "b963",
-    "publisher": "웹이코노미",
-    "title_clean": "이숙자 서울시의원, 건설현장 안전관리 및 주민 생활권 보호 대책 촉구",
-    "summary": "이숙자 서울시의원이 도시안전건설위원회에서 민간 해체·굴토공사장의 안전관리 개선과 예산운영 효율화를 촉구했다. 건설현장의 안전관리 강화와 주민 생활권 보호 대책 마련을 요구하는 내용",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T00:00:35+09:00",
-    "importance": 4
   }
 ]
