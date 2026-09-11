@@ -21769,6 +21769,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사설]'건폭' 다시 기승…노동현장 악습 재발 막아야 - sidae.com",
+    "link": "https://www.sidae.com/article/2026091115533873661",
+    "description": "이른바 '건폭(建暴)'이 재발한 데에는 심각한 건설경기 위축이 영향을 미친 것으로 보인다. 자재비, 인건비 급등으로 건설비용이 높아지면서 재건축·재개발 사업 등 민간 건설현장이 크게 줄고, 공공부문의 사업 발주도...",
+    "published_at": "2026-09-11T22:00:00+09:00",
+    "cluster_id": "a2d8",
+    "publisher": "sidae.com",
+    "title_clean": "[사설]'건폭' 다시 기승…노동현장 악습 재발 막아야",
+    "summary": "건설경기 악화로 인한 건설현장 폭력(건폭) 재발이 문제가 되고 있다. 자재비·인건비 급등으로 민간 건설사업이 감소하면서 노동현장 악습이 다시 기승을 부리는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-11T22:09:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32308,22 +32324,6 @@
     "publisher": "industrynews.co.kr",
     "title_clean": "경남도, 우주인재·민생·관광 '3축' 전진으로 미래 성장판 넓힌다",
     "summary": "경남도가 우주항공 전문인력 양성과 국가 인프라 확충을 미래 성장축으로 추진 중이며, 추석 건설현장 안전관리와 유럽 관광시장 개척에 집중하고 있다. 우주항공 산업 육성을 통한 새로운 건설·기계설비 수요 창출이 예상되는 지역 정책 보도다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T08:40:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[AI 산업] GS건설, 모듈러 AI 데이터센터로 ‘공기 단축’ 승부수 - AI라이프경제",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbDJmZnQ5RFJDOEt0RHZCS2VDVW5vZ1VnX0xxZHlMYTBiaTc2UGhmN2M2ODVTZEpuajgzZ3FOdkFuLTBHSkpNeHVSazN3dkV1WlRsdUVkeGlDd1ZUSWE1UnhjLWZmclZtNUFr0gFvQVVfeXFMTXJHZV9jMjVsZ3gwOGhMNHZWY2xmRDZkcUVabmFqVE0tXzl3WExhbkw0X1dlZlNmalRvMGpJZlBhTVZiSWZNbzBZRTNKaVFYWHpZVHA1UVF2eVpES3ZtNnY1cEk1ZWxHREJPSmdPN3hr?oc=5",
-    "description": "GS건설이 급증하는 인공지능(AI) 데이터센터 수요에 대응하기 위해 모듈러 공법을 접목한 사전 제작형 모듈러 데이터센터(PMDC) 표준모델 개발에 나선다. 구축 기간을 획기적으로 줄여 고객이 원하는 시점에 인프라를 공급하는 ‘타임 투 마켓(Time to Market·TTM)’ 경쟁력을 확보하겠다는 전략이다.GS건설은 7일 LG유플러스, 자이C&A, 간삼건축, D&O CM 등 5개사가 참여하는 ‘PMDC 얼라이언스 구축을 위한 업무협약(MOU)’을 체결했다고 밝혔다. 협약식은 지난 4일 경기 안양시 LG유플러스 평촌메가센터에서 허윤홍",
-    "published_at": "2026-09-07T10:11:20+09:00",
-    "cluster_id": "ad72",
-    "publisher": "AI라이프경제",
-    "title_clean": "[AI 산업] GS건설, 모듈러 AI 데이터센터로 ‘공기 단축’ 승부수",
-    "summary": "GS건설이 AI 데이터센터 수요 증가에 대응하기 위해 모듈러 공법 기반 사전 제작형 데이터센터(PMDC) 표준모델을 개발한다. LG유플러스 등 5개사와 얼라이언스를 구축하여 구축 기간 단축과 '타임 투 마켓' 경쟁력 확보를 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-08T08:40:05+09:00",
     "importance": 2
