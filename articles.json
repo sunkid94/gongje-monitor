@@ -5752,6 +5752,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "SGC에너지, PEF 설립...AI 데이터센터 사업화 일환 - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20260911500134",
+    "description": "여기에 SGC E&C(SGC이앤씨)가 EPC(설계조달시공)로 참여할 수 있는 사업 구조를 마련해, 그룹사 시너지를 높일 수 있는 방안을 강구하고 있다. SGC E&C는 플랜트 사업에서 남다른 경쟁력을 갖추고 있는 만큼, SGC E&C의...",
+    "published_at": "2026-09-11T13:34:00+09:00",
+    "cluster_id": "b1cc",
+    "publisher": "news2day.co.kr",
+    "title_clean": "SGC에너지, PEF 설립...AI 데이터센터 사업화 일환",
+    "summary": "SGC에너지가 AI 데이터센터 사업 진출을 위해 PEF를 설립하고, 그룹사 SGC E&C를 EPC 사업에 참여시켜 시너지를 창출하려 하고 있다. SGC E&C의 플랜트 사업 경쟁력을 활용한 그룹 차원의 신사업 다각화 전략이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T13:53:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21736,20 +21752,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "'대홍수' 네팔, 이틀새 4명 기적 생환… 한국 실종자 구조는 어떻게 - hankookilbo.com",
-    "link": "https://www.hankookilbo.com/news/article/A2026090610560004395?did=NA",
-    "description": "5일 구조된 2명 중 1명은 한국 노동자 9명(두산에너빌리티 직원 6명·한국남동발전 직원 3명)이 실종된 곳으로 추정되는 네팔 중북부 바그마티주 라수와 지역의 어퍼트리슐리(UT)-1 발전소 공사 현장 터널에서 구조됐다....",
-    "published_at": "2026-09-06T16:31:00+09:00",
-    "cluster_id": "d7cc",
-    "publisher": "hankookilbo.com",
-    "title_clean": "'대홍수' 네팔, 이틀새 4명 기적 생환… 한국 실종자 구조는 어떻게",
-    "summary": "네팔 대홍수로 인한 댐 공사 현장에서 한국 노동자 9명이 실종됐으며, 구조 작업이 진행 중이다. 이틀새 4명의 생환 사례가 있으나 한국 실종자 구조 방법은 아직 명확하지 않은 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-06T16:38:41+09:00",
-    "importance": 4
+    "title": "[과기대 BI 우수기업] 프로의안전 “AI 위험 감지·서류 자동화로 건설... - it.donga.com",
+    "link": "https://it.donga.com/109516/",
+    "description": "소규모 건설현장 안전 공백 해소 위해 창업 프로의안전을 창업한 계기는 무엇인가? 한국지역난방공사에 근무할 당시 소규모 건설현장 감독 업무를 주로 했다. 열수송관, 상하수도, 압송관로 등 소규모 건설현장은...",
+    "published_at": "2026-09-11T13:40:00+09:00",
+    "cluster_id": "0bdb",
+    "publisher": "it.donga.com",
+    "title_clean": "[과기대 BI 우수기업] 프로의안전 “AI 위험 감지·서류 자동화로 건설...",
+    "summary": "프로의안전은 소규모 건설현장의 안전 공백을 해소하기 위해 AI 위험 감지 기술과 서류 자동화 솔루션을 개발한 스타트업이다. 한국지역난방공사 감독 경험을 바탕으로 창업하여 건설현장의 안전성 강화에 기여하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T13:53:13+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설 신기술",
@@ -32309,22 +32325,6 @@
     "summary": "K-water가 중소기업의 ESG 경영 역량 강화를 위해 '제5차 K-water 중소기업 ESG 지원사업'을 추진 중이며, 9월 7일부터 18일까지 20개사를 모집한다. 이는 중소기업의 ESG 수준 진단 및 지속가능한 경영 기반 구축을 지원하는 사업으로 올해 5회째를 맞는다.",
     "sentiment": "positive",
     "collected_at": "2026-09-07T16:56:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "농어촌공사, '안전 패트롤카' 확대 운영…현장 안전관리 강화 - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hTVpxa2NDa3BVY0Fjb0xfdUM4aEdqTDJRcU5DeGZYdk9xQVV3dGQ4aWIzTTh4dnFndzJPR2JoTkphVGtta2VMdGV5R0I?oc=5",
-    "description": "5대 핵심 안전수칙&middot;위험공종 집중 점검 한국농어촌공사는 건설현장의 안전관리 작동성을 높이기 위해",
-    "published_at": "2026-09-07T16:43:46+09:00",
-    "cluster_id": "a539",
-    "publisher": "아이뉴스24",
-    "title_clean": "농어촌공사, '안전 패트롤카' 확대 운영…현장 안전관리 강화",
-    "summary": "한국농어촌공사가 건설현장의 안전관리 강화를 위해 안전 패트롤카 운영을 확대하고, 5대 핵심 안전수칙과 위험공종에 대한 집중 점검을 실시한다. 이는 건설현장 안전관리의 작동성 제고를 목표로 한 안전관리 강화 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-07T16:55:04+09:00",
     "importance": 2
   }
 ]
