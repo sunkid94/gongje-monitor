@@ -21769,6 +21769,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "대우건설, ‘혁신기술’ 스타트업과 협업…기술확보 다각화 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FN0VWa3JHaHlkbkZnaUtPUmZOY1Q2NEI5ZXlfUk1NWmtjX0cwUnRzcTNzb0N4MmtPRzZXTzJmdGl1eXJTOEJLT0diOHNQRUJRSTdzRTl3?oc=5",
+    "description": "대우건설이 혁신기술을 보유한 스타트업과의 협업을 위해 ‘대우건설 오픈 이노베이션’ 행사를 진행했다고 11일 밝혔다. 대우건설 오픈 이노베이션은 한국건설기술연구원",
+    "published_at": "2026-09-11T11:13:36+09:00",
+    "cluster_id": "133b",
+    "publisher": "헤럴드경제",
+    "title_clean": "대우건설, ‘혁신기술’ 스타트업과 협업…기술확보 다각화",
+    "summary": "대우건설이 혁신기술을 보유한 스타드업과의 협업을 위해 '오픈 이노베이션' 행사를 개최했다. 건설 산업의 기술 확보를 다각화하고 혁신 생태계 구축을 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T21:09:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32308,22 +32324,6 @@
     "publisher": "여성종합뉴스",
     "title_clean": "경기도, 추석 연휴 앞두고 철도건설현장 안전점검 실시",
     "summary": "경기도가 추석 연휴를 앞두고 철도건설현장에 대한 안전점검을 실시하며 안전사고 예방과 건설근로자의 임금 지급 실태를 점검하고 있다. 이는 연휴 기간 건설현장의 안전 관리 강화와 근로자 보호에 초점을 맞춘 행정조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T08:30:17+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울의회 교통委, 동북선 건설 현장·진접차량기지 현장 방문 동북선 공사현장 점검, 현장 근로자 안전·철저한 공정관리 주문 - 오토투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwc3Fna1VOV0VWVThfM19zbEl4Z1JpUDZVcHNiWFRrUkFMWU5JbHNrRmV6NnRIUVFVY0g0b2pCdzJORF8xVVVpTUlZWEhaa2JOalprSTdvSEZheXBiZEprcHFXOGk3ank2STFiRkVoWQ?oc=5",
-    "description": "서울특별시의회 교통위원회(위원장 한신, 더불어민주당, 성북1)는 제339회 임시회 기간 중인 9월 4일(금) 동북선 도시철도 건설현장과 최근 개통한 진접차량기지",
-    "published_at": "2026-09-08T00:03:26+09:00",
-    "cluster_id": "1de7",
-    "publisher": "오토투데이",
-    "title_clean": "서울의회 교통委, 동북선 건설 현장·진접차량기지 현장 방문 동북선 공사현장 점검, 현장 근로자 안전·철저한 공정관리 주문",
-    "summary": "서울시의회 교통위원회가 동북선 도시철도 건설현장과 진접차량기지를 방문하여 안전관리와 공정관리를 점검했다. 현장 근로자 안전과 철저한 공정관리를 당국에 주문한 것으로 보인다.",
     "sentiment": "negative",
     "collected_at": "2026-09-08T08:30:17+09:00",
     "importance": 4
