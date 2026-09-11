@@ -21772,6 +21772,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "[위클립] 9월 2주 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41470",
+    "description": "건설산업연맹이 \"지난 3일 울산 샤힌 석유화학 프로젝트 건설현장에서 도장 작업을 하던 건설노동자가 약 20미터 아래로 추락해 사망했다. 같은 현장에서 3번째 중대재해가 발생했다\"며 \"더 이상 건설노동자가 죽어서는 안...",
+    "published_at": "2026-09-12T00:19:00+09:00",
+    "cluster_id": "4595",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "[위클립] 9월 2주",
+    "summary": "울산 샤힌 석유화학 프로젝트 건설현장에서 도장 작업 중 건설노동자가 약 20미터 높이에서 추락해 사망했다. 같은 현장에서 3번째 중대재해 발생으로 건설산업연맹이 안전 개선을 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-12T00:39:45+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "美 9·11 25주년, 유독 먼지 '2차 희생자' 첫 공식 추모…은폐 논란도 도... - fnnews.com",
     "link": "https://www.fnnews.com/news/202609112335434465",
     "description": "마이클 블룸버그 9·11 메모리얼&뮤지엄 이사장은 \"수만 명의 응급 구조대원, 건설 노동자, 자원봉사자, 생존자들이 병을 얻었고 비극적으로 목숨을 잃었다\"고 밝혔다. ■ 17만 쪽 문건 폭로…\"공기 위험 알고도 거짓말...",
@@ -32311,21 +32327,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-08T08:56:16+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "제주해경, 불법 시공행위 한 무등록 수중공사업체 적발 - jejudomin.co.kr",
-    "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=322153",
-    "description": "제주지방해경청은 건설산업기본법 위반 등 혐의로 시공업체 대표 등 8명 검거해 조사 중이라고 밝혔다. 제주해경에 따르면 적발된 무등록 업체 3곳은 최근 3년간 도내 양식장 12곳(약 13억원 상당)에서 수중에 설치된 기존...",
-    "published_at": "2026-09-07T15:48:00+09:00",
-    "cluster_id": "16ab",
-    "publisher": "jejudomin.co.kr",
-    "title_clean": "제주해경, 불법 시공행위 한 무등록 수중공사업체 적발",
-    "summary": "제주해경이 건설산업기본법을 위반한 무등록 수중공사업체 3곳과 관계자 8명을 적발했다. 적발 업체들은 최근 3년간 도내 양식장 12곳에서 약 13억원 규모의 불법 시공을 진행한 것으로 파악되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T08:55:01+09:00",
-    "importance": 4
   }
 ]
