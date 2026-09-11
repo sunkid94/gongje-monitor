@@ -5772,6 +5772,22 @@
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "현대건설, 목동10단지 품고 2년 연속 '정비사업 10조 클럽' 눈앞 - theguru.co.kr",
+    "link": "https://www.theguru.co.kr/news/article.html?no=106992",
+    "description": "하반기 들어서도 롯데건설과 컨소시엄을 구성해 경기 안양 충훈부 공공재개발 시공권을 따내는 등 수주 행진을 이어가고 있다. 여기에 공사비 1조원 규모의 송파 마천5구역 재개발과 수의계약을 앞둔 여의도...",
+    "published_at": "2026-09-12T00:02:00+09:00",
+    "cluster_id": "d356",
+    "publisher": "theguru.co.kr",
+    "title_clean": "현대건설, 목동10단지 품고 2년 연속 '정비사업 10조 클럽' 눈앞",
+    "summary": "현대건설이 목동10단지 정비사업을 포함해 2년 연속 정비사업 수주액 10조원 클럽 진입을 목표로 하고 있다. 롯데건설과의 컨소시엄, 송파 마천5구역 재개발 등 하반기 수주 행진을 이어가며 강한 수주 실적을 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-12T00:09:30+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "광주시, \" 광혁건설, 광주시에 이웃돕기 성금 200만원 기탁 \" - fntoday.co.kr",
     "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=392878",
     "description": "이번 성금은 롯데건설㈜이 시행하는 민관 공익협력사업 1구역(1BL)의 협력사로 참여하는 과정에서 마련됐다. 광혁건설은 지역사회와 나눔을 실천하기 위해 성금을 기탁했다고 설명했다. 유영복 현장소장은 \"지역사회의...",
@@ -21753,20 +21769,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[이 시각 시황] 코스피 3%대 급등, 6,900선 돌파…반도체·AI 데이터센터... - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000333047?division=NAVER",
-    "description": "대장주인 두산퓨얼셀, 증권가에서 긍정적인 내용의 보고서가 나왔습니다. NH투자증권은 미국 데이터센터용 연료전지 수주로 중장기 외형 성장에 대한 불확실성이 완화됐다며 목표주가를 기존 3만4000원에서...",
-    "published_at": "2026-09-07T09:35:00+09:00",
-    "cluster_id": "fb01",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "[이 시각 시황] 코스피 3%대 급등, 6,900선 돌파…반도체·AI 데이터센터...",
-    "summary": "코스피가 6,900선을 돌파하며 3%대 상승률을 기록했으며, 반도체와 AI 데이터센터 관련주가 주도했습니다. 두산퓨얼셀이 미국 데이터센터용 연료전지 수주로 중장기 성장성이 인정받아 목표주가가 상향 조정되었습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-07T09:39:22+09:00",
-    "importance": 2
+    "title": "美 9·11 25주년, 유독 먼지 '2차 희생자' 첫 공식 추모…은폐 논란도 도... - fnnews.com",
+    "link": "https://www.fnnews.com/news/202609112335434465",
+    "description": "마이클 블룸버그 9·11 메모리얼&뮤지엄 이사장은 \"수만 명의 응급 구조대원, 건설 노동자, 자원봉사자, 생존자들이 병을 얻었고 비극적으로 목숨을 잃었다\"고 밝혔다. ■ 17만 쪽 문건 폭로…\"공기 위험 알고도 거짓말...",
+    "published_at": "2026-09-12T00:03:00+09:00",
+    "cluster_id": "f59d",
+    "publisher": "fnnews.com",
+    "title_clean": "美 9·11 25주년, 유독 먼지 '2차 희생자' 첫 공식 추모…은폐 논란도 도...",
+    "summary": "미국 9·11 테러 25주년을 맞아 붕괴 현장의 먼지로 인한 질병과 사망이 '2차 희생자'로 공식 추모되고 있다. 당시 공기 위험성을 알고도 거짓 정보를 제공한 정부 기관에 대한 은폐 논란이 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-12T00:09:30+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32311,21 +32327,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T08:55:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "천안시 공공건축 현장에 건설안전 전문가 탄생 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ma05qRkhQamJMOThtNVBFLTdiN3Y3YzQ2NDhoM1BzZFNaSWg4NVg2MkZNVmZKU2U4bVZ3ODBnZE8xSW9UNkdTUkpxTXpPaGtmOWFNWWR6QkFiZEZXSkhPYmdvelk1U3liNHd4WA?oc=5",
-    "description": "충남 천안시 공공건축 현장의 안전관리 전문성이 한층 강화될 전망이다.천안시는 공공시설과 이주희 주무관이 건설안전기술사 시험에 최종 합격했다고 8일 밝혔다.건설안전기술사는 건설공사 과정에서 발생할 수 있는 각종 위험요인을 분석하고 재해를 예방하기 위한 전문지식과 현장..",
-    "published_at": "2026-09-08T08:41:44+09:00",
-    "cluster_id": "5fe4",
-    "publisher": "아시아투데이",
-    "title_clean": "천안시 공공건축 현장에 건설안전 전문가 탄생",
-    "summary": "천안시 공공건축 현장의 안전관리 전문성 강화를 위해 공공시설과의 이주희 주무관이 건설안전기술사 시험에 합격했다. 건설안전기술사는 건설공사 과정의 위험요인 분석 및 재해 예방을 담당하는 전문가 자격이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T08:49:53+09:00",
-    "importance": 2
   }
 ]
