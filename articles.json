@@ -21752,6 +21752,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "한국부동산원, '2026년 제2차 부동산 데이터 아카데미' 오는  29일부터 개최 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50177",
+    "description": "[건설이코노미뉴스] 한국부동산원(원장 이헌욱)은 9월 29일부터 10월 1일까지 한국부동산원 서울강남지사에서 '2026년 제2차 부동산 데이터 아카데미(이하 부동산 데이터 아카데미)'를 개최한다고 11일 밝혔다.부동산 데이터 아카데미는 양질의 부동산 데이터를 개방하고 부동산 신산업 육성을 지원하기 위한 국토교통부 '부동산 빅데이터 플랫폼 운영 사업'의 일환인 부동산 정보 기술(proptech) 지원 프로그램으로 추진된다.부동산 빅데이터 플랫폼은 민관 협업을 통해 구축된 국토교통부 정보시스템으로서 공공과 민간이 보유한 부동산 데이터·",
+    "published_at": "2026-09-11T15:04:25+09:00",
+    "cluster_id": "2cc2",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "한국부동산원, '2026년 제2차 부동산 데이터 아카데미' 오는  29일부터 개최",
+    "summary": "한국부동산원이 9월 29일부터 10월 1일까지 '2026년 제2차 부동산 데이터 아카데미'를 개최한다. 국토교통부의 부동산 빅데이터 플랫폼 운영사업 일환으로 진행되며, 양질의 부동산 데이터 개방과 부동산 신산업 육성을 지원한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T15:06:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32308,22 +32324,6 @@
     "title_clean": "서울시의회 교통위원회, 동북선 건설현장 방문... ‘전체 공정률 76.4%’",
     "summary": "서울시의회 교통위원회가 동북선 도시철도 건설현장을 방문하여 전체 공정률 76.4%를 확인했습니다. 진접차량기지 등 최근 개통 현장도 점검하며 사업 진행 상황을 모니터링했습니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-07T17:11:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "IPARK현대산업개발, ‘2026 IPARK 기술제안 공모전’ 우수기술 4곳 시상 - 우먼타임스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tSzNweWNZVXBZdS15Umt5S2FLTDZLMFBUVU4zRHhiSU1qdUhnSnViQ1hjdmJMZFB6eDRHM284MUxhTzNnZzBUb193UnlUaDNiY2ZQQ3g5dWF0SjgxbFQ3Nk95OEVaZWV1SGNXdm0xeXHSAXRBVV95cUxNRWlQR2w3N1dpdXR5MERaZnQ0M2E2OW1IUVhnQURQVmNaWmt6Q1oyT2pxM1g1NXhzWTdxRk9HVHVOZF83Vk5ZYzBqcWRuVWlrcVJ5b0xlWjFzOHE3ZXJvX2Jrb3hFVXk2Tk5jYTl1TFlJWno4dg?oc=5",
-    "description": "IPARK현대산업개발은 ‘2026 IPARK 기술제안 공모전’ 우수기술을 선정하고 포니정 홀에서 시상식을 개최했다고 7일 밝혔다.중소기업과 상생 협력을 강화하고",
-    "published_at": "2026-09-07T16:31:13+09:00",
-    "cluster_id": "7bf5",
-    "publisher": "우먼타임스",
-    "title_clean": "IPARK현대산업개발, ‘2026 IPARK 기술제안 공모전’ 우수기술 4곳 시상",
-    "summary": "IPARK현대산업개발이 '2026 IPARK 기술제안 공모전'에서 우수기술 4곳을 선정하여 시상식을 개최했다. 중소기업과의 상생 협력을 강화하기 위한 기술혁신 발굴 사업을 추진 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-07T17:11:05+09:00",
     "importance": 2
   }
