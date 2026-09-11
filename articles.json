@@ -5769,6 +5769,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[외환-마감] '네고·숏베팅'에 1,340원대서 상단 제한…美 CPI 대기 - news.einfomax.co.kr",
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434520",
+    "description": "삼성중공업은 라이베리아 및 아시아 지역 선주로부터 약 3천411억원 규모의 유조선 3척을 수주했다고 공시했다. 최근 높은 변동성을 보인 달러-엔 환율은 아시아장 시간대에 보합권에서 움직이다가 낙폭을...",
+    "published_at": "2026-09-11T18:42:00+09:00",
+    "cluster_id": "a49b",
+    "publisher": "news.einfomax.co.kr",
+    "title_clean": "[외환-마감] '네고·숏베팅'에 1,340원대서 상단 제한…美 CPI 대기",
+    "summary": "삼성중공업이 라이베리아 및 아시아 지역 선주로부터 약 3,411억원 규모의 유조선 3척을 수주했다. 외환시장은 미국 CPI 발표를 앞두고 달러-엔 환율이 1,340원대에서 보합권으로 움직이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T18:54:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21753,20 +21769,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "(특징주)두산퓨얼셀, 미 AI 데이터센터 수주에 18%대 급등 - 뉴스토마토",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUjExZkwtWkpVc0pBTEE5UWdmUkMzQ3FQOGo1Z3FiVFNOQmM5QnhQUkpUelJjV3FRczg0UnVrajhFOGJ6Sy1RWENhN25veGxXcGMtdVpTenZZTTdENEM3MA?oc=5",
-    "description": "두산퓨얼셀(336260)이 미국 인공지능(AI) 데이터센터에 공급할 대규모 연료전지 수주 소식에 장 초반 18% 넘게 급등하고 있습니다. 한국거래소에 따르면 7일 오전 9시18분 기준 두산퓨얼셀은 전 거래일보다 8150원(18",
-    "published_at": "2026-09-07T09:23:25+09:00",
-    "cluster_id": "0989",
-    "publisher": "뉴스토마토",
-    "title_clean": "(특징주)두산퓨얼셀, 미 AI 데이터센터 수주에 18%대 급등",
-    "summary": "두산퓨얼셀이 미국 AI 데이터센터 대규모 연료전지 수주 소식에 주가가 18% 이상 급등했습니다. 해당 수주는 기계설비건설 분야의 신규 시장 확대와 대규모 프로젝트 수주로 평가됩니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T09:29:00+09:00",
-    "importance": 2
+    "title": "오송참사 부실 제방 금호건설에 벌금 1억2천만원…법정 최고형 선고 - safety1stnews.com",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaV1M4RUdrdWQxdlFtOWFLN3YwSk5pOFhRYkdSRXZRS05UWHgycVdfNEpQOWpwUnZxZXpPU3c3V1liRDZhcGdiNmstSjVZaWxjZElfMHYzSDhNUG1DMkp1VkwtdFViZzd4eGc4cno0TQ?oc=5",
+    "description": "[세이프티퍼스트닷뉴스] 청주지법 형사5단독(강건우 부장판사)이 지난 9일, 2023년 14명의 목숨을 앗아간 청주 오송 지하차도 참사의 원인으로 지목된 미호강 제방 부실 공사와 관련해 시공사 금호건설에 벌금 1억2000만원을, 감리업체에 벌금 7000만원을 각각 선고했다. 두 회사에 적용된 건설기술진흥법 위반 혐의의 법정 최고형이다. 하천법 위반 등 혐의로 추가 기소된 현장소장 A씨에게는 징역 1년6개월이, 나머지 시공사·감리업체 관계자 4명에게는 업무상과실치사상·증거위조교사 등 혐의로 징역 8개월에 집행유예 3년부터 금고 2년까지",
+    "published_at": "2026-09-11T12:44:49+09:00",
+    "cluster_id": "9de9",
+    "publisher": "safety1stnews.com",
+    "title_clean": "오송참사 부실 제방 금호건설에 벌금 1억2천만원…법정 최고형 선고",
+    "summary": "2023년 14명이 사망한 청주 오송 지하차도 참사의 원인인 미호강 제방 부실 공사로 시공사 금호건설에 벌금 1억2000만원, 감리업체에 벌금 7000만원이 각각 선고됐다. 현장소장은 징역 1년6개월, 관계자 4명은 징역 8개월 집행유예 3년부터 금고 2년까지 선고되며 건설기술진흥법 위반의 법정 최고형이 적용됐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-11T18:54:45+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32311,21 +32327,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-08T08:10:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도, 8∼10일 철도건설 현장 안전·임금 점검 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zNXF6dVF6WlFyZzlwZ09sTkxKYVdWTW1zNTZkZ21WdUJmNEF6bi1vZ1NaVXd6ZTE4ak9BdWlDMUdSOUlTY2pXaXVwUkdKVDF4ZWNnSThzVkY1cWvSAWBBVV95cUxNMHFpTDRVWVdZX3JoOFl0X3hsZDQ5OWdMRUdoQVBwWVU5RHVwVnF5bDNZd3lhWFNrZ0doakYxRERCY3pLa3RxUk5MQmF0MUdKRmxzam1xZ1NZWUg5QVUwSkM?oc=5",
-    "description": "(의정부=연합뉴스) 김도윤 기자 = 경기도는 8∼10일 철도건설 현장 6개 공구에서 안전 관리와 임금 지급 실태 등을 점검한다.",
-    "published_at": "2026-09-08T07:46:58+09:00",
-    "cluster_id": "a34b",
-    "publisher": "연합뉴스",
-    "title_clean": "경기도, 8∼10일 철도건설 현장 안전·임금 점검",
-    "summary": "경기도가 8~10일 철도건설 현장 6개 공구에 대해 안전 관리와 임금 지급 실태를 점검한다. 정부 차원의 안전·임금 감시 강화로 업체의 규제 부담이 증가할 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T08:00:14+09:00",
-    "importance": 4
   }
 ]
