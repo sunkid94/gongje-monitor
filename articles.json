@@ -21769,6 +21769,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“햄버거 제국 만든 형제는 그 간판 못 썼다”…맥도날드에 얽힌 엇갈린... - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12150743",
+    "description": "특히 택시기사와 건설노동자, 외판원처럼 빨리 식사를 해결해야 하는 사람들이 몰려들었다. 맥도날드는 대박이 났다. 기사 전문은 매일경제신문의 프리미엄 재테크 콘텐츠 플랫폼 매경플러스에서 확인할 수 있습니다....",
+    "published_at": "2026-09-11T18:18:00+09:00",
+    "cluster_id": "5d09",
+    "publisher": "mk.co.kr",
+    "title_clean": "“햄버거 제국 만든 형제는 그 간판 못 썼다”…맥도날드에 얽힌 엇갈린...",
+    "summary": "맥도날드의 성공 사례를 다룬 기사로, 빠른 식사가 필요한 택시기사, 건설노동자, 외판원 등이 주 고객층이었음을 설명하고 있습니다. 건설업계와의 직접적인 연관성은 제한적입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-11T18:35:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32311,21 +32327,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T07:10:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[더벨][Company Watch] SP삼화, 부진 돌파구 '재도장'…고기능성 도료 확... - thebell.co.kr",
-    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609031238131280102541",
-    "description": "SP삼화는 건설경기 침체가 장기화에 맞춰 재도장과 유지보수 시장 공략에 나섰다. 신규 주택 착공과 분양 물량에 의존하기보다 이미 지어진 주택을 노리겠다는 전략이다. 이에 콘크리트 탄산화와 미세 균열, 누수·변색...",
-    "published_at": "2026-09-08T07:02:00+09:00",
-    "cluster_id": "3a51",
-    "publisher": "thebell.co.kr",
-    "title_clean": "[더벨][Company Watch] SP삼화, 부진 돌파구 '재도장'…고기능성 도료 확...",
-    "summary": "SP삼화가 건설경기 침체 극복 전략으로 신규 건설보다는 기존 주택의 재도장과 유지보수 시장에 진출하고 있다. 고기능성 도료 개발로 콘크리트 열화, 누수 등 문제 해결을 통해 새로운 수익 기회를 창출하려는 움직임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-08T07:10:20+09:00",
-    "importance": 2
   }
 ]
