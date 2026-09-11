@@ -21769,6 +21769,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "iH, 노후 임대주택 리모델링 안전대책 논의…위험 요인 사전 관리 추진 - 신아일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Sdi1VZDFwVWRMRG5ObjlzbElsTWFyd0tjVzczM0p4ZmJobHE2YXZRUjM2TTlDZjVvYzc4dGlRTGdlMExWVjJzd004aTY0NFFWOFJHWUQwbGFORzU4b0Q3ODRPb2Q1UlNsZGV0b1B1dG8?oc=5",
+    "description": "iH는 입주민이 거주하는 노후 공공임대주택 리모델링 현장에서 작업 동선을 분리하고 위험 요인을 사전에 관리하는 등 안전대책을 강화한다.인천도시공사(iH)는 지난",
+    "published_at": "2026-09-11T17:12:52+09:00",
+    "cluster_id": "87d0",
+    "publisher": "신아일보",
+    "title_clean": "iH, 노후 임대주택 리모델링 안전대책 논의…위험 요인 사전 관리 추진",
+    "summary": "인천도시공사(iH)가 노후 공공임대주택 리모델링 현장에서 작업 동선 분리 및 위험 요인 사전 관리 등 안전대책을 강화한다. 입주민 거주 상황에서의 안전관리 기준 강화로 건설 현장의 규제가 증가하는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-11T17:25:18+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32311,21 +32327,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T00:00:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울시의회 교통위원회, 동북선 건설현장 및 진접차량기지 점검 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BcmJwT1cxR28tUFYwbXA4bkZVTkwxU2d1cVhuRk5HVlpSLUFMYjd3RFBzeUktZEpzdmp4U0UwTm1ldVFJeXlqNWNDVkVzeE84QTJ3ZEp2Rkh0U2VqeFY4SDhabWlCMHdaX3dnNFA5bFU3Zw?oc=5",
-    "description": "서울특별시의회 교통위원회는 동북선 도시철도 건설현장과 진접차량기지를 방문해 공사와 운영 현황을 점검했다.위원들은 동북선 공정률이 76.4%에 이르렀으며, 차량 반",
-    "published_at": "2026-09-07T23:39:41+09:00",
-    "cluster_id": "18c8",
-    "publisher": "웹이코노미",
-    "title_clean": "서울시의회 교통위원회, 동북선 건설현장 및 진접차량기지 점검",
-    "summary": "서울시의회 교통위원회가 동북선 도시철도 건설현장을 점검하여 공정률 76.4% 달성 현황을 확인했다. 차량 반입 등 건설 및 운영 현황을 검토한 것으로, 대형 도시철도 프로젝트의 진행 상황을 모니터링하는 업계 관심사항이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-08T00:00:35+09:00",
-    "importance": 2
   }
 ]
