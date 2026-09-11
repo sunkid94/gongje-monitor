@@ -5752,6 +5752,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "1.2조 '신월시영' 입찰 시동…현대·대우·포스코 관심 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260911_0003785760",
+    "description": "현대건설·대우건설·포스코이앤씨가 수주전 참여를 검토하고 있어 수주 경쟁이 본격화할 전망이다. 11일 정비업계에 따르면 사업 시행사인 한국신탁공사는 이날 오전 10시 양천구 신월동 소재 정비사업위원회...",
+    "published_at": "2026-09-11T11:45:00+09:00",
+    "cluster_id": "2a75",
+    "publisher": "newsis.com",
+    "title_clean": "1.2조 '신월시영' 입찰 시동…현대·대우·포스코 관심",
+    "summary": "1.2조 규모의 신월시영 정비사업 입찰이 시작되며 현대건설, 대우건설, 포스코이앤씨 등 주요 건설사들이 수주전에 참여를 검토 중이다. 대형 건설사들의 관심으로 수주 경쟁이 본격화할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T11:53:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21731,22 +21747,6 @@
     "publisher": "dt.co.kr",
     "title_clean": "한국인 9명 실종된 네팔 현장…中 생존자 “인근에 1명 더 있다”",
     "summary": "네팔 수력발전소 건설 현장에서 한국인 9명(두산에너빌리티 6명, 한국남동발전 3명)이 실종되었으며, 중국 생존자가 인근에 1명 더 있다고 증언했다. KDRT는 시신 위치를 확인하고 터널 수색을 계속 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-06T15:58:37+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "韓구호대, 네팔 홍수 현장서 中생존자 구조 활약 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026090615053008743",
-    "description": "한국인 실종자는 두산에너빌리티 직원 6명과 한국남동발전 직원 3명이다. KDRT는 한국인 실종자들도 찾기 위해 UT-1 수력발전소 인근을 헬기와 드론으로 계속 수색하고 있다. 네팔 당국도 각 수력발전소 터널 내부에...",
-    "published_at": "2026-09-06T15:49:00+09:00",
-    "cluster_id": "0d7b",
-    "publisher": "imaeil.com",
-    "title_clean": "韓구호대, 네팔 홍수 현장서 中생존자 구조 활약",
-    "summary": "네팔 홍수 현장에서 한국 구호대가 중국 생존자 구조에 활약하고 있다. 한국인 실종자 9명(두산에너빌리티 6명, 한국남동발전 3명)을 찾기 위해 KDRT가 UT-1 수력발전소 인근을 헬기와 드론으로 수색 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-06T15:58:37+09:00",
     "importance": 4
