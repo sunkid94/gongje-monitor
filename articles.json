@@ -21769,6 +21769,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "제주, 추석 전 건설현장 하도급·임금 체불 점검 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kaklQaVRVUS1ya3pYZHhpUl9CZjg3SFVtazlIN0taREtnTFUzcTdKWmh3U0J2MjVUZXI3dmhsUWhDUXpyQXNQV1k5NWFndGs?oc=5",
+    "description": "[아이뉴스24 현창민 기자] 제주도가 추석 명절을 앞두고 건설 현장 노동자의 임금 체불 현장 점검에 나섰다. 하도급대금과 임금 체불 현황을 파악해 노동자의 권익을 최대한 확보하기 위한 조치다. 점검 대상은 도내 공공·민간 건설현장이며, 기간은 지난 9일부터 오는 17일까지 2주간 진행된다. 점검에서는 ▷하도급대금 ▷건설근로자 임금 ▷건설기계 대여대금 등을",
+    "published_at": "2026-09-11T21:20:07+09:00",
+    "cluster_id": "a904",
+    "publisher": "v.daum.net",
+    "title_clean": "제주, 추석 전 건설현장 하도급·임금 체불 점검",
+    "summary": "제주도가 추석 명절을 앞두고 도내 공공·민간 건설현장을 대상으로 하도급대금, 건설근로자 임금, 건설기계 대여대금 등의 체불 현황을 점검 중이다. 노동자의 권익 보호를 위한 정부 감시 및 규제 조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-11T21:29:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32311,21 +32327,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-08T08:40:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 추석 연휴 앞두고 철도건설현장 안전점검 실시 - 여성종합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZTGhucG91MDdDYUhKQVcySmdVaUNNakxxczJ0VnZBUmJPd1hkanhKQXJKbnVmQnlrY2kwV242bXg0UG1wU05GMEtacmxkRDJrMURXVWVkWTNSeTFlU05LZ09lZUFmY094Q003bWJTWQ?oc=5",
-    "description": "[여성종합뉴스/이경문 기자]경기도가 추석 연휴를 맞아 안전사고 예방과 건설근로자의 임금 지급 실태 점검..",
-    "published_at": "2026-09-07T22:03:06+09:00",
-    "cluster_id": "fdf4",
-    "publisher": "여성종합뉴스",
-    "title_clean": "경기도, 추석 연휴 앞두고 철도건설현장 안전점검 실시",
-    "summary": "경기도가 추석 연휴를 앞두고 철도건설현장에 대한 안전점검을 실시하며 안전사고 예방과 건설근로자의 임금 지급 실태를 점검하고 있다. 이는 연휴 기간 건설현장의 안전 관리 강화와 근로자 보호에 초점을 맞춘 행정조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T08:30:17+09:00",
-    "importance": 4
   }
 ]
