@@ -21769,6 +21769,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“중대재해, 노사가 손잡고 막는다” - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10870964?ref=naver",
+    "description": "“추락, 붕괴 등 건설현장의 중대재해를 노사가 손잡고 막아냅시다” 사단법인 호남제주철콘연합회(회장 김양록)와 민주노총 전국건설노동조합광주전남건설지부(지부장이준상)는 11일 ‘광주서구연합회회의실에서...",
+    "published_at": "2026-09-11T18:57:00+09:00",
+    "cluster_id": "e81f",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "“중대재해, 노사가 손잡고 막는다”",
+    "summary": "호남제주철콘연합회와 민주노총 전국건설노동조합광주전남건설지부가 건설현장의 추락, 붕괴 등 중대재해 예방을 위해 노사가 협력하기로 합의했다. 노사 협력을 통한 안전 문화 강화로 산업재해 감소를 목표로 한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-11T19:09:34+09:00",
+    "importance": 3
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이천시, 9월 노동안전의 날 맞아 건설현장 합동점검 및 안전수칙 캠페인 - 웹이코노미",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1eGJzMm81RW1XblRvc2VDb01mVXB0MHJMbjlMVFpBUVhtaFM1NThxbm54QlJMVXVoem1fX08wVEs3cERBZ2xULU05dUpMOGkzeldBSF9YMGpBS0wxMGhTaWpXdm9RXzBKTzlybHFtcDBIdw?oc=5",
+    "description": "이천시는 9월 노동안전의 날을 맞아 중리지구 다목적 실내체육관과 여성비전센터 건축현장에서 산업재해 예방을 위한 합동점검과 고령노동자 대상 안전수칙 홍보 캠페인을",
+    "published_at": "2026-09-11T18:53:00+09:00",
+    "cluster_id": "c720",
+    "publisher": "웹이코노미",
+    "title_clean": "이천시, 9월 노동안전의 날 맞아 건설현장 합동점검 및 안전수칙 캠페인",
+    "summary": "이천시가 9월 노동안전의 날을 맞아 건설현장에서 산업재해 예방 합동점검과 고령노동자 대상 안전수칙 캠프페인을 실시한다. 건설 현장의 안전 규제 및 점검 강화를 의미하는 소식이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-11T19:09:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32295,37 +32327,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-08T08:10:30+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울특별시의회 교통위원회, 동북선 건설현장 및 진접차량기지 현장방문 - 문화매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZExqRkViOEVLX1EtazRETXEzMElZSHhfVW1Nck04S0h2djgyMEJPVW1kUjMxVmpKcE1SS3FONW9XNlZvZFFkWm93?oc=5",
-    "description": "서울특별시의회 교통위원회, 동북선 건설현장 및 진접차량기지 현장방문 [문화매일=최광수 기자] 서울특별시의회 교통위원회(위원장 한 신, 더불어민",
-    "published_at": "2026-09-07T22:11:00+09:00",
-    "cluster_id": "03dd",
-    "publisher": "문화매일신문",
-    "title_clean": "서울특별시의회 교통위원회, 동북선 건설현장 및 진접차량기지 현장방문",
-    "summary": "서울특별시의회 교통위원회가 동북선 건설현장과 진접차량기지를 현장방문하여 지하철 건설 사업의 진행상황을 점검했다. 해당 방문은 공공 인프라 사업의 추진 현황을 모니터링하는 의회 활동으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-08T08:10:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "IPARK현대산업개발, '2026 IPARK 기술제안 공모전' 시상식 개최 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XYjlSRllqWjl6V0c2Qm5JWGtvTFFlTkRRN1dwS2ZOWlhtdEUzNC00d3lsS0E5MXc5M0t2LUg1ZzVsNGxwT2U5WEFYWWptV2trSWlsemM3NjNYMURfU0FCNTh5OENKcXJTb3fSAW9BVV95cUxOTV9CRzg4Mkg5NjU2MFZpRnVXbHB3Q0VOcEQ3bnlwQ3ZRQlFzTnpRQzRjdlZkODdDS2FHaGh6UTlnbTdxZGNYODQ3cnp3TlE3YmlFWkV0MEhCSTJUVkJTUGNLMFlPaDl1alJpRko5bk0?oc=5",
-    "description": "IPARK현대산업개발은 지난 4일 '2026 IPARK 기술제안 공모전' 우수기술 시상식을 진행했다고 7일 밝혔다. 총 114건의 기술 제안 중 서류심사와 최종 PT 심사를 거쳐 대상 1개, 최우수상 1개, 우수상 2개 등 총 4개 기업을 선정했다.",
-    "published_at": "2026-09-07T16:08:19+09:00",
-    "cluster_id": "d855",
-    "publisher": "머니투데이",
-    "title_clean": "IPARK현대산업개발, '2026 IPARK 기술제안 공모전' 시상식 개최 - 머니투데이",
-    "summary": "IPARK현대산업개발이 '2026 IPARK 기술제안 공모전'을 개최하여 114건의 기술 제안 중 4개 우수기술을 선정했다. 이는 건설업계의 기술혁신 및 업체 역량 강화를 위한 활동으로 볼 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-08T08:10:30+09:00",
-    "importance": 2
   }
 ]
