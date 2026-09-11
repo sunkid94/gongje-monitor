@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "충북도회, 이장섭 청주시장과 간담회 개최·성금 1000만원 기탁 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326428",
+    "description": "대한전문건설협회 충북도회(회장 류근형)는 11일 청주시청에서 이장섭 시장과 간담회를 갖고 지역 건설산업 발전과 지역사회 상생 방안을 논의했다. 도회는 간담회 후 어려운 이웃을 돕기 위한 성금 1000만원을 시에 기탁했다.이날 간담회에는 이장섭 시장과 류근형 회장을 비롯해 도회 김현호 청주시위원장을 비롯한 임원진과 시 공무원들이 참석했다.류근형 회장은 △단순·복합 유지보수공사의 전문건설업 발주 △소규모 관급공사 설계단가 기준의 합리적 적용 △지역업체 하도급 참여 확대 등을 건의하며 지역 전문건설업체 참여 확대와 건설산업 활성화를 위한",
+    "published_at": "2026-09-11T09:38:10+09:00",
+    "cluster_id": "1168",
+    "publisher": "대한전문건설신문",
+    "title_clean": "충북도회, 이장섭 청주시장과 간담회 개최·성금 1000만원 기탁",
+    "summary": "대한전문건설협회 충북도회가 청주시장과 간담회를 열어 지역 건설산업 발전 방안을 논의하고 1000만원 성금을 기탁했다. 단순·복합 유지보수공사 발주 확대, 설계단가 기준 합리화, 지역업체 하도급 참여 확대 등을 건의했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-11T09:46:06+09:00",
+    "event_label": "대한전문건설협회 충북도회 청주시장과 간담회 및 성금 기탁",
+    "importance": 5
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "공사비 갈등, 공사도급계약해지 전략은 - globalepic.co.kr",
     "link": "http://www.globalepic.co.kr/view.php?ud=20260910104059951937600e7ec7_29",
     "description": "그 밖에 시공사의 중도 포기나 파행으로, 발생한 추가 공사비 및 선급금 미정산과 관련한 손해를 신속히 보전받기 위해 건설공제조합이나 보증 공사를 상대로 계약이행보증금 및 선급금반환보증금 신청 또는 청구 절차를...",
@@ -32308,21 +32325,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-07T16:00:22+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "IPARK현산 미래건설 신기술 육성 - newsclaim.co.kr",
-    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3074537",
-    "description": "IPARK현대산업개발,정경구 IPARK현대산업개발이 중소기업과의 상생 협력을 강화하고 미래 건설산업을... IPARK현대산업개발 제공 IPARK현대산업개발(대표 정경구)이 중소기업 상생 협력과 미래 건설기술 발굴을 위한...",
-    "published_at": "2026-09-07T15:42:00+09:00",
-    "cluster_id": "2bee",
-    "publisher": "newsclaim.co.kr",
-    "title_clean": "IPARK현산 미래건설 신기술 육성",
-    "summary": "IPARK현대산업개발이 중소기업과의 상생 협력을 강화하고 미래 건설기술 발굴에 나서고 있다. 이는 건설산업의 기술 혁신과 중소기업 생태계 활성화에 긍정적인 신호를 보내는 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T16:00:22+09:00",
-    "importance": 2
   }
 ]
