@@ -5245,20 +5245,20 @@
     "importance": 6
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "이노솔루텍·대한기계설비건설협회, 대전교육청에 장학금 기탁 - 금강일보",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XNEh0U1NVSFdlOTBMdDNTeF91RXZBeUJSQTRrZUFSQjEwaXJnNHQydGc4NGdsNDlXSVNMQk52cWZFa3I4OW5DUkV2U0VTZU1zbzdtU1pCQ3VmVWM0dVR6eE83Z213VFBl?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XNEh0U1NVSFdlOTBMdDNTeF91RXZBeUJSQTRrZUFSQjEwaXJnNHQydGc4NGdsNDlXSVNMQk52cWZFa3I4OW5DUkV2U0VTZU1zbzdtU1pCQ3VmVWM0dVR6eE83Z213VFBl?oc=5\" target=\"_blank\">이노솔루텍·대한기계설비건설협회, 대전교육청에 장학금 기탁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">금강일보</font>",
-    "cluster_id": "5dc3",
-    "publisher": "금강일보",
-    "title_clean": "이노솔루텍·대한기계설비건설협회, 대전교육청에 장학금 기탁",
-    "summary": "이노솔루텍과 대한기계설비건설협회가 대전교육청에 장학금을 기탁했다. 업계 단체의 사회공헌 활동으로, 지역 교육 지원을 통한 협회의 사회적 책임 이행 사례다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T16:31:29+09:00",
-    "event_label": "대한기계설비건설협회 장학금 기탁",
-    "importance": 5
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "네팔 긴급구호대 2진 본격 활동…한국인 수색·복구 지원 나선다 - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1689591/?sc=Naver",
+    "description": "산악지대에서 발생한 대홍수는 바그마티주 라수와 지역의 어퍼트리슐리(UT)-1 수력발전소 건설 현장을 덮쳤다. 당시 현장에 있던 두산에너빌리티 직원 6명과 한국남동발전 직원 3명 등 한국인 근로자 9명이 실종됐다.",
+    "published_at": "2026-09-12T16:28:00+09:00",
+    "cluster_id": "16fc",
+    "publisher": "dailian.co.kr",
+    "title_clean": "네팔 긴급구호대 2진 본격 활동…한국인 수색·복구 지원 나선다",
+    "summary": "네팔 수력발전소 건설 현장의 대홍수로 한국인 근로자 9명(두산에너빌리티 6명, 한국남동발전 3명)이 실종됐다. 한국 긴급구호대가 수색·복구 활동에 나섰다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-12T16:37:49+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -21243,22 +21243,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-07T10:14:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[특징주] 두산퓨얼셀, 24%대 '강세'⋯증권가 목표가 70%↑ - inews24.com",
-    "link": "http://www.inews24.com/view/2002562",
-    "description": "두산퓨얼셀이 장 초반부터 24%대 급상승 중이다. 미국 데이터센터향 대규모 공급계약 체결로 증권가의 목표주가 눈높이가 크게 상향된 영향이다. 7일 한국거래소에 따르면 두산퓨얼셀은 이날 오전 9시 53분 현재...",
-    "published_at": "2026-09-07T10:09:00+09:00",
-    "cluster_id": "4709",
-    "publisher": "inews24.com",
-    "title_clean": "[특징주] 두산퓨얼셀, 24%대 '강세'⋯증권가 목표가 70%↑",
-    "summary": "두산퓨얼셀이 미국 데이터센터향 대규모 공급계약 체결로 주가가 24% 상승했다. 증권가의 목표주가가 70% 이상 상향되며 긍정적인 시장 평가를 받고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T10:14:21+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
