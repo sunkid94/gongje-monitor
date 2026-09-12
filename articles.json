@@ -5584,23 +5584,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협회 광주·전남도회, 꿈실현금 누적 기탁금 1억원 초과 달성 - jngjedu.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tSVM5VHNIdG5vZElHbHdjZllSRVJRc1pvbkZuZmFrMHgyWkJrRFFabUV1Rl9HLXFPY21xRVdlaFpqMnZSVkpuOE1LMXN2b1hpdzhVSnVHRnhnZ2I4cFBjY0VPUUx5djBt0gFsQVVfeXFMT0pydnRGaTF2VWRGeWFSRW5XVDRLdDFydE1pYzM2a0RGMElVa0NWLUpVQ0F0bnhhcDdpaEdZYnVhU3prd2FJOE9HWGs1TXlsRlgtaFl4MzA4cUU1c3B2TnpuaTE5c2JVNF9ONjk5?oc=5",
-    "description": "(재)전남교육 꿈실현재단(이사장 김대중)은 대한기계설비건설협회 광주·전남도회(회장 전상철)가 미래 인재 육성을 지원하기 위한 꿈실현금 1,000만원을 기탁 했다고 13일 밝혔다.대한기계설비건설협회 광주·전남도회는 2012년 첫 기탁을 시작으로 학생들의 소질과 적성 계발, 미래 역량 함양을 위한 인재 육성에 힘을 보태왔다. 특히 이번 기탁으로 누적 기탁금은 1억 1,000만 원에 이르렀으며, 이는 일회성 후원을 넘어 10년이 넘는 기간 동안 학생들의 꿈과 성장을 위해 꾸준히 이어온 나눔의 결실이라는 점에서 의미가 크다.전상철 회장은",
-    "published_at": "2026-08-13T10:36:04+09:00",
-    "cluster_id": "c8c7",
-    "publisher": "jngjedu.kr",
-    "title_clean": "대한기계설비건설협회 광주·전남도회, 꿈실현금 누적 기탁금 1억원 초과 달성",
-    "summary": "대한기계설비건설협회 광주·전남도회가 미래 인재 육성을 위해 꿈실현금 1,000만원을 기탁했다. 2012년부터 시작한 누적 기탁금이 1억 1,000만원에 도달하며 10년 이상 지속적인 나눔을 이어가고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T12:34:38+09:00",
-    "event_label": "대한기계설비건설협회 광주·전남도회 꿈실현금 누적 기탁금 1억원 초과 달성",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21598,6 +21581,22 @@
     "summary": "대우건설이 시공한 대구 달서푸르지오 시그니처 계약자들이 '사기분양' 피해를 주장하며 거리 시위에 나섰다. 건설사의 분양 관련 분쟁과 신뢰 문제가 대두되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-07T09:59:01+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[축사] 윤기주 한국열관리시공협회 회장 - todayenergy.kr",
+    "link": "https://www.todayenergy.kr/news/articleView.html?idxno=302864",
+    "description": "건설경기 위축과 미분양 증가로 위기감이 고조되고 있으며, 신축·재건축 침체로 업계도 큰 타격이 예상됩니다. 이런 때일수록 예상되는 리스크에 선제적으로 대비하고, 협회를 중심으로 회원사가 힘을 합쳐 위기를 기회로...",
+    "published_at": "2026-09-12T12:24:00+09:00",
+    "cluster_id": "a260",
+    "publisher": "todayenergy.kr",
+    "title_clean": "[축사] 윤기주 한국열관리시공협회 회장",
+    "summary": "윤기주 한국열관리시공협회 회장이 건설경기 위축과 미분양 증가로 인한 업계 위기를 언급하며, 협회 중심의 단합과 선제적 대응을 통해 위기를 기회로 전환할 것을 촉구했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-12T12:38:44+09:00",
     "importance": 4
   },
   {
