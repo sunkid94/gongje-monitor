@@ -4959,22 +4959,6 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회, 기계설비 홍보 강화…컬러링 서비스 도입 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRXVpX3RDWkdWb2N4Q0IwRVhnNjlrTVZyejF2UW9rREhKNVlWdFdJWjlJTElXSzVYRGVsT3UwV19HOWppcm9qVDdNQXpoOU9mR1VvMGIwSDJVLUZiRGpxU2dIRklmVzdoY1Bucw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRXVpX3RDWkdWb2N4Q0IwRVhnNjlrTVZyejF2UW9rREhKNVlWdFdJWjlJTElXSzVYRGVsT3UwV19HOWppcm9qVDdNQXpoOU9mR1VvMGIwSDJVLUZiRGpxU2dIRklmVzdoY1Bucw?oc=5\" target=\"_blank\">기계설비협회, 기계설비 홍보 강화…컬러링 서비스 도입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">기계설비신문</font>",
-    "cluster_id": "ad83",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비협회, 기계설비 홍보 강화…컬러링 서비스 도입",
-    "summary": "기계설비협회가 기계설비 산업의 홍보 강화를 위해 컬러링 서비스를 새로 도입하기로 결정했다. 이는 기계설비 건설 산업에 대한 인지도 제고 및 긍정적 이미지 형성을 위한 마케팅 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-14T07:11:24+09:00",
-    "event_label": "기계설비협회 컬러링 서비스 도입을 통한 홍보 강화",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20973,6 +20957,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-07T10:29:31+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노란봉투법·추투에 레미콘 파업까지…노동부 건설현장 노사관리 도마 - news1.kr",
+    "link": "https://www.news1.kr/economy/employment-labor/6285396",
+    "description": "민주노총 전국건설노동조합 광주전남건설기계지부는 적정 운송단가 보장 등을 요구하며 지난 7일 총파업에 돌입했고, 8일에는 전남광주통합특별시 광주청사 앞에서 레미콘 믹서트럭 등 건설장비 80여 대를 동원해...",
+    "published_at": "2026-09-13T07:30:00+09:00",
+    "cluster_id": "7846",
+    "publisher": "news1.kr",
+    "title_clean": "노란봉투법·추투에 레미콘 파업까지…노동부 건설현장 노사관리 도마",
+    "summary": "민주노총 전국건설노동조합이 적정 운송단가 보장을 요구하며 레미콘 등 건설장비를 동원해 총파업을 시작했다. 노란봉투법과 추경 논의 등으로 건설현장 노사관리가 도마 위에 오르고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T07:37:44+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
