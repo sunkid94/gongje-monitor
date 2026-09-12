@@ -4975,22 +4975,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협회 광주·전남도회, 전남교육 꿈실현재단에 '꿈실현금' 1,000만 원 기탁 - 브레이크뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43bFBpLXR5RjFDUjE2X09SRHdsbUxqekJEZUhvMGV0eDluZXdkX3lCMnhndnc1V3h0ZjlXTXpOUGhLZw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE43bFBpLXR5RjFDUjE2X09SRHdsbUxqekJEZUhvMGV0eDluZXdkX3lCMnhndnc1V3h0ZjlXTXpOUGhLZw?oc=5\" target=\"_blank\">대한기계설비건설협회 광주·전남도회, 전남교육 꿈실현재단에 '꿈실현금' 1,000만 원 기탁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">브레이크뉴스</font>",
-    "cluster_id": "58c7",
-    "publisher": "브레이크뉴스",
-    "title_clean": "대한기계설비건설협회 광주·전남도회, 전남교육 꿈실현재단에 '꿈실현금' 1,000만 원 기탁",
-    "summary": "대한기계설비건설협회 광주·전남도회가 전남교육 꿈실현재단에 1,000만 원의 기탁금을 전달했다. 이는 협회의 사회공헌활동 일환으로, 지역 교육 발전을 위한 지원이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-14T00:01:35+09:00",
-    "event_label": "대한기계설비건설협회 광주·전남도회 사회공헌금 기탁",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20989,6 +20973,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-07T10:29:31+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "수주 31% 급감·비용지수 5.8% 동반 상승…한국 건설현장 삼중 압박의 실체와 생존 대응법 - 대한청년일보",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DWHdBQU5IVmRZdmNscVRXdnpfU0pmUlN5ZWNNYXJ2MDlYY25ybk5WcTkxbGtOTGZCSm16TGhBT2xaanM?oc=5",
+    "description": "수주 급감과 비용 상승이 인력시장에 미치는 영향 2026년 9월 현재, 한국 건설업은 수주 31% 급감, 건설비용지수 5.8% 상승(138.59), 기능인력 5만 명 감소라는 세 가지 충격이 동시에 작용하는 전례 없는 구조적 위기에 처해 있다. CHOSUNBIZ의 2026년 9월 10일 보도가 확인한 이 수치들은 단순한 경기 변동이 아니라, 비용 구조와 인",
+    "published_at": "2026-09-13T02:35:02+09:00",
+    "cluster_id": "aa49",
+    "publisher": "대한청년일보",
+    "title_clean": "수주 31% 급감·비용지수 5.8% 동반 상승…한국 건설현장 삼중 압박의 실체와 생존 대응법",
+    "summary": "한국 건설업이 수주 31% 급감, 건설비용지수 5.8% 상승, 기능인력 5만 명 감소이라는 삼중 위기에 직면했다. 단순한 경기 변동을 넘어 구조적 위기 상황으로, 업계의 생존 대응이 시급한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T02:47:47+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
