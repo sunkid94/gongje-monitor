@@ -4975,6 +4975,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대미 투자 합의 임박…건설주, 수주 기대감에 이달 상승률 1위 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20260912017800008?input=1195m",
+    "description": "'KRX 건설' 지수에 편입된 종목은 현대건설과 삼성E&A, 대우건설, GS건설 등 16개다. 이 가운데 현대건설의 경우 같은 기간 9.41% 올랐고 삼성E&A는 8.28%, 대우건설은 9.35%, GS건설은 6.06%씩 상승했다. 건설주는 올해 상반기...",
+    "published_at": "2026-09-13T06:25:00+09:00",
+    "cluster_id": "47e3",
+    "publisher": "yna.co.kr",
+    "title_clean": "대미 투자 합의 임박…건설주, 수주 기대감에 이달 상승률 1위",
+    "summary": "대미 투자 합의 임박에 따른 수주 기대감으로 건설주들이 이달 주식시장에서 상승률 1위를 기록했다. 현대건설, 삼성E&A, 대우건설, GS건설 등 KRX 건설 지수 편입 16개 종목이 6~9% 상승했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-13T06:27:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20957,22 +20973,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-07T10:29:31+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 4002억 도곡우성 수주…올해 6번째 정비사업 - fetv.co.kr",
-    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=309710",
-    "description": "롯데건설이 서울 강남구 도곡우성아파트 재건축 시공권을 따냈다. 공사비는 4002억원이다. 이로써 롯데건설의 올해 도시정비사업 수주는 6건, 누적 4조110억원으로 늘었다. 시공사 선정은 지난 5일 강남구 대치중학교...",
-    "published_at": "2026-09-07T10:14:00+09:00",
-    "cluster_id": "7e7e",
-    "publisher": "fetv.co.kr",
-    "title_clean": "롯데건설, 4002억 도곡우성 수주…올해 6번째 정비사업",
-    "summary": "롯데건설이 서울 강남구 도곡우성아파트 재건축 공사를 4002억원에 수주했다. 올해 도시정비사업 수주는 총 6건, 누적 4조110억원으로 증가했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T10:29:31+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
