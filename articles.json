@@ -5618,23 +5618,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협회, '꿈 지원'... 미래 인재 키운다 - newsworker.co.kr",
-    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=441066",
-    "description": "전남교육 꿈실현재단(이사장 김대중)은 대한기계설비건설협회 광주·전남도회(회장 전상철)가 미래 인재 육성을 위한 꿈실현금 1,000만 원을 기탁했다고 13일 밝혔다. 이번 기탁은 단순한 일회성 후원보다 학생들의 소질과...",
-    "published_at": "2026-08-13T11:16:00+09:00",
-    "cluster_id": "a899",
-    "publisher": "newsworker.co.kr",
-    "title_clean": "대한기계설비건설협회, '꿈 지원'... 미래 인재 키운다",
-    "summary": "대한기계설비건설협회 광주·전남도회가 전남교육 꿈실현재단에 1,000만 원을 기탁했다. 미래 인재 육성을 위한 사회공헌활동으로, 일회성이 아닌 지속적 지원을 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-13T11:29:37+09:00",
-    "event_label": "대한기계설비건설협회 미래 인재 육성 기금 1,000만 원 기탁",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21633,6 +21616,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-07T09:59:01+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기 제조업 생산 감소폭 커져…반도체 수출은 고공행진 - kihoilbo.co.kr",
+    "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034443",
+    "description": "건설수주액 역시 28.1% 감소한 가운데 7월 말 미분양주택은 한 달 새 841호 증가한 1만4천394호로 나타났다. 고용은 전월 감소에서 증가로 전환했다. 7월 취업자 수는 전년 동월보다 1만2천명 많았으며 고용률은 63.7...",
+    "published_at": "2026-09-12T11:30:00+09:00",
+    "cluster_id": "3816",
+    "publisher": "kihoilbo.co.kr",
+    "title_clean": "경기 제조업 생산 감소폭 커져…반도체 수출은 고공행진",
+    "summary": "경기 제조업 생산이 감소세를 보이는 가운데 건설수주액이 28.1% 급락하고 미분양주택이 증가했다. 반면 반도체 수출은 호조를 이어가고 있으며 7월 고용은 전년 동월 대비 증가로 전환했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-12T11:38:37+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
