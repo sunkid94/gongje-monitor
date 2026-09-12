@@ -4891,6 +4891,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "동탄1신도시 초고층 단지, '아크메르 동탄' 이달 분양 예정 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3051240",
+    "description": "사진 = 아크메르 동탄 스케치컷 이미지 KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 대규모 주상복합 단지 아크메르 동탄이 오는 9월 분양에 나선다. 아크메르 동탄은 경기도 화성시 동탄구 일원에 지하 7층...",
+    "published_at": "2026-09-13T08:26:00+09:00",
+    "cluster_id": "05e3",
+    "publisher": "apnews.kr",
+    "title_clean": "동탄1신도시 초고층 단지, '아크메르 동탄' 이달 분양 예정",
+    "summary": "KB부동산신탁과 포스코이앤씨가 함께 추진하는 동탄1신도시의 초고층 주상복합 단지 '아크메르 동탄'이 9월 분양을 앞두고 있다. 대규모 건설 프로젝트로 건설업체의 수주 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-13T08:37:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20870,22 +20886,6 @@
     "publisher": "metroseoul.co.kr",
     "title_clean": "[특징주] 두산퓨얼셀, 美 데이터센터 대형 수주·증권가 긍정적 전망에...",
     "summary": "두산퓨얼셀이 미국 AI 데이터센터용 대규모 연료전지를 수주하면서 주가가 21% 급등했다. 증권가의 긍정적 전망이 투자 심리를 자극하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T10:29:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[특징주] 두산퓨얼셀, 美 5014억원 수주.. 24%대 '급등' - g-enews.com",
-    "link": "https://www.g-enews.com/view.php?ud=20260907095325236144093b5d4e_1",
-    "description": "두산퓨얼셀이 급등하고 있다. 미국 인공지능(AI) 데이터센터용 대규모 연료전지 수주가 이뤄진 가운데 증권가에서 목표주가를 상향하는 등 기대감을 나타내면서 영향을 받은 것으로 보인다. 7일 한국거래소에...",
-    "published_at": "2026-09-07T10:14:00+09:00",
-    "cluster_id": "4130",
-    "publisher": "",
-    "title_clean": "[특징주] 두산퓨얼셀, 美 5014억원 수주.. 24%대 '급등' - g-enews.com",
-    "summary": "두산퓨얼셀이 미국 AI 데이터센터용 연료전지 5014억원 규모 수주를 확보하면서 주가가 24% 급등했다. 증권가의 목표주가 상향 조정으로 시장의 긍정적 평가가 이어지고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-07T10:29:31+09:00",
     "importance": 2
