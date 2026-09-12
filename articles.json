@@ -5601,21 +5601,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[울산 24시] 울산시-유관기관, 불법 성인 PC방 근절 공동대응 - sisajournal.com",
-    "link": "https://www.sisajournal.com/news/articleView.html?idxno=383435",
-    "description": "울산시는 시 발주부서와 구·군 인허가 부서, 대한건설협회·대한전문건설협회·대한기계설비건설협회·한국전기공사협회·소방시설협회 등 5개 협회와 9명 규모의 민·관 합동 활동반을 운영한다. 활동반은 대상...",
-    "published_at": "2026-08-13T11:32:00+09:00",
-    "cluster_id": "22e1",
-    "publisher": "sisajournal.com",
-    "title_clean": "[울산 24시] 울산시-유관기관, 불법 성인 PC방 근절 공동대응",
-    "summary": "울산시가 대한기계설비건설협회 등 5개 협회와 함께 불법 성인 PC방 근절을 위한 민·관 합동 활동반을 운영 중이다. 9명 규모의 활동반은 불법 시설 적발 및 지도 단속을 진행하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T11:39:51+09:00",
-    "event_label": "대한기계설비건설협회 울산시와 불법 성인 PC방 근절 공동대응",
-    "importance": 5
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주末머니]'160조 원전 잭팟' 열린다…팀코리아 핵심 파트너 부상한 이 기업 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4a3h0eHJqcWVSV1plQ08zY2hDdWtNZmY0WmItSXhjRlRLNm9QM1JZQnVyb09xX0FZRlZycmthaXRpRElqb2V3ZWVnMG5BaVU?oc=5",
+    "description": "대우건설(047040)이 원전과 액화천연가스(LNG) 프로젝트 수주 기대감에 힘입어 실적과 기업가치가 동시에 개선될 것이란 전망이 나왔다. 특히 미국 대형원전 사업에서",
+    "published_at": "2026-09-12T08:01:51+09:00",
+    "cluster_id": "8bbc",
+    "publisher": "v.daum.net",
+    "title_clean": "[주末머니]'160조 원전 잭팟' 열린다…팀코리아 핵심 파트너 부상한 이 기업",
+    "summary": "대우건설이 원전과 LNG 프로젝트 수주 기대감으로 실적과 기업가치 개선이 예상된다. 미국 대형원전 사업 참여 등을 통해 건설업계의 대규모 수주 기회가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-12T12:08:42+09:00",
+    "importance": 2
   },
   {
     "keyword": "포스코이앤씨",
@@ -21600,22 +21599,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-07T09:59:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[애널픽] 두산퓨얼셀, 투자의견 '보유'→'매수' 상향 왜? - theviewers.co.kr",
-    "link": "https://theviewers.co.kr/View.aspx?No=4215064",
-    "description": "뷰어스 신아림 기­자 newsahrim@viewers.co.kr 두산퓨얼셀이 데이터센터용 연료전지 수주에 성공하며 시장성을 확인했다. 7일 NH투자증권은 내년 흑자전환이 가능할 것이라며 투자의견 '매수', 목표가를 5만8000원으로...",
-    "published_at": "2026-09-07T09:52:00+09:00",
-    "cluster_id": "bdaf",
-    "publisher": "theviewers.co.kr",
-    "title_clean": "[애널픽] 두산퓨얼셀, 투자의견 '보유'→'매수' 상향 왜?",
-    "summary": "두산퓨얼셀이 데이터센터용 연료전지 수주에 성공하며 사업 확장성을 입증했다. NH투자증권이 내년 흑자전환 전망을 바탕으로 투자의견을 '보유'에서 '매수'로 상향조정하고 목표가를 5만8000원으로 제시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T09:59:01+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설수주",
