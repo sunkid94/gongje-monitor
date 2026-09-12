@@ -5567,23 +5567,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[교육 기부]광주·전남설비協, 전남교육꿈실현재단에 1천만원 교육기부 - thepowernews.co.kr",
-    "link": "https://www.thepowernews.co.kr/view.php?ud=202608131042009959caa2b7671d_7",
-    "description": "\"소중한 장학금이 학생들의 희망을 키우는 든든한 밑거름이 되도록 뜻깊게 사용하겠습니다\" 전남교육 꿈실현재단(이사장 김대중)은 대한기계설비건설협회 광주·전남도회(회장 전상철)가 미래 인재 육성을 지원하기...",
-    "published_at": "2026-08-13T12:46:00+09:00",
-    "cluster_id": "1f69",
-    "publisher": "thepowernews.co.kr",
-    "title_clean": "[교육 기부]광주·전남설비協, 전남교육꿈실현재단에 1천만원 교육기부",
-    "summary": "대한기계설비건설협회 광주·전남도회가 전남교육꿈실현재단에 1천만원을 교육기부했다. 기계설비건설 업계의 사회공헌 활동으로 미래 인재 육성을 지원하는 사례이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-13T12:49:51+09:00",
-    "event_label": "대한기계설비건설협회 광주·전남도회 전남교육꿈실현재단에 1천만원 교육기부",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21581,6 +21564,22 @@
     "summary": "대우건설이 시공한 대구 달서푸르지오 시그니처 계약자들이 '사기분양' 피해를 주장하며 거리 시위에 나섰다. 건설사의 분양 관련 분쟁과 신뢰 문제가 대두되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-07T09:59:01+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "유재수 경기도의원 “도민 안전·민생 직결 예산 감액 신중해야” - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/12/20260912500049?wlog_tag3=naver",
+    "description": "유의원은 먼저 2016년부터 추진되어 온 ‘경기도 건설신기술 박람회’가 道의 비상재정 상황 선언에 따른 시급성 재평가를 이유로 갑자기 취소된 점을 문제 삼았다. 유 의원은 “해당 박람회는 2024년 기준 58개사가...",
+    "published_at": "2026-09-12T12:47:00+09:00",
+    "cluster_id": "1551",
+    "publisher": "seoul.co.kr",
+    "title_clean": "유재수 경기도의원 “도민 안전·민생 직결 예산 감액 신중해야”",
+    "summary": "유재수 경기도의원이 도의 비상재정 상황 선언으로 인한 '경기도 건설신기술 박람회' 취소를 비판하며, 도민 안전·민생과 직결된 예산 감액에 신중을 기할 것을 촉구했다. 해당 박람회는 2016년부터 추진되어 온 건설업계 주요 행사로 58개사가 참여하고 있었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-12T12:58:43+09:00",
     "importance": 4
   },
   {
