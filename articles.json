@@ -4843,6 +4843,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "가덕도신공항 부지조성공사, 설계심의위원 21명 확정 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131042052310756",
+    "description": "정부ㆍ공공기관ㆍ외부 각 7명씩 21명으로 구성…내달 심의 결과 통보 예정 대우건설 컨소시엄이 제출한 가덕도신공항 부지조성공사 기본설계에 대한 설계심의가 본격 시작된다. 13일 관계기관에 따르면 국토교통부는...",
+    "published_at": "2026-09-14T06:22:00+09:00",
+    "cluster_id": "257a",
+    "publisher": "대한경제",
+    "title_clean": "가덕도신공항 부지조성공사, 설계심의위원 21명 확정",
+    "summary": "가덕도신공항 부지조성공사의 기본설계 심의를 위해 정부·공공기관·외부 전문가 21명으로 구성된 설계심의위원회가 확정되었다. 대우건설 컨소시엄이 제출한 설계안에 대해 내달 심의 결과를 통보할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-14T06:33:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "2조 원 짜리도 단독 입찰…여의도·목동 재건축에 무슨 일이[집슐랭] - sedaily.com",
     "link": "https://www.sedaily.com/article/20090334?ref=naver",
     "description": "공작아파트는 대우건설이 2023년 시공권을 확보한 가운데 은하·삼익아파트도 11일 시공사 선정 절차에 들어갔다. 두 단지는 1974년 나란히 준공됐고 각각 360가구로 규모와 평형이 같다. 6월 정비구역 지정도 동시에...",
@@ -20824,20 +20840,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "한화·현대로템 등 124개 사 참여… 경남도, 16일 일자리 박람회 - hankookilbo.com",
-    "link": "https://www.hankookilbo.com/news/article/A2026090616490003169?did=NA",
-    "description": "이번 박람회에는 한화오션, 한화에어로스페이스, 한화엔진, 한국항공우주산업(KAI), 현대로템, 두산에너빌리티, 효성중공업, 케이조선, 볼보 등 지역 대표 기업을 비롯해 총 124개 중견·수 기업이 참가해 현장 채용상담과...",
-    "published_at": "2026-09-07T11:11:00+09:00",
-    "cluster_id": "d4ea",
-    "publisher": "hankookilbo.com",
-    "title_clean": "한화·현대로템 등 124개 사 참여… 경남도, 16일 일자리 박람회",
-    "summary": "경남도가 16일 한화오션, 현대로템 등 124개 중견·중소 기업이 참가하는 일자리 박람회를 개최한다. 지역 대표 기업들이 현장 채용상담을 진행할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-07T11:24:18+09:00",
-    "importance": 2
+    "title": "PF부터 AI 인프라까지… ‘초격차’ 해법 제시 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609130820307030742",
+    "description": "장기화된 건설경기 침체로 부실 PF 사업장이 늘면서 구조조정과 사업 정상화 업무에도 역량을 집중하고 있다. PF 사업은 시행사와 시공사, 대주, 대리금융기관, 프로젝트관리(PM)사 등 이해관계자가 많은 데다...",
+    "published_at": "2026-09-14T06:22:00+09:00",
+    "cluster_id": "b675",
+    "publisher": "대한경제",
+    "title_clean": "PF부터 AI 인프라까지… ‘초격차’ 해법 제시",
+    "summary": "건설경기 침체로 부실 PF 사업이 증가하면서 건설업체들이 구조조정과 사업 정상화에 집중하고 있다. PF 사업의 복잡한 이해관계자 구조 속에서 업계가 난제를 해결하려는 움직임을 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-14T06:33:08+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32262,21 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T10:05:26+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 추석 앞두고 철도건설현장 6곳 '안전·체불' 집중점검 - pointdaily.co.kr",
-    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318381",
-    "description": "연휴 기간 발생할 수 있는 건설현장 안전관리의 공백을 최소화하는 한편 임금과 하도급 대금, 장비 임대료 등의 지급 상황까지 점검해 현장 근로자와 관계 업체의 명절 부담을 줄이겠다는 것이다.",
-    "published_at": "2026-09-08T09:50:00+09:00",
-    "cluster_id": "cbb3",
-    "publisher": "pointdaily.co.kr",
-    "title_clean": "경기도, 추석 앞두고 철도건설현장 6곳 '안전·체불' 집중점검",
-    "summary": "경기도가 추석 연휴를 앞두고 철도건설현장 6곳에 대해 안전관리 공백 최소화와 임금·하도급금·장비 임대료 지급 현황을 집중점검한다. 현장 근로자와 관계 업체의 명절 부담 경감을 목표로 한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T10:05:26+09:00",
-    "importance": 4
   }
 ]
