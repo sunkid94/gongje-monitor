@@ -20840,6 +20840,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 임시 통로 한 장의 균열이 중상 사고로 — 가설구조물 안전관리의 실제 비용 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40RXRMdDVLc1lPTEpxUEVJZkNVdFN3bHM5amRRSEJRWV80bXRHV0VVSFFadkNuYk1UcHZzRU1QblIxUnNuQXpBWk4wWlhxNy1FbEE?oc=5",
+    "description": "미국 샌안토니오 사고로 본 임시가설물 위험과 비용·리스크 2026년 9월 8일 오후 4시 23분경, 미국 텍사스주 샌안토니오 북동부 건설현장에서 임시 콘크리트 통로(슬래브)가 붕괴하면서 57세 건설 노동자 1명이 중상을 입고",
+    "published_at": "2026-09-14T02:16:35+09:00",
+    "cluster_id": "cf98",
+    "publisher": "유스연합",
+    "title_clean": "건설현장 임시 통로 한 장의 균열이 중상 사고로 — 가설구조물 안전관리의 실제 비용",
+    "summary": "미국 샌안토니오 건설현장에서 임시 콘크리트 통로 붕괴로 노동자가 중상을 입는 사고 발생. 가설구조물의 부실 안전관리가 심각한 인명피해와 법적·경제적 리스크를 초래하는 사례.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-14T02:28:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32262,21 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T09:10:04+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 추석 앞 철도건설현장 6개 공구 안전·임금 체불 점검 - m-i.kr",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=1411065",
-    "description": "철도건설현장 안전점검. 사진=경기도 매일일보 = 강재규 기자 | 경기도는 추석 연휴를 앞두고 8일부터 10일까지 옥정~포천선과 도봉산~옥정선 철도건설현장 6개 공구를 대상으로 안전관리와 건설근로자 임금·각종 대금...",
-    "published_at": "2026-09-08T08:52:00+09:00",
-    "cluster_id": "548f",
-    "publisher": "",
-    "title_clean": "경기도, 추석 앞 철도건설현장 6개 공구 안전·임금 체불 점검 - m-i.kr",
-    "summary": "경기도가 추석 연휴를 앞두고 철도건설현장 6개 공구에 대한 안전점검과 건설근로자 임금 체불 여부를 집중 점검한다. 옥정~포천선과 도봉산~옥정선 현장을 대상으로 진행되는 이번 점검은 건설 현장의 안전 관리와 근로자 보호에 초점을 맞추고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-08T09:10:04+09:00",
-    "importance": 2
   }
 ]
