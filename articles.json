@@ -20840,6 +20840,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "인공지능·모듈러로 여는 부산의 미래주거… ‘2026년 제2차 부산주거포럼’ 개최 - 서프라이즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZSW5IWjhka3FqbkVLcjEzTGtvM2txT19FS202YmQ1akNiS3B3Sm0zT3dNRnhZbVVhb08wazdzemdOMWV4Z3BYZGNuYVJXenFwUDJKZGxlODJxeFR5WnJHZVZZQnB5cE9hU2lMRzd3?oc=5",
+    "description": "[서프라이즈뉴스] 부산시는 오는 9월 17일 오후 2시 시청 국제회의장에서 (사)한국건축가협회 부산건축가회와 공동으로 ‘2026년 제2차 부산주거포럼’을 개최한다고 밝혔다.시는 올해 부산주거포럼을 총 3차례 개최해 부산의 주요 주거 현안을 단계적으로 공론화하고 실효성 있는 해법을 모색하고 있다.지난 5월 29일 개최한 제1차 포럼에서는 ‘지속가능한 15분도시, 공공의 주거’를 주제로 공공주택의 역할과 지속가능한 주거정책 방향을 논의했다.이번 제2차 포럼에서는 ‘부산형 모듈러주택 공급 방향과 적용 방안’을 주제로 최근 건설환경과 기술",
+    "published_at": "2026-09-14T07:06:55+09:00",
+    "cluster_id": "d48e",
+    "publisher": "서프라이즈뉴스",
+    "title_clean": "인공지능·모듈러로 여는 부산의 미래주거… ‘2026년 제2차 부산주거포럼’ 개최",
+    "summary": "부산시가 9월 17일 제2차 부산주거포럼을 개최하여 '부산형 모듈러주택 공급 방향과 적용 방안'을 주제로 논의한다. 올해 3차례 포럼을 통해 부산의 주거 현안을 공론화하고 실효성 있는 해법을 모색하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-14T07:23:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32262,21 +32278,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-08T10:35:44+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 6개 공구 철도건설 현장 3일간 안전·임금 실태 점검 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBENElhVFF1Tk1YX2dGRUFGZnQ5NC14emZ2Rk9rYXlybUVSSzBua3plYWUwVWJGLXVleHVYV2Fqei1OV3AxS3VfVjBKcHdRemtONDhV?oc=5",
-    "description": "한눈에 보는 오늘 : 정치 - 뉴스 : [의정부=뉴스핌] 안성진 기자 = 경기도는 8일부터 오는 10일까지 사흘간 옥정~포천선과 도봉산~옥정선 철도건설 현장 6개 공구를 대상으로 안전관리 및 임금·대금 지급 실태를 종합 점검한다고 밝혔다.경기도는 8일부터 오는 10일까지 철도건설현장 6개",
-    "published_at": "2026-09-08T10:13:00+09:00",
-    "cluster_id": "7fef",
-    "publisher": "네이트",
-    "title_clean": "경기도, 6개 공구 철도건설 현장 3일간 안전·임금 실태 점검",
-    "summary": "경기도가 옥정~포천선과 도봉산~옥정선 철도건설 현장 6개 공구에 대해 8~10일 3일간 안전관리 및 임금·대금 지급 실태를 종합 점검한다. 철도건설 현장의 안전과 노동조건을 감시하는 행정 조치로 시행된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T10:30:10+09:00",
-    "importance": 4
   }
 ]
