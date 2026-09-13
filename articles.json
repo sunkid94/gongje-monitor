@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[단독] 회생 들어간 다원시스, 매각 추진…주관사는 EY한영 - hankyung.com",
+    "link": "https://www.hankyung.com/article/202609119043r",
+    "description": "앞서 1조원대 보증을 서준 엔지니어링공제조합(EGI)이 유상증자 참여를 검토하며 인수 실사까지 진행했지만 3월 말 납입 의사를 접으면서 자체 정상화 시나리오는 무산된 바 있다. 안산·김천 등에 걸친 생산설비와...",
+    "published_at": "2026-09-13T16:54:00+09:00",
+    "cluster_id": "7984",
+    "publisher": "hankyung.com",
+    "title_clean": "[단독] 회생 들어간 다원시스, 매각 추진…주관사는 EY한영",
+    "summary": "회생 절차에 들어간 다원시스를 매각하기로 결정했으며, EY한영이 주관사로 선정됐다. 앞서 엔지니어링공제조합(EGI)이 유상증자 참여를 검토했으나 3월 말 납입 의사를 철회하면서 자체 정상화는 무산된 상태다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T16:57:54+09:00",
+    "event_label": "엔지니어링공제조합 다원시스 유상증자 참여 철회",
+    "importance": 7
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -20820,6 +20837,38 @@
     "summary": "한국 조선업계가 고수익 선종에서도 중국의 추격을 받고 있는 상황. 수익성 높은 PCTC 시장에서 중국의 수주 확대로 한국 조선사들의 시장 점유율이 위협받고 있음.",
     "sentiment": "negative",
     "collected_at": "2026-09-07T10:39:28+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이천시, 건설현장 안전점검…고령 노동자 사고 예방 집중 - cnbnews.com",
+    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1015430",
+    "description": "이번 점검은 건설현장의 유해·위험 요소와 안전관리 실태를 살피는 동시에 신체 평형기능과 위험 대응 능력이 상대적으로 떨어질 수 있는 고령 노동자에게 작업 특성을 고려한 안전수칙을 알리기 위해 마련됐다. 점검반은...",
+    "published_at": "2026-09-13T16:56:00+09:00",
+    "cluster_id": "699a",
+    "publisher": "cnbnews.com",
+    "title_clean": "이천시, 건설현장 안전점검…고령 노동자 사고 예방 집중",
+    "summary": "이천시가 건설현장의 안전관리 실태를 점검하고 고령 노동자의 사고 예방에 집중하고 있다. 신체 평형기능이 저하된 고령 노동자를 대상으로 작업 특성별 안전수칙을 교육하는 방식으로 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T16:57:54+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한수원, 외부 전문가와 현장 안전관리 점검…도급·건설사업 개선 논의 - 위키리크스한국",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMnJwUUNWbTdidWttWHNrOUZmRWk0dXJBRy10Zk8tLUNVUF9BMkdEUVRwcm9tRklsbzhXbXVCX2NXOUt3WWdTanpDdVdvTzJ6dW9kQkp6SkpzSzV2S0xIbms1N3hnVXpGMnNoQlExWGU?oc=5",
+    "description": "한국수력원자력이 원전 운영과 건설, 신재생에너지 등 사업별 특성을 반영한 현장 안전관리 방안을 점검했다.13일 업계에 따르면 한수원은 지난 8월 26일 한수원 방사선보건원에서 ‘제2차 안전혁신 자문위원회’를 열고 도급 및 건설발주 사업의 안전관리 강화 방안을 논의했다.이날 자문위원회에는 현장 안전을 비롯해 학계와 법률, 노무 분야 외부 전문가들이 참여했다.참석자들은 원전 운영·건설과 신재생 사업 등 한수원이 수행하는 여러 사업의 특성을 고려해 현장 안전관리의 실효성을 높이는 방안을 검토했다.특히 도급사업과 건설발주 사업의 구분과 이",
+    "published_at": "2026-09-13T16:50:03+09:00",
+    "cluster_id": "bad9",
+    "publisher": "위키리크스한국",
+    "title_clean": "한수원, 외부 전문가와 현장 안전관리 점검…도급·건설사업 개선 논의",
+    "summary": "한수원이 외부 전문가들과 함께 원전·건설·신재생에너지 사업의 현장 안전관리 방안을 점검하고 도급·건설발주 사업의 안전관리 강화 방안을 논의했다. 사업 특성별 맞춤형 안전관리 체계 개선을 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T16:57:54+09:00",
     "importance": 4
   },
   {
