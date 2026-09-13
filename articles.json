@@ -20840,6 +20840,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[논설] 종합과 전문건설업 간 비정상적 관계, 정상화해야 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326413",
+    "description": "윤학수 대한전문건설협회 중앙회장은 “2021년 종합건설업과 전문건설업 간 상호시장 개방이 돼 5년가량 시행한 결과 국민 혈세 낭비와 부실 공사를 초래하는 불합리한 제도라는 게 입증됐다”고 했다. 윤 회장은 지난 1일 세종시 중앙타운 전문건설협회 세종센터에서 열린 국토교통부 출입기자단 간담회에서 이같이 밝히며 “상호시장 개방은 전문건설업체 영역에 종합건설업체가 들어오도록 문을 열어 준 격”이라며 “수주는 종합건설업체가 하고 실제 시공은 전문건설업체가 한다”고 했다. 이어 “종합건설업체가 수주액 일부를 가져가고 전문업체는 더 열악한 수",
+    "published_at": "2026-09-14T07:00:00+09:00",
+    "cluster_id": "62ec",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[논설] 종합과 전문건설업 간 비정상적 관계, 정상화해야",
+    "summary": "대한전문건설협회 회장이 2021년 시행된 종합·전문건설업 상호시장 개방 제도가 국민 혈세 낭비와 부실 공사를 초래하는 불합리한 제도라고 지적했다. 종합건설업체가 수주 후 이윤을 챙기고 실제 시공하는 전문건설업체가 열악한 조건에서 일하는 구조의 정상화를 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-14T07:04:17+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[전문가 視覺] 건설경기 회복하려면 ‘병목’ 풀려야 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326411",
+    "description": "올해 상반기 건설수주는 재정 조기집행, 공사비 효과 등으로 증가했다. 언뜻 보면 침체했던 건설시장에 봄이 온 것처럼 보인다. 그런데 현장 분위기는 사뭇 다르다. 공사는 늘지 않았고, 고용은 줄고 있으며, 업체 체감경기는 오히려 최근 3년 중 가장 낮은 수준이다. 수치와 현실 사이의 간극은 어디서 비롯된 것일까.건설통계를 들여다보면 이야기는 복잡해진다. 건설수주는 올해 6월 누계 기준 전년동기 대비 25.8% 증가했고, 건축착공면적도 6월까지 9.0% 늘었다. 동기간 아파트 분양물량 역시 4만 호 증가했다. 반면 실제 공사 진행을 보",
+    "published_at": "2026-09-14T07:00:00+09:00",
+    "cluster_id": "53f4",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[전문가 視覺] 건설경기 회복하려면 ‘병목’ 풀려야",
+    "summary": "올해 상반기 건설수주는 25.8% 증가하며 호조를 보였으나, 실제 공사량은 늘지 않고 고용은 감소하는 등 현장 분위기는 침체 상태다. 수주 통계와 실제 경기 사이의 괴리가 발생하고 있으며, 업체 체감경기는 최근 3년 중 가장 낮은 수준이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-14T07:04:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,37 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T10:30:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "코오롱글로벌, AI·드론 등 혁신기술 6건 건설현장서 실증 - edaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWFrdGE4U2REWk5LZzh2OTlLVWxMSGpXdS0tRGk1SGp0Y2g5RkIyYkdjejNSc1ZFR0FJQ2R6QkhCUDhxRkhUYWF5NF9UZlFnNnZDRmdvRlVCUWhzLWw3ZGYxZFRhNmx2WENjbHRxQ2VscVZaSEdFc2VrM3BlOExqVQ?oc=5",
-    "description": "코오롱글로벌이 인공지능(AI)과 드론, 토공 자동화 등의 혁신기술을 실제 건설현장에서 실증한다. 코오롱글로벌은 올해 오픈 이노베이션을 통해 총 6건의 외부 혁신기술에 대한 실증과 개념검증을 진행한다고 8일 밝혔다. 코오롱글로벌 과천 사옥 전경.(사진=코오롱글로벌)...",
-    "published_at": "2026-09-08T09:59:49+09:00",
-    "cluster_id": "b057",
-    "publisher": "edaily.co.kr",
-    "title_clean": "코오롱글로벌, AI·드론 등 혁신기술 6건 건설현장서 실증",
-    "summary": "코오롱글로벌이 AI, 드론, 토공 자동화 등 혁신기술 6건을 실제 건설현장에서 실증하는 오픈 이노베이션을 추진한다. 이는 건설업계의 기술 고도화와 생산성 향상을 선도하는 사례로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T10:10:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이숙자 서울시의원, 건설현장 '조치완료' 넘어 위험 해소까지 확인해야 - enewstoday.co.kr",
-    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467822",
-    "description": "서울특별시의회 이숙자 의원(국민의힘·서초2)이 \"건설현장 안전점검에서 지적사항에 대한 단순한 '조치완료' 확인에 그치지 않고 실제 위험요인이 해소됐는지까지 철저히 관리해야 한다'고 강조했다. 이숙자 의원은 지난...",
-    "published_at": "2026-09-08T09:55:00+09:00",
-    "cluster_id": "22be",
-    "publisher": "enewstoday.co.kr",
-    "title_clean": "이숙자 서울시의원, 건설현장 '조치완료' 넘어 위험 해소까지 확인해야",
-    "summary": "서울시의원이 건설현장 안전점검 시 지적사항의 조치완료 확인을 넘어 실제 위험요인 해소까지 철저히 관리할 것을 강조했다. 건설현장 안전 관리 기준의 강화를 주장하는 내용이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T10:05:26+09:00",
-    "importance": 5
   }
 ]
