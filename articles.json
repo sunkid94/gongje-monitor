@@ -4823,6 +4823,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "페로타임즈 손바닥뉴스 9월11일(금) - ferrotimes.com",
+    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=50310",
+    "description": "맞손 포스코이앤씨, 리모델링 수주 14.3조 '압도적 1위' 대우건설, AI·로보틱스 스타트업과 '맞손' (中 선물거래-09/10) 주요 철강재 거래 현황 (中 선물거래-09/10) 철광석 원료탄 거래 현황 [LME-0909] 열연강판...",
+    "published_at": "2026-09-13T14:00:00+09:00",
+    "cluster_id": "a88e",
+    "publisher": "ferrotimes.com",
+    "title_clean": "페로타임즈 손바닥뉴스 9월11일(금)",
+    "summary": "포스코이앤씨가 리모델링 수주 14.3조원으로 압도적 1위를 차지했으며, 대우건설은 AI·로보틱스 스타트업과 협력을 강화하고 있다. 중국 선물거래와 철강재, 철광석 등 주요 원자재 거래 현황을 보도했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-13T15:32:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20805,22 +20821,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-07T10:39:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[건설업계 동향] GS건설롯데건설SK에코플랜트중흥토건 (9.7) - weeklytoday.com",
-    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=793269",
-    "description": "■ 롯데건설, 도곡우성 재건축 수주···올해 도시정비 4조원 돌파 - 공사비 4002억원 규모···지하 6층~지상 26층·4개동 조성 - '도곡 르엘' 제안···저디와 외관 디자인 협업 '도곡 르엘' 투시도 롯데건설이 서울 강남구...",
-    "published_at": "2026-09-07T10:34:00+09:00",
-    "cluster_id": "6650",
-    "publisher": "weeklytoday.com",
-    "title_clean": "[건설업계 동향] GS건설롯데건설SK에코플랜트중흥토건 (9.7)",
-    "summary": "롯데건설이 서울 강남구 도곡동 우성 재건축 프로젝트를 수주하며 공사비 4002억원 규모의 지하 6층~지상 26층 4개동을 조성할 예정이다. 이를 통해 롯데건설의 올해 도시정비 수주액이 4조원을 돌파하게 되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T10:39:28+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
