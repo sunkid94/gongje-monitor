@@ -4857,23 +4857,6 @@
     "importance": 6
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "추경호 대구시장, 1000억 이상 공사 ‘공구분할’ 제도화 - naeil.com",
-    "link": "https://www.naeil.com/news/read/598865?ref=naver",
-    "description": "대한건설협회·대한전문건설협회·대한기계설비건설협회 대구시회도 공동성명을 내고 수주 물량 확대와 자금 확보에 실질적인 도움이 될 것으로 기대한다고 밝혔다. 추경호 대구시장은 “건설경기 침체가 지역경제의...",
-    "published_at": "2026-08-14T10:44:00+09:00",
-    "cluster_id": "f2a6",
-    "publisher": "naeil.com",
-    "title_clean": "추경호 대구시장, 1000억 이상 공사 ‘공구분할’ 제도화",
-    "summary": "추경호 대구시장이 1000억 원 이상 공사의 '공구분할' 제도화를 추진하고 있으며, 대한기계설비건설협회 등 건설업계 단체들이 이를 수주 물량 확대와 자금 확보에 도움이 될 것으로 평가했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-14T10:52:56+09:00",
-    "event_label": "대한기계설비건설협회 공구분할 제도 도입 지지",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20872,6 +20855,38 @@
     "sentiment": "negative",
     "collected_at": "2026-09-07T10:29:31+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, GICC 2026 개최…글로벌 인프라 협력 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwa1l5T1NzWlkxN0toY0prbDdGY3ozRkYyUE5hTnVla3FxVktBMTJNOTIzZ2tPc1BwRWp6blJfVUVGWldRWW1WNW9lcmNoa2ZYZmN6RUNtd1ZYMVdPMW5WQ2hCMDVpMmcwUXfSAW9BVV95cUxQVHFrdlBLYWpWcXp6SzVsV0puZXhVbzkwSnR0NGxoaGdxQWpUMW5pdXhVNXZDdHJGTlp2R04zT0loTzFidEh3eUxOeVU5aFpQTUZGMlJ6M1VpTDV0aHVUVDBoRkIwejRUbUhPeFpESkE?oc=5",
+    "description": "정부가 주요 해외 발주처, 다자개발은행, 건설·엔지니어링 기업 간의 인프라 분야 협력과 우리 기업의 해외시장 진출을 지원하는 대규모 콘퍼런스를 연다. 국토교통부가 주최하고 해외건설협회가 주관하는 글로벌 인프라 협력 콘퍼런스(Global Infrastructure Cooperation Conference, GICC) 2026이 오는 15일부터 3일간 여의도 콘래드 호텔에서 개최된다.",
+    "published_at": "2026-09-13T11:00:00+09:00",
+    "cluster_id": "938e",
+    "publisher": "머니투데이",
+    "title_clean": "국토부, GICC 2026 개최…글로벌 인프라 협력 - 머니투데이",
+    "summary": "국토교통부가 글로벌 인프라 협력 콘퍼런스(GICC) 2026을 개최하여 해외 발주처, 다자개발은행, 건설·엔지니어링 기업 간의 협력을 촉진한다. 한국 건설기업의 해외시장 진출을 지원하는 대규모 행사로, 국내 건설업계의 국제 수주 기회 확대에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-13T11:07:48+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[건설판 바꾸는 K모듈러 주택, 짓지 않고 찍어 낸다②] 설계·생산·시공·사업관리 전 과정 혁신 - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmNzJSUjF3X0xwZDVMWTZqOExNaDkyQTB2aVdRXzY3TGZkSzRwell6S0tuVnBOVGlxcUZkTVMxcENsYXVGOVM1bVN5Ulk3N0dVNFE3bjlKdExITVhLeXI5UVJnWXJrMW5BaUNOVQ?oc=5",
+    "description": "건설산업이 숙련인력 감소와 고령화, 안전사고, 낮은 생산성, 환경부담 등 복합적인 문제에 직면하면서 OSC(Off-Site Construction)​가 기존 현장 중심 건설방식을 혁신할 대안으로 주목받고 있다.이러한 변화에 대응해 한양대학교 ERICA(에리카) 산학협력단이 주관하고 설계, 제작, 시공 분야의 17개 공동연구기관이 참여하여 국토교통부 기술개발사업으로 차세대 모듈러 기술 및 생산기술을 집중 연구하고 있다.연구단이 개발하고 있는 모듈형 PC(Precast Concrete)​는 기존 PC 공법을 한 단계 발전시킨 기술이다.",
+    "published_at": "2026-09-13T11:00:00+09:00",
+    "cluster_id": "d965",
+    "publisher": "ER 이코노믹리뷰",
+    "title_clean": "[건설판 바꾸는 K모듈러 주택, 짓지 않고 찍어 낸다②] 설계·생산·시공·사업관리 전 과정 혁신",
+    "summary": "건설산업의 숙련인력 감소, 안전사고 등 문제 해결을 위해 한양대학교 ERICA와 17개 공동연구기관이 차세대 모듈러 기술을 개발 중이다. OSC(Off-Site Construction) 방식의 모듈형 PC 공법으로 기존 현장 중심 건설방식을 혁신하려는 시도이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-13T11:07:48+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
