@@ -20840,6 +20840,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[단독] 시공 30위 건설사 ‘아파트 하자’ 심각 - segye.com",
+    "link": "https://www.segye.com/newsView/20260913509622?OutUrl=naver",
+    "description": "서울 시내 신축 아파트 시공 현장에서 건설노동자들이 작업을 하고 있다. 뉴스1 시평 상위 10대 대형 건설사의 경우 △현대건설(59건) △현대엔지니어링(48건) △SK에코플랜트(32건) △GS건설(31건) △포스코이앤씨(28건)...",
+    "published_at": "2026-09-13T17:34:00+09:00",
+    "cluster_id": "5d01",
+    "publisher": "segye.com",
+    "title_clean": "[단독] 시공 30위 건설사 ‘아파트 하자’ 심각",
+    "summary": "시공 30위 건설사에서 아파트 하자 문제가 심각한 것으로 드러났다. 상위 10대 대형 건설사도 현대건설 59건, 현대엔지니어링 48건 등 다수의 하자 사례를 보유하고 있어 건설업계 전반의 시공 품질 관리 문제가 심각함을 시사한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T17:37:52+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[중대재해·산업안전] 광주 아파트 공사장서 H빔 낙하…40대 작업자 숨져 - 비즈중앙",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JRmZuX1o5UzNWYy0teHRjU245WEE5dXZjcU5ZTThlWnc1SlpYdTFYdzVwZUJDdFJVZmFNUDFDWnB6RzlIS3NjVk4tLVphNk9lX3FXTkJzT2pNbWtCU1dpdmF4VjlydHJlQ2JVb3lZdkU?oc=5",
+    "description": "[비즈중앙] 광주 한 아파트 공사 현장에서 집게차량에 고철을 싣던 40대 작업자가 떨어진 철제 H빔에 맞아 숨져 노동당국이 수사에 나섰다.13일 고용노동부와 소방",
+    "published_at": "2026-09-13T10:55:45+09:00",
+    "cluster_id": "3676",
+    "publisher": "비즈중앙",
+    "title_clean": "[중대재해·산업안전] 광주 아파트 공사장서 H빔 낙하…40대 작업자 숨져",
+    "summary": "광주 아파트 공사장에서 H빔 낙하 사고로 40대 작업자가 사망했으며, 고용노동부가 수사를 시작했다. 건설 현장의 안전 관리 부실에 따른 중대재해 사건으로 업계에 대한 규제 강화 압력이 가중될 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T17:37:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
