@@ -20840,6 +20840,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사설] 한계 드러낸 LH 미분양 매입, 민간 수요 진작책도 병행하라 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131615064980796",
+    "description": "지방 건설경기 회복을 위해 한국토지주택공사(LH)가 준공 후 미분양 아파트를 사들이는 사업이 한계를 드러내고 있다. 공공 매입에 더해 세제·금융 지원으로 민간 수요를 끌어내야 한다. LH의 지방 준공 후 미분양...",
+    "published_at": "2026-09-14T04:20:00+09:00",
+    "cluster_id": "267c",
+    "publisher": "대한경제",
+    "title_clean": "[사설] 한계 드러낸 LH 미분양 매입, 민간 수요 진작책도 병행하라",
+    "summary": "LH의 지방 미분양 아파트 매입사업이 한계를 보이고 있으며, 공공 매입만으로는 부족하다는 지적이 제기되고 있다. 지방 건설경기 회복을 위해 세제·금융 지원 등 민간 수요 진작책을 병행해야 한다는 주장이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-14T04:28:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32262,21 +32278,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-08T09:35:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설 부진에도 수출·서비스 선전…2분기 성장률 0.6% - joseilbo.com",
-    "link": "http://www.joseilbo.com/news/news_read.php?uid=575244&class=18&grp=",
-    "description": "속보치와 같은 수준으로, 건설경기 부진에도 제조업과 민간소비가 성장을 떠받쳤다. 교역조건 개선으로 실질 국민총소득(GNI)은 국내총생산보다 큰 폭인 3.1% 증가했지만 명목 GDP가 9.2% 급증하고 GDP...",
-    "published_at": "2026-09-08T09:01:00+09:00",
-    "cluster_id": "30eb",
-    "publisher": "joseilbo.com",
-    "title_clean": "건설 부진에도 수출·서비스 선전…2분기 성장률 0.6%",
-    "summary": "2분기 GDP 성장률 0.6%로 건설경기 부진이 지속되었으나, 제조업과 민간소비가 성장을 견인했다. 실질 국민총소득은 교역조건 개선으로 3.1% 증가하며 상대적으로 양호한 경제 성과를 기록했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T09:10:04+09:00",
-    "importance": 4
   }
 ]
