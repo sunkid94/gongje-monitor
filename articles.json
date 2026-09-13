@@ -4840,6 +4840,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'순살 아파트' 오명 3년 지났는데… 대형 건설사 아파트 하자 '줄줄이' - abcn.kr",
+    "link": "https://www.abcn.kr/news/articleView.html?idxno=91757",
+    "description": "대우건설(87건), 태영건설(85건)이 뒤를 이었다. 시공능력평가 10위 안 대형사만 놓고 보면 현대건설이 59건으로 가장 많았다. 이어 현대엔지니어링 48건, SK에코플랜트 32건, GS건설 31건, 포스코이앤씨 28건, 롯데건설...",
+    "published_at": "2026-09-13T18:46:00+09:00",
+    "cluster_id": "4a0e",
+    "publisher": "abcn.kr",
+    "title_clean": "'순살 아파트' 오명 3년 지났는데… 대형 건설사 아파트 하자 '줄줄이'",
+    "summary": "대형 건설사들의 아파트 하자가 지속적으로 적발되고 있으며, 대우건설 87건, 태영건설 85건 등 상위 건설사들이 높은 하자 건수를 기록하고 있다. 이는 건설업계의 시공 품질 문제가 개선되지 않고 있음을 보여준다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T18:53:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20819,22 +20835,6 @@
     "publisher": "fnnews.com",
     "title_clean": "\"HBM 성장 지속\" 삼전·하닉 목표가 동시 상향…\"불확실성 걷혔다\" 두산...",
     "summary": "두산퓨얼셀이 미국 데이터센터용 연료전지 대형 수주를 계기로 중장기 성장 불확실성을 해소했으며, 삼성전자와 하닉이 HBM 시장 성장 전망에 따라 목표가를 동시 상향했다. 업계 내 주요 기업들의 긍정적 실적 전망과 시장 확대가 주요 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T11:09:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[투데이's 특징주] 두산퓨얼셀, 美 데이터센터 대형 수주 재평가에 장 초... - todaykorea.co.kr",
-    "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405774",
-    "description": "투데이코리아=서승리 기자 | 두산퓨얼셀의 주가가 장 초반 강세를 보이고 있다. 미국 인공지능(AI) 데이터센터에 공급할 대규모 연료전지 수주 소식이 알려지며 투자심리를 자극하는 것으로 관측된다. 7일 오전 10시...",
-    "published_at": "2026-09-07T10:52:00+09:00",
-    "cluster_id": "3dd9",
-    "publisher": "todaykorea.co.kr",
-    "title_clean": "[투데이's 특징주] 두산퓨얼셀, 美 데이터센터 대형 수주 재평가에 장 초...",
-    "summary": "두산퓨얼셀이 미국 AI 데이터센터용 대규모 연료전지 수주 소식으로 주가가 장 초반 강세를 보이고 있다. 이는 기계설비 분야의 해외 대형 수주로 업계 호재에 해당한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-07T11:09:27+09:00",
     "importance": 2
