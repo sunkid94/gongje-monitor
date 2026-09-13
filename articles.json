@@ -4840,6 +4840,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "생태계의 다양한 모습을 선보이는 전시와 체험 - ikoreanspirit.com",
+    "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=87249",
+    "description": "특히 이번 전시는 △포스코이앤씨 △해양경찰청 △월드비전 △인천항만공사 △인천 사랑의열매 △포스코1%나눔재단이 함께 참여했다. 이들 기업 및 기관은 염생식물 생육지 복원과 생물다양성 인식 제고에 힘썼으며...",
+    "published_at": "2026-09-13T17:10:00+09:00",
+    "cluster_id": "e75f",
+    "publisher": "ikoreanspirit.com",
+    "title_clean": "생태계의 다양한 모습을 선보이는 전시와 체험",
+    "summary": "포스코이앤씨 등 6개 기업·기관이 참여하여 생태계 다양성을 주제로 한 전시 및 체험행사를 개최했다. 염생식물 생육지 복원과 생물다양성 인식 제고를 목표로 진행되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-13T17:27:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20824,20 +20840,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "경남도, ‘일자리 종합박람회’ 개최…126개 사 607명 채용 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10864656?ref=naver",
-    "description": "경남을 대표하는 ▷두산에너빌리티 ▷한화에어로스페이스 ▷한화오션 ▷한국항공우주산업(KAI) ▷ 현대로템 등 주요 대기업도 부스를 마련한다. 다만 대기업은 자체 채용 절차 특성상 현장 직접 채용 대신 ‘채용...",
-    "published_at": "2026-09-07T10:44:00+09:00",
-    "cluster_id": "399a",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "경남도, ‘일자리 종합박람회’ 개최…126개 사 607명 채용",
-    "summary": "경남도가 126개 기업이 참여하는 일자리 종합박람회를 개최하여 607명 채용을 추진하고 있다. 두산에너빌리티, 한화에어로스페이스, KAI, 현대로템 등 주요 대기업들도 채용 부스를 마련했으나, 대기업은 현장 직접 채용보다 자체 절차를 우선으로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-07T10:53:53+09:00",
-    "importance": 2
+    "title": "[사설] 다시 활개치는 '건폭' 단속 대책 세워야 - incheonilbo.com",
+    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1331866",
+    "description": "'건폭'이 다시 활개를 치고 있는 이유는 건설경기 침체. 공공부문 사업 발주 감소, 유명무실해진 단속 등과 무관치 않다, 거기다 노란봉투법 시행도 한몫하고 있다. 건설현장은 공사비와 관련된 공사기간이 생명이다. 노조의...",
+    "published_at": "2026-09-13T17:20:00+09:00",
+    "cluster_id": "4a20",
+    "publisher": "incheonilbo.com",
+    "title_clean": "[사설] 다시 활개치는 '건폭' 단속 대책 세워야",
+    "summary": "건설경기 침체, 공공사업 발주 감소, 단속 약화, 노란봉투법 시행 등으로 인해 '건폭'(건설비리)이 재증가하고 있는 상황. 건설현장에서 공사비와 공사기간이 핵심인 만큼 이에 대한 단속 대책 강화가 필요함.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-13T17:27:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
