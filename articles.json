@@ -4840,6 +4840,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "부동산 침체 속 건설株 ‘약진’… AI·원전 타고 ‘빅 사이클’ 진입 ... - segye.com",
+    "link": "https://www.segye.com/newsView/20260913508892?OutUrl=naver",
+    "description": "그 밖에 △대우건설 15% △GS건설 11% △IPARK현대산업개발 11% △삼성물산 7% △삼성E&A 4.2% 상승 등 주가가 긍정적 흐름을 보였다. 정부의 호남권 반도체 클러스터 조기 착공 수혜를 받고 있는 금호건설은 주가가 29%나...",
+    "published_at": "2026-09-14T06:05:00+09:00",
+    "cluster_id": "c5e4",
+    "publisher": "segye.com",
+    "title_clean": "부동산 침체 속 건설株 ‘약진’… AI·원전 타고 ‘빅 사이클’ 진입 ...",
+    "summary": "부동산 시장 침체 속에서도 건설주들이 AI, 원전 등 신성장 동력을 바탕으로 강세를 보이고 있다. 금호건설은 호남권 반도체 클러스터 사업, 대우건설·GS건설 등도 주가 상승률 10% 이상을 기록하며 건설업계가 새로운 성장 사이클에 진입하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-14T06:48:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20820,22 +20836,6 @@
     "title_clean": "[투데이's 특징주] 두산퓨얼셀, 美 데이터센터 대형 수주 재평가에 장 초반 ‘불기둥’",
     "summary": "두산퓨얼셀이 미국 AI 데이터센터용 대규모 연료전지 수주 소식에 주가가 장 초반 강세를 보이고 있다. 신규 사업 진출과 대형 수주는 기계설비건설 분야의 시장 확대를 의미하는 긍정적 신호다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-07T11:39:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[오늘 이 종목] \"사업재편부터 AI 수혜까지… 실적 턴어라운드 주목\" - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GQk45T0JpVTYtUU1qdWRVMHZiUG4wZ2hURzFFejltdElQVTdlUXZCWkY0dXdzSTI1Z1BPNkphcWdEcW16MHhENEpiQ0FHM0NJSGdNMktOMlpIcldjWXJnSGZHS1lUbWgy0gFuQVVfeXFMTkRfUkt1THUydlh6Y3ItVlU5cTBTcGFfT2pzNUFnTDFJNTZBMVExa1ZlN2pKZnQyTVFZNFo5NjkwXzZMOFJDTnZsS25ITnVsSWxFV2FZRGtHbnEzNmRHM2JFWWJMblBURWs4bE1Mcnc?oc=5",
-    "description": "방송에서는 이정호 오리진리서치 대표가 출연해 SK아이이테크놀로지(SKIET) 흡수합병과 사업 재편으로 흑자전환에 성공한 SK이노베이션을 시작으로, LG전자향 부품 수주 및 중국발 실적 호조세를 보이는 로보티즈, 대규모 미국 AI 데이터센터 수주를 확보한 두산퓨얼셀, 그리고 AI 반도체 확산 속 테스트 소켓 수요 급증으로 포트폴리오 중심을 잡아줄 ISC까지 주요 투자 포인트와 시장 대응 전략을 제시했다.",
-    "published_at": "2026-09-07T11:31:29+09:00",
-    "cluster_id": "bbe3",
-    "publisher": "머니투데이",
-    "title_clean": "[오늘 이 종목] \"사업재편부터 AI 수혜까지… 실적 턴어라운드 주목\" - 머니투데이",
-    "summary": "SK이노베이션, 로보티즈, 두산퓨얼셀, ISC 등 여러 종목이 사업 재편, 부품 수주, AI 데이터센터 수주 등을 통해 실적 개선을 이루고 있다. AI 반도체 수요 증가와 미국 데이터센터 시장 확대로 관련 산업의 성장 기회가 확대되는 중이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-07T11:39:24+09:00",
     "importance": 2
   },
