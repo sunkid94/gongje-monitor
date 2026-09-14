@@ -21183,6 +21183,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "충남, 노동자 고용안정부터 챙긴다 - sentv.co.kr",
+    "link": "https://www.sentv.co.kr/article/view/sentv202609140225",
+    "description": "이 같은 변화가 공장 노동자뿐 아니라 협력업체와 화물·건설 노동자의 일감, 가족의 생계까지 흔들 수 있다는 판단이다. 충남도는 산업 재편 과정에 노동계 의견을 반영하고 기존 고용을 최대한 유지하면서 새로운...",
+    "published_at": "2026-09-14T19:50:00+09:00",
+    "cluster_id": "8241",
+    "publisher": "sentv.co.kr",
+    "title_clean": "충남, 노동자 고용안정부터 챙긴다",
+    "summary": "충남도가 산업 재편 과정에서 노동자 고용안정을 우선시하겠다는 방침을 밝혔다. 공장 노동자뿐 아니라 협력업체, 화물·건설 노동자의 일감과 가족 생계 보호를 위해 노동계 의견을 반영하고 기존 고용 유지를 추진하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-14T20:02:04+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "BNK경남은행, 찾아가는 금융지원 캠페인 - ujeil.com",
     "link": "http://www.ujeil.com/news/articleView.html?idxno=392029",
     "description": "한편 BNK경남은행은 찾아가는 금융지원 캠페인 실시에 앞서 지난 7월 31일 건설노동자의 금융 접근성 제고와 금융비용 부담 완화를 위해 '건설근로자 희망대출'을 출시한 바 있다.",
@@ -32281,22 +32297,6 @@
     "summary": "건설노조의 3개월간 52회 초등학교 앞 집회와 학부모들의 맞불 집회가 노사 합의로 종료되었다. 소음 논란이 해결되면서 갈등이 일단락되었다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-09T14:12:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 부산 월드 스마트시티 엑스포서 ‘AI 도시’ 선보인다 - viva100.com",
-    "link": "https://www.viva100.com/article/20260909500815",
-    "description": "한편 LH는 AI와 스마트건설 등 국토·도시 분야의 미래 기술 발굴에도 나서고 있다. 지난달 28일 ‘제17회 LH 국토기술대전’ 작품 접수를 마쳤으며, 환경과 재해·안전, AI, ESG, 스마트건설기술 등 LH 사업 현장에...",
-    "published_at": "2026-09-09T13:40:00+09:00",
-    "cluster_id": "6f52",
-    "publisher": "viva100.com",
-    "title_clean": "LH, 부산 월드 스마트시티 엑스포서 ‘AI 도시’ 선보인다",
-    "summary": "LH가 부산 월드 스마트시티 엑스포에서 AI 도시 기술을 선보이며 국토·도시 분야의 미래 기술 개발에 주력하고 있다. AI, ESG, 스마트건설기술 등을 중심으로 제17회 LH 국토기술대전을 개최하여 건설 산업의 혁신을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-09T13:57:02+09:00",
     "importance": 2
   }
 ]
