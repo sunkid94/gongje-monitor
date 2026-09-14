@@ -4857,6 +4857,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, LNG·원유운반선 1.6조 수주…전년 실적 넘었다 - 뉴스토마토",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZE56SkJ6WGtTRG03YTdhRXFFSU1xYmlkMmtHaWZGMnl1cVo2Rl9EQ3N5TW11SkREZVBLUWdVUnFPM2hmZGVzdVpkNEU2d1p0VFlRNlFDZldfRHNWSGlNeA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZE56SkJ6WGtTRG03YTdhRXFFSU1xYmlkMmtHaWZGMnl1cVo2Rl9EQ3N5TW11SkREZVBLUWdVUnFPM2hmZGVzdVpkNEU2d1p0VFlRNlFDZldfRHNWSGlNeA?oc=5\" target=\"_blank\">삼성중공업, LNG·원유운반선 1.6조 수주…전년 실적 넘었다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+    "published_at": "2026-09-14T14:25:29+09:00",
+    "cluster_id": "2a09",
+    "publisher": "뉴스토마토",
+    "title_clean": "삼성중공업, LNG·원유운반선 1.6조 수주…전년 실적 넘었다",
+    "summary": "삼성중공업이 LNG운반선과 원유운반선 수주로 1.6조 원 규모의 대형 수주를 획득했다. 이는 전년도 실적을 초과한 성과로, 조선업계의 긍정적인 수주 증가를 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-14T14:40:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20841,20 +20857,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "‘바다 위 LNG 생산공장’ 굳히는 삼성重…설계역량 선제 확충 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026090715210904782",
-    "description": "삼성중공업이 부유식 액화천연가스 생산설비(FLNG) 수주 확대에 맞춰 설계·연구개발(R&D) 역량 확충에 나섰다. 올해 FLNG 2기의 본계약을 확보한 데 이어 후속 프로젝트도 추진하면서 복수의 FLNG를 동시에 수행할 수...",
-    "published_at": "2026-09-07T17:00:00+09:00",
-    "cluster_id": "739a",
-    "publisher": "newsway.co.kr",
-    "title_clean": "‘바다 위 LNG 생산공장’ 굳히는 삼성重…설계역량 선제 확충",
-    "summary": "삼성중공업이 FLNG(부유식 액화천연가스 생산설비) 수주 확대에 대비해 설계·R&D 역량을 확충하고 있다. 올해 FLNG 2기 본계약 확보 이후 후속 프로젝트도 진행하며 복수 프로젝트 동시 수행 체계를 구축 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T17:11:05+09:00",
-    "importance": 3
+    "title": "5천373세대 대형 아파트 공사장…구미시, 추석 연휴 '안전 고삐' 죈다 - OMATE 시니어",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSTM0R1RNU010ZHpSNUtKUXExcVJHQjNuREo2YTFFS2lsZUlCOXljeW8yQjZodmQ1cTRoTG1jWGh1WDE3WHpjSUxUeTdLQmhrRG02bWlMZ2tFZnMzXzZwUGhBbEk?oc=5",
+    "description": "경북 구미시는 다가오는 추석 명절 연휴를 대비해 관내 대규모 공동주택 및 재개발 건설현장을 대상으로 특별 안전관리를 실시하고, 연휴 기간 발생할 수 있는 현장 관",
+    "published_at": "2026-09-14T14:31:53+09:00",
+    "cluster_id": "f315",
+    "publisher": "OMATE 시니어",
+    "title_clean": "5천373세대 대형 아파트 공사장…구미시, 추석 연휴 '안전 고삐' 죈다",
+    "summary": "경북 구미시가 5,373세대 규모의 대형 아파트 공사장을 포함한 대규모 건설현장에 대해 추석 연휴 기간 특별 안전관리를 실시한다. 연휴 기간 발생 가능한 현장 사고를 사전에 예방하기 위한 조치이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-14T14:40:49+09:00",
+    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
@@ -32263,21 +32279,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T16:02:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "거창군, 승강기밸리 TF 출범… 산업 활성화 대책 논의 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026090815414250403",
-    "description": "경남 거창군이 건설경기 침체 등으로 어려움을 겪고 있는 지역 승강기 산업의 현안을 점검하고 대응 방안을 마련하기 위해 '거창 승강기 밸리 TF팀'을 구성했다. 군은 8일 군청 상황실에서 승강기 산업 관련 산·학·연·관...",
-    "published_at": "2026-09-08T15:41:00+09:00",
-    "cluster_id": "37db",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "거창군, 승강기밸리 TF 출범… 산업 활성화 대책 논의",
-    "summary": "거창군이 건설경기 침체로 어려움을 겪는 지역 승강기 산업 활성화를 위해 '승강기 밸리 TF팀'을 구성했다. 산·학·연·관이 참여해 현안 점검 및 대응 방안을 마련하는 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-08T16:02:15+09:00",
-    "importance": 2
   }
 ]
