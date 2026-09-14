@@ -21078,6 +21078,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토교통 R&D 173개 공공기술 한자리에…민간 이전·사업화 '활짝' - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50185",
+    "description": "[건설이코노미뉴스] 공공기술의 민간 이전과 사업화를 촉진하기 위한 '2026년 범부처 공공기술 이전·사업화 로드쇼'가 서울에서 열렸다.지식재산처가 주최하고 국토교통과학기술진흥원(원장 김정희, 이하 국토교통진흥원)이 공동 주관기관으로 참여한 이번 행사는 14일 서울 과학기술컨벤션센터에서 개최됐다.이번 로드쇼에서는 국토교통 R&amp;D를 통해 도출된 공공기술 173건이 민간기업에 소개됐다. 기술을 보유한 기관과 기업이 실제 사업화 가능성을 논의할 수 있도록 1:1 맞춤형 매칭 상담도 진행됐다.특히 행사에 출품된 공공기술 가운데 한국건설기술연",
+    "published_at": "2026-09-14T17:43:29+09:00",
+    "cluster_id": "c4a9",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "국토교통 R&D 173개 공공기술 한자리에…민간 이전·사업화 '활짝'",
+    "summary": "국토교통 R&D를 통해 개발된 173개의 공공기술이 민간기업에 소개되고 1:1 맞춤형 매칭 상담이 진행되는 기술이전·사업화 로드쇼가 개최됐다. 공공기술의 민간 이전과 사업화 촉진으로 건설업계의 기술 사업화 기회가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-14T17:46:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-09T12:15:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"합천 황강정비사업 4억 체불 … 추석 전 해결하라\" - gnmaeil.com",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WV1lNbmR1V214dERZSE1NRDBuSk5sUGZnY1BfUDhqeHliTUdIdW9JX1VkZVpITHlVcWVBZnJNeWp3Vk0wV29HMnhmQUhmYnd1Q3U1R3JKTjBCcktHUlhhUUgtY2pBZVByZ0E?oc=5",
-    "description": "민족 대명절 추석을 앞두고 정부 발주 공사 현장에서 수억원대의 건설장비 임대료와 임금이 체불됐다는 주장이 제기돼 논란이 일고 있다.민주노총 전국건설노동조합 경남건설기계지부는 8일 낙동강유역환경청 앞에서 기자회견을 열고 \"합천 황강정비사업 현장에서 일한 건설기계 노동자들의 임금과 장비 임대료 약 4억원이 수개월째 지급되지 않고 있다\"며 발주처인 낙동강유역환경청에 조속한 해결을 촉구했다.이들은 \"장비 임대료는 단순한 수입이 아니라 유류비와 장비 유지·수리비, 금융이자 등을 감당하는 생명줄\"이라며 \"최근 유가 상승과 고물가로 현장 부담이",
-    "published_at": "2026-09-08T21:43:25+09:00",
-    "cluster_id": "f6db",
-    "publisher": "gnmaeil.com",
-    "title_clean": "\"합천 황강정비사업 4억 체불 … 추석 전 해결하라\"",
-    "summary": "합천 황강정비사업 현장에서 건설기계 노동자들의 임금과 장비 임대료 약 4억원이 수개월째 체불되고 있다. 민족노총 건설노동조합이 발주처인 낙동강유역환경청에 추석 전 해결을 촉구했으며, 유가 상승과 고물가 속 건설 현장의 경영 악화를 지적했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-09T12:15:50+09:00",
-    "importance": 4
   }
 ]
