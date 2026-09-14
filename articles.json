@@ -20840,6 +20840,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설근로자공제회, 추석맞이 찾아가는 근로자 격려 행사 전개 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51798",
+    "description": "건설근로자공제회는 14일 추석을 앞두고 전국 지사 및 센터별로 전자카드 사용률이 우수한 건설 현장을 찾아 '추석맞이 찾아가는 건설노동자 소통 및 격려 행사'를 전개한다고 밝혔다.이번 행사는 오는 9월 15일부터 22일까지 영업일 기준 6일간 전국 12개 건설 현장에서 진행된다. 전국 지사 및 센터가 각각 1개소씩 우수 협력 사업장을 추천하여, 약 4천 명의 건설노동자가 혜택을 받을 예정이다.공제회는 행사 기간 동안 현장에 푸드트럭을 배치해 음료 등 다과를 제공하고, 지사별로 건설사업주 간담회를 열어 지역 건설경기, 인력구성, 안전관",
+    "published_at": "2026-09-14T09:37:35+09:00",
+    "cluster_id": "819e",
+    "publisher": "기계설비신문",
+    "title_clean": "건설근로자공제회, 추석맞이 찾아가는 근로자 격려 행사 전개",
+    "summary": "건설근로자공제회가 추석을 맞아 9월 15~22일 전국 12개 건설현장에서 '찾아가는 근로자 격려 행사'를 개최한다. 푸드트럭 운영, 다과 제공 등을 통해 약 4천 명의 건설노동자를 지원할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-14T10:36:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32259,22 +32275,6 @@
     "publisher": "yna.co.kr",
     "title_clean": "국회서 9일 지방 부동산 위기 해소방안 모색 토론회",
     "summary": "국회에서 지방 부동산 위기 해소 방안을 논의하는 토론회가 개최된다. 미분양, 거래절벽, 건설경기 침체로 인한 악성 위기가 심화되고 있으며, 이로 인해 건설업체 경영 악화, 고용 감소, 소상공인 붕괴 등의 연쇄 문제가 발생하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T11:41:04+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 추석 앞두고 철도건설현장 안전·임금체불 등 점검 - 쿠키뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAybUhseC1jM1EwcnRPSy1IQVM0Z19LMjlVakVmY25OOHVqN0VVekVWV012aG95QVBXQkd3UHZSVmlQdThTOTdhM01TTHg1ZjhDU3ZfOXZyajB6X1U2Y1RKSHdUTQ?oc=5",
-    "description": "경기도는 추석을 앞두고 8일부터 사흘간 철도건설현장의 안전관리 상태와 근로자 임금·공사대금 지급 여부를 점검한다고 8일 밝혔다. 옥정~포천선 1·",
-    "published_at": "2026-09-07T06:00:04+09:00",
-    "cluster_id": "e3b3",
-    "publisher": "쿠키뉴스",
-    "title_clean": "경기도, 추석 앞두고 철도건설현장 안전·임금체불 등 점검",
-    "summary": "경기도가 추석 연휴를 앞두고 철도건설현장에 대한 안전관리 상태와 근로자 임금, 공사대금 지급 여부를 점검한다. 옥정~포천선 등 철도 건설현장을 대상으로 4일간 집중 점검을 실시할 예정이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-08T11:41:04+09:00",
     "importance": 4
