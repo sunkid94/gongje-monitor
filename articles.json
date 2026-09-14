@@ -20857,6 +20857,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“임금 체불 안돼!”…행복청, 추석 앞두고 건설현장 체불 점검 나서 - SR타임스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5ZGFFMzlzSWJPOGc1UFMyZEZYMFNpN3NURWtJdHA0Q3h2Rk5tVkZ5R2VYbDNWUjJOOGxzbEtCZ0pGcXVtV0FyTWloNFRReWJocjhGUzJUV1RjMUhLRjNZQXUwLXJMM0Jv0gFrQVVfeXFMT3Vtc01PSng3NXFiQlVxU0lqQVJTZ0Qxc0RqYU9fQmpyZU43dVVIaUpDLWwyNEpWcXdWMm9SMC14ZXRzeG96b0FkWUlLcUxpWnMyaWVWRWJqTDBua2NWdUtmRjQ4Q1NNd0pZVWc?oc=5",
+    "description": "오는 23까지 안전사고 등 예방…19개 공사현장 안전점검[SRT(에스알 타임스) 서중권 기자] 행정중심복합도시건설청(이하 행복청, 청장 강주엽)은 추석 명절을 앞두고 건설근로자의 권익을 보호하고 쾌적한 도시환경을 만들기 위해 ‘건설현장 대금 체불점검 및 환경정비’를 추진한다.14일 행",
+    "published_at": "2026-09-14T13:45:04+09:00",
+    "cluster_id": "9122",
+    "publisher": "SR타임스",
+    "title_clean": "“임금 체불 안돼!”…행복청, 추석 앞두고 건설현장 체불 점검 나서",
+    "summary": "행복청이 추석 명절을 앞두고 19개 건설현장을 대상으로 임금 체불 및 안전사고 예방 점검을 실시한다. 건설근로자 권익 보호와 도시환경 정비를 목표로 추진되는 행사이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-14T14:05:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32263,21 +32279,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T15:31:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "코오롱글로벌, AI·드론 등 외부 혁신기술 6건 현장 실증 - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12082749?ref=naver",
-    "description": "올해 진행하는 실증 기술은 국토교통부 ‘스마트건설 기술실증 지원사업’ 4건과 창업진흥원이 주관하는 초격차 스타트업 프로젝트 ‘이노웨이브(Inno-wave)’ 2건이다. 스마트건설 기술실증 지원사업에선 △지능형...",
-    "published_at": "2026-09-08T15:13:00+09:00",
-    "cluster_id": "f9e2",
-    "publisher": "dt.co.kr",
-    "title_clean": "코오롱글로벌, AI·드론 등 외부 혁신기술 6건 현장 실증",
-    "summary": "코오롱글로벌이 AI·드론 등 혁신기술 6건을 건설 현장에서 실증한다. 국토교통부 스마트건설 기술실증 지원사업 4건과 창업진흥원 이노웨이브 프로젝트 2건으로 구성되어 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T15:31:56+09:00",
-    "importance": 2
   }
 ]
