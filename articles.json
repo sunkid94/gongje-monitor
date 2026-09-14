@@ -5214,6 +5214,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "네팔 한국 구호대 2진, 남동발전·두산 만나 수색·구조 활동 청취 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008752892&plink=ORI&cooper=NAVER",
+    "description": "▲ 네팔 대한민국 구호대 2진, 피해 현장 방문 네팔 대홍수 피해 대응을 위해 현지에 파견된 대한민국 해외긴급구호대(KDRT)가 한국인 실종자 수색과 관련해 이들의 소속사인 남동발전과 두산에너빌리티 측을...",
+    "published_at": "2026-09-15T02:04:00+09:00",
+    "cluster_id": "85ad",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "네팔 한국 구호대 2진, 남동발전·두산 만나 수색·구조 활동 청취",
+    "summary": "네팔 대홍수 피해에 대응하기 위해 파견된 한국 구호대가 남동발전과 두산에너빌리티 소속 한국인 실종자 수색·구조 활동에 대해 양사로부터 현황을 청취했다. 피해 현장 방문을 통해 국제 재난 구호 활동을 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-15T02:11:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21196,22 +21212,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-08T10:05:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔, 한국 구조대 도보 수색 협조…실종자 9명 수색 확대 - iminju.net",
-    "link": "http://www.iminju.net/news/articleView.html?idxno=169180",
-    "description": "수력발전소 건설 현장에 있던 두산에너빌리티 소속 한국인 10명은 구조됐다. 다만 두산에너빌리티 소속 6명과 한국남동발전 소속 3명은 현재까지 연락이 두절된 상태다.",
-    "published_at": "2026-09-08T09:50:00+09:00",
-    "cluster_id": "48ee",
-    "publisher": "iminju.net",
-    "title_clean": "네팔, 한국 구조대 도보 수색 협조…실종자 9명 수색 확대",
-    "summary": "네팔 수력발전소 건설 현장에서 한국인 근로자 19명 중 10명은 구조되었으나, 두산에너빌리티 소속 6명과 한국남동발전 소속 3명 등 9명이 여전히 실종된 상태다. 네팔 구조대의 도보 수색 협조로 실종자 수색이 확대되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-08T10:05:26+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 PF",
