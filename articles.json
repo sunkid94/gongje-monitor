@@ -21078,6 +21078,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "제주도, 추석 앞두고 건설현장 임금 체불 집중점검 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326469",
+    "description": "제주도는 이달 9일부터 17일까지 추석을 앞두고 도내 건설현장의 하도급업체와 근로자가 대금을 제때 받도록 집중점검을 진행한다고 13일 밝혔다.점검 대상은 총 사업비 100억원 이상 공공 건설현장과 연면적 3000m²이상 민간 건축공사, ‘주택법’ 상 공동주택 건설공사 현장 등이다.도는 △하도급대금 △건설근로자 임금 △건설기계 대여대금 등 3개 분야로 중점적으로 점검할 계획이다. 행정시와 점검반을 구성해 소관 현장에 대한 현장점검과 서면점검을 추진한다.체불 현장은 우선 신속한 지급과 시정을 유도하는 한편 점검 결과에 따라 노동청 통보",
+    "published_at": "2026-09-14T17:37:40+09:00",
+    "cluster_id": "3e16",
+    "publisher": "대한전문건설신문",
+    "title_clean": "제주도, 추석 앞두고 건설현장 임금 체불 집중점검",
+    "summary": "제주도가 추석 앞두고 도내 건설현장 100억원 이상 공공사업과 3,000m² 이상 민간건축공사를 대상으로 하도급대금, 건설근로자 임금, 건설기계 대여대금 등을 집중점검한다. 체불 현장은 신속 지급을 유도하고 적발 시 노동청에 통보할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-14T17:44:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-09T12:15:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "스마트건설기술 아이디어 공모전서 빛난 건국대 건축대학 학부생들 - 뉴스와이어",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRm8zbndCVk5wdHlwdTZFbWtrLXQ0bENUeFlRalVVZFFaeWhsR054dmlQZl9NYkdsVDBGZWpFR3NPTG1wSVVmVGFXYVp1Vm9EbFBleERNczF4eDk5WWJz?oc=5",
-    "description": "건국대학교(총장 원종필) 건축대학 건축학부 건축공학전공 학생들이 지난 9월 1일 한국건설기술인협회 대강당에서 개최된 ‘2026년 스마트건설기술 아이디어 공모전 시상식’에서 3관왕의 쾌거를 이뤘다. 여승준 학생이 대상인 국토교통부 장관상을, 장웅 학생이 한국건설기술인협회",
-    "published_at": "2026-09-09T10:45:53+09:00",
-    "cluster_id": "f41b",
-    "publisher": "뉴스와이어",
-    "title_clean": "스마트건설기술 아이디어 공모전서 빛난 건국대 건축대학 학부생들",
-    "summary": "건국대학교 건축공학전공 학생들이 한국건설기술인협회에서 개최한 '2026년 스마트건설기술 아이디어 공모전'에서 3관왕을 달성했다. 여승준 학생이 국토교통부 장관상(대상)을, 장웅 학생이 협회상을 수상하며 건설업계 미래 인재 양성의 성과를 보여주었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-09T12:15:50+09:00",
-    "importance": 2
   }
 ]
