@@ -21214,6 +21214,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, 도봉 롯데캐슬 골든파크 PF 재구조화 - dealsite.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wLVFuR1J6NDlhTERjN1I4Zk80WEZ5VmV0UGF2M2U5anRWOGdIUU1jNGpkcFN2SmJmOUNNWURJU0VSSExBTFpxVl9xa0paSVk?oc=5",
+    "description": "롯데건설이 프로젝트샬롯이 보유한 도봉 롯데캐슬 골든파크 관련 사모사채 1200억원을 담보대출, 일반대출, 전자단기사채로 재구조화했다. 이번 조치는 내년 3월 프로젝트샬롯 만기에 대비해 PF 우발채무를 줄이기 위한 것으로, 360억원은 담보대출로, 840억원은 일반대출 690억원과 전단채 150억원으로 전환됐다. 롯데건설은 내년 3월까지 사업장별 상환과 리파이낸싱을 이어가며 PF 감축 작업을 지속할 계획이다.",
+    "published_at": "2026-09-14T07:00:00+09:00",
+    "cluster_id": "dbea",
+    "publisher": "dealsite.co.kr",
+    "title_clean": "롯데건설, 도봉 롯데캐슬 골든파크 PF 재구조화",
+    "summary": "롯데건설이 도봉 롯데캐슬 골든파크 PF 사모사채 1200억원을 담보대출, 일반대출, 전자단기사채로 재구조화했다. 내년 3월 만기에 대비한 우발채무 감축 조치로, 지속적인 상환과 리파이낸싱을 계획 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-15T01:56:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32284,21 +32300,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-09T18:43:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[미디어 풍향계] 한국인터넷신문협회, '이달의 기자상' 8편 선정 - nc.press",
-    "link": "https://www.nc.press/news/articleView.html?idxno=626114",
-    "description": "기계설비신문 김주영 기자는 폭염 속 건설 노동자의 안전 문제를 다뤘다. 정부가 작업중단 지침을 내리더라도 공사 기간 연장이나 추가 비용 보전이 뒤따르지 않아 하도급업체가 부담을 떠안는 현실을 파헤쳤다. 노동자...",
-    "published_at": "2026-09-09T18:21:00+09:00",
-    "cluster_id": "52fc",
-    "publisher": "nc.press",
-    "title_clean": "[미디어 풍향계] 한국인터넷신문협회, '이달의 기자상' 8편 선정",
-    "summary": "한국인터넷신문협회가 기계설비신문 김주영 기자의 폭염 중 건설 노동자 안전 문제 보도를 이달의 기자상으로 선정했다. 폭염 작업중단 지침에도 공사 기간 연장과 추가 비용 보전이 없어 하도급업체가 부담을 떠안는 현실을 조명했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-09T18:43:58+09:00",
-    "importance": 4
   }
 ]
