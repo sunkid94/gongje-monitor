@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "세종시·충남도회, 사랑의 집 고치기 제50호점 준공식 개최 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326474",
+    "description": "대한전문건설협회 세종시·충남도회(회장 김종언)는 지난 11일 충남 홍성군 김 모씨 자택에서 역점사업으로 추진하고 있는 ‘사랑의 집 고치기’ 제50호점 준공식을 개최했다.이날 김종언 회장을 비롯해 홍성군 박성철 부군수, 대전MBC 진종재 사장, 도회 홍성군운영위원회 윤현기 위원장과 위원회 회원 및 도회 임원들이 참석했다.사랑의 집 고치기 사업은 열악한 주거환경에 노출돼 타인의 도움을 필요로 하는 불우한 이웃에게 노후되거나 파손된 집을 쾌적한 환경으로 보수해 주는 사업이다. 도내 16개 시·군에서 대상자를 추천 받아 매년 2곳을 선정,",
+    "published_at": "2026-09-14T16:10:06+09:00",
+    "cluster_id": "0708",
+    "publisher": "대한전문건설신문",
+    "title_clean": "세종시·충남도회, 사랑의 집 고치기 제50호점 준공식 개최",
+    "summary": "대한전문건설협회 세종시·충남도회가 '사랑의 집 고치기' 제50호점 준공식을 개최했다. 불우한 이웃의 노후·파손된 주택을 쾌적하게 보수해주는 사회공헌사업으로, 도내 16개 시·군에서 매년 2곳을 선정해 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-14T16:12:08+09:00",
+    "event_label": "대한전문건설협회 세종시·충남도회 '사랑의 집 고치기' 제50호점 준공",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32261,22 +32278,6 @@
     "publisher": "안전저널",
     "title_clean": "안전관리자? 이름부터 바로잡아야 한다",
     "summary": "안전관리자의 정의와 역할을 바로잡아야 한다는 주장으로, 공자의 정명사상을 인용하여 기초부터의 개선 필요성을 제기하고 있다. 건설업계의 안전관리 체계 개선을 촉구하는 기고문으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-08T21:05:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남도의회 건설소방위 “대원 안전과 활동 지원 챙길 것” - 경남일보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKendwMENkbXVuWGdESms0RzZNa2tiM2R1QVZOTXpGOVNRMXdNZEJvYUdyY3J5ZWt5S2xKazRKN0FrZHdqUkRXcExnTWdCLXJwX1FoTkdzZmhvY0NncWVHRjlvVUhiNUdMaElv?oc=5",
-    "description": "경남도의회 건설소방위원회는 8일 양산종합운동장에서 열린 ‘제34회 경상남도 의용소방대 소방기술경연대회’에 참석해 지역 안전을 위해 헌신하는 의용소방대원들을 격려했",
-    "published_at": "2026-09-08T18:59:17+09:00",
-    "cluster_id": "ea71",
-    "publisher": "경남일보",
-    "title_clean": "경남도의회 건설소방위 “대원 안전과 활동 지원 챙길 것”",
-    "summary": "경남도의회 건설소방위원회가 의용소방대 기술경연대회에 참석하여 소방대원들을 격려했다. 지역 안전을 위한 의용소방대의 역할과 활동을 지원하겠다는 입장을 표현했다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-08T21:05:26+09:00",
     "importance": 2
