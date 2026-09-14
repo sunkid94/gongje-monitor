@@ -21214,6 +21214,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기의회 건설교통委, 추경안 도민 안전·민생 예산 395억 증액 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VLW1Rb1R4VjFSdEp1eFhsekJfeFd1c21DMHNhTGZqZmlrTU5hX0c1QmpqaldTdXBSRk5teDZjUDREMVN1bGxoemg1czIzWjdLdmJ5VFdHbHM0Uk1HUlFzU255ampNNmcyUU5kLWpZNA?oc=5",
+    "description": "경기도의회 건설교통위원회(위원장 고찬석)는 9-10일 상임위 회의를 열고 도민과 민생 중심의 의정활동을 원칙으로 위원회 소관 부서에 대한 안건 심의와 추경예산안을",
+    "published_at": "2026-09-15T00:12:37+09:00",
+    "cluster_id": "e8bf",
+    "publisher": "오토투데이",
+    "title_clean": "경기의회 건설교통委, 추경안 도민 안전·민생 예산 395억 증액",
+    "summary": "경기도의회 건설교통위원회가 추경예산안 심의에서 도민 안전·민생 중심으로 395억 원을 증액했습니다. 세부 내용이 불완전하여 건설업계에 미치는 구체적 영향을 파악하기 어렵습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-15T00:26:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32282,22 +32298,6 @@
     "title_clean": "충북개발공사, 체험형 재난안전교육ⵈ 현장 대응역량 강화",
     "summary": "충북개발공사가 체험형 재난안전교육을 실시하여 임직원의 현장 대응역량을 강화하고 있다. 습득한 대응요령을 건설현장 안전관리에 활용하고 정기적인 안전점검과 재난 대응훈련을 병행할 계획이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-09T17:43:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대전도시공사, AI·IoT 건설 신기술 현장 적용 모색 - chungnamilbo.co.kr",
-    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=908690",
-    "description": "그동안 건설 신기술 활용과 중소기업 판로 지원을 위해 우수기술 보유 기업과 교류를 이어왔으며, 이번까지 모두 5차례 국토교통 우수기술 설명회를 진행했다. 대전도시공사 관계자는 \"우수한 신기술의 현장 적용...",
-    "published_at": "2026-09-09T17:22:00+09:00",
-    "cluster_id": "9618",
-    "publisher": "chungnamilbo.co.kr",
-    "title_clean": "대전도시공사, AI·IoT 건설 신기술 현장 적용 모색",
-    "summary": "대전도시공사가 AI·IoT 등 건설 신기술의 현장 적용을 추진하고 있으며, 우수기술 보유 기업과의 교류를 통해 중소기업 판로 지원을 진행 중입니다. 국토교통 우수기술 설명회를 5차례 개최하여 건설 신기술 활용을 확대하고 있습니다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-09T17:43:23+09:00",
     "importance": 2
   }
