@@ -21214,6 +21214,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "두 달 만에 또 오른 기본형건축비…분양가 상승 압력 - munhwa.com",
+    "link": "https://www.munhwa.com/article/11616960?ref=naver",
+    "description": "정부의 건설현장 안전투자 확대 방침에 따라 간접공사비가 10% 가까이 상승한 영향이다. 국토교통부는 분양가상한제 기본형건축비를 정기 고시한다고 15일 밝혔다. 이에 따라 16∼25층, 전용면적 60∼85...",
+    "published_at": "2026-09-15T06:27:00+09:00",
+    "cluster_id": "0d86",
+    "publisher": "munhwa.com",
+    "title_clean": "두 달 만에 또 오른 기본형건축비…분양가 상승 압력",
+    "summary": "정부의 건설현장 안전투자 확대로 간접공사비가 10% 근처 상승하면서 기본형건축비가 두 달 만에 다시 인상되었다. 이는 분양가 상승 압력으로 이어질 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-15T06:41:50+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "기후취약계층 위한 기후보험, '보험사'에 노다지? - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236780",
+    "description": "가입대상도 도민이 아니라 건설노동자 등 일부다. 요건을 달성하면 보험금 지급이 빠르지만, 지역마다 지수를 달리 둘 수 있어 지급률을 담보하긴 어렵다. 태풍 피해가 잦은 남해안지역과 중부지역의 지수가 다른 식이다....",
+    "published_at": "2026-09-15T06:34:00+09:00",
+    "cluster_id": "93c1",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "기후취약계층 위한 기후보험, '보험사'에 노다지?",
+    "summary": "정부가 기후취약계층(건설노동자 등)을 대상으로 추진 중인 기후보험이 보험사에는 수익 기회가 될 수 있으나, 지역별 차등 지수 적용으로 인해 일관된 보험금 지급률 보장이 어려운 구조적 문제를 안고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-15T06:41:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32267,38 +32299,6 @@
     "summary": "건국대 학생들이 한국건설기술인협회가 주최한 '2026년 스마트 건설기술' 아이디어 공모전에서 국토교통부 장관상을 수상했다. 이는 건설 분야의 스마트 기술 혁신과 인재 양성을 보여주는 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-09-09T20:35:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "김진애 \"다음달 중층중밀화 계획 발표...공급속도 빨라, 청년주택 문제... - ytn.co.kr",
-    "link": "https://www.ytn.co.kr/_ln/0101_202609091749568981",
-    "description": "지금 건설경기가 너무 안 좋다니까. ◆ 김진애 : 그래서 건축산업을 제가 얘기를 하는 건데, 예전 같은 토목 경기는 절대로 안 돌아옵니다. ◇ 이동형 : 이제 안 돌아오고. ◆ 김진애 : 부동산 경기도 그런 식으로 안...",
-    "published_at": "2026-09-09T17:49:00+09:00",
-    "cluster_id": "2a8a",
-    "publisher": "ytn.co.kr",
-    "title_clean": "김진애 \"다음달 중층중밀화 계획 발표...공급속도 빨라, 청년주택 문제...",
-    "summary": "김진애 의원이 건설경기 부진을 언급하며 토목·부동산 경기의 회복이 어렵다고 지적했다. 다음달 중층중밀화 계획 발표를 통해 주택공급 속도를 높일 예정이며, 청년주택 문제 해결에 나선다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-09T20:13:23+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "하동군 \"대규모 건설공사 지역업체 참여 확대를\" - gnnews.co.kr",
-    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=645121",
-    "description": "하동군이 건설경기 침체와 원자재 가격 상승 등으로 어려움을 겪고 있는 지역 건설업체 지원을 위해 대규모 건설공사에 대한 지역업체 참여 확대에 나섰다. 하동군은 지역 내에서 5억 원 이상 규모의 건설공사를 추진하는...",
-    "published_at": "2026-09-09T19:22:00+09:00",
-    "cluster_id": "27d3",
-    "publisher": "gnnews.co.kr",
-    "title_clean": "하동군 \"대규모 건설공사 지역업체 참여 확대를\"",
-    "summary": "하동군이 건설경기 침체와 원자재 가격 상승으로 어려움을 겪는 지역 건설업체를 지원하기 위해 5억 원 이상 규모의 대규모 건설공사에서 지역업체 참여를 확대하기로 결정했다. 이는 지역 건설업체의 수주 기회 증대 및 경영 안정화에 도움이 될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-09T19:43:37+09:00",
     "importance": 2
   }
 ]
