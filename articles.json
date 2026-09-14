@@ -20857,6 +20857,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안전보건공단, 캄보디아 건설안전 역량 강화…감독관·공무원 초청 - 에너지신문",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43ZVVkc2E5aUZqQTM4LV9CVDFIb20wYkFDdGJ1Tk00czJQR1FiOGx5R0h5ZEQwUmxfU0N1UDAwZGd6UDNsV0pGZEZDanBHZ1BBZWdMT0JRcGhJVWRSVG9TMnVrd2lkdVBTbzVJUUlWb2pDdw?oc=5",
+    "description": "[에너지신문] 한국산업안전보건공단(KOSHA, 이사장 김현중)이 캄보디아의 건설분야 산업안전보건 역량 강화를 위한 지원에 나선다.안전보건공단은 캄보디아 노동직업훈련부(MLVT)와 국토관리도시계획건설부(MLMUPC)를 한국으로 초청해 14일부터 18일까지 건설업 산업안전보건 제도와 현장",
+    "published_at": "2026-09-14T14:53:16+09:00",
+    "cluster_id": "a755",
+    "publisher": "에너지신문",
+    "title_clean": "안전보건공단, 캄보디아 건설안전 역량 강화…감독관·공무원 초청",
+    "summary": "한국산업안전보건공단이 캄보디아 건설분야 안전보건 역량 강화를 위해 노동직업훈련부와 국토관리부 관계자를 초청하여 산업안전보건 제도와 현장관리 방안을 전수한다. 국제 건설안전 기술 협력을 통한 한국의 건설안전 기준 확산 사업이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-14T15:00:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32260,22 +32276,6 @@
     "publisher": "whitepaper.co.kr",
     "title_clean": "코오롱글로벌, 스마트·친환경 건설 혁신기술 6건 현장 실증",
     "summary": "코오롱글로벌이 스마트·친환경 건설 혁신기술 6건에 대해 현장 실증을 추진하고 있습니다. 국토교통부의 '스마트건설 기술실증 지원사업' 등을 통해 건설 현장에 실제 적용 가능성을 검증하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T16:52:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[오늘의 건설 브리핑] 스마트건설·친환경 기술 현장 적용 확대···사회... - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=153357",
-    "description": "| 스마트비즈 = 최준 기자 | 건설업계가 미래 모빌리티와 에너지 절감, 스마트건설 등 변화하는 주거·건설 환경에 대응하기 위한 기술 개발과 현장 적용에 속도를 내고 있다. 공동주택 내 이동수단 안전체계 구축부터...",
-    "published_at": "2026-09-08T16:42:00+09:00",
-    "cluster_id": "a370",
-    "publisher": "smartbizn.com",
-    "title_clean": "[오늘의 건설 브리핑] 스마트건설·친환경 기술 현장 적용 확대···사회...",
-    "summary": "건설업계가 스마트건설, 미래 모빌리티, 친환경 기술 등 미래 주거·건설 환경 변화에 대응하기 위해 기술 개발과 현장 적용을 확대하고 있다. 공동주택 내 이동수단 안전체계 구축 등 다양한 분야에서 기술 도입을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-08T16:52:46+09:00",
     "importance": 2
