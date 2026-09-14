@@ -4840,6 +4840,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, LNG운반선 등 6척 12억달러 수주…상선 수주 목표 초과 - newslock.co.kr",
+    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=136179",
+    "description": "삼성중공업이 대형 LNG운반선과 원유운반선 등 선박 6척을 잇달아 수주하며 올해 상선 수주 실적이 지난해 연간 실적을 넘어섰다. 삼성중공업은 오세아니아 지역 선주와 대형 LNG운반선 4척과 원유운반선 2척 등 총...",
+    "published_at": "2026-09-14T12:50:00+09:00",
+    "cluster_id": "3f41",
+    "publisher": "newslock.co.kr",
+    "title_clean": "삼성중공업, LNG운반선 등 6척 12억달러 수주…상선 수주 목표 초과",
+    "summary": "삼samsung중공업이 LNG운반선 4척과 원유운반선 2척 등 6척을 12억달러에 수주했다. 올해 상선 수주 실적이 지난해 연간 실적을 초과하며 수주 목표를 달성했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-14T13:00:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20824,19 +20840,19 @@
     "importance": 3
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "모듈러 건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "IPARK현대산업개발, ‘2026 IPARK 기술제안 공모전’ 성료…4개사 시상 - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596871764530",
-    "description": "IPARK현대산업개발이 중소기업에서 제안한 스마트 주차와 자율 도장 로봇 등 4개 기술의 건설 현장 적용 가능성을 검증한다. 성과공유제 방식으로 실증 비용을 지원하고 성과에 따라 공동 특허와 사업화도 추진한다....",
-    "published_at": "2026-09-07T16:14:00+09:00",
-    "cluster_id": "f721",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "IPARK현대산업개발, ‘2026 IPARK 기술제안 공모전’ 성료…4개사 시상",
-    "summary": "IPARK현대산업개발이 중소기업 기술 공모전을 통해 스마트 주차, 자율 도장 로봇 등 4개 기술의 건설 현장 적용 가능성을 검증한다. 성과공유제 방식으로 실증을 지원하고 특허화·사업화를 추진하여 건설기술 혁신과 중소기업 성장을 촉진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-07T16:30:34+09:00",
+    "title": "22층까지 올라간 모듈러 아파트...공급 확대 걸림돌은 '공사비' - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ196a3d1bWxIVy1CWGpUZXhxVjBvRjEzZkhKSk1FTnJhYkEyOGVDeHBnOEE2dllhMnVyNXBLZTRBa052NUNTdTg3aVNhcU1wbEszcnduLUhNaF9Qd2lBdDhWdmFfSHpyNEJkSUpZMEZ3QV9obkphTUFtLTVPX1J4OW8wQklrQmg4S3c?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ196a3d1bWxIVy1CWGpUZXhxVjBvRjEzZkhKSk1FTnJhYkEyOGVDeHBnOEE2dllhMnVyNXBLZTRBa052NUNTdTg3aVNhcU1wbEszcnduLUhNaF9Qd2lBdDhWdmFfSHpyNEJkSUpZMEZ3QV9obkphTUFtLTVPX1J4OW8wQklrQmg4S3c?oc=5\" target=\"_blank\">22층까지 올라간 모듈러 아파트...공급 확대 걸림돌은 '공사비'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font>",
+    "published_at": "2026-09-14T10:39:00+09:00",
+    "cluster_id": "f457",
+    "publisher": "글로벌이코노믹",
+    "title_clean": "22층까지 올라간 모듈러 아파트...공급 확대 걸림돌은 '공사비'",
+    "summary": "모듈러 아파트 기술이 22층까지 건설 가능한 수준으로 발전하며 새로운 건설 방식으로 주목받고 있다. 다만 공사비 상승이 공급 확대의 주요 장애물로 지적되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-14T13:00:52+09:00",
     "importance": 2
   },
   {
@@ -32262,21 +32278,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-08T15:02:38+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "코오롱글로벌, 외부 혁신기술 6건 현장 실증…스마트·친환경 건설 확대 - biztribune.co.kr",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358618",
-    "description": "| 코오롱글로벌 코오롱글로벌이 인공지능(AI), 드론, 토공 자동화 등 스마트건설 기술부터 신재생에너지와 건물일체형 태양광(BIPV) 등 친환경 기술까지 외부 혁신기업과의 협업 범위를 확대한다. 단순한 기술 도입을 넘어...",
-    "published_at": "2026-09-08T14:40:00+09:00",
-    "cluster_id": "08a6",
-    "publisher": "biztribune.co.kr",
-    "title_clean": "코오롱글로벌, 외부 혁신기술 6건 현장 실증…스마트·친환경 건설 확대",
-    "summary": "코오롱글로벌이 AI, 드론, 자동화 등 스마트건설 기술과 신재생에너지, BIPV 등 친환경 기술을 외부 혁신기업과 협업하여 현장 실증을 확대하고 있다. 단순 기술 도입을 넘어 건설 현장의 스마트화와 친환경화를 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T15:02:38+09:00",
-    "importance": 2
   }
 ]
