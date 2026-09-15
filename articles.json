@@ -21350,6 +21350,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "새만금 건설엔지니어링도 '전북기업 우대'…조성토지 공급 확대 - bzeronews.com",
+    "link": "https://www.bzeronews.com/news/articleView.html?idxno=822742",
+    "description": "국토교통부는 15일 국무회의에서 '새만금사업법'과 '건설산업기본법' 시행령 일부 개정안이 의결됐다고 밝혔다. '새만금사업법' 시행령 개정안은 새만금사업 시행자가 지역기업을 우대할 수 있는 계약 대상에...",
+    "published_at": "2026-09-15T21:54:00+09:00",
+    "cluster_id": "9983",
+    "publisher": "bzeronews.com",
+    "title_clean": "새만금 건설엔지니어링도 '전북기업 우대'…조성토지 공급 확대",
+    "summary": "국토교통부가 새만금사업법 시행령을 개정해 건설엔지니어링 부문에서도 전북지역 기업 우대 계약을 허용하고 조성토지 공급을 확대하기로 결정했다. 지역기업 수주 기회 증대와 시장 확대로 건설업계에 긍정적 영향을 미칠 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-15T22:16:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-10T11:42:12+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재개발] 당리4구역 재개발, 시공자 선정 향한 '스타트' - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95299",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제2조제7호에 따른 건설업자 또는 「주택법」 제7조에 따라 건설업자로 보는 등록사업자 입찰보증금 40억 원을 현금 20억 원과...",
-    "published_at": "2026-09-10T11:16:00+09:00",
-    "cluster_id": "b226",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재개발] 당리4구역 재개발, 시공자 선정 향한 '스타트'",
-    "summary": "당리4구역 재개발 사업이 일반경쟁입찰 방식으로 시공자 선정 절차를 시작했으며, 참여 건설업체는 40억 원(현금 20억 원 포함)의 입찰보증금을 납부해야 한다. 이는 건설업계에 새로운 수주 기회를 제공하는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T11:33:01+09:00",
-    "importance": 2
   }
 ]
