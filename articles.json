@@ -5367,6 +5367,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“한국 손잡고 카자흐 금융허브 신도시 만들것” - donga.com",
+    "link": "https://www.donga.com/news/People/article/all/20260915/134672708/1",
+    "description": "한국전력, 두산에너빌리티, 롯데호텔리조트, 한국공항공사 등 여러 한국 기업이 알라타우 신도시 진출을 추진하는 가운데 15일 이재명 대통령과 카심조마르트 토카예프 카자흐스탄 대통령 간의 정상회담에서도 알라타우...",
+    "published_at": "2026-09-16T04:34:00+09:00",
+    "cluster_id": "ec56",
+    "publisher": "donga.com",
+    "title_clean": "“한국 손잡고 카자흐 금융허브 신도시 만들것”",
+    "summary": "한국 주요 기업들(한국전력, 두산에너빌리티, 롯데호텔리조트, 한국공항공사 등)이 카자흐스탄 알라타우 신도시 진출을 추진 중이며, 한국과 카자흐스탄 정상회담에서도 협력이 논의되고 있다. 해외 신도시 건설 프로젝트로 건설업계의 대규모 수주 기회가 확대될 전망이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-16T04:56:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21349,22 +21365,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-09T12:15:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "정비사업 수주 보폭 넓히는 롯데건설…5조 목표 달성 ‘청신호’ - 데일리한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZSmFwLUQ1YmZxRmhBTVZlTmNXalhiRjYyd0R6S3E1RXdaNFVqbGEzRjdfX2IteVFweDFpNUxCSDNVb1hhUVdsemszSzFiS24wcU9MRDJjQVdUWjJuMGRhbTZDbTNQYXByemE0Wmo0ONIBc0FVX3lxTE9Gd1VqTkQ1RmdBQWMwY3VxX0M5NVAtUW50SVkzcVZ3R3pOTG1nS3JqUDNiU05qMHgtd05MMTNUU3p0N1F1TlJjb1ZEVWc1VzBJMHNpUHFJbWRiZU1yTDI4RzBPUUtDcl9yNXRYWVlINVlfZXc?oc=5",
-    "description": "[데일리한국 김하수 기자] 롯데건설이 올해 재건축·재개발시장에서 존재감을 드러내고 있다. 서울 한강변 핵심 사업지인 성수전략정비구역 4지구에 이어 최근 강남 도곡우성 재건축 시공권까지 확보하면서 올해 누적 수주액이 4조원을 넘어섰다.단순히 수주 규모를 늘리는 데 그치지 않고 서울 핵심지를 중심으로 하이엔드 브랜드 ‘르엘’을 앞세워 정비사업 시장에서 존재감을 키우고 있다는 평가다.8일 정비업계에 따르면 롯데건설은 지난 5일 도곡우성아파트 재건축조합 총회에서 시공사로 선정됐다.이 사업은 서울시 강남구 도곡우성아파트를 재건축해 지하 6층",
-    "published_at": "2026-09-09T07:10:00+09:00",
-    "cluster_id": "4d97",
-    "publisher": "데일리한국",
-    "title_clean": "정비사업 수주 보폭 넓히는 롯데건설…5조 목표 달성 ‘청신호’",
-    "summary": "롯데건설이 성수전략정비구역 4지구와 강남 도곡우성 재건축 시공권을 연달아 확보하면서 올해 누적 수주액이 4조원을 초과했다. 하이엔드 브랜드 '르엘'을 중심으로 서울 핵심지에서 정비사업 시장 존재감을 확대하고 있으며, 연초 수립한 5조원 수주 목표 달성에 청신호가 켜졌다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-09T12:15:50+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 노동",
