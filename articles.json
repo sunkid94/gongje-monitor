@@ -21350,6 +21350,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설 불법하도급 자진 신고 땐 과징금·영업정지 ‘절반’ - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202609152036015",
+    "description": "국토교통부는 15일 국무회의에서 건설산업기본법 시행령 개정안이 의결됐다고 밝혔다. 개정안에 따라 국토부 장관이 정한 기간 내에 불법하도급 사실을 자진 신고하고, 행정처분 확정 전 위반 사항을 시정하면 영업정지...",
+    "published_at": "2026-09-15T20:36:00+09:00",
+    "cluster_id": "e8f7",
+    "publisher": "khan.co.kr",
+    "title_clean": "건설 불법하도급 자진 신고 땐 과징금·영업정지 ‘절반’",
+    "summary": "국토교통부가 건설산업기본법 시행령을 개정하여 불법하도급을 자진 신고하고 시정하면 과징금과 영업정지를 50% 감경해주는 제도를 도입했다. 이는 업체들이 적극적으로 위반 사항을 해소하도록 유도하는 자진신고 감면 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-15T20:55:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-10T11:33:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공사비·자재수급 부담…8월 체감건설경기 약세 지속 - news.einfomax.co.kr",
-    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434258",
-    "description": "공사비와 자재수급에 대한 우려로 체감건설경기가 약세를 나타냈다. 한국건설산업연구원은 8월 건설기업 경기실사지수(CBSI)가 전월(7월) 대비 0.1포인트(p) 하락한 72.7이라고 10일 밝혔다. CBSI는 체감 건설경기를...",
-    "published_at": "2026-09-10T11:12:00+09:00",
-    "cluster_id": "d8f0",
-    "publisher": "news.einfomax.co.kr",
-    "title_clean": "공사비·자재수급 부담…8월 체감건설경기 약세 지속",
-    "summary": "8월 건설기업 경기실사지수(CBSI)가 72.7로 전월 대비 0.1p 하락하며 약세를 지속했다. 공사비 상승과 자재수급 부담이 건설업계의 주요 애로요소로 작용하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-10T11:33:01+09:00",
-    "importance": 4
   }
 ]
