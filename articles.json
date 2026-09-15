@@ -5350,6 +5350,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "트리슐리강 - danbinews.com",
+    "link": "https://www.danbinews.com/news/articleView.html?idxno=33685",
+    "description": "한국인 근로자들이 실종된 곳은 어퍼트리슐리-1 수력발전소 건설 현장으로 발전소 건설을 위해 파견된 두산에너빌리티 소속 직원 6명과 한국남동발전 소속 직원 3명이다. 정부는 임상우 공공외교대사 겸 재외국민보호...",
+    "published_at": "2026-09-15T19:28:00+09:00",
+    "cluster_id": "b0d0",
+    "publisher": "danbinews.com",
+    "title_clean": "트리슐리강",
+    "summary": "인도의 어퍼트리슐리-1 수력발전소 건설 현장에서 한국인 근로자 9명(두산에너빌리티 6명, 한국남동발전 3명)이 실종되었다. 정부가 임상우 공공외교대사를 중심으로 재외국민보호에 나서고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-15T19:45:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21332,22 +21348,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-09T12:03:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 KDRT, 9일 오전 수색 중단…향후 활동계획 협의 - idsn.co.kr",
-    "link": "https://idsn.co.kr/news/view/1065578994650813",
-    "description": "26일 네팔 라수와 지역을 덮친 대홍수로 어퍼트리슐리 수력발전소 건설 현장에 있던 한국인 9명의 연락이 끊겼다. 실종자는 두산에너빌리티 직원 6명과 한국남동발전 직원 3명으로, 현재까지 소재는 확인되지 않고 있다.",
-    "published_at": "2026-09-09T11:30:00+09:00",
-    "cluster_id": "1c6c",
-    "publisher": "idsn.co.kr",
-    "title_clean": "네팔 KDRT, 9일 오전 수색 중단…향후 활동계획 협의",
-    "summary": "네팔 라수와 지역의 대홍수로 어퍼트리슐리 수력발전소 건설 현장에 있던 한국인 9명(두산에너빌리티 6명, 한국남동발전 3명)이 실종되었다. KDRT는 9일 오전 수색을 중단하고 향후 활동계획을 협의 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-09T11:43:33+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
