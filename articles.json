@@ -21367,6 +21367,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "200만 관광객·22만 일자리…LA 올림픽 ‘경제 특수’ 기대 - radiokorea.com",
+    "link": "https://www.radiokorea.com/news/article.php?uid=504293",
+    "description": "건설 노동자와 목수, 경비원, 버스와 셔틀 운전기사 등 지역 주민들이 비교적 직접적으로 참여할 수 있는 일자리들이 상당수 포함돼 있습니다. 관광객도 대거 몰릴 것으로 예상됩니다. 올림픽과 패럴림픽 기간...",
+    "published_at": "2026-09-16T03:46:00+09:00",
+    "cluster_id": "dd7c",
+    "publisher": "radiokorea.com",
+    "title_clean": "200만 관광객·22만 일자리…LA 올림픽 ‘경제 특수’ 기대",
+    "summary": "LA 올림픽으로 인해 200만 관광객 유입과 22만 개의 일자리 창출이 예상되며, 건설 노동자, 목수, 경비원 등 다양한 분야의 지역 고용이 증가할 것으로 전망된다. 올림픽 인프라 건설 및 운영에 따른 건설업계의 수주 기회와 경제 활성화가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-16T03:56:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32290,22 +32306,6 @@
     "publisher": "4th.kr",
     "title_clean": "건설사 AI·로봇 '외부 기술' 확보전..대우건설 4년 만에 재시동",
     "summary": "대우건설이 4년 만에 재시동하며 AI, 로봇, 드론 등 외부 스타트업 기술을 확보하는 전략을 추진 중이다. 자체 개발한 스마트건설 기술(AI, BIM, OSC, 드론, 스마트 안전관리)을 현장에 적용 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T12:02:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설, AI·로보틱스 스타트업과 맞손…스마트건설 오픈이노베이션... - e-science.co.kr",
-    "link": "https://www.e-science.co.kr/news/articleView.html?idxno=135200",
-    "description": "| 이코노미사이언스 김연옥 기자 | 대우건설이 AI와 로보틱스, 스마트 안전 기술을 보유한 스타트업과의 협업을 확대하며 스마트건설 생태계 구축에 속도를 낸다. 대우건설은 한국건설기술연구원과 공동으로 서울 을지로...",
-    "published_at": "2026-09-10T11:40:00+09:00",
-    "cluster_id": "14ee",
-    "publisher": "",
-    "title_clean": "대우건설, AI·로보틱스 스타트업과 맞손…스마트건설 오픈이노베이션... - e-science.co.kr",
-    "summary": "대우건설이 AI, 로보틱스, 스마트 안전 기술을 보유한 스타트업과의 협업을 확대하며 스마트건설 생태계 구축을 추진 중이다. 한국건설기술연구원과 공동으로 기술 혁신을 통해 건설산업의 디지털 전환을 주도하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-10T12:02:53+09:00",
     "importance": 2
