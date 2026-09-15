@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비건설공제조합, 'AI 모바일 보증' 6종으로 확대 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=340702",
+    "description": "기계설비건설공제조합이 인공지능(AI)을 활용한 모바일 보증업무를 확대하며 조합원 편의성 강화에 나선다. 기계설비건설공제조합은 내달 1일부터 카카오톡을 통해 이용할 수 있는 'AI 모바일 보증서비스'의 대상 업무를...",
+    "published_at": "2026-09-15T23:00:00+09:00",
+    "cluster_id": "200f",
+    "publisher": "국토일보",
+    "title_clean": "기계설비건설공제조합, 'AI 모바일 보증' 6종으로 확대",
+    "summary": "기계설비건설공제조합이 AI 기술을 활용한 모바일 보증서비스를 6종으로 확대하며 조합원 편의성을 강화한다. 내달 1일부터 카카오톡을 통해 보증업무를 간편하게 처리할 수 있게 된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-15T23:16:27+09:00",
+    "event_label": "기계설비건설공제조합 AI 모바일 보증서비스 6종 확대",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32289,22 +32306,6 @@
     "publisher": "",
     "title_clean": "대우건설, AI·로보틱스 스타트업과 맞손…스마트건설 오픈이노베이션... - e-science.co.kr",
     "summary": "대우건설이 AI, 로보틱스, 스마트 안전 기술을 보유한 스타트업과의 협업을 확대하며 스마트건설 생태계 구축을 추진 중이다. 한국건설기술연구원과 공동으로 기술 혁신을 통해 건설산업의 디지털 전환을 주도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T12:02:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설, 오픈 이노베이션 통해 스마트건설 스타트업 협력 강화 - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4105788",
-    "description": "대우건설은 한국건설기술연구원과 함께 스마트건설 분야 유망 스타트업을 발굴하고 현업부서와의 기술 협력을 지원하는 개방형 혁신 프로그램 '오픈 이노베이션'을 추진하고 있습니다. 공동 개최기관인 건설연은...",
-    "published_at": "2026-09-10T11:40:00+09:00",
-    "cluster_id": "d94c",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "대우건설, 오픈 이노베이션 통해 스마트건설 스타트업 협력 강화",
-    "summary": "대우건설이 한국건설기술연구원과 함께 스마트건설 분야 스타트업 발굴 및 기술 협력을 지원하는 '오픈 이노베이션' 프로그램을 추진 중입니다. 이는 건설업계의 디지털 혁신과 기술 고도화를 통해 경쟁력 강화를 목표로 합니다.",
     "sentiment": "positive",
     "collected_at": "2026-09-10T12:02:53+09:00",
     "importance": 2
