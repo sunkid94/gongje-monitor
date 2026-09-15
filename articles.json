@@ -21367,6 +21367,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"우리도 삼전·하이닉스 훈풍\"…중견 건설사 '일감 확대' 수혜 - news1.kr",
+    "link": "https://www.news1.kr/realestate/general/6291485",
+    "description": "건설업계 관계자는 \"지방 건설경기 침체 여파로 주택 사업만으로는 성장에 한계가 있는 가운데 중견 건설사들은 반도체와 AI 관련 주변 인프라로 눈을 돌리고 있다\"며 \"대형 건설사 대비 직접적인 반도체 공장 시공...",
+    "published_at": "2026-09-16T05:45:00+09:00",
+    "cluster_id": "8a1e",
+    "publisher": "news1.kr",
+    "title_clean": "\"우리도 삼전·하이닉스 훈풍\"…중견 건설사 '일감 확대' 수혜",
+    "summary": "반도체와 AI 관련 인프라 수요 증가로 중견 건설사들이 새로운 성장 기회를 포착하고 있다. 지방 주택사업 부진 속에서 반도체 공장 주변 시설 건설 수주로 사업 다각화를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-16T06:06:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32292,22 +32308,6 @@
     "summary": "한국건설기술연구원이 홍수, 도시침수, 가뭄 등 수재해를 예측하는 국산 통합 시뮬레이션 모델 'WaterKICT model chain'을 개발했다. 강우부터 피해평가까지 전 과정을 단계별로 분석하는 10개 모델을 연계한 시스템으로, 그동안 해외 모델에 의존하던 국내 수재해 분석의 자립화를 이루었다.",
     "sentiment": "positive",
     "collected_at": "2026-09-10T12:33:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "금융위원장이 김포 풍무 주택건설 현장 찾은 이유 - news.bizwatch.co.kr",
-    "link": "https://news.bizwatch.co.kr/article/finance/2026/09/10/0007",
-    "description": "최근 건설경기 불확실성 속에서도 주금공의 PF보증 등을 통해 자금조달 여건이 개선되고, 정부의 부동산 PF 연착륙 추진으로 시장 불안도 상당부분 안정됐다고 평가했다. 이환주 국민은행장은 \"국민은행은 올해만 약...",
-    "published_at": "2026-09-10T11:49:00+09:00",
-    "cluster_id": "9618",
-    "publisher": "news.bizwatch.co.kr",
-    "title_clean": "금융위원장이 김포 풍무 주택건설 현장 찾은 이유",
-    "summary": "금융위원장이 김포 풍무 주택건설 현장을 방문하여 주금공의 PF보증을 통한 자금조달 여건 개선과 정부의 부동산 PF 연착륙 추진으로 시장 불안이 안정되었다고 평가했다. 국민은행 등 금융기관이 건설 자금 지원을 확대하고 있어 건설업계의 자금난 해소에 긍정적 신호를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T12:02:53+09:00",
     "importance": 2
   }
 ]
