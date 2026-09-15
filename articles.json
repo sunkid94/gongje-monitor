@@ -21248,6 +21248,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "음성 용산산단 자금경색 돌파…'부분 준공' 속도 - cctimes.kr",
+    "link": "http://www.cctimes.kr/news/articleView.html?idxno=927442",
+    "description": "하지만 고금리와 부동산·건설경기 침체로 공동주택과 상업·지원시설 용지 분양이 지연되면서 SPC의 자금 흐름에 차질이 발생했다. 여기에 공사대금을 받지 못한 일부 업체가 지난 8월 SPC 계좌를 가압류하면서...",
+    "published_at": "2026-09-15T14:38:00+09:00",
+    "cluster_id": "89d5",
+    "publisher": "cctimes.kr",
+    "title_clean": "음성 용산산단 자금경색 돌파…'부분 준공' 속도",
+    "summary": "용산산단이 고금리와 부동산·건설경기 침체로 인한 분양 지연으로 자금경색을 겪고 있으며, 미수금 문제로 협력업체들의 가압류까지 발생했다. 사업 진행을 위해 부분 준공 전략으로 대응 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-15T14:54:15+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "현대건설 GTX-C 우여곡절 끝 '진짜 착공'에 안도, 막판 잡음에 긴장은 여... - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447234",
+    "description": "이를 놓고 착공식 뒤 GTX-C 사업 실제 착공까지 1년 9개월이 걸리는 사이에 건설경기 침체가 영향을 미친 게 아니냐는 시각도 나온다. GTX-C 사업 우선협상대상자가 선정된 2021년과 올해 사이에는 기준금리 인상을...",
+    "published_at": "2026-09-15T14:36:00+09:00",
+    "cluster_id": "04c4",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "현대건설 GTX-C 우여곡절 끝 '진짜 착공'에 안도, 막판 잡음에 긴장은 여...",
+    "summary": "현대건설이 GTX-C 사업에 실제 착공했으나, 착공식부터 실제 착공까지 1년 9개월의 지연이 발생했다. 이 기간 동안 건설경기 침체와 기준금리 인상 등이 사업에 영향을 미친 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-15T14:54:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32269,38 +32301,6 @@
     "summary": "대우건설이 스타트업과의 협력을 통해 건설 관련 신기술 발굴 및 실증을 지원하는 오픈 이노베이션 데이를 개최했다. 건설연과 함께 스마트건설 분야 유망기업을 발굴하고 기술 검증 지원금을 제공하여 산업 혁신을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-10T09:52:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설, 안전·AI·로봇 분야 스타트업과 기술 협력 추진 - ziksir.com",
-    "link": "https://www.ziksir.com/news/articleView.html?idxno=145948",
-    "description": "[대우건설]  대우건설이 안전·품질과 인공지능(AI), 로보틱스 등 스마트건설 분야의 외부 기술을 현장에 적용하기 위한 스타트업 협업을 확대한다. 대우건설은 한국건설기술연구원(건설연)과 함께 지난 8일 서울 을지로...",
-    "published_at": "2026-09-10T09:36:00+09:00",
-    "cluster_id": "86f9",
-    "publisher": "ziksir.com",
-    "title_clean": "대우건설, 안전·AI·로봇 분야 스타트업과 기술 협력 추진",
-    "summary": "대우건설이 건설연과 협력하여 안전·품질·AI·로봇 등 스마트건설 기술을 보유한 스타트업과의 협업을 확대한다. 외부 혁신 기술을 현장에 적용하여 건설 산업의 디지털 전환을 추진하는 사업 전략이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T09:52:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "우상호 강원지사 \"지역건설 어려움, 업계에만 맡기지 않겠다\" - newstnt.com",
-    "link": "https://www.newstnt.com/news/articleView.html?idxno=717634",
-    "description": "첫 일정으로 오는 14일 건설교통국장 등이 지역 건설업계와 함께 한국농어촌공사 강원지역본부를 방문해 지역업체 참여 확대와 지역건설경기 회복을 위한 공동 노력 방안을 협의한다. 이어 15일에는 원주지방환경청을...",
-    "published_at": "2026-09-10T09:22:00+09:00",
-    "cluster_id": "cc89",
-    "publisher": "newstnt.com",
-    "title_clean": "우상호 강원지사 \"지역건설 어려움, 업계에만 맡기지 않겠다\"",
-    "summary": "우상호 강원지사가 건설교통국장 등과 함께 한국농어촌공사를 방문하여 지역업체 참여 확대와 건설경기 회복을 위한 협의를 추진한다. 지역 건설업계와의 공동 노력을 통해 지역건설 활성화에 적극 나서겠다는 입장을 표명했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T09:36:44+09:00",
     "importance": 2
   }
 ]
