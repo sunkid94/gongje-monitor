@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "도심지 현장사무소 임대료, 합벽지지대 폼 등…내년 ‘표준품셈’에 포... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609161418317600326",
+    "description": "16일 관련 업계에 따르면 국토교통부, 한국건설기술연구원, 조달청, 대한건설협회, 대한전문건설협회, 대한기계설비건설협회 등은 17일 서울역에서 ‘표준품셈 실무자 협의회 회의’를 진행한다. 표준품셈이란 건설공사...",
+    "published_at": "2026-09-17T06:22:00+09:00",
+    "cluster_id": "0745",
+    "publisher": "대한경제",
+    "title_clean": "도심지 현장사무소 임대료, 합벽지지대 폼 등…내년 ‘표준품셈’에 포...",
+    "summary": "국토교통부, 한국건설기술연구원, 조달청, 대한건설협회, 대한전문건설협회, 대한기계설비건설협회 등이 17일 서울역에서 '표준품셈 실무자 협의회 회의'를 개최한다. 도심지 현장사무소 임대료, 합벽지지대 폼 등이 내년 표준품셈에 반영될 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-17T06:35:12+09:00",
+    "event_label": "대한기계설비건설협회 표준품셈 실무자 협의회 개최",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5535,6 +5552,22 @@
     "collected_at": "2026-08-18T07:53:13+09:00",
     "event_label": "대한기계설비건설협회 광주·전남도회 교육 인재 육성 기금 기탁",
     "importance": 5
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘 부동산] 홍지선 “용산공원, 국민 공감대 형성돼야 주택공급” - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1691340/?sc=Naver",
+    "description": "롯데건설, 르엘 라운지 열고 목동 재건축 공략 롯데건설이 서울 양천구 오목교역 인근에 ‘르에스트’와 신정동 학원가 인근 ‘르웨스트’ 개설하고 본격적인 홍보전에 나선다. 개관일은 내달 1일로 목동 주민 모두가...",
+    "published_at": "2026-09-17T06:11:00+09:00",
+    "cluster_id": "b294",
+    "publisher": "dailian.co.kr",
+    "title_clean": "[오늘 부동산] 홍지선 “용산공원, 국민 공감대 형성돼야 주택공급”",
+    "summary": "롯데건설이 목동 재건축 지역을 공략하기 위해 양천구와 신정동에 '르에스트', '르웨스트' 라운지를 개설하며 본격적인 마케팅을 시작한다. 용산공원 개발 등 주택공급 확대를 위해서는 국민 공감대 형성이 필수적이라는 입장을 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T06:35:12+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21521,19 +21554,19 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "현대엔지니어링, 용인·여수 발전소 사업 연이어 수주 - cnbnews.com",
-    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1015199",
-    "description": "현대엔지니어링이 한국중부발전과 SK이노베이션 E&S가 발주한 약 1조 7526억 원 규모의 '용인 열병합발전소'(EPC)와 한국동서발전이 발주한 약 6300억 원 규모의 '신호남 복합발전소'(EP, 포스코이앤씨 PC 담당) 건설 사업의...",
-    "published_at": "2026-09-10T10:20:00+09:00",
-    "cluster_id": "c622",
-    "publisher": "cnbnews.com",
-    "title_clean": "현대엔지니어링, 용인·여수 발전소 사업 연이어 수주",
-    "summary": "현대엔지니어링이 용인 열병합발전소(1조 7526억 원) 및 신호남 복합발전소(6300억 원) 등 약 2조 3000억 원대 발전소 건설 사업을 연이어 수주했다. 대형 EPC/EP 프로젝트 수주로 건설업계의 수주 기회 확대를 시사한다.",
+    "title": "홍석화 대표 '수익성' 외치더니...HL D&I, 9년 만에 영업익 1000억 '파란불... - consumernews.co.kr",
+    "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=763857",
+    "description": "홍 대표 취임 전 HL D&I 영업이익은 500억 원 초반대였는데 올해는 건설경기 침체에도 1000억 원을 넘보는 수준으로 늘었다. 영업이익률도 3% 중반에서 5% 중반으로 올라섰다. 17일 금융정보업체 에프앤가이드에...",
+    "published_at": "2026-09-17T06:10:00+09:00",
+    "cluster_id": "44e4",
+    "publisher": "consumernews.co.kr",
+    "title_clean": "홍석화 대표 '수익성' 외치더니...HL D&I, 9년 만에 영업익 1000억 '파란불...",
+    "summary": "홍석화 HL D&I 대표의 경영 아래 영업이익이 500억 원에서 1000억 원대로 2배 증가했으며, 영업이익률도 3%에서 5%로 상승했다. 건설경기 침체 속에서도 수익성 개선을 달성한 경영 성과를 보도하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-10T10:32:14+09:00",
+    "collected_at": "2026-09-17T06:35:12+09:00",
     "importance": 2
   },
   {
@@ -32287,37 +32320,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-11T15:15:09+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"수분 보충·안전수칙 체험\" 롯데칠성, SK에코플랜트와 온열질환 예방 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nRXQ2NnM3OW1jR09hSlJpYUI0R0JBYnVVaENQckl0dVQ5ZzhUc09OQ21mN0t6TG9VSWU1NG1qSWtKU2hrc1lqWl83ZWJZejVlOWNJVE1fMURicUo4LVY5c9IBeEFVX3lxTE5IOTFZUHVqNnNfaG9hN2UtMlgyaFRKemV1VW01NF9rRTJsSExNQVRQYjBxZlJMX0I3eThYdHJOWVJ3cHJmZV94UTJPVXNkVV82Q3VZNEtkYzFpay16ZWJ3OXN0V295X0dDNy1LeWJKU2hXcV82RlNYYg?oc=5",
-    "description": "[서울=뉴시스]이주혜 기자 = 롯데칠성음료가 충북 청주시 SK에코플랜트 건설현장에서 온열질환 예방 캠페인을 진행했다고 11일 밝혔다.이번 행사는 롯데칠성음료가 올해 SK에코플랜트를 포함해 총 7개 건설사와 진행한 온열질환 예방 활동을 마무리하는 자리다.롯데칠성음료는 전날 현장 근로자 1000여명을 대상으로 이온분말을 비롯해 게토레이, 아이시스 생수 등 음료..",
-    "published_at": "2026-09-11T10:09:12+09:00",
-    "cluster_id": "c3bc",
-    "publisher": "뉴시스",
-    "title_clean": "\"수분 보충·안전수칙 체험\" 롯데칠성, SK에코플랜트와 온열질환 예방",
-    "summary": "롯데칠성음료가 SK에코플랜트 건설현장에서 온열질환 예방 캠페인을 진행했으며, 현장 근로자 1000여명을 대상으로 이온음료와 생수 등을 제공했다. 올해 7개 건설사와 진행한 온열질환 예방 활동을 마무리하는 사회공헌 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-11T15:15:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "통영시, 주요사업장 13곳 현장 점검…안전·공정관리 강화 - 한려투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wTnFWakFIOVJDRFdvTnpwM3FoZnN1NlJsRWNXU05rTFY0dVpRNEZwNHltM3FOc2VKNE5KZGpaN1lvdmZjeU5wSzRPMHB4dkVOU1dwSTNvekU2eHg0VVh3YWdEVHgxeUVlWk5yYVU2Zw?oc=5",
-    "description": "통영시가 주요 사업의 차질 없는 추진과 현장 중심 행정 강화를 위해 주요사업장 13곳을 대상으로 현장 점검을 실시했다.통영시는 지난 8일 수산식품 외식산업 개발센터 신축공사 현장 등 문화·관광·체육과 기반 시설 분야 주요사업장을 찾아 사업 추진 상황과 안전관리 실태를 점검했다.시는 당초 3일간 21개 사업장을 확인할 예정이었지만, 집중호우 피해에 따른 응급 복구에 행정력을 집중하기 위해 일정을 조정하고 하루 동안 13개 현장을 압축해 점검했다.이번 점검에서는 집중호우로 인한 공사장 사면과 지반의 안전관리 상태, 수해 피해 여부를 중",
-    "published_at": "2026-09-11T10:03:38+09:00",
-    "cluster_id": "c997",
-    "publisher": "한려투데이",
-    "title_clean": "통영시, 주요사업장 13곳 현장 점검…안전·공정관리 강화",
-    "summary": "통영시가 주요사업장 13곳에 대한 현장 점검을 실시하여 안전관리와 공정 추진 상황을 점검했다. 집중호우 피해로 일정을 조정하고 사면·지반 안전관리 및 수해 피해 여부를 중점 확인했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-11T15:15:09+09:00",
-    "importance": 2
   }
 ]
