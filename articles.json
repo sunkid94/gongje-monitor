@@ -5537,6 +5537,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "수의계약 이어진 목동 재건축…7·14단지는 대형사 각축 - news1.kr",
+    "link": "https://www.news1.kr/realestate/general/6292478",
+    "description": "대우건설(047040), DL이앤씨, 포스코이앤씨, 롯데건설 등이 시공사 수주전 참여 후보로 거론된다. 건설사들은 목동에 홍보관을 열고 조합원과 접점을 확대하는 등 사전 수주 활동을 벌이고 있다. 목동 내 핵심 사업지를...",
+    "published_at": "2026-09-17T05:20:00+09:00",
+    "cluster_id": "6521",
+    "publisher": "news1.kr",
+    "title_clean": "수의계약 이어진 목동 재건축…7·14단지는 대형사 각축",
+    "summary": "목동 재건축 사업에서 대우건설, DL이앤씨, 포스코이앤씨, 롯데건설 등 대형 건설사들이 시공사 수주전에 참여하고 있다. 건설사들은 홍보관 개설 등 사전 수주 활동을 적극적으로 벌이고 있어 건설 수주 시장이 활발히 움직이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T05:35:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21516,22 +21532,6 @@
     "publisher": "news.dealsitetv.com",
     "title_clean": "현대엔지니어링, 2.4조 발전사업 우협 선정",
     "summary": "현대엔지니어링이 포스코이앤씨와 함께 2.4조 규모의 발전사업 우협에 선정되었다. 현대엔지니어링은 설계·조달(EP) 역무를, 포스코이앤씨는 조달·시공(PC) 역무를 담당한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T10:32:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "현대엔지니어링, 용인·여수 발전사업 우선협… 총 2조3826억원 규모 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2623962",
-    "description": "이 사업에는 현대엔지니어링과 포스코이앤씨가 컨소시엄으로 참여한다. 대표사인 현대엔지니어링이 설계와 주요 기자재 조달을 담당하고 포스코이앤씨가 보조 기자재 구매 및 시공을 맡는다. 착공은 2027년 6월...",
-    "published_at": "2026-09-10T10:12:00+09:00",
-    "cluster_id": "d190",
-    "publisher": "etoday.co.kr",
-    "title_clean": "현대엔지니어링, 용인·여수 발전사업 우선협… 총 2조3826억원 규모",
-    "summary": "현대엔지니어링과 포스코이앤씨가 용인·여수 발전사업을 총 2조3826억원 규모로 수주했다. 현대엔지니어링이 대표사로 설계 및 기자재 조달을, 포스코이앤씨가 시공을 담당하며 2027년 6월 착공 예정이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-10T10:32:14+09:00",
     "importance": 2
