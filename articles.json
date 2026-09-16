@@ -5537,6 +5537,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "목동 재건축 4곳 공략 - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20260916/134683766/2",
+    "description": "롯데건설은 다음 달 1일부터 서울 양천구 목동신시가지아파트 14개 단지 주민을 대상으로 ‘르엘 라운지’를 운영한다고 밝혔다. 라운지는 서울 지하철 5호선 목동역과 오목교역 인근에 각 1곳씩 들어선다. 롯데건설은...",
+    "published_at": "2026-09-17T00:31:00+09:00",
+    "cluster_id": "9d43",
+    "publisher": "donga.com",
+    "title_clean": "목동 재건축 4곳 공략",
+    "summary": "롯데건설이 서울 양천구 목동신시가지아파트 14개 단지 주민을 대상으로 다음 달부터 '르엘 라운지'를 운영한다. 목동역과 오목교역 인근에 각 1곳씩 라운지를 설치하여 재건축 사업 추진을 본격화한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T00:56:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21519,22 +21535,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-10T10:17:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "성수2는 DL이앤씨·목동12는 GS건설 수주 가능성...'무혈입성' 눈앞 - theguru.co.kr",
-    "link": "https://www.theguru.co.kr/news/article.html?no=106917",
-    "description": "앞서 1차 현장설명회에 대우건설·포스코이앤씨·IPRARK현대산업개발 등 4개사가 참석했으나 본입찰에는 GS건설만 입찰제안서를 냈다. 목동12단지도 수의계약으로 전환해 연내 시공사를 선정할 방침이다. 총공사비...",
-    "published_at": "2026-09-10T10:08:00+09:00",
-    "cluster_id": "1bde",
-    "publisher": "theguru.co.kr",
-    "title_clean": "성수2는 DL이앤씨·목동12는 GS건설 수주 가능성...'무혈입성' 눈앞",
-    "summary": "성수2와 목동12 재건축 단지에서 입찰 경쟁이 부족해 수의계약으로 전환되는 추세다. 목동12는 GS건설이 유일 입찰자로 사실상 수주가 확정될 가능성이 높다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-10T10:17:22+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설수주",
