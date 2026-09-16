@@ -5537,23 +5537,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협회 광주·전남도회, 미래 인재 육성 기탁 - gj.newdaily.co.kr",
-    "link": "https://gj.newdaily.co.kr/site/data/html/2026/08/17/2026081700048.html",
-    "description": "전남교육 꿈실현재단은 대한기계설비건설협회 광주·전남도회(회장 전상철)로부터 미래 인재 육성을 지원하기 위해 꿈실현금 1000만 원을 기탁받았다고 지난 13일 밝혔다. 대한기계설비건설협회 광주·전남도회는 2012년...",
-    "published_at": "2026-08-18T07:50:00+09:00",
-    "cluster_id": "f4ba",
-    "publisher": "gj.newdaily.co.kr",
-    "title_clean": "대한기계설비건설협회 광주·전남도회, 미래 인재 육성 기탁",
-    "summary": "대한기계설비건설협회 광주·전남도회가 전남교육 꿈실현재단에 1000만 원을 기탁하여 미래 인재 육성을 지원했다. 협회는 2012년부터 지속적으로 교육 기부 활동을 펼치고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-18T07:53:13+09:00",
-    "event_label": "대한기계설비건설협회 광주·전남도회 교육 인재 육성 기금 기탁",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21552,6 +21535,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-10T10:32:14+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경북도회, 영양군수와 지역 전문건설산업 활성화 세일즈 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326532",
+    "description": "이 자리에서 최진현 회장은\"최근 건설경기 침체와 공공공사 물량 감소로 지역 전문건설업체들의 경영 여건이 갈수록 어려워지고 있다\"며 \"특히 1500만원 미만 경미한 건설공사라 하더라도 무등록업자가 시공할 경우...",
+    "published_at": "2026-09-17T07:56:00+09:00",
+    "cluster_id": "91c0",
+    "publisher": "대한전문건설신문",
+    "title_clean": "경북도회, 영양군수와 지역 전문건설산업 활성화 세일즈",
+    "summary": "경북도회가 영양군수와 함께 지역 전문건설산업 활성화를 위한 세일즈를 진행했다. 최진현 회장은 건설경기 침체와 공공공사 물량 감소로 전문건설업체들의 경영 여건이 악화되고 있으며, 무등록업자의 불법 시공 문제를 언급했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-17T08:04:45+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 PF",
