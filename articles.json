@@ -21962,6 +21962,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "나주시, 추석 앞두고 주요 건설현장 안전점검…중대재해·시민 안전 ‘동시 관리’ - sports.donga.com",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KaVZ5WkpZUTdnU1BHaURBWlZXd3JtTUQxcUVXZTRPb1o2OUNYcGNYZGZLNWNONjVxblRrdWZRdjlrQVFkZ09kc3VjZEJTeWJEX0lsZ1Nyck1idTBfTkdGWk5YY2NGMmNEQmJuOUlVOUVWZw?oc=5",
+    "description": "■ 추락·끼임·붕괴 등 위험요인 점검…건설기계·보호구·안전교육도 확인■ 공사장 주변 보행로·가설시설물까지 점검…연휴 기간 안전관리 당부추석 연휴를 앞두고 나주시가 건설현장 안팎의 안전관리를 강화하고 나섰다. 작업자들의 산업재해 예방과 함께 공사장 주변을 오가는 귀성객…",
+    "published_at": "2026-09-18T08:32:27+09:00",
+    "cluster_id": "66b5",
+    "publisher": "sports.donga.com",
+    "title_clean": "나주시, 추석 앞두고 주요 건설현장 안전점검…중대재해·시민 안전 ‘동시 관리’",
+    "summary": "나주시가 추석 연휴를 앞두고 주요 건설현장에 대한 안전점검을 실시하고 있다. 추락, 끼임, 붕괴 등 위험요인과 건설기계, 보호구, 안전교육을 확인하며 공사장 주변 보행로까지 점검하는 등 중대재해 및 시민 안전을 동시에 관리하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-18T08:40:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32328,21 +32344,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-14T10:34:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "행정중심복합도시건설청, 추석 앞두고 건설 현장 체불·안전점검 추진 - 충청타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fS0VDQklWQjZaOXg1dmxHT0kwVEVNQTdZbTNQa2NCWEF5TTZxcUwtY21GVXZRX2hYVmt4VzdoR0VyWnh3eW02TWVWZTYxbWxfUWtud2JRRzBXWW5hV0NMVGI4TXpZUm1a?oc=5",
-    "description": "[충청타임즈] 추석 명절을 앞두고 건설현장 노동자들의 임금이 체불되지 않고 제대로 지급되고 있는지 집중점검에 나선다. 행정중심복합도시건설청(이하 행복청, 청장 강주엽)은 건설근로자의 권익을 보호하고 쾌적한 도시환경을 만들기 위해 ‘건설현장 대금 체불점검 및 환경정비’를 추진한다. 대금 체불 실태점검은 9월 23일까지 10일간 진행된다. 행복청 발주현장 4개소를 대상으로 하도급 및 건설기계 대금과 근로자 임금 등이 적절하게 지급되고 있는지를 점검해 체불이 있는 경우 추석 연휴 전까지 전액 지급될 수 있도록 건설사들을 독려할 방침이다.",
-    "published_at": "2026-09-14T10:11:12+09:00",
-    "cluster_id": "a650",
-    "publisher": "충청타임즈",
-    "title_clean": "행정중심복합도시건설청, 추석 앞두고 건설 현장 체불·안전점검 추진",
-    "summary": "행정중심복합도시건설청이 추석 연휴를 앞두고 발주현장 4개소를 대상으로 건설근로자 임금 체불, 하도급 및 건설기계 대금 지급 현황을 집중점검한다. 체불 적발 시 추석 전 전액 지급을 독려하며 건설현장 환경정비도 함께 추진할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T10:29:23+09:00",
-    "importance": 4
   }
 ]
