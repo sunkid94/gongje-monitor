@@ -5928,6 +5928,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "탁수 고인 세륜시설…롯데건설 인천 공사장 환경관리 논란 - 신문고뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85QldveGF2djdVZ3dFSlBPVzk4cHpka0w4TkNRYWh3UGtqWWwxX1lLLUptZ3ZXUTh5YUhTdE16dFB0c1AwZV9sUw?oc=5",
+    "description": "롯데건설이 시공 중인 인천 효성구역 도시개발사업 공동주택 4BL 건설현장에서 건설폐기물과 세척수 관리, 토사 유출 방지, 세륜시설 운영 등을 둘러싼",
+    "published_at": "2026-09-17T05:06:00+09:00",
+    "cluster_id": "8ef0",
+    "publisher": "신문고뉴스",
+    "title_clean": "탁수 고인 세륜시설…롯데건설 인천 공사장 환경관리 논란",
+    "summary": "롯데건설이 시공 중인 인천 효성구역 도시개발사업 공사장에서 건설폐기물, 세척수 관리, 토사 유출 방지 등 환경관리 미흡 문제가 제기되었다. 세륜시설에 탁수가 고여있는 등 환경 기준 준수 부실로 논란이 발생했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-17T22:40:07+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21907,22 +21923,6 @@
     "publisher": "news.bizwatch.co.kr",
     "title_clean": "메타폴리스 옆 1808가구 주상복합 '아크메르 동탄' 선봬",
     "summary": "KB부동산신탁과 포스코이앤씨가 시행·시공하는 '아크메르 동탄' 주상복합이 메타폴리스 인근에서 선보인다. 2개 블록 7개동 총 1808가구 규모의 대형 프로젝트로, 건설업계에 수주 증가 효과를 가져온다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T18:35:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코이앤씨, 리모델링 누적 14조원 수주...시공 기술력 강화 - asiaa.co.kr",
-    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=262043",
-    "description": "포스코이앤씨가 리모델링 정비사업 시장에서 수주와 시공 경험을 확대하고 있다. 2014년 리모델링 시장에 진출한 이후 현재까지 46개 단지에서 약 14조3000억원을 수주했으며, 최근 3년간 수주액은 5조4000억원에 달한다....",
-    "published_at": "2026-09-10T18:08:00+09:00",
-    "cluster_id": "ee5b",
-    "publisher": "asiaa.co.kr",
-    "title_clean": "포스코이앤씨, 리모델링 누적 14조원 수주...시공 기술력 강화",
-    "summary": "포스코이앤씨가 2014년 리모델링 시장 진출 이후 누적 14조3000억원을 수주하며 시장 입지를 확대하고 있다. 최근 3년간 수주액이 5조4000억원으로 가속화되면서 리모델링 정비사업 분야의 성장을 주도하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-10T18:35:22+09:00",
     "importance": 2
