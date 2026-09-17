@@ -21928,6 +21928,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "토허구역 내 실거주 유예 신청 기한, 내년 말로 연기 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3R2TkFBVl9vSVBSeTUxaDlQVFhxejdaZEtCT1ZYaUF2eC14T01jV2pJb2ZEVFYyNEZ1aWx1N2pwUjdVa1RKVDl5VnRBQk1rSW9TSGtyRUdRQWdkZ0dPN0NFS2M?oc=5",
+    "description": "국토교통부는 토지거래허가구역(토허구역) 내 실거주 유예 신청 기한을 내년 말로 연장한다고 오늘(17일) 발표했습니다. 이번 조치는 이달 18일 입법예고를 거쳐 다음달 1일부터 시행합니다. 다만, 실거주 의무 기간은 이전과 동일하게 2년 이상으로 유지하기로 했습니다. 이번에는 임대차 갱신계약도 유예 대상에 새로 포함시켰습니다. 지난 5월 실거주 유예 조치를 발표한 후 약 4개월 만에 마련한 추가 보완책입니다. 이번 조치로 실거주 유예 신청 기한은 애초 올해 말에서 내년 12월 31일까지로 늘어납니다. 기존에는 잔여 임대차",
+    "published_at": "2026-09-17T17:35:28+09:00",
+    "cluster_id": "82bc",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "토허구역 내 실거주 유예 신청 기한, 내년 말로 연기",
+    "summary": "국토교통부가 토지거래허가구역 내 실거주 유예 신청 기한을 올해 말에서 내년 12월 31일로 연장한다고 발표했습니다. 실거주 의무 기간은 2년 이상으로 유지되며, 임대차 갱신계약도 새로 유예 대상에 포함되었습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-17T20:00:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32325,22 +32341,6 @@
     "summary": "최은석 의원이 비수도권 지역의 미분양주택 양도세 특례를 현재의 4년 연장을 추진하고 있다. 건설경기 활성화와 주택 공급 기반 안정화를 위해 세제지원 유지의 필요성을 강조했다.",
     "sentiment": "positive",
     "collected_at": "2026-09-14T08:13:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "아이에스동서, IBK기업은행과 60억원 동반성장 펀드 1년 연장 - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202609140006",
-    "description": "아이에스동서는 건설경기 침체와 금융비용 부담 등 경영환경의 불확실성이 이어지는 상황에서 협력기업의 자금 수요에 대응하고 안정적인 경영활동을 지원하기 위해 펀드 운영을 연장했다고 설명했다. 아이에스동서...",
-    "published_at": "2026-09-14T07:46:00+09:00",
-    "cluster_id": "f96b",
-    "publisher": "sentv.co.kr",
-    "title_clean": "아이에스동서, IBK기업은행과 60억원 동반성장 펀드 1년 연장",
-    "summary": "아이에스동서가 IBK기업은행과 함께 협력기업 지원을 위한 60억원 규모의 동반성장 펀드를 1년 연장했다. 건설경기 침체와 금융비용 부담 속에서 협력기업의 자금난 완화와 안정적인 경영활동을 지원하기 위한 조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T07:58:14+09:00",
     "importance": 2
   }
 ]
