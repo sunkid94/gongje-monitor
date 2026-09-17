@@ -21707,6 +21707,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천시, 원도심 재생부터 노후도시 정비까지…도시균형국, 생활공간 혁... - discoverynews.kr",
+    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1101911",
+    "description": "노후계획도시 정비[이미지=인천시] ⑤ 지역건설산업 활성화 지역건설사 수주 확대 총력…공동도급 49%·하도급 70% 목표 인천시가 지역 건설업체의 수주 기회를 확대하고 지역 건설경기에 활력을 불어넣기 위한...",
+    "published_at": "2026-09-17T12:44:00+09:00",
+    "cluster_id": "5756",
+    "publisher": "discoverynews.kr",
+    "title_clean": "인천시, 원도심 재생부터 노후도시 정비까지…도시균형국, 생활공간 혁...",
+    "summary": "인천시가 지역 건설업체의 수주 기회 확대를 위해 공동도급 49%, 하도급 70% 목표를 설정하고 지역건설사 수주 확대에 총력을 기울이고 있다. 원도심 재생과 노후도시 정비 등 주요 사업을 통해 지역 건설경기 활성화를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T12:53:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32313,21 +32329,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-11T19:49:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“중대재해, 노사가 손잡고 막는다” - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10870964?ref=naver",
-    "description": "“추락, 붕괴 등 건설현장의 중대재해를 노사가 손잡고 막아냅시다” 사단법인 호남제주철콘연합회(회장 김양록)와 민주노총 전국건설노동조합광주전남건설지부(지부장이준상)는 11일 ‘광주서구연합회회의실에서...",
-    "published_at": "2026-09-11T18:57:00+09:00",
-    "cluster_id": "e81f",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "“중대재해, 노사가 손잡고 막는다”",
-    "summary": "호남제주철콘연합회와 민주노총 전국건설노동조합광주전남건설지부가 건설현장의 추락, 붕괴 등 중대재해 예방을 위해 노사가 협력하기로 합의했다. 노사 협력을 통한 안전 문화 강화로 산업재해 감소를 목표로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-11T19:09:34+09:00",
-    "importance": 3
   }
 ]
