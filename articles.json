@@ -21928,6 +21928,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘74명 사상’ 안전공업, 5년간 48차례 화재 발생에도 “경보기 꺼라”... - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202609172055055",
+    "description": "대전경찰청은 손주환 안전공업 대표 등 회사 관계자 12명을 업무상과실치사상 등의 혐의로 불구속 송치하고, 공장 내 휴게시설을 불법증축한 건축업자 1명을 건설산업기본법 위반 혐의로 함께 검찰에 넘겼다고 17일...",
+    "published_at": "2026-09-17T20:55:00+09:00",
+    "cluster_id": "2242",
+    "publisher": "khan.co.kr",
+    "title_clean": "‘74명 사상’ 안전공업, 5년간 48차례 화재 발생에도 “경보기 꺼라”...",
+    "summary": "대전의 안전공업에서 5년간 48차례 화재가 발생했음에도 불구하고 경보기를 껐다는 혐의로 회사 대표 등 12명이 업무상과실치사상 등으로 송치되었다. 74명의 사상자가 발생한 사건으로, 건설업계의 안전관리 부실 문제가 심각하게 드러났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-17T21:15:07+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32326,21 +32342,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T08:48:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한국국토정보공사, 제6회 디지털 지적의 날 개최 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16VFowOFdkQjNuQ3ZPdVFndFpzVlhNNXFqSUpxelJZMTlnLXlrZUZZWl9XSU9BWWM0MUJnWkdMWkRRSmJuWUJUWjdwaDZrdi0yeXNzR3k5aVR5a2hMTVlhdndvbHpZLS1CQm1CbUwxaTZuaGPSAXdBVV95cUxOcWFfM0J3ei1kSEhrVFdqNFFSdENRQi1WWGo1OXZOZjU4bkxlc3ozcjFuOHVORC16T3NNaEpBOFVURWlxaDZhcWZ4R2ttZHZEdmxDcXBva29GbjFoYVhQbExkZjlRaHFVVnFIOWZKdXZyekw0V3p1WQ?oc=5",
-    "description": "지적재조사사업에 인공지능(AI) 등 디지털 기술이 접목되면서 토지정보 구축 방식도 효율성을 높이는 방향으로 바뀌고 있다. 관련 기관과 업계가 한자리에 모여 사업 성과를 점검하고 향후 기술 활용 방안을 논의한다.한국국토정보공사와 국토교통부는 오는 16일 충남 공주시 국토정보교육원에서 지적측량업계와 지방정부 등 관계자 300여 명이 참석한 가운데 ‘제6회 디지털 지적의 날’ 기념행사를 연다고 14일 밝혔다.디지털 지적의 날은 2011년 9월 16일 지적재조사에 관한 특별법 제정을 기념해 매년 열리는 행사다. 지적재조사사업의 추진 성과를",
-    "published_at": "2026-09-14T08:20:08+09:00",
-    "cluster_id": "e81c",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "한국국토정보공사, 제6회 디지털 지적의 날 개최",
-    "summary": "한국국토정보공사와 국토교통부가 16일 '제6회 디지털 지적의 날'을 개최하여 지적재조사사업에 AI 등 디지털 기술 도입 현황을 점검한다. 지적측량업계와 지방정부 등 300여 명이 참석하여 향후 기술 활용 방안을 논의할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T08:48:26+09:00",
-    "importance": 2
   }
 ]
