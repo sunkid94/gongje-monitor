@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, 건설회관서 '로비 콘서트' 첫 공연 - smedaily.co.kr",
+    "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=363391",
+    "description": "건설공제조합은 지난 16일 서울 논현동 건설회관 로비에서 '아름다운 수요일, 로비 콘서트' 첫 공연을 개최했다. 건설공제조합은 지난 16일 서울 논현동 건설회관 로비에서 '아름다운 수요일, 로비 콘서트' 첫 공연을...",
+    "published_at": "2026-09-17T12:16:00+09:00",
+    "cluster_id": "c5da",
+    "publisher": "smedaily.co.kr",
+    "title_clean": "건설공제조합, 건설회관서 '로비 콘서트' 첫 공연",
+    "summary": "건설공제조합이 서울 논현동 건설회관 로비에서 '아름다운 수요일, 로비 콘서트' 첫 공연을 개최했다. 건설업계 종사자들을 위한 문화 활동을 제공하는 사업이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-17T12:33:36+09:00",
+    "event_label": "건설공제조합 로비 콘서트 첫 공연 개최",
+    "importance": 5
+  },
+  {
     "keyword": "기계설비건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5688,6 +5705,22 @@
     "collected_at": "2026-08-18T15:09:02+09:00",
     "event_label": "대한기계설비건설협회 광주·전남도회 장학금 1000만원 기탁",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 목동8단지 글로벌 역량 총동원 \"수주 넘어 미래 그린다\" - newsprime.co.kr",
+    "link": "http://www.newsprime.co.kr/news/article.html?no=748180",
+    "description": "서울 목동 신시가지 재건축 사업을 둘러싼 건설사 경쟁이 치열해지는 가운데, 대우건설(047040)이 목동8단지에 글로벌 설계·엔지니어링 역량을 집중하며 차별화에 나섰다. 단순 화려한 외관을 갖춘 재건축 단지를 만드는...",
+    "published_at": "2026-09-17T12:22:00+09:00",
+    "cluster_id": "133d",
+    "publisher": "newsprime.co.kr",
+    "title_clean": "대우건설, 목동8단지 글로벌 역량 총동원 \"수주 넘어 미래 그린다\"",
+    "summary": "대우건설이 목동8단지 재건축 사업에서 글로벌 설계·엔지니징 역량을 활용하여 경쟁 우위를 확보하려고 노력 중이다. 건설사들 간 수주 경쟁이 심화되고 있는 서울 목동 신시가지 재건축 시장에서 차별화 전략을 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T12:33:36+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21674,19 +21707,19 @@
     "importance": 4
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "포스코이앤씨, 누적 14.3조원 수주…리모델링 '업계 1위' 굳힌다 - gokorea.kr",
-    "link": "https://www.gokorea.kr/news/articleView.html?idxno=877926",
-    "description": "포스코이앤씨가 풍부한 수주 실적과 차별화된 시공 기술력을 앞세워 국내 리모델링 정비사업 시장에서 업계 선두 입지를 강화하고 있다. 포스코이앤씨는 2014년 리모델링 시장에 진출한 이후 현재까지 총 46개 단지, 약...",
-    "published_at": "2026-09-10T12:34:00+09:00",
-    "cluster_id": "db39",
-    "publisher": "gokorea.kr",
-    "title_clean": "포스코이앤씨, 누적 14.3조원 수주…리모델링 '업계 1위' 굳힌다",
-    "summary": "포스코이앤씨가 2014년 이후 누적 14.3조원의 수주를 기록하며 국내 리모델링 정비사업 시장에서 업계 1위 입지를 강화하고 있다. 풍부한 수주 실적과 차별화된 시공 기술력으로 건설업계의 긍정적 성과를 보여주고 있다.",
+    "title": "㈜서한, 추석 맞아 협력사에 공사대금 360억 원 조기 지급…\"지역 업계... - pennmike.com",
+    "link": "https://www.pennmike.com/news/articleView.html?idxno=127974",
+    "description": "그 결과 국토교통부 건설업자 간 상호협력 평가에서 2017년부터 10년 연속 최우수 등급을 받으며 대구·경북 지역 대기업군 1위 자리를 지키고 있다. 아울러 주택사업 확장에도 박차를 가하고 있다. 울산 동구 화정동...",
+    "published_at": "2026-09-17T12:16:00+09:00",
+    "cluster_id": "59cc",
+    "publisher": "pennmike.com",
+    "title_clean": "㈜서한, 추석 맞아 협력사에 공사대금 360억 원 조기 지급…\"지역 업계...",
+    "summary": "㈜서한이 추석을 맞아 협력사에 360억 원의 공사대금을 조기 지급하며 지역 업계 활성화를 지원했다. 동사는 국토교통부 건설업자 간 상호협력 평가에서 10년 연속 최우수 등급을 받으며 대구·경북 지역 대기업군 1위를 유지하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-10T12:43:13+09:00",
+    "collected_at": "2026-09-17T12:33:36+09:00",
     "importance": 2
   },
   {
@@ -32296,37 +32329,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-11T19:09:34+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이천시, 9월 노동안전의 날 맞아 건설현장 합동점검 및 안전수칙 캠페인 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1eGJzMm81RW1XblRvc2VDb01mVXB0MHJMbjlMVFpBUVhtaFM1NThxbm54QlJMVXVoem1fX08wVEs3cERBZ2xULU05dUpMOGkzeldBSF9YMGpBS0wxMGhTaWpXdm9RXzBKTzlybHFtcDBIdw?oc=5",
-    "description": "이천시는 9월 노동안전의 날을 맞아 중리지구 다목적 실내체육관과 여성비전센터 건축현장에서 산업재해 예방을 위한 합동점검과 고령노동자 대상 안전수칙 홍보 캠페인을",
-    "published_at": "2026-09-11T18:53:00+09:00",
-    "cluster_id": "c720",
-    "publisher": "웹이코노미",
-    "title_clean": "이천시, 9월 노동안전의 날 맞아 건설현장 합동점검 및 안전수칙 캠페인",
-    "summary": "이천시가 9월 노동안전의 날을 맞아 건설현장에서 산업재해 예방 합동점검과 고령노동자 대상 안전수칙 캠프페인을 실시한다. 건설 현장의 안전 규제 및 점검 강화를 의미하는 소식이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-11T19:09:34+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "오송참사 부실 제방 금호건설에 벌금 1억2천만원…법정 최고형 선고 - safety1stnews.com",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaV1M4RUdrdWQxdlFtOWFLN3YwSk5pOFhRYkdSRXZRS05UWHgycVdfNEpQOWpwUnZxZXpPU3c3V1liRDZhcGdiNmstSjVZaWxjZElfMHYzSDhNUG1DMkp1VkwtdFViZzd4eGc4cno0TQ?oc=5",
-    "description": "[세이프티퍼스트닷뉴스] 청주지법 형사5단독(강건우 부장판사)이 지난 9일, 2023년 14명의 목숨을 앗아간 청주 오송 지하차도 참사의 원인으로 지목된 미호강 제방 부실 공사와 관련해 시공사 금호건설에 벌금 1억2000만원을, 감리업체에 벌금 7000만원을 각각 선고했다. 두 회사에 적용된 건설기술진흥법 위반 혐의의 법정 최고형이다. 하천법 위반 등 혐의로 추가 기소된 현장소장 A씨에게는 징역 1년6개월이, 나머지 시공사·감리업체 관계자 4명에게는 업무상과실치사상·증거위조교사 등 혐의로 징역 8개월에 집행유예 3년부터 금고 2년까지",
-    "published_at": "2026-09-11T12:44:49+09:00",
-    "cluster_id": "9de9",
-    "publisher": "safety1stnews.com",
-    "title_clean": "오송참사 부실 제방 금호건설에 벌금 1억2천만원…법정 최고형 선고",
-    "summary": "2023년 14명이 사망한 청주 오송 지하차도 참사의 원인인 미호강 제방 부실 공사로 시공사 금호건설에 벌금 1억2000만원, 감리업체에 벌금 7000만원이 각각 선고됐다. 현장소장은 징역 1년6개월, 관계자 4명은 징역 8개월 집행유예 3년부터 금고 2년까지 선고되며 건설기술진흥법 위반의 법정 최고형이 적용됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-11T18:54:45+09:00",
-    "importance": 4
   }
 ]
