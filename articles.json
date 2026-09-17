@@ -21928,6 +21928,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대우건설 수주 '나이지리아 LNG프로젝트', 내년말 가동 예정 - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBydUJaQlpUajhKUlRxazFZNXBZeFBrUjYxZU9DOVdpRU9qRmctNGxpMjItMnA4dmw4ZW1UQlNtczlFNUxTX0RsQmkweEd1bkFmbWZlZHJJQmpBSXBkQjZ1VA?oc=5",
+    "description": "[더구루=홍성환 기자] 대우건설이 짓고 있는 나이지리아 액화천연가스(LNG) 플랜트가 내년 말 가동에 들어갈 예정이다. 나이지리아 LNG 기업 NLNG의 아델레예 팔라데 최고경영자(CEO)는 15일(현지시간) 태국 방콕에서 열린",
+    "published_at": "2026-09-18T07:51:00+09:00",
+    "cluster_id": "6ba6",
+    "publisher": "더구루",
+    "title_clean": "대우건설 수주 '나이지리아 LNG프로젝트', 내년말 가동 예정",
+    "summary": "대우건설이 수주한 나이지리아 LNG 프로젝트가 내년 말 가동 예정이다. NLNG의 CEO가 방콕에서 프로젝트 진행 상황을 언급했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T08:04:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32323,22 +32339,6 @@
     "publisher": "대한경제",
     "title_clean": "새만금개발公, 이달 말 '수변도시 공공하수처리시설' 턴키 발주",
     "summary": "새만금개발공사가 이달 말 수변도시 공공하수처리시설을 턴키 발주한다. 건설경기 침체 극복을 위해 지역기업 참여 배점을 5점에서 7점으로 상향 조정해 전북 건설업체의 수주 기회를 확대한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T10:09:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "새만금 스마트 수변도시 하수처리시설 9월 말 입찰 - jeollailbo.com",
-    "link": "http://www.jeollailbo.com/news/articleView.html?idxno=810912",
-    "description": "새만금개발공사는 특히 지역 건설업체의 참여기회를 넓히기 위해 건설경기 침체로 어려움을 겪는 전북지역 업체와의 상생을 위한 입찰 전 사전심사에서 지역업체 참여 배점 한도를 기존 5점에서 7점으로 높였다. 이에...",
-    "published_at": "2026-09-14T10:02:00+09:00",
-    "cluster_id": "492b",
-    "publisher": "jeollailbo.com",
-    "title_clean": "새만금 스마트 수변도시 하수처리시설 9월 말 입찰",
-    "summary": "새만금개발공사가 스마트 수변도시 하수처리시설 입찰을 9월 말 진행한다. 건설경기 침체로 어려움을 겪는 전북지역 건설업체의 참여 기회를 확대하기 위해 지역업체 배점을 5점에서 7점으로 상향 조정했다.",
     "sentiment": "positive",
     "collected_at": "2026-09-14T10:09:20+09:00",
     "importance": 2
