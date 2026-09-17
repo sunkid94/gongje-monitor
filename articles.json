@@ -5928,6 +5928,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "중동전쟁 장기화에 석달 만에 ‘올스톱’된 정부 협의체·대형사 TF - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MRlNiaWl1bnh2elJ2OG5EbXFET1d1YV82S2x6aXpPcmRNclV3RWRqV09QQnIxM1pCRU5QbVJrRktsV0FuNkFBUFBRMFZWUHNTNWRrMFdNUWZodWNvWG1YM1M0MVpxTnA3aFA3RmV2NS3SAXRBVV95cUxQVlpKbTUxU0Q2X0daUnNlZGZOS1Q4N1JNNVJiQ3BvalM3N1U2Z0tWS0hMRTRwcTBrbzAzamxMb2JDRUVpc0hzVjV0Z1JyUWRqUVRtTF9QVHpTeFJ4Zjd0UE00NmFhalhHQWRnWmZDTnZQVWdvSA?oc=5",
+    "description": "중동 전쟁이 장기화하는 가운데 국내 건설업계의 중동 재건 시장 진출 기대가 한풀 꺾였다. 건설업계는 지난 6월 중동 재건 시장 진출을 위한 준비에 돌입했지만 이후 중동 전쟁이 장기화되며 관련 논의가 사실상 중단됐다. 이에 따라 올해 들어 반토막 난 해외 건설 시장 수주액의 회복은 더욱",
+    "published_at": "2026-09-18T07:00:00+09:00",
+    "cluster_id": "a921",
+    "publisher": "IT조선",
+    "title_clean": "중동전쟁 장기화에 석달 만에 ‘올스톱’된 정부 협의체·대형사 TF",
+    "summary": "중동 전쟁의 장기화로 국내 건설업계가 6월부터 추진하던 중동 재건 시장 진출 준비가 사실상 중단됐다. 해외 건설 시장 수주액이 올해 반토막 난 상황에서 중동 시장 진출 지연으로 회복 전망이 더욱 어려워졌다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-18T07:55:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21910,22 +21926,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-10T20:15:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "고용노동부 청주지청, 9주차 무재해 릴레이 캠페인 진행 - cctimes.kr",
-    "link": "http://www.cctimes.kr/news/articleView.html?idxno=926843",
-    "description": "고용노동부 청주지청은 10일 9주차 무재해 릴레이 캠페인을 대우건설 시공 \"신영지웰푸르지오테크노폴리스센트럴\" 현장과 GC녹십자에서 실시했다. /고용노동부 청주지청 제공",
-    "published_at": "2026-09-10T19:42:00+09:00",
-    "cluster_id": "ecef",
-    "publisher": "cctimes.kr",
-    "title_clean": "고용노동부 청주지청, 9주차 무재해 릴레이 캠페인 진행",
-    "summary": "고용노동부 청주지청이 건설 현장의 안전 의식 고취를 위해 9주차 무재해 릴레이 캠페인을 진행했다. 대우건설의 '신영지웰푸르지오테크노폴리스센트럴' 현장 등에서 캠페인이 실시되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-10T19:55:11+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
