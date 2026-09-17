@@ -21928,6 +21928,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "“철근 배근, AI가 알아서 감리”…SH, 마곡 현장에 '스마트 건설 기술' 전격 투입 - 비즈월드",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44QjEwVnFrTXRwQnRKYl9sTUVXdnFKU181Y1I5QldsRU1rSjRhcXBPcHBwMkJlSHhVd0lVc2hGUVhBc1JTRjhHVjY3Ulczb1Q5WjNXVDBfNGRZNHYtWXpXRTJKelBPVjNDeEFz?oc=5",
+    "description": "[비즈월드] 공공주택 건설 현장에서 사람이 직접 서류와 도면을 들고 철근 배근을 확인하던 전통적 감리 방식이 인공지능(AI)과 로봇 등 디지털 기술 기반으로 고도화된다.서울주택도시개발공사(SH)는 지난 14일 서울 강서구 마곡16단지 공공주택 건설 현장에서 국토교통부 국책 연구개발(R&D) 과제로 추진해 온 ‘디지털 감리 및 시공 자동화 기술’의 현장 실증 및 성과 공유회를 개최했다고 17일 밝혔다.연구 총괄기관인 단국대학교 스마트안전기술센터와 SH가 공동 주최하고 국토교통부 및 국토교통과학기술진흥원(KAIA)이 후원한 이번 행사에",
+    "published_at": "2026-09-17T22:35:00+09:00",
+    "cluster_id": "aec4",
+    "publisher": "비즈월드",
+    "title_clean": "“철근 배근, AI가 알아서 감리”…SH, 마곡 현장에 '스마트 건설 기술' 전격 투입",
+    "summary": "SH가 마곡 공공주택 현장에 AI와 로봇 기반의 디지털 감리 및 시공 자동화 기술을 도입하여 전통적 감리 방식을 고도화한다. 단국대 스마트안전기술센터와 공동으로 추진한 국책 R&D 과제의 현장 실증 성과를 공유했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T06:55:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32324,22 +32340,6 @@
     "title_clean": "한일시멘트, 추석 전 협력사 거래대금 420억원 조기 지급",
     "summary": "한일시멘트가 추석 앞두고 협력사에 420억원의 거래대금을 조기 지급한다. 건설경기 침체 속에서도 협력사와의 상생 경영을 추진하는 사례로, 중소 협력업체의 자금 유동성 개선에 기여할 것으로 예상된다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-14T09:53:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "아이에스동서-기업은행, 동반성장펀드 운영 연장 - newsdream.kr",
-    "link": "http://www.newsdream.kr/news/articleView.html?idxno=118067",
-    "description": "아이에스동서 측은 \"건설경기 침체와 금융비용 부담이 이어지는 상황에서 협력기업의 자금 수요에 대응하기 위해 펀드 운영을 연장했다\"며 \"앞으로도 협력사와 함께 성장할 수 있도록 다양한 상생 프로그램을 이어갈...",
-    "published_at": "2026-09-14T09:44:00+09:00",
-    "cluster_id": "a1a5",
-    "publisher": "newsdream.kr",
-    "title_clean": "아이에스동서-기업은행, 동반성장펀드 운영 연장",
-    "summary": "아이에스동서가 기업은행과 협력기업 대상 동반성장펀드 운영을 연장했다. 건설경기 침체와 금융비용 부담 속에서 협력사의 자금 수요 대응과 상생 프로그램 지속을 목표로 한다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-14T09:53:39+09:00",
     "importance": 2
   }
