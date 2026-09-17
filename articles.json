@@ -21928,6 +21928,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "17개국에 10만 명 파견…北 노동자 어디에? - ichannela.com",
+    "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000551051",
+    "description": "<이게 평양김치?> 네.\" 북한식 식당 종사자나 건설 노동자가 대부분이었던 과거와 다르게 최근에는 IT 노동자들이 해외에 거점을 두고 가상화폐 탈취를 통한 외화벌이에도 나서고 있습니다. 이렇게 해외에 퍼져 있는 북한...",
+    "published_at": "2026-09-17T19:42:00+09:00",
+    "cluster_id": "e80f",
+    "publisher": "ichannela.com",
+    "title_clean": "17개국에 10만 명 파견…北 노동자 어디에?",
+    "summary": "북한이 17개국에 약 10만 명의 노동자를 파견하고 있으며, 과거 식당 종사자나 건설 노동자 중심에서 최근 IT 노동자들이 가상화폐 탈취 등을 통한 외화벌이에 나서고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-17T19:50:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32326,21 +32342,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-14T07:58:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기 LH 빈집 1만2234호…상업·업무용지 9조도 미매각 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEejIzNWUySjFWSFh3U1pJejYtRDRBWURPbWZxWFRndFFYaExaTmx0dUVvdFNOVWlDek1yR3hma1gxRkFDNDhyLVZGSkYyS2QyZHEzSw?oc=5",
-    "description": "▲한국토지주택공사(LH)가 관리하는 경기지역 건설임대주택 가운데 1만2234호가 올해 7월 말 기준 6개월 이상 공가 상태인 것으로 집계됐다. 이 가운데",
-    "published_at": "2026-09-13T14:31:00+09:00",
-    "cluster_id": "90c3",
-    "publisher": "이투데이",
-    "title_clean": "경기 LH 빈집 1만2234호…상업·업무용지 9조도 미매각",
-    "summary": "LH가 경기지역에서 관리하는 건설임대주택 중 1만2234호가 6개월 이상 공가 상태이며, 상업·업무용지 9조 규모도 미매각 상태인 것으로 나타났다. 이는 건설·부동산 시장의 침체와 자산 유동화 어려움을 반영하는 사례로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T07:58:14+09:00",
-    "importance": 4
   }
 ]
