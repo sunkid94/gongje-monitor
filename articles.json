@@ -21928,6 +21928,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“멀쩡한 장비 두고 왜 손 놓나”… 아산시의회, 건설 현장 ‘손톱 밑 가시’ 뽑기 착수 - 뉴스홈(newshome)",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvZ1dsTl81UnBsb1dYR0xYc1AyVFlGMkRReUIwSUtpQXpHbk5IUWozOWczcUJXYUpvOTZ0M0tneHJJQnRVdkVHaS15dU1TWkxKN0NuMHIxZVplaUtGcjN5YmlqUHFtdlZsLUFXd3JR?oc=5",
+    "description": "출고 연도가 지났다는 이유로 일감이 끊기고 공사대금 결제가 몇 달씩 밀려 피가 마르던 공사판의 해묵은 규제를 풀기 위해 아산시의회가 직접 팔을 걷어붙였다.아산시의회 건설도시위원회는 의회동 다목적회의실에서 한국산업건설노동조합 관계자 및 아산시 도시개발국 등 집행부 공무원들과 머리를 맞대",
+    "published_at": "2026-09-17T08:42:30+09:00",
+    "cluster_id": "ab67",
+    "publisher": "뉴스홈(newshome)",
+    "title_clean": "“멀쩡한 장비 두고 왜 손 놓나”… 아산시의회, 건설 현장 ‘손톱 밑 가시’ 뽑기 착수",
+    "summary": "아산시의회가 건설 현장의 오래된 규제를 완화하기 위해 관련 부처와 협의를 시작했다. 출고 연도 제한으로 인한 일감 단절과 공사대금 지연 등 건설업계의 구조적 문제 해결을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T19:45:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32326,21 +32342,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T07:58:14+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "인공지능·모듈러로 여는 부산의 미래주거… ‘2026년 제2차 부산주거포럼’ 개최 - 서프라이즈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZSW5IWjhka3FqbkVLcjEzTGtvM2txT19FS202YmQ1akNiS3B3Sm0zT3dNRnhZbVVhb08wazdzemdOMWV4Z3BYZGNuYVJXenFwUDJKZGxlODJxeFR5WnJHZVZZQnB5cE9hU2lMRzd3?oc=5",
-    "description": "[서프라이즈뉴스] 부산시는 오는 9월 17일 오후 2시 시청 국제회의장에서 (사)한국건축가협회 부산건축가회와 공동으로 ‘2026년 제2차 부산주거포럼’을 개최한다고 밝혔다.시는 올해 부산주거포럼을 총 3차례 개최해 부산의 주요 주거 현안을 단계적으로 공론화하고 실효성 있는 해법을 모색하고 있다.지난 5월 29일 개최한 제1차 포럼에서는 ‘지속가능한 15분도시, 공공의 주거’를 주제로 공공주택의 역할과 지속가능한 주거정책 방향을 논의했다.이번 제2차 포럼에서는 ‘부산형 모듈러주택 공급 방향과 적용 방안’을 주제로 최근 건설환경과 기술",
-    "published_at": "2026-09-14T07:06:55+09:00",
-    "cluster_id": "d48e",
-    "publisher": "서프라이즈뉴스",
-    "title_clean": "인공지능·모듈러로 여는 부산의 미래주거… ‘2026년 제2차 부산주거포럼’ 개최",
-    "summary": "부산시가 9월 17일 제2차 부산주거포럼을 개최하여 '부산형 모듈러주택 공급 방향과 적용 방안'을 주제로 논의한다. 올해 3차례 포럼을 통해 부산의 주거 현안을 공론화하고 실효성 있는 해법을 모색하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T07:23:10+09:00",
-    "importance": 2
   }
 ]
