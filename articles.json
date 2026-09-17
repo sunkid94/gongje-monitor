@@ -5826,6 +5826,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "목동 재건축 윤곽…롯데 가세에 경쟁입찰 성사되나 - sentv.co.kr",
+    "link": "https://www.sentv.co.kr/article/view/sentv202609170133",
+    "description": "오는 22일 입찰을 마감하는 8단지에서는 대우건설이 수주에 공을 들이고 있습니다. 이런 가운데 롯데건설도 목동 재건축 수주전에 본격 가세했습니다. 롯데건설은 다음 달 1일 목동 동측과 서측에 ‘르엘 라운지’ 두...",
+    "published_at": "2026-09-17T18:34:00+09:00",
+    "cluster_id": "64a0",
+    "publisher": "sentv.co.kr",
+    "title_clean": "목동 재건축 윤곽…롯데 가세에 경쟁입찰 성사되나",
+    "summary": "목동 재건축 사업에서 대우건설과 롯데건설이 수주를 놓고 경쟁입찰을 벌이고 있다. 롯데건설이 본격 가세하면서 목동 재건축 수주전이 경쟁 구도로 전개될 전망이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T18:43:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21806,22 +21822,6 @@
     "title_clean": "'천지개벽' 앞둔 목동 가보니...신고가 행진 속 잠긴 거래[르포]",
     "summary": "목동 재개발 7~9단지에서 대형 건설사들(삼성물산, 현대건설, 롯데건설, 대우건설, GS건설)이 수주 경쟁을 벌이고 있다. 부동산 신고가 행진 속에서도 거래는 위축된 상황이며, 아직 본격적인 수주전이 시작되지 않은 단계이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-10T16:35:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코이앤씨, 리모델링 시장서 성과…2014년 진출 후 14.3조 수주 - whitepaper.co.kr",
-    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266670",
-    "description": "(사진=포스코이앤씨)  포스코이앤씨가 2014년 리모델링 사업에 진출한 이후 누적 수주액이 14조 원을 넘어서며 국내 리모델링 시장에서 성과를 드러냈다. 포스코이앤씨는 리모델링 시장에 진출한 이후 현재까지 46개 단지...",
-    "published_at": "2026-09-10T16:26:00+09:00",
-    "cluster_id": "684f",
-    "publisher": "whitepaper.co.kr",
-    "title_clean": "포스코이앤씨, 리모델링 시장서 성과…2014년 진출 후 14.3조 수주",
-    "summary": "포스코이앤씨가 2014년 리모델링 시장 진출 이후 누적 수주액 14조 원을 돌파하며 국내 리모델링 시장에서 주도적 위치를 확보했다. 46개 단지 시공 실적으로 업계 내 리모델링 전문 건설사로서의 입지를 강화하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-10T16:35:30+09:00",
     "importance": 2
   },
