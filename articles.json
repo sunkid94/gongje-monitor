@@ -21928,6 +21928,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국수력원자력, 협력기업 중대재해 예방 활동 확대 추진 - 비즈니스플러스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhSXg3NTJMMGNrdm5jMFI1QmJpaU9tYktYZFNEbFFwYlN2R2lmYXc1NkNla1JOajVUUXl0Q0xZWThCQ3VEMUM3T1czOU9HSHRlZXhlWGJLSlpJS3dueVNGcDhIYWpqUWt4dzlwNlZ2dw?oc=5",
+    "description": "한국수력원자력(한수원)은 17일 경주 본사 대회의실에서 협력기업의 안전 역량 강화를 지원하는",
+    "published_at": "2026-09-17T13:47:10+09:00",
+    "cluster_id": "b776",
+    "publisher": "비즈니스플러스",
+    "title_clean": "한국수력원자력, 협력기업 중대재해 예방 활동 확대 추진",
+    "summary": "한국수력원자력이 협력기업의 안전 역량 강화를 위한 중대재해 예방 활동을 확대 추진한다. 이는 건설 및 기계설비 협력기업들의 안전 기준 강화로 이어져 업계 전반의 안전 관리 비용 증가 요인이 될 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-18T01:05:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32325,22 +32341,6 @@
     "summary": "행복청이 추석 명절을 앞두고 14~23일까지 발주현장의 공사대금과 임금 체불 실태를 점검하고 건설현장 안전시설을 확인한다. 건설근로자와 하도급업체의 임금 미지급 문제 해결을 위한 점검 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-14T09:23:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "본업 살아난 서울보증보험…보험이익 2.5배 '껑충' - dealsite.co.kr",
-    "link": "https://dealsite.co.kr/articles/168829",
-    "description": "건설경기가 둔화하거나 중소기업의 자금 사정이 악화돼 채무불이행과 보증사고가 늘어나면 보험금 지급 부담과 손해율이 함께 상승한다. 반대로 올해 상반기처럼 신규 보증 영업이 늘어나는 동시에 보험사고와...",
-    "published_at": "2026-09-14T09:02:00+09:00",
-    "cluster_id": "e46e",
-    "publisher": "dealsite.co.kr",
-    "title_clean": "본업 살아난 서울보증보험…보험이익 2.5배 '껑충'",
-    "summary": "서울보증보험이 상반기 신규 보증 영업 증가와 보험사고 감소로 보험이익이 2.5배 증가했다. 건설경기 회복과 중소기업 자금 사정 개선으로 본업 실적이 개선되는 긍정적 신호를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T09:08:39+09:00",
     "importance": 2
   }
 ]
