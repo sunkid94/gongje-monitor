@@ -5707,6 +5707,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "10대 건설사 하자 판정 321건…대우 최다·SK 비율 최고 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260917_0003793593",
+    "description": "롯데건설과 HDC현대산업개발은 각각 723건 중 14건(1.9%), 738건 중 14건(1.9%)이었으며 DL이앤씨는 181건 중 3건(1.7%)이었다. 시공능력평가 상위 30개 건설사 전체로 보면 접수 대비 하자 판정 비율은 태영건설이 가장...",
+    "published_at": "2026-09-17T11:26:00+09:00",
+    "cluster_id": "0890",
+    "publisher": "newsis.com",
+    "title_clean": "10대 건설사 하자 판정 321건…대우 최다·SK 비율 최고",
+    "summary": "국내 10대 건설사의 하자 판정 현황을 분석한 결과, 총 321건이 적발되었으며 대우건설이 최다 건수, SK건설이 최고 비율을 기록했다. 롯데건설, HDC현대산업개발, DL이앤씨 등은 1~2% 수준의 낮은 하자 판정률을 보였다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-17T13:03:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21689,22 +21705,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-10T13:03:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "실종 한국인 가족 \"수색 포기 말아달라\" 간청...韓구호대 '2차 파견' 추진 - newstree.kr",
-    "link": "https://www.newstree.kr/newsView/ntr202609100004",
-    "description": "정부뿐만 아니라 남동발전과 두산에너빌리티 등 현지 기업 대응팀도 자체 수색작업을 확대하고 있다. 남동발전은 이날 육상수색 8개팀, 총 91명을 투입해 사고 현장 주변 산악지대 등을 수색하고 있다. 전날 셰르파를...",
-    "published_at": "2026-09-10T12:28:00+09:00",
-    "cluster_id": "b07e",
-    "publisher": "newstree.kr",
-    "title_clean": "실종 한국인 가족 \"수색 포기 말아달라\" 간청...韓구호대 '2차 파견' 추진",
-    "summary": "히말라야 산악지역에서 실종된 한국인 가족 수색을 위해 정부와 남동발전, 두산에너빌리티 등 현지 기업들이 대규모 수색작업을 진행 중이다. 실종자 가족이 수색 포기를 반대하며 간청하고 있으며, 한국 구호대의 2차 파견이 추진되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-10T12:43:13+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
