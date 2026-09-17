@@ -21962,6 +21962,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "나주시, 추석 앞두고 주요 건설현장 안전점검…중대재해·시민 안전 ‘... - sports.donga.com",
+    "link": "https://sports.donga.com/region/article/all/20260918/134693506/1",
+    "description": "나주시는 앞으로도 건설현장 안전관리 실태를 지속적으로 점검하고 현장 관계자와 근로자들의 안전의식을 높이는 한편, 중대산업재해를 예방할 수 있는 현장 중심의 관리체계를 이어갈 방침이다. 강상구 나주시 부시장은...",
+    "published_at": "2026-09-18T08:33:00+09:00",
+    "cluster_id": "d8d1",
+    "publisher": "sports.donga.com",
+    "title_clean": "나주시, 추석 앞두고 주요 건설현장 안전점검…중대재해·시민 안전 ‘...",
+    "summary": "나주시가 추석을 앞두고 주요 건설현장에 대한 안전점검을 실시하여 중대산업재해 예방에 나섰다. 시는 현장 안전관리 실태를 지속적으로 점검하고 근로자 안전의식 고취를 위해 현장 중심의 관리체계를 강화할 방침이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-18T08:50:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32328,21 +32344,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T10:34:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "새만금 수변도시 1054억 하수처리시설 발주… 지역업체 참여 확대 - jjn.co.kr",
-    "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1051995",
-    "description": "건설경기 침체로 어려움을 겪고 있는 지역업체의 수주 기회를 확대하기 위해 사전심사(PQ) 과정에서 지역기업 참여에 따른 배점 한도를 기존 5점에서 7점으로 높이기로 했다. 이에 따라 대형 건설사와 전북지역 건설업체...",
-    "published_at": "2026-09-14T10:18:00+09:00",
-    "cluster_id": "c6c1",
-    "publisher": "jjn.co.kr",
-    "title_clean": "새만금 수변도시 1054억 하수처리시설 발주… 지역업체 참여 확대",
-    "summary": "새만금 수변도시 하수처리시설 1054억 규모 발주에서 지역업체 참여 배점을 5점에서 7점으로 상향하여 전북 건설업체의 수주 기회를 확대한다. 건설경기 침체 속에서 지역 중소 건설사의 경쟁력 강화를 위한 정책 추진.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T10:34:52+09:00",
-    "importance": 2
   }
 ]
