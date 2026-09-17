@@ -21928,6 +21928,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "서한, 추석 앞두고 협력사 공사대금 360억 조기 지급 - idaegu.co.kr",
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=560042",
+    "description": "김병준 서한 전무이사는 \"그동안 건설경기가 어렵다는 이야기를 꾸준히 들어 왔는데 최근에는 현장에서 그 어려움을 더욱 직접적으로 체감하고 있다\"라며 \"이럴 때일수록 업계가 서로 힘을 보태 함께 어려움을 이겨내고...",
+    "published_at": "2026-09-17T21:44:00+09:00",
+    "cluster_id": "2959",
+    "publisher": "idaegu.co.kr",
+    "title_clean": "서한, 추석 앞두고 협력사 공사대금 360억 조기 지급",
+    "summary": "서한이 추석을 앞두고 협력사에 공사대금 360억 원을 조기 지급하기로 결정했다. 건설경기 어려움 속에서 업계 상호 협력을 강조하며 협력사 자금난 완화에 나섰다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-17T22:00:25+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“국민연금? 한 푼도 못 받아요”…은퇴 건설 노동자들 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666555&ref=A",
+    "description": "2020년부터 한 달에 8일 이상 일하는 건설 일용직 근로자도 국민연금에 가입할 수 있게 됐지만, 당시 이미 60, 70대였던 노동자들은 최소 가입 기간 10년을 채우기 어려웠습니다. [홍석완/80세 : \"국민연금은 없고 기초연금...",
+    "published_at": "2026-09-17T21:41:00+09:00",
+    "cluster_id": "2f98",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "“국민연금? 한 푼도 못 받아요”…은퇴 건설 노동자들",
+    "summary": "2020년 건설 일용직 국민연금 제도 개선에도 불구하고, 이미 고령인 기존 건설 노동자들은 최소 가입 기간 10년을 충족하기 어려워 연금 수급에서 배제되고 있다. 제도 시행 시점의 나이 문제로 인한 사각지대가 발생하면서 은퇴 건설 노동자들의 생활 보장 문제가 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-17T22:00:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32310,37 +32342,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-14T08:58:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "인공지능(AI)·모듈러로 여는 부산의 미래주거… '2026년 제2차 부산주거포럼' 개최 - mediatoday.asia",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XNExRWVpid1lOQnJFZlNFQjhhWGZ2ZmNyaHBzNmI4cEFlazdJSTJqU09YWFJBenM1cWRKMjdsMXhyY1dkbUFGM0Vn?oc=5",
-    "description": "2026년 제2차 부산주거포럼 웹포스터 [미디어투데이=안정태 기자] 부산시는 오는 9월 17일 오후 2시 시청 국제회의장에서 (사)한국건축가협회 부산건축가",
-    "published_at": "2026-09-14T07:24:00+09:00",
-    "cluster_id": "bbf6",
-    "publisher": "mediatoday.asia",
-    "title_clean": "인공지능(AI)·모듈러로 여는 부산의 미래주거… '2026년 제2차 부산주거포럼' 개최",
-    "summary": "부산시가 9월 17일 제2차 부산주거포럼을 개최하여 AI와 모듈러 기술을 활용한 미래주거 방향을 논의한다. AI와 모듈러 건축은 건설 효율성 증대와 새로운 시장 기회를 제공할 수 있는 신기술 분야다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T08:58:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "2025년 건설공사액 335조원…전년비 7.9%↓ - 대한건설기계신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfdk9nUW9mQmVtWThyZ0dsYVVrNk1zQ3c3ckVEUkJXTGJBVE1BZC12Wno3a1AzQnRJTzNCUmJFRFlZQTZUSWhxdlUwWHJkUExDVW92bk82ZTluQzdsUjluZlp4LWhiMnF1?oc=5",
-    "description": "국토교통부는 2025년 건설공사액이 전년비 7.9% 감소한 335조원을 기록했다고 지난 28일 밝혔다. 국내 공사액은 297조원으로 전년대비 19조원(-6.0%)",
-    "published_at": "2026-09-14T08:34:05+09:00",
-    "cluster_id": "7e97",
-    "publisher": "대한건설기계신문",
-    "title_clean": "2025년 건설공사액 335조원…전년비 7.9%↓",
-    "summary": "2025년 건설공사액이 335조원으로 전년 대비 7.9% 감소했으며, 국내 공사액은 297조원으로 전년대비 6.0% 하락했다. 건설업계의 공사액 규모가 축소되는 부정적 추세를 보이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T08:48:26+09:00",
-    "importance": 4
   }
 ]
