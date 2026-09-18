@@ -6115,6 +6115,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "태영건설(컨) 남부내륙鐵 7공구 수주 '청신호'…기술점수 1위 - 철도경제신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xSld4X3BoUTItTms4TTJoa1VCMldfVE9TZmk4b1V1eEhsYks2UGFBd2w5U2s5bXFzdkRFeFVKN25PWmVReVpZMDNCQUQ0WDlLUDJDWTU0U1JkVjV0Z2NJSTUtNnp3aHpoZHVZ?oc=5",
+    "description": "태영건설이 4935억 원 규모의 남부내륙철도 7공구 수주 경쟁에서 우위를 점했다. 국가철도공단은 지난 15일부터 17일까지 사흘간 남부내륙철도 1·7·9공구의 기",
+    "published_at": "2026-09-18T11:01:03+09:00",
+    "cluster_id": "022e",
+    "publisher": "철도경제신문",
+    "title_clean": "태영건설(컨) 남부내륙鐵 7공구 수주 '청신호'…기술점수 1위",
+    "summary": "태영건설이 4935억 원 규모의 남부내륙철도 7공구 수주 경쟁에서 기술점수 1위를 기록하며 우위를 점했다. 국가철도공단의 평가 결과로 건설사의 대형 인프라 수주 기회가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T11:10:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22099,20 +22115,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "기업, 실종자 수색 지속...육상팀 100여 명으로 증원 - ytn.co.kr",
-    "link": "https://www.ytn.co.kr/_ln/0102_202609110938216098",
-    "description": "[기자] 네, 두산에너빌리티에서 6명, 한국남동발전에서 3명 등 연락이 끊긴 한국인 9명을 찾기 위한 기업의 네팔 현지수색은 오늘도 이어집니다. 남동발전은 연일 셰르파 등 현지 전문 인력과 계약해 육상 수색 전력을...",
-    "published_at": "2026-09-11T09:38:00+09:00",
-    "cluster_id": "9717",
-    "publisher": "ytn.co.kr",
-    "title_clean": "기업, 실종자 수색 지속...육상팀 100여 명으로 증원",
-    "summary": "네팔에서 실종된 한국인 9명(두산에너빌리티 6명, 한국남동발전 3명)을 찾기 위해 해당 기업들이 현지 수색을 지속 중이다. 남동발전은 셰르파 등 현지 전문 인력을 계약해 육상 수색 전력을 증강하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-11T09:54:19+09:00",
-    "importance": 4
+    "title": "한화 건설부문, 외국인 근로자 맞춤형 안전 교육으로 주목받다 - 공감신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MdG1WSlpWa2JPZGFYUFZkaXQ3RnRpQU9zX0MtaUhEdFR6QTcxcERrYm51TFFWRzlBNE9vMy0wbGNBbkQxdEJYMjMyZkpDUnREX1drVkdXX1VnRFJIbHkwMlNpLXg0WURn?oc=5",
+    "description": "[공감신문] 이혜정 기자=한화 건설부문은 최근 천안아산역의 건설 현장에서 외국인 근로자를 위한 특별한 안전 교육 프로그램을 실시했다고 발표했다. 이번 교육은 근로자들이 안전한 작업 환경을 유지하는 데 필요한 필수 기술을 제공하는 데 중점을 두었다. 참여한 근로자들은 중국, 베트남, 태",
+    "published_at": "2026-09-18T10:58:43+09:00",
+    "cluster_id": "8e25",
+    "publisher": "공감신문",
+    "title_clean": "한화 건설부문, 외국인 근로자 맞춤형 안전 교육으로 주목받다",
+    "summary": "한화 건설부문이 천안아산역 건설 현장에서 외국인 근로자를 대상으로 맞춤형 안전 교육 프로그램을 실시했다. 프로그램은 안전한 작업 환경 유지에 필요한 필수 기술 제공에 중점을 두었으며, 중국, 베트남 등 다국적 근로자들이 참여했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-18T11:10:48+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
@@ -32336,22 +32352,6 @@
     "summary": "HS화성이 추석을 앞두고 협력업체의 공사·자재 대금을 조기 지급하기로 결정했다. 이는 명절 자금 수요 증대에 따른 협력업체의 경영 부담 완화와 건설경기 침체 극복을 위한 상생경영 전략이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-14T12:30:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설현장 중대재해 막는다…호남·제주 노사 '안전 동행' - namdonews.com",
-    "link": "https://www.namdonews.com/news/articleView.html?idxno=923280",
-    "description": "14일 사단법인 호남제주철콘연합회에 따르면 연합회와 민주노총 전국건설노동조합 광주전남건설지부는 최근 전남광주 서구 연합회 회의실에서 '노사공동 안전TF'를 출범하고 본격적인 활동에 들어갔다. 안전TF는 노사...",
-    "published_at": "2026-09-14T11:52:00+09:00",
-    "cluster_id": "b19e",
-    "publisher": "namdonews.com",
-    "title_clean": "건설현장 중대재해 막는다…호남·제주 노사 '안전 동행'",
-    "summary": "호남제주철콘연합회와 민주노총 전국건설노동조합이 노사공동 안전TF를 출범하여 건설현장 중대재해 예방에 나섰다. 노사가 협력하여 안전 문화를 강화하고 현장의 안전 기준을 높이기 위한 활동을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T12:10:46+09:00",
     "importance": 2
   }
 ]
