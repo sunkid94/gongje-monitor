@@ -22149,6 +22149,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대림통상, 日 파나소닉에 수전 2종 신규 수주… - the-stock.kr",
+    "link": "https://www.the-stock.kr/news/articleView.html?idxno=33402",
+    "description": "회사는 이번 신규 수주를 교두보 삼아 일본 시장 내 점유율을 한층 끌어올리고, 국내 건설경기 변동성에 대비한 탄탄한 해외 매출 기반을 다질 계획이다. 대림통상 관계자는 \"깐깐한 일본 시장에서 40년 넘게...",
+    "published_at": "2026-09-18T13:06:00+09:00",
+    "cluster_id": "5146",
+    "publisher": "",
+    "title_clean": "대림통상, 日 파나소닉에 수전 2종 신규 수주… - the-stock.kr",
+    "summary": "대림통상이 일본 파나소닉으로부터 수전 2종에 대한 신규 수주를 획득했다. 회사는 이를 통해 일본 시장 점유율 확대와 해외 매출 기반 강화를 추진할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T13:11:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "DL건설 내포 신도시 아파트 건설현장서 노동자 사망사고 - safetynews.co.kr",
+    "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=250641",
+    "description": "안전 전문가'라며 하정민 대표를 새 대표로 선임한 바 있다. 그는 현장 안전관리직으로 입사해 건설현장 안전관리 업무를 시작, 작년 CSO로도 올렸고 그를 대표로 선임해 안전에 최선을 다한다는 게 이 회사 설명이었다.",
+    "published_at": "2026-09-18T13:02:00+09:00",
+    "cluster_id": "674d",
+    "publisher": "safetynews.co.kr",
+    "title_clean": "DL건설 내포 신도시 아파트 건설현장서 노동자 사망사고",
+    "summary": "DL건설의 내포 신도시 아파트 건설현장에서 노동자 사망사고가 발생했다. 회사는 안전 전문가를 대표로 선임하여 안전관리를 강화하고 있으나, 사고 발생으로 건설업계의 안전 관리 체계에 대한 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-18T13:11:20+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32323,37 +32355,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T14:31:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "HS화성 추석명절 앞두고 협력업체에 280억원 조기 지급 - newsclaim.co.kr",
-    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075283",
-    "description": "건설경기 침체와 원자재 가격, 인건비 부담 등으로 자금 운용에 어려움을 겪는 협력업체들의 유동성을 지원하고, 추석명절을 앞둔 자금 수요에 선제적으로 대응하기 위한 조치입니다. HS화성은 216여개 협력업체를...",
-    "published_at": "2026-09-14T14:20:00+09:00",
-    "cluster_id": "c97c",
-    "publisher": "newsclaim.co.kr",
-    "title_clean": "HS화성 추석명절 앞두고 협력업체에 280억원 조기 지급",
-    "summary": "HS화성이 건설경기 침체로 어려움을 겪는 협력업체 216여개에 280억원을 추석 전 조기 지급하여 유동성을 지원한다. 원자재 가격 상승과 인건비 부담 등 업계 전반의 경제적 어려움을 반영한 조치이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T14:31:11+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설근로자공제회, 추석맞이 전국 12개 현장 방문 4천 명 격려 행사 전개 - globalepic.co.kr",
-    "link": "http://www.globalepic.co.kr/view.php?ud=20260914141457730848439a4874_29",
-    "description": "동시에 지사별로 건설사업주 간담회를 개최하여 지역 건설경기, 인력구성, 안전관리 등 현장의 애로사항과 건의사항을 직접 청취한다. 이러한 방식은 단순한 격려 행사를 넘어 건설 현장의 실제 목소리를 수렴하고 향후...",
-    "published_at": "2026-09-14T14:18:00+09:00",
-    "cluster_id": "5353",
-    "publisher": "globalepic.co.kr",
-    "title_clean": "건설근로자공제회, 추석맞이 전국 12개 현장 방문 4천 명 격려 행사 전개",
-    "summary": "건설근로자공제회가 추석을 맞이해 전국 12개 현장을 방문하여 근로자 4천 명을 격려하고, 동시에 지사별 건설사업주 간담회를 개최하여 현장의 애로사항과 건의사항을 직접 수렴한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T14:31:11+09:00",
-    "importance": 2
   }
 ]
