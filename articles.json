@@ -21965,6 +21965,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "BPA, 추석 앞두고 부산항 여객시설·건설현장 특별 안전점검 - 해사신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZOWplT0xtYm54dHdOSDZsQWlIUVUwMVhGNzRacVNjeEFVbmtwbTJ6Tk5lTGtRSXgwZGw1ZWtUdVZYTG5WdHFGejlnMm53S0VjTUdsSmZTSHhybWYtQmhTZ2dQWUdIQnkxZHJv?oc=5",
+    "description": "감천항·북항 등 다중이용시설 점검…소규모 건설현장 21곳도 살펴부산항만공사(BPA)가 추석 연휴를 앞두고 부산항 여객시설과 친수공간, 건설현장을 대상으로 특별 안전점검을 실시했다.BPA는 지난 11일부터 18일까지 추석 연휴 기간 이용객 증가와 명절 전후 항만 현장의 안전관리 공백에 대비해 부산항 주요 시설에 대한 안전점검을 진행했다고 밝혔다.우선 여객시설과 감천항 서방파제, 북항 감만시민부두 등 시민 이용이 많은 시설을 대상으로 보행로와 통행 장애요인, 안전난간 등 추락방지시설, 화재·익수사고 발생 시 대피로, 인명구조함과 자동제",
+    "published_at": "2026-09-18T08:33:03+09:00",
+    "cluster_id": "3e7b",
+    "publisher": "해사신문",
+    "title_clean": "BPA, 추석 앞두고 부산항 여객시설·건설현장 특별 안전점검",
+    "summary": "부산항만공사(BPA)가 추석 연휴를 앞두고 부산항 여객시설, 친수공간, 건설현장 21곳에 대한 특별 안전점검을 실시했다. 보행로, 안전난간, 대피로 등 안전시설과 응급상황 대응체계를 점검하여 명절 기간 안전관리 공백에 대비했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-18T09:00:04+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "나주시, 추석 앞두고 주요 건설현장 안전점검…중대재해·시민 안전 ‘... - sports.donga.com",
     "link": "https://sports.donga.com/region/article/all/20260918/134693506/1",
     "description": "나주시는 앞으로도 건설현장 안전관리 실태를 지속적으로 점검하고 현장 관계자와 근로자들의 안전의식을 높이는 한편, 중대산업재해를 예방할 수 있는 현장 중심의 관리체계를 이어갈 방침이다. 강상구 나주시 부시장은...",
@@ -32328,21 +32344,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-14T10:36:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'김건희 도이치 무혐의' 이창수 前 지검장, 29일 1심 재판 시작 - news1.kr",
-    "link": "https://www.news1.kr/society/court-prosecution/6289362",
-    "description": "최 전 국장은 감사보고서 발표 3개월 전인 2024년 6월 직권을 남용해 21그램의 비위 중 건설산업기본법 위반 관련 내용을 감사보고서에서 제외하라고 지시한 혐의(직권남용권리행사방해)를 받는다.",
-    "published_at": "2026-09-14T10:19:00+09:00",
-    "cluster_id": "6dae",
-    "publisher": "news1.kr",
-    "title_clean": "'김건희 도이치 무혐의' 이창수 前 지검장, 29일 1심 재판 시작",
-    "summary": "이창수 전 대검찰청 감시팀장이 김건희 도이치 감사에서 건설산업기본법 위반 내용을 제외하도록 지시한 혐의로 1심 재판에 들어간다. 검찰의 직권남용 혐의로 기소되어 29일 첫 공판이 시작될 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T10:34:52+09:00",
-    "importance": 4
   }
 ]
