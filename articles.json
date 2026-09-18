@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, GICC서 해외보증 지원 확대 모색 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488538",
+    "description": "건설공제조합 해외사업 담당자들이 GICC 행사에서 필리핀 기지전환개발청 관계자들과 업무 협의를 하고 있다. 건설공제조합 제공. 해외 인프라 사업에서 금융 지원의 중요성이 커지는 가운데 건설공제조합이 해외...",
+    "published_at": "2026-09-18T16:04:00+09:00",
+    "cluster_id": "f30b",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "건설공제조합, GICC서 해외보증 지원 확대 모색",
+    "summary": "건설공제조합이 GICC 행사에서 해외 인프라 사업 진출을 위해 필리핀 기지전환개발청과 업무 협의를 진행하며 해외보증 지원 확대를 모색하고 있다. 해외 인프라 사업의 금융 지원 역할 강화에 나서는 움직임.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T16:16:24+09:00",
+    "event_label": "건설공제조합 GICC 행사에서 해외보증 지원 확대 추진",
+    "importance": 5
+  },
+  {
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -6198,6 +6215,22 @@
     "collected_at": "2026-08-19T17:12:12+09:00",
     "event_label": "전문건설공제조합 회원사 대상 AI 실무교육 실시",
     "importance": 5
+  },
+  {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발이 다문화 청소년과 베트남 장학생과 함께 보낸 특별... - insight.co.kr",
+    "link": "https://www.insight.co.kr/news/574241",
+    "description": "IPARK현대산업개발이 다문화가정 청소년들과 베트남 유학생들이 한국 전통문화를 함께 체험하며 교류하는 자리를 마련했다.IPARK현대산업개발은 18일 다문화가정 청소년을 대상으로 문화교류 현장학습을 진행했다고...",
+    "published_at": "2026-09-18T16:10:00+09:00",
+    "cluster_id": "c2dd",
+    "publisher": "insight.co.kr",
+    "title_clean": "IPARK현대산업개발이 다문화 청소년과 베트남 장학생과 함께 보낸 특별...",
+    "summary": "IPARK현대산업개발이 다문화가정 청소년과 베트남 유학생을 대상으로 한국 전통문화 체험 교류 현장학습을 개최했다. 기업의 사회공헌 활동으로 문화교류 프로그램을 진행한 사례이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-18T16:16:24+09:00",
+    "importance": 2
   },
   {
     "keyword": "현대산업개발",
@@ -22184,19 +22217,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현대산업개발, 천안 아이파크 시티 3∙4단지 견본주택 오픈 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqaHR4cjF5YXZaZlBBWUJHRTV5REVPUDB4eTdTaDhpMi1GNDllSUk5MVZGWVpQUV9nQkFIU29TVlBuNlR0bWd0OF9iaHMwTzB5SWpHdEkxRGRHQQ?oc=5",
-    "description": "IPARK현대산업개발, 천안 아이파크 시티 3∙4단지 견본주택 오픈, 지하 3층~지상 최고 35층, 15개 동 전용면적 84~116㎡ 총 1,628세대 대단지 공급 스카이라운지, 도서관&middot;스포츠존 분리 커뮤니티, 스마트 IoT 갖춘 총 6,010세대 브랜드시티 완성 1호선 부성역(예정) 도보 3분, 단지를 둘러싼 조경, 예술, 학교 인프라 갖춰 9월 14일 특별공급, 15일 1순위, 16일 2순위 청약&middot;&middot;&middot;22~23일 당첨자 발표, 10월 7일~9일 정당계약",
-    "published_at": "2026-09-11T08:47:35+09:00",
-    "cluster_id": "5883",
-    "publisher": "한국경제",
-    "title_clean": "IPARK현대산업개발, 천안 아이파크 시티 3∙4단지 견본주택 오픈",
-    "summary": "IPARK현대산업개발이 천안 아이파크 시티 3·4단지 견본주택을 개관하며 1,628세대 규모 대단지를 공급한다. 9월 중순부터 청약을 진행하고, 스마트 IoT와 프리미엄 커뮤니티 시설을 갖춘 총 6,010세대 브랜드시티 완성을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-11T15:15:09+09:00",
+    "title": "[기고] \"암호화폐를 둘러싼 전투는 계속되겠지만, 전쟁은 끝났다\" - fortunekorea.co.kr",
+    "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54063",
+    "description": "텍사스의 한 건설 노동자가 임금을 고향으로 보내려 한다고 해보자. 중개기관에 높은 수수료를 내고 며칠을 기다릴 수도 있다. 아니면 수수료가 1센트의 일부에 불과하고 몇 초 만에 도착하는 스테이블코인을 보낼 수도...",
+    "published_at": "2026-09-18T16:06:00+09:00",
+    "cluster_id": "d2fc",
+    "publisher": "fortunekorea.co.kr",
+    "title_clean": "[기고] \"암호화폐를 둘러싼 전투는 계속되겠지만, 전쟁은 끝났다\"",
+    "summary": "암호화폐와 스테이블코인이 국제송금 수단으로 활용되고 있으며, 기존 중개기관의 높은 수수료를 대체할 수 있는 가능성을 제시하고 있다. 암호화폐 관련 규제 논의는 계속되겠지만 기술 도입의 대세는 돌이킬 수 없다는 입장이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-18T16:16:24+09:00",
     "importance": 2
   },
   {
@@ -32325,38 +32358,6 @@
     "summary": "해양수산부가 9월 15일부터 11월 13일까지 항만·해양건설 분야 신기술과 특허를 대상으로 시험시공 지원 기술을 공개 모집한다. 국가가 비용과 공간을 제공해 실적이 없는 신기술의 성능 검증 기회를 부여하는 제도로, 지금까지 30건이 현장 적용되었다.",
     "sentiment": "positive",
     "collected_at": "2026-09-14T15:25:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "인공지능·모듈러로 미래 주거 모색… 2026년 제2차 부산주거포럼 개최 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rU2YtX0tUQmhUYm9ocG5neGh4VTFzOVFjOVN1b3k4d3Z2VXNna2xOMi1NTmNHcElMRl9odWZDbTIzOVFrYTRSQ3huMXBIUGhPOHRydUtsMS1xbExWLUFyUVc5MGdZNHltV01VV0tUbDFVQQ?oc=5",
-    "description": "부산시는 9월 17일 시청 국제회의장에서 (사)한국건축가협회 부산건축가회와 함께 ‘2026년 제2차 부산주거포럼’을 개최할 예정이다.올해 부산주거포럼은 총 3차례",
-    "published_at": "2026-09-14T09:05:20+09:00",
-    "cluster_id": "8ea1",
-    "publisher": "웹이코노미",
-    "title_clean": "인공지능·모듈러로 미래 주거 모색… 2026년 제2차 부산주거포럼 개최",
-    "summary": "부산시가 한국건축가협회 부산건축가회와 함께 2026년 제2차 부산주거포럼을 9월 17일 개최할 예정이다. 포럼에서는 인공지능과 모듈러 기술을 활용한 미래 주거 방식을 모색할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T15:25:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "아이에스동서, 60억원 규모 동반성장 펀드 1년 연장 - koreastocknews.com",
-    "link": "http://www.koreastocknews.com/news/articleView.html?idxno=121211",
-    "description": "IS동서는 건설경기 침체와 금융비용 부담이 이어지는 상황에서 협력기업의 자금 수요에 대응하기 위해 펀드 운영을 연장했다고 설명했다. IS동서 관계자는 \"앞으로도 협력사와 함께 성장할 수 있도록 금융지원뿐...",
-    "published_at": "2026-09-14T15:04:00+09:00",
-    "cluster_id": "dba3",
-    "publisher": "koreastocknews.com",
-    "title_clean": "아이에스동서, 60억원 규모 동반성장 펀드 1년 연장",
-    "summary": "IS동서가 건설경기 침체와 금융비용 부담 속에서 협력기업을 지원하기 위해 60억원 규모의 동반성장 펀드를 1년 연장했다. 협력사의 자금 수요 대응과 함께 성장하기 위한 금융지원 정책이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T15:11:26+09:00",
     "importance": 2
   }
 ]
