@@ -22149,6 +22149,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 100MW급 수전해 플랜트 기술 개발…대규모 그린수소 시장 공... - koreaittimes.com",
+    "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157318",
+    "description": "HMG건설기술연구원은 에너지와 미래주거, 스마트건설, 인프라를 4대 핵심 연구 분야로 정하고 기술 개발을 진행하고 있다. 에너지 분야에서는 수소뿐 아니라 SMR(소형모듈원전), SAF(지속가능항공유), 해상풍력...",
+    "published_at": "2026-09-18T12:32:00+09:00",
+    "cluster_id": "6389",
+    "publisher": "koreaittimes.com",
+    "title_clean": "현대건설, 100MW급 수전해 플랜트 기술 개발…대규모 그린수소 시장 공...",
+    "summary": "현대건설이 100MW급 수전해 플랜트 기술 개발을 통해 그린수소 시장 진출을 추진하고 있습니다. 에너지, 미래주거, 스마트건설, 인프라 4대 분야를 중심으로 기술 개발을 진행 중입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T12:46:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32337,22 +32353,6 @@
     "title_clean": "건설근로자공제회, 추석맞이 전국 12개 현장 방문 4천 명 격려 행사 전개",
     "summary": "건설근로자공제회가 추석을 맞이해 전국 12개 현장을 방문하여 근로자 4천 명을 격려하고, 동시에 지사별 건설사업주 간담회를 개최하여 현장의 애로사항과 건의사항을 직접 수렴한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-14T14:31:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "강남 분양가 또 오른다…분상제 기본형 건축비 4.07%↑ - newsfc.co.kr",
-    "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81133",
-    "description": "지난 7월 철근값 상승으로 0.77% 비정기 인상된 지 두 달 만에 다시 오르는 것으로, 정부의 건설현장 안전투자 강화에 따른 간접공사비 상승이 이번 인상에 반영됐다. 국토교통부는 15일 분양가상한제에 적용되는...",
-    "published_at": "2026-09-14T14:18:00+09:00",
-    "cluster_id": "02ae",
-    "publisher": "newsfc.co.kr",
-    "title_clean": "강남 분양가 또 오른다…분상제 기본형 건축비 4.07%↑",
-    "summary": "분양가상한제 기본형 건축비가 4.07% 인상되며 강남 분양가가 상승할 전망이다. 철근값 상승과 정부의 건설현장 안전투자 강화에 따른 간접공사비 상승이 인상의 주요 원인이다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-14T14:31:11+09:00",
     "importance": 2
   }
