@@ -22149,6 +22149,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천 곳곳서 몸집 키운 '롯데'…지역업체·주민 상생은 '물음표' - incheonnews.com",
+    "link": "http://www.incheonnews.com/news/articleView.html?idxno=440706",
+    "description": "인천시는 건설경기 침체에 대응해 대형 민간공사에도 지역업체 하도급과 인력·자재·장비 참여 확대를 지속적으로 요구하고 있다. 하지만 지역 건설업계에서는 대규모 사업 규모에 비해 실제 인천업체가 체감하는 참여...",
+    "published_at": "2026-09-18T14:24:00+09:00",
+    "cluster_id": "4a76",
+    "publisher": "incheonnews.com",
+    "title_clean": "인천 곳곳서 몸집 키운 '롯데'…지역업체·주민 상생은 '물음표'",
+    "summary": "인천시가 건설경기 침체 대응으로 대형 민간공사에 지역업체 참여 확대를 요구하고 있으나, 실제로는 지역 건설업체의 체감도가 낮은 상황. 대규모 사업 규모에 비해 인천업체의 실질적 참여 기회가 제한되어 있어 상생 효과에 의문 제기.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-18T14:31:23+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 100MW급 수전해 플랜트 설계기술 개발…대규모 그린수소 시장... - thefirstmedia.net",
+    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=209059",
+    "description": "현대건설과 현대엔지니어링의 통합 R&D 조직인 HMG건설기술연구원은 에너지·미래주거·스마트건설·인프라를 4대 핵심 연구 분야로 정하고 수소를 비롯해 SMR, 지속가능항공유(SAF), 해상풍력, 바이오가스 등 미래 에너지...",
+    "published_at": "2026-09-18T14:20:00+09:00",
+    "cluster_id": "e414",
+    "publisher": "thefirstmedia.net",
+    "title_clean": "현대건설, 100MW급 수전해 플랜트 설계기술 개발…대규모 그린수소 시장...",
+    "summary": "현대건설과 현대엔지니어링이 통합 R&D 조직을 통해 100MW급 수전해 플랜트 설계기술을 개발하며 그린수소 시장 진출을 추진 중입니다. 수소, SMR, SAF, 해상풍력 등 미래 에너지 분야를 핵심 연구 분야로 삼아 새로운 수주 기회를 모색하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T14:31:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32323,37 +32355,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T14:46:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "분양가상한제 기본형건축비 4.07% 오른다…㎡당 232만8000원 - viva100.com",
-    "link": "https://www.viva100.com/article/20260914500922",
-    "description": "건설자재와 노무비 변동에 더해 건설현장 안전투자 확대에 따른 간접공사비 상승분이 반영되면서 향후 분양가에도 일부 영향을 미칠 전망이다. 국토교통부는 이 같은 내용을 담은 기본형건축비를 정기 고시한다고...",
-    "published_at": "2026-09-14T14:28:00+09:00",
-    "cluster_id": "f574",
-    "publisher": "viva100.com",
-    "title_clean": "분양가상한제 기본형건축비 4.07% 오른다…㎡당 232만8000원",
-    "summary": "국토교통부가 분양가상한제 기본형건축비를 4.07% 인상하여 ㎡당 232만8000원으로 고시했다. 건설자재·노무비 상승에 더해 건설현장 안전투자 확대로 인한 간접공사비 증가분이 반영되었으며, 이는 향후 분양가 상승으로 이어질 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T14:46:30+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남은행·건설근로자공제회, 찾아가는 금융 지원 캠페인 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260914_0003788631",
-    "description": "경영, 그리고 찾아가는 금융지원 활동을 지속해서 추진하겠다\"고 강조했다. 찾아가는 금융지원 캠페인에 앞서 7월 31일 건설노동자의 금융 접근성 제고와 금융비용 부담 완화를 위해 건설근로자 희망대출을 출시한 바 있다.",
-    "published_at": "2026-09-14T14:39:00+09:00",
-    "cluster_id": "6a3a",
-    "publisher": "newsis.com",
-    "title_clean": "경남은행·건설근로자공제회, 찾아가는 금융 지원 캠페인",
-    "summary": "경남은행과 건설근로자공제회가 건설노동자의 금융 접근성 개선을 위해 찾아가는 금융지원 캠페인을 추진 중이다. 7월 31일 건설근로자 희망대출을 출시하여 금융비용 부담 완화를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T14:46:30+09:00",
-    "importance": 2
   }
 ]
