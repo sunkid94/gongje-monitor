@@ -5962,6 +5962,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[정비사업 디코드] 하이엔드로 가냐 마냐…갈림길 선 신반포 청구아파트 - 스마트투데이",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwSjZRc3EyWlZrOW5iUkhyc1dxZXBfSmNfZ0w5bmlTUmhfdzdUZUxhUUlGRVdHMlAzdHdPSF96RXRIRGZHaG1uQVhDTEJ2UzZ2cFdWa0dIcjJ6b2tBUFRB?oc=5",
+    "description": "|스마트투데이=김종현 기자| 서울 서초 신반포 청구아파트 리모델링 단지 하이엔드 브랜드 오티에르(HAUTERRE) 적용 여부가 이르면 올해 안에 결정될 것으로 보인다. 공사비 등 구체적 사업 방안에 대한 논의는 아직 이뤄지지 않은 것으로 확인됐다.",
+    "published_at": "2026-09-18T09:00:00+09:00",
+    "cluster_id": "1b33",
+    "publisher": "스마트투데이",
+    "title_clean": "[정비사업 디코드] 하이엔드로 가냐 마냐…갈림길 선 신반포 청구아파트",
+    "summary": "서울 서초 신반포 청구아파트 리모델링 사업에서 하이엔드 브랜드 오티에르 적용 여부가 올해 안에 결정될 예정이다. 다만 공사비 등 구체적 사업 방안에 대한 논의는 아직 진행되지 않은 상태다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-18T09:10:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21946,19 +21962,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[9월11일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=446956",
-    "description": "[현장] 삼성중공업도 임단협 파열음, 노측 \"삼성그룹이 직접 교섭에 임해라\" ● 우리금융지주 과점주주 체제 나날이 희석, 임종룡 2기 이사회 '균형잡기' 과제 ● [821조 슈퍼예산⑦] 정부 AI 데이터센터 판 키운다...",
-    "published_at": "2026-09-10T20:54:00+09:00",
-    "cluster_id": "1bd6",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "[9월11일자] 비즈니스포스트 아침의 주요기사",
-    "summary": "삼성중공업 임단협 결렬로 노사 갈등이 심화되고 있으며, 정부의 AI 데이터센터 투자 확대 계획이 추진 중이다. 건설·기계설비 업계는 노사분쟁 리스크와 데이터센터 수주 기회라는 양면적 상황에 직면해 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-10T21:05:10+09:00",
+    "title": "(주)한화 건설부문, 외국인 근로자 맞춤형 안전교육 강화…5개국 모국어 교육 - 미디어파인",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vaDZvTlJJMUNGVEp2VTFGNGJzNE4yci0xbHdyOUNkUnQ1Ylp2ZlZIZndPU2tUU3RFTzVlUzd0U3VsV3F5Wko4VUI2OHp0QWhqRkR5YjhyeDYzQ19kek9nZDVNY0VGRVhzWmVqOURR?oc=5",
+    "description": "-외국인 안전문화 지도사 활용한 국적별 현장 대면교육 확대-응급처치·심폐소생술 교육 정례화로 현장 대응 역량 강화㈜한화 건설부문이 건설현장에서",
+    "published_at": "2026-09-18T08:58:04+09:00",
+    "cluster_id": "cab0",
+    "publisher": "미디어파인",
+    "title_clean": "(주)한화 건설부문, 외국인 근로자 맞춤형 안전교육 강화…5개국 모국어 교육",
+    "summary": "㈜한화 건설부문이 외국인 근로자를 위한 맞춤형 안전교육을 강화하고 있으며, 5개국 모국어 교육과 안전문화 지도사를 활용한 현장 대면교육을 확대하고 있다. 응급처치·심폐소생술 교육을 정례화하여 현장 안전 대응 역량을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-18T09:10:01+09:00",
     "importance": 2
   },
   {
@@ -32328,21 +32344,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T10:39:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설근로자공제회, 추석맞이 찾아가는 근로자 격려 행사 전개 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51798",
-    "description": "건설근로자공제회는 14일 추석을 앞두고 전국 지사 및 센터별로 전자카드 사용률이 우수한 건설 현장을 찾아 '추석맞이 찾아가는 건설노동자 소통 및 격려 행사'를 전개한다고 밝혔다.이번 행사는 오는 9월 15일부터 22일까지 영업일 기준 6일간 전국 12개 건설 현장에서 진행된다. 전국 지사 및 센터가 각각 1개소씩 우수 협력 사업장을 추천하여, 약 4천 명의 건설노동자가 혜택을 받을 예정이다.공제회는 행사 기간 동안 현장에 푸드트럭을 배치해 음료 등 다과를 제공하고, 지사별로 건설사업주 간담회를 열어 지역 건설경기, 인력구성, 안전관",
-    "published_at": "2026-09-14T09:37:35+09:00",
-    "cluster_id": "819e",
-    "publisher": "기계설비신문",
-    "title_clean": "건설근로자공제회, 추석맞이 찾아가는 근로자 격려 행사 전개",
-    "summary": "건설근로자공제회가 추석을 맞아 9월 15~22일 전국 12개 건설현장에서 '찾아가는 근로자 격려 행사'를 개최한다. 푸드트럭 운영, 다과 제공 등을 통해 약 4천 명의 건설노동자를 지원할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T10:36:07+09:00",
-    "importance": 2
   }
 ]
