@@ -22217,6 +22217,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 100MW급 수전해 플랜트 기술개발 주도…그린수소 경쟁력 강화 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=350399",
+    "description": "한편 현대건설과 현대엔지니어링의 통합 연구개발 조직인 HMG건설기술연구원은 에너지·미래주거·스마트건설·인프라를 4대 핵심 연구 분야로 두고 있다. 수소를 비롯해 소형모듈원전(SMR), 지속가능항공유(SAF), 해상풍력...",
+    "published_at": "2026-09-19T08:16:00+09:00",
+    "cluster_id": "95e4",
+    "publisher": "greened.kr",
+    "title_clean": "현대건설, 100MW급 수전해 플랜트 기술개발 주도…그린수소 경쟁력 강화",
+    "summary": "현대건설이 100MW급 수전해 플랜트 기술개발을 주도하며 그린수소 경쟁력을 강화하고 있다. HMG건설기술연구원은 수소, SMR, SAF, 해상풍력 등을 4대 핵심 연구 분야로 설정하여 에너지 및 미래 인프라 구축에 주력하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-19T08:30:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32343,21 +32359,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-14T16:31:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "분양가상한제 기본형건축비 4.07% 인상...분양가 상승 압력 커지나 - m-economynews.com",
-    "link": "https://www.m-economynews.com/news/article.html?no=70716",
-    "description": "이번 인상에는 정부의 건설현장 안전투자 강화 방침에 따른 간접공사비 상승이 크게 반영됐다. 국토부는 지난 4월 조달청이 발표한 ‘2026년 원가계산 간접공사비 적용기준’을 적용했다. 이에 따라 기본형건축비에...",
-    "published_at": "2026-09-14T16:20:00+09:00",
-    "cluster_id": "dd18",
-    "publisher": "",
-    "title_clean": "분양가상한제 기본형건축비 4.07% 인상...분양가 상승 압력 커지나 - m-economynews.com",
-    "summary": "분양가상한제의 기본형건축비가 4.07% 인상되었으며, 정부의 건설현장 안전투자 강화에 따른 간접공사비 상승이 주요 요인이다. 이는 건설사의 원가 부담 증가로 이어져 분양가 상승 압력이 높아질 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T16:31:58+09:00",
-    "importance": 4
   }
 ]
