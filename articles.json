@@ -22149,6 +22149,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대전노동청, 추석 전 '임금체불 사업장' 현장 지도 - chungnamilbo.co.kr",
+    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=910610",
+    "description": "A 기업은 건설경기 둔화에 따른 매출 감소와 생산 축소 등으로 경영상 어려움을 겪으면서 근로자 임금 등 약 3억6700만 원을 체불한 것으로 확인됐다. 사업장 측은 자금융자 등을 활용해 체불임금을 청산하는 방안을...",
+    "published_at": "2026-09-18T12:08:00+09:00",
+    "cluster_id": "a272",
+    "publisher": "chungnamilbo.co.kr",
+    "title_clean": "대전노동청, 추석 전 '임금체불 사업장' 현장 지도",
+    "summary": "대전노동청이 추석 전 임금체불 사업장에 대한 현장 지도를 실시했으며, 건설경기 둔화로 경영난을 겪는 A 기업이 근로자 임금 3억6700만 원을 체불한 것으로 확인됐다. 사업장은 자금융자 등을 통해 체불임금 청산을 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-18T12:31:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32337,22 +32353,6 @@
     "title_clean": "강남 분양가 또 오른다…분상제 기본형 건축비 4.07%↑",
     "summary": "분양가상한제 기본형 건축비가 4.07% 인상되며 강남 분양가가 상승할 전망이다. 철근값 상승과 정부의 건설현장 안전투자 강화에 따른 간접공사비 상승이 인상의 주요 원인이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-14T14:31:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, 연천서 노사합동 가족 페스티벌…임직원·가족 2천여명 참여 - efnews.co.kr",
-    "link": "http://www.efnews.co.kr/news/articleView.html?idxno=132397",
-    "description": "대우건설 노동조합이 지난 6월 전사 규모의 가족행사를 제안했고, 대우건설이 취지에 공감하면서 노사가 공동으로 행사를 준비했다. 노사는 행사 참가자들의 숙박 편의를 위해 한탄강오토캠핑장 전체를 대여해 지난...",
-    "published_at": "2026-09-14T14:16:00+09:00",
-    "cluster_id": "95e8",
-    "publisher": "efnews.co.kr",
-    "title_clean": "대우건설, 연천서 노사합동 가족 페스티벌…임직원·가족 2천여명 참여",
-    "summary": "대우건설이 노동조합과 함께 임직원 및 가족 2천여 명이 참여한 노사합동 가족 페스티벌을 연천에서 개최했다. 행사는 노사 간 협력과 화합을 도모하는 복지 활동으로 진행되었다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-14T14:31:11+09:00",
     "importance": 2
   }
