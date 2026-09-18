@@ -6217,6 +6217,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "K조선 224조 수주잔고…산재 증가·안전 부담 - newsway.co.kr",
+    "link": "https://www.newsway.co.kr/news/view?ud=2026091814574790149",
+    "description": "HD한국조선해양·한화오션·삼성중공업의 올해 2분기 합산 영업이익은 2조7062억원이다. 2분기 말 조선·해양 부문 수주잔액은 1453억9500만달러, 약 224조원에 달했다. 과거 고선가에 수주한 LNG운반선 등이 매출에...",
+    "published_at": "2026-09-19T07:02:00+09:00",
+    "cluster_id": "c38d",
+    "publisher": "newsway.co.kr",
+    "title_clean": "K조선 224조 수주잔고…산재 증가·안전 부담",
+    "summary": "K조선 3사의 2분기 영업이익은 2조7062억원으로 안정적 실적을 유지했으며, 수주잔고는 224조원 규모를 기록했다. 다만 산재 증가와 안전 부담이 업계의 주요 과제로 대두되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-19T07:10:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22199,22 +22215,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-12T08:09:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[주末머니]'160조 원전 잭팟' 열린다…팀코리아 핵심 파트너 부상한 이... - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026091108452552512",
-    "description": "대우건설이 원전과 액화천연가스(LNG) 프로젝트 수주 기대감에 힘입어 실적과 기업가치가 동시에 개선될 것이란 전망이 나왔다. 특히 미국 대형원전 사업에서 '팀코리아' 시공 파트너로서 경쟁력이 재부각되면서...",
-    "published_at": "2026-09-12T08:00:00+09:00",
-    "cluster_id": "f786",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "[주末머니]'160조 원전 잭팟' 열린다…팀코리아 핵심 파트너 부상한 이...",
-    "summary": "대우건설이 원전과 LNG 프로젝트 수주를 기대하며 실적 개선이 전망되고 있다. 미국 대형원전 사업에서 '팀코리아'의 핵심 시공 파트너로 경쟁력이 재부각되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-12T08:09:06+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
