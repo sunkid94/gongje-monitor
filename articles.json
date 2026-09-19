@@ -5844,23 +5844,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "에너지공단, 서울보증보험·엔지니어링공제조합과 ‘지붕 태양광 발전사업’ 활성화 - 주간한국",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9keHpiT3lVREpELWNKMlBfcm5MQkpXT2VDMk5VVjk4Q2tfM3hZVGU4b1dOQVdPdzBFUjlGazBBb2JPTjJuczFHLUhSZERTczh2MGJrOGgyWWZpc0NsOExjNWw3d3U0ZVNHWjhDNFhFWEHSAXRBVV95cUxNY2dvTWdFSEd0eXJMenNQcU5MMUNzdS05N1QzNWtHZW5ZZXdCTnpUSjRySFVqSlM0Y2RsRV9ROTdyd1RDTTlXV2pjM3VUeXpNbURZeERKeXVTX2tDTjBtbE9SWG96MUZmU09BeW42UlpyOGtjNw?oc=5",
-    "description": "[주간한국 강민혜 기자] 한국에너지공단은 서울보증보험, 엔지니어링공제조합과 공단 서울지역본부에서 ‘지붕 태양광 보증보험료등 지원사업 업무협약’을 체결했다고 21일 알렸다.공단은 총 100억 원의 예산을 투입해 한국형 RE100 기업과 전력거래계약(PPA)을 체결한 지붕 태양광 발전사업자의 보험료를 최대 50%까지 지원한다. 지원규모는 전기사용자의 기업규모, 저탄소 모듈 사용 여부, 전력거래계약(PPA) 중개 플랫폼 활용 여부 등에 따라 차등 지급된다.협약에 따라 공단은 ‘지붕 태양광 보증보험료등 지원사업’ 주관기관으로 지원대상 발굴",
-    "published_at": "2026-08-21T01:14:12+09:00",
-    "cluster_id": "b1f5",
-    "publisher": "주간한국",
-    "title_clean": "에너지공단, 서울보증보험·엔지니어링공제조합과 ‘지붕 태양광 발전사업’ 활성화",
-    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 협약을 체결하여 지붕 태양광 발전사업 활성화를 위해 100억 원 규모로 보험료를 최대 50%까지 지원한다. 한국형 RE100 기업과 전력거래계약을 체결한 발전사업자를 대상으로 차등 지원할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-21T05:28:24+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 업무협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21858,6 +21841,22 @@
     "summary": "대우건설이 원전과 LNG 프로젝트 수주 기대감으로 실적과 기업가치 개선이 예상된다. 미국 대형원전 사업 등을 통해 건설업계의 주요 성장 기회가 형성되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-12T13:13:32+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현봉식 각서 쓰고 유도 관두고 건설 노동 “과거 사회 부적응자인줄”... - newsen.com",
+    "link": "https://www.newsen.com/news_view.php?uid=202609192302376110",
+    "description": "PC방 알바부터 시작해 주유소, 택배 화물, 경호, 건설 노동, 안전요원까지 했는데 전 제가 사회 부적응자 인 줄 알았다. 월급날 말고는 모든 날이 싫었다\"고 털어놓았다. 그러다가 친구를 따라서 호텔관광학과까지...",
+    "published_at": "2026-09-20T05:47:00+09:00",
+    "cluster_id": "3806",
+    "publisher": "newsen.com",
+    "title_clean": "현봉식 각서 쓰고 유도 관두고 건설 노동 “과거 사회 부적응자인줄”...",
+    "summary": "건설 노동 등 다양한 일을 경험한 인물이 과거 사회 부적응자라고 느꼈던 경험을 토로하고 있는 개인 이야기입니다. 건설업계의 구조적 문제나 산업 현황과 직결된 뉴스성 정보는 부족합니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-20T05:57:43+09:00",
     "importance": 2
   },
   {
