@@ -5878,6 +5878,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설 인천 공사장, 소음·폐기물 이어 교통안전 논란 - 신문고뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmcDJaU3lFdVhTQ3JHMmh0c0JMZTZnOEF5SE15d3psWENQbWd6V29lY2FucmdVWVQ0bFRpaG45VXJCVm5pNXlV?oc=5",
+    "description": "건설현장 폐기물 이미지 롯데건설이 시공 중인 인천 지역 공사현장을 둘러싸고 소음과 폐기물 관리 문제에 이어 공사 관계 차량의 교통법규 준수",
+    "published_at": "2026-09-19T02:24:00+09:00",
+    "cluster_id": "1819",
+    "publisher": "신문고뉴스",
+    "title_clean": "롯데건설 인천 공사장, 소음·폐기물 이어 교통안전 논란",
+    "summary": "롯데건설의 인천 공사장에서 소음, 폐기물 관리, 교통법규 위반 등 다중 민원이 발생하고 있다. 건설현장의 환경·안전 관리 미흡으로 인한 부정적 이슈가 지속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T00:22:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21859,22 +21875,6 @@
     "summary": "대우건설이 원전과 LNG 프로젝트 수주 기대감으로 실적과 기업가치 개선이 예상된다. 미국 대형원전 사업 등을 통해 건설업계의 주요 성장 기회가 형성되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-12T13:13:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[주末머니]'160조 원전 잭팟' 열린다…팀코리아 핵심 파트너 부상한 이 기업 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4a3h0eHJqcWVSV1plQ08zY2hDdWtNZmY0WmItSXhjRlRLNm9QM1JZQnVyb09xX0FZRlZycmthaXRpRElqb2V3ZWVnMG5BaVU?oc=5",
-    "description": "대우건설(047040)이 원전과 액화천연가스(LNG) 프로젝트 수주 기대감에 힘입어 실적과 기업가치가 동시에 개선될 것이란 전망이 나왔다. 특히 미국 대형원전 사업에서",
-    "published_at": "2026-09-12T08:01:51+09:00",
-    "cluster_id": "8bbc",
-    "publisher": "v.daum.net",
-    "title_clean": "[주末머니]'160조 원전 잭팟' 열린다…팀코리아 핵심 파트너 부상한 이 기업",
-    "summary": "대우건설이 원전과 LNG 프로젝트 수주 기대감으로 실적과 기업가치 개선이 예상된다. 미국 대형원전 사업 참여 등을 통해 건설업계의 대규모 수주 기회가 확대되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-12T12:08:42+09:00",
     "importance": 2
   },
   {
