@@ -5861,23 +5861,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "에너지공단, 서울보증보험·엔지니어링공제조합과 '지붕 태양광 발전사... - weekly.hankooki.com",
-    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7179917",
-    "description": "한국에너지공단 서울지역본부에서 진행된 '지붕 태양광 보증보험료등 지원사업 업무협약식'에서 최재관 한국에너지공단 이사장(가운데)과 이명순 서울보증보험 사장(오른쪽), 이재완 엔지니어링공제조합 이사장이 20일...",
-    "published_at": "2026-08-21T01:16:00+09:00",
-    "cluster_id": "b122",
-    "publisher": "weekly.hankooki.com",
-    "title_clean": "에너지공단, 서울보증보험·엔지니어링공제조합과 '지붕 태양광 발전사...",
-    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 지붕 태양광 발전사업 활성화를 위한 업무협약을 체결했다. 보증보험료 지원을 통해 태양광 사업의 진입 장벽을 낮추고 신재생에너지 확대를 추진하는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-21T01:28:36+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 발전사업 보증보험료 지원 업무협약",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21875,6 +21858,22 @@
     "summary": "대우건설이 원전과 LNG 프로젝트 수주 기대감으로 실적과 기업가치 개선이 예상된다. 미국 대형원전 사업 등을 통해 건설업계의 주요 성장 기회가 형성되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-12T13:13:32+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현봉식 \"생계 위해 치킨집·헬스장·단역 쓰리잡 뛰어\" - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260919_0003796825",
+    "description": "이후 휴학을 하고 아르바이트를 시작한 현봉식은 \"안 해본 게 없다\"며 \"PC방, 주유소, 택배, 경호, 건설 노동, 안전요원 등 여러 일을 했지만 3개월 이상 하지 못했다\"고 말했다. 그러면서 \"배우의 꿈을 발견한 계기는 설치...",
+    "published_at": "2026-09-20T05:05:00+09:00",
+    "cluster_id": "6eaf",
+    "publisher": "newsis.com",
+    "title_clean": "현봉식 \"생계 위해 치킨집·헬스장·단역 쓰리잡 뛰어\"",
+    "summary": "배우 현봉식이 생계를 위해 다양한 아르바이트를 경험한 과정을 다룬 인터뷰 기사입니다. PC방, 주유소, 택배, 경호, 건설 노동 등 여러 일을 했으나 장기간 종사하지 못했다고 밝혔습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-20T05:07:41+09:00",
     "importance": 2
   },
   {
