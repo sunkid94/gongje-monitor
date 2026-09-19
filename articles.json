@@ -22183,6 +22183,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "송도세브란스병원, 20년만에 햇볕본다...금호건설   선정 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50229",
+    "description": "[건설이코노미뉴스] 인천 송도세브란스병원이 첫 삽을 뜬지 20년 만에 본공사의 시공사가 금호건설로 선정됐다.금호건설은 연세대학교 의료원이 발주한 '송도세브란스병원' 신축공사 입찰에서 우선협상대상자로 선정됐다고 18일 밝혔다.이 사업은 송도국제도시 7공구 연세대학교 국제캠퍼스 내에 지하 3층~지상 13층, 연면적 14만5000㎡의 대형 종합병원을 건립하는 프로젝트다. 총공사비는 3910억원이다. 병원은 진료 기능뿐 아니라 바이오 분야 연구 기능을 갖춘 의료·연구 거점으로 조성될 예정이다.금호건설은 그동안 주요 의료시설을 잇달아 시공하",
+    "published_at": "2026-09-19T09:47:03+09:00",
+    "cluster_id": "ac30",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "송도세브란스병원, 20년만에 햇볕본다...금호건설   선정",
+    "summary": "금호건설이 인천 송도세브란스병원 신축공사의 시공사로 선정됐다. 지하 3층~지상 13층, 연면적 14만5000㎡ 규모의 대형 종합병원 건립으로 총공사비는 3910억원이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-19T09:49:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32341,21 +32357,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T16:31:58+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "아이에스동서, IBK기업은행과 상생금융 지속…협력사 금리 감면 3.64% - biztribune.co.kr",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=358927",
-    "description": "건설경기 침체와 고금리 등으로 협력기업의 경영 부담이 이어지는 가운데 금융지원 규모와 금리 감면 혜택을 확대해 협력사들의 안정적인 경영활동을 뒷받침한다는 방침이다. 아이에스동서(IS동서)는 최근 IBK기업은행과...",
-    "published_at": "2026-09-14T16:12:00+09:00",
-    "cluster_id": "f9fa",
-    "publisher": "biztribune.co.kr",
-    "title_clean": "아이에스동서, IBK기업은행과 상생금융 지속…협력사 금리 감면 3.64%",
-    "summary": "아이에스동서가 IBK기업은행과 협력사 지원 프로그램을 확대하여 금리 감면 혜택(3.64%)을 제공한다. 건설경기 침체와 고금리 속에서 협력기업의 경영 부담을 완화하기 위한 상생금융 정책이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T16:31:58+09:00",
-    "importance": 2
   }
 ]
