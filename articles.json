@@ -6150,22 +6150,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 2026년도 지식경영시스템 본격 가동 - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEtmeUxxNkRqYWVUWndxdURoOGExbDlvZmN2TWQ4Z3FCWEhSTzdyR3pXVmdNU3NkQkxObVJoaXVQLW9hZFlmYXpsOHZ2cWFFQndmc2NuZk5pU19STFVvZWV4VkJxSGtwUzl2Z3ZjUUE4WWdWUWRtdU56RmJJNXZYNXpic1lIVHlsZjhrRzlnLWxjVWM0T0RpVGx0MU1mdklOb3JNVVNLRjNlVkRyalV1TkN5Y3JnMzJzVnFtSDV6ekJXWVFC?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEtmeUxxNkRqYWVUWndxdURoOGExbDlvZmN2TWQ4Z3FCWEhSTzdyR3pXVmdNU3NkQkxObVJoaXVQLW9hZFlmYXpsOHZ2cWFFQndmc2NuZk5pU19STFVvZWV4VkJxSGtwUzl2Z3ZjUUE4WWdWUWRtdU56RmJJNXZYNXpic1lIVHlsZjhrRzlnLWxjVWM0T0RpVGx0MU1mdklOb3JNVVNLRjNlVkRyalV1TkN5Y3JnMzJzVnFtSDV6ekJXWVFC?oc=5\" target=\"_blank\">건설공제조합, 2026년도 지식경영시스템 본격 가동</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일건설신문</font>",
-    "cluster_id": "e376",
-    "publisher": "매일건설신문",
-    "title_clean": "건설공제조합, 2026년도 지식경영시스템 본격 가동",
-    "summary": "건설공제조합이 2026년도에 지식경영시스템을 본격적으로 가동할 예정이다. 이는 조직의 디지털 혁신 및 경영 효율화 추진 계획으로 볼 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T15:49:17+09:00",
-    "event_label": "건설공제조합 2026년도 지식경영시스템 본격 가동",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -22163,6 +22147,22 @@
     "summary": "삼성중공업이 AI 기반 로봇 자동화 기술을 조선 생산현장에 도입하여 작업 효율성을 30% 향상시켰다. 데이터 기반 통합관리 시스템과 로봇을 활용한 자동 용접 시스템으로 생산성 개선을 이루고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-12T10:08:53+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "男은 전쟁터, 女는 공장으로…北, 러에 주민 '외화벌이' 파견 - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026091915570019588",
+    "description": "피터 워드 세종연구소 연구위원은 \"김정은의 주요 관심사는 주민들의 생사가 아니라 재정적인 요소\"라며 \"북한이 기존의 남성 건설노동자 중심 파견에서 여성 노동자까지 러시아 공장·물류시설로 보내는 것은 외화...",
+    "published_at": "2026-09-19T16:06:00+09:00",
+    "cluster_id": "135e",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "男은 전쟁터, 女는 공장으로…北, 러에 주민 '외화벌이' 파견",
+    "summary": "북한이 러시아에 남성 건설노동자에 이어 여성 노동자까지 파견하여 외화를 벌이고 있는 상황을 보도한 기사입니다. 북한 정권의 재정 확보 목적과 주민 활용 전략에 관한 국제 정치 뉴스입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-19T16:28:31+09:00",
     "importance": 2
   },
   {
