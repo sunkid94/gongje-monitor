@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, GICC 2026’참가로 해외 수주 지원 사격 - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uT2dsdnFGUWp1bGpCM2VwMndfaHlabDV2WGx0MW5LQ1RfaWRrdklDRGdvUEVWeHNVdmZMYVRRYUNSS2oydUR3ZTRvRWNJOEFweVdRS3NUUUxfcEw4OFcyNHN4NzRnTEQ2RWxhOA?oc=5",
+    "description": "건설공제조합(이하 조합)이 조합원의 해외시장 진출과 수주 경쟁력 제고에 실질적인 도움이 되도록 조력자 역활을 충실히 실행할 것을 약속했다.조합은 지난 15일부터 17일까지 열린 글로벌 인프라 협력 콘퍼런스(GICC) 2026에 참가했다고 18일 밝혔다.조합은 콘퍼런스를 통해 주요 해외 발주처 및 관계기관과 교류하고, 조합원의 해외 프로젝트 수주와 안정적인 사업 수행을 뒷받침하기 위한 보증 지원 방안을 모색했다.GICC는 해외 발주처와 국내 기업 간 네트워크 구축을 통해 인프라 분야 협력을 확대하고, 국내 건설기업의 해외시장 진출을",
+    "published_at": "2026-09-18T15:12:02+09:00",
+    "cluster_id": "dbaf",
+    "publisher": "ER 이코노믹리뷰",
+    "title_clean": "건설공제조합, GICC 2026’참가로 해외 수주 지원 사격",
+    "summary": "건설공제조합이 글로벌 인프라 협력 콘퍼런스(GICC) 2026에 참가하여 해외 발주처와 네트워크를 구축했다. 조합원의 해외 프로젝트 수주 경쟁력 제고와 보증 지원 방안을 모색하며 해외시장 진출을 적극 지원할 것을 약속했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-19T12:09:14+09:00",
+    "event_label": "건설공제조합 GICC 2026 참가로 해외 수주 지원 강화",
+    "importance": 5
+  },
+  {
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -22183,6 +22200,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "17개 공장 중 8곳이 경상도…동양, 가덕도신공항 수혜 기대 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488671",
+    "description": "레미콘 업계는 건설경기와 밀접하게 움직인다. 아파트와 도로, 철도, 항만, 공항 등 대규모 건설사업이 늘어나면 레미콘 수요도 함께 증가한다. 반대로 민간 건설경기가 위축되면 출하량이 감소하면서 실적에도 부담이...",
+    "published_at": "2026-09-19T12:06:00+09:00",
+    "cluster_id": "0364",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "17개 공장 중 8곳이 경상도…동양, 가덕도신공항 수혜 기대",
+    "summary": "레미콘 업계는 건설경기와 밀접한 연관성을 보이며, 대규모 건설사업 증감에 따라 수요가 변동한다. 동양사는 17개 공장 중 8곳을 경상도에 위치시켜 가덕도신공항 건설에 따른 수혜를 기대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-19T12:09:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32325,37 +32358,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-14T16:41:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울 도심 대규모 집회 예고, 건설노조의 원청 협상 진전될까 - gokorea.kr",
-    "link": "https://www.gokorea.kr/news/articleView.html?idxno=878347",
-    "description": "전국건설노동조합은 다음 달 서울 중심부에서 대규모 집회를 계획하며 원청 건설사와의 단체협약 체결을 촉구하고 나섰다. 이들은 서울 중구에서 열린 회견을 통해 22일에 '총력 상경 투쟁'을 진행할 것이라고 밝혔다....",
-    "published_at": "2026-09-14T16:30:00+09:00",
-    "cluster_id": "8074",
-    "publisher": "gokorea.kr",
-    "title_clean": "서울 도심 대규모 집회 예고, 건설노조의 원청 협상 진전될까",
-    "summary": "전국건설노동조합이 다음 달 서울 중심부에서 대규모 집회를 개최하며 원청 건설사와의 단체협약 체결을 촉구하고 있다. 노조의 '총력 상경 투쟁'은 건설업계의 노사 분쟁 심화와 공사 지연 위험을 초래할 수 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T16:41:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[통하는 충남] 충남도, 산업전환 중심에 노동자 일자리·삶 놓는다 - kukinews.com",
-    "link": "https://www.kukinews.com/article/view/kuk202609140198",
-    "description": "화물·건설 노동자의 일감, 그 가족의 생계까지 이어지는 중대 문제”라고 지적했다. 이어 “충남은 산업 전환의 중심에 ‘노동자의 일자리와 삶’을 놓겠다”며 “산업 재편 논의에 노동자의 목소리가 충분히 반영될 수...",
-    "published_at": "2026-09-14T16:30:00+09:00",
-    "cluster_id": "1e27",
-    "publisher": "kukinews.com",
-    "title_clean": "[통하는 충남] 충남도, 산업전환 중심에 노동자 일자리·삶 놓는다",
-    "summary": "충남도가 산업전환 과정에서 화물·건설 노동자의 일자리와 생계를 우선시하겠다고 발표했다. 산업 재편 논의에 노동자의 목소리 반영을 강조하며 노동자 중심의 정책 추진 의지를 드러냈다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T16:41:41+09:00",
-    "importance": 2
   }
 ]
