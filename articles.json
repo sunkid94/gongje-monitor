@@ -5827,23 +5827,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "한국에너지공단, 지붕 태양광 보증보험료 최대 50% 지원… 100억원 투입 - 투어코리아",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ODhWNDBfOW1KLXh5MktFcDd3MmpkdjVGODdLT1ByU1BSdmpqVTJCUGVoYk1ocjJxVFA1R2g4S3RDS0hDdFJxOUdpWHpaTzZ6NFp4bTM1U2xNVk41VTNHaWwwQ0Itc29yUDF6ZUt3?oc=5",
-    "description": "[투어코리아=김교환 기자] 한국에너지공단(이사장 최재관, 이하 '공단')이 서울보증보험(사장 이명순), 엔지니어링공제조합(이사장 이재완)과 손잡고 지붕 태양광 발",
-    "published_at": "2026-08-21T04:09:18+09:00",
-    "cluster_id": "9b28",
-    "publisher": "투어코리아",
-    "title_clean": "한국에너지공단, 지붕 태양광 보증보험료 최대 50% 지원… 100억원 투입",
-    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 협력하여 지붕 태양광 사업의 보증보험료를 최대 50% 지원하는 100억원 규모 사업을 추진한다. 신재생에너지 확대와 태양광 시장 활성화를 위한 정책 지원책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-21T07:38:17+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험 지원사업 협력",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21842,6 +21825,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-12T15:03:16+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "\"추석 코앞인데\"…경기도, 건설현장 대금체불 민원 96건 미해소 - news1.kr",
+    "link": "https://www.news1.kr/local/gyeonggi/6296285",
+    "description": "확인해 건설산업기본법 등 위반 여부를 들여다볼 방침이다. 위반이 확인되면 청문 등 행정절차를 거쳐... 하도급 관련 법 위반을 막기 위한 사전컨설팅도 올해 6개 현장에서 진행했으며, 계약부터 대금 청구·지급, 체불...",
+    "published_at": "2026-09-20T07:42:00+09:00",
+    "cluster_id": "2c59",
+    "publisher": "news1.kr",
+    "title_clean": "\"추석 코앞인데\"…경기도, 건설현장 대금체불 민원 96건 미해소",
+    "summary": "경기도가 추석을 앞두고 건설현장 대금체불 민원 96건에 대해 건설산업기본법 위반 여부를 조사 중이며, 적발 시 행정절차를 진행할 예정이다. 하도급 관련 법 위반 예방을 위한 사전컨설팅도 강화하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T07:47:38+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
