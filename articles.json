@@ -6183,6 +6183,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[내집마련 캘린더] 분당·수원 새집에 철산 '줍줍' 6가구까지 - the-biz.co.kr",
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=728110",
+    "description": "19일 한국부동산원 청약홈에 따르면 포스코이앤씨가 시공하는 경기 성남시 분당구 정자동 '더샵 분당하이스트'는 오는 21일 특별공급을 시작으로 22일 1순위 해당지역, 23일 1순위 기타지역 청약을 진행한다. 2순위...",
+    "published_at": "2026-09-19T11:00:00+09:00",
+    "cluster_id": "fecb",
+    "publisher": "",
+    "title_clean": "[내집마련 캘린더] 분당·수원 새집에 철산 '줍줍' 6가구까지 - the-biz.co.kr",
+    "summary": "포스코이앤씨가 시공하는 분당 '더샵 분당하이스트' 등 경기 지역 신규 아파트들의 청약 일정을 안내하는 기사. 분당과 수원 등지에서 다수의 신규 공급이 예정되어 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-19T11:14:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -22164,22 +22180,6 @@
     "summary": "포스코이앤씨가 시공을 담당한 아크메르 동탄이 독립 브랜드 '아크메르'를 선택했다. 부산 엘시티, 서울 브라이튼 N40 등 고급 주거시설을 완성한 1군 건설사의 신뢰도를 기반으로 프로젝트를 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-12T10:08:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"본격 가을분양 시작\"…경기지역 9월 아파트 분양물량 9751세대 - news1.kr",
-    "link": "https://www.news1.kr/local/gyeonggi/6287836",
-    "description": "포스코이앤씨가 여주시 홍문동 일대 시공하는 84㎡ 규모의 '더샵 여주역더퍼스트' 696세대(지하 2층~지상 29층)도 새 주인을 기다린다. 광명시 소하동 일대 '광명시티프라디움 에듀하임'을 공급하는 시티건설은...",
-    "published_at": "2026-09-12T07:00:00+09:00",
-    "cluster_id": "c041",
-    "publisher": "news1.kr",
-    "title_clean": "\"본격 가을분양 시작\"…경기지역 9월 아파트 분양물량 9751세대",
-    "summary": "경기지역에서 9월 아파트 분양물량이 9,751세대로 본격적인 가을분양 시즌이 시작되었다. 포스코이앤씨의 여주 프로젝트, 시티건설의 광명 프로젝트 등 주요 건설사들의 신규 분양 물건들이 시장에 공급되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-12T09:48:50+09:00",
     "importance": 2
   },
   {
