@@ -6200,6 +6200,22 @@
     "importance": 6
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“수색 서둘러 주세요” 마지막 생존자 구조 후 2주…네팔 실종자 가족... - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013592&cp=nv",
+    "description": "두산에너빌리티 직원 6명과 한국남동발전 직원 3명은 지난달 26일 네팔 라수와 지역 수력발전소 건설 현장에서 홍수와 산사태가 발생한 뒤 연락이 끊겼다. 한국 정부의 수색 지원도 일단 한 차례 마무리됐다. 지난 11일...",
+    "published_at": "2026-09-19T13:33:00+09:00",
+    "cluster_id": "7a5f",
+    "publisher": "kmib.co.kr",
+    "title_clean": "“수색 서둘러 주세요” 마지막 생존자 구조 후 2주…네팔 실종자 가족...",
+    "summary": "네팔 수력발전소 건설 현장에서 홍수와 산사태로 실종된 한국 건설업체 직원 9명 중 마지막 생존자 구조 후 2주가 지났으나 여전히 실종자가 있는 상황. 한국 정부의 수색 지원이 일단 마무리되면서 가족들의 추가 수색 요청이 이어지고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-19T13:39:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -22179,22 +22195,6 @@
     "publisher": "seoulfn.com",
     "title_clean": "[창간24/AI發 K자 성장] 로봇이 짓는 K-조선···'누가 더 빨리 만드나...",
     "summary": "삼성중공업이 AI 기반 로봇 자동화 기술을 조선 생산현장에 도입하여 작업 효율성을 30% 향상시켰다. 데이터 기반 통합관리 시스템과 로봇을 활용한 자동 용접 시스템으로 생산성 개선을 이루고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-12T10:08:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "아크메르 동탄, 독립 브랜드 '아크메르(ACMER)' 택한 이유는? - newsroad.co.kr",
-    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64191",
-    "description": "시공은 부산 해운대 엘시티, 서울 강남구 논현동 브라이튼 N40 등 고급 주거시설을 잇달아 완성해 온 포스코이앤씨가 맡아, 대형 프로젝트를 소화해 온 1군 건설사의 시공 신뢰도를 등에 업었다는 평가다. 사업지는...",
-    "published_at": "2026-09-12T10:00:00+09:00",
-    "cluster_id": "db6d",
-    "publisher": "newsroad.co.kr",
-    "title_clean": "아크메르 동탄, 독립 브랜드 '아크메르(ACMER)' 택한 이유는?",
-    "summary": "포스코이앤씨가 시공을 담당한 아크메르 동탄이 독립 브랜드 '아크메르'를 선택했다. 부산 엘시티, 서울 브라이튼 N40 등 고급 주거시설을 완성한 1군 건설사의 신뢰도를 기반으로 프로젝트를 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-12T10:08:53+09:00",
     "importance": 2
