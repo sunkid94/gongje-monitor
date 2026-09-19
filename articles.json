@@ -5878,23 +5878,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "에너지공단, 지붕태양광 보증보험 지원사업 추진 - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=333433",
-    "description": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 손잡고 지붕 태양광 발전사업자의 금융 부담 완화에 나선다. 공단은 20일 공단 서울지역본부에서 이들 기업과 '지붕 태양광 보증보험료등 지원사업 업무협약(MOU)...",
-    "published_at": "2026-08-20T22:46:00+09:00",
-    "cluster_id": "304e",
-    "publisher": "e2news.com",
-    "title_clean": "에너지공단, 지붕태양광 보증보험 지원사업 추진",
-    "summary": "한국에너지공단이 서울보증보험, 엔지니어링공제조합과 협력하여 지붕 태양광 발전사업자의 보증보험료 지원사업을 추진한다. 이는 태양광 발전사업자의 금융 부담을 완화하기 위한 정책으로, 재생에너지 확대에 따른 시장 성장을 지원하는 것.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-20T22:48:32+09:00",
-    "event_label": "엔지니어링공제조합 지붕태양광 보증보험 지원사업 협약",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21892,6 +21875,22 @@
     "summary": "대우건설이 원전과 LNG 프로젝트 수주 기대감으로 실적과 기업가치 개선이 예상된다. 미국 대형원전 사업 참여 등을 통해 건설업계의 대규모 수주 기회가 확대되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-12T12:08:42+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현봉식, 배우 되려 상경했지만…\"생계 위해 치킨집·헬스장·단역 쓰리... - xportsnews.com",
+    "link": "https://www.xportsnews.com/article/2197586",
+    "description": "PC방과 주유소 아르바이트부터 택배 및 화물, 경호, 건설 노동, 안전요원까지 여러 일을 했지만 \"3개월 이상 일을 하지 못했다\"고 고백했다. 현봉식이 연기에 관심을 갖게 된 계기는 설치 기사로 일하던 시절 찾아왔다....",
+    "published_at": "2026-09-19T22:42:00+09:00",
+    "cluster_id": "3fd2",
+    "publisher": "xportsnews.com",
+    "title_clean": "현봉식, 배우 되려 상경했지만…\"생계 위해 치킨집·헬스장·단역 쓰리...",
+    "summary": "배우 현봉식이 생계를 위해 다양한 일을 경험한 과정을 다룬 기사로, 설치 기사 경력 중 연기에 관심을 갖게 된 계기를 소개하고 있습니다. 건설업계나 기계설비건설공제조합과 직접적인 관련성이 없는 인물 스토리 기사입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-19T22:52:49+09:00",
     "importance": 2
   },
   {
