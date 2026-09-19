@@ -22183,6 +22183,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "새 도시 건설에 기여합니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BTUlIVDNvSWUwNHF2SndjaEhuS0dHQU5wQmVxX1FkZzdDTUsyMmFHUUdBLTIzSUFTcXBIYnpIbnh3TFBBeEo1SFBNNnQ4MkhMZmJQaG1KVFZDZHlneDAzd0trZmdHZ1k?oc=5",
+    "description": "꽝닌시가 새로운 발전 단계로 접어드는 것을 환영하며, 각급 노동조합과 노동자들은 풀뿌리 차원에서 다양한 프로젝트, 과제, 그리고 주도적인 활동을 통해 모범 정신을 구체화하고 있으며, 자신들의 생산성, 품질, 효율성을 통해 도시 건설에 기여하고 있습니다.",
+    "published_at": "2026-09-18T17:33:54+07:00",
+    "cluster_id": "1b20",
+    "publisher": "Vietnam.vn",
+    "title_clean": "새 도시 건설에 기여합니다.",
+    "summary": "꽝닌시의 새로운 발전 단계에서 노동조합과 노동자들이 다양한 건설 프로젝트에 참여하여 도시 건설에 기여하고 있다. 생산성과 효율성 향상을 통해 건설업 활성화를 도모하는 사례 보도이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-19T09:59:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32341,21 +32357,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-14T16:41:41+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설업 회복 더딘 이유…수주와 현장 사이 간극 - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743063",
-    "description": "건설경기 회복 여부를 판단하려면 수주 이후 실제 현장으로 이어지는 과정도 살펴봐야 한다. 착공과 기성이 늘어야 자재·장비 투입과 인력 수요가 발생하고, 이를 통해 건설업의 회복이 관련 산업과 내수로 이어질 수...",
-    "published_at": "2026-09-14T16:19:00+09:00",
-    "cluster_id": "55dc",
-    "publisher": "polinews.co.kr",
-    "title_clean": "건설업 회복 더딘 이유…수주와 현장 사이 간극",
-    "summary": "건설업 수주는 증가하고 있으나 실제 착공과 기성으로 이어지지 않아 건설경기 회복이 지연되고 있다. 수주에서 현장 투입까지의 간극으로 인해 자재·장비·인력 수요 창출이 부진하여 관련 산업과 내수 회복에 영향을 미치는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T16:31:58+09:00",
-    "importance": 4
   }
 ]
