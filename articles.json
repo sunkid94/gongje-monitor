@@ -5623,40 +5623,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "동부산폴리텍, 기계설비건설협회 부산시회와 MOU - metroseoul.co.kr",
-    "link": "http://www.metroseoul.co.kr/article/20260820500612",
-    "description": "사진/한국폴리텍대학 한국폴리텍대학 동부산캠퍼스(이하 동부산폴리텍)가 지난 19일 대한기계설비건설협회 부산시회와 업무 협약을 체결했다고 밝혔다. 이번 협약은 기관 간 유기적 관계를 구축해 우수 기술 인력을...",
-    "published_at": "2026-08-21T09:50:00+09:00",
-    "cluster_id": "c9df",
-    "publisher": "metroseoul.co.kr",
-    "title_clean": "동부산폴리텍, 기계설비건설협회 부산시회와 MOU",
-    "summary": "동부산폴리텍과 대한기계설비건설협회 부산시회가 기술 인력 양성 및 산학협력을 위한 업무 협약을 체결했다. 기관 간 유기적 관계 구축을 통해 기계설비건설 분야의 우수 기술 인력 배출을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-21T09:54:02+09:00",
-    "event_label": "대한기계설비건설협회 부산시회와 동부산폴리텍 업무협약 체결",
-    "importance": 6
-  },
-  {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "엔지니어링공제조합, 지붕태양광 보험·공제료 100억원 지원 - engdaily.com",
-    "link": "http://www.engdaily.com/news/articleView.html?idxno=23148",
-    "description": "좌측부터 이재완 엔지니어링공제조합 이사장, 최재관 한국에너지공단 이사장, 이명순 서울보증보험 사장이 업무협약 체결 후 기념촬영을 하고 있다. 엔지니어링공제조합이 재생에너지 보급 정책에 발맞춰 지붕 태양광...",
-    "published_at": "2026-08-21T09:38:00+09:00",
-    "cluster_id": "dc6b",
-    "publisher": "engdaily.com",
-    "title_clean": "엔지니어링공제조합, 지붕태양광 보험·공제료 100억원 지원",
-    "summary": "엔지니어링공제조합이 한국에너지공단, 서울보증보험과 협력해 지붕 태양광 사업에 100억원의 보험·공제료를 지원하기로 했다. 재생에너지 보급 정책에 맞춰 태양광 산업 활성화를 지원하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-21T09:43:46+09:00",
-    "event_label": "엔지니어링공제조합 지붕태양광 보험·공제료 100억원 지원",
-    "importance": 6
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21654,6 +21620,22 @@
     "summary": "두산에너빌리티 수력발전소에서 실종된 직원 6명을 찾기 위해 주말에도 헬기와 드론을 동원한 수색 작업이 계속되고 있습니다. 수색견 팀 추가 투입 등 구조 활동을 강화 중입니다.",
     "sentiment": "negative",
     "collected_at": "2026-09-12T17:37:55+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "경기도, 추석 앞두고 건설 현장 대금체불 민원 집중관리 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20260920015800060?input=1195m",
+    "description": "또 각종 자료를 확인해 건설산업기본법 등 관련 법령 위반 여부를 검토한다. 도는 위반 사항이 확인되면 행정절차를 통해 영업정지 또는 과징금 등 행정처분을 내릴 방침이다. 건설업체의 불공정행위는 경기도...",
+    "published_at": "2026-09-20T09:54:00+09:00",
+    "cluster_id": "af80",
+    "publisher": "yna.co.kr",
+    "title_clean": "경기도, 추석 앞두고 건설 현장 대금체불 민원 집중관리",
+    "summary": "경기도가 추석 앞두고 건설 현장 대금체불 민원을 집중 관리하며, 건설산업기본법 위반 사항에 대해 영업정지 및 과징금 등 행정처분을 강화한다. 불공정행위에 대한 규제가 확대되는 추세이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T09:57:42+09:00",
     "importance": 4
   },
   {
