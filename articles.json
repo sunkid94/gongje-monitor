@@ -21131,6 +21131,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "경기도, 도내 ‘건설현장 대금체불’ 137건 중 41건 해결 - munhwa.com",
+    "link": "https://www.munhwa.com/article/11618416?ref=naver",
+    "description": "확인해 「건설산업기본법」 등 관련 법령 위반 여부를 검토한다. 위반사항이 확인된 업체에 대해서는 청문... 통해 건설기계 대여대금 체불을 사전에 예방하고 있다. 이밖에도 도 발주 건설공사에 대한 하도급 관련 법...",
+    "published_at": "2026-09-21T07:09:00+09:00",
+    "cluster_id": "7963",
+    "publisher": "munhwa.com",
+    "title_clean": "경기도, 도내 ‘건설현장 대금체불’ 137건 중 41건 해결",
+    "summary": "경기도가 건설현장 대금체불 137건 중 41건을 해결했으며, 관련 법령 위반 업체에 대한 청문 절차를 추진 중입니다. 건설기계 대여대금 체불 예방과 하도급 관련 법 준수를 강화하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-21T07:23:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32278,22 +32294,6 @@
     "publisher": "news.tf.co.kr",
     "title_clean": "한일시멘트, 추석 전 협력사 대금 420억원 조기 지급",
     "summary": "한일시멘트가 건설경기 침체 속에서 협력사 420억원을 추석 전 조기 지급하기로 결정했다. 이는 어려운 경영 환경에서도 상생과 실질적 지원을 통해 협력관계를 유지하려는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T17:02:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "중흥그룹, 추석 앞두고 협력사 700억 조기 지급..올해만 1700억 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2118025",
-    "description": "김해근 중흥건설·중흥토건 총괄 사장은 \"건설경기가 어려울수록 협력사와 함께 성장할 수 있는 환경을 만드는 것이 중흥그룹의 역할이라며 앞으로도 협력사와의 상생경영을 적극 실천하겠다\"고 했다.",
-    "published_at": "2026-09-14T16:46:00+09:00",
-    "cluster_id": "dd64",
-    "publisher": "4th.kr",
-    "title_clean": "중흥그룹, 추석 앞두고 협력사 700억 조기 지급..올해만 1700억",
-    "summary": "중흥그룹이 추석을 앞두고 협력사에 700억 원을 조기 지급했으며, 올해 누적 지급액은 1700억 원에 달한다. 이는 건설경기 악화 속에서 협력사와의 상생경영을 강조하는 경영진의 의지를 보여주는 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-09-14T17:02:33+09:00",
     "importance": 2
