@@ -5147,23 +5147,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "SGI서울보증이 '지붕 태양광발전' 보급 지원 나선다 : 이명순 대표 \"우리... - huffingtonpost.kr",
-    "link": "https://www.huffingtonpost.kr/article/259769",
-    "description": "SGI서울보증은 8월20일 한국에너지공단, 엔지니어링공제조합과 '지붕 태양광 보증보험료 등 지원사업 업무협약'을 체결했다고 21일 밝혔다. 지붕 태양광 보증보험료 등 지원사업은 지붕 임대형 태양광 발전사업자가...",
-    "published_at": "2026-08-21T17:46:00+09:00",
-    "cluster_id": "6a0c",
-    "publisher": "huffingtonpost.kr",
-    "title_clean": "SGI서울보증이 '지붕 태양광발전' 보급 지원 나선다 : 이명순 대표 \"우리...",
-    "summary": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 협약을 맺고 지붕 태양광발전 보증보험료 지원사업을 시작했다. 지붕 임대형 태양광 발전사업자를 대상으로 보증보험료 등을 지원하는 사업이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-21T17:49:08+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21161,6 +21144,22 @@
     "summary": "포스코이앤씨가 분당 한솔마을6, 이수 신동아4차 등 수도권 우량 리모델링 사업 수주를 추진 중이며, 2014년 진출 이래 46개 단지 약 14조 3000억원 실적을 바탕으로 리모델링 시장에서의 입지를 강화하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-13T11:13:02+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "호반건설, '1조 클럽' 입성…창동상아1차 재건축·중화역 정비사업 품었... - srtimes.kr",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=212928",
+    "description": "호반건설은 건설경기 침체기 속에서도 서울·수도권 도시정비 전담 수주 조직을 집중 가동하며 사업성 검토부터 인허가, 시공권 확보에 이르는 전 과정을 체계화했다. 이를 발판 삼아 단순 재개발을 넘어 신탁형...",
+    "published_at": "2026-09-20T17:56:00+09:00",
+    "cluster_id": "4a08",
+    "publisher": "srtimes.kr",
+    "title_clean": "호반건설, '1조 클럽' 입성…창동상아1차 재건축·중화역 정비사업 품었...",
+    "summary": "호반건설이 서울·수도권 도시정비 사업 수주 조직을 강화하여 1조 원대 클럽에 입성했다. 창동상아1차 재건축과 중화역 정비사업 등을 수주하며 건설경기 침체 속에서도 실적을 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-20T17:57:47+09:00",
     "importance": 2
   },
   {
