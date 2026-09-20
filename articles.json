@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비건설공제조합, ‘GICC 2026’ 참가 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609201030517400772",
+    "description": "기계설비건설공제조합(이사장 직무대행 최운구)이 지난 15∼17일 콘래드서울에서 열린 ‘글로벌 인프라 협력 콘퍼런스(GICC) 2026’에 참가(사진)했다고 20일 밝혔다. 조합은 보증기관 상담 부스를 운영하며 우리...",
+    "published_at": "2026-09-20T10:40:00+09:00",
+    "cluster_id": "9ab9",
+    "publisher": "대한경제",
+    "title_clean": "기계설비건설공제조합, ‘GICC 2026’ 참가",
+    "summary": "기계설비건설공제조합이 글로벌 인프라 협력 콘퍼런스(GICC) 2026에 참가하여 보증기관 상담 부스를 운영했다. 조합은 국내 건설업체들의 해외 인프라 사업 진출을 지원하는 활동을 펼쳤다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-20T10:52:42+09:00",
+    "event_label": "기계설비건설공제조합 GICC 2026 참가",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5586,23 +5603,6 @@
     "sentiment": "positive",
     "collected_at": "2026-08-21T10:58:45+09:00",
     "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 협약 체결",
-    "importance": 5
-  },
-  {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "SGI서울보증, 지붕 태양광 활성화 위해 한국에너지공단·엔지니어링공제... - ilyoseoul.co.kr",
-    "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521486",
-    "description": "지난 20일, 서울시 영등포구 한국에너지공단 서울지역본부에서 이명순 SGI서울보증 대표이사(오른쪽), 최재관 한국에너지공단 이사장(가운데), 이재완 엔지니어링공제조합 이사장(왼쪽)이 '지붕 태양광 보증보험료등...",
-    "published_at": "2026-08-21T10:32:00+09:00",
-    "cluster_id": "c2aa",
-    "publisher": "ilyoseoul.co.kr",
-    "title_clean": "SGI서울보증, 지붕 태양광 활성화 위해 한국에너지공단·엔지니어링공제...",
-    "summary": "SGI서울보증, 한국에너지공단, 엔지니어링공제조합이 지붕 태양광 사업 활성화를 위해 협력하기로 합의했다. 보증보험료 지원 등을 통해 재정에너지 확대와 건설시장 기회 창출을 모색한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-21T10:38:40+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험 활성화 협력",
     "importance": 5
   },
   {
@@ -21604,6 +21604,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-12T17:47:55+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "경기도, 추석 앞두고 건설현장 체불 대금 20억 집중 관리 - sidae.com",
+    "link": "https://www.sidae.com/article/2026092010062959052",
+    "description": "경우 건설산업기본법 등 관련 법률 위반 여부를 검토해 영업정지나 과징금 등 엄정한 행정처분을... 아울러 하도급 법 위반 예방을 위해 현장 6곳을 대상으로 사전컨설팅을 진행했으며, '건설공사 임금체불 등 방지...",
+    "published_at": "2026-09-20T10:42:00+09:00",
+    "cluster_id": "4dfd",
+    "publisher": "sidae.com",
+    "title_clean": "경기도, 추석 앞두고 건설현장 체불 대금 20억 집중 관리",
+    "summary": "경기도가 추석 앞두고 건설현장 체불 대금 20억 원에 대한 집중 관리에 나섰다. 건설산업기본법 위반 여부를 검토해 영업정지, 과징금 등 행정처분을 추진하고, 6개 현장을 대상으로 하도급법 위반 예방 사전컨설팅을 실시했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T10:52:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
