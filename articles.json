@@ -5317,23 +5317,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[보험·카드24시] 새마을금고, 집중호우 피해지역에 자원봉사자 키트 전... - news.dealsitetv.com",
-    "link": "https://news.dealsitetv.com/articles/175038",
-    "description": "◆SGI서울보증, 지붕태양광발전 보급 확대 위한 업무협약 체결 SGI서울보증은 한국에너지공단, 엔지니어링공제조합과 '지붕 태양광 보증보험료 등 지원사업 업무협약'을 지난 20일 체결했다고 21일 밝혔다. 이 사업은...",
-    "published_at": "2026-08-21T15:42:00+09:00",
-    "cluster_id": "2309",
-    "publisher": "news.dealsitetv.com",
-    "title_clean": "[보험·카드24시] 새마을금고, 집중호우 피해지역에 자원봉사자 키트 전...",
-    "summary": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 지붕 태양광 발전 보급 확대를 위한 보증보험료 지원사업 업무협약을 체결했다. 신재생에너지 확대 정책에 부응하는 협력 사업이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-21T15:49:10+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 업무협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21332,6 +21315,38 @@
     "sentiment": "positive",
     "collected_at": "2026-09-13T08:37:47+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "전남·광주 통합···노동조합의 고민은? - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41485",
+    "description": "이준상 건설노조 광주전남건설지부 지부장은 반도체 클러스터 건설 과정에서 형성될 대규모 건설노동시장을 매개로 지역 건설 산업 회복을 이끌어야 한다고 주장했다. 이준상 지부장은 용인 반도체 클러스터 내...",
+    "published_at": "2026-09-20T15:55:00+09:00",
+    "cluster_id": "8342",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "전남·광주 통합···노동조합의 고민은?",
+    "summary": "전남·광주 통합에 따른 지역 경제 재편 속에서 건설노조는 반도체 클러스터 건설 프로젝트를 통해 대규모 건설노동시장 형성과 지역 건설산업 회복을 기대하고 있다. 이는 지역 건설업계에 새로운 수주 기회와 시장 확대 가능성을 제시하는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-20T15:57:46+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폭염 지나니 한파 공포… ‘기후 재난’ 표적 된 야외 노동자 생존권 - viva100.com",
+    "link": "https://www.viva100.com/article/20260920500507",
+    "description": "지난해 9월 단풍나무 굴취 작업을 하던 E씨는 체온이 40도 이상 구르는 열사병으로 숨졌고, 올해 6월 체감온도가 38도에 육박하는 폭염경보 속에서 일하던 건설 노동자 F씨는 작업 중 지하 구조물에 기댄 채 숨진 채...",
+    "published_at": "2026-09-20T15:54:00+09:00",
+    "cluster_id": "2690",
+    "publisher": "viva100.com",
+    "title_clean": "폭염 지나니 한파 공포… ‘기후 재난’ 표적 된 야외 노동자 생존권",
+    "summary": "폭염과 한파 등 극단적 기후변화로 인한 야외 노동자의 안전 위협이 심화되고 있다. 열사병 등으로 인한 사망 사고가 발생하면서 건설업계의 노동 환경 개선과 규제 강화 필요성이 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T15:57:46+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
