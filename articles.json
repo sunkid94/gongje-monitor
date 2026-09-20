@@ -5402,23 +5402,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "SGI서울보증, 지붕 태양광 사업자 보증보험료 지원 - viva100.com",
-    "link": "https://www.viva100.com/article/20260821500552",
-    "description": "SGI서울보증은 지난 20일 한국에너지공단 서울지역본부에서 한국에너지공단, 엔지니어링공제조합과 ‘지붕 태양광 보증보험료 등 지원사업 업무협약’을 체결했다고 21일 밝혔다. 이번 사업은 유휴 지붕을 임차해...",
-    "published_at": "2026-08-21T14:26:00+09:00",
-    "cluster_id": "f7aa",
-    "publisher": "viva100.com",
-    "title_clean": "SGI서울보증, 지붕 태양광 사업자 보증보험료 지원",
-    "summary": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 지붕 태양광 사업자를 위한 보증보험료 지원 업무협약을 체결했다. 유휴 지붕을 활용한 태양광 사업 활성화를 위해 보증보험료 등을 지원하는 사업이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-21T14:29:01+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 업무협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21417,6 +21400,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-13T06:27:55+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "경기도, 올해 건설 현장 대금체불 41건 해소 ... 추석 앞두고 집중 점검 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20260920500037",
+    "description": "확인해 「건설산업기본법」 등 관련 법령 위반 여부를 검토할 방침이다. 법령 위반이 확인된 업체에는 청문... 관련 법 위반 예방을 위해 발주부서와 시공사, 감리 등이 참여하는 사전컨설팅을 실시하고 ,올해 6개 현장을...",
+    "published_at": "2026-09-20T14:36:00+09:00",
+    "cluster_id": "c098",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "경기도, 올해 건설 현장 대금체불 41건 해소 ... 추석 앞두고 집중 점검",
+    "summary": "경기도가 올해 건설 현장 대금체불 41건을 해소하고 추석을 앞두고 집중 점검을 실시 중이다. 법령 위반 업체에 대한 청문과 함께 발주부서, 시공사, 감리가 참여하는 사전컨설팅을 통해 예방에 나서고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T14:37:43+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
