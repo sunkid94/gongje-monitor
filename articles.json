@@ -5572,40 +5572,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "SGI서울보증, '지붕 태양광 발전' 사업 보증 지원 - wowtv.co.kr",
-    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608210435&t=NN",
-    "description": "SGI서울보증은 지난 20일 한국에너지공단 및 엔지니어링공제조합과 '지붕 태양광 보증보험료등 지원사업 업무협약'을 체결했다고 21일 밝혔다. 해당 사업은 지붕 임대형 태양광 발전사업자가 납부한 보증보험료의...",
-    "published_at": "2026-08-21T10:55:00+09:00",
-    "cluster_id": "52f4",
-    "publisher": "wowtv.co.kr",
-    "title_clean": "SGI서울보증, '지붕 태양광 발전' 사업 보증 지원",
-    "summary": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 협력하여 지붕 태양광 발전사업자의 보증보험료 지원사업을 추진한다. 신재생에너지 사업 확대를 위한 금융 지원 체계를 구축하는 내용이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-21T11:03:51+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 협약",
-    "importance": 6
-  },
-  {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "SGI서울보증, 태양광 사업자 보증료 부담 낮춘다…에너지공단과 '맞손' - newsworks.co.kr",
-    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851104",
-    "description": "21일 SGI서울보증은 전날 한국에너지공단, 엔지니어링공제조합과 '지붕 태양광 보증보험료 등 지원사업 업무협약'을 체결했다고 밝혔다. 지붕 태양광 보증보험료 등 지원사업은 지붕 임대형 태양광 발전사업자가 납부한...",
-    "published_at": "2026-08-21T10:52:00+09:00",
-    "cluster_id": "2f5e",
-    "publisher": "newsworks.co.kr",
-    "title_clean": "SGI서울보증, 태양광 사업자 보증료 부담 낮춘다…에너지공단과 '맞손'",
-    "summary": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 협약을 체결하여 지붕 태양광 사업자의 보증보험료 부담을 낮추는 지원사업을 추진한다. 태양광 발전사업자들의 초기 진입장벽을 완화하는 호재 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-21T10:58:45+09:00",
-    "event_label": "엔지니어링공제조합 지붕 태양광 보증보험료 지원사업 협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21603,6 +21569,22 @@
     "summary": "삼성전자 동행노조가 삼성중공업 노동자들의 노동권 요구를 지지하며 현장을 방문했다. 노조는 18일 이재용 회장 자택 앞에서 집회를 계획 중이며, 경영진의 노동자 목소리 수렴을 요구하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-12T17:47:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "㈜하임건설, 양주 덕계동 944 오피스텔 현장서 안전기원제 연다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGZEMG44WlF3RWFaVUptZXBZaEJaZWtrQU8xTXpfbnNYdlBzNUl3dW5BN2dzdjJOQTh2OG1zcFpzeEZPR3B0MVdyZm5Uenp1di1icW5sLWxGcXdkWE9QYXNEQ3o5bktnenQ3cVBWd2JWYzdZNDAzWWlia21tWkE0d1Q3bWR4ZkNlcndB?oc=5",
+    "description": "㈜하임건설(대표이사 최길웅)이 오는 30일 오전 11시 경기도 양주시 덕계동 944번지 오피스텔 신축공사 현장에서 무사고 안전 완공과 공사 관계자들의 안녕을 기원하는 안전기원제를 개최한다고 19일 밝혔다.이날 행사에는 하임건설 관계자와 현장 관계자를 비롯해 바론교육·K-ESG 기준평가원",
+    "published_at": "2026-09-20T10:55:59+09:00",
+    "cluster_id": "4e08",
+    "publisher": "글로벌이코노믹",
+    "title_clean": "㈜하임건설, 양주 덕계동 944 오피스텔 현장서 안전기원제 연다",
+    "summary": "㈜하임건설이 경기도 양주시 덕계동의 오피스텔 신축공사 현장에서 안전기원제를 개최한다. 무사고 안전 완공과 공사 관계자들의 안녕을 기원하는 행사로, 건설사와 현장 관계자들이 참석할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-20T11:07:45+09:00",
     "importance": 2
   },
   {
