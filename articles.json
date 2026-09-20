@@ -5419,21 +5419,20 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "SGI서울보증, 지붕 태양광 사업자 보증보험료 지원으로 친환경 행보 지속 - 일요주간",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82UlNSdy16ajRkNmwzNGNGQWlJVkNBYTZlWm9GbE84ZUZuOENSWFFtSTJRa3UyckhpX2ZxUTZJdUNoMUxGWDg1b0M1X0M3aWVHblRYZGJGY0o3VzVRNU0yQ2RZZUhjUGcyVkZhRklyNlBrM2c?oc=5",
-    "description": "SGI서울보증, 지붕태양광발전 보급 확대 위해 한국에너지공단,엔지니어링공제조합과 맞손",
-    "published_at": "2026-08-21T10:18:42+09:00",
-    "cluster_id": "9ad8",
-    "publisher": "일요주간",
-    "title_clean": "SGI서울보증, 지붕 태양광 사업자 보증보험료 지원으로 친환경 행보 지속",
-    "summary": "SGI서울보증이 한국에너지공단, 엔지니어링공제조합과 협력하여 지붕태양광발전 사업자의 보증보험료를 지원하는 사업을 추진 중이다. 이는 태양광 보급 확대와 친환경 에너지 전환을 위한 금융 지원 정책이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-21T14:03:42+09:00",
-    "event_label": "엔지니어링공제조합 태양광발전 보증보험료 지원사업 추진",
-    "importance": 5
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "충남 당진 푸르지오 3차 입주민,투기 잔재 딛고 거리로 나서 분양홍보 ... - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1100805",
+    "description": "결국 이 여파는 정상적으로 입주를 마친 선량한 조합원들에게 돌아왔으며 미납된 공사대금과 연체이자가 쌓이면서 시공사인 대우건설 측의 채권 추심과 가압류 등 법적 조치가 가시화됐다. 특히 투기꾼들이 남긴 상처는...",
+    "published_at": "2026-09-20T14:04:00+09:00",
+    "cluster_id": "a2b3",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "충남 당진 푸르지오 3차 입주민,투기 잔재 딛고 거리로 나서 분양홍보 ...",
+    "summary": "충남 당진 푸르지오 3차에서 투기꾼들의 미납 공사대금과 연체이자로 인해 정상 입주민과 시공사인 대우건설이 피해를 입고 있다. 투기 잔재로 인한 채권 추심과 법적 조치가 진행 중이며, 건설업 신뢰도 하락을 초래하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T14:07:47+09:00",
+    "importance": 4
   },
   {
     "keyword": "대우건설",
@@ -21418,22 +21417,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-13T06:27:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "네팔 긴급구조대 2진 현지 합류… 현지 당국과 협의 - newscj.com",
-    "link": "https://www.newscj.com/news/articleView.html?idxno=3432149",
-    "description": "두산에너빌리티도 실종자 찾기를 위한 자체 수색을 이어가고 있다. 두산에너빌리티는 지난 11일 헬기 2대와 드론 8대를 투입해 수력발전소 메인 캠프와 하류 방면을 중심으로 현장을 확인했으나 현재까지 실종자의...",
-    "published_at": "2026-09-12T21:52:00+09:00",
-    "cluster_id": "7c43",
-    "publisher": "newscj.com",
-    "title_clean": "네팔 긴급구조대 2진 현지 합류… 현지 당국과 협의",
-    "summary": "네팔 수력발전소 사건으로 두산에너빌리티가 실종자 수색을 위해 헬기, 드론 등을 투입해 자체 수색을 진행 중입니다. 긴급구조대 2진이 현지에 합류하여 당국과 협의하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-12T21:57:49+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
