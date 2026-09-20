@@ -21436,6 +21436,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "임금체불 20억 규모…경기도, 추석 앞두고 집중 점검 - kihoilbo.co.kr",
+    "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035299",
+    "description": "확인해 건설산업기본법 등 위반 여부를 들여다볼 방침이다. 위반사항이 확인된 업체는 청문 등 행정절차를... 합동점검으로 건설기계 대여대금 체불을 사전 예방한다. 아울러 하도급 관련 법 위반 예방을 위해...",
+    "published_at": "2026-09-20T13:14:00+09:00",
+    "cluster_id": "1a55",
+    "publisher": "kihoilbo.co.kr",
+    "title_clean": "임금체불 20억 규모…경기도, 추석 앞두고 집중 점검",
+    "summary": "경기도가 추석을 앞두고 임금체불 20억 규모에 대한 집중 점검을 실시한다. 건설산업기본법 위반 업체에 대해 행정절차를 진행하고, 건설기계 대여대금 체불 예방 및 하도급 관련 법 위반을 적극 단속할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-20T13:27:48+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "현금순유출 심한 건설사 대우건설, 롯데건설, 포스코이앤씨 순 - newsfc.co.kr",
+    "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81271",
+    "description": "나신평은 2022년 레고랜드 사태를 기점으로 한 PF유동성 경색은 2024년 이후 전체 규모가 감소추세로 전환되면서 건설사 PF우발채무 중 PF관련 위험도가 큰 브릿지론의 비중이 현재는 50% 미만으로 축소되었다고...",
+    "published_at": "2026-09-20T13:18:00+09:00",
+    "cluster_id": "9a45",
+    "publisher": "newsfc.co.kr",
+    "title_clean": "현금순유출 심한 건설사 대우건설, 롯데건설, 포스코이앤씨 순",
+    "summary": "2022년 레고랜드 사태 이후 경색되었던 PF유동성이 2024년 이후 개선 추세를 보이고 있으며, PF관련 위험도가 큰 브릿지론 비중이 50% 미만으로 축소되었다. 다만 대우건설, 롯데건설, 포스코이앤씨 등 일부 건설사의 현금순유출이 심한 상황이 지속되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-20T13:27:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
