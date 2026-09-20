@@ -5097,6 +5097,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "카자흐에 ‘서울 1.4배’ 스마트시티…‘고려인 정주영’의 20년 꿈 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25463508",
+    "description": "현대차그룹·한국전력·두산에너빌리티·롯데호텔리조트·한국공항공사 등도 알라타우 개발 사업 진출을 추진 중이다. 카이스트는 알라타우에 교육·연구 거점을 조성하는 방안을 검토하고 있다. 복싱 선수 출신으로...",
+    "published_at": "2026-09-21T05:00:00+09:00",
+    "cluster_id": "547e",
+    "publisher": "joongang.co.kr",
+    "title_clean": "카자흐에 ‘서울 1.4배’ 스마트시티…‘고려인 정주영’의 20년 꿈",
+    "summary": "현대차그룹, 한국전력, 두산에너빌리티, 롯데호텔리조트, 한국공항공사 등 국내 주요 기업들이 카자흐스탄의 알라타우 스마트시티 개발 사업에 진출을 추진 중이다. 카이스트도 교육·연구 거점 조성을 검토하는 등 대규모 국책 프로젝트가 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-21T05:08:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21081,20 +21097,20 @@
     "importance": 3
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "'K-원전 기술과 철강의 만남'…한전기술-포스코이앤씨, 미래 원자력 시... - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260913165506459",
-    "description": "원전 종합설계 독보적 기술력(한전기술)과 대형 원전·시공 역량(포스코이앤씨) 결합 아주경제=여종구 기자 yjkhero@ajunews.com 김태균 한전기술 사장(사진 왼쪽)과 송치영 포스코이앤씨 사장(사진 오른쪽)이 업무협약을...",
-    "published_at": "2026-09-13T17:04:00+09:00",
-    "cluster_id": "5fa7",
-    "publisher": "ajunews.com",
-    "title_clean": "'K-원전 기술과 철강의 만남'…한전기술-포스코이앤씨, 미래 원자력 시...",
-    "summary": "한전기술과 포스코이앤씨가 원전 종합설계 기술과 대형 원전 시공 역량을 결합하여 미래 원자력 사업 협력을 추진한다. 국내 원전 기술력과 시공 능력의 결합으로 원전 산업 경쟁력 강화를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-13T17:08:02+09:00",
-    "importance": 2
+    "title": "[건설분쟁 해결 사례] (24) 이면계약의 유효성 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51907",
+    "description": "B업체는 법 위반사항을 피하고자 위 이면계약과는 달리 발주처 제출용으로 원도급금액의 90%로 된 전자... B업체는 이처럼 하도급법 제3조, 제4조 및 건설산업기본법 제31조에 위반돼 그 법률들에 의해 처벌을 받는 것과는...",
+    "published_at": "2026-09-21T05:06:00+09:00",
+    "cluster_id": "3334",
+    "publisher": "기계설비신문",
+    "title_clean": "[건설분쟁 해결 사례] (24) 이면계약의 유효성",
+    "summary": "B업체가 하도급법 및 건설산업기본법 위반으로 이면계약을 체결한 사건 분석. 발주처 제출용으로 도급금액을 축소 기재하여 법적 규제를 회피하려던 부정행위가 적발됨.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-21T05:08:05+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
