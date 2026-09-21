@@ -5267,6 +5267,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설소식] 삼성물산 건설부문·대우건설·호반그룹·현대건설·GS건설·... - sports.hankooki.com",
+    "link": "https://sports.hankooki.com/news/articleView.html?idxno=6940109",
+    "description": "IPARK현대산업개발은 지난 18일 추석 연휴를 앞두고 인천 시티오씨엘 8단지 현장에서 경영진 현장점검을 진행했다. (왼쪽 두 번째부터) 강민석 건축본부장, 정경구 IPARK현대산업개발 대표이사, 양승철 CSO, 양영모...",
+    "published_at": "2026-09-21T21:24:00+09:00",
+    "cluster_id": "0c0e",
+    "publisher": "sports.hankooki.com",
+    "title_clean": "[건설소식] 삼성물산 건설부문·대우건설·호반그룹·현대건설·GS건설·...",
+    "summary": "IPARK현대산업개발이 인천 시티오씨엘 8단지 현장에서 추석 연휴를 앞두고 경영진 현장점검을 실시했다. 건설사의 정상적인 현장 관리 활동으로 보이는 사항이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-21T23:35:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21249,22 +21265,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-14T15:51:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "사라지는 건설사 간판…'누가 지었나' 보다 '어디 사나' - inews24.com",
-    "link": "http://www.inews24.com/view/2005380",
-    "description": "롯데건설이 지은 '나인원한남'을 비롯해 현대건설의 'PH129', '에테르노 청담', 용산구 '더파크사이드 서울' 등이 대표적이다. 입지와 상품성이 뛰어난 현장일수록 건설사 브랜드 후광 대신 단지 자체 정체성과 희소성을...",
-    "published_at": "2026-09-14T15:45:00+09:00",
-    "cluster_id": "2af2",
-    "publisher": "inews24.com",
-    "title_clean": "사라지는 건설사 간판…'누가 지었나' 보다 '어디 사나'",
-    "summary": "건설사의 브랜드 영향력이 약화되고 있으며, 나인원한남, PH129 등 고급 아파트에서 건설사 간판보다 단지 자체의 입지와 희소성이 더 중요한 판매 요소로 작용하고 있다. 이는 건설업계의 마케팅 패러다임이 회사 브랜드 중심에서 개별 프로젝트 특성 중심으로 변화하고 있음을 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T15:51:49+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
