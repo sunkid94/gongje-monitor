@@ -5284,6 +5284,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[단독] 신동빈 10년 공들인 베트남 ‘투티엠 프로젝트’ 10월에 첫 삽 뜬... - theguru.co.kr",
+    "link": "https://www.theguru.co.kr/news/article.html?no=107396",
+    "description": "사업 지분은 롯데쇼핑이 30.59%를 갖고 있고 이어 호텔롯데 22.94%, 롯데건설 11.47% 그리고 팟닷 35% 순이다. 롯데그룹은 지난 2017년 호찌민 인민위원회와 프로젝트 수행 계약을 정식 체결했다. 이어 2022년 9월 공식...",
+    "published_at": "2026-09-22T07:46:00+09:00",
+    "cluster_id": "7592",
+    "publisher": "theguru.co.kr",
+    "title_clean": "[단독] 신동빈 10년 공들인 베트남 ‘투티엠 프로젝트’ 10월에 첫 삽 뜬...",
+    "summary": "신동빈 회장이 10년간 추진해온 베트남 호찌민 '투티엠 프로젝트'가 10월 착공된다. 롯데쇼핑(30.59%), 호텔롯데(22.94%), 롯데건설(11.47%) 등 롯데그룹이 주도적으로 참여하는 대규모 개발 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T08:00:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21268,20 +21284,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "삼성중공업, 대형 LNG운반선 수주 '속도'…올해 18척 - todayenergy.kr",
-    "link": "https://www.todayenergy.kr/news/articleView.html?idxno=303040",
-    "description": "삼성중공업이 20만㎥급 대형 LNG운반선 4척을 포함해 총 12억달러 규모의 선박 6척을 수주하며 LNG선 수주에 속도를 내고 있다. 삼성중공업은 오세아니아 지역 선주와 대형 LNG운반선 4척을 10억달러에, 원유 운반선...",
-    "published_at": "2026-09-14T16:14:00+09:00",
-    "cluster_id": "75ed",
-    "publisher": "todayenergy.kr",
-    "title_clean": "삼성중공업, 대형 LNG운반선 수주 '속도'…올해 18척",
-    "summary": "삼성중공업이 오세아니아 지역 선주로부터 20만㎥급 대형 LNG운반선 4척을 포함해 총 6척의 선박을 12억달러 규모로 수주했다. 올해 LNG선 수주 목표 18척 달성을 위해 수주 확대 추세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T16:31:58+09:00",
-    "importance": 2
+    "title": "제물포구 철강산업 ‘휘청’...인천시, 제물포구 ‘산업위기 선제대응지... - ic.newdaily.co.kr",
+    "link": "https://ic.newdaily.co.kr/site/data/html/2026/09/22/2026092200014.html",
+    "description": "하지만 최근 장기화된 건설경기 침체, 중국산 저가 철강재 유입, 미국의 철강 관세 강화, 산업용 전기요금 상승 등 대내외 악재로 큰 어려움을 겪고 있다. 현대제철은 지난 1월 전기로 제강공장과 소형 압연공장을 영구...",
+    "published_at": "2026-09-22T07:48:00+09:00",
+    "cluster_id": "8bb2",
+    "publisher": "ic.newdaily.co.kr",
+    "title_clean": "제물포구 철강산업 ‘휘청’...인천시, 제물포구 ‘산업위기 선제대응지...",
+    "summary": "인천시 제물포구 철강산업이 건설경기 침체, 중국산 저가 철강재 유입, 미국 철강 관세 강화, 산업용 전기요금 상승 등 복합적 악재로 어려움을 겪고 있다. 현대제철이 일부 공장을 영구 폐쇄하는 등 산업위기가 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T08:00:32+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32290,21 +32306,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-15T17:07:03+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[경제 브리핑] 8월 수입물가 2.4%↓ - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51813",
-    "description": "한국은행이 15일 발표한 '2026년 8월 수출입물가지수 및 무역지수'에 따르면 수입물가지수는 전월 대비 2.4% 하락했다. 자본재는 4.2%, 소비재는 4.4% 각각 내렸고 원재료는 원유 등 광산품을 중심으로 1.5% 상승했다. 수입물가는 전년 동월 대비로는 15.6% 상승했다.",
-    "published_at": "2026-09-15T09:02:55+09:00",
-    "cluster_id": "94e5",
-    "publisher": "기계설비신문",
-    "title_clean": "[경제 브리핑] 8월 수입물가 2.4%↓",
-    "summary": "한국은행이 발표한 8월 수입물가지수는 전월 대비 2.4% 하락했으며, 특히 자본재와 소비재가 각각 4.2%, 4.4% 내렸다. 다만 전년 동월 대비로는 15.6% 상승해 장기적으로는 여전히 높은 수준을 유지하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-15T17:07:03+09:00",
-    "importance": 2
   }
 ]
