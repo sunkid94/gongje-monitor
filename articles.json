@@ -5284,6 +5284,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "집단대출 4% 시대…시공사 보증 추가 이주비대출 금리 5% 이상 취급 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609211343111290950",
+    "description": "노량진3구역 재개발 사업의 시공사는 포스코이앤씨다. 포스코이앤씨는 시공사 보증의 추가 이주비대출을 연 5%대의 금리로 제공키로 했다. 포스코이앤씨의 신용등급이 A+(부정적)인 가운데 최근 발행한 신종자본증권...",
+    "published_at": "2026-09-22T06:40:00+09:00",
+    "cluster_id": "926d",
+    "publisher": "대한경제",
+    "title_clean": "집단대출 4% 시대…시공사 보증 추가 이주비대출 금리 5% 이상 취급",
+    "summary": "노량진3구역 재개발 사업의 시공사 포스코이앤씨가 시공사 보증 추가 이주비대출을 연 5%대 금리로 제공하기로 했다. 신용등급 하락(A+ 부정적)에 따라 대출 금리가 일반 집단대출 4% 시대보다 높게 책정된 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T06:50:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21268,19 +21284,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "제일·대우·태영건설 하자 1∼3위…시공 30위 건설사 '아파트 하자' 심... - financialpost.co.kr",
-    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275446",
-    "description": "대우건설(87건), 태영건설(85건)이 뒤를 이었다. 시평 상위 10대 대형 건설사만 놓고 보면 △현대건설(59건) △현대엔지니어링(48건) △SK에코플랜트(32건) △GS건설(31건) △포스코이앤씨(28건) △롯데건설...",
-    "published_at": "2026-09-14T16:18:00+09:00",
-    "cluster_id": "524b",
-    "publisher": "financialpost.co.kr",
-    "title_clean": "제일·대우·태영건설 하자 1∼3위…시공 30위 건설사 '아파트 하자' 심...",
-    "summary": "시공능력평가 상위 30위 건설사의 아파트 하자 적발 현황을 분석한 결과, 제일건설이 1위, 대우건설과 태영건설이 뒤를 잇고 있다. 상위 10대 대형 건설사도 28∼59건의 하자가 보고되어 건설 품질 관리의 심각성이 드러났다.",
+    "title": "이 대통령 출국 전 \"임금체불 제로\" 당부 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236898",
+    "description": "그러면서 내년 시행을 앞둔 건설산업기본법 개정안을 언급했다. 해당 개정안은 공공 건설공사에만... 민간 건설공사까지 확대 적용돼 체불 방지를 강화하는 내용을 담고 있다. 이 대통령은 \"관계기관으로 하여금 법...",
+    "published_at": "2026-09-22T06:34:00+09:00",
+    "cluster_id": "3ae5",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "이 대통령 출국 전 \"임금체불 제로\" 당부",
+    "summary": "대통령이 출국 전 임금체불 제로를 당부하며 내년 시행 예정인 건설산업기본법 개정안을 강조했다. 해당 개정안은 공공 건설공사뿐 아니라 민간 건설공사까지 확대 적용되어 체불 방지를 강화하는 내용을 담고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-09-14T16:31:58+09:00",
+    "collected_at": "2026-09-22T06:50:25+09:00",
     "importance": 4
   },
   {
@@ -32290,21 +32306,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-15T16:15:53+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "허영 의원, 건설현장 벌점 사유 절반 이상이 '품질관리 소홀' - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2072733",
-    "description": "허 의원이 이날 국토교통부 건설산업지식정보시스템 (KISCON) 공개 벌점자료를 분석한 결과, 2024년 하반기부터 2026년 상반기까지 515개 건설업체에 총 653건의 벌점이 부과됐으며, 이 가운데 349건(53.4%)이 품질관리...",
-    "published_at": "2026-09-15T15:47:00+09:00",
-    "cluster_id": "b213",
-    "publisher": "kado.net",
-    "title_clean": "허영 의원, 건설현장 벌점 사유 절반 이상이 '품질관리 소홀'",
-    "summary": "허영 의원이 건설현장 벌점 자료를 분석한 결과, 2024년 하반기부터 2026년 상반기까지 515개 업체에 653건의 벌점이 부과됐으며, 이 중 349건(53.4%)이 품질관리 소홀로 적발됐다. 건설현장의 품질관리 문제가 심각한 수준임을 드러낸 통계다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T16:05:58+09:00",
-    "importance": 4
   }
 ]
