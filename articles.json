@@ -5284,6 +5284,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘의 신문] 추석 선물값 66%↑·귀성길 사고 1.4배…美 금리·AI 투자... - kor.theasian.asia",
+    "link": "http://kor.theasian.asia/archives/416197",
+    "description": "토요타와 테슬라, 벤츠, BMW 등 글로벌 완성차업체들도 제조현장과 휴머노이드 로봇을 결합하며 피지컬 AI 경쟁에 속도를 내고 있다.한미 에너지 인프라 확대, 두산에너빌리티 수주 기대한국과 미국에서 LNG와 원전...",
+    "published_at": "2026-09-22T08:02:00+09:00",
+    "cluster_id": "b716",
+    "publisher": "kor.theasian.asia",
+    "title_clean": "[오늘의 신문] 추석 선물값 66%↑·귀성길 사고 1.4배…美 금리·AI 투자...",
+    "summary": "토요타, 테슬라 등 글로벌 완성차업체들이 휴머노이드 로봇을 제조현장에 도입하며 피지컬 AI 경쟁을 가속화하고 있다. 한미 LNG·원전 에너지 인프라 확대로 두산에너빌리티 등 국내 기업의 수주 기회가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T08:15:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21268,20 +21284,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "[TOP's Pick] [중후장대] 삼성중공업, 1.6조 추가 수주 '상선 목표 초과'... - topdaily.kr",
-    "link": "https://www.topdaily.kr/articles/111939",
-    "description": "◆ 삼성중공업, 대형 LNG운반선 등 1조6476억원 수주…상선 수주 목표 초과 삼성중공업이 오세아니아 지역 선주로부터 20만㎥급 대형 LNG운반선 4척과 원유운반선 2척을 총 12억 달러(1조6476억원)에 수주함. 특히 20만㎥급...",
-    "published_at": "2026-09-14T16:23:00+09:00",
-    "cluster_id": "25dd",
-    "publisher": "topdaily.kr",
-    "title_clean": "[TOP's Pick] [중후장대] 삼성중공업, 1.6조 추가 수주 '상선 목표 초과'...",
-    "summary": "삼성중공업이 오세아니아 지역 선주로부터 20만㎥급 대형 LNG운반선 4척과 원유운반선 2척을 총 1조 6476억원에 수주했다. 이는 상선 수주 목표를 초과 달성한 호재로, 조선업계의 수주 증가 추세를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T16:31:58+09:00",
-    "importance": 2
+    "title": "이 대통령 \"경제지표 개선에도 국민 체감 부족\"…서민금융 강화 주문 - newstomato.com",
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1314487&inflow=N",
+    "description": "이어 임금은 노동의 정당한 대가이자 생계와 직결된 문제라며 체불 빈발 업종 관리를 강화하고 내년 시행되는 '건설산업기본법' 개정안을 차질 없이 준비하는 등 '임금체불 제로 사회'를 위한 제도 개선에 속도를 내달라고...",
+    "published_at": "2026-09-22T08:02:00+09:00",
+    "cluster_id": "ddbf",
+    "publisher": "newstomato.com",
+    "title_clean": "이 대통령 \"경제지표 개선에도 국민 체감 부족\"…서민금융 강화 주문",
+    "summary": "정부가 경제지표 개선에도 국민 체감이 부족하다며 서민금융 강화를 주문했다. 특히 임금 체불 문제 해결을 위해 체불 빈발 업종 관리를 강화하고 건설산업기본법 개정안을 차질 없이 준비하여 '임금체불 제로 사회' 구현을 추진할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T08:15:30+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32290,21 +32306,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-15T17:07:03+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[경제 브리핑] 7월 건설수주 30.6%↓ - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51814",
-    "description": "한국건설산업연구원이 10일 발표한 '2026년 9월 월간건설시장동향'에 따르면 7월 건설수주는 15조8000억원으로 전년 동월 대비 30.6% 감소했다. 공공수주는 21.9%, 민간수주는 33.3% 각각 줄었다. 건설기성은 11조7000억원으로 전년 동월 대비 2.4% 증가했다.",
-    "published_at": "2026-09-15T09:04:39+09:00",
-    "cluster_id": "ea39",
-    "publisher": "기계설비신문",
-    "title_clean": "[경제 브리핑] 7월 건설수주 30.6%↓",
-    "summary": "7월 건설수주가 전년 동월 대비 30.6% 감소하며 공공수주 21.9%, 민간수주 33.3% 모두 하락했다. 다만 건설기성은 11조7000억원으로 2.4% 증가해 현장 진행률은 양호한 상태다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T17:07:03+09:00",
-    "importance": 4
   }
 ]
