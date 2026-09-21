@@ -5267,6 +5267,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[주요공시] 삼성물산, 에스엠벡셀, 제이스로보틱스, 셀트리온, 에코프로... - kdpress.co.kr",
+    "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=208796",
+    "description": "공시 흐름은 삼성물산의 성수3지구 약 1조8275억원 시공사 선정, 서희건설·대우건설·HJ중공업·동부건설의 정비사업 수주, 제이앤티씨의 3470억원 규모 TGV 유리기판 생산설비 투자, 파인디앤씨의 130억원...",
+    "published_at": "2026-09-21T23:58:00+09:00",
+    "cluster_id": "fad8",
+    "publisher": "kdpress.co.kr",
+    "title_clean": "[주요공시] 삼성물산, 에스엠벡셀, 제이스로보틱스, 셀트리온, 에코프로...",
+    "summary": "삼성물산의 성수3지구 1조8275억원 시공사 선정을 비롯해 서희건설, 대우건설 등 여러 건설사의 정비사업 수주 및 제이앤티씨의 3470억원 규모 생산설비 투자 등 건설·기계설비 분야 주요 공시들이 잇따르고 있다. 건설업계의 수주 확대와 투자 활동이 증가하는 추세를 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T00:16:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21251,19 +21267,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "기업 공시 [9월 14일] - sedaily.com",
-    "link": "https://www.sedaily.com/article/20090672?ref=naver",
-    "description": "▲삼성중공업(010140)=1조 4078억 원 규모 LNG운반선 4척 수주 ▲SK바이오팜(326030)=미국 현지 법인과 715억 원 규모 의약품 공급 계약 ▲씨케이솔루션(480370)=미 종속법인 571억 원 규모 배터리 공급계약...",
-    "published_at": "2026-09-14T15:40:00+09:00",
-    "cluster_id": "8207",
-    "publisher": "sedaily.com",
-    "title_clean": "기업 공시 [9월 14일]",
-    "summary": "삼성중공업이 1조 4078억 원 규모 LNG운반선 4척을 수주하고, SK바이오팜과 씨케이솔루션도 각각 715억 원, 571억 원 규모 계약을 체결했다. 건설·기계설비 부문에서 대형 수주 및 공급 계약이 잇따르고 있어 산업 활동이 활발한 상황이다.",
+    "title": "춘천시 지역 건설업체 일감 확대 나선다 - kado.net",
+    "link": "https://www.kado.net/news/articleView.html?idxno=2074244",
+    "description": "시는 전국적인 건설경기 침체 속에서 어려움을 겪는 지역 건설업계를 지원하고자 경기 활성화 대책을 추진한다. 우선 농촌지역을 중심으로 주민 생활과 밀접한 생활기반시설 관련 예산 확대에 나선다. 마을안길 등 소규모...",
+    "published_at": "2026-09-22T00:07:00+09:00",
+    "cluster_id": "d1a7",
+    "publisher": "kado.net",
+    "title_clean": "춘천시 지역 건설업체 일감 확대 나선다",
+    "summary": "춘천시가 건설경기 침체로 어려움을 겪는 지역 건설업체를 지원하기 위해 경기 활성화 대책을 추진한다. 농촌지역 생활기반시설 관련 예산을 확대하여 일감 기회를 제공할 계획이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-14T15:51:49+09:00",
+    "collected_at": "2026-09-22T00:16:05+09:00",
     "importance": 2
   },
   {
@@ -32287,22 +32303,6 @@
     "title_clean": "경북도, 추석 앞두고 건설현장 안전 점검…농수산물 할인·환급",
     "summary": "경북도가 추석을 앞두고 도로건설 현장 24곳에 대한 안전 점검을 실시하고 농수산물 할인·환급행사를 추진한다. 건설현장 안전관리 강화 차원의 점검 활동이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-15T15:05:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "어나더리얼, 한국도로협회와 MOU… Vision AI 기반 도로·건설현장 안전... - etnews.com",
-    "link": "https://www.etnews.com/20260915000309",
-    "description": "산업안전 특화 Vision AI 기업 어나더리얼(대표 김현주)은 지난 14일 한국도로협회 (상근부회장 최희철, 이하 '협회')와 'AI 기반 도로 인프라 및 도로 건설 현장 안전관리 체계 구축'을 위한 업무협약을 체결했다고 밝혔다....",
-    "published_at": "2026-09-15T14:40:00+09:00",
-    "cluster_id": "0083",
-    "publisher": "etnews.com",
-    "title_clean": "어나더리얼, 한국도로협회와 MOU… Vision AI 기반 도로·건설현장 안전...",
-    "summary": "어나더리얼이 한국도로협회와 AI 기반 도로 안전관리 체계 구축을 위한 MOU를 체결했다. Vision AI 기술을 활용한 도로 인프라 및 건설현장 안전관리 솔루션 개발을 추진할 예정이다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-15T15:05:38+09:00",
     "importance": 2
   }
