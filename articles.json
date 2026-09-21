@@ -21287,6 +21287,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "지역경제 회복세에도 ‘온도차’, 서비스업 웃고 건설업은 한숨 - dailyt.co.kr",
+    "link": "https://www.dailyt.co.kr/newsView/dlt202609220003",
+    "description": "건설경기 침체가 장기화하면 지역 건설업체뿐 아니라 장비·운송·자재·음식점 등 주변 업종과 일자리에도 영향을 줄 수 있다. 고용 역시 숫자만으로 안심하기 어렵다. 수도권과 호남권, 강원권, 제주권은 취업자 증가 폭이...",
+    "published_at": "2026-09-22T07:36:00+09:00",
+    "cluster_id": "03d0",
+    "publisher": "dailyt.co.kr",
+    "title_clean": "지역경제 회복세에도 ‘온도차’, 서비스업 웃고 건설업은 한숨",
+    "summary": "지역경제 회복세 속에서 서비스업은 성장하지만 건설업은 경기 침체가 장기화하고 있다. 건설경기 부진이 심화되면 장비·운송·자재·음식점 등 연관 업종과 일자리까지 악영향을 미칠 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T07:45:22+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "\"반덤핑 5년 더\"…한숨 돌린 봉형강, 건설 경기 회복 '관건' - 딜사이트",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yMTNyOWI0X1lLVGN0YkVoR3lZQWE1WHVKR1VSRW5mRkNGTVBjUUNyUEYzUHEtUXZRRVRHU0lLSWk0QXByWDF2eEVEaEtac1E?oc=5",
     "description": "중국산 H형강에 대한 반덤핑 조치가 5년 더 유지되기로 하면서 철강업계가 한숨을 돌렸다. 산업통상자원부 무역위원회는 반덤핑 조치를 종료할 경우 국내 산업 피해가 재발할 가능성이 있다고 판단했다. 철강업계는 이번 결정이 시장 반등을 이끌기엔 어렵고, 시장 왜곡을 막기 위한 최소한의 조치로 평가하고 있다. 업황이 개선되기 위해서는 결국 건설 경기가 살아나야 한",
@@ -32289,22 +32305,6 @@
     "summary": "한국은행이 발표한 8월 수입물가지수는 전월 대비 2.4% 하락했으며, 특히 자본재와 소비재가 각각 4.2%, 4.4% 내렸다. 다만 전년 동월 대비로는 15.6% 상승해 장기적으로는 여전히 높은 수준을 유지하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-15T17:07:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "AI·드론·AR, 건설현장 일상으로···스마트기술 적용 확산 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326493",
-    "description": "건설사들이 인공지능(AI)과 드론, 증강현실(AR) 등 디지털 기술을 실제 현장 관리에 잇따라 적용하고 있다. 단순 기술 실증을 넘어 안전·품질·공정관리와 외국인 근로자 교육 등 일상적인 현장 업무로 활용 범위가 넓어지는 모습이다.스마트건설 기술은 현장 데이터를 지속적으로 확보해 AI 분석과 자동화로 연결하는 방향으로 진화하고 있다. 드론으로 현장 정보를 수집해 디지털 트윈을 구축하고, 설계정보와 실제 시공 상태를 비교하거나 AI가 위험요인을 탐지하는 사례가 대표적이다.호반건설은 드론과 실내 360도 스캔, 도면·BIM, 3D 스캔",
-    "published_at": "2026-09-15T16:49:29+09:00",
-    "cluster_id": "f44b",
-    "publisher": "대한전문건설신문",
-    "title_clean": "AI·드론·AR, 건설현장 일상으로···스마트기술 적용 확산",
-    "summary": "건설사들이 AI, 드론, AR 등 디지털 기술을 현장 안전·품질·공정관리에 적용하면서 스마트건설 기술이 일상화되고 있다. 드론 수집 데이터로 디지털 트윈을 구축하고 AI 위험요인 탐지 등으로 현장 관리 효율성을 높이는 추세다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T16:56:08+09:00",
     "importance": 2
   }
 ]
