@@ -5131,6 +5131,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한국전기안전공사, 민간발전사와 발전설비 최신 기술 논의 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37346",
+    "description": "인공지능(AI)과 에너지 전환 등으로 발전산업의 기술 변화가 빨라지는 가운데, 한국전기안전공사(사장 남화영)가 민간발전협회와 기술협력 워크숍을 열고 발전현장의 최신 기술과 설비 개선사례를 살폈다.공사는 지난 17일부터 18일까지 강릉에코파워에서 민간발전협회 및 민간발전사 관계자 100여 명이 참석한 가운데 ‘제17회 2026년 KESCO-IPPA 기술협력 워크숍’을 개최했다.이번 워크숍에서는 발전설비의 디지털 기술 활용부터 성능개선, 연료전지 안전관리, 정기검사 사례까지 다양한 주제 발표가 이어졌다.주요 발표로는 △대용량 발전소의",
+    "published_at": "2026-09-21T12:13:22+09:00",
+    "cluster_id": "4590",
+    "publisher": "한국건설신문",
+    "title_clean": "한국전기안전공사, 민간발전사와 발전설비 최신 기술 논의",
+    "summary": "한국전기안전공사가 민간발전협회와 기술협력 워크숍을 개최하여 발전설비의 디지털 기술, 성능개선, 안전관리 등 최신 기술 동향을 공유했다. AI와 에너지 전환에 따른 발전산업의 기술 변화에 대응하기 위한 협력 강화의 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-21T12:32:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21113,22 +21129,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-14T11:30:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "3주 되도록 행방 묘연한 직원들...수색견·드론 보강해 수색 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RWmJMQURZc2NTWnZYTWFTUnZWSjNCVmowREZFNGxYXzVsYW9uMUhMUVpXclFPQWNJZVpsQTZvazN4SGhCQmw0VnpQdzdOaTlYYVZXeDlkTW5DcXF4cXc?oc=5",
-    "description": "주말 내 수색에도 아직 우리 직원 9명 행방 못 찾아 / 남동발전, 오늘부터 수색견 팀 다시 현장 투입 / 수색견 팀, 헬기로 이동 예정…네팔 이륙 승인 관건",
-    "published_at": "2026-09-14T09:16:00+09:00",
-    "cluster_id": "3d07",
-    "publisher": "YTN",
-    "title_clean": "3주 되도록 행방 묘연한 직원들...수색견·드론 보강해 수색",
-    "summary": "남동발전 직원 9명이 3주간 행방 불명 상태로, 수색 활동이 계속되고 있다. 수색견 팀과 드론, 헬기 등을 추가 투입하여 수색을 강화하고 있으며, 네팔 이륙 승인이 관건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T11:30:14+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
