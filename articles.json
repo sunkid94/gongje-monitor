@@ -21284,6 +21284,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"반덤핑 5년 더\"…한숨 돌린 봉형강, 건설 경기 회복 '관건' - 딜사이트",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yMTNyOWI0X1lLVGN0YkVoR3lZQWE1WHVKR1VSRW5mRkNGTVBjUUNyUEYzUHEtUXZRRVRHU0lLSWk0QXByWDF2eEVEaEtac1E?oc=5",
+    "description": "중국산 H형강에 대한 반덤핑 조치가 5년 더 유지되기로 하면서 철강업계가 한숨을 돌렸다. 산업통상자원부 무역위원회는 반덤핑 조치를 종료할 경우 국내 산업 피해가 재발할 가능성이 있다고 판단했다. 철강업계는 이번 결정이 시장 반등을 이끌기엔 어렵고, 시장 왜곡을 막기 위한 최소한의 조치로 평가하고 있다. 업황이 개선되기 위해서는 결국 건설 경기가 살아나야 한",
+    "published_at": "2026-09-22T07:00:00+09:00",
+    "cluster_id": "e2b2",
+    "publisher": "딜사이트",
+    "title_clean": "\"반덤핑 5년 더\"…한숨 돌린 봉형강, 건설 경기 회복 '관건'",
+    "summary": "중국산 H형강에 대한 반덤핑 조치가 5년 더 연장되어 국내 철강업계의 부당 경쟁으로부터 보호받게 되었다. 다만 업계는 이것이 시장 회복의 근본적 해결책이 아니며, 건설 경기 부양이 실질적 개선의 관건이라고 평가하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-22T07:25:35+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[산업 Pick] HL만도·고려아연·한화큐셀-포스코, 안전대책·친환경제련·영농형태양광 협력 - 라이센스뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BV1IxZlh3eVhjcEp6X1Y0bGJHXzlwQ2ZZLVpPSV9XU3VnYjR5b1J6cjJBTEdpMGV0c1UwUjhKUjlEZHQ0Tl9pR05COE85Vlp5RVlOczNXOU9IRld1cDNZY0cxN1BRS2lSd3lR?oc=5",
+    "description": "라이센스뉴스 = 박창배 기자 | 주요 기업들이 현장 안전 관리 강화와 글로벌 친환경 프로젝트, 미래형 농업 솔루션 구축 등 지속 가능성을 높이기 위한 행보에 나서",
+    "published_at": "2026-09-21T17:00:00+09:00",
+    "cluster_id": "dcb3",
+    "publisher": "라이센스뉴스",
+    "title_clean": "[산업 Pick] HL만도·고려아연·한화큐셀-포스코, 안전대책·친환경제련·영농형태양광 협력",
+    "summary": "HL만도, 고려아연, 한화큐셀, 포스코 등 주요 기업들이 현장 안전 관리 강화, 친환경 제련, 영농형태양광 등 지속 가능성 확보를 위한 협력에 나섰다. 산업 전반의 ESG 경영 강화 추세를 반영한 움직임.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-22T07:25:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32273,38 +32305,6 @@
     "summary": "건설사들이 AI, 드론, AR 등 디지털 기술을 현장 안전·품질·공정관리에 적용하면서 스마트건설 기술이 일상화되고 있다. 드론 수집 데이터로 디지털 트윈을 구축하고 AI 위험요인 탐지 등으로 현장 관리 효율성을 높이는 추세다.",
     "sentiment": "positive",
     "collected_at": "2026-09-15T16:56:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "하이테크 건설현장 스마트안전기술 한자리에 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51827",
-    "description": "구체적으로 △AI 기반 건설현장 안전관리 기술 △지능형 영상분석 및 위험행동 감지 솔루션 △건설현장 자동화·로봇 기술 △피지컬 AI 및 자율주행 기반 현장 기술 △반도체·데이터센터·플랜트 건설 적용 기술 △전력...",
-    "published_at": "2026-09-15T16:22:00+09:00",
-    "cluster_id": "1520",
-    "publisher": "기계설비신문",
-    "title_clean": "하이테크 건설현장 스마트안전기술 한자리에",
-    "summary": "건설현장의 AI 기반 안전관리 기술, 지능형 영상분석, 자동화·로봇 기술 등 최신 스마트안전기술이 한자리에 모인 행사가 개최되었다. 반도체, 데이터센터, 플랜트 등 다양한 건설 분야에 적용되는 혁신 기술들이 소개되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T16:46:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "전문건설협회, 차세대 CEO 2기 10차 교육 진행 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326495",
-    "description": "대한전문건설협회(전건협) 중앙회(회장 윤학수)는 15일 서울 전문건설회관에서 ‘미래 100년을 위한 차세대 CEO 과정 제2기’ 10차 교육을 진행했다.이날 교육에는 제2기 교육생 50여명이 참석했다. 이번 교육에서는 건설신기술과 우리나라 건설경기에 대한 강연이 펼쳐졌다.첫 번째 강연자로 박철 한국건설교통신기술협회 회장이 나와 ‘건설산업의 꽃 신기술과 인문학’이라는 주제로 강연을 진행했다. 박 회장은 건설신기술 제도 및 주요 효과와 건설신기술 활성화를 위한 제도개선에 대해 설명했다.두 번째 강연에서는 박선구 대한건설정책연구원 경제금",
-    "published_at": "2026-09-15T16:10:35+09:00",
-    "cluster_id": "d4b7",
-    "publisher": "대한전문건설신문",
-    "title_clean": "전문건설협회, 차세대 CEO 2기 10차 교육 진행",
-    "summary": "대한전문건설협회가 차세대 CEO 과정 2기 10차 교육을 개최했으며, 건설신기술과 건설경기 전망에 대한 강연이 진행됐다. 업계 리더 양성과 신기술 활성화를 통한 건설산업의 미래 경쟁력 강화를 목표로 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T16:15:53+09:00",
     "importance": 2
   }
 ]
