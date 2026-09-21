@@ -21165,6 +21165,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“건설업 납품대금 연동 ‘10% 기준’ 완화해야···중처법·근로시간제도 손질 필요” - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326616",
+    "description": "건설업처럼 여러 자재가 투입돼 특정 원재료 비중이 낮은 업종도 납품대금 연동제를 실질적으로 활용할 수 있도록 현행 ‘납품대금의 10% 이상’인 원재료에 한정된 적용 기준을 완화해야 한다는 요구가 제기됐다. 하도급대금 지급기일 단축과 중대재해처벌법, 근로시간제 등 건설현장과 밀접한 제도 개선 요구도 함께 나왔다.중소기업중앙회는 제22대 국회 후반기에 중점적으로 처리해야 할 32개 중소기업 입법과제를 선정했다고 20일 밝혔다. 전체 과제는 6개 상임위원회 소관 28개 법률을 대상으로 하며, 건설업과 직접적으로 맞닿은 내용도 다수 포함됐",
+    "published_at": "2026-09-21T13:55:12+09:00",
+    "cluster_id": "7929",
+    "publisher": "대한전문건설신문",
+    "title_clean": "“건설업 납품대금 연동 ‘10% 기준’ 완화해야···중처법·근로시간제도 손질 필요”",
+    "summary": "중소기업중앙회가 건설업의 납품대금 연동 기준(현행 10% 이상)을 완화하고, 하도급대금 지급기일 단축, 중대재해처벌법 손질 등을 제22대 국회 후반기 중점 입법과제 32개에 포함시켰다. 건설현장의 실질적 규제 개선과 제도 완화를 요구하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-21T14:05:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32283,21 +32299,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-15T00:02:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중소 건축공사장 안전 컨설팅…사고 예방 나선다 - 뉴스홈(newshome)",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qZTZNcXhmYlJWVDNPdXZ5NDlmMTF4R0diNEY3OVl2VC1aRkFWRGNnUWRSZngzbHZaUHpFYWZ3SlNoM0xpajNMeXRKR2V0RkNZdUdUVmtPX3Utcnd3NVlienp0NGJXalI4YmxVRnd3?oc=5",
-    "description": "충남도가 상대적으로 안전관리에 취약한 중소규모 건축공사장을 대상으로 현장 맞춤형 안전 컨설팅을 실시하며 건설 현장 안전사고 예방에 나선다.충남도는 상반기 10개 공사장에 이어 오는 15일부터 하반기 13개 공사장을 대상으로 안전 컨설팅을 추진한다.이번 컨설팅은 50억 원 미만 중소규모",
-    "published_at": "2026-09-14T13:38:11+09:00",
-    "cluster_id": "b74c",
-    "publisher": "뉴스홈(newshome)",
-    "title_clean": "중소 건축공사장 안전 컨설팅…사고 예방 나선다",
-    "summary": "충남도가 중소규모 건축공사장(50억 원 미만)을 대상으로 현장 맞춤형 안전 컨설팅을 실시한다. 상반기 10개, 하반기 13개 공사장에 대해 건설 현장 안전사고 예방 활동을 추진할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T00:02:30+09:00",
-    "importance": 4
   }
 ]
