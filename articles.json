@@ -5267,6 +5267,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "시민단체 \"가덕도신공항 공사비 현실화… 제도 개선 마련해야\" - fnnews.com",
+    "link": "https://www.fnnews.com/news/202609211932532866",
+    "description": "현재 해당 사업은 지난 7일 대우건설 컨소시엄이 기본 설계도서를 제출했다. 정부 계획대로라면 오는 11월까지 본계약 절차를 진행하고, 그달 우선시공분 공사에 착수해야 한다. 그러나 본계약 체결 이전에 발생한 원자재...",
+    "published_at": "2026-09-21T19:35:00+09:00",
+    "cluster_id": "476c",
+    "publisher": "fnnews.com",
+    "title_clean": "시민단체 \"가덕도신공항 공사비 현실화… 제도 개선 마련해야\"",
+    "summary": "가덕도신공항 사업에서 원자재 가격 상승으로 인한 공사비 현실화 필요성이 제기되고 있습니다. 시민단체가 제도 개선을 요구하고 있으며, 정부는 11월 본계약 체결과 공사 착수를 목표로 진행 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-21T19:50:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21251,20 +21267,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "엔비디아와 AI 동맹 맺은 두산…데이터센터 전력에 커지는 기대 - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204398",
-    "description": "두산그룹이 엔비디아와 손잡고 피지컬 인공지능(AI)과 로보틱스, AI 팩토리 등 미래 산업 공략에 나선 가운데 실제 수주와 실적 측면에서는 두산에너빌리티의 존재감이 커지고 있다. AI 데이터센터가 빠르게 늘면서...",
-    "published_at": "2026-09-14T15:22:00+09:00",
-    "cluster_id": "ee61",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "엔비디아와 AI 동맹 맺은 두산…데이터센터 전력에 커지는 기대",
-    "summary": "두산그룹이 엔비디아와 협력하여 AI 데이터센터 시장에 진출하고 있으며, 이에 따라 두산에너빌리티의 데이터센터 전력 공급 사업이 성장 기회를 맞고 있다. AI 데이터센터 증가로 인한 전력 인프라 구축 수요 확대는 기계설비건설 부문의 신규 수주 창출로 이어질 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T15:41:05+09:00",
-    "importance": 2
+    "title": "이번에도 ‘수도권’만 챙긴 부동산 정책(종합) - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260922.22001007309",
+    "description": "미분양 주택 급증과 이로 인한 부동산 및 건설경기 침체, 수요 소멸에 따른 거래 절벽 등 서울·수도권과는 완전 반대의 문제가 쌓여 있는 데도 정부는 출범 이후 1년 3개월 동안 수도권과 비수도권 구별이 없이...",
+    "published_at": "2026-09-21T19:44:00+09:00",
+    "cluster_id": "7734",
+    "publisher": "kookje.co.kr",
+    "title_clean": "이번에도 ‘수도권’만 챙긴 부동산 정책(종합)",
+    "summary": "정부의 부동산 정책이 수도권 중심으로 추진되면서 미분양 급증, 건설경기 침체, 거래 절벽 등의 문제를 겪고 있는 비수도권이 소외되고 있다. 지역 간 부동산 시장 격차 심화로 건설업계 전반의 경기 부진이 심화될 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-21T19:50:30+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32289,21 +32305,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-15T14:35:33+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "중대한 불법하도급 국토부가 직접 처분…자진신고하면 감경 - metroseoul.co.kr",
-    "link": "http://www.metroseoul.co.kr/article/20260915500287",
-    "description": "건설산업기본법·새만금사업법 시행령 개정안 국무회의 의결 서울 시내 한 아파트 공사 현장에 타워크레인이 설치돼 있다./뉴시스 앞으로 중대한 불법하도급은 국토교통부가 직접 행정처분을 내린다. 불법하도급 사실을...",
-    "published_at": "2026-09-15T14:04:00+09:00",
-    "cluster_id": "d6ee",
-    "publisher": "metroseoul.co.kr",
-    "title_clean": "중대한 불법하도급 국토부가 직접 처분…자진신고하면 감경",
-    "summary": "국토교통부가 중대한 불법하도급에 대해 직접 행정처분을 내리는 제도를 도입한다. 자진신고 시 감경 혜택을 제공하여 업계의 자발적 준수를 유도하는 방식이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T14:15:43+09:00",
-    "importance": 4
   }
 ]
