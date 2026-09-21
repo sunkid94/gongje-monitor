@@ -21284,6 +21284,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "호반건설, 도시정비 누적 수주액 1조원 돌파 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609211400248090961",
+    "description": "호반건설 관계자는 “앞으로도 주택과 토목, 도시정비 등 건설 본업의 경쟁력을 강화하는 한편 AI와 로봇 등 스마트건설 기술의 현장 적용을 확대할 계획”이라며 “급변하는 건설시장에 대응하고 지속 가능한 성장...",
+    "published_at": "2026-09-22T05:20:00+09:00",
+    "cluster_id": "d320",
+    "publisher": "대한경제",
+    "title_clean": "호반건설, 도시정비 누적 수주액 1조원 돌파",
+    "summary": "호반건설이 도시정비 누적 수주액 1조원을 돌파했다. 회사는 주택과 토목, 도시정비 등 건설 본업의 경쟁력 강화와 AI, 로봇 등 스마트건설 기술 현장 적용 확대를 추진할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T05:30:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32290,21 +32306,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-15T15:45:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "삼성SDS 구미 AI 데이터센터 착공…지역기업 참여 확대 - kukinews.com",
-    "link": "https://www.kukinews.com/article/view/kuk202609150159",
-    "description": "대규모 투자사업이 지역 건설경기와 산업생태계에 실질적인 활력을 불어넣도록 협력체계를 구축하자는 데 뜻을 모았다. 시공을 맡은 삼성물산은 공사를 계획대로 추진하는 동시에 지역의 우수 건설업체 참여를...",
-    "published_at": "2026-09-15T15:34:00+09:00",
-    "cluster_id": "1e12",
-    "publisher": "kukinews.com",
-    "title_clean": "삼성SDS 구미 AI 데이터센터 착공…지역기업 참여 확대",
-    "summary": "삼samsung SDS가 구미에 AI 데이터센터를 착공하며 지역 건설업체의 참여 확대를 추진하고 있다. 삼성물산이 공사를 주도하면서 지역 우수 건설업체들의 수주 기회를 확대하고 건설경기 활성화를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T15:45:52+09:00",
-    "importance": 2
   }
 ]
