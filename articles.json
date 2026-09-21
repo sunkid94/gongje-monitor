@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "전문건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "국토안전관리원, 김창균 변호사 비상임이사 임명 - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80TE5qT19jSVo0UndhSUtLdktTSGpGTkhOdEc1amdFQmtTeGdUSHZnRW1UZ2NoUEZEVGpqTzdNRTNTSzZUWUw4TUpxSHo3a3hkTVZTbzFFdk5vd9IBVEFVX3lxTE01YUpOY2pLdm5XUzZOYUNLZDZVejQzOENFUk9FWjVfRnFuamNueDFidnV1YjRYVDN5SWdmYzdHMmhkMElVaTA1RS1JRnhGbWR2UzZFQw?oc=5",
+    "description": "전문건설공제조합 법무지원팀 팀장 등 역임국토안전관리원이 법무법인 법여울 소속 김창균 변호사를 임기 2년의 비상임이사로 임명했다. /국토안전관리원[더팩트｜이중삼 기자] 국..",
+    "published_at": "2026-09-21T14:08:52+09:00",
+    "cluster_id": "746d",
+    "publisher": "더팩트",
+    "title_clean": "국토안전관리원, 김창균 변호사 비상임이사 임명",
+    "summary": "국토안전관리원이 법무법인 법여울 소속 김창균 변호사를 2년 임기의 비상임이사로 임명했다. 김 변호사는 전문건설공제조합 법무지원팀 팀장 등을 역임한 법무 전문가다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-21T14:45:17+09:00",
+    "event_label": "전문건설공제조합 김창균 변호사 국토안전관리원 비상임이사 임명",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32281,22 +32298,6 @@
     "title_clean": "[기획]“시민ㆍ버스기사ㆍ도로관리 공무원 모두가 만족”",
     "summary": "2018년 극심한 무더위로 인한 도로포장 파손 문제를 해결하기 위해 기존 도로관리체계 개선의 필요성이 제기되고 있습니다. 시민, 버스기사, 도로관리 공무원이 모두 만족할 수 있는 새로운 도로관리 방식 도입이 논의 중입니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-15T04:36:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[기획]기후변화시대 포트홀과의 전쟁-여름지난 전국 포트홀로 몸살 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609092254548540370",
-    "description": "백종은 인덕대학교 스마트건설방재학과 겸임교수는 “기후변화로 인해 여름에는 폭염과 집중호우가 빈번하고 겨울에는 한파와 폭설이 반복되고 있는데, 아스팔트포장은 이런 기후에 취약할 수 밖에 없다”며...",
-    "published_at": "2026-09-15T04:22:00+09:00",
-    "cluster_id": "d9dd",
-    "publisher": "대한경제",
-    "title_clean": "[기획]기후변화시대 포트홀과의 전쟁-여름지난 전국 포트홀로 몸살",
-    "summary": "기후변화로 인한 극단적 기후 현상(폭염, 집중호우, 한파, 폭설)이 증가하면서 아스팔트포장이 손상되어 전국에서 포트홀 문제가 심화되고 있다. 이는 도로 유지보수 및 재포장 수요 증가로 이어질 것으로 예상된다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-15T04:36:55+09:00",
     "importance": 2
   }
