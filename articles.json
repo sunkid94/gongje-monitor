@@ -21267,6 +21267,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 추석 앞두고 건설현장 안전점검 - koreareport.co.kr",
+    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53134",
+    "description": "IPARK현대산업개발이 추석 연휴를 앞두고 인천 시티오씨엘 8단지 건설현장의 안전관리 실태를 점검했다. IPARK현대산업개발은 정경구 대표이사 주관으로 현장 안전보건 점검을 실시했다고 21일 밝혔다. 점검에는 양승철...",
+    "published_at": "2026-09-21T22:52:00+09:00",
+    "cluster_id": "c109",
+    "publisher": "koreareport.co.kr",
+    "title_clean": "IPARK현대산업개발, 추석 앞두고 건설현장 안전점검",
+    "summary": "IPARK현대산업개발이 정경구 대표이사 주관으로 인천 시티오씨엘 8단지 건설현장에 대한 안전보건 점검을 실시했다. 추석 연휴를 앞두고 현장의 안전관리 실태를 점검하는 정상적인 안전관리 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-21T23:00:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32289,21 +32305,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-15T15:05:38+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "음성 용산산단 자금경색 돌파…'부분 준공' 속도 - cctimes.kr",
-    "link": "http://www.cctimes.kr/news/articleView.html?idxno=927442",
-    "description": "하지만 고금리와 부동산·건설경기 침체로 공동주택과 상업·지원시설 용지 분양이 지연되면서 SPC의 자금 흐름에 차질이 발생했다. 여기에 공사대금을 받지 못한 일부 업체가 지난 8월 SPC 계좌를 가압류하면서...",
-    "published_at": "2026-09-15T14:38:00+09:00",
-    "cluster_id": "89d5",
-    "publisher": "cctimes.kr",
-    "title_clean": "음성 용산산단 자금경색 돌파…'부분 준공' 속도",
-    "summary": "용산산단이 고금리와 부동산·건설경기 침체로 인한 분양 지연으로 자금경색을 겪고 있으며, 미수금 문제로 협력업체들의 가압류까지 발생했다. 사업 진행을 위해 부분 준공 전략으로 대응 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T14:54:15+09:00",
-    "importance": 4
   }
 ]
