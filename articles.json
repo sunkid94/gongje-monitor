@@ -5284,6 +5284,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[N2 모닝 경제 브리핑-9월 22일] 美 증시, 유가·금리 하락에 상승 마감... - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20260921500263",
+    "description": "■ 주요 기업 공시(21일) - STX : 에이피씨머큐리 유한회사 외 1인→한국산업은행 최대주주 변경 - 대우건설 : 정웅으로부터 2433억5569만원 규모 안동 태화지구 공동주택 신축사업 수주 - 케이아이이...",
+    "published_at": "2026-09-22T05:50:00+09:00",
+    "cluster_id": "0a7e",
+    "publisher": "news2day.co.kr",
+    "title_clean": "[N2 모닝 경제 브리핑-9월 22일] 美 증시, 유가·금리 하락에 상승 마감...",
+    "summary": "미국 증시가 유가와 금리 하락에 힘입어 상승 마감했으며, 국내에서는 대우건설이 2433억 규모의 안동 태화지구 공동주택 신축사업을 수주하는 등 건설사들의 수주 활동이 지속되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T06:00:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21266,22 +21282,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-14T16:31:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "제일·대우·태영건설 하자 1∼3위…시공 30위 건설사 '아파트 하자' 심각 - 파이낸셜포스트",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FSmdSZUI5dndGSmlxazdWRVE5S2VKMEVBNjZ4TE5UQzd3MzF3bmFsRm4zRzhheE1pcTlrTDd5WkVON2did2JkX0FzUUVkUTZTZW9lRGllTHcwalE2N2RBMU1wMWtzd1lpZ0NnS2ZXT1lhR19l?oc=5",
-    "description": "국내 건설 시장을 이끄는 시공능력평가 상위 건설사들의 아파트 하자 문제가 여전히 심각한 것으로 나타났다.13일 국회 국토교통위원회 소속 더불어민주당 윤종군 의원실이 국토교통부 하자심사·분쟁조정위원회(하심위)에서 제출받은 ‘2026년 시공능력평가 상위 30개 건설사의 하자발생 현황’ 자",
-    "published_at": "2026-09-14T16:17:01+09:00",
-    "cluster_id": "b9cf",
-    "publisher": "파이낸셜포스트",
-    "title_clean": "제일·대우·태영건설 하자 1∼3위…시공 30위 건설사 '아파트 하자' 심각",
-    "summary": "국내 시공능력평가 상위 30개 건설사의 아파트 하자 문제가 심각한 수준으로 드러났다. 제일, 대우, 태영건설이 하자 발생 1∼3위를 차지하며 대형 건설사들의 품질 관리 문제가 지적되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-14T16:31:58+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 PF",
