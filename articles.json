@@ -21199,6 +21199,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH, AI로 옹벽 위험 72시간 전 잡는다…전국 80곳 실시간 관리 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QWlWN1N0ZlpBbk5tdzhZSXpfTnF3T2ZuYWlMcnZYZE9wa2JBYk1fRk9EYzR5cThBREVDY1Q3dllTODhTMjMtUEROWldVTFBDWEk3SlJBY0RidlBp?oc=5",
+    "description": "[서울=뉴스핌] 최현민 기자 = 한국토지주택공사(LH)가 인공지능(AI)을 활용해 옹벽과 사면의 위험징후를 최대 72시간 전에 포착하는 안전관리 체계를 구축한다. 집중호우와 폭설 등 기상이변에 따른 사고 위험에 대비해 실시간 계측뿐 아니라 디지털트윈과 내부상태",
+    "published_at": "2026-09-21T14:45:00+09:00",
+    "cluster_id": "a410",
+    "publisher": "뉴스핌",
+    "title_clean": "LH, AI로 옹벽 위험 72시간 전 잡는다…전국 80곳 실시간 관리",
+    "summary": "LH가 AI 기술을 활용해 옹벽과 사면의 위험을 최대 72시간 전에 감지하는 안전관리 체계를 구축하고 있다. 전국 80곳에서 실시간 계측과 디지털트윈 기술로 집중호우, 폭설 등 기상이변에 따른 사고 위험에 사전 대비하는 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-21T15:00:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32285,21 +32301,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-15T07:12:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "두 달 만에 또 오른 기본형건축비…분양가 상승 압력 - munhwa.com",
-    "link": "https://www.munhwa.com/article/11616960?ref=naver",
-    "description": "정부의 건설현장 안전투자 확대 방침에 따라 간접공사비가 10% 가까이 상승한 영향이다. 국토교통부는 분양가상한제 기본형건축비를 정기 고시한다고 15일 밝혔다. 이에 따라 16∼25층, 전용면적 60∼85...",
-    "published_at": "2026-09-15T06:27:00+09:00",
-    "cluster_id": "0d86",
-    "publisher": "munhwa.com",
-    "title_clean": "두 달 만에 또 오른 기본형건축비…분양가 상승 압력",
-    "summary": "정부의 건설현장 안전투자 확대로 간접공사비가 10% 근처 상승하면서 기본형건축비가 두 달 만에 다시 인상되었다. 이는 분양가 상승 압력으로 이어질 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T06:41:50+09:00",
-    "importance": 4
   }
 ]
