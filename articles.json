@@ -5267,6 +5267,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설업계 브리핑] 현대건설·대우건설·GS건설 外 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1408529",
+    "description": "◇ IPARK현대산업개발, 추석 연휴 앞두고 CEO 현장 안전점검 사진=IPARK현대산업개발 제공 IPARK현대산업개발은 추석 연휴 전 안전사고 예방을 위해 경영진이 참여하는 현장 점검을 실시했다. 현장 안전관리 실태를...",
+    "published_at": "2026-09-21T17:10:00+09:00",
+    "cluster_id": "3271",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "[건설업계 브리핑] 현대건설·대우건설·GS건설 外",
+    "summary": "IPARK현대산업개발이 추석 연휴를 앞두고 경영진이 참여하는 현장 안전점검을 실시했다. 건설 현장의 안전사고 예방을 위한 사전 점검 활동으로 업계의 안전관리 강화 동향을 보여준다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-21T17:46:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21251,20 +21267,20 @@
     "importance": 4
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "함정 분야 우울한데 '상선'으로 전진하는 'K조선' - economist.co.kr",
-    "link": "https://economist.co.kr/article/view/ecn202609140036",
-    "description": "삼성중공업이 K조선 3사 중 가장 먼저 올해 수주 목표를 넘어섰다. 특수선 분야 함정의 수주 난항 속에서도 상선 수주는 순조롭게 진행되고 있는 것으로 나타났다. 삼성중공업 상선 수주 목표 조기 달성...",
-    "published_at": "2026-09-14T14:50:00+09:00",
-    "cluster_id": "92e2",
-    "publisher": "economist.co.kr",
-    "title_clean": "함정 분야 우울한데 '상선'으로 전진하는 'K조선'",
-    "summary": "삼samsung중공업이 K조선 3사 중 처음으로 올해 수주 목표를 달성했다. 함정 등 특수선 분야는 부진하지만 상선 수주가 호조를 보이며 전체 수주 실적을 견인하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T14:55:50+09:00",
-    "importance": 2
+    "title": "[2026 국감] 현대건설 올해 샤힌서만 3명 사망…정의선 회장 국감 증인대 오르나 - 하이뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Hb2pmek93YUpQY1UyaU5UMmdBeHJzaVRYZTRqZzJDTE1QQ1NBeWlMLTNjZ3hGdjVpY2VrbWYtcW1WcTZnajlOVXhnS085R0xZb1hMdTBxMUE0YzVVZ3IyeG1kWHVxU0NFVVFMNEpYbllmRXhLczdF?oc=5",
+    "description": "2026년 국정감사를 앞두고 현대건설의 산업재해 문제가 다시 국회 도마에 오를지 주목된다. 특히 현대건설이 시공을 맡은 울산 에쓰오일 샤힌 프로젝트 패키지-1 현장에서 올해 들어 노동자 3명이 잇따라 숨지면서 안전관리 책임을 둘러싼 논란이 커지고 있다. 지난해 국정감사에서 이한우 현대건",
+    "published_at": "2026-09-21T17:38:40+09:00",
+    "cluster_id": "b563",
+    "publisher": "하이뉴스",
+    "title_clean": "[2026 국감] 현대건설 올해 샤힌서만 3명 사망…정의선 회장 국감 증인대 오르나",
+    "summary": "현대건설이 시공 중인 울산 에쓰오일 샤힌 프로젝트에서 올해 노동자 3명이 사망하면서 산업재해 문제가 국정감사 대상으로 떠올랐다. 안전관리 책임을 둘러싼 논란이 확대되고 있어 건설사의 안전관리 강화 및 규제 강화 가능성이 제기된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-21T17:46:12+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32287,22 +32303,6 @@
     "title_clean": "‘불법하도급’ 자진신고하면 제재 절반 감경…중대 위반 국토부 직권 ...",
     "summary": "정부가 건설산업기본법 시행령을 개정해 불법하도급 자진신고 시 제재를 50% 감경하는 제도를 도입한다. 중대 위반은 국토부가 직권으로 처분하며, 개정령은 공포 후 4개월 뒤부터 시행된다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-15T13:14:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "코오롱글로벌, ‘전주 삼천 하늘채 라비엘’ 홍보관 공개 - viva100.com",
-    "link": "https://www.viva100.com/article/20260915500715",
-    "description": "국토교통부 ‘스마트건설 기술실증 지원사업’을 통해 지능형 카메라 활용 AI 기반 모니터링, 드론 기반 구조물 균열관리, 3D 굴착기 적용 토공 자동화, IoT 유해가스 모니터링 등 4건을 검증한다. 또한 창업진흥원...",
-    "published_at": "2026-09-15T12:58:00+09:00",
-    "cluster_id": "e674",
-    "publisher": "viva100.com",
-    "title_clean": "코오롱글로벌, ‘전주 삼천 하늘채 라비엘’ 홍보관 공개",
-    "summary": "코오롱글로벌이 전주 프로젝트에서 AI 카메라 모니터링, 드론 균열관리, 3D 굴착기 자동화, IoT 가스 모니터링 등 스마트건설 기술 4건을 국토교통부 지원사업으로 검증 중이다. 건설 현장에 첨단 디지털·자동화 기술을 적용하여 안전성과 효율성을 강화하는 사례를 제시하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-15T13:14:17+09:00",
     "importance": 2
   }
