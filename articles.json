@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "제구실 못하는 덕동하수처리장 탓에 어민들 울상 - idomin.com",
+    "link": "https://www.idomin.com/news/articleView.html?idxno=2015505",
+    "description": "시설 하자가 해결되지 않자 창원시는 2010년 9개 시공사와 연대보증사, 건설공제조합을 상대로 175억 3000여만 원의 손해배상청구소송을 냈다. 법원은 시공사 측 책임을 60%로 인정했다. 2017년 1심에 이어 2심도 같은 판단을...",
+    "published_at": "2026-09-21T19:56:00+09:00",
+    "cluster_id": "f9bb",
+    "publisher": "idomin.com",
+    "title_clean": "제구실 못하는 덕동하수처리장 탓에 어민들 울상",
+    "summary": "덕동하수처리장 시설 하자로 어민들이 피해를 입자 창원시가 2010년 9개 시공사와 건설공제조합을 상대로 175억 원대 손해배상청구소송을 제기했다. 법원은 시공사 책임을 60%로 인정했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-21T20:05:53+09:00",
+    "event_label": "건설공제조합 덕동하수처리장 시설 하자 손해배상소송",
+    "importance": 7
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "국토안전관리원 비상임이사에 김창균 변호사 - fnnews.com",
     "link": "https://www.fnnews.com/news/202609211643010752",
     "description": "김 신임 비상임이사는 전문건설공제조합 법무지원팀장과 하나은행 법무팀 차장, 법무법인 태평양 변호사 등을 역임했다. 국토안전관리원은 김 이사가 법조계에서 쌓은 경험을 바탕으로 기관 발전에 기여할 것으로...",
@@ -32288,22 +32305,6 @@
     "summary": "어나더리얼과 한국도로협회가 AI 기반 도로·건설현장 안전관리 체계 구축을 위한 업무협약을 체결했다. Vision AI 기술을 활용한 안전관리 시스템으로 도로 인프라와 건설 현장의 안전성 향상을 추진한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-15T14:45:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[포토뉴스]박준희 관악구청장, 추석연휴 대비 건설현장 안전 점검 실시 - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106658",
-    "description": "박원식 기자 isis1964@naver.com",
-    "published_at": "2026-09-15T14:10:00+09:00",
-    "cluster_id": "605a",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "[포토뉴스]박준희 관악구청장, 추석연휴 대비 건설현장 안전 점검 실시",
-    "summary": "박준희 관악구청장이 추석연휴를 앞두고 건설현장의 안전 점검을 실시했다. 이는 연휴 기간 건설현장 안전사고 예방을 위한 정기적인 행정조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-15T14:35:33+09:00",
     "importance": 2
   }
 ]
