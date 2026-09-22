@@ -21301,6 +21301,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "도로공사-도로학회, 도로교통 안전·기술 발전 맞손 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50257",
+    "description": "[건설이코노미뉴스] 한국도로공사(사장 유정훈)와 한국도로학회가 도로교통 안전 향상과 기술 발전을 위해 연구·제도·학술 분야의 협력체계를 구축한다.도로공사는 지난 21일 본사에서 사단법인 한국도로학회(회장 조한선)와 '도로교통 안전 향상과 도로 기술 발전을 위한 업무협약'을 체결했다고 최근 밝혔다.이번 협약은 양 기관이 상호협력체계를 구축해 국민의 생명과 안전을 보호하고, 도로교통 분야의 학술·기술 발전에 기여하기 위해 마련됐다.양 기관은 이번 협약을 통해 도로교통 안전과 기술 발전을 위한 다양한 분야에서 협력을 강화할 예정이다.주요",
+    "published_at": "2026-09-22T18:09:50+09:00",
+    "cluster_id": "e2b2",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "도로공사-도로학회, 도로교통 안전·기술 발전 맞손",
+    "summary": "한국도로공사와 한국도로학회가 도로교통 안전 향상과 기술 발전을 위한 업무협약을 체결했다. 양 기관은 연구·제도·학술 분야에서 상호협력체계를 구축하여 국민 안전 보호와 도로교통 분야의 발전에 기여할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T18:12:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-16T21:56:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도·GH, 추석 앞두고 건설현장 임금체불 집중 점검 - discoverynews.kr",
-    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1101823",
-    "description": "경기도-경기주택도시공사(GH) 임금체불 예방T/F 제2차 총괄회의 경기도와 경기주택도시공사(GH)가 추석을 앞두고 건설노동자 임금과 공사대금 체불을 막기 위한 현장 점검을 강화한다. 체불 발생 이후 조치하는 방식에서...",
-    "published_at": "2026-09-16T21:40:00+09:00",
-    "cluster_id": "938f",
-    "publisher": "discoverynews.kr",
-    "title_clean": "경기도·GH, 추석 앞두고 건설현장 임금체불 집중 점검",
-    "summary": "경기도와 경기주택도시공사가 추석을 앞두고 건설현장 임금체불 예방을 위한 집중 점검을 강화한다. 체불 발생 이후 조치하는 방식에서 사전 예방으로 정책을 전환하여 건설노동자 피해를 줄이려는 움직임이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-16T21:56:30+09:00",
-    "importance": 4
   }
 ]
