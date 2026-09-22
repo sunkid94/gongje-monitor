@@ -21267,6 +21267,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[창간 81주년] 제주지사 \"성과로 평가받겠다\"…민생·제2공항·G20 '승부... - jejunews.com",
+    "link": "http://www.jejunews.com/news/articleView.html?idxno=2227905",
+    "description": "침체된 건설경기에 일감을 공급하기 위해 공공 부문 125개 사업, 440억원 규모를 조기 발주했다. 오는 10월 전국체전은 지역 소비를 끌어올리는 계기로 활용하겠다. 경기장을 방문해 인증한 참가자 3만명에게 탐나는전...",
+    "published_at": "2026-09-23T06:48:00+09:00",
+    "cluster_id": "c1bf",
+    "publisher": "jejunews.com",
+    "title_clean": "[창간 81주년] 제주지사 \"성과로 평가받겠다\"…민생·제2공항·G20 '승부...",
+    "summary": "제주지사가 침체된 건설경기 활성화를 위해 공공 부문 125개 사업 440억원 규모를 조기 발주하기로 했다. 10월 전국체전 등을 통해 지역 소비와 건설 수요를 촉진하는 정책을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T06:59:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32286,22 +32302,6 @@
     "publisher": "daejonilbo.com",
     "title_clean": "[속보] '74명 사상' 안전공업 화재…손주환 대표 등 13명 검찰 송치",
     "summary": "대전의 안전공업 화재사고(74명 사상)와 관련해 손주환 대표 등 13명이 업무상과실치사상, 소방시설법 위반 등의 혐의로 검찰에 불구속 송치됐다. 건설업계의 안전 관리 부실 문제가 다시 도마에 오르며 규제 강화 압박이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T10:54:21+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "경찰, '74명 사망' 안전공업 화재 책임 대표이사 등 13명 검찰 송치 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026091710323283809",
-    "description": "불법 증축된 휴게공간 공사를 맡은 건설업체 관계자에게는 건설산업기본법 위반 혐의가 적용됐다. 경찰은 화재 당시 초기 대응에도 문제가 있었던 것으로 조사됐다고 밝혔다. 공장 관계자가 소방 수신기 작동 직후...",
-    "published_at": "2026-09-17T10:33:00+09:00",
-    "cluster_id": "31e9",
-    "publisher": "imaeil.com",
-    "title_clean": "경찰, '74명 사망' 안전공업 화재 책임 대표이사 등 13명 검찰 송치",
-    "summary": "경찰이 안전공업 화재(74명 사망) 책임자 13명을 검찰 송치했으며, 불법 증축 공사와 초기 대응 부실이 적발됐다. 건설업체에는 건설산업기본법 위반 혐의가 적용됐다.",
     "sentiment": "negative",
     "collected_at": "2026-09-17T10:54:21+09:00",
     "importance": 4
