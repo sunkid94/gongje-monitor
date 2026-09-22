@@ -21284,6 +21284,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "춘천시, 건설경기 활성화 대책 추진…지역업체 일감 확대 - 신아일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1abEZTQnZoVVV5aVhyOW5iNGNnTkIyd01feGc1dzRjRWJSUXB6TExyallBOVptUHVvSGVsb1oyWFh5UklzaEg1bW1hVGE3Y0M0VnloVGFYSkw5dXpibGdwV1RQMnBXd3pTcTdpNXN3Rng?oc=5",
+    "description": "강원 춘천시가 건설경기 침체에 대응해 공공사업 분리 발주와 지역업체 참여 확대 등을 담은 건설경기 활성화 대책을 추진한다.22일 춘천시에 따르면 지역업체 수의계약",
+    "published_at": "2026-09-22T10:15:38+09:00",
+    "cluster_id": "29a9",
+    "publisher": "신아일보",
+    "title_clean": "춘천시, 건설경기 활성화 대책 추진…지역업체 일감 확대",
+    "summary": "춘천시가 건설경기 침체 대응을 위해 공공사업 분리 발주와 지역업체 참여 확대 등의 활성화 대책을 추진 중이다. 지역 건설업체의 수의계약 기회 확대를 통해 일감 창출을 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T10:25:11+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "반도건설, 8년 연속 중대재해 ZERO 도전…무재해 100일 운동 실시 - 아주경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTkQ3azJ1WGc5aVBlT2pwZjNETVg2WF93WUEtOVRwVmRQckVmbEtwY3VLSkNCaTNTWjg5c3ZGVE1DcHBKQ2M3Q1VzWUtHQXRQWTl4Q1ZDejJrZ9IBWEFVX3lxTE5lSTI2Tm4tR1VfT2ZtSW5uRWs4dHVlbVREZVROWFBjQWFRNTNmN2ZHTmsxVU1DbGtGUGdSQkF0d1VZUnJJNlZjVFktYmFmd1VvUDJ2T2p5RVU?oc=5",
+    "description": "반도건설이 8년 연속 중대재해 ‘제로’ 달성을 목표로 전사적 안전관리 강화에 나섰다. 전국 공사현장을 대상으로 ‘무재해 100일 ...",
+    "published_at": "2026-09-22T10:15:02+09:00",
+    "cluster_id": "7a45",
+    "publisher": "아주경제",
+    "title_clean": "반도건설, 8년 연속 중대재해 ZERO 도전…무재해 100일 운동 실시",
+    "summary": "반도건설이 8년 연속 중대재해 제로 달성을 목표로 전사적 안전관리를 강화하고 무재해 100일 운동을 실시하고 있다. 건설업계의 안전 문화 개선과 근로자 보호 강화를 위한 기업의 자발적 노력이 이루어지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T10:25:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32274,37 +32306,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-16T07:06:38+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[패트롤] 구미시-문경시 - ekn.kr",
-    "link": "https://www.ekn.kr/web/view.php?key=20260916026535161",
-    "description": "시공을 맡은 삼성물산은 데이터센터의 적기 시공을 약속하는 한편, 지역의 우수 건설업체가 사업에 참여할 수 있는 기회를 확대해 대규모 투자가 구미지역 건설경기에도 실질적인 효과를 낼 수 있도록 협력하겠다는...",
-    "published_at": "2026-09-16T06:50:00+09:00",
-    "cluster_id": "de3f",
-    "publisher": "ekn.kr",
-    "title_clean": "[패트롤] 구미시-문경시",
-    "summary": "삼성물산이 구미-문경 데이터센터 시공을 맡아 적기 완공을 약속하고, 지역 우수 건설업체의 참여 기회를 확대하겠다고 밝혔다. 대규모 투자를 통해 지역 건설경기 활성화에 기여할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T07:06:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "관악구, 8년 연속 지방재정 신속집행 우수기관 선정…“서울시 자치구 ... - munhwa.com",
-    "link": "https://www.munhwa.com/article/11617285?ref=naver",
-    "description": "구는 어려운 경제 여건 속에서도 지역경제에 활력을 불어넣기 위해 지역 일자리 창출과 생활 기반 시설(SOC) 사업에 대한 선제적 투자, 중소상공인 지원 확대, 지역 건설경기 활성화 등에 중점을 두고 적극적인...",
-    "published_at": "2026-09-16T06:44:00+09:00",
-    "cluster_id": "1d53",
-    "publisher": "munhwa.com",
-    "title_clean": "관악구, 8년 연속 지방재정 신속집행 우수기관 선정…“서울시 자치구 ...",
-    "summary": "관악구가 8년 연속 지방재정 신속집행 우수기관으로 선정되었으며, 지역경제 활성화를 위해 SOC 사업과 건설경기 활성화에 중점을 두고 투자를 확대하고 있다. 중소상공인 지원 및 일자리 창출을 통해 지역경제에 활력을 불어넣는 정책을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T07:06:38+09:00",
-    "importance": 2
   }
 ]
