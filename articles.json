@@ -21284,6 +21284,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "부동산 불길 잡을까…홍지선 국토부 장관, 주택 공급·서울시 갈등 조율 시험대 - ebn.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55Zl9QZ0M2Vmhqb21Sc3FGVnlvQ0FiTXpqdGowUzJoMTB5R2xKdUFfN19VVWxHSUktVEdGaktiVnFZa2pxU19leWNabWZtSmFfcXlnY1pwY3dES0xwa2dmTFRmSEJ3aUl5?oc=5",
+    "description": "부동산 민심 악화로 국정 지지율에 빨간불이 켜진 가운데 현 정부의 지지율 하락세를 막을 소방수로 홍지선 국토교통부 2차관이 결정됐다. 유엔총회 참석을 위해 미국",
+    "published_at": "2026-09-22T15:55:16+09:00",
+    "cluster_id": "fc47",
+    "publisher": "ebn.co.kr",
+    "title_clean": "부동산 불길 잡을까…홍지선 국토부 장관, 주택 공급·서울시 갈등 조율 시험대",
+    "summary": "부동산 민심 악화로 정부 지지율이 하락하는 가운데 홍지선 국토교통부 2차관이 주택 공급 확대와 서울시와의 갈등 조율을 위해 새로운 정책을 추진할 것으로 보인다. 정부의 부동산 정책 개선이 건설업계 수요 회복으로 이어질 가능성이 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-22T16:30:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32289,22 +32305,6 @@
     "summary": "한국승강기안전공단이 승강기 안전관리에 AI를 도입하면서 지켜야 할 윤리원칙을 선포했다. 인공지능 기본법 시행에 맞춰 안전·신뢰 중심의 책임 있는 AI 활용 기준을 명확히 하기 위한 조치다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-16T16:50:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "LH, 추석 앞두고 건설현장 공사대금 5916억원 조기 지급 - koreaittimes.com",
-    "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157248",
-    "description": "시정 요구에도 불응하는 경우에는 건설산업기본법과 하도급법 등 관계 법령 위반 사항을 고용노동청과 지방자치단체 등 관계 기관에 통보해 처분을 요청할 예정이다. 대금이 현장에 더 빨리 전달될 수 있도록 지급...",
-    "published_at": "2026-09-16T16:28:00+09:00",
-    "cluster_id": "2957",
-    "publisher": "koreaittimes.com",
-    "title_clean": "LH, 추석 앞두고 건설현장 공사대금 5916억원 조기 지급",
-    "summary": "LH가 추석을 앞두고 건설현장에 5916억원의 공사대금을 조기 지급한다. 기한 내 지급하지 않는 시공사에 대해서는 건설산업기본법, 하도급법 등 위반사항을 관계기관에 통보하여 처분을 요청할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T16:47:28+09:00",
     "importance": 2
   }
 ]
