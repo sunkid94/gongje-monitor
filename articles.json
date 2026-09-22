@@ -21284,6 +21284,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "AI 데이터센터 공기 줄인다…현대건설, 포항에 40㎿ 센터 구축 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37355",
+    "description": "현대건설이 포항에 수전 용량 40㎿ 규모의 인공지능(AI) 전용 데이터센터를 짓는다. 엔비디아 ‘베라 루빈(Vera Rubin)’ 기반 GPU 서버에 대응하고 수랭식 냉각시스템을 적용한다. 전체 공사 기간은 16.5개월이다. 콘크리트 구조체에 PC(Precast Concrete) 공법을 전면 적용해 기존 현장 타설 방식으로 약 1년 걸리는 골조공사를 2개월로 줄일 계획이다.현대건설은 에이아이팩토리포항피에프브이(AI Factory Pohang PFV)가 발주한 ‘포항 AI 데이터센터 신축공사’ 본계약을 마치고 PC 설치에 들어갔다.데",
+    "published_at": "2026-09-21T15:10:00+09:00",
+    "cluster_id": "1cb8",
+    "publisher": "한국건설신문",
+    "title_clean": "AI 데이터센터 공기 줄인다…현대건설, 포항에 40㎿ 센터 구축",
+    "summary": "현대건설이 포항에 40㎿ 규모의 AI 전용 데이터센터 공사를 수주했다. PC 공법을 적용해 골조공사 기간을 12개월에서 2개월로 단축하는 혁신적인 시공 방식을 도입한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T12:54:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32290,21 +32306,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-16T10:57:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "관악구, 서울 자치구 유일 8년 연속 지방재정 신속집행 '우수' 선정 - jeonmae.co.kr",
-    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293873",
-    "description": "관악구는 어려운 경제 여건 속에서도 지역경제에 활력을 불어넣기 위해 지역일자리 창출과 생활 기반 시설(SOC) 사업에 대한 선제적 투자, 중소상공인 지원 확대, 지역 건설경기 활성화 등에 중점을 두고 적극적인...",
-    "published_at": "2026-09-16T10:44:00+09:00",
-    "cluster_id": "d573",
-    "publisher": "jeonmae.co.kr",
-    "title_clean": "관악구, 서울 자치구 유일 8년 연속 지방재정 신속집행 '우수' 선정",
-    "summary": "관악구가 지방재정 신속집행에서 8년 연속 우수로 선정되었으며, 지역일자리 창출과 SOC 사업, 건설경기 활성화에 중점을 두고 투자를 확대하고 있다. 이는 지역 건설경기 활성화와 중소건설업체 수주 기회 증대로 이어질 가능성이 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T10:57:33+09:00",
-    "importance": 2
   }
 ]
