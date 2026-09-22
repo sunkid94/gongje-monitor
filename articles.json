@@ -21301,6 +21301,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "제물포구, 철강산업 '산업위기 선제대응지역' 신청 - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=716705",
+    "description": "이번 신청은 건설경기 침체가 이어지는 가운데 미국의 철강 관세 강화와 산업용 전기요금 인상 등이 겹치면서 지역 철강업계의 경영 부담이 커진 데 따른 것이다. '산업위기 선제대응지역'으로 지정될 경우 향후 2년간 지역...",
+    "published_at": "2026-09-22T20:41:00+09:00",
+    "cluster_id": "044d",
+    "publisher": "newstown.co.kr",
+    "title_clean": "제물포구, 철강산업 '산업위기 선제대응지역' 신청",
+    "summary": "제물포구가 철강산업의 경영 악화에 대응하기 위해 '산업위기 선제대응지역' 지정을 신청했다. 건설경기 침체, 미국 철강 관세 강화, 산업용 전기요금 인상 등으로 인한 지역 철강업계의 위기 상황이 배경이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T22:40:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32290,22 +32306,6 @@
     "summary": "LH충북지역본부가 건설현장 안전사고 사례전파 및 안전교육을 개최했다. 최근 발생한 재해사례를 공유하고 현장 근로자의 안전의식 증진을 추진하는 행사이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-17T09:44:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "\"시공 중심 건설산업 한계\"…엔지니어링協, '6대 리셋' 제안 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=419259",
-    "description": "연구진은 개선방안으로 ▲엔지니어링 속성·권리 ▲기능·역할 ▲생산체계 ▲주체별 책임·권한 ▲관련 법... 건설산업기본법과 건설기술진흥법도 시설물 생애주기와 프로젝트 성과 중심으로 개편하고, 발주·계약에서는...",
-    "published_at": "2026-09-17T09:26:00+09:00",
-    "cluster_id": "d11c",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "\"시공 중심 건설산업 한계\"…엔지니어링協, '6대 리셋' 제안",
-    "summary": "건설산업이 시공 중심으로 편중된 구조의 한계를 지적하며 엔지니어링협회가 '6대 리셋'을 제안했다. 엔지니어링의 속성·권리·기능·역할·생산체계·책임·권한 개선과 건설산업기본법 등 관련 법령을 시설물 생애주기와 프로젝트 성과 중심으로 개편할 것을 주장했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T09:34:01+09:00",
     "importance": 2
   }
 ]
