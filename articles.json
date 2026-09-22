@@ -21284,6 +21284,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "GS건설, 건설로봇 적용 ‘사전검증센터’ 마련 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fSkc1amVsem1NNE5ULThoTFFRMGZ6QnVmdFRWcTZWaFFRVjRfLUpINU03VEtzMkVvNTlzLW5rMGdhN25qZjlRNHhXXzlZekdvQ0k2OUZpWFJWVFAyZWV4M2dDN3VoV29xa01ocg?oc=5",
+    "description": "건설현장에 로봇을 도입하기 위한 ‘사전 검증 무대’가 마련됐다.GS건설은 22일 경기 용인 소재 GS건설 기술연구소 내 일부 공간을 리모델링해 신기술과 건설로봇을",
+    "published_at": "2026-09-22T15:41:25+09:00",
+    "cluster_id": "14d8",
+    "publisher": "기계설비신문",
+    "title_clean": "GS건설, 건설로봇 적용 ‘사전검증센터’ 마련",
+    "summary": "GS건설이 경기 용인의 기술연구소 내에 건설로봇 사전검증센터를 마련했다. 신기술과 건설로봇을 실제 현장 투입 전에 검증할 수 있는 환경을 구축해 건설산업의 로봇화를 가속화하려는 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T15:51:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32287,22 +32303,6 @@
     "publisher": "",
     "title_clean": "추석 앞두고 공사대금 풀지만… 하도급·임금까지 닿을까 - the-biz.co.kr",
     "summary": "올해 상반기 건설업 폐업 신고가 2092건으로 전년 동기 대비 19.8% 증가해 12년 만에 최고치를 기록했다. 추석을 앞두고 공사대금은 풀리고 있으나 하도급과 임금 지급까지 미칠지 우려되는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-16T15:47:09+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "모두의건축, 대구경향하우징페어서 50억원 규모 공사 상담…‘지방 건축... - biz.chosun.com",
-    "link": "https://biz.chosun.com/industry/business_info/2026/09/16/GFZE43Q63NEZ7NBU7NDRJBP444/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "대구·경북 건설경기는 올해 들어 수주 감소세가 이어지고 있다. 대구의 올해 1~5월 누계 건설수주액은 3185억원으로 전년 동기보다 78.1% 감소했다. 대구지역 건설업의 3분기 경기전망지수는 36으로 집계됐다. 2분기 대구...",
-    "published_at": "2026-09-16T15:35:00+09:00",
-    "cluster_id": "6433",
-    "publisher": "biz.chosun.com",
-    "title_clean": "모두의건축, 대구경향하우징페어서 50억원 규모 공사 상담…‘지방 건축...",
-    "summary": "모두의건축이 대구경향하우징페어에서 50억원 규모 공사 상담을 진행하고 있다. 그러나 대구·경북 지역 건설경기는 올해 1~5월 수주액이 전년 동기 대비 78.1% 급감하는 등 전반적으로 부진한 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-16T15:47:09+09:00",
     "importance": 4
