@@ -5284,6 +5284,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "토마토시스템, 대우건설 핵심 시스템 웹 표준 전환…제조·건설 공략 확대 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yNWdCZzFucXYyUU13d2ViZlI3X1dIbms1UzREak5MdkJoMkU2UnpoZUktSk9QUVNEeW5VbU5fYUdYZDhjbHhtR0YzTTE0MlAwRUl4NXdR?oc=5",
+    "description": "토마토시스템이 자체 웹 사용자 인터페이스(UI) 기술과 자동 전환 솔루션을 앞세워 제조·건설 분야 레거시 현대화 시장 공략에 속도를 낸다.토마토시스템은 대우건설의 통합공사관리 플랫폼 '바로콘(BAROCON)' UI 전환 사업을 완료하고 시스템을 정식 오픈했다고 22일 밝혔...",
+    "published_at": "2026-09-22T14:23:41+09:00",
+    "cluster_id": "eeeb",
+    "publisher": "지디넷코리아",
+    "title_clean": "토마토시스템, 대우건설 핵심 시스템 웹 표준 전환…제조·건설 공략 확대",
+    "summary": "토마토시스템이 웹 UI 기술과 자동 전환 솔루션으로 대우건설의 통합공사관리 플랫폼 현대화 사업을 완료했다. 제조·건설 분야 레거시 시스템 현대화 시장 공략을 확대 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T14:31:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21263,22 +21279,6 @@
     "publisher": "",
     "title_clean": "[한국 건설, 80년의 기록]⑤ 여전히 세계는 넓고 할 일은 많다…다시 세... - wikileaks-kr.org",
     "summary": "대우건설이 아프리카, 중동, 동유럽, 베트남, 동남아시아 등 해외 건설시장으로 사업 영역을 확장한 역사를 다룬 기사다. 한국 건설업의 80년 기록을 조명하며 대우그룹의 확장경영을 건설 현장에서 뒷받침한 과정을 소개한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-15T09:52:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 전 현장에 'AI 실시간 번역기'…근로자 안전 강화 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=419172",
-    "description": "대우건설이 외국인 근로자의 안전교육 이해도를 높이기 위해 'AI 실시간 번역기'를 국내 전 현장에 확대 적용한다. 대우건설은 스마트 안전교육을 표준화하고 9월부터 AI 실시간 번역기를 전 현장에 적용한다고 15일...",
-    "published_at": "2026-09-15T09:32:00+09:00",
-    "cluster_id": "e18b",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "대우건설, 전 현장에 'AI 실시간 번역기'…근로자 안전 강화",
-    "summary": "대우건설이 외국인 근로자의 안전교육 이해도 향상을 위해 AI 실시간 번역기를 9월부터 전 현장에 확대 적용한다. 스마트 안전교육 표준화를 통해 건설현장의 안전 수준을 강화하는 조치다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-15T09:52:43+09:00",
     "importance": 2
