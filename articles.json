@@ -21284,6 +21284,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대전시의회 산업건설위, 대전오월드 현장 방문… 적자 개선·안전 점검 - 대전일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Mng4U2tWVExrd0RlVndyQmRsQldlQmNYNDlNcjNpTUNwQ3ZTUnNZMk1CQjloaFRSNHdidlNueFdxa0NmN0JEV3JKbmtmRHNMcXFkZ2FaX1dNV0FCcFlrTWEtS2hRaTdhXy1xUTRFSdIBc0FVX3lxTFBidjM3WU5hendid0JIeTlMY0pTcFM2RTN6TnVaNnkyTkp3S3l0RVVueGp3bGplQ1V6TXFiLWNCSlFianJCRzdsdWdUT0xrSS13ZldYaTB4M2pGUnIzajlXcnFsNVM2aWNMcm9CdkFQeDAyQzA?oc=5",
+    "description": "대전시의회 산업건설위원회가 만성 적자와 시설 노후화 등의 문제를 겪고 있는 대전오월드를 찾아 현장 점검을 벌였다.위원회는 21일 오월드를 찾아 대전도시공사로부터 주요 현안 업무보고를 받고 현장 시설 전반을 점검했다.지난 2002년 개장 이후 지역 대표 복합 테마파크로 자리 잡은 오월드는 최근 지속되는 운영수지 적자와 노후시설 유지관리 부담이 늘고 있는 실정이다. 위원회는 도시공사에 수지 개선을 위한 안정적인 운영 방향 마련을 촉구했다.지난 4월 발생했던 늑대 탈출 사건과 관련해 재개장 이후 이행 중인 보강된 안전시설과 사후관리 체계",
+    "published_at": "2026-09-21T18:25:00+09:00",
+    "cluster_id": "2e02",
+    "publisher": "대전일보",
+    "title_clean": "대전시의회 산업건설위, 대전오월드 현장 방문… 적자 개선·안전 점검",
+    "summary": "대전시의회 산업건설위원회가 만성 적자와 노후화 문제를 겪는 대전오월드를 현장 점검하고 수지 개선 방안 마련을 촉구했다. 2002년 개장 이후 지역 대표 테마파크로 자리 잡았으나 운영수지 적자와 시설 유지관리 부담이 증가하는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T11:40:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32288,22 +32304,6 @@
     "title_clean": "LH충북본부, 건설현장 안전사고 예방 교육 개최",
     "summary": "LH충북본부가 건설현장 관계자들을 대상으로 안전사고 예방 교육을 실시했다. 안전사고 사례전파를 통해 현장의 안전관리를 강화하는 교육 행사이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-16T10:37:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대우건설·DL그룹, 한국건설기술연구원과 스타트업 협력 강화·그룹 통합... - wsobi.com",
-    "link": "http://www.wsobi.com/news/articleView.html?idxno=318279",
-    "description": "공동 개최기관인 건설연은 스마트건설 분야 유망 스타트업 발굴과 기술 실증(PoC) 지원금을 통해 참여기업의 기술 검증과 사업화를 지원한다. 대우건설은 지난 5월 말부터 참가 기업을 모집했으며 지난 9월 8일 을지로...",
-    "published_at": "2026-09-16T10:26:00+09:00",
-    "cluster_id": "8832",
-    "publisher": "wsobi.com",
-    "title_clean": "대우건설·DL그룹, 한국건설기술연구원과 스타트업 협력 강화·그룹 통합...",
-    "summary": "대우건설과 DL그룹이 한국건설기술연구원과 함께 스마트건설 분야 스타트업 지원 협력을 강화하고 있다. 기술 실증(PoC) 지원금을 통해 스타트업의 기술 검증과 사업화를 지원하는 프로그램을 운영 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-16T10:37:29+09:00",
     "importance": 2
   }
