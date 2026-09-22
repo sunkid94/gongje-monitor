@@ -21301,6 +21301,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“중대재해 ZERO 8년 위해”···반도건설, ‘무재해 100일 운동’ 개최 - 이뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2czZEOTJ0Z1hka3VHTnhGMndBZnRFMkkwVXQxSXIzLWdnNURKeDZHZjlJeUlqMHhMbW9TdlF2M1Y0cEhwN25GVGt6d1BMeWJ1dkZYN2JyMkJGWWh3aGFHUUFBYV9Dem40XzNZV1JJZ1jSAXRBVV95cUxNc0FieWJsX3NOSDhEdC1Rc0V0S05pYUR4NWozLUEtSGVsMHd0anpkUE9uR1BLdTNvWi1kWHFfejQwR2RuSDB2RHFkZ09VUERjUlQwMVU0VUI2SEcwaGJoX3Z5bS1sdktvYndoRVU3Skc0QVZkcA?oc=5",
+    "description": "[이뉴스투데이 신지원 기자] 반도건설이 7년 연속 중대재해 ZERO 달성에 이어 8년 연속 기록 달성을 위한 전사적 안전관리 강화와 협력사와의 상생경영에 나섰다.반도건설은 전국 공사 현장에서 안전의식을 높이고 재해 예방 활동을 강화하기 위한 ‘무재해 100일 운동’ 선포식을 22일 개",
+    "published_at": "2026-09-22T18:30:54+09:00",
+    "cluster_id": "65ba",
+    "publisher": "이뉴스투데이",
+    "title_clean": "“중대재해 ZERO 8년 위해”···반도건설, ‘무재해 100일 운동’ 개최",
+    "summary": "반도건설이 7년 연속 중대재해 ZERO 달성에 이어 8년 연속 기록을 위해 전사적 안전관리 강화와 협력사 상생경영에 나섰다. 전국 공사 현장에서 안전의식 고취와 재해 예방을 위한 '무재해 100일 운동'을 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-22T18:45:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-17T05:15:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "LH, 추석 전 5916억 공사대금 집행 앞당긴다…체불업체는 제재 강화 - apnews.kr",
-    "link": "https://www.apnews.kr/news/articleView.html?idxno=3051336",
-    "description": "LH는 건설산업기본법과 하도급법 등 관계 법령 위반 사항을 관할 고용노동청과 지방자치단체 등 관계기관에 즉시 통보하고 처분을 요청할 계획이다. 현장 점검도 병행한다. LH는 지난 8월 28일부터 이달 23일까지 전국...",
-    "published_at": "2026-09-17T02:04:00+09:00",
-    "cluster_id": "caa6",
-    "publisher": "apnews.kr",
-    "title_clean": "LH, 추석 전 5916억 공사대금 집행 앞당긴다…체불업체는 제재 강화",
-    "summary": "LH가 추석 전 5916억 원의 공사대금 집행을 앞당기며 건설산업기본법 위반 업체에 대한 제재를 강화한다. 현장 점검을 병행하고 관계기관에 즉시 통보하여 처분을 요청할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T02:16:19+09:00",
-    "importance": 4
   }
 ]
