@@ -21301,6 +21301,22 @@
     "importance": 4
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "반도건설, ‘무재해 100일 운동’ 실시...8년 연속 중대재해 ZERO 도전 - 아시아에이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLcUp4RWZCTkNFV2RXb1F5WV9oRmZkZGZ5U2tDSEZ6OHlmZTVRUlNtZU92MWVrWUJBT3hpeXh1dWxEV1dtcU9zQTRxWVU0aWxDZUdaU1FYRi1weHQxS1p4REQ3Y25PWEUtQ3fSAW5BVV95cUxQTWJpUlBIVnVuYUVMZzRvd1kwUGdhQ1RDZ1Zob3JTR3hSZXgtc3ZjTTQ4aXVnbGpRMXRhR0U1MWJKd1AyWkpvT0NEVDZXVVl3S3lDU25YMVRicUU3ZlVNbzBzTDRrRXJSOGFOX2lXQQ?oc=5",
+    "description": "[아시아에이=김보람 기자] 반도건설은 전국 공사 현장의 안전의식을 높이고 재해 예방 활동을 강화하기 위해 ‘무재해 100일 운동’ 선포식을 개최하고, 협력사와의",
+    "published_at": "2026-09-22T15:33:50+09:00",
+    "cluster_id": "7bbb",
+    "publisher": "아시아에이",
+    "title_clean": "반도건설, ‘무재해 100일 운동’ 실시...8년 연속 중대재해 ZERO 도전",
+    "summary": "반도건설이 '무재해 100일 운동' 선포식을 개최하여 안전의식 고취와 재해 예방을 강화하고 있다. 8년 연속 중대재해 ZERO을 목표로 전국 공사 현장의 안전 관리 활동을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T00:00:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32290,22 +32306,6 @@
     "summary": "대구시의회 건설교통위원장이 건설경기와 주택시장의 균형 발전을 주장하며, 미분양 감소를 위한 공급 조절과 건설업체·근로자 보호 사이의 조화를 강조했다. 공급을 과도하게 제한할 경우 지역 건설업계와 협력업체, 현장 근로자들이 피해를 입을 수 있다고 진단했다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-17T10:13:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "한국AI인테리어공간협회·지비스, AI 인테리어 현장교육…산업 적용 확... - etnews.com",
-    "link": "https://www.etnews.com/20260917000152",
-    "description": "스마트건설교류회 황준호 박사는 AI 인테리어·건축 분야의 최근 기술·시장 흐름과 향후 발전 방향을 발표했다. 미디어플로우 장선연 박사는 실제 인테리어 현장에서 AI를 어떻게 활용할 수 있는지를 주제로 참석자들과...",
-    "published_at": "2026-09-17T09:48:00+09:00",
-    "cluster_id": "5d95",
-    "publisher": "etnews.com",
-    "title_clean": "한국AI인테리어공간협회·지비스, AI 인테리어 현장교육…산업 적용 확...",
-    "summary": "한국AI인테리어공간협회와 지비스가 AI 인테리어 현장교육을 개최하여 업계 종사자들에게 AI 기술 활용법을 교육하고 있다. AI 인테리어·건축 분야의 최신 기술 동향과 실무 적용 사례를 공유함으로써 산업의 디지털 전환을 촉진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T10:04:11+09:00",
     "importance": 2
   }
 ]
