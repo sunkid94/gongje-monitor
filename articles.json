@@ -21301,6 +21301,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "불황에도 인재 영입하는 건설업계…데이터센터·에너지 등 미래 사업 대... - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260922010008441",
+    "description": "공사비 상승과 고금리 여파로 건설경기 침체가 이어지고 있지만 데이터센터·에너지 플랜트 등 성장 사업과 주택 공급 확대에 대비해 미래 사업을 이끌 젊은 인재 확보에 적극 나서는 모습이다.22일 건설업계에 따르면...",
+    "published_at": "2026-09-22T19:00:00+09:00",
+    "cluster_id": "d494",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "불황에도 인재 영입하는 건설업계…데이터센터·에너지 등 미래 사업 대...",
+    "summary": "건설경기 침체 속에서도 업계가 데이터센터, 에너지 플랜트 등 미래 성장 사업과 주택 공급 확대에 대비하여 젊은 인재 확보에 적극 투자하고 있다. 불황 극복과 동시에 차세대 사업 경쟁력 강화를 위한 전략적 움직임이 나타나고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-22T19:10:09+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사설] 수도권 편중 부동산 대책, 지방 이원화 해법 시급하다 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260923.22019007817",
+    "description": "집값이 고공행진하며 활황세를 보이는 수도권과 달리 지방은 부동산·건설경기 한파에서 좀처럼 벗어나지 못하는 형편이다. 이제는 지방 부동산 해법이 별도로 나와야 한다는 목소리가 커진다. 정부의 부동산 대책이...",
+    "published_at": "2026-09-22T18:46:00+09:00",
+    "cluster_id": "bdbe",
+    "publisher": "kookje.co.kr",
+    "title_clean": "[사설] 수도권 편중 부동산 대책, 지방 이원화 해법 시급하다",
+    "summary": "수도권 집값 상승과 달리 지방 부동산·건설경기가 부진을 면치 못하고 있다. 지역별 격차 해소를 위해 지방에 특화된 부동산 대책의 필요성이 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T19:10:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32274,38 +32306,6 @@
     "summary": "홍석화 HL D&I 대표의 경영 아래 영업이익이 500억 원에서 1000억 원대로 2배 증가했으며, 영업이익률도 3%에서 5%로 상승했다. 건설경기 침체 속에서도 수익성 개선을 달성한 경영 성과를 보도하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-17T06:35:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "착공 4분의 1토막…공사비·이자에 무너진 빌라 공급 생태계 [빌라 부활... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2626278",
-    "description": "한국건설산업연구원에 따르면 올해 7월 국내 건설수주는 지난해 같은 달보다 30.6% 감소했다. 건설공사비지수는 138.59로 1년 전보다 5.8% 올랐고 8월 건설기업 경기실사지수(CBSI)는 72.7에 머물렀다. 매입 수요 위축도 빌라...",
-    "published_at": "2026-09-17T06:02:00+09:00",
-    "cluster_id": "b8e1",
-    "publisher": "etoday.co.kr",
-    "title_clean": "착공 4분의 1토막…공사비·이자에 무너진 빌라 공급 생태계 [빌라 부활...",
-    "summary": "건설수주가 전년 대비 30.6% 감소하고 공사비 상승으로 건설업계 경기가 악화되고 있다. 특히 빌라 공급 시장이 공사비와 이자 부담으로 침체되는 상황이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T06:15:29+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "잊었던 빙하의 시간…인간의 일상을 덮쳤다 [남종영의 인간의 그늘에서... - hani.co.kr",
-    "link": "https://www.hani.co.kr/arti/opinion/column/1278185.html",
-    "description": "건설 노동자 세명이 필사적으로 카메라 방향으로 도망친다. 나는 영국 방송 비비시(BBC) 등이 보도한 현장 영상의 이 장면이 빙하 붕괴와 산사태가 일으킨 이번 네팔 대홍수의 가장 상징적인 장면을 포착했다고 생각한다....",
-    "published_at": "2026-09-17T05:02:00+09:00",
-    "cluster_id": "9a82",
-    "publisher": "hani.co.kr",
-    "title_clean": "잊었던 빙하의 시간…인간의 일상을 덮쳤다 [남종영의 인간의 그늘에서...",
-    "summary": "네팔에서 발생한 빙하 붕괴로 인한 대홍수 사태를 다룬 기사. 자연재해로 인한 인명피해와 재난 상황을 보도하고 있으며, 건설업계와의 직접적인 관련성은 제한적.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-17T05:15:58+09:00",
     "importance": 2
   }
 ]
