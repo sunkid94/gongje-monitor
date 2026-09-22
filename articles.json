@@ -21301,6 +21301,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[단독] 엘엔에스운용-우먼건설, PF 금융자문수수료 반환 소송 - 데일리브리프",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91T0I0b2lsR3F6Wk9KOUJMMmpUWUV0aWR0UUp5eVQ3MlFoMHJVNFBqbTNxUnRhMGZ1eElOUnJneUFpa0FTU0JJMllsSkIyR05IRVNFRWRialBwTk1nT0ZZUUNteVlQdFM4Vkh5UzNR?oc=5",
+    "description": "[데일리브리프 황재희 기자] 부동산 대체투자 운용사인 엘엔에스자산운용이 우먼건설로부터 프로젝트파이낸싱(PF) 금융자문수수료 일부를 돌려달라는 소송을 당했다.22일 운용업계에 따르면 우먼건설은 지난달 24일 서울남부지방법원에 엘엔에스자산운용을 포함한 3개 회사를 상대로 부당이득금 반환",
+    "published_at": "2026-09-22T14:53:25+09:00",
+    "cluster_id": "1eb8",
+    "publisher": "데일리브리프",
+    "title_clean": "[단독] 엘엔에스운용-우먼건설, PF 금융자문수수료 반환 소송",
+    "summary": "부동산 대체투자 운용사 엘엔에스자산운용이 우먼건설로부터 PF 금융자문수수료 반환 소송을 당했다. 건설사와 금융자문사 간의 수수료 분쟁으로, PF 시장의 불확실성과 분쟁 증가를 반영하는 사례다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-22T21:10:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32289,22 +32305,6 @@
     "title_clean": "경기도·GH, 추석 앞두고 건설현장 임금체불 막는다 - g-enews.com",
     "summary": "경기도와 경기주택도시공사가 추석을 앞두고 건설현장 임금체불 점검 및 예방체계를 강화한다. 건설노동자와 하도급업체의 임금 지급을 확보하기 위한 관리 조치이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-17T09:14:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "한국기술교육대, 미래유망분야 고졸인력양성으로 학교 현장에 활기를 불... - news.unn.net",
-    "link": "https://news.unn.net/news/articleView.html?idxno=597607",
-    "description": "* 미래유망분야(17개분야): 신소재, 반도체, 스마트제조, 로봇, 스마트건설, 스마트팜, 에너지신산업, 바이오, 미래자동차, 빅데이터, AI, 핀테그, IoT, 드론, SW, AR/VR, 3D프린팅 * 일반 직업계고의 1.8배 이상 높은 취업률(46.1...",
-    "published_at": "2026-09-17T08:54:00+09:00",
-    "cluster_id": "fc4d",
-    "publisher": "news.unn.net",
-    "title_clean": "한국기술교육대, 미래유망분야 고졸인력양성으로 학교 현장에 활기를 불...",
-    "summary": "한국기술교육대가 반도체, 스마트제조, 스마트건설 등 17개 미래유망분야의 고졸인력 양성으로 일반 직업계고 대비 1.8배 이상 높은 취업률을 달성하고 있습니다. 이는 건설·기계설비 분야의 숙련 인력 공급 확대로 업계의 인력난 완화에 긍정적 영향을 미칠 수 있습니다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-17T09:14:16+09:00",
     "importance": 2
   }
