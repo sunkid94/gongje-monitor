@@ -5301,6 +5301,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[프리즘] 네팔 재난, 단순 홍수로 볼 수 없는 이유 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25464238",
+    "description": "현장에는 한국남동발전이 주도하고 두산에너빌리티가 설계·조달·시공을 맡아 추진한 K-컨소시엄 사업인 UT-1 수력발전 사업이 있었다. 이번 재난은 사업 시설에 막대한 피해를 입히는 데 그치지 않고 해외 오지에서...",
+    "published_at": "2026-09-23T00:02:00+09:00",
+    "cluster_id": "255b",
+    "publisher": "joongang.co.kr",
+    "title_clean": "[프리즘] 네팔 재난, 단순 홍수로 볼 수 없는 이유",
+    "summary": "네팔에서 한국남동발전과 두산에너빌리티가 추진 중인 UT-1 수력발전 사업이 재난으로 막대한 피해를 입었다. 해외 건설 사업의 리스크와 재난 대응의 어려움을 드러낸 사건으로, 국내 건설업계의 해외 프로젝트 수행 능력 및 안정성에 대한 우려를 야기한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T00:10:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21283,22 +21299,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-15T13:54:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'시행사에 등기 이전하라' 판결…4000억 강남 빌딩 소유권 분쟁 새국면 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/09/15/2026091501511.html",
-    "description": "당시 시공사인 두산에너빌리티 전무 등이 김 대표가 맡겨 둔 법인인감을 이용해 김 대표 동의 없이 등기를 신청했다는 주장이다. 따라서 이어 이뤄진 한국증권금융·하나은행·우리은행 명의 소유권이전등기 역시...",
-    "published_at": "2026-09-15T13:20:00+09:00",
-    "cluster_id": "4406",
-    "publisher": "realty.chosun.com",
-    "title_clean": "'시행사에 등기 이전하라' 판결…4000억 강남 빌딩 소유권 분쟁 새국면",
-    "summary": "강남 4000억 규모 빌딩 소유권 분쟁에서 법원이 시행사에 등기 이전을 판결했다. 시공사 두산에너빌리티 전무 등이 법인인감을 무단으로 사용해 등기를 신청한 것으로 드러나 건설업계의 부정 이슈로 부각되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T13:34:57+09:00",
-    "importance": 4
   },
   {
     "keyword": "중대재해 건설",
