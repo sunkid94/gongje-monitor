@@ -5556,6 +5556,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[DQN] 주택·정비사업 맞붙는 DL·IPARK현산…매출·수익성은 엇갈렸다 - 한국금융신문",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10SFFVX1RYcDdqMm1iZWZQWXNqOWU5MEVCNmpoTXBENTF6QXhpd0RwRmNPRHVGYld0MFdLaV95UG5ncnpWNnhTTFh2Sk9IcU1tSHN5cEhBWXFUeE9BcWJRekoyZEI4Nm9Sbm1GMUlzaDVqS05SZXpkdmh2a2w?oc=5",
+    "description": "주택과 도시정비사업을 주력으로 하는 DL이앤씨(대표이사 박상신)와 IPARK현대산업개발(대표이사 정경구)이 주요 사업지를 놓고 수주 행보를 이어가고 있다. DL이앤씨는 지난 6월 공사비 1조2868억원 규모의 서울 목동6단지 재건축 사업을 수주했고, IPARK현대산업개발은 지난달 900",
+    "published_at": "2026-09-23T13:42:39+09:00",
+    "cluster_id": "6434",
+    "publisher": "한국금융신문",
+    "title_clean": "[DQN] 주택·정비사업 맞붙는 DL·IPARK현산…매출·수익성은 엇갈렸다",
+    "summary": "DL이앤씨와 IPARK현대산업개발이 주택·정비사업 시장에서 경쟁을 이어가고 있으며, DL이앤씨는 목동6단지 재건축(1조2868억원) 등 대형 프로젝트를 수주하고 있다. 두 회사의 매출과 수익성 추이가 엇갈리고 있는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T13:49:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21535,22 +21551,6 @@
     "publisher": "electimes.com",
     "title_clean": "이유진 靑기후비서관 \"통합 에너지인프라 패키지 전략 필요\"",
     "summary": "청와대 기후비서관이 에너지산업 수출 확대를 위해 통합 에너지인프라 패키지 전략 필요성을 강조했다. 에너지산업 수출 확대에 기여한 건설사 및 에너지 관련 기업 인사들이 표창을 받았다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T16:05:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 태블릿으로 안전교육 관리…AI 번역기 전 현장 적용 - seoultimes.news",
-    "link": "https://www.seoultimes.news/news/article.html?no=2000099910",
-    "description": "6%…외국인 근로자 언어로 화면·음성 전달 9월부터 국내 모든 현장에 번역기 적용…AI CCTV·스마트폰 위치 관제도 추진 [서울타임즈뉴스 = 서연옥 기자] 대우건설은 현장 안전교육 업무를 전산화하고 외국인 근로자의...",
-    "published_at": "2026-09-15T15:45:00+09:00",
-    "cluster_id": "46e1",
-    "publisher": "seoultimes.news",
-    "title_clean": "대우건설, 태블릿으로 안전교육 관리…AI 번역기 전 현장 적용",
-    "summary": "대우건설이 태블릿 기반 안전교육 전산화 시스템을 도입하고, AI 번역기를 9월부터 국내 전 현장에 적용하여 외국인 근로자의 언어 장벽을 해소한다. AI CCTV와 스마트폰 위치 관제 등 스마트 안전관리 시스템도 함께 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-15T16:05:58+09:00",
     "importance": 2
