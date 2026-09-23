@@ -5624,6 +5624,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "미분양 겨우 넘겼더니 미입주…건설사 자금 회수 늦어진다 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260923000930",
+    "description": "HDC현대산업개발, SK에코플랜트, KCC건설, 코오롱글로벌, HL디앤아이한라)의 2024년부터 올해 상반기까지 누적 영업현금 순유출 규모는 5조4000억원에 달했다. 건설사들은 통상 공사대금의 약 30%를 준공 이후 입주...",
+    "published_at": "2026-09-23T16:50:00+09:00",
+    "cluster_id": "3f84",
+    "publisher": "newspim.com",
+    "title_clean": "미분양 겨우 넘겼더니 미입주…건설사 자금 회수 늦어진다",
+    "summary": "주요 건설사들이 미분양 극복 후에도 준공 후 입주 지연으로 인한 공사대금 미수금 문제로 심각한 자금난을 겪고 있다. 5개 건설사의 2024년부터 올해 상반기까지 누적 영업현금 순유출이 5조4000억원에 달하는 등 자금 회수 지연이 업계 전반의 경영 악화로 이어지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T19:54:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21605,22 +21621,6 @@
     "summary": "감나무골 아파트 준공을 앞두고 시공사 포스코이앤씨와 조합 간 사업비 분쟁이 발생했다. 시공사의 유치권 행사로 인한 대규모 입주지연이나 잔금대출 불가 사태 발생 가능성은 낮다는 평가다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-15T18:35:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "거제 조선업 지킨 현장 주역 4명 표창 - pennmike.com",
-    "link": "https://www.pennmike.com/news/articleView.html?idxno=127857",
-    "description": "수상자는 삼성중공업㈜ 인사관리팀에서 근무하는 윤성찬·김송은 노동자와 한화오션㈜ 특수선CM팀 박순복 노동자, 조립1팀 신상기 노동자다. 이들은 조선산업 현장에서 맡은 업무를 성실히 수행하며 생산성과 품질 향상...",
-    "published_at": "2026-09-15T17:50:00+09:00",
-    "cluster_id": "93b3",
-    "publisher": "pennmike.com",
-    "title_clean": "거제 조선업 지킨 현장 주역 4명 표창",
-    "summary": "거제 조선업계의 삼성중공업과 한화오션 소속 4명의 노동자가 현장에서의 성실한 업무 수행과 생산성·품질 향상 기여로 표창을 받았다. 조선산업 현장 인력의 우수 사례를 조명한 훈장 소식이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-15T18:06:21+09:00",
     "importance": 2
   },
   {
