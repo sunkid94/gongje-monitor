@@ -5624,6 +5624,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "목동4단지 재건축 놓고 현대건설·포스코이앤씨 맞대결 이뤄지나 - theguru.co.kr",
+    "link": "https://www.theguru.co.kr/news/article.html?no=107440",
+    "description": "현대건설 유력 속 포스코이앤씨도 수주 검토 평당 공사비 1010만원…연내 총회 목표  서울 양천구 목동4단지가 재건축 시공사 선정 절차에 들어갔다. 목동 일대 사업지 가운데 처음으로 3.3㎡당 공사비 1000만원을...",
+    "published_at": "2026-09-24T00:02:00+09:00",
+    "cluster_id": "91c7",
+    "publisher": "theguru.co.kr",
+    "title_clean": "목동4단지 재건축 놓고 현대건설·포스코이앤씨 맞대결 이뤄지나",
+    "summary": "서울 양천구 목동4단지 재건축 사업에서 현대건설과 포스코이앤씨가 시공사 선정을 놓고 경쟁 중이며, 평당 공사비 1010만원으로 책정되었다. 연내 총회 개최를 목표로 진행 중인 대규모 재건축 프로젝트이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-24T00:14:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21606,22 +21622,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-15T19:06:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 '스마트 안전교육 표준화' 도입...건설안전 DX 박차 - popcornnews.net",
-    "link": "http://www.popcornnews.net/news/articleView.html?idxno=133058",
-    "description": "대우건설이 안전교육 데이터 전산화 및 외국인 근로자 교육 이해도 향상을 위해 '스마트 안전교육' 및 'AI 실시간 번역기'의 전 현장 표준화 시행에 나선다. 대우건설은 현장 근로자의 신규 및 정기 안전교육을 태블릿 PC...",
-    "published_at": "2026-09-15T18:38:00+09:00",
-    "cluster_id": "f66d",
-    "publisher": "popcornnews.net",
-    "title_clean": "대우건설 '스마트 안전교육 표준화' 도입...건설안전 DX 박차",
-    "summary": "대우건설이 스마트 안전교육과 AI 실시간 번역기를 전 현장에 표준화하여 안전교육 데이터 전산화 및 외국인 근로자 교육 이해도를 향상시킨다. 건설업의 디지털 혁신을 통해 안전관리 체계를 고도화하려는 시도다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-15T18:55:53+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
