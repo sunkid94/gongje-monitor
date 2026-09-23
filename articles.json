@@ -21607,6 +21607,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한수원, 추석 앞두고 원전 건설현장 '긴급 점검'···신한울2 안전관리 집중 - 스마트비즈",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BYlpyam5oRndCMHRnbU9jTzNDUjNZcXdSUjJZWER4YWJyTHNoaXFVcnRvN1VDNDNmdEZGVTA0UWo3YkJmMGFfXzV2VVFIeG1xdl9NVDN4Q0lrY2FMV0o3YWlXSnlEQjlSSnJsRQ?oc=5",
+    "description": "| 스마트비즈 = 최형호 기자 | 추석 연휴를 앞두고 원전 건설과 발전 현장의 안전관리에 대한 긴장감이 높아지고 있다. 여러 공정이 동시에 진행되는 원전 건설현장",
+    "published_at": "2026-09-23T16:12:46+09:00",
+    "cluster_id": "a426",
+    "publisher": "스마트비즈",
+    "title_clean": "한수원, 추석 앞두고 원전 건설현장 '긴급 점검'···신한울2 안전관리 집중",
+    "summary": "한수원이 추석 연휴를 앞두고 원전 건설 및 발전 현장에 대한 긴급 안전점검을 실시하고 있으며, 신한울2 원전 건설현장의 안전관리에 집중하고 있다. 여러 공정이 동시에 진행되는 원전 건설현장의 안전 강화 노력이 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-23T18:44:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32306,22 +32322,6 @@
     "publisher": "경기in",
     "title_clean": "[경기in] 경기도-GH, 추석 앞두고 고양시 건설현장 임금체불 예방대책 점검",
     "summary": "경기도와 GH가 추석 앞두고 고양시 건설현장의 임금체불 예방을 위해 점검을 실시했다. 임금체불 예방 T/F를 통해 건설현장의 근로자 임금 보호 조치를 강화하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "PF 지원 기대에 사업전망 반등…분양·입주는 뒷걸음 - wolyo.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wWW0tT19yY3llQ2JTWHloMWRBbUNpVzNUd1Fmd1RrQXo2N0pwczQwbkJxTHY5blpFaldLLUo4c1YweTl4MFZaTm5jT1otWk5RNDd4VDRDUTdYbUx6d1JIUWoyRjBOY2FnY0E?oc=5",
-    "description": "정부의 8·13 부동산 금융대책 이후 서울 주택사업경기 전망은 반등했지만 분양과 입주 전망은 나란히 낮아졌다. 프로젝트파이낸싱(PF) 보증과 자금공급 확대에 대한",
-    "published_at": "2026-09-16T23:09:33+09:00",
-    "cluster_id": "6eb6",
-    "publisher": "wolyo.co.kr",
-    "title_clean": "PF 지원 기대에 사업전망 반등…분양·입주는 뒷걸음",
-    "summary": "정부의 8·13 부동산 금융대책으로 PF 지원에 대한 기대감이 높아져 서울 주택사업 전망이 반등했다. 다만 실제 분양과 입주 전망은 오히려 낮아지면서 시장 회복이 제한적인 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-17T18:56:06+09:00",
     "importance": 2
