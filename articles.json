@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설업 산재 사망 비중 48.8%...박해철 의원, '위험의 외주화' 지적 - 경인매일",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kM3IxOG1nMnRlVXUyTl8tUk5uRzVLT3Qyb2c0b0tNTDhkS3R6NjFPb2FPWDA2dVZkU200M0hRX1M0b0hmRDZ4QkZKTDl2UXR6ZzJKVWZIN0NyWWhwRFhNX0E1a1VHMWF1?oc=5",
+    "description": "중대재해처벌법 시행 이후 발생한 재해조사 대상 사망사고를 분석한 결과, 대형 사업장에서는 사망자의 70% 이상이 하청업체 노동자였다는 국회 분석이 나왔다. 소규모",
+    "published_at": "2026-09-23T18:09:20+09:00",
+    "cluster_id": "590c",
+    "publisher": "경인매일",
+    "title_clean": "건설업 산재 사망 비중 48.8%...박해철 의원, '위험의 외주화' 지적",
+    "summary": "중대재해처벌법 시행 이후 건설업 산재 사망이 전체의 48.8%를 차지하고 있으며, 대형 사업장에서 하청업체 노동자 사망이 70% 이상을 기록하고 있다. 박해철 의원은 이를 '위험의 외주화' 문제로 지적하며 업계의 안전관리 체계 개선 필요성을 제기했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T23:39:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-17T19:30:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남포조선소에 해군력 강화 위한 당면 과업 제시…현장선 한숨 나와 - dailynk.com",
-    "link": "https://www.dailynk.com/20260917-6",
-    "description": "그런가 하면 소식통은 “항만 확장 공사에 밤낮없이 내몰리며 가혹한 노동에 시달리는 항만 건설 노동자들 속에서도 ‘군사적 야심을 채우기 위해 무리한 공사가 또다시 반복되고 있다’는 불만이 암암리에 번져나가는...",
-    "published_at": "2026-09-17T18:22:00+09:00",
-    "cluster_id": "f479",
-    "publisher": "dailynk.com",
-    "title_clean": "남포조선소에 해군력 강화 위한 당면 과업 제시…현장선 한숨 나와",
-    "summary": "북한 남포조선소의 해군력 강화 프로젝트로 항만 확장 공사가 진행 중이며, 건설 노동자들 사이에서 무리한 공사 진행에 대한 불만이 확산되고 있다. 가혹한 노동 환경과 군사적 목표 달성을 위한 과도한 프로젝트 추진에 대한 현장의 불평이 나타나고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 4
   }
 ]
