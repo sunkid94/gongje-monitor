@@ -21556,6 +21556,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "광명시 모듈러 공공건축물 전국 최초 제로에너지건축물 플러스 등급 취득 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ucE9faTg5UzBEQ0Y4am05eEo2WkhnektMU3VZZi1NTkZNNFR0aDdxSXJQbTNXVWx0SG0tbFk0TUVuNHJ0S3A1ZHQ3QjlDM3F4bW1kdVRnMERCZml1dmRZbVZodDRDLXNQWXpLdUFrOA?oc=5",
+    "description": "광명시(시장 박승원)는 하안동에 조성 중인 ‘광명 에너지 자립 주민편의시설’이 제로에너지건축물(ZEB) 플러스(+) 등급 예비인증을 취득했다고 23일 밝혔다.콘크",
+    "published_at": "2026-09-23T11:06:08+09:00",
+    "cluster_id": "a28d",
+    "publisher": "오토투데이",
+    "title_clean": "광명시 모듈러 공공건축물 전국 최초 제로에너지건축물 플러스 등급 취득",
+    "summary": "광명시가 하안동에 조성 중인 '광명 에너지 자립 주민편의시설'이 모듈러 공공건축물 중 전국 최초로 제로에너지건축물(ZEB) 플러스 등급 예비인증을 취득했다. 이는 에너지 효율성과 친환경 건설 기준 강화로 인한 건설 수요 증가를 시사한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T13:24:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32306,21 +32322,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-17T17:43:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "평택 ‘인터컨티넨탈호텔’ 건립 속도…CJ대한통운 우선협상대상자 선... - kyeonggi.com",
-    "link": "https://www.kyeonggi.com/article/20260917580470",
-    "description": "사업 참여 구성단 관계자는 “건설경기 침체 등으로 시공 부문 우선협상대상자 선정이 지연됐지만 이번 선정을 통해 건설 관련 협의를 구체화할 수 있는 기반이 마련됐다”며 “사업 참여 주체들이 긴밀하게 협의해...",
-    "published_at": "2026-09-17T16:55:00+09:00",
-    "cluster_id": "5b7f",
-    "publisher": "kyeonggi.com",
-    "title_clean": "평택 ‘인터컨티넨탈호텔’ 건립 속도…CJ대한통운 우선협상대상자 선...",
-    "summary": "평택 인터컨티넨탈호텔 건립 사업에서 CJ대한통운이 시공 우선협상대상자로 선정됐다. 건설경기 침체로 지연되던 협상이 진행되면서 건설 관련 협의의 기반이 마련된 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T17:03:35+09:00",
-    "importance": 2
   }
 ]
