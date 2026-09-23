@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "서울시 \"GTX-A 삼성역 기둥 보강, 늦어질수록 어려워져…국토부 조속히 결정해야\" - 프리진경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQ2tmd19uVGRpcUU2ekhZa1ozYmpLeE4zOG9zY2tMMm1PZUVqNVdBOE4zdzJtTkZ2dFJIXzBHZy1SS2NjM0hVZk9pdkJwSlltbG1ZRV9iM0lDMFdzd1drNHZGM0VjNzg2UXZsZw?oc=5",
+    "description": "서울시가 영동대로 지하공간 복합개발 3공구의 '철근 누락' 기둥에 대한 보강 공법을 조속히 확정해 달라고 국토교통부에 공식 요청했다고 23일 밝혔다.현재 구조물 안전성에는 이상이 없지만, 상부 공사가 진행될수록 보강 효과가 떨어져 공사 지연과 추가 비용 부담이 커질 수 있다는 우려에",
+    "published_at": "2026-09-23T17:42:26+09:00",
+    "cluster_id": "32be",
+    "publisher": "프리진경제",
+    "title_clean": "서울시 \"GTX-A 삼성역 기둥 보강, 늦어질수록 어려워져…국토부 조속히 결정해야\"",
+    "summary": "서울시가 GTX-A 삼성역 지하공간 복합개발 사업의 철근 누락 기둥 보강 공법 확정을 국토부에 요청했다. 현재는 구조물 안전성에 이상이 없으나, 상부 공사 진행에 따라 보강 효과가 저하되어 공사 지연과 추가 비용 부담 우려가 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T19:29:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-17T18:56:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도·GH, 추석 앞두고 건설현장 임금체불 막는다 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjR0U1Jnck1TNE5XZHNiQzUtT1ljNWpDczRna1FRemlkRG03dVRrSGJPRjR3SUQ1NkZwMjFtQXBoQ0xZSGY0Vk5GS3pwVURUbGVZaUJzYTNjcGYzMkVLSEJVX3o5WmFnamxaQ1k3OWhiZ1NSOE9wYk9xank1ZU1KTWM0VFhSdHljRVR3?oc=5",
-    "description": "경기도와 경기주택도시공사(GH)가 추석을 앞둔 16일 건설노동자와 하도급업체 등이 일한 대가를 제때 받을 수 있도록 건설현장 임금체불 점검과 예방체계 강화에 나섰다.도와 GH는 이날 고양 일산테크노밸리 조성공사 현장을 찾아 건설노동자 임금 지급 실태와 체불 여부를 살폈다. 점검 결과 임",
-    "published_at": "2026-09-17T08:49:27+09:00",
-    "cluster_id": "ca60",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "경기도·GH, 추석 앞두고 건설현장 임금체불 막는다",
-    "summary": "경기도와 경기주택도시공사(GH)가 추석 연휴를 앞두고 건설현장 임금체불 점검 및 예방체계를 강화하고 있다. 고양 일산테크노밸리 조성공사 현장 등을 방문하여 건설노동자와 하도급업체의 임금 지급 실태를 확인하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 3
   }
 ]
