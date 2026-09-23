@@ -5624,6 +5624,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "조선 호황에 기술 국가대표가 경쟁력…HD현대重·삼성重 인재 육성전 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20260923000689",
+    "description": "HD현대중공업과 삼성중공업은 국제기능올림픽 출신 인재와 사내 지도인력을 활용해 후배 기술자를 양성하고 있다. 선수 육성과 국제대회 출전 경험을 생산 현장과 후배 교육으로 다시 연결하는 구조를 만들면서...",
+    "published_at": "2026-09-24T07:24:00+09:00",
+    "cluster_id": "b578",
+    "publisher": "newspim.com",
+    "title_clean": "조선 호황에 기술 국가대표가 경쟁력…HD현대重·삼성重 인재 육성전",
+    "summary": "조선 호황에 따른 수주 증가로 HD현대중공업과 삼성중공업이 국제기능올림픽 출신 인재와 사내 지도인력을 활용해 후배 기술자를 체계적으로 육성하고 있다. 선수 양성 경험을 생산 현장과 교육으로 연결하는 인재 개발 전략으로 업계 경쟁력을 강화 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-24T07:29:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21606,22 +21622,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-15T19:56:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "트리슐리강 - danbinews.com",
-    "link": "https://www.danbinews.com/news/articleView.html?idxno=33685",
-    "description": "한국인 근로자들이 실종된 곳은 어퍼트리슐리-1 수력발전소 건설 현장으로 발전소 건설을 위해 파견된 두산에너빌리티 소속 직원 6명과 한국남동발전 소속 직원 3명이다. 정부는 임상우 공공외교대사 겸 재외국민보호...",
-    "published_at": "2026-09-15T19:28:00+09:00",
-    "cluster_id": "b0d0",
-    "publisher": "danbinews.com",
-    "title_clean": "트리슐리강",
-    "summary": "인도의 어퍼트리슐리-1 수력발전소 건설 현장에서 한국인 근로자 9명(두산에너빌리티 6명, 한국남동발전 3명)이 실종되었다. 정부가 임상우 공공외교대사를 중심으로 재외국민보호에 나서고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T19:45:52+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
