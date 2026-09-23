@@ -21590,6 +21590,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "승강기안전공단, AI 안전관리 본격화…기술기업 5곳과 협약 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50275",
+    "description": "[건설이코노미뉴스] 한국승강기안전공단(이사장 고성균)이 AI와 IoT 기술을 활용한 승강기 안전관리 서비스 확대에 나선다.공단은 지난 21일 AI 기술을 활용한 승강기 안전관리 서비스 확대를 위해 AI 기술기업 5개사와 업무협약을 체결했다고 최근 밝혔다.이번 협약에는 ㈜테트라, ㈜디지탈허브, ㈜라플라스시스템, ㈜엔에스솔루션, ㈜서연씨지엔디가 참여했다.공단과 참여기업들은 각 기업이 보유한 AI 기술과 서비스를 승강기 안전관리에 활용해 승강기 사고를 예방하고, 사고나 고장 발생 시 신속하게 대응할 수 있는 체계를 구축하는 데 상호 협력",
+    "published_at": "2026-09-23T16:07:50+09:00",
+    "cluster_id": "eea5",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "승강기안전공단, AI 안전관리 본격화…기술기업 5곳과 협약",
+    "summary": "한국승강기안전공단이 AI·IoT 기술 기업 5곳과 업무협약을 체결하며 AI 기반 승강기 안전관리 서비스 확대에 나선다. 승강기 사고 예방 및 신속한 대응 체계 구축을 통해 안전관리 고도화를 추진할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T16:10:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32306,22 +32322,6 @@
     "title_clean": "하남시의회 정병용 의장, 교산 A2 일일현장점검… “안전 최우선, 계획대로 차질 없이 추진돼야”",
     "summary": "하남시의회 정병용 의장이 하남교산 A2블록 건설현장을 점검하여 안전 최우선과 계획 차질 없는 추진을 당부했다. 교산신도시 조성사업의 철저한 현장관리를 강조한 공식 감시 활동이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "교산신도시 A2 현장 찾은 정병용 하남시의장…“안전 최우선·공기 준수” - 인천일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XWExBSk9lVXJXZkR0T205M0xfTjRXcm03VTd4ZVVQcl9udE5lcFZwak9sT2dQejNiUGhZTUczWmRKT1lNWFRiZVpaNl91S0JCQ1M2b3NnWEFFblpQUmFoU29tRVp2TGtmMXhEWldOaGk?oc=5",
-    "description": "하남교산 A2블록 공사 과정에서 지역 건설업체와 장비업체의 참여 분야를 발굴해 실질적인 참여로 이어지도록 협조가 필요하다.하남시의회 정병용 의장이 하남 교산신도시 A2블록 건설 현장을 찾아 일일 현장점검을 진행했다고 17일 밝혔다.",
-    "published_at": "2026-09-17T15:42:00+09:00",
-    "cluster_id": "4b77",
-    "publisher": "인천일보",
-    "title_clean": "교산신도시 A2 현장 찾은 정병용 하남시의장…“안전 최우선·공기 준수”",
-    "summary": "하남시의회 정병용 의장이 교산신도시 A2블록 건설 현장을 점검하고 지역 건설업체와 장비업체의 실질적 참여 확대를 협조하기로 했다. 안전 최우선과 공기 준수를 강조하며 현장 관리를 다짐했다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-17T18:56:06+09:00",
     "importance": 2
   }
