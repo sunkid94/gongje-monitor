@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도의회 조병진 의원, (가칭)훈민고등학교 건설 현장 점검 - mediatoday.asia",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJlR0cxcHdLWTBpOFVvVzhveXltYVpUc2ViRHQ2Um84cWFibi1pXzM4ak8tYXJrM1E3RVpGSG5FUEpuN25vZF9lT1laUFZNODJCQzJEdjBqeHM5OWpnS0M2OWhDLTVjTm9fYWY3Q3VfeFZVX2pINTFsbDEzZWc5TjB3dVFWRTlKNDUwN3dhMHdrNnlIZnUxMw?oc=5",
+    "description": "경기도의회 조병진 의원, (가칭)훈민고등학교 건설 현장 점검 [미디어투데이=안상일 기자] 경기도의회 교육기획위원회 조병진 의원(더불어민주당, 의정",
+    "published_at": "2026-09-23T15:14:00+09:00",
+    "cluster_id": "b8b8",
+    "publisher": "mediatoday.asia",
+    "title_clean": "경기도의회 조병진 의원, (가칭)훈민고등학교 건설 현장 점검",
+    "summary": "경기도의회 조병진 의원이 (가칭)훈민고등학교 건설 현장을 점검했습니다. 공교육 기반 시설 확충을 위한 학교 건설 프로젝트 진행 상황을 확인하는 행정 활동입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-23T23:09:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-17T18:56:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[포토] 아시아건설종합대상 참석한 김이탁 국토교통부 제1차관 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRjB5dFg0MzluV092bklGTzI4NlNFMXRZM0RBMjNmb1dpalZYWG8yREY2RWZNTi01OHFabUpLeVE5RXpHNkxER1AxWWk3NFBxd0lfZThWZ2VBMDNaeDRqMw?oc=5",
-    "description": "김이탁 국토교통부 제1차관이 17일 서울 중구 프레스센터에서 열린 ‘제21회 아시아건설종합대상’에 참석해 축사 하고 있다.",
-    "published_at": "2026-09-17T16:52:16+09:00",
-    "cluster_id": "9ee1",
-    "publisher": "아시아경제",
-    "title_clean": "[포토] 아시아건설종합대상 참석한 김이탁 국토교통부 제1차관",
-    "summary": "김이탁 국토교통부 제1차관이 제21회 아시아건설종합대상에 참석하여 축사를 진행했다. 정부 고위 관계자의 행사 참석으로 건설업계에 대한 관심과 지원을 표현하는 의례적 행사이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 2
   }
 ]
