@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한수원, 추석 앞두고 원전·수력 현장 안전점검 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EQlJqUG52U01qamtXWHYtcTllTzV6QTZjaUdCZ201UENkTFJRQTdMTnFBUVFaV3VpSmEzVkYxaHNUY0Z1VVlmWE5RRVVSdE0td1plZFU2Mnh3NmJYRExkQjBoMA?oc=5",
+    "description": "[국토일보 조성구 기자] 한국수력원자력이 추석 연휴를 앞두고 원전 건설 현장과 수력발전소를 잇따라 찾아 주요 시설과 작업 현장의 안전관리 태세를 점검했다.한수원은 김회천 사장이 지난 22일 한울원자력본부 신한울2건설소를 찾아 주요 공정과 작업 현황을 확인했다고 밝혔다.김 사장은 이상준 비상임이사와 함께 여러 공정이 동시에 진행되는 건설 현장의 위험요인을 살피고 안전 조치 이행 상태와 연휴 기간 비상대응체계를 점검했다.이어 스마트관제센터를 방문해 스마트 기술을 활용한 건설 현장 안전관리 현황과 관제 체계 운영 실태를 확인했다.실시간",
+    "published_at": "2026-09-23T17:00:00+09:00",
+    "cluster_id": "b2a8",
+    "publisher": "국토일보",
+    "title_clean": "한수원, 추석 앞두고 원전·수력 현장 안전점검",
+    "summary": "한수원이 추석 연휴를 앞두고 원전 건설 현장과 수력발전소에 대한 안전점검을 실시했다. 신한울2 건설소에서 진행 중인 다중 공정의 위험요인을 파악하고 비상대응체계를 확인했으며, 스마트관제센터를 통한 첨단 안전관리 시스템을 점검했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-24T07:59:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-17T20:40:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산항 여객시설·공사장, 추석 앞두고 안전점검 - 중도일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VT05QRDM2OHdiR2NxbUJCa3dKblJITGlDdzRBMHBVdXlJTjJlYWhwTDE1bEFCTnVhTjFPRVhHUkowUzJTS29kS1djZ2x1c0JORnhxTHJxYkhEalYzS3F1TTFuTlc?oc=5",
-    "description": "부산항만공사가 추석 연휴 이용객 증가와 현장 안전관리 공백에 대비해 부산항 주요 시설을 점검하고 있다. 공사는 9월 11일부터 18일까지 여객시설과 친수공간, 소규모 건설현장을 대..",
-    "published_at": "2026-09-17T16:57:03+09:00",
-    "cluster_id": "5b2d",
-    "publisher": "중도일보",
-    "title_clean": "부산항 여객시설·공사장, 추석 앞두고 안전점검",
-    "summary": "부산항만공사가 추석 연휴 대비 여객시설과 건설현장에 대한 안전점검을 실시하고 있다. 9월 11일부터 18일까지 주요 시설과 소규모 건설현장의 안전관리를 강화하는 예방적 조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-17T20:40:15+09:00",
-    "importance": 2
   }
 ]
