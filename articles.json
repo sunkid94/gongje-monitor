@@ -5607,6 +5607,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "국감 앞둔 건설업계, 중대재해 후속조치 시험대 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=350786",
+    "description": "오는 10월 국정감사를 앞두고 현대엔지니어링과 DL이앤씨, 포스코이앤씨 등 주요 건설사의 안전관리 체계가 다시 주목받고 있다. 특히 사고 이후 재발방지 대책이 실제 현장에서 작동하고 있는지가 관심사로 떠오르고...",
+    "published_at": "2026-09-23T17:18:00+09:00",
+    "cluster_id": "99c8",
+    "publisher": "greened.kr",
+    "title_clean": "국감 앞둔 건설업계, 중대재해 후속조치 시험대",
+    "summary": "국정감사를 앞두고 건설업계의 안전관리 체계가 점검 대상이 되고 있다. 현대엔지니어링, DL이앤씨, 포스코이앤씨 등 주요 건설사들이 중대재해 이후 재발방지 대책의 실제 현장 작동 여부에 대한 감시를 받게 된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T17:28:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21586,22 +21602,6 @@
     "publisher": "popcornnews.net",
     "title_clean": "두산퓨얼셀, 3222억원 연료전지 추가 수주…2주 만에 또 계약",
     "summary": "두산퓨얼셀이 북미 지역에 공급할 3222억 원 규모의 연료전지를 추가 수주했다. 이달 초 5014억 원 규모 계약에 이어 2주 만의 추가 발주로 미국 자회사와의 누적 계약 규모는 8236억 원에 달한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T17:36:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[특징주] 두산퓨얼셀, 美 추가 수주 7%↑…애프터마켓서 상승폭 축소 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260915001217",
-    "description": "두산퓨얼셀이 미국에서 3222억원 규모의 연료전지 추가 수주를 따내면서 애프터마켓에서도 강세를 보이고 있다. 15일 오후 4시35분 기준 애프터마켓에서 두산퓨얼셀은 전 거래일보다 3200원(6.69%) 오른 5만1000원에...",
-    "published_at": "2026-09-15T17:15:00+09:00",
-    "cluster_id": "e077",
-    "publisher": "newspim.com",
-    "title_clean": "[특징주] 두산퓨얼셀, 美 추가 수주 7%↑…애프터마켓서 상승폭 축소",
-    "summary": "두산퓨얼셀이 미국에서 3222억원 규모의 연료전지 추가 수주를 확보했다. 이는 신재생에너지 관련 기계설비건설 수주 증가로 업계에 긍정적인 신호를 제공한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-15T17:36:36+09:00",
     "importance": 2
