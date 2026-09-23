@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[e-People]이해욱 회장 이끄는 DL그룹, 기술협력 생태계 확대…\"공동개발·사업화 속도\" - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50278",
+    "description": "[건설이코노미뉴스] 이해욱 회장이 이끄는 <dl>이 기술 경쟁력 강화와 미래 성장동력 확보에 속도를 내고 있다. DL그룹의 주력 계열사인 'DL이앤씨'는 중소·전문기업과의 기술협력을 통해 건설 현장의 혁신기술을 발굴하는 데 그치지 않고, 공동 연구개발부터 성능 검증, 특허·인증, 현장 적용, 상품화까지 연결하는 전주기 기술협력 체계를 구축하고 있다.DL이앤씨의 외부 기술협력은 특정 공모 프로그램을 중심으로 이뤄지는 것이 아니다. 그동안 성과공유형 기술개발과 중소·전문기업과의 공동 기술개발, 공모형 오픈이노베이션 등 다양한 방식으",
+    "published_at": "2026-09-23T17:54:55+09:00",
+    "cluster_id": "8b4c",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[e-People]이해욱 회장 이끄는 DL그룹, 기술협력 생태계 확대…\"공동개발·사업화 속도\"",
+    "summary": "DL그룹의 이해욱 회장이 중소·전문기업과의 기술협력을 강화하고 있으며, 공동 연구개발부터 현장 적용까지 전주기 기술협력 체계를 구축 중이다. 다양한 방식의 기술개발 협력을 통해 건설 현장 혁신기술 발굴과 사업화를 가속화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T17:56:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32308,22 +32324,6 @@
     "title_clean": "PF 지원 기대에 사업전망 반등…분양·입주는 뒷걸음",
     "summary": "정부의 8·13 부동산 금융대책으로 PF 지원에 대한 기대감이 높아져 서울 주택사업 전망이 반등했다. 다만 실제 분양과 입주 전망은 오히려 낮아지면서 시장 회복이 제한적인 상황이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "롯데건설, ‘프로젝트 샬롯’ 선순위 차입금 1.2조 상환…재무안정화 ‘청신호’ - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UQVE4Y2RMcm5UQnM5U183X0FtcmVUV25weEVvSTAyZzJzYTNVek5jaUtWSExPSnc3b01qNEEwUGYtYjJTOFRsY2dZOEJDRHRybzM5T21n?oc=5",
-    "description": "롯데건설이 지난 2024년 3월 조성한 2조3000억원 규모의 PF 펀드 ‘프로젝트 샬롯’의 선순위 차입금 1조2000억원 전액을 지난 8월 말 상환 완료하면서 재무구조 개선에 속",
-    "published_at": "2026-09-17T08:31:49+09:00",
-    "cluster_id": "78f2",
-    "publisher": "헤럴드경제",
-    "title_clean": "롯데건설, ‘프로젝트 샬롯’ 선순위 차입금 1.2조 상환…재무안정화 ‘청신호’",
-    "summary": "롯데건설이 2조3000억원 규모의 'PF 펀드 프로젝트 샬롯'의 선순위 차입금 1조2000억원을 전액 상환 완료했다. 이는 건설사의 재무구조 개선 움직임으로, 건설업계의 PF 리스크 완화 신호로 평가된다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-17T18:56:06+09:00",
     "importance": 2
   }
