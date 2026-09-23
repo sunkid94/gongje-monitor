@@ -5624,6 +5624,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "1.6조 규모 오금현대 재건축, 시공사 선정 시작…삼성·DL·포스코 격돌할 듯 - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QbXRONGVDM3FYTlY3MHY3czk1QzNkdWdZUDRjV3BYeXc3Q0plTFJoa21zRG9yblVaalA0cUIxT0YyYUR0S2ljaG5lMlV5X0hNOE1KM2xjcUJHTkxEczBOb0w3UQ?oc=5",
+    "description": "[더구루=김수현 기자] 하반기 서울 송파구 최대 정비사업으로 꼽히는 오금현대아파트가 시공사 선정을 시작했다. 삼성물산, DL이앤씨, 포스코이앤씨 등이 관심을 보이는 가운데 최종 수주 구도가 어떻게 형성될지 주목된다. 23일 정비업계에 따르면 오금현대아파트 재건축조합은 전날 시공사 선정 입찰 공고를 게시했다. 예정 공사비는 1조6642억원으로, 3.3㎡당 9",
+    "published_at": "2026-09-23T15:13:54+09:00",
+    "cluster_id": "1d14",
+    "publisher": "더구루",
+    "title_clean": "1.6조 규모 오금현대 재건축, 시공사 선정 시작…삼성·DL·포스코 격돌할 듯",
+    "summary": "서울 송파구 오금현대아파트 재건축 사업의 시공사 선정이 시작되었으며, 예정 공사비는 1조6642억원 규모이다. 삼성물산, DL이앤씨, 포스코이앤씨 등 대형 건설사들이 입찰에 참여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T21:29:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21606,22 +21622,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-15T18:35:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "전주 감나무골 조합장 해임두고 조합 vs 비대위 공방 가열 - jjn.co.kr",
-    "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1052231",
-    "description": "반대로 비대위는 시공사인 포스코이앤씨가 아파트를 상대로 유치권을 행사해 입주 자체를 막는 것은 현실적으로 어렵기 때문에 조합이 우려하는 대규모 입주지연이나 잔금대출 불가 사태가 실제로 발생할 가능성은...",
-    "published_at": "2026-09-15T18:26:00+09:00",
-    "cluster_id": "5146",
-    "publisher": "jjn.co.kr",
-    "title_clean": "전주 감나무골 조합장 해임두고 조합 vs 비대위 공방 가열",
-    "summary": "전주 감나무골 아파트 조합과 비대위가 조합장 해임을 둘러싸고 갈등을 빚고 있으며, 시공사 유치권 행사로 인한 입주 지연 사태 발생 가능성을 놓고 주장이 대립 중이다. 조합은 대규모 입주 지연과 잔금대출 불가 사태를 우려하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T18:35:51+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
