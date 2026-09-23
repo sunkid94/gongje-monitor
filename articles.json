@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "'국토장관 홍지선 취임' 기계설비업계 \"공정경쟁·상생협력 추진해야\" - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065508",
+    "description": "대한기계설비건설협회가 홍지선 신임 국토교통부 장관에게 건설산업의 공정경쟁과 상생협력, 기계설비 산업 고도화를 위한 정책 추진을 주문했다. 대한기계설비건설협회는 23일 홍 장관 취임에 대해 \"77만 기계설비인을...",
+    "published_at": "2026-09-23T12:00:00+09:00",
+    "cluster_id": "23e7",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "'국토장관 홍지선 취임' 기계설비업계 \"공정경쟁·상생협력 추진해야\"",
+    "summary": "대한기계설비건설협회가 홍지선 신임 국토교통부 장관에게 건설산업의 공정경쟁·상생협력 추진과 기계설비 산업 고도화를 위한 정책 추진을 요청했다. 77만 기계설비인의 이익 대변을 주문한 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-23T12:09:11+09:00",
+    "event_label": "대한기계설비건설협회 홍지선 국토교통부 장관에 정책 건의",
+    "importance": 5
+  },
+  {
     "keyword": "전문건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5537,6 +5554,22 @@
     "collected_at": "2026-08-24T15:34:06+09:00",
     "event_label": "전문건설공제조합(대한전문건설협회 인천시회) 부평구청장·강화군수와 간담회 개최",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대형 사업장 산재 사망자 70%가 하청…'위험의 외주화' 여전 - pointdaily.co.kr",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320368",
+    "description": "건설업 사망사고를 원청 법인별로 살펴보면 대우건설 현장에서 발생한 사망자가 15명으로 가장 많았다. 현대건설이 13명으로 뒤를 이었고 현대엔지니어링과 에이치제이중공업은 각각 11명으로 집계됐다....",
+    "published_at": "2026-09-23T12:04:00+09:00",
+    "cluster_id": "07dd",
+    "publisher": "pointdaily.co.kr",
+    "title_clean": "대형 사업장 산재 사망자 70%가 하청…'위험의 외주화' 여전",
+    "summary": "대형 건설사 현장에서 발생한 산재 사망자의 70%가 하청업체 근로자인 것으로 나타났다. 대우건설, 현대건설 등 주요 원청사들의 현장에서 다수의 사망사고가 발생하며 위험의 외주화 관행이 계속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T12:09:11+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -21523,22 +21556,6 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "1.6조 잭팟 터졌다…삼성중공업, 작년 실적 뛰어넘어 - newsgn.com",
-    "link": "https://www.newsgn.com/news/articleView.html?idxno=573853",
-    "description": "삼성중공업이 총 1조6476억원 규모의 대형 선박 수주 낭보를 전하며 올해 상선 부문 수주 목표를 조기에 초과 달성했다. 거제 지역 조선업 생태계와 지역 경제 전반에 온기를 불어넣을 것으로 기대된다. 삼성중공업은...",
-    "published_at": "2026-09-15T15:32:00+09:00",
-    "cluster_id": "7808",
-    "publisher": "newsgn.com",
-    "title_clean": "1.6조 잭팟 터졌다…삼성중공업, 작년 실적 뛰어넘어",
-    "summary": "삼성중공업이 1조6476억원 규모의 대형 선박 수주를 확보하며 올해 상선 부문 수주 목표를 조기에 달성했다. 이는 거제 지역 조선업 생태계와 지역 경제에 긍정적 영향을 미칠 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T15:45:52+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32304,22 +32321,6 @@
     "summary": "정부가 내년 국토교통부 예산을 역대 최대 규모인 69조원으로 편성하며 주택 공급에 집중 투자하고, 2차 공공기관 지방 이전을 본격화하면서 건설업계에 새로운 수주 기회가 창출될 전망이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-17T16:43:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[건설 리그테이블] 중대형사 중장기 기반 마련 ‘속도’… 평균 4.5년 일... - viva100.com",
-    "link": "https://www.viva100.com/article/20260917501166",
-    "description": "건설경기 둔화가 지속되는 가운데 시공능력평가 11~30위권 중대형 건설사들이 지난해 연매출의 평균 4배가 넘는 일감을 확보한 것으로 나타났다. 일부 회사는 5~8년가량의 일감을 보유하며 건설경기 침체 장기화에...",
-    "published_at": "2026-09-17T16:16:00+09:00",
-    "cluster_id": "f754",
-    "publisher": "viva100.com",
-    "title_clean": "[건설 리그테이블] 중대형사 중장기 기반 마련 ‘속도’… 평균 4.5년 일...",
-    "summary": "건설경기 둔화 속에서도 중대형 건설사들(시공능력평가 11~30위)이 연매출 4배 이상의 일감을 확보하며 중장기 기반을 마련하고 있다. 일부 사는 5~8년의 일감을 보유해 경기 침체 장기화에 대응하고 있는 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T16:33:35+09:00",
     "importance": 2
   }
 ]
