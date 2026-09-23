@@ -21624,6 +21624,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'불황' 건설업 뺐더니…산재 사망 되레 늘었다 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGWUxYU3NDX29TXzJDMEQ1ZmtxNDN4SVNWVmJoWGl6TE5YeVYyY1NNSU9hdm0yT3NHaHl4OFNzX0xRVHpKVUt6RkVkWklTSFRNd1BLUjJ0WTZfZw?oc=5",
+    "description": "'불황' 건설업 뺐더니…산재 사망 되레 늘었다, 안 먹히는 중대재해 처벌 사고예방 시스템 확 바꿔야 상반기 전체 사망 40명 줄었지만 건설공사 위축 따른 '통계 착시' 산재 예방 '위험성 평가'도 한계 산단 단위 공동 지원체계 구축을",
+    "published_at": "2026-09-23T16:35:38+09:00",
+    "cluster_id": "6549",
+    "publisher": "한국경제",
+    "title_clean": "'불황' 건설업 뺐더니…산재 사망 되레 늘었다",
+    "summary": "건설업 불황으로 전체 산재 사망은 감소했으나, 건설업 내에서는 산재 사망이 오히려 증가했다. 현행 중대재해 처벌법이 효과를 거두지 못하고 있으며, 위험성 평가와 예방 시스템의 근본적인 개선이 필요하다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T03:04:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-17T19:40:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "노란봉투법 관련 첫 법원 판단...극동건설 집행정지 신청 기각 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Wa3EwNU5ES1kxNHNvbEhJVUZpakFRc2x1andfN1Z5bDN2VzA4NDQxellZSG14V3ZMdjBjeXRzX0dTY0hCb00wU3VqLS1DUW9WM3dxTmpoWWQ5Zw?oc=5",
-    "description": "노란봉투법 관련 첫 법원 판단...극동건설 집행정지 신청 기각, 극동건설 집행정지 신청 법원서 기각 개정 노조법 시행 후 첫 집행정지 관련 결정 법원 &ldquo;노동위 결정 공고 의무만 부과&hellip; 교섭&middot;단협 의무 발생 아냐\" 공법상 의무만 인정",
-    "published_at": "2026-09-17T19:19:00+09:00",
-    "cluster_id": "1913",
-    "publisher": "한국경제",
-    "title_clean": "노란봉투법 관련 첫 법원 판단...극동건설 집행정지 신청 기각",
-    "summary": "노란봉투법 관련 첫 법원 판단에서 극동건설의 집행정지 신청이 기각되었다. 법원은 노동위의 결정 공고 의무만 부과되며 교섭·단협 의무는 발생하지 않는다고 판단했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T19:30:14+09:00",
-    "importance": 2
   }
 ]
