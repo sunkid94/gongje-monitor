@@ -21556,6 +21556,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천도시공사, 폭염 속 건설현장 ‘이동식 휴게·안전교육 버스’ 가동… 626명 이용 - 녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fWndPT2xSUE1vT2w1MFNFeHJnb1Q3Z085eHdXekh4TVRQdXdCNTUxMDh6Q0xmaGxsc29aT3ZTOGZjODdlcDFwTVFZYTVYUW9sNmE5anVCbGVscGRkUkpObHBSQUxCcm0z?oc=5",
+    "description": "[녹색경제신문 = 민영원 기자]인천도시공사(iH)가 여름철 폭염에 노출된 건설현장 근로자들을 대상으로 운영한 이동식 휴게·안전교육 지원사업을 마무리했다.인천도시공사는 혹서기 기간 건설현장 근로자의 온열질환 예방과 휴게환경 개선을 위해 추진한",
+    "published_at": "2026-09-23T13:41:01+09:00",
+    "cluster_id": "cabe",
+    "publisher": "녹색경제신문",
+    "title_clean": "인천도시공사, 폭염 속 건설현장 ‘이동식 휴게·안전교육 버스’ 가동… 626명 이용",
+    "summary": "인천도시공사가 폭염 시즌 건설현장 근로자 보호를 위해 이동식 휴게·안전교육 버스를 운영하여 626명이 이용했다. 온열질환 예방 및 휴게환경 개선을 통해 근로자 안전 관리를 강화한 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-23T13:54:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32306,21 +32322,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-17T18:03:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "수주전 사라진 서울 재건축…여의도·목동 대어도 '단독응찰' - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1407488",
-    "description": "이처럼 대형 정비사업지에서도 건설사들의 수의계약 형태가 늘어나고 있는 이유는 공사원가 상승에 따른 건설경기 부진이 장기화되면서 건설사들이 도시정비사업 수주에 보수적인 태도를 유지하고 있기 때문이다....",
-    "published_at": "2026-09-17T17:30:00+09:00",
-    "cluster_id": "574c",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "수주전 사라진 서울 재건축…여의도·목동 대어도 '단독응찰'",
-    "summary": "서울의 대형 재건축 사업에서 경쟁입찰이 감소하고 수의계약이 증가하는 추세가 나타나고 있다. 공사원가 상승과 건설경기 부진으로 건설사들이 도시정비사업 수주에 보수적 태도를 유지하면서 시장 경쟁이 약화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T17:43:16+09:00",
-    "importance": 4
   }
 ]
