@@ -21607,6 +21607,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "재건축은 대형사 쏠림…중견건설사, 공공공사로 눈 돌린다 - 코리아이글뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44LWFFR2dwdjdxS0pDR3BMYTRxa29PRlpFaGxXVGZra0FmYmk4dDlUY0MtLU9ENjhOdXVYcjdlRHJqWXA5SHU4ejRSbmtsZHQyRkRCOWxFd0YzU2x0Z2Z4WFBpcUUzWlFscEZxYm5jeXh0elU?oc=5",
+    "description": "주택경기 침체가 장기화하고 서울을 중심으로 재건축·재개발 등 도시정비사업의 대형 건설사 쏠림 현상이 뚜렷해지면서 중견건설사들이 사업 전략을 바꾸고 있다.민간 주택사업에 집중했던 기존 방식에서 벗어나 공공주택과 사회간접자본(SOC), 플랜트, 신재생에너지, 환경시설 등으로 사업 영역을 넓히며 새로운 수익원 확보에 나서는 모습이다.23일 건설업계에 따르면 중견건설사들은 민간 주택사업의 비중을 조정하면서 공공공사와 비주택 사업 수주 확대에 공을 들이고 있다.주택시장 회복 시점을 예측하기 어려운 데다 서울·수도권 주요 재건축과 재개발 사업",
+    "published_at": "2026-09-23T16:39:30+09:00",
+    "cluster_id": "8ecc",
+    "publisher": "코리아이글뉴스",
+    "title_clean": "재건축은 대형사 쏠림…중견건설사, 공공공사로 눈 돌린다",
+    "summary": "주택경기 침체와 재건축 대형사 쏠림 현상으로 중견건설사들이 공공주택, SOC, 플랜트, 신재생에너지 등 사업 영역을 다각화하며 생존 전략을 모색 중이다. 민간 주택사업의 비중을 줄이고 공공공사 수주 확대에 집중하는 추세이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T16:44:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32309,21 +32325,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-17T18:56:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "세종시 안전도시위원회, 시립박물관 건설현장 안전점검 - 충청도민일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03UU9Ic2tJRXhrSkV2VjJ4RmxUN3lPaXJNZmFjaVBYQ2lxX05nTGQ0alozdHBnV0N2eS1sUlZ3M1BndmxWR001d2dvb1pWSk9WMlR1WUVrcFgtamF5MDNQdHlPMGcwMUNhdTRmVQ?oc=5",
-    "description": "[충청도민일보 김영식 기자] = 세종특별자치시 안전도시위원회가 세종시립박물관 건설 현장을 찾아 공사 단계에서부터 시설 안전을 점검하고 개선방안을 논의했다.안전도시",
-    "published_at": "2026-09-17T18:09:06+09:00",
-    "cluster_id": "1850",
-    "publisher": "충청도민일보",
-    "title_clean": "세종시 안전도시위원회, 시립박물관 건설현장 안전점검",
-    "summary": "세종시 안전도시위원회가 시립박물관 건설현장에 대한 안전점검을 실시하고 개선방안을 논의했다. 공사 단계에서부터 시설 안전을 체계적으로 관리하려는 행정조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 2
   }
 ]
