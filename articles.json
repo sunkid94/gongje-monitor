@@ -5573,6 +5573,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대건설, 올해 재건축·재개발 공사수주 11조원 돌파...부산 감천동재... - moneystorm.kr",
+    "link": "https://www.moneystorm.kr/news/articleView.html?idxno=6748",
+    "description": "현대건설을 제외한 다른 대형 건설사들이 올들어 23일까지 올린 도시정비사업 수주기록을 보면 삼성물산 건설부문이 7조3370억원, GS건설 5조5477억원, 대우건설 4조3530억원, 포스코이앤씨 3조9000억원, DL이앤씨...",
+    "published_at": "2026-09-23T14:43:00+09:00",
+    "cluster_id": "b511",
+    "publisher": "moneystorm.kr",
+    "title_clean": "현대건설, 올해 재건축·재개발 공사수주 11조원 돌파...부산 감천동재...",
+    "summary": "현대건설이 올해 재건축·재개발 공사수주 11조원을 돌파했으며, 삼성물산, GS건설, 대우건설 등 대형 건설사들도 각각 7조원대 이상의 도시정비사업 수주를 기록했다. 건설업계 전반적으로 도시정비사업 수주가 활발히 진행 중인 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T14:58:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21555,22 +21571,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-15T16:46:14+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "신동아 '수주'·DL '안전'·대우 '쇄신'…건설업계, 맞춤형 CEO 배치 - insightkorea.co.kr",
-    "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254649",
-    "description": "최근 대우건설과 DL건설, 신동아건설이 잇따라 대표 인사를 단행하거나 경영체제를 바꾸면서다. 업계에서는 이번 인사가 단순한 대표 교체를 넘어 각사가 처한 상황에 맞춰 최고경영진 구성과 역할을 달리한 것으로 보고...",
-    "published_at": "2026-09-15T16:22:00+09:00",
-    "cluster_id": "38a9",
-    "publisher": "insightkorea.co.kr",
-    "title_clean": "신동아 '수주'·DL '안전'·대우 '쇄신'…건설업계, 맞춤형 CEO 배치",
-    "summary": "대우건설, DL건설, 신동아건설이 각사의 경영 현황에 맞춰 CEO를 교체하고 경영체제를 개편했다. 업계는 이를 단순 인사 이동을 넘어 각사가 직면한 과제(수주, 안전, 쇄신)에 대응하는 맞춤형 리더십 강화로 평가하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-15T16:46:14+09:00",
-    "importance": 2
   },
   {
     "keyword": "중대재해 건설",
