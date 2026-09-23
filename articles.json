@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "GTX-A 삼성역 지연 책임 공방…국토부, 서울시에 구상금 청구 검토 - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMG9JNDhqcnFkWjRtV25JdHBjaHdOU0d2alhCM2VmbWZaLXpRNFJNM2lOV3VmbzJCSjRnX3Rub09pOTBKZ3A5cFB0Nk43UEJSMHpLa0lSMG1mQdIBVEFVX3lxTFBDd3BKLTJ3MjY2R3NLZWticXRLWkRjMWFpMHBzZ1FQQ2dSOUZiRjlzMEQ0VTFoTFd3Tmk4ckN3LWVhV2ZISUVvTVY2bEtpd0pEVElKYw?oc=5",
+    "description": "철근 누락 원인 규명…국토부 안전 검증 먼저200건 이상 문제점 파악…즉시 조치도서울시가 GTX-A 삼성역 구간 기둥 보강과 관련해 국토교통부에 조속한 결정을 요구한 가운데 국..",
+    "published_at": "2026-09-23T19:49:56+09:00",
+    "cluster_id": "d5f8",
+    "publisher": "더팩트",
+    "title_clean": "GTX-A 삼성역 지연 책임 공방…국토부, 서울시에 구상금 청구 검토",
+    "summary": "GTX-A 삼성역 구간에서 철근 누락 등 200건 이상의 문제점이 파악되어 기둥 보강이 필요한 상황. 국토부가 안전 검증을 우선으로 진행 중이며 서울시에 구상금 청구를 검토하고 있어 책임 공방이 이어지고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T20:09:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32308,22 +32324,6 @@
     "title_clean": "[포토] 서울주택도시개발공사, 아시아건설종합대상서 '국토교통부장관상' 수상",
     "summary": "서울주택도시개발공사가 제21회 아시아건설종합대상에서 혁신 부문 국토교통부장관상을 수상했다. 공사의 도시활성화 부문 우수성과 혁신 노력이 인정받은 것으로, 건설업계의 기술혁신과 품질 우수성을 보여주는 사례다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-17T18:56:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[포토] 아시아건설종합대상서 축사하는 김이탁 국토교통부 제1차관 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tOWU4MVJMVjI1RW1mVXU4cmphUXVkS2lwZzZkQ0pkMkJ2VzRRREstTmt6bFUzd1licEMwMWJlbkMtY1J0SmR3bDVQZFdfVlNIblQ4RTR6MUV2Z2ZHU3dLYQ?oc=5",
-    "description": "김이탁 국토교통부 제1차관이 17일 서울 중구 프레스센터에서 열린 ‘제21회 아시아건설종합대상’에 참석해 축사 하고 있다.",
-    "published_at": "2026-09-17T16:51:58+09:00",
-    "cluster_id": "8030",
-    "publisher": "아시아경제",
-    "title_clean": "[포토] 아시아건설종합대상서 축사하는 김이탁 국토교통부 제1차관",
-    "summary": "김이탁 국토교통부 제1차관이 서울에서 열린 제21회 아시아건설종합대상에 참석하여 축사를 진행했다. 정부 고위급 인사의 참석으로 건설업계의 중요성을 대외적으로 인정하는 행사이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-17T18:56:06+09:00",
     "importance": 2
   }
