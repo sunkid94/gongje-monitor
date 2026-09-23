@@ -21624,6 +21624,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "명절 연휴 철저한 공사장 안전관리로 무사고 이끈다 - 충북일보",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DVlRtNmVReE82b3RrX1RuSFpJcEJJVWZuYlp6dEMxVFhBTU1yUzJVYjUzU1NlZnNlVzR3NlpHWnFQaVNITjFtdWJ4cU5YcG52azRYTGFCalkycFFOSkxuRmNB?oc=5",
+    "description": "［충북일보］ 행정중심복합도시건설청(행복청)은 추석 연휴를 맞아 건설 현장 내 안전사고를 철저히 예방하기 위해 현장점검을 실시했다고 23일 밝혔다. 대전시, 한국도로공사 등 관계기관과 합동으로 진행한 이번 합동점검에서는 공사 현장 내 주요 시설물의 상태와 안전 관리 현황 전반을 중점적으로 살폈다. 특히, 행복청은 현장 제반 시설의 안전 상태를",
+    "published_at": "2026-09-23T10:30:25+09:00",
+    "cluster_id": "d6d3",
+    "publisher": "충북일보",
+    "title_clean": "명절 연휴 철저한 공사장 안전관리로 무사고 이끈다",
+    "summary": "행정중심복합도시건설청이 추석 연휴를 앞두고 대전시, 한국도로공사 등과 함께 공사 현장 안전점검을 실시했다. 주요 시설물 상태와 안전 관리 현황을 중점적으로 점검하여 건설 현장 내 안전사고 예방에 나섰다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-24T05:39:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-17T19:45:08+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "경찰, '74명 사상' 대전 안전공업, 대표 등 13명 송치 - dynews.co.kr",
-    "link": "https://www.dynews.co.kr/news/articleView.html?idxno=866521",
-    "description": "동양일보 DB 대전경찰청은 17일 안전공업 참사 수사 결과를 발표하고 손주환 대표 등 임직원 12명과 무허가 인테리어 업자 1명 등 13명을 업무상과실치사상, 소방시설법 위반, 증거 위·변조, 건설산업기본법 위반 등의...",
-    "published_at": "2026-09-17T19:32:00+09:00",
-    "cluster_id": "e5a7",
-    "publisher": "dynews.co.kr",
-    "title_clean": "경찰, '74명 사상' 대전 안전공업, 대표 등 13명 송치",
-    "summary": "대전 안전공업 참사로 사망·부상 74명이 발생한 사건에서 경찰이 손주환 대표 등 임직원 12명과 무허가 인테리어 업자 1명을 업무상과실치사상, 소방시설법 위반, 증거 위·변조 등의 혐의로 송치했다. 건설업계의 안전관리 부실과 법령 위반 문제가 드러나면서 규제 강화 압박이 가속화될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T19:40:07+09:00",
-    "importance": 4
   }
 ]
