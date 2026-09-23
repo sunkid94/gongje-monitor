@@ -21369,6 +21369,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "홍지선 장관, 첫 행보로 3기 신도시 부천대장 찾아 - kscnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzWlpIUG9KT3BiN3pnUzVwS1pXRUJPX1N0eUFOc1lkWU1sdUl3YzMzWFdybnpma2pHWEhzdlZhejBnR2lOM2JqaENmdDZVQ0xhRHo0QzlFeHdBZWhJcnlJQWhCbENXWktic3Y0?oc=5",
+    "description": "홍지선 국토교통부 장관이 취임 후 첫 주택공급 현장 행보로 3기 신도시인 부천대장지구를 방문해 택지조성과 주택공급 추진 현황을 점검했다. 부천대장지구는 서울과 인접한 입지에 약 2만 호의 주택을 공급하는 곳으로, 대장-홍대선 등 광역 교통망과 도시첨단산업단지를 연계해 직주근접형 자족도시로 개발 중이다. 해당 지구는 지난 2024년 12월 첫 주택 착공에 들어갔으며 오는 2027년 11월 1600호(A5·A6 블록) 첫 입주를 앞두고 있다. 아울러 약 56만㎡ 규모의 산업용지에는 대한항공, SK이노베이션, SK하이닉스, DN솔루션즈",
+    "published_at": "2026-09-23T09:15:00+09:00",
+    "cluster_id": "e3e7",
+    "publisher": "kscnews.co.kr",
+    "title_clean": "홍지선 장관, 첫 행보로 3기 신도시 부천대장 찾아",
+    "summary": "홍지선 국토교통부 장관이 3기 신도시인 부천대장지구를 방문하여 약 2만 호 규모의 주택공급 추진 현황을 점검했다. 2027년 11월 첫 입주를 앞두고 있으며, 대형 기업들의 산업용지 입주로 직주근접형 자족도시로 개발 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T10:49:22+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안전관리와 현장운영의 실체! 「건설현장의 안전, 이대로 둘 것인가?」 (고성옥 저 / 보민출판사 펴냄) - 대한청년일보",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBQTzE2QXg2V0F5TEJ3cjZwdGEwZ1BBZWdvZjdaLUtmaklIc1c1QVBBWm9ZN2JXVHNGb1BFekVKcFVjXzA?oc=5",
+    "description": "건설현장에서는 매일 같이 ‘안전제일’을 외친다. 아침조회와 TBM을 실시하고, 위험성평가와 안전교육을 실시하며, 현장 곳곳에는 안전수칙과 경고문이 붙어 있다. 그러나 막상 공사가 시작되면 안전보다 공정이 앞서고, 비용과 작업속도 앞에서는 원칙이 흔들리는 모습을 어렵지 않게 볼 수 있다. 안전을 최우선이라고 말하면서 실제로는 무리한 공사를 강행하는 것이 오늘",
+    "published_at": "2026-09-22T22:27:28+09:00",
+    "cluster_id": "1ab4",
+    "publisher": "대한청년일보",
+    "title_clean": "안전관리와 현장운영의 실체! 「건설현장의 안전, 이대로 둘 것인가?」 (고성옥 저 / 보민출판사 펴냄)",
+    "summary": "건설현장에서 '안전제일'을 표방하면서도 공정, 비용, 작업속도 압박 앞에서 안전 원칙이 실제로 훼손되고 있는 현실을 비판하는 내용의 책 출간 소식. 건설현장의 구조적 안전관리 문제점을 지적하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-23T10:49:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32278,38 +32310,6 @@
     "summary": "건설경기 침체와 감염병으로 일자리를 잃은 건설 근로자가 주거 불안정 상태에 빠진 사례를 통해 복지 사각지대 문제를 드러낸 기사. 기존 복지제도의 한계를 지적하며 건설업계의 구조적 문제와 근로자 보호 필요성을 조명.",
     "sentiment": "negative",
     "collected_at": "2026-09-17T14:03:54+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "KCC, 신축 밖 742만동 본다…차열도료서 수요 확인 - sateconomy.co.kr",
-    "link": "http://sateconomy.co.kr/news/view/1065587589100802",
-    "description": "사업 포트폴리오 전체로 보면 건설경기 의존도는 과거보다 낮아졌다. 상반기 실리콘 매출은 1조6914억원으로 연결 매출의 49.5%를 차지했다. 도료는 1조1572억원, 건자재는 4931억원이다. 다만 국내 도료와 건자재는...",
-    "published_at": "2026-09-17T13:38:00+09:00",
-    "cluster_id": "ba30",
-    "publisher": "sateconomy.co.kr",
-    "title_clean": "KCC, 신축 밖 742만동 본다…차열도료서 수요 확인",
-    "summary": "KCC가 신축 건물 외 742만동 대상으로 차열도료 수요를 확인하며 건설경기 의존도를 낮추고 있다. 상반기 실리콘 매출이 49.5%를 차지하고 도료와 건자재 매출도 안정적으로 유지되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T14:03:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "대전 안전공업 화재참사, 대표 등 13명 검찰 송치 - dtnews24.com",
-    "link": "http://www.dtnews24.com/news/articleView.html?idxno=815316",
-    "description": "중이층 공간을 불법 증축한 건설업체에는 '건설산업기본법 위반' 혐의가 적용됐다. 아울러 참사 당일 불이 나 소방 수신기가 작동했을 때 공장 관계자가 임의로 경보를 차단한 것으로 확인됐다. 공장은 2017년경부터...",
-    "published_at": "2026-09-17T13:32:00+09:00",
-    "cluster_id": "1b70",
-    "publisher": "dtnews24.com",
-    "title_clean": "대전 안전공업 화재참사, 대표 등 13명 검찰 송치",
-    "summary": "대전 안전공업 화재참사와 관련해 불법 증축을 한 건설업체 대표 등 13명이 검찰에 송치됐다. 중이층 불법 증축, 소방 경보 차단 등 안전 규정 위반이 적발되며 건설업계의 안전관리 부실에 대한 사회적 비판이 고조될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T13:43:25+09:00",
     "importance": 4
   }
 ]
