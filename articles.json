@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "전문건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[게시판] 전문건설공제조합 '타운홀 미팅'…혁신과제 수행 아이디어 수렴 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNGlFeVgwM1l2VnlPc0JPRGs4NmxwbUtWZnd0VE5jUFI0S3FNbmNlMGViRXFyZ2pmRTZFSTVLM1otcnpvM0k4aUxIWm9JNV9FYWtZeTRpUlFvV1XSAWBBVV95cUxPeG03RkJfX2M0QW81c0wwLVZBb0pqMDNEZkd4VkU2WEE5OTYxUnlsWDBGVDgtUVRKZDdBQkhQdkc5aEFZR25iVi1DQXlSVnA5Y2FlNmczc05UOXo2V3RUdHI?oc=5",
+    "description": "▲ 전문건설공제조합은 지난 22일 본부 임원진과 부서장, 주니어 직원이 참석한 가운데 '월간 스탠드업 미팅'을 개최했다고 23일 밝혔다. 조합은...",
+    "published_at": "2026-09-23T10:11:54+09:00",
+    "cluster_id": "5c07",
+    "publisher": "연합뉴스",
+    "title_clean": "[게시판] 전문건설공제조합 '타운홀 미팅'…혁신과제 수행 아이디어 수렴",
+    "summary": "전문건설공제조합이 임원진과 직원이 참석한 '월간 스탠드업 미팅'을 개최하여 혁신과제 수행 아이디어를 수렴했다. 조직 내 소통과 혁신을 위한 정기 회의 활동으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-23T11:44:23+09:00",
+    "event_label": "전문건설공제조합 월간 스탠드업 미팅 개최",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5520,6 +5537,22 @@
     "collected_at": "2026-08-24T15:34:06+09:00",
     "event_label": "전문건설공제조합(대한전문건설협회 인천시회) 부평구청장·강화군수와 간담회 개최",
     "importance": 5
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "범한메카텍, 발전 기자재 진출…두산에 가스터빈 고정자 공급 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20094436?ref=naver",
+    "description": "범한메카텍이 두산에너빌리티와 발전기 고정자(Stator Frame) 장기공급 계약을 체결하고 발전 기자재 사업에 진출한다. 23일 범한메카텍에 따르면 이번 계약에 따라 두산에너빌리티가 제작하는 대형 가스터빈용 발전기...",
+    "published_at": "2026-09-23T11:32:00+09:00",
+    "cluster_id": "a354",
+    "publisher": "sedaily.com",
+    "title_clean": "범한메카텍, 발전 기자재 진출…두산에 가스터빈 고정자 공급",
+    "summary": "범한메카텍이 두산에너빌리티와 대형 가스터빈용 발전기 고정자의 장기공급 계약을 체결하며 발전 기자재 사업에 진출했다. 이는 기계설비 제조업체의 새로운 수주 기회이자 시장 영역 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T11:44:23+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21506,22 +21539,6 @@
     "importance": 2
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "기업 공시 [9월 15일] - sedaily.com",
-    "link": "https://www.sedaily.com/article/20091155?ref=naver",
-    "description": "▲효성중공업(298040)=미국 빅테크 2개사와 3865억 원 규모 초고압변압기 공급 계약 체결 ▲SK바이오팜(326030)=이동훈 사장 7900만 원에 자사주 1000주 매입 ▲두산퓨얼셀(336260)=미국 자회사 하이엑시엄에 3220억...",
-    "published_at": "2026-09-15T15:31:00+09:00",
-    "cluster_id": "645f",
-    "publisher": "sedaily.com",
-    "title_clean": "기업 공시 [9월 15일]",
-    "summary": "효성중공업이 미국 빅테크 기업 2곳과 3865억 원 규모의 초고압변압기 공급 계약을 체결했으며, SK바이오팜 경영진의 자사주 매입, 두산퓨얼셀의 미국 자회사 투자 등 대형 계약과 투자 소식이 보도됐다. 건설·기계설비 분야에서는 효성중공업의 대규모 수출 계약이 수주 증가로 평가될 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T15:45:52+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32303,22 +32320,6 @@
     "summary": "건설 현장에서 안전 경보를 무시하고 생산성을 우선시한 결과 74명이 사상하는 대형 참사가 발생했다. 무면허 인테리어업자 등이 건설산업기본법을 위반했으며, 사망자 14명 중 9명이 한 현장에서 발견되었다.",
     "sentiment": "negative",
     "collected_at": "2026-09-17T15:33:46+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "대전 안전공업 화재 수사 마무리…경보 차단·불법 증축 등 안전관리 부... - chungnamilbo.co.kr",
-    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=910421",
-    "description": "다만 별도의 건설업체 관계자 1명은 건설산업기본법 위반 혐의로 송치했다. 대전고용노동청은 대표를 안전보건관리체계상 책임자로 보고 산업안전보건법과 중대재해처벌법 위반 여부를 수사했다. 그 결과 안전보건...",
-    "published_at": "2026-09-17T15:06:00+09:00",
-    "cluster_id": "9392",
-    "publisher": "chungnamilbo.co.kr",
-    "title_clean": "대전 안전공업 화재 수사 마무리…경보 차단·불법 증축 등 안전관리 부...",
-    "summary": "대전 안전공업 화재 사건 수사가 마무리되었으며, 안전보건관리 부실과 불법 증축 등이 적발되었다. 건설업체 관계자가 건설산업기본법 위반으로 송치되었고, 대표에 대해 산업안전보건법과 중대재해처벌법 위반 여부가 수사되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T15:13:31+09:00",
     "importance": 4
   }
 ]
