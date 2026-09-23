@@ -21556,6 +21556,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "찜통 건설현장에 '쉼터버스'…iH, 찾아가는 휴게·교육 서비스 지원 - 신아일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Vd1UzS0pPcW5oMkxKSG1JWVcwbHh5clNZYk1oM1RnZmVxSUw1QUowWWJPaTZXSGdfaHh3SGFMS2NhTkNfZWxQczJDNWprOWhWNVJsYnE3VmtMZllMbEhjRTlwSjVuaEJXR3FqRkNpcjE?oc=5",
+    "description": "iH는 혹서기 폭염에 노출된 건설현장 종사자 휴식권과 안전을 위해 이동식 버스를 활용한 휴게·교육 서비스를 제공했다. 냉방·냉장시설과 위생·교육시설을 갖춘 차량을",
+    "published_at": "2026-09-23T12:26:47+09:00",
+    "cluster_id": "db5d",
+    "publisher": "신아일보",
+    "title_clean": "찜통 건설현장에 '쉼터버스'…iH, 찾아가는 휴게·교육 서비스 지원",
+    "summary": "iH가 건설현장의 폭염 대응을 위해 냉방·위생·교육시설을 갖춘 이동식 쉼터버스를 운영하며 종사자의 휴식권과 안전을 지원하고 있다. 혹서기 건설현장의 근로환경 개선을 위한 실질적인 복지 서비스 제공 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-23T12:39:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32305,22 +32321,6 @@
     "summary": "경기도와 경기주택도시공사가 추석 앞두고 고양시 건설현장의 임금체불 실태를 점검했으며, 점검 결과 체불 사항은 확인되지 않았다. 추석 연휴 전까지 산하 전 건설현장에 대한 임금체불 점검을 지속할 계획이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-17T16:54:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "서한, 추석 앞두고 협력사 공사·자재대금 359억원 조기 지급 - breaknews.com",
-    "link": "http://www.breaknews.com/1237492",
-    "description": "이 같은 상호협력 활동을 바탕으로 서한은 2017년부터 2026년까지 10년 연속 국토교통부 건설업자 간 상호협력 평가에서 95점 이상의 최우수 등급을 받았으며, 대기업군...",
-    "published_at": "2026-09-17T16:30:00+09:00",
-    "cluster_id": "099d",
-    "publisher": "breaknews.com",
-    "title_clean": "서한, 추석 앞두고 협력사 공사·자재대금 359억원 조기 지급",
-    "summary": "서한이 추석을 앞두고 협력사에 359억원의 공사·자재대금을 조기 지급했다. 이는 건설업체의 상호협력 활동의 일환으로, 2017년부터 2026년까지 10년 연속 국토교통부 평가에서 최우수 등급을 받은 기업의 모범 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T16:53:23+09:00",
     "importance": 2
   }
 ]
