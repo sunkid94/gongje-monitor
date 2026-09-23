@@ -5624,6 +5624,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "李, 월가 거물들에 코리아 세일즈…“나중에 왜 투자 안했나 생각할 것... - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01141446645583400&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "한국 측에서도 이형일 경제부총리를 비롯해 김성주 국민연금공단 이사장, 박일영 한국투자공사(KIC) 사장과 삼성바이오로직스·SK·현대차그룹·LG CNS·한화오션·두산에너빌리티 등의 경영진이 자리했다. 이 대통령은...",
+    "published_at": "2026-09-24T00:19:00+09:00",
+    "cluster_id": "0f32",
+    "publisher": "edaily.co.kr",
+    "title_clean": "李, 월가 거물들에 코리아 세일즈…“나중에 왜 투자 안했나 생각할 것...",
+    "summary": "이 대통령이 월가 거물들을 대상으로 한국 경제 투자 기회를 홍보하고 있으며, 경제부총리, 연기금 및 주요 대기업(삼성, SK, 현대차, LG, 한화, 두산 등) 경영진이 함께 참석했다. 한국의 경제 성장성과 투자 매력도를 국제 자본에 알리는 외교 경제 활동.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-24T00:29:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21605,22 +21621,6 @@
     "summary": "감나무골 재개발 사업에서 준공을 앞두고 조합장 해임총회가 열리며 조합과 비대위 간 분쟁이 발생했다. 시공사 포스코이앤씨의 유치권 행사와 입주 지연 가능성 등을 둘러싸고 관리처분계획 변경을 놓고 의견이 대립하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-15T19:15:48+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "SK에코플랜트, 하자·붕괴·매각 논란 계속 - 1conomynews.co.kr",
-    "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50413",
-    "description": "IPARK현대산업개발은 738건 중 14건으로 1.90%, DL이앤씨는 181건 중 3건으로 1.66%를 기록해 조사 대상 가운데 가장 낮았다. 이에 따라 올해 국정감사에서는 부실시공으로 인해 안전성을 저해하고 하자보수를 지연시켜...",
-    "published_at": "2026-09-15T16:20:00+09:00",
-    "cluster_id": "df24",
-    "publisher": "1conomynews.co.kr",
-    "title_clean": "SK에코플랜트, 하자·붕괴·매각 논란 계속",
-    "summary": "SK에코플랜트가 하자, 붕괴, 매각 논란으로 도마에 올랐으며, 건설사별 하자율 조사 결과 현대산업개발(1.90%), DL이앤씨(1.66%) 등이 낮은 수치를 기록했다. 부실시공으로 인한 안전성 저해와 하자보수 지연 문제가 국정감사의 주요 이슈로 부상했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-15T19:06:10+09:00",
     "importance": 4
   },
   {
