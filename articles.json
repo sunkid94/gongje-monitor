@@ -5437,6 +5437,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "아파트 30년 시대의 끝?…‘짓는 산업’에서 ‘고쳐 쓰는 산업’으로 - tfmedia.co.kr",
+    "link": "https://www.tfmedia.co.kr/news/article.html?no=207415",
+    "description": "기존 증축형 리모델링 시장에서는 포스코이앤씨가 사업을 확대하고 있다. 포스코이앤씨가 지난 10일 발표한 자료에 따르면 2014년 리모델링 시장에 진출한 이후 현재까지 46개 단지에서 약 14조 3000억원을 수주했다. 최근...",
+    "published_at": "2026-09-25T08:34:00+09:00",
+    "cluster_id": "b0b3",
+    "publisher": "tfmedia.co.kr",
+    "title_clean": "아파트 30년 시대의 끝?…‘짓는 산업’에서 ‘고쳐 쓰는 산업’으로",
+    "summary": "아파트 노후화에 따라 신축 중심의 건설산업이 리모델링 시장으로 전환되는 추세가 나타나고 있다. 포스코이앤씨가 2014년 이후 46개 단지에서 14조 3000억원을 수주하며 리모델링 시장 확대를 주도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-25T08:42:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21421,20 +21437,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "롯데건설, 목동 재건축 정조준… 교육·예술 품은 '6세대 주거' 청사진 ... - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=116903",
-    "description": "/사진=롯데건설 롯데건설이 서울 양천구 목동신시가지 일대 재건축 시장을 겨냥해 교육과 자연, 예술 인프라를 유기적으로 결합한 새로운 하이엔드 주거 모델을 선보인다. 롯데건설은 16일 목동신시가지 재건축...",
-    "published_at": "2026-09-16T09:36:00+09:00",
-    "cluster_id": "9b76",
-    "publisher": "businessplus.kr",
-    "title_clean": "롯데건설, 목동 재건축 정조준… 교육·예술 품은 '6세대 주거' 청사진 ...",
-    "summary": "롯데건설이 서울 양천구 목동신시가지 재건축 사업을 겨냥해 교육, 자연, 예술 인프라를 결합한 프리미엄 주거 모델을 제시하고 있다. 이는 건설사의 대형 재건축 수주 기회 창출 및 고급 주거 시장 확대를 의미하는 긍정 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T09:57:01+09:00",
-    "importance": 2
+    "title": "박해철 의원, \"산재 신청 늘고 승인율 하락\"…근로복지공단 시스템 도마... - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705685",
+    "description": "특히 건설업의 경우 산재 신청 건수가 2021년 3만1445건에서 2025년 4만2837건으로 약 1만1000건 늘었으나, 불승인율은 5.2%에서 16.1%로 10.9%포인트 급증해 건설 노동자들이 산재 보상 인정에 더 큰 어려움을 겪고 있는...",
+    "published_at": "2026-09-25T08:38:00+09:00",
+    "cluster_id": "fc32",
+    "publisher": "gukjenews.com",
+    "title_clean": "박해철 의원, \"산재 신청 늘고 승인율 하락\"…근로복지공단 시스템 도마...",
+    "summary": "박해철 의원이 근로복지공단의 산재 심사 기준 강화 문제를 지적했다. 건설업 산재 신청 건수는 증가했으나 불승인율이 5.2%에서 16.1%로 급증해 건설 노동자들의 산재 보상 인정이 어려워지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-25T08:42:43+09:00",
+    "importance": 4
   },
   {
     "keyword": "모듈러 건설",
