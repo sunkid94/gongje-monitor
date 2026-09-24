@@ -5624,6 +5624,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "수주 호황에도 파업 변수…조선 빅3, 임금협상 희비 엇갈려 - thetracker.co.kr",
+    "link": "https://thetracker.co.kr/View.aspx?No=4240914",
+    "description": "삼성중공업은 조선업계 빅3 가운데 가장 먼저 올해 임금협상을 마무리했지만 HD현대중공업과 한화오션은 임금과 성과급을 둘러싼 노사 간 이견으로 파업을 이어가고 있다. 조선업 호황 속에서도 생산 안정성이 새로운...",
+    "published_at": "2026-09-24T11:50:00+09:00",
+    "cluster_id": "c8c5",
+    "publisher": "thetracker.co.kr",
+    "title_clean": "수주 호황에도 파업 변수…조선 빅3, 임금협상 희비 엇갈려",
+    "summary": "조선업 수주 호황에도 불구하고 HD현대중공업과 한화오션이 임금협상 결렬로 파업을 지속하고 있어 생산 안정성에 변수가 되고 있다. 삼성중공uprising은 협상을 완료했으나 업계 전반적으로 노사 분쟁이 해결되지 않은 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T11:58:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21605,22 +21621,6 @@
     "summary": "분당 느티마을 3단지 리모델링 분양가가 1년 새 3억원 상승했다. 동일한 시공사(포스코이앤씨)의 인접 단지와 비교해도 가격 차이가 크게 벌어진 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-16T07:16:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "전기산업연합회, K-에너지 수출 경쟁력 강화한다 - epj.co.kr",
-    "link": "http://www.epj.co.kr/news/articleView.html?idxno=39399",
-    "description": "기후부장관 표창은 ▲옥경석 HD현대일렉트릭 상무이사 ▲신창훈 한국전력기술 부처장 ▲오정훈 한전 부장 ▲이시흔 대한무역투자진흥공사 과장 ▲김성곤 대우건설 책임 등 5명에게 수여됐다. 아울러 민간기업 23개사가...",
-    "published_at": "2026-09-16T05:34:00+09:00",
-    "cluster_id": "19f3",
-    "publisher": "epj.co.kr",
-    "title_clean": "전기산업연합회, K-에너지 수출 경쟁력 강화한다",
-    "summary": "전기산업연합회가 K-에너지 수출 경쟁력 강화를 위해 기후부장관 표창을 5명에게 수여하고 23개 민간기업을 포상했다. 에너지 수출 분야의 성과를 인정하고 산업 육성 의지를 표현한 행사이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T05:46:24+09:00",
     "importance": 2
   },
   {
