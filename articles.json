@@ -5624,6 +5624,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "감사원 공익감사 결정 미루는 사이…하동 LNG발전소 건설은 계속 - dandinews.com",
+    "link": "http://www.dandinews.com/news/articleView.html?idxno=17617",
+    "description": "한편 남부발전은 지난 8월 하동복합 1GW 건설사업의 EPC(설계·조달·시공) 사업자로 두산에너빌리티 컨소시엄을 선정했다. 2027년 1월 착공해 2029년 12월 준공할 계획이다.",
+    "published_at": "2026-09-24T13:02:00+09:00",
+    "cluster_id": "3230",
+    "publisher": "dandinews.com",
+    "title_clean": "감사원 공익감사 결정 미루는 사이…하동 LNG발전소 건설은 계속",
+    "summary": "남부발전이 하동복합 1GW 발전소 건설사업의 EPC 사업자로 두산에너빌리티 컨소시엠을 선정했다. 2027년 1월 착공해 2029년 12월 준공할 예정으로, 건설업계에 새로운 대형 프로젝트 수주 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-24T13:08:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21608,20 +21624,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "'쌍둥이 단지'인데 3억 뛴 분당 리모델링 분양가 - news.bizwatch.co.kr",
-    "link": "https://news.bizwatch.co.kr/article/real_estate/2026/09/14/0036",
-    "description": "바로 옆 단지이고 리모델링 시공사도 포스코이앤씨로 똑같다. 그런데 전용 면적 84㎡ 기준 최고 분양가는 1년 새 3억원이 올랐다. 경기 성남시 분당구 느티마을 3단지를 리모델링한 '더샵 분당티에르원(26억8400만원)...",
-    "published_at": "2026-09-16T06:36:00+09:00",
-    "cluster_id": "2e9e",
-    "publisher": "news.bizwatch.co.kr",
-    "title_clean": "'쌍둥이 단지'인데 3억 뛴 분당 리모델링 분양가",
-    "summary": "분당 느티마을 3단지 리모델링 분양가가 1년 새 3억원 상승했다. 동일한 시공사(포스코이앤씨)의 인접 단지와 비교해도 가격 차이가 크게 벌어진 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-16T07:16:32+09:00",
-    "importance": 2
+    "title": "\"아빠 월급은 왜 안 올라?\"…물가도 못 따라간 건설근로자 임금 - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20260922500302",
+    "description": "2%↑…임금 상승폭 두 배 웃돌아 공사 물량 감소에 고용·근무일수까지 줄며 실질소득 회복 '제자리' [아시아타임즈=옥한빈 기자] 건설경기 침체가 장기화하면서 현장 근로자들의 소득 여건도 악화하고 있다. 공사...",
+    "published_at": "2026-09-24T13:02:00+09:00",
+    "cluster_id": "09de",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "\"아빠 월급은 왜 안 올라?\"…물가도 못 따라간 건설근로자 임금",
+    "summary": "건설경기 침체로 현장 근로자의 임금 상승률이 물가상승률(2%)에 미치지 못하고 있다. 공사 물량 감소에 따른 고용·근무일수 축소로 실질소득이 회복되지 않는 상황이 지속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T13:08:41+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32310,21 +32326,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-17T22:05:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "서한, 추석 앞두고 협력사 공사대금 360억 조기 지급 - idaegu.co.kr",
-    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=560042",
-    "description": "김병준 서한 전무이사는 \"그동안 건설경기가 어렵다는 이야기를 꾸준히 들어 왔는데 최근에는 현장에서 그 어려움을 더욱 직접적으로 체감하고 있다\"라며 \"이럴 때일수록 업계가 서로 힘을 보태 함께 어려움을 이겨내고...",
-    "published_at": "2026-09-17T21:44:00+09:00",
-    "cluster_id": "2959",
-    "publisher": "idaegu.co.kr",
-    "title_clean": "서한, 추석 앞두고 협력사 공사대금 360억 조기 지급",
-    "summary": "서한이 추석을 앞두고 협력사에 공사대금 360억 원을 조기 지급하기로 결정했다. 건설경기 어려움 속에서 업계 상호 협력을 강조하며 협력사 자금난 완화에 나섰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T22:00:25+09:00",
-    "importance": 2
   }
 ]
