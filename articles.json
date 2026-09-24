@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천 8월 수출, 반도체·의약품만 웃었다… 나머지 품목 4.3% 감소 - kyeongin.com",
+    "link": "https://www.kyeongin.com/article/1771444",
+    "description": "기계 업계에서는 국내외 건설경기 부진에 따른 수요 위축과 중국 업체와의 가격 경쟁을 경영 부담 요인으로 꼽고 있다. 발주가 줄어든 상황에서 업체 간 가격 경쟁까지 심해져 일감을 확보하더라도 수익을 내기...",
+    "published_at": "2026-09-24T09:32:00+09:00",
+    "cluster_id": "8076",
+    "publisher": "kyeongin.com",
+    "title_clean": "인천 8월 수출, 반도체·의약품만 웃었다… 나머지 품목 4.3% 감소",
+    "summary": "인천 8월 수출에서 반도체·의약품은 성장했으나 나머지 품목은 4.3% 감소했다. 기계 업계는 건설경기 부진으로 인한 수요 위축과 중국과의 가격 경쟁으로 어려움을 겪고 있으며, 발주 감소 속 업체 간 가격 경쟁 심화로 수익성이 악화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T09:38:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-17T21:00:21+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL건설 내포신도시 아파트 현장서 작업자 1명 사망 - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xWUhIejZUZXE4eVBxY2wxZng1bGs3RXlHUThjdTZSNVRrR3hqWWFaOVVkZnpldWNRVTRHbU1Kb2tJSnU5Tl9YZ3ZxX1FPczdDVGtHdHpBbnd6eHM?oc=5",
-    "description": "<span style=``white-space: normal``>DL건설이 시공하는 충남 내포신도시 아파트 건설 현장에서 조적 작업자 1명이 의식불명 상태로 발견돼 병원으로 이송됐으나..",
-    "published_at": "2026-09-17T20:32:33+09:00",
-    "cluster_id": "c42d",
-    "publisher": "에너지경제신문",
-    "title_clean": "DL건설 내포신도시 아파트 현장서 작업자 1명 사망",
-    "summary": "DL건설의 충남 내포신도시 아파트 건설 현장에서 조적 작업자가 의식불명 상태로 발견되어 병원으로 이송됐다. 건설 현장 안전사고로 인한 인명피해 사건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T20:40:15+09:00",
-    "importance": 4
   }
 ]
