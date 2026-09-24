@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[창간24/철근 누락①] 설계·시공·감리 총체적 부실···구조적 관행이 부른 철근 누락 - 서울파이낸스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqQnZJLVFHYjBZT1FDY1JVanhpa2xYdndUMGtUc00zQ0kxRG5hc2VoSUVxaUZGUzBnbVFnM0hCM0dTZWlSRkI5elI5Qm5Ed3htVkcyZzFfTWhJeTQ3TEpabVJWUEVWWGxBTXc?oc=5",
+    "description": "반복되는 부실시공과 안전사고 악순환 속에서도 건설 현장의 체질 개선은 더디기만 하다. 공기 단축 압박과 시방서 미준수, 숙련공 부재와 무력화된 감리 체계까지 현장",
+    "published_at": "2026-09-24T14:00:00+09:00",
+    "cluster_id": "8479",
+    "publisher": "서울파이낸스",
+    "title_clean": "[창간24/철근 누락①] 설계·시공·감리 총체적 부실···구조적 관행이 부른 철근 누락",
+    "summary": "건설 현장에서 철근 누락 등 부실시공이 반복되고 있으며, 공기 단축 압박, 시방서 미준수, 숙련공 부재, 감리 체계 무력화 등 구조적 문제가 근본 원인으로 지적되고 있다. 설계·시공·감리 전 단계의 총체적 부실이 안전사고 악순환을 초래하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T14:28:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32309,22 +32325,6 @@
     "summary": "나주시가 추석 연휴를 앞두고 건설현장에 대한 안전관리 집중점검을 실시한다. 근로자 안전사고 예방과 귀성객·시민의 이동 안전을 위한 조치로 보인다.",
     "sentiment": "negative",
     "collected_at": "2026-09-17T22:50:07+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중대시민재해 예방 실무자 역량 강화 나서 - 뉴스홈(newshome)",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ld2dtcThyZEdZRGRCVS1sZWp5U1p4MjNjb3l6VHQ1YlFtb0VZZUFwc3BfQ1Fia0E0elp3YmRNbFpvX3ByclpXeVpiemxHM0R4RFRua3Fxb2dfbzE2Z3JpX3FTMHh4Ym44UkVwdzZn?oc=5",
-    "description": "충남도는 17일 도 인재개발원 소강당에서 도·시군 및 관계기관의 중대시민재해 관리 대상 시설 실무자 140여 명을 대상으로 ‘중대시민재해 예방을 위한 실무자 역량 강화 교육’을 실시했다.이번 교육은 중대시민재해 관련 업무에 대한 실무자들의 이해도를 높이고 시설 관리 현장에서 필요한 예",
-    "published_at": "2026-09-17T15:52:21+09:00",
-    "cluster_id": "5427",
-    "publisher": "뉴스홈(newshome)",
-    "title_clean": "중대시민재해 예방 실무자 역량 강화 나서",
-    "summary": "충남도가 도·시군 및 관계기관의 중대시민재해 관리 대상 시설 실무자 140여 명을 대상으로 역량 강화 교육을 실시했다. 중대시민재해 관련 업무 이해도 제고 및 현장 관리 역량 강화를 목표로 하는 교육이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T22:05:20+09:00",
     "importance": 4
   }
 ]
