@@ -5437,23 +5437,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대구시, 태왕이앤씨 법정관리 관련 관계기관 긴급 대책회의 개최 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10852034?ref=naver",
-    "description": "이날 추경호 대구시장 주재로 열린 회의에는 iM뱅크와 금융감독원, 신용보증기금 등 주요 금융기관 관계자와 대한건설협회, 대한전문건설협회, 대한기계설비건설협회 관계자 등이 참석했다. 회의 참석자들은 태왕이앤씨...",
-    "published_at": "2026-08-26T06:59:00+09:00",
-    "cluster_id": "daaf",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "대구시, 태왕이앤씨 법정관리 관련 관계기관 긴급 대책회의 개최",
-    "summary": "대구시가 태왕이앤씨의 법정관리 사태와 관련하여 금융기관과 건설협회 등 관계기관이 참석한 긴급 대책회의를 개최했다. 건설업계의 연쇄 부도 우려에 대응하기 위한 협력 방안을 논의했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-26T07:09:16+09:00",
-    "event_label": "대한기계설비건설협회 태왕이앤씨 법정관리 관련 긴급 대책회의 참석",
-    "importance": 7
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21451,6 +21434,22 @@
     "summary": "IPARK현대산업개발이 서울 용산구 숙대입구역세권 5400억 규모의 장기전세주택 재개발사업 수주를 검토 중이다. 이는 대신자산신탁으로부터 수주한 프로젝트로 용산 지역 사업 포트폴리오 확대를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-16T09:41:37+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "엔알비, \"모듈러도 튼튼하다\"…기밀·차음·내진 성적표 공개 - fetv.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lX1JwS3MzSlZzel8zeE9rYmJfazNpeXRJdGhBMm1qTEhIeVJLYU11bFRPcjJLUDdlMUFkbXhaYV9acTRWdHR3NVlqbFdubFI0dGw1SW1SZ1hmY0FOYXVUS2lueC1Lc1dJ?oc=5",
+    "description": "[FETV=임요한 기자] 모듈러 전문기업 엔알비가 시공 중인 LH 의왕초평 A-4BL 모듈러 아파트가 주요 주거성능 시험을 통과했다. 층간소음과 세대 간 차음은",
+    "published_at": "2026-09-25T07:00:00+09:00",
+    "cluster_id": "5aa2",
+    "publisher": "fetv.co.kr",
+    "title_clean": "엔알비, \"모듈러도 튼튼하다\"…기밀·차음·내진 성적표 공개",
+    "summary": "모듈러 전문기업 엔알비가 시공 중인 LH 의왕초평 모듈러 아파트가 층간소음, 차음, 내진 등 주요 주거성능 시험을 통과했다. 모듈러 공법의 품질 안정성을 입증하며 시장 확대 가능성을 시사한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-25T07:22:39+09:00",
     "importance": 2
   },
   {
