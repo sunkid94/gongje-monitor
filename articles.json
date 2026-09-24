@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한수원 김회천 사장, 추석 앞두고 원전·수력발전소 안전점검 - gukjenews.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkcFVsZzZSVmM5eWh0OW1leTA1RUs3S0lGSzVBUFJzZXdRZGlmR0JSYURJZ3pRWjdDRUdWbXVHS2lweDF6QWhOSEFVX3JlUHZab0xyLURUUWh0UkZSTHJySzBPTElvMk52c3BZVGxR?oc=5",
+    "description": "(경북=국제뉴스) 김진태 기자 = 김회천 한국수력원자력 사장이 추석 연휴를 앞두고 원전 건설 현장과 수력발전소를 찾아 안전관리 실태를 점검했다.김 사장은 9월 22일 한울원자력본부 신한울2건설소를 방문해 주요 공정과 작업 현황을 확인하고, 건설 과정에서 발생할 수 있는 위험 요인과 안전 조치 이행 여부를 점검했다. 이상준 비상임이사도 동행했다.또 스마트관제센터에서 스마트 기술을 활용한 안전관리와 관제체계 운영 상황을 살피고, 실시간 위험 요소 감지와 신속 대응 절차를 확인했다. 연휴 기간 비상 대응체계가 정상적으로 작동할 수 있도록",
+    "published_at": "2026-09-24T00:35:08+09:00",
+    "cluster_id": "c93a",
+    "publisher": "gukjenews.com",
+    "title_clean": "한수원 김회천 사장, 추석 앞두고 원전·수력발전소 안전점검",
+    "summary": "한수원 김회천 사장이 추석 연휴 앞두고 신한울2 원전 건설소와 수력발전소를 방문해 안전점검을 실시했다. 건설 공정 현황 확인, 위험 요인 점검, 스마트관제센터 운영 현황 등을 살피며 연휴 기간 비상 대응체계 정상 작동을 확인했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-24T12:48:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-17T22:00:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“국민연금? 한 푼도 못 받아요”…은퇴 건설 노동자들 - news.kbs.co.kr",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666555&ref=A",
-    "description": "2020년부터 한 달에 8일 이상 일하는 건설 일용직 근로자도 국민연금에 가입할 수 있게 됐지만, 당시 이미 60, 70대였던 노동자들은 최소 가입 기간 10년을 채우기 어려웠습니다. [홍석완/80세 : \"국민연금은 없고 기초연금...",
-    "published_at": "2026-09-17T21:41:00+09:00",
-    "cluster_id": "2f98",
-    "publisher": "news.kbs.co.kr",
-    "title_clean": "“국민연금? 한 푼도 못 받아요”…은퇴 건설 노동자들",
-    "summary": "2020년 건설 일용직 국민연금 제도 개선에도 불구하고, 이미 고령인 기존 건설 노동자들은 최소 가입 기간 10년을 충족하기 어려워 연금 수급에서 배제되고 있다. 제도 시행 시점의 나이 문제로 인한 사각지대가 발생하면서 은퇴 건설 노동자들의 생활 보장 문제가 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T22:00:25+09:00",
-    "importance": 4
   }
 ]
