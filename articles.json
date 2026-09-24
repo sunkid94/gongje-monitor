@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[창간24/철근 누락①] 설계·시공·감리 총체적 부실···구조적 관행이... - seoulfn.com",
+    "link": "https://www.seoulfn.com/news/articleView.html?idxno=638583",
+    "description": "스마트건설 도입 등 대안이 거론되지만, 현장의 구조적 한계를 메우기엔 여전히 갈 길이 멀다. 본지는 건설 현장 부실의 근본 원인을 짚어보고, 대안으로 떠오른 스마트건설의 현재 발자국과 실질적인 과제를 3회에 걸쳐...",
+    "published_at": "2026-09-24T14:00:00+09:00",
+    "cluster_id": "ff8b",
+    "publisher": "seoulfn.com",
+    "title_clean": "[창간24/철근 누락①] 설계·시공·감리 총체적 부실···구조적 관행이...",
+    "summary": "건설 현장의 철근 누락 등 부실 문제가 설계·시공·감리 전반에서 체계적으로 발생하고 있으며, 구조적 관행이 근본 원인으로 지적되고 있다. 스마트건설 등 개선 대안이 제시되고 있지만 현장의 구조적 한계를 해결하기에는 아직 한계가 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T14:48:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-17T22:54:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "나주시, 추석 앞두고 건설현장 안전관리 집중점검 - stnsports.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sSlI5RzFrczJVckhuM2FHeEpvUi1GNjdFc0V2ZV9BSlJPeG4wbDNMTVZUeVdSSnBzN2JTT3BkbGlnSVd3OGZDWDVtc0NHR2x4LXVNM0x6WXp1VlY4Q2I0ZVluZXFTT1FoYm1xWXctZw?oc=5",
-    "description": "[STN뉴스] 배정빈 기자┃전남광주통합특별시 나주시가 추석 연휴를 앞두고 건설현장 근로자의 안전은 물론 귀성객과 시민들의 이동 불편과 안전사고까지 예방하기 위해",
-    "published_at": "2026-09-17T22:33:49+09:00",
-    "cluster_id": "1197",
-    "publisher": "stnsports.co.kr",
-    "title_clean": "나주시, 추석 앞두고 건설현장 안전관리 집중점검",
-    "summary": "나주시가 추석 연휴를 앞두고 건설현장에 대한 안전관리 집중점검을 실시한다. 근로자 안전사고 예방과 귀성객·시민의 이동 안전을 위한 조치로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T22:50:07+09:00",
-    "importance": 4
   }
 ]
