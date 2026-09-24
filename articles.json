@@ -5488,23 +5488,6 @@
     "importance": 7
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "태왕이앤씨 법정관리 파장…대구시·금융권, 지역 건설업계 연쇄 위기 ... - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260825193721958",
-    "description": "대구시장 주재로 열린 이날 회의에는 iM뱅크, 금융감독원, 신용보증기금 등 주요 금융기관 관계자를 비롯해 대한건설협회·대한전문건설협회·대한기계설비건설협회 대구광역시회 회장단과 ㈜태왕이앤씨 관계자 등이...",
-    "published_at": "2026-08-25T19:42:00+09:00",
-    "cluster_id": "1629",
-    "publisher": "ajunews.com",
-    "title_clean": "태왕이앤씨 법정관리 파장…대구시·금융권, 지역 건설업계 연쇄 위기 ...",
-    "summary": "태왕이앤씨의 법정관리 신청으로 대구 건설업계 연쇄 위기 우려가 커지고 있다. 대구시가 금융기관과 건설협회 관계자들을 소집해 업계 지원 방안을 논의했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-08-25T19:49:23+09:00",
-    "event_label": "대한기계설비건설협회 회원사 태왕이앤씨 법정관리 파장",
-    "importance": 7
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21503,6 +21486,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-16T09:06:15+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "정의선 회장 처남 정대현의 에스피네이처…'74억 부당지원' 공방(1부) - the-today.com",
+    "link": "https://www.the-today.com/news/articleView.html?idxno=90712",
+    "description": "반면 공정위는 건설경기 부진과 분체 공급과잉 상황에서도 같은 거래조건이 유지됐다고 지적했다. 성수기 수급난이 수년에 걸친 가격 차이를 설명할 수 있는지가 남는 쟁점이다. 결국 정상가격 산정 방식을 놓고도...",
+    "published_at": "2026-09-24T20:00:00+09:00",
+    "cluster_id": "cf86",
+    "publisher": "",
+    "title_clean": "정의선 회장 처남 정대현의 에스피네이처…'74억 부당지원' 공방(1부) - the-today.com",
+    "summary": "정의선 회장 처남 정대현이 운영하는 에스피네이처가 계열사로부터 74억 원 규모의 부당지원을 받은 것으로 공정위가 적발했다. 공정위는 건설경기 부진과 공급과잉 상황에서도 거래조건이 동일하게 유지된 점을 문제 삼으며 정상가격 산정을 놓고 논쟁 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T20:02:57+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
