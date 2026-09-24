@@ -21624,6 +21624,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[기획] 중대재해 최대 15년…건설사 긴장 - 한국금융경제신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RVDVKWTlwVmtBNElEOHFWREZkb1FlT2poelJrNTdGeDdrNktNRDY1TGxJblNKSUFQY2dIWUNoSHUtcTN5YlY3bjFSUzVSUFMzNVdrWEFSRDktVk55NjlDcnNqSVBxTUxhWGVXatIBcEFVX3lxTE5zby1DczNVSzVEWW96aks1UVM1cUkwMVhvSlE3OWJOY0JfS2pzdW1YS1FsT1dPQ3pUanFnSVR6Mlc4VE5WVzVQT2h1MlRJMzdlQ0xZMnI0N1RLSG9BREZDWldsRmRNQTJFMWoxQ0dSNUg?oc=5",
+    "description": "한국금융경제신문=김한나 기자 | 중대재해처벌법 위반 범죄에 처음으로 별도의 양형기준이 마련된다. 근로자가 숨진 중대산업재해는 기본 징역 1년 6개월~4년, 가중 사유가 겹치면 최대 15년까지 권고할 수 있도록 했다.건설사에는 형량 못지않게 양형인자가 민감하다. 사고가 난 현장의 안전조치뿐 아니라 본사가 정한 안전예산과 공사기간, 도급계약 조건까지 재판 과정에서 따져볼 수 있기 때문이다.대법원 양형위원회는 지난 21일 전체회의를 열고 중대재해처벌법 위반 범죄에 대한 양형기준 수정안을 심의했다.양형기준은 판사가 형량을 정할 때 참고하는",
+    "published_at": "2026-09-23T14:39:59+09:00",
+    "cluster_id": "2150",
+    "publisher": "한국금융경제신문",
+    "title_clean": "[기획] 중대재해 최대 15년…건설사 긴장",
+    "summary": "중대재해처벌법 위반 범죄에 대한 양형기준이 처음으로 마련되어 근로자 사망 시 징역 1년 6개월~4년, 가중사유 시 최대 15년까지 선고될 수 있다. 건설사는 현장 안전조치뿐 아니라 본사의 안전예산, 공사기간, 도급계약 조건 등이 재판에 반영되므로 법적 리스크가 크게 높아졌다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-24T09:48:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-17T21:15:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "서한, 추석 앞두고 협력사 공사대금 359억원 조기 지급 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=05999126645581104&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "이 같은 협력 실적을 바탕으로 2017년부터 올해까지 10년 연속 국토교통부 건설사업자 간 상호협력평가에서 95점 이상을 받았다. 대기업군 최우수 등급을 획득하며 대구·경북지역 1위를 기록했다. 서한은 울산 동구...",
-    "published_at": "2026-09-17T20:51:00+09:00",
-    "cluster_id": "bd1d",
-    "publisher": "edaily.co.kr",
-    "title_clean": "서한, 추석 앞두고 협력사 공사대금 359억원 조기 지급",
-    "summary": "서한이 추석을 앞두고 협력사에 359억원의 공사대금을 조기 지급했다. 동사는 2017년부터 10년 연속 국토교통부 건설사업자 상호협력평가에서 95점 이상을 획득하며 대구·경북지역 1위를 기록했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T21:00:21+09:00",
-    "importance": 3
   }
 ]
