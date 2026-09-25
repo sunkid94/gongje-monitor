@@ -5185,23 +5185,6 @@
     "importance": 7
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "충남교육청, 대한기계설비건설협회로부터 장학금 1000만 원 전달받아 - cctimes.kr",
-    "link": "http://www.cctimes.kr/news/articleView.html?idxno=923637",
-    "description": "▲ 26일 교육청 접견실에서 대한기계설비건설협회 대전·세종·충남도회로부터 교육 소외 학생의 성장 지원 장학금 전달식 사진-충남교육청 제공  충남교육청(교육감 이병도)은 26일 교육청 접견실에서...",
-    "published_at": "2026-08-26T12:42:00+09:00",
-    "cluster_id": "7672",
-    "publisher": "cctimes.kr",
-    "title_clean": "충남교육청, 대한기계설비건설협회로부터 장학금 1000만 원 전달받아",
-    "summary": "대한기계설비건설협회 대전·세종·충남도회가 충남교육청에 교육 소외 학생 지원을 위한 장학금 1000만 원을 전달했다. 업계의 사회공헌 활동 사례를 보도한 기사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-26T12:49:50+09:00",
-    "event_label": "대한기계설비건설협회 장학금 1000만 원 전달",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21200,6 +21183,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-16T09:57:01+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "외국인 산재 사망 10명 중 4명 '건설업'…최다 원인은 추락 - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065763",
+    "description": "특히 추락과 깔림, 끼임 등 예방 가능한 사고가 사망 원인의 70%를 넘어 건설현장 안전관리 강화 필요성이 커지고 있다. 25일 국회 기후에너지환경노동위원회 소속 박해철 더불어민주당 의원이 고용노동부로부터...",
+    "published_at": "2026-09-25T12:58:00+09:00",
+    "cluster_id": "4922",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "외국인 산재 사망 10명 중 4명 '건설업'…최다 원인은 추락",
+    "summary": "외국인 산재 사망의 40%가 건설업에서 발생하며, 추락·깔림·끼임 등 예방 가능한 사고가 전체 사망원인의 70% 이상을 차지하고 있다. 건설현장 안전관리 강화의 필요성이 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-25T13:02:56+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설수주",
