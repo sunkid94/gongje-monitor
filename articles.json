@@ -4794,6 +4794,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대건설 15조 도전…삼성·GS도 ‘10조 클럽’ 눈앞 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20094990?ref=naver",
+    "description": "대우건설(047040)은 현재 4조3530억원을 확보한 가운데 목동8단지와 신월시영 등을 추가 수주 후보로 두고 있다. 목동8단지는 예정 공사비가 1조1119억 원으로 대우건설을 비롯해 GS건설·DL이앤씨(375500)...",
+    "published_at": "2026-09-26T07:15:00+09:00",
+    "cluster_id": "4b3f",
+    "publisher": "sedaily.com",
+    "title_clean": "현대건설 15조 도전…삼성·GS도 ‘10조 클럽’ 눈앞",
+    "summary": "현대건설이 15조원대 수주 달성을 목표로 하고 있으며, 삼성·GS도 10조원 클럽 진입을 앞두고 있다. 대우건설은 목동8단지, 신월시영 등 대형 프로젝트 수주를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-26T07:27:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20774,22 +20790,6 @@
     "title_clean": "거제시, 조선산업 현장 주역 4명 표창",
     "summary": "거제시가 삼성중공업과 한화오션의 조선산업 현장 근로자 4명을 표창했다. 수상자들은 조선 현장에서 성실한 업무 수행과 축적된 경험·기술을 바탕으로 기여한 것으로 평가받았다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-16T10:16:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "30조원 규모 목동 신시가지 재건축…'선별 수주' 흐름 잇나 - newspost.kr",
-    "link": "https://www.newspost.kr/news/articleView.html?idxno=225649",
-    "description": "현재 현대건설, 대우건설, 포스코이앤씨, DL 이앤씨가 관심을 보이고 있어 하이엔드 아파트 브랜드 간 경쟁이 예고됐다. ICAO 공항 고도제한 개정…사업 속도전 변수 목동 재건축 사업의 속도전에 변수로 작용할 수...",
-    "published_at": "2026-09-16T10:00:00+09:00",
-    "cluster_id": "3d1a",
-    "publisher": "newspost.kr",
-    "title_clean": "30조원 규모 목동 신시가지 재건축…'선별 수주' 흐름 잇나",
-    "summary": "목동 신시가지 재건축 사업(30조원 규모)에 현대건설, 대우건설, 포스코이앤씨, DL이앤씨 등 주요 건설사들이 관심을 보이며 수주 경쟁이 예상된다. 다만 ICAO 공항 고도제한 개정이 사업 추진 일정에 변수로 작용할 수 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-16T10:16:56+09:00",
     "importance": 2
   },
