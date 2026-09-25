@@ -4794,6 +4794,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "계양강화道·제천영월道 실착공 신호탄… 건설사업관리 선정 돌입 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/news-detail/2026092400000158675",
+    "description": "턴키(설계·시공 일괄 진행) 방식인 7공구는 롯데건설이 건설한다. 대안제시형 방식인 계양∼강화 고속도로 1공구는 태영건설·남광토건·극동건설이 수주 각축전을 벌이고 있다. 도로공사는 연내 담당 건설사를 선정할...",
+    "published_at": "2026-09-26T08:04:00+09:00",
+    "cluster_id": "bad1",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "계양강화道·제천영월道 실착공 신호탄… 건설사업관리 선정 돌입",
+    "summary": "계양∼강화 고속도로와 제천∼영월 고속도로 사업이 본격화되며 건설사업관리 선정 절차에 돌입했다. 롯데건설이 7공구를 수주했고, 태영건설·남광토건·극동건설 등이 1공구 수주를 두고 경쟁 중이며, 도로공사는 연내 건설사를 선정할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-26T08:12:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20775,22 +20791,6 @@
     "summary": "목동 4단지 재개발 사업에서 현대건설이 시공사 선정 유력 후보로 떠오르고 있다. 포스코이앤씨는 최근 활동이 미미해지며 경쟁에서 뒤처진 상태다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-16T10:37:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "앤트로픽·오픈AI “AI 속도 조절”…돈·안전 충돌에 업계 ‘위기’ - sedaily.com",
-    "link": "https://www.sedaily.com/article/20091430?ref=naver",
-    "description": "미국은 한국전력공사·한국수력원자력·두산에너빌리티 등 원전 생태계 핵심 기업이 주주로 참여하면 웨스팅하우스의 사업 실행력이 높아진다고 보는 반면, 한국은 APR-1400 등 국산 경수로의 원천 기술을 쥔...",
-    "published_at": "2026-09-16T10:00:00+09:00",
-    "cluster_id": "c3f2",
-    "publisher": "sedaily.com",
-    "title_clean": "앤트로픽·오픈AI “AI 속도 조절”…돈·안전 충돌에 업계 ‘위기’",
-    "summary": "제목과 내용이 불일치하는 기사로, 제목은 AI 업체들의 개발 속도 조절 논쟁을 다루고 있으나 본문은 미국-한국의 원전 생태계 참여 및 기술 이전 문제를 다루고 있습니다. 건설업계 관련성이 불명확하여 판단이 어렵습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-16T10:16:56+09:00",
     "importance": 2
   },
   {
