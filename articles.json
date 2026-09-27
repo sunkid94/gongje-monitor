@@ -20573,6 +20573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[박상욱의 기후 1.5] 줄긴 줄었는데…뜯어보면 '아쉬움 한가득' 배출량 - news.jtbc.co.kr",
+    "link": "https://news.jtbc.co.kr/article/NB12320204?influxDiv=NAVER",
+    "description": "정부는 건설경기 침체와 수출 여건의 악화로 조강 생산량이 줄어든 것을 배경으로 꼽았습니다. 실제 전로강 생산량은 2023년 4,699.9만톤에서 2024년 4,597.8만톤, 2025년엔 4,545.9만톤으로 해마다 줄었고, 전기로강...",
+    "published_at": "2026-09-28T08:00:00+09:00",
+    "cluster_id": "dcaf",
+    "publisher": "news.jtbc.co.kr",
+    "title_clean": "[박상욱의 기후 1.5] 줄긴 줄었는데…뜯어보면 '아쉬움 한가득' 배출량",
+    "summary": "정부가 2024~2025년 강철 배출량 감소를 발표했으나, 건설경기 침체와 수출 악화로 인한 생산량 감소가 주요 원인으로 실질적인 배출 감축 노력보다는 경기 둔화의 결과라는 한계를 드러냈다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-28T08:12:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32248,22 +32264,6 @@
     "publisher": "뉴시안",
     "title_clean": "“모국어로 배우니 쏙쏙” 한화건설, 외국인 근로자 맞춤 ‘안전교육’ 실시",
     "summary": "한화건설이 외국인 근로자를 위해 모국어 기반의 맞춤형 안전교육을 실시했다. 건설현장의 외국인 인력 비중 증가에 따라 언어 장벽을 극복하고 안전사각지대를 해소하려는 산업 현장의 개선 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T10:31:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 외국인 근로자 모국어 안전교육 실시 - fetv.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqZXpXbTZnQXNvbHo0Yi1aXzhGeGgxMXFJWk8zWVhtMVRfN3dqTWdBVGRlelI1WThuVWNtYkFLSkJycUZUMndLVDZGdHBBd1hqUm9ad2hiUlhaQ3lLbE5xeldNcmRrQzBt?oc=5",
-    "description": "[FETV=임요한 기자] ㈜한화 건설부문이 외국인 근로자를 국적별로 나눠 안전보건 교육을 실시했다. 지난 16일 한화포레나 천안아산역 공사현장에서다. 응급처치와",
-    "published_at": "2026-09-18T10:10:53+09:00",
-    "cluster_id": "280c",
-    "publisher": "fetv.co.kr",
-    "title_clean": "한화 건설부문, 외국인 근로자 모국어 안전교육 실시",
-    "summary": "한화 건설부문이 외국인 근로자를 위해 모국어 기반의 안전보건 교육을 실시했다. 한화포레나 천안아산역 공사현장에서 국적별로 그룹을 나누어 응급처치 등의 교육을 진행했다.",
     "sentiment": "positive",
     "collected_at": "2026-09-18T10:31:25+09:00",
     "importance": 2
