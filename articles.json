@@ -4539,6 +4539,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성·현대가 점령한 여의도 재건축 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12161958",
+    "description": "이 외에도 대교(삼성물산), 한양(현대건설), 공작(대우건설)의 수주가 완료된 가운데, 시범·화랑·삼익·은하아파트가 시공사 선정 절차를 밟고 있습니다. 여의도 단지 고층에서 직접 한강뷰를 감상하며, 단지의 입지...",
+    "published_at": "2026-09-27T16:37:00+09:00",
+    "cluster_id": "4d8c",
+    "publisher": "mk.co.kr",
+    "title_clean": "삼성·현대가 점령한 여의도 재건축",
+    "summary": "여의도 재건축 사업에서 삼성물산, 현대건설, 대우건설 등 대형 건설사들이 주요 단지의 수주를 완료하고 추가 단지들의 시공사 선정이 진행 중이다. 여의도 고층 아파트의 한강뷰 등 입지 가치를 강조하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-27T16:57:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20521,22 +20537,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-16T11:12:38+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "실적 회복한 IPARK현대산업개발, 숙대입구역세권서 '용산 벨트' 확장 나... - fnnews.com",
-    "link": "https://www.fnnews.com/news/202609161030374534",
-    "description": "IPARK현대산업개발이 서울 용산을 중심으로 도시정비사업 수주 확대에 나선다. 16일 정비업계에 따르면 IPARK현대산업개발은 지난달 말 대신자산신탁이 개최한 숙대입구역세권 장기전세주택 도시정비형 재개발사업...",
-    "published_at": "2026-09-16T10:58:00+09:00",
-    "cluster_id": "3cd9",
-    "publisher": "fnnews.com",
-    "title_clean": "실적 회복한 IPARK현대산업개발, 숙대입구역세권서 '용산 벨트' 확장 나...",
-    "summary": "IPARK현대산업개발이 실적 회복을 바탕으로 서울 용산 지역을 중심으로 도시정비사업 수주를 확대하고 있다. 숙대입구역세권 장기전세주택 도시정비형 재개발사업 등을 추진하며 용산 지역 사업 포트폴리오를 확장하는 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T11:12:38+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
