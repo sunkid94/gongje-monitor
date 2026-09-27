@@ -4556,6 +4556,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[정비사업탐방] '1.2조' 신월시영 재건축, 시공사 선정 본격화 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1418170",
+    "description": "지난 11일 시공사 선정을 위한 현장설명회에는 현대건설, 대우건설, 포스코이앤씨, 제일건설이 참석했다. 입찰 마감은 오는 10월 26일이다. 입찰보증금은 500억원으로 현금 250억원과 보증보험증권 250억원을 각각 납부해야...",
+    "published_at": "2026-09-27T14:04:00+09:00",
+    "cluster_id": "959a",
+    "publisher": "",
+    "title_clean": "[정비사업탐방] '1.2조' 신월시영 재건축, 시공사 선정 본격화 - m-i.kr",
+    "summary": "1.2조 규모의 신월시영 재건축 사업이 시공사 선정 단계에 진입했으며, 현대건설 등 4개 대형 건설사가 입찰에 참여 중이다. 10월 26일 입찰 마감을 앞두고 500억원의 입찰보증금 납부 요건이 설정되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-27T14:07:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20540,20 +20556,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "실적 회복한 IPARK현대산업개발, 숙대입구역세권서 ‘용산 벨트’ 확장 - wowtv.co.kr",
-    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609160353&t=NN",
-    "description": "수익성과 재무 건전성 회복세를 보이는 IPARK현대산업개발이 용산에서 신규 수주 확대에 나섰다. 정비업계에 따르면 IPARK현대산업개발은 지난달 말 대신자산신탁이 개최한 숙대입구역세권 장기전세주택...",
-    "published_at": "2026-09-16T10:47:00+09:00",
-    "cluster_id": "3cd9",
-    "publisher": "wowtv.co.kr",
-    "title_clean": "실적 회복한 IPARK현대산업개발, 숙대입구역세권서 ‘용산 벨트’ 확장",
-    "summary": "실적 회복 중인 IPARK현대산업개발이 숙대입구역세권 장기전세주택 사업 수주를 통해 용산 지역에서의 사업 확대를 추진 중이다. 건설사의 수익성 개선과 신규 수주 증가는 건설업계의 긍정적 신호로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T11:12:38+09:00",
-    "importance": 3
+    "title": "\"저가 철강재 공습·글로벌 장벽에 꽁꽁\"… 포항 기업 4분기 체감경기 ... - straightnews.co.kr",
+    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=311987",
+    "description": "장기화된 국내 건설경기 침체와 내수 둔화 속에 중국·동남아산 저가 철강재가 대거 쏟아져 들어오고 있는 데다, 미국의 철강 고율 관세 유지와 유럽연합(EU)의 철강 쿼터 축소 등 글로벌 무역장벽이 겹치면서 수출...",
+    "published_at": "2026-09-27T13:50:00+09:00",
+    "cluster_id": "8c01",
+    "publisher": "straightnews.co.kr",
+    "title_clean": "\"저가 철강재 공습·글로벌 장벽에 꽁꽁\"… 포항 기업 4분기 체감경기 ...",
+    "summary": "포항 철강 기업들이 국내 건설경기 침체, 중국·동남아 저가 철강재 수입 증가, 미국 관세 유지, EU 쿼터 축소 등 다중의 악재로 4분기 경기 부진을 겪고 있다. 글로벌 무역장벽 강화와 내수 둔화로 수출마저 어려운 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T14:07:44+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
