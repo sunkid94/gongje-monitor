@@ -20556,6 +20556,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "도 내달 1일부터 1억 원 미만 소규모 건설공사 대상 재해예방기술지도용역 시행 - 강원도민일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QVklBemxyQ0kzVktReFZqcnd5bzhVeEJCYnBid1kyaVBPZldvUnNOUE90ZkNEYk9SSGpjT1FzS3pZQXdnVEhCejZKTGRjcjdBdkZJWHg0ZzZDM0tvY2FIUVVuTnE5X2ph?oc=5",
+    "description": "강원도 도로관리사업소는 내달 1일부터 지역 내 건설공사의 안전관리 사각지대를 해소하고 성실시공을 유도하기 위해 소규모 건설현장에 대한 재해예방 기술지도용역을 확대",
+    "published_at": "2026-09-27T15:12:37+09:00",
+    "cluster_id": "e694",
+    "publisher": "강원도민일보",
+    "title_clean": "도 내달 1일부터 1억 원 미만 소규모 건설공사 대상 재해예방기술지도용역 시행",
+    "summary": "강원도가 내달 1일부터 1억 원 미만 소규모 건설공사를 대상으로 재해예방 기술지도용역을 확대 시행한다. 건설현장의 안전관리 사각지대 해소와 성실시공 유도가 목적이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T15:42:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32249,22 +32265,6 @@
     "summary": "새만금 농업용수 공급공사가 수의계약을 통해 한신공영 컨소시엄에 발주되었으며, 심의위원단이 95.26점을 부여하여 기준을 충분히 만족했다. 건설업계에 새로운 수주 기회를 제공하는 사례이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-18T05:10:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[단독]시간당 125mm 괴물폭우 느는데 시군구 절반 방재시설 기준 이하 - donga.com",
-    "link": "https://www.donga.com/news/Society/article/all/20260918/134692412/2",
-    "description": "정창삼 인덕대 스마트건설방재학과 교수는 “국지성 폭우가 새로운 재난 패러다임이 된 만큼 방재 성능 목표를 전반적으로 상향하고 이를 준수할 수 있게 지원해야 한다”고 말했다. 임 의원은 “일부 지자체는 지역...",
-    "published_at": "2026-09-18T04:34:00+09:00",
-    "cluster_id": "ba0d",
-    "publisher": "donga.com",
-    "title_clean": "[단독]시간당 125mm 괴물폭우 느는데 시군구 절반 방재시설 기준 이하",
-    "summary": "국지성 폭우가 증가하고 있으나 전국 시군구 절반이 방재시설 기준 이하 수준으로 운영되고 있다. 전문가들은 방재 성능 목표 상향과 이에 따른 지원 강화를 촉구하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T04:40:08+09:00",
     "importance": 2
   }
 ]
