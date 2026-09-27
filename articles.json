@@ -20539,6 +20539,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "해수부, 항만·어항 등 건설현장 46곳 특별점검…품질·안전관리 강화 - 해양레저신문",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDZGQ5U09ibjBPc3NBTFhNVF9VSGZGY0p5aVlDc0t1SlFVNHVFYU8tUFk3czYxbFg0TWp6VS1nTGc4UEpkZ2dkQXM1X0dZcHNIUGd3OE56NA?oc=5",
+    "description": "- 9월 28일~10월 30일 전문가 합동 현장점검…항만 25곳·어항 13곳 등 대상- 올해부터 연 2회로 점검 확대…특별 관리 대상 사업 전수점검 실시해양수산부가 항만·어항 등 해양수산 건설공사의 품질 확보와 안전사고 예방을 위해 9월 28일부터 10월 30일까지 5주간 전국 46개",
+    "published_at": "2026-09-27T19:42:25+09:00",
+    "cluster_id": "f14f",
+    "publisher": "해양레저신문",
+    "title_clean": "해수부, 항만·어항 등 건설현장 46곳 특별점검…품질·안전관리 강화",
+    "summary": "해수부가 9월 28일부터 10월 30일까지 항만·어항 등 해양수산 건설공사 46곳에 대해 특별점검을 실시한다. 품질·안전관리 강화를 위해 올해부터 연 2회 점검으로 확대하고 특별 관리 대상 사업은 전수점검한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T19:52:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32248,22 +32264,6 @@
     "summary": "2026년 9월 18일 국회에서 건설노동자 안전보건센터 관련 간담회와 경원선 개발 논의 등이 예정되어 있다. 건설노동자 생명과 건강 보호를 위한 안전보건 정책 논의가 진행될 예정이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-18T07:39:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[Who Is ?] 서명환 대원전선 대표이사 회장 - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445683",
-    "description": "△국내 자동차 전선업계 2위 서명환은 2010년대 미·중 무역분쟁과 국내 건설경기 침체 등 대내외 어려움 속에서도 사업 다각화를 위해 과감한 인수합병을 추진했다. 대원에코그린, 대원그린에너지, 신대원에너지를...",
-    "published_at": "2026-09-18T07:00:00+09:00",
-    "cluster_id": "dbbd",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "[Who Is ?] 서명환 대원전선 대표이사 회장",
-    "summary": "자동차 전선업계 2위 업체인 대원전선의 서명환 대표이사 회장을 소개하는 기사로, 미·중 무역분쟁과 국내 건설경기 침체 등의 어려운 경영환경에서 과감한 인수합병을 통해 사업을 다각화한 경영 실적을 다룬다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T07:10:14+09:00",
     "importance": 2
   }
 ]
