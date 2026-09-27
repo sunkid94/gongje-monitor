@@ -20539,6 +20539,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "포항 기업 절반 이상 \"경기 악화 예상\" - hidomin.com",
+    "link": "https://www.hidomin.com/news/articleView.html?idxno=722738",
+    "description": "이는 장기간 이어지고 있는 건설경기 침체와 철강제조업 전반의 수요 둔화로 인해 내수 판매가 부진한데다 대외적으로는 미국의 높은 철강 관세 부담과 EU 철강 수입 쿼터 축소, 주요 수출시장의 진입 장벽이 높아진...",
+    "published_at": "2026-09-27T20:30:00+09:00",
+    "cluster_id": "696c",
+    "publisher": "hidomin.com",
+    "title_clean": "포항 기업 절반 이상 \"경기 악화 예상\"",
+    "summary": "포항 기업들이 건설경기 침체와 철강 수요 둔화로 내수 부진을 겪고 있으며, 미국 철강 관세와 EU 수입 쿼터 축소 등 수출 장벽 심화로 경기 악화를 예상하고 있다. 건설·철강 관련 산업 전반에 대한 부정적 전망이 확산되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T20:37:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32248,22 +32264,6 @@
     "summary": "대우건설이 수주한 나이지리아 LNG 프로젝트가 내년 말 가동 예정이다. NLNG의 CEO가 방콕에서 프로젝트 진행 상황을 언급했다.",
     "sentiment": "positive",
     "collected_at": "2026-09-18T08:04:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "【오늘의 국회일정】 2026년 9월 18일 - lawtimes.co.kr",
-    "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226566",
-    "description": "2026 건설노동자 생명과 건강을 보호하는 안전보건센터(의원회관 제2간담회의실) 10:00 이재강 의원실 등, 경원선, 평화와 경제를 잇다: 한반도 공동성장과 접경지역의 재도약(의원회관 제4간담회의실) 10:00 윤한홍...",
-    "published_at": "2026-09-18T07:30:00+09:00",
-    "cluster_id": "09a0",
-    "publisher": "lawtimes.co.kr",
-    "title_clean": "【오늘의 국회일정】 2026년 9월 18일",
-    "summary": "2026년 9월 18일 국회에서 건설노동자 안전보건센터 관련 간담회와 경원선 개발 논의 등이 예정되어 있다. 건설노동자 생명과 건강 보호를 위한 안전보건 정책 논의가 진행될 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T07:39:59+09:00",
     "importance": 2
   }
 ]
