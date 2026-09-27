@@ -4539,6 +4539,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 한 달 새 부산서만 2000억 원 손실 입었다 - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026092718265269813",
+    "description": "롯데건설이 최근 부산 한 사업장에서 대규모 준공후(악성) 미분양이 발생해 공사비 1300억 원가량을 떼일 위기에 처한 가운데 엎친 데 덮친 격으로, 또 다른 사업장에서 600억 원 대위변제를 하며 한 달 새 부산에서만...",
+    "published_at": "2026-09-27T18:28:00+09:00",
+    "cluster_id": "4461",
+    "publisher": "busan.com",
+    "title_clean": "롯데건설, 한 달 새 부산서만 2000억 원 손실 입었다",
+    "summary": "롯데건설이 부산의 두 사업장에서 미분양과 대위변제로 인해 한 달 새 약 2000억 원의 손실을 입었다. 공사비 미회수와 채무 상환으로 인한 건설사의 자금 악화 사례로, 건설업계의 PF 위기를 드러낸다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T18:37:52+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20518,22 +20534,6 @@
     "publisher": "koreareport.co.kr",
     "title_clean": "롯데건설, '르엘 라운지' 오픈…목동 재건축 시장 공략",
     "summary": "롯데건설이 서울 목동신시가지 재건축 시장 공략을 위해 '르엘 라운지'를 오픈하고 교육, 자연, 예술, 주거 서비스를 결합한 전략을 추진 중이다. 각 단지의 사업 일정에 맞춰 수주전 참여를 구체화할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T11:47:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 목동 재건축 수주 채비…10월 ‘르엘 라운지’ 개관 - datanews.co.kr",
-    "link": "http://www.datanews.co.kr/news/article.html?no=146517",
-    "description": "롯데건설이 서울 목동신시가지 재건축 사업 수주를 위해 교육·자연·예술 등을 결합한 주거 전략을 내놨다. 현재 목동신시가지 2·7·11·14단지를 비롯해 시공사 선정을 앞둔 단지의 사업 추진 일정을 살피며 참여를...",
-    "published_at": "2026-09-16T11:20:00+09:00",
-    "cluster_id": "8476",
-    "publisher": "datanews.co.kr",
-    "title_clean": "롯데건설, 목동 재건축 수주 채비…10월 ‘르엘 라운지’ 개관",
-    "summary": "롯데건설이 서울 목동신시가지 재건축 사업 수주를 위해 교육·자연·예술을 결합한 주거 전략을 추진 중이며, 10월 '르엘 라운지'를 개관할 예정이다. 현재 2·7·11·14단지 등 여러 단지의 시공사 선정을 앞두고 사업 참여를 준비하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-16T11:47:03+09:00",
     "importance": 2
