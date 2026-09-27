@@ -20539,6 +20539,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "강원도, 1억원 미만 소규모 건설현장 재해예방 기술지도 확대 - newstnt.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51aENjZ2htcnR5WkQ3a3Q5LVRDcUF0ZHhReGpIYTc3cjV3eW9WcWh6ekkzdWJINTVfeFc3Nzc1cGpHTDVsRlZiTG9xV0pIZ3hJU2oxeHhNaHNhaDA3OXJSaVNCcWstdHZBX2c?oc=5",
+    "description": "[뉴스티앤티 강원본부] 강원특별자치도가 1억원 미만 소규모 건설공사 현장의 안전관리 강화에 나선다.강원특별자치도 도로관리사업소는 건설공사 현장의 안전관리 사각지대",
+    "published_at": "2026-09-27T21:01:43+09:00",
+    "cluster_id": "57e6",
+    "publisher": "newstnt.com",
+    "title_clean": "강원도, 1억원 미만 소규모 건설현장 재해예방 기술지도 확대",
+    "summary": "강원특별자치도가 1억원 미만 소규모 건설현장의 안전관리 강화를 위해 재해예방 기술지도를 확대하고 있다. 건설공사 현장의 안전관리 사각지대를 해소하기 위한 정책이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T21:12:56+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32248,22 +32264,6 @@
     "summary": "건설기술진흥법에 따른 안전관리비 계상이 의무인 건설공사에서 교통안전표지판 및 시설물 설치비용을 안전시설비 항목으로 사용 가능함이 명확히 했다. 다만 산업안전보건법상 산업안전보건관리비로는 중복 사용이 불가하다는 점을 규정했다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-18T08:06:26+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대우건설 수주 '나이지리아 LNG프로젝트', 내년말 가동 예정 - 더구루",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBydUJaQlpUajhKUlRxazFZNXBZeFBrUjYxZU9DOVdpRU9qRmctNGxpMjItMnA4dmw4ZW1UQlNtczlFNUxTX0RsQmkweEd1bkFmbWZlZHJJQmpBSXBkQjZ1VA?oc=5",
-    "description": "[더구루=홍성환 기자] 대우건설이 짓고 있는 나이지리아 액화천연가스(LNG) 플랜트가 내년 말 가동에 들어갈 예정이다. 나이지리아 LNG 기업 NLNG의 아델레예 팔라데 최고경영자(CEO)는 15일(현지시간) 태국 방콕에서 열린",
-    "published_at": "2026-09-18T07:51:00+09:00",
-    "cluster_id": "6ba6",
-    "publisher": "더구루",
-    "title_clean": "대우건설 수주 '나이지리아 LNG프로젝트', 내년말 가동 예정",
-    "summary": "대우건설이 수주한 나이지리아 LNG 프로젝트가 내년 말 가동 예정이다. NLNG의 CEO가 방콕에서 프로젝트 진행 상황을 언급했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T08:04:55+09:00",
     "importance": 2
   }
 ]
