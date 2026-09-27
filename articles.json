@@ -4573,6 +4573,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"GS건설, 그룹사 AIDC 수주 가시화 기대…목표가↑\" - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026092880726",
+    "description": "그는 \"GS건설의 원전 실적은 국내에서만 하청업체(Sub-Con)로 신월성 1·2호기(대우건설 컨소시엄), 신한울 1·2호기(현대건설 컨소시엄), 신고리 1·2호기 보조시설 등에 참여한 바 있고 원전·SMR 인력은 100여명 보유하고...",
+    "published_at": "2026-09-28T07:34:00+09:00",
+    "cluster_id": "8e5c",
+    "publisher": "hankyung.com",
+    "title_clean": "\"GS건설, 그룹사 AIDC 수주 가시화 기대…목표가↑\"",
+    "summary": "GS건설이 원전 및 SMR 분야에서 보유한 인력과 기술력을 바탕으로 그룹사 AIDC 수주 가능성이 높아지고 있으며, 이에 따라 목표가가 상향조정될 것으로 예상된다. 국내 주요 원전 프로젝트 참여 경험과 100여명의 전문 인력 보유가 강점으로 작용하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-28T07:37:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20557,19 +20573,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "IPARK현대산업개발, 용산 도시정비 수주 확대…숙대입구역세권 출사표 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026091612121870352",
-    "description": "IPARK현대산업개발이 실적 개선을 발판으로 서울 용산에서 도시정비사업 확대에 나선다. 본사와 아이파크몰, 용산철도병원 부지, 용산정비창 전면1구역 등에서 쌓은 개발 경험을 바탕으로 숙대입구역세권...",
-    "published_at": "2026-09-16T12:16:00+09:00",
-    "cluster_id": "c5bb",
-    "publisher": "newsway.co.kr",
-    "title_clean": "IPARK현대산업개발, 용산 도시정비 수주 확대…숙대입구역세권 출사표",
-    "summary": "IPARK현대산업개발이 용산 지역의 도시정비사업 실적을 바탕으로 숙대입구역세권 등 신규 사업 수주를 추진 중이다. 회사의 개발 경험과 용산 지역 프로젝트 포트폴리오를 활용하여 건설 수주 확대를 도모하고 있다.",
+    "title": "원전·LNG·플랜트 총출동…건설사, 해외서 먹거리 키운다 - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1694075/?sc=Naver",
+    "description": "이는 국내 주택시장 침체와 건설경기 불확실성이 이어지면서 해외 사업을 통해 새로운 성장 동력을 확보하려는 전략인 것으로 관측된다. 28일 업계에 따르면 삼성물산 건설부문(이하 삼성물산)은 최근 GE 버노바...",
+    "published_at": "2026-09-28T07:36:00+09:00",
+    "cluster_id": "91eb",
+    "publisher": "dailian.co.kr",
+    "title_clean": "원전·LNG·플랜트 총출동…건설사, 해외서 먹거리 키운다",
+    "summary": "국내 건설경기 침체로 인해 건설사들이 원전, LNG, 플랜트 등 해외 대형 프로젝트 수주에 나서고 있다. 삼성물산 등 주요 건설사들이 해외 사업을 통해 새로운 성장 동력을 확보하려는 전략을 추진 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-16T12:36:49+09:00",
+    "collected_at": "2026-09-28T07:37:54+09:00",
     "importance": 2
   },
   {
@@ -32249,22 +32265,6 @@
     "title_clean": "한화 건설부문, ‘외국인 근로자 맞춤형 안전보건 교육’ 실시",
     "summary": "한화 건설부문이 외국인 근로자를 위한 맞춤형 안전보건 교육을 실시했다. 건설현장의 외국인 근로자 증가에 따라 언어·문화적 차이를 고려한 안전교육과 응급대응 역량 강화에 나섰다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-18T10:31:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"언어 장벽 없이 안전하게\"…한화 건설부문, 외국인 근로자 맞춤형 안전교육 확대 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUnhUYzQtUUdqUXczUGxIVGszbXBCei1PVGlSYmx4TERmX2dMQWhjWkYwWjBJaTg3T2dCSU5VZm5ZVUJLSHQ4UWozZ21PTmpESnQ4cGc2MlZGQQ?oc=5",
-    "description": "한화 건설부문이 외국인 근로자의 언어와 문화적 특성을 반영한 안전보건 교육을 진행했다.18일 한화 건설부문에 따르면 회사는 지난 16일 한화포레나 천안아산역 공사현장에서 외국인 근로자 맞춤형 안전보건 교육을 실시했다.국적별 안전보건 대면교육과 함께 상황별 ..",
-    "published_at": "2026-09-18T10:04:25+09:00",
-    "cluster_id": "f7d3",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "\"언어 장벽 없이 안전하게\"…한화 건설부문, 외국인 근로자 맞춤형 안전교육 확대",
-    "summary": "한화 건설부문이 외국인 근로자를 위한 맞춤형 안전보건 교육을 확대 실시하고 있다. 국적별 대면교육과 상황별 교육을 통해 언어 및 문화적 장벽을 해소하고 건설현장 안전성을 강화하는 사례이다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-18T10:31:25+09:00",
     "importance": 2
   }
