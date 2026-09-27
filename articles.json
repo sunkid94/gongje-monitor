@@ -20539,6 +20539,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "해양수산부, 해양수산 건설공사 특별 관리 대상 사업 하반기 현장점검 실시 - 시사일보",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uTnlPNTU0V0lwQzc2U2c4QUhXOEhkSU83anlnMzVpSzBETndRaU1RZUdMN3FBcnlYeVVZMWEtR0NuU3pKdWlhQmJvNTU?oc=5",
+    "description": "현장점검 대상사업(46건) [시사일보=김영근 기자] 해양수산부는 해양수산 건설공사 특별 관리 대상 사업에 대한 품질 확보와 안전사고 예방을 위해 오는",
+    "published_at": "2026-09-27T13:02:00+09:00",
+    "cluster_id": "45fb",
+    "publisher": "시사일보",
+    "title_clean": "해양수산부, 해양수산 건설공사 특별 관리 대상 사업 하반기 현장점검 실시",
+    "summary": "해양수산부가 해양수산 건설공사 특별 관리 대상 46건에 대해 하반기 현장점검을 실시하여 품질 확보와 안전사고 예방에 나선다. 정부의 감시 강화로 건설업체들의 규정 준수 부담이 증가할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T21:37:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32249,21 +32265,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-18T08:25:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "7월 건설 선행지표 개선 흐름···공사비 상승이 변수 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326565",
-    "description": "건설시장 동향을 평가하기 위해 국가데이터처, 국토교통부, 한국은행 등에서 발표하는 주요 건설지표를 살펴본다. 현시점에서 가장 최신 자료인 2026년 7월 통계를 기준으로 건설시장 현황을 정리하고, 시사점을 제시한다.1. 건설수주: 상반기 견조, 7월 변동성 확대건설수주는 올해 1분기 30.7%, 4월 58.4%, 5월 70.3%로 큰 폭의 증가세를 이어왔다. 그러나 6월과 7월 연속 각각 -17.8%, -34.0% 감소하며 7월 누계 증가율은 15.8%로 낮아졌다. 공종별로는 건축이 15.1%, 토목이 18.1% 증가했으며, 발주자",
-    "published_at": "2026-09-18T08:00:00+09:00",
-    "cluster_id": "7dd3",
-    "publisher": "대한전문건설신문",
-    "title_clean": "7월 건설 선행지표 개선 흐름···공사비 상승이 변수",
-    "summary": "2026년 7월 건설수주가 전월 대비 34% 감소하며 변동성이 확대되었으나, 연초 이후 누적 증가율은 15.8%로 상반기 견조한 흐름을 유지하고 있다. 건축과 토목 모두 전년 대비 증가세를 보이고 있으나, 공사비 상승이 향후 시장의 주요 변수로 작용할 전망이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T08:06:26+09:00",
-    "importance": 2
   }
 ]
