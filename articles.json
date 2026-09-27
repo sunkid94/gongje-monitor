@@ -20542,6 +20542,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "행복청, 회덕IC 현장 추석 안전점검 - 세종시민일보",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzMWNEMEFEa0hianBrNDFIR2Y3X3REYWZXSzRkSWgzOTQzWmp3c29RRW5mYWVqb0F2Q29ZVTVmWER3dnBsWTdxSzlOeWNfX0Y2V0hSVWx5VEExcG1HdXg4c2RvTEpkQ0hyS0g0OFk3TXZtZUk?oc=5",
+    "description": "행정중심복합도시건설청(청장 강주엽, 이하 행복청)은 추석 연휴를 맞아 건설 현장 내 안전사고를 철저히 예방하기 위해 대전시, 한국도로공사 등 관계기관과 합동으로",
+    "published_at": "2026-09-28T01:34:56+09:00",
+    "cluster_id": "4e89",
+    "publisher": "세종시민일보",
+    "title_clean": "행복청, 회덕IC 현장 추석 안전점검",
+    "summary": "행정중심복합도시건설청이 추석 연휴를 앞두고 회덕IC 건설 현장에서 관계기관과 합동으로 안전점검을 실시했다. 건설 현장 내 안전사고 예방을 위한 정부의 적극적인 감시 및 점검 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T01:47:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "2026 한국건설·안전박람회서 AI 기반 3D 모션평가 솔루션 선보인다 - koreasprint.com",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOVBTS1JyYkRQZ1E1VjBkY0dYQkhtd1Q0dHZDQ3U0dE11STlaRzY2eFd3XzdnOXA4QVpuQWxEZmh0N0xxcHU4cmNQTmJGUGNjbTJjZFY1U3p1UHRncTZsSlBIbHpSWjVjX3FpWnRR?oc=5",
     "description": "(서울=코리아스프린트) AI·컴퓨터 비전 전문기업 비솔이 오는 10월 14일부터 16일까지 3일간 경기도 고양시 킨텍스 제1전시장에서 열리는 ‘2026 한국건설·",
@@ -32248,22 +32264,6 @@
     "summary": "㈜한화 건설부문이 외국인 근로자의 현장 안전성 강화를 위해 5개국별 맞춤형 안전보건 교육을 실시했다. 언어와 문화적 차이를 고려한 대면교육과 화상교육을 병행하여 응급상황 대응력을 높이는 데 중점을 두었다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-18T09:30:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "(주)한화 건설부문, 외국인 근로자 맞춤형 안전교육 강화…5개국 모국어 교육 - 미디어파인",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vaDZvTlJJMUNGVEp2VTFGNGJzNE4yci0xbHdyOUNkUnQ1Ylp2ZlZIZndPU2tUU3RFTzVlUzd0U3VsV3F5Wko4VUI2OHp0QWhqRkR5YjhyeDYzQ19kek9nZDVNY0VGRVhzWmVqOURR?oc=5",
-    "description": "-외국인 안전문화 지도사 활용한 국적별 현장 대면교육 확대-응급처치·심폐소생술 교육 정례화로 현장 대응 역량 강화㈜한화 건설부문이 건설현장에서",
-    "published_at": "2026-09-18T08:58:04+09:00",
-    "cluster_id": "cab0",
-    "publisher": "미디어파인",
-    "title_clean": "(주)한화 건설부문, 외국인 근로자 맞춤형 안전교육 강화…5개국 모국어 교육",
-    "summary": "㈜한화 건설부문이 외국인 근로자를 위한 맞춤형 안전교육을 강화하고 있으며, 5개국 모국어 교육과 안전문화 지도사를 활용한 현장 대면교육을 확대하고 있다. 응급처치·심폐소생술 교육을 정례화하여 현장 안전 대응 역량을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T09:10:01+09:00",
     "importance": 2
   }
 ]
