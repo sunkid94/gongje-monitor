@@ -4556,23 +4556,6 @@
     "importance": 7
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "엔지니어링협회, 발주자 대상 엔지니어링 실무교육 개최 - engdaily.com",
-    "link": "http://www.engdaily.com/news/articleView.html?idxno=23220",
-    "description": "이와 함께 엔지니어링산업 진흥법 주요 개정사항을 비롯해 표준품셈·대가산정서비스와 엔지니어링공제조합의 보증제도 등을 소개해 발주담당자들이 엔지니어링사업 수행에 필요한 관련 제도와 지원체계를 폭넓게...",
-    "published_at": "2026-08-28T13:06:00+09:00",
-    "cluster_id": "d2bc",
-    "publisher": "engdaily.com",
-    "title_clean": "엔지니어링협회, 발주자 대상 엔지니어링 실무교육 개최",
-    "summary": "엔지니어링협회가 발주자를 대상으로 실무교육을 개최하며, 엔지니어링산업 진흥법 개정사항, 표준품셈·대가산정서비스, 엔지니어링공제조합의 보증제도 등을 소개했다. 발주담당자들이 엔지니어링사업 수행에 필요한 제도와 지원체계를 습득할 수 있는 기회를 제공했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-08-28T13:10:15+09:00",
-    "event_label": "엔지니어링공제조합 보증제도 및 지원체계 교육 실시",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20571,6 +20554,38 @@
     "sentiment": "positive",
     "collected_at": "2026-09-16T11:12:38+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[분양 스케치] 푸르지오 리버프론트 미계약, 'PF 자금회수' 시험대 - 블로터",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4SG5CRllLc1EwRGg3NUVsTXZnZkd2bGlORlVCQlRLV2RNU3BVSDR4T3NzTHhab1Nld0pod082U2VnZ3B5aGt4ZHRlVW1LNldyRUt3dVotQkk4TU03Nk1TUGlIbEV6RjZE0gFsQVVfeXFMUHV4a24yTlRLbW1QM2M5bXAxaXk3WFBmODlyaW5ETnM1cE1mZ052TlNKaE1XRS1ZSThiZmdzUGx5b3lkeDRPaWNrX3lvT2NqWm0wYWVFWnhva2wzYS1rRzFsM05HaTFjelprbDVk?oc=5",
+    "description": "경기 김포시 고촌읍 한강 푸르지오 리버프론트의 정당계약 뒤 발생한 미계약 물량이 무순위 청약에서도 해소되지 않으면서 시행사 한강시네폴리스개발의 분양수입금 유입이 늦어질 가능성이 커졌다. 한강시네폴리스개발은 이 사업에 7700억원 한도의 프로젝트파이낸싱(PF) 대출약정을 맺었다. 시공사",
+    "published_at": "2026-09-27T13:00:00+09:00",
+    "cluster_id": "1373",
+    "publisher": "블로터",
+    "title_clean": "[분양 스케치] 푸르지오 리버프론트 미계약, 'PF 자금회수' 시험대",
+    "summary": "경기 김포 푸르지오 리버프론트의 미계약 물량이 무순위 청약에서도 해소되지 않으면서 시행사의 분양수입 유입이 지연될 우려가 커졌다. 7700억원 규모의 PF 대출금 상환에 차질이 발생할 가능성이 높아지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T13:37:49+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "기술 발굴 넘어 사업화까지…DL이앤씨, 전주기 기술협력 박차 - edaily.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDFqTnJsWkcxa1JUZ2VBREJ4TUtWWU1fYUk2dG1Gc29JQkVUZzN6ek1ETHBFM245Y0kzZnh0OTFaeEZzQmN6WjBtTzNETTF3ZlVkaVY2ZzN6Vl9lS3dCUkJ5NXhJRWhQMmxxY2ppUjd3clJqZm1iX1VfaG01Nm1ZUg?oc=5",
+    "description": "DL이앤씨가 중소·전문기업과의 공동 연구개발부터 성능 검증, 특허·인증, 현장 적용, 상품화까지 연결하는 전주기 기술협력 체계를 구축하고 있다. 기술을 단순히 발굴하거나 일회성 기술검증(PoC)을 수행하는 데 그치지 않고 실제 현장에 적용하고 사업화할 수 있는 기술로...",
+    "published_at": "2026-09-27T13:30:10+09:00",
+    "cluster_id": "82ff",
+    "publisher": "edaily.co.kr",
+    "title_clean": "기술 발굴 넘어 사업화까지…DL이앤씨, 전주기 기술협력 박차",
+    "summary": "DL이앤씨가 중소·전문기업과의 공동 연구개발부터 사업화까지 전주기 기술협력 체계를 구축하고 있다. 기술 발굴을 넘어 현장 적용과 상품화까지 연결함으로써 기술협력의 실질적 가치를 높이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-27T13:37:49+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설 노동",
