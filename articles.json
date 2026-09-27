@@ -20542,6 +20542,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "기후부, 전기안전관리 실태조사 착수…전국 500곳 집중 점검 - 전기신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mYXJDanA2OUdtdVZ0ckxJVUEtc0FTeEFHSGhFSm11YkQxUjA4N2dTclFDQ3hPTXd5eTJic25IRlhhaDUwT2h3Z1ZpQy1BTDUxdXBGcUJ5NHBvNXAtbWxiOEs3ai1peDJabkZOTNIBcEFVX3lxTE5oMUh0YWMyRHVqZ2R0MFEtTjJ5ek9MYWRGa3drWVdBWnEwV3YyLXg2eFRTMHBBWGZxTHVnM1R4bGpYZG5nQWVZUXRpR2Q0X1h2R0NFVVFZRnN5cGVMb2JMM21qNHhzZFRpSmxFYjNNeFk?oc=5",
+    "description": "정부가 전기재해 예방을 위해 전국 500여개 사업장을 대상으로 전기안전관리 실태조사에 나선다. 전기안전관리자 선임 여부와 직무수행 실태, 전기설비 정기검사 이행 여부 등을 집중 점검하고, 현장에서 확인된 위험요인은 선제적으로 개선한다.기후에너지환경부는 28일부터 11월 13일까지 약 7주간 전국 500여곳의 사업장을 대상으로 전기안전관리업무 실태조사를 실시한다고 밝혔다.이번 조사는",
+    "published_at": "2026-09-27T12:00:00+09:00",
+    "cluster_id": "309b",
+    "publisher": "전기신문",
+    "title_clean": "기후부, 전기안전관리 실태조사 착수…전국 500곳 집중 점검",
+    "summary": "정부가 전기재해 예방을 위해 전국 500개 사업장을 대상으로 전기안전관리 실태조사를 실시한다. 전기안전관리자 선임 여부, 직무수행 실태, 전기설비 정기검사 이행 여부 등을 집중 점검하고 위험요인을 선제적으로 개선할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-28T00:47:58+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "건설불황에도 다시 열린 공채…대형 건설사 하반기 채용 원전·AI·안전에 방점 - 아주경제",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWYThQNm5la1d0bFUyUG5nWTgzUFpmNEtmaXJxVDRHekxoaWhndGk5ZEhpYUluRmUyd3ZVY0laUFJabGZERUVydjhzUVl5MlBxeXpUbmRXZTJpZ9IBWEFVX3lxTFBkR0owMUhxZENIaFRlaWRoNi1LUlMyaXFrVWdQdUZfNW5zbWl5MWYwdzcxSnJPNDZjMC1fUUxjd2hvOG9KUVR3OUpnTGU2eUg1a2xaVzRzVG4?oc=5",
     "description": "건설경기 침체가 장기화하는 가운데 대형 건설사들이 잇따라 하반기 신입사원 채용에 나서고 있다. 건설업 고용 자체는 3년 넘게 감소하고 있지만 원전·뉴...",
@@ -32249,21 +32265,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-18T09:00:04+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "나주시, 추석 앞두고 주요 건설현장 안전점검…중대재해·시민 안전 ‘... - sports.donga.com",
-    "link": "https://sports.donga.com/region/article/all/20260918/134693506/1",
-    "description": "나주시는 앞으로도 건설현장 안전관리 실태를 지속적으로 점검하고 현장 관계자와 근로자들의 안전의식을 높이는 한편, 중대산업재해를 예방할 수 있는 현장 중심의 관리체계를 이어갈 방침이다. 강상구 나주시 부시장은...",
-    "published_at": "2026-09-18T08:33:00+09:00",
-    "cluster_id": "d8d1",
-    "publisher": "sports.donga.com",
-    "title_clean": "나주시, 추석 앞두고 주요 건설현장 안전점검…중대재해·시민 안전 ‘...",
-    "summary": "나주시가 추석을 앞두고 주요 건설현장에 대한 안전점검을 실시하여 중대산업재해 예방에 나섰다. 시는 현장 안전관리 실태를 지속적으로 점검하고 근로자 안전의식 고취를 위해 현장 중심의 관리체계를 강화할 방침이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-18T08:50:09+09:00",
-    "importance": 4
   }
 ]
