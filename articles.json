@@ -4658,6 +4658,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "추석 끝나면 목동 재건축 쟁탈전…대형 건설사들 '홍보관 총공세' - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20260923_0003802362",
+    "description": "대우건설도 같은 달 오목교역 인근에 '써밋 목동 라운지'를 마련했다. 3·8·11단지를 공략 중인 대우건설은 지난 22일 목동 8단지에 단독 응찰해 수의계약 수순에 접어들었다. 지난 5월 현대백화점 목동점에서...",
+    "published_at": "2026-09-27T09:30:00+09:00",
+    "cluster_id": "aee5",
+    "publisher": "newsis.com",
+    "title_clean": "추석 끝나면 목동 재건축 쟁탈전…대형 건설사들 '홍보관 총공세'",
+    "summary": "추석 이후 목동 재건축 사업을 놓고 대우건설 등 대형 건설사들이 본격적인 수주 경쟁에 나서고 있다. 대우건설은 목동 8단지에 단독 응찰하여 수의계약 절차에 진입했으며, 여러 건설사가 홍보관 운영으로 수주 확보에 나서는 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-27T09:37:49+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20642,20 +20658,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "롯데건설, 목동 재건축 겨냥 '르엘 라운지' 2곳 동시 개관 - news2day.co.kr",
-    "link": "https://www.news2day.co.kr/article/20260916500100",
-    "description": "교육·녹지에 파리 라탱지구의 지성 접목 목동 맞춤형 미래 설계 ‘소르본 프로젝트’ 서울 양천구 목동 ‘르엘 라운지 L’est’내 미디어아트월 [사진=롯데건설] [뉴스투데이=김성현 기자] 롯데건설이 서울 양천구...",
-    "published_at": "2026-09-16T10:52:00+09:00",
-    "cluster_id": "5e45",
-    "publisher": "news2day.co.kr",
-    "title_clean": "롯데건설, 목동 재건축 겨냥 '르엘 라운지' 2곳 동시 개관",
-    "summary": "롯데건설이 서울 양천구 목동에서 재건축 프로젝트를 겨냥해 '르엘 라운지' 2곳을 동시 개관했다. 파리 라탱지구의 지성을 접목한 '소르본 프로젝트'로 목동 지역 맞춤형 미래 설계를 제시하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T11:12:38+09:00",
-    "importance": 2
+    "title": "[낭비된 공공임대]①답 없는 지방, 빈집 쌓인다 - 비즈워치",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qYWNRLU9WMW4xUlUwVDFjMVN2ejJEUmJBeEdRUHRaMHBMcWhHVUU2U21telhWSHdmT0hBZDdVLWg3bmhodmsxTF9XQzJtRnhjaUs5ZUd5LTV1SXpnNGtCVFhBMmw1ck5EYVZaQ3RTVFo?oc=5",
+    "description": "국토교통부가 오는 2030년까지 119만가구의 공적주택을 공급하겠다는 &#39;주거안정플랜&#39;을 내놓았다. 특히 건설임대와 매입형임대가 각각 33만가구, 31만3000가구로 전체 물량의 반 이상을 차지한다. 대...",
+    "published_at": "2026-09-27T09:30:02+09:00",
+    "cluster_id": "1233",
+    "publisher": "비즈워치",
+    "title_clean": "[낭비된 공공임대]①답 없는 지방, 빈집 쌓인다",
+    "summary": "국토교통부가 2030년까지 119만 가구의 공적주택 공급 계획을 발표했으며, 건설임대와 매입형임대가 전체의 50% 이상을 차지한다. 그러나 지방의 공공임대주택 공실 문제와 낭비 이슈가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T09:37:49+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
