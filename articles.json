@@ -20539,6 +20539,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[경기 시·군 리더의 힘]신상진 성남시장 “경기도 없애면 어떨까”…광... - etnews.com",
+    "link": "https://www.etnews.com/20260928000002",
+    "description": "구역을 지정한 뒤에도 공사비 상승이나 건설경기 악화, 단지 내 갈등으로 사업이 늦어지거나 멈출 수 있다. 그런데 물량이 묶여 있으면 준비를 마친 다른 구역이 그 자리를 대신해 추진하기도 어렵다. 전체 정비사업의...",
+    "published_at": "2026-09-28T04:01:00+09:00",
+    "cluster_id": "bf25",
+    "publisher": "etnews.com",
+    "title_clean": "[경기 시·군 리더의 힘]신상진 성남시장 “경기도 없애면 어떨까”…광...",
+    "summary": "신상진 성남시장이 경기도 광역행정체계 개편을 제안하며 도시정비사업의 구역 지정 후 공사비 상승, 건설경기 악화, 단지 내 갈등으로 인한 사업 지연 문제를 언급. 물량 묶임으로 인해 다른 구역의 대체 추진이 어려운 구조적 문제점 지적.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T04:02:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32249,21 +32265,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-18T09:30:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 외국인 근로자 맞춤형 안전교육 확대 - 한국금융신문",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ST0lYbTNXRnNENGdyVXRkc01RMGN6MGFncnhqWk54WDlVQmQ3LTlYLVp0NkNXQ0VmWDZBSXk3ZFN5a09qamlEMVVEN0NNTE9lYmo5QWFKbV9EX0xMLUZFdVRBLWh4YldwaWtkUkpEMlNON2VlX25LRTFORms?oc=5",
-    "description": "한화 건설부문(대표이사 김우석)은 건설현장 외국인 근로자를 대상으로 국적별 대면 안전교육과 응급처치 실습을 확대하고 있다고 18일 밝혔다.한화 건설부문은 지난 16일 ‘한화포레나 천안아산역’ 공사현장에서 외국인 근로자 맞춤형 안전보건 교육을 실시했다. 중국·베트남·태국·캄보디아·미얀마",
-    "published_at": "2026-09-18T09:20:47+09:00",
-    "cluster_id": "e32c",
-    "publisher": "한국금융신문",
-    "title_clean": "한화 건설부문, 외국인 근로자 맞춤형 안전교육 확대",
-    "summary": "한화 건설부문이 건설현장 외국인 근로자를 위해 국적별 맞춤형 안전교육과 응급처치 실습을 확대하고 있다. 한화포레나 천안아산역 공사현장에서 중국, 베트남, 태국, 캄보디아, 미얀마 등 다국적 근로자를 대상으로 교육을 실시했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T09:30:34+09:00",
-    "importance": 3
   }
 ]
