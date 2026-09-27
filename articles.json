@@ -20539,6 +20539,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"1억 원 미만 공사도 안전관리\"…강원도, 소규모 건설현장 기술지도 확대 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50NXRiNnRmMWNfSzcyTzRLMGt4ck5objlhZEJZVnNyemg4bm9hQXF1b2ZpMlZ1ZlowR2k0R3BSakFYcUs5a3FpZWlGSlN0eUlDU0FiNtIBWkFVX3lxTFBtc0c1b2UxMEJnTDlORlY0WXIwY3NyXzM5dklieDZhdTRJUk9Id3lIanRHMjFmRTF2MWI5Q29rem1ZVUJSYTlzVS1tWGNkNF9tNmZXamxzVlR2QQ?oc=5",
+    "description": "10월 1일 발주분부터 적용…기존 법적 의무 대상 밖 소규모 공사까지 강원특별자치도가 그동안 재해예방 기술지도의 법적 의무 대상에서 제외됐던 소규모 건설공사까지 안전관리 지원을 확대한다.강원도 도로관리사업소는 10월 1일부터 발주하 …",
+    "published_at": "2026-09-27T16:49:45+09:00",
+    "cluster_id": "6bef",
+    "publisher": "뉴스1",
+    "title_clean": "\"1억 원 미만 공사도 안전관리\"…강원도, 소규모 건설현장 기술지도 확대",
+    "summary": "강원도가 10월 1일부터 1억 원 미만 소규모 건설공사에 대한 안전관리 기술지도를 확대 적용한다. 기존 법적 의무 대상에서 제외되던 소규모 공사까지 지원 범위를 넓혀 건설현장 재해예방을 강화하는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-27T17:02:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,22 +32262,6 @@
     "publisher": "newspim.com",
     "title_clean": "[오늘의 국회일정] 국회의장·상임위·세미나·기자회견·주요 정당 - 9월...",
     "summary": "국회에서 2026년 건설노동자 안전보건센터 관련 세미나와 경원선 접경지역 경제 활성화 관련 간담회가 개최된다. 건설노동자 보호와 지역 경제 발전을 주제로 한 정책 논의가 진행 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T05:10:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[오늘의 국회일정] (18일, 금) - news1.kr",
-    "link": "https://www.news1.kr/politics/assembly/6294465",
-    "description": "2026 건설노동자 생명과 건강을 보호하는 안전보건센터 (의원회관 제2간담회의실) 10:00 이재강 의원실 등, 경원선, 평화와 경제를 잇다: 한반도 공동성장과 접경지역의 재도약 (의원회관 제4간담회의실) 10:00 윤한홍...",
-    "published_at": "2026-09-18T05:00:00+09:00",
-    "cluster_id": "2eb2",
-    "publisher": "news1.kr",
-    "title_clean": "[오늘의 국회일정] (18일, 금)",
-    "summary": "국회에서 건설노동자의 생명과 건강을 보호하기 위한 안전보건센터 관련 간담회가 개최된다. 건설업계의 안전보건 강화를 위한 정책 논의가 진행될 예정이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-18T05:10:15+09:00",
     "importance": 2
