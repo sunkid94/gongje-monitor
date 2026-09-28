@@ -4641,6 +4641,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "AI·친환경 품는 K조선… 해양플랜트로 패러다임 전환 노린다 - 한국일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XRVRSOUlkYkNJaW8ycVBMOXE3dlVjQ2VMc19xSThwQTB3VjVaQnNsRUpJVUg5LVlMemlseEoxS0hpVERlNUdZeHN2VXBXOGo1VFV4aDFqdzg1R25oY1hKUlQzYnh4cmpyc3F3YTl30gFzQVVfeXFMTjZIYVVsRmplVkhRVDI5cVBlVHZmS1FJRHdUR3lQRk1zci1GdEFMcFVOczFkWHFkOGFQT1hBa2hyZDMxczNkLXM4Q1N6dEYxcGt0akpvQWszemJFSlN3UHdIc2l1OG05LWNja3g1TFBWMTFOaw?oc=5",
+    "description": "① 탄소중립과 인공지능 확산이 겹치면서 K조선 3사가 해양플랜트로 사업 전환을 노리고 있습니다. ② 조선 3사는 FLNG와 부유식 데이터센터 기술을 키우며 인증과 수주로 상용화 경쟁을 벌이고 있습니다. ③ 부유식 SMR은 전력 기술과 국제 규제 정비가 필요하므로 제도 보완이 사업 성공의 관건이 됐습니다.",
+    "published_at": "2026-09-29T04:30:00+09:00",
+    "cluster_id": "3630",
+    "publisher": "한국일보",
+    "title_clean": "AI·친환경 품는 K조선… 해양플랜트로 패러다임 전환 노린다",
+    "summary": "탄소중립과 AI 확산으로 K조선 3사가 FLNG, 부유식 데이터센터, 부유식 SMR 등 해양플랜트 사업으로 전환을 추진 중입니다. 조선사들은 인증과 수주 경쟁을 벌이고 있으며, 사업 성공을 위해서는 국제 규제 정비 등 제도 보완이 필수적입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T04:49:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20623,22 +20639,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-16T18:56:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "청년고용률 28개월째 하락세... 서울시, 일자리연결 팔 걷었다 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202609161821061915",
-    "description": "현대건설과 GS건설, 대우건설 등 주요 건설사를 비롯해 설계·엔지니어링, 관망관리, 수처리, 수질계측 등 물산업 전 분야의 기업이 참여한다. 채용계획이 있는 기업들은 현장 채용관에서 구직자를 대상으로 상담과...",
-    "published_at": "2026-09-16T18:22:00+09:00",
-    "cluster_id": "4ae9",
-    "publisher": "fnnews.com",
-    "title_clean": "청년고용률 28개월째 하락세... 서울시, 일자리연결 팔 걷었다",
-    "summary": "청년고용률 부진으로 서울시가 일자리 연결에 나선 가운데, 현대건설, GS건설, 대우건설 등 주요 건설사와 물산업 기업들이 채용 설명회에 참여한다. 건설업계가 구인 수요를 보이며 청년 채용 기회를 제공하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T18:36:42+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
