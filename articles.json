@@ -4624,6 +4624,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대엔지니어링 \"올해 데이터센터 일감 1.9조…군산서 시작\" - 비즈워치",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KU042b21JbjBDR2dGUUZleWZxVXY0bEpEMDBRbDJpTVA4NVB0QzYzQ3A1b2J0Mk83X28wbFZqbERpMnFYd0VTQjRCaV9SNU9pSUVpNEQ5RXZPb2FWdG5jMzFlVmprX1lvdl9IRF9laVA?oc=5",
+    "description": "현대엔지니어링이 군산에 인공지능(AI) 반도체를 도입하는 데이터센터를 짓는다. 데이터센터 사업 관련 조직을 신설한 후 6개월 만에 첫 수주 성과다. 이를 시작으로 올해에만 2조원에 가까운 데이터센터 수주 실적을 기대...",
+    "published_at": "2026-09-28T15:04:03+09:00",
+    "cluster_id": "99e6",
+    "publisher": "비즈워치",
+    "title_clean": "현대엔지니어링 \"올해 데이터센터 일감 1.9조…군산서 시작\"",
+    "summary": "현대엔지니어링이 군산에 AI 반도체 데이터센터 건설 프로젝트를 수주했다. 데이터센터 사업 조직 신설 후 6개월 만의 성과로, 올해 약 2조원 규모의 수주 실적을 기대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-28T15:08:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20608,20 +20624,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "롯데건설, 목동 재건축에 '6세대 주거문화' 제안…교육·자연·예술 결합 - newstnt.com",
-    "link": "https://www.newstnt.com/news/articleView.html?idxno=718665",
-    "description": "롯데건설이 서울 목동신시가지 재건축 시장에서 교육과 자연, 예술, 서비스가 결합된 새로운 하이엔드 주거 전략을 제시한다. 고급 외관과 커뮤니티 시설 등 하드웨어 중심의 기존 경쟁에서 벗어나 입주 이후에도...",
-    "published_at": "2026-09-16T15:18:00+09:00",
-    "cluster_id": "fa6e",
-    "publisher": "newstnt.com",
-    "title_clean": "롯데건설, 목동 재건축에 '6세대 주거문화' 제안…교육·자연·예술 결합",
-    "summary": "롯데건설이 목동 재건축 프로젝트에서 교육, 자연, 예술, 서비스를 결합한 '6세대 주거문화' 콘셉트를 제시하며 하이엔드 시장 차별화 전략을 추진 중이다. 기존 하드웨어 중심 경쟁에서 벗어나 입주 후 라이프스타일 가치를 강조하는 새로운 고급주택 시장 수요 대응이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-16T15:47:09+09:00",
-    "importance": 2
+    "title": "구리시, 건설 공사장 CCTV 재난안전상황실 연계...24시간 위험 감시 - kmaeil.com",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrM0R5TjY4MDFSbG1yRDlRSzZZY3ozb3BKdzM1Zm9DNFV6S0xfWmxmMVpVSVJUVkdkUmhLSWR1ODlST3RVS01SS3VSZUNrc2dFc3NUSVZ6YVd4aHBFaDl0WjVSenl0R1Bt?oc=5",
+    "description": "구리시가 건설 공사장에서 발생할 수 있는 화재와 안전사고를 조기에 포착하기 위해 현장 CCTV와 재난안전상황실을 실시간으로 연결한다. 사고 발생 이후 현장 보고에",
+    "published_at": "2026-09-28T15:02:32+09:00",
+    "cluster_id": "4fc3",
+    "publisher": "kmaeil.com",
+    "title_clean": "구리시, 건설 공사장 CCTV 재난안전상황실 연계...24시간 위험 감시",
+    "summary": "구리시가 건설 공사장의 CCTV를 재난안전상황실과 실시간 연계하여 화재와 안전사고를 24시간 감시하는 체계를 도입했다. 사고 조기 포착으로 피해를 최소화하려는 안전 강화 정책이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-28T15:08:24+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32253,22 +32269,6 @@
     "summary": "건설현장의 안전사고 예방을 위해 건설사들이 외국인 근로자와의 소통 강화에 나서고 있으며, AI 번역 기술 등을 도입하여 언어 장벽 해소에 주력하고 있다. 이는 건설현장 안전관리 강화와 인력 활용 효율화를 동시에 추구하는 업계의 긍정적 대응이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-19T14:08:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "승강기안전공단, 국가유공자 어르신에 '따뜻한 온기' 전달 - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50231",
-    "description": "[건설이코노미뉴스] 민족 최대 명절인 추석을 앞두고 국가를 위해 헌신한 국가유공자 어르신들의 안부를 살피고 감사의 마음을 전하는 따뜻한 자리가 마련됐다.한국승강기안전공단은 공단 본부에서 경남서부보훈지청·진주시복지재단과 협력해 국가유공자들을 정중히 초청하고, 소통 간담회와 함께 명절 맞춤형 후원을 진행했다고 밝혔다.이번 행사는 명절을 맞아 자칫 소외감을 느끼기 쉬운 복지 사각지대의 고령 국가유공자들을 직접 살피고, 나라를 위한 고귀한 희생에 진심 어린 감사의 뜻을 전하기 위해 마련됐다.특히 형식적인 성금 전달식에서 벗어나 국가유공자들",
-    "published_at": "2026-09-19T12:23:27+09:00",
-    "cluster_id": "a74b",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "승강기안전공단, 국가유공자 어르신에 '따뜻한 온기' 전달",
-    "summary": "한국승강기안전공단이 추석을 앞두고 경남서부보훈지청, 진주시복지재단과 협력하여 국가유공자 어르신들을 초청해 간담회 및 명절 맞춤형 후원을 실시했다. 소외감을 느끼기 쉬운 고령 국가유공자들을 직접 살피고 감사의 뜻을 전하는 사회공헌 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-19T12:26:08+09:00",
     "importance": 2
   }
 ]
