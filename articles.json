@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공공·민간 동반 반등… 2분기 건설계약액 80조 원 돌파 - 대한청년일보",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1BQWxBUzV5LXJGcW9HWnJsM2lxZXhHVEVGQndvcVBGdmlMclpwT25lLUlMNUxSd1dXbFE1ZDBqTTBid3c?oc=5",
+    "description": "국토교통부 건설공사 계약 통계/출처=국토부반도체 생산시설과 에너지 설비, 공공주택 사업이 늘면서 올해 2분기 건설공사 계약액이 80조 원을 넘어섰다. 최근 10년간 가장 많았던 2022년 2분기 실적의 97.8% 수준이다.올해 2분기 건설공사 계약액은 80조 9000억 원으로 지난해 같은 기간보다 27.3% 증가했다. 공공과 민간 모두 계약 규모가 커진",
+    "published_at": "2026-09-28T08:16:52+09:00",
+    "cluster_id": "88a7",
+    "publisher": "대한청년일보",
+    "title_clean": "공공·민간 동반 반등… 2분기 건설계약액 80조 원 돌파",
+    "summary": "2023년 2분기 건설공사 계약액이 80조 9000억 원으로 전년 동기 대비 27.3% 증가했으며, 반도체·에너지·공공주택 등이 성장을 주도했다. 최근 10년 중 최고 수준인 2022년 2분기의 97.8% 수준으로 공공과 민간 모두 계약 규모가 확대되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-28T14:28:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32254,21 +32270,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-19T06:10:44+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남도, 추석 맞아 중대재해 예방 합동 안전캠페인 실시 - 웹이코노미",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PaTJzUlNFajlCMmROTXZiU1RQZHMydXE5MXVEVl9QajgxNDdtQjh2dnNQeVlVTy1KanhSTEFvYnBqa1VrWGF2U3VveWczSXJPUi10THowTDctaFJ1VmkxcFNZdkVsUlJVWjNvUHdjT1ZVUQ?oc=5",
-    "description": "경상남도는 18일 창원시 건설현장과 시티세븐몰에서 중대재해 예방을 위한 합동 안전캠페인을 진행했다.이번 캠페인에서는 근로자와 도민을 대상으로 안전수칙 준수와 가스",
-    "published_at": "2026-09-18T23:08:00+09:00",
-    "cluster_id": "df64",
-    "publisher": "웹이코노미",
-    "title_clean": "경남도, 추석 맞아 중대재해 예방 합동 안전캠페인 실시",
-    "summary": "경상남도가 추석을 앞두고 창원시 건설현장과 시티세븐몰에서 중대재해 예방 합동 안전캠페인을 실시했다. 근로자와 도민을 대상으로 안전수칙 준수와 가스 관련 안전교육을 진행했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T23:25:35+09:00",
-    "importance": 2
   }
 ]
