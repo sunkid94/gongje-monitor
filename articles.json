@@ -20658,6 +20658,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "DL이앤씨, 기술 발굴 넘어 공동개발·현장 적용·사업화까지···기술협력 확대 - 뉴스웨이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUEpJQjV1bTFZaW1ESE5NejY4UnJleFEzUk05Uml3aGxwZkU3QVEweDFLUE9adFJxQkpEUWZUYnQwUmVGZ2VycDJLRldKMm9vY2VfdWdzb2p3eHVubWhjZzM1SUpVQi1kcWc?oc=5",
+    "description": "DL이앤씨는 중소·전문기업과의 기술협력을 통해 건설 현장에 혁신기술을 상용화하고 있다. 한솔홈데코, 강남제비스코 등과 공동 연구개발에 성공하여 국토교통부 인증을 받았으며, 이를 현장에 적용하고 있다. 또한, 엑스에너지와의 협력을 통해 글로벌 SMR 표준화 설계를 추진하며 신사업 분야까지 협력 범위를 확대하고 있다.",
+    "published_at": "2026-09-29T07:00:37+09:00",
+    "cluster_id": "b996",
+    "publisher": "뉴스웨이",
+    "title_clean": "DL이앤씨, 기술 발굴 넘어 공동개발·현장 적용·사업화까지···기술협력 확대",
+    "summary": "DL이앤씨가 중소·전문기업과의 기술협력을 강화하여 건설 현장에 혁신기술을 적용하고 사업화하고 있다. 한솔홈데코, 강남제비스코 등과 공동개발 성공 및 국토교통부 인증을 받았으며, SMR 등 신사업 분야까지 협력 범위를 확대 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T07:09:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32253,22 +32269,6 @@
     "publisher": "기계설비신문",
     "title_clean": "[인터뷰] 윤수임 광주공업고등학교 발전설비과 교사",
     "summary": "광주공업고등학교 발전설비과가 용접, 배관, 비파괴검사, 공조냉동, 에너지관리 등 다양한 기술을 융합한 인재를 육성하고 있다. 발전소와 석유화학 플랜트의 오버홀 및 성능 개선 수요 증가와 중대재해처벌법 강화로 비파괴 진단 수요가 폭증하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-21T06:13:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[아카데미 탐방] 광주공업고등학교 발전설비과 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51882",
-    "description": "대한민국 산업화의 주춧돌을 놓았던 반세기 전통의 금속과가 에너지 전환과 인공지능(AI) 시대의 파고를 타고 기계설비 전문 학과로 탈바꿈했다. 광주공업고등학교가 2025학년도부터 야심 차게 닻을 올린 ‘발전설비과’가 그 주인공이다.광주공업고등학교 발전설비과는 ‘광주형 마이스터고’에 지정되면서 학급당 18명에 해당하는 정예 인재를 모아 발전소와 플랜트는 물론 반도체 팹(Fab)과 초거대 AI 데이터센터(AIDC)의 혈맥을 책임질 ‘K-기계설비 영마이스터’ 양성에 집중하고 있다.발전설비과로 전환하게 된 배경에는 에너지 전환 및 플랜트 설",
-    "published_at": "2026-09-21T06:00:00+09:00",
-    "cluster_id": "61c4",
-    "publisher": "기계설비신문",
-    "title_clean": "[아카데미 탐방] 광주공업고등학교 발전설비과",
-    "summary": "광주공업고등학교가 반세기 전통의 금속과를 발전설비과로 전환하고 '광주형 마이스터고'로 지정되어 에너지 전환과 AI 시대에 대비한 기계설비 전문 인력 양성에 나섰다. 발전소, 플랜트, 반도체 팹, 초거대 AI 데이터센터 등 주요 산업 인프라의 기술 인력 수급을 지원할 것으로 기대된다.",
     "sentiment": "positive",
     "collected_at": "2026-09-21T06:13:57+09:00",
     "importance": 2
