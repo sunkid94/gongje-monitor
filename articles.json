@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "모두의카드 시차환급 연말까지 연장 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37373",
+    "description": "출퇴근 혼잡시간을 피해 대중교통을 이용하면 모두의카드 환급률을 30%포인트 더 주는 혜택이 연말까지 이어진다. 일반 이용자는 이용금액의 50%, 청년·2자녀 가구·어르신은 60%, 3자녀 이상 가구는 80%, 저소득층은 최대 83.3%까지 돌려받는다. 반면 정액형 환급 기준금액을 절반으로 낮춘 이른바 ‘반값 모두의카드’ 혜택은 예정대로 9월 이용분을 끝으로 종료된다.국토교통부 대도시권광역교통위원회는 출퇴근 시차시간 인센티브를 오는 12월까지 연장하고 내년에도 운영할 수 있도록 2027년 정부 예산안에 관련 예산을 반영했다고 28일",
+    "published_at": "2026-09-28T11:55:00+09:00",
+    "cluster_id": "ec9f",
+    "publisher": "한국건설신문",
+    "title_clean": "모두의카드 시차환급 연말까지 연장",
+    "summary": "모두의카드의 시차환급 혜택이 연말까지 연장되며, 대중교통 이용 시 환급률이 30%포인트 추가된다. 반면 반값 모두의카드는 9월 이용분을 끝으로 종료되고, 시차환급은 내년까지 계속될 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T15:46:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32253,22 +32269,6 @@
     "summary": "배우 현봉식이 생계를 위해 다양한 아르바이트를 경험한 과정을 다룬 인터뷰 기사입니다. PC방, 주유소, 택배, 경호, 건설 노동 등 여러 일을 했으나 장기간 종사하지 못했다고 밝혔습니다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-20T05:07:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설기계 작업 위험 차단 안전한 산림토목 현장 조성 - 한국영농신문",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UN25LdjltSmlyc2pGZW4zMzg3YXFLQWRETDIxRmc4ZTdFdkc0MXk5NnBtcnZsQVYtTm1acF94UzI0LWN3OXY5MWVjZW9uNkNhdDY2UFZTTEhBbE90bTNhYlcza0x0ZVM4WUVRaXRB?oc=5",
-    "description": "동부지방산림청(청장 남송희)은 산림토목사업장 안전사고를 예방하기 위해 8일 삼척시 원덕읍 임원리 일원 산불진화임도 현장에서 삼척국유림관리소 및 산림조합중앙회 동부",
-    "published_at": "2026-09-19T23:13:02+09:00",
-    "cluster_id": "d8c4",
-    "publisher": "한국영농신문",
-    "title_clean": "건설기계 작업 위험 차단 안전한 산림토목 현장 조성",
-    "summary": "동부지방산림청이 산림토목사업장의 안전사고 예방을 위해 삼척시 산불진화임도 현장에서 안전 점검 및 지도를 실시했다. 건설기계 작업 위험을 차단하고 안전한 현장 조성에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-19T23:27:51+09:00",
     "importance": 2
   }
 ]
