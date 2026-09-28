@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "보냉가설봉사단, 대한기계설비건설협회부산광역시회와 경주 기초수급자 대상 사회공헌활동 실시 - 인터넷조은뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRUU9Ud3gwYzZUci1yVmZrM2NhSExvMUg1d0hwQ1NnRU4yWE1CWGxYLTVwMXVINTFIUnM4XzlMdUo0bmNtNGJjRGYwQkNaOUdrYVVBY2JzRUdWbGVtWlJFbXl4NA?oc=5",
+    "description": "[(부산)조은뉴스=이재훈 기자] 보냉가설봉사단(단장 박진관 명장)과 대한기계설비건설협회광역시회(회장 엄세현)는 추석을 앞두고 경북 경주시 내남면에서 노령의 기초수급자 세대에 대해 양변기, 정화조, 오배수배관, 보일러 설치 및 위생기구 수전 교체 등의 봉사를 실시했다.이번 봉사는 구순이 넘은 노부부가 생활하고 있는 옛날 시골집으로 화장실에 외부에 설치 되어 있어 어르신들께서 화장실을 이용하시기가 너무 불편해 집수리 봉사를 진행했다.\"보일러가 고장 난 채로 장기간 사용을 하지 못해 장작을 이용하여 난방을 하고 계셨다. 이러한 사실 알게",
+    "published_at": "2026-09-28T11:11:34+09:00",
+    "cluster_id": "e7c5",
+    "publisher": "인터넷조은뉴스",
+    "title_clean": "보냉가설봉사단, 대한기계설비건설협회부산광역시회와 경주 기초수급자 대상 사회공헌활동 실시",
+    "summary": "보냉가설봉사단과 대한기계설비건설협회 부산광역시회가 경주의 기초수급자 가정을 대상으로 화장실, 보일러, 수배관 등 설비 개선 봉사활동을 실시했다. 노령 어르신들의 열악한 주거환경 개선을 통한 사회공헌활동이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-28T11:28:15+09:00",
+    "event_label": "대한기계설비건설협회 부산광역시회 기초수급자 주택 설비개선 봉사활동",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -20610,6 +20627,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "세종도시교통공사 김재원 처장, 기술사와 산업안전지도사 ‘2관왕’ - 특급뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXRzlKU2dPajlxb2ZnVmMxZzFpVnFLRXlEelR3TVk5TTdHRFNfR3E3eVkxTXNHRzhnQVZuelF3ZWQ5Um5KX2lHOG9nZnRDZHFkY1BDb0hPNWdJdTV5RnZGdUlYOXNxMFVrYk5TMkpNMmptQQ?oc=5",
+    "description": "세종도시교통공사 김재원 개발사업처장이 한국산업인력공단 시행 2026년도 제16회 산업안전지도사 자격시험에 최종 합격하며, 2018년 취득한 토목시공기술사에 이어 기술과 안전 분야 전문자격을 모두 갖추게 됐다.(사진)산업안전지도사는 「산업안전보건법」에 따라 사업장의 산업재해 예방을 위한",
+    "published_at": "2026-09-28T11:02:24+09:00",
+    "cluster_id": "473e",
+    "publisher": "특급뉴스",
+    "title_clean": "세종도시교통공사 김재원 처장, 기술사와 산업안전지도사 ‘2관왕’",
+    "summary": "세종도시교통공사 김재원 처장이 산업안전지도사 자격시험에 합격하여 토목시공기술사와 함께 기술·안전 분야 전문자격을 모두 보유하게 됨. 산업안전지도사는 사업장의 산업재해 예방을 위한 전문가 자격으로, 건설현장 안전관리 강화에 도움이 될 수 있음.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T11:28:15+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "김재원 세종도시교통공사 처장, 산업안전지도사 최종 합격 - weekly.hankooki.com",
     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7186081",
     "description": "공사는 앞으로 개발사업이 확대됨에 따라 건설현장 안전관리와 재해예방의 중요성 역시 커질 것으로 보고 있다. 김재원 처장은 건설현장의 안전 문제가 사회적으로 주목받고 중대재해 예방과 안전경영의 중요성이...",
@@ -32237,37 +32270,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-18T21:32:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "복기왕 의원, 민간 주택공급 확대 방안 집중 질의 - newstnt.com",
-    "link": "https://www.newstnt.com/news/articleView.html?idxno=719201",
-    "description": "그러면서 복기왕 의원은 \"지역별 여건이 다른데도 서울과 지방을 동일한 금융·세제 정책으로 적용해서는 민간의 투자와 지방 건설경기를 살리기 어렵다\"고 지적한 후 \"주택정책의 책임이 있는 국토교통부가 행정 편의와...",
-    "published_at": "2026-09-18T18:30:00+09:00",
-    "cluster_id": "8f31",
-    "publisher": "newstnt.com",
-    "title_clean": "복기왕 의원, 민간 주택공급 확대 방안 집중 질의",
-    "summary": "복기왕 의원이 지역별 여건을 반영하지 않은 동일한 금융·세제 정책이 민간 주택공급과 지방 건설경기 활성화를 저해한다고 지적했습니다. 국토교통부의 차별화된 주택정책 추진을 촉구하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T18:52:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산도시공사, VR 활용 건설현장 안전교육 실시 - jeonmae.co.kr",
-    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294861",
-    "description": "이번 교육은 국토안전관리원 영남지역본부와 연계한 프로그램으로, 중·소규모 건설현장 근로자들이 실제 사고 상황을 가상으로 체험하며 위험요인을 인식하고 안전수칙 준수의 중요성을 높일 수 있도록 마련됐다....",
-    "published_at": "2026-09-18T18:10:00+09:00",
-    "cluster_id": "c1e0",
-    "publisher": "jeonmae.co.kr",
-    "title_clean": "부산도시공사, VR 활용 건설현장 안전교육 실시",
-    "summary": "부산도시공사가 국토안전관리원과 연계하여 VR 기술을 활용한 건설현장 안전교육을 실시하고 있다. 중·소규모 건설현장 근로자들이 가상으로 사고 상황을 체험하며 위험요인을 인식하고 안전의식을 강화하는 프로그램이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T18:32:16+09:00",
-    "importance": 2
   }
 ]
