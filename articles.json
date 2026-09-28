@@ -4624,6 +4624,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, 목동 수주전 참전...목동2·4·11·14 노린다 - 뉴스웨이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jZHJvTllKQUZEX0FWZnVfWXVxRnE3Q2Y3Nlhhd2dFa3NGU2hocjNpTlRXVU1fcnNBUnlTNGZFQnJkc3dPcXFhZ2hYa3M1dTdNWXVtRzNKN0NRa21QUzhTdDhrZDFlY2x0ZGc?oc=5",
+    "description": "포스코이앤씨가 서울 양천구 목동신시가지 아파트 재건축 수주전에 본격적으로 뛰어든다. 목동4단지를 시작으로 목동2·11·14단지까지 주요 사업장 수주를 검토하며 목동 일대 정비사업 수주 확대에 나선다. 28일 정비업계에 따르면 포스코이앤씨는 목동4단지 재건축을 비롯해 목동신시가지2·11·14단지 등 주요 사업장의 수주를 준비하고 있다. 각 사업장의 사업성과 특성에 맞춰 수주 전략을 마련하고 하이엔드 주거 브랜드",
+    "published_at": "2026-09-28T16:32:19+09:00",
+    "cluster_id": "1bf2",
+    "publisher": "뉴스웨이",
+    "title_clean": "포스코이앤씨, 목동 수주전 참전...목동2·4·11·14 노린다",
+    "summary": "포스코이앤씨가 서울 양천구 목동신시가지 재건축 수주전에 참전하며 목동2·4·11·14단지 등 주요 사업장 수주를 검토 중이다. 각 사업장의 사업성과 특성에 맞춰 수주 전략을 수립하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-28T16:38:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20606,22 +20622,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-16T16:47:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "가덕도신공항 11월 착공 앞 진통...6200억 공사비 증액 놓고 이견 - insightkorea.co.kr",
-    "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254760",
-    "description": "기본설계 제출에 이어 설계심의 등 후속 절차가 구체화했지만, 대우건설 컨소시엄이 요구한 약 6200억원 규모의 공사비 증액 문제는 여전히 풀리지 않았다. 정부가 특별법 개정 등 제도적 해법을 검토하는 가운데 지역...",
-    "published_at": "2026-09-16T16:18:00+09:00",
-    "cluster_id": "c718",
-    "publisher": "insightkorea.co.kr",
-    "title_clean": "가덕도신공항 11월 착공 앞 진통...6200억 공사비 증액 놓고 이견",
-    "summary": "가덕도신공항 11월 착공을 앞두고 대우건설 컨소시엄의 6200억원 공사비 증액 요구로 분쟁이 발생했다. 정부가 특별법 개정 등 제도적 해결책을 검토 중이지만 아직 해결되지 않은 상태다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-16T16:47:28+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
