@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "반도체 호조에 2분기 건설계약액 27% 증가…상위 50개사 싹쓸이 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GLWNXUDJsTG1zRXh4LXVwNkJrQXBPa001dmR4NkxMZWN6S0xkQVVsdlZtcWVOdDhPSWdHMzlmM2t5djBzcDF1c3ZZM1R5NnNPbkd1dU52RHpjTEhyWUtaNg?oc=5",
+    "description": "반도체 생산시설 확대 등에 힘입어 올해 2분기 건설공사 계약액이 4년 만에 최대치를 기록한 가운데, 늘어난 일감 대부분은 상위 50개 대형 건설사 몫인 것으로 .",
+    "published_at": "2026-09-28T08:41:25+09:00",
+    "cluster_id": "0e78",
+    "publisher": "아시아경제",
+    "title_clean": "반도체 호조에 2분기 건설계약액 27% 증가…상위 50개사 싹쓸이",
+    "summary": "반도체 생산시설 확대의 호재로 2분기 건설공사 계약액이 4년 만에 최대치를 기록했다. 다만 증가한 일감이 상위 50개 대형사에 집중되면서 중소 건설사의 수주 기회 편차가 심한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T20:49:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32254,22 +32270,6 @@
     "summary": "경기도가 건설현장 체불 41건 5억6800만원을 해결하며 추석 앞두고 집중 점검을 실시했다. 임금, 하도급금, 건설기계 대여대금 등 다양한 형태의 체불을 정리하여 건설업 종사자들의 실질적 어려움을 완화했다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-20T19:57:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[천왕봉]인력 유출국 vs 인력 유입국 - gnnews.co.kr",
-    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=645956",
-    "description": "한국의 건설노동자들은 중동으로 파견돼 뜨거운 사막의 모래바람을 맞으면서 노동으로 번 돈을 본국으로 보냈다. 1980년대에는 한국의 중동 파견 인력은 전체 해외 진출 인력의 비중이 80%를 넘기도 했다. ▶이제 한국은...",
-    "published_at": "2026-09-20T18:52:00+09:00",
-    "cluster_id": "fc88",
-    "publisher": "gnnews.co.kr",
-    "title_clean": "[천왕봉]인력 유출국 vs 인력 유입국",
-    "summary": "한국은 1980년대 중동 파견 건설노동자로 해외 진출 인력의 80% 이상을 차지하며 인력 수출국이었다. 기사는 과거 건설 붐 시대와 현재의 변화를 대비하며 한국의 위상 변화를 언급하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-20T18:57:48+09:00",
     "importance": 2
   }
 ]
