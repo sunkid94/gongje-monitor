@@ -4658,6 +4658,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "푸르지오 명성까지 말아먹은 중흥건설, '대우 관리직' 이강석을 사장에... - newswell.co.kr",
+    "link": "http://www.newswell.co.kr/news/articleView.html?idxno=22209",
+    "description": "현대엔지니어링과 HJ현대중공업 각 11명, 포스코이엔씨·DL이엔씨·롯데건설 각 10명 순이었다. 포스코가 중대재해로 이재명정부의 강력한 질책을 받았으나 사실 가장 위험한 건설 시공 현장은 따로 있었던 것이다. 자료 4....",
+    "published_at": "2026-09-29T08:26:00+09:00",
+    "cluster_id": "f62b",
+    "publisher": "newswell.co.kr",
+    "title_clean": "푸르지오 명성까지 말아먹은 중흥건설, '대우 관리직' 이강석을 사장에...",
+    "summary": "중흥건설이 대우건설 출신의 이강석을 신임 사장으로 임명했다. 건설업계 중대재해 통계에서 중흥건설이 상위권에 올라 있으며, 포스코 사건 이상으로 건설 현장의 안전 문제가 심각한 것으로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T08:49:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20639,22 +20655,6 @@
     "summary": "현대산업개발·현대건설·포스코이앤씨가 공동 시공하는 시티오씨엘 9단지 오션파크뷰가 20~22일 정당계약을 진행한다. 1949세대 49층 규모로 시티오씨엘 최대 규모이며, 인천 평당 2000만원대 가격대 속에서 선점 수요에 주목하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-17T01:46:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "목동 재건축 4곳 공략 - donga.com",
-    "link": "https://www.donga.com/news/Economy/article/all/20260916/134683766/2",
-    "description": "롯데건설은 다음 달 1일부터 서울 양천구 목동신시가지아파트 14개 단지 주민을 대상으로 ‘르엘 라운지’를 운영한다고 밝혔다. 라운지는 서울 지하철 5호선 목동역과 오목교역 인근에 각 1곳씩 들어선다. 롯데건설은...",
-    "published_at": "2026-09-17T00:31:00+09:00",
-    "cluster_id": "9d43",
-    "publisher": "donga.com",
-    "title_clean": "목동 재건축 4곳 공략",
-    "summary": "롯데건설이 서울 양천구 목동신시가지아파트 14개 단지 주민을 대상으로 다음 달부터 '르엘 라운지'를 운영한다. 목동역과 오목교역 인근에 각 1곳씩 라운지를 설치하여 재건축 사업 추진을 본격화한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T00:56:26+09:00",
     "importance": 2
   },
   {
