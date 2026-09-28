@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "세종도시교통공사 김재원 처장 산업안전지도사 합격 - 충청매일",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZDE4MjYtREVwYkNyLWY2bDVkZjJFSF9IRzVqbnBhUXplQkpfMXU3b2VIVExtSTA2WkdoQktVcnNoV0ZuaTJlUzdBQWI1bkRvR3RuYmxDSm91UXV3Nm1MbnJNWUFEai1VS3c?oc=5",
+    "description": "세종도시교통공사 김재원(사진) 개발사업처장이 한국산업인력공단 2026년도 제16회 산업안전지도사 자격시험에 최종 합격했다. 김 처장은 2018년 토목시공기술사 취득에 이어 이번 산업안전지도사 시험에 합격하며 안전 분야 전문자격을 모두 갖추게 됐다. 산업안전지도사는 ‘산업안전보건’에 따",
+    "published_at": "2026-09-28T14:30:12+09:00",
+    "cluster_id": "0121",
+    "publisher": "충청매일",
+    "title_clean": "세종도시교통공사 김재원 처장 산업안전지도사 합격",
+    "summary": "세종도시교통공사 김재원 처장이 산업안전지도사 자격시험에 합격하여 안전 분야 전문자격을 확보했다. 토목시공기술사에 이어 산업안전 관련 자격을 취득함으로써 건설사업 추진 시 안전 전문성을 강화할 수 있게 됐다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T20:43:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-20T18:57:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'섣부른 결정으로 반쪽짜리 완성'...화북상업지역 기반시설 공사 완료 - newsjeju.net",
-    "link": "https://www.newsjeju.net/news/articleView.html?idxno=426120",
-    "description": "최근 들어 미분양에 제주 건설경기가 악화가 장기화되면서 이 부지를 제 값에 주고 살 기업을 물색하기 쉽지 않은 상황이다. 당시 2000여 억원의 중도금을 받은 제주시의 섣부른 정책결정에 아쉬움이 남는다는...",
-    "published_at": "2026-09-20T18:40:00+09:00",
-    "cluster_id": "176a",
-    "publisher": "newsjeju.net",
-    "title_clean": "'섣부른 결정으로 반쪽짜리 완성'...화북상업지역 기반시설 공사 완료",
-    "summary": "제주 화북상업지역 기반시설 공사가 완료되었으나, 제주시의 섣부른 정책결정으로 2000여 억원의 중도금을 받은 후 미분양 사태로 부지 매각이 지연되고 있다. 건설경기 악화로 인해 사업이 '반쪽짜리 완성' 상태에 머물러 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-20T18:47:47+09:00",
-    "importance": 4
   }
 ]
