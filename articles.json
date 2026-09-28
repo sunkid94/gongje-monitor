@@ -4641,6 +4641,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "공사비 협상에 각종 소송, 주민 불만까지... 가덕도신공항 '산 넘어 산' - hankookilbo.com",
+    "link": "https://www.hankookilbo.com/news/article/A2026092809500005458?did=NA",
+    "description": "중동전쟁 여파를 고려해 공사비를 6,200억 원가량 증액해달라는 대우건설 컨소시엄 측의 요구를 승인할 수 있을지, 받아들인다면 어떤 방식으로 풀어갈지 의견이 오간 것으로 전해졌다. 11월 중 진입로와 현장사무실 등...",
+    "published_at": "2026-09-29T04:31:00+09:00",
+    "cluster_id": "f64d",
+    "publisher": "hankookilbo.com",
+    "title_clean": "공사비 협상에 각종 소송, 주민 불만까지... 가덕도신공항 '산 넘어 산'",
+    "summary": "가덕도신공항 사업에서 대우건설 컨소시엄이 중동전쟁 여파로 인한 공사비 6,200억 원 증액을 요청했으나, 승인 여부와 방식을 놓고 의견 대립이 발생하고 있다. 공사비 협상, 소송, 주민 불만 등 다양한 갈등 요소가 얽혀 사업 진행이 지연되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T04:39:05+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20621,22 +20637,6 @@
     "title_clean": "청년고용률 28개월째 하락세... 서울시, 일자리연결 팔 걷었다",
     "summary": "청년고용률 부진으로 서울시가 일자리 연결에 나선 가운데, 현대건설, GS건설, 대우건설 등 주요 건설사와 물산업 기업들이 채용 설명회에 참여한다. 건설업계가 구인 수요를 보이며 청년 채용 기회를 제공하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-16T18:36:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발·부영그룹, 추석 맞아 지역사회 나눔 행보 - consumernews.co.kr",
-    "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=764027",
-    "description": "IPARK현대산업개발은 16일 서울 노원구자원봉사센터와 함께 추석맞이 송편 나눔 행사를 진행하고 노원1종합사회복지관에서 배식 봉사와 기부금 전달식을 열었다. ▲왼쪽부터 정광재 IPARK현대산업개발 도시정비수주팀...",
-    "published_at": "2026-09-16T18:20:00+09:00",
-    "cluster_id": "3a73",
-    "publisher": "consumernews.co.kr",
-    "title_clean": "IPARK현대산업개발·부영그룹, 추석 맞아 지역사회 나눔 행보",
-    "summary": "IPARK현대산업개발과 부영그룹이 추석을 맞아 지역사회 나눔 활동을 실시했다. 송편 나눔 행사와 사회복지관 배식 봉사, 기부금 전달 등을 통해 사회공헌 활동을 진행했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-16T18:36:42+09:00",
     "importance": 2
   },
