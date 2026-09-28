@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "반복담합에 영업정지·등록취소…당정, 공정거래법·개별법 17건 개정 추... - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=744257",
+    "description": "현행 건설산업기본법은 가격·거래제한·입찰 담합 등으로 과징금 처분을 받은 건설사업자가 처분일로부터 9년 안에 같은 유형의 위반행위로 다시 과징금 처분을 받으면 등록을 말소하도록 정하고 있다. 당정은...",
+    "published_at": "2026-09-28T19:29:00+09:00",
+    "cluster_id": "a21d",
+    "publisher": "polinews.co.kr",
+    "title_clean": "반복담합에 영업정지·등록취소…당정, 공정거래법·개별법 17건 개정 추...",
+    "summary": "정부가 반복 담합 건설사에 대해 영업정지와 등록취소 등 강화된 처벌을 담는 공정거래법·개별법 17건 개정을 추진 중입니다. 현행법상 9년 내 같은 유형의 담합으로 재처벌 시 등록말소하는 기준을 더욱 엄격히 하려는 조치입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-28T19:39:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32254,22 +32270,6 @@
     "summary": "호반건설이 서울·수도권 도시정비 사업 수주 조직을 강화하여 1조 원대 클럽에 입성했다. 창동상아1차 재건축과 중화역 정비사업 등을 수주하며 건설경기 침체 속에서도 실적을 확대하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-20T17:57:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "주택 넘어 데이터센터·LNG 플랜트까지…모듈러 적용처 넓어진다 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93cGprTDV0NC1aaHJQaThEMTdUN280eXRyMHNicVBIbmtHWkh5elcwZUFLdEcyWjl0V3FQc3Q3X2JNQ2JnQXJRR1N6bEV0SGZFMGpqOW0wZ09feVFJMWhpRW05REVNbG1HaW45WnFn?oc=5",
-    "description": "건설현장에서 주택 등을 중심으로 활용되던 모듈러 공법이 데이터센터와 액화천연가스(LNG) 플랜트 등 고부가가치 사업으로 적용 범위가 넓어지고 있다. 국내 건설사들도 관련 기술 고도화와 사업 적용 확대에 나서면서다. 공장에서 주요 구조물과 설비를 사전 제작해 현장 작업..",
-    "published_at": "2026-09-20T17:37:19+09:00",
-    "cluster_id": "ba38",
-    "publisher": "아시아투데이",
-    "title_clean": "주택 넘어 데이터센터·LNG 플랜트까지…모듈러 적용처 넓어진다",
-    "summary": "모듈러 공법의 적용 범위가 주택에서 데이터센터, LNG 플랜트 등 고부가가치 사업으로 확대되고 있다. 국내 건설사들이 관련 기술 고도화에 나서면서 새로운 시장 수주 기회가 증가하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-20T17:47:49+09:00",
     "importance": 2
   }
 ]
