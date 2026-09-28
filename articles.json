@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[인사]행정중심복합도시건설청 과장급 전보ㆍ파견 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50280",
+    "description": "[건설이코노미뉴스] 행정중심복합도시건설청은 다음과 같이 인사발령 한다고 28일 밝혔다.▶ 과장급 전보 및 파견(2026.09.28.자) ● 대변인 서기관 한미진(韓美秦) (前 소통협력팀장) ● 국무조정실 특별자치시도지원단 파견 서기관 임시혁(任是爀) (前 대변인)",
+    "published_at": "2026-09-28T14:42:40+09:00",
+    "cluster_id": "b60b",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[인사]행정중심복합도시건설청 과장급 전보ㆍ파견",
+    "summary": "행정중심복합도시건설청이 과장급 인사발령을 단행했다. 대변인 서기관 한미진과 국무조정실 파견 서기관 임시혁의 보직 변경이 있었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T14:44:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "title_clean": "[국토위] 흩어진 건설데이터 한곳에 모은다",
     "summary": "국토부가 건설 데이터 인프라 본부를 설립하여 설계·시공·감리·유지관리 전 생애주기 데이터를 한곳에 통합 관리할 계획이다. 현재 각 기관별로 흩어져 있는 건설 데이터를 표준화하고 AI 학습데이터로 개발해 산업 효율성을 높이려는 사업이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-19T08:10:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "도시안전건설위, 20주년 맞은 ‘서울안전한마당’ 현장 방문 - 동방일보",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15LUlsWHctTUJ5TWlOa3ZfSkVxLVZOS0dzN1RTS2d2dlRTcE4zaW85OC1obTV0N3QwMFdEMWctNzJGemtJWjdxN3NveXN4VnFFUWRabGlzM0VuQ2RsS3FzekM4V29zZDdmRGJneWVlbkotUXc?oc=5",
-    "description": "【동방일보】 신현성 기자 = 서울시의회 도시안전건설위원회가 20주년을 맞은 ‘서울안전한마당’을 찾아 시민 안전문화 확산을 위한 행사 개최를 축하하고 현장 관계자들을 격려했다.서울시의회 도시안전건설위원회는 지난 17일 여의도공원 문화의 마당에서 열린 ‘2026 서울안전한마당’ 행사장을",
-    "published_at": "2026-09-19T07:47:49+09:00",
-    "cluster_id": "7915",
-    "publisher": "동방일보",
-    "title_clean": "도시안전건설위, 20주년 맞은 ‘서울안전한마당’ 현장 방문",
-    "summary": "서울시의회 도시안전건설위원회가 20주년을 맞은 '2026 서울안전한마당' 행사를 방문하여 시민 안전문화 확산을 축하했다. 안전 관련 공공행사 개최로 건설 현장의 안전 인식 제고에 기여하는 행사이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-19T08:10:12+09:00",
     "importance": 2
   }
