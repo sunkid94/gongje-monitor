@@ -4624,6 +4624,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 7% 급등…원전 잭팟 건설사 주가 계속 달린다 [줍줍리포트] - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSWFEVTJISmdobjhEUWdkamNxRHNtQ0dOSUFucXJSeGN2bWYtaDhfNkVmWjg2c25Zc0pOUUV0NnI2TlUwSFRIUjd5VTd1bkJENFE?oc=5",
+    "description": "원전 시공에 강점을 가진 건설사들의 주가가 우상향 곡선을 그리고 있다. 국내 주택 시장 침체와 사회간접자본(SOC) 지출 정체로 전통적인 건축·토목 사업이 위축된 가운데 특수 플랜트를 중심으로 건설사들이 활로를 찾는 모습이다. 28일 한국거래소에 따르면 대우건설은 전",
+    "published_at": "2026-09-28T17:40:48+09:00",
+    "cluster_id": "575a",
+    "publisher": "서울경제",
+    "title_clean": "대우건설 7% 급등…원전 잭팟 건설사 주가 계속 달린다 [줍줍리포트]",
+    "summary": "원전 시공에 강점을 가진 건설사들의 주가가 상승세를 보이고 있다. 국내 주택·SOC 시장 침체 속에서 특수 플랜트 중심으로 새로운 성장 기회를 확보하는 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-28T17:48:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20608,20 +20624,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "경기노동청, 19개 건설사 CSO와 '안전관리' 해법 살폈다 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260916_0003792545",
-    "description": "이날 간담회에는 GS건설, 대우건설, 롯데건설 등 19개 건설사 CSO와 경기청 관내 안전관리자 협의체 회원 등이 참석했다. 이들은 각자 현장에서 시행 중인 ▲CSO의 현장 점검 및 고위험 현장 집중 관리 방안 ▲협력사...",
-    "published_at": "2026-09-16T16:56:00+09:00",
-    "cluster_id": "ee81",
-    "publisher": "newsis.com",
-    "title_clean": "경기노동청, 19개 건설사 CSO와 '안전관리' 해법 살폈다",
-    "summary": "경기노동청이 GS건설, 대우건설, 롯데건설 등 19개 건설사 CSO와 간담회를 개최하여 현장 안전관리 방안을 논의했다. 현장 점검, 고위험 현장 집중 관리, 협력사 안전관리 등을 중심으로 업계의 자율적 안전개선 방안을 모색했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-16T17:16:35+09:00",
-    "importance": 4
+    "title": "2분기 건설공사 계약액 80.9조원…4년만에 80조대 회복 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vUWdkVjBUUXlHLTBEQXQwU0JHV3Y1MWpZN1Iyb2xsZ2FMX1h5WkZGeTlxeWh4RnN5R09mTmhzNkM0UFNSM1VjUUtXRlpseFRubFNDY3F5bGc1M010Yk5RZk9IS3Q?oc=5",
+    "description": "올 2분기 건설공사 계약액이 4년만에 80조원대를 회복했습니다. 국토교통부가 오늘(28일) 발표한 2분기 건설공사 계약액은 80조9000억원입니다.이는 반도체 생산시설 등 산업설비 계약이 크게 늘어난 영향으로, 지난 2022년 2분기(82조7000억원) 이후 가장 높은 수준입니다. 2분기 계약액 가운데 공공부문은 21조3000억원으로 지난해 같은 기간보다 22.4% 증가한 것으로 나타났습니다. 민간부문은 59조6000억원으로 29.1% 늘었습니다. 공종별로 보면 토목공사 계약액은 산업설비와 조경 등을 포함해 25조5000억원",
+    "published_at": "2026-09-28T17:42:33+09:00",
+    "cluster_id": "a261",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "2분기 건설공사 계약액 80.9조원…4년만에 80조대 회복",
+    "summary": "2분기 건설공사 계약액이 80조9000억원으로 4년만에 80조원대를 회복했다. 반도체 생산시설 등 산업설비 계약 증가로 공공부문 22.4%, 민간부문 29.1% 증가했으며, 2022년 2분기 이후 최고 수준을 기록했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-28T17:48:59+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32254,21 +32270,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-20T16:37:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전남·광주 통합···노동조합의 고민은? - laborplus.co.kr",
-    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41485",
-    "description": "이준상 건설노조 광주전남건설지부 지부장은 반도체 클러스터 건설 과정에서 형성될 대규모 건설노동시장을 매개로 지역 건설 산업 회복을 이끌어야 한다고 주장했다. 이준상 지부장은 용인 반도체 클러스터 내...",
-    "published_at": "2026-09-20T15:55:00+09:00",
-    "cluster_id": "8342",
-    "publisher": "laborplus.co.kr",
-    "title_clean": "전남·광주 통합···노동조합의 고민은?",
-    "summary": "전남·광주 통합에 따른 지역 경제 재편 속에서 건설노조는 반도체 클러스터 건설 프로젝트를 통해 대규모 건설노동시장 형성과 지역 건설산업 회복을 기대하고 있다. 이는 지역 건설업계에 새로운 수주 기회와 시장 확대 가능성을 제시하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-20T15:57:46+09:00",
-    "importance": 2
   }
 ]
