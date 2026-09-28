@@ -20624,6 +20624,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "먹거리·민생 담합 17개 업종서 퇴출…黨政, 5개 공정거래법 패키지 발... - intn.co.kr",
+    "link": "http://www.intn.co.kr/news/articleView.html?idxno=2053667",
+    "description": "기존의 건설산업기본법 및 공인중개사법 등 일부 개별법에 존재하는 공정거래법 위반 관련 제재 사례를... 이는 법 위반 포착이 어려운 국세 부과 분야의 해외자산 은닉 및 조세피난처 등 역외거래 부정행위에 15년의...",
+    "published_at": "2026-09-28T13:58:00+09:00",
+    "cluster_id": "1f7f",
+    "publisher": "intn.co.kr",
+    "title_clean": "먹거리·민생 담합 17개 업종서 퇴출…黨政, 5개 공정거래법 패키지 발...",
+    "summary": "정부가 먹거리·민생 관련 17개 업종에서 담합 업체를 퇴출하고 공정거래법 위반에 대한 5개 패키지를 발표했습니다. 건설산업기본법 등 개별법의 공정거래법 제재 사례를 정비하고 해외자산 은닉 등 조세피난처 부정행위에 15년의 제재를 추진 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-28T14:08:26+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공사계약액 10년 최고치 눈앞인데…업황은 여전히 '찬바람' - mediapen.com",
+    "link": "https://www.mediapen.com/news/view/1126341",
+    "description": "국토교통부 건설산업종합정보망(KISCON)에 따르면 올해 9월 28일까지 건설업 폐업 신고는 3215건으로 지난해 같은 기간 2552건보다 26.0% 증가했다. 올해가 아직 3개월 이상 남았지만 이미 지난해 연간 폐업 건수 3644건의 88...",
+    "published_at": "2026-09-28T13:58:00+09:00",
+    "cluster_id": "2f96",
+    "publisher": "mediapen.com",
+    "title_clean": "공사계약액 10년 최고치 눈앞인데…업황은 여전히 '찬바람'",
+    "summary": "공사계약액이 10년 최고치에 근접했으나 건설업 폐업 신고가 지난해 동기 대비 26% 증가하면서 업계 불황이 심화되고 있다. 수주는 증가하나 수익성 악화와 경영 악화로 인한 폐업 증가로 업계 전반의 경기 부진이 이어지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-28T14:08:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32237,38 +32269,6 @@
     "summary": "경상남도가 추석을 앞두고 창원시 건설현장과 시티세븐몰에서 중대재해 예방 합동 안전캠페인을 실시했다. 근로자와 도민을 대상으로 안전수칙 준수와 가스 관련 안전교육을 진행했다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-18T23:25:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "울산시, 건설업계 실무역량 높인다 - 울산종합일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fcEpLSDhqNm96cUNSU2pZckx6d1NtREN2WFM1Z21tSnJIZUlZU196YTlJMXN4S3JlbnlzYWhRVk9YYWZaNEFKZGo1QTlaR1k2UUh1R2VfcXA1c3pNZDYzQVEycUl1dUZsaUFqYTJ3?oc=5",
-    "description": "지역 건설업 관계자 120여명 참여건설산업기본법 개정사항 안내불법하도급·대장 미통보 예방",
-    "published_at": "2026-09-18T15:16:26+09:00",
-    "cluster_id": "ccd0",
-    "publisher": "울산종합일보",
-    "title_clean": "울산시, 건설업계 실무역량 높인다",
-    "summary": "울산시가 지역 건설업 관계자 120여명을 대상으로 건설산업기본법 개정사항 교육을 실시하여 업계의 실무역량을 강화하고 있다. 불법하도급과 대장 미통보 등 위법행위 예방을 통해 산업 질서 정립을 도모하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T23:13:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부·부산시·건설공단, ‘가덕도신공항 사업추진협의체’ 출범… 연내 착공 등 현안 논의 - 디스커버리뉴스(DISCOVERYNEWS)",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKS3FiWXJfckxyMWF1M095dnZPdS1ySlp5bkU1UmV4bWswZVg0ckRkYW40Vllpc1RZaS04bVpabDk4SGZ4TXdMYzZrX1NMYjIxa1F4TnNBZWJRd1o4RkFVVXJudjJfaDEzQm1yN0FhUzNzZw?oc=5",
-    "description": "[디스커버리뉴스=정기환 기자] 국토교통부, 부산광역시, 가덕도신공항건설공단은 18일 오후 부산역 회의실에서 ‘가덕도신공항 사업추진협의체’ 첫 회의를 개최하고 사업의 주요 현안을 논의했다고 밝혔다.이번 협의체 출범은 지난 9월 7일 부지조성공사 시공사인 대우건설 컨소시엄이 기본설계도서를 제출하며 사업이 본격적인 착공 준비 단계에 진입함에 따라, 정부와 지방정부, 사업시행자 간의 상시적인 소통과 협력 체계를 강화하기 위해 추진되었다.협의체에는 국토교통부 항공정책실장, 부산광역시 미래혁신부시장, 가덕도신공항건설공단 부이사장이 참여하여 사",
-    "published_at": "2026-09-18T17:46:07+09:00",
-    "cluster_id": "cb03",
-    "publisher": "디스커버리뉴스(DISCOVERYNEWS)",
-    "title_clean": "국토부·부산시·건설공단, ‘가덕도신공항 사업추진협의체’ 출범… 연내 착공 등 현안 논의",
-    "summary": "국토교통부, 부산시, 가덕도신공항건설공단이 사업추진협의체를 출범하여 연내 착공을 위한 주요 현안을 논의했다. 대우건설 컨소시엄이 기본설계도서를 제출하며 본격적인 착공 준비 단계에 진입함에 따라 정부-지방정부-사업시행자 간 협력 체계를 강화했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T23:13:57+09:00",
     "importance": 2
   }
 ]
