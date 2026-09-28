@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설수주도 반도체 훈풍 … 회복 온기는 대형사 쏠려 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3dnpTeXktUTlhREIweEJwVVQ5UTIyNXBsalA5WWdabDJ3QXpFWi1vOWVMeDJyMEZfcmYyQUExdEJrVXU4QVE?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3dnpTeXktUTlhREIweEJwVVQ5UTIyNXBsalA5WWdabDJ3QXpFWi1vOWVMeDJyMEZfcmYyQUExdEJrVXU4QVE?oc=5\" target=\"_blank\">건설수주도 반도체 훈풍 … 회복 온기는 대형사 쏠려</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "published_at": "2026-09-28T17:11:23+09:00",
+    "cluster_id": "faf0",
+    "publisher": "매일경제",
+    "title_clean": "건설수주도 반도체 훈풍 … 회복 온기는 대형사 쏠려",
+    "summary": "반도체 산업의 호황으로 건설수주가 증가하고 있으나, 회복의 이득이 대형 건설사에 집중되는 양극화 현상이 나타나고 있다. 중소 건설업체는 수주 증가 효과를 제대로 누리지 못하고 있는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-28T20:38:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-20T18:47:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“AI, 경제 성장시키고 사람 몫 줄일 것”…앤트로픽의 섬뜩한 경고 [나... - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12157641",
-    "description": "반면 AI가 직접 대체하기 어려운 다른 직종, 이를테면 건설노동자·전기기사·정비공·운송직·요식업 종사자·돌봄서비스 종사자의 임금은 33.6% 높아집니다. 사람이 희소해지기 때문입니다. 논쟁은 금융시장으로...",
-    "published_at": "2026-09-20T18:44:00+09:00",
-    "cluster_id": "b453",
-    "publisher": "mk.co.kr",
-    "title_clean": "“AI, 경제 성장시키고 사람 몫 줄일 것”…앤트로픽의 섬뜩한 경고 [나...",
-    "summary": "AI 발전으로 사무직·전문직 임금이 하락할 것으로 예상되는 반면, 건설노동자·전기기사·정비공 등 AI 대체가 어려운 직종의 임금은 33.6% 상승할 것으로 전망된다. 건설업 인력의 희소성으로 인한 임금 상승 기회를 제시하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-20T18:47:47+09:00",
-    "importance": 2
   }
 ]
