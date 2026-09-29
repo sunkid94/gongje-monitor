@@ -4675,6 +4675,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설사 이익률 반등에도…한기평 \"등급 잣대는 2027년 빚 감소 속도\" - smarttoday.co.kr",
+    "link": "https://www.smarttoday.co.kr/ko-kr/articles/112059",
+    "description": "포스코이앤씨(A+/부정적)는 2024년 말 순현금에서 2025년 말 0.8조원, 올해 6월 말 0.9조원 순차입으로 전환했고, 대구 미분양 사업장의 공사미수금과 PF 우발채무가 남아 있다. 7월 신종자본증권 발행으로 부채비율 등...",
+    "published_at": "2026-09-29T10:46:00+09:00",
+    "cluster_id": "94aa",
+    "publisher": "smarttoday.co.kr",
+    "title_clean": "건설사 이익률 반등에도…한기평 \"등급 잣대는 2027년 빚 감소 속도\"",
+    "summary": "포스코이앤씨는 2024년 말 순현금에서 2025년 이후 순차입으로 전환되면서 부채 부담이 증가했고, 미분양 사업장의 공사미수금과 PF 우발채무 등 리스크 요인이 남아있다. 한기평은 등급 평가 시 2027년 부채 감소 속도를 주요 잣대로 삼고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T11:24:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20659,20 +20675,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "목동8단지 '글로벌 드림팀' 뜬다…대우건설, 180m 랜드마크 승부수 - apnews.kr",
-    "link": "https://www.apnews.kr/news/articleView.html?idxno=3051342",
-    "description": "©AP신문(AP뉴스)/이미지 제공 = 대우건설 ▲대우건설과 덴마크 어반 에이전시 관계자들이 서울 목동8단지 현장을 둘러보고 있다. 대우건설(047040)이 서울 목동 신시가지 재건축 수주 경쟁에서 목동8단지를 미래형...",
-    "published_at": "2026-09-17T14:06:00+09:00",
-    "cluster_id": "46b8",
-    "publisher": "apnews.kr",
-    "title_clean": "목동8단지 '글로벌 드림팀' 뜬다…대우건설, 180m 랜드마크 승부수",
-    "summary": "대우건설이 덴마크 어반 에이전시와 협력하여 서울 목동8단지 재건축 사업에 180m 랜드마크 건축물을 제안하며 수주 경쟁에 참여 중이다. 글로벌 설계 역량을 바탕으로 한 차별화 전략으로 대형 재건축 수주를 노리고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-17T14:13:16+09:00",
-    "importance": 2
+    "title": "“사람 죽어도 또 따냈다…중대재해 업체, 도로공사 336번 입찰·8건 수주” - 전민일보",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QRjZkRnJ2UjcyQzNkaVRtbVdlWk0wQ3RucUJxUkluMkctSDc3enZGTlZ4STl0aDZoTld6NEdKUzduT1RUS1RSQjUwQ3FaQUt5WGZieVVmaGloVnQxSFNkdkZIN0pwZw?oc=5",
+    "description": "한국도로공사 소관 사업과 사업장에서 최근 5년간 근로자 15명이 중대재해로 숨지고 6명이 다친 가운데 중대재해를 일으킨 일부 업체들이 사고 이후에도 도로공사 입찰에 반복 참여해 추가 공사를 수주한 것으로 드러났다.국회 국토교통위원회 소속 국민의힘 김정재 의원이 29일 한국도로공사로부터 제출받은 자료에 따르면 2021년부터 2026년 8월까지 도로공사 사업장에서 발생한 중대재해와 관련된 업체 가운데 사고 이후 도로공사 공사를 다시 수주한 업체는 5곳이었다. 이들 업체는 사고 이후 도로공사 입찰에 모두 336차례 참여했으며 이 가운데",
+    "published_at": "2026-09-29T11:14:21+09:00",
+    "cluster_id": "bd56",
+    "publisher": "전민일보",
+    "title_clean": "“사람 죽어도 또 따냈다…중대재해 업체, 도로공사 336번 입찰·8건 수주”",
+    "summary": "한국도로공사 사업장에서 중대재해를 일으킨 5개 업체가 사고 후에도 도로공사 입찰에 336회 참여해 8건을 수주한 것으로 확인됐다. 5년간 근로자 15명이 중대재해로 사망하고 6명이 부상한 가운데 안전 관리 체계 미흡 문제가 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T11:24:29+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32257,21 +32273,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-21T10:43:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대건설, 포항 AI 전용 데이터센터 건립 속도낸다 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51926",
-    "description": "현대건설은 에이아이팩토리포항피에프브이(AI Factory Pohang PFV)가 발주한 포항 AI 데이터센터의 사전 제작 콘크리트(Precast Concrete·PC) 설치를 시작했다고 21일 밝혔다.포항 AI 데이터센터 신축공사는 경북 포항시 광명일반산업단지에 수전 용량 32㎿ 규모의 데이터센터를 건립하는 프로젝트다. 수전 용량은 외부 전력망으로부터 공급받을 수 있는 최대 전력을 뜻한다. 지난 6월에 착공해 27년 하반기 운영을 목표로 하고 있다. 공사 기간은 총 16.5개월이다.현대건설은 국내 최다 데이터센터 시공 기술력을 집약",
-    "published_at": "2026-09-21T09:37:58+09:00",
-    "cluster_id": "d603",
-    "publisher": "기계설비신문",
-    "title_clean": "현대건설, 포항 AI 전용 데이터센터 건립 속도낸다",
-    "summary": "현대건설이 포항 AI 데이터센터 신축공사의 PC 설치를 시작하며 공사 진행을 본격화했다. 32㎿ 규모의 프로젝트로 2027년 하반기 준공을 목표하고 있으며, 현대건설의 데이터센터 시공 기술력을 활용하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-21T10:43:59+09:00",
-    "importance": 2
   }
 ]
