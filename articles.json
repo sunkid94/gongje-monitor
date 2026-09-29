@@ -20709,6 +20709,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[건설&부동산] AI·DX 기술로 스마트 건설 리딩한다 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OVnI4TGdqTk5mSUZyMXFBN2NfdnE5a1BLY1RnLUdYUjluYXc0SF9PRHA4NW5DRWROcHREdnpYSWQ0REMwSTlsWkhmZ1VnalJFcENkT3Rn?oc=5",
+    "description": "IPARK현대산업개발 IPARK현대산업개발은 드론과 CCTV 통합관제센터 기능 확대 등 AI·DX 기반의 스마트 건설혁신을 통해 현장 중심의 안전관리 체계를 강화하고 있다. AI·DX 기술을 활용해 품질·안전 관리 체계를 고도화하는 동시에 경영진의 현장 안전 점검을 수시로 진행하는 등 기술혁신과 현장 운영체계 개선을 함께 추진하며 안전 중심 경영을 이어가고 있다. 드론·디지털 트윈 기술로 안전관리 고도화 IPARK현대산업개발은 드론과 디지털 트윈 기술을 도입해 시공 단계부터 준공까지 모든 공정의 안전관리를 고도화하고 있다.",
+    "published_at": "2026-09-30T05:30:01+09:00",
+    "cluster_id": "5d73",
+    "publisher": "중앙일보",
+    "title_clean": "[건설&부동산] AI·DX 기술로 스마트 건설 리딩한다",
+    "summary": "현대산업개발이 드론, CCTV 통합관제, 디지털 트윈 등 AI·DX 기술을 건설현장에 도입해 안전관리 체계를 고도화하고 있다. 기술혁신과 현장 운영체계 개선을 통해 안전 중심 경영을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T05:50:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32259,21 +32275,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-22T09:10:36+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "충남도 지역 건설산업 이끌 ‘신뢰건설기업’ 모집 - mediatoday.asia",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmV2otZjVvcklDY1RIdXFrY3g2S1Z5aUZ6X1RvTGFTdVhKcFpPenB0eGR5Mlk0WTRNOXJIcEdtandWZHB5R21JLTFn?oc=5",
-    "description": "충남도청 [미디어투데이=안상일 기자] 충남도는 기술력과 경쟁력을 갖춘 지역 전문건설업체를 발굴하고 대형 건설공사 참여를 지원하기 위해 ‘제4기",
-    "published_at": "2026-09-22T06:33:00+09:00",
-    "cluster_id": "8d9d",
-    "publisher": "mediatoday.asia",
-    "title_clean": "충남도 지역 건설산업 이끌 ‘신뢰건설기업’ 모집",
-    "summary": "충남도가 기술력과 경쟁력을 갖춘 지역 전문건설업체를 발굴하기 위해 '신뢰건설기업' 모집을 추진하고 있다. 선정된 업체는 대형 건설공사 참여 지원을 받게 된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-22T09:10:36+09:00",
-    "importance": 2
   }
 ]
