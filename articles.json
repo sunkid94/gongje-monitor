@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "K-water, 동티모르와 손잡고 30MW 태양광·물관리 협력 나선다 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50299",
+    "description": "[건설이코노미뉴스] 한국수자원공사(K-water, 사장 윤석대)가 동티모르 정부와 손잡고 온실가스 국제감축사업과 수자원 분야 협력 확대에 나선다.한국수자원공사는 29일 대전 본사에서 프란시스코 칼부아디 라이(Francisco Kalbuady Lay) 동티모르 부총리 겸 관광환경부 장관과 '동티모르 신규 국제감축사업 협력을 위한 업무협약(MOU)'을 체결했다고 밝혔다.협약에 앞서 윤석대 한국수자원공사 사장과 프란시스코 칼부아디 라이 장관은 면담을 갖고 동티모르에서 추진할 온실가스 국제감축사업과 함께 수자원 분야의 상호 협력 방안을 논",
+    "published_at": "2026-09-29T17:00:11+09:00",
+    "cluster_id": "65c5",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "K-water, 동티모르와 손잡고 30MW 태양광·물관리 협력 나선다",
+    "summary": "한국수자원공사가 동티모르 정부와 30MW 태양광 발전사업 및 수자원 분야 협력을 위한 업무협약을 체결했다. 온실가스 국제감축사업을 통해 신규 수주 기회를 확보하고 해외 사업 포트폴리오를 확대하는 계약이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T17:05:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32257,21 +32273,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-21T18:26:08+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재건축] 송천롯데1ㆍ2단지 재건축, 시공권 지정 목표 '가동' - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95461",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제9조에 따른 건설업자 또는 「주택법」 제7조에 따라 건설업자로 보는 등록사업자 현설에 참석하고 입찰지침서에 따라...",
-    "published_at": "2026-09-21T17:44:00+09:00",
-    "cluster_id": "448f",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재건축] 송천롯데1ㆍ2단지 재건축, 시공권 지정 목표 '가동'",
-    "summary": "송천롯데1·2단지 재건축 사업이 일반경쟁입찰 방식으로 시공권자 지정을 진행 중입니다. 건설업자 및 등록사업자들이 입찰지침서에 따라 참여할 수 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-21T18:01:14+09:00",
-    "importance": 2
   }
 ]
