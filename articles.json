@@ -20692,6 +20692,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "도시철도 현장 21년 경험에 ‘안전 전문성’ 더한 대전교통공사 직원 - 충청시사신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03UF80YmZ5em1kc0VrbWhlbTg0ZS11YjhTWWpkYkFwc2JHenozcm9tTXVrY0JVOWdJQTR0N3p2MERMdkM2X2N3Nk1DV2I3YlNGZDdtcmFwM1Nla25hTTROU2lweE9ZcUlreW4w?oc=5",
+    "description": "[충청시사신문=대전] 대전도시철도 개통 때부터 21년간 현장을 지켜온 건축시설 분야 직원이 산업안전 분야 국가전문자격을 취득했다.대전교통공사는 건축시설팀 이산하",
+    "published_at": "2026-09-29T17:39:14+09:00",
+    "cluster_id": "51b7",
+    "publisher": "충청시사신문",
+    "title_clean": "도시철도 현장 21년 경험에 ‘안전 전문성’ 더한 대전교통공사 직원",
+    "summary": "대전교통공사 건축시설팀 직원이 21년 현장 경험을 바탕으로 산업안전 국가전문자격을 취득했다. 도시철도 시설물의 안전성 강화에 기여할 전문 인력 확보를 의미한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-30T01:10:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32257,22 +32273,6 @@
     "summary": "SM그룹 건설부문이 추석을 앞두고 협력사들에게 하도급대금을 조기 지급했다. 건설경기 침체로 어려움을 겪는 협력사들의 자금난 해소를 돕고 동반성장을 추구하는 움직임이다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-22T08:55:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, AI·디지털트윈으로 옹벽 안전관리 강화 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yTTlZbkQxeGdTa1FVX2ZOODVmWHNDdE5IQVpLX2RnaHBkSnFkNEtYcG1aNkFuc3JUZzJteTBoSVJTV29Sa2dFTlpHLXMxZ00xWUxjb2RJRkV0SWRtWHIwOEV2bXFIVElHTGh2R3VPTGdnTFnSAXdBVV95cUxOVllVZ21pcDNSZlVPRG8xbHRoWGg2SmZMU2oyb0I1S01tVUJMVGtTOVQtMndqQjdsNWtnY25MWlBYczhEYmFKQXdaWXlDSUpWdHRINW9Jc25zN1ROWklzQXc1eFl2V2tSTjNiQ0FUWnVsYWNzb2NGaw?oc=5",
-    "description": "옹벽과 사면의 이상 징후를 사후 점검하는 방식에서 벗어나 위험 발생 전에 포착하는 안전관리 체계가 강화된다. 한국토지주택공사(LH)는 AI가 계측 데이터와 강우 양상 등을 학습해 위험 가능성을 미리 감지하고, 디지털트윈을 활용해 현장 상태를 입체적으로 확인하는 체계를 구축하고 있다.LH는 인공지능(AI)과 디지털트윈을 결합한 ‘AI 스마트계측 시스템’을 고도화해 옹벽·사면의 선제적 안전관리를 강화한다고 21일 밝혔다.현재 LH는 전국 관할 옹벽·사면 가운데 중점 관리가 필요한 시설을 선별해 80개소에 스마트 계측 시스템을 설치했다.",
-    "published_at": "2026-09-21T14:27:57+09:00",
-    "cluster_id": "9a9b",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "LH, AI·디지털트윈으로 옹벽 안전관리 강화",
-    "summary": "LH가 AI와 디지털트윈을 결합한 '스마트계측 시스템'을 고도화하여 옹벽·사면의 선제적 안전관리를 강화한다. AI가 계측 데이터와 강우 패턴을 학습해 위험을 사전 감지하고, 디지털트윈으로 현장 상태를 입체적으로 확인하는 체계를 구축하고 있으며, 현재 전국 80개소에 시스템을 설치했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-22T08:50:34+09:00",
     "importance": 2
   }
 ]
