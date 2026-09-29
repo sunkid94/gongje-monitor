@@ -20678,6 +20678,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "LH, 친환경·고효율 기술력 입증...ASHRAE 아시아 지역 신축주거건축물 우승 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50292",
+    "description": "[건설이코노미뉴스] 한국토지주택공사(LH)는 세종시 6-3생활권 M1블록 산울마을 4단지가 '2026 ASHRAE Region XIII Technology Award' 아시아 지역 신축 주거 건축물 부문(Residential–New) 우승작으로 선정됐다고 29일 밝혔다.ASHRAE(American Society of Heating, Refrigerating and Air-Conditioning Engineers)는 130여 개국, 5만여 명의 전문가가 활동하는 세계적인 국제학회로, 냉난방, 환기 등 건축설비에 대한 효율성, 유지관리",
+    "published_at": "2026-09-29T13:52:20+09:00",
+    "cluster_id": "2ae5",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "LH, 친환경·고효율 기술력 입증...ASHRAE 아시아 지역 신축주거건축물 우승",
+    "summary": "LH가 세종시 산울마을 4단지로 ASHRAE 아시아 지역 신축주거건축물 부문 우승을 차지하며 친환경·고효율 건축설비 기술력을 입증했다. 이는 국내 건설사와 기계설비 업체들의 국제 경쟁력 강화 및 친환경 건설 수요 확대를 견인할 수 있는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T13:54:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "건설기술인협회, ‘오늘은 응원 먹는 날’ 이벤트 실시 - 건설이코노미뉴스",
     "link": "https://www.cenews.kr/news/articleView.html?idxno=50291",
     "description": "[건설이코노미뉴스] 한국건설기술인협회(회장 박종면)는 건설산업 발전을 위해 묵묵히 일하고 있는 건설기술인들의 다양한 이야기를 함께 나누고 응원하기 위해 건설기술인 응원이벤트를 진행한다고 29일 밝혔다.지난해에 이어 두 번째로 진행되는 이번 이벤트는 우수사연 선정 규모를 50개에서 70개로 확대해 더 많은 건설기술인에게 응원의 마음을 전할 예정이다.이벤트는 ‘건설기술인의 특별한 이야기’를 주제로 협회 정회원과 건설 관련 학과 재학생의 사연을 공모해 우수사연을 선정한다. 선정자에게는 현장(사무실)이나 학과 등에 피자·치킨 간식쿠폰을 제",
@@ -32257,21 +32273,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-21T13:09:40+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설기술교육원-건설산업정보원 통합 추진에 “객관적 검증, 소통 없어” - 안전신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWlRsbF9TQnZXQ3FqejR1ZkNEa21EVXptVGFWWmg3UGtsQlp0R0xhM2hEbE0xcDdZSUU0Q2tHOXRRT3l3MlhRWWF6ZWpSSkFoMnR6cWNnVUY3WjdBWFY2T1VhblpVc0gzaG1CZjJHNkI?oc=5",
-    "description": "이 정부의 최근 추진 사안인 ‘공공기관 다이어트’에 대한 반발이 노조서 또 나왔다. 국토교통부 산하 건설기술교육원과 건설산업정보원 통합에 노조가 반기를 든 것이다. 앞서 한국교육시설안전원과 한국교육환경보호원을 하나의 공단으로 통합하는 데 대해 노조가 반발에 나선 것에 이은 움직임이다.21일 정부 등에 따르면 국토교통부 소관 기관 건설산업정보원과 건설기술교육원이 한국건설산업진흥원이란 이름으로 통합된다.하지만 이들 기관은 유사기능이 없다. 건설기술인의 역량 향상을 위한 교육·훈련을 수행하는 전문교육기관이 건설기술교육원이다. 건설산업정보",
-    "published_at": "2026-09-21T12:59:47+09:00",
-    "cluster_id": "2366",
-    "publisher": "안전신문",
-    "title_clean": "건설기술교육원-건설산업정보원 통합 추진에 “객관적 검증, 소통 없어”",
-    "summary": "국토교통부가 추진 중인 건설기술교육원과 건설산업정보원의 통합에 대해 노조가 반발하고 있다. 노조는 두 기관이 유사기능이 없음에도 통합을 추진하며 객관적 검증과 소통이 부족하다고 지적하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-21T13:09:40+09:00",
-    "importance": 4
   }
 ]
