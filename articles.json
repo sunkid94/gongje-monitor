@@ -4675,6 +4675,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[2026국감] 하자 공개해놓고…LH는 하자다발 업체에 3조원 맡겼다 - newsfreezone.co.kr",
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711529",
+    "description": "국토부가 지난해 10월 발표한 하반기 하자판정 상위 20개 업체에는 대우건설과 진흥기업이 포함됐다. 이후 진흥기업은 충남도청이전신도시 RH15BL 공사에서 1625억원, 대우건설은 인천계양 A-10BL 공사에서 819억원의...",
+    "published_at": "2026-09-29T19:00:00+09:00",
+    "cluster_id": "8004",
+    "publisher": "newsfreezone.co.kr",
+    "title_clean": "[2026국감] 하자 공개해놓고…LH는 하자다발 업체에 3조원 맡겼다",
+    "summary": "국토부가 공개한 하자 다발 업체들이 이후에도 대규모 공사를 수주받으면서 하자 관리 체계의 실효성 논란이 제기되고 있다. 진흥기업과 대우건설 등이 하반기 하자판정 상위 업체로 지적된 후에도 각각 1625억원과 819억원 규모의 신규 공사를 수주받았다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T19:10:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20655,22 +20671,6 @@
     "title_clean": "[N2 포커스] 중동 비우고 아시아 채운다…K건설 수주 체질 개선 '속도전...",
     "summary": "대우건설이 투르크메니스탄 카라쿰운하 현대화 사업 MOU를 체결하며 중동 중심에서 아시아 수자원·환경 인프라 사업으로 수주 구조를 개선하고 있다. 한국 건설사들이 전통적 정유 플랜트 수주에서 대규모 인프라 사업으로 포트폴리오를 다각화하는 추세.",
     "sentiment": "positive",
-    "collected_at": "2026-09-18T07:10:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[Invest]롯데건설, 공사대금 2000억 또 유동화…연내 추가 발행도 검토 - investchosun.com",
-    "link": "https://www.investchosun.com/site/data/html_dir/2026/09/17/2026091780125.html",
-    "description": "롯데건설이 2000억원 규모의 공사대금채권 유동화를 추가로 추진한다. 지난 5월과 7월 각각 3000억원을 조달한 데 이은 세 번째 발행이다. 연내 추가 발행 가능성도 열어두면서, 과거 고금리로 조달한 자금을 교체하고...",
-    "published_at": "2026-09-18T07:02:00+09:00",
-    "cluster_id": "c45e",
-    "publisher": "investchosun.com",
-    "title_clean": "[Invest]롯데건설, 공사대금 2000억 또 유동화…연내 추가 발행도 검토",
-    "summary": "롯데건설이 공사대금채권 유동화를 통해 2000억원을 추가 조달하며, 올해 들어 총 8000억원대의 자금 확보를 진행 중이다. 고금리 기존 자금을 저금리로 교체하려는 재무 리스트럭처링으로 보이며, 연내 추가 발행도 검토 중이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-18T07:10:14+09:00",
     "importance": 2
   },
