@@ -4675,6 +4675,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "잠실5단지도 평당 1000만원 넘나…공사비 줄다리기 - biz.sbs.co.kr",
+    "link": "https://biz.sbs.co.kr/article_hub/20000337366?division=NAVER",
+    "description": "송파구에서 가장 입지가 좋은 잠실주공 5단지가 980만 원 공사비를 제안한다는 얘기는 시공사가 분명히 그 이상을 요구할 텐데 (초기) 협상용 금액이라고 보시면 될 거 같고요.] 삼성물산과 GS건설, IPARK현대산업개발로...",
+    "published_at": "2026-09-29T18:26:00+09:00",
+    "cluster_id": "1c19",
+    "publisher": "biz.sbs.co.kr",
+    "title_clean": "잠실5단지도 평당 1000만원 넘나…공사비 줄다리기",
+    "summary": "잠실주공 5단지 재건축 공사비 협상이 진행 중이며, 시공사들이 980만 원의 초기 제안보다 높은 금액을 요구할 것으로 예상된다. 삼성물산, GS건설, IPARK현대산업개발 등 대형 건설사들이 참여하고 있는 상황.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-29T18:36:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20659,20 +20675,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "미국내 산업 협력 네트워크 입증… 효성, 두산퓨얼셀 각각 3800억, 3200억... - goodkyung.com",
-    "link": "https://www.goodkyung.com/news/articleView.html?idxno=291537",
-    "description": "효성중공업과 두산퓨얼셀이 자사 미 현지 법인에 장비를 공급하며 각각 3220억원, 3800억원 규모의 사업을 수주했다. 효성중공업은 미국 소재 자회사 'HICO America Sales & Tech Inc'가 수주한 프로젝트에 초고압변압기를...",
-    "published_at": "2026-09-18T06:30:00+09:00",
-    "cluster_id": "e63c",
-    "publisher": "goodkyung.com",
-    "title_clean": "미국내 산업 협력 네트워크 입증… 효성, 두산퓨얼셀 각각 3800억, 3200억...",
-    "summary": "효성중공업과 두산퓨얼셀이 미국 현지 법인을 통해 각각 3220억원, 3800억원 규모의 장비 공급 사업을 수주했다. 이는 미국 내 산업 협력 네트워크 강화를 입증하는 사례로, 주요 설비 제조기업들의 해외 수주 실적 확대를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T06:40:19+09:00",
-    "importance": 2
+    "title": "대구 건설경기 최악, 특단 부양책 나와야 한다 - kbmaeil.com",
+    "link": "https://www.kbmaeil.com/article/20260929500244",
+    "description": "대구 지역 건설경기가 최악이다. 대구 지역은 건설경기가 전국에서 가장 부진할 뿐만 아니라 전국 유일하게 마이너스 성장을 기록하고 있다. 국토교통부가 발표한 올 2분기 건설공사 계약액에 따르면 지난 4~6월 대구...",
+    "published_at": "2026-09-29T18:26:00+09:00",
+    "cluster_id": "64a5",
+    "publisher": "kbmaeil.com",
+    "title_clean": "대구 건설경기 최악, 특단 부양책 나와야 한다",
+    "summary": "대구 지역 건설경기가 전국에서 가장 부진하며 유일하게 마이너스 성장을 기록하고 있다. 건설공사 계약액이 감소하면서 지역 건설업계가 어려움을 겪고 있어 정부의 특단 부양책이 필요한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T18:36:21+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32257,21 +32273,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-22T05:10:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "고양·의왕 일원 공공주택지구 지정… 2.3만 가구 공급 - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9RSjYxTUIwM0xoRjVENkJVSVFMMy1mdmtPelVVVlU5NnN2TWNxZUxOd0RCcGlDbXNrT29NVTFCUTBJRHIz?oc=5",
-    "description": "고양대곡지식융합 공공주택지구 위치도(사진 = 국토부) © 매일건설신문 매일건설신문=조영관 기자 | 정부가 수도권 우수 입지에 2.3만 가구 공급",
-    "published_at": "2026-09-21T17:57:00+09:00",
-    "cluster_id": "f232",
-    "publisher": "매일건설신문",
-    "title_clean": "고양·의왕 일원 공공주택지구 지정… 2.3만 가구 공급",
-    "summary": "정부가 고양·의왕 일원에 공공주택지구를 지정하여 2.3만 가구를 공급하기로 결정했다. 수도권 우수 입지에서의 대규모 공공주택 프로젝트로 건설사들의 수주 기회 증가가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-22T04:31:10+09:00",
-    "importance": 2
   }
 ]
