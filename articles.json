@@ -4709,6 +4709,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[도시정비, 공공(with LH)과 함께 해법을 찾다]④ “도심복합, 임대주택... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291703478220800",
+    "description": "신길2 지구는 과거 민간 정비사업 추진이 무산된 2021년 복합지구 지정과 2024년 복합사업계획 승인을 거쳐 올해 3월 포스코이앤씨를 시공사로 선정했다. 현재 2028년 착공을 목표로 내년 초 입주를 앞두고 있다. 강대호...",
+    "published_at": "2026-09-30T05:22:00+09:00",
+    "cluster_id": "2af6",
+    "publisher": "대한경제",
+    "title_clean": "[도시정비, 공공(with LH)과 함께 해법을 찾다]④ “도심복합, 임대주택...",
+    "summary": "서울 신길2 지구가 LH와 함께 공공 복합개발사업으로 추진되어 포스코이앤씨가 시공사로 선정되었다. 2028년 착공을 목표로 도심복합 및 임대주택 공급을 통해 도시정비사업이 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T05:30:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20688,22 +20704,6 @@
     "publisher": "더구루",
     "title_clean": "모잠비크, 코랄 FLNG 프로젝트 자금 조달 구조 승인…가스공사·삼성중공업 '안도'",
     "summary": "모잠비크 코랄 노르테 FLNG 프로젝트의 자금 조달 구조가 승인되었으며, 자회사를 통한 리스크 분리 방식으로 진행된다. 한국가스공사와 삼성중공업 등 참여사들의 재무 부담이 경감될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T10:50:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 신대방역세권 재개발 본계약 체결...2908억원 규모 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGNsUWFaZEotNDJCSTFibGhXNHhweHJENVR0d3N3bVo0Y0hFakYwQXJoTE1PcFJLUW56Nk1IeDNqMjg4LWZkdC1KSHN4ZkJ0NHFMZUVpUzg2UzV6S0syZjFtQXZOckkwYVp6c3c1ZWpDTUYxXzNSMHpRZUduQzExYVRVeE0tV3RBSmc?oc=5",
-    "description": "대우건설이 2908억원 규모의 서울 신대방역세권 재개발정비사업 공사도급계약을 체결했다.대우건설은 신대방역세권 재개발정비사업 공사를 수주했다고 18일 공시했다. 계약금액은 2908억 원 규모로 전체 공사비 가운데 대우건설 지분 50%에 해당한다. 계약기간은 실착공일로부터 49개월이다.이",
-    "published_at": "2026-09-18T10:44:54+09:00",
-    "cluster_id": "d389",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "대우건설, 신대방역세권 재개발 본계약 체결...2908억원 규모",
-    "summary": "대우건설이 서울 신대방역세권 재개발정비사업 공사도급계약을 체결했으며, 계약규모는 2908억원(전체 공사비의 50% 지분)이다. 계약기간은 실착공일로부터 49개월이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-18T10:50:37+09:00",
     "importance": 2
