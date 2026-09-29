@@ -4675,6 +4675,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "중동 전쟁 장기화에 에너지 안보 '뉴노멀'로…K조선·해운 반사이익 공... - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2370688.htm",
+    "description": "삼성중공업 또한 올해 유조선 및 원유운반선 수주 계약이 10건을 넘어섰다. 다만 국내 조선업계는 이미 2030년까지 주요 선사와 수주 계약을 체결해 선박 건조 작업을 위한 공간이 넉넉지 않은 상황이다. 이를 고려해...",
+    "published_at": "2026-09-29T12:45:00+09:00",
+    "cluster_id": "2953",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "중동 전쟁 장기화에 에너지 안보 '뉴노멀'로…K조선·해운 반사이익 공...",
+    "summary": "중동 전쟁 장기화로 에너지 안보 수요가 증가하면서 국내 조선업계가 유조선·원유운반선 수주 호황을 누리고 있다. 다만 2030년까지 이미 수주 계약이 확정돼 향후 추가 수주 확대에는 한계가 있는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-29T12:55:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20659,20 +20675,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "10대 건설사 하자심사 5279건…대우건설 '최다' - sisajournal.com",
-    "link": "https://www.sisajournal.com/news/articleView.html?idxno=387603",
-    "description": "2022년 이후 321건 하자 판정…대우건설 87건 접수 대비 판정 비율은 SK에코플랜트 31.1%로 최고 시공능력평가 상위 10개 건설사를 대상으로 접수된 하자심사가 2022년 이후 5000건을 넘어선 것으로 나타났다. 이...",
-    "published_at": "2026-09-17T15:14:00+09:00",
-    "cluster_id": "9fd5",
-    "publisher": "sisajournal.com",
-    "title_clean": "10대 건설사 하자심사 5279건…대우건설 '최다'",
-    "summary": "2022년 이후 시공능력평가 상위 10개 건설사에 접수된 하자심사가 5279건에 달하며, 대우건설이 최다 접수 건수를 기록했다. 판정 비율은 SK에코플랜트가 31.1%로 가장 높아 건설업계의 하자 문제가 심각한 수준임을 보여준다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-17T15:33:46+09:00",
-    "importance": 4
+    "title": "[보도자료] 공공건축 설계공모, 사업에 맞게 바꾼다 - 국토교통신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnNkp6MHBCTWgwN2Y1aWhZX3VlQjY3N2RzTjhEaDNLOWJoeloxUlZ6S2lRYXdBcGpTVVFtWVUyVTQxdGFOV0VCYW5QRXduT2RfVEIxVzJDOWFhckVaSDIza0ZINGUzNVE?oc=5",
+    "description": "공공건축물의 설계자를 뽑을 때 사업 규모와 성격에 맞는 공모방식을 선택하고, 민간전문가가 사업 전 과정에 참여하도록 하는 제도개선 논의가 시작된다.국가건축정책위원회는 29일 오후 서울에서 국토교통부, 지방정부, 건축계 협·단체와 함께 ‘설계공모 및 민간전문가 제도개선’ 토론회를 연다. 공공건축의 품질을 높이면서 설계공모에 참여하는 건축계의 부담을 줄이는 방안이 핵심이다.현재 설계공모는 사업 특성과 관계없이 공개공모 중심으로 운영돼 소모적인 경쟁을 낳는다는 지적이 제기돼 왔다. 토론회에서는 사업의 규모와 목적에 따라 공모 유형을 다양",
+    "published_at": "2026-09-29T12:44:32+09:00",
+    "cluster_id": "7bc0",
+    "publisher": "국토교통신문",
+    "title_clean": "[보도자료] 공공건축 설계공모, 사업에 맞게 바꾼다",
+    "summary": "공공건축 설계공모 제도를 사업 규모와 성격에 맞게 개선하는 논의가 시작된다. 공모 방식 다양화와 민간전문가 참여 확대를 통해 공공건축 품질 향상과 건축계 부담 경감을 추진할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T12:55:00+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설 노동",
@@ -32257,21 +32273,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-21T11:49:08+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "출퇴근 카드 15일 찍으면 2만원…건설노동자 3500명에 상품권 - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000335904?division=NAVER",
-    "description": "전자카드제는 건설노동자가 현장에 출퇴근할 때 전자카드를 단말기에 태그해 근로내역을 자동으로 기록하는 제도입니다. 퇴직공제 근로일수 신고 누락이나 임금체불 등을 줄이기 위해 도입됐습니다. 이번 행사에서는...",
-    "published_at": "2026-09-21T11:42:00+09:00",
-    "cluster_id": "1049",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "출퇴근 카드 15일 찍으면 2만원…건설노동자 3500명에 상품권",
-    "summary": "건설노동자의 근로내역을 투명하게 관리하기 위한 전자카드제 활성화 차원에서 3,500명의 노동자에게 출퇴근 카드 15일 이상 이용 시 2만원 상품권을 지급하는 행사를 실시했다. 이는 퇴직공제 신고 누락과 임금체불 등 건설업계의 고질적 문제를 개선하기 위한 제도 정착 노력이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-21T11:49:08+09:00",
-    "importance": 2
   }
 ]
