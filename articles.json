@@ -20675,6 +20675,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설노조, '건폭몰이' 항의 분신 노동자 산재 신청 \"명예 회복해야\" - news1.kr",
+    "link": "https://www.news1.kr/society/incident-accident/6304491",
+    "description": "전국민주노동조합(민주노총) 건설노동조합이 3년 전 이른바 '건폭(건설노동자+폭력배)몰이'에 항의하며 분신해 사망한 고(故) 양회동 씨에 대해 산업 재해로 인정해달라고 요구했다. 민주노총 건설노조는 29일 오전 서울...",
+    "published_at": "2026-09-29T12:36:00+09:00",
+    "cluster_id": "e474",
+    "publisher": "news1.kr",
+    "title_clean": "건설노조, '건폭몰이' 항의 분신 노동자 산재 신청 \"명예 회복해야\"",
+    "summary": "민주노총 건설노조가 '건폭몰이' 항의 분신으로 사망한 양회동 씨에 대해 산업재해 인정을 요구하며 명예 회복을 촉구했다. 이는 건설업계의 부정적 이슈와 노사 갈등을 드러내는 사건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T12:44:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32257,21 +32273,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-21T11:49:08+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "인천시, 제물포구 '산업위기 선제대응지역' 지정 신청…현대제철 등 제... - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260921000524",
-    "description": "현대제철 인천공장 [사진=현대제철] 인천 최대 철강산업 근거지인 제물포구(옛 동구)에는 현대제철과 동국제강이 있으나 건설경기 침체와 중국산 저가 철강재 유입, 미국의 철강 관세 강화, 산업용 전기요금 상승 등 대내외...",
-    "published_at": "2026-09-21T11:33:00+09:00",
-    "cluster_id": "8fcb",
-    "publisher": "newspim.com",
-    "title_clean": "인천시, 제물포구 '산업위기 선제대응지역' 지정 신청…현대제철 등 제...",
-    "summary": "인천시가 현대제철, 동국제강 등이 위치한 제물포구를 산업위기 선제대응지역으로 지정 신청했다. 철강산업이 건설경기 침체, 저가 수입재, 관세 강화, 에너지비 상승 등 다중적 위기에 직면해 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-21T11:39:27+09:00",
-    "importance": 4
   }
 ]
