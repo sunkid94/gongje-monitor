@@ -20692,6 +20692,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "변화하는 노동의 세계, 성실히 일한 기록을 신용으로 - 참여와혁신",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVQlVTRHlTNmFLZ2FTVnZoT1VRUnZIR3NhSXlWMnpzNWZoWHdycTJyUmdOYVZYSWpYRFlnc1dkR1YwNUNzZElMZXhqTWdpNTZ0N3NFWi1IUjNnMHRFVk1qT00tWkQwS1QxNnVNdG9R?oc=5",
+    "description": "지난 7월 말 BNK금융그룹, 건설근로자공제회, 민주노총 건설산업연맹, 한국노총 건설연맹이 ‘건설노동자 포용금융을 위한 업무협약’을 맺었다. 월 소득이 높은 편이",
+    "published_at": "2026-09-29T20:01:03+09:00",
+    "cluster_id": "12fe",
+    "publisher": "참여와혁신",
+    "title_clean": "변화하는 노동의 세계, 성실히 일한 기록을 신용으로",
+    "summary": "BNK금융그룹 등 금융기관과 건설노조들이 건설노동자 포용금융을 위한 업무협약을 체결했다. 성실한 근무 기록을 신용으로 인정하여 금융접근성을 높이는 제도로, 건설업계의 노동 환경 개선을 추진하는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T20:15:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32257,22 +32273,6 @@
     "summary": "정부가 경제지표 개선에도 국민 체감이 부족하다며 서민금융 강화를 주문했다. 특히 임금 체불 문제 해결을 위해 체불 빈발 업종 관리를 강화하고 건설산업기본법 개정안을 차질 없이 준비하여 '임금체불 제로 사회' 구현을 추진할 계획이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-22T08:15:30+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제물포구 철강산업 ‘휘청’...인천시, 제물포구 ‘산업위기 선제대응지... - ic.newdaily.co.kr",
-    "link": "https://ic.newdaily.co.kr/site/data/html/2026/09/22/2026092200014.html",
-    "description": "하지만 최근 장기화된 건설경기 침체, 중국산 저가 철강재 유입, 미국의 철강 관세 강화, 산업용 전기요금 상승 등 대내외 악재로 큰 어려움을 겪고 있다. 현대제철은 지난 1월 전기로 제강공장과 소형 압연공장을 영구...",
-    "published_at": "2026-09-22T07:48:00+09:00",
-    "cluster_id": "8bb2",
-    "publisher": "ic.newdaily.co.kr",
-    "title_clean": "제물포구 철강산업 ‘휘청’...인천시, 제물포구 ‘산업위기 선제대응지...",
-    "summary": "인천시 제물포구 철강산업이 건설경기 침체, 중국산 저가 철강재 유입, 미국 철강 관세 강화, 산업용 전기요금 상승 등 복합적 악재로 어려움을 겪고 있다. 현대제철이 일부 공장을 영구 폐쇄하는 등 산업위기가 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-22T08:00:32+09:00",
     "importance": 4
   }
 ]
