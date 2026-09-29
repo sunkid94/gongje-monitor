@@ -20692,6 +20692,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "서산시, 민간임대아파트 회원가입 꼼꼼히 따져봐야 낭패 없어 - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202609290230",
+    "description": "서산시 관계자는 “현 상황에서는 진행 절차가 쉽지 않은 만큼 사업자가 다른 방법(협동조합)을 찾는 것으로 알고 있다”라며 “건설경기가 녹록지 않다는 방증”이라고 말했다.",
+    "published_at": "2026-09-29T20:48:00+09:00",
+    "cluster_id": "00d4",
+    "publisher": "kukinews.com",
+    "title_clean": "서산시, 민간임대아파트 회원가입 꼼꼼히 따져봐야 낭패 없어",
+    "summary": "서산시의 민간임대아파트 사업이 절차상 어려움을 겪으면서 사업자들이 협동조합 등 대체 방안을 모색하고 있다. 시 관계자는 이를 건설경기 부진의 증거로 진단했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T20:55:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32258,21 +32274,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-22T08:36:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "이 대통령 \"경제지표 개선에도 국민 체감 부족\"…서민금융 강화 주문 - newstomato.com",
-    "link": "http://www.newstomato.com/ReadNews.aspx?no=1314487&inflow=N",
-    "description": "이어 임금은 노동의 정당한 대가이자 생계와 직결된 문제라며 체불 빈발 업종 관리를 강화하고 내년 시행되는 '건설산업기본법' 개정안을 차질 없이 준비하는 등 '임금체불 제로 사회'를 위한 제도 개선에 속도를 내달라고...",
-    "published_at": "2026-09-22T08:02:00+09:00",
-    "cluster_id": "ddbf",
-    "publisher": "newstomato.com",
-    "title_clean": "이 대통령 \"경제지표 개선에도 국민 체감 부족\"…서민금융 강화 주문",
-    "summary": "정부가 경제지표 개선에도 국민 체감이 부족하다며 서민금융 강화를 주문했다. 특히 임금 체불 문제 해결을 위해 체불 빈발 업종 관리를 강화하고 건설산업기본법 개정안을 차질 없이 준비하여 '임금체불 제로 사회' 구현을 추진할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-22T08:15:30+09:00",
-    "importance": 4
   }
 ]
