@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[비즈+]이해욱 회장 이끄는 DL그룹, 외부 기술협력 고도화…공동개발부... - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=117413",
+    "description": "DL이앤씨와 한솔홈데코는 공동 연구를 거쳐 기술을 개발했으며, 해당 기술은 국토교통부 건설신기술 인증을 받았다. 이후 DL이앤씨의 아크로와 e편한세상 현장에 적용되고 있다. 강남제비스코와는 2021년부터...",
+    "published_at": "2026-09-29T13:38:00+09:00",
+    "cluster_id": "0cf8",
+    "publisher": "businessplus.kr",
+    "title_clean": "[비즈+]이해욱 회장 이끄는 DL그룹, 외부 기술협력 고도화…공동개발부...",
+    "summary": "DL그룹이 한솔홈데코, 강남제비스코 등 외부 기업과의 기술협력을 고도화하고 있다. 공동 개발 기술이 국토교통부 건설신기술 인증을 받아 아크로, e편한세상 등 현장에 적용되는 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T13:50:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32256,22 +32272,6 @@
     "summary": "도경건설이 라오스 국토교통 ODA 사업에 참여하여 K-도로 시공기술을 전수한다. 40건 이상의 도로포장·보수공법 특허를 보유한 전문건설기업으로서 해외 인프라 시장 진출을 확대하는 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-09-21T12:59:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_가로주택정비] 거모아주1차 가로주택정비, 시공권 대상 향한... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95454",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제2조제7호에 따른 건설업자 또는 「주택법」 제7조제1항에 따라 건설업자로 보는 등록사업자 현설에 참석한 업체 입찰보증금...",
-    "published_at": "2026-09-21T11:52:00+09:00",
-    "cluster_id": "62d0",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_가로주택정비] 거모아주1차 가로주택정비, 시공권 대상 향한...",
-    "summary": "거모아주 1차 가로주택정비 사업의 시공권을 놓고 일반경쟁입찰이 진행 중이며, 건설업자 자격을 갖춘 업체들의 입찰 참여가 모집되고 있다. 건설산업기본법과 주택법에 따른 등록사업자들이 입찰보증금을 납부하고 참여할 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-21T12:09:09+09:00",
     "importance": 2
   }
 ]
