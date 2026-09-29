@@ -20658,6 +20658,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[2026 국정감사] 현대건설 이한우 또 국감 서나…철근 누락에 사망사고 쟁점 - bizjoongang.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FQWNqS3hFVUtNRnFTSXFJTVlHaTlkczlVLVQzblNZdmhhaGFZS25UYWlnZUVmXzFYMDYwb3A2blVUazdJd3pnTkctNE1LSVB3UlVJTFR6b255Z0dZV0h4aWhSX2JfR2w3VTRpQmQ3NHo?oc=5",
+    "description": "[비즈중앙] 대형 철도공사의 철근 누락과 준공 아파트의 테라스 붕괴에 현장 사망사고까지 이어지면서 현대건설과 SK에코플랜트의 안전·품질관리가 국정감사 쟁점으로 떠",
+    "published_at": "2026-09-29T09:57:09+09:00",
+    "cluster_id": "19e0",
+    "publisher": "bizjoongang.co.kr",
+    "title_clean": "[2026 국정감사] 현대건설 이한우 또 국감 서나…철근 누락에 사망사고 쟁점",
+    "summary": "현대건설과 SK에코플랜트가 철도공사 철근 누락, 아파트 테라스 붕괴, 현장 사망사고 등 안전·품질 관리 부실로 2026 국정감사 쟁점이 됨. 대형 건설사의 안전관리 문제가 업계 전반의 신뢰도 하락으로 이어질 우려.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T10:09:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32256,21 +32272,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-21T09:08:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "인천시 \"제물포구 철강산업 위기 극복 총력\" - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260921_0003797581",
-    "description": "제물포구 철강산업은 최근 장기화된 건설경기 침체와 중국산 저가 철강재 유입, 미국의 철강 관세 강화, 산업용 전기요금 상승 등 복합적인 대내외 악재로 큰 어려움을 겪고 있다. 이에 인천시는 철강산업의 경쟁력을...",
-    "published_at": "2026-09-21T08:40:00+09:00",
-    "cluster_id": "b27e",
-    "publisher": "newsis.com",
-    "title_clean": "인천시 \"제물포구 철강산업 위기 극복 총력\"",
-    "summary": "제물포구 철강산업이 건설경기 침체, 중국산 저가 제품 유입, 미국 관세 강화, 전기요금 인상 등 복합 악재로 어려움을 겪고 있다. 인천시가 산업 경쟁력 극복을 위해 총력을 기울이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-21T08:53:03+09:00",
-    "importance": 4
   }
 ]
