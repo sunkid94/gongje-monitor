@@ -4675,6 +4675,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'연안정화의 날' 영종 마시안에서 해양쓰레기 수거 활동 - incheonin.com",
+    "link": "http://www.incheonin.com/news/articleView.html?idxno=121120",
+    "description": "'우리동네 새단장'은 주민과 관계기관 등이 함께 지역의 생활환경을 깨끗하게 가꾸는 환경 정화 활동으로, 이번 행사에는 인천시, 영종구, 해양환경공단 인천지사, 인천항만공사, 포스코이앤씨, 명예해양환경감시원...",
+    "published_at": "2026-09-29T18:38:00+09:00",
+    "cluster_id": "1002",
+    "publisher": "incheonin.com",
+    "title_clean": "'연안정화의 날' 영종 마시안에서 해양쓰레기 수거 활동",
+    "summary": "인천 영종 마시안에서 인천시, 영종구, 해양환경공단, 인천항만공사, 포스코이앤씨 등 관계기관과 주민이 함께 '연안정화의 날' 해양쓰레기 수거 활동을 진행했다. '우리동네 새단장' 사업의 일환으로 지역 생활환경 개선을 위한 환경 정화 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-29T18:51:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20659,19 +20675,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "목동 10·12·13단지 수의계약 유력…7단지는 삼성·현대·DL·롯데 등이... - ceoscoredaily.com",
-    "link": "https://www.ceoscoredaily.com/page/view/2026091715124413375",
-    "description": "현재 삼성물산과 현대건설, DL이앤씨, 롯데건설 등이 수주 경쟁을 벌이고 있는 것으로 전해진다. 인근 C공인중개사무소 관계자는 “현장에서는 현대건설의 움직임이 가장 두드러지지만 타 건설사들도 동향을...",
-    "published_at": "2026-09-18T07:00:00+09:00",
-    "cluster_id": "53c9",
-    "publisher": "ceoscoredaily.com",
-    "title_clean": "목동 10·12·13단지 수의계약 유력…7단지는 삼성·현대·DL·롯데 등이...",
-    "summary": "목동 재개발 사업에서 10·12·13단지는 수의계약이 유력하고, 7단지는 삼성물산, 현대건설, DL이앤씨, 롯데건설 등 주요 건설사들이 수주 경쟁을 벌이고 있다. 현대건설의 움직임이 가장 두드러진 상황이다.",
+    "title": "하남시, 지식산업센터 입주 빗장 풀었다…건설업·스마트팜·OEM 허용 - kyeonggi.com",
+    "link": "https://www.kyeonggi.com/article/20260929580538",
+    "description": "이에 따라 건설산업기본법에 따른 종합·전문건설업을 비롯해 전기공사업, 정보통신공사업, 소방시설공사업 등이 지식산업센터 공장시설에 입주할 수 있게 됐다. 인공 광원과 환경 감지 설비, 양액·공조 등 자동제어...",
+    "published_at": "2026-09-29T18:34:00+09:00",
+    "cluster_id": "10b8",
+    "publisher": "kyeonggi.com",
+    "title_clean": "하남시, 지식산업센터 입주 빗장 풀었다…건설업·스마트팜·OEM 허용",
+    "summary": "하남시가 지식산업센터 입주 제한을 완화하여 건설업, 전기·통신·소방공사업 등의 진입을 허용했다. 스마트팜 등 신산업도 함께 입주 가능해져 시장 확대 기회가 생겼다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-18T07:10:14+09:00",
+    "collected_at": "2026-09-29T18:51:16+09:00",
     "importance": 2
   },
   {
@@ -32257,21 +32273,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-22T05:30:23+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "산은 도소매·부동산 부실 급증…연체 상승폭 은행권의 5배 [기업대출 부... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2625704",
-    "description": "신용평가사 관계자는 “건설경기 침체가 장기화하면서 건설·임대·건설자재 등 연관 업종은 물론 제조업까지 어려움이 번지고 있다”며 “대기업의 경영 여건 악화도 영향을 미친 것으로 보인다”고 말했다....",
-    "published_at": "2026-09-22T05:00:00+09:00",
-    "cluster_id": "567d",
-    "publisher": "etoday.co.kr",
-    "title_clean": "산은 도소매·부동산 부실 급증…연체 상승폭 은행권의 5배 [기업대출 부...",
-    "summary": "산업은행의 도소매·부동산 부실이 급증하면서 연체 상승폭이 은행권의 5배에 달하고 있다. 건설경기 침체의 장기화로 건설, 임대, 건설자재 등 연관 업종은 물론 제조업까지 경영 어려움이 확대되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-22T05:10:20+09:00",
-    "importance": 4
   }
 ]
