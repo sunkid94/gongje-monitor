@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "DL이앤씨, 기술 동맹 넓힌다…공동개발 넘어 판매·해외까지 - 로이슈",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CdkJwa3E2OVdHZ2F1dEpYcXFtWGdzYVRtUHpOcTVqQ3hUU2dqYWJfcm9yRkJ1RExOU2dGaUxJX2RvVlNZM2h4NklGT3RJVDVkdnVZRHRKT1RyZVhJUTVLNi1PMzBwQm9PaFdNM1pvbUs5cE10RVZQNw?oc=5",
+    "description": "DL그룹이 기술협력으로 성장동력을 넓히고 있다. 이해욱 회장이 이끄는 그룹의 주력 계열사 DL이앤씨는 중소·전문기업과 기술을 함께 개발해 현장에 적용하고, 나아가 상품화와 해외 사업까지 연결하는 협업 체계를 구축했다.협업 방식은 다양하다. 성과공유형 기술개발과 공동 기술개발, 공모형 오",
+    "published_at": "2026-09-29T14:40:36+09:00",
+    "cluster_id": "d470",
+    "publisher": "로이슈",
+    "title_clean": "DL이앤씨, 기술 동맹 넓힌다…공동개발 넘어 판매·해외까지",
+    "summary": "DL이앤씨가 중소·전문기업과 기술 공동개발, 상품화, 해외 사업까지 연계하는 협업 체계를 구축하며 성장동력을 확대하고 있다. 다양한 협업 방식을 통해 기술협력 생태계를 강화하는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T14:50:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32257,21 +32273,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-21T14:35:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[속보] 이 대통령 \"임금 체불 제로 사회 위한 발걸음에 속도 내야\" - mediatoday.co.kr",
-    "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337258",
-    "description": "이 대통령은 \"그 일환으로 마련한 건설산업기본법 개정안이 내년부터 시행된다. 법 시행을 차질 없이 준비하게 하고, 비슷한 문제를 갖고 있는 여타 업종에 대한 개선 방안도 신속하게 마련해야 한다\"고 밝힌 뒤 \"땀 흘려...",
-    "published_at": "2026-09-21T14:19:00+09:00",
-    "cluster_id": "e2db",
-    "publisher": "mediatoday.co.kr",
-    "title_clean": "[속보] 이 대통령 \"임금 체불 제로 사회 위한 발걸음에 속도 내야\"",
-    "summary": "이 대통령이 임금 체불 문제 해결을 위해 건설산업기본법 개정안을 내년부터 시행한다고 밝혔다. 법 시행 준비를 차질 없이 진행하고 다른 업종의 유사 문제도 함께 개선하겠다는 의지를 표현했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-21T14:35:13+09:00",
-    "importance": 4
   }
 ]
