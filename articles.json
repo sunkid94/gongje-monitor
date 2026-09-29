@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설근로자 퇴직공제금 4년 적립 시 10만원 추가로 받는다 - SBS Biz",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NMDFkaXNqSWx2cWNOeWFjOW5abDF6dFBiNkw3TWhLV1JCbWdURzVmWkNHRXdLZUMtUW5LVnJtQ2dQNERNUzZRTExwcDY2UkVkdWZN0gFYQVVfeXFMTWhaYmprUzdvXzhjT0RKY3B1dC1sUkhEeDdGUUlqUFEzeTFmQW5RSFhNVEJ0LWFQME5Hb1FvVjByVU42U3hYektSZzJEcFowX1lwQ212TWhyXw?oc=5",
+    "description": "건설근로자공제회는 건설노동자의 장기근속을 유도하고 퇴직 후 생활 안정을 돕기 위해 특별퇴직공제금 지급 대상을 현행 7년 이상 적립자에서 4년 이상 적립자까지로 확대한다고 30일 밝혔습니다.특별퇴직공제금은 장기간 퇴직공제금을 적립한 건설 노동자가 건설업에서 퇴직했을 때 퇴직공제금에 추가금을 지급하는 제도입니다.현재 특별퇴직공제금은 적립 기간에 따라 7…",
+    "published_at": "2026-09-30T06:27:00+09:00",
+    "cluster_id": "1326",
+    "publisher": "SBS Biz",
+    "title_clean": "건설근로자 퇴직공제금 4년 적립 시 10만원 추가로 받는다",
+    "summary": "건설근로자공제회가 특별퇴직공제금 지급 대상을 현행 7년 이상에서 4년 이상 적립자까지 확대하기로 결정했다. 이는 건설노동자의 장기근속 유도와 퇴직 후 생활 안정을 목표로 하는 제도 개선이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T06:40:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32251,22 +32267,6 @@
     "publisher": "파이낸셜리뷰",
     "title_clean": "SK에코플랜트, 하자심사 판정비율 30.48%...10대 건설사 중 가장 높아",
     "summary": "SK에코플랜트의 하자심사 판정비율이 30.48%로 시공능력평가 상위 10대 건설사 중 가장 높은 것으로 나타났다. 2022년부터 올해 6월까지 상위 10개사 하자심사 4,983건 중 323건이 하자로 판정되었으며, SK에코플랜트는 적은 접수건수 대비 높은 판정비율을 기록했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-22T09:10:36+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대구시, 추석 연휴 대비 건설현장 산업재해 예방 활동 강화 - 뉴스파이어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUGVrTjNEVE00dEFvU3pNM29VRkJjZEowZkNPck1zMk1yem1lRUZQNVJCdXpGdW9YSDdqc01PUGt3RWZzYWJPcG5aZW9XOFZWTDFlNzlaX0gwdldHbUJBVnE2N1VnTmRjckw3NzZMaw?oc=5",
-    "description": "[뉴스파이어] 대구시는 지난 9월 18일 추석 명절을 앞두고 고용노동부, 한국산업안전보건공단과 함께 현장 협업 체계를 가동하고 산업재해 예방을 위한 합동점검을 실시했다.이번 합동점검은 동구 신암동 공동주택 신축공사 현장과 서구 공공발주 공사현장을 대상으로 진행됐으며 현장별 주요 위험요인을 중심으로 안전관리 실태를 확인했다.특히 △중장비 작업 시 방호장치 정상 작동 및 작업 구역 통제 △추락 위험 장소의 안전난간 및 개구부 안전조치 등 핵심 안전 수칙 이행 여부를 중점적으로 점검했다.아울러 중장비 사용 현장에서는 연휴 기간 장기간 작",
-    "published_at": "2026-09-22T08:52:50+09:00",
-    "cluster_id": "1f1f",
-    "publisher": "뉴스파이어",
-    "title_clean": "대구시, 추석 연휴 대비 건설현장 산업재해 예방 활동 강화",
-    "summary": "대구시가 추석 연휴를 앞두고 고용노동부, 한국산업안전보건공단과 함께 건설현장에 대한 산업재해 예방 합동점검을 실시했다. 중장비 안전장치, 추락 방지 조치 등 핵심 안전 수칙 이행 여부를 중점적으로 점검했다.",
     "sentiment": "negative",
     "collected_at": "2026-09-22T09:10:36+09:00",
     "importance": 4
