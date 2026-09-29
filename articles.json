@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[인터뷰] 건설 중대재해... 김주영 의원 \"안전비용과 책임이 아래로 전가되는 구조를 함께 바꿔야\" - 폴리뉴스 Polinews",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5UEdqcldZQVJWTmptbnRUalJOMGhnVm9JajFsdzNnREdFVkJpXzhScDlndFZFV0dBYWJXTzNQTGF4bmVKNTBXeVpnYzhaZTNBZjFUVjB0TkJsS1V2SVhsX3h3TnROQmVuR2h4RmJB?oc=5",
+    "description": "김주영 더불어민주당 의원은 건설현장의 중대재해를 줄이려면 반복적인 안전의무 위반에 대한 제재와 함께, 공사비·공기·하도급 과정에서 안전비용과 책임이 아래로 전가되는 구조를 바꿔야 한다고 강조했다.김 의원은 폴리뉴스와의 서면 인터뷰에서 \"건설현장의 중대재해는 시공사나 현장 책임자에 대한 처벌만으로 줄이기 어렵다고 본다\"며 \"낮은 공사비와 촉박한 공기, 다단계 하도급 과정에서 안전비용과 책임이 아래로 전가되는 구조를 함께 바꿔야 한다\"고 밝혔다.김 의원은 반복적인 영업정지 처분을 받고도 다시 제재 대상이 된 사업주에 대해서는 등록말소·",
+    "published_at": "2026-09-29T16:24:50+09:00",
+    "cluster_id": "c02d",
+    "publisher": "폴리뉴스 Polinews",
+    "title_clean": "[인터뷰] 건설 중대재해... 김주영 의원 \"안전비용과 책임이 아래로 전가되는 구조를 함께 바꿔야\"",
+    "summary": "김주영 의원은 건설현장 중대재해 감소를 위해 시공사·현장 책임자 처벌뿐만 아니라 공사비·공기·하도급 과정에서 안전비용과 책임이 하층으로 전가되는 구조 개선이 필요하다고 주장했다. 반복적인 안전의무 위반사업주에 대해서는 등록말소 등 강화된 제재를 제안했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-29T19:31:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32256,22 +32272,6 @@
     "summary": "DL이앤씨가 중소·전문기업과 공동 R&D부터 성능 검증, 특허·인증, 현장 적용, 상품화까지 전주기 기술협력 체계를 구축하고 있다. 공모 프로그램 뿐 아니라 성과공유형 기술개발 등 다양한 채널로 건설 현장의 혁신기술 발굴 및 상용화를 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-22T05:35:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "호반건설, 도시정비 누적 수주액 1조원 돌파 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609211400248090961",
-    "description": "호반건설 관계자는 “앞으로도 주택과 토목, 도시정비 등 건설 본업의 경쟁력을 강화하는 한편 AI와 로봇 등 스마트건설 기술의 현장 적용을 확대할 계획”이라며 “급변하는 건설시장에 대응하고 지속 가능한 성장...",
-    "published_at": "2026-09-22T05:20:00+09:00",
-    "cluster_id": "d320",
-    "publisher": "대한경제",
-    "title_clean": "호반건설, 도시정비 누적 수주액 1조원 돌파",
-    "summary": "호반건설이 도시정비 누적 수주액 1조원을 돌파했다. 회사는 주택과 토목, 도시정비 등 건설 본업의 경쟁력 강화와 AI, 로봇 등 스마트건설 기술 현장 적용 확대를 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-22T05:30:23+09:00",
     "importance": 2
   }
 ]
