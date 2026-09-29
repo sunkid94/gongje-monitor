@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "K-도로안전 기술, 캐나다 혹한·악천후 뚫고 북미시장 도전 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50289",
+    "description": "[건설이코노미뉴스] 한국건설기술연구원이 국내에서 개발·검증된 야간 및 악천후 대응 도로교통안전 기술을 캐나다 현지 환경에 맞게 고도화하고 현지 실증부터 사업화까지 연계하는 연구를 본격 추진한다.한국건설기술연구원(원장 박선규, 이하 건설연)은 28일 국내 국토교통 연구개발을 통해 확보한 도로교통안전 기술을 캐나다의 기후·지형·도로교통 환경과 제도에 맞게 현지화하고, 실제 도로에서 성능을 검증하는 사업에 착수했다고 밝혔다.건설연 도로교통연구본부 연구팀(팀장 이석기)은 한국형 스마트 도로안전 패키지를 'KOSMOS(Korea Smart",
+    "published_at": "2026-09-29T11:00:57+09:00",
+    "cluster_id": "4f05",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "K-도로안전 기술, 캐나다 혹한·악천후 뚫고 북미시장 도전",
+    "summary": "한국건설기술연구원이 국내 개발 도로교통안전 기술을 캐나다의 혹한·악천후 환경에 맞게 현지화하여 실증 및 사업화를 추진한다. 한국형 스마트 도로안전 패키지(KOSMOS)를 통해 북미시장 진출을 도전하는 프로젝트이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-29T11:04:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32256,22 +32272,6 @@
     "summary": "IPARK현대산업개발이 추석 연휴를 앞두고 인천 시티오씨엘 현장에서 CEO 주관 안전보건 점검을 실시했다. AI·DX 등 첨단 기술을 활용한 안전사고 예방에 나섰다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-21T10:39:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도, 건설현장 대금체불 집중 점검 - 잡포스트",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtOEtsb28tZ05nQ2tSVi1ub19iS2hYZ0NNSEEtQjdGRmozQmpBQnBYbER2U3gwRXV0dUh3Ukt1Z1NyajZLODFmRkhoSHNRaHc4Nmc0dXZXZzdlbzlTTk1tWXFfd21NOTh2dVVWRlhB0gFyQVVfeXFMT0oyeUV4Nlp6MmdXNjBRTllMRFc5bmE5aURJWm13ZWRRa3pDWFhZa1EtUC0xVDN3SnlWX1hWbG1SUENFQThibFRKcTZOT3dFUnZmVFVQb0lnNUVSbWhhWlZOV1BIYl9URTRyY2NOX1lhMVRn?oc=5",
-    "description": "[잡포스트] 임택 기자 = 경기도가 추석을 앞두고 도내 건설현장의 대금체불 해소와 예방을 위한 집중 점검에 나선다.도에 따르면 올해 1월부터 8월까지 도내 건설현",
-    "published_at": "2026-09-21T10:11:08+09:00",
-    "cluster_id": "ac14",
-    "publisher": "잡포스트",
-    "title_clean": "경기도, 건설현장 대금체불 집중 점검",
-    "summary": "경기도가 추석 전 도내 건설현장의 대금체불 해소 및 예방을 위한 집중 점검을 실시한다. 올해 1월부터 8월까지의 체불 현황을 파악하고 건설업 종사자들의 임금 보장을 위한 적극적 행정조치를 취할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-21T10:28:53+09:00",
     "importance": 2
   }
 ]
