@@ -4743,6 +4743,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "국토위 국감, 건설사 CEO 대신 본부장급 출석…BYD·테슬라도 증인석 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2001204",
+    "description": "지난해 국토위 국감에서는 현대건설과 대우건설, 포스코이앤씨, 롯데건설 등 주요 건설사 대표들이 건설현장 중대재해와 안전관리 문제를 이유로 줄줄이 증인석에 섰다. 반면 올해는 실무책임자를 상대로 부실시공과...",
+    "published_at": "2026-09-30T13:48:00+09:00",
+    "cluster_id": "60c8",
+    "publisher": "",
+    "title_clean": "국토위 국감, 건설사 CEO 대신 본부장급 출석…BYD·테슬라도 증인석 - m-i.kr",
+    "summary": "국토위 국감에서 지난해 건설사 CEO 증인석 출석과 달리 올해는 본부장급 실무책임자 출석으로 변경되었으며, 부실시공 등 건설 안전 관련 이슈가 계속 감시되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-30T14:31:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20725,22 +20741,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-20T00:22:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코이앤씨, 한솔마을6단지 리모델링 잡았다…‘더샵 분당베르티체’... - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/news-detail/2026091916225585941",
-    "description": "19일 열린 분당한솔마을6단지 임시총회에서 시공사로 선정된 포스코이앤씨 리모델링 영업그룹 직원들이 조합원들에게 인사하고 있다./사진=윤하늘 기자“분당에서 증명한 리모델링 기술력, 한솔6단지로...",
-    "published_at": "2026-09-19T16:48:00+09:00",
-    "cluster_id": "0957",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "포스코이앤씨, 한솔마을6단지 리모델링 잡았다…‘더샵 분당베르티체’...",
-    "summary": "포스코이앤씨가 분당한솔마을6단지 리모델링 사업의 시공사로 선정되었으며, '더샵 분당베르티체'라는 브랜드명으로 진행될 예정이다. 분당 지역에서 검증된 리모델링 기술력을 바탕으로 프로젝트를 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-19T16:53:20+09:00",
-    "importance": 3
   },
   {
     "keyword": "중대재해 건설",
