@@ -4964,6 +4964,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[시공사 점검] 강남 밖으로 나온 ‘써밋’…대우건설, 4조 수주 영토 넓힌다 - 월간도시",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtbmFKd0N0clFZMjc4dWpaTGdzSmtjNU1HSlc2YnZvZWNjd0VJdWExN0VYLUJWSUV6Zk0xQmNrNEcxaU5JYWpMakxCck5GLWstZVpxMlRGVnRfaTJtdmpfaGY5MFNQWUlqNUtqZQ?oc=5",
+    "description": "도시정비사업에서 시공사는 단순히 건축물을 짓는 역할에 머물지 않는다. 사업비와 이주비 등 자금조달에 참여하고 대안설계를 제시한다. 주거상품과 신기술도 수주 경쟁의",
+    "published_at": "2026-09-30T09:10:00+09:00",
+    "cluster_id": "a084",
+    "publisher": "월간도시",
+    "title_clean": "[시공사 점검] 강남 밖으로 나온 ‘써밋’…대우건설, 4조 수주 영토 넓힌다",
+    "summary": "대우건설이 강남 외 지역에서 써밋 브랜드로 도시정비사업 수주를 확대하며 4조 규모의 신규 영토를 개척하고 있다. 시공사는 단순 건설을 넘어 자금조달, 설계, 주거상품 등으로 수주 경쟁력을 강화하는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T23:10:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20943,22 +20959,6 @@
     "publisher": "startuptoday.co.kr",
     "title_clean": "[이슈] 삼성물산, 1.8조 성수3지구 수주 공시… 도시정비 7조 넘기며 2위...",
     "summary": "삼성물산이 성수3지구 1.8조 규모 도시정비 프로젝트를 수주하며 도시정비 수주액이 7조원을 넘겼다. 성수전략정비구역은 GS건설, 롯데건설, 삼성물산이 각각 수주했으며, 마지막 2지구는 현재 미낙찰 상태다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-21T12:39:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "도보 1분 거리에 집값은 6억 차이?...전철역 직결 '제로미터' 프리미엄 - rcast.co.kr",
-    "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31664",
-    "description": "시공은 서울 강남구 논현동 브라이튼 N40 등 고급 주거를 지어온 포스코이앤씨가 맡았다. 현대엔지니어링이 남동구 구월동에 공급하는 '힐스테이트 구월아트파크'는 인천1호선 예술회관역과 직통으로 연결되는...",
-    "published_at": "2026-09-21T12:34:00+09:00",
-    "cluster_id": "e0bb",
-    "publisher": "rcast.co.kr",
-    "title_clean": "도보 1분 거리에 집값은 6억 차이?...전철역 직결 '제로미터' 프리미엄",
-    "summary": "전철역 직결 아파트의 프리미엄 가치를 다룬 기사로, 포스코이앤씨, 현대엔지니어링 등 대형 건설사들이 역세권 고급 주거 프로젝트를 공급 중이다. 제로미터 입지의 위치 프리미엄이 실제 거래가에 반영되는 시장 현황을 보도하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-21T12:39:05+09:00",
     "importance": 2
