@@ -20930,6 +20930,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "하경옥·구본환 대전시의원, 토론회 통해 지역 건설 '상생 해법' 모색 - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EZEY0ekZ0bG9hX2swXzVhdmY1ZEFaSWZYczhpRThPeEhfdUZhUHEtX2ZKdDQ4cWJOSTVmbi05RkRXb3Z1VHJ3Q05qRFY0TlVCUzdsUlpDbmNLa2fSAVZBVV95cUxPWVhTX3NLX2prdHl5bGNUQmVoblZqbEc1Tm15bkNYMHl6VzNMdk5IcG9RVW1BLTJrX0RVbHVXV3RBemlCZl9qbDZwNUhvcWNuZ0FONlhXZw?oc=5",
+    "description": "지역 건설업체·노동자 일감 확보와 지역 경제 선순환 위한 정책 논의대전시의회 하경옥 의원(왼쪽)과 구본환 의원이 공동좌장을 맡아 30일 시의회 소통실에서 지역 건설업체와 지..",
+    "published_at": "2026-09-30T17:03:49+09:00",
+    "cluster_id": "0c91",
+    "publisher": "더팩트",
+    "title_clean": "하경옥·구본환 대전시의원, 토론회 통해 지역 건설 '상생 해법' 모색",
+    "summary": "대전시의회 의원들이 지역 건설업체와 노동자의 일감 확보 및 지역 경제 선순환을 위한 정책 토론회를 개최했다. 건설업계의 상생 해법 모색을 위한 논의가 이루어졌다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T17:10:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32272,21 +32288,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-24T13:08:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원 김회천 사장, 추석 앞두고 원전·수력발전소 안전점검 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkcFVsZzZSVmM5eWh0OW1leTA1RUs3S0lGSzVBUFJzZXdRZGlmR0JSYURJZ3pRWjdDRUdWbXVHS2lweDF6QWhOSEFVX3JlUHZab0xyLURUUWh0UkZSTHJySzBPTElvMk52c3BZVGxR?oc=5",
-    "description": "(경북=국제뉴스) 김진태 기자 = 김회천 한국수력원자력 사장이 추석 연휴를 앞두고 원전 건설 현장과 수력발전소를 찾아 안전관리 실태를 점검했다.김 사장은 9월 22일 한울원자력본부 신한울2건설소를 방문해 주요 공정과 작업 현황을 확인하고, 건설 과정에서 발생할 수 있는 위험 요인과 안전 조치 이행 여부를 점검했다. 이상준 비상임이사도 동행했다.또 스마트관제센터에서 스마트 기술을 활용한 안전관리와 관제체계 운영 상황을 살피고, 실시간 위험 요소 감지와 신속 대응 절차를 확인했다. 연휴 기간 비상 대응체계가 정상적으로 작동할 수 있도록",
-    "published_at": "2026-09-24T00:35:08+09:00",
-    "cluster_id": "c93a",
-    "publisher": "gukjenews.com",
-    "title_clean": "한수원 김회천 사장, 추석 앞두고 원전·수력발전소 안전점검",
-    "summary": "한수원 김회천 사장이 추석 연휴 앞두고 신한울2 원전 건설소와 수력발전소를 방문해 안전점검을 실시했다. 건설 공정 현황 확인, 위험 요인 점검, 스마트관제센터 운영 현황 등을 살피며 연휴 기간 비상 대응체계 정상 작동을 확인했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-24T12:48:37+09:00",
-    "importance": 2
   }
 ]
