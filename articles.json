@@ -20896,6 +20896,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사설] 경기 최초 돔야구장 건설에 거는 기대 - 중부일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50eFE1ZlV0V3o3QmF0VE9nZjhwWXZnLTIwdGE5c005Ti1qT3NxWFBzRlRCb1g1YWdScnNWcGM1RVNORUFNWmdRTWgzcktGUWpOWnNqUS1tQmhoOFJIelpIb0dFMV9UYjB4Vk5wbXdR?oc=5",
+    "description": "경기 최초 돔야구장 건설에 거는 기대수원시가 수원종합운동장 일대를 민간자본 1조 원 규모의 스포츠·문화·상업 복합단지로 탈바꿈시키기 위한 기본계획 수립 및 타당성 조사 용역에 착수한다. 경기도 최초다.",
+    "published_at": "2026-09-30T19:01:00+09:00",
+    "cluster_id": "e408",
+    "publisher": "중부일보",
+    "title_clean": "[사설] 경기 최초 돔야구장 건설에 거는 기대",
+    "summary": "수원시가 수원종합운동장을 1조 원 규모의 돔야구장을 포함한 스포츠·문화·상업 복합단지로 개발하기 위해 기본계획 수립 및 타당성 조사를 착수한다. 경기도 최초 규모의 대형 민간자본 개발 프로젝트로 건설업계에 상당한 수주 기회를 제공할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T19:15:32+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대건설 ‘디에이치 클래스트’ 또 사망사고 발생…콘크리트 잔재물 낙하 탓 - 메디컬투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVXVvZ2JxZm5rSlNfVnF6R1Z0SGM1dFEtTDFfRUZiQ19jMjIxVk1meFVIN2R2NXF2amNaTUpRbGF3dWtyM3FCVjc3RkdmMDh3N2xmX0c3T0VjR0dtM0Fla1JJZUNfVU41TUF2RA?oc=5",
+    "description": "[알파경제 = 김영택 기자] 현대건설이 시공하는 서울의 대규모 주택 재건축 현장에서 작업 중이던 근로자가 콘크리트 잔재물에 맞아 숨지는 사고가 발생했다.이번 사고",
+    "published_at": "2026-09-30T14:51:44+09:00",
+    "cluster_id": "4287",
+    "publisher": "메디컬투데이",
+    "title_clean": "현대건설 ‘디에이치 클래스트’ 또 사망사고 발생…콘크리트 잔재물 낙하 탓",
+    "summary": "현대건설의 서울 재건축 현장에서 콘크리트 잔재물 낙하로 인한 근로자 사망사고가 발생했다. 이는 건설 현장의 안전 관리 부실과 규제 강화 필요성을 드러내는 악재로 평가된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-30T19:15:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32253,38 +32285,6 @@
     "summary": "국내 산업현장의 외국인 노동자 산업재해가 악화되고 있으며, 2026년 1분기 중대재해 사망자 중 외국인 비중이 15.9%로 상승했다. 지난해 외국인 노동자 산업재해 인정 건수는 9,872건으로, 건설업과 제조업에 75%가 집중되어 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-26T10:12:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[인터뷰②] 이은형 연구원이 짚은 건설업 불황의 본질… \"우량기업 중심... - ilyoseoul.co.kr",
-    "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522732",
-    "description": "정부의 건설경기 대응 방향, 수도권·지방 양극화 등에 대해 이야기를 나눴다. 공사비와 금융비용 상승, PF 부실 우려, 미분양 증가 등으로 건설업계의 불확실성이 커지고 있다. 최근 중동 정세 불안으로 유가와 환율, 원자재...",
-    "published_at": "2026-09-26T09:22:00+09:00",
-    "cluster_id": "742a",
-    "publisher": "ilyoseoul.co.kr",
-    "title_clean": "[인터뷰②] 이은형 연구원이 짚은 건설업 불황의 본질… \"우량기업 중심...",
-    "summary": "건설업계의 불황 심화로 공사비 상승, 금융비용 증가, PF 부실 우려, 미분양 증가 등 다양한 악재가 겹치면서 불확실성이 커지고 있다. 중동 정세 불안으로 인한 유가, 환율, 원자재 변동이 건설업계에 추가적인 부담을 주고 있으며, 정부의 대응 방향과 수도권·지방 양극화 문제가 업계의 주요 과제로 지적되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-26T09:27:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "대우산업개발, 하도급법 위반으로 공정위 경고…금융당국 제재 누락도 - inews24.com",
-    "link": "http://www.inews24.com/view/2009044",
-    "description": "기타 행정·공공기관 제재로는 2023년 8월 인천광역시의 건설산업기본법 위반 과징금(2000만원), 2019년 고용노동부의 산업안전보건법 위반 과태료, 2025년 5월 대구 달서구청의 실내공기질관리법 위반 과태료 등도...",
-    "published_at": "2026-09-26T09:01:00+09:00",
-    "cluster_id": "ed5b",
-    "publisher": "inews24.com",
-    "title_clean": "대우산업개발, 하도급법 위반으로 공정위 경고…금융당국 제재 누락도",
-    "summary": "대우산업개발이 하도급법 위반으로 공정위 경고를 받았으며, 금융당국의 제재도 누락된 것으로 확인되었다. 건설산업기본법, 산업안전보건법, 실내공기질관리법 등 다양한 법규 위반으로 누적 제재를 받고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-26T09:07:43+09:00",
     "importance": 4
   }
 ]
