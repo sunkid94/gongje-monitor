@@ -20624,6 +20624,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설 \"경기광주역 롯데캐슬 시그니처 2단지 사업설명회 인파 몰려\" - 스마트투데이",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTGoxUFNhd1FEWG5jVF9aTF9Dc1ZTMmF1Q21NTjNvaTJKeEtNanRpb2sySWJHRG13R1ZicnQ5MERMODNnaXZlblFaRTRtZ3BkWHgta2RSRUpOWHp6QUJn?oc=5",
+    "description": "|스마트투데이=김종현 기자| 롯데건설이 CGV 경기광주점에서 공인중개사를 대상으로",
+    "published_at": "2026-09-30T13:34:00+09:00",
+    "cluster_id": "6ac1",
+    "publisher": "스마트투데이",
+    "title_clean": "롯데건설 \"경기광주역 롯데캐슬 시그니처 2단지 사업설명회 인파 몰려\"",
+    "summary": "롯데건설이 경기광주역 롯데캐슬 시그니처 2단지 사업설명회를 개최하여 공인중개사를 대상으로 홍보 활동을 진행했다. 높은 인파 몰림으로 프로젝트에 대한 시장 관심도가 높음을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T13:50:25+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대피시켰는데 콘크리트에 맞고, 멈춘 로봇이 다시 돌았다…'안전하다던 자리'에서 또 죽었다 - seoulilbo.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hbTdIVWJMbzB0WVpGOGhVZ0ZEWDhsLXBKY20zQUlDMU42M1hHcW1rTkhzZmExN1F5aHF2S3YwdTlZWDlfSG1sS1VCQkN4NDBYOF9RZ280cDNvcXBwR1dzVjNyQmRvY3JPNTdIZndn?oc=5",
+    "description": "지난 29일 오전 9시 45분쯤, 서울 서초구 반포동 디에이치 클래스트 재건축 현장 23층 세대 내부에서 카자흐스탄 국적 30대 노동자가 떨어진 콘크리트 잔재물에",
+    "published_at": "2026-09-30T13:37:37+09:00",
+    "cluster_id": "9c37",
+    "publisher": "seoulilbo.co.kr",
+    "title_clean": "대피시켰는데 콘크리트에 맞고, 멈춘 로봇이 다시 돌았다…'안전하다던 자리'에서 또 죽었다",
+    "summary": "서울 서초구 재건축 현장에서 카자흐스탄 국적 노동자가 떨어진 콘크리트에 맞아 사망한 산업재해 사건. 대피 조치 후에도 안전 관리 부실로 재해가 발생해 건설 현장의 안전 문제가 심각한 수준임을 드러냄.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-30T13:50:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32237,38 +32269,6 @@
     "summary": "가덕신공항 기본설계도면이 80점으로 심사를 통과했다. 7개 분야 21명의 전문가가 참여한 심의를 무난히 진행하여 공항 건설 사업이 순조롭게 진행 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-22T21:50:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "TBM실천으로 안전인성운동 확산을 - 소방신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNjhZMDdXQVpHY2F2YXVNZXJkakwxMU8tVGdENEJWUnlEeWR0LVI0RHh0OXdlSUdIc0c5cEoyS2loY0JGZTQtYWcyMUk4TFV3RE93TmF2b0JNZTBXTjhQbDBBU29vNWpEU0tB?oc=5",
-    "description": "필자가 1987년 카투사로 미군 공병대에서 복무 당시 오전근무 시작시 Motor Pool에 모든 미군 병사들이 매일 함께 모여 중장비를 점검하며‘예방점검정비(PMCS : Preventive Maintenance Checks and Services)",
-    "published_at": "2026-09-22T20:52:50+09:00",
-    "cluster_id": "834d",
-    "publisher": "소방신문",
-    "title_clean": "TBM실천으로 안전인성운동 확산을",
-    "summary": "건설 현장의 안전 문화 개선을 위해 TBM(Tool Box Meeting)과 PMCS(예방점검정비) 같은 예방 중심의 안전인성운동 확산을 강조하는 기사. 미군의 사례를 통해 체계적인 안전관리 관행 도입의 중요성을 제시하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-22T21:30:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 호주 초고층 아파트 개발 투자계약 체결 - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50261",
-    "description": "[건설이코노미뉴스] 현대건설이 해외 주요 지역 부동산 개발 사업에 본격 나서며 글로벌 디벨로퍼로서 보폭을 확 대하고 있다.현대건설은 한국해외인프라도시개발지원공사(KIND), 한투리얼에셋과 호주 시드니 채스우드 초고층 아파트 개발 사업의 투자계약을 체결했다고 22일 밝혔다.이번 계약은 지난 2월 체결한 3사 간 업무협약을 토대로 추진됐다. 당시 3사는 민간기업의 전 문성과 공공기관의 정책 지원 역량을 결합한 ‘팀 코리아’를 결성하고 미국, 호주, 뉴질랜드, 불가리 아 등 글로벌 부동산 사업에 공동 투자 및 협력하기로 뜻을 모았다.팀",
-    "published_at": "2026-09-22T21:26:40+09:00",
-    "cluster_id": "308c",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "현대건설, 호주 초고층 아파트 개발 투자계약 체결",
-    "summary": "현대건설이 KIND, 한투리얼에셋과 함께 호주 시드니 채스우드 초고층 아파트 개발에 투자계약을 체결했다. '팀 코리아'를 구성하여 미국, 호주, 뉴질랜드, 불가리아 등 글로벌 부동산 사업에 공동 투자하며 해외 디벨로퍼 사업을 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-22T21:30:15+09:00",
     "importance": 2
   }
 ]
