@@ -4964,6 +4964,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "동서발전, '수소산업 혁신포럼' 개최…두산에너빌리티·현대重 전시공간... - kpinews.kr",
+    "link": "https://www.kpinews.kr/newsView/1065540446351600",
+    "description": "행사장에는 동서발전을 비롯해 두산에너빌리티·현대중공업 등 참여기관의 연구개발 성과를 소개하는 전시공간이 주목을 받았다. 권명호 사장은 \"수소는 재생에너지의 변동성을 보완하고 남는 전력을 보다 효율적으로...",
+    "published_at": "2026-10-01T00:47:00+09:00",
+    "cluster_id": "278c",
+    "publisher": "kpinews.kr",
+    "title_clean": "동서발전, '수소산업 혁신포럼' 개최…두산에너빌리티·현대重 전시공간...",
+    "summary": "동서발전이 수소산업 혁신포럼을 개최하여 두산에너빌리티, 현대중공업 등과 함께 수소 관련 R&D 성과를 전시했다. 수소 에너지의 재생에너지 변동성 보완 및 전력 효율화 방안을 논의하며 수소산업 육성 의지를 드러냈다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T01:00:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20948,20 +20964,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "\"가덕신공항 공사비 현실화 필요…정부, 실효적 제도 마련해야\" - fnnews.com",
-    "link": "https://www.fnnews.com/news/202609211129137429",
-    "description": "현재 해당 사업은 지난 7일 대우건설 컨소시엄이 기본 설계도서를 제출했다. 정부 계획대로라면 오는 11월까지 본계약 절차를 진행하고, 그달 우선시공분 공사에 착수해야 한다. 그러나 본계약 체결 이전에 발생한 원자재...",
-    "published_at": "2026-09-21T13:29:00+09:00",
-    "cluster_id": "85bb",
-    "publisher": "fnnews.com",
-    "title_clean": "\"가덕신공항 공사비 현실화 필요…정부, 실효적 제도 마련해야\"",
-    "summary": "가덕신공항 사업에서 본계약 이전 원자재 가격 상승으로 공사비 현실화가 필요한 상황. 정부는 건설업계의 채산성 악화를 고려한 실효적인 제도 마련이 요구되고 있음.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-21T13:34:44+09:00",
-    "importance": 4
+    "title": "김시라 농업기술센터 소장, 산업안전지도사 취득… 농업현장 안전 강화 - 호남타임즈",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15T09oOXlFX25EZHg5TEhzNkVIcU5jQUxUR0Y5ejlxSVJ6cTVLUVhrQUpsdnEwcG9NVnlNU2tTRkwwZlNXMlllQWVPTGZMVFB1dGpWSEdFVTB4aUFBcE9pMWQta0prWDRxZjJTNg?oc=5",
+    "description": "전남광주통합특별시 농업기술센터는 김시라 소장이 제16회 산업안전지도사 건설안전분야 자격시험에 최종 합격했다고 30일 밝혔다. 김 소장이 안전관리 전문자격증을 취득함으로써 보다 안전한 농업환경 조성에 기여할 것으로 기대된다.산업안전지도사는 산업현장의 안전관리와 위험성 평가, 재해 예방 등에 관한 지식과 실무능력을 갖춘 전문가를 양성하는 국가전문자격이다. 이 자격시험은 1차·2차·3차 시험을 거쳐 최종 합격자가 결정된다. 건설안전분야 시험 최종 합격률은 1차 대비 3%대로, 올해는 1차 시험에 5556명이 접수했고 최종 합격자는 185",
+    "published_at": "2026-10-01T00:36:27+09:00",
+    "cluster_id": "0123",
+    "publisher": "호남타임즈",
+    "title_clean": "김시라 농업기술센터 소장, 산업안전지도사 취득… 농업현장 안전 강화",
+    "summary": "전남광주통합특별시 농업기술센터 김시라 소장이 산업안전지도사 건설안전분야 자격시험에 합격했다. 최종 합격률 3%대의 높은 경쟁률을 뚫고 합격하여 농업현장의 안전관리 강화에 기여할 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-01T01:00:19+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32274,21 +32290,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-27T13:37:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "기술 발굴 넘어 사업화까지…DL이앤씨, 전주기 기술협력 박차 - edaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDFqTnJsWkcxa1JUZ2VBREJ4TUtWWU1fYUk2dG1Gc29JQkVUZzN6ek1ETHBFM245Y0kzZnh0OTFaeEZzQmN6WjBtTzNETTF3ZlVkaVY2ZzN6Vl9lS3dCUkJ5NXhJRWhQMmxxY2ppUjd3clJqZm1iX1VfaG01Nm1ZUg?oc=5",
-    "description": "DL이앤씨가 중소·전문기업과의 공동 연구개발부터 성능 검증, 특허·인증, 현장 적용, 상품화까지 연결하는 전주기 기술협력 체계를 구축하고 있다. 기술을 단순히 발굴하거나 일회성 기술검증(PoC)을 수행하는 데 그치지 않고 실제 현장에 적용하고 사업화할 수 있는 기술로...",
-    "published_at": "2026-09-27T13:30:10+09:00",
-    "cluster_id": "82ff",
-    "publisher": "edaily.co.kr",
-    "title_clean": "기술 발굴 넘어 사업화까지…DL이앤씨, 전주기 기술협력 박차",
-    "summary": "DL이앤씨가 중소·전문기업과의 공동 연구개발부터 사업화까지 전주기 기술협력 체계를 구축하고 있다. 기술 발굴을 넘어 현장 적용과 상품화까지 연결함으로써 기술협력의 실질적 가치를 높이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-27T13:37:49+09:00",
-    "importance": 2
   }
 ]
