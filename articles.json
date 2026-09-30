@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "8월 산업 활동 생산·출하 두 자릿수 하락 - usmbc.co.kr",
+    "link": "https://www.usmbc.co.kr/NewsArticle/865013",
+    "description": "지난 8월 울산지역 산업활동을 보면 생산과 출하는 큰 폭으로 하락한 반면 건설수주만 호조를 보였습니다. 동남지방통계청이 발표한 '8월 울산 산업활동 동향'을 보면 생산은 22.2%, 출하는 17.3% 감소했습니다....",
+    "published_at": "2026-09-30T21:10:00+09:00",
+    "cluster_id": "48f2",
+    "publisher": "usmbc.co.kr",
+    "title_clean": "8월 산업 활동 생산·출하 두 자릿수 하락",
+    "summary": "8월 울산지역 산업활동에서 생산(22.2%)과 출하(17.3%)가 큰 폭으로 감소했습니다. 다만 건설수주는 호조를 보이며 건설업계에 긍정적 신호를 전달하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T21:25:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32274,21 +32290,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-27T09:07:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "주금공 PF보증 손실률 0.09%→1.15%…충당부채 15배 불었다 - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1694640/?sc=Naver",
-    "description": "건설사 PF 보증 규모도 상당하다. 올해 8월 기준 사업자보증 잔액은 8조6228억원으로 평균 보증비율은 92%에 달했다. 박 의원은 \"PF 보증 예상손실률이 단기간에 급증했다는 것은 PF 부실 위험이 이미 공공기관...",
-    "published_at": "2026-09-27T09:02:00+09:00",
-    "cluster_id": "4e5a",
-    "publisher": "dailian.co.kr",
-    "title_clean": "주금공 PF보증 손실률 0.09%→1.15%…충당부채 15배 불었다",
-    "summary": "주금공의 PF 보증 예상손실률이 0.09%에서 1.15%로 급증하면서 충당부채가 15배 증가했다. 8월 기준 사업자보증 잔액 8조 6228억원 규모에서 평균 보증비율이 92%에 달해 PF 부실 위험이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-27T09:07:49+09:00",
-    "importance": 4
   }
 ]
