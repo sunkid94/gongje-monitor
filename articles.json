@@ -20692,6 +20692,38 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대건설 서초 현장 노동자 사망…작업중지 후 사고 조사 - 뉴스락",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWRnllYWhFOVdVM0FhbEh5cUpuajEwbFdfU25mODRTejVPcVlLZndnQ3JZc2xINFdfY05WWXRkUUNLN0w0MHFvWGtiRkpZZXVkMzlGTDlEeXJMY0Nxa2EwczdEZkRPVVpBUTNhUw?oc=5",
+    "description": "[뉴스락] 청소 작업을 준비하던 노동자가 숨진 현대건설의 서울 서초구 아파트 공사현장에 작업중지 명령이 내려졌다. 노동당국은 천장 콘크리트가 떨어진 경위를 파악하고 중대재해처벌법 위반 여부를 조사하고 있다.이번 조사는 고용노동부 서울지방고용노동청 중대재해수사과와 건설산재예방감독과가 맡았다. 두 부서는 사고 발생 직후 현장 작업을 멈추도록 조치했다.고용노동부 설명을 전한 29일 보도를 종합하면, 사고 시각은 이날 오전 9시45분께다. 아파트 23층 세대 내부에서 청소를 기다리던 30대 외국인 노동자 A씨가 천장에서 무너져 내린 콘크리",
+    "published_at": "2026-09-30T11:08:06+09:00",
+    "cluster_id": "5f74",
+    "publisher": "뉴스락",
+    "title_clean": "현대건설 서초 현장 노동자 사망…작업중지 후 사고 조사",
+    "summary": "현대건설 서초 아파트 공사현장에서 천장 콘크리트 붕괴로 노동자가 사망하는 중대 산업재해 발생. 고용노동부가 작업중지 명령을 내리고 중대재해처벌법 위반 여부를 조사 중.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-30T11:25:54+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[변호사 칼럼] 발주자가 산업안전보건법상 ‘도급인’에 해당하는 기준에 관하여 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XQ0wwSEN5Vy14dm93NzIzejJmWkpadkFHMzMyaE94Z212UXBtRFhRbU1zZ2RRRWhoVGFNbXVsOGs0c29XSWdEOU1wcUpSV3dSOWw3cWZRX3BvaTAyUTY3aVBUOXlUbHhiajFj?oc=5",
+    "description": "1. 문제의 소재산업안전보건법은 도급인의 사업장에서 관계수급인의 근로자가 작업하는 경우 도급인에게도 산업재해 예방을 위한 안전·보건조치의무를 부과하고, 이를 위반해 관계수급인의 근로자가 사망하는 경우 형사책임을 부담하도록 정하고 있다. 다만 건설공사의 경우 모든 발주자가 곧바로 이러한 ‘도급인’에 해당하는 것은 아니다. 현행 산업안전보건법은 건설공사를 도급하는 자 가운데 건설공사의 시공을 주도하여 총괄·관리하지 아니하는 자를 ‘건설공사발주자’로 별도로 정의하고, 이러한 건설공사발주자는 도급인에게 적용되는 형사책임의 대상에서 제외하고",
+    "published_at": "2026-09-30T11:14:05+09:00",
+    "cluster_id": "897e",
+    "publisher": "한국건설신문",
+    "title_clean": "[변호사 칼럼] 발주자가 산업안전보건법상 ‘도급인’에 해당하는 기준에 관하여",
+    "summary": "산업안전보건법상 도급인의 책임 범위를 다룬 변호사 칼럼으로, 건설공사 발주자 중 시공을 주도하지 않는 자는 '건설공사발주자'로 분류되어 도급인의 형사책임에서 제외된다는 법적 기준을 설명하고 있다. 건설공사의 발주자별로 안전보건의무 범위가 차등 적용되는 법령 해석 관련 내용이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-30T11:25:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32241,38 +32273,6 @@
     "summary": "국토안전관리원이 김천 주민을 대상으로 안전체험 행사를 개최했다. 시설물 안전, 지진·화재 대응, 건설현장 안전사고 예방 등을 주제로 체험형 교육을 진행했다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-22T16:26:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "새만금개발청, 추석 연휴 앞두고 건설현장 합동 패트롤 점검 실시 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81bDM0eHBtOW9kQ0JocFdoOE9ORWJRWEZkTDNmSVNJTEdIODRZMDFteDROQ3d4ekNuNWlLUWZPRHozd2Vkb2JrNHFTRjEtQQ?oc=5",
-    "description": "새만금개발청(청장 문성요)은 추석 연휴를 앞두고 새만금지역 건설현장의 안전사고를 예방하기 위해 21일 유관기관 합동 패트롤 점검을 실시했다. 새만금개발청은 한국산업안전보건공단, 새만금개발공사와 합동 점검반을 구성해 새만금 산업단지 및 주요 건설현장을 찾아 안전관리 실태를 확인했다. 이번 패트롤 점검에서는 건설현장의 주요 사고 유형인 떨어짐, 부딪힘, 넘어짐 등을 중심으로 △작업 발판·안전난간·개구부 덮개 등 추락 방지 시설 설치 상태 △굴착 사",
-    "published_at": "2026-09-22T16:06:34+09:00",
-    "cluster_id": "0984",
-    "publisher": "전자신문",
-    "title_clean": "새만금개발청, 추석 연휴 앞두고 건설현장 합동 패트롤 점검 실시",
-    "summary": "새만금개발청이 추석 연휴 앞두고 한국산업안전보건공단, 새만금개발공사와 함께 새만금지역 건설현장에 대한 합동 패트롤 점검을 실시했다. 떨어짐, 부딪힘, 넘어짐 등 주요 사고 유형을 중심으로 안전관리 실태를 확인했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-22T16:26:11+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반도건설, ‘무재해 100일 운동’ 실시…중대재해 제로 8년 도전 - 동아일보",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3elE5elBiV1hPUnkzZ1A3Z3htblZrSGxJX29iejFIOVVSdzFZaWRVNEktbUJsZlU1ejVTSU1JWGVmYmdoTk5oX3Z2WlJ1TV9zZnRhQ2RQUGFZeGg3WXd3UTJ5M2dTZ3JFZF95SEhlOHV3ckFyOWfSAWZBVV95cUxNSnRTTHBGeXk1dDVWbkg2alRvWjFDM2tYTFhvb19OVThWb1NYdFhhQ1JqS1NsUG4ycTFnU3FxTUpVUTZDeTFpeXl3d01KbmV3SUdockx3X3JZNzBNcWVxTFFtS05fMlE?oc=5",
-    "description": "반도건설이 8년 연속 중대재해 ‘제로(ZERO)’ 달성을 목표로 전국 공사현장에서 ‘무재해 100일 운동’을 실시한다.반도건설은 전국 공사현장의 안전의식을 높이고 재해 예방 활동을 강화하기 위한 ‘무재해 100일 운동’ 선포식을 열고 협력사와의 소통을 위한 ‘2026…",
-    "published_at": "2026-09-22T15:52:23+09:00",
-    "cluster_id": "32be",
-    "publisher": "동아일보",
-    "title_clean": "반도건설, ‘무재해 100일 운동’ 실시…중대재해 제로 8년 도전",
-    "summary": "반도건설이 8년 연속 중대재해 제로 달성을 목표로 전국 공사현장에서 '무재해 100일 운동'을 실시한다. 안전의식 강화와 재해 예방 활동을 강화하기 위해 협력사와의 소통을 확대하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-22T16:11:22+09:00",
     "importance": 2
   }
 ]
