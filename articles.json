@@ -20743,6 +20743,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "5번 유찰된 양재 오픈상가…대우건설, 180억 채권 회수 불투명 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EdWFONmV3VzRtSHlkZXZabU9Cc2hhTHRHRlNGeUtvWm9zMkYtNVQ5V2FwdFRFWVhqTURhR0I3Q0FsRk12c2JOS24xWDA2WG1oUWlqbDMyalB0QngxZUpSUA?oc=5",
+    "description": "대우건설이 시행사를 대신해 갚아준 프로젝트파이낸싱(PF) 대출금 180억원을 회수하기 위해 서울 서초구 양재동 복합상가",
+    "published_at": "2026-09-30T10:17:16+09:00",
+    "cluster_id": "4007",
+    "publisher": "아시아경제",
+    "title_clean": "5번 유찰된 양재 오픈상가…대우건설, 180억 채권 회수 불투명",
+    "summary": "대우건설이 양재동 복합상가 프로젝트에서 시행사 대신 갚아준 PF 대출금 180억원의 회수가 불투명해지고 있습니다. 해당 상가가 5번 유찰되며 부동산 시장 부진으로 인한 건설사의 채권 회수 위험이 심화되고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-30T10:25:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32261,21 +32277,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-22T14:06:38+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "영덕국유림관리소, 추석 연휴 앞두고 산림사업장 안전점검 - 산림신문",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aa2RnVko1Z0IxRnVVN3h1S2liV2lZTE9YdVBNLUpoR0RMQWxtQW9JVWIyMjFBNl9iR0dTVVp3OXc0aWtCNFExUE1vdm50bzNDZGg2MGV3?oc=5",
-    "description": "영덕국유림관리소(소장 김진헌)는 산림토목사업장에서 발생할 수 있는 안전사고를 예방하고 안전한 작업환경을 조성하기 위해 관내 산림토목사업장을 대상",
-    "published_at": "2026-09-22T13:36:23+09:00",
-    "cluster_id": "93b0",
-    "publisher": "산림신문",
-    "title_clean": "영덕국유림관리소, 추석 연휴 앞두고 산림사업장 안전점검",
-    "summary": "영덕국유림관리소가 추석 연휴를 앞두고 산림토목사업장 안전점검을 실시하여 작업 현장의 안전사고를 예방하려는 조치를 취하고 있다. 이는 산림사업 현장의 안전관리 강화 움직임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-22T14:06:38+09:00",
-    "importance": 2
   }
 ]
