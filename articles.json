@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공공 BIM 활성화, 발주협의회 6개 기관 '맞손' - kmecnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wX1Z3UjAyR2tLRzBFaGRFaUE1Y1lPUWYtSndaVkhPZVRTQVpYZWlpbGVmVHVVYnpzYl9yZTZKcXhNckVCNXRZOUJUMm1FSmpDeVJxdWpPRUU2U2NxM0I1R1l1T2EtMmhzU0psbQ?oc=5",
+    "description": "한국건설기술연구원(원장 박선규, 이하 건설연)은 국토교통부가 추진하는 공공 BIM 활성화 및 발주기관 역량 강화의 일환으로 9월 30일 국가철도공단, 한국공항공사",
+    "published_at": "2026-09-30T14:54:11+09:00",
+    "cluster_id": "05e9",
+    "publisher": "kmecnews.co.kr",
+    "title_clean": "공공 BIM 활성화, 발주협의회 6개 기관 '맞손'",
+    "summary": "한국건설기술연구원이 국토교통부의 공공 BIM 활성화 사업에 참여하여 국가철도공단, 한국공항공사 등 6개 기관과 발주협의회를 구성했다. 공공 BIM 도입 확대로 설계·시공 효율성 향상과 건설산업의 디지털 혁신이 추진될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T21:00:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "summary": "강원특별자치도가 소규모 건설현장의 안전관리를 강화하기 위해 재해예방 기술지도를 1억원 미만 공사까지 확대 추진한다. 기존 법적 의무 대상 외 수의계약 초과금부터 소규모 공사까지 대폭 확대하여 현장 안전관리를 선제적으로 강화하는 조치다.",
     "sentiment": "negative",
     "collected_at": "2026-09-27T09:07:49+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "FT 진단, 영국 '적시 공급'의 역습…비축·중복성 되살리기엔 비용 장벽 - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260927010009193",
-    "description": "영국은 건설 노동자·배관공·아크 용접공·케이블 접속 기술자도 부족한 상태이며 왕립공학한림원은 2030년까지 최대 150만명의 엔지니어가 모자랄 것으로 전망했다. 현재 엔지니어링 인력의 3분의 1가량은 향후 10년...",
-    "published_at": "2026-09-27T08:38:00+09:00",
-    "cluster_id": "1c1d",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "FT 진단, 영국 '적시 공급'의 역습…비축·중복성 되살리기엔 비용 장벽",
-    "summary": "영국의 '적시 공급' 체계로 인해 건설 노동자, 엔지니어 등 기술인력이 심각하게 부족한 상태이며, 왕립공학한림원은 2030년까지 최대 150만명의 엔지니어 부족을 전망했다. 비축과 중복성을 되살리기 위한 비용 장벽이 높은 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-27T08:47:43+09:00",
     "importance": 4
   }
 ]
