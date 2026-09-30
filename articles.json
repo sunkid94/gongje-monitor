@@ -20896,6 +20896,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "국가철도공단 등 6개 기관, BIM 표준화 ‘맞손’ⵈ 스마트건설 확산 - ikld.kr",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGUEVFRHE0RkdBdGFBX2hhVlpOVmtiby12cmYwbUIzVE5uNTBMZ0pFRGVtek5xVzdSUXZSNlRHX2ZnZzQyMURWbVNlTE1XbzZjaFVIbXh5UGszTVh5UTN2SGNCZw?oc=5",
+    "description": "[국토일보 김현재 기자] 국가철도공단 등 6개 공공기관이 기관별로 운영해 온 건설정보모델링(BIM) 기준과 데이터를 연계·표준화하고 공공분야 스마트건설 확산에 힘을 모은다.철도공단은 오늘(30일) 대전 본사에서 한국공항공사, 한국도로공사, 한국토지주택공사(LH), 한국수자원공사, 한국건설기술연구원과 ‘건설정보모델링(BIM) 정보교류 및 기술협력 업무협약’을 체결했다.BIM은 건설사업 전 과정에서 발생하는 정보를 3차원 디지털 모델을 기반으로 통합 관리하는 기술이다. 이번 협약은 공공 발주기관별 BIM 기준과 데이터를 공유하고 스마트",
+    "published_at": "2026-09-30T18:41:47+09:00",
+    "cluster_id": "22dd",
+    "publisher": "ikld.kr",
+    "title_clean": "국가철도공단 등 6개 기관, BIM 표준화 ‘맞손’ⵈ 스마트건설 확산",
+    "summary": "국가철도공단을 포함한 6개 공공기관이 건설정보모델링(BIM) 표준화 업무협약을 체결하여 기관별 BIM 기준과 데이터를 연계·공유한다. 이를 통해 공공분야 스마트건설 확산과 건설 생산성 향상을 도모하는 협력 체계를 구축한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T18:50:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32269,22 +32285,6 @@
     "summary": "국내 건설경기 침체 속에서도 주요 건설사들이 원전, 플랜트, 데이터센터, 해외사업 등 신사업 분야에서 신입 인재 채용을 확대하고 있다. 전통 건설 수요 부족으로 전체 채용은 감소하나 미래 성장동력 분야 중심의 선별적 채용이 이루어지는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-26T06:07:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "북한, 서해 남포·동해 청진서 나란히 신형 군함 건조 착수 정황 - news.kbs.co.kr",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671650&ref=A",
-    "description": "이들 조선소에 지난달 이후부터 푸른색 지붕의 건물 수십 채가 등장했는데, 건설노동자들의 숙소로 사용될 곳으로 보인다는 것입니다. 북한은 올해 초 열린 9차 당대회에서 해군 현대화를 위한 5개년 계획을 승인하고...",
-    "published_at": "2026-09-25T20:58:00+09:00",
-    "cluster_id": "75ed",
-    "publisher": "news.kbs.co.kr",
-    "title_clean": "북한, 서해 남포·동해 청진서 나란히 신형 군함 건조 착수 정황",
-    "summary": "북한이 서해 남포와 동해 청진의 조선소에서 신형 군함 건조를 착수한 정황을 보이고 있으며, 대규모 노동자 숙소 건설이 진행 중입니다. 북한의 해군 현대화 5개년 계획에 따른 군사력 강화 움직임으로 분석됩니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-25T21:07:46+09:00",
     "importance": 2
   }
 ]
