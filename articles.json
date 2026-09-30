@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "연세대 중대재해처벌법 전문가과정 6기 입학… 안전리더 47명 참여 - 안전신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZWHhra2tYb29xUkJrQ2l6eHlZX181WlptUktrVGE1WDNaelRXc2FVYk9haHZJLTVZZEtOMG5IMXFQc19QRW5UTUpKaFpTWXB5VWFQS3V1Z0wwYUdPZGUzRGdDYUtWcndYOEw3UzBIano?oc=5",
+    "description": "건설·제조업부터 에너지·금융·공공기관과 법조계까지 산업현장의 중대재해 대응을 담당하는 관계자들이 중대재해처벌법과 안전보건관리체계에 대한 전문성을 높이기 위해 한자리에 모였다.연세대학교 법무대학원은 30일 연세대학교 광복관 별관 국제회의장에서 ‘2026년 후기 중대재해처벌법 전문가과정 제6기’ 입학식을 개최했다.이번 과정에는 총 47명이 입학했다.건설 분야에서는 현대건설, 태영건설, GS건설 등이 참여했으며 제조·전자 분야에서는 삼성전자, 삼성전기, LG전자, 코오롱인더스트리, 두산, HJ중공업 등의 관계자가 이름을 올렸다.IT·통신",
+    "published_at": "2026-09-30T20:18:02+09:00",
+    "cluster_id": "e180",
+    "publisher": "안전신문",
+    "title_clean": "연세대 중대재해처벌법 전문가과정 6기 입학… 안전리더 47명 참여",
+    "summary": "연세대 법무대학원이 중대재해처벌법 전문가과정 6기 입학식을 개최하여 건설, 제조, 에너지, 금융 등 다양한 산업 분야의 47명이 참여했다. 현대건설, 삼성전자 등 주요 기업들이 안전보건관리체계 전문성 강화를 위해 교육 과정에 동참했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-01T02:30:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "summary": "청양군 남양면 기초생활거점 조성사업 공사현장에서 안전울타리 무단 철거, 안전모 미착용, 폐자재 부실 관리 등 안전관리 부실이 적발됐다. 한국농어촌공사가 추진 중인 사업에서 시공업체의 안전 관리 체계 미흡이 드러났다.",
     "sentiment": "negative",
     "collected_at": "2026-09-27T13:47:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[분양 스케치] 푸르지오 리버프론트 미계약, 'PF 자금회수' 시험대 - 블로터",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4SG5CRllLc1EwRGg3NUVsTXZnZkd2bGlORlVCQlRLV2RNU3BVSDR4T3NzTHhab1Nld0pod082U2VnZ3B5aGt4ZHRlVW1LNldyRUt3dVotQkk4TU03Nk1TUGlIbEV6RjZE0gFsQVVfeXFMUHV4a24yTlRLbW1QM2M5bXAxaXk3WFBmODlyaW5ETnM1cE1mZ052TlNKaE1XRS1ZSThiZmdzUGx5b3lkeDRPaWNrX3lvT2NqWm0wYWVFWnhva2wzYS1rRzFsM05HaTFjelprbDVk?oc=5",
-    "description": "경기 김포시 고촌읍 한강 푸르지오 리버프론트의 정당계약 뒤 발생한 미계약 물량이 무순위 청약에서도 해소되지 않으면서 시행사 한강시네폴리스개발의 분양수입금 유입이 늦어질 가능성이 커졌다. 한강시네폴리스개발은 이 사업에 7700억원 한도의 프로젝트파이낸싱(PF) 대출약정을 맺었다. 시공사",
-    "published_at": "2026-09-27T13:00:00+09:00",
-    "cluster_id": "1373",
-    "publisher": "블로터",
-    "title_clean": "[분양 스케치] 푸르지오 리버프론트 미계약, 'PF 자금회수' 시험대",
-    "summary": "경기 김포 푸르지오 리버프론트의 미계약 물량이 무순위 청약에서도 해소되지 않으면서 시행사의 분양수입 유입이 지연될 우려가 커졌다. 7700억원 규모의 PF 대출금 상환에 차질이 발생할 가능성이 높아지고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-27T13:37:49+09:00",
     "importance": 4
   }
 ]
