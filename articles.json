@@ -20964,6 +20964,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대전시의회, 지역건설업체·노동자 상생 방안 모색 - 뉴스홈(newshome)",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95bGgwajA4UVlWQlgwdjJ3NUVZdnY2NklYVTBGYWt4UW9xWnhBWnI4aFN0VTlQaXBMRmFMYTljU2FDeFJ6Ti1CNk8wMWhCRWdkaUFMWUdZYWNPc3pVR2VMWGNjUjFlaGhPVF9sRkNn?oc=5",
+    "description": "대전시의회는 30일 시의회 소통실에서 ‘지역 건설업체와 지역 노동자의 상생 방안 정책토론회’를 열고 대전지역 건설기계 및 건설노동 환경 개선과 지역 건설산업 발전 방안을 논의했다.이번 토론회는 대전시의회 하경옥 의원(더불어민주당, 유성구3)과 구본환 의원(더불어민주당, 유성구4)이 공",
+    "published_at": "2026-09-30T18:26:21+09:00",
+    "cluster_id": "2251",
+    "publisher": "뉴스홈(newshome)",
+    "title_clean": "대전시의회, 지역건설업체·노동자 상생 방안 모색",
+    "summary": "대전시의회가 지역 건설업체와 노동자의 상생을 위한 정책토론회를 개최했다. 건설기계 및 건설노동 환경 개선과 지역 건설산업 발전 방안을 논의하는 자리가 마련되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-01T00:44:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32274,21 +32290,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-27T13:37:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'성공한' 신고리 5·6호기 공론화의 '이상한 실패', 무엇을 남겼나?[세계... - pressian.com",
-    "link": "https://www.pressian.com/pages/articles/2026092314572957576?utm_source=naver&utm_medium=search",
-    "description": "여기에 1조 6천억 원에 달하는 매몰 비용, 건설 노동자의 일터, 지역 경제 문제까지 얽혀 있어 건설 중단은 곧 심각한 갈등을 초래할 가능성이 높았다. 문재인 대통령은 취임 한 달여 후인 2017년 6월 19일 고리 1호기 영구...",
-    "published_at": "2026-09-27T12:01:00+09:00",
-    "cluster_id": "19e0",
-    "publisher": "pressian.com",
-    "title_clean": "'성공한' 신고리 5·6호기 공론화의 '이상한 실패', 무엇을 남겼나?[세계...",
-    "summary": "신고리 5·6호기 공론화 과정에서 1조 6천억 원의 매몰 비용, 건설 노동자 일자리, 지역 경제 등 복잡한 이해관계가 얽혀 있었으며, 2017년 문재인 정부의 건설 중단 결정으로 건설업계에 심각한 갈등을 초래했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-27T12:02:44+09:00",
-    "importance": 4
   }
 ]
