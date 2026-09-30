@@ -4726,23 +4726,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한기계설비건설협회 제주특별자치도회 초록우산 제주아이 밥심프로젝트 쌀 480kg후원 - youngjuilbo.com",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RWGFlUTVXeWk1X3Y2OVRhYVQ1Zk1ZSHgxdTdFVERvTHFnSWt5OG9WTWhxbV9ReVVhb1VoWDJIek5qQmhGZ0NtcEtVbEphSG43NlRMdHhoSVRUckszdUt2MEtNajhISndRbUlzVWdIVQ?oc=5",
-    "description": "초록우산 제주지역본부(본부장 김희석)는 지난 28일, 대한기계설비건설협회 제주특별자치도회(회장 김성익)에서 초록우산 ‘제주아이 밥심프로젝트’에 동참하며 취약계층 아동 가정을 위한 쌀 480kg을 후원했다고 밝혔다.이번 후원은 ‘제11회 기계설비의 날 한마음축제’ 개최를 기념해 축하의 의미로 받은 쌀 화환을 초록우산 제주아이 밥심프로젝트를 통해 지역사회에 나누고자 마련됐다. 전달된 쌀 480kg은 도내 취약계층 아동 가정의 건강한 한 끼를 위해 사용될 예정이다.초록우산 제주아이 밥심프로젝트는 제주지역 아동들에게 건강한 한 끼를 지원하",
-    "published_at": "2026-08-31T12:31:15+09:00",
-    "cluster_id": "f0ac",
-    "publisher": "youngjuilbo.com",
-    "title_clean": "대한기계설비건설협회 제주특별자치도회 초록우산 제주아이 밥심프로젝트 쌀 480kg후원",
-    "summary": "대한기계설비건설협회 제주특별자치도회가 '제11회 기계설비의 날 한마음축제' 기념으로 받은 쌀 화환 480kg을 초록우산 제주아이 밥심프로젝트에 기부했다. 기부금은 제주지역 취약계층 아동 가정의 건강한 한 끼를 지원하는 데 활용될 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-08-31T14:52:46+09:00",
-    "event_label": "대한기계설비건설협회 제주특별자치도회 사회공헌 기부금 전달",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20741,6 +20724,22 @@
     "sentiment": "negative",
     "collected_at": "2026-09-20T15:47:45+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인빅, 수자원공사와 건설현장 ‘사각지대 제로’ AIoT 관제 실증 착수 - beSUCCESS",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhc3Z2Vl90V2FpNEo4M1BVbHV1U0xUeVFXTVZZWGFobnp6R2twMnAwS2VCQlFjdDd6cWU2Z2J3VFV3M190c2c?oc=5",
+    "description": "AI 디지털트윈 관제시스템 전문기업 인빅 주식회사(대표 지효철)가 중소벤처기업부와 창업진흥원이 주관하는 ‘2026년 민관협력 오픈이노베이션 지원사업(모두의 챌린지 기후테크)’에 최종 선정돼 한국수자원공사와 AI 기반 건설현장 안전관리 혁신 과제를 공동 수행한다. 민관협력 오픈이노베이션 지원사업은 공공기관과 대기업 등 수요기관이 해결이 필요한 과제를 제시하고, 이를 해결할 기술과 사업모델을 보유한 창업기업을 선발해 기술검증과 실증을 공동 추진하는 정부 지원 프로그램이다. 인빅은 한국수자원공사가 제시한",
+    "published_at": "2026-09-30T05:42:34+00:00",
+    "cluster_id": "c7b1",
+    "publisher": "beSUCCESS",
+    "title_clean": "인빅, 수자원공사와 건설현장 ‘사각지대 제로’ AIoT 관제 실증 착수",
+    "summary": "인빅이 한국수자원공사와 함께 AI 기반 건설현장 안전관리 혁신 과제를 수행하기 위해 정부 지원사업에 선정됐다. AIoT 관제시스템을 통해 건설현장의 사각지대를 해소하고 안전관리를 고도화하는 실증을 착수한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T14:56:11+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
