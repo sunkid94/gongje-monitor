@@ -20777,6 +20777,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한국도로공사, 스마트 건설 기술 강화…BIM 정보교류 업무협약 체결 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rMWlWZU94OUhMVXRWelFSWENwS2trLUpxcVo3TUoxOEZoWDR3TFRNZEZoWEhVOEtuN2NmaFlJdlFRZG95SkFpNElhSzdLMUd0cjM2NHpR?oc=5",
+    "description": "[헤럴드경제=홍승희 기자] 한국도로공사는 30일 국가철도공단 본사에서 한국공항공사·국가철도공단·한국토지주택공사(LH)·한국수자원공사·한국건설기술연구원과 ‘건설",
+    "published_at": "2026-09-30T15:02:39+09:00",
+    "cluster_id": "b6d1",
+    "publisher": "헤럴드경제",
+    "title_clean": "한국도로공사, 스마트 건설 기술 강화…BIM 정보교류 업무협약 체결",
+    "summary": "한국도로공사가 국가철도공단, 한국공항공사, LH, 한국수자원공사, 한국건설기술연구원과 BIM(빌딩정보모델링) 정보교류 업무협약을 체결했다. 스마트 건설 기술 강화를 통해 건설 산업의 디지털 혁신을 추진하는 내용이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-09-30T15:10:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32263,21 +32279,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-23T11:59:17+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[FOCUS] 대보건설, 토목사업 잇단 수주…4년 연속 연간 수주 1조원 돌파 - jeonguknews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XQ3Q1bWVfQkhOd3FhT3FzUk9SV0pWZ2VuOWtEY2xIQ2JpR3hqdWx6R2wwdHFzZnlqaldlYjgxN1JySkZqM0tmRi1jaXgteDFoM1Fva09NLV9VQk1iVmZKU1NvQUFNekNENVQ1SDVQVjM?oc=5",
-    "description": "[전국뉴스=조승원 기자] 대보건설이 대규모 인프라 사업을 잇달아 확보하며 올해도 연간 수주액 1조원을 넘어섰다. 이에 따라 지난 2023년부터 4년 연속 ‘수주",
-    "published_at": "2026-09-23T08:25:00+09:00",
-    "cluster_id": "95e1",
-    "publisher": "jeonguknews.co.kr",
-    "title_clean": "[FOCUS] 대보건설, 토목사업 잇단 수주…4년 연속 연간 수주 1조원 돌파",
-    "summary": "대보건설이 대규모 인프라 사업을 잇달아 수주하며 올해도 연간 수주액 1조원을 돌파했다. 2023년부터 4년 연속 연간 수주 1조원 이상을 기록하며 토목사업에서의 강세를 지속하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-23T11:59:17+09:00",
-    "importance": 2
   }
 ]
