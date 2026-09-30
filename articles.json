@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노동부 천안지청, 건설현장 ‘안전모·안전대’ 불시점검…위반 시 즉시 과태료 - newskorea.ne.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVjFBd2puN0NwLUlUMXZTZlRFSW9uQnRLWlcwUkRkeElqYWdpRzMtaWVuQ24zcmM3aHBnUGxNS1RGeFE5R2JMSUV5dnFyUUsteS11a1VTRFkweGNKYkhKVWpDX1lRWXVrTWlIeTlR?oc=5",
+    "description": "(뉴스코리아=천안) 이상린 기자 = 고용노동부 천안고용노동지청이 건설현장 떨어짐 사고를 예방하기 위해 안전모와 안전대 지급·착용 여부를 집중적으로 점검한다.천안고",
+    "published_at": "2026-09-30T20:20:23+09:00",
+    "cluster_id": "f217",
+    "publisher": "newskorea.ne.kr",
+    "title_clean": "노동부 천안지청, 건설현장 ‘안전모·안전대’ 불시점검…위반 시 즉시 과태료",
+    "summary": "고용노동부 천안지청이 건설현장의 떨어짐 사고 예방을 위해 안전모·안전대 지급 및 착용 여부에 대한 불시점검을 실시하며, 위반 시 즉시 과태료를 부과할 방침이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-30T20:25:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "summary": "주금공의 PF 보증 손실률이 3년 새 12.8배 증가하고 충당부채는 15.3배 급증했으며, 사업자보증 잔액 8조6228억원 중 평균 보증비율 92%로 높은 수준이다. 이는 건설사 PF 시장의 부실 위험이 공공기관 장부에 현실화되고 있음을 의미한다.",
     "sentiment": "negative",
     "collected_at": "2026-09-27T08:27:57+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "글로벌 가격 폭등…디젤, 韓 신차시장선 ‘역사 속으로’ [여車저車] - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10883768?ref=naver",
-    "description": "상용차 시장은 이미 건설경기 침체 등으로 판매가 부진한 상황이다. 지난 8월 국산 상용차 등록은 1만2279대로 전년 동월보다 8.5% 줄었다. 수입 상용차는 290대로 49.0% 감소했다. 현대 포터2는 3590대로 9.5%, 포터2...",
-    "published_at": "2026-09-27T08:01:00+09:00",
-    "cluster_id": "1726",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "글로벌 가격 폭등…디젤, 韓 신차시장선 ‘역사 속으로’ [여車저車]",
-    "summary": "글로벌 유가 상승으로 디젤 가격이 폭등하면서 한국 신차시장에서 디젤차 수요가 급감하고 있다. 상용차 시장도 건설경기 침체와 맞물려 8월 판매량이 전년 동월 대비 크게 감소했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-27T08:02:50+09:00",
     "importance": 4
   }
 ]
