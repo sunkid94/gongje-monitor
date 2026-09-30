@@ -20624,6 +20624,38 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현대건설, 반포 ‘디에이치 클래스트’ 현장서 낙하물 사망사고 - 메디컬투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YVWowMVVmTHhvd2tyMzJLcF9BLTNMVkZvakpyaUhlR2tieHBnMDBqVzlVSS1od3hrNXZkT01BM2xtWWhZQlJOYVBvNWNnODBLcU40YWtZUnBHcG1hTnNQTmVkc1g5X0dpTmtQOA?oc=5",
+    "description": "[mdtoday = 김은미 기자] 서울 서초구 반포동의 대규모 아파트 신축 공사 현장에서 30대 외국인 근로자가 콘크리트 잔재물에 맞아 숨지는 중대재해 사고가 발",
+    "published_at": "2026-09-30T12:12:09+09:00",
+    "cluster_id": "b8ef",
+    "publisher": "메디컬투데이",
+    "title_clean": "현대건설, 반포 ‘디에이치 클래스트’ 현장서 낙하물 사망사고",
+    "summary": "서울 서초구 반포동 현대건설의 '디에이치 클래스트' 아파트 신축 공사 현장에서 30대 외국인 근로자가 낙하물(콘크리트 잔재물)에 맞아 사망하는 중대재해 사고 발생. 건설 현장의 안전 문제로 업계 규제 강화 및 이미지 악화 우려.",
+    "sentiment": "negative",
+    "collected_at": "2026-09-30T13:25:33+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "HJ중공업, 협력사 CEO들과 안전보건 간담회 개최…안전정책 공유·우수사례 발표 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4WW52ejJBbUxlWnA3ZHZEOHp3SkoxbUQ2R1ktSEZ5VlJpZHBSRVBKdmxkR1hQaXlhckFUOE94amVoQXZuN3JNbWFaSkp6STc3c0lsMkZuMzlmWTZoMm1TUW1tR3NQU3NrdG9zVVNudEpyOG_SAXdBVV95cUxPcWxUaFFzWU85VUF6cFcyanNxZEtqZTRSQXRfWGpBWE1pSjBkSXM0Zll5LTBhVHZLQjJTU3RhNnpzclM3OUlQbDljeHMwelFucFgtSkdJcno3c1RKUHM1YTdIMjQ4aXNlQ0VKR0VFTHJ0NWFOcUExWQ?oc=5",
+    "description": "건설현장의 중대재해 예방을 위해 원청과 협력사 간 안전관리 체계를 공유하고 현장 대응력을 높이는 자리가 마련됐다. HJ중공업 건설부문은 협력사와 안전보건 정책을 공유하고 예방 중심의 관리체계를 점검하는 데 초점을 맞췄다.HJ중공업 건설부문은 서울 남영사옥에서 주요 협력사 30개사 CEO를 초청해 ‘2026년도 협력사 CEO 안전보건 간담회’를 개최했다고 30일 밝혔다.이번 행사는 회사의 안전보건 정책과 주요 추진 방향을 협력사에 전달하는 동시에 현장 안전관리 과정에서의 소통을 강화하기 위해 마련됐다. 특히 원청의 일방적인 관리보다",
+    "published_at": "2026-09-30T13:14:51+09:00",
+    "cluster_id": "bae8",
+    "publisher": "핀포인트뉴스",
+    "title_clean": "HJ중공업, 협력사 CEO들과 안전보건 간담회 개최…안전정책 공유·우수사례 발표",
+    "summary": "HJ중공업이 협력사 30개사 CEO를 초청해 안전보건 간담회를 개최하고 안전정책과 예방 중심의 관리체계를 공유했다. 원청과 협력사 간 소통을 강화하여 건설현장 중대재해 예방을 위한 안전관리 체계를 구축하는 자리를 마련했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-09-30T13:25:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32237,38 +32269,6 @@
     "summary": "GS건설이 경기도 용인시 기술연구소 내에 신기술과 건설로봇의 성능을 사전에 검증하는 'PoC 센터'를 개설했다. 이는 건설로봇 도입 전 운영 가능성을 미리 점검하여 산업 효율화를 도모하는 시도다.",
     "sentiment": "positive",
     "collected_at": "2026-09-22T21:00:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "영덕국유림관리소, 추석 연휴 앞두고 산림토목사업장 안전점검 강화 - 산림신문",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMGJkdHVTRzZDOEtuVnYwRmxwT01jU1pOYnlSQlR4SzhwTmlwXzZzQlpjamZTZEItVV9IWGR6WF9TUzcwb2lmd2xLZFZXazFqM0dHenlB?oc=5",
-    "description": "영덕국유림관리소(소장 김진헌)는 산림토목사업장에서 발생할 수 있는 안전사고를 예방하고 안전한 작업환경을 조성하기 위해 관내 산림토목사업장을 대상",
-    "published_at": "2026-09-22T17:17:09+09:00",
-    "cluster_id": "7a0b",
-    "publisher": "산림신문",
-    "title_clean": "영덕국유림관리소, 추석 연휴 앞두고 산림토목사업장 안전점검 강화",
-    "summary": "영덕국유림관리소가 추석 연휴 앞두고 산림토목사업장에 대한 안전점검을 강화하고 있다. 산림토목사업장의 안전사고 예방과 안전한 작업환경 조성을 목표로 관내 사업장을 대상으로 점검을 진행 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-22T19:40:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[전기차 충전솔루션 전문기업]젠커스, 차세대 전기차 충전기술 사업 ‘정조준’ - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50260",
-    "description": "[건설이코노미뉴스] 전기차 충전솔루션 전문기업 ㈜젠커스(대표이사 김한상)가 한국전기연구원(KERI)으로부터 양방향 충·방전(V2G)과 자동인증·결제(PnC) 관련 기술을 이전받아 차세대 전기차 충전통신기술의 제품화와 사업화를 본격 추진한다.이와 관련, 젠커스는 9월 21일 한국전기연구원 창원본원에서 기술이전 협약을 체결했다. 이전 기술은 ‘ISO 15118-20 기반 양방향 완속충전기 SECC 프로토콜 기술’과 ‘ISO 15118-2 기반 Plug and Charge 기술’ 2건이다.이날 협약식에는 한국전기연구원 측에서 김남균 원장",
-    "published_at": "2026-09-22T19:33:23+09:00",
-    "cluster_id": "e95d",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "[전기차 충전솔루션 전문기업]젠커스, 차세대 전기차 충전기술 사업 ‘정조준’",
-    "summary": "전기차 충전솔루션 전문기업 젠커스가 한국전기연구원으로부터 양방향 충·방전(V2G)과 자동인증·결제(PnC) 관련 기술을 이전받아 차세대 전기차 충전통신기술 사업화를 추진한다. 이는 전기차 시장 확대에 따른 충전인프라 수요 증가로 관련 기계설비 및 구축 사업 기회 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-22T19:34:09+09:00",
     "importance": 2
   }
 ]
