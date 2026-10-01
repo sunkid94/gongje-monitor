@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "대구시, 제10회 기계 및 신기술 학술대회 개최 - dkilbo.com",
+    "link": "https://www.dkilbo.com/news/articleView.html?idxno=556016",
+    "description": "대한기계설비건설협회 대구시회가 주관해 올해로 10회째를 맞이한 이날 행사에는 지역 기계설비 건설업체 대표 100여명과 대구시 기계직류 공무원 150여명이 참석했다. 참가자들은 급변하는 건설 환경에 맞춰 지역 업체의...",
+    "published_at": "2026-10-01T19:47:00+09:00",
+    "cluster_id": "a75a",
+    "publisher": "dkilbo.com",
+    "title_clean": "대구시, 제10회 기계 및 신기술 학술대회 개최",
+    "summary": "대한기계설비건설협회 대구시회가 주관한 제10회 기계 및 신기술 학술대회가 개최되었으며, 지역 업체 대표와 공무원 250여명이 참석해 급변하는 건설 환경에 대응하기 위한 논의가 이루어졌다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-01T20:01:41+09:00",
+    "event_label": "대한기계설비건설협회 제10회 기계 및 신기술 학술대회 개최",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "대구시, 건설업계 불법·불공정 하도급 근절 '팔 걷었다\" - newspim.com",
     "link": "https://www.newspim.com/news/view/20261001001405",
     "description": "이를 위해 대구시는 구·군, 대한전문건설협회·대한기계설비건설협회가 참여하는 합동 점검반을 구성해 7곳을 집중적으로 점검하고, 31곳의 현장은 구·군 자체 점검한다. 다만 지역업체 하도급률이 우수한 500억 원...",
@@ -32295,21 +32312,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-29T10:50:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "엄태영 의원, 미분양주택 매입 투명성 제고 위한 '공공주택특별법 개정... - cctimes.kr",
-    "link": "http://www.cctimes.kr/news/articleView.html?idxno=929690",
-    "description": "또한 지방 미분양 문제가 심각한 상황에서 감정평가액과 미분양률 등을 고려한 한국토지주택공사의 낮은 매입가로 인해 매입에 응하는 지방 건설사가 사실상 많지 않아 침체된 지방건설경기 회복에 실질적인 효과를...",
-    "published_at": "2026-09-29T10:46:00+09:00",
-    "cluster_id": "a880",
-    "publisher": "cctimes.kr",
-    "title_clean": "엄태영 의원, 미분양주택 매입 투명성 제고 위한 '공공주택특별법 개정...",
-    "summary": "엄태영 의원이 미분양주택 매입 투명성을 높이기 위해 공공주택특별법 개정을 추진 중. 한국토지주택공사의 낮은 매입가로 인해 지방 건설사들의 미분양주택 매입 참여가 저조하여 지방건설경기 회복에 실질적 효과를 내지 못하고 있는 상황.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T10:50:27+09:00",
-    "importance": 4
   }
 ]
