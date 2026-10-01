@@ -21372,6 +21372,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 건설업계 모처럼 고무적 “건설경기 달라지겠다 기대감과 용기 생겨” - 영남일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uaEphSTQxZnRRXzRzbGlFYkQ1bHN1d3UyV2t6SllEdDFEbFJjUWp4dXBuVjVyTDFfVjladmg3UGRLVGE0Sk1kckNkOUVOcENfSGhtT0htTWx4WWdsY2ViTmZFZDE4UHZkUmxz?oc=5",
+    "description": "장기 침체로 어려움에 처한 대구 건설업계에 모처럼 활기가 돌고 있다 건설경기 회복을 위한 대구시의 강력한 시정 드라이브에 업계 기대감이 커지는 분위기다 무엇보다 지역 건설사 수 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+    "published_at": "2026-10-01T21:37:54+09:00",
+    "cluster_id": "8937",
+    "publisher": "영남일보",
+    "title_clean": "대구 건설업계 모처럼 고무적 “건설경기 달라지겠다 기대감과 용기 생겨”",
+    "summary": "장기 침체에 있던 대구 건설업계에 활기가 돌고 있으며, 대구시의 건설경기 회복 시정 드라이브로 업계의 기대감이 커지고 있다. 지역 건설사들이 모처럼 고무적인 전망을 보이며 건설경기 개선에 대한 기대와 용기를 갖게 되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T22:10:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32298,21 +32314,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-29T11:29:27+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "원주시, 건설업계와 간담회… 경기 활성화 방안 논의 - reporternside.com",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pN29UMGZ5OFZ4bWc2Z3JER19fWHhxSl8wU2g0d1lWVTRFdFZiYVJyeGRFNW1QYS1CUmlIdU5fWE9NOXpscWxmeTJUblp2cnpZTnYyckhTTkt5dkx4dmdOWnEweE90UHZCTjdJQlNNN2gzUQ?oc=5",
-    "description": "원주시가 지역 건설경기 침체에 대응하기 위해 대한건설협회 원주시협의회와 머리를 맞댔다. 29일 시청 집무실에서 열린 간담회에는 협의회 조병철 회장을 비롯한 임원진",
-    "published_at": "2026-09-29T11:18:19+09:00",
-    "cluster_id": "ca3f",
-    "publisher": "reporternside.com",
-    "title_clean": "원주시, 건설업계와 간담회… 경기 활성화 방안 논의",
-    "summary": "원주시가 지역 건설경기 침체에 대응하기 위해 대한건설협회 원주시협의회와 간담회를 개최했다. 건설업계와 함께 경기 활성화 방안을 논의하는 자리다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-29T11:29:27+09:00",
-    "importance": 2
   }
 ]
