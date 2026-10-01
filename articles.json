@@ -5015,6 +5015,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[정비사업 디코드] 강남 재건축 대어 푸른마을아파트에 대형사 총집결 - smarttoday.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XQ1gxZ3VBMHlVWE9SRk9fX2tZMzM5U2hsMHpld0NtYXQtOS1nSTNDa1hlNGxFTVM3SURQSVYzcXJ4eXg4bXZjTkRDYy1JRjZtdjhqOWt2bGRua3hTWW1Z?oc=5",
+    "description": "|스마트투데이=김종현 기자| 서울 강남 일원동 푸른마을아파트 재건축에 삼성물산 건설부문, 현대건설, 대우건설, 포스코이앤씨, 롯데건설 등 대형사들이 일찌감치 발을 뻗는 모양새다. 주민 대면 접촉은 물론 사업설명회에도 홍보(OS)요원을 파견해 눈도장 찍기에 나섰다.",
+    "published_at": "2026-10-01T14:02:00+09:00",
+    "cluster_id": "2226",
+    "publisher": "smarttoday.co.kr",
+    "title_clean": "[정비사업 디코드] 강남 재건축 대어 푸른마을아파트에 대형사 총집결",
+    "summary": "서울 강남 일원동 푸른마을아파트 재건축 사업에 삼성물산, 현대건설, 대우건설, 포스코이앤씨, 롯데건설 등 5개 대형 건설사가 경쟁적으로 참여하고 있다. 주민 접촉과 사업설명회를 통해 수주 수익권을 확보하려는 움직임이 활발하다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T14:11:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20999,19 +21015,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[단독] 대우건설, '써밋' 상위 브랜드 검토... 한남2구역, 독점 브랜드 ... - meconomynews.com",
-    "link": "https://www.meconomynews.com/news/articleView.html?idxno=201905",
-    "description": "대우건설이 기존 하이엔드 브랜드인 '써밋'보다 상위 개념인 '하이퍼엔드' 브랜드 도입을 내부적으로 검토하고 있는 것으로 확인됐다. 서울 용산구 한남2구역을 비롯해 대우건설이 수주한 정비사업 조합들이 차별화된...",
-    "published_at": "2026-09-23T07:02:00+09:00",
-    "cluster_id": "a92c",
-    "publisher": "meconomynews.com",
-    "title_clean": "[단독] 대우건설, '써밋' 상위 브랜드 검토... 한남2구역, 독점 브랜드 ...",
-    "summary": "대우건설이 기존 '써밋' 브랜드보다 상위의 '하이퍼엔드' 브랜드 도입을 검토 중이며, 한남2구역 등 정비사업에서 차별화 전략을 추진하고 있다. 이는 프리미엄 시장 공략을 통한 브랜드 강화 및 사업 경쟁력 강화 움직임으로 평가된다.",
+    "title": "두산에너빌, 베트남 오몬3 가스복합발전소 건설 수주 - 브레이크뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PTUJYUGF5anB6T1ZiNFZDRW94SE95SXQ1NHd3N1ZBUUE3MmRnX3FPc2QxcGFSVHVxV1dUUWpKMEVwUQ?oc=5",
+    "description": "지난 달 30일(현지시각) 베트남 하노이에서 베트남 국가산업에너지그룹(PVN) 레 응옥 손(Le Ngoc Son) 회장 (뒷줄 왼쪽 5번째), 레 만 끄엉(Le Manh Cuong) 사장(뒷",
+    "published_at": "2026-10-01T13:57:00+09:00",
+    "cluster_id": "a760",
+    "publisher": "브레이크뉴스",
+    "title_clean": "두산에너빌, 베트남 오몬3 가스복합발전소 건설 수주",
+    "summary": "두산에너빌이 베트남 오몬3 가스복합발전소 건설 사업을 수주했다. 이는 기계설비건설 분야의 해외 수주 확대로 건설업계에 긍정적인 신호이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-23T07:09:48+09:00",
+    "collected_at": "2026-10-01T14:11:32+09:00",
     "importance": 2
   },
   {
@@ -32275,22 +32291,6 @@
     "title_clean": "옹벽 배수구는 벽 뒤 물을 빼 수압을 낮춘다",
     "summary": "옹벽의 안정성을 위해 배수구를 통한 배면 물 관리의 중요성을 설명하는 기술 정보 기사이다. 국토교통부 건설기술정보시스템에 수록된 유지관리매뉴얼은 배수 상태를 옹벽 안정 검토에 포함하도록 권고하고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-28T11:08:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "세종도시교통공사 김재원 처장, 산업안전지도사 최종 합격…‘기술·안전’ 전문성 갖춰 - hdnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1dnU0d2F2UC12eDB0V1FRLWdtMXEwZ1dMT3B3YnZOZTVfY0d5N3M0alRDc25sSFAzdjQ3c0R4VHBYellodGxPSk91ZklPWXY2a2dHUlpOeURkXzVrd2lob3dUN25SeVNuLXJz?oc=5",
-    "description": "[현대경제=세종] 세종도시교통공사 김재원 개발사업처장이 산업안전지도사 자격시험에 최종 합격하며 토목 시공과 산업안전 분야의 전문자격을 모두 갖추게 됐다.세종도시교통공사는 김 처장이 한국산업인력공단이 시행한 2026년도 제16회 산업안전지도사 자격시험에 최종 합격했다고 밝혔다.산업안전지",
-    "published_at": "2026-09-28T10:34:46+09:00",
-    "cluster_id": "01fd",
-    "publisher": "hdnews.co.kr",
-    "title_clean": "세종도시교통공사 김재원 처장, 산업안전지도사 최종 합격…‘기술·안전’ 전문성 갖춰",
-    "summary": "세종도시교통공사 김재원 개발사업처장이 산업안전지도사 자격시험에 최종 합격했다. 토목 시공과 산업안전 분야의 전문자격을 동시에 갖추게 되어 건설사업 안전관리 역량이 강화되었다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-28T11:08:40+09:00",
     "importance": 2
   }
