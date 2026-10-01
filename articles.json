@@ -5389,6 +5389,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[요즘 부동산+/㉙]'컨소시엄' 설 자리 좁아지는 재건축…조합, 단일 시공... - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=117619",
+    "description": "1차 현장설명회에는 GS건설 외에도 대우건설, 포스코이앤씨, IPARK현대산업개발 등이 참석했지만 본입찰에서는 GS건설만 응찰했다. 2차 현장설명회 역시 GS건설만 참석했다. 송파구 마천1구역도 상황이 비슷하다. 조합은...",
+    "published_at": "2026-10-02T06:48:00+09:00",
+    "cluster_id": "3f7b",
+    "publisher": "businessplus.kr",
+    "title_clean": "[요즘 부동산+/㉙]'컨소시엄' 설 자리 좁아지는 재건축…조합, 단일 시공...",
+    "summary": "재건축 사업에서 컨소시엄 구성이 어려워지면서 대형 건설사들의 단일 시공 응찰이 증가하고 있다. 마천1구역 등 여러 사업에서 초기 현장설명회 참석사는 많으나 실제 입찰에는 소수 업체만 응찰하는 추세가 나타나고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-02T07:00:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21373,19 +21389,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "호르무즈 봉쇄에 가스선 운임↑…韓 조선 수주 전망은 '맑음' - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000336741?division=NAVER",
-    "description": "한화오션은 올해 LNG 운반선 6척, VLGC 3척, 초대형 암모니아운반선(VLAC) 3척 등 가스 운반선 12척을 수주했고, 삼성중공업도 LNG 운반선 18척, 에탄 운반선 2척, 가스 운반선 4척 등을 수주했습니다.",
-    "published_at": "2026-09-26T09:16:00+09:00",
-    "cluster_id": "9791",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "호르무즈 봉쇄에 가스선 운임↑…韓 조선 수주 전망은 '맑음'",
-    "summary": "호르무즈 해협 봉쇄로 가스선 운임이 상승하면서 한국 조선업계의 수주 전망이 긍정적이다. 한화오션과 삼성중공업이 올해 LNG, VLGC, 암모니아운반선 등 가스 운반선 수십 척을 수주하며 호재를 기록했다.",
+    "title": "대구시, 주택시장 정상화 기지개 펴나…신규 주택사업 승인보류 3년 8개... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10891199?ref=naver",
+    "description": "공급을 조절해 왔으나 공급 부족 우려에 대비한 선제적 대응이 필요한 시점”이라며 “시민이 원하는 양질의 주택이 안정적으로 공급되도록 유도하고 지역 건설경기에도 활력이 돌기를 기대한다”고 말했다.",
+    "published_at": "2026-10-02T06:50:00+09:00",
+    "cluster_id": "5c1d",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "대구시, 주택시장 정상화 기지개 펴나…신규 주택사업 승인보류 3년 8개...",
+    "summary": "대구시가 3년 8개월간 보류해온 신규 주택사업 승인을 재개하기로 결정했다. 공급 부족에 대비한 선제적 대응으로, 양질의 주택 안정적 공급과 지역 건설경기 활성화를 목표로 하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-26T09:27:43+09:00",
+    "collected_at": "2026-10-02T07:00:52+09:00",
     "importance": 2
   },
   {
@@ -32298,22 +32314,6 @@
     "summary": "민주노총 건설노조가 '건폭몰이' 항의 분신으로 사망한 양회동 씨에 대해 산업재해 인정을 요구하며 명예 회복을 촉구했다. 이는 건설업계의 부정적 이슈와 노사 갈등을 드러내는 사건이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-29T12:44:25+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "기간제·단시간 노동자 186만여명 ‘최고치’…고령화 탓? - hani.co.kr",
-    "link": "https://www.hani.co.kr/arti/society/labor/1279940.html",
-    "description": "노동부 관계자는 “건설업이 부진하면서 건설수주와 건설기성(건설 투자) 모두 줄어들며 건설 부문 노동자가 줄어든 영향”이라고 설명했다. 한편, 노동부는 고용정책기본법에 따라 2014년부터 상시 고용 300명 이상의...",
-    "published_at": "2026-09-29T12:02:00+09:00",
-    "cluster_id": "3ee5",
-    "publisher": "hani.co.kr",
-    "title_clean": "기간제·단시간 노동자 186만여명 ‘최고치’…고령화 탓?",
-    "summary": "기간제·단시간 노동자가 186만여 명으로 사상 최고치를 기록했으며, 건설업 부진으로 인한 수주 및 건설기성 감소가 건설 부문 노동자 감소에 영향을 미친 것으로 분석되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T12:14:34+09:00",
     "importance": 4
   }
 ]
