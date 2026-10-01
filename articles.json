@@ -21372,6 +21372,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "세종시설관리공단, 사고 사례 중심 안전보건 실무교육 실시 - m-i.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yVUtjWDlQbnJaWEMyLUJJNW1uem5aNXZBejA3S25zeHFsVlVadW5WYWJFeVlKRDNEUXBLWUszNXdLOUhQdXlIQ3dRQV9pYXZwSU0zTHZoeDJjU2dFcUlnLURKVTM?oc=5",
+    "description": "매일일보 = 오정환 기자 | 세종특별자치시시설관리공단은 지난달 30일 조치원청사에서 ‘2026년 안전보건 실무교육’을 실시했다.안전보건관리책임자, 관리감독자, 사",
+    "published_at": "2026-10-01T15:41:58+09:00",
+    "cluster_id": "84ed",
+    "publisher": "",
+    "title_clean": "세종시설관리공단, 사고 사례 중심 안전보건 실무교육 실시 - m-i.kr",
+    "summary": "세종시설관리공단이 안전보건 실무교육을 실시하여 직원들의 안전의식을 제고하고 있습니다. 사고 사례 중심의 교육을 통해 현장 안전관리 역량을 강화하는 내용입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-01T21:51:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32298,21 +32314,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T11:24:29+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "“건설업·스마트팜도 허용”…하남시 적극행정, 지식산업센터 빗장 열... - munhwa.com",
-    "link": "https://www.munhwa.com/article/11620099?ref=naver",
-    "description": "고시에 따르면 지식산업센터 내 공장시설에 새로 입주할 수 있게 된 분야는 건설산업기본법에 따른 종합·전문건설업을 비롯해 전기공사업, 정보통신공사업, 소방시설공사업 등이다. 인공 광원과 환경 감지 설비, 양액...",
-    "published_at": "2026-09-29T10:47:00+09:00",
-    "cluster_id": "ea6d",
-    "publisher": "munhwa.com",
-    "title_clean": "“건설업·스마트팜도 허용”…하남시 적극행정, 지식산업센터 빗장 열...",
-    "summary": "하남시가 지식산업센터 내 공장시설에 건설업·전기공사업·정보통신공사업·소방시설공사업 등 신규 업종 입주를 허용하기로 결정했다. 스마트팜 등 신산업도 포함되어 시장 확대 기회가 생겼다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T11:10:30+09:00",
-    "importance": 2
   }
 ]
