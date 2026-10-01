@@ -5372,6 +5372,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, ‘AAA등급’ ABS 2000억원 추가 발행… 총 8000억원 유동성 확보 - 비즈트리뷴",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fT2l4Tm9YRlJ2bmFLYlQ4eWJuQnJuVXhsQ3pMa1JZRTlZZld3eUc1TFp3Y3ZpM3k3R2dGazd5MTM3VzBON3drOUVBTjlELTlRWVNiRU83QnoyZW85anQ1Zjctb0JpVzFQRlEwWTVabw?oc=5",
+    "description": "롯데건설이 고금리와 부동산 프로젝트파이낸싱(PF) 시장 불확실성이 이어지는 가운데 자체 개발한 금융상품을 활용해 대규모 유동성 확보에 잇따라 성공하고 있다. 공사대금채권을 활용한 자산유동화증권(ABS)을 통해 조달원을 다변화하는 동시에 조달 비용을 낮추면서 재무구조 개선에도 속도를 내고 있다.롯데건설이 자체 개발한 공사대금채권 유동화 금융상품을 통해 최고 신용등급인 AAA로 2000억원 규모의 3차 자산유동화증권(ABS) 발행에 성공했다고 1일 밝혔다.롯데건설은 지난 5월과 7월 각각 3000억원 규모의 공사대금채권 ABS를 발행했",
+    "published_at": "2026-10-01T22:31:54+09:00",
+    "cluster_id": "71e6",
+    "publisher": "비즈트리뷴",
+    "title_clean": "롯데건설, ‘AAA등급’ ABS 2000억원 추가 발행… 총 8000억원 유동성 확보",
+    "summary": "롯데건설이 공사대금채권 기반 자산유동화증권(ABS)으로 총 8000억원의 유동성을 확보했다. AAA 최고 신용등급으로 조달 비용을 절감하면서 PF 시장 불확실성 속에서도 재무구조 개선에 성공하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T22:36:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21351,22 +21367,6 @@
     "publisher": "sidae.com",
     "title_clean": "AI 인프라 전력 대안 연료전지 시장 커진다",
     "summary": "두산퓨얼셀이 미국 자회사 하이엑시엄과 3222억원 규모의 PAFC 공급계약을 체결하며 미국 시장 진출을 가속화하고 있다. 이달 초 5014억원 계약에 이어 2주 만에 추가 수주로 AI 인프라용 연료전지 시장 확대가 이루어지고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-26T06:07:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "추석 뒤 분양 쏟아진다…10월 전국 3만가구 공급 - ajunews.com",
-    "link": "https://www.ajunews.com/view/20260923144746885",
-    "description": "HDC현대산업개발은 광주 동구 학동에서 '아이파크 무등산 스카이포레'를 분양한다. 학동4구역 주택재개발사업으로 지하 3층~지상 29층, 19개 동, 총 2299가구 규모로 조성되며 일반분양 물량은 1387가구다....",
-    "published_at": "2026-09-26T06:02:00+09:00",
-    "cluster_id": "2ffd",
-    "publisher": "ajunews.com",
-    "title_clean": "추석 뒤 분양 쏟아진다…10월 전국 3만가구 공급",
-    "summary": "추석 이후 10월에 전국적으로 3만가구 규모의 아파트 분양이 예정되어 있으며, HDC현대산업개발이 광주 학동에서 2299가구 규모의 '아이파크 무등산 스카이포레'를 분양한다. 이는 건설업계에 수주 기회 증가로 작용할 것으로 보인다.",
     "sentiment": "positive",
     "collected_at": "2026-09-26T06:07:42+09:00",
     "importance": 2
