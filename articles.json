@@ -21338,6 +21338,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, AAA등급 ABS 2000억 추가 발행...올해 8000억 조달 - 뉴스웨이브",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6RTZZNlNEaVQxRS1tQmdiV0JoQ1FVSXJUUGNmSmw2XzNCYjZEUW9oSkxLbjIzcGJka1B5ZElHcWY3aDlRbGFybGttTHlIcllTemw4RmROX1VHRHpudmpfdi1OM25qVm5VMUE?oc=5",
+    "description": "뉴스웨이브 = 송채은 기자롯데건설이 올해 공사대금채권을 기초자산으로 한 자산유동화증권(ABS)을 통해 8000억원을 조달했다.선제적 유동성 확보와 함께, 롯데건설은 PF 우발채무 관리에도 속도를 내며 재무안정성을 한층 강화할 방침이다. 롯데건설은",
+    "published_at": "2026-10-01T14:14:58+09:00",
+    "cluster_id": "4dbc",
+    "publisher": "뉴스웨이브",
+    "title_clean": "롯데건설, AAA등급 ABS 2000억 추가 발행...올해 8000억 조달",
+    "summary": "롯데건설이 공사대금채권 기반 ABS 2000억원을 추가 발행하여 올해 총 8000억원 조달을 완료했다. AAA등급 평가를 받으며 유동성 확보와 함께 PF 우발채무 관리를 통해 재무안정성을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T20:31:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32295,22 +32311,6 @@
     "summary": "2024년 2분기 건설공사 계약액이 80.9조원으로 전년 동기 대비 27.3% 급증하며 최근 10년 최고 수준을 기록했다. 민간 반도체 시설과 공공 에너지·주택 사업이 성장을 주도했으며, 공공과 민간 부문 모두 호조를 보였다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T10:55:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "하남시, 법 개정 대신 '지자체장 권한' 꺼냈다…지식산업센터 규제 직접... - g-enews.com",
-    "link": "https://www.g-enews.com/view.php?ud=202609291032506508a141c47927_1",
-    "description": "건설·공사업 단독 입주 길 열고 스마트팜까지 확대 추가 지정 대상에는 건설산업기본법에 따른 종합·전문건설업을 비롯해 전기공사업, 정보통신공사업, 소방시설공사업 등이 포함됐다. 첨단산업 분야의 입주 폭도...",
-    "published_at": "2026-09-29T10:40:00+09:00",
-    "cluster_id": "d40d",
-    "publisher": "",
-    "title_clean": "하남시, 법 개정 대신 '지자체장 권한' 꺼냈다…지식산업센터 규제 직접... - g-enews.com",
-    "summary": "하남시가 지자체장 권한으로 지식산업센터 입주 대상을 확대하여 건설·공사업(종합·전문건설업, 전기공사업, 정보통신공사업, 소방시설공사업 등)과 스마트팜까지 허용했다. 법 개정 없이 규제를 직접 완화하여 건설업계의 입주 기회를 증가시켰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T10:50:27+09:00",
     "importance": 2
   }
 ]
