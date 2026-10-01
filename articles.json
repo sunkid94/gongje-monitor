@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비협회 부산시회, 2026 부산건설 역량강화사업 워크숍 실시 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52088",
+    "description": "대한기계설비건설협회 부산시회(회장 엄세현)는 1일 부산시 부산진구 양정동 소재 부산기계설비건설회관 회의실에서 ‘2026 부산 건설산업 역량강화 지원 용역 중간보고회 및 워크숍’<사진>을 개최했다고 밝혔다.2026 부산시 건설산업 역량강화사업은 시회가 부산시, 전문건설협회 부산시회, 전기공사협회 부산시회, 소방시설협회 부산시회와 공동으로 지역 전문건설업체의 역량 강화를 위해 역점적으로 추진 중인 부산 건설산업을 활성화 사업의 일환이다.이날 중간보고회에는 부산시 건설행정과 하도급팀과을 비롯해 각 협회, 용역사업자인 유담컨설팅에서 참여했",
+    "published_at": "2026-10-01T16:36:00+09:00",
+    "cluster_id": "319a",
+    "publisher": "기계설비신문",
+    "title_clean": "기계설비협회 부산시회, 2026 부산건설 역량강화사업 워크숍 실시",
+    "summary": "대한기계설비건설협회 부산시회가 부산시, 전문건설협회 등 4개 기관과 함께 지역 전문건설업체의 역량 강화를 위한 '2026 부산 건설산업 역량강화 지원 용역 중간보고회 및 워크숍'을 개최했다. 부산 건설산업 활성화를 위한 역점 추진 사업의 일환이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T16:41:29+09:00",
+    "event_label": "대한기계설비건설협회 2026 부산 건설산업 역량강화 워크숍 개최",
+    "importance": 5
+  },
+  {
     "keyword": "기계설비건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5132,6 +5149,22 @@
     "collected_at": "2026-09-01T17:46:07+09:00",
     "event_label": "전문건설공제조합 관련 협회, 전문건설 보호구간 확대 및 영구화 건의",
     "importance": 5
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설 라운지] 삼성물산·GS건설·대우건설·롯데건설·DL이앤씨...\"주거 기술 고도화·해외 인프라 공략\" - 한국면세뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92LXZpc3g5czhLS1FOY21DYjBuc1R6WklScEVVdUk3UWtmN1BiVG91N2t2SDJPdm5Cb2NhMldadTN2eDNpZWV1M01hX19yRmtLOGtnUmZBdlVTNjFrVXk2Q3ZHX1dJeWFqNHc?oc=5",
+    "description": "건설사들이 내진 기술 개발과 신규 분양, 해외 인프라 사업을 추진하며 사업 영역을 넓히고 있다. 공사대금채권 유동화와 정비사업 금융기관 협약 등 자금 확보와 사업 지원을 위한 움직임도 이어지고 있다.삼성물산 건설부문은 ‘PC 특수모멘트 보·기둥 건식 접합 공법’으로 한국콘크리트학회의 기술 인증을 받았다고 밝혔다. 이 공법은 공장에서 제작한 콘크리트 기둥과 보를 현장에서 철골 브라켓과 볼트로 연결하는 방식이다. 삼성물산은 2024년 중간모멘트 골조 성능 인증을 받은 뒤 접합부 구조를 개선해 특수모멘트 골조 수준의 내진성능을 확보했다.",
+    "published_at": "2026-10-01T16:37:54+09:00",
+    "cluster_id": "d21b",
+    "publisher": "한국면세뉴스",
+    "title_clean": "[건설 라운지] 삼성물산·GS건설·대우건설·롯데건설·DL이앤씨...\"주거 기술 고도화·해외 인프라 공략\"",
+    "summary": "삼성물산, GS건설 등 주요 건설사들이 내진 기술 개발, 신규 분양, 해외 인프라 사업 추진으로 사업 영역을 확대하고 있다. 삼성물산은 PC 특수모멘트 보·기둥 건식 접합 공법으로 한국콘크리트학회 기술 인증을 받으며 내진성능을 강화했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T16:41:29+09:00",
+    "importance": 2
   },
   {
     "keyword": "롯데건설",
@@ -21118,19 +21151,19 @@
     "importance": 3
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "포항 복지관들, 추석 앞두고 취약계층 650가구에 나눔 - newstown.co.kr",
-    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=716815",
-    "description": "이번 나눔에는 국민건강보험공단 포항남부지사와 국민연금공단 포항지사, 한국토지주택공사 대구경북지역본부, 한국산업단지공단 포항지사, 디비(DB)손해보험 포항사업단, 포스코이앤씨, 현대제철, 현대자동차...",
-    "published_at": "2026-09-23T18:42:00+09:00",
-    "cluster_id": "51b7",
-    "publisher": "newstown.co.kr",
-    "title_clean": "포항 복지관들, 추석 앞두고 취약계층 650가구에 나눔",
-    "summary": "포항 지역의 복지관들이 추석을 앞두고 포스코이앤씨, 현대제철, 현대자동차 등 지역 주요 기업들과 함께 취약계층 650가구에 생필품을 나눔하는 사회공헌활동을 펼쳤다. 건설 및 제철 관련 대형 기업들이 지역사회 복지 개선에 적극 동참하는 모습을 보여주고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-23T18:54:05+09:00",
+    "title": "'원자력안전위원회, 체코 신규원전 안전규제 협력 강화 - 에너지안전신문",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjTk92cHRJRXZUSmdJOUxEWWRJRnpJWVZ5d3hUV0J2MVhBdG9FR1Y3OXlaQWdXVlVWV3hqSm4zbVVzelZYSzRsWGlERkQ4T1M5Vm1RU05kRFpjLVRNd19URm91clY?oc=5",
+    "description": "최원호 원자력안전위원회(원안위) 위원장은 1일 서울에서 체코 원자력안전청(SUJB), 국립방사선방호연구소(SURO) 대표단과 고위급 면담을 갖고 체코 신규원전 건",
+    "published_at": "2026-10-01T16:31:00+09:00",
+    "cluster_id": "5bac",
+    "publisher": "에너지안전신문",
+    "title_clean": "'원자력안전위원회, 체코 신규원전 안전규제 협력 강화",
+    "summary": "원자력안전위원회가 체코와 신규원전 안전규제 협력을 강화하기로 합의했다. 이는 한국 원전기업의 해외 수주 기반을 마련하고 국제 협력을 통해 원전산업 활성화를 도모하는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T16:41:29+09:00",
     "importance": 2
   },
   {
@@ -32268,37 +32301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-28T16:48:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL이앤씨, 中企와 기술협력 강화… 혁신기술 발굴 - biz.chosun.com",
-    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/28/2O6B5K44HVG3LAYPBUJ2XXBIKI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "양사는 공동 연구개발을 통해 기술을 고도화했으며, 해당 기술은 국토교통부 건설신기술 인증을 획득해 현재 아크로와 e편한세상 현장에 적용되고 있다. 강남제비스코와는 2021년부터 ‘공동주택 내구성 향상 페인트’...",
-    "published_at": "2026-09-28T16:38:00+09:00",
-    "cluster_id": "5c0a",
-    "publisher": "biz.chosun.com",
-    "title_clean": "DL이앤씨, 中企와 기술협력 강화… 혁신기술 발굴",
-    "summary": "DL이앤씨가 중국 기업과의 기술협력을 강화하며 공동 연구개발을 통해 건설신기술 인증을 획득했다. 개발된 기술이 아크로, e편한세상 등 현장에 적용되고 있으며, 페인트 등 건설자재 혁신기술 발굴을 지속 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-28T16:48:57+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[건설업계 8월 동향] DL이앤씨, 안전경영·사회공헌 집중 추진 - wsobi.com",
-    "link": "http://www.wsobi.com/news/articleView.html?idxno=318849",
-    "description": "DL이앤씨는 전국 건설현장 안전관리 강화 조치의 일환으로 지난달 1일 DL이앤씨 박상신 대표이사가 직접 천안 성성 현장을 찾아 안전실태 점검을 실시하고 폭염에 지친 근로자들을 격려했다. 박 대표는 이 자리에서 현장...",
-    "published_at": "2026-09-28T16:44:00+09:00",
-    "cluster_id": "b037",
-    "publisher": "wsobi.com",
-    "title_clean": "[건설업계 8월 동향] DL이앤씨, 안전경영·사회공헌 집중 추진",
-    "summary": "DL이앤씨가 전국 건설현장의 안전관리 강화를 위해 대표이사가 직접 현장을 방문하여 안전실태를 점검하고 근로자들을 격려하는 등 안전경영과 사회공헌에 집중하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-28T16:48:57+09:00",
-    "importance": 2
   }
 ]
