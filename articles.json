@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비 신기술 한자리에… 대구서 기계 신기술 학술대회 - newsclaim.co.kr",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077180",
+    "description": "대한기계설비건설협회 대구시회가 주관한 이번 학술대회는 기계설비 산업의 최신 기술과 제도 변화를 공유하고 산·학·연·관 간 협력 방안을 모색하기 위해 마련됐다. 특히 올해는 기계설비법 개정에 따른 제도 변화와...",
+    "published_at": "2026-10-01T19:22:00+09:00",
+    "cluster_id": "c8d2",
+    "publisher": "newsclaim.co.kr",
+    "title_clean": "기계설비 신기술 한자리에… 대구서 기계 신기술 학술대회",
+    "summary": "대한기계설비건설협회 대구시회가 기계설비 산업의 최신 기술과 제도 변화를 공유하기 위해 학술대회를 개최했다. 올해는 기계설비법 개정에 따른 제도 변화를 중심으로 산·학·연·관 간 협력 방안을 모색했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-01T19:30:39+09:00",
+    "event_label": "대한기계설비건설협회 기계설비 신기술 학술대회 개최",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5285,6 +5302,22 @@
     "collected_at": "2026-09-02T08:12:38+09:00",
     "event_label": "건설공제조합 관련 서희건설 유동성 위기",
     "importance": 7
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "원전업계, 종주국 美서 발전소 시공 경험 ‘대박’…LNG업계는 신중모드... - segye.com",
+    "link": "https://www.segye.com/newsView/20261001517380?OutUrl=naver",
+    "description": "우선 원전 건설과 기자재 납품에 참여하는 한수원과 두산에너빌리티, 현대건설이 수혜를 입을 것으로 보인다. 원전 종주국인 미국에 발전소를 건설했다는 ‘트랙 레코드’(시공 경험)까지 얻을 수 있다. 시공 경험을...",
+    "published_at": "2026-10-01T19:17:00+09:00",
+    "cluster_id": "9150",
+    "publisher": "segye.com",
+    "title_clean": "원전업계, 종주국 美서 발전소 시공 경험 ‘대박’…LNG업계는 신중모드...",
+    "summary": "한수원, 두산에너빌리티, 현대건설 등이 미국 원전 발전소 건설 사업에 참여하여 수주 기회를 얻게 됨. 원전 종주국인 미국에서의 시공 경험이라는 글로벌 트랙 레코드를 확보할 수 있어 향후 해외 수주 경쟁력 강화 가능.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T19:30:39+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -21271,22 +21304,6 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "실적은 살아났는데 안전 리스크는 못 끊었다…대우건설, 중대재해 사망... - greened.kr",
-    "link": "https://www.greened.kr/news/articleView.html?idxno=350809",
-    "description": "대우건설 본사 전경. [사진=대우건설] 중대재해처벌법 시행 이후 대우건설 시공현장에서 발생한 사고사망자가 주요 건설사 가운데 가장 많은 것으로 나타났다. 올해 상반기 실적은 급반등했지만, 반복된 중대재해와...",
-    "published_at": "2026-09-25T10:21:00+09:00",
-    "cluster_id": "10c0",
-    "publisher": "greened.kr",
-    "title_clean": "실적은 살아났는데 안전 리스크는 못 끊었다…대우건설, 중대재해 사망...",
-    "summary": "대우건설이 중대재해처벌법 시행 이후 주요 건설사 중 사고사망자가 가장 많은 것으로 나타났다. 올해 상반기 실적은 호조를 보였으나 반복되는 중대재해로 안전 리스크가 해소되지 않고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-25T10:32:46+09:00",
-    "importance": 4
-  },
-  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32293,21 +32310,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T10:39:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "쿡 美연준 이사 \"AI, 인플레 부추겨…추가 금리 인상은 데이터 따라 결... - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20260929_0003806527",
-    "description": "다만 데이터센터 투자가 건설 노동력, 에너지 등 다른 여러 분야에도 파급력을 미치듯 AI 수요 증가에 따른 경제 전반의 압박이 있으며, AI 투자가 향후 더 늘어날 것이기 때문에 관련 수요도 더욱 증가할 것이라고...",
-    "published_at": "2026-09-29T10:22:00+09:00",
-    "cluster_id": "0230",
-    "publisher": "newsis.com",
-    "title_clean": "쿡 美연준 이사 \"AI, 인플레 부추겨…추가 금리 인상은 데이터 따라 결...",
-    "summary": "미국 연준 이사가 AI로 인한 인플레이션 우려를 제기하며 추가 금리 인상은 데이터에 따라 결정될 것이라고 밝혔습니다. AI 수요 증가로 데이터센터 투자가 건설·에너지 등 건설업계 전반에 파급 효과를 미치고 있으며, 향후 관련 수요가 더욱 증가할 것으로 전망됩니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T10:39:41+09:00",
-    "importance": 2
   }
 ]
