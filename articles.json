@@ -21168,6 +21168,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안전의무 위반 산재로 1년간 3명 사망 땐 영업익 최대 5% 과징금 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43ajkzSVZ0VUhTR2s5TV9fbFhWbWlPUUpidUdfQmxVUC0zRmt1Y0VaSXc3V2hjOC1YV1dlLVJvb0xKeWo2X1FSRWpXWldRZy0yb1RPUHo4N2RDQkROSUhnaXBkR3Zzb21oTDBHYg?oc=5",
+    "description": "사업주가 산업안전보건법상 안전·보건조치 의무를 위반해 최근 1년간 노동자 3명 이상이 산업재해로 사망한 경우 영업이익의 최대 5%까지 과징금을 부과할 수 있도록",
+    "published_at": "2026-10-01T17:00:22+09:00",
+    "cluster_id": "b115",
+    "publisher": "기계설비신문",
+    "title_clean": "안전의무 위반 산재로 1년간 3명 사망 땐 영업익 최대 5% 과징금",
+    "summary": "산업안전보건법 위반으로 1년간 3명 이상 사망 시 영업이익의 최대 5% 과징금을 부과하는 규제가 강화된다. 건설업계에 안전의무 준수에 대한 부담이 증가할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-01T17:16:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32286,21 +32302,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-28T17:48:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "지역 제조업 실효성 있는 정책 지원 절실 - jndn.com",
-    "link": "http://www.jndn.com/article.php?aid=1790584629440342008",
-    "description": "광주상공회의소가 광주지역 제조업체를 대상으로 한 4분기 경기전망지수 조사 결과 전분기의 83보다는 조금 상승한 86으로 나타났지만, 원유·원자재 수급 불안과 단가 부담, 건설경기 침체, 고물가·고환율에 따른 내수...",
-    "published_at": "2026-09-28T17:40:00+09:00",
-    "cluster_id": "2990",
-    "publisher": "jndn.com",
-    "title_clean": "지역 제조업 실효성 있는 정책 지원 절실",
-    "summary": "광주상공회의소의 4분기 경기전망지수가 전분기 83에서 86으로 소폭 상승했으나, 원유·원자재 수급 불안, 단가 부담, 건설경기 침체, 고물가·고환율 등으로 제조업이 어려움을 겪고 있다. 지역 제조업 활성화를 위한 실효성 있는 정책 지원이 필요한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-28T17:43:53+09:00",
-    "importance": 4
   }
 ]
