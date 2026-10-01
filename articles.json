@@ -21389,6 +21389,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "미분양 감소…대구시, 3년 8개월만에 신규공급 빗장 푼다 - munhwa.com",
+    "link": "https://www.munhwa.com/article/11620960?ref=naver",
+    "description": "대폭 줄이고, 지역하도급 참여비율 70% 이상을 적극 권장할 계획이다. 추 시장은 “이번 대책으로 시민이 원하는 양질의 주택이 안정적으로 공급되도록 유도하고 지역 건설경기에도 활력이 돋기를 기대한다”고 말했다.",
+    "published_at": "2026-10-02T06:34:00+09:00",
+    "cluster_id": "afe5",
+    "publisher": "munhwa.com",
+    "title_clean": "미분양 감소…대구시, 3년 8개월만에 신규공급 빗장 푼다",
+    "summary": "대구시가 3년 8개월 만에 신규 주택공급을 재개하며 미분양 감소에 나선다. 지역하도급 참여비율 70% 이상을 권장하여 지역 건설경기 활성화를 도모하는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-02T06:45:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32299,21 +32315,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T12:14:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이산하 대전교통공사 건축시설팀 차장, 제16회 산업안전지도사 건설안전부문 시험에 최종 합격 - 서울뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SWkxEZzBiWmtvVUwyRjFlM1dEYUpHYmNMQndoNWdDSkNXamZsTEtvVzdrb202bEUtTThLcjBPRUlFQ2tuTThaRmVOTTRIU0dKa01ZeElFZ2dEMHVhYXZIS3JjSTl1c3cwOVU4?oc=5",
-    "description": "【대전·충남 = 서울뉴스통신】 조윤찬 기자 = 대전교통공사는 건축시설팀 이산하 차장(사진)이 한국산업인력공단이 시행한 제16회 산업안전지도사 건설안전부문 시험에 최종 합격했다고 29일 밝혔다.산업안전지도사는 사업장의 안전에 관한 기술적 사항을 진단하고 안전성 평가와 개선지도, 유해·위험 방지대책 등에 대한 전문적인 지도와 컨설팅을 수행하는 국가전문자격이다.이 차장은 1차 산업안전보건법령 등 객관식 시험을 시작으로 2차 건설안전 분야 주관식 시험과 3차 면접시험까지 전 과정을 차례로 통과하며 한 해에 모든 시험을 합격하는 동차합격의 성과를 거뒀다.특히 이 차장은 공사 공채 1기로 2005년 10월 입사한 이후 21년째 도시철도 현장을 지켜온 건축시설 분야 실무자다. 2006년 도시철도 1호선 개통부터 22개 역사와 주요 시설물을 두루 경험하며 역사내 유니버설 디자인을 비롯해 시민들이 보다 편리하고 안전하게 이용할 수 있는 출입구와 건축공간을 구상하는 등 현장 중심의 시설 개선 업무를",
-    "published_at": "2026-09-29T12:03:57+09:00",
-    "cluster_id": "7893",
-    "publisher": "서울뉴스통신",
-    "title_clean": "이산하 대전교통공사 건축시설팀 차장, 제16회 산업안전지도사 건설안전부문 시험에 최종 합격",
-    "summary": "대전교통공사 건축시설팀 이산하 차장이 제16회 산업안전지도사 건설안전부문 시험에 최종 합격했다. 21년간 도시철도 현장에서 근무한 실무 경험을 바탕으로 1차, 2차, 3차 시험을 동차에 모두 통과했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-29T12:14:34+09:00",
-    "importance": 2
   }
 ]
