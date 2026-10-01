@@ -5338,6 +5338,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 베트남서 올해만 5건 3조8700억 수주…오몬3 발전소 84... - s-journal.co.kr",
+    "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44144",
+    "description": "두산에너빌리티가 베트남 국영에너지그룹(PVN)과 '오몬(O Mon)3 가스복합발전소' 건설공사 계약을 체결했다고 1일 전했다. 계약 규모는 약 8400억원이다. 두산에너빌리티는 PVN의 자회사인 베트남 에너지서비스...",
+    "published_at": "2026-10-01T20:20:00+09:00",
+    "cluster_id": "7a77",
+    "publisher": "",
+    "title_clean": "두산에너빌리티, 베트남서 올해만 5건 3조8700억 수주…오몬3 발전소 84... - s-journal.co.kr",
+    "summary": "두산에너빌리티가 베트남 국영에너지그룹(PVN)과 오몬3 가스복합발전소 건설공사 계약을 체결했으며, 계약 규모는 약 8,400억원이다. 올해 베트남에서만 5건 3조8,700억원 규모의 수주를 달성하며 해외 플랜트 사업을 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T20:36:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21320,22 +21336,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-25T12:47:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "건설현장서 로봇이 자재 나른다…클레빌·롯데건설 맞손 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=01876166645583728&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "자율주행 로봇 플랫폼 기업 클레빌이 롯데건설과 손잡고 건설현장의 자재운반 자동화에 나선다. 비포장도로와 좁은 작업공간에서도 움직일 수 있는 자율주행 로봇을 실제 건설현장에 투입해 활용 가능성을 검증한다....",
-    "published_at": "2026-09-25T12:46:00+09:00",
-    "cluster_id": "4820",
-    "publisher": "edaily.co.kr",
-    "title_clean": "건설현장서 로봇이 자재 나른다…클레빌·롯데건설 맞손",
-    "summary": "클레빌이 롯데건설과 협력하여 자율주행 로봇을 건설현장에 투입해 자재운반 자동화를 추진한다. 비포장도로와 좁은 작업공간에서도 작동 가능한 로봇의 현장 적용 가능성을 검증할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-25T12:47:42+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 PF",
