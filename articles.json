@@ -5372,6 +5372,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 2,000억 규모 3차 ABS 발행 성공 - SR타임스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TVlB0U2g2TGJ0VUtzME5icFVIcER1MEd4R29FSU8tUGhxYVhXd0pyNjlZbnE2V0JuMnByM0ZlYUpVQlJ4eHR5NVQwUHhNUml6RDhERmJhQ2drUmppMkhCSElCME5UUUXSAWtBVV95cUxOLWR5RzNzcFBNWTJqSEh6RWhTbUY3NTFFTnJYenhmLThrR1ptM1Ztck1BSlpVdTlIa1VJc3F3TDE3RHZsN1loQkhodFVYX3hERUt1LUZBMl9OaTJlWjV2Qk1oWVdZd2k1WEtWQQ?oc=5",
+    "description": "[SRT(에스알 타임스) 안병용 기자] 롯데건설이 자체 개발한 공사대금채권 유동화 금융상품을 통해 2,000억원 규모의 자산유동화증권(ABS) 발행에 성공했다.1일 롯데건설에 따르면 이번에 발행된 3차 유동화증권은 2,000억원 규모에 만기 1년 조건으로 전량 매각됐다. 신용등급은 최",
+    "published_at": "2026-10-01T21:29:43+09:00",
+    "cluster_id": "01d9",
+    "publisher": "SR타임스",
+    "title_clean": "롯데건설, 2,000억 규모 3차 ABS 발행 성공",
+    "summary": "롯데건설이 공사대금채권 유동화를 통해 2,000억원 규모의 3차 ABS를 성공적으로 발행했다. 이는 건설사의 자금 조달 다변화 및 유동성 확보 수단으로 기능하며 건설업계의 금융 건전성을 보여주는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-01T21:36:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21356,20 +21372,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[분양 스케치] '청약미달' 시티오씨엘 9단지 DCRE 자금회수 시험대 - bloter.net",
-    "link": "https://www.bloter.net/news/articleView.html?idxno=674363",
-    "description": "사업주체는 코리아신탁으로 IPARK현대산업개발·현대건설·포스코이앤씨가 공동 시공한다. OCI홀딩스는 시티오씨엘 후속 단지 분양을 DCRE의 현금흐름 개선과 연결해왔다. 2024년에는 7·8단지 분양을 통한...",
-    "published_at": "2026-09-25T15:00:00+09:00",
-    "cluster_id": "d1cf",
-    "publisher": "bloter.net",
-    "title_clean": "[분양 스케치] '청약미달' 시티오씨엘 9단지 DCRE 자금회수 시험대",
-    "summary": "시티오씨엘 9단지가 청약미달을 기록하며 사업주체 코리아신탁과 시공사들의 자금 회수 능력이 시험대에 오르게 됐다. OCI홀딩스가 후속 단지 분양을 통해 DCRE의 현금흐름 개선을 도모하고 있으나 시장 수요 부진으로 난항이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-25T15:07:57+09:00",
-    "importance": 4
+    "title": "[인사]고용노동부 - 안전신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbXlRT2pCdlVQTWN3aXE0M2FPT0MzRmxOeE1JemtBSkt0WHdoaEdOVWlfWXdZTGxBNWVmMFJmU0tEZGNrR0FmcmxmMXdIMUp5VVhQeExFcVRiNlRqWUVodzVoM21pM3FRdG9aNlI4WWs?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbXlRT2pCdlVQTWN3aXE0M2FPT0MzRmxOeE1JemtBSkt0WHdoaEdOVWlfWXdZTGxBNWVmMFJmU0tEZGNrR0FmcmxmMXdIMUp5VVhQeExFcVRiNlRqWUVodzVoM21pM3FRdG9aNlI4WWs?oc=5\" target=\"_blank\">[인사]고용노동부</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">안전신문</font>",
+    "published_at": "2026-10-01T15:26:05+09:00",
+    "cluster_id": "7819",
+    "publisher": "안전신문",
+    "title_clean": "[인사]고용노동부",
+    "summary": "고용노동부 인사 소식 관련 기사입니다. 건설업계와 기계설비건설공제조합에 직접적인 영향을 판단하기 어려운 일반 인사 발령 소식입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-01T21:36:43+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32296,22 +32312,6 @@
     "title_clean": "공공매입임대용 미분양주택 매입시 물량·선정기준·가격산정 방식 사전...",
     "summary": "공공매입임대용 미분양주택 매입 시 LH의 낮은 매입가격 책정으로 지방 건설사의 참여가 제한적이라는 지적이 제기되고 있습니다. 정부 개정안을 통해 물량·선정기준·가격산정 방식을 사전에 공개하는 방안을 검토 중입니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-29T11:10:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국표원, 도로 위 안전덮개 '복공판' 국가표준 마련 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oZ2pzR0hzODc2blNnTXYwQ3VSZl9EMjVPRlRxOTRieGlieUF3SnozbUw2b3pKQUF6a1NLR3hWOG5ENVk1clNCZThtZ2t5X254VlI3OXRxM3hrcEozNFVDaNIBeEFVX3lxTE91c21vemNiQ1hyR3d6UHhXNjFRTXFJN25zWURGdVdCcGNqX0tmU3JnMmNWY1Ffd0hXZXVSbTdLSEdsNzFnQ2VNSHNpZGFhTENTODFDZEtiZmgxTU1kN2pZLUszR1diYk5wdXltVUEwd205c0tWemtGTQ?oc=5",
-    "description": "[세종=뉴시스]김동현 기자 = 산업통상부 국가기술표준원은 건설현장에서 굴착된 노면을 복개하고 차량의 안전한 통행을 위해 설치하는 복공판의 성능 시험방법을 국가표준(KS)으로 오는 30일 제정·고시한다고 29일 밝혔다. 그동안 복공판은 차량 통행 안전과 직결되는 주요 가설기자재임에도 표준화된 시험방법이 없어 시험절차와 조건에 따라 결과가 달라지는 어려움이 있..",
-    "published_at": "2026-09-29T11:00:00+09:00",
-    "cluster_id": "9faa",
-    "publisher": "뉴시스",
-    "title_clean": "국표원, 도로 위 안전덮개 '복공판' 국가표준 마련",
-    "summary": "산업통상부 국가기술표준원이 건설현장의 도로 복공판에 대한 국가표준(KS)을 제정·고시한다. 그간 표준화된 시험방법이 없어 안전성 검증에 일관성이 부족했으나, 이번 표준 제정으로 성능 시험의 객관성과 안정성이 확보될 것으로 예상된다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-29T11:10:30+09:00",
     "importance": 2
   }
