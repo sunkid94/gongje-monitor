@@ -5304,6 +5304,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "작년보다 3배 늘어난 분양 물량…서울만 ‘공급 가뭄’ - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1697433/?sc=Naver",
+    "description": "포스코이앤씨는 경기 화성시 반송동 일원에서 ‘아크메르 동탄’을 분양할 예정이다. 지하 7층~지상 49층, 7개동, 전용 84~188㎡ 총 1808가구로 조성된다. 단지 앞에는 동탄인덕원선 반송역(공사 중·가칭)이 건설될...",
+    "published_at": "2026-10-03T07:06:00+09:00",
+    "cluster_id": "5b09",
+    "publisher": "dailian.co.kr",
+    "title_clean": "작년보다 3배 늘어난 분양 물량…서울만 ‘공급 가뭄’",
+    "summary": "포스코이앤씨가 경기 화성시에서 1808가구 규모의 '아크메르 동탄' 분양을 추진 중이며, 작년 대비 3배 증가한 분양 물량이 예상되고 있다. 다만 서울은 공급 부족 현상이 지속되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-03T07:13:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21285,22 +21301,6 @@
     "summary": "대우건설 컨소시엄이 용인 첨단시스템반도체 클러스터 국가산업단지 1공구(345만㎡ 규모) 낙찰자로 선정되었다. 시공책임형 CMR 방식으로 진행되는 대규모 국책 프로젝트로, 건설업계에 수주 기회를 제공한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T09:29:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[증시키워드] 삼성전자 배당락·반도체 변동성 확대…삼성전기·대우건... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2630128",
-    "description": "대우건설은 전날 애프터마켓에서 6.77% 오른 1만8620원으로 강세였다. 대우건설은 전날 한국토지주택공사(LH)로부터 ‘용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구’ 사업의 낙찰자로 선정됐다는...",
-    "published_at": "2026-09-29T08:16:00+09:00",
-    "cluster_id": "1ec5",
-    "publisher": "etoday.co.kr",
-    "title_clean": "[증시키워드] 삼성전자 배당락·반도체 변동성 확대…삼성전기·대우건...",
-    "summary": "대우건설이 LH로부터 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 사업의 낙찰자로 선정되었다. 이에 따라 대우건설 주가는 전날 애프터마켓에서 6.77% 상승했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T09:24:24+09:00",
     "importance": 2
   },
   {
