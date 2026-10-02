@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "박칠성 서울시의회 도시안전건설위원장, “신도림동 안양천 일대 수변 힐링공간 조성” - 파이낸스투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SMEZIRkxZRHd6cjVRU003OThWb0p6b2syX0hWclRrTkFBV1dTZ1Q2aFZ5R0pFSWk1SDlldkh4b3NMUFAtcnNXMUZ2ZFFsWTlOeVFPUGpvVUVDeFdSR1J4dHpOSEctbFd6cUp4VA?oc=5",
+    "description": "박칠성 서울시의회 도시안전건설위원장(더불어민주당·구로4)이 서울 구로구 신도림동 안양천 일대를 찾아 수변 힐링공간 조성 및 녹화사업 추진 방향을 점검했다.박 위원장은 지난 2일 신도림동 안양천 일대를 방문해 서울시와 구로구 관계 공무원들과 사업 예정지를 살펴보고 주민들이 편안하게 이용할 수 있는 수변공간 조성 방안을 논의했다.현재 구로구와 추진을 검토 중인 ‘안양천 수변 힐링공간 조성 및 녹화사업’은 지난해 총 20억원을 투입해 조성한 ‘안양천 구로피크닉가든’에 이어 안양천 일대 녹지와 휴식공간을 확충하는 사업이다.사업 대상은 신도",
+    "published_at": "2026-10-03T00:44:00+09:00",
+    "cluster_id": "57e5",
+    "publisher": "파이낸스투데이",
+    "title_clean": "박칠성 서울시의회 도시안전건설위원장, “신도림동 안양천 일대 수변 힐링공간 조성”",
+    "summary": "박칠성 서울시의회 도시안전건설위원장이 구로구 신도림동 안양천 일대 수변 힐링공간 조성 사업을 점검했다. 구로구에서 추진 중인 이 사업은 지난해 조성한 '안양천 구로피크닉가든'에 이어 안양천 일대의 녹지와 휴식공간을 확충하는 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-03T00:58:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32293,21 +32309,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T16:30:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, 건설노동자 '무료 세무상담' 지원 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=341464",
-    "description": "'세무사 무료 전화 상담 서비스' 홍보 포스터.(사진제공 : 건설근로자공제회) 건설근로자공제회가 세무 상담을 받기 어려운 건설노동자의 접근성을 높이기 위해 생활 밀착형 무료 세무상담 지원에 나선다....",
-    "published_at": "2026-09-29T16:12:00+09:00",
-    "cluster_id": "18e2",
-    "publisher": "국토일보",
-    "title_clean": "건설근로자공제회, 건설노동자 '무료 세무상담' 지원",
-    "summary": "건설근로자공제회가 건설노동자를 대상으로 세무사 무료 전화 상담 서비스를 시작하여 근로자의 세무 상담 접근성을 높인다. 생활 밀착형 지원으로 건설노동자의 세무 부담을 경감하려는 취지이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T16:30:51+09:00",
-    "importance": 2
   }
 ]
