@@ -5440,6 +5440,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "DL이앤씨, 성수2지구 2조137억 '무혈입성' 눈앞 - fetv.co.kr",
+    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=311176",
+    "description": "현장설명회에 나왔던 IPARK현대산업개발은 제안서를 내지 않았다. 조합은 9월 29일 DL이앤씨를 우선협상대상자로 정했다. 성수2지구는 지하 6층~지상 최고 65층, 11개 동, 2381가구로 다시 지어진다. 단지명에는...",
+    "published_at": "2026-10-02T11:46:00+09:00",
+    "cluster_id": "1f12",
+    "publisher": "fetv.co.kr",
+    "title_clean": "DL이앤씨, 성수2지구 2조137억 '무혈입성' 눈앞",
+    "summary": "DL이앤씨가 성수2지구 재개발사업 우선협상대상자로 선정되어 약 2조137억 규모 프로젝트 수주를 눈앞에 두고 있다. 성수2지구는 지하 6층~지상 65층, 11개 동 2381가구 규모로 재건축될 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-02T12:10:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21422,22 +21438,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-28T11:32:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "국감장의 '안전 최우선'은 현장에 닿았나 [기자수첩] - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204723",
-    "description": "당시 국토위 국감에는 현대건설과 대우건설, 포스코이앤씨, 현대엔지니어링, HDC현대산업개발(현 IPARK현대산업개발) 경영진 등이 출석했다. 맹성규 당시 국토위원장은 건설 현장 산업재해를 가장 시급히 개선해야 할...",
-    "published_at": "2026-09-28T11:16:00+09:00",
-    "cluster_id": "a0ef",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "국감장의 '안전 최우선'은 현장에 닿았나 [기자수첩]",
-    "summary": "국감에서 건설사 경영진들이 출석하여 산업재해 개선을 논의했으나, 기자는 국감의 '안전 최우선' 기조가 실제 현장에 얼마나 반영되었는지 의문을 제기하는 기사.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-28T11:23:15+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
