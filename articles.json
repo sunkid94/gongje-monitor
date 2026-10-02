@@ -5287,23 +5287,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, ‘꿈이있는푸른학교 지역아동센터’ 봉사활동 실시 - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91Vm16QVhjZzZaSkt4MjkyTVBCSGYzZV9aZ0Z0ZnRMZjlyTmV4S2lDSTdzWnAzMUwzR3lkVHRVaENLVklBcE1YU2phWTFXLUF1eEhHcDZSdGFSanA4a2tUVXZzYVBzTC1YcVc4?oc=5",
-    "description": "건설공제조합(이사장 이석용, 이하 조합)은 국제구호개발 NGO 플랜코리아와 협력하여 은평구에 있는 ‘꿈이있는푸른학교 지역아동센터’의 시설 개선 공사를 성공적으로 완료하고, 직원 봉사활동을 실시했다고 2일 밝혔다.이번 지원은 조합의 대표 사회공헌 사업인 ‘푸른꿈 자람터’ 프로젝트의 일환으로 추진됐다. 조합은 자금 선지원을 바탕으로 한 사전 공사를 통해 노후화로 인해 이용에 불편을 겪던 센터 내부 공간을 쾌적한 환경으로 변화시켰다. 이어 조합 직원으로 구성된 CG사랑나누리봉사단이 현장을 직접 방문해 센터 내,외부 대청소 등 마무리 환경",
-    "published_at": "2026-09-02T13:23:33+09:00",
-    "cluster_id": "0c2f",
-    "publisher": "한국건설신문",
-    "title_clean": "건설공제조합, ‘꿈이있는푸른학교 지역아동센터’ 봉사활동 실시",
-    "summary": "건설공제조합이 NGO 플랜코리아와 협력하여 은평구 지역아동센터의 시설 개선 공사를 완료하고 직원 봉사활동을 실시했다. '푸른꿈 자람터' 프로젝트의 일환으로 노후화된 센터를 쾌적한 환경으로 개선했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-02T21:49:47+09:00",
-    "event_label": "건설공제조합 지역아동센터 시설 개선 봉사활동 실시",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21302,6 +21285,22 @@
     "sentiment": "positive",
     "collected_at": "2026-09-29T09:09:19+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "노후 공동주택 재건축 현장의 석면 해체·제거, 안전기준 강화가 시급하다 - 대한청년일보",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MVXVQaUY0WnRFNWZXZ2NYM1JpZTFuZWZiQVR5bnZJX1VKMXI2Z1pBZlpyem1EamhiTWlyMDBSdU1hd0k?oc=5",
+    "description": "재건축·리모델링 확산과 석면 노출 위험 1990년대 이전에 건립된 노후 공동주택의 재건축·리모델링이 본격화하면서, 석면(아스베스토스, asbestos) 함유 건축 자재 해체·제거 작업의 안전관리가 현장 보건의 핵심 과제로 부상했다. 슬레이트 지붕재·천장 텍스·바닥재 등에서 석면이 확인되는 사례가 이어지는 가운데, 작업 중단과 주민 불안이 반복되고 있다. 이",
+    "published_at": "2026-10-02T16:05:04+09:00",
+    "cluster_id": "452f",
+    "publisher": "대한청년일보",
+    "title_clean": "노후 공동주택 재건축 현장의 석면 해체·제거, 안전기준 강화가 시급하다",
+    "summary": "1990년대 이전 건설 노후 공동주택의 재건축·리모델링 확산으로 석면 함유 건축자재 해체·제거 작업이 증가하고 있으며, 현장의 안전관리 문제와 주민 불안이 반복되고 있다. 석면 노출 위험에 대응하기 위해 안전기준 강화가 필요하다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-02T22:59:10+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
