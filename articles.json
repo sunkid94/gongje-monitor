@@ -21304,6 +21304,22 @@
     "importance": 5
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "고속철도 통합 뒤 이용객 11.9% 늘어 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37402",
+    "description": "KTX와 SRT 통합 뒤 고속철도 이용객이 늘고 수서역의 예매난과 열차 혼잡은 완화된 것으로 나타났다. 9월1일부터 27일까지 하루 평균 이용객은 지난해보다 11.9% 증가했다. 수서역은 공급 좌석을 약 30% 늘리면서 이용률이 4%포인트 낮아졌다. 운임 인하와 할인 확대 등으로 9월 한 달 이용객이 아낀 교통비는 약 228억원으로 집계됐다.국토교통부와 한국철도공사는 2일 서울역에서 철도 통합 기념행사를 열고 고속철도 통합 이후 운영 결과와 향후 계획을 공개했다. KTX와 SRT는 지난 9월 1일부터 통합 체제로 운행을 시작했고,",
+    "published_at": "2026-10-02T09:00:00+09:00",
+    "cluster_id": "87d0",
+    "publisher": "한국건설신문",
+    "title_clean": "고속철도 통합 뒤 이용객 11.9% 늘어",
+    "summary": "KTX와 SRT 통합 이후 고속철도 이용객이 전년 대비 11.9% 증가했으며, 수서역의 혼잡도 완화되었다. 운임 인하와 할인 확대로 이용객들이 9월 한 달간 약 228억원의 교통비를 절감했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-02T16:06:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32294,21 +32310,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T15:30:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설안전 전문가 된 대전교통공사 이산하 차장 - 대전일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4XzhTbHgwX090WkdRRUJoMW5YWXdxa056Wl96eW51TGZWdTVncDI1c1FhNHVWV3IzMlVOa2dhQXpJQi1ZaDZUVGstV3ZEZnFlSGs1UkJTVkdfcjFzaEhHNFdxckExRXZHS09BZE9Wb9IBc0FVX3lxTFBQUElJcUhuMGVvWF9TdVJkX2tVVU5RUzljRDFfMVNDVHRKSHdYdEt5V0M3RDdfUzNoLXFEejRSMFNkM1dPcDJ3THgxdG9BbXhQT0NwbG1URGdoWENaVGEtQVRoWnlkQzhPRFppRTdZTk9xQTA?oc=5",
-    "description": "대전도시철도 현장에서 20년 넘게 역사와 시설물을 관리해 온 실무자가 건설안전 분야 국가전문자격을 취득했다.대전교통공사 건축시설팀 이산하 차장이 한국산업인력공단의 제16회 산업안전지도사 건설안전부문 시험에 최종 합격했다. 이 차장은 산업안전보건법령 등을 평가하는 1차 객관식 시험부터 건설안전 분야 2차 주관식 시험, 3차 면접까지 한 해에 모두 통과했다.산업안전지도사는 사업장의 안전 상태를 진단하고 안전성 평가와 개선 지도, 유해·위험 방지대책 등에 관한 자문을 수행하는 국가전문자격이다.이 차장은 교통공사 공채 1기로 2005년 1",
-    "published_at": "2026-09-29T15:01:00+09:00",
-    "cluster_id": "7685",
-    "publisher": "대전일보",
-    "title_clean": "건설안전 전문가 된 대전교통공사 이산하 차장",
-    "summary": "대전교통공사 이산하 차장이 산업안전지도사 건설안전부문 자격을 취득했다. 20년 이상의 현장 경험을 바탕으로 국가전문자격을 획득하여 건설안전 분야 전문성을 인정받았다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-29T15:30:16+09:00",
-    "importance": 2
   }
 ]
