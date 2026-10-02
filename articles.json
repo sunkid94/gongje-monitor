@@ -5287,6 +5287,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 공사대금 ABS 8000억으로 확대…PF 우발채무도 2.2조대로 낮춘... - sateconomy.co.kr",
+    "link": "http://sateconomy.co.kr/news/view/1065610019451452",
+    "description": "3차 2000억원 추가 발행…5·7월 포함 누적 8000억원 2027년 상반기까지 공사비 4700억원 조기 회수 효과 ‘프로젝트 샬롯’ 선순위 1.2조 상환…남은 1조도 재구조화 ▲ 롯데건설이 공사대금채권을 활용한 자금조달...",
+    "published_at": "2026-10-02T19:50:00+09:00",
+    "cluster_id": "b32f",
+    "publisher": "sateconomy.co.kr",
+    "title_clean": "롯데건설, 공사대금 ABS 8000억으로 확대…PF 우발채무도 2.2조대로 낮춘...",
+    "summary": "롯데건설이 공사대금 ABS를 8000억원으로 확대 발행하여 자금 조달 역량을 강화했다. 이를 통해 PF 우발채무를 2.2조대로 낮추고 프로젝트 샬롯의 선순위 채무 1.2조를 상환하는 등 재무 구조를 개선했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-02T19:54:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21266,22 +21282,6 @@
     "publisher": "news.einfomax.co.kr",
     "title_clean": "대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰",
     "summary": "대우건설 컨소시엄이 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 낙찰에 성공했다. 반도체산업 육성을 위한 대규모 국책사업으로 건설업계에 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T08:59:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰…8686억원 규모 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1725934",
-    "description": "대우건설이 한국토지주택공사(LH)의 올해 최대 발주 물량으로 꼽히는 '용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구'를 품었다. 전체 사업지의 절반에 가까운 핵심 부지를 도맡으며 첨단 국책 인프라...",
-    "published_at": "2026-09-29T08:54:00+09:00",
-    "cluster_id": "ad30",
-    "publisher": "ebn.co.kr",
-    "title_clean": "대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰…8686억원 규모",
-    "summary": "대우건설 컨소시엄이 용인 반도체 국가산단 1공구를 8686억원 규모로 낙찰받았다. LH의 올해 최대 발주 물량으로 전체 사업지의 절반에 가까운 핵심 부지를 수주하는 대규모 프로젝트이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T08:59:16+09:00",
     "importance": 2
