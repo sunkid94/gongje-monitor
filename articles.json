@@ -5304,21 +5304,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, 은평구 지역아동센터 시설 개선 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=339966",
-    "description": "건설공제조합 임직원들이 서울 은평구 '꿈이있는푸른학교 지역아동센터'의 시설 개선 공사와 봉사활동을 마치고 기념촬영을 하고 있다.(사진제공 : 건설공제조합) 건설공제조합(이사장 이석용)이 지역 아동의 생활...",
-    "published_at": "2026-09-02T16:46:00+09:00",
-    "cluster_id": "9b58",
-    "publisher": "국토일보",
-    "title_clean": "건설공제조합, 은평구 지역아동센터 시설 개선",
-    "summary": "건설공제조합이 서울 은평구 지역아동센터의 시설 개선 공사와 봉사활동을 추진했다. 건설업계의 사회공헌 활동으로 지역 아동 생활환경 개선에 기여했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-02T16:49:53+09:00",
-    "event_label": "건설공제조합 은평구 지역아동센터 시설 개선 사회공헌활동",
-    "importance": 5
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "바다 위 '초고압 승압기' 구축…HD현대중공업, 태안 해상풍력 송전망 구... - lcnews.co.kr",
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=209185",
+    "description": "삼성중공업과 한화오션도 해양 구조물 건조 노하우를 바탕으로 탑사이드 및 부유식 구조물을 수주하고 있다. 최근에는 태안풍력발전이 충청남도 태안군 가의도리 해상에 500㎿급 해상풍력 단지의 송전 인프라 구축...",
+    "published_at": "2026-10-02T16:46:00+09:00",
+    "cluster_id": "d925",
+    "publisher": "lcnews.co.kr",
+    "title_clean": "바다 위 '초고압 승압기' 구축…HD현대중공업, 태안 해상풍력 송전망 구...",
+    "summary": "HD현대중공업이 태안 해상풍력 발전단지의 송전망 구축 사업을 수주했으며, 삼성중공업과 한화오션도 해양 구조물 건조 노하우를 바탕으로 해상풍력 관련 구조물 수주를 확대하고 있다. 재생에너지 인프라 확충에 따른 대형 해양 건설 프로젝트 수주 증가로 조선·해양 건설업계의 성장 기회가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-02T16:52:40+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -21303,22 +21302,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-28T21:59:08+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 용인 반도체 국가산단 1공구 수주…4169억원 규모 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026092821472393522",
-    "description": "대우건설이 삼성전자의 첫 반도체 생산라인이 들어설 예정인 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사를 수주했다. 대우건설은 28일 한국토지주택공사(LH)로부터 '용인 첨단시스템반도체 클러스터...",
-    "published_at": "2026-09-28T21:48:00+09:00",
-    "cluster_id": "90e5",
-    "publisher": "newsway.co.kr",
-    "title_clean": "대우건설, 용인 반도체 국가산단 1공구 수주…4169억원 규모",
-    "summary": "대우건설이 용인 첨단시스템반도체 클러스터 국가산업단지 1공구 조성공사를 4169억원 규모로 수주했다. 삼성전자의 첫 반도체 생산라인이 들어설 예정인 대규모 프로젝트로, 건설업계의 중요한 수주 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-28T21:59:08+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 신기술",
