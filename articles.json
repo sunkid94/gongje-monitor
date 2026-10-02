@@ -5287,6 +5287,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성重, LNG 운반선 20척 수주 달성…상선 목표치 140% '순항' - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wYmU1c29EVzkwWVdVNkY5UkdzQlUtbVJTSC16Z0pnek9zZFdzZDJ4WldvVmxXaEVUQ1dRNnQ1S1JCVUJiaUw1MDAzOFM3VEV0V2l5NHhnbFlSa0dyc1dKM0IySUhqV0JrMkwtSlczVWNtVEN3VGxWcDhn0gF_QVVfeXFMTVdYMFAyV2lzTUJUODd0RkRtMUZyTXNDX1NtNXh4M1lnNUVxeVBLUFNwbFVpRXhEckZwa2N3eVNfWTdQeFhFbzg0aE1HOGJvNHFFM2F0aWJUMG1Dakp4NjVUYmdtZlA2UGQzcVdZcUNfQXhXM1ZhNEdmdHZRbGlsdw?oc=5",
+    "description": "삼성중공업은 아시아 지역 선주로부터 LNG(액화천연가스) 운반선 2척 계약을 따내면서 올해 총 20척의 LNG 운반선을 수주했다고 2일 밝혔다. 이번 계약을 포함해 삼성중공업의 올해 상선 부문 수주 실적은 80억 달러로 올해 수주 목표 57억 달러의 140%다.",
+    "published_at": "2026-10-02T13:24:11+09:00",
+    "cluster_id": "26a0",
+    "publisher": "머니투데이",
+    "title_clean": "삼성重, LNG 운반선 20척 수주 달성…상선 목표치 140% '순항' - 머니투데이",
+    "summary": "삼성중공업이 아시아 지역 선주로부터 LNG 운반선 2척을 추가 수주하여 올해 총 20척의 LNG 운반선을 확보했다. 올해 상선 부문 수주 실적이 80억 달러로 목표치 57억 달러의 140%를 달성하며 실적 호조를 이어가고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-02T20:08:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21267,22 +21283,6 @@
     "title_clean": "IT서비스 업계, 제조 RX 주도권 경쟁 불붙었다",
     "summary": "삼성SDS를 포함한 IT서비스 업계가 제조업의 AI·로봇 기반 혁신(제조 RX)에서 주도권을 놓고 경쟁을 벌이고 있다. 삼성그룹 계열사 제조 현장에 피지컬 AI 로봇을 적용하고 있으며, 내년에는 생산설비와 로봇 연결 등 확대를 추진 중이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-29T08:59:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰 - news.einfomax.co.kr",
-    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436805",
-    "description": "용인 반도체 클러스터 국가산업단지 조성공사 1공구 및 2공구 위치[출처: 대우건설] 대우건설[047040] 컨소시엄이 한국토지주택공사(LH)가 발주한 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 낙찰자로...",
-    "published_at": "2026-09-29T08:54:00+09:00",
-    "cluster_id": "1b49",
-    "publisher": "news.einfomax.co.kr",
-    "title_clean": "대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰",
-    "summary": "대우건설 컨소시엄이 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 낙찰에 성공했다. 반도체산업 육성을 위한 대규모 국책사업으로 건설업계에 수주 기회를 제공한다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-29T08:59:16+09:00",
     "importance": 2
   },
