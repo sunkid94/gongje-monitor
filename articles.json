@@ -21304,6 +21304,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부 국감 임박…부동산 불안에 여야 화력 집중 전망 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ma2FfMUoyTUFnUTdMU295ZDVKYW9laWl0bGNMNWcwQS1FNzZMcUc3REdiTlBwZ011V0tOUU1lN1h0OFZRUjVSX1NpMTlZZ2Z4OTJEdDRjdW16dkpEaDVfdjZTaXg?oc=5",
+    "description": "[앵커멘트]국정감사 시즌이 돌아왔습니다. 올해에도 다양한 사안이 국감 테이블에 올라 각종 검증을 받을 것으로 보이는데요. 특히 ‘부동산시장 안정화’라는 국정과제를 수행하고 있는 국토교통부의 국감에서는 시장 불안 등을 두고 여야가 첨예한 대립을 보일 전망입니다. 최남영…",
+    "published_at": "2026-10-02T17:33:25+09:00",
+    "cluster_id": "a597",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "국토부 국감 임박…부동산 불안에 여야 화력 집중 전망",
+    "summary": "국정감사 시즌이 시작되며 국토교통부가 부동산시장 안정화 관련 정책에 대한 검증을 받을 예정이다. 시장 불안을 둘러싸고 여야가 첨예한 대립을 벌일 것으로 전망되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-03T06:38:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32294,21 +32310,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T16:45:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "DL이앤씨, 중소·전문기업과 공동 R&D 넘어 특허·인증·상품화까지…기술협력 지속 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yd2VDbGhHa1RxSUhUaUdoZGJXUnM1SV9xa2E0NlZULXo5SVpaeXNMMXhLb1BwOTh5YWJaazAzTm5mRGtXWFRhM2JCakVETDVoZHNiS2tqTnNlcEt0TjhmdVRmQVEwa3VUR21ONmhn?oc=5",
-    "description": "DL이앤씨가 중소·전문기업과 공동 연구개발(R&D)을 진행하고 실제 건설 현장에 적용하는 등 외부 기술협력을 확대하고 있다. 단순히 기술을 발굴하거나 일회성 실증에 그치지 않고 현장 적용과 사업화까지 연계하는 방식이다.29일 DL이앤씨에 따르면 회사는 성과공유형 기술..",
-    "published_at": "2026-09-29T16:31:15+09:00",
-    "cluster_id": "3ced",
-    "publisher": "아시아투데이",
-    "title_clean": "DL이앤씨, 중소·전문기업과 공동 R&D 넘어 특허·인증·상품화까지…기술협력 지속",
-    "summary": "DL이앤씨가 중소·전문기업과의 공동 R&D를 통해 개발한 기술을 실제 건설 현장에 적용하고 사업화까지 연계하는 기술협력을 확대하고 있다. 단순 실증을 넘어 특허 획득, 인증, 상품화 등 전주기적 지원으로 협력 생태계를 강화하는 추세다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T16:40:33+09:00",
-    "importance": 2
   }
 ]
