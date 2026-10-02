@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "전문건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문건설, 고유가·자재비·인건비 폭등 ‘3중고’…“공사비 안정화 최대 핵심” - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pT2NoYkdFWms2YjRUMldWNVZtTXhhdVN3VXF1ZUVmcnN1YUVNWmtIbTI3dGkwSlJZb2xQV1FZMjItd29kbzBxZl9jdXZoN2xyaU9BTDBvOHJSbjJVamNrS2VRdWQ2UVNrbmZReQ?oc=5",
+    "description": "전문건설업 계약액이 올해 3분기 모처럼 증가세를 기록하며 경기 회복 기미를 보였다. 전체 건설수주 증가에 힘입은 영향으로 외형상 성장세를 보였지만, 이는 공사비 인상분이 반영된 ‘명목금액(경상금액)’ 상승에 따른 착시 현상일 뿐 업황이 회복하는 단계는 아니라는 지적이다.실제 현장에서 느끼는 체감경기는 최근 3년 중 최악의 수준으로 업계에서는 우려를 넘어 울상을 짓고 있다.4분기 역시 뚜렷한 업황 개선은 어려울 전망이다. 양호한 수주·허가 지표에도 불구하고, 이란 전쟁 여파에 따른 공사비 상승 후폭풍과 구조적 악재가 겹치면서다.2일",
+    "published_at": "2026-10-02T14:12:37+09:00",
+    "cluster_id": "ce3c",
+    "publisher": "ER 이코노믹리뷰",
+    "title_clean": "전문건설, 고유가·자재비·인건비 폭등 ‘3중고’…“공사비 안정화 최대 핵심”",
+    "summary": "전문건설업이 3분기 계약액 증가를 기록했으나, 이는 공사비 인상분만 반영된 명목금액 상승일 뿐 실제 경기는 3년 중 최악 수준이다. 고유가, 자재비, 인건비 상승으로 인한 구조적 악재가 4분기 업황 개선을 어렵게 하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-03T02:23:48+09:00",
+    "event_label": "전문건설공제조합 회원사 고유가·자재비·인건비 폭등으로 경영 악화",
+    "importance": 7
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32293,21 +32310,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-29T16:30:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "2026년 러시아 목재가공산업 정보 - dream.kotra.or.kr",
-    "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=243785",
-    "description": "중국 내 건설경기가 부진한 가운데 EU가 중국산 활엽수 합판과 다층 목재 바닥재 등에 반덤핑 관세를 부과하는 등 중국산 목재제품에 대한 무역규제를 강화했고, 미·중 무역마찰도 이어지고 있다. 이에...",
-    "published_at": "2026-09-29T16:03:00+09:00",
-    "cluster_id": "aed3",
-    "publisher": "dream.kotra.or.kr",
-    "title_clean": "2026년 러시아 목재가공산업 정보",
-    "summary": "중국 건설경기 부진과 EU의 반덤핑 관세, 미·중 무역마찰 등으로 중국산 목재제품에 대한 무역규제가 강화되고 있다. 이는 러시아 목재가공산업의 수출 환경 변화를 초래하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T16:30:51+09:00",
-    "importance": 4
   }
 ]
