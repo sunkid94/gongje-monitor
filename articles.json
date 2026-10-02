@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "전문건설협회 경북도회, '장학금 1000만원' 전달 - bzeronews.com",
+    "link": "https://www.bzeronews.com/news/articleView.html?idxno=823391",
+    "description": "이철우 경북도지사는 \"건설경기가 어려운 상황에서도 매년 지역사회를 위해 나눔을 실천해 주시는 대한전문건설협회 경북도회에 깊이 감사드린다\"며 \"장학금은 경북의 미래를 이끌 인재를 키우는 데 소중히 사용하겠다...",
+    "published_at": "2026-10-03T00:26:00+09:00",
+    "cluster_id": "0a93",
+    "publisher": "bzeronews.com",
+    "title_clean": "전문건설협회 경북도회, '장학금 1000만원' 전달",
+    "summary": "대한전문건설협회 경북도회가 지역사회 나눔의 일환으로 장학금 1000만원을 전달했다. 이철우 경북도지사는 건설경기 어려움 속에서도 사회공헌을 실천하는 협회에 감사를 표했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-03T00:33:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32292,22 +32308,6 @@
     "summary": "건설근로자공제회가 건설노동자를 대상으로 세무사 무료 전화 상담 서비스를 시작하여 근로자의 세무 상담 접근성을 높인다. 생활 밀착형 지원으로 건설노동자의 세무 부담을 경감하려는 취지이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T16:30:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL그룹, 기술협력 생태계 확대…공동개발·사업화 속도 - bloter.net",
-    "link": "https://www.bloter.net/news/articleView.html?idxno=674642",
-    "description": "해당 기술은 국토교통부 건설신기술 인증을 획득해 현재 아크로와 e편한세상 현장에 적용되고 있다. 강남제비스코와는 2021년부터 '공동주택 내구성 향상 페인트'를 공동 개발해 페인트 분야 최초로 국토교통부...",
-    "published_at": "2026-09-29T16:05:00+09:00",
-    "cluster_id": "8bc4",
-    "publisher": "bloter.net",
-    "title_clean": "DL그룹, 기술협력 생태계 확대…공동개발·사업화 속도",
-    "summary": "DL그룹이 기술협력 생태계를 확대하며 국토교통부 건설신기술 인증을 획득한 기술을 아크로, e편한세상 등 현장에 적용하고 있다. 강남제비스코와 공동주택 내구성 향상 페인트를 공동개발하는 등 기술 기반 사업화를 가속화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T16:10:17+09:00",
     "importance": 2
   }
 ]
