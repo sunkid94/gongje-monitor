@@ -21304,6 +21304,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설안전·서울 집값·LH 개편…국토위 국감 '3대 쟁점' - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1411928",
+    "description": "사진=연합뉴스  오는 7일 시작되는 국회 국토교통위원회 국정감사에서는 건설현장 안전과 서울 집값 상승, 한국토지주택공사(LH) 조직개편이 건설·부동산 분야의 핵심 쟁점으로 떠오를 전망이다. GTX-A 삼성역...",
+    "published_at": "2026-10-03T08:30:00+09:00",
+    "cluster_id": "0866",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "건설안전·서울 집값·LH 개편…국토위 국감 '3대 쟁점'",
+    "summary": "국회 국토교통위원회 국정감사에서 건설현장 안전, 서울 집값 상승, LH 조직개편이 주요 쟁점으로 예상된다. 건설업계는 안전 규제 강화와 관련 이슈 지적에 직면할 전망이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-03T08:43:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32291,22 +32307,6 @@
     "publisher": "kado.net",
     "title_clean": "건설노조, 고성 출신 고 양회동 씨 산재 신청…\"노조 활동 관련 수사로...",
     "summary": "민주노총 건설노조가 노조 활동 관련 수사 중 분신으로 숨진 강원지부 간부의 사망을 산업재해로 인정해달라며 근로복지공단에 신청했다. 이는 건설업 내 노사갈등 심화 및 업계 이미지 악화를 반영하는 사건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T16:45:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김정재 의원 \"중대재해발생 업체, 사망사고 내고도 도로공사 발주 추가 수주\" - 에너지신문",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qS0ZkUVBEcUdTOEtOZWljYmcyU0Q1RC1FQl9iY2xaMkJsOVFDUDh1VVlXNFJwZllid1JYWk9VdHFPUGt3TGN5UkUzb1JKZ3dNMjY4YWZEUXRxeXR5RmhlaHQyaTRhN2ZjLVd0RTZnemtUdw?oc=5",
-    "description": "[에너지신문] 중대재해업체에 대한 입찰 감점제도가 도입됐으나 시행 이전 사고는 평가에서 제외됨에 따라 중대재해발생 업체가 한국도로공사 발주를 추가 수주하는 사례가 발생하고 있는 것으로 지적됐다.국회 국토교통위원회 소속 국민의힘 김정재 의원이 한국도로공사로부터 제출받은 자료에 따르면,",
-    "published_at": "2026-09-29T10:35:01+09:00",
-    "cluster_id": "82ee",
-    "publisher": "에너지신문",
-    "title_clean": "김정재 의원 \"중대재해발생 업체, 사망사고 내고도 도로공사 발주 추가 수주\"",
-    "summary": "중대재해 감점제도 시행 이전 사고는 평가에서 제외되는 제도적 허점으로 인해, 중대재해 발생 업체가 한국도로공사 발주를 계속 수주하고 있는 문제가 제기됐다. 김정재 의원이 제도 개선 필요성을 지적하며 감시 기능을 수행 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-29T16:45:41+09:00",
     "importance": 4
