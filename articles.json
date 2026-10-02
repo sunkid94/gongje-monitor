@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "박칠성 서울시의회 도시안전건설위원장, ‘화재감정연구센터’ 이전 개소 축하 - fntoday.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85ZEFxS2d4X2kxWGxGYWF3TjNaQUd6RE4wWENLQWF3OE9pay1EWi1rbjFDWFV0Q2p6dG1jMnNoaXExT1lDci1hMFhGTmdhbVFqVmF3amlWZVVkRHc0RE9nU2xYMWFsQ0Njanpibw?oc=5",
+    "description": "박칠성 서울시의회 도시안전건설위원장(더불어민주당·구로4)이 화재 현장에서 수집된 증거물을 과학적으로 분석하고 화재 원인을 규명하는 ‘화재감정연구센터’의 이전 개소를 축하했다.박 위원장은 지난 1일 서울소방학교에서 열린 화재감정연구센터 이전 개소식에 참석해 관계자들을 격려했다. 이날 행사에는 박 위원장을 비롯해 서울소방재난본부장, 서울소방학교장, 현장대응단장 등 소방 관계자 20여 명이 참석했다.화재감정연구센터는 기존 서울소방학교 종합훈련타워 8층과 9층에 나뉘어 있던 시설과 장비를 본관동 4층으로 이전했다. 기존에는 8층에 사무실과",
+    "published_at": "2026-10-02T13:43:16+09:00",
+    "cluster_id": "a852",
+    "publisher": "fntoday.co.kr",
+    "title_clean": "박칠성 서울시의회 도시안전건설위원장, ‘화재감정연구센터’ 이전 개소 축하",
+    "summary": "박칠성 서울시의회 도시안전건설위원장이 서울소방학교의 화재감정연구센터 이전 개소식에 참석해 축하했다. 센터는 기존 8·9층에서 본관동 4층으로 이전하여 화재 현장 증거물 분석 및 화재 원인 규명 업무를 보다 효율적으로 수행하게 된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-02T18:33:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32293,21 +32309,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T15:51:40+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설업 사고사망자 27% 감소…10년 내 최저 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026092914244459836",
-    "description": "건설경기 축에 따른 공사 물량 감소와 정부·업계의 안전관리 강화가 함께 영향을 미친 것으로 분석된다. 다만 건설경기가 회복된 이후에도 현재의 사고 감소 흐름을 이어가는 것이 과제로 제시됐다....",
-    "published_at": "2026-09-29T15:35:00+09:00",
-    "cluster_id": "d3f9",
-    "publisher": "imaeil.com",
-    "title_clean": "건설업 사고사망자 27% 감소…10년 내 최저",
-    "summary": "건설업 산업재해 사망자가 27% 감소하여 10년 내 최저 수준을 기록했다. 건설경기 악화에 따른 공사 물량 감소와 정부·업계의 안전관리 강화가 주요 원인으로 분석되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T15:51:40+09:00",
-    "importance": 3
   }
 ]
