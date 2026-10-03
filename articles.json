@@ -5270,23 +5270,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "가스공사업협의회, 인천 계양구 취약계층 '가스안전지킴이' 된다 - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=333859",
-    "description": "대한기계설비건설협회 가스공사업협의회(회장 김영태)는 3일 인천 계양구청에서 계양구청, 계양구지역사회보장협의체와 주거 취약계층의 화재 예방 및 안전한 주거환경 조성을 위한 '가스안전지킴이' 업무협약을...",
-    "published_at": "2026-09-03T10:34:00+09:00",
-    "cluster_id": "c633",
-    "publisher": "e2news.com",
-    "title_clean": "가스공사업협의회, 인천 계양구 취약계층 '가스안전지킴이' 된다",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 인천 계양구청, 지역사회보장협의체와 협약을 맺고 취약계층을 위한 '가스안전지킴이' 사업을 추진한다. 주거 취약계층의 화재 예방 및 안전한 주거환경 조성에 나선다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T10:39:53+09:00",
-    "event_label": "대한기계설비건설협회 가스공사업협의회 인천 계양구 가스안전지킴이 사업 추진",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21284,6 +21267,22 @@
     "summary": "대우건설이 LH가 발주한 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구를 약 8686억원 규모로 낙찰받았다. 올해 LH 발주 사업 중 대우건설의 주요 수주 성과다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T09:34:52+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "더불어민주당 충주시지역위원회, 간담회 개최 - ccreview.co.kr",
+    "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=359118",
+    "description": "이와 함께 서충주 산업단지 내 화물공영차고지 조성, 충주시 발주 공사에서 지역 인력과 장비 활용 확대, 건설노동자의 안전과 고용환경 개선 등 지역 노동자들이 현장에서 체감할 수 있는 현안에 대해 의견을 나눴다....",
+    "published_at": "2026-10-03T10:42:00+09:00",
+    "cluster_id": "0a96",
+    "publisher": "ccreview.co.kr",
+    "title_clean": "더불어민주당 충주시지역위원회, 간담회 개최",
+    "summary": "더불어민주당 충주시지역위원회가 간담회를 개최하여 서충주 산업단지 화물공영차고지 조성, 지역 인력·장비 활용 확대, 건설노동자 안전 및 고용환경 개선 등을 논의했다. 지역 건설 현장의 노동 환경 개선과 지역 경제 활성화에 초점을 맞춘 정책 논의로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-03T10:48:24+09:00",
     "importance": 2
   },
   {
