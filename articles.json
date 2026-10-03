@@ -5100,6 +5100,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "거제의 조선업, 현장 중심 R&D· 실증 역량 쌓아야 - 거제신문",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4OFVncnJmdkI4NFU0dm4wX1hyaU9xc3VZZWtRSG9GOGF1TWhQV0NEZks0V1FETklUd2RwWHVaWHlrdzZYRmNMSGhrV1hnem1uam1hRVRYZlltemxYLURSbDdzdUJoX012aEJPUll3?oc=5",
+    "description": "조선업이 다시 살아나고 있다. 수주와 생산이 회복되면서 삼성중공업과 한화오션의 경영 여건도 크게 나아졌다. 그러나 거제시민이 느끼는 지역경제의 온기는 여전히 차갑다.일감은 늘었지만, 지역 안에서 기술과 인재, 소비와 창업이 선순환하는 구조는 미흡하다. 지금 거제가 던져야 할 질문은 단순히 ‘조선업이 살아났는가’가 아니라, ‘조선산업의 성장이 거제의 지속 가능한 미래로 이어지고 있는가’이다.최근 양대 조선사가 부산의 엔지니어링·설계 기능을 확대하면서 거제시민의 우려가 커져 있다. 그러나 이를 단순히 ‘거제의 인재 유출’로만 바라보고",
+    "published_at": "2026-10-03T22:10:39+09:00",
+    "cluster_id": "07fd",
+    "publisher": "거제신문",
+    "title_clean": "거제의 조선업, 현장 중심 R&D· 실증 역량 쌓아야",
+    "summary": "거제 조선업이 수주와 생산 회복으로 경기 호황을 맞고 있으나, 지역 내 기술·인재 선순환 구조 미흡과 부산으로의 핵심 기능 이전으로 인한 지역경제 공동화가 문제다. 조선산업 성장이 거제의 지속 가능한 미래로 이어지기 위해 현장 중심의 R&D와 실증 역량 강화가 필요하다는 진단이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-03T22:47:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21079,22 +21095,6 @@
     "publisher": "sidae.com",
     "title_clean": "대우건설, 8686억원 용인 반도체 산단 1공구 수주",
     "summary": "대우건설이 LH가 발주한 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구를 8686억원에 수주했다. 올해 LH 발주 공사 중 최대 규모인 345만㎡ 규모의 대형 국책사업으로, 대우건설의 주간사 지분은 약 4169억원이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T09:39:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 컨소시엄, 8686억 규모 용인 반도체 국가산단 1공구 낙찰 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CdVlqcjNEdTltMGNSRkxPcUxoNTZ0NXBDZ3ZvUks1cTE2UU9mdEVvaS14LWVGZVBTTzRmMXdaVDI4Y18zSzZlRjhoRHlDUFBHOHhHMm1HZV9tY2QyS2RIcGQ5TzQtQkFza0s3TQ?oc=5",
-    "description": "대우건설은 회사가 참여한 컨소시엄이 한국토지주택공사(LH)가 발주한 ‘용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구’의 낙찰자로 선정됐다고 29일 밝혔다. 이번 프로젝트는 시공책임형 건설사업관리(CMR) 방식으로 발주됐으며, 대우건설 컨소시엄은 이번 사업..",
-    "published_at": "2026-09-29T09:33:28+09:00",
-    "cluster_id": "686c",
-    "publisher": "아시아투데이",
-    "title_clean": "대우건설 컨소시엄, 8686억 규모 용인 반도체 국가산단 1공구 낙찰",
-    "summary": "대우건설 컨소시엘이 LH가 발주한 용인 반도체 국가산단 1공구 프로젝트(8686억 규모)의 낙찰자로 선정되었다. CMR 방식의 대형 국책사업 수주로 건설업계에 긍정적인 신호를 보내고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T09:39:43+09:00",
     "importance": 2
