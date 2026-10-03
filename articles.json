@@ -5236,40 +5236,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "가스공사업협의회, 계양구 취약계층에 2천만원 지원 - todayenergy.kr",
-    "link": "https://www.todayenergy.kr/news/articleView.html?idxno=302414",
-    "description": "대한기계설비건설협회 가스공사업협의회(회장 김영태)는 9월 3일 인천 계양구청에서 계양구청, 계양구지역사회보장협의체와 함께 주거 취약계층의 화재 예방 및 안전한 주거환경 조성을 위한 '가스안전지킴이' 업무협약을...",
-    "published_at": "2026-09-03T10:52:00+09:00",
-    "cluster_id": "7d4c",
-    "publisher": "todayenergy.kr",
-    "title_clean": "가스공사업협의회, 계양구 취약계층에 2천만원 지원",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 인천 계양구의 주거 취약계층을 위해 2천만원을 지원하고 화재 예방 및 안전한 주거환경 조성을 위한 '가스안전지킴이' 업무협약을 체결했다. 이는 사회적 책임을 다하는 업계의 공익활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-03T11:09:37+09:00",
-    "event_label": "대한기계설비건설협회 가스공사업협의회 계양구 취약계층 2천만원 지원 및 가스안전지킴이 협약",
-    "importance": 5
-  },
-  {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회 가스공사업협의회, 인천 취약계층 가스안전 지원 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51633",
-    "description": "대한기계설비건설협회 가스공사업협의회(회장 김영태)는 3일 인천 계양구청에서 계양구청, 계양구지역사회보장협의체와 주거 취약계층의 화재 예방과 안전한 주거환경 조성을 위한 '가스안전지킴이' 업무협약을 체결...",
-    "published_at": "2026-09-03T10:42:00+09:00",
-    "cluster_id": "ab23",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비협회 가스공사업협의회, 인천 취약계층 가스안전 지원",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 인천 계양구청과 함께 취약계층을 대상으로 '가스안전지킴이' 업무협약을 체결했다. 주거 취약계층의 화재 예방과 안전한 주거환경 조성을 위한 사회공헌 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-03T10:54:43+09:00",
-    "event_label": "대한기계설비건설협회 가스공사업협의회, 인천 취약계층 가스안전 지원 업무협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21267,6 +21233,22 @@
     "summary": "대우건설이 LH가 발주한 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구를 약 8686억원 규모로 낙찰받았다. 올해 LH 발주 사업 중 대우건설의 주요 수주 성과다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T09:34:52+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "티피링크코리아, ‘2026 한국건설·안전박람회’ 참가 - 보안뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjb0l5djBsWEtRUEZCbnl0OXBQU1Z4TDJIQ1laYVh3dlRBa0JNT3pfYThheDU1VmxGb3lhZFVMUTU4QkYxRm9wYVhNUEJ1azhySi1aa1Vfd2lJUXIzbTBaS0FJcXhYTHZySlBr?oc=5",
+    "description": "티피링크코리아가 10월 14일부터 16일까지 경기도 고양시 킨텍스 제1전시장에서 개최되는 ‘2026 한국건설·안전박람회’(K-CONSAFETY EXPO 2026)",
+    "published_at": "2026-10-02T14:39:13+09:00",
+    "cluster_id": "bb81",
+    "publisher": "보안뉴스",
+    "title_clean": "티피링크코리아, ‘2026 한국건설·안전박람회’ 참가",
+    "summary": "티피링크코리아가 10월 14~16일 경기도 고양시 킨텍스에서 개최되는 '2026 한국건설·안전박람회'에 참가한다. 건설 및 안전 관련 기업들의 제품과 서비스를 선보이는 산업 전시회 참여 소식이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-03T11:38:19+09:00",
     "importance": 2
   },
   {
