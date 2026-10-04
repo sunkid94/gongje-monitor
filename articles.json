@@ -5032,6 +5032,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "제조업 회복 기대 커지는데…조선·철강 체감경기는 왜 더딜까 - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20261001500274",
+    "description": "9월 제조업 업황 PSI 107…조선 86·철강 67로 기준치 하회 조선, 수주잔고 충분하지만 신규 수주 경쟁·대외 불확실성 변수 철강 수출 3개월째 증가…가격 압박·내수 회복 여부는 과제 삼성중공업 거제조선소 전경. [사진...",
+    "published_at": "2026-10-04T10:42:00+09:00",
+    "cluster_id": "c4bf",
+    "publisher": "news2day.co.kr",
+    "title_clean": "제조업 회복 기대 커지는데…조선·철강 체감경기는 왜 더딜까",
+    "summary": "9월 제조업 전반의 경기 회복에도 불구하고 조선업(PSI 86)과 철강업(PSI 67)은 기준치 이하의 부진을 지속하고 있다. 조선은 수주잔고는 충분하나 신규 수주 경쟁과 대외 불확실성이, 철강은 수출 증가에도 가격 하락과 내수 회복 부진이 걸림돌이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-04T10:52:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21011,22 +21027,6 @@
     "publisher": "",
     "title_clean": "대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰 - g-enews.com",
     "summary": "대우건설 컨소시엄이 용인 첨단시스템반도체 클러스터 국가산업단지 1공구를 8686억원에 낙찰받았다. 대우건설은 48% 지분으로 약 4,170억원 규모의 대형 수주를 확보했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T09:59:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 8686억 규모 용인 반도체 국가산단 1공구 낙찰 - businesskorea.co.kr",
-    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277785",
-    "description": "대우건설은 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구의 낙찰자로 선정됐다고 28일 공시했다. 이번 사업은 시공책임형 건설사업관리(CMR) 방식으로 추진됐으며 대우건설 컨소시엄은 사업계획서...",
-    "published_at": "2026-09-29T09:52:00+09:00",
-    "cluster_id": "db01",
-    "publisher": "businesskorea.co.kr",
-    "title_clean": "대우건설, 8686억 규모 용인 반도체 국가산단 1공구 낙찰",
-    "summary": "대우건설이 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구를 8686억 원 규모로 낙찰했다. CMR 방식으로 추진되는 이 대규모 프로젝트는 건설사의 수주 증가를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T09:59:46+09:00",
     "importance": 2
