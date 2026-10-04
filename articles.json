@@ -21032,6 +21032,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설업 산재 신청 증가세…질병 산재 3년 새 4.4배 - delighti.co.kr",
+    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=122823",
+    "description": "건설노동자 유족의 질병 산재 승인도 2022년 58명에서 지난해 103명으로 늘었다. 올해는 8월까지 73명이 질병으로 인한 산재 승인을 받았다. 육상·수상운수업에서도 질병 산재 신청이 증가했다. 육상·수상운수업의...",
+    "published_at": "2026-10-04T12:10:00+09:00",
+    "cluster_id": "8bf1",
+    "publisher": "delighti.co.kr",
+    "title_clean": "건설업 산재 신청 증가세…질병 산재 3년 새 4.4배",
+    "summary": "건설업 노동자의 질병 산재 승인이 3년 사이 4.4배 증가하면서 산업 전반의 안전 문제가 심화되고 있다. 2022년 58명에서 2023년 103명으로 늘었으며, 올해 8월까지 73명이 승인받아 지속적인 증가 추세를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-04T12:22:51+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "암살자(들) 영화는 역사 암살자...“가난한 나라, 누가 선진한국으로 만... - breaknews.com",
+    "link": "http://www.breaknews.com/1240911",
+    "description": "건설노동자들은 중동의 뜨거운 사막에서 땀을 흘렸습니다. 유행가 가사마다 이별의 한을 달래는 내용이었었죠. 농부들은 새벽별을 보고 논밭으로 나가 저녁별을 보고...",
+    "published_at": "2026-10-04T12:10:00+09:00",
+    "cluster_id": "e976",
+    "publisher": "breaknews.com",
+    "title_clean": "암살자(들) 영화는 역사 암살자...“가난한 나라, 누가 선진한국으로 만...",
+    "summary": "제목과 내용이 불일치하며, 실제 내용은 과거 건설노동자와 농부들의 노고를 회상하는 역사적 서사로 보입니다. 건설업계의 구체적인 호재나 악재 관련 정보가 부족합니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-04T12:22:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32262,21 +32294,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-29T16:55:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[인터뷰] 건설 중대재해···김주영 의원 \"안전비용과 책임이 아래로 전... - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=744356",
-    "description": "그가 대표발의한 건설산업기본법 개정안인 의안번호 2214718호는 산업안전보건법에 따른 고용노동부 장관의 등록말소 요청에 대해, 건설산업기본법상 처분 근거를 보다 명확히 하는 내용이다. 공개된 진행 현황상 지난 2월...",
-    "published_at": "2026-09-29T16:24:00+09:00",
-    "cluster_id": "2d2a",
-    "publisher": "polinews.co.kr",
-    "title_clean": "[인터뷰] 건설 중대재해···김주영 의원 \"안전비용과 책임이 아래로 전...",
-    "summary": "김주영 의원이 건설산업기본법 개정안을 발의하여 산업안전보건법상 고용노동부의 등록말소 요청에 대한 건설산업기본법상 처분 근거를 명확히 하는 내용을 추진 중이다. 건설 현장의 안전 관리 체계를 강화하기 위한 법적 기반을 정비하는 것으로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T16:45:41+09:00",
-    "importance": 4
   }
 ]
