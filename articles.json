@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "‘호남 반도체의 미래’ 구마모토 가보니… 열풍은 불었다, 파급은 글쎄... - h21.hani.co.kr",
+    "link": "https://h21.hani.co.kr/arti/economy/economy_general/59991.html",
+    "description": "1공장이 완공되고 건설 노동자들이 떠나자 매출은 다시 줄었다. 상인들이 아쉬워한 건 그다음이다. 공장이 돌아가기 시작하면 JASM 직원 2천여 명이 동네 손님이 될 것이라고 기대했지만, 현실은 달랐다. JASM 직원...",
+    "published_at": "2026-10-05T08:32:00+09:00",
+    "cluster_id": "8224",
+    "publisher": "h21.hani.co.kr",
+    "title_clean": "‘호남 반도체의 미래’ 구마모토 가보니… 열풍은 불었다, 파급은 글쎄...",
+    "summary": "반도체 공장 건설 완공 후 건설 노동자 감소로 지역 경제 활성화가 예상과 달리 부진한 상황. 건설 수주 수익의 일시적 증가 이후 수요 급감으로 건설업계의 침체 우려.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-05T08:42:35+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "summary": "대전교통공사 이산하 차장이 21년 도시철도 현장 경력을 바탕으로 산업안전지도사 건설안전부문 시험에 최종 합격했다. 현장 실무자의 국가전문자격 취득으로 건설 현장의 안전관리 역량이 강화되었다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T17:45:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전기안전공사, 국가안전관리 평가 ‘최우수’ - ikld.kr",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QjgtRm12aGdQenVFRnBPTTNHRXhxb201SUo5ZUVhamdjU1BmLS0zTXZsUUF4a0JMM3lKb181XzdWUi10bnZwVGNNWFFKeFRHcXhDM0NHc29pZ1dYaWNpV09hTQ?oc=5",
-    "description": "[국토일보 조성구 기자] 전기안전공사가 재난 현장 대응과 위험요인 사전 관리 등 예방 중심의 안전관리체계 구축 성과를 인정받아 국가안전관리 평가에서 최고 등급을 받았다.한국전기안전공사(사장 남화영)는 기후에너지환경부가 실시한 ‘2025년 국가안전관리 세부집행계획 추진실적 평가’에서 15개 기관 가운데 유일하게 ‘최우수’ 등급을 받았다고 밝혔다.기후에너지환경부는 전기안전공사가 모든 평가지표에서 만점을 획득했으며 계획·이행·환류 전 과정의 관리체계가 모범적이라고 평가했다. 공사 자체평가와 부처 확정평가 결과도 일치했다.공사는 여름철 폭",
-    "published_at": "2026-09-29T11:26:05+09:00",
-    "cluster_id": "1bdc",
-    "publisher": "ikld.kr",
-    "title_clean": "전기안전공사, 국가안전관리 평가 ‘최우수’",
-    "summary": "한국전기안전공사가 2025년 국가안전관리 평가에서 15개 기관 중 유일하게 '최우수' 등급을 획득했다. 재난 현장 대응과 예방 중심의 안전관리체계 구축으로 모든 평가지표에서 만점을 받았다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-29T17:40:28+09:00",
     "importance": 2
   }
 ]
