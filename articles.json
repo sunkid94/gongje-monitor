@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[패트롤] 구리시-남양주시-양평군-의정부시-하남시 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20261005024302203",
+    "description": "이번 고시를 통해 지식산업센터 내 공장 시설에 새로 입주할 수 있게 된 분야는 건설산업기본법에 따른 종합-전문건설업을 비롯해 전기공사업, 정보통신공사업, 소방시설공사업 등 건설-공사 관련 4대 핵심 업종이다....",
+    "published_at": "2026-10-05T01:58:00+09:00",
+    "cluster_id": "c0ff",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤] 구리시-남양주시-양평군-의정부시-하남시",
+    "summary": "구리·남양주·양평·의정부·하남 등 경기 지역의 지식산업센터에서 건설·공사 관련 4대 핵심 업종(종합·전문건설업, 전기공사업, 정보통신공사업, 소방시설공사업)의 새로운 입주가 가능해졌다. 기존 규제가 완화되어 건설업계의 사업 영역이 확대되는 호재다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T02:07:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32272,22 +32288,6 @@
     "title_clean": "현대건설, 경기 평택 ‘힐스테이트 고덕엘리스트’ 분양…1779가구 공급",
     "summary": "현대건설이 경기 평택시 고덕국제신도시에서 1779가구 규모의 '힐스테이트 고덕엘리스트' 아파트 단지를 분양 중이다. 이는 건설사의 주택 공급 및 수주 기회를 나타내는 실적 보도다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-29T16:55:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "교통공사 산업안전지도사 건설안전부문 합격자 배출 - 금강일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNzF6Nmp2OUdiSk9nSGxVSFduWEJEQWp1Y0w1bkZmMEh1eU1HbmJGNlBFNC1STG12Q1plR2xPM3JBWDM0RFJ1X1hmN0NmTm5IaW9BOVR1NnJtdVZLemRaU1JlRVNNT25MTkE?oc=5",
-    "description": "이산하 대전교통공사 건축시설팀 차장이 한국산업인력공단의 제16회 산업안전지도사 건설안전부문 시험에 최종 합격했다.29일 교통공사에 따르면 산업안전지도사는 사업장의 안전에 관한 기술적 사항을 진단하고 안전성 평가와 개선지도, 유해·위험 방지대책 등에 대한 전문적인 지도와 컨설팅을 수행하는 국가전문자격이다. 이 차장은 1차 산업안전보건법령 등 객관식 시험을 시작으로 2차 건설안전 분야 주관식 시험과 3차 면접시험까지 차례로 통과하며 한 해에 모든 시험을 합격하는 동차 합격의 성과를 거뒀다. 교통공사는 그동안 축적한 도시철도 건축시설 분",
-    "published_at": "2026-09-29T16:41:12+09:00",
-    "cluster_id": "85e0",
-    "publisher": "금강일보",
-    "title_clean": "교통공사 산업안전지도사 건설안전부문 합격자 배출",
-    "summary": "대전교통공사 이산하 차장이 한국산업인력공단의 산업안전지도사 건설안전부문 시험에 합격했다. 1차 법령시험부터 3차 면접까지 동차 합격으로 전문자격 취득을 완료했으며, 교통공사의 안전관리 역량 강화가 기대된다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-29T16:55:36+09:00",
     "importance": 2
   }
