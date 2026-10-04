@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“인프라부터 갖추세요” 구마모토가 전남광주에 말했다 - hani.co.kr",
+    "link": "https://www.hani.co.kr/arti/society/society_general/1280887.html",
+    "description": "여기에다 재즘 공장 건설에 필요한 중장비와 건설 노동자들을 태운 차들이 늘면서 인구 4만3천명의 농촌 마을에 과부하가 걸리기 시작했다. 일본 정부의 전폭적인 보조금 지원에도 불구하고 지방자치단체 차원의...",
+    "published_at": "2026-10-05T05:02:00+09:00",
+    "cluster_id": "bdce",
+    "publisher": "hani.co.kr",
+    "title_clean": "“인프라부터 갖추세요” 구마모토가 전남광주에 말했다",
+    "summary": "일본 구마모토 반도체 공장 건설로 인한 지역 인프라 과부하 문제를 다룬 기사. 농촌 지역의 건설 수요 증가에도 불구하고 지방자치단체의 인프라 부족으로 건설 진행에 어려움이 발생하고 있음을 시사.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-05T05:07:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32274,21 +32290,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-29T16:55:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "정비사업 실적 올린 대형사… 건설업계, 전반 신규 발주 축소 - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=744322",
-    "description": "국내 건설시장에서 대형 건설사의 도시정비사업 수주와 전체 건설수주가 다른 양상을 보이고 있다. 서울 주요 재건축·재개발 사업에서는 조 단위 공사가 이어지며 대형사의 수주액이 늘고 있지만, 전체 건설수주는...",
-    "published_at": "2026-09-29T16:43:00+09:00",
-    "cluster_id": "d961",
-    "publisher": "polinews.co.kr",
-    "title_clean": "정비사업 실적 올린 대형사… 건설업계, 전반 신규 발주 축소",
-    "summary": "대형 건설사들이 도시정비사업(재건축·재개발)에서 수주 실적을 올리고 있으나, 건설업계 전반의 신규 발주는 축소되는 이중 구조가 나타나고 있다. 대형사 중심의 수주 증가와 전체 시장 침체가 동시에 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T16:55:36+09:00",
-    "importance": 4
   }
 ]
