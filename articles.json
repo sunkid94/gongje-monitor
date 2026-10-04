@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "고금리·건설경기 침체 속 주택 정비사업 시장 ‘신탁방식’ 뜬다 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43UFJjUTNocWFmZ0xmM012MFdxYk1JN0ZiWG9fT0ZWLXVMQzAyLU5JZm83NnFNZnQzdDBPOF9EaFNUM2ZldjByWXVMQk5hQ2M?oc=5",
+    "description": "최근 분당 등 1기 신도시 재건축 2차 선도지구가 발표되고, 노후신도시 정비사업 시장에 관심이 커지고 있다. 눈에 띄는 점은 다수의 선도지구 추진 단지들이 전통적 조합 방식 대신 신탁 방식을 선택하거나 검토한다는 것이다. 조합 방식의 정비사업은 정비 계획 수립이나 건축 설계 등 초기 인허가 단계부터 막대한 자금이 요구된다. 하지만 조합 대부분은 자체 자",
+    "published_at": "2026-10-05T02:15:45+09:00",
+    "cluster_id": "e06b",
+    "publisher": "v.daum.net",
+    "title_clean": "고금리·건설경기 침체 속 주택 정비사업 시장 ‘신탁방식’ 뜬다",
+    "summary": "고금리와 건설경기 침체 속에서 노후신도시 재건축 정비사업 시장에서 전통적 조합 방식 대신 신탁 방식이 확대되고 있다. 신탁 방식은 초기 자금 부담을 줄일 수 있어 시장 진입 장벽이 낮아지는 추세이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T02:27:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32274,21 +32290,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T16:55:36+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대건설, 경기 평택 ‘힐스테이트 고덕엘리스트’ 분양…1779가구 공급 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KMDZNZTFaSVZfLTVTdlh4MWZPWUduOEdkRmRiYWJmVk9TbkZQS2piSFZKSG42aWFweTVtdVdkSVhvai1jSEZkcGNCYzhaMXhXUC1ISnBfZFYwV012MkZmUWNhRGF4WkQwYWZNaHJ3?oc=5",
-    "description": "현대건설이 경기도 평택시 고덕국제신도시에서 1779가구 규모의 ‘힐스테이트 고덕엘리스트’을 분양 중이다. 29일 현대건설에 따르면 이달 분양을 시작한 힐스테이트 고덕엘리스트는 평택시 고덕국제화지구 A12·65블록에 들어서는 단지다. A12블록에는 지하 1층~지상 23..",
-    "published_at": "2026-09-29T16:45:10+09:00",
-    "cluster_id": "c025",
-    "publisher": "아시아투데이",
-    "title_clean": "현대건설, 경기 평택 ‘힐스테이트 고덕엘리스트’ 분양…1779가구 공급",
-    "summary": "현대건설이 경기 평택시 고덕국제신도시에서 1779가구 규모의 '힐스테이트 고덕엘리스트' 아파트 단지를 분양 중이다. 이는 건설사의 주택 공급 및 수주 기회를 나타내는 실적 보도다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T16:55:36+09:00",
-    "importance": 2
   }
 ]
