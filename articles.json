@@ -21083,6 +21083,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울시, 노후 교량·고가 해체공사 안전관리 전면 강화 - 한국철도일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OMEd2dUZWSmE3SmYyZ0xIaFFXZ1dqQ3FhdUw2YzhNa1l6S1FQUWZ6T2dWX3N2b3dFLTY2VVN2MGU4TXFRMFFKeURmWVV5aWNRRG1aaE5GUi00Smk1WG9RSjgyZ0UtdDBQaGVtVElMN0I?oc=5",
+    "description": "[한국철도일보 박지현 기자] 서울시가 노후 교량과 고가차도 해체공사의 안전관리 체계를 전면 강화한다.서울시는 지난 5월 서소문고가 해체공사 중 발생한 안전사고를 계기로 해체설계 사전 검증과 전문 감리인력 상주, 드론·로봇을 활용한 무인점검 등을 포함한 안전대책을 마련했다.도림고가와 삼",
+    "published_at": "2026-10-04T09:20:55+09:00",
+    "cluster_id": "5607",
+    "publisher": "한국철도일보",
+    "title_clean": "서울시, 노후 교량·고가 해체공사 안전관리 전면 강화",
+    "summary": "서울시가 서소문고가 해체공사 안전사고를 계기로 해체설계 사전 검증, 전문 감리인력 상주, 드론·로봇 무인점검 등을 포함한 안전관리 체계를 전면 강화한다. 도림고가와 삼각산고가 등 노후 교량·고가 해체공사에 새로운 안전대책을 적용할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-04T09:27:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32281,21 +32297,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T16:45:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL이앤씨, 중소·전문기업과 공동 R&D 넘어 특허·인증·상품화까지…기... - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260929010010325",
-    "description": "한솔홈데코와 공동 개발한 '욕실용 건식벽체 방수시스템'은 공동 연구개발을 거쳐 국토교통부 건설신기술 인증을 획득했다. 현재 아크로와 e편한세상 현장에 적용하고 있다.강남제비스코와는 2021년부터 '공동주택...",
-    "published_at": "2026-09-29T16:32:00+09:00",
-    "cluster_id": "23f9",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "DL이앤씨, 중소·전문기업과 공동 R&D 넘어 특허·인증·상품화까지…기...",
-    "summary": "DL이앤씨가 중소·전문기업과의 공동 R&D를 통해 건식벽체 방수시스템 등 신기술을 개발하고 국토교통부 인증을 획득해 실제 현장에 적용하고 있다. 대형건설사의 중소기업과의 협력을 통한 기술혁신과 상품화 사례를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T16:45:41+09:00",
-    "importance": 2
   }
 ]
