@@ -21015,6 +21015,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[기고] SOC는 토건이 아니라 미래복지다 - joongdo.co.kr",
+    "link": "https://www.joongdo.co.kr/web/view.php?key=20261005010000982",
+    "description": "SOC 확대만 요구할 것이 아니라 국민에게 왜 필요한 투자인지 설명하고, 안전과 품질을 최우선으로 하며 친환경·스마트건설 기술을 통해 더 오래가고 더 안전한 인프라를 만들어야 한다. 좋은 인프라는 한 세대가 만들지만...",
+    "published_at": "2026-10-05T20:40:00+09:00",
+    "cluster_id": "6478",
+    "publisher": "joongdo.co.kr",
+    "title_clean": "[기고] SOC는 토건이 아니라 미래복지다",
+    "summary": "SOC 투자의 필요성을 국민에게 설득하고 안전·품질 중심의 친환경·스마트 건설 기술 도입을 강조하는 기고문. SOC 확대 논의를 단순 토건사업이 아닌 미래복지 관점에서 재정의하고 장기적 인프라 가치를 강조.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T20:49:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-30T00:31:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설노조, 고 양회동 씨 산재 신청 \"현장활동 노동의 일부\" - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2075545",
-    "description": "민주노총 전국건설노동조합(건설노조)이 2023년 노조 탄압 중단을 요구하며 분신해 숨진 건설노조 강원지부 간부 고 양회동씨의 사망을 산업재해로 인정해 달라며 근로복지공단에 신청서를 제출했다. 건설노조는 29일...",
-    "published_at": "2026-09-30T00:08:00+09:00",
-    "cluster_id": "53b6",
-    "publisher": "kado.net",
-    "title_clean": "건설노조, 고 양회동 씨 산재 신청 \"현장활동 노동의 일부\"",
-    "summary": "민주노총 전국건설노동조합이 노조 탄압 항의로 분신한 강원지부 간부 고 양회동씨의 사망을 산업재해로 인정해달라며 근로복지공단에 신청서를 제출했다. 건설노조는 이를 현장활동 노동의 일부로 주장하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T00:31:05+09:00",
-    "importance": 4
   }
 ]
