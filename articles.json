@@ -4981,6 +4981,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "빙하·암석 붕괴 어떻게 대홍수 됐나…중국·네팔 공동 조사 착수 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008783292&plink=ORI&cooper=NAVER",
+    "description": "네팔 어퍼트리슐리(UT)-1 수력발전소 건설 현장에서 일하던 두산에너빌리티 직원 6명과 한국남동발전 직원 3명 등 한국인 9명도 여전히 실종된 상태입니다. (사진=AP, 연합뉴스)",
+    "published_at": "2026-10-05T10:42:00+09:00",
+    "cluster_id": "71d7",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "빙하·암석 붕괴 어떻게 대홍수 됐나…중국·네팔 공동 조사 착수",
+    "summary": "네팔 수력발전소 건설 현장에서 빙하·암석 붕괴로 인한 홍수 발생으로 한국인 9명이 실종됐으며, 중국과 네팔이 공동 조사에 착수했습니다. 대규모 자연재해로 인한 인명피해 및 건설 사업의 리스크 증대가 우려됩니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-05T10:58:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20965,20 +20981,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[건설업계 동향] 대우건설ㆍ부영그룹 (9.29) - weeklytoday.com",
-    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=796156",
-    "description": "■ 대우건설 컨소시엄, 용인 반도체 국가산단 1공구 낙찰···8686억 규모 - 전체 산단 부지 44% 차지···올해 LH 발주 공사 중 최대 규모 - 사업계획서 평가 310.8점으로 1위···대우건설 지분 약 4169억 [위클리오늘=김인환...",
-    "published_at": "2026-09-29T10:42:00+09:00",
-    "cluster_id": "5195",
-    "publisher": "weeklytoday.com",
-    "title_clean": "[건설업계 동향] 대우건설ㆍ부영그룹 (9.29)",
-    "summary": "대우건설 컨소시엄이 용인 반도체 국가산단 1공구를 8686억 규모로 낙찰했으며, 이는 올해 LH 발주 공사 중 최대 규모다. 대우건설의 지분은 약 4169억으로, 건설업계에 수주 증가 호재를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T10:50:27+09:00",
-    "importance": 3
+    "title": "건설 공사비 더 오른다…'닥공'에 제동거나 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20261005500044",
+    "description": "건정연은 \"향후 건설공사비는 과거 급등기보다 상승폭이 둔화되더라도 높아진 비용 수준의 장기화 가능성이 상존한다\"며 \"건설경기 회복 과정에서도 공사비는 투자·착공 확대를 제약하는 핵심 변수로 작용할 수...",
+    "published_at": "2026-10-05T10:44:00+09:00",
+    "cluster_id": "a2d6",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "건설 공사비 더 오른다…'닥공'에 제동거나",
+    "summary": "건설공사비가 과거보다는 완화되겠지만 높은 수준이 지속될 것으로 예상됨. 공사비 상승이 건설경기 회복 과정에서 투자·착공 확대를 제약하는 핵심 변수로 작용할 우려.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-05T10:58:23+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
