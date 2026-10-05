@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "무면허 공사계약에 계약서도 위조…울산 인테리어 업체 대표 실형 - iusm.co.kr",
+    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1068744",
+    "description": "울산지법 형사6단독(이현경 부장판사)은 사기와 건설산업기본법 위반 혐의 등으로 재판에 넘겨진 A씨에게 징역 8개월을 선고했다고 5일 밝혔다. 인테리어 업체 대표인 A씨는 2022년 2월 유치원 리모델링 공사를 의뢰한...",
+    "published_at": "2026-10-05T15:56:00+09:00",
+    "cluster_id": "d2e6",
+    "publisher": "iusm.co.kr",
+    "title_clean": "무면허 공사계약에 계약서도 위조…울산 인테리어 업체 대표 실형",
+    "summary": "울산의 인테리어 업체 대표가 무면허 공사계약 체결 및 계약서 위조로 징역 8개월을 선고받았다. 건설업계의 불법 관행과 신뢰성 문제를 드러내는 사례로, 업계 규제 강화의 필요성을 제기한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-05T15:58:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T18:36:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL이앤씨, 건설기술 공동개발부터 사업화까지 확대 - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000337371?division=NAVER",
-    "description": "DL이앤씨가 한솔홈데코와 개발한 욕실용 건식벽체 방수시스템은 국토교통부 건설신기술 인증을 받아 아크로와 e편한세상 현장에 적용하고 있습니다. 힘펠과 공동 개발한 '디 사일런트 후드'는 제품화 이후 지난해 약...",
-    "published_at": "2026-09-29T17:54:00+09:00",
-    "cluster_id": "e836",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "DL이앤씨, 건설기술 공동개발부터 사업화까지 확대",
-    "summary": "DL이앤씨가 한솔홈데코, 힘펠 등과 공동개발한 건설기술들이 국토교통부 신기술 인증을 받아 실제 현장에 적용되고 있다. 기술 개발에서 사업화까지 확대하는 추세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T18:01:18+09:00",
-    "importance": 2
   }
 ]
