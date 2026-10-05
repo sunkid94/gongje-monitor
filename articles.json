@@ -4998,6 +4998,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, LNG운반선 6722억 규모 2척 수주 - gndomin.com",
+    "link": "http://www.gndomin.com/news/articleView.html?idxno=491773",
+    "description": "▲ 삼성중공업이 건조한 LNG 운반선 /삼성중공업 삼성중공업이 액화천연가스(LNG) 운반선 2척을 추가 수주하며 올해 LNG운반선 수주 실적을 20척으로 늘렸다. 삼성중공업은 아시아 지역 선주와 LNG운반선 2척에 대한...",
+    "published_at": "2026-10-05T18:02:00+09:00",
+    "cluster_id": "4c8b",
+    "publisher": "gndomin.com",
+    "title_clean": "삼성중공업, LNG운반선 6722억 규모 2척 수주",
+    "summary": "삼성중공업이 아시아 지역 선주와 LNG운반선 2척(6722억 원 규모)을 수주했다. 이로써 올해 LNG운반선 수주 실적을 총 20척으로 늘리며 조선업계의 호실적을 이어가고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T18:09:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20982,19 +20998,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[속보]1.1조 원 대어 ‘하안주공6·7단지’ 재건축, 2차 현설 개최... IPARK현대산업개발 단독 참여 - 하우징타임즈",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03R29zcmpUV3E2bGhWTXpiRTdNcWN6d193b1B6NXRBQjdRbzJTYzVxM2tGb01mVTRFMGJuZEJXd2ppbm0zTWRwS2tZQkwzS2VHWG9saFo4bVR0MnRhNkxJajNkdGZLMnhWeUZ1SlhyUnI?oc=5",
-    "description": "[하우징타임즈=김상규 전문기자]경기도 광명시 일대 재건축 최대어로 꼽히는 하안주공6·7단지의 시공권이 IPARK현대산업개발로 넘어갈 가능성이 커지고 있다.사업시행자인 한국토지신탁이 시공자 섡벙을 위한 2차 입찰에 나선 가운데, 1차 입찰에 단독으로 참여했던 IPARK현대산업개발이 또",
-    "published_at": "2026-09-29T10:59:44+09:00",
-    "cluster_id": "6d9e",
-    "publisher": "하우징타임즈",
-    "title_clean": "[속보]1.1조 원 대어 ‘하안주공6·7단지’ 재건축, 2차 현설 개최... IPARK현대산업개발 단독 참여",
-    "summary": "경기도 광명시 하안주공6·7단지(1.1조 원 규모) 재건축 사업의 시공권을 놓고 2차 입찰이 진행 중이며, IPARK현대산업개발이 단독 참여로 시공자 선정 가능성이 높아지고 있다. 이는 건설업계에 대규모 수주 기회를 제공하는 호재로 평가된다.",
+    "title": "이 대통령 “부동산 투기공화국 탈출 약속 반드시 지킬 것…집값 반드시... - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677948&ref=A",
+    "description": "이 대통령은 \"서울과 수도권 주택 건설을 부족한 주택 조기 공급 효과 외에 지금 가장 필요한 내수경기(건설경기) 활성화라는 두 가지 효과가 동시에 나타나기 때문에 긴급하고 중요하며 효용성 높은 정책\"이라며 \"이...",
+    "published_at": "2026-10-05T16:21:00+09:00",
+    "cluster_id": "e22b",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "이 대통령 “부동산 투기공화국 탈출 약속 반드시 지킬 것…집값 반드시...",
+    "summary": "대통령이 부동산 투기 억제와 함께 서울·수도권 주택 건설 확대를 추진하겠다고 약속. 주택 공급 확대와 건설경기 활성화를 동시에 추구하는 정책으로 제시.",
     "sentiment": "positive",
-    "collected_at": "2026-09-29T11:10:30+09:00",
+    "collected_at": "2026-10-05T18:09:13+09:00",
     "importance": 2
   },
   {
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T22:30:53+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설 서초구 건설현장 30대 노동자 사망…중대재해법 조사 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BQmE5dlZEek1fazZ4NVlKQ1JYa0U4WThsSDhPMmRpY2p6OUk1c05taGtwSVR3OUhYWTdNZndMaDNqLXpVNE5wdzlZZFRmSW81MFBXRFdYcnpPY1lnc1p5dmJVTHJJRDVZZm840gFwQVVfeXFMUEgyYnBoSFFteUVDVDRkaG1VWUFEY0Y1NXl5Ym9uaEtOQk1TeS1BVnpjNFhpUXQyMWdaSmRhRndLSVItT2JaaGtNd0drb1p2RmNjTENtTklnN2JfWG1RUV9FcmtQRlV0eXBIVFlhX09idQ?oc=5",
-    "description": "서울 서초구 한 아파트 건설현장에서 콘크리트가 무너지며 30대 외국인 노동자가 사망하는 사고가 발생했다. 노동부 서울청 중대재해수사과와 건설산재예방감독과는 사고 즉시 작업중지 명령을 내리고 사고조사에 착수했다.",
-    "published_at": "2026-09-29T22:22:03+09:00",
-    "cluster_id": "06a7",
-    "publisher": "머니투데이",
-    "title_clean": "현대건설 서초구 건설현장 30대 노동자 사망…중대재해법 조사 - 머니투데이",
-    "summary": "서울 서초구 아파트 건설현장에서 콘크리트 붕괴로 30대 외국인 노동자가 사망했다. 노동부가 즉시 작업중지 명령을 내리고 중대재해법에 따른 사고조사를 착수했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T22:30:53+09:00",
-    "importance": 4
   }
 ]
