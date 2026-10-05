@@ -5032,6 +5032,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[THE CEO] 조원태 한진그룹 회장 - the-biz.co.kr",
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=728161",
+    "description": "당시 아시아나항공은 유동성 문제로 채권단 관리 아래 매각이 추진됐고, 앞서 HDC현대산업개발과의 인수 계약도 무산된 상태였다. 산업은행이 대한항공의 지주사인 한진칼에 자금을 투입하고, 한진칼이 이를 다시...",
+    "published_at": "2026-10-06T06:00:00+09:00",
+    "cluster_id": "3e8d",
+    "publisher": "",
+    "title_clean": "[THE CEO] 조원태 한진그룹 회장 - the-biz.co.kr",
+    "summary": "조원태 한진그룹 회장이 유동성 문제로 어려움을 겪던 아시아나항공 인수를 추진했으며, 산업은행의 자금 지원을 통해 한진칼이 주도적으로 인수를 진행한 사건에 대한 보도입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-06T06:29:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21012,22 +21028,6 @@
     "title_clean": "[신세계 인사 전망]② 승진 1년 안 돼 다시 움직인 임원들… 57명 첫해 ...",
     "summary": "신세계건설의 김관수 사업관리담당이 상무보로 승진했다. 이마트가 자본을 추가 보강한 가운데 사업관리 조직은 현장 관리, 신규 수주, 현금흐름 관리 역할을 강화해야 한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-29T11:40:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 컨소시엄, 8천686억원 용인 반도체국가산단 1공구 수주 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NS2VTYXdYeHVMRnF0RUc0VHIwdU9TNWVOdlMwM1k5TzEwWDI1LWZjQnpXWHNva2IzVUZ3RWNFZXJhNkdpVXhSQkJlTW9JWThWMkFvVUhQNDVUSGNndHhVVNIBYEFVX3lxTE1NS2VTYXdYeHVMRnF0RUc0VHIwdU9TNWVOdlMwM1k5TzEwWDI1LWZjQnpXWHNva2IzVUZ3RWNFZXJhNkdpVXhSQkJlTW9JWThWMkFvVUhQNDVUSGNndHhVVA?oc=5",
-    "description": "(서울=연합뉴스) 서미숙 기자 = 대우건설 컨소시엄이 용인 반도체 국가산업단지 1공구의 조성공사를 맡는다.",
-    "published_at": "2026-09-29T09:09:11+09:00",
-    "cluster_id": "05e2",
-    "publisher": "연합뉴스",
-    "title_clean": "대우건설 컨소시엄, 8천686억원 용인 반도체국가산단 1공구 수주",
-    "summary": "대우건설 컨소시엠이 용인 반도체 국가산업단지 1공구 조성공사를 8천686억원 규모로 수주했다. 반도체산업 기반시설 확충 프로젝트로 건설업계에 대규모 수주 기회를 제공한다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-29T11:40:09+09:00",
     "importance": 2
   },
