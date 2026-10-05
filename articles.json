@@ -20998,6 +20998,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "지역 건설경기 활성화 방안 간담회 - 원주투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rZGFBLTFNbC02cnhndHR1VGJ5NGRVVmJxZXlZTXpyMG9nZFc4RzdyYUtjT2kzSzdwVko1NDh1M3JSQmtoR2FGUnJhUzFyZkk3UXBmbTRRUG15M0hseDZBS3E4ZFk1OWFoY3hCNkp1M2U?oc=5",
+    "description": "원주시와 대한건설협회 원주시협의회(회장: 조병철)가 지난달 29일 시청에서 간담회를 갖고 지역 건설경기 활성화 방안을 모색했다. 대형공사의 지역업체 참여 확대,",
+    "published_at": "2026-10-05T09:55:57+09:00",
+    "cluster_id": "75cc",
+    "publisher": "원주투데이",
+    "title_clean": "지역 건설경기 활성화 방안 간담회",
+    "summary": "원주시와 대한건설협회 원주시협의회가 지역 건설경기 활성화 방안을 모색하는 간담회를 개최했다. 대형공사의 지역업체 참여 확대 등을 논의하며 건설업계 활성화를 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T16:04:00+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "Global Company 청륜건설 서원석 대표 - 종합시사매거진",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHF6OTZYb1F6YzhPT0lwc0NHYllMMUduU1Z0NEN6X25NZXNWaXhwVVJuSnJGUk43NnZuN0Zhc2hsLVVDMHZQaGYxNVdaa3JYWFJ4Ti0xY1lyVElyRWNWRUdVcXJ4a3VFdllFdEk1djZjVElrb3o5Y2ZDYVl3LVNSUXliR1R4SG1vT1hiczFGMmtiVTNXNnEyWGFNR2Y0NVA5TnpqV09WOUVHZ3FrVEo5NlNDQmxIblBNU0lrdnZJOFA0WmdjM2QyZlpQNi1odlV4R0NB?oc=5",
+    "description": "“안전은 결코 타협할 수 없는 최고의 가치“, 가스. 수소 에너지 인프라의 파수꾼",
+    "published_at": "2026-10-05T15:56:45+09:00",
+    "cluster_id": "da73",
+    "publisher": "종합시사매거진",
+    "title_clean": "Global Company 청륜건설 서원석 대표",
+    "summary": "청륜건설 서원석 대표가 가스·수소 에너지 인프라 사업에서 안전을 최고의 가치로 강조하며 업계 리더십을 보여주고 있다. 에너지 인프라 분야의 안전 기준 강화는 건설업계에 규제 강화 요인으로 작용할 수 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-05T16:04:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32259,38 +32291,6 @@
     "summary": "김주영 의원은 건설현장 중대재해 감소를 위해 시공사·현장 책임자 처벌뿐만 아니라 공사비·공기·하도급 과정에서 안전비용과 책임이 하층으로 전가되는 구조 개선이 필요하다고 주장했다. 반복적인 안전의무 위반사업주에 대해서는 등록말소 등 강화된 제재를 제안했다.",
     "sentiment": "negative",
     "collected_at": "2026-09-29T19:31:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "하남시, 지식산업센터 입주 빗장 풀었다…건설업·스마트팜·OEM 허용 - kyeonggi.com",
-    "link": "https://www.kyeonggi.com/article/20260929580538",
-    "description": "이에 따라 건설산업기본법에 따른 종합·전문건설업을 비롯해 전기공사업, 정보통신공사업, 소방시설공사업 등이 지식산업센터 공장시설에 입주할 수 있게 됐다. 인공 광원과 환경 감지 설비, 양액·공조 등 자동제어...",
-    "published_at": "2026-09-29T18:34:00+09:00",
-    "cluster_id": "10b8",
-    "publisher": "kyeonggi.com",
-    "title_clean": "하남시, 지식산업센터 입주 빗장 풀었다…건설업·스마트팜·OEM 허용",
-    "summary": "하남시가 지식산업센터 입주 제한을 완화하여 건설업, 전기·통신·소방공사업 등의 진입을 허용했다. 스마트팜 등 신산업도 함께 입주 가능해져 시장 확대 기회가 생겼다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T18:51:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구 건설경기 최악, 특단 부양책 나와야 한다 - kbmaeil.com",
-    "link": "https://www.kbmaeil.com/article/20260929500244",
-    "description": "대구 지역 건설경기가 최악이다. 대구 지역은 건설경기가 전국에서 가장 부진할 뿐만 아니라 전국 유일하게 마이너스 성장을 기록하고 있다. 국토교통부가 발표한 올 2분기 건설공사 계약액에 따르면 지난 4~6월 대구...",
-    "published_at": "2026-09-29T18:26:00+09:00",
-    "cluster_id": "64a5",
-    "publisher": "kbmaeil.com",
-    "title_clean": "대구 건설경기 최악, 특단 부양책 나와야 한다",
-    "summary": "대구 지역 건설경기가 전국에서 가장 부진하며 유일하게 마이너스 성장을 기록하고 있다. 건설공사 계약액이 감소하면서 지역 건설업계가 어려움을 겪고 있어 정부의 특단 부양책이 필요한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-29T18:36:21+09:00",
     "importance": 4
   }
 ]
