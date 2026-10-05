@@ -21032,6 +21032,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "이 대통령 “초과세수로 청년·중산층용 임대주택 조기 대량 공급” - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202610052134025",
+    "description": "이 대통령은 “서울과 수도권 주택 건설은 부족한 주택 조기 공급 효과 외에 지금 가장 필요한 내수경기(건설경기) 활성화라는 두 가지 효과가 동시에 나타난다”며 “이 때문에 긴급하고 중요하며 효용성 높은 정책”...",
+    "published_at": "2026-10-05T21:34:00+09:00",
+    "cluster_id": "3281",
+    "publisher": "khan.co.kr",
+    "title_clean": "이 대통령 “초과세수로 청년·중산층용 임대주택 조기 대량 공급”",
+    "summary": "정부가 초과세수를 활용해 청년·중산층용 임대주택을 서울·수도권에 조기 대량 공급하겠다고 발표했다. 주택 부족 해소와 건설경기 활성화라는 이중 효과를 강조하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T22:09:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32277,22 +32293,6 @@
     "summary": "DL이앤씨가 중소·전문기업과의 기술협력을 통해 건설 현장의 혁신 기술을 발굴하고 미래 성장을 추진하고 있다. 건설신기술 인증부터 SMR 등 글로벌 기술까지 협력 범위를 확대하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-30T05:00:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전교통공사, 산업안전지도사 건설안전부문 합격자 배출 - newsband.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sY1FwS1NxSzVuTFdsM0ZqUmlGazN1U3hKb3pubHJUcFJRcnIwbGZNbUduNHlSa2pZa3ZzSDAteWlwVnI1QmpJbG8yMWhLQ2hNR1hVOGdrS0M0Z0d1anROTlFleXltNXZE?oc=5",
-    "description": "[대전 뉴스밴드 = 이준희 기자]대전교통공사(사장 이광축)는 건축시설팀 이산하 차장이 한국산업인력공단이 시행한 제16회 산업안전지도사 건설안전부문 시험에 최종 합격했다고 29일 밝혔다.산업안전지도사는 사업장의 안전에 관한 기술적 사항을 진단하고 안전성 평가와 개선지도, 유해·위험 방지대책 등에 대한 전문적인 지도와 컨설팅을 수행하는 국가전문자격이다.이 차장은 1차 산업안전보건법령 등 객관식 시험을 시작으로 2차 건설안전 분야 주관식 시험과 3차 면접시험까지 전 과정을 차례로 통과하며 한 해에 모든 시험을 합격하는 동차합격의 성과를",
-    "published_at": "2026-09-29T15:00:13+09:00",
-    "cluster_id": "e5f9",
-    "publisher": "newsband.kr",
-    "title_clean": "대전교통공사, 산업안전지도사 건설안전부문 합격자 배출",
-    "summary": "대전교통공사 건축시설팀 이산하 차장이 산업안전지도사 건설안전부문 시험에 합격했다. 산업안전지도사는 사업장의 안전 진단과 컨설팅을 수행하는 국가전문자격으로, 건설 현장의 안전 수준 향상에 기여할 수 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-30T03:15:57+09:00",
     "importance": 2
   }
 ]
