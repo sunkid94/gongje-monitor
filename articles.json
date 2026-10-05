@@ -21018,6 +21018,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "이 대통령 “초과세수로 공공임대 대량 공급…LH에 미분양분 ‘매수 확... - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202610051908001",
+    "description": "이 대통령은 “서울과 수도권 주택 건설은 부족한 주택 조기 공급 효과 외에 지금 가장 필요한 내수경기(건설경기) 활성화라는 두 가지 효과가 동시에 나타난다”면서 “이 때문에 긴급하고 중요하며 효용성 높은 정책”...",
+    "published_at": "2026-10-05T19:08:00+09:00",
+    "cluster_id": "5379",
+    "publisher": "khan.co.kr",
+    "title_clean": "이 대통령 “초과세수로 공공임대 대량 공급…LH에 미분양분 ‘매수 확...",
+    "summary": "정부가 초과세수를 활용해 서울·수도권 주택 건설을 확대하고 LH에 미분양분을 매수토록 하는 정책을 추진 중이다. 주택 공급 확대와 건설경기 활성화를 동시에 달성하려는 방향이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T19:24:13+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "李대통령, 부동산 관련 SNS글 연달아…\"집값 반드시 안정될 것\" - dailian.co.kr",
     "link": "https://www.dailian.co.kr/news/view/1697930/?sc=Naver",
     "description": "이 대통령은 \"서울과 수도권 주택 건설은 부족한 주택 조기 공급효과 외에 지금 가장 필요한 내수경기(건설경기) 활성화라는 두 가지 효과가 동시에 나타나기 때문에 긴급하고 중요하며 효용성 높은 정책\"이라고 설명했다....",
@@ -32277,21 +32293,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-30T00:11:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설 서초구 아파트 공사장서 30대 노동자 사망 ‘중대재해’ - 베이비타임즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51TFRLTS0xVklGUUFYdXRQcEo4a1BXM2pncDFJVkNPTURuTE9qSEppVmt3MjJwWkdtdmNqQy1ZdkZxSGg5TXU5ME5WTTVLZEt6bkNxLVVHSmlOVFUybjdGeUpqUUExYTgxOXR3SQ?oc=5",
-    "description": "[베이비타임즈=김복만 기자] 현대건설이 시공하는 서울 서초구의 아파트 건설 현장에서 천장 콘크리트가 무너져 30대 외국인 노동자 1명이 숨져 관계 당국이 조사에 나섰다.29일 고용노동부에 따르면 이날 오전 9시 45분께 현대건설 아파트 건설 현장 23층 세대 내부에서 청소 작업을 기다리던 카즈흐스탄 국적의 30대 노동자가 무너진 천장 콘크리트에 맞아 사망하는 사고가 발생했다.노동부 서울지방고용노동청 중대재해수사과와 건설산재예방감독과는 사고 직후 현장에 출동해 작업 중지 조치를 내리고 사고 원인 조사에 착수했다.경찰과 노동부는 정확한",
-    "published_at": "2026-09-29T23:54:00+09:00",
-    "cluster_id": "b9a4",
-    "publisher": "베이비타임즈",
-    "title_clean": "현대건설 서초구 아파트 공사장서 30대 노동자 사망 ‘중대재해’",
-    "summary": "현대건설이 시공하는 서울 서초구 아파트 건설 현장에서 천장 콘크리트 붕괴로 30대 카자흐스탄 국적 노동자가 사망했다. 고용노동부와 경찰이 중대재해로 분류하고 사고 원인 조사를 시작했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T00:11:34+09:00",
-    "importance": 4
   }
 ]
