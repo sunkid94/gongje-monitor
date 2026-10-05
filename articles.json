@@ -21015,6 +21015,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "李 \"집값 반드시 안정…부동산투기공화국 탈출 약속 지킬 것\" - 4th.kr",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2119219",
+    "description": "이 대통령은 서울·수도권 주택 건설에 대해 \"부족한 주택의 조기 공급 효과 외에 지금 가장 필요한 내수경기, 즉 건설경기 활성화라는 두 가지 효과가 동시에 나타나기 때문에 긴급하고 중요하며 효용성 높은 정책\"이라고...",
+    "published_at": "2026-10-05T20:54:00+09:00",
+    "cluster_id": "825f",
+    "publisher": "4th.kr",
+    "title_clean": "李 \"집값 반드시 안정…부동산투기공화국 탈출 약속 지킬 것\"",
+    "summary": "이 대통령이 서울·수도권 주택 건설을 긴급하고 중요한 정책으로 언급하며 부동산 안정과 건설경기 활성화를 강조했습니다. 주택 공급 확대를 통해 내수경기 부양과 동시에 건설 시장 활성화를 도모하는 정책 의지를 표현했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T21:04:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32276,22 +32292,6 @@
     "summary": "대전교통공사 건축시설팀 직원이 21년 현장 경험을 바탕으로 산업안전 국가전문자격을 취득했다. 도시철도 시설물의 안전성 강화에 기여할 전문 인력 확보를 의미한다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-30T01:10:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "원주시·대한건설협회 원주시협의회 간담회 개최 - kwnews.co.kr",
-    "link": "https://www.kwnews.co.kr/article/20260929500663",
-    "description": "원주시와 대한건설협회 원주시협의회는 29일 원주시청에서 간담회를 갖고 지역 건설경기 활성화 방안을 논의했다. 이날 자리에서는 대형공사의 지역업체 참여 확대와 장기계속공사의 공사기간 연장에 따른 지원 방안...",
-    "published_at": "2026-09-30T00:07:00+09:00",
-    "cluster_id": "7947",
-    "publisher": "kwnews.co.kr",
-    "title_clean": "원주시·대한건설협회 원주시협의회 간담회 개최",
-    "summary": "원주시와 대한건설협회 원주시협의회가 지역 건설경기 활성화를 위해 간담회를 개최했다. 대형공사의 지역업체 참여 확대와 장기계속공사 지원 방안 등을 논의했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T00:31:05+09:00",
     "importance": 2
   }
 ]
