@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[젊은 노동자] 우리가 은퇴할 때는, ‘건설노동자’가 더 당당해질 수 ... - vop.co.kr",
+    "link": "https://vop.co.kr/A00001696993.html",
+    "description": "저는 건설 노동자입니다. 건설 노동자는 건축물이나 각종 시설물을 새로 짓거나, 고치거나, 철거하는 현장에서 직접 노동을 제공하는 사람을 말합니다. 여러 직종으로 세분되는데, 그중에서도 저는 비계(높은 곳에서...",
+    "published_at": "2026-10-05T17:50:00+09:00",
+    "cluster_id": "660a",
+    "publisher": "vop.co.kr",
+    "title_clean": "[젊은 노동자] 우리가 은퇴할 때는, ‘건설노동자’가 더 당당해질 수 ...",
+    "summary": "건설노동자의 현장 경험과 직업에 대한 개인적 관점을 담은 기사. 건설업 종사자의 자긍심과 직업 의식을 다루고 있으며, 업계 구조적 문제나 구체적 정책 변화보다는 노동자 개인의 목소리 중심.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-05T17:59:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T22:30:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL그룹, 기술협력 생태계 확대한다…공동개발·사업화 속도 - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202609292200001",
-    "description": "양사는 공동 연구개발을 통해 기술을 고도화했으며, 해당 기술은 국토교통부 건설신기술 인증을 획득해 현재 아크로와 e편한세상 현장에 적용되고 있다. 강남제비스코와는 2021년부터 ‘공동주택 내구성 향상 페인트’...",
-    "published_at": "2026-09-29T22:00:00+09:00",
-    "cluster_id": "b7b2",
-    "publisher": "khan.co.kr",
-    "title_clean": "DL그룹, 기술협력 생태계 확대한다…공동개발·사업화 속도",
-    "summary": "DL그룹이 강남제비스코 등 기업과의 기술협력을 확대하고 있으며, 공동개발 기술이 국토교통부 건설신기술 인증을 받아 아크로와 e편한세상 현장에 적용 중이다. 건설사들의 기술 고도화와 신기술 도입을 통한 경쟁력 강화 추세를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T22:06:11+09:00",
-    "importance": 2
   }
 ]
