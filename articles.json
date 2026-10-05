@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "TK신공항 건설 두고 국토부 장관, \"주도적 역할엔 한계\" - 매일신문",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TQl9EZEdFaXd4dGxfTnRUTmRnX0gycTlBYmVqYkd6VktDaGUwNWFDN2VjWktzOUh6UHVMYUtyZlBQM0ktZjFBODZCVmFheXkxbEM0Rk5DWUdnZkUwUnVIc3h3?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TQl9EZEdFaXd4dGxfTnRUTmRnX0gycTlBYmVqYkd6VktDaGUwNWFDN2VjWktzOUh6UHVMYUtyZlBQM0ktZjFBODZCVmFheXkxbEM0Rk5DWUdnZkUwUnVIc3h3?oc=5\" target=\"_blank\">TK신공항 건설 두고 국토부 장관, \"주도적 역할엔 한계\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "published_at": "2026-10-05T16:32:30+09:00",
+    "cluster_id": "3816",
+    "publisher": "매일신문",
+    "title_clean": "TK신공항 건설 두고 국토부 장관, \"주도적 역할엔 한계\"",
+    "summary": "국토부 장관이 TK신공항 건설 사업에서 국토부의 주도적 역할에 한계가 있다고 표명했습니다. 이는 사업 추진의 불확실성과 정부 차원의 적극적 지원 부족을 시사하는 발언으로 해석됩니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-05T16:49:03+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T19:41:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "한국-리비아 경제협력포럼…기업 중동 진출·건설수주 지원 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20260929177100504?input=1195m",
-    "description": "이번 포럼은 2014년 리비아 내전 이후 한국 정부가 리비아 내에서 처음 개최하는 경제포럼으로, 기업의 중동 진출 및 건설 수주 활동을 지원하고자 열렸다. 삼성전자, LG전자, 현대건설, 대우건설, 현대중공업 등...",
-    "published_at": "2026-09-29T19:30:00+09:00",
-    "cluster_id": "40ff",
-    "publisher": "yna.co.kr",
-    "title_clean": "한국-리비아 경제협력포럼…기업 중동 진출·건설수주 지원",
-    "summary": "한국 정부가 리비아에서 2014년 내전 이후 처음으로 경제협력포럼을 개최하여 삼성전자, LG전자, 현대건설 등 주요 기업들의 중동 진출과 건설 수주를 지원한다. 리비아 시장 재개방으로 건설업계의 해외 수주 기회 확대를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T19:41:01+09:00",
-    "importance": 2
   }
 ]
