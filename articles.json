@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대우건설 이강석 대표 공식 취임…\"내실·협업·도전으로 새 도약\" - ppss.kr",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=313997",
+    "description": "건설경기 불확실성이 이어지는 상황에서 외형 성장보다 사업성 검토와 현금흐름, 재무안정성을 우선하겠다는 의미로 풀이된다. 한편 'TOGETHER'는 조직 내 소통과 협업 강화에 초점을 맞췄다. 이 대표는 현장과 본사, 각...",
+    "published_at": "2026-10-05T14:38:00+09:00",
+    "cluster_id": "2ea1",
+    "publisher": "ppss.kr",
+    "title_clean": "대우건설 이강석 대표 공식 취임…\"내실·협업·도전으로 새 도약\"",
+    "summary": "대우건설의 신임 대표 이강석이 공식 취임했으며, 건설경기 불확실성 속에서 외형 성장보다 사업성 검토와 재무안정성을 우선하겠다고 밝혔다. 조직 내 소통·협업 강화와 함께 신중한 경영전략을 추진할 계획이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-05T14:48:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "publisher": "biz.sbs.co.kr",
     "title_clean": "DL이앤씨, 건설기술 공동개발부터 사업화까지 확대",
     "summary": "DL이앤씨가 한솔홈데코, 힘펠 등과 공동개발한 건설기술들이 국토교통부 신기술 인증을 받아 실제 현장에 적용되고 있다. 기술 개발에서 사업화까지 확대하는 추세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-29T18:01:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "도민들이 체감하는 민생대책의 전제조건 - samdailbo.com",
-    "link": "http://www.samdailbo.com/news/articleView.html?idxno=270801",
-    "description": "건설 분야에서는 소규모 공공공사를 앞당겨 발주해 지역 건설경기를 뒷받침한다. 지난 8월 말 기준 163억원에서 오는 10월 말까지 407억원 이상으로 발주 규모를 확대할 계획이다. 대형공사의 지역업체 하도급 참여 확대와...",
-    "published_at": "2026-09-29T17:56:00+09:00",
-    "cluster_id": "ed3b",
-    "publisher": "samdailbo.com",
-    "title_clean": "도민들이 체감하는 민생대책의 전제조건",
-    "summary": "정부가 건설 분야 민생대책으로 소규모 공공공사 발주를 확대하여 지역 건설경기를 지원한다. 8월 말 163억원에서 10월 말까지 407억원 이상으로 발주 규모를 늘리고, 대형공사의 지역업체 하도급 참여를 확대할 계획이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-29T18:01:18+09:00",
     "importance": 2
