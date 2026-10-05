@@ -21035,6 +21035,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "상주문화예술회관 건립공사 안전기원제 봉행 - 경상매일신문",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOWlFRnVwMS1DQkRUVlViSHVaa3dxRjVNRGU4LWFsb3VjTzVfdWYzbTljMHBMRENBWDhqR1h2aG1jSDhHUnFveEdkMjV0UEhiS2R5azNGT0NmS3V5cFZv?oc=5",
+    "description": "상주시는 지난 1일 공사 현장에서 상주시 관계자와 시공사인 (주)선원건설(주), 건설사업관리단, 현장관계자 등이 참석한 가운데 문화예술회관 건립공사의 안전하고 성공적인 추진을 기원하기 위해 안전기원제를 봉행했다. 이번 안전기원제는 (주)선원건설 주관으로 문화예술회관 ....",
+    "published_at": "2026-10-05T06:46:02+09:00",
+    "cluster_id": "e7ba",
+    "publisher": "경상매일신문",
+    "title_clean": "상주문화예술회관 건립공사 안전기원제 봉행",
+    "summary": "상주시가 상주문화예술회관 건립공사의 안전하고 성공적인 추진을 기원하는 안전기원제를 봉행했다. 시 관계자, 시공사 선원건설, 건설사업관리단 등이 참석하여 공사 진행 중 안전을 다짐했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-06T03:29:10+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "상주시 문화예술회관 건립공사 안전기원제 개최 - 대경일보",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uenpVLVZnU3gycW04cm91N0tWaHpvbE9tTEVvMm96b21yVVBFWVpOaEZBTHM2NE9pNDB3SFRBNjQ1T21ITHBYR04wQ181ZWppb0ZVTEJjM1lCZnU3MW1UbzJrSjNmbEJj?oc=5",
     "description": "상주시는 문화예술회관 건립공사의 안전하고 성공적인 추진을 기원하기 위해 지난 1일 공사 현장에서 시공사인 ㈜선원건설 주관으로 안전기원제를 개최했다. 이번 행사는 문화예술회관 건립공사의 본격적인 추진에 앞서 공사 관계자들의 안전의식을 높이고, 공사 기간 중 단 한 건의 안전사고도 발생하지 않도록 무재해·무사고를 다짐하며 성공적인 사업 완수를 기원하기 위",
@@ -32278,21 +32294,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-30T06:10:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자 퇴직공제금 4년 적립 시 10만원 더 받는다 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BeGRsNy1pT0RoVkp5Q1MzeVFPc2VrU285VGFhOFJLWW5zcWp1eGR2MWthOWJVbWx3UnZOVDlmRWppNDVkYXNaUkx5dmMwbWpCWGp0Z2EzcU5raDRrRFEtMNIBeEFVX3lxTFBpWmR4YTBiYVFSdGM5X2JtQXRUZ0djUmtyc2plSVU3N1BlMklDSV9ZeENobEdqcnNRVlBDeFNpV29jcGI5b1pydHBGZllQLXdZS2hVLTJGa2N2ZnVBZk9WNGEwZ1l0SEw1UGtISHNEaktDbTRrWW9CSA?oc=5",
-    "description": "[서울=뉴시스]박정영 기자 = 앞으로 퇴직공제금을 4년 이상 7년 미만 적립한 건설근로자는 건설업에서 퇴직할 때 기존 퇴직공제금에 10만원을 추가로 받을 수 있다.건설근로자공제회는 특별퇴직공제금 지급 대상을 기존 7년 이상에서 4년 이상 적립자까지 확대한다고 30일 밝혔다.특별퇴직공제금은 퇴직공제금을 장기간 적립한 건설근로자가 건설업에서 퇴직할 경우 기존 ..",
-    "published_at": "2026-09-30T06:00:00+09:00",
-    "cluster_id": "244f",
-    "publisher": "뉴시스",
-    "title_clean": "건설근로자 퇴직공제금 4년 적립 시 10만원 더 받는다",
-    "summary": "건설근로자공제회가 특별퇴직공제금 지급 대상을 기존 7년 이상에서 4년 이상 적립자로 확대하여, 4년 이상 7년 미만 적립한 건설근로자가 퇴직 시 기존 퇴직공제금에 10만원을 추가로 받을 수 있게 된다. 이는 건설근로자의 퇴직 혜택을 개선하는 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T06:10:43+09:00",
-    "importance": 2
   }
 ]
