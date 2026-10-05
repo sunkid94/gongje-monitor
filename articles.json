@@ -4981,21 +4981,20 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "'가스안전지킴이' 계양구, 취약계층 가스레인지 교체 협약 체결 - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3685408",
-    "description": "'가스안전지킴이' 업무협약 체결 (사진=계양구 제공) 계양구는 3일 계양구지역사회보장협의체, 대한건설기계설비협회 가스공사업협의회와 함께 주거 취약계층의 가스 재난 및 재해 예방을 위한 '가스안전지킴이...",
-    "published_at": "2026-09-05T08:58:00+09:00",
-    "cluster_id": "ebc6",
-    "publisher": "gukjenews.com",
-    "title_clean": "'가스안전지킴이' 계양구, 취약계층 가스레인지 교체 협약 체결",
-    "summary": "계양구가 대한건설기계설비협회 가스공사업협의회 등과 함께 취약계층의 가스레인지 교체를 위한 '가스안전지킴이' 업무협약을 체결했다. 가스 재난·재해 예방을 위한 사회공헌 활동으로, 지역사회 안전 강화에 나선다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-05T09:08:57+09:00",
-    "event_label": "대한기계설비건설협회 가스안전지킴이 취약계층 지원 협약 체결",
-    "importance": 5
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[단독] 중대재해 28% '사고 난 원청'서 또…동일 유형도 반복 - yonhapnewstv.co.kr",
+    "link": "http://www.yonhapnewstv.co.kr/news/MYH20261005091815Che",
+    "description": "기업별로는 대우건설이 14건으로 가장 많았고, 한국전력공사와 현대건설이 각각 12건, 롯데건설과 포스코이앤씨가 각각 10건이었습니다. <전호일/민주노총 대변인> \"노후 설비의 문제, 작업 속도의 문제, 충분한 인력...",
+    "published_at": "2026-10-05T09:19:00+09:00",
+    "cluster_id": "3b82",
+    "publisher": "yonhapnewstv.co.kr",
+    "title_clean": "[단독] 중대재해 28% '사고 난 원청'서 또…동일 유형도 반복",
+    "summary": "중대재해의 28%가 사고 경험이 있는 동일 원청업체에서 반복 발생하고 있으며, 대우건설(14건), 한국전력공사·현대건설(각 12건) 등이 중대재해가 가장 많은 것으로 나타났다. 노후 설비, 작업 속도 문제, 인력 부족 등이 주요 원인으로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-05T09:33:04+09:00",
+    "importance": 4
   },
   {
     "keyword": "대우건설",
@@ -20980,22 +20979,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-29T10:50:27+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 내달 이강석 대표 체제 출범···후속 인사·조직개편에 쏠린 눈 - 뉴스웨이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00TDh4bmJzcFpDZ1lMeEhaRmtqOHBUZXUzenFOaC1zQUZhUGhnVGNwd2Fub0RVUlAxb1FlRG5TTUZQSXBST3NlYm9fVHZENmxpNFlfRVE3dnlxQXFLZWlCSy1ycGpDc2hPbnc?oc=5",
-    "description": "대우건설이 이강석 신임 대표 체제로 전환하며 후속 임원인사와 조직개편에 대한 기대가 커지고 있다. 이강석 대표는 정통 대우맨으로, 조직의 성과와 사업 경쟁력을 평가해 일부 임원진을 교체할 가능성이 있다. 특히 4조원대 도시정비사업 수주 실적 경신을 앞두고 수주 전략 변화와 임원의 역할 조정에 관심이 집중되고 있다.",
-    "published_at": "2026-09-29T10:37:17+09:00",
-    "cluster_id": "b79f",
-    "publisher": "뉴스웨이",
-    "title_clean": "대우건설, 내달 이강석 대표 체제 출범···후속 인사·조직개편에 쏠린 눈",
-    "summary": "대우건설이 이강석 신임 대표 체제로 전환하며 조직개편과 임원인사가 예상된다. 4조원대 도시정비사업 수주 실적을 앞두고 수주 전략 변화와 경영 체질 개선에 관심이 집중되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-29T10:44:42+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
