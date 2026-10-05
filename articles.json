@@ -21015,6 +21015,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "李대통령, 부동산 관련 SNS글 연달아…\"집값 반드시 안정될 것\" - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1697930/?sc=Naver",
+    "description": "이 대통령은 \"서울과 수도권 주택 건설은 부족한 주택 조기 공급효과 외에 지금 가장 필요한 내수경기(건설경기) 활성화라는 두 가지 효과가 동시에 나타나기 때문에 긴급하고 중요하며 효용성 높은 정책\"이라고 설명했다....",
+    "published_at": "2026-10-05T18:35:00+09:00",
+    "cluster_id": "64f8",
+    "publisher": "dailian.co.kr",
+    "title_clean": "李대통령, 부동산 관련 SNS글 연달아…\"집값 반드시 안정될 것\"",
+    "summary": "이 대통령이 서울·수도권 주택 건설 확대를 긴급하고 중요한 정책으로 강조하며 부동산 시장 안정 의지를 드러냈다. 주택 공급 확대와 건설경기 활성화라는 이중 효과를 언급하며 정책의 필요성을 설명했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-05T18:44:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32274,22 +32290,6 @@
     "publisher": "베이비타임즈",
     "title_clean": "현대건설 서초구 아파트 공사장서 30대 노동자 사망 ‘중대재해’",
     "summary": "현대건설이 시공하는 서울 서초구 아파트 건설 현장에서 천장 콘크리트 붕괴로 30대 카자흐스탄 국적 노동자가 사망했다. 고용노동부와 경찰이 중대재해로 분류하고 사고 원인 조사를 시작했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T00:11:34+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서초 건설 현장 30대 사망…현대건설, '중대재해법' 정조준 : 경제 - 재경일보",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zMzloNWZYUDZDcXc5TEVmUUw3R0tid2h2RXg3MHpTbmxZekFPalVPR2JjbHAtcGkyOEZqODY0Tmlub0dPSE9tajZVUQ?oc=5",
-    "description": "서울 서초구 아파트 건설 현장에서 30대 카자흐스탄 국적 작업자가 무너진 천장 콘크리트 파편에 맞아 숨졌다. 고용노동부는 즉시 작업 중지 명령을 내리고 시공사인 현대건설과 하청업체를 대상으로 중대재해처벌법 위반 여부 수사에 착수했다.",
-    "published_at": "2026-09-29T15:00:40+00:00",
-    "cluster_id": "fa29",
-    "publisher": "재경일보",
-    "title_clean": "서초 건설 현장 30대 사망…현대건설, '중대재해법' 정조준 : 경제",
-    "summary": "서울 서초구 아파트 건설 현장에서 30대 외국인 작업자가 붕괴된 콘크리트에 맞아 사망했다. 고용노동부는 현대건설과 하청업체를 중대재해처벌법 위반 혐의로 수사에 착수했다.",
     "sentiment": "negative",
     "collected_at": "2026-09-30T00:11:34+09:00",
     "importance": 4
