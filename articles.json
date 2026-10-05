@@ -21032,6 +21032,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국감 최대 화두는 ‘서울 집값’⋯한숨 돌린 건설사 수장들 - 이투데이",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSS12V3ctTkdrUnROTnF2dHZqUmtRM3k2dHhxb1pUWHJDempMbkY5MUtNWVFQbUFCY0VKV0oxSVpUbmR2UXRZUGR2YUpWQXp2MDZmOHRTbUdzdzNoQ1I3OTJ3Z3Q?oc=5",
+    "description": "7일부터 국회 국토위 국정감사공급 부족 등 정부 정책 공방 예고삼성역 철근 누락ㆍ가덕도공항 등현대ㆍ대우건설 본부장 증인 출석▲국회 국토교통위원",
+    "published_at": "2026-10-06T05:00:00+09:00",
+    "cluster_id": "0c21",
+    "publisher": "이투데이",
+    "title_clean": "국감 최대 화두는 ‘서울 집값’⋯한숨 돌린 건설사 수장들",
+    "summary": "국회 국토위 국정감사에서 서울 집값이 최대 화두로 떠올랐으며, 공급 부족 등 정부 정책을 둘러싼 공방이 예상된다. 삼성역 철근 누락, 가덕도공항 등의 문제로 현대·대우건설 본부장이 증인 출석한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-06T05:09:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "publisher": "Chosunbiz",
     "title_clean": "전국 건축물 743만동 돌파… 건설 경기 한파에 인허가·착공은 급감 - 조선비즈",
     "summary": "전국 건축물이 743만동을 돌파하며 누적 증가하고 있으나, 건설 경기 한파로 인허가와 착공이 급감하고 있는 상황이다. 노후 건물 비중이 46%를 넘어서면서 건설업계의 신규 수주 부진이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T06:10:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "(포스코 장인화 3년)(단독)전문가로 꾸린다던 안전자회사…전문인력 ‘1명’ - 뉴스토마토",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WT1EwYXNiVEZ2UWVwM3czN2htVS1OYUZwOGFmVUlfYVNVZGdYc1RFb0N2QkpBaC15ZUZuZEhoWTR2YVFlT2pOazdRMnZ0cnRILWdIWVc5ajBtb1oydmw4?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WT1EwYXNiVEZ2UWVwM3czN2htVS1OYUZwOGFmVUlfYVNVZGdYc1RFb0N2QkpBaC15ZUZuZEhoWTR2YVFlT2pOazdRMnZ0cnRILWdIWVc5ajBtb1oydmw4?oc=5\" target=\"_blank\">(포스코 장인화 3년)(단독)전문가로 꾸린다던 안전자회사…전문인력 ‘1명’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
-    "published_at": "2026-09-30T06:00:00+09:00",
-    "cluster_id": "c0d8",
-    "publisher": "뉴스토마토",
-    "title_clean": "(포스코 장인화 3년)(단독)전문가로 꾸린다던 안전자회사…전문인력 ‘1명’",
-    "summary": "포스코가 안전전문가로 구성하겠다던 자회사가 실제로는 전문인력 1명으로 운영되고 있는 것으로 드러났다. 안전 전문성 부족으로 인한 기업의 신뢰성 문제가 제기되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-30T06:10:43+09:00",
     "importance": 4
