@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "거제~고성 잇는 남부내륙철도 9공구, 쌍용건설 수주 확정 - 거제뉴스광장",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZNXFLSE1IVjJqdkZVSUVWVm4zYXVNYmNOT1V1cWFOcERhT1djbG1QRVE3em5ZRExpM0l4bGg0THE5OUR2RnRubnRlT19MYkRxRm1RVEEtZDYzdFBVQmNYdE81ZEZyRFFqdHlYSkRR?oc=5",
+    "description": "경남 고성에서 통영을 거쳐 거제로 이어지는 남부내륙철도 제9공구의 시공사가 확정됐다.쌍용건설은 국가철도공단이 발주한 남부내륙철도 제9공구 노반 건설공사를 지난 9",
+    "published_at": "2026-10-06T13:41:03+09:00",
+    "cluster_id": "0afd",
+    "publisher": "거제뉴스광장",
+    "title_clean": "거제~고성 잇는 남부내륙철도 9공구, 쌍용건설 수주 확정",
+    "summary": "쌍용건설이 국가철도공단으로부터 거제~고성을 잇는 남부내륙철도 제9공구 노반 건설공사를 수주했다. 이는 건설업계의 대형 인프라 프로젝트 수주 성공 사례로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-06T14:09:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32293,21 +32309,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-30T10:51:15+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "지난 8월 전 산업 생산 ·소비, 전월 比 모두 감소 - newscape.co.kr",
-    "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124826",
-    "description": "수입액, 내수출하지수 등이 증가하며 전월 대비 0.5p 상승했다. 선행종합지수 순환변동치는 기계류내수출하지수, 수출입물가비율 등이 증가했으나 코스피, 건설수주액 등이 감소하며 전월 대비 0.1p 하락했다.",
-    "published_at": "2026-09-30T10:32:00+09:00",
-    "cluster_id": "ed26",
-    "publisher": "newscape.co.kr",
-    "title_clean": "지난 8월 전 산업 생산 ·소비, 전월 比 모두 감소",
-    "summary": "8월 전산업 생산·소비가 전월 대비 감소했으며, 동행종합지수는 수입액·내수출하지수 증가로 0.5p 상승했다. 선행종합지수는 기계류내수출하지수 증가에도 불구하고 코스피·건설수주액 감소로 0.1p 하락했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T10:51:15+09:00",
-    "importance": 4
   }
 ]
