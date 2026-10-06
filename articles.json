@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설현장 다단계 고리 끊는다…\"주계약자 공동도급제 활성화 시급\" - electimes.com",
+    "link": "https://www.electimes.com/news/articleView.html?idxno=373137",
+    "description": "이에 더불어민주당 을지로위원회와 국회 민병덕·김남근·이강일·염태영·안태준·송재봉 의원, 대한전문건설협회, 대한기계설비건설협회는 6일 국회에서 '주계약자 공동도급제도 개선 방안 토론회'를 열고 해법 모색에...",
+    "published_at": "2026-10-06T23:26:00+09:00",
+    "cluster_id": "608d",
+    "publisher": "electimes.com",
+    "title_clean": "건설현장 다단계 고리 끊는다…\"주계약자 공동도급제 활성화 시급\"",
+    "summary": "건설현장의 다단계 하도급 구조 개선을 위해 더불어민주당과 국회의원, 대한기계설비건설협회 등이 주계약자 공동도급제도 개선 방안 토론회를 개최했다. 업계와 정치권이 협력해 건설산업의 구조적 문제 해결 방안을 모색 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-06T23:33:09+09:00",
+    "event_label": "대한기계설비건설협회 주계약자 공동도급제도 개선 토론회 개최",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32317,21 +32334,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-30T13:41:28+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설사 CEO 대신 본부장…국토위 국감, 실무진 중심 증인 채택 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026093013223301156",
-    "description": "지난해에는 중대재해와 건설현장 안전 문제 등을 이유로 대형 건설사 CEO들이 대거 증인으로 채택됐던 것과 비교하면 올해는 기업인 소환 수위가 한층 낮아진 모습이다. 30일 국토위에 따르면 다음 달 7일 국토교통부...",
-    "published_at": "2026-09-30T13:24:00+09:00",
-    "cluster_id": "5a33",
-    "publisher": "newsway.co.kr",
-    "title_clean": "건설사 CEO 대신 본부장…국토위 국감, 실무진 중심 증인 채택",
-    "summary": "국토위 국감에서 건설사 CEO 대신 본부장 등 실무진 중심으로 증인을 채택하기로 결정했다. 지난해 중대재해와 안전 문제로 대형 건설사 CEO들이 대거 소환된 것과 달리 올해는 기업인 소환 수위를 낮춘 것으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T13:41:28+09:00",
-    "importance": 2
   }
 ]
