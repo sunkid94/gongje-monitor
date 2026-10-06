@@ -21763,6 +21763,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "李대통령 “민주 정부, 투기 억제 노력했지만 저항에 밀려 …여유 갖고... - munhwa.com",
+    "link": "https://www.munhwa.com/article/11621771?ref=naver",
+    "description": "이 대통령은 또 부동산 관련 다른 글에서 “서울과 수도권 주택 건설은 부족한 주택 조기 공급효과 외에 지금 가장 필요한 내수경기(건설경기) 활성화라는 두가지 효과가 동시에 나타나기 때문에 긴급하고 중요하며 효용성...",
+    "published_at": "2026-10-07T05:44:00+09:00",
+    "cluster_id": "efa3",
+    "publisher": "munhwa.com",
+    "title_clean": "李대통령 “민주 정부, 투기 억제 노력했지만 저항에 밀려 …여유 갖고...",
+    "summary": "이 대통령이 부동산 투기 억제 노력과 서울·수도권 주택 건설의 필요성을 언급했습니다. 주택 공급 확대와 건설경기 활성화의 동시 효과를 강조하며 주택 건설 사업의 중요성을 부각했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T05:51:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32318,22 +32334,6 @@
     "publisher": "뉴데일리",
     "title_clean": "반포 '디에이치 클래스트' 공사 근로자 1명 사망 … 현대건설, 잇따른 중대재해",
     "summary": "현대건설이 시공 중인 반포 '디에이치 클래스트' 아파트 건설 현장에서 근로자 1명이 사망하는 중대재해가 발생했다. 현대건설은 최근 잇따른 중대재해로 건설업계의 안전 관리 문제가 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T14:41:57+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "반포 ‘디에이치 클래스트’서 작업자 사망…콘크리트 낙하 - 시사저널",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPZnR1YWlhR29LaGp5bmlFcHY5RlA1U0ZzQjRQalMtenVWREZQT0sxN1ROOHctM1hDbzlXWU9tRExLSVFESHlDX3dTV0VUMWxLb05wU0lXZHphLWxRTHhnRU1vbENycHByMFJ5Qkpsb9IBc0FVX3lxTFBJMEVHNk4xbFVFYmoySzdlay1pQ0tVZTFMMTVEeEx1ZnVzTXZLaDBnSWwxV3NrOHQ3UktuM0VoNEhPVktLQWxxVlZwRk4wRmQyVE5wRHhRd3RteUFManJuenIyU1prSnd1dXQ3NmxoeUQ0RDQ?oc=5",
-    "description": "현대건설이 시공하는 서울 서초구 반포동 ‘디에이치 클래스트’ 건설 현장에서 작업자 1명이 콘크리트 잔재물에 맞아 숨지는 사고가 발생했다.30일 금융감독원 전자공시",
-    "published_at": "2026-09-30T14:20:41+09:00",
-    "cluster_id": "f7c6",
-    "publisher": "시사저널",
-    "title_clean": "반포 ‘디에이치 클래스트’서 작업자 사망…콘크리트 낙하",
-    "summary": "현대건설이 시공 중인 서울 반포동 '디에이치 클래스트' 건설 현장에서 콘크리트 잔재물 낙하로 작업자 1명이 사망하는 중대 안전사고가 발생했다. 건설 현장의 안전 관리 부실 문제를 드러내는 사건으로, 업계에 대한 규제 강화와 안전 감시 확대로 이어질 가능성이 있다.",
     "sentiment": "negative",
     "collected_at": "2026-09-30T14:41:57+09:00",
     "importance": 4
