@@ -5780,6 +5780,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[증시키워드] HLB·주성 급등에 관심↑…반도체는 관망세 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2633094",
+    "description": "두산에너빌리티는 체코 원전 수주 본계약 체결 가시화와 글로벌 소형모듈원전(SMR) 핵심 기자재 공급 협력 기대감이 이어지는 가운데, 그룹 지배구조 개편 관련 불확실성 완화 여부를 주시하는 검색 유입이...",
+    "published_at": "2026-10-07T07:54:00+09:00",
+    "cluster_id": "dfe8",
+    "publisher": "etoday.co.kr",
+    "title_clean": "[증시키워드] HLB·주성 급등에 관심↑…반도체는 관망세",
+    "summary": "두산에너빌리티가 체코 원전 수주 본계약 체결 가시화와 글로벌 소형모듈원전(SMR) 핵심 기자재 공급 협력 기대감으로 관심을 받고 있다. HLB와 주성 등 종목이 급등하는 가운데 그룹 지배구조 개편의 불확실성 해소 여부가 주목되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T08:01:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21759,22 +21775,6 @@
     "publisher": "finomy.com",
     "title_clean": "삼성중공업, 대형가스운반선 2척 추가 수주···상선 목표 132% 달성",
     "summary": "삼성중공업이 버뮤다 지역 선주와 대형가스운반선(VLGC) 2척을 3074억원에 추가 수주했다. 이로써 올해 상선 부문 수주 목표의 132%를 달성하며 목표를 초과 달성했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T17:50:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "내 집 마련 전략 한자리에…집코노미 박람회 2026 [뉴스+현장] - wowtv.co.kr",
-    "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609300112&t=NNv",
-    "description": "삼성물산과 현대건설, DL이앤씨, GS건설, 대우건설 등 주요 건설사들은 분양 예정 단지와 브랜드별 주거 상품을 선보인다. 부동산 전문가들이 시장을 진단하고 대응 방안을 제시하는 ‘집코노미 콘서트’도 열린다....",
-    "published_at": "2026-09-30T17:35:00+09:00",
-    "cluster_id": "5809",
-    "publisher": "wowtv.co.kr",
-    "title_clean": "내 집 마련 전략 한자리에…집코노미 박람회 2026 [뉴스+현장]",
-    "summary": "삼성물산, 현대건설 등 주요 건설사들이 참여하는 '집코노미 박람회 2026'이 개최되어 분양 예정 단지와 주거 상품을 선보인다. 부동산 전문가 콘서트를 통해 시장 진단 및 대응 방안을 제시한다.",
     "sentiment": "positive",
     "collected_at": "2026-09-30T17:50:42+09:00",
     "importance": 2
