@@ -5780,6 +5780,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "5년여간 무려 642명…건설근로사 절반 이상 이 사고로 숨졌다 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12169961",
+    "description": "현대건설·롯데건설이 각각 6명, 현대엔지니어링·포스코이앤씨가 각각 5명으로 불명예 1·2위를 차지했다. 더욱이 같은 공사에서 추락사망 사고가 반복된 사례도 확인됐다. 현대건설의 세종∼포천고속도로 안성...",
+    "published_at": "2026-10-07T08:50:00+09:00",
+    "cluster_id": "94ec",
+    "publisher": "mk.co.kr",
+    "title_clean": "5년여간 무려 642명…건설근로사 절반 이상 이 사고로 숨졌다",
+    "summary": "5년여 동안 건설근로자 642명이 사망했으며, 이 중 절반 이상이 추락사고로 인한 것으로 나타났다. 현대건설, 롯데건설 등 대형 건설사들이 다수의 사망사고를 기록했으며, 같은 공사에서 반복되는 안전사고가 문제로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-07T08:56:57+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21759,22 +21775,6 @@
     "publisher": "국토일보",
     "title_clean": "380MW급 국산 가스터빈 첫 불꽃…현장 실증 본격화",
     "summary": "두산에너빌리티, 한국전력기술, HJ중공업이 참여한 보령신복합 1호기가 국산 380MW급 가스터빈의 첫 불꽃에 성공했다. 향후 계통병입, 부하시험, 신뢰도운전 등 단계별 현장 실증을 본격 추진할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T18:10:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "조선 3사, 수주 400억달러 눈앞…목표 넘고 지난해 실적도 추월 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVRqV25XRWhSbzdidHk1SS1uX1lyeHJtMElVNFJYOFhJQlhUVU14Vzh5SU5XdHZaemVoTWhNR2l6blk4MDlzdVVMUXBvVGN3Um1FQzI4MFVaaDVKUXdDaE5uZEhhTHI0UW1yaEJPSU0wcDdNT01zWHVPT2tzUFo4aGNiQ0Y?oc=5",
-    "description": "HD한국조선해양·삼성중공업·한화오션 등 국내 조선 3사의 올해 누적 수주액이 400억달러를 눈앞에 뒀다. 액화천연가스(LNG) 운반선 등 고부가 선박을 중심으로 수주를 이어가는 가운데 컨테이너선과 탱커 등에서도 물량을 확보하면서 삼성중공업은 상선 부문 연간 목표를 넘어섰고 HD한국조선해",
-    "published_at": "2026-09-30T18:00:00+09:00",
-    "cluster_id": "562e",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "조선 3사, 수주 400억달러 눈앞…목표 넘고 지난해 실적도 추월",
-    "summary": "국내 조선 3사(HD한국조선해양, 삼성중공업, 한화오션)의 올해 누적 수주액이 400억달러에 육박하며 연간 목표를 초과 달성할 전망이다. LNG 운반선 등 고부가 선박 중심으로 수주를 지속하면서 지난해 실적도 추월하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-09-30T18:10:04+09:00",
     "importance": 2
