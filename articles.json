@@ -21236,6 +21236,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설경기 침체 장기화…레미콘업계, AI·저탄소로 돌파구 - biz.sbs.co.kr",
+    "link": "https://biz.sbs.co.kr/article_hub/20000338419?division=NAVER",
+    "description": "건설경기 침체가 장기화하면서 중소 레미콘업계가 공공조달과 탄소중립, 인공지능(AI) 대응을 새로운 생존 전략으로 모색하고 있습니다. 한국레미콘공업협동조합연합회는 지난 5일부터 7일까지 제주 메종글래드호텔에서...",
+    "published_at": "2026-10-06T12:43:00+09:00",
+    "cluster_id": "79f8",
+    "publisher": "biz.sbs.co.kr",
+    "title_clean": "건설경기 침체 장기화…레미콘업계, AI·저탄소로 돌파구",
+    "summary": "건설경기 침체로 어려움을 겪는 중소 레미콘업계가 공공조달, 탄소중립, AI 기술 도입을 통해 경쟁력 확보에 나서고 있습니다. 업계는 저탄소 제품 개발과 디지털 혁신을 새로운 생존 전략으로 추진 중입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-06T12:49:02+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대우건설 싱가포르 도시철도 현장, 싱가포르 육상교통청 주관 ASAC 안전분야 3개 부문 수상 - intn.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuc0phZzdGV2ljV1pISHFzR1IwN2NsN3MyenE4OWtNUEZ1ZzB3aC1vWnhRTHZXQTFZaXJUN0xKS0dERnZPOExfdF9lZUpDY1g2Rm9Lb3ZvTldBXzlmRnRKeFIyYkxSdHpjZ2c?oc=5",
+    "description": "대우건설은 싱가포르 도시철도 CR108(Cross Rail Line 108) 프로젝트가 지난 9월 22일 싱가포르 육상교통청(Land Transport Authority)이 주관하는 2026 ASAC(Annual Safety, Health and Environment Awards Convention)​에서 안전 분야 3개 부문을 수상했다고 6일 밝혔다.CR108 프로젝트는 싱가포르 동부의 파시르리스 환승역(Pasir Ris Interchange Station)과 연결 터널을 설계·시공하는 대형 도시철도 사업으로, 대우건설과 동아지질",
+    "published_at": "2026-10-06T11:16:35+09:00",
+    "cluster_id": "0d3d",
+    "publisher": "intn.co.kr",
+    "title_clean": "대우건설 싱가포르 도시철도 현장, 싱가포르 육상교통청 주관 ASAC 안전분야 3개 부문 수상",
+    "summary": "대우건설이 싱가포르 도시철도 CR108 프로젝트에서 싱가포르 육상교통청 주관 2026 ASAC 안전 분야 3개 부문을 수상했다. 이는 해외 대형 인프라 프로젝트 수행 능력과 안전관리 우수성을 입증하는 성과이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-06T12:49:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32273,38 +32305,6 @@
     "summary": "국토교통부가 철도 차량정리(입환) 작업의 안전사고 예방을 위해 작업자의 화차 외부 탑승을 최소화하고 첨단기술 도입을 추진한다. 최근 10년간 입환 작업 관련 사망사고 3건, 부상사고 7건이 발생해 안전강화 대책이 시행될 예정이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-30T10:36:22+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[2026 국감이슈] 신안산선, 불법 하도급에 안전관리 부실까지…특별점검서 160건 적발 - 뉴스락",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsa1ZHdXBSRDF2MDRCNzcwUlA2SHg1UXYzUHNSMkI0MVV0ekFCd1U5dDhUUmk2OFp3UDV5UDBjb3ctd2FlSWRxWTNKVjBLMHhTRzdQYTRtNGUxWTdiQjVmQkptSElrb3NqSGhsYw?oc=5",
-    "description": "[뉴스락] 수도권 서남부 핵심 교통망인 신안산선 건설 현장에서 무자격 업체가 터널 공사를 직접 시공하는 등 불법 하도급 사례가 확인됐다. 30일 국회 국토교통위원회 소속 국민의힘 유상범 의원실이 국가철도공단으로부터 제출받은 자료에 따르면, 국토교통부는 지난해 4월 광명 5-2공구 터널 붕괴사고 이후 신안산선 9개 공구를 대상으로 지반·터널 특별안전점검을 실시했다.점검 결과 시공 분야 106건, 안전 분야 54건 등 총 160건의 지적사항이 확인됐다. 공구별로는 5-2공구가 25건으로 가장 많았고 5-1공구 24건, 1-1공구와 4-",
-    "published_at": "2026-09-30T10:14:49+09:00",
-    "cluster_id": "0774",
-    "publisher": "뉴스락",
-    "title_clean": "[2026 국감이슈] 신안산선, 불법 하도급에 안전관리 부실까지…특별점검서 160건 적발",
-    "summary": "신안산선 건설 현장에서 불법 하도급과 안전관리 부실이 적발되었으며, 특별점검 결과 160건의 지적사항이 확인됐다. 시공 분야 106건, 안전 분야 54건으로 무자격 업체의 터널 공사 직접 시공 등의 위법 사례가 드러났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T10:30:57+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "5번 유찰된 양재 오픈상가…대우건설, 180억 채권 회수 불투명 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EdWFONmV3VzRtSHlkZXZabU9Cc2hhTHRHRlNGeUtvWm9zMkYtNVQ5V2FwdFRFWVhqTURhR0I3Q0FsRk12c2JOS24xWDA2WG1oUWlqbDMyalB0QngxZUpSUA?oc=5",
-    "description": "대우건설이 시행사를 대신해 갚아준 프로젝트파이낸싱(PF) 대출금 180억원을 회수하기 위해 서울 서초구 양재동 복합상가",
-    "published_at": "2026-09-30T10:17:16+09:00",
-    "cluster_id": "4007",
-    "publisher": "아시아경제",
-    "title_clean": "5번 유찰된 양재 오픈상가…대우건설, 180억 채권 회수 불투명",
-    "summary": "대우건설이 양재동 복합상가 프로젝트에서 시행사 대신 갚아준 PF 대출금 180억원의 회수가 불투명해지고 있습니다. 해당 상가가 5번 유찰되며 부동산 시장 부진으로 인한 건설사의 채권 회수 위험이 심화되고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T10:25:30+09:00",
     "importance": 4
   }
 ]
