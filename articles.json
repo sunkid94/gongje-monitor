@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "공동도급 특례 연말 종료…건설업계 \"상시제도 전환해야\" - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069242",
+    "description": "대한기계설비건설협회는 6일 국회 의원회관에서 대한전문건설협회, 더불어민주당 을지로위원회 및 소속 의원들과 '주계약자 공동도급제도 개선 방안 토론회'를 공동 개최했다고 밝혔다. 주계약자 공동도급제도는...",
+    "published_at": "2026-10-06T17:08:00+09:00",
+    "cluster_id": "773c",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "공동도급 특례 연말 종료…건설업계 \"상시제도 전환해야\"",
+    "summary": "대한기계설비건설협회가 전문건설협회, 민주당과 함께 주계약자 공동도급제도 개선 방안 토론회를 개최했다. 연말 종료 예정인 공동도급 특례를 상시제도로 전환해야 한다는 건설업계의 입장을 제시했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-06T17:15:52+09:00",
+    "event_label": "대한기계설비건설협회 공동도급제도 개선 방안 토론회 개최",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -5557,6 +5574,22 @@
     "collected_at": "2026-09-07T11:09:27+09:00",
     "event_label": "대한기계설비건설협회 가스안전지킴이 업무협약 체결",
     "importance": 5
+  },
+  {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, ‘더샵 여주역더퍼스트’ 6일부터 정당계약 - 한국금융신문",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tdjkwOTlZajVBbmNLUWxETnFubmhkdlNxaXZNSEhPdnFVWFNGY1d6U0dMd0Z5akx0d0piSlZpSnF3dFY0dnRyZkxKUGcta2JrcWtYQ1NmUFd3V3NKOWZRbWJLdnA2d0Q3aUdqcE1hYnI3cTRUVEh5YWNWY04?oc=5",
+    "description": "포스코이앤씨(대표이사 송치영)가 경기 여주에 공급하는 ‘더샵 여주역더퍼스트’가 6일부터 8일까지 3일간 정당계약을 진행한다.6일 포스코이앤씨에 따르면 더샵 여주역더퍼스트는 1차 계약금 1000만원 정액제가 적용된다. 수도권 비규제지역에 공급돼 재당첨 제한과 실거주 의무가 적용되지 않으며",
+    "published_at": "2026-10-06T11:07:49+09:00",
+    "cluster_id": "1b63",
+    "publisher": "한국금융신문",
+    "title_clean": "포스코이앤씨, ‘더샵 여주역더퍼스트’ 6일부터 정당계약",
+    "summary": "포스코이앤씨가 경기 여주에 공급하는 '더샵 여주역더퍼스트' 아파트가 6일부터 정당계약을 진행한다. 수도권 비규제지역 공급으로 재당첨 제한과 실거주 의무가 적용되지 않으며, 1차 계약금 1000만원 정액제가 적용된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-06T17:15:52+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -21543,22 +21576,6 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'또 너냐' 삼성물산 vs 포스코이앤씨…송파 오금현대 재건축서 맞붙나 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20260930001001",
-    "description": "송파구 하반기 재건축 최대어로 꼽히는 오금현대아파트 시공권을 놓고 삼성물산과 포스코이앤씨 등 대형 건설사들이 현장설명회에 참석했다. 이에 따라 상반기 신반포19·25차 수주전에서 맞붙었던 삼성물산과...",
-    "published_at": "2026-09-30T15:30:00+09:00",
-    "cluster_id": "4f12",
-    "publisher": "newspim.com",
-    "title_clean": "'또 너냐' 삼성물산 vs 포스코이앤씨…송파 오금현대 재건축서 맞붙나",
-    "summary": "송파구 오금현대아파트 재건축 시공권을 놓고 삼성물산, 포스코이앤씨 등 대형 건설사들이 경합하고 있다. 상반기 신반포 수주전에 이어 하반기 최대 프로젝트를 두고 다시 한 번 맞붙는 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-30T15:41:14+09:00",
-    "importance": 3
-  },
-  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32306,22 +32323,6 @@
     "publisher": "증권일보",
     "title_clean": "이해욱 회장 이끄는 DL그룹, 기술협력 생태계 확대…공동개발·사업화 속도",
     "summary": "DL그룹이 DL이앤씨를 중심으로 중소·전문기업과의 기술협력 생태계를 확대하고 있으며, 공동 연구개발부터 현장 적용까지 전주기 기술협력 체계를 구축 중이다. 다양한 협력 방식을 통해 건설 현장의 혁신기술 발굴과 사업화를 가속화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T12:51:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LH, 고양은평선 광역철도 본격 추진…2027년 착공 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52068",
-    "description": "한국토지주택공사(LH)가 3기 신도시인 고양창릉 공공주택지구와 서울 은평구를 잇는 고양은평선 광역철도 건설사업을 본격 추진한다.LH는 오는 10월 경기도, 고양시, 경기주택도시공사(GH), 고양도시관리공사(GU)와 고양은평선 건설을 위한 업무협약을 체결할 예정이라고 30일 밝혔다.고양은평선은 서울 은평구 새절역에서 고양창릉지구를 거쳐 고양시청까지 연결하는 총연장 15.0km의 광역철도 노선이다. 총사업비 1조7167억원을 투입해 정거장 8개소와 차량기지 1개소를 조성한다.오는 2027년 1월 착공해 2031년 12월 준공·개통하는",
-    "published_at": "2026-09-30T12:43:20+09:00",
-    "cluster_id": "8d6a",
-    "publisher": "기계설비신문",
-    "title_clean": "LH, 고양은평선 광역철도 본격 추진…2027년 착공",
-    "summary": "LH가 고양창릉 공공주택지구와 서울 은평구를 연결하는 고양은평선 광역철도 건설사업을 본격 추진한다. 총사업비 1조7167억원을 투입하여 2027년 1월 착공, 2031년 12월 준공 예정이다.",
     "sentiment": "positive",
     "collected_at": "2026-09-30T12:51:41+09:00",
     "importance": 2
