@@ -5780,6 +5780,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘의 이슈]영업익 100조 앞둔 삼성, 외국인 움직임 주목 - newskr.kr",
+    "link": "http://www.newskr.kr/news/articleView.html?idxno=106948",
+    "description": "현대건설은 GTX-A 삼성역 구간 주철근 178t 누락, 대우건설은 가덕도신공항 공사비 증액 요청 건이다. ◇정오 자금순환, 전날 나온 거시 지표 한국은행은 낮 12시 2분기 자금순환을 공표한다. 자금순환은 가계·기업...",
+    "published_at": "2026-10-07T07:44:00+09:00",
+    "cluster_id": "31e7",
+    "publisher": "newskr.kr",
+    "title_clean": "[오늘의 이슈]영업익 100조 앞둔 삼성, 외국인 움직임 주목",
+    "summary": "현대건설의 GTX-A 삼성역 구간 주철근 178t 누락, 대우건설의 가덕도신공항 공사비 증액 요청 등 건설업계의 시공 문제와 원가 압박 이슈가 제기되고 있다. 한국은행의 2분기 자금순환 지표 발표로 건설업 자금 흐름 추이가 주목되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-07T07:51:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21762,22 +21778,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-30T17:50:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대단지는 유찰·청담 96가구엔 북적… 덩치보다 '입지' 택한 건설사들 - the-biz.co.kr",
-    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=728597",
-    "description": "첫 현장설명회에는 성수2지구에서 DL이앤씨와 IPARK현대산업개발이, 목동12단지에서 GS건설과 대우건설, 포스코이앤씨, IPARK현대산업개발이 참석했다. 그러나 사업 조건을 살펴본 업체 가운데 실제 제안서를 제출한 곳은...",
-    "published_at": "2026-09-30T17:40:00+09:00",
-    "cluster_id": "ac17",
-    "publisher": "",
-    "title_clean": "대단지는 유찰·청담 96가구엔 북적… 덩치보다 '입지' 택한 건설사들 - the-biz.co.kr",
-    "summary": "재건축 사업에서 대형건설사들이 대단지 프로젝트 유찰과 소규모 프로젝트 수주에 집중하는 추세를 보이고 있다. 덩치 있는 사업보다 입지 우수성을 고려한 선별적 참여로 시장 양극화가 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T17:44:59+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
