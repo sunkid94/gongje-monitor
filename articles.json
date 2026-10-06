@@ -5763,6 +5763,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너, 미국 기업 첫 가스터빈 공급 - 경남매일",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xS0ZCSnpPZk9fY1BjMXZRZkhnQjNyck1xUGJaU1hxTVBFdG9jZDJ6MVVhM3d4c0ZCODhvRlJmbkNXV3ZIdUU5TDJJNHVsR0U3dXptdVY0VkZsTndGemVDd2FyRTd2ZVo4UWc?oc=5",
+    "description": "두산에너빌리티가 미국 인공지능(AI) 기업 스페이스XAI의 전력 인프라 공급사가 된다.두산에너빌리티는 6일 창원 본사에서 스페이스XAI에 수출하는 S2 380㎿가스터빈(DGT6-300H) 제작을 완료하고 출하식을 열었다고 밝혔다.이날 출하식에는 발주처인 스페이스XAI 주요 관계자들과 손승우 파워서비스BG장 등을 비롯한 두산에너빌리티 임직원 70여명이 참석했다.행사 참석자들은 가스터빈 출하 현장을 참관하고 창원 본사의 생산 현장을 견학했다. 이후에는 당사 경영진과 간담회를 통해 향후 가스터빈 사업 확대 방안에 대해 논의했다.이번에 출",
+    "published_at": "2026-10-06T21:17:35+09:00",
+    "cluster_id": "efcb",
+    "publisher": "경남매일",
+    "title_clean": "두산에너, 미국 기업 첫 가스터빈 공급",
+    "summary": "두산에너빌리티가 미국 AI 기업 스페이스XAI에 380㎿급 가스터빈을 수출하며 해외 전력 인프라 시장 진출을 확대하고 있다. 향후 가스터빈 사업 확대 방안을 협의하며 추가 수주 가능성을 열어두었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T03:26:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21745,22 +21761,6 @@
     "sentiment": "positive",
     "collected_at": "2026-09-30T17:15:45+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"韓 데이터센터 전력 논의, 한전·가스공사 등 공급기업이 주도\" - esgeconomy.com",
-    "link": "https://www.esgeconomy.com/news/articleView.html?idxno=16881",
-    "description": "그 결과 한국전력공사와 한국가스공사, 두산에너빌리티, SK㈜를 비롯해 한국경제인협회와 대한상공회의소 등이 주요 정책 관여 주체로 파악됐다. 특히 AI 확산으로 데이터센터의 전력 소비가 빠르게 늘면서 안정적인...",
-    "published_at": "2026-09-30T17:02:00+09:00",
-    "cluster_id": "0ff9",
-    "publisher": "esgeconomy.com",
-    "title_clean": "\"韓 데이터센터 전력 논의, 한전·가스공사 등 공급기업이 주도\"",
-    "summary": "AI 확산에 따른 데이터센터 전력 수요 증가로 한전, 가스공사 등 에너지 공급기업들이 정책 논의를 주도하고 있다. 데이터센터 건설 관련 정책 수립 과정에서 건설업계의 참여도와 영향력이 제한적인 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T17:15:45+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
