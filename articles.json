@@ -21695,6 +21695,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "수주 부진·공사비 상승…인천 건설업계 '이중고' - incheonilbo.com",
+    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1333576",
+    "description": "6일 국토교통부 건설산업지식정보시스템에 따르면 올해 1~9월 인천지역 종합·전문건설업 폐업 신고는 124건이다. 지난해 같은 기간 119건보다 5건(4.2%) 늘었다. 대한건설협회 인천시회 관계자는 \"2~3년 전부터 이어진...",
+    "published_at": "2026-10-06T20:00:00+09:00",
+    "cluster_id": "cca5",
+    "publisher": "incheonilbo.com",
+    "title_clean": "수주 부진·공사비 상승…인천 건설업계 '이중고'",
+    "summary": "올해 1~9월 인천지역 건설업체 폐업 신고가 124건으로 전년 동기 대비 4.2% 증가했다. 수주 부진과 공사비 상승으로 인한 수익성 악화가 건설업계의 이중고 문제로 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-06T20:12:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32317,21 +32333,5 @@
     "sentiment": "negative",
     "collected_at": "2026-09-30T13:25:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "HJ중공업, 협력사 CEO들과 안전보건 간담회 개최…안전정책 공유·우수사례 발표 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4WW52ejJBbUxlWnA3ZHZEOHp3SkoxbUQ2R1ktSEZ5VlJpZHBSRVBKdmxkR1hQaXlhckFUOE94amVoQXZuN3JNbWFaSkp6STc3c0lsMkZuMzlmWTZoMm1TUW1tR3NQU3NrdG9zVVNudEpyOG_SAXdBVV95cUxPcWxUaFFzWU85VUF6cFcyanNxZEtqZTRSQXRfWGpBWE1pSjBkSXM0Zll5LTBhVHZLQjJTU3RhNnpzclM3OUlQbDljeHMwelFucFgtSkdJcno3c1RKUHM1YTdIMjQ4aXNlQ0VKR0VFTHJ0NWFOcUExWQ?oc=5",
-    "description": "건설현장의 중대재해 예방을 위해 원청과 협력사 간 안전관리 체계를 공유하고 현장 대응력을 높이는 자리가 마련됐다. HJ중공업 건설부문은 협력사와 안전보건 정책을 공유하고 예방 중심의 관리체계를 점검하는 데 초점을 맞췄다.HJ중공업 건설부문은 서울 남영사옥에서 주요 협력사 30개사 CEO를 초청해 ‘2026년도 협력사 CEO 안전보건 간담회’를 개최했다고 30일 밝혔다.이번 행사는 회사의 안전보건 정책과 주요 추진 방향을 협력사에 전달하는 동시에 현장 안전관리 과정에서의 소통을 강화하기 위해 마련됐다. 특히 원청의 일방적인 관리보다",
-    "published_at": "2026-09-30T13:14:51+09:00",
-    "cluster_id": "bae8",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "HJ중공업, 협력사 CEO들과 안전보건 간담회 개최…안전정책 공유·우수사례 발표",
-    "summary": "HJ중공업이 협력사 30개사 CEO를 초청해 안전보건 간담회를 개최하고 안전정책과 예방 중심의 관리체계를 공유했다. 원청과 협력사 간 소통을 강화하여 건설현장 중대재해 예방을 위한 안전관리 체계를 구축하는 자리를 마련했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-30T13:25:33+09:00",
-    "importance": 2
   }
 ]
