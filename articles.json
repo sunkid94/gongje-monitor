@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설업계, 주계약자 공동도급제 활성화 촉구 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9COFlmNzAycWw5cnBRWHJESlJFUldYRkd2enczbC1nLXVBcXpKd0w1ckJjM3RqN3NaNFAwQWxnUmtVQ3N1VnFxekI1cmtYRTQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9COFlmNzAycWw5cnBRWHJESlJFUldYRkd2enczbC1nLXVBcXpKd0w1ckJjM3RqN3NaNFAwQWxnUmtVQ3N1VnFxekI1cmtYRTQ?oc=5\" target=\"_blank\">건설업계, 주계약자 공동도급제 활성화 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+    "published_at": "2026-10-06T13:03:42+09:00",
+    "cluster_id": "9fe0",
+    "publisher": "v.daum.net",
+    "title_clean": "건설업계, 주계약자 공동도급제 활성화 촉구",
+    "summary": "건설업계가 주계약자 공동도급제의 활성화를 촉구하고 있다. 이 제도는 건설사업의 수주 기회 확대와 시장 진입 장벽 완화에 도움이 될 것으로 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-06T13:39:06+09:00",
+    "event_label": "대한기계설비건설협회 주계약자 공동도급제 활성화 촉구",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32290,22 +32307,6 @@
     "summary": "신안산선 복선전철 건설 현장에서 무자격 업체의 불법 하도급, 터널 공사 직접 수행 등 160건의 시공·안전 결함이 적발됐다. 광명 터널 붕괴사고 이후 특별 점검에서 적발된 것으로, 건설업계의 안전관리 부실과 법규 위반 문제가 심각한 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-09-30T10:41:21+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[2026 국감이슈] 신안산선, 불법 하도급에 안전관리 부실까지…특별점검... - newslock.co.kr",
-    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=137148",
-    "description": "무자격 업체가 실제 시공에 참여하면서 건설산업기본법 위반에 따른 처분 절차가 진행 중이다. 지난해 터널 붕괴사고가 발생한 5-2공구에서도 무등록 업체에 공사를 재하도급한 사실이 확인됐다. 이와 함께...",
-    "published_at": "2026-09-30T10:16:00+09:00",
-    "cluster_id": "6f20",
-    "publisher": "newslock.co.kr",
-    "title_clean": "[2026 국감이슈] 신안산선, 불법 하도급에 안전관리 부실까지…특별점검...",
-    "summary": "신안산선 건설 사업에서 무자격·무등록 업체의 불법 하도급과 안전관리 부실이 적발되었다. 터널 붕괴사고가 발생한 구간에서도 같은 위반이 확인되어 건설산업기본법 처분 절차가 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T10:36:22+09:00",
     "importance": 4
   }
 ]
