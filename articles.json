@@ -5780,6 +5780,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[중흥 2세 시대] ③대우건설, 이강석 대표 첫 과제 '가덕도 공사비' - fetv.co.kr",
+    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=311295",
+    "description": "중흥그룹의 주력 계열사인 대우건설은 이달 2일 임시주주총회와 이사회를 열었다. 이를 통해 지난 8월 김보현 전 대표의 갑작스러운 사임 이후 직무대행을 맡아 온 이강석 대표를 정식 선임했다. 이 가운데 이 대표가...",
+    "published_at": "2026-10-07T07:00:00+09:00",
+    "cluster_id": "a966",
+    "publisher": "fetv.co.kr",
+    "title_clean": "[중흥 2세 시대] ③대우건설, 이강석 대표 첫 과제 '가덕도 공사비'",
+    "summary": "중흥그룹 계열사 대우건설이 이강석 신임 대표를 정식 선임했다. 이강석 대표의 첫 과제는 가덕도 신공항 관련 공사비 문제 해결로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-07T07:11:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21764,19 +21780,19 @@
     "importance": 4
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "아크메르 동탄, 10월 견본주택 개관…모든 세대 2.5m 천장고 적용 - srtimes.kr",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=213637",
-    "description": "시공은 포스코이앤씨가 맡았다. 30일 업계에 따르면 아크메르 동탄은 화성시 반송동 95·99번지 일원에 지하 7층~지상 최고 49층, 7개 동, 총 1,808가구 규모로 조성된다. 총 2개 블록으로 구성되며 ▲아크메르 동탄 95(M1...",
-    "published_at": "2026-09-30T17:30:00+09:00",
-    "cluster_id": "8182",
-    "publisher": "srtimes.kr",
-    "title_clean": "아크메르 동탄, 10월 견본주택 개관…모든 세대 2.5m 천장고 적용",
-    "summary": "포스코이앤씨가 시공하는 아크메르 동탄이 10월 견본주택을 개관한다. 화성시 반송동에 지상 최고 49층, 7개 동, 1,808가구 규모로 조성되며 모든 세대에 2.5m 천장고를 적용하는 프리미엄 브랜드 아파트이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T17:44:59+09:00",
+    "title": "[안전과 미래] 함께 지키는 건설현장 안전 - daejonilbo.com",
+    "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2305377",
+    "description": "건설현장의 안전은 규정과 장비만으로 완성되지 않는다. 같은 절차와 보호구를 갖추고도 현장마다 안전 수준이 다른 이유는 결국 사람 사이의 관계와 의사결정 방식에 있다. 이제 현장의 안전은 '지시하는 안전'에서 '함께...",
+    "published_at": "2026-10-07T07:00:00+09:00",
+    "cluster_id": "6f89",
+    "publisher": "daejonilbo.com",
+    "title_clean": "[안전과 미래] 함께 지키는 건설현장 안전",
+    "summary": "건설현장 안전은 규정과 장비보다 사람 간의 관계와 의사결정 방식이 더 중요하며, '지시하는 안전'에서 '함께하는 안전'으로의 패러다임 전환이 필요하다는 주장이다. 현장 안전 수준을 높이기 위해 구성원 간의 협력과 소통 강화가 핵심임을 강조한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-07T07:11:24+09:00",
     "importance": 2
   },
   {
@@ -32320,22 +32336,6 @@
     "title_clean": "한신공영, 정도·직스테크놀로지와 '데이터센터 역량 강화' MOU…미래 신...",
     "summary": "한신공영이 정도, 직스테크놀로지와 MOU를 체결하여 데이터센터 역량을 강화하고 디지털 트윈 기반 스마트건설 기술을 고도화하기로 했다. 건설업계의 디지털 전환과 기술 혁신을 추진하는 협력 사례다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-30T14:51:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대전시의회 하경옥·구본환 의원, 지역건설 상생 논의 - jamill.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45ay03V19RWWx6bFJTNUhoR3hlaW5XOWVyaDdadkxXMWRrdG5xalItSXl2d2w1NEtBQkd4cEhUQW5hT1loU1RhT2x2Um9tR0MybTNjT3BoYTEwVlpKd1I1blA5Z2FwUQ?oc=5",
-    "description": "대전시의회는 30일 시의회 소통실에서 ‘지역 건설업체와 지역 노동자의 상생 방안 정책토론회’를 개최해 대전의 건설기계 및 건설노동 환경의 개선과 발전 방안에 대해 논의했다.대전시의회 하경옥 의원(더불어민주당, 유성구3)과 구본환 의원(더불어민주당, 유성구4)이 공동좌장을 맡은 이번 토론회는 대전지역 건설경기를 진단하고 현장에서 일하는 건설기계 사업자와 노동자가 처한 환경을 개선하는 등 대전지역 건설경기의 안정과 발전 방안을 모색하기 위해 마련됐다.발제를 맡은 민병민 더불어민주당 유성을지역위원회 노동특보는 ‘지역건설경기 침체에 따른",
-    "published_at": "2026-09-30T14:36:28+09:00",
-    "cluster_id": "0c80",
-    "publisher": "jamill.kr",
-    "title_clean": "대전시의회 하경옥·구본환 의원, 지역건설 상생 논의",
-    "summary": "대전시의회가 지역 건설업체와 노동자의 상생 방안을 논의하는 정책토론회를 개최했다. 건설경기 침체에 따른 현장의 어려움을 진단하고 건설기계 사업자와 노동자의 근무환경 개선을 위한 발전 방안을 모색했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-09-30T14:51:45+09:00",
     "importance": 2
   }
