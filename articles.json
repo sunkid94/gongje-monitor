@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[인사] 외교부 ; 전남광주통합특별시 ; 한국기초과학지원연구원 등 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026100665001",
+    "description": "강종철▷광양시 부시장 이상용▷서구 부구청장 최경화 ◈한국기초과학지원연구원◎보임▷부원장 최정헌▷경영지원본부장 김혜진 ◈한국전기연구원▷연구부원장 김태현 ◈전문건설공제조합◎임명▷전무이사 김수상",
+    "published_at": "2026-10-06T18:22:00+09:00",
+    "cluster_id": "860d",
+    "publisher": "hankyung.com",
+    "title_clean": "[인사] 외교부 ; 전남광주통합특별시 ; 한국기초과학지원연구원 등",
+    "summary": "외교부, 전남광주통합특별시, 한국기초과학지원연구원, 한국전기연구원, 전문건설공제조합 등 각 기관의 인사발령을 공시했다. 전문건설공제조합은 김수상을 전무이사로 임명했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-06T18:32:24+09:00",
+    "event_label": "전문건설공제조합 김수상 전무이사 임명",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -5659,6 +5676,22 @@
     "collected_at": "2026-09-07T11:09:27+09:00",
     "event_label": "대한기계설비건설협회 가스안전지킴이 업무협약 체결",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 싱가포르 도시철도 현장 '안전관리 우수' 3개 부문 수상 - news.tvchosun.com",
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/10/06/2026100690185.html",
+    "description": "대우건설은 싱가포르 도시철도 사업인 'CR108(Cross Rail Line 108) 프로젝트'가 싱가포르 육상교통청이 주관하는 2026 ASAC 시상식에서 안전 분야 3개 부문을 수상했다고 6일 밝혔다. CR108 프로젝트는 싱가포르 동부의...",
+    "published_at": "2026-10-06T18:20:00+09:00",
+    "cluster_id": "99be",
+    "publisher": "news.tvchosun.com",
+    "title_clean": "대우건설, 싱가포르 도시철도 현장 '안전관리 우수' 3개 부문 수상",
+    "summary": "대우건설이 싱가포르 도시철도 CR108 프로젝트에서 싱가포르 육상교통청 주관 2026 ASAC 시상식의 안전 분야 3개 부문을 수상했다. 해외 대형 인프라 프로젝트에서의 안전관리 우수성을 인정받은 것으로, 국내 건설사의 글로벌 경쟁력을 보여주는 성과다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-06T18:32:24+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21645,22 +21678,6 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "동서발전, '청정수소 생태계 발전' 수소산업 혁신포럼 개최 - discoverynews.kr",
-    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1102963",
-    "description": "현장에는 동서발전과 두산에너빌리티, HD현대중공업 등이 추진해 온 수소 관련 연구개발 성과를 소개하는 전시공간도 마련됐다. 수소산업의 기술개발 현황과 실제 적용 가능성을 한자리에서 확인할 수 있도록 구성했다....",
-    "published_at": "2026-09-30T16:00:00+09:00",
-    "cluster_id": "a03b",
-    "publisher": "discoverynews.kr",
-    "title_clean": "동서발전, '청정수소 생태계 발전' 수소산업 혁신포럼 개최",
-    "summary": "동서발전이 두산에너빌리티, HD현대중공업 등과 함께 청정수소 생태계 발전을 위한 수소산업 혁신포럼을 개최했다. 수소 관련 연구개발 성과 전시와 기술개발 현황, 실제 적용 가능성을 소개하는 행사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T16:11:31+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32315,21 +32332,5 @@
     "sentiment": "positive",
     "collected_at": "2026-09-30T13:10:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "8월 생산·소비·투자 동반감소 - naeil.com",
-    "link": "https://www.naeil.com/news/read/603823?ref=naver",
-    "description": "현재 경기를 보여주는 동행지수 순환변동치는 101.7로 전월 대비 0.5p 상승했지만 향후 경기를 예측하는 선행지수 순환변동치는 코스피·건설수주액 감소 등으로 0.1p 하락한 104.2를 기록해 경기 불확실성을 키웠다....",
-    "published_at": "2026-09-30T13:04:00+09:00",
-    "cluster_id": "61ba",
-    "publisher": "naeil.com",
-    "title_clean": "8월 생산·소비·투자 동반감소",
-    "summary": "8월 생산·소비·투자가 동반 감소하면서 동행지수는 소폭 상승했으나, 선행지수는 코스피 하락과 건설수주액 감소로 하락했다. 경기 불확실성이 커지고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T13:10:28+09:00",
-    "importance": 4
   }
 ]
