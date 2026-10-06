@@ -5219,6 +5219,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "G7 비축유 방출에 국제유가 하락… 브렌트유 100달러선 '턱걸이' - 파이낸셜포스트",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OSlFqb3A4dkgwMHAyQkJWQlNjdjNXcENPaXFrN3NGWHctR0U4Vy1OdkEzSlhTZHBFVkUzLUhtc3pTUHFiUHhqS0pUcm9SYlp1LWpVYWw1eVc2N2p4N2ExUU4zamVXVU91UzdGTXA5cUJlSzFZ?oc=5",
+    "description": "국제 유가가 주요 7국(G7)의 비축유 방출 합의와 중동 산유국 원유 수출 회복에 하락했다.6일 한국석유공사에 따르면 5일(이하 현지 시각) 런던 ICE 선물거래소에서 브렌트유 최근월물은 전 거래일보다 배럴당 1.93달러 내린 100.32달러에 거래를 마쳤다. 뉴욕상업거래소(NYMEX",
+    "published_at": "2026-10-06T10:59:56+09:00",
+    "cluster_id": "0a63",
+    "publisher": "파이낸셜포스트",
+    "title_clean": "G7 비축유 방출에 국제유가 하락… 브렌트유 100달러선 '턱걸이'",
+    "summary": "G7의 비축유 방출 합의와 중동 산유국의 원유 수출 회복으로 국제유가가 하락했으며, 브렌트유가 배럴당 100.32달러로 내려앉았다. 유가 하락은 건설기계 연료비 절감 등 운영비 개선 요인으로 작용할 수 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-06T12:29:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21199,22 +21215,6 @@
     "title_clean": "네팔 홍수 정부대응팀 단계적 철수‥경찰은 남아서 신원확인",
     "summary": "네팔 홍수 재해 현장에서 두산에너빌리티가 굴착기를 투입하여 수색작업을 진행 중이며, 정부는 장비 이송을 위해 네팔군 헬기 협조를 주선하고 있습니다. 정부대응팀은 단계적으로 철수하되 경찰은 남아 신원확인 업무를 계속 수행합니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-09-29T20:06:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "소문만 무성하던 반도체 국가산단 내달 첫 삽 - incheonilbo.com",
-    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1333117",
-    "description": "29일 대우건설과 한국토지주택공사(LH) 등에 따르면 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 낙찰자로 대우건설이 선정됐다. 다음 달 조성공사가 시작되는 이번 사업은 용인시 이동읍, 남사읍...",
-    "published_at": "2026-09-29T19:56:00+09:00",
-    "cluster_id": "d94e",
-    "publisher": "incheonilbo.com",
-    "title_clean": "소문만 무성하던 반도체 국가산단 내달 첫 삽",
-    "summary": "대우건설이 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 낙찰자로 선정되어 다음 달부터 공사를 시작한다. 대규모 반도체 인프라 구축 사업으로 건설업계에 수주 기회를 제공하는 호재다.",
-    "sentiment": "positive",
     "collected_at": "2026-09-29T20:06:06+09:00",
     "importance": 2
   },
