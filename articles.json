@@ -5763,6 +5763,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "영업정지에 충당부채까지…포스코이앤씨에 닥친 신안산선 청구서 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/10/07/2026100608582546029",
+    "description": "포스코이앤씨는 '전면 재시공'을 약속했지만 주민 불안은 여전하다. 사고에 따른 행정처분과 주민보상도 마무리되지 않았다. 신안산선 개통까지 남은 과제와 사고 후 쟁점을 짚어본다. 4662억원. 올해 상반기 말...",
+    "published_at": "2026-10-07T04:45:00+09:00",
+    "cluster_id": "8c28",
+    "publisher": "mt.co.kr",
+    "title_clean": "영업정지에 충당부채까지…포스코이앤씨에 닥친 신안산선 청구서",
+    "summary": "포스코이앤씨가 신안산선 시공 사고로 영업정지 처분을 받고 4662억원의 충당부채를 계상했다. 전면 재시공을 약속했으나 행정처분과 주민보상이 완료되지 않아 건설사의 리스크가 증가하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-07T04:51:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21745,22 +21761,6 @@
     "sentiment": "negative",
     "collected_at": "2026-09-30T17:30:33+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "중부발전, 국산 대형 가스터빈 ‘보령신복합 1호기’ 최초점화 성공 - mcnews.co.kr",
-    "link": "http://mcnews.co.kr/86741",
-    "description": "이 사업은 주기기 공급을 맡은 두산에너빌리티, 종합 설계를 담당한 한국전력기술, 시공을 맡은 HJ중공업 등 국내 유관 기업들이 협력 체계를 구축해 실증과 안전 시공에 총력을 기울이고 있다. 보령신복합 1호기는...",
-    "published_at": "2026-09-30T17:08:00+09:00",
-    "cluster_id": "8554",
-    "publisher": "mcnews.co.kr",
-    "title_clean": "중부발전, 국산 대형 가스터빈 ‘보령신복합 1호기’ 최초점화 성공",
-    "summary": "중부발전이 국산 대형 가스터빈 '보령신복합 1호기'의 최초점화에 성공했다. 두산에너빌리티, 한국전력기술, HJ중공업 등 국내 기업들이 협력하여 대형 발전설비 국산화 기술을 입증했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-30T17:15:45+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
