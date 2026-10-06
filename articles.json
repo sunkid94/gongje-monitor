@@ -21695,6 +21695,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[단독]한국수자원공사, '송산그린시티 형도' 사업장에 폐기물 매립 의혹 파문 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50355",
+    "description": "[건설이코노미뉴스] 수자원·환경 사업 등 녹색시장 선두주자를 표방하고 있는 한국수자원공사(사장 윤석대)가 관리ㆍ책임를 맡고 있는 사업 부지에 오랜 기간 동안 환경오염을 유발하는 다량의 폐기물이 방치된 것으로 드러났다. 더 큰 문제는, 폐기물 일부가 토사와 섞였거나 지표면 아래로 이어진 흔적이 발견되면서 지하 불법 폐기물매립 여부를 확인해야 한다는 지적이 제기됐다. 불법매립 의혹이 불거진 곳은 '경기도 화성시 송산그린시티 형도 사업장'이다. 이 곳 현장 합동점검에서 건설폐기물로 추정되는 물질과 폐어구·폐어망, 건축자재 잔재 등이 장기",
+    "published_at": "2026-10-06T21:02:14+09:00",
+    "cluster_id": "9a1f",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[단독]한국수자원공사, '송산그린시티 형도' 사업장에 폐기물 매립 의혹 파문",
+    "summary": "한국수자원공사가 경기도 화성시 송산그린시티 형도 사업장에서 건설폐기물, 폐어구 등 다량의 폐기물을 방치하고 있으며, 지하 불법매립 의혹까지 제기되고 있다. 녹색시장 선두주자를 표방하는 공기업의 환경오염 방치로 건설업계 신뢰도와 규제 강화 우려가 야기될 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-06T21:03:05+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32317,21 +32333,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-30T13:30:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, 반포 ‘디에이치 클래스트’ 현장서 낙하물 사망사고 - 메디컬투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YVWowMVVmTHhvd2tyMzJLcF9BLTNMVkZvakpyaUhlR2tieHBnMDBqVzlVSS1od3hrNXZkT01BM2xtWWhZQlJOYVBvNWNnODBLcU40YWtZUnBHcG1hTnNQTmVkc1g5X0dpTmtQOA?oc=5",
-    "description": "[mdtoday = 김은미 기자] 서울 서초구 반포동의 대규모 아파트 신축 공사 현장에서 30대 외국인 근로자가 콘크리트 잔재물에 맞아 숨지는 중대재해 사고가 발",
-    "published_at": "2026-09-30T12:12:09+09:00",
-    "cluster_id": "b8ef",
-    "publisher": "메디컬투데이",
-    "title_clean": "현대건설, 반포 ‘디에이치 클래스트’ 현장서 낙하물 사망사고",
-    "summary": "서울 서초구 반포동 현대건설의 '디에이치 클래스트' 아파트 신축 공사 현장에서 30대 외국인 근로자가 낙하물(콘크리트 잔재물)에 맞아 사망하는 중대재해 사고 발생. 건설 현장의 안전 문제로 업계 규제 강화 및 이미지 악화 우려.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T13:25:33+09:00",
-    "importance": 4
   }
 ]
