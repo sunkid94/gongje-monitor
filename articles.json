@@ -22001,6 +22001,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "LH, 불법하도급 신고 문턱 낮추고 포상금 상한 없앤다 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493504",
+    "description": "이번 개편은 지난 6월 시행된 국토교통부의 건설산업기본법 시행령 개정에 맞춰 이뤄졌다. 가장 큰 변화는 신고 절차다. 기존에는 서류나 사진 등 불법하도급을 입증할 수 있는 자료를 제출해야 신고를 접수할 수...",
+    "published_at": "2026-10-07T22:00:00+09:00",
+    "cluster_id": "2fd0",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "LH, 불법하도급 신고 문턱 낮추고 포상금 상한 없앤다",
+    "summary": "LH가 불법하도급 신고 절차를 간소화하고 포상금 상한을 폐지하는 방향으로 제도를 개편했다. 국토교통부의 건설산업기본법 시행령 개정에 맞춘 조치로, 신고 진입장벽을 낮춰 불법하도급 적발을 강화한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-07T22:15:47+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[건설소식] 롯데건설·신동아건설·현대엔지니어링·호반건설·부영그룹... - sports.hankooki.com",
+    "link": "https://sports.hankooki.com/news/articleView.html?idxno=6941361",
+    "description": "호반건설 관계자는 \"이번 기술을 통해 세대별로 다양해지는 옵션 정보를 보다 체계적으로 관리하고 시공에 정확하게 반영할 수 있게 됐다\"며 \"앞으로도 AI와 BIM을 활용한 스마트건설 기술을 지속적으로 개발해 현장...",
+    "published_at": "2026-10-07T22:04:00+09:00",
+    "cluster_id": "76b6",
+    "publisher": "sports.hankooki.com",
+    "title_clean": "[건설소식] 롯데건설·신동아건설·현대엔지니어링·호반건설·부영그룹...",
+    "summary": "호반건설이 AI와 BIM 기술을 활용한 스마트건설 기술을 개발하여 세대별 옵션 정보를 체계적으로 관리하고 시공 정확도를 높이고 있다. 건설사들이 디지털 혁신 기술을 지속적으로 도입하며 경쟁력을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T22:15:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32319,37 +32351,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-01T14:41:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "DL이앤씨, 중소기업과 기술 공동개발 확대⋯현장 적용·사업화까지 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2631403",
-    "description": "한솔홈데코와 공동 개발한 '욕실용 건식벽체 방수시스템'은 국토교통부 건설신기술 인증을 획득해 아크로와 e편한세상 현장에 적용되고 있다. 강남제비스코와는 2021년부터 '공동주택 내구성 향상 페인트'를 공동...",
-    "published_at": "2026-10-01T14:14:00+09:00",
-    "cluster_id": "23bd",
-    "publisher": "etoday.co.kr",
-    "title_clean": "DL이앤씨, 중소기업과 기술 공동개발 확대⋯현장 적용·사업화까지",
-    "summary": "DL이앤씨가 중소기업과의 기술 공동개발을 확대하고 있으며, 한솔홈데코와 개발한 욕실용 건식벽체 방수시스템이 국토교통부 건설신기술 인증을 획득해 실제 현장에 적용 중이다. 강남제비스코와는 공동주택 내구성 향상 페인트 개발을 진행 중으로, 건설사의 기술혁신과 중소기업 협력 체계를 강화하는 긍정적 추세를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T14:31:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[AT 현장] \"전문건설업, 제도·기술·인력 전반 혁신 필요\" - asiatime.co.kr",
-    "link": "https://www.asiatime.co.kr/article/20261001500321",
-    "description": "장기화된 건설경기 침체와 공사비 상승, 인력 부족, 디지털 전환 등에 대응하기 위해 전문건설업의 제도·기술·인력·금융·시장 전반의 혁신이 필요하다고 제시했다. 김희수 대한건설정책연구원장이 서울 동작구...",
-    "published_at": "2026-10-01T14:22:00+09:00",
-    "cluster_id": "4ebe",
-    "publisher": "asiatime.co.kr",
-    "title_clean": "[AT 현장] \"전문건설업, 제도·기술·인력 전반 혁신 필요\"",
-    "summary": "전문건설업이 직면한 경기 침체, 공사비 상승, 인력 부족, 디지털 전환 등의 문제 해결을 위해 제도·기술·인력·금융·시장 전반의 혁신이 필요하다는 의견이 제시되었다. 대한건설정책연구원장이 구조적 개선 방안의 중요성을 강조했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-01T14:31:47+09:00",
-    "importance": 2
   }
 ]
