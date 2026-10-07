@@ -22001,6 +22001,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "LH, 불법하도급 신고·포상제 강화…현장 투명성 높인다 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3715678",
+    "description": "LH는 국토교통부가 6월에 시행한 건설산업기본법 시행령 개정에 맞춰 신고 절차를 간소화하고 포상금 제도를 전면적으로 개편했다. 그동안 신고를 위해서는 명확한 증거자료가 필요했으나, 앞으로는 구체적인 진술이나...",
+    "published_at": "2026-10-07T22:52:00+09:00",
+    "cluster_id": "c48c",
+    "publisher": "gukjenews.com",
+    "title_clean": "LH, 불법하도급 신고·포상제 강화…현장 투명성 높인다",
+    "summary": "LH가 건설산업기본법 시행령 개정에 따라 불법하도급 신고 절차를 간소화하고 포상금 제도를 전면 개편했다. 증거자료 없이도 구체적 진술만으로 신고 가능하도록 변경해 현장 투명성을 강화하는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-07T23:05:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32333,22 +32349,6 @@
     "title_clean": "대구시, 신규 주택건설 승인 보류 전면 해제…공급 부족 선제 대응",
     "summary": "대구시가 신규 주택건설 승인 보류를 전면 해제하여 주택 공급 부족에 선제적으로 대응한다. 이를 통해 양질의 주택 안정 공급과 지역 건설경기 활성화를 기대하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-01T14:41:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "농어촌공사 해남완도지사, 오호지구 배수개선사업 현장서 무재해 결의 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2bTdiMUYyai1FX0NnT1V6b0NESVRIbnBFdmRnTjVnTk81WmNCMTh6WHktNm45cVZoY0pRakV3QjRGLWhxaUx0QjhHYXI1VG5uUWlBU0RWbnZTUldCOWdYSVRGT3g?oc=5",
-    "description": "매일일보 = 윤성수 기자 | 한국농어촌공사 해남완도지사는 지난 30일 오호지구 배수개선사업 현장에서 건설현장 안전사고 예방과 무재해 사업장 조성을 위한 ‘2026",
-    "published_at": "2026-10-01T11:11:18+09:00",
-    "cluster_id": "b1f7",
-    "publisher": "매일일보",
-    "title_clean": "농어촌공사 해남완도지사, 오호지구 배수개선사업 현장서 무재해 결의",
-    "summary": "한국농어촌공사 해남완도지사가 오호지구 배수개선사업 현장에서 건설안전 및 무재해 사업장 조성을 위한 결의대회를 개최했다. 건설현장의 안전사고 예방과 근로자 보호에 중점을 두고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-01T14:41:59+09:00",
     "importance": 2
   }
