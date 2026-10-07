@@ -22001,6 +22001,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "박용진 “부처간 꼬여있는 규제, 풀려면 ‘차르’ 필요” - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25468026",
+    "description": "농지 위에 반도체 공장을 짓다 보니 건설 노동자들은 공장을 지을 때마다 임시 숙소를 짓고, 공장이 완공되면 숙소를 헐어야 한다는 것이다. 그는 “농지법상 주거지를 만들 수 없으니 관청에선 임시로 숙소 건설 허가...",
+    "published_at": "2026-10-08T00:22:00+09:00",
+    "cluster_id": "e067",
+    "publisher": "joongang.co.kr",
+    "title_clean": "박용진 “부처간 꼬여있는 규제, 풀려면 ‘차르’ 필요”",
+    "summary": "박용진 의원이 농지 위 반도체 공장 건설 시 임시 숙소 건설·철거 반복으로 인한 비효율성을 지적하며, 부처 간 규제 조율을 위한 강력한 조정 권한의 필요성을 제기했다. 농지법과 건설 관련 규제 간 충돌로 인한 건설업계의 애로사항을 국회 차원에서 조명하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T00:36:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32335,21 +32351,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-01T15:02:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "직스테크놀로지·한신공영·정도, 데이터센터 스마트 건설 플랫폼 협력 - edaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0MxRWkwOERrUFQ0bk1jdFVGSmRxaWhVQ0U3N0VNSWRWdHhTNnpfS2hsbUR0ZUJXbENNTUwyX0dMWFNHUUZibFdPbHduYUVmcEZmV0d6NHhCdTdVdy10WXRsRHNFLUI5Wk5OTGJHYlJxd2NzX2Nmdng0N1h1YmRDbg?oc=5",
-    "description": "직스테크놀로지와 한신공영, 정도가 AI 설계와 디지털 트윈 기술을 활용한 데이터센터 스마트 건설 플랫폼 구축을 위해 3자 업무협약(MOU)을 체결했다고 1일 밝혔다. (좌측부터) 이우형 정도 대표, 전재식 한신공영 사장, 최종복 직스테크놀로지 최종복 의장이번 협약을...",
-    "published_at": "2026-10-01T13:20:03+09:00",
-    "cluster_id": "0b57",
-    "publisher": "edaily.co.kr",
-    "title_clean": "직스테크놀로지·한신공영·정도, 데이터센터 스마트 건설 플랫폼 협력",
-    "summary": "직스테크놀로지, 한신공영, 정도 3사가 AI 설계와 디지털 트윈 기술을 활용한 데이터센터 스마트 건설 플랫폼 구축을 위해 업무협약을 체결했다. 이는 건설산업의 디지털화 및 기술혁신을 통한 건설 효율성 증대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T15:02:00+09:00",
-    "importance": 2
   }
 ]
