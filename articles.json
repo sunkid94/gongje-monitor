@@ -22004,6 +22004,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "추경호 대구시장 \"경제 체질 개선·민생 안정 최우선 과제\" - hidomin.com",
+    "link": "https://www.hidomin.com/news/articleView.html?idxno=724086",
+    "description": "지난 7월 9일부터 비상경제대책회의를 여섯 차례 열어 산업단지 입주 규제 개편, 건설경기 활성화, 창업생태계 조성, 주택시장 정상화 방안을 마련했다. 택시업계의 부담을 덜기 위해 카드결제 수수료 전액 지원도...",
+    "published_at": "2026-10-07T20:18:00+09:00",
+    "cluster_id": "178c",
+    "publisher": "hidomin.com",
+    "title_clean": "추경호 대구시장 \"경제 체질 개선·민생 안정 최우선 과제\"",
+    "summary": "추경호 대구시장이 산업단지 입주 규제 개편과 건설경기 활성화를 추진하는 비상경제대책회의를 개최했다. 주택시장 정상화 방안과 창업생태계 조성을 통해 경제 체질 개선을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T20:35:33+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "[사설] 중구 서동에 새 둥지 튼 울산상의에 거는 기대 - iusm.co.kr",
     "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1068889",
     "description": "울산상공회의소는 신청사를 건립하면서 침체된 지역 건설경기를 감안해 설계부터 시공, 주요 세부 공정과 자재 납품에 이르기까지 울산 기업의 참여를 최우선 원칙으로 삼았다고 한다. 공정하고 투명한 절차를 통해...",
@@ -32335,21 +32351,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-01T13:52:44+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "복기왕 의원, 청년 10명 중 6명 비정규직 - newstnt.com",
-    "link": "https://www.newstnt.com/news/articleView.html?idxno=721026",
-    "description": "건설경기 침체 탓으로만 돌리기는 어려운데, 건설기성(시공 실적)이 19개월 연속 줄고 지난해 건설업 취업자가 12만 5,000명 감소하는 등 업황이 나빴던 것은 사실이나, 11개사의 20~30대 정규직 비율은 경기침체...",
-    "published_at": "2026-10-01T13:32:00+09:00",
-    "cluster_id": "3ba6",
-    "publisher": "newstnt.com",
-    "title_clean": "복기왕 의원, 청년 10명 중 6명 비정규직",
-    "summary": "복기왕 의원이 건설업 청년 근로자의 비정규직 비율이 높다는 문제를 지적했습니다. 건설기성이 19개월 연속 감소하고 지난해 취업자가 12만 5,000명 감소하는 등 업황 부진이 지속되고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T13:52:44+09:00",
-    "importance": 4
   }
 ]
