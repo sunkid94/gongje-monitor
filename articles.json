@@ -22001,6 +22001,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "추경호 시장, 민선9기 출범 100일. . .경제 위기 속 출발해 변화의 기반... - sentv.co.kr",
+    "link": "https://www.sentv.co.kr/article/view/sentv202610070209",
+    "description": "민생경제 회복을 위해 지난 7월 9일부터 비상경제대책회의를 6차례 운영하며 산업단지 입주업종 규제 개편, 지역 건설경기 활성화, 창업생태계 조성, 민생 활력 제고, 주택시장 정상화 등 지역경제 현안을 현장에서...",
+    "published_at": "2026-10-07T23:46:00+09:00",
+    "cluster_id": "da52",
+    "publisher": "sentv.co.kr",
+    "title_clean": "추경호 시장, 민선9기 출범 100일. . .경제 위기 속 출발해 변화의 기반...",
+    "summary": "추경호 시장이 민선9기 출범 100일을 맞아 비상경제대책회의를 통해 산업단지 입주업종 규제 개편, 지역 건설경기 활성화 등 지역경제 활성화 정책을 추진 중입니다. 규제 완화와 건설경기 활성화를 포함한 지역경제 현안 해결에 나서고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T23:55:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32335,21 +32351,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-01T14:51:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GH 공공건설지원센터, 119안전센터 증축공사 사후 모니터링 - 프레시안",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QSEc0T1RYVFFrczVUSFIxZTZIM1FwY2JCeDVweDB4d19nR2hjbFBya2MzcGpZVkhIM2l1clVsMnVFZkp4SDUwc3g1al8wMWxFMlpScE42Tkxkc2RNM0tRdmx6NlZuanNuLUJr?oc=5",
-    "description": "경기주택도시공사(GH)가 운영하는 경기도 공공건설지원센터가 사전검토를 거쳐 준공된 119안전센터 증축공사 3곳을 대상으로 사후 모니터링을 실시했다. 공공건설지원센터는 6개월간...",
-    "published_at": "2026-10-01T14:34:53+09:00",
-    "cluster_id": "e16c",
-    "publisher": "프레시안",
-    "title_clean": "GH 공공건설지원센터, 119안전센터 증축공사 사후 모니터링",
-    "summary": "GH가 운영하는 공공건설지원센터가 119안전센터 증축공사 3곳에 대해 사후 모니터링을 실시했다. 사전검토를 거친 준공 사업의 품질 관리 및 검증 활동으로, 공공건설사업의 시공 품질 및 안전성 확보를 위한 사후관리 강화 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-01T14:51:41+09:00",
-    "importance": 2
   }
 ]
