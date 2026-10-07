@@ -22001,6 +22001,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "호반건설, 입주자 옵션까지 AI로 설계에 자동 반영…\"누락·오시공 막는... - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493508",
+    "description": "사진=호반건설 제공 호반건설이 입주자가 선택한 주택 옵션을 인공지능(AI)으로 설계에 자동 반영하는 스마트건설 기술을 개발했다. 세대마다 달라지는 옵션 정보를 3차원 설계 모델에 자동으로 구현해 현장에서 발생할...",
+    "published_at": "2026-10-07T22:24:00+09:00",
+    "cluster_id": "0851",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "호반건설, 입주자 옵션까지 AI로 설계에 자동 반영…\"누락·오시공 막는...",
+    "summary": "호반건설이 입주자 옵션을 AI로 자동 설계에 반영하는 스마트건설 기술을 개발했다. 세대별 맞춤형 옵션을 3D 설계 모델에 자동 구현해 현장 누락·오시공을 방지할 수 있게 된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T22:35:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32335,21 +32351,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-01T14:41:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“제2의 서소문고가 막는다”…서울시, 노후 교량·고가차도 해체 안전 관리 강화 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82VW9qcjVnNmV0UnFqUlRNNThoVkJSMkdQeU9ZU0dNMl9rZEJiSXpNcTRzZGNlR0RVZFdBVnI0OEc1YlNraW14b0lVUEtpYTl0MGhIanVXUm1iVTYxMUxzR3dZeDJFTjZ5UzRoQlRR?oc=5",
-    "description": "서울시가 제2의 서소문고가 사고 재발을 막기 위해 노후 교량·고가차도 해체공사의 안전관리 체계를 전면 강화한다.1일 서울시에 따르면 이번 대책은 도림·삼각지·이촌고가 등 향후 예정된 노후 토목구조물 해체공사의 안전사고를 선제적으로 예방하기 위한 조치다.서울시는 공사..",
-    "published_at": "2026-10-01T14:27:29+09:00",
-    "cluster_id": "ff76",
-    "publisher": "아시아투데이",
-    "title_clean": "“제2의 서소문고가 막는다”…서울시, 노후 교량·고가차도 해체 안전 관리 강화",
-    "summary": "서울시가 서소문고가 붕괴 사고 재발 방지를 위해 노후 교량·고가차도 해체공사의 안전관리 체계를 전면 강화한다. 도림·삼각지·이촌고가 등 예정된 해체공사에 대해 선제적 안전사고 예방 대책을 추진할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T14:41:59+09:00",
-    "importance": 4
   }
 ]
