@@ -22035,6 +22035,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[모닝 리포트] \"LG전자, 주가 낙폭 과도…목표가 26만5000원 상향\" - newspim.com",
+    "link": "https://www.newspim.com/news/view/20261008000085",
+    "description": "VS 사업은 수주 산업의 특성상 분기마다 매출 인식 시점에 차이가 발생했고, ES 사업은 국내 건설경기 부진으로 에어컨 판매량이 기대에 미치지 못한 것으로 파악했다. 반면 MS 사업은 지난해 인력 구조조정 효과...",
+    "published_at": "2026-10-08T08:24:00+09:00",
+    "cluster_id": "3a26",
+    "publisher": "newspim.com",
+    "title_clean": "[모닝 리포트] \"LG전자, 주가 낙폭 과도…목표가 26만5000원 상향\"",
+    "summary": "LG전자 주가 낙폭이 과도하다는 평가로 목표가를 26만5000원으로 상향 조정했다. VS 사업의 분기별 매출 인식 편차와 ES 사업의 국내 건설경기 부진으로 인한 에어컨 판매 부진이 주요 요인으로 지적되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-08T08:34:23+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천 검암 플라시아 시동… 1조 3000억 투입 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20099339?ref=naver",
+    "description": "류윤기 iH 사장은 “민간의 역량을 더해 이용객과 주민 모두가 편리하게 누리는 복합 공간을 만들겠다”며 “대규모 개발사업을 성공적으로 이끌어 지역 내 일자리 창출과 건설경기 회복을 적극 견인하겠다”고...",
+    "published_at": "2026-10-08T08:19:00+09:00",
+    "cluster_id": "d3e7",
+    "publisher": "sedaily.com",
+    "title_clean": "인천 검암 플라시아 시동… 1조 3000억 투입",
+    "summary": "인천 검암 플라시아 프로젝트가 본격 시동되며 1조 3000억 규모 투자가 추진된다. iH는 민간 역량을 결합한 복합 공간 조성을 통해 지역 일자리 창출과 건설경기 회복을 견인할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T08:34:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32321,37 +32353,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-01T15:17:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호 대구광역시장, \"대구 미분양 1만4천→4천대로 감소...주택시장 활... - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3710604",
-    "description": "대비한 선제적 대응이 필요한 시점\"이라며, \"이번 대책을 통해 시민이 원하는 양질의 주택이 안정적으로 공급되도록 유도하는 한편, 지역 건설경기에도 활력이 돋기를 기대한다\"고 말했다. 민영뉴스통신사 국제뉴스",
-    "published_at": "2026-10-01T14:58:00+09:00",
-    "cluster_id": "fb35",
-    "publisher": "gukjenews.com",
-    "title_clean": "추경호 대구광역시장, \"대구 미분양 1만4천→4천대로 감소...주택시장 활...",
-    "summary": "추경호 대구광역시장이 미분양 주택 감소(1만4천→4천대)와 주택시장 활성화를 언급하며 주택 공급 확대와 건설경기 활력을 기대한다는 입장을 표현했습니다. 지역 건설경기 부양을 위한 선제적 대응의 필요성을 강조했습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T15:17:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, “새가족 출산 축하” 최대 50만원 지원…다자녀 가... - globalepic.co.kr",
-    "link": "http://www.globalepic.co.kr/view.php?ud=20261001145611488848439a4874_29",
-    "description": "‘건설노동자 새가족(출산) 축하지원금’ 사업으로, 출산 가정에 최대 50만원 상당의 지원금과 축하 꾸러미를 제공할 계획이다. 현장 이동과 거주지 변경이 많은 건설노동자들의 특성을 고려해 맞춤형으로 설계된 이번...",
-    "published_at": "2026-10-01T15:00:00+09:00",
-    "cluster_id": "d4ae",
-    "publisher": "globalepic.co.kr",
-    "title_clean": "건설근로자공제회, “새가족 출산 축하” 최대 50만원 지원…다자녀 가...",
-    "summary": "건설근로자공제회가 출산 가정을 지원하는 '새가족 출산 축하지원금' 사업을 추진하며, 최대 50만원의 지원금과 축하 꾸러미를 제공할 계획이다. 건설노동자들의 현장 이동과 거주지 변경이 많은 특성을 고려한 맞춤형 지원이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-01T15:17:00+09:00",
-    "importance": 2
   }
 ]
