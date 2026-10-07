@@ -6035,6 +6035,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가덕도 신공항 공사비 증액 국감 도마…대우건설 \"정부 확약 필요\" - ngetnews.com",
+    "link": "https://www.ngetnews.com/news/articleView.html?idxno=554240",
+    "description": "지난 7일 국회 국토교통위원회 국정감사에서 정동만 국민의힘 의원은 심철진 대우건설 본부장을 상대로 가덕도신공항 공사비와 사업 참여 여건을 질의했다. 정 의원은 \"지난 2월 중동 전쟁으로 건설 원가가 급등했다\"며...",
+    "published_at": "2026-10-08T06:20:00+09:00",
+    "cluster_id": "99c8",
+    "publisher": "ngetnews.com",
+    "title_clean": "가덕도 신공항 공사비 증액 국감 도마…대우건설 \"정부 확약 필요\"",
+    "summary": "가덕도 신공항 사업의 공사비 증액 문제가 국감에서 지적되었으며, 대우건설은 정부의 명확한 확약을 요구하고 있습니다. 중동 전쟁으로 인한 건설 원가 급등이 공사비 증액의 주요 원인으로 제기되었습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-08T06:35:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -22019,20 +22035,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산에너빌리티, 베트남서 8400억 규모 ‘오몬3’ 복합발전소 건설 수주 - hankookilbo.com",
-    "link": "https://www.hankookilbo.com/news/article/A2026100109320002819?did=NA",
-    "description": "두산에너빌리티가 베트남 가스복합발전 시장에서 수주 행보를 이어가고 있다. 두산에너빌리티는 베트남 국영에너지그룹(PVN)과 ‘오몬(O Mon)3 가스복합발전소’ 건설공사 계약을 체결했다고 1일 밝혔다. 계약 금액은...",
-    "published_at": "2026-10-01T11:28:00+09:00",
-    "cluster_id": "167f",
-    "publisher": "hankookilbo.com",
-    "title_clean": "두산에너빌리티, 베트남서 8400억 규모 ‘오몬3’ 복합발전소 건설 수주",
-    "summary": "두산에너빌리티가 베트남 국영에너지그룹(PVN)과 8400억 규모의 '오몬3 가스복합발전소' 건설공사 계약을 체결했다. 이는 해외 대형 발전소 건설 수주로 건설기계설비업계의 해외 수주 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T11:41:29+09:00",
-    "importance": 3
+    "title": "건협 전북도회, 전북경찰청과 소통간담회 개최 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071726315960825",
+    "description": "소재철 회장은 “건설경기 침체로 업계의 어려움이 지속되는 상황에서 범죄 피해 우려도 커지고 있는 만큼 회원사를 대상으로 보이스피싱 예방 및 대처 방안을 전파하도록 하겠다”고 말했다. soo@",
+    "published_at": "2026-10-08T06:22:00+09:00",
+    "cluster_id": "6a77",
+    "publisher": "대한경제",
+    "title_clean": "건협 전북도회, 전북경찰청과 소통간담회 개최",
+    "summary": "건협 전북도회가 전북경찰청과 소통간담회를 개최했다. 건설경기 침체 속 범죄 피해 우려가 커지자 회원사를 대상으로 보이스피싱 예방 및 대처 방안을 전파할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-08T06:35:04+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32336,22 +32352,6 @@
     "summary": "이민권 대한승강기협회 상근부회장이 유지관리계약의 가격 중심 구조, 안전인증 중복·비효율, 표준품셈 부재 등을 현안으로 지적했다. 2026년 승강기산업 진흥 기본계획 수립을 통해 연구개발, 인력양성, 해외진출 등 미래 전략을 추진하고, 11월 국제승강기엑스포에서 AI·스마트기술을 시장에 알릴 예정이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-01T15:17:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "직스테크놀로지-한신공영-정도, '데이터센터 스마트 건설' 3자 협력 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDbkNuRFZWZk1MaGtYS3lmWnVYeXJaSFZzdjZXazNua2pfM1h5cXJqcGN5blBiVWNmTURicVVPdjZnNi03LXYwU3hVRElTdjBKRVk3ZW1B?oc=5",
-    "description": "한신공영, 정도, 직스테크놀로지 3사가 AI와 디지털 트윈 기술을 활용한 데이터센터 스마트 건설 플랫폼 구축을 위해 업무협약(MOU)을 체결했다. 이번 협약은 각 사가 보유한 건설·기계설비·설계 분야 전문성을 결합, 데이터센터를 비롯한 하이테크 건설 분야의 설계부터 제작·시공까지 전 과정을...",
-    "published_at": "2026-10-01T15:00:01+09:00",
-    "cluster_id": "be8f",
-    "publisher": "지디넷코리아",
-    "title_clean": "직스테크놀로지-한신공영-정도, '데이터센터 스마트 건설' 3자 협력",
-    "summary": "직스테크놀로지, 한신공영, 정도 3사가 AI와 디지털 트윈 기술을 활용한 데이터센터 스마트 건설 플랫폼 구축을 위해 MOU를 체결했다. 각사의 건설·기계설비·설계 전문성을 결합해 데이터센터 등 하이테크 건설 분야의 설계부터 시공까지 전 과정을 지원할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T15:11:25+09:00",
     "importance": 2
   }
 ]
