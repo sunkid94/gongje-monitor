@@ -21814,6 +21814,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[e포토]국토위 '2026 국정감사' 시작 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50365",
+    "description": "[건설이코노미뉴스] 국회 국토교통위원회가 7일 오전 10시 국회 본관에서 국토교통부, 행정중심복합도시건설청, 새만금개발청을 대상으로 '2026년 국정감사'를 시작한 가운데 유의동 위원장이 개회사를 하고 있다.",
+    "published_at": "2026-10-07T11:54:57+09:00",
+    "cluster_id": "fe2b",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[e포토]국토위 '2026 국정감사' 시작",
+    "summary": "국회 국토교통위원회가 2026년 국정감사를 시작했으며, 국토교통부, 행정중심복합도시건설청, 새만금개발청을 대상으로 진행 중이다. 국토교통 분야 전반에 대한 국회의 감시 및 점검이 시작된 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-07T11:56:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32324,21 +32340,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-09-30T18:10:04+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서초구 아파트 건설 현장서 사망사고... 중대재해법 조사 - 시장경제신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DSmVROEYyZFlseE1lc3lwOWVfR0hyZ191OU1ielEzOFpQalhhZmdNakFfNFFpYU40dkxZeGV3Z2w5MlAtc1VlZHZicThyMEZrTGpaV2R2QUNQTGtUanp5OTh5X0NmcWhJV1BSWXFCV0o?oc=5",
-    "description": "[시장경제신문 = 양병철 기자] 서울 서초구 현대건설 디에이치 클래스트 공사 현장에서 콘크리트가 무너져 30대 외국인 노동자가 사망하는 사고가 발생했다.현대건설은",
-    "published_at": "2026-09-30T09:44:24+09:00",
-    "cluster_id": "2949",
-    "publisher": "시장경제신문",
-    "title_clean": "서초구 아파트 건설 현장서 사망사고... 중대재해법 조사",
-    "summary": "서울 서초구 현대건설 현장에서 콘크리트 붕괴로 30대 외국인 노동자가 사망하는 중대 산업재해가 발생했다. 중대재해법에 따른 조사가 진행 중이며, 건설업계의 안전 관리 강화 압력이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-30T18:10:04+09:00",
-    "importance": 4
   }
 ]
