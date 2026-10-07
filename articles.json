@@ -21831,6 +21831,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "인테리어 맡겼더니 자재 빼돌리고 연락두절...\"무등록 업체 주의해야\" - newstree.kr",
+    "link": "https://www.newstree.kr/newsView/ntr202610070013",
+    "description": "건설산업기본법에 따르면 공사 규모가 1500만원 이상인 경우 건설업 등록을 한 사업자만 시공할 수 있지만, 이를 모르고 무등록 업체와 고액 공사를 계약했다가 부실시공이나 계약불이행으로 분쟁을 겪는 사례가...",
+    "published_at": "2026-10-07T12:38:00+09:00",
+    "cluster_id": "7953",
+    "publisher": "newstree.kr",
+    "title_clean": "인테리어 맡겼더니 자재 빼돌리고 연락두절...\"무등록 업체 주의해야\"",
+    "summary": "무등록 건설업체와의 계약으로 인한 부실시공 및 계약불이행 분쟁 사례가 증가하고 있다. 1500만원 이상 공사는 건설업 등록 사업자만 시공 가능하나, 소비자들이 이를 모르고 무등록 업체와 고액 계약을 체결하면서 피해를 입고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-07T12:55:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32322,22 +32338,6 @@
     "publisher": "hidomin.com",
     "title_clean": "8월 대구·경북 산업활동 '희비' 엇갈려...건설수주 대구 늘고 경북은 감...",
     "summary": "8월 대구와 경북의 산업활동이 엇갈린 모습을 보였다. 대구는 건설수주액과 광공업 생산이 전년 동월 대비 증가했으나, 경북은 건설수주액과 광공업 생산 모두 감소했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-30T19:35:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "8월 대구·경북 산업활동 ‘희비’ 엇갈려...건설수주 대구 늘고 경북은 감소 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQT0dZdnRkNGZ2WF84OFViRUxzYTVDWG11aDREODdzdVd0RFpTZVVEMmtVZkROekFJdmlvbDF5VGpTMHc3R3JBZG9XYWl4d2c?oc=5",
-    "description": "8월 대구의 건설수주액이 전년 동월 대비 증가한 반면 경북은 감소한 것으로 나타났다. 광공업 생산 분야 또한 대구는 소폭 반등했지만 경북은 감소하는 등 산업별 희비가 엇갈렸다. 30일 국가데이터처 동북지방데이터청이 발표한",
-    "published_at": "2026-09-30T19:19:44+09:00",
-    "cluster_id": "a6d2",
-    "publisher": "v.daum.net",
-    "title_clean": "8월 대구·경북 산업활동 ‘희비’ 엇갈려...건설수주 대구 늘고 경북은 감소",
-    "summary": "8월 대구·경북의 산업활동이 엇갈린 모습을 보였다. 대구는 건설수주액 증가와 광공업 생산 소폭 반등으로 호조를 보인 반면, 경북은 건설수주액 감소와 광공업 생산 감소로 부진했다.",
     "sentiment": "neutral",
     "collected_at": "2026-09-30T19:35:10+09:00",
     "importance": 2
