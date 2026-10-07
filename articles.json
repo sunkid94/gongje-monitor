@@ -21933,6 +21933,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "전건협, 표준시장단가 적용 확대 대응협의체 2차 회의 개최 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326871",
+    "description": "대한전문건설협회(전건협) 중앙회(회장 윤학수)는 7일 서울 전문건설회관에서 표준시장단가 적용 확대 대응협의체 2차 회의를 개최했다.이날 위원장을 맡고 있는 지종철 전건협 상임부회장을 비롯해 부위원장인 김환주 경영정책본부장, 업종별협의회 사무처장, 한국건설기술연구원 관계자 등 13명이 참석했다.회의에서는 전차회의 결과 보고와 함께 △대응협의체의 구성 및 역할 △추진배경 및 협회 추진 현황 등이 안내됐다.아울러 한국건설기술연구원 공사비원가관리센터 관계자로부터 표준시장단가 적용 확대를 위한 국토교통부 및 연구원의 추진 방향 등을 청취했다",
+    "published_at": "2026-10-07T16:39:34+09:00",
+    "cluster_id": "22bd",
+    "publisher": "대한전문건설신문",
+    "title_clean": "전건협, 표준시장단가 적용 확대 대응협의체 2차 회의 개최",
+    "summary": "대한전문건설협회가 표준시장단가 적용 확대에 대응하기 위한 2차 협의체 회의를 개최했다. 한국건설기술연구원과 협력하여 국토교통부의 추진 방향을 청취하고 업종별 대응 방안을 논의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-07T16:46:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32331,21 +32347,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-01T10:46:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "해외 건설서 떼인 돈 1.7조…5년간 '회수 포기' 1.3조 - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sR0kybDE1ZWxSMk5RWlFQenlxLWExdHR0RVJ3R3YycVVEZW5nUEpBMm93dlgwOHdrb0lRYy1pTGZWTnJpYW1pYUdsVGRwb084Zm1uS21lMkJMYXBac2k0NDBVUWt1Ni1NcEsyQWFxVFA?oc=5",
-    "description": "국내 건설사들이 최근 5년 해외 현장에서 받지 못한 공사대금이 1조7천억원을 넘는 것으로 나타났다.1일 국회 국토교통위원회 황운하 의원이 국토교통부로부터 받은",
-    "published_at": "2026-10-01T10:33:49+09:00",
-    "cluster_id": "72d8",
-    "publisher": "연합인포맥스",
-    "title_clean": "해외 건설서 떼인 돈 1.7조…5년간 '회수 포기' 1.3조",
-    "summary": "국내 건설사들이 최근 5년간 해외 현장에서 받지 못한 공사대금이 1조7천억원을 초과했으며, 이 중 1조3천억원은 회수를 포기한 상태다. 해외 건설 프로젝트에서의 대금 미회수 문제가 심각한 수준으로 드러났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T10:46:39+09:00",
-    "importance": 4
   }
 ]
