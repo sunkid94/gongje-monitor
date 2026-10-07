@@ -22001,6 +22001,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "전남 건설 수주 폭증, 소비는 뒷걸음 - gjdream.com",
+    "link": "http://www.gjdream.com/news/articleView.html?idxno=673279",
+    "description": "전남의 8월 건설수주액이 5015억 원으로 1년 새 4.8배(+378.4%)로 불어났다. 같은 달 대형소매점 판매는 9.2% 줄었다. 판매액 지수(불변지수 기준)는 70.0으로 2년 전 같은 달(96.7)의 72% 수준에 그쳤다. 최근...",
+    "published_at": "2026-10-08T00:02:00+09:00",
+    "cluster_id": "c109",
+    "publisher": "gjdream.com",
+    "title_clean": "전남 건설 수주 폭증, 소비는 뒷걸음",
+    "summary": "전남의 8월 건설수주액이 378.4% 증가한 5015억 원으로 급증했으나, 대형소매점 판매는 9.2% 감소하며 건설경기와 소비 회복이 불일치하는 양상을 보이고 있다. 건설업계에는 긍정적이나 지역 경기 전반의 약세를 드러내는 엇갈린 신호다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T00:15:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32335,21 +32351,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-01T15:02:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "동행지표 부진 여전…\"건설경기 회복은 2027년 이후에나\" - 철강금속신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZTzdhNDNNa0poT0xRSDlqdDlSeGNHVWFNQVFQSld5SnViSHNxZkFmUEc3VUlsSW5jZ1R1S21odk45NG1jZlZmR3d6eVNQNEJCZW1PRmRURFphR240RnlYTHI2Q25SREpQRHc?oc=5",
-    "description": "최근 건설경기는 일부 회복 기대에도 동행지표를 중심으로 부진한 상황이 지속되고 있어 유의미한 회복세는 2027년 이후에나 본격화될 것이란 전망이다.대한건설정책연구원은 지난달 30일 발간한 올 3분기 &#39;지표로 보는 건설시장과 이슈&#39;에서 이같이 밝혔다.최근 건설지표는 일부 반등 신호가 나타나고 있으나 회복 강도와 지속성은 아직까지 불확실한 상황이다. 실제 건설수주와 허가, 착공, 분양 등 선행지표의 반등은 감지되나 기성을 중심으로 동행지표는 부진한 흐름이 지속되고 있는 모습이다. 올 1~7월 금액기준 선행지표인 건설수주는",
-    "published_at": "2026-10-01T14:30:00+09:00",
-    "cluster_id": "587d",
-    "publisher": "철강금속신문",
-    "title_clean": "동행지표 부진 여전…\"건설경기 회복은 2027년 이후에나\"",
-    "summary": "건설경기가 선행지표(수주, 허가, 착공)에서는 반등 신호를 보이고 있으나, 기성을 중심으로 한 동행지표는 여전히 부진한 상태이다. 전문가들은 건설경기의 유의미한 회복이 2027년 이후에나 본격화될 것으로 전망하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T14:51:41+09:00",
-    "importance": 4
   }
 ]
