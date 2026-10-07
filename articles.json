@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "與, '하동근 낙하산' 비판에 \"국힘 시절 공공기관 인사 되돌아보라\" - news1.kr",
+    "link": "https://www.news1.kr/politics/assembly/6313526",
+    "description": "이어 \"윤석열 정부는 에너지 분야 전문성이 전무한 대선 후보 캠프 출신 정용기 전 국회의원을 한국지역난방공사 사장으로 임명했었고, 건설·금융 관련 경력이 전무한 이은재 전 의원을 전문건설공제조합 이사장으로...",
+    "published_at": "2026-10-07T18:27:00+09:00",
+    "cluster_id": "8290",
+    "publisher": "news1.kr",
+    "title_clean": "與, '하동근 낙하산' 비판에 \"국힘 시절 공공기관 인사 되돌아보라\"",
+    "summary": "여당이 하동근 낙하산 인사 비판에 대해 전 정부의 공공기관 인사를 되돌아보라고 반박했다. 에너지·건설·금융 전문성이 없는 인사들이 관련 공사 사장·이사장으로 임명된 사례를 지적하며 역공했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-07T18:45:23+09:00",
+    "event_label": "전문건설공제조합 인사 논란 관련 정치권 공방",
+    "importance": 7
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "與 “낙하산 인사로 나라살림 망친 국힘 반성부터 하라” - segye.com",
     "link": "https://www.segye.com/newsView/20261007517981?OutUrl=naver",
     "description": "그는 “윤석열정부는 에너지분야 전문성이 전무한 대선 캠프 출신 정용기 전 의원을 난방공사 사장으로 임명했었고, 건설·금융 관련 경력이 전무한 이은재 전 의원을 전문건설공제조합 이사장으로 선임했었다”고...",
@@ -5948,6 +5965,22 @@
     "collected_at": "2026-09-07T20:00:17+09:00",
     "event_label": "대한전문건설협회 국토교통위원장 정책 간담회 개최",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한국공항인프라학회 창립 포럼 “미리부터 확장 고려한 설계 이뤄져야” - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026100718273515175",
+    "description": "한편, 가덕신공항 부지조성공사를 하는 대우건설 컨소시엄이 해상공사에 PBD(인공 배수재를 연약지반에 삽입하고 상부에 하중을 가해 물을 빼내는 공법)를 테스트한 결과 전체의 89%에서 성공적인 결과가 나왔다. 11%는 자재...",
+    "published_at": "2026-10-07T18:29:00+09:00",
+    "cluster_id": "81e3",
+    "publisher": "busan.com",
+    "title_clean": "한국공항인프라학회 창립 포럼 “미리부터 확장 고려한 설계 이뤄져야”",
+    "summary": "한국공항인프라학회 창립 포럼에서 공항 설계 시 미래 확장을 고려해야 한다는 의견이 제시됐다. 가덕신공항 부지조성공사에서 대우건설 컨소시엠이 해상공사에 적용한 PBD 공법이 89% 성공률을 보이며 기술 실증에 성공했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-07T18:45:23+09:00",
+    "importance": 2
   },
   {
     "keyword": "포스코이앤씨",
@@ -21934,22 +21967,6 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 베트남서 가스복합발전소 건설공사 수주…8400억 규모 - g-enews.com",
-    "link": "https://www.g-enews.com/view.php?ud=20261001095246917224debea800_1",
-    "description": "두산에너빌리티가 베트남에서 가스복합발전소 건설공사를 추가로 따내며 현지 발전 시장에서 입지를 넓히고 있다. 두산에너빌리티는 베트남 국영에너지그룹(PVN)과 ‘오몬(O Mon)3 가스복합발전소’ 건설공사 계약을...",
-    "published_at": "2026-10-01T10:44:00+09:00",
-    "cluster_id": "d6bb",
-    "publisher": "",
-    "title_clean": "두산에너빌리티, 베트남서 가스복합발전소 건설공사 수주…8400억 규모 - g-enews.com",
-    "summary": "두산에너빌리티가 베트남 국영에너지그룹(PVN)과 오몬3 가스복합발전소 건설공사를 수주했다. 8400억 규모의 이번 수주는 현지 발전 시장 진출을 강화하는 호재로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T11:01:25+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32330,22 +32347,6 @@
     "title_clean": "국토안전관리원 영남본부·한국비계기술원, 건설현장 비상대응체계 점...",
     "summary": "국토안전관리원 영남본부와 한국비계기술원이 건설현장 비상대응체계 강화를 위한 훈련을 실시했다. 실제 사고 상황을 가정한 훈련을 통해 상황 전파와 초기 대응 역량을 점검하고 현장 관계자를 대상으로 실무교육을 진행했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-01T13:11:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설노동자 출산지원 최대 50만원 - naeil.com",
-    "link": "https://www.naeil.com/news/read/603867?ref=naver",
-    "description": "올해 1월 1일 이후 자녀를 출산한 건설노동자 가운데 퇴직공제 적립 요건 등을 충족한 사람은 최대 50만원 상당의 ‘새가족(출산) 축하지원금’을 받을 수 있다. 건설근로자공제회(공제회)는 ‘건설노동자 새가족(출산)...",
-    "published_at": "2026-10-01T13:02:00+09:00",
-    "cluster_id": "a963",
-    "publisher": "naeil.com",
-    "title_clean": "건설노동자 출산지원 최대 50만원",
-    "summary": "건설근로자공제회가 올해 1월 1일 이후 출산한 건설노동자를 대상으로 최대 50만원의 새가족 출산 축하지원금을 지급한다. 퇴직공제 적립 요건 등을 충족한 노동자가 지원 대상이다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-01T13:11:29+09:00",
     "importance": 2
   }
