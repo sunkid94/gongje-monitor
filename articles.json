@@ -22035,6 +22035,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH, 건설문화 혁신 우수사례 찾는다 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10896380?ref=naver",
+    "description": "이상조 LH 스마트건설안전본부장은 “이번 공모전을 통해 전국 건설 현장에서 일하는 근로자들의 자부심을 높이고, 긍정적인 건설문화 정착과 활력 있는 대한민국 건설 현장을 만드는 데 기여할 것”이라고 말했다. 한편...",
+    "published_at": "2026-10-08T08:37:00+09:00",
+    "cluster_id": "c95d",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "LH, 건설문화 혁신 우수사례 찾는다",
+    "summary": "LH가 건설문화 혁신 우수사례를 발굴하는 공모전을 개최한다. 현장 근로자의 자부심 제고와 긍정적인 건설문화 정착을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T08:54:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32336,22 +32352,6 @@
     "summary": "GH가 운영하는 공공건설지원센터가 119안전센터 증축공사에 대해 설계도서, 심의자료, 현장 시공 상태, 이용자 의견을 종합적으로 검토하는 사후 모니터링을 실시했다. 공공건축 품질 점검을 강화하고 사전검토 내용의 현장 반영 여부를 확인하는 품질 관리 활동이다.",
     "sentiment": "negative",
     "collected_at": "2026-10-01T15:32:01+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "팔리지 않는 집이 보내는 경고음 - jejunews.com",
-    "link": "http://www.jejunews.com/news/articleView.html?idxno=2228023",
-    "description": "미분양이 장기화될수록 주택시장 안에서 끝나지 않고 지역 건설경기와 금융시장으로 부담이 번질 가능성도 살펴봐야 한다. 지금 제주에 필요한 것은 '더 많이 짓는 것' 자체가 아닐 것이다. 시장이 실제로 원하는...",
-    "published_at": "2026-10-01T15:04:00+09:00",
-    "cluster_id": "b747",
-    "publisher": "jejunews.com",
-    "title_clean": "팔리지 않는 집이 보내는 경고음",
-    "summary": "제주 지역의 미분양 주택 장기화로 인해 건설경기 부진과 금융시장 연쇄 위기 우려가 대두되고 있다. 단순히 주택 공급량 증가보다는 시장이 실제로 필요로 하는 수요 맞춤형 정책이 필요한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T15:17:00+09:00",
     "importance": 4
   }
 ]
