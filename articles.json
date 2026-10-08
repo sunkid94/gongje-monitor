@@ -5814,6 +5814,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코, 광양 구봉산에 '파노라마 워크' 조성…새 랜드마크 기대 - news1.kr",
+    "link": "https://www.news1.kr/industry/general-industry/6314839",
+    "description": "포스코이앤씨가 시공하고 포스코에이앤씨가 프로젝트 관리를 담당했다. 포스코는 파노라마 워크를 'Park1538 광양'과 연계해 지역 문화·예술 행사 등과 결합한 관광 콘텐츠로 확대할 계획이다. 파노라마 워크는 9일부터...",
+    "published_at": "2026-10-08T17:36:00+09:00",
+    "cluster_id": "ac95",
+    "publisher": "news1.kr",
+    "title_clean": "포스코, 광양 구봉산에 '파노라마 워크' 조성…새 랜드마크 기대",
+    "summary": "포스코이앤씨가 광양 구봉산에 '파노라마 워크'를 조성하여 새로운 랜드마크를 창출했다. 포스코는 Park1538 광양과 연계해 관광 콘텐츠로 확대할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T17:51:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21798,19 +21814,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 'AAA' 신용등급으로 2000억원 규모 ABS 발행 [건설·분양오늘... - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204856",
-    "description": "롯데건설은 자체 개발한 공사대금채권 유동화 금융상품을 통해 2000억 원 규모의 3차 자산유동화증권(ABS)을 발행했다고 1일 밝혔다. 이번 ABS는 최고 신용등급인 AAA로 발행됐다. 만기는 1년이다. 롯데건설은 지난 5월과...",
-    "published_at": "2026-10-01T14:44:00+09:00",
-    "cluster_id": "5dd1",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "롯데건설, 'AAA' 신용등급으로 2000억원 규모 ABS 발행 [건설·분양오늘...",
-    "summary": "롯데건설이 공사대금채권 유동화를 통해 2000억원 규모의 3차 ABS를 최고 신용등급(AAA)으로 발행했다. 이는 건설사의 안정적인 자금조달 역량과 신용도를 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T16:36:17+09:00",
+    "title": "철강협회, 강관산업 세미나…CCUS 등 신규 수요 모색 - hansbiz.co.kr",
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871197",
+    "description": "/ 한국철강협회 | 서울=한스경제 김창수 기자 | 한국철강협회가 건설경기 부진과 수입산 제품 증가에 대응해 강관산업의 경쟁력을 높이고 신규 수요를 발굴하기 위한 논의의 장을 마련했다. 한국철강협회 강관협의회는...",
+    "published_at": "2026-10-08T17:36:00+09:00",
+    "cluster_id": "4881",
+    "publisher": "hansbiz.co.kr",
+    "title_clean": "철강협회, 강관산업 세미나…CCUS 등 신규 수요 모색",
+    "summary": "한국철강협회가 건설경기 부진과 수입산 제품 경쟁에 대응하기 위해 강관산업 세미나를 개최했다. CCUS 등 신규 수요 발굴을 통해 산업 경쟁력 강화를 모색하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T17:51:26+09:00",
     "importance": 2
   },
   {
@@ -32323,22 +32339,6 @@
     "summary": "시에라베이스가 국토교통부 건설신기술에 등록되고 스케일업 팁스에 선정되었으며, 한국도로공사·한국수자원공사 등 주요 공공기관에서 SIRIUS 솔루션을 도입 운영 중이다. 진단 표준화와 해외 진출을 통해 건설 디지털 전환 시장 확대를 선도하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T13:57:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "부천 대형 개발사업 ‘지역경제 마중물’로… 박병권 “시·의회, 지역... - kyeonggi.com",
-    "link": "https://www.kyeonggi.com/article/20261002580149",
-    "description": "지역 건설업계는 장기간 이어진 건설경기 침체로 어려움을 겪고 있는 만큼 이들 사업에 지역업체가 참여할 기회를 최대한 확보하는 것이 지역경제 활성화의 중요한 과제로 떠오르고 있다. 특히 박병권 부천시의회 의장은...",
-    "published_at": "2026-10-02T13:31:00+09:00",
-    "cluster_id": "aaae",
-    "publisher": "kyeonggi.com",
-    "title_clean": "부천 대형 개발사업 ‘지역경제 마중물’로… 박병권 “시·의회, 지역...",
-    "summary": "부천시가 대형 개발사업을 추진하며 지역 건설업체의 참여 기회를 확대하려는 방침을 보이고 있다. 건설경기 침체로 어려움을 겪는 지역 건설업계에 일감 기회를 제공하여 지역경제 활성화를 도모하는 정책 논의이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T13:41:49+09:00",
     "importance": 2
   }
 ]
