@@ -5695,23 +5695,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설협 강원도회 장학금 전달 - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2071438",
-    "description": "대한기계설비건설협회 강원특별자치도회(회장 박용모)는 8일 회원사 임직원 자녀 및 기계설비전공 우수학생 8명 대상으로 장학금을 수여했다.",
-    "published_at": "2026-09-09T00:09:00+09:00",
-    "cluster_id": "10ee",
-    "publisher": "kado.net",
-    "title_clean": "기계설비건설협 강원도회 장학금 전달",
-    "summary": "대한기계설비건설협회 강원특별자치도회가 회원사 임직원 자녀 및 기계설비전공 우수학생 8명을 대상으로 장학금을 수여했다. 업계 인재육성과 사회공헌을 위한 정기적 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-09T00:16:54+09:00",
-    "event_label": "대한기계설비건설협회 강원특별자치도회 장학금 전달",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21709,6 +21692,22 @@
     "summary": "대우건설의 신임 대표가 투르크메니스탄을 방문하여 대통령을 예방하고 카라쿰운하 현대화 사업 등 인프라 수주 확대를 추진하고 있다. 기존에 개척한 시장에서 본격적인 사업 진출을 통해 해외 수주 기회를 모색하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-01T17:11:43+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "홍지선 국토부 장관, “착공 지연 현장 매입으로 뒷받침할 것” - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wdmFHSXczQ0J4Y1h5SEZRZnlLUEtBQjN6djJiVEdhZmVXQWdtdTFpTmczaDBtNEQ5UmtueHViQllpdUloUjlUT0lkVzF4emhtZ3pUZi0tY3ZBT09QT1NwcWpRLTZjcW9TY1l5RA?oc=5",
+    "description": "홍지선 국토교통부 장관은 8일 서울 고덕강일지구 민간주택 건설현장을 방문해 민간 주택공급 생태계가 회복될 수 있도록 인허가를 받고도 미분양 우려로 착공이 지연되는",
+    "published_at": "2026-10-08T18:27:20+09:00",
+    "cluster_id": "96c0",
+    "publisher": "기계설비신문",
+    "title_clean": "홍지선 국토부 장관, “착공 지연 현장 매입으로 뒷받침할 것”",
+    "summary": "홍지선 국토부 장관이 고덕강일지구 민간주택 건설현장을 방문하여 착공 지연 문제 해결을 위해 인허가 완료 후 미분양 우려로 공사가 지연되는 사업들을 정부가 매입으로 지원하겠다고 발표했다. 민간 주택공급 생태계 회복을 위한 정부의 적극적인 개입 의지를 드러낸 것이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T00:41:23+09:00",
     "importance": 2
   },
   {
