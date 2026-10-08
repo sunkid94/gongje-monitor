@@ -5695,6 +5695,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성물산·현대건설 선점한 여의도…DL이앤씨도 첫 입성 도전 - news1.kr",
+    "link": "https://www.news1.kr/realestate/general/6314678",
+    "description": "9일 정비업계에 따르면 지난 8일 열린 여의도 진주아파트 재건축정비사업조합의 시공사 선정 현장설명회에 DL이앤씨, 대우건설(047040), PARK현대산업개발(294870), 제일건설이 참석했다. 진주아파트 재건축은 지하 4층~지상...",
+    "published_at": "2026-10-09T07:05:00+09:00",
+    "cluster_id": "0b67",
+    "publisher": "news1.kr",
+    "title_clean": "삼성물산·현대건설 선점한 여의도…DL이앤씨도 첫 입성 도전",
+    "summary": "여의도 진주아파트 재건축사업의 시공사 선정 현장설명회에 DL이앤씨, 대우건설, PARK현대산업개발, 제일건설이 참석하며 경쟁이 심화되고 있다. DL이앤씨가 여의도 프로젝트에 처음 도전하는 등 주요 건설사들의 수주 경쟁이 활발해지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T07:10:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21679,20 +21695,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "가덕신공항 절차 '착착'…공사비는 '글쎄' - news.skbroadband.com",
-    "link": "https://news.skbroadband.com/news/articleView.html?idxno=239193",
-    "description": "[기사내용] 대우건설 컨소시엄이 제출한 가덕도신공항 부지조성공사 기본설계가 최근 국토부 심의를 통과했습니다. 앞으로 실시설계 적격자 선정과 예비 계약을 거쳐, 11월에는 우선시공분 착공, 이어 본계약과 내년...",
-    "published_at": "2026-10-01T17:08:00+09:00",
-    "cluster_id": "e96a",
-    "publisher": "news.skbroadband.com",
-    "title_clean": "가덕신공항 절차 '착착'…공사비는 '글쎄'",
-    "summary": "대우건설 컨소시엄의 가덕도신공항 부지조성공사 기본설계가 국토부 심의를 통과하며 사업이 순조롭게 진행 중입니다. 다만 공사비 증액 우려가 있어 건설업계의 수익성 측면에서는 불확실성이 남아있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-01T17:32:19+09:00",
-    "importance": 2
+    "title": "[N2 포커스] 4년 만에 최고치 찍은 아연…철강업계 원가 부담 커진다 - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20261007500397",
+    "description": "중국에서는 아연 생산이 늘어난 가운데 건설경기 부진으로 아연도금강판 수요가 약화됐고, LME와 중국 내수가격 사이에 차익거래 여건이 형성되면서 해외로 향하는 물량도 크게 증가했다. 로이터에 따르면 중국의 지난...",
+    "published_at": "2026-10-09T07:02:00+09:00",
+    "cluster_id": "9f14",
+    "publisher": "news2day.co.kr",
+    "title_clean": "[N2 포커스] 4년 만에 최고치 찍은 아연…철강업계 원가 부담 커진다",
+    "summary": "아연 가격이 4년 만에 최고치를 기록했다. 중국의 과잉 생산과 건설경기 부진으로 해외 수출이 증가하면서 철강업계의 원재료비 부담이 커지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T07:10:46+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32316,22 +32332,6 @@
     "summary": "박칠성 서울시의회 도시안전건설위원장이 서울소방학교의 화재감정연구센터 이전 개소식에 참석해 축하했다. 센터는 기존 8·9층에서 본관동 4층으로 이전하여 화재 현장 증거물 분석 및 화재 원인 규명 업무를 보다 효율적으로 수행하게 된다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-02T18:33:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재개발] 2064가구 전개 독산2구역 재개발, 시공자 탐색 '재출... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95639",
-    "description": "업체 「건설산업기본법」에 따른 토목공사업과 건축공사업 면허를 겸유하거나 토목건축공사업 면허를 보유한 업체 「건설산업기본법」에 따른 조경공사업 면허, 「소방시설공사업법」에 따른 전문소방시설공사업...",
-    "published_at": "2026-10-02T17:48:00+09:00",
-    "cluster_id": "e3a3",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재개발] 2064가구 전개 독산2구역 재개발, 시공자 탐색 '재출...",
-    "summary": "서울 독산2구역 재개발 사업(2,064가구)에서 시공사 재공모가 진행 중이며, 토목·건축·조경·소방시설 등 다양한 면허를 보유한 업체들이 참여 대상이다. 대규모 재개발 프로젝트로 건설업계에 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T18:13:06+09:00",
     "importance": 2
   }
 ]
