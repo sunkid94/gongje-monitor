@@ -21712,6 +21712,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대엔지니어링, 하이브리드 수전해 플랜트로 글로벌 시장 진출 노린다 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3716928",
+    "description": "HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 4대 핵심 연구 분야로 선정하고 연구개발 역량 강화에 집중하고 있다. 수소, SMR, SAF, 핵융합, 바이오가스 등 미래 에너지 기술 연구도 적극 추진 중이다.",
+    "published_at": "2026-10-08T22:42:00+09:00",
+    "cluster_id": "882d",
+    "publisher": "gukjenews.com",
+    "title_clean": "현대엔지니어링, 하이브리드 수전해 플랜트로 글로벌 시장 진출 노린다",
+    "summary": "현대엔지니어링이 하이브리드 수전해 플랜트로 글로벌 시장 진출을 시도하고 있다. HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 핵심 연구분야로 삼아 수소, SMR, SAF 등 미래 에너지 기술 개발을 강화 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T22:51:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32317,22 +32333,6 @@
     "summary": "시에라베이스가 시설점검 로봇 '시리우스'로 국토교통부 건설신기술 990호 등록을 획득하고 스케일업 팁스 R&D사업에 선정됐다. 한국도로공사·한국수자원공사 등 주요 공공기관에 공급 중이며 일본 진출 등 해외 확장을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T16:42:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "미국 8월 건설지출 0.9% 증가…\"비주거용이 견인\" - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261002_0003812851",
-    "description": "3% 증가하고 비주거용 건설이 0.2% 늘어났다. 전반적으로 8월 건설지출은 예상과 달리 증가했지만 주택담보 대출 금리 상승이 주택 건설에 부담으로 작용하면서 건설경기의 기조는 여전히 약한 흐름을 보였다.",
-    "published_at": "2026-10-02T15:57:00+09:00",
-    "cluster_id": "0bd0",
-    "publisher": "newsis.com",
-    "title_clean": "미국 8월 건설지출 0.9% 증가…\"비주거용이 견인\"",
-    "summary": "미국 8월 건설지출이 0.9% 증가했으며, 비주거용 건설이 주도적으로 성장했다. 다만 주택담보 대출 금리 상승으로 주택 건설이 부진하면서 건설경기의 전반적 기조는 약한 흐름을 유지하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-02T16:12:33+09:00",
     "importance": 2
   }
 ]
