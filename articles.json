@@ -21763,6 +21763,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "유진기업, 4분기 안전보건 점검 실시...유해·위험요인 근절 - 뉴스포스트",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kQU4ySFNrMEkzY0E1QWJoQmtXR0JEUmdOV0lpUmZCYjJCdWR2bkQ5SDdmRzBBZUNyWjdmUmRfV0pSVFBIQXlWS0NTODEwbDlwa05zM3BQOGJieXh4YjYybVBiSWRvQi16?oc=5",
+    "description": "[뉴스포스트=이우섭 기자] 유진기업이 전국 사업장을 대상으로 4분기 안전보건 점검을 실시한다고 8일 밝혔다.유진기업은 오는 12일부터 12월 4일까지 사업장의 유해·위험요인 확인과 개선 조치 이행 여부, 관리감독자의 안전보건 업무 수행 실태를 점검한다.이번 점검은 현장 8대 유해·위험",
+    "published_at": "2026-10-08T14:31:41+09:00",
+    "cluster_id": "e3cf",
+    "publisher": "뉴스포스트",
+    "title_clean": "유진기업, 4분기 안전보건 점검 실시...유해·위험요인 근절",
+    "summary": "유진기업이 12월 12일부터 4일간 전국 사업장을 대상으로 4분기 안전보건 점검을 실시한다. 점검은 유해·위험요인 확인, 개선 조치 이행 여부, 관리감독자의 안전보건 업무 실태 등을 중점적으로 검토한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T20:41:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32321,21 +32337,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-02T15:44:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'레미콘 빅2' 유진·삼표그룹, 국정감사·청문회 촉각 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20261002000897",
-    "description": "업계 한 관계자는 \"건설경기 침체로 레미콘업계가 어려운 가운데 국정감사와 청문회 리스크를 안게 됐다\"며 \"특히 시멘트공장 환경호르몬 검출은 업계 전체와 직결되는 문제라 예의주시하고 있다\"고 말했다.",
-    "published_at": "2026-10-02T15:24:00+09:00",
-    "cluster_id": "fb99",
-    "publisher": "newspim.com",
-    "title_clean": "'레미콘 빅2' 유진·삼표그룹, 국정감사·청문회 촉각",
-    "summary": "레미콘 업계 빅2인 유진·삼표그룹이 국정감사와 청문회 리스크에 직면했다. 건설경기 침체에 더해 시멘트공장 환경호르몬 검출 문제가 업계 전체의 규제 강화로 이어질 수 있어 업계가 우려하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-02T15:32:04+09:00",
-    "importance": 4
   }
 ]
