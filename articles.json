@@ -5695,6 +5695,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[경제계 인사] 한국토지주택공사(LH) 외 - chosun.com",
+    "link": "https://www.chosun.com/economy/industry-company/2026/10/09/2VK7FQWFJJDRBC2KKTQIBPKITY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "▲한국토지주택공사(LH)▷상임이사 유병용 박현근 ▲대우건설▷전무 조재형 오형욱 김정훈 ▷상무A 김상경 ▷상무B 김태훈 최승환 안종상 오성진 강민웅 이풍의 김기영 오동욱 정영진 윤상섭 김진욱 김선욱 김보선...",
+    "published_at": "2026-10-09T00:44:00+09:00",
+    "cluster_id": "82ef",
+    "publisher": "chosun.com",
+    "title_clean": "[경제계 인사] 한국토지주택공사(LH) 외",
+    "summary": "LH와 대우건설 등 건설업계 주요 기업의 임원진 인사이동을 발표한 기사입니다. 상임이사와 전무, 상무급 임원들의 승진 및 배치 현황을 보도하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-09T01:01:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21674,22 +21690,6 @@
     "publisher": "niceeconomy.co.kr",
     "title_clean": "[산업 브리핑] LG에너지솔루션·LS·두산에너빌리티",
     "summary": "두산에너빌리티가 베트남 국영에너지그룹과 8400억원 규모의 오몬3 가스복합발전소 건설공사 계약을 체결했다. 해외 대형 발전소 프로젝트 수주로 기계설비건설업계의 수주 기회 증대를 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T17:11:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 이강석, 첫 해외 행보는 투르크메니스탄…인프라 수주 확대 시... - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026100111130011158",
-    "description": "이강석 대우건설 대표가 취임 후 첫 해외 일정으로 투르크메니스탄을 찾아 세르다르 베르디무하메도프 대통령을 예방했다. 정원주 대우건설 회장이 수년간 공들여 개척한 투르크메니스탄에서 카라쿰운하 현대화 사업을...",
-    "published_at": "2026-10-01T17:04:00+09:00",
-    "cluster_id": "8b92",
-    "publisher": "newsway.co.kr",
-    "title_clean": "대우건설 이강석, 첫 해외 행보는 투르크메니스탄…인프라 수주 확대 시...",
-    "summary": "대우건설의 신임 대표가 투르크메니스탄을 방문하여 대통령을 예방하고 카라쿰운하 현대화 사업 등 인프라 수주 확대를 추진하고 있다. 기존에 개척한 시장에서 본격적인 사업 진출을 통해 해외 수주 기회를 모색하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-01T17:11:43+09:00",
     "importance": 2
