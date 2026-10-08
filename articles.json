@@ -5763,23 +5763,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "\"AI·디지털 전환\" K-FINCO, 90일 혁신과제 착수 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202609081838119645",
-    "description": "전문건설공제조합(K-FINCO)이 조합원과 임직원의 비효율적인 업무를 인공지능(AI)·디지털 방식으로 전환하는 데 역량을 집중한다. K-FINCO는 지난 7일 본부 임원과 부서장, 전국 지점장이 참석한 관리자 워크숍을 열고...",
-    "published_at": "2026-09-08T18:39:00+09:00",
-    "cluster_id": "4505",
-    "publisher": "fnnews.com",
-    "title_clean": "\"AI·디지털 전환\" K-FINCO, 90일 혁신과제 착수",
-    "summary": "전문건설공제조합(K-FINCO)이 조합원과 임직원의 비효율적 업무를 AI·디지털 방식으로 전환하는 '90일 혁신과제'를 착수했다. 관리자 워크숍을 개최해 혁신 방향을 공유하고 역량 결집을 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T18:53:08+09:00",
-    "event_label": "전문건설공제조합 AI·디지털 전환 혁신과제 착수",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21777,6 +21760,22 @@
     "summary": "두산에너빌리티가 베트남 국영에너지그룹(PVN)과 약 8400억원 규모의 '오몬3 가스복합발전소' 건설공사 계약을 체결했다. 해외 대규모 에너지 인프라 프로젝트 수주로 기계설비건설 업계의 수출 수주 증가를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-01T17:01:45+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대우건설, 데이터센터 전담팀·안전품질본부 신설... 조직 개편 단행 - 뉴스락",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43eXFpR015bWRia1hFbzNkLVdCRHJEajFWbnJpLUh2cEswdXUxNWVkcE9mb1VLNjNLTlRCV3BmQk1IUE42UjZ6V0ljZVVaazEtR09DNU92NWtaWTlGU3dxRi00dHJCQ1RXSlAzRg?oc=5",
+    "description": "[뉴스락] 대우건설이 데이터센터와 도시정비사업 등 전략사업의 경쟁력을 강화하고 대형 프로젝트의 리스크 관리 역량을 높이기 위한 조직 개편과 임원 인사를 단행했다.대우건설은 지속적인 성장과 미래 경쟁력 강화를 위해 전사 조직 개편 및 임원 인사를 실시했다고 8일 밝혔다.이번 조직 개편은 전략 육성사업의 수주 경쟁력 강화와 사업 포트폴리오 확대, 대형 프로젝트 리스크 관리, 안전·품질 및 기술 분야의 전문성 제고에 초점을 맞췄다.대우건설은 기존 건축사업본부 산하 도시정비사업팀을 도시정비사업1팀, 도시정비사업2팀, 도시정비사업관리팀 등",
+    "published_at": "2026-10-08T17:07:57+09:00",
+    "cluster_id": "461d",
+    "publisher": "뉴스락",
+    "title_clean": "대우건설, 데이터센터 전담팀·안전품질본부 신설... 조직 개편 단행",
+    "summary": "대우건설이 데이터센터 전담팀 신설과 안전품질본부 신규 구성 등 조직 개편을 단행하며 전략사업 경쟁력 강화와 대형 프로젝트 리스크 관리 역량 제고에 나섰다. 도시정비사업팀을 세분화하고 임원 인사를 통해 미래 경쟁력 강화를 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T19:01:07+09:00",
     "importance": 2
   },
   {
