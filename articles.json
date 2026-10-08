@@ -5712,23 +5712,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, 단기 혁신과제 추진…업무처리 효율화·AI 전환 속도 - Nate News",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iVzNYVkZ4TWRsR0pBQUI2cWxTM0FYd01GZ3dTZEZIRlN1aWVFQXdwZzIwczF2cUh3dUxzbFBielVnaVZrNy1tWE00aVEwUV8wcEVr?oc=5",
-    "description": "한눈에 보는 오늘 : 종합 - 뉴스 : 지난 7일 전문건설공제조합이 관리자 워크숍을 진행 중인 모습.ⓒ전문건설공제조합 K-FINCO 전문건설공제조합이 본부별로 90일 이내에 달성할 수 있는 단기 혁신과제(Quick Wins)를 도출해 추진한다. 업무 처리 효율화를 꾀하고 AI·디지털 업무",
-    "published_at": "2026-09-08T18:09:00+09:00",
-    "cluster_id": "ae6e",
-    "publisher": "Nate News",
-    "title_clean": "전문건설공제조합, 단기 혁신과제 추진…업무처리 효율화·AI 전환 속도",
-    "summary": "전문건설공제조합(K-FINCO)이 본부별로 90일 내 달성 가능한 단기 혁신과제를 도출해 추진 중이다. 업무 처리 효율화와 AI·디지털 업무 전환을 통해 조직 역량 강화를 목표하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-08T21:36:36+09:00",
-    "event_label": "전문건설공제조합 단기 혁신과제(Quick Wins) 추진",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21729,6 +21712,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "교사 대신 폭주족의 ‘따까리’ 된 까닭은[책과 삶] - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202610082120005",
+    "description": "오키나와의 대표 산업 중 하나인 건설업 노동자로 취직해서는 “(양키들이) 화려한 ‘무대’인 고파치를 벗어난 시간에 어떻게 지내는지 알게 됐다.” 우치코시는 건설업체 사장, 유흥업소 접객원 혹은 사장이 된 이들...",
+    "published_at": "2026-10-08T21:20:00+09:00",
+    "cluster_id": "ec47",
+    "publisher": "khan.co.kr",
+    "title_clean": "교사 대신 폭주족의 ‘따까리’ 된 까닭은[책과 삶]",
+    "summary": "오키나와 건설업 노동자들의 근무 외 시간 생활과 사회 문제를 다룬 기사로, 건설업계 종사자들의 실태를 조명하는 내용입니다. 건설업계 자체의 호재나 악재보다는 사회 현상과 인문학적 관점의 보도입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T21:41:47+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "씨이랩, '한국건설·안전박람회' 활약 주가 영향은...자사 기술 대거 선봬 - 파이낸셜포스트",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TSnZ2OVZwUDRTeXR3bzdQbVkyTEx6ZGEtRHd6bVdLenFVZW1rTmZfMnlJMFhKSm9WNGFBY0pNSGRyUFlFTWdSUTBReE50cXY2RmI2bnpEb3paSlhtYmRfSzlsUDlISVRzbWtuVjRIcEtaUEpK?oc=5",
+    "description": "피지컬 인공지능(AI) 전문기업 씨이랩이 오는 13일부터 16일까지 진행하는 경기 일산 킨텍스(KINTEX) 제1전시장에서 열리는 '2026 한국건설·안전박람회'에 참가하는 가운데, 주가에 긍정적 영향 가능성이 제기된다. 8일 씨이랩에 따르면 이번 전시회에서 비전 AI 기반 실시간 위",
+    "published_at": "2026-10-08T09:17:06+09:00",
+    "cluster_id": "56af",
+    "publisher": "파이낸셜포스트",
+    "title_clean": "씨이랩, '한국건설·안전박람회' 활약 주가 영향은...자사 기술 대거 선봬",
+    "summary": "피지컬 AI 전문기업 씨이랩이 2026 한국건설·안전박람회에서 비전 AI 기반 실시간 위험 감지 등 자사 기술을 선보인다. 이번 전시회 참가로 회사 주가에 긍정적 영향 가능성이 제기되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T21:41:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32319,21 +32334,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-02T16:06:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"한달 500만원 법니다\"…中서 몸값 치솟은 '이 직업' - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026100215474871084",
-    "description": "배달원의 시간당 임금은 전년보다 11% 늘어 음식점 아르바이트 평균 24.7위안(약 5000원), 건설 노동자 23.4위안(약 4700원)을 크게 웃돌았다. 보고서는 블루칼라 소득 구조도 단순히 오래 일할수록 더 버는 방식에서...",
-    "published_at": "2026-10-02T15:53:00+09:00",
-    "cluster_id": "f56a",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "\"한달 500만원 법니다\"…中서 몸값 치솟은 '이 직업'",
-    "summary": "중국에서 배달원의 시간당 임금이 전년 대비 11% 상승하며 음식점 아르바이트와 건설 노동자 임금을 크게 초과했다. 블루칼라 소득 구조가 근속년수 중심에서 변화하고 있는 추세를 보이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-02T16:02:08+09:00",
-    "importance": 4
   }
 ]
