@@ -21695,6 +21695,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "충청권 광역의회, 민선 9기 첫 행감 돌입 - cctoday.co.kr",
+    "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2238039",
+    "description": "시의회 산업건설위원회는 트램 전체 사업 추진현황과 공구·차량기지별 공정률을 비롯해 건설현장 안전관리, 차량 운행 시스템 등을 살핀다.공사 과정에서 불거진 문제는 물론 향후 일정과 대응책이 적절한지도 따진다....",
+    "published_at": "2026-10-09T06:00:00+09:00",
+    "cluster_id": "bd2a",
+    "publisher": "cctoday.co.kr",
+    "title_clean": "충청권 광역의회, 민선 9기 첫 행감 돌입",
+    "summary": "충청권 광역의회가 민선 9기 첫 행정감시에 돌입하여 트램 사업의 추진현황, 공정률, 건설 안전관리 등을 점검한다. 공사 과정의 문제점과 향후 일정의 적절성을 중점 검토할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T06:05:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32314,22 +32330,6 @@
     "publisher": "areyou.co.kr",
     "title_clean": "[아유경제_재개발] 2064가구 전개 독산2구역 재개발, 시공자 탐색 '재출...",
     "summary": "서울 독산2구역 재개발 사업(2,064가구)에서 시공사 재공모가 진행 중이며, 토목·건축·조경·소방시설 등 다양한 면허를 보유한 업체들이 참여 대상이다. 대규모 재개발 프로젝트로 건설업계에 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T18:13:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대방건설, 346억원 인천계양 조경공사 수주…공공 토목·조경 보폭 확대 - greened.kr",
-    "link": "https://www.greened.kr/news/articleView.html?idxno=351313",
-    "description": "건설경기 불확실성이 이어지는 상황에서 주택사업에 집중된 사업 구조를 공공 토목과 조경, 도시정비 등으로 분산하려는 움직임으로 풀이된다. 대방건설은 사업성과 안정성을 갖춘 사업장을 중심으로 선별 수주...",
-    "published_at": "2026-10-02T17:57:00+09:00",
-    "cluster_id": "7b4b",
-    "publisher": "greened.kr",
-    "title_clean": "대방건설, 346억원 인천계양 조경공사 수주…공공 토목·조경 보폭 확대",
-    "summary": "대방건설이 인천계양에서 346억원 규모의 조경공사를 수주했다. 건설경기 불확실성 속에서 주택사업 중심 구조를 공공 토목·조경·도시정비 등으로 다각화하려는 전략으로 해석된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T18:13:06+09:00",
     "importance": 2
