@@ -21712,6 +21712,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "유가 재급등에 건설자재값 '들썩'…공사비 상승 압력 커진다 - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20261008500029",
+    "description": "높은 공사비는 건설경기 회복에도 부담으로 작용할 전망이다. 실제 7월 건축허가는 전년 동월 대비 49.2% 증가했지만 착공은 16.2% 감소해 허가 이후 착공으로 이어지는 과정에서 병목이 나타나고 있다. 연구원은 특히...",
+    "published_at": "2026-10-09T00:02:00+09:00",
+    "cluster_id": "042f",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "유가 재급등에 건설자재값 '들썩'…공사비 상승 압력 커진다",
+    "summary": "유가 재급등에 따른 건설자재값 상승으로 공사비 압력이 커지고 있다. 7월 건축허가는 증가했으나 착공이 감소하면서 높은 공사비가 건설경기 회복의 병목 요인으로 작용하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T00:11:22+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설노동자 대학생 장학금 200만원 지원…10월 23일 신청 마감, 본인·자녀 150명 선발 - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRMWFYRHFDemFDTzJ2QzJxVlJlU2FPZGJVTEY3akdHWXprUklPQ3piZXlPQlpYallYd3pTcWZtYmJsQUdWWnF3Zm5ZS0ItQ0x4X00zTk5oUnNvTGhqMGZRZEZYZDRyTXdT?oc=5",
+    "description": "[CBC뉴스] 건설현장에서 일하는 노동자와 대학생 자녀의 학업 부담을 덜어주기 위한 장학금 신청이 진행되고 있다. 지원 대상자로 선정되면 1인당 200만원을 받을 수 있으며, 신청 마감일은 오는 10월 23일이다.건설근로자공제회는 2026년 2학기",
+    "published_at": "2026-10-09T00:00:00+09:00",
+    "cluster_id": "f7bb",
+    "publisher": "CBC뉴스",
+    "title_clean": "건설노동자 대학생 장학금 200만원 지원…10월 23일 신청 마감, 본인·자녀 150명 선발",
+    "summary": "건설근로자공제회가 건설현장 노동자와 대학생 자녀를 대상으로 1인당 200만원의 장학금을 지원한다. 총 150명을 선발하며 10월 23일이 신청 마감이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T00:11:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32301,38 +32333,6 @@
     "summary": "대방건설이 인천계양에서 346억원 규모의 조경공사를 수주했다. 건설경기 불확실성 속에서 주택사업 중심 구조를 공공 토목·조경·도시정비 등으로 다각화하려는 전략으로 해석된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T18:13:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "태국 냉연강판 시장동향 - dream.kotra.or.kr",
-    "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244456",
-    "description": "이에 따라 태국 철강시장은 건설경기와 자동차 생산동향의 영향을 크게 받는 구조로 볼 수 있다. <태국의 산업별 철강 수요 비중(2024)> (단위: %) [자료: Iron and Steel Institute of Thailand] 한편, 2026년 1~7월...",
-    "published_at": "2026-10-02T17:55:00+09:00",
-    "cluster_id": "abbf",
-    "publisher": "dream.kotra.or.kr",
-    "title_clean": "태국 냉연강판 시장동향",
-    "summary": "태국 냉연강판 시장이 건설경기와 자동차 생산에 크게 의존하는 구조를 보이고 있다. 2026년 상반기 시장 동향을 분석한 자료로, 향후 시장 변동성이 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-02T18:13:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "전북자치도, 국토부와 건설업계 지원 논의…분리발주 등 8개 과제 건의 - newsmaker.or.kr",
-    "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=183561",
-    "description": "전북특별자치도와 국토교통부가 건설경기 침체로 어려움을 겪는 지역 건설업계 지원 방안을 논의했다. 전북특별자치도는 대형건설공사 분리발주와 계약금액 조정기준 완화 등 8개 과제를 국토교통부에 건의했다....",
-    "published_at": "2026-10-02T17:27:00+09:00",
-    "cluster_id": "9cd9",
-    "publisher": "newsmaker.or.kr",
-    "title_clean": "전북자치도, 국토부와 건설업계 지원 논의…분리발주 등 8개 과제 건의",
-    "summary": "전북특별자치도가 건설경기 침체로 어려움을 겪는 지역 건설업계 지원을 위해 국토교통부와 논의했다. 대형공사 분리발주와 계약금액 조정기준 완화 등 8개 과제를 건의하며 규제 개선을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T17:42:37+09:00",
     "importance": 2
   }
 ]
