@@ -5899,6 +5899,22 @@
     "importance": 6
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "낙동강환경청, 대형 조선소 VOCs 관리 현장 점검 - todayenergy.kr",
+    "link": "https://www.todayenergy.kr/news/articleView.html?idxno=303988",
+    "description": "이형섭 낙동강유역환경청장은 8일, 경상남도 거제시에 소재한 '삼성중공업(주) 거제조선소'를 방문하여 선박 도장시설 등 비산배출시설과 대기방지시설 운영·관리 실태를 점검했다. 이번 점검은 선박 도장...",
+    "published_at": "2026-10-08T13:44:00+09:00",
+    "cluster_id": "d223",
+    "publisher": "todayenergy.kr",
+    "title_clean": "낙동강환경청, 대형 조선소 VOCs 관리 현장 점검",
+    "summary": "낙동강유역환경청이 삼성중공업 거제조선소를 방문하여 선박 도장시설 등 VOCs 관리 실태를 점검했다. 조선업체의 대기오염 물질 관리 현황을 감시하는 정부 차원의 규제 활동으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-08T13:54:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21883,19 +21899,35 @@
     "importance": 5
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 공사대금채권 ABS 2000억원 발행…누적 8000억원 조달 - knpnews.com",
-    "link": "http://www.knpnews.com/news/articleView.html?idxno=34604",
-    "description": "롯데건설이 공사대금채권을 기초로 2000억원 규모의 자산유동화증권(ABS)을 발행하며 유동성 확보에 나섰다. 롯데건설은 자체 개발한 공사대금채권 유동화 금융상품을 통해 3차 ABS 발행을 완료했다고 1일 밝혔다....",
-    "published_at": "2026-10-01T13:50:00+09:00",
-    "cluster_id": "021d",
-    "publisher": "knpnews.com",
-    "title_clean": "롯데건설, 공사대금채권 ABS 2000억원 발행…누적 8000억원 조달",
-    "summary": "롯데건설이 공사대금채권을 기초로 2000억원 규모의 ABS를 3차 발행하여 누적 8000억원을 조달했다. 자체 개발한 유동화 금융상품을 통해 건설사의 유동성 확보 방안을 제시하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-01T14:01:37+09:00",
+    "title": "취임 100일 추경호 대구 경제 체질 바꿔 - newsclaim.co.kr",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077788",
+    "description": "취임 이후 총 6차례에 걸쳐 비상경제대책회의를 직접 주재하며 산업단지 입주 규제 완화, 지역 건설경기 활성화, 주택시장 정상화 등 현안을 직접 점검했다. 택시업계의 카드결제 수수료 전액 지원 등 소상공인과...",
+    "published_at": "2026-10-08T13:46:00+09:00",
+    "cluster_id": "f350",
+    "publisher": "newsclaim.co.kr",
+    "title_clean": "취임 100일 추경호 대구 경제 체질 바꿔",
+    "summary": "추경호 대구시장이 취임 100일을 맞아 비상경제대책회의를 통해 산업단지 입주 규제 완화, 건설경기 활성화, 주택시장 정상화 등의 경제 활성화 정책을 추진하고 있다. 소상공인 지원 등 지역 경제 체질 개선에 주력하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T13:54:06+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[현대백화점 인사 전망]① 주력사 이익 개선… 정지선 인사 앞 계열사 ... - newsclaim.co.kr",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077755",
+    "description": "건설경기 침체로 빌트인 가구 공급 물량이 감소한 가운데 비용 절감과 원가 관리가 수익성 개선에 반영됐다. 지난 2월에는 현대건설과 이라크 바스라 해수처리시설 가설공사 계약도 체결했다. 계약 시점은 민 사장의...",
+    "published_at": "2026-10-08T13:46:00+09:00",
+    "cluster_id": "ec84",
+    "publisher": "newsclaim.co.kr",
+    "title_clean": "[현대백화점 인사 전망]① 주력사 이익 개선… 정지선 인사 앞 계열사 ...",
+    "summary": "현대건설이 비용 절감과 원가 관리를 통해 수익성을 개선하고 있으며, 이라크 바스라 해수처리시설 공사 계약을 체결했다. 건설경기 침체 속에서도 주력사의 이익 개선 흐름을 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-08T13:54:06+09:00",
     "importance": 2
   },
   {
@@ -32313,21 +32345,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-01T18:12:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "기술인협회 낡은 '경력인정 규제', 전면 혁신해야 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326794",
-    "description": "이들이 대학에서 건설현장 안전 실무, 데이터 기반 위험예측 시스템, 스마트 관제 등 현대 건설안전에 가장 필요한 교과들을 우수한 성적으로 수강했음에도 단지 학과 간판에 '건설'이나 '안전'이라는 단어가 직접 포함되지...",
-    "published_at": "2026-10-01T18:02:00+09:00",
-    "cluster_id": "58ce",
-    "publisher": "대한전문건설신문",
-    "title_clean": "기술인협회 낡은 '경력인정 규제', 전면 혁신해야",
-    "summary": "기술인협회가 건설안전 관련 현대 교과를 이수한 졸업생들이 학과명 규제로 경력인정을 받지 못하는 문제를 지적하며 낡은 규제의 전면 혁신을 촉구하고 있다. 현장 실무 중심 교육을 받은 인재들이 형식적 학과명 요건으로 배제되는 구조 개선을 요구하는 것으로, 건설업 인력 운영의 유연성과 효율성 개선을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T18:12:00+09:00",
-    "importance": 2
   }
 ]
