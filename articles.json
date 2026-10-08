@@ -21712,6 +21712,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "상반기 건축착공 9.0%↑… 건축경기 회복까지 ‘시차’ - 대한건축사협회 건축사신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YcFRheE1TZVpnbHV0aFJacHhjVXdQOVUyUFhFdHVwSGRLMTdNUjduRmhTX2xGR1JZNjRnUHY2XzJUc0pyQTBZVnFZblhfRTBIZ3g3eTdlelk1YUlPcG45bmlKWm5zSkk?oc=5",
+    "description": "지난해 감소세였던 건축 착공이 올 상반기 2분기 연속 증가세로 전환함에 따라 건축시장의 미래 물량 회복에 대한 기대가 높아지고 있다. 다만 건축착공 규모가 과거 평균을 밑돌고 있는 데다 건축기성도 감소세를 이어가면서 건축경기의 본격적인 회복까지는 시간이 필요할 전망이다.한국건설산업연구원(건산연)은 최근 발간한 ‘건설동향브리핑’에서 2026년 상반기 건축착공이 대부분 공종에서 전년동기 대비 증가했다고 밝혔다. 건축착공면적은 1/4분기 9.7%, 2/4분기 8.6% 증가하면서 2분기 연속 회복세를 보였다.상반기 주거용 건축착공면적은 전",
+    "published_at": "2026-10-08T17:44:04+09:00",
+    "cluster_id": "0daa",
+    "publisher": "대한건축사협회 건축사신문",
+    "title_clean": "상반기 건축착공 9.0%↑… 건축경기 회복까지 ‘시차’",
+    "summary": "2026년 상반기 건축착공이 전년동기 대비 9% 이상 증가하며 2분기 연속 회복세를 보였다. 다만 착공 규모가 역사 평균 이하이고 건축기성은 감소 중으로, 건축경기의 본격 회복까지는 추가 시간이 필요한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T22:01:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32317,22 +32333,6 @@
     "summary": "미국 8월 건설지출이 0.9% 증가했으며, 비주거용 건설이 주도적으로 성장했다. 다만 주택담보 대출 금리 상승으로 주택 건설이 부진하면서 건설경기의 전반적 기조는 약한 흐름을 유지하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-02T16:12:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "고속철도 통합 뒤 이용객 11.9% 늘어 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37402",
-    "description": "KTX와 SRT 통합 뒤 고속철도 이용객이 늘고 수서역의 예매난과 열차 혼잡은 완화된 것으로 나타났다. 9월1일부터 27일까지 하루 평균 이용객은 지난해보다 11.9% 증가했다. 수서역은 공급 좌석을 약 30% 늘리면서 이용률이 4%포인트 낮아졌다. 운임 인하와 할인 확대 등으로 9월 한 달 이용객이 아낀 교통비는 약 228억원으로 집계됐다.국토교통부와 한국철도공사는 2일 서울역에서 철도 통합 기념행사를 열고 고속철도 통합 이후 운영 결과와 향후 계획을 공개했다. KTX와 SRT는 지난 9월 1일부터 통합 체제로 운행을 시작했고,",
-    "published_at": "2026-10-02T09:00:00+09:00",
-    "cluster_id": "87d0",
-    "publisher": "한국건설신문",
-    "title_clean": "고속철도 통합 뒤 이용객 11.9% 늘어",
-    "summary": "KTX와 SRT 통합 이후 고속철도 이용객이 전년 대비 11.9% 증가했으며, 수서역의 혼잡도 완화되었다. 운임 인하와 할인 확대로 이용객들이 9월 한 달간 약 228억원의 교통비를 절감했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-02T16:06:07+09:00",
     "importance": 2
   }
 ]
