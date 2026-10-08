@@ -21763,6 +21763,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "민주노총 경남건설-플랜트건설노조, 지역 노동자 우선 고용과 중간브로커 퇴출 촉구 - 정경시사 FOCUS",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RcFBVcEFpS2lyQTFodjRTLTF3cnFRaHU2TDhzTnpvY2RTazV2RVhlbGUzd0cwcnptTlNHSFlFM1lJV3kwQ25oX05Hc3o4eVFDenQzQ09QaUJVM196YVJucUhCZkRCb21R?oc=5",
+    "description": "민주노총 경남건설-플랜트건설노조, 지역 노동자 우선 고용과 중간브로커 퇴출 촉구 민주노총 경남건설노조와 플랜트건설노조가 한국중부발전 함안복합발전소 건설현장의 지역 노동자 우선 고용과 중간브로커 퇴출을 촉구하고 나섰다.◆ \"외지 노동자 대다수\"…경남건설노조, 함안복합발전소 현장 집회건설노조 조합원 100여 명은 8일 오전 9시부터 1시간 동안 함안군청 입구에서 집회를 연 데 이어, 발전소 건설 현장으로 이동해 시위를 이어갔다.이들은 현재 진행 중인 공사 현장에 함안을 비롯한 경남 지역 거주 건설노동자보다 외지 노동자가 대다수를 차지하",
+    "published_at": "2026-10-08T20:12:11+09:00",
+    "cluster_id": "0227",
+    "publisher": "정경시사 FOCUS",
+    "title_clean": "민주노총 경남건설-플랜트건설노조, 지역 노동자 우선 고용과 중간브로커 퇴출 촉구",
+    "summary": "민주노총 경남건설-플랜트건설노조가 한국중부발전 함안복합발전소 건설현장에서 지역 노동자 우선 고용과 중간브로커 퇴출을 촉구하며 집회를 개최했다. 현장에 외지 노동자가 대다수를 차지하고 있다는 문제를 제기하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-08T20:31:56+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32321,21 +32337,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-02T15:32:04+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "침체 빠진 건설업계…'AI 데이터센터'서 활로 모색 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726582",
-    "description": "2일 대한건설정책연구원이 발표한 '지표로 보는 건설시장과 이슈 2026년 3분기' 보고서에 따르면 7월 누계 기준 건설수주는 전년 동기 대비 15.8% 증가했고 건축허가와 착공면적도 각각 1.4%, 4.5% 늘었다. 반면...",
-    "published_at": "2026-10-02T14:48:00+09:00",
-    "cluster_id": "5d7c",
-    "publisher": "ebn.co.kr",
-    "title_clean": "침체 빠진 건설업계…'AI 데이터센터'서 활로 모색",
-    "summary": "건설업계가 침체 속에서 AI 데이터센터 건설을 새로운 성장 동력으로 모색하고 있다. 7월 누계 기준 건설수주는 전년 동기 대비 15.8% 증가했으나, 전반적인 건설시장 부진 속에서 고부가가치 프로젝트 발굴의 필요성이 대두되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-02T15:07:01+09:00",
-    "importance": 2
   }
 ]
