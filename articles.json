@@ -22035,6 +22035,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "LG전자 주가 급락에 하나증권 “단기 실적보다 AI 냉각사업 주목” - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12171108",
+    "description": "가전 사업은 물류비 상승, 전장 사업은 고객사의 수요 부진, 냉난방공조 사업은 국내 건설경기 침체에 따른 소비자 수요 감소 등으로 수익성이 기대에 못 미쳤다는 설명이다. 반면 TV·미디어 사업은 프리미엄 제품...",
+    "published_at": "2026-10-08T08:53:00+09:00",
+    "cluster_id": "f826",
+    "publisher": "mk.co.kr",
+    "title_clean": "LG전자 주가 급락에 하나증권 “단기 실적보다 AI 냉각사업 주목”",
+    "summary": "LG전자가 가전, 전장, 냉난방공조 사업의 수익성 부진으로 주가가 하락했으나, 하나증권은 AI 냉각사업 등 장기 성장성에 주목할 필요가 있다고 평가했다. 건설경기 침체와 물류비 상승 등이 단기 실적 부진의 주요 원인이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T09:04:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32337,21 +32353,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-01T15:32:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GH 공공건설지원센터, 119안전센터 사후 모니터링…공공건축 품질 점검 강화 - NSP통신",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZU9zZ09BUmVZOHFDMjJCNUU3cnI3SWpIajFJM0Nrb1QwSjlNZmtLcGlweFJhbjdKVFZ5dTl6N2dTcllYMGxZM2taZi11MHlsREpOWFFBdFlZSVBYLUIwYQ?oc=5",
-    "description": "경기주택도시공사(GH)가 운영하는 경기도 공공건설지원센터가 사전검토를 거쳐 준공된 119안전센터 증축공사 3곳을 대상으로 사후 모니터링을 실시했다. 센터는 설계도서와 심의자료, 현장 시공 상태, 실제 이용자 의견을 함께 확인해 사전검토 내용의 현장 반영 여부와 개선사항을 점검했다.",
-    "published_at": "2026-10-01T15:20:48+09:00",
-    "cluster_id": "6d82",
-    "publisher": "NSP통신",
-    "title_clean": "GH 공공건설지원센터, 119안전센터 사후 모니터링…공공건축 품질 점검 강화",
-    "summary": "GH가 운영하는 공공건설지원센터가 119안전센터 증축공사에 대해 설계도서, 심의자료, 현장 시공 상태, 이용자 의견을 종합적으로 검토하는 사후 모니터링을 실시했다. 공공건축 품질 점검을 강화하고 사전검토 내용의 현장 반영 여부를 확인하는 품질 관리 활동이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T15:32:01+09:00",
-    "importance": 4
   }
 ]
