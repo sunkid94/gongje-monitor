@@ -5729,6 +5729,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[인사] 대우건설 외 - 세계일보",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tSXQtTHFIcUpwZ1FqSkR1MElpaEN3X2NTVnEzUW9QbGJJbG45R0VZRTFYYzQ3MHNXVXBTZFhFUG5QWndZNGUwZnlBWVcwd1FZNUFtOXlRYmbSAVRBVV95cUxPT3Jfcm8xV0kwNjhqbFVMcW1DMzFxMko0bkpTcnlUNlloN01vVzZfUGZGSGdwZGxhOEpGSy1UbkVZRDdWalAtbzMtMlhrLWZrZ1NxR0M?oc=5",
+    "description": "대우건설 <보직인사> ◆전무 △전략기획본부장 손원균 △글로벌인프라본부장 한승 △안전품질본부장 신동혁 △건축사업본부장 조재형 △플랜트사업본부장 오형욱 △토목사업본부장 김정훈 ◆상무 △재무관리실장 황원상 △조달본부장 안병관 △대외협력단장 신인재 △경영지원실장 홍재민 ◆책임 △기술연구원장 고정원 <승진인사> ◆상무A △김상경 ◆상무B △김태훈 △최승환 △안종상 △오성진 △강민웅 △이광익 △김기영 △오동욱 △정영진 △윤상섭 △김진욱 △김선욱 △김보선 △배성진 △정대희 △한재철 △한영호 △김형민 한국토지주택공사(LH) ◆상임이사 임명 △주거복지본부장 유병용 △공공주택본부장 박현근 한국공항공사 △부사장 박재희 한국인터넷진흥원 ◆단장급 보임 △AI보안인재단장 오주형.",
+    "published_at": "2026-10-08T20:36:45+09:00",
+    "cluster_id": "ad0b",
+    "publisher": "세계일보",
+    "title_clean": "[인사] 대우건설 외",
+    "summary": "대우건설, LH, 한국공항공사, 한국인터넷진흥원 등 주요 공기업과 건설사의 임원진 인사 발령이 단행되었다. 전략기획본부장, 글로벌인프라본부장, 안전품질본부장 등 주요 보직에 새로운 인사를 배치하여 조직 체계를 개편했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-08T21:32:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21708,22 +21724,6 @@
     "publisher": "insightkorea.co.kr",
     "title_clean": "박상신 DL 대표, 정비사업 3조 돌...성수2 품고 상대원2 되찾는다",
     "summary": "박상신 DL 대표가 성수2지구 정비사업을 수주하며 정비사업 포트폴리오를 확대하고 있다. DL이앤씨는 성수2지구에 이어 상대원2지구 수주도 추진 중으로, 건설사의 적극적인 수주 활동이 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T17:11:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 이강석, 첫 해외 행보는 투르크메니스탄···인프라 수주 확대 시동 - 뉴스웨이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53ZkZkSGRVTEYzamJDNGxQRGMzU2pjWERFbHphY2tURjdZcW40XzF3NmhQZzlhMzlfVHMwT3lkZ2xBRS1NYURycHBlNExGMC1YT0VuVmF3c2haY204NXNaOHh1b0otWlhKNWc?oc=5",
-    "description": "대우건설 이강석 대표가 취임 후 첫 해외 일정으로 투르크메니스탄을 방문했다. 이 자리에서 카라쿰운하 현대화 사업을 비롯한 인프라 분야 협력 확대를 논의하며 투르크메니스탄과의 경제 협력을 강화할 계획을 밝혔다. 정원주 회장이 개척한 중앙아시아 시장에서 대우건설은 장기적인 파트너십을 통해 성장과 다양한 사업 기회를 모색 중이다.",
-    "published_at": "2026-10-01T17:02:17+09:00",
-    "cluster_id": "0b22",
-    "publisher": "뉴스웨이",
-    "title_clean": "대우건설 이강석, 첫 해외 행보는 투르크메니스탄···인프라 수주 확대 시동",
-    "summary": "대우건설 이강석 대표가 취임 후 첫 해외 출장으로 투르크메니스탄을 방문해 카라쿰운하 현대화 등 인프라 사업 협력을 논의했다. 중앙아시아 시장 진출을 통해 신규 수주 기회를 모색하며 장기적 파트너십 확대를 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-01T17:11:43+09:00",
     "importance": 2
