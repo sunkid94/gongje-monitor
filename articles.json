@@ -5695,6 +5695,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[단독] 잠실장미, 시공사 선정 또 밀린다…입찰계획서 이사회 ‘부결’ - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/news-detail/2026100818053425530",
+    "description": "롯데건설도 입찰 조건과 사업 진행 상황 등을 살펴보는 중이다.장미1·2·3차 재건축은 기존 3522가구를 최고 49층, 5101가구 규모로 새로 짓는 사업이다. 잠실 한강변에 남은 마지막 대규모 재건축 사업장으로, 시장서...",
+    "published_at": "2026-10-09T05:04:00+09:00",
+    "cluster_id": "597d",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "[단독] 잠실장미, 시공사 선정 또 밀린다…입찰계획서 이사회 ‘부결’",
+    "summary": "잠실장미 재건축 사업의 시공사 선정이 또다시 지연되며, 입찰계획서가 이사회에서 부결되었다. 3522가구를 5101가구 규모로 재건축하는 잠실 최대 규모 사업이 차질을 빚고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T05:10:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21677,22 +21693,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-01T17:32:19+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[산업 브리핑] LG에너지솔루션·LS·두산에너빌리티 - niceeconomy.co.kr",
-    "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=91199",
-    "description": "[사진 = 두산에너빌리티 제공] ◇ 두산에너빌리티, 베트남서 8400억원 규모 발전소 공사 수주 두산에너빌리티는 베트남 국영에너지그룹과 약 8400억원 규모의 '오몬3 가스복합발전소' 건설공사 계약을 체결했다고 1일...",
-    "published_at": "2026-10-01T17:00:00+09:00",
-    "cluster_id": "5b1d",
-    "publisher": "niceeconomy.co.kr",
-    "title_clean": "[산업 브리핑] LG에너지솔루션·LS·두산에너빌리티",
-    "summary": "두산에너빌리티가 베트남 국영에너지그룹과 8400억원 규모의 오몬3 가스복합발전소 건설공사 계약을 체결했다. 해외 대형 발전소 프로젝트 수주로 기계설비건설업계의 수주 기회 증대를 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T17:11:43+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
