@@ -5916,6 +5916,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'사람 탓'이라던 건설 사망사고…뒤에선 '관리 부실' 반복 - wowtv.co.kr",
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080078&t=NN",
+    "description": "추락 사망자는 현대건설과 롯데건설이 각각 6명으로 가장 많았고, 현대엔지니어링과 포스코이앤씨가 각각 5명으로 뒤를 이었다. 건설현장에서 반복되는 추락사고를 줄이기 위해서는 작업자 개인의 주의에만 책임을...",
+    "published_at": "2026-10-08T12:42:00+09:00",
+    "cluster_id": "b970",
+    "publisher": "wowtv.co.kr",
+    "title_clean": "'사람 탓'이라던 건설 사망사고…뒤에선 '관리 부실' 반복",
+    "summary": "건설현장 추락사망사고가 반복되고 있으며, 현대건설과 롯데건설이 각각 6명으로 가장 많은 사망자를 기록했다. 기사는 작업자 개인의 주의만으로는 부족하며 업계 전반의 관리 체계 개선이 필요함을 지적하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-08T12:53:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21896,22 +21912,6 @@
     "title_clean": "1200억달러 한미 원전 프레임워크 확정...한국형 원전 글로벌 시험대",
     "summary": "한미 원전 프레임워크 120억달러 규모로 확정되면서 한국수력원자력, 두산에너빌리티, 현대건설 등으로 구성된 팀코리아가 설계·조달·시공 전 과정을 턴키 방식으로 수주할 가능성이 높아졌다. 한국형 원전의 글로벌 진출이 현실화되면서 건설업계에 대규모 수주 기회가 예상된다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-01T13:52:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "상반기 달리던 K조선, 3분기 수주는 숨고르기...연말 LNG가 변수 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726387",
-    "description": "1일 업계에 따르면 HD한국조선해양과 삼성중공업, 한화오션 등 국내 조선 3사는 3분기 약 92억3000만 달러 규모의 수주를 추가했다. 이에 따라 3사의 올해 누적 수주액은 9월 말 기준 383억2000만 달러로 늘었다....",
-    "published_at": "2026-10-01T13:46:00+09:00",
-    "cluster_id": "6aa8",
-    "publisher": "ebn.co.kr",
-    "title_clean": "상반기 달리던 K조선, 3분기 수주는 숨고르기...연말 LNG가 변수",
-    "summary": "국내 조선 3사(HD한국조선해양, 삼성중공업, 한화오션)가 3분기 약 92억 달러 규모의 수주를 기록해 누적 수주액 383억 달러를 달성했다. 상반기 호황에 비해 3분기는 수주 증가율이 둔화되었으나, 연말 LNG 수주가 업계 성과를 좌우할 것으로 예상된다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-01T13:52:44+09:00",
     "importance": 2
   },
