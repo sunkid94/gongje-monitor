@@ -5576,6 +5576,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설 3사, 상반기 이익 회복...현금 개선은 대금 회수 속도에 - asiaa.co.kr",
+    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=265533",
+    "description": "대우건설과 롯데건설은 영업이익이 각각 두 배, 네 배 이상 증가했고 DL이앤씨는 이익 확대와 영업현금 순유입을 함께 기록했다. 공사대금 회수가 뒷받침되면 수익성 개선 효과가 현금흐름과 차입금 상환 여력으로...",
+    "published_at": "2026-10-10T08:10:00+09:00",
+    "cluster_id": "847a",
+    "publisher": "asiaa.co.kr",
+    "title_clean": "건설 3사, 상반기 이익 회복...현금 개선은 대금 회수 속도에",
+    "summary": "건설 3사(대우건설, 롯데건설, DL이앤씨)가 상반기 영업이익을 크게 회복했으며, 이익 개선이 공사대금 회수 속도에 따라 현금흐름 개선으로 이어질 것으로 전망된다. 향후 대금 회수 실적이 차입금 상환 여력 확대의 핵심 요인이 될 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-10T08:12:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21555,22 +21571,6 @@
     "publisher": "etoday.co.kr",
     "title_clean": "[전일 주요공시] LS일렉트릭ㆍ두산에너빌리티ㆍ아이에스동서 등",
     "summary": "두산에너빌리티가 베트남 국영에너지그룹과 8379억 규모의 오몬3 가스복합발전소 건설공사를 수주했다. LS일렉트릭, 엘브이엠, 쏘카 등 여러 기업의 주요공시가 발표되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T08:40:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'삼성중공업 노하우 접목' 사로닉, 美 텍사스 조선소 착공…밴스 부통령... - theguru.co.kr",
-    "link": "https://www.theguru.co.kr/news/article.html?no=107815",
-    "description": "30억 달러 규모 '포트 알파(Port Alpha)' 조선소 착공식 개최 삼성중공업 운영·제조 기술 및 자동화 인프라 수출 모델 부각  삼성중공업의 공정 설계와 생산 자동화 등 '스마트 조선소' 역량이 접목될 미국 자율운항...",
-    "published_at": "2026-10-02T08:26:00+09:00",
-    "cluster_id": "8f70",
-    "publisher": "theguru.co.kr",
-    "title_clean": "'삼성중공업 노하우 접목' 사로닉, 美 텍사스 조선소 착공…밴스 부통령...",
-    "summary": "삼성중공업이 미국 텍사스의 '포트 알파' 조선소(30억 달러 규모) 착공에 운영·제조 기술과 자동화 인프라를 수출하며 스마트 조선소 역량을 국제 시장에 확산시키고 있다. 이는 국내 조선업체의 기술 수출과 해외 시장 진출 확대를 의미하는 긍정적 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T08:40:33+09:00",
     "importance": 2
