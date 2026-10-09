@@ -21576,6 +21576,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한국건설기술연구원 스마트건설지원센터 보육기업 CEO 자재 이송과 반복 작업을 대신하는 AI 기반 자율작업 로봇을 개발하는 기업 서울다이나믹스 - 한경매거진&북",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYkd1THpiOFo2QTFKTHpUT3dlaEktX1hiajl4Yk04NzFmNE9nWUF1Vk9jRmFNejJZX0FjS2FKSEs0d2JjZ1FFOFN0Unh6WFBSZWdraGNQc29COEx2Y3kzSjloWHBuY2ZIdFA4?oc=5",
+    "description": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] 자재 이송과 반복 작업을 대신하는 AI 기반 자율작업 로봇을 개발하는 기업 ‘서울다이나믹스’, 이진호 기자, 스타트업 ceo",
+    "published_at": "2026-10-09T22:28:00+09:00",
+    "cluster_id": "6239",
+    "publisher": "한경매거진&북",
+    "title_clean": "한국건설기술연구원 스마트건설지원센터 보육기업 CEO 자재 이송과 반복 작업을 대신하는 AI 기반 자율작업 로봇을 개발하는 기업 서울다이나믹스",
+    "summary": "한국건설기술연구원 스마트건설지원센터 보육기업인 서울다이나믹스가 건설현장의 자재 이송과 반복 작업을 자동화하는 AI 기반 자율작업 로봇을 개발했다. 이는 건설업의 인력 부족 문제 해결과 작업 효율성 향상을 기대할 수 있는 기술이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-10T04:42:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32310,21 +32326,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-04T02:22:50+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"첫째 30만원·셋째 50만원 지급\" 출산 축하지원금 신청 시작 - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3712596",
-    "description": "출산지원금, 현금, 현찰, 5만원 (사진=국제뉴스DB) 올해 자녀를 출산한 건설노동자 가정에 최대 50만원 상당의 출산 축하지원이 제공된다. 건설근로자공제회는 건설노동자의 초기 양육비 부담을 완화하기 위해 '새가족...",
-    "published_at": "2026-10-04T00:20:00+09:00",
-    "cluster_id": "28ad",
-    "publisher": "gukjenews.com",
-    "title_clean": "\"첫째 30만원·셋째 50만원 지급\" 출산 축하지원금 신청 시작",
-    "summary": "건설근로자공제회가 올해 출산한 건설노동자 가정에 자녀 수에 따라 30만~50만원의 출산 축하지원금을 지급하는 사업을 시작했다. 건설업 종사자의 초기 양육비 부담 완화를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-04T00:22:46+09:00",
-    "importance": 2
   }
 ]
