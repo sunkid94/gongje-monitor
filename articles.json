@@ -5678,6 +5678,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 삼성물산과 숙대입구역세권 조경 특화 협약 - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279571",
+    "description": "IPARK현대산업개발은 삼성물산 리조트 부문과 용산 숙대입구역세권 장기전세주택 도시정비형 재개발사업의 조경 특화를 위한 업무 협약(MOU)을 체결했다고 9일 밝혔다. 협약에 따라 두 회사는 정원과 휴게 공간을...",
+    "published_at": "2026-10-09T11:02:00+09:00",
+    "cluster_id": "979c",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "IPARK현대산업개발, 삼성물산과 숙대입구역세권 조경 특화 협약",
+    "summary": "IPARK현대산업개발이 삼성물산 리조트 부문과 용산 숙대입구역세권 재개발사업에서 조경 특화를 위한 업무협약을 체결했다. 두 회사는 정원과 휴게 공간 조성 등을 통해 프리미엄 주택 개발을 추진할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T11:10:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21662,20 +21678,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데건설, 'ABS AAA' 자찬...현금흐름·PF는 다른 얘기 - womentimes.co.kr",
-    "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106699",
-    "description": "우먼타임스 = 장준형 기자 롯데건설이 1일 낸 보도자료에는 '성공'과 '신뢰'라는 말이 반복된다. 최고 신용등급 AAA의 공사대금채권 자산유동화증권(ABS) 2000억원을 발행했고, 앞선 두 차례 발행분까지 올해 8000억원을...",
-    "published_at": "2026-10-01T17:50:00+09:00",
-    "cluster_id": "2a9e",
-    "publisher": "womentimes.co.kr",
-    "title_clean": "롯데건설, 'ABS AAA' 자찬...현금흐름·PF는 다른 얘기",
-    "summary": "롯데건설이 AAA등급 ABS 2000억원 발행으로 신용도를 자랑하고 있으나, 기사는 현금흐름과 PF 상황이 이와 다른 실정임을 시사하고 있다. 건설사의 긍정적 공시와 달리 실질적 재무 건전성에 대한 의문을 제기하는 비판적 보도이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T18:01:10+09:00",
-    "importance": 4
+    "title": "GS건설, 주택 원가율 정상화에 실적 반등 기대…데이터센터도 성장 동력 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493991",
+    "description": "주택시장과 건설경기에 대한 의존도를 낮추려면 기존 사업의 안정적인 현금흐름을 유지하는 동시에 신규 사업의 수익 기반을 확대하는 것이 중요하다. 데이터센터는 인공지능(AI) 산업의 성장과 함께 건설 수요가 확대될...",
+    "published_at": "2026-10-09T11:04:00+09:00",
+    "cluster_id": "0d2a",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "GS건설, 주택 원가율 정상화에 실적 반등 기대…데이터센터도 성장 동력",
+    "summary": "GS건설이 주택 원가율 정상화로 실적 회복을 기대하고 있으며, AI 산업 성장에 따른 데이터센터 사업을 새로운 수익 성장 동력으로 추진 중이다. 주택시장 의존도를 낮추고 신규 사업 포트폴리오 다각화를 통해 안정적 현금흐름 확보를 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T11:10:06+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
