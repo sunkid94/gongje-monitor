@@ -21678,6 +21678,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "킨텍스, 건설·도시안전 박람회 동시 개최…300여 기업 참여 - globalepic.co.kr",
+    "link": "https://www.globalepic.co.kr/view.php?ud=2026100814531863145f69d33b22_29",
+    "description": "해체산업선진화 컨퍼런스, 스마트건설세미나, 스마트안전테크데이, 첨단 AX 도시안전포럼, 건설안전리더스포럼, 한국건설안전학회 정기학술대회 등을 통해 안전 현안과 기술 적용 사례를 공유한다. 국내외 구매·수출...",
+    "published_at": "2026-10-09T11:56:00+09:00",
+    "cluster_id": "4cdc",
+    "publisher": "globalepic.co.kr",
+    "title_clean": "킨텍스, 건설·도시안전 박람회 동시 개최…300여 기업 참여",
+    "summary": "킨텍스에서 건설·도시안전 관련 박람회와 컨퍼런스를 동시 개최하며 300여 기업이 참여한다. 해체산업, 스마트건설, 스마트안전 등 다양한 분야의 안전 현안과 기술 적용 사례를 공유하는 행사다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T12:00:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32315,22 +32331,6 @@
     "summary": "김상균 도시건설위원장이 동탄2신도시 신축공사 현장을 방문하여 공사 중 학생 안전 대책 강화를 당부했다. 공사 현장의 안전관리 강화 필요성을 강조하는 행사로 보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-02T21:09:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "행복청 젊은 공무원들, 공공건축물 안전·품질 높인다 - 대전일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GYWFESWhSSUNibHlzYm1tam80bll3ZE1PN2ctSVFJdXNhZnh2UEFlaTBiT0RWRnhacWZWZ3lucVZsaUg2M1ZTVXFIZ1JiVjVhOEJpM1VZRkNtVnhUckdRdWx4OEpKMndDVEViZlZtVdIBc0FVX3lxTE15TjZQR1B1MEZ5Q21aUUstS3JjalE4SkdoQnlvNnNTNDBVOXg2aFIwcmRtZFpnNG5LVDM2aXRNWVd4TGJGWkdzRzQzYjJpdDN4bHR5Uks0djFhYXlaUWg0ZHlXaFpNZ2xhb2NIdEVHcEdyUlU?oc=5",
-    "description": "행정중심복합도시건설청(이하 행복청) 젊은 공무원들이 공공건축물의 안전과 품질을 높이기 위한 현장 개선에 적극 나섰다.행복청은 행복도시 공공건축물 건립사업의 안전·품질 향상을 위한",
-    "published_at": "2026-10-02T13:52:00+09:00",
-    "cluster_id": "6f86",
-    "publisher": "대전일보",
-    "title_clean": "행복청 젊은 공무원들, 공공건축물 안전·품질 높인다",
-    "summary": "행복청 젊은 공무원들이 행복도시 공공건축물 건립사업의 안전과 품질 향상을 위한 현장 개선활동에 적극 나섰다. 공공건축물의 안전·품질 관리 강화 추진.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-02T19:29:09+09:00",
     "importance": 2
   }
 ]
