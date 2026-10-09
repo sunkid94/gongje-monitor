@@ -21576,6 +21576,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대구 주차타워서 70대 하청 노동자 끼임 사망…중대재해법 조사 - 비즈중앙",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hRHdQMDhfTTVTNkhDX1YxUmpab0pNTG8wNFFDVVNTczRMME1CXzlhYndEN3Q3MmhCeDkxMm9zRXZuTm1meGVrQ2U3czFtU0hoYndmSTNFUWJWQkl0MTZUaXluQm8xdU0tOHpMUUstN2c?oc=5",
+    "description": "[비즈중앙] 대구의 한 빌딩 주차타워에서 70대 하청업체 노동자가 리프트에 끼여 숨지는 사고가 발생해 경찰과 고용노동부가 사고 경위와 안전조치 이행 여부를 조사하",
+    "published_at": "2026-10-09T14:15:03+09:00",
+    "cluster_id": "9a58",
+    "publisher": "비즈중앙",
+    "title_clean": "대구 주차타워서 70대 하청 노동자 끼임 사망…중대재해법 조사",
+    "summary": "대구의 빌딩 주차타워에서 70대 하청 노동자가 리프트에 끼여 사망하는 사고가 발생했습니다. 경찰과 고용노동부가 중대재해법을 적용하여 사고 경위와 안전조치 이행 여부를 조사 중입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T20:22:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32309,22 +32325,6 @@
     "summary": "티피링크코리아가 10월 14~16일 경기도 고양시 킨텍스에서 개최되는 '2026 한국건설·안전박람회'에 참가한다. 건설 및 안전 관련 기업들의 제품과 서비스를 선보이는 산업 전시회 참여 소식이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-03T11:38:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "더불어민주당 충주시지역위원회, 간담회 개최 - ccreview.co.kr",
-    "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=359118",
-    "description": "이와 함께 서충주 산업단지 내 화물공영차고지 조성, 충주시 발주 공사에서 지역 인력과 장비 활용 확대, 건설노동자의 안전과 고용환경 개선 등 지역 노동자들이 현장에서 체감할 수 있는 현안에 대해 의견을 나눴다....",
-    "published_at": "2026-10-03T10:42:00+09:00",
-    "cluster_id": "0a96",
-    "publisher": "ccreview.co.kr",
-    "title_clean": "더불어민주당 충주시지역위원회, 간담회 개최",
-    "summary": "더불어민주당 충주시지역위원회가 간담회를 개최하여 서충주 산업단지 화물공영차고지 조성, 지역 인력·장비 활용 확대, 건설노동자 안전 및 고용환경 개선 등을 논의했다. 지역 건설 현장의 노동 환경 개선과 지역 경제 활성화에 초점을 맞춘 정책 논의로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-03T10:48:24+09:00",
     "importance": 2
   }
 ]
