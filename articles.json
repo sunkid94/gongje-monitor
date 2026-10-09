@@ -21627,6 +21627,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "KCC건설 파주 도로공사 하청근로자 타이어롤러 깔려 사망 - 스마트투데이",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HXzhXXzNCdU45SG45dkd4RHY3RWJ5ODZ5T2dPTUtSSDhOcjdpeFZmRTdUNjl4OFhlLTBWT0pfSUNSSzRnOEJGM2VWVlhWX3otNG8xbFhpWHpkYUVXYUdB?oc=5",
+    "description": "|스마트투데이=김종현 기자| KCC건설 시공 도로공사 현장서 70대 남성 하청노동자가 타이어롤러에 깔려 숨지는 사고가 발생했다. 9일 고용노동부에 따르면 지난 8일 오전 10시 40분경 경기 파주 도로건설 현장서 KCC건설 하청업체 소속 근로자 A씨가 타이어롤러에 끼여 숨졌다.",
+    "published_at": "2026-10-09T15:18:00+09:00",
+    "cluster_id": "3686",
+    "publisher": "스마트투데이",
+    "title_clean": "KCC건설 파주 도로공사 하청근로자 타이어롤러 깔려 사망",
+    "summary": "KCC건설 파주 도로공사 현장에서 70대 하청근로자가 타이어롤러에 깔려 사망하는 산업재해 사고 발생. 건설현장 안전관리 부실로 인한 인명피해 사례.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T15:28:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32312,22 +32328,6 @@
     "summary": "상주문화예술회관 건립공사의 안전기원제가 개최되었다. 이는 건설공사의 안전한 진행을 기원하는 행사로, 건설업계의 정상적인 프로젝트 진행을 의미한다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-03T04:48:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "티피링크, ‘한국건설·안전박람회’ 참가 ··· ‘오마다·비지’ 네트워크·영상보안 솔루션 소개 - 데이터넷",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SeXJJU0o3cFYtdVVJM3VGbnNaVzlrLV9Fd3pKVVNMQnYzekxlTFFxYkRvQ2dkU3F3RmRkREM4NVh4OU1uc0JvTHh0Vjc0U2Y5cGc0N3R2bTZzel93SGxFN2dXYzIya0JiZ1dnRg?oc=5",
-    "description": "[데이터넷] 티피링크코리아는 오는 10월 14일부터 16일까지 킨텍스 제1전시장에서 개최되는 ‘2026 한국건설·안전박람회(K-CONSAFETY EXPO)’에 참가해 기업용 네트워크 브랜드 ‘오마다(Omada)’와 영상보안 브랜드 ‘비지(VIGI)’ 솔루션을 소개한다고 밝혔다.이번 전시에서 티피링크는 건설·산업 현장과 다양한 사업장에 필요한 네트워크 인프라 및 영상보안 구축 방안을 제시할 예정이다. 특히 유선 배선이나 전원 확보가 어려운 실외 환경을 고려한 무선 브릿지와 태양광 기반 영상보안 솔루션, 산업용 스위치 등을 소개하며 현",
-    "published_at": "2026-10-02T14:52:34+09:00",
-    "cluster_id": "d8b5",
-    "publisher": "데이터넷",
-    "title_clean": "티피링크, ‘한국건설·안전박람회’ 참가 ··· ‘오마다·비지’ 네트워크·영상보안 솔루션 소개",
-    "summary": "티피링크코리아가 10월 14-16일 킨텍스에서 열리는 '2026 한국건설·안전박람회'에 참가하여 기업용 네트워크 브랜드 '오마다'와 영상보안 브랜드 '비지' 솔루션을 선보인다. 건설·산업 현장의 네트워크 인프라 및 영상보안 구축 방안, 무선 브릿지, 태양광 기반 솔루션 등을 제시할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-03T03:48:48+09:00",
     "importance": 2
   }
 ]
