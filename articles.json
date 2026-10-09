@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[캠코 공매] 차주 서울 여의도 '공동주택' 등 압류재산 매각 - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070042",
+    "description": "매각 예정가가 감정가의 90%인 물건은 △경기 남양주시 진접읍 금곡리 '전' △경남 창원시 의창구 동읍 용잠리 '도시형생활주택' △전문건설공제조합 '출자증권' 등 4건이 있다. 감정가 80% 물건은 △부산 기장군 기장읍...",
+    "published_at": "2026-10-09T16:06:00+09:00",
+    "cluster_id": "a25e",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "[캠코 공매] 차주 서울 여의도 '공동주택' 등 압류재산 매각",
+    "summary": "캠코가 차주 서울 여의도 공동주택을 포함한 압류재산을 매각한다. 전문건설공제조합 출자증권 등 4건이 감정가의 90%에, 다수의 물건이 80% 수준에 책정되어 공매 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T16:08:18+09:00",
+    "event_label": "전문건설공제조합 출자증권 캠코 공매 진행",
+    "importance": 7
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32311,22 +32328,6 @@
     "summary": "국회 국토교통위원회 국정감사에서 건설현장 안전, 서울 집값 상승, LH 조직개편이 주요 쟁점으로 예상된다. 건설업계는 안전 규제 강화와 관련 이슈 지적에 직면할 전망이다.",
     "sentiment": "negative",
     "collected_at": "2026-10-03T08:43:32+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부 국감 임박…부동산 불안에 여야 화력 집중 전망 - MTN 머니투데이방송",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ma2FfMUoyTUFnUTdMU295ZDVKYW9laWl0bGNMNWcwQS1FNzZMcUc3REdiTlBwZ011V0tOUU1lN1h0OFZRUjVSX1NpMTlZZ2Z4OTJEdDRjdW16dkpEaDVfdjZTaXg?oc=5",
-    "description": "[앵커멘트]국정감사 시즌이 돌아왔습니다. 올해에도 다양한 사안이 국감 테이블에 올라 각종 검증을 받을 것으로 보이는데요. 특히 ‘부동산시장 안정화’라는 국정과제를 수행하고 있는 국토교통부의 국감에서는 시장 불안 등을 두고 여야가 첨예한 대립을 보일 전망입니다. 최남영…",
-    "published_at": "2026-10-02T17:33:25+09:00",
-    "cluster_id": "a597",
-    "publisher": "MTN 머니투데이방송",
-    "title_clean": "국토부 국감 임박…부동산 불안에 여야 화력 집중 전망",
-    "summary": "국정감사 시즌이 시작되며 국토교통부가 부동산시장 안정화 관련 정책에 대한 검증을 받을 예정이다. 시장 불안을 둘러싸고 여야가 첨예한 대립을 벌일 것으로 전망되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-03T06:38:34+09:00",
     "importance": 4
   }
 ]
