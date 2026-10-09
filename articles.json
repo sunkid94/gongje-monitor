@@ -21610,6 +21610,38 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[기자수첩] '작업자 부주의' 탓하기 전에…건설현장부터 살펴야 - ezyeconomy.com",
+    "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=240635",
+    "description": "건설현장 안전사고를 바라볼 때 흔히 등장하는 말이 있다. '작업자 부주의'다. 하지만 사고 원인을 작업자의 주의 부족으로만 설명하기 전에 현장에 안전하게 일할 수 있는 환경이 갖춰져 있었는지부터 살펴볼 필요가...",
+    "published_at": "2026-10-09T16:00:00+09:00",
+    "cluster_id": "5088",
+    "publisher": "ezyeconomy.com",
+    "title_clean": "[기자수첩] '작업자 부주의' 탓하기 전에…건설현장부터 살펴야",
+    "summary": "건설현장 안전사고의 원인을 작업자 부주의로만 귀책하기 전에 현장의 안전 환경 조성 여부를 먼저 점검해야 한다는 주장. 업계의 구조적 안전 문제 개선 필요성을 제기하는 비판적 관점의 기사.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T16:03:25+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "조종사 없이 날고 AI가 위험 찾는다…동부건설, 무인 드론 안전관리 2029년 전 현장 확대 - https://www.kmjournal.net/",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94LVVJdE1UZ1JNS1EtY0xlT2IzbzQ5X25GWlRjQS1yd2RoUXBRTWRmeVI0ZGFXbndzX2RPUkpfUXRpNXV2YVIwWmx2U2U3ZjFVNHBaNmd1bkU4d0hod25LSDJjYnpIRnExUkZR?oc=5",
+    "description": "동부건설이 무인 자동화 드론과 AI를 건설현장 안전관리에 도입한다. 동부건설은 공간 AI 전문기업 메이사와 스마트 안전관리 기능을 공동 개발해 오뚜기물류서비스 백",
+    "published_at": "2026-10-09T07:09:48+09:00",
+    "cluster_id": "0953",
+    "publisher": "https://www.kmjournal.net/",
+    "title_clean": "조종사 없이 날고 AI가 위험 찾는다…동부건설, 무인 드론 안전관리 2029년 전 현장 확대",
+    "summary": "동부건설이 AI 기술을 활용한 무인 드론 안전관리 시스템을 개발하여 2029년까지 전 현장에 확대할 계획이다. 건설현장의 안전관리 자동화를 통해 산업안전성 향상과 운영효율 개선을 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T16:03:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32296,37 +32328,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-03T06:38:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "오일머니가 부른 '육영수 여사 피격'…'암살자(들)'이 놓친 1970년대 - weekly.chosun.com",
-    "link": "http://weekly.chosun.com/news/articleView.html?idxno=55792",
-    "description": "지금이야 사우디 젊은이가 서울 한복판에서 맥주 이야기를 아무렇지 않게 꺼내지만, 반세기 전 건설노동자로 중동을 찾은 한국인에겐 그럴 여지도 없었다. 소설가 박완서는 단편 '여인들'(1977)에서 남편이 매달 '천 딸라...",
-    "published_at": "2026-10-03T05:00:00+09:00",
-    "cluster_id": "c0c6",
-    "publisher": "weekly.chosun.com",
-    "title_clean": "오일머니가 부른 '육영수 여사 피격'…'암살자(들)'이 놓친 1970년대",
-    "summary": "1970년대 중동 건설 붐으로 파견된 한국 건설노동자들의 삶과 그 시대 배경을 다룬 역사 기사. 당시 오일머니로 인한 중동 건설 수주 증가가 한국 경제에 미친 영향을 소설 사례를 통해 조명.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-03T05:03:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "주택 신속공급 게임체인저 '모듈러 주택'…공사비·낡은 규제가 발목 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6586716?utm_source=naver&utm_medium=article&utm_campaign=20261003050033",
-    "description": "글로벌 모듈러 건설 시장 역시 2026년부터 2035년까지 연평균 6.6% 성장이 점쳐지는 등 국내외를 막론하고 미래 먹거리로 주목받고 있다. 정부 역시 발 빠르게 대응하고 있다. 지난해 9월 '주택공급 확대방안'을 통해 신규...",
-    "published_at": "2026-10-03T05:01:00+09:00",
-    "cluster_id": "6b1c",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "주택 신속공급 게임체인저 '모듈러 주택'…공사비·낡은 규제가 발목",
-    "summary": "모듈러 주택이 주택 공급의 게임체인저로 주목받으며 글로벌 시장도 연평균 6.6% 성장이 예상된다. 다만 높은 공사비와 낡은 규제가 산업 확산의 발목이 되고 있는 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-03T05:03:48+09:00",
-    "importance": 2
   }
 ]
