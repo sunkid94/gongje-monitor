@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[단독] 대우건설, 이라크 침매터널 공사 현장서 사망사고…바다서 시신... - rightknow.co.kr",
+    "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34942",
+    "description": "/대우건설 대우건설 이라크 침매터널 공사 현장에서 근로자 사망사고가 발생했던 것이 뒤늦게 알려졌다. 9일 대우건설 등에 따르면 이번 사망사고가 발생한 지점은 이라크 바스라주에 위치한 항만 건설 프로젝트로...",
+    "published_at": "2026-10-09T14:52:00+09:00",
+    "cluster_id": "c3ef",
+    "publisher": "rightknow.co.kr",
+    "title_clean": "[단독] 대우건설, 이라크 침매터널 공사 현장서 사망사고…바다서 시신...",
+    "summary": "대우건설이 이라크 바스라주 항만 건설 프로젝트 침매터널 공사 현장에서 근로자 사망사고를 발생시켰다. 사망자의 시신이 바다에서 발견된 것으로 알려졌으며, 사고 발생 후 뒤늦게 언론에 보도되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-09T14:59:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21609,22 +21625,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-01T20:36:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중 협력업체 대표들 “구조적 손실 해결” 시위 - news.kbs.co.kr",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675855&ref=A",
-    "description": "삼성중공업과 계약이 해지된 협력업체 대표 5명이 오늘(1일)부터 삼성전자 본관 앞에서 시위를 시작했습니다. 이들은 삼성중공업이 불공정 거래를 인정하고, 낮은 기성금으로 생긴 부채와 손실금 등의 해결을...",
-    "published_at": "2026-10-01T19:25:00+09:00",
-    "cluster_id": "b741",
-    "publisher": "news.kbs.co.kr",
-    "title_clean": "삼성중 협력업체 대표들 “구조적 손실 해결” 시위",
-    "summary": "삼성중공업의 협력업체 5명이 불공정 거래 관행과 구조적 손실 해결을 요구하며 시위를 시작했습니다. 낮은 기성금으로 인한 부채 문제 등 협력업체의 경영 악화가 드러났습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-01T19:51:14+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 PF",
