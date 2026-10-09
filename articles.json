@@ -21695,6 +21695,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "서울과기대 주택도시대학원, 주택관리 석사과정 3기 모집 - aptn.co.kr",
+    "link": "http://www.aptn.co.kr/news/articleView.html?idxno=112995",
+    "description": "주요 교육 내용은 공동주택관리법, 건설산업기본법 등 관련 법률을 비롯해 건축, 설비, 소방, 산업안전, 주택도시법규 등 공동주택 관리에 필요한 실무 분야를 포함한다. 한 학기 등록금은 281만원이며 성적·봉사·공로...",
+    "published_at": "2026-10-09T10:24:00+09:00",
+    "cluster_id": "b482",
+    "publisher": "aptn.co.kr",
+    "title_clean": "서울과기대 주택도시대학원, 주택관리 석사과정 3기 모집",
+    "summary": "서울과기대 주택도시대학원에서 공동주택 관리 전문인력 양성을 위해 주택관리 석사과정 3기를 모집하고 있다. 공동주택관리법, 건축, 설비, 소방 등 관련 법규와 실무 교육을 제공하며 한 학기 등록금은 281만원이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-09T10:30:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32317,21 +32333,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-02T18:58:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[2026국감] 이재용·최태원 빠진 국감…재계 총수보다 '현안 책임자' 불... - straightnews.co.kr",
-    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=312448",
-    "description": "다만 현재까지 확정된 명단만 놓고 보면 올해 국감은 특정 대기업 총수를 한꺼번에 부르는 방식보다는 홈플러스 회생, 개인정보 유출, 플랫폼 거래관행, 방산 민영화, 건설현장 안전, 정유·식품업계 거래 문제 등 개별...",
-    "published_at": "2026-10-02T18:28:00+09:00",
-    "cluster_id": "fb0c",
-    "publisher": "straightnews.co.kr",
-    "title_clean": "[2026국감] 이재용·최태원 빠진 국감…재계 총수보다 '현안 책임자' 불...",
-    "summary": "2026 국정감사에서 재계 총수 대신 홈플러스 회생, 개인정보 유출, 플랫폼 거래, 방산 민영화, 건설현장 안전 등 개별 현안의 책임자들을 소환할 예정이다. 건설현장 안전이 주요 감시 대상으로 지목되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-02T18:44:10+09:00",
-    "importance": 4
   }
 ]
