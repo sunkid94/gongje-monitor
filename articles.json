@@ -5610,21 +5610,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대구상의 지발위, 대구시의회에 지역 건설업계 지원 요청 - idaegu.co.kr",
-    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=559112",
-    "description": "이 자리엔 대구상의 지역발전위원장인 대한건설협회대구시회 이승현 회장과 ㈜서한 정우필 대표이사, 유진종합건설㈜ 도형윤 대표이사, 풍국주정공업㈜ 성춘태 대표이사, 대한기계설비건설협회대구광역시회 이민균 회장...",
-    "published_at": "2026-09-09T16:04:00+09:00",
-    "cluster_id": "84e0",
-    "publisher": "idaegu.co.kr",
-    "title_clean": "대구상의 지발위, 대구시의회에 지역 건설업계 지원 요청",
-    "summary": "대구상의 지역발전위원회가 대구시의회에 지역 건설업계 지원을 요청했다. 대한건설협회대구시회, 대한기계설비건설협회대구광역시회 등 건설업계 주요 인사들이 참석하여 업계 현안을 전달했다.",
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 삼성물산과 용산 숙대입구역세권 조경 협업 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494042",
+    "description": "IPARK현대산업개발이 용산 숙대입구역세권 재개발 사업의 조경 차별화를 위해 삼성물산 리조트 부문과 업무협약(MOU)을 체결했다. IPARK현대산업개발 제공. 도심 주거사업에서 조경과 휴식 공간이 상품 차별화 요소로...",
+    "published_at": "2026-10-09T16:30:00+09:00",
+    "cluster_id": "39e2",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "IPARK현대산업개발, 삼성물산과 용산 숙대입구역세권 조경 협업",
+    "summary": "IPARK현대산업개발이 용산 숙대입구역세권 재개발 사업에서 삼성물산 리조트 부문과 조경 협업 MOU를 체결했다. 도심 주거사업에서 조경과 휴식 공간을 차별화 요소로 활용하여 상품 경쟁력을 강화하는 전략이다.",
     "sentiment": "positive",
-    "collected_at": "2026-09-09T16:13:06+09:00",
-    "event_label": "대한기계설비건설협회 지역 건설업계 지원 요청 활동",
-    "importance": 5
+    "collected_at": "2026-10-09T16:38:13+09:00",
+    "importance": 3
   },
   {
     "keyword": "대우건설",
@@ -21609,22 +21608,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-01T22:31:33+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산, 베트남서 8400억 가스발전소 수주 - gnmaeil.com",
-    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=595863",
-    "description": "/ 두산에너빌리티 두산에너빌리티가 베트남에서 8400억원 규모의 가스복합발전소 건설공사 수주를 이뤄냈다. 두산에너빌리티는 베트남 국영에너지그룹(PVN)과 8400억원 규모의 '오몬(O Mon)3 가스복합발전소' 건설공사...",
-    "published_at": "2026-10-01T21:50:00+09:00",
-    "cluster_id": "1f6b",
-    "publisher": "gnmaeil.com",
-    "title_clean": "두산, 베트남서 8400억 가스발전소 수주",
-    "summary": "두산에너빌리티가 베트남 국영에너지그룹(PVN)과 8400억원 규모의 오몬3 가스복합발전소 건설공사를 수주했다. 해외 대형 인프라 프로젝트 수주로 기계설비건설 분야의 수주 증대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T22:00:51+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
