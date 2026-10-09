@@ -5610,6 +5610,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'분당 목련마을 빌라' 잡아라…GS·대우·현산 3파전 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026100927771",
+    "description": "특별정비구역으로 지정된 목련마을은 GS건설, 대우건설, IPARK현대산업개발이 수주를 두고 경쟁하고 있다. 나머지 세 곳도 내년 상반기 시공사를 선정할 예정이다. 9일 업계에 따르면 목련마을 주민대표회의는 이달...",
+    "published_at": "2026-10-09T16:41:00+09:00",
+    "cluster_id": "8676",
+    "publisher": "hankyung.com",
+    "title_clean": "'분당 목련마을 빌라' 잡아라…GS·대우·현산 3파전",
+    "summary": "분당 목련마을 재정비사업에서 GS건설, 대우건설, IPARK현대산업개발 3개사가 수주 경쟁 중이다. 목련마을 외 나머지 3개 구역도 내년 상반기 시공사를 선정할 예정으로 건설사들의 수주 기회가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-09T16:43:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21591,22 +21607,6 @@
     "summary": "롯데건설이 공사대금채권 기반 자산유동화증권(ABS)으로 총 8000억원의 유동성을 확보했다. AAA 최고 신용등급으로 조달 비용을 절감하면서 PF 시장 불확실성 속에서도 재무구조 개선에 성공하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-01T22:36:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[기획] 운임 뛰는 가스선…K조선 수주 '탄력' - kfenews.co.kr",
-    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=665691",
-    "description": "삼성중공업도 올해 LNG 운반선 18척을 비롯해 에탄 운반선 2척, 기타 가스 운반선 4척 등을 확보했다. 한화오션은 VLCC와 LNG 운반선뿐 아니라 초대형 암모니아 운반선(VLAC)와 VLGC 수주도 확대하고 있다. 지난달에는 VLGC...",
-    "published_at": "2026-10-01T22:12:00+09:00",
-    "cluster_id": "f499",
-    "publisher": "kfenews.co.kr",
-    "title_clean": "[기획] 운임 뛰는 가스선…K조선 수주 '탄력'",
-    "summary": "삼성중공업과 한화오션이 LNG 운반선, 암모니아 운반선 등 친환경 가스선 수주를 확대하고 있다. 운임 상승으로 가스선 시장이 활황을 보이면서 한국 조선업계의 수주 확보가 증가하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-01T22:31:33+09:00",
     "importance": 2
   },
   {
