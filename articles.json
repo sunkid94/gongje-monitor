@@ -5355,21 +5355,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회-LH, 공공주택 품질·안전 혁신 위해 '맞손' - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=51769",
-    "description": "상생협의체 제1차 간담회 개최…적정 공사비 반영·물가변동 대응 강화 논의 주계약자공동도급 방식 운영 따른 자재 품질 강화·준공 후 관리 역량 강화 대한기계설비건설협회(회장 허용주)와 한국토지주택공사(LH)가...",
-    "published_at": "2026-09-10T18:28:00+09:00",
-    "cluster_id": "2196",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비협회-LH, 공공주택 품질·안전 혁신 위해 '맞손'",
-    "summary": "대한기계설비건설협회와 LH가 상생협의체를 구성하여 공공주택의 품질·안전 혁신을 추진한다. 적정 공사비 반영, 물가변동 대응, 자재 품질 강화 등을 협력하기로 합의했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-10T18:45:03+09:00",
-    "event_label": "대한기계설비건설협회 LH와 상생협의체 구성, 공공주택 품질·안전 혁신 협력",
-    "importance": 5
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "네팔 대홍수 실종자 5000명 곧 사망처리⋯유족 지원·상속 가능 - inews24.com",
+    "link": "http://www.inews24.com/view/2013549",
+    "description": "한편 바그마티주 라수와 지역의 어퍼트리슐리(UT)-1 수력발전소 건설 현장에서 실종된 한국남동발전 소속 3명과 두산에너빌리티 소속 6명 등 한국인 직원 9명을 찾기 위한 기업별 수색 작업도 이번 주말을 기점으로...",
+    "published_at": "2026-10-10T19:04:00+09:00",
+    "cluster_id": "b2bc",
+    "publisher": "inews24.com",
+    "title_clean": "네팔 대홍수 실종자 5000명 곧 사망처리⋯유족 지원·상속 가능",
+    "summary": "네팔 대홍수로 인한 수력발전소 건설 현장에서 한국인 직원 9명(한국남동발전 3명, 두산에너빌리티 6명)이 실종되었으며, 기업별 수색 작업이 진행 중이다. 실종자들은 곧 사망처리될 예정이고, 유족 지원 및 상속 처리가 이루어질 전망이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-10T19:07:42+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -21354,22 +21353,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-02T11:16:17+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[속보] 삼성중공업, 6722억원 규모 LNG운반선 2척 수주…지난해 매출액 ... - cbci.co.kr",
-    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611881",
-    "description": "삼성중공업 로고[단박에 - CBC뉴스 | CBCNEWS] 삼성중공업이 아시아 지역 선주와 6722억원 규모의 LNG운반선 2척 공급계약을 체결했다고 밝혔다. 공시에 따르면 계약금액은 6722억원으로, 2025년 연결재무제표 기준...",
-    "published_at": "2026-10-02T11:04:00+09:00",
-    "cluster_id": "a00f",
-    "publisher": "cbci.co.kr",
-    "title_clean": "[속보] 삼성중공업, 6722억원 규모 LNG운반선 2척 수주…지난해 매출액 ...",
-    "summary": "삼성중공업이 아시아 지역 선주와 6722억원 규모의 LNG운반선 2척 공급계약을 체결했다. 이는 조선업계의 수주 확대로 평가되는 긍정적 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T11:16:17+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
