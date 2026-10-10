@@ -21525,6 +21525,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안전점검 지적에도 건설기계에 작업자 치여 사망…강관업체 대표 집행유예 - 비즈중앙",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PaVdBUnhnNC14Q3h4TjJEN3RPalZ0MFlORGhJN2xBNUlTRFhjRUJlTVJHTXJUNWQ1cEx0Zm5GdVc4ckFvZ0YyQURXNDdFZXNfaDRhYWRfVTduZDRlZk9NRkl0NF82M2lXSkNDYzBFazY?oc=5",
+    "description": "[비즈중앙] 부산의 한 강관 제조공장에서 무면허 운전자가 몰던 건설기계에 30대 용접 작업자가 치여 숨진 사고와 관련해 법원이 운전자와 제조업체 대표 등에게 유죄",
+    "published_at": "2026-10-10T13:58:43+09:00",
+    "cluster_id": "0c04",
+    "publisher": "비즈중앙",
+    "title_clean": "안전점검 지적에도 건설기계에 작업자 치여 사망…강관업체 대표 집행유예",
+    "summary": "부산 강관 제조공장에서 무면허 운전자가 조종하는 건설기계에 작업자가 치여 사망한 사건으로, 법원이 운전자와 제조업체 대표에게 유죄를 선고했다. 안전점검 지적에도 불구하고 사고가 발생해 건설기계 운영과 산업안전 관리의 허점이 드러났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-10T14:07:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32306,22 +32322,6 @@
     "summary": "서울시가 서소문고가 해체공사 안전사고를 계기로 해체설계 사전 검증, 전문 감리인력 상주, 드론·로봇 무인점검 등을 포함한 안전관리 체계를 전면 강화한다. 도림고가와 삼각산고가 등 노후 교량·고가 해체공사에 새로운 안전대책을 적용할 예정이다.",
     "sentiment": "negative",
     "collected_at": "2026-10-04T09:27:46+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설업 산재신청 3년 새 29%↑…질병 산재는 4.4배 급증 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10892774?ref=naver",
-    "description": "건설노동자 유족의 질병 산재 승인도 증가했다. 2022년 58명에서 지난해 103명으로 3년 새 77.6% 늘었다. 올해도 8월까지 73명의 유족이 질병 산재 승인을 받았다. 건설업뿐 아니라 육상·수상운수업에서도 질병...",
-    "published_at": "2026-10-04T08:58:00+09:00",
-    "cluster_id": "f282",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "건설업 산재신청 3년 새 29%↑…질병 산재는 4.4배 급증",
-    "summary": "건설업 산재신청이 3년간 29% 증가했으며, 특히 질병 산재는 4.4배 급증했다. 2022년 58명에서 지난해 103명으로 증가했고, 올해도 8월까지 73명의 유족이 질병 산재 승인을 받았다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-04T09:07:44+09:00",
     "importance": 4
   }
 ]
