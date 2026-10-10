@@ -5355,6 +5355,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건설사 3분기 실적 기상도 보니 현대건설·대우건설 '맑음' GS건설 '흐림' - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52bTZIVk4wcG1tZlljMEtXeHhVdnUzSUQ0NWNFOVE3N1V4aWVsaUZ6RTlDSkt4UEdyWHEyc05vRERwZ3dkSDdOa3hXRmloRkhmeUYwQUpmZVFiSWVjN1R2a3FQTkFDdw?oc=5",
+    "description": "[더구루=홍성환 기자] 올해 3분기 대형 상장 건설사의 수익성이 회복 흐름을 보일 전망이다. 고원가 현장이 준공되고 수익성이 높은 사업장의 매출 비중이 커지며 수익성 개선을 뒷받침한 것으로 풀이된다. 11일 금융정보업체 에프앤가이드에 따르면 △현대건설 △대우건설 △DL이앤씨 △IPARK현대산업개발은 지난해 같은 기간보다 영업이익이 늘어날 것으로 예상된다.",
+    "published_at": "2026-10-11T00:00:41+09:00",
+    "cluster_id": "b92d",
+    "publisher": "더구루",
+    "title_clean": "건설사 3분기 실적 기상도 보니 현대건설·대우건설 '맑음' GS건설 '흐림'",
+    "summary": "올해 3분기 현대건설, 대우건설 등 대형 건설사의 영업이익이 전년 동기 대비 증가할 것으로 예상된다. 고원가 현장 준공과 수익성 높은 사업장의 매출 비중 확대가 수익성 개선을 견인하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-11T01:32:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21336,22 +21352,6 @@
     "summary": "아크메르 동탄 프로젝트는 포스코이앤씨가 시공을 맡아 부산 엘시티, 서울 브라이튼 N40 등 고급 주거시설 건설 경험을 바탕으로 진행 중이다. 국내 최상위권 1군 건설사의 참여로 시공 품질 신뢰성을 확보하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T11:41:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, LNG운반선 2척 6722억원 수주…올해 20척 달성 - news1.kr",
-    "link": "https://www.news1.kr/industry/general-industry/6308779",
-    "description": "삼성중공업(010140)이 아시아 선주로부터 액화천연가스(LNG) 운반선 2척을 추가 수주하며 올해 LNG운반선 20척 수주를 달성했다. 연간 수주액도 124억 달러로 목표치의 89%를 채웠다. 삼성중공업은 아시아 지역...",
-    "published_at": "2026-10-02T11:15:00+09:00",
-    "cluster_id": "ba9c",
-    "publisher": "news1.kr",
-    "title_clean": "삼성중공업, LNG운반선 2척 6722억원 수주…올해 20척 달성",
-    "summary": "삼성중공업이 아시아 선주로부터 LNG운반선 2척을 추가 수주하여 올해 목표인 20척 달성을 완료했다. 연간 수주액도 124억 달러로 목표치의 89%를 기록하며 호실적을 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T11:26:06+09:00",
     "importance": 2
   },
   {
