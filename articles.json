@@ -5355,6 +5355,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"같은 경기도인데 청약은 극과 극\"···성남·과천·동탄 '불패', 외곽은... - smartbizn.com",
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=155836",
+    "description": "동탄에서는 포스코이앤씨가 시공하는 '아크메르 동탄'이 이달 분양을 앞두고 있다. 경기도 화성시 동탄구 반송동 일원에 들어서는 이 단지는 지하 7층~지상 최고 49층, 7개 동, 총 1808가구 규모다. 전용면적 84~188㎡의...",
+    "published_at": "2026-10-11T00:06:00+09:00",
+    "cluster_id": "814b",
+    "publisher": "smartbizn.com",
+    "title_clean": "\"같은 경기도인데 청약은 극과 극\"···성남·과천·동탄 '불패', 외곽은...",
+    "summary": "경기도 지역 내 아파트 청약에서 성남, 과천, 동탄 등 특정 지역은 높은 수요를 보이는 반면, 외곽 지역은 상대적으로 저조한 양극화 현상이 심화되고 있다. 포스코이앤씨의 아크메르 동탄 등 대규모 단지들이 분양을 앞두면서 지역별 부동산 시장의 격차가 드러나고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-11T00:07:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21334,22 +21350,6 @@
     "publisher": "news1.kr",
     "title_clean": "삼성중공업, LNG운반선 2척 6722억원 수주…올해 20척 달성",
     "summary": "삼성중공업이 아시아 선주로부터 LNG운반선 2척을 추가 수주하여 올해 목표인 20척 달성을 완료했다. 연간 수주액도 124억 달러로 목표치의 89%를 기록하며 호실적을 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T11:26:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성重, LNG운반선 2척 6722억원에 수주…올해 20척 달성 - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1411708",
-    "description": "삼성중공업이 건조한 LNG운반선. 사진=삼성중공업 제공 삼성중공업이 LNG운반선을 수주했다. 2일 삼성중공업에 따르면 회사는 최근 아시아 지역 선주로부터 LNG운반선 2척을 6722억원에 수주했다. 이 선박은...",
-    "published_at": "2026-10-02T11:12:00+09:00",
-    "cluster_id": "1c19",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "삼성重, LNG운반선 2척 6722억원에 수주…올해 20척 달성",
-    "summary": "삼성중공업이 아시아 지역 선주로부터 LNG운반선 2척을 6722억원에 수주했다. 이번 수주로 올해 목표인 20척 달성에 한 발 더 다가갔다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T11:26:06+09:00",
     "importance": 2
