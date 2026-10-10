@@ -5355,6 +5355,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "작업자 갑자기 쓰러지자 '자동 경고'…AI로 '안전' 지킨다 - news.sbs.co.kr",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791280&plink=ORI&cooper=NAVER",
+    "description": "즉시 바깥으로 이동해 주시기를 바랍니다.] [민연기/대우건설 현장 소장 : 사람이 육안으로 감시를 하는 것은 매우 한계가 있기 때문에, CCTV가 사각지대나 위험 지역에 실시간으로 언제나 모니터링을 하면서….] 도로를...",
+    "published_at": "2026-10-10T20:39:00+09:00",
+    "cluster_id": "6f4a",
+    "publisher": "news.sbs.co.kr",
+    "title_clean": "작업자 갑자기 쓰러지자 '자동 경고'…AI로 '안전' 지킨다",
+    "summary": "건설 현장에서 작업자의 갑작스러운 쓰러짐을 AI 기반 CCTV가 자동으로 감지하여 경고하는 시스템이 도입되고 있다. 인력 감시의 한계를 AI 모니터링으로 보완하여 산업재해 예방 및 작업자 안전을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-10T20:47:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21334,22 +21350,6 @@
     "publisher": "pinpointnews.co.kr",
     "title_clean": "AI 데이터센터 전력난 해법 뜨자…SOFC 테마주 일제히 '발동'",
     "summary": "AI 데이터센터의 전력난 해결을 위한 SOFC(고체산화물연료전지) 솔루션이 주목받으면서 관련 테마주들이 상승세를 보이고 있다. 두산퓨얼셀 등 연료전지 기업들이 미국 데이터센터 시장에서 수천억 원 규모의 공급 계약을 체결하며 새로운 성장 동력을 확보하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T11:26:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "DL이앤씨, 성수2지구 재개발에 ‘아크로 성수’ 제안 - kukinews.com",
-    "link": "https://www.kukinews.com/article/view/kuk202610020055",
-    "description": "한편 성수2지구 시공사 선정 절차가 마무리되면 성수전략정비구역 4개 지구의 시공사 선정도 모두 마무리된다. 성수1지구는 GS건설, 성수3지구는 삼성물산 건설부문, 성수4지구는 롯데건설이 각각 시공사로 선정됐다.",
-    "published_at": "2026-10-02T11:20:00+09:00",
-    "cluster_id": "39e6",
-    "publisher": "kukinews.com",
-    "title_clean": "DL이앤씨, 성수2지구 재개발에 ‘아크로 성수’ 제안",
-    "summary": "DL이앤씨가 성수2지구 재개발 프로젝트에 '아크로 성수'를 제안했으며, 시공사 선정이 진행 중이다. 성수전략정비구역 4개 지구의 시공사 선정이 마무리되면서 GS건설, 삼성물산, 롯데건설 등 대형 건설사들이 각 지구의 시공사로 확정되었다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T11:26:06+09:00",
     "importance": 2
