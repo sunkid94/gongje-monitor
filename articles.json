@@ -21525,6 +21525,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "신한울원전건설노동자가 하이닉스건설노동자보다 급료가 적다 - 전국구직노조신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBQ0pHcFAwV1U4ZVJDTDM2aTB1NFdaZ25pX296UTBIQThhVHFhRzVqTHB2NHdMZVV1XzNKTFNyNVlaVGRGN2c1aVNhdnA2TzJkT0xFeHlFSFBYbm1EdEUzZkhGMGE4WU0?oc=5",
+    "description": "문재인 정부시절 원전건설중지로 건설현장의 노동자들이 비지죽을 먹으면서 죽지못해 살아왔다. 이재명 정부가 들어서면서 원전건설 재가동으로 인해 막막하던 건설현장 노동",
+    "published_at": "2026-10-10T13:00:36+09:00",
+    "cluster_id": "6762",
+    "publisher": "전국구직노조신문",
+    "title_clean": "신한울원전건설노동자가 하이닉스건설노동자보다 급료가 적다",
+    "summary": "원전건설 재개로 건설현장이 활성화되고 있으나, 신한울원전 노동자의 급여가 하이닉스 건설 노동자보다 낮은 임금 격차 문제가 발생하고 있다. 원전건설 재가동은 침체된 건설업계에 긍정적 신호이지만 노동 조건 개선이 필요한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-10T13:32:52+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한국건설기술연구원 스마트건설지원센터 보육기업 CEO Vision AI와 실시간 데이터 기반의 시뮬레이션을 통한 지능형 안전관리 솔루션을 개발하는 기업 세르딕 - 한경매거진&북",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CYlhRYnJTUExNQ1NkTHVQTDlHbXptdktibjBGWmFhNEt3VUtmT3BCeXBOZHo2d0JPT0NqTlV5dWxiamxIMWlzVHRkbnRiTzBrYXI0dXkzWFBHbUp5Mld4ZGo5cFZuTkxGOGJr?oc=5",
+    "description": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] Vision AI와 실시간 데이터 기반의 시뮬레이션을 통한 지능형 안전관리 솔루션을 개발하는 기업 ‘세르딕’ , 이진호 기자, 스타트업 ceo",
+    "published_at": "2026-10-09T22:30:00+09:00",
+    "cluster_id": "1b07",
+    "publisher": "한경매거진&북",
+    "title_clean": "한국건설기술연구원 스마트건설지원센터 보육기업 CEO Vision AI와 실시간 데이터 기반의 시뮬레이션을 통한 지능형 안전관리 솔루션을 개발하는 기업 세르딕",
+    "summary": "한국건설기술연구원 스마트건설지원센터에서 보육 중인 기업 세르딕이 Vision AI와 실시간 데이터 기반 시뮬레이션 기술을 활용한 지능형 안전관리 솔루션을 개발하고 있다. 이는 건설업계의 안전 관리 고도화와 디지털 혁신을 지원하는 긍정적인 기술 개발 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-10T13:32:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
