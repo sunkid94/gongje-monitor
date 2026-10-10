@@ -5355,6 +5355,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "아이파크현대산업개발, 삼성물산과 용산 숙대입구역세권 재개발 조경 특... - segye.com",
+    "link": "https://www.segye.com/newsView/20261009505626?OutUrl=naver",
+    "description": "IPARK현대산업개발이 삼성물산 리조트부문과 손잡고 서울 용산 숙대입구역세권 재개발사업의 조경 특화에 나선다. IPARK현대산업개발이 용산 숙대입구역세권 재개발 사업의 조경 차별화를 위해 삼성물산 리조트...",
+    "published_at": "2026-10-10T20:32:00+09:00",
+    "cluster_id": "de9c",
+    "publisher": "segye.com",
+    "title_clean": "아이파크현대산업개발, 삼성물산과 용산 숙대입구역세권 재개발 조경 특...",
+    "summary": "IPARK현대산업개발이 삼성물산 리조트부문과 협력하여 용산 숙대입구역세권 재개발사업의 조경을 특화시킨다. 대형 재개발사업에서 전문 협력사와의 컨소시엄을 통해 프로젝트의 차별화된 경쟁력을 확보하는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-10T20:37:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21337,22 +21353,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-02T11:26:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대미투자 1호인데 K-가스터빈 못 넣나…글로벌 품귀에 '2029년 납기' 변수 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026100209182579761",
-    "description": "국내에서 대형 발전용 가스터빈을 자체 개발·제작하는 두산에너빌리티도 생산 일정이 빠듯하다. 두산에너빌리티는 지난 3월 미국 데이터센터에 380MW급 가스터빈 7기를 공급하는 계약을 체결했다. 기존 계약까지 합하면...",
-    "published_at": "2026-10-02T11:06:00+09:00",
-    "cluster_id": "4e61",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "대미투자 1호인데 K-가스터빈 못 넣나…글로벌 품귀에 '2029년 납기' 변수",
-    "summary": "두산에너빌리티가 미국 데이터센터에 380MW급 가스터빈 7기를 공급하는 대미투자 1호 계약을 체결했으나, 글로벌 품귀로 인해 2029년 납기 등 생산 일정이 지연되는 상황이다. 대형 발전용 가스터빈의 공급 차질이 프로젝트 일정에 변수로 작용할 수 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-02T11:16:17+09:00",
-    "importance": 4
   },
   {
     "keyword": "스마트건설",
