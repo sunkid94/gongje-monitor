@@ -21355,6 +21355,38 @@
     "importance": 3
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "킨텍스, 14~16일 '한국건설·안전박람회'·'도시안전기술 박람회' 동시 ... - cstimes.com",
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=723458",
+    "description": "행사 기간 30여 건에 달하는 전문 콘퍼런스와 부대행사가 열려 해체산업선진화 컨퍼런스, 스마트건설세미나, 스마트안전테크데이, 첨단 AX 도시안전포럼, 건설안전리더스포럼, 한국건설안전학회 정기학술대회가...",
+    "published_at": "2026-10-10T19:36:00+09:00",
+    "cluster_id": "2b65",
+    "publisher": "cstimes.com",
+    "title_clean": "킨텍스, 14~16일 '한국건설·안전박람회'·'도시안전기술 박람회' 동시 ...",
+    "summary": "킨텍스에서 14~16일 한국건설·안전박람회와 도시안전기술박람회를 동시 개최한다. 해체산업선진화, 스마트건설, 스마트안전테크 등 30여 건의 전문 콘퍼런스와 부대행사를 통해 건설안전 기술 및 산업 발전을 도모한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-10T19:38:00+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "DL이앤씨 부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 부상 - 비즈중앙",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NTGRTeTgxbzNiZ0tIN2xGVUt5WlRlZkc0MGFsWVhld3lEOUoxR0QxWDJSWTVEQ2ZRSjBZcEpXWmsyT3FsYktuTkdkNURvM0dsbWtHUEVPamVwSzcyY2xXZzlYbHlLV1l3akJqcGhvdVE?oc=5",
+    "description": "[비즈중앙] DL이앤씨가 시공하는 경기 부천시 발전소 건설현장에서 타워크레인 무게추 설치 작업 중 노동자 2명이 무게추에 맞아 1명이 숨지고 1명이 다치는 사고가",
+    "published_at": "2026-10-10T13:30:17+09:00",
+    "cluster_id": "f74c",
+    "publisher": "비즈중앙",
+    "title_clean": "DL이앤씨 부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 부상",
+    "summary": "DL이앤씨가 시공 중인 부천 발전소 건설현장에서 타워크레인 무게추 설치 작업 중 노동자 2명이 사고를 당해 1명 사망, 1명 부상. 건설업의 안전관리 문제를 드러내는 중대 재해 사건.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-10T19:38:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
