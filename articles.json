@@ -5525,6 +5525,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "건축비 인상에 몸값 뛰는 분상제 단지 - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070143",
+    "description": "대우건설이 시공한다. 인근에선 지하철 7호선 청라연장선 국제업무단지역(예정)이 2030년 1차 개통을 목표로 추진 중이다. 반도건설은 10월 인천 계양구 계양지구 AC3·AC4블록에서 주상복합 '계양신도시 카이브...",
+    "published_at": "2026-10-10T13:40:00+09:00",
+    "cluster_id": "4e8d",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "건축비 인상에 몸값 뛰는 분상제 단지",
+    "summary": "건축비 인상으로 인한 분양가 상승이 진행 중이며, 인천 지역 주상복합 프로젝트들이 추진되고 있다. 대우건설, 반도건설 등 대형 건설사들의 신규 수주 활동이 활발한 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-10T13:42:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21507,22 +21523,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-02T10:31:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "자산 매각·반도체 효과···SK에코플랜트, 6조 차입금 부담 '정면 돌파... - newsfreezone.co.kr",
-    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712020",
-    "description": "이는 재무 부담이 큰 것으로 평가받는 GS건설(약 5.9조원)은 물론 대우건설(약 4.4조원), 롯데건설(약 2.9조원) 등 상위 시공사들을 크게 웃도는 수치다. 가용 현금을 모두 동원해도 남는 순차입금만 약 4.8조원에 달한다....",
-    "published_at": "2026-10-02T10:22:00+09:00",
-    "cluster_id": "e343",
-    "publisher": "newsfreezone.co.kr",
-    "title_clean": "자산 매각·반도체 효과···SK에코플랜트, 6조 차입금 부담 '정면 돌파...",
-    "summary": "SK에코플랜트가 약 6조 원의 차입금을 보유하고 있으며, 이는 GS건설, 대우건설, 롯데건설 등 상위 시공사들보다 훨씬 큰 규모다. 가용 현금을 모두 동원해도 순차입금이 약 4.8조 원에 달하는 심각한 재무 부담을 안고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-02T10:31:09+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
