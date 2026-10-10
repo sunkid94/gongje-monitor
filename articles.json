@@ -5321,23 +5321,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "칼자루 쥔 원도급사 ‘기성 확정’ 미루고 발주자 발빼면 ‘직불 스톱’ - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326402",
-    "description": "전문건설업계에서 직불합의(하도급대금 직접지급 합의)가 사실상 유명무실하다는 목소리가 꾸준히 나온다. 직불합의는 발주자가 하도급대금을 원도급사를 거치지 않고 하수급인에게 직접 지급하도록 발주자·원사업자·수급사업자 3자가 맺는 합의다. 형식적으로는 대금을 보호하는 안전장치이지만, 현장에서는 이 합의서 한 장만으로는 대금을 지키기 어려운 구조적 허점이 반복돼 왔다.◇왜 직불합의는 무력화돼 왔나첫째, ‘기성 확정’ 여부를 원도급사가 사실상 좌우한다는 점이다. 직불합의가 있어도 원도급사가 자기 쪽 기성이 없다거나 지체상금 등을 이유로 정산",
-    "published_at": "2026-09-11T07:00:00+09:00",
-    "cluster_id": "3dcf",
-    "publisher": "대한전문건설신문",
-    "title_clean": "칼자루 쥔 원도급사 ‘기성 확정’ 미루고 발주자 발빼면 ‘직불 스톱’",
-    "summary": "전문건설업계에서 직불합의(하도급대금 직접지급)가 형식적 장치에 그쳐 실제 기능하지 못하고 있다. 원도급사의 기성 확정 미루기, 발주자의 지급 거부 등으로 하수급인의 대금 지급이 중단되는 구조적 허점이 반복되고 있는 상황을 보도했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-09-11T07:06:07+09:00",
-    "event_label": "전문건설공제조합 직불합의 제도의 유명무실화 문제 보도",
-    "importance": 7
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21336,6 +21319,22 @@
     "sentiment": "positive",
     "collected_at": "2026-10-02T11:41:10+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[기자수첩] 안전 투자는 숫자로…사고 핑계는 하청으로 - 신아일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hd09ZekRHMWJaUW5HWGk0UVNxUlU2Q0RDQTl2Ukw3bDRoMzI3MmhIZ3ZGUlRBN0JFX3oweEwxYy1SRGRicG50YXFpbnJQMmx4OGdUOXBqRUZrNDl3bURkSHc4cjNOVFVPMGVHanZUX1k?oc=5",
+    "description": "\"안전관리 체계를 강화해 재발 방지 대책을 강구하겠습니다.\"건설 현장에서 사망사고가 발생할 때마다 건설사들이 내놓는 익숙한 말이다. 사고 직후 고개를 숙이고 안전",
+    "published_at": "2026-10-11T08:15:00+09:00",
+    "cluster_id": "6d90",
+    "publisher": "신아일보",
+    "title_clean": "[기자수첩] 안전 투자는 숫자로…사고 핑계는 하청으로",
+    "summary": "건설 현장 사망사고 발생 시 건설사들이 안전관리 강화를 약속하지만 실제로는 책임을 하청업체에 전가하는 악순환이 반복되고 있다. 기자는 안전 투자는 숫자로만 평가하면서 사고 책임은 외주화하는 업계의 이중잣대를 비판하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T08:27:40+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
