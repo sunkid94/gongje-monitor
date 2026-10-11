@@ -21253,6 +21253,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "동부건설, 앰코 광주사업장 증축공사 2743억 수주 - 비건뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OdkhaeEtrMVdMblJ5Z3B6Wm5XTW9aLS11WWU5Ym9iZ01wUmVUcG04NktGQ2ktUzJqRGh5TXdnaVdQaUJkNTRFM2JkTHNsV1lEV1N2dHlBd191UHhsSk5XaE11MlFfUQ?oc=5",
+    "description": "동부건설이 앰코테크놀로지코리아 광주사업장 D동 증축공사를 2742억7000만원에 수주했다. 계약금액은 부가가치세 별도이며, 동부건설의 2025년 말 연결 기준 매출액의 15.6%에 해당한다. 동부건설은 지난 8일 앰코테크놀로지코리아와 공사도급계약을 체결했다고 금융감독원 전자공시시스템에 공시했다. 계약 기간은 2026년 10월 8일부터 2028년 6월 23",
+    "published_at": "2026-10-12T02:26:36+09:00",
+    "cluster_id": "d76a",
+    "publisher": "비건뉴스",
+    "title_clean": "동부건설, 앰코 광주사업장 증축공사 2743억 수주",
+    "summary": "동부건설이 앰코테크놀로지코리아 광주사업장 D동 증축공사를 약 2,743억 원에 수주했다. 2026년 10월부터 2028년 6월까지 약 2년간 진행될 예정이며, 이는 동부건설의 2025년 연결 매출액의 15.6%에 해당하는 규모다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T02:32:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-05T16:54:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "TK신공항 건설 두고 국토부 장관, \"주도적 역할엔 한계\" - 매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TQl9EZEdFaXd4dGxfTnRUTmRnX0gycTlBYmVqYkd6VktDaGUwNWFDN2VjWktzOUh6UHVMYUtyZlBQM0ktZjFBODZCVmFheXkxbEM0Rk5DWUdnZkUwUnVIc3h3?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TQl9EZEdFaXd4dGxfTnRUTmRnX0gycTlBYmVqYkd6VktDaGUwNWFDN2VjWktzOUh6UHVMYUtyZlBQM0ktZjFBODZCVmFheXkxbEM0Rk5DWUdnZkUwUnVIc3h3?oc=5\" target=\"_blank\">TK신공항 건설 두고 국토부 장관, \"주도적 역할엔 한계\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-    "published_at": "2026-10-05T16:32:30+09:00",
-    "cluster_id": "3816",
-    "publisher": "매일신문",
-    "title_clean": "TK신공항 건설 두고 국토부 장관, \"주도적 역할엔 한계\"",
-    "summary": "국토부 장관이 TK신공항 건설 사업에서 국토부의 주도적 역할에 한계가 있다고 표명했습니다. 이는 사업 추진의 불확실성과 정부 차원의 적극적 지원 부족을 시사하는 발언으로 해석됩니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-05T16:49:03+09:00",
-    "importance": 4
   }
 ]
