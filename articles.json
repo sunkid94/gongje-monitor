@@ -21253,6 +21253,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "민간 50억원 이상 건설공사도 전자대금지급 의무화 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326893",
+    "description": "민간 건설공사에도 전자대금지급시스템 사용 의무가 본격 확대된다. 도급금액 50억원 이상 민간공사를 대상으로 하되 시공능력평가 순위에 따라 2027년부터 단계적으로 적용한다.국토교통부는 12일 이같은 내용을 담은 건설산업기본법 시행규칙 일부개정령안을 입법예고했다. 건설산업기본법 개정으로 2027년1월1일부터 발주자 직접지급제와 전자대금지급시스템 사용 의무화가 시행되는 데 따른 후속조치다.개정안은 전자대금지급시스템을 의무적으로 사용해야 하는 민간 건설공사의 기준을 도급금액 50억원 이상으로 정했다.다만 건설업체 규모를 고려해 적용 시기",
+    "published_at": "2026-10-12T08:53:14+09:00",
+    "cluster_id": "a66d",
+    "publisher": "대한전문건설신문",
+    "title_clean": "민간 50억원 이상 건설공사도 전자대금지급 의무화",
+    "summary": "국토교통부가 민간 건설공사 중 도급금액 50억원 이상에 대해 2027년부터 전자대금지급시스템 의무화를 단계적으로 추진한다. 시공능력평가 순위에 따라 차등 적용하며, 발주자 직접지급제와 함께 시행될 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-12T08:56:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-05T21:49:31+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "청주대, 국토안전원과 건축인재 양성 - ccdailynews.com",
-    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2444631",
-    "description": "청주대 학생들이 VR기기를 활용해 소교무 건축물 안전점검과 건설현장 안전사고 상황을 체험하고 있다. 청주대학교가 국토안전권리원 충청지역본부와 지역 건축인재 육성을 위한 역량 향상 프로그램을 운영한다고 5일...",
-    "published_at": "2026-10-05T21:28:00+09:00",
-    "cluster_id": "f1b6",
-    "publisher": "ccdailynews.com",
-    "title_clean": "청주대, 국토안전원과 건축인재 양성",
-    "summary": "청주대학교가 국토안전권리원 충청지역본부와 협력하여 VR 기술을 활용한 건축안전점검 및 건설현장 안전사고 체험 프로그램을 운영 중이다. 이는 지역 건축인재 양성 및 역량 강화를 목표로 하는 교육 이니셔티브이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-05T21:49:31+09:00",
-    "importance": 2
   }
 ]
