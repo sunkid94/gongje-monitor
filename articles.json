@@ -5253,6 +5253,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "경기광주 주택공급 부족에 거래량·가격 동반랠리 - newstopkorea.com",
+    "link": "https://www.newstopkorea.com/news/articleView.html?idxno=48078",
+    "description": "롯데건설이 지난 4월 양벌동에 공급한 '경기광주역 롯데캐슬 시그니처 1단지' 1077가구는 계약 시작 약 3개월 만에 100% 분양을 마쳤다. 비규제지역이라 실거주 의무와 재당첨 제한이 없고 LTV 60%가 적용됐다....",
+    "published_at": "2026-10-12T06:40:00+09:00",
+    "cluster_id": "da6e",
+    "publisher": "newstopkorea.com",
+    "title_clean": "경기광주 주택공급 부족에 거래량·가격 동반랠리",
+    "summary": "경기광주 비규제지역의 롯데캐슬 시그니처 1단지(1,077가구)가 3개월 만에 100% 분양 완료되며 주택 공급 부족 속 거래량과 가격이 함께 상승하고 있다. LTV 60% 적용과 재당첨 제한 없는 조건이 분양 성공의 배경으로 작용했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T06:47:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21232,22 +21248,6 @@
     "publisher": "news.einfomax.co.kr",
     "title_clean": "삼성重, 6천722억원 규모 LNG운반선 2척 수주…올해 20척 달성",
     "summary": "삼성중공업이 아시아 지역 선주로부터 LNG운반선 2척을 6,722억원에 수주하며 올해 20척 수주를 달성했다. 이는 해양플랜트 업계의 수주 호황을 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T13:57:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, 아시아 선주서 액화천연가스운반선 2척 6722억원에 수주 - getnews.co.kr",
-    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=882491",
-    "description": "삼성중공업이 아시아 지역 선주로부터 액화천연가스(LNG)운반선 2척을 6,722억원에 수주했다. 2일 금융감독원 전자공시시스템(다트)에 따르면, 삼성중공업은 아시아 지역 선주로부터 LNG운반선 2척을 6,722억원에...",
-    "published_at": "2026-10-02T13:44:00+09:00",
-    "cluster_id": "64c2",
-    "publisher": "getnews.co.kr",
-    "title_clean": "삼성중공업, 아시아 선주서 액화천연가스운반선 2척 6722억원에 수주",
-    "summary": "삼성중공업이 아시아 지역 선주로부터 액화천연가스(LNG)운반선 2척을 6,722억원에 수주했다. 대형 특수선 수주로 조선업계의 수주 실적 증가에 기여하는 호재다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T13:57:01+09:00",
     "importance": 2
