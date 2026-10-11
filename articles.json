@@ -5253,6 +5253,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "1년째 계속되는 ‘전담수사의 늪’… “인력 부족 심한데 습관적으로 지... - sedaily.com",
+    "link": "https://www.sedaily.com/article/20100091?ref=naver",
+    "description": "포스코이앤씨 공사 현장 감전 사고와 7명의 사상자가 발생한 경북 청도 열차 사고 등 개별 사건에도 전담팀이 투입됐지만 전반적으로는 유사 범죄에 지속적으로 대응할 수 있는 수사 체계를 구축하는 데 초점이 맞춰졌다....",
+    "published_at": "2026-10-11T12:44:00+09:00",
+    "cluster_id": "c2b7",
+    "publisher": "sedaily.com",
+    "title_clean": "1년째 계속되는 ‘전담수사의 늪’… “인력 부족 심한데 습관적으로 지...",
+    "summary": "포스코이앤씨 공사 현장 감전 사고 등 건설 현장 사고에 대응하기 위해 전담팀이 투입되고 있으나, 인력 부족으로 수사에 어려움을 겪고 있다. 건설업계의 안전 관리 체계 개선이 시급한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T12:47:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21237,20 +21253,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "팀코리아 ‘원샷 수주’로 세계 원전시장 주도 발판 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10891712?ref=naver",
-    "description": "미국 내에선 시공능력을 보유한 회사가 거의 없어 결과적으로 한국전력, 한국수력원자력, 두산에너빌리티, 대우건설, 현대건설 등 한국 기업에 의존할 수밖에 없기 때문이다. 한국 기업으로 구성된 팀코리아가 설계...",
-    "published_at": "2026-10-02T11:36:00+09:00",
-    "cluster_id": "1782",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "팀코리아 ‘원샷 수주’로 세계 원전시장 주도 발판",
-    "summary": "팀코리아(한국전력, 한수원, 두산에너빌리티, 대우건설, 현대건설 등 한국 기업)가 미국 원전시장에서 시공능력 부족으로 인해 단독 수주 기회를 확보하고 있다. 이는 한국 건설·에너지 기업들의 해외 원전 수주 확대로 이어질 전망이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T11:41:10+09:00",
-    "importance": 2
+    "title": "버젓이 사무실까지 있는데, 알고 보니 미등록 업체…2천만원 들인 인테... - fnnews.com",
+    "link": "https://www.fnnews.com/news/202610081517154083",
+    "description": "'건설산업기본법'에 따르면 공사 예정금액이 1500만원 이상인 실내건축공사는 건설업 등록 사업자만 시공할 수 있다. 등록하지 않고 건설업을 한 경우 5년 이하 징역 또는 5000만원 이하 벌금에 처할 수 있다. 사무실이나...",
+    "published_at": "2026-10-11T12:43:00+09:00",
+    "cluster_id": "9bae",
+    "publisher": "fnnews.com",
+    "title_clean": "버젓이 사무실까지 있는데, 알고 보니 미등록 업체…2천만원 들인 인테...",
+    "summary": "건설산업기본법에 따라 1500만원 이상 실내건축공사는 등록 사업자만 시공 가능하나, 미등록 업체가 적발되었다. 미등록 시공 시 5년 이하 징역 또는 5000만원 이하 벌금에 처해질 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T12:47:41+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32290,22 +32306,6 @@
     "summary": "부산항만공사 관할 항만에서 2021년부터 2026년 상반기까지 70건의 안전사고가 발생했으며, 중상 이상 사고가 44건에 달했다. 강승규 의원이 노후 크레인 등 하역 장비의 교체와 예산 확대를 촉구하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-04T23:27:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산항 안전사고 5년여간 70건… 북항 크레인 97%는 ‘내구연한 초과’ - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RNjZmOUJHamxVZGNnOHpMcFk0a2wwcjd4RlRsbEVnX0ZWM1hrXzBwZnBVMDJOMlJBNVJrLVRCZ3c1RV9lbU40NmVIb2tJM2M?oc=5",
-    "description": "국내 최대 항만 물동량을 처리하는 부산항 북항의 하역 장비 노후화가 심각한 수준으로, 대형 참사가 우려된다는 지적이 제기됐다. 특히 최근 5년여간 부산항 북항·신항 등 부산항만공사(BPA) 관할 내에서 발생한 안전사고 70건 가운데 61%인 44건이 ‘중상 이상’ 치명적 사고로 나타났다. 국회 농림축산식품해양수산위원회 소속 국민의힘 강승규 의원(충남 홍성·",
-    "published_at": "2026-10-04T16:45:15+09:00",
-    "cluster_id": "89aa",
-    "publisher": "v.daum.net",
-    "title_clean": "부산항 안전사고 5년여간 70건… 북항 크레인 97%는 ‘내구연한 초과’",
-    "summary": "부산항 북항의 하역 장비 97%가 내구연한을 초과했으며, 최근 5년간 70건의 안전사고 중 61%가 중상 이상의 치명적 사고로 발생했다. 노후화된 장비로 인한 대형 참사 우려가 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-04T17:02:53+09:00",
     "importance": 4
   }
 ]
