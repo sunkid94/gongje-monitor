@@ -21253,6 +21253,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 정부에 '지방 주택시장 정상화' 대책 건의 - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111427",
+    "description": "김병환 대구시 건축주택국장은 \"지방 주택시장의 불안과 건설경기의 침체는 수도권 집중에 따른 양극화 심화, 그리고 장기적으로는 국가 경제 전반의 활력을 저해할 우려가 있어 정부 정책에 적극 반영해 주길 바란다\"며...",
+    "published_at": "2026-10-11T20:56:00+09:00",
+    "cluster_id": "3893",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "대구시, 정부에 '지방 주택시장 정상화' 대책 건의",
+    "summary": "대구시가 지방 주택시장 침체와 건설경기 부진 해결을 위해 정부에 대책 건의. 수도권 집중으로 인한 지역 양극화 심화 및 국가 경제 활력 저해 우려를 제기하며 정부 정책 반영 촉구.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T20:57:57+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32290,22 +32306,6 @@
     "summary": "민주당 충주시지역위가 민주노총 충주·음성지부와 간담회를 개최했다. 서충주 산업단지 화물공영차고지 조성, 충주시 발주 공사의 지역 인력·장비 활용 확대, 건설노동자 안전 및 고용환경 개선 등을 논의했다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-05T13:38:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회-한국관광공사 ‘건설노동자 가족 힐링여행’ 참가자 모집 - joongdo.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TcE9WNWNsQnY3Q2FPcFR1OHlDSlJXRWxPWjVQcGJGa3J3UFlwdGYxQ2RBLTVTanVURXpJb1paMm8zN0NaaFZTbFNHdVZnTUk0azVOQU12T3Y1UVFqUXdVVkZiZ2l6VEpGek9MeA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TcE9WNWNsQnY3Q2FPcFR1OHlDSlJXRWxPWjVQcGJGa3J3UFlwdGYxQ2RBLTVTanVURXpJb1paMm8zN0NaaFZTbFNHdVZnTUk0azVOQU12T3Y1UVFqUXdVVkZiZ2l6VEpGek9MeA?oc=5\" target=\"_blank\">건설근로자공제회-한국관광공사 ‘건설노동자 가족 힐링여행’ 참가자 모집</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">joongdo.co.kr</font>",
-    "published_at": "2026-10-05T12:18:08+09:00",
-    "cluster_id": "55fd",
-    "publisher": "joongdo.co.kr",
-    "title_clean": "건설근로자공제회-한국관광공사 ‘건설노동자 가족 힐링여행’ 참가자 모집",
-    "summary": "건설근로자공제회와 한국관광공사가 건설노동자 가족을 위한 힐링여행 프로그램을 운영하며 참가자를 모집 중이다. 건설업계 근로자의 복지 증진과 사회적 지원 정책을 추진하는 사항이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-05T12:23:34+09:00",
     "importance": 2
   }
 ]
