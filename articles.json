@@ -5236,23 +5236,6 @@
     "importance": 7
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대청엔지니어링, 세종충남대병원에 발전기금 기부 - ccreview.co.kr",
-    "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=357265",
-    "description": "성 대표는 대전상공회의소 상임의원과 부회장, 대전시개발위원회 회장, 대한기계설비건설협회 대전세종충남도회 회장, 대한설비건설협회 본회 부회장, 한밭대학교 총동문회장 등을 역임했으며 최근에는 모교의 개교...",
-    "published_at": "2026-09-11T15:02:00+09:00",
-    "cluster_id": "4925",
-    "publisher": "ccreview.co.kr",
-    "title_clean": "대청엔지니어링, 세종충남대병원에 발전기금 기부",
-    "summary": "대청엔지니어링 대표가 세종충남대병원에 발전기금을 기부했다. 해당 대표는 대한기계설비건설협회 대전세종충남도회 회장 등 건설업계 주요 직책을 역임한 인물이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-11T15:15:09+09:00",
-    "event_label": "대한기계설비건설협회 임직원 기부·사회공헌",
-    "importance": 5
-  },
-  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21250,6 +21233,22 @@
     "summary": "키움증권이 현대건설을 한미 원전 협력의 최대 수혜자로 평가하며 60조 원대 대형 수주 기회를 전망했다. 대우건설, 삼성물산과 함께 '팀코리아' 형태로 미국 시장 진출을 추진하되, 국내 건설사들은 주로 시공 영역을 담당할 것으로 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T12:06:25+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대엔지니어링, 재생에너지 변동 대응 '하이브리드 수전해' 기술 개발 - thedailypost.kr",
+    "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116130",
+    "description": "한편 HMG건설기술연구원은 에너지·미래주거·스마트건설·인프라를 4대 연구 분야로 정하고 수소와 소형모듈원전(SMR), 지속가능항공유(SAF), 핵융합, 바이오가스 관련 연구를 추진하고 있다.",
+    "published_at": "2026-10-11T15:42:00+09:00",
+    "cluster_id": "4ce2",
+    "publisher": "thedailypost.kr",
+    "title_clean": "현대엔지니어링, 재생에너지 변동 대응 '하이브리드 수전해' 기술 개발",
+    "summary": "현대엔지니어링이 재생에너지 변동성에 대응하는 하이브리드 수전해 기술을 개발했다. HMG건설기술연구원은 수소, SMR, SAF, 핵융합, 바이오가스 등 미래 에너지 관련 4대 연구 분야를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-11T15:47:40+09:00",
     "importance": 2
   },
   {
