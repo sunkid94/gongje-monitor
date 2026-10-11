@@ -5253,6 +5253,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "다스코 세종~안성 고속도로 안전시설 계약 167억원 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=392154",
+    "description": "공시된 계약 상대는 대우건설이며, 계약금액은 기존 134억5703만400원에서 증액됐다. 변경 후 금액은 부가가치세를 포함한 액수다. 다스코는 이번 계약금액이 2024년 말 연결 기준 매출액의 5.36%라고 공시했다....",
+    "published_at": "2026-10-12T04:28:00+09:00",
+    "cluster_id": "e79e",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "다스코 세종~안성 고속도로 안전시설 계약 167억원",
+    "summary": "다스코가 대우건설과 세종~안성 고속도로 안전시설 공사 계약을 167억원에 체결했다. 기존 134억원 대비 32억원이 증액되었으며, 이는 다스코의 연간 매출액 대비 5.36%에 해당한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T04:32:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21232,22 +21248,6 @@
     "publisher": "dailian.co.kr",
     "title_clean": "삼성중공업, LNG 운반선 2척 6722억원에 수주…올해 20척 달성",
     "summary": "삼samsung중공업이 LNG 운반선 2척을 6722억원에 수주하여 올해 누적 수주액을 124억 달러로 증가시켰다. 연간 목표 139억 달러의 89%를 달성하며 안정적인 수주 실적을 이어가고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T13:32:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성重, LNG 운반선 20척 수주 달성…상선 목표치 140% '순항' - mt.co.kr",
-    "link": "https://www.mt.co.kr/industry/2026/10/02/2026100213045644352",
-    "description": "삼성중공업은 아시아 지역 선주로부터 LNG(액화천연가스) 운반선 2척 계약을 따내면서 올해 총 20척의 LNG 운반선을 수주했다고 2일 밝혔다. 이번 계약은 6722억원 규모이며 해당 선박은 2029년 5월까지 인도될...",
-    "published_at": "2026-10-02T13:24:00+09:00",
-    "cluster_id": "d8cb",
-    "publisher": "mt.co.kr",
-    "title_clean": "삼성重, LNG 운반선 20척 수주 달성…상선 목표치 140% '순항'",
-    "summary": "삼성중공업이 아시아 선주로부터 LNG 운반선 2척을 추가 수주하여 올해 총 20척 수주 달성, 상선 목표치의 140%를 달성했다. 이번 계약은 6722억원 규모로 2029년 5월까지 인도될 예정이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T13:32:19+09:00",
     "importance": 2
