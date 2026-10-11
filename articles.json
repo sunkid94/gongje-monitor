@@ -5253,6 +5253,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "낙동강유역환경청, 대형 조선소 VOCs(휘발성유기화합물) 관리 현장 살펴 - newsgn.com",
+    "link": "https://www.newsgn.com/news/articleView.html?idxno=578294",
+    "description": "이형섭 낙동강유역환경청장은 지난 8일 거제시에 소재한 '삼성중공업(주) 거제조선소'를 방문하여 선박 도장시설 등 비산배출시설과 대기방지시설 운영·관리 실태를 점검하였다. 이번 점검은 선박 도장 과정에서...",
+    "published_at": "2026-10-11T13:52:00+09:00",
+    "cluster_id": "a819",
+    "publisher": "newsgn.com",
+    "title_clean": "낙동강유역환경청, 대형 조선소 VOCs(휘발성유기화합물) 관리 현장 살펴",
+    "summary": "낙동강유역환경청이 삼성중공업 거제조선소를 방문하여 선박 도장시설의 VOCs 관리 및 대기방지시설 운영 실태를 점검했다. 조선업계의 환경규제 준수 상황을 모니터링하는 정부의 감시 활동으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T13:57:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21237,19 +21253,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "삼성중공업, LNG운반선 2척 6722억원 수주…올해만 20척 - ddaily.co.kr",
-    "link": "https://www.ddaily.co.kr/page/view/2026100211401337764",
-    "description": "삼성중공업이 액화천연가스(LNG) 운반선 2척을 추가하며 올해 LNG운반선 수주량을 20척까지 늘렸다. 삼성중공업은 아시아 지역 선주와 LNG운반선 2척을 6722억원에 건조하는 계약을 체결했다고 2일 밝혔다. 선박은...",
-    "published_at": "2026-10-02T11:41:00+09:00",
-    "cluster_id": "0fb7",
-    "publisher": "ddaily.co.kr",
-    "title_clean": "삼성중공업, LNG운반선 2척 6722억원 수주…올해만 20척",
-    "summary": "삼성중공업이 아시아 지역 선주와 LNG운반선 2척을 6722억원에 수주하며 올해 LNG운반선 수주량을 총 20척으로 늘렸다. 이는 조선업계의 주요 수주 실적 증대를 의미하는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T11:51:32+09:00",
+    "title": "김정재 의원, 국민의힘 국토교통위원회 '국정감사 주간 우수위원' 선정 - mhns.co.kr",
+    "link": "https://www.mhns.co.kr/news/articleView.html?idxno=763596",
+    "description": "김정재 의원은 이번 주 국토교통부와 한국도로공사 국정감사에서 부동산 문제와 지역 철도망 확충, 건설현장 안전, 고속도로 통행료 상습체납, 도로공사 유휴부지 관리 등 국민 생활과 밀접한 현안을 집중적으로...",
+    "published_at": "2026-10-11T13:54:00+09:00",
+    "cluster_id": "edd7",
+    "publisher": "mhns.co.kr",
+    "title_clean": "김정재 의원, 국민의힘 국토교통위원회 '국정감사 주간 우수위원' 선정",
+    "summary": "김정재 의원이 국토교통위원회 국정감사에서 부동산, 철도망, 건설현장 안전, 고속도로 통행료 등 다양한 현안을 집중 질의하여 우수위원으로 선정됨. 건설현장 안전 등 업계 관련 이슈가 국정감사 대상으로 다루어짐.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-11T13:57:41+09:00",
     "importance": 2
   },
   {
@@ -32290,22 +32306,6 @@
     "summary": "자격 없는 건설업자에게 명의를 대여하고 공사대금을 회사 운영비로 유용한 종합건설업자가 실형을 선고받았다. 법원은 건설산업기본법 위반의 심각성을 인정하면서도 피고인의 반성을 참작해 처벌했다.",
     "sentiment": "negative",
     "collected_at": "2026-10-05T06:27:36+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "면허 없이 상가주택 공사 계약한 인테리어 업체 대표 실형 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261002048900057?input=1195m",
-    "description": "울산지법 형사6단독 이현경 부장판사는 사기와 건설산업기본법 위반 혐의 등으로 재판에 넘겨진 A씨에게 징역 8개월을 선고했다고 5일 밝혔다. 인테리어 업체 대표인 A씨는 2022년 종합건설면허가 있는 것처럼 속여 피해자...",
-    "published_at": "2026-10-05T06:06:00+09:00",
-    "cluster_id": "ea11",
-    "publisher": "yna.co.kr",
-    "title_clean": "면허 없이 상가주택 공사 계약한 인테리어 업체 대표 실형",
-    "summary": "면허 없이 상가주택 공사를 계약한 인테리어 업체 대표가 사기 및 건설산업기본법 위반으로 징역 8개월형을 선고받았다. 무면허 영업과 사기 행위는 건설업계의 신뢰성을 훼손하는 위법 사례다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-05T06:12:38+09:00",
     "importance": 4
   }
 ]
