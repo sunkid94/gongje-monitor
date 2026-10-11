@@ -5287,23 +5287,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "공사비 갈등, 공사도급계약해지 전략은 - globalepic.co.kr",
-    "link": "http://www.globalepic.co.kr/view.php?ud=20260910104059951937600e7ec7_29",
-    "description": "그 밖에 시공사의 중도 포기나 파행으로, 발생한 추가 공사비 및 선급금 미정산과 관련한 손해를 신속히 보전받기 위해 건설공제조합이나 보증 공사를 상대로 계약이행보증금 및 선급금반환보증금 신청 또는 청구 절차를...",
-    "published_at": "2026-09-11T09:06:00+09:00",
-    "cluster_id": "5cd6",
-    "publisher": "globalepic.co.kr",
-    "title_clean": "공사비 갈등, 공사도급계약해지 전략은",
-    "summary": "공사도급계약 해지 시 시공사의 중도 포기나 파행으로 인한 추가 공사비 및 선급금 미정산 손해를 신속히 보전받기 위해 건설공제조합의 계약이행보증금 및 선급금반환보증금 청구 절차에 관한 법률 정보를 제시하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-11T09:14:32+09:00",
-    "event_label": "건설공제조합 공사비 갈등 해결 및 보증금 청구 절차 안내",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21302,6 +21285,22 @@
     "sentiment": "positive",
     "collected_at": "2026-10-02T11:41:10+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설업 비자발적 이직 30만 명, 7개월째↑…35개월 만에 '최대' - news1.kr",
+    "link": "https://www.news1.kr/economy/trend/6315763",
+    "description": "산업생산 기준 건설업 노동생산성지수 역시 2024년 2분기부터 올해 2분기까지 9개 분기(27개월) 연속 전년 동기보다 하락하는 등 구조적 어려움이 이어졌다. 이런 가운데 고용 지위가 취약한 노동자들에게 타격이...",
+    "published_at": "2026-10-11T09:24:00+09:00",
+    "cluster_id": "565c",
+    "publisher": "news1.kr",
+    "title_clean": "건설업 비자발적 이직 30만 명, 7개월째↑…35개월 만에 '최대'",
+    "summary": "건설업 비자발적 이직이 30만 명으로 7개월 연속 증가하며 35개월 만에 최고치를 기록했다. 노동생산성지수가 27개월 연속 전년 동기 대비 하락하는 등 건설업이 구조적 위기를 겪고 있으며, 취약한 고용 지위의 노동자들이 주요 타격을 받고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T09:27:38+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
