@@ -21253,6 +21253,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김정재 의원, 국힘 국토교통위 '국정감사 주간 우수위원' 선정… \"영일만... - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=745434",
+    "description": "김정재 의원은 이번 주 국토교통부와 한국도로공사 국정감사에서 부동산 문제와 지역 철도망 확충, 건설현장 안전, 고속도로 통행료 상습체납, 도로공사 유휴부지 관리 등 국민 생활과 밀접한 현안을 집중적으로...",
+    "published_at": "2026-10-11T23:07:00+09:00",
+    "cluster_id": "eeba",
+    "publisher": "polinews.co.kr",
+    "title_clean": "김정재 의원, 국힘 국토교통위 '국정감사 주간 우수위원' 선정… \"영일만...",
+    "summary": "김정재 의원이 국토교통부 국정감사에서 부동산, 철도망, 건설현장 안전, 고속도로 통행료 체납 등 국민 생활 현안을 집중 질의하여 '우수위원'으로 선정됨. 건설현장 안전 문제가 국정감사 주요 쟁점으로 다루어짐.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T23:12:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-05T15:58:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대우건설 이강석 대표 공식 취임…\"내실·협업·도전으로 새 도약\" - ppss.kr",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=313997",
-    "description": "건설경기 불확실성이 이어지는 상황에서 외형 성장보다 사업성 검토와 현금흐름, 재무안정성을 우선하겠다는 의미로 풀이된다. 한편 'TOGETHER'는 조직 내 소통과 협업 강화에 초점을 맞췄다. 이 대표는 현장과 본사, 각...",
-    "published_at": "2026-10-05T14:38:00+09:00",
-    "cluster_id": "2ea1",
-    "publisher": "ppss.kr",
-    "title_clean": "대우건설 이강석 대표 공식 취임…\"내실·협업·도전으로 새 도약\"",
-    "summary": "대우건설의 신임 대표 이강석이 공식 취임했으며, 건설경기 불확실성 속에서 외형 성장보다 사업성 검토와 재무안정성을 우선하겠다고 밝혔다. 조직 내 소통·협업 강화와 함께 신중한 경영전략을 추진할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-05T14:48:53+09:00",
-    "importance": 2
   }
 ]
