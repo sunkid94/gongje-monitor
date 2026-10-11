@@ -21253,6 +21253,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "킨텍스 ‘한국건설·안전박람회’ 동시 개최 - naeil.com",
+    "link": "https://www.naeil.com/news/read/604649?ref=naver",
+    "description": "해체산업선진화 컨퍼런스, 스마트건설세미나, 스마트안전테크데이, 첨단 AX 도시안전포럼 등을 통해 산업계와 공공부문의 안전 현안을 논의하고 기술 적용 사례를 공유한다. 국내외 구매상담회와 수출상담회, 바이어...",
+    "published_at": "2026-10-11T12:50:00+09:00",
+    "cluster_id": "f43d",
+    "publisher": "naeil.com",
+    "title_clean": "킨텍스 ‘한국건설·안전박람회’ 동시 개최",
+    "summary": "킨텍스에서 한국건설·안전박람회가 개최되며, 해체산업 선진화, 스마트건설, 스마트안전 등 다양한 컨퍼런스와 세미나를 통해 건설업계의 안전 현안을 논의하고 기술 사례를 공유한다. 국내외 구매·수출상담회 등을 통해 건설업계에 비즈니스 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-11T12:52:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-05T02:07:38+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "강승규 의원, \"항만 노동자 안전 위협\"…노후 크레인 교체·예산 확대 촉구 - gukjenews.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1Sm5LN3RrWUhlVGt2bGRkSUR2Um5abEtnY3BhR3NBWjdhSmpoRThzbm5hUkM3MjVwM2FpUVo5S01VY1JHak5odXVfOWlhTDRmaDJPb1BEZWxZWEJ6dWp0TW5BS0k3a3FmOHBnVVV3?oc=5",
-    "description": "(예산,홍성=국제뉴스) 박의규 기자 = 부산항을 비롯한 전국 주요 항만에서 노동자 안전사고가 잇따르는 가운데, 하역 장비의 노후화 문제가 심각하게 제기됐다.강승규 의원이 항만공사로부터 제출받은 자료에 따르면, 부산항만공사 관할에서 2021년부터 2026년 상반기까지 총 70건의 안전사고가 발생했다.이 중 사망 1건, 90일 이상 치료가 필요한 중상 43건 등 중상 이상 사고가 44건에 달했다.연도별로는 2021년 16건, 2022년 20건, 2023년 18건, 2024년 3건, 2025년 3건, 2026년 상반기 10건이 집계됐다.",
-    "published_at": "2026-10-04T15:32:40+09:00",
-    "cluster_id": "e849",
-    "publisher": "gukjenews.com",
-    "title_clean": "강승규 의원, \"항만 노동자 안전 위협\"…노후 크레인 교체·예산 확대 촉구",
-    "summary": "부산항만공사 관할 항만에서 2021년부터 2026년 상반기까지 70건의 안전사고가 발생했으며, 중상 이상 사고가 44건에 달했다. 강승규 의원이 노후 크레인 등 하역 장비의 교체와 예산 확대를 촉구하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-04T23:27:43+09:00",
-    "importance": 4
   }
 ]
