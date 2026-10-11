@@ -21236,6 +21236,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 지방 주택시장 정상화 위한 맞춤형 정책 정부 건의 나섰다 - eroun.net",
+    "link": "https://www.eroun.net/news/articleView.html?idxno=92059",
+    "description": "활성화와 건설경기 회복을 위해 정부 차원의 실효성 있는 대책 마련을 촉구하고 나섰다. 대구시는 지난 7일 비상경제대책회의와 주택정책 자문회의, 업계 간담회로 수렴한 현장의 목소리를 바탕으로 금융·세제...",
+    "published_at": "2026-10-11T16:18:00+09:00",
+    "cluster_id": "a0e9",
+    "publisher": "eroun.net",
+    "title_clean": "대구시, 지방 주택시장 정상화 위한 맞춤형 정책 정부 건의 나섰다",
+    "summary": "대구시가 지방 주택시장 정상화를 위해 금융·세제 등 맞춤형 정책을 정부에 건의했다. 건설경기 회복과 시장 활성화를 위한 실효성 있는 대책 마련을 촉구하는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-11T16:22:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32289,22 +32305,6 @@
     "summary": "반도체 공장 건설 완공 후 건설 노동자 감소로 지역 경제 활성화가 예상과 달리 부진한 상황. 건설 수주 수익의 일시적 증가 이후 수요 급감으로 건설업계의 침체 우려.",
     "sentiment": "negative",
     "collected_at": "2026-10-05T08:42:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대우건설 2년 7개월 만에 'P-CBO' 발행…롯데건설은 잇단 ABS - news1.kr",
-    "link": "https://www.news1.kr/realestate/general/6309423",
-    "description": "업계 관계자는 \"건설경기 불황이 계속되다 보니 특정 조달 수단에만 의존하기보다 시장 상황에 따라 P-CBO나 ABS 등 여러 방식으로 자금을 확보할 필요가 있다\"고 말했다. 이어 \"회사채 시장이 건설업에 우호적으로...",
-    "published_at": "2026-10-05T07:05:00+09:00",
-    "cluster_id": "e618",
-    "publisher": "news1.kr",
-    "title_clean": "대우건설 2년 7개월 만에 'P-CBO' 발행…롯데건설은 잇단 ABS",
-    "summary": "건설경기 불황으로 인해 대우건설과 롯데건설이 P-CBO, ABS 등 다양한 자금조달 수단을 활용하고 있습니다. 건설업체들이 회사채 시장의 제약을 극복하기 위해 여러 조달 방식을 병행하는 추세를 보이고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-05T07:07:41+09:00",
     "importance": 4
   }
 ]
