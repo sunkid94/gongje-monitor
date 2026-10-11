@@ -21273,6 +21273,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "얼어 붙은 대구 건설경기… 대구시 정부에 정책 건의 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000021462&cp=nv",
+    "description": "대구시가 수도권과 달리 건설경기 침체가 이어지고 있는 지방에 대한 활성화 대책 마련을 정부에 건의했다. 대구시는 그동안 지역 건설업계 등으로부터 청취한 의견을 검토해 금융정책(금융위원회), 세제정책...",
+    "published_at": "2026-10-11T10:36:00+09:00",
+    "cluster_id": "7cc6",
+    "publisher": "kmib.co.kr",
+    "title_clean": "얼어 붙은 대구 건설경기… 대구시 정부에 정책 건의",
+    "summary": "대구시가 수도권 대비 침체된 지역 건설경기 활성화를 위해 정부에 정책 건의를 추진 중이다. 건설업계의 의견을 수렴하여 금융·세제정책 등의 개선안을 제시하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-11T10:37:38+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "삼표시멘트, 불황에도 226억 투자…반도체 수요 겨냥 - sidae.com",
     "link": "https://www.sidae.com/article/2026101110162939069",
     "description": "건설경기 침체 여파로 상반기 출하량이 1992년 이후 33년 만에 2000만톤을 밑돌았다. 삼표시멘트 관계자는 \"평택 등 수도권 반도체 공사의 특수시멘트 수요 증가에 대비해 저장·이송능력을 확대하려는 것으로 전용...",
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-04T12:22:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "암살자(들) 영화는 역사 암살자...“가난한 나라, 누가 선진한국으로 만... - breaknews.com",
-    "link": "http://www.breaknews.com/1240911",
-    "description": "건설노동자들은 중동의 뜨거운 사막에서 땀을 흘렸습니다. 유행가 가사마다 이별의 한을 달래는 내용이었었죠. 농부들은 새벽별을 보고 논밭으로 나가 저녁별을 보고...",
-    "published_at": "2026-10-04T12:10:00+09:00",
-    "cluster_id": "e976",
-    "publisher": "breaknews.com",
-    "title_clean": "암살자(들) 영화는 역사 암살자...“가난한 나라, 누가 선진한국으로 만...",
-    "summary": "제목과 내용이 불일치하며, 실제 내용은 과거 건설노동자와 농부들의 노고를 회상하는 역사적 서사로 보입니다. 건설업계의 구체적인 호재나 악재 관련 정보가 부족합니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-04T12:22:51+09:00",
-    "importance": 2
   }
 ]
