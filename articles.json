@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "샤힌 이어 부천서 또 사망사고…DL이앤씨 안전관리 '빨간불' - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20261011500021",
+    "description": "전국플랜트건설노동조합 경인지부는 당시 부천열병합발전소 현대화사업 현장 앞에서 기자회견을 열고 안전대책 마련을 요구한 바 있다. 당시 노조는 현장에서 노동자 부상이 반복되고 있으며 빗물이 고인 상태에서도...",
+    "published_at": "2026-10-11T10:56:00+09:00",
+    "cluster_id": "afcd",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "샤힌 이어 부천서 또 사망사고…DL이앤씨 안전관리 '빨간불'",
+    "summary": "DL이앤씨 부천열병합발전소 현장에서 안전사고가 반복되고 있으며, 전국플랜트건설노동조합이 안전대책 마련을 요구하고 있다. 건설현장의 열악한 안전관리 실태가 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T10:57:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32291,22 +32307,6 @@
     "summary": "2026년 5월 서소문 고가차도 붕괴 사고(사망 3명)에 대한 건설사고조사위원회의 조사 기간이 9월 30일에서 11월 30일까지 2개월 연장됐다. 철거 공사 안전과 책임 소재 규명을 위한 기술적 판단이 필요한 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-10-04T12:27:45+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설업 산재 신청 증가세…질병 산재 3년 새 4.4배 - delighti.co.kr",
-    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=122823",
-    "description": "건설노동자 유족의 질병 산재 승인도 2022년 58명에서 지난해 103명으로 늘었다. 올해는 8월까지 73명이 질병으로 인한 산재 승인을 받았다. 육상·수상운수업에서도 질병 산재 신청이 증가했다. 육상·수상운수업의...",
-    "published_at": "2026-10-04T12:10:00+09:00",
-    "cluster_id": "8bf1",
-    "publisher": "delighti.co.kr",
-    "title_clean": "건설업 산재 신청 증가세…질병 산재 3년 새 4.4배",
-    "summary": "건설업 노동자의 질병 산재 승인이 3년 사이 4.4배 증가하면서 산업 전반의 안전 문제가 심화되고 있다. 2022년 58명에서 2023년 103명으로 늘었으며, 올해 8월까지 73명이 승인받아 지속적인 증가 추세를 보이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-04T12:22:51+09:00",
     "importance": 4
   }
 ]
