@@ -21253,6 +21253,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH 방학역 복합지구 철거 착공—도심공공주택 첫 삽, 현장 인력·안전 과제 집중 점검 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52cmlUT01oSk02bDNmYk5EWUZicFlnSXVhR0F4NWRweG5DZU5JczdnemVMdGxuS3J4bEJMenowaEZ5cGJLZUZ3UE1Fb24yLUs1anFV?oc=5",
+    "description": "2026년 9월 착공과 공급 파급력 2026년 9월, 한국토지주택공사(LH)가 서울 도봉구 방학역 복합지구에서 도심공공주택 복합사업 사상 최초의 철거 착공식을 열었다. 후보지 지정 5년 만에 이루어진 이번 착공은 민간 재개발·재건축보다 8년 이상 빠른 사업 속도를 실증한 사례로, 향후 서울 6개 지구 총 7,755가구 공급의 출발점이 됐다. 석면 함유 자재",
+    "published_at": "2026-10-11T19:02:02+09:00",
+    "cluster_id": "3e51",
+    "publisher": "유스연합",
+    "title_clean": "LH 방학역 복합지구 철거 착공—도심공공주택 첫 삽, 현장 인력·안전 과제 집중 점검",
+    "summary": "LH가 서울 도봉구 방학역 복합지구에서 도심공공주택 사업의 첫 철거 착공식을 개최했으며, 민간 사업보다 8년 이상 빠른 속도로 진행 중이다. 이번 사업은 향후 서울 6개 지구 7,755가구 공급의 출발점으로, 공공주택 사업 활성화에 따른 건설 수주 증가의 기회를 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T01:12:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-05T16:49:03+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "이 대통령 \"시간 걸리겠지만 집값 반드시 안정될 것\" - imnews.imbc.com",
-    "link": "https://imnews.imbc.com/news/2026/politics/article/6855833_36911.html",
-    "description": "이 대통령은 오늘 자신의 엑스를 통해 \"서울과 수도권 주택 건설은 부족한 주택 조기 공급효과 외에 지금 가장 필요한 내수경기(건설경기) 활성화라는 두 가지 효과가 동시에 나타나기 때문에 긴급하고 중요하며 효용성...",
-    "published_at": "2026-10-05T16:35:00+09:00",
-    "cluster_id": "60fd",
-    "publisher": "imnews.imbc.com",
-    "title_clean": "이 대통령 \"시간 걸리겠지만 집값 반드시 안정될 것\"",
-    "summary": "대통령이 서울·수도권 주택 건설 확대를 통해 주택 공급과 건설경기 활성화라는 이중 효과를 강조하며 집값 안정화에 시간이 걸리겠지만 반드시 이루어질 것이라고 밝혔다. 주택 건설 프로젝트 확대로 건설업계의 수주 기회와 내수경기 활성화를 예상할 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-05T16:39:01+09:00",
-    "importance": 2
   }
 ]
