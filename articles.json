@@ -21253,6 +21253,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 정부에 지방 주택시장 정상화 정책 건의 - wikitree.co.kr",
+    "link": "https://www.wikitree.co.kr/articles/1165301",
+    "description": "김병환 대구시 건축주택국장은 “지방 주택시장의 불안과 건설경기의 침체는 수도권 집중에 따른 양극화 심화가, 장기적으로는 국가 경제 전반의 활력을 저해할 우려가 있어 정부 정책에 적극 반영해 주길 바란다”고...",
+    "published_at": "2026-10-11T14:50:00+09:00",
+    "cluster_id": "daf7",
+    "publisher": "wikitree.co.kr",
+    "title_clean": "대구시, 정부에 지방 주택시장 정상화 정책 건의",
+    "summary": "대구시가 지방 주택시장의 침체와 건설경기 부진 해결을 위해 정부에 정책 개선을 건의했습니다. 수도권 집중으로 인한 지역 양극화가 심화되고 있으며, 이는 장기적으로 국가 경제에 부정적 영향을 미칠 수 있다고 지적했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-11T14:52:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32291,21 +32307,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-05T07:07:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "오늘 일한 하루가 내일의 자산으로…건설노동자 퇴직·복지 안전망 확대... - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1697510/?sc=Naver",
-    "description": "공제회는 건설노동자를 대상으로 퇴직공제제도를 운영하고 있다. 전자카드를 활용한 근로내역 관리와 기능등급제, 생활안정과 건강·교육을 위한 복지사업도 맡고 있다. 건설업은 공사가 끝나면 사업장을 옮기는...",
-    "published_at": "2026-10-05T07:01:00+09:00",
-    "cluster_id": "bde5",
-    "publisher": "dailian.co.kr",
-    "title_clean": "오늘 일한 하루가 내일의 자산으로…건설노동자 퇴직·복지 안전망 확대...",
-    "summary": "건설공제회가 건설노동자를 위한 퇴직공제제도와 복지사업을 운영하며 근로내역 관리, 기능등급제, 생활안정·건강·교육 지원 등을 제공하고 있다. 건설업의 특성상 잦은 사업장 이동으로 인한 고용 불안정성에 대응하는 안전망 역할을 하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-05T07:07:41+09:00",
-    "importance": 2
   }
 ]
