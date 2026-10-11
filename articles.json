@@ -5236,6 +5236,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가을 청약시장 활짝…높아진 분양가 변수 - incheonilbo.com",
+    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1333840",
+    "description": "청라국제도시 M5블록에서는 대우건설이 시공하는 '청라 아크원 푸르지오'가 이달 분양에 나선다. 지하 5층~지상 최고 49층, 아파트 868가구와 오피스텔 987실 등 총 1855가구 규모로 아파트에는 분양가상한제가...",
+    "published_at": "2026-10-11T17:56:00+09:00",
+    "cluster_id": "d131",
+    "publisher": "incheonilbo.com",
+    "title_clean": "가을 청약시장 활짝…높아진 분양가 변수",
+    "summary": "청라국제도시 M5블록에서 대우건설이 시공하는 '청라 아크원 푸르지오' 분양이 진행 중이며, 868가구 규모의 대형 프로젝트가 추진되고 있다. 가을 청약시장이 활성화되는 가운데 분양가 상한제 등이 변수로 작용하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-11T17:57:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21215,22 +21231,6 @@
     "publisher": "biz.sbs.co.kr",
     "title_clean": "삼성중공업, LNG선 2척 6천722억원에 수주…올해 20척 달성",
     "summary": "삼Samsung중공업이 아시아 지역 선주로부터 LNG 운반선 2척을 6,722억원에 수주했다. 이를 통해 올해 LNG 운반선 수주 실적이 20척에 도달했으며, 조선업계의 지속적인 수주 호황을 이어가고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T12:31:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, LNG운반선 20척 수주…올해 상선 목표 140% 달성 - onews.tv",
-    "link": "https://www.onews.tv/news/articleView.html?idxno=288426",
-    "description": "삼성중공업이 건조한 LNG 운반선 (사진=삼성중공업 제공) ©열린뉴스통신ONA 삼성중공업이 아시아 지역 선주로부터 액화천연가스(LNG) 운반선 2척을 수주하며 올해 LNG운반선 수주 실적을 20척으로 늘렸다....",
-    "published_at": "2026-10-02T12:22:00+09:00",
-    "cluster_id": "e9e2",
-    "publisher": "onews.tv",
-    "title_clean": "삼성중공업, LNG운반선 20척 수주…올해 상선 목표 140% 달성",
-    "summary": "삼성중공업이 아시아 지역 선주로부터 LNG운반선 2척을 추가 수주하여 올해 LNG운반선 수주 실적을 총 20척으로 달성했다. 이는 올해 상선 목표 140%를 달성한 것으로 조선업계의 실적 호조를 보여준다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T12:31:34+09:00",
     "importance": 2
