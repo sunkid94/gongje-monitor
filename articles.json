@@ -5253,6 +5253,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티 카자흐 발전소 증액분 협의 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=392126",
+    "description": "두산에너빌리티가 카자흐스탄 Shymkent 복합화력발전소 계약의 증액분을 컨소시엄 참여사에 어떻게 배분할지 협의 중이다. 전체 계약액은 증액 변경됐지만 두산에너빌리티에 귀속될 금액은 아직 확정되지 않았다....",
+    "published_at": "2026-10-12T03:28:00+09:00",
+    "cluster_id": "f7f7",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "두산에너빌리티 카자흐 발전소 증액분 협의",
+    "summary": "두산에너빌리티가 카자흐스탄 Shymkent 복합화력발전소 프로젝트의 계약 증액분 배분을 컨소시엄 참여사와 협의 중이다. 전체 계약액은 증액되었으나 두산에너빌리티의 최종 귀속액은 아직 미확정 상태다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T03:32:57+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21232,22 +21248,6 @@
     "publisher": "mt.co.kr",
     "title_clean": "삼성重, LNG 운반선 20척 수주 달성…상선 목표치 140% '순항'",
     "summary": "삼성중공업이 아시아 선주로부터 LNG 운반선 2척을 추가 수주하여 올해 총 20척 수주 달성, 상선 목표치의 140%를 달성했다. 이번 계약은 6722억원 규모로 2029년 5월까지 인도될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T13:32:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, 올해 LNG운반선 20척 수주 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026100213174556194",
-    "description": "삼성중공업이 올해 LNG운반선 20척을 수주하며 주력 선종에서 수주 성과를 이어가고 있다. 삼성중공업은 아시아 지역 선주로부터 LNG운반선 2척을 6722억원에 수주했다고 2일 밝혔다. 선박은 2029년 5월까지 인도할...",
-    "published_at": "2026-10-02T13:17:00+09:00",
-    "cluster_id": "52ff",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "삼성중공업, 올해 LNG운반선 20척 수주",
-    "summary": "삼성중공업이 아시아 지역 선주로부터 LNG운반선 2척을 6722억원에 수주하며 올해 누적 20척 수주 기록을 이어가고 있다. 이는 건설기계 업계의 주력 선종에서 지속적인 수주 성과를 거두고 있음을 보여준다.",
     "sentiment": "positive",
     "collected_at": "2026-10-02T13:32:19+09:00",
     "importance": 2
