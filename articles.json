@@ -21256,6 +21256,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "대구시, 지방 주택시장 맞춤형 처방 정부 건의 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10898824?ref=naver",
+    "description": "김병환 대구시 건축주택국장은 “지방 주택시장의 불안과 건설경기의 침체는 수도권 집중에 따른 양극화 심화, 그리고 장기적으로는 국가 경제 전반의 활력을 저해할 우려가 있어 정부 정책에 적극 반영해 주길 바란다...",
+    "published_at": "2026-10-12T07:34:00+09:00",
+    "cluster_id": "5834",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "대구시, 지방 주택시장 맞춤형 처방 정부 건의",
+    "summary": "대구시가 지방 주택시장의 침체와 건설경기 부진 문제를 정부에 건의했습니다. 수도권 집중으로 인한 양극화 심화가 지방 건설시장 위축을 초래하고 있다며 정책 개선을 촉구했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-12T07:37:38+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "AI 데이터센터 전력난이 기회로…HD현대, '영업이익률 15%' 엔진 키운다 - inews24.com",
     "link": "http://www.inews24.com/view/2012751",
     "description": "건설경기와 금리 변화에 따라 판매량이 움직이는 굴착기·휠로더 등 건설장비와 비교하면 상대적으로 안정적인 수주 기반을 확보할 수 있다. 데이터센터용 발전 엔진과 방산 엔진은 수요처가 다르지만 건설장비...",
@@ -32291,21 +32307,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-05T18:44:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[참사의 재구성에서 내일의 안전으로] ② 안전대책 쏟아졌지만 또 붕괴... - namdonews.com",
-    "link": "https://www.namdonews.com/news/articleView.html?idxno=925256",
-    "description": "국토교통부 건설사고조사위원회가 지난 7월 발표한 조사 결과에서는 광범위한 시공·품질관리 문제가 확인됐다. 설계도서상 철골 트러스 주요 부위는 강재 사이를 용접금속으로 완전히 채우는 완전용입용접 방식으로...",
-    "published_at": "2026-10-05T18:12:00+09:00",
-    "cluster_id": "806f",
-    "publisher": "namdonews.com",
-    "title_clean": "[참사의 재구성에서 내일의 안전으로] ② 안전대책 쏟아졌지만 또 붕괴...",
-    "summary": "국토교통부 건설사고조사위원회가 발표한 조사 결과에서 광범위한 시공·품질관리 문제가 드러났으며, 설계도서상 철골 트러스 주요 부위의 완전용입용접 방식 미준수 등이 확인됐다. 안전대책이 잇따라 발표되었음에도 건설사고가 반복되고 있어 근본적인 개선 필요성이 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-05T18:29:31+09:00",
-    "importance": 4
   }
 ]
