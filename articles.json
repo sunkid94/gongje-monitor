@@ -21236,6 +21236,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "공연‧전시/ 공주시 건설신기술·우수자재 전시회 - dynews.co.kr",
+    "link": "https://www.dynews.co.kr/news/articleView.html?idxno=868868",
+    "description": "［동양일보 유환권］ 공주시 건설신기술·우수자재 전시회 및 직무교육 세미나 = 12일 오전 10시 충남도청 문예회관 공주시 2026 디지털 헤리티지 페스타 = 16~28일 오전 10시 공주 아트센터고마",
+    "published_at": "2026-10-11T18:02:00+09:00",
+    "cluster_id": "64b8",
+    "publisher": "dynews.co.kr",
+    "title_clean": "공연‧전시/ 공주시 건설신기술·우수자재 전시회",
+    "summary": "공주시에서 건설신기술과 우수자재를 소개하는 전시회 및 직무교육 세미나를 개최한다. 12일 충남도청 문예회관에서 진행되며, 동시에 공주 아트센터고마에서는 2026 디지털 헤리티지 페스타가 16~28일 개최된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-11T18:07:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32290,21 +32306,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-05T09:07:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, 이강석 대표이사 공식 취임 \"필요할 경우 전략적 M&A, 투자 추... - fetv.co.kr",
-    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=311242",
-    "description": "취임식에는 정원주 대우건설 회장과 대우건설 노동조합을 비롯한 주요 임직원과 내외빈이 참석했다. 정 회장은 취임식 축사를 통해 \"이강석 대표의 취임을 진심으로 축하하며, 새로운 출발을 맞은 대우건설이 임직원...",
-    "published_at": "2026-10-05T08:58:00+09:00",
-    "cluster_id": "5caf",
-    "publisher": "fetv.co.kr",
-    "title_clean": "대우건설, 이강석 대표이사 공식 취임 \"필요할 경우 전략적 M&A, 투자 추...",
-    "summary": "대우건설이 이강석 신임 대표이사의 공식 취임식을 개최했다. 이강석 대표는 전략적 M&A와 투자를 통해 회사 체질 개선을 추진할 계획을 밝혔다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-05T09:07:42+09:00",
-    "importance": 2
   }
 ]
