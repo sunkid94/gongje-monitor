@@ -21290,6 +21290,22 @@
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
+    "title": "[인사] 국토교통부 - 대한전문건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zTnUwVVc5WW9FOENMdDlGZk5WMi1JUG1RckpYSGtFSzFxa3FHMDBBN21IYkVDNzZjOUJPNU1mbGVRekIxRG5jN1pXejZ2X3NHVW5qemVXbl9jbkhsQlc5TmpfRzdiUndf0gFsQVVfeXFMT1RsWlJyUVJjTGlNT1JUZ2NZWDVvZjhiV2lVczBUUVlHMjV0WmxpQTBFNGFoR3pJUUh1OVpzUy1xbEs4aXBnNEc1ek5Zb3ROUjVxSHZVcms4ZDJxbHJockU1VWdwZ1ZPR2tsOS02?oc=5",
+    "description": "◇국장급 승진=△국토정보정책관 이대섭 △지방시대기획단 국토공간혁신국장 한정희◇과장급 전보=△규제개혁법무담당관 김영아 △건축안전과장 위은환 △토지정책과장 강태석 △모빌리티총괄과장 윤성업 △12.29여객기참사피해자 지원단 기획총괄과장 안재혁 △공공택지조사개발과장 이랑",
+    "published_at": "2026-10-12T09:39:06+09:00",
+    "cluster_id": "ad5b",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[인사] 국토교통부",
+    "summary": "국토교통부가 국장급 2명과 과장급 6명의 인사 이동을 단행했습니다. 국토정보정책관과 지방시대기획단 국토공간혁신국장이 승진했으며, 규제개혁법무담당관, 건축안전과장, 토지정책과장 등이 전보되었습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T12:58:57+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
     "title": "[2026국감]LH 공사현장에 물탄 레미콘 지적…이성훈 사장 \"점검 후 조치... - view.asiae.co.kr",
     "link": "https://view.asiae.co.kr/article/2026101212501389555",
     "description": "김석기 국토교통부 건설정책국장은 \"잔여 레미콘에 대해 폐기를 기본으로 하고 있고 다른 지역에서 사용하기 위해서는 해당 현장에서 건축시방 기준을 충족해야 하는데 관리되지 않는 부분을 철저히 살펴보겠다\"라고...",
@@ -32293,21 +32309,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-06T15:40:25+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설투자 9분기째 감소인데 집값·전셋값은 상승···\"공급 회복이 관건... - enewstoday.co.kr",
-    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477329",
-    "description": "건산연은 최근 건설투자 감소 폭 축소에 대해 지난해 상반기 건설경기가 크게 위축된 데 따른 기저효과의 영향이 큰 것으로 분석했다. 본격적인 건설경기 회복 여부를 판단하기 위해서는 건축착공과 건설기성, 수주...",
-    "published_at": "2026-10-06T15:27:00+09:00",
-    "cluster_id": "6c18",
-    "publisher": "enewstoday.co.kr",
-    "title_clean": "건설투자 9분기째 감소인데 집값·전셋값은 상승···\"공급 회복이 관건...",
-    "summary": "건설투자가 9분기 연속 감소 중이며 기저효과로 감소 폭이 축소되고 있으나, 집값과 전셋값은 여전히 상승하고 있다. 건설경기의 본격적인 회복을 위해서는 건축착공, 건설기성, 수주 등의 지표 개선이 필수적인 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-06T15:40:25+09:00",
-    "importance": 2
   }
 ]
