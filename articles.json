@@ -21270,6 +21270,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부영그룹 무주덕유산리조트,  관광곤도라 주말 예약제 시행 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50391",
+    "description": "[건설이코노미뉴스] 부영그룹 무주덕유산리조트가 가을 단풍 및 겨울 설경 성수기 시즌을 맞아 ‘관광곤도라 주말·공휴일 사전 예약제’를 시행한다.관광곤도라 사전 예약제는 단풍철과 겨울철 성수기 주말 및 공휴일에 관광곤도라 탑승객이 집중되면서 발생하던 장시간 대기 불편을 해소하고, 안전사고 예방과 효율적인 탑승 관리를 위해 시행하고 있다.적용 기간은 매년 10월 1일부터 다음 해 2월 말일까지의 주말 및 공휴일이다. 해당 기간 주말·공휴일에 관광곤도라를 이용하려는 방문객은 사전에 온라인 예약을 완료해야 한다. 평일은 기존과 동일하게 현장",
+    "published_at": "2026-10-12T11:34:37+09:00",
+    "cluster_id": "bfa5",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "부영그룹 무주덕유산리조트,  관광곤도라 주말 예약제 시행",
+    "summary": "부영그룹 무주덕유산리조트가 관광곤도라의 주말·공휴일 사전 예약제를 시행한다. 10월~2월 성수기 주말·공휴일에 예약제를 적용하여 대기 시간 해소와 안전사고 예방을 도모한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T11:36:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "LH, 임대주택 가구당 연 392만원 주거비 절감 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50390",
+    "description": "[건설이코노미뉴스] 한국토지주택공사(LH)는 운영중인 임대주택(건설임대·매입임대·전세임대)이 150만 호를 돌파했으며, 무주택 서민들에게 가구당 연간 약 392만 원의 주거비 절감 효과를 제공하고 있다고 12일 밝혔다.LH 임대주택 재고량은 최근 10년 새 55.5만호가 증가하여 2026년 8월 기준 150만 호를 넘어섰다. 이는 우리나라 10년 이상 장기공공임대주택 전체 재고 195만 호의 77% 수준이다. 또한, 해당 주택에 거주하는 가구원 수는 약 266만 명으로 대구광역시 인구(약 235만명)를 상회하며, 우리나라 전체인구(",
+    "published_at": "2026-10-12T11:33:36+09:00",
+    "cluster_id": "48b0",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "LH, 임대주택 가구당 연 392만원 주거비 절감",
+    "summary": "LH의 임대주택 재고가 150만 호를 돌파했으며, 거주 가구에 연간 392만 원의 주거비 절감 효과를 제공하고 있다. 최근 10년간 55.5만 호가 증가하여 공공임대주택 시장의 77% 수준을 차지하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T11:36:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32276,37 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-06T13:03:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설경기 침체 장기화…레미콘업계, AI·저탄소로 돌파구 - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000338419?division=NAVER",
-    "description": "건설경기 침체가 장기화하면서 중소 레미콘업계가 공공조달과 탄소중립, 인공지능(AI) 대응을 새로운 생존 전략으로 모색하고 있습니다. 한국레미콘공업협동조합연합회는 지난 5일부터 7일까지 제주 메종글래드호텔에서...",
-    "published_at": "2026-10-06T12:43:00+09:00",
-    "cluster_id": "79f8",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "건설경기 침체 장기화…레미콘업계, AI·저탄소로 돌파구",
-    "summary": "건설경기 침체로 어려움을 겪는 중소 레미콘업계가 공공조달, 탄소중립, AI 기술 도입을 통해 경쟁력 확보에 나서고 있습니다. 업계는 저탄소 제품 개발과 디지털 혁신을 새로운 생존 전략으로 추진 중입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-06T12:49:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설 싱가포르 도시철도 현장, 싱가포르 육상교통청 주관 ASAC 안전분야 3개 부문 수상 - intn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuc0phZzdGV2ljV1pISHFzR1IwN2NsN3MyenE4OWtNUEZ1ZzB3aC1vWnhRTHZXQTFZaXJUN0xKS0dERnZPOExfdF9lZUpDY1g2Rm9Lb3ZvTldBXzlmRnRKeFIyYkxSdHpjZ2c?oc=5",
-    "description": "대우건설은 싱가포르 도시철도 CR108(Cross Rail Line 108) 프로젝트가 지난 9월 22일 싱가포르 육상교통청(Land Transport Authority)이 주관하는 2026 ASAC(Annual Safety, Health and Environment Awards Convention)​에서 안전 분야 3개 부문을 수상했다고 6일 밝혔다.CR108 프로젝트는 싱가포르 동부의 파시르리스 환승역(Pasir Ris Interchange Station)과 연결 터널을 설계·시공하는 대형 도시철도 사업으로, 대우건설과 동아지질",
-    "published_at": "2026-10-06T11:16:35+09:00",
-    "cluster_id": "0d3d",
-    "publisher": "intn.co.kr",
-    "title_clean": "대우건설 싱가포르 도시철도 현장, 싱가포르 육상교통청 주관 ASAC 안전분야 3개 부문 수상",
-    "summary": "대우건설이 싱가포르 도시철도 CR108 프로젝트에서 싱가포르 육상교통청 주관 2026 ASAC 안전 분야 3개 부문을 수상했다. 이는 해외 대형 인프라 프로젝트 수행 능력과 안전관리 우수성을 입증하는 성과이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T12:49:02+09:00",
-    "importance": 2
   }
 ]
