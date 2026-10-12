@@ -21389,6 +21389,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 위험요인 뿌리 뽑는다 서초구, 건축공사장 관계자 대상 ‘특별안전교육’ 실시 - 서프라이즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IZjVwTXhjdVJHS3NwT20xTTg0VXpMY1ljVzBaaWxLcldHV0pNOVBPR0gtT0tYbzhQVTZ3RmZTRGZwOFIycldmYWRZZkNoWkk3N09EVWJobWRDbjR0M1RqUXVhT2pDaEd0X0tmaWZ3?oc=5",
+    "description": "[서프라이즈뉴스] 서울 서초구가 오는 14일 오전 9시 서초문화예술회관 아트홀에서 지역 내 건축공사장 관계자를 대상으로 ‘특별안전교육’에 나선다.이번 교육은 건설현장에서 발생하는 산업재해를 예방하고 건축주, 감리자, 시공업체 등 공사 관계자들의 안전관리 역량을 강화하기 위해 마련됐다.교육은 이성청 안전보건공단 서울광역본부 건설안전팀장이 강사로 나서 △건설현장 안전보건 관리체계 구축 △위험성평가의 이해와 개선 방향 △작업계획서 작성·검토 △작업 전 안전점검 및 자율 안전점검 등 현장에서 필수적으로 이행해야 하는 내용을 중심으로 진행한",
+    "published_at": "2026-10-13T06:47:25+09:00",
+    "cluster_id": "7b4f",
+    "publisher": "서프라이즈뉴스",
+    "title_clean": "건설현장 위험요인 뿌리 뽑는다 서초구, 건축공사장 관계자 대상 ‘특별안전교육’ 실시",
+    "summary": "서울 서초구가 건설현장 산업재해 예방을 위해 건축주, 감리자, 시공업체 등을 대상으로 특별안전교육을 실시한다. 안전보건 관리체계 구축, 위험성평가, 작업계획서 작성 등 현장 필수 안전관리 역량 강화에 중점을 둔다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T07:05:21+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32298,22 +32314,6 @@
     "summary": "건설공사 원가 중 외주비가 55.8%를 차지하며 가장 큰 비중을 보이고 있다. 건설경기 부진으로 인한 노임 상승세 둔화가 노무비 비중 축소에 영향을 미친 것으로 분석된다.",
     "sentiment": "negative",
     "collected_at": "2026-10-07T13:15:25+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[DL 인사 전망]① 박상신 부회장 올린 이해욱… 건설 안전·화학 재편 남... - newsclaim.co.kr",
-    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077609",
-    "description": "건설현장 안전 문제로 그룹 총수와 계열사 대표가 잇따라 국회 증인 명단에 올랐다. 올해도 샤힌 프로젝트와 DL건설 현장 사망사고가 발생한 뒤 국감을 앞두고 이해욱 회장의 이름이 증인 후보로 거론됐다. 지난달 말...",
-    "published_at": "2026-10-07T12:56:00+09:00",
-    "cluster_id": "bf2f",
-    "publisher": "newsclaim.co.kr",
-    "title_clean": "[DL 인사 전망]① 박상신 부회장 올린 이해욱… 건설 안전·화학 재편 남...",
-    "summary": "DL 그룹 건설 현장에서 잇따른 사망사고가 발생하면서 이해욱 회장이 국회 증인 명단에 올랐다. 건설업계 안전 문제가 지속적으로 이슈화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T13:05:29+09:00",
     "importance": 4
   }
 ]
