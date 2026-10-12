@@ -21392,6 +21392,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[오늘의 신문] 코스피 6400선 흔들·외국인 의료관광 1.7조원·서울 집값... - kor.theasian.asia",
+    "link": "http://kor.theasian.asia/archives/418293",
+    "description": "SK하이닉스는 청주와 용인의 생산시설 확충을 추진하고 있으며, 14일 개막하는 반도체대전에서도 차세대 메모리 기술이 주요 관심사로 떠오를 전망이다.철강 3사 생산 감축…내년 건설경기 회복 기대 건설경기 침체로...",
+    "published_at": "2026-10-13T08:36:00+09:00",
+    "cluster_id": "350a",
+    "publisher": "kor.theasian.asia",
+    "title_clean": "[오늘의 신문] 코스피 6400선 흔들·외국인 의료관광 1.7조원·서울 집값...",
+    "summary": "SK하이닉스의 생산시설 확충과 차세대 메모리 기술 개발이 진행 중이며, 철강 3사의 생산 감축에도 불구하고 내년 건설경기 회복이 기대되고 있다. 반도체대전 개막으로 산업 전반의 기술 혁신이 주목받을 전망이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-13T08:40:09+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "대기업 탄소배출량 감소율 2.0%로 확대⋯발전•철강 줄고 IT•방산 늘어 - viva100.com",
     "link": "https://www.viva100.com/article/20261013500045",
     "description": "업종별로는 건설경기 부진에 따른 활동 위축 영향으로 건설업의 감소율이 10.2%를 기록해 가장 높았다. 반면 석유화학, 반도체, IT, 방산 등의 분야에서는 배출량이 증가했다. HD현대오일뱅크는 2023년...",
@@ -32299,21 +32315,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-07T13:55:40+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한국소비자원, 인테리어 피해예방주의보 발령 - ccdailynews.com",
-    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2445048",
-    "description": "특히 1500만원 이상인 경우의 공사는 '건설산업기본법' 제9조에 따라 건설업을 등록한 사업자만 시공할 수 있으나 이를 알지 못해 건설업 무등록 사업자와 고액공사를 계약했다가 피해를 본 사례가 확인됐다. 이에...",
-    "published_at": "2026-10-07T13:30:00+09:00",
-    "cluster_id": "206e",
-    "publisher": "ccdailynews.com",
-    "title_clean": "한국소비자원, 인테리어 피해예방주의보 발령",
-    "summary": "한국소비자원이 1500만원 이상 인테리어 공사의 건설업 등록 의무를 모르고 무등록 사업자와 계약한 소비자 피해 사례를 확인하고 주의보를 발령했다. 건설산업기본법상 대규모 공사는 등록 사업자만 시공 가능하나 인식 부족으로 인한 분쟁이 발생하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T13:45:40+09:00",
-    "importance": 4
   }
 ]
