@@ -21389,6 +21389,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 부진에 AI 데이터센터 뜬다…현대제철, H형강 신시장 공략 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=351875",
+    "description": "포스코경영연구원은 국내 철강 수요가 건설경기 침체와 제조업 회복 지연으로 2026~27년에도 4500만t 수준을 회복하기 쉽지 않을 것으로 내다봤다. 특히 중국도 부동산 침체로 건설용 철강 수요가 줄고 있어 공급 과잉과...",
+    "published_at": "2026-10-12T21:25:00+09:00",
+    "cluster_id": "9078",
+    "publisher": "greened.kr",
+    "title_clean": "건설 부진에 AI 데이터센터 뜬다…현대제철, H형강 신시장 공략",
+    "summary": "국내 철강 수요가 건설경기 침체로 2026~27년에도 회복이 어려울 것으로 예상되는 가운데, 현대제철이 AI 데이터센터용 H형강 신시장 공략으로 새로운 수요처를 모색하고 있다. 전통적 건설용 철강 시장의 부진을 극복하기 위한 산업 재편이 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T21:30:35+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 건설업계 \"2차 공공기관 이전 공정하게 추진해야\" - idaegu.co.kr",
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=562104",
+    "description": "그러면서 \"최근 지역 건설산업은 건설경기 침체, 민간투자 위축, 공사 물량 감소 등으로 매우 어려운 여건에 놓여 있다\"며 \"공공기관 이전은 단순한 기관 이전에 그치지 않고 관련 기업과 연구 기관 투자, 업무·상업시설 및...",
+    "published_at": "2026-10-12T21:24:00+09:00",
+    "cluster_id": "5b58",
+    "publisher": "idaegu.co.kr",
+    "title_clean": "대구 건설업계 \"2차 공공기관 이전 공정하게 추진해야\"",
+    "summary": "대구 건설업계가 경기 침체와 공사 물량 감소로 어려움을 겪고 있는 가운데, 2차 공공기관 이전 사업의 공정한 추진을 요구하고 있다. 공공기관 이전이 관련 기업과 연구기관 투자, 업무·상업시설 건설 등을 통해 지역 건설산업 활성화로 이어져야 한다는 입장이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T21:30:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32283,37 +32315,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-07T11:35:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재개발] 방화2구역 재개발, 시공자 찾기 재도전 '박차' - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95689",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」에 따른 토목공사업과 건축공사업 면허를 겸유하거나 토목건축공사업 면허를 보유하고...",
-    "published_at": "2026-10-07T11:18:00+09:00",
-    "cluster_id": "2dd0",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재개발] 방화2구역 재개발, 시공자 찾기 재도전 '박차'",
-    "summary": "방화2구역 재개발 사업이 일반경쟁입찰 방식으로 시공자를 모집하고 있으며, 참여 업체는 토목공사업과 건축공사업 겸유 또는 토목건축공사업 면허 보유가 필수 조건이다. 재도전을 통해 새로운 시공자 발굴을 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-07T11:35:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "위성곤 제주도정 100일 평가 \"조직은 정비했고, 현안은 이제부터\" - mediajeju.com",
-    "link": "https://www.mediajeju.com/news/articleView.html?idxno=366654",
-    "description": "그는 미분양 주택과 건설경기 침체 이야기를 현안으로 꺼냈다. 위 지사는 \"2027년 경제활성화 종합대책을 마련하고 있다\"며 \"관광객이 많이 오더라도 그 소득이 골목상권과 소상공인에게 직접 전달될 수 있는 체계를...",
-    "published_at": "2026-10-07T11:26:00+09:00",
-    "cluster_id": "35f1",
-    "publisher": "mediajeju.com",
-    "title_clean": "위성곤 제주도정 100일 평가 \"조직은 정비했고, 현안은 이제부터\"",
-    "summary": "위성곤 제주도지사가 취임 100일 평가에서 미분양 주택과 건설경기 침체를 주요 현안으로 지적했다. 2027년 경제활성화 종합대책을 추진 중이며 관광수입이 지역 소상공인에게 직접 전달될 수 있는 체계 구축을 강조했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-07T11:35:11+09:00",
-    "importance": 2
   }
 ]
