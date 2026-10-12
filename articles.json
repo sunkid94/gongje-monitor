@@ -21389,6 +21389,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[위기의 강원경제]매출 1년 새 25% 감소…광공업 생산 줄면서 기업 경기... - kwnews.co.kr",
+    "link": "https://www.kwnews.co.kr/article/20261012501345",
+    "description": "중동리스크로 원자재 가격이 크게 오른 데다 최근 건설경기가 얼어붙으면서 생산 주문이 줄어들었기 때문이다. A씨는 “체감상 25% 가량  매출이 줄어든 것 같다”며 “최근 일감이 없어 매출을 못 올리는 업계...",
+    "published_at": "2026-10-13T00:03:00+09:00",
+    "cluster_id": "96d3",
+    "publisher": "kwnews.co.kr",
+    "title_clean": "[위기의 강원경제]매출 1년 새 25% 감소…광공업 생산 줄면서 기업 경기...",
+    "summary": "강원경제가 중동리스크로 인한 원자재 가격 상승과 건설경기 둔화로 어려움을 겪고 있다. 광공업 생산 감소로 기업들의 매출이 1년 새 25% 감소하며 경기 부진이 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T00:10:37+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "“긴밀한 소통과 협력으로 당면 현안 극복” 한 목소리 - kwnews.co.kr",
+    "link": "https://www.kwnews.co.kr/article/20261012501333",
+    "description": "이날 상공인들은 건설경기 침체로 어려움을 겪는 지역업체의 공공사업 참여 확대를 건의했다. 특히 대형 건설공사를 수주한 외지 업체가 지역업체에 저가 하도급을 주는 사례를 지적하며 건축·토목공사 등의 공종별 분리...",
+    "published_at": "2026-10-13T00:02:00+09:00",
+    "cluster_id": "8649",
+    "publisher": "kwnews.co.kr",
+    "title_clean": "“긴밀한 소통과 협력으로 당면 현안 극복” 한 목소리",
+    "summary": "건설경기 침체로 어려움을 겪는 지역업체가 공공사업 참여 확대를 건의했으며, 대형 업체의 저가 하도급 관행을 지적하고 공종별 분리 발주 등의 개선을 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T00:10:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32283,37 +32315,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-07T12:45:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재개발] 1728가구 규모 산수2구역 재개발, 시공자 재입찰 구상... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95688",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」 제9조에 따른 건설업자 또는 「주택법」 제7조제1항에 따라 건설업자로 보는 등록사업자 현설에 참석해 입찰참여안내서를...",
-    "published_at": "2026-10-07T12:26:00+09:00",
-    "cluster_id": "ae4c",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재개발] 1728가구 규모 산수2구역 재개발, 시공자 재입찰 구상...",
-    "summary": "서울 산수2구역 재개발 사업(1,728가구)이 일반경쟁입찰 방식으로 진행되며, 건설업자 등록사업자들의 입찰 참여를 모집하고 있다. 시공자 재입찰을 구상 중인 것으로 보아 사업 진행 단계에서 변동이 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-07T12:35:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "인테리어 소비자 피해 매년 증가···합의는 3건 중 1건만 - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202610071201001",
-    "description": "건설산업기본법에 따르면 1500만원 이상 공사는 건설업 등록을 한 사업자만 시공할 수 있지만, 이를 모르고 건설업 무등록 사업자와 고액 공사를 계약했다가 피해를 본 사례들도 확인됐다. 소비자원은 지난 9월...",
-    "published_at": "2026-10-07T12:01:00+09:00",
-    "cluster_id": "e09b",
-    "publisher": "khan.co.kr",
-    "title_clean": "인테리어 소비자 피해 매년 증가···합의는 3건 중 1건만",
-    "summary": "인테리어 소비자 피해가 매년 증가하고 있으며, 분쟁 발생 시 합의율이 3건 중 1건 수준으로 낮은 것으로 나타났다. 건설업 무등록 사업자와의 계약으로 인한 고액 피해 사례도 확인되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T12:15:14+09:00",
-    "importance": 4
   }
 ]
