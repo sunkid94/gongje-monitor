@@ -21372,6 +21372,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[사이언스게시판] ETRI, 코엑스서 'AI 기반 차세대 미디어 핵심기술 3종... - dongascience.com",
+    "link": "https://www.dongascience.com/news/view/80289",
+    "description": "건설연은 그동안 축적한 구조·지반·스마트건설·에너지·공간정보 등 건설 분야 연구 역량을 국방 분야에 본격적으로 접목한다. 무기체계의 효율적인 운용과 작전 임무의 지속성을 뒷받침하는 군사시설 연구개발(R&D)...",
+    "published_at": "2026-10-12T18:53:00+09:00",
+    "cluster_id": "c551",
+    "publisher": "dongascience.com",
+    "title_clean": "[사이언스게시판] ETRI, 코엑스서 'AI 기반 차세대 미디어 핵심기술 3종...",
+    "summary": "한국건설기술연구원이 구조, 지반, 스마트건설, 에너지, 공간정보 등 축적된 건설 기술을 국방 분야에 적용하여 군사시설 R&D를 추진한다. 건설 기술의 신규 수요처 개척을 통한 시장 확대를 의도한 것으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T19:00:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32295,22 +32311,6 @@
     "publisher": "newspim.com",
     "title_clean": "\"불법 하도급 꼼짝 마\" 국토부, 130명 투입·파파라치 도입해 집중단속",
     "summary": "국토부가 불법 하도급 적발을 위해 130명을 투입하는 집중단속을 실시한다. 단속 기간 중 자진신고 및 위반사항을 시정한 업체에 대해서는 내년 1월 시행 예정인 행정처분 감경 규정을 적용할 방침이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T11:14:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부-공공기관 합동 불법하도급 집중단속 나선다 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10894998?ref=naver",
-    "description": "국토부는 행정처분 감경을 위한 건설산업기본법 시행령이 지난 9월 개정돼 내년 1월 시행 예정임에 따라, 이번 집중단속 기간 중 불법하도급 사실을 자진신고하고 위반사항을 시정한 업체에 대해서도 법 시행 이후...",
-    "published_at": "2026-10-07T11:00:00+09:00",
-    "cluster_id": "3f8b",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "국토부-공공기관 합동 불법하도급 집중단속 나선다",
-    "summary": "국토부가 공공기관과 함께 불법하도급에 대한 집중단속을 추진하며, 내년 1월부터 시행될 건설산업기본법 시행령 개정으로 자진신고 업체에 대한 행정처분 감경 혜택을 제공한다. 이는 불법하도급 관행 적발과 동시에 자발적 시정을 유도하려는 정책.",
     "sentiment": "negative",
     "collected_at": "2026-10-07T11:14:56+09:00",
     "importance": 4
