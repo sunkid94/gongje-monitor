@@ -21372,6 +21372,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[단독] 건설경기 침체에 롯데건설 또 희망퇴직…올해만 두 번째 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hQi1IemZyY19KazVOc0phR2tKWEhvLWVUWV9OZUFkN3ZjZmlJR1p2cTBsQzJoaVV0b3h1b3E1Y0dMaW9ISjE1WDJZY3pObld1LUhKWmdQQThsUzdRY1dr?oc=5",
+    "description": "서울 서초구 잠원동 롯데건설 본사 모습. / 사진 = 뉴스1 제공 건설경기 침체가 긴 수렁에 빠진 가운데 롯데건설이 올해 두 번째 희망퇴직을 실시한다. 지난 4월에 이어 약 6개월 만에 추가 희망퇴직에 나선 것으로, 수석급은 물론 일정 요건을 충족한 대리급 직원까지 신청 대상이다. 12일 건설업계에 따르면 롯데건설은 이날부터 오는 26일까지 정직원을 대상으로 희망퇴직 신청을 받는다. 롯데건설 관계자는 \"인력구조 재편의 일환\"이라며 건설경기 침체에 따른 경쟁력 제고와 인사적체 해소 등을 희망퇴직 시행 배경으로 제시했다. 구체적인 신청",
+    "published_at": "2026-10-12T15:06:23+09:00",
+    "cluster_id": "2d83",
+    "publisher": "MTN 머니투데이방송",
+    "title_clean": "[단독] 건설경기 침체에 롯데건설 또 희망퇴직…올해만 두 번째",
+    "summary": "건설경기 침체 속에서 롯데건설이 올해 두 번째 희망퇴직을 실시한다. 4월에 이어 약 6개월 만에 추가로 진행되며, 인력구조 재편과 경쟁력 제고를 명분으로 수석급과 일정 요건의 대리급까지 신청 대상에 포함했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-12T19:25:21+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32295,22 +32311,6 @@
     "publisher": "dailian.co.kr",
     "title_clean": "국토부, 연말까지 ‘불법하도급 집중단속’…자진신고 시 행정처분 감경",
     "summary": "국토부가 불법하도급 집중단속을 추진하며 자진신고 시 행정처분 감경 제도를 내년 1월부터 시행한다. 이는 건설산업 투명성 강화를 위한 규제 강화 조치로, 업체들의 법규 준수를 강요하는 내용이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T11:14:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 불법하도급 집중 단속… AI 활용 의심·신고 현장 275곳 조사 - biz.chosun.com",
-    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/07/GZIPRREFXNGGPOUVQJ52KD2DL4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "이는 지난 9월 개정된 건설산업기본법 시행령에 따른 조치로, 내년 1월 시행 예정이지만 이번 집중단속 기간에 자진 신고한 업체에도 즉시 소급하여 혜택을 부여할 방침이다. 김이탁 국토부 제1차관은 “불법 하도급...",
-    "published_at": "2026-10-07T11:01:00+09:00",
-    "cluster_id": "f5a5",
-    "publisher": "biz.chosun.com",
-    "title_clean": "국토부, 불법하도급 집중 단속… AI 활용 의심·신고 현장 275곳 조사",
-    "summary": "국토부가 건설산업기본법 시행령 개정에 따라 불법하도급에 대한 집중단속을 실시하고 있으며, AI를 활용해 의심 현장 275곳을 조사 중입니다. 내년 1월 시행 예정이지만 집중단속 기간 자진신고 업체에는 소급 혜택을 부여할 방침입니다.",
     "sentiment": "negative",
     "collected_at": "2026-10-07T11:14:56+09:00",
     "importance": 4
