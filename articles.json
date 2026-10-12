@@ -5372,6 +5372,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“AI데이터센터는 새로운 금광”…가전사도 철강사도 앞으로 - hani.co.kr",
+    "link": "https://www.hani.co.kr/arti/economy/marketing/1282033.html",
+    "description": "두산에너빌리티는 올해 미국에서 대규모 가스터빈 수주를 이어가는 가운데, 지난 6일에는 스페이스엑스(X) 자회사에 공급할 가스터빈을 처음 출하했다. 데이터센터에 24시간 안정적인 대용량 전력을 빠르게 공급할 수...",
+    "published_at": "2026-10-12T18:50:00+09:00",
+    "cluster_id": "bb4a",
+    "publisher": "hani.co.kr",
+    "title_clean": "“AI데이터센터는 새로운 금광”…가전사도 철강사도 앞으로",
+    "summary": "AI 데이터센터 수요 급증에 따라 두산에너빌리티 등 설비·기계 제조사들이 가스터빈 수주를 확대하고 있다. 데이터센터의 안정적 전력 공급 수요가 새로운 시장 기회로 작용하면서 관련 산업의 성장이 전망된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T18:55:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21353,22 +21369,6 @@
     "summary": "중남미 120GW 규모의 풍력발전 확대에 따라 HD현대일렉트릭, 효성중공업, 두산에너빌리티, LS전선 등 한국 전력기자재 제조사들의 수주 기회가 확대될 전망이다. 다만 송전선 구축 병목 등 제약요인이 있는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-05T03:27:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "커피숍만큼 높게… 점점 올라가는 초고가 신축 아파트 천장 - kmib.co.kr",
-    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000019796&cp=nv",
-    "description": "삼성물산과 포스코이앤씨가 맞붙은 당시 수주전에서 포스코이앤씨는 기본 천장고를 약 3m 높이로 제안했다. 한 업계 관계자는 “그 정도면 조금 과장해 (상가인) 커피숍 천장 높이”라고 말했다. 결국 수주를 따낸...",
-    "published_at": "2026-10-05T02:16:00+09:00",
-    "cluster_id": "27d7",
-    "publisher": "kmib.co.kr",
-    "title_clean": "커피숍만큼 높게… 점점 올라가는 초고가 신축 아파트 천장",
-    "summary": "삼성물산과 포스코이앤씨의 수주전에서 포스코이앤씨가 약 3m의 초고 천장고를 제안하며 당선됐다. 신축 초고가 아파트에서 천장고가 커피숍 수준으로 높아지는 추세가 계속되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-05T02:37:37+09:00",
     "importance": 2
   },
   {
