@@ -5389,6 +5389,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[팩트체크] AI 데이터센터 1∼3년 뒤 가동…신규 LNG보다 태양광·ESS가 ... - impacton.net",
+    "link": "https://www.impacton.net/news/articleView.html?idxno=30216",
+    "description": "국내 가스터빈 공급사인 두산에너빌리티 역시 2029년 제작 물량까지 계약을 마친 상태이기 때문에, 신규 물량을 추가로 받기 어려운 상황이다. 설비 조달 문제로 사업 자체가 철회된 사례도 나왔다. 미국...",
+    "published_at": "2026-10-12T20:18:00+09:00",
+    "cluster_id": "dce3",
+    "publisher": "impacton.net",
+    "title_clean": "[팩트체크] AI 데이터센터 1∼3년 뒤 가동…신규 LNG보다 태양광·ESS가 ...",
+    "summary": "AI 데이터센터 구축을 위한 가스터빈 설비 조달이 어려워지고 있으며, 두산에너빌리티는 2029년까지 계약이 마찰된 상태다. 설비 공급 문제로 인해 일부 사업이 철회되는 등 건설·기계설비 업계의 수주 기회가 제한되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-12T20:30:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21373,20 +21389,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "中조선, LNG선 1년 새 5배…'저가·금융·선건조' 총공세 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726671",
-    "description": "국내 조선 3사의 올해 LNG선 수주량은 삼성중공업 20척, HD한국조선해양 18척, 한화오션 8척 등 총 46척이다. 삼성중공업은 지난 2일에도 아시아 지역 선주와 LNG선 2척을 6722억원에 건조하는 계약을 맺었다. 하지만 중국...",
-    "published_at": "2026-10-05T06:02:00+09:00",
-    "cluster_id": "99a1",
-    "publisher": "ebn.co.kr",
-    "title_clean": "中조선, LNG선 1년 새 5배…'저가·금융·선건조' 총공세",
-    "summary": "국내 조선 3사가 올해 총 46척의 LNG선을 수주하며 호실적을 기록했으나, 중국 조선소의 저가·금융·선건조 공세로 인한 수주 경쟁 심화가 우려된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-05T06:12:38+09:00",
-    "importance": 4
+    "title": "이현빈 남동발전 사장, 취임 후 첫 현장 경영…삼천포·고성발전본부 안전관리 실태 점검 - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWXBXMzh6NXpWLXhubGhyVFMtTEdfQ05KNzh6RUF5NkdOV2tCLXhxOGpYeDRRUHBiMTl3SEgyTFNNV0kzZnMyQThxWlhoQ1FkWmJUT0hnUk12TTBOeDFKbnpfRThOTy1qc0tuU01laWx0bjdTWjlBMTM4TkRERUowUXZGbkxTUmdRc3d6eGZHejVLYzBfOXhTdzRpQ1JWdzk0dHRGRXFWMVBna3E3a0NsQWY5d0xNdm12c0lfVmJYd09TUTlzMTVVSThwZGY4RnFvV3BmaXdySGQ1UHM3bmxORUFuMElJWjVaZHVqeGluVERFeFNXRWhUYWpEMTlFSVpHVGp5YjZydnRxdkRlSWc?oc=5",
+    "description": "한국남동발전은 이현빈 사장이 12일 삼천포발전본부와 고성발전본부를 잇달아 방문해 현장 안전경영 활동을 펼쳤다고 밝혔다.이번 현장 방문은 취임 후 첫 현장 일정으로 사업소의 안전관리 체계를 직접 점검하고 안전을 최우선으로 하는 문화를 정착시키겠다는 의지를 담았다.이 사장은 먼저 본부장을 비롯한 실무자들과 간담회를 열어 사업소의 안전 현안과 애로사항을 청취했다",
+    "published_at": "2026-10-12T17:24:00+09:00",
+    "cluster_id": "6a3d",
+    "publisher": "데일리안",
+    "title_clean": "이현빈 남동발전 사장, 취임 후 첫 현장 경영…삼천포·고성발전본부 안전관리 실태 점검",
+    "summary": "이현빈 남동발전 사장이 취임 후 첫 현장 일정으로 삼천포·고성발전본부를 방문하여 안전관리 체계를 점검했다. 사업소의 안전 현안을 청취하고 안전을 최우선으로 하는 문화 정착을 강조했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T20:30:32+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설 신기술",
@@ -32297,22 +32313,6 @@
     "title_clean": "실행 기반 다진 100일 추경호 시장 더 나은 만들기 위해 총력",
     "summary": "추경호 시장이 취임 100일을 맞아 민생경제 회복을 위해 비상경제대책회의를 6차례 운영하며 산업단지 규제 개편, 건설경기 활성화, 주택시장 정상화 등에 총력을 기울이고 있다. 지역경제 현안을 현장 중심으로 해결하겠다는 의지를 드러냈다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-07T11:35:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설경기 침체 속 탄소중립·AI… 중소 레미콘업계 ‘생존 해법’ 모색 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10895449?ref=naver",
-    "description": "장기화된 건설경기 침체로 어려움을 겪고 있는 중소 레미콘업계가 공공조달과 탄소중립, 인공지능(AI) 전환 등 산업환경 변화에 대응하기 위한 생존 전략 마련에 나섰다. 한국레미콘공업협동조합연합회는 지난 5일부터...",
-    "published_at": "2026-10-07T11:17:00+09:00",
-    "cluster_id": "e0d5",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "건설경기 침체 속 탄소중립·AI… 중소 레미콘업계 ‘생존 해법’ 모색",
-    "summary": "장기화된 건설경기 침체로 어려움을 겪는 중소 레미콘업계가 탄소중립, AI 전환, 공공조달 대응 등을 통해 생존 전략을 모색하고 있다. 업계 단체인 한국레미콘공업협동조합연합회가 주도적으로 환경 변화에 대응하기 위한 정책 및 기술 전환에 나섰다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-07T11:35:11+09:00",
     "importance": 2
   }
