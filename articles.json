@@ -21389,6 +21389,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "우수 건설기업, 이젠 규제 아닌 기회로 보답받는다 - 수원일보",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yanRvZUVuLVo2WjhFYThydGVYUzY0b2VwOXBFZGJkTU1pM1dMUGZYUFFBeFZKdExFQmlQWUR4V0hhdG41bU1kTFpCZDdBaHdTcWxBTFlITjJCMEtFWW9oX01VZF9Mdw?oc=5",
+    "description": "경기도, 건설기업 발굴 입찰문화 확산 10개사 선정…실태조사 유예 등 제공",
+    "published_at": "2026-10-12T11:06:07+09:00",
+    "cluster_id": "cb5e",
+    "publisher": "수원일보",
+    "title_clean": "우수 건설기업, 이젠 규제 아닌 기회로 보답받는다",
+    "summary": "경기도가 우수 건설기업 10개사를 선정하여 실태조사 유예 등의 인센티브를 제공하는 정책을 추진 중이다. 이는 기존의 규제 중심에서 벗어나 우수 기업에 대한 보상 체계로의 전환을 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T23:10:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32299,21 +32315,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-07T12:15:14+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "불법하도급 275곳 단속…자진신고 감경은 내년 시행 - vegannews.co.kr",
-    "link": "https://www.vegannews.co.kr/news/article.html?no=391548",
-    "description": "적용 시점은 건설산업기본법 시행령 개정 규정이 시행되는 2027년 1월 23일 이후다. 국토부는 이번 집중단속 기간에 자진신고하고 위반사항을 시정한 업체에 대해서도 법령 시행 이후 진행되는 행정처분 절차에서 감경...",
-    "published_at": "2026-10-07T11:48:00+09:00",
-    "cluster_id": "a7dd",
-    "publisher": "vegannews.co.kr",
-    "title_clean": "불법하도급 275곳 단속…자진신고 감경은 내년 시행",
-    "summary": "국토부가 불법하도급 275곳을 단속하고 2027년 1월부터 자진신고 감경 제도를 시행한다. 건설산업기본법 시행령 개정에 따라 위반사항을 시정한 업체는 이후 행정처분에서 감경 혜택을 받을 수 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T12:05:16+09:00",
-    "importance": 4
   }
 ]
