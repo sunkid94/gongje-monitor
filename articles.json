@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "달램, '2026 한국건설·안전박람회'서 한랭질환 예방 키트 선보여 - 벤처타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mM3pCempfMHJtYTFIUlVkUFhfVmpPOU5CTzlmZXEzYUhvOVlVOHpPanlWT1EwZlMwUUhxbDZTaVVmbE9KNFVhN0hRSlF5SHh3azhZTktHallqalhyak9PWi0tN0daZw?oc=5",
+    "description": "기업 웰니스 전문 브랜드 달램이 오는 10월 14일(수)부터 16일(금)까지 3일간 고양 킨텍스 제1전시장에서 열리는 &#39;2026 한국건설·안전박람회(Korea International Construction & Industrial Safety Expo 2026)&#39;에 참가해, 겨울철 현장 근로자의 건강을 지키는 &#39;한랭질환 예방 키트&#39;를 선보인다.달램 부스는 제1전시장 1·2홀 G073에 마련되며 건설사 안전보건 담당자와 현장 안전관리자, 공공 발주처 안전 담당자를 주요 대상으로 운영된다.달램은 1,300명",
+    "published_at": "2026-10-12T09:00:00+09:00",
+    "cluster_id": "940f",
+    "publisher": "벤처타임즈",
+    "title_clean": "달램, '2026 한국건설·안전박람회'서 한랭질환 예방 키트 선보여",
+    "summary": "기업 웰니스 브랜드 달램이 10월 14-16일 고양 킨텍스에서 열리는 '2026 한국건설·안전박람회'에 참가하여 겨울철 현장 근로자를 위한 한랭질환 예방 키트를 선보인다. 건설사 안전보건 담당자와 현장 안전관리자 등을 대상으로 안전 제품을 홍보할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T14:49:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32293,21 +32309,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-06T17:26:03+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[부동산 분석] 이재명 '주택 공급 속도전' … 검단·계양 빨라지고 인천... - incheonnews.com",
-    "link": "http://www.incheonnews.com/news/articleView.html?idxno=441353",
-    "description": "반대로 미분양 위험을 낮춰 장기간 지연된 사업장이 움직인다면 건설경기와 지역경제에는 긍정적으로 작용할 수 있다. 결국 인천에서는 '얼마나 많이 공급하느냐'보다 '어디에, 얼마나 빨리 공급하느냐'가 중요해질...",
-    "published_at": "2026-10-06T17:02:00+09:00",
-    "cluster_id": "661f",
-    "publisher": "incheonnews.com",
-    "title_clean": "[부동산 분석] 이재명 '주택 공급 속도전' … 검단·계양 빨라지고 인천...",
-    "summary": "이재명 경기지사의 주택 공급 정책으로 검단·계양 등 지연된 사업장들이 활성화되고 있다. 공급 속도 가속화는 미분양 위험 완화로 건설경기와 지역경제에 긍정적 영향을 미칠 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T17:11:03+09:00",
-    "importance": 2
   }
 ]
