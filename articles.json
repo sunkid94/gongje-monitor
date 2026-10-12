@@ -21304,6 +21304,38 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "로봇이 짓고 AI가 관리… 스마트 건설, 국방 새 경쟁력으로 - sisaweek.com",
+    "link": "https://www.sisaweek.com/news/articleView.html?idxno=238311",
+    "description": "건설연은 그동안 구조·지반·스마트건설·에너지·공간정보 등 국내 최고 수준 건설 분야 연구 역량을 축적해왔다. 이를 국방 분야에 본격적으로 접목한다는 계획이다. 또한 무기체계의 효율적인 운용과 작전 임무의...",
+    "published_at": "2026-10-12T16:28:00+09:00",
+    "cluster_id": "e0df",
+    "publisher": "sisaweek.com",
+    "title_clean": "로봇이 짓고 AI가 관리… 스마트 건설, 국방 새 경쟁력으로",
+    "summary": "건설연이 보유한 스마트건설, 구조·지반 등의 연구 역량을 국방 분야에 접목하여 로봇 건설과 AI 관리 기술을 개발한다. 이는 건설 산업의 기술 고도화와 국방 시장 진출이라는 새로운 성장 기회를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T16:35:31+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "철도공단 시설장비사무소, 철도 건설현장 장비차량 안전관리 강화 나선다 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50396",
+    "description": "[건설이코노미뉴스] \"궤도ㆍ전차선 건설장비 특별점검을 통해 장비차량의 위험요인을 사전에 해소하고 철도건설 현장의 안전관리 수준을 한층 높이겠다.\"-<국가철도공단 시설장비사무소 정기연 소장>국가철도공단 시설장비사무소는 철도 건설현장의 장비차량 안전관리 강화와 사고 예방을 위해 10월 13일부터 23일까지 궤도 및 전차선 건설장비 특별 점검을 시행한다고 12일 밝혔다.이번 점검은 ‘인천발 KTX 직결 궤도공사’를 포함해 전국 20개 철도건설 현장에서 운용 중인 장비 차량 60대를 대상으로 하며, 운용 실태를 종합적으로 확인하고 잠재적",
+    "published_at": "2026-10-12T16:34:48+09:00",
+    "cluster_id": "f084",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "철도공단 시설장비사무소, 철도 건설현장 장비차량 안전관리 강화 나선다",
+    "summary": "국가철도공단 시설장비사무소가 10월 13일부터 23일까지 전국 20개 철도건설 현장의 장비차량 60대를 대상으로 안전점검을 실시한다. 궤도·전차선 건설장비의 위험요인을 사전에 파악하고 안전관리 수준을 강화하는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-12T16:35:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32277,38 +32309,6 @@
     "summary": "DL그룹이 협력사들과 공동 연구개발을 통해 기술을 고도화하고 국토교통부 건설신기술 인증을 획득하여 아크로, e편한세상 등 현장에 적용 중입니다. 강남제비스코와도 공동주택 내구성 향상 기술 개발을 지속하고 있어 건설업계 기술혁신과 산업 생태계 조성에 기여하고 있습니다.",
     "sentiment": "positive",
     "collected_at": "2026-10-07T09:12:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[대장간] 불확실성의 시대, 대응력 설계가 중요하다 - snmnews.com",
-    "link": "http://www.snmnews.com/news/articleView.html?idxno=575553",
-    "description": "국내 경제의 성장 전망은 반도체 수출과 설비투자 호조를 반영해 개선되고 있지만, 금속 수요에 가장 직접적인 영향을 미치는 건설경기는 여전히 뚜렷한 회복을 기대하기 어렵다. 지난 9월 초에 KDI는 2027년 한국 경제가 2.2...",
-    "published_at": "2026-10-07T08:22:00+09:00",
-    "cluster_id": "99dd",
-    "publisher": "snmnews.com",
-    "title_clean": "[대장간] 불확실성의 시대, 대응력 설계가 중요하다",
-    "summary": "국내 경제 성장 전망은 반도체 수출과 설비투자 호조로 개선되고 있으나, 금속 수요에 직결되는 건설경기는 여전히 뚜렷한 회복이 어려운 상황이다. 불확실성이 높아진 시대에 대응력 있는 설계와 전략이 중요하다는 점을 강조하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T08:31:39+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[보일러 특집] \"보일러 교체 수요 잡아라\"…귀뚜라미, 렌탈·AI 이어 히트... - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492739",
-    "description": "건설경기 부진으로 신규 주택에 들어가는 보일러 수요가 줄어드는 가운데 노후 보일러 교체 수요가 시장을 떠받치는 모습이다. 여기에 고효율·친환경 제품에 대한 관심이 높아지고 인공지능(AI)과 스마트홈 기술까지...",
-    "published_at": "2026-10-07T08:10:00+09:00",
-    "cluster_id": "c6d0",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "[보일러 특집] \"보일러 교체 수요 잡아라\"…귀뚜라미, 렌탈·AI 이어 히트...",
-    "summary": "건설경기 부진으로 신규 주택 보일러 수요는 감소하지만, 노후 보일러 교체 수요가 시장을 지탱하고 있다. 고효율·친환경 제품과 AI·스마트홈 기술에 대한 관심 증가로 보일러 업계의 새로운 성장 기회가 창출되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T08:16:35+09:00",
     "importance": 2
   }
 ]
