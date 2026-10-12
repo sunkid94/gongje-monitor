@@ -21389,6 +21389,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] Physics AI 기반 3... - magazine.hankyung.com",
+    "link": "https://magazine.hankyung.com/job-joy/article/202610127238d",
+    "description": "심투리얼은 아이템을 인정받아 한국건설기술연구원 스마트건설지원센터 보육기업으로 선정됐다. 스마트건설지원센터는 혁신기술 기반의 스마트 건설 스타트업을 육성, 지원하고 경쟁력을 강화하기 위해 건설산업에...",
+    "published_at": "2026-10-12T21:08:00+09:00",
+    "cluster_id": "b5e8",
+    "publisher": "magazine.hankyung.com",
+    "title_clean": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] Physics AI 기반 3...",
+    "summary": "심투리얼이 Physics AI 기반 기술로 한국건설기술연구원 스마트건설지원센터 보육기업으로 선정되었다. 스마트건설 스타트업 육성을 통해 건설산업의 혁신기술 확산과 경쟁력 강화를 지원하는 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T21:15:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32297,22 +32313,6 @@
     "title_clean": "위성곤 제주도정 100일 평가 \"조직은 정비했고, 현안은 이제부터\"",
     "summary": "위성곤 제주도지사가 취임 100일 평가에서 미분양 주택과 건설경기 침체를 주요 현안으로 지적했다. 2027년 경제활성화 종합대책을 추진 중이며 관광수입이 지역 소상공인에게 직접 전달될 수 있는 체계 구축을 강조했다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-07T11:35:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호 \"경제 살리고 더 나은 대구 만드는 데 집중\" - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261007081000053?input=1195m",
-    "description": "민생경제 회복을 위해 취임 직후부터 비상경제대책회의를 운영하고, 지역 건설경기 활성화와 주택시장 정상화 등 지역 경제 현안을 현장에서 점검하고 구체적인 대응 방안을 마련하기 위해 노력했다. 취임 직후부터...",
-    "published_at": "2026-10-07T11:25:00+09:00",
-    "cluster_id": "7d1c",
-    "publisher": "yna.co.kr",
-    "title_clean": "추경호 \"경제 살리고 더 나은 대구 만드는 데 집중\"",
-    "summary": "추경호 지사가 취임 후 민생경제 회복을 위해 비상경제대책회의를 운영하고 지역 건설경기 활성화, 주택시장 정상화 등에 집중하고 있다. 지역 경제 현안을 현장에서 점검하며 구체적인 대응 방안을 마련 중이다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-07T11:35:11+09:00",
     "importance": 2
   }
