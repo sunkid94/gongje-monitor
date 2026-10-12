@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "전남도회, 영암군과 간담회 개최·지역인재 육성 장학금 500만원 전달 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=326929",
+    "description": "대한전문건설협회 전남도회(회장 강성진)는 12일 영암군청에서 우승희 군수와 간담회를 갖고 지역 전문건설업 활성화와 지역업체 수주 확대 방안을 논의하는 한편, 지역인재 육성을 위한 장학금 500만원을 전달했다.이날 간담회에는 강성진 회장을 비롯해 도회 김부덕 운영위원, 김용선 영암군협의회장, 최인옥 영암군협의회 사무국장, 박오복 영암군협의회 감사, 강문숙 협의회 회원 등이 참석했으며, 영암군에서는 우승희 군수와 최복용 세무회계과장, 이기형 미래교육재단 상임이사, 이미경 미래교육재단 기획운영팀장 등이 함께했다.전남도회는 간담회에 앞서",
+    "published_at": "2026-10-12T17:46:15+09:00",
+    "cluster_id": "400f",
+    "publisher": "대한전문건설신문",
+    "title_clean": "전남도회, 영암군과 간담회 개최·지역인재 육성 장학금 500만원 전달",
+    "summary": "대한전문건설협회 전남도회가 영암군청과 간담회를 개최하고 지역인재 육성을 위해 장학금 500만원을 전달했다. 지역 전문건설업 활성화와 수주 확대 방안을 논의했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T17:52:06+09:00",
+    "event_label": "대한전문건설협회 전남도회 영암군과 간담회 개최 및 장학금 전달",
+    "importance": 5
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "대한건설협회 제주도회・건설공제조합 제주지점, 초록우산에 후원금 1,000만 원 전달 - 제주사회복지신문",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52QmdCTElNcnR1cFVfVFprbWMtNkpBQW5CaGZnbTVSSHMzWW5PSkFUak8yd0daWTFyMWNVX040OHFsSEgtUTJaYkNlVjl4TGRnZG82QXlIdDVJcXJzcFJ6cnZsblFEUDRTZDM5NnJINUI?oc=5",
     "description": "대한건설협회 제주특별자치도회(회장 김기춘)와 건설공제조합 제주지점(지점장 정윤석)은 지난 8일 ‘2026 건설업 상생 발전 공동 행사",
@@ -32296,21 +32313,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-07T11:04:40+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토부 장관 \"수도권 필요 주택 신속 공급할 것\" - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2373733.htm",
-    "description": "건설현장 안전과 불법·불공정 관행 개선도 주요 과제로 제시했다. 홍 장관은 \"국민의 생명과 현장 노동자의 안전만큼은 어떠한 경우에도 타협하지 않겠다\"며 \"사고가 발생한 뒤 수습하는 것이 아니라 사전에 위험을...",
-    "published_at": "2026-10-07T10:52:00+09:00",
-    "cluster_id": "84db",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "국토부 장관 \"수도권 필요 주택 신속 공급할 것\"",
-    "summary": "국토부 장관이 수도권 주택 신속 공급 정책을 추진하겠다고 발표했다. 건설현장 안전 강화와 불법·불공정 관행 개선을 주요 과제로 제시하며 사전 위험 관리를 강조했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T11:04:40+09:00",
-    "importance": 4
   }
 ]
