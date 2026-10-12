@@ -21389,6 +21389,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[패트롤] 경기도-동두천시-양주시-의정부시 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20261012021545238",
+    "description": "이는 규제 중심 건설정책에서 벗어나 우수 건설기업에 기회를 부여하고 건설산업의 지속적인 발전과 건설경기 활성화를 위해 마련됐다. 경기도는 경기도 공공입찰 실태조사에서 1회 이상 적합 판정을 받은 도내...",
+    "published_at": "2026-10-12T21:56:00+09:00",
+    "cluster_id": "7674",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤] 경기도-동두천시-양주시-의정부시",
+    "summary": "경기도와 동두천시, 양주시, 의정부시가 규제 중심 건설정책을 전환하여 우수 건설기업에 기회를 부여하는 정책을 추진 중이다. 공공입찰 실태조사에서 적합 판정을 받은 기업들을 대상으로 건설산업 발전과 경기 활성화를 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T22:00:30+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "충남도, 건설 신기술 공유로 지역산업 경쟁력 강화 - 전국매일신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OMUlVMEJPbVhybGhNdGwyYjR6RFpMQ0NzMFJyUzFURkZoZEk2djJVLXZSanRaR2Z4NU1BWWtZdmZITGxsVU0wdUJyeUVGS1ljSldwSkwtenNQQ1BDOUhuS1lRMmdzLWxzQW5LbQ?oc=5",
+    "description": "충남도가 인공지능(AI)과 스마트 건설기술 등 첨단 기술의 현장 활용을 확대하고 지역 건설산업의 경쟁력을 높이기 위한 기술 교류와 전문교육에 나섰다.충남도는 12일 도청 문예회관에서 한국건설기술인협회, 한국건설교통신기술협회와 공동으로 ‘건설 신기술·우수자재 전시회 및 직무교육 세미나’를 개최했다.이날 행사에는 박수현 충남도지사를 비롯해 도와 시군 관계 공무원, 지역 건설기술인, 건설업계 종사자 등 1천500여 명이 참석했다.행사는 건설산업 관련 정책 홍보영상 상영을 시작으로 유공자 표창, 신기술·우수자재 전시장 관람, 건설기술인 직",
+    "published_at": "2026-10-12T17:03:40+09:00",
+    "cluster_id": "ff38",
+    "publisher": "전국매일신문",
+    "title_clean": "충남도, 건설 신기술 공유로 지역산업 경쟁력 강화",
+    "summary": "충남도가 AI와 스마트 건설기술 등 첨단 기술의 현장 활용 확대를 위해 건설 신기술 전시회 및 직무교육 세미나를 개최했다. 도지사 참석 하에 1,500여 명의 건설산업 관계자들이 참여하여 기술 교류와 전문교육을 통해 지역 건설산업 경쟁력 강화에 나섰다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T22:00:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32282,38 +32314,6 @@
     "summary": "국회 국토교통위원회가 2026년 국정감사를 시작했으며, 국토교통부, 행정중심복합도시건설청, 새만금개발청을 대상으로 진행 중이다. 국토교통 분야 전반에 대한 국회의 감시 및 점검이 시작된 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-07T11:56:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호 \"경제 살리고 더 나은 대구 만드는 데 집중\"(종합) - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261007081051053?input=1195m",
-    "description": "민생경제 회복을 위해 취임 직후부터 비상경제대책회의를 운영하고, 지역 건설경기 활성화와 주택시장 정상화 등 지역 경제 현안을 현장에서 점검하고 구체적인 대응 방안을 마련하기 위해 노력했다. 취임 직후부터...",
-    "published_at": "2026-10-07T11:43:00+09:00",
-    "cluster_id": "a859",
-    "publisher": "yna.co.kr",
-    "title_clean": "추경호 \"경제 살리고 더 나은 대구 만드는 데 집중\"(종합)",
-    "summary": "추경호 장관이 취임 후 민생경제 회복을 위해 비상경제대책회의를 운영하고 지역 건설경기 활성화, 주택시장 정상화 등 지역 경제 현안을 현장에서 점검하며 대응방안을 마련 중이다. 건설경기 활성화를 경제 정책의 주요 의제로 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T11:55:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "“경제부터 살리겠다”… 추경호 대구시장 취임 100일, 하루 평균 3회 소... - naeil.com",
-    "link": "https://www.naeil.com/news/read/604367?ref=naver",
-    "description": "경제 분야에서는 지난 7월부터 비상경제대책회의를 6차례 열어 산업단지 입주업종 규제 개편, 지역 건설경기 활성화, 주택시장 정상화 대책 등을 논의했다. 추석을 앞두고는 중소기업·소상공인을 대상으로 5000억원...",
-    "published_at": "2026-10-07T11:38:00+09:00",
-    "cluster_id": "6987",
-    "publisher": "naeil.com",
-    "title_clean": "“경제부터 살리겠다”… 추경호 대구시장 취임 100일, 하루 평균 3회 소...",
-    "summary": "추경호 대구시장이 취임 100일 동안 경제 살리기에 집중하여 비상경제대책회의 6차례 개최, 산업단지 입주업종 규제 개편, 지역 건설경기 활성화, 주택시장 정상화 대책 등을 추진 중입니다. 중소기업·소상공인 지원으로 5000억원 규모 추석 대책을 시행하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T11:55:05+09:00",
     "importance": 2
   }
 ]
