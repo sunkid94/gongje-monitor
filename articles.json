@@ -21304,6 +21304,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[통하는 충남] 충무훈련 돌입…전시동원태세 실효성 검증 - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202610120201",
+    "description": "건설 신기술·우수자재 공유…지역 경쟁력 강화 충남도가 인공지능(AI)·스마트 건설기술 등 최신 기술과 우수자재를 공유하고 건설기술인의 전문 역량을 높이는 자리를 마련했다. 도는 12일 도청 문예회관에서...",
+    "published_at": "2026-10-12T16:20:00+09:00",
+    "cluster_id": "bf80",
+    "publisher": "kukinews.com",
+    "title_clean": "[통하는 충남] 충무훈련 돌입…전시동원태세 실효성 검증",
+    "summary": "충남도가 도청 문예회관에서 AI·스마트 건설기술 등 최신 기술과 우수자재 공유 행사를 개최했다. 건설기술인의 전문 역량 강화와 지역 건설산업의 경쟁력 강화를 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T16:25:28+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "CM협회·서울지방조달청, CM-발주자 파트너십 데이 개최 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50395",
+    "description": "[건설이코노미뉴스] 한국CM협회(회장 배영휘)와 서울지방조달청(청장 강신면)이 공공 발주기관과 건설사업관리(CM)업체 간 소통을 강화하고 실질적인 협력 기반 구축에 나선다.양 기관은 주요 발주기관과 CM업체 간 직접적인 소통과 교류를 통해 상호 협력방안을 모색하고 실질적인 파트너십을 구축하기 위해 오는 28일 '서울지방조달청과 함께하는 CM-발주자 파트너십 데이'를 개최한다고 밝혔다.이번 행사는 28일 오후 2시 서울지방조달청 별관 3층 PPS홀(서울시 서초구)에서 열린다. 발주기관과 CM업체 간 협력 기반을 강화하고 건설사업의 효",
+    "published_at": "2026-10-12T16:21:32+09:00",
+    "cluster_id": "99f3",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "CM협회·서울지방조달청, CM-발주자 파트너십 데이 개최",
+    "summary": "한국CM협회와 서울지방조달청이 공공 발주기관과 CM업체 간 소통 강화를 위해 'CM-발주자 파트너십 데이'를 28일 개최한다. 발주자와 CM업체의 직접 교류를 통해 협력방안을 모색하고 실질적인 파트너십 구축을 추진한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-12T16:25:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32278,37 +32310,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-07T08:11:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[현대百 M&A 불운] 리바트 편입 14년 역성장 기조…민왕일표 해법은 - news.dealsitetv.com",
-    "link": "https://news.dealsitetv.com/articles/176571",
-    "description": "다만 지난해부터 건설경기 침체로 빌트인 가구 공급 물량이 줄면서 매출이 1조5000억원대로 내려앉았고, 올 상반기까지 역성장 기조가 이어지고 있다. 문제는 외형 확대가 안정적인 이익 성장으로 이어지지 못했다는...",
-    "published_at": "2026-10-07T08:02:00+09:00",
-    "cluster_id": "3099",
-    "publisher": "news.dealsitetv.com",
-    "title_clean": "[현대百 M&A 불운] 리바트 편입 14년 역성장 기조…민왕일표 해법은",
-    "summary": "현대백화점의 리바트 인수 이후 14년간 건설경기 침체로 빌트인 가구 매출이 1조5000억원대로 하락하며 역성장이 지속되고 있다. 외형 확대가 안정적인 이익 성장으로 이어지지 못하면서 M&A 전략의 한계가 드러났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T08:11:32+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[현대百 M&A 불운] 신사업 확장 시기 '엇박자'…지누스에 깊어진 고민 - news.dealsitetv.com",
-    "link": "https://news.dealsitetv.com/articles/176446",
-    "description": "현대에버다임은 편입 초기인 2016~2017년 해외 수주 확대 등에 힘입어 성장했지만 2018년부터 국내 건설경기 침체와 해외 수주 지연 등이 겹치면서 성장세가 한풀 꺾였다. 그나마 기업 복지 플랫폼을 기반으로 상대적으로...",
-    "published_at": "2026-10-07T08:02:00+09:00",
-    "cluster_id": "1e95",
-    "publisher": "news.dealsitetv.com",
-    "title_clean": "[현대百 M&A 불운] 신사업 확장 시기 '엇박자'…지누스에 깊어진 고민",
-    "summary": "현대백화점의 M&A 자회사인 현대에버다임이 편입 초기 성장 후 2018년부터 국내 건설경기 침체와 해외 수주 지연으로 성장세가 둔화되고 있다. 신사업 확장 시기의 엇박자로 인한 경영 어려움이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T08:11:32+09:00",
-    "importance": 4
   }
 ]
