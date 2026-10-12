@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[2026 국감]이개호 의원,“항만공사 통합, 여수광양항 하부조직 전락 우려” - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50393",
+    "description": "[건설이코노미뉴스] 여수광양·부산·인천·울산 등 4개 항만공사를 통합할 경우 여수광양이 독립법인으로서의 지위를 잃고 하부조직으로 전락할 우려가 있다는 지적이 제기됐다. 국회 농림축산식품해양수산위원회 소속 더불어민주당 이개호 의원(전남광주 담양·함평·영광·장성)은 12일 해양수산부 국정감사에서 4개 항만공사 통합 계획이 여수광양항의 독립성과 경쟁력을 훼손할 수 있다고 지적하고, 광양항의 실질적 자율성을 보장할 대책 마련을 촉구했다.정부는 관계부처 합동 발표를 통해 여수광양·부산·인천·울산 등 4개 항만공사를 단일 법인으로 통합하고 핵",
+    "published_at": "2026-10-12T11:48:26+09:00",
+    "cluster_id": "1ec2",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[2026 국감]이개호 의원,“항만공사 통합, 여수광양항 하부조직 전락 우려”",
+    "summary": "이개호 의원이 4개 항만공사(여수광양·부산·인천·울산) 통합 계획이 여수광양항의 독립성과 경쟁력을 훼손할 수 있다고 국감에서 지적했다. 정부의 단일 법인 통합 정책에 대해 광양항의 실질적 자율성 보장을 촉구했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T11:50:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-06T14:25:19+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "정일영·민주당, 포스코 회장·이앤씨 대표 국감 증인 요구 반복되는 안전사고·하자에도 제재 지연 총책임자가 직접 답해야 - 오토투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80a0ptTmk1VW9qZE9hYTNxeXV6LVJXdWM0dmpQdzQ4dWh5Si1hamNjVVdvNVZ4Rl9LaU5WcjVLM2d6ZDA0anFEOEtxaEUwT0RSNjI4Y2VJWVRldzBOdlhuU0N6UmZGaG1DYWNYUjgyNA?oc=5",
-    "description": "6일, 반복되는 포스코이앤씨 건설현장의 안전사고와 장기 미처리 하자, 이에 대한 정부 제재와 관리·감독의 실효성을 따져 묻기 위해 송치영 포스코이앤씨 대표이사와",
-    "published_at": "2026-10-06T14:13:03+09:00",
-    "cluster_id": "9e0c",
-    "publisher": "오토투데이",
-    "title_clean": "정일영·민주당, 포스코 회장·이앤씨 대표 국감 증인 요구 반복되는 안전사고·하자에도 제재 지연 총책임자가 직접 답해야",
-    "summary": "포스코이앤씨의 반복되는 안전사고와 하자 문제로 국회에서 회장·대표이사의 국감 증인을 요구하고 있다. 정부의 제재 지연과 관리·감독의 실효성 문제가 쟁점이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-06T14:25:19+09:00",
-    "importance": 4
   }
 ]
