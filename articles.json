@@ -21389,6 +21389,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이현빈 한국남동발전 사장, 취임 첫 현장경영… 삼천포·고성 안전점검 - 천지일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXVm92cW53aTRsVWY5NkYybWthemlzU0xtb084cnVHZk1LeWxQWDY3VW5NY1dBdjFfTUZXbXB4WktCbHF5MUdyTHJGSVM4a3BEbFZjZTlGZTNRdUVWc000VlpRYlBwYUtIRVE?oc=5",
+    "description": "[천지일보=최혜인 기자] 이현빈 한국남동발전 사장이 취임 후 첫 현장 일정으로 삼천포·고성발전본부를 찾아 발전소 안전관리 체계를 점검했다. 중앙제어실과 건설현장을 직접 둘러보며 고위험 작업 관리실태를 살피고 현장 근로자에게 안전을 최우선 가치로 삼아달라고 당부했다.한국남동발전은 이 사",
+    "published_at": "2026-10-12T23:10:57+09:00",
+    "cluster_id": "1c03",
+    "publisher": "천지일보",
+    "title_clean": "이현빈 한국남동발전 사장, 취임 첫 현장경영… 삼천포·고성 안전점검",
+    "summary": "이현빈 한국남동발전 사장이 취임 후 첫 현장경영으로 삼천포·고성발전본부를 방문하여 발전소 안전관리 체계와 고위험 작업 관리실태를 점검했다. 현장 근로자에게 안전을 최우선 가치로 강조했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T23:30:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설업 규제",
     "category": "정책·규제",
     "is_company": false,
@@ -32299,21 +32315,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-07T12:15:14+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "호반건설, AI 설계로 건설현장 혁신…입주자 선택 옵션 자동 반영 - ppss.kr",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=314293",
-    "description": "호반건설 측은 \"세대별로 다양해지는 옵션 정보를 효율적으로 관리하고, 시공 현장에서 정확하게 반영하는 것이 가능해졌다\"며 \"AI와 BIM 기술을 바탕으로 스마트건설 역량을 꾸준히 강화해 나가겠다\"고 밝혔다.",
-    "published_at": "2026-10-07T12:02:00+09:00",
-    "cluster_id": "20c2",
-    "publisher": "ppss.kr",
-    "title_clean": "호반건설, AI 설계로 건설현장 혁신…입주자 선택 옵션 자동 반영",
-    "summary": "호반건설이 AI와 BIM 기술을 활용하여 입주자 선택 옵션을 자동으로 설계에 반영하는 시스템을 도입했다. 이를 통해 세대별 다양한 옵션 정보를 효율적으로 관리하고 시공 현장에서 정확하게 적용할 수 있게 되어 건설 현장의 스마트화를 실현했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T12:15:14+09:00",
-    "importance": 2
   }
 ]
