@@ -21389,6 +21389,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남동발전 이현빈 사장, 취임 후 첫 현장점검 “안전이 최우선” - 디스커버리뉴스(DISCOVERYNEWS)",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MV015Tm41N1FuVExubng0ZnQ4NFRKbmhEcEY0Q25XUEpfOFFqcWJoV3dwemdTODF5ZnYzeTlfUlhlbzRpZEpRcXA1WFFqTURVUUV5RExEYWdvYVlKZG04YjZBWENfQVFvamRaZTI4WGZUdw?oc=5",
+    "description": "[디스커버리뉴스=강성덕 기자 ecowrite@daum.net]한국남동발전 이현빈 사장이 취임 후 첫 현장경영에 나서 발전소 안전관리 체계를 점검하고 근로자 중심의 안전문화 정착을 강조했다.한국남동발전에 따르면 이 사장은 12일 삼천포발전본부와 고성발전본부를 잇달아 방문해 안전관리 현황을 살피고 현장 근로자들의 의견을 청취했다.이 사장은 각 사업소 관계자들과 간담회를 열어 안전관리 과정에서 발생하는 현안과 애로사항을 확인했다. 이어 중앙제어실을 찾아 24시간 안정적인 전력 공급을 위해 근무하는 직원들을 격려하고, 안전수칙 준수와 발전",
+    "published_at": "2026-10-12T21:22:40+09:00",
+    "cluster_id": "d386",
+    "publisher": "디스커버리뉴스(DISCOVERYNEWS)",
+    "title_clean": "남동발전 이현빈 사장, 취임 후 첫 현장점검 “안전이 최우선”",
+    "summary": "한국남동발전 이현빈 사장이 취임 후 첫 현장점검을 실시하여 삼천포, 고성 발전본부의 안전관리 체계를 점검했다. 근로자 중심의 안전문화 정착과 안전수칙 준수를 강조하며 현장의 의견을 청취했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-12T21:40:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32299,21 +32315,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-07T11:35:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 공공공사 275곳 불법하도급 집중단속…AI로 의심 현장 선별 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2633298",
-    "description": "관련 내용을 담은 건설산업기본법 시행령은 지난달 개정됐으며 내년 1월부터 시행된다. 국토부는 이번 단속 기간 자진신고와 시정을 마친 업체에도 시행령 발효 이후 진행되는 행정처분 절차에서 감경 규정을 적용할...",
-    "published_at": "2026-10-07T11:20:00+09:00",
-    "cluster_id": "ea20",
-    "publisher": "etoday.co.kr",
-    "title_clean": "국토부, 공공공사 275곳 불법하도급 집중단속…AI로 의심 현장 선별",
-    "summary": "국토부가 공공공사 275곳에 대해 불법하도급 집중단속을 실시하며, AI 기술로 의심 현장을 선별한다. 건설산업기본법 시행령이 내년 1월부터 시행되며, 자진신고 업체에는 행정처분 감경 규정을 적용할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T11:35:11+09:00",
-    "importance": 4
   }
 ]
