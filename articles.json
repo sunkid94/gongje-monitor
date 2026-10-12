@@ -21392,6 +21392,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "이현빈 남동발전 사장, 취임 후 첫 현장경영…발전소 안전부터 챙겼다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1FOSGlBSlVkUmt3STdreVRlSHNsMl9NTDB3NzNuaDg3UVBXQlROa0FBVmZBajZNM2dkempIR1pWSE9PTS1pZ2lVOHUzYTdTSmt1Zi1sWFNVNUpDNExrMmR0RElTZGVkY2w2eWkzY0dTVVo4bWp6azlqc09EMjFPNjR1d1kway1YeUE?oc=5",
+    "description": "이현빈 한국남동발전 사장이 취임 후 첫 현장경영 일정으로 발전소를 찾아 안전관리 체계를 점검했다. 전력 생산 현장의 운영 상황을 살피는 동시에 고위험 작업과 협력사 근로자의 안전 문제를 직접 확인하며 현장 중심의 안전경영을 강조했다.13일 한국남동발전에 따르면 이 사장은 전날 삼천포발전",
+    "published_at": "2026-10-13T07:44:07+09:00",
+    "cluster_id": "e028",
+    "publisher": "글로벌이코노믹",
+    "title_clean": "이현빈 남동발전 사장, 취임 후 첫 현장경영…발전소 안전부터 챙겼다",
+    "summary": "이현빈 한국남동발전 사장이 취임 후 첫 현장경영으로 삼천포발전소를 방문하여 안전관리 체계를 점검했다. 발전소 운영 상황과 고위험 작업, 협력사 근로자의 안전 문제를 직접 확인하며 현장 중심의 안전경영을 강조했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-13T08:00:16+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "건설현장 위험요인 뿌리 뽑는다 서초구, 건축공사장 관계자 대상 ‘특별안전교육’ 실시 - 서프라이즈뉴스",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IZjVwTXhjdVJHS3NwT20xTTg0VXpMY1ljVzBaaWxLcldHV0pNOVBPR0gtT0tYbzhQVTZ3RmZTRGZwOFIycldmYWRZZkNoWkk3N09EVWJobWRDbjR0M1RqUXVhT2pDaEd0X0tmaWZ3?oc=5",
     "description": "[서프라이즈뉴스] 서울 서초구가 오는 14일 오전 9시 서초문화예술회관 아트홀에서 지역 내 건축공사장 관계자를 대상으로 ‘특별안전교육’에 나선다.이번 교육은 건설현장에서 발생하는 산업재해를 예방하고 건축주, 감리자, 시공업체 등 공사 관계자들의 안전관리 역량을 강화하기 위해 마련됐다.교육은 이성청 안전보건공단 서울광역본부 건설안전팀장이 강사로 나서 △건설현장 안전보건 관리체계 구축 △위험성평가의 이해와 개선 방향 △작업계획서 작성·검토 △작업 전 안전점검 및 자율 안전점검 등 현장에서 필수적으로 이행해야 하는 내용을 중심으로 진행한",
@@ -32299,21 +32315,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-07T13:15:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설원가 중 외주비 55.8% - naeil.com",
-    "link": "https://www.naeil.com/news/read/604417?ref=naver",
-    "description": "노무비 비중 축소는 건설경기 부진에 따른 노임 상승세 둔화가 영향을 미친 것으로 분석된다. 이번 통계는 건설공사의 원가구조와 변화 추이를 파악할 수 있는 기초자료로서, 향후 건설공사 원가 분석과 공사비 관련...",
-    "published_at": "2026-10-07T13:04:00+09:00",
-    "cluster_id": "34d8",
-    "publisher": "naeil.com",
-    "title_clean": "건설원가 중 외주비 55.8%",
-    "summary": "건설공사 원가 중 외주비가 55.8%를 차지하며 가장 큰 비중을 보이고 있다. 건설경기 부진으로 인한 노임 상승세 둔화가 노무비 비중 축소에 영향을 미친 것으로 분석된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T13:15:25+09:00",
-    "importance": 4
   }
 ]
