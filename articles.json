@@ -5389,6 +5389,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남들 '불황형 흑자' 낼 때…GS건설, 대형사 유일 '외형·수익 동반 하락... - it.chosun.com",
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171821",
+    "description": "현대건설·대우건설은 각각 2024년과 지난해 대규모 손실을 한 번에 반영한 '빅배스'를 단행하기도 했다. 저수익·고위험 사업장을 줄이고 선별 수주 등을 통해 공사비 상승분을 반영할 수 있는 사업을 중심으로...",
+    "published_at": "2026-10-13T06:30:00+09:00",
+    "cluster_id": "e614",
+    "publisher": "it.chosun.com",
+    "title_clean": "남들 '불황형 흑자' 낼 때…GS건설, 대형사 유일 '외형·수익 동반 하락...",
+    "summary": "GS건설이 대형 건설사 중 유일하게 매출과 수익이 동시에 하락한 반면, 현대건설·대우건설 등은 빅배스를 통해 구조 조정을 단행하고 선별 수주로 수익성 개선을 추진 중이다. 건설업계가 저수익·고위험 사업에서 벗어나 수익성 중심의 경영 전환을 이루고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T06:35:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21371,22 +21387,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-05T10:03:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 이강석 대표 공식 취임…“AI·데이터센터 미래사업 키운다” - 포쓰저널",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVnBqSi00Y2pMQzFBRXdJT3pFR2liMU5KUHdTWURsVGhDT1V3UVYzNEw3a3Fnd3hqNTRSVFBOVFNJVXBFNUNEU3JJcWduNV9kS1ZLRldMT1JiT1dEcVYxYlVUR3E?oc=5",
-    "description": "대우건설이 이강석 신임 대표이사 체제를 공식 출범하고 수익성 중심의 내실 경영과 미래 성장동력 확보에 속도를 낸다.상반기 영업이익이 두 배 이상 늘어난 가운데 양질의 수주와 재무건전성 강화를 이어가는 동시에 AI(인공지능) 인프라와 데이터센터, 로보틱스 등 신사업을 확대하고 해외 LNG·플랜트 시장 공략도 강화한다.대우건설은 지난 2일 주주총회와 이사회를 거쳐 이강석 대표이사를 공식 선임하고 서울 을지로 본사 푸르지오 아트홀에서 취임식을 열었다고 5일 밝혔다.취임식에는 정원주 회장과 노동조합을 비롯한 주요 임직원과 내외빈이 참석했다",
-    "published_at": "2026-10-05T09:41:53+09:00",
-    "cluster_id": "7a42",
-    "publisher": "포쓰저널",
-    "title_clean": "대우건설 이강석 대표 공식 취임…“AI·데이터센터 미래사업 키운다”",
-    "summary": "대우건설이 이강석 신임 대표 체제를 출범하고 상반기 영업이익 증가에 힘입어 수익성 중심 경영을 추진한다. AI 인프라, 데이터센터, 로보틱스 등 신사업 확대와 해외 LNG·플랜트 시장 강화를 통해 미래 성장동력을 확보할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-05T09:48:12+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
