@@ -21355,6 +21355,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국가철도공단, 철도 건설장비 60대 특별점검… 현장 안전관리 강화 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mVEgzU3Y4VDhUSWowQ191QVRjTzhyT3dzOUdVbDM1Y2hycHZmbmdvYkhkcER3TmFHVTVBNkdQWC1GRHBSQkpuODEtcEhYZ0kxb1RCdzJtblpaQUw1VzlKN3NhTQ?oc=5",
+    "description": "[국토일보 김현재 기자] 국가철도공단이 철도 건설현장의 장비차량 안전사고 예방을 위해 전국 20개 현장을 대상으로 특별점검에 나선다.철도공단 시설장비사무소는 오는 13일부터 23일까지 궤도 및 전차선 건설장비의 운용 실태를 집중 점검한다고 오늘(12일) 밝혔다.점검 대상은 ‘인천발 KTX 직결 궤도공사’를 비롯한 전국 20개 철도건설 현장에서 운용 중인 장비차량 60대다. 공단은 장비 운용 과정의 잠재적 위험요인을 사전에 파악하고 안전관리 실태를 확인할 계획이다.주요 점검 항목은 장비차량 운용·관리 상태와 철도안전관리체계 준수 여부",
+    "published_at": "2026-10-12T17:53:19+09:00",
+    "cluster_id": "b44b",
+    "publisher": "국토일보",
+    "title_clean": "국가철도공단, 철도 건설장비 60대 특별점검… 현장 안전관리 강화",
+    "summary": "국가철도공단이 전국 20개 철도건설 현장의 장비차량 60대에 대해 13~23일 특별점검을 실시한다. 궤도 및 전차선 건설장비의 운용 실태와 안전관리 체계 준수 여부를 집중 점검하여 건설현장 안전사고를 예방할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-12T18:10:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32297,21 +32313,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-07T11:14:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구 생산·수출 살아났지만 소비·건설 ‘찬바람’…경북은 생산·고용... - kbmaeil.com",
-    "link": "https://www.kbmaeil.com/article/20261007500183",
-    "description": "건설경기 위축은 더욱 두드러졌다. 건축착공면적은 전년 동월보다 60.2%, 건축허가면적은 58.1% 각각 감소했다. 미분양 주택은 4162가구로 전월보다 116가구 줄었다. 설비투자 지표인 기계류 수입도 2.1% 감소했고 9월...",
-    "published_at": "2026-10-07T10:56:00+09:00",
-    "cluster_id": "1711",
-    "publisher": "kbmaeil.com",
-    "title_clean": "대구 생산·수출 살아났지만 소비·건설 ‘찬바람’…경북은 생산·고용...",
-    "summary": "대구지역 생산·수출은 회복세를 보이나 건축착공과 허가가 60% 이상 급감하며 건설경기 위축이 심각합니다. 설비투자 지표인 기계류 수입도 감소하면서 건설업계 전반적으로 부정적 신호가 나타나고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T11:04:40+09:00",
-    "importance": 4
   }
 ]
