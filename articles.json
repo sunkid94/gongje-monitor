@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "이상일 용인특례시장, 반도체 건설근로자 숙소 공급 위해 PF 규제 완화 건의 - www.skedaily.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1melpzTGNaQVJhQTdVZ09RVVN2RUlpSkU2SGtra1VCWXlKRHJXeW9fV3Nwbm9za2ZzTFROTXQ2c3E0bXRhUURxVmlsa1BseGVNbnhNWV9BU3lYMl9NZ01iYzZVWVRDVzFEQ1E?oc=5",
+    "description": "이상일 용인특례시장이 반도체클러스터 건설 현장에 투입되는 근로자들의 숙소를 제때 확보하기 위해 정부에 부동산 프로젝트파이낸싱(PF) 규제 완화를 건의했다.용인특례",
+    "published_at": "2026-10-13T19:02:08+09:00",
+    "cluster_id": "59f1",
+    "publisher": "www.skedaily.com",
+    "title_clean": "이상일 용인특례시장, 반도체 건설근로자 숙소 공급 위해 PF 규제 완화 건의",
+    "summary": "이상일 용인특례시장이 반도체클러스터 건설 현장의 근로자 숙소 공급을 위해 정부에 PF 규제 완화를 건의했다. 이는 건설 프로젝트 추진의 유연성을 높이고 건설근로자 수급을 원활하게 하려는 취지이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T08:29:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32303,21 +32319,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T10:14:31+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "AI 반도체 시대, 기계설비 통한 에너지 효율·운영 안정성 확보가 관건 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52203",
-    "description": "슈나이더 일렉트릭이 AI 반도체 수요 확대에 따라 열·전력 사용이 급격하게 증가하면서 이를 뒷받침할 기계설비의 역할과 중요성에 대해 강조했다.슈나이더 일렉트릭은 8일 전력·냉각·자동화와 데이터 기반 운영을 아우르는 통합 AI 팩토리 인프라 구축 방향을 제시했다.슈나이더 일렉트릭이 내세운 에너지 효율·운영 안정성 확보 방안에는 ‘기계설비’의 정밀 제어가 우선시됐다. 반도체 제조공장에서 안정적인 전력 공급은 생산의 기본 조건이 되는데, 이때 에너지 효율과 유지보수 중에도 가동을 이어갈 수 있는 운영 연속성을 고려한 고효율 기계설비의 적",
-    "published_at": "2026-10-08T09:27:36+09:00",
-    "cluster_id": "bf1f",
-    "publisher": "기계설비신문",
-    "title_clean": "AI 반도체 시대, 기계설비 통한 에너지 효율·운영 안정성 확보가 관건",
-    "summary": "AI 반도체 수요 증가에 따른 에너지 소비 확대로 고효율 기계설비의 중요성이 대두되고 있다. 슈나이더 일렉트릭이 전력·냉각·자동화를 통합한 AI 팩토리 인프라 구축 방향을 제시하며 정밀 제어 기계설비의 역할을 강조했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T10:14:31+09:00",
-    "importance": 2
   }
 ]
