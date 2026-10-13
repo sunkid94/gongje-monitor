@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "이상일 용인시장, 반도체 건설근로자 숙소 공급 위한 PF 규제 완화 건의 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhWlV6bGcwT1FLLVI0bEVhckZtQ3cwdnVFd3RxUjRqN013T1BzRnlTYWtUWHpZY2N3cUFuQl95YzdkZ1J1SjJJeklIQnQwWklkUllIeUIzNlkxU3Nnd0xEVkNPLVg?oc=5",
+    "description": "매일일보 = 김길수 기자 | 이상일 용인특례시장은 13일 이억원 금융위원장에게 서한문을 보내 용인 반도체 클러스터 건설근로자들의 숙소로 활용될 임대형 기숙사 등",
+    "published_at": "2026-10-13T17:23:49+09:00",
+    "cluster_id": "5c40",
+    "publisher": "매일일보",
+    "title_clean": "이상일 용인시장, 반도체 건설근로자 숙소 공급 위한 PF 규제 완화 건의",
+    "summary": "이상일 용인시장이 반도체 클러스터 건설근로자 숙소 공급을 위해 금융위원장에게 PF 규제 완화를 건의했다. 임대형 기숙사 등 숙소 공급 프로젝트의 자금 조달 애로를 해결하기 위한 규제 완화 요청이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-13T17:30:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32302,22 +32318,6 @@
     "summary": "HL D&I한라는 건설경기 불확실성 속에서도 신규사업 사전검토, 원가관리 등을 통해 안정적인 수익성을 확보했다. 수익성, 브랜드, 기술혁신을 바탕으로 미래 성장을 가속화하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T05:35:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "박용진 “부처간 꼬여있는 규제, 풀려면 ‘차르’ 필요” - joongang.co.kr",
-    "link": "https://www.joongang.co.kr/article/25468026",
-    "description": "농지 위에 반도체 공장을 짓다 보니 건설 노동자들은 공장을 지을 때마다 임시 숙소를 짓고, 공장이 완공되면 숙소를 헐어야 한다는 것이다. 그는 “농지법상 주거지를 만들 수 없으니 관청에선 임시로 숙소 건설 허가...",
-    "published_at": "2026-10-08T00:22:00+09:00",
-    "cluster_id": "e067",
-    "publisher": "joongang.co.kr",
-    "title_clean": "박용진 “부처간 꼬여있는 규제, 풀려면 ‘차르’ 필요”",
-    "summary": "박용진 의원이 농지 위 반도체 공장 건설 시 임시 숙소 건설·철거 반복으로 인한 비효율성을 지적하며, 부처 간 규제 조율을 위한 강력한 조정 권한의 필요성을 제기했다. 농지법과 건설 관련 규제 간 충돌로 인한 건설업계의 애로사항을 국회 차원에서 조명하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T00:36:22+09:00",
     "importance": 2
   }
 ]
