@@ -21440,6 +21440,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "철광석값 2년래 최저, 철강은 제자리 - naeil.com",
+    "link": "https://www.naeil.com/news/read/604868?ref=naver",
+    "description": "원료값은 오르는데 건설경기 부진으로 철근 가격을 올리지 못하면 마진은 줄어들 수밖에 없다. 결국 국내 철강사들은 원료측면에서 고로는 ‘유리’, 전기로는 ‘불리’한 상황이지만 양쪽 모두 수요부진이라는...",
+    "published_at": "2026-10-13T13:04:00+09:00",
+    "cluster_id": "bbfd",
+    "publisher": "naeil.com",
+    "title_clean": "철광석값 2년래 최저, 철강은 제자리",
+    "summary": "철광석 가격이 2년래 최저수준으로 내려갔으나 건설경기 부진으로 철강재 가격을 인상하지 못하면서 철강사들의 수익성이 악화되는 상황이다. 고로와 전기로 모두 원료 측면의 차이가 있지만 근본적으로 수요 부진이 공통된 문제다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T13:10:31+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "DL이앤씨 크레인 사망사고 “하루 만에 설치 관행 멈춰야” - 매일노동뉴스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdVg4Z3VnNnhLeHFhZTMtWV9QMjhBdTMxM0o0aU1salFCUjNWU3RFYWlrZDYwdlpPTHU2OWQ0YXZDZ0RBRkM1YldfanRCTXFpY2JTcDhJUUJPUHhhWUt5Q0tGQTc4b2hpWXZ2aHNZdm8?oc=5",
+    "description": "DL이앤씨가 시공하는 건설공사 현장에서 타워크레인 노동자가 숨지자 설치기간을 과도하게 줄이는 관행이 안전절차 생략으로 이어졌다는 의혹이 제기됐다. 건설노조 타워크레인분과위와 한국타워크레인조종사노조 등이 참여한 타워크레인 범국민대책위원회는 12일 오전 청와대 사랑채 앞에서 기자회견을 열고 “정부는 일정 압박이 조립절차와 안전절차 생략으로",
+    "published_at": "2026-10-13T06:30:04+09:00",
+    "cluster_id": "efe7",
+    "publisher": "매일노동뉴스",
+    "title_clean": "DL이앤씨 크레인 사망사고 “하루 만에 설치 관행 멈춰야”",
+    "summary": "DL이앤씨 건설현장에서 타워크레인 노동자 사망사고가 발생했으며, 과도한 설치기간 단축으로 인한 안전절차 생략이 원인으로 지적되고 있다. 건설노조와 타워크레인조종사노조 등이 대책위를 구성하여 정부에 규제 강화를 요구하는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T13:10:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32285,38 +32317,6 @@
     "summary": "경북도의회 건설소방위원회가 지역 건설경기 활성화와 산불 대응체계 강화를 주문하며 건설도시국과 소방본부의 결산 및 예비비 지출 승인안을 심사·가결했다. 지역 건설경기 활성화 추진 의지를 나타내는 행정 회의 결과이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-07T16:45:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "홍지선 국토장관 “불법하도급·공사대금 체불, 제도 개선·점검으로 바로잡겠다” - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326860",
-    "description": "홍지선 국토교통부 장관이 불법하도급과 공사대금 체불 등 건설현장의 불법·불공정 관행을 제도 개선과 현장 점검을 통해 바로잡겠다는 뜻을 밝혔다.홍 장관은 7일 국회 국토교통위원회의 국토교통부 국정감사에 출석해 “불법하도급과 공사대금 체불 등 건설현장의 불법·불공정 관행도 제도 개선과 점검을 통해 바로잡겠다”고 말했다.이어 건설현장 안전과 관련해서는 “국민의 생명과 현장 노동자의 안전만큼은 어떠한 경우에도 타협하지 않겠다”며 “부실시공을 차단하고 해체공사 전 과정의 안전관리체계를 정비해 사전에 위험을 차단하는 체계로 바꾸겠다”고 강조했",
-    "published_at": "2026-10-07T16:27:58+09:00",
-    "cluster_id": "60df",
-    "publisher": "대한전문건설신문",
-    "title_clean": "홍지선 국토장관 “불법하도급·공사대금 체불, 제도 개선·점검으로 바로잡겠다”",
-    "summary": "홍지선 국토교통부 장관이 불법하도급·공사대금 체불 등 건설현장의 불법·불공정 관행을 제도 개선과 점검으로 개선하겠다고 밝혔다. 건설현장 안전을 최우선으로 하여 부실시공 차단과 해체공사 안전관리체계 정비를 강조했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T16:36:07+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "다음달 건근공 '대수술' 밑그림 나온다…조직 재설계·인력 재배치 추진 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=04644486645610624&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "이 계획은 건설경기 위축과 청년층 취업 기피 등 구조적 문제를 해결하기 위한 4대 핵심 추진과제를 제시하고 있다. 4대 핵심 추진과제는 △신규 인력 유입 및 성장 지원 △숙련 기능인력 양성 및 지원체계 강화...",
-    "published_at": "2026-10-07T16:24:00+09:00",
-    "cluster_id": "5448",
-    "publisher": "edaily.co.kr",
-    "title_clean": "다음달 건근공 '대수술' 밑그림 나온다…조직 재설계·인력 재배치 추진",
-    "summary": "건설업계의 구조적 문제 해결을 위해 다음달 조직 재설계 및 인력 재배치 등 대수술을 추진한다. 신규 인력 유입, 숙련 기능인력 양성 등 4대 핵심 과제를 통해 건설경기 위축과 청년층 취업 기피 문제 해결을 도모하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-07T16:35:26+09:00",
     "importance": 2
   }
 ]
