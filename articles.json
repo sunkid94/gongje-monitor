@@ -21457,6 +21457,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "사고 터진 뒤 수습은 옛말…건설 현장 '안전 선제 대응' - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261013010003638",
+    "description": "신고 포상금 상한 폐지와 행정처분 강화에 이어 국토교통부 장관의 직접 처분, 자진신고 시 처분 감경 근거 등을 담은 건설산업기본법 시행령 개정안도 마련했다. 개정 시행령은 내년 1월 23일부터 시행된다.다만 개별...",
+    "published_at": "2026-10-13T15:32:00+09:00",
+    "cluster_id": "5440",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "사고 터진 뒤 수습은 옛말…건설 현장 '안전 선제 대응'",
+    "summary": "국토교통부가 건설 현장의 안전사고 예방을 위해 신고 포상금 상한 폐지, 행정처분 강화, 자진신고 감경 등의 건설산업기본법 시행령 개정안을 마련했다. 2025년 1월 23일부터 시행될 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T15:39:52+09:00",
+    "importance": 5
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대한전문건설협회 충북도회 가족 700여 명 청남대서 화합 다져 - jbnews.com",
+    "link": "https://www.jbnews.com/news/articleView.html?idxno=1513374",
+    "description": "이번 행사는 건설경기 침체와 어려운 현장 여건 속에서도 지역 건설산업 발전에 힘써 온 전문건설인들을 격려하고 회원사 간 소통과 화합을 다지기 위해 마련됐다. 이날 행사에는 윤학수 대한전문건설협회 중앙회장을...",
+    "published_at": "2026-10-13T15:36:00+09:00",
+    "cluster_id": "9b05",
+    "publisher": "jbnews.com",
+    "title_clean": "대한전문건설협회 충북도회 가족 700여 명 청남대서 화합 다져",
+    "summary": "대한전문건설협회 충북도회가 건설경기 침체 속에서 전문건설인들을 격려하고 회원사 간 소통과 화합을 도모하기 위해 청남대에서 700여 명이 참석한 가족 행사를 개최했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-13T15:39:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32286,38 +32318,6 @@
     "summary": "현대건설이 데이터 기반 도시설계로 '미래 도시' 구현을 추진 중이며, 전문가들은 기존 도시의 교통 혼잡 해결을 위해 공중 이동수단 도입의 필요성을 제기하고 있다. 이를 위해서는 이착륙장과 공중 노선의 체계적 계획이 필수적이라고 지적했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-07T19:15:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[경제 오딧세이]\"AI로 건설산업의 날개를 달자\"...건정연 개원 20주년 세... - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110823",
-    "description": "건정연에서도 AI와 스마트건설이 바꾸는 전문건설업의 미래에 대해 주제 발표를 했죠? - 김태준 건정연 신성장전략연구실장은 주제발표에서 2027년에는 인간 수준의 강인공지능(AGI)에 도달할 것이라고 전망했습니다. \"이...",
-    "published_at": "2026-10-07T19:00:00+09:00",
-    "cluster_id": "a6d1",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "[경제 오딧세이]\"AI로 건설산업의 날개를 달자\"...건정연 개원 20주년 세...",
-    "summary": "건정연이 개원 20주년을 맞아 AI와 스마트건설이 전문건설업의 미래를 어떻게 변화시킬지에 대한 주제발표를 진행했다. 2027년 인간 수준의 강인공지능(AGI) 도달을 전망하며 건설산업의 디지털 혁신 방향을 제시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T19:15:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호 대구시장 취임 100일…민생 회복·미래산업 기반 다져 - kyongbuk.co.kr",
-    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086561",
-    "description": "이를 위해 지난 7월 9일부터 비상경제대책회의를 6차례 운영하며 △산업단지 입주업종 규제 개편 △지역 건설경기 활성화 △창업생태계 조성 △민생 활력 제고 △주택시장 정상화 등 지역경제 현안이자, 숙원을 현장에서...",
-    "published_at": "2026-10-07T18:48:00+09:00",
-    "cluster_id": "a795",
-    "publisher": "kyongbuk.co.kr",
-    "title_clean": "추경호 대구시장 취임 100일…민생 회복·미래산업 기반 다져",
-    "summary": "추경호 대구시장이 취임 100일을 맞아 산업단지 입주업종 규제 개편, 지역 건설경기 활성화, 창업생태계 조성 등을 추진 중이다. 비상경제대책회의를 통해 지역경제 현안과 숙원 해결에 나서고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T19:05:30+09:00",
     "importance": 2
   }
 ]
