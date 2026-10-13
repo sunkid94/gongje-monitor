@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천대 개발 ‘폭염 위험 예측 AI’, 삼성전자 반도체 건설현장에 적용 - 쓰담미디어",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCbnpNSXZVRVNoMkpPblhwQ3p6RV9rVGxzMURIbHF0WHk3SktYWVFFS3Fuc085eTQtX1ZpbUp4Nm9jcnhJa0d1VmpYOWFIaUMxcFhKVnI5RDdzVEVSMllseFFZMnRRZkk?oc=5",
+    "description": "인천대학교 연구진이 개발한 인공지능(AI) 기반 폭염 위험 예측 기술이 삼성전자 반도체 건설현장에 적용되고 있다.인천대학교는 최근 ‘건설안전보건 AI연구센터(AI",
+    "published_at": "2026-10-13T16:14:49+09:00",
+    "cluster_id": "5c55",
+    "publisher": "쓰담미디어",
+    "title_clean": "인천대 개발 ‘폭염 위험 예측 AI’, 삼성전자 반도체 건설현장에 적용",
+    "summary": "인천대학교가 개발한 AI 기반 폭염 위험 예측 기술이 삼성전자 반도체 건설현장에 적용되고 있다. 이 기술은 건설현장의 안전성 향상과 근로자 건강 관리에 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-13T22:00:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32302,22 +32318,6 @@
     "summary": "현대엔지니어링이 재생에너지 변동성에 대응하는 하이브리드 수전해 기술을 개발했으며, HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 중심으로 수소, SMR, SAF, 핵융합 등 미래 성장동력 기술 개발을 진행 중이다. 건설업체의 신기술 개발과 미래 시장 진출 전략을 보여주는 긍정적 사례이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T09:44:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LG전자, 이익 전망 낮췄는데 목표가는 상향…2027년 가치로 시선 이동 - sateconomy.co.kr",
-    "link": "https://sateconomy.co.kr/news/view/1065571765190097",
-    "description": "ES사업본부도 국내 건설경기 부진으로 에어컨 판매가 기대보다 약했던 것으로 DB증권은 분석했다. 목표주가 상향의 또 다른 근거는 AI 데이터센터 냉각사업이다. DB증권은 LG전자의 AI 데이터센터용 칠러 수주액이...",
-    "published_at": "2026-10-08T09:20:00+09:00",
-    "cluster_id": "bcd9",
-    "publisher": "sateconomy.co.kr",
-    "title_clean": "LG전자, 이익 전망 낮췄는데 목표가는 상향…2027년 가치로 시선 이동",
-    "summary": "LG전자가 단기 이익 전망을 낮췄으나 AI 데이터센터 냉각사업 성장성을 바탕으로 2027년 목표가를 상향했다. 국내 건설경기 부진으로 에어컨 판매가 부진했지만, 향후 고부가가치 데이터센터 칠러 사업에 집중하는 전략으로의 전환을 시사한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T09:34:34+09:00",
     "importance": 2
   }
 ]
