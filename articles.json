@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "서한, 신규 주거 브랜드 '아르엘' 론칭 - idaegu.co.kr",
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=562230",
+    "description": "특히 지난해에는 건설경기 침체가 이어지는 어려운 여건 속에서도 창사 이래 최대 규모인 1조 6천24억원의 수주 실적을 달성하며 탄탄한 사업 수행 역량과 시장 대응력을 입증했다. 김병준 서한 전무이사는 \"신규...",
+    "published_at": "2026-10-13T21:34:00+09:00",
+    "cluster_id": "7a36",
+    "publisher": "idaegu.co.kr",
+    "title_clean": "서한, 신규 주거 브랜드 '아르엘' 론칭",
+    "summary": "서한이 건설경기 침체 속에서도 창사 이래 최대 규모인 1조 6천24억원의 수주 실적을 달성했다. 신규 주거 브랜드 '아르엘'을 론칭하며 시장 대응력을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-13T21:39:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32301,22 +32317,6 @@
     "title_clean": "LG전자, 이익 전망 낮췄는데 목표가는 상향…2027년 가치로 시선 이동",
     "summary": "LG전자가 단기 이익 전망을 낮췄으나 AI 데이터센터 냉각사업 성장성을 바탕으로 2027년 목표가를 상향했다. 국내 건설경기 부진으로 에어컨 판매가 부진했지만, 향후 고부가가치 데이터센터 칠러 사업에 집중하는 전략으로의 전환을 시사한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-08T09:34:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[인물] 추경호 대구시장 취임 100일…'일하는 시정' 앞세워 대구 변화 시... - startuptoday.co.kr",
-    "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815309",
-    "description": "지역 산업구조 전환과 민생경제 회복을 주요 의제로 삼고 건설경기와 주택시장, 중소기업·소상공인 지원, 소비 활성화 등 현안별 대응책 마련에 나섰다. 비상경제대책회의에는 공무원뿐 아니라 기업과 경제단체, 학계 및...",
-    "published_at": "2026-10-08T09:20:00+09:00",
-    "cluster_id": "2d8a",
-    "publisher": "startuptoday.co.kr",
-    "title_clean": "[인물] 추경호 대구시장 취임 100일…'일하는 시정' 앞세워 대구 변화 시...",
-    "summary": "추경호 대구시장이 취임 100일을 맞아 지역 산업구조 전환과 민생경제 회복을 추진 중이며, 건설경기와 주택시장 활성화를 주요 의제로 다루고 있다. 비상경제대책회의를 통해 중소기업·소상공인 지원 및 소비 활성화 등 현안별 대응책을 마련하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-08T09:34:34+09:00",
     "importance": 2
   }
