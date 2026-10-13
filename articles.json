@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이천시의회 임시회 19~22일 개최, 돌봄·버스지원 등 34건 안건 심사 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3720552",
+    "description": "교통과 지역경제 분야에서는 마을버스운송사업 등록 및 지원 관련 조례안, 지역건설산업 활성화 및 지역건설노동자 우선고용 조례 개정안, 소상공인 특례보증, 중소기업 육성자금 및 특례보증 출연계획 동의안 등이...",
+    "published_at": "2026-10-13T21:58:00+09:00",
+    "cluster_id": "e570",
+    "publisher": "gukjenews.com",
+    "title_clean": "이천시의회 임시회 19~22일 개최, 돌봄·버스지원 등 34건 안건 심사",
+    "summary": "이천시의회가 19~22일 임시회를 개최하여 마을버스 지원, 지역건설산업 활성화 및 건설노동자 우선고용 조례 개정, 소상공인·중소기업 육성자금 지원 등 34건 안건을 심사한다. 지역건설업계 지원과 건설노동자 우선고용 강화를 포함한 정책안들이 추진된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-13T22:09:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32302,22 +32318,6 @@
     "summary": "현대엔지니어링이 수소 에너지 분야에서 하이브리드 수전해 기술 개발을 추진 중이다. HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 핵심 연구분야로 선정해 수소, SMR, SAF, 핵융합 등 미래 성장동력 확보를 위한 R&D를 진행하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T09:54:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[비즈+]현대엔지니어링, 재생에너지 대응 하이브리드 수전해 기술 개발 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=117866",
-    "description": "한편 HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 4대 연구 분야로 설정하고 미래 성장동력과 관련한 연구개발을 진행하고 있다. 수소를 비롯해 소형모듈원자로(SMR), 지속가능항공유(SAF), 핵융합...",
-    "published_at": "2026-10-08T09:28:00+09:00",
-    "cluster_id": "9b1d",
-    "publisher": "businessplus.kr",
-    "title_clean": "[비즈+]현대엔지니어링, 재생에너지 대응 하이브리드 수전해 기술 개발",
-    "summary": "현대엔지니어링이 재생에너지 변동성에 대응하는 하이브리드 수전해 기술을 개발했으며, HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 중심으로 수소, SMR, SAF, 핵융합 등 미래 성장동력 기술 개발을 진행 중이다. 건설업체의 신기술 개발과 미래 시장 진출 전략을 보여주는 긍정적 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T09:44:08+09:00",
     "importance": 2
   }
 ]
