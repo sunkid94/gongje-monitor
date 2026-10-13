@@ -5457,6 +5457,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "김영훈 \"포스코 교섭 적극 지도\"…직고용 갈등엔 \"현장 찾겠다\" - news1.kr",
+    "link": "https://www.news1.kr/economy/employment-labor/6318880",
+    "description": "포스코이앤씨의 잇따른 중대 재해도 도마에 올랐다. 이 의원은 노동부가 지난해 포스코이앤씨를 감독해 산업안전보건법 위반 403건을 적발했지만, 이후에도 지난해 12월과 올해 6월 사망 사고가 이어졌다며 감독의...",
+    "published_at": "2026-10-13T19:16:00+09:00",
+    "cluster_id": "7268",
+    "publisher": "news1.kr",
+    "title_clean": "김영훈 \"포스코 교섭 적극 지도\"…직고용 갈등엔 \"현장 찾겠다\"",
+    "summary": "김영훈 의원이 포스코이앤씨의 포스코 교섭을 적극 지도하고 직고용 갈등 현장을 직접 방문하겠다고 밝혔다. 노동부가 적발한 산업안전보건법 위반 403건 이후에도 사망 사고가 반복되고 있어 건설업계의 안전 관리 문제가 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T19:24:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21437,22 +21453,6 @@
     "title_clean": "두산로보틱스, 국책과제 2건 수주로 '한국형 피지컬 AI' 구현 나서",
     "summary": "두산로보틱스가 한국형 피지컬 AI 구현을 위한 국책과제 2건을 수주했으며, 45개월 과제 기간 동안 딥엑스, 세이지, 국립창원대 등과 함께 진행한다. 실증은 두산에너빌리티 원자력센터에서 수행될 예정이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-06T10:38:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "사람 부족한 조선소, AI·로봇이 메운다 … 조선3사 ‘자동화 경쟁’ 가... - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600081.html",
-    "description": "6일 업계에 따르면 HD현대와 한화오션, 삼성중공업 등 조선 3사는 생산현장에 AI와 로봇, 디지털 트윈 등을 접목하며 조선소 자동화 수준을 끌어올리고 있다. HD현대는 '미래 첨단 조선소(FOS)' 구축을 통해 선박 설계부터...",
-    "published_at": "2026-10-06T10:32:00+09:00",
-    "cluster_id": "92fe",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "사람 부족한 조선소, AI·로봇이 메운다 … 조선3사 ‘자동화 경쟁’ 가...",
-    "summary": "조선 3사(HD현대, 한화오션, 삼samsung중공업)가 AI, 로봇, 디지털 트윈 등 첨단 기술을 생산현장에 도입하며 자동화 경쟁을 진행 중이다. 인력 부족 문제 해결과 생산성 향상을 위해 '미래 첨단 조선소(FOS)' 구축 등 디지털 혁신에 집중하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-06T10:38:55+09:00",
     "importance": 2
   },
