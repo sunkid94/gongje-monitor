@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천대 건설안전보건 AI연구센터, 출범...연구거점 구축 본격화 - 미디어인천신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51N3U4MHNaazlfQ2Q2Q0pzQUVkZ2J3ay1aOFY4ZUxLZmFtQjZyWHZmd1RUSHNrd2t4UGZkR3RmWUU2bVpEMnA2U1d4dEZIX3lnWTBTSl9XSGlTRVVUT0JVTzUwd2VfVTRYdld3?oc=5",
+    "description": "[미디어인천신문 문종권 기자] 인천대학교 건설안전보건 AI연구센터(AI-HSE)가 출범했다.13일 인천대에 따르면 센터는 산학협력을 통해 고도화한 AI 기반 개인 맞춤형 열스트레스 관리기술을 중심으로 산업현장 안전관리의 디지털 전환(DX)을 추진할 계획이다.최근 기후변화로 폭염이 일상화되고 중대재해처벌법 시행 후 산업안전보건 관리의 중요성이 커지면서, 산업현장에서는 작업자의 건강상태를 실시간으로 반영하는 개인 맞춤형 안전보건관리 기술에 대한 요구가 증가하고 있다.센터는 VLM(비전-언어 모델) 기반 안전사고 위험 예측, 웨어러블 기",
+    "published_at": "2026-10-13T16:20:32+09:00",
+    "cluster_id": "24be",
+    "publisher": "미디어인천신문",
+    "title_clean": "인천대 건설안전보건 AI연구센터, 출범...연구거점 구축 본격화",
+    "summary": "인천대학교가 건설안전보건 AI연구센터를 출범하고 AI 기반 열스트레스 관리기술을 중심으로 산업현장의 디지털 안전관리를 추진한다. 중대재해처벌법 시행과 폭염 일상화에 따라 개인 맞춤형 안전보건관리 기술 개발로 건설업계의 안전관리 고도화를 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-13T22:30:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32300,22 +32316,6 @@
     "publisher": "mtnews.net",
     "title_clean": "현대엔지니어링, ALK·PEM 결합 '하이브리드 수전해 플랜트' 국책과제 참...",
     "summary": "현대엔지니어링이 ALK·PEM 결합 하이브리드 수전해 플랜트 국책과제에 참여하며 수소 기술 개발을 선도하고 있다. HMG건설기술연구원은 수소, SMR, SAF, 핵융합 등 4대 에너지·미래기술 분야를 핵심 연구 과제로 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T09:54:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대엔지니어링, 하이브리드 수전해 기술 개발 나선다 - socialvalue.kr",
-    "link": "https://www.socialvalue.kr/news/view/1065572632863297",
-    "description": "한편 HMG건설기술연구원은 에너지·미래주거·스마트건설·인프라를 4대 핵심 연구 분야로 정하고 미래 성장동력 확보를 위한 연구개발을 추진하고 있다. 수소를 비롯해 소형모듈원전(SMR), 지속가능항공유(SAF), 핵융합...",
-    "published_at": "2026-10-08T09:40:00+09:00",
-    "cluster_id": "15d0",
-    "publisher": "socialvalue.kr",
-    "title_clean": "현대엔지니어링, 하이브리드 수전해 기술 개발 나선다",
-    "summary": "현대엔지니어링이 수소 에너지 분야에서 하이브리드 수전해 기술 개발을 추진 중이다. HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 핵심 연구분야로 선정해 수소, SMR, SAF, 핵융합 등 미래 성장동력 확보를 위한 R&D를 진행하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T09:54:04+09:00",
     "importance": 2
