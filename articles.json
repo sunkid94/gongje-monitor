@@ -21460,6 +21460,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "대구·경북 건설업 산재로 상반기 35명 숨졌다 - kyongbuk.co.kr",
+    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087129",
+    "description": "일부 연도에 사망자가 줄었으나 건설경기 불황 추세를 고려하면 감소세로 보기는 어렵다. 건설경기가 안 좋아지며 건설업 고용보험 가입자 수는 2023년 8월 이후 37개월 연속 감소했다. 김위상 의원은 \"건설경기 침체...",
+    "published_at": "2026-10-13T19:24:00+09:00",
+    "cluster_id": "cdef",
+    "publisher": "kyongbuk.co.kr",
+    "title_clean": "대구·경북 건설업 산재로 상반기 35명 숨졌다",
+    "summary": "대구·경북 지역 건설업 산재로 상반기 35명이 사망했으며, 건설경기 불황으로 고용보험 가입자가 37개월 연속 감소 중이다. 건설경기 침체 속에서도 산재 감소세를 보기 어려운 상황이 지속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T19:29:58+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "충북 전문건설인 700명 화합 다져 - ccdn.co.kr",
     "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1104577",
     "description": "류근형 회장은 \"어려운 건설경기에도 각자의 자리에서 최선을 다하고 계신 회원 여러분께 감사드린다\"며 \"회원 간 소통과 화합을 더욱 강화하고, 지역 전문건설산업의 발전과 회원사의 권익 증진을 위해 협회가 든든한...",
@@ -32303,21 +32319,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-08T09:14:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "킨텍스, '2026 한국건설·안전박람회', '2026 도시안전기술 박람회' 동시... - joongangenews.com",
-    "link": "https://www.joongangenews.com/news/articleView.html?idxno=553424",
-    "description": "해체산업선진화 컨퍼런스, 스마트건설세미나, 스마트안전테크데이, 첨단 AX 도시안전포럼, 건설안전리더스포럼, 한국건설안전학회 정기학술대회 등을 통해 산업계와 공공부문의 안전 현안을 논의하고 기술 적용...",
-    "published_at": "2026-10-08T09:06:00+09:00",
-    "cluster_id": "42b7",
-    "publisher": "joongangenews.com",
-    "title_clean": "킨텍스, '2026 한국건설·안전박람회', '2026 도시안전기술 박람회' 동시...",
-    "summary": "킨텍스에서 2026년 한국건설·안전박람회와 도시안전기술박람회를 동시 개최하며, 해체산업선진화, 스마트건설, 안전기술 등 다양한 컨퍼런스와 포럼을 통해 건설안전 현안을 논의할 예정이다. 업계와 공공부문이 협력하여 건설안전 기술 적용 및 산업 발전 방안을 모색하는 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T09:14:21+09:00",
-    "importance": 3
   }
 ]
