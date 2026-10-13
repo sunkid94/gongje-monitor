@@ -5457,6 +5457,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "김영훈 \"포스코 교섭 적극 지도…신안산선 사고 엄중 조치\" - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20261013_0003824662",
+    "description": "포스코이앤씨 신안산선 건설 현장에서 중대재해가 반복되는 문제에 대해서는 관련 법 위반 여부를 엄정하게 살펴보겠다고 밝혔다. 이 의원은 노동부가 지난해 포스코이앤씨 본사와 현장을 감독해 산업안전보건법 위반...",
+    "published_at": "2026-10-13T20:59:00+09:00",
+    "cluster_id": "71d8",
+    "publisher": "newsis.com",
+    "title_clean": "김영훈 \"포스코 교섭 적극 지도…신안산선 사고 엄중 조치\"",
+    "summary": "포스코이앤씨 신안산선 건설 현장의 중대재해 반복 문제에 대해 김영훈 의원이 관련 법 위반 여부를 엄정히 조사하겠다고 밝혔다. 노동부의 감독 강화 및 산업안전보건법 위반 혐의 적극 조사를 예고하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T21:09:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21441,20 +21457,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "두산로보틱스, 국산 AI 반도체로 로봇 개발…989억 국책과제 수주 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026100610081148277",
-    "description": "실증은 두산에너빌리티 원자력센터에서 진행한다. 우선 원전 기자재 제조 과정의 가접과 예열, 용접 등에 적용하고 원전 품질 인증을 확보한 뒤 조선·플랜트·방산 등으로 확대할 예정이다. 두산로보틱스가 이번...",
-    "published_at": "2026-10-06T10:44:00+09:00",
-    "cluster_id": "31e0",
-    "publisher": "newsway.co.kr",
-    "title_clean": "두산로보틱스, 국산 AI 반도체로 로봇 개발…989억 국책과제 수주",
-    "summary": "두산로보틱스가 국산 AI 반도체를 활용한 로봇 개발 과제로 989억 원을 수주했다. 원전 기자재 제조 공정의 용접 등에 먼저 적용하고, 향후 조선·플랜트·방산 등으로 확대할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T10:48:35+09:00",
-    "importance": 2
+    "title": "서초구, 건축공사장 관계자 대상 '특별안전교육' 실시…\"건설현장 위험요인 뿌리 뽑는다\" - 시정일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8waFZzSEVXZGJ1SVdqNklmUDN4MHBpUm5EaUVzUWFmNnVUOFVtUDJwcTlfOFZIRUluck45REYzZDJSVjFtcm81enVkTFVrMTdxendtalpJWVFhc3hGelJId2M0OHJHYjJvMUFv?oc=5",
+    "description": "[시정일보 이상명 기자] 서초구(구청장 전성수)가 14일 오전 9시 서초문화예술회관 아트홀에서 관내 건축공사장 관계자들을 대상으로 '특별안전교육'을 실시한다고 밝",
+    "published_at": "2026-10-13T18:00:24+09:00",
+    "cluster_id": "7afc",
+    "publisher": "시정일보",
+    "title_clean": "서초구, 건축공사장 관계자 대상 '특별안전교육' 실시…\"건설현장 위험요인 뿌리 뽑는다\"",
+    "summary": "서초구가 건축공사장 관계자를 대상으로 특별안전교육을 실시하여 건설현장의 안전관리를 강화하고 있다. 이는 건설현장 사고 예방 및 위험요인 제거를 위한 행정 조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T21:09:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32301,22 +32317,6 @@
     "title_clean": "[인물] 추경호 대구시장 취임 100일…'일하는 시정' 앞세워 대구 변화 시...",
     "summary": "추경호 대구시장이 취임 100일을 맞아 지역 산업구조 전환과 민생경제 회복을 추진 중이며, 건설경기와 주택시장 활성화를 주요 의제로 다루고 있다. 비상경제대책회의를 통해 중소기업·소상공인 지원 및 소비 활성화 등 현안별 대응책을 마련하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-08T09:34:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, '건설현장 내 건설문화 혁신 우수사례 공모전' 개최 - slist.kr",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=771925",
-    "description": "이상조 LH 스마트건설안전본부장은 \"이번 공모전을 통해 전국 건설 현장에 몸담은 근로자들의 자부심을 고취하고 긍정적인 건설문화 정착과 활력있는 대한민국 건설 현장을 만드는 데 기여할 것\"이라고 말했다.",
-    "published_at": "2026-10-08T09:24:00+09:00",
-    "cluster_id": "2ee7",
-    "publisher": "slist.kr",
-    "title_clean": "LH, '건설현장 내 건설문화 혁신 우수사례 공모전' 개최",
-    "summary": "LH가 건설현장의 안전문화 혁신을 위해 우수사례 공모전을 개최한다. 현장 근로자들의 자부심을 고취하고 긍정적인 건설문화 정착을 목표로 하는 사업이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-08T09:34:34+09:00",
     "importance": 2
   }
