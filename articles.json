@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "'관대한' LH, 하자 접수 6213건에도 벌점은 '0점' - newscape.co.kr",
+    "link": "http://www.newscape.co.kr/news/articleView.html?idxno=125048",
+    "description": "건설산업기본법 제48조에 따르면 건설사업자 간 상호협력평가에서 95점 이상을 받은 업체는 조달청 입찰참가자격사전심사기준 등에 따라 공공공사 입찰심사에서 최대 3점의 가점을 받을 수 있다. 문 의원은 \"정부가...",
+    "published_at": "2026-10-13T14:56:00+09:00",
+    "cluster_id": "2028",
+    "publisher": "newscape.co.kr",
+    "title_clean": "'관대한' LH, 하자 접수 6213건에도 벌점은 '0점'",
+    "summary": "LH가 6213건의 하자 접수에도 불구하고 벌점을 부과하지 않아 건설사업자 상호협력평가 제도가 형식화되었다는 지적이 제기되었다. 이는 공공공사 입찰심사에서 가점을 받는 기준이 실질적으로 작동하지 않고 있음을 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T15:05:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32303,21 +32319,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-07T18:15:28+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호 대구시장 \"검찰 구형은 정치 탄압의 연장선\" - ohmynews.com",
-    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273481&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "description": "민생경제 회복을 위해 6차례 비상경제대책회의를 운영하며 산업단지 입주업종 규제 개편, 지역 건설경기 활성화, 창업 생태계 조성, 민생 활력 제고, 주택시장 정상화 등 지역경제 현안을 점검하고 구체적인 대응 방안도...",
-    "published_at": "2026-10-07T18:06:00+09:00",
-    "cluster_id": "622f",
-    "publisher": "ohmynews.com",
-    "title_clean": "추경호 대구시장 \"검찰 구형은 정치 탄압의 연장선\"",
-    "summary": "추경호 대구시장이 검찰 구형에 대해 정치 탄압이라 주장하며, 민생경제 회복을 위해 6차례 비상경제대책회의를 통해 산업단지 규제 개편, 건설경기 활성화, 주택시장 정상화 등 지역경제 대책을 추진 중입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T18:15:28+09:00",
-    "importance": 2
   }
 ]
