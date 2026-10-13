@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시 중견 건설기업 서한, 새 주거 브랜드로 '아르엘' 선보여 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/national/2375853.htm",
+    "description": "지난해에는 건설경기 침체가 이어지는 여건 속에서도 창사 이래 최대 규모인 1조 6024억 원의 수주 실적을 달성했다. 김병준 서한 전무는 \"신규 브랜드 '아르엘'을 통해 소비자의 다양한 기대에 부응하고, 앞선...",
+    "published_at": "2026-10-13T17:30:00+09:00",
+    "cluster_id": "82aa",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "대구시 중견 건설기업 서한, 새 주거 브랜드로 '아르엘' 선보여",
+    "summary": "대구 중견 건설사 서한이 건설경기 침체 속에서도 창사 이래 최대 규모인 1조 6024억 원의 수주 실적을 달성했다. 신규 주거 브랜드 '아르엘'을 출시하며 시장 확대에 나서고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-13T17:35:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32303,21 +32319,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T06:14:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "HL D&I한라, 수익성·브랜드·기술혁신 삼박자… ‘미래성장 가속화’ - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061707423180646",
-    "description": "건설경기 불확실성이 지속되는 상황에서도 안정적인 이익 창출력을 확보했다는 평가다. HL D&I한라는 신규 사업 수주 단계부터 사업성과 리스크를 검토하고, 착공 초기부터 원가를 집중적으로 관리하는 등 전 사업...",
-    "published_at": "2026-10-08T05:20:00+09:00",
-    "cluster_id": "ded4",
-    "publisher": "대한경제",
-    "title_clean": "HL D&I한라, 수익성·브랜드·기술혁신 삼박자… ‘미래성장 가속화’",
-    "summary": "HL D&I한라는 건설경기 불확실성 속에서도 신규사업 사전검토, 원가관리 등을 통해 안정적인 수익성을 확보했다. 수익성, 브랜드, 기술혁신을 바탕으로 미래 성장을 가속화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T05:35:03+09:00",
-    "importance": 2
   }
 ]
