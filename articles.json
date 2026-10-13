@@ -21460,6 +21460,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[뉴스워커_김위상 의원] 건설업 산재 사망자 상반기 243명…추락 사고만... - newsworker.co.kr",
+    "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=508331",
+    "description": "김 의원은 \"건설경기 침체로 사망자가 감소한 측면이 있지만, 추락 등 재래식 사고가 반복되고 있다\"며 \"처벌 중심의 대응을 넘어 현장에서 작동하는 사전 예방체계를 구축해야 한다\"고 강조했다.",
+    "published_at": "2026-10-13T15:18:00+09:00",
+    "cluster_id": "9c40",
+    "publisher": "newsworker.co.kr",
+    "title_clean": "[뉴스워커_김위상 의원] 건설업 산재 사망자 상반기 243명…추락 사고만...",
+    "summary": "건설업 상반기 산재 사망자가 243명으로 추락 사고가 주된 원인이며, 의원은 처벌 중심 대응을 넘어 현장 예방체계 구축의 필요성을 강조했다. 건설경기 침체로 사망자 감소 추세이나 재래식 사고 반복이 문제로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T15:24:53+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "충북 전문건설인 가족 700여명, 청남대서 화합 다져 - 동양일보",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kZFRyMk94SXJ0RVF0UEdoN0hKbC1iVlhfcm9YN0puamFfU1p2MExzOGN6SmJzeEJEV25udXY2T3FiMEU2ZU1oRnpGRVh1VDJIX2NYeDJ1MkNSTG96eXlGOTBsM1ZkcjlOZ2c?oc=5",
     "description": "대한전문건설협회 충북도회(회장 류근형)는 13일 청주시 청남대 일원에서 2회 전문건설의 날을 기념하는 ‘2026 전문건설인 가족 한마음 문화축제’를 개최했다. 이번 행사는 어려운 건설경기 속에서도 지역 건설산업 발전에 힘써 온 전문건설인과 가족들을 격려하고 회원사 간 소통과 화합을 다지기 위해 마련됐다. 행사에는 윤학수 대한전문건설협회 중앙회장, 윤건영 충북교육감, 이상식 충북도의장, 조흥수 협회 수석부회장, 오성진 부회장, 김홍수 서울시회장, 이성수 경기도회장, 이선우 명예회장 등 주요 인사와 도내 회원사 임직원, 가족 등 700",
@@ -32303,21 +32319,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-07T18:35:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호 \"대구 공직사회, 관행 깨고 성과로 평가받자\"…'속도 행정' 주문 - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=745163",
-    "description": "경제 분야에서는 비상경제대책회의를 통해 산업단지 규제와 건설경기, 창업, 주택시장 등을 점검했다. 9월에는 4,065억원 규모의 추가경정예산을 편성해 중소기업·소상공인 지원과 골목상권 활성화 등에 투입했다. AI·로봇...",
-    "published_at": "2026-10-07T18:25:00+09:00",
-    "cluster_id": "6ef5",
-    "publisher": "polinews.co.kr",
-    "title_clean": "추경호 \"대구 공직사회, 관행 깨고 성과로 평가받자\"…'속도 행정' 주문",
-    "summary": "추경호 장관이 대구 공직사회에 관행 개혁과 성과 중심 평가를 주문했으며, 경제 분야에서는 산업단지·건설경기·주택시장 점검과 9월 4,065억원 추경을 통해 중소기업·소상공인·골목상권 지원을 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T18:35:34+09:00",
-    "importance": 2
   }
 ]
