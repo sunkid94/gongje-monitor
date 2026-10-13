@@ -5457,6 +5457,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 올 3분기 영업이익 195% 증가 전망… 4분기 대형 수주가 관건... - biztribune.co.kr",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=360570",
+    "description": "대우건설이 주택건축 부문 원가율 개선에 힘입어 올해 3분기 양호한 실적을 거둘 것으로 전망된다. 다만, 연간 수주 목표를 대폭 상향한 만큼 4분기 대형 프로젝트 실제 계약 성사 여부가 향후 실적과 기업가치 핵심...",
+    "published_at": "2026-10-13T20:24:00+09:00",
+    "cluster_id": "cf4a",
+    "publisher": "biztribune.co.kr",
+    "title_clean": "대우건설, 올 3분기 영업이익 195% 증가 전망… 4분기 대형 수주가 관건...",
+    "summary": "대우건설이 주택건축 부문 원가율 개선으로 3분기 영업이익 195% 증가를 전망하고 있다. 다만 연간 수주 목표 달성을 위해 4분기 대형 프로젝트 수주 성사가 실적 개선의 핵심 관건으로 지적되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-13T20:30:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21441,19 +21457,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설 PF",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산로보틱스, 989억원 규모 ‘피지컬 AI’ 국책과제 2건 수주 - viva100.com",
-    "link": "https://www.viva100.com/article/20261006500433",
-    "description": "실증은 두산에너빌리티 원자력센터에서 진행한다. 원전 기자재 제조 공정의 가접과 예열, 용접 작업 등에 우선 적용하고, 원전 품질 인증을 확보한 뒤 조선·플랜트·방산 등으로 적용 범위를 넓힐 예정이다. 박인원...",
-    "published_at": "2026-10-06T10:42:00+09:00",
-    "cluster_id": "f8f2",
-    "publisher": "viva100.com",
-    "title_clean": "두산로보틱스, 989억원 규모 ‘피지컬 AI’ 국책과제 2건 수주",
-    "summary": "두산로보틱스가 989억원 규모의 피지컬 AI 국책과제 2건을 수주했다. 원전 기자재 제조 공정의 용접 등에 우선 적용한 후 조선·플랜트·방산 등으로 확대할 계획이다.",
+    "title": "이상일 용인시장, 반도체 근로자 숙소 PF 기준 완화 건의 - 이뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFS1Q3LWpHZ1BmeXRoMExwOE1uZ2FvdmZxNHpuZkpranl5eDZ0RUI5dG5YTkp3SGlaTktyVS1jelFuSUtkSldRVk5OYXFCOEVTTHl1ME0zR3BiZDl2d0lHOE15RXpJSDdEcDRYTUtxZ07SAXRBVV95cUxQV295UlBmRFlmcUp2cmg3QVpPMlFoZzl6SExlRF8tdG5kWDNMZTBEaTdITHdCMk1yT25ZYzMydXJkRmdLRDBNLWtXLUpINHhkUzlYQ3FINTNndkNjR3NSSXdka2JSX1dwaW5DTV9ORG55MkVyUg?oc=5",
+    "description": "[이뉴스투데이 경기1취재본부 김승희 기자] 용인 반도체클러스터 건설근로자 숙소 사업 일부가 자금조달 문제로 착공이 늦어지면서 용인시가 금융당국에 심사 기준 개선을 요청했다. 산업단지 배후시설인 근로자 주거시설의 특성을 반영해 자금조달 여건을 마련해 달라는 취지다.이상일 용인특례시장은",
+    "published_at": "2026-10-13T19:17:51+09:00",
+    "cluster_id": "6ceb",
+    "publisher": "이뉴스투데이",
+    "title_clean": "이상일 용인시장, 반도체 근로자 숙소 PF 기준 완화 건의",
+    "summary": "용인시가 반도체클러스터 건설근로자 숙소 PF 사업의 자금조달 문제로 금융당국에 심사 기준 완화를 건의했다. 산업단지 배후시설의 특성을 반영한 금융 지원 방안 마련을 요청한 상황이다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-06T10:48:35+09:00",
+    "collected_at": "2026-10-13T20:30:12+09:00",
     "importance": 2
   },
   {
@@ -32301,22 +32317,6 @@
     "title_clean": "LH, 첫 '건설문화 혁신 우수사례 공모전' 개최…현장 인식 개선 나선다",
     "summary": "LH가 건설 현장의 문화 혁신을 위해 '건설문화 혁신 우수사례 공모전'을 개최합니다. 근로자의 자부심 고취와 긍정적인 건설문화 정착을 목표로 업계 인식 개선에 나섭니다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-08T09:34:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"중대재해부터 시민재해까지\" 킨텍스, 오는 14일 '건설·도시 안전기술... - wikitree.co.kr",
-    "link": "https://www.wikitree.co.kr/articles/1164716",
-    "description": "해체산업선진화 컨퍼런스와 스마트건설세미나, 스마트안전테크데이, 첨단 AX 도시안전포럼, 건설안전리더스포럼, 한국건설안전학회 정기학술대회 등 다양한 프로그램을 통해 산업계와 공공부문의 안전 현안을 논의하고...",
-    "published_at": "2026-10-08T09:22:00+09:00",
-    "cluster_id": "b654",
-    "publisher": "wikitree.co.kr",
-    "title_clean": "\"중대재해부터 시민재해까지\" 킨텍스, 오는 14일 '건설·도시 안전기술...",
-    "summary": "킨텍스에서 14일 건설·도시 안전기술 관련 종합 컨퍼런스를 개최한다. 해체산업선진화, 스마트건설, 안전테크, 도시안전 등 다양한 프로그램을 통해 건설업계와 공공부문의 안전 현안을 논의할 예정이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-08T09:34:34+09:00",
     "importance": 2
   }
