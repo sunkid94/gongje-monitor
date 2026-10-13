@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "주택 PF 규제 2년 유예 조치…대구·경북 건설경기 숨통 트일까 - dkilbo.com",
+    "link": "https://www.dkilbo.com/news/articleView.html?idxno=557068",
+    "description": "하지만 대구·경북은 미분양 주택, 특히 준공 이후에도 팔리지 않은 주택이 적지 않은 만큼 규제 유예가 지역 건설경기 회복과 신규 주택 공급 확대로 이어질지는 실제 금융지원과 분양시장 회복 여부에 달려 있다는...",
+    "published_at": "2026-10-13T19:00:00+09:00",
+    "cluster_id": "e70c",
+    "publisher": "dkilbo.com",
+    "title_clean": "주택 PF 규제 2년 유예 조치…대구·경북 건설경기 숨통 트일까",
+    "summary": "정부가 주택 PF 규제를 2년 유예하면서 대구·경북 건설경기 부양을 시도하고 있다. 다만 미분양 주택 적체 해소와 실질적 경기 회복은 금융지원과 분양시장 회복 여부에 따라 결정될 것으로 예상된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-13T19:05:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32303,21 +32319,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-08T09:14:21+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LG전자 주가 급락에 하나증권 “단기 실적보다 AI 냉각사업 주목” - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12171108",
-    "description": "가전 사업은 물류비 상승, 전장 사업은 고객사의 수요 부진, 냉난방공조 사업은 국내 건설경기 침체에 따른 소비자 수요 감소 등으로 수익성이 기대에 못 미쳤다는 설명이다. 반면 TV·미디어 사업은 프리미엄 제품...",
-    "published_at": "2026-10-08T08:53:00+09:00",
-    "cluster_id": "f826",
-    "publisher": "mk.co.kr",
-    "title_clean": "LG전자 주가 급락에 하나증권 “단기 실적보다 AI 냉각사업 주목”",
-    "summary": "LG전자가 가전, 전장, 냉난방공조 사업의 수익성 부진으로 주가가 하락했으나, 하나증권은 AI 냉각사업 등 장기 성장성에 주목할 필요가 있다고 평가했다. 건설경기 침체와 물류비 상승 등이 단기 실적 부진의 주요 원인이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T09:04:06+09:00",
-    "importance": 2
   }
 ]
