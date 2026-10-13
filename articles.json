@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "[IB토마토]정책펀드에 운용사 몰리는데…전문건설공제조합 300억 출자 난항 - 뉴스토마토",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lY1kwb1ZiTjZORVpfSG5QN3U1cElReUp3cGkxeUtaR1c3M2J6d2FkVFBraWw4WGdiMHBNNUFWRnpGTm11b1pzdDVXUE5wak0ycktvYkxBVUNFbDdjaWRSRg?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lY1kwb1ZiTjZORVpfSG5QN3U1cElReUp3cGkxeUtaR1c3M2J6d2FkVFBraWw4WGdiMHBNNUFWRnpGTm11b1pzdDVXUE5wak0ycktvYkxBVUNFbDdjaWRSRg?oc=5\" target=\"_blank\">[IB토마토]정책펀드에 운용사 몰리는데…전문건설공제조합 300억 출자 난항</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+    "published_at": "2026-10-13T11:38:49+09:00",
+    "cluster_id": "40a7",
+    "publisher": "뉴스토마토",
+    "title_clean": "[IB토마토]정책펀드에 운용사 몰리는데…전문건설공제조합 300억 출자 난항",
+    "summary": "정책펀드 운용사 수급 불균형 속에서 전문건설공제조합의 300억 원 출자가 난항을 겪고 있다. 정책펀드 시장에 운용사는 과잉 공급되는 반면 출자자 모집에는 어려움이 있는 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-13T12:05:08+09:00",
+    "event_label": "전문건설공제조합 300억 원 정책펀드 출자 난항",
+    "importance": 7
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "경기도회, 대형종합건설사와 지역전문건설사 만남의 장 개최 - 대한전문건설신문",
     "link": "https://www.koscaj.com/news/articleView.html?idxno=326936",
     "description": "대한전문건설협회 경기도회(회장 이성수)는 경기도와 함께 지난 8일 경기도경제과학진흥원에서 상생협력 만남 행사를 개최했다.이날 행사에는 삼성물산㈜ 등 대형종합건설사 30개사와 도내 지역전문건설사 84개사가 참여해 매칭 상담을 진행하고, 상호 협력 가능성을 모색했다.이번 행사는 경기도 내 대형건설공사에 지역업체 하도급 참여 확대하기 위해 도회가 지속적으로 도에 건의한 결과 올해 처음 마련됐다.이를 통해 대형종합건설사에는 우수 지역업체를 발굴할 기회를, 지역전문건설사에는 시공 역량을 알리고 협력업체 등록을 추진할 기회를 제공했다. 이성수",
@@ -5421,6 +5438,22 @@
     "collected_at": "2026-09-13T16:57:54+09:00",
     "event_label": "엔지니어링공제조합 다원시스 유상증자 참여 철회",
     "importance": 7
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "신축 아파트 입성…'도안 푸르지오 디아델 29블록' 줍줍, 분양가는? - wikitree.co.kr",
+    "link": "https://www.wikitree.co.kr/articles/1165788",
+    "description": "주민등록표등본(상세), 가족관계증명서(상세), 출입국사실증명서 등을 공통 서류로 준비해야 한다. 입주자 사전방문은 입주 지정 기간 시작일 45일 전까지 2일 이상 실시할 예정이며, 시공사는 대우건설이 맡았다.",
+    "published_at": "2026-10-13T12:00:00+09:00",
+    "cluster_id": "26db",
+    "publisher": "wikitree.co.kr",
+    "title_clean": "신축 아파트 입성…'도안 푸르지오 디아델 29블록' 줍줍, 분양가는?",
+    "summary": "도안 푸르지오 디아델 29블록이 신축 아파트로 입성하며 입주자 사전방문을 실시할 예정이다. 시공사는 대우건설이 맡았으며, 입주 지정 기간 45일 전부터 2일 이상 사전방문 기간을 운영할 계획이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-13T12:05:08+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -21407,22 +21440,6 @@
     "importance": 4
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[전일 주요공시] 삼성중공업ㆍCJ제일제당ㆍ한국금융지주ㆍ영원무역홀딩스 등 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQeVVtZGVQczdOMm9qb2NZcjZEOVlzWm9UVXhYRWoxdzZpV1dXcE1fdFc2SDNvQS1yWUJZSGZvNjM3RFdmZ2d6VFNTaDMzRnlOWnN0LUQ0bEhZVjFva1JaZHpFTmtWNzVHZ3R3cVMwdWYzOUU2?oc=5",
-    "description": "△삼성중공업, 아시아 선주와 6722억원 규모 LNG운반선 2척 수주계약△CJ제일제당, 미국 ADM과 사료용 아미노산 합작법인 설립…지분 63% 보유△한국금융",
-    "published_at": "2026-10-06T08:03:00+09:00",
-    "cluster_id": "27a8",
-    "publisher": "이투데이",
-    "title_clean": "[전일 주요공시] 삼성중공업ㆍCJ제일제당ㆍ한국금융지주ㆍ영원무역홀딩스 등",
-    "summary": "삼성중공업이 아시아 선주와 6,722억원 규모의 LNG운반선 2척 수주계약을 체결했으며, CJ제일제당은 미국 ADM과 사료용 아미노산 합작법인을 설립하는 등 주요 기업들의 사업 확대 소식이 보도되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T08:09:21+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32301,21 +32318,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-07T16:35:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "호반건설, AI 기반 '옵션 반영 BIM 생성' 기술 개발 - shinailbo.co.kr",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069589",
-    "description": "호반건설 관계자는 \"이번 기술을 통해 세대별로 다양해지는 옵션 정보를 더 체계적으로 관리하고 시공에 정확하게 반영할 수 있게 됐다\"며 \"앞으로도 AI와 빌딩정보모델링을 활용한 스마트건설 기술을 지속해서 개발해...",
-    "published_at": "2026-10-07T16:20:00+09:00",
-    "cluster_id": "3743",
-    "publisher": "shinailbo.co.kr",
-    "title_clean": "호반건설, AI 기반 '옵션 반영 BIM 생성' 기술 개발",
-    "summary": "호반건설이 AI 기반 '옵션 반영 BIM 생성' 기술을 개발했다. 이를 통해 다양한 세대별 옵션 정보를 체계적으로 관리하고 시공에 정확하게 반영할 수 있게 됐으며, 스마트건설 기술 개발을 지속할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T16:35:26+09:00",
-    "importance": 2
   }
 ]
