@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "전국구직노동조합 울진지역본부 출범 \"원전건설 현장에 파업은 없다\" - 전국구직노조신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jMF9KVlV1MERmOXV6QkY5ZF9Qcy1lX3lVWkwtakpXb3JmYlNwWjVSVFJNd0dzQmd4YllXR2tNV0tvVXllZUxydDhsNHZzREdZV0Zyb3Etb01pZVdCVnVIOXpKYVZ2TVk?oc=5",
+    "description": "전국구직노동조합(이하, 구직노조)이 10월부터 신한울원전 3·4호기가 건설되는 울진지역에 지역본부를 출범하고 일자리창출에 나섰다.구직노조는 군사정권시절 노동운동의",
+    "published_at": "2026-10-14T01:52:53+09:00",
+    "cluster_id": "bae6",
+    "publisher": "전국구직노조신문",
+    "title_clean": "전국구직노동조합 울진지역본부 출범 \"원전건설 현장에 파업은 없다\"",
+    "summary": "전국구직노동조합이 울진지역본부를 출범하고 신한울원전 3·4호기 건설 현장의 일자리창출에 나서며, 원전건설 현장의 노동 안정성을 강조했다. 노조는 파업 없는 안정적인 건설 환경 조성을 공약했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T02:54:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32303,21 +32319,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T10:04:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "태성정공 등 3사, 'PHC 말뚝용 무용접·무볼트 기계식 이음 공법' 건설신... - snmnews.com",
-    "link": "http://www.snmnews.com/news/articleView.html?idxno=575626",
-    "description": "태성정공(대표이사 이기송)과 삼안(대표이사 최동식), 한신공영(대표이사 전재식) 등 3사가 'PHC 말뚝용 무용접·무볼트 기계식 이음 공법(Union Joint System)'에 대해 국토교통부에 건설신기술 지정을 신청했다....",
-    "published_at": "2026-10-08T09:50:00+09:00",
-    "cluster_id": "57e9",
-    "publisher": "snmnews.com",
-    "title_clean": "태성정공 등 3사, 'PHC 말뚝용 무용접·무볼트 기계식 이음 공법' 건설신...",
-    "summary": "태성정공, 삼안, 한신공영 등 3사가 PHC 말뚝용 무용접·무볼트 기계식 이음 공법에 대해 국토교통부에 건설신기술 지정을 신청했다. 신공법 지정을 통해 시공 품질 향상과 공사 효율성 증대가 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T10:04:06+09:00",
-    "importance": 2
   }
 ]
