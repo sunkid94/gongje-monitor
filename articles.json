@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[N2 포커스] 주택 마진 반등의 '착시'…닥쳐올 '공사비 청구서'에 떤다 - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20261014500335",
+    "description": "미래에셋증권은 지난 13일 대우건설의 3분기 영업이익을 시장 예상치에 부합하는 1853억원으로 추정했다. 하나증권은 8일 GS건설이 시장 추정치를 소폭 웃도는 1296억원을, 같은 날 한화투자증권은 DL이앤씨가...",
+    "published_at": "2026-10-15T06:32:00+09:00",
+    "cluster_id": "c4dd",
+    "publisher": "news2day.co.kr",
+    "title_clean": "[N2 포커스] 주택 마진 반등의 '착시'…닥쳐올 '공사비 청구서'에 떤다",
+    "summary": "건설업체들의 3분기 영업이익이 시장 예상을 충족하면서 주택 마진이 반등한 것으로 보이지만, 향후 공사비 청구서 증가에 따른 실질적 수익성 악화가 우려되는 상황. 현재의 이익 개선은 일시적 착시일 가능성이 높다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-15T06:40:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21609,22 +21625,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-06T16:41:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현산, 부산 연산13구역 2812억 수주···하반기 정비사업 1.77조 돌파 - 스마트비즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZZFpnWkt2Qkw5ZkxUMkF6bmRxS19wWGZpUFoxZHFfX0ZXd0RVY1hqS01sa2F2UjFpd0VuemtRTENVaGVXaE5Cd3FybF90cWdrSVhQVW5ZNTNCLW0tbDdueDl6MGtHSzA4RzBvSQ?oc=5",
-    "description": "| 스마트비즈 = 최형호 기자 | IPARK현대산업개발이 부산 연산13구역 재개발사업 시공권을 확보하며 하반기 정비사업 수주 행보에 속도를 내고 있다. 성남과 의",
-    "published_at": "2026-10-06T16:23:15+09:00",
-    "cluster_id": "056c",
-    "publisher": "스마트비즈",
-    "title_clean": "IPARK현산, 부산 연산13구역 2812억 수주···하반기 정비사업 1.77조 돌파",
-    "summary": "IPARK현대산업개발이 부산 연산13구역 재개발사업 2812억 규모 시공권을 수주하며 하반기 정비사업 수주액이 1.77조원을 넘었다. 건설업계의 정비사업 수주 호황이 계속되고 있음을 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T16:41:34+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
