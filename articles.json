@@ -21627,6 +21627,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "“수도권은 민간·지방은 공공”…건설현장 지역별 온도차 ‘뚜렷’ - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1701488/?sc=Naver",
+    "description": "15일 국토교통부 건설산업지식정보시스템(KISCON)에 따르면 지난 14일 기준 전국에서 진행 중인 1억원 이상 건설공사 현장은 총 5만479곳으로 집계됐다. 이 중 공공공사는 2만6388곳으로 전체의 52.3%를 차지했고...",
+    "published_at": "2026-10-15T06:50:00+09:00",
+    "cluster_id": "030c",
+    "publisher": "dailian.co.kr",
+    "title_clean": "“수도권은 민간·지방은 공공”…건설현장 지역별 온도차 ‘뚜렷’",
+    "summary": "전국 1억원 이상 건설공사 현장 5만479곳 중 공공공사가 52.3%를 차지하며, 수도권은 민간공사 중심, 지방은 공공공사 중심으로 지역별 편중이 뚜렷한 상황이 발생했다. 이는 지역 건설시장의 구조적 차이를 보여주는 현상이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-15T07:00:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32313,21 +32329,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T20:01:05+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“노동이 불안정한 시대, 새로운 포용금융 필요” - kookje.co.kr",
-    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261009.22012002484",
-    "description": "공공데이터를 연계해 상대적으로 불리한 건설노동자와 플랫폼·프리랜서 등 불안정 노동자의 신용정보 사각지대를 해소, 금융 접근성을 높이자는 것이어서 주목된다. 8일 업계에 따르면 금융권의 신용평가는 정규직과 4대...",
-    "published_at": "2026-10-08T19:35:00+09:00",
-    "cluster_id": "6d37",
-    "publisher": "kookje.co.kr",
-    "title_clean": "“노동이 불안정한 시대, 새로운 포용금융 필요”",
-    "summary": "불안정한 노동 환경의 확대에 따라 건설노동자와 프리랜서 등이 금융 접근성이 낮아지는 문제를 해결하기 위해 공공데이터 연계 방식의 포용금융 도입을 제안하고 있다. 신용평가 시스템 개선으로 금융 사각지대 해소를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T19:41:52+09:00",
-    "importance": 2
   }
 ]
