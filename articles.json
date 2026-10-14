@@ -21678,6 +21678,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[편집국에서] 서울 환자 약(藥)으로는 충남 주택시장 비명 못 막는다 - joongdo.co.kr",
+    "link": "https://www.joongdo.co.kr/web/view.php?key=20261014010003544",
+    "description": "더 큰 문제는 이 공포가 착공 절벽과 기업 건설경기 위축으로 이어질 수 있다는 점이다. 올해 7월 한국은행 대전세종충남본부의 '최근 충남지역 건설경기 부진 배경 및 시사점' 보고서가 경고했듯, 미분양에 짓눌린 지역...",
+    "published_at": "2026-10-14T14:08:00+09:00",
+    "cluster_id": "c4b4",
+    "publisher": "joongdo.co.kr",
+    "title_clean": "[편집국에서] 서울 환자 약(藥)으로는 충남 주택시장 비명 못 막는다",
+    "summary": "서울의 부동산 규제가 충남 주택시장 위기를 해결하지 못하고 있으며, 미분양 적체가 착공 절벽과 건설경기 위축으로 이어질 위험이 있다. 한국은행 보고서도 충남지역 건설경기 부진을 경고하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-14T14:14:55+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'환경통' 박지혜 의원 \"AI데이터센터 확대,산업·환경 공존할 길 있다\" - hankookilbo.com",
+    "link": "https://www.hankookilbo.com/news/article/A2026100811360001541?did=NA",
+    "description": "건설하는 과정에서 수만 명의 건설 노동자가 몇 년간 들어오는 효과는 있을 수 있지만, 운영 이후 상시 근로자 수는 많지 않다. 다만 세수 증대 효과는 있을 수 있다. 현지 인력을 고용하거나 지역 업체를 활용하고...",
+    "published_at": "2026-10-14T14:09:00+09:00",
+    "cluster_id": "9b1d",
+    "publisher": "hankookilbo.com",
+    "title_clean": "'환경통' 박지혜 의원 \"AI데이터센터 확대,산업·환경 공존할 길 있다\"",
+    "summary": "박지혜 의원이 AI데이터센터 확대가 산업과 환경의 공존이 가능하다고 주장. 건설 단계에서 건설 수요 발생, 운영 단계에서 세수 증대와 지역 일자리 창출 효과 언급.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T14:14:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32300,37 +32332,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T14:53:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[아유경제_부동산] 신동아건설, 남양주 진접에 590가구 공급… 회생 후... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95729",
-    "description": "신동아건설은 건설경기 침체에 따른 유동성 악화로 지난해 1월 법원에 회생절차 개시를 신청한 후 같은 해 10월 회생절차 종결 결정을 받아 9개월 만에 법정관리를 마쳤다. 신동아건설은 이번 사업을 시작으로 수도권...",
-    "published_at": "2026-10-08T14:38:00+09:00",
-    "cluster_id": "fdc8",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_부동산] 신동아건설, 남양주 진접에 590가구 공급… 회생 후...",
-    "summary": "신동아건설이 법정관리를 9개월 만에 완료하고 남양주 진접에서 590가구 규모의 새로운 사업을 시작하며 사업 재개에 나섰다. 이는 건설업계 침체로 어려움을 겪던 중견 건설사의 회생 사례를 보여준다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T14:53:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "철강협회, 강관산업 발전 세미나 개최…신성장 동력 모색 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026100814371286642",
-    "description": "한국철강협회가 건설경기 부진과 수입산 증가로 어려움을 겪고 있는 국내 강관업계의 경쟁력 강화와 신규 수요 창출 방안을 모색했다. 한국철강협회 강관협의회는 8일 서울 강남구 포스코센터에서 제21회 강관산업 발전...",
-    "published_at": "2026-10-08T14:37:00+09:00",
-    "cluster_id": "e95c",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "철강협회, 강관산업 발전 세미나 개최…신성장 동력 모색",
-    "summary": "한국철강협회가 건설경기 부진과 수입산 증가로 어려움을 겪는 국내 강관업계의 경쟁력 강화 방안을 모색하는 세미나를 개최했다. 강관협의회는 제21회 발전 세미나를 통해 신규 수요 창출과 산업 발전 전략을 논의했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T14:53:50+09:00",
-    "importance": 2
   }
 ]
