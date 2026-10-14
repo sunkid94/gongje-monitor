@@ -21593,6 +21593,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사, 자사주 태우고 책임경영 고삐 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004168",
+    "description": "건설경기 침체가 장기화하는 상황에서 주주가치를 높이는 동시에 경영 불확실성에 대응하려는 전략으로 풀이된다.14일 건설업계에 따르면 HDC와 계룡건설, 대우건설은 등 주요 상장 건설사와 지주사가 최근 잇따라...",
+    "published_at": "2026-10-14T13:08:00+09:00",
+    "cluster_id": "2ca3",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "건설사, 자사주 태우고 책임경영 고삐",
+    "summary": "건설경기 침체 속에서 HDC, 계룡건설, 대우건설 등 주요 건설사들이 자사주 매입을 통해 주주가치를 제고하고 경영 불확실성에 대응하고 있다. 이는 책임경영을 강화하려는 전략으로 해석된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-14T13:15:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32308,22 +32324,6 @@
     "publisher": "국토일보",
     "title_clean": "현대엔지니어링, 재생에너지 연계형 수전해 플랜트 국책과제 참여",
     "summary": "현대엔지니어링이 재생에너지 연계형 수전해 플랜트 국책과제에 참여하며 수소 등 미래 에너지 분야 사업을 확대하고 있다. HMG건설기술연구원이 에너지, 미래주거, 스마트건설, 인프라를 핵심 연구분야로 선정해 신기술 개발에 집중 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T12:13:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 건설문화 혁신 우수사례 공모전 개최...총 470만원 포상 - asiaa.co.kr",
-    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=265597",
-    "description": "이상조 LH 스마트건설안전본부장은 \"이번 공모전을 통해 전국 건설 현장에 몸담은 근로자들의 자부심을 고취하고 긍정적인 건설문화 정착과 활력있는 대한민국 건설 현장을 만드는 데 기여할 것\"이라고 말했다.",
-    "published_at": "2026-10-08T12:06:00+09:00",
-    "cluster_id": "52de",
-    "publisher": "asiaa.co.kr",
-    "title_clean": "LH, 건설문화 혁신 우수사례 공모전 개최...총 470만원 포상",
-    "summary": "LH가 건설문화 혁신 우수사례를 발굴하기 위해 공모전을 개최하며 총 470만원의 포상금을 제공한다. 현장 근로자들의 자부심 고취와 긍정적인 건설문화 정착을 목표로 한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T12:13:36+09:00",
     "importance": 2
