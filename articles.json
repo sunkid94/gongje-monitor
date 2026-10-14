@@ -5661,6 +5661,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "고용노동부 청주지청, 13회차 무재해 릴레이 캠페인 진행 - cctimes.kr",
+    "link": "http://www.cctimes.kr/news/articleView.html?idxno=932137",
+    "description": "고용노동부 청주지청은 14일 롯데건설 주식회사에서 시공하는 \"청주 강서2지구 지역주택조합\" 현장과 ㈜정식품에서 13주차 '무재해 릴레이 캠페인'을 진행했다. /고용노동부 청주지청 제공",
+    "published_at": "2026-10-14T19:40:00+09:00",
+    "cluster_id": "30a3",
+    "publisher": "cctimes.kr",
+    "title_clean": "고용노동부 청주지청, 13회차 무재해 릴레이 캠페인 진행",
+    "summary": "고용노동부 청주지청이 롯데건설의 청주 강서2지구 현장과 정식품에서 13주차 무재해 릴레이 캠페인을 진행했다. 건설현장의 안전관리 강화 및 무재해 운동을 추진하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-14T19:45:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21645,20 +21661,20 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "목동8단지, 대우건설 우선협상대상자 지정…12월 12일 최종 결정 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/news-detail/2026100615342851959",
-    "description": "대우건설이 목동8단지 조합에 접수한 입찰제안서를 담은 박스./사진=윤하늘 기자서울 양천구 목동신시가지8단지 재건축 조합이 대우건설을 우선협상대상자로 선정했다. 조합은 12월 12일 총회를 열고 시공사를 낙점할...",
-    "published_at": "2026-10-06T15:48:00+09:00",
-    "cluster_id": "fdb2",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "목동8단지, 대우건설 우선협상대상자 지정…12월 12일 최종 결정",
-    "summary": "대우건설이 서울 양천구 목동8단지 재건축 사업의 우선협상대상자로 선정되었으며, 조합은 12월 12일 총회에서 최종 시공사를 결정할 예정이다. 대형 재건축 프로젝트 수주로 건설사의 수주 기회가 창출되는 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T16:02:09+09:00",
-    "importance": 2
+    "title": "인천 검단 왕길동 '1,000만 톤 폐기물 산' 논란…주민·환경단체, 구청에... - ppss.kr",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=315557",
+    "description": "구 관계자는 건설경기 침체로 처리 속도가 늦어지고 있지만 현장 점검과 비산먼지 저감시설 관리를 강화하겠다는 입장을 전했다. 다만 이러한 설명과 별개로 현재 남아 있는 적치물의 규모와 성격, 실제 반출 실적 및...",
+    "published_at": "2026-10-14T19:37:00+09:00",
+    "cluster_id": "2162",
+    "publisher": "ppss.kr",
+    "title_clean": "인천 검단 왕길동 '1,000만 톤 폐기물 산' 논란…주민·환경단체, 구청에...",
+    "summary": "인천 검단 왕길동에 1,000만 톤 규모의 폐기물이 적치되어 주민과 환경단체의 민원이 제기되고 있다. 구청은 건설경기 침체로 처리가 지연되고 있으며, 현장 점검과 비산먼지 저감시설 관리를 강화하겠다는 입장을 밝혔다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-14T19:45:34+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32315,21 +32331,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-08T16:47:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "삼성역 철근 누락 후폭풍…현대건설 \"책임기간 10년으로 연장\" - 뉴스저널리즘",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyeWQ4aFpWTmF3bzFPdXQ2NGw4WENLcWdGeFVtMm5HQ3BQUTJhM21PLWtscVBIaTU3SWdJNHFzekNvcExDaVVlU3FtMzVPV1Y1V2pDQmhzeDRTVUt2M01qaEswMF9feHhnZmRz?oc=5",
-    "description": "현대건설이 삼성역 철근 누락 보강 부위에 대한 책임 기간을 연장하고 준공 이후 안전진단 비용을 지원하겠다는 입장을 밝혔다. 국토교통부는 오는 11월 정밀안전진단과 보강 공법 검토 결과를 확인한 뒤 공사와 열차 운행 재개 여부를 검토하기로 했다.지난 7일 국회 국토교통위원회 국정감사에서",
-    "published_at": "2026-10-08T06:10:00+09:00",
-    "cluster_id": "e683",
-    "publisher": "뉴스저널리즘",
-    "title_clean": "삼성역 철근 누락 후폭풍…현대건설 \"책임기간 10년으로 연장\"",
-    "summary": "삼성역 철근 누락 결함으로 현대건설이 책임 기간을 10년으로 연장하고 준공 후 안전진단 비용을 지원하기로 했다. 국토교통부는 11월 정밀안전진단 결과를 토대로 공사 재개 여부를 결정할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T16:47:01+09:00",
-    "importance": 4
   }
 ]
