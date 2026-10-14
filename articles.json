@@ -5644,6 +5644,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[10월15일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449373",
+    "description": "IPARK현대산업개발 올해 도시정비 수주 목표 달성 눈앞, 정경구 목동아파트 재건축 수주전 발걸음 가벼워져 ● 매각 장기 표류 보험사 '새 둥지' 마무리 국면, 파는 곳은 '자본부담 완화' 사는 곳은 '사업 확장' 윈윈...",
+    "published_at": "2026-10-14T20:54:00+09:00",
+    "cluster_id": "8408",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[10월15일자] 비즈니스포스트 아침의 주요기사",
+    "summary": "현대산업개발이 올해 도시정비 수주 목표 달성을 앞두고 있으며, 목동아파트 재건축 수주전에 참여하고 있다. 보험사 매각이 최종 단계에 접어들면서 판매자는 자본 부담 완화, 인수자는 사업 확장이라는 상호 이익을 창출하는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T21:00:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21624,22 +21640,6 @@
     "title_clean": "딥엑스·두산로보틱스, 'AI 용접' 개발…원전 인력난 해결",
     "summary": "딥엑스와 두산로보틱스 등 4개 기관이 AI 기반 지능형 용접 시스템을 개발하여 원전 기자재 제조 현장에서 실증할 예정이다. 2029년 품질 검증 완료를 목표로 원전 산업의 인력난 해결과 자동화를 추진 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-06T16:02:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "게임 밖으로 나온 유니티, 산업 현장 파고든 AI 기술력 공개 - zdnet.co.kr",
-    "link": "https://zdnet.co.kr/view/?no=20261006114717",
-    "description": "사진=지디넷코리아 이 밖에도 유니티는 삼성중공업, 구글 맵, 볼보, 유럽우주국 등 글로벌 제조·모빌리티·항공우주 분야에 걸친 실제 산업 적용 사례를 함께 선보이며 생태계 확장에 힘을 실었다. 현장...",
-    "published_at": "2026-10-06T15:42:00+09:00",
-    "cluster_id": "b187",
-    "publisher": "zdnet.co.kr",
-    "title_clean": "게임 밖으로 나온 유니티, 산업 현장 파고든 AI 기술력 공개",
-    "summary": "유니티가 AI 기술을 활용하여 게임 산업을 넘어 제조, 모빌리티, 항공우주 등 다양한 산업 분야에 진출하고 있다. 삼성중공업, 구글 맵, 볼보, 유럽우주국 등 글로벌 기업들과의 협력을 통해 산업용 디지털 솔루션 생태계를 확장 중이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-06T16:02:09+09:00",
     "importance": 2
   },
