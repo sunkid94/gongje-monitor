@@ -5457,6 +5457,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[부산ㆍ경남 대학 브리핑 모음(10월14일)] 경남정보대, 제10회 총장배 사... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131908271580444",
+    "description": "◆ 국립창원대·두산에너빌리티, AI 기반 원전 제조기술 공동연구 원전기기·부품 제조 고도화 추진… 산업 현장 맞춤형 전문인력 양성 국립창원대학교 AI기반 차세대 원전기기·부품제조 혁신연구센터와...",
+    "published_at": "2026-10-14T09:02:00+09:00",
+    "cluster_id": "220b",
+    "publisher": "대한경제",
+    "title_clean": "[부산ㆍ경남 대학 브리핑 모음(10월14일)] 경남정보대, 제10회 총장배 사...",
+    "summary": "국립창원대와 두산에너빌리티가 AI 기반 원전 제조기술 공동연구를 추진하여 원전기기·부품 제조 고도화를 목표로 하고 있습니다. 이는 산업 현장 맞춤형 전문인력 양성과 함께 원전 관련 기계설비 제조 분야의 기술 혁신을 도모하는 사업입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T09:09:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21439,22 +21455,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-06T11:59:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "부산 시민단체 \"가덕신공항 공사비 현실화…특별법 개정 서둘러야\" 촉구 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261006_0003815413",
-    "description": "이들은 \"가덕도신공항 건설이 다시 중대한 기로에 서 있다\"며 \"대우건설 컨소시엄이 우선협상대상자로 선정되고 기본설계가 진행되는 동안 중동 전쟁 등 국제정세 변화가 발생했다\"고 말했다. 이어 \"원자재와 건설자재...",
-    "published_at": "2026-10-06T11:46:00+09:00",
-    "cluster_id": "09c0",
-    "publisher": "newsis.com",
-    "title_clean": "부산 시민단체 \"가덕신공항 공사비 현실화…특별법 개정 서둘러야\" 촉구",
-    "summary": "부산 시민단체가 국제정세 변화로 인한 원자재·건설자재 가격 상승에 따라 가덕신공항 공사비 현실화를 촉구하고 있다. 특별법 개정을 통해 예산 조정이 필요하다는 입장이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-06T11:59:21+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 PF",
