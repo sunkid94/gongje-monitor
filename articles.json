@@ -21644,6 +21644,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[경기도 소식]3대 정책 현장…건설안전·축산물 위생·정원문화로 도민 삶의 질 높인다 - 전국뉴스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZNm1tQmlPVFJ1bTZJbEtGNnIzS09LOHZfQWpNQ0dEcnJRa0xYSVZMOFAtRnEyOHNzUm4wdmNsWW5TbDJabWxUcVdzVk9paHZSYkhWY2FDeERqM3c4MnQ0aWJ5U2t0TFNGeVVadmlVOWY?oc=5",
+    "description": "[전국뉴스=김달환 기자] 경기도가 산업현장의 안전을 지키고, 도민의 식탁에 오르는 축산물의 위생을 강화하는 한편, 자연과 문화가 어우러지는 정원 공간을 조성하는",
+    "published_at": "2026-10-14T17:51:14+09:00",
+    "cluster_id": "f5b8",
+    "publisher": "전국뉴스",
+    "title_clean": "[경기도 소식]3대 정책 현장…건설안전·축산물 위생·정원문화로 도민 삶의 질 높인다",
+    "summary": "경기도가 건설안전, 축산물 위생, 정원문화 등 3대 정책을 추진하여 도민의 삶의 질 향상을 목표로 함. 산업현장의 안전 강화에 중점을 두고 있음.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-15T00:00:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32313,22 +32329,6 @@
     "summary": "AI 데이터센터 확산에 따른 LNG 수요 증가가 에너지 시장의 새로운 변수로 주목받고 있다. 다만 원자재 가격 상승과 건설경기 악화로 인한 대규모 인프라 프로젝트의 지연이 건설업계의 수익성 악화를 야기하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-08T17:36:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[VS 기획] MIT가 그린 ‘건설 AI 지도’…설계부터 조달까지 산업 문법 ... - venturesquare.net",
-    "link": "https://www.venturesquare.net/1118343/",
-    "description": "제호바는 올해 국토교통부·한국건설기술연구원의 스마트건설 강소기업에도 선정됐다. 업사이트는 공사일보와 예정공정표, 도면·검측 등 현장 데이터를 구조화하고...",
-    "published_at": "2026-10-08T17:21:00+09:00",
-    "cluster_id": "9ee1",
-    "publisher": "venturesquare.net",
-    "title_clean": "[VS 기획] MIT가 그린 ‘건설 AI 지도’…설계부터 조달까지 산업 문법 ...",
-    "summary": "MIT가 그린 건설 AI 지도에 따라 설계부터 조달까지 산업 전반을 디지털화하는 움직임이 확산되고 있다. 제호바, 업사이트 등 건설 AI 기업들이 현장 데이터 구조화와 스마트건설 기술로 정부 지원까지 받으며 산업 혁신을 주도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T17:31:09+09:00",
     "importance": 2
   }
 ]
