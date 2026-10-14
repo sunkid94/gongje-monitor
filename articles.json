@@ -21627,6 +21627,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "㈜한화 건설부문, 음성인식·AI 사진분석 도입… '안전신문고' 고도화 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RU3RFNDlLYUxCOVB3NXFoOUExbGREM05odWJSUUt5dTdicGlFd0dnWUQwdjRfY0xQbXdRcmJVY0pTUUtIUVJKcVpMSDFIVER4WG9nTHVrVFdOOTByTTB4QTdhOA?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RU3RFNDlLYUxCOVB3NXFoOUExbGREM05odWJSUUt5dTdicGlFd0dnWUQwdjRfY0xQbXdRcmJVY0pTUUtIUVJKcVpMSDFIVER4WG9nTHVrVFdOOTByTTB4QTdhOA?oc=5\" target=\"_blank\">㈜한화 건설부문, 음성인식·AI 사진분석 도입… '안전신문고' 고도화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국토일보</font>",
+    "published_at": "2026-10-15T08:45:14+09:00",
+    "cluster_id": "d271",
+    "publisher": "국토일보",
+    "title_clean": "㈜한화 건설부문, 음성인식·AI 사진분석 도입… '안전신문고' 고도화",
+    "summary": "㈜한화 건설부문이 음성인식과 AI 사진분석 기술을 '안전신문고'에 도입하여 현장 안전관리 시스템을 고도화했다. 이는 건설 현장의 안전성 강화와 위험요소 조기 발견을 통해 업계의 안전 수준 향상에 기여하는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T08:50:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32312,22 +32328,6 @@
     "summary": "대우건설이 도시정비사업과 데이터센터 사업 경쟁력 강화를 위해 조직을 개편하고 안전품질본부를 신설했다. 안전·품질 관리 기능을 통합하여 대형 프로젝트의 위험 관리를 강화하는 내용이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-08T23:41:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대엔지니어링, 하이브리드 수전해 플랜트로 글로벌 시장 진출 노린다 - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3716928",
-    "description": "HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 4대 핵심 연구 분야로 선정하고 연구개발 역량 강화에 집중하고 있다. 수소, SMR, SAF, 핵융합, 바이오가스 등 미래 에너지 기술 연구도 적극 추진 중이다.",
-    "published_at": "2026-10-08T22:42:00+09:00",
-    "cluster_id": "882d",
-    "publisher": "gukjenews.com",
-    "title_clean": "현대엔지니어링, 하이브리드 수전해 플랜트로 글로벌 시장 진출 노린다",
-    "summary": "현대엔지니어링이 하이브리드 수전해 플랜트로 글로벌 시장 진출을 시도하고 있다. HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라를 핵심 연구분야로 삼아 수소, SMR, SAF 등 미래 에너지 기술 개발을 강화 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T22:51:26+09:00",
     "importance": 2
   }
 ]
