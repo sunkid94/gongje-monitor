@@ -5780,6 +5780,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "스마트홈 앱, 말 한마디로 조명·에어컨 켠다 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37454",
+    "description": "스마트홈 앱에서 원하는 메뉴를 여러 번 눌러 집 안 기기를 조작하던 방식이 음성 명령으로 바뀐다. 롯데건설이 스마트폰 앱에 말을 하면 AI가 공간과 기기, 명령 내용을 알아듣고 조명과 에어컨을 작동하는 기능을 도입한다. 별도 AI 스피커를 설치하지 않아도 기존 스마트홈 앱으로 이용할 수 있으며 향후 준공하는 롯데캐슬과 르엘 단지부터 순차 적용한다.롯데건설은 롯데이노베이트와 함께 ‘AI 음성인식 홈네트워크 제어 서비스’를 구축해 기존 홈네트워크 시스템 ‘롯데 스마트홈 2.0’에 탑재한다. 서비스는 롯데그룹 자체 AI 플랫폼 ‘아이멤버",
+    "published_at": "2026-10-14T09:45:00+09:00",
+    "cluster_id": "3742",
+    "publisher": "한국건설신문",
+    "title_clean": "스마트홈 앱, 말 한마디로 조명·에어컨 켠다",
+    "summary": "롯데건설이 기존 스마트홈 앱에 AI 음성인식 기능을 탑재하여 음성 명령으로 조명·에어컨 등 가전기기를 제어할 수 있는 서비스를 출시한다. 별도 AI 스피커 설치 없이 이용 가능하며, 향후 준공하는 롯데캐슬과 르엘 단지부터 순차 적용할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T15:24:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21759,22 +21775,6 @@
     "publisher": "news.bbsi.co.kr",
     "title_clean": "IPARK현대산업개발, 2,812억 규모 부산 연산13구역 재개발 수주",
     "summary": "IPARK현대산업개발이 부산 연산13구역 주택재개발정비사업 시공사로 선정되었으며, 총 249표 중 208표(84%)를 획득했습니다. 이는 건설업체의 정비사업 수주 확대를 보여주는 긍정적 사례입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T15:10:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 부산 연산13구역 따내…정비사업 누적 1.7조 수주 - 1conomynews.co.kr",
-    "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50703",
-    "description": "IPARK현대산업개발이 부산 연산13구역 재개발 시공권을 따냈다. 이에 따라 올해 정비사업 누적 수주액은 1조7666억원을 기록했다. 6일 HDC그룹 IPARK현대산업개발은 지난 3일 부산 연산13구역 주택재개발정비사업...",
-    "published_at": "2026-10-06T14:54:00+09:00",
-    "cluster_id": "fe54",
-    "publisher": "1conomynews.co.kr",
-    "title_clean": "IPARK현대산업개발, 부산 연산13구역 따내…정비사업 누적 1.7조 수주",
-    "summary": "IPARK현대산업개발이 부산 연산13구역 재개발 시공권을 수주하며 올해 정비사업 누적 수주액이 1조7666억원에 도달했다. 건설사의 정비사업 수주 증가로 건설업계의 수주 실적이 지속적으로 확대되는 추세를 보이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-06T15:10:38+09:00",
     "importance": 2
