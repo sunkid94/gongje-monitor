@@ -21627,6 +21627,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "6월부터 넉 달째 평행선…포스코 노사, 3차 부분파업 갈림길 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=352096",
+    "description": "국내 건설경기 부진으로 내수 회복이 더딘 가운데 중국산 저가 철강재 유입과 해외 무역장벽 확대까지 겹치면서 업황 불확실성도 여전하다. 사측이 비용 관리 필요성을 강조하는 반면 노조는 실적 개선과 현장...",
+    "published_at": "2026-10-15T07:48:00+09:00",
+    "cluster_id": "be0e",
+    "publisher": "greened.kr",
+    "title_clean": "6월부터 넉 달째 평행선…포스코 노사, 3차 부분파업 갈림길",
+    "summary": "건설경기 부진, 중국산 저가 철강재 유입, 해외 무역장벽 확대 등으로 포스코의 업황 불확실성이 지속되고 있다. 노사 간 임금 및 근무 조건 협상이 6월부터 4개월째 평행선을 달리면서 3차 부분파업 가능성을 높이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-15T07:55:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32312,22 +32328,6 @@
     "summary": "민주노총 경남건설-플랜트건설노조가 한국중부발전 함안복합발전소 건설현장에서 지역 노동자 우선 고용과 중간브로커 퇴출을 촉구하며 집회를 개최했다. 현장에 외지 노동자가 대다수를 차지하고 있다는 문제를 제기하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-08T20:31:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[기고] 건설시장의 승부처는 '안전한 현장' - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84eDdjX3VvVjdDalpjdGstUHc4VUR0c1BrbktmSmhDekY2S3ZWWUhNNmt6VG1BRml1T0hDZzFzaTVwT2VmOTM0N185SHNuTHhKMFh0OWEwNXZGZw?oc=5",
-    "description": "지난 한 해 동안 건설현장에서 무려 361명이나 목숨을 잃었다. 사고가 날 때마다 제도를 보완하고 현장점검과 처벌도 강화해 왔지만, 안타까운 사고는 좀처럼 줄어들지 않고 있다. 건설안전 정책을 맡은 공직자로서 어떻게 해야 현장을 실질적으로 바꿀 수 있을지 고민..",
-    "published_at": "2026-10-08T18:17:43+09:00",
-    "cluster_id": "195a",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "[기고] 건설시장의 승부처는 '안전한 현장'",
-    "summary": "지난해 건설현장 사망사고가 361명에 달하는 심각한 상황이 지속되고 있다. 기존의 제도 보완과 현장점검 강화만으로는 효과가 제한적이며, 현장 안전문화의 실질적 개선이 필요하다는 지적이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T20:01:05+09:00",
     "importance": 4
   }
 ]
