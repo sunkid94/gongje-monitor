@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"하이엔드 더하거나 아예 떼거나\"…건설사 아파트 브랜드 전략의 변화 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20261014001212",
+    "description": "롯데건설이 지은 '나인원한남'은 사업지 주소와 지명을 조합해 이름을 붙였다. 현대건설이 시공한 'PH129'와 '에테르노 청담' 역시 독자 명칭을 택한 사례다. 용산구에서 공사 중인 '더파크사이드 서울'도 건설사 브랜드를...",
+    "published_at": "2026-10-15T06:00:00+09:00",
+    "cluster_id": "d3f7",
+    "publisher": "newspim.com",
+    "title_clean": "\"하이엔드 더하거나 아예 떼거나\"…건설사 아파트 브랜드 전략의 변화",
+    "summary": "건설사들이 아파트 브랜드 전략을 차별화하고 있으며, 일부는 럭셀리 전략으로 고부가가치를 추구하고 일부는 건설사 브랜드를 제거하는 등 시장 세분화 전략을 펼치고 있다. 이는 아파트 시장 경쟁 심화 속에서 각사가 차별성 확보를 통해 판매 전략을 다각화하려는 움직임이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-15T06:10:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21611,20 +21627,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "IPARK현산, 부산 연산13구역 2812억 수주···하반기 정비사업 1.77조 돌... - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=155689",
-    "description": "| 스마트비즈 = 최형호 기자 | IPARK현대산업개발이 부산 연산13구역 재개발사업 시공권을 확보하며 하반기 정비사업 수주 행보에 속도를 내고 있다. 성남과 의정부에 이어 부산에서도 대형 정비사업을 따내면서 올해...",
-    "published_at": "2026-10-06T16:24:00+09:00",
-    "cluster_id": "97bd",
-    "publisher": "smartbizn.com",
-    "title_clean": "IPARK현산, 부산 연산13구역 2812억 수주···하반기 정비사업 1.77조 돌...",
-    "summary": "IPARK현대산업개발이 부산 연산13구역 재개발사업 2812억 원 수주를 확보했다. 성남, 의정부에 이어 부산까지 대형 정비사업을 수주하며 하반기 정비사업 수주 실적을 늘려가고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T16:30:52+09:00",
-    "importance": 2
+    "title": "[삼표 Watch①] 정도원·대현, 시멘트 경영권 건 위험한 체질개선 - hansbiz.co.kr",
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871876",
+    "description": "건설경기 침체로 주력 사업 수익성이 악화한 가운데 개발사업을 위한 브릿지론 차입이 빠르게 증가하면서 재무안정성에 경고등이 켜졌다. 삼표그룹은 서울 성동구 성수동 옛 삼표레미콘 공장 부지에 81층 규모...",
+    "published_at": "2026-10-15T06:02:00+09:00",
+    "cluster_id": "edcf",
+    "publisher": "hansbiz.co.kr",
+    "title_clean": "[삼표 Watch①] 정도원·대현, 시멘트 경영권 건 위험한 체질개선",
+    "summary": "삼표그룹이 건설경기 침체로 시멘트 사업 수익성이 악화하는 가운데 개발사업 브릿지론 차입을 급속도로 늘리면서 재무안정성이 악화되고 있다. 경기 부진 속 높아진 차입금으로 인해 경영권 안정성에 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-15T06:10:27+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
@@ -32312,22 +32328,6 @@
     "summary": "대우건설이 데이터센터사업팀과 안전품질본부를 신설하며 조직 개편을 단행했다. 도시정비사업 조직도 3개 팀으로 확대하여 사업 다각화와 품질 관리 체계를 강화했다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-08T18:46:28+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "\"하도급대금 안정적 지급, 정책 실효성 높여야\" - koit.co.kr",
-    "link": "https://www.koit.co.kr/news/articleView.html?idxno=209425",
-    "description": "공정거래위원회는 지난해 11월 '하도급대금 지급안정성 강화 대책'을 발표한 이후 관련 조직과 법·제도를... 국토교통부 역시 건설산업기본법 개정을 통해 전자대금지급시스템의 적용 범위를 민간공사까지 확대할...",
-    "published_at": "2026-10-08T18:28:00+09:00",
-    "cluster_id": "0c2a",
-    "publisher": "koit.co.kr",
-    "title_clean": "\"하도급대금 안정적 지급, 정책 실효성 높여야\"",
-    "summary": "공정거래위원회와 국토교통부가 하도급대금 지급안정성 강화를 위해 관련 법·제도를 정비하고 전자대금지급시스템의 적용 범위를 민간공사까지 확대하고 있다. 이는 건설하도급업체의 대금 지급 지연 문제를 개선하기 위한 정책 실효성 강화 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T18:41:38+09:00",
     "importance": 2
   }
 ]
