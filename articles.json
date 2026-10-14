@@ -5695,23 +5695,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "의성군, 경로당 12곳 냉방·환기시설 개선 - localsegye.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UN0pObTRrRXFzWFNjbFNiU3EzUGN0Z2NrcnFMbExxMnE3NHI2bkk5amJCV0RMXzhKZVhtbzJZdUd6UzNSeFEzTTlkcy10b1dTeEMzb0FDSzFOZ2tpWDFHWtIBWEFVX3lxTE5TNUFiMTBlOW1qU1lVSnRqNEtEWjR2d2NEbXNoUEhJYU1UcGk1aUt0QTFCcDN1Q2JDSDZPenZNLWpTQzMzb0cxU045dVVkcUxEZ2xzbHRCRDQ?oc=5",
-    "description": "경북 의성군은 대한기계설비건설협회와 기계설비건설공제조합이 추진하는 ‘2026년 사회적 취약계층 기계설비 지원사업’을 통해 지역 경로당 12곳의 냉방·환기시설 개선을 완료했다고 밝혔다.이번 사업은 지난 3일부터 10일까지 의성읍 상리 ...",
-    "published_at": "2026-09-14T10:41:30+09:00",
-    "cluster_id": "e7dd",
-    "publisher": "localsegye.co.kr",
-    "title_clean": "의성군, 경로당 12곳 냉방·환기시설 개선",
-    "summary": "대한기계설비건설협회와 기계설비건설공제조합이 추진하는 '2026년 사회적 취약계층 기계설비 지원사업'을 통해 경북 의성군의 경로당 12곳 냉방·환기시설 개선을 완료했다. 이는 사회적 책임을 다하는 업계의 공익 활동으로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-14T17:51:37+09:00",
-    "event_label": "기계설비건설공제조합·대한기계설비건설협회 2026년 사회적 취약계층 기계설비 지원사업 완료",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21709,6 +21692,22 @@
     "summary": "IPARK현산이 부산 연산13구역 재개발을 수주하며 하반기 도시정비사업 수주 실적을 1조8000억원대로 기록했다. 건설사의 정비사업 수주 활성화로 건설업계 성장을 보여주는 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-10-06T16:02:09+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "호남 반도체에 지역 건설업계 기대감 - mdilbo.com",
+    "link": "http://www.mdilbo.com/detail/DDAuq0/759611",
+    "description": "호남 반도체 국가산업단지 조성이 지역 건설경기 회복의 새로운 동력이 될 것이라는 전망이 나오고 있다. 대규모 산업단지 기반시설 조성은 물론 반도체 공장 건설에 따른 외지 건설인력 유입과 배후 주거단지 개발까지...",
+    "published_at": "2026-10-14T17:52:00+09:00",
+    "cluster_id": "14e1",
+    "publisher": "mdilbo.com",
+    "title_clean": "호남 반도체에 지역 건설업계 기대감",
+    "summary": "호남 반도체 국가산업단지 조성으로 대규모 기반시설 공사와 반도체 공장 건설, 주거단지 개발 등 건설 수주 기회가 증가할 것으로 예상된다. 외지 건설인력 유입으로 인한 건설경기 활성화가 지역 건설업계의 새로운 성장 동력으로 작용할 것으로 전망된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T18:00:58+09:00",
     "importance": 2
   },
   {
