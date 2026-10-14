@@ -5712,6 +5712,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"군포 최초로 AI홈케어 적용\"···IPARK현대산업개발, 금정역세권1구역... - enewstoday.co.kr",
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480207",
+    "description": "IPARK현대산업개발이 경기 군포 금정역세권1구역 재개발사업의 우선협상대상자로 선정됐다. 회사는 단지명으로 '아이파크 원 어센트(IPARK ONE ASCENT)'를 제안하고, 35층 스카이 커뮤니티와 조망 특화설계, AI·로봇 기반...",
+    "published_at": "2026-10-14T17:46:00+09:00",
+    "cluster_id": "70c8",
+    "publisher": "enewstoday.co.kr",
+    "title_clean": "\"군포 최초로 AI홈케어 적용\"···IPARK현대산업개발, 금정역세권1구역...",
+    "summary": "IPARK현대산업개발이 경기 군포 금정역세권1구역 재개발사업 우선협상대상자로 선정됐다. AI·로봇 기반 홈케어 시스템을 적용한 '아이파크 원 어센트' 건설을 통해 신규 수주를 확보했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T17:50:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21696,20 +21712,20 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "IPARK현대산업개발, 부산 연산13구역 수주…정비사업 1.7조 돌파 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726862",
-    "description": "IPARK현대산업개발이 2812억원 규모의 부산 연산13구역 재개발 시공권을 확보했다. 성남 태평3구역과 의정부 장암2구역에 이은 하반기 세 번째 정비사업 수주로, 올해 누적 수주액은 1조7666억원으로 늘었다....",
-    "published_at": "2026-10-06T15:46:00+09:00",
-    "cluster_id": "53dc",
-    "publisher": "ebn.co.kr",
-    "title_clean": "IPARK현대산업개발, 부산 연산13구역 수주…정비사업 1.7조 돌파",
-    "summary": "IPARK현대산업개발이 부산 연산13구역 재개발 시공권을 2812억원 규모로 수주했다. 올해 누적 수주액이 1조7666억원으로 증가하며 정비사업 시장의 활황을 보여주고 있다.",
+    "title": "텐트 치고 기다린 신축 전세…대구서 수요 확인된 CR리츠, 부산으로 - gpkorea.com",
+    "link": "https://www.gpkorea.com/news/articleView.html?idxno=147568",
+    "description": "정부는 2024년 3월 비상경제장관회의에서 '건설경기 회복지원 방안'을 발표하며 세제 지원을 받는 CR리츠를 10년 만에 다시 도입했다. 지방 미분양 주택을 매입하는 CR리츠에는 취득세 중과 배제(준공 후 미분양주택 한정)...",
+    "published_at": "2026-10-14T17:44:00+09:00",
+    "cluster_id": "846a",
+    "publisher": "gpkorea.com",
+    "title_clean": "텐트 치고 기다린 신축 전세…대구서 수요 확인된 CR리츠, 부산으로",
+    "summary": "정부가 2024년 3월 건설경기 회복 방안으로 10년 만에 CR리츠를 재도입했으며, 대구에서 신축 전세주택 수요가 확인되면서 부산으로 확대 추진 중이다. CR리츠는 지방 미분양 주택 매입 시 취득세 중과 배제 등 세제 혜택을 제공하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-06T16:02:09+09:00",
-    "importance": 3
+    "collected_at": "2026-10-14T17:50:37+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32318,21 +32334,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T16:47:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[2026국감] 가덕도신공항 PBD 검증 논란… 대우건설·국토부 “졸속 승인 아냐” - 천지일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qR0FqV0ZkUk1sM2VQdjdNbUVVb2ZCOTEyRDd5NjZyX1B6cm5oWHhYVUV6b0ljWTBOel9ISUNaMnc0bGhPZEk3bWhhaWg4WUtaZVZCaFg2OE52bko0RlRwS0xndjEyMUlCdnc?oc=5",
-    "description": "[천지일보=정다준 기자] 대우건설 컨소시엄이 가덕도신공항에 적용할 해상 연직배수(PBD) 공법의 시공성 검증에서 일부 문제가 확인됐지만 이를 반영한 개선안을 기본설계에 담았다고 7일 밝혔다. 국토교통부도 검증 결과를 알고도 기본설계를 졸속 통과시켰다는 주장은 사실과 다르다고 해명했다.",
-    "published_at": "2026-10-07T21:42:57+09:00",
-    "cluster_id": "f835",
-    "publisher": "천지일보",
-    "title_clean": "[2026국감] 가덕도신공항 PBD 검증 논란… 대우건설·국토부 “졸속 승인 아냐”",
-    "summary": "가덕도신공항 PBD 공법 검증에서 일부 문제가 발견됐으나, 대우건설과 국토교통부는 개선안을 설계에 반영했으며 졸속 승인이 아니라고 해명했다. 대형 국책사업의 기술 검증 과정에서의 논란으로, 향후 시공 진행 여부가 주목된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T16:47:01+09:00",
-    "importance": 2
   }
 ]
