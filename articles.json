@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[THE Biz&CEO] 레인보우로보틱스 이정호… 사법리스크 벗고 '삼성로봇' 이... - the-biz.co.kr",
+    "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=729168",
+    "description": "그는 박사학위 취득 이후 2008년부터 2010년까지 삼성중공업 산업기술연구소 책임연구원과 한국로봇융합연구원 선임연구원 등을 거쳤다. 일정 기간 현장과 실무를 거치며 로봇의 산업용 가능성에 주목했다. 이 대표가...",
+    "published_at": "2026-10-15T07:00:00+09:00",
+    "cluster_id": "8cd7",
+    "publisher": "",
+    "title_clean": "[THE Biz&CEO] 레인보우로보틱스 이정호… 사법리스크 벗고 '삼성로봇' 이... - the-biz.co.kr",
+    "summary": "레인보우로보틱스 이정호 대표가 삼성중공업과 한국로봇융합연구원 등에서 산업용 로봇의 가능성을 연구한 경력을 바탕으로 회사를 이끌고 있다. 사법리스크를 극복하고 산업용 로봇 사업에 집중하는 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-15T07:10:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21609,22 +21625,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-06T16:41:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 2812억 규모 연산13구역 재개발 수주 - 시장경제신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EYzBhclpVWExaQ1RTWE9yeVNCWDhTZHVCVTdrbkdEaThzUmFwY0FMQnFSRHQySzFCRjJpZWZ4bGxaWUFHWWYwdmxSLUJ5YkRLS1ZycEE0ZmMta05XYlh1WFJkb2E1cFZMTzZOb1lmMzQ?oc=5",
-    "description": "[시장경제신문 = 양병철 기자] IPARK현대산업개발(IPARK현산)은 지난 3일 개최된 부산 연산13구역 주택재개발정비사업 시공사 선정 총회에서 총 249표 중",
-    "published_at": "2026-10-06T16:33:52+09:00",
-    "cluster_id": "fb3a",
-    "publisher": "시장경제신문",
-    "title_clean": "IPARK현대산업개발, 2812억 규모 연산13구역 재개발 수주",
-    "summary": "IPARK현대산업개발이 부산 연산13구역 주택재개발정비사업의 시공사로 선정되어 2812억 규모 수주를 확보했다. 이는 건설업계의 수주 증가로 이어지는 긍정적 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T16:41:34+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
