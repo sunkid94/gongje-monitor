@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "SK그룹, 미 원전기업 웨스팅하우스에 지분 투자 검토 - newstomato.com",
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1316752&inflow=N",
+    "description": "SK그룹 외에도 삼성물산(028260)과 현대건설(000720), 두산에너빌리티(034020) 등이 SK그룹이 주도하는 컨소시엄 참여를 검토하는 것으로 알려졌습니다. 삼성물산과 현대건설은 미국 원전 건설사업에서 설계·조달·시공...",
+    "published_at": "2026-10-15T08:24:00+09:00",
+    "cluster_id": "cc26",
+    "publisher": "newstomato.com",
+    "title_clean": "SK그룹, 미 원전기업 웨스팅하우스에 지분 투자 검토",
+    "summary": "SK그룹이 미국 원전기업 웨스팅하우스에 지분 투자를 검토 중이며, 삼성물산, 현대건설, 두산에너빌리티 등이 컨소시엄 참여를 검토하고 있습니다. 미국 원전 건설사업 진출을 통해 대규모 설계·조달·시공 사업 수주 기회를 노리고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T08:30:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21606,22 +21622,6 @@
     "publisher": "efnews.co.kr",
     "title_clean": "IPARK현대산업개발, 2천812억 원 규모 부산 연산13구역 재개발 수주",
     "summary": "IPARK현대산업개발이 부산 연산13구역 주택재개발정비사업의 시공사로 선정되어 2,812억 원 규모의 수주를 확보했다. 이는 건설업계의 대형 프로젝트 수주로 긍정적인 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T16:41:34+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 부산 연산13구역 재개발 수주...사업비 2812억 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20261006001272",
-    "description": "IPARK현대산업개발이 2800억원 규모 부산 연산13구역 재개발사업 시공사로 선정됐다. IPARK현대산업개발은 지난 3일 부산 연산13구역 주택재개발정비사업 시공사 선정 총회에서 시공권을 확보했다고 6일 밝혔다....",
-    "published_at": "2026-10-06T16:32:00+09:00",
-    "cluster_id": "2ecf",
-    "publisher": "newspim.com",
-    "title_clean": "IPARK현대산업개발, 부산 연산13구역 재개발 수주...사업비 2812억",
-    "summary": "IPARK현대산업개발이 부산 연산13구역 주택재개발정비사업 시공사로 선정되어 2812억원 규모의 사업을 수주했다. 건설사의 신규 수주 확보로 건설업계의 긍정적인 신호를 나타낸다.",
     "sentiment": "positive",
     "collected_at": "2026-10-06T16:41:34+09:00",
     "importance": 3
