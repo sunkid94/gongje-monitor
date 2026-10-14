@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘의 주요일정]사회(10월15일 목요일) - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20261014_0003826426",
+    "description": "▲오전 6시 한국노총 섬유건설조합, 홍은동 두산건설 공사현장 1G 앞, 불법 외국인 고용 규탄 ▲오전 7시 민주노총 건설노조경기중서부지부, 한강로동 용산역 잔디광장, 현대산업개발 규탄 ▲오전 7시 한국노총...",
+    "published_at": "2026-10-15T06:00:00+09:00",
+    "cluster_id": "2a43",
+    "publisher": "newsis.com",
+    "title_clean": "[오늘의 주요일정]사회(10월15일 목요일)",
+    "summary": "10월 15일 한국노총과 민주노총이 건설 현장에서 불법 외국인 고용 및 현대산업개발 관련 규탄 집회를 개최한다. 건설업계의 노동 문제와 근로 환경 개선을 요구하는 노조 활동이 예정되어 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-15T06:05:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21606,22 +21622,6 @@
     "publisher": "smartbizn.com",
     "title_clean": "IPARK현산, 부산 연산13구역 2812억 수주···하반기 정비사업 1.77조 돌...",
     "summary": "IPARK현대산업개발이 부산 연산13구역 재개발사업 2812억 원 수주를 확보했다. 성남, 의정부에 이어 부산까지 대형 정비사업을 수주하며 하반기 정비사업 수주 실적을 늘려가고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T16:30:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한·사우디, '수주 관계' 넘어 공동투자로…AI·철도·우주 협력판 키운... - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597457533634",
-    "description": "한국에서는 ▲코오롱 ▲포스코이앤씨 ▲네이버 ▲현대로템 ▲한국항공우주산업(KAI) 등이 참여했고, 사우디에서는 PIF를 비롯한 20여개 기업이 참석했다. 김창범 한경협 부회장은 “양국 경제협력은 발주와 수주를 넘어...",
-    "published_at": "2026-10-06T16:26:00+09:00",
-    "cluster_id": "68e4",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "한·사우디, '수주 관계' 넘어 공동투자로…AI·철도·우주 협력판 키운...",
-    "summary": "한국과 사우디가 기존의 발주-수주 관계에서 벗어나 AI, 철도, 우주 등 신산업 분야에서 공동투자 협력을 확대하기로 합의했다. 코오롱, 포스코이앤씨, 네이버, 현대로템, KAI 등 국내 주요 기업 20여 개사가 사우디의 PIF 등과 협력 기반을 구축했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-06T16:30:52+09:00",
     "importance": 2
