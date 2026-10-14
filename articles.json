@@ -21457,6 +21457,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "해수부, 항만 등 건설현장 46곳 안전점검 - 대한건설기계신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WVHNsSnpIZnVwYmZ6ei1HNFltLUp5SGY5azl0a0ZHZzRxNzJCbUhOcVhLeG1KUG1tTGxaOV8tTjQyYm56el95ejBvdVpvSThPNTItSUdVWHpMX0hzU2prSXlQV1Z6RG5X?oc=5",
+    "description": "해양수산부는 지난 27일 해양수산 건설공사의 품질확보와 안전사고 예방을 위해 다음달 30일까지 특별관리 대상사업에 대한 집중 현장점검을 실시한다고 밝혔다.점검대상",
+    "published_at": "2026-10-14T08:57:06+09:00",
+    "cluster_id": "6959",
+    "publisher": "대한건설기계신문",
+    "title_clean": "해수부, 항만 등 건설현장 46곳 안전점검",
+    "summary": "해양수산부가 항만 등 건설현장 46곳에 대해 다음달 30일까지 집중 안전점검을 실시한다고 발표했다. 해양수산 건설공사의 품질확보와 안전사고 예방이 목적이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-14T09:14:47+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32300,22 +32316,6 @@
     "publisher": "기계설비신문",
     "title_clean": "박홍배 의원, 기술 탈취 제재까지 평균 703일…피해기업 구제 지연 우려",
     "summary": "기술 탈취 피해기업의 신고부터 공정거래위원회 제재까지 평균 703일이 소요되는 것으로 드러났다. 32건 중 31건이 1년 이상 걸렸으며, 현재 처리 중인 11건도 1년 이상 미해결 상태로 피해기업 구제가 지연되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T10:14:31+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "현대건설, GTX-A 삼성역 철근 누락 하자 책임 10년으로 연장 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52204",
-    "description": "수도권광역급행철도(GTX)-A 삼성역 건설현장에서 철근 누락이 발생한 것과 관련해 현대건설이 향후 하자에 대한 책임을 지속적으로 이행하겠다고 밝혔다.임낙호 현대건설 토목사업본부장은 지난 7일 국회 국토교통위원회 국정감사에 출석해 철근 누락 보강 부위의 하자 책임 기간을 기존 5년에서 10년으로 연장하라는 더불어민주당 장종태 의원의 요구에 동의했다.임 본부장은 준공 이후 발생할 수 있는 하자에 대해서도 책임을 이어가겠다고 약속했다.또한 준공 이후 정밀 안전진단과 철근 누락 보수에 필요한 점검 비용에 대해서도 적극적으로 지원하고 협조하",
-    "published_at": "2026-10-08T09:34:21+09:00",
-    "cluster_id": "2a2d",
-    "publisher": "기계설비신문",
-    "title_clean": "현대건설, GTX-A 삼성역 철근 누락 하자 책임 10년으로 연장",
-    "summary": "현대건설이 GTX-A 삼성역 공사의 철근 누락 하자에 대해 기존 5년의 책임 기간을 10년으로 연장하기로 합의했다. 준공 후 발생할 수 있는 하자 책임 이행과 안전진단, 보수 비용을 적극 지원하기로 약속했다.",
     "sentiment": "negative",
     "collected_at": "2026-10-08T10:14:31+09:00",
     "importance": 4
