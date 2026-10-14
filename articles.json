@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[도시정비시장 풍향계] IPARK현대산업개발, 광명 하안주공6·7단지 단독입찰… 수의계약 ‘성큼’ - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rR2xOMTh0TGh2a3BLVFlwa3FjNm9qelpyeEZiaXFhMTdKcExQUXZGWTFocEp3blYyRlBnUVZqY3B5NkxtMTZyVjhWZGxyYXhYMnBrTEZpU19VQXViNlc0WnlFbDB2ZU45anJpYUFlaldjWkk?oc=5",
+    "description": "하안주공 주공6ㆍ7단지 전경. / 사진 :IPARK현대산업개발 제공[대한경제=한형용 기자]IPARK현대산업개발이 경기 광명시 하안주공6ㆍ7단지 재건축사업 시공권 확보에 한 발 다가섰다.14일 업계에 따르면 사업시행자인 한국토지신탁은 이날 시공사 수의계약을 위한 우선협상 ...",
+    "published_at": "2026-10-14T15:20:17+09:00",
+    "cluster_id": "f8a8",
+    "publisher": "대한경제",
+    "title_clean": "[도시정비시장 풍향계] IPARK현대산업개발, 광명 하안주공6·7단지 단독입찰… 수의계약 ‘성큼’",
+    "summary": "IPARK현대산업개발이 경기 광명시 하안주공6·7단지 재건축사업의 시공권을 우선협상을 통해 수의계약으로 확보하려 하고 있다. 기존의 경쟁입찰 방식에서 수의계약으로의 변화는 건설사의 수주 기회 창출로 작용할 가능성이 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T02:00:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21611,20 +21627,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 싱가포르 철도현장 안전상 3개…동남아 시공·개발 실적 축적 - kdfnews.com",
-    "link": "http://www.kdfnews.com/news/articleView.html?idxno=188898",
-    "description": "대우건설은 싱가포르 도시철도 CR108 현장이 육상교통청(LTA) 주관 '2026 안전·보건·환경 시상식(ASAC)'에서 안전 분야 3개 부문을 수상했다고 6일 밝혔다. 현장은 2021년 착공 이후 누적 800만시간의 무재해 기록을...",
-    "published_at": "2026-10-06T16:02:00+09:00",
-    "cluster_id": "e1fd",
-    "publisher": "kdfnews.com",
-    "title_clean": "대우건설, 싱가포르 철도현장 안전상 3개…동남아 시공·개발 실적 축적",
-    "summary": "대우건설이 싱가포르 도시철도 CR108 현장에서 안전·보건·환경 시상식에서 안전 분야 3개 부문을 수상했다. 800만시간의 무재해 기록을 달성하며 동남아 시공·개발 실적을 축적하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T16:11:12+09:00",
-    "importance": 3
+    "title": "경기도, 건설현장 사고 예방 위한 안전관리 교육 실시 - 웹이코노미",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZdTdMRzlfZkJfQUh3WWF1RTdJRm1sTzRjT0RKeUtmY0FEblZGUUgxWXp6eGEzTm55V3JpTlVISVBhZmNfeTM4WE5nSDlrdjY5V3RUYndhYmtFZml3dVE3cjlxa05oM0NqX1JqUzM3WTFaUQ?oc=5",
+    "description": "경기도는 14일 고양시 킨텍스에서 도와 시군 공무원, 건설현장 관계자 등 약 260명을 대상으로 건설현장 사고 예방을 위한 안전관리 교육을 진행했다.이번 교육은",
+    "published_at": "2026-10-14T19:44:41+09:00",
+    "cluster_id": "fd6c",
+    "publisher": "웹이코노미",
+    "title_clean": "경기도, 건설현장 사고 예방 위한 안전관리 교육 실시",
+    "summary": "경기도가 건설현장 사고 예방을 위해 도·시군 공무원과 건설현장 관계자 260명을 대상으로 안전관리 교육을 실시했다. 건설현장의 안전 기준 강화와 사고 예방에 초점을 맞춘 교육 프로그램이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-15T02:00:53+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32312,22 +32328,6 @@
     "summary": "홍지선 국토교통부 장관이 민간 주택공급 회복의 중요성을 강조하며 HUG PF보증 신속 지원을 약속했다. 주택 공급 차질 방지를 위해 정부의 적극적 지원 의지를 드러냈다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T18:41:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“안전을 최우선으로”···유진기업, 정기 안전보건 점검 실시 - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5VnR5bWxlNHhrNi1xSTdSYW9DSk14STd2WEo0anFTQXZpOG84Q0V0eEF6NHR1ZW1TZHVmSF9zY1I5STItYXFlbl9LakcyU0FGTDdUOFFaZFV3YnNmQWtPTVFOQ0RQZmZESlVmWk50LW7SAXRBVV95cUxQZzBwdFdaY2xlMWRBNzVzakVUOUxVQ3p4Q3U5dllhbF9fT1E3UFp5TXBfcW1rT1QwS3A5NHJoSlZoNVBUMUtxTE4ycXdNWkVfN0VuRHhmaDdlNll3WFFqZUJOMFM2c3d5c0h5VGU5VHk2bzdBZw?oc=5",
-    "description": "[이뉴스투데이 신지원 기자] 유진그룹의 모회사 유진기업은 전국 사업장을 대상으로 4분기 안전보건 점검을 실시한다고 8일 밝혔다.오는 12일부터 12월 4일까지 진행하는 이번 정기 점검은 사업장의 유해·위험요인 확인과 개선 조치 이행 여부, 관리감독자의 안전보건 업무 수행 실태를 살피는",
-    "published_at": "2026-10-08T17:53:59+09:00",
-    "cluster_id": "c3f8",
-    "publisher": "이뉴스투데이",
-    "title_clean": "“안전을 최우선으로”···유진기업, 정기 안전보건 점검 실시",
-    "summary": "유진기업이 전국 사업장을 대상으로 4분기 정기 안전보건 점검을 12월 4일까지 실시한다. 유해·위험요인 확인, 개선 조치 이행 여부, 관리감독자의 안전보건 업무 수행 실태를 점검하는 예방적 조치.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T18:10:56+09:00",
     "importance": 2
   }
 ]
