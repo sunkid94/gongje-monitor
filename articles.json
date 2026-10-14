@@ -5644,6 +5644,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“내일을 키우는 씨앗”…2026 국제종자박람회 21일부터 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8685854&ref=A",
+    "description": "7백 77가구 규모의 1블록은 대우건설 시공 아파트가 들어서 내년 1월 분양할 예정이며, 나머지 2천 백 7가구 규모의 2·3·4블록은 다음 주 주택건설사업계획 승인을 앞두고 있습니다. 완주군은 산단 내 공동주택 건립을...",
+    "published_at": "2026-10-14T20:24:00+09:00",
+    "cluster_id": "a1d5",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "“내일을 키우는 씨앗”…2026 국제종자박람회 21일부터",
+    "summary": "2026 국제종자박람회가 21일부터 개최되며, 완주군 산단 내 공동주택 건립 사업이 진행 중입니다. 대우건설이 시공하는 777가구 규모 1블록은 내년 1월 분양 예정이고, 2·3·4블록(2,207가구)은 주택건설사업계획 승인을 앞두고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-14T20:45:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21626,22 +21642,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-06T16:02:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "부산 광안7구역 재개발 입찰 참여사 없어 유찰 - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204945",
-    "description": "앞서 열린 현장설명회에는 대우건설과 동부건설, 동원개발이 참석해 관심을 보였다. 입찰보증금이 250억원으로 책정돼 대형건설사가 입찰에 참여할 것으로 예상된다. 재입찰이 시행되면 대우건설이 입찰에 참여할...",
-    "published_at": "2026-10-06T15:50:00+09:00",
-    "cluster_id": "5fb2",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "부산 광안7구역 재개발 입찰 참여사 없어 유찰",
-    "summary": "부산 광안7구역 재개발 사업 입찰에 참여사가 없어 유찰되었다. 250억원의 높은 입찰보증금이 대형건설사들의 참여를 제한한 것으로 보이며, 재입찰 시행이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-06T16:02:09+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
