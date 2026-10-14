@@ -21644,6 +21644,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"10월 17일, '주권 찾기의 날'에 힘을 모아주십시오!\" - tongilnews.com",
+    "link": "http://www.tongilnews.com/news/articleView.html?idxno=217783",
+    "description": "\"불평등한 한미관계와 미 군사복합체 지적… 안보 빌미로 한 착취에 더 이상 속지 말아야\" 이어 발언에 나선 하해성 자주연합 노동위원회(준) 회원은 건설 노동자의 관점에서 평택 미군기지 부지의 불평등성과 미...",
+    "published_at": "2026-10-14T23:20:00+09:00",
+    "cluster_id": "e75d",
+    "publisher": "tongilnews.com",
+    "title_clean": "\"10월 17일, '주권 찾기의 날'에 힘을 모아주십시오!\"",
+    "summary": "자주연합이 10월 17일 '주권 찾기의 날' 행사를 개최하며 불평등한 한미관계와 미 군사복합체를 비판하고 있습니다. 평택 미군기지 부지 문제와 관련하여 건설 노동자 관점에서 안보를 빌미로 한 착취 문제를 제기하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-14T23:30:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32313,22 +32329,6 @@
     "summary": "철원군이 2027년도 예산을 '민생 안정과 내수경기 활성화'에 집중하기로 결정했다. 민선 9기 첫 본예산으로 지역 경제 활성화를 추진할 계획이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-08T17:31:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대우건설, 데이터센터·도시정비 강화…안전·리스크 관리 조직 개편 - 뉴스토마토",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Dd1JrNlZLZ2kyTmpsNjQ3ZmJvVzZJT2JKWlhndWJ4aTRMTzhCSVdFNEJZVkpnVUtoZEZfTUtKcFI2LVB6VlZIWVk5SEVObE10RVhpLW05b2V4Vkg0SUJmUw?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Dd1JrNlZLZ2kyTmpsNjQ3ZmJvVzZJT2JKWlhndWJ4aTRMTzhCSVdFNEJZVkpnVUtoZEZfTUtKcFI2LVB6VlZIWVk5SEVObE10RVhpLW05b2V4Vkg0SUJmUw?oc=5\" target=\"_blank\">대우건설, 데이터센터·도시정비 강화…안전·리스크 관리 조직 개편</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
-    "published_at": "2026-10-08T16:31:13+09:00",
-    "cluster_id": "df51",
-    "publisher": "뉴스토마토",
-    "title_clean": "대우건설, 데이터센터·도시정비 강화…안전·리스크 관리 조직 개편",
-    "summary": "대우건설이 데이터센터와 도시정비 사업을 강화하기 위해 조직 개편을 단행했다. 안전 및 리스크 관리 조직을 개편해 사업 효율성과 안정성을 높이려는 전략적 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T17:11:26+09:00",
     "importance": 2
   }
 ]
