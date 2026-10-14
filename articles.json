@@ -5644,23 +5644,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설協 '울산-경남' 분리 재추진 - ujeil.com",
-    "link": "http://www.ujeil.com/news/articleView.html?idxno=392065",
-    "description": "5% 분리 찬성 -도회 총회 만장일치에도 이사회서 부결 -한 차례 부결안 이사회 재상정이 '관건' -하반기 재상정 요구·정치권 대응 병행 대한기계설비건설협회의 울산·경남도회 분리 문제가 다시 추진된다. 지난해 울산...",
-    "published_at": "2026-09-14T19:36:00+09:00",
-    "cluster_id": "59eb",
-    "publisher": "ujeil.com",
-    "title_clean": "기계설비건설協 '울산-경남' 분리 재추진",
-    "summary": "대한기계설비건설협회의 울산·경남도회 분리 문제가 재추진된다. 도회 총회에서는 만장일치로 분리를 찬성했으나 이사회에서 부결되었으며, 하반기 재상정을 추진할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-14T19:47:04+09:00",
-    "event_label": "대한기계설비건설협회 울산·경남도회 분리 재추진",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21659,6 +21642,22 @@
     "sentiment": "negative",
     "collected_at": "2026-10-06T16:02:09+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기도, 건설현장 안전관리 실무교육… 공공·민간 관계자 260명 참여 - lawissue.co.kr",
+    "link": "https://www.lawissue.co.kr/view.php?ud=202610141602439240d94aa4ada6_12",
+    "description": "건설현장 안전에 관한 기술과 제품을 소개하는 전문 전시회로, 현장에 활용할 수 있는 안전관리 방안을 살펴보는 기회도 제공한다. 김도형 노동국장은 공공과 민간이 함께 안전관리 방향을 논의하고 실제 현장에 적용할...",
+    "published_at": "2026-10-14T20:04:00+09:00",
+    "cluster_id": "4be9",
+    "publisher": "lawissue.co.kr",
+    "title_clean": "경기도, 건설현장 안전관리 실무교육… 공공·민간 관계자 260명 참여",
+    "summary": "경기도가 건설현장 안전관리 실무교육을 개최하여 공공·민간 관계자 260명이 참여했다. 전문 전시회를 통해 건설현장의 안전기술과 제품을 소개하고, 실제 현장에 적용 가능한 안전관리 방안을 논의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-14T20:10:36+09:00",
+    "importance": 3
   },
   {
     "keyword": "건설경기",
