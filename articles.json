@@ -5457,6 +5457,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "조선업 호황에 선주사 임대수요까지…'힐스테이트 거제시그니처' 공급 - gpkorea.com",
+    "link": "https://www.gpkorea.com/news/articleView.html?idxno=147530",
+    "description": "올해 6월 기준 삼성중공업의 수주잔고는 355억달러, 한화오션은 337억7000만달러로 두 회사의 수주잔고를 합하면 692억7000만달러에 달한다. 선박 건조는 수주에서 인도까지 상당한 기간이 걸리는 만큼 확보된 일감이 실제...",
+    "published_at": "2026-10-14T09:00:00+09:00",
+    "cluster_id": "4fc6",
+    "publisher": "gpkorea.com",
+    "title_clean": "조선업 호황에 선주사 임대수요까지…'힐스테이트 거제시그니처' 공급",
+    "summary": "조선업 호황으로 삼성중공업과 한화오션의 수주잔고가 692억7000만달러에 달하며, 이에 따른 선주사의 임대수요 증가로 거제 지역 건설 수요가 확대되고 있다. 선박 건조의 장기 수주-인도 구조로 인해 건설업계의 안정적인 일감 확보가 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-14T09:04:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21439,22 +21455,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-06T11:59:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, '싱가포르 도시철도 프로젝트' 3개 부문 수상 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yX2ZKWWJqczBTTFlpMHRrWmNRd0FhY0JOM2ljRDQxakJUb055TEd0LTRpY0VvQkxQeFpwNTNRVlJYRU9naGxPRWVfaWhuUHNVNGlfdGFzYUZVUQ?oc=5",
-    "description": "국내 건설사가 시공하는 싱가포르 현장이 현지 정부로부터 수상하는 성과를 거뒀다.6일 업계에 따르면 대우건설의 싱가포르 도시철도 CR108 프로젝트가 육상교통청이 주관하는 '2026 ASAC'에서 안전 분야 3개 부문을 수상했다.ASAC는 싱가포르 육상교통청이 1999년부터 ..",
-    "published_at": "2026-10-06T10:02:51+09:00",
-    "cluster_id": "4c1b",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "대우건설, '싱가포르 도시철도 프로젝트' 3개 부문 수상",
-    "summary": "대우건설의 싱가포르 도시철도 CR108 프로젝트가 싱가포르 육상교통청 주관 'ASAC 2026'에서 안전 분야 3개 부문을 수상했다. 국내 건설사의 해외 대형 인프라 프로젝트 수행 능력과 안전성을 인정받은 성과이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T11:59:21+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 PF",
