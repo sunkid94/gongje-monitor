@@ -21627,6 +21627,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인피닉, 건설안전·공공·치안 분야 AI 영상 분석·관제 시장 공략 박차 - 데이터넷",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFbUk0aE4wcDJjY0F2NTFESmxuSDZreHRFVEJuTlk2QUE5cjQ3WUlEX0Z5X2htanItWGJxcjFjRHhwQmJ6UXhxRm9aUllHU1Vxcl9fOHNoTE5NSndMVTVNc0piU25zcUF0UlRQVg?oc=5",
+    "description": "[데이터넷] AI 플랫폼 전문 기업 인피닉(각자대표 박준형·최철규)은 AI 영상 분석 및 관제 솔루션의 적용 영역을 넓히며 건설안전·공공·치안 시장 공략 강화에 나선다.인피닉은 산업별 현장 특성과 안전·보안 관리 수요에 맞춘 AI 솔루션을 통해 사업 영역을 확대하고 있다. 최근 산업 현장뿐 아니라 건설안전·공공 및 치안 분야에서도 CCTV 기반의 지능형 안전·보안 관리 수요가 급증함에 따라 다각화된 현장 맞춤형 솔루션으로 신사업 기회를 적극 발굴한다는 전략이다.건설 및 산업 현장에서는 안전사고 예방과 안정적인 관제 지원에 집중한다.",
+    "published_at": "2026-10-14T18:45:42+09:00",
+    "cluster_id": "7122",
+    "publisher": "데이터넷",
+    "title_clean": "인피닉, 건설안전·공공·치안 분야 AI 영상 분석·관제 시장 공략 박차",
+    "summary": "AI 영상 분석 기업 인피닉이 건설안전, 공공, 치안 분야으로 사업 영역을 확대하며 CCTV 기반 지능형 안전·보안 관리 솔루션을 공략하고 있다. 산업 현장의 안전사고 예방 및 관제 지원 수요 증가에 따라 현장 맞춤형 솔루션으로 신사업 기회를 발굴 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T03:45:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32311,22 +32327,6 @@
     "title_clean": "[효성 인사 전망]② 승진·신임 임원 39명, 해외법인과 신사업에서 맡은...",
     "summary": "효성이 승진·신임 임원 39명을 인사 발령했으며, 전석 상무는 건설현장 안전관리를 담당하게 됐다. 중대재해 예방을 위한 관리체계 적용이 핵심 업무로 강조되고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-08T18:41:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "국토장관 \"민간 주택공급 회복 중요…HUG PF보증 신속 지원해야\"(종합) - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CeVluMVhFdlVJNkxSY09WWWcyTUh5LVh1NTQ1TVB4NFpFaVRUXzhfNUF0WHVxcHh3d0d6LUVNRFJXdmpnc2FUaWlaa0gwaHdpdnZ6NFJtTFJ1Y0VLOWRUX9IBYEFVX3lxTE9CeVluMVhFdlVJNkxSY09WWWcyTUh5LVh1NTQ1TVB4NFpFaVRUXzhfNUF0WHVxcHh3d0d6LUVNRFJXdmpnc2FUaWlaa0gwaHdpdnZ6NFJtTFJ1Y0VLOWRUXw?oc=5",
-    "description": "(세종=연합뉴스) 임기창 오진송 기자 = 홍지선 국토교통부 장관이 8일 서울 고덕강일지구의 민간 주택건설 사업장을 찾아 주택 공급에 차질이 없도...",
-    "published_at": "2026-10-08T17:17:34+09:00",
-    "cluster_id": "8fff",
-    "publisher": "연합뉴스",
-    "title_clean": "국토장관 \"민간 주택공급 회복 중요…HUG PF보증 신속 지원해야\"(종합)",
-    "summary": "홍지선 국토교통부 장관이 민간 주택공급 회복의 중요성을 강조하며 HUG PF보증 신속 지원을 약속했다. 주택 공급 차질 방지를 위해 정부의 적극적 지원 의지를 드러냈다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-08T18:41:38+09:00",
     "importance": 2
   }
