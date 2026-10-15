@@ -21525,6 +21525,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“신앙인 소명으로 나눔 실천” 자소서로 합격… 건설근로자공제회 성남라인 이사장 논란 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iYXFrUGVtLUNFXzJzQXhPM3Q0SGxOZjJlcEpiUFd6ei1HWl9nY1JlUGdoeGJjRl9TYkdzRTlKcUJ0TWw4N0lBeWQ1a3lUMGZvSDlfdjJ2QXJ6ZVd6WGZ2RkNWQWZ5ZnlwRjNJU1ptaU90OENaQnhN0gFmQVVfeXFMTkRHNzJ4dDE2bGVDajA1azNsYkVXWlZ0RTRDNXpTWFg4M1lqZ2NTbjk5NGduNHlvZ3p0aTBDWXVPWG9vR1ZWc3BYb0FFTjdxdGNwNDZmSFpLUVh0UWl3ZktlZUhIMlp3?oc=5",
+    "description": "이른바 ‘경기·성남 라인’ 인사들이 공공기관장으로 임명된 것을 둘러싼 논란이 확산되고 있다. 야권에서는 관련 경력이나 전문성이 부족한 ‘낙하산’ 인사들이 임명됐다고 비판하고 있다. 15일 국회 기후에너지환경노동위원회 소속 국민의힘 나경원 의원실이 건설근로자공제회로부터…",
+    "published_at": "2026-10-16T04:30:00+09:00",
+    "cluster_id": "f2c1",
+    "publisher": "동아일보",
+    "title_clean": "“신앙인 소명으로 나눔 실천” 자소서로 합격… 건설근로자공제회 성남라인 이사장 논란",
+    "summary": "경기·성남 라인 인사들이 건설근로자공제회 등 공공기관장으로 임명된 것을 둘러싼 논란이 확산 중이다. 야권에서는 관련 경력과 전문성이 부족한 '낙하산' 인사라고 비판하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T04:39:21+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32307,21 +32323,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T11:39:00+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "스마트밴드 없이 위치 추적···금호건설, 스마트 안전관리 기술 특허 - 스마트비즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWHJJWVEyZ0VReHNlNlFxZzlvLThmTzlCMWZ2VFlCQmFkQ3YxU3VDaHJ5YVIzZjlFOERYWVVXVVpRZ0pReEpPczFMWlVlVmU2aUg5elNXcHR1ZzJkU3lXVnJ5eXFydG1WNE1IVg?oc=5",
-    "description": "| 스마트비즈 = 최형호 기자 | 건설현장 안전관리가 육안 점검과 폐쇄회로(CC)TV 중심의 사후 확인에서 실시간 위치 관제와 위험 알림을 활용한 선제 대응으로",
-    "published_at": "2026-10-12T11:07:42+09:00",
-    "cluster_id": "ba2b",
-    "publisher": "스마트비즈",
-    "title_clean": "스마트밴드 없이 위치 추적···금호건설, 스마트 안전관리 기술 특허",
-    "summary": "금호건설이 스마트밴드 없이 건설현장 근로자의 위치를 추적하고 위험을 실시간으로 알리는 스마트 안전관리 기술 특허를 획득했다. 기존의 사후 대응식 안전관리에서 선제적 위험 대응으로 패러다임을 전환하는 기술이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T11:39:00+09:00",
-    "importance": 2
   }
 ]
