@@ -5542,6 +5542,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 양천구 어르신 위한 기부금 전달…지역사회 상생 실천 - 월드투데이",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WMTlNY2JaUVl2SXJrTUZMLXJCVGdCRENMV3NqRVhlT2VNYXZydnRQZlR5a0hvVGgzOGVHSlNqS2kyOWpNc2RwV2ZxZmd4azNYTkw4THlSRG1uNjdON1MxeWZJYzN4ZUlyMkREaWlB?oc=5",
+    "description": "[월드투데이 김세화 기자] IPARK현대산업개발이 서울 양천구 지역 어르신들의 복지 증진을 위한 기부금을 전달하며 지역사회와의 상생을 위한 나눔 활동을 이어갔다.IPARK현대산업개발은 지난 15일 서울 양천구 양천어르신종합복지관에서 지역 어르신들을 위한 기부금 전달식을 진행했다고 밝혔다. 이날 행사에는 한승호 양천어르신종합복지관 관장과 정광재 IPARK현대산업개발 도시정비수주팀 사업소장 등이 참석해 지역사회 나눔의 의미를 함께했다.이번에 전달된 기부금은 양천어르신종합복지관이 주관하는 지역 어르신 대상 복지 바자회 행사 지원에 활용될",
+    "published_at": "2026-10-15T18:51:40+09:00",
+    "cluster_id": "5a84",
+    "publisher": "월드투데이",
+    "title_clean": "IPARK현대산업개발, 양천구 어르신 위한 기부금 전달…지역사회 상생 실천",
+    "summary": "IPARK현대산업개발이 서울 양천구 양천어르신종합복지관에 기부금을 전달하며 지역사회 나눔 활동을 실천했다. 기부금은 지역 어르신 대상 복지 바자회 행사 지원에 활용될 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-15T18:59:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21526,20 +21542,20 @@
     "importance": 4
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "사망 절반이 추락사… 10대 건설사도 못 피한 ‘죽음의 현장’ - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12087839?ref=naver",
-    "description": "현대건설, 롯데건설 등 내로라하는 10대 건설사 현장마저 닷새 간격으로 추락사가 터지거나 같은 공구에서 비극이 반복될 정도로 안전 관리에 구멍이 뚫렸다. 특히 사고 원인의 절반 가까이를 ‘작업자 부주의’...",
-    "published_at": "2026-10-07T10:01:00+09:00",
-    "cluster_id": "d20a",
-    "publisher": "dt.co.kr",
-    "title_clean": "사망 절반이 추락사… 10대 건설사도 못 피한 ‘죽음의 현장’",
-    "summary": "현대건설, 롯데건설 등 주요 건설사에서 추락사 사고가 반복되고 있으며, 사고 원인의 절반이 작업자 부주의로 지적되고 있다. 대형 건설사마저 안전 관리에 구멍이 뚫려 있어 건설업 전반의 안전 문제가 심각한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T10:13:43+09:00",
-    "importance": 4
+    "title": "LH, AI 기반 경영혁신 본격화…이성훈 사장 직접 실행 점검 - socialvalue.kr",
+    "link": "https://www.socialvalue.kr/news/view/1065600625136552",
+    "description": "한국토지주택공사(LH)가 인공지능(AI)을 활용해 건설현장 안전관리와 주거서비스를 개선하고, 전사적인 경영혁신에 나선다. LH는 이성훈 사장과 주요 본부장 등 경영진이 참석한 가운데 서울지역본부에서 'LH AI...",
+    "published_at": "2026-10-15T18:56:00+09:00",
+    "cluster_id": "5536",
+    "publisher": "socialvalue.kr",
+    "title_clean": "LH, AI 기반 경영혁신 본격화…이성훈 사장 직접 실행 점검",
+    "summary": "LH가 AI 기술을 활용하여 건설현장 안전관리와 주거서비스 개선에 나서고 있으며, 경영진이 직접 실행을 점검하는 등 전사적 경영혁신을 추진 중이다. 이는 건설현장의 안전성 강화와 서비스 품질 개선을 통해 업계의 혁신적 변화를 주도하려는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T18:59:46+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32307,22 +32323,6 @@
     "summary": "금호건설이 스마트폰 앱 기반의 스마트안전관제시스템을 자체 개발하여 특허 출원했다. 별도 장비 없이 근로자 위치와 위험구역 접근을 실시간으로 관제할 수 있는 시스템으로, 현장 안전관리 효율화를 기대할 수 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T10:48:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "레미콘聯 '2026 레미콘 경영혁신 포럼' 개최 - kbiznews.co.kr",
-    "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114948",
-    "description": "이번 포럼은 '회복을 넘어 단단한 성장으로–새로운 시작의 첫걸음을 내딛다'를 주제로, 장기화된 건설경기 침체 속에서 레미콘업계가 당면한 주요 현안을 점검하고 급변하는 산업환경에 대응하기 위한 경영전략을...",
-    "published_at": "2026-10-12T10:36:00+09:00",
-    "cluster_id": "7951",
-    "publisher": "kbiznews.co.kr",
-    "title_clean": "레미콘聯 '2026 레미콘 경영혁신 포럼' 개최",
-    "summary": "레미콘연합회가 건설경기 침체 속 업계 현안을 점검하고 경영전략을 수립하기 위해 '2026 레미콘 경영혁신 포럼'을 개최했다. 포럼은 '회복을 넘어 단단한 성장으로'를 주제로 산업환경 변화에 대응하기 위한 논의의 자리가 되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-12T10:38:50+09:00",
     "importance": 2
   }
 ]
