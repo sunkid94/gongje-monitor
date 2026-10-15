@@ -21542,6 +21542,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH, ‘AI 대전환’ 선포…전담조직 ‘AI 혁신처’ 신설 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20102213?ref=naver",
+    "description": "LH는 건설현장 안전관리와 주택 하자관리, 입주민 돌봄 등 주요 업무에 AI를 접목해 왔다. 건설현장에서는 AI 영상분석 시스템 ‘늘봄 A-Eye’와 실시간 종합건설정보 시스템 ‘RICS(릭스)’를 연계해 고위험 현장...",
+    "published_at": "2026-10-15T18:26:00+09:00",
+    "cluster_id": "4f7b",
+    "publisher": "sedaily.com",
+    "title_clean": "LH, ‘AI 대전환’ 선포…전담조직 ‘AI 혁신처’ 신설",
+    "summary": "LH가 AI 혁신처를 신설하여 건설현장 안전관리, 주택 하자관리, 입주민 돌봄 등에 AI 기술을 적극 활용하는 'AI 대전환'을 추진한다. AI 영상분석 시스템과 실시간 건설정보 시스템 연계로 건설현장의 고위험 상황 관리 고도화를 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T18:34:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32308,21 +32324,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T10:38:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 스마트폰 기반 현장 안전관제 기술 특허 출원 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2FKODg4ZElfVjE4MWtnUzZPYlRGVTBCYnpDNFpLR1d3cEVueENlU0haejRGSF9xRjVEUzNUcmNnWGFxREluSFlYbmlMX3E0UEdBQmpWMEJlRXpDY0l1UzFrb2ozMTR5eGF3NHRvWTBLb3F2bE5RVWQ5U0c0Wl9EOW9JaE5YMDNZczRRdmNBVEVkQzdPR2xBUtIBrAFBVV95cUxPZU1ucmlmbkdlLUVadl8wMnlPSHFHd3IyR0ZFZm1DVlF2TDRaaV9zbjRidGpTdWtkRVJodi1tanhCSHgxTl90ZVpDclJoTEZUWUJWdnFHS0tteWY0QlVRRGN4a3V3RkNDX0h4S29oUjdoR0ZqTURhVENoNEdGajJIcWlXRTJIQmc4d0lQdl9QOUtBLWJuaEp0Ti01SDF0LXpEV19EY0hMVnFSZkkx?oc=5",
-    "description": "금호건설, 스마트폰 기반 현장 안전관제 기술 특허 출원 전국 건축·토목·플랜트 현장 확대 적용",
-    "published_at": "2026-10-12T01:16:55.801000+00:00",
-    "cluster_id": "0cfa",
-    "publisher": "Chosunbiz",
-    "title_clean": "금호건설, 스마트폰 기반 현장 안전관제 기술 특허 출원 - 조선비즈",
-    "summary": "금호건설이 스마트폰 기반 현장 안전관제 기술에 대해 특허를 출원했습니다. 이 기술은 건축, 토목, 플랜트 등 전국 건설 현장에 확대 적용될 예정입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T10:38:50+09:00",
-    "importance": 2
   }
 ]
