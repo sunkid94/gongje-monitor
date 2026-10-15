@@ -21630,6 +21630,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "세아베스틸, 원전 기자재 사업 확장···캐나다와 협력 - cnbnews.com",
+    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1019407",
+    "description": "건설경기 부진과 중국발 공급과잉으로 인한 불황에도 불구하고 AI와 에너지 산업의 발전으로 데이터센터, 원전, 재생에너지 등에 필요한 특수강 수요는 늘고 있다. 세아베스틸 관계자는 \"이번 MOU는 원전 산업의...",
+    "published_at": "2026-10-15T11:40:00+09:00",
+    "cluster_id": "3d59",
+    "publisher": "cnbnews.com",
+    "title_clean": "세아베스틸, 원전 기자재 사업 확장···캐나다와 협력",
+    "summary": "세아베스틸이 캐나다와 원전 기자재 사업 협력 MOU를 체결하며 원전 산업 진출을 확대하고 있다. AI와 에너지 산업 성장으로 데이터센터, 원전, 재생에너지 등 특수강 수요가 증가하는 추세 속에서 신규 사업 기회를 포착하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T11:45:33+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "이누스(옛 동서산업) 진주공장 휴업 장기화…노조 \"고용승계 보장\"촉구 - dandinews.com",
     "link": "http://www.dandinews.com/news/articleView.html?idxno=17727",
     "description": "값싼 중국산 타일의 공세와 건설경기 침체 속에 공장 운영이 어려워진 가운데, 노동조합은 공장 매각 과정에서 고용승계를 보장하고 퇴직금과 휴업수당 지급 대책을 마련하라고 요구하고 나섰다. 이누스 노동조합...",
@@ -32313,21 +32329,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-11T09:57:40+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설업 떠난 종사자 30만명 넘어… 35개월 만에 최대 - biz.chosun.com",
-    "link": "https://biz.chosun.com/policy/policy_sub/2026/10/11/UUEIR3Z4SZFMLBKDZBGGI4Q25A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "건설경기 부진이 장기화되면서 일자리를 잃는 건설업 종사자가 늘어난 것으로 해석된다. 올해 1~8월 건설업생산은 작년 1~8월보다 4.4% 감소한 것으로 잠정 집계됐다. 그중에서도 건축은 5.3%, 토목은 1.8% 감소했다....",
-    "published_at": "2026-10-11T09:34:00+09:00",
-    "cluster_id": "352c",
-    "publisher": "biz.chosun.com",
-    "title_clean": "건설업 떠난 종사자 30만명 넘어… 35개월 만에 최대",
-    "summary": "건설경기 부진이 지속되면서 건설업을 떠난 종사자가 30만명을 넘어 35개월 만에 최대치를 기록했다. 올해 1~8월 건설업생산이 전년 동기 대비 4.4% 감소했으며, 건축과 토목 모두 부진을 면치 못하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-11T09:37:37+09:00",
-    "importance": 4
   }
 ]
