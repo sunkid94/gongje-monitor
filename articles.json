@@ -21508,6 +21508,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "㈜대능, 도로 보수 기술혁신 10년 …수도권 넘어 전국으로 확산 - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10904403?ref=naver",
+    "description": "국토교통부 건설신기술에 지정된 지 10년 만이다. MMP를 이용한 도로포장 부분보수 공법은 2016년 10월 17일 건설신기술 제799호로 지정됐다. 포트홀(pot hole)이나 도로 일부 파손 등 소규모·긴급 보수 현장에서 가열...",
+    "published_at": "2026-10-16T07:50:00+09:00",
+    "cluster_id": "01a7",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "㈜대능, 도로 보수 기술혁신 10년 …수도권 넘어 전국으로 확산",
+    "summary": "㈜대능의 MMP 도로포장 부분보수 공법이 건설신기술 지정 10년을 맞아 수도권에서 전국으로 확산되고 있다. 포트홀 등 소규모·긴급 도로 보수 현장에서 효율성을 입증하며 도로유지보수 시장 기술혁신을 주도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T07:59:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32306,21 +32322,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T12:49:17+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 현장 ‘스마트안전관제시스템’ 특허 출원 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFcld6WE9DektsczNyaDNRbmV2a2VPQjNZMzF3eFh0ZUVZSHpTR0Z5VERsU1BMY2ZJaHU4M2RqQWEtRTlXYk9INHlrajNoMzdNaE1EUA?oc=5",
-    "description": "스마트 기술 더해 ‘이중 안전망’ 구축위험구역 진입 자동 알림·긴급호출자체 개발 시스템 현장 적용 본격화▲금호건설 스마트안전관제 시스템 관련 이",
-    "published_at": "2026-10-12T11:08:00+09:00",
-    "cluster_id": "8835",
-    "publisher": "이투데이",
-    "title_clean": "금호건설, 현장 ‘스마트안전관제시스템’ 특허 출원",
-    "summary": "금호건설이 현장 안전관리를 위한 '스마트안전관제시스템'의 특허 출원을 진행 중이며, 위험구역 진입 자동 알림과 긴급호출 기능을 갖춘 자체 개발 시스템을 현장에 본격 적용하고 있다. 스마트 기술을 통해 건설현장의 이중 안전망을 구축하려는 시도다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T12:49:17+09:00",
-    "importance": 2
   }
 ]
