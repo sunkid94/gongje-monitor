@@ -21525,6 +21525,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "E-9 고용허가 쿼터 8만 명 확정, 건설 현장 사업주가 지금 당장 챙겨야 할 핵심 관리 기준 [현장인력 리포트] - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlRDBQdUJNVUVNeFVPMGZfSW4tTEJZd05JeXhwZTF2NzV5MkRXUUtfZE9JVjI3MnRJVTNnUGVFUjY1UVE?oc=5",
+    "description": "2026년 쿼터 확정과 건설현장 변화 고용노동부가 2026년도 고용허가제(E-9) 외국인력 쿼터를 8만 명으로 확정하면서 건설 현장의 인력 구조가 또 한 번 변곡점을 맞았다. 체류자격 미확인 채용, 임금체불, 산재 은폐 등 리스크가 상시화된 상황에서 사업주가 취해야 할 대응은 명확하다. 채용 전 서류 검증, 계약의 문서화, 안전교육 이수 기록 보관이라는 세",
+    "published_at": "2026-10-16T06:15:41+09:00",
+    "cluster_id": "e358",
+    "publisher": "한국공공정책신문",
+    "title_clean": "E-9 고용허가 쿼터 8만 명 확정, 건설 현장 사업주가 지금 당장 챙겨야 할 핵심 관리 기준 [현장인력 리포트]",
+    "summary": "고용노동부가 2026년 E-9 외국인력 쿼터를 8만 명으로 확정했으며, 건설현장의 인력 구조 변화에 따라 사업주는 체류자격 검증, 계약 문서화, 안전교육 기록 보관 등 준수해야 할 관리 기준이 강화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T06:34:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32307,21 +32323,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T11:48:46+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 스마트폰 활용한 건설현장 안전관제시스템 특허 출원 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1FqZk5EWUs5Q2xGem5sLVhIQUhYVjVFWWYxVk1DVU1aOWVtY2ttbUtqRjRRRXE1czZ5cVl4b1QwbFJGTTBPN0k5NWhWMGJsY2VxS0E0TTA3X2QxWVhEU3hHbjBhZkM4N0NUWS1XdGxXZjRSeGQwd2liRnJrZmVxUklqODVmQ09FWlE?oc=5",
-    "description": "금호건설이 건설현장 근로자의 위치와 위험구역 접근 여부를 실시간으로 확인할 수 있는",
-    "published_at": "2026-10-12T11:32:41+09:00",
-    "cluster_id": "e4d7",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "금호건설, 스마트폰 활용한 건설현장 안전관제시스템 특허 출원",
-    "summary": "금호건설이 스마트폰 기반 건설현장 안전관제시스템 특허를 출원했습니다. 근로자 위치 추적과 위험구역 접근 제어를 실시간으로 모니터링할 수 있는 기술로, 건설현장 안전사고 예방에 기여할 것으로 기대됩니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T11:48:46+09:00",
-    "importance": 2
   }
 ]
