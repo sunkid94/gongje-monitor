@@ -21528,6 +21528,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "건설현장 전자카드 발급률 90%인데 사용률은 75% 머물러 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261015148200530?input=1195m",
+    "description": "실제 올해 1∼8월 기준 전자카드 적용 사업장에 신고된 건설노동자는 116만2천71명이었으나, 전자카드를 이용한 근로자는 77만7천921명에 머물렀다. 현장에 투입된 노동자 중 약 38만4천여명이 여전히 전자카드를 쓰지...",
+    "published_at": "2026-10-16T06:05:00+09:00",
+    "cluster_id": "578a",
+    "publisher": "yna.co.kr",
+    "title_clean": "건설현장 전자카드 발급률 90%인데 사용률은 75% 머물러",
+    "summary": "건설현장 전자카드 발급률은 90%에 달하지만 실제 사용률은 75%에 그쳐, 116만여 명 중 약 38만 명이 여전히 전자카드를 사용하지 않고 있다. 이는 근로자 관리 체계의 실효성 문제를 드러내며 건설업계의 투명성 강화 과제를 지적한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T06:09:19+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "“신앙인 소명으로 나눔 실천” 자소서로 합격… 건설근로자공제회 성남라인 이사장 논란 - 동아일보",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iYXFrUGVtLUNFXzJzQXhPM3Q0SGxOZjJlcEpiUFd6ei1HWl9nY1JlUGdoeGJjRl9TYkdzRTlKcUJ0TWw4N0lBeWQ1a3lUMGZvSDlfdjJ2QXJ6ZVd6WGZ2RkNWQWZ5ZnlwRjNJU1ptaU90OENaQnhN0gFmQVVfeXFMTkRHNzJ4dDE2bGVDajA1azNsYkVXWlZ0RTRDNXpTWFg4M1lqZ2NTbjk5NGduNHlvZ3p0aTBDWXVPWG9vR1ZWc3BYb0FFTjdxdGNwNDZmSFpLUVh0UWl3ZktlZUhIMlp3?oc=5",
     "description": "이른바 ‘경기·성남 라인’ 인사들이 공공기관장으로 임명된 것을 둘러싼 논란이 확산되고 있다. 야권에서는 관련 경력이나 전문성이 부족한 ‘낙하산’ 인사들이 임명됐다고 비판하고 있다. 15일 국회 기후에너지환경노동위원회 소속 국민의힘 나경원 의원실이 건설근로자공제회로부터…",
@@ -32307,21 +32323,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-12T11:39:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설경기 침체에 수입 상용차 판매 '주춤'…9월 신규 등록 290대 - 현대경제",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nY3NjMEZjWnNaYUZyeFlrYzEyY3hCYUNLSUszd21JNHFSd3dBREs4MDNVd2c5SFVRVWVDV2t5V2gtdTBJaUVhSm1ldDhhY2xhZXJMOVpOZmpHbFdGSkhsbXVsZmE0Qm5TVXI0?oc=5",
-    "description": "[현대경제=경제] 설경기 침체가 장기화하면서 국내 수입 상용차 시장의 판매 부진이 이어지고 있다. 건설 현장과 물류 운송에 사용되는 대형 상용차 수요가 위축된 영향으로 풀이된다.12일 한국수입자동차협회(KAIDA)에 따르면 지난 9월 수입 상용차 신규 등록 대수는 290대로 지난해 같",
-    "published_at": "2026-10-12T11:04:50+09:00",
-    "cluster_id": "9cf9",
-    "publisher": "현대경제",
-    "title_clean": "건설경기 침체에 수입 상용차 판매 '주춤'…9월 신규 등록 290대",
-    "summary": "건설경기 침체로 인해 국내 수입 상용차 시장이 부진을 겪고 있으며, 9월 신규 등록 대수가 290대를 기록했다. 대형 상용차의 건설 현장과 물류 운송 수요 위축이 주요 원인으로 분석된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-12T11:39:00+09:00",
-    "importance": 4
   }
 ]
