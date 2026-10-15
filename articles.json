@@ -21525,6 +21525,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "땅값만 남은 지방에 ‘건물연식가산’이 웬 말…HUG PF 보증 대책 실효성 논란 - 공감신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWDYzTkIxWG03TVdqOU8yS2w4eFBQUDA2VFZISmh3cjdFUFV3RU5WY3lvUWhoYkdDNEdiZ25pUUEyUkdYN2txcFgyaEdIc2plWno4b3JGbV91VFp3cVpKLXl6cEp2T1pk?oc=5",
+    "description": "[공감신문] 이승욱 기자=침체일로를 걷고 있는 비수도권 부동산 프로젝트파이낸싱(PF) 시장의 자금 경색을 풀기 위해 주택도시보증공사(HUG)가 오는 11월 ‘건축연령가산율’ 카드를 꺼내 들었지만, 지역 건설업계에서는 벌써부터 실효성에 의문을 제기하는 목소리가 커지고 있다.건물의 자산",
+    "published_at": "2026-10-15T20:24:04+09:00",
+    "cluster_id": "4947",
+    "publisher": "공감신문",
+    "title_clean": "땅값만 남은 지방에 ‘건물연식가산’이 웬 말…HUG PF 보증 대책 실효성 논란",
+    "summary": "HUG가 11월 '건축연령가산율' 제도를 도입해 지방 PF 시장 자금경색 완화를 시도하고 있으나, 건설업계에서는 땅값만 남은 지역 특성상 실제 효과에 의문을 제기하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T03:14:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32304,22 +32320,6 @@
     "publisher": "스마트비즈",
     "title_clean": "스마트밴드 없이 위치 추적···금호건설, 스마트 안전관리 기술 특허",
     "summary": "금호건설이 스마트밴드 없이 건설현장 근로자의 위치를 추적하고 위험을 실시간으로 알리는 스마트 안전관리 기술 특허를 획득했다. 기존의 사후 대응식 안전관리에서 선제적 위험 대응으로 패러다임을 전환하는 기술이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T11:39:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "가스공사, AI CCTV로 가스공급시설 안전·방호체계 고도화 - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50392",
-    "description": "[건설이코노미뉴스] 한국가스공사(사장 홍의락) 대구경북지역본부는 엣지 AI CCTV 전문기업인 ㈜트루엔과 함께 천연가스 공급관리소의 방호체계와 안전관리를 고도화하기 위한 ‘AI CCTV 실증사업’을 추진하고 있다고 12일 밝혔다.이번 사업은 상시 무인·원격으로 운영되는 공급관리소의 외부 침입을 탐지하고 작업자 쓰러짐 등 안전사고에 신속히 대응하기 위해 추진된다.기존 적외선 울타리 감지기는 담장 상부에 설치돼 유지관리가 어렵고 오탐지가 잦다는 한계가 있었다.이에 가스공사와 트루엔은 카메라 자체에서 영상을 실시간 분석하는 엣지 AI 기",
-    "published_at": "2026-10-12T11:36:38+09:00",
-    "cluster_id": "1578",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "가스공사, AI CCTV로 가스공급시설 안전·방호체계 고도화",
-    "summary": "한국가스공사가 AI CCTV 전문기업 트루엔과 함께 천연가스 공급관리소의 안전·방호체계를 고도화하는 실증사업을 추진 중이다. 기존 적외선 감지기의 한계를 극복하고 엣지 AI 기술로 외부 침입 탐지와 작업자 안전사고 대응을 강화하는 것이 목표다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T11:39:00+09:00",
     "importance": 2
