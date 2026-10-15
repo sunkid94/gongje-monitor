@@ -5525,6 +5525,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[전일 주요공시] STX·아이파크영창·인터지스·KG스틸 ·HMM·에스원 등 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2636479",
+    "description": "결정 △아이파크현대산업개발, 미성아파트 재건축정비사업 신축공사 수주 △롯데테크, 인천주안 노인문화센터 현장 거푸집 해체구간에서 협력업체 근로자 1명이 쓰러진 채 발견되는 사인 불분명 중대재해...",
+    "published_at": "2026-10-16T08:18:00+09:00",
+    "cluster_id": "98fa",
+    "publisher": "etoday.co.kr",
+    "title_clean": "[전일 주요공시] STX·아이파크영창·인터지스·KG스틸 ·HMM·에스원 등",
+    "summary": "아이파크현대산업개발이 미성아파트 재건축정비사업 신축공사를 수주하며 건설 수주가 이어지고 있으나, 롯데테크 인천주안 노인문화센터 공사에서 협력업체 근로자 사망 중대재해가 발생했다. 건설업계의 수주 호재와 안전사고 악재가 동시에 나타났다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-16T08:24:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21509,19 +21525,19 @@
     "importance": 4
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[국감브리핑] 건설현장 사망 2명 중 1명 '추락'…10대 건설사도 36명 - news1.kr",
-    "link": "https://www.news1.kr/realestate/general/6312594",
-    "description": "현대건설·롯데건설이 각 6명, 현대엔지니어링·포스코이앤씨가 각 5명이었다. 현대건설의 세종~포천고속도로 안성~구리 14공구에서는 2022년과 2023년 추락 사망사고가 잇따랐다. 사고 원인은 '작업자 부주의'(310명)가...",
-    "published_at": "2026-10-07T10:35:00+09:00",
-    "cluster_id": "07ed",
-    "publisher": "news1.kr",
-    "title_clean": "[국감브리핑] 건설현장 사망 2명 중 1명 '추락'…10대 건설사도 36명",
-    "summary": "건설현장 산업재해 중 추락사망이 절반을 차지하며, 상위 10대 건설사에서만 36명의 사망자가 발생했다. 현대건설 등 대형건설사에서 반복되는 추락사고는 '작업자 부주의'가 주요 원인으로 지적되고 있다.",
+    "title": "국내 건설수주액, 공공 늘고 민간 줄어…엇갈린 흐름 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151113015000696",
+    "description": "15일 대한건설협회가 발표한 ‘8월 건설시장동향’에 따르면 8월 국내 건설수주액은 15조7000억원으로 전년 동월 대비 8.1％ 감소했다. 공공부문 수주액은 4조7000억원으로 5.9％ 증가한 반면, 민간부문은 11조원으로 13.0...",
+    "published_at": "2026-10-16T08:20:00+09:00",
+    "cluster_id": "1631",
+    "publisher": "대한경제",
+    "title_clean": "국내 건설수주액, 공공 늘고 민간 줄어…엇갈린 흐름",
+    "summary": "8월 국내 건설수주액은 전년 동월 대비 8.1% 감소했으며, 공공부문은 증가한 반면 민간부문이 13.0% 감소하며 엇갈린 흐름을 보였다. 건설업계 전체적으로는 수주액 감소세를 기록했다.",
     "sentiment": "negative",
-    "collected_at": "2026-10-07T10:44:45+09:00",
+    "collected_at": "2026-10-16T08:24:03+09:00",
     "importance": 4
   },
   {
@@ -32307,21 +32323,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T12:54:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 스마트폰 활용 안전관제기술 특허 출원 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQ1FtelhaR2d0d0lFLTZFNi01b21PcXBjSVVtSExzcGZPaFBwaUY0SXdHSjhST014eGltS2YyQm1ZMmJvYUxhWndDWVNlc0t4ZjNaV3BObHNJVUEyNDV6MUhDaFlReGxLZ29Qag?oc=5",
-    "description": "금호건설은 건설현장의 안전관리 강화를 위해 자체 개발한 ‘스마트안전관제시스템’ 기술의 특허를 출원했다고 12일 밝혔다.이 시스템은 별도의 위치추적 장비나 스마트밴",
-    "published_at": "2026-10-12T12:45:46+09:00",
-    "cluster_id": "6cff",
-    "publisher": "기계설비신문",
-    "title_clean": "금호건설, 스마트폰 활용 안전관제기술 특허 출원",
-    "summary": "금호건설이 스마트폰을 활용한 자체 개발 안전관제시스템의 특허를 출원했다. 별도 장비 없이 현장 안전관리를 강화할 수 있는 기술로, 건설현장의 안전성 향상을 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T12:54:01+09:00",
-    "importance": 2
   }
 ]
