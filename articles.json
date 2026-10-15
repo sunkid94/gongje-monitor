@@ -5508,6 +5508,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "10월 16일 개장 전 주요 공시 - seoulfn.com",
+    "link": "https://www.seoulfn.com/news/articleView.html?idxno=640204",
+    "description": "한화엔진은 삼성중공업과 1323억원 규모의 선박용 엔진 공급계약을 체결했다고 공시했다. 지난해 연결 매출액 대비 9.6% 규모다. 계약 기간은 2028년 11월 15일까지다. 인터지스는 2023년 7월 부산 북항7부두...",
+    "published_at": "2026-10-16T07:00:00+09:00",
+    "cluster_id": "893e",
+    "publisher": "seoulfn.com",
+    "title_clean": "10월 16일 개장 전 주요 공시",
+    "summary": "한화엔진이 삼성중공업과 1323억원 규모의 선박용 엔진 공급계약을 체결했으며, 이는 지난해 연결 매출액 대비 9.6% 규모다. 계약 기간은 2028년 11월 15일까지로 기계설비건설 분야의 수주 증가를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T07:14:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21487,22 +21503,6 @@
     "publisher": "yna.co.kr",
     "title_clean": "롯데이노베이트, 자체 LLM 스마트홈에 심었다…말로 집안 제어",
     "summary": "롯데이노베이트가 자체 개발한 LLM을 스마트홈에 적용하여 음성 제어 기술을 상용화했다. 건설 현장의 외국인 근로자 소통을 위한 AI 음성 번역 서비스를 롯데건설, 대우건설 등에 적용 중이며, 농업 분야까지 AI 에이전트 서비스를 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T10:34:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데이노베이트, 롯데캐슬·르엘에 AI 음성인식 홈네트워크 적용 - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448771",
-    "description": "건설 현장에서는 '가새', '띠장' 등 전문 용어를 인식하는 AI 음성 번역 서비스를 개발해 롯데건설에 이어 대우건설 현장까지 적용했다. 농업 분야에서는 LLM 기반 AI 에이전트로 작물별 재배 방법과 농산물 시세 정보를...",
-    "published_at": "2026-10-07T10:18:00+09:00",
-    "cluster_id": "b574",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "롯데이노베이트, 롯데캐슬·르엘에 AI 음성인식 홈네트워크 적용",
-    "summary": "롯데이노베이트가 AI 음성인식 기술을 건설 현장에 적용하여 롯데건설, 대우건설 등에 확대하고 있다. 건설 전문용어 인식 AI 음성 번역 서비스 개발로 건설 현장의 디지털 혁신을 주도하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-07T10:34:29+09:00",
     "importance": 2
