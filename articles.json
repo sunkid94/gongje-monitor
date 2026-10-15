@@ -5525,23 +5525,6 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설공제조합, 'AI 모바일 보증' 6종으로 확대 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=340702",
-    "description": "기계설비건설공제조합이 인공지능(AI)을 활용한 모바일 보증업무를 확대하며 조합원 편의성 강화에 나선다. 기계설비건설공제조합은 내달 1일부터 카카오톡을 통해 이용할 수 있는 'AI 모바일 보증서비스'의 대상 업무를...",
-    "published_at": "2026-09-15T23:00:00+09:00",
-    "cluster_id": "200f",
-    "publisher": "국토일보",
-    "title_clean": "기계설비건설공제조합, 'AI 모바일 보증' 6종으로 확대",
-    "summary": "기계설비건설공제조합이 AI 기술을 활용한 모바일 보증서비스를 6종으로 확대하며 조합원 편의성을 강화한다. 내달 1일부터 카카오톡을 통해 보증업무를 간편하게 처리할 수 있게 된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-15T23:16:27+09:00",
-    "event_label": "기계설비건설공제조합 AI 모바일 보증서비스 6종 확대",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21539,6 +21522,22 @@
     "summary": "가덕도신공항 부지조성 공사를 진행 중인 대우건설 컨소시엄이 기본설계 졸속 통과 논란에 대해 반박하며 대안 마련과 2차 시공성 검증 준비 중임을 밝혔다. 공법 검증 부족 지적에 대한 추가 검증으로 사업 신뢰성 확보에 나선 모습이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-07T10:13:43+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH, AI 기반 경영혁신 본격화…자립준비청년 지원·지역 문화사업 확대 - webeconomy.co.kr",
+    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2336059",
+    "description": "15일 웹이이코노미 취재를 종합하면 LH는 건설현장 안전관리와 주택 하자 처리 등에 AI를 도입하는 한편, 민관 협력을 통한 청년 자립 지원과 주택전시관을 활용한 주민 참여 프로그램을 추진한다. 'LH AI 대전환' 선포...",
+    "published_at": "2026-10-15T23:54:00+09:00",
+    "cluster_id": "5913",
+    "publisher": "webeconomy.co.kr",
+    "title_clean": "LH, AI 기반 경영혁신 본격화…자립준비청년 지원·지역 문화사업 확대",
+    "summary": "LH가 AI 기반 경영혁신을 추진하며 건설현장 안전관리와 주택 하자 처리에 AI를 도입한다. 청년 자립 지원과 주민 참여 프로그램 확대를 통해 공공기관의 사회적 책임 강화에 나선다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-15T23:59:39+09:00",
     "importance": 2
   },
   {
