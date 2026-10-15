@@ -21525,6 +21525,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "쌍용C&E, 동해시로 본사 이전 - kwnews.co.kr",
+    "link": "https://www.kwnews.co.kr/article/20261015500345",
+    "description": "쌍용C&E의 본사 이전은 국가 균형발전과 지역경제 활성화에 기여하고, 건설경기 침체 등 급변하는 시장환경에 능동적으로 대응하기 위한 것이다. 또 생산공장이 위치한 동해와 영월을 중심으로 경영지원과 환경사업...",
+    "published_at": "2026-10-16T00:03:00+09:00",
+    "cluster_id": "a590",
+    "publisher": "kwnews.co.kr",
+    "title_clean": "쌍용C&E, 동해시로 본사 이전",
+    "summary": "쌍용C&E가 본사를 동해시로 이전하며 생산공장 인근 경영효율화와 지역경제 활성화를 추진 중. 건설경기 침체에 대응하기 위한 경영전략 재편 움직임으로, 지역 기반 사업 강화 방향으로 전환.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-16T00:09:39+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "수출·착공 지표 반등 착시… 소비 침체·설비투자 냉각속 속탄다 - gjdream.com",
+    "link": "http://www.gjdream.com/news/articleView.html?idxno=673484",
+    "description": "악성 미분양이 계속 축적되는 상황에서 신규 착공만 늘어나는 기형적 구조는 향후 건설사 PF 리스크와 공급 과잉을 자극할 불씨로 남아있다. 기업들의 미래 투자 의지를 보여주는 설비투자 지표는 더 심각하다....",
+    "published_at": "2026-10-16T00:00:00+09:00",
+    "cluster_id": "6007",
+    "publisher": "gjdream.com",
+    "title_clean": "수출·착공 지표 반등 착시… 소비 침체·설비투자 냉각속 속탄다",
+    "summary": "수출과 착공 지표는 반등했으나 소비 침체와 설비투자 냉각이 심화되고 있다. 미분양 축적 속 신규 착공만 증가하는 기형적 구조로 인해 건설사 PF 리스크와 공급 과잉 문제가 심화될 우려가 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T00:09:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32290,38 +32322,6 @@
     "summary": "한국건설기술연구원이 방위사업청으로부터 방위산업물자 전문연구기관으로 신규 위촉되어 국방 R&D 사업을 본격화한다. 기존 건설 분야 연구 역량을 국방에 접목하여 방호·방폭, 스마트건설, AI 기반 군사시설 관리 등 새로운 R&D 영역을 확대할 계획이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T11:32:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"찬성 집회 참석, 무겁다\" 송영훈 의장 제주 제2공항 '신중론' - jejusori.net",
-    "link": "https://www.jejusori.net/news/articleView.html?idxno=507258",
-    "description": "건설경기 부진으로 일감이 부족한 지역 업체와 현장 노동자들의 어려움을 중요하게 보고 있다. 골목상권의 매출 회복도 시급하다. 행감과 내년도 예산심사 때 지역 업에 참여와 일감 확보, 근로자 생계 지원, 소상공인...",
-    "published_at": "2026-10-12T11:18:00+09:00",
-    "cluster_id": "0722",
-    "publisher": "jejusori.net",
-    "title_clean": "\"찬성 집회 참석, 무겁다\" 송영훈 의장 제주 제2공항 '신중론'",
-    "summary": "송영훈 의장이 제주 제2공항 건설에 신중론을 제기하며 현재 건설경기 부진으로 어려움을 겪는 지역 건설업체와 노동자, 소상공인 지원을 우선시해야 한다는 입장을 보임. 행감과 예산심사를 통해 지역 건설업 일감 확보와 근로자 생계 지원에 집중하겠다고 언급.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-12T11:28:53+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "광주 레미콘 단가 8차례 '마라톤 협상' 끝에 타결…수익성 악화 등 과제... - jnilbo.com",
-    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000072521",
-    "description": "다만 건설경기 침체 속에서 누적된 원가 상승, 운반비 급등으로 인한 레미콘업계의 수익성 악화, 건설현장의 공사비 부담 등은 여전히 현재 진행형이라는 것이 업계의 설명이다. 8차례 마라톤 교섭 끝 4400원 인상 12일...",
-    "published_at": "2026-10-12T11:17:00+09:00",
-    "cluster_id": "8f9c",
-    "publisher": "jnilbo.com",
-    "title_clean": "광주 레미콘 단가 8차례 '마라톤 협상' 끝에 타결…수익성 악화 등 과제...",
-    "summary": "광주 레미콘 단가가 8차례 협상 끝에 톤당 4,400원 인상으로 타결되었다. 다만 건설경기 침체, 원가 상승, 운반비 급등으로 인한 업계의 수익성 악화 문제는 계속되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-12T11:28:53+09:00",
     "importance": 2
   }
 ]
