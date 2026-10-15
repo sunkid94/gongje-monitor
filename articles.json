@@ -5542,6 +5542,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "“가격 비싸다” 논란 부천 상동역 롯데캐슬 청약 미달..시공사는 대기수요 많아 완판자신 - 스마트투데이",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEZnR2bk53MjFqbUQtU3REZVkyWHQ4ZW5HV0JXSExscG1BWmFodVpkdjROMzNWdHZ3c0JHTElRMnBvbTBFV245dXV3RzlBSi1Zb2dkMzVKMktYTGlaWnVB?oc=5",
+    "description": "|스마트투데이=김종현 기자| 서울과 최근접한 수도권의 대형 신축 단지서 미분양이 대거 발생했다. 경기 부천시 상동역 롯데캐슬 시그니처 얘기다. 최근 진행한 무순위 청약서 1건을 제외한 전 타입 모집 경쟁률이 50%에 미치지 못하는, 수도권 아파트 청약시장서 좀처럼 보기 힘든...",
+    "published_at": "2026-10-15T16:51:00+09:00",
+    "cluster_id": "e58b",
+    "publisher": "스마트투데이",
+    "title_clean": "“가격 비싸다” 논란 부천 상동역 롯데캐슬 청약 미달..시공사는 대기수요 많아 완판자신",
+    "summary": "부천 상동역 롯데캐슬이 전 타입 모집에서 50% 미만의 경쟁률로 청약 미달을 기록했다. 높은 분양가에 대한 논란 속에서 시공사는 대기수요가 많다며 완판에 자신감을 나타내고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-15T22:59:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -21521,22 +21537,6 @@
     "publisher": "newsis.com",
     "title_clean": "대우건설 \"가덕신공항 기본설계 졸속 아냐…2차 검증 준비\"",
     "summary": "가덕도신공항 부지조성 공사를 진행 중인 대우건설 컨소시엄이 기본설계 졸속 통과 논란에 대해 반박하며 대안 마련과 2차 시공성 검증 준비 중임을 밝혔다. 공법 검증 부족 지적에 대한 추가 검증으로 사업 신뢰성 확보에 나선 모습이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-07T10:13:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"가덕도신공항 해상 PBD 문제 공개…2차 검증으로 보완\" - kdfnews.com",
-    "link": "http://www.kdfnews.com/news/articleView.html?idxno=188939",
-    "description": "대우건설 컨소시엄이 가덕도신공항 부지조성 공사의 해상 연직배수(PBD) 공법을 둘러싼 안전성 우려에 대해 \"시험 시공에서 확인된 문제와 개선 방안을 기본설계 보고서에 공개했으며, 2차 시공성 검증을 통해 보완할...",
-    "published_at": "2026-10-07T09:58:00+09:00",
-    "cluster_id": "6f73",
-    "publisher": "kdfnews.com",
-    "title_clean": "대우건설 \"가덕도신공항 해상 PBD 문제 공개…2차 검증으로 보완\"",
-    "summary": "대우건설 컨소시엄이 가덕도신공항 해상 PBD 공법의 안전성 우려에 대해 시험 시공 문제와 개선 방안을 공개하고 2차 검증으로 보완하겠다고 발표했다. 기술적 문제를 선제적으로 공개하고 추가 검증을 진행하는 대응 모습을 보이고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-07T10:13:43+09:00",
     "importance": 2
