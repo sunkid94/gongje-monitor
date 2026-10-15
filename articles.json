@@ -5542,6 +5542,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한화엔진, 삼성重서 1322억 수주…연간 실적 개선기대 - ebn.co.kr",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728040",
+    "description": "한화엔진은 삼성중공업에 1322억5368만원 규모의 선박용 엔진을 공급하는 계약을 체결했다고 15일 공시했다. 계약금액은 지난해 연결 기준 매출액 1조3711억원의 9.6%에 해당한다. 계약 기간은 2028년 11월 15일까지...",
+    "published_at": "2026-10-15T21:18:00+09:00",
+    "cluster_id": "1ec2",
+    "publisher": "ebn.co.kr",
+    "title_clean": "한화엔진, 삼성重서 1322억 수주…연간 실적 개선기대",
+    "summary": "한화엔진이 삼성중공업으로부터 1322억원 규모의 선박용 엔진 공급 계약을 체결했으며, 이는 지난해 매출의 9.6%에 해당한다. 2028년 11월까지의 계약으로 연간 실적 개선이 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-15T21:24:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21524,22 +21540,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-07T10:13:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[이슈국감] 건설현장 사망자 절반은 '추락' - hansbiz.co.kr",
-    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870686",
-    "description": "건설사별 추락사망자는 현대건설 6명, 롯데건설 6명, 현대엔지니어링 5명, 포스코이앤씨 5명 순이다. 동일 공사 현장에서 추락사망이 재발한 사례도 확인됐다. 현대건설의 세종~포천고속도로 안성~구리 건설공사...",
-    "published_at": "2026-10-07T10:04:00+09:00",
-    "cluster_id": "3a0d",
-    "publisher": "hansbiz.co.kr",
-    "title_clean": "[이슈국감] 건설현장 사망자 절반은 '추락'",
-    "summary": "건설현장 사망자의 절반이 추락사고로 발생하고 있으며, 현대건설·롯데건설 등 대형건설사에서 다수의 추락사망자가 발생했다. 동일 공사현장에서 추락사망이 재발하는 등 안전관리 체계의 문제가 지적되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T10:13:43+09:00",
-    "importance": 4
   },
   {
     "keyword": "스마트건설",
