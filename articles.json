@@ -5627,6 +5627,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "자금 부담 확 낮춘 '더샵 오산역아크시티' 오피스텔 16일 정당계약 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=03604726645613248&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "포스코이앤씨가 경기도 오산시 세교2지구 M1블록에 선보이는 ‘더샵 오산역아크시티’는 주변 시세 대비 합리적인 가격에 중도금 무이자 혜택을 제공한다. 이 단지는 16일 정당계약을 진행한다. 더샵...",
+    "published_at": "2026-10-15T11:22:00+09:00",
+    "cluster_id": "46dd",
+    "publisher": "edaily.co.kr",
+    "title_clean": "자금 부담 확 낮춘 '더샵 오산역아크시티' 오피스텔 16일 정당계약",
+    "summary": "포스코이앤씨가 경기도 오산시에서 '더샵 오산역아크시티' 오피스텔을 16일 정당계약한다. 합리적인 가격과 중도금 무이자 혜택으로 수요 창출을 시도하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-15T11:30:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21608,22 +21624,6 @@
     "summary": "두산로보틱스가 피지컬 AI 국책과제 2건을 수주하며 989억원 규모의 연구개발비를 확보했다. 원전 기자재 제조 공정의 용접·가접 등에 로봇 기술을 적용한 후 조선·플랜트·방산 분야로 확대할 계획이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-06T22:13:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산로보틱스, 피지컬 AI 국책과제 2건 수주 1천억원 규모 - vop.co.kr",
-    "link": "https://vop.co.kr/A00001697022.html",
-    "description": "실증은 수요기업인 두산에너빌리티의 원자력센터에서 진행한다. 원전 기자재 제조 공정의 가접(본 용접 전 임시 고정), 예열, 용접 작업 등에 우선 적용하고, 원전 품질 인증을 확보한 뒤 조선, 플랜트, 방산 등으로 적용...",
-    "published_at": "2026-10-06T21:20:00+09:00",
-    "cluster_id": "8b30",
-    "publisher": "vop.co.kr",
-    "title_clean": "두산로보틱스, 피지컬 AI 국책과제 2건 수주 1천억원 규모",
-    "summary": "두산로보틱스가 피지컬 AI 국책과제 2건을 1천억원 규모로 수주했다. 원전 용접 등 제조공정에 로봇을 적용하고 품질 인증 후 조선, 플랜트, 방산 등으로 확대할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T21:33:09+09:00",
     "importance": 2
   },
   {
