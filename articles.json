@@ -21542,6 +21542,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "경복대학교 건설교육원, 첫 건설기술인 교육-훈련 우수강사 배출 - cnbnews.com",
+    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1019568",
+    "description": "경복대학교 건설교육원은 우종태 명예교수가 지난 14일 열린 '2026년 건설기술인 교육·훈련 우수강사 시상식'에서 스마트건설계측 분야 우수강사로 선정됐다고 밝혔다. 이번 선정은 경복대학교 건설교육원 최초의...",
+    "published_at": "2026-10-15T20:58:00+09:00",
+    "cluster_id": "eede",
+    "publisher": "cnbnews.com",
+    "title_clean": "경복대학교 건설교육원, 첫 건설기술인 교육-훈련 우수강사 배출",
+    "summary": "경복대학교 건설교육원의 우종태 명예교수가 '2026년 건설기술인 교육·훈련 우수강사'로 선정되어 스마트건설계측 분야에서 우수강사 배출 실적을 달성했다. 이는 경복대학교 건설교육원의 교육 역량 강화와 건설기술인 양성 체계의 발전을 의미한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-15T21:09:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32308,21 +32324,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T11:08:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설연, '방사청 전문연구기관' 위촉...첨단 건설기술로 국방력↑ - etnews.com",
-    "link": "https://www.etnews.com/20261012000145",
-    "description": "대형 연구 인프라를 활용해 구조·스마트건설 등 우수 건설기술을 국방 연구개발(R&D)에 적용하고, 군사시설 성능 검증 및 실증 연구를 확대한다. 건설연은 방위사업청으로부터 방위산업물자 R&D·시험 지원 전문연구기관이...",
-    "published_at": "2026-10-12T11:02:00+09:00",
-    "cluster_id": "79d0",
-    "publisher": "etnews.com",
-    "title_clean": "건설연, '방사청 전문연구기관' 위촉...첨단 건설기술로 국방력↑",
-    "summary": "건설연이 방위사업청 전문연구기관으로 위촉되어 구조·스마트건설 등 첨단 건설기술을 국방 R&D에 적용하게 된다. 군사시설 성능 검증 및 실증 연구 확대로 건설업계의 새로운 수주 기회와 시장 영역 확대가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T11:08:35+09:00",
-    "importance": 2
   }
 ]
