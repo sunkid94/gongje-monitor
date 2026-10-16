@@ -21508,6 +21508,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천광역시 GTX-B 추가정거장 건설, 중앙투자심사 통과 - 경기in",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1la2ZHbkVHeUp4d1UzVjRwTzNLc2RtN1c4N0w3dk5DVUIwMW53bThxNjlodnU5b2lQeEJnNXY1bUlKUHM?oc=5",
+    "description": "GTX-B 추가정거장 건설, 중앙투자심사 통과 [경기IN=오효석 기자] 인천광역시는 16일‘수도권광역급행철도(GTX) B노선 추가정거장 건설사업’이 행정안전",
+    "published_at": "2026-10-16T09:39:00+09:00",
+    "cluster_id": "5396",
+    "publisher": "경기in",
+    "title_clean": "인천광역시 GTX-B 추가정거장 건설, 중앙투자심사 통과",
+    "summary": "인천광역시의 GTX-B 노선 추가정거장 건설사업이 중앙투자심사를 통과했다. 이는 수도권 광역철도 인프라 확충으로 건설 및 기계설비 수주 기회 확대를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T10:54:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32306,21 +32322,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-12T15:30:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[그물에 갇힌 인권] 목적지 모른 채 러시아로 떠밀리는 北 노동자 - dailynk.com",
-    "link": "https://www.dailynk.com/20261012-4",
-    "description": "러시아 파견 북한 건설 노동자들이 일하는 현장 모습. /사진=데일리NK[/caption] 과거 북한 주민들에게 러시아 파견은 ‘돈을 벌 수 있는 기회’였다. 해외에 나가기 위해 담당 간부에게 뇌물을 건네면서까지 파견 대상에...",
-    "published_at": "2026-10-12T15:16:00+09:00",
-    "cluster_id": "7b9c",
-    "publisher": "dailynk.com",
-    "title_clean": "[그물에 갇힌 인권] 목적지 모른 채 러시아로 떠밀리는 北 노동자",
-    "summary": "러시아 파견 북한 노동자들의 인권 문제를 다룬 기사로, 노동자들이 목적지를 모른 채 러시아로 파견되고 있는 실태를 보도하고 있습니다. 과거와 달리 현재는 강제성이 증가하고 있으며, 뇌물 등 부정적 관행이 만연해 있는 상황을 지적합니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-12T15:30:31+09:00",
-    "importance": 4
   }
 ]
