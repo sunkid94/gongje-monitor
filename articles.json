@@ -21508,6 +21508,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "여주시, 건설공사장 산업재해 예방 유공 경기도지사 표창 수상 - 여주신문",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yZWFjODZpRmZjeFl0cllMVXI4dGtnWnVPRnNIWjVuQ0wxV1RlbE0yWDZVRlh5LU9SMllhOFY2cHpGdUlQLUJFZjVjVEZSNjlHbmc5bmw2SllzQzBla3EwSmg4eFFzdDZUenN0dnZn?oc=5",
+    "description": "여주시가 건설공사장 산업재해 예방에 기여한 공로를 인정받아 경기도지사 기관표창을 수상했다.이번 표창은 경기도가 실시한 2025년 건설안전 실태 시·군 종합평가 결",
+    "published_at": "2026-10-16T14:56:27+09:00",
+    "cluster_id": "9a48",
+    "publisher": "여주신문",
+    "title_clean": "여주시, 건설공사장 산업재해 예방 유공 경기도지사 표창 수상",
+    "summary": "여주시가 건설공사장 산업재해 예방 유공으로 경기도지사 표창을 수상했다. 2025년 건설안전 실태 종합평가에서 우수한 성과를 인정받은 것으로, 건설업계의 안전관리 강화 기조를 보여준다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-16T15:09:34+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한난, AI·로봇 활용해 열수송관 안전관리 강화 - 전기신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EYnFPMUcteDFURGNVbEN1RkZsSFF2ZjlqSUVHSzg5YWd0TFBFTEF1QUFyNEZfVnRFQTBrbmxHNWNqN0hDbGt6T1lBZFJydDFaQXBpNWtQUXFxSGFtVVRlMEQ4ZkktY3ZBcW5KVtIBcEFVX3lxTE8yX21rbGJFY3F3b0xQYVJlRGFGSTZBS2lvVVY5LWFRMGVEd2NuSENmQjlkeklIYVpVaGdOWEpjZVFRRVd5SHNEXzM4ajhqaHBjQnRxS1pMejI0TzRtQUZhX2FxY21CNXRHRUZiRzZYYkI?oc=5",
+    "description": "한난이 인공지능(AI)과 로봇 기술을 활용해 열수송관 안전관리 고도화에 나선다.한국지역난방공사(사장 하동근)는 14일부터 16일까지 경기 고양시 킨텍스에서 열리는 ‘2026년 도시안전기술박람회’에 자체 개발한 ‘AI 자율 열화상 진단차량’을 출품했다고 밝혔다.도시안전기술박람회는 기후변화와 도시 기반시설 노후화, 재난 및 안전사고 등에 대응하기 위한 첨단 안전기술과 관련 솔루션을 선보이는 전문 전시회다.이번에 선보인 AI 자율 열화상 진단차량은 열수송관 점검 과정에 AI 기술을 접목한 장비다. 기존에는 작업자가 열화상 정보를 육안으로",
+    "published_at": "2026-10-16T14:19:20+09:00",
+    "cluster_id": "ca92",
+    "publisher": "전기신문",
+    "title_clean": "한난, AI·로봇 활용해 열수송관 안전관리 강화",
+    "summary": "한난이 AI 자율 열화상 진단차량을 개발해 열수송관 안전관리를 고도화하고 있으며, 2026년 도시안전기술박람회에 출품했다. AI 기술 접목으로 기존 육안 점검 방식을 자동화하여 작업 효율성과 안전성을 향상시키는 기술 혁신이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T15:09:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32289,38 +32321,6 @@
     "summary": "삼성물산이 기존 아파트 골조를 활용하면서 설비 교체와 디자인 개선을 통해 신축급 주거공간으로 재생하는 '넥스트 리모델링' 사업모델을 반포푸르지오 리모델링 사업에 제안했다. 이는 도시재생 시장 확대와 건설사의 새로운 수주 기회를 의미하는 사업이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T17:12:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설기술인협회, AI·드론 활용 건설기술 직무교육 실시 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=342069",
-    "description": "이어 첨단기술안전점검협회 조한광 회장은 '드론 기반 스마트 재난 대응 및 시설 안전관리' 강연을 통해 드론을 활용한 건설현장 안전점검 사례와 실무상 주요 점검사항 등을 설명했다. 이번 세미나는 AI와 BIM, 드론 등...",
-    "published_at": "2026-10-12T17:02:00+09:00",
-    "cluster_id": "fd08",
-    "publisher": "국토일보",
-    "title_clean": "건설기술인협회, AI·드론 활용 건설기술 직무교육 실시",
-    "summary": "건설기술인협회가 AI, 드론, BIM 등 첨단기술을 활용한 직무교육 세미나를 실시했다. 드론 기반 스마트 재난 대응 및 시설 안전관리 강연을 통해 건설현장 안전점검 사례와 실무 주요 점검사항을 공유했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-12T17:10:40+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 건설현장 안전관리 앞장···'스마트안전관제시스템' 기술 특... - enewstoday.co.kr",
-    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478774",
-    "description": "금호건설은 건설현장의 안전관리를 강화하기 위해 자체 개발한 '스마트안전관제시스템' 기술의 특허를 출원했다고 12일 밝혔다. 이번 시스템은 기존 현장 안전관리에 스마트 기술을 더해 안전망을 한층 촘촘하게 구축한...",
-    "published_at": "2026-10-12T16:59:00+09:00",
-    "cluster_id": "208e",
-    "publisher": "enewstoday.co.kr",
-    "title_clean": "금호건설, 건설현장 안전관리 앞장···'스마트안전관제시스템' 기술 특...",
-    "summary": "금호건설이 건설현장 안전관리 강화를 위해 자체 개발한 '스마트안전관제시스템' 기술의 특허를 출원했다. 스마트 기술을 접목하여 기존 현장 안전관리를 고도화하는 혁신 사례다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-12T17:10:40+09:00",
     "importance": 2
   }
 ]
