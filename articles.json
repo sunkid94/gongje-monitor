@@ -5525,6 +5525,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "아이파크현산, 신림 미성아파트 본계약…공사비 47% 급증 - 리드경제",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wa04tLWxzV3ZSbXpBMS05d0ZjVmIzOWZ2dEFrSEl3ME1QY0kydUZZYVBHWVhuZXZKaUtQa1FXbWtod0g1em5wS1VFS3FPSlVQdERtckFqamVEWmFlLVZmRXQwYTV5SVBjX2JjOWpiazI?oc=5",
+    "description": "IPARK현대산업개발이 서울 관악구 신림동 미성아파트 재건축 공사 본계약을 체결했다. 수주 당시보다 공사비가 47% 넘게 불어난 규모다.IPARK현대산업개발은 미",
+    "published_at": "2026-10-16T08:52:00+09:00",
+    "cluster_id": "47fa",
+    "publisher": "리드경제",
+    "title_clean": "아이파크현산, 신림 미성아파트 본계약…공사비 47% 급증",
+    "summary": "IPARK현대산업개발이 서울 신림동 미성아파트 재건축 공사 본계약을 체결했으나, 수주 당시 대비 공사비가 47% 급증했다. 이는 건설 자재비 인상과 원가 상승으로 인한 업계 전반의 채산성 악화를 반영한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T09:14:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21504,22 +21520,6 @@
     "publisher": "beyondpost.co.kr",
     "title_clean": "대우건설 컨소시엄 \"가덕도신공항 PBD 개선사항 기본설계에 반영\"",
     "summary": "대우건설 컨소시엠이 가덕도신공항 PBD 시공성 검증 문제 지적에 대해 개선사항을 기본설계에 반영했다고 해명했습니다. 해상 부지조성 공사의 설계 투명성과 품질관리 문제를 둘러싼 논란이 제기되고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T11:04:40+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 가덕도신공항 졸속 심의 문제제기에 정면반박...\"사실 무근\" - popcornnews.net",
-    "link": "http://www.popcornnews.net/news/articleView.html?idxno=135170",
-    "description": "대우건설 컨소시엄이 가덕도신공항 부지조성 공사의 해상 PBD(Plastic Board Drain) 시공성 검증 관련, '기술적 문제를 알고도 졸속 승인했다'는 일각의 보도에 대해 \"사실과 다르다\"고 해명했다. 대우건설 컨소시엄은 7일 공식...",
-    "published_at": "2026-10-07T10:50:00+09:00",
-    "cluster_id": "6b80",
-    "publisher": "popcornnews.net",
-    "title_clean": "대우건설, 가덕도신공항 졸속 심의 문제제기에 정면반박...\"사실 무근\"",
-    "summary": "대우건설 컨소시엄이 가덕도신공항 부지조성 공사 중 해상 PBD 시공성 검증 관련 '졸속 심의' 의혹에 대해 정면 반박하며 '사실무근'이라고 해명했다. 기술적 문제를 알고도 승인했다는 언론 보도를 부인하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-07T11:04:40+09:00",
     "importance": 4
