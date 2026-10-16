@@ -21389,6 +21389,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "관광객 감소에 건설 부진까지…제주경제 먹구름 - newsjeju.net",
+    "link": "https://www.newsjeju.net/news/articleView.html?idxno=427080",
+    "description": "제주지역 내국인 관광객 감소세가 확대되고 건설경기와 소비 부진까지 이어지면서 지역경제의 회복 흐름이 약화되고 있는 것으로 나타났다. 한국은행 제주본부가 16일 발표한 '최근 제주지역 실물경제 동향'에...",
+    "published_at": "2026-10-16T20:46:00+09:00",
+    "cluster_id": "a1ba",
+    "publisher": "newsjeju.net",
+    "title_clean": "관광객 감소에 건설 부진까지…제주경제 먹구름",
+    "summary": "제주지역 관광객 감소와 건설경기 부진이 동시에 발생하면서 지역경제 회복이 약화되고 있다. 한국은행 제주본부의 실물경제 동향 발표로 건설업계의 어려움이 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T20:52:35+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32298,22 +32314,6 @@
     "summary": "대구 건설업계가 경기 침체와 공사 물량 감소로 어려움을 겪고 있는 가운데, 2차 공공기관 이전 사업의 공정한 추진을 요구하고 있다. 공공기관 이전이 관련 기업과 연구기관 투자, 업무·상업시설 건설 등을 통해 지역 건설산업 활성화로 이어져야 한다는 입장이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-12T21:30:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] Physics AI 기반 3... - magazine.hankyung.com",
-    "link": "https://magazine.hankyung.com/job-joy/article/202610127238d",
-    "description": "심투리얼은 아이템을 인정받아 한국건설기술연구원 스마트건설지원센터 보육기업으로 선정됐다. 스마트건설지원센터는 혁신기술 기반의 스마트 건설 스타트업을 육성, 지원하고 경쟁력을 강화하기 위해 건설산업에...",
-    "published_at": "2026-10-12T21:08:00+09:00",
-    "cluster_id": "b5e8",
-    "publisher": "magazine.hankyung.com",
-    "title_clean": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] Physics AI 기반 3...",
-    "summary": "심투리얼이 Physics AI 기반 기술로 한국건설기술연구원 스마트건설지원센터 보육기업으로 선정되었다. 스마트건설 스타트업 육성을 통해 건설산업의 혁신기술 확산과 경쟁력 강화를 지원하는 사업이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T21:15:30+09:00",
     "importance": 2
   }
 ]
