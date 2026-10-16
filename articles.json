@@ -21508,6 +21508,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "SH, 건설현장 관계자 300여 명 불법하도급 예방교육 - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20261016_0003829145",
+    "description": "주요 교육 내용은 ▲하도급의 법적 성격 ▲'건설산업기본법'과 '하도급거래 공정화에 관한 법률'에 따른 불법하도급 금지 규정 ▲공사를 맡은 업체의 의무와 실무 대응 방안 ▲대법원 판례와 하도급대금 조정 분쟁 사례...",
+    "published_at": "2026-10-16T14:49:00+09:00",
+    "cluster_id": "7a84",
+    "publisher": "newsis.com",
+    "title_clean": "SH, 건설현장 관계자 300여 명 불법하도급 예방교육",
+    "summary": "SH가 건설현장 관계자 300여 명을 대상으로 불법하도급 예방교육을 실시했다. 하도급법 규정, 의무사항, 분쟁 사례 등을 중심으로 법규 준수 의식 제고에 나섰다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-16T14:55:17+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "지역난방公, 도시 위험 대응 위한 첨단 안전기술 선보여 - 투데이에너지",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbXZWRnBEWVdjUU9ENTBOOU9nU1VVMXh4cDJjVlpwbUdvTzZFMWpXQzVKcnpRS3VONGFhb3BPQ3VqZ1Q2el90Z0FTc3ZzV1dBNDdLVTczUERLeTF5aTlURjZzd2NoOE5ubnZZQw?oc=5",
+    "description": "[투데이에너지 김병민 기자] 한국지역난방공사(사장 하동근)는 14일부터 16일까지 일산 킨텍스에서 개최되는 ‘2026년 도시안전기술박람회’에 자체 개발한 ‘AI 자율 열화상 진단 차량’을 출품했다고 밝혔다.‘도시안전기술박람회’는 기후변화, 도시 인프라 노후화, 각종 재난 및 안전사고",
+    "published_at": "2026-10-16T14:42:45+09:00",
+    "cluster_id": "8acc",
+    "publisher": "투데이에너지",
+    "title_clean": "지역난방公, 도시 위험 대응 위한 첨단 안전기술 선보여",
+    "summary": "한국지역난방공사가 도시안전기술박람회에서 AI 자율 열화상 진단 차량을 선보였다. 이는 도시 인프라 노후화 대응을 위한 첨단 안전기술로, 건설·설비 분야의 안전 진단 및 유지보수 수요 증대를 시사한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T14:55:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32290,37 +32322,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T17:10:40+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GS건설, 협력사와 건설현장 AI 혁신...미래 경쟁력 확보 - 퍼블릭타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Od3k4a2pybk1wckVmSHJGN1g2Wkp1N0oxdWZWQ3FndWY1R290ZG14MmlIZk5nWDM2U0dvUUF0NGI1OVFRRHdYdUw1VWhydDM2TkZqQS15a0xmM21obUlsMzE1RU1Gb3lWMEHSAW5BVV95cUxOOGdQV1EtMDZFUEdHY2VBRXptOWlfMUtqaUZVRVQ3NUlRTUZPcERBTmwxMjF5N21ZbWRaTHJKR2VEeVdzUHhiY1hzdHkwMW5lcHF2MVN4QkdKZGExZXFfdXo4NWdZNEhiR0Z1VGJSdw?oc=5",
-    "description": "퍼블릭타임스=GS건설이 협력사와 함께 건설현장의 안전을 강화하고 인공지능(AI) 기반 기술혁신을 통한 건설산업의 미래 경쟁력 확보에 나섰다. GS건설은 12일 서",
-    "published_at": "2026-10-12T16:30:48+09:00",
-    "cluster_id": "5b8e",
-    "publisher": "퍼블릭타임스",
-    "title_clean": "GS건설, 협력사와 건설현장 AI 혁신...미래 경쟁력 확보",
-    "summary": "GS건설이 협력사와 함께 건설현장 안전 강화 및 AI 기반 기술혁신을 추진하고 있다. 이를 통해 건설산업의 미래 경쟁력 확보에 나선 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T17:10:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대엔지니어링·현대제철, H형강 모듈러 접합 구조 시스템 기술인증 획득 - 라이센스뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SaXE4cTFmYVVnU0FLOEt4cGZwOU5jR1ZaSXFSSC10NGVBaTNFVlg0MmtVOXNBWVZseFpUMjF3Z3M5V05Od3lGZWREb0xDcWN1RktLVWRQOGtVU1NXT3BUMXBrcER5QU9ONkhr?oc=5",
-    "description": "라이센스뉴스 = 박창배 기자 | 공장에서 골조와 마감재를 사전 제작해 현장에서는 블록처럼 조립하는 모듈러 공법은 건설업계의 대표적인 ‘제조업화’ 모델로 꼽힌다.",
-    "published_at": "2026-10-12T11:00:00+09:00",
-    "cluster_id": "941d",
-    "publisher": "라이센스뉴스",
-    "title_clean": "현대엔지니어링·현대제철, H형강 모듈러 접합 구조 시스템 기술인증 획득",
-    "summary": "현대엔지니어링과 현대제철이 H형강을 활용한 모듈러 접합 구조 시스템 기술인증을 획득했다. 공장에서 사전 제작 후 현장에서 블록처럼 조립하는 모듈러 공법은 건설업의 제조업화를 선도하는 기술로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T17:10:40+09:00",
-    "importance": 2
   }
 ]
