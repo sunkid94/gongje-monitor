@@ -5508,6 +5508,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[장위뉴타운, 남은 퍼즐 맞춘다] '반쪽 뉴타운' 오명 벗는다… 장위뉴타... - arunews.com",
+    "link": "https://www.arunews.com/news/articleView.html?idxno=68223",
+    "description": "또 9월 11일까지 환경영향평가 공람을 마쳤다. 장위14구역은 SK에코플랜트·IPARK현대산업개발 컨소시엄이 시공을 맡는다. 지난 2010년 수주한 바 있다. 앞으로 최고 37층 아파트 2,878세대를 신축할 계획이다.",
+    "published_at": "2026-10-16T12:06:00+09:00",
+    "cluster_id": "cc52",
+    "publisher": "arunews.com",
+    "title_clean": "[장위뉴타운, 남은 퍼즐 맞춘다] '반쪽 뉴타운' 오명 벗는다… 장위뉴타...",
+    "summary": "장위14구역 뉴타운 사업이 환경영향평가를 완료하고 본격적으로 진행된다. SK에코플랜트·IPARK현대산업개발 컨소시엄이 시공을 맡아 37층 규모 아파트 2,878세대를 신축할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T12:09:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21492,20 +21508,20 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 신기술",
+    "category": "신기술",
     "is_company": false,
-    "title": "대우건설, 가덕도신공항 공법 논란 반박 … \"문제 공개하고 개선안 설계... - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700233.html",
-    "description": "대우건설 컨소시엄은 일부 구간에서 문제가 발생한 사실은 인정하면서도 검증 결과와 개선 방안을 설계에 반영했다며 '졸속 승인' 주장을 반박했다. 7일 대우건설 컨소시엄은 입장문을 통해 해상 연직배수(PBD) 시공성...",
-    "published_at": "2026-10-07T14:40:00+09:00",
-    "cluster_id": "a772",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "대우건설, 가덕도신공항 공법 논란 반박 … \"문제 공개하고 개선안 설계...",
-    "summary": "대우건설 컨소시엄이 가덕도신공항 공법 논란에 대해 일부 구간 문제를 인정하면서도 검증 결과를 설계에 반영했다며 '졸속 승인' 주장을 반박했다. 해상 연직배수 시공 관련 개선 방안을 제시하며 기술적 신뢰성을 강조하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T14:55:49+09:00",
-    "importance": 4
+    "title": "GS건설 자이, 시니어입주민 맞춤 지원 ‘눈길’ - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50425",
+    "description": "[건설이코노미뉴스] 편리한 주거 생활을 위해 건설사들이 앞다투어 아파트 단지 내 첨단 디지털 서비스를 도입하고 있지만, 정작 시니어 입주민들에게는 ‘그림의 떡’인 경우가 많다. 최근 시니어 단독가구가 늘어나는 변화하는 라이프스타일에 맞춰, 시니어 입주민들의 디지털 진입장벽을 낮추고, 디지털 서비스 사용에 대한 고객 경험을 나누기 위해 입주민들 속으로 직접 찾아간 건설사가 있어 눈길을 모으고 있다.GS건설은 최근 자이 아파트 입주단지 중 시니어 입주민 비중이 높은 3개 단지를 선정, 시니어 입주민 500여 명을 대상으로 아파트 브랜드",
+    "published_at": "2026-10-16T12:06:29+09:00",
+    "cluster_id": "242c",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "GS건설 자이, 시니어입주민 맞춤 지원 ‘눈길’",
+    "summary": "GS건설이 자이 아파트 단지 중 시니어 입주민 비중이 높은 3곳을 선정하여 500여 명을 대상으로 디지털 서비스 이용 교육 프로그램을 추진하고 있다. 고령화 시대에 맞춰 시니어층의 디지털 진입장벽을 낮추고 고객 경험을 개선하려는 맞춤형 지원 사례로 주목받고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T12:09:47+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설 신기술",
@@ -32306,21 +32322,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-12T16:10:21+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 스마트폰 활용 건설현장 관제 기술 특허 등록 절차 진행 - 폴리뉴스 Polinews",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTnpQcGxjRXItUlhKQU9WRnpqZktBS3Y4MXFQSGNZazRHemxqVGlLU1V5Y29yc0lJX01MTXRkZGVta25wdGhabmpGYXkxQW5PSkVHSEtQNHhCUDB4cE5VRFNVZDZzcVNvWDhOSThn?oc=5",
-    "description": "금호건설이 자체 제작한 ‘스마트안전관제시스템’ 기술의 특허 출원을 마치고 현장 운용에 들어간다고 12일 밝혔다. 이번 시스템은 별도의 추적 장치나 스마트밴드 대신",
-    "published_at": "2026-10-12T15:54:44+09:00",
-    "cluster_id": "1be7",
-    "publisher": "폴리뉴스 Polinews",
-    "title_clean": "금호건설, 스마트폰 활용 건설현장 관제 기술 특허 등록 절차 진행",
-    "summary": "금호건설이 스마트폰 기반의 '스마트안전관제시스템' 특허 출원을 완료하고 현장 운용을 시작했다. 별도 추적장치 없이 안전관제가 가능한 기술로, 건설현장의 안전성 강화 및 운영 효율화에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T16:10:21+09:00",
-    "importance": 2
   }
 ]
