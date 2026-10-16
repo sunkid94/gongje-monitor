@@ -5525,6 +5525,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "하나證 \"두산에너빌, SMR 수주 기대…평가배수 낮춰 목표가 27%↓\" - news1.kr",
+    "link": "https://www.news1.kr/finance/general-stock/6321999",
+    "description": "하나증권은 16일 두산에너빌리티(034020)의 기업가치 평가에 적용하는 배수를 낮춰 목표주가를 16만 5000원에서 12만 원으로 27.3% 하향했다. 연내 소형모듈원전(SMR) 핵심 기자재 추가 수주 가능성을 고려해 투자의견은...",
+    "published_at": "2026-10-16T09:57:00+09:00",
+    "cluster_id": "1661",
+    "publisher": "news1.kr",
+    "title_clean": "하나證 \"두산에너빌, SMR 수주 기대…평가배수 낮춰 목표가 27%↓\"",
+    "summary": "하나증권이 두산에너빌리티의 목표주가를 27.3% 하향 조정했으나, SMR 핵심 기자재 추가 수주 가능성을 긍정적으로 평가하고 있다. 평가배수 하향은 단기 조정이지만, SMR 시장 수주 기대는 건설기계설비 업계의 새로운 성장 기회로 작용할 수 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T10:04:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21509,19 +21525,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "롯데이노베이트, AI를 스마트홈에 심었다...일상 언어로 조명·냉난방 등... - eroun.net",
-    "link": "https://www.eroun.net/news/articleView.html?idxno=91800",
-    "description": "건설 분야에서는 '가새', '띠장' 등 건설 현장 용어까지 인식하는 외국인 근로자용 AI 음성 번역 서비스를 개발해 롯데건설에 이어 대우건설 현장에도 적용하고 있다. 농업 분야에서도 LLM 기반 AI 에이전트로 작물별...",
-    "published_at": "2026-10-07T11:20:00+09:00",
-    "cluster_id": "af61",
-    "publisher": "eroun.net",
-    "title_clean": "롯데이노베이트, AI를 스마트홈에 심었다...일상 언어로 조명·냉난방 등...",
-    "summary": "롯데이노베이트가 AI 기술을 스마트홈에 적용하고, 건설 현장 맞춤형 AI 음성 번역 서비스를 개발해 롯데건설, 대우건설 등에 공급하고 있다. 건설·농업 등 다양한 산업 분야에서 LLM 기반 AI 솔루션을 확대 적용 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T11:35:11+09:00",
+    "title": "파주시, 운정중앙역 'GTX 문화공원' 조성 본격화 - pressian.com",
+    "link": "https://www.pressian.com/pages/articles/2026101609541190108?utm_source=naver&utm_medium=search",
+    "description": "시와 LH는 2024년부터 공간구성과 특화시설, 경관계획 등을 협의하며 설계를 구체화했으나, 건설경기 침체 등으로 역세권 내 민간개발 사업 추진이 지연돼 왔다. 손배찬 시장은 \"GTX 문화공원은 시민들이 문화를 누리고...",
+    "published_at": "2026-10-16T09:57:00+09:00",
+    "cluster_id": "e512",
+    "publisher": "pressian.com",
+    "title_clean": "파주시, 운정중앙역 'GTX 문화공원' 조성 본격화",
+    "summary": "파주시와 LH가 운정중앙역 'GTX 문화공원' 조성을 본격화하고 있으며, 2024년부터 공간구성, 특화시설, 경관계획 등을 협의하고 설계를 구체화했다. 다만 건설경기 침체로 역세권 내 민간개발 사업 추진이 지연되고 있는 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-16T10:04:26+09:00",
     "importance": 2
   },
   {
@@ -32307,21 +32323,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-12T14:44:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국가철도공단, 전국 철도건설 현장 장비차량 60대 특별점검 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KUDlqMEQ2VkhpZW5EMEFydktIUGQwYlNlSHd3WHFSTlF4QkdpSE1xSUdob1JXcTU2ZGZRUVB1d1BwTml1bHhUamIzN0FxSWhKTWF1akduN2xya29SOXFjUVJ4ZGt0RUhmQkhMMHRfZ0FuMUHSAXdBVV95cUxPVzVWcUxILUlyNzRwZTRkMUIwT0puMkU1ajZ0T0xLNlB6WU1vdGJkZ0FhMWtFNmZtUG5uUmJsd2x3aHRUem94dXBOMWF3eDB6elZwcVoxbWw2WTZVdU5fakdqVzBUTGszWlZ2VlRtYURuVlRQaGJtTQ?oc=5",
-    "description": "철도건설 현장에서 사용하는 장비차량은 궤도와 전차선 공사에 필수적이지만, 관리 소홀이나 운전 자격 미비는 철도 사고로 이어질 수 있다. 국가철도공단 시설장비사무소는 동절기 사고를 예방하고 장비차량의 안전관리 실태를 확인하기 위해 10월 13일부터 23일까지 전국 철도건설 현장에서 특별점검을 실시한다고 12일 밝혔다.점검 대상은 ‘인천발 KTX 직결 궤도공사’를 포함한 전국 20개 철도건설 현장에서 운용 중인 장비차량 60대다. 공단은 장비 운용·관리 상태를 전반적으로 살피고, 사고로 이어질 수 있는 잠재적 위험요인을 사전에 확인할",
-    "published_at": "2026-10-12T14:37:27+09:00",
-    "cluster_id": "89b5",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "국가철도공단, 전국 철도건설 현장 장비차량 60대 특별점검",
-    "summary": "국가철도공단이 동절기 사고 예방을 위해 10월 13일부터 23일까지 전국 20개 철도건설 현장의 장비차량 60대에 대한 특별점검을 실시한다. 점검은 장비 운용·관리 상태 및 사고 유발 가능성 있는 잠재적 위험요인을 사전에 확인하는 것을 목표로 한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-12T14:44:55+09:00",
-    "importance": 4
   }
 ]
