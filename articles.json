@@ -5525,6 +5525,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[분양 스케치] 두정역 푸르지오, KT&G 공급계획·청약수요 '엇박자' - bloter.net",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=675846",
+    "description": "4월 대우건설과 신축공사 계약을 체결했고 9월 분양을 시작했다. 두정역 푸르지오 그랑피크는 지하 3층~지상 최고 35층 10개동 총 1438가구로 조성된다. 사업이 추진되는 동안 천안의 미분양 주택은 크게 늘었다....",
+    "published_at": "2026-10-16T13:35:00+09:00",
+    "cluster_id": "9b85",
+    "publisher": "bloter.net",
+    "title_clean": "[분양 스케치] 두정역 푸르지오, KT&G 공급계획·청약수요 '엇박자'",
+    "summary": "천안 두정역 푸르지오 그랑피크가 9월 분양을 시작했으며, 대우건설이 신축공사를 진행하고 있다. 다만 사업 추진 과정에서 천안의 미분양 주택이 크게 증가하면서 공급계획과 청약수요의 불일치 문제가 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T13:40:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21507,22 +21523,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-07T15:35:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "가덕도신공항 핵심 공법 실패?... 대우건설 컨소, \"PBD 89% 구간 안정성... - meconomynews.com",
-    "link": "https://www.meconomynews.com/news/articleView.html?idxno=202316",
-    "description": "가덕도신공항 건설의 핵심 공법이라고 할 수 있는 '해상 연직배수(PBD)' 시험 시공 실패 논란에 대해 대우건설 컨소시엄이 \"전혀 사실이 아니다\"라고 반박하고 나섰다. 대우 컨소는 \"이번 해상 PBD 시공성 검증 과정에서...",
-    "published_at": "2026-10-07T15:00:00+09:00",
-    "cluster_id": "4e6e",
-    "publisher": "meconomynews.com",
-    "title_clean": "가덕도신공항 핵심 공법 실패?... 대우건설 컨소, \"PBD 89% 구간 안정성...",
-    "summary": "가덕도신공항 건설의 핵심 공법인 해상 연직배수(PBD) 시공 실패 논란에 대해 대우건설 컨소시엄이 반박하며 안정성을 주장하고 있다. 주요 공법의 신뢰도 논쟁으로 인해 사업 추진 과정에서 기술적 검증과 투명성 확보가 중요한 쟁점으로 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T15:15:27+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
