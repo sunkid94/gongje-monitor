@@ -5440,6 +5440,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[르포] 동탄 한복판 20년 빈 땅…마침내 깨어났다 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261016010005280",
+    "description": "KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 '아크메르 동탄'은 지하 7층~지상 최고 49층·7개동·총 1808가구 규모로 '더샵' 대신 독립 브랜드를 내세운 게 특징이다. 동탄에서 보기 드문 고급 주거단지를...",
+    "published_at": "2026-10-16T17:04:00+09:00",
+    "cluster_id": "e60f",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "[르포] 동탄 한복판 20년 빈 땅…마침내 깨어났다",
+    "summary": "KB부동산신탁과 포스코이앤씨가 함께 진행하는 '아크메르 동탄' 프로젝트가 20년간 방치되던 동탄 부지에서 본격화되고 있다. 지하 7층~지상 49층, 1808가구 규모의 고급 주거단지로 개발되는 이 사업은 건설사에 수주 기회와 지역 경기 부양을 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T17:10:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21424,19 +21440,19 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "입지 따라 갈린 경기도 청약 성적... 서울 인접지 '완판' 외곽은 '미달' - fnnews.com",
-    "link": "https://www.fnnews.com/news/202610071814357688",
-    "description": "성남 분당구 정자동 일원에서는 포스코이앤씨가 시공하는 '더샵 분당하이스트'가 공급된다. 지하 4층∼지상 최고 26층, 17개 동, 총 1149가구 규모다. 성남에서는 최근 사전청약 당첨자를 대상으로 접수를 진행한...",
-    "published_at": "2026-10-07T18:16:00+09:00",
-    "cluster_id": "73d0",
-    "publisher": "fnnews.com",
-    "title_clean": "입지 따라 갈린 경기도 청약 성적... 서울 인접지 '완판' 외곽은 '미달'",
-    "summary": "경기도 신규 아파트 청약이 입지에 따라 극명하게 갈리는 양극화 현상을 보이고 있다. 서울 인접지역은 완판되는 반면 외곽지역은 미달되고 있어 건설사의 수주 전망이 불투명해지고 있다.",
+    "title": "노동부 장관, 부산 건설현장 붕괴사고 예방 불시점검 - 이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjRqekhQbXFjN3BuZEFfTF95Z0xaYUNtMEtNN0J4RGpDaFpiVThUbF9nUER5QnB0OTZraEI2RldrdmxvTDdBeGt2TzZVUVZfUmlvdnJ1Wk9kQm9XMEM2SkxUVkZCZVlWNGx5WEYwNFNDOTlTSDJGUTBHdGM2aU1Ucg?oc=5",
+    "description": "고용노동부가 부산 건설 현장을 사전 예고 없이 찾아 붕괴사고를 예방하기 위한 불시점검을 실시했다. 김영훈 노동부 장관은 16일 오후 3시쯤 부산 남구 A대학교 동물병원 신축현장을 찾아 위험요인과 안전조치 이행 여부를 직접 점검했다.(사진=고용노동부)김영훈 노동부 장...",
+    "published_at": "2026-10-16T16:59:36+09:00",
+    "cluster_id": "3d37",
+    "publisher": "이데일리",
+    "title_clean": "노동부 장관, 부산 건설현장 붕괴사고 예방 불시점검",
+    "summary": "고용노동부가 부산 건설현장에서 붕괴사고 예방을 위한 불시점검을 실시했다. 김영훈 노동부 장관이 직접 A대학교 동물병원 신축현장을 방문해 안전조치 이행 여부를 점검했다.",
     "sentiment": "negative",
-    "collected_at": "2026-10-07T18:35:34+09:00",
+    "collected_at": "2026-10-16T17:10:23+09:00",
     "importance": 4
   },
   {
@@ -32301,22 +32317,6 @@
     "summary": "정부가 해외건설 수주 지원을 위해 3조원 규모의 신전략펀드를 조성하기로 결정했다. 이는 국내 건설기업의 해외진출 기반을 강화하고 수주 기회를 확대하는 지원 정책이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T18:30:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "키오스크 한 대로 건설현장 ‘작업 전 안전 점검’ 해결한다 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zR2E0N0hUMTI3SDd4MTJ6dlZvM0FBSzVaUFhOalkxaUQ3U1RWbVhTaVUwbFRweE1VQ0p6ZDRBY0hWV2FnT1VXTGZGX2l0ZXJxTDBFeE9CSlE4UEY1SW5hbkxwMVc1alo0aURGMw?oc=5",
-    "description": "바이오커넥트가 ‘근로자 안전관리 통합 솔루션’을 선보인다.근로자 안전관리 통합 솔루션은 바이오커넥트의 비접촉 생체신호 측정 키오스크 '바이탈트래커'와 데이터 운영",
-    "published_at": "2026-10-12T18:17:28+09:00",
-    "cluster_id": "cf1c",
-    "publisher": "기계설비신문",
-    "title_clean": "키오스크 한 대로 건설현장 ‘작업 전 안전 점검’ 해결한다",
-    "summary": "바이오커넥트가 비접촉 생체신호 측정 키오스크 '바이탈트래커'를 활용한 근로자 안전관리 통합 솔루션을 출시했다. 건설현장의 작업 전 안전 점검을 자동화하여 업무 효율성을 높이고 산업재해 예방이 가능해진다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T18:25:15+09:00",
     "importance": 2
   }
 ]
