@@ -5460,6 +5460,22 @@
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
+    "title": "\"국평 17억, 비싼 줄 알았더니\"…'하이퍼엔드' 내세운 아크메르 동탄, 가... - fnnews.com",
+    "link": "https://www.fnnews.com/news/202610161625459256",
+    "description": "16일 분양업계에 따르면 KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 '아크메르 동탄'은 화성시 반송동 일원에 지하 7층~지상 최고 49층, 7개 동, 총 1,808가구 대단지로 조성된다. 블록별로는 △아크메르 동탄 95...",
+    "published_at": "2026-10-16T16:55:00+09:00",
+    "cluster_id": "bd12",
+    "publisher": "fnnews.com",
+    "title_clean": "\"국평 17억, 비싼 줄 알았더니\"…'하이퍼엔드' 내세운 아크메르 동탄, 가...",
+    "summary": "KB부동산신탁과 포스코이앤씨가 시행·시공하는 '아크메르 동탄'은 화성시 반송동에 1,808가구 규모의 대단지로 조성되는 프로젝트다. 하이퍼엔드 브랜드를 내세워 고가 주택시장을 공략하는 신규 분양 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-16T17:00:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "포스코이앤씨, 서울 상봉동 '더샵 퍼스트월드 서울' 오피스텔 11월 분양 - thepublic.kr",
     "link": "https://www.thepublic.kr/news/articleView.html?idxno=322576",
     "description": "포스코이앤씨가 서울 중랑구 상봉동 옛 상봉터미널 부지에 조성하는 '더샵 퍼스트월드 서울' 오피스텔을 오는 11월 분양할 예정이다. 16일 포스코이앤씨에 따르면 해당 오피스텔은 상봉9재정비촉진구역 재개발사업을...",
@@ -21441,20 +21457,20 @@
     "importance": 4
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "\"삼성중공업, 100% 환헤지 악수(惡手)였나?…환율 1300원대 하락에 '역전... - newsquest.co.kr",
-    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302239",
-    "description": "삼성중공업이 환헤지 전략과 고가 수주 물량의 매출 반영 확대에 힘입어 영업실적 개선을 보일 것으로 관측된다. 3분기 실적에서 매출 3조원을 돌파하며 전년 동기 대비 성장세가 확인됐다. IBK투자증권은 7일...",
-    "published_at": "2026-10-07T17:50:00+09:00",
-    "cluster_id": "96ce",
-    "publisher": "newsquest.co.kr",
-    "title_clean": "\"삼성중공업, 100% 환헤지 악수(惡手)였나?…환율 1300원대 하락에 '역전...",
-    "summary": "삼성중공업이 환헤지 전략과 고가 수주 물량의 매출 반영 확대로 3분기 매출 3조원을 돌파하며 전년 동기 대비 성장세를 보였다. 환율 하락에도 불구하고 실적 개선이 예상되는 등 업계에 긍정적 신호를 제공하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T18:05:33+09:00",
-    "importance": 2
+    "title": "SH, 불법하도급 예방 위해 현장 관리·감독 강화 - newspost.kr",
+    "link": "https://www.newspost.kr/news/articleView.html?idxno=226464",
+    "description": "교육에서는 하도급의 법적 성격과 관련 법령, '건설산업기본법' 및 '하도급거래 공정화에 관한 법률'에 따른 금지 규정, 수급인의 예방 의무와 대응 방안 등을 다뤘다. 대법원 판례와 하도급대금 조정 분쟁 사례를 통해...",
+    "published_at": "2026-10-16T16:52:00+09:00",
+    "cluster_id": "b807",
+    "publisher": "newspost.kr",
+    "title_clean": "SH, 불법하도급 예방 위해 현장 관리·감독 강화",
+    "summary": "SH가 불법하도급 예방을 위해 현장 관리·감독을 강화하고 있으며, 관련 법령과 판례를 바탕으로 교육을 실시하고 있다. 하도급거래의 법적 규정과 금지사항, 수급인의 예방 의무 등을 중심으로 업체 지도를 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T17:00:20+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32303,21 +32319,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-12T18:00:40+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남동발전 이현빈 사장, 발전현장 안전관리 강화 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrTGdZblZZTXkxdXVHc0wzZFJlUk45Rm1LanRobDNadFVJT3Z1SnZ3Q0ZHSmNTaTR0WldlaHdrUGtDSEp3d3JWak9kMmhhemV2RXg3VXZIV1pwVGFTanppc0Izbw?oc=5",
-    "description": "[국토일보 조성구 기자] 남동발전 이현빈 사장이 취임 후 첫 현장경영에서 근로자의 생명과 안전을 최우선 가치로 내세우며 발전소 안전관리 강화에 나섰다.한국남동발전은 이현빈 사장이 12일 삼천포발전본부와 고성발전본부를 잇달아 방문해 사업소 안전관리 체계와 작업환경을 점검했다고 밝혔다.지난 2일 취임한 이 사장은 이번 방문을 통해 발전소 운영과 건설 현장의 안전 현안을 파악하고, 현장 근로자들의 의견을 청취했다.이 사장은 먼저 사업소 본부장과 실무자들을 만나 안전관리 현안과 애로사항을 들었다. 이어 중앙제어실을 찾아 근무자들을 격려하고",
-    "published_at": "2026-10-12T17:47:47+09:00",
-    "cluster_id": "1d0b",
-    "publisher": "국토일보",
-    "title_clean": "남동발전 이현빈 사장, 발전현장 안전관리 강화",
-    "summary": "남동발전의 신임 이현빈 사장이 취임 후 첫 현장경영에서 발전소 안전관리를 최우선 과제로 삼고 삼천포·고성발전본부를 방문해 안전관리 체계와 작업환경을 점검했다. 현장 근로자의 생명과 안전을 강조하며 발전소 운영 및 건설 현장의 안전 현안을 파악하고 개선에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-12T18:00:40+09:00",
-    "importance": 2
   }
 ]
