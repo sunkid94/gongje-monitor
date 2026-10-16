@@ -5508,6 +5508,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"모잠비크·파푸아뉴기니 찍고 체코까지…대우건설, 4분기에 굵직한 5건... - newsquest.co.kr",
+    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302850",
+    "description": "대우건설은 4분기에 체코 두코바니 원전, 파푸아뉴기니 LNG CPF, 나이지리아 Indorama 신규 비료 공장, 모잠비크 액화천연가스(LNG) Area 4, 한국 가덕도 신공항 기반공사 등 5건의 대형 수주가 기대되고 있다. 이...",
+    "published_at": "2026-10-16T14:44:00+09:00",
+    "cluster_id": "f2c1",
+    "publisher": "newsquest.co.kr",
+    "title_clean": "\"모잠비크·파푸아뉴기니 찍고 체코까지…대우건설, 4분기에 굵직한 5건...",
+    "summary": "대우건설이 4분기에 체코 원전, 파푸아뉴기니 LNG, 나이지리아 비료공장, 모잠비크 LNG, 가덕도 신공항 등 5건의 대형 수주를 기대하고 있다. 해외 플랜트와 국내 인프라 프로젝트를 통한 수주 다각화로 건설업계에 긍정적 신호를 보내고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-16T14:50:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21492,19 +21508,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "AI 스피커 없이 스마트폰에 말하면 된다…롯데건설, 음성제어 홈네트워... - thepowernews.co.kr",
-    "link": "https://www.thepowernews.co.kr/view.php?ud=202610071609122197de3f0aa1be_7",
-    "description": "롯데건설이 기존 스마트홈 앱에 AI 음성인식 기능을 직접 넣어 향후 준공되는 롯데캐슬과 르엘 단지에 순차 적용한다. 롯데건설은 스마트홈 애플리케이션에서 입주민의 음성을 직접 인식해 세대 내 기기를 제어하는 ‘AI...",
-    "published_at": "2026-10-07T16:40:00+09:00",
-    "cluster_id": "ec05",
-    "publisher": "thepowernews.co.kr",
-    "title_clean": "AI 스피커 없이 스마트폰에 말하면 된다…롯데건설, 음성제어 홈네트워...",
-    "summary": "롯데건설이 스마트홈 앱에 AI 음성인식 기능을 탑재하여 롯데캐슬과 르엘 단지에 순차 적용한다. 별도 AI 스피커 없이 스마트폰을 통해 음성으로 세대 내 기기를 제어할 수 있는 신기능이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T16:55:15+09:00",
+    "title": "삼표그룹, ‘3분기 임원 안전세션’ 개최…경영진 주도 안전경영 강화 - 인더스트리뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYTExsNjdSMW9IQlVDbjdUVHVZT3dOY3Vfa2pRQW0zMWRVREpEcmpDSTdBSmN4NFJTUUxtZGlGTTBGZFUxLTloSVFwOXdOd0gyT01yQUZoclBaWXdQUWNIQllzNTNJZ0N4dWJyX3VQcHV2Zw?oc=5",
+    "description": "[인더스트리뉴스 한원석 기자] 건설기초소재 전문기업 삼표그룹이 전 계열사 경영진이 참석하는 안전 세션을 열고 현장 중심의 안전관리 체계와 안전문화 정착 방안을 논",
+    "published_at": "2026-10-16T14:44:39+09:00",
+    "cluster_id": "4579",
+    "publisher": "인더스트리뉴스",
+    "title_clean": "삼표그룹, ‘3분기 임원 안전세션’ 개최…경영진 주도 안전경영 강화",
+    "summary": "삼표그룹이 전 계열사 경영진을 대상으로 3분기 안전세션을 개최하여 현장 중심의 안전관리 체계와 안전문화 정착을 논의했다. 경영진 주도의 안전경영 강화를 추진하는 움직임이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-16T14:50:10+09:00",
     "importance": 2
   },
   {
@@ -32305,22 +32321,6 @@
     "summary": "현대엔지니어링과 현대제철이 H형강을 활용한 모듈러 접합 구조 시스템 기술인증을 획득했다. 공장에서 사전 제작 후 현장에서 블록처럼 조립하는 모듈러 공법은 건설업의 제조업화를 선도하는 기술로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T17:10:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "GS건설, '그랑 파트너스 피에스타 2026' 개최...허윤홍 대표, \"협력사 발전이 곧 GS건설 발전\" - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50402",
-    "description": "[건설이코노미뉴스] GS건설은 서울 삼성동 웨스틴 서울 파르나스에서 허윤홍 대표를 비롯한 경영진과 80여 개 협력사 대표가 참석한 가운데 상생협력 행사인 ‘그랑 파트너스 피에스타 2026(Gran Partners Fiesta 2026)’을 12일 진행했다고 밝혔다.‘그랑 파트너스 피에스타’는 2004년부터 이어온 GS건설의 대표적인 상생협력 행사다. GS건설과 협력사가 함께 성장하고 소통하는 자리를 만들겠다는 의미를 담아 2024년부터 현재의 명칭으로 운영하고 있다.올해 행사에서는 Physical AI를 비롯한 첨단기술의 건설현장",
-    "published_at": "2026-10-12T17:04:21+09:00",
-    "cluster_id": "64d2",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "GS건설, '그랑 파트너스 피에스타 2026' 개최...허윤홍 대표, \"협력사 발전이 곧 GS건설 발전\"",
-    "summary": "GS건설이 협력사와의 상생협력을 강화하기 위해 '그랑 파트너스 피에스타 2026'을 개최했다. 80여 개 협력사 대표가 참석한 가운데 Physical AI 등 첨단기술 도입을 논의하며 함께 성장하는 생태계 조성에 나섰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T17:06:09+09:00",
     "importance": 2
   }
 ]
