@@ -5389,23 +5389,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한건설협회 경남도회 \"수해지역 복구 대형공사 분할발주를\" - gnnews.co.kr",
-    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=645685",
-    "description": "경남도회는 거제·통영지역의 수해 주민들을 돕기 위한 성금 1억원을 기탁했다. 성금은 대한건설협회(회장 한승구)를 비롯해 대한건설협회 경남도회와 건설공제조합, (재)건설산업사회공헌재단 등이 참여해 마련했다.",
-    "published_at": "2026-09-16T19:16:00+09:00",
-    "cluster_id": "1747",
-    "publisher": "gnnews.co.kr",
-    "title_clean": "대한건설협회 경남도회 \"수해지역 복구 대형공사 분할발주를\"",
-    "summary": "대한건설협회 경남도회가 거제·통영 수해지역 복구를 위해 1억원의 성금을 기탁했다. 대한건설협회, 건설공제조합, 건설산업사회공헌재단 등이 함께 참여해 성금을 마련했으며, 수해 주민 지원에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-16T19:36:38+09:00",
-    "event_label": "건설공제조합 거제·통영 수해지역 복구 기금 기탁",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21404,6 +21387,22 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-08T01:35:20+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "SH, 현장 관계자 300여 명 대상 '불법하도급 예방교육' 실시…부실시공... - paxetv.com",
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=284394",
+    "description": "이번 교육은 이성철 KCP솔루션 대표가 강사로 나서 건설산업기본법상 금지 규정과 대법원 판례, 대금 분쟁 사례 등 실무 대응 방안을 전달했습니다. SH는 외부 전문가와 공사 감독자가 참여하는 '하도급 현장관리단'을...",
+    "published_at": "2026-10-16T20:26:00+09:00",
+    "cluster_id": "7073",
+    "publisher": "paxetv.com",
+    "title_clean": "SH, 현장 관계자 300여 명 대상 '불법하도급 예방교육' 실시…부실시공...",
+    "summary": "SH가 건설 현장 관계자 300여 명을 대상으로 불법하도급 예방교육을 실시했다. 외부 전문가를 강사로 초빙해 건설산업기본법 규정, 판례, 분쟁사례 등 실무 대응 방안을 교육하고 현장관리단을 구성해 부실시공을 방지하려는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-16T20:32:19+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 신기술",
