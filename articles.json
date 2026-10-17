@@ -5253,6 +5253,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대교·목화 이어 시범아파트까지 수주…삼성물산, 2조원대 사업 확보 - newsway.co.kr",
+    "link": "https://www.newsway.co.kr/news/view?ud=2026101711214415143",
+    "description": "지난해 5월 열린 현장설명회에는 삼성물산과 대우건설, GS건설, HDC현대산업개발, 금호건설, 호반건설, 제일건설 등 7개사가 참석했지만, 8월 25일 마감한 첫 입찰에는 삼성물산만 입찰서를 냈다. 이어 9월 3일 열린...",
+    "published_at": "2026-10-17T11:22:00+09:00",
+    "cluster_id": "1cd2",
+    "publisher": "newsway.co.kr",
+    "title_clean": "대교·목화 이어 시범아파트까지 수주…삼성물산, 2조원대 사업 확보",
+    "summary": "삼성물산이 대교, 목화에 이어 시범아파트 사업까지 수주하며 2조원대 대규모 사업을 확보했다. 초기 7개사가 참석한 입찰에서 최종적으로 삼성물산이 낙찰되며 건설사 간 수주 경쟁이 심화된 상황을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-17T11:31:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21235,22 +21251,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-08T10:14:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[2026 국감] 현대건설, GTX-A 삼성역 철근누락 보강 책임 10년으로 늘린... - ekn.kr",
-    "link": "https://www.ekn.kr/web/view.php?key=20261008024173584",
-    "description": "대우건설은 가덕도 신공항 공사비 증액 협의가 지연되고 있다며 우선시공분 계약 전까지 정부 확약을 요구했다. 철근 누락이 발생한 GTX-A 삼성역 건설현장 시공사인 현대건설은 향후 나타날 수 있는 하자 등에 관한...",
-    "published_at": "2026-10-08T10:04:00+09:00",
-    "cluster_id": "6fd1",
-    "publisher": "ekn.kr",
-    "title_clean": "[2026 국감] 현대건설, GTX-A 삼성역 철근누락 보강 책임 10년으로 늘린...",
-    "summary": "현대건설이 GTX-A 삼성역 철근누락 사건으로 인한 하자 책임기간을 10년으로 연장하기로 했으며, 대우건설은 가덕도 신공항 공사비 증액을 요구하는 등 건설사들의 분쟁과 책임 강화 이슈가 계속되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T10:14:31+09:00",
-    "importance": 4
   },
   {
     "keyword": "스마트건설",
