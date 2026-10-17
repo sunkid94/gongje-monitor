@@ -4913,6 +4913,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "동탄 초고층 주거단지 ‘아크메르 동탄’ 분양 돌입 - viva100.com",
+    "link": "https://www.viva100.com/article/20261018500093",
+    "description": "KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 ‘아크메르 동탄’이 견본주택을 열고 분양에 나선다. 아크메르 동탄은 경기 화성시 동탄구 반송동 일원에 조성된다. 메타폴리스와 동탄센트럴파크 인근으로, 지하...",
+    "published_at": "2026-10-18T08:44:00+09:00",
+    "cluster_id": "85a9",
+    "publisher": "viva100.com",
+    "title_clean": "동탄 초고층 주거단지 ‘아크메르 동탄’ 분양 돌입",
+    "summary": "KB부동산신탁과 포스코이앤씨가 경기 화성시 동탄에 초고층 주거단지 '아크메르 동탄'을 분양한다. 동탄센트럴파크 인근 입지로 대규모 건설사업이 진행되는 주요 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T08:47:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20895,22 +20911,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T12:53:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 도시정비 조직 3개팀으로 확대…데이터센터 전담팀 신설 - tfmedia.co.kr",
-    "link": "https://www.tfmedia.co.kr/news/article.html?no=207817",
-    "description": "도시정비 수주 확대 대응…전략사업 경쟁력 강화 대형사업 리스크 관리 세분화·안전품질본부 신설  대우건설이 도시정비사업 조직을 확대하고 데이터센터 전담팀을 신설하는 등 조직개편과 임원 인사를 단행했다....",
-    "published_at": "2026-10-08T12:20:00+09:00",
-    "cluster_id": "a8dc",
-    "publisher": "tfmedia.co.kr",
-    "title_clean": "대우건설, 도시정비 조직 3개팀으로 확대…데이터센터 전담팀 신설",
-    "summary": "대우건설이 도시정비사업 수주 확대에 대응하기 위해 도시정비 조직을 3개팀으로 확대하고 데이터센터 전담팀을 신설했다. 안전품질본부 신설을 통해 대형사업의 리스크 관리를 세분화하며 전략사업 경쟁력을 강화하는 조직개편을 단행했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T12:33:15+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
