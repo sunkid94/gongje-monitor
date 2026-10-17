@@ -4947,6 +4947,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "호반건설, 부산 북항 배후 '호반써밋 초량' 11월 분양 - fetv.co.kr",
+    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=311912",
+    "description": "포스코이앤씨는 2024년 부산진구 촉진2-1구역 재개발 시공권을 따냈다. 사업비 1조3000억원, 최고 69층 1902가구 규모다. 분양 관계자는 \"원도심 핵심 입지인 초량에 들어서는 브랜드 아파트\"라며 \"중소형 위주 구성과 정주...",
+    "published_at": "2026-10-18T07:00:00+09:00",
+    "cluster_id": "ab44",
+    "publisher": "fetv.co.kr",
+    "title_clean": "호반건설, 부산 북항 배후 '호반써밋 초량' 11월 분양",
+    "summary": "포스코이앤씨가 부산진구 촉진2-1구역 재개발 시공권을 수주했으며, 사업비 1조3000억원 규모의 69층 1902가구 아파트를 11월에 분양할 예정이다. 원도심 재개발을 통한 건설 수주 증가로 업계에 긍정적인 신호를 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T07:02:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20929,22 +20945,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T12:13:36+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 도시정비·데이터센터 '투톱' 승부…조직 새판 - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261008010002452",
-    "description": "아시아투데이 전원준 기자 = 대우건설이 도시정비사업과 데이터센터 등 전략사업을 강화하고 대형 프로젝트 리스크 관리 체계를 세분화한다. 안전·품질과 연구개발(R&D) 조직도 재정비해 현장 대응력을 높인다. 대우건설은...",
-    "published_at": "2026-10-08T11:38:00+09:00",
-    "cluster_id": "12a1",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "대우건설, 도시정비·데이터센터 '투톱' 승부…조직 새판",
-    "summary": "대우건설이 도시정비사업과 데이터센터를 전략사업으로 강화하며 조직을 개편한다. 안전·품질·R&D 조직 재정비와 프로젝트 리스크 관리 체계 세분화로 현장 대응력을 높인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T11:53:50+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
