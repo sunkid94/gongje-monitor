@@ -20913,6 +20913,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "복기왕, \"지역 가점·쿼터제 등 지방 중소 건설사 참여 대책 마련 필요... - chungnamilbo.co.kr",
+    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915214",
+    "description": "복 의원은 지방 건설사 폐업 증가에 이어 지방 건설경기 위축을 우려했다. 올해 9월 기준 지방 건설사 폐업 신고가 2,015건에 달하는 상황에 공적 PF 보증의 수도권과 대형사 집중이 지방의 건설 일자리와 지역경제...",
+    "published_at": "2026-10-18T08:50:00+09:00",
+    "cluster_id": "f93b",
+    "publisher": "chungnamilbo.co.kr",
+    "title_clean": "복기왕, \"지역 가점·쿼터제 등 지방 중소 건설사 참여 대책 마련 필요...",
+    "summary": "복기왕 의원이 지방 건설사 폐업 증가(2025년 9월 기준 2,015건)와 지방 건설경기 위축을 지적하며, 공적 PF 보증이 수도권과 대형사에 집중된 문제를 제기했다. 지역 가점·쿼터제 등 지방 중소 건설사 참여 대책의 필요성을 주장했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T08:57:57+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한난, AI 활용 열수송관 안전진단 기술 선봬 - 충남일보",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Tek5pOXpqal82SzEzSFNUQnA3TVl4NmUwRng2X1VIdlE4SC1CVWtLUW9DNDc5cVozM2I1SW1JUkgyNUItdnROWEpzY2M0ZDJzMWxhbU9GeVJqVmRTUU1FMEtKUmd1bEg3Y0VHNUZNUWJKMjg?oc=5",
+    "description": "[충남일보 김현수 기자] 한국지역난방공사(이하, 한난)는 지난 14일부터 16일까지 일산 킨텍스에서 열린",
+    "published_at": "2026-10-18T08:49:15+09:00",
+    "cluster_id": "fc7f",
+    "publisher": "충남일보",
+    "title_clean": "한난, AI 활용 열수송관 안전진단 기술 선봬",
+    "summary": "한국지역난방공사가 AI 기술을 활용한 열수송관 안전진단 기술을 선보였다. 킨텍스에서 개최된 행사를 통해 기술 혁신을 시연하며 열공급 인프라의 안전성 강화에 나섰다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T08:57:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
