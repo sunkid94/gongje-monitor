@@ -5253,6 +5253,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[家보다] 아크메르 동탄 \"6성급 호텔이 따로 없네\" 개관 첫날부터 대기... - newsprime.co.kr",
+    "link": "http://www.newsprime.co.kr/news/article.html?no=751343",
+    "description": "KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 아크메르 동탄은 화성시 동탄구 반송동 일대에 지하 7층~지상 최고 49층 7개동 1808가구 규모로 조성된다. 이중 △동탄 95 3개동 전용 84~188㎡ 812가구 △동탄 99 4개동...",
+    "published_at": "2026-10-17T11:28:00+09:00",
+    "cluster_id": "4d76",
+    "publisher": "newsprime.co.kr",
+    "title_clean": "[家보다] 아크메르 동탄 \"6성급 호텔이 따로 없네\" 개관 첫날부터 대기...",
+    "summary": "KB부동산신탁과 포스코이앤씨가 시행·시공하는 아크메르 동탄이 화성 동탄구에 1808가구 규모로 준공되어 개관 첫날부터 높은 수요를 보이고 있다. 프리미엄 아파트단지로서 시장에서 긍정적인 반응을 얻고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-17T11:35:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21235,22 +21251,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T10:33:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "트리븐 센텀, 세대당 1.84대 주차공간 계획…총 1644세대 규모 - hankyung.com",
-    "link": "https://www.hankyung.com/article/202610078911O",
-    "description": "트리븐 센텀은 1단지 852세대, 2단지 792세대 등 총 1644세대로 구성된다. 시공은 두산에너빌리티가 담당하며, 견본주택은 부산 해운대구 우동 신세계백화점 센텀시티점 맞은편에 마련된다.",
-    "published_at": "2026-10-08T10:01:00+09:00",
-    "cluster_id": "8c54",
-    "publisher": "hankyung.com",
-    "title_clean": "트리븐 센텀, 세대당 1.84대 주차공간 계획…총 1644세대 규모",
-    "summary": "두산에너빌리티가 시공하는 트리븐 센텀은 총 1644세대(1단지 852세대, 2단지 792세대)로 구성된 대규모 주거 프로젝트다. 세대당 1.84대의 주차공간을 확보하여 주거 편의성을 갖추고 있으며, 견본주택은 부산 해운대구 센텀시티에 위치한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T10:14:31+09:00",
-    "importance": 2
   },
   {
     "keyword": "스마트건설",
