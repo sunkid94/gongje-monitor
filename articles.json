@@ -5219,6 +5219,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "10대 건설사 법적 분쟁 확대…피소액 1년 새 8100억 증가 - inews24.com",
+    "link": "http://www.inews24.com/view/2015952",
+    "description": "반면 대우건설은 피소액이 1198억원 줄었지만 계류 사건은 276건에서 304건으로 늘었다. 피소액과 함께 건설사들이 직접 제기한 공사대금 소송도 이어지고 있다. 건설사업은 계약부터 준공까지 장기간 진행되는 만큼...",
+    "published_at": "2026-10-17T12:00:00+09:00",
+    "cluster_id": "f0dc",
+    "publisher": "inews24.com",
+    "title_clean": "10대 건설사 법적 분쟁 확대…피소액 1년 새 8100억 증가",
+    "summary": "10대 건설사의 법적 분쟁이 확대되고 있으며, 1년 새 피소액이 8100억원 증가했다. 대우건설 등 건설사들이 피소액 변동과 함께 공사대금 소송을 지속적으로 제기하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-17T12:10:56+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21201,22 +21217,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-08T10:44:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[2026 국감] \"적정 공사비 없이 안 된다\" 가덕도 시공사 호소 - finomy.com",
-    "link": "http://www.finomy.com/news/articleView.html?idxno=263174",
-    "description": "현대경제신문 임이랑 기자 | 가덕도신공항 부지조성 공사의 공사비 증액을 두고 시공사 대우건설이 정부에 확약을 요구했다. 7일 열린 국회 국토교통위원회의 국토교통부 종합 국정감사에서 심철진 대우건설...",
-    "published_at": "2026-10-08T10:18:00+09:00",
-    "cluster_id": "a83a",
-    "publisher": "finomy.com",
-    "title_clean": "[2026 국감] \"적정 공사비 없이 안 된다\" 가덕도 시공사 호소",
-    "summary": "가덕도신공항 부지조성 공사를 시공 중인 대우건설이 국정감사에서 적정 공사비 확약을 정부에 요구했다. 시공사의 공사비 증액 호소는 건설비 상승 및 원가 압박으로 인한 업계의 수익성 악화를 반영한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T10:33:26+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
