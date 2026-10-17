@@ -4947,6 +4947,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한화엔진, 삼성중공업에 선박용 엔진 1323억원 공급 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=393687",
+    "description": "한화엔진이 삼성중공업이 건조할 선박에 엔진을 공급한다. 계약금액은 1322억5368만원으로, 한화엔진의 2025년 연결 매출액 대비 9.6%다. 한화엔진은 지난 15일 금융감독원 전자공시시스템에 단일판매·공급계약을...",
+    "published_at": "2026-10-18T03:36:00+09:00",
+    "cluster_id": "f063",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "한화엔진, 삼성중공업에 선박용 엔진 1323억원 공급",
+    "summary": "한화엔진이 삼성중공업에 선박용 엔진 1,323억원을 공급하기로 계약했다. 이는 한화엔진의 2025년 연결 매출액 대비 9.6%에 해당하는 규모의 계약이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T03:37:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20926,22 +20942,6 @@
     "publisher": "newslock.co.kr",
     "title_clean": "[뉴스락 주식네비] 대우건설, 3Q 영업익 202%↑ 전망... LNG·원전·가덕...",
     "summary": "대우건설이 주택과 플랜트 부문의 수익성 회복으로 3분기 영업이익을 전년 동기 대비 3배 이상 증가시킬 것으로 전망된다. 악성 현장 준공과 신규 현장 매출 반영으로 사업 믹스가 개선되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T11:33:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "‘계양∼강화 고속도로 건설공사 1공구’ 누구 품에 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071039569680725",
-    "description": "2공구는 대보건설, 3공구는 동부건설, 4공구는 금호건설, 5공구는 현대건설, 6공구는 DL이앤씨가 각각 시공권을 확보했다. 턴키 방식의 7공구는 롯데건설이 맡는다. jmahn@",
-    "published_at": "2026-10-08T11:22:00+09:00",
-    "cluster_id": "5a00",
-    "publisher": "대한경제",
-    "title_clean": "‘계양∼강화 고속도로 건설공사 1공구’ 누구 품에",
-    "summary": "계양∼강화 고속도로 건설공사의 2~7공구 시공사가 결정되었으며, 대보·동부·금호·현대·DL이앤씨·롯데 건설이 각각 수주했다. 대형 인프라 프로젝트로 건설사들의 매출 증대 기회를 제공한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T11:33:40+09:00",
     "importance": 2
