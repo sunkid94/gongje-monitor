@@ -20947,6 +20947,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[패트롤] 과천시-군포시-부천시-안양시-의왕시 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20261018025057619",
+    "description": "특히 건설공사 관련 인허가 사항 준수 여부를 비롯해 건축물 안전설비의 적정 설치 여부와 건설 노동자 안전 관리 실태 등을 주기적으로 점검하고, 현장 중심 예방 활동을 통해 공사장 안전사고 위험 요인을 사전에 확인...",
+    "published_at": "2026-10-18T01:48:00+09:00",
+    "cluster_id": "87b1",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤] 과천시-군포시-부천시-안양시-의왕시",
+    "summary": "경기 남부 5개 시(과천, 군포, 부천, 안양, 의왕)에서 건설공사 인허가 준수, 안전설비 설치, 노동자 안전 관리 등을 주기적으로 점검하는 예방 활동을 실시한다. 공사장 안전사고 위험 요인을 사전에 확인하고 현장 중심의 안전관리를 강화하는 내용이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T01:58:07+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "연천군, ‘2026년 건설공사장 산업재해예방 우수기관’ 도지사표창 수상 - 일간투데이",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mOVFQMW92R2k4YlViT1hhckR1VTVsM1gzZFMwZ0JYbmpjOUFUV1ZVLTlEZHZiTFVMVnQ5TlZIYXdOVkQzaW16c2FmSVFSbFRXTl9Uc2o2dUF1NXgwLWg2Uy1HMmFDSjhITnZN?oc=5",
+    "description": "[일간투데이 엄명섭 기자] 연천군은 지난 14일 건설 공사장 산업재해 예방을 위한 체계적 안전관리 성과를 인정받아 ‘2026년 건설공사장 산업재해 예방 우수기관’ 도지사표창을 수상했다고 밝혔다.이번 수상은 2025년 시군 종합평가 결과에 따른 것으로, 연천군은 ‘건설공",
+    "published_at": "2026-10-18T01:41:33+09:00",
+    "cluster_id": "716f",
+    "publisher": "일간투데이",
+    "title_clean": "연천군, ‘2026년 건설공사장 산업재해예방 우수기관’ 도지사표창 수상",
+    "summary": "연천군이 건설공사장 산업재해 예방 우수기관으로 도지사표창을 수상했다. 2025년 시군 종합평가에서 체계적 안전관리 성과를 인정받은 것으로, 건설공사장의 안전관리 강화를 위한 지자체의 노력을 보여준다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T01:58:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
