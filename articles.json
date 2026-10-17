@@ -4947,6 +4947,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[시선+]웨스팅하우스 지분은 열쇠인가, 비싼 관람권인가 - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=118322",
+    "description": "국내에서는 SK그룹과 삼성물산, 현대건설, 두산에너빌리티, GS건설 등이 컨소시엄 참여를 검토하고 있다. 그러나 기업별 출자액과 최종 투자 조건은 확정되지 않았다. 부지 선정과 인허가, 금융 조달, 건설계약도 남아...",
+    "published_at": "2026-10-18T00:00:00+09:00",
+    "cluster_id": "1446",
+    "publisher": "businessplus.kr",
+    "title_clean": "[시선+]웨스팅하우스 지분은 열쇠인가, 비싼 관람권인가",
+    "summary": "SK, 삼성물산, 현대건설 등 국내 대형건설사들이 웨스팅하우스 투자 컨소시엄 참여를 검토 중이나, 출자액과 투자 조건은 미확정 상태. 부지 선정, 인허가, 금융 조달 등 과제가 남아있어 실제 수주로 이어질지 불확실한 상황.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T00:08:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20929,22 +20945,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-08T11:13:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[2026년 국감] 현대건설 'GTX-A 하자담보' 5년 추가 연장 약속 - popcornnews.net",
-    "link": "http://www.popcornnews.net/news/articleView.html?idxno=135290",
-    "description": "앞서 국감장을 찾을 것으로 예상됐던 박종진 포스코이앤씨 건축사업본부장 증인 채택은 보류됐다. 출석한 두 곳 건설사 중 다수 질문세례를 받은 곳은 수도권광역급행철도(GTX)-A 삼성역 시공사인 현대건설이었다. 이날...",
-    "published_at": "2026-10-07T20:46:00+09:00",
-    "cluster_id": "e41f",
-    "publisher": "popcornnews.net",
-    "title_clean": "[2026년 국감] 현대건설 'GTX-A 하자담보' 5년 추가 연장 약속",
-    "summary": "현대건설이 국감에서 GTX-A 삼성역 공사 관련 다수의 질문을 받았으며, 하자담보를 5년 추가 연장하기로 약속했다. 포스코이앤씨 증인 채택은 보류되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T11:13:43+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
