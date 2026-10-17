@@ -4947,6 +4947,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC E&C",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "SGC E&C, 1035억원 사우디 IPA 공사 종료일 연장 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=393807",
+    "description": "SGC E&C가 사우디아라비아 APOC와 진행하는 이소프로필알코올(IPA) 생산설비 건설공사의 계약 종료일을 2027년 8월 30일로 변경했다. 기존 종료일은 2026년 10월 17일이었다. 회사는 지난 15일 제출한 기재정정...",
+    "published_at": "2026-10-18T07:52:00+09:00",
+    "cluster_id": "6d1d",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "SGC E&C, 1035억원 사우디 IPA 공사 종료일 연장",
+    "summary": "SGC E&C가 사우디아라비아의 이소프로필알코올(IPA) 생산설비 건설공사 계약 종료일을 2026년 10월에서 2027년 8월로 약 10개월 연장했다. 공사 규모는 1035억원이며, 기존 계약 조건의 변경 사항이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T07:57:58+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20929,22 +20945,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-08T12:13:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[이남석의 집맥] 커튼월룩이 뭐길래…서울시 권고에 속타는 조합원들 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727155",
-    "description": "실제로 대우건설은 2024년 개포주공5단지 아파트 재건축 수주 당시 글로벌 설계사 유엔스튜디오(UNSTUDIO)와 협업해 크리스털 외관 디자인을 적용하겠다고 밝혔는데요. 외관 고급화를 위해 특화설계로 커튼월룩을 제안했죠....",
-    "published_at": "2026-10-08T11:58:00+09:00",
-    "cluster_id": "449f",
-    "publisher": "ebn.co.kr",
-    "title_clean": "[이남석의 집맥] 커튼월룩이 뭐길래…서울시 권고에 속타는 조합원들",
-    "summary": "대우건설이 개포주공5단지 재건축에서 글로벌 설계사와 협업해 크리스털 외관의 커튼월룩 특화설계를 제안했으나, 서울시의 권고로 인해 조합원들이 불만을 겪고 있다. 외관 고급화 설계가 규제 당국의 지침에 걸리면서 건설사와 시공자 간 갈등이 발생하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T12:13:36+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
