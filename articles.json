@@ -4522,6 +4522,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산퓨얼셀, 4000억 조달로 시간 벌었지만 실적 개선 관건 - 블로터",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zYkY3eExZRzBQT0hrdDRENVpwWVRpbGMxbWo3amxwZEthaGk0WTNxaEEtNmM4c0I4dVB2dExoN0lYZlloRFZkV3h0SXM1aEFqVzVUQlRDWXJFTlhRMmNnU0FtbG1QM0s30gFsQVVfeXFMUGc0NTV1NDlEdHlMZW1LQjJjb3VyNnBXSml0YWNOdm1tNGNaTHJfWnFJR2Y0NXBlcnVHdHhqcE9oWWREazlXdVA3YnJuZmpGVHVyNFh5MkxYaXp0REJGdk5iYko1dmVqbjNQX0NM?oc=5",
+    "description": "두산퓨얼셀이 투자자의 조기상환청구권이 없는 신종자본증권 발행으로 단기 유동성 부담을 덜 수 있는 기반을 마련했다. 만기가 길고 초기 이자 부담도 제한적인 구조인 만큼 당장의 자금 운용에는 여유가 생길 전망이다. 다만 영업적자가 이어지고 대규모 수주에 따른 운전자금 부담도 지속되고 있어",
+    "published_at": "2026-10-18T13:00:00+09:00",
+    "cluster_id": "a068",
+    "publisher": "블로터",
+    "title_clean": "두산퓨얼셀, 4000억 조달로 시간 벌었지만 실적 개선 관건",
+    "summary": "두산퓨얼셀이 4000억 원 규모의 신종자본증권 발행으로 단기 유동성 부담을 완화했으나, 지속되는 영업적자와 대규모 수주에 따른 운전자금 부담이 실적 개선의 관건이 될 전망이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T17:48:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20506,20 +20522,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "에브리봇, 마곡 'VL르웨스트'서 로봇 현장 시연 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261008_0003819425",
-    "description": "시연이 진행된 VL르웨스트는 롯데건설이 시공하고 롯데호텔앤리조트가 운영을 지원하는 시니어 레지던스다. 주거공간뿐만 아니라 레스토랑, 피트니스, 사우나, 라운지 등 다양한 생활·편의시설을 갖춘 복합적인...",
-    "published_at": "2026-10-08T15:34:00+09:00",
-    "cluster_id": "92ae",
-    "publisher": "newsis.com",
-    "title_clean": "에브리봇, 마곡 'VL르웨스트'서 로봇 현장 시연",
-    "summary": "에브리봇이 마곡의 롯데건설 시공 시니어 레지던스 'VL르웨스트'에서 로봇 현장 시연을 진행했다. 시니어 레지던스의 다양한 시설에서 로봇 기술 적용 가능성을 선보인 사례다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T15:43:54+09:00",
-    "importance": 2
+    "title": "국토부, 불법하도급 단속 범위 확대…75개 민간현장 점검 - 아시아투데이",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MaXdUMHZhQk8wNERDdF9uMWZpQXRtczRyVWRobWZZRExoOFV1WVJHczRFNEhFa09EaENpSDVwOWxJZmRBc2xXZ0VVM3A4QXkxdElwU3BXZXJaYU5LNUZHY2VNdXB4dGoxcWo5Qzl3?oc=5",
+    "description": "국토교통부는 대한건설기계협회 등과 함께 구성된 민간현장 체불해소 합동지원단을 통해 지난 5월 수도권 집중단속에 이어 10월 19일부터 11월 13일까지 경상권 민간 건설현장 75개소를 대상으로 집중단속을 실시한다고 18일 밝혔다.이번 단속은 국토부가 오는 12월 31..",
+    "published_at": "2026-10-18T17:34:24+09:00",
+    "cluster_id": "66dd",
+    "publisher": "아시아투데이",
+    "title_clean": "국토부, 불법하도급 단속 범위 확대…75개 민간현장 점검",
+    "summary": "국토교통부가 건설기계협회 등과 함께 경상권 민간 건설현장 75개소에 대해 10월 19일부터 11월 13일까지 불법하도급 및 체불 집중단속을 실시한다. 이는 5월 수도권 단속에 이어 진행되는 확대 단속으로, 12월 31일 예정된 규제 시행에 앞서 업계 적응을 유도하려는 움직임이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T17:48:27+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
