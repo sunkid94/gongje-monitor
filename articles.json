@@ -4471,6 +4471,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[원전] 반등 성공한 우리기술…월요일 주가 흐름 향방 주목 - cbci.co.kr",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616754",
+    "description": "우리기술은 지난 9월 17일 두산에너빌리티와 신한울 3·4호기에 적용할 가상화 분산제어시스템(DCS) 개발 계약을 체결한 바 있다. 원전 계측제어시스템(MMIS) 전문기업인 우리기술은 당시 '신한울 3·4호기 가상화 DCS...",
+    "published_at": "2026-10-19T00:00:00+09:00",
+    "cluster_id": "9a08",
+    "publisher": "cbci.co.kr",
+    "title_clean": "[원전] 반등 성공한 우리기술…월요일 주가 흐름 향방 주목",
+    "summary": "우리기술이 두산에너빌리티와 신한울 3·4호기 가상화 분산제어시스템(DCS) 개발 계약을 체결하며 원전 사업 수주에 성공했다. 원전 계측제어시스템 전문기업으로서 주가 반등이 기대되는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T00:03:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20451,22 +20467,6 @@
     "title_clean": "치솟는 분양가에 '분상제' 단지 쏠림… '청라 아크원 푸르지오' 관심",
     "summary": "대우건설이 시공하는 청라 아크원 푸르지오는 분양가상한제가 적용되는 아파트 868세대와 오피스텔 987실 등 총 1,855가구 규모로 조성되며, 분상제 단지에 대한 시장의 관심이 집중되고 있다. 치솟는 분양가 속에서 규제 대상 단지로의 쏠림 현상이 나타나고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-08T16:33:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "천호우성, 최고 15층 아파트 635세대로 재건축 - arunews.com",
-    "link": "https://www.arunews.com/news/articleView.html?idxno=67978",
-    "description": "조합은 지난 2024년 6월 시공자로 롯데건설을 선정한 바 있다. 한편 이 일대는 지하철 5호선 명일역과 굽은다리역 사이에 위치해 있다. 주변에 천호초, 명일초, 천호중, 강일중, 성덕여중, 신암중, 성덕고, 선사고 등이...",
-    "published_at": "2026-10-08T16:18:00+09:00",
-    "cluster_id": "96e4",
-    "publisher": "arunews.com",
-    "title_clean": "천호우성, 최고 15층 아파트 635세대로 재건축",
-    "summary": "천호우성 재건축 조합이 롯데건설을 시공사로 선정하여 최고 15층, 635세대 규모의 아파트 재건축을 추진 중이다. 명일역과 굽은다리역 인근의 교통 접근성 우수한 입지에서 프로젝트가 진행되고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-08T16:33:37+09:00",
     "importance": 2
   },
