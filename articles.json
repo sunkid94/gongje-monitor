@@ -20471,6 +20471,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“일터에서 또 참변” 강원서 잇단 산업현장 사망사고 - 강원일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mdzEyVGpfNUgxTFZmcTJibVF6NFAtR1NWdDF5bHdjNnAtM2FQSDlIZnJVUDlaX1ZlZllGS2FaSFZ4V01sellPc3g3RVEwS3RSWkt1R1FSNlA5eWs?oc=5",
+    "description": "산업재해를 줄이기 위한 노력에도 불구하고 강원도내에 현장에서 사망과 부상 사고가 끊이지 않고 있다. 건설현장 추락과 중장비 사고 등이 되풀이돼 실효성 있는 안전대책이 요구된다. 지난 9일 영월군 주천면의 시멘트 공장 석회석 광산터널 내부에서 노동자 A씨가 5ｍ 아래 구",
+    "published_at": "2026-10-19T00:03:00+09:00",
+    "cluster_id": "9bee",
+    "publisher": "강원일보",
+    "title_clean": "“일터에서 또 참변” 강원서 잇단 산업현장 사망사고",
+    "summary": "강원도에서 산업재해 사망사고가 잇따르고 있으며, 시멘트 공장 광산터널에서 노동자 추락사고가 발생했다. 건설현장 추락과 중장비 사고 등이 반복되면서 실효성 있는 안전대책 마련이 시급한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T00:23:35+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32243,22 +32259,6 @@
     "title_clean": "‘2026 대한민국 통합의학박람회’ 15일 장흥서 개막",
     "summary": "전남 장흥군에서 '2026 대한민국통합의학박람회'가 4일간 개최된다. 73개 기관이 참여하여 통합의학 관련 전시·체험 및 건강관리 프로그램을 선보인다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-13T12:00:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "청평고서 건설 훈련 성과 공유회 열려 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37443",
-    "description": "건설근로자공제회가 특성화고 단계부터 청년 건설기능인력을 육성하기 위한 현장 중심 교육 과정을 운영하고 있다. 공제회는 인공지능과 디지털 기술이 건설 현장에 도입되는 상황에서도 현장 판단과 숙련된 기능의 중요성이 여전히 크다고 보고, 고용노동부 위탁사업을 통해 특성화고 연계 훈련을 진행해 왔다. 이와 관련해 공제회는 10월 12일 청평고등학교에서 '청평고등학교 훈련성과 공유 간담회'를 개최했다. 행사에는 김은철 건설근로자공제회 전무이사와 가평교육지원청 및 청평고 관계자, 훈련 교·강사, 학생들이 참석했다. 청평고 학생들은 현직 기능장",
-    "published_at": "2026-10-13T09:13:00+09:00",
-    "cluster_id": "3e56",
-    "publisher": "한국건설신문",
-    "title_clean": "청평고서 건설 훈련 성과 공유회 열려",
-    "summary": "건설근로자공제회가 특성화고와 연계하여 청년 건설기능인력 육성 프로그램을 운영하고 있으며, 청평고등학교에서 훈련성과 공유 간담회를 개최했다. AI·디지털 기술 도입에도 현장 판단과 숙련 기능의 중요성을 강조하며 인력 양성에 집중하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-13T12:00:21+09:00",
     "importance": 2
   }
