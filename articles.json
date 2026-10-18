@@ -20471,6 +20471,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "‘구조 개혁’ 미룬 대가… 프랑스가 불탔다 - chosun.com",
+    "link": "https://www.chosun.com/international/international_general/2026/10/19/DBNPNVOCENEFRC7M7NGG2W27DU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "건설 노동자 다미앙(22)씨는 “공공 재정의 돈이 점점 줄어들고 있다”며 “병원에 가면 더는 지원금을 받을 수 없다”고 했다. 노란 조끼를 입은 제시카는 “이것은 프랑스 인구 80%의 요구”라며 “이를 일부의 단발성...",
+    "published_at": "2026-10-19T00:56:00+09:00",
+    "cluster_id": "25aa",
+    "publisher": "chosun.com",
+    "title_clean": "‘구조 개혁’ 미룬 대가… 프랑스가 불탔다",
+    "summary": "프랑스에서 공공 재정 축소로 인한 의료·복지 지원 감소에 항의하는 대규모 시위가 발생했다. 구조적 개혁 미루기의 결과로 사회 갈등이 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T00:58:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32242,22 +32258,6 @@
     "publisher": "아주경제",
     "title_clean": "이현빈 남동발전 신임 사장, 첫 행보는 LNG 건설현장 안전 점검",
     "summary": "이현빈 남동발전 신임 사장이 취임 후 LNG 건설사업 현장을 방문하여 안전관리를 점검했다. 고위험 건설현장에 대한 안전 감시 강화를 첫 행보로 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-13T12:00:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "‘2026 대한민국 통합의학박람회’ 15일 장흥서 개막 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37444",
-    "description": "‘제15회 2026 대한민국통합의학박람회’가 오는 15일부터 18일까지 4일간 전남 장흥군 안양면 국제통합의학박람회장에서 열린다.전남광주통합특별시와 장흥군이 공동 주최하고 대한민국통합의학박람회추진위원회가 주관하는 이번 박람회는 “치유, 통합의학으로 답하다”라는 주제로 다양한 의료 체험과 건강관리 프로그램을 선보인다.이번 박람회에는 대학병원과 대학, 의료기관, 관련 단체 등 약 73개 기관이 참여한다.전시·체험 공간은 주제관, 통합의학관, 웰니스힐링관, 건강증진관, 건강음식관, 건강산업테크관 등 6개 관으로 구성된다.주제관에서는 역대",
-    "published_at": "2026-10-13T11:56:38+09:00",
-    "cluster_id": "1dba",
-    "publisher": "한국건설신문",
-    "title_clean": "‘2026 대한민국 통합의학박람회’ 15일 장흥서 개막",
-    "summary": "전남 장흥군에서 '2026 대한민국통합의학박람회'가 4일간 개최된다. 73개 기관이 참여하여 통합의학 관련 전시·체험 및 건강관리 프로그램을 선보인다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-13T12:00:21+09:00",
     "importance": 2
