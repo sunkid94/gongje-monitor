@@ -20709,6 +20709,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "최저임금 위반 신고 6년 연속 1위…대구 건설현장 사망도 급증 - idaegu.com",
+    "link": "https://www.idaegu.com/news/articleView.html?idxno=666326",
+    "description": "청년 근로자의 임금 피해가 이어지고 건설현장 안전사고까지 증가하면서 지역 노동환경을 개선해야 한다는 지적이 나온다. 윤재옥 국민의힘 의원(대구 달서을)이 고용노동부 자료를 분석한 결과...",
+    "published_at": "2026-10-18T12:20:00+09:00",
+    "cluster_id": "3ced",
+    "publisher": "idaegu.com",
+    "title_clean": "최저임금 위반 신고 6년 연속 1위…대구 건설현장 사망도 급증",
+    "summary": "대구 지역에서 최저임금 위반 신고가 6년 연속 1위를 기록하고 건설현장 사망사고가 급증하면서 노동환경 개선의 필요성이 제기되고 있다. 청년 근로자의 임금 피해와 산업안전 문제가 지역 건설업 전반의 구조적 과제로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T12:27:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32256,22 +32272,6 @@
     "publisher": "일간투데이",
     "title_clean": "이현빈 남동발전 사장, 취임 후 첫 현장 경영…\"안전 최우선\"",
     "summary": "이현빈 한국남동발전 사장이 취임 후 첫 현장 경영으로 삼천포·고성발전본부를 방문해 안전관리 체계를 점검했다. 안전을 최우선으로 하는 경영 문화 강화에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-13T09:50:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "최정은 서울시의원, EBS ‘해통소통 탐험대’ 출연…도시안전건설위 소개 - 주간한국",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hUHFNRnEycXpuc3lpTk84d2UwakRvaVRvRFdfOU5ZdWlZQWhUVTk0NlRuTEQxdnoyR0hJTjB0Z1BXNlFxdVo3N3lNRFJWajZkUTVzcC1zV18xa3V2dm9iNjhkb1NuaUNtT1BCYlRMYWTSAXRBVV95cUxNTkRjMTFVWE1sZU5kbkQ3MThfanZZbEhiQTV1UXVnT1Q1Q0RSVUl2TlJhUjV2ZTBzeDBqX3IwNVQ5eEdWZjVON2l1N0FjMjNROHVsZTBFZWxpV3NfY0QxLVJKajZOZXcyaW53Qk84RFB6UkVUWg?oc=5",
-    "description": "[주간한국 김동용 기자] 최정은 서울시의원(비례대표)은 지난 8일 서대문구 홍제초등학교에서 열린 ‘EBS 찾아가는 서울시의회 퀴즈쇼 해통소통 탐험대 시즌2’ 녹화에 특별 대원으로 나섰다. 홍제초 학생들과 퀴즈를 풀며 도시안전건설위원회(도안위)의 역할을 소개했다.‘해통소통 탐험대’는 서울시의회와 EBS가 공동 기획한 어린이 대상 의정 교육 방송이다. 시의원이 직접 출연해 어린이 눈높이에 맞춘 소통으로 상임위의 기능을 알리는 체험형 프로그램이다.이날 학생들은 ‘조례안이 만들어지는 과정’과 ‘가결·부결’과 같은 의회 용어 퀴즈를 풀며 기",
-    "published_at": "2026-10-13T09:33:28+09:00",
-    "cluster_id": "9d96",
-    "publisher": "주간한국",
-    "title_clean": "최정은 서울시의원, EBS ‘해통소통 탐험대’ 출연…도시안전건설위 소개",
-    "summary": "최정은 서울시의원이 EBS '해통소통 탐험대' 시즌2에 출연하여 도시안전건설위원회의 역할을 어린이들에게 소개했다. 서울시의회와 EBS가 공동 기획한 의정 교육 방송으로, 시의원이 직접 참여해 의회 기능을 체험형으로 알리는 프로그램이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-13T09:50:25+09:00",
     "importance": 2
