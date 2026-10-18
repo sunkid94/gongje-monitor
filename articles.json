@@ -20488,6 +20488,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설근로자공제회, 중소 건설현장 휴게시설 개선 지원 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=342435",
+    "description": "이번 사업은 대형 현장에 비해 휴게 편의시설이 부족한 중·소규모 건설현장의 근로환경을 개선하고 건설노동자의 휴식 여건을 보장하기 위해 마련됐다. 지원 대상은 총공사금액 100억 원 미만이면서 2027년 4월 1일...",
+    "published_at": "2026-10-19T08:44:00+09:00",
+    "cluster_id": "2035",
+    "publisher": "국토일보",
+    "title_clean": "건설근로자공제회, 중소 건설현장 휴게시설 개선 지원",
+    "summary": "건설근로자공제회가 100억 원 미만의 중소규모 건설현장을 대상으로 휴게시설 개선을 지원하는 사업을 시행한다. 이는 대형 현장 대비 편의시설이 부족한 중소 현장의 근로환경 개선과 건설노동자의 휴식 여건 보장을 목표로 한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-19T08:48:45+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "씨이랩, '2026 한국건설·안전박람회'서 스마트 건설안전 기술력 입증 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWeUlwM3dfSS1RZ3dDT0FjMTZRTHJrWmRuTXYxVzRVSWNSa21ZNEJkb3FYSWppcURPRmtPWmFZNTBJclM0REJ3UUhEQ29kcjhlMGFIZXduWWUwc3k1dUkyc0lB?oc=5",
+    "description": "피지컬 인공지능(AI) 전문기업 씨이랩이 스마트 건설 안전 기술력을 입증했다. 씨이랩은 지난 14일부터 16일까지 일산 킨텍스(KINTEX)에서 열린",
+    "published_at": "2026-10-19T08:41:17+00:00",
+    "cluster_id": "1f44",
+    "publisher": "아시아경제",
+    "title_clean": "씨이랩, '2026 한국건설·안전박람회'서 스마트 건설안전 기술력 입증",
+    "summary": "피지컬 AI 전문기업 씨이랩이 2026 한국건설·안전박람회에서 스마트 건설안전 기술을 선보이며 기술력을 입증했다. 이는 건설산업의 안전 관리 고도화와 기술 혁신을 추진하는 긍정적 신호로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T08:48:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32230,37 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-13T16:10:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "인천대학교, 삼성전자와 협력한 열스트레스 예측기술 앞세워 산업안전 AI 연구 확대 - 경인매일",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCazVLSExYcFE2ZjZIUUctNEg5SzJVak93cXA5ZWZGLVNJYkN5ZlZBa1UweW9lQkxOZ2o5X3VyVVdqN250MlB6QkszY2RmT1ZTRnJBWV9MY0NwYTJ3aGRWMzVrMHpsMlp3?oc=5",
-    "description": "건설현장 근로자의 건강상태와 작업환경을 인공지능으로 분석해 온열질환 위험을 사전에 예측하고 산업재해 예방에 활용하는 연구가 확대된다. 인천대학교가 삼성전자와의 산",
-    "published_at": "2026-10-13T15:34:56+09:00",
-    "cluster_id": "6369",
-    "publisher": "경인매일",
-    "title_clean": "인천대학교, 삼성전자와 협력한 열스트레스 예측기술 앞세워 산업안전 AI 연구 확대",
-    "summary": "인천대학교와 삼성전자가 협력하여 AI 기반 열스트레스 예측기술을 개발, 건설현장 근로자의 온열질환 위험을 사전 예측하고 산업재해 예방에 활용하는 연구를 확대한다. 이는 건설업계의 안전관리 고도화와 근로자 보호 체계 개선으로 이어질 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T16:10:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "DL이앤씨 현장서 또 노동자 사망 플랜트건설노조 “원청교섭 이행하라” - vop.co.kr",
-    "link": "https://vop.co.kr/A00001697126.html",
-    "description": "전국플랜트건설노동조합이 최근 DL이앤씨 시공 현장에서 발생한 노동자 사망사고와 관련해 원청의 책임을 촉구하며 원청교섭 이행을 요구했다. 노조는 DL이앤씨가 현장 안전대책을 발표하면서도 산업안전 문제를 의제로...",
-    "published_at": "2026-10-13T15:56:00+09:00",
-    "cluster_id": "b5bd",
-    "publisher": "vop.co.kr",
-    "title_clean": "DL이앤씨 현장서 또 노동자 사망 플랜트건설노조 “원청교섭 이행하라”",
-    "summary": "DL이앤씨 현장에서 노동자 사망사고가 발생했으며, 전국플랜트건설노동조합이 원청의 안전책임 이행과 교섭을 요구하고 있다. 건설현장의 산업안전 문제가 지속적으로 대두되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-13T16:00:03+09:00",
-    "importance": 4
   }
 ]
