@@ -4879,40 +4879,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "제33회 대한민국 가스안전대상 가스공사업협의회 회원사 4인 수상 영예 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSYWlrTlpNZ3dUMGU1ajNqQW9TQ0hqMXMxeXdUMFBjOGpxVjdpZkppMHVldUdZT0RpclpITmhBZ1FrSTNNYnhjX1F2SVczVzhvZlZLNVkyNkhxcFFXMlZoanhIMUo4TmJKbFg3NQ?oc=5",
-    "description": "대한기계설비건설협회 가스공사업협의회(회장 김영태)는 지난 15일 서울 강남구 한국과학기술회관에서 개최된 ‘제33회 대한민국 가스안전대상’ 시상식에서 협의회 추천",
-    "published_at": "2026-09-18T09:28:19+09:00",
-    "cluster_id": "88d4",
-    "publisher": "기계설비신문",
-    "title_clean": "제33회 대한민국 가스안전대상 가스공사업협의회 회원사 4인 수상 영예",
-    "summary": "대한기계설비건설협회 가스공사업협의회 소속 회원사 4인이 제33회 대한민국 가스안전대상을 수상했다. 이는 협의회 추천을 통해 달성한 업계 내 안전관리 우수사례 인정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T09:40:10+09:00",
-    "event_label": "대한기계설비건설협회 회원사 4인 대한민국 가스안전대상 수상",
-    "importance": 5
-  },
-  {
-    "keyword": "기계설비건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비건설공제조합, GICC 2026서 해외건설 보증 지원 강화 - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=340934",
-    "description": "기계설비건설공제조합 관계자들이 지난 15일부터 3일간 열린 'GICC(Global Infrastructure Cooperation Conference) 2026'에 참가해 기념촬영을 하고 있다.(사진제공 : 기계설비건설공제조합) 기계설비건설공제조합이 국내...",
-    "published_at": "2026-09-18T09:22:00+09:00",
-    "cluster_id": "f3f3",
-    "publisher": "국토일보",
-    "title_clean": "기계설비건설공제조합, GICC 2026서 해외건설 보증 지원 강화",
-    "summary": "기계설비건설공제조합이 GICC 2026에 참가하여 해외건설 보증 지원을 강화하기로 했다. 국내 기계설비건설업체의 해외 진출을 적극 지원할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T09:30:34+09:00",
-    "event_label": "기계설비건설공제조합 GICC 2026 참가 및 해외건설 보증 지원 강화",
-    "importance": 6
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20910,6 +20876,22 @@
     "summary": "대우건설이 건축·토목·플랜트 3대 사업본부장을 성과 중심으로 전면 교체하며 조직 쇄신을 단행했다. 연공서열을 배제하고 역량 위주의 인사로 조직 역동성을 강화하고 전략 수주 추진을 가속화할 방침이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-08T13:44:03+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "파주 GTX 운정중앙역 상부에 2만8000㎡ 문화공원 조성 - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072814",
+    "description": "시는 최근 건설경기 침체로 역세권 민간개발 사업이 지연되는 상황에서 문화공원 조성이 주변 지역 활성화에 기여할 것으로 기대하고 있다. 손배찬 파주시장은 \"'지티엑스(GTX) 문화공원'은 시민들이 문화를 누리고...",
+    "published_at": "2026-10-18T09:42:00+09:00",
+    "cluster_id": "8772",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "파주 GTX 운정중앙역 상부에 2만8000㎡ 문화공원 조성",
+    "summary": "파주시가 GTX 운정중앙역 상부에 2만8000㎡ 규모의 문화공원을 조성한다. 건설경기 침체로 민간개발이 지연되는 상황에서 공공 문화시설 조성으로 역세권 지역 활성화를 도모하는 프로젝트다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T09:47:56+09:00",
     "importance": 2
   },
   {
