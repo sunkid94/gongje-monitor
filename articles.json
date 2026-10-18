@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "냉난방기 지원과 함께 건설 현장 휴게시설 대폭 개선 추진 - gokorea.kr",
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=881862",
+    "description": "예산은 다음 달부터 2억 원이 소진될 때까지 지원된다. 장건 이사장은 이번 지원을 통해 열악한 작업 환경에서 일하는 중소규모 현장의 건설노동자들에게 보다 안전한 휴식 공간이 마련될 것으로 보인다고 밝혔다.",
+    "published_at": "2026-10-19T08:24:00+09:00",
+    "cluster_id": "62ed",
+    "publisher": "gokorea.kr",
+    "title_clean": "냉난방기 지원과 함께 건설 현장 휴게시설 대폭 개선 추진",
+    "summary": "기계설비건설공제조합이 중소 건설현장의 노동자를 위해 냉난방기 등 휴게시설 개선에 2억 원의 예산을 지원한다. 열악한 작업 환경 개선을 통해 건설노동자의 안전과 복지 향상을 도모하는 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T08:28:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32245,22 +32261,6 @@
     "summary": "대한전문건설협회 충북도회가 건설경기 침체 속에서 전문건설인들을 격려하고 회원사 간 소통과 화합을 도모하기 위해 청남대에서 700여 명이 참석한 가족 행사를 개최했다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-13T15:39:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[의정외전] 황문익 봉화군의회 부의장 '책상 아닌 흙먼지 이는 현장에 ... - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026101315075963569",
-    "description": "또한 \"정주인구 중심 정책만으로는 지방소멸을 막기 어렵다\"며 \"농촌체류형 복합단지와 '아름다운 들가꾸기 사업'을 연계해 마을 경관 개선과 지역 건설경기 부양을 동시에 꾀하며 '생활인구 300만 시대'를 열겠다\"고...",
-    "published_at": "2026-10-13T15:24:00+09:00",
-    "cluster_id": "ac1f",
-    "publisher": "imaeil.com",
-    "title_clean": "[의정외전] 황문익 봉화군의회 부의장 '책상 아닌 흙먼지 이는 현장에 ...",
-    "summary": "황문익 봉화군의회 부의장이 정주인구 중심 정책의 한계를 지적하며 농촌체류형 복합단지와 마을 경관 개선사업을 연계한 지역 활성화 방안을 제시했다. 이를 통해 지역 건설경기 부양과 지방소멸 방지를 동시에 추진하겠다고 밝혔다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T15:30:17+09:00",
     "importance": 2
   }
 ]
