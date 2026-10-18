@@ -4675,6 +4675,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 선박 수익성 높이고 FLNG·FDC 사업 기반 확대 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20261018500219",
+    "description": "삼성중공업이 고선가 선박의 매출 반영 확대에 힘입어 3분기에도 수익성 개선세를 이어갈 전망이다. 주력 선박 사업에서는 선별 수주와 생산 효율화로 원가 경쟁력을 높이는 한편, 강점을 가진 해양플랜트...",
+    "published_at": "2026-10-18T14:38:00+09:00",
+    "cluster_id": "ced8",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "삼성중공업, 선박 수익성 높이고 FLNG·FDC 사업 기반 확대",
+    "summary": "삼성중공업이 고선가 선박의 매출 반영 확대와 선별 수주, 생산 효율화를 통해 3분기 수익성 개선을 추진 중이다. 선박 사업의 원가 경쟁력 강화와 함께 FLNG, FDC 등 해양플랜트 사업 기반 확대로 사업 포트폴리오를 다각화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T14:48:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20656,22 +20672,6 @@
     "summary": "포스코이앤씨가 시공하는 오산역아크시티에서 공공지원민간임banquet 아파트 897세대 임대 완료 후 전용면적 84㎡ 오피스텔 90실을 공급할 예정이다. 매물 부족 시장에서 새로운 공급물량이 주목받고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T14:43:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "GS건설 합작사, 첫 발전용 그린암모니아 공급계약 [건설·분양오늘] - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204995",
-    "description": "대우건설, 푸르지오 팝업가든 선봬 대우건설은 입주민의 일상 속 힐링과 주거 만족도 향상을 위해 단지 내 조경 공간에 이색 포토스팟과 체험 프로그램을 더한 '푸르지오 팝업가든'을 선보인다고 8일 밝혔다. 푸르지오...",
-    "published_at": "2026-10-08T14:24:00+09:00",
-    "cluster_id": "9975",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "GS건설 합작사, 첫 발전용 그린암모니아 공급계약 [건설·분양오늘]",
-    "summary": "GS건설 합작사가 발전용 그린암모니아 공급계약을 체결하며 신재생에너지 사업 진출을 선언했다. 대우건설은 푸르지오 팝업가든 프로그램으로 주거 만족도 향상을 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T14:33:46+09:00",
     "importance": 2
   },
   {
