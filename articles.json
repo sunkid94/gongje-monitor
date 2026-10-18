@@ -20709,6 +20709,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "복기왕 의원, 주택도시보증공사 PF 수도권 편중 지적 - newstnt.com",
+    "link": "https://www.newstnt.com/news/articleView.html?idxno=723504",
+    "description": "국회 국토교통위원회 더불어민주당 간사를 맡고 있는 복기왕 의원은 지방 건설사 폐업 증가에 이어 지방 건설경기 위축을 우려했는데, \"올해 9월 기준 지방 건설사 폐업 신고가 2,015건에 달하는 상황에 공적 PF...",
+    "published_at": "2026-10-18T12:30:00+09:00",
+    "cluster_id": "d863",
+    "publisher": "newstnt.com",
+    "title_clean": "복기왕 의원, 주택도시보증공사 PF 수도권 편중 지적",
+    "summary": "복기왕 의원이 주택도시보증공사의 PF(프로젝트파이낸싱)가 수도권에 편중되어 있다고 지적했습니다. 지방 건설사 폐업이 9월 기준 2,015건에 달하면서 지방 건설경기 위축을 우려하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T12:37:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32259,21 +32275,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-13T09:50:25+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이현빈 남동발전 사장, 취임 후 첫 현장 경영…\"안전 최우선\" - 일간투데이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CQkJyLWhUM1g1ck1YaTYxbC0tNVZ6dGE0dWppcW0xTWxFYnhyNzFUcTZiTFNLT0tLMGlqOWthbGhiZFlFN2ZzY1ZJSlgwczNKQVN6dDJ0X2xCMlZxZ3FVWTUyeWZuS29HY1VB?oc=5",
-    "description": "[일간투데이 박선영 기자] 한국남동발전은 이현빈 사장이 지난 12일 삼천포발전본부와 고성발전본부를 잇달아 방문해 현장 안전경영 활동을 펼쳤다고 13일 밝혔다.이번 현장 방문은 취임 후 첫 일정으로, 사업소의 안전관리 체계를 직접 점검하고 안전을 최우선으로 하는 문화를",
-    "published_at": "2026-10-13T09:38:53+09:00",
-    "cluster_id": "0bad",
-    "publisher": "일간투데이",
-    "title_clean": "이현빈 남동발전 사장, 취임 후 첫 현장 경영…\"안전 최우선\"",
-    "summary": "이현빈 한국남동발전 사장이 취임 후 첫 현장 경영으로 삼천포·고성발전본부를 방문해 안전관리 체계를 점검했다. 안전을 최우선으로 하는 경영 문화 강화에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-13T09:50:25+09:00",
-    "importance": 2
   }
 ]
