@@ -20709,6 +20709,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "주택 공급정책 20년 백서 발간...민주당 의원 일독하길\" - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0115_202610181202511868",
+    "description": "오 시장은 박원순 서울시장 때는 금융위기 여파에서 벗어나 건설경기가 회복되던 시기였다고 주장했습니다. 하지만 박원순 시장은 공급의 황금기를 눈앞에 두고 정반대로 갔다며, 이미 추진위원회가 구성되고...",
+    "published_at": "2026-10-18T12:02:00+09:00",
+    "cluster_id": "97fb",
+    "publisher": "ytn.co.kr",
+    "title_clean": "주택 공급정책 20년 백서 발간...민주당 의원 일독하길\"",
+    "summary": "오 시장이 박원순 전 시장의 주택 공급정책을 비판하며 20년 백서를 발간했습니다. 박원순 시장 재임 당시 건설경기 회복기에 공급 정책을 제한했다는 주장입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T12:07:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32259,21 +32275,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-13T09:50:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "롯데건설, 반년 만에 또 희망퇴직 단행…7년차 대리급도 포함 - srtimes.kr",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=214570",
-    "description": "롯데건설이 희망퇴직 카드를 꺼내 든 것은 건설경기 침체와 무관치 않다. 지난 4월 희망퇴직을 시행한 지 불과 반년 만에 추가 신청을 받으면서 건설업황 부진 타개를 위한 조직 슬림화와 인력 효율화 작업이 한층...",
-    "published_at": "2026-10-13T09:34:00+09:00",
-    "cluster_id": "e288",
-    "publisher": "srtimes.kr",
-    "title_clean": "롯데건설, 반년 만에 또 희망퇴직 단행…7년차 대리급도 포함",
-    "summary": "롯데건설이 4월에 이어 반년 만에 추가 희망퇴직을 단행하고 있으며, 7년차 대리급도 포함되고 있다. 건설경기 침체로 인한 조직 슬림화와 인력 효율화 작업이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-13T09:40:02+09:00",
-    "importance": 4
   }
 ]
