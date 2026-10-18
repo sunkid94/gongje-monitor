@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[단독-중대재해 리포트 ⑦] ‘두 번 기소’ KCC건설 ‘무죄’ 직후 또 사망사고 났다 - 매일노동뉴스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TZzZLT2lRaUVldzF4Qy1Pb2pkRHJJR1RGNkRrU2FzRjVublJNX1JpaGFweGZXc2JTV2twdGpsdEdTQ2FYenpIMmxISWZsUndOQkhuWnNXdGMwT1F1ZlkyU0c4TnlPR3NoOW9DY2RRYU8?oc=5",
+    "description": "중대재해 처벌 등에 관한 법률(중대재해처벌법)이 시행된 지 4년8개월이 지났다. 78년 만의 형사사법체계 대전환으로 중대재해 수사도 변곡점을 맞았다. 지난 2일 검찰청이 폐지되면서 고용노동부가 수사한 사건의 기소 여부는 이제 공소청이 가린다. 법원에서는 대법원 양형위원회가 지난달 중대재해처벌법 첫 양형기준안을 내놓았다. 가 국회 법제사법위원회 손솔 진보당 의원이 법무부에서 받은 235건의 공소장과 직접 입수한 1심 판결 167건을 분석했다. 공소장과 판결문 전수 분석 결과를 공개하고 중대재해 처벌의 현주소를 진단한다.",
+    "published_at": "2026-10-19T06:30:03+09:00",
+    "cluster_id": "6288",
+    "publisher": "매일노동뉴스",
+    "title_clean": "[단독-중대재해 리포트 ⑦] ‘두 번 기소’ KCC건설 ‘무죄’ 직후 또 사망사고 났다",
+    "summary": "중대재해처벌법 시행 4년8개월 후 검찰청 폐지로 수사 체계가 변화하고 있으며, KCC건설이 무죄 판결 후 또 다시 사망사고를 낸 사례를 포함해 235건의 공소장과 167건의 판결문을 분석한 중대재해 처벌 현황 보도다. 건설업계의 안전 관리 부실과 반복되는 사고가 부각되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T06:38:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-13T15:10:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'관대한' LH, 하자 접수 6213건에도 벌점은 '0점' - newscape.co.kr",
-    "link": "http://www.newscape.co.kr/news/articleView.html?idxno=125048",
-    "description": "건설산업기본법 제48조에 따르면 건설사업자 간 상호협력평가에서 95점 이상을 받은 업체는 조달청 입찰참가자격사전심사기준 등에 따라 공공공사 입찰심사에서 최대 3점의 가점을 받을 수 있다. 문 의원은 \"정부가...",
-    "published_at": "2026-10-13T14:56:00+09:00",
-    "cluster_id": "2028",
-    "publisher": "newscape.co.kr",
-    "title_clean": "'관대한' LH, 하자 접수 6213건에도 벌점은 '0점'",
-    "summary": "LH가 6213건의 하자 접수에도 불구하고 벌점을 부과하지 않아 건설사업자 상호협력평가 제도가 형식화되었다는 지적이 제기되었다. 이는 공공공사 입찰심사에서 가점을 받는 기준이 실질적으로 작동하지 않고 있음을 의미한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-13T15:05:17+09:00",
-    "importance": 4
   }
 ]
