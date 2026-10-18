@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[단독] 41억 철도 공사의 비밀… 탈락한 사장님의 ‘위장취업’ - h21.hani.co.kr",
+    "link": "https://h21.hani.co.kr/arti/society/society_general/60057.html",
+    "description": "건설산업기본법(건산법)은 건설사업자가 시공관리와 기술상 관리를 위해 공사 현장에 건설기술인을... 방식은 법 위반이 될 수 있다. 건산법은 도급을 받은 회사가 직접 시공할 의무가 있다고 규정한다. 일괄 하도급...",
+    "published_at": "2026-10-19T08:20:00+09:00",
+    "cluster_id": "4d81",
+    "publisher": "h21.hani.co.kr",
+    "title_clean": "[단독] 41억 철도 공사의 비밀… 탈락한 사장님의 ‘위장취업’",
+    "summary": "41억 규모 철도 공사에서 낙찰자가 탈락한 사장을 위장취업시켜 건설기술인 배치 요건을 우회한 불법 행위가 적발됐다. 건설산업기본법 위반으로 도급받은 회사가 직접 시공할 의무를 회피한 사건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T08:23:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32244,22 +32260,6 @@
     "title_clean": "[의정외전] 황문익 봉화군의회 부의장 '책상 아닌 흙먼지 이는 현장에 ...",
     "summary": "황문익 봉화군의회 부의장이 정주인구 중심 정책의 한계를 지적하며 농촌체류형 복합단지와 마을 경관 개선사업을 연계한 지역 활성화 방안을 제시했다. 이를 통해 지역 건설경기 부양과 지방소멸 방지를 동시에 추진하겠다고 밝혔다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-13T15:30:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "창립 60주년 앞둔 금호건설, 협력사 선정 기준 강화 - 스마트비즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VzZXMHNTWVhxRHN4ZVFEWjdpRktOSjNQSHd3WXZvdWdfQmZYWDc3dk5JbmpDTGxmMUw2MmZoUzBLUkZaakxvc29rdFJtZEk3QzZ1RjJpM2VudWVWUHlfVE1FMndtWUNPbFVpaw?oc=5",
-    "description": "| 스마트비즈 = 최형호 기자 | 금호건설이 2027년도 외주·자재 협력회사 모집에 나섰다. 재무건전성과 시공 관련 자격을 확인하는 기존 등록 기준에 더해 올해부",
-    "published_at": "2026-10-13T15:18:54+09:00",
-    "cluster_id": "bf29",
-    "publisher": "스마트비즈",
-    "title_clean": "창립 60주년 앞둔 금호건설, 협력사 선정 기준 강화",
-    "summary": "금호건설이 2027년 외주·자재 협력회사 모집을 시작하며 기존 재무건전성, 시공 자격 기준에 더해 협력사 선정 기준을 강화했다. 이는 시공 품질 향상과 협력사 경영 안정성 강화를 통해 업계 신뢰도를 높이려는 움직임이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-13T15:30:17+09:00",
     "importance": 2
   }
