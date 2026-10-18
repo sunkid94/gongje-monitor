@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "수주 쌓였지만 차입금도 늘었다…송용진이 짊어진 두산의 숙제 - peoplewatch.co.kr",
+    "link": "https://www.peoplewatch.co.kr/article/view/ppw202610190001",
+    "description": "두산에너빌리티가 쌓아놓은 일감은 26조원을 넘어섰다. 원전과 가스터빈 수주가 빠르게 늘면서 성장 기반을 확보했지만, 생산과 납품에 필요한 자금 부담도 커지고 있다. 두산그룹이 재무 전문가들을 부회장으로...",
+    "published_at": "2026-10-19T07:58:00+09:00",
+    "cluster_id": "e7f1",
+    "publisher": "peoplewatch.co.kr",
+    "title_clean": "수주 쌓였지만 차입금도 늘었다…송용진이 짊어진 두산의 숙제",
+    "summary": "두산에너빌리티의 수주액이 26조원을 넘어 성장 기반을 확보했으나, 생산·납품 자금 부담이 동시에 증가하고 있다. 원전과 가스터빈 사업 확대로 매출 성장이 예상되지만 차입금 증가라는 재무 리스크를 안게 된 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-19T08:03:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-08T16:47:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[2026 건설국감]①대우건설 “법 개정 기다리다 공사 늦을라”…가덕도신공항 해법 고심 - 오피니언뉴스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80T0hoMG9wcE9nejJWYVJWUENfVTJLTjctRTBLTTIyTDRsYlFIMkxWYkdaX3NidWE5RTlJcks3eGM4X3lnUFF1RHE5T1BHY3ZYLXF0ZnI2THZZdGpKeC1pM1lSdHBLOGs5dE1leTE2MTg?oc=5",
-    "description": "[오피니언뉴스=김기범 기자] 가덕도신공항 부지 조성 공사비 6200억원 증액을 둘러싸고 정부와 대우건설 컨소시엄의 이견이 이어지면서 우선시공분 계약을 앞두고 공사비 현실화를 담보할 안전장치 마련이 핵심 쟁점으로 떠올랐다7일 국회 국토교통위원회 국정감사에서는 가덕도신공항 부지 조성 공사의 공사비 증액 문제가 쟁점으로 다뤄졌다.정동만 국민의힘 의원은 증인으로 출석한 심철진 대우건설 토목사업본부장에게 최근 건설원가 상승을 감안할 때 기존 공사비로 사업 수행이 가능한지를 물었다.심 본부장은 \"가덕도신공항은 해상 일대를 매립해 시공해야 하는",
-    "published_at": "2026-10-08T01:19:05+09:00",
-    "cluster_id": "c689",
-    "publisher": "오피니언뉴스",
-    "title_clean": "[2026 건설국감]①대우건설 “법 개정 기다리다 공사 늦을라”…가덕도신공항 해법 고심",
-    "summary": "가덕도신공항 부지 조성 공사비 6200억원 증액을 둘러싸고 정부와 대우건설 컨소시엄 간 이견이 지속되고 있다. 건설원가 상승을 반영한 공사비 현실화와 우선시공분 계약 체결이 핵심 쟁점으로 떠오르면서 법 개정 대기 중 공사 지연 우려가 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-08T16:47:01+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
