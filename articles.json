@@ -20471,6 +20471,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "배우 원종철, 그는 왜 ‘여주인공 페스티벌’을 여는가 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000023668&cp=nv",
+    "description": "이 같은 진정성이 입증되자 초기에 비판적이던 분들도 마음을 열고 응원해 주셨습니다.” 건설 노동과 레커차 기사로 축제 비용 마련하기도 사비를 털고 빚을 져가며 무대를 지켜온 그의 뚝심 뒤편에는 연기를 향한...",
+    "published_at": "2026-10-19T05:32:00+09:00",
+    "cluster_id": "9e9b",
+    "publisher": "kmib.co.kr",
+    "title_clean": "배우 원종철, 그는 왜 ‘여주인공 페스티벌’을 여는가",
+    "summary": "배우 원종철이 여주인공 페스티벌을 개최하며 진정성을 입증하고 있다. 건설 노동과 레커차 기사로 축제 비용을 마련하며 연기에 대한 열정을 보여주고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-19T05:38:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32245,21 +32261,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-13T13:00:20+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설기술인協, 충청남도와 공동 세미나 개최 - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1veENORnVpbTh0RTJ4OGh6MXkwbnlqQlNRX0VCQ1dfUjVNS1dzOEJHV1hJdXk0QzNIdVkwSTJJcEx1TE9wMXZNbDFiaF9aVDktaU9EUVczdWxqX0E3SmhTc1BfMlFpa09NY1I4?oc=5",
-    "description": "한국건설기술인협회(협회장 박종면)이 지난 12일 충청남도에서 건설기술인의 디지털 역량과 안전관리 전문성 강화를 위한",
-    "published_at": "2026-10-13T10:25:16+09:00",
-    "cluster_id": "6cb6",
-    "publisher": "한국건설신문",
-    "title_clean": "건설기술인協, 충청남도와 공동 세미나 개최",
-    "summary": "한국건설기술인협회가 충청남도와 공동으로 건설기술인의 디지털 역량과 안전관리 전문성 강화를 위한 세미나를 개최했다. 업계 인력의 역량 강화 및 안전 의식 제고를 통한 산업 발전을 도모하는 행사이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-13T13:00:20+09:00",
-    "importance": 2
   }
 ]
