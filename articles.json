@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "반도체 산업 거점 인근 주택시장 관심…아산·평택·동탄 분양 이어져 - smarttoday.co.kr",
+    "link": "https://www.smarttoday.co.kr/ko-kr/articles/112839",
+    "description": "경기 화성시 동탄1신도시에서는 포스코이앤씨가 시공하는 ‘아크메르 동탄’이 이달 분양에 나설 예정이다. 반송동 95·99번지 등 2개 블록에 전용 84~188㎡ 1808가구 규모로 조성된다. 분양 측은 삼성전자 화성캠퍼스로...",
+    "published_at": "2026-10-19T08:48:00+09:00",
+    "cluster_id": "6c6b",
+    "publisher": "smarttoday.co.kr",
+    "title_clean": "반도체 산업 거점 인근 주택시장 관심…아산·평택·동탄 분양 이어져",
+    "summary": "반도체 산업 거점 인근의 아산, 평택, 동탄 지역에서 대규모 분양이 이어지고 있으며, 동탄1신도시의 포스코이앤씨 '아크메르 동탄'이 이달 분양을 앞두고 있다. 삼성전자 화성캠퍼스 등 반도체 산업 입지와 함께 주택수요가 증가하면서 건설 프로젝트가 활발해지는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T08:58:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-08T16:47:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 도시정비 조직 확대… 한영호 상무 전면 배치 - MTN 머니투데이방송",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JNUFqeWhqcjVKYjZRaUVNUU51cFg5RS1Ibk5RUDhWTkhWWEZ5djEzWlhHN1VJQkxEeHdJUi1VQ2w1dE00VEg3WXhIdi10Ymo0MDBVVG1sMkppV3lLMTJTT0cwZk0?oc=5",
-    "description": "대우건설이 이강석 대표 체제 출범 이후 첫 조직개편을 통해 도시정비사업 조직을 대폭 확대했다. 기존 1개 팀을 3개 팀으로 늘리고 담당 임원을 새롭게 배치한 것. 도시정비사업을 핵심 전략사업으로 키우고 신규 수주 확대와 기존 사업장 리스크 관리에 힘을 싣겠다는 구상이다…",
-    "published_at": "2026-10-08T15:03:15+09:00",
-    "cluster_id": "cb63",
-    "publisher": "MTN 머니투데이방송",
-    "title_clean": "대우건설, 도시정비 조직 확대… 한영호 상무 전면 배치",
-    "summary": "대우건설이 이강석 대표 체제 출범 후 첫 조직개편을 통해 도시정비사업 조직을 1개 팀에서 3개 팀으로 확대하고 임원을 새롭게 배치했다. 도시정비사업을 핵심 전략사업으로 육성하여 신규 수주 확대와 리스크 관리에 집중하겠다는 전략이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T16:47:01+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
