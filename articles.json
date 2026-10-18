@@ -4471,6 +4471,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "위험은 로봇, 판단은 사람… 산업현장 '상생 분업' - sidae.com",
+    "link": "https://www.sidae.com/article/2026101811173710322",
+    "description": "삼성중공업도 거제조선소의 선박 블록 중조립 공정에 협동로봇을 투입하고 배관 가공·용접 등을 자동화한 생산시설을 운영하고 있다. 철강업계도 제철소 내 위험 공정에 로봇을 투입하고 있다. 포스코는...",
+    "published_at": "2026-10-19T05:45:00+09:00",
+    "cluster_id": "de70",
+    "publisher": "sidae.com",
+    "title_clean": "위험은 로봇, 판단은 사람… 산업현장 '상생 분업'",
+    "summary": "삼성중공업, 포스코 등 주요 산업체들이 위험한 공정에 협동로봇을 도입하여 자동화를 추진하고 있다. 로봇이 위험 작업을 담당하고 판단은 인간이 하는 '상생 분업' 모델로 산업현장을 혁신하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T05:48:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20450,22 +20466,6 @@
     "publisher": "핀포인트뉴스",
     "title_clean": "롯데건설, 스마트홈에 ‘AI 음성’ 입힌다",
     "summary": "롯데건설이 스마트폰 앱에 AI 음성인식 기능을 탑재하여 별도 스피커 없이 조명, 냉난방 등을 제어할 수 있는 서비스를 시작한다. 향후 주차, 커뮤니티시설 예약 등으로 서비스 범위를 확대할 계획으로, 신규 아파트부터 순차 적용될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T16:47:01+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코이앤씨, ‘재도약’ 승부수…적자 털고 수주 시동 - 환경경찰뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERGpMWHN2MWZaUVN6VmxEbmJzenNCbHYwWVByaXN1LU02d3BCOVA1MzktbngxZktpSjBWTExNeHozdlpWdUVLNFlkNzJDN3NHMWNzaFVFc1lza3U5WUpvMHZULXAyb045?oc=5",
-    "description": "포스코이앤씨가 지난해 대규모 적자에서 벗어나 올해 상반기 흑자 기조를 회복하고 대형 주택·리모델링 수주에도 속도를 내고 있다.8일 금융투자업계 등에 따르면 포스코이앤씨는 건축사업 원가율 개선을 바탕으로 상반기 영업이익이 흑자로 돌아선 데 이어 수도권 대형 개발사업과 리모델링 사업에서",
-    "published_at": "2026-10-08T13:02:37+09:00",
-    "cluster_id": "3d5c",
-    "publisher": "환경경찰뉴스",
-    "title_clean": "포스코이앤씨, ‘재도약’ 승부수…적자 털고 수주 시동",
-    "summary": "포스코이앤씨가 지난해 적자에서 벗어나 올해 상반기 흑자를 회복했으며, 건축사업 원가율 개선을 통해 수익성을 개선하고 있다. 수도권 대형 개발사업과 리모델링 사업 수주에 속도를 내며 사업 실적 회복을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T16:47:01+09:00",
     "importance": 2
