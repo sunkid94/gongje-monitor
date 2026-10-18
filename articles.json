@@ -4522,6 +4522,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[세상읽기] 가덕신공항 공사비와 항만공사 통합 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261019.22022005024",
+    "description": "대우건설 컨소시엄은 지난 3월 기본설계에 착수해 9월 설계도서를 제출했다. 정부는 11월 우선시공분 착공, 내년 상반기 본공사 착공을 목표로 하고 있다. 그러나 설계가 진행되는 사이 중동전쟁 등 국제정세의 급변으로...",
+    "published_at": "2026-10-18T19:26:00+09:00",
+    "cluster_id": "8320",
+    "publisher": "kookje.co.kr",
+    "title_clean": "[세상읽기] 가덕신공항 공사비와 항만공사 통합",
+    "summary": "대우건설 컨소시엄이 가덕신공항 기본설계를 완료하고 정부는 올해 11월 우선시공분 착공을 추진 중입니다. 다만 중동전쟁 등 국제정세 변화로 인한 공사비 상승 압력이 예상되고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T19:28:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -20501,22 +20517,6 @@
     "publisher": "joongangenews.com",
     "title_clean": "수주목표 8부 능선 넘은 HD현대·한화오션·삼성重...4분기 고부가선 막...",
     "summary": "삼성중공업이 LNG운반선 2척을 수주하며 올해 상선 수주액을 80억달러로 늘렸다. HD현대, 한화오션 등 주요 조선사들이 연간 수주목표의 80% 이상을 달성하며 4분기 고부가선 수주에 집중하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-08T15:53:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "에브리봇, 'VL르웨스트'서 서비스로봇 현장 시연 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20261008001107",
-    "description": "[사진=에브리봇] 시연 장소인 VL 르웨스트는 롯데건설이 시공하고 롯데호텔앤리조트가 운영을 지원하는 국내 최대 규모의 시니어 레지던스다. 주거공간뿐만 아니라 레스토랑, 피트니스, 사우나, 라운지 등 다양한 생활...",
-    "published_at": "2026-10-08T15:44:00+09:00",
-    "cluster_id": "dce6",
-    "publisher": "newspim.com",
-    "title_clean": "에브리봇, 'VL르웨스트'서 서비스로봇 현장 시연",
-    "summary": "에브리봇이 롯데건설이 시공한 국내 최대 규모 시니어 레지던스 'VL르웨스트'에서 서비스로봇 현장 시연을 진행했다. 고령화 사회에 대응하는 신규 시장 창출과 건설 후 운영 단계에서의 로봇 활용 사례를 제시한 것으로 보인다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T15:53:59+09:00",
     "importance": 2
