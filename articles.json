@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "공사장 ‘산업·안전 맞춤형 컨설팅’ 추진 - 제주매일",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LLXZONkhfbTFDUl9qSlAwQTBQOGxWdHc0djdYZnBoNGNnNmpZeWJmNy14aG9VTTlwMTNMX25vcFVvVnFIRWpVUGtNMnFsd3AwOURHc0xwMGpObWU0Rjh4LWhTMlotRjJ1TXVvTg?oc=5",
+    "description": "제주시는 건축공사장의 재해예방과 안전관리 역량을 높이기 위해 다음달 중 공동주택 공사장 1개소를 대상으로 찾아가는 ‘산업·안전분야 맞춤형 컨설팅’을 시범 추진한다",
+    "published_at": "2026-10-18T14:58:19+09:00",
+    "cluster_id": "9e4e",
+    "publisher": "제주매일",
+    "title_clean": "공사장 ‘산업·안전 맞춤형 컨설팅’ 추진",
+    "summary": "제주시가 건축공사장의 재해예방과 안전관리 역량 강화를 위해 다음달 공동주택 공사장을 대상으로 맞춤형 컨설팅을 시범 추진한다. 이는 산업안전 분야의 현장 중심 지원 사업이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T15:08:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-13T10:10:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[리포트 브리핑]대우건설, '수주는 역대급, 실적은 정주행' 목표가 24,000원 - 미래에셋증권 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LZVNvN2NfSmJzbGdVU0d2aEh6NWl3RjZUaDYxZlRTM1piVENmTy1VNllsaVVlT09QS2x5eE54RGxsclFMb1R3dERhazZfNDdCODNfWmUwc2F2V1Fl?oc=5",
-    "description": "[서울=뉴스핌] 로보뉴스 = 미래에셋증권에서 13일 대우건설(047040)에 대해",
-    "published_at": "2026-10-13T09:56:00+09:00",
-    "cluster_id": "04be",
-    "publisher": "뉴스핌",
-    "title_clean": "[리포트 브리핑]대우건설, '수주는 역대급, 실적은 정주행' 목표가 24,000원 - 미래에셋증권",
-    "summary": "미래에셋증권이 대우건설에 대해 긍정적 평가를 제시하며 목표가 24,000원을 제시했다. 역대급 수주 수주와 안정적인 실적 달성을 긍정 요인으로 평가하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T10:10:11+09:00",
-    "importance": 2
   }
 ]
