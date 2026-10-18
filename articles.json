@@ -20522,6 +20522,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기의회, 부천 공장 화재 현장 방문 소방대원 안전 확보·재발 방지 대책 강조 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IekxNQnptczJQYkRaaDZKU1BLOEp0aGItTUt2UlJpZzA1LUlxRnJIOFpJR2h4YkdXdXVtWFlLWDViTHdPaFREdUc2TENIZFZXRkl4dTRmSHhiV0NCaTVRX1d1Yk1DNDRUdUoxeU92NA?oc=5",
+    "description": "경기도의회 안전행정위원회(위원장 양경석)는 16일 부천시 오정구 내동 소재 공장 화재 현장을 긴급 방문해 피해 상황과 화재 진압 과정을 점검하고, 부상 소방대원들",
+    "published_at": "2026-10-18T15:08:34+09:00",
+    "cluster_id": "ce14",
+    "publisher": "오토투데이",
+    "title_clean": "경기의회, 부천 공장 화재 현장 방문 소방대원 안전 확보·재발 방지 대책 강조",
+    "summary": "경기도의회 안전행정위원회가 부천시 공장 화재 현장을 방문하여 피해 상황을 점검하고 소방대원 안전 확보 및 재발 방지 대책을 강조했다. 산업시설의 안전관리 강화와 규제 개선이 논의되는 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T21:28:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32247,22 +32263,6 @@
     "summary": "동원그룹이 3년 연속 10월 말 대표 인사를 단행하며, 김성용 신임 대표는 수익성 강화를, 조점근 전 대표는 신사업 발굴을 추진 중이다. 다만 건설경기 침체로 신규 수주 감소와 공사 원가 상승 시 회복한 이익이 다시 감소할 수 있는 리스크가 존재한다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-13T11:55:14+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국엡손, 건설·안전박람회서 현장 안전관리용 라벨 솔루션 선봬 - techm.kr",
-    "link": "https://www.techm.kr/news/articleView.html?idxno=156025",
-    "description": "이번 박람회는 건설현장 안전관리와 재해 예방을 위한 기술·제품·솔루션을 소개하는 전시회다. 한국엡손은 '라벨로 높이는 현장 안전!'을 주제로 부스를 구성하고, 작업환경과 용도에 따라 선택할 수 있는 산업용...",
-    "published_at": "2026-10-13T11:40:00+09:00",
-    "cluster_id": "afbb",
-    "publisher": "techm.kr",
-    "title_clean": "한국엡손, 건설·안전박람회서 현장 안전관리용 라벨 솔루션 선봬",
-    "summary": "한국엡손이 건설·안전박람회에서 현장 안전관리용 라벨 솔루션을 선보였다. 작업환경과 용도에 맞춘 산업용 라벨 제품으로 건설현장의 안전관리와 재해 예방을 지원한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T11:45:06+09:00",
     "importance": 2
   }
 ]
