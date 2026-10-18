@@ -20712,6 +20712,22 @@
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
+    "title": "불법하도급 단속 민간으로 확대…경상권 75곳 점검 - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20261018500139",
+    "description": "국토부는 지난 5월 수도권 건설현장을 점검해 불법하도급 29건과 그 밖의 건설산업기본법 위반 60건을 적발했다. 또 건설기계 대여료가 밀린 11건에 대해 총 1억2580만원을 지급하도록 했다. 현장 근로자의 신고를 돕기...",
+    "published_at": "2026-10-18T13:08:00+09:00",
+    "cluster_id": "0ba8",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "불법하도급 단속 민간으로 확대…경상권 75곳 점검",
+    "summary": "국토부가 건설현장의 불법하도급 단속을 민간으로 확대하여 경상권 75곳을 점검 예정이다. 수도권에서 이미 불법하도급 29건과 건설산업기본법 위반 60건을 적발했으며, 미지급 건설기계 대여료 1억2580만원을 지급하도록 조치했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T13:13:03+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
     "title": "불법하도급·체불 단속, 민간 건설현장까지 확대…경상권 75곳 - tjb.co.kr",
     "link": "https://www.tjb.co.kr/news05/bodo/view/id/104966",
     "description": "불법하도급 29건과 기타 건설산업기본법 위반 60건 등 모두 89건이 적발됐습니다. 건설기계 대여대금 체불 11건, 1억 2,580만 원도 해소됐습니다. 국토교통부는 5개 지방국토관리청의 단속 역량을 경상권에 모아 점검의...",
@@ -32259,21 +32275,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-13T09:50:25+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국엡손, 건설현장 안전정보 '라벨로 한눈에'…산업용 프린터 전시 - news1.kr",
-    "link": "https://www.news1.kr/industry/general-industry/6317839",
-    "description": "한국엡손이 건설현장의 안전정보를 효과적으로 전달할 수 있는 산업용 라벨프린터와 다양한 활용 사례를 선보인다. 작업자가 위험구역과 설비 정보를 쉽게 식별하도록 지원하는 설루션을 공급할 방침이다....",
-    "published_at": "2026-10-13T09:42:00+09:00",
-    "cluster_id": "e606",
-    "publisher": "news1.kr",
-    "title_clean": "한국엡손, 건설현장 안전정보 '라벨로 한눈에'…산업용 프린터 전시",
-    "summary": "한국엡손이 건설현장 안전관리를 위한 산업용 라벨프린터와 활용 사례를 전시하며, 위험구역 및 설비 정보 식별을 용이하게 하는 솔루션을 공급 예정이다. 이는 건설현장의 안전성 강화와 작업 효율성 개선에 기여할 수 있는 신기술 솔루션이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T09:50:25+09:00",
-    "importance": 2
   }
 ]
