@@ -20471,6 +20471,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "광명시, 재개발 공사 현장 감리 실태 점검으로 안전관리 강화 - 뉴스팜",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zUEx0a21rZG5uemhFNnRPMVFFdjlNTDkwYlJoUW5HZTljTU9GOHNBNEsyRDdsemZaWHhxTlIyeVNncXNubTVYa0lPX1NVYW1YRlpFMldfTG5Pcm5tdUltSThXeE9YZnVwcEE?oc=5",
+    "description": "광명시(시장 박승원)가 주택건설공사의 품질과 안전을 확보하고 부실시공을 예방하기 위해 재개발정비사업 공사감리 실태를 확인했다.시는 지난 13일부터 16일까지 민간 전문가와 함께 광명제5R·제9R·제11R·제12R구역 등 재개발정비사업 공사 현장 4곳을 점검했다.이번 점검에서는 건축시공·건설안전·구조·토목 분야 전문가와 함께 감리원 구성과 업무 수행의 적정성을 확인하고, 시공 및 품질관리, 자재 확인과 각종 시험, 공정관리 현황 등을 살폈다. 아울러 공사 진행 상황에 따른 안전 취약요인도 집중적으로 살폈다.특히 이번 점검은 경기도 공",
+    "published_at": "2026-10-19T02:45:15+09:00",
+    "cluster_id": "68d6",
+    "publisher": "뉴스팜",
+    "title_clean": "광명시, 재개발 공사 현장 감리 실태 점검으로 안전관리 강화",
+    "summary": "광명시가 재개발정비사업 4개 현장에 대한 공사감리 실태 점검을 실시하여 건축·안전·구조·토목 분야 전문가와 함께 감리원 구성, 시공품질관리, 안전 취약요인 등을 확인했다. 부실시공 예방과 건설 안전관리 강화를 목표로 한 행정 감시 활동이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T03:28:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32244,22 +32260,6 @@
     "summary": "한국건설기술인협회가 충청남도와 함께 건설기술인 직무교육 세미나를 개최했다. 스마트 건설기술과 건설안전 분야의 최신 기술 및 정책 동향을 공유하며 업계 인력의 디지털 역량과 안전관리 전문성 강화를 도모했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-13T12:32:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이현빈 남동발전 신임 사장, 첫 행보는 LNG 건설현장 안전 점검 - 아주경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lb1lSUERZamwtc3pnY3FnaG9hN2FMT2x1c0VuRjdiVFREYnFoWkdiMFp6M3hhbXVuQnZqa3pHTnB5a3N5TnppNzdHQ1ctTUJHVjJsWjhoV29pQdIBWEFVX3lxTE9tWFp1d0x5MVNkelNINDVKNXFmZ2lybDdqejlNNVBaX3J0bk1SRDF5VVVpVGw1WDdSbG5aNXNrbGV6LUpOSGdJSExIeVNRNUhCcXM1SlIyN0g?oc=5",
-    "description": "한국남동발전 이현빈 신임 사장이 취임 후 첫 현장경영으로 액화천연가스(LNG) 건설사업이 진행 중인 삼천포·고성발전본부를 찾아 고위험 현장의 안전관리...",
-    "published_at": "2026-10-13T11:29:27+09:00",
-    "cluster_id": "0037",
-    "publisher": "아주경제",
-    "title_clean": "이현빈 남동발전 신임 사장, 첫 행보는 LNG 건설현장 안전 점검",
-    "summary": "이현빈 남동발전 신임 사장이 취임 후 LNG 건설사업 현장을 방문하여 안전관리를 점검했다. 고위험 건설현장에 대한 안전 감시 강화를 첫 행보로 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-13T12:00:21+09:00",
     "importance": 2
   }
 ]
