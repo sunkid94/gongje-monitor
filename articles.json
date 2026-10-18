@@ -20522,6 +20522,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경남 조선·방산 호황 속 상장기업 그늘 - gnmaeil.com",
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=596743",
+    "description": "도내 건설경기는 성장하는 전국에 비해 악화되고 있다. 동남지방데이터청 산업활동동향에 따르면 올 1~8월 경남 건설수주액은 약 3조 8858억원으로 지난해 같은 기간 4조 6165억원보다 15.8% 감소했다. 같은 기간...",
+    "published_at": "2026-10-18T21:06:00+09:00",
+    "cluster_id": "461e",
+    "publisher": "gnmaeil.com",
+    "title_clean": "경남 조선·방산 호황 속 상장기업 그늘",
+    "summary": "경남 조선·방산 산업이 호황을 누리고 있으나, 건설업계는 전국 대비 악화되고 있다. 올해 1~8월 경남 건설수주액이 전년 동기 대비 15.8% 감소하여 상장기업들이 어려움을 겪고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T21:08:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32247,22 +32263,6 @@
     "summary": "한국엡손이 건설·안전박람회에서 현장 안전관리용 라벨 솔루션을 선보였다. 작업환경과 용도에 맞춘 산업용 라벨 제품으로 건설현장의 안전관리와 재해 예방을 지원한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-13T11:45:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "서한, 새로운 주거 브랜드 ‘아르엘’ 론칭 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261013_0003823730",
-    "description": "특히 지난해에는 건설경기 침체가 이어지는 어려운 여건 속에서도 창사 이래 최대 규모인 1조6024억원의 수주 실적을 달성하며 탄탄한 사업수행 역량과 시장 대응력을 다시 한 번 입증했다. 서한 김병준 전무이사는...",
-    "published_at": "2026-10-13T11:30:00+09:00",
-    "cluster_id": "343f",
-    "publisher": "newsis.com",
-    "title_clean": "서한, 새로운 주거 브랜드 ‘아르엘’ 론칭",
-    "summary": "서한이 건설경기 침체 속에서도 창사 이래 최대 수주 실적인 1조6024억원을 달성하며 강한 사업수행 역량을 보였다. 새로운 주거 브랜드 '아르엘'을 론칭하며 시장 확대에 나섰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T11:35:13+09:00",
     "importance": 2
   }
 ]
