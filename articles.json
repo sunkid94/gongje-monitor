@@ -4709,40 +4709,6 @@
     "importance": 5
   },
   {
-    "keyword": "기계설비건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비공제조합, GICC 2026 참가…해외건설 보증 역량 확대 - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50223",
-    "description": "[건설이코노미뉴스] CI GUARANTEE(기계설비건설공제조합, 이사장 직무대행 최운구, 이하 조합)가 지난 15일부터 3일간 열린 ‘GICC(Global Infrastructure Cooperation Conference) 2026’에 참가했다고 최근 밝혔다.국토교통부가 주최하고 해외건설협회가 주관한 GICC 2026은 글로벌 발주처와 다자개발은행, 건설기업 등이 참여해 인프라 분야 협력과 해외건설 수주 지원 방안을 모색하는 국제 협력 행사다.조합은 2023년부터 4년 연속 해외건설 보증기관으로 참가하며 우리 기업의 해외시장 진출",
-    "published_at": "2026-09-18T11:42:26+09:00",
-    "cluster_id": "666d",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "기계설비공제조합, GICC 2026 참가…해외건설 보증 역량 확대",
-    "summary": "기계설비건설공제조합(CI GUARANTEE)이 GICC 2026에 참가하여 해외건설 보증기관으로서 역할을 수행했다. 조합은 2023년부터 4년 연속 참가하며 국내 기업의 해외시장 진출을 지원하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-09-18T11:45:48+09:00",
-    "event_label": "기계설비건설공제조합 GICC 2026 참가 및 해외건설 보증 역량 확대",
-    "importance": 5
-  },
-  {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설공제조합, ‘아름다운 수요일, 로비 콘서트’ 첫 공연 성료 - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50222",
-    "description": "[건설이코노미뉴스] 건설공제조합(이사장 이석용, 이하 조합)이 건설회관을 일상 속에서 문화예술을 즐길 수 있는 공간으로 조성하기 위한 첫걸음을 내디뎠다.조합은 지난 16일 서울 논현동 건설회관 로비에서 '아름다운 수요일, 로비 콘서트' 첫 공연을 성공적으로 개최했다고 최근 밝혔다.이번 행사는 건설회관 방문객과 입주사, 조합 임직원들에게 점심시간을 활용해 문화예술을 향유할 수 있는 기회를 제공하기 위해 마련됐다.특히 건설회관을 딱딱한 사무공간에서 벗어나 일상 속에서 문화예술을 즐길 수 있는 공간으로 조성한다는 취지다.첫 공연은 '로비",
-    "published_at": "2026-09-18T11:37:27+09:00",
-    "cluster_id": "224f",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "건설공제조합, ‘아름다운 수요일, 로비 콘서트’ 첫 공연 성료",
-    "summary": "건설공제조합이 서울 논현동 건설회관 로비에서 '아름다운 수요일, 로비 콘서트' 첫 공연을 개최했다. 방문객과 임직원들이 점심시간을 활용해 문화예술을 즐길 수 있는 기회를 제공하려는 취지의 행사다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-18T11:40:53+09:00",
-    "event_label": "건설공제조합 '아름다운 수요일, 로비 콘서트' 첫 공연 개최",
-    "importance": 5
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20740,6 +20706,22 @@
     "summary": "GS건설, 현대엔지니어링, 대우건설 등 주요 건설사들이 제로에너지 주거, 체험형 조경 등 차별화된 주택 상품을 선보이며 경쟁력 강화에 나서고 있다. 건설사들이 단순 시공을 넘어 입주민 만족도와 부가가치 창출에 집중하는 추세를 보여준다.",
     "sentiment": "positive",
     "collected_at": "2026-10-08T13:44:03+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "공공에 이어 민간 건설현장까지 - 메가충청뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YYXdVWFpoQkZfc05iTmFTanYyNHVoWkszeUxZYTdVNU1IRXN0VTY0eGF3UXVMT24xcUdSQTBydnJtb1ItMGdjVGV1UHhpa3A4QWlVZlRIQlR2Q0NGMzV3cF84aEZGSnhlWkhz?oc=5",
+    "description": "[메가충청뉴스] 국토교통부는 대한건설기계협회 등과 함께 구성된 ‘민간현장 체불해소 합동지원단’을 통해 지난 5월 수도권 집중단속에 이어 10월 19일부터 11월",
+    "published_at": "2026-10-18T11:32:09+09:00",
+    "cluster_id": "f86f",
+    "publisher": "메가충청뉴스",
+    "title_clean": "공공에 이어 민간 건설현장까지",
+    "summary": "국토교통부가 대한건설기계협회와 함께 민간 건설현장의 체불 문제 해소를 위한 합동지원단을 운영 중이다. 수도권 집중단속에 이어 10월 19일부터 11월까지 추가 단속을 진행하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-18T11:52:51+09:00",
     "importance": 2
   },
   {
