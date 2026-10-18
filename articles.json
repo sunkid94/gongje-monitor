@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "19일부터 불법하도급 단속, 민간 건설현장으로 확대 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610181326430080020",
+    "description": "국토부는 지난 5월 제1차관을 단장으로 하는 '건설현장 체불해소 민관 합동 지원단'을 꾸려 수도권 현장을 점검한 결과 불법하도급 29건과 기타 건설산업기본법 위반사항 60건을 적발했다. 건설기계 대여대금 체불 11건...",
+    "published_at": "2026-10-18T13:40:00+09:00",
+    "cluster_id": "c698",
+    "publisher": "대한경제",
+    "title_clean": "19일부터 불법하도급 단속, 민간 건설현장으로 확대",
+    "summary": "국토부가 건설현장 체불해소 민관 합동 지원단을 통해 수도권 현장 점검 결과 불법하도급 29건과 기타 위반사항 60건을 적발했다. 19일부터 민간 건설현장으로 불법하도급 단속을 확대할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-18T13:43:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32254,22 +32270,6 @@
     "publisher": "breaknews.com",
     "title_clean": "대기업, 온실가스 배출량 감소세 다시 확대..반도체·IT 역주행",
     "summary": "대기업들의 온실가스 배출량 감소세가 확대되는 가운데, 건설업은 건설경기 부진으로 인한 사업 활동 위축으로 전 업종 중 가장 높은 10.2%의 감소율을 기록했다. 반도체·IT 등 일부 산업은 증가세를 보이며 업종별 편차가 나타나고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-13T09:50:25+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "작년 대기업 온실가스 감축 다시 확대 … 발전·철강은 배출량 줄고 반... - worktoday.co.kr",
-    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90333",
-    "description": "건설경기 침체로 사업 활동이 위축된 영향이 반영된 것으로 풀이된다. 반면 생산 확대와 전력 수요 증가가 두드러진 기업들은 배출량이 늘었다. HD현대오일뱅크는 사업·반기보고서를 기준으로 계열사...",
-    "published_at": "2026-10-13T09:40:00+09:00",
-    "cluster_id": "8e8d",
-    "publisher": "worktoday.co.kr",
-    "title_clean": "작년 대기업 온실가스 감축 다시 확대 … 발전·철강은 배출량 줄고 반...",
-    "summary": "작년 대기업의 온실가스 감축이 확대되었으며, 건설경기 침체로 건설업 관련 기업들의 배출량이 감소했다. 반면 생산 확대와 전력 수요 증가 기업들은 배출량이 증가하는 양극화 현상을 보였다.",
     "sentiment": "negative",
     "collected_at": "2026-10-13T09:50:25+09:00",
     "importance": 4
