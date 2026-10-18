@@ -20641,6 +20641,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "구미대, 수시 면접에 전공체험·캠퍼스 이벤트 눈길 - hidomin.com",
+    "link": "https://www.hidomin.com/news/articleView.html?idxno=725320",
+    "description": "스마트건설기계학부는 건설장비 시뮬레이터를 활용해 실제와 유사한 환경에서 중장비 운전을 체험하도록 했다. 의료뷰티디자인학부는 인공지능(AI) 뷰티테크존을 운영해 첨단 기술과 뷰티 분야의 융합을 경험할 수 있도록...",
+    "published_at": "2026-10-18T15:22:00+09:00",
+    "cluster_id": "fc2c",
+    "publisher": "hidomin.com",
+    "title_clean": "구미대, 수시 면접에 전공체험·캠퍼스 이벤트 눈길",
+    "summary": "구미대가 수시 모집에서 스마트건설기계학부의 건설장비 시뮬레이터 체험, 의료뷰티디자인학부의 AI 뷰티테크존 등 전공 체험 프로그램을 운영하며 학생 모집에 나서고 있다. 이는 건설기계 분야 인력 양성을 통해 업계 인력난 해소에 기여할 수 있는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T15:28:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32254,22 +32270,6 @@
     "summary": "2024년 상반기 건설현장 산재 사망자가 243명으로, 추락사가 73명으로 최다를 기록했다. 건설경기 불황으로 고용보험 가입자가 37개월 연속 감소하는 와중에도 산업재해가 심각한 수준을 유지하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-13T10:24:57+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대기업 온실가스 감축 속도낸다지만…AI·반도체·방산은 되레 '급증' - delighti.co.kr",
-    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123141",
-    "description": "이는 최근 건설경기 부진에 따른 전반적인 사업 활동 위축이 반영된 결과로 풀이된다. 한국남동발전 등 발전 5사를 포함한 공기업 부문 배출량 역시 2023년 1억5963만톤에서 2025년 1억5206만톤으로 4.7%(756만톤)...",
-    "published_at": "2026-10-13T10:02:00+09:00",
-    "cluster_id": "6337",
-    "publisher": "delighti.co.kr",
-    "title_clean": "대기업 온실가스 감축 속도낸다지만…AI·반도체·방산은 되레 '급증'",
-    "summary": "대기업들이 온실가스 감축을 추진 중이나, 건설경기 부진으로 전반적인 사업 활동이 위축되면서 배출량이 감소했다. AI, 반도체, 방산 등 특정 산업은 오히려 배출량이 급증하는 추세를 보이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-13T10:10:11+09:00",
     "importance": 4
   }
 ]
