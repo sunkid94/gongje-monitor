@@ -20794,6 +20794,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "오세훈 \"반성 없는 정책은 실패 반복···대가는 국민 몫\" - seoulfn.com",
+    "link": "https://www.seoulfn.com/news/articleView.html?idxno=640327",
+    "description": "오 시장은 \"박원순 시장 시절 389곳의 정비구역이 해제되면서 43만호의 주택공급 기회가 사라졌다\"며 \"당시는 금융위기의 여파에서 벗어나 건설경기가 회복되던 시기로 공급의 황금기를 눈앞에 두고 있었다\"고 주장했다....",
+    "published_at": "2026-10-18T10:53:00+09:00",
+    "cluster_id": "f6c8",
+    "publisher": "seoulfn.com",
+    "title_clean": "오세훈 \"반성 없는 정책은 실패 반복···대가는 국민 몫\"",
+    "summary": "오세훈 서울시장이 박원순 전임시장 시절 정비구역 389곳 해제로 43만호의 주택공급 기회가 상실됐다고 비판했다. 건설경기 회복기의 공급 황금기를 놓쳤다는 주장으로, 과거 정책 반성의 필요성을 강조했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T10:57:59+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "2심 선고 앞둔 오세훈 “저 공격할 시간에 집값에 짓눌린 국민 삶부터 ... - joseilbo.com",
+    "link": "http://www.joseilbo.com/news/news_read.php?uid=577614&class=32&grp=",
+    "description": "그는 \"박원순 시장 시절 389곳의 정비구역이 해제되면서 43만호의 주택공급 기회가 사라졌다는 사실은 이미 많은 분들이 알 것이다\"며 \"당시는 금융위기의 여파에서 벗어나 건설경기가 회복되던 시기로, 공급의 황금기를...",
+    "published_at": "2026-10-18T10:52:00+09:00",
+    "cluster_id": "f5a6",
+    "publisher": "joseilbo.com",
+    "title_clean": "2심 선고 앞둔 오세훈 “저 공격할 시간에 집값에 짓눌린 국민 삶부터 ...",
+    "summary": "오세훈 서울시장이 2심 선고를 앞두고 박원순 전 시장 시절 389곳 정비구역 해제로 43만호 주택공급 기회가 사라졌다고 지적했습니다. 건설경기 회복기였던 당시 공급의 황금기를 놓쳤다는 입장입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-18T10:57:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32248,21 +32280,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-13T08:10:24+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국엡손, '2026 한국건설·안전박람회' 참가…현장 맞춤형 라벨 솔루션 공개 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80WWlLczJYMU1OY1RUdEhwLU14a240cGg1aVBPVWVINE0ybFo5clVJOV9BZm1UUHBCRjhXdUlvZEFGY2d6YTZlendhY1FEb3VhVEtDQ1dZcE5SSlZZVzFWVDd3?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE80WWlLczJYMU1OY1RUdEhwLU14a240cGg1aVBPVWVINE0ybFo5clVJOV9BZm1UUHBCRjhXdUlvZEFGY2d6YTZlendhY1FEb3VhVEtDQ1dZcE5SSlZZVzFWVDd3?oc=5\" target=\"_blank\">한국엡손, '2026 한국건설·안전박람회' 참가…현장 맞춤형 라벨 솔루션 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
-    "published_at": "2026-10-13T07:57:35+00:00",
-    "cluster_id": "6129",
-    "publisher": "아시아경제",
-    "title_clean": "한국엡손, '2026 한국건설·안전박람회' 참가…현장 맞춤형 라벨 솔루션 공개",
-    "summary": "한국엡손이 2026 한국건설·안전박람회에 참가하여 건설 현장 맞춤형 라벨 솔루션을 선보인다. 이는 건설업계의 현장 관리 효율화와 안전성 강화를 위한 기술 솔루션 제공 사례로, 건설업계의 디지털화 추진에 긍정적인 신호를 보내고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T08:10:24+09:00",
-    "importance": 2
   }
 ]
