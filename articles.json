@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "고양시, ‘건설공사장 산업재해 예방’ 경기도지사 표창 - 동방일보",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1td3RUWVRlVFNjc2lFNjNCQ19ONG8wQWlWM0FsR3EwT2J5UWptd2p2ZnJTOWZ2Q0V0RGVONHhycnZDZjR3UUtDRk9EQWFxUkxFSThsUUJKUkxPNm5HSGdsYUxtRjVfZ29vYVZRb1gwVUw5N2M?oc=5",
+    "description": "【동방일보】 이연우 기자 = 고양특례시(시장 민경선)는 건설공사장 산업재해 예방을 위한 지속적인 안전관리와 현장 중심의 예방 활동 성과를 인정받아 지난 14일 ‘2026년 건설공사장 산업재해 예방 유공’ 경기도지사 기관 표창을 수상했다고 밝혔다.이번 표창은 경기도가 2025년 시군 종",
+    "published_at": "2026-10-19T01:16:31+09:00",
+    "cluster_id": "ba3d",
+    "publisher": "동방일보",
+    "title_clean": "고양시, ‘건설공사장 산업재해 예방’ 경기도지사 표창",
+    "summary": "고양시가 건설공사장 산업재해 예방을 위한 안전관리 및 예방 활동 성과를 인정받아 경기도지사 표창을 수상했다. 이는 건설현장의 체계적인 안전관리 강화를 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T07:28:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32243,22 +32259,6 @@
     "publisher": "스마트비즈",
     "title_clean": "창립 60주년 앞둔 금호건설, 협력사 선정 기준 강화",
     "summary": "금호건설이 2027년 외주·자재 협력회사 모집을 시작하며 기존 재무건전성, 시공 자격 기준에 더해 협력사 선정 기준을 강화했다. 이는 시공 품질 향상과 협력사 경영 안정성 강화를 통해 업계 신뢰도를 높이려는 움직임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-13T15:30:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 창립 60주년 함께할 외주·자재 협력사 모집 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T1Awd1ZPQmtDd0l3Ui1ZWXM0LW53cHBQeXZQR2tRVE9NZnF2eDkzTXQ0blNIa1k5YWFXdXNxZnVHUE83SG9WOS1jX21INHh6LUdKd0RNS0o3Zw?oc=5",
-    "description": "금호건설이 2027년 전국 건설현장에서 함께할 외주·자재 협력회사를 공개 모집한다. 내년 창립 60주년을 앞두고 품질과 안전 역량을 갖춘 협력사를 발굴해 현장 협업체계를 강화한다는 계획이다.금호건설은 오는 11월 6일까지 협력회사 모집을 진행한다고 13일 ..",
-    "published_at": "2026-10-13T15:23:40+09:00",
-    "cluster_id": "59f6",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "금호건설, 창립 60주년 함께할 외주·자재 협력사 모집",
-    "summary": "금호건설이 2027년 전국 건설현장에서 함께할 외주·자재 협력회사를 11월 6일까지 공개 모집한다. 창립 60주년을 앞두고 품질과 안전 역량을 갖춘 협력사를 발굴하여 현장 협업체계를 강화할 계획이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-13T15:30:17+09:00",
     "importance": 2
