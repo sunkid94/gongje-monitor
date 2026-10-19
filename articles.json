@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[마켓+]지방 중소 건설사 폐업 신기록…'미분양·공사비·PF'에 흔들린다 - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=118402",
+    "description": "20일 국토교통부 건설산업지식정보시스템에 따르면 올해 10월 14일까지 종합공사업 폐업 신고는 683건으로 집계됐다. 지난해 연간 기록인 675건을 10개월도 안 돼 넘어섰고, 관련 통계가 집계된 2003년 이후 최대치다....",
+    "published_at": "2026-10-20T08:00:00+09:00",
+    "cluster_id": "d7b9",
+    "publisher": "businessplus.kr",
+    "title_clean": "[마켓+]지방 중소 건설사 폐업 신기록…'미분양·공사비·PF'에 흔들린다",
+    "summary": "올해 10월까지 종합공사업 폐업 신고가 683건으로 집계되어 지난해 연간 기록 675건을 넘어섰으며, 2003년 이후 최대치를 기록했다. 지방 중소 건설사들이 미분양, 공사비 상승, PF 악화 등으로 인해 경영난을 겪고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T08:10:22+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,22 +32262,6 @@
     "summary": "자주연합이 10월 17일 '주권 찾기의 날' 행사를 개최하며 불평등한 한미관계와 미 군사복합체를 비판하고 있습니다. 평택 미군기지 부지 문제와 관련하여 건설 노동자 관점에서 안보를 빌미로 한 착취 문제를 제기하고 있습니다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-14T23:30:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "장홍수 대한건설협회 울산시회장, 제주서 홀인원 기록 - 울산일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pWVl1S0owRDkxdVp0U1hZVjJRanNsMmJfQktiWURTTkhWTjlaVWpJeDhhSTg3bUE2S2hKOG1ITU1KWFM3czdHTjN5aEg2a1FodVpkNWNSU2d4Y0NfNUVZdFEyOVBNR01abGxUOThB?oc=5",
-    "description": "장홍수 대한건설협회 울산시회장이 제주에서 열린 건설업계 행사에서 홀인원을 기록해 화제를 모았다.장 회장은 14일 제주 엘리시안CC 레이크코스 7번 홀에서 홀인원의 행운을 안았다. 이번 홀인원은 지난 13일부터 이틀간 제주에서 열린 ‘2026 건설산업 CEO 미래전략포럼’에 참석하던 중 나왔다.이번 포럼에는 전국 건설업계 최고경영자(CEO)들이 참석해 건설산업의 미래 발전 방향과 경쟁력 강화 방안을 논의하고 업계 간 교류와 화합을 다졌다.장 회장이 홀인원을 기록하자 현장에서는 축하와 박수가 쏟아졌다. 참석자들은 건설경기 침체로 업계의",
-    "published_at": "2026-10-14T16:10:10+09:00",
-    "cluster_id": "f196",
-    "publisher": "울산일보",
-    "title_clean": "장홍수 대한건설협회 울산시회장, 제주서 홀인원 기록",
-    "summary": "장홍수 대한건설협회 울산시회장이 제주에서 열린 '2026 건설산업 CEO 미래전략포럼'에 참석 중 홀인원을 기록했다. 전국 건설업계 CEO들이 모여 산업의 미래 발전 방향과 경쟁력 강화 방안을 논의하며 업계 화합을 도모했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-14T23:10:50+09:00",
     "importance": 2
   }
 ]
