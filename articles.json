@@ -20505,6 +20505,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "‘산업위기선제대응’ 정부 실사단 제물포구 방문 - kyeongin.com",
+    "link": "https://www.kyeongin.com/article/1772948",
+    "description": "철강 산업의 위기는 ▲건설경기 침체 장기화 ▲미국의 철강관세 부과 ▲중국산 저가 철강의 국내 유입 확대 등의 이유로 시작됐다. 현대제철·동국제강이 경영 위기에 부딪혔다. 현대제철은 올해 1월 인천공장 철근 생산...",
+    "published_at": "2026-10-19T20:50:00+09:00",
+    "cluster_id": "3772",
+    "publisher": "kyeongin.com",
+    "title_clean": "‘산업위기선제대응’ 정부 실사단 제물포구 방문",
+    "summary": "철강 산업이 건설경기 침체, 미국 관세, 중국산 저가 수입 등으로 위기에 직면하면서 현대제철·동국제강 등 주요 업체들이 경영 어려움을 겪고 있다. 정부 실사단이 제물포구를 방문해 산업 위기 상황을 점검하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T21:00:35+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "정비사업 공사비 특별점검 착수…건설사 증액 협상 영향 주목 - 녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xeVJfVHBSbDZ5SDEwV1RORmViR19jODNzYkk4QkNxMExwSHBxZ3lnbnRjOG9XdHRqZl9xYWxtdzRMMG12d3MwdDVON0N0X0haVVp1NUdkU0FjZUFiVUhJNFVfRFJKTUNz?oc=5",
+    "description": "[녹색경제신문 = 문홍주 기자]정부가 재개발·재건축 사업장의 공사비 산정과 증액 과정에 대한 특별점검에 착수하면서 건설업계의 공사비 협상에도 관심이 쏠리고 있다. 이에 따라 시공사들의 공사비 산정과 계약 조정 과정에도 영향을 미칠 가능성이 제기된다.19일 국토교통부에 따르면 국토부는 오늘부터 지방정부, 한국부동산원 등 관계기관과 함께 재개발·재건축 조합 16곳을 대상으로 특별현장점검을 실시한다. 점검은 이달 19~30일과 다음 달 9~20일 두 차례에 걸쳐 진행된다.이번 점검은 법정 공사비 검증 절차를 이행하지 않은 정비사업장이 다",
+    "published_at": "2026-10-19T14:50:32+09:00",
+    "cluster_id": "23d0",
+    "publisher": "녹색경제신문",
+    "title_clean": "정비사업 공사비 특별점검 착수…건설사 증액 협상 영향 주목",
+    "summary": "정부가 재개발·재건축 사업장 16곳을 대상으로 공사비 산정 및 증액 과정에 대한 특별점검을 실시한다. 이번 점검은 법정 공사비 검증 절차 미이행 사업장을 적발하기 위한 것으로, 건설사들의 공사비 협상 및 계약 조정 과정에 영향을 미칠 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T21:00:35+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32230,38 +32262,6 @@
     "summary": "건설경기 부진과 중국산 저가 공세 속에서 산업용 전기료 인하와 AI 데이터센터 수요 확대가 실적 개선의 핵심 변수로 작용할 것으로 전망된다. 첨단 패키징 기술이 AI 시대 산업의 성패를 좌우할 것으로 예상된다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-14T17:45:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설반도체 훈풍에도 건설은 '찬바람'…충북 건설업계 이중고경기 침체 - inews365.com",
-    "link": "https://www.inews365.com/news/article.html?no=939293",
-    "description": "올해 폐업 179곳, 지난해 연간 건수 넘어 ［충북일보］ 반도체 호황으로 충북 경제가 개선 흐름을 이어가고 있지만 건설경기에는 여전히 냉기가 돌고 있다. 중동전쟁 장기화에 따른 원가 상승과 내수 침체가 겹친...",
-    "published_at": "2026-10-14T17:34:00+09:00",
-    "cluster_id": "faaf",
-    "publisher": "inews365.com",
-    "title_clean": "건설반도체 훈풍에도 건설은 '찬바람'…충북 건설업계 이중고경기 침체",
-    "summary": "반도체 호황에도 불구하고 충북 건설업계는 원가 상승과 내수 침체로 어려움을 겪고 있다. 올해 폐업 건수가 지난해 연간 건수를 이미 넘어서면서 건설경기 침체가 심각한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-14T17:40:26+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "박정희기념관 달려간 국힘, <암살자(들)> \"패륜적 각색\" 맹비난 - ohmynews.com",
-    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275292&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "description": "ⓒ 이정민 이들은 파독 광부와 간호사, 중동 건설 노동자들의 헌신을 거론한 뒤 \"박정희 대통령에 대한 일방적인 폄훼는 대한민국 산업화의 역사와 이를 위해 헌신한 국민의 피와 땀마저 부정하는 것\"이라고까지 연결했다....",
-    "published_at": "2026-10-14T17:21:00+09:00",
-    "cluster_id": "cf13",
-    "publisher": "ohmynews.com",
-    "title_clean": "박정희기념관 달려간 국힘, <암살자(들)> \"패륜적 각색\" 맹비난",
-    "summary": "국힘이 영화 <암살자(들)>의 박정희 전 대통령 묘사를 비판하며, 파독 광부·간호사와 중동 건설 노동자들의 산업화 기여를 강조했다. 이는 건설업계와 직접적인 관련성이 낮은 정치·문화 이슈다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-14T17:30:45+09:00",
     "importance": 2
   }
 ]
