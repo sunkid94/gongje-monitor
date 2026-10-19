@@ -20508,6 +20508,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "서울시 발주 대형 건설 현장 ‘적정임금’ 지급 4곳뿐 - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202610192127035",
+    "description": "서울시 영동대로 지하공사 4공구 건설 노동자들은 이날 오전 서울시청 앞에서 집회를 열고 적정임금과 주휴수당 지급을 촉구했다. 윤 의원은 “노무비가 원·하청 낙찰률에 연동돼 삭감되지 않도록 발주처가 분리해 직접...",
+    "published_at": "2026-10-19T21:27:00+09:00",
+    "cluster_id": "83fe",
+    "publisher": "khan.co.kr",
+    "title_clean": "서울시 발주 대형 건설 현장 ‘적정임금’ 지급 4곳뿐",
+    "summary": "서울시 발주 대형 건설 현장에서 적정임금 지급이 제대로 이루어지지 않고 있으며, 노동자들이 임금과 주휴수당 지급을 촉구하고 있다. 원·하청 낙찰률에 따른 노무비 삭감 문제가 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T21:40:14+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "이천시의회, 내년 출연계획·민간위탁 등 34건 심사 - newstown.co.kr",
     "link": "http://www.newstown.co.kr/news/articleView.html?idxno=718998",
     "description": "사회복지사 등의 처우 및 지위 향상, 지역건설산업 활성화 및 지역건설노동자 우선고용 관련 개정조례안과 마을버스운송사업 등록 및 지원에 관한 조례안 등을 심사한다. 제6기 지역사회보장계획(2027~2030년) 수립과...",
@@ -32246,22 +32262,6 @@
     "summary": "호남 반도체 국가산업단지 조성으로 대규모 기반시설 공사와 반도체 공장 건설, 주거단지 개발 등 건설 수주 기회가 증가할 것으로 예상된다. 외지 건설인력 유입으로 인한 건설경기 활성화가 지역 건설업계의 새로운 성장 동력으로 작용할 것으로 전망된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-14T18:00:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "텐트 치고 기다린 신축 전세…대구서 수요 확인된 CR리츠, 부산으로 - gpkorea.com",
-    "link": "https://www.gpkorea.com/news/articleView.html?idxno=147568",
-    "description": "정부는 2024년 3월 비상경제장관회의에서 '건설경기 회복지원 방안'을 발표하며 세제 지원을 받는 CR리츠를 10년 만에 다시 도입했다. 지방 미분양 주택을 매입하는 CR리츠에는 취득세 중과 배제(준공 후 미분양주택 한정)...",
-    "published_at": "2026-10-14T17:44:00+09:00",
-    "cluster_id": "846a",
-    "publisher": "gpkorea.com",
-    "title_clean": "텐트 치고 기다린 신축 전세…대구서 수요 확인된 CR리츠, 부산으로",
-    "summary": "정부가 2024년 3월 건설경기 회복 방안으로 10년 만에 CR리츠를 재도입했으며, 대구에서 신축 전세주택 수요가 확인되면서 부산으로 확대 추진 중이다. CR리츠는 지방 미분양 주택 매입 시 취득세 중과 배제 등 세제 혜택을 제공하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T17:50:37+09:00",
     "importance": 2
   }
 ]
