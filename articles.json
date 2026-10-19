@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘불법하도급·임금체불’ 집중단속 - 시사코리아",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5BNlMzRTFIb1FfOTNNNDluWXdjYll4SU9UOGtSX21GeC0yN0tKemRwTVUxd25iUm5uZzJfazRKblJrRVVp?oc=5",
+    "description": "(시사코리아=남재균 기자) 국토교통부는 「민간현장 체불해소 합동지원단」을 통해 10월 19일부터 11월 13일까지 경상권 민간 건설현장을 대상으로 집중",
+    "published_at": "2026-10-19T12:05:00+09:00",
+    "cluster_id": "df5a",
+    "publisher": "시사코리아",
+    "title_clean": "‘불법하도급·임금체불’ 집중단속",
+    "summary": "국토교통부가 10월 19일부터 11월 13일까지 경상권 민간 건설현장을 대상으로 불법하도급과 임금체불에 대한 집중단속을 실시한다. 건설업계의 불법 관행 적발과 근로자 보호를 위한 규제 강화 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T02:10:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-14T20:10:36+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "인천 검단 왕길동 '1,000만 톤 폐기물 산' 논란…주민·환경단체, 구청에... - ppss.kr",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=315557",
-    "description": "구 관계자는 건설경기 침체로 처리 속도가 늦어지고 있지만 현장 점검과 비산먼지 저감시설 관리를 강화하겠다는 입장을 전했다. 다만 이러한 설명과 별개로 현재 남아 있는 적치물의 규모와 성격, 실제 반출 실적 및...",
-    "published_at": "2026-10-14T19:37:00+09:00",
-    "cluster_id": "2162",
-    "publisher": "ppss.kr",
-    "title_clean": "인천 검단 왕길동 '1,000만 톤 폐기물 산' 논란…주민·환경단체, 구청에...",
-    "summary": "인천 검단 왕길동에 1,000만 톤 규모의 폐기물이 적치되어 주민과 환경단체의 민원이 제기되고 있다. 구청은 건설경기 침체로 처리가 지연되고 있으며, 현장 점검과 비산먼지 저감시설 관리를 강화하겠다는 입장을 밝혔다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-14T19:45:34+09:00",
-    "importance": 4
   }
 ]
