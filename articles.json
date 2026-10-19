@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "철강 생산 안 끊겨야 ‘제철보국’ 계속된다 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/20261019502004",
+    "description": "건설경기 침체와 제조업 수요 둔화가 겹치면서 국내 시장이 빠르게 위축된 결과다. 올해와 내년의 철강 수요도 각각 4440만t, 4500만t에 그칠 것으로 전망된다. 수출 여건도 녹록지 않다. 중국발 공급 과잉 상황이 지속되는...",
+    "published_at": "2026-10-20T02:24:00+09:00",
+    "cluster_id": "6823",
+    "publisher": "kmib.co.kr",
+    "title_clean": "철강 생산 안 끊겨야 ‘제철보국’ 계속된다",
+    "summary": "건설경기 침체와 제조업 수요 둔화로 국내 철강 시장이 급속도로 위축되고 있다. 올해와 내년 철강 수요가 각각 4440만t, 4500만t 수준에 그칠 것으로 예상되며, 중국발 공급 과잉까지 겹쳐 수출 여건도 악화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T02:30:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-14T20:30:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도, 건설현장 안전관리 실무교육… 공공·민간 관계자 260명 참여 - lawissue.co.kr",
-    "link": "https://www.lawissue.co.kr/view.php?ud=202610141602439240d94aa4ada6_12",
-    "description": "건설현장 안전에 관한 기술과 제품을 소개하는 전문 전시회로, 현장에 활용할 수 있는 안전관리 방안을 살펴보는 기회도 제공한다. 김도형 노동국장은 공공과 민간이 함께 안전관리 방향을 논의하고 실제 현장에 적용할...",
-    "published_at": "2026-10-14T20:04:00+09:00",
-    "cluster_id": "4be9",
-    "publisher": "lawissue.co.kr",
-    "title_clean": "경기도, 건설현장 안전관리 실무교육… 공공·민간 관계자 260명 참여",
-    "summary": "경기도가 건설현장 안전관리 실무교육을 개최하여 공공·민간 관계자 260명이 참여했다. 전문 전시회를 통해 건설현장의 안전기술과 제품을 소개하고, 실제 현장에 적용 가능한 안전관리 방안을 논의했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-14T20:10:36+09:00",
-    "importance": 3
   }
 ]
