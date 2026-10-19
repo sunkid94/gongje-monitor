@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[기자의 시각] ‘낙하산’ 기관장 방탄, 안 부끄럽나 - chosun.com",
+    "link": "https://www.chosun.com/opinion/journalist_view/2026/10/19/KJWYOIK43FCZ7PRU3TCESRZKUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "“건설 노동자를 섬기겠다는 마음을 강조한 것” “전문가들이 있으므로 이사장에게 기금 운용 경험이 반드시 필요한 것은 아니다”라고 했다. 그러면서 “역대 이사장 10명 중 금융 관련 전문가는 1명”이라고도 했다....",
+    "published_at": "2026-10-19T23:39:00+09:00",
+    "cluster_id": "a8e4",
+    "publisher": "chosun.com",
+    "title_clean": "[기자의 시각] ‘낙하산’ 기관장 방탄, 안 부끄럽나",
+    "summary": "기계설비건설공제조합 이사장 임명에 대해 전문성 부족 논란이 제기되는 가운데, 관계자는 '봉사 정신'과 '전문가 체계'를 근거로 방어하고 있다. 역대 이사장 중 금융 전문가가 소수였다는 점을 들며 현 인선의 정당성을 주장하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T23:50:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,22 +32262,6 @@
     "summary": "달빛철도가 특별법에도 불구하고 예타 면제 절차에서 막혀있는 상황이 발생했다. 동서 횡단 철도망 구축을 위해 규제 절차 개선이 필요하다는 주장이 제기되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-14T18:50:22+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "집단대출 빗장 푼 지 두 달… 5대은행 잔액 되레 감소 전환 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202610141819392023",
-    "description": "건설경기 침체로 신규 분양과 정비사업 추진이 부진한 상황에서 기존 대출의 잔금 전환만으로는 집단대출 잔액을 크게 늘리기 어렵다는 분석이다. 이 때문에 금융권에서는 올해 말 집단대출 잔액이 지난해 말...",
-    "published_at": "2026-10-14T18:20:00+09:00",
-    "cluster_id": "5091",
-    "publisher": "fnnews.com",
-    "title_clean": "집단대출 빗장 푼 지 두 달… 5대은행 잔액 되레 감소 전환",
-    "summary": "집단대출 규제 완화 후 2개월이 지났으나 건설경기 침체로 신규 분양과 정비사업이 부진하면서 5대은행의 집단대출 잔액이 오히려 감소했다. 기존 대출의 잔금 전환만으로는 잔액 증가가 어려운 상황으로, 금융권은 올해 말 집단대출 잔액이 지난해 말 수준을 회복하기 어려울 것으로 전망하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-14T18:30:26+09:00",
     "importance": 4
   }
 ]
