@@ -4505,6 +4505,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설소식] 삼성물산 건설부문·현대건설·대우건설·IPARK현대산업개발·신동아건설·부영그룹·계룡건설 - 스포츠한국",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTGdPZ2h4NEJxaHpEb3lkaE83eTUwSkRYMGpUQnJOa0g4blptdzdzNk0zaExfcmVXQW5sSk5vNllBYV9fMTVPckZxMUhRTHNUSmZ0bTlJMUxuLUVkY2JZZ0daZWNFR2x6bEUtMkZ3MnHSAXRBVV95cUxNcHUxRVl5Uy1HVnI3eXBsTWtONzlhcnlfY0V1RzhIWjJCYVpyeXhZWU0tclBWMHFEMTRMcDhCNjB1MWxVa3dVcFEtT0FnZlB1WlRJd0tBaUtyMXFXUzd0dGQxVlQtRTU3U3ZBN1ZBUm15dFJ0cg?oc=5",
+    "description": "[스포츠한국 홍성완 기자] 삼성물산 건설부문(이하 삼성물산)이 서울 여의도 시범아파트 재건축 사업의 시공사로 최종 선정됐다.여의도 시범아파트 재건축 사업시행자인 한국자산신탁은 16일 개최한 토지등소유자 전체회의에서 삼성물산을 시공사로 최종 선정하는 안건을 가결했다.이번 사업은 서울 영등포구 여의도동 일대에 지하 6층~지상 최고 59층, 총 2480세대와 부대복리시설 등을 조성하는 프로젝트다. 공사비는 약 2조2685억원 규모다.1971년 준공된 여의도 시범아파트는 엘리베이터와 중앙난방, 입식 주방 등 당시 선진적인 주거 방식을 도입",
+    "published_at": "2026-10-19T19:34:56+09:00",
+    "cluster_id": "58d6",
+    "publisher": "스포츠한국",
+    "title_clean": "[건설소식] 삼성물산 건설부문·현대건설·대우건설·IPARK현대산업개발·신동아건설·부영그룹·계룡건설",
+    "summary": "삼성물산이 서울 여의도 시범아파트 재건축 사업의 시공사로 최종 선정됐다. 해당 사업은 2480세대 규모로 공사비 약 2조2685억원 규모의 대형 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T20:10:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20486,22 +20502,6 @@
     "summary": "KB부동산신탁과 포스코이앤씨가 함께 추진하는 '아크메르 동탄'이 화성시 동탄구에 지하 7층 지상 49층 규모, 1,808가구 규모로 건설된다. 10월 분양예정으로 주요 입지에 위치한 대규모 주택 프로젝트다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-10T09:02:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "건설 3사, 상반기 이익 회복...현금 개선은 대금 회수 속도에 - asiaa.co.kr",
-    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=265533",
-    "description": "대우건설과 롯데건설은 영업이익이 각각 두 배, 네 배 이상 증가했고 DL이앤씨는 이익 확대와 영업현금 순유입을 함께 기록했다. 공사대금 회수가 뒷받침되면 수익성 개선 효과가 현금흐름과 차입금 상환 여력으로...",
-    "published_at": "2026-10-10T08:10:00+09:00",
-    "cluster_id": "847a",
-    "publisher": "asiaa.co.kr",
-    "title_clean": "건설 3사, 상반기 이익 회복...현금 개선은 대금 회수 속도에",
-    "summary": "건설 3사(대우건설, 롯데건설, DL이앤씨)가 상반기 영업이익을 크게 회복했으며, 이익 개선이 공사대금 회수 속도에 따라 현금흐름 개선으로 이어질 것으로 전망된다. 향후 대금 회수 실적이 차입금 상환 여력 확대의 핵심 요인이 될 것으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-10T08:12:59+09:00",
     "importance": 2
   },
   {
