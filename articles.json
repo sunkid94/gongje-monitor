@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'아크메르 동탄' 견본주택 사흘간 2만7000명 방문…폭우에도 대기행렬 - wikileaks-kr.org",
+    "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193422",
+    "description": "19일 분양업계에 따르면 KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 아크메르 동탄은 지난 16일 경기 화성시 동탄구 여울동에 견본주택을 열었다. 18일까지 누적 방문객은 약 2만7000명으로 집계됐다. 개관...",
+    "published_at": "2026-10-19T14:16:00+09:00",
+    "cluster_id": "26b9",
+    "publisher": "",
+    "title_clean": "'아크메르 동탄' 견본주택 사흘간 2만7000명 방문…폭우에도 대기행렬 - wikileaks-kr.org",
+    "summary": "KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 '아크메르 동탄' 견본주택이 개관 3일간 2만7000명의 방문객을 기록했다. 폭우에도 불구하고 높은 관심을 받으며 분양 시장의 수요 회복 신호를 보여주고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T14:24:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20467,22 +20483,6 @@
     "publisher": "yeongnam.com",
     "title_clean": "[이재윤 칼럼] 1천200억 달러와 대구·경북",
     "summary": "두산에너빌리티, 현대건설, 한전KPS 등 국내 건설·기계설비 기업들이 1,200억 달러 규모 프로젝트에서 핵심 역할을 담당하며 해외 수주 기반을 확대하고 있다. 한수원 주도로 웨스팅하우스와의 협상을 통해 미국 진출 기반을 마련하는 대형 프로젝트다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-09T06:10:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한미 에너지 투자 3대 사업 윤곽…건설사별 셈법 분주 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/article/2026100819462477180",
-    "description": "대우건설과 삼성물산은 한국형 원전인 APR1400 2기 건설에 참여할 가능성이 거론된다. 기존 한국형 원전 수출사업과 유사한 컨소시엄이 구성될 경우 현대건설을 포함한 국내 건설사들이 시공 물량을 나눠 맡을 것으로...",
-    "published_at": "2026-10-09T06:04:00+09:00",
-    "cluster_id": "98d7",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "한미 에너지 투자 3대 사업 윤곽…건설사별 셈법 분주",
-    "summary": "한미 에너지 투자 사업의 일환으로 APR1400 원전 2기 건설이 추진되면서 대우건설, 삼성물산, 현대건설 등 국내 건설사들이 시공 물량을 나눠 맡을 것으로 예상된다. 기존 한국형 원전 수출사업 컨소시엄 구성과 유사한 방식으로 진행될 가능성이 높다.",
     "sentiment": "positive",
     "collected_at": "2026-10-09T06:10:42+09:00",
     "importance": 2
