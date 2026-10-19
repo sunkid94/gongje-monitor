@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김정애·서울의회, 신림5구역 축대 붕괴 현장 안전 점검 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyUEJwQkJtcnQ5VWJwbjVaejJ3V3Fnd3hWekRFQlBfdWh1UkRLRC1QcW44VG0wT1VVeHFYWU0wUmRqSGxWUDBuV2RnanA0ejdIY1BOdFdManZsMGNyOGNsWFBldW5fdjE0UzdjZkphOA?oc=5",
+    "description": "최근 관악구 신림5구역 내 신림동 412-196 일대에서 실시된 축대 안전 점검에 서울특별시의회 김정애 의원(더불어민주당, 관악4(신원동,서원동,서림동,대학동,삼",
+    "published_at": "2026-10-20T00:12:08+09:00",
+    "cluster_id": "50f7",
+    "publisher": "오토투데이",
+    "title_clean": "김정애·서울의회, 신림5구역 축대 붕괴 현장 안전 점검",
+    "summary": "서울 관악구 신림5구역에서 축대 붕괴 위험이 발생해 서울시의회 의원이 현장 안전 점검을 실시했다. 이는 건설 안전 관리 강화 필요성을 드러내는 사건으로, 유사 시설물에 대한 점검 및 보수 수요 증가로 이어질 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T00:25:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-14T19:30:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "달빛철도, 특별법 있어도 `예타 면제` 절차에 가로막혀…`동서 횡단 철도망 뚫어야` - 매일신문",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EbWgydlVFUmg3eVktX3g2SFIzLTd6dUEwMGtWbnlCVV9LUFp4bnA1bnVKem9sdXkwUDhMMUltNUkzemtDWHN2anJ2ZlZtX2ZiRnptWTkzYjNZb3hPV1lYemtB?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EbWgydlVFUmg3eVktX3g2SFIzLTd6dUEwMGtWbnlCVV9LUFp4bnA1bnVKem9sdXkwUDhMMUltNUkzemtDWHN2anJ2ZlZtX2ZiRnptWTkzYjNZb3hPV1lYemtB?oc=5\" target=\"_blank\">달빛철도, 특별법 있어도 `예타 면제` 절차에 가로막혀…`동서 횡단 철도망 뚫어야`</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-    "published_at": "2026-10-14T18:00:00+09:00",
-    "cluster_id": "fed5",
-    "publisher": "매일신문",
-    "title_clean": "달빛철도, 특별법 있어도 `예타 면제` 절차에 가로막혀…`동서 횡단 철도망 뚫어야`",
-    "summary": "달빛철도가 특별법에도 불구하고 예타 면제 절차에서 막혀있는 상황이 발생했다. 동서 횡단 철도망 구축을 위해 규제 절차 개선이 필요하다는 주장이 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-14T18:50:22+09:00",
-    "importance": 4
   }
 ]
