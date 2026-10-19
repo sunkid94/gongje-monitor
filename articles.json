@@ -4508,6 +4508,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "정원주 대우건설 회장, 한-중앙아시아 정상회의 공식일정 참석·하노이... - wsobi.com",
+    "link": "http://www.wsobi.com/news/articleView.html?idxno=319903",
+    "description": "정원주 대우건설 회장은 지난달 글로벌 시장 공략을 위한 현장 행보를 이어갔다. 대우건설에 따르면 정 회장은 지난달 9월 14일부터 16일까지 사흘간 열린 제1차 한-중앙아시아 정상회의 공식 일정에 참석한 한편 이에...",
+    "published_at": "2026-10-19T10:28:00+09:00",
+    "cluster_id": "5690",
+    "publisher": "wsobi.com",
+    "title_clean": "정원주 대우건설 회장, 한-중앙아시아 정상회의 공식일정 참석·하노이...",
+    "summary": "정원주 대우건설 회장이 한-중앙아시아 정상회의에 참석하여 글로벌 시장 공략을 위한 현장 행보를 이어가고 있다. 기업 경영진의 국제 외교 무대 참석으로 해외 시장 진출 기반을 강화하고 있는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T10:34:20+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "대우건설, 상도15구역 재개발 수주 공시 - arunews.com",
     "link": "https://www.arunews.com/news/articleView.html?idxno=68264",
     "description": "대우건설이 서울 동작구 상도15구역 재개발을 수주했다고 지난 16일 공시했다. 계약금액은 1조4,367억4,858만9,480원으로 최근 매출액 대비 17.84%에 해당하는 금액이다. 계약상대는 대신자산신탁이다. 계약기간은...",
@@ -20489,20 +20505,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "[정비사업 디코드] 지역주택조합 왕 서희건설, 영업 어떻게 하길래 - smarttoday.co.kr",
-    "link": "https://www.smarttoday.co.kr/ko-kr/articles/112444",
-    "description": "서울, 경기도, 국내 주요 광역시 대규모 재개발, 재건축 수주전에서 브랜드 파워와 자금력으로 삼성물산 건설부문, 현대건설, 대우건설 등 대형사들과 경쟁에서 승산이 없다고 판단한 회사가 대형사들이 잘 파고들지...",
-    "published_at": "2026-10-08T16:34:00+09:00",
-    "cluster_id": "e98f",
-    "publisher": "smarttoday.co.kr",
-    "title_clean": "[정비사업 디코드] 지역주택조합 왕 서희건설, 영업 어떻게 하길래",
-    "summary": "서희건설이 대형건설사들이 관심을 덜 두는 지역주택조합 사업에 특화하여 영업 전략을 구사하고 있다. 틈새시장 공략으로 중소건설사도 생존 가능한 비즈니스 모델을 제시하는 사례로 보도되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T16:47:01+09:00",
-    "importance": 2
+    "title": "국토부, 불법하도급 단속·체불 해소 전방위 확대 - 한국주택경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sZVZpSkFuMEkzSnR0a0VnTUdDSWg3VWF2eDFfNC10aWFrQUNneHNSOHhuZ1B3czgwZnk5SDBmQXVwWER6ZzUxd3d2c09kRkI2RzV1UV9xZGtGM0ZRcUNIQXlsaVV4NjJT?oc=5",
+    "description": "국토교통부는 대한건설기계협회 등과 함께 구성된 ‘민간현장 체불해소 합동지원단’을 통해 지난 5월 수도권 집중단속에 이어 오는 11월 13일까지 경상권 민간 건설현",
+    "published_at": "2026-10-19T10:14:37+09:00",
+    "cluster_id": "cde7",
+    "publisher": "한국주택경제신문",
+    "title_clean": "국토부, 불법하도급 단속·체불 해소 전방위 확대",
+    "summary": "국토교통부가 민간현장 체불해소 합동지원단을 통해 불법하도급 단속과 체불금 해소에 나서고 있다. 5월 수도권 집중단속에 이어 11월 13일까지 경상권 민간 건설현장을 대상으로 전방위 단속을 확대 실시할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T10:34:20+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32247,21 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-13T18:10:32+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "충북, 지역건설업체 공공계약 참여 늘린다... 건설경기 침체에 지원책 모색 - 센트럴경제",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IdTkxRWtnNmcxaFJBOHNyYzZCYjNmQ01BLXk0bkhRZU5HTWY5U0RpQXVETV92UE5yb3RBUUpMaUozbUdTdlpDWFFoSXJPOHVtWU1rbklUbjRSX2VEbFo1aGp4Smo4TzjSAWpBVV95cUxNS25WdGtGQ2FrQUtPMHVUb0VwRGdCY2Z2WFZQcTVaTEd1OUlLZ0ZtY1JwNXBsOFVUQS1GcUgtVkU2WjFiQzdyeW1lSm9zSXF6MVBKRXZsZHZDUlVHWVBVbjI4R1NUNVVOcGVR?oc=5",
-    "description": "[센트럴경제 = 홍미경 기자] 충청북도가 공공계약에서 지역건설업체의 입찰 참여 기회를 넓히고, 관급공사 설계 단가를 일괄 산정해 배포하는 방안을 추진한다.충청북도는 지난 12일 도청 충북관 회의실에서 11개 시·군과 건설업계 관계자 등 40여 명이 참석한 가운데",
-    "published_at": "2026-10-13T15:58:30+09:00",
-    "cluster_id": "c7da",
-    "publisher": "센트럴경제",
-    "title_clean": "충북, 지역건설업체 공공계약 참여 늘린다... 건설경기 침체에 지원책 모색",
-    "summary": "충청북도가 건설경기 침체 극복을 위해 지역건설업체의 공공계약 입찰 참여 기회를 확대하고 관급공사 설계 단가를 일괄 산정해 배포하는 지원책을 추진한다. 도청과 11개 시·군, 건설업계가 참석한 회의에서 건설업 활성화 방안을 논의했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T17:50:10+09:00",
-    "importance": 2
   }
 ]
