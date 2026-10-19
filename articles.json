@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천시, 제물포구 철강산업 위기 대응 총력…정부 지원 확보 나서 - pointdaily.co.kr",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322792",
+    "description": "제물포구 철강산업은 장기화된 건설경기 침체와 중국산 저가 철강재 유입, 미국의 관세 강화, 산업용 전기요금 인상 등 복합적인 악재로 어려움을 겪고 있다. 현대제철은 전기로 제강공장과 소형 압연공장 영구 폐쇄...",
+    "published_at": "2026-10-19T15:32:00+09:00",
+    "cluster_id": "99bf",
+    "publisher": "pointdaily.co.kr",
+    "title_clean": "인천시, 제물포구 철강산업 위기 대응 총력…정부 지원 확보 나서",
+    "summary": "인천 제물포구 철강산업이 건설경기 침체, 중국산 저가 제품 유입, 관세 강화, 전기요금 인상 등 복합 악재로 위기를 겪고 있으며, 현대제철이 공장 영구 폐쇄를 추진 중이다. 인천시가 정부 지원 확보에 나서고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T15:40:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32245,22 +32261,6 @@
     "summary": "코오롱글로벌이 국토교통부 스마트건설 기술실증 지원사업과 창업진흥원 프로그램을 통해 6건의 AI 기반 혁신기술 현장 실증에 착수했다. 지능형 카메라 등 스마트빌딩 자율운영 기술이 실제 건설 현장에 적용되는 단계로 진입하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-14T11:49:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "“텐트 치고 기다린 신축 전세”…대구 흥행 이끈 CR리츠, 부산으로 - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12175432",
-    "description": "정부는 2024년 3월 비상경제장관회의에서 ‘건설경기 회복지원 방안’을 발표하며 세제지원을 받는 CR리츠를 10년 만에 다시 도입했다. 지방 미분양 주택을 매입하는 CR리츠에는 취득세 중과 배제(준공 후 미분양주택...",
-    "published_at": "2026-10-14T11:29:00+09:00",
-    "cluster_id": "68cd",
-    "publisher": "mk.co.kr",
-    "title_clean": "“텐트 치고 기다린 신축 전세”…대구 흥행 이끈 CR리츠, 부산으로",
-    "summary": "정부가 2024년 3월 건설경기 회복 지원책으로 10년 만에 CR리츠를 재도입했으며, 지방 미분양 주택 매입 시 취득세 중과를 배제하는 세제지원을 제공한다. 대구에서의 성공 사례를 바탕으로 부산 등 지역으로 확대되고 있어 건설업계의 미분양 해소와 수주 기회 증대에 도움이 될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T11:39:42+09:00",
     "importance": 2
   }
 ]
