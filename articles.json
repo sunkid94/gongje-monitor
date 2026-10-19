@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안전시설 미설치 공사장서 추락사…건설업체 대표 집행유예 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ydVNTclctVjBCdDB6THlNTWFORjNOb3pweGZYR2lNQnB4UU5HS2dRandFTlpPX1o5SWpHRVExMUh6YVdRbnpna2ZENEc4bmJMRnJvSDl6emJCcVXSAWBBVV95cUxOQWM1WGZ4S2FPd3pqek12VmFpUjFhVGppdVBncHh4YjlWc2NwdTVuMHpBRnRveFFjM2hmb280OVZnb05fbkM1LXV3ejdSbi1sekc0STZtWmpKZ2dTTHpuVGs?oc=5",
+    "description": "(부산=연합뉴스) 차근호 기자 = 건물 신축 공사 현장에서 추락방지 시설을 제대로 설치하지 않아 배관업체 대표가 숨진 사고와 관련해 건설업체 대...",
+    "published_at": "2026-10-20T07:01:01+09:00",
+    "cluster_id": "9b33",
+    "publisher": "연합뉴스",
+    "title_clean": "안전시설 미설치 공사장서 추락사…건설업체 대표 집행유예",
+    "summary": "건물 신축 공사 현장에서 안전시설 미설치로 인한 추락사망 사고가 발생했고, 건설업체 대표가 집행유예 처분을 받았다. 건설업계의 안전 관리 부실과 법적 책임이 강조되는 사건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T07:15:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32244,22 +32260,6 @@
     "publisher": "울산일보",
     "title_clean": "장홍수 대한건설협회 울산시회장, 제주서 홀인원 기록",
     "summary": "장홍수 대한건설협회 울산시회장이 제주에서 열린 '2026 건설산업 CEO 미래전략포럼'에 참석 중 홀인원을 기록했다. 전국 건설업계 CEO들이 모여 산업의 미래 발전 방향과 경쟁력 강화 방안을 논의하며 업계 화합을 도모했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-14T23:10:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도, 건설현장 사고 예방 총력…공공·민간 관계자 260명 안전교육 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5keXNCcnpRSVo5Ry1lNEdXQ1dMU2VsQ3FxcW81Mmd4c1p2TFJtRHZZc1VvcmpoWWx5UVdRT2JNekFlT2Z4YlBCWkJmUEhrZHF4VElJOGNJX01jQVdoTTdNOA?oc=5",
-    "description": "경기도가 건설현장 산업재해 예방과 안전관리 역량 강화를 위해 공공·민간 건설안전 관계자 260여 명을 대상으로 .",
-    "published_at": "2026-10-14T23:04:56+09:00",
-    "cluster_id": "455b",
-    "publisher": "아시아경제",
-    "title_clean": "경기도, 건설현장 사고 예방 총력…공공·민간 관계자 260명 안전교육",
-    "summary": "경기도가 건설현장 산업재해 예방을 위해 공공·민간 건설안전 관계자 260여 명을 대상으로 안전교육을 실시하고 있다. 이는 건설현장 사고 예방과 안전관리 역량 강화를 목표로 하는 정책이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-14T23:10:50+09:00",
     "importance": 2
