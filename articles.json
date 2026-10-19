@@ -20508,6 +20508,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "일본 건설 현장, 생성형 AI로 위험예지부터 작업원 배정까지 관리한다 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40WlNOSDZuejBNTkFVZG1hRVFCaGhpREd6Vmg2Q1pxV3d5d200Ti00N3lKMTBldVB5SjN4aHRLcW9lWmRsdGp4Vm5LQWlyRFJWQnJV?oc=5",
+    "description": "일본 오츠카상회 사례로 본 건설 현장 생성형 AI 활용 2026년 10월, 일본 건설 정보기술(IT) 시장에서 주목할 만한 제품이 나왔다. 오츠카상회가 건설업용 시스템 SMILE V 시리즈에 생성형 인공지능(AI) 기반 도구",
+    "published_at": "2026-10-20T05:24:29+09:00",
+    "cluster_id": "4e66",
+    "publisher": "유스연합",
+    "title_clean": "일본 건설 현장, 생성형 AI로 위험예지부터 작업원 배정까지 관리한다",
+    "summary": "일본 건설업체 오츠카상회가 건설업용 시스템 SMILE V 시리즈에 생성형 AI 기반 도구를 추가해 위험예지, 작업원 배정 등 현장 관리를 자동화한다. 이는 건설업의 생산성 향상과 안전관리 개선을 가능케 하는 산업 고도화 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-20T05:30:28+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "건설현장서 숨진 10명 중 8명, 일한 지 6개월도 안된 ‘초보’ - 동아일보",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xalU4Qzg3RnplYXNWV3UyX0xPYy1TbkdvQmpxNnNvaV9QMnI2SGI0anJGRHNVWm5yeGhtb3F0Q2RNaWFYd0tQWHFmM0p5MXF4eHRqc04wVV9zSWx5cngwZ3IxU0FFelhrdzFQRlF0eFVWNmpFYWfSAWZBVV95cUxQcklZbU9CYzRsTHRkZkFZQXkwUXVMY21Rc3k3ZVdwajdJSndHdmxiOWZKYVlUT2ExbXhJb0xtQ3o5SzFHVjY4UDl4ekNqbmVnbXpfdVMtSEpZdGVKQV9LLWtjLWQ1TFE?oc=5",
     "description": "지난해 산업재해 사망자 2명 가운데 1명은 근속 기간 6개월 미만의 신입 근로자였던 것으로 나타났다. 18일 국회 기후에너지환경노동위원회 소속 김태선 더불어민주당 의원이 한국산업안전보건공단에서 받은 자료에 따르면 지난해 산재 사고 사망자 872명 가운데 근속 기간 6…",
@@ -32247,21 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-14T20:35:29+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "용인 반도체클러스터 근로자 숙소 9634호 인허가…PF 자금난 해소가 다음 과제 - 폴리타임즈",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzVG9kUXFwWGR2S3MyWHQzckdsS05LYThTaHFLMEtYWGhHX013UXJSZm5FcGlPd2huQXliRXgyMUdOaUhHVnJOak1uTXV6bl9Yc0t3YmJqSVVCMnBIaVJ4Xzd0NnpLQllVSVB3?oc=5",
-    "description": "용인특례시가 반도체클러스터 건설근로자들의 안정적인 주거시설 확보를 위해 건축기준 정비와 인허가 지원에 이어 금융 규제 개선에도 나섰다. 지난 3월 임대형 기숙사",
-    "published_at": "2026-10-14T12:27:19+09:00",
-    "cluster_id": "b237",
-    "publisher": "폴리타임즈",
-    "title_clean": "용인 반도체클러스터 근로자 숙소 9634호 인허가…PF 자금난 해소가 다음 과제",
-    "summary": "용인특례시가 반도체클러스터 건설근로자 숙소 9634호에 대한 인허가를 완료하고, 건축기준 정비 및 금융 규제 개선에 나섰다. PF 자금난 해소가 향후 주요 과제로 남아있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T20:30:30+09:00",
-    "importance": 2
   }
 ]
