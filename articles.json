@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이천시의회, 내년 출연계획·민간위탁 등 34건 심사 - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=718998",
+    "description": "사회복지사 등의 처우 및 지위 향상, 지역건설산업 활성화 및 지역건설노동자 우선고용 관련 개정조례안과 마을버스운송사업 등록 및 지원에 관한 조례안 등을 심사한다. 제6기 지역사회보장계획(2027~2030년) 수립과...",
+    "published_at": "2026-10-19T21:11:00+09:00",
+    "cluster_id": "e4f2",
+    "publisher": "newstown.co.kr",
+    "title_clean": "이천시의회, 내년 출연계획·민간위탁 등 34건 심사",
+    "summary": "이천시의회가 내년 출연계획 및 민간위탁 등 34건을 심사 중이며, 사회복지사 처우 개선, 지역건설산업 활성화 및 건설노동자 우선고용 관련 조례안을 검토하고 있습니다. 지역건설산업 활성화와 건설노동자 우선고용 정책을 추진하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T21:25:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,22 +32262,6 @@
     "summary": "정부가 2024년 3월 건설경기 회복 방안으로 10년 만에 CR리츠를 재도입했으며, 대구에서 신축 전세주택 수요가 확인되면서 부산으로 확대 추진 중이다. CR리츠는 지방 미분양 주택 매입 시 취득세 중과 배제 등 세제 혜택을 제공하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-14T17:50:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 14일) - hankyung.com",
-    "link": "https://www.hankyung.com/article/202610142137i",
-    "description": "국내 건설경기 부진과 중국산 저가 공세가 이어지는 만큼 산업용 전기료 인하와 AI 데이터센터 수요 확대가 실제 실적 개선으로 연결되는지가 투자 판단의 관건이다. 원문 링크 산업▶\"첨단 패키징이 AI 시대 산업 성패...",
-    "published_at": "2026-10-14T17:38:00+09:00",
-    "cluster_id": "0ea4",
-    "publisher": "hankyung.com",
-    "title_clean": "오늘의 프리미엄9 콘텐츠 다이제스트(10월 14일)",
-    "summary": "건설경기 부진과 중국산 저가 공세 속에서 산업용 전기료 인하와 AI 데이터센터 수요 확대가 실적 개선의 핵심 변수로 작용할 것으로 전망된다. 첨단 패키징 기술이 AI 시대 산업의 성패를 좌우할 것으로 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-14T17:45:43+09:00",
     "importance": 2
   }
 ]
