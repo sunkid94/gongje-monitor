@@ -4505,6 +4505,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현산, 용산 장애인·비장애인 걷기대회 지원 - 중소기업신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ONThlNTVzc1pHNzhrU3FPSEs5OFN1ZU9obHMzVlV6TmRqVmxLczBTTU9XVlZ0NzM4NEtNM28xem4wbm51Zi1CaUV1ZzFjSGVvYVBBMEVrbjZNTFY2OGlOZ3RtWVpPdUpBcGdQUw?oc=5",
+    "description": "IPARK현대산업개발은 지난 15일 서울 용산구 이촌한강공원에서 열린 장애인·비장애인 걷기대회를 지원하고 임직원 봉사활동을 진행했다고 19일 밝혔다.이번 행사는 구립용산장애인복지관이 주관하고 용산복지재단이 협력해 장애인과 비장애인이 함께 걷고 교류하는 자리로 마련됐다.IPARK현산은 행사 운영을 위한 기부금을 전달하고 임직원 10여 명이 현장 봉사에 참여해 행사 진행을 지원했다.IPARK현산은 본사가 위치한 용산을 중심으로 주거환경 개선과 복지시설 지원, 환경 정화 등 지역 사회공헌 활동을 이어가고 있다고 설명했다.",
+    "published_at": "2026-10-19T16:42:50+09:00",
+    "cluster_id": "c2e0",
+    "publisher": "중소기업신문",
+    "title_clean": "IPARK현산, 용산 장애인·비장애인 걷기대회 지원",
+    "summary": "IPARK현대산업개발이 용산구 이촌한강공원에서 열린 장애인·비장애인 걷기대회를 지원하고 임직원 봉사활동을 진행했다. 본사 소재지인 용산을 중심으로 지역사회공헌활동을 지속하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T01:50:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20486,22 +20502,6 @@
     "summary": "인하대학교가 제조·물류·로봇 산업의 AI 전환을 주도할 석·박사 인재 양성 사업을 추진 중이다. KG스틸, 삼성중공업 등과의 산학협력을 통해 산업 현장의 실제 문제를 교육과 연구에 반영하며 전문 인력 양성에 집중하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-10T09:12:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "침체·반등 반복하는 부동산 시장…과거 침체기 분양 단지 가격 상승 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2633913",
-    "description": "‘한강 푸르지오 리버프론트’는 시네폴리스개발이 공급하고 대우건설이 시공하며 김포시 고촌읍 향산리 일원에 지하 4층~지상 38층 12개 동 전용면적 84~180㎡ 아파트 2432세대 규모로 조성된다. 주거형 오피스텔 250실과...",
-    "published_at": "2026-10-10T09:00:00+09:00",
-    "cluster_id": "ccae",
-    "publisher": "etoday.co.kr",
-    "title_clean": "침체·반등 반복하는 부동산 시장…과거 침체기 분양 단지 가격 상승",
-    "summary": "부동산 시장의 침체와 반등이 반복되는 가운데 과거 침체기에 분양된 단지들의 가격이 상승하고 있다. 한강 푸르지오 리버프론트 등 대규모 신규 분양 단지들이 공급되면서 건설 시장에 활력을 가져오고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-10T09:02:48+09:00",
     "importance": 2
   },
   {
