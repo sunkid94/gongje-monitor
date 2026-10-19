@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[패트롤] 광주시의회-이천시의회 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20261020029518402",
+    "description": "사회복지사 등의 처우 및 지위 향상, 지역건설산업 활성화와 지역건설노동자 우선고용, 마을버스운송사업 등록 및 지원에 관한 조례안 등을 검토한다. 또 제6기 지역사회보장계획(2027~2030년) 수립과 2026년도 3분기...",
+    "published_at": "2026-10-20T00:54:00+09:00",
+    "cluster_id": "46f2",
+    "publisher": "ekn.kr",
+    "title_clean": "[패트롤] 광주시의회-이천시의회",
+    "summary": "광주시의회와 이천시의회에서 사회복지사 처우 개선, 지역건설산업 활성화 및 건설노동자 우선고용, 마을버스 운송사업 지원 등 관련 조례안을 검토한다. 지역사회보장계획 수립 등 행정 업무도 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T01:00:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-14T19:45:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "울산항만공사, VR로 건설현장 재해 미리 겪는다…감리단·안전관리자 체... - tournews21.com",
-    "link": "https://www.tournews21.com/news/articleView.html?idxno=145721",
-    "description": "울산항만공사(UPA·사장 변재영)가 14일 가상현실(VR) 기술을 활용한 건설현장 안전보건 체험교육을 실시했다. 울산항만공사는 이날 오전 공사 2층 다목적홀에서 '울산항 건설현장 가상현실 안전보건 체험교육'을 열었다....",
-    "published_at": "2026-10-14T19:16:00+09:00",
-    "cluster_id": "004f",
-    "publisher": "tournews21.com",
-    "title_clean": "울산항만공사, VR로 건설현장 재해 미리 겪는다…감리단·안전관리자 체...",
-    "summary": "울산항만공사가 VR 기술을 활용한 건설현장 안전보건 체험교육을 실시했다. 감리단과 안전관리자 등이 가상현실로 재해 상황을 미리 경험하며 안전의식을 높이는 프로그램이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T19:30:28+09:00",
-    "importance": 2
   }
 ]
