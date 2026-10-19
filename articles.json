@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "알데바 김진오 대표·삼성중공업 이태구 프로, 2026년 10월 '대한민국 엔... - mtnews.net",
+    "link": "https://www.mtnews.net/news/articleView.html?idxno=26269",
+    "description": "과학기술정보통신부(이하 과기정통부)와 한국산업기술진흥협회는 산업 현장의 기술혁신을 장려하기 위해 마련된 '대한민국 엔지니어상'의 2026년 10월 수상자로 ㈜알데바 김진오 대표이사와 삼성중공업㈜ 이태구...",
+    "published_at": "2026-10-19T15:50:00+09:00",
+    "cluster_id": "b183",
+    "publisher": "mtnews.net",
+    "title_clean": "알데바 김진오 대표·삼성중공업 이태구 프로, 2026년 10월 '대한민국 엔...",
+    "summary": "과학기술정보통신부와 한국산업기술진흥협회가 알데바 김진오 대표이사와 삼성중공업 이태구 프로를 2026년 10월 '대한민국 엔지니어상' 수상자로 선정했다. 산업 현장의 기술혁신을 장려하기 위해 마련된 상으로, 우수 엔지니어를 발굴하고 기술 발전을 촉진하는 정부의 노력을 반영한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-19T15:55:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-09T15:08:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[단독] 대우건설, 이라크 침매터널 공사 현장서 사망사고…바다서 시신... - rightknow.co.kr",
-    "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34942",
-    "description": "/대우건설 대우건설 이라크 침매터널 공사 현장에서 근로자 사망사고가 발생했던 것이 뒤늦게 알려졌다. 9일 대우건설 등에 따르면 이번 사망사고가 발생한 지점은 이라크 바스라주에 위치한 항만 건설 프로젝트로...",
-    "published_at": "2026-10-09T14:52:00+09:00",
-    "cluster_id": "c3ef",
-    "publisher": "rightknow.co.kr",
-    "title_clean": "[단독] 대우건설, 이라크 침매터널 공사 현장서 사망사고…바다서 시신...",
-    "summary": "대우건설이 이라크 바스라주 항만 건설 프로젝트 침매터널 공사 현장에서 근로자 사망사고를 발생시켰다. 사망자의 시신이 바다에서 발견된 것으로 알려졌으며, 사고 발생 후 뒤늦게 언론에 보도되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-09T14:59:08+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
