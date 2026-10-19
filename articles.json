@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[특징주] 대우건설 장중 약보합세 1만4700원 기록 : 기업주식정보 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kOFV4azNEYkdHU2FqSUNFbURMcXViNUlpMEJ4aVI5NkY5Qy1FUVE1LU1kb0FUcXlSVWI2ZWEzN1o1bGlocDdCbVNLQQ?oc=5",
+    "description": "대우건설이 뚜렷한 악재 없이 전 거래일보다 30원 내린 1만4,700원에 거래되며 장중 약보합세를 보이고 있다. 최근 일주일간 신규 수주 관련 공시가 잇따랐으나 주가 상승으로 이어지지 못했다. 향후 주가는 1만4,700원 선의 지지선 형성 여부와 업황 변수 등에 영향을 받을 전망이다.",
+    "published_at": "2026-10-19T01:37:46+00:00",
+    "cluster_id": "aef4",
+    "publisher": "재경일보",
+    "title_clean": "[특징주] 대우건설 장중 약보합세 1만4700원 기록 : 기업주식정보",
+    "summary": "대우건설이 1만4,700원에 약보합세를 보이고 있으며, 최근 신규 수주 공시에도 불구하고 주가 상승으로 이어지지 못하고 있다. 향후 주가는 지지선 형성 여부와 업황 변수에 따라 결정될 것으로 전망된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-19T17:55:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20472,19 +20488,19 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "현장 뛰던 건설사들, 가족친화로 조직문화 바꾼다 - seoulfn.com",
-    "link": "https://www.seoulfn.com/news/articleView.html?idxno=639704",
-    "description": "9일 각사의 지속가능경영보고서에 따르면 현대건설, 대우건설, GS건설, DL이앤씨, HDC현대산업개발의 2025년 전체 육아휴직 사용률은 평균 27.1%로 집계됐다. 2024년 평균 16.4%와 비교하면 10.6%p 상승했다. 이 가운데 GS건설은...",
-    "published_at": "2026-10-09T14:00:00+09:00",
-    "cluster_id": "ab0e",
-    "publisher": "seoulfn.com",
-    "title_clean": "현장 뛰던 건설사들, 가족친화로 조직문화 바꾼다",
-    "summary": "주요 건설사들이 2025년 육아휴직 사용률을 평균 27.1%로 높여 전년 대비 10.6%p 상승시켰다. 건설업계가 가족친화적 조직문화로의 전환을 추진 중이다.",
+    "title": "경남도회, ‘2026년 찾아가는 회원사 소통 세미나’ 개최 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327022",
+    "description": "대한전문건설협회 경남도회(회장 김주생)는 지난 13일 거창과 함양에서 ‘2026년 찾아가는 회원사 소통 세미나’를 개최했다.‘2026년 찾아가는 회원사 소통 세미나’는 도내 회원사를 대상으로 전문건설업계 주요 현안사항과 협회의 추진사항을 안내하고, 지역 회원사의 다양한 의견 청취와 소통을 확대하기 위해 진행하는 행사다.도회는 세미나를 통해 변화하는 건설 환경에 대한 회원사의 대응역량 강화를 위해 건설현장의 안전규정 및 불법하도급 단속 강화, 건설업 관련 주요제도 안내 및 유의사항 등을 설명하고, 회원사 권익보호 및 제도개선 방안의",
+    "published_at": "2026-10-19T17:47:04+09:00",
+    "cluster_id": "1457",
+    "publisher": "대한전문건설신문",
+    "title_clean": "경남도회, ‘2026년 찾아가는 회원사 소통 세미나’ 개최",
+    "summary": "대한전문건설협회 경남도회가 거창과 함양에서 회원사 소통 세미나를 개최했다. 건설 안전규정, 불법하도급 단속, 제도개선 등 업계 현안사항을 안내하고 회원사의 의견을 청취하는 행사다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-10T06:08:05+09:00",
+    "collected_at": "2026-10-19T17:55:29+09:00",
     "importance": 2
   },
   {
@@ -32246,21 +32262,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-14T14:40:06+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "LH 신혼희망타운 하자 6213건인데 벌점 '0건'... 시공사 평가점수는 98점 - insight.co.kr",
-    "link": "https://www.insight.co.kr/news/577729",
-    "description": "실제 벌점 부과 대상에 해당하는 부실시공이 있었는지, LH가 관련 조사와 판단을 적절하게 수행했는지가 확인돼야 할 부분이다.이런 가운데 A사는 건설산업기본법에 따른 건설사업자 간 상호협력평가에서 2024년 97점...",
-    "published_at": "2026-10-14T14:22:00+09:00",
-    "cluster_id": "3dff",
-    "publisher": "insight.co.kr",
-    "title_clean": "LH 신혼희망타운 하자 6213건인데 벌점 '0건'... 시공사 평가점수는 98점",
-    "summary": "LH 신혼희망타운에서 6213건의 하자가 적발되었으나 시공사에 벌점이 부과되지 않아 감리 과정의 적절성이 의문의 대상이 되고 있다. 부실시공에 대한 LH의 조사·판단 절차가 제대로 이루어졌는지 검증이 필요한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-14T14:29:42+09:00",
-    "importance": 4
   }
 ]
