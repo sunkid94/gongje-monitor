@@ -4505,6 +4505,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대 12.7조·삼성 9.6조 … 9개사 전년 실적 넘어 연말 50조 돌파 가능... - queen.co.kr",
+    "link": "http://www.queen.co.kr/news/articleView.html?idxno=464944",
+    "description": "GS건설은 5조5477억 원, 대우건설은 4조3530억 원, 롯데건설은 4조110억 원을 기록했다. 포스코이앤씨의 누적 수주액은 3조8691억 원으로 집계됐다. 대형 재건축 사업의 수주 여부가 연간 실적을 좌우하는 가운데 상위...",
+    "published_at": "2026-10-20T07:46:00+09:00",
+    "cluster_id": "fbea",
+    "publisher": "queen.co.kr",
+    "title_clean": "현대 12.7조·삼성 9.6조 … 9개사 전년 실적 넘어 연말 50조 돌파 가능...",
+    "summary": "현대·삼성 등 9개 주요 건설사가 전년 실적을 초과하며 연말 50조 원대 수주액 달성이 가능할 것으로 예상된다. GS건설, 대우건설, 롯데건설, 포스코이앤씨 등이 각각 3조~5조 원대의 누적 수주액을 기록했으며, 대형 재건축 사업의 수주 여부가 연간 실적을 결정하는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-20T07:50:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20486,22 +20502,6 @@
     "summary": "두산에너빌리티가 미국 스페이스XAI에 공급할 380MW급 가스터빈 제작을 완료하고 출하식을 개최했다. 해외 가스터빈 수출 첫 사례로, 향후 추가 수주 및 실적 확대 가능성에 주목된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-10T11:57:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[정비판 다음 격전지는 용산②] 여의도·목동 다음은 용산…현대·삼성·GS·대우 '대어 쟁탈전' - 데일리한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KLXJTTDB1c3NyRVBkU28yZ0dvT1JPdjlSaXprb2NZMF9rTUN1SUtQdWlfVjJtYnVHZGMwaEVvZlQwbnRPSWtxS2NfSEZfMW5YRXFnLVpRdUE2RGNVRnJlVURBbUNtQVZWZDdFREVzc9IBc0FVX3lxTE1GU2JmRWJSck9XMGxYWFNmYkRCMllZZmlFMGYteDdYVjNWaXVUV01tR0g0TnBoU3UzczI1ZHlzbDhYQmp0RkVjSTZEZ2JYRUdIVEhlUjNXS05GcXpPVDlld0JrZ0hoNU5IVE5OR3drYnMzbGc?oc=5",
-    "description": "[데일리한국 김하수 기자] 서울 여의도와 목동 재건축사업에 집중됐던 대형건설사들의 수주전 무대가 용산으로 이동하고 있다. 서울 도심 핵심 입지인 용산에서 조 단위 정비사업들이 속도를 내면서 현대건설·삼성물산·GS건설·대우건설 등 주요 건설사들의",
-    "published_at": "2026-10-10T11:00:00+09:00",
-    "cluster_id": "cf63",
-    "publisher": "데일리한국",
-    "title_clean": "[정비판 다음 격전지는 용산②] 여의도·목동 다음은 용산…현대·삼성·GS·대우 '대어 쟁탈전'",
-    "summary": "서울 여의도·목동 재건축 이후 용산 정비사업이 새로운 수주 격전지로 부상하고 있다. 현대건설·삼성물산·GS건설·대우건설 등 주요 건설사들이 조 단위 대형 정비사업 수주를 놓고 경쟁을 벌이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-10T11:27:47+09:00",
     "importance": 2
   },
   {
