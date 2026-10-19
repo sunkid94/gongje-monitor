@@ -20505,6 +20505,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 경상권 민간 건설현장 75곳 단속 - gnnews.co.kr",
+    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=647747",
+    "description": "당시 불법하도급 29건과 건설산업기본법 위반사항 60건을 적발했으며, 건설기계 대여대금 체불 11건에 대해서는 1억2580만원의 체불액을 해소했다. 이번에는 수도권 점검 성과를 바탕으로 경상권에 단속역량을 집중해...",
+    "published_at": "2026-10-19T20:10:00+09:00",
+    "cluster_id": "93d8",
+    "publisher": "gnnews.co.kr",
+    "title_clean": "국토부, 경상권 민간 건설현장 75곳 단속",
+    "summary": "국토부가 경상권 건설현장 75곳에 대한 단속을 실시해 불법하도급 29건, 건설산업기본법 위반 60건을 적발했다. 건설기계 대여대금 체불 11건(1억2580만원)을 해소하며 수도권에 이어 지역 단속을 확대하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T20:15:17+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "1.3조 대전역세권 개발 좌초 위기…한화, 토지대금 납부 불이행 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20103517?ref=naver",
+    "description": "2020년 한화건설 컨소시엄이 우선협상대상자로 선정되면서 개발에 속도가 붙는 듯했으나 이후 건설경기 악화와 공사비 급등, 프로젝트파이낸싱(PF) 조달비용 상승 등이 겹치면서 사업 추진에 제동이 걸렸다. 한화건설은...",
+    "published_at": "2026-10-19T20:08:00+09:00",
+    "cluster_id": "a9ad",
+    "publisher": "sedaily.com",
+    "title_clean": "1.3조 대전역세권 개발 좌초 위기…한화, 토지대금 납부 불이행",
+    "summary": "1.3조 규모 대전역세권 개발사업에서 우선협상대상자인 한화건설이 토지대금 납부를 불이행하며 사업 좌초 위기에 처했다. 건설경기 악화, 공사비 급등, PF 조달비용 상승 등이 복합적으로 작용한 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T20:15:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32231,37 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-14T17:22:24+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "울산항만공사, VR 안전교육 확대 추진…체험 넘어 현장 적용 모색 - weekly.hankooki.com",
-    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7188943",
-    "description": "울산항만공사가 가상현실(VR)을 활용한 건설현장 안전교육을 실시하고, 교육 내용을 실제 작업 현장의 사고 예방 활동으로 연결하는 방안을 모색하고 있다. 사고 상황을 가상으로 체험하는 데 그치지 않고 위험 요인을...",
-    "published_at": "2026-10-14T17:04:00+09:00",
-    "cluster_id": "8071",
-    "publisher": "weekly.hankooki.com",
-    "title_clean": "울산항만공사, VR 안전교육 확대 추진…체험 넘어 현장 적용 모색",
-    "summary": "울산항만공사가 VR을 활용한 건설현장 안전교육을 확대하며, 체험을 넘어 실제 현장의 사고 예방 활동으로 연결하는 방안을 추진 중이다. 가상 사고 체험을 통해 위험 요인을 사전에 인식하고 대응 능력을 강화하려는 취지다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T17:10:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "GS건설, 미청구공사 절반 줄이고 PF 부담 축소…3분기 실적 반등 기대 - 토요경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PVGdsSkxDT280M0d2dDh1bGZ5VG1OQ3BqeklvRjMzREU4QmktRmJTb0ZQaVE2cGFReUg2SGJod2drR1lmcklSU29SQlppNi1sNFNrZ2dXYWJhX195eVlrTdIBb0FVX3lxTE1nYjFrWHpBcnpKaE5qMUYzc3hNMFdYU2FzT1pKN2NIWUdHZTNPeUppSkhMTmc0OEN2Q0pZVlRFbHF0RFJOblRYVU9xQkRWUXVYNGhBc0tQenVfbmhWSmRvZFdrNDhqN3dRUTVzMDEybw?oc=5",
-    "description": "상반기 미청구공사 51%·미착공 PF 22% 감소…부채비율 개선2분기 매출총이익률 14.6%…주택·인프라 수익성 회복수주잔고 73조원·분양 확대…3분기 영업익 1100억원대 전망",
-    "published_at": "2026-10-14T14:44:28+09:00",
-    "cluster_id": "6f24",
-    "publisher": "토요경제",
-    "title_clean": "GS건설, 미청구공사 절반 줄이고 PF 부담 축소…3분기 실적 반등 기대",
-    "summary": "GS건설이 미청구공사 51%, 미착공 PF 22%를 감소시키고 부채비율을 개선했으며, 2분기 매출총이익률 14.6%로 수익성을 회복했다. 수주잔고 73조원과 분양 확대를 바탕으로 3분기 영업익 1100억원대를 전망하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T17:05:33+09:00",
-    "importance": 2
   }
 ]
