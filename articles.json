@@ -20508,6 +20508,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[라이벌 열전] [가구/인테리어] ① 실적 I 고민 깊어지는 한샘·리바트.... - topdaily.kr",
+    "link": "https://www.topdaily.kr/articles/112400",
+    "description": "B2C 가구는 이사와 리모델링 등에 따른 교체 수요가 발생하는 반면, B2B 가구는 신규 주택 공급과 건설사 발주 물량에 영향을 크게 받는 구조인 만큼, 현대리바트가 상대적으로 건설경기 침체 영향이 더욱 크게 받고...",
+    "published_at": "2026-10-20T08:30:00+09:00",
+    "cluster_id": "6e66",
+    "publisher": "topdaily.kr",
+    "title_clean": "[라이벌 열전] [가구/인테리어] ① 실적 I 고민 깊어지는 한샘·리바트....",
+    "summary": "B2C 가구업체인 한샘과 B2B 가구업체인 현대리바트가 시장 구조의 차이로 인해 다른 경영 어려움을 직면 중입니다. 현대리바트는 건설경기 침체에 따른 신규 주택 공급 감소와 건설사 발주 물량 감소의 영향을 더 크게 받고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T08:40:08+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "[지역 이슈] 대구시, 3년8개월 만에 주택 공급 규제 푼다…인허가 단축... - startuptoday.co.kr",
     "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=816392",
     "description": "인허가 절차를 간소화하고 재건축·재개발 사업의 추진 여건을 개선하는 한편 지역 건설업체의 참여 기회를 확대해 침체한 지역 건설경기 회복을 유도한다는 계획이다. 추경호 대구시장은 지난 1일...",
@@ -32247,21 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-15T00:00:48+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이천시의회, 19일부터 임시회…돌봄·교통·지역경제 등 34건 심사 - newstown.co.kr",
-    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=718585",
-    "description": "지역경제 분야에는 지역건설산업 활성화 및 지역건설노동자 우선고용에 관한 조례 개정안이 포함됐다. 소상공인 특례보증과 중소기업 육성자금·특례보증 출연계획 동의안도 심사를 앞두고 있다. 의회는 각 지원계획의...",
-    "published_at": "2026-10-14T23:25:00+09:00",
-    "cluster_id": "efd7",
-    "publisher": "newstown.co.kr",
-    "title_clean": "이천시의회, 19일부터 임시회…돌봄·교통·지역경제 등 34건 심사",
-    "summary": "이천시의회가 19일 임시회를 개최하여 지역건설산업 활성화 및 건설노동자 우선고용 조례 개정안, 소상공인 특례보증 및 중소기업 육성자금 등 34건을 심사할 예정이다. 지역 건설업계와 중소기업 지원을 위한 정책이 추진되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T23:40:47+09:00",
-    "importance": 2
   }
 ]
