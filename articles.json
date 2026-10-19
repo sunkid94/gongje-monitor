@@ -4505,6 +4505,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "거제시의원 기자회견 \"삼성중 하청노동자 차별하지 마라\" - 거제통영오늘신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYME5HWklxc0FqempiVXU2QVpzN1oxYVNYei01UU5Oc0JVSEg2QkpmRnJfNDJ2MjJ2TjJvVlBIUDRfXzdaeTRteFVIOTdMempMSVF6VG5LSjVmb3ZpN2VoX0VTZmRPWGNZR3dZ?oc=5",
+    "description": "김경습 거제시의원을 비롯한 4명의 시의원들은 19일 오후 2시 거제시청 브리핑룸에서 기자회견을 열고 “단 하루 출근하지 않았다는 이유로 격려금 전액을 지급하지 않는 것은 부당하다”며 삼성중공업에 미지급 격려금 지급과 차별적인 지급 기준 개선을 촉구했다.김 의원은 “한 달 동안 근무하지 않은 것도 아니고 장기 결근자도 아닌데, 특정한 두 날짜에 출근하지 않았다고 격려금을 지급하지 않았다”며 “퇴사자나 장기휴직자가 아닌 현장 노동자가 부득이한 사정으로 하루 출근하지 못했다는 이유로 격려금 전액을 받지 못하는 것이 정상적인 기업 경영이냐",
+    "published_at": "2026-10-19T20:36:17+09:00",
+    "cluster_id": "d79f",
+    "publisher": "거제통영오늘신문",
+    "title_clean": "거제시의원 기자회견 \"삼성중 하청노동자 차별하지 마라\"",
+    "summary": "거제시의원들이 삼성중공업을 상대로 하청노동자에 대한 차별적 격려금 지급 기준 개선을 촉구했다. 단 하루 출근하지 않았다는 이유로 격려금 전액을 미지급한 것이 부당하다며 즉각적인 개선을 요구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T20:50:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20485,22 +20501,6 @@
     "title_clean": "침체·반등 반복하는 부동산 시장…과거 침체기 분양 단지 가격 상승",
     "summary": "부동산 시장의 침체와 반등이 반복되는 가운데 과거 침체기에 분양된 단지들의 가격이 상승하고 있다. 한강 푸르지오 리버프론트 등 대규모 신규 분양 단지들이 공급되면서 건설 시장에 활력을 가져오고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-10T09:02:48+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "동탄1신도시 주요 입지 들어서는 ‘아크메르 동탄’, 10월 분양예정 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10897586?ref=naver",
-    "description": "KB부동산신탁이 시행하고 포스코이앤씨가 시공을 맡은 ‘아크메르 동탄’은 화성시 동탄구 반송동 일원에 위치한다. 단지는 지하 7층지상 최고 49층, 7개 동, 총 1,808가구 규모로 조성된다. 블록별로는 △아크메르...",
-    "published_at": "2026-10-10T09:01:00+09:00",
-    "cluster_id": "b122",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "동탄1신도시 주요 입지 들어서는 ‘아크메르 동탄’, 10월 분양예정",
-    "summary": "KB부동산신탁과 포스코이앤씨가 함께 추진하는 '아크메르 동탄'이 화성시 동탄구에 지하 7층 지상 49층 규모, 1,808가구 규모로 건설된다. 10월 분양예정으로 주요 입지에 위치한 대규모 주택 프로젝트다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-10T09:02:48+09:00",
     "importance": 2
   },
