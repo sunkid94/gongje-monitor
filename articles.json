@@ -20508,6 +20508,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "신협 5곳 중 1곳 자본잠식…올해 37곳 적기시정조치 대상 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20103482?ref=naver",
+    "description": "금융계 관계자는 “코로나 이후 금리가 단기간에 크게 오른 시기가 있었고 과거 부동산·건설경기 악화 등의 충격을 받은 영향”이라며 “올 들어 시중금리가 계속해서 오르고 있어 조합의 연체율 관리가 갈수록...",
+    "published_at": "2026-10-20T06:20:00+09:00",
+    "cluster_id": "8932",
+    "publisher": "sedaily.com",
+    "title_clean": "신협 5곳 중 1곳 자본잠식…올해 37곳 적기시정조치 대상",
+    "summary": "신용협동조합의 자본잠식 문제가 심화되고 있으며, 올해 37곳이 적기시정조치 대상으로 지정됐다. 금리 인상과 부동산·건설경기 악화의 누적 영향으로 조합의 연체율 관리가 어려워지고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T06:30:18+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "김인영·경기의회, 지방도 318호선 설성면 신필-대죽 도로건설공사 촉구 - 오토투데이",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yY2xkbU9jTV84ckNWeW9kWk81dEtBXzZVaHZUTllFSWRFWEFETE1lN21zdUNZem9jWDBzWUIxd3ZXN2pQZWlWU29CdndqazhIVFFPdmk5bDdvbU40QmJhRDJWV2Q3WFdfSmRiNmlYbw?oc=5",
     "description": "경기도의회 김인영 의원(더불어민주당, 이천2)은 14일 경기도청 배성호 건설국장을 만나 지방도 318호선 설성면 신필-대죽 도로건설공사와 지방도 329호선 일죽-",
@@ -32247,21 +32263,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-14T20:50:38+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "(설명) 문화일보, \"건설현장 안전위반 10건 중 4건 하청인데...처벌은 원청 대표만?\" 기사 관련 - 정책브리핑",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHNXMFRMUFZWMGFIQ3pyeUtoUEdXdVI4RWdPbGhCc0J3Y3MxQ2NGakFuN0dCazk4Qno5dzNMMmlEVV9Kc2hmSjZMakF5Uk9MV2M3R1cyelg3Y1V5YVVHLUZwRkQ3TXBMNjNKWkZsZWFxOWEyaGVXQnRwRVZmVm1fMmNzOTlDV180MFV5aQ?oc=5",
-    "description": "10.14.(수) 문화일보, 건설현장 안전위반 10건 중 4건 하청인데...처벌은 원청 대표만? 기사 관련 설명문 의: 중대산업재해수사과 정예슬(044-202-8946 - 정책브리핑 | 브리핑룸 | 사실은 이렇습니다",
-    "published_at": "2026-10-14T19:07:22+00:00",
-    "cluster_id": "7fa1",
-    "publisher": "정책브리핑",
-    "title_clean": "(설명) 문화일보, \"건설현장 안전위반 10건 중 4건 하청인데...처벌은 원청 대표만?\" 기사 관련",
-    "summary": "건설현장 안전위반 사건 중 하청업체 책임이 40%에 달하지만 처벌은 주로 원청 대표에게만 내려지는 불균형 문제를 지적한 기사. 산업재해 처벌의 공정성 논의를 촉발하는 내용.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-14T20:50:38+09:00",
-    "importance": 4
   }
 ]
