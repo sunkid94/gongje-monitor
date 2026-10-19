@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[AI기자가 묻고 답하다] 우리나라 목재산업은 정말 위기 상황인가요? - woodkorea.co.kr",
+    "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=91943",
+    "description": "건설경기가 나빠서 목재 소비가 일시적으로 줄어든 것 아닌가요? A. 건설경기 침체의 영향이 크지만 그것만으로 설명할 수는 없습니다. 우리나라 목재 소비는 건설경기와 저가 범용제품에 지나치게 의존해 왔습니다. 기존...",
+    "published_at": "2026-10-19T17:26:00+09:00",
+    "cluster_id": "52bb",
+    "publisher": "woodkorea.co.kr",
+    "title_clean": "[AI기자가 묻고 답하다] 우리나라 목재산업은 정말 위기 상황인가요?",
+    "summary": "우리나라 목재산업이 건설경기 침체뿐 아니라 저가 범용제품 의존도 심화 등 구조적 문제로 인해 위기 상황에 처한 것으로 분석됨. 목재 소비 부진이 일시적 경기변동이 아닌 산업 구조적 문제임을 지적.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T17:30:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-14T14:24:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "엔키아, AI 기반 ‘와이어로프 스마트 안전진단 솔루션’ 구축 본격 추진 - 철강금속신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tM0FZZjAxeFVRamo2MmFpTG5XbVo1Q2FlZVZkYVRCbGNoOFlyWkZJQXFYRG8tTGRDbTNmNVVwRlFpWEQ1eFJ4OENyZkQ4SEFQT2cwWFdUd1JwZnNqdXNRY3pCV1NQWXZqclE?oc=5",
-    "description": "IT운영 관리 솔루션 개발 전문기업 엔키아(대표이사 김영부, 봉건)가 AI 기반 ‘와이어로프 스마트 안전진단 솔루션’ 구축을 본격 추진한다.10월 14일부터 16일까지 일산 킨텍스 제1전시장에서 개최하는 ‘2026 한국건설·안전박람회’에 참가한 엔키아는 ‘와이어로프 스마트 안전진단 솔루션’ 제품군을 선보였다.엔키아의 ‘WSS 와이어로프 안전 진단 솔루션’은 다양한 산업 현장에서 와이어로프의 안전을 효율적으로 관리하고 사고 예방을 지원하는 IoT 기반 솔루션이다. WSS는 간편한 설치와 직관적인 모니터링을 제공하여 산업 현장의 작업자",
-    "published_at": "2026-10-14T14:18:09+09:00",
-    "cluster_id": "b30d",
-    "publisher": "철강금속신문",
-    "title_clean": "엔키아, AI 기반 ‘와이어로프 스마트 안전진단 솔루션’ 구축 본격 추진",
-    "summary": "IT운영 관리 솔루션 전문기업 엔키아가 AI 기반 '와이어로프 스마트 안전진단 솔루션'을 구축하고 2026 한국건설·안전박람회에서 선보였다. IoT 기반의 WSS 솔루션은 산업 현장의 와이어로프 안전을 효율적으로 관리하고 사고 예방을 지원한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T14:24:52+09:00",
-    "importance": 2
   }
 ]
