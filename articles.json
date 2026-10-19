@@ -4505,6 +4505,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "테라파워 SMR 뚫은 영광…\"매년 300억 추가 수주 확보\" - thelec.kr",
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=63932",
+    "description": "한화오션, 삼성중공업 등 고객사 대응 차원이다. 플랜트 부문은 배관·구조물·계기 장치 설비를 통합한 플랜트 모듈, 열 교환기·압력 용기 등 화공 기기 등을 주로 공급한다. 화공 기기는 화학 물질을 분리...",
+    "published_at": "2026-10-19T19:00:00+09:00",
+    "cluster_id": "45bd",
+    "publisher": "thelec.kr",
+    "title_clean": "테라파워 SMR 뚫은 영광…\"매년 300억 추가 수주 확보\"",
+    "summary": "한화오션 등 주요 고객사 대응으로 테라파워 SMR(소형모듈형원전) 프로젝트를 수주하며 매년 300억 원대 추가 수주 확보 전망. 플랜트 부문의 모듈화 설비와 화공 기기 공급을 통해 신사업 기회 창출.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T19:05:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20486,22 +20502,6 @@
     "summary": "건설 3사(대우건설, 롯데건설, DL이앤씨)가 상반기 영업이익을 크게 회복했으며, 이익 개선이 공사대금 회수 속도에 따라 현금흐름 개선으로 이어질 것으로 전망된다. 향후 대금 회수 실적이 차입금 상환 여력 확대의 핵심 요인이 될 것으로 보인다.",
     "sentiment": "positive",
     "collected_at": "2026-10-10T08:12:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "호황기 맞은 K조선, 상선 넘어 비선박으로…체질 개선 속도 - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202610080129",
-    "description": "삼성중공업은 바다 위 첨단 설비를 구축하는 해양 부문에서 차별화된 경쟁력을 공고히 하고 있다. 부유식 액화천연가스 생산·저장·하역 설비(FLNG) 분야의 압도적 입지를 바탕으로 수주 비중을 과감하게 끌어올렸다....",
-    "published_at": "2026-10-10T08:02:00+09:00",
-    "cluster_id": "172a",
-    "publisher": "sentv.co.kr",
-    "title_clean": "호황기 맞은 K조선, 상선 넘어 비선박으로…체질 개선 속도",
-    "summary": "삼성중공업이 FLNG 등 해양 설비 분야에서 차별화된 경쟁력을 바탕으로 수주 비중을 확대하고 있다. K조선이 호황기를 맞으면서 기존 선박을 넘어 비선박 사업으로 체질 개선을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-10T08:08:06+09:00",
     "importance": 2
   },
   {
