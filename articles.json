@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "SOC 예산 4% 늘어도 토목은 찬바람…주택·반도체가 회복 이끌까 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20261019001427",
+    "description": "건설경기를 떠받칠 정부 재정의 무게중심이 도로·철도에서 주택·반도체로 옮겨가고 있다. 공공주택과 첨단산업 투자 확대가 내년 건설투자를 끌어올릴 것이라는 전망이 나왔지만, 전통 토목사업에 의존하는...",
+    "published_at": "2026-10-19T18:39:00+09:00",
+    "cluster_id": "0e97",
+    "publisher": "newspim.com",
+    "title_clean": "SOC 예산 4% 늘어도 토목은 찬바람…주택·반도체가 회복 이끌까",
+    "summary": "정부 재정이 도로·철도 등 전통 토목사업에서 공공주택·반도체 등 첨단산업으로 재편되고 있다. 주택과 반도체 투자 확대로 내년 건설투자 회복이 예상되지만, 토목사업 의존도가 높은 기업들은 부정적 영향을 받을 우려가 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T18:50:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-14T15:50:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "해외건설 수주 반등에도…중동 전쟁에 500억 달러 목표 안갯속 - 아주경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02RU9oeXBPX0thcVZTcWpyb1VaVFg0UU9seFVwVE5ENWpKREs2N25TUGlMRmVQYWxHME5obkx1WklWQm5QVTFjVXhKQ0tlbEs2cGVpamhhdnlQd9IBWEFVX3lxTE81Qi1XUlhXYzlMU2VjT2JWRU9hMzdkVUtQYjdRTlBwcGs2bTJFQjlGM01KbmlSbS00UEtfdXM1RDN0N1lhSnhqdkl4a0lpVWY3Y1lzV180bmw?oc=5",
-    "description": "국내 건설사의 해외건설 수주액이 9월 들어 전월 대비 두 배 이상 증가했다. 중동 대형 플랜트 수주가 반등을 이끌었지만, 올해 누적 수주액은 여전히 전년의 절반 ...",
-    "published_at": "2026-10-14T15:38:31+09:00",
-    "cluster_id": "11c2",
-    "publisher": "아주경제",
-    "title_clean": "해외건설 수주 반등에도…중동 전쟁에 500억 달러 목표 안갯속",
-    "summary": "9월 해외건설 수주액이 전월 대비 두 배 이상 증가하며 중동 대형 플랜트 수주가 반등했다. 다만 중동 전쟁 불안정으로 인해 연간 500억 달러 목표 달성이 어려울 것으로 전망되며, 올해 누적 수주액은 여전히 전년의 절반 수준에 머물러 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-14T15:50:21+09:00",
-    "importance": 2
   }
 ]
