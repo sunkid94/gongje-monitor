@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "인천시, 제물포구 철강산업 위기 대응…정부 지원 확보 나서 - ppss.kr",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=316273",
+    "description": "건설경기 부진과 저가 수입 철강재 유입, 전기요금 상승 등 악재가 겹치면서 산업 현장의 어려움이 커진 데 따른 조치다. 인천시는 19일 산업통상자원부와 산업연구원, 관계부처 및 민간 전문가로 구성된 정부 실사단이...",
+    "published_at": "2026-10-19T19:05:00+09:00",
+    "cluster_id": "4f58",
+    "publisher": "ppss.kr",
+    "title_clean": "인천시, 제물포구 철강산업 위기 대응…정부 지원 확보 나서",
+    "summary": "인천시가 건설경기 부진, 저가 수입 철강재, 전기요금 상승 등으로 어려움을 겪는 제물포구 철강산업 위기에 대응하기 위해 정부 실사단을 구성해 지원 방안을 모색 중이다. 정부 부처와 민간 전문가가 참여해 산업 현장의 구조적 문제 해결을 추진하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T19:10:21+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-14T15:55:36+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안전보건공단 인천광역본부, 건설기계 사고 예방 세미나…\"작업계획·사... - beyondpost.co.kr",
-    "link": "http://www.beyondpost.co.kr/view.php?ud=202610141537158233be44c0aacd_30",
-    "description": "행사에는 인천을 비롯해 부천·고양·파주·의정부·남양주 등 경기 서북부지역 건설현장 안전관리자와 관리감독자, 기술지도기관 종사자, 건설기계조종사 등이 참석했다. 교육은 법령 중심의 건설기계·장비 안전수칙과...",
-    "published_at": "2026-10-14T15:50:00+09:00",
-    "cluster_id": "09c6",
-    "publisher": "beyondpost.co.kr",
-    "title_clean": "안전보건공단 인천광역본부, 건설기계 사고 예방 세미나…\"작업계획·사...",
-    "summary": "안전보건공단 인천광역본부가 인천·경기 서북부지역 건설현장 관계자를 대상으로 건설기계 사고 예방 세미나를 개최했다. 법령 중심의 안전수칙과 작업계획 등에 대한 교육을 진행했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-14T15:55:36+09:00",
-    "importance": 4
   }
 ]
