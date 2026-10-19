@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "목동 재건축 2.6조 수주… 건설업계, 대단지 분양 나서 - pressman.kr",
+    "link": "https://www.pressman.kr/news/articleView.html?idxno=104057",
+    "description": "IPARK현대산업개발은 청주에서 1600가구가 넘는 아파트 공급에 나섰다. SM그룹 건설부문과 대방건설도 각각 대전과 경기 양주에서 주상복합 및 오피스텔 사업을 진행하고 있다. 현대건설은 지난 18일 열린...",
+    "published_at": "2026-10-19T13:28:00+09:00",
+    "cluster_id": "20f1",
+    "publisher": "pressman.kr",
+    "title_clean": "목동 재건축 2.6조 수주… 건설업계, 대단지 분양 나서",
+    "summary": "건설사들이 청주, 대전, 양주 등 전국 주요 지역에서 대규모 아파트, 주상복합, 오피스텔 사업을 추진하며 수주를 확대하고 있다. 목동 재건축 2.6조 규모 수주에 이어 건설업계가 대단지 분양에 본격 나서는 모습을 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T13:39:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20472,20 +20488,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[인사] 한국토지주택공사(LH) 외 - segye.com",
-    "link": "https://www.segye.com/newsView/20261008514012?OutUrl=naver",
-    "description": "한국토지주택공사(LH) ◆상임이사 임명 △주거복지본부장 유병용 △공공주택본부장 박현근 한국공항공사 △부사장 박재희 한국인터넷진흥원 ◆단장급 보임 △AI보안인재단장 오주형 대우건설 <보직인사> ◆전무...",
-    "published_at": "2026-10-08T20:37:00+09:00",
-    "cluster_id": "2a3f",
-    "publisher": "segye.com",
-    "title_clean": "[인사] 한국토지주택공사(LH) 외",
-    "summary": "한국토지주택공사, 한국공항공사, 한국인터넷진흥원, 대우건설 등 공공기관 및 건설사의 인사발령 현황을 보도한 기사이다. 주거복guilt본부장, 공공주택본부장 등 LH의 주요 보직 인사가 단행되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T22:11:35+09:00",
-    "importance": 2
+    "title": "윤종오 의원 ＂서울시 주거·노동·교통안전 정책 개선해야＂ - 울산종합일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzLTV4SWZueTMxdWM5N0Y4NVBVNllId0ZzbmRkaTJseklndmZlUFVtQTdhdWlJby15ZlU2RFZPSUdLTVNkSngzZXgyaS1CZW1TTlBha19TaGZxTTFsODNfTWFsamhETnY3OFJYX3hB?oc=5",
+    "description": "고가아파트 중심 공급보다 공공임대 확대 촉구건설현장 11곳 중 적정임금 지급 4곳 불과지하철 9호선 안전인력 부족 문제 집중 제기",
+    "published_at": "2026-10-19T13:23:07+09:00",
+    "cluster_id": "95e1",
+    "publisher": "울산종합일보",
+    "title_clean": "윤종오 의원 ＂서울시 주거·노동·교통안전 정책 개선해야＂",
+    "summary": "윤종오 의원이 서울시의 주거, 노동, 교통안전 정책 개선을 촉구했습니다. 공공임대주택 확대, 건설현장의 부적정 임금 관행 개선, 지하철 안전인력 확충 등을 주요 과제로 지적했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T13:39:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32245,22 +32261,6 @@
     "summary": "한국엡손이 2026 한국건설·안전박람회에 참가하여 라벨 프린터를 공개한다. 건설·안전 관련 박람회에서의 신기술 제품 소개는 업계 혁신과 디지털화를 촉진하는 긍정적 신호다.",
     "sentiment": "positive",
     "collected_at": "2026-10-14T01:00:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] 초경량·고출력... - magazine.hankyung.com",
-    "link": "https://magazine.hankyung.com/job-joy/article/202610149927d",
-    "description": "한국건설기술연구원 스마트건설지원센터 보육기업으로 선정됐다. 스마트건설지원센터는 혁신기술 기반의 스마트 건설 스타트업을 육성, 지원하고 경쟁력을 강화하기 위해 건설산업에 특화된 기술창업을 지원하고자...",
-    "published_at": "2026-10-14T00:46:00+09:00",
-    "cluster_id": "dca7",
-    "publisher": "magazine.hankyung.com",
-    "title_clean": "[한국건설기술연구원 스마트건설지원센터 보육기업 CEO] 초경량·고출력...",
-    "summary": "한국건설기술연구원 스마트건설지원센터가 혁신기술 기반의 스마트 건설 스타트업을 육성하고 지원하는 보육사업을 추진 중이다. 건설산업에 특화된 기술창업을 지원함으로써 업계의 경쟁력 강화를 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T00:50:07+09:00",
     "importance": 2
   }
 ]
