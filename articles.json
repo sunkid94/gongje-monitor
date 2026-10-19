@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "용인·동탄 넘어 아산까지…반도체 투자 따라 집값도 뛴다 - mediapen.com",
+    "link": "https://www.mediapen.com/news/view/1130784",
+    "description": "화성시 동탄1신도시에서는 포스코이앤씨가 시공하는 '아크메르 동탄'이 이달 분양을 앞두고 있다. 화성시 동탄구 반송동 일대 2개 블록에 들어서며, 전용면적 84~188㎡ 총 1808가구로 조성된다. 단지 바로 앞에 삼성전자...",
+    "published_at": "2026-10-19T09:22:00+09:00",
+    "cluster_id": "8149",
+    "publisher": "mediapen.com",
+    "title_clean": "용인·동탄 넘어 아산까지…반도체 투자 따라 집값도 뛴다",
+    "summary": "반도체 산업 투자 확대에 따라 용인, 동탄, 아산 등 반도체 클러스터 인근 지역의 부동산 수요가 증가하고 있다. 화성 동탄1신도시에서 포스코이앤씨의 아크메르 동탄(1808가구) 분양이 예정되어 있으며, 삼성전자 등 주요 반도체 기업 입주에 따른 지역 개발 호재가 집값 상승을 견인하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T09:28:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20472,19 +20488,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 조직개편 단행…도시정비 확대·데이터센터팀 신설 - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vSGpxOFpQbmhZbkFic1FRVmFlQ1pTbUloS3NodEwwcElHUkFGVEZSTGh5LThqUHl6OXExNEJCTkRyaTBrVUd4QWl1MA?oc=5",
-    "description": "대형 프로젝트 사업관리 세분화&hellip;선제적 위험 대응 강화 안전&middot;품질 통합관리체계 구축&hellip;현장 기술지원 역량 제고 대우건설이 도시정비사업과 데이터센터 등 미래 성장사업의 경쟁력을 높이기 위해 조직개편을 단행했다. 대형 프로젝트의 리스크 관리체계를 강화하고 안전&middot;품질 및 기술지원 기능을 통합해 사업 수행 역량을 높인다는 방침이다. 대우건설은 8일 이 같은 내용을 담은 전사 조직개편과 임원 인사를 실시했다고 밝혔다. 이번 개편은 전략사업 확대와 대형 프로젝트의 선제적 리스크 관리, 안전&middot;품질 및 기술 분야의 전문성 강화에 초점을 맞췄다.",
-    "published_at": "2026-10-08T16:03:51+09:00",
-    "cluster_id": "cbc4",
-    "publisher": "아이뉴스24",
-    "title_clean": "대우건설, 조직개편 단행…도시정비 확대·데이터센터팀 신설",
-    "summary": "대우건설이 도시정비사업과 데이터센터 등 미래 성장사업의 경쟁력 강화를 위해 조직개편을 단행했다. 대형 프로젝트의 리스크 관리체계를 강화하고 안전·품질·기술 기능을 통합해 사업 수행 역량을 높인다는 방침이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-08T16:47:01+09:00",
+    "title": "씨이랩, '2026 한국건설·안전박람회'서 AI 안전 솔루션 소개 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11Q3I0Q21malhZY0xxVGdkeUdkX3VQWGROSlJ4NlBrMVE4WF9NSGZmc09ETFBVVkJVYjJsaFd1aEdmbVpiTlVuSDlhT3FJR2ZmaE13d1RtQ1dQbFA0?oc=5",
+    "description": "[서울=뉴스핌] 이나영 기자 설희 인턴기자= 피지컬 인공지능(AI) 전문기업 씨이랩이 지난 14~16일 일산 킨텍스에서 열린",
+    "published_at": "2026-10-19T09:24:00+09:00",
+    "cluster_id": "bcd8",
+    "publisher": "뉴스핌",
+    "title_clean": "씨이랩, '2026 한국건설·안전박람회'서 AI 안전 솔루션 소개",
+    "summary": "피지컬 AI 전문기업 씨이랩이 2026 한국건설·안전박람회에서 AI 안전 솔루션을 선보였다. 건설현장의 안전관리 기술 고도화를 통해 산업재해 예방에 기여할 수 있는 신기술 제시.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-19T09:28:53+09:00",
     "importance": 2
   },
   {
@@ -32245,22 +32261,6 @@
     "summary": "대전도시공사 서윤식 과장이 생성형 AI를 활용한 건설현장 안전관리 앱을 개발해 대전시 적극행정 경진대회 최우수상을 수상했다. 이는 건설현장의 디지털 안전관리 기술 고도화 사례로, 건설업계의 기술혁신과 안전성 향상을 선도하는 성과이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-13T16:30:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "철강업계, AI 데이터센터·반도체 팹 등 대형 건축 시장 공략 강화 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/article/2026101316022153471",
-    "description": "제공=뉴스1건설경기 침체로 범용 건설용 강재 수요가 쪼그라든 국내 철강업계가 인공지능 데이터센터(AIDC)와 반도체 팹, 초고층 빌딩, 대형 물류센터 등 대형 건축 프로젝트에서 돌파구를 찾고 있다. 표준 규격 제품을...",
-    "published_at": "2026-10-13T16:08:00+09:00",
-    "cluster_id": "433c",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "철강업계, AI 데이터센터·반도체 팹 등 대형 건축 시장 공략 강화",
-    "summary": "건설경기 침체로 일반 건설용 강재 수요가 감소하자, 국내 철강업계가 AI 데이터센터, 반도체 팹, 초고층 빌딩, 대형 물류센터 등 대형 건축 프로젝트로 사업 다각화를 추진 중이다. 고부가가치 특수강재를 공급하며 새로운 시장 기회를 창출하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-13T16:14:58+09:00",
     "importance": 2
   }
 ]
