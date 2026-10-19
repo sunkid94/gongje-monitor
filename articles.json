@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "【데일리 ESG 정책 브리핑】사회적가치 비즈니스모델 공모전 등 - impacton.net",
+    "link": "https://www.impacton.net/news/articleView.html?idxno=30297",
+    "description": "앞서 지난 5월 수도권 민간 건설현장 집중점검에서는 불법하도급 29건과 기타 건설산업기본법 위반 60건이 적발됐다. 건설기계 대여대금 체불 11건에 대해서는 총 1억2580만원의 체불액을 해소했다. 국토부는 이번 경상권...",
+    "published_at": "2026-10-19T09:38:00+09:00",
+    "cluster_id": "1859",
+    "publisher": "impacton.net",
+    "title_clean": "【데일리 ESG 정책 브리핑】사회적가치 비즈니스모델 공모전 등",
+    "summary": "국토부가 수도권 건설현장 집중점검에서 불법하도급 29건과 건설산업기본법 위반 60건을 적발했으며, 건설기계 대여대금 체불 1억2580만원을 해소했다. 경상권 지역에 대한 추가 점검을 계획 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-19T09:43:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-13T16:40:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "추락·끼임 사고 잇따른 철도 공사현장…스마트 안전장비 3곳 중 1곳만 - 한국철도일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qc0k5N3hWX29JcUwtelNiak5sclVxUkRSaDdYNFNGZmdoVDZRMW9Ia3p4aEVaakMtT0ZCYTUyYkh1M3lZN1NYeFR2WXRiYUlmNkJQQTBqWUZEeFhENFl0NmdVTVAyT1ZGcU1UOWstZDI?oc=5",
-    "description": "[한국철도일보 박지현 기자] 국가철도공단이 발주한 철도 건설현장에서 올해 들어 추락과 끼임 사고로 근로자 4명이 숨진 가운데, 스마트 안전장비를 도입한 현장은 전체의 31.9%에 그친 것으로 나타났다.국회 국토교통위원회 소속 황희 의원(더불어민주당, 서울 양천갑)이 국가철도공단으로부터",
-    "published_at": "2026-10-13T16:23:20+09:00",
-    "cluster_id": "9fb8",
-    "publisher": "한국철도일보",
-    "title_clean": "추락·끼임 사고 잇따른 철도 공사현장…스마트 안전장비 3곳 중 1곳만",
-    "summary": "국가철도공단 발주 철도 건설현장에서 올해 추락·끼임 사고로 근로자 4명이 숨진 가운데, 스마트 안전장비 도입률이 31.9%에 불과한 것으로 드러났다. 안전 관리 미흡으로 인한 인명사고가 계속되고 있어 규제 강화 가능성이 높아질 것으로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-13T16:40:13+09:00",
-    "importance": 4
   }
 ]
