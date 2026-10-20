@@ -20641,6 +20641,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "발 묶인 TK통합·신공항…이철우 \"안타깝고 답답\" - sidae.com",
+    "link": "https://www.sidae.com/article/2026102014502414097",
+    "description": "이 지사는 \"대구경북통합신공항의 가장 큰 장애는 건설경기가 나쁜 것\"이라며 \"국가가 지원해 줄 수 있으면 국가에서 선투자해 주는 것도 방법\"이라고 주장했다. 이어 \"대구가 부채가 많아 어렵다고 하니 경북이라도...",
+    "published_at": "2026-10-21T06:37:00+09:00",
+    "cluster_id": "11f8",
+    "publisher": "sidae.com",
+    "title_clean": "발 묶인 TK통합·신공항…이철우 \"안타깝고 답답\"",
+    "summary": "이철우 경북지사가 대구경북통합신공항 사업의 지연 문제를 언급하며 건설경기 부진을 주요 장애요인으로 지적했다. 국가 선투자를 통한 사업 추진을 촉구하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T06:51:36+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "지난달 건설사 PF 유동화증권 신용보강 4조원 육박 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201328487290315",
+    "description": "최근 감소하고 있는 건설사 PF 우발채무가 다시 늘어나는 것 아니냐는 우려도 나온다. 나이스신용평가에 따르면, 주요 11개 건설사의 PF 우발채무는 2024년말에 19조원 수준에서는 올해 상반기에는 17조원 가량으로...",
+    "published_at": "2026-10-21T06:40:00+09:00",
+    "cluster_id": "4413",
+    "publisher": "대한경제",
+    "title_clean": "지난달 건설사 PF 유동화증권 신용보강 4조원 육박",
+    "summary": "건설사 PF 우발채무가 감소 추세에서 다시 증가하는 조짐을 보이고 있다. 지난달 유동화증권 신용보강이 4조원에 육박하면서 건설업계의 PF 위기 재악화 가능성에 대한 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T06:51:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32238,38 +32270,6 @@
     "summary": "쌍용C&E가 건설경기 침체와 시멘트 수요 부진에 대응하기 위해 본사를 강원 동해로 이전하고, 생산현장과 경영지원 조직을 통합한다. 환경사업 부문은 영월공장으로 이전하여 복수거점 경영체계를 구축해 효율성을 높인다.",
     "sentiment": "negative",
     "collected_at": "2026-10-15T18:49:44+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, 'AI 대전환' 선포…\"AI 혁신처 신설해 주택공급 확대\" - news.tvchosun.com",
-    "link": "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590198.html",
-    "description": "한국토지주택공사(LH)가 인공지능(AI)을 활용해 주택공급 속도를 높이고 건설현장 안전관리와 입주민 서비스 개선에 나선다. LH는 15일 서울지역본부에서 이성훈 사장과 주요 경영진이 참석한 가운데 'LH AI 대전환...",
-    "published_at": "2026-10-15T18:39:00+09:00",
-    "cluster_id": "1b4b",
-    "publisher": "news.tvchosun.com",
-    "title_clean": "LH, 'AI 대전환' 선포…\"AI 혁신처 신설해 주택공급 확대\"",
-    "summary": "LH가 AI 혁신처를 신설하여 주택공급 확대에 나선다. AI를 활용한 주택공급 속도 향상, 건설현장 안전관리 개선, 입주민 서비스 개선을 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T18:49:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설노조, 10.22 총력 투쟁 예고···'원청 단협 쟁취' - laborplus.co.kr",
-    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41653",
-    "description": "민주노총 건설산업연맹 전국건설노동조합(위원장 조승호, 건설노조)은 15일 오전 서울 강남구 건설회관 앞에서 '10.22 원청 교섭 총력 상경 투쟁 선포 기자회견'을 열었다. 오는 22일 건설노조는 오후 1시 서울 남대문 앞에서...",
-    "published_at": "2026-10-15T18:40:00+09:00",
-    "cluster_id": "68c9",
-    "publisher": "laborplus.co.kr",
-    "title_clean": "건설노조, 10.22 총력 투쟁 예고···'원청 단협 쟁취'",
-    "summary": "민주노총 건설산업연맹 전국건설노동조합이 10월 22일 원청 단협 쟁취를 위한 총력 투쟁을 예고했다. 서울 남대문 앞에서 대규모 상경 투쟁을 계획 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-15T18:44:42+09:00",
     "importance": 4
   }
 ]
