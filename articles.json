@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "박홍근 \"1400조 정부기금 수익성 높여야\"…미래대응기금 운용체계 구축 - news1.kr",
+    "link": "https://www.news1.kr/economy/trend/6326380",
+    "description": "간담회에는 박 장관을 비롯해 이준서 동국대 교수, 김우진 서울대 교수, 여은정 중앙대 교수, 임섭 건설공제조합 자산운용책임자(CIO), 강소현 자본시장연구원 박사 등이 참석했다. 박 장관은 \"그동안 기금운용평가와...",
+    "published_at": "2026-10-20T18:23:00+09:00",
+    "cluster_id": "d7d6",
+    "publisher": "news1.kr",
+    "title_clean": "박홍근 \"1400조 정부기금 수익성 높여야\"…미래대응기금 운용체계 구축",
+    "summary": "박홍근 장관이 1400조 규모 정부기금의 수익성 향상을 위해 미래대응기금 운용체계 구축을 추진 중이며, 건설공제조합 CIO 등 전문가들과 간담회를 개최했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T18:31:51+09:00",
+    "event_label": "건설공제조합 정부기금 운용체계 개선 간담회",
+    "importance": 5
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "박홍근 \"1천400조 정부기금 수익성 높이기 위해 노력해야\" - news.einfomax.co.kr",
     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440203",
     "description": "효율적인 자산운용 체계를 마련할 것\"이라고 말했다. 이날 간담회에는 이준서 동국대 교수, 김우진 서울대 교수, 여은정 중앙대 교수, 임섭 건설공제조합 최고투자책임자(CIO), 강소현 자본시장연구원 박사 등이 참석했다.",
@@ -4588,6 +4605,22 @@
     "collected_at": "2026-09-21T07:04:22+09:00",
     "event_label": "전문건설공제조합 제2회 전문건설의 날 기념행사 개최",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "전쟁 여파에 중동 수출·수주 급감... 9월 對중동 수출액 14% 줄어 - fnnews.com",
+    "link": "https://www.fnnews.com/news/202610201822576380",
+    "description": "산업부는 이날 대우건설, 삼성E&A, 현대건설 등 주요 플랜트 기업들과 간담회를 열어 수주 애로사항과 지원 방안을 논의했다. 무역보험공사와 KOTRA 등을 통해 금융지원과 발주 정보 제공, 발주처와의 네트워킹 및 고위급...",
+    "published_at": "2026-10-20T18:24:00+09:00",
+    "cluster_id": "1e05",
+    "publisher": "fnnews.com",
+    "title_clean": "전쟁 여파에 중동 수출·수주 급감... 9월 對중동 수출액 14% 줄어",
+    "summary": "중동 지역 전쟁 여파로 9월 對중동 수출액이 14% 감소하면서 건설·플랜트 업계가 타격을 입고 있다. 산업부가 주요 건설사들과 간담회를 열어 수주 애로사항 해결과 금융지원, 발주처 네트워킹 등의 지원 방안을 논의 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T18:31:51+09:00",
+    "importance": 4
   },
   {
     "keyword": "대우건설",
@@ -20574,22 +20607,6 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "‘아크메르 동탄’, 108만㎡ 공원·반송역·삼성전자 인접 입지 주목 - sports.donga.com",
-    "link": "https://sports.donga.com/economy/article/all/20261012/134824804/1",
-    "description": "아크메르 동탄은 지하 7층~지상 최고 49층, 7개 동, 총 1808가구 규모로 조성되며 포스코이앤씨가 시공을 맡는다. 동탄센트럴파크를 사이에 두고 3개 동과 4개 동으로 나뉘어 배치되며, 동과 층에 따라 공원 조망이...",
-    "published_at": "2026-10-12T11:30:00+09:00",
-    "cluster_id": "5a9c",
-    "publisher": "sports.donga.com",
-    "title_clean": "‘아크메르 동탄’, 108만㎡ 공원·반송역·삼성전자 인접 입지 주목",
-    "summary": "포스코이앤씨가 시공하는 '아크메르 동탄'은 108만㎡ 공원과 반송역, 삼성전자에 인접한 입지에 지하 7층~지상 49층 규모로 1808가구 조성. 동탄센트럴파크를 중심으로 배치되어 공원 조망이 가능한 프리미엄 아파트 단지.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T11:39:00+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32252,21 +32269,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-15T16:10:35+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[비즈+]LH, 'AI 대전환' 선포…전담 조직 신설하고 경영혁신 추진 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=118245",
-    "description": "AI 전담 조직을 신설하고 사장 주도의 실행체계를 구축해 건설현장 안전관리와 주택 하자 처리, 입주민 돌봄부터 내부 업무 효율화까지 AI 적용 범위를 넓힌다는 계획이다. LH는 15일 서울지역본부에서 이성훈 사장과...",
-    "published_at": "2026-10-15T15:58:00+09:00",
-    "cluster_id": "d1dd",
-    "publisher": "businessplus.kr",
-    "title_clean": "[비즈+]LH, 'AI 대전환' 선포…전담 조직 신설하고 경영혁신 추진",
-    "summary": "LH가 AI 전담 조직을 신설하고 사장 주도 실행체계를 구축해 건설현장 안전관리, 주택 하자 처리, 입주민 돌봄 등에 AI를 적용할 계획이다. 건설현장 효율화와 안전 강화를 통해 경영혁신을 추진하는 전략으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T16:05:35+09:00",
-    "importance": 2
   }
 ]
