@@ -4607,6 +4607,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[분석] 21개월간 147건 터졌다…대기업 99곳 중대재해 리포트 - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281563",
+    "description": "기업별로는 현대건설과 포스코이앤씨가 각각 6건을 보고해 가장 많은 건수를 기록했다. 포스코이앤씨가 보고한 사례에서는 사망자 6명과 부상자 3명 등 총 9명의 사상자가 발생했다. 특히 신안산선 공사 현장의...",
+    "published_at": "2026-10-21T07:56:00+09:00",
+    "cluster_id": "fea4",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "[분석] 21개월간 147건 터졌다…대기업 99곳 중대재해 리포트",
+    "summary": "21개월간 99개 대기업에서 147건의 중대재해가 발생했으며, 현대건설과 포스코이앤씨가 각각 6건으로 가장 많은 사례를 기록했다. 포스코이앤씨의 경우 6명 사망, 3명 부상 등 심각한 인명피해가 발생했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T08:01:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20588,22 +20604,6 @@
     "summary": "한국 조선 3사(HD한국조선해양, 한화오션, 삼성중공업)가 올해 누적 수주액 388억 달러를 기록하며 호실적을 보이고 있다. 중국의 LNG선 추격에 대응하여 엔진과 SMR(소형모듈원전) 등 신사업으로 수익원을 다각화하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T15:30:31+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[fn이사람] \"목동 재건축 성공 열쇠는 가치·속도·신뢰\" - fnnews.com",
-    "link": "https://www.fnnews.com/news/202610110737326288",
-    "description": "시장이 인정하는 상품으로 자산가치를 높이고 사업은 지연되지 않도록 하면서 처음 제시한 조건과 약속을 끝까지 지켜야 합니다.\" 12일 만난 권동혁 롯데건설 도시정비팀 그룹장은 목동 신시가지 재건축 수주전에서...",
-    "published_at": "2026-10-12T15:02:00+09:00",
-    "cluster_id": "e418",
-    "publisher": "fnnews.com",
-    "title_clean": "[fn이사람] \"목동 재건축 성공 열쇠는 가치·속도·신뢰\"",
-    "summary": "롯데건설이 목동 신시가지 재건축 사업 수주를 위해 시장 인정 상품으로 자산가치를 높이고, 사업 지연 방지 및 초기 약속 준수를 경영 전략으로 제시했다. 재건축 성공의 핵심은 가치, 속도, 신뢰라는 입장을 밝혔다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T15:10:26+09:00",
     "importance": 3
   },
   {
