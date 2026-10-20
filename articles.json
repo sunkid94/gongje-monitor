@@ -20607,6 +20607,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH 건설자원 공유로 65억원 아꼈다 - gnnews.co.kr",
+    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=647849",
+    "description": "LH는 지난해 11월 킨텍스에서 열린 '2025 스마트건설·안전·AI EXPO' 전시에 활용한 모듈러주택을 공유플랫폼을 통해 지역 장애인복지관에 전달했다. 폐기할 수 있는 전시 자산을 기증해 자원순환과 사회공헌을 동시에...",
+    "published_at": "2026-10-20T20:54:00+09:00",
+    "cluster_id": "884d",
+    "publisher": "gnnews.co.kr",
+    "title_clean": "LH 건설자원 공유로 65억원 아꼈다",
+    "summary": "LH가 전시용 모듈러주택을 공유플랫폼을 통해 지역 장애인복지관에 기증하여 자원순환을 실현했다. 폐기 예정이던 건설자산을 재활용해 65억원의 비용 절감과 사회공헌을 동시에 달성했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T21:02:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "summary": "LH가 AI를 핵심 경영 과제로 추진하며 건설현장 안전관리, 주택 하자 처리, 입주민 돌봄 등 주요 업무에 AI 적용을 확대한다. CEO 주도의 실행체계를 출범시켜 디지털 혁신을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T16:29:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, AI 전담조직 신설해 경영혁신 전사 확산 나선다 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495708",
-    "description": "현재 AI는 건설현장 안전관리와 주택 하자 처리, 입주민 돌봄 등 여러 업무에 적용되고 있다. 건설현장에서는 AI 영상분석 시스템 '늘봄 A-Eye'와 실시간 종합건설정보 시스템 'RICS(릭스)'를 연계해 고위험 현장 20곳을...",
-    "published_at": "2026-10-15T16:20:00+09:00",
-    "cluster_id": "c105",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "LH, AI 전담조직 신설해 경영혁신 전사 확산 나선다",
-    "summary": "LH가 AI 전담조직을 신설하여 경영혁신을 추진 중이며, 건설현장 안전관리와 주택 하자 처리, 입주민 돌봄 등 다양한 업무에 AI를 적용하고 있다. AI 영상분석 시스템과 종합건설정보 시스템을 연계하여 고위험 현장의 안전성을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T16:25:28+09:00",
     "importance": 2
   }
 ]
