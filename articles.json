@@ -4607,6 +4607,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "페로타임즈 손바닥뉴스 10월21일(수) - ferrotimes.com",
+    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=51027",
+    "description": "3% 감소 [전략자원] 세계은행 핵심광물 투자 5배 확대…EU는 베트남 공급망 확보 추진 [NEXT FRONT] 美日 반도체 210억달러 투자…구글 전력 40억달러, AI 인프라 투자 확대 [메타 레이더] 대우건설 1.44조원 수주‥KG스틸...",
+    "published_at": "2026-10-21T07:18:00+09:00",
+    "cluster_id": "3602",
+    "publisher": "ferrotimes.com",
+    "title_clean": "페로타임즈 손바닥뉴스 10월21일(수)",
+    "summary": "세계은행의 핵심광물 투자 확대와 미국·일본의 반도체 투자 등 글로벌 전략산업 투자가 확대되고 있으며, 국내 건설사인 대우건설이 1.44조원 규모 수주를 수주하는 등 건설업계 호재가 나타나고 있다. 다만 전체 기사가 단편적으로 제시되어 명확한 업계 영향 평가는 제한적이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-21T07:31:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20591,20 +20607,20 @@
     "importance": 3
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "광명 하안주공9단지, 시공자 선정 임박… DL이앤씨 유력 - arunews.com",
-    "link": "https://www.arunews.com/news/articleView.html?idxno=68055",
-    "description": "앞서 2차 현장설명회에는 DL이앤씨, 대우건설, 남광토건, 이수건설 등이 참석한 바 있다. DL이앤씨는 이곳 1차 현설에도 단독으로 참석했던 상황이다. 이에 정비사업위원회와 교보자산신탁은 수의계약 전환 및...",
-    "published_at": "2026-10-12T14:54:00+09:00",
-    "cluster_id": "1a94",
-    "publisher": "arunews.com",
-    "title_clean": "광명 하안주공9단지, 시공자 선정 임박… DL이앤씨 유력",
-    "summary": "광명 하안주공9단지 재정비 사업의 시공자 선정이 임박한 가운데, DL이앤씨가 1차, 2차 현장설명회에 연속 참석하며 수주 유력 후보로 평가되고 있다. 정비사업위원회와 교보자산신탁이 수의계약 전환을 추진 중인 것으로 알려졌다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T15:00:38+09:00",
-    "importance": 2
+    "title": "인천시, 제물포구 철강산업 위기지역 지정 '속도'…정부 현지실사 - ferrotimes.com",
+    "link": "http://www.ferrotimes.com/news/articleView.html?idxno=51004",
+    "description": "제물포구 철강산업은 장기화한 건설경기 침체와 중국산 저가 철강재 유입, 미국의 관세 강화, 산업용 전기요금 인상 등으로 어려움을 겪고 있다. 현대제철은 지난 1월 인천공장 소형 압연공장을 영구 폐쇄하는 구조조정을...",
+    "published_at": "2026-10-21T07:18:00+09:00",
+    "cluster_id": "e656",
+    "publisher": "ferrotimes.com",
+    "title_clean": "인천시, 제물포구 철강산업 위기지역 지정 '속도'…정부 현지실사",
+    "summary": "인천 제물포구 철강산업이 건설경기 침체, 중국산 저가 철강재 경쟁, 미국 관세 강화, 전기요금 인상 등으로 위기에 직면했다. 현대제철이 인천공장 압연공장을 폐쇄하는 등 구조조정을 추진 중이며, 정부가 위기지역 지정을 위해 현지실사를 진행하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T07:31:41+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
