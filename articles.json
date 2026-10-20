@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "美 주택시장 위기인데 금리 올린다?…연준의 물가 딜레마 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01331686645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "지난해 7월 21일(현지시간) 미국 캘리포니아주 엔시니타스에서 한 건설 노동자가 셰아홈스(Shea Homes)의 공동주택 건설 현장에서 작업하고 있다. (사진=로이터) 문제는 연준이 주택시장 침체에 대응해 금리를 내리기도...",
+    "published_at": "2026-10-21T03:21:00+09:00",
+    "cluster_id": "fa56",
+    "publisher": "edaily.co.kr",
+    "title_clean": "美 주택시장 위기인데 금리 올린다?…연준의 물가 딜레마",
+    "summary": "미국 연준의 금리 인상 정책으로 인해 주택시장이 침체되는 상황에서 건설업계가 수요 감소 압박을 받고 있다. 물가 관리와 주택시장 부양 사이의 정책 딜레마가 건설 시장에 부정적 영향을 미치고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T03:31:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32253,22 +32269,6 @@
     "summary": "한화 건설부문이 음성인식과 AI 영상분석 기술을 탑재한 '안전퀵문고'를 출시했다. 외국인 근로자와 고령층 증가로 인한 건설현장의 안전 커뮤니케이션 문제를 기술로 해결하는 혁신 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T17:59:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "쌍용C&E, 본사 강원도로 이전… 동해·영월 복수거점 운영 - weekly.hankooki.com",
-    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7189166",
-    "description": "쌍용C&E 측은 \"본사 이전은 국가 균형발전과 지역경제 활성화에 기여하고, 건설경기 침체 등 급변하는 시장환경에 능동적으로 대응하기 위한 것\"이라고 강조했다. 또한 생산공장이 위치한 동해와 영월을 중심으로...",
-    "published_at": "2026-10-15T17:40:00+09:00",
-    "cluster_id": "ced5",
-    "publisher": "weekly.hankooki.com",
-    "title_clean": "쌍용C&E, 본사 강원도로 이전… 동해·영월 복수거점 운영",
-    "summary": "쌍용C&E가 본사를 강원도로 이전하고 동해·영월을 중심으로 복수거점 운영 체계를 구축한다. 국가 균형발전 기여와 건설경기 침체 등 시장환경 변화에 대응하기 위한 전략적 결정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-15T17:50:02+09:00",
     "importance": 2
   }
 ]
