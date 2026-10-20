@@ -4607,6 +4607,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "5000억 규모 가락우성1차 재건축 현설서 '유찰'…대우건설만 참여 - socialvalue.kr",
+    "link": "https://www.socialvalue.kr/news/view/1065598624212276",
+    "description": "서울 송파구 가락우성1차아파트 재건축사업의 첫 시공사 선정 현장설명회가 대우건설의 단독 참석로 마무리됐다. 당초 복수 건설사의 참여 가능성이 거론됐지만 경쟁이 성립하지 않으면서 현장설명회 단계에서...",
+    "published_at": "2026-10-21T08:30:00+09:00",
+    "cluster_id": "574a",
+    "publisher": "socialvalue.kr",
+    "title_clean": "5000억 규모 가락우성1차 재건축 현설서 '유찰'…대우건설만 참여",
+    "summary": "서울 송파구 가락우성1차아파트 5000억 규모 재건축사업의 시공사 선정 현장설명회에 대우건설만 참여하며 유찰 상태가 됐다. 복수 건설사의 경쟁이 성립하지 않으면서 사업 진행에 차질이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T08:41:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20589,22 +20605,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-12T15:40:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "LNG선까지 추격하는 中…조선 3사, 엔진·SMR로 수익원 넓힌다 - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1700457/?sc=Naver",
-    "description": "수주 388억 달러·영업익 증가세…LNG선은 중국 추격 12일 조선 업계에 따르면 HD한국조선해양, 한화오션, 삼성중공업의 올해 누적 수주액은 총 388억2000만 달러다. HD한국조선해양은 187억1000만 달러로 지난해 연간...",
-    "published_at": "2026-10-12T15:26:00+09:00",
-    "cluster_id": "d926",
-    "publisher": "dailian.co.kr",
-    "title_clean": "LNG선까지 추격하는 中…조선 3사, 엔진·SMR로 수익원 넓힌다",
-    "summary": "한국 조선 3사(HD한국조선해양, 한화오션, 삼성중공업)가 올해 누적 수주액 388억 달러를 기록하며 호실적을 보이고 있다. 중국의 LNG선 추격에 대응하여 엔진과 SMR(소형모듈원전) 등 신사업으로 수익원을 다각화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T15:30:31+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
