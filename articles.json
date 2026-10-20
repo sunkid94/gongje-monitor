@@ -4556,6 +4556,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "HD한국조선해양, 2조원 규모 친환경 컨테이너선 8척 수주 - viva100.com",
+    "link": "https://www.viva100.com/article/20261020500880",
+    "description": "HD현대에코비나는 HD한국조선해양이 지난해 두산에너빌리티로부터 인수한 베트남 소재 LNG 연료탱크 제작기지다. 이번 계약은 인수한 생산시설의 기자재를 실제 선박 건조에 활용하는 사례다. HD현대 관계자는...",
+    "published_at": "2026-10-20T15:28:00+09:00",
+    "cluster_id": "27cd",
+    "publisher": "viva100.com",
+    "title_clean": "HD한국조선해양, 2조원 규모 친환경 컨테이너선 8척 수주",
+    "summary": "HD한국조선해양이 2조원 규모의 친환경 컨테이너선 8척을 수주했다. 지난해 인수한 베트남 LNG 연료탱크 제작기지의 기자재를 실제 선박 건조에 활용하는 사례로, 수직계열화를 통한 원가 효율성 개선을 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-20T15:36:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20540,20 +20556,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "마을 덮친 흙탕물…네팔 또 '대홍수' 피해 - news.sbs.co.kr",
-    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008792264&plink=ORI&cooper=NAVER",
-    "description": "당시 피해 현장에서 수력발전소를 건설하던 두산에너빌리티 직원 6명과 한국남동발전 직원 3명 등 한국인 9명도 여전히 실종 상태입니다. (영상편집 : 김진원, 디자인 : 임찬혁, 영상제공 : 네팔군, 영상출처 : 유튜브 @NDTV)",
-    "published_at": "2026-10-12T06:23:00+09:00",
-    "cluster_id": "2424",
-    "publisher": "news.sbs.co.kr",
-    "title_clean": "마을 덮친 흙탕물…네팔 또 '대홍수' 피해",
-    "summary": "네팔에서 발생한 대홍수로 인해 수력발전소 건설 현장에서 한국인 9명(두산에너빌리티 6명, 한국남동발전 3명)이 실종된 상태입니다. 해외 건설 현장의 자연재해 피해로 인한 인명 손실 및 사업 차질이 발생했습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-12T06:27:42+09:00",
-    "importance": 4
+    "title": "세종시 아파트 공급속도 높인다…\"연간 공급계획 두 배로 상향\" - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261020123000063?input=1195m",
+    "description": "2022∼2024년 사이 건설경기가 침체하고 세종시 스마트시티 시범사업 추진이 늦어지면서 아파트 공급 실적이 부진했지만, 올해 4천205호를 착공하는 등 현재 안정적으로 아파트를 공급하고 있다는 것이 행복청의...",
+    "published_at": "2026-10-20T15:26:00+09:00",
+    "cluster_id": "b6c3",
+    "publisher": "yna.co.kr",
+    "title_clean": "세종시 아파트 공급속도 높인다…\"연간 공급계획 두 배로 상향\"",
+    "summary": "세종시가 연간 아파트 공급계획을 두 배로 상향하여 공급속도를 높이고 있다. 2022∼2024년 건설경기 침체에서 벗어나 올해 4천205호 착공 등 안정적인 공급을 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-20T15:36:13+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
@@ -32250,21 +32266,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-15T14:10:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고양시, ‘2026년 건설공사장 산업재해 예방’ 유공 경기도지사 표창 수상 - 뉴스파이어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMEhwaGNYbG1lOHQ0bHJjTlZ0ZzctQWU2WG9KdXM0ZzhLcG93ME5XSWNxZjVGYW1jLXhueG5VaERzNnI4dG1COE0zQklHZHJoTFNXMEc0R1BQNGNuRjU2SGlyYzB6UlM5ZWFNci15OA?oc=5",
-    "description": "[뉴스파이어] 고양특례시는 건설공사장 산업재해 예방을 위한 지속적인 안전관리와 현장 중심의 예방 활동 성과를 인정받아 지난 14일 ‘2026년 건설공사장 산업재해 예방 유공’경기도지사 기관 표창을 수상했다고 밝혔다.이번 표창은 경기도가 2025년 시군 종합평가 결과와 건설공사장 안전관리 기여 실적 등을 종합적으로 평가해 수여하는 것으로 고양시는 경기도지사 표창 대상 9개 시군에 포함됐다.고양시는 그동안 건설공사장의 산업재해를 예방하고 안전관리 수준을 높이기 위해 연중 수시 안전점검과 해빙기, 폭염, 풍수해, 동절기 등 계절별 위험",
-    "published_at": "2026-10-15T13:53:01+09:00",
-    "cluster_id": "9bad",
-    "publisher": "뉴스파이어",
-    "title_clean": "고양시, ‘2026년 건설공사장 산업재해 예방’ 유공 경기도지사 표창 수상",
-    "summary": "고양시가 건설공사장 산업재해 예방을 위한 안전관리 성과를 인정받아 경기도지사 표창을 수상했다. 시는 연중 수시 안전점검과 계절별 위험요소 대응을 통해 안전관리 수준을 높여왔다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-15T14:10:31+09:00",
-    "importance": 4
   }
 ]
