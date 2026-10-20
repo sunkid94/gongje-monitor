@@ -4556,6 +4556,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "서울부동산포럼, 제23주년 창립기념세미나 오는 11월 12일 개최 - rcast.co.kr",
+    "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31848",
+    "description": "행사는 이태호 포럼 회장의 개회사, 정원주 대우건설 회장의 환영사, 황상하 서울주택도시개발공사(SH) 사장의 기조연설로 시작한다. 이어 포럼과 한국부동산분석학회(회장 이재순)의 업무협약(MOU) 체결식과 대학생...",
+    "published_at": "2026-10-20T16:08:00+09:00",
+    "cluster_id": "45d6",
+    "publisher": "rcast.co.kr",
+    "title_clean": "서울부동산포럼, 제23주년 창립기념세미나 오는 11월 12일 개최",
+    "summary": "서울부동산포럼이 11월 12일 창립 23주년 기념세미나를 개최한다. 포럼 회장, 대우건설 회장, SH공사 사장 등이 참석하며 한국부동산분석학회와의 업무협약을 체결할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T16:16:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20540,19 +20556,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "[김민정 기자의 '코스뽀'] '인터넷서비스' 케이아이엔엑스 과천IDC 수확... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448832",
-    "description": "케이아이엔엑스는 7월 대우건설과 데이터센터 공동 디벨로퍼 파트너십을 위한 계약을 체결했다. 김지욱 케이아이엔엑스 대표이사(오른쪽)와 전용수 대우건설 건축사업본부장이 2026년 7월23일 경기 과천...",
-    "published_at": "2026-10-12T09:02:00+09:00",
-    "cluster_id": "439b",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "[김민정 기자의 '코스뽀'] '인터넷서비스' 케이아이엔엑스 과천IDC 수확...",
-    "summary": "케이아이엔엑스가 7월 대우건설과 과천IDC 데이터센터 공동 디벨로퍼 파트너십을 체결했다. 데이터센터 프로젝트를 통한 건설 수주 기회 창출로 건설업계에 긍정적 영향을 미칠 것으로 예상된다.",
+    "title": "올 3분기까지 산재 사망자 366명 ‘역대 최저’ - viva100.com",
+    "link": "https://www.viva100.com/article/20261020500622",
+    "description": "특히 건설업 사고사망자 감소가 건설경기 침체에 따른 결과 아니냐는 지적에는 “건설업 종사자 수는 4~5% 감소했지만 건설현장 수는 오히려 늘었다”며 “최소한 건설업 사고사망자 감소 추세에는 경기변동을...",
+    "published_at": "2026-10-20T16:10:00+09:00",
+    "cluster_id": "acdb",
+    "publisher": "viva100.com",
+    "title_clean": "올 3분기까지 산재 사망자 366명 ‘역대 최저’",
+    "summary": "올해 3분기까지 산재 사망자가 366명으로 역대 최저를 기록했다. 건설업 사고사망자 감소는 경기침체가 아닌 안전관리 개선의 결과로, 종사자 수 감소에도 불구하고 현장 수는 증가한 것으로 분석된다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-12T09:08:02+09:00",
+    "collected_at": "2026-10-20T16:16:21+09:00",
     "importance": 2
   },
   {
@@ -32250,21 +32266,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-15T15:05:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "쌍용C&E, 서울 본사 동해시로 이전…12월부터 본사 업무 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20261015000952",
-    "description": "쌍용C&E 동해공장 전경.[뉴스핌 DB] 이번 이전은 생산현장과 경영기능의 연계를 강화해 건설경기 침체 등 시장환경 변화에 대응하기 위한 조치다. 회사는 동해와 영월의 생산거점을 중심으로 주요 기능을 재배치해 현장...",
-    "published_at": "2026-10-15T14:57:00+09:00",
-    "cluster_id": "7c62",
-    "publisher": "newspim.com",
-    "title_clean": "쌍용C&E, 서울 본사 동해시로 이전…12월부터 본사 업무",
-    "summary": "쌍용C&E가 서울 본사를 동해시로 이전하며 12월부터 본사 업무를 개시한다. 생산현장과 경영기능의 연계 강화를 통해 건설경기 침체 등 시장환경 변화에 대응하기 위한 경영 재편 조치다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-15T15:05:54+09:00",
-    "importance": 2
   }
 ]
