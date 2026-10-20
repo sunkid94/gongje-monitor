@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[게시판] 건설연구원, 내달 12일 건설·자재·부동산 전망 세미나 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MNkhyQnJVQ1lhVzFWNWQ0R2JPQ2JWRUx1eWp4ckllVmJ4MmF3TmJCYkxHRFRnU3Y2OVVCdXlBN0NOWG5mWUp3Mm1UZkFhNWVSeFdsQTl6Rm9wVEZWU2pYd9IBYEFVX3lxTE1MNkhyQnJVQ1lhVzFWNWQ0R2JPQ2JWRUx1eWp4ckllVmJ4MmF3TmJCYkxHRFRnU3Y2OVVCdXlBN0NOWG5mWUp3Mm1UZkFhNWVSeFdsQTl6Rm9wVEZWU2pYdw?oc=5",
+    "description": "▲ 한국건설산업연구원은 다음달 12일 서울 강남구 건설회관에서 '2027년 건설·자재·부동산 경기 전망 세미나'를 개최한다고 20일 밝혔다. 건...",
+    "published_at": "2026-10-20T09:34:32+09:00",
+    "cluster_id": "7ed3",
+    "publisher": "연합뉴스",
+    "title_clean": "[게시판] 건설연구원, 내달 12일 건설·자재·부동산 전망 세미나",
+    "summary": "한국건설산업연구원이 다음달 12일 서울 강남구 건설회관에서 '2027년 건설·자재·부동산 경기 전망 세미나'를 개최한다. 건설업계의 중장기 경기 전망과 시장 동향을 분석하는 정보 제공 행사이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T12:11:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32245,22 +32261,6 @@
     "title_clean": "쌍용C&E, 본사 강원 동해시로 이전…동해·영월 복수거점 체계 구축",
     "summary": "쌍용C&E가 본사를 강원 동해시로 이전하여 동해·영월 복수거점 체계를 구축한다. 건설경기 침체에 대응하고 생산·물류 운영 효율성을 높이며 현장 대응력과 의사결정 속도를 개선하기 위한 전략적 결정이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-15T10:30:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "수원시, 지역 건설업계 지원·제도 개선 방안 논의 - 신아일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMlZIOHFVcW5RR0o2VEE4ZFpDVUEtcFp1b3kyNmFNMEpvOHhmZGduMk0tV1RBOHFGci1ndXpyb0l5bjJZcXVReDVWZjFTVXU1S1MyaFNhRGlqNEpxWnllOGROM2lQQ3ZaZUdUS0twQUQ?oc=5",
-    "description": "경기 수원특례시가 건설경기 침체로 어려움을 겪는 지역 건설업체의 지원 방안과 관련 제도 개선에 나섰다.15일 수원시에 따르면 전날 시청 상황실에서 건설업계 관계자",
-    "published_at": "2026-10-15T10:18:01+09:00",
-    "cluster_id": "754d",
-    "publisher": "신아일보",
-    "title_clean": "수원시, 지역 건설업계 지원·제도 개선 방안 논의",
-    "summary": "수원시가 건설경기 침체로 어려움을 겪는 지역 건설업체를 지원하기 위해 지원 방안과 제도 개선을 논의했다. 시청 상황실에서 건설업계 관계자들과 협의를 진행했다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-15T10:30:33+09:00",
     "importance": 2
   }
