@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설기술분야 눈엣가시 뿌리뽑는다…규제혁신TF ‘가동’ - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201107282580289",
+    "description": "회의에는 대한건설협회, 대한전문건설협회, 대한기계설비건설협회 등 건설 관련 협회들이 참석한다. 앞서 국토부는 지난 8월 이들 협회에 건설정책국 소관 법령ㆍ훈령ㆍ고시ㆍ지침 등에 대한 규제 개선 과제를 발굴해...",
+    "published_at": "2026-10-21T06:20:00+09:00",
+    "cluster_id": "cda2",
+    "publisher": "대한경제",
+    "title_clean": "건설기술분야 눈엣가시 뿌리뽑는다…규제혁신TF ‘가동’",
+    "summary": "국토부가 건설기술분야 규제혁신TF를 가동하여 건설 관련 협회들과 함께 법령·훈령·고시·지침 등의 규제 개선 과제를 발굴 중이다. 대한건설협회, 대한전문건설협회, 대한기계설비건설협회 등이 참석하여 업계 규제 혁신에 협력하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-21T06:26:36+09:00",
+    "event_label": "대한기계설비건설협회 규제혁신TF 참여",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -20624,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[법률라운지] 원수급인의 자재대금 직불 범위 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201041040900277",
+    "description": "사안의 검토 건설산업기본법 제35조 제7항, 건설산업기본법 시행규칙 제29조 제4항에 따르면, 발주자가 건설산업기본법 제35조 제2항 제3호에 따라 하수급인에게 공사대금을 직접 지급하는 경우에 하도급거래...",
+    "published_at": "2026-10-21T06:20:00+09:00",
+    "cluster_id": "0759",
+    "publisher": "대한경제",
+    "title_clean": "[법률라운지] 원수급인의 자재대금 직불 범위",
+    "summary": "건설산업기본법에 따른 원수급인의 자재대금 직불 범위에 대한 법률 해석 기사로, 발주자가 하수급인에게 공사대금을 직접 지급할 때의 법적 요건과 기준을 설명하고 있습니다. 하도급거래의 투명성과 공정성을 규정하는 내용으로 업계의 법적 준거사항을 안내하는 순수 정보 제공입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-21T06:26:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32238,37 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-15T18:44:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토안전관리원, 한국어촌어항공단과 어촌시설 안전관리 협력 강화 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuQ05DSEh1eXN4dC1ncHgwSFVLVWhER0VLVk1jc0R0cUc4QU9DV19tZmxxemp0NEpEQUkxX3djOG5ZcWN1elpKLVhlZE5oUDZHbFloVWE1WUk2WmJFejU1czZ5MA?oc=5",
-    "description": "[국토일보 김현재 기자] 국토안전관리원이 한국어촌어항공단과 손잡고 서남해안 어촌지역의 시설물 안전관리 강화와 지역상생에 나선다.국토안전관리원 호남지역본부는 오늘(15일) 어촌어항공단 남서해지사와 안전한 어촌 인프라 조성 및 지역사회 발전을 위한 업무협약(MOU)을 체결했다고 밝혔다.이번 협약은 양 기관의 전문인력과 보유 자원을 활용해 어항시설의 안전성을 높이고 지역경제 활성화와 사회적 배려계층의 권익 증진을 도모하기 위해 마련됐다.협약에 따라 양 기관은 노후·취약 어항시설을 대상으로 안전점검과 기술 컨설팅을 지원한다. 아울러 건설안",
-    "published_at": "2026-10-15T16:59:14+09:00",
-    "cluster_id": "7cfa",
-    "publisher": "국토일보",
-    "title_clean": "국토안전관리원, 한국어촌어항공단과 어촌시설 안전관리 협력 강화",
-    "summary": "국토안전관리원과 한국어촌어항공단이 서남해안 어촌지역의 어항시설 안전관리 강화를 위한 업무협약을 체결했다. 양 기관은 노후·취약 어항시설에 대한 안전점검과 기술 컨설팅을 지원하여 지역경제 활성화를 도모한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-15T18:44:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, ‘AI 대전환’ 선포…전담조직 ‘AI 혁신처’ 신설 - sedaily.com",
-    "link": "https://www.sedaily.com/article/20102213?ref=naver",
-    "description": "LH는 건설현장 안전관리와 주택 하자관리, 입주민 돌봄 등 주요 업무에 AI를 접목해 왔다. 건설현장에서는 AI 영상분석 시스템 ‘늘봄 A-Eye’와 실시간 종합건설정보 시스템 ‘RICS(릭스)’를 연계해 고위험 현장...",
-    "published_at": "2026-10-15T18:26:00+09:00",
-    "cluster_id": "4f7b",
-    "publisher": "sedaily.com",
-    "title_clean": "LH, ‘AI 대전환’ 선포…전담조직 ‘AI 혁신처’ 신설",
-    "summary": "LH가 AI 혁신처를 신설하여 건설현장 안전관리, 주택 하자관리, 입주민 돌봄 등에 AI 기술을 적극 활용하는 'AI 대전환'을 추진한다. AI 영상분석 시스템과 실시간 건설정보 시스템 연계로 건설현장의 고위험 상황 관리 고도화를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T18:34:35+09:00",
-    "importance": 2
   }
 ]
