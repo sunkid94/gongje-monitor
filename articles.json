@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“태영건설 현장에서 집 옥상까지 돌 20여개”…창원 자산동 주민들 “사람 맞았으면 어쩔 뻔” - https://www.ppss.kr/",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NR3IyQVB3ZDJlZzZCdllQV1oxRGt6UFBwN3phSEExUlc1WXB2MzM5Ym94d1B2eG8zbWFrcXhmS2RTdTh1bFhHOFU3akxYc0lxVGVKaTc5YWpFSEEyZWhPUGxSbDg?oc=5",
+    "description": "(PPSS 이진화 기자) 태영건설이 시공하는 경남 창원시 마산합포구 자산동 재개발 공사 현장 인근 주민들이 20일 오전 주택 균열과 누수, 발파 과정의 돌 비산",
+    "published_at": "2026-10-20T11:09:53+09:00",
+    "cluster_id": "e541",
+    "publisher": "https://www.ppss.kr/",
+    "title_clean": "“태영건설 현장에서 집 옥상까지 돌 20여개”…창원 자산동 주민들 “사람 맞았으면 어쩔 뻔”",
+    "summary": "경남 창원시 마산합포구 자산동의 태영건설 재개발 공사 현장에서 발파 작업 중 돌 20여 개가 비산하여 인근 주택 옥상에 떨어지는 사고 발생. 주민들은 인명피해 가능성에 우려를 표하며 주택 균열·누수 등의 피해를 입음.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T12:01:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32244,22 +32260,6 @@
     "publisher": "신아일보",
     "title_clean": "수원시, 지역 건설업계 지원·제도 개선 방안 논의",
     "summary": "수원시가 건설경기 침체로 어려움을 겪는 지역 건설업체를 지원하기 위해 지원 방안과 제도 개선을 논의했다. 시청 상황실에서 건설업계 관계자들과 협의를 진행했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T10:30:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, AI·음성인식 접목해 건설현장 안전관리 혁신 - Korea IT Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jSDM3M1lob2k2djY5VlNDdk93UHNMSnl4UE56SVZFWlNlUHdiMFFWZmZ6bklDa1dZbVVJMDg0dV9LdUh0dFFsY0lYbmtqYUVYOF9VYlBKR3RheHNaQ3dwMXktS0FIeVgybzZNaW9vX28?oc=5",
-    "description": "한화 건설부문이 인공지능(AI)과 음성인식 기술을 활용해 건설현장의 안전관리 체계를 고도화한다. 근로자가 말로 위험 상황을 알리고 AI가 사진을 분석해 개선 방안까지 제시하는 방식으로, 현장 중심의 자율 안전관리 강화에 나선다.한화 건설부문은 기존 안전신문고에 음성인식 기반 신고 기능을 적용한 ‘안전퀵문고’와 AI 사진분석 기능을 새롭게 개발했다고 15일 밝혔다.이번 시스템은 근로자가 위험요인을 발견했을 때 보다 간편하게 신고하고, 접수된 내용을 현장 조치로 신속하게 연결하는 데 초점을 맞췄다. 특히 언어와 디지털 기기 사용에 익숙하지 않은 외국인 및 고령 근로자도 안전관리 활동에 쉽게 참여할 수 있도록 접근성을 개선했다.새롭게 도입한 안전퀵문고는 휴대전화의 언어 설정에 맞춰 음성으로 신고 내용을 입력할 수 있는 기능을 제공한다. 기존에는 전화 신고나 QR코드를 통한 플랫폼 접속 후 사진 첨부와 문자 입력 등의 절차를 거쳐야 했지만, 음성인식을 활용해 신고 과정을 간소화했다. 기존",
-    "published_at": "2026-10-15T10:24:39+09:00",
-    "cluster_id": "9b3f",
-    "publisher": "Korea IT Times",
-    "title_clean": "한화 건설부문, AI·음성인식 접목해 건설현장 안전관리 혁신",
-    "summary": "한화 건설부문이 AI와 음성인식 기술을 접목한 '안전퀵문고'와 AI 사진분석 시스템을 도입해 건설현장 안전관리를 고도화했다. 외국인·고령 근로자도 쉽게 안전 신고를 할 수 있도록 접근성을 개선해 현장 중심의 자율 안전관리를 강화한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T10:30:33+09:00",
     "importance": 2
