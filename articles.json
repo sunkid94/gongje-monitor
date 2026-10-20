@@ -20505,6 +20505,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "기후재난의 계급화...위험에 노출되고, 회복에서 밀려나는 사람들 - newspenguin.com",
+    "link": "https://www.newspenguin.com/news/articleView.html?idxno=22320",
+    "description": "건설 노동자와 농민은 더위를 피해 작업장을 벗어나기 어렵고, 일을 멈추면 소득이 줄어든다. 폭염을 피할 선택권이 제한된 노동자일수록 건강 위험을 감수해야 하는 상황에 놓인다. 기후재난의 계급화는 여기서...",
+    "published_at": "2026-10-20T13:20:00+09:00",
+    "cluster_id": "5cfb",
+    "publisher": "newspenguin.com",
+    "title_clean": "기후재난의 계급화...위험에 노출되고, 회복에서 밀려나는 사람들",
+    "summary": "폭염 등 기후재난이 건설 노동자와 농민 등 저소득층에 불균등하게 영향을 미치고 있다. 노동자들은 소득 감소 우려로 위험 노출을 감수할 수밖에 없는 구조적 문제가 대두되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T13:25:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-15T10:50:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "DL건설, 공공주택·AI 데이터센터 '쌍끌이'…사업 넓히고 수익성 높였다 - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1414904",
-    "description": "건설경기 불확실성이 이어지는 상황에서 공공주택으로 안정적인 일감을 확보하고 데이터센터 등 성장성이 높은 비주택 영역을 확대하는 전략이 실적 방어에도 힘을 보탤 것으로 전망된다. DL건설 관계자는...",
-    "published_at": "2026-10-15T10:40:00+09:00",
-    "cluster_id": "ef29",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "DL건설, 공공주택·AI 데이터센터 '쌍끌이'…사업 넓히고 수익성 높였다",
-    "summary": "DL건설이 공공주택 수주로 안정적 일감을 확보하면서 동시에 AI 데이터센터 등 고성장 비주택 사업을 확대하는 쌍끌이 전략을 추진 중이다. 건설경기 불확실성 속에서 사업 다각화를 통해 실적 방어와 수익성 개선을 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T10:50:26+09:00",
-    "importance": 2
   }
 ]
