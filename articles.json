@@ -4505,6 +4505,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "수주잔량 쌓이고 고가 선박 매출 늘어도…조선주 '피크아웃' 공포에 주... - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=322851",
+    "description": "삼성중공업 역시 이달 2일 기준 124억 달러를 수주해 연간 목표의 89%를 채웠으며, 상선 부문은 이미 목표치의 약 140%를 초과 달성했다. 수익성 지표도 호조를 보인다. 지난달 말 기준 국내 조선업계의 수주잔량은...",
+    "published_at": "2026-10-20T12:40:00+09:00",
+    "cluster_id": "b8eb",
+    "publisher": "thepublic.kr",
+    "title_clean": "수주잔량 쌓이고 고가 선박 매출 늘어도…조선주 '피크아웃' 공포에 주...",
+    "summary": "삼성중공업이 연간 수주목표의 89%를 달성하고 상선 부문에서 목표의 140%를 초과 달성하는 등 호실적을 기록했다. 다만 제목에서 조선주들이 '피크아웃' 공포를 느끼고 있어 산업 선행 불확실성이 존재한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T12:45:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20487,22 +20503,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-11T13:47:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "1년째 계속되는 ‘전담수사의 늪’… “인력 부족 심한데 습관적으로 지... - sedaily.com",
-    "link": "https://www.sedaily.com/article/20100091?ref=naver",
-    "description": "포스코이앤씨 공사 현장 감전 사고와 7명의 사상자가 발생한 경북 청도 열차 사고 등 개별 사건에도 전담팀이 투입됐지만 전반적으로는 유사 범죄에 지속적으로 대응할 수 있는 수사 체계를 구축하는 데 초점이 맞춰졌다....",
-    "published_at": "2026-10-11T12:44:00+09:00",
-    "cluster_id": "c2b7",
-    "publisher": "sedaily.com",
-    "title_clean": "1년째 계속되는 ‘전담수사의 늪’… “인력 부족 심한데 습관적으로 지...",
-    "summary": "포스코이앤씨 공사 현장 감전 사고 등 건설 현장 사고에 대응하기 위해 전담팀이 투입되고 있으나, 인력 부족으로 수사에 어려움을 겪고 있다. 건설업계의 안전 관리 체계 개선이 시급한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-11T12:47:41+09:00",
-    "importance": 4
   },
   {
     "keyword": "스마트건설",
