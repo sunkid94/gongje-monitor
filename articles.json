@@ -4607,6 +4607,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대건설·포스코이앤씨 중대재해 최다 보고, 안전 실태는? - gokorea.kr",
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=882186",
+    "description": "현대건설과 포스코이앤씨는 각각 6건의 중대재해를 보고하며 가장 많은 사례를 기록했다. 포스코이앤씨의 경우, 총 9명의 사상자가 발생했으며, 특히 신안산선 공사 현장에서 3건의 중대재해가 보고되었다. 작년 4월과...",
+    "published_at": "2026-10-21T08:40:00+09:00",
+    "cluster_id": "67b4",
+    "publisher": "gokorea.kr",
+    "title_clean": "현대건설·포스코이앤씨 중대재해 최다 보고, 안전 실태는?",
+    "summary": "현대건설과 포스코이앤씨가 각각 6건의 중대재해를 보고하며 건설업체 중 최다 사례를 기록했다. 포스코이앤씨는 총 9명의 사상자가 발생했으며, 신안산선 공사 현장에서 집중적으로 중대재해가 발생한 것으로 나타났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T08:51:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20591,19 +20607,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현대산업개발, AI로 전 세대 층간소음 점검…전국 현장 확대 추진 - pointdaily.co.kr",
-    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321956",
-    "description": "HDC그룹의 계열사 IPARK현대산업개발이 공정 관리 강화를 위해 전 세대를 대상으로 한 AI 기반의 자발적인 층간소음 실측 체계를 전 현장으로 확대할 계획이다. 사진=IPARK현대산업개발  IPARK현대산업개발이 법정...",
-    "published_at": "2026-10-12T15:28:00+09:00",
-    "cluster_id": "a41a",
-    "publisher": "pointdaily.co.kr",
-    "title_clean": "IPARK현대산업개발, AI로 전 세대 층간소음 점검…전국 현장 확대 추진",
-    "summary": "IPARK현대산業開발이 AI 기반 층간소음 실측 체계를 도입하여 공정 관리를 강화하고 전국 현장으로 확대할 계획이다. 이는 건설사의 품질 관리 고도화와 시공 신뢰도 제고를 위한 자발적 개선 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T15:40:26+09:00",
+    "title": "아직도 '예방 vs 처벌'…산재 보도 이분법에서 벗어나야 - mediaus.co.kr",
+    "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=318565",
+    "description": "건설노동자를 대상으로 기능 교육과 안전교육도 진행하고 있으며, 청년 노동자들이 현장에서 필요한 기능과 안전 수칙을 익히도록 하는 활동 역시 산재 예방과 연결되는 중요한 영역이다. 최근에는 삼성물산, GS건설 등...",
+    "published_at": "2026-10-21T08:44:00+09:00",
+    "cluster_id": "07b7",
+    "publisher": "mediaus.co.kr",
+    "title_clean": "아직도 '예방 vs 처벌'…산재 보도 이분법에서 벗어나야",
+    "summary": "산재 보도가 '예방 vs 처벌'의 이분법적 틀에서 벗어나야 한다는 주장. 건설노동자 대상 기능·안전교육과 청년 노동자 현장 교육이 산재 예방의 중요한 영역임을 강조하며, 삼성물산·GS건설 등 대형사들의 예방 활동 사례 소개.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-21T08:51:29+09:00",
     "importance": 2
   },
   {
@@ -32253,21 +32269,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-15T18:54:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "쌍용C&E, 강원 동해로 본사 이전…생산·경영 통합해 효율성 높인다 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=05533366645613248&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "건설경기 침체에 따른 시멘트 수요 부진에 대응하고 생산현장과 경영지원 조직의 연계를 강화하기 위한 조치다. 환경사업 부문은 영월공장으로 옮겨 동해와 영월을 중심으로 한 복수거점 경영체계를 구축한다. 쌍용C&E...",
-    "published_at": "2026-10-15T18:44:00+09:00",
-    "cluster_id": "0088",
-    "publisher": "edaily.co.kr",
-    "title_clean": "쌍용C&E, 강원 동해로 본사 이전…생산·경영 통합해 효율성 높인다",
-    "summary": "쌍용C&E가 건설경기 침체와 시멘트 수요 부진에 대응하기 위해 본사를 강원 동해로 이전하고, 생산현장과 경영지원 조직을 통합한다. 환경사업 부문은 영월공장으로 이전하여 복수거점 경영체계를 구축해 효율성을 높인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-15T18:49:44+09:00",
-    "importance": 4
   }
 ]
