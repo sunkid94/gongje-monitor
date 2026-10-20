@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "\"인력 고령화·현장안전 문제, 피지컬 AI로 푼다\" - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/10/21/2026102019445255685",
+    "description": "개방형 참여체계를 통해 스마트건설 네트워크를 연계하고 확장하는 기능도 맡는다. 이는 초격차 첨단산업을 육성하려는 이재명 대통령의 정책 기조와도 맞닿아 있다. 이 대통령은 오는 23일 청와대에서 제2차...",
+    "published_at": "2026-10-21T04:00:00+09:00",
+    "cluster_id": "3d0b",
+    "publisher": "mt.co.kr",
+    "title_clean": "\"인력 고령화·현장안전 문제, 피지컬 AI로 푼다\"",
+    "summary": "건설업의 인력 고령화와 현장안전 문제를 피지컬 AI 기술로 해결하려는 정책이 추진되고 있다. 스마트건설 네트워크 확장을 통해 초격차 첨단산업 육성을 목표로 하는 정부의 정책 기조와 연계되어 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-21T04:11:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32253,22 +32269,6 @@
     "summary": "LH가 AI 대전환을 선포하고 건설현장 안전관리, 주택 하자관리 등에 AI를 활용하여 주택공급 속도 제고와 주거 서비스 향상을 추진한다. 개별 과제 수준의 기술 도입을 넘어 실질적인 경영 성과 창출을 목표로 한다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-15T18:09:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한화 건설부문, 음성인식·AI 사진분석 탑재 ‘안전퀵문고’ 가동 - 퍼블릭뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKcEtVendUZWNfZHlrT2lxeEs0dGxrTVJ0RU5lcjIzUmFSbXczSWZWTWRLRWg5TTRZOHNuREhyVVA1d1hTS291dmQxcWlFZFh5emROZ1hnOVB5U2RxRDdZNWpJMmdrNlNFblJn?oc=5",
-    "description": "국내 건설현장에서 외국인과 고령 근로자의 비중이 급증하며 언어 소통과 문자 입력의 한계로 인한 안전 공백이 지적되는 가운데, 음성인식과 인공지능(AI) 영상 기술",
-    "published_at": "2026-10-15T16:03:57+09:00",
-    "cluster_id": "0a7f",
-    "publisher": "퍼블릭뉴스통신",
-    "title_clean": "한화 건설부문, 음성인식·AI 사진분석 탑재 ‘안전퀵문고’ 가동",
-    "summary": "한화 건설부문이 음성인식과 AI 영상분석 기술을 탑재한 '안전퀵문고'를 출시했다. 외국인 근로자와 고령층 증가로 인한 건설현장의 안전 커뮤니케이션 문제를 기술로 해결하는 혁신 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T17:59:49+09:00",
     "importance": 2
   }
 ]
