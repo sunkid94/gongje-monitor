@@ -20607,6 +20607,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "10월 3주 주요 제조업 전망 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41665",
+    "description": "제물포구 철강 산업은 장기화된 건설경기 침체와 중국산 저가 철강재 유입, 미국 관세 강화, 산업용 전기요금 인상 등 대내외 복합 악재로 큰 어려움을 겪고 있는 것으로 분석됨 - 인천시는 \"현대제철은 전기로...",
+    "published_at": "2026-10-20T21:57:00+09:00",
+    "cluster_id": "cd33",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "10월 3주 주요 제조업 전망",
+    "summary": "제물포구 철강 산업이 건설경기 침체, 중국산 저가 철강재 유입, 미국 관세 강화, 산업용 전기요금 인상 등 복합 악재로 심각한 어려움을 겪고 있다. 현대제철 등 주요 업체들의 경영 악화가 예상되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-20T22:12:05+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32250,22 +32266,6 @@
     "publisher": "newsclaim.co.kr",
     "title_clean": "LH AI 대전환 선포식 개최 주거 서비스 혁신",
     "summary": "LH가 건설현장 안전관리, 주택 하자관리, 입주민 돌봄 등 주요 업무에 AI를 도입하는 'AI 대전환'을 선포했습니다. AI 기술을 활용한 '핀셋형 안전관리' 등으로 가시적 성과를 내고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T16:29:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, AI로 업무 방식 바꾼다…CEO 주도 실행체계 출범 - the-pr.co.kr",
-    "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62924",
-    "description": "더피알=김지은 기자｜LH가 AI를 핵심 경영 과제로 추진하고, 건설현장 안전관리와 주택 하자 처리, 입주민 돌봄 등 주요 업무에 AI 적용을 확대한다. LH는 서울지역본부에서 이성훈 사장과 주요 본부장 등 경영진이...",
-    "published_at": "2026-10-15T16:22:00+09:00",
-    "cluster_id": "0c95",
-    "publisher": "",
-    "title_clean": "LH, AI로 업무 방식 바꾼다…CEO 주도 실행체계 출범 - the-pr.co.kr",
-    "summary": "LH가 AI를 핵심 경영 과제로 추진하며 건설현장 안전관리, 주택 하자 처리, 입주민 돌봄 등 주요 업무에 AI 적용을 확대한다. CEO 주도의 실행체계를 출범시켜 디지털 혁신을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T16:29:59+09:00",
     "importance": 2
