@@ -20607,6 +20607,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH, 건설자원 공유플랫폼 통해 65억 절감…자원순환 효과 창출 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3727359",
+    "description": "1호 기증은 LH가 '2025 스마트건설‧안전‧AI EXPO'(2025.11.5.~7., 킨텍스)에서 전시용으로 사용했던 모듈러주택을 지역 장애인복지관에 전달한 것이다. 이처럼 폐기 대신 기증을 통해 자원순환과 지역사회 공헌이 동시에...",
+    "published_at": "2026-10-20T22:44:00+09:00",
+    "cluster_id": "8e0f",
+    "publisher": "gukjenews.com",
+    "title_clean": "LH, 건설자원 공유플랫폼 통해 65억 절감…자원순환 효과 창출",
+    "summary": "LH가 건설자원 공유플랫폼을 통해 65억원의 건설자원을 절감하고, 폐기 대신 기증을 통해 자원순환과 사회공헌을 동시에 실현하고 있다. 2025 스마트건설 EXPO 전시용 모듈러주택을 장애인복지관에 기증한 것이 첫 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-20T22:52:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "summary": "경복대학교 건설교육원이 우종태 명예교수를 첫 우수강사로 선정했다. 스마트건설계측 강의의 우수한 교육 운영으로 건설기술인 교육·훈련 우수강사 시상식에서 수상했다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-15T16:40:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH AI 대전환 선포식 개최 주거 서비스 혁신 - newsclaim.co.kr",
-    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078708",
-    "description": "아울러 건설현장 안전관리, 주택 하자관리, 입주민 돌봄 등 주요 업무 전반에 AI를 접목해 가시적인 성과를 내고 있습니다. 실제로 고위험 현장을 매일 선별·관리하는 '핀셋형 안전관리'를 시행 중이며, AI 기술을...",
-    "published_at": "2026-10-15T16:26:00+09:00",
-    "cluster_id": "1f38",
-    "publisher": "newsclaim.co.kr",
-    "title_clean": "LH AI 대전환 선포식 개최 주거 서비스 혁신",
-    "summary": "LH가 건설현장 안전관리, 주택 하자관리, 입주민 돌봄 등 주요 업무에 AI를 도입하는 'AI 대전환'을 선포했습니다. AI 기술을 활용한 '핀셋형 안전관리' 등으로 가시적 성과를 내고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T16:29:59+09:00",
     "importance": 2
   }
 ]
