@@ -4624,23 +4624,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "국토안전관리원 신임 비상임이사에 김창균 변호사 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=419342",
-    "description": "김 신임 이사는 전문건설공제조합 법무지원팀장과 하나은행 법무팀 차장, 법무법인 태평양 변호사 등을 역임했다. 국토안전관리원은 '공공기관의 운영에 관한 법률'에 따라 김 이사를 임명했으며, 건설·금융 분야에서...",
-    "published_at": "2026-09-21T13:40:00+09:00",
-    "cluster_id": "15f2",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "국토안전관리원 신임 비상임이사에 김창균 변호사",
-    "summary": "국토안전관리원이 건설·금융 분야 경험이 풍부한 김창균 변호사를 신임 비상임이사로 임명했다. 김 이사는 전문건설공제조합, 하나은행, 법무법인 등에서 법무 업무를 담당한 전문가다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-21T13:44:59+09:00",
-    "event_label": "전문건설공제조합 관련 인사 - 김창균 변호사 국토안전관리원 비상임이사 임명",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20638,6 +20621,22 @@
     "summary": "한남뉴타운 재개발이 본격화되면서 한남3구역 철거가 완료되고 1만3000여 가구의 대규모 주택 공급이 임박했다. 한남2구역은 대우건설이 시공을 맡아 최고급 주거단지 조성을 목표로 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T21:10:26+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "6년 이끈 오세철 삼성물산 대표, '부회장 승진' 갈림길[건설 CEO 인사 레... - newsway.co.kr",
+    "link": "https://www.newsway.co.kr/news/view?ud=2026102111173816266",
+    "description": "그 사이 건설경기 침체와 공사비 상승, PF 시장 경색 등 업황 부침이 이어졌지만 수장 교체 없이 건설부문을 이끌어왔다는 점에서 이례적이라는 평가가 나온다. 임기 만료를 앞둔 만큼 올해 연말 인사에서 사실상...",
+    "published_at": "2026-10-21T13:44:00+09:00",
+    "cluster_id": "8570",
+    "publisher": "newsway.co.kr",
+    "title_clean": "6년 이끈 오세철 삼성물산 대표, '부회장 승진' 갈림길[건설 CEO 인사 레...",
+    "summary": "오세철 삼samsung물산 대표가 6년간 건설경기 침체, 공사비 상승, PF 시장 경색 등 어려운 여건 속에서도 수장 교체 없이 건설부문을 이끌어온 것으로 평가된다. 임기 만료를 앞둔 올해 연말 인사에서 부회장 승진이 예상되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-21T13:52:05+09:00",
     "importance": 2
   },
   {
