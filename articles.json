@@ -4607,6 +4607,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가덕신공항 컨소시엄 참여 BS한양 탈퇴 요청 - busanmbc.co.kr",
+    "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290228",
+    "description": "부산MBC)가덕도신공항 부지조성공사를 맡을 대우건설 컨소시엄에 참여 중인 BS한양이 컨소시엄 탈퇴를 요청해 사업 추진에 차질이 예상됩니다.중동 사태 장기화로 인한 공사비 급등으로 참여 업체들의 공사비 현실화...",
+    "published_at": "2026-10-21T09:02:00+09:00",
+    "cluster_id": "c38e",
+    "publisher": "busanmbc.co.kr",
+    "title_clean": "가덕신공항 컨소시엄 참여 BS한양 탈퇴 요청",
+    "summary": "가덕도신공항 부지조성공사 컨소시엄에 참여 중인 BS한양이 탈퇴를 요청했습니다. 중동 사태 장기화로 인한 공사비 급등이 원인으로, 사업 추진에 차질이 예상됩니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T09:11:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20588,22 +20604,6 @@
     "summary": "IPARK는 법정 표본검사를 넘어 AI를 활용한 전 세대 층간소음 실측을 시행하여 품질 검증 신뢰도를 강화하고 있다. 강변역 센트럴 아이파크에서 시작한 이 시스템을 천안, 곤지암, 익산 등 전국 현장으로 확대할 계획이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-12T15:50:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, AI 활용 전 세대 층간소음 실측…전국 현장 확대 추... - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=283871",
-    "description": "[사진=IPARK현대산업개발] IPARK현대산업개발이 AI 기술을 활용해 단지 전체 세대의 바닥충격음을 직접 측정하는 '층간소음 품질 관리 체계'를 구축했다고 12일 밝혔습니다. 이번 실측은 국토교통부 신속 상용화...",
-    "published_at": "2026-10-12T15:32:00+09:00",
-    "cluster_id": "5f45",
-    "publisher": "paxetv.com",
-    "title_clean": "IPARK현대산업개발, AI 활용 전 세대 층간소음 실측…전국 현장 확대 추...",
-    "summary": "IPARK현대산업개발이 AI 기술을 활용하여 아파트 단지 전체 세대의 층간소음을 직접 측정하는 품질 관리 체계를 구축했다. 국토교통부 신속 상용화 과제로 진행 중이며 전국 현장으로 확대할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T15:40:26+09:00",
     "importance": 2
   },
   {
