@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "전남광주 집값은 한지붕 두가족?…광주 '회복' 전남 '전국 꼴찌' - jnilbo.com",
+    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000075601",
+    "description": "주택건설수주지수는 재개발·재건축이 나란히 105.0으로 각각 11.9포인트, 12.1포인트 올랐고 택지지수도 96.9로 10.1포인트 상승했다. 주산연 관계자는 \"지방 주택시장은 수요 부진과 미분양 적체가 지속되고 있어...",
+    "published_at": "2026-10-22T04:00:00+09:00",
+    "cluster_id": "b3c7",
+    "publisher": "jnilbo.com",
+    "title_clean": "전남광주 집값은 한지붕 두가족?…광주 '회복' 전남 '전국 꼴찌'",
+    "summary": "주택건설수주지수가 재개발·재건축 부문에서 각각 11.9포인트, 12.1포인트 상승하며 긍정 신호를 보였으나, 지방 주택시장은 수요 부진과 미분양 적체가 지속되고 있어 지역별 편차가 심한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-22T04:06:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "title_clean": "파주 운정중앙역에 2만8000㎡ 문화공원 조성…2029년 준공 목표",
     "summary": "파주 운정중앙역에 2만8000㎡ 규모의 문화공원이 조성되며 11월 이후 본격 공사에 착수할 예정이다. 건설경기 침체 속에서 역세권 개발을 선도할 수 있는 프로젝트로 주목되고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-16T17:30:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부영그룹, 전국 사업장 안전관리 점검…현장 대응 역량 강화 - Korea IT Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhOVlsdjVjQ2VXWlJKbloya1Jjc3h0MFRBUGtVVVRHVkRzcTFlTGFMQXloMEVxT211TW0wUlpfOEtWZnMtZXBISHZRd3RKYmtpZnVoS1J1YzUxZC1IM1IzYmNxcklZYXptTXBDdGNBZ3Y?oc=5",
-    "description": "부영그룹이 건설 현장의 안전관리 체계를 재점검하고 본사와 사업장 간 협업 강화에 나섰다. 현장별 위험 요인과 점검 사례를 공유해 실무자의 대응 능력을 높이고 중대재해 예방 기반을 다진다는 취지다.부영그룹은 지난 13일과 15일 서울 중구 본사에서 ‘2026년 하반기 안전·보건관리자 워크숍’을 개최했다. 행사에는 본사 안전보건 담당자와 전국 주요 사업장에서 근무하는 안전·보건관리자들이 참석했다.참석자들은 현장별 재해 예방 대책을 논의하고, 사전에 실시한 안전·보건관리 설문 결과를 바탕으로 개선이 필요한 사항을 살폈다. 최근 주요 점검 사례와 향후 점검 방향도 공유했으며, 현장 담당자들이 업무 과정에서 겪는 어려움과 건의사항을 전달하는 시간도 가졌다.부영그룹은 워크숍에서 수렴한 의견을 현장 안전관리 업무에 반영하고 본사와 사업장 사이의 정보 공유를 강화할 계획이다. 현장 실무자가 위험 상황에 보다 효과적으로 대응할 수 있도록 안전관리 역량을 높이는 데도 주력한다.앞서 부영그룹은 뚝섬부영",
-    "published_at": "2026-10-16T15:53:19+09:00",
-    "cluster_id": "5e5d",
-    "publisher": "Korea IT Times",
-    "title_clean": "부영그룹, 전국 사업장 안전관리 점검…현장 대응 역량 강화",
-    "summary": "부영그룹이 전국 사업장 안전·보건관리자 워크숍을 개최하여 현장별 재해 예방 대책을 논의하고 안전관리 체계를 재점검했다. 본사와 사업장 간 정보 공유를 강화하고 실무자의 위험 대응 능력을 높여 중대재해 예방 기반을 마련한다는 계획이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-16T17:30:13+09:00",
     "importance": 2
   }
