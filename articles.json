@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH, 1조7000억원 규모 고양은평선 건설…2031년 개통 목표 - webeconomy.co.kr",
+    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2341437",
+    "description": "LH는 2025년 스마트건설·안전·AI 엑스포에서 전시한 모듈러주택을 플랫폼을 통해 지역 장애인복지관에 기증하는 등 자원 공유를 사회공헌 활동으로도 확대하고 있다. 세종 산울마을 4단지, 아시아 건축설비...",
+    "published_at": "2026-10-21T12:06:00+09:00",
+    "cluster_id": "f58f",
+    "publisher": "webeconomy.co.kr",
+    "title_clean": "LH, 1조7000억원 규모 고양은평선 건설…2031년 개통 목표",
+    "summary": "LH가 1조7000억원 규모의 고양은평선 건설사업을 추진하며 2031년 개통을 목표로 하고 있다. 동시에 모듈러주택 등을 지역사회에 기증하는 사회공헌활동을 전개 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-21T12:12:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "title_clean": "윤종호 경북도의원 \"신공항 건설에 정부 적극적 재정지원 필요\"",
     "summary": "윤종호 경북도의원이 답보 상태의 대구경북신공항 건설 사업의 정상화를 위해 정부의 적극적인 재정지원을 촉구했다. 신공항 건설은 건설업계에 대규모 공사 수주 기회를 제공할 수 있는 프로젝트다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-15T22:29:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설연, 건축물 데이터 플랫폼 구축…행정·에너지·지표 정보 한눈에 - 대한건축사협회 건축사신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BdnVlQXByV3VVa3FMYUxDaHQ4NmQ5TWltcHNkb0daRnpxWlF5M3FiUjZIMEV3MGVxTjVvTnJtMS16eV82YzRITWJqaHl6a2pTT0tTMUNXblBidm1BaXpiUkJ0R0ZHZ0E?oc=5",
-    "description": "한국건설기술연구원(이하 건설연)이 전국 약 730만 동의 건축물 정보를 통합한 데이터 플랫폼 ‘데이터넷(DataNet)’을 구축하고, 웹 시각화 시스템 ‘딥뷰(DeepView)’를 시범 운영한다.건설연은 10월 15일 건물부문 탄소중립을 위해 건물에너지 소비데이터를 통합하고 시각정보로 제공한다고 밝혔다. 데이터넷은 건축물대장을 기준으로 건물 에너지사용량, 업종 인허가, 공간정보, 기상, 상권·상가, 공동주택, 교육·의료·문화시설 등 17종의 데이터를 연계하는 플랫폼으로 현재 13종의 데이터 연계를 완료했으며, 나머지 데이터는 12월",
-    "published_at": "2026-10-15T15:55:01+09:00",
-    "cluster_id": "7789",
-    "publisher": "대한건축사협회 건축사신문",
-    "title_clean": "건설연, 건축물 데이터 플랫폼 구축…행정·에너지·지표 정보 한눈에",
-    "summary": "한국건설기술연구원이 전국 730만 동의 건축물 정보를 통합한 데이터 플랫폼 '데이터넷'을 구축하고 웹 시각화 시스템 '딥뷰'를 시범 운영한다. 17종의 건물 에너지·인허가·공간정보 등을 연계하여 건물부문 탄소중립과 에너지 효율화를 지원할 예정이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-15T22:29:53+09:00",
     "importance": 2
   }
