@@ -20607,6 +20607,38 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "건설경기 부진 지속…\"건설사 폐업도 최다\" - engdaily.com",
+    "link": "http://www.engdaily.com/news/articleView.html?idxno=23643",
+    "description": "국토교통부 건설산업지식정보시스템에 따르면 지난 1월부터 9월까지 폐업 신고한 건설사는 3,274개다. 이는 전년도 동기간 2,569개 대비 27.4% 증가한 수치다. 지난 2009년 같은 기간의 3,340개 이후 17년 만에 가장...",
+    "published_at": "2026-10-21T09:56:00+09:00",
+    "cluster_id": "9d3a",
+    "publisher": "engdaily.com",
+    "title_clean": "건설경기 부진 지속…\"건설사 폐업도 최다\"",
+    "summary": "올해 1월~9월 건설사 폐업 신고가 3,274개로 전년 동기 대비 27.4% 증가했으며, 2009년 이후 17년 만에 최고 수치를 기록했다. 건설경기 부진이 지속되면서 업계 전반의 경영난이 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T10:01:44+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "종합건설업체 33개월째 감소…전문건설업 폐업 24% 늘어 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=352585",
+    "description": "건설경기 침체로 종합건설업체 수가 감소하고 전문건설업체의 폐업이 늘어나는 등 건설업계의 경영 여건이 악화하고 있다. [사진=픽사베이] 21일 국토교통부의 월별 건설업체 통계에 따르면 지난 9월 말 기준...",
+    "published_at": "2026-10-21T09:53:00+09:00",
+    "cluster_id": "aafd",
+    "publisher": "greened.kr",
+    "title_clean": "종합건설업체 33개월째 감소…전문건설업 폐업 24% 늘어",
+    "summary": "건설경기 침체로 종합건설업체 수가 33개월째 감소세를 보이고 있으며, 전문건설업체의 폐업이 24% 증가하는 등 건설업계의 경영 여건이 악화하고 있다. 업체 수 감소와 폐업 증가는 건설업계 전반의 구조적 어려움을 시사한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T10:01:44+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32237,37 +32269,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-15T20:09:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "경기도의회 김인영 의원, 道 건설국장 만나 '지방도 318호선 설성면 신필~대죽 도로건설공사' 조속 추진 건의 - www.mediatoday.asia",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmFCVW4zQ3NsNmRoYmRLbTdFQllKWXREV2tDaEs0Q3NJWTMwNFI3V2x1Y0JnWTU1Zm9HcVl6VnpQSE9VNHZrT3VEV1NYZUI5Z2w2ZDJxdUV4azNGY1hfUHEycHFRN2NXTEZsUnFoaFJKVWMzRUNiYUJ4a0tjQVhXS1pEblVoRGxnYWZiS3pBX2kyMldPaU4xZA?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmFCVW4zQ3NsNmRoYmRLbTdFQllKWXREV2tDaEs0Q3NJWTMwNFI3V2x1Y0JnWTU1Zm9HcVl6VnpQSE9VNHZrT3VEV1NYZUI5Z2w2ZDJxdUV4azNGY1hfUHEycHFRN2NXTEZsUnFoaFJKVWMzRUNiYUJ4a0tjQVhXS1pEblVoRGxnYWZiS3pBX2kyMldPaU4xZA?oc=5\" target=\"_blank\">경기도의회 김인영 의원, 道 건설국장 만나 '지방도 318호선 설성면 신필~대죽 도로건설공사' 조속 추진 건의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.mediatoday.asia</font>",
-    "published_at": "2026-10-15T18:07:00+09:00",
-    "cluster_id": "957b",
-    "publisher": "www.mediatoday.asia",
-    "title_clean": "경기도의회 김인영 의원, 道 건설국장 만나 '지방도 318호선 설성면 신필~대죽 도로건설공사' 조속 추진 건의",
-    "summary": "경기도의회 김인영 의원이 도 건설국장을 만나 지방도 318호선 설성면 신필~대죽 구간 도로건설공사의 조속 추진을 건의했다. 해당 도로건설사업의 빠른 진행을 촉구하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T20:04:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, 'AI 대전환' 선포…주택공급·안전관리·주거서비스 혁신 속도 - biztribune.co.kr",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=360754",
-    "description": "건설현장 안전관리와 주택 하자 처리, 입주민 돌봄 등 주요 업무에 AI를 접목해 실질적인 성과를 창출하고, 업무 효율화와 대국민 주거서비스 개선을 동시에 추진한다는 계획이다. 특히 AI를 개별 기술 도입이나...",
-    "published_at": "2026-10-15T19:30:00+09:00",
-    "cluster_id": "4a8c",
-    "publisher": "biztribune.co.kr",
-    "title_clean": "LH, 'AI 대전환' 선포…주택공급·안전관리·주거서비스 혁신 속도",
-    "summary": "LH가 건설현장 안전관리, 주택 하자 처리, 입주민 돌봄 등 주요 업무에 AI를 도입하여 업무 효율화와 주거서비스 개선을 추진한다. 개별 기술 도입을 넘어 AI 대전환을 선포하며 주택공급 혁신 속도를 내고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-15T19:39:42+09:00",
-    "importance": 2
   }
 ]
