@@ -20607,6 +20607,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "중대재해법에도 사망자 다시 늘었다…현장은 달라졌나 - hinews.co.kr",
+    "link": "https://www.hinews.co.kr/view.php?ud=202610212055353093cd8b879b3c_48",
+    "description": "건설경기가 위축되면 공사 현장과 작업 인원이 줄어 사망사고도 감소할 수 있고, 특정 업종의 생산과 고용이 늘면 위험에 노출되는 노동자가 증가할 가능성도 있다. 실제 2024년에는 건설업 사망자가 줄었지만 제조업과...",
+    "published_at": "2026-10-21T21:02:00+09:00",
+    "cluster_id": "9f1d",
+    "publisher": "hinews.co.kr",
+    "title_clean": "중대재해법에도 사망자 다시 늘었다…현장은 달라졌나",
+    "summary": "중대재해법 시행 이후에도 산업재해 사망자가 다시 증가하는 추세를 보이고 있다. 건설업은 감소했지만 제조업 등 다른 업종에서 사망사고가 늘어나고 있어 산업 전반의 안전 개선이 미흡한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T21:11:11+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "summary": "부영그룹이 안전 최우선 경영 방침에 따라 전국 현장의 안전·보건관리자를 대상으로 워크숍을 실시했다. 현장 맞춤형 재해 예방 및 본사-현장 간 소통 체계 강화를 통해 건설현장의 안전문화 정착을 추진하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-16T16:09:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고양시, 산재예방 유공 道지사 표창 - 현대일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sQ1hXOXIteHhlTEtLM1V3NlNUYUpydWx3NlBFRkpaX0pFQkxDZDExWnJ3RXJwMlNtVDNxT01LMEtPRXhhRFE4M0IyRTh6dGc4dEY2M0V4ck1MMEVtSEQxM3NTM1dvenI3LTg5UUNR?oc=5",
-    "description": "고양시가 건설공사장 산업재해 예방을 위한 지속적인 안전관리와 현장 중심의 예방 활동성과를 인정받아‘2026년 건설공사장 산업재해 예방 유공’경기도지사 기관 표창을 수상했다.이번 표창은 경기도가 2025년 시군 종합평가 결과와 건설공사장 안전관리 기여 실적 등을 종합적으로 평가해 수여하는 것으로, 고양시는 경기도지사 표창 대상 이 됐다.시는 그동안 건설공사장의 산업재해를 예방하고 안전관리 수준을 높이기 위해 연중 수시 안전점검과 해빙기, 폭염, 풍수해, 동절기 등 계절별 위험 요인에 대응하는 맞춤형 점검을 추진해 왔다.또한 올해 9월",
-    "published_at": "2026-10-16T15:27:15+09:00",
-    "cluster_id": "b442",
-    "publisher": "현대일보",
-    "title_clean": "고양시, 산재예방 유공 道지사 표창",
-    "summary": "고양시가 건설공사장 산업재해 예방 및 안전관리 실적을 인정받아 경기도지사 표창을 수상했다. 시는 연중 수시 점검과 계절별 맞춤형 안전점검을 통해 산업재해 예방에 기여했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-16T15:59:34+09:00",
     "importance": 2
   }
 ]
