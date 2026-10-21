@@ -20590,6 +20590,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "목동10단지 4248세대로 재건축…목동 첫 ‘디에이치’ 적용 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37489",
+    "description": "서울 목동10단지가 최고 40층, 4248세대 규모로 재건축된다. 현대건설이 2조6000억원이 넘는 시공권을 확보하면서 목동신시가지 재건축 사업에 처음 진입했다. 목동에서는 처음으로 하이엔드 주거 브랜드 ‘디에이치(THE H)’를 적용하고 해외 설계사와 함께 단지 설계와 조경을 맡는다.현대건설은 지난 18일 열린 목동10단지 재건축사업 전체회의에서 시공사로 최종 선정됐다고 밝혔다.사업지는 서울 양천구 신정동 311번지 일대다. 기존 2160세대를 최고 40층, 총 4248세대 규모의 공동주택과 부대복리시설로 재건축한다. 사업시행자는",
+    "published_at": "2026-10-21T13:35:00+09:00",
+    "cluster_id": "bfee",
+    "publisher": "한국건설신문",
+    "title_clean": "목동10단지 4248세대로 재건축…목동 첫 ‘디에이치’ 적용",
+    "summary": "현대건설이 목동10단지 재건축사업의 시공사로 선정되어 2조6000억원대 대규모 수주를 확보했다. 기존 2160세대를 최고 40층 4248세대로 확대 재건축하며, 목동 최초로 하이엔드 브랜드 'THE H'를 적용한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-21T15:06:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32251,22 +32267,6 @@
     "summary": "건설현장 전자카드 발급률은 90%에 달하지만 실제 사용률은 75%에 그쳐, 116만여 명 중 약 38만 명이 여전히 전자카드를 사용하지 않고 있다. 이는 근로자 관리 체계의 실효성 문제를 드러내며 건설업계의 투명성 강화 과제를 지적한다.",
     "sentiment": "negative",
     "collected_at": "2026-10-16T06:09:19+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“신앙인 소명으로 나눔 실천” 자소서로 합격… 건설근로자공제회 성남라인 이사장 논란 - 동아일보",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iYXFrUGVtLUNFXzJzQXhPM3Q0SGxOZjJlcEpiUFd6ei1HWl9nY1JlUGdoeGJjRl9TYkdzRTlKcUJ0TWw4N0lBeWQ1a3lUMGZvSDlfdjJ2QXJ6ZVd6WGZ2RkNWQWZ5ZnlwRjNJU1ptaU90OENaQnhN0gFmQVVfeXFMTkRHNzJ4dDE2bGVDajA1azNsYkVXWlZ0RTRDNXpTWFg4M1lqZ2NTbjk5NGduNHlvZ3p0aTBDWXVPWG9vR1ZWc3BYb0FFTjdxdGNwNDZmSFpLUVh0UWl3ZktlZUhIMlp3?oc=5",
-    "description": "이른바 ‘경기·성남 라인’ 인사들이 공공기관장으로 임명된 것을 둘러싼 논란이 확산되고 있다. 야권에서는 관련 경력이나 전문성이 부족한 ‘낙하산’ 인사들이 임명됐다고 비판하고 있다. 15일 국회 기후에너지환경노동위원회 소속 국민의힘 나경원 의원실이 건설근로자공제회로부터…",
-    "published_at": "2026-10-16T04:30:00+09:00",
-    "cluster_id": "f2c1",
-    "publisher": "동아일보",
-    "title_clean": "“신앙인 소명으로 나눔 실천” 자소서로 합격… 건설근로자공제회 성남라인 이사장 논란",
-    "summary": "경기·성남 라인 인사들이 건설근로자공제회 등 공공기관장으로 임명된 것을 둘러싼 논란이 확산 중이다. 야권에서는 관련 경력과 전문성이 부족한 '낙하산' 인사라고 비판하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-16T04:39:21+09:00",
     "importance": 4
   }
 ]
