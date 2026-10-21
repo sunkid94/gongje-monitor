@@ -20607,6 +20607,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[조간신문 뉴스라인] 대전∙충남∙세종 21일 (수) - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3727594",
+    "description": "대전,세종,충남 조간신문 헤드라인 (국제뉴스) ★ 대전일보 : 침체 늪 못 벗어나는 건설경기 … 지방은행 빈자리 더 커진다. ★ 대전투데이 : 충청,호남 교육감들 ❝교육교부금 안정적 확보 절실❞ ★ 충청투데이 : ❝전년...",
+    "published_at": "2026-10-21T09:28:00+09:00",
+    "cluster_id": "a4b0",
+    "publisher": "gukjenews.com",
+    "title_clean": "[조간신문 뉴스라인] 대전∙충남∙세종 21일 (수)",
+    "summary": "대전·충남·세종 지역 조간신문 헤드라인을 정리한 뉴스라인으로, 건설경기 침체로 인한 지방은행 영업 부진과 교육교부금 확보 문제 등을 다루고 있습니다. 건설업계의 경기 침체가 금융권까지 영향을 미치고 있는 상황을 반영하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T09:36:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "summary": "LH가 건설현장 안전관리, 주택 하자 처리, 입주민 돌봄 등 주요 업무에 AI를 도입하여 업무 효율화와 주거서비스 개선을 추진한다. 개별 기술 도입을 넘어 AI 대전환을 선포하며 주택공급 혁신 속도를 내고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-15T19:39:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "“美 SMR·불가리아 원전 잭팟 대기…현대건설, 수주 파이프라인 단단하다” - 뉴스퀘스트",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zejdyUkhBemViYWk3anhLR0UtbkZjdllPa2xod3ZFb2ZMSzlLeVlUQzFqa3QwVm1XaTRZV1A4eHZPdXc5N0VsVWNTSWVXYU55NnJYaElBZWw4Y3JhYmt3TW9Sa1JYU3ZZeEt4NFZXYw?oc=5",
-    "description": "【뉴스퀘스트=장원수 기자】LS증권은 15일 현대건설에 대해 투자의견 Buy와 목표주가 17만5000원을 유지하며, 건설/원전 내 Top picks 종목으로 추천했",
-    "published_at": "2026-10-15T19:03:31+09:00",
-    "cluster_id": "0fe5",
-    "publisher": "뉴스퀘스트",
-    "title_clean": "“美 SMR·불가리아 원전 잭팟 대기…현대건설, 수주 파이프라인 단단하다”",
-    "summary": "LS증권이 현대건설을 건설/원전 부문 최우선 종목으로 추천하며 Buy 의견과 17만5000원 목표주가를 유지했다. 미국 소형모듈원전(SMR)과 불가리아 원전 수주 등 강력한 파이프라인을 바탕으로 향후 수주 증가가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T19:09:39+09:00",
     "importance": 2
   }
 ]
