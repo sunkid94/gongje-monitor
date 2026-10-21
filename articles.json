@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "전기안전공사·전기공사협회, 시공 안전 협력 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VaFNfbl85WlJMY1JUSUh6bmx0YWEwTXF6cFZsa3p1aGppblZYUkp2akxMR3J6cTdDRGIwdjlWS3lNbUtGRFV1eUc3VkUySlQyTTdlSVRhSnh2TUd6LV9rQW1vTQ?oc=5",
+    "description": "[국토일보 조성구 기자] 전기설비 시공 단계의 안전관리와 품질 확보를 위한 협력이 강화된다. 현장 실무교육과 중소 전기공사업체 지원을 확대하고, 취약시설 안전점검과 제도 개선까지 공동 추진하는 것이 핵심이다.한국전기안전공사(사장 남화영)는 한국전기공사협회(회장 이형주)와 지난 20일 충북 청주 소재 협회에서 전기안전 확보와 시공품질 향상을 위한 업무협약을 체결했다.이번 협약은 디지털 기반 안전관리체계로의 전환을 추진하고 전기설비 시공품질을 높여 안전한 전기 사용환경을 조성하기 위해 마련됐다.양 기관은 제도 개선과 시공품질 향상, 에",
+    "published_at": "2026-10-21T10:34:00+09:00",
+    "cluster_id": "5b4c",
+    "publisher": "국토일보",
+    "title_clean": "전기안전공사·전기공사협회, 시공 안전 협력",
+    "summary": "한국전기안전공사와 한국전기공사협회가 전기설비 시공 안전관리와 품질 확보를 위한 업무협약을 체결했다. 현장 실무교육 확대, 중소 전기공사업체 지원, 취약시설 안전점검 등을 공동 추진하며 디지털 기반 안전관리체계로의 전환을 추진한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-22T02:51:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설업 규제",
     "category": "정책·규제",
     "is_company": false,
@@ -32254,21 +32270,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-16T17:30:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "노동부 장관, 부산 건설현장 붕괴사고 예방 불시점검 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjRqekhQbXFjN3BuZEFfTF95Z0xaYUNtMEtNN0J4RGpDaFpiVThUbF9nUER5QnB0OTZraEI2RldrdmxvTDdBeGt2TzZVUVZfUmlvdnJ1Wk9kQm9XMEM2SkxUVkZCZVlWNGx5WEYwNFNDOTlTSDJGUTBHdGM2aU1Ucg?oc=5",
-    "description": "고용노동부가 부산 건설 현장을 사전 예고 없이 찾아 붕괴사고를 예방하기 위한 불시점검을 실시했다. 김영훈 노동부 장관은 16일 오후 3시쯤 부산 남구 A대학교 동물병원 신축현장을 찾아 위험요인과 안전조치 이행 여부를 직접 점검했다.(사진=고용노동부)김영훈 노동부 장...",
-    "published_at": "2026-10-16T16:59:36+09:00",
-    "cluster_id": "3d37",
-    "publisher": "이데일리",
-    "title_clean": "노동부 장관, 부산 건설현장 붕괴사고 예방 불시점검",
-    "summary": "고용노동부가 부산 건설현장에서 붕괴사고 예방을 위한 불시점검을 실시했다. 김영훈 노동부 장관이 직접 A대학교 동물병원 신축현장을 방문해 안전조치 이행 여부를 점검했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-16T17:10:23+09:00",
-    "importance": 4
   }
 ]
