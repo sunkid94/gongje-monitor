@@ -20627,6 +20627,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[포토뉴스]철원군 일반건설협의회-철원군 건설경기 활성화 협력 - kwnews.co.kr",
+    "link": "https://www.kwnews.co.kr/article/20261021500813",
+    "description": "철원군 일반건설협의회(회장:김민환)는 21일 갈말읍 일원에서 이호만 철원군 건설과장 등이 참석한 가운데 간담회를 갖고 지역 건설 경기 활성화 방안을 논의했다.",
+    "published_at": "2026-10-22T00:03:00+09:00",
+    "cluster_id": "c034",
+    "publisher": "kwnews.co.kr",
+    "title_clean": "[포토뉴스]철원군 일반건설협의회-철원군 건설경기 활성화 협력",
+    "summary": "철원군 일반건설협의회가 철원군 건설과장과 간담회를 개최하여 지역 건설 경기 활성화 방안을 논의했다. 지자체와 건설업계가 협력하여 건설 경기 부양을 위한 대책을 추진하려는 움직임으로 보인다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-22T00:11:46+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "중대재해법에도 사망자 다시 늘었다…현장은 달라졌나 - hinews.co.kr",
     "link": "https://www.hinews.co.kr/view.php?ud=202610212055353093cd8b879b3c_48",
     "description": "건설경기가 위축되면 공사 현장과 작업 인원이 줄어 사망사고도 감소할 수 있고, 특정 업종의 생산과 고용이 늘면 위험에 노출되는 노동자가 증가할 가능성도 있다. 실제 2024년에는 건설업 사망자가 줄었지만 제조업과...",
@@ -32254,21 +32270,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-16T16:30:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "SH, 불법하도급 예방교육 실시…현장점검 강화 - lawissue.co.kr",
-    "link": "https://www.lawissue.co.kr/view.php?ud=202610161559186443f4ab64559d_12",
-    "description": "주요 내용은 하도급의 법적 성격과 관련 법령, 건설산업기본법 및 하도급거래 공정화에 관한 법률에 따른 불법하도급 금지 규정, 수급인의 의무와 실무 대응 방안 등이다. 대법원 판례와 하도급대금 조정 관련 분쟁...",
-    "published_at": "2026-10-16T16:00:00+09:00",
-    "cluster_id": "fad5",
-    "publisher": "lawissue.co.kr",
-    "title_clean": "SH, 불법하도급 예방교육 실시…현장점검 강화",
-    "summary": "SH가 불법하도급 예방교육을 실시하고 현장점검을 강화하고 있다. 건설산업기본법과 하도급거래 공정화법에 따른 불법하도급 금지 규정, 수급인 의무, 실무 대응 방안 등을 교육 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-16T16:09:32+09:00",
-    "importance": 4
   }
 ]
