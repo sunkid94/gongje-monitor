@@ -4624,6 +4624,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "경남도, 공공기관 2차 이전 핵심기관 9곳 정조준… 발전공기업 통합본사... - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/national/2378914.htm",
+    "description": "경남에 집적된 두산에너빌리티와 유니슨 등 발전설비 제조기업, SK오션플랜트, 한국전기연구원 등과의 협력 기반도 강점으로 내세운다. 발전 현장과 제조기업, 연구기관을 유기적으로 연결해 에너지기술 개발과 현장...",
+    "published_at": "2026-10-21T13:21:00+09:00",
+    "cluster_id": "4d43",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "경남도, 공공기관 2차 이전 핵심기관 9곳 정조준… 발전공기업 통합본사...",
+    "summary": "경남도가 공공기관 2차 이전의 핵심기관 9곳을 추진하며, 두산에너빌리티, SK오션플랜트, 한국전기연구원 등 지역 발전설비 제조기업과 연구기관의 협력 기반을 강화하려는 계획을 밝혔다. 발전 현장, 제조기업, 연구기관의 유기적 연결을 통해 에너지기술 개발 생태계를 구축하려는 전략이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-21T13:27:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20608,20 +20624,20 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "성수전략정비구역 재개발 속도…삼성물산·GS건설 등 시공권 확보, 9000여... - jemin.com",
-    "link": "https://www.jemin.com/news/articleView.html?idxno=844329",
-    "description": "주민 의견 수렴은 오는 20일까지 진행된다.4지구는 지난 7월 롯데건설을 시공사로 선정했다. 최고층 주거시설과 생활 편의시설 등을 포함하는 정비사업으로, 예정 공사비는 약 1조3628억원이다. 이에 따라...",
-    "published_at": "2026-10-12T21:00:00+09:00",
-    "cluster_id": "4d4c",
-    "publisher": "jemin.com",
-    "title_clean": "성수전략정비구역 재개발 속도…삼성물산·GS건설 등 시공권 확보, 9000여...",
-    "summary": "성수전략정비구역 재개발 사업에서 삼성물산, GS건설 등 주요 건설사들이 시공권을 확보하며 프로젝트가 진행 중이다. 4지구는 롯데건설이 시공사로 선정되어 약 1조3628억원 규모의 정비사업을 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T21:10:26+09:00",
-    "importance": 2
+    "title": "[기업분석] KCC 무기단열재, '불에 타지 않는다' 명제 이면···규제가 ... - polinews.co.kr",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=746403",
+    "description": "김 원장은 2026년 시장을 '규제 강화에 따른 고품질 제품 재편'과 '건설경기 침체 속 기술경쟁 심화'로 요약하면서 장기열전도율 기준과 ZEB 의무화를 핵심 변수로 지목했다. ZEB는 무기단열재의 두 번째 구조적...",
+    "published_at": "2026-10-21T13:17:00+09:00",
+    "cluster_id": "97a0",
+    "publisher": "polinews.co.kr",
+    "title_clean": "[기업분석] KCC 무기단열재, '불에 타지 않는다' 명제 이면···규제가 ...",
+    "summary": "KCC의 무기단열재 시장이 2026년 장기열전도율 기준 강화와 ZEB(영에너지건축물) 의무화로 인한 규제 변화에 직면해 있다. 규제 강화에 따른 고품질 제품 재편이 필요하며, 동시에 건설경기 침체 속 기술경쟁이 심화될 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-21T13:27:11+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
@@ -32253,22 +32269,6 @@
     "summary": "한화 건설부문이 안전신고 시스템에 음성인식과 AI 사진분석 기능을 도입하여 근로자의 위험요인 신고 편의성을 개선했다. 이는 건설현장의 안전관리 기술 고도화 사례로 업계의 안전 의식 강화를 반영한다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-16T02:49:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "경복대 건설교육원, 첫 건설기술인 교육·훈련 우수강사 배출 - cstimes.com",
-    "link": "https://www.cstimes.com/news/articleView.html?idxno=724140",
-    "description": "경복대학교 건설교육원은 지난 14일 개최된 '2026년 건설기술인 교육·훈련 우수강사 시상식'에서 우종태 명예교수가 스마트건설계측 부문 우수강사로 최종 선정됐다. 이번 포상은 수강 교육생들이 직접 매긴 강의평가...",
-    "published_at": "2026-10-16T00:20:00+09:00",
-    "cluster_id": "a7f4",
-    "publisher": "cstimes.com",
-    "title_clean": "경복대 건설교육원, 첫 건설기술인 교육·훈련 우수강사 배출",
-    "summary": "경복대학교 건설교육원의 우종태 명예교수가 2026년 건설기술인 교육·훈련 우수강사로 선정되었다. 이는 건설 인력의 교육 수준 향상과 전문성 강화를 나타내는 사례이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-16T00:24:37+09:00",
     "importance": 2
   }
 ]
