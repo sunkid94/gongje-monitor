@@ -20641,6 +20641,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이천시의회, 돌봄시설 위탁·민생경제 지원 등 29건 의결 - m-i.kr",
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=2009094",
+    "description": "산업·교통·농업 분야에서는 마을버스운송사업 등록 및 지원에 관한 조례안과 지역건설산업 활성화 및 지역건설노동자 우선고용 조례 일부개정조례안, 농기계임대사업소 설치 및 운영 조례 일부개정조례안 등을...",
+    "published_at": "2026-10-22T13:44:00+09:00",
+    "cluster_id": "bd29",
+    "publisher": "",
+    "title_clean": "이천시의회, 돌봄시설 위탁·민생경제 지원 등 29건 의결 - m-i.kr",
+    "summary": "이천시의회가 마을버스운송사업, 지역건설산업 활성화, 농기계임대사업 등 산업·교통·농업 분야의 29건 의결안을 통과시켰다. 지역건설산업 활성화와 건설노동자 우선고용을 위한 조례 개정이 포함되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-22T13:50:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32254,22 +32270,6 @@
     "summary": "오세훈 서울시장이 박원순 전 시장 시절 정비구역 해제로 43만호의 주택공급 기회가 사라졌다며 부동산정책 실패를 비판했다. 공급의 황금기를 놓쳤던 당시 상황을 지적하며 정부 여당의 정책 방향 전환을 촉구했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-18T09:52:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "파주 GTX 운정중앙역 상부에 2만8000㎡ 문화공원 조성 - shinailbo.co.kr",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072814",
-    "description": "시는 최근 건설경기 침체로 역세권 민간개발 사업이 지연되는 상황에서 문화공원 조성이 주변 지역 활성화에 기여할 것으로 기대하고 있다. 손배찬 파주시장은 \"'지티엑스(GTX) 문화공원'은 시민들이 문화를 누리고...",
-    "published_at": "2026-10-18T09:42:00+09:00",
-    "cluster_id": "8772",
-    "publisher": "shinailbo.co.kr",
-    "title_clean": "파주 GTX 운정중앙역 상부에 2만8000㎡ 문화공원 조성",
-    "summary": "파주시가 GTX 운정중앙역 상부에 2만8000㎡ 규모의 문화공원을 조성한다. 건설경기 침체로 민간개발이 지연되는 상황에서 공공 문화시설 조성으로 역세권 지역 활성화를 도모하는 프로젝트다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-18T09:47:56+09:00",
     "importance": 2
   }
 ]
