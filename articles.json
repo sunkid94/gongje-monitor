@@ -20794,6 +20794,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "킨텍스, 건설·도시 안전박람회 성료… 섬유·봉제 전시회도 개막 - biztribune.co.kr",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361134",
+    "description": "행사 기간 해체산업선진화 콘퍼런스, 스마트건설세미나, 한국건설안전학회 학술대회 등 30여건의 콘퍼런스와 부대행사가 열렸다. 마지막 날 진행된 '2026 건설안전혁신상'과 'Urban Safety Awards'에서는 84개 응모 제품...",
+    "published_at": "2026-10-23T08:46:00+09:00",
+    "cluster_id": "7e5d",
+    "publisher": "biztribune.co.kr",
+    "title_clean": "킨텍스, 건설·도시 안전박람회 성료… 섬유·봉제 전시회도 개막",
+    "summary": "킨텍스에서 건설·도시 안전박람회가 성황리에 폐막했으며, 해체산업선진화, 스마트건설 등 30여 건의 콘퍼런스와 부대행사가 개최되었다. 건설안전혁신상과 Urban Safety Awards 등을 통해 안전기술 발전을 장려하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T08:50:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32263,22 +32279,6 @@
     "summary": "건설근로자공제회 이사장 임명에서 전문성 부족과 인맥 중심의 낙하산 인사 논란이 제기되고 있다. 금융자산 운용과 퇴직공제 제도, 건설노동 정책 분야의 경력 부족으로 기관 운영의 신뢰성 문제가 야기되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-19T09:59:05+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "【데일리 ESG 정책 브리핑】사회적가치 비즈니스모델 공모전 등 - impacton.net",
-    "link": "https://www.impacton.net/news/articleView.html?idxno=30297",
-    "description": "앞서 지난 5월 수도권 민간 건설현장 집중점검에서는 불법하도급 29건과 기타 건설산업기본법 위반 60건이 적발됐다. 건설기계 대여대금 체불 11건에 대해서는 총 1억2580만원의 체불액을 해소했다. 국토부는 이번 경상권...",
-    "published_at": "2026-10-19T09:38:00+09:00",
-    "cluster_id": "1859",
-    "publisher": "impacton.net",
-    "title_clean": "【데일리 ESG 정책 브리핑】사회적가치 비즈니스모델 공모전 등",
-    "summary": "국토부가 수도권 건설현장 집중점검에서 불법하도급 29건과 건설산업기본법 위반 60건을 적발했으며, 건설기계 대여대금 체불 1억2580만원을 해소했다. 경상권 지역에 대한 추가 점검을 계획 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T09:43:54+09:00",
     "importance": 4
   }
 ]
