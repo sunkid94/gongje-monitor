@@ -20709,6 +20709,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[더벨][현대제철 미국 투자 점검] 출자사업에 커진 자금 소요, 관건은 본... - thebell.co.kr",
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610211332040800107018",
+    "description": "건설경기 부진에 따른 봉형강 수요 약세와 철강재 가격 경쟁 등이 수익성 회복을 제약하는 상황이다. 분기별로 따지면 개선세다. 올해 2분기 별도 영업이익은 111억원으로 흑자를 기록했다. 연결 영업이익도...",
+    "published_at": "2026-10-23T07:02:00+09:00",
+    "cluster_id": "6a54",
+    "publisher": "thebell.co.kr",
+    "title_clean": "[더벨][현대제철 미국 투자 점검] 출자사업에 커진 자금 소요, 관건은 본...",
+    "summary": "현대제철의 미국 투자 사업에서 자금 소요가 증가하고 있으며, 건설경기 부진으로 봉형강 수요 약세와 철강재 가격 경쟁이 심화되고 있다. 다만 분기별로는 개선세를 보이며 2분기 영업이익은 흑자를 기록했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-23T07:10:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32258,22 +32274,6 @@
     "summary": "고양시가 건설공사장 산업재해 예방을 위한 안전관리 및 예방 활동 성과를 인정받아 경기도지사 표창을 수상했다. 이는 건설현장의 체계적인 안전관리 강화를 의미한다.",
     "sentiment": "negative",
     "collected_at": "2026-10-19T07:28:42+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "원청이 하청 임금 들여다본다…임금구분지급제, ‘원청 사용자성’ 불씨... - worklaw.co.kr",
-    "link": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=124&in_cate2=0&gopage=1&bi_pidx=39635",
-    "description": "소영호 전국건설노동조합(건설노조) 정책국장은 \"건설은 이미 건설산업기본법에 구분 지급제가 있고, 공공공사에서는 전자대금지급시스템으로 노무비와 자재비, 건설기계 대여대금, 하도급비를 따로 구분해 지급하도록 돼...",
-    "published_at": "2026-10-19T07:02:00+09:00",
-    "cluster_id": "10d8",
-    "publisher": "worklaw.co.kr",
-    "title_clean": "원청이 하청 임금 들여다본다…임금구분지급제, ‘원청 사용자성’ 불씨...",
-    "summary": "건설업 임금구분지급제 도입으로 원청의 하청 임금 감시 가능성이 높아지면서 원청의 사용자성 인정 논쟁이 촉발되고 있다. 건설노조는 이미 건설산업기본법과 공공공사 전자대금지급시스템에서 임금구분지급이 시행 중이라고 지적했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T07:08:45+09:00",
     "importance": 4
   }
 ]
