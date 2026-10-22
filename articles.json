@@ -4709,6 +4709,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "분당 주민 절반 \"재건축 시공사 삼성물산 선호\" - newsfreezone.co.kr",
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715599",
+    "description": "DL이앤씨가 14%로 2위를 차지했고 현대건설 13%, GS건설 11%, 대우건설 10% 순으로 뒤를 이었다. 롯데건설과 포스코이앤씨는 각각 1%였다. 컨센트와 동서남북은 삼성물산 선호도가 높게 나타난 배경으로 반포래미안원베일리...",
+    "published_at": "2026-10-23T07:28:00+09:00",
+    "cluster_id": "f8ef",
+    "publisher": "newsfreezone.co.kr",
+    "title_clean": "분당 주민 절반 \"재건축 시공사 삼성물산 선호\"",
+    "summary": "분당 지역 재건축 시공사 선호도 조사에서 삼성물산이 50%로 압도적 1위를 차지했으며, DL이앤씨 14%, 현대건설 13% 등이 뒤를 이었다. 반포래미안원베일리 등 과거 프로젝트 평판이 높은 선호도의 주요 배경으로 작용했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-23T07:41:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20693,20 +20709,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설이 지은 하노이 신라호텔, 다음 주 첫 영업 시작 - theguru.co.kr",
-    "link": "https://www.theguru.co.kr/news/article.html?no=108245",
-    "description": "하노이 인근 신도시에 319실 규모로 조성 안정적인 비즈니스 수요 전망  대우건설이 시공한 베트남 하노이 5성급 호텔인 '신라 모노그램 하노이 웨스트레이크'가 다음 주 문을 연다. 신라 모노그램 하노이 웨스트레이크는...",
-    "published_at": "2026-10-14T13:48:00+09:00",
-    "cluster_id": "6d03",
-    "publisher": "theguru.co.kr",
-    "title_clean": "대우건설이 지은 하노이 신라호텔, 다음 주 첫 영업 시작",
-    "summary": "대우건설이 시공한 베트남 하노이의 5성급 호텔 '신라 모노그램 하노이 웨스트레이크'가 319실 규모로 다음 주 개업한다. 하노이 신도시 입지로 안정적인 비즈니스 수요가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T13:55:01+09:00",
-    "importance": 2
+    "title": "[스타트 경제] 한은, 기준금리 연 3%로 만장일치 동결...11월 인상? - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0102_202610230727459767",
+    "description": "그리고 가장 우려가 되는 건 건설경기거든요. 아무래도 건설경기는 금리에 굉장히 민감하고요. 왜냐하면 흔히 아파트라든지 다른 거 짓는 것들은 당장 꼭 오늘 지어야 될 필요는 없기 때문에 투자결정이라는 것이 올해...",
+    "published_at": "2026-10-23T07:27:00+09:00",
+    "cluster_id": "9d65",
+    "publisher": "ytn.co.kr",
+    "title_clean": "[스타트 경제] 한은, 기준금리 연 3%로 만장일치 동결...11월 인상?",
+    "summary": "한은이 기준금리를 연 3%로 동결하기로 만장일치 결정했으며, 11월 추가 인상 가능성을 시사했다. 금리 인상이 건설경기에 부정적 영향을 미칠 우려가 있으며, 건설업계는 금리 변동에 민감한 투자결정 특성상 어려움을 겪을 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-23T07:41:02+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32259,21 +32275,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T08:28:45+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[단독] 41억 철도 공사의 비밀… 탈락한 사장님의 ‘위장취업’ - h21.hani.co.kr",
-    "link": "https://h21.hani.co.kr/arti/society/society_general/60057.html",
-    "description": "건설산업기본법(건산법)은 건설사업자가 시공관리와 기술상 관리를 위해 공사 현장에 건설기술인을... 방식은 법 위반이 될 수 있다. 건산법은 도급을 받은 회사가 직접 시공할 의무가 있다고 규정한다. 일괄 하도급...",
-    "published_at": "2026-10-19T08:20:00+09:00",
-    "cluster_id": "4d81",
-    "publisher": "h21.hani.co.kr",
-    "title_clean": "[단독] 41억 철도 공사의 비밀… 탈락한 사장님의 ‘위장취업’",
-    "summary": "41억 규모 철도 공사에서 낙찰자가 탈락한 사장을 위장취업시켜 건설기술인 배치 요건을 우회한 불법 행위가 적발됐다. 건설산업기본법 위반으로 도급받은 회사가 직접 시공할 의무를 회피한 사건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T08:23:45+09:00",
-    "importance": 4
   }
 ]
