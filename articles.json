@@ -4641,6 +4641,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[북극항로 셈법] ③조선 3사, 공공·자원선부터 '수주 경쟁력'…해외 공략 - FETV",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HdzV0bDJLOFlRNmp3M2dqZDFEMDBzd2hpZW13SjFjLWhMUVUtS1hKS2dzbVFjcTZHTkpwRXd1WDJNWDllZjY4QTRSdWZtT00xU1ZvV2dPRlpqMEtxWGRWUXdqdk94aVow?oc=5",
+    "description": "[편집자 주] 기존 항로의 불안과 해빙 감소, 국내 시범운항을 계기로 북극항로가 새로운 물류 대안으로 다시 주목받고 있다. 그러나 일부 선사만 계절·시범 운항에",
+    "published_at": "2026-10-22T07:00:00+09:00",
+    "cluster_id": "466b",
+    "publisher": "FETV",
+    "title_clean": "[북극항로 셈법] ③조선 3사, 공공·자원선부터 '수주 경쟁력'…해외 공략",
+    "summary": "북극항로 주목으로 국내 조선 3사가 공공기관 및 자원운반선 수주를 통해 경쟁력을 강화하고 해외 시장 진출을 추진 중이다. 해빙 감소와 기존 항로의 불안정성으로 북극항로가 새로운 물류 대안으로 부상하면서 선박 수주 기회가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-22T13:10:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20625,20 +20641,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설·남광토건, 용인 반도체 산단 1공구 계약 - vegannews.co.kr",
-    "link": "https://www.vegannews.co.kr/news/article.html?no=392453",
-    "description": "대우건설과 남광토건이 한국토지주택공사(LH)가 발주한 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 계약을 체결했다. 두 회사는 지난 12일 계약을 맺고 13일 각각 공시했다. 남광토건 공시에...",
-    "published_at": "2026-10-14T06:22:00+09:00",
-    "cluster_id": "c5c8",
-    "publisher": "vegannews.co.kr",
-    "title_clean": "대우건설·남광토건, 용인 반도체 산단 1공구 계약",
-    "summary": "대우건설과 남광토건이 LH가 발주한 용인 첨단시스템반도체 클러스터 국가산업단지 조성공사 1공구 계약을 체결했다. 반도체산업 육성을 위한 국책사업으로 건설업계의 주요 수주 기회이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T06:30:00+09:00",
-    "importance": 2
+    "title": "[진단_금융업계 ④메리츠증권] 실적 개선 뒤에 가려진 IB 부실 부담... 발... - newsworker.co.kr",
+    "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=510002",
+    "description": "건설경기와 상업용 부동산 시장이 다시 악화되거나 기업 차주의 상환능력이 떨어질 경우 추가 충당금이 발생하면서 IB 수익성을 압박할 수 있다. 이런 상황에서 메리츠증권은 2026년 9월 단기금융업 인가를 받아 발행어음...",
+    "published_at": "2026-10-22T13:06:00+09:00",
+    "cluster_id": "339a",
+    "publisher": "newsworker.co.kr",
+    "title_clean": "[진단_금융업계 ④메리츠증권] 실적 개선 뒤에 가려진 IB 부실 부담... 발...",
+    "summary": "메리츠증권이 실적은 개선했으나 부동산 PF 관련 IB 부실 채권이 숨겨져 있어 부담이 되고 있다. 건설경기 악화나 기업 차주의 상환능력 저하 시 추가 충당금 발생으로 IB 수익성이 압박받을 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-22T13:10:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
@@ -32255,21 +32271,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-18T09:07:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "복기왕, \"지역 가점·쿼터제 등 지방 중소 건설사 참여 대책 마련 필요... - chungnamilbo.co.kr",
-    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915214",
-    "description": "복 의원은 지방 건설사 폐업 증가에 이어 지방 건설경기 위축을 우려했다. 올해 9월 기준 지방 건설사 폐업 신고가 2,015건에 달하는 상황에 공적 PF 보증의 수도권과 대형사 집중이 지방의 건설 일자리와 지역경제...",
-    "published_at": "2026-10-18T08:50:00+09:00",
-    "cluster_id": "f93b",
-    "publisher": "chungnamilbo.co.kr",
-    "title_clean": "복기왕, \"지역 가점·쿼터제 등 지방 중소 건설사 참여 대책 마련 필요...",
-    "summary": "복기왕 의원이 지방 건설사 폐업 증가(2025년 9월 기준 2,015건)와 지방 건설경기 위축을 지적하며, 공적 PF 보증이 수도권과 대형사에 집중된 문제를 제기했다. 지역 가점·쿼터제 등 지방 중소 건설사 참여 대책의 필요성을 주장했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-18T08:57:57+09:00",
-    "importance": 4
   }
 ]
