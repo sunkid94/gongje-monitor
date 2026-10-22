@@ -20692,6 +20692,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국노총 '건설산업의 뿌리는 도급구조..처벌보다 예방·참여 중심 전환' 정답 - 전국구직노조신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZWkFQdE5CYU5MVGZDRTdwVUlUbTdEZ1R6R3J6b202NG9HVWVQZ19mLXJkUWVpZldYOWUwUXJFWHd3X0VNVW9oZlNzM2pBRFh4VU5fZS1xSG5OR21abXIyU2dibWVvems?oc=5",
+    "description": "건설 산재의 뿌리는 ‘도급구조’…처벌보다 ‘예방·참여’ 중심의 안전체계로 전환해야건설노동자 487명·안전관리자 153명 설문, 사고원인 1순위‘도급구조’(노동자",
+    "published_at": "2026-10-22T21:53:40+09:00",
+    "cluster_id": "4894",
+    "publisher": "전국구직노조신문",
+    "title_clean": "한국노총 '건설산업의 뿌리는 도급구조..처벌보다 예방·참여 중심 전환' 정답",
+    "summary": "한국노총이 건설 산재의 근본 원인을 도급구조로 지적하며 처벌 중심에서 예방·참여 중심의 안전체계로 전환을 촉구했다. 건설노동자와 안전관리자 640명 설문에서 도급구조가 사고원인 1순위로 나타났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-22T22:06:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32258,21 +32274,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T06:12:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "지열에 보조냉난방 결합…하이브리드 ‘주목’ - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52303",
-    "description": "건축물의 냉난방 에너지 소비와 탄소배출을 줄이기 위한 대안으로 기존 지열 히트펌프에 보조 냉난방설비를 결합한 하이브리드 지열 시스템이 주목받고 있다. 건물의 냉난방 부하에 따라 지중 열교환기의 규모를 줄이고 보조설비를 탄력적으로 운영함으로써 초기 투자비와 에너지 소비를 동시에 낮출 수 있다는 분석이다.지난 14일 관련업계에 따르면, 미국 냉난방공조기술자학회(ASHRAE)가 발행한 지난 6월 학술지에는 하이브리드 지열 시스템의 경제성과 에너지 효율을 분석한 연구 결과가 소개됐다.하이브리드 지열 시스템은 기존 지열 히트펌프에 냉각탑,",
-    "published_at": "2026-10-19T06:00:00+09:00",
-    "cluster_id": "d845",
-    "publisher": "기계설비신문",
-    "title_clean": "지열에 보조냉난방 결합…하이브리드 ‘주목’",
-    "summary": "지열 히트펌프에 보조 냉난방설비를 결합한 하이브리드 지열 시스템이 냉난방 에너지 효율화 대안으로 주목받고 있다. 초기 투자비와 에너지 소비를 동시에 낮출 수 있어 건축물 냉난방 시장의 새로운 기술 수요가 증가할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T06:12:43+09:00",
-    "importance": 2
   }
 ]
