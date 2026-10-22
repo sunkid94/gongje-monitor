@@ -20641,6 +20641,38 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"아니다 싶으면 접는다\"…건설사들, 대형 사업 잇따라 '손절' - mediapen.com",
+    "link": "https://www.mediapen.com/news/view/1131754",
+    "description": "공사비 급등과 건설경기 침체가 길어지면서, 건설사들이 대형 사업에서도 주저 없이 발을 빼고 있다. 사업성이 나오지 않거나 감당하기 어려운 사업이라면 일찍 정리하는 편이 낫다는 판단이 건설업계 전반에 걸쳐...",
+    "published_at": "2026-10-22T14:40:00+09:00",
+    "cluster_id": "8d97",
+    "publisher": "mediapen.com",
+    "title_clean": "\"아니다 싶으면 접는다\"…건설사들, 대형 사업 잇따라 '손절'",
+    "summary": "공사비 급등과 건설경기 침체로 건설사들이 수익성 없는 대형 사업을 조기에 포기하는 추세가 확산되고 있다. 건설업계 전반에서 사업성 검토를 엄격히 하고 손실 최소화에 나서는 현상이 일어나고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-22T14:45:02+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고용노동부 부천지청, 공장 밀집지역 건설현장 추락재해 예방 합동 캠페 - 부천포커스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ma1JlYjBhaFl4T2JwOGZTM2lZcmlGQlY2NXNzcGVqbE0zbEhWaGZSOWxvRW1MTG1nTVNxN3R6YVFNS2VGQzFVSE9oRUxibXNFN3M2c3lMSUdiSXpDd0NSOElxc2JkU0Zrcmc?oc=5",
+    "description": "고용노동부 부천지청(지청장 신동술)과 한국산업안전보건공단 경기중부지사(지사장 이재왕)은 10월21일 관내 공장 밀집지역인 김포시 양촌읍 건설현장에서 ‘지붕공사 추",
+    "published_at": "2026-10-22T14:34:14+09:00",
+    "cluster_id": "568d",
+    "publisher": "부천포커스",
+    "title_clean": "고용노동부 부천지청, 공장 밀집지역 건설현장 추락재해 예방 합동 캠페",
+    "summary": "고용노동부 부천지청과 한국산업안전보건공단이 김포시 양촌읍 건설현장에서 지붕공사 추락재해 예방을 위한 합동 캠페인을 실시했다. 공장 밀집지역의 건설현장 안전 강화 활동으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-22T14:45:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32239,37 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-18T10:38:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "오세훈 \"민주당, 저를 공격할 시간에 집값 짓눌린 국민 삶 보라\" - news1.kr",
-    "link": "https://www.news1.kr/local/moi/6323484",
-    "description": "당시가 금융위기 이후 건설경기 회복기였다는 점을 들며 \"이전 이명박·오세훈 시정에서 구역 지정과 인허가로 씨앗을 뿌려놓았다면, 박원순 시정은 그 열매를 거둘 수 있는 공급의 황금기를 눈앞에 두고 있었다\"고...",
-    "published_at": "2026-10-18T10:21:00+09:00",
-    "cluster_id": "e86d",
-    "publisher": "news1.kr",
-    "title_clean": "오세훈 \"민주당, 저를 공격할 시간에 집값 짓눌린 국민 삶 보라\"",
-    "summary": "오세훈 서울시장이 민주당의 비판에 대응하며 이전 시정의 구역 지정과 인허가가 건설경기 회복기에 공급 확대의 기반이 되었다고 주장했다. 박원순 시정이 이러한 토대 위에서 공급의 황금기를 맞이했다는 입장을 제시하며 정치적 공방보다 국민 삶의 질 개선에 집중할 것을 강조했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-18T10:28:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[속보] 오세훈 \"李정부 부동산 정책 참담…실패 인정해야\" - economist.co.kr",
-    "link": "https://economist.co.kr/article/view/ecn202610180005",
-    "description": "오 시장은 \"박원순 시장 시절 389곳의 정비구역이 해제되면서 43만호의 주택공급 기회가 사라졌다\"며 \"당시는 금융위기의 여파에서 벗어나 건설경기가 회복되던 시기로, 공급의 황금기를 눈앞에 두고 있었다\"고 주장했다....",
-    "published_at": "2026-10-18T10:19:00+09:00",
-    "cluster_id": "47d0",
-    "publisher": "economist.co.kr",
-    "title_clean": "[속보] 오세훈 \"李정부 부동산 정책 참담…실패 인정해야\"",
-    "summary": "오세훈 시장이 이전 정부의 부동산 정책을 비판하며, 박원순 시장 재임 중 389개 정비구역 해제로 43만호의 주택공급 기회가 상실되었다고 지적했다. 건설경기 회복기에 공급의 황금기를 놓친 것으로 평가하며 정부 정책 실패를 비판했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-18T10:28:05+09:00",
-    "importance": 2
   }
 ]
