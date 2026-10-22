@@ -20692,6 +20692,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도의회 건설교통위원회, 경기북부 현장정책회의 개최 - 오늘뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAxaTFoMzNDVGEzNWU0WVpXTkdFamdwQ213VF8zLTNxc2ZYOVN5cXNJZzFGUEtzX2hwbEVHMS1WX1JJdmlD?oc=5",
+    "description": "[오늘뉴스=노명복기자] 경기도의회 건설교통위원회가 2026년도 행정사무감사와 2027년도 본예산안 심사를 앞두고 경기북부 주요 교통시설을 찾아 현",
+    "published_at": "2026-10-22T18:00:00+09:00",
+    "cluster_id": "235d",
+    "publisher": "오늘뉴스",
+    "title_clean": "경기도의회 건설교통위원회, 경기북부 현장정책회의 개최",
+    "summary": "경기도의회 건설교통위원회가 경기북부 주요 교통시설을 대상으로 현장정책회의를 개최하여 2026년 행정사무감사와 2027년 본예산안 심사를 준비 중이다. 지역 교통 인프라 발전을 위한 정책 검토 및 예산 편성 과정으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-22T23:31:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32258,21 +32274,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T06:23:55+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "은민에스엔디, BIM 국제표준 ISO 19650 인증 취득 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610160922233100836",
-    "description": "앞서‘2026 대한경제 스마트건설’에서 스마트인테리어대상을 수상한 데 이어 이번 인증 취득으로 디지털 시공 분야 경쟁력을 한층 강화했다는 평가다. 은민에스엔디 관계자는“이번 인증은 그동안 현장에서 쌓아...",
-    "published_at": "2026-10-19T06:20:00+09:00",
-    "cluster_id": "49cd",
-    "publisher": "대한경제",
-    "title_clean": "은민에스엔디, BIM 국제표준 ISO 19650 인증 취득",
-    "summary": "은민에스엔디가 BIM 국제표준 ISO 19650 인증을 취득하며 디지털 시공 분야의 경쟁력을 강화했다. 스마트인테리어대상 수상에 이어 국제 인증을 획득함으로써 건설업계의 디지털 혁신 추진을 선도하는 사례를 제시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T06:23:55+09:00",
-    "importance": 2
   }
 ]
