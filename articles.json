@@ -20692,6 +20692,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대구노동청·안전보건공단, 청도 건설현장 추락사고 예방 캠페인 - 경북신문",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbElaUmJpaU5ER3BIME1hcjZSdl9PS0dHOTJGVF9vd1RZNWVnYjZkRHpneEZ5T2FMZUJ2N2dtUGNFSE9fVXlUanFNY1RXZ3o5MXNTYjZBanI?oc=5",
+    "description": "대구지방고용노동청과 안전보건공단 대구광역본부가 건설현장 추락사고 예방과 안전문화 확산에 나섰다.양 기관은 22일 경북 청도군 일원에서 청도군 안전총괄과와 건설현장 관계자 등 70여 명이 참여한 가운데 안전실천 합동 ..",
+    "published_at": "2026-10-22T22:49:32+00:00",
+    "cluster_id": "598d",
+    "publisher": "경북신문",
+    "title_clean": "대구노동청·안전보건공단, 청도 건설현장 추락사고 예방 캠페인",
+    "summary": "대구지방고용노동청과 안전보건공단이 경북 청도군 건설현장에서 추락사고 예방 캠페인을 개최했다. 건설현장 관계자 70여 명이 참여하여 안전실천 활동을 진행했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-22T23:02:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32255,22 +32271,6 @@
     "publisher": "기계설비신문",
     "title_clean": "정보불균형이 가져온 불공정 하도급계약…제도개선 시급",
     "summary": "원사업자와 수급사업자 간 정보불균형으로 인해 불공정한 하도급계약과 대금 미지급 위험이 증대되고 있다. 수급사업자가 원사업자의 재정 상태나 원도급대금 지급현황을 파악하기 어려워 하도급대금 회수에 차질을 빚을 수 있으므로 정보요청권 확대 등의 제도 개선이 필요하다는 지적이 제기됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T06:12:43+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "단일열원만 ZEB인정?…복합열원 인증체계 확대 시급 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52331",
-    "description": "정부가 공공에 이어 민간 건축물까지 제로에너지건축물(ZEB) 의무화를 확대하며 건물 부문 탄소중립 의지를 드러내고 있는 반면, 핵심 평가기준인 ZEB 인증시스템은 ‘단독열원 체계’에 갇혀 기술 혁신의 발목을 잡고 있다는 목소리가 나오고 있다.지난 14일 건설업계에 따르면, 현행 ZEB 인증 체계는 지열이나 수열 등 단일 신재생 열원설비만을 개별적으로 산정하는 구조적 한계를 안고 있다.실제로 현행 건축물 에너지효율등급과 ZEB 인증의 근간이 되는 국가 공인 평가프로그램(ECO2 등)은 지열 단독 혹은 수열 단독 등 개별 열원의 정적",
-    "published_at": "2026-10-19T06:00:00+09:00",
-    "cluster_id": "d88a",
-    "publisher": "기계설비신문",
-    "title_clean": "단일열원만 ZEB인정?…복합열원 인증체계 확대 시급",
-    "summary": "정부의 ZEB 의무화 확대로 시장 기회가 증가하고 있으나, 현행 인증 체계가 단일 열원만 인정하는 구조적 한계로 인해 복합열원 기술 혁신이 저해되고 있다. 업계는 복합열원 인증체계 확대를 통한 제도 개선을 촉구하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-19T06:12:43+09:00",
     "importance": 4
