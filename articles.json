@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[공시] KCC건설, PF 보증 줄었지만 책임준공 부담 확대…보증금액 2조3,541억원 - 이슈밸리",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0VU5FbnhRWDRvZXZOSUJDMlUzUnM4NHAwazlfRnFqd0traWduQ1RvN05xVnh2Z0Y1TWN2bk5HVzNvU2dvLUduc28wRURTcDItbWhkZGhmVlNzaFByMUdqUHRYWEh3TXk0TzVPZVFB?oc=5",
+    "description": "[이슈밸리=경제산업팀] KCC건설의 부동산 프로젝트파이낸싱(PF) 관련 신용보강 규모가 줄어든 반면, 책임준공 미이행 시 채무를 인수하는 조건부 약정의 보증금액은 늘어난 것으로 나타났다. 일반 PF 보증 축소와 별개로 공사 일정에 연계된 부담이 커진 것이다.22일 KCC건설이 공개한 금감원 공시에 따르면 올해 6월 말 책임준공 미이행 시 조건부 채무인수 약정과 관련한 보증금액은 2조3,541억원이다. 지난해 말 1조9,113억원보다 4,428억원, 23.2% 증가했다.이는 준공 의무를 이행하지 못하는 등 계약에서 정한 조건이 발생할",
+    "published_at": "2026-10-22T12:21:31+09:00",
+    "cluster_id": "3857",
+    "publisher": "이슈밸리",
+    "title_clean": "[공시] KCC건설, PF 보증 줄었지만 책임준공 부담 확대…보증금액 2조3,541억원",
+    "summary": "KCC건설의 PF 보증금액은 감소했으나, 책임준공 미이행 시 채무인수 의무(조건부 약정)는 2조3,541억원으로 전년 대비 23.2% 증가했다. 일반 보증 축소와 달리 공사 일정 미이행에 따른 재무 부담이 확대된 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-22T12:31:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-18T08:27:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주 경기 하방 압력 상승…회복세는 '깜깜' - jejudomin.co.kr",
-    "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=401304",
-    "description": "제주를 찾는 내국인 관광객이 줄며 관광객 감소세가 확대되고 주택경기 부진으로 건설경기 회복이 지연되면서 지역 경제 회복기미가 좀처럼 보이지 않고 있다. 다만 16일부터 전국체전이 제주에서 열리고...",
-    "published_at": "2026-10-18T08:00:00+09:00",
-    "cluster_id": "21f4",
-    "publisher": "jejudomin.co.kr",
-    "title_clean": "제주 경기 하방 압력 상승…회복세는 '깜깜'",
-    "summary": "제주 지역의 관광객 감소와 주택경기 부진으로 건설경기 회복이 지연되고 있다. 지역 경제 침체 속에서 전국체전 개최 등 제한적인 호재만 존재하는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-18T08:07:55+09:00",
-    "importance": 4
   }
 ]
