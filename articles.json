@@ -20794,6 +20794,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[부산 브리핑 모음(10월23일)] 부산항만공사, 협력업체 근로환경 개선 지... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221812590720817",
+    "description": "이번 협약은 초량3구역 재개발사업과 초량동 수녀원 신축공사, 초량동 업무시설 신축공사에 지역 건설업체의 참여를 확대해 침체된 지역 건설경기에 활력을 불어넣기 위해 마련됐다. 협약에 따라 참여 기관들은 지역...",
+    "published_at": "2026-10-23T08:02:00+09:00",
+    "cluster_id": "7693",
+    "publisher": "대한경제",
+    "title_clean": "[부산 브리핑 모음(10월23일)] 부산항만공사, 협력업체 근로환경 개선 지...",
+    "summary": "부산항만공사가 초량3구역 재개발사업 등 3개 사업에 지역 건설업체의 참여를 확대하는 협약을 체결했다. 침체된 지역 건설경기에 활력을 불어넣기 위한 조치로, 지역 건설업체의 수주 기회 증대를 의도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T08:10:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32264,21 +32280,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T09:43:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "고양시, 전문건설업계와 지역건설산업 상생 방안 논의 - 안동데일리",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oblRfSklkc0oxb3Q1bTFYQWNnUkdkZ1FPend6VnJ4ME82cEF0TXhtbWVFa1RyX3lPU29NX0xudEpBN2I2NFo2a0JLV0NoX3BUU2pTTjRaNXg0NGFWU19fYUlZVDQ4b2RhZzZxZlpn?oc=5",
-    "description": "[안동데일리] 고양특례시는 지난 16일 고양시청 타운미팅실에서 대한전문건설협회 경기도회 고양특례시협의회와 간담회를 개최하고, 지역건설기업의 공사 참여 기회 확대와 지역건설산업 활성화를 위한 의견을 나눴다.이번 간담회는 지역 전문건설업계가 현장에서 겪는 어려움과 건의사항을 직접 듣고,",
-    "published_at": "2026-10-19T07:35:10+09:00",
-    "cluster_id": "5f89",
-    "publisher": "안동데일리",
-    "title_clean": "고양시, 전문건설업계와 지역건설산업 상생 방안 논의",
-    "summary": "고양특례시가 대한전문건설협회 경기도회와 간담회를 개최하여 지역 전문건설업체의 공사 참여 기회 확대와 산업 활성화 방안을 논의했다. 건설업계의 현장 애로사항을 청취하고 지역건설산업 지원 방향을 모색하는 상생 협력 자리다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T09:38:55+09:00",
-    "importance": 2
   }
 ]
