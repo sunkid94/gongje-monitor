@@ -4709,6 +4709,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "공사비 급등에 국책사업마저 흔들…가덕도 해법, 다른 사업에도 통할까 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/10/23/2026102211145558139",
+    "description": "대우건설을 주간사로 하는 가덕도신공항 부지조성공사 컨소시엄(이하 대우건설 컨소시엄)은 정부에 약 6200억원 규모의 공사비 증액을 요구한 상태다. 이와 관련, 국토교통부와 컨소시엄이 지난 20일 협의를 진행했지만...",
+    "published_at": "2026-10-22T16:09:00+09:00",
+    "cluster_id": "1810",
+    "publisher": "mt.co.kr",
+    "title_clean": "공사비 급등에 국책사업마저 흔들…가덕도 해법, 다른 사업에도 통할까",
+    "summary": "가덕도신공항 부지조성공사 컨소시엄이 공사비 급등으로 정부에 6200억원 규모의 증액을 요청했다. 건설 공사비 상승이 국책사업까지 영향을 미치면서 업계 전반의 채산성 악화 문제가 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-23T04:31:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20691,22 +20707,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-14T13:39:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 1137가구 '금정역세권1구역' 우협 선정 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202610140932221655",
-    "description": "IPARK현대산업개발이 경기 군포 금정역세권1구역 재개발사업의 우선협상대상자로 선정됐다. 최고 35층, 총 1137가구 규모의 '아이파크 원 어센트'를 제안하고 스카이 커뮤니티와 조망 특화설계, 인공지능(AI)·로봇...",
-    "published_at": "2026-10-14T13:26:00+09:00",
-    "cluster_id": "bb59",
-    "publisher": "fnnews.com",
-    "title_clean": "IPARK현대산업개발, 1137가구 '금정역세권1구역' 우협 선정",
-    "summary": "IPARK현대산업개발이 경기 군포 금정역세권1구역 재개발사업의 우선협상대상자로 선정되어 1137가구 규모의 대형 아파트 단지를 공급하게 된다. 스카이 커뮤니티, AI·로봇 등 혁신 기술을 적용한 프리미엄 단지로 건설 수주 증가를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T13:39:52+09:00",
-    "importance": 3
   },
   {
     "keyword": "스마트건설",
