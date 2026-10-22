@@ -20692,6 +20692,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[현장] \"4대 악 뿌리 뽑자\"… 건설노조 1만 명, 도심 총력상경투쟁 - nbntv.co.kr",
+    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026431",
+    "description": "러시아-우크라이나 전쟁에 이어 미국·이스라엘-이란 전쟁까지 발발하면서 건설비용 상승에 따른 건설경기 침체가 장기화되는 가운데, 불법하도급까지 증가하면서 임금체불, 안전관리미흡 등 건설 노동자들의 고용불안이...",
+    "published_at": "2026-10-22T20:36:00+09:00",
+    "cluster_id": "f9a5",
+    "publisher": "nbntv.co.kr",
+    "title_clean": "[현장] \"4대 악 뿌리 뽑자\"… 건설노조 1만 명, 도심 총력상경투쟁",
+    "summary": "건설노조 1만 명이 임금체불, 안전관리 미흡, 불법하도급 등 '4대 악'에 항의하는 총력상경투쟁을 전개했다. 지정학적 불안정에 따른 건설비용 상승과 건설경기 침체 속에서 건설 노동자들의 고용불안이 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-22T20:41:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32256,22 +32272,6 @@
     "title_clean": "건설로봇, 현장에 서다(5) 한국가스안전공사 KRTiS 설비진단로봇",
     "summary": "한국가스안전공사가 개발한 KRTiS 설비진단로봇은 수소·석유화학 플랜트의 개질로 튜브를 자동으로 점검하는 시스템이다. 초당 200mm 속도로 최대 14m 배관을 한 번에 검사하며 정밀 센서를 탑재해 배관 상태를 진단한다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-19T06:12:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "AI 시대의 데이터센터 기술 12 : 데이터센터의 탄소발생 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52313",
-    "description": "PUE·WUE·CUE로 살펴본 데이터센터의 전기·물·탄소 효율AI 질문 한 번에 탄소 0.144g 배출…하루 25억건이면 260톤앞선 연재에서는 데이터센터의 에너지효율을 나타내는 PUE(Power Usage Effectiveness)와 수자원효율을 나타내는 WUE(Water Usage Effectiveness)를 살펴보았다. 하지만 에너지와 물의 소비량만으로 데이터센터가 환경에 미치는 영향을 모두 설명할 수는 없다. 동일한 전력을 소비하더라도 어떤 에너지원으로 생산된 전기를 사용하는지에 따라 탄소배출량은 달라질 수 있기 때문이다.",
-    "published_at": "2026-10-19T05:30:00+09:00",
-    "cluster_id": "c3d9",
-    "publisher": "기계설비신문",
-    "title_clean": "AI 시대의 데이터센터 기술 12 : 데이터센터의 탄소발생",
-    "summary": "데이터센터의 탄소배출을 측정하는 CUE(Carbon Usage Effectiveness) 지표를 소개하는 기사로, AI 질문 하나당 0.144g의 탄소가 배출되며 하루 25억 건 기준 260톤이 발생한다고 설명한다. 동일한 전력 소비라도 에너지원에 따라 탄소배출량이 달라지므로 데이터센터의 환경영향을 종합적으로 평가해야 함을 강조한다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-19T06:12:43+09:00",
     "importance": 2
   }
