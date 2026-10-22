@@ -20709,6 +20709,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "도로공사, 민·관 교통안전 데이터 공유 협의체 출범 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50482",
+    "description": "[건설이코노미뉴스] 한국도로공사(사장 유정훈)가 민간 IT·모빌리티 기업들과 교통안전 데이터를 공유하는 협력체계를 구축하고 인공지능(AI) 기반 고속도로 사고 대응 역량 강화에 나선다.도로공사는 지난 22일 강릉 컨벤션센터에서 네이버㈜, 맵퍼스㈜, 뱀부스㈜, ㈜유원지리정보시스템, 카카오모빌리티㈜, 티맵모빌리티㈜ 등 민간기업 6곳과 '민·관 교통안전 데이터 공유 협의체(K-DFRS·Data for Road Safety)' 구성을 위한 업무협약(MOU)을 체결했다고 최근 밝혔다.이번 협약은 민간과 공공이 보유한 교통안전 데이터를 연계해",
+    "published_at": "2026-10-23T07:44:16+09:00",
+    "cluster_id": "db85",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "도로공사, 민·관 교통안전 데이터 공유 협의체 출범",
+    "summary": "한국도로공사가 네이버, 카카오모빌리티 등 민간 IT·모빌리티 기업 6곳과 '민·관 교통안전 데이터 공유 협의체'를 구성하는 MOU를 체결했다. 공공과 민간 데이터를 연계하여 AI 기반 고속도로 사고 대응 역량을 강화하는 협력체계를 구축한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-23T07:50:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32256,22 +32272,6 @@
     "publisher": "news1.kr",
     "title_clean": "쌍용C&E, 동국대일산한방병원과 의료봉사…'지역 상생' 실천",
     "summary": "쌍용C&E가 동국대일산한방병원과 함께 의료봉사를 진행하며 지역 상생을 실천하고 있다. 동사는 본사 이전을 통해 국가 균형발전과 지역경제 활성화에 기여하고 건설경기 침체 등 시장변화에 대응하고자 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-19T08:38:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "씨이랩, '한국건설·안전박람회' 참가 성료 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zMjVkTUs4d3Vual81LWtqdHVqb25lR3EyZ19vMVh4cTBlU19ORTladHoyR0N1Ny1YQk9HQVVYazRvOGNHZlBrTU5XR0M1TGNGMHdKTjhWX0V3SEFTd1VwT9IBeEFVX3lxTE5kYjhpbFI0Y0VEdFU0OVFqRmRnVUx0OVhubXQ5cFBocVEyanN0Q2JGbFdlWWxpdGVUeVVwZEZWTUlmZHMzYmhIUjVUNWd5Q2hKaTA1QjF6dXN1MXB5cnJxU2R1RDZDWWxRZlpFSUFzc21NdFUyLXdPbQ?oc=5",
-    "description": "[서울=뉴시스] 김경택 기자 = 씨이랩은 지난 14~16일 경기 일산 킨텍스(KINTEX)에서 열린 '2026 한국건설·안전박람회' 참가를 성공적으로 마무리했다고 밝혔다.회사 측에 따르면 씨이랩은 이번 전시회에서 비전 AI 기반 실시간 위험 감지 솔루션 'XAIVA(엑스아이바)'와 사전 예측을 위한 '디지털 트윈' 기술을 전면에 내세워 건설 현장의 안전 관..",
-    "published_at": "2026-10-19T08:30:57+09:00",
-    "cluster_id": "6631",
-    "publisher": "뉴시스",
-    "title_clean": "씨이랩, '한국건설·안전박람회' 참가 성료",
-    "summary": "씨이랩이 2026 한국건설·안전박람회에 참가하여 AI 기반 실시간 위험 감지 솔루션 'XAIVA'와 디지털 트윈 기술을 선보였다. 건설 현장의 안전 관리 솔루션을 통해 업계의 안전 기술 고도화에 기여하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-19T08:38:53+09:00",
     "importance": 2
