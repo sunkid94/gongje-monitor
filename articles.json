@@ -20709,6 +20709,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "여야, 8개 상임위서 종합감사…홈플러스·기준금리·부동산 등 쟁점 전... - news1.kr",
+    "link": "https://www.news1.kr/politics/assembly/6329135",
+    "description": "국토교통부 등을 대상으로 하는 국토위의 종합감사에서는 건설현장 안전관리 문제와 주택공급 등 부동산 문제에 대한 공방이 전망된다. 기노위는 근로복지공단, 한국산업안전보건공단, 한국장애인고용공단 등을...",
+    "published_at": "2026-10-23T05:00:00+09:00",
+    "cluster_id": "e280",
+    "publisher": "news1.kr",
+    "title_clean": "여야, 8개 상임위서 종합감사…홈플러스·기준금리·부동산 등 쟁점 전...",
+    "summary": "여야가 8개 상임위에서 종합감사를 실시하며 국토교통부 대상 국토위 감사에서 건설현장 안전관리와 부동산 문제를 중점 점검할 예정이다. 건설 안전 규제 강화와 관련된 정치적 공방이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-23T05:05:47+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32258,22 +32274,6 @@
     "summary": "건설근로자공제회가 냉·난방기 부족 문제를 해결하기 위해 중·소규모 건설현장에 최대 500만원을 지원한다. 열악한 작업 환경 개선과 근로자 안전 확보를 목표로 근로환경 사각지대 해소에 나선다.",
     "sentiment": "positive",
     "collected_at": "2026-10-19T07:08:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "100억 미만 건설현장 휴게시설 개선에 최대 500만원 지원 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10906413?ref=naver",
-    "description": "장건 건설근로자공제회 이사장은 “이번 지원을 통해 열악한 작업 환경 속에서 땀 흘리는 중·소규모 현장 건설노동자들에게 안전한 쉼터가 마련될 수 있을 것으로 기대한다”며 “앞으로도 건설노동자의 근로환경...",
-    "published_at": "2026-10-19T07:01:00+09:00",
-    "cluster_id": "4f4a",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "100억 미만 건설현장 휴게시설 개선에 최대 500만원 지원",
-    "summary": "건설근로자공제회가 100억 미만 중·소규모 건설현장의 휴게시설 개선을 위해 최대 500만원을 지원한다. 열악한 작업 환경의 건설노동자들에게 안전한 쉼터를 제공하고 근로환경 개선을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T07:03:51+09:00",
     "importance": 2
   }
 ]
