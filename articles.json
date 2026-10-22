@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "킨텍스, 건설·도시안전 박람회서 8409만 달러 상담 성과 - bizwnews.com",
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=149627",
+    "description": "전시와 함께 해체산업선진화 콘퍼런스, 스마트건설세미나, 첨단 AX 도시안전 포럼 등 30여 건의 전문 행사도 열렸다. 마지막 날 진행한 '2026 건설안전혁신상'과 'Urban Safety Awards'에서는 응모 제품·기술 84개 가운데 20개...",
+    "published_at": "2026-10-22T12:54:00+09:00",
+    "cluster_id": "0827",
+    "publisher": "bizwnews.com",
+    "title_clean": "킨텍스, 건설·도시안전 박람회서 8409만 달러 상담 성과",
+    "summary": "킨텍스에서 개최한 건설·도시안전 박람회에서 8409만 달러 규모의 상담 성과를 달성했다. 해체산업 선진화, 스마트건설, 첨단 도시안전 등 30여 건의 전문 행사와 함께 건설안전혁신상 등의 시상식이 진행되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-22T13:01:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-18T08:57:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한난, AI 활용 열수송관 안전진단 기술 선봬 - 충남일보",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Tek5pOXpqal82SzEzSFNUQnA3TVl4NmUwRng2X1VIdlE4SC1CVWtLUW9DNDc5cVozM2I1SW1JUkgyNUItdnROWEpzY2M0ZDJzMWxhbU9GeVJqVmRTUU1FMEtKUmd1bEg3Y0VHNUZNUWJKMjg?oc=5",
-    "description": "[충남일보 김현수 기자] 한국지역난방공사(이하, 한난)는 지난 14일부터 16일까지 일산 킨텍스에서 열린",
-    "published_at": "2026-10-18T08:49:15+09:00",
-    "cluster_id": "fc7f",
-    "publisher": "충남일보",
-    "title_clean": "한난, AI 활용 열수송관 안전진단 기술 선봬",
-    "summary": "한국지역난방공사가 AI 기술을 활용한 열수송관 안전진단 기술을 선보였다. 킨텍스에서 개최된 행사를 통해 기술 혁신을 시연하며 열공급 인프라의 안전성 강화에 나섰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-18T08:57:57+09:00",
-    "importance": 2
   }
 ]
