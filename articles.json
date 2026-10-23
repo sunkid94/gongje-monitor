@@ -20491,6 +20491,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "경북 동해안 읍·면 지역 소규모 건설현장 안전점검 - phmbc.co.kr",
+    "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=205115&mode=view",
+    "description": "고용노동부 포항지청은 읍·면 지역 소규모 건설현장을 대상으로 안전점검을 실시했습니다. 포항지청에 따르면, 올해 관내 건설업 중대재해 10건 가운데 8건이 읍·면 지역 소규모 건설현장에서 발생했습니다. 포항지청은...",
+    "published_at": "2026-10-23T20:40:00+09:00",
+    "cluster_id": "3c76",
+    "publisher": "phmbc.co.kr",
+    "title_clean": "경북 동해안 읍·면 지역 소규모 건설현장 안전점검",
+    "summary": "고용노동부 포항지청이 경북 동해안 읍·면 지역 소규모 건설현장에 대한 안전점검을 실시했습니다. 올해 관내 건설업 중대재해 10건 중 8건이 소규모 현장에서 발생해 안전 문제가 심각한 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-23T20:50:00+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "정일영·민주당, 2019-2026년 건설현장 사망자 153명 최근 2년 공공공사 수주액 5조 5천억 원 - 오토투데이",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85WVl1WmZnbThpZldzR1dpcW81ZlRxTlVYUHNRMkdsTjZEUWRGekpMNVA2THViamV4aHF5UXcxS21ucjBPSTFBLW53LVlRZnQ1d1hVY2JkYkMzLUtqdTJKSXpkdGZFcXRWZTJYQmcwTQ?oc=5",
     "description": "국토교통부로가 밝힌 자료를 분석한 결과, 2026년 시공능력평가 상위 10개 건설사의 하자심사 접수 건수가 최근 4년 6개월간 5천 건을 넘어선 것으로 나타났다.",
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T16:55:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "김건희 '관저 이전' 재판부, 종합특검에 \"증거목록 알아볼 수 있어야\" 지적 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lSkpSVlptTUtJaXhJb0VYck8yc0hHdEVLUXVRR0J3bFlJcHA5a2VkS0hJekZMWW5GTTBzMUtnX2lFT3JGSkh1SURtOURnZXRLc2tPMDhhanZOSFZsdjVrcdIBeEFVX3lxTE9VOHM3ZTY4d3BHdjBWNUw4TmRRX3owcHNPd1J5YjIzT0lORTdsdy1IbWwtWDlmdlNZdkh5YUZOYS1ORThqV0JsRjN4cmsyOHQ1UERWbm1KYk9YdmZOZDFMMUlhUUZMZm41WFVOYnhSdGhYX2t0bldLQg?oc=5",
-    "description": "[서울=뉴시스]이윤석 기자 = 윤석열 정부 대통령실 관저 공사 특혜 의혹으로 재판에 넘겨진 김건희 여사와 윤한홍 국민의힘 의원 등 재판에서 재판부가 2차 종합특검팀(특별검사 권창영) 측의 혐의 적용에 의문을 표했다. 서울중앙지법 형사합의22부(부장판사 조형우)는 19일 김 여사의 특정범죄가중처벌등에관한법률 위반(알선수재)·직권남용권리행사방해 혐의와 윤 의원..",
-    "published_at": "2026-10-19T14:08:24+09:00",
-    "cluster_id": "9a0e",
-    "publisher": "뉴시스",
-    "title_clean": "김건희 '관저 이전' 재판부, 종합특검에 \"증거목록 알아볼 수 있어야\" 지적",
-    "summary": "윤석열 정부 대통령실 관저 공사 특혜 의혹 사건에서 재판부가 종합특검팀의 증거목록 제출 방식에 문제를 제기했다. 김건희 여사와 윤한홍 의원 등을 상대로 한 재판이 진행 중이며, 법원이 검찰의 혐의 적용에 의문을 표한 상태다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-19T16:55:35+09:00",
-    "importance": 2
   }
 ]
