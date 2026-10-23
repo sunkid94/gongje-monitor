@@ -20794,6 +20794,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "제주 국감서 \"건설현장 기후보험 예산 3억 들여서 3명에 55만원 지급\" - safetynews.co.kr",
+    "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=251154",
+    "description": "또 \"하루 일을 안하게 되면 공사 지연이 되는데 공기를 하루 더 연장하는 제도로 보완하면 충분히 건설노동자들이 많이 이용할 수 있을 것\"이라며 지급 조건 단순화, 관급공사 기간 연장 등을 해결책으로 위 지사는...",
+    "published_at": "2026-10-23T09:10:00+09:00",
+    "cluster_id": "73a9",
+    "publisher": "safetynews.co.kr",
+    "title_clean": "제주 국감서 \"건설현장 기후보험 예산 3억 들여서 3명에 55만원 지급\"",
+    "summary": "제주 국감에서 건설현장 기후보험 사업의 저조한 실적이 지적되었다. 예산 3억 원 대비 3명에게만 55만 원을 지급한 것으로 드러나 지급 조건 단순화와 공기 연장 등 개선책이 제시되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-23T09:16:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32264,21 +32280,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T10:04:03+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "전국 건설고용 줄 때 제주 40% 증가… 상용직 비중은 11.7%p 낮아 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202610190947176626",
-    "description": "40%라는 증가율만으로 제주 건설경기가 이전의 부진을 벗어나 지속적인 회복 국면에 진입했다고 판단하기는 어렵다. 건설 관련 선행지표에서는 개선 움직임도 확인된다. 국가데이터처 제주사무소가 발표한 올해...",
-    "published_at": "2026-10-19T09:50:00+09:00",
-    "cluster_id": "206b",
-    "publisher": "fnnews.com",
-    "title_clean": "전국 건설고용 줄 때 제주 40% 증가… 상용직 비중은 11.7%p 낮아",
-    "summary": "전국 건설고용이 감소하는 상황에서 제주는 40% 증가했으나, 상용직 비중이 11.7%p 낮아져 고용의 질적 개선이 미흡한 상태. 건설경기의 지속적 회복을 단정하기 어려운 상황.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-19T09:59:05+09:00",
-    "importance": 2
   }
 ]
