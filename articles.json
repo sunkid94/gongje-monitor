@@ -20491,6 +20491,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "10대 건설사 하자심사 5279건…현대건설·대우건설 1000건 넘어 - wemakenews.co.kr",
+    "link": "https://wemakenews.co.kr/news/view.php?no=26646",
+    "description": "10대 건설사 현장서 153명 사망…공공공사 안전평가도 도마 표=정일영 의원실 제공 건설현장 안전관리 실태도 문제로 지적됐다. 국토교통부 자료에 따르면 2019년부터 2026년까지 주요 10대 건설사 현장에서 발생한...",
+    "published_at": "2026-10-24T00:44:00+09:00",
+    "cluster_id": "4069",
+    "publisher": "wemakenews.co.kr",
+    "title_clean": "10대 건설사 하자심사 5279건…현대건설·대우건설 1000건 넘어",
+    "summary": "2019~2026년 10대 건설사 현장에서 153명이 사망하고 5279건의 하자심사가 발생했으며, 현대건설과 대우건설은 각각 1000건을 초과했다. 건설현장 안전관리 실태와 공공공사 안전평가가 문제로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-24T00:50:10+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "산업안전보건관리비 계상 의무, 건설공사 도급인·타 업종으로 확대 - 정보통신신문",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9leVVZSjZha09mWjBsV25kd3lXWTQtdGNfZGFRX29oMkN2a2J1YjJCU0tJNlpiTkZxYkFCd3BwckVVSzdvRFV2RnA2Q0ZqQnFZSWpBalk5cnlOamxhSlFUbC1DT2dLSzA20gFsQVVfeXFMTk1GMFJrQ2UzZXdhSjBBS3pwM3hiNFRzU1dLVDRVQkdGQUxZVG5TcWtCQllFTXB5NldwTGJZQ1FQVDNwNG1nR19sM3B6MkVKQVlTRmNNbUIwQzdSb1EyLXg2MmlhTEFzSkNFNGZX?oc=5",
     "description": "[정보통신신문=이민규기자]산업재해 예방을 위한 산업안전보건관리비 계상 의무가 건설공사 발주자에서 도급인과 타 업종으로 확대된다. 이에 발맞춰 중소 시공업체의 안전",
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T18:06:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "복기왕 의원 “HUG PF보증 수도권 편중…지방 건설사 지원 확대해야” - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52360",
-    "description": "국회 국토교통위원회 소속 복기왕 의원은 지난 15일 국정감사에서 주택도시보증공사(HUG)의 프로젝트파이낸싱(PF) 보증이 수도권과 대형 건설사에 편중돼 있다며 개선을 촉구했다.2024년부터 올해 7월까지 HUG의 PF 보증은 총 228건, 23조7,800억원으로, 이 중 65%인 15조4,000억원이 수도권에 집중됐다.지역별로는 전북 1건 500억원, 경북 1건 550억원, 전남 2,800억원 등에 그쳐 지방의 보증 실적이 저조한 것으로 나타났다.건설사 규모별로도 시공능력평가 상위 40위 이내 업체가 전체 보증액의 64.9%를 차지",
-    "published_at": "2026-10-19T09:14:23+09:00",
-    "cluster_id": "3a66",
-    "publisher": "기계설비신문",
-    "title_clean": "복기왕 의원 “HUG PF보증 수도권 편중…지방 건설사 지원 확대해야”",
-    "summary": "복기왕 의원이 국정감사에서 HUG의 PF 보증이 수도권(65%)과 대형 건설사(64.9%)에 편중돼 있다고 지적하며 지방 건설사 지원 확대를 촉구했다. 2024년부터 7월까지 228건 23조7,800억원 중 지방의 보증 실적(전북 500억, 경북 550억 등)이 현저히 저조한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T18:06:09+09:00",
-    "importance": 4
   }
 ]
