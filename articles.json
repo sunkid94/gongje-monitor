@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "부산시, '2026 기계설비 기술세미나' 개최… 지·산·학·관 800여 명 집... - mtnews.net",
+    "link": "https://www.mtnews.net/news/articleView.html?idxno=26316",
+    "description": "한편, 이번 행사를 공동 주관한 부산권 기계설비단체 연합회는 2014년 창립 이후 대한기계설비건설협회 부산광역지회 등 5개 단체, 636개 회원사(회원 2만 828여 명)가 소속돼 있으며, 기계설비법의 조기 안착과 신기술 보급...",
+    "published_at": "2026-10-23T09:46:00+09:00",
+    "cluster_id": "c96b",
+    "publisher": "mtnews.net",
+    "title_clean": "부산시, '2026 기계설비 기술세미나' 개최… 지·산·학·관 800여 명 집...",
+    "summary": "부산시가 기계설비 기술세미나를 개최하여 지·산·학·관 800여 명이 참석했다. 부산권 기계설비단체 연합회는 2014년 창립 이후 5개 단체, 636개 회원사로 성장했으며, 신기술 보급과 기계설비법 안착을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T09:52:14+09:00",
+    "event_label": "대한기계설비건설협회 2026 기계설비 기술세미나 개최",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -4792,6 +4809,22 @@
     "collected_at": "2026-09-23T10:04:23+09:00",
     "event_label": "대한기계설비건설협회 홍지선 국토장관에 기계설비산업 지원 촉구",
     "importance": 5
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "오늘 첫 삽 뜨는 베트남 '롯데 투티엠' 놓고 현지 언론도 뜨거운 관심 - theguru.co.kr",
+    "link": "https://www.theguru.co.kr/news/article.html?no=108700",
+    "description": "사업 지분은 △롯데쇼핑 30.59% △호텔롯데 22.94% △롯데건설 11.47% △팟닷 35% 등이다. 롯데와 팟닷은 23일 롯데 에코 스마트시티 투티엠의 착공식을 개최할 예정이다. 이에 따라 팟닷은 롯데 에코 스마트시티 투티엠 내...",
+    "published_at": "2026-10-23T09:44:00+09:00",
+    "cluster_id": "ebcb",
+    "publisher": "theguru.co.kr",
+    "title_clean": "오늘 첫 삽 뜨는 베트남 '롯데 투티엠' 놓고 현지 언론도 뜨거운 관심",
+    "summary": "롯데와 팟닷이 베트남에서 '롯데 에코 스마트시티 투티엠' 사업을 추진하며 23일 착공식을 개최한다. 롯데쇼핑, 호텔롯데, 롯데건설 등이 참여하는 대규모 건설 프로젝트로 건설업계의 해외 수주 기회를 나타낸다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T09:52:14+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산퓨얼셀",
@@ -20778,22 +20811,6 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "봉사활동 열심인 거제 외국인들 \"이제 진짜 주민 된것 같아요\" - sidae.com",
-    "link": "https://www.sidae.com/article/2026101411115749291",
-    "description": "한화오션 사업장이 있는 옥포와 삼성중공업 사업장이 있는 장평을 중심으로 외국인들이 늘면서 산업현장뿐만 아니라 골목과 일상에서도 이들과 마주치는 일이 흔해졌다. 옥포는 한때 외국인들이 즐겨 찾는 펍과 음식점이...",
-    "published_at": "2026-10-14T14:29:00+09:00",
-    "cluster_id": "e5c4",
-    "publisher": "sidae.com",
-    "title_clean": "봉사활동 열심인 거제 외국인들 \"이제 진짜 주민 된것 같아요\"",
-    "summary": "거제의 한화오션, 삼성중공업 사업장 근처에서 외국인 근로자들이 증가하고 있으며, 이들이 적극적인 봉사활동을 통해 지역사회에 융화되고 있다. 외국인들이 단순 노동력을 넘어 지역 공동체의 일원으로 자리잡아가는 모습을 보여주고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-14T14:35:24+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32262,22 +32279,6 @@
     "title_clean": "건설현장 안전, 사후 대응서 사전 예방으로···AI·드론·해체 등 기술...",
     "summary": "건설현장의 안전관리 기술이 AI, 드론, 센서 등 첨단기술을 중심으로 빠르게 진화하고 있다. 사후 대응 중심에서 실시간 위험 감지 등 사전 예방으로 패러다임이 전환되고 있으며, 중장비 안전, 지하공간 탐사, 해체공사 등 전방위적으로 기술 적용 범위가 확대되고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-19T10:09:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전 재산 팔고 2000㎞ 달려갔는데…49세男이 사랑한 여성의 정체, 브라질... - nownews.seoul.co.kr",
-    "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20261019601003&wlog_tag3=naver",
-    "description": "16일(현지시간) 브라질 현지 매체 TV 미란치와 CNN 브라질 등에 따르면 건설노동자 에지마르 호샤 마르틴스(49)는 최근 북동부 마라냥주 임페라트리스에서 남동부 미나스제라이스주 벨루오리존치까지 약 2100㎞를 이동했다....",
-    "published_at": "2026-10-19T10:04:00+09:00",
-    "cluster_id": "a160",
-    "publisher": "nownews.seoul.co.kr",
-    "title_clean": "전 재산 팔고 2000㎞ 달려갔는데…49세男이 사랑한 여성의 정체, 브라질...",
-    "summary": "브라질의 49세 건설노동자가 전 재산을 팔고 2100㎞를 이동한 개인적 사건에 관한 뉴스로, 건설업계 전반의 경제적 호재나 악재와 무관한 사건 보도입니다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-19T10:09:25+09:00",
     "importance": 2
   }
