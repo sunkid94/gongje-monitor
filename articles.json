@@ -4471,6 +4471,22 @@
     "importance": 5
   },
   {
+    "keyword": "신세계건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[인사] 신세계그룹 - s-journal.co.kr",
+    "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44754",
+    "description": "헤드셰프) [신세계건설] △ 상무 송희동(공사본부장 겸 공사1담당) △ 상무보 전영준(지원담당) [PKRH/PAV] △ 상무보 정혁진(PK Retail Holdings Inc. 법인장 겸 Pacific Alliance Ventures Holdings Inc. 법인장) [AG글로벌홀딩스]...",
+    "published_at": "2026-10-23T15:54:00+09:00",
+    "cluster_id": "6cf0",
+    "publisher": "",
+    "title_clean": "[인사] 신세계그룹 - s-journal.co.kr",
+    "summary": "신세계그룹이 신세계건설, PKRH/PAV, AG글로벌홀딩스 등 계열사에서 임원진 인사를 단행했다. 상무 및 상무보급 임원들의 보직 변경으로 조직 개편을 추진하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-23T16:02:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20455,19 +20471,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[오늘의 주요일정]사회(10월15일 목요일) - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261014_0003826426",
-    "description": "▲오전 6시 한국노총 섬유건설조합, 홍은동 두산건설 공사현장 1G 앞, 불법 외국인 고용 규탄 ▲오전 7시 민주노총 건설노조경기중서부지부, 한강로동 용산역 잔디광장, 현대산업개발 규탄 ▲오전 7시 한국노총...",
-    "published_at": "2026-10-15T06:00:00+09:00",
-    "cluster_id": "2a43",
-    "publisher": "newsis.com",
-    "title_clean": "[오늘의 주요일정]사회(10월15일 목요일)",
-    "summary": "10월 15일 한국노총과 민주노총이 건설 현장에서 불법 외국인 고용 및 현대산업개발 관련 규탄 집회를 개최한다. 건설업계의 노동 문제와 근로 환경 개선을 요구하는 노조 활동이 예정되어 있다.",
+    "title": "전국플랜트노조 포항지부, 지부장 탄핵 '임시총회 서명운동' 돌입…임단... - weekly.hankooki.com",
+    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7190403",
+    "description": "전국플랜트건설노동조합 포항지부에서 임금 및 단체협약(이하 임단협) 부결과 파업 철회를 둘러싼 내부 갈등이 결국 지부장 탄핵을 위한 임시총회 서명운동으로 번졌다. 플랜트노조 포항지부 정상화와 조합원...",
+    "published_at": "2026-10-23T15:56:00+09:00",
+    "cluster_id": "babf",
+    "publisher": "weekly.hankooki.com",
+    "title_clean": "전국플랜트노조 포항지부, 지부장 탄핵 '임시총회 서명운동' 돌입…임단...",
+    "summary": "전국플랜트건설노동조합 포항지부에서 임금 및 단체협약 부결과 파업 철회를 둘러싼 내부 갈등이 심화되어 지부장 탄핵을 위한 임시총회 서명운동으로 확대됐다. 조합 내 분열로 인한 노사 관계 불안정성이 심각해지고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-10-15T06:05:31+09:00",
+    "collected_at": "2026-10-23T16:02:08+09:00",
     "importance": 4
   },
   {
@@ -32245,21 +32261,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T11:29:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "인천공항공사, 건설현장 화재사고 대비 합동대응훈련 실시 !!! - 세정포커스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10SXFKX3QwMkYtdzdaV1ZQZGdBWlAtUHNlTmJtMUJEa0MwaDNBME84WVNNOU9zNDJITlY0TjVUdGpzb1QzeGxteGc1WlBsbHhncUxnNzFBSE4wS1Nqd1BkVzdQSXZWZEg1YTVoSU9n?oc=5",
-    "description": "인천국제공항공사는 건설현장 화재사고 대응역량 강화를 위해 관계기관과 합동대응훈련을 실시했다고 19일 밝혔다.지난 16일 인천공항 중소기업 전용 공동물류센터 건설현",
-    "published_at": "2026-10-19T11:21:48+09:00",
-    "cluster_id": "838f",
-    "publisher": "세정포커스",
-    "title_clean": "인천공항공사, 건설현장 화재사고 대비 합동대응훈련 실시 !!!",
-    "summary": "인천국제공항공사가 건설현장 화재사고 대응 역량 강화를 위해 관계기관과 합동대응훈련을 실시했다. 중소기업 전용 공동물류센터 건설현장에서 실제 상황을 가정한 훈련을 통해 안전관리 체계를 점검했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T11:29:43+09:00",
-    "importance": 4
   }
 ]
