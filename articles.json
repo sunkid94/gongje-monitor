@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비협회 부산시회, '2026 기계설비 기술세미나' 성황리 개최 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52472",
+    "description": "대한기계설비건설협회 부산시회(회장 엄세현)가 23일 부산 연제구 소재 부산시청 대강당에서 '2026년 기계설비 기술세미나'<사진>를 성황리에 개최했다. 이번 세미나는 기계설비 산업의 최신 기술 동향을 공유하고 산업의...",
+    "published_at": "2026-10-23T18:06:00+09:00",
+    "cluster_id": "38d6",
+    "publisher": "기계설비신문",
+    "title_clean": "기계설비협회 부산시회, '2026 기계설비 기술세미나' 성황리 개최",
+    "summary": "대한기계설비건설협회 부산시회가 부산시청 대강당에서 '2026 기계설비 기술세미나'를 개최했다. 기계설비 산업의 최신 기술 동향을 공유하고 업계 발전을 위한 논의의 장을 마련했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T18:10:01+09:00",
+    "event_label": "대한기계설비건설협회 2026 기계설비 기술세미나 개최",
+    "importance": 5
+  },
+  {
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -4486,6 +4503,22 @@
     "collected_at": "2026-09-23T18:49:13+09:00",
     "event_label": "전문건설공제조합 단기 혁신과제 타운홀 미팅 개최",
     "importance": 5
+  },
+  {
+    "keyword": "신세계건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[인사] 재정경제부 ; 외교부 ; 국가데이터처 등 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026102318761",
+    "description": "손종원 ◈신세계건설◎승진<상무>▷공사본부장 겸 공사1담당 송희동◎승진<상무보>▷지원담당 전영준 ◈PKRH·PAV◎승진<상무보>▷PK Retail Holdings Inc. 법인장 겸 Pacific Alliance Ventures Holdings Inc. 법인장 정혁진...",
+    "published_at": "2026-10-23T18:02:00+09:00",
+    "cluster_id": "e876",
+    "publisher": "hankyung.com",
+    "title_clean": "[인사] 재정경제부 ; 외교부 ; 국가데이터처 등",
+    "summary": "신세계건설, PKRH·PAV 등 주요 계열사에서 임원진 승진 인사가 단행되었다. 건설업계 인사 소식으로 특정 호재나 악재 없이 정상적인 조직 운영 사항이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-23T18:10:01+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -20472,22 +20505,6 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 탄소저감 조강형 콘크리트, 대한상의 인증 통과 - ttlnews.com",
-    "link": "http://www.ttlnews.com/news/articleView.html?idxno=3152125",
-    "description": "정부가 2026년 말 한국거래소 내 자발적 탄소시장 개설을 확정 짓고 최근 글로벌 고신뢰 탄소시장 추진 방안을 구체화하는 가운데 대우건설이 국내 건설업계 최초로 현장 타설 콘크리트 기반의 공인 탄소크레딧 확보...",
-    "published_at": "2026-10-15T09:42:00+09:00",
-    "cluster_id": "c0e2",
-    "publisher": "ttlnews.com",
-    "title_clean": "대우건설 탄소저감 조강형 콘크리트, 대한상의 인증 통과",
-    "summary": "대우건설이 국내 건설업계 최초로 현장 타설 콘크리트 기반의 공인 탄소크레딧을 확보했다. 정부의 2026년 자발적 탄소시장 개설 추진에 맞춰 탄소저감 기술의 상용화 가능성을 입증했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T09:50:45+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,21 +32263,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T16:35:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "신동아건설, 대전 자양2구역 재개발 품었다…올해 수주 1조 돌파 - asiatime.co.kr",
-    "link": "https://www.asiatime.co.kr/article/20261019500360",
-    "description": "신동아건설은 건설경기 침체와 유동성 악화로 지난해 1월 법원에 기업회생절차 개시를 신청했다. 이후 회생채권 변제와 재무구조 개선 등을 추진한 끝에 같은 해 10월 회생절차 종결 결정을 받으며 약 9개월 만에...",
-    "published_at": "2026-10-19T15:58:00+09:00",
-    "cluster_id": "6c97",
-    "publisher": "asiatime.co.kr",
-    "title_clean": "신동아건설, 대전 자양2구역 재개발 품었다…올해 수주 1조 돌파",
-    "summary": "신동아건설이 기업회생절차를 거쳐 재무구조를 개선한 후 대전 자양2구역 재개발 사업을 수주하며 올해 수주액 1조 원을 돌파했다. 건설경기 침체에서 벗어나 프로젝트를 확대하고 있는 모습을 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T16:10:14+09:00",
-    "importance": 2
   }
 ]
