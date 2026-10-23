@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "조달청, 공공공사 BIM·스마트기술 고도화 방안 논의 - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaVZZZ2JMeFBxXzFyTGFYeGxMUTJzbWVLUUk5Ny00RjdpcnlHUHBIYmNETjVYMXlVbFVSUGNSbEZ2TkVFTE45b01IOXRXaUZ1U3RVdlhvejVia3NnQkl0bWRoR2NUdkVuc0JrUlA3TFRqTU9PbVlXWVQ2RnBvNGkwdWRHcnVpMmUwMy1lVmxsb1hoWXNqZ1ZXRjdtSXFsdFdmRktSOUxpX2FxVEZyajM4Y1dHNWZPM3JZYnFNcUltUjJZdUozT0hCS0tINEphQlYwYjZlTFVpQV9TUWlsSUoyZXk5M0xfMW45QkNHT1o3akpFUXUtTXJxcTZSN242LTRDQW5jckwzaEozeHcwaXc?oc=5",
+    "description": "공공공사 품질을 끌어올리고 스마트 건설기술 현장 적용성을 높이기 위한 정책 논의 자리가 마련됐다.조달청(청장 백승보)은 23일 열린 대한건축학회 추계학술발표대회에 참석해 공공공사 제도 개선과 품질 향상을 위한 조달 정책 방향을 공유했다.이번 자리에는 학계 전문가인 이강 연세대 교수와 이진강 한국기술교육대 교수가 함께 참여해 건축 분야 스마트 신기술 동향과",
+    "published_at": "2026-10-23T10:59:00+09:00",
+    "cluster_id": "f13c",
+    "publisher": "데일리안",
+    "title_clean": "조달청, 공공공사 BIM·스마트기술 고도화 방안 논의",
+    "summary": "조달청이 대한건축학회 추계학술발표대회에서 공공공사의 BIM·스마트기술 고도화 방안을 논의하며 건설 정책 방향을 공유했다. 학계 전문가들과 함께 건축 분야 스마트 신기술 동향을 검토하고 공공공사 품질 향상 및 제도 개선 방안을 모색하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T21:06:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T17:10:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[기획1]희미해진 용광로 불꽃...\"새로운 엔진 필요\" - news.lghellovision.net",
-    "link": "http://news.lghellovision.net/news/articleView.html?idxno=558883",
-    "description": "중국산 저가 철강재와 미국의 높은 관세, 여기에 국내 건설경기 침체 등이 겹치면서 철강업계가 깊은 시름에 빠졌습니다. 철강 산업이 지역 생산의 88%, 수출의 97%를 차지하는 광양시는 지역 경제에 직격탄을 맞았습니다....",
-    "published_at": "2026-10-19T16:50:00+09:00",
-    "cluster_id": "9031",
-    "publisher": "news.lghellovision.net",
-    "title_clean": "[기획1]희미해진 용광로 불꽃...\"새로운 엔진 필요\"",
-    "summary": "중국산 저가 철강재, 미국 관세, 국내 건설경기 침체가 복합적으로 작용하면서 철강업계가 심각한 위기를 맞고 있습니다. 철강 산업에 의존도가 높은 광양시를 중심으로 지역 경제에 큰 타격을 주고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T16:55:35+09:00",
-    "importance": 4
   }
 ]
