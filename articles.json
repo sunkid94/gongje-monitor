@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설소식] DL이앤씨·롯데건설·현대건설·SK에코플랜트·GS건설·IPARK현대산업개발 - 스포츠한국",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBORFVXWW45SlJyNTBKc0ZFT2lkaFh6akMzcFR4dmdhY18tN01HZ3VNV0UyeGQwX1ZzNVBDLVVoNjktcGZDRDQ3UXQ2SThVY3NTUUVOX0xKYTU5Q3Zjbk1ZN3lGMDVEX1U4WjN5M3VNWFbSAXRBVV95cUxNMnRrLUFkQlJnbTdwempmY1A0MDhPVEY3WHMxSDIyeURhNWZ1VnJHTDg2c0swWjQ0WUQxby15ZmQzZGw0X0Y3ZkNxMFB1eXZkdVdyelR6X3RqcnRQb1F1Z3JCeC1iT2VhY0lrUE1GZ2RLRmNTQw?oc=5",
+    "description": "[스포츠한국 홍성완 기자] DL이앤씨가 경기 광명시 하안주공9단지 재건축 사업 수주에 나섰다. 안양천 조망과 특화 조경, 커뮤니티 시설 등을 앞세워 차별화된 주거단지를 조성한다는 계획이다.DL이앤씨는 지난 22일 하안주공9단지 재건축 사업의 수의계약을 위한 입찰제안서를 제출했다고 밝혔다.앞서 DL이앤씨는 사업시행자인 교보자산신탁이 진행한 시공사 선정 입찰에 단독 참여해 우선협상대상자 자격을 확보했다. 사업시행자는 제안 내용을 검토한 뒤 오는 11월29일 시공사 선정 전체회의를 개최할 예정이다.하안주공9단지는 재건축을 통해 지하 4층",
+    "published_at": "2026-10-23T18:36:29+09:00",
+    "cluster_id": "81d5",
+    "publisher": "스포츠한국",
+    "title_clean": "[건설소식] DL이앤씨·롯데건설·현대건설·SK에코플랜트·GS건설·IPARK현대산업개발",
+    "summary": "DL이앤씨가 경기 광명시 하안주공9단지 재건축 사업 수주를 위해 입찰제안서를 제출했으며, 교보자산신탁의 시공사 선정 입찰에서 우선협상대상자 자격을 확보했다. 11월 29일 시공사 선정 전체회의를 통해 최종 계약사가 결정될 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T18:59:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20467,22 +20483,6 @@
     "publisher": "socialvalue.kr",
     "title_clean": "대우건설, 탄소크레딧 확보 추진 속도…친환경경영 강화",
     "summary": "대우건설이 국내 건설사 최초로 탄소크레딧 확보를 추진하며 친환경 경영을 강화하고 있다. 탄소저감 조강형 콘크리트 개발을 통해 ESG 경영과 시장 경쟁력을 동시에 확보하려는 전략이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T09:50:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 콘크리트 탄소감축 인증 통과…크레딧 거래 추진 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261015_0003826828",
-    "description": "대우건설은 자사가 개발한 '탄소저감 조강형 콘크리트'가 국내 건설사 최초로 현장타설 콘크리트를 대상으로 대한상공회의소의 탄소감축인증 방법론 인증과 사업계획서 인증 심의를 통과했다고 15일 밝혔다....",
-    "published_at": "2026-10-15T09:45:00+09:00",
-    "cluster_id": "f7cf",
-    "publisher": "newsis.com",
-    "title_clean": "대우건설, 콘크리트 탄소감축 인증 통과…크레딧 거래 추진",
-    "summary": "대우건설이 탄소저감 콘크리트로 국내 건설사 최초로 탄소감축인증을 획득했다. 이를 통해 탄소크레딧 거래를 추진하여 건설사의 환경경영 경쟁력과 수익성 강화가 기대된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T09:50:45+09:00",
     "importance": 2
