@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남부발전, 하동복합발전소 건설사업 본격화…사업 착수회의 진행 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1418037",
+    "description": "남부발전은 지난 9월 두산에너빌리티 컨소시엄과 설계·기자재 공급·시공을 통합 수행하는 EPC 계약을 맺은 바 있다. 이날 회의에는 남부발전과 두산에너빌리티 컨소시엄, 기술지원에 나선 한국전력기술 관계자들이...",
+    "published_at": "2026-10-23T17:58:00+09:00",
+    "cluster_id": "3487",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "남부발전, 하동복합발전소 건설사업 본격화…사업 착수회의 진행",
+    "summary": "남부발전이 두산에너빌리티 컨소시엄과 체결한 하동복합발전소 EPC 계약에 따라 사업 착수회의를 개최하며 본격적인 건설에 돌입했다. 한국전력기술 등 기술지원사가 참여해 대규모 발전 인프라 프로젝트가 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-23T18:05:16+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-15T09:50:45+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 업계 최초 현장타설 콘크리트 탄소감축인증 심의 통과 - dailian.co.kr",
-    "link": "https://www.dailian.co.kr/news/view/1701689/?sc=Naver",
-    "description": "대우건설이 자체 개발한 ‘탄소저감 조강형 콘크리트’로 국내 건설사 최초로 현장타설 콘크리트 분야에서 탄소감축인증을 위한 방법론 및 사업계획서 인증 심의를 통과했다. 대우건설은 지난 9월30일...",
-    "published_at": "2026-10-15T09:39:00+09:00",
-    "cluster_id": "c987",
-    "publisher": "dailian.co.kr",
-    "title_clean": "대우건설, 업계 최초 현장타설 콘크리트 탄소감축인증 심의 통과",
-    "summary": "대우건설이 자체 개발한 탄소저감 조강형 콘크리트로 국내 건설사 최초로 현장타설 콘크리트 분야의 탄소감축인증 심의를 통과했다. 이는 건설업계의 친환경 기술 개발과 ESG 경영을 강화하는 긍정적 신호로, 향후 입찰 경쟁력 강화에 기여할 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T09:50:45+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
