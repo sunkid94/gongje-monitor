@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[2026 국감] 10대 건설사 하자심사 접수 5279건…대우·현대 1000건 넘어 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2380018.htm",
+    "description": "아울러 정 의원에 따르면 건설현장 안전관리 문제도 드러났다. 2019년부터 올해까지 주요 10대 건설사 현장에서 발생한 사망사고는 133건으로 153명이 목숨을 잃었다. 이들 건설사가 2024~2025년 체결한 신규 공공공사...",
+    "published_at": "2026-10-23T13:20:00+09:00",
+    "cluster_id": "bc68",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "[2026 국감] 10대 건설사 하자심사 접수 5279건…대우·현대 1000건 넘어",
+    "summary": "국감에서 10대 건설사의 하자심사 접수가 5,279건으로 집계되었으며, 대우건설과 현대건설이 각각 1,000건을 넘겼다. 2019년부터 현재까지 주요 10대 건설사 현장에서 133건의 사망사고로 153명이 사망하는 등 건설현장 안전관리 문제가 심각한 것으로 드러났다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-23T13:32:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T10:49:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "민간공사도 발주자 직접지급 의무화…내년 1월 시행 - 한국안전신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdGFhcjVjS0lDWjVKQm9yTUx3eFE4c1E0Z1BxcTlMa0twVVg0MkRpM1JPd0puczVRaElVMTZsT01VN2ZxTjlwSEw3SjJaOXFKVnBISmVnVFBwSHV4V3l0VFd0RHZWVDYy?oc=5",
-    "description": "홍지선 국토교통부 장관이 국회 국토교통위원회 국정감사에서 불법하도급과 공사대금 체불 등 건설현장의 불법·불공정 관행을 제도 개선과 점검으로 바로잡겠다고 밝혔다.장",
-    "published_at": "2026-10-19T08:00:00+09:00",
-    "cluster_id": "c3ff",
-    "publisher": "한국안전신문",
-    "title_clean": "민간공사도 발주자 직접지급 의무화…내년 1월 시행",
-    "summary": "국토교통부가 민간공사의 발주자 직접지급 의무화를 내년 1월부터 시행한다. 불법하도급과 공사대금 체불 등 건설현장의 불법·불공정 관행을 제도 개선과 점검으로 개선하겠다는 입장이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T10:49:28+09:00",
-    "importance": 4
   }
 ]
