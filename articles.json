@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[의정칼럼] 홍기후 충청남도의회 의원 - djtimes.co.kr",
+    "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=113917",
+    "description": "특정 산업과 자본시장에서 발생한 성과가 국가 전체의 세수는 끌어올릴 수 있지만, 지방의 건설경기와 골목상권, 주민들의 살림살이까지 개선시키는 것은 아니기 때문이다. 국가의 세입 지표와 지방의 체감경기가 엇갈리는...",
+    "published_at": "2026-10-23T17:44:00+09:00",
+    "cluster_id": "8b89",
+    "publisher": "djtimes.co.kr",
+    "title_clean": "[의정칼럼] 홍기후 충청남도의회 의원",
+    "summary": "충청남도의회 의원이 국가 전체의 세수 증가가 지방의 건설경기와 골목상권, 주민 생활 개선으로 이어지지 않는 문제를 지적하고 있습니다. 국가 경제지표와 지방 체감경기의 괴리를 비판하는 칼럼입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-23T17:49:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설업 규제",
     "category": "정책·규제",
     "is_company": false,
@@ -32247,21 +32263,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T16:01:07+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주, 로컬기업 키워 지역경제 원동력으로 - jejumaeil.net",
-    "link": "https://www.jejumaeil.net/news/articleView.html?idxno=405713",
-    "description": "도는 19일 도청 탐라홀에서 위성곤 도지사 주재로 주간정책회의를 열고 '제주도 로컬크리에이터 육성 및 지원 기본계획(안)'을 논의하는 한편 관광·건설경기 활성화와 공공기관 유치 등 주요 현안을 점검했다. 이날...",
-    "published_at": "2026-10-19T15:46:00+09:00",
-    "cluster_id": "447c",
-    "publisher": "jejumaeil.net",
-    "title_clean": "제주, 로컬기업 키워 지역경제 원동력으로",
-    "summary": "제주도가 로컬크리에이터 육성 및 지원 기본계획을 논의하고 관광·건설경기 활성화, 공공기관 유치 등 주요 정책을 추진 중이다. 지역경제 활성화를 통해 로컬기업 성장을 도모하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T15:50:45+09:00",
-    "importance": 2
   }
 ]
