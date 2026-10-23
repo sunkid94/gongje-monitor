@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[분양캘린더] 10월 다섯째 주 '아크메르 동탄' 등 5555가구 공급 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2639492",
+    "description": "경기 화성시 반송동에서는 포스코이앤씨가 시공하는 '아크메르 동탄 95·99'가 청약 접수에 나선다. 단지는 총 1808가구 규모로 조성된다. 같은 날 부산 해운대구 반여동에서는 1644가구 규모의 '트리븐센텀 1·2단지'가...",
+    "published_at": "2026-10-24T06:00:00+09:00",
+    "cluster_id": "8750",
+    "publisher": "etoday.co.kr",
+    "title_clean": "[분양캘린더] 10월 다섯째 주 '아크메르 동탄' 등 5555가구 공급",
+    "summary": "10월 다섯째 주에 아크메르 동탄, 트리븐센텀 등 5555가구 규모의 대규모 분양이 진행된다. 포스코이앤씨 등 건설사들의 활발한 시공 및 공급으로 건설 수주 기회가 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-24T06:09:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20472,19 +20488,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산에너빌리티 주가 7%대 급락…6만4200원으로 밀려 - CBC뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrZncwZFRjNDdLN3c1bUpvRWhTc1RZVkdRc0lRNHljTENFa1RTeXZzZGxxNFRyNERHMEJYeUdmSzJZTGNsQVpyV1Rva0JEVk5DYUlId09kaGFqakNZd21MT25UdTAwSVQ3?oc=5",
-    "description": "[CBC뉴스] 두산에너빌리티 주가가 15일 장중 7% 넘게 하락하며 약세를 나타내고 있다.두산에너빌리티는 이날 오전 장중 6만4200원에 거래되며 전일 대비 5300원 하락했다. 하락률은 약 7.63%로, 주가가 6만5000원 아래로 내려간 상황이다.전일 종가 6만9500원을 기준으로 주가가 큰 폭으로 밀리면서 장중 가격 변동성이 확대되는 양상이다.두산에너빌리티는 원자력발전 설비와 발전용 터빈 등 에너지 관련 사업을 영위하는 기업이다. 원전 및 발전 인프라 관련 사업을 주요 사업 영역으로 두고 있어 관련 산업의 투자 동향과 수주 상",
-    "published_at": "2026-10-15T10:07:14+09:00",
-    "cluster_id": "b62d",
-    "publisher": "CBC뉴스",
-    "title_clean": "두산에너빌리티 주가 7%대 급락…6만4200원으로 밀려",
-    "summary": "두산에너빌리티 주가가 15일 장중 7% 이상 급락하며 6만4200원까지 하락했다. 전일 종가 6만9500원 대비 5300원 내려가며 가격 변동성이 확대되고 있다.",
+    "title": "“산재 사망 감축, 획기적 성과” 칭찬받은 노동부…내부에선 “더 줄일... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10912999?ref=naver",
+    "description": "다만 건설경기 부진이 사망자 감소에 영향을 미쳤다는 해석도 나온다. 감소의 원인을 정확히 살펴야 한다는 질문은 지난 8월 대통령 업무보고에서도 제기됐다. 국민참여단으로 참석한 충남 서산의 김춘성 씨는 당시...",
+    "published_at": "2026-10-24T06:01:00+09:00",
+    "cluster_id": "1548",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "“산재 사망 감축, 획기적 성과” 칭찬받은 노동부…내부에선 “더 줄일...",
+    "summary": "노동부의 산재 사망 감축 성과가 평가받고 있으나, 건설경기 부진이 사망자 감소의 주요 원인이라는 분석이 제기되고 있다. 실제 안전 개선 효과와 원인을 정확히 파악해야 한다는 지적이 대통령 업무보고에서도 나왔다.",
     "sentiment": "negative",
-    "collected_at": "2026-10-15T10:15:07+09:00",
+    "collected_at": "2026-10-24T06:09:47+09:00",
     "importance": 4
   },
   {
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T18:06:09+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "서울에너지드림센터, AI 디지털트윈 활용 건물에너지 최적운영 방안 논의 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52365",
-    "description": "서울에너지드림센터는 최근 한국에너지공단 서울지역본부와 공동으로 ‘제로에너지건축의 완성 – 패시브에서 AI 최적운영까지’ 세미나를 개최했다고 19일 밝혔다.이번 세미나는 제로에너지건축물의 운영기술과 현장 경험을 공유하기 위해 추진됐다. 제로에너지건축물의 설계성능을 실제 운영단계에서도 지속적으로 유지하고 개선하기 위한 전문기술과 운영사례를 공유하고자 마련됐다.세미나는 서울에너지드림센터 임진혁 시설운영국장과 한국에너지공단 서울지역본부 장재학 본부장의 개회사에 이어 총 3개 세션으로 진행됐다.첫 번째 세션에서는 ‘ZEB 정부정책 및 패시브",
-    "published_at": "2026-10-19T10:26:31+09:00",
-    "cluster_id": "76ea",
-    "publisher": "기계설비신문",
-    "title_clean": "서울에너지드림센터, AI 디지털트윈 활용 건물에너지 최적운영 방안 논의",
-    "summary": "서울에너지드림센터가 한국에너지공단과 함께 제로에너지건축물의 운영기술 개선 세미나를 개최했다. AI 디지털트윈 기술을 활용한 건물에너지 최적운영 방안을 논의하며 설계성능을 운영단계에서도 지속 유지하기 위한 전문기술과 사례를 공유했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T18:06:09+09:00",
-    "importance": 2
   }
 ]
