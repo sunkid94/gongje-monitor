@@ -4794,6 +4794,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[특징주] 3분기 깜짝 실적에도…SGC에너지 장중 8%대 급락 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2639254",
+    "description": "건설 부문에서는 자회사 SGC이앤씨가 공사 원가 관리와 판관비 효율화에 집중해 안정적인 수익을 냈으며 유리 부문은 글라스락의 글로벌 유통 채널 강화와 고부가가치 제품 확대로 매출 기반을 다졌다. 아울러...",
+    "published_at": "2026-10-23T09:28:00+09:00",
+    "cluster_id": "a0cc",
+    "publisher": "etoday.co.kr",
+    "title_clean": "[특징주] 3분기 깜짝 실적에도…SGC에너지 장중 8%대 급락",
+    "summary": "SGC에너지가 3분기 실적 호전에도 불구하고 주가가 급락했다. 건설 부문 자회사 SGC이앤씨의 원가 관리 개선와 유리 부문의 글라스락 매출 기반 확대 등 긍정적 성과가 있었으나 시장 반응은 부정적이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-23T09:36:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20776,22 +20792,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-14T14:24:52+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "“대우건설, 3분기 영업이익 197% 급증 전망…27조 수주는 ‘가덕도·체코원전’이 열쇠” - 뉴스퀘스트",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1QjYtSWRvZm9TYlhzZ3dMdzU5bWhRd3Q0MUhidUM2bUtiYi0wdjBEZWItbGw5OWRYLXJudkFfMlZzdFRJd01ycDM5d0RsOFNqZVVLT2hReENkbDZxRER0dHFtNjFjOWVZeXotQnRCcw?oc=5",
-    "description": "【뉴스퀘스트=장원수 기자】대우건설의 3분기 영업이익은 1683억원으로, 전년 동기대비 197.3% 증가한 것으로 집계됐다. 연결 매출액은 1조9500억원으로 2.",
-    "published_at": "2026-10-14T14:12:35+09:00",
-    "cluster_id": "2b8b",
-    "publisher": "뉴스퀘스트",
-    "title_clean": "“대우건설, 3분기 영업이익 197% 급증 전망…27조 수주는 ‘가덕도·체코원전’이 열쇠”",
-    "summary": "대우건설의 3분기 영업이익이 전년 동기 대비 197% 급증할 전망이다. 가덕도와 체코 원전 등 대형 수주가 27조원 수주 달성의 핵심이 될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T14:24:52+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
