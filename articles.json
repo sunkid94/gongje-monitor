@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "엄태영, 건설 하도급 불공정 의혹 제기…\"국토부 전수조사해야\" - 뉴스토마토",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DajY5T2FMZXVtbGRJODNsZGtvSWtOX3k0ZXg1UDJsS3B5b3M5YWh0aEh2TEY5OFhqTWNEQ1hhMHQ5ZFc4VDZqbUFWT0hGVU9tSVp1cHpsdWktOVFZM1gzLQ?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DajY5T2FMZXVtbGRJODNsZGtvSWtOX3k0ZXg1UDJsS3B5b3M5YWh0aEh2TEY5OFhqTWNEQ1hhMHQ5ZFc4VDZqbUFWT0hGVU9tSVp1cHpsdWktOVFZM1gzLQ?oc=5\" target=\"_blank\">엄태영, 건설 하도급 불공정 의혹 제기…\"국토부 전수조사해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+    "published_at": "2026-10-23T18:13:23+09:00",
+    "cluster_id": "8dff",
+    "publisher": "뉴스토마토",
+    "title_clean": "엄태영, 건설 하도급 불공정 의혹 제기…\"국토부 전수조사해야\"",
+    "summary": "엄태영이 건설 하도급 관행의 불공정성을 지적하며 국토부의 전수조사를 요구했다. 이는 건설업계의 하도급 거래 관행에 대한 규제 강화 논의로 이어질 가능성이 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-24T07:49:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T18:06:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안태준 의원, 경기도 지하공동 22건 중 19건 미복구…지반침하 우려 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52366",
-    "description": "올해 상반기 경기도에서 발견된 지하공동 22건 가운데 19건이 복구되지 않은 것으로 나타나 지반침하 예방을 위한 관리 강화가 필요하다는 지적이 제기됐다.국회 국토교통위원회 소속 안태준 의원(더불어민주당)은 19일 경기도의 지하공동 복구 실태를 지적하며 시·군별 복구 이행상황에 대한 경기도 차원의 추적관리 체계 마련을 촉구했다.안 의원에 따르면 올해 상반기 경기도에서 발견된 지하공동 22건 중 복구가 완료된 곳은 3건에 불과했으며, 나머지 19건(86.4%)은 미복구 상태인 것으로 나타났다.특히 즉시 복구가 필요한 긴급공동 5건 가운",
-    "published_at": "2026-10-19T10:34:29+09:00",
-    "cluster_id": "2bfb",
-    "publisher": "기계설비신문",
-    "title_clean": "안태준 의원, 경기도 지하공동 22건 중 19건 미복구…지반침하 우려",
-    "summary": "경기도에서 올해 상반기 발견된 지하공동 22건 중 19건(86.4%)이 복구되지 않은 상태로, 지반침하 위험이 우려되고 있다. 안태준 의원은 시·군별 복구 이행상황에 대한 경기도 차원의 추적관리 체계 마련을 촉구했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T18:06:09+09:00",
-    "importance": 4
   }
 ]
