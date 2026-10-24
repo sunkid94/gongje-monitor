@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "국토부장관 공사비 증액분 확약 회피, 정부 의지도 의심 - news.knn.co.kr",
+    "link": "https://news.knn.co.kr/news/article/193565",
+    "description": "빠졌지만 대우건설 컨소시엄은 사업 추진에 무리가 없어 보입니다. {이윤상/가덕도신공항건설공단 이사장/내부 사정으로 지연된 걸로 알고 있고요,회사 전체 컨소시엄 자체적으로 지분 조정을 통해서 문제를 해결할 걸로...",
+    "published_at": "2026-10-24T20:26:00+09:00",
+    "cluster_id": "fff8",
+    "publisher": "news.knn.co.kr",
+    "title_clean": "국토부장관 공사비 증액분 확약 회피, 정부 의지도 의심",
+    "summary": "가덕도신공항 건설사업을 추진 중인 대우건설 컨소시엄이 공사비 증액 확약 없이 사업을 진행하려는 가운데, 정부의 의지가 의심되고 있습니다. 건설사는 내부 지분 조정을 통해 문제 해결을 시도하고 있으나, 공사비 확보 문제는 미해결 상태입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-24T20:27:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20468,22 +20484,6 @@
     "title_clean": "[내예기] \"단순 시공은 잊어라\"···IPARK현대산업개발의 디벨로퍼 승부...",
     "summary": "국내 주택시장 침체 속에서 IPARK현대산업개발이 단순 시공을 벗어난 디벨로퍼 전략으로 경쟁력을 확보하고 있다. 건설업계 전반이 어려운 가운데 차별화된 사업 방식으로 선방 중이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-15T11:25:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 탄소저감 콘크리트 탄소감축인증 심의 통과 - 중소기업신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5VVRSNjVTdHRiT3h5enQ4MWxQeUpkOFZRd2EtUDg4cE9IbnB2TEVCSFhGNGR5TnhFX2kzZ1hOcENnZF8tdFZRQ0hodjBNUjdXMnRkbTlGcEIwcHh3OU5hZzl2Q0lVX1dHQ19mQw?oc=5",
-    "description": "대우건설은 한라시멘트와 공동 개발한 ‘탄소저감 조강형 콘크리트’가 대한상공회의소 탄소감축인증의 방법론 인증과 사업계획서 인증 심의를 통과했다고 15일 밝혔다.탄소감축인증은 방법론 인증과 사업계획서 인증, 모니터링 보고서 인증 등 3단계 심의를 거쳐 온실가스 감축 효과를 검증하고 탄소크레딧을 발급하는 제도다. 대우건설은 향후 모니터링 보고서 인증을 거쳐 크레딧 발급을 추진할 예정이다.대우건설에 따르면 실제 건설현장에 적용한 탄소저감 조강형 콘크리트 30만㎥를 기준으로 예상되는 탄소 감축량은 약 3만2000톤이다. 회사는 현장 시공·품",
-    "published_at": "2026-10-15T11:19:16+09:00",
-    "cluster_id": "7275",
-    "publisher": "중소기업신문",
-    "title_clean": "대우건설, 탄소저감 콘크리트 탄소감축인증 심의 통과",
-    "summary": "대우건설이 한라시멘트와 공동 개발한 탄소저감 조강형 콘크리트가 대한상공회의소 탄소감축인증의 방법론 및 사업계획서 심의를 통과했다. 30만㎥ 적용 시 약 3만2000톤의 탄소 감축이 예상되며, 향후 탄소크레딧 발급을 추진할 예정이다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-15T11:25:35+09:00",
     "importance": 2
   },
