@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, 이수신동아4단지 리모델링 수주 - sisaon.co.kr",
+    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205374",
+    "description": "포스코이앤씨가 지난 24일 열린 서울 이수신동아4단지 아파트 리모델링 조합 총회에서 조합원들의 압도적인 지지를 받으며 시공사로 최종 선정됐다. 서울시 동작구 동작대로29길 110 일원에 위치한 '이수신동아4단지'는...",
+    "published_at": "2026-10-25T08:06:00+09:00",
+    "cluster_id": "e1e0",
+    "publisher": "sisaon.co.kr",
+    "title_clean": "포스코이앤씨, 이수신동아4단지 리모델링 수주",
+    "summary": "포스코이앤씨가 서울 동작구 이수신동아4단지 아파트 리모델링 공사의 시공사로 최종 선정됐다. 조합 총회에서 조합원들의 압도적인 지지를 받으며 수주를 확보했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-25T08:07:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20472,20 +20488,20 @@
     "importance": 3
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "하안6·7단지, IPARK현산과 동행 유력… 11월 전체회의 - arunews.com",
-    "link": "https://www.arunews.com/news/articleView.html?idxno=68170",
-    "description": "경기 광명시 하안주공6·7단지가 IPARK현대산업개발과 동행할 가능성이 높아지고 있다. 하안주공6·7단지 재건축 사업시행자인 한국토지신탁은 지난 14일 시공자 수의계약을 위한 우선협상대상자 선정 입찰을...",
-    "published_at": "2026-10-15T12:52:00+09:00",
-    "cluster_id": "6f73",
-    "publisher": "arunews.com",
-    "title_clean": "하안6·7단지, IPARK현산과 동행 유력… 11월 전체회의",
-    "summary": "경기 광명시 하안주공6·7단지 재건축사업에서 IPARK현대산업개발이 시공사로 선정될 가능성이 높아지고 있다. 한국토지신탁이 우선협상대상자 선정 입찰을 진행하고 있으며, 11월 전체회의에서 최종 결정될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T13:00:17+09:00",
-    "importance": 3
+    "title": "K-스틸법 지원에도…국내 고철 값만 나홀로 하락세 [프라이스&] - hankyung.com",
+    "link": "https://www.hankyung.com/article/202610231575i",
+    "description": "국내 고철 가격 하락의 배경에는 국내 건설경기 위축이 있다. 고금리 여파로 아파트 착공 물량이 감소하며 철근 수요가 줄었다는 분석이다. 올해 6월 포스코가 연산 250만t 규모의 광양 전기로를 신설하며 철스크랩 수요...",
+    "published_at": "2026-10-25T08:01:00+09:00",
+    "cluster_id": "57d5",
+    "publisher": "hankyung.com",
+    "title_clean": "K-스틸법 지원에도…국내 고철 값만 나홀로 하락세 [프라이스&]",
+    "summary": "국내 고철 가격이 K-스틸법 지원에도 불구하고 하락세를 보이고 있다. 고금리로 인한 건설경기 위축과 아파트 착공 물량 감소로 철근 수요가 줄어들었으며, 포스코의 전기로 신설로 철스크랩 수요 증가가 예상되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T08:07:48+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T19:26:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "인천시, 제물포구 철강산업 위기에 산업위기선제대응지역 지정 추진 - m-i.kr",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=2007543",
-    "description": "제물포구 철강업계는 건설경기 침체 장기화와 중국산 저가 철강재 유입, 미국의 관세 강화, 산업용 전기요금 인상 등이 겹치면서 어려움을 겪고 있다. 현대제철은 전기로 제강공장과 소형 압연공장 영구 폐쇄, 희망퇴직 등...",
-    "published_at": "2026-10-19T19:18:00+09:00",
-    "cluster_id": "1566",
-    "publisher": "",
-    "title_clean": "인천시, 제물포구 철강산업 위기에 산업위기선제대응지역 지정 추진 - m-i.kr",
-    "summary": "인천시 제물포구 철강산업이 건설경기 침체, 중국산 저가 철강재 유입, 미국 관세 강화, 전기요금 인상 등으로 위기를 겪고 있다. 인천시가 산업위기선제대응지역 지정을 추진하며 현대제철 등 주요 업체들이 공장 폐쇄와 인원 감축을 단행하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T19:25:26+09:00",
-    "importance": 4
   }
 ]
