@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "中 덤핑·수요 침체·노조 파업 삼중고…포스코 등 철강업계 승부수는? - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282339",
+    "description": "건설경기 침체 장기화로 철강 수요가 급감한 가운데 탄소중립 규제 강화에 따른 친환경 설비 투자 부담까지 더해지며 업계 전반의 경영 압박이 커지고 있다. 유럽연합(EU)의 탄소국경조정제도(CBAM)는 탄소 배출량이 높은...",
+    "published_at": "2026-10-25T07:20:00+09:00",
+    "cluster_id": "863a",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "中 덤핑·수요 침체·노조 파업 삼중고…포스코 등 철강업계 승부수는?",
+    "summary": "중국 덤핑, 건설경기 침체, 노조 파업 등으로 철강업계가 수요 급감과 경영 압박에 직면하고 있다. EU 탄소국경조정제도(CBAM) 등 탄소중립 규제 강화로 친환경 설비 투자 부담이 가중되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T07:22:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32245,22 +32261,6 @@
     "summary": "인천시가 건설경기 부진, 저가 수입 철강재, 전기요금 상승 등으로 어려움을 겪는 제물포구 철강산업 위기에 대응하기 위해 정부 실사단을 구성해 지원 방안을 모색 중이다. 정부 부처와 민간 전문가가 참여해 산업 현장의 구조적 문제 해결을 추진하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-19T19:10:21+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[2026 국감] 윤종오 의원, 서울시 공사현장 임금·9호선 안전인력 관리 ... - news2day.co.kr",
-    "link": "https://www.news2day.co.kr/article/20261019500225",
-    "description": "국회 국토교통위원회 소속 윤종오 진보당 의원(울산 북구)은 19일 배포한 서울시 국정감사 질의 예고자료에서 건설노동자 임금 지급과 9호선 인력 운영 실태를 점검하고 개선책을 요구하겠다고 밝혔다. 윤 의원실에...",
-    "published_at": "2026-10-19T18:48:00+09:00",
-    "cluster_id": "0a50",
-    "publisher": "news2day.co.kr",
-    "title_clean": "[2026 국감] 윤종오 의원, 서울시 공사현장 임금·9호선 안전인력 관리 ...",
-    "summary": "국회 국토교통위원회 윤종오 의원이 서울시 공사현장의 건설노동자 임금 지급 실태와 9호선 안전인력 관리 현황을 국정감사에서 점검할 예정이다. 건설노동자 임금 체불 문제와 안전인력 부족 등 업계 관행 개선을 요구할 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T18:55:26+09:00",
     "importance": 4
   }
 ]
