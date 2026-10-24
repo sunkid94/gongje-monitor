@@ -20488,6 +20488,38 @@
     "importance": 3
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"AI로 가짜 신원·대리 면접까지\"…북한 IT 인력 위장취업 수법 '진화' - ikbc.co.kr",
+    "link": "https://www.ikbc.co.kr/article/view/kbc202610250005",
+    "description": "유엔 제재 대상인 제2자연과학원과 연계된 북한 기업이 IT 노동자를 건설 노동자로 위장해 러시아에 파견한 사례도 있었습니다. MSMT는 북한 IT 노동자가 다른 해외 노동자들보다 1인당 높은 수익을 창출하고 있으며...",
+    "published_at": "2026-10-25T07:56:00+09:00",
+    "cluster_id": "a030",
+    "publisher": "ikbc.co.kr",
+    "title_clean": "\"AI로 가짜 신원·대리 면접까지\"…북한 IT 인력 위장취업 수법 '진화'",
+    "summary": "북한이 AI와 가짜 신원을 이용해 IT 인력을 건설 노동자로 위장하여 해외에 파견하는 불법 취업 수법이 적발됐다. 이는 유엔 제재를 우회하면서 국제 노동시장 질서를 교란하는 문제로 지적된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-25T07:57:47+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인공지능 가짜 신분·대리 면접…북한 개발자 국내 업체 위장취업 - tjb.co.kr",
+    "link": "https://www.tjb.co.kr/news05/bodo/view/id/105255",
+    "description": "◆ 289명 군 기관 연계…러시아엔 건설 노동자로 위장 파견 이 가운데 289명, 10명 중 6명꼴이 북한 군 관련 기관과 연계돼 있었습니다. 최근에는 중국 당국의 감시가 강화되자 IT 노동자를 무역회사 직원이나 의류 가공...",
+    "published_at": "2026-10-25T07:54:00+09:00",
+    "cluster_id": "72e0",
+    "publisher": "tjb.co.kr",
+    "title_clean": "인공지능 가짜 신분·대리 면접…북한 개발자 국내 업체 위장취업",
+    "summary": "북한 개발자들이 위조 신분증과 대리 면접을 통해 국내 IT 업체에 위장취업하고 있으며, 289명이 북한 군 관련 기관과 연계돼 있는 것으로 드러났습니다. 중국의 감시 강화에 따라 IT 인력을 무역회사나 의류 가공 직원으로 위장 파견하는 수법도 증가하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-25T07:57:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32229,38 +32261,6 @@
     "summary": "인천시 제물포구 철강산업이 건설경기 침체, 중국산 저가 철강재 유입, 미국 관세 강화, 전기요금 인상 등으로 위기를 겪고 있다. 인천시가 산업위기선제대응지역 지정을 추진하며 현대제철 등 주요 업체들이 공장 폐쇄와 인원 감축을 단행하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-19T19:25:26+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "노조원 채용 안하자 공사장 입구 막은 노조 간부 집유 - ccdn.co.kr",
-    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1105703",
-    "description": "한국노총 타워크레인노조는 A씨의 주도하에 민주노총 전국건설노동조합 타워크레인분과위원회와 함께 공사 현장에서 집회용 승합차에 설치된 대형 스피커로 노동가를 크게 틀거나 사다리차에 올라가 공사 현장을...",
-    "published_at": "2026-10-19T19:18:00+09:00",
-    "cluster_id": "af2b",
-    "publisher": "ccdn.co.kr",
-    "title_clean": "노조원 채용 안하자 공사장 입구 막은 노조 간부 집유",
-    "summary": "한국노총 타워크레인노조 간부가 노조원 채용을 강요하기 위해 공사장 입구를 막고 대형 스피커로 소음을 발생시킨 혐의로 집유됨. 노조의 불법 집회 행위가 건설 현장의 정상 운영을 방해하고 있음.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T19:25:26+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "인천시, 제물포구 철강산업 위기 대응…정부 지원 확보 나서 - ppss.kr",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=316273",
-    "description": "건설경기 부진과 저가 수입 철강재 유입, 전기요금 상승 등 악재가 겹치면서 산업 현장의 어려움이 커진 데 따른 조치다. 인천시는 19일 산업통상자원부와 산업연구원, 관계부처 및 민간 전문가로 구성된 정부 실사단이...",
-    "published_at": "2026-10-19T19:05:00+09:00",
-    "cluster_id": "4f58",
-    "publisher": "ppss.kr",
-    "title_clean": "인천시, 제물포구 철강산업 위기 대응…정부 지원 확보 나서",
-    "summary": "인천시가 건설경기 부진, 저가 수입 철강재, 전기요금 상승 등으로 어려움을 겪는 제물포구 철강산업 위기에 대응하기 위해 정부 실사단을 구성해 지원 방안을 모색 중이다. 정부 부처와 민간 전문가가 참여해 산업 현장의 구조적 문제 해결을 추진하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T19:10:21+09:00",
     "importance": 4
   }
 ]
