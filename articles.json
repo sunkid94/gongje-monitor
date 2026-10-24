@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "저PBR 탈출 외쳤지만 KPI·보상체계는 그대로…상장사 개선안 들여다보... - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498163",
+    "description": "동국제강은 중국발 공급과잉과 국내 건설경기 침체, 미국의 50% 관세 부담 등을 거론하며 성장 동력이 약화한 상황을 강조했다. 코로나19 이후 실적 변화와 유통업의 성장 한계를 언급한 기업도 있었다. 제약업종의...",
+    "published_at": "2026-10-25T06:48:00+09:00",
+    "cluster_id": "f23c",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "저PBR 탈출 외쳤지만 KPI·보상체계는 그대로…상장사 개선안 들여다보...",
+    "summary": "동국제강 등 상장사들이 저PBR 탈출을 위한 개선안을 제시했으나, 실질적인 KPI와 보상체계는 변화 없는 것으로 나타났다. 중국 공급과잉, 국내 건설경기 침체, 미국 관세 부담 등 구조적 어려움을 배경으로 기업들이 실적 악화를 설명하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T06:52:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32245,22 +32261,6 @@
     "summary": "이천시의회가 내년 예산 편성을 앞두고 출연금과 민간위탁 사업에 대한 타당성을 점검하고 있다. 사회복지사 처우 개선, 지역건설산업 활성화 및 건설노동자 우선고용, 마을버스운송사업 등 관련 조례 개정안을 검토 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-19T18:30:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "컨테이너부터 간이침대까지…건설노동자 쉼터 개선 지원 - 뉴스후플러스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYckVjTEo2YXZpTWo3VHVhOG92VXZxS0VtT3o5NU5OOHJwZUJFUFJEV3R2eEtEa1FMQ1A5ajN2NElSdDQ1cHFtUG5CZFotSUdTLWc0ZXVtT1pYMWhOaVFkOFZySkhKN25iTXNTdU9B?oc=5",
-    "description": "중·소규모 건설현장이 휴게시설용 컨테이너와 냉난방기 등을 마련할 때 현장당 최대 500만원을 지원받을 수 있게 된다.건설근로자공제회는 19일부터 28일까지 ‘건설현장 휴게시설 개선지원 사업’ 신청을 받는다고 밝혔다.이번 사업은 대형 건설현장에 비해 휴게 편의시설이 부족한 중·소규모 현",
-    "published_at": "2026-10-19T17:32:59+09:00",
-    "cluster_id": "67d3",
-    "publisher": "뉴스후플러스",
-    "title_clean": "컨테이너부터 간이침대까지…건설노동자 쉼터 개선 지원",
-    "summary": "건설근로자공제회가 중·소규모 건설현장의 휴게시설 개선을 위해 현장당 최대 500만원을 지원하는 사업을 시작한다. 컨테이너, 냉난방기, 간이침대 등 기초 편의시설 확충을 통해 건설노동자의 근무환경을 개선하는 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T18:06:09+09:00",
     "importance": 2
   }
 ]
