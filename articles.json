@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대형 건설사들, 영업정지에도 수주 행진... 중대재해 소송의 이면 - gokorea.kr",
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=882613",
+    "description": "건설업계 소식에 의하면, IPARK현대산업개발은 2021년 광주 학동4구역 재개발 현장과 2022년 광주 화정아이파크에서 발생한 사고로 영업정지 처분을 받았다. 그러나 이 회사는 처분 취소 소송을 제기해 정상적인 영업을...",
+    "published_at": "2026-10-25T07:40:00+09:00",
+    "cluster_id": "6f2f",
+    "publisher": "gokorea.kr",
+    "title_clean": "대형 건설사들, 영업정지에도 수주 행진... 중대재해 소송의 이면",
+    "summary": "대형 건설사들이 중대재해로 영업정지 처분을 받았음에도 수주활동을 계속하고 있으며, 처분 취소 소송을 통해 정상 영업을 지속하고 있다. 건설업계의 안전 규제와 법적 처분 체계의 실효성에 대한 문제를 제기하는 기사다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T07:47:48+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-15T13:00:17+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, ‘탄소저감 콘크리트’ 탄소감축인증 통과… 크레딧 발급 추... - viva100.com",
-    "link": "https://www.viva100.com/article/20261015500555",
-    "description": "대우건설이 개발한 탄소저감 콘크리트가 대한상공회의소의 탄소감축인증 주요 심의를 통과했다. 대우건설은 한라시멘트와 공동 개발한 ‘탄소저감 조강형 콘크리트(DECOCON)’가 지난달 30일 국내 건설사 최초로 현장타설...",
-    "published_at": "2026-10-15T12:30:00+09:00",
-    "cluster_id": "2d55",
-    "publisher": "viva100.com",
-    "title_clean": "대우건설, ‘탄소저감 콘크리트’ 탄소감축인증 통과… 크레딧 발급 추...",
-    "summary": "대우건설이 한라시멘트와 공동 개발한 탄소저감 콘크리트(DECOCON)가 대한상공회의소 탄소감축인증을 통과했으며, 국내 건설사 최초로 탄소크레딧 발급을 추진 중이다. 이는 저탄소 건설자재 개발을 통한 ESG 경영 강화 및 탄소중립 정책 대응 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T12:40:27+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
