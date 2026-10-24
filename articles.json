@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[이슈&] \"삼성중공업 후려치기에 당했다\"..하청업체들 빚더미 호소 - 포쓰저널",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TdnMwNS1JS25NdXo1N3B2Yzh6WHJBalNaRHV3R2hGUnpjdjAwNERneEFNUmcxejMzY1pLTEdDY25XdmQxMGRvTHVqMVlsN1JCUDBQaEtPemtTdjRZNXdYT3JRTQ?oc=5",
+    "description": "삼성중공업이 조선업 호황에 힘입어 올해 1조3천억원이 넘는 영업이익을 거둘 것으로 예상되지만 정작 선박 건조 현장을 떠받쳐 온 하청업체들은 원가 미만의 하청단가 때문에 수십억원의 빚을 떠안고 폐업 위기로 내몰렸다고 호소하고 있다.원청은 수익을 내고 하청업체는 적자를 떠안는 구조가 고착화된 것 아니냐는 의혹이 제기되면서 삼성중공업의 하도급대금 산정 방식과 협력업체 관리체계가 도마에 올랐다.최성안 삼성중공업 대표이사 부회장이 지난 9월 대형 본사 노동자들과 임금 인상 외에 영업이익의 10%를 성과급 재원으로 배분하는 데 서둘러 합의한",
+    "published_at": "2026-10-24T10:34:03+09:00",
+    "cluster_id": "e2c2",
+    "publisher": "포쓰저널",
+    "title_clean": "[이슈&] \"삼성중공업 후려치기에 당했다\"..하청업체들 빚더미 호소",
+    "summary": "삼성중공업이 1조3천억원의 영업이익을 기대하는 반면, 선박 건조 현장의 하청업체들은 원가 이하의 저단가 수주로 수십억원의 적자와 폐업 위기에 처해있다. 원청의 수익 극대화 구조 속에서 하도급대금 산정 방식과 협력업체 관리 체계의 공정성이 문제로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-24T10:38:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20467,22 +20483,6 @@
     "publisher": "mt.co.kr",
     "title_clean": "대우건설, 탄소저감 콘크리트 인증 심의 통과…국내 건설사 최초",
     "summary": "대우건설이 국내 건설사 최초로 현장타설용 탄소저감 콘크리트의 탄소크레딧 발급을 위한 주요 인증 심의를 통과했다. 실제 현장 데이터 기반의 온실가스 감축 효과 검증을 완료해 향후 탄소크레딧 발급이 임박한 상태다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T10:40:23+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 탄소저감 콘크리트 인증 심의 통과…국내 건설사 최초 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pbFNpLXA1WFV6ZlprRmRHdlo3UmU5cVlFcURoc1B5c3pua3JYejd4UUd2a2FraUQycDl6bFAtMXo1LS1wUjZkVlczUVRLN0NFN01pbUZWTUdNNmRnSlZQbWZNNU4xdUhOOXfSAW9BVV95cUxOZzh6WG1QLWhkU1RQWGlzQ0dVd2xYNjF4MWlTbUJoSUlkbWpOaEw5MnNRZHB3eFFHSkhfemNBSFpLaDdKYWpMczJpQjM5QkRsclNWNG8wMXNYX2hCbXc4ZUhKZFVFUk1HZGtmZHBHQU0?oc=5",
-    "description": "대우건설이 현장타설용 탄소저감 콘크리트의 탄소크레딧 발급을 위한 주요 인증 절차를 통과했다. 대우건설은 자체 개발한 '탄소저감 조강형 콘크리트(DECOCON)'가 지난 9월 30일 대한상공회의소 탄소감축인증의 방법론 인증과 사업계획서 인증 심의를 통과했다고 15일 밝혔다.",
-    "published_at": "2026-10-15T10:34:31+09:00",
-    "cluster_id": "caa3",
-    "publisher": "머니투데이",
-    "title_clean": "대우건설, 탄소저감 콘크리트 인증 심의 통과…국내 건설사 최초 - 머니투데이",
-    "summary": "대우건설이 국내 건설사 최초로 자체 개발한 탄소저감 콘크리트(DECOCON)의 탄소크레딧 발급을 위한 인증 절차를 통과했다. 이는 건설업계의 탄소감축 기술 확보 및 ESG 경영 강화로 이어질 수 있는 긍정적 신호이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T10:40:23+09:00",
     "importance": 3
