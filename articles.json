@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[마켓+]삼성물산·포스코이앤씨, 서울 아파트 리모델링 잇따라 수주 - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=118677",
+    "description": "/사진=포스코이앤씨 서울 서초구와 동작구의 주요 아파트 단지에서 삼성물산 건설부문과 포스코이앤씨가 잇따라 리모델링 시공권을 확보했다. 삼성물산은 기존 구조체를 유지하는 새로운 리모델링 방식을 처음...",
+    "published_at": "2026-10-24T20:38:00+09:00",
+    "cluster_id": "38ca",
+    "publisher": "businessplus.kr",
+    "title_clean": "[마켓+]삼성물산·포스코이앤씨, 서울 아파트 리모델링 잇따라 수주",
+    "summary": "삼성물산과 포스코이앤씨가 서울 서초구와 동작구의 주요 아파트 단지에서 리모델링 시공권을 잇따라 수주했다. 삼성물산은 새로운 리모델링 방식을 적용하며 건설사들의 리모델링 수주 경쟁이 활발해지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-24T20:47:54+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20469,22 +20485,6 @@
     "summary": "포스코이앤씨가 경기도 오산시에서 '더샵 오산역아크시티' 오피스텔을 16일 정당계약한다. 합리적인 가격과 중도금 무이자 혜택으로 수요 창출을 시도하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-15T11:30:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[내예기] \"단순 시공은 잊어라\"···IPARK현대산업개발의 디벨로퍼 승부... - cnbnews.com",
-    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1019381",
-    "description": "이번에는 침체된 국내 주택시장에서 디벨로퍼 전략으로 선방하고 있는 IPARK현대산업개발 이야기입니다. <편집자주> 국내 주택 경기 부진으로 건설업계 '고난의 행진'이 계속되고 있다. 정부의 대규모 공급 확대...",
-    "published_at": "2026-10-15T11:20:00+09:00",
-    "cluster_id": "0e0a",
-    "publisher": "cnbnews.com",
-    "title_clean": "[내예기] \"단순 시공은 잊어라\"···IPARK현대산업개발의 디벨로퍼 승부...",
-    "summary": "국내 주택시장 침체 속에서 IPARK현대산업개발이 단순 시공을 벗어난 디벨로퍼 전략으로 경쟁력을 확보하고 있다. 건설업계 전반이 어려운 가운데 차별화된 사업 방식으로 선방 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-15T11:25:35+09:00",
     "importance": 2
   },
   {
