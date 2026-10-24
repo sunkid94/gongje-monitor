@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "미국에 조선소 짓는 K조선…'수주 대박' 앞에 인력·원가 시험대 - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=323607",
+    "description": "삼성중공업도 현지 기업과 인력 양성 협력을 추진하고 있다. 진출 방식은 다르지만 풀어야 할 문제는 같다. 한국에서 검증한 건조 기술을 미국에서도 납기와 수익으로 연결할 수 있느냐다. 한·미 조선 협력 프로젝트인...",
+    "published_at": "2026-10-25T08:42:00+09:00",
+    "cluster_id": "aacd",
+    "publisher": "thepublic.kr",
+    "title_clean": "미국에 조선소 짓는 K조선…'수주 대박' 앞에 인력·원가 시험대",
+    "summary": "한국 조선사들이 미국 조선소 건설을 추진하며 대형 수주 기회를 앞두고 있다. 다만 현지 인력 양성, 원가 관리, 납기 준수 등 실행 과제 해결이 성공의 핵심이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-25T08:47:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20469,22 +20485,6 @@
     "summary": "대우건설이 자체 개발한 '탄소저감 조강형 콘크리트'가 국내 건설사 최초로 현장타설 콘크리트 부문에서 대한상공회의소의 탄소감축인증 심의를 통과했다. 이는 건설업계의 탄소중립 기술 개발 및 ESG 경영 추진을 보여주는 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T13:50:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "전국 아파트 25.75%가 준공 30년 초과…4분기 원도심 분양 이어져 - smarttoday.co.kr",
-    "link": "https://www.smarttoday.co.kr/ko-kr/articles/112720",
-    "description": "롯데건설은 같은 달 경기 광주시 쌍령동에서 ‘경기광주역 롯데캐슬 시그니처 2단지’ 1249가구를 공급할 예정이다. 태영건설은 11월 구미 도량동에서 ‘구미 파크원 데시앙’을 분양할 예정이다. 태영건설...",
-    "published_at": "2026-10-15T13:40:00+09:00",
-    "cluster_id": "1c19",
-    "publisher": "smarttoday.co.kr",
-    "title_clean": "전국 아파트 25.75%가 준공 30년 초과…4분기 원도심 분양 이어져",
-    "summary": "전국 아파트 4분의 1 이상이 준공 30년을 초과한 가운데, 건설사들이 4분기 원도심 재개발 분양을 잇달아 추진 중이다. 롯데건설과 태영건설 등이 경기광주와 구미 지역에서 대규모 아파트 단지를 분양할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T13:45:41+09:00",
     "importance": 2
   },
   {
