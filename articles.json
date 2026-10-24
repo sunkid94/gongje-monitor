@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, 5천264억원 규모 이수신동아4단지 리모델링 수주 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261024031200003?input=1195m",
+    "description": "포스코이앤씨가 5천264억원 규모의 서울 동작구 이수신동아4단지 아파트 리모델링 사업을 수주했다. 24일 건설업계에 따르면 이날 오후 열린 이수신동아4단지 아파트 리모델링 사업 조합 총회에서 포스코이앤씨는 총...",
+    "published_at": "2026-10-24T13:53:00+09:00",
+    "cluster_id": "5a42",
+    "publisher": "yna.co.kr",
+    "title_clean": "포스코이앤씨, 5천264억원 규모 이수신동아4단지 리모델링 수주",
+    "summary": "포스코이앤씨가 서울 동작구 이수신동아4단지 아파트 리모델링 사업을 5천264억원 규모로 수주했다. 이는 건설사의 대형 수주 실적 증가로 건설업계 호재에 해당한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-24T13:58:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-15T11:00:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, '탄소저감 조강형 콘크리트' 인증 눈앞 - cnbnews.com",
-    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1019371",
-    "description": "대우건설이 개발한 '탄소저감 조강형 콘크리트(DECOCON)'가 국내 건설사 최초로 현장타설 콘크리트 대상 대한상공회의소의 탄소감축인증 방법론 인증 및 사업계획서 인증 심의를 통과했다. 대우건설은 한라시멘트와 공동...",
-    "published_at": "2026-10-15T10:44:00+09:00",
-    "cluster_id": "ef75",
-    "publisher": "cnbnews.com",
-    "title_clean": "대우건설, '탄소저감 조강형 콘크리트' 인증 눈앞",
-    "summary": "대우건설이 개발한 탄소저감 조강형 콘크리트(DECOCON)가 국내 건설사 최초로 대한상공회의소의 탄소감축인증 심의를 통과했다. 이는 건설사의 탄소중립 기술 확보와 환경규제 대응 역량을 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T10:50:26+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 노동",
