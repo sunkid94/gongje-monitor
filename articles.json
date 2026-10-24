@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설 현장 사망자 10명 중 8명, 입사 6개월 미만 신규 인력이었다 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04U1lCOUZyZVowMHU5VDBDano4VHFfRUlSSFBMX1QxaklZa0dTOXR5MFFPYU5HVEZSZWlmRE1Md3dsX28?oc=5",
+    "description": "건설 사망자 82.3%가 6개월 미만 2026년 10월 국회에서 공개된 산업재해(industrial accident) 자료는 건설 현장의 가장 약한 고리가",
+    "published_at": "2026-10-25T01:26:24+09:00",
+    "cluster_id": "9d83",
+    "publisher": "한국공공정책신문",
+    "title_clean": "건설 현장 사망자 10명 중 8명, 입사 6개월 미만 신규 인력이었다",
+    "summary": "건설 현장 사망자의 82.3%가 입사 6개월 미만의 신규 인력으로 나타났다. 이는 건설업의 안전관리 체계 미흡과 신규 인력 교육 부실이 심각한 문제임을 드러낸다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T01:37:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32243,22 +32259,6 @@
     "publisher": "기계설비신문",
     "title_clean": "한국폴리텍대학 제주캠, 에너지전환 탐방 실시",
     "summary": "한국폴리텍대학 제주캠퍼스의 그린에너지설비과와 전기시스템제어과 학생 30여 명이 제주도 주최의 '2026년 제주 에너지전환 아카데미'에 참여하여 BESS 발전소와 풍력발전단지 등 재생에너지 현장시설을 탐방했다. 학생들은 재생에너지 생산부터 저장, 전력망 연계까지의 역할과 운영 과정을 학습했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T18:06:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "삼성물산, 2.3조 규모 서울 여의도 시범아파트 재건축 수주 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52372",
-    "description": "삼성물산은 서울 영등포구 여의도동 시범아파트 재건축 시공사로 최종 선정됐다고 19일 밝혔다.이 사업은 여의도동 50번지 일대에 지하 6층~지상 최고 59층 규모로 공동주택 2480가구와 부대복리시설 등을 조성하는 프로젝트다. 공사비는 약 2조2685억원이다.",
-    "published_at": "2026-10-19T12:07:01+09:00",
-    "cluster_id": "81fe",
-    "publisher": "기계설비신문",
-    "title_clean": "삼성물산, 2.3조 규모 서울 여의도 시범아파트 재건축 수주",
-    "summary": "삼성물산이 서울 여의도 시범아파트 재건축 사업의 시공사로 최종 선정되어 약 2.3조 규모의 대형 수주를 확보했다. 지하 6층~지상 59층 규모로 공동주택 2,480가구를 건설하는 프로젝트다.",
     "sentiment": "positive",
     "collected_at": "2026-10-19T18:06:09+09:00",
     "importance": 2
