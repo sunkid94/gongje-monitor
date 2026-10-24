@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대형 건설사들, 중대재해 영업정지에 '취소소송' 후 계속 수주 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261024044100003?input=1195m",
+    "description": "25일 건설업계에 따르면 IPARK현대산업개발은 2021년 17명의 사상자를 낸 광주 학동4구역 재개발 현장과 2022년 7명이 죽거나 다친 광주 화정아이파크 현장에 대해 모두 영업정지 처분 취소 소송을 진행 중이다. 서울시는...",
+    "published_at": "2026-10-25T06:41:00+09:00",
+    "cluster_id": "a65e",
+    "publisher": "yna.co.kr",
+    "title_clean": "대형 건설사들, 중대재해 영업정지에 '취소소송' 후 계속 수주",
+    "summary": "대형 건설사 현대산업개발이 중대재해로 인한 영업정지 처분에 대해 취소소송을 제기한 후에도 계속 공사를 수주하고 있다. 안전사고에 대한 행정처분의 실효성 문제가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T06:47:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20469,22 +20485,6 @@
     "summary": "대우건설이 한라시멘트와 공동 개발한 '탄소저감 조강형 콘크리트(DECOCON)'가 대한상공회의소 탄소감축인증 심의를 통과했다. 국내 건설사 최초로 현장타설 콘크리트 대상 탄소크레딧 확보 절차에 진입하며 ESG 역량을 강화하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T12:30:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 콘크리트 탄소감축 인증 통과...탄소중립 '속도' - choicenews.co.kr",
-    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=172249",
-    "description": "이런 가운데 대우건설이 \"대한상공회의소(이하 대한상의) 탄소감축 인증을 통과했다\"고 밝혔다. 대우건설은 15일 \"자사가 개발한 '탄소저감 조강형 콘크리트'가 국내 건설사 최초로 현장타설 콘크리트를 대상으로 대한상의...",
-    "published_at": "2026-10-15T12:02:00+09:00",
-    "cluster_id": "0d84",
-    "publisher": "choicenews.co.kr",
-    "title_clean": "대우건설, 콘크리트 탄소감축 인증 통과...탄소중립 '속도'",
-    "summary": "대우건설이 대한상공회의소 탄소감축 인증을 통과하며 '탄소저감 조강형 콘크리트'로 국내 건설사 최초 성과를 달성했다. 이는 건설업계의 탄소중립 추진 속도를 높이는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T12:10:31+09:00",
     "importance": 2
   },
   {
