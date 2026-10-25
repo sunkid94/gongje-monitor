@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "10대 건설사 하자심사 40%는 아직 계류…정일영 '하자보수 등급제' 제안 - kyongbuk.co.kr",
+    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088434",
+    "description": "건설현장 안전 문제도 도마 위에 올랐다. 2019년부터 올해까지 주요 10대 건설사 현장에서 사망사고 133건이 발생해 노동자 153명이 숨졌다. 건설사별 사망자는 현대건설과 대우건설이 각각 25명으로 가장 많았고...",
+    "published_at": "2026-10-25T19:08:00+09:00",
+    "cluster_id": "db75",
+    "publisher": "kyongbuk.co.kr",
+    "title_clean": "10대 건설사 하자심사 40%는 아직 계류…정일영 '하자보수 등급제' 제안",
+    "summary": "2019년 이후 주요 10대 건설사에서 133건의 사망사고가 발생해 153명이 숨졌으며, 현대건설과 대우건설이 각각 25명으로 가장 많은 사망자를 기록했다. 정일영 의원이 건설현장 안전 개선을 위해 '하자보수 등급제' 도입을 제안했고, 하자심사 건 중 40%가 계류 중인 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T19:13:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32245,22 +32261,6 @@
     "summary": "타워크레인 노동자가 안전작업일수 보장을 요구하며 청와대 앞에서 무기한 단식에 돌입했다. 범국민대책위는 타워크레인 설치·해체 시 공기단축 압박 중단을 촉구하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-20T06:40:19+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "박찬대 시장 \"제물포구 철강은 국가 기간산업…정부 지원 반드시 이끌어... - cstimes.com",
-    "link": "https://www.cstimes.com/news/articleView.html?idxno=724510",
-    "description": "인천시가 건설경기 침체와 글로벌 무역 환경 악화로 한파를 맞은 제물포구 철강산업의 생존을 도모하고 지역경제 타격을 최소화하기 위해 정부 차원의 종합 지원 확보에 사활을 걸었다. 컨슈머타임스=안성렬 기자...",
-    "published_at": "2026-10-20T06:30:00+09:00",
-    "cluster_id": "c694",
-    "publisher": "cstimes.com",
-    "title_clean": "박찬대 시장 \"제물포구 철강은 국가 기간산업…정부 지원 반드시 이끌어...",
-    "summary": "인천시가 건설경기 침체와 글로벌 무역 악화로 어려움을 겪는 제물포구 철강산업 지원을 위해 정부 차원의 종합 지원 확보에 나섰다. 박찬대 시장은 철강산업을 국가 기간산업으로 규정하며 적극적인 정부 지원을 촉구하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-20T06:35:13+09:00",
     "importance": 4
   }
 ]
