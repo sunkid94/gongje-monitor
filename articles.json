@@ -20491,6 +20491,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "서초구, 전문건설업 종사자 직무교육 실시 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610251437420600016",
+    "description": "이번 교육은 건설경기 침체로 어려움을 겪고 있는 건설업 관련자들에게 실무와 제도를 안내해 업체 운영을 지원한다는 취지다. 특히 관련 법령과 제도 미숙지로 인한 행정처분, 하도급 분쟁 등을 방지할 것으로...",
+    "published_at": "2026-10-25T15:02:00+09:00",
+    "cluster_id": "89a7",
+    "publisher": "대한경제",
+    "title_clean": "서초구, 전문건설업 종사자 직무교육 실시",
+    "summary": "서초구가 건설경기 침체로 어려움을 겪는 전문건설업 종사자를 대상으로 직무교육을 실시한다. 법령·제도 숙지를 통해 행정처분과 하도급 분쟁을 예방하고 업체 운영을 지원하는 것을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-25T15:08:31+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "저PBR 공개 앞두고 62개사 개선계획…경영진 보상 연계는 미흡 - fnnews.com",
     "link": "https://www.fnnews.com/news/202610251314072949",
     "description": "동국제강은 중국발 공급과잉, 국내 건설경기 침체, 미국의 50% 관세를 성장 제약 요인으로 제시했다. 에스디바이오센서는 코로나19 이후 관련 매출 축소를, 광주신세계는 지역적 제약에 따른 매출·수익 규모의 한계와...",
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T21:40:14+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "이천시의회, 내년 출연계획·민간위탁 등 34건 심사 - newstown.co.kr",
-    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=718998",
-    "description": "사회복지사 등의 처우 및 지위 향상, 지역건설산업 활성화 및 지역건설노동자 우선고용 관련 개정조례안과 마을버스운송사업 등록 및 지원에 관한 조례안 등을 심사한다. 제6기 지역사회보장계획(2027~2030년) 수립과...",
-    "published_at": "2026-10-19T21:11:00+09:00",
-    "cluster_id": "e4f2",
-    "publisher": "newstown.co.kr",
-    "title_clean": "이천시의회, 내년 출연계획·민간위탁 등 34건 심사",
-    "summary": "이천시의회가 내년 출연계획 및 민간위탁 등 34건을 심사 중이며, 사회복지사 처우 개선, 지역건설산업 활성화 및 건설노동자 우선고용 관련 조례안을 검토하고 있습니다. 지역건설산업 활성화와 건설노동자 우선고용 정책을 추진하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T21:25:11+09:00",
-    "importance": 2
   }
 ]
