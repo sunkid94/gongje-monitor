@@ -20488,6 +20488,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "저PBR 공개 앞두고 62개사 개선계획…경영진 보상 연계는 미흡 - fnnews.com",
+    "link": "https://www.fnnews.com/news/202610251314072949",
+    "description": "동국제강은 중국발 공급과잉, 국내 건설경기 침체, 미국의 50% 관세를 성장 제약 요인으로 제시했다. 에스디바이오센서는 코로나19 이후 관련 매출 축소를, 광주신세계는 지역적 제약에 따른 매출·수익 규모의 한계와...",
+    "published_at": "2026-10-25T14:29:00+09:00",
+    "cluster_id": "0f81",
+    "publisher": "fnnews.com",
+    "title_clean": "저PBR 공개 앞두고 62개사 개선계획…경영진 보상 연계는 미흡",
+    "summary": "저PBR(주가순자산비율) 공개를 앞두고 62개 상장사가 경영개선 계획을 제출했으나, 경영진 보상을 실적과 연계하는 개선안은 부족한 상태다. 동국제강, 에스디바이오센서 등 주요 기업들이 중국 공급과잉, 건설경기 침체, 관세 등 구조적 어려움을 성장 제약 요인으로 지목했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T14:33:20+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T21:25:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "‘산업위기선제대응’ 정부 실사단 제물포구 방문 - kyeongin.com",
-    "link": "https://www.kyeongin.com/article/1772948",
-    "description": "철강 산업의 위기는 ▲건설경기 침체 장기화 ▲미국의 철강관세 부과 ▲중국산 저가 철강의 국내 유입 확대 등의 이유로 시작됐다. 현대제철·동국제강이 경영 위기에 부딪혔다. 현대제철은 올해 1월 인천공장 철근 생산...",
-    "published_at": "2026-10-19T20:50:00+09:00",
-    "cluster_id": "3772",
-    "publisher": "kyeongin.com",
-    "title_clean": "‘산업위기선제대응’ 정부 실사단 제물포구 방문",
-    "summary": "철강 산업이 건설경기 침체, 미국 관세, 중국산 저가 수입 등으로 위기에 직면하면서 현대제철·동국제강 등 주요 업체들이 경영 어려움을 겪고 있다. 정부 실사단이 제물포구를 방문해 산업 위기 상황을 점검하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T21:00:35+09:00",
-    "importance": 4
   }
 ]
