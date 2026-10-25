@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대형 건설사들, 중대재해 영업정지에도 소송 제기 후 수주 지속 - delighti.co.kr",
+    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123809",
+    "description": "서울 용산구 IPARK현대산업개발 사옥 전경. (자료사진=연합뉴스) 대형 건설사들이 공사 현장에서 발생한 중대재해로 영업정지 처분을 받고도 잇따라 취소 소송을 제기해 사실상 정상 영업을 이어가는 것으로 나타났다....",
+    "published_at": "2026-10-25T13:52:00+09:00",
+    "cluster_id": "aa92",
+    "publisher": "delighti.co.kr",
+    "title_clean": "대형 건설사들, 중대재해 영업정지에도 소송 제기 후 수주 지속",
+    "summary": "대형 건설사들이 중대재해로 영업정지 처분을 받았음에도 불구하고 취소 소송을 제기하여 사실상 정상 영업을 계속하고 있다. 이는 안전규제의 실효성 문제와 건설업계의 법적 대응 능력을 드러내는 사례다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T13:58:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-15T14:55:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "미분양 무덤 대구서 2억 비싼 신축...더샵 동인센트리체, '0.08대 1' 참패 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/10/15/2026101502155.html",
-    "description": "이 단지는 포스코이앤씨가 시공하고 ㈜하나자산신탁이 시행을 맡은 단지다. 규모는 아파트 총 314가구이며, 오는 2028년 6월 입주 예정이다. 이번 분양에서는 특별공급 185가구, 일반공급 129가구 등 총 314가구를...",
-    "published_at": "2026-10-15T14:46:00+09:00",
-    "cluster_id": "0653",
-    "publisher": "realty.chosun.com",
-    "title_clean": "미분양 무덤 대구서 2억 비싼 신축...더샵 동인센트리체, '0.08대 1' 참패",
-    "summary": "대구 더샵 동인센트리체 아파트가 0.08대 1의 저조한 청약률로 미분양 사태를 겪었으며, 신축임에도 인근 매물 대비 2억 원 이상 비싼 가격대가 수요 부진의 원인으로 지적되고 있다. 포스코이앤씨 시공, 하나자산신탁 시행의 314가구 규모 단지는 2028년 입주 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-15T14:49:59+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
