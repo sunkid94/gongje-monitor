@@ -4522,6 +4522,22 @@
     "importance": 6
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "K조선, 실적 56% 뛰는데 주가는 반토막…커지는 '피크아웃' 그림자 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRUlTTDNmS0FQdW1pN2tyYXY2cU1IUGFTa3h0bHhBWS16NXFhdjRGM3ZmMDFvSGxxbmY3YUJyaWdHQTZxWHdoSGlsbFp1dTRkVkk3Y0lCZ2pDLVJ4S2lmSUN4ci0?oc=5",
+    "description": "3사 영업익 2.5조, 전년比 56.1%↑ 전망…전분기比 소폭 감소 '환율 여파' 中 설비 확장·LNG선 선가 하락에 주가 급락…FDC 등 신성장동력 확보 속도 국내 조선 3사가 과거 높은 가격에 수주한 선박의 매출 반영 효과로 올해 3분기에도 큰 폭의 실적 개선을 이어갈 전망이다. 3",
+    "published_at": "2026-10-26T06:30:00+09:00",
+    "cluster_id": "d57f",
+    "publisher": "뉴스1",
+    "title_clean": "K조선, 실적 56% 뛰는데 주가는 반토막…커지는 '피크아웃' 그림자",
+    "summary": "국내 조선 3사가 3분기 영업익 2.5조원으로 전년 대비 56.1% 증가할 것으로 전망되나, 환율 변동, 설비 확장, LNG선 선가 하락 등으로 주가가 급락하며 피크아웃 우려가 커지고 있다. 신성장동력 확보 속도가 향후 실적 반등의 관건이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T06:43:57+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20504,22 +20520,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-15T16:40:36+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "치열한 수주 속 존재감 미미한 '드파인'…SK에코플랜트 김영식號 '과제... - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2376835.htm",
-    "description": "대우건설과 롯데건설, 포스코이앤씨, IPARK현대산업개발, DL이앤씨 등도 조 단위 수주고를 쌓았다. 반면 SK에코플랜트는 지난 2022년 8월 하이엔드 주거 브랜드 '드파인(DEFINE)'을 출범시켰지만 올해 수조원 규모의 초대형...",
-    "published_at": "2026-10-15T16:33:00+09:00",
-    "cluster_id": "e755",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "치열한 수주 속 존재감 미미한 '드파인'…SK에코플랜트 김영식號 '과제...",
-    "summary": "대우건설, 롯데건설, 포스코이앤씨 등 주요 건설사들이 조 단위 수주고를 기록하며 호실적을 보이는 반면, SK에코플랜트는 2022년 출범한 하이엔드 주거 브랜드 '드파인'이 올해 초대형 프로젝트 수주에 실패하며 시장에서의 존재감이 약한 상태다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-15T16:40:36+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
