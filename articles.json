@@ -20522,6 +20522,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "‘3단디 수칙’ 캠페인, 일회성 다짐 넘어 상시 감시망 갖춰야 - 한국안전신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wdGRjcjZfMkcwRWp5MVg1Z2pabkFER2JSdUlIWTM2WmZNY21KeHlKT3VoZGZFWFhMN0lMeHY5NzBjOGRVUmp4aEdMQWFNbGREeXRGR291OU5XUzliSjhwZDJFT2ZwUVdq?oc=5",
+    "description": "대구지방고용노동청과 안전보건공단 대구광역본부가 경북 청도군 일원에서 지자체·건설현장 관계자 70여 명과 함께 추락사고 예방 합동 캠페인과 현장점검을 펼쳤다.건설현",
+    "published_at": "2026-10-26T08:40:00+09:00",
+    "cluster_id": "1339",
+    "publisher": "한국안전신문",
+    "title_clean": "‘3단디 수칙’ 캠페인, 일회성 다짐 넘어 상시 감시망 갖춰야",
+    "summary": "대구지방고용노동청과 안전보건공단이 경북 청도군에서 건설현장 추락사고 예방 캠페인과 현장점검을 실시했다. 기사는 일회성 캠페인을 넘어 상시적인 안전 감시체계 구축의 필요성을 강조하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T08:58:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32246,22 +32262,6 @@
     "title_clean": "LH 건설자원 공유로 65억 절감…토사 50만㎥ 재활용",
     "summary": "LH가 건설자원 공유 플랫폼을 통해 지난해 65억원을 절감하고 토사 50만㎥를 재활용했다. 건설 폐기물을 지역사회에 기증하는 등 자원 순환 활성화로 건설업계의 효율성 및 사회적 가치를 동시에 창출했다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-20T09:35:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 건설 현장 간 잉여자원 적극 공유...ESG 경영 실천 - handmk.com",
-    "link": "https://www.handmk.com/news/articleView.html?idxno=44256",
-    "description": "LH는 2025년 11월 킨텍스에서 열린 '2025 스마트건설·안전·AI EXPO' 전시에 사용한 모듈러주택을 플랫폼을 통해 지역 장애인복지관에 전달했다. 전시 후 폐기하는 대신 기증해 자원의 재사용과 지역사회 지원을 함께...",
-    "published_at": "2026-10-20T09:28:00+09:00",
-    "cluster_id": "9629",
-    "publisher": "handmk.com",
-    "title_clean": "LH, 건설 현장 간 잉여자원 적극 공유...ESG 경영 실천",
-    "summary": "LH가 건설 현장 간 잉여자원 공유 플랫폼을 통해 전시용 모듈러주택을 지역 장애인복지관에 기증했다. 폐기물 감축과 지역사회 지원을 동시에 추진하는 ESG 경영 실천 사례다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-20T09:35:39+09:00",
     "importance": 2
   }
