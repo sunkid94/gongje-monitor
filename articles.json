@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "영주노동지청, 건설현장 추락사고 예방 위한 안전 캠페인 - 경북신문",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lMmlYWEE2MGVvY1ZxTkhoZy1LQkdYSTQtb3hlT3d5WGNmZjlwQ3RpdGNOY1lnWURNX2hrZ2wzQ0szWjhpNGNDRXFSbVNBRDR1SFlaWm5KbHo?oc=5",
+    "description": "대구지방고용노동청 영주지청이 가을철 지붕 보수와 태양광 설치공사 현장의 추락사고 예방을 위한 안전 캠페인을 실시했다고 25일 밝혔다. 영주지청은 최근 봉화군의 한 건설현장에서 안전보건공단, 지방자치단체, 재해예방기..",
+    "published_at": "2026-10-25T09:02:17+00:00",
+    "cluster_id": "c026",
+    "publisher": "경북신문",
+    "title_clean": "영주노동지청, 건설현장 추락사고 예방 위한 안전 캠페인",
+    "summary": "영주노동지청이 가을철 지붕 보수 및 태양광 설치공사 현장의 추락사고 예방을 위한 안전 캠페인을 실시했다. 안전보건공단, 지방자치단체 등과 함께 건설현장 안전관리를 강화하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T10:08:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T19:32:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[참사의 재구성에서 내일의 안전으로] ⑥ 서류엔 안전, 현장엔 위험…\"엇박자 예방체계 바뀌어야\" - 남도일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EVWtCb2VGdmZNZ3JYYVg1RjRlTzY5Mk9za1VJVlZacHZLV1VhcXVKNUdmUzI0LXV4WFFVaG5EeWR1ZTc5MkQ4UTB1S2ZoaEVPaHJZRVNHZHRVX1VMYkVEYXRPdTVXMlh6RDA3V9IBcEFVX3lxTE5rM0hqSW5pTzAzblFfZzg4X19nVUFNS0xyTG81ZGxDLUVvbkVXbVFmdHhXNWludW43SVZrNWUzTlE3a3lISVF6NTJLZW53Rldoc1ZwaTNIV05icUZJcHd3ZW9zTkdKSXFsZXl3dXZ0Unk?oc=5",
-    "description": "대형 사고가 발생할 때마다 안전 관련 법과 제도는 강화됐다. 광주 학동 참사 이후 해체공사 관리기준이 보완됐고, 중대재해처벌법 시행으로 사업주의 안전보건관리 책임",
-    "published_at": "2026-10-19T16:34:00+09:00",
-    "cluster_id": "2780",
-    "publisher": "남도일보",
-    "title_clean": "[참사의 재구성에서 내일의 안전으로] ⑥ 서류엔 안전, 현장엔 위험…\"엇박자 예방체계 바뀌어야\"",
-    "summary": "대형 사고 발생 시마다 안전 법제가 강화되고 있으나, 서류상 안전 기준과 현장의 실제 위험 사이에 괴리가 발생하고 있다. 중대재해처벌법 등 규제 강화로 사업주의 책임이 증대되고 있는 상황.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T19:30:21+09:00",
-    "importance": 4
   }
 ]
