@@ -20491,6 +20491,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[특별기고] TK신공항, 실행 가능한 해법을 찾자 - idaegu.com",
+    "link": "https://www.idaegu.com/news/articleView.html?idxno=666488",
+    "description": "이철우 경북도지사는 통합신공항 건설과 관련해 건설경기가 회복되면 대구 K-2 부지 매각으로 충분히 건설할 수 있다는 취지의 견해를 밝혀 왔다. 그렇다면 그 가능성을 실현할 구체적인 개발계획과 재무 분석을 제시해야...",
+    "published_at": "2026-10-25T17:26:00+09:00",
+    "cluster_id": "8275",
+    "publisher": "idaegu.com",
+    "title_clean": "[특별기고] TK신공항, 실행 가능한 해법을 찾자",
+    "summary": "이철우 경북도지사가 TK통합신공항 건설 자금을 대구 K-2 부지 매각으로 충당할 수 있다는 입장을 밝혔으나, 기고문은 이를 실현할 구체적인 개발계획과 재무 분석 제시를 촉구하고 있습니다. 건설사업의 타당성 검토 및 실행 가능성에 대한 의구심을 드러내고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-25T17:28:39+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "3분기 임시·일용직도 줄어…31년 만에 단기 일자리 축소 - donga.com",
     "link": "https://www.donga.com/news/Economy/article/all/20261025/134904085/1",
     "description": "이 씨는 “실업급여가 끊긴 이후에는 당장 생활비를 벌기 위해 일용직으로 일할 수 밖에 없는 상황”이라며 “그마저도 건설경기가 좋지 않아 일거리를 구하기 쉽지 않다”고 말했다. 건설업과 숙박·음식점업 등...",
@@ -32245,22 +32261,6 @@
     "summary": "서울 관악구 신림5구역에서 축대 붕괴 위험이 발생해 서울시의회 의원이 현장 안전 점검을 실시했다. 이는 건설 안전 관리 강화 필요성을 드러내는 사건으로, 유사 시설물에 대한 점검 및 보수 수요 증가로 이어질 수 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-20T00:25:23+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[기자의 시각] ‘낙하산’ 기관장 방탄, 안 부끄럽나 - chosun.com",
-    "link": "https://www.chosun.com/opinion/journalist_view/2026/10/19/KJWYOIK43FCZ7PRU3TCESRZKUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "description": "“건설 노동자를 섬기겠다는 마음을 강조한 것” “전문가들이 있으므로 이사장에게 기금 운용 경험이 반드시 필요한 것은 아니다”라고 했다. 그러면서 “역대 이사장 10명 중 금융 관련 전문가는 1명”이라고도 했다....",
-    "published_at": "2026-10-19T23:39:00+09:00",
-    "cluster_id": "a8e4",
-    "publisher": "chosun.com",
-    "title_clean": "[기자의 시각] ‘낙하산’ 기관장 방탄, 안 부끄럽나",
-    "summary": "기계설비건설공제조합 이사장 임명에 대해 전문성 부족 논란이 제기되는 가운데, 관계자는 '봉사 정신'과 '전문가 체계'를 근거로 방어하고 있다. 역대 이사장 중 금융 전문가가 소수였다는 점을 들며 현 인선의 정당성을 주장하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T23:50:22+09:00",
     "importance": 4
   }
 ]
