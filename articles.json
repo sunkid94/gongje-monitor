@@ -20488,6 +20488,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이천시의회, 돌봄·기업지원 등 민생안건 29건 의결…임시회 마무리 - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=719615",
+    "description": "지역건설산업 활성화 및 지역건설노동자 우선고용 조례 일부개정조례안과 농기계임대사업소 설치 및 운영 조례 일부개정조례안도 의결했다. 본회의에 앞서 상임위원회별 안건 심사가 진행됐다. 자치행정위원회는 20일...",
+    "published_at": "2026-10-25T23:40:00+09:00",
+    "cluster_id": "ee16",
+    "publisher": "newstown.co.kr",
+    "title_clean": "이천시의회, 돌봄·기업지원 등 민생안건 29건 의결…임시회 마무리",
+    "summary": "이천시의회가 지역건설산업 활성화와 건설노동자 우선고용을 위한 조례 개정안을 의결했다. 농기계임대사업소 설치 운영 조례 개정안 등 민생안건 29건을 처리하며 임시회를 마무리했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-25T23:53:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-20T08:35:23+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[마켓+]지방 중소 건설사 폐업 신기록…'미분양·공사비·PF'에 흔들린다 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=118402",
-    "description": "20일 국토교통부 건설산업지식정보시스템에 따르면 올해 10월 14일까지 종합공사업 폐업 신고는 683건으로 집계됐다. 지난해 연간 기록인 675건을 10개월도 안 돼 넘어섰고, 관련 통계가 집계된 2003년 이후 최대치다....",
-    "published_at": "2026-10-20T08:00:00+09:00",
-    "cluster_id": "d7b9",
-    "publisher": "businessplus.kr",
-    "title_clean": "[마켓+]지방 중소 건설사 폐업 신기록…'미분양·공사비·PF'에 흔들린다",
-    "summary": "올해 10월까지 종합공사업 폐업 신고가 683건으로 집계되어 지난해 연간 기록 675건을 넘어섰으며, 2003년 이후 최대치를 기록했다. 지방 중소 건설사들이 미분양, 공사비 상승, PF 악화 등으로 인해 경영난을 겪고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-20T08:10:22+09:00",
-    "importance": 5
   }
 ]
