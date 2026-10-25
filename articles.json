@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "피지컬 AI 로봇 전문 '로보아이', 내년 상반기 코넥스 상장 추진 - etnews.com",
+    "link": "https://www.etnews.com/20261023000030",
+    "description": "현재 현대엔지니어링·롯데건설 등 수요기업과 함께 건설 현장의 대표적 고위험 작업인 용접·도장·내화뿜칠 고소작업을 로봇과 확장현실(XR) 기술로 자동화·원격화하는 국가 R&D 프로젝트를 수행하고 있으며...",
+    "published_at": "2026-10-25T21:01:00+09:00",
+    "cluster_id": "b00d",
+    "publisher": "etnews.com",
+    "title_clean": "피지컬 AI 로봇 전문 '로보아이', 내년 상반기 코넥스 상장 추진",
+    "summary": "피지컬 AI 로봇 전문기업 로보아이가 내년 상반기 코넥스 상장을 추진 중이며, 현대엔지니어링·롯데건설 등과 함께 건설 현장의 고위험 작업(용접·도장·내화뿜칠)을 로봇과 XR 기술로 자동화·원격화하는 국가 R&D 프로젝트를 진행하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-25T21:08:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-15T16:10:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 양천구 어르신 복지 위한 기부금 전달 - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=118247",
-    "description": "HDC그룹의 IPARK현대산업개발은 15일 서울 양천구 양천어르신종합복지관에서 어르신들을 위한 기부금 전달식을 진행했다. (왼쪽부터 두 번째 부터) 한승호 양천어르신종합복지관 관장, 정광재 도시정비수주팀 사업소장....",
-    "published_at": "2026-10-15T16:02:00+09:00",
-    "cluster_id": "0c94",
-    "publisher": "businessplus.kr",
-    "title_clean": "IPARK현대산업개발, 양천구 어르신 복지 위한 기부금 전달",
-    "summary": "HDC그룹의 IPARK현대산업개발이 양천구 어르신종합복지관에 기부금을 전달했다. 건설사의 사회공헌 활동을 보도한 기사다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-15T16:10:35+09:00",
-    "importance": 2
   },
   {
     "keyword": "중대재해 건설",
