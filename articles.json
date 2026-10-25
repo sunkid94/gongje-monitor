@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "신세계건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "오늘의인사-국가데이터처, 외교부, SBS, 신세계 외 - khan.co.kr",
+    "link": "https://www.khan.co.kr/article/202610251148001",
+    "description": "손종원 <신세계건설> ◇상무 승진 △공사본부장 겸 공사1담당 송희동 ◇상무보 승진 △지원담당 전영준 ◇상무보 승진 △PK Retail Holdings Inc. 법인장 겸 Pacific Alliance Ventures Holdings Inc. 법인장 정혁진 ◇상무보 승진...",
+    "published_at": "2026-10-25T11:48:00+09:00",
+    "cluster_id": "cf49",
+    "publisher": "khan.co.kr",
+    "title_clean": "오늘의인사-국가데이터처, 외교부, SBS, 신세계 외",
+    "summary": "국가데이터처, 외교부, SBS, 신세계 등 주요 기관과 기업에서 인사 조치를 단행했다. 손종원 상무 승진, 송희동 공사본부장 겸 공사1담당 상무 승진 등 임원진 승진이 이루어졌다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-25T11:58:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20472,19 +20488,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "IPARK현대산업개발, 양천어르신종합복지관에 기부금 전달 - cstimes.com",
-    "link": "https://www.cstimes.com/news/articleView.html?idxno=724094",
-    "description": "HDC그룹의 IPARK현대산업개발은 15일 서울 양천구 양천어르신종합복지관에서 어르신들을 위한 기부금 전달식을 진행했다 (사진 왼쪽부터 두번째 한승호 양천어르신종합복지관 관장, 세번째 정광재 도시정비수주팀...",
-    "published_at": "2026-10-15T14:22:00+09:00",
-    "cluster_id": "65a2",
-    "publisher": "cstimes.com",
-    "title_clean": "IPARK현대산업개발, 양천어르신종합복지관에 기부금 전달",
-    "summary": "HDC그룹의 IPARK현대산업개발이 양천어르신종합복지관에 기부금을 전달했다. 건설사의 사회공헌 활동 관련 뉴스로 업계 직결 영향은 제한적이다.",
+    "title": "서초구, 전문건설업 종사자 직무교육…실무 역량 높인다 - 산경일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNald4VGJXT2F4LW0tUjNGZlJPYUdjeVFnRFQ2Sko2R3FpektNcUFtQXRoaWZhRUZVTXFNSDQ1NjdvZVdFb1BYLUtJR0pUcktTQ1lwY0FrV2FhVFhvREVhVGktVXMwWUxfYnBhcVlzb0Y?oc=5",
+    "description": "서초구가 오는 29일 오후 2시 서초구청 2층 대강당에서 지역 내 전문건설업체 관계자들을 대상으로 ‘2026년 전문건설업 종사자 직무교육’을 실시한다.이번 교육은 건설경기 침체로 어려운 시기를 겪고 있는 전문건설업체에 건설업 관련 실무와 제도를 안내해 업체 운영에 도움을 주기 위해 마련됐다. 구는 이번 교육을 통해 전문건설업체가 관련 법령과 제도 미숙지로 받을 수 있는 행정처분 등 불이익을 예방하고 하도급 분쟁도 사전에 방지할 수 있을 것으로 기대하고 있다.이날 현장에는 구교환 대한전문건설협회 서울특별시회 수주정책팀 파트장이 강사로",
+    "published_at": "2026-10-25T11:48:10+09:00",
+    "cluster_id": "7a8b",
+    "publisher": "산경일보",
+    "title_clean": "서초구, 전문건설업 종사자 직무교육…실무 역량 높인다",
+    "summary": "서초구가 건설경기 침체로 어려움을 겪는 전문건설업체를 위해 29일 직무교육을 실시한다. 법령·제도 숙지를 통해 행정처분 예방 및 하도급 분쟁 방지를 목표로 한다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-15T14:30:24+09:00",
+    "collected_at": "2026-10-25T11:58:18+09:00",
     "importance": 2
   },
   {
@@ -32245,22 +32261,6 @@
     "summary": "1.3조 규모 대전역세권 개발사업에서 우선협상대상자인 한화건설이 토지대금 납부를 불이행하며 사업 좌초 위기에 처했다. 건설경기 악화, 공사비 급등, PF 조달비용 상승 등이 복합적으로 작용한 것으로 보인다.",
     "sentiment": "negative",
     "collected_at": "2026-10-19T20:15:17+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "2026년 8월 건설수주 8.1% 감소, 공공은 늘고 민간은 부진 - 영남경제",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11WHZGa0hGNFZhMC1JMGcxdm5wUVkzU3g1QUd1bUhJY2ZpVlZ1SFQ0M3ZzS0pvTWFKN05mSjdGaFFUWEtYeHAwTnM5aHpqTzdwNzh0S0NhbjItVWE5SEtxREtjbG53N2s?oc=5",
-    "description": "8월 건설업체가 따낸 공사 금액인 건설수주가 15.7조 원으로 1년 전보다 8.1% 줄었다고 한국건설산업연구원에서 ‘",
-    "published_at": "2026-10-19T09:34:17+09:00",
-    "cluster_id": "bd42",
-    "publisher": "영남경제",
-    "title_clean": "2026년 8월 건설수주 8.1% 감소, 공공은 늘고 민간은 부진",
-    "summary": "8월 건설수주가 15.7조 원으로 전년 대비 8.1% 감소했으나, 공공부문은 증가세를 보인 반면 민간부문의 부진이 전체 수주를 하락시켰다. 건설업계는 민간 프로젝트 부진으로 인한 수주 감소라는 도전에 직면해 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T19:50:34+09:00",
     "importance": 4
   }
 ]
