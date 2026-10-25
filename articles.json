@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "계약때보다 40% '쑥'… 재건축 공사비 쇼크 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12185151",
+    "description": "노량진5구역에서도 대우건설이 기존 549만원보다 62.7% 높은 893만원을 요구했다. 은평구 수색8구역에서는 SK에코플랜트가 508만원에서 829만원으로 63.2% 증액을 요청했다. 공사비 상승에는 자재비와 인건비 인상...",
+    "published_at": "2026-10-25T17:07:00+09:00",
+    "cluster_id": "8a54",
+    "publisher": "mk.co.kr",
+    "title_clean": "계약때보다 40% '쑥'… 재건축 공사비 쇼크",
+    "summary": "재건축 공사비가 계약 당시보다 40~63% 급등하면서 건설사들의 대규모 증액 요청이 잇따르고 있다. 자재비와 인건비 상승이 주요 원인으로 지목되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T17:13:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산퓨얼셀",
     "category": "종합건설사",
     "is_company": false,
@@ -20467,22 +20483,6 @@
     "publisher": "hansbiz.co.kr",
     "title_clean": "\"수주 늘고 실적 반등\" IPARK현대산업개발 성장 전략 통할까",
     "summary": "IPARK현대산업개발이 수주 증가와 실적 개선을 통해 성장 기반을 구축하고 있다. 도시정비사업 수주 확대와 수익성 개선을 양축으로 주택시장 불확실성에 대응하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T15:50:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 1833억9100만원 규모 미성아파트 재건축 신축공사 수주 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmQk1IVEJJakpKM3RNamxtT3NXT254QWRJWlVkNDRHWFdYaFBKMF9wbGQxTjZVNGZocXRaTWJPSTJfaEJuckljS0RyMUg5VmJ3SHd4eUQxN2YzakJmMHBsSTNiSE9wVlUwTnNkcE41emtqODRoaUJjajlvdw?oc=5",
-    "description": "[디지털투데이 김지선 에디터] 종합 건설사 IPARK현대산업개발(294870)이 미성아파트 재건축정비사업 신축공사에 대해 1833억9100만원 규모의 공사수주 계약을 체결했다고 15일 공시했다.계약금액은 최근 매출액 4조1470억원 대비 4.4%에 해당하며, 부가가치세를 제외한 금액으로 기재됐다. 최근 매출액은 2025년말 연결재무제표 기준이며, 회사는 대규모법인에 해당한다고 보고됐다.계약상대는 사업시행자이자 위탁자인 미성아파트 재건축정비사업조합과 사업대행자·수탁자·도급인인 한국토지신탁으로 명시됐다. 공급지역은 서울시 관악구 신림동",
-    "published_at": "2026-10-15T15:32:02+09:00",
-    "cluster_id": "385a",
-    "publisher": "디지털투데이",
-    "title_clean": "IPARK현대산업개발, 1833억9100만원 규모 미성아파트 재건축 신축공사 수주",
-    "summary": "IPARK현대산업개발이 서울시 관악구 신림동 미성아파트 재건축 신축공사를 1833억9100만원 규모로 수주했다. 이는 최근 매출액 대비 4.4%에 해당하는 규모의 수주로 건설업계 수주 증가를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T15:50:09+09:00",
     "importance": 2
