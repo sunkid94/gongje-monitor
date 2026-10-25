@@ -20522,6 +20522,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[2026 노동국감] 증인·참고인 실랑이 '도돌이표' 기후노동위 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237398",
+    "description": "국민의힘, 장건 이사장 이력 집중 공세 장건 이사장은 지난 23일 국회 기후노동위의 고용노동부 산하기관 국정감사에 출석해 \"고용안정과 건설노동자들의 복지를 위해서 제 나름대로 취임 후에 여러 가지 조치를 취하고...",
+    "published_at": "2026-10-26T06:34:00+09:00",
+    "cluster_id": "c441",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "[2026 노동국감] 증인·참고인 실랑이 '도돌이표' 기후노동위",
+    "summary": "2026 국회 기후노동위 국정감사에서 장건 이사장이 출석하여 고용안정과 건설노동자 복지 조치에 대해 답변했으나, 국민의힘에서 이사장의 이력을 집중 공세하며 증인·참고인 실랑이가 발생했다. 건설업계의 노동·복지 정책 관련 국정감사 논쟁으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T06:38:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32248,21 +32264,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-20T09:30:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'안전시설 미설치' 공사장서 추락사…건설업체 대표 집유 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LNlB3cXFhWmtVNW1rVVZfY1kxX1hwZDhHcXBQay1HY09NWTA0SFNkT1lZMGl0cTlBYTZCQlBCc3BlOUlxdzZBMjFsOW1TcnQ2RDBLemUtM0dlMHlCd2FxadIBeEFVX3lxTE1fU1VnOVZ0OFF5M2JxUEVCbEZKOHEwTzhOVTNUZVVrRUR5bEk1VVl0bk4tWUtHQW1OdWxJeE5CUXI2NF9zWUt4aTRZenhXdjdRTWVzSUFUa3VydklWcFBsc3otMWM1ZTM1Z2ZvcTltX0tTZXV3U2RGaA?oc=5",
-    "description": "[부산=뉴시스]김민지 기자 = 부산의 한 건물 신축 공사장에서 배관설치 작업자가 추락사한 사고 관련해 안전시설을 설치하지 않은 혐의로 재판에 넘겨진 건설업체 대표가 징역형의 집행유예를 선고받았다.20일 법조계에 따르면 부산지법 서부지원 형사5단독 이환기 판사는 중대재해처벌등에관한법률(산업재해치사) 위반 등 혐의로 기소된 건설업체 대표 A씨에게 징역 8개월에..",
-    "published_at": "2026-10-20T09:02:26+09:00",
-    "cluster_id": "aa06",
-    "publisher": "뉴시스",
-    "title_clean": "'안전시설 미설치' 공사장서 추락사…건설업체 대표 집유",
-    "summary": "부산의 건설 공사장에서 안전시설 미설치로 인한 배관설치 작업자 추락사 사건으로 건설업체 대표가 중대재해처벌법 위반으로 징역 8개월 집행유예를 선고받았다. 이는 건설업계의 안전 관리 미흡으로 인한 중대 인명사고에 대한 엄격한 법적 책임을 보여주는 사례이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-20T09:30:51+09:00",
-    "importance": 4
   }
 ]
