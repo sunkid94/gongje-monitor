@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "\"AI로 가짜 신원 만들어 취업\"…北 IT 노동자, 韓 기업 위장취업 정황 - joongangenews.com",
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=557982",
+    "description": "러시아에서는 북한 정찰정보총국(옛 정찰총국) 연계 사이버 조직이 블라디보스토크를 거점으로 활동하는 것으로 조사됐고, 유엔 제재 대상인 제2자연과학원과 연계된 북한 기업이 IT 노동자를 건설 노동자로 위장해...",
+    "published_at": "2026-10-25T12:32:00+09:00",
+    "cluster_id": "667c",
+    "publisher": "joongangenews.com",
+    "title_clean": "\"AI로 가짜 신원 만들어 취업\"…北 IT 노동자, 韓 기업 위장취업 정황",
+    "summary": "북한 IT 노동자들이 AI를 이용한 가짜 신원으로 한국 기업에 위장취업하는 정황이 적발됐다. 북한 정찰정보총국 연계 조직이 IT 인력을 건설 노동자로 위장해 국내 기업에 침투하려던 것으로 조사됐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T12:38:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T20:30:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "국토부, 경상권 민간 건설현장 75곳 단속 - gnnews.co.kr",
-    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=647747",
-    "description": "당시 불법하도급 29건과 건설산업기본법 위반사항 60건을 적발했으며, 건설기계 대여대금 체불 11건에 대해서는 1억2580만원의 체불액을 해소했다. 이번에는 수도권 점검 성과를 바탕으로 경상권에 단속역량을 집중해...",
-    "published_at": "2026-10-19T20:10:00+09:00",
-    "cluster_id": "93d8",
-    "publisher": "gnnews.co.kr",
-    "title_clean": "국토부, 경상권 민간 건설현장 75곳 단속",
-    "summary": "국토부가 경상권 건설현장 75곳에 대한 단속을 실시해 불법하도급 29건, 건설산업기본법 위반 60건을 적발했다. 건설기계 대여대금 체불 11건(1억2580만원)을 해소하며 수도권에 이어 지역 단속을 확대하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T20:15:17+09:00",
-    "importance": 4
   }
 ]
