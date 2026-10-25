@@ -20488,6 +20488,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "윤대석 대한샷다금속 대표, 소상공인대회 대통령표창 - ulsanpress.net",
+    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=585337",
+    "description": "윤 대표는 1997년 외환위기 당시 거래처 부도와 건설경기 침체 등 경영 위기를 겪으면서도 사업을 이어왔으며 협력업체와의 신뢰를 중시하는 경영을 실천해 왔다.   uskkm@",
+    "published_at": "2026-10-25T21:42:00+09:00",
+    "cluster_id": "034c",
+    "publisher": "ulsanpress.net",
+    "title_clean": "윤대석 대한샷다금속 대표, 소상공인대회 대통령표창",
+    "summary": "윤대석 대한샷다금속 대표가 소상공인대회에서 대통령표창을 수상했다. 1997년 외환위기 이후 거래처 부도와 건설경기 침체 속에서도 사업을 지속하며 협력업체와의 신뢰 경영을 실천해온 성과를 인정받았다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-25T21:48:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-20T07:15:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설사 폐업 17년 만에 최다 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261016_0003828580",
-    "description": "20일 국토교통부 건설산업지식정보시스템에 따르면 올 1~9월 폐업 신고(변경·정정·철회 포함)한 건설사는 3274곳으로 집계됐다. 이는 전년 동기간(2569곳) 대비 27.4% 증가한 것으로, 2009년 같은 기간의 3340곳 이후 17년...",
-    "published_at": "2026-10-20T07:00:00+09:00",
-    "cluster_id": "228f",
-    "publisher": "newsis.com",
-    "title_clean": "건설사 폐업 17년 만에 최다",
-    "summary": "올 1~9월 건설사 폐업이 3274곳으로 전년 동기 대비 27.4% 증가했으며, 17년 만에 최다 기록을 세웠다. 2009년 같은 기간 이후 가장 높은 수치로, 건설업계의 구조적 어려움을 보여주고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-20T07:10:26+09:00",
-    "importance": 5
   }
 ]
