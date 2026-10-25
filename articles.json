@@ -20488,6 +20488,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "정부는 ‘닥공’ 서두르는데…문 닫은 건설사 역대 최고 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25472666",
+    "description": "이는 25일 국토교통부 건설산업지식정보시스템을 통해 집계한 수치다. 서울에서 연립주택을 주로 공급하는 중소 건설사 최모 대표는 “인건비·자재비·안전관리비 등 다 오르는데, 정부 발주 공사비는 그대로여서...",
+    "published_at": "2026-10-26T00:02:00+09:00",
+    "cluster_id": "012e",
+    "publisher": "joongang.co.kr",
+    "title_clean": "정부는 ‘닥공’ 서두르는데…문 닫은 건설사 역대 최고",
+    "summary": "정부의 '닥공' 추진에도 불구하고 건설사 폐업이 역대 최고 수준을 기록했다. 인건비·자재비·안전관리비 등 원가는 상승하는데 정부 발주 공사비는 동결되면서 건설업계의 채산성이 악화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T00:08:47+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-20T08:40:08+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[지역 이슈] 대구시, 3년8개월 만에 주택 공급 규제 푼다…인허가 단축... - startuptoday.co.kr",
-    "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=816392",
-    "description": "인허가 절차를 간소화하고 재건축·재개발 사업의 추진 여건을 개선하는 한편 지역 건설업체의 참여 기회를 확대해 침체한 지역 건설경기 회복을 유도한다는 계획이다. 추경호 대구시장은 지난 1일...",
-    "published_at": "2026-10-20T08:30:00+09:00",
-    "cluster_id": "72f9",
-    "publisher": "startuptoday.co.kr",
-    "title_clean": "[지역 이슈] 대구시, 3년8개월 만에 주택 공급 규제 푼다…인허가 단축...",
-    "summary": "대구시가 3년 8개월 만에 주택 공급 규제를 완화하고 인허가 절차를 간소화한다. 재건축·재개발 사업 추진 여건 개선과 지역 건설업체의 참여 기회 확대를 통해 침체한 건설경기 회복을 유도할 방침이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T08:35:23+09:00",
-    "importance": 2
   }
 ]
