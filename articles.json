@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "신세계건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[인사] 국무조정실·국무총리비서실 외 - viva100.com",
+    "link": "https://www.viva100.com/article/20261025500536",
+    "description": "손종원 ◇신세계건설 <상무 승진> △공사본부장 겸 공사1담당 송희동 <상무보 승진> △지원담당 전영준 ◇PKRH / PAV <상무보 승진> △PK Retail Holdings Inc. 법인장 겸 Pacific Alliance Ventures Holdings Inc. 법인장 정혁진...",
+    "published_at": "2026-10-25T16:00:00+09:00",
+    "cluster_id": "48de",
+    "publisher": "viva100.com",
+    "title_clean": "[인사] 국무조정실·국무총리비서실 외",
+    "summary": "국무조정실·국무총리비서실 등 정부 기관과 신세계건설, PKRH 등 민간 기업의 인사 변동을 보도한 기사입니다. 건설업계와 직접적인 연관성이 제한적입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-25T16:08:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20469,22 +20485,6 @@
     "summary": "대우건설이 자체 개발한 저탄소 콘크리트 '데코콘'으로 국내 건설사 최초로 대한상공회의소 탄소감축인증의 방법론과 사업계획서 심의를 통과했다. 탄소크레딧 획득이 임박한 상황으로, 건설업계의 ESG 경영 확대와 저탄소 기술 개발 필요성이 강조되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T15:29:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "거제 조선업 노동자 4만3000명…옥포동 배후 주거 수요 커진다 - sentv.co.kr",
-    "link": "https://www.sentv.co.kr/article/view/sentv202610150170",
-    "description": "올해 6월 기준 한화오션의 수주잔고는 337억7000만달러, 삼성중공업은 355억달러다. 수주 물량은 설계와 자재 조달, 건조, 인도를 거쳐 매출로 이어진다. 확보한 일감이 수년간 생산과 고용을 뒷받침하는 구조다....",
-    "published_at": "2026-10-15T15:08:00+09:00",
-    "cluster_id": "83f4",
-    "publisher": "sentv.co.kr",
-    "title_clean": "거제 조선업 노동자 4만3000명…옥포동 배후 주거 수요 커진다",
-    "summary": "거제 조선업계 노동자 4만3000명을 바탕으로 한화오션과 삼samsung중공업의 수주잔고가 각각 337억7000만 달러, 355억 달러에 달해 수년간 안정적인 고용과 생산을 뒷받침할 것으로 예상된다. 이는 옥포동 배후 주거 수요 증가로 이어질 것으로 전망된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T15:15:38+09:00",
     "importance": 2
   },
   {
