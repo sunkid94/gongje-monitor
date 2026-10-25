@@ -20488,6 +20488,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "임시-일용직마저 줄었다… 3분기 단기 일자리 31년만에 최소 - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20261026/134905919/2",
+    "description": "이 씨는 “실업급여가 끊긴 이후에는 당장 생활비를 벌기 위해 일용직으로 일할 수밖에 없는 상황”이라며 “그마저도 건설경기가 좋지 않아 일거리를 구하기 쉽지 않다”고 말했다. 건설업과 숙박·음식점업 등...",
+    "published_at": "2026-10-26T04:35:00+09:00",
+    "cluster_id": "3792",
+    "publisher": "donga.com",
+    "title_clean": "임시-일용직마저 줄었다… 3분기 단기 일자리 31년만에 최소",
+    "summary": "3분기 단기 일자리(임시·일용직)가 31년만에 최저수준으로 감소했다. 건설경기 부진으로 일용직 일거리 구하기가 어려워지면서 저소득층의 생계 위기가 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T04:43:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32244,22 +32260,6 @@
     "title_clean": "한국토지주택공사(LH), 자원공유플랫폼 활용… 전국 건설현장 잉여자원...",
     "summary": "LH가 자원공유플랫폼을 통해 건설현장 잉여자원의 선순환 체계를 구축하고 있으며, 모듈러주택 등 미활용 자원을 사회복지기관으로 기증하는 사례를 추진 중이다. 건설현장의 자원낭비를 줄이고 사회공헌을 동시에 이루려는 취지의 정책이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-20T09:10:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, '건설자원 공유플랫폼'으로 65억 절감…현장 잉여자원 재활용 확산 - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=284599",
-    "description": "이상조 LH 스마트건설안전본부장은 \"건설현장에서 발생한 잉여자원이 필요한 곳에서 다시 활용될 수 있도록 함으로써 비용 절감과 자원 활용 효율화를 넘어 ESG 경영 실천에도 기여하고자 한다\"며 \"앞으로도 우수한...",
-    "published_at": "2026-10-20T09:02:00+09:00",
-    "cluster_id": "de53",
-    "publisher": "paxetv.com",
-    "title_clean": "LH, '건설자원 공유플랫폼'으로 65억 절감…현장 잉여자원 재활용 확산",
-    "summary": "LH가 건설자원 공유플랫폼을 통해 현장 잉여자원을 재활용함으로써 65억 원의 비용절감을 달성했다. 이는 자원 효율화와 ESG 경영 실천을 동시에 추구하는 사례로, 건설업계의 지속가능한 경영 모델 확산을 시사한다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-20T09:10:43+09:00",
     "importance": 2
   }
