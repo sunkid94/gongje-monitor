@@ -4488,6 +4488,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[현장] 분당 양지마을 재건축 첫 총회 '북적'…사업 추진 본격화 - hansbiz.co.kr",
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875928",
+    "description": "대우건설과 GS건설도 축하 화환을 보내며 관심을 나타냈다. 아직 시공사 선정 절차가 본격화되기 전이지만, 향후 시공권을 둘러싼 건설사들의 경쟁이 예상된다. 사업시행자인 대신자산신탁은 사업 추진 속도와 투명성을...",
+    "published_at": "2026-10-25T10:44:00+09:00",
+    "cluster_id": "5d70",
+    "publisher": "hansbiz.co.kr",
+    "title_clean": "[현장] 분당 양지마을 재건축 첫 총회 '북적'…사업 추진 본격화",
+    "summary": "분당 양지마을 재건축 첫 총회가 개최되어 사업 추진이 본격화되고 있다. 대우건설, GS건설 등 주요 건설사들이 관심을 보이며 시공권 경쟁이 예상되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-25T10:48:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20470,22 +20486,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-15T14:25:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 5.68% 하락…수주보다 원가율과 현금흐름 - 잡포스트",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJems2QU1SdmtCSDJNMDc0MnlRNnZSRVlsdEtQTS1HV2tkTm1pVmFaREhrLXpiaW04UTNETVh3TFFjcU9pZ0hjOTBfcGktRXdrbWVwMXZPUTZqaWNiV2QyaEtsSTNWN3dpYWhRb1dn0gFyQVVfeXFMTWdMTGt5TDBJSk9KQjBpSlRMX0RITlVjZmFBWVJMejFncEk5MFEzb0FsclluN0JiMWNpM2p4QlpGdzFibEc3OHhRTlBQWUpCbUlrZ28tRFdNQ1ZycUl1SHdaeTBtNU42R3FPQmpuallTU3Jn?oc=5",
-    "description": "[잡포스트] 전진홍 기자 = 대우건설은 15일 오후 1시58분 기준 유가증권시장에서 1만4950원에 거래 중이다. 전일보다 900원 내린 가격이다.거래량은 약 2",
-    "published_at": "2026-10-15T14:10:47+09:00",
-    "cluster_id": "aba1",
-    "publisher": "잡포스트",
-    "title_clean": "대우건설 5.68% 하락…수주보다 원가율과 현금흐름",
-    "summary": "대우건설 주가가 5.68% 하락하며 900원 내려 1만4950원에 거래 중이다. 시장은 수주 실적보다 원가율 악화와 현금흐름 악화에 주목하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-15T14:25:39+09:00",
-    "importance": 4
   },
   {
     "keyword": "모듈러 건설",
