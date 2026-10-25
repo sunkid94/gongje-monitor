@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "공사비 급등에 미분양 부담까지…'벼랑 끝' 중견·중소 건설사 - inews24.com",
+    "link": "http://www.inews24.com/view/2018532",
+    "description": "공사비 급등과 장기화된 건설경기 침체가 맞물리면서 대형사에 비해 자금 조달 여력이 취약한 중견·중소 건설사들의 경영난이 한계 수위로 치닫고 있다. 공사비 상승은 일선 시공 현장의 수익성을 가장 먼저...",
+    "published_at": "2026-10-25T11:01:00+09:00",
+    "cluster_id": "7b66",
+    "publisher": "inews24.com",
+    "title_clean": "공사비 급등에 미분양 부담까지…'벼랑 끝' 중견·중소 건설사",
+    "summary": "공사비 급등과 건설경기 침체가 겹치면서 중견·중소 건설사들의 경영난이 심화되고 있다. 자금 조달 여력이 취약한 중소사들이 미분양 부담과 수익성 악화로 경영 위기에 처해 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T11:08:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-19T19:40:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중부지방고용노동청장, 건설현장 찾아 ‘3+1 기초안전수칙’ 집중점검 - 경인신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EaWxVS0g2bDUyVm05RW10VXlxNk14RTdPVFN0bF9FY3VCaU8tZHpTRTB6UXhJNlpsLS13N1FGTFNuYkxFZGRBQU9oMnY5VElKd2QtaENEdk5hMEh1NE1Wc2xUTi1obUk?oc=5",
-    "description": "[경인신문 이광일 기자] 중부지방고용노동청은 10월 20일 인천 연수구 소재 ‘송도역세권구역 도시개발사업 3블록 공동주택 신축공사’ 현장을 방문하여 ‘3+1 기초안전수칙’ 준수 여부를 집중 점검했다.이번 점검은 고용노동부가 운영하는",
-    "published_at": "2026-10-19T18:22:17+09:00",
-    "cluster_id": "e8b7",
-    "publisher": "경인신문",
-    "title_clean": "중부지방고용노동청장, 건설현장 찾아 ‘3+1 기초안전수칙’ 집중점검",
-    "summary": "중부지방고용노동청이 인천 송도역세권 도시개발사업 현장을 방문하여 건설현장 안전수칙 준수 여부를 집중점검했다. 고용노동부가 추진하는 '3+1 기초안전수칙' 이행 상황을 확인하는 행정감시 활동이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-19T19:40:25+09:00",
-    "importance": 4
   }
 ]
