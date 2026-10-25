@@ -20488,6 +20488,22 @@
     "importance": 2
   },
   {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "중대재해 행정처분 무용지물…대형 건설사, ‘소송전’ 벌이며 조 단위 수주 이어가 - 비즈중앙",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHY0RBbWlIVlVTT2pCVXFPbTFWVGRtWlc0c1hXOWNpeExucUJ5emRzcE9MNFhscFZxbEpyTzdLV3NCVWpQZjhibzhVVFJUX3NEQ1NsMlVPSEVKMVgxRVpEajVUWndOd0V0OTl1dlUxbTY?oc=5",
+    "description": "[비즈중앙]대형 건설사들이 공사 현장에서 발생한 대형 인명사고로 영업정지 등 행정처분을 받고도 집행정지 가처분 및 취소 소송을 통해 제재를 회피하며 사업을 지속하",
+    "published_at": "2026-10-25T14:31:19+09:00",
+    "cluster_id": "9a73",
+    "publisher": "비즈중앙",
+    "title_clean": "중대재해 행정처분 무용지물…대형 건설사, ‘소송전’ 벌이며 조 단위 수주 이어가",
+    "summary": "대형 건설사들이 중대재해로 인한 영업정지 등 행정처분을 소송과 가처분을 통해 회피하며 사업을 계속 진행하고 있다. 행정처분의 실효성이 떨어지고 있는 문제를 지적하는 기사이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T20:38:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-20T07:10:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“노동자 끼임사, 타워크레인 공기단축 압박 그만” - 매일노동뉴스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GeW0yaTM3WFR0Vkt0RXlmMjN0SkItb3ZkUkRRdTdBTnU0VEdhUjlfRlB4cjg0MW1GQ2dad3FEY1hvb05SZHhqVjJvTEI1WmZXZWVuN1RQOGJvTXpQWHdUVXVTa2ktX195bGU2TkxHS1k?oc=5",
-    "description": "타워크레인 노동자가 청와대 앞에서 무기한 단식을 시작했다. 타워크레인 범국민대책위원회는 19일 오전 서울 종로구 청와대 앞에서 타워크레인 설치와 해체 안전작업일수 보장을 촉구하면서 무기한 단식농성에 돌입한다고 밝혔다. 최동주 건설노조 타워크레인분과위원장 등 3명이 단식한다. 범국민대책위는 지난 12일부터 같은 자리에서 노숙농성을 하고 있다.",
-    "published_at": "2026-10-20T06:30:03+09:00",
-    "cluster_id": "5bd7",
-    "publisher": "매일노동뉴스",
-    "title_clean": "“노동자 끼임사, 타워크레인 공기단축 압박 그만”",
-    "summary": "타워크레인 노동자가 안전작업일수 보장을 요구하며 청와대 앞에서 무기한 단식에 돌입했다. 범국민대책위는 타워크레인 설치·해체 시 공기단축 압박 중단을 촉구하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-20T06:40:19+09:00",
-    "importance": 4
   }
 ]
