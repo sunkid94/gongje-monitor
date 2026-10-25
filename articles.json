@@ -20488,6 +20488,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "도내 건설 노동자, '내국인 4.6%↓ 외국인 17.4↑' - jtv.co.kr",
+    "link": "https://jtv.co.kr/news/article.php?id=71768",
+    "description": "건설 근로자 공제회에 따르면 지난 6월 기준 전북지역 내국인 건설노동자는 1만 7천여 명으로 1년 전보다 4.6% 줄어든 반면, 외국인 노동자는 1천200여 명으로 17.4% 증가했습니다. 하지만 외국인 노동자 3명 중 1명은...",
+    "published_at": "2026-10-25T21:30:00+09:00",
+    "cluster_id": "ed02",
+    "publisher": "jtv.co.kr",
+    "title_clean": "도내 건설 노동자, '내국인 4.6%↓ 외국인 17.4↑'",
+    "summary": "전북지역 건설노동자 구성에 변화가 나타났다. 내국인 노동자는 전년 대비 4.6% 감소한 1만 7천여 명인 반면, 외국인 노동자는 17.4% 증가한 1천 200여 명을 기록했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T21:39:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "중대재해 건설",
     "category": "안전·노동",
     "is_company": false,
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-20T07:10:26+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[오너 리더십] 구형모의 LX, LG 독립 5년차…인터내셔널·세미콘·하우시... - financialpost.co.kr",
-    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281207",
-    "description": "건설경기 침체 속에서도 LX하우시스는 지난 2분기 깜짝 실적을 발표했다. LX하우시스는 2분기 연결 기준 매출은 9397억원, 영업이익은 549억원을 기록했다. 전년 동기 대비 각각 14.7%, 329.0% 늘었다. LX하우시스는 국내...",
-    "published_at": "2026-10-20T07:00:00+09:00",
-    "cluster_id": "2697",
-    "publisher": "financialpost.co.kr",
-    "title_clean": "[오너 리더십] 구형모의 LX, LG 독립 5년차…인터내셔널·세미콘·하우시...",
-    "summary": "LX하우시스가 건설경기 침체 속에서도 2분기 매출 9397억원, 영업이익 549억원으로 전년 동기 대비 각각 14.7%, 329.0% 증가하며 깜짝 실적을 기록했다. LG 독립 5년차 회사의 호실적은 건설업계에 긍정적 신호를 제시한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T07:10:26+09:00",
-    "importance": 2
   }
 ]
