@@ -20491,6 +20491,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "트럼프 \"이란 공격 재개 여부 결정할 때 다가와…오늘은 공격 안 해\"(상... - news.einfomax.co.kr",
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440998",
+    "description": "트럼프 대통령은 또 폭스뉴스와 인터뷰에서 조지아주(州)에 아우디 공장이 세워진다면서 경제 관련해서 발표할 사안이 \"훨씬 더 많이 있다\"고 말했다. 이어 \"우리에게 가장 필요한 것은 건설 노동자들\"이라고 덧붙였다.",
+    "published_at": "2026-10-26T03:32:00+09:00",
+    "cluster_id": "66db",
+    "publisher": "news.einfomax.co.kr",
+    "title_clean": "트럼프 \"이란 공격 재개 여부 결정할 때 다가와…오늘은 공격 안 해\"(상...",
+    "summary": "트럼프 대통령이 조지아주에 아우디 공장 건설을 언급하며 경제 발표 계획을 시사했다. 건설 노동자 수급이 중요하다는 의견을 제시했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-26T03:38:59+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "트럼프 \"이란과 합의냐 공격 재개냐…결정할 때 다가와\" - news.einfomax.co.kr",
     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440996",
     "description": "트럼프 대통령은 또 조지아주(州)에 아우디 공장이 세워진다면서 경제 관련해서 발표할 사안이 \"훨씬 더 많이 있다\"고 말했다. 이어 \"우리에게 가장 필요한 것은 건설 노동자들\"이라고 덧붙였다.",
@@ -32245,22 +32261,6 @@
     "summary": "LH가 건설자원 공유플랫폼을 통해 현장 잉여자원을 재활용함으로써 65억 원의 비용절감을 달성했다. 이는 자원 효율화와 ESG 경영 실천을 동시에 추구하는 사례로, 건설업계의 지속가능한 경영 모델 확산을 시사한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-20T09:10:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 건설자원 공유로 비용 65억 원 절감 - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113326",
-    "description": "LH는 지난해 스마트건설·안전·인공지능 전시회에서 활용한 모듈러주택을 플랫폼을 통해 지역 장애인복지관에 전달했습니다. 이상조 LH 스마트건설안전본부장은 \"건설 현장의 잉여자원을 필요한 곳에서 다시 활용해...",
-    "published_at": "2026-10-20T08:52:00+09:00",
-    "cluster_id": "a3da",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "LH, 건설자원 공유로 비용 65억 원 절감",
-    "summary": "LH가 건설 현장의 잉여자원을 공유 플랫폼을 통해 재활용하여 65억 원의 비용을 절감했습니다. 전시회용 모듈러주택을 지역 장애인복지관에 전달하는 등 자원의 효율적 활용을 추진하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T09:00:20+09:00",
     "importance": 2
   }
 ]
