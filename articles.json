@@ -20491,6 +20491,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "PBR 평균 0.3배…저평가 탈출 나선 상장사 62곳, 핵심 개선책은 미흡 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2639724",
+    "description": "동국제강은 중국발 공급과잉과 국내 건설경기 침체, 미국의 50% 관세를 주요 악재로 제시했다. 구체적인 목표와 실행 방안을 제시한 기업도 있었다. 동국홀딩스는 올해 0.17배인 PBR을 2028년 0.3배 이상으로...",
+    "published_at": "2026-10-25T13:40:00+09:00",
+    "cluster_id": "df35",
+    "publisher": "etoday.co.kr",
+    "title_clean": "PBR 평균 0.3배…저평가 탈출 나선 상장사 62곳, 핵심 개선책은 미흡",
+    "summary": "PBR 0.3배 이하의 저평가 상태에 있는 상장사 62곳이 기업가치 개선에 나서고 있다. 동국제강 등은 중국 공급과잉, 국내 건설경기 침체, 미국 관세 등을 악재로 지적하며, 동국홀딩스는 2028년까지 PBR을 0.17배에서 0.3배 이상으로 높이겠다는 목표를 제시했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-25T13:43:22+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "전북건설단체연합회-전북경찰청, 보이스피싱 예방 소통 간담회 - jeollailbo.com",
     "link": "http://www.jeollailbo.com/news/articleView.html?idxno=814664",
     "description": "소재철 회장은 \"건설경기 침체로 업계의 어려움이 지속되는 상황에서 범죄 피해 우려도 커지고 있다\"며 \"이번 간담회가 피싱 범죄에 대한 경각심을 높이고 금융사기 예방을 위한 민·관 협력 체계를 더욱 강화하는 계기가...",
@@ -32246,21 +32262,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-19T21:00:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "'2026 한국건설·안전박람회' 아이티원, 스마트 안전 플랫폼 브랜드 '코... - digitalchosun.dizzo.com",
-    "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/19/2026101980021.html",
-    "description": "아이티원은 이번 박람회에서 선보인 코닛 플랫폼 기술력을 발판 삼아, 오는 11월 스마트건설 EXPO에서 '코보(COBO)' 브랜드의 무인지상차량(UGV)과 4족 보행 로봇 라인업을 공개할 예정이다. 고위험 구역에 무인 로봇을...",
-    "published_at": "2026-10-19T20:28:00+09:00",
-    "cluster_id": "47a5",
-    "publisher": "digitalchosun.dizzo.com",
-    "title_clean": "'2026 한국건설·안전박람회' 아이티원, 스마트 안전 플랫폼 브랜드 '코...",
-    "summary": "아이티원이 2026 한국건설·안전박람회에서 스마트 안전 플랫폼 '코닛'을 선보이고, 11월 스마트건설 EXPO에서 무인지상차량(UGV)과 4족 보행 로봇 등 '코보' 브랜드 제품을 공개할 예정이다. 건설 현장의 고위험 구역 작업에 무인 로봇 기술을 적용하려는 시도로, 건설업 안전 및 자동화 기술 발전을 보여주는 사례이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-19T20:40:30+09:00",
-    "importance": 2
   }
 ]
