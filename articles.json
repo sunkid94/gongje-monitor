@@ -20658,6 +20658,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안성시, 건설폐기물 배출사업장 대상 환경·안전교육 실시 - 경인경제",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYemlqdUsydVJjYzJabVFEMWRnbGZuR2NnR3pqYUxoSGl5anJBeUVoOWVic3Y1YXlyUTJ5M0c4YmFicGJla1NraVJOMXlKMkFiRkY5MmhKeUtGQ2JUaG55OWpwSERmN0xP?oc=5",
+    "description": "안성시는 지난 23일 안성맞춤아트홀에서 관내 건설폐기물 배출사업장 관계자 50명을 대상으로 폐기물의 적정 관리와 위법행위 예방을 위한 환경·안전교육을 실시했다.이번 교육은 건설폐기물 배출사업장의 법령 준수를 유도하고 현장 관리 역량을 높이기 위한 것으로, 안성시 자원순환과와 한국환경공단 관계자 등이 참석한 가운데 진행됐다.교육은 실제 사업장에서 발생할 수 있는 사례를 중심으로 ▲올바로시스템 사용 방법 ▲건설폐기물 분리배출 및 보관 기준 ▲건설현장 주요 위반사례 등을 다뤘으며, 실무에 활용할 수 있도록 관련 내용을 담은 안내 책자도",
+    "published_at": "2026-10-26T12:14:39+09:00",
+    "cluster_id": "5c8c",
+    "publisher": "경인경제",
+    "title_clean": "안성시, 건설폐기물 배출사업장 대상 환경·안전교육 실시",
+    "summary": "안성시가 관내 건설폐기물 배출사업장 50곳을 대상으로 환경·안전교육을 실시했다. 올바로시스템 사용법, 분리배출 기준, 위반사례 등을 교육하여 법령 준수와 현장 관리 역량 강화를 추진했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T12:29:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32255,22 +32271,6 @@
     "summary": "LH가 건설현장의 잉여자재를 공유하는 시스템을 도입해 약 65억 원의 비용을 절감했다. 이를 통해 건설업계에서도 공유경제를 활성화하여 자원 효율화와 원가 절감을 동시에 달성하는 모범사례를 제시했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-20T11:41:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 건설현장 잉여자원 공유 활성화…65억원 비용 절감 - cnbnews.com",
-    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1020055",
-    "description": "첫 번째 기증 사례는 LH가 '2025 스마트건설·안전·AI EXPO'에서 전시에 활용했던 모듈러주택으로, 플랫폼을 통해 지역 장애인복지관에 전달됐다. 폐기하는 대신 기증해 자원순환을 실천하고 지역사회에도 기여했다....",
-    "published_at": "2026-10-20T11:24:00+09:00",
-    "cluster_id": "0f96",
-    "publisher": "cnbnews.com",
-    "title_clean": "LH, 건설현장 잉여자원 공유 활성화…65억원 비용 절감",
-    "summary": "LH가 건설현장 잉여자원 공유 플랫폼을 통해 자원순환을 활성화하고 65억원의 비용을 절감했다. 모듈러주택 등 폐기 자원을 지역사회에 기증하는 사례를 주도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T11:31:23+09:00",
     "importance": 2
   }
 ]
