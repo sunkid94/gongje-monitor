@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, '실손24' 연계 서비스 개시… 공제금 청구 간소화 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=342891",
+    "description": "건설공제조합 전경. 건설공제조합(이사장 이석용)이 실손의료비 공제금 청구 절차를 전산화해 조합원사 임직원의 이용 편의성을 높인다. 건설공제조합은 오늘(26일)부터 실손보험 청구 전산화 시스템인 '실손24'와 연계한...",
+    "published_at": "2026-10-26T10:30:00+09:00",
+    "cluster_id": "ef86",
+    "publisher": "국토일보",
+    "title_clean": "건설공제조합, '실손24' 연계 서비스 개시… 공제금 청구 간소화",
+    "summary": "건설공제조합이 실손의료비 공제금 청구 절차를 전산화하는 '실손24' 연계 서비스를 시작했다. 조합원사 임직원의 청구 편의성을 높이기 위한 서비스 개선 조치다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-26T10:34:05+09:00",
+    "event_label": "건설공제조합 실손24 연계 서비스 개시",
+    "importance": 6
+  },
+  {
     "keyword": "기계설비협회",
     "category": "조합·협회",
     "is_company": true,
@@ -32245,22 +32262,6 @@
     "publisher": "businessplus.kr",
     "title_clean": "LH, '건설자원 공유플랫폼'으로 65억 절감…ESG 경영 가속화",
     "summary": "LH가 건설자원 공유플랫폼을 통해 65억 원의 비용을 절감하고, 전시용 모듈러주택 등 버려질 뻔한 자원을 장애인복지관으로 재활용하는 등 ESG 경영을 가속화하고 있다. 건설 자원의 재활용 및 공유를 통해 업계의 지속가능한 발전을 도모하는 사례를 제시하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T10:00:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "부동산 PF 리스크 피하고 수주 늘린다···극동건설 '투트랙' 전략 - 스마트비즈",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VakE2MDNxdS1yLWdmNzM2aXNQYmJOZEFMY3dXRzRDS19QR2NZOGFHX2o3NWdnMmlXbVB1Qm14b3VPTGhMWEM3ZWhvdENjRktPVkFVUTA1RHhwT1FzRUZ1U0JTZElYdGZlTGx0TQ?oc=5",
-    "description": "| 스마트비즈 = 최형호 기자 | 극동건설이 공공참여형 정비사업과 브랜드 통합을 양축으로 수도권 도시정비사업 수주에 나서고 있다. 부동산 프로젝트파이낸싱(PF)",
-    "published_at": "2026-10-20T09:30:24+09:00",
-    "cluster_id": "3181",
-    "publisher": "스마트비즈",
-    "title_clean": "부동산 PF 리스크 피하고 수주 늘린다···극동건설 '투트랙' 전략",
-    "summary": "극동건설이 부동산 PF 리스크를 피하면서 수주를 확대하기 위해 공공참여형 정비사업과 브랜드 통합을 전략으로 수도권 도시정비사업에 집중하고 있다. 이는 건설업계의 PF 위기 속에서 안정적인 사업 모델을 추구하는 사례로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-20T10:00:53+09:00",
     "importance": 2
