@@ -20981,6 +20981,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[김병철 시선] 미래 걸린 박달·철도, 국토부가 응답할 때다 - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=719749",
+    "description": "최대호 안양시장은 지난 24일 오전 9시 석수체육공원에서 열린 '제14회 전국 건설인 축구대회'에서 김석기 국토교통부 건설정책국장에게 건의서를 전달했다. 박달스마트시티 조성을 위한 개발제한구역 해제와 위례과천선...",
+    "published_at": "2026-10-27T01:16:00+09:00",
+    "cluster_id": "7870",
+    "publisher": "newstown.co.kr",
+    "title_clean": "[김병철 시선] 미래 걸린 박달·철도, 국토부가 응답할 때다",
+    "summary": "안양시장이 국토교통부 관계자에게 박달스마트시티 개발제한구역 해제와 위례과천선 관련 건의서를 전달했다. 지역 개발 사업 추진을 위해 정부 차원의 규제 완화와 정책 지원을 요청하는 내용이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T01:34:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32274,22 +32290,6 @@
     "summary": "건설경기 침체와 고금리 장기화 속에서 정부와 건설업계가 해외 신시장 개척, 지역 산업 육성, 협력사 상생을 통해 위기 극복에 나서고 있다. 단기적 어려움에도 중장기적 미래 투자와 동반 성장을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-21T06:11:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대형건설사 20곳과 1:1 매칭…인천시, 지역 건설업계 하도급 수주 지원 - cstimes.com",
-    "link": "https://www.cstimes.com/news/articleView.html?idxno=724688",
-    "description": "지역 건설경기 회복에 총력을 다하겠다\"고 말했다. 한편 인천시는 일회성 매칭에 그치지 않고 행사 이후에도 대형건설사의 지역업체 협력사 등록 현황과 실제 하도급 참여 실적을 정기적으로 점검할 방침이다. 아울러...",
-    "published_at": "2026-10-21T05:26:00+09:00",
-    "cluster_id": "8ccc",
-    "publisher": "cstimes.com",
-    "title_clean": "대형건설사 20곳과 1:1 매칭…인천시, 지역 건설업계 하도급 수주 지원",
-    "summary": "인천시가 대형건설사 20곳과 지역 건설업체를 1:1 매칭하여 하도급 수주 기회를 제공하고 있다. 일회성 행사에 그치지 않고 협력사 등록 현황과 실적을 정기적으로 점검하여 지역 건설경기 회복을 지원할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-21T05:31:34+09:00",
     "importance": 2
   }
 ]
