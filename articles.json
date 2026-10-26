@@ -4522,6 +4522,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 서초 롯데캐슬 아트팰리스 11월 분양…146세대 일반공급 - 인더뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGc0h6RTF4MFNFeE0ydGFpUGRlQm4tQlJFR2dRaEhmMC1zZ1JES3pxRHBZRTI1SWUtc19QM2l2T2hjVkt4NzZmdTBUT19nX3lHRmMxVTJ3aTlnbWNScU9rNE1LTUE5Yjg?oc=5",
+    "description": "인더뉴스 제해영 기자ㅣ롯데건설은 서울 서초구 서초동 일원에 조성된 ‘서초 롯데캐슬 아트팰리스’를 내달 분양할 예정이라고 26일 밝혔습니다. 단지는 공사를 마친 상태이며 분양가상한제가 적용됩니다. 입주는 2027년 2월로 예정돼 있습니다. 단지 규모는 지하 5층부터 지상 최고 36층까지 2개 동, 총 835세대입니다. 이 가운데 146세대가 일반분양 물량으로",
+    "published_at": "2026-10-26T09:34:34+09:00",
+    "cluster_id": "bd7d",
+    "publisher": "인더뉴스",
+    "title_clean": "롯데건설, 서초 롯데캐슬 아트팰리스 11월 분양…146세대 일반공급",
+    "summary": "롯데건설이 서초동 롯데캐슬 아트팰리스 146세대를 11월에 분양하며, 총 835세대 규모의 완공 단지이다. 분양가상한제 적용되며 2027년 2월 입주 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-26T09:43:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20504,22 +20520,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-15T17:50:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "나이지리아산 '불량 케이블'에 발목 잡힌 대우건설, 상반기 플랜트 수익... - newsquest.co.kr",
-    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302768",
-    "description": "대우건설 플랜트 부문의 수익성이 크게 악화됐다. 올해 상반기 플랜트 매출은 지난해보다 늘었지만 영업이익은 5억원에도 미치지 못했다. 나이지리아 T7 현장에서 발생한 전기 중압케이블 불량으로 재구매와 재시공...",
-    "published_at": "2026-10-15T17:34:00+09:00",
-    "cluster_id": "9311",
-    "publisher": "newsquest.co.kr",
-    "title_clean": "나이지리아산 '불량 케이블'에 발목 잡힌 대우건설, 상반기 플랜트 수익...",
-    "summary": "대우건설 플랜트 부문이 나이지리아 T7 현장의 전기 중압케이블 불량으로 인한 재구매 및 재시공 비용으로 상반기 영업이익이 5억원 미만으로 급락했다. 매출 증가에도 불구하고 수익성이 크게 악화된 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-15T17:39:53+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
