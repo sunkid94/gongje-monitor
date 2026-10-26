@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "엔지니어링공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "이충우 여주시장, ESG 나눔기업 8곳에 감사패 전달...지역사회 상생 강조 - ajunews.com",
+    "link": "https://www.ajunews.com/view/20261026180346168",
+    "description": "이번 전달식에서는 신세계사이먼 여주점과 그린피아기술, 동보전기, 베스트, 삼덕산업개발, 엔지니어링공제조합, 우호이엔씨, 동부자원순환센터 등 8개 기업이 ESG 나눔 실천기업으로 소개됐다. 여주시는 이들 기업의...",
+    "published_at": "2026-10-26T18:26:00+09:00",
+    "cluster_id": "ab9a",
+    "publisher": "ajunews.com",
+    "title_clean": "이충우 여주시장, ESG 나눔기업 8곳에 감사패 전달...지역사회 상생 강조",
+    "summary": "여주시장이 ESG 나눔기업 8곳에 감사패를 전달했으며, 이 중 엔지니어링공제조합이 포함되어 지역사회 상생과 기업의 사회적 책임 실천을 강조했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-26T18:30:18+09:00",
+    "event_label": "엔지니어링공제조합 ESG 나눔기업 선정",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -4962,6 +4979,22 @@
     "collected_at": "2026-09-28T06:08:14+09:00",
     "event_label": "대한기계설비건설협회 STEP 기계설비 실무교육 전용시스템 오픈",
     "importance": 6
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"강남 아파트, 가점 70점 없어도 노린다\"···서초 롯데캐슬 11월 공급 - smartbizn.com",
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157578",
+    "description": "롯데건설이 다음달 분양할 예정인 '서초 롯데캐슬 아트팰리스'다. 전용면적 35~46㎡로 구성된 일반분양 물량 146가구를 선보인다. 강남권 핵심 입지에 들어서는 신축 아파트인 데다 공사를 마친 뒤 공급하는 단지라는...",
+    "published_at": "2026-10-26T18:22:00+09:00",
+    "cluster_id": "6dea",
+    "publisher": "smartbizn.com",
+    "title_clean": "\"강남 아파트, 가점 70점 없어도 노린다\"···서초 롯데캐슬 11월 공급",
+    "summary": "롯데건설이 서초 롯데캐슬 아트팰리스를 11월 분양하며 전용면적 35~46㎡의 일반분양 146가구를 공급한다. 강남 핵심 입지의 준공 후 분양 아파트로, 가점 요건이 낮아 청약 진입장벽이 상대적으로 낮다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-26T18:30:18+09:00",
+    "importance": 2
   },
   {
     "keyword": "현대산업개발",
@@ -20948,20 +20981,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "대우건설, 1조4367억 ‘상도15구역 재개발’ 공사 계약 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDROUlhwa1Jfb1l3ZDJaN085aEJNYTUxYTJYRXN4WkNfcmtzUjNtenFnbWtYWkd5cHZ0Zkx1dHY3V1ZVZ1Jlc05hV2tzZEZvUEZVZjlpUFFhR2RZZ2R3SGIxSnBGV3ZVNjNWazI3aDFDOWs1UlZWUzllM19kLXdHS0wwY1pfWDl1ZTg1Vi1ucm1zNDVXV1RFQdIBrAFBVV95cUxNQVNDNXhfS3cyeDVhUWlsSFpCdGx5eG93Z0JHSjhNbHd0V3JjekZ5d0YwMzFpNlgxSDM4UDVMTE9rVW4tODI0YjNDdDBzTFJvWG9xaGZCYTF1cjdsUmJ4bGFtUFZ6TFJYUGJXVThFOWlGM19RdUY5MXZQZGR1R3J3UzBuM0JoaWVNc003XzY4dGFBREM3SDN5SFBhdGpROHJyNUpacGQ5NU9LQmd0?oc=5",
-    "description": "대우건설, 1조4367억 상도15구역 재개발 공사 계약 작년 매출액의 17.84% 해당",
-    "published_at": "2026-10-16T08:43:48.039000+00:00",
-    "cluster_id": "e382",
-    "publisher": "Chosunbiz",
-    "title_clean": "대우건설, 1조4367억 ‘상도15구역 재개발’ 공사 계약 - 조선비즈",
-    "summary": "대우건설이 상도15구역 재개발 공사에 1조4367억원 규모의 계약을 체결했습니다. 이는 대우건설 작년 매출액의 17.84%에 해당하는 대규모 수주입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-17T00:03:20+09:00",
-    "importance": 2
+    "title": "'尹 관저이전' 김오진, 1심서 징역 5년 구형…내달 20일 선고(종합) - news1.kr",
+    "link": "https://www.news1.kr/society/court-prosecution/6332459",
+    "description": "구체적으로 건설업체 임원들에게 21그램에 건설사업자 명의를 빌려주도록 하고, 명의대여 관련 교섭을 하게 한 혐의(직권남용권리행사방해 및 건설산업기본법 위반)를 받는다. 행정안전부 정부청사관리본부 직원에게...",
+    "published_at": "2026-10-26T18:17:00+09:00",
+    "cluster_id": "c3fe",
+    "publisher": "news1.kr",
+    "title_clean": "'尹 관저이전' 김오진, 1심서 징역 5년 구형…내달 20일 선고(종합)",
+    "summary": "尹 관저이전 관련 건설사업 명의대여 혐의로 기소된 김오진에게 1심에서 징역 5년이 구형되었다. 건설업체 임원들에게 명의를 빌려주도록 강요한 직권남용 및 건설산업기본법 위반 혐의가 적용되었으며, 내달 20일 선고 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T18:30:18+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32257,38 +32290,6 @@
     "summary": "LG전자, HD현대, LH, 현대그린푸드, 풀무원샘물, CJ올리브네트웍스 등 주요 기업들이 기술 혁신과 자원순환, 고용 확대를 통해 사회적 가치와 경쟁력을 동시에 추구하고 있다. 교통안전, 친환경 선박, 자원재활용, 산업안전 등 다양한 분야에서 지속가능한 사업 모델을 확대 중이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-20T23:52:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "황운하 의원, 모듈러 건축 진흥 특별법 발의…“옮겨서 다시 쓰는 주택 시대 열 것” - 뉴스홈(newshome)",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Wb1VxR0tOYlNCbFJwSVJ5T3UzQ3BTTzBMenhWSUdsSDV2WUFRY0RSYWNuUS1ZWW5oYkpmZ0hZWm9kbGNWdDVTTVdZM2JvYWxPZ3lISmZDSFRUWWhwYTFKTkppeW1BZEg5N3VPdzFR?oc=5",
-    "description": "조국혁신당 황운하 국회의원(국회 국토교통위원회)이 모듈러 건축산업의 체계적인 육성과 공공주택 공급 확대를 위한 「모듈러 건축 진흥 및 지원에 관한 특별법안」을 대표발의했다.이번 법안은 황 의원이 앞서 국정감사에서 모듈러주택의 제도적 한계를 지적하고 개선을 촉구한 데 이어, 산업 발전을",
-    "published_at": "2026-10-20T16:30:10+09:00",
-    "cluster_id": "4b24",
-    "publisher": "뉴스홈(newshome)",
-    "title_clean": "황운하 의원, 모듈러 건축 진흥 특별법 발의…“옮겨서 다시 쓰는 주택 시대 열 것”",
-    "summary": "황운하 의원이 모듈러 건축 진흥 특별법을 발의해 모듈러 건축산업의 체계적 육성과 공공주택 공급 확대를 추진 중이다. 이는 모듈러주택의 제도적 한계를 개선하고 새로운 건축 시장 창출을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T23:52:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, '건설자원 공유플랫폼'으로 65억 절감 - srtimes.kr",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=215358",
-    "description": "제1호 기증 사례로, 앞서 LH가 '2025 스마트건설·안전·AI EXPO'에서 전시에 활용했던 모듈러 주택이 플랫폼을 통해 지역 장애인복지관으로 전달됐다. 폐기 대신 기증을 통해 자원순환을 실천하고 지역사회 공헌에도 힘을...",
-    "published_at": "2026-10-20T23:34:00+09:00",
-    "cluster_id": "1e29",
-    "publisher": "srtimes.kr",
-    "title_clean": "LH, '건설자원 공유플랫폼'으로 65억 절감",
-    "summary": "LH가 건설자원 공유플랫폼을 통해 65억 원의 비용을 절감했으며, 첫 기증 사례로 모듈러 주택을 지역 장애인복지관에 전달했다. 폐기 자원의 재활용으로 자원순환을 실천하고 사회공헌을 동시에 추진하는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T23:42:09+09:00",
     "importance": 2
   }
 ]
