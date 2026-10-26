@@ -20981,6 +20981,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "안양시, 박달스마트시티·위례과천선 연장 국토부 건의서 전달 - 일간경기",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sd0FCN2xMUFVzSjduNlloemxuN09PZ25BZk9tdGF5MGFnMmcxSE9PTG9XWUFwWkpyYnNySzRURTRVRVc3czd4d2xIUlJ1ZERadHI0MEZMc3ZYZTJYQXpHNWRaNk9HaWdr?oc=5",
+    "description": "[일간경기=정용포 기자] 안양시가 국토교통부에 박달스마트시티 개발제한구역 해제와 위례과천선 안양권 연장을 건의했다. 최대호 안양시장은 지난 24일 오전 9시 석수체육공원에서 열린 ‘제14회 전국 건설인 축구대회’에서 김석기 국토교통부 건설정책국장에게 건의서를 전달했다. 그는 두 사업이 안양의 미래 성장 기반 마련과 광역교통 여건 개선을 위한 주요 현안이라고 강조하며, 국토교통부의 적극적인 관심과 협조가 필요하다고 밝혔다. 박달스마트시티 조성사업은 노후 군사시설의 현대화와 도시개발을 연계해 지역의 새로운 성장 기반을 마련하는 사업이다",
+    "published_at": "2026-10-26T15:50:12+09:00",
+    "cluster_id": "d368",
+    "publisher": "일간경기",
+    "title_clean": "안양시, 박달스마트시티·위례과천선 연장 국토부 건의서 전달",
+    "summary": "안양시가 박달스마트시티 개발제한구역 해제와 위례과천선 안양권 연장을 국토교통부에 건의했다. 두 사업은 노후 군사시설 현대화와 도시개발을 연계한 지역 성장 기반 마련 및 광역교통 여건 개선을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-26T22:05:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32275,21 +32291,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-21T00:36:10+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "장비 빌렸더니 사람까지…펌프카 '턴키' 스톱! - gjdream.com",
-    "link": "http://www.gjdream.com/news/articleView.html?idxno=673587",
-    "description": "노조가 이날 시에 제출한 면담 자료는 장비와 인력을 함께 계약하는 방식 자체를 모두 불법으로 단정할 수는 없다고 전제하면서도, 실제 작업 형태에 따라 근로자파견이나 무허가 근로자공급, 건설산업기본법상 재하도급...",
-    "published_at": "2026-10-21T00:06:00+09:00",
-    "cluster_id": "f6f5",
-    "publisher": "gjdream.com",
-    "title_clean": "장비 빌렸더니 사람까지…펌프카 '턴키' 스톱!",
-    "summary": "노조가 펌프카 업체의 장비와 인력을 함께 제공하는 '턴키' 방식 계약이 불법 근로자파견 및 무허가 근로자공급에 해당할 수 있다고 지적했다. 실제 작업 형태에 따라 건설산업기본법상 재하도급 위반 등으로 판단될 수 있음을 제기했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-21T00:11:08+09:00",
-    "importance": 4
   }
 ]
