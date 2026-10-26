@@ -4981,6 +4981,22 @@
     "importance": 6
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[정비사업 '정원 전쟁']③ ‘조경트로피’ 수주에 적극 활용… 상위 0.1... - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221637145820798",
+    "description": "롯데건설은 ‘아시아 디자인 프라이즈 2026’에서 마곡 VL르웨스트의 선큰정원 ‘르웨스트 ROCK(樂) 가든’과 원주 롯데캐슬 시그니처의 어린이놀이터 ‘EARTH SAVER’로 위너 2건을 받았다. 롯데건설은 조경...",
+    "published_at": "2026-10-27T05:20:00+09:00",
+    "cluster_id": "d6bf",
+    "publisher": "대한경제",
+    "title_clean": "[정비사업 '정원 전쟁']③ ‘조경트로피’ 수주에 적극 활용… 상위 0.1...",
+    "summary": "롯데건설이 '아시아 디자인 프라이즈 2026'에서 마곡과 원주 프로젝트의 조경 설계로 2건의 위너 상을 수상했다. 건설사들이 조경 디자인 수상을 정비사업 수주 경쟁에서 마케팅 도구로 적극 활용하고 있는 추세를 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T05:29:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20960,22 +20976,6 @@
     "publisher": "pinpointnews.co.kr",
     "title_clean": "대우건설, 플랜트 마진 정상화에 실적 회복 기대…수주 확대도 주목",
     "summary": "대우건설이 주택·건축 부문의 안정적인 원가율 유지와 플랜트 부문의 수익성 회복으로 3분기 영업이익이 큰 폭으로 증가할 것으로 전망된다. 플랜트 마진 정상화와 수주 확대가 실적 회복의 주요 동인으로 주목되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-17T12:31:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "서울·대전 노후 도심서 주택 공급 잇따라…LH, 서울 도심복합사업 3곳... - dailypop.kr",
-    "link": "http://www.dailypop.kr/news/articleView.html?idxno=103487",
-    "description": "한국토지주택공사(LH)는 지난달 지구 지정을 마친 서울 도심 공공주택 복합사업 3곳(5032호)의 후속 절차에 속도를 내기로 했고, 포스코이앤씨는 옛 상봉터미널 부지에 짓는 오피스텔을 다음 달 분양할 예정이다....",
-    "published_at": "2026-10-17T12:20:00+09:00",
-    "cluster_id": "8aed",
-    "publisher": "dailypop.kr",
-    "title_clean": "서울·대전 노후 도심서 주택 공급 잇따라…LH, 서울 도심복합사업 3곳...",
-    "summary": "LH가 서울 도심공공주택 복합사업 3곳(5032호)의 후속 절차를 가속화하고 있으며, 포스코이앤씨도 상봉터미널 부지 오피스텔 분양을 추진 중이다. 서울·대전 등 노후 도심지역에서 주택 공급 사업들이 잇따라 진행되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-17T12:31:03+09:00",
     "importance": 2
