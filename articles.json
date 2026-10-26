@@ -20981,6 +20981,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "이효식 대전도시공사 사장 후보 내정...11월 3일 인사청문회 - ccnnews.co.kr",
+    "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416792",
+    "description": "지역 건설경기 활성화와 도시개발·주택사업 추진 방향, 조직 운영 및 재정 건전성 확보 방안 등도 주요 질의 사항으로 예상된다. 시의회 청문특위는 3일 청문회를 진행한 뒤 4일 청문회 결과를 토대로 인사청문...",
+    "published_at": "2026-10-26T20:22:00+09:00",
+    "cluster_id": "6e0f",
+    "publisher": "ccnnews.co.kr",
+    "title_clean": "이효식 대전도시공사 사장 후보 내정...11월 3일 인사청문회",
+    "summary": "이효식 대전도시공사 사장 후보자가 11월 3일 시의회 인사청문회에 참석한다. 청문회에서는 건설경기 활성화, 도시개발·주택사업 추진, 조직 운영 및 재정 건전성 등이 주요 질의 사항으로 다뤄질 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-26T20:29:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32275,21 +32291,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-20T23:52:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[전문가 기고] 위기의 지역 건설업, 이대로 두면 안 된다 - 아주경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaHJ1VVhqc1k5dXJHRVEtVTA5R1p5Y2I4M2syR1JBTVRBdlFrQTRsQ010a2sxZ210c3VIc0hpSmwtRnNfMnpMUHc0OVFxZHJMdnlaUmlnbGY2QdIBWEFVX3lxTE94MjJ5dGJrSVgtbnhQN0NvejFoNXNZMzl1bDU1aklYeWRlTU5fRFNPRVlmQUJVazRfX21QT2l4M1hXdWJPeWRwWmU4WjFJTVVJeW5tUFk4azI?oc=5",
-    "description": "지난 2분기 명목 GDP(국내총생산)는 26.4%를 기록했다. 실질 GDP로도 1분기에 지난해 같은 기간보다 3.6% 성장한 데 이어 2분기 3.7%를 기록해 성...",
-    "published_at": "2026-10-20T10:38:59+09:00",
-    "cluster_id": "0758",
-    "publisher": "아주경제",
-    "title_clean": "[전문가 기고] 위기의 지역 건설업, 이대로 두면 안 된다",
-    "summary": "2분기 명목 GDP 26.4%, 실질 GDP 3.7% 성장 등 거시경제 호조에도 불구하고 지역 건설업이 위기 상황에 처해 있으며 개선 대책이 필요한 상황을 지적하는 기사입니다. 전문가가 현재의 경제 성장이 지역 건설업 활성화로 이어지지 않고 있는 문제점을 제시합니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-20T23:52:54+09:00",
-    "importance": 4
   }
 ]
