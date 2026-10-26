@@ -4981,6 +4981,22 @@
     "importance": 6
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "MASGA 맞춰 미국 공략 나선 K-조선…한화 이어 HD현대도 조선소 승부수 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2380804.htm",
+    "description": "삼성중공업은 MRO·기술 제휴 중심 美 현지 수주 확보·수익성 검증이 관건 WSJ도 주목한 K-조선 협력 [더팩트ㅣ송다영 기자] 한미 조선 협력 프로젝트인 마스가(MASGA)를 계기로 국내 대형 조선 3사들의 미국 시장 공략이...",
+    "published_at": "2026-10-27T00:01:00+09:00",
+    "cluster_id": "5c6d",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "MASGA 맞춰 미국 공략 나선 K-조선…한화 이어 HD현대도 조선소 승부수",
+    "summary": "MASGA 협력을 계기로 한화, HD현대 등 국내 대형 조선 3사가 미국 시장 공략에 나섰다. 삼성중공업은 MRO와 기술 제휴 중심으로 현지 수주 확보 및 수익성 검증을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T00:10:10+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20965,20 +20981,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대교·목화 이어 시범아파트까지 수주…삼성물산, 2조원대 사업 확보 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026101711214415143",
-    "description": "지난해 5월 열린 현장설명회에는 삼성물산과 대우건설, GS건설, HDC현대산업개발, 금호건설, 호반건설, 제일건설 등 7개사가 참석했지만, 8월 25일 마감한 첫 입찰에는 삼성물산만 입찰서를 냈다. 이어 9월 3일 열린...",
-    "published_at": "2026-10-17T11:22:00+09:00",
-    "cluster_id": "1cd2",
-    "publisher": "newsway.co.kr",
-    "title_clean": "대교·목화 이어 시범아파트까지 수주…삼성물산, 2조원대 사업 확보",
-    "summary": "삼성물산이 대교, 목화에 이어 시범아파트 사업까지 수주하며 2조원대 대규모 사업을 확보했다. 초기 7개사가 참석한 입찰에서 최종적으로 삼성물산이 낙찰되며 건설사 간 수주 경쟁이 심화된 상황을 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-17T11:31:05+09:00",
-    "importance": 2
+    "title": "[데일리 Talk] 집값은 오르는데, 건설사는 웃지 못하는 이유 - m.skyedaily.com",
+    "link": "https://m.skyedaily.com/news_view.html?ID=313486",
+    "description": "반면 한국건설산업연구원에 따르면 8월 건설수주는 15조7000억 원으로 전년 동월 대비 8.1% 감소했다. 민간 수주가 13.0% 줄어든 영향이 컸다. 기존 주택 가격의 상승은 보유자의 자산 가치 증가로 이어진다. 반면 신규...",
+    "published_at": "2026-10-27T00:04:00+09:00",
+    "cluster_id": "e9fe",
+    "publisher": "m.skyedaily.com",
+    "title_clean": "[데일리 Talk] 집값은 오르는데, 건설사는 웃지 못하는 이유",
+    "summary": "8월 건설수주가 전년 동월 대비 8.1% 감소하며 민간 수주가 13.0% 줄어들었다. 기존 주택 가격 상승은 보유자의 자산 증가로는 이어지지만, 신규 건설 수요 부족으로 건설사들의 실적 악화로 이어지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-27T00:10:10+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32274,22 +32290,6 @@
     "summary": "브라질 건설 노동자가 온라인에서 만난 여성과의 만남을 위해 전재산을 들여 1900km를 이동했으나, 상대방이 AI 챗봇이었던 사기 사건이 발생했다. 건설업계와 무관한 개인 사기 사건으로 업계에 직접적인 영향을 미치지 않는다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-21T05:31:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"인력 고령화·현장안전 문제, 피지컬 AI로 푼다\" - mt.co.kr",
-    "link": "https://www.mt.co.kr/estate/2026/10/21/2026102019445255685",
-    "description": "개방형 참여체계를 통해 스마트건설 네트워크를 연계하고 확장하는 기능도 맡는다. 이는 초격차 첨단산업을 육성하려는 이재명 대통령의 정책 기조와도 맞닿아 있다. 이 대통령은 오는 23일 청와대에서 제2차...",
-    "published_at": "2026-10-21T04:00:00+09:00",
-    "cluster_id": "3d0b",
-    "publisher": "mt.co.kr",
-    "title_clean": "\"인력 고령화·현장안전 문제, 피지컬 AI로 푼다\"",
-    "summary": "건설업의 인력 고령화와 현장안전 문제를 피지컬 AI 기술로 해결하려는 정책이 추진되고 있다. 스마트건설 네트워크 확장을 통해 초격차 첨단산업 육성을 목표로 하는 정부의 정책 기조와 연계되어 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-21T04:11:27+09:00",
     "importance": 2
   }
 ]
