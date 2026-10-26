@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "주진우, 비수도권 미분양 아파트 취득세 감면 3년 연장 추진 - sejungilbo.com",
+    "link": "https://www.sejungilbo.com/news/articleView.html?idxno=60814",
+    "description": "주 의원은 \"수도권 외 준공 후 미분양된 아파트 증가가 건설경기와 지역경제의 부담으로 이어지는 상황에서 현행 특례의 지속이 필요하다\"고 밝혔다. 이어 \"특히 사업주체가 장기임대하는 미분양 아파트의 경우 취득가액...",
+    "published_at": "2026-10-27T08:20:00+09:00",
+    "cluster_id": "c62a",
+    "publisher": "sejungilbo.com",
+    "title_clean": "주진우, 비수도권 미분양 아파트 취득세 감면 3년 연장 추진",
+    "summary": "주진우 의원이 비수도권 미분양 아파트에 대한 취득세 감면 특례를 3년 연장할 것을 추진 중이다. 미분양 증가로 인한 건설경기 부진과 지역경제 악화에 대응하기 위한 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T08:29:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "publisher": "engdaily.com",
     "title_clean": "건설경기 부진 지속…\"건설사 폐업도 최다\"",
     "summary": "올해 1월~9월 건설사 폐업 신고가 3,274개로 전년 동기 대비 27.4% 증가했으며, 2009년 이후 17년 만에 최고 수치를 기록했다. 건설경기 부진이 지속되면서 업계 전반의 경영난이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-21T10:01:44+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "종합건설업체 33개월째 감소…전문건설업 폐업 24% 늘어 - greened.kr",
-    "link": "https://www.greened.kr/news/articleView.html?idxno=352585",
-    "description": "건설경기 침체로 종합건설업체 수가 감소하고 전문건설업체의 폐업이 늘어나는 등 건설업계의 경영 여건이 악화하고 있다. [사진=픽사베이] 21일 국토교통부의 월별 건설업체 통계에 따르면 지난 9월 말 기준...",
-    "published_at": "2026-10-21T09:53:00+09:00",
-    "cluster_id": "aafd",
-    "publisher": "greened.kr",
-    "title_clean": "종합건설업체 33개월째 감소…전문건설업 폐업 24% 늘어",
-    "summary": "건설경기 침체로 종합건설업체 수가 33개월째 감소세를 보이고 있으며, 전문건설업체의 폐업이 24% 증가하는 등 건설업계의 경영 여건이 악화하고 있다. 업체 수 감소와 폐업 증가는 건설업계 전반의 구조적 어려움을 시사한다.",
     "sentiment": "negative",
     "collected_at": "2026-10-21T10:01:44+09:00",
     "importance": 4
