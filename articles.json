@@ -4522,6 +4522,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"공사비 40% 뛰었다\"…서울 재건축·재개발 곳곳 갈등 [영상PICK] - metroseoul.co.kr",
+    "link": "http://www.metroseoul.co.kr/article/20261026500077",
+    "description": "노량진5구역에서도 대우건설이 기존보다 62.7% 높은 893만원을 요구했고, 은평구 수색8구역 역시 63.2% 증액 요청이 이뤄졌다. 공사비 상승의 주요 원인으로는 자재비와 인건비 인상, 설계 변경, 공사기간 연장 등이...",
+    "published_at": "2026-10-26T09:52:00+09:00",
+    "cluster_id": "38f3",
+    "publisher": "metroseoul.co.kr",
+    "title_clean": "\"공사비 40% 뛰었다\"…서울 재건축·재개발 곳곳 갈등 [영상PICK]",
+    "summary": "서울 재건축·재개발 지역에서 공사비가 40~60% 이상 인상되면서 주민과 시공사 간 갈등이 심화되고 있다. 자재비, 인건비 상승과 설계 변경, 공사 연장 등이 주요 원인으로 지목되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T09:58:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20501,22 +20517,6 @@
     "publisher": "newscj.com",
     "title_clean": "[건설오늘] 한화 건설부문, AI로 현장 안전관리 강화 外 현대엔지니어링...",
     "summary": "한화 건설부문이 AI 기술을 활용한 현장 안전관리를 강화하고 있으며, 대우건설은 탄소저감 콘크리트의 탄소크레딧 확보를 추진 중이다. DL이앤씨는 성남 상대원2구역 재개발 사업을 진행하는 등 건설업계의 기술혁신과 프로젝트 진행이 활발하다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-15T17:50:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 탄소저감 콘크리트 탄소감축인증 주요 절차 통과… 탄소크레... - biztribune.co.kr",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=360740",
-    "description": "대우건설 사옥 | 대우건설 대우건설이 자체 개발한 탄소저감 조강형 콘크리트를 앞세워 건설 현장의 온실가스 감축 성과를 탄소크레딧으로 인정받기 위한 절차에 속도를 내고 있다. 실제 시공 현장에서 축적한 데이터를...",
-    "published_at": "2026-10-15T17:38:00+09:00",
-    "cluster_id": "1431",
-    "publisher": "biztribune.co.kr",
-    "title_clean": "대우건설, 탄소저감 콘크리트 탄소감축인증 주요 절차 통과… 탄소크레...",
-    "summary": "대우건설이 자체 개발한 탄소저감 조강형 콘크리트로 탄소크레딧 인증 절차를 진행 중이다. 건설 현장의 온실가스 감축 성과를 탄소크레딧으로 인정받아 새로운 수익원 창출을 추진하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-15T17:50:02+09:00",
     "importance": 2
