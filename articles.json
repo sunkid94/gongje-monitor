@@ -20981,6 +20981,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "HD건설기계, 엔진 날개 달고 3분기 영업익 증가 - fntimes.com",
+    "link": "https://www.fntimes.com/html/view.php?ud=20261026234006490fa6b69a559_18",
+    "description": "인도는 정부 주도 인프라 투자로 고성장이 이어지고, 국내는 건설경기 부진에도 노후 장비 교체 수요로 완만하게 성장할 것으로 봤다. 리스크로는 중동 전쟁 장기화에 따른 물류·원유 수급 차질, 신흥국 수요 둔화...",
+    "published_at": "2026-10-26T23:44:00+09:00",
+    "cluster_id": "5224",
+    "publisher": "fntimes.com",
+    "title_clean": "HD건설기계, 엔진 날개 달고 3분기 영업익 증가",
+    "summary": "HD건설기계가 3분기 영업익을 증가시켰으며, 인도의 정부 주도 인프라 투자와 국내 노후 장비 교체 수요가 성장을 견인할 것으로 전망했다. 다만 중동 전쟁 장기화로 인한 물류·원유 수급 차질과 신흥국 수요 둔화가 리스크 요인으로 지적되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-26T23:50:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32275,21 +32291,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-21T04:11:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "美 주택시장 위기인데 금리 올린다?…연준의 물가 딜레마 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=01331686645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "지난해 7월 21일(현지시간) 미국 캘리포니아주 엔시니타스에서 한 건설 노동자가 셰아홈스(Shea Homes)의 공동주택 건설 현장에서 작업하고 있다. (사진=로이터) 문제는 연준이 주택시장 침체에 대응해 금리를 내리기도...",
-    "published_at": "2026-10-21T03:21:00+09:00",
-    "cluster_id": "fa56",
-    "publisher": "edaily.co.kr",
-    "title_clean": "美 주택시장 위기인데 금리 올린다?…연준의 물가 딜레마",
-    "summary": "미국 연준의 금리 인상 정책으로 인해 주택시장이 침체되는 상황에서 건설업계가 수요 감소 압박을 받고 있다. 물가 관리와 주택시장 부양 사이의 정책 딜레마가 건설 시장에 부정적 영향을 미치고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-21T03:31:25+09:00",
-    "importance": 4
   }
 ]
