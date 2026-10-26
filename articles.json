@@ -20658,6 +20658,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH, 쌍문역 서측·연신내 지구 보상 착수...\"도심복합사업 사업속도 탄력 \" - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50499",
+    "description": "[건설이코노미뉴스] 한국토지주택공사(LH)는 ‘쌍문역 서측’과 ‘연신내역’ 도심 공공주택 복합사업(이하 도심복합사업)의 협의보상에 착수하고, 연내 이주를 본격 추진한다고 26일 밝혔다. ‘쌍문역 서측’ 지구 1,404호, ‘연신내’ 지구 392호 등 총 1,796호 주택공급이 예정돼 있으며, 각각 4호선, 3·6호선 및 GTX-A 등 광역 교통망을 이용할 수 있는 역세권에 위치해 도심 접근성이 우수하다. LH는 이번 협의보상(10.23) 및 이주 절차를 시작으로, ‘28년 착공을 목표로 후속 절차를 속행할 방침이다.특히 ‘쌍문역 서",
+    "published_at": "2026-10-26T12:12:40+09:00",
+    "cluster_id": "9ee6",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "LH, 쌍문역 서측·연신내 지구 보상 착수...\"도심복합사업 사업속도 탄력 \"",
+    "summary": "LH가 쌍문역 서측과 연신내역 도심복합사업에서 총 1,796호의 주택공급을 위해 협의보상에 착수하고 연내 이주를 추진한다. 2028년 착공을 목표로 사업을 속행할 방침으로, 역세권 위치로 도심 접근성이 우수하다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-26T12:16:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32256,21 +32272,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-20T11:31:23+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설사 폐업 3274곳…17년 만에 최대 위기 - 스페셜경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zMWFMRy1NS3ZlRDBuX1l5OVVxeGhBMnlkaVdtdVJKVUxPOWlNNEx1ZmdvOTd4QjhBd3RqempPTkpZSHV5cWxWQmVaOUk1bE9VMjUzWVFBRWVieDR5VU9kWFQ5cVdMbWdBWGhUMQ?oc=5",
-    "description": "스페셜경제=강민철 기자 | 올해 3분기까지 폐업을 신고한 건설사가 3200곳을 넘어서며 17년 만에 최대치를 기록했다. 고금리와 부동산 프로젝트파이낸싱(PF) 시",
-    "published_at": "2026-10-20T11:12:36+09:00",
-    "cluster_id": "ac0f",
-    "publisher": "스페셜경제",
-    "title_clean": "건설사 폐업 3274곳…17년 만에 최대 위기",
-    "summary": "올해 3분기까지 건설사 폐업이 3274곳으로 집계되어 17년 만에 최대 위기를 기록했다. 고금리와 부동산 PF 문제 등으로 인한 업계 경영난이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-20T11:31:23+09:00",
-    "importance": 4
   }
 ]
