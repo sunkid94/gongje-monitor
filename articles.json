@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'인간 청년'보다 '인공지능'에 미래를 거는 사회 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237413",
+    "description": "그 결과 투자 붐과 반도체 붐, 그리고 건설경기 붐을 일으키며 경제성장률과 주가를 끌어올렸지만, 기후와 환경에는 막대한 부담을 떠넘기게 됐다. 심지어 과도한 AI 성능 경쟁과 차입까지 동원한 무리한 AI...",
+    "published_at": "2026-10-27T06:34:00+09:00",
+    "cluster_id": "43eb",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "'인간 청년'보다 '인공지능'에 미래를 거는 사회",
+    "summary": "AI 투자 붐으로 반도체·건설경기가 활황을 보이며 경제성장과 주가를 견인했으나, 과도한 성능 경쟁과 무리한 투자로 인한 환경·기후 부담이 심화되고 있다. 사회가 청년보다 AI에 미래를 투자하는 방향으로 기울어지는 추세를 지적한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T06:39:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-21T09:06:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "하이멕, 영등포구 복지·문화축제 ‘휠더월드’에 300만 원 후원 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52386",
-    "description": "하이멕이 서울시립영등포장애인복지관이 주최하는 장애인과 지역사회의 화합을 위한 축제 ‘휠더월드(Wheel the World)’의 성공적인 개최를 위해 후원금 300만 원을 전달했다. 하이멕은 지난 16일 서울 영등포구 소재 본사에서 서울시립영등포장애인복지관과 후원금 전달식<사진>을 진행했다. 전달식 이후 참석자들은 지역사회와 연계한 사회공헌활동과 장애인 복지 증진을 위한 지속적인 협력 방향에 대해 의견을 나눴다.연창근 하이멕 대표이사는 “하이멕의 창립이념에는 ‘나라사랑의 길’을 실천하고자 하는 뜻이 담겨 있다”며 “이웃과 더불어 살아",
-    "published_at": "2026-10-20T11:23:01+09:00",
-    "cluster_id": "6a55",
-    "publisher": "기계설비신문",
-    "title_clean": "하이멕, 영등포구 복지·문화축제 ‘휠더월드’에 300만 원 후원",
-    "summary": "하이멕이 서울시립영등포장애인복지관의 장애인 축제 '휠더월드' 개최를 위해 300만 원을 후원했다. 양사는 지역사회 연계 사회공헌활동과 장애인 복지 증진을 위한 협력 방향에 대해 논의했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-21T09:06:43+09:00",
-    "importance": 2
   }
 ]
