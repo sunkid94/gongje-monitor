@@ -20998,6 +20998,38 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[언주로칼럼] 열정페이 스마트건설 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261003056860074",
+    "description": "지난 2023년 국토부가 발표한 스마트건설 활성화 방안의 핵심 두 축은 OSC(탈현장 건설)와 BIM이었다. 공공은 모듈러 주택 발주 물량을 늘리고, BIM 도입 의무화를 시작했지만, 정작 민간에 대가 없는 열정페이를...",
+    "published_at": "2026-10-27T06:22:00+09:00",
+    "cluster_id": "fa2b",
+    "publisher": "대한경제",
+    "title_clean": "[언주로칼럼] 열정페이 스마트건설",
+    "summary": "국토부의 스마트건설 활성화 방안에서 공공은 모듈러 주택과 BIM 도입을 의무화하면서 지원하지만, 민간 건설업체에는 대가 없는 추가 업무만 강요되고 있다는 비판. 건설업계의 불균형한 정책 부담에 대한 문제제기.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-27T06:30:01+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설현장 근로자 5명 중 1명이 외국인인 시대…숙련 미검증 배치가 공사비·안전 손실 키운다 [현장인력 리포트] - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PNWY0MUpUeHQyQWJKMHlYc0xWM2V2cndONERtN2ppNnVpNDBSS0FYZndYTVp1aHhPX1BWOFBFMVZCNXNaYlB1ZVZwblppUUpyZW9r?oc=5",
+    "description": "외국인 비중보다 숙련 확인이 먼저다 건설현장에서 외국인 근로자 없이 공정을 돌리기 어려운 시대가 됐다. 모누인력사무소(전화 1533-1633, https://monudemo.com)가 제공한 자료에 따르면, 2026년 현재 건설현장 전체 근로자 가운데 외국인이 차지하는 비중은 약 19~20% 수준으로 파악된다. 다만 이 수치는 모누인력사무소 제공 자료에서",
+    "published_at": "2026-10-27T06:19:23+09:00",
+    "cluster_id": "9bc7",
+    "publisher": "유스연합",
+    "title_clean": "건설현장 근로자 5명 중 1명이 외국인인 시대…숙련 미검증 배치가 공사비·안전 손실 키운다 [현장인력 리포트]",
+    "summary": "건설현장 근로자의 약 19~20%가 외국인으로 증가하고 있으나, 숙련도 미검증 배치로 인해 공사비 증가와 안전 문제가 발생하고 있다. 외국인 인력 활용 시 사전 숙련 확인의 중요성이 강조되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-27T06:30:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32260,37 +32292,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-21T09:06:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "아직도 '예방 vs 처벌'…산재 보도 이분법에서 벗어나야 - mediaus.co.kr",
-    "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=318565",
-    "description": "건설노동자를 대상으로 기능 교육과 안전교육도 진행하고 있으며, 청년 노동자들이 현장에서 필요한 기능과 안전 수칙을 익히도록 하는 활동 역시 산재 예방과 연결되는 중요한 영역이다. 최근에는 삼성물산, GS건설 등...",
-    "published_at": "2026-10-21T08:44:00+09:00",
-    "cluster_id": "07b7",
-    "publisher": "mediaus.co.kr",
-    "title_clean": "아직도 '예방 vs 처벌'…산재 보도 이분법에서 벗어나야",
-    "summary": "산재 보도가 '예방 vs 처벌'의 이분법적 틀에서 벗어나야 한다는 주장. 건설노동자 대상 기능·안전교육과 청년 노동자 현장 교육이 산재 예방의 중요한 영역임을 강조하며, 삼성물산·GS건설 등 대형사들의 예방 활동 사례 소개.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-21T08:51:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[전국 주요 신문 톱뉴스](21일 조간) - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261021015200011?input=1195m",
-    "description": "벗어나는 건설경기… 지방은행 빈자리 더 커진다 ▲ 동양일보 = 박병국 '뇌물 전과'·이재한 '지역구 챙기기' 뭇매 ▲ 중도일보 = 교육재정·아동보호·연구자 처우… 충청 현안 '도마위' ▲ 중부매일 = \"김영환 도정이 빚...",
-    "published_at": "2026-10-21T08:00:00+09:00",
-    "cluster_id": "13b4",
-    "publisher": "yna.co.kr",
-    "title_clean": "[전국 주요 신문 톱뉴스](21일 조간)",
-    "summary": "건설경기 악화로 인한 지방은행의 경영 어려움이 심화되고 있으며, 정치인들의 비리 의혹과 지역 현안 논쟁이 보도되고 있다. 전반적으로 건설업계의 침체 추세가 지속되는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-21T08:11:32+09:00",
-    "importance": 4
   }
 ]
