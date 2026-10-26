@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[위클리오늘] 강릉시, 「공동주택 건설 현장 지역건설업체 참여」 확대... - weeklytoday.com",
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=799473",
+    "description": "이번 협약은 대규모 투자사업에 지역업체의 참여를 확대하는 방안을 마련해 사업하기 좋은 강릉을 만들고, 상호 협력과 상생을 기반으로 지역 건설경기 활성화에 기여하고자 추진됐다. 주요 내용은 민간사업자가...",
+    "published_at": "2026-10-26T13:04:00+09:00",
+    "cluster_id": "0743",
+    "publisher": "weeklytoday.com",
+    "title_clean": "[위클리오늘] 강릉시, 「공동주택 건설 현장 지역건설업체 참여」 확대...",
+    "summary": "강릉시가 공동주택 건설 현장에서 지역건설업체의 참여를 확대하기 위한 협약을 추진하고 있습니다. 이는 대규모 투자사업에서 지역업체의 수주 기회를 늘리고 상생 협력을 통해 건설경기를 활성화하려는 정책입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-26T13:09:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32257,21 +32273,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-20T11:55:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "극동건설, 금천구 ‘시흥동 LH참여형 가로주택’ 수주…‘더 케이하우스... - lawissue.co.kr",
-    "link": "https://www.lawissue.co.kr/view.php?ud=20261020114228566667191f6c6e_12",
-    "description": "극동건설 관계자는 “건설경기 침체기일수록 철저한 리스크 관리와 우량 사업지 선별 역량이 중요하다”며 “시흥동 1003번지 프로젝트를 성공적으로 완수해 서울 서남권 정비사업의 새로운 사례를 만들겠다”고...",
-    "published_at": "2026-10-20T11:44:00+09:00",
-    "cluster_id": "73ad",
-    "publisher": "lawissue.co.kr",
-    "title_clean": "극동건설, 금천구 ‘시흥동 LH참여형 가로주택’ 수주…‘더 케이하우스...",
-    "summary": "극동건설이 금천구 시흥동에서 LH참여형 가로주택 프로젝트를 수주했다. 건설경기 침체 속에서 우량 사업지 선별과 리스크 관리를 강조하며 서울 서남권 정비사업의 새로운 모델을 제시할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T11:51:07+09:00",
-    "importance": 2
   }
 ]
