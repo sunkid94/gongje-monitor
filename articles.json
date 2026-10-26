@@ -20522,6 +20522,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[기고] 해외 건설현장의 집단 업무거부와 징계해고 사건 - kmaeil.com",
+    "link": "https://www.kmaeil.com/news/articleView.html?idxno=655631",
+    "description": "사건개요 2009년, 국내 건설경기의 침체로 어려움을 겪던 S건설회사는 새로운 기회를 찾기 위해 사우디아라비아로 눈을 돌렸다. 근로자 약 40명을 둔 이 회사는 3월과 4월에 총 공사금액 약 1,000억 원 규모의 공사 두 건을...",
+    "published_at": "2026-10-26T09:44:00+09:00",
+    "cluster_id": "28eb",
+    "publisher": "kmaeil.com",
+    "title_clean": "[기고] 해외 건설현장의 집단 업무거부와 징계해고 사건",
+    "summary": "2009년 사우디아라비아 건설현장에서 S건설회사 근로자 약 40명이 집단 업무거부를 벌였고, 회사가 이를 이유로 징계해고를 단행한 사건. 해외 건설현장에서의 노무관리 분쟁과 법적 문제를 다룬 사례 분석.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T09:49:05+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "단기 일자리 31년 만에 최저…40·50대 고용 직격탄 - mstoday.co.kr",
+    "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=200256",
+    "description": "건설경기 침체와 내수 부진이 장기화하면서 임시·일용근로자 등 단기 일자리가 31년 만에 가장 적은 수준으로 줄었다. 특히 건설업과 숙박·음식점업, 도소매업 등에서 고용 감소가 두드러졌으며, 가구의 생계를...",
+    "published_at": "2026-10-26T09:42:00+09:00",
+    "cluster_id": "e6a1",
+    "publisher": "mstoday.co.kr",
+    "title_clean": "단기 일자리 31년 만에 최저…40·50대 고용 직격탄",
+    "summary": "건설경기 침체와 내수 부진이 심화되면서 임시·일용근로자 등 단기 일자리가 31년 만에 최저 수준으로 감소했다. 건설업을 포함한 주요 산업에서 고용 감소가 두드러지면서 40·50대 근로자들이 직접적인 타격을 받고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-26T09:49:05+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32232,37 +32264,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-20T09:50:55+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건산연, 2027년 건설·자재·부동산 전망 발표 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202610200940287246",
-    "description": "건산연은 지난해 11월 4일 같은 이름의 세미나에서 올해 국내 건설수주를 전년보다 4.0% 많은 231조2000억원으로 예상했다. 주택 매매가격은 전국 0.8%, 수도권 2.0% 오르고 지방은 내릴 것으로 봤으며, 전셋값 상승률은 4.0%로...",
-    "published_at": "2026-10-20T09:42:00+09:00",
-    "cluster_id": "f2ca",
-    "publisher": "fnnews.com",
-    "title_clean": "건산연, 2027년 건설·자재·부동산 전망 발표",
-    "summary": "건산연이 2027년 건설·자재·부동산 시장 전망을 발표했으며, 국내 건설수주를 231조2000억원으로 예상해 전년 대비 4.0% 증가할 것으로 내다봤다. 주택 매매가격은 전국 0.8%, 수도권 2.0% 상승하고 전셋값은 4.0% 오를 것으로 전망했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-20T09:50:55+09:00",
-    "importance": 3
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 건설현장 자원공유 확대…폐기 줄이고 비용 절감 - fntimes.com",
-    "link": "https://www.fntimes.com/html/view.php?ud=202610200935135332048b718333_18",
-    "description": "LH는 지난해 11월 경기 고양시 킨텍스에서 열린 '2025 스마트건설·안전·AI EXPO'에 전시했던 모듈러주택을 지역 장애인복지관에 전달했다. 전시 이후 폐기할 수 있었던 시설물을 재사용해 자원순환과 지역사회 공헌을...",
-    "published_at": "2026-10-20T09:42:00+09:00",
-    "cluster_id": "f59c",
-    "publisher": "fntimes.com",
-    "title_clean": "LH, 건설현장 자원공유 확대…폐기 줄이고 비용 절감",
-    "summary": "LH가 건설현장에서 발생하는 폐기물을 줄이고 자원을 재활용하는 '자원공유' 사업을 확대하고 있다. 전시 후 폐기될 모듈러주택을 지역 장애인복지관에 전달하는 등 자원순환과 지역사회 공헌을 동시에 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-20T09:50:55+09:00",
-    "importance": 2
   }
 ]
