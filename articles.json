@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "서울시, 건설 현장 영상기록 우수사례 14곳 선정 … 안정성 높이고 부실공사 예방 - Queen 이코노미퀸",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IN1FncHJtcnpacV9jb1h1WjY0NVBPd190OHpjUlZxVW9OeHZWekViQWlabDBOaS11V0ZHZThhVzE0dTlnZHNQSUNVYzJ4elZLWmJMSUNFVC1VamloRWVReDA1Z0xaTXJ4?oc=5",
+    "description": "서울시가 건설 현장의 안전성을 높이고 부실 공사를 예방하기 위해 동영상 촬영·기록 관리가 우수한 건설 현장 14곳을 선정한다. 시공 과정의 기록을 체계적으로 관리하고 현장별 우수사례를 공유해 건설업계 전반에 안전 문화를 확산한다는 취지다.서울시는 건설공사 동영상 기록관리 제도에 적극적으로 참여하고 우수한 관리체계를 갖춘 공공·민간 건설 현장을 발굴해 표창을 수여한다고 27일 밝혔다. 선정된 현장의 운영 사례와 관리 기법을 다른 현장에도 공유해 영상 기록의 실효성을 높이고 안전사고 예방에 활용할 계획이다.서울시는 앞서 2023년 건설",
+    "published_at": "2026-10-27T07:30:00+09:00",
+    "cluster_id": "01a1",
+    "publisher": "Queen 이코노미퀸",
+    "title_clean": "서울시, 건설 현장 영상기록 우수사례 14곳 선정 … 안정성 높이고 부실공사 예방",
+    "summary": "서울시가 건설 현장의 영상기록 관리가 우수한 14곳을 선정해 표창하고, 우수 사례를 업계 전반에 공유하여 안전 문화를 확산시킬 계획이다. 동영상 기록을 체계적으로 관리함으로써 부실공사 예방과 안전사고 감소를 목표로 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-27T07:44:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "summary": "건설경기 침체로 종합건설업체 수가 33개월째 감소세를 보이고 있으며, 전문건설업체의 폐업이 24% 증가하는 등 건설업계의 경영 여건이 악화하고 있다. 업체 수 감소와 폐업 증가는 건설업계 전반의 구조적 어려움을 시사한다.",
     "sentiment": "negative",
     "collected_at": "2026-10-21T10:01:44+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[조간신문 뉴스라인] 대전∙충남∙세종 21일 (수) - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3727594",
-    "description": "대전,세종,충남 조간신문 헤드라인 (국제뉴스) ★ 대전일보 : 침체 늪 못 벗어나는 건설경기 … 지방은행 빈자리 더 커진다. ★ 대전투데이 : 충청,호남 교육감들 ❝교육교부금 안정적 확보 절실❞ ★ 충청투데이 : ❝전년...",
-    "published_at": "2026-10-21T09:28:00+09:00",
-    "cluster_id": "a4b0",
-    "publisher": "gukjenews.com",
-    "title_clean": "[조간신문 뉴스라인] 대전∙충남∙세종 21일 (수)",
-    "summary": "대전·충남·세종 지역 조간신문 헤드라인을 정리한 뉴스라인으로, 건설경기 침체로 인한 지방은행 영업 부진과 교육교부금 확보 문제 등을 다루고 있습니다. 건설업계의 경기 침체가 금융권까지 영향을 미치고 있는 상황을 반영하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-21T09:36:39+09:00",
     "importance": 4
   }
 ]
