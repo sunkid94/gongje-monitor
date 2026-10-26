@@ -20981,6 +20981,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설업 규제",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "금융위, 카드·캐피탈사 부동산·건설업 대출 규제 강화…PF 포함 합산한도 50% 신설 - 제주뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Y20wa3FSM2FqdFV4Y3NVUEhDVHdRX2ZEWVYtMFBaY1BsR0FZVmRwZU1kVV9Ba2ZaVWZCOFE1dGxRNVZDNXZ2Rk4zaURlQXE3MUk3OVJKbnZfWlVhYmg1dUZDUTl4MXdvd1HSAW5BVV95cUxPSnFUaEMxbmNxcWFaZ0xmVU9aRWJMYkJCLXZ6X2w1UU5xQ0ZFRnhNSGllTF9jSXo5V2o4X19fd3BuTjZ1YWluRkkwdHI0YmkyWXJoZWZEd2JfT1E2YVJBZ1JYN3YwSHdoX1FrOEFXQQ?oc=5",
+    "description": "금융당국이 카드사와 캐피탈사 등 여신전문금융회사의 부동산·건설업 대출에 대한 규제를 강화한다. 부동산 프로젝트파이낸싱(PF) 부실과 건설경기 침체에 따른 금융회사의 위험을 줄이기 위해 업종별 대출한도를 신설하고 부동산 관련 대출의 합산한도도 제한하기로 했다.이와 함께 온라인 카드결제를 대행하는 전자지급결제대행업체(PG)에 대한 카드사의 위험 평가를 의무화하고, 여신전문금융회사의 렌탈업 취급한도는 완화한다.금융위원회는 지난 23일 이 같은 내용을 담은",
+    "published_at": "2026-10-26T15:45:01+09:00",
+    "cluster_id": "afc7",
+    "publisher": "제주뉴스",
+    "title_clean": "금융위, 카드·캐피탈사 부동산·건설업 대출 규제 강화…PF 포함 합산한도 50% 신설",
+    "summary": "금융당국이 카드사·캐피탈사 등 여신전문금융회사의 부동산·건설업 대출 규제를 강화하며, 부동산 PF를 포함한 합산한도 50%를 신설한다. 부동산 프로젝트파이낸싱 부실과 건설경기 침체에 따른 금융회사의 위험을 줄이기 위한 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-27T04:00:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32275,21 +32291,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-21T06:11:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"위기엔 함께 간다\"…건설업계 '미래 투자·동반 성장'으로 돌파구 - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006676",
-    "description": "아시아투데이 김다빈 기자 = 건설경기 침체와 고금리 장기화로 업황 부진이 이어지는 가운데 정부와 건설업계가 해외 신시장 개척과 지역 산업 육성, 협력사와의 상생을 앞세워 돌파구 마련에 나서고 있다. 단기적인...",
-    "published_at": "2026-10-21T06:00:00+09:00",
-    "cluster_id": "2b6c",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "\"위기엔 함께 간다\"…건설업계 '미래 투자·동반 성장'으로 돌파구",
-    "summary": "건설경기 침체와 고금리 장기화 속에서 정부와 건설업계가 해외 신시장 개척, 지역 산업 육성, 협력사 상생을 통해 위기 극복에 나서고 있다. 단기적 어려움에도 중장기적 미래 투자와 동반 성장을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-21T06:11:43+09:00",
-    "importance": 2
   }
 ]
