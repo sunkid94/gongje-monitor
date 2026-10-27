@@ -21015,6 +21015,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[아유경제_가로주택정비] 심곡본동 562-7 일원 가로주택정비, 최근 시공... - areyou.co.kr",
+    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95985",
+    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 입찰공고일 현재 「건설산업기본법」 제2조제7호에 따른 건설업자 또는 「주택법」 제7조제1항에 따라 건설업자로 보는 등록사업자로서...",
+    "published_at": "2026-10-27T12:24:00+09:00",
+    "cluster_id": "80c9",
+    "publisher": "areyou.co.kr",
+    "title_clean": "[아유경제_가로주택정비] 심곡본동 562-7 일원 가로주택정비, 최근 시공...",
+    "summary": "심곡본동 562-7 일원에서 가로주택정비 사업이 진행 중이며, 일반경쟁입찰 방식으로 건설업자를 모집하고 있다. 건설산업기본법 및 주택법에 따른 등록된 건설업체의 입찰 참여가 가능하다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-27T12:30:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-21T17:45:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토안전관리원, 민간 건설현장 ‘안전신호등’ 확대…삼안과 안전협의체 구축 - NSP통신",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRmRaend2bGpVYjhqYUtlTkRGY0x6SHZxTTZ0QVk5aVlDbksxc3prZHh0cmV3X3VKTnNDS3BXeVI1Vk9Rbngzb3NIY1p1YTVmUTg3RWdaQTZoMEk5X0dDVQ?oc=5",
-    "description": "국토안전관리원이 공공 발주 현장에서 운영해 온 안전관리체계를 민간 건설현장으로 확대한다. 국토안전관리원은 건설엔지니어링 기업 삼안과 안전협의체를 구성하고 감리사가 참여하는 ‘민간신호등’ 운영을 통해 현장 안전관리와 부실시공 예방을 강화할 계획이다.",
-    "published_at": "2026-10-21T17:30:36+09:00",
-    "cluster_id": "cfb1",
-    "publisher": "NSP통신",
-    "title_clean": "국토안전관리원, 민간 건설현장 ‘안전신호등’ 확대…삼안과 안전협의체 구축",
-    "summary": "국토안전관리원이 공공 현장의 안전관리체계를 민간 건설현장으로 확대하기 위해 삼안과 안전협의체를 구축했다. 감리사 참여 기반 '민간신호등' 운영을 통해 현장 안전관리 강화와 부실시공 예방을 추진할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-21T17:45:32+09:00",
-    "importance": 4
   }
 ]
