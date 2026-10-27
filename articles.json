@@ -21066,6 +21066,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국노총 타워크레인분과, DL이앤씨 사고 단식농성장 방문…\"노조 넘어... - mhns.co.kr",
+    "link": "https://www.mhns.co.kr/news/articleView.html?idxno=766205",
+    "description": "한국노총 전국섬유건설노동조합 타워크레인분과 집행부가 DL이앤씨 타워크레인 사고와 관련해 청와대 앞에서 무기한 단식투쟁을 벌이고 있는 민주노총 타워크레인분과 최동주 위원장을 27일 찾아 연대의 뜻을  밝혔다....",
+    "published_at": "2026-10-27T20:32:00+09:00",
+    "cluster_id": "8fb3",
+    "publisher": "mhns.co.kr",
+    "title_clean": "한국노총 타워크레인분과, DL이앤씨 사고 단식농성장 방문…\"노조 넘어...",
+    "summary": "한국노총 타워크레인분과가 DL이앤씨 타워크레인 사고로 청와대 앞에서 단식투쟁 중인 민주노총 위원장을 방문해 연대 의사를 표현했다. 건설업 안전사고 관련 노조 간 연대 활동이 확산되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-27T20:44:58+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32280,21 +32296,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-21T19:01:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중대재해 반복 기업 …현대건설·포스코이앤씨 '최다 불명예' - 산경투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVGg5R3RwSHZTbFA3QVZDVm9YMTNzRjNwbllFTzJ4NENjYk0zTS1MRlkxaVhnemFTNzV6dllINl93dmU1S2FrYnBtOVdJMU0xOWl6ME80Vkx5UjhJdmlVZHdhd3JQTGlVRzN3NDZGRXDSAXRBVV95cUxPTG45dUpPbHpuUGM4R2oyLTZxWWgzU3o3eFM4VS1mWU5zaThlNnVRTjhXQzlmRWlFMVppTGYzSllLZnlEcnVoSWswTjVLMm9ZMDkxalF3WFZkNXdGd0VQQkstQ2xuZWU4WlhYMFduVkROZ2tIeg?oc=5",
-    "description": "[산경투데이 = 이준영 기자]국내 주요 기업에서 중대재해가 잇따르는 가운데 최근 21개월간 중대재해 발생 사실을 세 차례 이상 정부에 보고한 기업이 11곳에 달하는 것으로 나타났다.특히, 이들 기업의 70% 이상이 건설사로 확인되면서 건설 현장의 안전관리 실효성에 대한 우려가 커지고",
-    "published_at": "2026-10-21T09:29:38+09:00",
-    "cluster_id": "d6bc",
-    "publisher": "산경투데이",
-    "title_clean": "중대재해 반복 기업 …현대건설·포스코이앤씨 '최다 불명예'",
-    "summary": "최근 21개월간 중대재해를 3회 이상 정부에 보고한 기업이 11곳에 달하며, 이 중 70% 이상이 건설사인 것으로 나타났다. 현대건설과 포스코이앤씨가 중대재해 반복의 '최다 불명예' 기업으로 지목되면서 건설 현장의 안전관리 실효성에 대한 우려가 증대되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-21T19:01:26+09:00",
-    "importance": 4
   }
 ]
