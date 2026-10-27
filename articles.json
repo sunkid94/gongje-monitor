@@ -5015,6 +5015,22 @@
     "importance": 6
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘트리븐 센텀’, 부산 반여동서 총 1,644세대 청약 돌입 - sportsseoul.com",
+    "link": "https://www.sportsseoul.com/news/read/1644447?ref=naver",
+    "description": "이 단지는 두산에너빌리티㈜가 시공하며, 1단지 852세대와 2단지 792세대로 총 1천644세대 규모다. 트리븐 센텀의 가장 큰 강점은 부산의 미래 성장거점으로 기대되는 센텀2지구와 가까운 입지다. 센텀2지구 진입도로에서...",
+    "published_at": "2026-10-27T11:47:00+09:00",
+    "cluster_id": "3311",
+    "publisher": "sportsseoul.com",
+    "title_clean": "‘트리븐 센텀’, 부산 반여동서 총 1,644세대 청약 돌입",
+    "summary": "두산에너빌리티가 시공하는 '트리븐 센텀'이 부산 반여동에서 총 1,644세대(1단지 852세대, 2단지 792세대) 규모로 청약을 시작했다. 센텀2지구 근처의 입지를 강점으로 내세우며 부산의 미래 성장거점 프로젝트로 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T11:56:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20999,19 +21015,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "오세철의 '13조 승부수'..여의도 최대어 품고 목동으로 - peoplewatch.co.kr",
-    "link": "https://www.peoplewatch.co.kr/article/view/ppw202610190011",
-    "description": "현대건설과 대우건설 등 경쟁사도 여의도 사업장을 따낸 가운데 규모가 가장 큰 단지를 삼성물산이 가져갔다. 수주 과정에서 경쟁은 벌어지지 않았다. 지난 8월 1차 입찰에 삼성물산만 참여했고, 재입찰도 경쟁이...",
-    "published_at": "2026-10-19T11:46:00+09:00",
-    "cluster_id": "697f",
-    "publisher": "peoplewatch.co.kr",
-    "title_clean": "오세철의 '13조 승부수'..여의도 최대어 품고 목동으로",
-    "summary": "삼성물산이 여의도 개발 사업에서 규모가 가장 큰 단지를 수주했으며, 현대건설, 대우건설 등 경쟁사도 각각 사업장을 따냈다. 1차 입찰에서 삼성물산만 참여하는 등 경쟁 입찰 과정이 제한적으로 진행되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-19T11:49:55+09:00",
+    "title": "이 대통령 \"주택 착공 최대한 높여라 필요하면 재정 지원도\" - mhj21.com",
+    "link": "https://www.mhj21.com/news/articleView.html?idxno=254526",
+    "description": "건설경기 활성화·주택 공급 확대 동시 주문 \"공공사업 집행에도 속도\" 이재명 대통령이 주택 공급 확대와 건설경기 활성화를 위해 주택 착공 실적을 최대한 끌어올리고, 필요할 경우 국가 차원의 신용 지원과 재정...",
+    "published_at": "2026-10-27T11:48:00+09:00",
+    "cluster_id": "11fb",
+    "publisher": "mhj21.com",
+    "title_clean": "이 대통령 \"주택 착공 최대한 높여라 필요하면 재정 지원도\"",
+    "summary": "이재명 대통령이 주택 착공 실적 확대와 건설경기 활성화를 위해 재정 지원과 공공사업 속도 추진을 지시했습니다. 주택 공급 확대와 건설 시장 부양을 동시에 추진하는 정부 정책입니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T11:56:00+09:00",
     "importance": 2
   },
   {
@@ -32277,21 +32293,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-21T17:45:32+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "인천 남동구의회 복지건설위, 재난안전·보건복지 시설 현장점검 - 중부일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZRy1OZVNVSFQxYUV4M2toc3NWRVRyUTgxSGhxbFdTZktEU3R1bHZuM3FCdm83d1h6UmxHV1hKTldLOEFDWU8wbTc3ZTV6ZjRUeU1YYW92eG5IU052cWdPNkRpOXZKRDBIZHlUNG5B?oc=5",
-    "description": "인천 남동구의회 복지건설위원회가 구민 안전과 복지 증진을 위해 주요 시설 현장점검에 나섰다.",
-    "published_at": "2026-10-21T14:06:00+09:00",
-    "cluster_id": "be10",
-    "publisher": "중부일보",
-    "title_clean": "인천 남동구의회 복지건설위, 재난안전·보건복지 시설 현장점검",
-    "summary": "인천 남동구의회 복지건설위원회가 지역 재난안전 및 보건복지 시설에 대한 현장점검을 실시했다. 구민의 안전과 복지 증진을 위한 정책적 점검 활동으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-21T17:45:32+09:00",
-    "importance": 2
   }
 ]
