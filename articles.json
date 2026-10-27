@@ -21066,6 +21066,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "노후 산단 재생 3곳 추가…태양광·근로자 편의시설까지 지원 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37519",
+    "description": "정부가 올해 노후 산업단지 재생사업 대상지 3곳을 새로 선정한다. 도로와 주차장 등 기반시설을 정비하면서 태양광 등 재생에너지 시설과 근로자 편의시설도 지원한다. 지역소멸 위험과 서울과의 거리 등을 반영한 ‘지방우대지수’도 공모 평가에 적용한다.국토교통부는 2026년 노후 산업단지 재생사업 대상지 3곳을 선정하기 위한 공모를 시작한다고 27일 밝혔다. 지방정부의 제안서를 다음 달 24일까지 받고 전문가 평가를 거쳐 12월 대상지를 정한다.노후 산업단지는 착공 후 20년이 지난 산업단지를 말한다. 지난해 말 기준 전국 산업단지 137",
+    "published_at": "2026-10-27T16:45:00+09:00",
+    "cluster_id": "80f1",
+    "publisher": "한국건설신문",
+    "title_clean": "노후 산단 재생 3곳 추가…태양광·근로자 편의시설까지 지원",
+    "summary": "정부가 노후 산업단지 재생사업 대상지 3곳을 새로 선정하여 도로, 주차장 등 기반시설과 태양광 등 재생에너지 시설, 근로자 편의시설을 지원한다. 지방우대지수를 공모 평가에 적용하여 지역소멸 위험과 지역 격차를 완화하는 정책을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T17:26:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32278,22 +32294,6 @@
     "title_clean": "토목학회, ‘KSCE 2026 CONVENTION’』 강원도 정선에서 개최",
     "summary": "대한토목학회가 10월 21~23일 강원도 정선 하이원리조트에서 52회차 'KSCE 2026 CONVENTION'을 개최한다. '혁신·성장·안전'을 주제로 토목공학의 시대적 과제 해결과 미래 방향을 모색하는 행사가 진행될 예정이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-21T18:31:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "허명수 GS건설 상임고문 \"융합 'K-GX'…실행 중심 민관 파트너십 필수\" - 파이낸셜포스트",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CM2xObUdFYndEZEU2VXVBVDNUQTNSS2JaMVlRSDFJMFB6U1NsOGZqV04taGpZZi11aEVRVHZqbmpVT3hhY1EtQk5OTFc0dXZxMmxJckJTbTdLRWxKRDZla3F6YnBZWVJYTjN2U0p1UUsxWDNw?oc=5",
-    "description": "허명수 GS건설 상임고문(KBCSD 명예회장)이 21일 기후에너지환경부와 KBCSD(한국지속가능발전기업협의회)가 공동 개최한 '제18회 KBCSD 리더스 포럼'에 참석해 한국형 녹색대전환(K-GX)을 위한 민관협력 체계 구축을 강조했다.'AX의 지능으로, GX의 가치를 완성하다'를 주",
-    "published_at": "2026-10-21T15:59:50+09:00",
-    "cluster_id": "432a",
-    "publisher": "파이낸셜포스트",
-    "title_clean": "허명수 GS건설 상임고문 \"융합 'K-GX'…실행 중심 민관 파트너십 필수\"",
-    "summary": "허명수 GS건설 상임고문이 KBCSD 리더스 포럼에서 한국형 녹색대전환(K-GX) 추진을 위한 민관협력 체계 구축의 중요성을 강조했다. AI와 녹색전환의 융합을 통해 지속가능한 성장을 이루겠다는 기업의 리더십 메시지로 평가된다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-21T18:31:38+09:00",
     "importance": 2
   }
