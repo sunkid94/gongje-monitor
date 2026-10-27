@@ -21015,6 +21015,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "李대통령 “주택착공 최대한 늘려야…필요하면 재정지원도 고려” - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2640492",
+    "description": "주택 공급을 확대하면서 침체된 건설경기도 활성화할 수 있도록 필요하면 신용지원뿐 아니라 재정지원까지 고려하라고 주문했다. 이 대통령은 이날 청와대에서 주재한 국무회의에서도 “주택 부문은 주택 공급 자체도...",
+    "published_at": "2026-10-27T10:34:00+09:00",
+    "cluster_id": "1254",
+    "publisher": "etoday.co.kr",
+    "title_clean": "李대통령 “주택착공 최대한 늘려야…필요하면 재정지원도 고려”",
+    "summary": "이 대통령이 주택착공 확대를 지시하며 신용지원뿐 아니라 재정지원까지 고려하도록 주문했다. 주택 공급 확대를 통해 침체된 건설경기 활성화를 도모하는 정책 기조를 드러냈다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-27T10:40:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-21T16:13:12+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[창간22주년 특집: DL이앤씨, 경쟁력의 새 기준] ② DL이앤씨, 12개 사업... - upkoreanews.kr",
-    "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=100752",
-    "description": "앞선 보도에 따르면 DL이앤씨가 한솔홈데코와 공동 개발한 욕실용 건식벽체 방수시스템은 국토교통부 건설신기술 인증을 획득했으며, 아크로와 e편한세상 현장에 적용되고 있는 것으로 알려졌다. 해당 기술은 기존...",
-    "published_at": "2026-10-21T16:02:00+09:00",
-    "cluster_id": "1a59",
-    "publisher": "upkoreanews.kr",
-    "title_clean": "[창간22주년 특집: DL이앤씨, 경쟁력의 새 기준] ② DL이앤씨, 12개 사업...",
-    "summary": "DL이앤씨가 한솔홈데코와 공동개발한 욕실용 건식벽체 방수시스템이 국토교통부 건설신기술 인증을 획득했다. 해당 기술은 아크로와 e편한세상 현장에 적용되며 기존 공법을 개선한 혁신 기술로 평가된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-21T16:13:12+09:00",
-    "importance": 2
   }
 ]
