@@ -21100,6 +21100,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "정부, '주택 신속공급' 박차…한 총리 \"끝까지 챙기겠다\" - joseilbo.com",
+    "link": "http://www.joseilbo.com/news/news_read.php?uid=578291&class=32&grp=",
+    "description": "이 대통령은 지난 26일 청와대에서 주재한 국무회의에서 \"집행이 부진한 공공사업에 속도를 내야 하며, 주택 착공실적도 최대한 높여야 한다\"며 \"주택은 공급 자체도 의미가 있고, 부진한 건설경기를 활성화하는 측면도...",
+    "published_at": "2026-10-28T04:31:00+09:00",
+    "cluster_id": "a9ee",
+    "publisher": "joseilbo.com",
+    "title_clean": "정부, '주택 신속공급' 박차…한 총리 \"끝까지 챙기겠다\"",
+    "summary": "정부가 주택 신속공급을 추진하면서 집행이 부진한 공공사업과 주택 착공실적을 높이기로 결정했다. 이는 건설경기 활성화와 주택 공급 확대를 동시에 추진하려는 정책으로, 건설업계의 사업 기회 증가로 이어질 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-28T04:55:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32281,22 +32297,6 @@
     "summary": "한국건설안전학회가 AI를 활용한 건설현장 위험성평가 및 안전관리 기술을 공개했다. 생성형 AI를 통해 위험요인 분석, 위험성평가, 안전기록 작성 등 안전관리 업무의 효율화를 도모하는 연구 결과를 공유했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-22T02:41:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "강원개발공사, 안전한국훈련 연계 노사합동 특별 안전 점검 - 강원일보",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rdjFSeV91WlFCV2N1Qmx4Q2RuN0R1ZEtBZ0hsY3pmWC0yZUNuV1FvcmxIdFI4RTRLU0dMOVBGNFRpdnFiNTVaSG9SOFpsZVpNdjBJYXl5U3ZTTTg?oc=5",
-    "description": "강원개발공사는 21일 평창 그린바이오 건립사업 현장에서 ‘2026년 안전한국훈련’과 연계한 노사합동 특별 안전점검을 실시했다. 이번 점검은 지진·화재·산불 등 각종 재난에 대비하는 안전한국훈련의 취지에 맞춰 건설현장의 안전관리 실태와 비상대응체계를 확인하고 사고 예방을",
-    "published_at": "2026-10-21T14:47:26+09:00",
-    "cluster_id": "a595",
-    "publisher": "강원일보",
-    "title_clean": "강원개발공사, 안전한국훈련 연계 노사합동 특별 안전 점검",
-    "summary": "강원개발공사가 평창 그린바이오 건립사업 현장에서 2026년 안전한국훈련과 연계한 노사합동 특별 안전점검을 실시했다. 지진·화재·산불 등 각종 재난에 대비하여 건설현장의 안전관리 실태와 비상대응체계를 확인하고 사고 예방을 강화하는 훈련이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-22T02:32:50+09:00",
     "importance": 2
   }
 ]
