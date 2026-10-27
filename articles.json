@@ -21066,6 +21066,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "신고 안 하면 없는 미분양?…정부 통계의 ‘불편한 진실’ - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1706901/?sc=Naver",
+    "description": "미분양 적체가 건설경기 침체를 가중하는 가운데, 이를 관리하는 체계에도 허점이 있다는 지적이 나온다. 정부의 아파트 미분양 통계가 사업자 신고에 의존해 과소 집계 우려가 있는 데다, 비아파트는 미분양 실태 파악...",
+    "published_at": "2026-10-28T07:32:00+09:00",
+    "cluster_id": "a000",
+    "publisher": "dailian.co.kr",
+    "title_clean": "신고 안 하면 없는 미분양?…정부 통계의 ‘불편한 진실’",
+    "summary": "미분양 적체가 건설경기를 악화시키는 가운데, 정부 미분양 통계가 사업자 신고에만 의존해 실제 규모를 과소 집계하고 있다는 문제점이 지적되고 있다. 통계 체계의 허점으로 인해 건설 부진 상황이 제대로 파악되지 못하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-28T07:45:12+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“미국에 버려진 한국 입양인들, 이제 우리가 품어야죠” - sedaily.com",
+    "link": "https://www.sedaily.com/article/20106643?ref=naver",
+    "description": "과거 파독 광부와 간호사, 중동 건설 노동자, 베트남 파병 군인처럼 외화벌이의 한 수단이기도 했던 입양인들에 대해 우리 정부도 책임감을 가져야 한다는 지적이다. 길명순 월드허그파운데이션(WHF) 이사장은 27일...",
+    "published_at": "2026-10-28T07:31:00+09:00",
+    "cluster_id": "efb5",
+    "publisher": "sedaily.com",
+    "title_clean": "“미국에 버려진 한국 입양인들, 이제 우리가 품어야죠”",
+    "summary": "미국으로 입양된 한국 입양인들의 사회적 문제를 다룬 기사로, 과거 외화벌이 수단이었던 입양인들에 대해 정부의 책임감을 촉구하고 있다. 건설업계와 직접적인 연관이 없는 사회복지 정책 관련 뉴스이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-28T07:45:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32264,37 +32296,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-22T02:51:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설업 규제",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "한승구 건협회장 \"삼중규제 현실화 땐 대기업도 못 버텨\" - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rZU5KdloxeU1TMFlLcDM4ZXhsQlQ3N3ZRLTQwRTNyRFVoX3dKeVNoblowcVhUSUdxQldTeEN3WHVrbUdMdXY4X1dVTG5sbHd3Y0JsT20tRWl0ei1JTnppN0s4NUVpd3JsOENhMnY1NNIBb0FVX3lxTE5rZU5KdloxeU1TMFlLcDM4ZXhsQlQ3N3ZRLTQwRTNyRFVoX3dKeVNoblowcVhUSUdxQldTeEN3WHVrbUdMdXY4X1dVTG5sbHd3Y0JsT20tRWl0ei1JTnppN0s4NUVpd3JsOENhMnY1NA?oc=5",
-    "description": "한승구 대한건설협회 회장은 21일 기자간담회에서 \"건설경기 침체가 장기간 지속되는 가운데 회복세가 수도권과 공공부문에 편중되면서 지방·민간 건설경기의 부진이 심화하고 있다\"고 말했다.",
-    "published_at": "2026-10-21T16:46:55+09:00",
-    "cluster_id": "9c48",
-    "publisher": "머니투데이",
-    "title_clean": "한승구 건협회장 \"삼중규제 현실화 땐 대기업도 못 버텨\" - 머니투데이",
-    "summary": "한승구 대한건설협회 회장이 건설경기 침체 심화를 지적하며, 수도권과 공공부문에만 회복이 편중되면서 지방과 민간 건설경기가 부진하고 있다고 우려했다. 제목의 '삼중규제' 언급으로 보아 규제 강화로 인한 업계 위기를 경고하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-22T02:41:33+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설·제조업 중대재해 실태 - 메디컬투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTFpaNEZ2dElIN2U1UFk4SFlIYXBZdjdjUHhtMlNSRW1vVG9KWlU1ME1ZOWlzNVdtSmNPNHhhZGg0WDVJTXV0TjlwcFUtQ1FVT3BIekhhZnJ1dmRETmNzR0ZjbElQdUpYRG9RSg?oc=5",
-    "description": "• 중대재해처벌법 시행 5년 차에 접어들었음에도 주요 기업들의 산업재해는 여전히 근절되지 않고 있으며, 특히 최근 21개월 동안 고용노동부에 3건 이상의 중대재해",
-    "published_at": "2026-10-21T17:53:44+09:00",
-    "cluster_id": "5a18",
-    "publisher": "메디컬투데이",
-    "title_clean": "건설·제조업 중대재해 실태",
-    "summary": "중대재해처벌법 시행 5년이 지났음에도 건설·제조업의 산업재해가 계속 발생하고 있으며, 최근 21개월간 3건 이상의 중대재해를 기록한 기업들이 적발되었다. 이는 업계의 안전 관리 체계가 여전히 미흡함을 보여준다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-22T02:41:33+09:00",
-    "importance": 4
   }
 ]
