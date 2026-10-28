@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "기계설비건설협회·물가협회, 공사비 적정성 확보 위해 맞손 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3735847",
+    "description": "대한기계설비건설협회-한국물가협회, 업무협약(MOU)  기계설비산업의 경쟁력 강화를 목표로 대한기계설비건설협회와 한국물가협회가 손을 잡았다. 두 기관은 기계설비 표준품셈과 가격정보의 데이터베이스를 구축하고...",
+    "published_at": "2026-10-28T22:32:00+09:00",
+    "cluster_id": "1670",
+    "publisher": "gukjenews.com",
+    "title_clean": "기계설비건설협회·물가협회, 공사비 적정성 확보 위해 맞손",
+    "summary": "대한기계설비건설협회와 한국물가협회가 기계설비산업의 경쟁력 강화를 위해 업무협약을 체결했다. 표준품셈과 가격정보 데이터베이스 구축을 통해 공사비 적정성 확보에 나선다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-28T22:45:58+09:00",
+    "event_label": "대한기계설비건설협회·한국물가협회 업무협약 체결",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32295,21 +32312,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-22T15:51:20+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "한은 \"반도체 훈풍, 내년부터 소비로 확산\"⋯관건은 부채·증시조정 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2639017",
-    "description": "그러나 가계부채 누증과 주택건설경기 부진, 증시 조정에 따른 '역자산효과' 등은 소비 반등을 늦출 수 있는 주요 변수로 지목됐다. 22일 한은 조사국 경기동향팀은 22일 발표한 '향후 민간소비의 회복 여건 점검' 보고서를...",
-    "published_at": "2026-10-22T15:34:00+09:00",
-    "cluster_id": "14ce",
-    "publisher": "etoday.co.kr",
-    "title_clean": "한은 \"반도체 훈풍, 내년부터 소비로 확산\"⋯관건은 부채·증시조정",
-    "summary": "한은은 반도체 산업 회복이 내년 소비 확대로 이어질 것으로 전망했으나, 가계부채 증가와 증시 조정으로 인한 역자산효과가 소비 회복을 지연시킬 수 있다고 지적했다. 건설경기 부진도 주요 악재로 언급되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-22T15:41:53+09:00",
-    "importance": 4
   }
 ]
