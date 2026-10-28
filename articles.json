@@ -21321,6 +21321,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "LG전자, 3분기 영업익 13.5% ↑…TV 흑자 전환에 수익성 개선 - newstopkorea.com",
+    "link": "https://www.newstopkorea.com/news/articleView.html?idxno=48564",
+    "description": "해외 상업용 공조 제품 판매가 증가했지만 국내 건설경기 침체와 소비심리 위축 등의 영향으로 수익성은 다소 낮아졌다. ◆ AIDC 냉각솔루션 수주 3조원 돌파…통합 솔루션 사업 확대 LG전자는 기존 가전 중심의...",
+    "published_at": "2026-10-29T07:40:00+09:00",
+    "cluster_id": "ea02",
+    "publisher": "newstopkorea.com",
+    "title_clean": "LG전자, 3분기 영업익 13.5% ↑…TV 흑자 전환에 수익성 개선",
+    "summary": "LG전자의 3분기 영업익이 13.5% 증가했으며, AIDC 냉각솔루션 수주가 3조원을 돌파하여 통합 솔루션 사업을 확대하고 있습니다. 다만 국내 건설경기 침체와 소비심리 위축으로 인해 수익성 개선은 제한적입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-29T07:53:28+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32292,22 +32308,6 @@
     "publisher": "엔지니어링데일리",
     "title_clean": "삼안, 국토안전관리원과 안전관리 강화 업무협약",
     "summary": "삼안이 국토안전관리원과 건설현장 안전사고 예방을 위한 업무협약을 체결했다. 검증된 안전관리체계를 민간 건설현장까지 확대 적용하고 KALIS 시스템 운영, 감리사 공동참여 등을 추진할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-22T16:11:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설협회 전북도회, 건설안전 역량 강화 교육 실시 - 전라일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jWkplMlR2UFROZkJuRDg1azZrZHNITWZla2xOcHdUZl95a3NuN0lCOXp1OXZGMGtTUWV6TExyRHQ5ZElqSE5WblZUb2J5RnBud3F0OUdTd0xwUFJJTHRMZ1dJT0lmMlBGQml4bNIBcEFVX3lxTFBYakwzTDB3dEQ1V3RoQkstbW9BRnFnLUw0azNWbkZzMUJEbk0xT3pIMVVzeDA4aWtXa2xWMm0tUVBPeXY3b2JQUGU3Ui1OYzZwSXJCMzRxR3RFMUJVVFY5UnRHQWxuMHlmYTVwRlpoQUw?oc=5",
-    "description": "대한건설협회 전북특별자치도회가 건설 현장의 사고를 예방하고 강화되는 안전 관련 법규에 효과적으로 대응하기 위해 안전관리 역량 강화에 나섰다.대한건설협회 전북특별자치도회(회장 소재철)는 건설기술교육원(원장 권대철)과 22일 전주 건설회관 대강당에서 회원사 대표와 안전업무 담당 임직원 등 150여 명을 대상으로",
-    "published_at": "2026-10-22T15:46:17+09:00",
-    "cluster_id": "d505",
-    "publisher": "전라일보",
-    "title_clean": "건설협회 전북도회, 건설안전 역량 강화 교육 실시",
-    "summary": "대한건설협회 전북특별자치도회가 건설 현장의 안전사고 예방과 강화되는 안전법규 대응을 위해 150여 명의 회원사 대표와 안전담당자를 대상으로 안전관리 역량 강화 교육을 실시했다. 이는 건설업계의 안전 기준 강화에 대한 대응 노력이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-22T16:11:53+09:00",
     "importance": 2
