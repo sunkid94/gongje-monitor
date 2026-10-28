@@ -5270,6 +5270,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 청라·예천·사하에 2700가구 공급 - hankyung.com",
+    "link": "https://www.hankyung.com/article/2026102813501",
+    "description": "대우건설이 올 4분기 인천 청라국제도시와 경북도청신도시 등 전국 3개 단지에서 아파트 2700여 가구를 공급한다. 청라와 경북도청은 새 아파트 분양이 10년 가까이 뜸했던 곳이다. 청약 흥행과 정비사업 수주...",
+    "published_at": "2026-10-28T17:33:00+09:00",
+    "cluster_id": "762c",
+    "publisher": "hankyung.com",
+    "title_clean": "대우건설, 청라·예천·사하에 2700가구 공급",
+    "summary": "대우건설이 4분기 인천 청라국제도시, 경북도청신도시 등 3개 단지에서 2700가구 규모 아파트를 공급한다. 10년 가까이 공급이 없었던 지역의 신규 분양으로 시장 활성화가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-28T17:46:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21249,22 +21265,6 @@
     "publisher": "mediapen.com",
     "title_clean": "건설사들, 외형 줄어도 이익 늘었다…4분기 대형 수주 '승부수'",
     "summary": "대우건설이 3분기 영업이익 1658억 원으로 전년 동기 대비 193% 상승하며 이익 성장세를 보이고 있다. 건설사들이 외형 규모는 줄어들었으나 수익성 개선으로 4분기 대형 수주 수주에 나설 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-21T11:01:55+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"청약 흥행에도 국민평형 인기\"..아이파크, 청주 84㎡에 신청 절반 몰렸... - kpenews.com",
-    "link": "https://kpenews.com/View.aspx?No=4272549",
-    "description": "지난 4월 분양한 대우건설의 '청주 푸르지오 씨엘리체'는 1순위 평균 경쟁률이 6.47대 1에 그쳤지만 8월 전 가구 계약을 마쳤다. 이번 7·8단지는 당첨자 발표일이 달라 중복 청약이 가능하다. 신청 건수를 실제...",
-    "published_at": "2026-10-21T10:48:00+09:00",
-    "cluster_id": "9139",
-    "publisher": "kpenews.com",
-    "title_clean": "\"청약 흥행에도 국민평형 인기\"..아이파크, 청주 84㎡에 신청 절반 몰렸...",
-    "summary": "청주 푸르지오 씨엘리체는 낮은 초기 경쟁률에도 불구하고 8월 전 가구 계약을 완료했으며, 84㎡ 국민평형이 신청의 절반을 차지하며 인기를 끌고 있다. 중복 청약 가능 구조로 인한 수요 집중이 분양 성공을 견인하는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-21T11:01:55+09:00",
     "importance": 2
