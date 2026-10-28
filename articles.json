@@ -5321,23 +5321,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한적십자사 전북특별자치도지사-건설공제조합, 조손가정 ‘맞춤형 장보기’ 지원 활동 실시 - 전북도민일보",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTi1KSjBPZ3pQSkZRTFpqNXVYb1JudUpNSUs3WG5MclJxYTlOVGtnOXlhaTNmTWtzS2dsbFFJLUxpS05PbGFQV0JGeUtNY09lWXVBZUJQcnNTdE9QSmNSd1g4aDhRVHpWc0JDaTd0Yk1BN0ptSmRnZWgwdDVvY2Znb2wzZVlFQQ?oc=5",
-    "description": "대한적십자사 전북특별자치도지사(회장 김홍식)가 건설공제조합 중부보상센터와 함께 지역 내 조손가정을 위한 ‘맞춤형 장보기’ 지원 활동을 실시했다.봉사자들은 수혜 가구에 필요한 물품을 사전 파악 후 식재료 및 생필품 등을 장바구니에 담으며 따뜻한 정을 나눴다.고상진 건설공제조합 중부보상센터 부센터장은 “수혜 가구에 꼭 필요한 물품을 현장에서 전달할 수 있어 매우 뜻깊은 시간이었다”며 “지역사회 소외된 이웃들의 든든한 울타리가 될 수 있도록 노력하겠다”고 말했다.김민웅 수습기자",
-    "published_at": "2026-09-28T17:22:00+09:00",
-    "cluster_id": "9c27",
-    "publisher": "전북도민일보",
-    "title_clean": "대한적십자사 전북특별자치도지사-건설공제조합, 조손가정 ‘맞춤형 장보기’ 지원 활동 실시",
-    "summary": "대한적십자사 전북특별자치도지사가 건설공제조합 중부보상센터와 함께 지역 조손가정을 위한 맞춤형 장보기 지원 활동을 실시했다. 봉사자들이 수혜 가구의 필요한 물품을 사전 파악 후 식재료와 생필품을 전달하는 사회공헌 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-09-28T19:08:51+09:00",
-    "event_label": "건설공제조합 지역 조손가정 맞춤형 장보기 지원 활동",
-    "importance": 5
-  },
-  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21335,6 +21318,22 @@
     "summary": "인천공항 랜드마크 사업이 투자협의 후 일시 중지되면서 24억 원의 용역비가 낭비됐다. 신한은행과 현대산업개발 컨소시엄의 투자가 무산되면서 건설·개발 사업 지연으로 인한 손실 발생.",
     "sentiment": "negative",
     "collected_at": "2026-10-21T11:27:06+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[이슈하이킥] 산재 사망자 역대 '최저'.. '영업이익 5% 과징금'·'신고포... - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115372",
+    "description": "일각에서는 건설경기가 좋지 않아 현장 자체가 줄어든 영향 아니냐는 분석도 있는데요. 본부장님은 이유가 뭘로 보고 계십니까? ◀류현철▶ 건설경기와 사고사망자 수가 항상 같이 움직이는 것은 아닙니다. 사망자 증감은...",
+    "published_at": "2026-10-28T19:00:00+09:00",
+    "cluster_id": "6ca7",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "[이슈하이킥] 산재 사망자 역대 '최저'.. '영업이익 5% 과징금'·'신고포...",
+    "summary": "산재 사망자가 역대 최저 수준을 기록했으나, 건설경기 침체로 인한 현장 감소가 영향을 미쳤을 가능성이 제기되고 있습니다. 정부는 영업이익 과징금 부과 등 규제를 강화하고 있는 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-28T19:16:56+09:00",
     "importance": 4
   },
   {
