@@ -21151,6 +21151,38 @@
     "importance": 3
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "전남도회, 여수시와 전문건설사업자 직무역량 강화교육 실시 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327261",
+    "description": "대한전문건설협회 전남도회(회장 강성진)는 28일 여수시와 공동으로 여수문화홀에서 ‘2026년 전문건설업 종사자 직무교육’을 실시했다.여수 관내 전문건설사업자 300여명을 대상으로 한 이번 교육은 전문건설사업자의 건설업 관련 법령 및 제도에 대한 이해를 높이고, 급변하는 건설산업환경에 능동적으로 대응할 수 있는 실무역량을 강화하기 위해 마련됐다.이날 교육에서는 도회 유성규 회원지원실장과 박진영 과장이 강사로 나서 주요 협회 추진사항 및 성과를 비롯한 건설산업기본법 등 건설업 관련 법령과 제도를 중심으로 강의를 진행했다.이어 이봉철 강",
+    "published_at": "2026-10-29T17:18:06+09:00",
+    "cluster_id": "c39a",
+    "publisher": "대한전문건설신문",
+    "title_clean": "전남도회, 여수시와 전문건설사업자 직무역량 강화교육 실시",
+    "summary": "대한전문건설협회 전남도회가 여수시와 함께 전문건설사업자 300여 명을 대상으로 직무역량 강화교육을 실시했다. 건설업 관련 법령, 제도 이해 및 산업환경 변화 대응 능력을 키우기 위한 교육으로, 협회 추진사항과 건설산업기본법 등을 주요 내용으로 진행했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-29T17:26:09+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[국감 이슈] “외국인 고용제한, 사업주→ 현장단위로 바꿔야” - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327263",
+    "description": "국정감사가 지난달 27일 마무리됐다. 건설현장 산재 예방, 외국인력 정책, 장애인 의무고용 등과 관련한 국회의원들의 지적사항을 정리했다.◇AI 예측 건설 고위험 사업장 점검률 63.8%···120억원 이상은 37.1%국회 기후에너지환경노동위원회 소속 더불어민주당 박정 의원(경기 파주시을)이 산업안전보건공단으로부터 제출받은 자료에 따르면, 올해 1~9월 인공지능(AI)시스템으로 예측한 건설업 고위험군 사업장 2만4418곳 가운데 1만5584곳에 감독·점검이 이뤄져 점검률은 63.8%였다. 반면 고위험군이 가장 많은 120억원 이상 사",
+    "published_at": "2026-10-29T17:16:56+09:00",
+    "cluster_id": "c5f2",
+    "publisher": "대한전문건설신문",
+    "title_clean": "[국감 이슈] “외국인 고용제한, 사업주→ 현장단위로 바꿔야”",
+    "summary": "국정감사에서 건설현장 산재 예방을 위한 AI 예측 시스템의 점검률이 63.8%에 불과하며, 대규모 사업장은 37.1%로 더 낮다는 지적이 제기됐다. 외국인력 고용제한 정책을 사업주 단위에서 현장 단위로 변경해야 한다는 의견도 나왔다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-29T17:26:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32269,37 +32301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-23T16:44:09+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[국감] 답변하는 장건 건설근로자공제회 이사장 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LSVlQY1RwdEZPcWRWa2g2R0JCeE9WTTcxbUY5c21KcjFidkF1bDNfVGUzakF4bnZId3R6VExZenJCZnJHOTU1c3Npbw?oc=5",
-    "description": "(서울=뉴스1) 황기선 기자 = 장건 건설근로자공제회 이사장이 23일 서울 여의도 국회 기후에너지환경노동위원회에서 열린 근로복지공단 등에 대한 국정감사에서 의원 질의에 답하고 있다 …",
-    "published_at": "2026-10-23T15:41:46+09:00",
-    "cluster_id": "7495",
-    "publisher": "뉴스1",
-    "title_clean": "[국감] 답변하는 장건 건설근로자공제회 이사장",
-    "summary": "장건 건설근로자공제회 이사장이 국회 국정감사에서 의원들의 질의에 답변하는 모습을 보도한 기사. 건설근로자의 복지 및 공제 업무 관련 감시 기능 수행.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-23T16:44:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "부산시, 기계설비 신기술·제도 공유 세미나…\"기술 개발 촉진\" - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HX3VONGtKalJSbjB6VEtRMVhGLVdsRzJIUnhFd1Ryb2VsMVFqRHVGTmFxR0hjN1BjZDB4czk4Vko2ZG5TZzhaV1JEZzljeU5DcFJBYVNodkpwTU80?oc=5",
-    "description": "[부산=뉴스핌] 남동현 기자 = 보이지 않는 배관과 기계설비 분야의 기술개발을 촉진하고 최신 산업 동향을 공유하는 자리가 마련된다.부산시는 23일 오후 1시30분 시청 대강당에서",
-    "published_at": "2026-10-23T08:38:00+09:00",
-    "cluster_id": "7e68",
-    "publisher": "뉴스핌",
-    "title_clean": "부산시, 기계설비 신기술·제도 공유 세미나…\"기술 개발 촉진\"",
-    "summary": "부산시가 기계설비 분야의 기술개발 촉진과 최신 산업 동향 공유를 위해 세미나를 개최한다. 보이지 않는 배관과 기계설비 분야의 신기술과 제도 공유를 통해 업계 기술 발전을 지원하는 행사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-23T16:44:09+09:00",
-    "importance": 2
   }
 ]
