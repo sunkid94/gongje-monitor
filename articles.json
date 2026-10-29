@@ -5168,6 +5168,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한수원, '체코 원전' 대우건설·두산에너빌 협상 결렬…\"시공비 이견\"(종합) - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iME0xbF9TSXZCMHdfdUpuWTY0NDFPQXc5NG9uSUZpcWctUl9CRS1Zd2lpeV9XaUhkRE5SeFFyWnlTeDVqa3BuQ2lOb1NXZ2p6NXVUWklndFFTemwyM2hYWWJqOTlXbEpFUHh4Y1pDcEI?oc=5",
+    "description": "한국수력원자력이 대우건설[047040], 두산에너빌리티[034020] 컨소시엄과 진행해 오던 두코바니 원전 건설사업의 시공계약 협상을 종료한다고 29일 밝혔다.한수원은 이에 주요 계약조건에 대한 양측의 이견에 따른 것으로, 한수원과 시공사는 그동안 실무협상, 이견조정위원회, 경영진 협상 등을 통해 원만한 합의 도출을 위해 노력해 왔지만 최종 합의에 이르지 못했다고 설명했다.이에 한수원은 기업의 판단을 존중하고 전체 사업의 안정적인 추진을 위해 시공 계약을 위한 협상을 공식 종료하기로 결정했다.◇ \"",
+    "published_at": "2026-10-29T10:00:29+09:00",
+    "cluster_id": "a357",
+    "publisher": "연합인포맥스",
+    "title_clean": "한수원, '체코 원전' 대우건설·두산에너빌 협상 결렬…\"시공비 이견\"(종합)",
+    "summary": "한수원이 대우건설·두산에너빌 컨소시엠과 체코 두코바니 원전 건설 시공계약 협상을 종료했다. 주요 계약조건의 시공비 이견으로 실무협상과 경영진 협상에도 불구하고 최종 합의에 이르지 못했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-29T19:56:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21147,22 +21163,6 @@
     "publisher": "ebn.co.kr",
     "title_clean": "대우건설, 3분기 누적 영업익 6711억…전년 대비 131% 급증",
     "summary": "대우건설이 올해 3분기 누적 영업이익 6711억 원을 기록, 전년 동기 대비 131% 급증했다. 3분기 단일 영업이익도 3배 이상 증가했으며, 누적 영업이익률은 11.5%에 달했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-27T10:35:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 3분기 영업익 1832억…전년比 223.7% 급증 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420219",
-    "description": "대우건설이 올해 3분기 매출 감소에도 영업이익이 3배 이상 증가하며 수익성 개선세를 이어갔다. 신규 수주와 수주잔고도 늘면서 향후 사업 기반을 확대했다. 대우건설은 27일 연결기준 3분기 영업이익이...",
-    "published_at": "2026-10-27T10:28:00+09:00",
-    "cluster_id": "1f17",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "대우건설, 3분기 영업익 1832억…전년比 223.7% 급증",
-    "summary": "대우건설이 3분기 영업이익 1832억 원으로 전년 대비 223.7% 급증하며 수익성을 크게 개선했다. 매출 감소에도 불구하고 신규 수주와 수주잔고 증가로 향후 사업 기반을 확대한 상태다.",
     "sentiment": "positive",
     "collected_at": "2026-10-27T10:35:38+09:00",
     "importance": 2
