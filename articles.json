@@ -5185,6 +5185,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코 원전 시공 협상 결렬에 \"문제 없다\"지만… 한수원 새 시공사 찾기... - hankookilbo.com",
+    "link": "https://www.hankookilbo.com/news/article/A2026102917380005736?did=NA",
+    "description": "체코 두코바니 원전 건설 시공계약을 둘러싼 한국수력원자력과 시공사(대우건설·두산에너빌리티 컨소시엄) 간 협상이 최종 결렬되면서 한수원이 새로운 시공사를 찾아야 하는 처지가 됐다. 착공까지 3년, 부지 준비...",
+    "published_at": "2026-10-30T04:31:00+09:00",
+    "cluster_id": "10ab",
+    "publisher": "hankookilbo.com",
+    "title_clean": "체코 원전 시공 협상 결렬에 \"문제 없다\"지만… 한수원 새 시공사 찾기...",
+    "summary": "한수원과 대우건설·두산에너빌리티 컨소시엄이 체코 두코바니 원전 건설 시공계약 협상을 최종 결렬했다. 한수원은 새로운 시공사를 찾아야 하며, 착공까지 3년이라는 일정에 차질이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-30T04:42:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21167,22 +21183,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-27T13:10:49+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업 협력업체 대표들 \"공사대금 산정 적절했는지 조사해야\" - idomin.com",
-    "link": "https://www.idomin.com/news/articleView.html?idxno=2018009",
-    "description": "삼성중공업 사내 협력업체 대표들이 원청에서 받은 공사대금으로 직원 임금과 운영비를 감당하지 못해 빚을 떠안았다며 공정거래위원회 조사를 촉구했다. 삼성중공업 하도급 피해 협력업체 대표 5명과 진보당...",
-    "published_at": "2026-10-27T13:06:00+09:00",
-    "cluster_id": "fc18",
-    "publisher": "idomin.com",
-    "title_clean": "삼성중공업 협력업체 대표들 \"공사대금 산정 적절했는지 조사해야\"",
-    "summary": "삼성중공업의 협력업체 대표들이 공사대금이 부족해 직원 임금과 운영비를 감당하지 못하고 있다며 공정거래위원회의 조사를 요청했다. 하도급 구조에서의 부당한 공사대금 산정 관행에 대한 문제 제기로, 협력업체들의 경영난이 심화되고 있는 상황을 반영하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-27T13:10:49+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 신기술",
