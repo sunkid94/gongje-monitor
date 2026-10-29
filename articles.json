@@ -21185,6 +21185,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "황상하 SH 사장, 현장 6곳 안전 점검…“기본수칙 지켜야” - 아시아투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91VDVIS2hZMy1FM21rQ19mU1JVSFZWOVBLWWhHeS1GS0Z0Mm5GcU8zdGNHZW1WTGpNV2w1NGtibGNqbXoyaE0xSkpETHZsQTkwd3c4d3A1UV9UMGxFRG5pUlVORy1pMU1Hd3RnXw?oc=5",
+    "description": "서울주택도시개발공사(SH)는 황상하 사장이 지난 27~28일 주요 건설현장을 방문해 계절 변화에 따른 위험 요인 등 현장 안전관리 실태를 점검했다고 29일 밝혔다.이번 점검은 기온 하강과 강풍 등 계절 변화에 따른 건설현장의 위험요인에 선제적으로 대응하고, 현장 중심..",
+    "published_at": "2026-10-29T23:38:38+09:00",
+    "cluster_id": "49bc",
+    "publisher": "아시아투데이",
+    "title_clean": "황상하 SH 사장, 현장 6곳 안전 점검…“기본수칙 지켜야”",
+    "summary": "SH 황상하 사장이 6개 건설현장을 방문하여 계절 변화에 따른 안전관리 실태를 점검했다. 기온 하강과 강풍 등 위험 요인에 선제적으로 대응하고 현장 중심 안전수칙 준수를 강조했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-29T23:55:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32287,21 +32303,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-23T17:40:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[2026 국감] 건설근로자공제회 이사장 '성남 라인' 지적에 전문성 논란(... - newspim.com",
-    "link": "https://www.newspim.com/news/view/20261023001138",
-    "description": "장 이사장은 이에 \"건설노동자는 일용노동자다. 일용노동자들의 삶에 대해서 누구보다도 애정을 가지고 있다\"며 사퇴 의사가 없다고 밝혔다. 여당은 장 이사장에게 발언 기회를 부여하는 방식으로 편을 들었다. 오전...",
-    "published_at": "2026-10-23T17:20:00+09:00",
-    "cluster_id": "2aad",
-    "publisher": "newspim.com",
-    "title_clean": "[2026 국감] 건설근로자공제회 이사장 '성남 라인' 지적에 전문성 논란(...",
-    "summary": "건설근로자공제회 이사장이 국감에서 '성남 라인' 지적과 전문성 논란에 직면했으며, 본인의 건설노동자에 대한 애정을 강조하며 사퇴 의사를 밝히지 않았다. 여당이 이사장을 지지하는 입장을 보였다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-23T17:30:31+09:00",
-    "importance": 4
   }
 ]
