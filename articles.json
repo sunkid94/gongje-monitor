@@ -3,6 +3,23 @@
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
+    "title": "기계설비건설협회·한국물가협회, 적정 공사비 산정체계 구축 '맞손' - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=343129",
+    "description": "허용주 대한기계설비건설협회 회장(오른쪽)과 김수용 한국물가협회 회장이 어제(28일) 서울 강남구 기계설비건설회관에서 업무협약(MOU)을 체결한 후 기념촬영을 하고 있다.(사진제공 : 대한기계설비건설협회)...",
+    "published_at": "2026-10-29T08:58:00+09:00",
+    "cluster_id": "a4f3",
+    "publisher": "국토일보",
+    "title_clean": "기계설비건설협회·한국물가협회, 적정 공사비 산정체계 구축 '맞손'",
+    "summary": "대한기계설비건설협회와 한국물가협회가 업무협약을 체결하여 건설 프로젝트의 적정 공사비 산정체계 구축을 위해 협력하기로 합의했다. 이를 통해 공사비 산정의 투명성과 합리성을 강화할 것으로 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-29T09:13:45+09:00",
+    "event_label": "대한기계설비건설협회·한국물가협회 적정 공사비 산정체계 구축 MOU 체결",
+    "importance": 5
+  },
+  {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "기계설비협회, 물가協과 손잡고 적정 공사비 산정 기반 마련 - metroseoul.co.kr",
     "link": "http://www.metroseoul.co.kr/article/20261029500037",
     "description": "'기계설비 단가 시장조사·원가계산'등 협력키로 허용주 대한기계설비건설협회장(오른쪽)이 김수용 한국물가협회장과 MOU를 맺고 기념촬영을 하고 있다. /기계설비건설협회 대한기계설비건설협회가 한국물가협회와 손잡고...",
@@ -5336,6 +5353,22 @@
     "collected_at": "2026-09-29T10:36:08+09:00",
     "event_label": "대한전문건설협회 충북도회 진천군청 간담회 및 지역사회 기금 기탁",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'계약금 0원' 파격 금융혜택 적용… 푸르지오 스타셀라49 눈길 - ksilbo.co.kr",
+    "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070941",
+    "description": "푸르지오 스타셀라49 조감도 (대우건설 제공) 고금리와 분양가격 상승으로 주택 수요자들의 자금 마련 부담이 커지는 가운데 초기 계약비용을 줄여주는 금융혜택이 분양시장의 주요 관심 요소로 떠오르고 있다. 특히...",
+    "published_at": "2026-10-29T09:00:00+09:00",
+    "cluster_id": "4001",
+    "publisher": "ksilbo.co.kr",
+    "title_clean": "'계약금 0원' 파격 금융혜택 적용… 푸르지오 스타셀라49 눈길",
+    "summary": "대우건설의 푸르지오 스타셀라49가 계약금 0원 등 파격적인 금융혜택을 제공하며 분양시장 관심을 끌고 있다. 고금리와 분양가 상승으로 인한 수요자의 자금 부담을 완화하는 방식으로 주택 분양을 촉진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-29T09:13:45+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -21322,22 +21355,6 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "엇갈린 10대 건설사 3Q 이익 전망…GS건설·DL이앤씨만 수익성 약화로 뒷... - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026102114471198048",
-    "description": "주택사업의 수익성 개선과 고원가 현장 마무리 효과가 나타나면서 현대건설과 대우건설, IPARK현대산업개발은 매출 감소에도 영업이익이 크게 늘어날 것으로 전망된다. 반면 GS건설과 DL이앤씨는 매출 감소와 일부...",
-    "published_at": "2026-10-21T14:52:00+09:00",
-    "cluster_id": "015c",
-    "publisher": "newsway.co.kr",
-    "title_clean": "엇갈린 10대 건설사 3Q 이익 전망…GS건설·DL이앤씨만 수익성 약화로 뒷...",
-    "summary": "10대 건설사의 3분기 실적에서 엇갈린 성과가 예상된다. 현대건설, 대우건설, IPARK현대산업개발은 주택사업 수익성 개선과 고원가 현장 마무리로 영업이익이 증가할 것으로 전망되는 반면, GS건설과 DL이앤씨는 매출 감소에 따른 수익성 악화가 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-21T15:02:21+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32296,21 +32313,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-22T16:11:53+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 성과급 60조 전망…한은, \"소비 회복은 시차\" - hansbiz.co.kr",
-    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875322",
-    "description": "다만 성과급과 배당의 수혜가 고소득층에 집중되는 데다 가계부채 부담과 주택건설경기 부진이 이어지고 있어 소비 회복이 경제 전반으로 확산하기까지는 시차가 발생할 수 있다는 분석이다. 한국은행 조사국...",
-    "published_at": "2026-10-22T16:00:00+09:00",
-    "cluster_id": "6816",
-    "publisher": "hansbiz.co.kr",
-    "title_clean": "반도체 성과급 60조 전망…한은, \"소비 회복은 시차\"",
-    "summary": "반도체 성과급 60조 규모로 전망되지만, 수혜가 고소득층에 집중되고 가계부채 부담·주택건설경기 부진이 지속되고 있다. 한은은 소비 회복이 경제 전반으로 확산하기까지 시간이 걸릴 것으로 분석했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-22T16:11:53+09:00",
-    "importance": 4
   }
 ]
