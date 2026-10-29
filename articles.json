@@ -21185,6 +21185,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "24시간 불 꺼지지 않는 반도체 생산의 심장 삼성전자 평택사업장 [박일근의 이코노픽] - 한국일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNjJDbjE4Vm8tZnh0ZmxLU09lQjBTQkRzcUFDN0d6LWFqeXF3LTZsdG11QjVGcTQ1V0V6aVlGX0hPaU5VZlpGZ0dSSWZmcEVFYVZCRm84TVhHYVMtbWFMenR6dXh1eE04SHNOTlN30gFzQVVfeXFMTnB4UTZxRF9yWDFGMGtobVRHUXFOaDJkcGZ1SFRMSVJHZkVuaDZUd1pRSGhMbXF3Y3JTY0tOMWEyRHB5MVltR2VpbGpJeTBfLUNScUVVWnlZYUd6YlZ4YXUwUUoyaDM3eHhvSzlBSEVQVi1iWQ?oc=5",
+    "description": "① 삼성전자 평택사업장은 세계 최대 반도체 생산 기지로서 P5 팹1과 팹2 건설이 진행 중입니다. ② P5 팹1은 트리플 팹 구조로 높이 약 100m에 이르며 2028년 가동을 목표로 했습니다. ③ 현장은 3교대로 24시간 공사를 이어가면서도 안전 구역 관리와 보안 통제를 강화했습니다.",
+    "published_at": "2026-10-30T04:30:00+09:00",
+    "cluster_id": "3e80",
+    "publisher": "한국일보",
+    "title_clean": "24시간 불 꺼지지 않는 반도체 생산의 심장 삼성전자 평택사업장 [박일근의 이코노픽]",
+    "summary": "삼성전자 평택사업장에서 세계 최대 규모의 반도체 생산 기지 구축을 위해 P5 팹1, 팹2 건설이 진행 중입니다. 높이 100m의 트리플 팹 구조로 2028년 가동을 목표하며, 24시간 3교대 공사를 통해 대규모 건설 프로젝트가 추진되고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-30T04:52:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32287,21 +32303,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-23T18:29:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "정일영 의원, 10대 건설사 하자심사 5,279건·현장 사망자 153명 지적하며 품질·안전관리 강화 촉구 - 경인매일",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KYVh3V096c2llRlhwU3NEQzBGcHNKY1dBQldSVW0td2FPMDFnQ19VWkZOU2hRTERWM2JVNk5NZFEwOVlQd2V2OGh1RDlnVU5oRnRfSXRXMXdMZ2pyWGRORkx6YV9ZU0lJ?oc=5",
-    "description": "국내 10대 건설사에서 최근 4년 6개월간 접수된 하자심사가 5천 건을 넘고, 건설현장에서는 153명이 사망한 것으로 나타났다. 특히 하자심사 접수 건수의 40%",
-    "published_at": "2026-10-23T17:50:10+09:00",
-    "cluster_id": "f987",
-    "publisher": "경인매일",
-    "title_clean": "정일영 의원, 10대 건설사 하자심사 5,279건·현장 사망자 153명 지적하며 품질·안전관리 강화 촉구",
-    "summary": "정일영 의원이 국내 10대 건설사의 최근 4년 6개월간 하자심사 5,279건과 현장 사망자 153명을 지적하며 건설업계의 품질 및 안전관리 강화를 촉구했다. 건설현장의 구조적 문제점을 드러내며 개선을 요구하는 내용이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-23T18:00:41+09:00",
-    "importance": 4
   }
 ]
