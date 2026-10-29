@@ -21168,6 +21168,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "'태조왕건·주몽' 사극 배우 국호, 15년째 일용직 노동→결혼 포기…어... - mhnse.com",
+    "link": "https://mhnse.com/news/articleView.html?idxno=1642750",
+    "description": "국호는 작품이 없는 기간 생계 유지를 위해 15년째 인력사무소를 찾아 일용직 건설 노동자로 일하고 있다고 밝혔다. 고정적인 사무직도 고려해 봤으나, 갑작스러운 촬영 스케줄과 병행하기 어려워 육체노동을 택했다는...",
+    "published_at": "2026-10-29T21:46:00+09:00",
+    "cluster_id": "2d77",
+    "publisher": "mhnse.com",
+    "title_clean": "'태조왕건·주몽' 사극 배우 국호, 15년째 일용직 노동→결혼 포기…어...",
+    "summary": "사극 배우 국호가 작품 공백기 생계유지를 위해 15년간 일용직 건설노동자로 근무 중임을 공개했다. 촬영 스케줄과의 병행 어려움으로 육체노동을 선택했으며, 이로 인해 결혼 등 개인생활을 포기한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-29T21:56:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32283,22 +32299,6 @@
     "publisher": "경북신문",
     "title_clean": "포항·경주 건설 중대재해 10건 중 8건 읍·면서 발생",
     "summary": "포항과 경주 지역의 건설 중대재해 10건 중 8건이 읍·면 소재 소규모 현장에서 발생했다. 대구지방고용노동청이 외곽지역 소규모 건설현장의 산업재해 예방을 위해 나선 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-23T17:01:31+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[기고] 체육시설 안전관리, 기록만 남고 안전은 증발했다 - 매일건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1McG1SZUZ6ZlYtNEZKQTljOVYyYU14UWxzUDQ0bkxXZEFBX081aVdEbEhWTk5ZMlJKSTZEZ19jZHJfTVk?oc=5",
-    "description": "최명기 교수 © 매일건설신문 최근 프로축구 경기장 관중석 천장에서 석재가 떨어져 관람객이 다치는 사고가 발생했고 앞서 작년 창원NC파크에서는 외",
-    "published_at": "2026-10-23T16:45:00+09:00",
-    "cluster_id": "7576",
-    "publisher": "매일건설신문",
-    "title_clean": "[기고] 체육시설 안전관리, 기록만 남고 안전은 증발했다",
-    "summary": "체육시설의 안전관리가 형식적 기록에만 머물러 실질적 안전이 보장되지 않고 있다는 문제 제기. 프로축구 경기장 관중석 천장 붕괴 등 반복되는 사고를 통해 현행 안전관리 체계의 개선 필요성을 지적.",
     "sentiment": "negative",
     "collected_at": "2026-10-23T17:01:31+09:00",
     "importance": 4
