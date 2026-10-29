@@ -21185,6 +21185,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[르포 대한민국] 위기의 철강산업, 생존의 조건은? - chosun.com",
+    "link": "https://www.chosun.com/opinion/specialist_column/2026/10/29/N5UHQ36T7NCT5ELHIRWHF6U6LU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "건설경기 침체로 철근과 형강을 사용하는 현장이 감소했고, 제조업 전반의 부진이 겹쳤다. 생산성이 아무리 높아도 시장 자체가 축소되고 있다. 물론 조선업처럼 양호한 업종이 있지만 전체 감소를 메우기는 어렵다....",
+    "published_at": "2026-10-29T23:47:00+09:00",
+    "cluster_id": "81c4",
+    "publisher": "chosun.com",
+    "title_clean": "[르포 대한민국] 위기의 철강산업, 생존의 조건은?",
+    "summary": "건설경기 침체와 제조업 부진으로 철강산업이 위기를 맞고 있다. 철근·형강 수요 감소로 시장 자체가 축소되고 있으며, 조선업 같은 양호 업종도 전체 감소를 상쇄하기 어려운 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-30T00:05:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32287,21 +32303,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-23T17:40:11+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중대재해 넘어 중대시민재해까지…건설·도시안전 박람회, 지자체·현장 위한 AI 예방기술 선보여 - 세이프티퍼스트닷뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tMnIzZFRWRktOODdwU3FwQTY4Um5hemxWOHRncS1WbWE5UlJTMlkwdXEyU1hCQ2RmNkgzOVU2Z05DLWNwN3J6RjZsczMzTFg5SWVUR3JmbE5zQ2t0NGJZbDF3TEtCb1NrTGFrM2NURQ?oc=5",
-    "description": "[세이프티퍼스트닷뉴스] 건설·산업현장의 중대재해를 넘어 시민의 안전을 위협하는 중대시민재해까지, AI와 데이터로 위험을 미리 예측하고 차단하는 안전기술이 한자리에 모였다. 킨텍스(대표이사 이민우)는 지난 10월 14일부터 16일까지 사흘간 킨텍스 제1전시장에서 ‘2026 한국건설·안전박람회(K-CONSAFETY EXPO 2026)’와 ‘2026 도시안전기술박람회(Urban Safety Technology Show 2026)’를 동시에 열어, 건설현장과 지자체·공공기관이 적용할 수 있는 AI 기반 사전 예방 기술을 선보였다고 밝혔다.",
-    "published_at": "2026-10-23T17:24:25+09:00",
-    "cluster_id": "954a",
-    "publisher": "세이프티퍼스트닷뉴스",
-    "title_clean": "중대재해 넘어 중대시민재해까지…건설·도시안전 박람회, 지자체·현장 위한 AI 예방기술 선보여",
-    "summary": "킨텍스에서 한국건설·안전박람회와 도시안전기술박람회를 개최하여 AI와 데이터 기반의 중대재해 예방기술을 선보였다. 건설현장과 지자체·공공기관이 적용 가능한 사전 예방 기술들이 전시되어 건설업계의 안전기술 고도화 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-23T17:40:11+09:00",
-    "importance": 2
   }
 ]
