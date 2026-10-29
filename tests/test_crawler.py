@@ -148,3 +148,41 @@ def test_fetch_new_articles_drops_corp_without_qualifier():
         result = crawler.fetch_new_articles(set())
     links = {a["link"] for a in result}
     assert links == {"http://x/2"}   # 한정어(현장) 있는 것만 유지
+
+
+def test_fetch_new_articles_records_filtered_links_in_seen_out():
+    # 차단 도메인·종건사 한정어 등으로 걸러낸 링크도 '판정 완료' → seen_out 으로 넘겨 매 런 재판정하지 않게 한다
+    blocked = _article("https://www.job-post.co.kr/n/1")
+    corp = {"category": "종합건설사", "title": "삼성중공업 방산 수출", "description": "",
+            "link": "http://x/corp", "keyword": "삼성중공업", "is_company": False}
+    seen_out = set()
+    with patch.object(crawler, "BLOCKED_DOMAINS", ["job-post.co.kr"]), \
+         patch.object(crawler, "SOURCES", [_source([blocked, corp, _article("http://ok/1")])]):
+        result = crawler.fetch_new_articles(set(), seen_out=seen_out)
+    assert [a["link"] for a in result] == ["http://ok/1"]
+    assert seen_out == {"https://www.job-post.co.kr/n/1", "http://x/corp"}
+
+
+def test_fetch_new_articles_passes_seen_out_to_sources_that_accept_it():
+    def fetch(seen=frozenset(), seen_out=None):
+        if seen_out is not None:
+            seen_out.add("http://judged/none")
+        return []
+    new_style = type("S", (), {"fetch": staticmethod(fetch), "__name__": "s"})
+    legacy = _source([_article("http://ok/2")])   # fetch(seen) 만 받는 구형 시그니처(구글/네이버)
+    seen_out = set()
+    with patch.object(crawler, "SOURCES", [new_style, legacy]):
+        result = crawler.fetch_new_articles(set(), seen_out=seen_out)
+    assert seen_out == {"http://judged/none"}
+    assert [a["link"] for a in result] == ["http://ok/2"]
+
+
+def test_fetch_trade_only_forwards_seen_out():
+    def fetch(seen=frozenset(), seen_out=None):
+        seen_out.add("http://rss/judged")
+        return []
+    src = type("S", (), {"fetch": staticmethod(fetch), "__name__": "rss"})
+    seen_out = set()
+    with patch.object(crawler, "source_rss", src):
+        crawler.fetch_trade_only(set(), seen_out=seen_out)
+    assert seen_out == {"http://rss/judged"}

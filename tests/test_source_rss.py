@@ -104,12 +104,12 @@ def test_rss_body_fallback_catches_body_only_mention():
     import source_rss
     importlib.reload(source_rss)
     e = _entry("3대 메가프로젝트가 여는 기계설비 시대", "http://kmec/body", "업계 트렌드 분석")
-    body_html = "<html><body>...대한기계설비건설협회는 이번에...</body></html>"
+    body_html = '<html><body><aside>많이 본 뉴스</aside><article id="article-view-content-div"><p>...대한기계설비건설협회는 이번에...</p></article></body></html>'
     with patch("source_rss.feedparser.parse", return_value=_feed([e])), \
          patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
          patch("source_rss.COMPANY_KEYWORDS", ["대한기계설비건설협회"]), \
          patch("source_rss.CATEGORY_KEYWORDS", {}), \
-         patch("source_rss.requests.get", return_value=MagicMock(text=body_html, status_code=200)):
+         patch("page_text.requests.get", return_value=MagicMock(text=body_html, status_code=200)):
         source_rss.datetime = _frozen_dt()
         out = source_rss.fetch()
     assert len(out) == 1
@@ -123,12 +123,12 @@ def test_rss_body_fallback_skips_when_body_also_irrelevant():
     import source_rss
     importlib.reload(source_rss)
     e = _entry("어느 회사 봉사활동", "http://kmec/none", "사회공헌 소식")
-    getter = MagicMock(return_value=MagicMock(text="<html>무관한 본문</html>", status_code=200))
+    getter = MagicMock(return_value=MagicMock(text='<html><article id="article-view-content-div"><p>무관한 본문</p></article></html>', status_code=200))
     with patch("source_rss.feedparser.parse", return_value=_feed([e])), \
          patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
          patch("source_rss.COMPANY_KEYWORDS", ["대한기계설비건설협회"]), \
          patch("source_rss.CATEGORY_KEYWORDS", {}), \
-         patch("source_rss.requests.get", getter):
+         patch("page_text.requests.get", getter):
         source_rss.datetime = _frozen_dt()
         out = source_rss.fetch()
     assert out == []
@@ -145,7 +145,7 @@ def test_rss_body_not_fetched_when_title_matches():
          patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
          patch("source_rss.COMPANY_KEYWORDS", ["대한기계설비건설협회"]), \
          patch("source_rss.CATEGORY_KEYWORDS", {}), \
-         patch("source_rss.requests.get", getter):
+         patch("page_text.requests.get", getter):
         source_rss.datetime = _frozen_dt()
         out = source_rss.fetch()
     assert len(out) == 1
@@ -197,3 +197,76 @@ def test_published_at_tzaware_pubdate_kept():
     cutoff = datetime(2020, 1, 1, tzinfo=timezone.utc)
     iso, recent = source_rss._published_at(e, cutoff)
     assert iso == "2026-07-02T08:23:55+00:00"
+
+
+def test_rss_body_fallback_ignores_site_chrome():
+    """2026-10-29 150RT 사건: 본문엔 협회명이 없고 '많이 본 뉴스' 사이드바에만 있는 페이지는 매칭하지 않는다."""
+    import source_rss
+    importlib.reload(source_rss)
+    e = _entry("수열히트펌프 ‘150RT’ 용량 제한…대용량 기준 필요", "http://kmec/52526",
+               "정부가 수열에너지 보급 확대를 추진하고 있는 상황에서…")
+    page = ('<html><body><aside><h3>많이 본 뉴스</h3>'
+            '<a href="/52518">기계설비협회-한국물가협회, 적정 공사비 확보 위한 MOU 체결</a></aside>'
+            '<article id="article-view-content-div"><p>지난 28일 기계설비업계에 따르면 KS 규격이 150RT 이하에 멈춰 있다.</p></article>'
+            '</body></html>')
+    with patch("source_rss.feedparser.parse", return_value=_feed([e])), \
+         patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
+         patch("source_rss.COMPANY_KEYWORDS", ["대한기계설비건설협회", "기계설비협회"]), \
+         patch("source_rss.CATEGORY_KEYWORDS", {}), \
+         patch("page_text.requests.get", return_value=MagicMock(text=page, status_code=200)):
+        source_rss.datetime = _frozen_dt()
+        out = source_rss.fetch()
+    assert out == []
+
+
+def test_rss_body_matched_article_carries_body_text():
+    """본문 매칭 기사는 본문 텍스트를 함께 넘겨 관련도 게이트가 요약문이 아닌 실제 본문으로 판단하게 한다."""
+    import source_rss
+    importlib.reload(source_rss)
+    e = _entry("3대 메가프로젝트가 여는 기계설비 시대", "http://kmec/body", "업계 트렌드 분석")
+    page = ('<article id="article-view-content-div"><p>토론회는 대한기계설비건설협회가 후원한다.</p></article>'
+            '<aside>기계설비협회 소식</aside>')
+    with patch("source_rss.feedparser.parse", return_value=_feed([e])), \
+         patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
+         patch("source_rss.COMPANY_KEYWORDS", ["대한기계설비건설협회"]), \
+         patch("source_rss.CATEGORY_KEYWORDS", {}), \
+         patch("page_text.requests.get", return_value=MagicMock(text=page, status_code=200)):
+        source_rss.datetime = _frozen_dt()
+        out = source_rss.fetch()
+    assert len(out) == 1
+    assert out[0]["body_text"] == "토론회는 대한기계설비건설협회가 후원한다."
+
+
+def test_rss_unmatched_after_body_check_goes_to_seen_out():
+    """본문까지 봤는데 무관 → 판정 완료. seen_out 에 넣어 24h 동안 2분마다 재페치하지 않게 한다."""
+    import source_rss
+    importlib.reload(source_rss)
+    e = _entry("어느 회사 봉사활동", "http://kmec/none", "사회공헌 소식")
+    page = '<article id="article-view-content-div"><p>무관한 본문</p></article>'
+    seen_out = set()
+    with patch("source_rss.feedparser.parse", return_value=_feed([e])), \
+         patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
+         patch("source_rss.COMPANY_KEYWORDS", ["대한기계설비건설협회"]), \
+         patch("source_rss.CATEGORY_KEYWORDS", {}), \
+         patch("page_text.requests.get", return_value=MagicMock(text=page, status_code=200)):
+        source_rss.datetime = _frozen_dt()
+        out = source_rss.fetch(seen_out=seen_out)
+    assert out == []
+    assert seen_out == {"http://kmec/none"}
+
+
+def test_rss_body_fetch_failure_is_not_judged():
+    """본문을 못 받았으면(타임아웃·본문 요소 없음) 판정 보류 — seen_out 에 넣지 않아 다음 런에 재시도."""
+    import source_rss
+    importlib.reload(source_rss)
+    e = _entry("어느 회사 봉사활동", "http://kmec/retry", "사회공헌 소식")
+    seen_out = set()
+    with patch("source_rss.feedparser.parse", return_value=_feed([e])), \
+         patch("source_rss.TRADE_RSS_FEEDS", FEEDS), \
+         patch("source_rss.COMPANY_KEYWORDS", ["대한기계설비건설협회"]), \
+         patch("source_rss.CATEGORY_KEYWORDS", {}), \
+         patch("page_text.requests.get", side_effect=RuntimeError("timeout")):
+        source_rss.datetime = _frozen_dt()
+        out = source_rss.fetch(seen_out=seen_out)
+    assert out == []
+    assert seen_out == set()

@@ -656,3 +656,137 @@ def test_maybe_alert_throttled_does_not_send(tmp_path):
          patch.object(enrich, "_send_enrich_alert") as send:
         enrich._maybe_alert_fallbacks(10, 10)
     send.assert_not_called()
+
+
+# ─── 관련도 게이트: 조직명 실제 등장 요구 (2026-10-29 150RT 사건) ───
+
+def _company_art(**over):
+    base = {"keyword": "기계설비협회", "category": "조합·협회", "is_company": True,
+            "title": "수열히트펌프 ‘150RT’ 용량 제한…대용량 기준 필요 - 기계설비신문",
+            "link": "http://kmec/52526",
+            "description": "정부가 수열에너지 보급 확대를 추진하고 있는 상황에서 업계가 기준 개선을 요구하고 있다."}
+    base.update(over)
+    return base
+
+
+def test_org_named_in_true_for_tracked_org_and_alias():
+    assert enrich.org_named_in("기계설비건설공제조합 정기총회 개최") is True
+    assert enrich.org_named_in("K-FINCO가 신용등급 A+ 유지") is True
+
+
+def test_org_named_in_false_for_industry_wording_only():
+    # '기계설비업계'·'협회'·'조합' 같은 일반 표현만으로는 조직 등장으로 보지 않는다
+    assert enrich.org_named_in("지난 28일 기계설비업계에 따르면 협회와 조합이 참여한다") is False
+    assert enrich.org_named_in("") is False
+
+
+def test_enrich_articles_drops_company_article_when_org_absent_from_full_text():
+    """본문 전체를 확보했는데 추적 조직명이 없으면 AI 판정 없이 제외(150RT 사건 재현)."""
+    art = _company_art(body_text="지난 28일 기계설비업계에 따르면 KS 규격이 528kW 이하에 멈춰 있다. 업계 관계자 A씨는 낡은 족쇄라고 말했다.")
+    with patch("enrich.enrich_article") as ai:
+        result = enrich.enrich_articles([art])
+    assert result == []
+    ai.assert_not_called()   # 조직명 미등장이면 API 호출도 하지 않는다(비용)
+
+
+def test_enrich_articles_keeps_company_article_when_org_named_in_body():
+    art = _company_art(title="'3대 메가프로젝트' 성공의 열쇠...기계설비 역할 조명 - 기계설비신문",
+                       description="토론회가 열린다",
+                       body_text="이번 토론회는 국토교통부와 기계설비건설공제조합이 후원한다.")
+    with patch("enrich.enrich_article",
+               return_value={"summary": "s", "sentiment": "neutral", "about_org": True}) as ai:
+        result = enrich.enrich_articles([art])
+    assert len(result) == 1
+    # 게이트 판정엔 본문을 넘기되, 저장 payload(articles.json)엔 본문을 싣지 않는다
+    assert ai.call_args.kwargs["body"] == "이번 토론회는 국토교통부와 기계설비건설공제조합이 후원한다."
+    assert "body_text" not in result[0]
+
+
+def test_enrich_articles_fetches_body_for_company_article_without_body_text():
+    # 구글/네이버 경유 조합 기사(요약문만 있음): 원문 본문을 받아 조직명 등장을 확인한다
+    art = _company_art(title="부산시, ‘2026 기계설비 기술세미나’ 개최 - 부산일보", link="http://busan/1",
+                       description="부산광역시가 기계설비 기술세미나를 개최했다.")
+    with patch("enrich.fetch_article_text",
+               return_value="부산시와 대한기계설비건설협회 부산시회가 공동 개최했다.") as fetcher, \
+         patch("enrich.enrich_article",
+               return_value={"summary": "s", "sentiment": "neutral", "about_org": True}):
+        result = enrich.enrich_articles([art])
+    fetcher.assert_called_once_with("http://busan/1")
+    assert len(result) == 1
+
+
+def test_enrich_articles_drops_fetched_company_article_when_org_absent():
+    art = _company_art(link="http://busan/2", description="부산광역시가 세미나를 개최했다.")
+    with patch("enrich.fetch_article_text", return_value="부산시가 단독 개최한 행사로 기계설비업계 800명이 참석했다."), \
+         patch("enrich.enrich_article") as ai:
+        result = enrich.enrich_articles([art])
+    assert result == []
+    ai.assert_not_called()
+
+
+def test_enrich_articles_falls_back_to_snippet_judgment_when_body_unavailable():
+    # 본문 확보 실패(타임아웃·본문 요소 없음)면 조직명 부재를 단정할 수 없다 → 기존대로 요약문 기준 AI 판정
+    art = _company_art(link="http://metro/3")
+    with patch("enrich.fetch_article_text", return_value=None), \
+         patch("enrich.enrich_article",
+               return_value={"summary": "s", "sentiment": "neutral", "about_org": True}) as ai:
+        result = enrich.enrich_articles([art])
+    assert len(result) == 1
+    assert ai.call_args.kwargs["body"] is None
+
+
+def test_enrich_articles_does_not_fetch_body_for_non_company_articles():
+    art = {"keyword": "건설경기", "category": "시장·경기", "is_company": False,
+           "title": "건설경기 하락 - 매경", "link": "http://mk/1", "description": "d"}
+    with patch("enrich.fetch_article_text") as fetcher, \
+         patch("enrich.enrich_article", return_value={"summary": "s", "sentiment": "neutral"}):
+        result = enrich.enrich_articles([art])
+    fetcher.assert_not_called()
+    assert len(result) == 1
+
+
+def _prompt_sent(mock_client):
+    return mock_client.messages.create.call_args.kwargs["messages"][0]["content"]
+
+
+def test_enrich_article_prompt_carries_body_and_strict_rule_when_body_given():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": false}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        enrich_article("제목", "요약문", orgs=enrich._TRACKED_ORGS, body="본문 전체 텍스트 150RT")
+    prompt = _prompt_sent(mock_client)
+    assert "본문 전체 텍스트 150RT" in prompt
+    # 본문이 있으면 '등장하지 않으면 false' 규칙(업계·관계자 표현으로 추론 금지), '애매하면 true' 완화 규칙은 빠진다
+    assert "등장하지 않으면 false" in prompt
+    assert "애매하면 true" not in prompt
+
+
+def test_enrich_article_prompt_keeps_lenient_rule_without_body():
+    # 요약문만 있을 때(구글/네이버 스니펫)는 조직명 부재가 결론이 아니므로 기존 완화 규칙 유지
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": true}')]
+    )
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        enrich_article("제목", "요약문", orgs=enrich._TRACKED_ORGS)
+    prompt = _prompt_sent(mock_client)
+    assert "애매하면 true" in prompt
+    assert "등장하지 않으면 false" not in prompt
+
+
+def test_enrich_article_truncates_long_body_in_prompt():
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = MagicMock(
+        content=[MagicMock(text='{"summary": "요약", "sentiment": "neutral", "about_org": true}')]
+    )
+    body = "가" * 1500 + "끝표식"
+    with patch("enrich._get_client", return_value=mock_client):
+        from enrich import enrich_article
+        enrich_article("제목", "요약문", orgs=enrich._TRACKED_ORGS, body=body)
+    prompt = _prompt_sent(mock_client)
+    assert "가" * 1500 in prompt
+    assert "끝표식" not in prompt

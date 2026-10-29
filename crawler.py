@@ -1,3 +1,4 @@
+import inspect
 import logging
 from urllib.parse import urlparse
 
@@ -36,18 +37,36 @@ def lacks_corp_qualifier(article: dict) -> bool:
     return not any(q in hay for q in CORP_QUALIFIERS)
 
 
-def fetch_new_articles(seen: set, sources=None) -> list:
+def _accepts_seen_out(source) -> bool:
+    """소스 fetch 가 seen_out 인자를 받는지(직접 RSS 만 해당, 구글/네이버는 fetch(seen))."""
+    try:
+        return "seen_out" in inspect.signature(source.fetch).parameters
+    except (TypeError, ValueError):
+        return False
+
+
+def _mark_judged(seen_out, link: str) -> None:
+    if seen_out is not None and link:
+        seen_out.add(link)
+
+
+def fetch_new_articles(seen: set, sources=None, seen_out=None) -> list:
     """등록된 소스를 수집해 합치고, link 가 seen 에 없는 것만(소스 간 중복도 제거) 반환.
 
     sources 미지정 시 SOURCES(전체). fast-path 는 [source_rss] 만 넘겨 저지연 수집.
     차단 도메인(연예/포토 매체 등 — 조합명이 장소로만 걸리는 곳)은 enrich 전에 제외.
+    seen_out: set 을 넘기면 여기서 걸러낸 링크와 소스가 '무관 판정 완료'한 링크를 담아준다 —
+    호출자(main)가 seen 에 합쳐 저장해 같은 기사를 매 런 재판정하지 않게 한다.
     """
     sources = sources if sources is not None else SOURCES
     out = []
     collected = set(seen)
     for source in sources:
         try:
-            items = source.fetch(seen)
+            if seen_out is not None and _accepts_seen_out(source):
+                items = source.fetch(seen, seen_out=seen_out)
+            else:
+                items = source.fetch(seen)
         except Exception as e:
             logger.error("소스 수집 실패 %s: %s", getattr(source, "__name__", source), e)
             continue
@@ -57,18 +76,21 @@ def fetch_new_articles(seen: set, sources=None) -> list:
                 continue
             if is_blocked_domain(link):
                 logger.info("차단 도메인 제외: %s", link)
+                _mark_judged(seen_out, link)
                 continue
             if has_blocked_content(a):
                 logger.info("차단 키워드 제외: %s", (a.get("title", "") or "")[:40])
+                _mark_judged(seen_out, link)
                 continue
             if lacks_corp_qualifier(a):
                 logger.info("종건사 한정어 없음 제외: %s", (a.get("title", "") or "")[:40])
+                _mark_judged(seen_out, link)
                 continue
             out.append(a)
             collected.add(link)
     return out
 
 
-def fetch_trade_only(seen: set) -> list:
+def fetch_trade_only(seen: set, seen_out=None) -> list:
     """fast-path 전용 — 직접 전문지 RSS 만 수집(구글/네이버 제외). 발행 직후 저지연 포착용."""
-    return fetch_new_articles(seen, [source_rss])
+    return fetch_new_articles(seen, [source_rss], seen_out=seen_out)

@@ -19,20 +19,25 @@ logger = logging.getLogger(__name__)
 
 def main(skip_email: bool = False, fast: bool = False) -> None:
     seen = load_seen()
+    # 소스/크롤러가 '무관 판정 완료'로 끝낸 링크(본문까지 봤는데 조직명 없음, 차단 도메인, 종건사 한정어 없음).
+    seen_out = set()
     # fast-path: 직접 전문지 RSS 만(구글/네이버 제외) — 2분 주기 저지연 실행용.
-    fetched = fetch_trade_only(seen) if fast else fetch_new_articles(seen)
+    fetched = (fetch_trade_only(seen, seen_out=seen_out) if fast
+               else fetch_new_articles(seen, seen_out=seen_out))
+
+    # 수집한 모든 기사 link + 판정 완료 링크를 seen 에 기록 — 게이트/숨김 제외분도 포함.
+    # (과거엔 enriched=게이트통과분만 seen 에 넣어 제외 기사를 매 런 재-enrich 했다.
+    #  fast-path(2분)+직접RSS는 URL 고정이라 같은 무관 기사를 무한 재판정 → API 비용 폭증.
+    #  미매칭 RSS 기사도 seen 에 안 넣으면 24h 동안 2분마다 본문을 재페치했다(2026-10-29 150RT 사건의 증폭기).
+    #  Google 은 URL 이 회전하므로 재수집 시 새 URL 로 어차피 재평가됨.)
+    new_links = {a["link"] for a in fetched} | seen_out
+    if new_links:
+        save_seen(seen | new_links)
 
     if not fetched:
         if not fast:
             logger.info("새 기사 없음. 처리 종료.")
         return
-
-    # 수집한 모든 기사 link 를 seen 에 기록 — 게이트/숨김 제외분도 포함.
-    # (과거엔 enriched=게이트통과분만 seen 에 넣어 제외 기사를 매 런 재-enrich 했다.
-    #  full run(5분)에선 비용이 작았지만 fast-path(2분)+직접RSS는 URL 고정이라 같은
-    #  무관 기사를 무한 재판정 → API 비용 폭증. 그래서 fetched 전체를 seen 처리한다.
-    #  Google 은 URL 이 회전하므로 재수집 시 새 URL 로 어차피 재평가됨.)
-    save_seen(seen | {a["link"] for a in fetched})
 
     # 숨김 스토리(민감/내부 사유, config.HIDDEN_STORY_TITLES) 제외 — enrich 이전에 걸러
     # 이메일·푸시·대시보드·아카이브 재적재를 모두 건너뛴다(API 비용·아카이브 중복 방지).

@@ -15,6 +15,7 @@ import anthropic
 
 from article_store import format_collected_at, parse_collected_at
 from config import COMPANY_KEYWORDS, COMPANY_ALIASES, BLOCKED_PUBLISHERS
+from page_text import fetch_article_text
 
 logger = logging.getLogger(__name__)
 
@@ -33,6 +34,20 @@ def _build_tracked_orgs() -> str:
 
 
 _TRACKED_ORGS = _build_tracked_orgs()
+# 조직명 실제 등장 판정용 표기 목록 — 정식명·단축표기(config.COMPANY_KEYWORDS) + 영문 별칭(CIG, K-FINCO).
+_ORG_NAMES = tuple(COMPANY_KEYWORDS) + tuple(a for v in COMPANY_ALIASES.values() for a in v)
+# 관련도 게이트에 넘기는 본문 발췌 길이(토큰 비용 상한). 조직명 등장 여부는 전문으로 따로 검사한다.
+_BODY_EXCERPT_LEN = 1500
+
+
+def org_named_in(text: str) -> bool:
+    """추적 조직이 텍스트에 실제로 등장하는지(부분문자열). '업계'·'협회'·'조합' 같은 일반 표현은 등장이 아니다.
+
+    2026-10-29 150RT 사건: 본문에 조직명이 한 번도 없는데 AI 가 '기계설비업계에 따르면'을 협회 활동으로
+    추론해 통과시켰다. 본문 전체를 확보한 경우엔 이 검사로 AI 호출 전에 결정적으로 제외한다."""
+    if not text:
+        return False
+    return any(name in text for name in _ORG_NAMES)
 
 
 def _strip_code_fence(text: str) -> str:
@@ -63,15 +78,20 @@ def _get_client() -> anthropic.Anthropic:
 _RELEVANCE_CRITERIA = """
 - about_org: 이 기사가 다음 조직 중 어느 하나에 관한 뉴스인지 판단: {orgs}
   · true: 목록 중 한 곳의 활동·발표·실적·인사·사건 등을 직접 다루거나 의미 있게 관련됨 (별칭 포함 — 예: K-FINCO=전문건설공제조합)
-  · false: 목록의 어느 조직과도 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 무관한 부고종합/인사 목록, 단순 벤더·타기관 뉴스, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우, 조직이 행사 장소·건물명으로만 등장하고 기사의 실제 주제는 연예·시상식·포토·레드카펫 등 업계와 무관한 경우 등). 애매하면 true.
+  · false: 목록의 어느 조직과도 무관한 게 명백한 경우만 (일반 칼럼·법률해설·사설, 무관한 부고종합/인사 목록, 단순 벤더·타기관 뉴스, 본문에 등장하지 않고 사이트 메뉴·관련기사 링크로만 걸린 경우, 조직이 행사 장소·건물명으로만 등장하고 기사의 실제 주제는 연예·시상식·포토·레드카펫 등 업계와 무관한 경우 등). {ambiguity_rule}
 - event_label: 이 기사의 핵심 사건을 "대표조직명 + 핵심사건" 한 줄로 간결히. 대표조직은 위 목록의 정식 명칭 사용(예: K-FINCO→전문건설공제조합). 매체·표현이 달라도 같은 사건이면 같은 라벨이 나오게. 예: "대한기계설비건설협회 박종학 회장 별세", "전문건설공제조합 피치 신용등급 A+ 유지"."""
 
 _RELEVANCE_FIELD = ', "about_org": true|false, "event_label": "..."'
+# 요약문(스니펫)만 있을 때: 조직명이 안 보여도 본문에 있을 수 있으므로 기존대로 보수적(통과 쪽).
+_AMBIGUITY_LENIENT = "애매하면 true."
+# 본문을 확보했을 때: 조직명이 텍스트에 없으면 결론 — '업계'·'관계자' 표현으로 관여를 추론하지 않는다.
+_AMBIGUITY_STRICT = ("조직명이 위 텍스트에 등장하지 않으면 false — '업계'·'관계자'·'협회'·'조합' 같은 "
+                     "일반 표현만으로 특정 조직의 관여를 추론하지 말 것.")
 
 _ENRICH_PROMPT = """다음 뉴스 기사를 분석해 JSON으로 답하세요.
 
 제목: {title}
-내용: {description}
+내용: {description}{body_section}
 
 판단 기준:
 - 감정 톤은 "건설업계 전반과 기계설비건설공제조합" 시점에서 평가합니다.
@@ -84,7 +104,9 @@ JSON 형식 (다른 텍스트 없이 이것만):
 {{"summary": "...", "sentiment": "positive|neutral|negative"{relevance_field}}}"""
 
 
-def enrich_article(title: str, description: str, orgs: Optional[str] = None) -> dict:
+def enrich_article(title: str, description: str, orgs: Optional[str] = None,
+                   body: Optional[str] = None) -> dict:
+    """body: 원문 본문 텍스트(있으면). 요약 품질을 높이고, orgs 가 있을 땐 관련도 판정을 엄격 모드로 바꾼다."""
     # 구글뉴스 description 은 HTML(<a>·<font>·&nbsp;) — 정제 후 사용해야 모델 입력 품질이
     # 좋고, 폴백 시에도 raw HTML 이 요약으로 새지 않는다.
     clean_desc = _strip_html(description)
@@ -92,10 +114,13 @@ def enrich_article(title: str, description: str, orgs: Optional[str] = None) -> 
         "summary": clean_desc[:200],
         "sentiment": "neutral",
     }
-    relevance_criteria = _RELEVANCE_CRITERIA.format(orgs=orgs) if orgs else ""
+    ambiguity_rule = _AMBIGUITY_STRICT if body is not None else _AMBIGUITY_LENIENT
+    relevance_criteria = (_RELEVANCE_CRITERIA.format(orgs=orgs, ambiguity_rule=ambiguity_rule)
+                          if orgs else "")
     relevance_field = _RELEVANCE_FIELD if orgs else ""
+    body_section = f"\n본문(발췌): {body[:_BODY_EXCERPT_LEN]}" if body else ""
     prompt = _ENRICH_PROMPT.format(
-        title=title, description=clean_desc,
+        title=title, description=clean_desc, body_section=body_section,
         relevance_criteria=relevance_criteria, relevance_field=relevance_field,
     )
     last_err = None
@@ -271,7 +296,17 @@ def enrich_articles(articles: list) -> list:
             logger.info("차단 발행처 제외 (%s): %s", publisher, title_clean[:40])
             continue
         orgs = _TRACKED_ORGS if a.get("is_company") else None
-        ai = enrich_article(title_clean, a.get("description", ""), orgs=orgs)
+        body = a.get("body_text")  # 직접 RSS 본문 매칭 기사는 소스가 본문을 넘겨준다
+        if a.get("is_company"):
+            if body is None:
+                body = fetch_article_text(a.get("link", ""))  # 구글/네이버 경유: 원문 본문 확보 시도
+            # 본문 전체를 확보했는데 조직명이 한 번도 없으면 결정적 제외 — AI 호출 전(비용 0).
+            # 본문을 못 받았으면(None) 부재를 단정할 수 없어 아래 AI 판정(요약문 기준, 보수적)으로 넘긴다.
+            if body is not None and not org_named_in(
+                    f"{title_clean} {_strip_html(a.get('description', ''))} {body}"):
+                logger.info("조직명 미등장 제외 (keyword=%s): %s", a.get("keyword"), title_clean[:40])
+                continue
+        ai = enrich_article(title_clean, a.get("description", ""), orgs=orgs, body=body)
         total_enriched += 1
         if is_fallback_summary(ai["summary"], a.get("description", "")):
             fallback_count += 1
@@ -280,7 +315,7 @@ def enrich_articles(articles: list) -> list:
             logger.info("관련도 게이트 제외 (keyword=%s): %s", a.get("keyword"), title_clean[:40])
             continue
         out = {
-            **a,
+            **{k: v for k, v in a.items() if k != "body_text"},  # 본문은 저장 payload 에 싣지 않음
             "publisher": publisher,
             "title_clean": title_clean,
             "summary": ai["summary"],
