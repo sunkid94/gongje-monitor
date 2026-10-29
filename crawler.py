@@ -55,18 +55,19 @@ def fetch_new_articles(seen: set, sources=None, seen_out=None) -> list:
 
     sources 미지정 시 SOURCES(전체). fast-path 는 [source_rss] 만 넘겨 저지연 수집.
     차단 도메인(연예/포토 매체 등 — 조합명이 장소로만 걸리는 곳)은 enrich 전에 제외.
-    seen_out: set 을 넘기면 여기서 걸러낸 링크와 소스가 '무관 판정 완료'한 링크를 담아준다 —
+    seen_out: set 을 넘기면 소스가 '무관 판정 완료'한 링크와, 여기서 걸러낸 링크를 담아준다 —
     호출자(main)가 seen 에 합쳐 저장해 같은 기사를 매 런 재판정하지 않게 한다.
+    단, 걸러낸 링크 기록은 seen_out 을 받는 소스(URL 고정인 직접 RSS)에서 온 기사만. 구글은 매 런
+    새 토큰 URL 을 발급(URL 회전)해 기록해도 재판정 방지 효과가 없고 seen.json 만 런당 100건+ 비대해진다.
     """
     sources = sources if sources is not None else SOURCES
     out = []
     collected = set(seen)
     for source in sources:
+        stable_urls = seen_out is not None and _accepts_seen_out(source)
+        judged_out = seen_out if stable_urls else None
         try:
-            if seen_out is not None and _accepts_seen_out(source):
-                items = source.fetch(seen, seen_out=seen_out)
-            else:
-                items = source.fetch(seen)
+            items = source.fetch(seen, seen_out=seen_out) if stable_urls else source.fetch(seen)
         except Exception as e:
             logger.error("소스 수집 실패 %s: %s", getattr(source, "__name__", source), e)
             continue
@@ -76,15 +77,15 @@ def fetch_new_articles(seen: set, sources=None, seen_out=None) -> list:
                 continue
             if is_blocked_domain(link):
                 logger.info("차단 도메인 제외: %s", link)
-                _mark_judged(seen_out, link)
+                _mark_judged(judged_out, link)
                 continue
             if has_blocked_content(a):
                 logger.info("차단 키워드 제외: %s", (a.get("title", "") or "")[:40])
-                _mark_judged(seen_out, link)
+                _mark_judged(judged_out, link)
                 continue
             if lacks_corp_qualifier(a):
                 logger.info("종건사 한정어 없음 제외: %s", (a.get("title", "") or "")[:40])
-                _mark_judged(seen_out, link)
+                _mark_judged(judged_out, link)
                 continue
             out.append(a)
             collected.add(link)

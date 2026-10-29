@@ -150,17 +150,39 @@ def test_fetch_new_articles_drops_corp_without_qualifier():
     assert links == {"http://x/2"}   # 한정어(현장) 있는 것만 유지
 
 
+def _stable_url_source(items):
+    """URL 이 고정인 소스(직접 RSS) 스텁 — fetch(seen, seen_out) 시그니처로 '판정 완료 링크 수집'을 지원."""
+    def fetch(seen=frozenset(), seen_out=None):
+        return list(items)
+    return type("StableSource", (), {"fetch": staticmethod(fetch), "__name__": "rss"})
+
+
 def test_fetch_new_articles_records_filtered_links_in_seen_out():
-    # 차단 도메인·종건사 한정어 등으로 걸러낸 링크도 '판정 완료' → seen_out 으로 넘겨 매 런 재판정하지 않게 한다
+    # URL 고정 소스(직접 RSS)에서 온 기사를 차단 도메인·종건사 한정어로 걸러냈으면 '판정 완료' →
+    # seen_out 으로 넘겨 24h 윈도 동안 매 런 재판정하지 않게 한다
     blocked = _article("https://www.job-post.co.kr/n/1")
     corp = {"category": "종합건설사", "title": "삼성중공업 방산 수출", "description": "",
             "link": "http://x/corp", "keyword": "삼성중공업", "is_company": False}
     seen_out = set()
     with patch.object(crawler, "BLOCKED_DOMAINS", ["job-post.co.kr"]), \
-         patch.object(crawler, "SOURCES", [_source([blocked, corp, _article("http://ok/1")])]):
+         patch.object(crawler, "SOURCES", [_stable_url_source([blocked, corp, _article("http://ok/1")])]):
         result = crawler.fetch_new_articles(set(), seen_out=seen_out)
     assert [a["link"] for a in result] == ["http://ok/1"]
     assert seen_out == {"https://www.job-post.co.kr/n/1", "http://x/corp"}
+
+
+def test_fetch_new_articles_does_not_record_filtered_links_from_legacy_sources():
+    # 구글은 매 런 새 토큰 URL 을 발급(URL 회전) — 걸러낸 링크를 seen 에 쌓으면 재판정 방지 효과는 0 이고
+    # seen.json 만 런당 100건+ 씩 비대해진다(2026-10-29 실측 +141/런). fetch(seen) 구형 소스는 기록하지 않는다.
+    blocked = _article("https://www.job-post.co.kr/n/1")
+    corp = {"category": "종합건설사", "title": "삼성중공업 방산 수출", "description": "",
+            "link": "https://news.google.com/rss/articles/TOKEN1", "keyword": "삼성중공업", "is_company": False}
+    seen_out = set()
+    with patch.object(crawler, "BLOCKED_DOMAINS", ["job-post.co.kr"]), \
+         patch.object(crawler, "SOURCES", [_source([blocked, corp, _article("http://ok/1")])]):
+        result = crawler.fetch_new_articles(set(), seen_out=seen_out)
+    assert [a["link"] for a in result] == ["http://ok/1"]
+    assert seen_out == set()
 
 
 def test_fetch_new_articles_passes_seen_out_to_sources_that_accept_it():
