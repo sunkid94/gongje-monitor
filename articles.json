@@ -20777,6 +20777,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "DL이앤씨, 3분기 누적 영업이익 4241억원… 전년 대비 30.9% 증가 - biztribune.co.kr",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361655",
+    "description": "건설경기 불확실성이 지속되는 가운데 선별수주 기조를 통해 사업 안정성을 강화하고, 주택사업 원가율 안정화와 체질 개선 노력으로 수익성을 높이는 데 주력하고 있다. 미래 성장동력 확보를 위한 사업 포트폴리오...",
+    "published_at": "2026-10-30T21:56:00+09:00",
+    "cluster_id": "0162",
+    "publisher": "biztribune.co.kr",
+    "title_clean": "DL이앤씨, 3분기 누적 영업이익 4241억원… 전년 대비 30.9% 증가",
+    "summary": "DL이앤씨가 3분기 누적 영업이익 4241억원으로 전년 대비 30.9% 증가를 기록했다. 선별수주와 원가율 안정화를 통해 건설경기 불확실성 속에서도 수익성을 개선하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-30T22:05:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32263,21 +32279,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-26T15:50:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "이익률 1%대 신세계까사에 '올리브영 DNA'…허민호호 출항 - newstomato.com",
-    "link": "http://www.newstomato.com/ReadNews.aspx?no=1318013&inflow=N",
-    "description": "건설경기 부진과 주거 이동 감소는 대형 가구 구매에 부담으로 작용하는 요인입니다. 이에 가구업체들은 침실과 주방 등 개별 공간에 특화한 제품을 강화하고 생활용품으로 판매 범위를 넓히고 있습니다. 신세계까사...",
-    "published_at": "2026-10-26T15:36:00+09:00",
-    "cluster_id": "fe74",
-    "publisher": "newstomato.com",
-    "title_clean": "이익률 1%대 신세계까사에 '올리브영 DNA'…허민호호 출항",
-    "summary": "건설경기 부진과 주거 이동 감소로 대형 가구 수요가 감소하면서 가구업체들이 개별 공간 특화 제품과 생활용품으로 사업 전환을 시도하고 있다. 신세계까사는 올리브영의 성공 모델을 벤치마킹하여 이익률 개선을 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-26T15:39:58+09:00",
-    "importance": 4
   }
 ]
