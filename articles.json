@@ -5151,6 +5151,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 창원 상남1구역 2749억원 공사계약 공시 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=398404",
+    "description": "대우건설이 창원 상남1구역 재건축정비사업 공사계약을 2748억9085만9701원에 체결했다고 30일 공시했다. 계약금액은 부가가치세를 제외한 금액으로, 2025년 말 연결 매출액의 3.41%다. 금융감독원 전자공시시스템에...",
+    "published_at": "2026-10-30T12:50:00+09:00",
+    "cluster_id": "2ce8",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "대우건설, 창원 상남1구역 2749억원 공사계약 공시",
+    "summary": "대우건설이 창원 상남1구역 재건축정비사업 공사계약을 약 2749억원에 체결했다. 2025년 예상 연결 매출액의 3.41%에 해당하는 규모의 신규 수주로 건설사의 수주 실적 증가를 나타낸다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-30T13:02:49+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21135,19 +21151,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "렙티스 마그나의 추억 - incheonin.com",
-    "link": "http://www.incheonin.com/news/articleView.html?idxno=121304",
-    "description": "대우건설이 시공하던 병원 신축 현장에 뒤늦게 합류한 나는 뽀르나지 캠프에서 생활을 했다. 낯선 이국땅에서 일과 씨름하던 그 해 가을 트리폴리 한인회에서 주선한 문화유산 탐방길에 나섰다. 가슴 설레던 당시의 길과...",
-    "published_at": "2026-10-28T08:36:00+09:00",
-    "cluster_id": "db69",
-    "publisher": "incheonin.com",
-    "title_clean": "렙티스 마그나의 추억",
-    "summary": "대우건설이 시공한 리비아 병원 신축 현장에서 근무한 직원이 현지에서의 경험과 문화유산 탐방을 회상하는 개인 에세이.",
+    "title": "최근 경제동향 <2026.10.23. 분석> - 청년층 등 고용 문제 심각 - ifs.or.kr",
+    "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11401",
+    "description": "(선박제외), 건설수주액, 경제심리지수(이전 소비자기대지수), 수출입물가비율, 구인구직비율(삭제), 코스피, 장단기금리차 7개로 구성 ◯ 8월 동행지수 순환변동치는 전월(101.2)대비 0.5p 증가한 101.7...",
+    "published_at": "2026-10-30T12:56:00+09:00",
+    "cluster_id": "042a",
+    "publisher": "ifs.or.kr",
+    "title_clean": "최근 경제동향 <2026.10.23. 분석> - 청년층 등 고용 문제 심각",
+    "summary": "8월 동행지수가 전월 대비 0.5포인트 증가하여 경기 회복 신호를 보이고 있습니다. 다만 청년층 등 고용 문제가 심각한 상황이 지속되고 있어 경제 전반의 불안 요인으로 작용하고 있습니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-28T08:45:17+09:00",
+    "collected_at": "2026-10-30T13:02:49+09:00",
     "importance": 2
   },
   {
@@ -32285,21 +32301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-26T09:49:05+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "건설근로자공제회, ‘건설노동자 가족 힐링여행’ 성료 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610260855476000050",
-    "description": "건설근로자공제회 대전지사(지사장 조원구)가 한국관광공사 대전충남지사(지사장 심홍용)와 지난 24일 건설노동자와 그 가족을 대상으로 ‘건설노동자 가족 힐링여행’ 프로그램을 진행했다고 26일 밝혔다. 프로그램은...",
-    "published_at": "2026-10-26T09:22:00+09:00",
-    "cluster_id": "e5ca",
-    "publisher": "대한경제",
-    "title_clean": "건설근로자공제회, ‘건설노동자 가족 힐링여행’ 성료",
-    "summary": "건설근로자공제회 대전지사가 한국관광공사와 협력하여 건설노동자와 가족을 대상으로 힐링여행 프로그램을 진행했다. 건설근로자의 복지 및 삶의 질 향상을 위한 사회공헌 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-26T09:29:05+09:00",
-    "importance": 2
   }
 ]
