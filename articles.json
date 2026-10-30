@@ -4777,6 +4777,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "국산 표준 가스터빈 보령신복합 1호기 ‘첫 전력’ 생산 성공 - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026103023003686745",
+    "description": "한국중부발전과 두산에너빌리티, 한국전력기술, HJ중공업 등 건설 참여사들이 현장 협업을 통해 완수한 결과다. 특히 보령신복합 1호기에 적용된 국산 표준 가스터빈(380MW급)은 미국 스페이스X의 AI 데이터센터에 12기가...",
+    "published_at": "2026-10-30T23:01:00+09:00",
+    "cluster_id": "26f9",
+    "publisher": "busan.com",
+    "title_clean": "국산 표준 가스터빈 보령신복합 1호기 ‘첫 전력’ 생산 성공",
+    "summary": "국산 표준 가스터빈(380MW급)이 보령신복합 1호기에서 첫 전력 생산에 성공했다. 한국중부발전, 두산에너빌리티, 한국전력기술, HJ중공업 등이 협력해 완성한 성과로, 국산 기계설비의 기술력을 입증했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-30T23:09:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20759,22 +20775,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-29T09:37:18+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[속보]한수원-대우건설 체코 두코바니 시공계약 협상 결렬…신규 시공사... - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261029_0003845642",
-    "description": "후속기사가 이어집니다.",
-    "published_at": "2026-10-29T09:20:00+09:00",
-    "cluster_id": "caf3",
-    "publisher": "newsis.com",
-    "title_clean": "[속보]한수원-대우건설 체코 두코바니 시공계약 협상 결렬…신규 시공사...",
-    "summary": "한수원과 대우건설이 체코 두코바니 원전 건설 프로젝트의 시공계약 협상을 결렬했다. 신규 시공사 선정 등 후속 조치가 진행될 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T09:37:18+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
