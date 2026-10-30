@@ -20760,6 +20760,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "울산시, 2026년 하반기 건설현장 합동 안전점검 실시 - 글로벌뉴스통신GNA",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwNk96ZGcyelNLMUp4d2ZlbThJZVhHai1zRzd6eDc0UllFX09EcXBYQ3hRZTF4ZVBiOUJDaXF5S1VwYnlnZm5nVzJKWmg5Q0dTVXpIMUxQeGNDTEpZR2U4VnhkaUhOcUNJZlVKTTJZd0JEYWh2?oc=5",
+    "description": "[울산=글로벌뉴스통신] 울산시는 11월 2일부터 18일까지 관내 공공 발주 건설공사 현장을 대상으로 부실시공 방지와 현장 안전사고 예방을 위한 ‘2026년 하반기",
+    "published_at": "2026-10-30T20:41:20+09:00",
+    "cluster_id": "60a5",
+    "publisher": "글로벌뉴스통신GNA",
+    "title_clean": "울산시, 2026년 하반기 건설현장 합동 안전점검 실시",
+    "summary": "울산시가 11월 2일부터 18일까지 공공 발주 건설공사 현장을 대상으로 합동 안전점검을 실시한다. 부실시공 방지와 현장 안전사고 예방을 목표로 한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-30T20:50:25+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32262,21 +32278,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-26T15:39:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "파주시, 경기도 위반건축물 관리평가 2년 연속 ‘최우수’ - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqZzY1MVh4aG1NT1VKWEtzUWRNQnNBTVZ2bUd6WDlGQzg4OWFYSmpYUlhGeU1oUzJqNG9pX08tWGNPTTBjM21BWXU4cTM?oc=5",
-    "description": "31개 시군 중 1위&hellip;위반건축물 정비&middot;건축신고 사전 안내 등 평가 경기도 파주시가 경기도 위반건축물 관리평가에서 2년 연속 도내 1위를 차지했다. 시는 경기도가 실시한 &lsquo;2026년 시군 위반건축물 관리평가&rsquo;에서 도내 31개 시군 가운데 최우수 기관으로 선정됐다고 26일 밝혔다. 지난해에 이어 2년 연속 최우수 평가를 받았다.",
-    "published_at": "2026-10-26T10:59:37+09:00",
-    "cluster_id": "8e2b",
-    "publisher": "아이뉴스24",
-    "title_clean": "파주시, 경기도 위반건축물 관리평가 2년 연속 ‘최우수’",
-    "summary": "파주시가 경기도 위반건축물 관리평가에서 2년 연속 1위를 기록했다. 위반건축물 정비와 건축신고 사전 안내 등을 통해 도내 31개 시군 중 최우수 기관으로 선정됐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-26T15:39:58+09:00",
-    "importance": 4
   }
 ]
