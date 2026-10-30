@@ -20760,6 +20760,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "붕괴 사고 후 재시공, 화정아이파크 12월 말 준공 - ikbc.co.kr",
+    "link": "https://www.ikbc.co.kr/article/view/kbc202610300088",
+    "description": "2022년 1월 건설 노동자 6명이 숨지고 1명이 다친 붕괴 사고 이후 재시공에 들어간 서구 화정아이파크가 올해 12월 말 준공합니다. 아이파크현대산업개발은 30일까지 외부 전문가들이 참여하는 산학연 연합자문단과 함께...",
+    "published_at": "2026-10-30T21:21:00+09:00",
+    "cluster_id": "5a04",
+    "publisher": "ikbc.co.kr",
+    "title_clean": "붕괴 사고 후 재시공, 화정아이파크 12월 말 준공",
+    "summary": "2022년 붕괴 사고로 6명이 숨진 서구 화정아이파크가 재시공을 거쳐 12월 말 준공 예정이다. 현대산업개발이 외부 전문가 자문단과 함께 안전성을 강화하여 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-30T21:26:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32259,22 +32275,6 @@
     "publisher": "hidomin.com",
     "title_clean": "대구 건축·주택·정비사업 인허가 시간·비용 대폭 단축…11월 부터 '통...",
     "summary": "대구시가 건축·주택·정비사업 인허가 절차를 통합심의로 단축하고, 지역 하도급업체 참여 비율을 70% 이상 권장하여 건설경기 회복을 추진 중이다. 11월부터 시행되는 이 정책은 인허가 시간과 비용을 대폭 감소시킬 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T15:39:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "안양시, 국토부에 박달스마트시티 개발제한구역 해제·위례과천선 연장 건의 - 경인신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRXZjRDFDRE9rcThzRW5lVl90OUhXQ2M0akZhekYtYTlYbVpIeWp4Um41Mk5mRlJraTA3WVd2TEFGc1BkeTJ4SlVFb2RJeUNmOXhnNzhyRFdSellhUTdQcTBRZkJ1SjA?oc=5",
-    "description": "[경인신문 최승광 기자] 안양시는 지난 24일 오전 9시 석수체육공원에서 열린 ‘제14회 전국 건설인 축구대회’에서 박달스마트시티 조성사업의 개발제한구역 해제와 위례과천선 안양권 연장사업의 국가계획 반영을 위해 국토교통부에 건의서를 전달했다.최대호 안양시장은 이날 홍지선 국토교통부 장관을 대신해 참석한 김석기 건설정책국장에게 건의서를 전달하며, 두 사업이 안양의 미래 성장 기반 마련과 광역교통 여건 개선을 위한 주요 현안인 만큼 국토교통부의 적극적인 관심과 협조가 필요하다는 뜻을 전했다.박달스마트시티 조성사업은 노후 군사시설의 현대",
-    "published_at": "2026-10-26T15:02:08+09:00",
-    "cluster_id": "8977",
-    "publisher": "경인신문",
-    "title_clean": "안양시, 국토부에 박달스마트시티 개발제한구역 해제·위례과천선 연장 건의",
-    "summary": "안양시가 박달스마트시티 개발제한구역 해제와 위례과천선 안양권 연장사업의 국가계획 반영을 국토교통부에 건의했다. 두 사업이 추진될 경우 안양지역의 개발 확대와 건설 수주 기회 증가로 이어질 것으로 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-26T15:39:58+09:00",
     "importance": 2
