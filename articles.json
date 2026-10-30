@@ -3,6 +3,23 @@
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
+    "title": "K-FINCO, 내년 당기순이익 1440억원 목표 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52561",
+    "description": "K-FINCO 전문건설공제조합(이하 K-FINCO)은 지난 29일 서울 동작구 전문건설회관에서 제85회 총회를 개최하고, ‘2027 사업연도 예산안’과 ‘소액출자 대의원 선출안’을 원안 의결했다.K-FINCO는 내년도 수익예산을 전년 대비 57억원 감소한 4851억원, 비용예산을 534억원 줄어든 2793억원으로 편성했다. 당기순이익 목표는 1440억원으로 설정했다.수익예산은 건설경기 회복세가 제한적일 것으로 예상되는 점을 반영했다. K-FINCO는 적극적인 영업활동과 효율적인 자산운용을 통해 수익성을 확보한다는 방침이다.비용예산은",
+    "published_at": "2026-10-30T10:34:28+09:00",
+    "cluster_id": "787f",
+    "publisher": "기계설비신문",
+    "title_clean": "K-FINCO, 내년 당기순이익 1440억원 목표",
+    "summary": "K-FINCO(전문건설공제조합)은 제85회 총회에서 2027년 예산안을 의결하고, 건설경기 제한적 회복을 반영해 수익예산 4851억원, 당기순이익 1440억원 목표를 설정했다. 비용 절감과 효율성 강화를 통해 경영 효율화를 추진할 계획이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-30T16:34:12+09:00",
+    "event_label": "전문건설공제조합 2027년 예산안 의결 (수익 4851억원, 당기순이익 1440억원 목표)",
+    "importance": 5
+  },
+  {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
     "title": "전문건설공제조합 '2027년 예산안' 의결 - news1.kr",
     "link": "https://www.news1.kr/realestate/general/6337999",
     "description": "전문건설공제조합(K-FINCO)이 서울 동작구 전문건설회관에서 제85회 총회를 개최하고 내년 사업연도 예산안과 소액출자 대의원 선출안을 원안 의결했다고 30일 밝혔다. 2027 사업연도 예산안은 수익예산 4851억 원...",
@@ -20862,6 +20879,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설업 종사자 2개월 연속 감소...9월 1만4000명 줄어 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52560",
+    "description": "건설경기 침체가 이어지는 가운데 건설업 종사자 수가 2개월 연속 감소하고 감소폭도 확대된 것으로 나타났다. 지난 6~7월 증가세를 보였던 건설업 고용이 다시 위축되는 모습이다.고용노동부가 지난 29일 발표한 '2026년 9월 사업체노동력조사'에 따르면, 9월 말 기준 건설업 종사자는 138만4000명으로 전년 동월 대비 1만4000명(1.0%) 감소했다.건설업 종사자는 지난 6월 24개월 만에 증가세로 전환한 뒤 7월까지 증가세를 이어갔으나, 8월 1000명 감소한 데 이어 9월에는 감소폭이 1만4000명으로 확대됐다.세부 업종별로",
+    "published_at": "2026-10-30T10:02:16+09:00",
+    "cluster_id": "776c",
+    "publisher": "기계설비신문",
+    "title_clean": "건설업 종사자 2개월 연속 감소...9월 1만4000명 줄어",
+    "summary": "건설업 종사자가 9월에 1만4000명 감소하며 2개월 연속 하락세를 보였다. 6~7월의 증가세 이후 8월부터 감소로 전환되어 건설경기 침체가 심화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-30T16:34:12+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32251,22 +32284,6 @@
     "summary": "강릉시가 공동주택 건설 현장에서 지역건설업체의 참여를 확대하기 위한 협약을 추진하고 있습니다. 이는 대규모 투자사업에서 지역업체의 수주 기회를 늘리고 상생 협력을 통해 건설경기를 활성화하려는 정책입니다.",
     "sentiment": "positive",
     "collected_at": "2026-10-26T13:09:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[인사] 국토교통부 - 대한전문건설신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuNC1zUzlqT2g2bVBGX19wTHU5dXJyd3VMZ0xMU2xYbkVJa19MUWFNYVJsTUZPcW90eWt3REJfZTV1TDNWVEpXYVNsalpFaG9pN1hPdzlHUllTcDZGcGZBcWtIbklQVkZs0gFsQVVfeXFMTk5kQVhIaTlaMEVZdmFoSE9tOTJJcFc4YmJ4RHg2WXdia1pkMVhtT01TVklwcDZXYUhCV2lsUzBVazdWQk9aRlU0UVg1VUVtZUVOdGRpSTJwUjAzZDZwTG9GeHhYZjE4XzlvaGhI?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuNC1zUzlqT2g2bVBGX19wTHU5dXJyd3VMZ0xMU2xYbkVJa19MUWFNYVJsTUZPcW90eWt3REJfZTV1TDNWVEpXYVNsalpFaG9pN1hPdzlHUllTcDZGcGZBcWtIbklQVkZs0gFsQVVfeXFMTk5kQVhIaTlaMEVZdmFoSE9tOTJJcFc4YmJ4RHg2WXdia1pkMVhtT01TVklwcDZXYUhCV2lsUzBVazdWQk9aRlU0UVg1VUVtZUVOdGRpSTJwUjAzZDZwTG9GeHhYZjE4XzlvaGhI?oc=5\" target=\"_blank\">[인사] 국토교통부</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한전문건설신문</font>",
-    "published_at": "2026-10-26T09:28:50+09:00",
-    "cluster_id": "ad5b",
-    "publisher": "대한전문건설신문",
-    "title_clean": "[인사] 국토교통부",
-    "summary": "제공된 기사 내용이 제목만 있고 구체적인 인사 내용이 없어 상세 분석이 불가능합니다. 국토교통부의 인사 발령 관련 뉴스로 보이나, 업계에 미치는 영향을 판단할 정보가 부족합니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-26T12:59:15+09:00",
     "importance": 2
   }
 ]
