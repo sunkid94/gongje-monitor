@@ -20777,6 +20777,22 @@
     "importance": 7
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 대구경북통합신공항 민간공항 기본계획 변경 고시 - 정필",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBybU55bE5xdXY2eERDc2FSN19pMVQ4bjdESUpFZy1oRVlDeUpDTDNTdngzQnNvR2lsMXBlaE9BaFdyZTNWcHE0?oc=5",
+    "description": "국토교통부 [정필=김준영 기자 kspa@jeongpil.com] 국토교통부는",
+    "published_at": "2026-10-30T12:39:00+09:00",
+    "cluster_id": "6c53",
+    "publisher": "정필",
+    "title_clean": "국토부, 대구경북통합신공항 민간공항 기본계획 변경 고시",
+    "summary": "기사 내용이 불완전하여 정확한 분석이 어렵습니다. 제목만으로는 대구경북통합신공항의 민간공항 기본계획 변경 고시 사실만 확인되며, 구체적인 변경 내용(규모, 일정, 투자 규모 등)이 제시되지 않았습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-30T23:59:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32262,22 +32278,6 @@
     "summary": "건설근로자 금융 접근성 향상을 위해 도입된 포용금융 사업이 시행 2개월 만에 대출 실적 3명으로 거절률 93.5%를 기록했다. 정책 효과성 저조로 건설근로자 금융 지원 체계 개선 필요성이 제기되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-26T16:00:32+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대출 늘리면 부실 부담…지방은행의 지역금융 딜레마 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498484",
-    "description": "지방은행은 영업 기반이 특정 지역에 집중돼 있어 해당 지역의 제조업 침체, 건설경기 부진, 소비 위축에 직접적인 영향을 받는다. 특히 매출 회복이 더딘 자영업자와 중소기업은 이자와 원재료비 부담이 커질수록 대출...",
-    "published_at": "2026-10-26T15:46:00+09:00",
-    "cluster_id": "3df1",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "대출 늘리면 부실 부담…지방은행의 지역금융 딜레마",
-    "summary": "지방은행의 영업 기반이 특정 지역에 집중되어 있어 지역 제조업 침체와 건설경기 부진의 직접적인 영향을 받고 있다. 자영업자와 중소기업의 대출 수요 증가로 인한 부실 위험과 지역금융 공급 간의 딜레마에 처해 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-26T15:50:06+09:00",
     "importance": 4
   }
 ]
