@@ -4760,6 +4760,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[10월31일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450840",
+    "description": "촉각 ● 두산에너빌리티 일본 IHI와 미국 원전 주기기 수주 경쟁, 닛케이 \"오랜 협력관계 덕에 일본 유리\" ● \"한국 중동에 파병 가능성 낮지만 무기 수출은 확대\" 포브스 전망, 기술 이전·현지 생산이 차별점 ● NH투자...",
+    "published_at": "2026-10-30T21:00:00+09:00",
+    "cluster_id": "2eb3",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[10월31일자] 비즈니스포스트 아침의 주요기사",
+    "summary": "두산에너빌리티가 일본 IHI와 미국 원전 주기기 수주 경쟁을 벌이고 있으며, 한국의 중동 무기 수출 확대 가능성이 제시되고 있다. 기술 이전과 현지 생산이 한국 기업의 경쟁력 차별점으로 평가되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-30T21:10:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20742,22 +20758,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T09:37:18+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 'S70 성수 르엘' 팝업관 운영…미래형 주거 경험 선보인다 - worktoday.co.kr",
-    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91125",
-    "description": "롯데건설이 서울 광진구 소재 르엘캐슬갤러리에 마련한 'S70 성수 르엘' 팝업관 내 단지 모형/ 롯데건설 제공 롯데건설이 서울 성수4지구 재개발사업에 제안한 하이퍼엔드 주거 브랜드 'S70 성수 르엘'을 체험할 수 있는...",
-    "published_at": "2026-10-29T09:24:00+09:00",
-    "cluster_id": "e9f5",
-    "publisher": "worktoday.co.kr",
-    "title_clean": "롯데건설, 'S70 성수 르엘' 팝업관 운영…미래형 주거 경험 선보인다",
-    "summary": "롯데건설이 서울 성수4지구 재개발사업의 하이퍼엔드 주거 브랜드 'S70 성수 르엘' 팝업관을 운영하며 미래형 주거 경험을 선보이고 있다. 이는 대형 건설사의 프리미엄 주거 프로젝트 추진으로 건설 수주 기회 창출 및 건설업 활성화에 긍정적인 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T09:37:18+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
