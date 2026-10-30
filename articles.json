@@ -21134,6 +21134,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "제주, 건축물 일조권 기준 완화…고의적 건축법 위반 제재 강화 - headlinejeju.co.kr",
+    "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601329",
+    "description": "현주현 제주도 도시건설국장은 \"침체된 건설경기 회복을 지원하려면 인허가 과정의 규제혁신이 시급하다\"며 \"합리적인 건축 규제 개선과 신속하고 공정한 인허가 절차로 도민 편의를 높여 나가겠다\"고 말했다....",
+    "published_at": "2026-10-30T12:20:00+09:00",
+    "cluster_id": "5b7a",
+    "publisher": "headlinejeju.co.kr",
+    "title_clean": "제주, 건축물 일조권 기준 완화…고의적 건축법 위반 제재 강화",
+    "summary": "제주도가 침체된 건설경기 회복을 위해 건축물 일조권 기준을 완화하는 규제혁신을 추진한다. 동시에 고의적 건축법 위반에 대한 제재는 강화하여 합리적인 인허가 절차를 운영할 방침이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-30T12:32:54+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "GS건설, 3분기 영업이익 955억원⋯전년比 35.7%↓·부채비율 218% 개선 - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xVnlDVHhxUHo0aEVCQlhaQzU4Skx1dU5FQThoQm8zdUR2TVhSRDNxeUpVY2xYWlREZFRER0xUNUdFR2J5bHVFVGM4VE5oWk54c3VNY0d3R3FZaFJpV1ktbWdPMA?oc=5",
+    "description": "[더구루=김수현 기자] GS건설이 원자재 가격 상승과 건설 경기 둔화 여파로 3분기 아쉬운 성적표를 받아들었다. 매출과 영업이익 모두 전년 동기 대비 감소했으나 신규 수주와 재무 건전성 지표는 안정세를 유지했다. 30일 GS건설의 3분기 경영실적 잠정 집계 결과, 매출액은 2조7442억 원으로 전년 동기 대비 14.5% 감소했고, 영업이익은 955억 원으로",
+    "published_at": "2026-10-30T11:44:14+09:00",
+    "cluster_id": "60d3",
+    "publisher": "더구루",
+    "title_clean": "GS건설, 3분기 영업이익 955억원⋯전년比 35.7%↓·부채비율 218% 개선",
+    "summary": "GS건설이 원자재 가격 상승과 건설 경기 둔화로 3분기 매출 2조7442억원(전년比 14.5%↓), 영업이익 955억원(전년比 35.7%↓)을 기록했다. 다만 신규 수주와 부채비율 218% 개선 등 재무 건전성 지표는 안정세를 유지했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-30T12:32:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32268,37 +32300,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-26T07:59:07+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[건설현장 안전의 역설] 영업정지 처분은 법정에 묶이고…대형 건설사 ... - geconomy.co.kr",
-    "link": "https://www.geconomy.co.kr/news/article.html?no=324818",
-    "description": "여기에 건설산업기본법 제14조는 영업정지 처분을 받더라도 처분 전에 도급계약을 체결했거나 관계 법령에 따라 인허가를 받아 착공한 공사는 계속 시공할 수 있도록 규정하고 있다. 이는 공사 중단에 따른 발주자와...",
-    "published_at": "2026-10-26T07:20:00+09:00",
-    "cluster_id": "bdc8",
-    "publisher": "geconomy.co.kr",
-    "title_clean": "[건설현장 안전의 역설] 영업정지 처분은 법정에 묶이고…대형 건설사 ...",
-    "summary": "건설현장 안전 규제 강화 속에서 영업정지 처분을 받은 대형 건설사가 법적 절차로 인한 지연으로 실질적 제재를 피하고 있는 문제를 지적. 건설산업기본법 제14조가 영업정지 후에도 기존 공사 계속 시공을 허용하면서 안전 규제의 실효성이 훼손되고 있는 상황.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-26T07:28:57+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "李 ‘닥공’에 판 커진 모듈러…건설사 기술전쟁 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YUXhfUHJhLWhuSXEzSWxvbHBCMGE2a3lBRjBYVjliZzRDS25hMnR4LWwzUWxBSnYySVpfaFJkWndGLTFyRG1ROF9yc0NlX2hxOXpTdXkyM1dYTmFFTmlNQ2JrR0tvQ3B5eTh3Q05B?oc=5",
-    "description": "정부가 주택공급 속도를 높이기 위해 모듈러주택 확대에 나서면서 대형건설사들도 기술개발과 사업확장에 속도를 내고 있다. 이재명 대통령이 모듈러주택 활성화를 주문한데 이어 한국토지주택공사(LH)가 2030년까지 1만6000가구를 발주하기로 하면서다. 공공발주 확대를 계기..",
-    "published_at": "2026-10-26T06:00:00+09:00",
-    "cluster_id": "9557",
-    "publisher": "아시아투데이",
-    "title_clean": "李 ‘닥공’에 판 커진 모듈러…건설사 기술전쟁",
-    "summary": "정부와 LH의 모듈러주택 확대 정책으로 대형건설사들이 기술개발과 사업 확장을 가속화하고 있다. 2030년까지 1만6000가구 발주 등 공공발주 확대가 건설업계에 새로운 시장기회를 제공하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T07:13:58+09:00",
-    "importance": 2
   }
 ]
