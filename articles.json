@@ -20828,6 +20828,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "체코 원전 시공협상 결렬에 대우건설 노동자 반발 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237504",
+    "description": "<한국수력원자력 제공> 한국수력원자력(한수원)이 대우건설·두산에너빌리티와 진행해 온 체코 두코바니 원전 건설사업의 시공계약 협상을 종료하고 신규 입찰을 추진하겠다고 밝히자 대우건설 노동자들이 \"우월적 지위...",
+    "published_at": "2026-10-30T18:28:00+09:00",
+    "cluster_id": "a5d3",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "체코 원전 시공협상 결렬에 대우건설 노동자 반발",
+    "summary": "한수원이 체코 두코바니 원전 건설사업의 시공계약 협상을 종료하고 신규 입찰을 추진하자, 대우건설 노동자들이 반발하고 있다. 국내 건설사의 해외 원전 수주 사업이 좌절되면서 건설업계에 악재로 작용할 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-30T18:40:17+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32266,21 +32282,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-26T15:30:04+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "안양시, 국토부에 '박달스마트시티 GB 해제'·'위례과천선 연장' 건의 - joongangenews.com",
-    "link": "https://www.joongangenews.com/news/articleView.html?idxno=558347",
-    "description": "안양시는 지난 24일 오전 9시 석수체육공원에서 열린 '제14회 전국 건설인 축구대회'에서 최대호 안양시장이 김석기 국토교통부 건설정책국장에게 이 같은 내용이 담긴 건의서를 직접 전달했다고 26일 밝혔다. 김 국장은...",
-    "published_at": "2026-10-26T15:20:00+09:00",
-    "cluster_id": "07da",
-    "publisher": "joongangenews.com",
-    "title_clean": "안양시, 국토부에 '박달스마트시티 GB 해제'·'위례과천선 연장' 건의",
-    "summary": "안양시가 국토교통부에 박달스마트시티 그린벨트 해제와 위례과천선 연장을 건의했다. 이는 지역 개발 사업 추진을 통한 건설 시장 확대를 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T15:30:04+09:00",
-    "importance": 2
   }
 ]
