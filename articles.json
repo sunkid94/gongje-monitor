@@ -4777,6 +4777,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "미 해군 보급함 정비, K-조선으로 몰린다…삼성중공업만 소외 - 4th.kr",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2120853",
+    "description": "사진은 과거 항해 모습./미 해군 미국 해군 화물보급함 정비 물량이 한국 조선사로 빠르게 이동하고 있지만 국내 대형 조선사 가운데 삼성중공업만 수주 실적을 확보하지 못하면서 경쟁사들과 대조를 이루고 있다....",
+    "published_at": "2026-10-31T00:54:00+09:00",
+    "cluster_id": "a80e",
+    "publisher": "4th.kr",
+    "title_clean": "미 해군 보급함 정비, K-조선으로 몰린다…삼성중공업만 소외",
+    "summary": "미 해군 화물보급함 정비 물량이 한국 조선사로 이동하고 있으나, 삼성중공업은 수주 실적을 확보하지 못하면서 현대중공업, 대우조선 등 경쟁사들과의 격차가 벌어지고 있다. 국내 조선업계의 양극화 심화로 대형 프로젝트 수주 편중 현상이 나타나고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-10-31T00:59:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20759,22 +20775,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T09:37:18+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'청라 아크원 푸르지오' 분양 본격화…30일 견본주택 개관 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420306",
-    "description": "청라스마트시티가 시행하고 대우건설이 시공하는 '청라 아크원 푸르지오'가 오는 30일 견본주택을 개관하고 본격적인 분양에 나선다. 청라국제도시에서 약 10년 만에 공급되는 500가구 이상 규모의 신규 아파트로...",
-    "published_at": "2026-10-29T09:26:00+09:00",
-    "cluster_id": "ca41",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "'청라 아크원 푸르지오' 분양 본격화…30일 견본주택 개관",
-    "summary": "청라스마트시티 프로젝트에서 대우건설이 시공하는 '청라 아크원 푸르지오' 아파트가 30일 견본주택을 개관하며 본격 분양을 시작한다. 청라국제도시에서 약 10년 만에 공급되는 500가구 이상 규모의 신규 대형 프로젝트로, 건설사의 수주 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T09:37:18+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
