@@ -20780,6 +20780,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "[현대제철 IR - Q&A] \"철강업황 부진 여전…주주환원책 발표 타이밍 아냐... - snmnews.com",
+    "link": "http://www.snmnews.com/news/articleView.html?idxno=576705",
+    "description": "국내 건설 부문은 올 하반기 투자 증가세로 전환되면서 4분기 이후 건설경기가 점진적으로 회복될 것으로 전망하고 있다. 내년에도 반도체 클러스터 등 산업시설 중심의 비주거용 건설 투자 확대가 예상된다. 다만 주거용...",
+    "published_at": "2026-10-30T22:06:00+09:00",
+    "cluster_id": "aa31",
+    "publisher": "snmnews.com",
+    "title_clean": "[현대제철 IR - Q&A] \"철강업황 부진 여전…주주환원책 발표 타이밍 아냐...",
+    "summary": "현대제철은 국내 건설경기가 하반기 투자 증가로 4분기부터 점진적 회복될 것으로 전망했다. 내년에는 반도체 클러스터 등 비주거용 건설 투자 확대가 예상되나, 현재 철강업황은 여전히 부진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-30T22:10:48+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "DL이앤씨, 3분기 누적 영업이익 4241억원… 전년 대비 30.9% 증가 - biztribune.co.kr",
     "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361655",
     "description": "건설경기 불확실성이 지속되는 가운데 선별수주 기조를 통해 사업 안정성을 강화하고, 주택사업 원가율 안정화와 체질 개선 노력으로 수익성을 높이는 데 주력하고 있다. 미래 성장동력 확보를 위한 사업 포트폴리오...",
@@ -32263,21 +32279,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-26T15:50:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "안양시, 박달스마트시티·위례과천선 연장 건의서 국토부 전달 - 프레시안",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Wmh1WG1GZmQybDMtRGE3XzNpdkhGcDNVWXpsUEllelBoWFh1Nk9rWjRnRmNyZm90NjhoUUtEdGN4anpfbF9wdUQwSHZlNVo5YWp4T1ZNdk91dFNpVFcyX3I2NnNlWm40azBz?oc=5",
-    "description": "경기 안양시가 박달스마트시티 조성사업의 개발제한구역(GB) 해제와 위례과천선 안양권 연장사업의 국가계획 반영을 국토교통부에 강력 건의했다. 26일 안양시에 따르면 시는 지난 24일 석수체육공원에서 열린 ‘제14회 전국 건설인 축구대회’에서 국토교통부에 관련 내용을...",
-    "published_at": "2026-10-26T15:39:03+09:00",
-    "cluster_id": "18af",
-    "publisher": "프레시안",
-    "title_clean": "안양시, 박달스마트시티·위례과천선 연장 건의서 국토부 전달",
-    "summary": "안양시가 박달스마트시티 개발제한구역 해제와 위례과천선 안양권 연장사업의 국가계획 반영을 국토교통부에 건의했다. 두 사업은 지역 개발과 교통 인프라 확충을 통해 건설 시장 확대를 기대할 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T15:50:06+09:00",
-    "importance": 2
   }
 ]
