@@ -20709,6 +20709,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "현장을 지키는 기업들…건설·교통·지역사회로 확산되는 ‘안전 경영’ - 코리아포스트 한글판",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91N0EzV05RWWtBVmkxUkVxcDZxS1RiYlV0b0VXaDczWFJoUWFucUllQmFMRHhTRVgxSFc2eWk4eWJjWkxxWU5WRTBNQV83WUhxNmozazYtUzY0TThSSU45T3pPRlpxckx1d2lldEJ3?oc=5",
+    "description": "[코리아포스트 한글판 이은숙 기자] 기업들의 안전·상생 활동이 산업 현장을 넘어 도로와 지역사회로 확산되고 있다. 겨울철을 앞두고 건설현장의 위험요인을 점검하는",
+    "published_at": "2026-10-31T15:14:00+09:00",
+    "cluster_id": "8269",
+    "publisher": "코리아포스트 한글판",
+    "title_clean": "현장을 지키는 기업들…건설·교통·지역사회로 확산되는 ‘안전 경영’",
+    "summary": "기업들의 안전·상생 활동이 건설현장을 넘어 도로와 지역사회로 확대되고 있다. 겨울철을 앞두고 건설현장의 위험요인을 점검하는 등 산업 전반에서 안전 경영을 강화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-10-31T15:23:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32259,21 +32275,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-26T16:00:32+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "건설사 4곳, 스타트업에 기술과제 공개…실증 협력 찾는다 - smedaily.co.kr",
-    "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=365203",
-    "description": "주요 협력 분야는 스마트건설·안전관리와 인공지능(AI)·디지털트윈, 친환경·에너지, 스마트빌딩·도시운영 등이다. 행사 이후에는 사전 매칭된 대기업·투자자와 스타트업 간 1대1 상담도 진행됐다. 무역협회는 올해...",
-    "published_at": "2026-10-26T15:54:00+09:00",
-    "cluster_id": "c226",
-    "publisher": "smedaily.co.kr",
-    "title_clean": "건설사 4곳, 스타트업에 기술과제 공개…실증 협력 찾는다",
-    "summary": "주요 건설사 4곳이 스타트업과의 협력을 위해 스마트건설, AI·디지털트윈, 친환경에너지, 스마트빌딩 등 기술과제를 공개했다. 행사를 통해 대기업·투자자와 스타트업 간 매칭을 진행하며 건설업계의 혁신 기술 도입을 촉진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T16:00:32+09:00",
-    "importance": 2
   }
 ]
