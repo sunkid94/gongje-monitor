@@ -4760,6 +4760,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코 원전 '팀코리아' 균열… 한수원, 대우건설 컨소시엄과 시공협상 결... - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=324483",
+    "description": "한국수력원자력(이하 한수원)이 약 27조원 규모 체코 두코바니 원전 건설 사업의 국내 시공 협력사인 대우건설·두산에너빌리티 컨소시엄과의 시공 계약 협상을 종료했다. 설계 변경에 따른 추가 공사비 부담을 두고...",
+    "published_at": "2026-10-31T09:26:00+09:00",
+    "cluster_id": "0f62",
+    "publisher": "thepublic.kr",
+    "title_clean": "체코 원전 '팀코리아' 균열… 한수원, 대우건설 컨소시엄과 시공협상 결...",
+    "summary": "한수원이 체코 두코바니 원전 건설사업(27조원 규모)에서 대우건설·두산에너빌리티 컨소시엄과의 시공 계약 협상을 종료했다. 설계 변경에 따른 추가 공사비 부담 문제로 협상이 난항을 겪었으나 합의에 도달한 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-10-31T09:28:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20739,22 +20755,6 @@
     "publisher": "asiatoday.co.kr",
     "title_clean": "'27조' 체코 원전 시공협상 결렬…대우건설·두산에너빌 빠지고 재입찰",
     "summary": "한국수력원자력이 체코 두코바니 원전 건설사업에서 대우건설·두산에너빌리티 컨소시엄과의 시공 계약 협상을 결렬했다. 공사비와 계약 조건 합의 실패로 재입찰을 추진하게 되어 대우건설과 두산에너빌리티의 27조 규모 프로젝트 수주가 무산되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T09:52:07+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한수원, 체코 두코바니 원전 시공 협상 결렬⋯새 시공사 찾는다 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2641520",
-    "description": "이투데이=세종=서병곤 기자 | 대우건설·두산에너빌리티 컨소시엄과 주계약 조건 이견으로 최종 합의 무산 한국수력원자력이 체코 두코바니 원전 건설사업을 위해 대우건설·두산에너빌리티 컨소시엄과 진행해 온...",
-    "published_at": "2026-10-29T09:30:00+09:00",
-    "cluster_id": "d837",
-    "publisher": "etoday.co.kr",
-    "title_clean": "한수원, 체코 두코바니 원전 시공 협상 결렬⋯새 시공사 찾는다",
-    "summary": "한국수력원자력이 체코 두코바니 원전 건설사업을 위해 대우건설·두산에너빌리티 컨소시엄과의 시공 협상을 결렬했으며, 주계약 조건의 이견으로 최종 합의에 이르지 못했다. 한수원은 새로운 시공사 선정을 추진 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-10-29T09:52:07+09:00",
     "importance": 4
