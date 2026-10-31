@@ -4301,40 +4301,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO, 제20대 대의원 선출 확정 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326777",
-    "description": "K-FINCO 전문건설공제조합의 제20대 대의원 임기가 지난 9월 29일부터 시작됐다.제20대 대의원 184명은 지점별 선출 대의원 180명과 당연직 대의원 4명으로 구성됐으며, 지점별 선출 대의원의 임기는 2028년 9월28일까지 2년이다.지점별 선출 대의원은 지점별 총 출자좌수에 비례해 정해진 선출정수에 따라, 지점별로 다수 출자 조합원을 우선으로 해 선출됐다. 대의원은 조합의 최고 의사결정기구인 총회의 구성원으로서, 조합 총회에 참석해 정관의 변경, 예산의 결정 및 결산의 승인, 이사장 및 감사 선임 등 조합 운영에 관한 중요",
-    "published_at": "2026-10-02T08:00:00+09:00",
-    "cluster_id": "8b3e",
-    "publisher": "대한전문건설신문",
-    "title_clean": "K-FINCO, 제20대 대의원 선출 확정",
-    "summary": "K-FINCO 전문건설공제조합의 제20대 대의원 184명이 9월 29일부터 임기를 시작했다. 지점별 선출 대의원 180명과 당연직 대의원 4명으로 구성되며, 임기는 2028년 9월 28일까지 2년이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-02T08:02:24+09:00",
-    "event_label": "전문건설공제조합 제20대 대의원 임기 시작",
-    "importance": 5
-  },
-  {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO 기술교육원, 외국인 근로자(E-9) 맞춤형 ‘건설업 특화훈련’ 성료 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=326773",
-    "description": "K-FINCO 전문건설공제조합 기술교육원(이하 기술교육원)이 지난달 21일부터 29일까지 충북 음성 기술교육원 본원에서 E-9 비자를 발급받은 태국, 네팔 등 외국인 근로자를 대상으로 ‘외국인 근로자(E-9) 건설업 특화훈련’을 실시했다.이번 교육은 외국인 근로자가 건설 현장에서 필요한 실무능력을 키우고, 안전하게 업무를 수행할 수 있도록 용접 실습과 안전교육 등 현장 중심 과정으로 구성됐다.특히 용접 교육은 현장에서 바로 활용 가능한 기초 이론과 실습을 병행해 직무 수행 능력을 높이는 데 집중했다. 안전교육에서는 작업 수행 중에",
-    "published_at": "2026-10-02T07:59:00+09:00",
-    "cluster_id": "d7b9",
-    "publisher": "대한전문건설신문",
-    "title_clean": "K-FINCO 기술교육원, 외국인 근로자(E-9) 맞춤형 ‘건설업 특화훈련’ 성료",
-    "summary": "K-FINCO 기술교육원이 E-9 비자 외국인 근로자를 대상으로 건설업 특화훈련을 실시했다. 용접 실습과 안전교육 등 현장 중심 교육으로 외국인 근로자의 실무능력 강화와 안전 확보에 집중했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T08:02:24+09:00",
-    "event_label": "전문건설공제조합 기술교육원 E-9 외국인 근로자 건설업 특화훈련 실시",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20333,6 +20299,22 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T10:10:11+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "CCTV에 AI 눈을 달다—HDC랩스 영상분석 솔루션, 건설 현장 안전관리 방식을 바꾸다 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zUHEwSEFYN2VMbEwxMVhFWVhZRDJXWjN3SS1oZi11bkctQ0plTG5ydnljREVEd1hpNGg2ek9uQ1N4NU0?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zUHEwSEFYN2VMbEwxMVhFWVhZRDJXWjN3SS1oZi11bkctQ0plTG5ydnljREVEd1hpNGg2ek9uQ1N4NU0?oc=5\" target=\"_blank\">CCTV에 AI 눈을 달다—HDC랩스 영상분석 솔루션, 건설 현장 안전관리 방식을 바꾸다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국공공정책신문</font>",
+    "published_at": "2026-11-01T08:28:26+09:00",
+    "cluster_id": "f767",
+    "publisher": "한국공공정책신문",
+    "title_clean": "CCTV에 AI 눈을 달다—HDC랩스 영상분석 솔루션, 건설 현장 안전관리 방식을 바꾸다",
+    "summary": "HDC랩스가 CCTV에 AI 기술을 접목한 영상분석 솔루션을 개발해 건설 현장의 안전관리 방식을 혁신하고 있다. AI 기반 영상 분석을 통해 건설 현장의 안전 관리 효율성을 높이는 기술 솔루션이 제시되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-01T08:32:56+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
