@@ -3995,6 +3995,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "15개월 협상 결렬된 체코 원전…새 시공사 확보도 난항 우려 - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1708781/?sc=Naver",
+    "description": "한국수력원자력(한수원)이 대우건설·두산에너빌리티 컨소시엄과 진행해 온 체코 두코바니 원전 시공계약 협상이 결렬되면서 새로운 시공사 선정에 나선다. 일각에서는 공사비와 계약조건을 둘러싼 이견으로 기존...",
+    "published_at": "2026-11-02T07:27:00+09:00",
+    "cluster_id": "b055",
+    "publisher": "dailian.co.kr",
+    "title_clean": "15개월 협상 결렬된 체코 원전…새 시공사 확보도 난항 우려",
+    "summary": "한수원이 체코 두코바니 원전 시공계약 협상 결렬로 대우건설·두산에너빌리티 컨소시엄과의 15개월 협상을 중단했다. 공사비와 계약조건 이견으로 새로운 시공사 선정에 나서면서 프로젝트 일정 지연과 새 시공사 확보의 어려움이 우려되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-02T07:38:09+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19979,20 +19995,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 한수원 체코 원전 시공협상 결렬에 21%대 하락 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026102910244595487",
-    "description": "같은 시간 두산에너빌리티도 11.24%(6900원) 내린 5만4500원을 기록하는 등 원전 관련주 전반에 매도세가 확산하고 있다. 이번 주가 하락은 한국수력원자력이 대우건설·두산에너빌리티 컨소시엄과 진행해 온 체코...",
-    "published_at": "2026-10-29T10:40:00+09:00",
-    "cluster_id": "0375",
-    "publisher": "imaeil.com",
-    "title_clean": "대우건설, 한수원 체코 원전 시공협상 결렬에 21%대 하락",
-    "summary": "한수원과 대우건설·두산에너빌리티 컨소시엄의 체코 원전 시공협상이 결렬되면서 대우건설이 21% 이상 하락했다. 원전 관련주 전반에 매도세가 확산하고 있으며, 건설업계에 대규모 수주 기회 상실로 작용했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T10:58:50+09:00",
-    "importance": 4
+    "title": "반도체·車가 띄운 '트리플 반등'…3분기 소비 되레 뒷걸음 - newswhoplus.com",
+    "link": "https://www.newswhoplus.com/news/articleView.html?idxno=73150",
+    "description": "또 재정경제부는 소비·기업심리와 수출, 기계·건설수주 등의 흐름을 고려하면 추세적인 성장세가 이어질 것으로 전망했다. 다만 9월 생산 증가에는 직전 달 자동차 파업과 하계휴가에 따른 생산 감소를 만회한...",
+    "published_at": "2026-11-02T07:30:00+09:00",
+    "cluster_id": "d5d9",
+    "publisher": "newswhoplus.com",
+    "title_clean": "반도체·車가 띄운 '트리플 반등'…3분기 소비 되레 뒷걸음",
+    "summary": "반도체·자동차 생산 증가로 3분기 경제가 회복세를 보이고 있으며, 재정경제부는 소비·수출·기계건설수주 등을 바탕으로 추세적 성장이 지속될 것으로 전망했다. 다만 3분기 소비는 파업과 휴가의 영향으로 부진을 기록했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T07:38:09+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설수주",
@@ -32216,22 +32232,6 @@
     "summary": "태호의 김영주 회장이 전남대병원에 3000만원을 추가 기탁하여 누적 기부금이 8000만원에 도달했다. 건설기업의 지속적인 사회공헌 활동으로 지역 의료서비스 향상에 기여하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-26T17:34:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "안양시, 박달스마트시티 개발제한구역 해제·위례과천선 연장 건의 - safetynews.co.kr",
-    "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=251201",
-    "description": "안양시는 24일 석수체육공원에서 열린 제14회 전국 건설인 축구대회에서 최대호 안양시장이 김석기 국토교통부 건설정책국장에게 관련 건의서를 전달했다고 밝혔다. 박달스마트시티 조성사업은 노후 군사시설 현대화와...",
-    "published_at": "2026-10-26T17:22:00+09:00",
-    "cluster_id": "c33a",
-    "publisher": "safetynews.co.kr",
-    "title_clean": "안양시, 박달스마트시티 개발제한구역 해제·위례과천선 연장 건의",
-    "summary": "안양시가 박달스마트시티 개발제한구역 해제와 위례과천선 연장을 국토교통부에 건의했다. 노후 군사시설 현대화를 통한 스마트시티 조성사업으로 건설 수주 기회 창출이 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T17:30:37+09:00",
     "importance": 2
   }
 ]
