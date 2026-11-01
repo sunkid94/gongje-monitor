@@ -4148,6 +4148,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[기자수첩] ‘팀’ 빠진 ‘팀 코리아’ - viva100.com",
+    "link": "https://www.viva100.com/article/20261101500154",
+    "description": "이날 오전 한국수력원자력은 대우건설·두산에너빌리티 시공 컨소시엄과의 계약 협상 종료를 발표했다. 이에 컨소시엄은 곧바로 입장문을 내고 반발했다. 한수원은 이날 오후 브리핑에서 시공사 역량 문제까지 거론했고...",
+    "published_at": "2026-11-01T13:06:00+09:00",
+    "cluster_id": "9c04",
+    "publisher": "viva100.com",
+    "title_clean": "[기자수첩] ‘팀’ 빠진 ‘팀 코리아’",
+    "summary": "한국수력원자력이 대우건설·두산에너빌리티 시공 컨소시엄과의 계약 협상을 종료하고 시공사 역량 문제를 거론하며 갈등이 발생했다. 건설사 간 분쟁으로 원전 프로젝트 진행이 지연될 가능성이 우려된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-01T13:08:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20127,22 +20143,6 @@
     "publisher": "segyebiz.com",
     "title_clean": "한수원·대우건설 컨소, 체코 원전 시공계약 협상 결렬... 새 시공사 찾...",
     "summary": "한국수력원자력과 대우건설-두산에너빌리티 컨소시엄의 체코 두코바니 원전 사업 시공 계약 협상이 결렬됐다. 한수원은 새로운 시공사 선정을 위한 입찰을 추진할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T10:23:46+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[속보]'26조' 체코 원전 시공협상 결렬...한수원, 새 시공사 찾는다 - ikbc.co.kr",
-    "link": "https://www.ikbc.co.kr/article/view/kbc202610290017",
-    "description": "한국수력원자력과 대우건설-두산에너빌리티 컨소시엄의 체코 두코바니 원전 사업 시공 계약 협상이 난항 끝에 29일 결렬됐습니다. 한수원은 이날 오전 설명자료를 내고 \"대우건설-두산에너빌리티 컨소시엄(이하 시공사)...",
-    "published_at": "2026-10-29T09:58:00+09:00",
-    "cluster_id": "53ab",
-    "publisher": "ikbc.co.kr",
-    "title_clean": "[속보]'26조' 체코 원전 시공협상 결렬...한수원, 새 시공사 찾는다",
-    "summary": "한수원과 대우건설-두산에너빌리티 컨소시엄의 체코 두코바니 원전 26조 규모 시공 계약 협상이 결렬됐다. 한수원은 새로운 시공사를 찾을 계획이다.",
     "sentiment": "negative",
     "collected_at": "2026-10-29T10:23:46+09:00",
     "importance": 4
