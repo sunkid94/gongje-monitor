@@ -3995,6 +3995,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "신월7동 1구역 재개발, IPARK현대산업개발 우선협상자로 지정 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=399251",
+    "description": "2681세대·공사금액 약 9375억원…시공사 선정 절차 남아 서울 양천구 신월7동 1구역 주택정비형 재개발사업의 시공자 우선협상대상자로 IPARK현대산업개발이 지정됐다. HDC홀딩스는 지난 27일 공개한 자료에서 선정...",
+    "published_at": "2026-11-02T05:54:00+09:00",
+    "cluster_id": "8f45",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "신월7동 1구역 재개발, IPARK현대산업개발 우선협상자로 지정",
+    "summary": "서울 양천구 신월7동 1구역 주택정비형 재개발사업에서 IPARK현대산업개발이 시공자 우선협상대상자로 지정됐다. 2,681세대 규모에 공사금액 약 9,375억원 규모의 대형 프로젝트로, 시공사 선정 절차가 남아있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T05:58:22+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19974,22 +19990,6 @@
     "publisher": "hani.co.kr",
     "title_clean": "체코 두코바이 원전, 한수원-국내 시공사 계약 불발",
     "summary": "한수원과 대우건설·두산에너빌리티 컨소시엄이 체코 두코바니 원전 시공계약 협상을 결렬했다. 주요 계약 조건을 놓고 양측의 이견을 좁히지 못하면서 계약 불발로 이어졌다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T10:39:19+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한수원·대우건설 컨소시엄, 체코 두코바니 원전 시공계약 협상 결렬 - ekn.kr",
-    "link": "https://www.ekn.kr/web/view.php?key=20261029029112707",
-    "description": "한국수력원자력(한수원)과 대우건설·두산에너빌리티 컨소시엄이 체코 두코바니 신규 원전 건설사업의 시공계약 협상에서 최종 합의에 이르지 못했다. 양측이 주요 계약조건을 둘러싼 이견을 좁히지 못하면서 한수원은...",
-    "published_at": "2026-10-29T10:26:00+09:00",
-    "cluster_id": "7c99",
-    "publisher": "ekn.kr",
-    "title_clean": "한수원·대우건설 컨소시엄, 체코 두코바니 원전 시공계약 협상 결렬",
-    "summary": "한수원과 대우건설·두산에너빌리티 컨소시엄이 체코 두코바니 원전 신규 건설사업의 시공계약 협상에서 주요 계약조건을 둘러싼 의견 차이로 최종 합의에 실패했다. 한국 건설업계의 대규모 해외 원전 수주 기회가 무산되면서 건설업체의 수익성 악화가 우려된다.",
     "sentiment": "negative",
     "collected_at": "2026-10-29T10:39:19+09:00",
     "importance": 4
