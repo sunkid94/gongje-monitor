@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[포토뉴스]부산권 기계설비단체 기술세미나 - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026102615310044296",
+    "description": "부산권 기계설비단체 연합회 주관 2026년 기계설비 기술세미나가 지난달 23일 부산시청 1층 대강당에서 열려 700명가량이 참석했다. 대한기계설비협회 부산시회 제공",
+    "published_at": "2026-11-01T14:00:00+09:00",
+    "cluster_id": "776d",
+    "publisher": "busan.com",
+    "title_clean": "[포토뉴스]부산권 기계설비단체 기술세미나",
+    "summary": "부산권 기계설비단체 연합회가 주관한 2026년 기계설비 기술세미나가 부산시청에서 개최되어 700명이 참석했다. 대한기계설비협회 부산시회가 제공한 행사로, 업계 기술 정보 공유의 장이 마련되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-01T14:08:35+09:00",
+    "event_label": "대한기계설비건설협회 2026년 기계설비 기술세미나 개최",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -20095,6 +20112,38 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T10:23:46+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "현대건설, 용산 한강로구역 5990억원 재개발 수주…정비사업 13조원 돌파 - www.ebn.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeTdUbldQU1NRLVhqNnNsZ21IUk9aUjJyY25uX2JQQXR6d2s2VDRYU2xFdThzQmJnYXNzV08xQXM4bGt6dms4ellXNk41U3haSjRicmI5WXFJVjBwRlBvNld4Ukt3b3k2?oc=5",
+    "description": "현대건설이 서울 용산구 한강로구역 재개발사업 시공권을 확보하며 올해 도시정비사업 누적 수주액 13조원을 돌파했다.현대건설은 지난달 31일 열린 한강로구역 도시정비",
+    "published_at": "2026-11-01T13:34:14+09:00",
+    "cluster_id": "d7f6",
+    "publisher": "www.ebn.co.kr",
+    "title_clean": "현대건설, 용산 한강로구역 5990억원 재개발 수주…정비사업 13조원 돌파",
+    "summary": "현대건설이 서울 용산구 한강로구역 재개발사업 시공권을 수주하여 5990억원 규모 신규 수주를 확보했다. 이로써 올해 도시정비사업 누적 수주액이 13조원을 돌파하며 건설업계의 호실적을 보여주고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-01T14:08:35+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "중흥그룹, 동절기 대비 건설현장 안전관리 강화 - 스페셜경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PczZKVXN2a3dUTHp1d3BhRWk3cUJMMmxjejhndWg3dWpybEtQU2xERlBuZENLUHVySkpQbEFkZlRaVkdfTzNSMm1CZTRSczg3MHZXUG5LbUlsaUFSRVJnNnlRemlQVWg4ODJwTA?oc=5",
+    "description": "스페셜경제=강민철 기자 | 중흥그룹 경영진이 겨울철을 앞두고 주요 건설현장을 직접 방문해 안전관리 실태를 점검하고 현장 근로자들과 소통에 나섰다. 기온 하락에 따",
+    "published_at": "2026-11-01T13:50:24+09:00",
+    "cluster_id": "39fa",
+    "publisher": "스페셜경제",
+    "title_clean": "중흥그룹, 동절기 대비 건설현장 안전관리 강화",
+    "summary": "중흥그룹 경영진이 동절기를 앞두고 주요 건설현장을 방문하여 안전관리 실태를 점검하고 현장 근로자들과 소통을 진행했다. 기온 하락에 대비한 건설현장 안전관리 강화 움직임을 보이고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-01T14:08:35+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
