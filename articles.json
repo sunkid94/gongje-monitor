@@ -4029,40 +4029,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대구 관·학·산 기계설비인 한자리에 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52124",
-    "description": "대한기계설비건설협회 대구광역시회(회장 이민균)는 지난 1일 대구 수성구 소재 그랜드호텔 다이너스티 홀에서 기계설비 관련 관·학·산의 정보교류와 협력을 바탕으로 계설비산업의 경쟁력을 강화하고자 '2026년도 제10회...",
-    "published_at": "2026-10-02T18:02:00+09:00",
-    "cluster_id": "72cb",
-    "publisher": "기계설비신문",
-    "title_clean": "대구 관·학·산 기계설비인 한자리에",
-    "summary": "대한기계설비건설협회 대구광역시회가 관·학·산 정보교류와 협력을 통해 기계설비산업 경쟁력 강화를 목표로 제10회 행사를 개최했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T18:13:06+09:00",
-    "event_label": "대한기계설비건설협회 2026년도 제10회 관·학·산 협력 포럼 개최",
-    "importance": 5
-  },
-  {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대구시, 기계설비공사 품질향상 추진…'분리발주 시행' 안내 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52123",
-    "description": "이번에 배포된 '기계설비 공종 분리 적정성 체크리스트'는 대한기계설비건설협회 본회 및 대구시회가 행정안전부의 지방자치단체를 당사자로 하는 계약에 관한 법률(지방계약법) 시행령 제77조(공사의 분할계약 금지 및...",
-    "published_at": "2026-10-02T17:54:00+09:00",
-    "cluster_id": "da9f",
-    "publisher": "기계설비신문",
-    "title_clean": "대구시, 기계설비공사 품질향상 추진…'분리발주 시행' 안내",
-    "summary": "대구시와 대한기계설비건설협회가 기계설비 공종의 적정한 분리발주를 위한 '분리 적정성 체크리스트'를 배포했다. 지방계약법 시행령에 따라 기계설비공사의 품질향상과 투명성 강화를 추진하는 것이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-02T18:13:06+09:00",
-    "event_label": "대한기계설비건설협회 기계설비 공종 분리발주 체크리스트 배포",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20061,6 +20027,22 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T10:39:19+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사람&스토리]윤인호 ㈜호산개발 대표 \"지역과 함께 성장하는 기업 만들... - namdonews.com",
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=927848",
+    "description": "건설경기 침체로 기업 경영 여건이 녹록지 않은 상황에서도 윤 대표는 기업 내부의 복지 지원에 머무르지 않고 지역사회와 소비의 선순환을 만들기 위해 직원 격려금 지급 방식을 지역상품권으로 선택했다. 박성현...",
+    "published_at": "2026-11-01T18:10:00+09:00",
+    "cluster_id": "4c24",
+    "publisher": "namdonews.com",
+    "title_clean": "[사람&스토리]윤인호 ㈜호산개발 대표 \"지역과 함께 성장하는 기업 만들...",
+    "summary": "윤인호 ㈜호산개발 대표가 건설경기 침체 속에서도 직원 격려금을 지역상품권으로 지급하여 지역사회와의 선순환 구조를 모색하고 있다. 기업의 사회적 책임과 지역 경제 활성화를 동시에 추구하는 경영 사례를 소개한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-01T18:13:32+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설수주",
