@@ -20029,6 +20029,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "주차설비 철거 노동자 추락사…원청 대표 1심서 징역 2년·집행유예 3년 - 세이프티퍼스트닷뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeDlpY05fLVFDZ001UDVBdUpiMkg1M0VJeGNyNHZvMktBMkhTb25nQ29wZ3hYanVYN0xDWUFzOWwxTVA3c1pscHkzX3UxQW1JYV9fV0ZCSVUwZlM1dkNkWF9NTXg2M2pkdGVTbldiNA?oc=5",
+    "description": "[세이프티퍼스트닷뉴스] 기계식 주차설비 철거 현장에서 하청 노동자가 추락해 숨진 사건과 관련해 원청업체 대표가 1심에서 징역형 집행유예를 선고받았다. 서울중앙지법 형사7단독 이희성 판사는 지난 10월 26일 중대재해처벌법 위반 등의 혐의로 기소된 대표에게 징역 2년에 집행유예 3년을 선고하고 사회봉사 240시간을 명령했다. 함께 기소된 원청 법인에는 벌금 1억5천만원이 선고됐다. 하도급업체 대표에게는 징역 1년 6개월에 집행유예 3년, 해당 법인에는 벌금 1억원이 선고됐다. 사고는 2024년 3월 10일 서울 강남구의 기계식 주차설",
+    "published_at": "2026-11-01T19:35:15+09:00",
+    "cluster_id": "c1f8",
+    "publisher": "세이프티퍼스트닷뉴스",
+    "title_clean": "주차설비 철거 노동자 추락사…원청 대표 1심서 징역 2년·집행유예 3년",
+    "summary": "2024년 3월 서울 강남구 기계식 주차설비 철거 현장에서 하청 노동자 추락 사망사건이 발생했고, 원청 대표가 중대재해처벌법 위반으로 징역 2년 집행유예 3년을 선고받았다. 원청과 하도급업체에도 각각 벌금과 징역형이 부과되어 건설업계 안전관리 강화의 필요성을 드러냈다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-01T19:43:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32219,21 +32235,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-26T17:00:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 주택·정비사업 '통합심의' 전면 확대… \"인허가 기간 대폭 단축... - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114776",
-    "description": "이와 함께 지역 건설업체가 참여할 경우 제공되는 최대 43% 포인트의 용적률 인센티브를 조합 단계부터 적극 홍보해 지역 건설경기 회복도 함께 도모할 계획입니다. 추경호 대구시장은 \"주택 공급의 속도는 인허가에서...",
-    "published_at": "2026-10-26T16:48:00+09:00",
-    "cluster_id": "42ed",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "대구시, 주택·정비사업 '통합심의' 전면 확대… \"인허가 기간 대폭 단축...",
-    "summary": "대구시가 주택·정비사업의 인허가 절차를 통합심의로 개선하여 인허가 기간을 대폭 단축한다. 지역 건설업체 참여 시 최대 43% 포인트의 용적률 인센티브를 제공하여 지역 건설경기 회복을 함께 추진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T16:54:54+09:00",
-    "importance": 2
   }
 ]
