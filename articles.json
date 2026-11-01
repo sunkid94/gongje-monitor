@@ -20012,6 +20012,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "청주시, 지역 건설업체 공사 참여 확대 나선다 - 충청도민일보",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TFh5QkpyVzAxYVFBNzByNE9ucnpud1pvTTBCa3NaMmMxV09VVXFQYUxDWXJ6d3hkZ1RsYWI2aDF0QmFnQzgtck5uX1Z4MEFkUm1LNEFCbzJ0TzBsT3RQak1XQk0xTHBVTjJocA?oc=5",
+    "description": "[충청도민일보 이병호 기자] = 청주시가 공공기관과 민간 건설사에 지역 건설업체의 공사 참여 확대를 요청하고, 지역 자재·장비 사용과 인력 채용을 늘리는 데 힘을",
+    "published_at": "2026-11-01T15:36:49+09:00",
+    "cluster_id": "4a2b",
+    "publisher": "충청도민일보",
+    "title_clean": "청주시, 지역 건설업체 공사 참여 확대 나선다",
+    "summary": "청주시가 공공기관과 민간 건설사에 지역 건설업체의 공사 참여 확대를 요청하고 있다. 지역 자재·장비 사용 및 인력 채용 확대를 통해 지역 건설업계 활성화를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-01T21:58:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32217,22 +32233,6 @@
     "summary": "롯데건설 등 주요 건설사 4곳이 스타트업과의 협업을 통해 스마트건설, AI·디지털 트윈, 친환경 에너지, 스마트빌딩 등 미래 건설 기술 분야에서 혁신을 추진하고 있다. 대기업과 투자자, 스타트업 간 1대1 상담회를 개최하며 신기술 도입 및 사업 기회 확대를 모색 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-26T17:09:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "입주 물량 급감 대구, 인허가 속도 높인다…건설업계 환영(종합) - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261026117051053?input=1195m",
-    "description": "건축·경관·교통 등 개별 심의 통합…내달 1일부터 시행 대구시, 사업 기간 단축해 건설경기 활성화·주택 공급 공백 대응 대구시가 건설경기 활성화를 위해 계획한 건축·주택·정비사업의 각종 심의를 한 번에 처리하는...",
-    "published_at": "2026-10-26T16:59:00+09:00",
-    "cluster_id": "70d6",
-    "publisher": "yna.co.kr",
-    "title_clean": "입주 물량 급감 대구, 인허가 속도 높인다…건설업계 환영(종합)",
-    "summary": "대구시가 건축·경관·교통 등 개별 심의를 통합하여 인허가 절차를 간소화하고 내달 1일부터 시행한다. 사업 기간 단축으로 건설경기 활성화와 주택 공급 공백 대응을 추진하며 건설업계의 환영을 받고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T17:05:05+09:00",
     "importance": 2
   }
 ]
