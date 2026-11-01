@@ -20029,6 +20029,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "현대차그룹, 공동주택 주차로봇 시연회 개최 - 로봇신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KMHd6LUh1dXhPYkVfNTdkTFlfNVdudFYwSnhPSmRYVG5mV2Y0eVJmalFqd3JKcWxvZUtjY0FtMVV5eUdiS19wZ0R3U3ZkTE9fTHpTZDhqaUIxNURTWDdvRS0wRFZvVVA4VjlIeA?oc=5",
+    "description": "현대차그룹이 29일 경기도 시흥시 힐스테이트 더웨이브시티에서 공동주택 주차로봇 시연회를 열고, 현대자동차, 현대위아, 현대건설 컨소시엄이 추진 중인 실증사업의 성",
+    "published_at": "2026-11-01T19:48:45+09:00",
+    "cluster_id": "e355",
+    "publisher": "로봇신문",
+    "title_clean": "현대차그룹, 공동주택 주차로봇 시연회 개최",
+    "summary": "현대차그룹이 경기도 시흥시에서 공동주택 주차로봇 시연회를 개최하여 현대자동차, 현대위아, 현대건설 컨소시엄의 실증사업을 추진 중입니다. 이는 건설업계에 새로운 기계설비 수요를 창출하고 스마트 주택 시장 확대의 기회를 제공합니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-01T20:08:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32218,22 +32234,6 @@
     "summary": "안양시가 박달스마트시티 조성 사업의 개발제한구역(GB) 해제와 위례과천선 안양권 연장을 국토부에 건의했다. GB 해제 시 스마트시티 개발에 따른 건설 수주 기회 증가 가능성이 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-26T17:05:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "무협, 스마트시티·건설 분야 대기업–스타트업 기술 협력 연결 - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12091327?ref=naver",
-    "description": "주요 협력 분야는 스마트건설·안전관리, 인공지능(AI)·디지털트윈, 친환경·에너지, 스마트빌딩·도시운영 등이다. 리버스피칭은 대기업이 필요한 기술과 해결 과제를 제시해 협업할 스타트업을 찾는 방식을 말한다....",
-    "published_at": "2026-10-26T16:52:00+09:00",
-    "cluster_id": "5bb3",
-    "publisher": "dt.co.kr",
-    "title_clean": "무협, 스마트시티·건설 분야 대기업–스타트업 기술 협력 연결",
-    "summary": "무협이 스마트시티·건설 분야에서 대기업과 스타트업 간 기술 협력을 중개하는 리버스피칭 사업을 추진 중이다. 스마트건설, AI·디지털트윈, 친환경·에너지, 스마트빌딩 등 4개 분야를 중심으로 혁신기술 도입을 촉진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T17:00:16+09:00",
     "importance": 2
   }
 ]
