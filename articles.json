@@ -4029,6 +4029,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "청주시, 지역건설업체 참여 확대 위해 민·관 협약 - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108215",
+    "description": "협약에는 청주시와 충북개발공사, 청주도시공사, 대한전문건설협회 충청북도회, 대명건설·대우건설·두산건설·한화·IPARK현대산업개발 등 공동주택 시공사 5곳이 참여했다. 협약에 따라 참여 시공사와 발주기관은...",
+    "published_at": "2026-11-01T18:24:00+09:00",
+    "cluster_id": "0dcb",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "청주시, 지역건설업체 참여 확대 위해 민·관 협약",
+    "summary": "청주시가 지역 건설업체의 공공사업 참여 확대를 위해 충북개발공사, 청주도시공사, 전문건설협회, 주요 시공사 5곳과 민·관 협약을 체결했다. 협약을 통해 지역 건설업체의 수주 기회와 사업 참여 확대를 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-01T18:28:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20013,20 +20029,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "한수원·대우건설 컨소, 25조 규모 체코 원전시공 협상 결렬 - whitepaper.co.kr",
-    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268244",
-    "description": "(사진=연합뉴스)  한국수력원자력과 대우건설·두산에너빌리티 컨소시엄의 체코 두코바니 원전 시공계약 협상이 최종 결렬됐다. 한수원은 기존 컨소시엄과 공동협력 협약을 종료하는 절차에 착수하고 신규 시공사...",
-    "published_at": "2026-10-29T10:16:00+09:00",
-    "cluster_id": "d6b6",
-    "publisher": "whitepaper.co.kr",
-    "title_clean": "한수원·대우건설 컨소, 25조 규모 체코 원전시공 협상 결렬",
-    "summary": "한수원과 대우건설·두산에너빌리티 컨소시엄이 체코 두코바니 원전 시공계약 협상을 최종 결렬했다. 25조 규모의 대형 해외 수주 기회가 무산되었으며, 한수원은 신규 시공사 선정을 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T10:39:19+09:00",
-    "importance": 4
+    "title": "전남광주 건설수주 3배 급증…경기 회복 신호탄 되나 - kwangju.co.kr",
+    "link": "http://www.kwangju.co.kr/article.php?aid=1793524500804883005",
+    "description": "800조원 규모의 호남권 반도체 클러스터 조성 등 대형 투자사업이 추진되는 가운데 산업 생산과 소비, 건설경기가 실제 지역경제의 회복으로 이어질 수 있을지도 주목된다. 1일 국가데이터처...",
+    "published_at": "2026-11-01T18:20:00+09:00",
+    "cluster_id": "9eaf",
+    "publisher": "kwangju.co.kr",
+    "title_clean": "전남광주 건설수주 3배 급증…경기 회복 신호탄 되나",
+    "summary": "호남권 반도체 클러스터 등 대형 투자사업 추진으로 전남광주 건설수주가 3배 급증했다. 지역 산업 생산과 소비, 건설경기가 실제 경기 회복으로 이어질지 주목되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-01T18:28:23+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
