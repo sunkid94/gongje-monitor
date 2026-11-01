@@ -4097,6 +4097,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[11월2일자] 비즈니스포스트 아침의 주요기사 - businesspost.co.kr",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450853",
+    "description": "예고 ● 포스코이앤씨 서울 목동아파트 재건축 수주 선택지 '장고', 송치영 출혈 피하고 내실 다지기 집중 ● 식품기업 K푸드 업고 소스 해외 공략 열심인데 오뚜기는 왜 소극적? 라면 먼저 깐 뒤 다음에 소스...",
+    "published_at": "2026-11-01T16:48:00+09:00",
+    "cluster_id": "0d67",
+    "publisher": "businesspost.co.kr",
+    "title_clean": "[11월2일자] 비즈니스포스트 아침의 주요기사",
+    "summary": "포스코이앤씨가 목동아파트 재건축 수주를 신중히 검토 중이며, 식품업계의 해외 소스 사업 확대 추세와 대비되는 오뚜기의 보수적 전략을 비교 분석하는 기사다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-01T16:53:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20076,22 +20092,6 @@
     "publisher": "cstimes.com",
     "title_clean": "롯데건설, 'S70 성수 르엘' 팝업관…6세대 주거기술 눈앞에",
     "summary": "롯데건설이 성수4지구 재개발 단지 'S70 성수 르엘'의 팝업관을 개설하여 6세대 주거기술과 설계를 소비자에게 직접 체험하도록 하고 있다. 이는 대형 재개발 프로젝트를 통한 기술력 홍보 및 수주 활동의 일환이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T10:39:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, 'S70 성수 르엘' 팝업관 운영…미래 주거공간 공개 - delighti.co.kr",
-    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=124068",
-    "description": "롯데건설이 서울 광진구 르엘캐슬갤러리에 마련한 'S70 성수 르엘' 팝업관에 전시된 단지 모형. (사진=롯데건설) 롯데건설이 서울 성수전략정비구역 4지구 재개발 사업인 'S70 성수 르엘'의 특화 설계와 미래 주거 기술을...",
-    "published_at": "2026-10-29T10:12:00+09:00",
-    "cluster_id": "c31f",
-    "publisher": "delighti.co.kr",
-    "title_clean": "롯데건설, 'S70 성수 르엘' 팝업관 운영…미래 주거공간 공개",
-    "summary": "롯데건설이 서울 성수전략정비구역 재개발 사업 'S70 성수 르엘'의 팝업관을 운영하며 특화 설계와 미래 주거 기술을 공개하고 있다. 대규모 재개발 프로젝트를 통해 신규 수주 기회와 시장 수요를 창출하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-29T10:39:19+09:00",
     "importance": 2
