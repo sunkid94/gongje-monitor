@@ -20029,6 +20029,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "울산 광공업 생산 3개월 연속 감소…소비 회복에도 건설 부진 - 울산매일 - 울산최초, 최고의 조간신문",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1abnhjSlJlRUpUNVlDcW1BZHNEdFd0WnBUZGpvVFpHZW8wNUUyTTJOZEZFcVZnRnJkdFFraW1pejh6VVpfRzRMc0RtVzZHX3hDRF9xNlZDUEVSYW9yTjBoNVgwRzgtcHdzb0HSAW5BVV95cUxOTGV1OE5NeGhyVHpJUHpDSlRxS1lyZ0VPT1FrMUhsUm5IRFN3TkVZdGhIeDVOcTdqZVItVUxrM3BxSEZZQmRMVXc4Rjg4YW9QWUNFa0FQU0Jfa0E2djh5RXZNWnhILXJtY0dKcjVvUQ?oc=5",
+    "description": "울산지역 광공업 생산이 3개월 연속 감소세를 이어갔다. 소비는 백화점과 대형마트 판매가 모두 늘면서 회복 흐름을 보였지만, 건설수주는 민간 부문과 건축 부문의 부진으로 감소세를 나타내는 등 산업활동 분야별로 엇갈린 흐름을 보였다.30일 동남지방데이터청이 발표한 ‘2026년 9월 울산광",
+    "published_at": "2026-11-01T14:41:09+09:00",
+    "cluster_id": "f4cf",
+    "publisher": "울산최초, 최고의 조간신문",
+    "title_clean": "울산 광공업 생산 3개월 연속 감소…소비 회복에도 건설 부진 - 울산매일",
+    "summary": "울산지역 광공업 생산이 3개월 연속 감소세를 기록했으며, 소비는 회복하고 있으나 건설수주는 민간 부문과 건축 부문의 부진으로 감소세를 나타냈다. 산업활동 분야별로 엇갈린 흐름을 보이고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-01T19:38:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32219,21 +32235,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-26T16:54:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "특검, '관저 이전 특혜' 김오진 전 차관 징역 5년 구형…\"출세 야욕\" - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6597225?utm_source=naver&utm_medium=article&utm_campaign=20261026044312",
-    "description": "김 전 차관 측은 일부 직권남용 혐의와 허위공문서 작성·행사 혐의는 인정하면서도 사기와 건설산업기본법 위반, 직무유기 등 나머지 혐의에 대해서는 무죄를 주장했다.",
-    "published_at": "2026-10-26T16:44:00+09:00",
-    "cluster_id": "cd1a",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "특검, '관저 이전 특혜' 김오진 전 차관 징역 5년 구형…\"출세 야욕\"",
-    "summary": "검찰이 관저 이전 관련 특혜 의혹으로 기소된 김오진 전 차관에게 징역 5년을 구형했다. 피고인 측은 일부 혐의는 인정하면서도 사기, 건설산업기본법 위반 등 주요 혐의에 대해 무죄를 주장하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-26T16:50:00+09:00",
-    "importance": 4
   }
 ]
