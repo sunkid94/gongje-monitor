@@ -4029,6 +4029,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합) - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232",
+    "description": "이는 대우건설 컨소시엄이 요구하는 6200억 원보다 2300억 원이, 정부가 검토했던 4800억 원보다 3700억 원이 많은 액수다. ▮우선시공분 착공시기 연내로 1일 국제신문 취재를 종합하면 국토교통부는 우선시공분 공사를 위한...",
+    "published_at": "2026-11-01T19:41:00+09:00",
+    "cluster_id": "8685",
+    "publisher": "kookje.co.kr",
+    "title_clean": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
+    "summary": "가덕도신항만 프로젝트의 첫삽 착공이 연내로 연기되었으며, 정부가 대우건설 컨소시엄의 공사비 증액 요청을 검토 중이다. 건설사가 요구한 6200억 원을 초과하는 8500억 원의 추가 공사비 증액이 추진되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-01T19:48:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20013,19 +20029,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "[일문일답] 한수원 \"대우와 체코 원전 시공비·계약방식 이견…새 시공... - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261029_0003845944",
-    "description": "한국수력원자력은 29일 체코 두코바니 원전 건설사업의 시공계약과 관련해 대우건설·두산에너빌리티 컨소시엄과 주요 계약조건에 대한 양측의 이견을 좁히지 못해 시공계약 협상을 종료한다고 밝혔다. 한수원은...",
-    "published_at": "2026-10-29T10:20:00+09:00",
-    "cluster_id": "c693",
-    "publisher": "newsis.com",
-    "title_clean": "[일문일답] 한수원 \"대우와 체코 원전 시공비·계약방식 이견…새 시공...",
-    "summary": "한국수력원자력이 체코 두코바니 원전 건설사업에서 대우건설·두산에너빌리티 컨소시엄과 시공비 및 계약방식 등 주요 조건 합의에 실패해 협상을 종료했다. 대형 해외 원전 프로젝트 수주 무산으로 건설업계에 부정적 영향이 예상된다.",
+    "title": "부산 도장공사 고소작업대 추락사…업체 대표 1심서 징역형 집행유예 - 세이프티퍼스트닷뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nSzgzV3FCVmZtdlltaWlSZVdQWmR3SndHZGRIcUIza1RLMzZUZk92WVJsVm1Bcldtd2EwTzk0cnVnTmJ3MVJxal9VZGhkbkU4OTFrZTlxRXM3OXVrbWlna3lCTmNOMHRaODhpQ3B1cw?oc=5",
+    "description": "[세이프티퍼스트닷뉴스] 안전난간이 없는 고소작업대에서 노동자가 추락해 숨진 사건과 관련해 부산지법 동부지원이 도장업체 대표에게 징역형 집행유예를 선고한 판결 내용이 지난 10월 26일 알려졌다. 실제 선고일은 지난 9월 17일이다. 부산지법 동부지원 형사3단독 노행남 부장판사는 중대재해처벌법 위반, 산업안전보건법 위반, 업무상과실치사 혐의로 기소된 대표에게 1심에서 징역 1년 6개월에 집행유예 3년을 선고했다. 업체 법인에는 벌금 1억원, 현장대리인과 작업반장에게는 업무상과실치사 혐의로 각각 벌금 700만원을 선고했다. 사고는 20",
+    "published_at": "2026-11-01T19:41:05+09:00",
+    "cluster_id": "e6b2",
+    "publisher": "세이프티퍼스트닷뉴스",
+    "title_clean": "부산 도장공사 고소작업대 추락사…업체 대표 1심서 징역형 집행유예",
+    "summary": "부산의 도장공사 현장에서 안전난간이 없는 고소작업대에서 노동자가 추락해 숨진 사건으로 업체 대표가 징역 1년 6개월 집행유예 3년을 선고받았다. 중대재해처벌법 위반 등으로 기소된 대표와 함께 법인에는 벌금 1억원, 현장대리인과 작업반장에는 각각 벌금 700만원이 부과되었다.",
     "sentiment": "negative",
-    "collected_at": "2026-10-29T10:39:19+09:00",
+    "collected_at": "2026-11-01T19:48:39+09:00",
     "importance": 4
   },
   {
@@ -32219,21 +32235,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-26T17:00:16+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "박해철 의원, “중대재해 작업중지 97%가 부분 중지”…대기업 처분 완화 지적 - 기계설비신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KS0lZTkU3SlNwWHk3WE1lUVNZZC1CQmQ0VnlrZFVLM3VkN1JaNHVPN1VUQkprMnBNaXdsZkktZjBCZjZ5VnhfUXZPM0pMZnJMbjhfR0R0MURialRMekFQTEpkeFNQOThmZVFLbA?oc=5",
-    "description": "중대재해 발생 사업장에 대한 작업중지 기간이 해마다 줄어드는 가운데 대기업의 작업중지 기간이 전체 평균보다 짧은 것으로 나타났다.26일 더불어민주당 박해철 의원이",
-    "published_at": "2026-10-26T10:52:07+09:00",
-    "cluster_id": "21d8",
-    "publisher": "기계설비신문",
-    "title_clean": "박해철 의원, “중대재해 작업중지 97%가 부분 중지”…대기업 처분 완화 지적",
-    "summary": "박해철 의원이 중대재해 발생 사업장의 작업중지 기간이 해마다 감소하고 있으며, 특히 대기업의 작업중지 기간이 전체 평균보다 짧다고 지적했다. 대기업에 대한 처분이 완화되는 경향을 문제 삼으며 중대재해 대응의 실효성을 의문 제기했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-26T17:00:16+09:00",
-    "importance": 4
   }
 ]
