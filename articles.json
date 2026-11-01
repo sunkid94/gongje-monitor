@@ -4097,6 +4097,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "LNG선 선가 하락에 유조선 특수도 불안…K-조선, 수주 전략 시험대 - viva100.com",
+    "link": "https://www.viva100.com/article/20261101500451",
+    "description": "삼성중공업과 한화오션도 각각 LNG운반선 17척, 8척을 확보하는 등 전체 수주 실적에서 적지 않은 비중을 차지했다. 고부가 선박 시장에서 중국 조선사들의 영향력이 확대되고 있는 점도 우려 요인이다....",
+    "published_at": "2026-11-01T17:28:00+09:00",
+    "cluster_id": "6204",
+    "publisher": "viva100.com",
+    "title_clean": "LNG선 선가 하락에 유조선 특수도 불안…K-조선, 수주 전략 시험대",
+    "summary": "LNG선 선가 하락으로 인한 유조선 특수 불안정화로 한국 조선업계의 수주 전략이 시험대에 올랐다. 중국 조선사들의 고부가선박 시장 영향력 확대가 우려 요인으로 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-01T17:33:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20076,22 +20092,6 @@
     "publisher": "view.asiae.co.kr",
     "title_clean": "'27조원' 체코 원전 시공계약 결렬…한수원, 대우·두산 컨소시엄과 결...",
     "summary": "한수원과 대우건설·두산에너빌리티 컨소시엄이 27조원 규모의 체코 두코바니 원전 건설사업 시공계약 협상을 15개월 만에 결렬했다. 공사비와 계약방식 등의 이견으로 합의에 실패했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T10:39:19+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[특징주] 체코 원전 수주 기대 꺾인 대우건설…주가 23% 급락 - ajunews.com",
-    "link": "https://www.ajunews.com/view/20261029101424714",
-    "description": "아주경제=최윤선 기자 solarchoi@ajunews.com 대우건설 CI. [사진=대우건설] 대우건설이 한국수력원자력과 진행해 온 체코 신규 원전 시공계약 협상이 최종 결렬됐다는 소식에 장 초반 급락하고 있다. 체코 원전 사업 참여에...",
-    "published_at": "2026-10-29T10:16:00+09:00",
-    "cluster_id": "df2c",
-    "publisher": "ajunews.com",
-    "title_clean": "[특징주] 체코 원전 수주 기대 꺾인 대우건설…주가 23% 급락",
-    "summary": "대우건설이 한국수력원자력과 추진해온 체코 신규 원전 시공계약 협상이 최종 결렬되면서 주가가 23% 급락했다. 대규모 해외 원전 수주 기회 상실로 건설업계의 수주 전망이 악화되었다.",
     "sentiment": "negative",
     "collected_at": "2026-10-29T10:39:19+09:00",
     "importance": 4
