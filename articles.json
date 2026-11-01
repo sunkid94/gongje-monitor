@@ -20114,6 +20114,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경제 성장한다지만 양극화 심화 ‘어쩌나’ - viva100.com",
+    "link": "https://www.viva100.com/article/20261101500431",
+    "description": "건설수주를 보면 경남(-1조9000억원), 대구(-1조4000억원), 전북(-8000억원) 등 7개 시도는 건설수주가 감소했지만 경기(7조9000억원)와 서울(3조5000억원) 등은 증가했다. 유통업태별 매출도 백화점은 올 6월 22.2%, 7월 17.9%, 8월...",
+    "published_at": "2026-11-01T14:48:00+09:00",
+    "cluster_id": "29f2",
+    "publisher": "viva100.com",
+    "title_clean": "경제 성장한다지만 양극화 심화 ‘어쩌나’",
+    "summary": "경제 성장에도 불구하고 지역 간 건설수주 양극화가 심화되고 있다. 경기·서울 등 수도권은 수주가 증가하는 반면 경남·대구·전북 등 지방은 수주가 감소하면서 건설업계의 지역별 격차가 확대되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-01T14:58:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32221,22 +32237,6 @@
     "publisher": "전문건설신문",
     "title_clean": "3기 신도시 도로 인허가 단축…국토부 직접 승인 7개로 확대",
     "summary": "국토교통부가 3기 신도시 광역교통 도로사업의 인허가를 직접 승인하는 방식을 5개에서 7개로 확대하여 다중 지자체 인허가로 인한 지연을 단축한다. 신도시 교통대책 신속추진 TF를 구성해 건설 사업의 빠른 추진을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T16:05:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "무역협회, 건설 대기업 4개사와 스타트업 기술 협력 지원 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01MGZvYXV1Wm5BcHBQcDdrX0VteDJ2ckF5RTI1aUN1enNMb3ROeVBrcERzR1dQM0Zzc3ZITGJ6bGgzemc2VVlha2wySGk2b1htQXZ4VEFJUzVKVE56?oc=5",
-    "description": "[서울=뉴스핌] 조민교 기자 = 한국무역협회가 국내 주요 건설사와 스타트업 간 기술 협력 및 사업화 기회 확대에 나섰다.한국무역협회는 26일 서울 강남구 코엑스 스타트업브랜치에서 서울경제진흥원(SBA), 서울·경기·인천창조경제혁신센터와",
-    "published_at": "2026-10-26T15:57:00+09:00",
-    "cluster_id": "68df",
-    "publisher": "뉴스핌",
-    "title_clean": "무역협회, 건설 대기업 4개사와 스타트업 기술 협력 지원",
-    "summary": "한국무역협회가 건설 대기업 4개사와 스타트업 간 기술 협력 및 사업화 기회를 확대하기 위한 지원에 나섰다. 서울경제진흥원과 창조경제혁신센터 등과 함께 협력 플랫폼을 구축하여 건설업계의 혁신 생태계 조성을 추진하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-26T16:05:04+09:00",
     "importance": 2
