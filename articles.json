@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "전문조합, 통합 서비스 플랫폼 '비즈니스 라운지' 정식 출범 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021728395200273",
+    "description": "전문건설공제조합(K-FINCO)은 2일 조합원의 경영활동을 지원하기 위해 각종 서비스를 제공하는 통합 플랫폼 ‘비즈니스 라운지(사진)’를 정식 출범했다. 해당 플랫폼은 현재 건설자재 조달 서비스 ‘공새로’와...",
+    "published_at": "2026-11-03T06:22:00+09:00",
+    "cluster_id": "fc6f",
+    "publisher": "대한경제",
+    "title_clean": "전문조합, 통합 서비스 플랫폼 '비즈니스 라운지' 정식 출범",
+    "summary": "전문건설공제조합(K-FINCO)이 조합원의 경영활동을 지원하기 위해 건설자재 조달, 금융, 교육 등 다양한 서비스를 한 곳에서 제공하는 통합 플랫폼 '비즈니스 라운지'를 정식 출범했다. 이는 건설업체들의 경영 효율성 강화와 비용 절감을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-03T06:29:48+09:00",
+    "event_label": "전문건설공제조합 통합 서비스 플랫폼 '비즈니스 라운지' 정식 출범",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -4214,6 +4231,38 @@
     "collected_at": "2026-10-05T07:47:35+09:00",
     "event_label": "대한기계설비건설협회 구미 AI 데이터센터 건립 관련 매칭데이 개최",
     "importance": 5
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[흔들리는 원전 팀코리아]①팀코리아의 균열… 삐걱대는 K-원전 수출 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021405198250195",
+    "description": "한국수력원자원이 지난달 말 체코 두코바니 원전의 대우건설ㆍ두산에너빌리티 시공단과 시공계약 협상을 종료하면서다. 대미투자 2호 사업을 발판으로 K-원전이 세계 시장에서 보폭을 넓히려는 시점에 협력 체계가...",
+    "published_at": "2026-11-03T06:22:00+09:00",
+    "cluster_id": "df57",
+    "publisher": "대한경제",
+    "title_clean": "[흔들리는 원전 팀코리아]①팀코리아의 균열… 삐걱대는 K-원전 수출",
+    "summary": "한국수력원자력이 체코 두코바니 원전 사업에서 대우건설·두산에너빌리티와의 시공계약 협상을 종료했다. K-원전 수출 확대를 추진하는 시점에 협력 체계에 균열이 생기면서 사업 추진에 차질이 우려된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T06:29:48+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[흔들리는 원전 팀코리아]③도마 위에 오른 한수원의 ‘이중성’ - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021112132510147",
+    "description": "이번에는 한수원이 주계약자이고, 대우건설ㆍ두산에너빌리티 시공단이 협력사다. 시공단은 설계가 확정되지 않은 신규 노형인 만큼 설계 과정에서 늘어나는 물량을 정산해달라고 요구했다. 늘어난 일만큼 비용을...",
+    "published_at": "2026-11-03T06:22:00+09:00",
+    "cluster_id": "2f27",
+    "publisher": "대한경제",
+    "title_clean": "[흔들리는 원전 팀코리아]③도마 위에 오른 한수원의 ‘이중성’",
+    "summary": "한수원이 주계약자로서 신규 노형 원전 건설 시 설계 변경에 따른 물량 증가분 정산을 둘러싸고 시공사와 분쟁이 발생했다. 건설사들이 정상적인 원가 정산을 요구하고 있으나 한수원의 이중적 태도로 인해 건설업계가 어려움을 겪고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T06:29:48+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -20184,38 +20233,6 @@
     "importance": 3
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, ‘S70 성수 르엘’ 팝업관 개관…‘6세대 주거공간’ 선보여 - g-enews.com",
-    "link": "https://www.g-enews.com/view.php?ud=202610291517309156a9fc143920_1",
-    "description": "롯데건설이 서울 성수전략정비구역 4지구 재개발사업에 제안한 하이퍼엔드 주거 브랜드 ‘S70 성수 르엘’의 주거 비전과 설계 기술을 선보이는 팝업관을 운영한다. 29일 롯데건설에 따르면 이번 팝업관은 서울 광진구...",
-    "published_at": "2026-10-29T17:28:00+09:00",
-    "cluster_id": "f9ab",
-    "publisher": "",
-    "title_clean": "롯데건설, ‘S70 성수 르엘’ 팝업관 개관…‘6세대 주거공간’ 선보여 - g-enews.com",
-    "summary": "롯데건설이 성수 재개발사업에서 하이퍼엔드 주거 브랜드 'S70 성수 르엘'의 팝업관을 개관하여 6세대 주거공간 개념의 설계 기술을 선보인다. 프리미엄 아파트 시장 내 신규 프로젝트 마케팅을 통해 건설사의 수주 활동을 강화하는 모습이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T17:46:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업 3분기 영업익 3384억…수주 목표 넘을까 - 자본시장뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SRTF6MFF1c3VPcWl5T0F0eHRsdnVzeXY0bWlzMEx4SVJqUGRZYjJPSGdyT1NXOE91eDRqUU8zQkpUQ3hxZVhMdHZXTVNhZ2pCaHdoU0pfNVphU1VoR2JQSW0zZGU5NE0?oc=5",
-    "description": "삼성중공업이 3분기 영업이익 3384억 원을 내며 지난해 같은 기간보다 42.1% 늘었다. 하계휴가로 매출은 직전 분기보다 줄었지만 고선가 선박 물량이 늘면서 영",
-    "published_at": "2026-10-29T17:30:00+09:00",
-    "cluster_id": "4e2e",
-    "publisher": "자본시장뉴스",
-    "title_clean": "삼성중공업 3분기 영업익 3384억…수주 목표 넘을까",
-    "summary": "삼산중공업이 3분기 영업이익 3384억 원으로 전년 동기 대비 42.1% 증가했다. 하계휴가로 매출은 감소했으나 고선가 선박 물량 증가로 수익성이 개선되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T17:46:25+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32229,22 +32246,6 @@
     "summary": "현대건설이 저온 환경에서 시공 효율을 높이는 '간절기 특수 콘크리트' 기술인증을 획득했다. 연구원은 에너지, 미래주거, 스마트건설, 인프라 4대 분야 중심의 R&D와 AI 기반 콘크리트 관리시스템 개발을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-28T10:57:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, '간절기 특수 콘크리트' 기술인증…보온 양생 부담 낮춘다 - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576052517608",
-    "description": "한편 HMG건설기술연구원은 에너지와 미래주거, 스마트건설, 인프라 등 4대 핵심 분야를 중심으로 연구개발을 진행하고 있다. 콘크리트 분야에서는 인공지능(AI) 기반 품질관리 시스템과 고성능 건설재료 개발을 추진하고...",
-    "published_at": "2026-10-28T10:28:00+09:00",
-    "cluster_id": "62a5",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "현대건설, '간절기 특수 콘크리트' 기술인증…보온 양생 부담 낮춘다",
-    "summary": "현대건설이 간절기(봄·가을) 콘크리트 양생 기술을 인증받아 보온 양생 비용과 에너지 부담을 줄였다. HMG건설기술연구원은 AI 기반 품질관리 시스템과 고성능 건설재료 개발로 건설 기술력을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-28T10:46:42+09:00",
     "importance": 2
   }
 ]
