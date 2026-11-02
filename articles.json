@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 체코 원전 시공 협상 결렬에 반발...“수백억 선투입했는데 일방 결렬” - 메디컬투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UV1Nkb1ZhenVIek9lVjFtRk5VV1lmTjdLQk9yTkp1QU1hcjJuell5M3hKWGFEdlpPbmFRekpmRnM2VUR6ZWlzXzZMWTdxbUx4czBkQzdQdWJzRHdlTmljeG95b0hURzVmd0NPUA?oc=5",
+    "description": "[mdtoday = 김은미 기자] 대우건설이 한국수력원자력(한수원)의 체코 두코바니 신규 원전 시공계약 협상 종료 통보에 공식 유감을 표명하며, 산업통상자원부(산",
+    "published_at": "2026-11-02T15:00:25+09:00",
+    "cluster_id": "9392",
+    "publisher": "메디컬투데이",
+    "title_clean": "대우건설, 체코 원전 시공 협상 결렬에 반발...“수백억 선투입했는데 일방 결렬”",
+    "summary": "대우건설이 한수원의 체코 두코바니 원전 시공계약 협상 종료 통보에 반발하며, 수백억 원의 선투입에 대한 손실 우려를 표명했다. 국내 건설사의 해외 원전 사업 진출 차질로 인한 수주 기회 상실이 우려된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T05:00:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20198,22 +20214,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T17:35:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "토공장비 자율시공, 데이터·안전 확보 선행돼야 - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=327233",
-    "description": "포스코이앤씨는 지난해 HD현대사이트솔루션과 여수 화태–백야 도로건설 현장에서 원격제어 굴착기를 시범 운용했다. 내륙의 원격조종실에서 장비를 조종하고, 통신이 불안정하거나 장애물이 감지되면 작업을 멈추도록...",
-    "published_at": "2026-10-29T17:22:00+09:00",
-    "cluster_id": "ced2",
-    "publisher": "대한전문건설신문",
-    "title_clean": "토공장비 자율시공, 데이터·안전 확보 선행돼야",
-    "summary": "포스코이앤씨가 HD현대사이트솔루션과 협력하여 원격제어 굴착기를 시범 운용하며 건설현장 자동화를 추진 중. 기술 도입 전 데이터 확보와 안전 시스템 구축이 선행되어야 한다는 업계의 조건부 입장 표현.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-29T17:35:21+09:00",
-    "importance": 2
   },
   {
     "keyword": "모듈러 건설",
