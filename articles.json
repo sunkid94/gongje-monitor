@@ -20216,6 +20216,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "계양강화道 1공구, 이달 12일 적격자 선정 심의… 태영vs남광vs극동 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/article/2026110222184258716",
+    "description": "이들은 6개 분야(▲도로·교통 ▲토목구조 ▲토질·기초 ▲토목시공 ▲스마트건설기술 ▲안전)에 대한 심의를 담당한다.이처럼 심의위원단을 구성한 도로공사는 이달 12일 설계평가회의를 열고 적격자를 선발할...",
+    "published_at": "2026-11-03T05:32:00+09:00",
+    "cluster_id": "65db",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "계양강화道 1공구, 이달 12일 적격자 선정 심의… 태영vs남광vs극동",
+    "summary": "계양강화도로 1공구 사업에서 도로공사가 도로·교통, 토목구조, 토질·기초 등 6개 분야의 심의위원단을 구성하여 이달 12일 설계평가회의를 개최할 예정이다. 태영, 남광, 극동 등 3개사가 적격자 선정을 위해 경쟁하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-03T05:39:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32229,22 +32245,6 @@
     "summary": "현대건설이 간절기 시공에 최적화된 특수 콘크리트를 개발했으며, 보온 양생 없이도 강도 발현이 가능해 공기 단축과 현장 관리 효율을 개선할 수 있을 것으로 기대된다. HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라 등 4대 핵심 분야 중심으로 연구개발을 진행 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-28T10:10:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 협력사 23곳과 건설현장 안전관리 논의 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499142",
-    "description": "건설현장의 안전사고를 줄이려면 시공사 자체 관리뿐 아니라 공종별 협력사와의 정보 공유, 위험요인 점검, 예방 교육이 함께 이뤄져야 한다. 금호건설이 협력사 경영진과 현장 애로사항을 논의하고 안전관리 역량을...",
-    "published_at": "2026-10-28T09:38:00+09:00",
-    "cluster_id": "b11e",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "금호건설, 협력사 23곳과 건설현장 안전관리 논의",
-    "summary": "금호건설이 협력사 23곳과 함께 건설현장 안전관리 방안을 논의했다. 시공사와 협력사 간 정보 공유, 위험요인 점검, 예방 교육을 강화하여 안전사고 감소를 도모하는 업계의 자발적 안전관리 활동이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-28T09:56:57+09:00",
     "importance": 2
   }
 ]
