@@ -20097,6 +20097,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "\"K-건설 시대 연다\"…정부, 3조원 규모 펀드 조성 - 데일리메이커",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ET2loVzVibTBIZVMyWnVqRDZYZjFFOEFGdFExMFhkdmltM0EzRkhEcnFIekE5WUMzVnlCRU5jc0VlMXlocmtDOTZvQkp1SUVKc29sN1lNMEZQT1h1M1Z4czlUaUlZUQ?oc=5",
+    "description": "정부가 해외건설 산업을 고부가가치 산업으로 전환하기 위해 3조원 규모의 신전략펀드를 조성한다.국토교통부는 3일 오후 2시 서울 건설회관에서 &#39;2026 해외건설 플랜트의 날&#39; 기념식을 개최한다고 2일 밝혔다. 이번 기념식은 해외건설협회, 한국플랜트정보기술협회와 함께 주최한다.기념식에서는 해외건설발전 유공자 14명에 대한 포상이 이뤄진다. 삼성물산 나승일 상무가 약 110억 달러의 해외수주 성과로 은탑 산업훈장을 받는다.동탑 산업훈장은 신시장 개척에 기여한 대우건설 백인홍 상무와 에스지씨이앤씨 이희송 부사장에게 수여된다.",
+    "published_at": "2026-11-02T11:50:40+09:00",
+    "cluster_id": "a3f9",
+    "publisher": "데일리메이커",
+    "title_clean": "\"K-건설 시대 연다\"…정부, 3조원 규모 펀드 조성",
+    "summary": "정부가 해외건설 산업의 고부가가치화를 위해 3조원 규모의 신전략펀드를 조성한다. 삼성물산 등 주요 건설사의 해외수주 성과를 인정하며 해외건설발전 유공자 14명에 대한 포상을 실시한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T11:59:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32223,21 +32239,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-27T10:10:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대우건설, 3분기 영업이익 223.7% 급증…매출 감소에도 수익성 개선 - thefairnews.co.kr",
-    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91973",
-    "description": "건설경기 침체와 진행 현장 감소로 외형은 축소됐으나 수익성은 개선된 것으로 나타났다. 사업부문별 매출은 건축사업이 1조3001억원으로 가장 큰 비중을 차지했다. 이어 토목사업 3161억원, 플랜트사업 1871억원...",
-    "published_at": "2026-10-27T09:54:00+09:00",
-    "cluster_id": "f5b0",
-    "publisher": "thefairnews.co.kr",
-    "title_clean": "대우건설, 3분기 영업이익 223.7% 급증…매출 감소에도 수익성 개선",
-    "summary": "대우건설이 3분기 영업이익을 223.7% 증가시키며 수익성을 개선했다. 매출 감소에도 불구하고 원가 관리 등으로 수익성을 높인 것으로 보인다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-27T10:00:13+09:00",
-    "importance": 2
   }
 ]
