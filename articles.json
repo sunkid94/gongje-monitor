@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 ‘체코 원전 SOS’에… 산업부 “법적 권한 없다” - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20261102/134953333/2",
+    "description": "앞서 지난달 29일 한수원은 대우건설·두산에너빌리티 컨소시엄과 진행해 온 두코바니 5·6호기 시공 계약 협상을 종료하고 신규 시공사 선정 절차에 착수한다고 밝힌 바 있다. 양측은 지난해 6월부터 공사비와 계약 방식을...",
+    "published_at": "2026-11-03T00:31:00+09:00",
+    "cluster_id": "1838",
+    "publisher": "donga.com",
+    "title_clean": "대우건설 ‘체코 원전 SOS’에… 산업부 “법적 권한 없다”",
+    "summary": "대우건설·두산에너빌리티 컨소시엄이 체코 두코바니 원전 5·6호기 시공 계약 협상에서 탈락했으며, 한수원이 신규 시공사 선정 절차를 진행 중입니다. 산업부는 민간 기업 간 계약 분쟁에 개입할 법적 권한이 없다고 입장을 밝혔습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T00:40:54+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20198,22 +20214,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T17:35:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데건설, ‘S70 성수 르엘’ 팝업관 개관…‘6세대 주거공간’ 선보여 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaF9rSzFqTkQyQ1ViZ0JyamtsS3l1aHZiVmRvVFRUd2tBSWNKNWJTbHZGLTFtMF9CSnhnSndQVzhieUlxcVBrRVFyWm1aVVBpUVJvMnFrczJST2NiYmgtTGZOUkNxSU96SThlejBaMEE2aGRZMnA2N3NySDN0Z3ZUZDk3ZV9xaFpnTEE?oc=5",
-    "description": "롯데건설이 서울 성수전략정비구역 4지구 재개발사업에 제안한 하이퍼엔드 주거 브랜드 ‘S70 성수 르엘’의 주거 비전과 설계 기술을 선보이는 팝업관을 운영한다.29일 롯데건설에 따르면 이번 팝업관은 서울 광진구 한강 수변에 위치한 수상형 전시공간인 ‘르엘캐슬갤러리’에서 지난 10월 24일",
-    "published_at": "2026-10-29T17:27:00+09:00",
-    "cluster_id": "b6d9",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "롯데건설, ‘S70 성수 르엘’ 팝업관 개관…‘6세대 주거공간’ 선보여",
-    "summary": "롯데건설이 서울 성수전략정비구역 재개발사업에서 하이퍼엔드 주거 브랜드 'S70 성수 르엘'을 선보이며 팝업관을 운영 중이다. 6세대 주거공간의 비전과 설계 기술을 통해 프리미엄 주택 시장 개척을 시도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T17:35:21+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
