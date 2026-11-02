@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 ‘체코 원전 재협상’ 요청 … 정부는 ‘새 시공사’ 무게 - segye.com",
+    "link": "https://www.segye.com/newsView/20261102516115?OutUrl=naver",
+    "description": "앞서 한수원은 두코바니 원전 시공을 맡기로 했던 대우건설·두산에너빌리티 컨소시엄과의 계약을 지난달 29일 해지했다. 양측은 공사 물량 증가에 따른 비용 부담과 계약조건 등을 둘러싼 이견을 좁히지 못하고 본계약...",
+    "published_at": "2026-11-02T19:17:00+09:00",
+    "cluster_id": "8d8c",
+    "publisher": "segye.com",
+    "title_clean": "대우건설 ‘체코 원전 재협상’ 요청 … 정부는 ‘새 시공사’ 무게",
+    "summary": "한수원이 두코바니 원전 시공을 맡기로 했던 대우건설·두산에너빌리티 컨소시엠과의 계약을 해지했다. 공사 물량 증가에 따른 비용 부담과 계약조건 이견으로 본계약 체결이 무산되었으며, 대우건설은 재협상을 요청한 상태다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-02T19:25:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20198,22 +20214,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-29T17:06:19+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[TOP's Pick] [중후장대] SK이노, 3분기 영업익 3조7043억 '분기 최대' 外 - topdaily.kr",
-    "link": "https://www.topdaily.kr/articles/112587",
-    "description": "◆ 두산에너빌리티, 뉴스케일파워 SMR 첫 원자로 제작 계약…상용화 협력 확대 두산에너빌리티가 미국 뉴스케일파워와 소형모듈원전(SMR) 상부 원자로 모듈(URPV) 제작 계약을 체결. 미국 원자력규제위원회(NRC) 설계...",
-    "published_at": "2026-10-29T16:54:00+09:00",
-    "cluster_id": "2189",
-    "publisher": "topdaily.kr",
-    "title_clean": "[TOP's Pick] [중후장대] SK이노, 3분기 영업익 3조7043억 '분기 최대' 外",
-    "summary": "SK이노가 3분기 영업익 3조7043억원으로 분기 최대 실적을 기록했고, 두산에너빌리티는 미국 뉴스케일파워와 소형모듈원전(SMR) 원자로 모듈 제작 계약을 체결하며 상용화 협력을 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T17:06:19+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
