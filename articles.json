@@ -4097,6 +4097,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "하안주공10·11단지, 시공자 현설에 롯데건설 단독 참석 - arunews.com",
+    "link": "https://www.arunews.com/news/articleView.html?idxno=68939",
+    "description": "경기 광명시 하안주공10·11단지 재건축 시공자 현장설명회에 롯데건설이 단독으로 참석했다. 하안주공10·11단지 재건축 사업시행자인 한국자산신탁은 2일 시공자 선정을 위한 현장설명회를 개최했다. 이날 현설이...",
+    "published_at": "2026-11-02T12:28:00+09:00",
+    "cluster_id": "5a43",
+    "publisher": "arunews.com",
+    "title_clean": "하안주공10·11단지, 시공자 현설에 롯데건설 단독 참석",
+    "summary": "경기 광명시 하안주공10·11단지 재건축 시공자 현장설명회에 롯데건설이 단독으로 참석했다. 한국자산신탁이 시공자 선정을 위해 현장설명회를 개최했으며, 이는 재건축 사업 진행 단계를 보여주는 것이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-02T12:34:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20076,22 +20092,6 @@
     "publisher": "wolyo.co.kr",
     "title_clean": "체코 원전 시공계약 결렬에 대우건설·두산 반발…\"기업 생존 위협하는...",
     "summary": "한수원이 체코 두코바니 원전 건설사업의 시공계약 협상을 종료하자 대우건설과 두산에너빌리티가 반발하고 있다. 양사는 한수원의 계약 조건이 민간기업의 생존을 위협할 수준이라며 강하게 저항하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T12:10:42+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"기업 생존 위협 리스크 강요\"..대우·두산 25조 체코 원전 시공 협상 결... - kpenews.com",
-    "link": "https://kpenews.com/View.aspx?No=4288271",
-    "description": "29일 대우건설·두산에너빌리티 시공 컨소시엄에 따르면 한수원은 이날 컨소시엄 측에 두코바니 원전 주설비공사 하도급 계약 협상 종료를 통보했다. 컨소시엄은 즉각 입장문을 발표하고 한수원의 일방적인 결렬...",
-    "published_at": "2026-10-29T11:54:00+09:00",
-    "cluster_id": "108d",
-    "publisher": "kpenews.com",
-    "title_clean": "\"기업 생존 위협 리스크 강요\"..대우·두산 25조 체코 원전 시공 협상 결...",
-    "summary": "대우건설·두산에너빌리티 컨소시엄이 체코 두코바니 원전 25조 규모의 주설비공사 하도급 계약 협상이 한수원의 일방적 결렬로 무산됐다. 대형 프로젝트 손실로 건설사의 경영 악화와 업계 전반의 수주 기회 상실이 우려된다.",
     "sentiment": "negative",
     "collected_at": "2026-10-29T12:10:42+09:00",
     "importance": 4
