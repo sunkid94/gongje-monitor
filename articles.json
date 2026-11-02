@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 26조 체코 원전 멀어져…산업통상부 중재 불가 - 자본시장뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13OFpvektHWFpYYTlHWTgydy1rUDEwakpOZmpwZVVhdE5yWmZwV3VRQnd3ZVZnZTlzYjdXd0V2SnZ3YktFdGdWT1JqMDVEeVpTemtRVW5oeGlCc1ZQU3JtM3Y4TjVJaGc?oc=5",
+    "description": "산업통상부가 대우건설의 체코 원전 시공계약 재협상 중재 요청에 개입할 수 없다는 입장을 밝혔다. 기업 간 상업적 협상을 중재할 법적 권한이 없다는 이유다. 산업통",
+    "published_at": "2026-11-02T18:00:00+09:00",
+    "cluster_id": "3319",
+    "publisher": "자본시장뉴스",
+    "title_clean": "대우건설 26조 체코 원전 멀어져…산업통상부 중재 불가",
+    "summary": "산업통상부가 대우건설의 체코 원전 26조 시공계약 재협상 중재 요청을 거절했다. 기업 간 상업적 협상에 대한 법적 중재 권한이 없다는 입장으로, 대우건설의 대규모 해외 수주 사업이 어려워질 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-02T20:55:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20198,22 +20214,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-29T17:15:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한수원, 체코 원전 시공계약 결렬… 신규 시공사 선정할 것 - metroseoul.co.kr",
-    "link": "http://www.metroseoul.co.kr/article/20261029500577",
-    "description": "대우건설·두산에너빌리티 컨소시엄과 시공계약 무산… 시공비·계약방식 이견 한수원 \"2027년 7월까지 신규 시공사 선정 … 2028년 착공 차질 없을 것\" 체코 신규원전 조감도 /이미지=한수원 한국수력원자력(이하 한수원)...",
-    "published_at": "2026-10-29T17:04:00+09:00",
-    "cluster_id": "535e",
-    "publisher": "metroseoul.co.kr",
-    "title_clean": "한수원, 체코 원전 시공계약 결렬… 신규 시공사 선정할 것",
-    "summary": "한수원이 체코 신규원전 프로젝트에서 대우건설·두산에너빌리티 컨소시엄과의 시공계약을 무산시켰다. 시공비와 계약방식 이견으로 결렬되었으나, 한수원은 2027년 7월까지 신규 시공사를 선정하여 2028년 착공 일정에는 차질이 없을 것으로 밝혔다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T17:15:47+09:00",
-    "importance": 4
   },
   {
     "keyword": "모듈러 건설",
