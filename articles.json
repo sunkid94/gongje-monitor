@@ -4080,6 +4080,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'해외건설플랜트의 날'…110억불 수주 주역 나승일 삼성 상무 '은탑산업... - newspim.com",
+    "link": "https://www.newspim.com/news/view/20261102000698",
+    "description": "백인홍 대우건설 상무와 이희송 SGC이앤씨 부사장에게는 동탑산업훈장이 수훈된다. 2일 국토교통부에 따르면 국토부와 해외건설협회, 한국플랜트정보기술협회는 오는 3일 서울 강남구 건설회관에서 '2026 해외건설...",
+    "published_at": "2026-11-02T11:30:00+09:00",
+    "cluster_id": "990b",
+    "publisher": "newspim.com",
+    "title_clean": "'해외건설플랜트의 날'…110억불 수주 주역 나승일 삼성 상무 '은탑산업...",
+    "summary": "국토교통부가 해외건설플랜트 산업 발전에 기여한 인물들을 포상하며, 삼성의 나승일 상무가 110억 달러 수주 주역으로 은탑산업훈장을 수훈받는다. 대우건설과 SGC이앤씨 임직원들도 동탑산업훈장을 받으며 해외건설 업계의 성과를 인정한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T11:39:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20064,20 +20080,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "체코원전 한수원-시공사 협상 결렬…산업장관 \"흔들림 없이 추진\" - news1.kr",
-    "link": "https://www.news1.kr/economy/idustry-trade/6336208",
-    "description": "한국수력원자력은 이날 대우건설(047040)·두산에너빌리티(034020) 컨소시엄과 벌여온 시공계약 협상을 종료했다. 공사비 정산 방식과 사업비를 둘러싼 이견이 좁혀지지 않은 결과다. 김 장관은 \"기업 간 자율적인 협상과...",
-    "published_at": "2026-10-29T11:38:00+09:00",
-    "cluster_id": "d9c3",
-    "publisher": "news1.kr",
-    "title_clean": "체코원전 한수원-시공사 협상 결렬…산업장관 \"흔들림 없이 추진\"",
-    "summary": "한수원이 대우건설·두산에너빌리티 컨소시엄과 체코원전 시공계약 협상을 결렬했다. 공사비 정산 방식과 사업비를 둘러싼 의견 차이가 좁혀지지 않았으나, 정부는 사업 추진 의지를 재확인했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T12:10:42+09:00",
-    "importance": 4
+    "title": "고양특례시, 건설연 협력 시정회의 4일 생중계 - jeonmae.co.kr",
+    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1307421",
+    "description": "AI를 활용한 건설현장 안전관리와 도시 데이터·AI 융합 생활서비스, 디지털 기술 기반 노후 건축물 안전관리 방안도 함께 논의할 예정이다. '평화 도시' 분야에서는 북한 인프라 연구를 기반으로 협력사업을 발굴하고...",
+    "published_at": "2026-11-02T11:34:00+09:00",
+    "cluster_id": "0094",
+    "publisher": "jeonmae.co.kr",
+    "title_clean": "고양특례시, 건설연 협력 시정회의 4일 생중계",
+    "summary": "고양특례시가 건설연과 협력하여 AI 기반 건설현장 안전관리, 도시 데이터 융합 서비스, 노후 건축물 안전관리 방안 등을 논의하는 시정회의를 개최한다. 디지털 기술 도입을 통한 건설 산업의 혁신과 안전성 강화에 중점을 두고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T11:39:22+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
@@ -32221,22 +32237,6 @@
     "summary": "한신공영이 가을철 현장 안전보건점검을 강화하며 중대재해 6년 연속 ZERO를 달성했다. 전재식 대표이사가 시흥하중LH2공구 건설현장을 방문하여 안전보건관리를 점검했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-27T10:00:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대우건설 3분기 영업익, 전년比 223%↑...\"내실 경영 성과\" - popcornnews.net",
-    "link": "http://www.popcornnews.net/news/articleView.html?idxno=137426",
-    "description": "한편 대우건설은 건설경기 불황 속 양질의 수주 확보 해외 시장 진출 가속화에도 나선다는 방침이다. 이와 관련 대우건설 관계자는 \"파푸아뉴기니 LNG CPF, 모잠비크 Rovuma LNG 등 글로벌 대형 플랜트 프로젝트의...",
-    "published_at": "2026-10-27T09:46:00+09:00",
-    "cluster_id": "1912",
-    "publisher": "popcornnews.net",
-    "title_clean": "대우건설 3분기 영업익, 전년比 223%↑...\"내실 경영 성과\"",
-    "summary": "대우건설이 3분기 영업익을 전년 대비 223% 증가시키며 내실 있는 경영 성과를 기록했다. 건설경기 불황 속에서도 파푸아뉴기니 LNG CPF, 모잠비크 Rovuma LNG 등 글로벌 대형 플랜트 프로젝트 수주로 해외 시장 진출을 가속화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-27T09:50:25+09:00",
     "importance": 2
   }
 ]
