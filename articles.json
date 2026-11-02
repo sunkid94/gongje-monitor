@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[사설] 흔들리는 ‘팀코리아’, 원전 수출 협력체계 재정립해야 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021707212250268",
+    "description": "한수원과 대우건설·두산에너빌리티 시공단이 체코 원전사업의 시공계약을 놓고 15개월간 협상을 벌였으나 끝내 합의에 이르지 못했다. 세계적인 경쟁력을 가진 ‘팀코리아’의 협력체계에 균열이 생긴 것은 향후 해외...",
+    "published_at": "2026-11-03T04:20:00+09:00",
+    "cluster_id": "0fa8",
+    "publisher": "대한경제",
+    "title_clean": "[사설] 흔들리는 ‘팀코리아’, 원전 수출 협력체계 재정립해야",
+    "summary": "한수원과 대우건설, 두산에너빌리티로 구성된 팀코리아가 체코 원전사업 시공계약 협상에서 15개월간 분쟁하며 합의 실패. 해외 원전 수출의 핵심 협력체계 붕괴로 향후 수주 전망 악화 우려.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T04:29:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20196,22 +20212,6 @@
     "title_clean": "토공장비 자율시공, 데이터·안전 확보 선행돼야",
     "summary": "포스코이앤씨가 HD현대사이트솔루션과 협력하여 원격제어 굴착기를 시범 운용하며 건설현장 자동화를 추진 중. 기술 도입 전 데이터 확보와 안전 시스템 구축이 선행되어야 한다는 업계의 조건부 입장 표현.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-29T17:35:21+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[현장] AI부터 SMR까지… 두산에너빌리티,‘종합 에너지 비전‘ 공개 - 이코노미톡뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tb1lGVHlzV3NWTFZxcDB6WHlrUTQxS2ZDTXNZVXd5WWxVS3dBMUg3b3ZmeEZ5enJLeEhieXRnWDZvTVE1LV9McURabGhNVTJUTTVSTm9lcXlFUHBKWk1DaDdpU1NKbnlYVmR1Yw?oc=5",
-    "description": "[이혜수 기자 @이코노미톡뉴스] 소형모듈원전(SMR) 시장이 본격적인 성장 궤도에 접어든 가운데, 원자로 설계뿐 아니라 핵심 기자재를 안정적으로 양산하는 제조 역",
-    "published_at": "2026-10-29T17:16:00+09:00",
-    "cluster_id": "2f5b",
-    "publisher": "이코노미톡뉴스",
-    "title_clean": "[현장] AI부터 SMR까지… 두산에너빌리티,‘종합 에너지 비전‘ 공개",
-    "summary": "두산에너빌리티가 소형모듈원전(SMR) 시장의 성장에 따라 원자로 설계 및 핵심 기자재 양산 역량을 강화하고 있다. 이는 건설·기계설비 분야의 수주 증가 및 시장 확대 기회로 작용할 수 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-29T17:35:21+09:00",
     "importance": 2
   },
