@@ -20216,6 +20216,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"연결은 웃었지만 본업은 울었다…현대제철, 아쉬운 성적표에 낮아진 눈... - newsquest.co.kr",
+    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=304038",
+    "description": "더불어 중국, 한국의 건설경기는 예상보다 회복이 더디고, 최근 금리 레벨이 크게 높아지면서 향후 개선 기대감도 기존보다 다소 낮춰야 하는 분위기다. 김현태 BNK투자증권 연구원은 \"이러한 시황 변화를 감안할 때...",
+    "published_at": "2026-11-02T21:10:00+09:00",
+    "cluster_id": "d3f8",
+    "publisher": "newsquest.co.kr",
+    "title_clean": "\"연결은 웃었지만 본업은 울었다…현대제철, 아쉬운 성적표에 낮아진 눈...",
+    "summary": "현대제철이 연결 실적은 호조를 보였으나 본업 성적은 부진했다. 중국과 한국의 건설경기 회복이 예상보다 둔화되고 금리 상승으로 향후 개선 전망이 낮아지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-02T21:15:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-28T09:35:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"일거리가 사라졌어요\"…기습 한파에 한숨 가득한 새벽 인력사무소 - news1.kr",
-    "link": "https://www.news1.kr/local/gyeonggi/6334189",
-    "description": "가뜩이나 건설경기 침체로 일감이 감소한 상황에서 계절적 요인까지 겹치는 것이다. 한 노동자는 \"겨울에는 일이 없는 게 가장 걱정\"이라며 \"애로사항이 있어도 일단 일을 나가는 게 중요하다. 그래야 돈을 벌 수 있지...",
-    "published_at": "2026-10-28T08:43:00+09:00",
-    "cluster_id": "cd78",
-    "publisher": "news1.kr",
-    "title_clean": "\"일거리가 사라졌어요\"…기습 한파에 한숨 가득한 새벽 인력사무소",
-    "summary": "건설경기 침체에 계절적 한파까지 겹쳐 일감이 급감하고 있다. 노동자들은 생계를 위해 열악한 조건에서도 일을 나갈 수밖에 없는 상황에 처해 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-28T09:14:52+09:00",
-    "importance": 4
   }
 ]
