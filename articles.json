@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[임종호 칼럼] 대우건설·두산과 협상 끊은 한수원…정부는 뒷짐만 - sateconomy.co.kr",
+    "link": "http://sateconomy.co.kr/news/view/1065613672960190",
+    "description": "한국수력원자력은 8년간 함께 수주전을 치른 대우건설·두산에너빌리티 컨소시엄과 시공계약 협상을 끝냈다. 정부는 중재할 법적 권한이 없다며 선을 그었다. 국가적 사업이 흔들리는데 책임지는 주체가 보이지 않는다....",
+    "published_at": "2026-11-02T21:02:00+09:00",
+    "cluster_id": "fd71",
+    "publisher": "sateconomy.co.kr",
+    "title_clean": "[임종호 칼럼] 대우건설·두산과 협상 끊은 한수원…정부는 뒷짐만",
+    "summary": "한수원이 8년간 진행한 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상을 종료했다. 정부가 중재 권한이 없다며 책임을 회피하면서 국가 사업이 흔들리고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-02T21:11:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20200,19 +20216,19 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산에너빌리티, 美서 SMR 첫 원자로 제작 계약 체결 - m-i.kr",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=2012143",
-    "description": "매일일보 = 정경화 기자   |  두산에너빌리티가 미국 소형모듈원전(SMR) 선도 기업과 첫 원자로 본제작 계약을 체결하고 글로벌 SMR 상용화 파운드리 거점으로서의 입지를 다졌다. 두산에너빌리티는 미국 뉴스케일파워...",
-    "published_at": "2026-10-29T17:06:00+09:00",
-    "cluster_id": "e3d1",
-    "publisher": "",
-    "title_clean": "두산에너빌리티, 美서 SMR 첫 원자로 제작 계약 체결 - m-i.kr",
-    "summary": "두산에너빌리티가 미국 소형모듈원전(SMR) 선도 기업과 첫 원자로 본제작 계약을 체결했다. 이는 국내 기계설비건설업체의 글로벌 원전 시장 진출 및 SMR 상용화 거점 확보로 향후 수주 증가 기회를 의미한다.",
+    "title": "[NNA] 일본 고요건설, 홍콩이공대 교육 시설 건설 수주 - 아주경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tTnZ0V1JtTjgxWHdnRDE2Qnh5SUwyY2NJY2ROSlZ4VkNJb0w3Y1pjSFZ4SWxWejE5cG56VFRRb1dKbHJrT1RQN0QwZVN1cUdFYUdtNFhMNkVyQdIBWEFVX3lxTE5EcHVHUm9XeFhfUmRVNTRHZFBCdFlPMko3ZVFiWkFrdVA5T0hTY2pwVFJkVGNIOEoxQjdLeHRnUDFaNzh3Q1dOcHFXa1lYUGtVWHNFdkRyR20?oc=5",
+    "description": "고요건설은 10월 30일 홍콩이공대학으로부터 20층 규모의 학생 기숙사와 11층 규모의 교사 2개 동의 신축 공사를 수주했다고 밝혔다. 수주액은 약 418억 엔이...",
+    "published_at": "2026-11-02T21:00:43+09:00",
+    "cluster_id": "fa56",
+    "publisher": "아주경제",
+    "title_clean": "[NNA] 일본 고요건설, 홍콩이공대 교육 시설 건설 수주",
+    "summary": "일본 고요건설이 홍콩이공대학으로부터 학생 기숙사(20층)와 교사(11층, 2동) 신축 공사를 수주했다. 수주액은 약 418억 엔 규모의 대형 프로젝트다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-29T17:15:47+09:00",
+    "collected_at": "2026-11-02T21:11:27+09:00",
     "importance": 2
   },
   {
@@ -32230,21 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-28T09:14:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "김이탁 국토부 차관, 모듈러주택 활성화 방안 논의 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52511",
-    "description": "김이탁 국토교통부 제1차관은 27일 국토발전전시관에서 LH(한국토지주택공사), 경기주택도시공사(GH), 한국건설기술연구원 및 관련 업계와 협의체를 열고 모듈러주택 활성화 방안을 논의했다.이번 회의는 '8.13 주택 신속공급 방안'에 포함된 모듈러 공공주택 발주물량 확대와 20층 이상 고층 모듈러주택 시범사업 등의 추진 상황을 점검하기 위해 마련됐다.이날 참석자들은 의왕초평·하남교산 고층 모듈러주택 실증사업 진행 상황과 2030년까지의 공공주택 발주 계획을 공유하고, 사업 추진 과정의 애로사항을 논의했다.국토부는 기존 공법보다 약 3",
-    "published_at": "2026-10-27T16:22:56+09:00",
-    "cluster_id": "499c",
-    "publisher": "기계설비신문",
-    "title_clean": "김이탁 국토부 차관, 모듈러주택 활성화 방안 논의",
-    "summary": "국토교통부가 LH, 경기주택도시공사 등과 협의하여 모듈러주택 활성화 방안을 논의했다. 공공주택 발주물량 확대와 20층 이상 고층 모듈러주택 시범사업 추진 현황을 점검하고 의왕초평·하남교산 실증사업 진행 상황을 공유했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-28T08:35:37+09:00",
-    "importance": 2
   }
 ]
