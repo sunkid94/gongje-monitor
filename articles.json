@@ -19995,6 +19995,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[신기술이 경쟁력] 보이지 않는 지하 위험까지 잡는다…건설연, AI 기반 위험예측 기술 확보 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50570",
+    "description": "[건설이코노미뉴스] 지하공간 건설현장에서 발생하는 유해가스와 산소 부족 등 보이지 않는 위험을 인공지능(AI)으로 사전에 예측하고 대응할 수 있는 기술이 개발됐다.한국건설기술연구원(원장 박선규, 이하 건설연)은 지하공간 공사 현장의 유해가스와 산소 농도 등을 실시간으로 측정하고, AI를 활용해 위험 요인의 변화와 확산을 예측하는 '지하 환경위험관리시스템'을 개발했다고 2일 밝혔다.지하공간 공사 현장은 굴착과 발파, 디젤 장비 운행, 용접, 방수·도장 작업 등 다양한 공정에서 일산화탄소와 황화수소, 휘발성유기화합물(VOCs), 분진",
+    "published_at": "2026-11-02T09:02:52+09:00",
+    "cluster_id": "2445",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "[신기술이 경쟁력] 보이지 않는 지하 위험까지 잡는다…건설연, AI 기반 위험예측 기술 확보",
+    "summary": "한국건설기술연구원이 지하공간 건설현장의 유해가스와 산소 부족 등을 실시간으로 감지하고 AI로 위험을 사전에 예측하는 '지하 환경위험관리시스템'을 개발했다. 이 기술은 건설현장의 안전성을 크게 향상시켜 산업재해를 예방할 수 있을 것으로 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T09:06:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32217,21 +32233,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-26T17:59:58+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[산업 Pick] 한화큐셀·LS에코에너지·효성중공업, 차세대 R&D 기반 확보와 전력망 신기술 선점 - 라이센스뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40a1EzeTNrMzRvUi1QUjZZNGxXc1ZtX1pDajB4RDBGZHE2Wl9ITFNBQnFrTVV3SmYtY0RtRmVlbDNKRnFzbFhkWElhaEZZYm0xaVhIeFBCa1N4azFqOUZHWGRZcW1mYlNCRFFn?oc=5",
-    "description": "라이센스뉴스 = 박창배 기자 | 한화큐셀·LS에코에너지·효성중공업이 연구개발(R&D) 체계 고도화와 고부가가치 신사업 거점 확보, 대용량 송전망 핵심 기술 국산화",
-    "published_at": "2026-10-26T17:29:07+09:00",
-    "cluster_id": "b20a",
-    "publisher": "라이센스뉴스",
-    "title_clean": "[산업 Pick] 한화큐셀·LS에코에너지·효성중공업, 차세대 R&D 기반 확보와 전력망 신기술 선점",
-    "summary": "한화큐셀, LS에코에너지, 효성중공업이 신재생에너지 및 전력망 분야에서 R&D 체계를 고도화하고 차세대 기술 개발에 투자하고 있습니다. 대용량 송전망 핵심 기술의 국산화로 에너지 인프라 구축 시장이 확대될 것으로 예상됩니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-26T17:59:58+09:00",
-    "importance": 2
   }
 ]
