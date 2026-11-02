@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"철강 마진 회복·인프라 확대\"… 포스코홀딩스, 3분기 영업익 9,450억·... - srtimes.kr",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=216540",
+    "description": "포스코이앤씨도 도시정비 등 신규 수주 증대에 힘입어 전 분기 대비 4% 늘어난 480억 원의 영업이익을 냈다. 반면 이차전지소재 부문은 전기차 캐즘 여파로 부진했다. 핵심 자회사인 포스코퓨처엠은 양·음극재 판매...",
+    "published_at": "2026-11-02T19:58:00+09:00",
+    "cluster_id": "d10c",
+    "publisher": "srtimes.kr",
+    "title_clean": "\"철강 마진 회복·인프라 확대\"… 포스코홀딩스, 3분기 영업익 9,450억·...",
+    "summary": "포스코홀딩스가 철강 마진 회복과 인프라 확대로 3분기 영업익 9,450억을 기록했고, 자회사 포스코이앤씨도 도시정비 등 신규 수주 증대로 480억 원의 영업이익을 달성했다. 다만 포스코퓨처엠의 이차전지소재 부문은 전기차 캐즘 여파로 부진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-02T20:11:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20195,22 +20211,6 @@
     "publisher": "joongangenews.com",
     "title_clean": "롯데건설, 성수4지구 'S70 성수 르엘' 팝업관 운영...미래 주거 기술 선...",
     "summary": "롯데건설이 서울 성수4지구 재개발사업에서 하이퍼엔드 주거 브랜드 'S70 성수 르엘'을 제안하고 팝업관을 운영하며 미래 주거 기술을 선보이고 있다. 이는 대규모 재개발사업 수주 기회와 프리미엄 주거시장 진출을 통한 건설사의 사업 다각화를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T17:15:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 美서 SMR 첫 원자로 제작 계약 체결 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ha281RkJiWXRsUXY1dUNUbVlYTHE0Wm1WWk5udC1wa3ZrZjVET2t0NjZqYVBzWlFDQmtPUURoSWtpd1pxY0xKU19QWWJiNkVVUkxJMUZaQWhKZW1UTWlpWGlFSzQ?oc=5",
-    "description": "매일일보 = 정경화 기자 | 두산에너빌리티가 미국 소형모듈원전(SMR) 선도 기업과 첫 원자로 본제작 계약을 체결하고 글로벌 SMR 상용화 파운드리 거점으로서의",
-    "published_at": "2026-10-29T17:04:52+09:00",
-    "cluster_id": "94f1",
-    "publisher": "매일일보",
-    "title_clean": "두산에너빌리티, 美서 SMR 첫 원자로 제작 계약 체결",
-    "summary": "두산에너빌리티가 미국의 소형모듈원전(SMR) 선도 기업과 첫 원자로 본제작 계약을 체결했다. 이는 글로벌 SMR 시장 진출 및 상용화 파운드리 거점 구축의 중요한 계약으로, 기계설비건설 분야의 신규 수주 확대를 의미한다.",
     "sentiment": "positive",
     "collected_at": "2026-10-29T17:15:47+09:00",
     "importance": 2
