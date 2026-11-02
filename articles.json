@@ -4233,6 +4233,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "서초에 '디에이치반포124'만?…남부터미널 '롯데캐슬'도 - news.bizwatch.co.kr",
+    "link": "https://news.bizwatch.co.kr/article/real_estate/2026/11/02/0045",
+    "description": "특히 포스코이앤씨의 '더샵', 대우건설의 '푸르지오', 태영건설의 '데시앙' 등 브랜드 아파트가 다수 나온다. 우선 경북에서는 태영건설이 시공하는 '구미파크원데시앙'의 1단지가 분양 예정이다. 구미시 도량동 산...",
+    "published_at": "2026-11-03T06:36:00+09:00",
+    "cluster_id": "848a",
+    "publisher": "news.bizwatch.co.kr",
+    "title_clean": "서초에 '디에이치반포124'만?…남부터미널 '롯데캐슬'도",
+    "summary": "서초 디에이치반포124와 남부터미널 롯데캐슬 등 브랜드 아파트 분양이 예정되어 있으며, 포스코이앤씨, 대우건설, 태영건설 등 주요 건설사들이 다양한 프로젝트를 추진 중이다. 경북 구미에서도 태영건설의 구미파크원데시앙 분양이 계획되어 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-03T06:39:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20212,22 +20228,6 @@
     "publisher": "hankyung.com",
     "title_clean": "영등포·부천서 아파트 '보류지' 매각",
     "summary": "대우건설의 1045가구 대규모 아파트 단지와 광명시 철산자이브리에르 재건축 단지의 일부 가구가 경매에 나왔다. 다음달 6일 입찰 신청을 받을 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T17:46:25+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "하안주공 재건축에 대형 건설사 잇단 참여···경쟁입찰은 '실종' - sisajournal-e.com",
-    "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424667",
-    "description": "IPARK현대산업개발은 지난 14일 한국토지신탁이 진행한 수의계약을 위한 우선협상대상자 선정 입찰에 단독 응찰했다. 앞서 진행한 두 차례 경쟁입찰에서도 IPARK현대산업개발만 참여해 유찰된 바 있다. 예정 공사비는...",
-    "published_at": "2026-10-29T17:32:00+09:00",
-    "cluster_id": "e33d",
-    "publisher": "",
-    "title_clean": "하안주공 재건축에 대형 건설사 잇단 참여···경쟁입찰은 '실종' - sisajournal-e.com",
-    "summary": "하안주공 재건축 사업에서 IPARK현대산업개발이 세 차례 연속 단독 응찰하며 경쟁입찰이 실종된 상태다. 대형 건설사들의 참여 저조로 경쟁 구도가 형성되지 못하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-10-29T17:46:25+09:00",
     "importance": 4
