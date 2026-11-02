@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 한수원 ‘체코 원전 시공’ 협상 결렬에 “산업부가 재협상 중재해야” - 뉴시안",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBERDlMY2VzXy1XSHRPUzUwM3BnYmhoblkwbTZqblZkbGxuTm0zczdFMWQ2ZTV5T3JkRnhKWkZEY2FQOEszRk1xS0JURklCcjFUWXhwZWVwX2pOWG1hMmg3NEpfQThTc3ZTTFdjNg?oc=5",
+    "description": "[뉴시안 = 최문수 기자] 체코 두코바니 신규 원전 건설사업의 시공사 선정을 둘러싸고 발주 원청사인 한국수력원자력(이하 한수원)과 주간 시공사인 대우건설 간 협상",
+    "published_at": "2026-11-02T14:35:01+09:00",
+    "cluster_id": "d7c4",
+    "publisher": "뉴시안",
+    "title_clean": "대우건설, 한수원 ‘체코 원전 시공’ 협상 결렬에 “산업부가 재협상 중재해야”",
+    "summary": "대우건설과 한수원이 체코 두코바니 원전 건설사업 시공사 선정을 둘러싼 협상이 결렬되었으며, 대우건설은 산업부의 재협상 중재를 요청하고 있다. 한국 건설사의 대규모 해외 원전 프로젝트 수주가 불확실해지는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-02T20:45:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20195,22 +20211,6 @@
     "publisher": "businesspost.co.kr",
     "title_clean": "두산에너빌리티 \"대우건설 컨소시엄 입장문 발표 협의 없었어\" \"주기기...",
     "summary": "두산에너빌리티가 체코 원전 시공 계약과 관련해 대우건설 컨소시엄의 입장문 발표에 대해 사전 협의 없었다며 선을 그었다. 계약 관련 주요 기기 공급사와의 협의 내용 불일치로 업계 내 분쟁이 발생 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T17:15:47+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 '팀코리아' 균열···한수원·대우건설·두산에너빌 협상 결... - enewstoday.co.kr",
-    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486133",
-    "description": "한국수력원자력이 26조원 규모의 체코 두코바니 원전 건설사업을 함께 추진해 온 대우건설·두산에너빌리티 컨소시엄과 시공계약 협상을 종료하기로 했다. 핵심 계약조건을 둘러싼 이견을 끝내 좁히지 못하면서 한국형...",
-    "published_at": "2026-10-29T16:56:00+09:00",
-    "cluster_id": "1ad7",
-    "publisher": "enewstoday.co.kr",
-    "title_clean": "체코 원전 '팀코리아' 균열···한수원·대우건설·두산에너빌 협상 결...",
-    "summary": "한수원이 체코 두코바니 원전 26조원 규모 사업에서 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상을 종료하기로 결정했다. 핵심 계약조건 이견으로 협상이 결렬되면서 한국형 원전의 해외 수주 프로젝트가 무산될 위기에 직면했다.",
     "sentiment": "negative",
     "collected_at": "2026-10-29T17:15:47+09:00",
     "importance": 4
