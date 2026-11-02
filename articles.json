@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "전문건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "K-FINCO, 건설현장 '디지털 전환' 돕는 통합 플랫폼 개시 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpUUVXcGlTRHpCdWFhcEw1Mkk0LVppS1Z2b2NSZmN5NkV6LTMzbUpyTXNPc3dwSGlYTFQyMVgtSWVHNS1tTUNTOUhudHFtMVVZVF9CQzJSQmhQMzBYdlJFakstTkNMcUNCZHYw?oc=5",
+    "description": "전문건설공제조합(K-FINCO, 이사장 이은재)이 건설경영에 필요한 다양한 서비스를 발굴해 조합원 전용 혜택과 함께 통합 안내하는",
+    "published_at": "2026-11-02T11:45:37+09:00",
+    "cluster_id": "18b7",
+    "publisher": "한국건설신문",
+    "title_clean": "K-FINCO, 건설현장 '디지털 전환' 돕는 통합 플랫폼 개시",
+    "summary": "전문건설공제조합(K-FINCO)이 건설경영에 필요한 다양한 서비스를 통합 제공하는 플랫폼을 개시했다. 조합원 전용 혜택과 함께 건설현장의 디지털 전환을 지원하는 통합 안내 서비스이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T11:54:21+09:00",
+    "event_label": "전문건설공제조합 건설경영 통합 플랫폼 개시",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32220,22 +32237,6 @@
     "title_clean": "대우건설, 3분기 영업이익 223.7% 급증…매출 감소에도 수익성 개선",
     "summary": "대우건설이 3분기 영업이익을 223.7% 증가시키며 수익성을 개선했다. 매출 감소에도 불구하고 원가 관리 등으로 수익성을 높인 것으로 보인다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-27T10:00:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한신공영, 가을철 현장 안전보건점검 강화…'중대재해 ZERO 6년 연속' 정... - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=285277",
-    "description": "전재식 한신공영 대표이사(왼쪽 여섯 번째)와 현장 관계자들이 지난 23일 시흥하중LH2공구 건설현장 안전보건점검 후 기념촬영 하고 있다. [사진=한신공영] 한신공영이 전재식 한신공영 대표이사가 지난 23일...",
-    "published_at": "2026-10-27T09:52:00+09:00",
-    "cluster_id": "b196",
-    "publisher": "paxetv.com",
-    "title_clean": "한신공영, 가을철 현장 안전보건점검 강화…'중대재해 ZERO 6년 연속' 정...",
-    "summary": "한신공영이 가을철 현장 안전보건점검을 강화하며 중대재해 6년 연속 ZERO를 달성했다. 전재식 대표이사가 시흥하중LH2공구 건설현장을 방문하여 안전보건관리를 점검했다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-27T10:00:13+09:00",
     "importance": 2
   }
