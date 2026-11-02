@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코홀딩스, 3분기 영업익 9400억… 철강 수익개선 힘입어 47.9% 증가 - it.chosun.com",
+    "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000072",
+    "description": "포스코이앤씨의 경우 수주 확대 등으로 영업이익이 전분기 대비 4% 증가한 480억원을 기록했다. 포스코홀딩스는 3분기 선제적인 현금 확보 노력과 원화강세 영향에 따라 순차입금을 4조3000억원 감소시켰고...",
+    "published_at": "2026-11-02T20:56:00+09:00",
+    "cluster_id": "9470",
+    "publisher": "it.chosun.com",
+    "title_clean": "포스코홀딩스, 3분기 영업익 9400억… 철강 수익개선 힘입어 47.9% 증가",
+    "summary": "포스코홀딩스가 3분기 영업익 9400억원으로 전분기 대비 47.9% 증가했으며, 철강 수익 개선이 주도했다. 포스코이앤씨도 수주 확대로 영업이익이 480억원을 기록하고 순차입금을 감소시켜 재무 건전성을 개선했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-02T21:01:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20195,22 +20211,6 @@
     "publisher": "",
     "title_clean": "두산에너빌리티, 美서 SMR 첫 원자로 제작 계약 체결 - m-i.kr",
     "summary": "두산에너빌리티가 미국 소형모듈원전(SMR) 선도 기업과 첫 원자로 본제작 계약을 체결했다. 이는 국내 기계설비건설업체의 글로벌 원전 시장 진출 및 SMR 상용화 거점 확보로 향후 수주 증가 기회를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T17:15:47+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산에너빌리티, 체코 원전 시공 재입찰 참여…\"주기기 공급은 정상 진... - beyondpost.co.kr",
-    "link": "http://www.beyondpost.co.kr/view.php?ud=202610291650561748be44c0aacd_30",
-    "description": "두산에너빌리티가 체코 신규 원전 시공사 재선정 절차에 참여한다. 원자로 등 주기기 공급은 기존 계약에 따라 차질 없이 진행한다는 방침이다. 29일 두산에너빌리티는 체코 신규 원전 건설사업과 관련해 \"발주처에서 기존...",
-    "published_at": "2026-10-29T17:04:00+09:00",
-    "cluster_id": "31c4",
-    "publisher": "beyondpost.co.kr",
-    "title_clean": "두산에너빌리티, 체코 원전 시공 재입찰 참여…\"주기기 공급은 정상 진...",
-    "summary": "두산에너빌리티가 체코 신규 원전 시공사 재선정 절차에 참여하며, 원자로 등 주기기 공급은 기존 계약에 따라 정상 진행할 방침이다. 원전 대형 프로젝트의 주기기 공급 수주를 유지하는 것으로 해석된다.",
     "sentiment": "positive",
     "collected_at": "2026-10-29T17:15:47+09:00",
     "importance": 2
