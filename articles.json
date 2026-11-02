@@ -20216,6 +20216,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "타워크레인 신호수, 자격증 없어도 아무나 세울 수 없는 이유 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5tNzRfTU9QLXpZM1EzaFA2NzFDYk05LWR2QmUtd0RuQ2tFTy1zQ0lTc2tlV3l6RXZaUXVXb1ZUQWpBcm8?oc=5",
+    "description": "자격증보다 교육·배치가 핵심 2026년 10월 9일 부천의 한 발전소 건설현장에서 타워크레인 무게추 사고가 발생했다. 당국이 조사 대상으로 삼은 항목에는 인양 장비 체결 상태와 함께 신호수 배치 여부, 하부 출입 통제, 작업중지 기준 준수 여부가 포함됐다. 이 사건은 크레인 사고를 개인의 부주의로만 좁혀 볼 수 없다는 사실을 다시 드러냈다. 법령상",
+    "published_at": "2026-11-03T01:14:56+09:00",
+    "cluster_id": "d168",
+    "publisher": "한국공공정책신문",
+    "title_clean": "타워크레인 신호수, 자격증 없어도 아무나 세울 수 없는 이유",
+    "summary": "2026년 부천 발전소 건설현장의 타워크레인 무게추 사고를 통해 크레인 사고가 단순 개인 부주의가 아니라 신호수 배치, 안전교육, 장비 점검 등 체계적 관리의 중요성을 지적한 기사다. 자격증보다 현장 배치와 교육이 핵심이라는 점을 강조한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T01:26:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32229,22 +32245,6 @@
     "summary": "현대건설이 간절기 특수 콘크리트 기술인증을 획득했으며, HMG건설기술연구원은 에너지, 미래주거, 스마트건설, 인프라 등 4대 핵심 분야의 연구개발을 추진 중이다. AI 기반 콘크리트 성능 관리시스템 개발 등 기술력 강화에 집중하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-10-28T09:56:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "금호건설, 협력사 23곳과 안전보건 간담회…현장 안전관리 강화 - fntimes.com",
-    "link": "https://www.fntimes.com/html/view.php?ud=202610280925525857048b718333_18",
-    "description": "금호건설(대표이사 조완석)이 협력사와 함께 건설현장 안전관리 강화에 나섰다. 금호건설은 지난 27일 서울 종로구 본사에서 주요 협력사 23곳의 경영진을 초청해 ‘SAFETY ARTERA 안전보건 간담회’를 개최했다고 28일...",
-    "published_at": "2026-10-28T09:32:00+09:00",
-    "cluster_id": "3e0d",
-    "publisher": "fntimes.com",
-    "title_clean": "금호건설, 협력사 23곳과 안전보건 간담회…현장 안전관리 강화",
-    "summary": "금호건설이 협력사 23곳과 'SAFETY ARTERA 안전보건 간담회'를 개최하여 건설현장 안전관리 강화에 나섰다. 건설업계의 안전보건 관리 체계 개선과 현장 안전문화 확산을 위한 협력사 간 소통을 추진하는 움직임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-28T09:45:12+09:00",
     "importance": 2
   }
 ]
