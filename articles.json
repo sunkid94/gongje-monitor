@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "장인화 '트리플코어' 힘 받는다…3Q '깜짝 실적'에 4Q 7000억 전망 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3052737",
+    "description": "포스코이앤씨는 우량 중심의 프로젝트 관리와 견조한 수주를 바탕으로 480억원의 영업이익을 기록했다. 전분기와 비교하면 28억원 증가한 수준이다. 다만, 이차전지소재부문은 리튬 가격 약세로 수익성 회복이...",
+    "published_at": "2026-11-03T01:24:00+09:00",
+    "cluster_id": "47fc",
+    "publisher": "apnews.kr",
+    "title_clean": "장인화 '트리플코어' 힘 받는다…3Q '깜짝 실적'에 4Q 7000억 전망",
+    "summary": "포스코이앤씨가 3분기 480억원의 영업이익으로 견조한 실적을 기록하며 4분기 7000억원대 매출 전망을 내놓았다. 우량 프로젝트 관리와 수주 호조가 실적 개선을 주도하고 있으나, 이차전지소재 부문은 리튬 가격 약세로 수익성 회복이 지연되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-03T01:31:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20198,22 +20214,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-29T17:35:21+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 시공계약 결렬···한수원·대우건설 ‘공사비 갈등’ - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aeUxXVlJiNFNyNmxndWc5T00zV3phQ3g2Y0hoNzIzNFh0Q01zYVBJOXRkbFpvaVBDZ2N1V1o4NWRWT2pyM0ZacTZiWFlXZktTVkxRV19MclMxd9IBX0FVX3lxTE5ZUE9ZR29LTVlpYVNWT2FXeWZlSW9kSUtaNlFGVDFOdVltYXM3WTNkTUNWRDRTRlpTcDN1YXRMR2U2ODhyVFBYRDFGZHhoclZ3SUlHT0pzQ0YyeFJQWVZN?oc=5",
-    "description": "한국수력원자력이 27조원 규모의 체코 두코바니 원전 건설사업에서 대우건설·두산고에너빌리티 컨소시엄과의 시공계약 협상을 종료했다. 공사비와 위험 분담 구조 등을 놓고 양측이 끝내 입장차를 좁히지 못한 데 따른 결과다. 시공사 입찰부터 다시 시작해야 해 예정대로 공사가 진행될 수 있을지 우려가 제기된다. 한수원은 29일 “주요 계약조건에 대한 양측의 이견...",
-    "published_at": "2026-10-29T17:24:00+09:00",
-    "cluster_id": "5eec",
-    "publisher": "경향신문",
-    "title_clean": "체코 원전 시공계약 결렬···한수원·대우건설 ‘공사비 갈등’",
-    "summary": "한수원이 체코 두코바니 원전 건설사업(27조원 규모)에서 대우건설·두산고에너빌리티 컨소시엄과의 시공계약 협상을 종료했다. 공사비와 위험 분담 구조 등을 놓고 양측이 합의하지 못해 입찰을 다시 진행해야 하며, 공사 일정 지연이 우려된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T17:35:21+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
