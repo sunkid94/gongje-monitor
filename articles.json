@@ -20318,6 +20318,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "허태정 대전시장 “공공기관 유치에 시청사도 내줄 각오”, 지역경제 살리기 속도전 - 중앙매일",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BMFdLa0U4czBpYkNTT3NqNGRKbVdGeVVfM2NTMk1VRE10bmhWMDFjMkhPLURWQmVlZFRPQ3lFSDBtVW4tZkpsWEc4NjFLMnJfRmtsczJhRVVPZlcwNTFVTDlReGlfZw?oc=5",
+    "description": "허태정 대전시장은 3일 주재한 확대간부회의에서 2차 공공기관 이전과 지역 건설경기 회복을 주요 현안으로 강조하며, 대전의 경쟁력 강화를 위한 전방위적인 대응을 주문했다.허태정 대전시장은 “전국 16개 지자체가 공공기관 유치에 사활을 걸고 있다”며 “공공기관 유치를 위해 시청사도 내줄 수 있다는 발언이 농담이 아니다”라고 강조했다.이어 공공기관 유치와 첨단산업 육성에 속도를 내야 한다며, 모든 부서와 산하기관이 유치 전략 마련과 경쟁력 강화에 총력을 기울일 것을 당부했다.침체된 지역 건설경기 회복을 위한 적극적인 대응도 지시했다. 특",
+    "published_at": "2026-11-03T13:10:17+09:00",
+    "cluster_id": "4c97",
+    "publisher": "중앙매일",
+    "title_clean": "허태정 대전시장 “공공기관 유치에 시청사도 내줄 각오”, 지역경제 살리기 속도전",
+    "summary": "허태정 대전시장이 2차 공공기관 이전 유치와 지역 건설경기 회복을 최우선 과제로 삼겠다고 밝혔다. 시청사 제공까지 불사하겠다는 강한 의지를 드러내며 전 부서에 공공기관 유치 전략 마련과 건설경기 회복에 총력을 기울일 것을 지시했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-03T22:05:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32233,22 +32249,6 @@
     "publisher": "한산신문",
     "title_clean": "동원개발, 협력업체 대표자 안전보건 다짐행사 개최",
     "summary": "동원개발이 협력업체 대표자들을 대상으로 안전보건 다짐행사를 개최했다. 정부의 산업안전 정책 강화에 대응하고 건설현장의 산업재해 예방 및 안전문화 정착을 위한 행사로, 원청사와 협력사의 대등한 파트너십 구축이 목표다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-29T15:59:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[현장부터 지키는 안전도시]관악구, 건축공사장 3곳 ‘베스트 안전관리상’ 선정…현장 중심 안전관리 강화 - 전국뉴스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKaGVmekQ5VjZoeEVFSmk5SHZrS241R0hMUlRldFp1Sl9pMHdpbHdQVFM2YVoxeUNXbUJTRUhxQ2FqdG9Od3o4VFhiSkVIMUFKQnhOMzd2UkNEYTQ0RE5MMU5NUHhqdWEzMC1ZUGpWRGs?oc=5",
-    "description": "[전국뉴스=김진구 기자] 도심 곳곳에서 진행되는 건축공사는 도시의 성장과 주거환경 개선을 이끄는 동시에 근로자와 보행자의 안전을 세심하게 살펴야 하는 과제이기도",
-    "published_at": "2026-10-29T15:00:57+09:00",
-    "cluster_id": "8aa9",
-    "publisher": "전국뉴스",
-    "title_clean": "[현장부터 지키는 안전도시]관악구, 건축공사장 3곳 ‘베스트 안전관리상’ 선정…현장 중심 안전관리 강화",
-    "summary": "관악구가 건축공사장 3곳을 '베스트 안전관리상'으로 선정하여 현장 중심의 안전관리를 강화하고 있다. 도시 건축공사의 성장과 주거환경 개선 동시에 근로자와 보행자의 안전을 중시하는 기조를 보여준다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-29T15:59:18+09:00",
     "importance": 2
