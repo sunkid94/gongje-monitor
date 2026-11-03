@@ -20250,6 +20250,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "허태정 대전시장 \"공공기관 유치에 시청사도 내줄 각오\"… 총력 대응 주문 - 신아일보",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGTHFGZExIdWphVXBKQmdFTFc4MUhLa2hQakdqLVBDU1JZdnRKZ3Y5bV8yOFhFVHRBenBsQVJQWEdvcDNCeFdSRk5KUE4zY1JEN0tqMGJQSDBfZ2RGU1RMTEM2V0ZYUnJmdHUzVXFEZ2M?oc=5",
+    "description": "허태정 대전시장이 2차 공공기관 지방 이전을 앞두고 유치 경쟁력 확보를 위한 시정 역량 결집을 주문했다.침체된 지역 건설경기 회복을 위해 공공투자를 확대하고 지역",
+    "published_at": "2026-11-03T12:26:01+09:00",
+    "cluster_id": "0392",
+    "publisher": "신아일보",
+    "title_clean": "허태정 대전시장 \"공공기관 유치에 시청사도 내줄 각오\"… 총력 대응 주문",
+    "summary": "허태정 대전시장이 2차 공공기관 지방 이전 유치를 위해 시청사 제공까지 검토하며 총력 대응을 주문했다. 침체된 지역 건설경기 회복을 위해 공공투자 확대 의지를 표현했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-03T12:46:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32232,21 +32248,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-28T19:37:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[이슈하이킥] 산재 사망자 역대 '최저'.. '영업이익 5% 과징금'·'신고포... - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115372",
-    "description": "일각에서는 건설경기가 좋지 않아 현장 자체가 줄어든 영향 아니냐는 분석도 있는데요. 본부장님은 이유가 뭘로 보고 계십니까? ◀류현철▶ 건설경기와 사고사망자 수가 항상 같이 움직이는 것은 아닙니다. 사망자 증감은...",
-    "published_at": "2026-10-28T19:00:00+09:00",
-    "cluster_id": "6ca7",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "[이슈하이킥] 산재 사망자 역대 '최저'.. '영업이익 5% 과징금'·'신고포...",
-    "summary": "산재 사망자가 역대 최저 수준을 기록했으나, 건설경기 침체로 인한 현장 감소가 영향을 미쳤을 가능성이 제기되고 있습니다. 정부는 영업이익 과징금 부과 등 규제를 강화하고 있는 상황입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-28T19:16:56+09:00",
-    "importance": 4
   }
 ]
