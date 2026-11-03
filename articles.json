@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "\"하자 싹부터 자른다\"…건설업계, AI 검측·실명제 품질 총력전 - ziksir.com",
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=151819",
+    "description": "대우건설은 무량판 구조 등 주요 공정에서 연 3회 이상 철근 비파괴 검사를 실시해 철근 오시공을 예방한다. 하자가 잦은 방수·타일 공종은 모의 파취 조사를 통해 방수 두께와 타일 부착강도 등을 사전에 점검한다....",
+    "published_at": "2026-11-04T06:00:00+09:00",
+    "cluster_id": "97a1",
+    "publisher": "ziksir.com",
+    "title_clean": "\"하자 싹부터 자른다\"…건설업계, AI 검측·실명제 품질 총력전",
+    "summary": "건설업계가 AI 검측과 실명제 등을 통해 하자 예방에 나서고 있다. 대우건설은 철근 비파괴 검사와 모의 파취 조사 등으로 공정 품질을 사전에 점검하는 방식을 도입하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-04T06:04:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20300,22 +20316,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-30T10:44:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[건설리딩대상-주거상품] 원도심 재건축에 프리미엄 입힌 '롯데건설' - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010350",
-    "description": "아시아투데이 김다빈 기자 = 롯데건설이 대전 원도심 재건축 단지에 차별화된 특화설계를 도입해 지역 주거상품 수준을 한 단계 끌어올리고 있다. 아파트 옥상을 입주민이 조망과 휴식을 즐기는 공간으로 탈바꿈시키고...",
-    "published_at": "2026-10-30T10:30:00+09:00",
-    "cluster_id": "b9d0",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "[건설리딩대상-주거상품] 원도심 재건축에 프리미엄 입힌 '롯데건설'",
-    "summary": "롯데건설이 대전 원도심 재건축 단지에 차별화된 특화설계를 적용하여 주거상품 경쟁력을 강화하고 있다. 옥상 공간 활용 등 프리미엄 요소를 도입해 지역 주거 수준을 향상시키는 사례를 보여주고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:44:00+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
