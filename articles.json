@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[오늘 부동산] 李대통령 “서울 주요지역 아파트 실거래가 놀라울 정도... - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1710333/?sc=Naver",
+    "description": "대우건설, 정비사업 수주액 5조원 돌파 대우건설은 경기 의정부 가능4구역 재개발과 서울 성산모아타운 4구역 시공사로 선정되면서 올해 도시정비사업 누적 수주액 5조673억원을 기록했다고 3일 밝혔다. 두 사업의...",
+    "published_at": "2026-11-04T06:11:00+09:00",
+    "cluster_id": "1a23",
+    "publisher": "dailian.co.kr",
+    "title_clean": "[오늘 부동산] 李대통령 “서울 주요지역 아파트 실거래가 놀라울 정도...",
+    "summary": "대우건설이 의정부 재개발과 서울 성산모아타운 시공사 선정으로 올해 도시정비사업 수주액 5조원을 돌파했다. 건설업계의 수주 증가 실적으로 긍정적 신호를 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T06:14:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20300,22 +20316,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-30T10:44:00+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'철거붕괴' 광주 학동4구역 아이파크 다음달 일반분양 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261030065000054?input=1195m",
-    "description": "30일 시공사인 IPARK현대산업개발과 학동4구역주택재개발정비사업조합 등에 따르면 아이파크 무등산 스카이포레는 다음달 전남광주 서구 농성동에 모델하우스를 공개한 후 일반분양 청약을 받는다. 일반분양...",
-    "published_at": "2026-10-30T10:34:00+09:00",
-    "cluster_id": "d965",
-    "publisher": "yna.co.kr",
-    "title_clean": "'철거붕괴' 광주 학동4구역 아이파크 다음달 일반분양",
-    "summary": "광주 학동4구역 재개발사업의 아이파크 무등산 스카이포레가 다음달 모델하우스 공개 후 일반분양에 들어간다. 과거 철거붕괴 사고를 겪은 사업지의 정상화로 건설 수주가 진행되는 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:44:00+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
