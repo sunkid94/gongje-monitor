@@ -4301,6 +4301,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "노원구, 상계2구역 재개발 관리처분계획 인가…2200세대 공급 본격화 - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079440",
+    "description": "2021년 사업시행계획인가를 받았으며, 대우건설과 동부건설이 공동 시공을 맡고 있다. 이번 인가에 따라 조합은 이주와 철거를 위한 절차를 진행할 수 있게 됐다. 노원구는 원활한 이주를 위한 행정적 지원과 함께...",
+    "published_at": "2026-11-04T08:36:00+09:00",
+    "cluster_id": "a160",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "노원구, 상계2구역 재개발 관리처분계획 인가…2200세대 공급 본격화",
+    "summary": "노원구 상계2구역 재개발 사업이 관리처분계획 인가를 받아 2200세대 공급이 본격화된다. 대우건설과 동부건설이 공동 시공을 맡으며 조합은 이주 및 철거 절차를 진행할 수 있게 됐다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T08:49:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20283,22 +20299,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-30T10:53:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "“정의로운 에너지 전환”…남부발전, 하동군·두산에너빌리티와 지역... - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12191297",
-    "description": "남부발전은 지난 29일 하동군·두산에너빌리티와 지역상생을 위한 업무협약을 체결했다고 30일 밝혔다. 이번 협약에 따라 남부발전과 하동복합 EPC 계약자인 두산에너빌리티는 건설 과정에서 지역주민 우선 채용·일자리...",
-    "published_at": "2026-10-30T10:39:00+09:00",
-    "cluster_id": "091e",
-    "publisher": "mk.co.kr",
-    "title_clean": "“정의로운 에너지 전환”…남부발전, 하동군·두산에너빌리티와 지역...",
-    "summary": "남부발전이 하동군, 두산에너빌리티와 지역상생 업무협약을 체결했으며, 하동복합발전소 건설 과정에서 지역주민 우선 채용 및 일자리 창출을 추진한다. 에너지 전환 사업의 건설 단계에서 지역경제 활성화를 도모하는 협력 체계를 구축했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:53:41+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
