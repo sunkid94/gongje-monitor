@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 체코 원전 시공 협상 결렬에 유감...산업부에 재협상 중재 공... - ppss.kr",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=318562",
+    "description": "대우건설이 체코 신규 원전 건설사업과 관련해 한국수력원자력(한수원)과의 시공계약 협상 종료에 대해 강한 유감을 표하며, 사업 정상화를 위해 산업통상자원부에 계약 재협상 중재를 공식 요청했다. 2일 대우건설은...",
+    "published_at": "2026-11-03T19:52:00+09:00",
+    "cluster_id": "c830",
+    "publisher": "ppss.kr",
+    "title_clean": "대우건설, 체코 원전 시공 협상 결렬에 유감...산업부에 재협상 중재 공...",
+    "summary": "대우건설이 체코 원전 신규 건설사업의 한수원과의 시공계약 협상 결렬에 유감을 표하고 산업부에 재협상 중재를 공식 요청했다. 대규모 해외 원전 수주 사업이 무산될 위기에 처해 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T19:59:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20297,22 +20313,6 @@
     "publisher": "topstarnews.net",
     "title_clean": "대우건설, 2,748억원 규모 창원 상남1구역 재건축 공사 수주",
     "summary": "대우건설이 창원 상남1구역 재건축정비사업을 2,748억원 규모로 수주했다. 재건축 시장에서의 수주 실적 증가로 건설업계의 사업 기회 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:34:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'압여목성' 넘어 용산으로…재개발 본궤도에 건설사 각축전 '전운' - mediapen.com",
-    "link": "https://www.mediapen.com/news/view/1133787",
-    "description": "인근 청파1구역 시공권을 확보한 대우건설과 시공능력평가 1위 삼성물산도 서계통합구역 참여 가능성을 살피고 있는 것으로 전해졌다. 용산의 개발 잠재력은 건설사들이 이 지역을 주시하는 배경으로 꼽힌다. 서울...",
-    "published_at": "2026-10-30T10:22:00+09:00",
-    "cluster_id": "e676",
-    "publisher": "mediapen.com",
-    "title_clean": "'압여목성' 넘어 용산으로…재개발 본궤도에 건설사 각축전 '전운'",
-    "summary": "용산 서계통합구역 재개발이 본궤도에 진입하면서 대우건설, 삼성물산 등 주요 건설사들이 시공권 확보를 위해 경쟁하고 있다. 용산의 개발 잠재력이 높아 건설사들의 관심이 집중되고 있는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-30T10:34:22+09:00",
     "importance": 2
