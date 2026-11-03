@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한수원·대우건설, '체코 원전' 재협상 희박할 듯 - srtimes.kr",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=216639",
+    "description": "파트너였던 대우건설 컨소시엄과의 협상을 공식적으로 종료했다. 체코 원전 수주전 당시 '팀코리아'의 핵심 축이었던 대우건설과의 시공 계약이 끝내 무산된 것이다. 한수원과 대우건설 간의 본계약이 어그러진 결정적인...",
+    "published_at": "2026-11-03T18:10:00+09:00",
+    "cluster_id": "6902",
+    "publisher": "srtimes.kr",
+    "title_clean": "한수원·대우건설, '체코 원전' 재협상 희박할 듯",
+    "summary": "한수원이 체코 원전 사업의 시공 파트너였던 대우건설 컨소시엄과의 협상을 공식 종료했다. 팀코리아의 핵심축이었던 대우건설과의 본계약이 무산되면서 국내 건설업계의 주요 해외 수주 기회가 사라졌다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T18:15:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20297,22 +20313,6 @@
     "publisher": "seoulfn.com",
     "title_clean": "[건설브리핑] 삼표피앤씨, 에스비건설과 기술·생산 협력 MOU 체결 외",
     "summary": "삼표피앤씨가 에스비건설과 기술·생산 협력 MOU를 체결하고, 현대산업개발이 광주 센테니얼 아이파크 입주를 앞두고 산학연 연합자문단과 최종 품질 점검을 실시했다. 건설사들의 협력 강화와 품질관리 강화 추진 사례를 보도한 기사이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-30T10:34:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[TOP's Pick] [건설] GS건설, 3분기 실적 감소했지만 수주 선방 外 - topdaily.kr",
-    "link": "https://www.topdaily.kr/articles/112596",
-    "description": "한 줄 코멘트 => 불안정한 업황에도 미래 성장 기반 탄탄 ◆  IPARK현대산업개발, 광주센테니얼아이파크 품질점검 실시 IPARK현대산업개발이 광주 센테니얼 아이파크 현장에서 산학연 연합자문 품질 점검 실시. 올해...",
-    "published_at": "2026-10-30T10:21:00+09:00",
-    "cluster_id": "b81b",
-    "publisher": "topdaily.kr",
-    "title_clean": "[TOP's Pick] [건설] GS건설, 3분기 실적 감소했지만 수주 선방 外",
-    "summary": "GS건설이 3분기 실적은 감소했으나 수주 실적은 선방하며 미래 성장 기반을 유지하고 있다. IPARK현대산업개발은 광주 센테니얼 아이파크에서 산학연 연합 품질점검을 실시하는 등 건설사들이 불안정한 업황 속에서도 품질 관리와 수주 확보에 집중하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-30T10:34:22+09:00",
     "importance": 2
