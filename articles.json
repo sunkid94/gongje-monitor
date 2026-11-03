@@ -20250,6 +20250,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "강득구 의원 , 공사대금 상습체불 건설업자의 공공공사 참여 제한 법안... - jasm.co.kr",
+    "link": "https://www.jasm.co.kr/news/view/323967/?sc=Naver",
+    "description": "강득구 의원(경기 안양만안,더불어민주당)은 상습적으로 공사대금을 체불한 건설사업자의 공공건설공사 하도급 참여를 제한하는 내용의 '건설산업기본법 일부개정법률안' 을 대표발의했다고 3일 밝혔다 . 현행...",
+    "published_at": "2026-11-03T14:42:00+09:00",
+    "cluster_id": "5139",
+    "publisher": "jasm.co.kr",
+    "title_clean": "강득구 의원 , 공사대금 상습체불 건설업자의 공공공사 참여 제한 법안...",
+    "summary": "강득구 의원이 상습적인 공사대금 체불 건설사업자의 공공공사 참여를 제한하는 건설산업기본법 개정안을 발의했다. 이는 건설업계의 불공정한 관행을 규제하려는 법안이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T14:50:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32232,21 +32248,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-29T11:18:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 질주에도 골목경제 뒷걸음질...경기도 경제, 수출 호황 속 내수... - kmaeil.com",
-    "link": "https://www.kmaeil.com/news/articleView.html?idxno=656216",
-    "description": "3분기 경기도 건설업 생산은 평택·용인 일대 반도체 관련 대형 산업시설 공사가 진척되면서 소폭 증가했다. 그러나 기존 공사 진행 상황과 향후 건설경기를 가늠할 수 있는 신규 수주 및 착공 실적은 부진했다.",
-    "published_at": "2026-10-29T10:56:00+09:00",
-    "cluster_id": "3a90",
-    "publisher": "kmaeil.com",
-    "title_clean": "반도체 질주에도 골목경제 뒷걸음질...경기도 경제, 수출 호황 속 내수...",
-    "summary": "경기도 3분기 건설업 생산은 평택·용인 반도체 시설 공사로 소폭 증가했으나, 신규 수주와 착공 실적은 부진하면서 향후 건설경기 둔화 우려가 제기되고 있다. 수출 호황에도 불구하고 내수 기반의 골목경제와 건설업계는 동반 침체 위험에 처해있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T11:18:34+09:00",
-    "importance": 4
   }
 ]
