@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티 주가 6%대 하락…52주 최저가 기록 : 한국증시 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DMDJsVHRzVzJ3ZTBYckdXczVfQTY1enNMTThVM1pQeUVpZ2ZYc1RqN3ZVMFBrbV9EV0pkZ3Iyc0pjTTZVd25ydF92OA?oc=5",
+    "description": "두산에너빌리티 주가가 체코 원전 시공계약 협상 종료와 미국 소형모듈원전 사업 지연 등 해외 사업 악재 영향으로 3일 6.28% 하락한 5만2200원에 마감하며 52주 최저가를 기록했다. 원자력 부문 수주 부진으로 연간 수주 전망치도 1조2000억원으로 하향 조정됐다.",
+    "published_at": "2026-11-03T13:35:48+00:00",
+    "cluster_id": "bd29",
+    "publisher": "재경일보",
+    "title_clean": "두산에너빌리티 주가 6%대 하락…52주 최저가 기록 : 한국증시",
+    "summary": "두산에너빌리티의 주가가 체코 원전 시공계약 협상 종료와 미국 소형모듈원전 사업 지연으로 6.28% 하락하며 52주 최저가를 기록했다. 원자력 부문 수주 부진에 따라 연간 수주 전망치가 1조2000억원으로 하향 조정되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-03T22:45:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20300,22 +20316,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-30T10:44:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 '팀코리아' 결국 균열…한수원, 새 시공사 찾는다 - insightkorea.co.kr",
-    "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257675",
-    "description": "공사비와 계약조건을 둘러싸고 대우건설·두산에너빌리티 컨소시엄과 장기간 협상했지만 합의에 이르지 못한 것이다. 대우건설은 협상 종료에 반발한 반면, 두산에너빌리티는 재입찰 참여 의사를 밝히면서 양사의...",
-    "published_at": "2026-10-30T10:22:00+09:00",
-    "cluster_id": "a3da",
-    "publisher": "insightkorea.co.kr",
-    "title_clean": "체코 원전 '팀코리아' 결국 균열…한수원, 새 시공사 찾는다",
-    "summary": "체코 원전 사업 'Team Korea'에서 대우건설·두산에너빌리티 컨소시엄이 공사비와 계약조건을 두고 협상에 실패했다. 한수원이 새로운 시공사를 찾게 되면서 기존 계약이 무효화될 위기에 처했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-30T10:34:22+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
