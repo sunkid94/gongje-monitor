@@ -4233,6 +4233,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[아유경제_재건축] 방배7구역 재건축, 시공자 현설 방문 '4개 사' - areyou.co.kr",
+    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=96109",
+    "description": "그 결과 롯데건설 포스코이앤씨 두산건설 극동건설 등 4개 사가 참여했다. 현설에서 좋은 결과를 얻은 조합은 예정대로 올해 12월 17일 오후 2시 조합 임시사무실 및 전자조달시스템에서 입찰을 마감한다는...",
+    "published_at": "2026-11-03T11:28:00+09:00",
+    "cluster_id": "ffb3",
+    "publisher": "areyou.co.kr",
+    "title_clean": "[아유경제_재건축] 방배7구역 재건축, 시공자 현설 방문 '4개 사'",
+    "summary": "방배7구역 재건축 프로젝트에서 롯데건설, 포스코이앤씨, 두산건설, 극동건설 등 4개 건설사가 현설에 참여했다. 조합은 12월 17일 입찰을 진행할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-03T11:36:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20217,20 +20233,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "체코 원전 시공 갈등, 공사비 넘어 '설계 책임' 공방…대우건설 \"위험 떠... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2641989",
-    "description": "한국수력원자력은 계약금액과 업무 범위 등을 합리적으로 조정했다는 입장이지만 대우건설·두산에너빌리티 시공 컨소시엄은 설계에 관여하지 않는 시공사에 과도한 책임을 떠넘기려 했다고 맞서고 있다. 29일 한수원의...",
-    "published_at": "2026-10-30T00:04:00+09:00",
-    "cluster_id": "3edb",
-    "publisher": "etoday.co.kr",
-    "title_clean": "체코 원전 시공 갈등, 공사비 넘어 '설계 책임' 공방…대우건설 \"위험 떠...",
-    "summary": "체코 원전 시공 프로젝트에서 한국수력원자력과 대우건설·두산에너빌리티 컨소시엄 간 공사비 조정을 놓고 설계 책임 귀속 문제로 갈등이 심화되고 있다. 시공사는 설계에 관여하지 않는데 과도한 책임을 떠넘기려 한다고 주장하며 대립 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-30T00:15:49+09:00",
-    "importance": 4
+    "title": "신안산선 여파 털었나…포스코이앤씨, 토목 합친 플랜트도 흑자 - news.bizwatch.co.kr",
+    "link": "https://news.bizwatch.co.kr/article/real_estate/2026/11/03/0007",
+    "description": "포스코이앤씨는 건설산업기본법 위반 혐의에 대한 처분사유가 부당하다는 취지의 의견서를 지난 7월 국토교통부에 제출했다. 국토부는 2차 심의까지 마쳤으며, 조만간 청문을 거쳐 영업정지 여부를 결정할...",
+    "published_at": "2026-11-03T11:28:00+09:00",
+    "cluster_id": "c6de",
+    "publisher": "news.bizwatch.co.kr",
+    "title_clean": "신안산선 여파 털었나…포스코이앤씨, 토목 합친 플랜트도 흑자",
+    "summary": "포스코이앤씨가 신안산선 건설산업기본법 위반 혐의에 대해 국토교통부에 의견서를 제출했으며, 국토부가 2차 심의를 완료하고 조만간 청문을 통해 영업정지 여부를 결정할 예정이다. 동사는 토목과 플랜트 사업을 합친 결과 흑자를 달성했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-03T11:36:07+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
@@ -32231,21 +32247,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-28T17:06:41+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[특징주] \"주택 착공에 재정 지원\"…현대건설, 정부 정책 훈풍 타고 반등... - moneystorm.kr",
-    "link": "https://www.moneystorm.kr/news/articleView.html?idxno=7773",
-    "description": "이번 상승세는 전날 이재명 대통령이 국무회의에서 \"주택 부문은 주택 공급 자체뿐 아니라 부진한 건설경기를 활성화하는 측면이 있다\"며 \"필요하다면 국가적인 신용 지원뿐만 아니라 재정 지원도 고려하라\"고 주문한 데...",
-    "published_at": "2026-10-28T16:53:00+09:00",
-    "cluster_id": "2d28",
-    "publisher": "moneystorm.kr",
-    "title_clean": "[특징주] \"주택 착공에 재정 지원\"…현대건설, 정부 정책 훈풍 타고 반등...",
-    "summary": "정부가 주택 착공 활성화를 위해 재정 지원을 검토하겠다고 발표하면서 현대건설 등 건설업체의 주가가 반등했다. 부진한 건설경기 회복을 위한 정부의 적극적 지원이 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-28T17:06:41+09:00",
-    "importance": 2
   }
 ]
