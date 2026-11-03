@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[기자수첩] 기울어진 '원전 팀코리아' - mt.co.kr",
+    "link": "https://www.mt.co.kr/opinion/2026/11/04/2026110308565545600",
+    "description": "지난달 한수원은 대우건설·두산에너빌리티 컨소시엄과 진행한 체코 두코바니 원전 시공계약 협상 종료를 통보했다. 협상 종료 책임은 시공 컨소시엄에 돌렸다. 유독 시공업체만 총액확정방식의 계약을 수용하지 않았다는...",
+    "published_at": "2026-11-04T05:00:00+09:00",
+    "cluster_id": "5bae",
+    "publisher": "mt.co.kr",
+    "title_clean": "[기자수첩] 기울어진 '원전 팀코리아'",
+    "summary": "한수원이 대우건설·두산에너빌리티 컨소시엄과 진행한 체코 두코바니 원전 시공계약 협상을 종료했다. 시공업체가 총액확정방식 계약 수용을 거부하면서 협상이 무산된 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-04T05:04:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20300,22 +20316,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-30T10:44:00+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "하동군↔한국남부발전(주)↔두산에너빌리티(주) 하동복합 건설사업 지역상생 업무협약 체결 - 경기종합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Rc2NrbzFfbUxVU04xYXhzZFdodWwtS0I2YmFLV2JNTDNSVUlLXzRzdmt2N1JQdkZOY21QS3lOYm9IWDV2Z0Y1WTVwMWc2MEI2Y2RxSEttc0cySjhILUhUSVNYWk5IalIyZjFuZ2hrNTJwb3po?oc=5",
-    "description": "하동군은 29일 군청 소회의실에서 한국남부발전㈜, 두산에너빌리티㈜와 하동복합발전소 건설에 따른 지역 경제 활성화와 상생협력을 위한 ‘하동복합 건설사업 지역 상생 업무협약’을 체결했다. 이날 협약식에는 김현수 하동군수, 김준동 한국남부발전 사장, 이현호 두산에너빌리티 부사장이 참석했다. 세 기관은 하동복합 건설사업의 성공적인 추진과 지역사회와의 동반 성장을 위해 협력하기로 뜻을 모았다. 하동복합발전소는 하동화력 2·3호기를 대체하기 위해 건설되는 발전소로, 2027년 1월 착공해 2029년 12월 준공할 예정이다. 이번 협약은 발전소",
-    "published_at": "2026-10-30T09:40:34+09:00",
-    "cluster_id": "c943",
-    "publisher": "경기종합뉴스",
-    "title_clean": "하동군↔한국남부발전(주)↔두산에너빌리티(주) 하동복합 건설사업 지역상생 업무협약 체결",
-    "summary": "하동군과 한국남부발전, 두산에너빌리티가 하동복합발전소 건설사업의 지역상생을 위한 업무협약을 체결했다. 하동화력 2·3호기 대체 발전소로 2027년 착공, 2029년 준공 예정이며, 건설사업 추진과 지역경제 활성화를 위해 협력하기로 했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:44:00+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 신기술",
