@@ -20250,6 +20250,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "허태정 대전시장 \"공공기관 유치에 시청사도 내줄 각오\"… 총력 대응 주... - shinailbo.co.kr",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079063",
+    "description": "침체된 지역 건설경기 회복을 위해 공공투자를 확대하고 지역 건설업체의 사업 참여 기회를 높이는 방안도 함께 지시했다. 허 시장은 3일 열린 확대간부회의에서 공공기관 유치와 첨단산업 육성, 지역경제 활성화를 핵심...",
+    "published_at": "2026-11-03T12:26:00+09:00",
+    "cluster_id": "c3ca",
+    "publisher": "shinailbo.co.kr",
+    "title_clean": "허태정 대전시장 \"공공기관 유치에 시청사도 내줄 각오\"… 총력 대응 주...",
+    "summary": "허태정 대전시장이 공공기관 유치와 첨단산업 육성을 통한 지역경제 활성화를 추진하면서 공공투자 확대와 지역 건설업체의 사업 참여 기회를 높이는 방안을 지시했다. 침체된 지역 건설경기 회복을 위해 적극적인 정책 지원을 펼칠 방침을 드러냈다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-03T12:31:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32232,21 +32248,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-28T18:41:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "홍지선 국토부 장관 \"공공택지 착공 68→37개월 단축…관련 법안 처리 시... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2641324",
-    "description": "이와 함께 건설현장 사고 예방을 위한 건설안전특별법과 공제조합 운영의 투명성을 높이기 위한 건설산업기본법, 국민의 이동권을 명문화하는 교통기본법 등을 연내 처리해야 할 주요 법안으로 제시했다. 홍 장관은 \"건설...",
-    "published_at": "2026-10-28T17:54:00+09:00",
-    "cluster_id": "eacc",
-    "publisher": "etoday.co.kr",
-    "title_clean": "홍지선 국토부 장관 \"공공택지 착공 68→37개월 단축…관련 법안 처리 시...",
-    "summary": "홍지선 국토부 장관이 공공택지 착공 기간을 68개월에서 37개월로 단축하는 정책을 추진 중입니다. 건설안전특별법, 건설산업기본법, 교통기본법 등 주요 법안을 연내 처리할 예정입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-28T18:06:53+09:00",
-    "importance": 2
   }
 ]
