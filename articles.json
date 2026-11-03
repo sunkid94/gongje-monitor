@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "군서미래국제학교, 통학버스 승하차구역 새로 조성 - 시흥저널",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Tbm5vUC1oXy1IbWM0ZnhKc0Vnb2Z5RExudjVBYllMYVBtUjcwOTdIZGhuZFVER0xqNFZyMDQ0U0U4LU94cUhTMWplY2hVYk9yVVVoeDVRUVhWUzY3RFBqRUJWZUFISms?oc=5",
+    "description": "시흥 군서미래국제학교가 2028년 체육관·급식실 증축공사에 대비해 학교 앞 도로에 통학버스 승하차구역과 보행 안전시설을 조성했다.군서미래국제학교는 최근 포스코이앤씨와 초록우산 어린이재단, 시흥시 관계자 등이 참석한 가운데 어린이 승하차구역 및 안전시설물 설치 준공식을 열었다.학교는 현",
+    "published_at": "2026-11-03T17:24:45+09:00",
+    "cluster_id": "00d4",
+    "publisher": "시흥저널",
+    "title_clean": "군서미래국제학교, 통학버스 승하차구역 새로 조성",
+    "summary": "시흥 군서미래국제학교가 2028년 체육관·급식실 증축공사에 대비해 학교 앞 도로에 통학버스 승하차구역과 보행 안전시설을 새로 조성했다. 포스코이앤씨 등이 참여한 안전시설 설치 준공식을 개최했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-03T17:50:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20300,22 +20316,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-30T10:34:22+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산퓨얼셀, ‘독일향 매출’ 내년에 집중적 인식 - 금융소비자뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVGFtd2lxeG5pVWh6a3FmSzlFQkhlWEJJQ01CY1BTS3JlM0Q5VGhLa3pnMjZ0UGp3UU9wQ0tJZENjbFc2bDN4dzJ4VktVQ2hqanczQnp6Q3d5ZmpVamdfR3VIa3lRdHNkeUE?oc=5",
-    "description": "[금융소비자뉴스 정진교 기자] 두산퓨얼셀의 3분기 매출액은 전년대비 59.9% 증가한 1,452억원을 기록하고 영업이익은 170억원 적자를 지속했으나 컨센서스를 상회했다. 이 회사는 수소 경제의 핵심인 연료전지 발전 시스템의 제조 및 공급 사업을 하는 기업이다. 주로 발전용 인산형 연료전지(PAFC)를 주력으로 생산하고 있다.30일 하나증권에 따르면 이 회사의 이같은 실적은 주기기 매출이 회복되며 고정비 부담이 완화된 가운데 CSA(셀 스택 어셈블리) 교체 관련 비용이 줄어들었기 때문이다. 3분기 누적 신규 수주 규모는 66MW이며",
-    "published_at": "2026-10-30T10:21:00+09:00",
-    "cluster_id": "ad83",
-    "publisher": "금융소비자뉴스",
-    "title_clean": "두산퓨얼셀, ‘독일향 매출’ 내년에 집중적 인식",
-    "summary": "두산퓨얼셀이 3분기 매출 1,452억원(전년대비 59.9% 증가)을 기록했으나 영업손실을 지속하고 있다. 주기기 매출 회복과 CSA 교체 비용 감소로 실적이 개선되었으며, 3분기 신규 수주는 66MW를 달성했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:34:22+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
