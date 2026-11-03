@@ -4250,6 +4250,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코, 철강 덕에 실적 반등 - naeil.com",
+    "link": "https://www.naeil.com/news/read/607373?ref=naver",
+    "description": "포스코이앤씨도 수주 증가로 480억원의 영업이익을 거뒀다. 반면 이차전지소재 부문은 포스코퓨처엠의 실적 회복에도 리튬 가격 하락 등이 겹쳐 17억원의 영업손실을 냈다. 한편 포스코홀딩스는 7월 발표한...",
+    "published_at": "2026-11-03T13:02:00+09:00",
+    "cluster_id": "44b9",
+    "publisher": "naeil.com",
+    "title_clean": "포스코, 철강 덕에 실적 반등",
+    "summary": "포스코이앤씨는 수주 증가로 480억원의 영업이익을 기록하며 실적이 반등했다. 다만 이차전지소재 부문은 리튬 가격 하락으로 17억원의 영업손실을 기록하는 등 부문별 실적 편차가 발생했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-03T13:11:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20234,19 +20250,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "시작부터 시공비ㆍ계약방식 갈등… 주계약 체결 뒤에도 간극 못좁혀 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610291300155900744",
-    "description": "한국수력원자력과 대우건설ㆍ두산에너빌리티 컨소시엄은 원전 2기 시공 금액과 조건에 합의하지 못한 채 입찰에 나섰고, 주계약 체결 뒤에도 그 간극을 메우지 못했다. 양측은 지난 2022년 최초 입찰 때 두코바니 5호기...",
-    "published_at": "2026-10-30T06:20:00+09:00",
-    "cluster_id": "8eac",
+    "title": "건협, 중소건설업육성위원회 제5차 회의 개최 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031258137880396",
+    "description": "이후 이지혜 한국건설산업연구원 연구위원이 ‘최근 건설경기 동향 및 향후 전망’을 주제로 발표를 진행했다. 이상민 중소위원장(신정건설 대표)은 “공사비 상승, 건설투자 감소 등으로 중소업계가 매우 어려운...",
+    "published_at": "2026-11-03T13:00:00+09:00",
+    "cluster_id": "2c26",
     "publisher": "대한경제",
-    "title_clean": "시작부터 시공비ㆍ계약방식 갈등… 주계약 체결 뒤에도 간극 못좁혀",
-    "summary": "한국수력원자력과 대우건설·두산에너빌리티 컨소시엄이 원전 2기 시공 금액과 조건을 놓고 입찰 당시부터 합의하지 못한 채 주계약 체결 후에도 분쟁을 해결하지 못하고 있다. 초기 입찰부터 현재까지 시공비와 계약방식을 둘러싼 갈등이 계속되고 있는 상황이다.",
+    "title_clean": "건협, 중소건설업육성위원회 제5차 회의 개최",
+    "summary": "건협이 중소건설업육성위원회 제5차 회의를 개최하고 건설경기 동향을 분석했다. 공사비 상승과 건설투자 감소로 중소건설업계가 어려운 상황에 직면해 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-10-30T06:32:56+09:00",
+    "collected_at": "2026-11-03T13:11:03+09:00",
     "importance": 4
   },
   {
@@ -32232,21 +32248,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-29T00:16:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "물가 더 뛰는데 금리 동결?…워시 연준 '속도 조절' 시험대 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=01098806645617840&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "지난 27일(현지시간) 미국 워싱턴DC에 위치한 연방준비제도(Fed·연준) 본부 건물에서 건설 노동자들이 보수 공사를 진행하고 있다. (사진=로이터) 연준 내부의 이견도 관전 포인트다. 베스 해맥 클리블랜드 연방준비은행...",
-    "published_at": "2026-10-29T00:06:00+09:00",
-    "cluster_id": "ad06",
-    "publisher": "edaily.co.kr",
-    "title_clean": "물가 더 뛰는데 금리 동결?…워시 연준 '속도 조절' 시험대",
-    "summary": "미국 연준이 물가 상승 속에서도 금리 인상을 보류하며 '속도 조절'에 나서고 있다. 연준 내부의 의견 차이가 향후 금리 정책 방향을 결정할 주요 변수로 작용할 전망이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-29T00:16:54+09:00",
-    "importance": 2
   }
 ]
