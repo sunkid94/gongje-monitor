@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "폭염에 냉방 꺼 ‘갑질 논란’ 기업, 불법 하도급 의혹 추가 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261105.22006001361",
+    "description": "4일 취재를 종합하면 국토교통부 산하 서울국토관리청은 A 사의 건설산업기본법 위반 정황을 확인해 관계기관에 행정 처분 요청과 수사 의뢰를 진행했다. 행정처분 요청은 부산 동구에, 수사 의뢰는 인천 연수경찰서에...",
+    "published_at": "2026-11-04T19:25:00+09:00",
+    "cluster_id": "da93",
+    "publisher": "kookje.co.kr",
+    "title_clean": "폭염에 냉방 꺼 ‘갑질 논란’ 기업, 불법 하도급 의혹 추가",
+    "summary": "폭염 중 냉방 운영 중단으로 '갑질' 논란을 빚은 A 기업이 건설산업기본법 위반 혐의로 추가 적발되었다. 국토교통부 산하 서울국토관리청이 행정처분 요청과 수사 의뢰를 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-04T19:29:49+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32235,22 +32251,6 @@
     "summary": "대한전문건설협회가 베트남 방문을 통해 건설인력 양성·송출·국내 취업으로 이어지는 협력체계를 구축하고 있다. 하노이건설대학교 및 베트남 내무부와 협력하여 건설 기능·기술인력 확보를 확대하고, 전문건설업체의 현지 진출을 지원하는 투트랙 전략을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-10-30T10:14:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "9월 산업생산 3.0%↑···생산·소비·투자 모두 증가 - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=157971",
-    "description": "건설경기 지표도 개선됐다. 시공 실적을 나타내는 건설기성은 전월보다 5.8% 증가했다. 건축과 토목 공사 실적이 각각 5.1%, 7.4% 늘었다. 현재 경기 상황을 보여주는 동행종합지수 순환변동치는 102.2로 전월보다 0....",
-    "published_at": "2026-10-30T09:56:00+09:00",
-    "cluster_id": "5d74",
-    "publisher": "smartbizn.com",
-    "title_clean": "9월 산업생산 3.0%↑···생산·소비·투자 모두 증가",
-    "summary": "9월 산업생산이 전월 대비 3.0% 증가하며 생산·소비·투자가 모두 증가했다. 건설기성이 5.8% 상승하고 건축과 토목 공사 실적이 각각 5.1%, 7.4% 증가하며 건설경기 지표도 개선되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:02:59+09:00",
     "importance": 2
   }
 ]
