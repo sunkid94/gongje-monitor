@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대참패 다음날 ‘연회장 자랑’한 트럼프, “탄핵 추진하면 민주당 파멸... - hani.co.kr",
+    "link": "https://www.hani.co.kr/arti/international/america/1285859.html",
+    "description": "모든 것이 기적”이라며 건설 노동자들을 치하했다. 이어 연회장 천장이 50피트(약 15m) 이상이고, 코린트 양식의 웅장한 기둥과 특별한 대리석 바닥이 설치될 것이라고 장황하게 설명했다. 그는 지하로 5개 층이 들어서고...",
+    "published_at": "2026-11-05T06:56:00+09:00",
+    "cluster_id": "a60b",
+    "publisher": "hani.co.kr",
+    "title_clean": "대참패 다음날 ‘연회장 자랑’한 트럼프, “탄핵 추진하면 민주당 파멸...",
+    "summary": "트럼프 전 대통령이 대선 패배 다음날 연회장 건설 프로젝트를 자랑하며 50피트 이상의 천장, 코린트 양식 기둥, 특별 대리석 바닥 등 고급 시설을 강조했다. 건설 노동자들을 치하하고 지하 5층 규모의 건설 계획을 언급했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T06:59:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32236,21 +32252,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-30T11:02:25+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "9월 생산·소비·투자 동반 상승… 산업생산 15년 만에 최대 증가 - jeonmae.co.kr",
-    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1306854",
-    "description": "건설경기 지표에서도 개선 흐름이 확인됐다. 국내 건설업체의 실제 공사 실적을 나타내는 건설기성은 불변 기준으로 전월보다 5.8% 증가했다. 공사 종류별로는 건축 부문 실적이 5.1% 늘었으며, 토목 부문은 7.4...",
-    "published_at": "2026-10-30T10:52:00+09:00",
-    "cluster_id": "fafa",
-    "publisher": "jeonmae.co.kr",
-    "title_clean": "9월 생산·소비·투자 동반 상승… 산업생산 15년 만에 최대 증가",
-    "summary": "9월 산업생산이 15년 만에 최대 증가율을 기록하면서 생산·소비·투자가 동반 상승했다. 건설기성도 전월 대비 5.8% 증가하여 건축 5.1%, 토목 7.4% 성장하는 등 건설경기 전반이 개선되는 추세를 보였다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T11:02:25+09:00",
-    "importance": 2
   }
 ]
