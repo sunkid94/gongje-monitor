@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 나이지리아 인도라마 비료 플랜트 4호기 수주…3500억 규모 - mt.co.kr",
+    "link": "https://www.mt.co.kr/estate/2026/11/04/2026110415565989486",
+    "description": "대우건설이 나이지리아 인도라마 비료 플랜트 1~3호기에 이어 4호기 공사도 수주에 성공했다. 대우건설은 나이지리아 인도라마의 자회사인 IF FZE(Indorama Fertilizer Free Zone Enterprise)로부터 '인도라마 비료 플랜트...",
+    "published_at": "2026-11-04T16:43:00+09:00",
+    "cluster_id": "8d5f",
+    "publisher": "mt.co.kr",
+    "title_clean": "대우건설, 나이지리아 인도라마 비료 플랜트 4호기 수주…3500억 규모",
+    "summary": "대우건설이 나이지리아 인도라마 비료 플랜트 4호기 공사를 3,500억 규모로 수주했다. 1~3호기에 이어 4호기까지 연속 수주하며 해외 대형 프로젝트 수주 실적을 지속적으로 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T16:49:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20302,20 +20318,20 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "중대재해 건설",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "IPARK현산 '광주 센테니얼 아이파크', 준공 앞 마지막 점검…\"안전·품질... - financialpost.co.kr",
-    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=283709",
-    "description": "IPARK현대산업개발이 연말 준공을 앞둔 광주 센테니얼 아이파크 현장에서 산·학·연 연합자문단과 함께 마지막 품질 점검을 실시하며 안전과 품질 확보에 총력을 기울이고 있다고 30일 밝혔다. 회사는 29일 광주 센테니얼...",
-    "published_at": "2026-10-30T17:56:00+09:00",
-    "cluster_id": "24cf",
-    "publisher": "financialpost.co.kr",
-    "title_clean": "IPARK현산 '광주 센테니얼 아이파크', 준공 앞 마지막 점검…\"안전·품질...",
-    "summary": "IPARK현대산업개발이 광주 센테니얼 아이파크의 연말 준공을 앞두고 산·학·연 연합자문단과 함께 마지막 품질 점검을 실시 중이다. 안전과 품질 확보에 총력을 기울이고 있다는 보도다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T18:00:33+09:00",
-    "importance": 2
+    "title": "서울 성동구 건설현장서 60대 노동자 추락사…중대재해법 조사 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zUkhPd2hOZ0lCOFZNLWpiQ1lCYVpPWlZDTDQyb1RjVV9uRjJvV0UybXcwaWpETUlCUWc0cnBBdVFLLUN1LWw3cFFxWkU3UEpOaFlPUjZjaEt1YU52SDFlV9IBeEFVX3lxTE0xOWJjM3R4WnZCcEltWjZMUHRtMmNjbzRWZGZSVk0ySml3Z0VMSUNpSGNXdzZuU25MUk5naXNyZlJmWXRVdURVMnBJNjFIQXZnbWJKRzlRQ29TTkxTVFFXbnhuX0JsX1hDT2VUM1ZnbVRjS0NnOHFZdA?oc=5",
+    "description": "[서울=뉴시스] 고홍주 기자 = 서울 성동구의 한 아파트 건설현장에서 60대 노동자가 사망해 노동 당국이 중대재해처벌법 위반 여부에 대한 조사에 나섰다.4일 고용노동부에 따르면 이날 오전 10시31분께 태영건설이 시공 중인 서울 성동구의 아파트 건설현장에서 수급업체 소속 A(61)씨가 숨졌다.A씨는 사다리에 올라가 실내 마감작업을 하던 중 약 1.1m 높이..",
+    "published_at": "2026-11-04T16:40:56+09:00",
+    "cluster_id": "1f62",
+    "publisher": "뉴시스",
+    "title_clean": "서울 성동구 건설현장서 60대 노동자 추락사…중대재해법 조사",
+    "summary": "서울 성동구 태영건설 아파트 건설현장에서 60대 노동자가 사다리에서 추락하여 사망했다. 고용노동부가 중대재해처벌법 위반 여부를 조사 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-04T16:49:48+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32236,21 +32252,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-30T09:12:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[단독] 美 도금강판 관세 70%대 위협…동국씨엠·KG스틸, 법적 대응 저울... - snmnews.com",
-    "link": "http://www.snmnews.com/news/articleView.html?idxno=576641",
-    "description": "국내 도금강판 업계는 건설경기 침체와 내수 소비 부진, 저가 수입재와의 경쟁 등으로 수익성 확보에 어려움을 겪고 있다. 이러한 상황에서 미국 시장의 관세 부담까지 확대되면 수출을 통한 실적 개선도 쉽지 않을 수...",
-    "published_at": "2026-10-30T08:48:00+09:00",
-    "cluster_id": "d6db",
-    "publisher": "snmnews.com",
-    "title_clean": "[단독] 美 도금강판 관세 70%대 위협…동국씨엠·KG스틸, 법적 대응 저울...",
-    "summary": "국내 도금강판 업체들이 미국의 70%대 관세 위협에 직면하고 있다. 건설경기 침체, 내수 부진, 저가 수입재 경쟁에 이어 수출 관세까지 확대되면서 수익성 악화가 우려된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-30T09:02:41+09:00",
-    "importance": 4
   }
 ]
