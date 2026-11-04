@@ -4318,23 +4318,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "구미시, 대기업 투자와 지역업체 수주 잇는다…삼성물산 첫 매칭데이 - kyongbuk.co.kr",
-    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086289",
-    "description": "참여를 희망하는 업체는 2일부터 8일까지 대한전문건설협회 경북도회 구미시운영위원회, 대한기계설비건설협회 경북도회 구미사무소, 한국전기공사협회 경북도회 구미시협의회를 통해 신청하면 된다. 각 협회는...",
-    "published_at": "2026-10-05T18:08:00+09:00",
-    "cluster_id": "8780",
-    "publisher": "kyongbuk.co.kr",
-    "title_clean": "구미시, 대기업 투자와 지역업체 수주 잇는다…삼성물산 첫 매칭데이",
-    "summary": "구미시가 삼성물산과의 첫 매칭데이를 개최하여 대기업 투자 사업과 지역 건설업체의 수주를 연결한다. 대한전문건설협회, 대한기계설비건설협회, 한국전기공사협회 등을 통해 참여 업체를 모집 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-05T18:29:31+09:00",
-    "event_label": "대한기계설비건설협회 구미시 매칭데이 개최",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20332,6 +20315,22 @@
     "summary": "IPARK현대산업개발이 목동 11단지 재건축 수주를 위해 오감 체험관 '목동 아이파크 라운지'를 개관하며 경쟁사와의 차별화 전략을 추진 중입니다. 목동신시가지 14개 단지 중 수주 경쟁에서 우위를 점하려는 공격적 마케팅입니다.",
     "sentiment": "positive",
     "collected_at": "2026-10-31T06:08:56+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국토안전관리원·국립공주대, 국토안전 인재양성 협력…취업 연계 프로그램 운영 - NSP통신",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4WVVOb0UyNkU3UXFRdzByUXZURFd4aUc3dE9QSE8zZHpJS3Jsb2NvcVpSTHdHd1JXOGs1ZDRSNFgxWXVkY1l0QU8zWTZqQzM4NHRvVnhkN1pJTFlORDVISg?oc=5",
+    "description": "국토안전관리원과 국립공주대학교가 지역 청년의 취업 지원을 위해 전공교육과 공공기관 직무교육, 현장실습을 연계한 인재양성 프로그램을 운영한다. 학생들은 건설현장 안전관리와 시설물 안전점검 등 국토안전 분야 업무를 직접 경험하며 진로와 취업 준비에 활용할 수 있다.",
+    "published_at": "2026-11-04T18:17:38+09:00",
+    "cluster_id": "236e",
+    "publisher": "NSP통신",
+    "title_clean": "국토안전관리원·국립공주대, 국토안전 인재양성 협력…취업 연계 프로그램 운영",
+    "summary": "국토안전관리원과 국립공주대학교가 협력하여 건설현장 안전관리 및 시설물 안전점검 등 국토안전 분야 인재양성 프로그램을 운영한다. 전공교육과 공공기관 직무교육, 현장실습을 연계하여 지역 청년의 취업을 지원하는 사업이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-04T18:34:42+09:00",
     "importance": 2
   },
   {
