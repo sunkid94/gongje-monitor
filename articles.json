@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코, 한수원·대우건설에 시공 협상 결렬 해명 요구…前 산업장관 방한... - kpinews.kr",
+    "link": "https://www.kpinews.kr/newsView/1065565060969927",
+    "description": "체코 산업계가 한국수력원자력(KHNP)과 대우건설·두산에너빌리티 컨소시엄의 두코바니 원전 시공계약 협상 결렬을 두고 구체적인 경위와 후속 대책에 대한 설명을 요구했다. 현지에서는 자국 기업들이 원전 사업 참여를...",
+    "published_at": "2026-11-05T07:39:00+09:00",
+    "cluster_id": "df42",
+    "publisher": "kpinews.kr",
+    "title_clean": "체코, 한수원·대우건설에 시공 협상 결렬 해명 요구…前 산업장관 방한...",
+    "summary": "체코가 한수원과 대우건설·두산에너빌리티 컨소시엄의 두코바니 원전 시공계약 협상 결렬에 대한 구체적 경위와 후속 대책 설명을 요구했다. 체코 산업계에서 자국 기업의 원전 사업 참여 배제에 대한 불만을 제기하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-05T07:49:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20300,22 +20316,6 @@
     "sentiment": "negative",
     "collected_at": "2026-10-31T11:43:14+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "SMR·대형 원전·가스복합까지…두산에너빌리티 신규 수주 확대 노린다 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500208",
-    "description": "두산에너빌리티가 원전과 소형모듈원전(SMR), 가스복합발전 등 에너지 설비 시장의 수주 확대를 바탕으로 실적 개선을 이어가고 있다. 하나증권은 최근 보고서에서 3분기 실적이 시장 기대치에 부합한 가운데 에너빌리티...",
-    "published_at": "2026-10-31T11:02:00+09:00",
-    "cluster_id": "34e8",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "SMR·대형 원전·가스복합까지…두산에너빌리티 신규 수주 확대 노린다",
-    "summary": "두산에너빌리티가 원전, SMR, 가스복합발전 등 에너지 설비 시장에서 신규 수주 확대를 통해 실적 개선을 지속하고 있다. 3분기 실적이 시장 기대치를 충족하며 긍정적 평가를 받고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-31T11:08:24+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
