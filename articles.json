@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[\"모두에 근기법 적용하라\"] 청와대로 간 특고·플랫폼 노동자 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237571",
+    "description": "학습지 노동자와 배달 라이더, 대리운전기사, 보험설계사, 가전제품 점검 노동자, 화물·건설 노동자 등은 한목소리로 \"근로기준법을 전면 적용하라\" \"국제노동기구(ILO) 플랫폼 노동 협약을 비준하라\"고 외쳤다. 참가자들은...",
+    "published_at": "2026-11-05T06:34:00+09:00",
+    "cluster_id": "62be",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "[\"모두에 근기법 적용하라\"] 청와대로 간 특고·플랫폼 노동자",
+    "summary": "특고·플랫폼 노동자들이 근로기준법 전면 적용과 ILO 플랫폼 노동 협약 비준을 요구하며 청와대에서 집단 목소리를 냈다. 화물·건설 노동자를 포함한 다양한 업종의 노동자들이 참여하여 근로 조건 개선을 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-05T06:39:22+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32234,22 +32250,6 @@
     "title_clean": "산업생산 15년6개월만에 최대폭↑…소비·투자까지 '트리플 반등'(종합...",
     "summary": "산업생산이 15년 6개월 만에 최대폭으로 증가하고, 소비와 투자도 동반 상승하는 '트리플 반등'을 기록했다. 재정경제부는 양호한 소비, 기업심리, 수출, 기계·건설수주 등을 바탕으로 추세적 성장이 지속될 것으로 전망했다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-30T11:02:25+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체·車가 끌어올린 생산...소비 회복은 '글쎄' - 00news.co.kr",
-    "link": "http://www.00news.co.kr/news/articleView.html?idxno=107608",
-    "description": "앞으로의 건설 경기를 가늠하는 건설수주는 1년 전보다 49.8% 늘었다. 공장과 창고 등 건축이 41.4% 증가했고 철도와 궤도 등 토목은 84.5% 늘었다. 다만 금액과 물량의 온도 차는 컸다. 9월 건설기성은 실제 공사 금액...",
-    "published_at": "2026-10-30T10:48:00+09:00",
-    "cluster_id": "b5df",
-    "publisher": "00news.co.kr",
-    "title_clean": "반도체·車가 끌어올린 생산...소비 회복은 '글쎄'",
-    "summary": "9월 건설수주가 전년 대비 49.8% 증가하며 건설경기 회복세를 보였다. 반도체·자동차 생산이 견인했으나 실제 공사 금액과 물량 간 괴리가 크고 소비 회복은 부진한 상황이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-30T11:02:25+09:00",
     "importance": 2
   }
