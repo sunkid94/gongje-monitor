@@ -20318,6 +20318,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경기도의회 건설교통위원회, 택시업계 민생예산 지키기 강조 - 웹이코노미",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hMkpSTUV6aXZWOGxvM1BWeUMzZkxZT3VlbXh5ZjNwaDc0VFl3X2VocDd1Uk5wZUxQT2lfUjF4Rm1SbGpXU2xQTHJRamxkNG1Lcm91ejRfVHlnOGFjUlhtMm5tclhRUGlseG54VllMb2hGdw?oc=5",
+    "description": "경기도의회 건설교통위원회는 2027년 본예산 심의를 앞두고 택시업계의 의견을 청취하는 자리를 마련했다.이 자리에서는 법인택시 운수종사자 처우개선비, 택시 카드결제",
+    "published_at": "2026-11-04T21:08:28+09:00",
+    "cluster_id": "4e05",
+    "publisher": "웹이코노미",
+    "title_clean": "경기도의회 건설교통위원회, 택시업계 민생예산 지키기 강조",
+    "summary": "경기도의회 건설교통위원회가 2027년 본예산 심의를 앞두고 택시업계의 민생예산 보호를 위한 의견청취 자리를 마련했다. 법인택시 운수종사자 처우개선비, 택시 카드결제 등 택시업계 지원방안을 논의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T03:24:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32234,22 +32250,6 @@
     "title_clean": "중흥토건·중흥건설, 겨울철 앞두고 주요 건설현장 안전 점검",
     "summary": "중흥그룹의 중흥토건과 중흥건설이 겨울철 건설현장의 안전보건 관리 실태를 점검했다. 양주와 서산의 주요 공사현장을 대상으로 안전 관리 태세를 강화하는 조치로 보인다.",
     "sentiment": "neutral",
-    "collected_at": "2026-10-30T10:44:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "9월 대구·경북 산업활동 '희비 교차'…대구 생산 늘고 경북은 건설 수주 '급증' - BBS불교방송",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wYnZ0alEwOEIxTkg4X0xNdS1VMFpxUUFCc1RmSDRZaENPTFZxeGFBS2pnQzNERldWaXpNYm9uczlaOGVCTm9CMzJZbGxuangxVmIwQ1Q3ZlltQ2lpU1RjVHlJZWEzOWRjQUlF?oc=5",
-    "description": "지난달(9월) 대구와 경북의 산업활동이 생산과 소비, 건설 등 주요 지표에서 뚜렷한 차이를 보인 것으로 나타났습니다.동북지방데이터청이 발표한 '2026년 9월 대구·경북 산업활동동향'에 따르면, 대구의 광공업 생산은 금속가공과 기계장비 등의 호조로 지난해 같은 달보다 3.6% 증가했습",
-    "published_at": "2026-10-30T10:22:14+09:00",
-    "cluster_id": "646f",
-    "publisher": "BBS불교방송",
-    "title_clean": "9월 대구·경북 산업활동 '희비 교차'…대구 생산 늘고 경북은 건설 수주 '급증'",
-    "summary": "9월 대구는 금속가공·기계장비 중심으로 광공업 생산이 전년 동월 대비 3.6% 증가했으며, 경북은 건설 수주가 급증하는 등 지역별로 산업활동 회복이 상이하게 나타났습니다. 기계설비건설공제조합 관점에서 경북의 건설 수주 증가는 건설업 수요 확대를 의미하는 긍정적 신호입니다.",
-    "sentiment": "positive",
     "collected_at": "2026-10-30T10:44:00+09:00",
     "importance": 2
   }
