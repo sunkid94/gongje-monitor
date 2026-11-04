@@ -20318,6 +20318,22 @@
     "importance": 5
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[비즈+]LH, 2030년까지 모듈러주택 1만8000가구 발주…생산체계 전환 추진 - 비즈니스플러스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNVEVmb0Y5cWV3SDU5MDl4RGFxbGthcHMyU0J5ZkY3OGhvUlpHYTNsaklEeFJQZUwtTERia080cXhyR3hMQW1yQy00c2ZabVA4TUUwUkZueEJyZ085S0lEclI1bG9ZM1dNUmlzSlZaYw?oc=5",
+    "description": "한국토지주택공사(LH)가 2030년까지 모듈러주택 1만8000가구 이상을 발주하고 공장 자동화와 대량생산 체계 구축을 유도한다. 안정적인 발주 물량을 바탕으로 민간 제조사의 설비투자를 촉진하고 제작원가를 낮춰 모듈러주택 공급을 확대한다는 구상이다.LH는 이를 위해 3일 서울지역본부에서 이성훈 사장 주재로",
+    "published_at": "2026-11-04T09:53:25+09:00",
+    "cluster_id": "fd52",
+    "publisher": "비즈니스플러스",
+    "title_clean": "[비즈+]LH, 2030년까지 모듈러주택 1만8000가구 발주…생산체계 전환 추진",
+    "summary": "LH가 2030년까지 모듈러주택 1만8000가구 이상을 발주하여 안정적인 물량을 확보한다. 이를 통해 민간 제조사의 설비투자를 촉진하고 공장 자동화 및 대량생산 체계 구축을 유도해 모듈러주택 시장을 확대할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T20:24:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32234,22 +32250,6 @@
     "title_clean": "현대차그룹, 공동주택 주차로봇 시연…실제 주거환경서 운영 검증",
     "summary": "현대차그룹이 경기도 시흥시의 공동주택에서 주차로봇 실증사업을 진행하며 실제 주거환경 기반의 운영 성과를 공개했습니다. 현대자동차, 현대위아, 현대건설 컨소시엄이 추진 중인 이 사업은 스마트도시 구현과 건설 기술 고도화를 목표로 하고 있습니다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-30T10:14:45+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중흥그룹 중흥토건‧중흥건설, 겨울철 현장 안전 ‘만전’ - ER 이코노믹리뷰",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45TlJ1aERGQVVvaGl3bExPaVU2dUZzNUdDOUhQRlBkYVp2amlIVEIxS1MzYUE4bjFQdm5HVGR0amNrUmszX1VDaDFiNWxWVDZDb0t5SnV4NGxJRk9aU3ZFdk9MMzd1blJySnRNdg?oc=5",
-    "description": "중흥그룹 중흥토건과 중흥건설이 겨울철을 앞두고 현장 안전에 만전을 기한다.중흥그룹은 중흥토건 김해근 대표이사와 중흥건설 이경호 대표이사가 직접 공사 현장을 대상으로 안전보건 점검을 실시했다고 30일 밝혔다.지난 27일 김해근 중흥토건 대표이사는 ‘양주역 중흥S-클래스’ 공사 현장을 방문해 현장 내 위험 요인과 안전보건 관리 현황을 살펴보고, 개선이 필요한 사항을 확인했다.점검 이후에는 현장 임직원들의 다양한 건의 사항을 청취했다. 이날 김 대표이사는 법적 기준 준수를 넘어 근로자들이 실제로 체감할 수 있는 작업환경 개선의 중요성을",
-    "published_at": "2026-10-30T09:58:41+09:00",
-    "cluster_id": "ea9e",
-    "publisher": "ER 이코노믹리뷰",
-    "title_clean": "중흥그룹 중흥토건‧중흥건설, 겨울철 현장 안전 ‘만전’",
-    "summary": "중흥그룹의 중흥토건과 중흥건설이 겨울철 현장 안전을 위해 대표이사가 직접 공사 현장을 점검하고 안전보건 관리 현황을 확인했다. 법적 기준 준수를 넘어 근로자들의 실제 작업환경 개선을 강조하며 안전 관리에 주력하고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-30T10:14:45+09:00",
     "importance": 2
   }
