@@ -20301,6 +20301,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건설사 녹색사업, 녹색금융 '사각지대'…기보 지원 3년간 4곳 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=353775",
+    "description": "건설신기술 등을 보유해 기술평가 대상이 되는 일부 기업만 예외적으로 거래한다는 것이다. 이 관계자는 \"기술이 있는 기업만을 지원한다는 것이 대전제\"라며 \"태양광 발전소를 짓는 것 같은 사업은 평가 대상이 되지...",
+    "published_at": "2026-11-04T14:08:00+09:00",
+    "cluster_id": "679a",
+    "publisher": "greened.kr",
+    "title_clean": "건설사 녹색사업, 녹색금융 '사각지대'…기보 지원 3년간 4곳",
+    "summary": "건설사의 녹색사업이 녹색금융 지원에서 사각지대에 있는 상황이 드러났다. 기보가 3년간 4곳만 지원했으며, 기술평가 대상이 되는 건설신기술 보유 기업만 예외적으로 거래하고 있어 태양광 발전소 같은 일반 녹색사업은 평가 대상이 되지 않는다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-04T14:14:49+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "“디지털 AI 시대, 측량·공간정보전문가 역할 강화해야” - mcnews.co.kr",
+    "link": "http://mcnews.co.kr/86870",
+    "description": "또한 측량기기와 측정 중심의 직무체계를 소프트웨어·공간정보데이터·융합서비스 중심으로 확장할 필요성을 검토하고, 측지측량·지도측량·지형공간정보체계·스마트건설측량의 4개 전문분야를 중심으로 직무 및...",
+    "published_at": "2026-11-04T14:06:00+09:00",
+    "cluster_id": "5f2e",
+    "publisher": "mcnews.co.kr",
+    "title_clean": "“디지털 AI 시대, 측량·공간정보전문가 역할 강화해야”",
+    "summary": "디지털 AI 시대에 대응하기 위해 측량·공간정보 전문가의 역할 강화가 필요하다는 주장. 측량기기 중심에서 소프트웨어·데이터·융합서비스 중심으로 직무 체계를 확장하고, 4개 전문분야 중심의 직무 개편을 검토 중.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T14:14:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32218,38 +32250,6 @@
     "summary": "사극 배우 국호가 작품 공백기 생계유지를 위해 15년간 일용직 건설노동자로 근무 중임을 공개했다. 촬영 스케줄과의 병행 어려움으로 육체노동을 선택했으며, 이로 인해 결혼 등 개인생활을 포기한 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-29T21:56:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "2027년 국내 건설수주 241.2조원 전망 ‘성장탄력 둔화’ - 한국건설신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HM09rRFFVeVMzNkwyUkhoeXN6UXBvejN4V0FIQUtTTVJFTkxNcWRPa0k4d0R2S3ZaamF0RzZOYU5yYll5RC1fZkIzcjBvQU5EQ2ZNN0VsVEJuczZReDRmNTlIZkF3RDhjYjZv?oc=5",
-    "description": "올해 연말까지 국내 건설수주는 지난해의 221.1조원에서 7.7% 증가한 238.1조원을 기록할 것이란 전망이다. 이어 내년에는 올해보다 1.3% 증가한 241.2조원의 수주 실적을 보이며 전체적인 외연은 유지되나 성장세가 사실상 둔화 국면에 진입할 것으로 전망되었다.한국건설경영협회가 10월29일 오후 2시 서울역 연세재단세브란스빌딩 중회의실에서 개최한 개최한 ‘2027년 건설시장 환경변화와 대응 발표회’에서 주제발표를 맡은 이지스지산운용 라진성 팀장은 이같이 밝히고, 총량의 변화보다 ‘공공·비주거 확대’와 ‘민간 주거 감소’로 요",
-    "published_at": "2026-10-29T15:24:00+09:00",
-    "cluster_id": "4435",
-    "publisher": "한국건설신문",
-    "title_clean": "2027년 국내 건설수주 241.2조원 전망 ‘성장탄력 둔화’",
-    "summary": "2027년 국내 건설수주가 241.2조원으로 전망되며 지속적인 외연은 유지되나 성장률은 1.3%로 둔화될 것으로 예상된다. 공공·비주거 확대 반면 민간 주거는 감소하는 구조적 변화가 예상되고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-29T21:45:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"달빛철도 예타 면제 조속히 확정 짓고 후속 절차 이행하라\" - idaegu.co.kr",
-    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=563882",
-    "description": "한편, 달빛경제교류협의회는 지난 1998년 광주상의 의원단의 대구상의 방문을 계기로 2018년 공식 출범한 이후 주 52시간제도 보완, 기업 상속 공제제도 개선, 지방 건설경기 활성화 등 양 지역의 굵직한 현안에 공동으로...",
-    "published_at": "2026-10-29T21:24:00+09:00",
-    "cluster_id": "d00e",
-    "publisher": "idaegu.co.kr",
-    "title_clean": "\"달빛철도 예타 면제 조속히 확정 짓고 후속 절차 이행하라\"",
-    "summary": "달빛철도 사업의 예타 면제 조속 확정을 촉구하는 기사로, 지방 건설경기 활성화를 위한 인프라 사업 추진의 필요성을 제기하고 있다. 달빛경제교류협의회가 양 지역의 현안 해결을 위해 협력하고 있음을 보도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-29T21:36:03+09:00",
     "importance": 2
   }
 ]
