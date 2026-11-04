@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[DQN] 대우건설, 영업익 두 배 뛰었지만…보증 선 PF 절반이 '1년 내 만기' - 금융신문",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiNHBMbndNc2ExNUZHUTNYZmdITUhxNEtDUTBnZzN4c0l1TDhCSFFHSkNnMFhPNlhBdkpLWm50cW9USm15d2V0QjlHRFM1V2xxWmljaDlNbThjbFJvcjVEa3puMnBLTFhKeUZ1ZnhrQmZfSWNWaEQ5SzQ3RTI?oc=5",
+    "description": "대우건설(대표이사 이강석)의 영업이익이 올해 들어 크게 늘었다. 3분기 잠정 누적 영업이익은 6711억 원으로 전년 같은 기간 2901억 원의 두 배를 넘는다.그러나 실적 개선이 재무 부담 완화로 이어졌다고 보기는 어렵다. 대우건설이 연대보증·채무인수·자금보충으로 지원하는 단독사업 프로",
+    "published_at": "2026-11-05T05:30:00+09:00",
+    "cluster_id": "5aaf",
+    "publisher": "금융신문",
+    "title_clean": "[DQN] 대우건설, 영업익 두 배 뛰었지만…보증 선 PF 절반이 '1년 내 만기'",
+    "summary": "대우건설의 3분기 영업이익이 전년 동기 대비 2배 이상 증가했으나, 보증 선 PF의 절반 이상이 1년 내 만기를 앞두고 있어 재무 부담이 여전한 상태. 실적 개선에도 불구하고 구조적 위험 요소가 해소되지 않음을 시사.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-05T05:39:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32235,22 +32251,6 @@
     "summary": "내년 건설수주액이 241조원으로 전망되면서 시장 규모는 유지될 것으로 예상된다. 다만 건설시장 성장 둔화에 대한 우려가 제기되고 있어 업계의 신중한 대응이 필요한 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-10-30T10:53:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체·자동차 '쌍끌이'…생산·소비·투자 3개월 만에 '트리플 증가' - hidomin.com",
-    "link": "https://www.hidomin.com/news/articleView.html?idxno=727179",
-    "description": "재정경제부는 \"10월은 지표별 등락은 있겠으나 양호한 소비와 기업심리, 수출, 기계·건설수주 등 속보지표 흐름을 감안할 때 추세적인 성장 흐름은 지속될 전망\"이라고 밝혔다.",
-    "published_at": "2026-10-30T10:32:00+09:00",
-    "cluster_id": "6487",
-    "publisher": "hidomin.com",
-    "title_clean": "반도체·자동차 '쌍끌이'…생산·소비·투자 3개월 만에 '트리플 증가'",
-    "summary": "반도체·자동차 산업이 견인차 역할을 하면서 생산, 소비, 투자가 3개월 연속 증가했다. 재정경제부는 양호한 소비와 기업심리, 수출, 기계·건설수주 등을 바탕으로 추세적인 성장이 지속될 것으로 전망했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:44:00+09:00",
     "importance": 2
   }
 ]
