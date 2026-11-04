@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "AI 스타트업 '페이퍼리', 2026 한국건설·안전박람회서 건설 현장 안전 ... - magazine.hankyung.com",
+    "link": "https://magazine.hankyung.com/job-joy/article/202611046774d",
+    "description": "‘2026 스마트건설 창업 아이디어 공모전’에서 우수상(한국건설기술연구원 원장상)을 받았다. 안성원 페이퍼리 대표는 “이번 박람회에서 현장 실무자들이 가장 크게 관심을 가진 부분은 별도의 입력 없이 기존...",
+    "published_at": "2026-11-04T23:00:00+09:00",
+    "cluster_id": "620e",
+    "publisher": "magazine.hankyung.com",
+    "title_clean": "AI 스타트업 '페이퍼리', 2026 한국건설·안전박람회서 건설 현장 안전 ...",
+    "summary": "AI 스타트업 페이퍼리가 2026 스마트건설 창업 공모전에서 우수상을 수상했으며, 건설 현장 안전 관련 솔루션을 선보였다. 현장 실무자들로부터 별도 입력 없이 작동하는 자동화 기술에 대한 높은 관심을 확보했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T23:04:41+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32236,21 +32252,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-30T10:34:22+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "전남광주 9월 생산·투자 호조…소비 회복은 주춤 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261030_0003847840",
-    "description": "4% 감소했다. 이 기간 전남광주지역의 전체 건설수주는 전년 동월 대비 244.8% 급증했다. 특히 민간부문 투자가 479.2% 증가하며 전체 투자 증가세를 이끌었다. 공공부문 투자 역시 176.5% 늘어난 것으로 나타났다.",
-    "published_at": "2026-10-30T09:58:00+09:00",
-    "cluster_id": "d2d8",
-    "publisher": "newsis.com",
-    "title_clean": "전남광주 9월 생산·투자 호조…소비 회복은 주춤",
-    "summary": "전남광주 지역의 9월 생산과 투자가 호조를 보였으며, 특히 건설수주가 전년 동월 대비 244.8% 급증했다. 민간부문 투자가 479.2% 증가하며 공공부문 투자 176.5% 증가와 함께 투자 성장을 주도했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:34:22+09:00",
-    "importance": 2
   }
 ]
