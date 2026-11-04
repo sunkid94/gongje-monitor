@@ -4335,6 +4335,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "수주 46% 늘린 K-조선…커진 시장서 점유율은 하락 - ezyeconomy.com",
+    "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241554",
+    "description": "4일 삼성중공업이 제공한 클락슨리서치 자료에 따르면 올해 1~10월 한국의 선박 수주량은 1191만CGT, 296척으로 전년 동기 대비 46% 증가했다. 지난해 연간 수주량인 1199만CGT의 99.4%에 해당한다. 두 달을 남겨두고...",
+    "published_at": "2026-11-04T18:06:00+09:00",
+    "cluster_id": "6087",
+    "publisher": "ezyeconomy.com",
+    "title_clean": "수주 46% 늘린 K-조선…커진 시장서 점유율은 하락",
+    "summary": "올해 1~10월 한국 조선업의 수주량이 전년 동기 대비 46% 증가하여 1191만CGT를 기록했다. 다만 제목에서 언급된 것처럼 전체 시장이 커지면서 한국의 시장 점유율은 하락한 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-04T18:09:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20319,19 +20335,19 @@
     "importance": 4
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "미 해군 보급함 정비, K-조선으로 몰린다…삼성중공업만 소외 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2120853",
-    "description": "사진은 과거 항해 모습./미 해군 미국 해군 화물보급함 정비 물량이 한국 조선사로 빠르게 이동하고 있지만 국내 대형 조선사 가운데 삼성중공업만 수주 실적을 확보하지 못하면서 경쟁사들과 대조를 이루고 있다....",
-    "published_at": "2026-10-31T00:54:00+09:00",
-    "cluster_id": "a80e",
-    "publisher": "4th.kr",
-    "title_clean": "미 해군 보급함 정비, K-조선으로 몰린다…삼성중공업만 소외",
-    "summary": "미 해군 화물보급함 정비 물량이 한국 조선사로 이동하고 있으나, 삼성중공업은 수주 실적을 확보하지 못하면서 현대중공업, 대우조선 등 경쟁사들과의 격차가 벌어지고 있다. 국내 조선업계의 양극화 심화로 대형 프로젝트 수주 편중 현상이 나타나고 있다.",
+    "title": "현대백화점, 본업 빛 났다…수익 대폭 확대 - econovill.com",
+    "link": "https://www.econovill.com/news/articleView.html?idxno=756046",
+    "description": "현대백화점이 건설경기 침체 장기화로 인한 지누스의 부진한 가운데 확실한 본업 경쟁력을 앞세워 선방했다. 면세사업의 경우 안정화된 인천공항점 운영에 힘입어 괄목할 만한 성과를 거뒀다. 현대백화점은...",
+    "published_at": "2026-11-04T18:04:00+09:00",
+    "cluster_id": "2dca",
+    "publisher": "econovill.com",
+    "title_clean": "현대백화점, 본업 빛 났다…수익 대폭 확대",
+    "summary": "현대백화점이 본업인 백화점 사업의 경쟁력으로 실적을 확대했으며, 면세사업도 인천공항점 운영 안정화로 양호한 성과를 기록했다. 다만 계열사 지누스는 건설경기 침체로 부진을 보였다.",
     "sentiment": "negative",
-    "collected_at": "2026-10-31T00:59:04+09:00",
+    "collected_at": "2026-11-04T18:09:42+09:00",
     "importance": 4
   },
   {
@@ -32235,22 +32251,6 @@
     "title_clean": "조인철 의원, 건산법 개정안 대표발의…재무관리경영지도사 개인 진단 허용",
     "summary": "조인철 의원이 건설산업기본법 개정안을 발의하여 재무관리경영지도사의 개인 진단을 허용하는 내용. 중소건설업체의 재무관리 진단 비용과 시간 부담을 줄이기 위해 진단자 선택의 폭을 확대하는 규제 완화 조치.",
     "sentiment": "positive",
-    "collected_at": "2026-10-30T10:02:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "황상하 SH 사장, 27~28일 마곡·송파 등 주요 건설현장 직접 찾아 안전관리 실태 점검 - 청년투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuSUp3WWJObllDNWxteFVabzIyYnNqeDBKTHhPRm5mSFlPNG1CbGEtbVZKSFR3M3pXYTE5Y0RCTnZlaTVQM241VkZCUjczeDhOSlp3XzdlZWo2X1prTmEyN2xhU3hHbFhzYXc?oc=5",
-    "description": "[청년투데이=장효남 기자] 건설 현장의 안전사고가 계절적 변화와 맞물려 각별한 주의를 요하는 시기를 맞아, 지방공기업 수장이 직접 최일선 시공 현장을 찾아 위험 요소를 꼼꼼히 뜯어보는 현장 경영에 나섰다. 서늘해진 기온과 돌발적인 강풍 등 가을·겨울철로 접어드는 문목에서 발생할 수 있는 잠재적 사고를 사전에 차단하고, 스마트 기술을 접목한 예방 중심의 안전 시스템을 뿌리내리겠다는 의도다.서울주택도시개발공사(SH, 사장 황상하)는 지난 27일부터 28일까지 이틀 동안 황상하 사장이 직접 공공주택과 기반시설 등 주요 건설 현장을 방문하",
-    "published_at": "2026-10-30T09:45:38+09:00",
-    "cluster_id": "1770",
-    "publisher": "청년투데이",
-    "title_clean": "황상하 SH 사장, 27~28일 마곡·송파 등 주요 건설현장 직접 찾아 안전관리 실태 점검",
-    "summary": "서울주택도시개발공사(SH) 황상하 사장이 27~28일 마곡·송파 등 주요 건설현장을 직접 방문하여 가을·겨울철 안전관리 실태를 점검했다. 계절적 위험 요소 사전 차단과 스마트 기술 기반의 예방 중심 안전 시스템 구축을 목표로 하는 현장 경영 활동이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-10-30T10:02:59+09:00",
     "importance": 2
   }
