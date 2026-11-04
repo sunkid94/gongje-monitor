@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남부발전, 하이창원퓨얼셀 준공…핵심 기술 국산화 '이정표' - e-platform.net",
+    "link": "http://www.e-platform.net/news/articleView.html?idxno=106713",
+    "description": "준공식에는 남부발전 김준동 사장을 비롯해 창원특례시 강기윤 시장, 두산에너빌리티 이현호 부사장, 두산지오솔루션 이희범 대표, 한국파워엔지니어링서비스 김창환 대표, 경남에너지 신창동 대표, 하이창원퓨얼셀...",
+    "published_at": "2026-11-04T21:48:00+09:00",
+    "cluster_id": "e9ec",
+    "publisher": "",
+    "title_clean": "남부발전, 하이창원퓨얼셀 준공…핵심 기술 국산화 '이정표' - e-platform.net",
+    "summary": "남부발전이 하이창원퓨얼셀 준공식을 개최하며 수소연료전지 핵심 기술의 국산화를 달성했다. 정부·지자체·에너지기업 등 주요 기관이 참석한 가운데 신재생에너지 사업 확대의 이정표가 되는 프로젝트로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T21:54:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20302,20 +20318,20 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "서울 끝자락 빌라촌의 반전, 하이엔드로 탈바꿈하는 강동 천호 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/10/29/2026102902923.html",
-    "description": "특히 시공사인 대우건설이 공공재개발 사업 최초로 하이엔드 주거 브랜드 '써밋(SUMMIT)'을 적용하기로 계획하며 주목받았다. 대우건설은 공공재개발이라는 사업 방식보다는 입지와 상품 경쟁력을 종합적으로 고려해...",
-    "published_at": "2026-10-31T06:02:00+09:00",
-    "cluster_id": "9045",
-    "publisher": "realty.chosun.com",
-    "title_clean": "서울 끝자락 빌라촌의 반전, 하이엔드로 탈바꿈하는 강동 천호",
-    "summary": "대우건설이 강동 천호 공공재개발 사업에 하이엔드 브랜드 '써밋'을 최초로 적용하며 낙후된 빌라촌을 고급 주거 단지로 재개발할 계획이다. 공공재개발 사업에 프리미엄 상품을 결합해 입지와 상품 경쟁력을 강화하는 전략이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-31T06:08:56+09:00",
-    "importance": 2
+    "title": "임금체불·공사 중단 겪었던 태영건설 현장서 노동자 사망…1.1m 사다리... - thepublic.kr",
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=325187",
+    "description": "당시 민주노총 전국건설노동조합은 해당 현장 앞에서 기자회견을 열고 태영건설의 하도급 대금 지급 문제로 노동자들의 임금 지급이 지연되고 있다고 주장했다. 노조는 태영건설이 일부 하도급업체에 현금 대신 어음을...",
+    "published_at": "2026-11-04T21:48:00+09:00",
+    "cluster_id": "c61b",
+    "publisher": "thepublic.kr",
+    "title_clean": "임금체불·공사 중단 겪었던 태영건설 현장서 노동자 사망…1.1m 사다리...",
+    "summary": "태영건설 현장에서 노동자가 사망하는 안전사고가 발생했으며, 해당 현장은 임금체불과 공사 중단 등의 문제를 겪고 있었다. 민주노총 전국건설노동조합은 태영건설의 하도급 대금 지급 및 임금 지연 문제를 지적하며 기자회견을 개최했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-04T21:54:36+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32236,21 +32252,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-30T10:14:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"제주 일조권 기준 완화·민원 처리 개선\"…건축 조례 개정 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261030_0003847915",
-    "description": "현주현 제주도 도시건설국장은 \"침체된 건설경기 회복을 지원하려면 인허가 과정의 규제혁신이 시급하다\"며 \"합리적인 건축 규제 개선과 신속하고 공정한 인허가 절차로 도민 편의를 높여 나가겠다\"고 말했다.",
-    "published_at": "2026-10-30T09:57:00+09:00",
-    "cluster_id": "940f",
-    "publisher": "newsis.com",
-    "title_clean": "\"제주 일조권 기준 완화·민원 처리 개선\"…건축 조례 개정",
-    "summary": "제주도가 침체된 건설경기 회복을 위해 일조권 기준 완화 등 건축 조례를 개정하고 인허가 과정의 규제를 혁신하기로 했다. 도시건설국장은 합리적인 규제 개선과 신속한 인허가 절차로 도민 편의를 높이겠다고 밝혔다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T10:14:45+09:00",
-    "importance": 2
   }
 ]
