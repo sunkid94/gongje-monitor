@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 美 엑스에너지 SMR 증기발생기 부품 첫 수주 - 한국신용신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CSzZ2bkJIZXpBNlg1bjRZOTdkS0RXLVVndFdsWFd0UGxUbm1qWUIzOEZrRWZQblRpRFhxRkhoVk10YTQ1V1BleWQ5M0JGWDNobEdYUHdxN1BWLUFjWHpzLVp3OUdxdDhqa0Nr?oc=5",
+    "description": "두산에너빌리티가 미국 소형모듈원전(SMR) 개발사 엑스에너지(X-energy), 스웨덴 특수강 제조업체 알레이마(Alleima)와 SMR용 증기발생기 부품 공급",
+    "published_at": "2026-11-04T23:20:00+09:00",
+    "cluster_id": "e8ef",
+    "publisher": "한국신용신문",
+    "title_clean": "두산에너빌리티, 美 엑스에너지 SMR 증기발생기 부품 첫 수주",
+    "summary": "두산에너빌리티가 미국 소형모듈원전(SMR) 개발사 엑스에너지와 스웨덴 알레이마와 함께 SMR용 증기발생기 부품 공급 계약을 체결했다. 이는 국내 기계설비 제조업체의 해외 신재생·원전 관련 부품 수주 확대로, 향후 추가 수주 가능성을 높이는 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-04T23:34:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20302,20 +20318,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "체코 시공사 갈등에 출렁인 원전주…‘AI 전력난·美 18기’에 밸류에이... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2642172",
-    "description": "31일 업계에 따르면 한수원은 29일 체코 두코바니 5·6호기 원전 건설 사업과 관련해 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상이 최종 결렬됐다고 공식 발표했다. 공사비 산정 기준과 향후 설계...",
-    "published_at": "2026-10-31T07:02:00+09:00",
-    "cluster_id": "6cbf",
-    "publisher": "etoday.co.kr",
-    "title_clean": "체코 시공사 갈등에 출렁인 원전주…‘AI 전력난·美 18기’에 밸류에이...",
-    "summary": "한수원이 체코 두코바니 원전 건설사업 시공계약 협상을 대우건설·두산에너빌리티 컨소시엄과 최종 결렬했다. 공사비 산정 기준 등을 두고 의견이 갈려 협상이 결렬되면서 건설업계에 악재로 작용할 것으로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-31T07:08:46+09:00",
-    "importance": 4
+    "title": "건설엔지니어링협, 창립 제33주년 기념식 성료 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Kc1RCMTNyS0JUYU14VUowV3NwQWVpQUVzbjM0VExGRktZekRoT2hNc0hDOW5pZFhDaTVjNFh1UktDbzg?oc=5",
+    "description": "한국건설엔지니어링협회는 창립 33주년을 맞아 4일 서울 양재동 소재 엘타워에서 기념식을 개최, 유관기관‧회원사 대표 등이 기념사진을 찍고 있다.(사",
+    "published_at": "2026-11-04T17:35:41+09:00",
+    "cluster_id": "db07",
+    "publisher": "매일건설신문",
+    "title_clean": "건설엔지니어링협, 창립 제33주년 기념식 성료",
+    "summary": "한국건설엔지니어링협회가 창립 33주년을 맞아 기념식을 개최했다. 유관기관과 회원사 대표들이 참석하여 협회의 발전을 축하했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-04T23:34:39+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
@@ -32236,21 +32252,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-30T10:44:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "9월 대구·경북 산업활동 '희비 교차'…대구 생산 늘고 경북은 건설 수... - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115758",
-    "description": "대구 지역 대형소매점 판매액은 대형마트의 매출 증가에 힘입어 전년 동월 대비 1.0% 올랐지만, 건설수주액은 공공과 민간 부문의 동반 부진으로 79.6% 크게 감소했습니다. 이와 대조적으로 경북 지역의 9월 광공업...",
-    "published_at": "2026-10-30T10:24:00+09:00",
-    "cluster_id": "c742",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "9월 대구·경북 산업활동 '희비 교차'…대구 생산 늘고 경북은 건설 수...",
-    "summary": "9월 대구 지역 산업활동에서 대형소매점 판매액은 증가했으나 건설수주액은 공공·민간 부문 동반 부진으로 79.6% 급감했다. 경북 지역은 광공업이 회복세를 보이는 등 지역별로 산업 동향이 엇갈렸다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-30T10:34:22+09:00",
-    "importance": 4
   }
 ]
