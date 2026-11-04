@@ -4318,6 +4318,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "성수4지구 가계약안 기존과 20곳 달라졌지만…조합 \"합리적 계약 유지\" - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUndsVXFGOGo2YU9HeUhWOHFyeWRjZHlMaVY1c2xsWk1sRHJuNmI1aWhKRTNzTkRrVDBidGVMQk9Sc3RTVmZxTjhUcUl1ZXdqWGgzRzBNalFpSkhK?oc=5",
+    "description": "[서울=뉴스핌] 송현도 기자 = 서울 성동구 성수전략정비구역 제4지구(성수4지구) 재개발 조합이 오는 7일 사업시행계획인가 총회에 상정한 공사도급계약서(안)를 분석한 결과, 지난 7월 시공사 선정 당시 롯데건설이 제시한 입찰 계약안과 비교해 주요 조항 20곳이",
+    "published_at": "2026-11-04T12:46:00+09:00",
+    "cluster_id": "acb8",
+    "publisher": "뉴스핌",
+    "title_clean": "성수4지구 가계약안 기존과 20곳 달라졌지만…조합 \"합리적 계약 유지\"",
+    "summary": "서울 성수4지구 재개발 조합이 사업시행계획인가 총회에 상정한 공사도급계약서안이 지난 7월 롯데건설의 입찰 계약안 대비 주요 조항 20곳이 변경되었으나, 조합은 합리적 계약 유지라는 입장을 보이고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-04T12:49:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20300,22 +20316,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-30T16:01:37+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "서울 신축 희소성 높아지는데…연내 직주근접 분양 단지 어디 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2383131.htm",
-    "description": "동대문구 용두동에서는 롯데건설의 '용두동 롯데캐슬'이 총 417가구 가운데 340가구를 일반분양할 예정이다. 성북구 동선동의 서울동선2구역 재개발사업(가칭 '엘리프')은 총 334가구 중 277가구가 일반분양 물량이다....",
-    "published_at": "2026-10-30T15:54:00+09:00",
-    "cluster_id": "aedd",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "서울 신축 희소성 높아지는데…연내 직주근접 분양 단지 어디",
-    "summary": "서울 내 신축 아파트 공급 희소성이 높아지는 가운데, 연내 동대문구 용두동 롯데캐슬(340가구 분양), 성북구 동선동 엘리프(277가구 분양) 등 직주근접 단지들이 분양을 앞두고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T16:01:37+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
