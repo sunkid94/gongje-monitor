@@ -20318,6 +20318,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "호반건설, 경영진·협력사 합동점검…동절기 현장 안전 강화 - pointdaily.co.kr",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324844",
+    "description": "호반건설, 동절기 건설현장 안전관리 강화를 위한 대표이사 합동안전점검 실시. 사진=호반건설 호반건설이 겨울철 건설현장에서 발생할 수 있는 화재와 추락 등 안전사고를 예방하기 위해 경영진과 협력사가 참여하는...",
+    "published_at": "2026-11-05T08:42:00+09:00",
+    "cluster_id": "acc4",
+    "publisher": "pointdaily.co.kr",
+    "title_clean": "호반건설, 경영진·협력사 합동점검…동절기 현장 안전 강화",
+    "summary": "호반건설이 동절기 건설현장의 화재, 추락 등 안전사고 예방을 위해 경영진과 협력사가 참여하는 합동안전점검을 실시했다. 겨울철 건설현장의 안전관리 강화에 나선 것으로 보인다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T08:49:15+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32236,21 +32252,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-30T11:43:30+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중흥토건·중흥건설, 겨울철 앞두고 현장 안전점검 - 한스경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWTRpQmVqRkJiNXVITlMzU2IybURlQzRBQkRjRVVrcS00MmFuU1I0Tk16U0RucmtWaXN6VG8tb0JWR0JWRmQyYm9VZkZkbjlZXzQxRDloQ0pnVVVhcnMydERtc1dXVGVpX0hYaNIBb0FVX3lxTE5ReUJjTUhGM1ljZzZtNks5ZzBvSGZycEM1dkF6MmJnR2xfbjN5WGN6ZTZJTWMtRUFrc0FLS0RLXy01YjNKZzdFTFFFOHVsbkZEUGVaUHdpZ25HMlM1UDlpWXBvOWhMaVlHbkJEZjRyWQ?oc=5",
-    "description": "| 서울=한스경제 한나연 기자 | 중흥그룹 계열사인 중흥토건과 중흥건설이 겨울철을 앞두고 주요 공사현장의 안전보건 관리체계를 점검했다.30일 중흥그룹에 따르면 김해근 중흥토건 대표이사는 지난 27일 경기 양주시 ‘양주역 중흥S-클래스’ 공사현장을 방문해 안전보건 관리체계의 이행 여부와 현장 안전관리 실태를 살폈다.김 대표는 현장에 남아 있는 위험요인과 안전보건 조치 현황을 확인하고 개선이 필요한 사항을 점검했다. 이후 현장 임직원들과 간담회를 열어 작업 과정에서 겪는 어려움과 건의사항을 들었다.김 대표는 법적 기준 준수와 함께 근로",
-    "published_at": "2026-10-30T11:12:21+09:00",
-    "cluster_id": "5f18",
-    "publisher": "한스경제",
-    "title_clean": "중흥토건·중흥건설, 겨울철 앞두고 현장 안전점검",
-    "summary": "중흥그룹 계열사인 중흥토건과 중흥건설이 겨울철을 앞두고 양주역 중흥S-클래스 공사현장 등 주요 현장에 대한 안전보건 점검을 실시했다. 현장의 위험요인 확인, 안전조치 현황 점검 및 임직원 간담회를 통해 법적 기준 준수와 근로자 안전을 강화하는 것으로 보인다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T11:43:30+09:00",
-    "importance": 2
   }
 ]
