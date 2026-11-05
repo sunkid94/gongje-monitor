@@ -3927,21 +3927,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[인사] 외교부 ; 전남광주통합특별시 ; 한국기초과학지원연구원 등 - hankyung.com",
-    "link": "https://www.hankyung.com/article/2026100665001",
-    "description": "강종철▷광양시 부시장 이상용▷서구 부구청장 최경화 ◈한국기초과학지원연구원◎보임▷부원장 최정헌▷경영지원본부장 김혜진 ◈한국전기연구원▷연구부원장 김태현 ◈전문건설공제조합◎임명▷전무이사 김수상",
-    "published_at": "2026-10-06T18:22:00+09:00",
-    "cluster_id": "860d",
-    "publisher": "hankyung.com",
-    "title_clean": "[인사] 외교부 ; 전남광주통합특별시 ; 한국기초과학지원연구원 등",
-    "summary": "외교부, 전남광주통합특별시, 한국기초과학지원연구원, 한국전기연구원, 전문건설공제조합 등 각 기관의 인사발령을 공시했다. 전문건설공제조합은 김수상을 전무이사로 임명했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-06T18:32:24+09:00",
-    "event_label": "전문건설공제조합 김수상 전무이사 임명",
-    "importance": 5
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "재개발 뇌관 추가 공사비, 이번엔 ‘대연3구역 1800억’ - busan.com",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026110518293251047",
+    "description": "5일 대연3구역 주택재개발정비사업조합 등에 따르면 최근 대연 디아이엘의 시공사 HDC현대산업개발(이하 현산)·롯데건설이 조합에 1839억 원의 공사비 증액을 요청했다. 디아이엘은 남구 대연3구역을 재개발해 총 28개동...",
+    "published_at": "2026-11-05T18:31:00+09:00",
+    "cluster_id": "3892",
+    "publisher": "busan.com",
+    "title_clean": "재개발 뇌관 추가 공사비, 이번엔 ‘대연3구역 1800억’",
+    "summary": "대연3구역 재개발 사업에서 시공사(현산·롯데건설)가 1839억 원의 공사비 증액을 요청했다. 이는 재개발 사업의 추가 공사비 분쟁이 지속되고 있음을 보여주는 사례다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-05T18:39:36+09:00",
+    "importance": 4
   },
   {
     "keyword": "현대산업개발",
@@ -19926,22 +19925,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T06:08:28+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "30조 목동 수주전서 '나홀로 빈손' 포스코이앤씨 브랜드 시험대 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html",
-    "description": "DL이앤씨, 대우건설, 현대건설, GS건설, 삼성물산 건설부문(이하 삼성물산) 등 5개사가 사실상 각각 선점을 완료했다. 현재 남은 단지는 1·2·3·4·5·7·11·14·15단지 등 9곳이다. 수주전의 최상위 포식자 중 한 곳인...",
-    "published_at": "2026-11-02T06:02:00+09:00",
-    "cluster_id": "4f30",
-    "publisher": "realty.chosun.com",
-    "title_clean": "30조 목동 수주전서 '나홀로 빈손' 포스코이앤씨 브랜드 시험대",
-    "summary": "목동 30조 규모 대형 수주전에서 포스코이앤씨가 유일하게 수주하지 못한 가운데, 나머지 9개 단지를 놓고 경쟁이 진행 중이다. 주요 건설사들이 대부분 선점을 완료한 상황에서 포스코이앤씨의 브랜드 입지가 시험대에 올랐다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-02T06:08:28+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
