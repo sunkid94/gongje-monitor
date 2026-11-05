@@ -4199,23 +4199,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "전문건설공제조합, 신임 전무이사에 김수상 전 국토부 주택토지실장 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sOFRkVkJZdTVUX1BVV3J2MHh6WE0wQlM0MHlNWWphRGJyVVRJTUJrYlpISVI4VEgzTHFLeXFkZzBXS0NuRUFOU0lqQTAzTWoydXNnb2U0czFuVXdEb0ZaN21UMA?oc=5",
-    "description": "[국토일보 김현재 기자] 전문건설공제조합(K-FINCO) 신임 전무이사에 김수상 전 국토교통부 주택토지실장이 임명됐다.전문건설공제조합은 지난 2일 제284차 운영위원회를 열고 김수상 전 국토부 주택토지실장을 신임 전무이사로 선임했다고 오늘(6일) 밝혔다. 임기는 이날부터 2028년 10월 5일까지 2년이다.김 신임 전무이사는 제37회 행정고시에 합격해 공직에 입문한 뒤 국토부 토지정책관과 주택토지실장, 교통물류실장, 대도시권광역교통위원회 상임위원 등을 역임하며 국토·교통 분야에서 다양한 정책 경험을 쌓았다.김수상 전무이사는 “조합의",
-    "published_at": "2026-10-06T12:04:10+09:00",
-    "cluster_id": "8e17",
-    "publisher": "국토일보",
-    "title_clean": "전문건설공제조합, 신임 전무이사에 김수상 전 국토부 주택토지실장",
-    "summary": "전문건설공제조합이 김수상 전 국토교통부 주택토land실장을 신임 전무이사로 선임했다. 2028년 10월까지 2년간 임기를 맡으며, 국토·교통 분야의 정책 경험을 바탕으로 조합 운영을 주도할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-06T12:44:14+09:00",
-    "event_label": "전문건설공제조합 신임 전무이사 김수상 임명",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20213,6 +20196,22 @@
     "summary": "한국전력, 두산에너빌리티 등 국내외 120개 기업이 참여한 가운데 한전원자력연료가 개량형 핵연료 'PLUS7'을 선보이며 기술력을 강화했습니다. 글로벌 원전 시장 진출을 가속화하려는 움직임으로, 국내 원전 관련 기업들의 수주 기회 확대로 이어질 전망입니다.",
     "sentiment": "positive",
     "collected_at": "2026-11-01T13:53:23+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "테크윌, '2026 스마트건설·안전·AI 엑스포' 참가 - gokorea.kr",
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=884218",
+    "description": "안전장비 전문 기업 테크윌이 오는 25일부터 27일까지 개최되는 '2026 스마트건설·안전·AI 엑스포'에 참가한다. 전시 제품은 '스마트추락질식방지틀'과 '전자동 스마트팬'을 결합한 복합 안전 시스템이다. 맨홀 개방이나...",
+    "published_at": "2026-11-05T12:46:00+09:00",
+    "cluster_id": "5c66",
+    "publisher": "gokorea.kr",
+    "title_clean": "테크윌, '2026 스마트건설·안전·AI 엑스포' 참가",
+    "summary": "안전장비 전문 기업 테크윌이 '2026 스마트건설·안전·AI 엑스포'에 참가하여 스마트추락질식방지틀과 전자동 스마트팬을 결합한 복합 안전 시스템을 전시한다. 맨홀 개방 시 안전 위험을 해결하는 첨단 안전 솔루션으로 건설 현장의 안전 기술 혁신을 시도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T12:49:38+09:00",
     "importance": 2
   },
   {
