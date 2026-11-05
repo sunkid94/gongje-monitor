@@ -19910,6 +19910,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부-LX공사, ‘디지털 SOC 국토 콘퍼런스’ 개최 - 팝콘뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxQzdod3F4d3pYU2QyR0VMVDkxYzV3RlpIQ3hrVWxhT2g5NF9vWVBvdFYxZXJzOXZ4NEdHZ0VGaUxUdmNqTUtnNkZDRElnRV9lRTNhX2VTbzhzbmhCcEdNaVAzdE1IWWZsM1FNOHJB0gFyQVVfeXFMTUpuM1BpMFZsSG9rUzBhYmxNcTIzc3R4MmttMjNVU0RXQXdWN01MTnRLM0ZRdDdydVQ1M0NGMEUybERjQ25vZnBvZFR2NzdLbzVnR0hwa1pDRktjUXZaSnpRMXl0MDZhVU5TSlJnVWdTYVlB?oc=5",
+    "description": "(팝콘뉴스=김은교 기자) 국토교통부와 한국국토정보공사가 국가기반시설 내 AI 활용 방안과 효율적인 토지자산 관리를 체계화하기 위해 관계기관과의 다각도 협력 구축에 나섰다.국토부와 LX공사는 5일 경기도 고양시 킨텍스에서 도로·철도 등 국가 기반시설(SOC)의 효율적 관리와 토지자산 활용도 증진을 위한 ‘디지털 SOC 국토 콘퍼런스’를 개최했다고 밝혔다.이번 행사는 SOC 사업 추진 과정에서 발생하는 토지 경계 정리, 소유권 보장, 권리관계 분쟁 해소를 지원하고 인공지능(AI)과 공간정보 데이터를 접목한 선진형 토지관리 모델을 공유하",
+    "published_at": "2026-11-05T18:39:05+09:00",
+    "cluster_id": "efdb",
+    "publisher": "팝콘뉴스",
+    "title_clean": "국토부-LX공사, ‘디지털 SOC 국토 콘퍼런스’ 개최",
+    "summary": "국토부와 LX공사가 디지털 SOC 국토 콘퍼런스를 개최하여 AI와 공간정보 데이터를 활용한 선진형 토지관리 모델을 공유했다. SOC 사업 추진 과정에서의 토지 경계 정리, 소유권 보장, 권리관계 분쟁 해소를 지원하기 위한 다각도 협력을 구축하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T18:59:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32210,22 +32226,6 @@
     "title_clean": "[주간경제브리핑] 대구 생산 늘고 건설수주 급감…경북은 건설 반등 속 생산·소비 부진",
     "summary": "9월 대구·경북 경제는 부문별로 엇갈린 흐름을 보였다. 대구는 광공업 생산 증가했지만 건설수주 급감, 경북은 건설수주 급증했으나 생산·소비 부진으로 지역 간 불균형이 심화되고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-01T17:48:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대건설, 수주·수익성 동반 개선…3분기 누적 영업이익 24.4% 늘어 - 잡포스트",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rTkhZREhPVVctN2hLV2VBdnAzWWZmVEwwZE9aQmxmNlgyNzNxa1RyY2dMVnFIWHFzZFowU3NtSlpKQWtleUlhQTJDWUtQYXRZOEgtTFdCM2JJUzUzWEt4dFkyc190UXJpbzJIaGlKWl81Z9IBckFVX3lxTE9rTkhZREhPVVctN2hLV2VBdnAzWWZmVEwwZE9aQmxmNlgyNzNxa1RyY2dMVnFIWHFzZFowU3NtSlpKQWtleUlhQTJDWUtQYXRZOEgtTFdCM2JJUzUzWEt4dFkyc190UXJpbzJIaGlKWl81Zw?oc=5",
-    "description": "[잡포스트] 이동용 기자 =현대건설이 올해 3분기까지 연결 기준 누적 매출 19조3,642억원, 영업이익 6,645억원을 기록했다. 현대건설은 올해 3분기 누적",
-    "published_at": "2026-11-01T14:24:21+09:00",
-    "cluster_id": "97a1",
-    "publisher": "잡포스트",
-    "title_clean": "현대건설, 수주·수익성 동반 개선…3분기 누적 영업이익 24.4% 늘어",
-    "summary": "현대건설이 올해 3분기까지 누적 매출 19조3,642억원, 영업이익 6,645억원을 기록하며 전년 대비 영업이익이 24.4% 증가했다. 수주와 수익성이 동반 개선되는 긍정적인 성과를 보이고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-01T17:48:39+09:00",
     "importance": 2
   }
