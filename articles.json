@@ -19842,6 +19842,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "중부발전, 함안복합발전소 무재해 건설 안전다짐 결의 - 한국원자력신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSWFRMMG8wVmVIeXFzb2tWY3o5MGViWXhHd1M2M3Y3Vml4WFo3UGZTTjdkQ21BNFdhbnVTUnNnLTZ4WHNmX1BDbUstN2xwMlROZHl0cXdmZEw4dWE4cHc4QlR0U0JmYlnSAWtBVV95cUxPb29hVldLZzlRODZFdW5vV2xMRXFNVlhjOHdGODhzbFYxZXNhRGJzUlN5VWZwUEtydHNENS1LWmhIejVQOVBHV2ctcnZXeGttTGtPS3hnUmYtdTgybmtFUWVITTJzUWtzOVFoQQ?oc=5",
+    "description": "한국중부발전(사장 이영조)이 함안복합발전소 성공적인 건설을 위한 무재해 안전다짐행사를 개최했다.한국중부발전은 3일 함안복합발전소 건설 현장에서 철골 입주 및 배열회수보일러(HRSG) 설치를 기념하고 무재해 건설을 기원하는 안전다짐행사를 개최했다.안성규 기술안전부사장을 비롯한 협력사 임",
+    "published_at": "2026-11-05T18:51:11+09:00",
+    "cluster_id": "3191",
+    "publisher": "한국원자력신문",
+    "title_clean": "중부발전, 함안복합발전소 무재해 건설 안전다짐 결의",
+    "summary": "한국중부발전이 함안복합발전소 건설 현장에서 철골 입주 및 배열회수보일러 설치를 기념하며 무재해 안전다짐행사를 개최했다. 안전 중심의 건설 추진을 강조하는 행사로 프로젝트의 성공적 진행을 다짐했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-06T02:05:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32207,22 +32223,6 @@
     "summary": "경기 고양시 관로공사장에서 차량 유도 업무를 하던 70대 여성 노동자가 15t 덤프트럭에 치여 사망했다. 고용노동부와 경찰이 사고 원인을 조사 중이며, 덤프트럭 운전자는 치사 혐의로 입건되었다.",
     "sentiment": "negative",
     "collected_at": "2026-11-01T19:53:30+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부산 도장공사 고소작업대 추락사…업체 대표 1심서 징역형 집행유예 - 세이프티퍼스트닷뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nSzgzV3FCVmZtdlltaWlSZVdQWmR3SndHZGRIcUIza1RLMzZUZk92WVJsVm1Bcldtd2EwTzk0cnVnTmJ3MVJxal9VZGhkbkU4OTFrZTlxRXM3OXVrbWlna3lCTmNOMHRaODhpQ3B1cw?oc=5",
-    "description": "[세이프티퍼스트닷뉴스] 안전난간이 없는 고소작업대에서 노동자가 추락해 숨진 사건과 관련해 부산지법 동부지원이 도장업체 대표에게 징역형 집행유예를 선고한 판결 내용이 지난 10월 26일 알려졌다. 실제 선고일은 지난 9월 17일이다. 부산지법 동부지원 형사3단독 노행남 부장판사는 중대재해처벌법 위반, 산업안전보건법 위반, 업무상과실치사 혐의로 기소된 대표에게 1심에서 징역 1년 6개월에 집행유예 3년을 선고했다. 업체 법인에는 벌금 1억원, 현장대리인과 작업반장에게는 업무상과실치사 혐의로 각각 벌금 700만원을 선고했다. 사고는 20",
-    "published_at": "2026-11-01T19:41:05+09:00",
-    "cluster_id": "e6b2",
-    "publisher": "세이프티퍼스트닷뉴스",
-    "title_clean": "부산 도장공사 고소작업대 추락사…업체 대표 1심서 징역형 집행유예",
-    "summary": "부산의 도장공사 현장에서 안전난간이 없는 고소작업대에서 노동자가 추락해 숨진 사건으로 업체 대표가 징역 1년 6개월 집행유예 3년을 선고받았다. 중대재해처벌법 위반 등으로 기소된 대표와 함께 법인에는 벌금 1억원, 현장대리인과 작업반장에는 각각 벌금 700만원이 부과되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-01T19:48:39+09:00",
     "importance": 4
   }
 ]
