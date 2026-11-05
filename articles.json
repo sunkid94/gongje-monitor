@@ -4199,6 +4199,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "1.2조 신월시영 재건축, 대우건설이 품나…수의계약 유력 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2385255.htm",
+    "description": "최고 21층, 3155가구 짓는 프로젝트 대우건설, 신월시영에 '신월8경' 제안 서울 양천구 신월시영아파트 재건축사업이 두 차례 경쟁입찰 유찰로 수의계약 수순을 밟을 전망이다. 대우건설은 오랜 기간 수주에 공을 들여온...",
+    "published_at": "2026-11-05T12:26:00+09:00",
+    "cluster_id": "fa63",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "1.2조 신월시영 재건축, 대우건설이 품나…수의계약 유력",
+    "summary": "서울 양천구 신월시영아파트 재건축사업(1.2조 규모, 3155가구)이 두 차례 경쟁입찰 유찰 후 수의계약으로 진행될 전망이다. 대우건설이 오랜 기간 수주 추진으로 유력한 시공사로 평가되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T12:29:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20183,20 +20199,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "악재에 밀린 건설·방산주…외인은 오히려 사들였다 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=01787606645641456&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "한국수력원자력은 지난달 29일 공사비와 업무 범위 등에 대한 이견으로 대우건설(047040)·두산에너빌리티(034020) 컨소시엄과의 체코 두코바니 원전 시공계약 협상을 종료한다고 발표했다. 체코 두코바니...",
-    "published_at": "2026-11-01T13:32:00+09:00",
-    "cluster_id": "d609",
-    "publisher": "edaily.co.kr",
-    "title_clean": "악재에 밀린 건설·방산주…외인은 오히려 사들였다",
-    "summary": "한국수력원자력이 체코 두코바니 원전 시공계약 협상을 종료하며 대우건설·두산에너빌리티 컨소시엄의 수주가 무산되었다. 건설·방산업계에는 악재로 작용하고 있으나 외국인 투자자들은 관련 주식을 매수하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-01T13:38:14+09:00",
-    "importance": 4
+    "title": "국립공주대, 국토안전 분야 '현장교육·취업 연계' - bzeronews.com",
+    "link": "https://www.bzeronews.com/news/articleView.html?idxno=824855",
+    "description": "국립공주대학교 학생들이 건설현장 안전관리와 시설물 점검을 배우며 국토안전 분야 진로를 탐색할 기회를 얻는다. 국립공주대학교는 4일 국토안전관리원 충청지역본부와 인재양성을 위한 업무협약을 맺었다. 협약에 따라...",
+    "published_at": "2026-11-05T12:26:00+09:00",
+    "cluster_id": "1050",
+    "publisher": "bzeronews.com",
+    "title_clean": "국립공주대, 국토안전 분야 '현장교육·취업 연계'",
+    "summary": "국립공주대학교가 국토안전관리원과 업무협약을 체결하여 학생들에게 건설현장 안전관리와 시설물 점검 교육을 제공하고 국토안전 분야 진로 연계를 추진한다. 이는 건설업계의 인재양성과 안전 전문가 육성을 통한 산학협력 강화 사례이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T12:29:33+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
@@ -32229,21 +32245,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-30T17:50:11+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "동원개발, 협력업체 대표들과 ‘안전보건 다짐’ - hankyung.com",
-    "link": "https://www.hankyung.com/article/202610306832i",
-    "description": "박영봉 동원개발 대표는 “건설현장 안전을 확보하려면 원청사의 안전관리 노력뿐 아니라 협력업체의 자율적인 안전관리 역량 강화와 적극적인 참여가 필수적”이라며 “협력사의 안전이 곧 동원개발의 지속가능한...",
-    "published_at": "2026-10-30T17:30:00+09:00",
-    "cluster_id": "e33f",
-    "publisher": "hankyung.com",
-    "title_clean": "동원개발, 협력업체 대표들과 ‘안전보건 다짐’",
-    "summary": "동원개발 대표가 협력업체 대표들과 함께 건설현장 안전보건 강화를 위한 다짐식을 개최했습니다. 원청사의 안전관리와 협력업체의 자율적 안전역량 강화의 중요성을 강조하며 업체 간 협력 체계를 구축하려는 의지를 드러냈습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-30T17:40:28+09:00",
-    "importance": 3
   }
 ]
