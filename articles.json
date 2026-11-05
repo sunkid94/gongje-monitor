@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[더벨][Market Watch] 위탁운용사 찾는 기관 자금…연말 수요 집중 - thebell.co.kr",
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611031652418200102212",
+    "description": "전문건설공제조합도 지난달 29일 국내주식 절대수익형 위탁운용사 선정 공고를 냈다. 총 2개사를 선정해 각사당 300억원 이하를 단독 사모펀드 형태로 집행할 방침이다. 목표수익률은 교직원공제회와 같은 연 10%다. 최근...",
+    "published_at": "2026-11-05T17:48:00+09:00",
+    "cluster_id": "8772",
+    "publisher": "thebell.co.kr",
+    "title_clean": "[더벨][Market Watch] 위탁운용사 찾는 기관 자금…연말 수요 집중",
+    "summary": "전문건설공제조합이 국내주식 절대수익형 위탁운용사 2개사를 선정해 각사당 300억원 이하를 단독 사모펀드로 운용하기로 결정했다. 목표수익률은 연 10%로 설정했으며, 이는 기관 자금의 연말 수요 집중 현상을 반영한 것이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T17:54:37+09:00",
+    "event_label": "전문건설공제조합 위탁운용사 선정 공고 (국내주식 절대수익형 펀드)",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -3941,23 +3958,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-06T18:12:11+09:00",
     "event_label": "대한기계설비건설협회 다단계 하도급 개선 및 주계약자 공동도급 활성화 촉구",
-    "importance": 5
-  },
-  {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "\"건설 하도급 구조 개선 위해 주계약자 공동도급제 활성화 필요\" - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/news-detail/2026100616051268775",
-    "description": "건설산업 다단계 하도급 구조를 바꾸기 위해 주계약자 공동도급제도 활성화의 필요성이 제기됐습니다.더불어민주당 을지로위원회와 대한기계설비건설협회 등은 오늘 국회의원회관에서 '주계약자 공동도급제도 개선 방안...",
-    "published_at": "2026-10-06T17:40:00+09:00",
-    "cluster_id": "145c",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "\"건설 하도급 구조 개선 위해 주계약자 공동도급제 활성화 필요\"",
-    "summary": "건설산업의 다단계 하도급 구조 개선을 위해 더불어민주당 을지로위원회와 대한기계설비건설협회가 주계약자 공동도급제도 활성화 방안을 논의했습니다. 이는 건설업계의 구조적 문제 해결을 위한 정책 개선 논의입니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T17:52:03+09:00",
-    "event_label": "대한기계설비건설협회 주계약자 공동도급제도 개선 방안 발표",
     "importance": 5
   },
   {
@@ -19961,6 +19961,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "호반건설, 동절기 앞두고 건설현장 합동안전점검 진행 - newslock.co.kr",
+    "link": "http://www.newslock.co.kr/news/articleView.html?idxno=139415",
+    "description": "호반건설이 동절기를 앞두고 건설현장 안전관리 강화에 나섰다. 호반건설은 지난 4일 전남광주통합특별시 북구 월출동 '호반써밋 첨단3지구' A7블록 현장에서 동절기 합동안전점검을 실시했다고 5일 밝혔다. 이번 점검에는...",
+    "published_at": "2026-11-05T17:48:00+09:00",
+    "cluster_id": "b90f",
+    "publisher": "newslock.co.kr",
+    "title_clean": "호반건설, 동절기 앞두고 건설현장 합동안전점검 진행",
+    "summary": "호반건설이 동절기를 앞두고 광주 호반써밋 첨단3지구 현장에서 합동안전점검을 실시하며 건설현장 안전관리를 강화하고 있다. 이는 건설 현장의 안전 기준 준수 및 예방 활동을 강조하는 업계의 자체 안전관리 노력이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T17:54:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32215,21 +32231,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-01T16:13:32+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "24 조원대 투자 유치' 구미시… 반도체·로봇,이차전지등 첨단산업 경제... - dkilbo.com",
-    "link": "https://www.dkilbo.com/news/articleView.html?idxno=559171",
-    "description": "또한 산동읍 성수 도시개발지구 247,641㎡ 2710 세대 아파트 건립과 인근 흥안 지구 3215 세대, 인덕지구 1041세대, 적동지구 도시개발 사업 296,340㎡ 면적에 공동 주택 2000여 세대등 본격적 사업 착수시 지역 건설경기...",
-    "published_at": "2026-11-01T15:56:00+09:00",
-    "cluster_id": "5cfd",
-    "publisher": "dkilbo.com",
-    "title_clean": "24 조원대 투자 유치' 구미시… 반도체·로봇,이차전지등 첨단산업 경제...",
-    "summary": "구미시가 반도체, 로봇, 이차전지 등 첨단산업에 24조 원대 투자를 유치하고 있으며, 산동읍과 인근 지구에서 5,000세대 규모의 대규모 도시개발 사업을 본격적으로 추진 중이다. 이는 지역 건설경기 활성화로 이어질 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-01T15:58:28+09:00",
-    "importance": 2
   }
 ]
