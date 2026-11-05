@@ -20202,6 +20202,22 @@
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
+    "title": "현대건설, AI·빅데이터로 현장 품질관리 디지털 전환 속도 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2385260.htm",
+    "description": "현대건설의 큐포켓은 국토교통부 산하 기술 자료 공유 시스템인 '스마트건설기술 마당'에 등록됐다. 국토교통부가 주최하는 '2026 스마트건설 챌린지' 단지·주택 분야 스마트 기술 부문 본선에도 진출했다. 현대건설...",
+    "published_at": "2026-11-05T12:55:00+09:00",
+    "cluster_id": "6072",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "현대건설, AI·빅데이터로 현장 품질관리 디지털 전환 속도",
+    "summary": "현대건설의 AI·빅데이터 기반 품질관리 솔루션 '큐포켓'이 국토교통부 스마트건설기술 마당에 등록되고 2026 스마트건설 챌린지 본선에 진출했다. 건설 현장의 디지털 전환을 주도하는 기술혁신 사례로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T12:59:31+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
     "title": "테크윌, '2026 스마트건설·안전·AI 엑스포' 참가 - gokorea.kr",
     "link": "https://www.gokorea.kr/news/articleView.html?idxno=884218",
     "description": "안전장비 전문 기업 테크윌이 오는 25일부터 27일까지 개최되는 '2026 스마트건설·안전·AI 엑스포'에 참가한다. 전시 제품은 '스마트추락질식방지틀'과 '전자동 스마트팬'을 결합한 복합 안전 시스템이다. 맨홀 개방이나...",
@@ -32228,22 +32244,6 @@
     "summary": "국토교통부가 정의경 제2차관을 통해 경기도 시흥시의 주차로봇 실증사업 현장을 점검하고, 이동로봇 상용화를 위해 규제 개선 및 로봇친화적 환경 조성에 나서고 있다. 현대자동차 컨소시엄이 추진 중인 이 사업은 스마트도시 규제샌드박스를 활용한 것으로, 정 차관은 상용화 준비를 서둘러야 한다고 강조했다.",
     "sentiment": "positive",
     "collected_at": "2026-10-30T18:10:27+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "청주시, 지역건설산업 활성화 위해 민·관 업무협약 - ccreview.co.kr",
-    "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=361443",
-    "description": "협약은 건설경기 침체로 어려움을 겪는 지역 건설업체의 공사 참여 기회를 넓히고 지역 자재·장비사용과 인력 채용을 늘리기 위해 마련됐다. 시를 비롯해 충북개발공사, 청주도시공사, 대한전문건설협회 충북도회와...",
-    "published_at": "2026-10-30T17:50:00+09:00",
-    "cluster_id": "2f02",
-    "publisher": "ccreview.co.kr",
-    "title_clean": "청주시, 지역건설산업 활성화 위해 민·관 업무협약",
-    "summary": "청주시가 건설경기 침체로 어려움을 겪는 지역 건설업체의 공사 참여 기회 확대를 위해 민·관 업무협약을 체결했다. 지역 자재·장비 사용 촉진과 인력 채용 확대를 통해 지역 건설산업 활성화를 도모하는 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T17:55:18+09:00",
     "importance": 2
   }
 ]
