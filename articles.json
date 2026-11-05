@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "기계설비건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "폭염ㆍ폭우 직격탄 건설현장, 정작 ‘기후보험’ 소외 위기 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051311459660805",
+    "description": "우선 기후위기적응법 시행령에 건설공제조합, 전문건설공제조합, 기계설비건설공제조합이 운영하는 공제를 기후보험 운영 주체로 명문화하는 조문을 신설해야 한다. 아울러 기후보험 취약계층 보험료 국고 지원 대상에...",
+    "published_at": "2026-11-06T06:22:00+09:00",
+    "cluster_id": "101b",
+    "publisher": "대한경제",
+    "title_clean": "폭염ㆍ폭우 직격탄 건설현장, 정작 ‘기후보험’ 소외 위기",
+    "summary": "건설현장이 폭염·폭우 등 기후위기에 노출되어 있으나 기후보험 지원에서 소외되고 있다. 기후위기적응법 시행령 개정을 통해 건설공제조합, 전문건설공제조합, 기계설비건설공제조합 등을 기후보험 운영 주체로 명문화하고 취약계층 보험료 국고 지원을 확대할 필요가 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-06T06:29:23+09:00",
+    "event_label": "기계설비건설공제조합 기후보험 운영 주체 지정 관련 정책 개선 요구",
+    "importance": 7
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -19842,6 +19859,22 @@
     "importance": 3
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 눈대중·수기 대신 데이터…현장 품질관리 전면 디지털 - economytalk.kr",
+    "link": "http://www.economytalk.kr/news/articleView.html?idxno=425112",
+    "description": "국토교통부 산하 기술자료 공유 시스템인 '스마트건설기술 마당'에 등록됐으며, 국토교통부가 주최하는 '2026 스마트건설 챌린지' 단지·주택 분야 스마트 기술 부문 본선에도 진출한 바 있다. 이날 현대건설 관계자는...",
+    "published_at": "2026-11-06T06:20:00+09:00",
+    "cluster_id": "84d3",
+    "publisher": "economytalk.kr",
+    "title_clean": "현대건설, 눈대중·수기 대신 데이터…현장 품질관리 전면 디지털",
+    "summary": "현대건설이 건설 현장의 품질관리를 눈대중·수기에서 데이터 기반으로 전환하는 디지털화를 추진 중이다. 이 기술은 국토교통부의 스마트건설기술 마당에 등록되었으며, 2026 스마트건설 챌린지 본선에도 진출했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-06T06:29:23+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32192,37 +32225,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T00:08:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "청주시, 지역 건설업체 공사 참여 확대 나선다 - 충청도민일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5TFh5QkpyVzAxYVFBNzByNE9ucnpud1pvTTBCa3NaMmMxV09VVXFQYUxDWXJ6d3hkZ1RsYWI2aDF0QmFnQzgtck5uX1Z4MEFkUm1LNEFCbzJ0TzBsT3RQak1XQk0xTHBVTjJocA?oc=5",
-    "description": "[충청도민일보 이병호 기자] = 청주시가 공공기관과 민간 건설사에 지역 건설업체의 공사 참여 확대를 요청하고, 지역 자재·장비 사용과 인력 채용을 늘리는 데 힘을",
-    "published_at": "2026-11-01T15:36:49+09:00",
-    "cluster_id": "4a2b",
-    "publisher": "충청도민일보",
-    "title_clean": "청주시, 지역 건설업체 공사 참여 확대 나선다",
-    "summary": "청주시가 공공기관과 민간 건설사에 지역 건설업체의 공사 참여 확대를 요청하고 있다. 지역 자재·장비 사용 및 인력 채용 확대를 통해 지역 건설업계 활성화를 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-01T21:58:39+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "전남광주시, 기반시설 확충 위해 건설 경쟁력 해법 AI서 찾는다 - MTN 머니투데이방송",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85OVpEOGZaTk9BNl9tdVQ1b1BJYldIMmt0WEp2RUxKbENTb2pMRGVIVG42NVBfUjloSzlCaWpaWFF2NEsxRlJSUE03Vmp1SGd0bmVRTUdQZHBwb245WlRJ?oc=5",
-    "description": "전남광주특별시는 지난달 29-30일 여수엑스포컨벤션센터에서 건설 분야 공무원, 교수 등 800여 명이 참석한 가운데 ‘2026년 건설산업기술 연찬회’를 개최했다. /제공=전남광주시 시설물의 상태를 인공지능(AI)으로 예측하고, 현실 공간을 가상으로 구현한 디지털트윈으로…",
-    "published_at": "2026-11-01T21:42:58+09:00",
-    "cluster_id": "82db",
-    "publisher": "MTN 머니투데이방송",
-    "title_clean": "전남광주시, 기반시설 확충 위해 건설 경쟁력 해법 AI서 찾는다",
-    "summary": "전남광주특별시가 건설산업 경쟁력 강화를 위해 AI와 디지털트윈 기술 도입을 추진하고 있다. 건설 분야 공무원과 교수 등 800여 명이 참석한 '2026년 건설산업기술 연찬회'를 개최하여 시설물 관리 고도화 방안을 논의했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-01T21:48:47+09:00",
-    "importance": 2
   }
 ]
