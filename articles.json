@@ -20284,6 +20284,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "호반건설, 동절기 건설현장 합동안전점검…화재·한파 선제 예방 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GSjVRVVBxc0RfdGZLVGh6Z0ZtSFdxckxMOWtiUDBJWlZWX1N6TG9wTmN1bUJfQmc3bWRHMXZ2eUQ1dnVVRzN6U2VjeGwyNnZCcEYxVUVIakVRbHRp?oc=5",
+    "description": "[서울=뉴스핌] 송현도 기자 = 호반건설이 겨울철 기온 급강하에 대비해 건설 현장 내 안전보건 점검을 전면 강화한다.5일 호반건설은 전날 전남광주 북구 월출동",
+    "published_at": "2026-11-05T10:29:00+09:00",
+    "cluster_id": "e841",
+    "publisher": "뉴스핌",
+    "title_clean": "호반건설, 동절기 건설현장 합동안전점검…화재·한파 선제 예방",
+    "summary": "호반건설이 동절기 건설현장 안전보건 점검을 전면 강화하여 화재와 한파 등 겨울철 재해를 선제적으로 예방하고 있다. 건설현장의 안전관리 강화는 산업재해 예방을 통해 건설업계의 안전성을 제고하려는 움직임이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T10:34:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32234,21 +32250,5 @@
     "sentiment": "negative",
     "collected_at": "2026-10-30T15:41:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "내실 다진 DL이앤씨, 3분기 누적 영업익 4241억…전년比 31%↑ - mediapen.com",
-    "link": "https://www.mediapen.com/news/view/1133923",
-    "description": "순현금 기조를 유지하면서 재무 부담을 낮춘 만큼 건설경기 변동이나 대형 프로젝트 수행 과정에서 발생할 수 있는 비용 부담에도 대응 여력을 확보했다는 설명이다.",
-    "published_at": "2026-10-30T15:32:00+09:00",
-    "cluster_id": "d399",
-    "publisher": "mediapen.com",
-    "title_clean": "내실 다진 DL이앤씨, 3분기 누적 영업익 4241억…전년比 31%↑",
-    "summary": "DL이앤씨가 3분기 누적 영업익 4241억으로 전년 대비 31% 증가했으며, 순현금 기조 유지로 재무 건전성을 강화했다. 이를 통해 건설경기 변동성과 대형 프로젝트 수행 시 비용 부담에 대응할 수 있는 여력을 확보했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-30T15:41:37+09:00",
-    "importance": 2
   }
 ]
