@@ -4267,23 +4267,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "공공 '주계약자 공동도급' 연 7.8건…\"상시 제도로 바꿔야\" - hankyung.com",
-    "link": "https://www.hankyung.com/article/202610064891i",
-    "description": "더불어민주당 을지로위원회와 민병덕 의원 등 국회의원 6명, 대한전문건설협회, 대한기계설비건설협회는 6일 오전 국회 의원회관에서 ‘주계약자 공동도급제도 개선 방안 토론회’를 공동 개최했다. 토론회에선 현행...",
-    "published_at": "2026-10-06T10:24:00+09:00",
-    "cluster_id": "2b3b",
-    "publisher": "hankyung.com",
-    "title_clean": "공공 '주계약자 공동도급' 연 7.8건…\"상시 제도로 바꿔야\"",
-    "summary": "대한기계설비건설협회 등이 주계약자 공동도급제도 개선을 위한 토론회를 개최했다. 현행 연 7.8건 수준의 제도를 상시 제도로 전환해야 한다는 입장을 제시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-06T10:38:55+09:00",
-    "event_label": "대한기계설비건설협회 주계약자 공동도급제도 개선 토론회 개최",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20284,6 +20267,38 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[건설업계 동향] 현대건설ㆍ대우건설ㆍ쌍용건설 (11.5) - weeklytoday.com",
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=801085",
+    "description": "큐포켓은 국토교통부 '2026 스마트건설 챌린지' 단지·주택 분야 본선에 올랐다. 현대건설 관계자는 \"앞으로도 AI 기반 분석 기능과 현장 데이터 활용 체계를 지속적으로 고도화해 스마트 품질관리 기술의 활용 범위를...",
+    "published_at": "2026-11-05T10:34:00+09:00",
+    "cluster_id": "820c",
+    "publisher": "weeklytoday.com",
+    "title_clean": "[건설업계 동향] 현대건설ㆍ대우건설ㆍ쌍용건설 (11.5)",
+    "summary": "현대건설의 스마트건설 솔루션 '큐포켓'이 국토교통부의 '2026 스마트건설 챌린지' 본선에 선정됐다. 현대건설은 AI 기반 분석과 현장 데이터 활용 체계를 고도화하여 스마트 품질관리 기술의 활용 범위를 확대할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T10:39:21+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 품질관리 시스템 '큐포켓·큐콘' 고도화…AI·빅데이터 접목 - newspim.com",
+    "link": "https://www.newspim.com/news/view/20261105000391",
+    "description": "큐포켓은 국토교통부 산하 '스마트건설기술 마당' 등록과 함께 '2026 스마트건설 챌린지' 본선에 오르는 등 기술 경쟁력을 입증받고 있다. 현대건설 관계자는 \"현대건설은 업계 최초로 스마트 통합 품질관리 시스템인...",
+    "published_at": "2026-11-05T10:34:00+09:00",
+    "cluster_id": "df7f",
+    "publisher": "newspim.com",
+    "title_clean": "현대건설, 품질관리 시스템 '큐포켓·큐콘' 고도화…AI·빅데이터 접목",
+    "summary": "현대건설이 AI와 빅데이터를 활용한 품질관리 시스템 '큐포켓·큐콘'을 고도화하고 있다. 큐포켓은 국토교통부 등록과 '2026 스마트건설 챌린지' 본선 진출로 기술 경쟁력을 입증받았다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T10:39:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32234,21 +32249,5 @@
     "sentiment": "positive",
     "collected_at": "2026-10-30T15:41:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대제철, 주주환원 시계 늦췄다 '밸류업 계획' 내년으로 - bloter.net",
-    "link": "https://www.bloter.net/news/articleView.html?idxno=677295",
-    "description": "철강산업의 투자 매력도 하락과 건설경기 부진 등이 기업가치 저평가의 주요 원인이라는 판단이었다. 이에 중장기 성장 전략과 주주환원 정책을 함께 제시해 시장의 평가를 개선하겠다는 구상이었다. 그러나 3분기에도...",
-    "published_at": "2026-10-30T15:34:00+09:00",
-    "cluster_id": "f280",
-    "publisher": "bloter.net",
-    "title_clean": "현대제철, 주주환원 시계 늦췄다 '밸류업 계획' 내년으로",
-    "summary": "현대제철이 기업가치 저평가 문제를 해결하기 위해 추진하던 '밸류업 계획'을 내년으로 연기했다. 철강산업의 투자 매력도 하락과 건설경기 부진이 주요 원인으로 지목되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-30T15:41:37+09:00",
-    "importance": 4
   }
 ]
