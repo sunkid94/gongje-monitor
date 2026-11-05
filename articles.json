@@ -4182,23 +4182,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "[이슈국감] 건설공제조합, 융자 줄어도 부실위험 늘어 - hansbiz.co.kr",
-    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870298",
-    "description": "사진=의원실 제공 | 서울=한스경제 한나연 기자 | 건설공제조합의 조합원 융자 규모가 줄어든 반면 회수 위험이 높은 자산은 증가한 것으로 나타났다. 보증사고와 대위변제 부담도 커지면서 건설업계의 자금난에...",
-    "published_at": "2026-10-06T13:24:00+09:00",
-    "cluster_id": "1b39",
-    "publisher": "hansbiz.co.kr",
-    "title_clean": "[이슈국감] 건설공제조합, 융자 줄어도 부실위험 늘어",
-    "summary": "건설공제조합의 조합원 융자 규모가 감소한 반면, 회수 위험이 높은 자산은 증가했다. 보증사고와 대위변제 부담이 커지면서 건설업계의 자금난이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-06T13:34:22+09:00",
-    "event_label": "건설공제조합 융자 감소 중 부실위험 증가",
-    "importance": 7
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20196,6 +20179,22 @@
     "summary": "IPARK현대산업개발이 3분기 주택사업의 수익성 개선으로 영업이익 127% 급증을 기록하며 시장 전망을 초과 달성했다. 외주주택 부문의 높은 이익률과 고원가 현장 준공에 따른 수익성 개선이 주요 요인으로 작용했다.",
     "sentiment": "positive",
     "collected_at": "2026-11-01T13:58:49+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, 콘크리트 품질관리 전 과정 디지털화…'큐콘 v3' 탑재 - fnnews.com",
+    "link": "https://www.fnnews.com/news/202611051325052484",
+    "description": "큐포켓은 국토부 산하 기술자료 공유 시스템 '스마트건설기술 마당'에 등록됐고, 국토교통부가 주최하는 '2026 스마트건설 챌린지' 단지·주택 분야 스마트 기술 부문 본선에도 올랐다. 현대건설 관계자는 \"현대건설은...",
+    "published_at": "2026-11-05T13:27:00+09:00",
+    "cluster_id": "1fbb",
+    "publisher": "fnnews.com",
+    "title_clean": "현대건설, 콘크리트 품질관리 전 과정 디지털화…'큐콘 v3' 탑재",
+    "summary": "현대건설이 콘크리트 품질관리 전 과정을 디지털화한 '큐콘 v3'를 개발했으며, 국토부 스마트건설기술 마당에 등록되고 2026 스마트건설 챌린지 본선에 선정됐다. 이는 건설 자동화 및 품질관리 고도화를 통한 업계의 기술 혁신 사례다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T13:34:32+09:00",
     "importance": 2
   },
   {
