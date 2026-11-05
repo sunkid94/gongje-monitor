@@ -20199,6 +20199,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "대법 “공사대금 과다 여부, 계약 체결 당시 기준으로 판단” - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051138243820784",
+    "description": "다만 1심은 A씨의 업무상횡령과 사인(도장) 위조ㆍ행사, 건설산업기본법 위반 혐의 등을 유죄로 인정해 징역 1년을 선고했다. B씨에게는 무죄가 선고됐다. 그러자 검찰은 2심에서 손해액을 특정하지 않은 업무상배임...",
+    "published_at": "2026-11-05T12:20:00+09:00",
+    "cluster_id": "788a",
+    "publisher": "대한경제",
+    "title_clean": "대법 “공사대금 과다 여부, 계약 체결 당시 기준으로 판단”",
+    "summary": "대법원이 공사대금 과다 여부를 계약 체결 당시 기준으로 판단해야 한다고 판시했다. 건설업체 임직원의 업무상횡령, 사인 위조 등 부정행위 사건으로 1심에서 A씨는 유죄, B씨는 무죄 판결을 받았다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-05T12:24:35+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "한국콜마, 비타민 E 방출하는 항산화 신소재로 국가 신기술 지정 - 한국면세뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ed01YOWYxeXdybGRWbUhmNnFlQnVVR1hFNnlQcDlDYkJ6ajJWS0ZadDRZR1dwVWhfYnhPQld3RGV5aUNfb01uSExNSUh1cGhySXpqLThzTjhKU1ZYZWkybUV5elhwck51VHc?oc=5",
+    "description": "한국콜마가 피부 노화와 관련된 물질에 반응해 항산화 성분을 방출하는 신소재로 국가 신기술(NET) 지정을 받았다. 제약 분야의 표적 치료 원리에서 착안한 기술로, 향후 프리미엄 항노화 화장품 개발에 활용할 계획이다.한국콜마는 전북대학교 연구팀과 공동 개발한 항산화 신소재",
+    "published_at": "2026-11-05T12:01:20+09:00",
+    "cluster_id": "0a2d",
+    "publisher": "한국면세뉴스",
+    "title_clean": "한국콜마, 비타민 E 방출하는 항산화 신소재로 국가 신기술 지정",
+    "summary": "한국콜마가 피부 노화 물질에 반응해 항산화 성분을 방출하는 신소재로 국가 신기술(NET) 지정을 받았다. 제약의 표적 치료 원리를 응용한 기술로, 프리미엠 항노화 화장품 개발에 활용할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T12:24:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32213,37 +32245,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-10-30T17:40:28+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"공사비 늘어나면 민간이 다 뒤집어써라?\"…체코 원전 뒤통수 맞은 대우... - newsquest.co.kr",
-    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=303878",
-    "description": "체코 원전 건설을 위해 8년 가까이 손잡았던 '팀코리아'가 시공계약을 맺지 못하고 갈라서자 대우건설 노동조합이 반발하고 나섰다. 한수원이 앞으로 공사비가 늘어날 경우 발생할 위험을 민간 건설사에 떠넘기려 했다는...",
-    "published_at": "2026-10-30T17:36:00+09:00",
-    "cluster_id": "f06a",
-    "publisher": "newsquest.co.kr",
-    "title_clean": "\"공사비 늘어나면 민간이 다 뒤집어써라?\"…체코 원전 뒤통수 맞은 대우...",
-    "summary": "체코 원전 프로젝트에서 한수원이 공사비 증가 위험을 민간 건설사에 전가하려 하자 대우건설 노동조합이 반발했다. 팀코리아가 8년 협력 끝에 시공계약 체결에 실패하며 국내 건설사의 해외 대형 프로젝트 수주 기회가 좌절되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-30T17:40:28+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "중흥토건·중흥건설, 대표가 직접 겨울철 대비 현장 안전 점검 - 위키리크스한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FemlwVjBRa2dLbHB0d1EySkU4SkhLbHlGeU5yZzVrY2RwQTBOcmtCTkZyc0p5Qmw3eGNHUU40V3RiVUlRLS13ZzFFN2hlcUVDUW5TWjlhSXNqSXF5NXNnemgyQllIcWFrVWRUVzNlNA?oc=5",
-    "description": "김해근 중흥토건 대표이사와 이경호 중흥건설 대표이사가 겨울철을 앞두고 주요 공사 현장을 대상으로 안전보건 점검을 실시하며 안전관리 강화에 나섰다.중흥그룹은 지난 27일 김해근 중흥토건 대표가 경기 양주시 ‘양주역 중흥S-클래스’ 공사 현장을 방문해 안전보건 관리 체계의 이행 상태와 현장 안전관리 실태를 직접 점검했다고 30일 전했다.이번 점검에서는 현장 내 위험 요인과 안전보건 관리 현황을 살펴보고, 개선이 필요한 사항을 확인했다. 점검 이후에는 현장 임직원들과 간담회를 열어 다양한 건의 사항을 청취했다.특히 김 대표는 법적 기준",
-    "published_at": "2026-10-30T17:19:26+09:00",
-    "cluster_id": "9c2a",
-    "publisher": "위키리크스한국",
-    "title_clean": "중흥토건·중흥건설, 대표가 직접 겨울철 대비 현장 안전 점검",
-    "summary": "중흥토건·중흥건설의 대표이사들이 겨울철 안전사고 예방을 위해 주요 공사 현장에 대한 안전보건 점검을 직접 실시했다. 현장 위험요인 파악, 안전관리 실태 확인, 임직원 간담회 등을 통해 안전관리 강화에 나섰다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-30T17:25:35+09:00",
-    "importance": 2
   }
 ]
