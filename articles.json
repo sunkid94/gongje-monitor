@@ -19910,6 +19910,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "여주시·노동안전지킴이, 산업재해예방 합동 점검 실시 - 팔당유역신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92RmI0OF82cHdHalQ1VEQtc1J3UDdyNC04Tklkc0V3ZFFaNlMyTmxVLWVqQVJYUy14YkpSSDQ2UUEtSjNZUlF1aEFvaHVPZm9sU19LckxuQkFrMkpnR3NrMWVwLVRHSDZ1LW1J?oc=5",
+    "description": "노동안전의 날을 맞아 오학동 소재 건설 공사 현장을 방문, 여주시 노동안전지킴이 및 여주노동권익센터와 합동 안전점검을 실시했다.",
+    "published_at": "2026-11-05T20:15:37+09:00",
+    "cluster_id": "deab",
+    "publisher": "팔당유역신문",
+    "title_clean": "여주시·노동안전지킴이, 산업재해예방 합동 점검 실시",
+    "summary": "여주시가 노동안전의 날을 맞아 건설 공사 현장에 대한 합동 안전점검을 실시했다. 노동안전지킴이와 노동권익센터가 참여하여 산업재해 예방 활동을 추진했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T21:09:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32211,22 +32227,6 @@
     "summary": "호남권 반도체 클러스터 등 대형 투자사업 추진으로 전남광주 건설수주가 3배 급증했다. 지역 산업 생산과 소비, 건설경기가 실제 경기 회복으로 이어질지 주목되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-01T18:28:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[사람&스토리]윤인호 ㈜호산개발 대표 \"지역과 함께 성장하는 기업 만들... - namdonews.com",
-    "link": "https://www.namdonews.com/news/articleView.html?idxno=927848",
-    "description": "건설경기 침체로 기업 경영 여건이 녹록지 않은 상황에서도 윤 대표는 기업 내부의 복지 지원에 머무르지 않고 지역사회와 소비의 선순환을 만들기 위해 직원 격려금 지급 방식을 지역상품권으로 선택했다. 박성현...",
-    "published_at": "2026-11-01T18:10:00+09:00",
-    "cluster_id": "4c24",
-    "publisher": "namdonews.com",
-    "title_clean": "[사람&스토리]윤인호 ㈜호산개발 대표 \"지역과 함께 성장하는 기업 만들...",
-    "summary": "윤인호 ㈜호산개발 대표가 건설경기 침체 속에서도 직원 격려금을 지역상품권으로 지급하여 지역사회와의 선순환 구조를 모색하고 있다. 기업의 사회적 책임과 지역 경제 활성화를 동시에 추구하는 경영 사례를 소개한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-01T18:13:32+09:00",
     "importance": 2
   }
 ]
