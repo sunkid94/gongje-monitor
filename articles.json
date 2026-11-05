@@ -3910,21 +3910,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "K-FINCO 새 전무이사에 김수상 전 국토부 실장 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202610061826536349",
-    "description": "전문건설공제조합(K-FINCO)이 신임 전무이사로 김수상 전 국토교통부 주택토지실장(사진)을 선임했다. 임기는 6일부터 2028년 10월 5일까지 2년이다. 6일 K-FINCO에 따르면 조합은 지난 2일 제284차 운영위원회를 열어 김 전...",
-    "published_at": "2026-10-06T18:28:00+09:00",
-    "cluster_id": "e5e7",
-    "publisher": "fnnews.com",
-    "title_clean": "K-FINCO 새 전무이사에 김수상 전 국토부 실장",
-    "summary": "전문건설공제조합(K-FINCO)이 김수상 전 국토교통부 주택토지실장을 신임 전무이사로 선임했다. 임기는 2024년 6일부터 2028년 10월 5일까지 2년이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-06T18:42:45+09:00",
-    "event_label": "전문건설공제조합 신임 전무이사 김수상 선임",
-    "importance": 5
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "1.2조 신월시영 재건축, 2차 현설도 유찰…대우건설 수의계약으로 가나 - socialvalue.kr",
+    "link": "https://www.socialvalue.kr/news/view/1065587931267315",
+    "description": "1차 입찰에 이어 2차 현장설명회에도 대우건설만 참여하면서 유찰됐다. ▲5일 서울 양천구 신월동에 위치한 신월시영아파트 전경/사진=최연돈 기자 ◇ 경쟁입찰 무산에 수의계약 가능성…대우건설 수주 여부 관심 5일...",
+    "published_at": "2026-11-05T18:40:00+09:00",
+    "cluster_id": "e057",
+    "publisher": "socialvalue.kr",
+    "title_clean": "1.2조 신월시영 재건축, 2차 현설도 유찰…대우건설 수의계약으로 가나",
+    "summary": "1.2조 규모 신월시영아파트 재건축 사업이 2차 현장설명회에서도 대우건설만 참여하면서 유찰됐다. 경쟁입찰이 무산돼 수의계약으로 진행될 가능성이 높아지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-05T18:44:37+09:00",
+    "importance": 4
   },
   {
     "keyword": "현대산업개발",
@@ -19909,22 +19908,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T06:08:28+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 시공 계약 무산에…정부, 비상관리체제 가동 - news.einfomax.co.kr",
-    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442380",
-    "description": "재판매 및 DB 금지] photo@yna.co.kr 한국수력원자력과 대우건설[047040] 컨소시엄 간 체코 두코바니 원전 시공 계약 협상이 결렬되면서 산업통상부가 장관 주도의 비상 관리체제를 가동했다. 2일 산업부에 따르면, 김정관...",
-    "published_at": "2026-11-02T06:02:00+09:00",
-    "cluster_id": "2c6c",
-    "publisher": "news.einfomax.co.kr",
-    "title_clean": "체코 원전 시공 계약 무산에…정부, 비상관리체제 가동",
-    "summary": "한국수력원자력과 대우건설 컨소시엄이 체코 두코바니 원전 시공 계약 협상 결렬로 대규모 수주 기회를 상실했다. 산업부가 장관 주도의 비상 관리체제를 가동하며 건설업계에 미치는 부정적 영향을 관리 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T06:08:28+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
