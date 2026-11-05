@@ -19910,6 +19910,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "이장섭 청주시장, 국토부 찾아 핵심 교통현안 지원 건의 - 미디어투데이",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PeHVDWlBldFppWnl6N3RMVFdkdzQ1elpJR3JUYlhIVE80TmpQR2dEQ3RjY2pOUjFvMzY1Yy1ubDBsN0FhRVFMSExn?oc=5",
+    "description": "이장섭 청주시장, 국토부 찾아 핵심 교통현안 지원 건의 [미디어투데이=지원배기자] 이장섭 청주시장은 5일 국토교통부를 방문해 정의경 제2차관과 면",
+    "published_at": "2026-11-05T16:00:00+09:00",
+    "cluster_id": "6a8d",
+    "publisher": "미디어투데이",
+    "title_clean": "이장섭 청주시장, 국토부 찾아 핵심 교통현안 지원 건의",
+    "summary": "이장섭 청주시장이 국토교통부를 방문하여 정의경 제2차관과 면담을 통해 청주시의 핵심 교통현안에 대한 지원을 건의했다. 기사 본문이 완전하지 않아 구체적인 현안 내용은 파악되지 않는다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-05T23:09:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32211,22 +32227,6 @@
     "summary": "대규모 건설 프로젝트로 인해 농경지가 건설 현장으로 급속히 변모하고 있으며, 이에 따라 건설 노동자들의 출퇴근이 증가하여 주변 상권이 활성화되고 있는 상황을 보도하고 있습니다. 건설업계의 대규모 프로젝트 진행으로 인한 노동 수요 증가를 반영하는 기사입니다.",
     "sentiment": "positive",
     "collected_at": "2026-11-01T19:08:44+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "KISCO홀딩스, 한국철강 완전자회사로 편입 - knnews.co.kr",
-    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1554049",
-    "description": "양사는 철근 수요 감소와 건설경기 부진에 대응하고, 그룹 차원의 생산·구매·물류 체계를 효율화하기 위해 이번 개편을 추진한다고 밝혔다. 주주환원도 병행한다. KISCO홀딩스는 보유 자기주식을 소각하고...",
-    "published_at": "2026-11-01T18:48:00+09:00",
-    "cluster_id": "e33c",
-    "publisher": "knnews.co.kr",
-    "title_clean": "KISCO홀딩스, 한국철강 완전자회사로 편입",
-    "summary": "KISCO홀딩스가 한국철강을 완전자회사로 편입하며 그룹 차원의 생산·구매·물류 체계를 효율화한다. 철근 수요 감소와 건설경기 부진에 대응하기 위한 구조 개편으로, 주주환원도 병행할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-01T18:53:34+09:00",
     "importance": 2
   }
 ]
