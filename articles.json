@@ -4301,21 +4301,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건설경기 부진에 건설공제조합 자산건전성 악화 - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110377",
-    "description": "건설경기 부진이 장기화하면서 건설공제조합의 자산건전성에도 부담이 커지고 있는 것으로 나타났습니다. 국회 국토교통위원회 허영 의원이 국토교통부로부터 제출받은 자료에 따르면, 올 상반기 건설공제조합의...",
-    "published_at": "2026-10-06T09:04:00+09:00",
-    "cluster_id": "15d9",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "건설경기 부진에 건설공제조합 자산건전성 악화",
-    "summary": "건설경기 부진이 장기화하면서 건설공제조합의 자산건전성이 악화되고 있다. 국회 국토교통위원회 허영 의원이 제출받은 자료에 따르면 올 상반기 건설공제조합의 재무 상황이 부담을 받고 있는 것으로 나타났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-06T09:09:01+09:00",
-    "event_label": "건설공제조합 자산건전성 악화",
-    "importance": 7
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성전자 P5 팹2, 내년 1월 골조공사 착수…증설 속도 - dealsite.co.kr",
+    "link": "https://dealsite.co.kr/articles/172111",
+    "description": "1공구는 약 345만㎡ 규모로 대우건설 컨소시엄이 시공을 맡는다. 정부는 '3대 메가프로젝트'를 통해 6개 팹의 가동 시기를 2040년까지 완료한다는 목표를 제시했다. 다만 지장물 조사와 철거 작업 등이 아직 마무리되지...",
+    "published_at": "2026-11-05T09:04:00+09:00",
+    "cluster_id": "d55c",
+    "publisher": "dealsite.co.kr",
+    "title_clean": "삼성전자 P5 팹2, 내년 1월 골조공사 착수…증설 속도",
+    "summary": "삼성전자 P5 팹2가 내년 1월 골조공사를 착수하며 반도체 팹 증설이 가속화되고 있다. 정부의 '3대 메가프로젝트'를 통해 6개 팹 완공을 2040년까지 단계적으로 진행할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-05T09:09:48+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -20300,22 +20299,6 @@
     "sentiment": "positive",
     "collected_at": "2026-10-31T13:03:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "수영만 계류장 약속 철회…아이파크마리나 대책 도마(2부) - the-today.com",
-    "link": "https://www.the-today.com/news/articleView.html?idxno=92781",
-    "description": "31일 부산시·HDC그룹 공개자료와 연합뉴스 등의 보도를 종합하면 이 사업은 HDC그룹 계열사 아이파크마리나가 시행·운영하고 아이파크현대산업개발(옛 HDC현대산업개발)이 시공한다. 아이파크마리나는 준공 후 시설을...",
-    "published_at": "2026-10-31T13:00:00+09:00",
-    "cluster_id": "70f5",
-    "publisher": "",
-    "title_clean": "수영만 계류장 약속 철회…아이파크마리나 대책 도마(2부) - the-today.com",
-    "summary": "HDC그룹 계열사 아이파크마리나가 시행하는 수영만 계류장 사업에서 약속한 대책을 철회하면서 논란이 발생했다. 준공 후 시설 운영 관련 문제로 도마에 오르고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-31T13:03:26+09:00",
-    "importance": 4
   },
   {
     "keyword": "스마트건설",
