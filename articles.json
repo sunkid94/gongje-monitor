@@ -3587,6 +3587,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 나이지리아 인도라마 4호기 수주…플랜트 사업 확대 - thedailypost.kr",
+    "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116725",
+    "description": "|데일리포스트=송협 대표기자| \"이번 낙찰통지서 접수는 대우건설의 기술력과 사업관리 역량을 다시 한번 인정받은 성과입니다. 축적된 사업 경험과 현지 네트워크를 바탕으로 나이지리아를 비롯한 아프리카 및...",
+    "published_at": "2026-11-06T19:48:00+09:00",
+    "cluster_id": "5305",
+    "publisher": "thedailypost.kr",
+    "title_clean": "대우건설, 나이지리아 인도라마 4호기 수주…플랜트 사업 확대",
+    "summary": "대우건설이 나이지리아 인도라마 4호기 프로젝트를 수주하며 플랜트 사업을 확대하고 있다. 이는 대우건설의 기술력과 사업관리 역량이 인정받은 성과로, 아프리카 시장 진출을 강화하는 계기가 될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-06T19:55:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -19569,22 +19585,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:00:46+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 산업부에 체코 원전 재협상 중재 요청 [건설·분양오늘] - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205699",
-    "description": "대우건설이 한국수력원자력의 체코 신규 원전 건설사업 시공계약 협상 종료에 유감을 표하며 산업통상부에 재협상 중재를 요청했다. 2일 대우건설은 입장문을 내고 \"하루라도 빨리 체코 신규 원전 건설사업이...",
-    "published_at": "2026-11-02T13:48:00+09:00",
-    "cluster_id": "49d6",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "대우건설, 산업부에 체코 원전 재협상 중재 요청 [건설·분양오늘]",
-    "summary": "대우건설이 한국수력원자력과의 체코 원전 건설사업 시공계약 협상 종료에 대해 산업통상부에 재협상 중재를 요청했다. 대우건설은 사업 추진을 위한 정부 개입을 촉구하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:00:46+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
