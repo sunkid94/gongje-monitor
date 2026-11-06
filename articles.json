@@ -19556,6 +19556,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "건설사 수주 목표 잇단 상향…내년 건설경기 회복세 돌아서나 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2386021.htm",
+    "description": "삼성E&A·삼성물산·대우건설·현산, 목표 합계 26조원 확대 수주 올해 8.9% 증가 전망…내년 건설투자 2.7% 성장 예상 주요 건설사들이 올해 연간 신규 수주 목표를 잇달아 높이면서 내년 건설경기 회복에 대한...",
+    "published_at": "2026-11-07T06:36:00+09:00",
+    "cluster_id": "27fa",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "건설사 수주 목표 잇단 상향…내년 건설경기 회복세 돌아서나",
+    "summary": "삼성E&A, 삼성물산, 대우건설, 현산 등 주요 건설사들이 올해 수주 목표를 26조원으로 확대하면서 건설경기 회복 신호를 보이고 있다. 올해 수주는 전년 대비 8.9% 증가, 내년 건설투자는 2.7% 성장이 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-07T06:39:53+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "고수익 사업에 사활…불황 속 돌파구 찾는 건설사들 - nocutnews.co.kr",
     "link": "https://www.nocutnews.co.kr/news/6603516?utm_source=naver&utm_medium=article&utm_campaign=20261107060107",
     "description": "국내 정비사업에 사활…강남·여의도·목동·성수 수주 경쟁 건설경기 침체로 업황 부진이 이어지는 가운데 건설업계는 국내 대형 정비사업 수주와 해외 시장 개척 등으로 돌파구를 찾고 있다. 건설업계에 따르면...",
@@ -32191,21 +32207,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T12:59:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, 스틸 모듈러 표준평면 20종 개발…BIM 연계해 사업성 검토 지원 - 직썰",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hZEZSQTVtMDk1amdmMGNiS0NRY2J6clBScjl6RVJ5SGlMOUQ2RmYtZVFZeXRsTWVIeUtSQjlWZkZueVZBcTN0MGw1Z05WVlNzaWRkWlF5OEFnVE9LUDU3WlJSTlo0bnNR?oc=5",
-    "description": "[직썰 / 최소라 기자] GS건설이 아파트와 오피스텔, 호텔, 기숙사 등 여러 건축물에 활용할 수 있는 스틸 모듈러 표준평면 20종을 개발했다고 2일 밝혔다.이번 표준평면 개발은 사업 초기부터 건축물의 용도와 규모에 적합한 설계안을 선택하고 예상 공사비를 파악할 수 있도록 하는 데 목적이 있다. 프로젝트마다 개별적으로 진행하던 설계와 견적 검토 절차를 간소화해 모듈러 사업 관련 의사결정의 효율성을 높인다는 계획이다.스틸 모듈러는 주요 구조체와 마감재 등을 공장에서 제작한 후 현장에서 조립하는 건축 공법이다. 공사 기간을 단축하고 품",
-    "published_at": "2026-11-02T10:27:26+09:00",
-    "cluster_id": "6237",
-    "publisher": "직썰",
-    "title_clean": "GS건설, 스틸 모듈러 표준평면 20종 개발…BIM 연계해 사업성 검토 지원",
-    "summary": "GS건설이 아파트, 오피스텔, 호텔 등 다양한 건축물에 적용 가능한 스틸 모듈러 표준평면 20종을 개발했다. BIM 연계를 통해 사업 초기부터 설계안 선택과 공사비 파악이 용이해지며, 설계·견적 검토 절차가 간소화되어 모듈러 사업의 의사결정 효율성이 높아진다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T12:54:29+09:00",
-    "importance": 2
   }
 ]
