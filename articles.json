@@ -19791,6 +19791,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국토안전관리원·서울시설공단, 첨단 안전관리기술 현장 실증 협력 - 국토일보",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HSkxaN0pldENjejU4WkVkNUFYdHJadjlmak9ZVDZIZ3U3LUI1M3ZNaVY5TVZJR29Hd3VQN1RtZE1EWW5yODJiV0Z5MTBnTEFSaFltejUzTHhwTUQwUEUzUmp2Zw?oc=5",
+    "description": "[국토일보 김현재 기자] 국토안전관리원이 첨단 안전관리기술의 신뢰성 확보와 시설물 유지관리 현장 적용 확대를 위해 실증 기반 성능검증에 나선다.국토안전관리원은 오늘(6일) 서울시설공단과 첨단 안전관리기술의 성능검증 및 현장 활용 확대를 위한 업무협약을 체결했다고 밝혔다.이번 협약은 국토안전원이 수행 중인 ‘스마트 점검·진단 및 측량기술 성능평가체계 개발’ 연구사업의 일환으로 추진됐다.최근 시설물 점검·진단 분야에서 드론과 로봇, 인공지능(AI) 등 첨단기술의 활용이 늘면서 객관적인 성능평가와 현장 적용성 검증의 필요성이 커지고 있다",
+    "published_at": "2026-11-06T13:06:42+09:00",
+    "cluster_id": "a677",
+    "publisher": "국토일보",
+    "title_clean": "국토안전관리원·서울시설공단, 첨단 안전관리기술 현장 실증 협력",
+    "summary": "국토안전관리원이 서울시설공단과 업무협약을 체결하여 드론, 로봇, AI 등 첨단 안전관리기술의 성능검증 및 현장 적용을 추진한다. 시설물 점검·진단 분야에서 첨단기술 활용이 증가함에 따라 객관적 성능평가와 검증체계 개발을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-06T13:15:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32205,21 +32221,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T10:49:30+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[AI 고속도로] 호주 1GW AI 데이터센터 제동…환경 규제에 가동 일정 차... - zdnet.co.kr",
-    "link": "https://zdnet.co.kr/view/?no=20261102103333",
-    "description": "건설 노동자 최대 4300명을 수용할 숙소와 비행장도 조성할 예정이다. 환경보호청은 사업자가 제시한 환경 영향 저감 대책의 실효성을 충분히 신뢰하기 어렵다고 평가했다. 이에 사업자에게 정식 환경영향평가서(EIS)...",
-    "published_at": "2026-11-02T10:35:00+09:00",
-    "cluster_id": "19f3",
-    "publisher": "zdnet.co.kr",
-    "title_clean": "[AI 고속도로] 호주 1GW AI 데이터센터 제동…환경 규제에 가동 일정 차...",
-    "summary": "호주의 1GW AI 데이터센터 프로젝트가 환경규제로 인해 가동이 지연되고 있다. 환경보호청이 사업자의 환경 영향 저감 대책의 실효성을 의심하며 정식 환경영향평가서 제출을 요구했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T10:38:55+09:00",
-    "importance": 4
   }
 ]
