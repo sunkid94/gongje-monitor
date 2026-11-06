@@ -19655,6 +19655,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "민간공급 속도···국토부, 주택공급 통합지원센터 국장급으로 신설 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327388",
+    "description": "정부가 주택 건설사업 과정에서 발생하는 인허가 지연과 금융 애로사항을 해소하기 위한 '주택공급 통합지원센터'를 국장급 조직으로 신설하는 방안을 추진한다.6일 관계 당국에 따르면 국토교통부는 이달 말이나 다음 달 초 센터 출범을 목표로 행정안전부와 조직 신설을 협의하고 있다.센터장은 국장급으로 두고 산하에 2∼3개 과를 설치하는 방안을 검토 중이다.다만 센터를 국토부 주택토지실 산하에 설치할지, 별도 지원단 형태로 운영할지는 아직 확정되지 않았다.이번 조직 신설은 정부가 주택 공급 신속 확대를 최우선 정책 과제로 내세운 가운데 인허가",
+    "published_at": "2026-11-06T18:14:41+09:00",
+    "cluster_id": "bb25",
+    "publisher": "대한전문건설신문",
+    "title_clean": "민간공급 속도···국토부, 주택공급 통합지원센터 국장급으로 신설",
+    "summary": "국토부가 주택 건설사업의 인허가 지연과 금융 애로를 해소하기 위해 '주택공급 통합지원센터'를 국장급 조직으로 신설할 계획이다. 이달 말이나 다음 달 초 출범을 목표로 행안부와 협의 중이며, 센터장은 국장급으로 산하에 2~3개 과를 설치할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-06T18:16:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32197,21 +32213,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T12:29:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "계룡건설, 화성서 노동자 사망…'2026 중대재해 제로' 깨지나 - 땅집고",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycWlsRnYyTHR2bEswakFvOVdwZjhWUDJmTWxneC1DYm1tajd1ZklqRUFfemI0WlJZMThaSHRpTExNTEJScS1ueW00RW1iNkR3akJ1MHNMeUs4RzNNYTFIMUlWeTR2b2tlb25RcUlzZVR2Z3lrTEVsWFdyRF9lYWvSAXNBVV95cUxPeW5yVmpqdzlPQnlzMjJrOXFaUzBRUEtmYnpjTzFoWGNwaUtGa3J5cWlyUXhSMlppLVFFY2FDc0VURmhTYk91cnRoSEhNMEFIWTRsaXR6UzZkalV2cXl6b1ZoMGh2QUQwaUg3TTN6c0RFZGxj?oc=5",
-    "description": "[땅집고] 계룡건설산업 공사 현장에서 협력업체 노동자가 숨지는 사고가 발생해 경찰과 고용노동당국이 조사에 나섰다. 올해 들어 ‘중대재해 ZERO’ 기조를 이어오던 계룡건설 현장에서 발생한 첫 사망 사례다. 금융감독원..",
-    "published_at": "2026-11-02T09:56:09+09:00",
-    "cluster_id": "ff4b",
-    "publisher": "땅집고",
-    "title_clean": "계룡건설, 화성서 노동자 사망…'2026 중대재해 제로' 깨지나",
-    "summary": "계룡건설 화성 공사 현장에서 협력업체 노동자 사망 사고 발생. 올해 '중대재해 ZERO' 기조를 유지해온 계룡건설에서 첫 사망 사례로, 경찰과 고용노동당국이 조사 중.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T12:14:17+09:00",
-    "importance": 4
   }
 ]
