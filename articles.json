@@ -3672,6 +3672,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[줌인] 두산에너빌리티, 대형 원전 넘어 SMR까지 공급망 확대...미국 원... - dailypop.kr",
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=104182",
+    "description": "두산에너빌리티는 미국 대형 원전 주기기 공급 경험을 바탕으로 차세대 원전 기자재 사업까지 영역을 확대하고 있다. 특히 올해 미국 SMR 개발기업들과 잇따라 제작 계약을 체결하면서 기존 협력 관계를 실제 생산...",
+    "published_at": "2026-11-06T17:40:00+09:00",
+    "cluster_id": "5737",
+    "publisher": "dailypop.kr",
+    "title_clean": "[줌인] 두산에너빌리티, 대형 원전 넘어 SMR까지 공급망 확대...미국 원...",
+    "summary": "두산에너빌리티가 대형 원전 주기기 공급 경험을 바탕으로 차세대 SMR(소형모듈원전) 기자재 사업으로 영역을 확대하고 있다. 올해 미국 SMR 개발기업들과 제작 계약을 잇따라 체결하며 새로운 시장 진출을 가속화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-06T17:45:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -19654,22 +19670,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T13:50:31+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 산업부에 체코 원전 재협상·협상 중재 요청 - 위키리크스한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVQ3lYd3dmamxUQ19BZGR6SFR5Mk80N0hYelFjOWNYZkk3Q1BNWDY4Zkg5UUJNUXBvT2szU0xFMmg1OEFMa18xb3lrV2REQi1lMHNzOF82c3JLX1JEQzZqRnM5LTA0Mkdmb1ZpMkFIYw?oc=5",
-    "description": "대우건설이 한국수력원자력과 체코 원전사업의 건설계약 재협상을 요구하는 한편 산업통상부에 협상 중재를 요청했다.대우건설은 2일 산업통상부에서 직접 원청사인 한수원과 대우건설의 지난 협상 과정들을 점검하고, 시공 컨소시엄의 최종 제시안을 검토해 재협상 중재를 요청한다는 입장문을 발표했다.대우건설은 지난 10월 30일 체코 신규 원전 건설사업의 EPC 원청사인 한수원으로부터 건설 계약 협상 종료 공문을 접수했다.한수원은 지난 10월 29일 대우건설 컨소시엄에서 제출한 수정 제안서에 대해 입찰 물량의 대폭 증가분을 반영한 한수원의 요청안을",
-    "published_at": "2026-11-02T13:45:14+09:00",
-    "cluster_id": "e3bf",
-    "publisher": "위키리크스한국",
-    "title_clean": "대우건설, 산업부에 체코 원전 재협상·협상 중재 요청",
-    "summary": "대우건설이 한수원과의 체코 원전 건설계약 협상 결렬에 따라 산업통상부에 재협상 중재를 요청했다. 한수원이 입찰 물량 대폭 증가분을 반영한 요청안을 제시하면서 양사 간 협상이 교착 상태에 빠진 것으로 보인다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T13:50:31+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
