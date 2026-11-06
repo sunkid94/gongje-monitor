@@ -3655,6 +3655,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[줌인] 두산에너빌리티, 대형 원전 넘어 SMR까지 공급망 확대...미국 원전시장 다시 열린다 - 데일리팝",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBWTdDRVduVUhuYTVhREYzd1RIRTFhaGVtRHJ0eEpqVzk3QjZxcVFTeDZDM2ZiNWR4cEFRTzhITjRzZndZaXgxQThsNkhReW5TMEZaNzhRSUs1RktpUEtKRlB2Q01MV1l3?oc=5",
+    "description": "미국이 원자력발전 확대에 속도를 내면서 원전 핵심 기자재를 공급하는 기업들의 사업 기회도 넓어지고 있다. 대형 원전 건설 재개와 소형모듈원전(SMR) 상용화 움직임이 맞물리면서 실제 원자로 설비를 제작할 수 있는 제조 역량의 중요성이 커지는 모습이다.두산에너빌리티는 미국 대형 원전 주기기 공급 경험을 바탕으로 차세대 원전 기자재 사업까지 영역을 확대하고 있다. 특히 올해 미국 SMR 개발기업들과 잇따라 제작 계약을 체결하면서 기존 협력 관계를 실제 생산 사업으로 연결하고 있다.미국 정부는 지난해 5월 발표한 원자력규제위원회(NRC)",
+    "published_at": "2026-11-06T17:40:00+09:00",
+    "cluster_id": "9e1a",
+    "publisher": "데일리팝",
+    "title_clean": "[줌인] 두산에너빌리티, 대형 원전 넘어 SMR까지 공급망 확대...미국 원전시장 다시 열린다",
+    "summary": "미국의 원자력발전 확대 정책에 따라 두산에너빌리티가 대형 원전뿐 아니라 소형모듈원전(SMR) 기자재 공급으로 사업 영역을 확대하고 있다. 올해 미국 SMR 개발기업들과 제작 계약을 체결하며 기존 협력을 실제 생산 사업으로 연결하고 있어 원전 제조업체의 수주 기회가 증대되는 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-06T18:25:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19634,22 +19650,6 @@
     "publisher": "datanews.co.kr",
     "title_clean": "대우건설, 체코 원전 계약 재협상 요청…“산업통상부 중재 필요”",
     "summary": "대우건설이 한국수력원자력과의 체코 신규 원전 EPC 계약 협상 종료 통보에 대해 유감을 표하고 산업통상부의 중재를 통한 재협상을 요청했다. 대규모 해외 원전 프로젝트 수주가 무산될 위기에 처한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T13:50:31+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"체코 원전 시공계약 재협상 요청…산업부 중재해달라\" - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261102098400003?input=1195m",
-    "description": "\"공사비 감액·물량 증가 일부 수용에도 결렬…수백억원 정산없이 선투입\" 대우건설은 한국수력원자력(한수원)과의 체코 신규 원전 건설사업 시공계약 협상이 결렬된 데 대해 유감을 표하며 산업통상부의 중재를 통한...",
-    "published_at": "2026-11-02T13:40:00+09:00",
-    "cluster_id": "2e35",
-    "publisher": "yna.co.kr",
-    "title_clean": "대우건설 \"체코 원전 시공계약 재협상 요청…산업부 중재해달라\"",
-    "summary": "대우건설이 한수원과의 체코 원전 시공계약 협상 결렬에 따라 산업부 중재를 요청했다. 공사비 감액과 물량 증가 일부를 수용했음에도 불구하고 협상이 결렬되어 수백억원이 정산되지 않은 상태로 남아있다.",
     "sentiment": "negative",
     "collected_at": "2026-11-02T13:50:31+09:00",
     "importance": 4
