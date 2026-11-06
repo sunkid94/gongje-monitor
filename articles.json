@@ -19553,6 +19553,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "증평군의회, 주요 건설현장 꼼꼼히 살폈다 - 경충일보",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPdmNabHZBaVhzWUx3N25tMXJIeTZHZHJBVFJjcmV5Qm9IMkxUdWdmSUtDMm9PamNQa3VnVml6bmlBR0NhUFB5WUxFRTJsTEJhMkdaOHVFQ1Y?oc=5",
+    "description": "충북 증평군의회(의장 장천배)가 지역 주요 사업의 추진 상황과 안전관리 실태를 점검하고 군민 편익 증진을 위한 현장 점검을 마무리했다. 이번 현지조사는 조...",
+    "published_at": "2026-11-07T07:02:52+09:00",
+    "cluster_id": "b4dc",
+    "publisher": "경충일보",
+    "title_clean": "증평군의회, 주요 건설현장 꼼꼼히 살폈다",
+    "summary": "충북 증평군의회가 지역 주요 건설현장에 대한 안전관리 실태와 추진 상황을 점검했다. 군민 편익 증진을 위한 현장 점검을 진행한 것으로, 건설 현장의 안전 감시 및 관리 강화를 의미한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-07T07:09:45+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32191,21 +32207,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T13:06:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "울산시, 공공 건설현장 합동 안전점검…구조물·굴착·화재 집중 점검 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56ZXp5UXc2a0VSeHNZMS1kZTU3QmVZdUhvZHBPOEE4c3pqNktTQmdqQzRWdW1WZ090aVlYQmhHRkd4eXQ0V3NoZ1NBOFlHU1pVSzNGc0h3RGJXaFJFTnMyNE9Oaw?oc=5",
-    "description": "[국토일보 김정임 기자] 울산시가 공공 건설현장의 부실시공과 안전사고 예방을 위해 구조물 시공 상태와 지하 굴착, 동절기 화재 대비 등을 집중 점검한다.울산시에 따르면 오늘(2일)부터 오는 18일까지 시와 구·군이 발주한 공공 건설공사 현장을 대상으로",
-    "published_at": "2026-11-02T12:52:54+09:00",
-    "cluster_id": "cdba",
-    "publisher": "국토일보",
-    "title_clean": "울산시, 공공 건설현장 합동 안전점검…구조물·굴착·화재 집중 점검",
-    "summary": "울산시가 2일부터 18일까지 공공 건설현장에 대한 합동 안전점검을 실시한다. 구조물 시공 상태, 지하 굴착, 동절기 화재 등을 집중 점검하여 부실시공과 안전사고를 예방할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T12:59:34+09:00",
-    "importance": 4
   }
 ]
