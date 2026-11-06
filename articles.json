@@ -3604,23 +3604,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "가스공사업협의회, 'LPG배관망사업 직접발주' 역량 집중 - e2news.com",
-    "link": "http://www.e2news.com/news/articleView.html?idxno=334897",
-    "description": "대한기계설비건설협회 가스공사업협의회는 LPG배관망사업 직접발주 등 가스공사업계 업역 확대와 적정 시공환경 조성에 역량을 집중키로 했다. 가스공사업협의회는 7일 기계설비건설회관에서 제101차 정기회의를...",
-    "published_at": "2026-10-07T18:56:00+09:00",
-    "cluster_id": "07db",
-    "publisher": "e2news.com",
-    "title_clean": "가스공사업협의회, 'LPG배관망사업 직접발주' 역량 집중",
-    "summary": "대한기계설비건설협회 가스공사업협의회가 LPG배관망사업 직접발주를 통한 업역 확대에 집중하기로 결정했다. 적정 시공환경 조성과 함께 가스공사업계의 성장 기반을 마련하려는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-07T19:05:30+09:00",
-    "event_label": "대한기계설비건설협회 가스공사업협의회 LPG배관망사업 직접발주 추진 결정",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19619,6 +19602,22 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:00:46+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설산업연맹, 제18회 전국건설기능경기대회 진행 - worknworld.kctu.org",
+    "link": "http://worknworld.kctu.org/news/articleView.html?idxno=510271",
+    "description": "바닥까지 떨어진 건설경기의 침체 속에 진행된 올해 대회는 건설노동자들이 각자의 기능을 인정받는 활력의 장이자 청년 기능공들과 선배 숙련공들이 만날 수 있는 '화합의 공간'이라는데 그 의미가 특별했다. 대회...",
+    "published_at": "2026-11-06T19:18:00+09:00",
+    "cluster_id": "f2d9",
+    "publisher": "worknworld.kctu.org",
+    "title_clean": "건설산업연맹, 제18회 전국건설기능경기대회 진행",
+    "summary": "건설산업연맹이 제18회 전국건설기능경기대회를 개최했다. 침체된 건설경기 속에서 노동자들의 기능을 인정하고 세대 간 화합을 도모하는 의미 있는 행사로 진행됐다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-06T19:26:03+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
