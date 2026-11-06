@@ -19757,6 +19757,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "부천시, 관내 건설 현장 27곳 집중 안전 점검 \"겨울철 대형 사고 막는다\" - 뉴스후플러스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HOGg1aTU3TnFWMGgzTmRnLTg1NUNLanpma19tQks3NXVUZHNuZXNPemJiN0Iyck94dF9mVXZUOFRyTTM5VVRmZ09RUjVKSU1XdmVNc0ItdUtCYWVyT3dreFUxVnlmbW8zRDFqUG9R?oc=5",
+    "description": "부천시가 동절기를 앞두고 관내 대형 건설 현장을 대상으로 고강도 안전 점검에 착수했다. 사소한 부주의가 대형 인명피해로 이어질 수 있는 겨울철을 맞아, 잠재적 위험 요소를 사전에 차단하겠다는 방침이다.부천시(시장 조용익)는 지난 10월 말부터 시가 발주한 주요 공사 현장 중 27개소를",
+    "published_at": "2026-11-06T14:25:00+09:00",
+    "cluster_id": "aaf2",
+    "publisher": "뉴스후플러스",
+    "title_clean": "부천시, 관내 건설 현장 27곳 집중 안전 점검 \"겨울철 대형 사고 막는다\"",
+    "summary": "부천시가 동절기 대형 건설 사고 예방을 위해 관내 27개 건설 현장에 대한 집중 안전 점검을 실시하고 있다. 잠재적 위험 요소 사전 차단을 목표로 고강도 점검에 착수했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-06T14:55:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32203,21 +32219,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T11:09:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, 스틸 모듈러 표준평면 20종 개발…설계·공사비 산정 효율화 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeEMwNDBlaXJKX09YSW1tTi1BMHF5ci1DejJRNjZ5U0J3WjNfbEt5cGJuZllpREtBalMwRmhKSFNGUlM1NVM5X1FtZTNQWFpQU29jSDNYMko5X1JFZFA0dkc3dUYwYnRnX2tOSFdEZ3FWZ29qNXY4dUdIOUlFc2xjSldRN2E4VlR3dlE?oc=5",
-    "description": "GS건설이 아파트와 오피스텔, 호텔, 기숙사 등 다양한 건축물에 적용할 수 있는 스틸 모듈러 표준평면 20종을 개발했다. 건설정보모델링(BIM)을 활용한 공사비 산정 기술과 연계해 사업 초기 단계부터 설계와 예상 공사비를 검토할 수 있도록 한 것이 특징이다.GS건설은 건축물의 용도와 규",
-    "published_at": "2026-11-02T11:01:34+09:00",
-    "cluster_id": "d7e5",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "GS건설, 스틸 모듈러 표준평면 20종 개발…설계·공사비 산정 효율화",
-    "summary": "GS건설이 아파트, 오피스텔, 호텔 등 다양한 건축물에 적용 가능한 스틸 모듈러 표준평면 20종을 개발했다. BIM 기술을 활용해 사업 초기부터 설계와 공사비를 효율적으로 검토할 수 있는 시스템을 구축했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T11:09:51+09:00",
-    "importance": 2
   }
 ]
