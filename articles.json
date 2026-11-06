@@ -3723,21 +3723,20 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "집값·전월세 ‘트리플 강세’에 여야 질타...홍지선 “전세 감소는 메... - m-economynews.com",
-    "link": "https://www.m-economynews.com/news/article.html?no=71437",
-    "description": "민주당 장종태 의원은 한국토지주택공사(LH)가 대전 쪽방촌 사업 현황 자료 제출을 거부한 문제를 제기했고, 같은 당 허영 의원은 건설공제조합의 언론 보도 회유 의혹과 관련해 자료 제출과 정부 차원의 점검을 요구했다....",
-    "published_at": "2026-10-07T15:00:00+09:00",
-    "cluster_id": "d1b4",
-    "publisher": "",
-    "title_clean": "집값·전월세 ‘트리플 강세’에 여야 질타...홍지선 “전세 감소는 메... - m-economynews.com",
-    "summary": "민주당 의원들이 LH의 대전 쪽방촌 사업 자료 제출 거부와 건설공제조합의 언론 보도 회유 의혹을 제기하며 자료 제출과 정부 점검을 요구했다. 집값·전월세 강세 속 여야가 부동산 시장 문제를 질타하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T15:15:27+09:00",
-    "event_label": "건설공제조합 언론 보도 회유 의혹",
-    "importance": 7
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[건설업계 동향] GS건설ㆍ대우건설ㆍIPARK현대산업개발 (11.6) - weeklytoday.com",
+    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=801237",
+    "description": "■ IPARK현대산업개발, 겨울철 앞두고 경영진 현장 점검 - 정경구 대표, 김해도시계획시설 토목공사·김해 신문 센트럴 아이파크 방문 - 지반 동결·해빙 장비 전도 예방 점검···드론·AI CCTV로 현장 관리 강화...",
+    "published_at": "2026-11-06T10:06:00+09:00",
+    "cluster_id": "8d76",
+    "publisher": "weeklytoday.com",
+    "title_clean": "[건설업계 동향] GS건설ㆍ대우건설ㆍIPARK현대산업개발 (11.6)",
+    "summary": "IPARK현대산업개발이 겨울철 시공 안전을 위해 경영진이 직접 현장을 점검하고 있으며, 지반 동결·해빙으로 인한 안전사고 예방에 주력하고 있다. 드론·AI CCTV 등 첨단 기술을 활용한 현장 관리로 안전성을 강화하는 모습을 보이고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-06T15:15:48+09:00",
+    "importance": 2
   },
   {
     "keyword": "현대산업개발",
@@ -19721,22 +19720,6 @@
     "summary": "대우건설이 체코 신규 원전 건설 시공계약 협상 결렬로 산업통상부에 중재를 요청했다. 공사비 감액과 추가 물량 수용에도 불구하고 협상이 결렬되면서 수백억원의 선투입 비용 손실과 사업 지연 우려가 제기되고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-11-02T13:04:27+09:00",
-    "importance": 5
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 체코 원전 협상 종료에 유감…정부 중재 요청 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730097",
-    "description": "대우건설이 체코 신규 원전 건설계약 협상 결렬에 반발하며 산업통상부에 재협상 중재를 요청했다. 한국수력원자력(한수원)의 요구를 반영해 공사비 총액을 낮추고 일부 물량 증가까지 수용하는 수정안을 제출했지만 30여...",
-    "published_at": "2026-11-02T12:54:00+09:00",
-    "cluster_id": "416c",
-    "publisher": "ebn.co.kr",
-    "title_clean": "대우건설, 체코 원전 협상 종료에 유감…정부 중재 요청",
-    "summary": "대우건설이 체코 원전 건설계약 협상 결렬에 대해 산업통상부에 재협상 중재를 요청했다. 공사비 인하와 물량 증가를 수용하는 수정안을 제출했으나 협상이 종료되어 건설업계의 대규모 해외 수주 기회가 무산되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T12:59:34+09:00",
     "importance": 5
   },
   {
