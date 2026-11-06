@@ -19553,6 +19553,22 @@
     "importance": 5
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "대학생 103개 팀, UAM 미래기술 겨뤘다…국토부, 올림피아드 우수팀 시상 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50629",
+    "description": "[건설이코노미뉴스] 미래 도심항공교통(UAM) 산업을 이끌 대학생들의 기술 경쟁이 뜨거워지고 있다. 올해 전국 대학생 UAM 올림피아드에는 103개 팀이 참가해 기체 설계부터 운항 인프라, 상용화 정책까지 다양한 분야에서 참신한 아이디어와 기술력을 선보였다.국토교통부(장관 홍지선)는 지난 5일 경북 김천시 드론자격센터에서 열린 '2026 전국 대학생 UAM 올림피아드'에서 우수한 성과를 거둔 부문별 최우수팀에 국토교통부 장관상을 수여했다고 최근 밝혔다.올해로 5회째를 맞은 이번 대회에는 총 103개 팀이 참가했다. 이는 지난해 69",
+    "published_at": "2026-11-07T08:12:51+09:00",
+    "cluster_id": "1fa4",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "대학생 103개 팀, UAM 미래기술 겨뤘다…국토부, 올림피아드 우수팀 시상",
+    "summary": "국토교통부가 경북 김천에서 '2026 전국 대학생 UAM 올림피아드'를 개최하여 103개 팀이 도심항공교통 기술을 경쟁했다. 올해 5회째 대회로 기체 설계, 운항 인프라, 상용화 정책 등 다양한 분야의 아이디어와 기술력이 선보였으며 우수팀에 장관상을 수여했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-07T08:16:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32191,21 +32207,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T13:14:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "현대차, 공동주택 주차로봇 시연회 개최 - 뉴뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GLVZhSzV3eGJTU01QWkRrUHdvMkFseE1PUjRibUl2NDFYZ3lzdWtVcWFDbl9XaURWLVlnd2h0ZC11ZmVnbHNkQVNHNlZfNGtJMUpJTTdjTmxMZk5JdGxHQldxTElyUQ?oc=5",
-    "description": "현대차그룹이 29일(목) 경기도 시흥시 힐스테이트 더웨이브시티에서 공동주택 주차로봇 시연회를 열고, 현대자동차, 현대위아, 현대건설 컨소시엄이 추진 중인 실증사업",
-    "published_at": "2026-11-02T13:00:39+09:00",
-    "cluster_id": "4478",
-    "publisher": "뉴뉴스",
-    "title_clean": "현대차, 공동주택 주차로봇 시연회 개최",
-    "summary": "현대차그룹이 현대자동차, 현대위아, 현대건설 컨소시엄으로 공동주택 주차로봇 실증사업을 추진 중이며, 경기도 시흥시에서 시연회를 개최했다. 이는 스마트 건설기술 도입으로 공동주택 건설 시장에 새로운 기계설비 수요를 창출할 수 있는 기회이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T13:14:26+09:00",
-    "importance": 2
   }
 ]
