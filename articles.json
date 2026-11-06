@@ -3587,6 +3587,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "263억 찍고 ‘한국 최고가 아파트’ 올랐는데…“로열층은 1층” [슈퍼 ... - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12200965",
+    "description": "자회사 디에스한남이 시행을, 롯데건설이 시공을 맡았다. 애초에는 집을 지어 분양하려 했다. 그런데 시행사와 주택도시보증공사(HUG)가 분양보증 심사에서 분양가에 대한 이견을 좁히지 못하면서 2018년 6월 사업...",
+    "published_at": "2026-11-06T21:49:00+09:00",
+    "cluster_id": "6e15",
+    "publisher": "mk.co.kr",
+    "title_clean": "263억 찍고 ‘한국 최고가 아파트’ 올랐는데…“로열층은 1층” [슈퍼 ...",
+    "summary": "디에스한남과 롯데건설이 시행·시공한 한국 최고가 아파트 프로젝트가 초기 분양가 책정 과정에서 시행사와 HUG 간 이견으로 지연되었으며, 2018년 6월 사업이 변경되는 상황이 발생했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-06T22:00:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -19569,22 +19585,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:00:46+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"체코 신규 원전, 산업부 중재 재협상 요청\" - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=03260326645641784&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "대우건설(047040)은 체코 신규 원전 건설사업의 EPC(설계·조달·시공) 원청사인 한국수력원자력이 일방적인 협상 종료 절차를 진행했다며 산업통상부의 중재를 통한 건설 계약 재협상을 요청한다고 2일 밝혔다. 대우건설은...",
-    "published_at": "2026-11-02T13:50:00+09:00",
-    "cluster_id": "4f87",
-    "publisher": "edaily.co.kr",
-    "title_clean": "대우건설 \"체코 신규 원전, 산업부 중재 재협상 요청\"",
-    "summary": "대우건설이 체코 신규 원전 EPC 사업에서 한국수력원자력의 일방적 협상 종료에 대해 산업통상부의 중재를 통한 건설 계약 재협상을 요청했다. 대형 해외 원전 수주 사업을 둘러싼 계약 분쟁으로, 업계의 대규모 프로젝트 추진에 부정적 영향을 미칠 수 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:00:46+09:00",
-    "importance": 5
   },
   {
     "keyword": "국토교통부 건설",
