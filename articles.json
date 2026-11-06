@@ -19791,6 +19791,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "디지털 국토정보 기술개발 사업단, 2026 K-GEO Festa 참가 - 매일건설신문",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5WXhzUDJTbTFCRzFIcTkzRFBadndBdnZZQTFRcE9NQm9PMmhtRld6cGZZWDJaV3VyOHVmdjVoV2trUm9y?oc=5",
+    "description": "디지털 국토정보 기술개발 사업단은 4일 ‘지자체에서 활용 가능한 디지털 국토정보 기술 세미나’를 열었다.(사진 = LX공사) © 매일건설신문 매",
+    "published_at": "2026-11-05T18:05:00+09:00",
+    "cluster_id": "8576",
+    "publisher": "매일건설신문",
+    "title_clean": "디지털 국토정보 기술개발 사업단, 2026 K-GEO Festa 참가",
+    "summary": "디지털 국토정보 기술개발 사업단이 지자체 대상 세미나를 개최하여 디지털 국토정보 기술을 소개했다. 2026 K-GEO Festa 참가를 통해 관련 기술과 솔루션을 홍보할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-06T13:10:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32205,21 +32221,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T10:38:55+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, 스틸 모듈러 표준평면 20 종 선봬…사업성 검토 획기적 단축 - 스포츠동아",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tamRCV0NySFdtMkN0SzFKMExfVi13VEh4ZE55UEhEbk80UFRybGh6aFlNQXBXZnM0UjdxSGNZcUc0VVVVenU1aEd6M1o1TVZwTmM2SlliY3MyVHZYY1RRVUxpWElnN1RtLWNOMzFlaGdVbVE?oc=5",
-    "description": "[스포츠동아 원성열 기자] GS건설이 아파트와 오피스텔, 호텔 등 다양한 용도에 적용할 수 있는 스틸 모듈러 표준평면 20 종을 개발하고,이를 건물정보모델링(BIM) 기반 공사비 산정 시스템과 연계해 고객의 신속한 사업성 검토를 지원한다고 2일 밝혔다. 스틸 모듈러는…",
-    "published_at": "2026-11-02T10:30:45+09:00",
-    "cluster_id": "22e4",
-    "publisher": "스포츠동아",
-    "title_clean": "GS건설, 스틸 모듈러 표준평면 20 종 선봬…사업성 검토 획기적 단축",
-    "summary": "GS건설이 아파트, 오피스텔, 호텔 등 다양한 용도에 적용 가능한 스틸 모듈러 표준평면 20종을 개발했다. BIM 기반 공사비 산정 시스템과 연계하여 사업성 검토 시간을 획기적으로 단축할 수 있게 되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T10:38:55+09:00",
-    "importance": 2
   }
 ]
