@@ -3655,23 +3655,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "與 “낙하산 인사로 나라살림 망친 국힘 반성부터 하라” - segye.com",
-    "link": "https://www.segye.com/newsView/20261007517981?OutUrl=naver",
-    "description": "그는 “윤석열정부는 에너지분야 전문성이 전무한 대선 캠프 출신 정용기 전 의원을 난방공사 사장으로 임명했었고, 건설·금융 관련 경력이 전무한 이은재 전 의원을 전문건설공제조합 이사장으로 선임했었다”고...",
-    "published_at": "2026-10-07T17:45:00+09:00",
-    "cluster_id": "9e52",
-    "publisher": "segye.com",
-    "title_clean": "與 “낙하산 인사로 나라살림 망친 국힘 반성부터 하라”",
-    "summary": "야당은 윤석열 정부의 '낙하산 인사'를 비판하며 에너지·건설·금융 분야 전문성이 부족한 대선 캠프 출신 인물들이 난방공사, 전문건설공제조합 등 주요 기관 요직에 임명된 것을 지적했다. 정부의 인사 관행 개선을 촉구하는 정치적 공격이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T17:55:39+09:00",
-    "event_label": "전문건설공제조합 이은재 이사장 낙하산 인사 논란",
-    "importance": 7
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19672,6 +19655,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "롯데칠성, 건설현장에 동절기 안전보건 물품 지원 - 뉴스포스트",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBienJMSktHVmxXekVFdGFEZGRIbk9BaGJJMzFfN2JpTTE2UnowcHJ2aTFiZEtuSnNYeGhrWVBtT0N1aUUyYXVUVDFjQktnX2N5SmRHZmN5bUlEbXd1b21mOFFSRHVCQ0xw?oc=5",
+    "description": "[뉴스포스트=선초롱 기자] 롯데칠성음료가 현대건설에 겨울철 안전보건 물품을 지원했다.6일 롯데칠성음료는 전날 서울 종로구 현대건설 본사에서 겨울철 건설현장 근로자들의 한랭질환 예방을 위해 2000만원 상당의 온장고를 지원했다고 밝혔다.롯데칠성음료는 현대건설을 포함한 총 6개 건설사를",
+    "published_at": "2026-11-06T17:29:26+09:00",
+    "cluster_id": "8085",
+    "publisher": "뉴스포스트",
+    "title_clean": "롯데칠성, 건설현장에 동절기 안전보건 물품 지원",
+    "summary": "롯데칠성음료가 현대건설을 포함한 6개 건설사에 2000만원 상당의 온장고를 지원하여 겨울철 건설현장 근로자들의 한랭질환 예방을 돕고 있다. 기업의 사회공헌 활동으로 건설업계 근로자 안전보건 개선에 기여하는 사례다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-06T18:00:17+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "AI로 산업현장 안전 지킨다…제조·건설·물류로 활용 확산 - 폴리뉴스 Polinews",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FeUxLaWhLM2JodHc3YktFaE9uMTdfWjllUVM4YmhGdFZwaXkzbHZsaWVyQWFIWHFWWWQ2Slk2ckVta3ZXNnU4WmRFaTNMVGltVEs1SDd3TGtTNTNOekhUWnRJbXhFMXBsSGZ6RExn?oc=5",
+    "description": "인공지능(AI)이 산업현장의 안전관리 방식을 바꾸고 있다. CCTV 영상과 작업자 행동을 실시간으로 분석해 위험 상황을 미리 감지하고, 설비 작동을 멈추거나 작업",
+    "published_at": "2026-11-06T17:04:00+09:00",
+    "cluster_id": "07f1",
+    "publisher": "폴리뉴스 Polinews",
+    "title_clean": "AI로 산업현장 안전 지킨다…제조·건설·물류로 활용 확산",
+    "summary": "AI 기술이 CCTV 영상 분석과 작업자 행동 감지를 통해 산업현장의 안전관리를 혁신하고 있다. 제조·건설·물류 등 다양한 산업에서 실시간 위험 감지 및 설비 자동 정지 등으로 안전사고 예방이 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-06T18:00:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32197,22 +32212,6 @@
     "summary": "GS건설이 스틸 모듈러 표준평면 20종을 개발하고 BIM 기반 공사비 산정 시스템과 연계하여 고객의 사업성 검토를 지원한다. 아파트, 오피스텔, 호텔, 기숙사 등 다양한 용도에 적용 가능한 솔루션으로 건설업계의 효율성과 경쟁력을 강화하는 움직임이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T12:09:18+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "‘2026 해외건설 플랜트의 날’ 기념식 “세계를 넘어 미래를 짓는 K-건설 시대 열릴 것” - 메가충청뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5akY5ZFBzaUlGdWhmLW16TFVhRm00QmxGQnRKNlBIWi1sVnFET2owN0E1QS1EaHhSNmR3cktkUC1Dd0ZCNzlOc3NFaXE2ai16SDdRS0xXNnZHbGxFcWo1Mzh3WlNvbXRQTVJ2VQ?oc=5",
-    "description": "[메가충청뉴스] 국토교통부는 해외건설협회, 한국플랜트정보기술협회와 함께 11월 3일 오후2시 서울 건설회관에서 2026 해외건설 플랜트의 날 기념식을 개최한다.이",
-    "published_at": "2026-11-02T11:45:31+09:00",
-    "cluster_id": "4108",
-    "publisher": "메가충청뉴스",
-    "title_clean": "‘2026 해외건설 플랜트의 날’ 기념식 “세계를 넘어 미래를 짓는 K-건설 시대 열릴 것”",
-    "summary": "국토교통부가 해외건설협회, 한국플랜트정보기술협회와 함께 11월 3일 '2026 해외건설 플랜트의 날' 기념식을 개최한다. 행사를 통해 K-건설의 글로벌 경쟁력 강화와 해외시장 진출 확대를 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T12:04:22+09:00",
     "importance": 2
   }
 ]
