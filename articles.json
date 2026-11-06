@@ -3621,23 +3621,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "여야, 한국지역난방공사장 임명 두고 충돌…“인사 참사” vs “가짜뉴... - kyeonggi.com",
-    "link": "https://www.kyeonggi.com/article/20261007580573",
-    "description": "정용기 전 의원이 지역난방공사 사장에, 이은재 전 의원이 전문건설공제조합 이사장에 각각 임명된 점을 거론했다. 최연혜 전 의원이 한국가스공사 사장 1차 공모에서 면접 탈락 뒤 재공모로 선임된 사례도 언급했다. 손...",
-    "published_at": "2026-10-07T18:36:00+09:00",
-    "cluster_id": "c232",
-    "publisher": "kyeonggi.com",
-    "title_clean": "여야, 한국지역난방공사장 임명 두고 충돌…“인사 참사” vs “가짜뉴...",
-    "summary": "여야가 한국지역난방공사장 임명을 두고 충돌 중이며, 전 의원들의 공사·조합 임명 사례를 거론하고 있다. 정용기·이은재·최연혜 전 의원 등의 인사 논란이 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-07T18:55:35+09:00",
-    "event_label": "전문건설공제조합 이사장 인사 논란",
-    "importance": 7
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19635,6 +19618,22 @@
     "summary": "대우건설이 체코 두코바니 신규 원전 시공계약 협상 불발과 관련해 산업통상부에 공식 중재를 요청했다. 공사비 인하와 추가 물량 수용에도 불구하고 한국수력원자력이 일방적으로 협상을 종료하자 재협상 개시를 촉구하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:00:46+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설지표 반등에도 목재시장은 긴 침체…건축재 수입 감소 지속 - woodkorea.co.kr",
+    "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92403",
+    "description": "건설경기의 일부 지표가 반등하고 있지만 목재산업의 회복은 여전히 더디다. 올해 8월까지 목재류 수입금액과 중량이 함께 감소한 가운데 제재목과 마루판, 가구·내장재용 보드류의 수입도 줄었다. 제재시장의 침체가...",
+    "published_at": "2026-11-06T18:52:00+09:00",
+    "cluster_id": "ae5d",
+    "publisher": "woodkorea.co.kr",
+    "title_clean": "건설지표 반등에도 목재시장은 긴 침체…건축재 수입 감소 지속",
+    "summary": "건설경기 일부 지표는 반등하고 있으나 목재산업은 회복이 더딘 상태다. 올해 8월까지 목재류 수입금액과 중량이 동시에 감소했으며, 제재목과 마루판 등 건축재 수입도 계속 줄어들고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-06T19:00:19+09:00",
     "importance": 4
   },
   {
