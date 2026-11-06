@@ -19774,6 +19774,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "오중석 의원 \"모아주택을 모으면 따로타운\" 지적 - arunews.com",
+    "link": "https://www.arunews.com/news/articleView.html?idxno=69175",
+    "description": "공사 현장마다 현장소장(건설산업기본법), 안전·보건관리자(산업안전보건법), 품질관리자(건설기술 진흥법)를 둬야 하고, 공사금액 100억원 이상을 하도급받은 도급사도 안전관리자를 따로 둬야 한다. 오 의원은 \"말이...",
+    "published_at": "2026-11-06T14:18:00+09:00",
+    "cluster_id": "b9c8",
+    "publisher": "arunews.com",
+    "title_clean": "오중석 의원 \"모아주택을 모으면 따로타운\" 지적",
+    "summary": "오중석 의원이 모아주택 정책의 문제점을 지적하며, 건설 현장의 과다한 관리자 배치 의무로 인한 비용 부담을 언급했습니다. 현장소장, 안전·보건관리자, 품질관리자 등 다중 배치 요건이 건설사의 경영 부담을 가중시키고 있는 상황입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-06T14:25:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32204,21 +32220,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T10:58:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "5대 은행 연체율 0.42%···9년 반 만에 최고 - seoulfn.com",
-    "link": "https://www.seoulfn.com/news/articleView.html?idxno=641618",
-    "description": "소비와 건설경기에 민감한 업종에서 상대적으로 높은 연체율을 보였다. 가계대출 연체율은 0.33%로 전 분기와 같았다. 다만 지난해 3분기와 4분기 각각 0.30%였던 것과 비교하면 높아진 수준이다. 부실채권도...",
-    "published_at": "2026-11-02T10:41:00+09:00",
-    "cluster_id": "e711",
-    "publisher": "seoulfn.com",
-    "title_clean": "5대 은행 연체율 0.42%···9년 반 만에 최고",
-    "summary": "5대 은행의 연체율이 0.42%로 9년 반 만에 최고 수준을 기록했다. 건설경기와 소비에 민감한 업종에서 상대적으로 높은 연체율을 보이고 있으며, 가계대출 연체율도 전년 동기 대비 상승했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T10:49:30+09:00",
-    "importance": 4
   }
 ]
