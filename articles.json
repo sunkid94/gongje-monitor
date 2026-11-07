@@ -19519,6 +19519,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사 수주 목표 잇단 상향…내년 건설경기 회복세 돌아서나 - 경제 | 기사 - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNzl6bWd0Z1FZazk2Tm9ScFdMVE9NX3d5MDlHX3UwVkoxTVk5Sm4zX3huMlhJdW1vbExZZGZtWHJLLUFiY09vRFY3QWhOWUdYYkFuYUtTcDFuZw?oc=5",
+    "description": "삼성E&A·삼성물산·대우건설·현산, 목표 합계 26조원 확대 수주 올해 8.9% 증가 전망…내년 건설투자 2.7% 성장 예상 주요 건설사들이 올해 연간 신규 수주 목표를 잇달아 높이면서…",
+    "published_at": "2026-11-07T06:35:26+09:00",
+    "cluster_id": "bdfc",
+    "publisher": "더팩트",
+    "title_clean": "건설사 수주 목표 잇단 상향…내년 건설경기 회복세 돌아서나 - 경제 | 기사",
+    "summary": "삼성E&A, 삼성물산, 대우건설, 현산 등 주요 건설사들이 올해 신규 수주 목표를 26조원으로 상향 조정하며 수주 8.9% 증가를 전망하고 있다. 내년 건설투자도 2.7% 성장이 예상되면서 건설경기 회복의 신호가 나타나고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-08T00:02:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32188,22 +32204,6 @@
     "summary": "GS건설이 스틸 모듈러 건축물의 표준평면 20종을 개발하고 BIM 기반 공사비 산정 기술을 접목해 사업 초기 설계·견적 검토 효율을 높이고 있다. 이는 공사 기간 단축과 품질 관리 개선이 가능한 모듈러 건축 방식의 사업성 검토를 가속화하는 기술 혁신이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T13:50:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[민선9기]김길수 영월군수 “일하는 조직·기업유치로 지역 활력 되찾겠... - kwnews.co.kr",
-    "link": "https://www.kwnews.co.kr/article/20261028500890",
-    "description": "장기적으로 기업유치와 산업단지·농공단지 조성을 추진하고 단기적으로는 주거환경 개선과 교육 지원을 강화하겠다.” ■지역경제 활성화 방안은=“인구 자연감소와 건설경기 침체 등 여러 요인으로 인해 지역경제...",
-    "published_at": "2026-11-02T13:27:00+09:00",
-    "cluster_id": "fbdd",
-    "publisher": "kwnews.co.kr",
-    "title_clean": "[민선9기]김길수 영월군수 “일하는 조직·기업유치로 지역 활력 되찾겠...",
-    "summary": "영월군수가 기업유치와 산업단지·농공단지 조성을 통한 지역경제 활성화 방안을 제시했습니다. 단기적으로는 주거환경 개선과 교육 지원을 강화하겠다는 계획입니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-02T13:34:57+09:00",
     "importance": 2
   }
 ]
