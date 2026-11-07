@@ -19519,6 +19519,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"너 집도 없지?\" 다짜고짜 반말부터 날린다...고단한 외국인 '사장님' - mt.co.kr",
+    "link": "https://www.mt.co.kr/society/2026/11/08/2026110717411582422",
+    "description": "이어 \"최근에는 건설경기가 침체하면서 동네를 떠난 사람들도 있지만 동포인 인근 만둣집 사장들과도 가끔 인사를 나누고 서로 먹을 것을 나눠주며 잘 지내고 있다\"고 했다. 서울 중구 광희동 중앙아시아거리엔...",
+    "published_at": "2026-11-08T07:30:00+09:00",
+    "cluster_id": "0845",
+    "publisher": "mt.co.kr",
+    "title_clean": "\"너 집도 없지?\" 다짜고짜 반말부터 날린다...고단한 외국인 '사장님'",
+    "summary": "서울 중구 광희동 중앙아시아거리의 외국인 사업가들이 건설경기 침체로 인한 어려움을 겪고 있으며, 동포 사업가들과의 상호부조로 지역공동체를 유지하고 있다. 건설업 부진으로 인한 지역경제 악화 상황을 보도하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T07:32:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32186,22 +32202,6 @@
     "publisher": "팝콘뉴스",
     "title_clean": "GS건설, ‘스틸 모듈러 표준평면 20종’ 개발...사업성 검토 속도↑",
     "summary": "GS건설이 다양한 용도에 적용 가능한 스틸 모듈러 표준평면 20종을 독자 개발하고 BIM 기반 공사비 산정 시스템과 연계했다. 복잡한 초기 설계 절차를 단순화해 사업성 검토 속도를 높이고 모듈러 건축 시장 확대를 도모하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T13:50:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, 스틸 모듈러 표준평면 ‘20종’ 개발…공사비 산정 속도 높인다 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50dFIwdGphMGF4UlQ3OEVQeHN3XzVibkxYWDRJUzhmeUFac09HTEFkcWNHVmY2cC1IeENNb3hjOE81elpHeFowOEowN1FhY2hVczlvSWd1SUpVejV3YUxMNC1fdFNlSi1oaTdLbWNR?oc=5",
-    "description": "GS건설이 스틸 모듈러 표준평면 20종을 개발하고 설계와 공사비 산정을 연계한 사업성 검토 체계를 구축했다. 표준화된 설계안을 바탕으로 사업 초기 단계부터 예상 공사비를 신속하게 산출해 고객의 의사결정을 지원하고 모듈러 사업 수주 경쟁력을 높이겠다는 전략이다.GS건설..",
-    "published_at": "2026-11-02T13:34:54+09:00",
-    "cluster_id": "b7f3",
-    "publisher": "아시아투데이",
-    "title_clean": "GS건설, 스틸 모듈러 표준평면 ‘20종’ 개발…공사비 산정 속도 높인다",
-    "summary": "GS건설이 스틸 모듈러 건축의 표준평면 20종을 개발하고 설계-공사비 산정 연계 체계를 구축했다. 사업 초기부터 공사비를 빠르게 산출해 고객 의사결정을 지원하고 모듈러 사업 수주 경쟁력을 강화하겠다는 전략이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T13:50:31+09:00",
     "importance": 2
