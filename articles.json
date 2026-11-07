@@ -3519,6 +3519,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "아파트값 따라 오피스텔도 뛴다…매매·월세 동반 상승 - newsway.co.kr",
+    "link": "https://www.newsway.co.kr/news/view?ud=2026110614414590710",
+    "description": "포스코이앤씨는 서울 중랑구 상봉동 일대 상봉9재정비촉진구역 재개발사업을 통해 '더샵 퍼스트월드 서울' 오피스텔을 공급할 예정이다. 단지는 지하 8층~지상 49층, 1개 동, 총 308실 규모다. 전 실이 실수요자...",
+    "published_at": "2026-11-08T08:02:00+09:00",
+    "cluster_id": "3e2a",
+    "publisher": "newsway.co.kr",
+    "title_clean": "아파트값 따라 오피스텔도 뛴다…매매·월세 동반 상승",
+    "summary": "서울 중랑구 상봉동에서 포스코이앤씨가 308실 규모의 오피스텔을 공급하며, 아파트값 상승에 따라 오피스텔의 매매가와 월세가 동반 상승하고 있다. 오피스텔 시장이 활성화되면서 건설 수주 기회가 증가하는 추세다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-08T08:07:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19498,22 +19514,6 @@
     "publisher": "etoday.co.kr",
     "title_clean": "포스코그룹, 철강·인프라 동반 개선…3Q 영업익 48% 증가",
     "summary": "포스코그룹이 3분기 영업익을 전 분기 대비 48% 증가시켰으며, 철강과 인프라 부문이 주도적으로 개선되었다. 포스코이앤씨의 수주 증가 등이 긍정적 요인으로 작용했으나, 이차전지소재 부문은 영업손실로 전환하며 부문별 편차를 보였다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:31:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코홀딩스, 3분기 영업익 9450억원 전년比 48%↑ \"철강이 전체 실적 ... - industrynews.co.kr",
-    "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88722",
-    "description": "인프라 부문 역시 포스코인터내셔널의 가스전 및 인도네시아 팜 사업 호조, 포스코이앤씨의 수주 증대에 힘입어 전 분기 대비 이익이 늘어났다. 반면, 신성장 동력인 이차전지소재 부문은 일시적 숨 고르기에...",
-    "published_at": "2026-11-02T14:26:00+09:00",
-    "cluster_id": "e9f2",
-    "publisher": "industrynews.co.kr",
-    "title_clean": "포스코홀딩스, 3분기 영업익 9450억원 전년比 48%↑ \"철강이 전체 실적 ...",
-    "summary": "포스코홀딩스가 3분기 영업익 9450억원으로 전년 대비 48% 증가했으며, 철강 부문의 호실적이 주도했다. 인프라 부문(포스코인터내셔널, 포스코이앤씨)도 가스전·팜 사업 호조와 수주 증대로 실적이 개선되었으나, 이차전지소재 부문은 일시적 부진을 보이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T14:31:12+09:00",
     "importance": 2
