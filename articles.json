@@ -19536,6 +19536,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "‘배째라’가 아니라 ‘방법이 없다’…28만 톤 골재 사태, 행정은 출구... - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2645301",
+    "description": "그러나 코로나19 장기화로 건설경기가 위축되고 관련 공장의 가동이 중단되면서 원료의 공급과 소비가 끊겼다. 공장은 멈췄지만 이미 반입된 골재는 남았다. 생계를 이어가기 위해 개인 소유 부지에 재생골재 원료를...",
+    "published_at": "2026-11-07T13:36:00+09:00",
+    "cluster_id": "a207",
+    "publisher": "etoday.co.kr",
+    "title_clean": "‘배째라’가 아니라 ‘방법이 없다’…28만 톤 골재 사태, 행정은 출구...",
+    "summary": "코로나19로 건설경기 위축되면서 골재 공급-소비 단절로 28만 톤 규모의 재생골재 적체 사태 발생. 가동 중단된 공장에 원료가 쌓여 업계 현금흐름 악화와 적치 문제 심화.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-07T13:38:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32190,21 +32206,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T13:16:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "‘건축주 지시로 무등록 하도급’ 건설사 과징금 - naeil.com",
-    "link": "https://www.naeil.com/news/read/607259?ref=naver",
-    "description": "그러나 A사는 건설업 등록을 하지 않은 무등록 업체였고, 서울시는 건설산업기본법 위반을 이유로 올해 2월... 재판부는 “등록업체에만 하도급을 허용하는 법 취지는 무분별한 하도급으로 인한 부실시공을 예방하고...",
-    "published_at": "2026-11-02T13:06:00+09:00",
-    "cluster_id": "0176",
-    "publisher": "naeil.com",
-    "title_clean": "‘건축주 지시로 무등록 하도급’ 건설사 과징금",
-    "summary": "건축주 지시로 무등록 업체에 하도급을 준 건설사가 건설산업기본법 위반으로 과징금을 부과받았다. 법원은 등록업체에만 하도급을 허용하는 규정이 부실시공 예방을 목적으로 한다고 판시했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T13:14:26+09:00",
-    "importance": 4
   }
 ]
