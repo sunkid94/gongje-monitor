@@ -3519,6 +3519,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'화성 향남 롯데캐슬 시그니처' 11월 10일 당첨자 발표…23~25일 정당계약 - rcast.co.kr",
+    "link": "https://www.rcast.co.kr/news/articleView.html?idxno=32006",
+    "description": "롯데건설이 시공하는 '화성 향남 롯데캐슬 시그니처'가 오는 11월 10일 청약 당첨자를 발표한다. 정당계약은 11월 23일부터 25일까지 사흘간 진행된다. 전용 84㎡ 분양가는 4억6,700만원부터이며, 당첨자는 정당계약...",
+    "published_at": "2026-11-08T07:32:00+09:00",
+    "cluster_id": "5d13",
+    "publisher": "rcast.co.kr",
+    "title_clean": "'화성 향남 롯데캐슬 시그니처' 11월 10일 당첨자 발표…23~25일 정당계약",
+    "summary": "롯데건설이 시공하는 화성 향남 롯데캐슬 시그니처가 11월 10일 청약 당첨자를 발표하고, 23~25일 정당계약을 진행한다. 전용 84㎡ 기준 분양가는 4억6,700만원부터이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-08T07:37:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -19503,20 +19519,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "포스코홀딩스, 3분기 영업익 9450억원…전년比 47.9%↑ - ziksir.com",
-    "link": "https://www.ziksir.com/news/articleView.html?idxno=151653",
-    "description": "인프라부문은 포스코인터내셔널의 가스전 사업과 인도네시아 팜 사업 생산 확대, 포스코이앤씨의 수주 증가에 힘입어 영업이익이 전분기보다 늘었다. 특히 포스코인터내셔널의 에너지 사업이 안정적인 이익을...",
-    "published_at": "2026-11-02T14:24:00+09:00",
-    "cluster_id": "bf5b",
-    "publisher": "ziksir.com",
-    "title_clean": "포스코홀딩스, 3분기 영업익 9450억원…전년比 47.9%↑",
-    "summary": "포스코홀딩스가 3분기 영업익 9450억원을 기록하며 전년 동기 대비 47.9% 증가했다. 포스코인터내셔널의 가스전·팜 사업 확대와 포스코이앤씨의 수주 증가가 주요 성장 요인이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:31:12+09:00",
-    "importance": 3
+    "title": "매출보다 이익이… LX하우시스 반등 조건은? - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502121",
+    "description": "건설경기 침체로 수요가 약한 상황에서 가격을 올리면 판매량 감소로 이어질 가능성이 있기 때문이다. 매출 감소와 원가 부담이 동시에 발생하면서 영업이익 감소 폭은 매출 감소 폭을 크게 웃돌았다. 매출은 전년 동기...",
+    "published_at": "2026-11-08T07:34:00+09:00",
+    "cluster_id": "2623",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "매출보다 이익이… LX하우시스 반등 조건은?",
+    "summary": "건설경기 침체로 수요가 약한 상황에서 LX하우시스는 가격 인상을 시도했으나, 판매량 감소로 인해 매출 감소 폭보다 영업이익 감소 폭이 더 커지는 악순환을 겪고 있다. 매출 감소와 원가 부담이 동시에 발생하면서 기업의 수익성이 악화되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T07:37:36+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32189,21 +32205,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T13:50:31+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, ‘스틸 모듈러 표준평면 20종’ 개발...사업성 검토 속도↑ - 팝콘뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yalA1b181UU1SX2J6OFhkVk9tZjhibUlWSE5vczZjRTFncG52ajlVU3h0Ym5jM0NiVjdycG1sMGVibE1yUzJaRzU4eHBvSEJEaGg4U1RhbDlIdFVoc3FjSjlnblFDeS11cjk2bVVn0gFyQVVfeXFMT1YxZTRlWFdHYUY1c3dpb3J0SThJbEJqVDBfQkZ6bFVqWGxBRDVrTUVnVXg1Zy1HVzNRTW9CbHRCWGpMS0I3YU5rRzJvSTg2eGYtNWFwaHhxLV9PczFpWkFWc2FIUjI0SnhqTmFYbEY2Mll3?oc=5",
-    "description": "(팝콘뉴스=김은교 기자) GS건설은 아파트·오피스텔·호텔·기숙사·청년주택·군 숙소 등 다양한 용도 및 규모에 적용할 수 있는 ‘스틸 모듈러 표준평면 20종’을 독자 개발하고, 이를 BIM(건설정보모델링) 기반 공사비 산정 시스템과 연계해 고객의 신속한 사업성 검토를 지원한다고 2일 밝혔다. 스틸 모듈러 건축은 공기 단축과 고품질 시공, 친환경성 면에서 차세대 주거 솔루션으로 주목받아 왔다. 그러나 프로젝트 초기 단계마다 모듈러 특성을 반영한 별도 설계 및 공사비 산정 절차가 복잡해, 발주처나 고객이 사업 추진 여부를 빠르게 판단하기",
-    "published_at": "2026-11-02T11:03:31+09:00",
-    "cluster_id": "ac6f",
-    "publisher": "팝콘뉴스",
-    "title_clean": "GS건설, ‘스틸 모듈러 표준평면 20종’ 개발...사업성 검토 속도↑",
-    "summary": "GS건설이 다양한 용도에 적용 가능한 스틸 모듈러 표준평면 20종을 독자 개발하고 BIM 기반 공사비 산정 시스템과 연계했다. 복잡한 초기 설계 절차를 단순화해 사업성 검토 속도를 높이고 모듈러 건축 시장 확대를 도모하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T13:50:31+09:00",
-    "importance": 2
   }
 ]
