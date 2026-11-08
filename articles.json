@@ -19553,6 +19553,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "FM “에전력 및 재생에너지 분야 위험관리체계 못 따라가” - 보험신보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oZTZYUU5jZXpYUWxUdHp2ZlVteHItTjJHbUk5RU9pVk0tTHV1NVZLQm5sQzd6bXktNksyRWFfa1JfTkx3WjhpTU1FVFQwbmZRS0l2OG1JNkV3eDZ1UGY3cDNndjBMUUllbjhF?oc=5",
+    "description": "[보험신보 이재호 기자] 글로벌 재물보험사 FM은 ‘전력 및 재생에너지 보고서’를 통해 신규 발전설비가 빠르게 확충되고 있지만 기존 에너지 인프라의 설계·운영·위",
+    "published_at": "2026-11-09T08:14:16+09:00",
+    "cluster_id": "9120",
+    "publisher": "보험신보",
+    "title_clean": "FM “에전력 및 재생에너지 분야 위험관리체계 못 따라가”",
+    "summary": "글로벌 재물보험사 FM이 전력 및 재생에너지 분야에서 신규 발전설비 확충은 빠르지만 기존 에너지 인프라의 설계·운영·위험관리체계가 이를 따라가지 못하고 있다고 지적했습니다. 이는 건설·설비 부문의 안전 위험성 증대와 보험 리스크 상향을 시사합니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-09T08:28:15+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32188,22 +32204,6 @@
     "publisher": "스페셜경제",
     "title_clean": "현대건설, 용산 한강로 재개발 품었다…5990억 수주",
     "summary": "현대건설이 서울 용산구 한강로구역 도시정비형 재개발사업 시공권을 확보하며 5990억 원을 수주했다. 이로써 현대건설의 올해 도시정비사업 수주액이 13조 원을 초과했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T17:51:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대건설, 용산 한강로구역 재개발사업 수주…도정 연간 수주 13조 돌파 - ER 이코노믹리뷰",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jQ2RhM0FOWnZvZ25JNndEVk8teE81c2hVQ1hYM0hTQTNzbDdsSGpXX0JrWEJLYzJQZVR3TmNzb25USDRXbWlxUE9oS2ZOWTVvWTB3UDFuRTJnd2I2SmFMUm9MUmFVWHRqMXZ5TQ?oc=5",
-    "description": "현대건설이 서울 용산구 한강로구역 재개발사업 시공권을 확보하면서 올해 도시정비 연간 수주액 13조원을 돌파했다.현대건설은 지난달 31일 열린 한강로구역 도시정비형 재개발사업 시공사 선정 총회에서 최종 시공사로 선정됐다고 2일 밝혔다.이 사업은 서울 용산구 한강로1가 일대 4만1744㎡ 규모의 정비구역에 지하 5층~지상 최고 36층, 공동주택 456세대와 오피스텔 125실, 업무·판매시설 등을 조성하는 프로젝트다. 총공사비는 5990억원이다.사업지는 지하철 4·6호선 환승역인 삼각지역과 인접하고, 전쟁기념관 전면부 공원 조성과 삼각지",
-    "published_at": "2026-11-02T08:19:39+09:00",
-    "cluster_id": "518d",
-    "publisher": "ER 이코노믹리뷰",
-    "title_clean": "현대건설, 용산 한강로구역 재개발사업 수주…도정 연간 수주 13조 돌파",
-    "summary": "현대건설이 서울 용산구 한강로구역 재개발사업 시공권을 수주하며 올해 도시정비 연간 수주액 13조원을 돌파했다. 총공사비 5990억원 규모의 이 사업은 456세대 공동주택과 오피스텔, 업무시설 등을 조성하는 프로젝트다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T17:51:32+09:00",
     "importance": 2
