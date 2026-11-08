@@ -3536,6 +3536,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[아파트 품질의 민낯] ㊥외국인 인력 늘어난 건설현장…품질관리 사각지... - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20261105500388",
+    "description": "롯데건설은 건설현장에서 외국인 근로자와 원활하게 소통하기 위해 AI 번역 기술을 고도화하고 있다. 개발 초기에는 영어와 중국어, 베트남어, 태국어 등 4개 언어를 지원했지만 현재는 20개국 언어로 지원 범위를...",
+    "published_at": "2026-11-08T09:26:00+09:00",
+    "cluster_id": "7757",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "[아파트 품질의 민낯] ㊥외국인 인력 늘어난 건설현장…품질관리 사각지...",
+    "summary": "건설현장에서 외국인 근로자 증가에 따른 품질관리 공백이 문제로 지적되고 있다. 롯데건설은 AI 번역 기술을 고도화하여 소통 개선에 나서고 있으며, 지원 언어를 4개에서 20개국으로 확대했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T09:27:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19518,22 +19534,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:31:12+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"신규 시공사 찾아도 일정 지연 우려\"…체코 원전 재협상 요청 - 1conomynews.co.kr",
-    "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51110",
-    "description": "대우건설이 한국수력원자력과 체코 신규 원전 건설사업 시공계약 협상이 결렬된 데 대해 유감을 표하고 산업통상부의 중재를 통한 재협상을 촉구했다. 2일 대우건설은 한수원으로부터 체코 신규 원전 건설사업 계약 협상...",
-    "published_at": "2026-11-02T14:22:00+09:00",
-    "cluster_id": "c169",
-    "publisher": "1conomynews.co.kr",
-    "title_clean": "대우건설 \"신규 시공사 찾아도 일정 지연 우려\"…체코 원전 재협상 요청",
-    "summary": "대우건설이 한국수력원자력과의 체코 신규 원전 건설사업 시공계약 협상 결렬에 유감을 표하고 산업통상부의 중재를 통한 재협상을 요청했다. 새로운 시공사 발굴 시 사업 일정 지연 우려가 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:31:12+09:00",
-    "importance": 5
   },
   {
     "keyword": "건설 노동",
