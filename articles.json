@@ -19536,6 +19536,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "여름엔 폭염, 겨울엔 한파…롯데칠성음료, 건설현장 안전 지원 - sportsseoul.com",
+    "link": "https://www.sportsseoul.com/news/read/1648071?ref=naver",
+    "description": "롯데칠성음료 관계자는 “건설현장 근로자들의 건강과 안전은 계절과 관계없이 중요하다”며 “앞으로도 건설사들과 협력해 현장 여건에 맞는 지원 활동을 이어가고 산업현장의 안전문화 확산에 기여하겠다”고 말했다....",
+    "published_at": "2026-11-08T13:40:00+09:00",
+    "cluster_id": "f628",
+    "publisher": "sportsseoul.com",
+    "title_clean": "여름엔 폭염, 겨울엔 한파…롯데칠성음료, 건설현장 안전 지원",
+    "summary": "롯데칠성음료가 건설현장 근로자들의 계절별 안전을 지원하는 활동을 전개하고 있다. 폭염과 한파 등 악조건에서 근로자 건강 관리에 협력하며 산업현장 안전문화 확산에 기여하겠다고 밝혔다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-08T13:42:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32190,21 +32206,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:45:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "한화, 천공기에 '디지털 눈' 달았다···국내 첫 스마트천공기 실증 완... - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=285828",
-    "description": "실증은 국토교통부와 한국건설기술연구원이 추진하는 스마트건설 공사비 산정기준 연구의 하나로 진행됐으며, 지난달 30일 충남 당진 건설 현장에서 공공기관 관계자들에게 결과를 공개했습니다. 천공기는 발파를 위해...",
-    "published_at": "2026-11-02T14:30:00+09:00",
-    "cluster_id": "dbfb",
-    "publisher": "paxetv.com",
-    "title_clean": "한화, 천공기에 '디지털 눈' 달았다···국내 첫 스마트천공기 실증 완...",
-    "summary": "한화가 국내 최초로 AI 기반 스마트천공기를 개발·실증했다. 국토교통부와 한국건설기술연구원의 스마트건설 공사비 산정기준 연구의 일환으로 충남 당진 현장에서 공개했으며, 디지털 기술을 활용한 건설기계의 고도화를 입증했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:35:07+09:00",
-    "importance": 2
   }
 ]
