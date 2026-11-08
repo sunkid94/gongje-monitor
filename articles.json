@@ -3519,6 +3519,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "박수영 “가덕도신공항, 이대로면 2035년 개항 어렵다” [쿠키인터뷰] - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202611070034",
+    "description": "대우건설 컨소시엄은 전쟁으로 오른 공사비 6천억 원을 보전해 달라는 확약을 요구하고 있습니다. 올랐는데 정부가 기업에 손해를 떠안으라고 하면 공사를 끝내고 망하라는 얘기입니다. 공공공사는 늘 1~2년씩...",
+    "published_at": "2026-11-08T20:02:00+09:00",
+    "cluster_id": "4454",
+    "publisher": "kukinews.com",
+    "title_clean": "박수영 “가덕도신공항, 이대로면 2035년 개항 어렵다” [쿠키인터뷰]",
+    "summary": "대우건설 컨소시엄이 가덕도신공항 공사에서 전쟁으로 인한 6천억 원의 공사비 인상분 보전을 정부에 요구하고 있습니다. 기업이 손실을 감수하도록 강요하면 공사 중단과 기업 경영 악화를 초래할 수 있다는 우려를 제기하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T20:08:46+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -19503,19 +19519,19 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 한수원 '체코 원전 시공' 협상 결렬에 \"산업부가 재협상 중재... - newsian.co.kr",
-    "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100440",
-    "description": "체코 두코바니 신규 원전 건설사업의 시공사 선정을 둘러싸고 발주 원청사인 한국수력원자력(이하 한수원)과 주간 시공사인 대우건설 간 협상이 끝내 결렬되면서 파문이다. 한수원의 전격적인 협상 종료 통보에 대해...",
-    "published_at": "2026-11-02T14:36:00+09:00",
-    "cluster_id": "0bca",
-    "publisher": "newsian.co.kr",
-    "title_clean": "대우건설, 한수원 '체코 원전 시공' 협상 결렬에 \"산업부가 재협상 중재...",
-    "summary": "한수원과 대우건설이 체코 두코바니 신규 원전 건설사업 시공사 선정을 둘러싼 협상이 결렬되었다. 산업부가 재협상 중재에 나서면서 대규모 해외 원전 수주 사업이 불투명해진 상황이다.",
+    "title": "돈도 기술도 없던 나라에서 세계적 철강기업으로…박태준의 포스코, 다... - betanews.net",
+    "link": "https://www.betanews.net/article/view/beta202611080044",
+    "description": "중국이 대규모 생산설비를 확충하면서 글로벌 철강 공급이 빠르게 증가했고, 중국 내 건설경기 둔화와 공급과잉은 한국 철강업계의 수익성을 압박하는 요인으로 작용하고 있다. 여기에 탄소중립 전환이라는 구조적...",
+    "published_at": "2026-11-08T19:58:00+09:00",
+    "cluster_id": "d5f7",
+    "publisher": "betanews.net",
+    "title_clean": "돈도 기술도 없던 나라에서 세계적 철강기업으로…박태준의 포스코, 다...",
+    "summary": "중국의 대규모 철강 생산설비 확충으로 글로벌 공급과잉이 발생하고 있으며, 중국 내 건설경기 둔화와 탄소중립 전환이 한국 철강업계의 수익성을 압박하고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-11-02T14:40:15+09:00",
+    "collected_at": "2026-11-08T20:08:46+09:00",
     "importance": 4
   },
   {
@@ -32187,22 +32203,6 @@
     "title_clean": "대형 상장 건설사 6곳 수주잔고 329조원… 전년말比 7.3%↑",
     "summary": "대형 상장 건설사 6곳의 수주잔고가 329조원으로 전년말 대비 7.3% 증가했다. 다만 건설경기 침체와 공사비 부담이 지속되는 가운데 신규 수주보다 기존 사업의 안정적 공정 진행과 수익성 관리가 향후 실적의 주요 변수로 지적되고 있다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-02T16:01:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, 스틸 모듈러 표준평면 20종 개발…BIM 연계로 사업성 검토 지원 - 로이슈",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56aVhYYkNtYlZZeGN1ZlJSZVZmaGY1RVh0R00wMDZvSC1hYVg3UEdRQkY0ZjhTZzVGV3c0N0ZOa25YdzgyaFh0VERnMGk2MUZ1NTBGdndWMGx6X3oyVFBwRGNBM1lWN3NqSzBLRFJQNnBtaGlHcXU3UA?oc=5",
-    "description": "GS건설이 아파트·오피스텔·호텔·기숙사 등 다양한 용도에 적용할 수 있는 스틸 모듈러 표준평면 20종을 개발하고, BIM 기반 공사비 산정과 연계해 고객의 사업성 검토를 돕는다고 2일 밝혔다.스틸 모듈러는 주요 구조체와 마감을 공장에서 제작해 현장에서 조립하는 방식이다. 공사 기간 단축",
-    "published_at": "2026-11-02T15:53:18+09:00",
-    "cluster_id": "777f",
-    "publisher": "로이슈",
-    "title_clean": "GS건설, 스틸 모듈러 표준평면 20종 개발…BIM 연계로 사업성 검토 지원",
-    "summary": "GS건설이 아파트, 오피스텔, 호텔, 기숙사 등 다양한 용도에 적용 가능한 스틸 모듈러 표준평면 20종을 개발했다. BIM 기술과 연계하여 공사비 산정 및 사업성 검토를 지원함으로써 공사 기간 단축과 효율성 향상을 추진하고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-02T16:01:10+09:00",
     "importance": 2
   }
