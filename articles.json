@@ -19553,6 +19553,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "해킹·중대재해·신사업 철수까지…잇단 사건·사고에 곤혹스런 허윤홍... - socialvalue.kr",
+    "link": "https://www.socialvalue.kr/news/view/1065600112207356",
+    "description": "▲GS건설 허윤홍 대표가 ‘2026년 임원 워크샵’에서 발언하고 있다./사진=GS건설 제공 ◇ 노동자 추락 사망사고 1년여 만에 본사 압수수색 건설현장 안전관리와 관련한 수사도 이어지고 있다. 지난 4일 경찰은 지난해...",
+    "published_at": "2026-11-09T08:06:00+09:00",
+    "cluster_id": "db9a",
+    "publisher": "socialvalue.kr",
+    "title_clean": "해킹·중대재해·신사업 철수까지…잇단 사건·사고에 곤혹스런 허윤홍...",
+    "summary": "GS건설 허윤홍 대표가 노동자 추락 사망사고, 해킹, 신사업 철수 등 잇단 사건·사고에 직면하고 있으며, 경찰의 건설현장 안전관리 수사가 진행 중이다. 건설업계의 안전관리 미흡과 기업 리스크 관리 부실이 드러나고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-09T08:08:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32190,22 +32206,6 @@
     "summary": "현대건설이 용산 한강로구역 재개발사업 시공사로 선정되어 올해 도시정비사업 누적 수주액이 13조원을 돌파했다. 지하 5층~지상 36층 규모의 공동주택 456세대와 오피스텔, 업무시설 등을 건립하는 대규모 프로젝트다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T17:51:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설 매출·영업이익 동반 하락, 허윤홍 부실 계열사 매각으로 반등에... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450934",
-    "description": "이에 앞서 2025년 6월에는 지속적으로 손실을 기록하던 영국 모듈러 건설업체 엘리멘츠 유럽을 청산했다. 허윤홍 GS건설 대표는 2025년부터 재무구조 개선과 수익성 개선을 위해 자회사 정리를 이어왔다. 2025년...",
-    "published_at": "2026-11-02T17:40:00+09:00",
-    "cluster_id": "30da",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "GS건설 매출·영업이익 동반 하락, 허윤홍 부실 계열사 매각으로 반등에...",
-    "summary": "GS건설이 매출과 영업이익이 동반 하락했으나, 허윤홍 대표가 손실 자회사 정리를 통해 재무구조를 개선하고 있다. 영국 모듈러 건설업체 엘리멘츠 유럽을 청산하고 계속해서 자회사 정리를 진행 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-02T17:45:58+09:00",
     "importance": 2
   }
 ]
