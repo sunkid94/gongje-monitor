@@ -19536,6 +19536,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "송도 물류센터 화재가 드러낸 재난 인력 동원 체계의 구조적 공백 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJSlhBSG1QSk01bjZIZXdFdEZ6eGljYjJER3RNbzRJRVZvM0w1ckVYTEV6em1nS05teFJvQUNMVTloWF96ZVVTVEZMQW80M1hoS1Vz?oc=5",
+    "description": "위험 작업은 숙련공과 안전비용이 좌우한다 2026년 11월 7일 새벽, 인천 송도국제도시의 한 대형 물류센터에서 화재가 발생했다. 이 사고는 단순 화재로 끝나지 않았다. 잔해 제거와 안전 진단에 투입할 숙련 인력이 곧바로 모이지 않았고, 인근 인력사무소들은 주말 건설 현장 수요와 갑작스러운 재난 요청이 겹쳐 공급 한계에 부딪혔다. 사건이 던진 핵심 질문은",
+    "published_at": "2026-11-08T10:31:11+09:00",
+    "cluster_id": "45f9",
+    "publisher": "유스연합",
+    "title_clean": "송도 물류센터 화재가 드러낸 재난 인력 동원 체계의 구조적 공백",
+    "summary": "인천 송도의 물류센터 화재 사건에서 재난 복구에 필요한 숙련 인력 수급이 원활하지 않아 건설업 인력 동원 체계의 구조적 문제점이 드러났다. 주말 건설 현장 수요와 긴급 재난 요청이 겹치면서 인력사무소들이 공급 한계에 직면했으며, 위험 작업의 안전성과 효율성이 숙련공 확보 여부에 좌우되는 현실을 보여준다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T10:37:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32187,22 +32203,6 @@
     "publisher": "ezyeconomy.com",
     "title_clean": "한화 글로벌부문, 국내 최초 'MG 스마트천공기' 개발…현장 실증 완료",
     "summary": "한화 글로벌부문이 국내 최초로 'MG 스마트천공기'를 개발하여 현장 실증을 완료했다. 국토교통부와 한국건설기술연구원이 추진하는 스마트건설 공사비산정기준 연구의 일환으로 진행되었으며, 건설 자동화 기술 고도화에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:10:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "“초기 설계·견적 고민 끝”…GS건설, 스틸 모듈러 표준평면 공개 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzbTZ4ZGU1dHBRYXZZb0Y5MGxNdnVoNzNyNk1zb2psX1JXNHhEaG1BYUxGMG9STS02OWpLNDhYSEdIRk9YX2pMSzhtWHp4NkZjQXNtVTMtNjE?oc=5",
-    "description": "GS건설이 스틸 모듈러를 다양화해 고객들의 진입 장벽을 낮췄다. GS건설이 아파트와 오피스텔, 호텔, 기숙사 등 다양한 용도에 폭넓게 적용할 수 있는 ‘스틸 모듈러 표준평면 20종’을 개발했다고 2일 밝혔다. 스틸 모듈러는 주요 구조체와 마감재 등을 공장에서 미리 제작한 뒤 현장에서 조립하는 건축 방식이다. 공사 기간을 대폭 단축하고 품질 관리가 용이하다는",
-    "published_at": "2026-11-02T13:54:13+09:00",
-    "cluster_id": "a77f",
-    "publisher": "매일경제",
-    "title_clean": "“초기 설계·견적 고민 끝”…GS건설, 스틸 모듈러 표준평면 공개",
-    "summary": "GS건설이 스틸 모듈러 표준평면 20종을 개발해 아파트, 오피스텔, 호텔, 기숙사 등 다양한 용도에 적용 가능하도록 했다. 공사 기간 단축과 품질 관리 용이라는 스틸 모듈러의 장점을 활용하면서 고객들의 초기 설계·견적 진입 장벽을 낮춘 것으로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T14:10:40+09:00",
     "importance": 2
