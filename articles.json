@@ -19536,6 +19536,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "철강 양강, 3분기 수익성 개선에도 온도차…업황 회복은 아직 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/article/2026110718333673509",
+    "description": "자동차·조선 등 주요 전방산업의 수요 개선이 기대되는 반면 건설경기 침체는 이어지면서 철강업계의 수익성 회복도 차별화될 전망이다. 7일 철강업계에 따르면 포스코의 올해 3분기 별도 기준 매출은 9조9570억원...",
+    "published_at": "2026-11-08T12:02:00+09:00",
+    "cluster_id": "fde1",
+    "publisher": "news.mtn.co.kr",
+    "title_clean": "철강 양강, 3분기 수익성 개선에도 온도차…업황 회복은 아직",
+    "summary": "철강업계가 3분기 수익성 개선을 보이고 있으나 자동차·조선 등 산업별로 회복 정도에 차이가 나타나고 있다. 건설경기 침체가 계속되면서 전반적인 업황 회복은 아직 미흡한 상황이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-08T12:07:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32190,21 +32206,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:15:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "GS건설, 모듈러 표준평면 개발...사업 의사결정 돕는다 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbDVjc3hnTnJoc0xGUTdaQlBjeUJONXpyTkFnVE9iMndNam10VkZYbUdlM3FGRm5aWEpnOFBzUmlncmZkak9BYXNMc1Z4SXM4c1ZEdHZlQmE2dw?oc=5",
-    "description": "GS건설이 아파트와 오피스텔, 호텔, 기숙사 등에 적용할 수 있는 스틸 모듈러 표준평면 20종을 개발한다. 이를 건설정보모델링(BIM) 기반 공사비 산정과 연계하고 소비자 사업 추진 의사결정을 돕겠다는 의도다. 스틸 모듈러는 주요 구조체와 마감 등을 공장에서 ..",
-    "published_at": "2026-11-02T14:05:19+09:00",
-    "cluster_id": "af80",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "GS건설, 모듈러 표준평면 개발...사업 의사결정 돕는다",
-    "summary": "GS건설이 아파트, 오피스텔, 호텔, 기숙사 등에 적용 가능한 스틸 모듈러 표준평면 20종을 개발했다. BIM 기반 공사비 산정과 연계하여 사업 추진의 의사결정을 지원하려는 것으로, 모듈러 건설 표준화를 통한 효율성 개선을 의도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:15:20+09:00",
-    "importance": 2
   }
 ]
