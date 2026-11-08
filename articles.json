@@ -3519,6 +3519,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[이슈/ 분석] 中, 10월 대형 LNG선 수주 한국 앞서…K조선, 선가·납기 경쟁 본격화 - 코리아포스트 한글판",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03ZjZLNUpPaFJtam5OV2JnX2x1c2dmX3ZrTlhYR0VfTnN2Mm45NUxRZzRyQlZBYUlzbDhzZXN4bE5zanBaUHZRdGhYNXluaUdMdm91YlZtb3ZEaGdGUldzZE8tQVNpcTFtelVhSXNB?oc=5",
+    "description": "[코리아포스트한글판 윤경숙 선임기자] 중국은 10월 세계 대형 LNG 운반선 발주 7척 중 5척을 수주해 한국의 2척을 앞섰다. 중국 수주 5척은 말레이시아 선사",
+    "published_at": "2026-11-08T19:48:43+09:00",
+    "cluster_id": "843e",
+    "publisher": "코리아포스트 한글판",
+    "title_clean": "[이슈/ 분석] 中, 10월 대형 LNG선 수주 한국 앞서…K조선, 선가·납기 경쟁 본격화",
+    "summary": "중국이 10월 세계 대형 LNG선 수주에서 7척 중 5척을 차지하며 한국(2척)을 앞섰다. 한국 조선업계는 선가와 납기 경쟁이 심화되는 상황에 직면했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T19:53:16+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19498,22 +19514,6 @@
     "publisher": "newsian.co.kr",
     "title_clean": "대우건설, 한수원 '체코 원전 시공' 협상 결렬에 \"산업부가 재협상 중재...",
     "summary": "한수원과 대우건설이 체코 두코바니 신규 원전 건설사업 시공사 선정을 둘러싼 협상이 결렬되었다. 산업부가 재협상 중재에 나서면서 대규모 해외 원전 수주 사업이 불투명해진 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:40:15+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"체코 원전 계약 재협상해야\"…산업부에 중재 요청 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6600710?utm_source=naver&utm_medium=article&utm_campaign=20261102143312",
-    "description": "대우건설은 한국수력원자력(한수원)과의 체코 신규 원전 건설사업 시공계약 협상이 결렬된 것과 관련해 산업통상부의 중재를 통한 재협상을 요청했다. 대우건설은 2일 입장문을 통해 \"지난달 30일 한수원으로부터 건설...",
-    "published_at": "2026-11-02T14:34:00+09:00",
-    "cluster_id": "d9e8",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "대우건설 \"체코 원전 계약 재협상해야\"…산업부에 중재 요청",
-    "summary": "대우건설이 한수원과의 체코 원전 건설사업 시공계약 협상 결렬과 관련해 산업통상부에 중재를 요청했다. 계약 재협상을 통해 대규모 해외 원전 수주 사업의 진행을 추진하려는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:40:15+09:00",
     "importance": 4
