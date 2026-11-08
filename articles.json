@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "[오늘의 주요일정] 충북·세종(9일, 월) - news1.kr",
+    "link": "https://www.news1.kr/local/sejong-chungbuk/6347007",
+    "description": "13:30 대한기계설비건설협회 대전·세종·충남도회 장학금 전달식(교육감 접견실) 14:40 자율형 공립고 2.0 연구학교 공개수업 참관(세종캠퍼스고) ◇청주시 -이장섭 시장 08:40 주간업무보고(제1임시청사 소회의실)...",
+    "published_at": "2026-11-09T05:00:00+09:00",
+    "cluster_id": "671c",
+    "publisher": "news1.kr",
+    "title_clean": "[오늘의 주요일정] 충북·세종(9일, 월)",
+    "summary": "대한기계설비건설협회 대전·세종·충남도회가 장학금 전달식을 개최하며 지역 인재 육성에 기여하고 있다. 기계설비건설 업계의 사회공헌 활동으로 긍정적 이미지를 형성하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T05:07:59+09:00",
+    "event_label": "대한기계설비건설협회 대전·세종·충남도회 장학금 전달식",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32186,22 +32203,6 @@
     "publisher": "mt.co.kr",
     "title_clean": "건설경기 한파에 직격탄…현대리바트, 3분기 9억원 적자전환",
     "summary": "건설경기 침체와 입주물량 감소로 현대리바트가 3분기에 9억원의 적자를 기록했다. 가정용 및 빌트인 가구 판매 부진으로 매출이 전년 동기 대비 2.1% 감소했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T17:10:47+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "美 SEC, AI 기업 공시 점검 [ESG 뉴스 5] - magazine.hankyung.com",
-    "link": "https://magazine.hankyung.com/business/article/202611020880b",
-    "description": "사업 부지는 191㎢로 가스발전소와 태양광발전소, 건설 노동자 4300명을 위한 숙소 등이 들어설 예정이다. 그러나 환경 당국은 용수 부족과 원주민 성지 훼손 등 10가지 잠재적 영향을 지적하며 사업자의 대응책에...",
-    "published_at": "2026-11-02T17:03:00+09:00",
-    "cluster_id": "6f73",
-    "publisher": "magazine.hankyung.com",
-    "title_clean": "美 SEC, AI 기업 공시 점검 [ESG 뉴스 5]",
-    "summary": "미국 SEC가 AI 기업의 공시 점검을 강화하고 있는 가운데, 대규모 에너지 프로젝트(191㎢ 규모, 가스·태양광발전)가 환경 당국으로부터 용수 부족, 원주민 성지 훼손 등 10가지 잠재적 영향을 지적받고 있다. 규제 강화와 환경 심사 강도 증가로 건설 사업 승인 절차가 복잡해지고 있는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-02T17:10:47+09:00",
     "importance": 4
