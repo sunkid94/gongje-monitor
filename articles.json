@@ -19536,6 +19536,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 정비사업 활성화 대책 추진…\"조합 전문성 강화\" - news1.kr",
+    "link": "https://www.news1.kr/local/daegu-gyeongbuk/6346637",
+    "description": "사업의 원활한 추진과 지역 건설경기 활성화를 위해서는 녹색건축인증·소형주택 건립 등 허용용적률 인센티브 항목을 기존 4개에서 10개로 확대했으며, 지역업체 참여 시 부여하는 용적률 인센티브도 최대 43%포인트까지...",
+    "published_at": "2026-11-08T10:08:00+09:00",
+    "cluster_id": "3dfd",
+    "publisher": "news1.kr",
+    "title_clean": "대구시, 정비사업 활성화 대책 추진…\"조합 전문성 강화\"",
+    "summary": "대구시가 정비사업 활성화를 위해 허용용적률 인센티브 항목을 4개에서 10개로 확대하고, 지역업체 참여 시 최대 43%포인트의 용적률 인센티브를 부여하는 대책을 추진 중이다. 이는 건설경기 활성화와 지역업체 참여 기회 확대를 목표로 하는 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-08T10:12:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32189,22 +32205,6 @@
     "summary": "GS건설이 스틸 모듈러 표준평면 20종을 개발해 아파트, 오피스텔, 호텔, 기숙사 등 다양한 용도에 적용 가능하도록 했다. 공사 기간 단축과 품질 관리 용이라는 스틸 모듈러의 장점을 활용하면서 고객들의 초기 설계·견적 진입 장벽을 낮춘 것으로 평가된다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T14:10:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "‘해외건설 플랜트의 날’ 기념식 개최…K-건설 고부가가치 산업 도약 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncTVyNUZIekZuZFFiM09yMHNJaUFoYUhDUlRWR0JNdmVzcjJ2RWZlNXFkX1JjQnpIU1BTOEFuV0I5czFFeExMN2FlTGRUdkQzcDJvTGJuYU9tVUFpc0p6XzVUQ1h0UUNJSEtDM1VR?oc=5",
-    "description": "정부가 해외건설 산업의 경쟁력을 높이기 위해 정부재정 1조원을 투입해 3조원 규모의 신전략펀드를 조성한다. 해외투자개발사업 전문인력을 양성하기 위한 대학원도 신설하는 등 국내 건설기업의 해외시장 진출 지원을 강화한다.국토교통부는 해외건설협회, 한국플랜트정보기술협회와..",
-    "published_at": "2026-11-02T13:35:45+09:00",
-    "cluster_id": "7ab3",
-    "publisher": "아시아투데이",
-    "title_clean": "‘해외건설 플랜트의 날’ 기념식 개최…K-건설 고부가가치 산업 도약",
-    "summary": "정부가 해외건설 산업 경쟁력 강화를 위해 1조원 정부재정을 투입해 3조원 규모의 신전략펀드를 조성하기로 결정했다. 해외투자개발사업 전문인력 양성 대학원 신설 등을 통해 국내 건설기업의 해외시장 진출을 적극 지원한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:00:46+09:00",
     "importance": 2
   }
 ]
