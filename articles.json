@@ -3553,6 +3553,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[공시셀렉트] 코미코, 운영자금 차입 보증 1년 연장…라온텍은 고객사 ... - digitaltoday.co.kr",
+    "link": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=713455",
+    "description": "IPARK현대산업개발·GS건설, 공동 수주 아파트 도급액 4358억 증액 GS건설(006360)과 IPARK현대산업개발(294870)은 2022년 12월 공동 수주한 아파트 공사의 계약금액이 늘었다고 지난 5일 밝혔다. 변경계약 체결로 총...",
+    "published_at": "2026-11-09T08:52:00+09:00",
+    "cluster_id": "f93e",
+    "publisher": "digitaltoday.co.kr",
+    "title_clean": "[공시셀렉트] 코미코, 운영자금 차입 보증 1년 연장…라온텍은 고객사 ...",
+    "summary": "GS건설과 IPARK현대산업개발이 2022년 12월 공동 수주한 아파트 공사의 계약금액을 4358억 원 증액하는 변경계약을 체결했다. 이는 건설업계의 수주 규모 확대를 의미하는 긍정적 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T08:57:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -19537,20 +19553,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "포스코홀딩스, 철강 회복에 영업익 48%↑...3분기 연속 개선 - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730131",
-    "description": "포스코이앤씨의 수주 증가 등도 영향을 미치면서 영업이익은 전분기보다 늘었다. 포스코그룹은 지난 7월 발표한 '트리플코어' 전략에 따라 철강과 이차전지소재, 에너지자원 등 3대 핵심 사업의 경쟁력 강화에도...",
-    "published_at": "2026-11-02T14:42:00+09:00",
-    "cluster_id": "0154",
-    "publisher": "ebn.co.kr",
-    "title_clean": "포스코홀딩스, 철강 회복에 영업익 48%↑...3분기 연속 개선",
-    "summary": "포스코홀딩스가 철강 시장 회복으로 영업이익이 전분기 대비 48% 증가하며 3분기 연속 개선세를 보였다. 포스코이앤씨의 수주 증가와 '트리플코어' 전략을 통한 3대 핵심 사업 강화가 실적 개선을 주도했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:50:27+09:00",
-    "importance": 2
+    "title": "경남도의회 건설소방위, 거제 국지도 58호선 안전관리 추궁 - 경남도민신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LQW5UX0xWcm9FemlXaHdBRWdDejZoSjY4dzM1Ql9QMU5tTUd5cXpDb3EwRnNWYWt3RHkwNjhjNkV4dDBZUmpIWGlxRXc4bkxxOTREd05iaFJMVHdQclNQTHdLQ0NqWVZE?oc=5",
+    "description": "경남도의회 건설소방위원회(위원장 정쌍학)는 행정사무감사 현지확인에 나서 6일 거제 송정IC~문동 도로건설 현장에서 균열 보강 이후 발생한 터널 사면붕괴 경위와 나들목 설계 안전성을 집중적으로 따졌다. 2029년 준공 목표에 맞춘 재원 확보와 공사 중 안전관리, 지역업체 참여 방안도 함께 점검했다. 국지도 58호선 송정IC~문동 구간은 총사업비 약 34",
+    "published_at": "2026-11-08T17:47:48+09:00",
+    "cluster_id": "2b24",
+    "publisher": "경남도민신문",
+    "title_clean": "경남도의회 건설소방위, 거제 국지도 58호선 안전관리 추궁",
+    "summary": "경남도의회 건설소방위원회가 거제 국지도 58호선 건설 현장을 현지확인하여 터널 사면붕괴 경위, 나들목 설계 안전성, 공사 중 안전관리를 집중 추궁했다. 2029년 준공 목표 달성을 위한 재원 확보와 지역업체 참여 방안도 함께 점검했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-09T08:57:55+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32191,21 +32207,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T17:51:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[IR 분석] 현대건설, 3개월 만에 수주잔고 '100조' 아래로…환율 타격 - FETV",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wYjRxZHJrdU1BV1paaktaOFo1eW15dHo4aFhjZGthMUdQQlh1SXUyd3ltUm9MeTBTQmNOUnFid2RtV3RWZFoyMW1VNVQtQlpxNG14Y3l0RlAyZ0tjeU1vd3BBWlVLNzll?oc=5",
-    "description": "[FETV=임요한 기자] 현대건설이 3분기 영업이익을 1년 전의 두 배 넘게 끌어올렸지만, 지난 2분기 말 창사 이래 처음 넘어섰던 수주잔고 100조원 선은 석",
-    "published_at": "2026-11-02T11:15:59+09:00",
-    "cluster_id": "6aae",
-    "publisher": "FETV",
-    "title_clean": "[IR 분석] 현대건설, 3개월 만에 수주잔고 '100조' 아래로…환율 타격",
-    "summary": "현대건설이 3분기 영업이익을 전년 대비 2배 이상 증대시켰으나, 2분기에 창사 이래 처음 돌파한 수주잔고 100조원선이 환율 악화 등의 영향으로 3개월 만에 하락했다. 단기적 수익성 개선에도 불구하고 핵심 지표인 수주잔고 감소는 향후 실적 부담 요인으로 작용할 우려가 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T17:51:32+09:00",
-    "importance": 4
   }
 ]
