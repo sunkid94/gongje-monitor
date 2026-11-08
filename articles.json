@@ -3519,6 +3519,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[단독] 공사비 1.3%만 올리고 물량은 25% 더…추가 시설 건설비도 이견 - sedaily.com",
+    "link": "https://www.sedaily.com/article/20111671?ref=naver",
+    "description": "한국수력원자력과 대우건설의 체코 두코바니 원전 시공 협상이 결렬된 배경으로 공사 물량을 둘러싼 이견이 있었던 것으로 파악됐다. 한수원이 협상 막바지 대우건설에 공사비를 소폭 올리는 대신 물량을 기존보다 25...",
+    "published_at": "2026-11-08T18:39:00+09:00",
+    "cluster_id": "afd7",
+    "publisher": "sedaily.com",
+    "title_clean": "[단독] 공사비 1.3%만 올리고 물량은 25% 더…추가 시설 건설비도 이견",
+    "summary": "한수원과 대우건설의 체코 두코바니 원전 시공 협상이 공사비와 물량 산정을 둘러싼 이견으로 결렬됐다. 한수원이 공사비 1.3% 인상으로는 25% 증가한 물량을 수용하기 어렵다고 판단한 것으로 보인다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T18:48:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19501,22 +19517,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:40:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코, 철강 수익성 회복에 실적 개선..3분기 영업익 48% 증가 - kpenews.com",
-    "link": "https://kpenews.com/View.aspx?No=4293474",
-    "description": "포스코이앤씨의 수주 증가도 더해지면서 인프라 부문 영업이익은 전분기 대비 늘었다. 포스코홀딩스는 올해 7월 발표한 자원 중심의 트리플코어 전략을 바탕으로 사업별 경쟁력 강화에도 나서고 있다. 산업자원인...",
-    "published_at": "2026-11-02T14:36:00+09:00",
-    "cluster_id": "dea8",
-    "publisher": "kpenews.com",
-    "title_clean": "포스코, 철강 수익성 회복에 실적 개선..3분기 영업익 48% 증가",
-    "summary": "포스코가 3분기 영업익을 전분기 대비 48% 증가시키며 철강 수익성을 회복했다. 포스코이앤씨의 수주 증가로 인프라 부문도 영업이익이 개선되었으며, 자원 중심의 트리플코어 전략으로 사업 경쟁력을 강화 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:40:15+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
