@@ -19539,6 +19539,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "국립공원공단 ·한국산업안전보건공단, 건설현장 안전 합동점검 실시 - chungnamilbo.co.kr",
+    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=919432",
+    "description": "국립공원공단 ·한국산업안전보건공단, 건설현장 안전 합동점검 모습.   (사진제공=국립공원공단)  국립공원공단(상임감사 조창배)과 한국산업안전보건공단(상임감사 정혜선)은 11월 5일 오후 충북 청주시 상당구에 위치한...",
+    "published_at": "2026-11-08T11:54:00+09:00",
+    "cluster_id": "465a",
+    "publisher": "chungnamilbo.co.kr",
+    "title_clean": "국립공원공단 ·한국산업안전보건공단, 건설현장 안전 합동점검 실시",
+    "summary": "국립공원공단과 한국산업안전보건공sand보건공단이 충북 청주시 건설현장에 대한 안전 합동점검을 실시했다. 건설현장의 안전 관리 강화를 위한 정부 차원의 점검 활동이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T11:57:51+09:00",
+    "importance": 5
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "균열 보강했는데 이듬해 사면붕괴…도의회, 도로공사 안전대책 점검 - 경남도민일보",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zeWZNdW5tQVVpblFOWjVpN2J2bjR6QVBVVldsTmRRNEhyUnR6VHU0Y2NsOHlMeEJOU25DTTVYUmMzUHVvR1Yyb3ZxTE9KU1F2bVM1ejNIamNTRWhhbzZUOE5tRG8xV29odEE?oc=5",
     "description": "경남도의회가 행정사무감사 기간 거제 도로건설 현장을 찾아 균열을 보강한 이듬해 사면이 무너진 문제를 집중 점검했다. 도의원들은 보강 이후에도 붕괴가 발생한 경위를",
@@ -32190,21 +32206,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T14:15:20+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구 건설수주 반 토막…지역업체 일감 부족에 자금난까지 - idaegu.com",
-    "link": "https://www.idaegu.com/news/articleView.html?idxno=666667",
-    "description": "대구지역 건설수주가 올해 들어 지난해의 절반에도 미치지 못하면서 지역 건설업계의 일감 확보에 부담이 커지고 있다. 민간공사 수주가 급감한 데다 공공부문마저 줄어든 가운데, 지역업체들은 신규 수주 감소에...",
-    "published_at": "2026-11-02T14:06:00+09:00",
-    "cluster_id": "72a3",
-    "publisher": "idaegu.com",
-    "title_clean": "대구 건설수주 반 토막…지역업체 일감 부족에 자금난까지",
-    "summary": "대구지역 건설수주가 전년도 대비 절반 수준으로 급감하면서 건설업계가 심각한 일감 부족 위기를 겪고 있다. 민간공사 수주 급감과 공공부문 감소로 지역업체들의 자금난이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:10:40+09:00",
-    "importance": 4
   }
 ]
