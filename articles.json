@@ -19536,6 +19536,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "양주 군부대 공사 현장에서 60대 건설노동자 추락사 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706902&ref=A",
+    "description": "어제(7일) 오후 3시쯤 경기 양주시 봉양동의 한 군부대 체육관 건설 현장에서 60대 남성 노동자가 숨지는 사고가 났습니다. 이 남성은 차량에 탑재하는 고소작업대 위에서 용접 작업을 하다가 약 3ｍ 아래 지상으로...",
+    "published_at": "2026-11-08T13:29:00+09:00",
+    "cluster_id": "ff17",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "양주 군부대 공사 현장에서 60대 건설노동자 추락사",
+    "summary": "경기 양주시 군부대 체육관 건설 현장에서 60대 노동자가 고소작업대에서 추락하여 사망하는 사고가 발생했습니다. 건설 현장의 안전 관리 문제와 관련된 중대 재해 사건입니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T13:37:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32189,22 +32205,6 @@
     "summary": "한화가 국내 최초로 AI 기반 스마트천공기를 개발·실증했다. 국토교통부와 한국건설기술연구원의 스마트건설 공사비 산정기준 연구의 일환으로 충남 당진 현장에서 공개했으며, 디지털 기술을 활용한 건설기계의 고도화를 입증했다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T14:35:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "‘2026 해외건설 플랜트의 날’ 3일 개최… 3조원 전략펀드 조성 추진 - 국토일보",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53M1Z3SXZ6dVdQank3Y24ybjZQVVFSQm9OVjdpSTd4MEY1QWdWa21JVG9DNFJTcVNLZ09HUmNTX0lleEFzcFRlT1dIQXFVNklCQ3loY1FjSmZad3RHNl9INExDcw?oc=5",
-    "description": "[국토일보 김현재 기자] 정부가 ‘2026 해외건설 플랜트의 날’을 맞아 3조원 규모의 전략펀드 조성과 전문인력 양성 등 해외건설 산업 경쟁력 강화 방안을 제시한다.국토교통부는 해외건설협회, 한국플랜트정보기술협회와 함께 내일(3일) 서울 건설회관에서 ‘2026 해외건설 플랜트의 날’ 기념식을 개최한다고 오늘(2일) 밝혔다.‘세계를 넘어 미래를 짓다’를 주제로 열리는 이번 행사는 해외건설 산업의 성과를 공유하고 글로벌 경쟁력 강화를 위한 팀코리아의 미래 비전을 제시하기 위해 마련됐다.해외건설 플랜트의 날은 1965년 현대건설의 태국",
-    "published_at": "2026-11-02T14:17:00+09:00",
-    "cluster_id": "8374",
-    "publisher": "국토일보",
-    "title_clean": "‘2026 해외건설 플랜트의 날’ 3일 개최… 3조원 전략펀드 조성 추진",
-    "summary": "정부가 해외건설 산업 경쟁력 강화를 위해 3조원 규모의 전략펀드 조성과 전문인력 양성을 추진한다. '2026 해외건설 플랜트의 날' 기념식을 통해 산업 성과 공유와 글로벌 경쟁력 강화를 위한 팀코리아의 미래 비전을 제시할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:31:12+09:00",
     "importance": 2
   }
 ]
