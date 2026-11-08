@@ -3519,6 +3519,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "사설-경남 청년 유출 막을 해법은 기업유치다 - gndomin.com",
+    "link": "http://www.gndomin.com/news/articleView.html?idxno=495883",
+    "description": "캠프 참가자들은 우주항공 분야의 한화에어로스페이스와 조선 분야의 한화오션, 원전 분야의 두산에너빌리티 등의 산업현장을 살펴보며, 경남의 근무 여건 및 강점·취업 정보 등을 공유했다. 경남에서 더 나은 일자리를...",
+    "published_at": "2026-11-08T18:10:00+09:00",
+    "cluster_id": "29e5",
+    "publisher": "gndomin.com",
+    "title_clean": "사설-경남 청년 유출 막을 해법은 기업유치다",
+    "summary": "경남지역 청년 유출 문제 해결을 위해 한화에어로스페이스, 한화오션, 두산에너빌리티 등 대형 기업 유치를 통한 일자리 창출을 제안하는 기사다. 우주항공, 조선, 원전 등 첨단 산업분야 기업 유입으로 경남의 근무 여건 개선을 강조하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-08T18:12:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -19498,22 +19514,6 @@
     "publisher": "kpenews.com",
     "title_clean": "포스코, 철강 수익성 회복에 실적 개선..3분기 영업익 48% 증가",
     "summary": "포스코가 3분기 영업익을 전분기 대비 48% 증가시키며 철강 수익성을 회복했다. 포스코이앤씨의 수주 증가로 인프라 부문도 영업이익이 개선되었으며, 자원 중심의 트리플코어 전략으로 사업 경쟁력을 강화 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:40:15+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코홀딩스, 3분기 영업익 9450억원...철강·에너지 힘입어 전년比 48... - joongangenews.com",
-    "link": "https://www.joongangenews.com/news/articleView.html?idxno=560393",
-    "description": "포스코이앤씨 역시 수주 증가 등의 영향으로 인프라 부문 영업이익이 전분기 대비 개선되는 데 기여했다. 포스코그룹은 지난 7월 발표한 트리플코어 전략에 따라 철강과 이차전지소재, 에너지 자원 등 핵심사업의...",
-    "published_at": "2026-11-02T14:34:00+09:00",
-    "cluster_id": "b9d9",
-    "publisher": "joongangenews.com",
-    "title_clean": "포스코홀딩스, 3분기 영업익 9450억원...철강·에너지 힘입어 전년比 48...",
-    "summary": "포스코홀딩스가 3분기 영업익 9450억원을 기록하며 전년대비 48% 증가했으며, 철강과 에너지 부문의 호조에 이어 포스코이앤씨의 수주 증가로 인프라 부문 실적도 개선되었다. 그룹은 철강, 이차전지소재, 에너지 자원 등 핵심사업 중심의 트리플코어 전략을 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-02T14:40:15+09:00",
     "importance": 2
