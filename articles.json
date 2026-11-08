@@ -19553,6 +19553,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[황병성 칼럼] 철강 슬래그의 새로운 탄생 - snmnews.com",
+    "link": "http://www.snmnews.com/news/articleView.html?idxno=577058",
+    "description": "그러나 건설경기 침체로 시멘트 수요가 줄면서 안정적인 처리와 수익성 제고를 위한 신규 수요처 확보가 중요한 과제로 떠올랐다. 어떻게든 새로운 수요처를 찾는 것이 시급했다. 포스코는 그 대안으로 철강 슬래그를...",
+    "published_at": "2026-11-09T07:58:00+09:00",
+    "cluster_id": "f583",
+    "publisher": "snmnews.com",
+    "title_clean": "[황병성 칼럼] 철강 슬래그의 새로운 탄생",
+    "summary": "건설경기 침체로 시멘트 수요가 감소하면서 철강 슬래그의 새로운 수요처 확보가 과제로 대두되었다. 포스코는 철강 슬래그의 대안적 활용을 모색하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-09T08:03:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32191,21 +32207,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-02T17:45:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "안전보건공시제 시행 두 달…안전관리도 ‘문서’에서 ‘데이터’로 - 아이티데일리",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSWWN1YjROQ0l5THg3bElocDE2dzhrRzlnd2ZpX1RGY2lSZWR1V082QVFmWEF4YXpNR0dzRTZubWJNUmhEejdZYzBndWozWnk2UTVFLXo2c2JDdFFpOUowd1NUVG5PLWI5?oc=5",
-    "description": "[아이티데일리] 지난 8월 시행된 안전보건공시제가 두 달을 넘어서면서 기업의 안전관리 방식에도 변화가 일어나고 있다. 안전보건 현황을 외부에 공개하기 위해서는 공시 시점에 자료를 취합하는 것뿐 아니라, 평상시 수행하는 안전활동과 조치 결과를 체계적으로 기록하고 관리하는 것이 중요해졌기 때문이다.개정 산업안전보건법에 따라 시행된 안전보건공시제는 상시근로자 500명 이상 사업주와 연간 건설공사 금액 1,200억원 이상인 건설사업주, 공공기관 및 지방공사·지방공단 등을 대상으로 안전보건 현황을 매년 공개하도록 하고 있다. 공시 항목에는",
-    "published_at": "2026-11-02T09:31:43+09:00",
-    "cluster_id": "6783",
-    "publisher": "아이티데일리",
-    "title_clean": "안전보건공시제 시행 두 달…안전관리도 ‘문서’에서 ‘데이터’로",
-    "summary": "8월 시행된 안전보건공시제로 인해 기업들이 안전관리 방식을 변화시키고 있으며, 문서 위주에서 데이터 기반 체계적 관리로 전환되고 있다. 상시근로자 500명 이상 기업과 연간 건설공사 1,200억원 이상 건설사업주 등이 안전보건 현황을 매년 공개해야 한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T17:45:58+09:00",
-    "importance": 4
   }
 ]
