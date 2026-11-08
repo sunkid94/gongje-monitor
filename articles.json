@@ -19519,6 +19519,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설 침체기, 인력사무소가 살아남는 조건 — 배차 신뢰도와 서류 관리가 가른다 - knpp.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83TGJ2Zy1xQ2FWWW1pN1dHUmdLT1pROHloWXNkdlNPanYzTkwzMUNJNEhHVHpmczY4dDhBeDBiY29URlE?oc=5",
+    "description": "수주 회복과 배차 감소의 시차 2026년 11월 현재 건설 인력시장의 체감 온도는 수주 지표보다 낮다. 대한건설정책연구원 분석에서 2026년 7월 누계 건설수주는 전년 동기 대비 15.8% 늘었지만, 건설기성은 올해 들어 5.1% 줄었다. 고용노동부가 공개한 2026년 9월 고용동향에서도 건설업 취업자는 4만8000명 감소했고, 8월 감소폭 3만2000명보",
+    "published_at": "2026-11-09T02:21:44+09:00",
+    "cluster_id": "db97",
+    "publisher": "knpp.co.kr",
+    "title_clean": "건설 침체기, 인력사무소가 살아남는 조건 — 배차 신뢰도와 서류 관리가 가른다",
+    "summary": "2026년 건설수주는 증가했으나 기성과 고용은 감소하며 업계 침체가 심화되고 있다. 이러한 시장 악화 속에서 인력사무소의 생존 조건은 배차 신뢰도와 서류 관리 역량에 달려 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-09T02:28:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32189,21 +32205,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T17:10:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "남부발전, 동계 전력수급 앞두고 설비 안전점검 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBac1pxUDl5ZmxPTG91bzI1VC15QXd1bjNNTU5ZQkEwMHJoWWtJWlNMRThTaUJITU1iNVNiVF8yVUN4dEM0NVIyVWdORzQ2d1lnUUljSm11NjFfeXdXeDh0MjQxLTZWbk9lYVpZV0xqUUg5eGvSAXdBVV95cUxNWEF0WUFPYzRaREVYbnViUmNvWENnMzdTX25yYXBGeThSR3BUUFJaZ2dhc0FVZmVWQUVQc2VEY1NTYUI5MDJpVWUxenhLNC1MYkl0UXRySlhNVVBwalFvM09UVk10VE1abS1KLVROZURPQmVuQnl3WQ?oc=5",
-    "description": "한국남부발전이 겨울철 전력수요 증가에 대비한 발전설비의 안정적 운영과 정비공사 현장의 사고 예방을 위해 현장 안전관리에 나섰다.특히 설비 고장 가능성이 커지는 동절기 취약 요인과 계획예방정비 과정의 작업 위험을 함께 점검하는 데 초점을 맞췄다.남부발전은 서성재 기술안전부사장이 지난 30일 신인천빛드림본부를 찾아 동계 전력수급 대비 태세와 4호기 계획예방정비공사 현장의 안전관리 실태를 점검했다고 2일 밝혔다.이번 점검에서는 겨울철 발전설비의 무고장 운전을 위한 사전 준비 상황을 중점적으로 살폈다. 현장 내 컨테이너 화재 예방 조치와",
-    "published_at": "2026-11-02T16:52:59+09:00",
-    "cluster_id": "f0b4",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "남부발전, 동계 전력수급 앞두고 설비 안전점검",
-    "summary": "한국남부발전이 동계 전력수급에 대비하여 발전설비 안전점검을 실시했다. 겨울철 설비 고장 예방과 계획예방정비 공사 현장의 작업 안전관리에 중점을 두고 점검을 진행했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-02T17:10:47+09:00",
-    "importance": 2
   }
 ]
