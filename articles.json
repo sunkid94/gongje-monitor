@@ -3536,6 +3536,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘K조선 텃밭’ LNG선에 파고든 중국…10월 수주 한국 추월 - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lY3B3RFp2NlJoekNwc1FoWnVwY3FXalhQSmM4ZzFiTS1RaDk0WVRiSEh5b0ppTXAyc1JubGI1Ym5rM1k5eHJYa0FKRHpxSHFYNWfSAVNBVV95cUxOWWc5bTVyblBzSUN5MDB5cW93MUhWZzVSMDZnRkRIWTBxTUJwTm1HMl9PaTJSRVN5VlpkWWQxYUZUbXZzZ0xqOVN3aTR1NkxvaFM4Yw?oc=5",
+    "description": "중국 조선업계가 한국이 주도해 온 대형 액화천연가스(LNG) 운반선 시장에서 월간 수주량으로 한국을 앞질렀다. 올해 누적 수주 점유율도 40%를 넘어서면서 ‘K조선’의 텃밭이 흔들리고 있다는 평가가 나온다. 8일 영국 조선·해운 시황 분석기관 클락슨리서치에 따르면 지난",
+    "published_at": "2026-11-08T10:51:35+09:00",
+    "cluster_id": "e8b9",
+    "publisher": "서울경제",
+    "title_clean": "‘K조선 텃밭’ LNG선에 파고든 중국…10월 수주 한국 추월",
+    "summary": "중국 조선업계가 10월 LNG선 월간 수주량에서 한국을 처음 추월했으며, 올해 누적 수주 점유율도 40%를 넘어섰다. 한국이 주도해온 LNG선 시장에서 중국의 추격이 가속화되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T13:07:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -19515,22 +19531,6 @@
     "publisher": "viva100.com",
     "title_clean": "산업부, 체코 원전사업 매주 점검 나선다",
     "summary": "산업부가 한국수력원자력과 대우건설 간의 체코 원전사업 책임공방에 대응하기 위해 장관·차관 주도의 비상관리체제를 가동한다. 시공계약 협상 종료로 건설사 간 분쟁이 지속될 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:35:07+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 체코 원전 재협상 요청…\"산업부가 중재 나서야\" - pointdaily.co.kr",
-    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324489",
-    "description": "대우건설 사옥 대우건설이 한국수력원자력의 체코 신규 원전 건설사업 시공계약 협상 종료 통보에 유감을 표하고 산업통상부에 재협상 중재를 요청했다. 공사비를 낮추고 시공 물량 증가분을 일부 수용하는 수정...",
-    "published_at": "2026-11-02T14:28:00+09:00",
-    "cluster_id": "0ace",
-    "publisher": "pointdaily.co.kr",
-    "title_clean": "대우건설, 체코 원전 재협상 요청…\"산업부가 중재 나서야\"",
-    "summary": "대우건설이 한국수력원자력과의 체코 원전 건설사업 시공계약 협상 종료 통보에 대해 유감을 표하고 산업통상부에 재협상 중재를 요청했다. 공사비 인하와 시공 물량 증가분 수용 등을 통한 재협상을 추진 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:35:07+09:00",
     "importance": 4
