@@ -19536,6 +19536,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구시, 11월부터 주택정비사업 신속 추진 - viva100.com",
+    "link": "https://www.viva100.com/article/20261108500286",
+    "description": "정비사업의 원활한 추진과 지역 건설경기 활성화를 위해 기부채납 때 폐지되는 정비기반시설 면적과 관계없이 순수 제공 면적에 비례해 용적률을 부여하도록 산식을 개선한다. 또한 녹색건축인증ㆍ소형주택 건립 등...",
+    "published_at": "2026-11-08T11:00:00+09:00",
+    "cluster_id": "7209",
+    "publisher": "viva100.com",
+    "title_clean": "대구시, 11월부터 주택정비사업 신속 추진",
+    "summary": "대구시가 11월부터 주택정비사업 추진을 위해 용적률 산식을 개선하고 녹색건축인증·소형주택 건립 등을 지원한다. 기부채납 면적 산정 방식 개선으로 사업성을 높여 지역 건설경기 활성화를 도모하는 조치다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-08T11:07:59+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "\"함께 그리는 미래 철도망 계획\"…국토부, 대국민 의견수렴회 개최 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FeXBlUGdHSFF3SzAwOVFWenFmRTNjdnh6V25ZVG4yMDV5NEN1cWFXRG5KTUwwS214RVBnOEhqVHVNMWJVV1NWOXlnS01GUlJlcnRWSjBQaXVFcDc2SXY4c3VxMk92c2dfRXfSAW9BVV95cUxOZ0c2ZHlycDRXelJYU2pJLWc1MzdHd1JNdHVNaDFNekY5bDc3Z2dQQWZzVldWQnpmYWpMLUpzTTdlSWw5ekVuNVlBLWlUMDYwUGhOMzJSQmg3UW9LNXF3NUVZV05ITGNKMHJ5RHNxR1E?oc=5",
+    "description": "국토교통부는 오는 13일 오전 9시 30분 서울 전문건설회관 대회의실에서 '새로운 대한민국의 내일을 잇는 철도 대전환'을 주제로 의견수렴 행사를 개최한다고 9일 밝혔다. 국토부는 그동안 지방정부 등이 건의한 철도사업을 대상으로 교통수요와 사업 타당성, 지역발전 효과 등을 검토해 왔다.",
+    "published_at": "2026-11-08T11:00:00+09:00",
+    "cluster_id": "0549",
+    "publisher": "머니투데이",
+    "title_clean": "\"함께 그리는 미래 철도망 계획\"…국토부, 대국민 의견수렴회 개최 - 머니투데이",
+    "summary": "국토교통부가 13일 서울에서 '철도 대전환'을 주제로 대국민 의견수렴회를 개최한다. 지방정부의 철도사업 건의를 검토하여 교통수요, 타당성, 지역발전 효과 등을 평가할 예정이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-08T11:07:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32174,37 +32206,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:10:40+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "\"AI 기술 발전보다 중요한 것은 생명\"… 안전보건 전문가들 한목소리 - safetynews.co.kr",
-    "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=251318",
-    "description": "한국안전보건단체총연합회(회장 백은미)가 30일 서울 양재 aT센터에서 개최한 제6회 안전보건페어 2026에서는 직업성 질병 예방부터 건설현장 안전보건, 고령근로자 건강관리, 일터 정신건강까지 다양한 현장 과제가...",
-    "published_at": "2026-11-02T14:04:00+09:00",
-    "cluster_id": "f9d5",
-    "publisher": "safetynews.co.kr",
-    "title_clean": "\"AI 기술 발전보다 중요한 것은 생명\"… 안전보건 전문가들 한목소리",
-    "summary": "한국안전보건단체총연합회가 제6회 안전보건페어 2026을 개최하여 직업성 질병 예방, 건설현장 안전보건, 고령근로자 건강관리, 일터 정신건강 등 다양한 현장 과제를 다룸. 안전보건 전문가들이 AI 기술 발전보다 생명 안전의 중요성을 강조.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:10:40+09:00",
-    "importance": 5
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "한화 글로벌부문, 국내 최초 'MG 스마트천공기' 개발…현장 실증 완료 - ezyeconomy.com",
-    "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241451",
-    "description": "이번 행사는 국토교통부와 한국건설기술연구원이 추진하는 '스마트건설 공사비산정기준 연구'의 일환으로 마련됐다. 현장에는 ▲국토교통부 ▲가덕도신공항건설공단 ▲대구경북통합신공항건설추진단 ▲조달청...",
-    "published_at": "2026-11-02T13:58:00+09:00",
-    "cluster_id": "eabf",
-    "publisher": "ezyeconomy.com",
-    "title_clean": "한화 글로벌부문, 국내 최초 'MG 스마트천공기' 개발…현장 실증 완료",
-    "summary": "한화 글로벌부문이 국내 최초로 'MG 스마트천공기'를 개발하여 현장 실증을 완료했다. 국토교통부와 한국건설기술연구원이 추진하는 스마트건설 공사비산정기준 연구의 일환으로 진행되었으며, 건설 자동화 기술 고도화에 기여할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:10:40+09:00",
-    "importance": 2
   }
 ]
