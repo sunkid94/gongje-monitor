@@ -3553,6 +3553,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코 부총리, 12월 방한해 원전 시공사 교체 직접 논의 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=2026110906355914722bd56fbc3c_1",
+    "description": "한국수력원자력이 대우건설과 두산에너빌리티 컨소시엄과의 협상을 종료하면서 사업 일정 관리에 대한 우려가 커진 상황에서 양국 간 고위급 논의가 주목된다. 협상 결렬과 시공사 재선정 과제 한국수력원자력은 약...",
+    "published_at": "2026-11-09T06:42:00+09:00",
+    "cluster_id": "908f",
+    "publisher": "",
+    "title_clean": "체코 부총리, 12월 방한해 원전 시공사 교체 직접 논의 - g-enews.com",
+    "summary": "체코 부총리가 12월 방한하여 원전 시공사 교체 문제를 직접 논의할 예정이다. 한국수력원자력이 대우건설-두산에너빌리티 컨소시엄과의 협상을 종료하면서 시공사 재선정과 사업 일정 관리에 대한 우려가 증가하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-09T06:48:10+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19535,22 +19551,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T14:45:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코홀딩스, 3분기 영업익 9450억…철강 4000억대 회복에 전년比 48%↑ - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10922870?ref=naver",
-    "description": "포스코인터내셔널이 가스전 사업과 인도네시아 팜 사업의 생산 확대로 견조한 수익성을 유지했고, 포스코이앤씨의 수주도 증가했다. 포스코홀딩스는 지난 7월 발표한 자원 중심의 트리플코어 전략에 따라 사업...",
-    "published_at": "2026-11-02T14:38:00+09:00",
-    "cluster_id": "b7d9",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "포스코홀딩스, 3분기 영업익 9450억…철강 4000억대 회복에 전년比 48%↑",
-    "summary": "포스코홀딩스가 3분기 영업익 9450억원을 기록하며 전년 대비 48% 증가했다. 철강 부문이 4000억대로 회복했고, 포스코인터내셔널의 자원사업과 포스코이앤씨의 수주 증가가 실적 견인을 주도했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T14:45:21+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
