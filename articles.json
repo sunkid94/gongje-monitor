@@ -19536,6 +19536,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "“추가공사비, 신청 기한 놓치면 청구 못할 수도” - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081012026210078",
+    "description": "건설산업기본법 제22조 5항 1호는 공사 계약 체결 이후 경제상황의 변동에 따라 발생하는 계약금액 변경을 상당한 이유 없이 인정하지 않거나 부담을 상대방에게 떠넘기면 불공정 계약이므로 해당 부분은 무효라고...",
+    "published_at": "2026-11-08T12:20:00+09:00",
+    "cluster_id": "0b54",
+    "publisher": "대한경제",
+    "title_clean": "“추가공사비, 신청 기한 놓치면 청구 못할 수도”",
+    "summary": "건설산업기본법 제22조 5항에 따르면 계약 체결 후 경제상황 변동으로 인한 계약금액 변경을 정당한 이유 없이 거부하거나 일방적으로 부담을 떠넘기는 것은 불공정 계약으로 무효다. 추가공사비 신청 시 기한을 놓치면 청구권을 행사하지 못할 수 있으므로 주의가 필요하다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-08T12:27:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32190,21 +32206,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T14:31:12+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "순천시, 건설경기 '빨간불' 골목상권 '한파'…손훈모 경제정책은 어디에?① - 폴리뉴스 Polinews",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92ZnFnSzN0clVQQzMwUnliWWxvbkJPblpTb2l1aXk1YWM5SUxjb0NqTjVvSk5kX1VFVWxCOHhKSHN1VTVzUVJiRHZlSnBlMzRqbG1lTGFhVHNNSXZnNUYyZ3ZjYzUtcVFDblRnb3VB?oc=5",
-    "description": "[폴리뉴스 이형권(=호남) 기자] 순천의 건설현장이 식어가면서 지역 일자리와 골목상권에도 경기침체의 그림자가 짙어지고 있다.레미콘 출하량 급감과 민간 건설수주 위",
-    "published_at": "2026-11-02T13:45:08+09:00",
-    "cluster_id": "0dd3",
-    "publisher": "폴리뉴스 Polinews",
-    "title_clean": "순천시, 건설경기 '빨간불' 골목상권 '한파'…손훈모 경제정책은 어디에?①",
-    "summary": "순천지역 건설경기 부진으로 레미콘 출하량이 급감하고 민간 건설수주가 위축되면서 지역 일자리와 골목상권이 경기침체의 영향을 받고 있다. 건설업계 전반의 경기 악화가 지역경제에 부정적 영향을 미치고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T14:15:20+09:00",
-    "importance": 4
   }
 ]
