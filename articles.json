@@ -19522,6 +19522,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "경기의회 건설교통委, 택시업계 민생예산 지키기에 한목소리 - 오토투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XeWJLcGhGTWNDdlhaM05WbEM4dkZtaXJPWW14RFNweW1EaUctazRGZlllblBGTEVvZnEwNi0xVHBnejJOUnZyZGlxQ21DdFdUNEtURDdHTl93ZnVKRWoxMTBOQUx4RFZya3dhdlpWMA?oc=5",
+    "description": "경기도의회 건설교통위원회는 2027년 본예산 심의를 앞두고 택시업계의 의견을 경청하는 자리를 가졌다.이 자리에서 법인택시 운수종사자 처우개선비를 비롯해 택시 카드",
+    "published_at": "2026-11-09T00:18:35+09:00",
+    "cluster_id": "17a8",
+    "publisher": "오토투데이",
+    "title_clean": "경기의회 건설교통委, 택시업계 민생예산 지키기에 한목소리",
+    "summary": "경기도의회 건설교통위원회가 2027년 본예산 심의를 앞두고 택시업계의 의견을 청취하며 법인택시 운수종사자 처우개선비 등 민생예산 지키기에 나섰다. 택시업계와 의회가 함께 업계 지원방안을 논의하는 자리다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-09T00:33:13+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "반도체 특수 'K-경제' 양극화는 더 짙어졌다 - kyongbuk.co.kr",
     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090064",
     "description": "실제로 철강업은 △건설경기 침체 장기화로 인한 수요 둔화 △미국 철강관세 부담 지속 및 EU수입쿼터 축소 등 글로벌 무역장벽 강화 △탄소중립 전환 압박 및 비용 부담 압박 △저가 수입재 확대 등 3중 4중의 압박이...",
@@ -32189,21 +32205,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-02T17:10:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대리바트, 3분기 적자 전환 \"원가 개선·비용 절감 추진\" - ftoday.co.kr",
-    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368730",
-    "description": "이처럼 아쉬운 성적을 거둔 이유는 건설경기 침체가 장기화되면서 빌트인 가구 공급 물량이 감소했기 때문으로 풀이된다. 현대리바트는 B2B(기업간거래) 프로젝트 수주로 돌파구를 찾을 전망이다. 현대리바트...",
-    "published_at": "2026-11-02T16:54:00+09:00",
-    "cluster_id": "e207",
-    "publisher": "ftoday.co.kr",
-    "title_clean": "현대리바트, 3분기 적자 전환 \"원가 개선·비용 절감 추진\"",
-    "summary": "현대리바트가 3분기에 적자로 전환했으며, 이는 장기화된 건설경기 침체로 빌트인 가구 공급 물량이 감소했기 때문이다. 회사는 B2B 프로젝트 수주와 원가 개선, 비용 절감을 통해 실적 개선을 추진할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T17:01:08+09:00",
-    "importance": 4
   }
 ]
