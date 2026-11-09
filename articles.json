@@ -3570,6 +3570,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, 2430억원 손익 개선·4.4조원 수주…실적 회복 넘어 성장 기반 강화 - 업코리아",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MdUEwNUdCZ1VfX3c2WTFoeWlOZ2F0RlJRQlNHYkhyYm4yZko0RERRZTVBNXFDRmlQdVpUdTNxdHBKbVVpYjRfRktmZUhMLXc0NWRobzhJZWxFVTNfVjBlMlZWcEdBeGVwYUtzMmVB?oc=5",
+    "description": "포스코이앤씨가 건축사업의 이익 창출력과 플랜트사업의 손익 회복을 바탕으로 수익성 중심 경영의 성과를 구체화하고 있다. 올해 3분기 영업손익을 전년 동기 대비 24",
+    "published_at": "2026-11-09T10:24:07+09:00",
+    "cluster_id": "f4c1",
+    "publisher": "업코리아",
+    "title_clean": "포스코이앤씨, 2430억원 손익 개선·4.4조원 수주…실적 회복 넘어 성장 기반 강화",
+    "summary": "포스코이앤씨가 건축과 플랜트사업의 수익성 개선으로 3분기 영업손익 2430억원 개선 및 4.4조원 수주 달성. 수익성 중심 경영 전략이 실질적 성과를 내면서 업계 내 긍정적 신호 제시.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T12:43:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -19552,22 +19568,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T16:01:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대형건설사 영업익 40% 늘었지만···플랜트 부진·주택 매출 감소는 부담 - 뉴스웨이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBETUpyU0wtRlNPRWFiQ1lKamdLNzdzemtrSFNHb2VpOU12bmxpTUdTVUR2LUNMZUhKUnNxTFlncXNSRnp0NzZpdkFraEs4MGU0SFN2clhuSHlOaWNRMEgwQllkSlNDcENvMkE?oc=5",
-    "description": "대형 상장 건설사들이 주택 이익률 상승 덕에 3분기 영업이익을 72.4% 증가시켰으나, 플랜트 부문은 수익성이 악화되었다. 공기 지연 및 원가율 증가로 실적에 악영향을 미쳤고, 주택 착공이 줄어들면서 매출 감소세가 지속되고 있다. 서울 정비사업 등을 통해 매출 공백을 메우려 하나, 플랜트와 주택 원가 관리가 내년 실적의 변수로 작용할 전망이다.",
-    "published_at": "2026-11-02T15:56:24+09:00",
-    "cluster_id": "5696",
-    "publisher": "뉴스웨이",
-    "title_clean": "대형건설사 영업익 40% 늘었지만···플랜트 부진·주택 매출 감소는 부담",
-    "summary": "대형건설사들이 주택 이익률 상승으로 3분기 영업이익을 72.4% 증가시켰으나, 플랜트 부문의 수익성 악화와 주택 착공 감소가 지속되고 있다. 공기 지연과 원가율 증가로 인한 실적 부담이 커지고 있으며, 내년도 플랜트와 주택 원가 관리가 핵심 변수로 작용할 전망이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-02T16:01:10+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
