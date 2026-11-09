@@ -19808,6 +19808,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[의정 포토] 오진택 도의원 \"건설업 임금체불 2,186억 원…퇴직공제금 ... - newsfreezone.co.kr",
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718477",
+    "description": "인용하며 건설노동자 보호 대책을 촉구했다. 오 의원은 퇴직공제금 미납 사업주가 100만~200만 원 수준의 과태료만 내고 버티면 노동자가 피해를 보는 구조라고 지적했다. 또 경기도의 전자카드 사용률이 75.5%로 전국...",
+    "published_at": "2026-11-10T05:00:00+09:00",
+    "cluster_id": "c38d",
+    "publisher": "newsfreezone.co.kr",
+    "title_clean": "[의정 포토] 오진택 도의원 \"건설업 임금체불 2,186억 원…퇴직공제금 ...",
+    "summary": "오진택 도의원이 경기도의 건설업 임금체불 2,186억 원 규모를 지적하며 건설노동자 보호 대책을 촉구했다. 퇴직공제금 미납 사업주의 낮은 과태료 수준이 노동자 피해를 야기하는 구조적 문제를 지적했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T05:10:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32206,21 +32222,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-04T00:11:15+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "허태정 대전시장 “공공기관 유치 위해 시청사도 내줄 각오”…지역경제 회복 속도 - 뉴스홈(newshome)",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54blM0dlhnbUtQWVVvajVndXNqV3dSQUM3YWRjTzY5XzlHblJ0QlJyYVdtSU4yZG44T3ZLN1R2NzB5NksyVlNfU3c3UUM4Z0p5ZHFScUhWWXJ2Z3ZDbEhuZjZYb1J1TXl1MGdnaUFB?oc=5",
-    "description": "허태정 대전시장이 2차 공공기관 이전 유치와 지역 건설경기 회복을 핵심 현안으로 제시하고, 대전의 경쟁력 강화를 위한 전방위적인 대응을 주문했다.허태정 시장은 3일 주재한 확대간부회의에서 “전국 16개 지자체가 공공기관 유치에 사활을 걸고 있다”며 “공공기관 유치를 위해 시청사도 내줄",
-    "published_at": "2026-11-03T11:46:43+09:00",
-    "cluster_id": "d217",
-    "publisher": "뉴스홈(newshome)",
-    "title_clean": "허태정 대전시장 “공공기관 유치 위해 시청사도 내줄 각오”…지역경제 회복 속도",
-    "summary": "허태정 대전시장이 2차 공공기관 이전 유치와 지역 건설경기 회복을 핵심 과제로 제시했다. 공공기관 유치를 위해 시청사 이전까지 검토하겠다는 입장으로, 대전 지역의 건설 수주 기회 확대 가능성을 시사했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-04T00:05:50+09:00",
-    "importance": 2
   }
 ]
