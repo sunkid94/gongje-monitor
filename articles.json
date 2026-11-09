@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "고양시 \"건설연은 경기 북부의 버팀목... 지방이전 대상에서 제외해 달라\" - 데일리중앙",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGNWZGWmMtQnlkMk9lMXM0T3ZkZ2hSQkhVeWwzOG5WUWh2OHRUNXpVSXNvRFVlZ3BJTF94MEJmQmJBNnhaSHZ2c0JKMWNRYVJsQzJxdkJxVU0tcUdmdzlBSGZvVGs5WWY2T3NoNA?oc=5",
+    "description": "[데일리중앙 김영민 기자] 고양시가 정부의 2차 공공기관 지방 이전 대상 발표를 앞두고 한국건설기술연구원이 고양에 남아 경기 북부와 함께 성장할 수 있도록 지역의 사정을 헤아려 달라는 입장을 밝혔다.건설연은 경기 북부의 버팀목인 만큼 지방 이전 대상에서 제외해 달라는 요청이다.고양시는 9일 \"국가 균형발전이라는 정부 정책의 취지에 공감한다\"면서도 \"수십 년간 각종 규제로 발전이 더뎠던 경기 북부에서 유일한 과학기술 분야 정부출연연구기관마저 떠나게 되면 고양시와 경기 북부가 감당해야 할 어려움이 더욱 커질 수밖에 없다\"고 설명했다.정",
+    "published_at": "2026-11-09T12:44:05+09:00",
+    "cluster_id": "4856",
+    "publisher": "데일리중앙",
+    "title_clean": "고양시 \"건설연은 경기 북부의 버팀목... 지방이전 대상에서 제외해 달라\"",
+    "summary": "고양시가 한국건설기술연구원의 지방이전 반대 입장을 표명하며, 경기 북부의 유일한 과학기술 정부출연연구기관 이전 시 지역 발전에 미칠 부정적 영향을 우려했다. 국가 균형발전 정책을 이해하면서도 규제로 어려움을 겪은 지역을 위해 건설연의 고양 잔류를 요청했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T01:31:45+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32205,22 +32221,6 @@
     "summary": "허태정 대전시장이 2차 공공기관 유치를 위해 시청사 제공까지 검토하는 등 적극적 유치 활동을 추진 중입니다. 이를 통해 지역 건설경기 회복과 대전의 경쟁력 강화를 도모하고 있습니다.",
     "sentiment": "positive",
     "collected_at": "2026-11-03T21:15:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "벤처기업협회, ‘COMEUP 2026’서 LG전자·킴벌리클락 등 40여 개 기업과... - venturesquare.net",
-    "link": "https://www.venturesquare.net/1125316/",
-    "description": "주요 협업 분야는 AI·로보틱스, 모빌리티, 핀테크, 스마트건설, 첨단소재, 헬스케어 등으로, 산업별 기술 수요에 맞는 스타트업을 발굴할 예정이다. 참여 스타트업은...",
-    "published_at": "2026-11-03T20:46:00+09:00",
-    "cluster_id": "9169",
-    "publisher": "venturesquare.net",
-    "title_clean": "벤처기업협회, ‘COMEUP 2026’서 LG전자·킴벌리클락 등 40여 개 기업과...",
-    "summary": "벤처기업협회가 COMEUP 2026에서 LG전자, 킴벌리클락 등 40여 개 기업과 협업하며 AI·로보틱스, 모빌리티, 핀테크, 스마트건설, 첨단소재, 헬스케어 등 주요 분야의 스타트업을 발굴할 계획이다. 산업별 기술 수요에 맞는 혁신 기업들의 매칭을 통해 기술 사업화를 촉진한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T20:59:58+09:00",
     "importance": 2
   }
 ]
