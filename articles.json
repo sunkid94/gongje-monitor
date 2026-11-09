@@ -3570,6 +3570,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 겨울철 대비 경영진 현장 점검 진행 - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37584",
+    "description": "IPARK현대산업개발은 본격적인 겨울철을 앞두고 지난 5일 경영진 주관 현장 안전 점검을 진행했다. 이번 점검은 큰 일교차에 따른 근로자 보건 관리 현황과 공정별 주요 작업 실태를 파악하기 위해 마련됐다. 통상 12월부터 시작되는 관계 기관의 동절기 점검에 앞서 현장 상황을 미리 확인하는 차원이다. 이날 현장에는 정경구 IPARK현대산업개발 대표이사와 양승철 최고안전책임자(CSO), 조흥봉 인프라본부장, 이상영 프로젝트디렉터(PD), 한동준 안전품질부문장 등이 참석했다. 경영진은 경남 김해시에 위치한 김해도시계획시설 토목공사 현장과",
+    "published_at": "2026-11-09T09:14:00+09:00",
+    "cluster_id": "ae69",
+    "publisher": "한국건설신문",
+    "title_clean": "IPARK현대산업개발, 겨울철 대비 경영진 현장 점검 진행",
+    "summary": "IPARK현대산업개발이 겨울철 안전사고 예방을 위해 경영진이 주도적으로 현장 점검을 실시했다. 큰 일교차로 인한 근로자 보건 관리 현황과 공정별 작업 실태를 파악하여 관계 기관의 동절기 점검에 사전 대비하는 조치다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T12:02:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19552,22 +19568,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-02T15:50:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"조 단위 물량 증가분 기업이 떠 안으라고요?\"...산업부에 '중재' 요청 - BBS불교방송",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QSWx0WXA4dFNrRzNqazNMN2NOOGhzX0JrSlBhTVFlU0ZOcTZwMVhoQzZRbjJKZkhuX2ltWHExd3hWeFg1UjlpcTRXOE1laE5uYkF0cDc2OG1hZUY2d3FaQ0RNaXM1dlFsTnhv?oc=5",
-    "description": "체코 두코바니 원전 건설 시공 계약을 둘러싸고 한국수력원자력과 대우건설 간의 공방이 격화되고 있는데요. 오늘 대우건설이 산업통상부에 중재를 요청했습니다.대우건설은 한수원이 검토 시간도 주지 않은 채 일방적으로 협상 결렬을 선언했다며, 정부가 나서 합리적인 해결방안을 찾도록 노력해야 한",
-    "published_at": "2026-11-02T15:36:04+09:00",
-    "cluster_id": "1b90",
-    "publisher": "BBS불교방송",
-    "title_clean": "대우건설 \"조 단위 물량 증가분 기업이 떠 안으라고요?\"...산업부에 '중재' 요청",
-    "summary": "체코 두코바니 원전 건설 시공 계약을 놓고 한국수력원자력과 대우건설이 갈등을 빚고 있으며, 대우건설이 조 단위 물량 증가분을 자체 부담하라는 요구에 반발해 산업통상부에 중재를 요청했다. 한수원의 일방적 협상 결렬 선언에 대해 정부의 개입을 촉구하는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T15:50:57+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
