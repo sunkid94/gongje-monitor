@@ -3791,6 +3791,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "제28회 부산국제마라톤대회 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1800&key=20261110.22001002803",
+    "description": "새마을금고, 롯데건설, 부산도시공사, 삼성전기, 경남정보대학교, SB선보(주), 부산농협, 송도해상케이블카, mediaone, 라발스호텔, 삼진어묵, 아리, 소석 200도씨, 펠릭스바이에스티엑스, 라 치나타, 에어부산, 롯데호텔...",
+    "published_at": "2026-11-09T20:06:00+09:00",
+    "cluster_id": "4653",
+    "publisher": "kookje.co.kr",
+    "title_clean": "제28회 부산국제마라톤대회",
+    "summary": "제28회 부산국제마라톤대회가 개최되며, 롯데건설, 부산도시공사, 삼성전기 등 다양한 기업과 기관이 후원사로 참여했다. 지역 스포츠 이벤트 개최로 지역 경제 활성화와 기업 브랜드 가치 제고에 기여한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-09T20:11:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -19773,22 +19789,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T05:50:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 \"체코원전 재협상해야\"…산업부 중재 요청 - yonhapnewstv.co.kr",
-    "link": "http://www.yonhapnewstv.co.kr/news/MYH2026110305362597L",
-    "description": "대우건설이 한국수력원자력과의 체코 신규 원전 건설사업 시공계약 협상이 결렬된 데 대해 유감을 표하며 산업통상부 중재를 통한 재협상을 요청했습니다. 대우건설은 어제(2일) 입장문을 내고 \"공사비 감액 등 수천억...",
-    "published_at": "2026-11-03T05:37:00+09:00",
-    "cluster_id": "3991",
-    "publisher": "yonhapnewstv.co.kr",
-    "title_clean": "대우건설 \"체코원전 재협상해야\"…산업부 중재 요청",
-    "summary": "대우건설이 한국수력원자력과의 체코 원전 건설사업 시공계약 협상 결렬에 유감을 표하고 산업통상부 중재를 통한 재협상을 요청했습니다. 공사비 감액 등으로 인한 협상 결렬로 대형 해외 원전 수주 기회가 무산될 위기 상황입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T05:50:01+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
