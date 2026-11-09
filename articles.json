@@ -3808,6 +3808,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "HD현대마린엔진, 삼성중공업과 361억 규모 엔진 공급 계약 - thelec.kr",
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=65136",
+    "description": "HD현대마린엔진은 삼성중공업과 선박 엔진 공급 계약을 체결했다고 9일 공시를 통해 밝혔다. 계약 금액은 361억원으로 지난해 매출의 9%다. 계약 기간은 11월 9일부터 2029년 6월 20일까지다. 계약 대금은 엔진 공급...",
+    "published_at": "2026-11-10T05:48:00+09:00",
+    "cluster_id": "4393",
+    "publisher": "thelec.kr",
+    "title_clean": "HD현대마린엔진, 삼성중공업과 361억 규모 엔진 공급 계약",
+    "summary": "HD현대마린엔진이 삼성중공업과 361억원 규모의 선박 엔진 공급 계약을 체결했다. 계약 기간은 2029년 6월까지이며, 지난해 매출의 9% 수준이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-10T05:55:32+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19789,22 +19805,6 @@
     "summary": "한수원이 체코 두코바니 원전 건설 프로젝트에서 대우건설과 두산에너빌리티 컨소시엄과의 시공 계약 협상을 결렬했다. 주요 계약 조건 견해차가 원인으로, 공사비 등 추가 협상이 예상된다.",
     "sentiment": "negative",
     "collected_at": "2026-11-03T06:49:48+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[흔들리는 원전 팀코리아] ② ‘온버짓’에 발목 잡힌 팀코리아, ‘온타... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021731371160275",
-    "description": "한국수력원자력이 지난달 29일 시공단(대우건설ㆍ두산에너빌리티)과의 공사비 협상을 종료하고 재입찰에 나서기로 하면서다. 글로벌 시장에서 K-원전의 장점은 ‘온버짓ㆍ온타임(예산 내 적기 준공)’으로 통한다....",
-    "published_at": "2026-11-03T06:40:00+09:00",
-    "cluster_id": "bf16",
-    "publisher": "대한경제",
-    "title_clean": "[흔들리는 원전 팀코리아] ② ‘온버짓’에 발목 잡힌 팀코리아, ‘온타...",
-    "summary": "한국수력원자력이 원전 건설 공사비 협상 결렬로 재입찰을 추진 중이다. K-원전의 글로벌 경쟁력인 '온버짓·온타임' 이행이 공사비 상승으로 어려워지고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T06:44:39+09:00",
     "importance": 4
   },
   {
