@@ -3570,6 +3570,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가덕도신공항 실시설계 착수…내년 상반기 본공사 목표 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=402441",
+    "description": "국토교통부와 가덕도신공항건설공단은 수의계약 예비 대상자인 대우건설 컨소시엄과 협의해 설계를 우선 진행하며, 내년 상반기 본공사 착공을 목표로 후속 절차를 밟는다. 국토부의 9일 참고자료에 따르면 실시설계는...",
+    "published_at": "2026-11-09T14:00:00+09:00",
+    "cluster_id": "08d9",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "가덕도신공항 실시설계 착수…내년 상반기 본공사 목표",
+    "summary": "가덕도신공항 실시설계가 착수되며 내년 상반기 본공사 착공을 목표로 진행 중이다. 대우건설 컨소시엄이 수의계약 예비 대상자로 설계 및 공사를 주도할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T14:04:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -19554,19 +19570,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 PF",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "'경제성·기술적 한계' SMR 회의론 커져, 현대건설·삼성물산·대우건설... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450911",
-    "description": "현대건설과 삼성물산, 대우건설은 SMR 사업 확대에 나서고 있는데 기존 원전의 설계·조달·시공(EPC) 경험을 바탕으로 상용화의 걸림돌을 해소할 수 있을지 주목된다. ◆ SMR 상용화에 회의론 확산, 비용·안전성 과제...",
-    "published_at": "2026-11-02T16:02:00+09:00",
-    "cluster_id": "9832",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "'경제성·기술적 한계' SMR 회의론 커져, 현대건설·삼성물산·대우건설...",
-    "summary": "현대건설, 삼성물산, 대우건설 등이 SMR(소형모듈원전) 사업 확대에 나서고 있으나, 경제성과 기술적 한계로 인한 회의론이 확산되고 있다. 상용화 과정에서 비용과 안전성이 주요 과제로 지적되고 있다.",
+    "title": "상지건설, 유증 조달액 반토막…에스칼라 PF 재심사에 고금리 부담 지속 - 위키리크스한국",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxdzdXSVEwbmRLclV0X1VnWjZrbm05OGpiR2JBb2w5dlpzbVJGMFdObTRPQUtvZ2toRGQ3YXBoN211SUFaNlhaNE91cGlKX21WXzBVajcweUwweV9iOGEwOXB1U3BHUmF3V2FEWHhhVGo?oc=5",
+    "description": "상지건설이 ‘상지카일룸 에스칼라’ 사업비를 마련하려 유상증자에 나섰으나 조달액이 첫 계획의 절반에도 못 미쳤다. 또한 금융권 심의를 통과한 사업안을 수정하면서 본프로젝트파이낸싱(PF) 심사를 다시 받는 동안 높은 금리의 브릿지론 이자도 계속 부담해야 하는 상황이다.9일 금융감독원 전자공시시스템에 따르면 상지건설은 지난 6일 주주우선공모 유상증자 최종 청약률이 74.32%로 집계됐다고 공시했다. 발행 예정 220만주 중 163만5087주가 청약됐다. 미청약분은 발행하지 않는다.조달액은 발행가 5000원 기준 약 81억8000만원이다.",
+    "published_at": "2026-11-09T13:59:13+09:00",
+    "cluster_id": "1a1a",
+    "publisher": "위키리크스한국",
+    "title_clean": "상지건설, 유증 조달액 반토막…에스칼라 PF 재심사에 고금리 부담 지속",
+    "summary": "상지건설이 '상지카일룸 에스칼라' 사업비 조달을 위한 유상증자에서 계획의 절반 수준인 약 818억 원만 조달했다. PF 재심사 기간 동안 고금리 브릿지론 이자 부담이 지속되고 있어 회사의 재무 부담이 가중되고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-11-02T16:10:54+09:00",
+    "collected_at": "2026-11-09T14:04:46+09:00",
     "importance": 4
   },
   {
@@ -32192,21 +32208,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T11:50:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "순천시, 10월 내내 혈세 쏟아 축제·행사 수십 건…민생은 언제? - polinews.co.kr",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=747516",
-    "description": "건설경기 침체와 골목상권의 어려움이 이어지는 상황에서 순천시가 축제를 이유로 매일 꽹과리 소리를 낸다고 해서 시민의 삶이 좋아지지 않는다는 지적이다. 이웃도시 박성현 광양시장이 지난 29일 국회를 방문해...",
-    "published_at": "2026-11-03T11:42:00+09:00",
-    "cluster_id": "e5e9",
-    "publisher": "polinews.co.kr",
-    "title_clean": "순천시, 10월 내내 혈세 쏟아 축제·행사 수십 건…민생은 언제?",
-    "summary": "순천시가 10월 내내 수십 건의 축제와 행사에 예산을 집중하고 있으나, 건설경기 침체와 골목상권 어려움 속에서 실질적 민생 개선이 부족하다는 비판이 제기되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T11:50:55+09:00",
-    "importance": 4
   }
 ]
