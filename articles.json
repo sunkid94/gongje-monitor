@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "LX공사, ‘K-Geo Festa’서 GeoAI 결합 ‘국토행정 플랫폼’ 소개 - 팝콘뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjOEdTUExxRTR1OWdCMWlmMlkyejdGWXZicVB1dVZaYWVocGFMS2RyMXNSOHl3Nmh4UXdVLXZ6bEZsMVNhdmduTmFUblJOcDdRWTdGWURiQU5zbnpTOWZVZ2RkTGV2TUtXWlpieEhB?oc=5",
+    "description": "(팝콘뉴스=김은교 기자) 국내 최대 공간정보 혁신기술 박람회인 ‘2026 K-Geo Festa’가 1만6000여 명 관람객 성원으로 막을 내렸다.국토교통부가 주최하고 한국국토정보공사(LX공사)가 총괄 주관한 이번 행사는 지난 4일부터 6일까지 사흘간 고양 킨텍스에서 개최, 공간정보산업의 현재와 미래 기술을 보여줬다.올해 전시회에서는 인공지능(AI)과 공간정보가 접목된 ‘GeoAI’가 핵심 화두로 제시됐다. 공간정보가 단순 디지털 복제를 넘어서 분석·예측을 통해 미래 가치를 창출하는 지능형 기술로 진화하고 있음을 나타내고자 했다. 본",
+    "published_at": "2026-11-09T19:31:50+09:00",
+    "cluster_id": "41c9",
+    "publisher": "팝콘뉴스",
+    "title_clean": "LX공사, ‘K-Geo Festa’서 GeoAI 결합 ‘국토행정 플랫폼’ 소개",
+    "summary": "LX공사가 '2026 K-Geo Festa'에서 인공지능과 공간정보를 결합한 'GeoAI' 기술과 국토행정 플랫폼을 선보였다. 공간정보 산업이 단순 디지털 복제를 넘어 분석·예측을 통한 지능형 기술로 진화하고 있음을 나타냈다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-10T03:50:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32206,21 +32222,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-03T22:30:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "허태정 대전시장 “공공기관 유치에 시청사도 내줄 각오”, 지역경제 살리기 속도전 - 중앙매일",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BMFdLa0U4czBpYkNTT3NqNGRKbVdGeVVfM2NTMk1VRE10bmhWMDFjMkhPLURWQmVlZFRPQ3lFSDBtVW4tZkpsWEc4NjFLMnJfRmtsczJhRVVPZlcwNTFVTDlReGlfZw?oc=5",
-    "description": "허태정 대전시장은 3일 주재한 확대간부회의에서 2차 공공기관 이전과 지역 건설경기 회복을 주요 현안으로 강조하며, 대전의 경쟁력 강화를 위한 전방위적인 대응을 주문했다.허태정 대전시장은 “전국 16개 지자체가 공공기관 유치에 사활을 걸고 있다”며 “공공기관 유치를 위해 시청사도 내줄 수 있다는 발언이 농담이 아니다”라고 강조했다.이어 공공기관 유치와 첨단산업 육성에 속도를 내야 한다며, 모든 부서와 산하기관이 유치 전략 마련과 경쟁력 강화에 총력을 기울일 것을 당부했다.침체된 지역 건설경기 회복을 위한 적극적인 대응도 지시했다. 특",
-    "published_at": "2026-11-03T13:10:17+09:00",
-    "cluster_id": "4c97",
-    "publisher": "중앙매일",
-    "title_clean": "허태정 대전시장 “공공기관 유치에 시청사도 내줄 각오”, 지역경제 살리기 속도전",
-    "summary": "허태정 대전시장이 2차 공공기관 이전 유치와 지역 건설경기 회복을 최우선 과제로 삼겠다고 밝혔다. 시청사 제공까지 불사하겠다는 강한 의지를 드러내며 전 부서에 공공기관 유치 전략 마련과 건설경기 회복에 총력을 기울일 것을 지시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T22:05:33+09:00",
-    "importance": 2
   }
 ]
