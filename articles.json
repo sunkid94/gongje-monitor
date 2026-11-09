@@ -19791,6 +19791,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김회근 서울시의원, 도시기반시설본부 안전관리 체계 전면 개선 촉구 - 웹이코노미",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94MzZSQkN4Q0w4bXVhSUFyVXVOUUFUY3lPbGZucFFhV2xnRUV2N1VDN0dOdVF0b2RuVnMyZE45dzN2SGNaSUFTMkJrLVZ4Q1BXY2ttTlhaOXZKdFlXdkNTc1o3UFhubjZ6ZXZiTWNMWDF5dw?oc=5",
+    "description": "김회근 서울시의원은 서울시 도시기반시설본부의 건설공사 현장 안전관리 체계가 실질적인 사고 예방으로 이어지지 못하고 있다고 지적했다.최근 5년간 도시철도 건설현장에",
+    "published_at": "2026-11-09T22:26:37+09:00",
+    "cluster_id": "d250",
+    "publisher": "웹이코노미",
+    "title_clean": "김회근 서울시의원, 도시기반시설본부 안전관리 체계 전면 개선 촉구",
+    "summary": "김회근 서울시의원이 도시기반시설본부의 건설공사 현장 안전관리 체계가 실질적인 사고 예방으로 이어지지 못하고 있다고 지적했다. 최근 5년간 도시철도 건설현장에서의 안전 문제를 언급하며 전면 개선을 촉구했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-09T22:41:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32204,22 +32220,6 @@
     "summary": "재건축 사업의 공사비 급등과 금융비용 상승으로 조합원 분담금이 수억원대에서 10억원을 초과하는 수준으로 증가하고 있다. 건설공사비 지수가 12개월 연속 상승해 역대 최고치를 기록하면서 정비사업의 수익성이 악화되는 추세다.",
     "sentiment": "negative",
     "collected_at": "2026-11-03T20:52:07+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[EBN 오늘(3일) 이슈 종합] 재계 연말 인사 '안정 속 쇄신' 방점…삼성·... - ebn.co.kr",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730335",
-    "description": "선박 건조량 증가와 자동차 생산 회복으로 후판·자동차강판 수요는 견조한 흐름을 이어가는 반면 건설경기 부진으로 철근 등 건설용 철강재의 회복은 더딜 전망이다. 철강 수요가 완만한 회복세를 보이는 가운데 제품별...",
-    "published_at": "2026-11-03T20:30:00+09:00",
-    "cluster_id": "a296",
-    "publisher": "ebn.co.kr",
-    "title_clean": "[EBN 오늘(3일) 이슈 종합] 재계 연말 인사 '안정 속 쇄신' 방점…삼성·...",
-    "summary": "선박 건조량 증가와 자동차 생산 회복으로 후판·자동차강판 수요는 견조하나, 건설경기 부진으로 철근 등 건설용 철강재 회복은 더딜 전망이다. 철강 수요가 완만한 회복세를 보이고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T20:40:26+09:00",
     "importance": 4
   }
 ]
