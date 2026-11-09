@@ -19570,6 +19570,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "고양시 \"한국건설기술연구원 지방 이전 제외해 달라\" - OBS경인TV",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzV3lfemY0cG9XQnVuWmhwY1kzQ3UxOVdCS0s2cWJ2VFBWS054UGhOZ2dVb0FsYlBaWXZlZGpBWG5MTkdHTnNpQjBHa3pKS1h0cVF1YVV3Ulg4Vmt6T2xOSWdrdVoyQXVvVmRZVUdn?oc=5",
+    "description": "경기 고양시가 2차 공공기관 지방 이전 대상 발표를 앞두고 한국건설기술연구원이 지역에 남아 경기 북부와 함께 성장할 수 있도록 해달라는 입장을 밝혔습니다.시는 각종 규제로 발전이 더딘 경기 북부에 유일한 과학기술 분야 정부출연연구기관마저 떠나게 되면 고양시와 경기 북부...",
+    "published_at": "2026-11-09T09:22:26+09:00",
+    "cluster_id": "0292",
+    "publisher": "OBS경인TV",
+    "title_clean": "고양시 \"한국건설기술연구원 지방 이전 제외해 달라\"",
+    "summary": "고양시가 한국건설기술연구원의 지방 이전 제외를 요청하고 있습니다. 경기 북부의 과학기술 연구 인프라 유지와 지역 발전을 명분으로 하고 있습니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-09T09:33:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32190,22 +32206,6 @@
     "title_clean": "익산 건설업계, 청소년의 내일에 희망 더한다",
     "summary": "대한전문건설협회 익산시협의회가 건설산업 발전과 제도 개선을 추진하면서 장학금 기탁 등 사회공헌활동을 펼치고 있다. 지역 건설업계의 경기활성화와 회원사 협력체계 구축을 통해 지역사회에 기여하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-02T18:35:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 호조 속 충청권 경기 소폭 개선…자동차·석유화학은 '부진' - daejonilbo.com",
-    "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2310955",
-    "description": "철강은 국내 건설경기 부진과 글로벌 공급과잉 등으로 어려움이 지속됐으나, 조선용 후판과 데이터센터 및 반도체 공장 건설용 철강제품의 견조한 글로벌 수요에 힘입어 생산은 보합세를 나타냈다. 철강 수출은 관련...",
-    "published_at": "2026-11-02T18:26:00+09:00",
-    "cluster_id": "f430",
-    "publisher": "daejonilbo.com",
-    "title_clean": "반도체 호조 속 충청권 경기 소폭 개선…자동차·석유화학은 '부진'",
-    "summary": "반도체와 조선용 철강 수요 호조로 충청권 경기가 소폭 개선되었으나, 건설경기 부진과 자동차·석유화학 부진으로 전체 산업은 여전히 약세를 보이고 있다. 건설용 철강 수요 부족이 업계의 주요 약점으로 작용 중이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-02T18:35:54+09:00",
     "importance": 2
   }
