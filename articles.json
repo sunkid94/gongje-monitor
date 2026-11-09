@@ -3570,6 +3570,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가덕도신공항 실시설계 착수…우선시공분은 '이달 착공'서 '연내 계약'으... - imaeil.com",
+    "link": "https://www.imaeil.com/page/view/2026110913063328405",
+    "description": "국토교통부와 가덕도신공항건설공단은 9일 \"부지조성공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의를 거쳐 실시설계에 들어갔다\"고 밝혔다. 실시설계는 착수일부터 180일간 진행된다. 국토부와 공단은 설계를...",
+    "published_at": "2026-11-09T13:07:00+09:00",
+    "cluster_id": "fc2a",
+    "publisher": "imaeil.com",
+    "title_clean": "가덕도신공항 실시설계 착수…우선시공분은 '이달 착공'서 '연내 계약'으...",
+    "summary": "가덕도신공항 부지조성공사가 실시설계 단계로 진입했으며, 대우건설 컨소시엄과의 수의계약 협의를 통해 추진 중이다. 180일간의 실시설계를 거쳐 연내 계약 체결을 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T13:13:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -19554,20 +19570,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 산업부 중재 통한 체코 신규 원전 재협상 요청 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sa3I3Q3ZHTENQMTZpSU4tN0Q4TUtnRUNQc0tvSm1vRWlialctdTVsa1dPQ0ozdW9ZYzk2U0t2aktRdEhKWUJSZUQwbHV1aUs5aXVDVzdtTkdZMm5ZSTFsOTliSEg?oc=5",
-    "description": "매일일보 = 이혜경 기자 | 대우건설은 체코 신규 원전 건설사업이 정상화되기 위해 산업통상부의 중재를 통한 건설 계약 재협상을 요청한다고 2일 밝혔다.대우건설은",
-    "published_at": "2026-11-02T15:52:14+09:00",
-    "cluster_id": "b61e",
-    "publisher": "매일일보",
-    "title_clean": "대우건설, 산업부 중재 통한 체코 신규 원전 재협상 요청",
-    "summary": "대우건설이 체코 신규 원전 건설사업의 정상화를 위해 산업통상부의 중재를 통한 건설 계약 재협상을 요청했다. 사업 진행에 차질이 있는 상황으로 정부 개입을 통한 문제 해결을 시도 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T16:01:10+09:00",
-    "importance": 4
+    "title": "서울시의회 도시안전건설위원회, 행정사무감사 중 서울소방학교 현장확인 실시 - 코리아방송",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LS0hMUm51SkpvTGNaWlI1UzNrdGdITExFMFhNaWNjZC04Vl9ZMHd0ck93YTNFek8tSmI0dVlLYlJneXJMVTloYkhjM1BGTUJKM0lOLWw1bXFqWFhCd004OENTV2dEa3c?oc=5",
+    "description": "[코리아방송 윤명중 기자] 서울특별시의회 도시안전건설위원회는 11월 6일 제340회 정례회 서울소방재난본부 행정사무감사 중 ‘서울소방학교’를 방문하여 공사 중인",
+    "published_at": "2026-11-09T12:28:45+09:00",
+    "cluster_id": "24d1",
+    "publisher": "코리아방송",
+    "title_clean": "서울시의회 도시안전건설위원회, 행정사무감사 중 서울소방학교 현장확인 실시",
+    "summary": "서울시의회 도시안전건설위원회가 서울소방학교 공사 현장을 행정사무감사 중 방문하여 공사 진행 상황을 점검했다. 소방시설 관련 공공 건설 프로젝트에 대한 의회 차원의 감시 및 감사 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-09T13:13:36+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
@@ -32190,22 +32206,6 @@
     "title_clean": "풍산, 3분기 영업익 전년동기比 155.6%↑…데이터센터·반도체 소재 수요...",
     "summary": "풍산이 3분기 영업익을 전년동기 대비 155.6% 증가시켰으며, 데이터센터와 반도체 소재 수요 확대가 주요 성장 동력입니다. 다만 자동차 소재 판매 감소와 내수 건설경기 부진이 부정적 요인으로 작용하고 있습니다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-03T11:00:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "\"LG전자·킴벌리클락과 뭉칠 스타트업 찾습니다\"…벤처기업협회, OI 밋업... - widedaily.com",
-    "link": "https://www.widedaily.com/news/articleView.html?idxno=302670",
-    "description": "주요 협력 분야는 인공지능(AI)과 로보틱스를 필두로 모빌리티, 핀테크, 스마트건설, 첨단소재, 헬스케어 등 미래 산업 전반을 아우른다. 참여 스타트업은 자사가 내세우는 핵심 기술을 바탕으로 이들 수요 기업과 심도...",
-    "published_at": "2026-11-03T10:52:00+09:00",
-    "cluster_id": "c8cd",
-    "publisher": "widedaily.com",
-    "title_clean": "\"LG전자·킴벌리클락과 뭉칠 스타트업 찾습니다\"…벤처기업협회, OI 밋업...",
-    "summary": "LG전자, 킴벌리클락 등 대형 기업과 스타트업 협력을 위한 오픈이노베이션 밋업이 개최된다. AI, 로보틱스, 스마트건설 등 미래 산업 분야에서 협력 기회를 모색하는 행사로, 건설업계에는 스마트건설 분야 혁신 기술 도입 및 시장 확대 기회를 제공한다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-03T11:00:56+09:00",
     "importance": 2
   }
