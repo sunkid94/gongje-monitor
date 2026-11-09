@@ -3808,6 +3808,22 @@
     "importance": 7
   },
   {
+    "keyword": "엘지씨엔에스",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "이노에이엑스, 공제 시스템 대금 60% 중도금으로 변경 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=402725",
+    "description": "분석·설계·개발·통합테스트 검수 후 60% 지급 이노에이엑스(296640)는 9일 금융감독원 전자공시시스템(DART)에 제출한 정정공시에서 ㈜엘지씨엔에스와의 새마을금고중앙회 계정계 최신화 시스템 구축 계약의 대금...",
+    "published_at": "2026-11-10T00:48:00+09:00",
+    "cluster_id": "5a61",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "이노에이엑스, 공제 시스템 대금 60% 중도금으로 변경",
+    "summary": "이노에이엑스가 새마을금고중앙회 계정계 최신화 시스템 구축 계약의 대금 지급 조건을 변경하여 분석·설계·개발·통합테스트 검수 후 60%를 중도금으로 지급하기로 결정했습니다. 이는 프로젝트 진행 중 대금 회수 시점을 앞당기는 조건 개선입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-10T00:56:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19790,22 +19806,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T06:39:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 엎어지고, 가덕신공항 꼬이고… 대우건설 미래일감 흔들 - it.chosun.com",
-    "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000044",
-    "description": "한수원과 대우건설·두산에너빌리티 컨소시엄의 원전 건설사업 시공 계약 협상이 지난달 29일 결렬된 데 따른 것이다. 대우건설은 이날 산업부의 체코 원전 계약에 대한 비상관리 체제 가동을 계기로 이같이 요청했다....",
-    "published_at": "2026-11-03T06:30:00+09:00",
-    "cluster_id": "0519",
-    "publisher": "it.chosun.com",
-    "title_clean": "체코 원전 엎어지고, 가덕신공항 꼬이고… 대우건설 미래일감 흔들",
-    "summary": "대우건설이 한수원과의 체코 원전 건설 계약 협상 결렬로 인해 미래 일감 확보에 차질을 겪고 있다. 동시에 가덕신공항 사업도 진행 중인 어려움으로 건설사의 주요 프로젝트들이 불확실성에 노출되어 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T06:34:42+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
