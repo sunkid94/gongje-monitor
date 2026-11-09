@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[단독]보증금 못줘 경매 신청 지방아파트 4년새 6.8배로… 年1000채 육박 - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20261110/134995612/2",
+    "description": "국토교통부 건설산업지식정보시스템에 따르면 올해 1∼9월 건설사 폐업 신고는 변경·정정·철회 신고를 포함해 3274건이었다. 이는 전년 동기(2569건) 대비 27.4% 늘어난 수준으로 2009년(3340건) 이후 17년 만에 가장 많았다....",
+    "published_at": "2026-11-10T04:35:00+09:00",
+    "cluster_id": "70f5",
+    "publisher": "donga.com",
+    "title_clean": "[단독]보증금 못줘 경매 신청 지방아파트 4년새 6.8배로… 年1000채 육박",
+    "summary": "올해 1~9월 건설사 폐업 신고가 3274건으로 전년 동기 대비 27.4% 증가했으며, 17년 만에 최다 수준을 기록했다. 보증금을 주지 못해 경매 신청된 지방아파트가 4년 새 6.8배 증가하는 등 건설업계의 경영 악화가 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T04:40:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32205,22 +32221,6 @@
     "summary": "허태정 대전시장이 2차 공공기관 이전 유치와 지역 건설경기 회복을 핵심 과제로 제시했다. 공공기관 유치를 위해 시청사 이전까지 검토하겠다는 입장으로, 대전 지역의 건설 수주 기회 확대 가능성을 시사했다.",
     "sentiment": "positive",
     "collected_at": "2026-11-04T00:05:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "TK 다세대 주택 건설시장 ‘기지개’ - 대경일보",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iZXlQc1ZVdkZ0bHM1WXczSGdKUWZlNVBCZFkwRWVwejNqeUZwaTAyTUZuUU9DbEE4OEpxQjFsUUVFOUNsVjBuYkZROVJUVkhlTUppVUJqZ0lMUmJiZ2cxeEo4TUJTS0xG?oc=5",
-    "description": "대구·경북지역 다세대·다가구주택 건설 경기에 숨통이 트일 전망이다.30년 넘게 묶여 있던 다세대·다가구주택의 면적 제한이 대폭 완화되고 다가구주택은 한 층을 더 지을 수 있게 되면서 대구 도심과 경북 주요 도시의 저층 주거지역을 중심으로 신규 건축과 증축·재건축 사업성이 개선될 것으로 기대된다.국토교통부는 3일 국무회의에서 이 같은 내용을 담은 ‘건축법 시행령’ 일부개정안이 의결돼 오는 12일부터 시행된다고 밝혔다. 이번 개정은 정부가 지난 8월 발표한 ‘주택 신속공급 방안’의 후속 조치다.가장 큰 변화는 다세대·다가구주택의 면적",
-    "published_at": "2026-11-03T15:26:56+09:00",
-    "cluster_id": "4f34",
-    "publisher": "대경일보",
-    "title_clean": "TK 다세대 주택 건설시장 ‘기지개’",
-    "summary": "국토교통부가 30년 이상 유지되던 다세대·다가구주택 면적 제한을 대폭 완화하고 다가구주택 층수를 늘리는 건축법 시행령 개정안을 의결했다. 12일부터 시행되는 이 조치로 대구·경북지역의 신규 건축과 증축·재건축 사업성이 개선될 것으로 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T22:55:58+09:00",
     "importance": 2
   }
 ]
