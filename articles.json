@@ -3740,6 +3740,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 5174억 능곡3구역 재개발 수주 - koreareport.co.kr",
+    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54477",
+    "description": "IPARK현대산업개발이 공사비 5174억원 규모의 경기 고양시 능곡3구역 재개발 사업 시공사로 선정됐다. 이번 수주로 올해 정비사업 누적 수주액은 2조 7322억원으로 늘었다. IPARK현대산업개발은 지난 7일 열린...",
+    "published_at": "2026-11-09T18:20:00+09:00",
+    "cluster_id": "2a50",
+    "publisher": "koreareport.co.kr",
+    "title_clean": "IPARK현대산업개발, 5174억 능곡3구역 재개발 수주",
+    "summary": "IPARK현대산업개발이 경기 고양시 능곡3구역 재개발 사업 시공사로 선정되어 공사비 5174억원 규모의 수주를 확보했다. 이번 수주로 올해 정비사업 누적 수주액이 2조 7322억원으로 증가했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T18:25:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19722,22 +19738,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-02T20:51:19+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 “한수원이 리스크 떠넘겨”…체코 원전 재협상 중재 요청 - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202611022042015",
-    "description": "앞서 지난달 29일 한수원은 계약조건에 대한 이견으로 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상을 종료한다고 밝혔다. 다만 두산에너빌리티와 맺은 주기기 공급계약은 유지되며, 두산 측은 시공계약...",
-    "published_at": "2026-11-02T20:42:00+09:00",
-    "cluster_id": "2f29",
-    "publisher": "khan.co.kr",
-    "title_clean": "대우건설 “한수원이 리스크 떠넘겨”…체코 원전 재협상 중재 요청",
-    "summary": "한수원과 대우건설·두산에너빌리티 컨소시엄이 체코 원전 시공계약 협상을 종료했다. 대우건설이 계약조건 이견으로 인한 리스크 전가 문제를 중재 요청하며 재협상을 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-02T20:51:19+09:00",
-    "importance": 4
   },
   {
     "keyword": "스마트건설",
