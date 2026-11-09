@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "철거 계약서에 도장 찍는 순간, 발주자도 형사 책임 범위에 든다 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJRzJ0MnVGV2dZanV4TWtVQ2ZlbTNuaEJSWjZmd1dtVnVERC1ab3lycEtpMGNEaC1xbXYxRm11S0NSSUlPSlZSY0NQaFFOREtKeGZz?oc=5",
+    "description": "싼 견적 뒤에 빠진 폐기물·석면 비용 건설폐기물법, 건축물관리법, 산업안전보건법은 무허가 철거 문제에서 발주자와 건물 소유자에게 직접 처벌 가능한 의무를 부과한다. 2009년 1월 대법원은 대한주택공사가 무허가 업체에 건설폐기물 처리를 맡긴 사안에서 발주자 책임을 명확히 인정했다(대법원 2008도8607 판결). 무허가 철거 문제의 핵심은 가격이 아니라 책",
+    "published_at": "2026-11-10T02:52:00+09:00",
+    "cluster_id": "ded1",
+    "publisher": "유스연합",
+    "title_clean": "철거 계약서에 도장 찍는 순간, 발주자도 형사 책임 범위에 든다",
+    "summary": "건설폐기물법 등 관련 법규에 따라 발주자와 건물 소유자가 무허가 철거 계약 체결 시 직접 형사 책임을 지게 된다. 싼 견적에만 의존한 철거 발주는 폐기물·석면 처리 비용 누락으로 인한 법적 처벌 위험을 초래할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T03:00:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32205,22 +32221,6 @@
     "summary": "허태정 대전시장이 2차 공공기관 이전 유치와 지역 건설경기 회복을 최우선 과제로 삼겠다고 밝혔다. 시청사 제공까지 불사하겠다는 강한 의지를 드러내며 전 부서에 공공기관 유치 전략 마련과 건설경기 회복에 총력을 기울일 것을 지시했다.",
     "sentiment": "positive",
     "collected_at": "2026-11-03T22:05:33+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대산지방해양수산청, 겨울철 앞두고 항만·어항시설 127곳 안전점검 - 중도일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fb2NsYUdrdGlURDNsRnZtTlZTb05PTE5ORE1zWXhweFdyUFRHNXJLbzhrRTdILWkxc1dRbVdYdzF6QnUtRmU5ZnpmT2pQNjZwWXZmc3ZtT2dnZElUOVFmbmZjdXdWeDNpNElNMA?oc=5",
-    "description": "대산지방해양수산청이 겨울철 대설과 한파로 인한 시설물 피해와 안전사고를 예방하기 위해 관할 항만·어항시설과 건설현장에 대한 집중 점검에 나선다. 대산지방해양수산청(청장 정태섭)은..",
-    "published_at": "2026-11-03T21:40:23+09:00",
-    "cluster_id": "6af8",
-    "publisher": "중도일보",
-    "title_clean": "대산지방해양수산청, 겨울철 앞두고 항만·어항시설 127곳 안전점검",
-    "summary": "대산지방해양수산청이 겨울철 대설과 한파로 인한 시설 피해를 예방하기 위해 관할 항만·어항시설과 건설현장 127곳에 대한 집중 안전점검을 실시한다. 안전사고 예방 및 시설물 관리 강화를 목표로 하는 정부 차원의 점검 활동이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-03T21:50:24+09:00",
     "importance": 2
   }
 ]
