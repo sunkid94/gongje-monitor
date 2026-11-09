@@ -19570,6 +19570,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘2026 건설엔지니어링의 날’ 창립 제33주년 기념 성료 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wX2dKVDdwMHFmYWxKc2lFTGgyR19DWTZ3UzN5dGV5cjNlRGwxRXFhZk81azZ1UTVtNWJtaGdQcVJWaWJaWlJER3FPcjYtT0VRa2R1N3dSUV9oNjdqa3FXbExyejh3QmxTTm84?oc=5",
+    "description": "한국건설엔지니어링협회(회장 김종흔)는 창립 33주년을 맞아 11월 4일 서울 양재동 소재 엘타워에서 ‘2026 건설엔지니어링의 날’ 기념식을 개최했다.건설엔지니어링산업 발전에 기여한 유공자를 포상하고 업계 종사자들의 자긍심 고취 및 힘찬 도약과 화합을 다짐하고자 개최된 이날 기념식에는 국토교통부 대도시권광역교통위원회 김용석 위원장, 국회 국토교통위원회 김은혜 의원과 함께 유관기관‧회원사 대표 및 건설기술인 등 약 200명이 참석해 성황을 이뤘다.한국건설엔지니어링협회 김종흔 회장은 기념사에서 “협회는 건설엔지니어링 산업의 합리적 대가",
+    "published_at": "2026-11-09T11:09:00+09:00",
+    "cluster_id": "3d86",
+    "publisher": "한국건설신문",
+    "title_clean": "‘2026 건설엔지니어링의 날’ 창립 제33주년 기념 성료",
+    "summary": "한국건설엔지니어링협회가 창립 33주년을 기념하여 기념식을 개최했으며, 산업 발전에 기여한 유공자 포상 및 업계 종사자들의 자긍심 고취를 도모했다. 국토교통부, 국회 등 유관기관과 약 200명의 업계 인사들이 참석하여 업계 화합과 도약을 다짐했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-09T11:13:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32192,21 +32208,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T06:49:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설사 폐업 신고 27% 급증⋯주택공급 속도전 속 시공사 확보 난항 우려... - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2642962",
-    "description": "국토교통부 건설산업지식정보시스템(KISCON)에 따르면 올해 1~9월 건설업 폐업 신고는 3274건으로 지난해 같은 기간 2569건보다 705건(27.4%) 증가했다. 변경·정정·철회가 포함된 신고 건수로, 2009년 같은 기간 3340건 이후...",
-    "published_at": "2026-11-03T06:02:00+09:00",
-    "cluster_id": "0e5c",
-    "publisher": "etoday.co.kr",
-    "title_clean": "건설사 폐업 신고 27% 급증⋯주택공급 속도전 속 시공사 확보 난항 우려...",
-    "summary": "올해 1~9월 건설업 폐업 신고가 3274건으로 전년도 같은 기간 대비 27.4% 급증했다. 주택공급 시공사 확보 난항으로 건설업계의 경영 어려움이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T06:09:58+09:00",
-    "importance": 4
   }
 ]
