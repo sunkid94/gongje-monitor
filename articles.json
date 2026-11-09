@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "2026년 건설 현장 안전관리자 채용 전 반드시 확인해야 할 선임 기준과 자격 검증 절차 - 한국공공정책신문",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zbTRYUUQweWRRX0ROZlpDNENMaGxkaWtRTkc2NDRWSXBvYmZ2bDRPdVM0cHY2X2ZkWWJFRW1LaHBZZkk?oc=5",
+    "description": "50억 원 현장부터 선임 의무 확인 2026년 11월, 건설 현장에서 안전관리자 채용은 더 이상 서류 한 장으로 처리할 수 있는 사안이 아니다. 공사금액 50억 원을 넘긴 원청 현장은 산업안전보건법(제17조, 시행령 제16조)에 따라 안전관리자를 선임해야 하고, 자격 요건을 갖추지 못한 사람을 배치하면 감독 과정에서 미선임으로 판단받을 수 있다. 1차 적발",
+    "published_at": "2026-11-10T02:17:48+09:00",
+    "cluster_id": "18c0",
+    "publisher": "한국공공정책신문",
+    "title_clean": "2026년 건설 현장 안전관리자 채용 전 반드시 확인해야 할 선임 기준과 자격 검증 절차",
+    "summary": "2026년 11월부터 공사금액 50억 원 이상인 건설 현장에서는 산업안전보건법에 따라 자격을 갖춘 안전관리자 선임이 의무화되며, 자격 미충족 인원 배치 시 미선임으로 적발될 수 있다. 기존의 서류 중심 채용 절차에서 벗어나 엄격한 자격 검증이 요구되는 변화다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T02:25:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32205,22 +32221,6 @@
     "summary": "대산지방해양수산청이 겨울철 대설과 한파로 인한 시설 피해를 예방하기 위해 관할 항만·어항시설과 건설현장 127곳에 대한 집중 안전점검을 실시한다. 안전사고 예방 및 시설물 관리 강화를 목표로 하는 정부 차원의 점검 활동이다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-03T21:50:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "허태정 대전시장, \"시청사도 내줄 수 있다\"···2차 공공기관 유치에 총... - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=285993",
-    "description": "허태정 대전시장(오른쪽)이 3일 주재한 확대간부회의에서 2차 공공기관 이전과 지역 건설경기 회복을 주요 현안으로 강조하며 대전의 경쟁력 강화를 위한 전방위적인 대응을 주문하고 있다. [사진제공=대전시] 허태정...",
-    "published_at": "2026-11-03T21:08:00+09:00",
-    "cluster_id": "c3e8",
-    "publisher": "paxetv.com",
-    "title_clean": "허태정 대전시장, \"시청사도 내줄 수 있다\"···2차 공공기관 유치에 총...",
-    "summary": "허태정 대전시장이 2차 공공기관 유치를 위해 시청사 제공까지 검토하는 등 적극적 유치 활동을 추진 중입니다. 이를 통해 지역 건설경기 회복과 대전의 경쟁력 강화를 도모하고 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T21:15:20+09:00",
     "importance": 2
   }
 ]
