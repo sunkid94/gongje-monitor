@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[뉴테크 포커스]한국도로공사, 도로분야 OSC(탈현장) 건설 주도한다 - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QVHZwRXdHM21KZHdVU2U4RDlPaUhJMFFBVmw4NVlkX2VpS0dPYTVZdDQ4clBGM0FZNjA3SE5DakhLMDB6Ml9TcHdlS090QzNIVFZjMnE4MlhuN1ZpR1dkMGxZUWp4T0VkM0tJU20xX0N3UDg?oc=5",
+    "description": "동아이엔지 신기술 방음벽 기초특정공법 채택김포~파주 4공구ㆍ세종~천안 1공구에 적용신원RPC 특허 방호벽은대산~당진 설계에 반영동아이엔지의 건설신기술‘파일을 이용한프리캐스트 방음벽 기초 및 자립식 옹벽’이 적용된 경부선 양산사송지구 방음시설. 이 기술은 한국도로공사의 ...",
+    "published_at": "2026-11-10T04:00:16+09:00",
+    "cluster_id": "93a7",
+    "publisher": "대한경제",
+    "title_clean": "[뉴테크 포커스]한국도로공사, 도로분야 OSC(탈현장) 건설 주도한다",
+    "summary": "한국도로공사가 도로분야 OSC(Off-Site Construction, 탈현장) 건설을 주도하면서 동아이엔지의 프리캐스트 방음벽 기초공법과 신원RPC의 특허 방호벽이 채택되었다. 김포~파주, 세종~천안, 대산~당진 등 주요 도로사업에 신기술이 적용되어 건설사와 자재업체의 수주 확대가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-10T04:10:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32206,21 +32222,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T22:55:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[비평의 온도] 넷플릭스 <꿀알바> - 꿀 바른 거미줄, 이름을 잃은 일 - ilemonde.com",
-    "link": "https://www.ilemonde.com/news/articleView.html?idxno=30917",
-    "description": "과외와 학원 출강으로 꾸린 하루에 일용직 건설노동을 얹던 시절이었고, 군 휴가 때까지 이어졌다. 허탕 친 날의 새벽은 길었다. 그래도 그 자리가 싫지는 않았다. 일은 청춘을 받쳐 준 몇 안 되는 버팀목이었다. 그...",
-    "published_at": "2026-11-03T22:26:00+09:00",
-    "cluster_id": "0700",
-    "publisher": "ilemonde.com",
-    "title_clean": "[비평의 온도] 넷플릭스 <꿀알바> - 꿀 바른 거미줄, 이름을 잃은 일",
-    "summary": "넷플릭스 드라마 <꿀알바>에 대한 문화비평 기사로, 젊은이들이 저임금 불안정 일자리에 내몰리는 사회 현실을 다룬 작품으로 보임. 건설노동 등 임시직 일자리의 어두운 측면을 조명하는 내용.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T22:30:49+09:00",
-    "importance": 4
   }
 ]
