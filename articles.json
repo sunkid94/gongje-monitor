@@ -3808,6 +3808,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가덕도신공항 실시설계 착수 - news.knn.co.kr",
+    "link": "https://news.knn.co.kr/news/article/194234",
+    "description": "<기자> 국토부는 지난 주 대우건설에 실시설계 공문을 전달한 데 이어 9일부터 설계에 착수한다고 밝혔습니다. 기본 설계보다 더 자세한 실시 설계는 시공자가 직접 참고하는 내용입니다. 가덕도신공항 실시 설계는 180일...",
+    "published_at": "2026-11-10T07:50:00+09:00",
+    "cluster_id": "7f82",
+    "publisher": "news.knn.co.kr",
+    "title_clean": "가덕도신공항 실시설계 착수",
+    "summary": "국토부가 대우건설과 가덕도신공항 실시설계 계약을 체결하고 9일부터 본격적으로 설계에 착수했습니다. 180일간 진행될 실시설계는 시공 단계의 기반이 되는 상세 설계로, 건설사의 수주 확정 및 공사 진행을 의미합니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-10T07:55:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19790,22 +19806,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T09:04:54+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 도시정비 수주 5조원 돌파…의정부·마포서 시공권 확보 - pointdaily.co.kr",
-    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324569",
-    "description": "사진=대우건설 대우건설이 의정부 가능4구역 재개발과 서울 성산모아타운 4구역 시공권을 확보하며 올해 도시정비사업 누적 수주액 5조원을 넘어섰다. 마포 일대에서 푸르지오 브랜드 타운 조성을 추진하는 한편...",
-    "published_at": "2026-11-03T09:00:00+09:00",
-    "cluster_id": "be45",
-    "publisher": "pointdaily.co.kr",
-    "title_clean": "대우건설, 도시정비 수주 5조원 돌파…의정부·마포서 시공권 확보",
-    "summary": "대우건설이 의정부 가능4구역 재개발과 서울 마포 성산모아타운 4구역 시공권을 확보하며 올해 도시정비사업 수주액 5조원을 돌파했다. 푸르지오 브랜드 타운 등 마포 일대 프로젝트도 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T09:04:54+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설산업기본법",
