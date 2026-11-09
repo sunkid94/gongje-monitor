@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "대한기계설비건설협회 충북도회, 충북대에 인재 양성 장학금 500만원 기... - dynews.co.kr",
+    "link": "https://www.dynews.co.kr/news/articleView.html?idxno=873214",
+    "description": "［동양일보 홍승태 기자］ 대한기계설비건설협회 충북도회와 충북대 관계자들이 9일 기탁식 뒤 기념촬영하고 있다. 대한기계설비건설협회 충북도회(회장 장순경)는 9일 지역사회 발전과 우수 인재 양성을 위해 충북대를...",
+    "published_at": "2026-11-09T18:54:00+09:00",
+    "cluster_id": "eb15",
+    "publisher": "dynews.co.kr",
+    "title_clean": "대한기계설비건설협회 충북도회, 충북대에 인재 양성 장학금 500만원 기...",
+    "summary": "대한기계설비건설협회 충북도회가 충북대에 장학금 500만원을 기탁했다. 올해와 내년 각각 500만원씩 총 1000만원을 지역 우수 인재 양성을 위해 기여할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T19:01:59+09:00",
+    "event_label": "대한기계설비건설협회 충북도회, 충북대에 장학금 1000만원 기탁",
+    "importance": 5
+  },
+  {
     "keyword": "엔지니어링공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -3738,6 +3755,22 @@
     "collected_at": "2026-10-11T19:07:55+09:00",
     "event_label": "건설공제조합 우수저류시설 공사 지연에 따른 손해배상 분쟁",
     "importance": 7
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "김정관 “체코 원전 무산은 안 돼”…한수원 “사업 일정 준수 가능” - segye.com",
+    "link": "https://www.segye.com/newsView/20261109517491?OutUrl=naver",
+    "description": "뉴시스 앞서 한수원은 지난달 29일 대우건설·두산에너빌리티 컨소시엄과 체코 두코바니 원전 건설사업의 시공계약 협상을 종료한다고 밝혔다. 양측은 공사비와 계약방식, 업무 범위 등 주요 조건에서 이견을 좁히지...",
+    "published_at": "2026-11-09T18:53:00+09:00",
+    "cluster_id": "c06a",
+    "publisher": "segye.com",
+    "title_clean": "김정관 “체코 원전 무산은 안 돼”…한수원 “사업 일정 준수 가능”",
+    "summary": "한수원이 체코 두코바니 원전 건설사업 시공계약 협상을 종료했으며, 김정관 의원은 사업 무산을 반대하고 한수원은 일정 준수 가능성을 표명했다. 공사비와 계약방식 등 주요 조건에서 의견 차이가 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-09T19:01:59+09:00",
+    "importance": 4
   },
   {
     "keyword": "두산에너빌리티",
@@ -19724,19 +19757,19 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "깨진 뒤에야 '비상관리'…산업부, 체코 원전 풀 수 있나 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6600964?utm_source=naver&utm_medium=article&utm_campaign=20261103050020",
-    "description": "대우건설·두산에너빌리티 컨소시엄의 체코 두코바니 원전 시공계약 협상이 파국으로 끝나자 산업통상부가 뒤늦게 장·차관 주도의 '비상관리체제'를 가동했다. 약 15개월간 이어진 협상에서 양측이 끝내 접점을 찾지...",
-    "published_at": "2026-11-03T05:01:00+09:00",
-    "cluster_id": "f8c8",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "깨진 뒤에야 '비상관리'…산업부, 체코 원전 풀 수 있나",
-    "summary": "대우건설·두산에너빌리티 컨소시엄의 체코 두코바니 원전 시공계약 협상이 약 15개월 만에 결렬되었다. 산업부가 뒤늦게 비상관리체제를 가동하며 사태 수습에 나섰다.",
+    "title": "[경기도의회 행감] 유재수 의원 \"건설기계 주기장 태부족 대책 마련해야\" - 열린뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwbWc0YnZ4NkJUaW1BRE93cVl2dW5JWG9kVjRXeE9ocVgxWDR1RzFBMGxsTlNLbXhZVUhXOFZ1YUxLUlFmUUg1ajBDU0JqbTU2UGpDNDBSdFF4QU9PWEd0X2kycFJCdw?oc=5",
+    "description": "(수원=열린뉴스통신) 정양수 기자 = 경기도의회 유재수 의원(민·안산4)은 9일 건설교통위원회 회의실에서 개최된 경기도 건설국과 경기도 건설본부에 대한 2026년 행정사무감사에서 도 내 건설기계 총 등록대수가 10만6656대, 전국 물량의 40% 가까이가 도에 집중돼 있음에도 주기장이 턱없이 부족하다며 대책마련을 촉구했다.유재수 의원은 \"건설기계 공영주기장은 설치된 지역은 도 내 31개 시·군 중 안산시 등 단 2곳에 불과하다\"면서 \"과천시의 경우 등록 대수는 존재하나 자가·임대·타시군 부지 확보 실적이 모두 0으로 확인되는 등 대",
+    "published_at": "2026-11-09T18:46:21+09:00",
+    "cluster_id": "a161",
+    "publisher": "열린뉴스통신",
+    "title_clean": "[경기도의회 행감] 유재수 의원 \"건설기계 주기장 태부족 대책 마련해야\"",
+    "summary": "경기도의회 유재수 의원이 2026년 행감에서 도내 건설기계 등록대수(10만6656대, 전국 40%)에 비해 공영주기장이 심각하게 부족하다고 지적하며 대책 마련을 촉구했다. 31개 시·군 중 2곳에만 공영주기장이 설치되어 있고, 과천시는 자가·임대 부지 확보 실적이 0인 상황이다.",
     "sentiment": "negative",
-    "collected_at": "2026-11-03T05:04:34+09:00",
+    "collected_at": "2026-11-09T19:01:59+09:00",
     "importance": 4
   },
   {
@@ -32186,37 +32219,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-03T18:50:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "공급과잉·탄소규제 넘는다…철강업계 \"고부가·AI 전환\" - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FSjdlaFd0SElmM1dnLUVJZ1lPSENoVl9McE1ycFRxRllUM0dQTVRWYk1vdWZTdm54VEJMN1FvTlBrYzZNX29ZU0FjZw?oc=5",
-    "description": "3개 트랙 21개 발표⋯2027년 전망&middot;통상&middot;수소환원제철 등 다뤄 국내 철강업계와 정부&middot;학계가 글로벌 공급과잉과 탄소규제, 인공지능(AI) 전환이라는 복합 과제에 대응하기 위해 고부가 제품 확대와 생산성 혁신 방안을 논의했다. 자동차&middot;조선&middot;건설 등 기존 수요산업의 변화를 점검하는 한편 데이터센터와 재생에너지 분야에서 새로운 철강 수요를 찾고, AI 공정혁신과 수소환원제철 기술로 경쟁력을 높이는 것이 주요 과제로 제시됐다.",
-    "published_at": "2026-11-03T16:33:43+09:00",
-    "cluster_id": "6c42",
-    "publisher": "아이뉴스24",
-    "title_clean": "공급과잉·탄소규제 넘는다…철강업계 \"고부가·AI 전환\"",
-    "summary": "국내 철강업계가 글로벌 공급과잉과 탄소규제에 대응하기 위해 고부가 제품 확대, AI 공정혁신, 수소환원제철 기술 개발을 추진 중이다. 데이터센터와 재생에너지 등 신규 수요처 발굴로 시장 기회를 모색하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-03T18:50:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "익산상공회의소, 양철호 광주지방국세청장 초청 간담회 개최... “지역기... - sjbnews.com",
-    "link": "https://sjbnews.com/news/news.php?number=891673",
-    "description": "참석한 지역 기업인들은 원자재 가격 급등, 내수 침체, 건설경기 위축 등으로 인한 경영상의 삼중고를 호소하며 지역 중소 제조기업과 향토기업이 한계 상황을 극복할 수 있도록 ▲세무조사 한시적 유예 ▲국세 납기 연장...",
-    "published_at": "2026-11-03T18:28:00+09:00",
-    "cluster_id": "6949",
-    "publisher": "sjbnews.com",
-    "title_clean": "익산상공회의소, 양철호 광주지방국세청장 초청 간담회 개최... “지역기...",
-    "summary": "익산상공회의소가 양철호 광주지방국세청장을 초청하여 지역 기업인들과 간담회를 개최했다. 참석 기업인들은 원자재 가격 급등, 내수 침체, 건설경기 위축 등의 경영난을 호소하며 세무조사 유예, 국세 납기 연장 등의 지원을 요청했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T18:40:06+09:00",
-    "importance": 4
   }
 ]
