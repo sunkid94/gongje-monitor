@@ -3570,6 +3570,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "블룸버그 \"한화 美해군 수주는 새 발의 피…美측 안정적 발주 필요\" - news1.kr",
+    "link": "https://www.news1.kr/world/usa-canada/6347745",
+    "description": "칼럼은 \"HD현대중공업과 삼성중공업을 비롯한 한국 조선업체들에 미군 함정 건조 사업은 중국 경쟁업체들과의 경쟁이 심화하는 상황에서 매력적인 기회\"라고 평가하며 \"그러나 이러한 약속을 이행하려면 단 몇 건의...",
+    "published_at": "2026-11-09T14:37:00+09:00",
+    "cluster_id": "eff3",
+    "publisher": "news1.kr",
+    "title_clean": "블룸버그 \"한화 美해군 수주는 새 발의 피…美측 안정적 발주 필요\"",
+    "summary": "블룸버그는 한화 등 한국 조선업체의 미해군 함정 건조 사업을 중국과의 경쟁에서 유리한 기회로 평가했습니다. 다만 미국 측의 안정적이고 지속적인 발주가 필요하다고 지적했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T14:45:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -19552,22 +19568,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-02T16:25:43+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코홀딩스, 3분기 영업이익 48% 증가…철강 회복에 3개 분기 연속 개... - thefirstmedia.net",
-    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212357",
-    "description": "포스코이앤씨의 수주 증가도 더해지면서 부문 영업이익은 전분기보다 늘었다. 포스코홀딩스는 철강·이차전지소재·에너지 사업의 수익성을 상호 보완하는 '트리플코어' 전략을 통해 사업 포트폴리오의 안정성을...",
-    "published_at": "2026-11-02T16:20:00+09:00",
-    "cluster_id": "d997",
-    "publisher": "thefirstmedia.net",
-    "title_clean": "포스코홀딩스, 3분기 영업이익 48% 증가…철강 회복에 3개 분기 연속 개...",
-    "summary": "포스코홀딩스가 3분기 영업이익을 48% 증가시키며 3개 분기 연속 개선세를 보였다. 철강 사업 회복과 포스코이앤씨의 수주 증가가 주요 원동력이며, 철강·이차전지소재·에너지의 '트리플코어' 전략으로 사업 포트폴리오 안정성을 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-02T16:25:43+09:00",
-    "importance": 2
   },
   {
     "keyword": "스마트건설",
