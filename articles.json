@@ -3791,6 +3791,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "HD현대마린엔진, 삼성중공업에 361억원 엔진 공급 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=402656",
+    "description": "2025년 연결 매출의 9%…계약은 2029년 6월까지 HD현대마린엔진(071970)이 삼성중공업과 361억2014만원 규모의 선박엔진 공급계약을 체결했다. 회사가 9일 금융감독원 전자공시시스템에 제출한 단일판매·공급계약체결...",
+    "published_at": "2026-11-09T22:18:00+09:00",
+    "cluster_id": "513b",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "HD현대마린엔진, 삼성중공업에 361억원 엔진 공급",
+    "summary": "HD현대마린엔진이 삼성중공업과 361억 원 규모의 선박엔진 공급계약을 체결했으며, 이는 2025년 연결 매출의 9%에 해당한다. 계약은 2029년 6월까지 진행되는 대규모 공급 프로젝트다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T22:26:36+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19775,20 +19791,20 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "\"원전-신공항 '승자의 저주'에 빠질순 없다\" 대우건설의 샅바싸움 - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110202830.html",
-    "description": "◇26조 체코 원전, 8년 공조 무색…시공계약 끝내 결렬 2일 건설업계에 따르면 한수원은 지난달 29일 대우건설·두산에너빌리티 컨소시엄과 진행해 온 체코 두코바니 원전 건설사업 시공계약 협상을 공식 종료했다. 양측이...",
-    "published_at": "2026-11-03T06:02:00+09:00",
-    "cluster_id": "4bf7",
-    "publisher": "realty.chosun.com",
-    "title_clean": "\"원전-신공항 '승자의 저주'에 빠질순 없다\" 대우건설의 샅바싸움",
-    "summary": "대우건설과 두산에너빌리티 컨소시엄이 한수원과 진행 중이던 체코 두코바니 원전 건설사업(26조 규모) 시공계약 협상이 결렬됐다. 8년간의 공조가 무산되며 건설사의 대형 수주 기회를 상실했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T06:09:58+09:00",
-    "importance": 4
+    "title": "GS건설, 용인 기흥역세권2지구 주상복합 9271억원 수주 - 리드경제",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HNVVoMVBXSklzQldKdXZvTFVleVhhLW1GVGxZUlpSVV9zVC1hRnBNU0VCNnRrUUZyUEZtNTZNU0xUMnlRNGY5dWMteVpqRGFSZjhGazdyWkx6b3N4eHJabVRlbVVjb1VQVTZiUFNZZ2g?oc=5",
+    "description": "GS건설이 용인 기흥역세권2지구 주상복합 개발사업 공사를 9271억원에 수주했다.GS건설은 9일 전자공시시스템(DART) 공시를 통해 주식회사용인기흥역세권2피에프",
+    "published_at": "2026-11-09T16:02:00+09:00",
+    "cluster_id": "494d",
+    "publisher": "리드경제",
+    "title_clean": "GS건설, 용인 기흥역세권2지구 주상복합 9271억원 수주",
+    "summary": "GS건설이 용인 기흥역세권2지구 주상복합 개발사업을 9271억원 규모로 수주했다. 이는 건설업체의 수주 실적 증가를 의미하는 긍정적 뉴스다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-09T22:26:36+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
@@ -32205,21 +32221,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-03T20:40:26+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[나의 의정일지] 최수연 경기도의회 건설교통위원회 위원 - 경인일보",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dG9sWm5ldVFWY2hKNmliVXZTQlFGaUczVzZDU2I4bXdHMDRtZ3czQTl6d1pmeU9OMEpQT09pZ2JKYUZKbU5MalF4NXpjbS1leUE?oc=5",
-    "description": "“필요한 사업은 집행부를 설득하고 잘못된 정책은 분명히 지적하겠습니다. 도민에게 절실한 일이라면 정당과 기관의 경계를 넘어 협력하며 해법을 찾겠습니다.” 제12대 경기도의회 건설교통위원회 소속 더불어민주당 최수연(양주3·사진) 의원은 도민의 불편을 끝까지 챙기는 현장",
-    "published_at": "2026-11-03T20:31:11+09:00",
-    "cluster_id": "77c9",
-    "publisher": "경인일보",
-    "title_clean": "[나의 의정일지] 최수연 경기도의회 건설교통위원회 위원",
-    "summary": "경기도의회 건설교통위원회 소속 최수연 의원이 도민 중심의 의정 활동을 다짐하며, 필요한 사업 집행부 설득과 잘못된 정책 지적을 통해 도민 불편 해결에 나서겠다고 밝혔습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-03T20:40:26+09:00",
-    "importance": 2
   }
 ]
