@@ -3791,6 +3791,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 컨소시엄, 가덕도신공항 실시설계 오늘착수 - news.knn.co.kr",
+    "link": "https://news.knn.co.kr/news/article/194231",
+    "description": "국토부는 지난 주 대우건설에 실시설계 착수를 위한 공문을 전달한데 이어 오늘(9)부터 설계가 시작됐다고 밝혔습니다. 이에 대해 대우건설 컨소시엄은 신공항 특별법 개정안에 공사비 증액분 검토에 대한 강제 규정이...",
+    "published_at": "2026-11-09T20:40:00+09:00",
+    "cluster_id": "b5e1",
+    "publisher": "news.knn.co.kr",
+    "title_clean": "대우건설 컨소시엄, 가덕도신공항 실시설계 오늘착수",
+    "summary": "대우건설 컨소시엠이 가덕도신공항 실시설계에 착수했다. 컨소시엄은 신공항 특별법 개정안에서 공사비 증액분 검토에 대한 강제 규정 포함을 요구하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-09T20:51:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -19773,22 +19789,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T06:09:58+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 시공협상 결렬…건설사 '공사비 리스크' 부각 - news1.kr",
-    "link": "https://www.news1.kr/realestate/general/6340462",
-    "description": "3일 업계에 따르면 한수원은 지난달 29일 대우건설·두산에너빌리티(034020) 컨소시엄과 체코 두코바니 원전 시공계약 협상을 종료했다. 체코 원전 사업 전체가 취소된 것은 아니지만 공사비와 위험 분담을 둘러싼 이견으로...",
-    "published_at": "2026-11-03T05:50:00+09:00",
-    "cluster_id": "9213",
-    "publisher": "news1.kr",
-    "title_clean": "체코 원전 시공협상 결렬…건설사 '공사비 리스크' 부각",
-    "summary": "한수원이 대우건설·두산에너빌리티 컨소시엄과 체코 두코바니 원전 시공계약 협상을 결렬했다. 공사비와 위험 분담을 둘러싼 이견이 주요 원인으로, 건설사의 공사비 리스크 부담이 부각되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T05:59:39+09:00",
-    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
