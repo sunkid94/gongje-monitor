@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "“경기도 건설기계 10만 대 도로변 불법 주차로 내몰려\" ... \" 공영주기장 확충 시급” - 경기북부이슈",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mbHBUN2c1cDR5ajk0bE1ONDBXNWRVSTN1bnBzRVVxUWRIM3dWUldyaFhJZlhYUE1Yc0Fmd05KSTR0S1hRUXc?oc=5",
+    "description": "유재수 의원이 행정감사에서 발언하고 있다. © 경기북부이슈 경기도 내 10만여 대에 달하는 건설기계가 주기장이 없어 도로변 불법 주차로 내몰리고",
+    "published_at": "2026-11-10T06:23:00+09:00",
+    "cluster_id": "f676",
+    "publisher": "경기북부이슈",
+    "title_clean": "“경기도 건설기계 10만 대 도로변 불법 주차로 내몰려\" ... \" 공영주기장 확충 시급”",
+    "summary": "경기도 건설기계 10만 대가 주기장 부족으로 도로변에 불법 주차되고 있는 상황이 드러났다. 유재수 의원이 행정감사에서 공영주기장 확충의 시급성을 지적했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T06:35:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32206,21 +32222,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-04T05:24:27+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[여전한 비상경영, 롯데 인사 방향은] ① 상반기 실적 반등에도 비상경... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031017481540344",
-    "description": "그룹 재무 부담의 한 축이던 롯데건설 PF 우발채무도 2022년 6조8000억원에서 2024년 3조7000억원으로 줄었다. 실적과 재무 여건이 나아지는데도 롯데는 2024년 8월 6년 만에 선언한 비상경영 기조를 거두지 않았다....",
-    "published_at": "2026-11-04T05:20:00+09:00",
-    "cluster_id": "7888",
-    "publisher": "대한경제",
-    "title_clean": "[여전한 비상경영, 롯데 인사 방향은] ① 상반기 실적 반등에도 비상경...",
-    "summary": "롯데는 2022년 이후 PF 우발채무를 절반 이상 감축하고 실적이 개선되었으나, 2024년 8월 6년 만에 비상경영 기조를 선언하며 재무 건전성 강화에 나섰다. 건설업 전반의 경기 부진 속에서 대형 건설사의 구조 조정 움직임이 가속화되는 상황을 반영한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-04T05:24:27+09:00",
-    "importance": 4
   }
 ]
