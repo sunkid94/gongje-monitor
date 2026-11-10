@@ -3825,6 +3825,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한수원 \"체코 원전 새 시공사 사전 내정 없었다\" - 코리아리포트",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMHc5UDhqQ0ZjWDZpSTM4ZGdyNEZ5SXR6RU9oaFo4cjlYREVKbTNaWGsyRXQ3WkNtckpmV3VqVHI5ejJlTHJfRHRrVGE3U2JKRmdCcmt1bnNUM085dlZ2bTBJeDhZZV9paXF2NTlVb2U?oc=5",
+    "description": "한국수력원자력이 체코 두코바니 신규 원전 시공권을 특정 건설사에 넘기기 위해 기존 컨소시엄과의 협상을 의도적으로 끝냈다는 대우건설 노동조합이 제기한 의혹을 부인했",
+    "published_at": "2026-11-10T12:30:16+09:00",
+    "cluster_id": "edc5",
+    "publisher": "코리아리포트",
+    "title_clean": "한수원 \"체코 원전 새 시공사 사전 내정 없었다\"",
+    "summary": "한국수력원자력이 체코 두코바니 신규 원전 시공권 배정과 관련해 대우건설 노동조합의 의혹을 부인했다. 기존 컨소시엠과의 협상을 의도적으로 종료했다는 주장에 대해 사전 내정이 없었다고 해명한 상황.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T12:35:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19807,22 +19823,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-03T11:41:08+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, ‘가능4구역·성산모아타운’ 수주…도시정비 누적 5조 돌파 - lawissue.co.kr",
-    "link": "https://www.lawissue.co.kr/view.php?ud=20261103113439713067191f6c6e_12",
-    "description": "대우건설이 의정부 가능4구역 재개발과 서울 성산모아타운 4구역 시공권을 함께 확보하며 도시정비사업 누적 수주액 5조원을 넘어섰다. 대우건설은 지난달 31일 두 사업의 시공자로 선정됐다고 3일 밝혔다....",
-    "published_at": "2026-11-03T11:36:00+09:00",
-    "cluster_id": "28cc",
-    "publisher": "lawissue.co.kr",
-    "title_clean": "대우건설, ‘가능4구역·성산모아타운’ 수주…도시정비 누적 5조 돌파",
-    "summary": "대우건설이 의정부 가능4구역 재개발과 서울 성산모아타운 4구역 시공권을 수주하며 도시정비사업 누적 수주액 5조원을 돌파했다. 건설업계의 도시정비사업 확대와 대형 프로젝트 수주 증가를 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T11:41:08+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설 노동",
