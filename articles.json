@@ -19828,6 +19828,22 @@
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
+    "title": "건설수주 49.3% 늘었지만…주택·고용 부진 지속 - bizwork.co.kr",
+    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420705",
+    "description": "9월 건설수주가 지난해 같은 달보다 49.3% 증가했지만 주거용 건축과 고용 부진은 이어졌다. 대형 반도체 시설과 복합개발사업, 기존 계약금액 증액이 수주를 끌어올린 반면 시공 실적 개선은 공공·토목에...",
+    "published_at": "2026-11-10T12:48:00+09:00",
+    "cluster_id": "d029",
+    "publisher": "bizwork.co.kr",
+    "title_clean": "건설수주 49.3% 늘었지만…주택·고용 부진 지속",
+    "summary": "9월 건설수주가 49.3% 증가하며 대형 반도체·복합개발사업 등에 힘입었으나, 주택 건축과 고용 부진은 지속되고 있다. 수주 호전에도 불구하고 업계 전반의 구조적 약세가 개선되지 않은 상태다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-10T12:55:29+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "반도체 호황에도 건설업계 고용 한파 지속 - 미디어시시비비",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YVktZeDZRSXlMOFRJTHd5ZGItS2RpVjVxWWVGR3YyMFNWSlEzWWNvSmZwc0pzc0xTRFlodU1TOWxyRUZwd1hkNzl4VjBYOHZtR3lwLVdGLTV6YktWRGhHV2JNU3RTVEhkYzlVem85a0VtZw?oc=5",
     "description": "9월 건설수주, 대형 민간 사업 덕에 49% 급증주거용 건축 실적 감소, 고용 29개월 연속 하락공사비 상승, 소비자물가 상승률의 두 배 기록중소·지방 건설기업, 대금 회수와 자금조달 어려움",
@@ -32206,22 +32222,6 @@
     "summary": "SM그룹 건설부문이 안전모 QR코드를 활용한 스마트 안전보건관리 시스템을 도입하여 근로자가 현장별 안전정보와 위험성평가 내용을 실시간 확인할 수 있도록 개선하고 있습니다. 이는 건설현장 안전관리 체계의 혁신적 고도화 사례로, 업계 전체의 안전문화 확산에 긍정적 영향을 미칠 수 있습니다.",
     "sentiment": "positive",
     "collected_at": "2026-11-04T11:09:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토안전원-공주대, 국토안전 인재 양성 맞손 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37572",
-    "description": "국립공주대학교와 국토안전관리원 충청지역본부가 지역 청년의 취업을 지원하기 위한 '국토안전 분야 미래인재 양성 업무협약'을 4일 체결했다.이번 협약은 지역 대학 전공 교육과 공공기관 직무 교육을 연계해 학생들이 지역 내에서 일자리를 찾을 수 있도록 돕고자 마련됐다. 양 기관은 직무 교육과 현장실습을 결합한 취업 연계 프로그램을 운영하며, 교육에 필요한 시설과 장비, 기자재를 공동으로 활용하기로 뜻을 모았다.참여 학생들은 공공기관 채용 정보는 물론 건설현장 안전관리, 시설물 안전점검 등 현장 업무를 직접 체험하며 진로를 탐색하고 취업",
-    "published_at": "2026-11-04T10:37:36+09:00",
-    "cluster_id": "1142",
-    "publisher": "한국건설신문",
-    "title_clean": "국토안전원-공주대, 국토안전 인재 양성 맞손",
-    "summary": "공주대학교와 국토안전관리원이 국토안전 분야 인재 양성을 위한 업무협약을 체결했다. 직무교육과 현장실습을 연계한 프로그램으로 지역 청년의 건설 안전관리 분야 취업을 지원한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-04T11:02:06+09:00",
     "importance": 2
   }
 ]
