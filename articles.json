@@ -3825,6 +3825,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "남부내륙철도 참여 KCC건설, \"건설업 활력·경기 회복 밑거름 기대\" - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285866",
+    "description": "현대건설과 DL이앤씨, GS건설, 포스코이앤씨, 삼성물산 건설부문 등은 대형 철도·인프라 공사 경험을 갖춘 대표 기업들이다. 업계에서는 이들 기업이 향후 철도·SOC 신규 사업 발주에 관심을 보일 것으로 보고 있다....",
+    "published_at": "2026-11-10T13:20:00+09:00",
+    "cluster_id": "3e83",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "남부내륙철도 참여 KCC건설, \"건설업 활력·경기 회복 밑거름 기대\"",
+    "summary": "KCC건설이 남부내륙철도 사업에 참여하며 대형 철도·인프라 공사 경험을 갖춘 주요 건설사들의 역할이 주목받고 있다. 업계는 이러한 대형 프로젝트가 향후 철도·SOC 신규 사업 발주 증가로 이어질 것으로 예상하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-10T13:25:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19806,22 +19822,6 @@
     "summary": "대우건설이 의정부와 마포 지역 재개발사업 수주로 올해 도시정비사업 누적 수주액 5조원을 돌파했다. 건설업체의 수주 확대로 업계의 긍정적 신호를 보여주고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-03T12:11:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 도시정비 수주 5조 돌파···의정부·마포 7153원 추가 확보 - whitepaper.co.kr",
-    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268382",
-    "description": "화이트페이퍼, WHITEPAPER(사진=대우건설)  대우건설이 경기 의정부와 서울 마포에서 총 7153억 원 규모의 도시정비사업 시공권을 확보하며 올해 누적 수주액 5조 원을 넘어섰다. 서울 여의도와 목동 등 주요 정비사업지의...",
-    "published_at": "2026-11-03T11:58:00+09:00",
-    "cluster_id": "e4d4",
-    "publisher": "whitepaper.co.kr",
-    "title_clean": "대우건설, 도시정비 수주 5조 돌파···의정부·마포 7153원 추가 확보",
-    "summary": "대우건설이 의정부와 마포의 도시정비사업 수주를 통해 올해 누적 수주액 5조 원을 돌파했다. 여의도, 목동 등 주요 정비사업지에서의 수주 확보로 건설업계의 도시정비 시장 활성화를 보여주고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T12:06:11+09:00",
     "importance": 2
   },
   {
