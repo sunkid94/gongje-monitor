@@ -19910,6 +19910,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[개장 전 주요 공시] 에코프로비엠·에스텍·유진증권·영원무역·F&F 등 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=202611110834535849923c501012_1",
+    "description": "회사 측은 저가 수입합판 증가와 건설경기 침체에 따른 수요 감소, 가격 경쟁 심화 및 원가 경쟁력 약화로 영업손실이 지속되어 이번 결정을 내렸다고 설명했다. 이어 합판 고정비 절감 및 적자 사업 중단에 따른...",
+    "published_at": "2026-11-11T08:42:00+09:00",
+    "cluster_id": "bf40",
+    "publisher": "",
+    "title_clean": "[개장 전 주요 공시] 에코프로비엠·에스텍·유진증권·영원무역·F&F 등 - g-enews.com",
+    "summary": "합판 제조업체가 저가 수입합판 증가, 건설경기 침체, 가격 경쟁 심화 등으로 인한 영업손실로 합판 사업을 중단하고 고정비 절감에 나선다. 건설경기 부진과 원가 경쟁력 약화가 주요 원인이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T08:48:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32210,22 +32226,6 @@
     "title_clean": "[단독] 해외서도 “공사비 올려달라”…정부, 해외건설 전담 분쟁조정위...",
     "summary": "정부가 해외건설 공사비 분쟁 해결을 위해 전담 분쟁조정위원회 신설을 추진 중이다. 해외수주 증가에 따라 국내 조정기구와 별도로 전문성 있는 중재체계를 구축하려는 것으로, 건설업계의 해외 분쟁 처리 효율화를 목표로 한다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-05T10:14:23+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "호반건설, 대표이사 등 동절기 합동안전점검 실시 - cnbnews.com",
-    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1022419",
-    "description": "호반건설은 하절기, 장마철 등 위험 요인이 커지는 시기마다 정기적으로 건설현장 안전점검에 나서고 있다. 또한 안전 위험도 관리 기준을 세워 달마다 고위험 현장을 선정해 안전보건 지원 및 점검을 집중적으로 실시하는...",
-    "published_at": "2026-11-05T10:08:00+09:00",
-    "cluster_id": "63e4",
-    "publisher": "cnbnews.com",
-    "title_clean": "호반건설, 대표이사 등 동절기 합동안전점검 실시",
-    "summary": "호반건설이 동절기 안전점검을 실시하며 계절별 정기 안전점검과 고위험 현장 중심의 집중 관리 체계를 운영 중이다. 건설현장의 안전 관리 강화 사례로 업계 안전 문화 개선을 보여주는 사례이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-05T10:14:23+09:00",
     "importance": 2
   }
