@@ -19808,6 +19808,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국토안전관리원·농어촌공사, 영남권 건설현장 안전관리 강화 - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=343850",
+    "description": "스마트 안전장비 보급, 건설안전 코칭 등 다양한 사업을 추진하고 있다. 김성준 국토안전관리원 영남지역본부장은 \"건설현장 안전사고를 획기적으로 줄일 수 있도록 한국농어촌공사와 긴밀히 협력할 계획\"이라고 말했다.",
+    "published_at": "2026-11-10T10:46:00+09:00",
+    "cluster_id": "49eb",
+    "publisher": "국토일보",
+    "title_clean": "국토안전관리원·농어촌공사, 영남권 건설현장 안전관리 강화",
+    "summary": "국토안전관리원과 농어촌공사가 영남권 건설현장의 안전관리를 강화하기 위해 스마트 안전장비 보급과 건설안전 코칭 등을 추진 중이다. 두 기관은 건설현장 안전사고 감소를 목표로 긴밀히 협력할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T10:50:39+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32204,22 +32220,6 @@
     "title_clean": "플랜트 수주부터 원전·스마트건설까지… 건설업계 사업영역 확대",
     "summary": "건설업계가 플랜트 수주, 원전, 스마트건설 등으로 사업영역을 확대하고 있다. 국토교통부와 한국건설기술연구원이 스마트건설 공사비 산정기준 연구를 추진 중이며, 6개월간의 검증을 통해 표준품셈 마련을 위한 기초자료를 확보하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-04T10:09:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "모듈러 공공주택 2만호 시대...산업 기반 구축은 과제 - 뉴스포스트",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSGJjWmRKeG91bVVOUmdxbWZsWkM0cV9CRVFHaFBJaVRwWDBkT1BwLWZMd1F2R19Dd0M2TUliRUtzZVlFdDVSOFN6aDdDbzVTS21kNWpVLWdGbFRvUUoyNEFjbGpzVWhH?oc=5",
-    "description": "[뉴스포스트=이우섭 기자] 정부가 모듈러 공공주택 발주 목표를 2만호로 늘리고 공사비 지원에 나섰지만, 공급 확대를 위해서는 산업 기반 확충이 선행돼야 한다는 지적이 나온다. 공사 기간 단축과 현장 의존도 감소라는 장점에도 기존 철근콘크리트(RC) 공법보다 높은 공사비와 분리발주 체계",
-    "published_at": "2026-11-04T10:01:57+09:00",
-    "cluster_id": "f788",
-    "publisher": "뉴스포스트",
-    "title_clean": "모듈러 공공주택 2만호 시대...산업 기반 구축은 과제",
-    "summary": "정부가 모듈러 공공주택 발주 목표를 2만호로 확대하고 공사비 지원을 추진 중이다. 다만 공급 확대를 위해서는 산업 기반 확충이 필수적이며, 기존 RC 공법 대비 높은 공사비와 분리발주 체계 등이 개선 과제로 지적되고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-04T10:09:46+09:00",
     "importance": 2
   }
