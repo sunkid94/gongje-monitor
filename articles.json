@@ -19910,6 +19910,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "이건산업 합판 생산 중단…저가 수입·수요 감소 영향 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=403316",
+    "description": "회사는 10일 공시에서 저가 수입합판 증가와 건설경기 침체에 따른 수요 감소, 가격 경쟁 심화와 원가 경쟁력 약화로 영업손실이 이어진 점을 중단 사유로 들었다. 생산 중단 부문 매출은 2025년 연결 기준...",
+    "published_at": "2026-11-11T01:58:00+09:00",
+    "cluster_id": "364b",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "이건산업 합판 생산 중단…저가 수입·수요 감소 영향",
+    "summary": "이건산업이 저가 수입합판 증가와 건설경기 침체로 인한 수요 감소, 가격 경쟁 심화 등의 이유로 합판 생산을 중단했다. 이는 국내 건설업계의 경기 부진과 수입산 제품의 가격 경쟁력 약세를 반영한 것으로, 건설 관련 산업의 어려운 상황을 보여준다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T02:04:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32212,21 +32228,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-05T09:49:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대건설, 현장 품질관리 전 과정 디지털 전환…비대면·무서류 시스템 특허 등록 - 소비자가 만드는 신문",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SOTZad0tuNm9ZMnZVZGlOV21TemJOSUlJOUZsYUdvOFRCQk5rQTJHRmVmTl9jdkNacE1JaHVZWjVrd2hfQXQxWTdUX0JUQXVFY3o0UzNqdHo3eTBqczBQV2t1OFM2NGdYaUFHeFJKWlB1Zw?oc=5",
-    "description": "현대건설이 인공지능(AI)과 빅데이터를 활용한 통합 품질관리 시스템을 고도화하고 건설현장의 품질관리 전 과정을 디지털로 전환한다.현대건설은 스마트 통합 검측 시스템 ‘큐포켓(Q-Pocket)’의 기능을 품질관리 전 영역으로 확대한다고 5일 밝혔다. 발주처와 감리단, 시공사, 협력사 등 공사 관계자가 품질 데이터를 실시간으로 공유하는 협업 체계도 구축한다.큐포켓은 모바일과 웹을 통해 검측·시험 계획 수립과 자재 검수, 콘크리트 균열 관리 등을 처리하는 시스템이다. 시공 과정에서 하자가 발견되면 현장에서 보고서를 작성하고 관계자 확인과",
-    "published_at": "2026-11-05T09:37:00+09:00",
-    "cluster_id": "960a",
-    "publisher": "소비자가 만드는 신문",
-    "title_clean": "현대건설, 현장 품질관리 전 과정 디지털 전환…비대면·무서류 시스템 특허 등록",
-    "summary": "현대건설이 AI와 빅데이터 기반 스마트 통합 검측 시스템 '큐포켓'을 고도화하여 건설현장의 품질관리 전 과정을 디지털 전환한다. 발주처·감리단·시공사·협력사 간 품질 데이터 실시간 공유 협업 체계를 구축하고 비대면·무서류 시스템 특허를 등록했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-05T09:49:43+09:00",
-    "importance": 2
   }
 ]
