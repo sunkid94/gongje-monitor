@@ -19811,6 +19811,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "허태정 대전시장 “젊은 도시 대전, 청년 정책 참여 확대” - kukinews.com",
+    "link": "https://www.kukinews.com/article/view/kuk202611100042",
+    "description": "허 시장은 “청년주택을 단순히 공급하는 데 그치지 않고 청년들이 실제로 주거하기 좋은 지역에 배치하겠다”며 “청년주택 공급을 통해 주거안정은 물론 침체된 지역 건설경기 활성화에도 기여할 수 있도록 하겠다”...",
+    "published_at": "2026-11-10T10:40:00+09:00",
+    "cluster_id": "7a8a",
+    "publisher": "kukinews.com",
+    "title_clean": "허태정 대전시장 “젊은 도시 대전, 청년 정책 참여 확대”",
+    "summary": "허태정 대전시장이 청년주택 공급을 확대하겠다고 발표했으며, 단순 공급을 넘어 지역 선정 최적화와 지역 건설경기 활성화에 중점을 두겠다고 밝혔다. 이는 주거안정과 함께 침체 지역의 건설 수요 창출을 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-10T10:45:25+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "전북 건설지표 엇갈림…지역업체 일감 확보 과제 - jeonmin.co.kr",
     "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450118",
     "description": "착공과 허가는 집계 대상과 사업 단계가 달라 한 달의 증감만으로 지역 건설경기 전반의 회복 여부를 판단하기는 어렵다. 주택시장에서는 미분양이 줄었다. 8월 말 도내 미분양 주택은 1528가구로 전월보다 129가구...",
@@ -32205,22 +32221,6 @@
     "summary": "정부가 모듈러 공공주택 발주 목표를 2만호로 확대하고 공사비 지원을 추진 중이다. 다만 공급 확대를 위해서는 산업 기반 확충이 필수적이며, 기존 RC 공법 대비 높은 공사비와 분리발주 체계 등이 개선 과제로 지적되고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-04T10:09:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "AI 입은 건설산업…해외 수주 경쟁력도 변화 - 신아일보",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10c0czdHpKR3pqaFFUdDdCaTYzRnNpeHNyM1JsREVCdklNTWlWaFRoVjd1cDBQY3UyeWp2VmFOTjFuN3lfTEF1Tkc2YzBlV1E4elJLZjBEQzlxdnlWMWJCWmNQbVpVLWs4dWNGbWhnQ3c?oc=5",
-    "description": "AI 기술 확산으로 해외 건설 수주 경쟁 기준이 가격과 시공 능력 중심에서 데이터 활용과 기술, 금융, 운영 역량을 결합하는 방식으로 변화할 것이라는 전망이 나온",
-    "published_at": "2026-11-04T09:45:10+09:00",
-    "cluster_id": "e38e",
-    "publisher": "신아일보",
-    "title_clean": "AI 입은 건설산업…해외 수주 경쟁력도 변화",
-    "summary": "AI 기술 확산으로 해외 건설 수주의 경쟁 기준이 기존의 가격과 시공 능력 중심에서 데이터 활용, 기술, 금융, 운영 역량을 통합한 방식으로 변화할 것으로 예상된다. 건설산업의 경쟁력 구도가 근본적으로 재편될 전망이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-04T09:59:34+09:00",
     "importance": 2
   }
 ]
