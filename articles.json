@@ -19910,6 +19910,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설교통위원회 행감, 철도·공항·항만 분야 사업 우선순위 집중 - 도민연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Zc2htSEpYdEtDQmtqclJEZ2NDZEZKZTdWU1pNbkNCcTdqR2k3SFR4Y1lTd2E1MzNtRzFDMGtNUWtvWFpxUHFaVk9VSlR0QlhmM213NXp0TDVkaWVKNXAxc2JMNjdLWG43QkE?oc=5",
+    "description": "[도민연합뉴스] 경기도의회 건설교통위원회가 2026년 행정사무감사 둘째 날 경기도 철도·공항·항만 분야에 대한 감사에서는 도 재정위기 대응 상황에서 사업추진 우선순위에 대한 다수 의원들의 질의가 이어졌다.건설교통위원회는 10일 상임위 회의실에서 열린 도의회 제395회 정례회 제3차 회",
+    "published_at": "2026-11-10T20:02:57+09:00",
+    "cluster_id": "2e4f",
+    "publisher": "도민연합뉴스",
+    "title_clean": "건설교통위원회 행감, 철도·공항·항만 분야 사업 우선순위 집중",
+    "summary": "경기도의회 건설교통위원회가 철도·공항·항만 분야 2026년 행정사무감사를 진행하며, 도 재정위기 상황에서 사업 우선순위에 대한 의원들의 질의가 집중되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-10T20:44:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32211,22 +32227,6 @@
     "summary": "현대건설이 개발한 AI·빅데이터 기반 건설현장 품질관리 솔루션 '큐포켓'이 국토교통부 스마트건설기술 마당에 등록되고 2026 스마트건설 챌린지 본선에 진출했다. 건설업계의 디지털화와 기술혁신이 정부 차원에서 인정받으며 업계의 기술 고도화가 진행 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-05T09:04:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "호반건설, 동절기 앞두고 건설현장 안전점검 실시 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501418",
-    "description": "건설현장의 동절기 안전관리는 일회성 점검보다 위험요인을 발견한 뒤 실제 작업환경에 반영하는 후속 조치가 중요하다. 특히 기상 여건에 따라 작업 조건이 수시로 바뀌는 만큼 현장별 대응체계를 꾸준히 점검하는 것이...",
-    "published_at": "2026-11-05T08:52:00+09:00",
-    "cluster_id": "732c",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "호반건설, 동절기 앞두고 건설현장 안전점검 실시",
-    "summary": "호반건설이 동절기를 앞두고 건설현장 안전점검을 실시하고 있습니다. 일회성 점검을 넘어 위험요인 발견 후 현장에 반영하는 후속 조치와 기상 변화에 따른 현장별 대응체계 점검이 중요함을 강조합니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-05T08:59:18+09:00",
     "importance": 2
   }
 ]
