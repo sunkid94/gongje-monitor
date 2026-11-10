@@ -19910,6 +19910,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "HD건설기계, 북미 발전엔진 1천600억원 추가 수주 : 기업·산업 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0ySDZUUHNyNGt5MzZ0Y3RaNnlLYVNuSnVQanllX0IyQkcwTTB1VHJ2T21WZnVOS2hfNE9wVlJkR19ZUzBRSHNMdlN6QQ?oc=5",
+    "description": "HD건설기계가 북미 발전·엔진 솔루션 기업과 약 1천600억원 규모의 가스 발전용 엔진 롱블록 공급계약을 맺었다. 지난달 미국 업체와 체결한 3천900억원 계약에 이은 추가 수주로, 북미 데이터센터 전력 수요 증가에 대응한 발전용 엔진 사업 확대에 속도가 붙고 있다.",
+    "published_at": "2026-11-10T03:34:00+00:00",
+    "cluster_id": "f6b3",
+    "publisher": "재경일보",
+    "title_clean": "HD건설기계, 북미 발전엔진 1천600억원 추가 수주 : 기업·산업",
+    "summary": "HD건설기계가 북미 발전·엔진 솔루션 기업과 1,600억원 규모의 가스 발전용 엔진 공급계약을 체결했다. 지난달 3,900억원 계약에 이은 추가 수주로, 북미 데이터센터 전력 수요 증가에 따른 발전용 엔진 사업이 확대되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-10T19:39:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32212,21 +32228,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-05T08:49:15+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "대구경북신공항 민항 건설 본격화…2조6996억원 투입 - 대한건설기계신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xQzZPbVVHSGxWM01kMHQ2eWc0Z0E0YjJHTlBhNnBmY1p1MlgyRFlRWW9qVkphWTItYkxuajFLRklEUVlfc3dLYjZDRmhLMngtSXAzM0dvMXhYN1FiWEc2ZnAtT2R3STdB?oc=5",
-    "description": "국토교통부는 30일 대구경북통합신공항 민간공항 건설사업의 사업시행자를 추가 지정하고 토지보상 절차의 근거를 마련하는 내용으로 민간공항 기본계획을 변경 고시했다고",
-    "published_at": "2026-11-05T08:32:18+09:00",
-    "cluster_id": "687d",
-    "publisher": "대한건설기계신문",
-    "title_clean": "대구경북신공항 민항 건설 본격화…2조6996억원 투입",
-    "summary": "국토교통부가 대구경북통합신공항 민간공항 건설사업의 사업시행자를 추가 지정하고 2조6996억원을 투입하는 민간공항 기본계획을 변경 고시했다. 토지보상 절차 근거 마련으로 건설사업이 본격화될 준비가 완료되었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-05T08:44:19+09:00",
-    "importance": 2
   }
 ]
