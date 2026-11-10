@@ -19825,6 +19825,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "국내 건설수주 49.3% 증가…주거용 건축·고용은 부진 - slist.kr",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=780439",
+    "description": "국내 건설수주가 9월 24조6000억원으로 1년 전보다 49.3% 늘었다. 반도체 생산시설 등 대형 민간 사업이 수주 증가를 이끌었지만 주거용 건축 실적은 줄었고 건설업 취업자도 29개월 연속 감소했다. 연합뉴스가...",
+    "published_at": "2026-11-10T11:58:00+09:00",
+    "cluster_id": "44c7",
+    "publisher": "slist.kr",
+    "title_clean": "국내 건설수주 49.3% 증가…주거용 건축·고용은 부진",
+    "summary": "9월 건설수주가 전년 대비 49.3% 증가하여 반도체 생산시설 등 대형 민간사업이 주도했으나, 주거용 건축 실적은 감소하고 건설업 취업자는 29개월 연속 하락세를 기록했다. 건설 수주 회복에도 불구하고 주거시장 부진과 고용 악화로 산업 전반의 회복력이 제한적이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-10T12:05:32+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한수원 \"체코원전 협상 종결 시점, 대우건설에 사전 공유\" - news.einfomax.co.kr",
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443964",
+    "description": "대우건설 노동조합이 한수원의 일방적인 협상 결렬과 특정 건설사 내정 의혹 등을 제기한 데 대해 재차 반박한 것이다. 한수원은 10일 대우건설 노조의 기자회견에 대한 설명자료를 내고 \"협상 일정은 발주사와 정한...",
+    "published_at": "2026-11-10T11:58:00+09:00",
+    "cluster_id": "bb5d",
+    "publisher": "news.einfomax.co.kr",
+    "title_clean": "한수원 \"체코원전 협상 종결 시점, 대우건설에 사전 공유\"",
+    "summary": "한수원이 체코 원전 협상 종결 시점을 대우건설에 사전 공유했다고 주장하며 일방적 협상 결렬 의혹을 반박했다. 양측은 협상 진행 과정과 투명성을 두고 계속 대립 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T12:05:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32190,38 +32222,6 @@
     "summary": "국토안전원이 국립공주대와 협력하여 건설 현장 안전관리 및 시설물 안전점검 교육을 통해 지역 청년 인력 양성을 추진한다. 공공기관 채용정보 공유와 지역문제 해결에도 협력할 예정이다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-04T10:49:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "SM그룹 건설부문, '스마트 안전보건 관리시스템' 전 현장 도입 추진 - fetv.co.kr",
-    "link": "https://www.fetv.co.kr/news/articleView.html?idxno=313049",
-    "description": "건설현장 안전관리의 디지털 전환은 업계 공통 과제다. 중대재해 예방 압박이 커지면서 대형사 최고경영자(CEO)들도 올해 신년사에서 AI와 안전을 핵심 키워드로 꼽았다. 종이 공지 중심의 기존 방식으로는 수시로 바뀌는...",
-    "published_at": "2026-11-04T10:30:00+09:00",
-    "cluster_id": "4b2a",
-    "publisher": "fetv.co.kr",
-    "title_clean": "SM그룹 건설부문, '스마트 안전보건 관리시스템' 전 현장 도입 추진",
-    "summary": "SM그룹 건설부문이 AI 기반 스마트 안전보건 관리시스템을 전 현장에 도입하여 건설현장의 디지털 안전관리를 추진 중이다. 중대재해 예방 압박이 커지면서 업계 전반에서 AI와 안전을 핵심 과제로 삼고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-04T10:39:34+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "SM그룹 건설부문, 전 현장에 '스마트 안전보건 관리시스템' 확대 도입 - 데일리안",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNN2FaVEhlYjJuU2ExRHhmSm1OZmhpLW9RV0hiVmVhbDVnaHdYY3NkenJxZVlUVUVCTGF1LUZEZXliaHdEb3lwTDVadWlfWG4zdEZxSjRwZ0xzb0JsN2RhTzgzeFB5aERnOGRiZ2wtZzFHQk9WVFlhenpXWTBTQ2FaTUY0VklVMnlDbWF2bHA3QjJrSzB4Nk0zNEFZMlZ1WXp5eE53NURXREpldVVLQzVObFRZZUFoSm04YmtoaUJyTmtUWEVDTHBJdzJfSTNqSEZzcGpPNDBaYmZub2oyaXB0Z296U1EtN010cFdDb0FxWWZnYm5RNkhGQ3lGTEppNk5pU2xB?oc=5",
-    "description": "SM그룹 건설부문은 건설현장의 안전보건 관리 역량과 업무 효율성을 강화하고자 ‘스마트 안전보건 관리시스템’을 전(全) 현장에 확대 도입하기로 했다고 4일 밝혔다.스마트 안전보건 관리시스템은 근로자들이 자신의 안전모에 부착된 QR코드를 스캔해 현장별 주요 안전보건 정보와 작업 전 위험성평가 내용 등을 확인할 수 있도록 한 프로그램이다. 주로 게시판에 문서를",
-    "published_at": "2026-11-04T10:30:00+09:00",
-    "cluster_id": "7fe0",
-    "publisher": "데일리안",
-    "title_clean": "SM그룹 건설부문, 전 현장에 '스마트 안전보건 관리시스템' 확대 도입",
-    "summary": "SM그룹 건설부문이 스마트 안전보건 관리시스템을 전 현장에 확대 도입한다고 발표했다. 근로자들이 안전모의 QR코드를 스캔하여 안전보건 정보와 위험성평가 내용을 확인할 수 있는 시스템으로, 현장의 안전관리 역량과 업무 효율성 강화를 목표로 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-04T10:39:34+09:00",
     "importance": 2
   }
 ]
