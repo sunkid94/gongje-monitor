@@ -19910,6 +19910,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "안홍기 대표, 건설감정사 합격…건설·안전 분야 전문자격 3관왕 - 데일리한국",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yRHE3ek9fYU8wQmYtSXJUZnkwaHZDbFhtYkwyeHB5TnRENVpWSENoSEk4Qi1CTWlYY2dGUFFhM01JQzFYRE9BNkZwdW5qcUJtWlZyWFVzeDRxSlhfYXA5LXFYZ0k2RklnWlk5bk9hVdIBc0FVX3lxTFA5YVhQaFJqLW9BMXhwQkdwNEJaT2tvSmxYa2R1cWZGY19SRXBfaURySlRsYWZTT2RXSEcycVN5dDMxWnVwNjB1M0o2ZHZpVVh4bjhEMk94d0ZCM1BUV3QwUUFVd2ZORlRtV3dTUkkwbXhrWm8?oc=5",
+    "description": "[예천(경북)=데일리한국 채봉완 기자] 행복건설안전기술원·㈜행복안전 안홍기 대표가 제6회 건설감정사 시험에 합격하며 건축시공기술사, 산업안전지도사에 이어 건설·안전 분야 전문자격 3관왕에 올랐다.안 대표는 이번 합격으로 건설현장의 시공기술과 품질관리, 산업재해 예방은 물론 공사비와 하자 감정, 건설분쟁 해결까지 아우르는 전문성을 갖추게 됐다.건설감정사는 건설공사의 공사비와 기성고, 하자, 시공상 문제 등을 기술적·경제적으로 분석해 건설분쟁 해결을 지원하는 전문가다. 안 대표는 현재 대구·경북지역 법원에서 건설감정인으로 활동하고 있다",
+    "published_at": "2026-11-10T11:04:19+09:00",
+    "cluster_id": "76af",
+    "publisher": "데일리한국",
+    "title_clean": "안홍기 대표, 건설감정사 합격…건설·안전 분야 전문자격 3관왕",
+    "summary": "안홍기 대표가 건설감정사 시험에 합격하여 건축시공기술사, 산업안전지도사에 이어 건설·안전 분야 3개 전문자격을 취득했다. 시공기술, 품질관리, 산업재해 예방, 건설분쟁 해결까지 아우르는 종합적 전문성을 갖추게 되었으며, 현재 대구·경북지역 법원에서 건설감정인으로 활동 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-11T08:24:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32210,22 +32226,6 @@
     "title_clean": "호반건설, 동절기 현장 합동안전점검… 위험요인 선제 대응",
     "summary": "호반건설이 동절기 기온 강하와 악천후에 대비하여 건설현장 안전관리 실태를 점검하고 사고 예방 활동을 전개했다. 안전 위험요인에 대한 선제적 대응으로 현장 사고 방지에 나섰다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-05T10:09:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[건설브리핑 ] 쌍용건설,두바이 와슬 그룹과 MOU 외 - seoulfn.com",
-    "link": "https://www.seoulfn.com/news/articleView.html?idxno=641963",
-    "description": "호반건설, 동절기 앞두고 건설현장 합동안전점검 실시 호반건설은 동절기를 앞두고 건설현장 안전관리 강화를 위해 지난 4일 전남광주통합특별시 북구 월출동 '호반써밋 첨단3지구' A7블록 현장에서...",
-    "published_at": "2026-11-05T09:57:00+09:00",
-    "cluster_id": "415f",
-    "publisher": "seoulfn.com",
-    "title_clean": "[건설브리핑 ] 쌍용건설,두바이 와슬 그룹과 MOU 외",
-    "summary": "쌍용건설이 두바이 와슬 그룹과 MOU를 체결했으며, 호반건설은 동절기 앞두고 건설현장 합동안전점검을 실시했다. 건설사들이 해외 사업 확대와 안전관리 강화에 나서고 있다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-05T10:09:35+09:00",
     "importance": 2
   }
