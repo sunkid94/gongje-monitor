@@ -3910,6 +3910,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코 두코바니 원전 시공계약 협상 결렬 여진 : 대우건설 노조 '특정사와 짜고치기?' 의혹 제기에 한수원 '사실무근' 반박 - 허프포스트코리아",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnbV9nQmJ6S0l4RWNxbVJKM21iSFRNM0p1cXREQUFxUk5yTFFTa1ppS0dhLVc2aDNvSFpISzI3cmdkZXBNOXlDdFNpQzczY2lNXzBtTDNFQQ?oc=5",
+    "description": "체코 두코바니 원전 건설사업의 시공계약 협상이 결렬된 이후에도 이를 둘러싼 갈등이 가라앉지 않고 있다. 대우건설 노조가 한국수력원자력(한수원)의 사전 시공사 교체 의혹을 제기하자 한수원은 특정 업체를 미리 정한 사실이 없다며 정면으로 반박했다. 대우건설 노조는 협상 결",
+    "published_at": "2026-11-10T15:23:42+09:00",
+    "cluster_id": "ab02",
+    "publisher": "허프포스트코리아",
+    "title_clean": "체코 두코바니 원전 시공계약 협상 결렬 여진 : 대우건설 노조 '특정사와 짜고치기?' 의혹 제기에 한수원 '사실무근' 반박",
+    "summary": "체코 두코바니 원전 건설사업의 시공계약 협상 결렬 이후 대우건설 노조가 한수원의 시공사 사전 교체 의혹을 제기했고, 한수원은 이를 부인하며 갈등이 지속 중이다. 국제 대형 프로젝트 수주 실패로 건설사의 경영 악화 우려와 업계 신뢰도 하락이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T21:14:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19894,20 +19910,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "포스코이앤씨, 목동 수주 전략 재편…2·4·11단지서 발 빼고 1·14 집중 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026110411210713786",
-    "description": "최종 시공사 선정 절차를 앞두고 있는 목동8단지에는 대우건설이 '써밋 디아보 목동', 목동13단지에는 삼성물산이 '래미안 모브13'을 제안했다. 두 사업장 모두 수의계약으로 시공사를 선정할 가능성이 높은 상황이다....",
-    "published_at": "2026-11-04T11:36:00+09:00",
-    "cluster_id": "7455",
-    "publisher": "newsway.co.kr",
-    "title_clean": "포스코이앤씨, 목동 수주 전략 재편…2·4·11단지서 발 빼고 1·14 집중",
-    "summary": "포스코이앤씨가 목동 재개발 사업의 수주 전략을 재편하여 2·4·11단지에서 철수하고 1·14단지에 집중하기로 결정했다. 목동8단지는 대우건설이, 목동13단지는 삼성물산이 시공사로 제안되었으며, 두 단지 모두 수의계약으로 진행될 가능성이 높다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-04T11:39:30+09:00",
-    "importance": 3
+    "title": "경기도의회 김미경 의원, GH 건설현장 안전관리 실효성 강화 촉구 - 웹이코노미",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1Z2FxZERMS0oySmk1R09LM19VU2FYWnNzSV9oNjV1OXB4U1RtUWlPcUVucVhjVUJ2U1JHWmhfYTBoeV92LVBSLUE3eGgwV29TZUtZT3ZCVDFrZkFTakFmRjlBTjItZGFXNGdBREM5MVNEQQ?oc=5",
+    "description": "김미경 경기도의회 도시환경위원회 의원은 경기주택도시공사(GH) 행정사무감사에서 광주역세권 청년혁신타운 추락 사망사고와 반복되는 건설현장 안전사고, 하남교산 공사현",
+    "published_at": "2026-11-10T20:58:44+09:00",
+    "cluster_id": "9585",
+    "publisher": "웹이코노미",
+    "title_clean": "경기도의회 김미경 의원, GH 건설현장 안전관리 실효성 강화 촉구",
+    "summary": "경기도의회 김미경 의원이 GH 건설현장의 안전관리 실효성 강화를 촉구했습니다. 광주역세권 청년혁신타운 추락 사망사고 등 반복되는 건설현장 안전사고를 지적하며 안전관리 개선을 요구했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T21:14:17+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32210,22 +32226,6 @@
     "title_clean": "현대건설, 콘크리트 타설부터 균열까지 디지털 관리…스마트 품질시스...",
     "summary": "현대건설이 개발한 스마트 품질관리 시스템 '큐포켓'이 국토교통부 스마트건설기술 마당에 등록되고 2026 스마트건설 챌린지 본선에 진출했다. 콘크리트 타설부터 균열까지 디지털로 관리하는 기술로 건설산업의 스마트화를 주도하고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-05T09:24:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“동절기 안전관리 강화”…호반건설, 광주 첨단3지구 건설현장서 함동 안전점검 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTVVU0N3Z0U3FqdTlteGlLZGJHdmEzakhzTGV1cC05Ym5hdDlVMW8tX3lteWFabUlWbzRESnhGQXhCcTN2U1B2SFVpY2lnMzRRdHdyd3Z1NHU?oc=5",
-    "description": "경영진·임직원·협력사 참여 화화·한파·추락 등 점검 안전관리자 직무교육 실시",
-    "published_at": "2026-11-05T09:02:54+09:00",
-    "cluster_id": "381d",
-    "publisher": "매일경제",
-    "title_clean": "“동절기 안전관리 강화”…호반건설, 광주 첨단3지구 건설현장서 함동 안전점검",
-    "summary": "호반건설이 광주 첨단3지구 건설현장에서 동절기 안전관리 강화를 위해 경영진, 임직원, 협력사가 참여한 합동 안전점검을 실시했다. 화재, 한파, 추락 등 주요 위험요소를 점검하고 안전관리자 직무교육을 진행했다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-05T09:24:30+09:00",
     "importance": 2
   }
