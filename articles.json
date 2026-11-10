@@ -19910,6 +19910,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[사설] 내년 건설경기, 수주 확대ㆍ수익성 보전 이중고 이겨내야 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611101804325410471",
+    "description": "건설경기 회복 기대감은 긍정적이다. 수주, 공사 실적, 경기실사지수 등의 상승세가 내년에도 지속될 것이란 판단에서다. 그렇더라도 금융연의 GDP 성장률 전망치 3.1%의 절반에 그친 건설투자가 활성화되기까지 아직 갈...",
+    "published_at": "2026-11-11T04:20:00+09:00",
+    "cluster_id": "6bca",
+    "publisher": "대한경제",
+    "title_clean": "[사설] 내년 건설경기, 수주 확대ㆍ수익성 보전 이중고 이겨내야",
+    "summary": "내년 건설경기는 수주, 공사 실적, 경기실사지수 등이 상승할 것으로 예상되어 회복 기대감이 있으나, 건설투자가 GDP 성장률 전망치의 절반 수준에 그쳐 본격적인 활성화까지는 시간이 필요한 상황이다. 건설업계는 수주 확대와 수익성 보전이라는 이중의 과제를 동시에 해결해야 한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-11T04:29:03+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32209,22 +32225,6 @@
     "publisher": "소비자가 만드는 신문",
     "title_clean": "호반건설, 동절기 합동안전점검 실시...변부섭 건설안전부문 대표 안전시설 직접 살펴",
     "summary": "호반건설이 동절기 안전사고 예방을 위해 전남광주통합특별시의 호반써밋 첨단3지구 현장에서 합동안전점검을 실시했다. 변부섭 건설안전부문 대표와 임직원, 협력사 대표들이 참석하여 화재, 추락 등 안전시설과 작업환경을 점검했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-05T09:49:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“겨울철 사고 막는다”…호반건설, 첨단3지구서 대표이사 합동안전점검 - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51RGxoLWZRcExQQmxPekxNUFpvV1lvN0VXQ2hwa0w1U3JmYXFJTnZqNUlVNGtYbTJlRnF4ZEVQcWxSRUQ1ZkdzN1NyTmJZUDNCMndkRktB?oc=5",
-    "description": "호반건설은 동절기를 앞두고 지난 4일 광주 첨단3지구 A7블록 ‘호반써밋 첨단3지구’ 건설현장에서 변부섭 호반건설 건설안전부문 대표이사를 비롯해 임직원과 4개 협력사",
-    "published_at": "2026-11-05T09:40:10+09:00",
-    "cluster_id": "141e",
-    "publisher": "헤럴드경제",
-    "title_clean": "“겨울철 사고 막는다”…호반건설, 첨단3지구서 대표이사 합동안전점검",
-    "summary": "호반건설이 동절기를 앞두고 광주 첨단3지구 건설현장에서 안전점검을 실시했다. 건설안전부문 대표이사가 주도하여 임직원과 협력사와 함께 겨울철 사고 예방을 위한 합동점검을 진행했다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-05T09:49:43+09:00",
     "importance": 2
