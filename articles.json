@@ -3808,6 +3808,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설 컨소, 공사비 갈등 속 가덕도신공항 부지 실시설계 착수 - biz.chosun.com",
+    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/10/D6SUELGWQJBC3IKP4D3O7W7QNQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "description": "특별법 개정 지연에… 국토부 “물가상승분 반영” 대우건설 컨소시엄은 가덕도신공항 부지조성공사의 실시설계에 착수했다고 10일 밝혔다. 중동전쟁에 따른 물가 상승분을 공사비에 반영하는 문제가 아직 해결되지...",
+    "published_at": "2026-11-10T09:21:00+09:00",
+    "cluster_id": "2417",
+    "publisher": "biz.chosun.com",
+    "title_clean": "대우건설 컨소, 공사비 갈등 속 가덕도신공항 부지 실시설계 착수",
+    "summary": "대우건설 컨소시엄이 가덕도신공airport 부지조성공사의 실시설계에 착수했으나, 중동전쟁으로 인한 물가상승분 공사비 반영 문제가 미해결 상태이다. 특별법 개정 지연으로 인한 공사비 갈등이 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-10T09:26:00+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -19787,22 +19803,6 @@
     "publisher": "megaeconomy.co.kr",
     "title_clean": "대우건설, 의정부·마포 정비사업 시공사 선정…올해 도시정비 누적 수...",
     "summary": "대우건설이 의정부와 마포구 도시정비사업 시공사로 선정되어 7153억원 규모 공사를 수주했다. 올해 누적 수주액이 5조원을 돌파하며 건설사의 수주 실적이 증가하는 추세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-03T09:41:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 의정부·서울서 재개발 시공권 잇따라 확보… 올해 도시정비... - cnbizm.com",
-    "link": "https://www.cnbizm.com/news/articleView.html?idxno=320153",
-    "description": "문화경제 CNB저널 | CNB저널 | 씨앤비저널 대우건설이 경기도 의정부와 서울 마포구에서 재개발사업 시공권을 따내며 도시정비사업 수주 실적을 확대했다. 수도권 주요 정비사업지에서 연이어 수주 성과를 거두며...",
-    "published_at": "2026-11-03T09:30:00+09:00",
-    "cluster_id": "df2f",
-    "publisher": "cnbizm.com",
-    "title_clean": "대우건설, 의정부·서울서 재개발 시공권 잇따라 확보… 올해 도시정비...",
-    "summary": "대우건설이 의정부와 서울 마포구에서 재개발사업 시공권을 연이어 확보하며 도시정비사업 수주 실적을 확대했다. 수도권 주요 정비사업지에서의 연속적인 수주 성과로 건설업계의 긍정적 신호를 보여주고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-03T09:41:00+09:00",
     "importance": 2
