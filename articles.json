@@ -3825,6 +3825,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "국내 상장사 소액주주 18개월 새 24%↑…삼성전자 797만명 - dt.co.kr",
+    "link": "https://www.dt.co.kr/article/12094222?ref=naver",
+    "description": "이어 두산에너빌리티(173만2023명), 카카오(148만6523명), 네이버(139만9782명), LG전자(122만7359명), 삼성중공업(94만3373명), 한국전력공사(91만7115명), LG에너지솔루션(81만4200명), 포스코홀딩스(76만8770명) 순으로...",
+    "published_at": "2026-11-10T11:45:00+09:00",
+    "cluster_id": "eb74",
+    "publisher": "dt.co.kr",
+    "title_clean": "국내 상장사 소액주주 18개월 새 24%↑…삼성전자 797만명",
+    "summary": "국내 상장사 소액주주가 18개월간 24% 증가했으며, 삼성전자가 797만명으로 가장 많다. 두산에너빌리티, 카카오, 네이버 등 주요 기업들의 소액주주 수가 크게 늘어나는 추세이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-10T11:50:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -19807,22 +19823,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-03T11:11:19+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "\"권한 없다\"며 발 뺀 산업부 … 체코 원전 표류 책임은 누구의 몫인가 ... - biz.newdaily.co.kr",
-    "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300123.html",
-    "description": "체코 두코바니 원전 건설의 동반자였던 한국수력원자력과 대우건설의 이야기다. 이들은 15개월 동안 무려 91차례나 협상 테이블에 앉았지만 공사비와 설계변경에 따른 비용 부담을 끝내 풀지 못하고 파국을 맞았다. 갈등은...",
-    "published_at": "2026-11-03T11:04:00+09:00",
-    "cluster_id": "a288",
-    "publisher": "biz.newdaily.co.kr",
-    "title_clean": "\"권한 없다\"며 발 뺀 산업부 … 체코 원전 표류 책임은 누구의 몫인가 ...",
-    "summary": "체코 두코바니 원전 사업에서 한국수력원자력과 대우건설이 15개월간 91차례 협상에도 불구하고 공사비 및 설계변경 비용 부담 문제를 해결하지 못하고 사업에서 철수했다. 산업부가 권한 부재를 이유로 책임을 회피하면서 대형 해외 건설 프로젝트의 위험성이 노출되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-03T11:11:19+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
