@@ -19978,6 +19978,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설노동자·노무제공자 '일한 이력' 대출심사 반영 추진 - labortoday.co.kr",
+    "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237705",
+    "description": "▲ 정부가 일용직 건설노동자와 플랫폼·프리랜서 노동자가 일한 이력을 금융회사 신용평가와 대출심사에 반영하는 방안을 추진한다. 고용노동부와 금융위원회, 금융감독원은 11일 오후 서울 중구 건설근로자공제회에서...",
+    "published_at": "2026-11-12T06:34:00+09:00",
+    "cluster_id": "1c63",
+    "publisher": "labortoday.co.kr",
+    "title_clean": "건설노동자·노무제공자 '일한 이력' 대출심사 반영 추진",
+    "summary": "정부가 일용직 건설노동자와 플랫폼·프리랜서 노동자의 근무 이력을 금융회사 신용평가와 대출심사에 반영하는 방안을 추진 중이다. 이는 기존에 신용등급 산정에서 제외되던 비정규직 노동자들의 금융접근성 개선을 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T06:42:08+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[N2 포커스] 한수원 \"조건 수용하면 협의\"…대우건설과 체코 원전 협상... - news2day.co.kr",
+    "link": "https://www.news2day.co.kr/article/20261111500391",
+    "description": "한수원이 물량 위험을 합리적으로 나누는 안을 제시했다고 해명하자, 대우건설 노동조합은 사실상 단가를 깎는 안이었다며 재반박에 나섰다. 한수원은 지난달 29일 대우건설·두산에너빌리티 컨소시엄과의 시공계약...",
+    "published_at": "2026-11-12T06:32:00+09:00",
+    "cluster_id": "2873",
+    "publisher": "news2day.co.kr",
+    "title_clean": "[N2 포커스] 한수원 \"조건 수용하면 협의\"…대우건설과 체코 원전 협상...",
+    "summary": "한수원과 대우건설이 체코 원전 시공계약을 두고 협상 중이며, 물량 위험 분담 방식을 놓고 입장 차이를 보이고 있다. 양사가 합의점을 찾지 못하면서 대형 프로젝트 수주가 불확실한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T06:42:08+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32199,38 +32231,6 @@
     "summary": "대구시가 재건축·재개발 정비사업 활성화 계획을 시행하며 용적률 산식 개선과 지역 건설업체 참여 시 최대 43% 포인트의 용적률 인센티브를 부여한다. 이는 사업성 향상과 지역 건설경기 활성화를 목표로 한다.",
     "sentiment": "positive",
     "collected_at": "2026-11-08T21:28:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "충북 국회 예결위원들, 지방재정 부담·공공기관 이전 대책 마련 요구 - ccdailynews.com",
-    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2450241",
-    "description": "지난 5일 열린 국회 예결위 종합 정책질의에서 이연희 의원(민주당·청주 흥덕)은 지방건설경기 활성화와 지방재정 보호를 강조했다. 이 의원은 기후위기 대응을 위한 '생활SOC 민자사업 정책펀드' 조성을 제안했다. 준공 후...",
-    "published_at": "2026-11-08T20:56:00+09:00",
-    "cluster_id": "2098",
-    "publisher": "ccdailynews.com",
-    "title_clean": "충북 국회 예결위원들, 지방재정 부담·공공기관 이전 대책 마련 요구",
-    "summary": "충북 국회 예결위 의원들이 지방재정 부담 경감과 공공기관 이전에 따른 지역 경제 대책 마련을 요구했다. 생활SOC 민자사업 정책펀드 조성 등을 통해 지방건설경기 활성화를 촉구하는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-08T20:58:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 주민 제안형 정비사업 확대…생활권계획 도입 통한 사업 속도전 - tk.newdaily.co.kr",
-    "link": "https://tk.newdaily.co.kr/site/data/html/2026/11/08/2026110800092.html",
-    "description": "정비사업의 사업성을 높이는 동시에 지역 건설경기 활성화도 함께 추진하겠다는 계획이다. 대구시는 제도 개선과 초기 단계 지원을 통해 정비사업 추진 기반을 강화하고 주민 부담을 줄이는 한편 조합 운영의 투명성과...",
-    "published_at": "2026-11-08T20:54:00+09:00",
-    "cluster_id": "5087",
-    "publisher": "tk.newdaily.co.kr",
-    "title_clean": "대구시, 주민 제안형 정비사업 확대…생활권계획 도입 통한 사업 속도전",
-    "summary": "대구시가 주민 제안형 정비사업을 확대하고 생활권계획 도입으로 사업 추진을 가속화한다. 제도 개선과 초기 단계 지원으로 정비사업의 사업성을 높이고 지역 건설경기를 활성화하는 방침이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-08T20:58:02+09:00",
     "importance": 2
   }
 ]
