@@ -19961,6 +19961,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한수원 \"대우건설에 추가 협상 기회 줬다…일방 결렬 아냐\" - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMGQtWloxWVhwY1RjdG94RTg5TzUwZ1pDN1V6WV9WZ0pRWE02WERuZHRobU1GYkx4YTJ1SDBtekpBU05tX1dYMlV4RTN0M0N5SDhNSzhYd2Z1UQ?oc=5",
+    "description": "한수원 \"대우건설에 추가 협상 기회 줬다…일방 결렬 아냐\", 대우건설 노조 주장 반박",
+    "published_at": "2026-11-10T15:11:21+09:00",
+    "cluster_id": "e3c2",
+    "publisher": "한국경제",
+    "title_clean": "한수원 \"대우건설에 추가 협상 기회 줬다…일방 결렬 아냐\"",
+    "summary": "한수원이 대우건설과의 협상 결렬 논란에 대해 추가 협상 기회를 제공했다며 일방적 결렬이 아니라고 반박했다. 양사 간 계약 분쟁이 계속되고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T12:09:13+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32215,21 +32231,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-05T15:09:48+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LX하우시스, 이사 6명 신규 선임…미래 성장동력 확보 - 1conomynews.co.kr",
-    "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51175",
-    "description": "한편 LX하우시스는 건설경기 침체에 대응하기 위해 해외 시장 확대와 제품별 맞춤형 마케팅을 병행하고 있다. 특히 북미 시장을 중심으로 맞춤형 제품을 선보이고 있다. 국내에서는 본격적인 겨울을 앞두고 소비자...",
-    "published_at": "2026-11-05T15:00:00+09:00",
-    "cluster_id": "6148",
-    "publisher": "1conomynews.co.kr",
-    "title_clean": "LX하우시스, 이사 6명 신규 선임…미래 성장동력 확보",
-    "summary": "LX하우시스가 이사 6명을 신규 선임하며 경영 체제를 개편했다. 건설경기 침체에 대응하기 위해 해외 시장 확대와 북미 중심의 맞춤형 제품 마케팅을 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-05T15:09:48+09:00",
-    "importance": 2
   }
 ]
