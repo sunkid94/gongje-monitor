@@ -19981,6 +19981,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "GS·포스코 손잡고 AI 데이터센터 선점 나서 - chosun.com",
+    "link": "https://www.chosun.com/economy/industry-company/2026/11/12/HGENOTPO55BO7PDCEMN2NXLQBQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "description": "건설경기 침체와 중국발 공급과잉으로 어려움을 겪고 있는 포스코는 데이터센터와 전력 인프라 건설에 필요한 고부가가치 철강재가 새로운 돌파구로 떠오르고 있다.",
+    "published_at": "2026-11-12T00:34:00+09:00",
+    "cluster_id": "7ec6",
+    "publisher": "chosun.com",
+    "title_clean": "GS·포스코 손잡고 AI 데이터센터 선점 나서",
+    "summary": "포스코가 GS와 협력하여 AI 데이터센터 건설 시장에 진출하며 고부가가치 철강재 수요를 창출하고 있다. 건설경기 침체와 중국발 공급과잉으로 어려움을 겪던 포스코에게 데이터센터·전력 인프라 건설이 새로운 성장 기회가 되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T00:42:10+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "\"설비투자 호조, 민간소비 회복, 적극 재정운용…내년 내수 회복\" - junggi.co.kr",
     "link": "https://www.junggi.co.kr/news/articleView.html?idxno=38448",
     "description": "고령층 취업 증가와 건설경기 개선, 정부 일자리 사업 확대가 고용을 뒷받침하겠지만, 청년층 고용 부진과 산업별 편중은 구조적 과제로 남아 있다고 진단했다. 김 실장은 반도체 호황이 경제 전반으로 확산되는 데...",
@@ -32216,21 +32232,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-08T16:53:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 주택공급 확대 속도전…정비구역부터 용적률까지 전면 개편 - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6603668?utm_source=naver&utm_medium=article&utm_campaign=20261108164024",
-    "description": "지역 건설경기 활성화를 위해서는 용적률 인센티브 한도를 늘리고, 항목까지 확대하는 등 관련 제도 정비로 대응한다. 지역업체 참여 시 부여되는 용적률 인센티브를 최대 43%p까지 상향하고, 녹색건축인증 등 용적률...",
-    "published_at": "2026-11-08T16:41:00+09:00",
-    "cluster_id": "21c7",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "대구시, 주택공급 확대 속도전…정비구역부터 용적률까지 전면 개편",
-    "summary": "대구시가 주택공급 확대를 위해 용적률 인센티브 한도를 최대 43%p까지 상향하고 정비구역 제도를 전면 개편하는 등 건설경기 활성화 정책을 추진 중이다. 지역업체 참여 시 혜택을 확대하고 녹색건축인증 등 다양한 인센티브 항목을 확대하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-08T16:47:59+09:00",
-    "importance": 2
   }
 ]
