@@ -19927,6 +19927,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "수주 늘어도 공사대금 회수는 악화...건설사 자금 부담 여전 - asiaa.co.kr",
+    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=270474",
+    "description": "9월 국내 건설수주는 24조6000억원으로 전년 동월보다 49.3% 늘었다. 민간 비주택 수주가 139.7% 증가하며 전체 실적을 끌어올렸다. 대형 반도체 생산시설과 복합개발사업의 신규 계약에 기존 공사·정비사업의 계약금액...",
+    "published_at": "2026-11-11T10:26:00+09:00",
+    "cluster_id": "b51f",
+    "publisher": "asiaa.co.kr",
+    "title_clean": "수주 늘어도 공사대금 회수는 악화...건설사 자금 부담 여전",
+    "summary": "9월 건설수주가 전년 동월 대비 49.3% 증가하며 호조를 보였으나, 공사대금 회수 악화로 건설사의 자금 부담이 여전한 상황이다. 수주 증가에도 불구하고 현금화 지연으로 인한 유동성 압박이 지속되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-11T10:28:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32210,22 +32226,6 @@
     "publisher": "gamemeca.com",
     "title_clean": "집 짓기 시뮬레이터 하우스 빌더 2, PS5 버전 정식 출시",
     "summary": "PS5용 건설 시뮬레이터 게임 '하우스 빌더 2'가 정식 출시되었다. 플레이어가 건설 노동자 역할을 하며 기초공사부터 마무리까지 건설의 전 단계를 경험하는 게임이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-05T12:14:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "호반건설, ‘호반써밋 첨단3지구’ A7블록 현장서 동절기 합동안전점검 실시 - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aZ0lZbHFJWlpSLWNsdHd5SlhFNTB5QTRWaEF2QTJPWW9LQTl0Vjc3TElKdVRZSzF1Zl9MdGxZVGNuT3FQUnBCejZudkVYXzRjUGVWblJOdzdSamVuSHRQTnpEOUdPanduSmNIWHc1QWHSAXRBVV95cUxOUldlalBZOExhYkowcDlzOE5zSHQ3TW1vXzk5VmRUN2VwdFNjY1VEZUlzRHd4R1l4U3BQMUF2S3JnZkFwQXZLQTVSdnBITlFHTDlqWEQ1NUNoOEt5WDE5emNqY2dkU0owOXd0b3dxQjFsTy1GNg?oc=5",
-    "description": "[이뉴스투데이 신지원 기자] 호반건설은 지난 4일 전남광주통합특별시 북구 월출동 ‘호반써밋 첨단3지구’ A7블록 현장에서 동절기 합동안전점검을 실시했다고 5일 밝혔다. 이번 점검에는 변부섭 호반건설 건설안전부문 대표이사를 비롯한 임직원과 4개 협력사 대표 등이 참석했다.변 대표는 현장",
-    "published_at": "2026-11-05T12:08:02+09:00",
-    "cluster_id": "5233",
-    "publisher": "이뉴스투데이",
-    "title_clean": "호반건설, ‘호반써밋 첨단3지구’ A7블록 현장서 동절기 합동안전점검 실시",
-    "summary": "호반건설이 전남광주통합특별시 북구의 '호반써밋 첨단3지구' A7블록 현장에서 동절기 합동안전점검을 실시했다. 건설안전부문 대표이사와 협력사 대표 등이 참석하여 겨울철 안전관리 체계를 점검했다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-05T12:14:35+09:00",
     "importance": 2
