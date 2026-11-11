@@ -19978,6 +19978,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[체코 원전 '시계제로'②] 한수원과 갈등에도 재협상 요청…대우건설의... - ntoday.co.kr",
+    "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130596",
+    "description": "대우건설 노동조합(전국건설기업노동조합 대우건설지부)도 전면에 나섰다. 협상 결렬 배경에 '템퍼링(사전 접촉)' 의혹을 제기하는 기자회견을 연데 이어 대통령에게 보내는 탄원서를 제출한 것으로 알려졌다. 노조 측은...",
+    "published_at": "2026-11-11T20:20:00+09:00",
+    "cluster_id": "c07a",
+    "publisher": "ntoday.co.kr",
+    "title_clean": "[체코 원전 '시계제로'②] 한수원과 갈등에도 재협상 요청…대우건설의...",
+    "summary": "체코 원전 사업 협상 결렬과 관련해 대우건설 노조가 '템퍼링' 의혹을 제기하며 기자회견과 대통령 탄원서를 제출했다. 한수원과의 갈등 속에서도 재협상을 요청하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T20:31:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32216,21 +32232,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-08T12:27:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "철강 양강, 3분기 수익성 개선에도 온도차…업황 회복은 아직 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/article/2026110718333673509",
-    "description": "자동차·조선 등 주요 전방산업의 수요 개선이 기대되는 반면 건설경기 침체는 이어지면서 철강업계의 수익성 회복도 차별화될 전망이다. 7일 철강업계에 따르면 포스코의 올해 3분기 별도 기준 매출은 9조9570억원...",
-    "published_at": "2026-11-08T12:02:00+09:00",
-    "cluster_id": "fde1",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "철강 양강, 3분기 수익성 개선에도 온도차…업황 회복은 아직",
-    "summary": "철강업계가 3분기 수익성 개선을 보이고 있으나 자동차·조선 등 산업별로 회복 정도에 차이가 나타나고 있다. 건설경기 침체가 계속되면서 전반적인 업황 회복은 아직 미흡한 상황이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-08T12:07:50+09:00",
-    "importance": 2
   }
 ]
