@@ -3978,23 +3978,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "대한건설협회 제주도회, 도내 취약계층 지원 1000만원 기탁 - newsjeju.net",
-    "link": "https://www.newsjeju.net/news/articleView.html?idxno=426854",
-    "description": "이날 열린 회원사 골프대회는 회원사 간 화합과 교류를 위해 마련됐으며, 건설공제조합이 행사를 후원해 의미를 더했다. 대한건설협회 제주도회는 회원사들과 함께 건설산업의 발전뿐만 아니라 지역사회와 함께하는...",
-    "published_at": "2026-10-12T19:56:00+09:00",
-    "cluster_id": "3cd9",
-    "publisher": "newsjeju.net",
-    "title_clean": "대한건설협회 제주도회, 도내 취약계층 지원 1000만원 기탁",
-    "summary": "대한건설협회 제주도회가 회원사 골프대회를 개최하고 도내 취약계층을 위해 1000만원을 기탁했다. 건설공제조합이 행사를 후원하며 지역사회 공헌에 함께했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-12T20:00:35+09:00",
-    "event_label": "건설공제조합 회원사 골프대회 개최 및 지역사회 기탁금 전달",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -19995,6 +19978,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "농업기술원 이전, 도지사 결단 촉구 - gnnews.co.kr",
+    "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=649400",
+    "description": "안경원 경남개발공사 사장은 \"위수탁 협약 체결 당시 양산과 함안지역 산단 분양이 활발해 자금을 조달할 수 있겠다고 판단했다\"며 \"2025년 초 갑자기 자금 경색이 오고 건설경기가 위축되면서, 건축공사는 여유 자금이 없어...",
+    "published_at": "2026-11-11T19:54:00+09:00",
+    "cluster_id": "82bb",
+    "publisher": "gnnews.co.kr",
+    "title_clean": "농업기술원 이전, 도지사 결단 촉구",
+    "summary": "경남개발공사 사장이 농업기술원 이전 사업의 자금 조달 어려움을 언급하며, 2025년 초 자금 경색과 건설경기 위축으로 건축공사 추진에 난항을 겪고 있는 상황을 설명했다. 도지사의 결단을 촉구하며 건설 산업의 어려운 현실을 드러냈다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T20:01:48+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "BS한양, 동반성장지수 8년 연속 '우수' 달성…상생 동반자 입증 - paxetv.com",
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=286657",
+    "description": "동반성장팀을 중심으로 하도급대금 100% 현금 지급 및 지급기일 단축, 명절 전 공사대금 조기 지급 등 건설경기 둔화 속 협력사 유동성 지원에 무게를 두고 공정한 거래 기반을 다져온 점이 높게 평가받았습니다. BS한양...",
+    "published_at": "2026-11-11T19:52:00+09:00",
+    "cluster_id": "10ea",
+    "publisher": "paxetv.com",
+    "title_clean": "BS한양, 동반성장지수 8년 연속 '우수' 달성…상생 동반자 입증",
+    "summary": "BS한양이 동반성장지수에서 8년 연속 우수 등급을 획득했으며, 하도급대금 현금 지급, 지급기일 단축 등 협력사 지원으로 높은 평가를 받았다. 건설경기 둔화 속에서도 공정한 거래 기반을 구축하여 상생 협력의 모범사례를 입증했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-11T20:01:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32217,21 +32232,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-08T11:57:51+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "균열 보강했는데 이듬해 사면붕괴…도의회, 도로공사 안전대책 점검 - 경남도민일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zeWZNdW5tQVVpblFOWjVpN2J2bjR6QVBVVldsTmRRNEhyUnR6VHU0Y2NsOHlMeEJOU25DTTVYUmMzUHVvR1Yyb3ZxTE9KU1F2bVM1ejNIamNTRWhhbzZUOE5tRG8xV29odEE?oc=5",
-    "description": "경남도의회가 행정사무감사 기간 거제 도로건설 현장을 찾아 균열을 보강한 이듬해 사면이 무너진 문제를 집중 점검했다. 도의원들은 보강 이후에도 붕괴가 발생한 경위를",
-    "published_at": "2026-11-08T10:56:28+09:00",
-    "cluster_id": "3dfe",
-    "publisher": "경남도민일보",
-    "title_clean": "균열 보강했는데 이듬해 사면붕괴…도의회, 도로공사 안전대책 점검",
-    "summary": "경남도의회가 거제 도로건설 현장에서 균열 보강 이후 사면붕괴 문제를 행정사무감사로 점검했다. 도로공사의 안전대책 미흡이 지적되며 건설 현장 안전 관리 강화가 요구되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-08T11:12:58+09:00",
-    "importance": 4
   }
 ]
