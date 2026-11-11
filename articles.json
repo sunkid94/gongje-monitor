@@ -19995,6 +19995,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "새만금청, 겨울철 건설현장 위험요인 선제 점검 - 전북엔비전",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vNkNQRzh5c1NlU1pwUkVxdkJLSm9GeGFTcTE5Vng1UDNGOWRoQzBJSlg2eklnUU9YVjNUYlN0M0syWUYwSnZmNWJTSTdEanBOb0JjRFBkVzdCbnNpX0xQMEdjSU9jQQ?oc=5",
+    "description": "새만금개발청은 겨울철 건설현장의 안전사고와 부실시공을 예방하기 위해 오는 20일까지 새만금지역 내 건설현장 28곳을 대상으로 동절기 대비 안전점검을 실시한다고 1",
+    "published_at": "2026-11-11T19:18:40+09:00",
+    "cluster_id": "4438",
+    "publisher": "전북엔비전",
+    "title_clean": "새만금청, 겨울철 건설현장 위험요인 선제 점검",
+    "summary": "새만금개발청이 겨울철 건설현장의 안전사고와 부실시공 예방을 위해 새만금지역 내 28개 건설현장에 대한 동절기 안전점검을 실시한다. 이는 건설현장의 안전 강화 조치로, 업계의 규제 감시 강화를 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T19:31:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32217,21 +32233,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-08T11:07:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "송도 물류센터 화재가 드러낸 재난 인력 동원 체계의 구조적 공백 - 유스연합",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJSlhBSG1QSk01bjZIZXdFdEZ6eGljYjJER3RNbzRJRVZvM0w1ckVYTEV6em1nS05teFJvQUNMVTloWF96ZVVTVEZMQW80M1hoS1Vz?oc=5",
-    "description": "위험 작업은 숙련공과 안전비용이 좌우한다 2026년 11월 7일 새벽, 인천 송도국제도시의 한 대형 물류센터에서 화재가 발생했다. 이 사고는 단순 화재로 끝나지 않았다. 잔해 제거와 안전 진단에 투입할 숙련 인력이 곧바로 모이지 않았고, 인근 인력사무소들은 주말 건설 현장 수요와 갑작스러운 재난 요청이 겹쳐 공급 한계에 부딪혔다. 사건이 던진 핵심 질문은",
-    "published_at": "2026-11-08T10:31:11+09:00",
-    "cluster_id": "45f9",
-    "publisher": "유스연합",
-    "title_clean": "송도 물류센터 화재가 드러낸 재난 인력 동원 체계의 구조적 공백",
-    "summary": "인천 송도의 물류센터 화재 사건에서 재난 복구에 필요한 숙련 인력 수급이 원활하지 않아 건설업 인력 동원 체계의 구조적 문제점이 드러났다. 주말 건설 현장 수요와 긴급 재난 요청이 겹치면서 인력사무소들이 공급 한계에 직면했으며, 위험 작업의 안전성과 효율성이 숙련공 확보 여부에 좌우되는 현실을 보여준다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-08T10:37:51+09:00",
-    "importance": 4
   }
 ]
