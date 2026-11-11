@@ -19944,6 +19944,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설경기 한파에 건자재 '빅2' 실적도 흔들 - asiatime.co.kr",
+    "link": "https://www.asiatime.co.kr/article/20261111500245",
+    "description": "한 건자재 업계 관계자는 \"건설경기 침체로 내년에도 건자재 시장의 회복을 낙관하기 어렵다\"며 \"KCC와 LX하우시스의 실적 부진은 계속될 전망\"이라고 말했다. /이현주 기자",
+    "published_at": "2026-11-11T13:26:00+09:00",
+    "cluster_id": "c470",
+    "publisher": "asiatime.co.kr",
+    "title_clean": "건설경기 한파에 건자재 '빅2' 실적도 흔들",
+    "summary": "건설경기 침체로 인해 건자재 업계 '빅2'인 KCC와 LX하우시스의 실적 부진이 심화되고 있다. 내년 건자재 시장의 회복을 기대하기 어려울 것으로 전망되면서 업계 전반의 부진이 지속될 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T13:29:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32212,22 +32228,6 @@
     "title_clean": "[EZ 기획] 한화건설, AI로 현장 안전부터 건물 운영까지···스마트 건설...",
     "summary": "한화건설이 AI와 디지털 기술을 건설현장 안전관리, 건축물 운영, 에너지 효율화 등 전 영역에 확대 적용하고 있다. 근로자 신고 기반의 AI 사진 분석을 통한 위험요인 개선대책 수립 등 스마트 건설을 추진 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-05T15:59:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "영산대, 지속 가능한 지역사회 혁신 선도한다 - idomin.com",
-    "link": "https://www.idomin.com/news/articleView.html?idxno=2018882",
-    "description": "영산대 스마트건설교통공학과 '와이즈 테크-투어리즘' 팀은 경남인재평생교육진흥원이 주관한 '대학과 지역의 변화를 만든 혁신이야기' 공모전에서 대상을 받았다. 공모전은 대학과 지역의 혁신, 지산학 협업...",
-    "published_at": "2026-11-05T15:56:00+09:00",
-    "cluster_id": "01df",
-    "publisher": "idomin.com",
-    "title_clean": "영산대, 지속 가능한 지역사회 혁신 선도한다",
-    "summary": "영산대 스마트건설교통공학과 팀이 지역사회 혁신 공모전에서 대상을 수상했다. 대학과 지역의 협업을 통한 지속 가능한 혁신 사례로 평가받았다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-05T15:59:22+09:00",
     "importance": 2
   }
