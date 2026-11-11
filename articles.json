@@ -19978,6 +19978,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "광양시, 신공법으로 노후 폐수관로 정비 27억 절감 성과 - jnilbo.com",
+    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000081676",
+    "description": "그 결과 9월 조립식 차수·흙막이 공법인 'S.W.A.P 공법(건설신기술 제875호)'을 최종 선정해 광양시 발주 공사 최초로 현장에 도입하는 결단을 내렸다. 공정 효율 극대화로 시공 속도 향상 새롭게 도입된 S.W.A.P 공법은...",
+    "published_at": "2026-11-12T04:30:00+09:00",
+    "cluster_id": "b0d7",
+    "publisher": "jnilbo.com",
+    "title_clean": "광양시, 신공법으로 노후 폐수관로 정비 27억 절감 성과",
+    "summary": "광양시가 신공법 'S.W.A.P 공법'을 도입하여 노후 폐수관로 정비 공사에서 27억 원의 비용을 절감했다. 조립식 차수·흙막이 공법으로 공정 효율을 극대화하고 시공 속도를 향상시켰다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T04:36:47+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32216,21 +32232,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-08T16:57:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대한건설협회 강원도회, 임시총회 열고 업계 위기 대응 모색 - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2083343",
-    "description": "대한건설협회 강원특별자치도회가 지역 건설경기 침체 대응과 회원사 권익 보호를 위해 제도 개선과 업계 협력 방안을 논의했다. 대한건설협회 강원도회는 8일 대표회원 70여 명이 참석한 가운데 '2026년 제1회 임시총회'를...",
-    "published_at": "2026-11-08T16:48:00+09:00",
-    "cluster_id": "ccc1",
-    "publisher": "kado.net",
-    "title_clean": "대한건설협회 강원도회, 임시총회 열고 업계 위기 대응 모색",
-    "summary": "대한건설협회 강원특별자치도회가 임시총회를 개최하여 지역 건설경기 침체 대응과 회원사 권익 보호를 위한 제도 개선 및 업계 협력 방안을 논의했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-08T16:53:16+09:00",
-    "importance": 5
   }
 ]
