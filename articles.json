@@ -19995,6 +19995,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "‘2026 한국국제승강기엑스포’ 개막…AI 입은 K-승강기 총출동 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50672",
+    "description": "[건설이코노미뉴스] 행정안전부(장관 윤호중)가 승강기 안전문화 확산과 국내 승강기 산업의 경쟁력 강화를 위해 안전과 산업을 아우르는 대규모 행사를 개최한다.행안부는 '승강기 안전의 날(11월 11일)'을 맞아 지난 9일부터 13일까지 '2026 승강기 안전주간'을 운영하고, 11일부터 13일까지 경기도 고양시 킨텍스 제1전시장에서 '2026 한국국제승강기엑스포'를 개최한다고 밝혔다.2018년 시작된 승강기 안전주간은 민·관이 함께 승강기 안전문화를 확산하기 위해 마련된 행사로 올해 9회째를 맞는다. 2010년 처음 개최된 한국국제승",
+    "published_at": "2026-11-11T16:16:08+09:00",
+    "cluster_id": "a05f",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "‘2026 한국국제승강기엑스포’ 개막…AI 입은 K-승강기 총출동",
+    "summary": "행정안전부가 11월 11일 '승강기 안전의 날'을 맞아 킨텍스에서 '2026 한국국제승강기엑스포'를 개최했으며, 80개 기업이 참가해 AI 적용 등 신기술을 선보였다. 전국 11개 공항·역에서 안전캠페인을 펼치고 15개 전문 콘퍼런스를 통해 승강기 산업의 기술 발전과 안전문화 확산을 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-11T16:24:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32216,22 +32232,6 @@
     "summary": "부천시가 관내 발주공사 현장 27개소에 대해 10월 말부터 안전점검을 실시 중이다. 안전사고 예방과 근로자 안전 확보를 목표로 하는 조치다.",
     "sentiment": "negative",
     "collected_at": "2026-11-06T14:00:04+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설 경기 침체에 철강 중소형주 약세…대호특수강·영흥은 '방긋' - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oVlEtVExlblhJVjU2U2VlZ1VYVDdqQnJaWnZwNmFiYWhOMjU3ZUxQVW1qb3l2ZDlmM0tvN3Rkd0ZZZnFrS0txdDhwY2plZkhUVy0weVowOUM1RHRsdEhuSmVwcjVzNkhaQ05zNzVVZ1psV3PSAXdBVV95cUxPaFlJSzY2dE5DaUU2Wm1UcU03dUdlTDVZOXhERXZoSS12STBoYjBVaWdpUmttN1dtRnFyX1hTcFRKdFdSdXNlM3JHUW9ad3dqYTZoQTkwbWRmczFkRTZzMnlFbGROTHU3MmtPN0NYQm5xRUhsbmxTNA?oc=5",
-    "description": "철강 중소형주가 6일 건설 등 주요 전방 산업의 경기 둔화와 글로벌 철강 수요 회복 지연으로 대체로 약세를 나타내고 있다. 원화 강세에 따른 수입 원재료 비용 완화 기대에도 내수 판매 부진과 철강재 가격 변동성이 부담으로 작용하면서 관련 종목 전반에 매도세가 이어지는 모습이다.한국거래소에 따르면 이날 오후 1시22분 현재 자동차·기계용 특수강 봉강을 생산하는 대호특수강은 1.83% 오른 999원에 거래되고 있다. 특수강 선재 수요 회복 기대와 실적 개선 전망이 투자심리를 뒷받침하는 것으로 풀이된다. 와이어로프와 특수선재를 생산하는",
-    "published_at": "2026-11-06T13:24:47+09:00",
-    "cluster_id": "a3e7",
-    "publisher": "핀포인트뉴스",
-    "title_clean": "건설 경기 침체에 철강 중소형주 약세…대호특수강·영흥은 '방긋'",
-    "summary": "건설 경기 침체와 글로벌 철강 수요 회복 지연으로 철강 중소형주가 전반적으로 약세를 보이고 있다. 다만 대호특수강은 특수강 수요 회복 기대와 실적 개선 전망에 힘입어 상승 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-06T13:40:09+09:00",
     "importance": 4
   }
 ]
