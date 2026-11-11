@@ -19978,6 +19978,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[사설] 지역업체 수주 기회 늘리되 시공 역량도 키워라 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111549475680645",
+    "description": "정부와 지자체는 전문 기술인력 양성과 채용, 스마트건설 기술 도입, 정책금융과 보증 지원 등을 확대해야 한다. 대형 건설사와의 공동수행을 통해 공사관리와 품질ㆍ안전관리 노하우를 축적하도록 유도하는 것도...",
+    "published_at": "2026-11-12T04:20:00+09:00",
+    "cluster_id": "5d3c",
+    "publisher": "대한경제",
+    "title_clean": "[사설] 지역업체 수주 기회 늘리되 시공 역량도 키워라",
+    "summary": "정부와 지자체가 지역업체의 수주 기회 확대를 위해 전문 기술인력 양성, 스마트건설 기술 도입, 정책금융 지원 등을 강화해야 한다는 주장. 대형 건설사와의 공동수행을 통해 지역업체의 시공 역량과 관리 노하우를 함께 키워야 한다는 입장.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T04:31:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32216,21 +32232,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-08T16:53:16+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "균열 보강 뒤 사면붕괴…거제 국지도 58호선 안전 도마 - 뉴스경남",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSN2g5TkdBZDJ3bUxseHljcjNOYjA3QThieGxJMXRFR2oycUhVR2RrSnVJTlZSZEgzbVRyZkY1TzNwdHhaUkFCNXdVdndCMXFYREV4ZWtuMmJ2X1V6SGFvZjY4bm1XdTFE?oc=5",
-    "description": "지난 2023년 7월 집중호우 당시 터널 상단부 균열로 보강공사를 했으나 다음해 집중호우가 발생하자 또다시 사면이 붕괴된 연초1터널 공사가 도마 위에 올랐다.경남도의회 건설소방위원회는 지난 6일 행정사무감사 현지확인의 일환으로 거제 송정IC~문동 도로건설 현장을 찾아 터널 사면붕괴 경",
-    "published_at": "2026-11-08T09:44:00+09:00",
-    "cluster_id": "0b63",
-    "publisher": "뉴스경남",
-    "title_clean": "균열 보강 뒤 사면붕괴…거제 국지도 58호선 안전 도마",
-    "summary": "거제 국지도 58호선 연초1터널에서 2023년 균열 보강 후 2024년 집중호우 시 재차 사면붕괴가 발생했다. 경남도의회 건설소방위원회가 현지확인에 나선 것으로 보아 공사 품질 및 안전관리 문제가 도마 위에 올랐다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-08T16:53:16+09:00",
-    "importance": 4
   }
 ]
