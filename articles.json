@@ -19995,6 +19995,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "현대엔지니어링 '안성 교량 붕괴' 8개월 영업정지 - 4th.kr",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2121654",
+    "description": "처분 근거는 건설산업기본법 제82조 제2항 제5호와 같은 법 시행령 별표6이다. 영업정지 대상 사업의 매출액은 5조5410억2852만원이다. 현대엔지니어링의 2025년 연결재무제표 기준 국내 토목·건축 도급공사 매출액이다....",
+    "published_at": "2026-11-11T19:28:00+09:00",
+    "cluster_id": "42cf",
+    "publisher": "4th.kr",
+    "title_clean": "현대엔지니어링 '안성 교량 붕괴' 8개월 영업정지",
+    "summary": "현대엔지니어링이 안성 교량 붕괴 사고로 8개월 영업정지 처분을 받았다. 국내 토목·건축 도급공사 5조5410억원 규모의 영업정지로 건설업계에 미치는 영향이 크다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-11T19:41:23+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "롯데건설, 스타트업 10곳과 혁신기술 건설현장 적용 논의 - dt.co.kr",
+    "link": "https://www.dt.co.kr/article/12094688?ref=naver",
+    "description": "참여 기업들은 스마트건설과 인공지능(AI), 로봇, 친환경 분야의 기술을 선보였다. 롯데건설은 창업진흥원·서울경제진흥원과 진행한 오픈이노베이션 프로그램 등을 통해 9개 기업을 발굴했고, 자체적으로 찾은 1개...",
+    "published_at": "2026-11-11T19:32:00+09:00",
+    "cluster_id": "d090",
+    "publisher": "dt.co.kr",
+    "title_clean": "롯데건설, 스타트업 10곳과 혁신기술 건설현장 적용 논의",
+    "summary": "롯데건설이 스타트업 10곳과 함께 스마트건설, AI, 로봇, 친환경 등 혁신기술을 건설현장에 적용하는 방안을 논의했다. 오픈이노베이션 프로그램을 통해 기술 파트너를 발굴하고 협력을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-11T19:41:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32201,37 +32233,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-08T11:12:58+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 11월부터 주택정비사업 신속 추진 - viva100.com",
-    "link": "https://www.viva100.com/article/20261108500286",
-    "description": "정비사업의 원활한 추진과 지역 건설경기 활성화를 위해 기부채납 때 폐지되는 정비기반시설 면적과 관계없이 순수 제공 면적에 비례해 용적률을 부여하도록 산식을 개선한다. 또한 녹색건축인증ㆍ소형주택 건립 등...",
-    "published_at": "2026-11-08T11:00:00+09:00",
-    "cluster_id": "7209",
-    "publisher": "viva100.com",
-    "title_clean": "대구시, 11월부터 주택정비사업 신속 추진",
-    "summary": "대구시가 11월부터 주택정비사업 추진을 위해 용적률 산식을 개선하고 녹색건축인증·소형주택 건립 등을 지원한다. 기부채납 면적 산정 방식 개선으로 사업성을 높여 지역 건설경기 활성화를 도모하는 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-08T11:07:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "\"함께 그리는 미래 철도망 계획\"…국토부, 대국민 의견수렴회 개최 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FeXBlUGdHSFF3SzAwOVFWenFmRTNjdnh6V25ZVG4yMDV5NEN1cWFXRG5KTUwwS214RVBnOEhqVHVNMWJVV1NWOXlnS01GUlJlcnRWSjBQaXVFcDc2SXY4c3VxMk92c2dfRXfSAW9BVV95cUxOZ0c2ZHlycDRXelJYU2pJLWc1MzdHd1JNdHVNaDFNekY5bDc3Z2dQQWZzVldWQnpmYWpMLUpzTTdlSWw5ekVuNVlBLWlUMDYwUGhOMzJSQmg3UW9LNXF3NUVZV05ITGNKMHJ5RHNxR1E?oc=5",
-    "description": "국토교통부는 오는 13일 오전 9시 30분 서울 전문건설회관 대회의실에서 '새로운 대한민국의 내일을 잇는 철도 대전환'을 주제로 의견수렴 행사를 개최한다고 9일 밝혔다. 국토부는 그동안 지방정부 등이 건의한 철도사업을 대상으로 교통수요와 사업 타당성, 지역발전 효과 등을 검토해 왔다.",
-    "published_at": "2026-11-08T11:00:00+09:00",
-    "cluster_id": "0549",
-    "publisher": "머니투데이",
-    "title_clean": "\"함께 그리는 미래 철도망 계획\"…국토부, 대국민 의견수렴회 개최 - 머니투데이",
-    "summary": "국토교통부가 13일 서울에서 '철도 대전환'을 주제로 대국민 의견수렴회를 개최한다. 지방정부의 철도사업 건의를 검토하여 교통수요, 타당성, 지역발전 효과 등을 평가할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-08T11:07:59+09:00",
-    "importance": 2
   }
 ]
