@@ -20012,6 +20012,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "건설현장 AI·로봇 적용 검증…스타트업 10곳과 PoC - 한국건설신문",
+    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37623",
+    "description": "롯데건설이 스타트업 10곳과 스마트건설·인공지능(AI)·로봇·친환경 기술을 건설현장에 적용할 수 있는지 검증했다. 바닥충격음 저감 기술과 건설장비 데이터 통합관리 플랫폼, 자재 운반·순찰 로봇, AI 기반 작업 기록과 장비 제어 등이 검토 대상에 포함됐으며 후속 사업화 방안도 논의했다.롯데건설은 지난 10일 서울 강서구 마곡 르웨스트시티에서 ‘2026 롯데건설 오픈이노베이션 성과공유회’를 열고 스타트업 10곳과 진행한 기술검증(PoC) 결과를 공유했다고 밝혔다.이번 기술검증에는 스마트건설과 AI, 로봇, 친환경 분야 기술이 포함됐다",
+    "published_at": "2026-11-11T10:45:00+09:00",
+    "cluster_id": "e7a8",
+    "publisher": "한국건설신문",
+    "title_clean": "건설현장 AI·로봇 적용 검증…스타트업 10곳과 PoC",
+    "summary": "롯데건설이 스타트업 10곳과 함께 스마트건설, AI, 로봇, 친환경 기술을 건설현장에 적용하는 기술검증(PoC)을 완료했다. 바닥충격음 저감, 장비 통합관리, 자재운반 로봇, AI 기반 작업 기록 등 다양한 혁신기술을 검토했으며 후속 사업화 방안을 논의했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-11T18:50:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32218,21 +32234,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-08T06:07:38+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "기후보험 공감한다지만…예산 놓고 설왕설래[기후로운 경제생활] - nocutnews.co.kr",
-    "link": "https://www.nocutnews.co.kr/news/6603520?utm_source=naver&utm_medium=article&utm_campaign=20261108050019",
-    "description": "건설노동자 입장에서는 줄어드는 임금이 걱정일 텐데 이걸 국가가 일부 보조해 주겠다는 취지입니다. ◆ 홍종호> 일용직 건설노동자가 민간보험사의 상품을 가입하는 게 쉽지 않으니까 여건이 안 좋잖아요. 아무래도...",
-    "published_at": "2026-11-08T05:01:00+09:00",
-    "cluster_id": "19ce",
-    "publisher": "nocutnews.co.kr",
-    "title_clean": "기후보험 공감한다지만…예산 놓고 설왕설래[기후로운 경제생활]",
-    "summary": "정부가 기후변화로 인한 건설노동자의 임금 감소를 보완하기 위해 기후보험 도입을 추진 중이다. 민간보험 가입이 어려운 일용직 노동자를 지원하는 취지이나, 예산 편성을 놓고 논의가 진행 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-08T05:07:32+09:00",
-    "importance": 2
   }
 ]
