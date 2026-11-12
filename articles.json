@@ -4658,6 +4658,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "조선업 693억 달러 수주... 거제 '외국인 렌트' 시장 기지개 - getnews.co.kr",
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887035",
+    "description": "업계에 따르면, 지난 6월 기준 거제 양대 조선사의 수주잔고는 삼성중공업 355억 달러, 한화오션 337억 7000만 달러 등 총 692억 7000만 달러에 달한다. 선박 건조는 수주 이후 인도까지 수년이 소요되는 장기 프로젝트로, 공정...",
+    "published_at": "2026-11-13T08:28:00+09:00",
+    "cluster_id": "b7ef",
+    "publisher": "getnews.co.kr",
+    "title_clean": "조선업 693억 달러 수주... 거제 '외국인 렌트' 시장 기지개",
+    "summary": "거제 양대 조선사(삼성중공업, 한화오션)의 수주잔고가 총 692억 7000만 달러에 달하며, 이에 따른 장기 건조 프로젝트로 외국인 렌트 시장 등 관련 산업이 활성화될 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-13T08:45:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20640,22 +20656,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-08T10:48:05+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "정동만 의원 \"가덕도신공항 공사비 국회에 떠넘기는 건 정부의 무책임\" - sidae.com",
-    "link": "https://www.sidae.com/article/2026110808003737486",
-    "description": "그리고 적기 개항을 위해 예비계약체결 전이지만 국토부가 실시설계 착수요청 공문을 수의계약 상대방인 주간사 대우건설에 발송했다고 밝혔다. 그러나 특별법 개정은 정부가 해결할 수 있는 문제를 국회에 미루는 것이고...",
-    "published_at": "2026-11-08T09:44:00+09:00",
-    "cluster_id": "2c38",
-    "publisher": "sidae.com",
-    "title_clean": "정동만 의원 \"가덕도신공항 공사비 국회에 떠넘기는 건 정부의 무책임\"",
-    "summary": "정동만 의원이 가덕도신공항 공사비 관련 특별법 개정을 정부가 국회에 미루는 것은 무책임하다고 비판했습니다. 국토부는 예비계약 전 실시설계 착수를 대우건설에 요청한 상태입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-08T09:47:47+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설수주",
