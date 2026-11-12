@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "뉴욕 브루클린 건물 붕괴…어린이 2명 포함 8명 사망 - ajunews.com",
+    "link": "https://www.ajunews.com/view/20261113074902877",
+    "description": "이번 사고는 인접한 빈 부지에서 건설 노동자들이 굴착 작업을 진행하던 중 발생했다. 릴리언 본시뇨레 뉴욕시 소방국장은 \"아직 생존자 구조에서 시신 수습 단계로 전환하지 않았다\"며 대형 잔해를 제거하고 그...",
+    "published_at": "2026-11-13T07:54:00+09:00",
+    "cluster_id": "76b1",
+    "publisher": "ajunews.com",
+    "title_clean": "뉴욕 브루클린 건물 붕괴…어린이 2명 포함 8명 사망",
+    "summary": "뉴욕 브루클린에서 건설 현장 굴착 작업 중 건물 붕괴로 어린이 포함 8명이 사망했다. 대형 건설 사고로 인해 건설업계의 안전 규제 강화와 현장 관리 기준 재점검이 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T08:06:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-09T19:30:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대전 수출 '뚝' 충남 '쑥'…충청권 경기 온도차 뚜렷 - cctoday.co.kr",
-    "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2239898",
-    "description": "세종 생산·해외판매 동반 증가…홀로 고른 개선세 충남 174.4% 급증에도 제조업 부진·건설경기 침체 [충청투데이 ] 대전·세종·충남 지역 실물경제가 9월 들어 지역별로 뚜렷하게 엇갈린 흐름을 보였다.대전은...",
-    "published_at": "2026-11-09T19:00:00+09:00",
-    "cluster_id": "1e6c",
-    "publisher": "cctoday.co.kr",
-    "title_clean": "대전 수출 '뚝' 충남 '쑥'…충청권 경기 온도차 뚜렷",
-    "summary": "충청권에서 지역별 경기 온도차가 뚜렷하게 나타났으며, 세종은 생산과 수출이 동반 증가하고 충남도 174.4% 급증했으나 대전은 수출이 감소했다. 제조업 부진과 건설경기 침체가 지속되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T19:11:25+09:00",
-    "importance": 5
   }
 ]
