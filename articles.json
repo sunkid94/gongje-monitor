@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설근로자 임금체불 제로 정책토론회…지급체계 혁신 논의 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3750590",
+    "description": "지난해 건설업에서 발생한 임금체불액은 4166억 원에 달해 전체 산업의 20.1%를 차지했으며, 건설노동자 10명 중 3명(29.5%)이 최근 1년 내 임금 지급 지연을 경험한 것으로 나타났다. 이러한 실태는 12일 서울 여의도 국회...",
+    "published_at": "2026-11-12T22:02:00+09:00",
+    "cluster_id": "458a",
+    "publisher": "gukjenews.com",
+    "title_clean": "건설근로자 임금체불 제로 정책토론회…지급체계 혁신 논의",
+    "summary": "건설업 임금체불액이 4166억 원으로 전체 산업의 20.1%를 차지하며, 건설노동자 29.5%가 최근 1년 내 임금 지급 지연을 경험한 것으로 조사됐다. 정부가 지급체계 혁신을 논의하는 정책토론회를 개최해 임금체불 문제 해결을 추진 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T22:16:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "publisher": "insightkorea.co.kr",
     "title_clean": "현산·GS·SK·대우, 처벌 실효성 논란...영업정지 받아도 공사 계속?",
     "summary": "건설산업기본법상 영업정지 처분을 받아도 기존 계약 공사는 계속 시공 가능하여 처벌 실효성이 낮다는 지적이 제기되고 있다. 현산·GS·SK·대우 등 대형 건설사들이 영업정지 중에도 사업을 지속할 수 있는 법적 허점이 문제로 지적된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T17:31:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국농어촌공사 경남·경북지역본부, 영남권 건설현장 안전관리 강화 - newsgn.com",
-    "link": "https://www.newsgn.com/news/articleView.html?idxno=584449",
-    "description": "협약에 따라 이들 기관은 ▲고위험·취약 건설현장 안전점검 ▲건설현장 안전관리 전문가 기술자문 및 컨설팅 ▲공사감독·현장대리인 VR활용 안전교육 ▲KALIS형 스마트 안전장비 기술지원 및 운영체계 확산 ▲안전캠페인...",
-    "published_at": "2026-11-09T17:24:00+09:00",
-    "cluster_id": "a74d",
-    "publisher": "newsgn.com",
-    "title_clean": "한국농어촌공사 경남·경북지역본부, 영남권 건설현장 안전관리 강화",
-    "summary": "한국농어촌공사 경남·경북지역본부가 관련 기관과 협약을 통해 영남권 건설현장의 안전점검, 전문가 컨설팅, VR 교육, 스마트 안전장비 확산 등 안전관리를 강화하고 있다. 이는 건설현장 사고 예방과 안전 인프라 개선을 목표로 한다.",
     "sentiment": "negative",
     "collected_at": "2026-11-09T17:31:35+09:00",
     "importance": 4
