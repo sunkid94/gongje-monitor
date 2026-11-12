@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "뉴욕 브루클린 건물 붕괴 사망자 8명으로 늘어…어린이 2명 포함 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261113006700072?input=1195m",
+    "description": "사고는 인접한 빈 부지에서 건설 노동자들이 굴착 작업을 진행하던 중 발생했다. 정확한 붕괴 원인은 아직 조사 중이다. 현장에는 폭우가 쏟아지고 있지만 구조 당국은 추가 생존자가 있을 가능성을 열어두고 이틀째...",
+    "published_at": "2026-11-13T04:37:00+09:00",
+    "cluster_id": "157c",
+    "publisher": "yna.co.kr",
+    "title_clean": "뉴욕 브루클린 건물 붕괴 사망자 8명으로 늘어…어린이 2명 포함",
+    "summary": "뉴욕 브루클린에서 건설 굴착 작업 중 건물 붕괴로 사망자 8명(어린이 2명 포함)이 발생했다. 인접 빈 부지에서의 굴착 작업이 원인으로 추정되며, 정확한 붕괴 원인은 조사 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T04:55:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32254,22 +32270,6 @@
     "summary": "대한전문건설협회 세종시·충남도회가 이응우 계룡시장과 간담회를 개최하여 전문건설업계의 현안사항을 건의했다. 지역건설경기 활성화를 위한 방안을 모색하는 소통의 자리였다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-09T17:55:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_재건축] 삼방동성 재건축, 최근 시공자 입찰공고 '진입' - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=96187",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」에 따른 토목공사업과 건축공사업 면허를 겸유하거나 토목건축공사업 면허를 보유한 업체 「건설산업기본법」에 따른...",
-    "published_at": "2026-11-09T17:30:00+09:00",
-    "cluster_id": "be1a",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_재건축] 삼방동성 재건축, 최근 시공자 입찰공고 '진입'",
-    "summary": "삼방동성 재건축 사업이 시공자 입찰공고 단계에 진입했으며, 일반경쟁입찰 방식으로 진행된다. 토목공사업과 건축공사업 면허를 겸유하거나 토목건축공사업 면허를 보유한 업체가 참여 가능하다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T17:40:56+09:00",
     "importance": 2
   }
 ]
