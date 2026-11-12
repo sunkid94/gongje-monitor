@@ -19995,6 +19995,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "수천만 원대 공사비 다 줬는데 무면허 업체…계약 무효·대금 반환 가능... - lawtalknews.co.kr",
+    "link": "https://lawtalknews.co.kr/article/LKNAT1U05AD7",
+    "description": "건설산업기본법상 금액이 적은 경미한 공사는 면허 없이도 시공할 수 있지만, 전문공사의 경우 1,500만 원 미만이어야 한다. 복합 공종이 포함된 인테리어 공사는 세부 항목별 금액이 아닌 총계약금액을 기준으로 등록...",
+    "published_at": "2026-11-12T08:54:00+09:00",
+    "cluster_id": "2b48",
+    "publisher": "lawtalknews.co.kr",
+    "title_clean": "수천만 원대 공사비 다 줬는데 무면허 업체…계약 무효·대금 반환 가능...",
+    "summary": "무면허 건설업체와의 계약이 무효가 될 수 있다는 법적 판단이 제시되었다. 건설산업기본법상 전문공사는 1,500만 원 미만, 인테리어 공사는 총계약금액 기준으로 면허 요건을 적용하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T09:02:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32217,21 +32233,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-09T00:33:13+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 특수 'K-경제' 양극화는 더 짙어졌다 - kyongbuk.co.kr",
-    "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090064",
-    "description": "실제로 철강업은 △건설경기 침체 장기화로 인한 수요 둔화 △미국 철강관세 부담 지속 및 EU수입쿼터 축소 등 글로벌 무역장벽 강화 △탄소중립 전환 압박 및 비용 부담 압박 △저가 수입재 확대 등 3중 4중의 압박이...",
-    "published_at": "2026-11-09T00:10:00+09:00",
-    "cluster_id": "a737",
-    "publisher": "kyongbuk.co.kr",
-    "title_clean": "반도체 특수 'K-경제' 양극화는 더 짙어졌다",
-    "summary": "반도체 호황에도 불구하고 철강업은 건설경기 침체, 글로벌 무역장벽, 탄소중립 비용 등 다층적 압박으로 어려움을 겪고 있다. K-경제 내 산업 간 양극화가 심화되는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T00:13:06+09:00",
-    "importance": 4
   }
 ]
