@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "폐암·후두암 투병 끝 비보…'1200만 시청자' 사로잡은 유명 방송인, 69세... - tvreport.co.kr",
+    "link": "https://www.tvreport.co.kr/world/article/1090489/",
+    "description": "건설 노동자로 일하던 월시는 주변의 권유로 오디션을 본 뒤 방송에 발을 들였다. 1997년부터 2005년까지 앨런 티치마시, 찰리 디목과 함께 BBC2 '그라운드 포스'를 진행했다. 이 프로그램은 최고 시청자 수 1,200만 명을...",
+    "published_at": "2026-11-13T06:31:00+09:00",
+    "cluster_id": "0ba0",
+    "publisher": "tvreport.co.kr",
+    "title_clean": "폐암·후두암 투병 끝 비보…'1200만 시청자' 사로잡은 유명 방송인, 69세...",
+    "summary": "건설 노동자 출신의 영국 유명 방송인이 폐암과 후두암 투병 끝 별세했다. 1997년부터 2005년까지 BBC2 '그라운드 포스' 진행으로 최고 1,200만 명의 시청자를 확보한 인물이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-13T06:45:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-09T18:35:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "국립금오공과대, 바론컨설턴트와 AI 스마트 건설 인재 양성 협약 - 교수신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50ZWZkS1JJejNpU0ZtSDdjd3IyX3lMQTEwY2tsMXBQbTR2eE9KNE9LSmVfTGRsV3BuU3JLNkk0YmhPekVBRkstTi1QdWZ6UmpMZHJ5RHdLUUtrYng0QTdGdE54SFQtQnc?oc=5",
-    "description": "국립금오공과대가 11월 9일 ㈜바론컨설턴트와 스마트 건설·안전 분야 인재 양성·산학협력 활성화를 위한 업무협약을 맺었다. 이날 협약식은 본관 소회의실에서 열렸다.",
-    "published_at": "2026-11-09T18:03:07+09:00",
-    "cluster_id": "a4d6",
-    "publisher": "교수신문",
-    "title_clean": "국립금오공과대, 바론컨설턴트와 AI 스마트 건설 인재 양성 협약",
-    "summary": "국립금오공과대가 바론컨설턴트와 스마트 건설·안전 분야 인재 양성을 위한 산학협력 협약을 체결했다. 이는 건설업 미래 인력 양성 및 산업 고도화를 추진하는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T18:15:45+09:00",
-    "importance": 2
   }
 ]
