@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "뉴욕 건물 붕괴 사망 8명으로 늘어… 폭우속 이틀째 구조작업 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/20261113500063",
+    "description": "사고는 인접한 빈 부지에서 건설 노동자들이 굴착 작업을 진행하던 중 발생했다. 정확한 붕괴 원인은 아직 조사 중이다. 현장에는 폭우가 쏟아지고 있지만 구조 당국은 추가 생존자가 있을 가능성을 열어두고 이틀째 수색...",
+    "published_at": "2026-11-13T05:33:00+09:00",
+    "cluster_id": "095f",
+    "publisher": "kmib.co.kr",
+    "title_clean": "뉴욕 건물 붕괴 사망 8명으로 늘어… 폭우속 이틀째 구조작업",
+    "summary": "뉴욕에서 건설 굴착 작업 중 인접 건물이 붕괴되어 사망자 8명이 발생했다. 폭우 속에서 구조 작업이 계속되고 있으며, 정확한 붕괴 원인은 조사 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T05:45:26+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-09T18:06:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "저PBR 꼬리표 왜 달았나…발표 후 주가는 엇갈려 [저PBR주 어디로 ①] - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/article/2026110916230728254",
-    "description": "현대제철 역시 국내 건설경기 부진에 따라 봉형강 사업이 타격을 받은 점을 원인으로 설명했습니다.한화투자증권 분석에 따르면 저PBR 기업 151곳 가운데 57%인 86곳은 내년 5월에도 명단에 포함될 것으로 예상됩니다.12개...",
-    "published_at": "2026-11-09T17:52:00+09:00",
-    "cluster_id": "5101",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "저PBR 꼬리표 왜 달았나…발표 후 주가는 엇갈려 [저PBR주 어디로 ①]",
-    "summary": "현대제철 등 저PBR 기업들이 국내 건설경기 부진으로 타격을 받고 있으며, 저PBR 기업 151곳 중 57%가 내년 5월에도 저평가 상태가 지속될 것으로 예상된다. 건설·철강업계의 구조적 부진으로 인한 주가 약세가 계속될 가능성을 시사한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T18:00:56+09:00",
-    "importance": 4
   }
 ]
