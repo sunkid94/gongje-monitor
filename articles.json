@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국중부발전, 동절기 건설현장 안전점검 및 협력사 '실전 AI 교육 수료... - cstimes.com",
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=727756",
+    "description": "□ 기관장 주관 동절기 건설현장 특별 안전점검 실시 컨슈머타임스=안성렬 기자 | 한국중부발전이 겨울철 기온 하락으로 인한 근로자 건강 장해를 막고 건설현장 내 화재 위험요인을 선제적으로 제거하기 위해 지난 11일...",
+    "published_at": "2026-11-13T07:26:00+09:00",
+    "cluster_id": "3642",
+    "publisher": "cstimes.com",
+    "title_clean": "한국중부발전, 동절기 건설현장 안전점검 및 협력사 '실전 AI 교육 수료...",
+    "summary": "한국중부발전이 겨울철 건설현장 안전을 위해 기관장 주관으로 특별 안전점검을 실시하고 협력사 대상 AI 교육을 추진했다. 기온 하락에 따른 근로자 건강 피해 방지와 화재 위험요인 제거에 중점을 두고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-13T07:36:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "publisher": "하우징헤럴드",
     "title_clean": "신동아건설, 대전 자양2구역 재개발 수주",
     "summary": "신동아건설이 대전 자양2구역 재개발사업 시공권을 수주하며 올해 신규 수주액 1조원을 돌파했다. 이는 건설업계의 수주 증가를 나타내는 긍정적 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T18:51:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[인사이드 스토리]건설 3대장, 호주로 향하는 이유 - 비즈워치",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9maWFQdzdmcGlHSGU2U3hWelp6MTc4RG56NUh1X3lwb0lkY3U2bzkwYU92NDZjNU9VN2VycGNqbTFUU3duVDJ6MDBXVmNJWnA1ZlZhbnpUaFpHM1gxNkN1NllidFZxTWJyclVQMHRuZ1M?oc=5",
-    "description": "건설사의 해외건설 수주 거점이 다변화하고 있습니다. 그간 수주 텃밭으로 불린 중동에서의 전통적인 플랜트 외에도 북미&middot;태평양(미국&middot;캐나다&middot;호주&middot;뉴질랜드 등)과 유럽 시...",
-    "published_at": "2026-11-09T06:36:02+09:00",
-    "cluster_id": "1e6a",
-    "publisher": "비즈워치",
-    "title_clean": "[인사이드 스토리]건설 3대장, 호주로 향하는 이유",
-    "summary": "건설사들이 중동 중심의 해외 수주처를 다변화하여 북미·태평양·유럽 지역으로 진출을 확대하고 있다. 호주를 포함한 새로운 시장 개척을 통해 수주 거점을 다원화하는 추세를 보이고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-09T18:51:04+09:00",
     "importance": 2
