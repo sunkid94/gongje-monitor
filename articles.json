@@ -4165,6 +4165,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, 2974억원 고창 해상풍력 사업 수주…이달 착공 - delighti.co.kr",
+    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=124825",
+    "description": "(사진=포스코이앤씨) 포스코이앤씨가 전북 고창 앞바다에 76.2㎿ 규모 해상풍력발전단지를 조성한다. 이달 착공해 2029년 8월 준공을 목표로 사업을 추진한다. 포스코이앤씨는 전북 고창군 앞바다에 조성되는 '고창...",
+    "published_at": "2026-11-12T12:44:00+09:00",
+    "cluster_id": "251b",
+    "publisher": "delighti.co.kr",
+    "title_clean": "포스코이앤씨, 2974억원 고창 해상풍력 사업 수주…이달 착공",
+    "summary": "포스코이앤씨가 전북 고창 앞바다에 76.2㎿ 규모 해상풍력발전단지 건설을 수주했으며, 수주액은 2974억원이다. 이달 착공해 2029년 8월 준공을 목표로 대규모 해상풍력 프로젝트를 추진한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T12:54:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20149,20 +20165,20 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "IPARK현대산업개발, 겨울철 앞두고 김해 현장 안전점검 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tVGEwQnlmLTNDM3oyZUZKQlMySXF5cG51eS1TXzctVWdIRGc4N2hKOVpITFluX21mZGFlTGYzMjd4X05lVU1jYnFTaFJyVG90N2V2V1RIX1VmUVljU3dIWA?oc=5",
-    "description": "[서울=뉴시스]이종성 기자 = IPARK현대산업개발이 본격적인 겨울철을 앞두고 김해지역 주요 현장을 찾아 안전·품질 점검에 나섰다.IPARK현산은 지난 5일 정경구 대표이사를 비롯한 경영진이 김해도시계획시설 토목공사 현장과 김해 신문 센트럴 아이파크 현장을 순차적으로 점검했다고 6일 밝혔다.이번 점검은 일교차가 커진 시기에 근로자 보건관리와 공정별 주요 작..",
-    "published_at": "2026-11-06T10:30:28+09:00",
-    "cluster_id": "0734",
-    "publisher": "뉴시스",
-    "title_clean": "IPARK현대산업개발, 겨울철 앞두고 김해 현장 안전점검",
-    "summary": "IPARK현대산업개발이 겨울철을 앞두고 김해지역 건설 현장에서 안전·품질 점검을 실시했다. 경영진이 직접 현장을 방문하여 근로자 보건관리와 공정별 주요 사항을 점검하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-06T10:45:30+09:00",
-    "importance": 2
+    "title": "\"병원행 단식농성에도, 매정한 고양시장\"...스프링힐스측, \"법대로 해달라\" 억울함 호소 - 건설이코노미뉴스",
+    "link": "https://www.cenews.kr/news/articleView.html?idxno=50682",
+    "description": "[건설이코노미뉴스] 경기 고양시 산황동 스프링힐스CC 18홀 증설사업의 사업기간 연장을 촉구하며 무기한 릴레이 천막 단식농성을 벌이고 있어 지역사회가 술렁이고 있다.지난 5일부터 고양시청 정문앞에서 천막을 설치하고 단식에 들어간 스프링힐스 김명두 회장이 5일만에 건강 악화로 병원에 이송되자, 김창식 대표가 뒤를 이어 무기한 단식에 돌입했다.김 회장은 70대 고령으로, 과거 간절제 수술을 두 차례 받은 이력이 있어 단식에 따른 건강 후유증이 우려되고 있다. 단식농성 바통을 이어받아 3일째 단식에 돌입한 김창식 대표 역시 올해 70대로",
+    "published_at": "2026-11-12T12:52:56+09:00",
+    "cluster_id": "190c",
+    "publisher": "건설이코노미뉴스",
+    "title_clean": "\"병원행 단식농성에도, 매정한 고양시장\"...스프링힐스측, \"법대로 해달라\" 억울함 호소",
+    "summary": "경기 고양시 스프링힐스CC 18홀 증설사업의 기간 연장 승인 지연으로 사업자가 단식농성을 벌이고 있다. 사업자는 15년간 행정절차를 밟아왔으며 고양시의 4차 보완 요구사항을 모두 충족했음에도 7개월 이상 최종 결정이 지연되고 있다고 주장한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T12:54:59+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32227,21 +32243,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-09T09:57:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "최정은·서울의회, 지반침하 사고 시설 안전 점검자료 없어 지하수위 이상징후 후속 관리·신기술 계측기 검증 촉구 - 오토투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kaWhmbGxfcEM3OVpLbVpkVHFEc0ZxQ1JKclAwcU9TNVpZTXIyVFg1UFA5RWFQOElRcjhSbExja2NUaUlzcDZMR3FfdXVOVHhpZm1rdjYtVUhzZ3U0LUR2bDhRcldFZmJwRVVyT2poSQ?oc=5",
-    "description": "지난 3일 열린 제340회 정례회 재난안전실 행정사무감사에서 지반침하 사고 주변시설에 대한 안전점검 관리 실태를 지적한 서울특별시의회 도시안전건설위원회 최정은 의",
-    "published_at": "2026-11-09T00:07:57+09:00",
-    "cluster_id": "3104",
-    "publisher": "오토투데이",
-    "title_clean": "최정은·서울의회, 지반침하 사고 시설 안전 점검자료 없어 지하수위 이상징후 후속 관리·신기술 계측기 검증 촉구",
-    "summary": "서울시의회가 지반침하 사고 관련 시설의 안전점검 자료 부재를 지적하며 지하수위 이상징후에 대한 후속 관리와 신기술 계측기 검증을 촉구했습니다. 건설 현장의 안전관리 체계 미비와 규제 강화 필요성이 대두되고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T09:57:57+09:00",
-    "importance": 4
   }
 ]
