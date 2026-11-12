@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "3Q 영업익 44.2%↑…조완석 '선택과 집중', 금호건설 체질 바꿨다 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3053100",
+    "description": "건설경기 침체와 공사비 부담이 이어지는 가운데에서도 조완석 대표이사가 '선택과 집중' 전략으로 금호건설(002990)의 이익 체급을 높이고 있다. 채산성을 고려한 선별 수주와 공사 단계별 원가관리를 강화하면서...",
+    "published_at": "2026-11-12T23:54:00+09:00",
+    "cluster_id": "8fda",
+    "publisher": "apnews.kr",
+    "title_clean": "3Q 영업익 44.2%↑…조완석 '선택과 집중', 금호건설 체질 바꿨다",
+    "summary": "조완석 대표의 '선택과 집중' 전략으로 금호건설이 3분기 영업익 44.2% 증가를 달성했다. 채산성 중심의 선별 수주와 원가관리 강화를 통해 건설경기 침체 속에서도 수익성 개선을 이루어냈다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-13T00:12:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-09T17:40:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "현산·GS·SK·대우, 처벌 실효성 논란...영업정지 받아도 공사 계속? - insightkorea.co.kr",
-    "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258467",
-    "description": "건설산업기본법에 따르면 영업정지 기간에도 처분 전에 계약한 공사 등은 계속 시공할 수 있지만, 신규 도급계약 체결과 입찰 참가 등 새로운 영업활동은 제한된다. 새로운 일감을 확보하지 못하면 향후 사업 운영에도...",
-    "published_at": "2026-11-09T17:18:00+09:00",
-    "cluster_id": "a0ba",
-    "publisher": "insightkorea.co.kr",
-    "title_clean": "현산·GS·SK·대우, 처벌 실효성 논란...영업정지 받아도 공사 계속?",
-    "summary": "건설산업기본법상 영업정지 처분을 받아도 기존 계약 공사는 계속 시공 가능하여 처벌 실효성이 낮다는 지적이 제기되고 있다. 현산·GS·SK·대우 등 대형 건설사들이 영업정지 중에도 사업을 지속할 수 있는 법적 허점이 문제로 지적된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T17:31:35+09:00",
-    "importance": 4
   }
 ]
