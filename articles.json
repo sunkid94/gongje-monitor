@@ -20641,6 +20641,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "전남광주 제조업·수출 회복세..소비·건설 부진 - kjmbc.co.kr",
+    "link": "https://kjmbc.co.kr/NewsArticle/1545541",
+    "description": "전남광주지역의 제조업 생산과 수출은 증가했지만 소비와 건설경기는 부진한 흐름을 보이고 있습니다. 한국은행 광주전남본부가 발표한 '최근 실물경제 동향'에 따르면 전남광주의 9월 제조업 생산은 전년 동월...",
+    "published_at": "2026-11-13T07:45:00+09:00",
+    "cluster_id": "3288",
+    "publisher": "kjmbc.co.kr",
+    "title_clean": "전남광주 제조업·수출 회복세..소비·건설 부진",
+    "summary": "전남광주지역의 제조업 생산과 수출은 회복세를 보이고 있으나, 소비와 건설경기는 부진한 상태입니다. 건설업계에는 경기 부진이 악재로 작용하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T07:55:38+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[잇슈 SNS] 뉴욕 브루클린 3층 건물 붕괴…20여 명 사상 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711790&ref=A",
+    "description": "해당 건물은 지어진 지 80년이 넘는 건물로 인근 부지에서 건설 노동자들이 굴착 작업을 진행하던 중 사고가 발생했다고 합니다. 뉴욕시에 따르면 이번 사고로 지금까지 어린이 2명을 포함해 최소 8명이 사망했고 부상자는...",
+    "published_at": "2026-11-13T07:32:00+09:00",
+    "cluster_id": "7406",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "[잇슈 SNS] 뉴욕 브루클린 3층 건물 붕괴…20여 명 사상",
+    "summary": "뉴욕 브루클린의 80년 된 노후 건물이 인근 건설 굴착 작업 중 붕괴하여 사망 8명, 부상자 다수 발생. 안전 관리 부실과 노후 건축물 관리 문제로 인한 중대 건설 사고.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T07:55:38+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32239,37 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-09T19:11:25+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[경기도의회 행감] 유재수 의원 \"건설기계 주기장 태부족 대책 마련해야\" - 열린뉴스통신",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwbWc0YnZ4NkJUaW1BRE93cVl2dW5JWG9kVjRXeE9ocVgxWDR1RzFBMGxsTlNLbXhZVUhXOFZ1YUxLUlFmUUg1ajBDU0JqbTU2UGpDNDBSdFF4QU9PWEd0X2kycFJCdw?oc=5",
-    "description": "(수원=열린뉴스통신) 정양수 기자 = 경기도의회 유재수 의원(민·안산4)은 9일 건설교통위원회 회의실에서 개최된 경기도 건설국과 경기도 건설본부에 대한 2026년 행정사무감사에서 도 내 건설기계 총 등록대수가 10만6656대, 전국 물량의 40% 가까이가 도에 집중돼 있음에도 주기장이 턱없이 부족하다며 대책마련을 촉구했다.유재수 의원은 \"건설기계 공영주기장은 설치된 지역은 도 내 31개 시·군 중 안산시 등 단 2곳에 불과하다\"면서 \"과천시의 경우 등록 대수는 존재하나 자가·임대·타시군 부지 확보 실적이 모두 0으로 확인되는 등 대",
-    "published_at": "2026-11-09T18:46:21+09:00",
-    "cluster_id": "a161",
-    "publisher": "열린뉴스통신",
-    "title_clean": "[경기도의회 행감] 유재수 의원 \"건설기계 주기장 태부족 대책 마련해야\"",
-    "summary": "경기도의회 유재수 의원이 2026년 행감에서 도내 건설기계 등록대수(10만6656대, 전국 40%)에 비해 공영주기장이 심각하게 부족하다고 지적하며 대책 마련을 촉구했다. 31개 시·군 중 2곳에만 공영주기장이 설치되어 있고, 과천시는 자가·임대 부지 확보 실적이 0인 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T19:01:59+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "신동아건설, 대전 자양2구역 재개발 수주 - 하우징헤럴드",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nUHJjbERhME9mdE5zWDN2dmlGY1BBM2Z4enV1RG5WVzd2bG1ZbEJGY0k2Q1MwRnQ2UTVBOW5kcWZlYmtBUDRDR25JeGMwMTVyWGdZZlN4dFRhaUFHX0lVdHlkTHZ3dmNaUVoxak0wbGtMZDA?oc=5",
-    "description": "[하우징헤럴드=김병조 기자] 신동아건설이 대전 자양2구역 재개발사업 시공권을 확보하며 올해 신규 수주액 1조원을 돌파했다.신동아건설은 최근 열린 자양2구역 시공자",
-    "published_at": "2026-11-09T18:24:10+09:00",
-    "cluster_id": "65f5",
-    "publisher": "하우징헤럴드",
-    "title_clean": "신동아건설, 대전 자양2구역 재개발 수주",
-    "summary": "신동아건설이 대전 자양2구역 재개발사업 시공권을 수주하며 올해 신규 수주액 1조원을 돌파했다. 이는 건설업계의 수주 증가를 나타내는 긍정적 신호이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T18:51:04+09:00",
-    "importance": 2
   }
 ]
