@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, 美 한인은행 '뱅크오브호프'와 맞손…국내 건설사 현지 ... - widedaily.com",
+    "link": "https://www.widedaily.com/news/articleView.html?idxno=303528",
+    "description": "건설공제조합이 미국 건설 시장에 도전하는 국내 기업들의 금융 문턱을 낮추기 위해 현지 금융기관과 협력 체계를 구축했다. 현지 공사 수주 과정에서 필수적인 보증 발급 절차를 원활하게 지원해 우리 건설사들의 현지...",
+    "published_at": "2026-11-12T13:52:00+09:00",
+    "cluster_id": "b4a9",
+    "publisher": "widedaily.com",
+    "title_clean": "건설공제조합, 美 한인은행 '뱅크오브호프'와 맞손…국내 건설사 현지 ...",
+    "summary": "건설공제조합이 미국 한인은행 뱅크오브호프와 업무협약을 체결하고 '복보증' 방식 등을 통해 국내 건설사의 미국 진출 시 보증 발급 절차를 지원하기로 합의했다. 이를 통해 미국 건설시장 진출의 금융 장벽을 낮출 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T14:05:42+09:00",
+    "event_label": "건설공제조합, 뱅크오브호프와 해외건설보증 업무협약 체결",
+    "importance": 5
+  },
+  {
     "keyword": "기계설비건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -4265,6 +4282,38 @@
     "collected_at": "2026-10-13T14:40:10+09:00",
     "event_label": "엔지니어링공제조합 철도차량 납품 지연 분쟁으로 인한 보증금 미지급 사태",
     "importance": 7
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'롯데캐슬 드메르', 콘크리트학회 작품상 수상… 초고층 시공 기술력 인... - cnbizm.com",
+    "link": "https://www.cnbizm.com/news/articleView.html?idxno=321235",
+    "description": "문화경제 CNB저널 | CNB저널 | 씨앤비저널 롯데건설이 부산 북항에 건설한 초고층 복합단지 '롯데캐슬 드메르'로 한국콘크리트학회 작품상을 받았다. 지상 170m 높이에서 두 개 타워를 연결하는 스카이브릿지를 고난도...",
+    "published_at": "2026-11-12T13:52:00+09:00",
+    "cluster_id": "4e14",
+    "publisher": "cnbizm.com",
+    "title_clean": "'롯데캐슬 드메르', 콘크리트학회 작품상 수상… 초고층 시공 기술력 인...",
+    "summary": "롯데건설이 부산 북항에 건설한 초고층 복합단지 '롯데캐슬 드메르'가 한국콘크리트학회 작품상을 수상했다. 지상 170m 높이의 스카이브릿지 등 고난도 시공 기술력을 인정받아 건설업계의 기술 경쟁력을 입증했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T14:05:42+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨, 2974억 규모 고창 해상풍력 착공…2029년 상업발전 닻 올... - widedaily.com",
+    "link": "https://www.widedaily.com/news/articleView.html?idxno=303529",
+    "description": "포스코이앤씨가 전북 고창 앞바다에 76.2㎿ 규모의 대형 해상풍력발전단지를 조성하며 서남권 재생에너지 인프라 구축에 본격적으로 나선다. 회사는 이번 사업을 통해 향후 반도체와 데이터센터 등 첨단산업 시설이...",
+    "published_at": "2026-11-12T13:52:00+09:00",
+    "cluster_id": "396e",
+    "publisher": "widedaily.com",
+    "title_clean": "포스코이앤씨, 2974억 규모 고창 해상풍력 착공…2029년 상업발전 닻 올...",
+    "summary": "포스코이앤씨가 전북 고창 앞바다에 76.2㎿ 규모의 해상풍력발전단지 사업을 2974억원 규모로 착공하여 2029년 상업발전을 목표로 진행 중이다. 이는 건설사의 재생에너지 인프라 구축 사업 수주를 의미하며 건설업계에 긍정적인 신규 프로젝트 수주로 작용한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-12T14:05:42+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -20235,38 +20284,6 @@
     "importance": 3
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 동절기 대비 경영진 현장점검 실시...김해 현장 찾아 - 팝콘뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByU3JRUXhsdmdBQ1VrSmdlLVcyNXFmaWpOMmtKdy1kTE9SYm9VYUNXYUdOQkdRVGE1S2psSzFreXpBbnBTVDBmOWtTdTRZTHFPV1RucVlSOVhXR3ZrWjk1MVBhY1VtZmIwOHVmczNGWdIBckFVX3lxTE5kUzdhRW5rdkdxdU91akdNbHpqeDFnTm9jd2lNNGxHNzRwSFY1dTJBbXZiZDE4NU5vRUxqZEpSNXFFblJtU3ViMkc0eDVLSF9fMU8weVkyVjM5bVM5RGpxcExnXzJacHQxaVVhTFVmUkRPUQ?oc=5",
-    "description": "(팝콘뉴스=김은교 기자) IPARK현대산업개발이 지난 5일 동절기 대비 경영진 안전점검을 진행했다고 밝혔다.이번 점검은 통상 12월부터 시행되는 동절기 점검 및 고용노동부 등 관계기관 지도점검에 앞서 현장안전 상태를 파악하기 위해 추진됐다.‘김해도시계획시설’ 토목공사 현장과 ‘김해 신문 센트럴아이파크’ 현장 순으로 방문 진행한 경영진 현장점검에는 정경구 IPARK현대산업개발 대표이사·양승철 최고안전책임자(CSO)·조흥봉 인프라본부장·이상영 PD·한동준 안전품질부문장 등이 참석했다.먼저 준공을 앞둔 김해도시계획시설 현장에서는 ▲토공",
-    "published_at": "2026-11-06T11:16:06+09:00",
-    "cluster_id": "fea0",
-    "publisher": "팝콘뉴스",
-    "title_clean": "IPARK현대산업개발, 동절기 대비 경영진 현장점검 실시...김해 현장 찾아",
-    "summary": "IPARK현대산업개발이 동절기 대비 경영진 현장점검을 실시하여 김해 지역의 토목공사 및 아파트 건설 현장의 안전 상태를 점검했다. 고용노동부 등 관계기관의 지도점검에 앞서 현장 안전관리 태세를 사전에 강화하는 조치이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-06T11:30:53+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[민주 부동산] IPARK현대산업개발·호반그룹·GS건설 - 민주신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85RHRwZUhyTHg5X0VTN1FmcmhURHZtSTB6SDdERmJYQWxHQ0tjRWtxanNteWVJcEQ3RWd0MTBHVTFtSUhmdjIwaTNnSnA1aFZuQkZaQ2taZmh2bW5sbmw1T3BTLXFGYjjSAWtBVV95cUxQMTNXbFgwamp0MEhFU2wzRmxyRUNNVkxuT0Raa1RyV05FTXpYZno1NmtnSHhCekpNVURxaDlOeXV3bjhuWUxPM0cyczlpMk16VUpWMkItQ2VKWUM0YzduLWxDX1FONlpzUlZUOA?oc=5",
-    "description": "민주신문=김혜인 기자｜IPARK현대산업개발은 본격적인 겨울철을 앞두고 김해 지역 건설현장 2곳에서 안전과 품질 확보를 위한 경영진 현장점검을 진행했다. 이번 점검은 일교차에 따른 근로자 보건 관리와 공정별 작업 현황을 확인하고 동절기 안전사고를 예방하기 위해 마련됐다.5일 진행된 점검",
-    "published_at": "2026-11-06T11:06:54+09:00",
-    "cluster_id": "7c5a",
-    "publisher": "민주신문",
-    "title_clean": "[민주 부동산] IPARK현대산업개발·호반그룹·GS건설",
-    "summary": "IPARK현대산업개발이 김해 지역 건설현장에서 경영진 현장점검을 실시하여 동절기 안전사고 예방 및 근로자 보건 관리에 집중하고 있다. 일교차 대비 근로자 건강 관리와 공정별 작업 현황을 확인하는 안전 중심의 경영 활동을 전개 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-06T11:30:53+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32233,21 +32250,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-09T10:38:17+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "가덕도신공항 건설 다시 속도…내년 상반기 본공사 착공 - 더팩트",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YbUw3Qko5WWlwcm83TmtRREpsYlNaZ0JSdm14Rk9jZW9WeThvUGI0MTAxaFhFRVhUUGFEZ2xrcWhpWmpkdjM4eUEwcmNVZlpCY3hzampWQTRoQdIBVEFVX3lxTE1hM3U1UHg5VzRPR1JsekkySWJLRWMtQV94NUxqeUpCanVJZnFxcVc1ODhVeHdYSW1VdEpMVV9NRV9yMW1DR2QzMzctX3pZYlVqLXJrRA?oc=5",
-    "description": "부지조성공사 실시설계 착수 연내 우선시공분 계약 국토교통부가 가덕도신공항 부지조성공사 실시설계에 착수한다. 중동전쟁에 따른 공사비 상승 문제로 후속 절차가 일시 중단됐…",
-    "published_at": "2026-11-09T10:14:20+09:00",
-    "cluster_id": "930d",
-    "publisher": "더팩트",
-    "title_clean": "가덕도신공항 건설 다시 속도…내년 상반기 본공사 착공",
-    "summary": "국토교통부가 가덕도신공항 부지조성공사 실시설계를 착수하고 내년 상반기 본공사 계약을 진행한다. 중동전쟁으로 인한 공사비 상승 문제를 극복하고 대규모 건설 프로젝트가 본격화될 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T10:38:17+09:00",
-    "importance": 2
   }
 ]
