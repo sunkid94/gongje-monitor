@@ -20624,6 +20624,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한국토지주택공사, 건설업 임금체불 4,166억 원…10명 중 3명 지급 지연 - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=721768",
+    "description": "(사진 제공/한국토지주택공사) 지난해 건설업에서 발생한 임금체불액이 4,166억 원에 달하고 건설노동자 10명 중 약 3명이 최근 1년 사이 임금 지급 지연을 경험한 것으로 나타났다. 건설현장에서 일한 날짜와 시간을...",
+    "published_at": "2026-11-12T20:40:00+09:00",
+    "cluster_id": "8551",
+    "publisher": "newstown.co.kr",
+    "title_clean": "한국토지주택공사, 건설업 임금체불 4,166억 원…10명 중 3명 지급 지연",
+    "summary": "지난해 건설업 임금체불액이 4,166억 원에 달하며, 건설노동자 10명 중 3명이 최근 1년 내 임금 지급 지연을 경험한 것으로 나타났다. 건설현장의 임금 체불 문제가 심각한 수준인 것으로 집계됐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T20:57:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32254,21 +32270,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-09T17:15:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "부산시, 내년도 예산 19조3513억 편성…해양수도·AI·관광 집중 투자 - pressian.com",
-    "link": "https://www.pressian.com/pages/articles/2026110917015219076?utm_source=naver&utm_medium=search",
-    "description": "전 시장은 \"고물가가 이어지면서 소상공인과 중소기업의 경영 부담이 커지고 지역 건설경기 역시 침체에서 벗어나지 못하고 있다\"며 \"이번 예산안에는 미래 성장동력에 대한 투자와 함께 민생경제에 활력을 불어넣고...",
-    "published_at": "2026-11-09T17:04:00+09:00",
-    "cluster_id": "7c3a",
-    "publisher": "pressian.com",
-    "title_clean": "부산시, 내년도 예산 19조3513억 편성…해양수도·AI·관광 집중 투자",
-    "summary": "부산시가 내년도 예산 19조3513억을 편성하며 해양수도, AI, 관광 등에 집중 투자할 계획이다. 고물가로 인한 소상공인과 중소기업의 경영 부담, 건설경기 침체 상황 속에서 민생경제 활성화와 미래 성장동력 투자를 동시에 추진하겠다는 기조다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-09T17:10:59+09:00",
-    "importance": 2
   }
 ]
