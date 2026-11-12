@@ -20624,6 +20624,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "'모래 3만1000㎥ 어디로 갔나'…부여~공주 LNG 배관공사, '6억대 자재비... - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=354553",
+    "description": "만약 부실시공이 확인된다면 '건설산업기본법'에 따른 영업정지나 과징금 등 행정제재가 검토될 수 있다. 공공계약 질서를 위반한 사실까지 인정되면 입찰참가자격 제한 문제도 제기될 수 있다. 공주시와 부여군은...",
+    "published_at": "2026-11-12T21:20:00+09:00",
+    "cluster_id": "13e4",
+    "publisher": "greened.kr",
+    "title_clean": "'모래 3만1000㎥ 어디로 갔나'…부여~공주 LNG 배관공사, '6억대 자재비...",
+    "summary": "부여~공주 LNG 배관공사에서 모래 3만1000㎥ 등 약 6억대 자재가 부실시공으로 문제가 제기되고 있다. 건설산업기본법에 따른 영업정지, 과징금 등 행정제재와 입찰참가자격 제한이 검토 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T21:47:01+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "LH, 건설근로자 임금체불 방지 추진…광명시흥·용인반도체에 2조원 추... - webeconomy.co.kr",
+    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2373187",
+    "description": "대한건설정책연구원에 따르면 2025년 건설업 임금체불액은 4166억원으로 전체 산업의 20.1%를 차지했으며, 건설노동자의 29.5%가 최근 1년간 임금 지급 지연을 경험했다. LH 현장의 체불 신고는 2020년 54건에서 2025년...",
+    "published_at": "2026-11-12T21:32:00+09:00",
+    "cluster_id": "32ad",
+    "publisher": "webeconomy.co.kr",
+    "title_clean": "LH, 건설근로자 임금체불 방지 추진…광명시흥·용인반도체에 2조원 추...",
+    "summary": "LH가 건설근로자 임금체불 방지를 위해 광명·시흥·용인 반도체 프로젝트에 2조원을 투입한다. 2025년 건설업 임금체불액이 4166억원으로 전체 산업의 20.1%를 차지하며, 건설노동자의 29.5%가 최근 1년간 임금 지급 지연을 경험했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T21:47:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32237,38 +32269,6 @@
     "summary": "송옥주 의원이 홍지선 국토교통부 장관을 만나 제5차 국가철도망 구축계획에 화성 서부권역의 신안산선 연장, 신분당선 연장, 경기남부동서횡단선 신설 등 5개 주요 철도사업의 반영을 촉구했다. 화성국제테마파크와 복합관광단지 조성 등을 통한 지역 개발 지원을 요청했다.",
     "sentiment": "positive",
     "collected_at": "2026-11-09T17:31:35+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김회근 시의원 \"도시철도 건설현장 안전점검 7807건…사고 예방 체계 논란\" - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MaC1FaEdjOTVxWk5wTlpxUjUxN2Zxd2xSVTlRUTk4RkVHNkV6Qlo2aXZaTDF6Z2xkTG5FeFgxUlNnQ0pjZkJWMUhfQVM0d253N1hRTUNrNXpUMDRY?oc=5",
-    "description": "[서울=뉴스핌] 정태선 기자 = 서울시 도시철도 건설현장에서 최근 5년간 안전점검 지적이 7,807건 나왔지만 공사장 사고는 90건 발생했다.서울시의회 교통위원회 김회근 의원(더불어민주당, 광진1)은 서울시 도시기반시설본부(이하 도기본)를 대상으로 한 행정사무감사에서",
-    "published_at": "2026-11-09T17:22:00+09:00",
-    "cluster_id": "41a1",
-    "publisher": "뉴스핌",
-    "title_clean": "김회근 시의원 \"도시철도 건설현장 안전점검 7807건…사고 예방 체계 논란\"",
-    "summary": "서울시 도시철도 건설현장에서 최근 5년간 7,807건의 안전점검 지적이 나왔으나 공사장 사고는 90건 발생해 안전점검 체계의 실효성에 대한 논란이 제기됐다. 김회근 시의원이 행정사무감사를 통해 안전관리 시스템의 문제점을 지적하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T17:31:35+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "에스와이스틸텍, 삼성물산서 94억 원 수주…데크플레이트 사업 경쟁력 ... - snmnews.com",
-    "link": "http://www.snmnews.com/news/articleView.html?idxno=577133",
-    "description": "에스와이스틸텍(대표 홍성균)이 삼성물산과 약 94억 원 규모의 데크플레이트 공급·시공 계약을 체결하며 건설경기 침체 속에서도 수주 성과를 이어가고 있다. 서울 도심 대형 재개발 사업에 참여하면서 주력인...",
-    "published_at": "2026-11-09T17:08:00+09:00",
-    "cluster_id": "548f",
-    "publisher": "snmnews.com",
-    "title_clean": "에스와이스틸텍, 삼성물산서 94억 원 수주…데크플레이트 사업 경쟁력 ...",
-    "summary": "에스와이스틸텍이 삼samsung물산으로부터 94억 원 규모의 데크플레이트 공급·시공 계약을 수주했다. 건설경기 침체 속에서도 서울 도심 대형 재개발 사업 참여로 수주 성과를 이어가고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T17:15:23+09:00",
     "importance": 2
   }
 ]
