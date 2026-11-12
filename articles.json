@@ -4624,6 +4624,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "김정관 산업장관 \"체코 원전 차질 없도록 정부 관리 강화\"…시공사 교체... - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026111220030497143",
+    "description": "이번 회의는 지난달 29일 한수원과 대우건설·두산에너빌리티 컨소시엄 간 두코바니 원전 시공계약 협상이 최종 결렬된 이후 가동된 산업통상부 장·차관 주재 비상관리체제의 일환이다. 지난 2일 차관 주재로 열린...",
+    "published_at": "2026-11-12T20:03:00+09:00",
+    "cluster_id": "fb9e",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "김정관 산업장관 \"체코 원전 차질 없도록 정부 관리 강화\"…시공사 교체...",
+    "summary": "체코 두코바니 원전 프로젝트에서 한수원과 대우건설·두산에너빌리티 컨소시엄 간 시공계약 협상이 결렬된 후 산업통상부가 비상관리체제를 가동했다. 정부가 프로젝트 차질 방지를 위해 관리를 강화하겠다고 밝혔다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-12T20:17:20+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20603,22 +20619,6 @@
     "publisher": "realty.chosun.com",
     "title_clean": "200억 펜디·800억 펜트하우스의 눈물…첫 삽도 못뜨고 공매행",
     "summary": "SNHC와 롯데건설이 시행·시공한 서초동 '서초 르니드' 오피스텔이 미분양으로 인해 공매 처분되었다. 156실 중 124실이 미분양되어 일괄 매각되는 상황으로, 건설업계의 PF 위기와 미분양 문제가 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-08T06:07:38+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'광화문 코앞' 달동네서 5300가구 재개발…18년째 이주도 못해, 왜? - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/11/06/2026110602393.html",
-    "description": "총사업비는 약 3조6000억원으로 시공은 GS건설과 롯데건설 컨소시엄이 맡을 예정이다. 2008년 정비구역으로 지정된 북아현3구역은 2011년 사업시행인가를 받으며 재개발에 속도를 내는 듯했다. 하지만 조합 내부 갈등과 행정...",
-    "published_at": "2026-11-08T06:02:00+09:00",
-    "cluster_id": "9f99",
-    "publisher": "realty.chosun.com",
-    "title_clean": "'광화문 코앞' 달동네서 5300가구 재개발…18년째 이주도 못해, 왜?",
-    "summary": "광화문 인근 북아현3구역 5300가구 재개발 사업이 2008년 지정 후 18년째 진행 중단 상태. 총사업비 3조6000억원 규모로 GS건설과 롯데건설 컨소시엄이 시공 예정이나 조합 내부 갈등과 행정 문제로 진전 부진.",
     "sentiment": "negative",
     "collected_at": "2026-11-08T06:07:38+09:00",
     "importance": 4
