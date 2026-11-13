@@ -4250,6 +4250,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코 원전 시공사 교체 결국 국회로…여야 \"청문회 열어야\" - sisafocus.co.kr",
+    "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367582",
+    "description": "한수원은 지난달 29일 대우건설·두산에너빌리티 컨소시엄과의 두코바니 5·6호기 시공계약 협상 종료를 선언했다. 대우건설은 한수원이 같은 달 7일 변경된 계약조건을 제시한 뒤 약 3주 만에 최종 입장을 요구했으며...",
+    "published_at": "2026-11-13T18:44:00+09:00",
+    "cluster_id": "446c",
+    "publisher": "sisafocus.co.kr",
+    "title_clean": "체코 원전 시공사 교체 결국 국회로…여야 \"청문회 열어야\"",
+    "summary": "한수원이 대우건설·두산에너빌리티 컨소시엄과의 체코 두코바니 원전 시공계약 협상을 종료했다. 변경된 계약조건 제시 후 3주 만에 결렬되었으며, 이는 건설업계에 대규모 수주 기회 상실을 의미한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T18:55:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20231,22 +20247,6 @@
     "summary": "HD현대마린엔진이 삼성중공업과 361억 규모의 선박엔진 공급계약을 체결했다. 계약기간은 2026년 11월부터 2029년 6월까지이며, 최근 매출액 대비 9.0%에 해당하는 규모다.",
     "sentiment": "positive",
     "collected_at": "2026-11-09T15:49:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "국토부 가덕도 신공항 실시설계 착수, 2035년 개항 목표로 사업 재개 - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451518",
-    "description": "국토부와 가덕도 신공항 건설공단은 가덕도 신공항 부지 조성 수의계약 예비 대상자인 대우건설 컨소시엄과 협의해 실시설계를 착수한다고 9일 밝혔다. 국토교통부가 공사비 증액 문제로 중단된 가덕도 신공항 건설...",
-    "published_at": "2026-11-09T15:38:00+09:00",
-    "cluster_id": "c7f1",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "국토부 가덕도 신공항 실시설계 착수, 2035년 개항 목표로 사업 재개",
-    "summary": "국토부가 중단되었던 가덕도 신공항 건설사업을 재개하여 대우건설 컨소시엄과 실시설계를 착수한다. 2035년 개항을 목표로 대규모 건설 프로젝트가 본격화될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T15:45:11+09:00",
     "importance": 2
   },
   {
