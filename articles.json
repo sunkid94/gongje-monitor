@@ -4233,6 +4233,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "산업장관, 체코 측에 \"원전사업 완수…결과로 책임질 것\" - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261114000300003?input=1195m",
+    "description": "두코바니 원전 건설 사업 주계약자인 한수원은 대우건설·두산에너빌리티 컨소시엄과 시공계약 협상을 진행해 왔으나 양측이 합의에 이르지 못했다며 지난달 말 협상 종료를 발표한 바 있다. 김 장관은 자신이 주재하는...",
+    "published_at": "2026-11-14T00:17:00+09:00",
+    "cluster_id": "7c86",
+    "publisher": "yna.co.kr",
+    "title_clean": "산업장관, 체코 측에 \"원전사업 완수…결과로 책임질 것\"",
+    "summary": "한수원이 체코 두코바니 원전 건설사업 시공계약 협상을 대우건설·두산에너빌리티 컨소시엄과 진행했으나 합의 실패로 협상을 종료했다. 산업장관은 원전사업 완수와 책임 이행을 체코 측에 약속했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-14T00:35:37+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20215,22 +20231,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-09T16:00:31+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산, 3분기 영업이익 4594억원…작년보다 2배로 뛰었다 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2645891",
-    "description": "두산에너빌리티는 3분기 연결 기준 매출 4조4494억원, 영업이익 2612억원을 기록했다. 전년 동기 대비 각각 14.7%, 90.6% 증가한 수치다. 올해 3분기까지 누적 수주액은 9조9990억원으로, 오만 가스복합발전소와...",
-    "published_at": "2026-11-09T15:50:00+09:00",
-    "cluster_id": "a31a",
-    "publisher": "etoday.co.kr",
-    "title_clean": "두산, 3분기 영업이익 4594억원…작년보다 2배로 뛰었다",
-    "summary": "두산에너빌리티가 3분기 영업이익 2612억원으로 전년 동기 대비 90.6% 증가하며 실적 호조를 보였다. 올해 누적 수주액이 9조9990억원에 달하며 대형 발전소 프로젝트 수주로 건설기계설비 업계의 긍정적 신호를 제시하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T16:00:31+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
