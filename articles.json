@@ -4250,6 +4250,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, 도시정비 수주 4조원 돌파… 실적 개선에 성장 기반 강화 - biztribune.co.kr",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=362483",
+    "description": "롯데건설이 수익성 중심 사업 운영과 강도 높은 재무구조 개선을 통해 실적 반등에 속도를 내고 있다. 원가 관리와 우량 사업장 중심의 선별 수주 전략이 효과를 거두면서 영업이익이 큰 폭으로 증가하고 부채비율과...",
+    "published_at": "2026-11-13T20:56:00+09:00",
+    "cluster_id": "3c33",
+    "publisher": "biztribune.co.kr",
+    "title_clean": "롯데건설, 도시정비 수주 4조원 돌파… 실적 개선에 성장 기반 강화",
+    "summary": "롯데건설이 도시정비 사업 수주 4조원을 돌파하며 수익성 중심 경영과 재무구조 개선을 추진 중이다. 원가 관리와 선별 수주 전략으로 영업이익이 증가하고 부채비율이 개선되는 등 실적 반등 기조를 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-13T21:05:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20232,22 +20248,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-09T15:49:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[오늘의 건설] 현대건설·IPARK현대산업개발·GS건설 - financialreview.co.kr",
-    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=46135",
-    "description": "현대건설이 '힐스테이트 화룡역파크뷰' 공공지원 민간임대 아파트 모집 공고를 냈으며, IPARK현대산업개발은 고양 능곡3구역 주택정비형 재개발사업에 시공사로 선정됐다. GS건설은 '목동윤슬자이' 분양 흥행에 성공해...",
-    "published_at": "2026-11-09T15:46:00+09:00",
-    "cluster_id": "eaef",
-    "publisher": "financialreview.co.kr",
-    "title_clean": "[오늘의 건설] 현대건설·IPARK현대산업개발·GS건설",
-    "summary": "현대건설이 공공지원 민간임대 아파트를 모집하고, IPARK현대산업개발이 고양 재개발사업 시공사로 선정되며, GS건설이 분양에 성공하는 등 대형 건설사들의 사업 수주 및 진행 상황을 보도하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T15:49:54+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
