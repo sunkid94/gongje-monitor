@@ -4250,6 +4250,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설 3분기 누적 영업익 126%↑ - srtimes.kr",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=217596",
+    "description": "롯데건설이 전사적인 원가 구조 개선과 우량 사업장 선별 수주 전략에 힘입어 올해 3분기 누적 영업이익이 전년 대비 2배 이상 급증하는 호실적을 거뒀다. 프로젝트파이낸싱(PF) 우발채무 축소와 펀드 리파이낸싱을...",
+    "published_at": "2026-11-13T19:42:00+09:00",
+    "cluster_id": "8c18",
+    "publisher": "srtimes.kr",
+    "title_clean": "롯데건설 3분기 누적 영업익 126%↑",
+    "summary": "롯데건설이 원가 구조 개선과 우량 사업장 선별 수주 전략으로 3분기 누적 영업이익을 전년 대비 126% 증가시켰다. PF 우발채무 축소와 펀드 리파이낸싱 등을 통해 재무 건전성도 강화했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-13T19:55:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20229,22 +20245,6 @@
     "publisher": "thevaluenews.co.kr",
     "title_clean": "[건설 레이더] 삼성물산·IPARK·BS한양, 목동·고양 정비사업 품고 세종...",
     "summary": "IPARK현대산업개발, BS한양 등 대형 건설사들이 고양 재개발사업, 세종 스마트시티 등 대규모 프로젝트에서 도급시공권을 확보하며 수주 실적을 늘리고 있다. 목동·고양 정비사업 등 수도권 재개발 시장이 활기를 띠고 있는 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T15:49:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "세라믹기술원, 충북 오송 '세라믹 탄소중립센터'에 저탄소 혼합시멘트 ... - mtnews.net",
-    "link": "https://www.mtnews.net/news/articleView.html?idxno=26481",
-    "description": "현재 한일시멘트를 주관기관으로 한국세라믹기술원, 롯데건설, 공주대학교 등 총 12개 산·학·연 기관이 컨소시엄을 구성해 배합 기술 개발과 현장 검증을 공동 수행하고 있다. 연구진은 세라믹 탄소중립센터의 기초 및...",
-    "published_at": "2026-11-09T15:42:00+09:00",
-    "cluster_id": "c29e",
-    "publisher": "mtnews.net",
-    "title_clean": "세라믹기술원, 충북 오송 '세라믹 탄소중립센터'에 저탄소 혼합시멘트 ...",
-    "summary": "세라믹기술원이 충북 오송에 저탄소 혼합시멘트 개발을 위한 '세라믹 탄소중립센터'를 구축하고 있으며, 한일시멘트, 롯데건설 등 12개 산학연 기관이 컨소시엄을 이루어 배합 기술 개발과 현장 검증을 추진 중이다. 저탄소 건설재료 개발을 통해 건설업계의 탄소중립 전환을 지원하는 프로젝트이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-09T15:49:54+09:00",
     "importance": 2
