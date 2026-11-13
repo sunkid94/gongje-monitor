@@ -4233,6 +4233,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "IPARK현대산업개발, 이촌 강변강서 재건축 정조준…'용산 아이파크 벨트... - dailyt.co.kr",
+    "link": "https://www.dailyt.co.kr/newsView/dlt202611140002",
+    "description": "IPARK현대산업개발이 서울 용산구 이촌동 강변강서아파트 재건축 수주전에 본격적으로 뛰어들며 용산 일대 '아이파크 브랜드 타운' 확장에 속도를 내고 있다. 이미 확보한 용산정비창 전면1구역을 중심으로 북쪽의...",
+    "published_at": "2026-11-14T07:54:00+09:00",
+    "cluster_id": "faf4",
+    "publisher": "dailyt.co.kr",
+    "title_clean": "IPARK현대산업개발, 이촌 강변강서 재건축 정조준…'용산 아이파크 벨트...",
+    "summary": "IPARK현대산업개발이 서울 용산구 이촌동 강변강서아파트 재건축 수주에 나서며 용산 일대 아이파크 브랜드 확장을 추진 중이다. 용산정비창 전면1구역 등 기확보 부지를 중심으로 재건축 프로젝트 포트폴리오를 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-14T08:04:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20215,22 +20231,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-09T16:31:19+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 '8년 동행' 일방적으로 끝낸 한수원···대우건설과 협상 종료 절차 논란 - 뉴스웨이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waWwxc3czdEx1MWQwbURVQU5fX0hOVm9jYXN4b09iZG1oUTVHTjZvZlpoclRTZVAxQkkyTmc1b2R4VEdvN2Z4enpsTDgzaF9tM0p3emRmU1k0ZGctMUxKMVRfUklKTTE0dEE?oc=5",
-    "description": "체코 두코바니 원전의 시공사 교체가 주목받고 있다. 대우건설과 한수원은 공사비와 위험분담 조건에 이견을 좁히지 못해 협상이 결렬됐다. 두코바니 원전은 한국형 원전의 유럽 진출을 상징하는 사업으로 그 파장이 크다. 대우건설은 장기간 인허가와 기반 조성에 참여했으나, 설계 변경 리스크와 비용 부담 방식에 대한 협상 난항으로 배제됐다.",
-    "published_at": "2026-11-09T16:23:07+09:00",
-    "cluster_id": "8473",
-    "publisher": "뉴스웨이",
-    "title_clean": "체코 원전 '8년 동행' 일방적으로 끝낸 한수원···대우건설과 협상 종료 절차 논란",
-    "summary": "체코 두코바니 원전 프로젝트에서 한수원이 대우건설과의 협상을 일방적으로 종료하고 시공사를 교체하기로 결정했다. 공사비와 위험분담 조건 협상 결렬이 원인으로, 대우건설이 8년간 인허가와 기반 조성에 참여했음에도 불구하고 배제되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T16:31:19+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
