@@ -20675,6 +20675,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "충북도회, 불법하도급 예방·조달청 입찰자격 사실조사 교육 개최 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327460",
+    "description": "대한전문건설협회 충북도회(회장 류근형)는 12일 충북대학교 개신문화관에서 ‘2026년 건설공사 불법하도급 예방 및 조달청 입찰참가자격 사실조사 교육'을 개최했다.이번 교육은 불법하도급 단속과 조달청 입찰참가자격 사실조사에 대한 회원사들의 이해를 높이고, 법령 위반이나 제도 미숙지로 인한 불이익을 예방하기 위해 마련됐다.교육은 △건설공사 불법하도급 예방 및 단속 주요 내용(국토교통부 공정건설지원과 김종현 사무관) △조달청 입찰참가자격 사실조사 주요 내용(대한건설협회 임정우 부장) 등 2개 강의로 진행됐다. 불법하도급 관련 주요 준수사",
+    "published_at": "2026-11-13T09:37:43+09:00",
+    "cluster_id": "2da2",
+    "publisher": "대한전문건설신문",
+    "title_clean": "충북도회, 불법하도급 예방·조달청 입찰자격 사실조사 교육 개최",
+    "summary": "대한전문건설협회 충북도회가 건설공사 불법하도급 예방과 조달청 입찰참가자격 사실조사에 관한 교육을 개최했다. 회원사들의 법령 준수 의식을 높이고 규제 위반으로 인한 불이익을 사전에 예방하기 위한 교육 프로그램이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-13T09:46:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32257,21 +32273,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T04:40:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[뉴테크 포커스]한국도로공사, 도로분야 OSC(탈현장) 건설 주도한다 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QVHZwRXdHM21KZHdVU2U4RDlPaUhJMFFBVmw4NVlkX2VpS0dPYTVZdDQ4clBGM0FZNjA3SE5DakhLMDB6Ml9TcHdlS090QzNIVFZjMnE4MlhuN1ZpR1dkMGxZUWp4T0VkM0tJU20xX0N3UDg?oc=5",
-    "description": "동아이엔지 신기술 방음벽 기초특정공법 채택김포~파주 4공구ㆍ세종~천안 1공구에 적용신원RPC 특허 방호벽은대산~당진 설계에 반영동아이엔지의 건설신기술‘파일을 이용한프리캐스트 방음벽 기초 및 자립식 옹벽’이 적용된 경부선 양산사송지구 방음시설. 이 기술은 한국도로공사의 ...",
-    "published_at": "2026-11-10T04:00:16+09:00",
-    "cluster_id": "93a7",
-    "publisher": "대한경제",
-    "title_clean": "[뉴테크 포커스]한국도로공사, 도로분야 OSC(탈현장) 건설 주도한다",
-    "summary": "한국도로공사가 도로분야 OSC(Off-Site Construction, 탈현장) 건설을 주도하면서 동아이엔지의 프리캐스트 방음벽 기초공법과 신원RPC의 특허 방호벽이 채택되었다. 김포~파주, 세종~천안, 대산~당진 등 주요 도로사업에 신기술이 적용되어 건설사와 자재업체의 수주 확대가 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-10T04:10:32+09:00",
-    "importance": 2
   }
 ]
