@@ -20233,6 +20233,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[오늘의 국회 에너지 입법 : 통합발전회사 본사 울산 또는 부산?] - e-platform.net",
+    "link": "http://www.e-platform.net/news/articleView.html?idxno=106993",
+    "description": "2024년 기준 전기공사업의 매출규모는 39조원이고 현행법에서 정한 대체 과징금 상한액은 1000만원인데 건설산업기본법은 매출규모 410조원일 때 대체 과징금 상한액이 1억원, 정보통신공사업법은 매출규모 20조원일 때 대체...",
+    "published_at": "2026-11-14T08:32:00+09:00",
+    "cluster_id": "fccc",
+    "publisher": "",
+    "title_clean": "[오늘의 국회 에너지 입법 : 통합발전회사 본사 울산 또는 부산?] - e-platform.net",
+    "summary": "전기공사업의 매출규모(39조원)에 비해 대체 과징금 상한액(1000만원)이 과도하게 낮다는 지적으로, 건설산업기본법(410조원 매출 시 1억원)과 정보통신공사업법(20조원 매출 시 상한액) 등 타 산업과의 불균형을 드러냄. 업계의 과징금 제도 개선 필요성을 제기하는 입법 논의로 보임.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-14T08:43:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32231,21 +32247,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-10T10:31:35+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "이광희 의원 “건설현장 소방안전 비용, 공사금액에 의무 반영해야” - FPN-소방방재신문",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GZHppdU5OVjhfdkZYcWZoY182dl92Zy1VVjBLcEhXdl9JdWNZM0lTN09lZWQ4bGR1SXJZenBNcko1QWVX?oc=5",
-    "description": "더불어민주당 이광희 의원 [FPN 박준호 기자] = 건설현장 소방안전관리자 선임과 임시소방시설 설치ㆍ관리 등에 필요한 비용은 공사금액 또는 사업비",
-    "published_at": "2026-11-10T10:16:00+09:00",
-    "cluster_id": "269b",
-    "publisher": "",
-    "title_clean": "이광희 의원 “건설현장 소방안전 비용, 공사금액에 의무 반영해야” - FPN-소방방재신문",
-    "summary": "더불어민주당 이광희 의원이 건설현장 소방안전 관리자 선임 및 임시소방시설 설치·관리 비용을 공사금액에 의무적으로 반영할 것을 주장했습니다. 이는 건설현장의 소방안전을 강화하기 위한 규제 강화 방안입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T10:31:35+09:00",
-    "importance": 4
   }
 ]
