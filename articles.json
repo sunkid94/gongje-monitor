@@ -4250,6 +4250,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "2027 산업 기상도 들여다보니 - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12200312",
+    "description": "HD현대중공업·한화오션·삼성중공업 등 국내 조선 3사는 과거 높은 가격에 수주한 액화천연가스(LNG) 운반선과 대형 컨테이너선의 건조·인도가 본격화하며 수익성 개선을 이어갈 것으로 기대된다. 클락슨리서치에...",
+    "published_at": "2026-11-13T21:01:00+09:00",
+    "cluster_id": "bb3f",
+    "publisher": "mk.co.kr",
+    "title_clean": "2027 산업 기상도 들여다보니",
+    "summary": "국내 조선 3사(HD현대중공업, 한화오션, 삼성중공업)가 과거 높은 가격에 수주한 LNG 운반선과 대형 컨테이너선의 건조·인도를 본격화하며 수익성 개선을 지속할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-13T21:15:35+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20229,22 +20245,6 @@
     "publisher": "sedaily.com",
     "title_clean": "기업 공시 [11월 9일]",
     "summary": "삼성중공업과 HD현대중공업이 각각 361억 원 규모 선박엔진 공급계약과 6629억 원 규모 LNG운반선 2척 수주계약을 체결했다. 조선 및 해양플랜트 업계의 수주 호재로 기계설비 관련 협력업체들의 수익 증대로 이어질 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T15:49:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "고양 능곡3구역 시공사에 IPARK현대산업개발 '낙점'…5174억 원 규모 - kgnews.co.kr",
-    "link": "https://www.kgnews.co.kr/news/article.html?no=918736",
-    "description": "토당동 1258가구 재개발…시공사 선정 총회서 89.1% 득표 정비계획 변경해 약 2000가구로 확대 추진 고양시 덕양구 토당동 능곡3구역 재개발 시공사로 IPARK현대산업개발이 선정됐다. 1258가구를 짓는 5174억 원 규모의...",
-    "published_at": "2026-11-09T15:46:00+09:00",
-    "cluster_id": "2193",
-    "publisher": "kgnews.co.kr",
-    "title_clean": "고양 능곡3구역 시공사에 IPARK현대산업개발 '낙점'…5174억 원 규모",
-    "summary": "IPARK현대산업개발이 고양시 덕양구 토당동 능곡3구역 재개발 시공사로 선정되어 5174억 원 규모 프로젝트를 수주했다. 기존 1258가구에서 약 2000가구로 확대되며 총회에서 89.1% 높은 동의율을 얻었다.",
     "sentiment": "positive",
     "collected_at": "2026-11-09T15:49:54+09:00",
     "importance": 2
