@@ -4267,23 +4267,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "조인호 명예회장, 청년 인재 양성 기부금 - hankyung.com",
-    "link": "https://www.hankyung.com/article/2026101422411",
-    "description": "조인호 대한기계설비건설협회 명예회장(오른쪽)이 청년 인재 양성을 위해 5000만원을 기부했다. 기계설비협회는 14일 서울 강남구 기계설비회관에서 조인호 명예회장의 ‘기계설비 발전 기부금 전달식’을 개최했다고...",
-    "published_at": "2026-10-14T18:05:00+09:00",
-    "cluster_id": "7e4c",
-    "publisher": "hankyung.com",
-    "title_clean": "조인호 명예회장, 청년 인재 양성 기부금",
-    "summary": "조인호 대한기계설비건설협회 명예회장이 청년 인재 양성을 위해 5000만원을 기부했다. 기계설비협회가 14일 서울 강남구 기계설비회관에서 기부금 전달식을 개최했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T18:10:40+09:00",
-    "event_label": "대한기계설비건설협회 조인호 명예회장 청년 인재 양성 기부금",
-    "importance": 5
-  },
-  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20282,6 +20265,22 @@
     "sentiment": "positive",
     "collected_at": "2026-11-09T15:40:51+09:00",
     "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "벼랑 끝 지역 전문건설업계...정책 지원 확대 목소리 - dtnews24.com",
+    "link": "http://www.dtnews24.com/news/articleView.html?idxno=817189",
+    "description": "건설경기 침체와 공사 물량 감소, 공사비 및 인건비 상승으로 지역 전문건설업계의 경영 부담이 커지는 가운데 업계가 지역 건설산업 활성화와 지역업체 수주 기회 확대를 위한 정책적 지원을 요청했다. 대한전문건설협회...",
+    "published_at": "2026-11-13T18:04:00+09:00",
+    "cluster_id": "ebe1",
+    "publisher": "dtnews24.com",
+    "title_clean": "벼랑 끝 지역 전문건설업계...정책 지원 확대 목소리",
+    "summary": "건설경기 침체, 공사 물량 감소, 공사비·인건비 상승으로 지역 전문건설업계의 경영 어려움이 심화되고 있다. 업계는 지역 건설산업 활성화와 지역업체 수주 기회 확대를 위한 정책적 지원을 요청하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T18:15:00+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
