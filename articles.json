@@ -4233,21 +4233,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "조인호 명예회장, 기계설비 발전 위해 5000만원 기부 - gukjenews.com",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3721855",
-    "description": "조인호 대한기계설비건설협회 명예회장(해광이엔씨㈜ 대표이사)이 5000만원을 기계설비 업계 발전과 청년 인재 양성을 위해 기부했다. 기계설비협회(회장 허용주)는 14일 서울 강남구 청담동 기계설비회관에서 조인호...",
-    "published_at": "2026-10-14T21:16:00+09:00",
-    "cluster_id": "909e",
-    "publisher": "gukjenews.com",
-    "title_clean": "조인호 명예회장, 기계설비 발전 위해 5000만원 기부",
-    "summary": "조인호 대한기계설비건설협회 명예회장이 기계설비 업계 발전과 청년 인재 양성을 위해 5000만원을 기부했다. 기계설비협회가 14일 서울 강남구에서 기부금을 접수했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-14T21:30:31+09:00",
-    "event_label": "대한기계설비건설협회 명예회장 기계설비 업계 발전 기금 5000만원 기부",
-    "importance": 5
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'LNG선 화물창 결함' 가스공사, 2심서 배상액 2600억원대로 늘어 - ajunews.com",
+    "link": "https://www.ajunews.com/view/20261113211544910",
+    "description": "SK해운 2203억·삼성중공업 480억원 배상 판결 아주경제=황진현 기자 jinhyun97@ajunews.com 서울중앙지법 [사진=연합뉴스] 한국가스공사가 한국형 액화천연가스(LNG) 운반선 화물창 결함으로 삼성중공업과 SK해운에...",
+    "published_at": "2026-11-13T21:22:00+09:00",
+    "cluster_id": "047f",
+    "publisher": "ajunews.com",
+    "title_clean": "'LNG선 화물창 결함' 가스공사, 2심서 배상액 2600억원대로 늘어",
+    "summary": "한국가스공사가 LNG선 화물창 결함으로 삼성중공업과 SK해운을 상대로 한 소송에서 2심에서 총 2683억원의 배상 판결을 받았다. 삼성중공업 480억원, SK해운 2203억원으로 1심 판결보다 배상액이 증가했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-13T21:35:22+09:00",
+    "importance": 4
   },
   {
     "keyword": "삼성중공업",
@@ -20231,22 +20230,6 @@
     "summary": "IPARK현대산업개발이 고양능곡3구역 재개발사업 시공사로 선정되어 5,174억원 규모의 도급시공권을 확보했다. 이로써 올해 누적수주액이 2.7조원을 돌파했으며, 89.1%의 높은 찬성률로 선정되었다.",
     "sentiment": "positive",
     "collected_at": "2026-11-09T16:00:31+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "기업 공시 [11월 9일] - sedaily.com",
-    "link": "https://www.sedaily.com/article/20112001?ref=naver",
-    "description": "(071970)=삼성중공업(010140)에 361억 원 규모 선박엔진 공급계약 체결 ▲HD현대중공업(329180)=아프리카 소재 선사에 6629억 원 규모 액화천연가스 운반선(LNGC) 2척 수주계약 체결 ▲서진시스템(178320)=사모...",
-    "published_at": "2026-11-09T15:46:00+09:00",
-    "cluster_id": "a9e4",
-    "publisher": "sedaily.com",
-    "title_clean": "기업 공시 [11월 9일]",
-    "summary": "삼성중공업과 HD현대중공업이 각각 361억 원 규모 선박엔진 공급계약과 6629억 원 규모 LNG운반선 2척 수주계약을 체결했다. 조선 및 해양플랜트 업계의 수주 호재로 기계설비 관련 협력업체들의 수익 증대로 이어질 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T15:49:54+09:00",
     "importance": 2
   },
   {
