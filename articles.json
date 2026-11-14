@@ -4216,6 +4216,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "['AI·하이테크' 뉴노멀, 건설업의 미래] ②7곳 중 4곳 매출 줄었지만 영... - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=354556",
+    "description": "매출이 줄고 이익이 늘어난 곳은 현대건설과 대우건설이다. 현대건설은 매출이 6조2406억원으로 20.3% 줄었고 영업이익은 2217억원으로 114.2% 늘었다. 회사는 지난해 현대차 미국 전기차 공장 준공으로 매출이...",
+    "published_at": "2026-11-14T09:00:00+09:00",
+    "cluster_id": "cdfa",
+    "publisher": "greened.kr",
+    "title_clean": "['AI·하이테크' 뉴노멀, 건설업의 미래] ②7곳 중 4곳 매출 줄었지만 영...",
+    "summary": "건설업계 7곳 중 4곳의 매출이 감소했으나, 현대건설과 대우건설은 매출 감소에도 불구하고 영업이익을 크게 증대시켰다. 현대건설은 매출 20.3% 감소하면서도 영업이익은 114.2% 증가한 것으로 나타났다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-14T10:03:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20198,22 +20214,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-09T16:31:19+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "두산, 전자BG 사상 최대 분기매출에 수익성 '쑥' - dealsite.co.kr",
-    "link": "https://dealsite.co.kr/articles/172367",
-    "description": "두산에너빌리티는 올해 3분기 연결기준 매출 4조4494억원(전년비 14.7%↑), 영업이익 2612억원(90.6%↑)을 기록했다. 1~3분기 누계 수주 금액은 9조9990억원이다. 주요 프로젝트는 ▲오만 미스파 가스복합발전소...",
-    "published_at": "2026-11-09T16:22:00+09:00",
-    "cluster_id": "27de",
-    "publisher": "dealsite.co.kr",
-    "title_clean": "두산, 전자BG 사상 최대 분기매출에 수익성 '쑥'",
-    "summary": "두산에너빌리티가 3분기 사상 최대 분기매출 4조4494억원을 기록하며 전년비 14.7% 증가했고, 영업이익은 90.6% 증가한 2612억원을 달성했다. 1~3분기 누계 수주 금액 9조9990억원으로 건설기계설비업계의 수주 증가 추세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T16:31:19+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
