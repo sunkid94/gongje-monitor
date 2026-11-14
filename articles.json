@@ -4182,6 +4182,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "시공만 하던 한국 건설사, 베트남서 '신도시 판'을 통째로 짜는 이유 - g-enews.com",
+    "link": "https://www.g-enews.com/view.php?ud=2026111412464850302bd56fbc3c_1",
+    "description": "베트남 경제매체 베트남파이낸스는 11월 13일(현지시각) 하노이와 호치민시를 중심으로 롯데건설과 GS건설, 대우건설이 수천 세대 규모의 주거·상업 복합 사업을 추진하고 있다고 보도했다. 베트남, 한국 해외 건설...",
+    "published_at": "2026-11-14T12:58:00+09:00",
+    "cluster_id": "622d",
+    "publisher": "",
+    "title_clean": "시공만 하던 한국 건설사, 베트남서 '신도시 판'을 통째로 짜는 이유 - g-enews.com",
+    "summary": "롯데건설, GS건설, 대우건설이 베트남 하노이와 호치민시에서 수천 세대 규모의 주거·상업 복합 사업을 추진 중이다. 한국 건설사들이 해외에서 시공을 넘어 신도시 개발 사업까지 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-14T13:06:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20164,22 +20180,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-09T16:41:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "가덕도신공항 착공 또 지연…실시설계부터 착수 - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12094022?ref=naver",
-    "description": "국토교통부와 가덕도신공항건설공단은 9일 부지조성 공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의를 마치고 실시설계에 착수했다. 당초 정부는 지난 9월 기본설계 접수 당시 올해 11월 우선 시공분 착공을...",
-    "published_at": "2026-11-09T16:33:00+09:00",
-    "cluster_id": "09d3",
-    "publisher": "dt.co.kr",
-    "title_clean": "가덕도신공항 착공 또 지연…실시설계부터 착수",
-    "summary": "가덕도신공항 부지조성 공사가 기본설계 이후 실시설계 단계로 진행되며 착공이 지연되고 있다. 대우건설 컨소시엄과의 수의계약 협의를 마치고 실시설계에 착수했으나, 당초 예정된 올해 11월 착공 목표를 달성하지 못했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T16:41:22+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
