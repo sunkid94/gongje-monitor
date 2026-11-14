@@ -20216,6 +20216,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "국립한밭대 BSTL 연구실, 탄소중립·지능형 냉난방 분야 학술대회 수상 - daily.hankooki.com",
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1425140",
+    "description": "도시건축문화제 스마트건설공학 학생성과 경진대회'에서 한국건축시공학회장상을 받았다. 이어 류제창·김주현·반창현·도성록·박병용 연구팀은 소형 MEMS 가속도계로 공조시스템의 운전 상태를 분석한 'MEMS...",
+    "published_at": "2026-11-14T10:30:00+09:00",
+    "cluster_id": "feaa",
+    "publisher": "daily.hankooki.com",
+    "title_clean": "국립한밭대 BSTL 연구실, 탄소중립·지능형 냉난방 분야 학술대회 수상",
+    "summary": "국립한밭대 BSTL 연구실이 탄소중립과 지능형 냉난방 분야의 학술대회에서 한국건축시공학회장상을 수상했다. MEMS 가속도계를 활용한 공조시스템 운전 상태 분석 기술 개발로 건설 기술 혁신을 주도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-14T10:42:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-10T10:41:02+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "이광희 의원 “건설현장 소방안전 비용, 공사금액에 의무 반영해야” - fpn119.co.kr",
-    "link": "http://fpn119.co.kr/259175",
-    "description": "‘소방시설 설치 및 관리에 관한 법률’ 개정안엔 ‘건설산업기본법’에 따른 발주자는 임시소방시설 설치ㆍ관리 등에 필요한 비용을 도급금액 또는 사업비에 계상하도록 하는 조항이 명시됐다.",
-    "published_at": "2026-11-10T10:18:00+09:00",
-    "cluster_id": "3d14",
-    "publisher": "fpn119.co.kr",
-    "title_clean": "이광희 의원 “건설현장 소방안전 비용, 공사금액에 의무 반영해야”",
-    "summary": "이광희 의원이 건설현장 소방안전 비용을 공사금액에 의무적으로 반영하도록 하는 '소방시설 설치 및 관리에 관한 법률' 개정안을 제시했다. 발주자가 임시소방시설 설치·관리 비용을 도급금액에 계상하도록 명시하는 내용으로, 건설업계의 안전 책임과 비용 부담이 증가할 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T10:31:35+09:00",
-    "importance": 4
   }
 ]
