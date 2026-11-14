@@ -20199,6 +20199,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "롯데건설, 3분기 누적 영업이익 2077억원…전년 대비 126% 증가 - 미디어인뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MejhYdG5KTGFjZVhHclhadVljOWpRMlN6cVQ2VjRQTTBtUmR6el9ZVlFPT1k3eTJsWmZZM1pfQXk1cGEwdmV3OXFHQTB6ZkxBeU04Qkd3RnB3WWJ2OUtwWVZMTE1FNDVFVnVxa3l3?oc=5",
+    "description": "(미디어인뉴스=박미라 기자) 롯데건설이 원가 관리와 수익성 중심 수주 전략에 힘입어 올해 3분기까지 누적 영업이익을 전년 동기 대비 두 배 이상 늘렸다. 프로젝트파이낸싱(PF) 우발채무와 부채비율도 낮아지면서 재무구조 개선 흐름을 보였다.13일 금융감독원 전자공시시스템에 따르면 롯데건설은 올해 3분기 연결 기준 매출 1조4761억원, 영업이익 349억원을 기록했다. 1~3분기 누적 영업이익은 2077억원으로 전년 동기보다 126% 증가했다.수익성 개선에는 공사 원가 절감이 영향을 미쳤다. 롯데건설은 수익성이 높은 사업을 선별해 수주",
+    "published_at": "2026-11-14T19:47:35+09:00",
+    "cluster_id": "0d9b",
+    "publisher": "미디어인뉴스",
+    "title_clean": "롯데건설, 3분기 누적 영업이익 2077억원…전년 대비 126% 증가",
+    "summary": "롯데건설이 원가 관리와 수익성 중심 수주 전략으로 올해 3분기 누적 영업이익을 2077억원으로 전년 대비 126% 증가시켰다. PF 우발채무와 부채비율 감소로 재무구조도 개선되는 추세를 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-14T19:52:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32229,21 +32245,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-10T11:00:55+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토안전관리원-한국농어촌공사,와 건설안전 업무협약 - 한국건설신문",
-    "link": "http://www.kscnews.co.kr/news/articleView.html?idxno=37596",
-    "description": "국토안전관리원(이하 국토안전원) 영남지역본부는 지난 9일 대구 구암동 한국농어촌공사 경북지역본부에서 영남권 건설현장의 안전관리 강화와 중대재해 예방을 위한 업무협약(MOU)을 체결했다.그동안 국토안전원은 건설안전 정책 이행을 뒷받침하고 현장 안전을 관리하고자 건설공사 현장점검과 스마트 안전장비 보급, 건설안전 코칭 등의 사업을 진행해 왔다.이번 협약은 한국농어촌공사가 관할하는 영남권 건설현장의 사고와 사망자를 줄이기 위해 추진됐다. 협약에 따라 양 기관은 고위험 및 취약 건설현장에 대한 안전점검을 비롯해 안전관리 전문가의 기술자문과",
-    "published_at": "2026-11-10T10:30:16+09:00",
-    "cluster_id": "e40f",
-    "publisher": "한국건설신문",
-    "title_clean": "국토안전관리원-한국농어촌공사,와 건설안전 업무협약",
-    "summary": "국토안전관리원과 한국농어촌공사가 영남권 건설현장의 안전관리 강화와 중대재해 예방을 위한 업무협약을 체결했다. 양 기관은 고위험 건설현장에 대한 안전점검, 기술자문, 스마트 안전장비 보급 등을 통해 건설현장의 사고와 사망자를 줄이기로 합의했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T11:00:55+09:00",
-    "importance": 4
   }
 ]
