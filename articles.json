@@ -20199,6 +20199,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "탈락한 연구진의 ‘영상 아카이브’ 아이디어, 선정기관 협상안에도 등... - weekly.khan.co.kr",
+    "link": "https://weekly.khan.co.kr/article/202611142103001",
+    "description": "건설근로자공제회가 1억3600만원 규모의 <건설노동자사(史)> 편찬 연구용역을 추진하면서 우선협상대상자 선정 이후 ‘연구 전문성 강화’를 이유로 연구진 변경을 협의한 사실이 드러났다. 입찰에서 탈락한 연구진이...",
+    "published_at": "2026-11-14T21:03:00+09:00",
+    "cluster_id": "d0f0",
+    "publisher": "weekly.khan.co.kr",
+    "title_clean": "탈락한 연구진의 ‘영상 아카이브’ 아이디어, 선정기관 협상안에도 등...",
+    "summary": "건설근로자공제회가 1억3600만원 규모 연구용역에서 우선협상대상자 선정 후 '연구 전문성 강화'를 이유로 탈락 연구진을 협상안에 포함시켜 투명성 문제 제기. 공공기관의 용역 추진 과정에서의 절차 적정성 논란.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-14T21:08:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 PF",
     "category": "시장·경기",
     "is_company": false,
@@ -32228,22 +32244,6 @@
     "summary": "트럼프 중간선거 참패로 이민 정책이 완화될 것으로 예상되면서 중미 지역의 이주민들이 미국으로 북상하고 있다. 이는 미국의 노동력 공급 증가로 이어질 수 있는 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-10T11:06:09+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국농어촌공사 경남지역본부·국토안전관리원 영남지역본부 업무협약 - idomin.com",
-    "link": "https://www.idomin.com/news/articleView.html?idxno=2019172",
-    "description": "한국농어촌공사 경남지역본부(본부장 박찬희)는 9일 국토안전관리원 영남지역본부(본부장 김성준)와 영남권 건설현장 안전관리 수준 향상, 중대재해 예방 업무협약을 체결했다. 협약에는 경북지역본부(본부장 예창완)도...",
-    "published_at": "2026-11-10T10:56:00+09:00",
-    "cluster_id": "479d",
-    "publisher": "idomin.com",
-    "title_clean": "한국농어촌공사 경남지역본부·국토안전관리원 영남지역본부 업무협약",
-    "summary": "한국농어촌공사 경남지역본부와 국토안전관리원 영남지역본부가 영남권 건설현장의 안전관리 강화와 중대재해 예방을 위한 업무협약을 체결했다. 두 기관이 협력하여 건설현장의 안전 수준을 향상시키기로 합의했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T11:00:55+09:00",
     "importance": 2
   }
 ]
