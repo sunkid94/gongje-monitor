@@ -20216,6 +20216,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대형 건설주 아닌 중소형주가 달렸다…건설업종 매수세 집중 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504051",
+    "description": "이들 기업은 주택사업과 공공·민간 건축공사를 함께 영위하고 있어 국내 건설경기 회복과 신규 수주 확대 여부가 실적 개선의 주요 변수로 꼽힌다. 토목 및 인프라 사업 관련 기업들도 강세를 보였다. 삼호개발과...",
+    "published_at": "2026-11-14T10:26:00+09:00",
+    "cluster_id": "b732",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "대형 건설주 아닌 중소형주가 달렸다…건설업종 매수세 집중",
+    "summary": "건설업종에서 중소형주가 매수세를 주도하고 있으며, 주택사업과 공공·민간 건축공사를 영위하는 기업들의 실적 개선이 신규 수주 확대에 달려있다. 토목 및 인프라 사업 관련 기업들도 함께 강세를 보이고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-14T10:33:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T10:31:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국도로공사, 유관기관 합동 ‘2026년 폭설 재난대비 상시훈련’ 실시 - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10931776?ref=naver",
-    "description": "‘재난대응 유무선 드론’은 재난현장의 실시간 중계와 복구작업 조명지원은 물론, 교통사고 후미 안전관리와 건설현장 안전 모니터링 등에 활용될 수 있다. 한편, 훈련 진행을 위해 이날부터 이틀간 중앙고속도로...",
-    "published_at": "2026-11-10T10:20:00+09:00",
-    "cluster_id": "774a",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "한국도로공사, 유관기관 합동 ‘2026년 폭설 재난대비 상시훈련’ 실시",
-    "summary": "한국도로공사가 2026년 폭설 재난에 대비하기 위해 유관기관과 합동훈련을 실시한다. 재난대응 유무선 드론을 활용하여 실시간 중계, 복구작업 조명, 교통안전 관리 등을 수행할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T10:31:35+09:00",
-    "importance": 2
   }
 ]
