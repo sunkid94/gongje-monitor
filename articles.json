@@ -20165,6 +20165,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "울산항 남신항 2단계 철재부두 건설 본격화 - ulsanpress.net",
+    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=586861",
+    "description": "UPA는 지역주민과 이해관계자의 의견을 수렴하고 건설현장 안전점검을 병행해 사업을 추진할 계획이다. 변재영 UPA 사장은 \"철재부두 건설은 울산항의 물류 처리 능력을 높여 지역경제에 활력을 불어넣는 핵심 사업...",
+    "published_at": "2026-11-15T21:42:00+09:00",
+    "cluster_id": "00ad",
+    "publisher": "ulsanpress.net",
+    "title_clean": "울산항 남신항 2단계 철재부두 건설 본격화",
+    "summary": "울산항 남신항 2단계 철재부두 건설이 본격화되며, UPA가 지역주민 의견 수렴과 안전점검을 병행하며 사업을 추진할 예정이다. 이 사업은 울산항의 물류 처리 능력 증대와 지역경제 활성화를 목표로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-15T21:49:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32224,22 +32240,6 @@
     "publisher": "biz.sbs.co.kr",
     "title_clean": "한수원, 대우건설 노조 주장 반박…\"추가 협상 기회 줬다\"",
     "summary": "한수원이 대우건설 노조의 체코 원전 계약 협상 일방 결렬 주장을 반박하며, 체코 측 요구보다 시한을 연장해 추가 협상 기회를 제공했다고 주장. 양측이 계약 협상 과정을 놓고 입장 차이를 보이고 있음.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T14:56:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원, 체코 원전 '특정 시공사 내정설' 반박 - sisaon.co.kr",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205951",
-    "description": "한국수력원자력(한수원)이 체코 두코바니 원전 사업의 시공사 협상 종료와 관련해 대우건설 노동조합이 제기한 '특정 시공사 사전 내정설'에 반박하고 나섰다. 한수원은 10일 설명자료를 내고 특정 건설사를 사전에...",
-    "published_at": "2026-11-10T14:48:00+09:00",
-    "cluster_id": "bd90",
-    "publisher": "sisaon.co.kr",
-    "title_clean": "한수원, 체코 원전 '특정 시공사 내정설' 반박",
-    "summary": "한수원이 체코 두코바니 원전 사업 시공사 협상 종료와 관련해 대우건설 노동조합의 '특정 시공사 사전 내정설' 주장에 반박했다. 한수원은 공정한 협상 절차를 진행했다고 설명했다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-10T14:56:03+09:00",
     "importance": 2
