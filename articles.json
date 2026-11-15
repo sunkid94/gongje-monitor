@@ -20168,6 +20168,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "남부발전 서성재 기술안전부사장 ‘제20회 소남PM상’ 수상 - 한국전력신문",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoOE5IbXlUS3VFUWNDMEYzVzlfT0J5S3lXR3djUi1WNVZnQ0lrNTREekVQRllpbWU3Ry1FY3pYV2VoenJTanREREdTYmlVdVQyc29JRzBSZzQ0R2xzU25OT19DNnYxNWJfeHc?oc=5",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBoOE5IbXlUS3VFUWNDMEYzVzlfT0J5S3lXR3djUi1WNVZnQ0lrNTREekVQRllpbWU3Ry1FY3pYV2VoenJTanREREdTYmlVdVQyc29JRzBSZzQ0R2xzU25OT19DNnYxNWJfeHc?oc=5\" target=\"_blank\">남부발전 서성재 기술안전부사장 ‘제20회 소남PM상’ 수상</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국전력신문</font>",
+    "published_at": "2026-11-15T23:58:35+09:00",
+    "cluster_id": "0b24",
+    "publisher": "한국전력신문",
+    "title_clean": "남부발전 서성재 기술안전부사장 ‘제20회 소남PM상’ 수상",
+    "summary": "남부발전의 서성재 기술안전부사장이 제20회 소남PM상을 수상했다. 이는 프로젝트 관리 분야의 우수성을 인정받은 개인 수상으로, 건설업계 전반에 직접적인 영향을 주지 않는 인사 관련 뉴스다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-16T00:09:28+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "울산항 남신항 2단계 철재부두 건설 본격화 - ulsanpress.net",
     "link": "https://www.ulsanpress.net/news/articleView.html?idxno=586861",
     "description": "UPA는 지역주민과 이해관계자의 의견을 수렴하고 건설현장 안전점검을 병행해 사업을 추진할 계획이다. 변재영 UPA 사장은 \"철재부두 건설은 울산항의 물류 처리 능력을 높여 지역경제에 활력을 불어넣는 핵심 사업...",
@@ -32227,21 +32243,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T14:56:03+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원, 대우건설 노조 주장 반박…\"추가 협상 기회 줬다\" - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000345413?division=NAVER",
-    "description": "한국수력원자력(한수원)은 체코 두코바니 원전 시공사 계약 협상을 일방적으로 결렬시켰다는 대우건설 노동조합의 주장에 대해 당초 체코 측 요구보다 시한을 연장하며 추가 협상 기회를 줬다고 반박했습니다. 한수원은...",
-    "published_at": "2026-11-10T14:49:00+09:00",
-    "cluster_id": "d066",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "한수원, 대우건설 노조 주장 반박…\"추가 협상 기회 줬다\"",
-    "summary": "한수원이 대우건설 노조의 체코 원전 계약 협상 일방 결렬 주장을 반박하며, 체코 측 요구보다 시한을 연장해 추가 협상 기회를 제공했다고 주장. 양측이 계약 협상 과정을 놓고 입장 차이를 보이고 있음.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T14:56:03+09:00",
-    "importance": 2
   }
 ]
