@@ -4165,6 +4165,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[이번주 재개발ㆍ재건축] 성수2지구 등 전국 9곳 시공사 선정 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151335196330107",
+    "description": "먼저 하안주공6ㆍ7단지 재건축 사업시행자 한국토지신탁이 21일 전체회의를 열어 우선협상대상자인 IPARK현대산업개발을 시공사로 선정하고, 앞서 오는 18일에는 하안주공5단지 재건축 사업시행자 한국자산신탁이...",
+    "published_at": "2026-11-16T05:20:00+09:00",
+    "cluster_id": "c226",
+    "publisher": "대한경제",
+    "title_clean": "[이번주 재개발ㆍ재건축] 성수2지구 등 전국 9곳 시공사 선정",
+    "summary": "성수2지구 등 전국 9곳의 재개발·재건축 사업에서 시공사가 선정되었다. 하안주공 단지들을 포함한 다수의 프로젝트에서 대형 건설사들이 시공권을 확보하며 건설 수주 기회가 증가하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-16T05:24:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20149,20 +20165,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "삼성重, 선박·데이터센터 전력시장 공략 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14d1J2dTZrV2JMZkUyanRQb1MzS1pVMElpeWJaVFAzQ2hxalpoREhzU1pHNDdzNE9BY1R0Q1Q4QloyRGJNZjNOUUtRNUZzbUZsd1ZfU3ozTDQtZw?oc=5",
-    "description": "삼성중공업이 일본 연료전지 전문기업과 손잡고 선박과 데이터센터에 적용할 수 있는 고체 산화물 연료전지 개발에 나선다.삼성중공업이 신제품으로 수주를 추진하고 있는 부유식 데이터센터에도 SOFC 적용을 검토한다.데이터센터는 안정적인 대규모 전력 확보가 핵심인..",
-    "published_at": "2026-11-09T18:14:19+09:00",
-    "cluster_id": "5e64",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "삼성重, 선박·데이터센터 전력시장 공략",
-    "summary": "삼성중공업이 일본 연료전지 기업과 협력하여 선박과 데이터센터용 고체 산화물 연료전지(SOFC) 개발에 나선다. 부유식 데이터센터 등 신제품에 SOFC 기술을 적용하여 새로운 시장을 개척하려는 전략이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T18:30:55+09:00",
-    "importance": 2
+    "title": "돈줄 다시 막혔다…전남광주 주택사업 회복 '먹구름' - jnilbo.com",
+    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082932",
+    "description": "전국 자금조달 전망까지 급격히 나빠져 지역 건설경기 회복에도 불확실성이 커지고 있다. 전남 81.8로 반등…전국 세 번째로 낮아 16일 주택산업연구원이 한국주택협회와 대한주택건설협회 회원사를 대상으로...",
+    "published_at": "2026-11-16T05:20:00+09:00",
+    "cluster_id": "ff8f",
+    "publisher": "jnilbo.com",
+    "title_clean": "돈줄 다시 막혔다…전남광주 주택사업 회복 '먹구름'",
+    "summary": "전국 자금조달 전망이 악화되면서 전남·광주 지역의 주택건설사업 회복에 불확실성이 증가하고 있다. 전남지역 건설경기 전망지수가 81.8로 반등했으나 전국 세 번째로 낮은 수준으로, 업계 자금난이 심화되는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T05:24:26+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 노동",
@@ -32227,21 +32243,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-10T15:00:29+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김미경 도의원, “GH 안전경영, 구호보다 현장의 기본 안전수칙 준수가 우선” - 하나로신문/일보",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YbUd0Ym1VbXB3VFJXLW0wTkZRTTl2RmRlWkhZRTZkY3VydFFGUW5KTHROWjA0YzZBb0pjOXZydGdROGdfcXBOdnJ5a0N4SGgtd19R?oc=5",
-    "description": "경기도의회 도시환경위원회 김미경 의원(더불어민주당, 광주4)은 10일(화) 경기주택도시공사(GH)에 대한 2026년도 행정사무감사에서 광주",
-    "published_at": "2026-11-10T14:52:08+09:00",
-    "cluster_id": "ab86",
-    "publisher": "하나로신문/일보",
-    "title_clean": "김미경 도의원, “GH 안전경영, 구호보다 현장의 기본 안전수칙 준수가 우선”",
-    "summary": "경기도의회 김미경 의원이 경기주택도시공사(GH)의 2026년 행정사무감사에서 안전경영의 구호적 접근보다 현장의 기본 안전수칙 준수를 강조했습니다. GH의 안전관리 체계 개선을 촉구하는 내용으로, 건설 현장의 안전 규제 강화를 의미합니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T15:00:29+09:00",
-    "importance": 4
   }
 ]
