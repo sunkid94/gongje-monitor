@@ -4182,6 +4182,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산에너빌리티, 발전사 고객과 AI 기반 운영·정비 기술 공유 - 세계일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mR1h1bFRqMXp6enZJendsYWhkcko2elluSlFTaHY0OUNLWnczM05wWTB6LWl3YU9DTWFvbUwzejhnQXhjWXdNTGsxNHZvdFdjWXNEb1JlSUY2akY0MXFVYTJqWTFFZEdfTnA40gFUQVVfeXFMT2pIUGstaHNpRVFtZ3Bsc1lQU20tazhnUWhqLUctb3p1X0lmN0kwd3QzTE5jdWdrTk9XTW92bUhHa2thdS04UHpRaUw2Y1d5c0RWb25J?oc=5",
+    "description": "두산에너빌리티가 인공지능(AI)을 접목한 첨단 발전설비 운영 및 정비 기술을 국내 발전사들과 공유하며 디지털 서비스 시장 공략과 고객 협력 강화에 나섰다. 두산에너빌리티는 지난 12일부터 이틀간 경남 창원 본사에서 국내 주요 발전사와 산학 전문가들을 초청해 ‘2026 발전운영기술교류회’를 개최했다고 15일 밝혔다. 발전운영기술교류회는 현장의 발전설비 운영 노하우와 최신 기술을 고객사와 나누기 위해 2022년부터 매년 열리고 있는 행사다.",
+    "published_at": "2026-11-15T10:54:54+09:00",
+    "cluster_id": "a3e0",
+    "publisher": "세계일보",
+    "title_clean": "두산에너빌리티, 발전사 고객과 AI 기반 운영·정비 기술 공유",
+    "summary": "두산에너빌리티가 AI 기반 발전설비 운영·정비 기술을 국내 발전사들과 공유하는 '2026 발전운영기술교류회'를 개최했다. 첨단 기술 확보와 고객 협력 강화를 통해 디지털 서비스 시장 공략에 나서고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-15T11:28:12+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20166,19 +20182,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "가덕도신공항 부지조성 실시설계 착수… 내년 상반기 본공사 - newscj.com",
-    "link": "https://www.newscj.com/news/articleView.html?idxno=3447239",
-    "description": "국토교통부와 가덕도신공항건설공단은 부지조성공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의를 거쳐 실시설계를 시작한다고 9일 밝혔다. 지난 9월 기본설계를 마쳤지만 중동전쟁 여파로 공사비 조정 문제가...",
-    "published_at": "2026-11-09T17:22:00+09:00",
-    "cluster_id": "b9c9",
-    "publisher": "newscj.com",
-    "title_clean": "가덕도신공항 부지조성 실시설계 착수… 내년 상반기 본공사",
-    "summary": "국토교통부와 가덕도신공항건설공단이 대우건설 컨소시엄과 부지조성공사 실시설계를 착수하며 내년 상반기 본공사를 추진한다. 기본설계 완료 후 중동전쟁 여파로 공사비 조정 협의 중이다.",
+    "title": "LH, 공공주택 공급 속도 높인다…민간 참여 확대 - 4th.kr",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2121889",
+    "description": "건설경기 침체에 대응한 지원 방안도 논의됐다. 협회는 장기간 이어진 부동산 경기 침체와 공사비 상승, 높은 금융비용으로 업계의 어려움이 커졌다며 주택공급 물량 확대와 함께 다양한 지원책을 마련해 달라고...",
+    "published_at": "2026-11-15T11:22:00+09:00",
+    "cluster_id": "a4f6",
+    "publisher": "4th.kr",
+    "title_clean": "LH, 공공주택 공급 속도 높인다…민간 참여 확대",
+    "summary": "LH가 공공주택 공급을 확대하고 민간 참여를 늘리는 방안을 추진 중이다. 건설업계는 부동산 경기 침체, 공사비 상승, 높은 금융비용으로 어려움을 겪고 있으며 정부의 지원책 확대를 요청했다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-09T17:31:35+09:00",
+    "collected_at": "2026-11-15T11:28:12+09:00",
     "importance": 2
   },
   {
@@ -32228,21 +32244,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T12:45:35+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"9월 건설수주 49% 급증, 체감경기는 여전히 냉랭한 이유는?\" - gokorea.kr",
-    "link": "https://www.gokorea.kr/news/articleView.html?idxno=884915",
-    "description": "지난 9월 국내 건설수주가 대형 사업의 활기에 힘입어 작년 같은 기간에 비해 49% 증가했으나, 건설업계의 체감경기는 여전히 악화되는 양상을 보였다. 한국건설산업연구원이 발표한 자료에 따르면, 9월의 건설수주는...",
-    "published_at": "2026-11-10T12:40:00+09:00",
-    "cluster_id": "9177",
-    "publisher": "gokorea.kr",
-    "title_clean": "\"9월 건설수주 49% 급증, 체감경기는 여전히 냉랭한 이유는?\"",
-    "summary": "9월 건설수주가 49% 급증하며 대형 사업 활기를 보였으나, 건설업계의 체감경기는 계속 악화되는 모순적 상황이 발생했다. 수주 수치 개선에도 불구하고 실제 현장과 업계 경영 상황은 여전히 어려움을 겪고 있는 것으로 나타났다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T12:45:35+09:00",
-    "importance": 2
   }
 ]
