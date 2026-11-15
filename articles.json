@@ -20185,6 +20185,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "숫자는 호황, 현장은 불황… 韓 건설업계 'K자형 양극화' 그늘 - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=300824",
+    "description": "건설경기의 진짜 회복은 지방 주택시장 회복과 중소 건설사 생존환경 개선에 달려 있다. 전체 건설산업의 현재는 생태계 균열이 가속화되고 있음을 직시할 필요가 있다. 건설 분야 협단체 관계자는 이 같은 현상에 대해...",
+    "published_at": "2026-11-15T09:00:00+09:00",
+    "cluster_id": "63f6",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "숫자는 호황, 현장은 불황… 韓 건설업계 'K자형 양극화' 그늘",
+    "summary": "건설업계가 전체 수주 실적 등 거시지표는 호황이나 지방 주택시장 침체와 중소 건설사 경영난으로 현장 불황이 심화되는 'K자형 양극화'를 보이고 있다. 대형사와 중소사 간 생태계 균열이 가속화되고 있어 건설산업 전반의 구조적 문제 개선이 시급한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T09:02:44+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "[페로칼럼] 철강산업법, 이제는 실효성으로 답해야 한다 - ferrotimes.com",
     "link": "http://www.ferrotimes.com/news/articleView.html?idxno=51473",
     "description": "중국발 공급과잉과 저가 수입재 공세, 미국의 고율 관세와 각국의 보호무역주의, 국내 건설경기 부진까지 악재가 겹쳤다. 여기에 탄소중립 전환이라는 막대한 투자 부담까지 떠안고 있다. 일시적인 경기 침체가 아니라 산업...",
@@ -32227,22 +32243,6 @@
     "summary": "고양특례시가 정부의 2차 공공기관 지방이전 계획 속에서 한국건설기술연구원의 고양 잔류를 촉구하고 있다. 경기 북부 지역의 건설산업 발전과 상생을 위해 건설연의 현지 유지 필요성을 강조하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-10T11:25:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한국도로공사, 폭설 복합재난 상시훈련 실시…로봇·드론 동원 - choicenews.co.kr",
-    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=173056",
-    "description": "교통사고 현장 후미의 안전관리와 건설현장 안전 모니터링 등에도 사용할 수 있다. 지상에서 파악하기 어려운 차량 정체와 사고 현장의 전반적인 상황을 확인하고, 어두운 환경에서 작업을 지원하는 수단이다....",
-    "published_at": "2026-11-10T11:02:00+09:00",
-    "cluster_id": "0d43",
-    "publisher": "choicenews.co.kr",
-    "title_clean": "한국도로공사, 폭설 복합재난 상시훈련 실시…로봇·드론 동원",
-    "summary": "한국도로공사가 폭설 등 복합재난 대응을 위해 로봇과 드론을 동원한 상시훈련을 실시하고 있다. 드론과 로봇은 교통사고 후미 안전관리, 건설현장 모니터링, 차량 정체 상황 파악 등에 활용되며 어두운 환경에서의 작업 지원을 가능하게 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T11:11:11+09:00",
     "importance": 2
   }
 ]
