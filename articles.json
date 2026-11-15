@@ -20165,6 +20165,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "체코 원전 시공사 교체 논란… ‘결렬 과정’ 청문회로 번지나 - seoul.co.kr",
+    "link": "https://www.seoul.co.kr/news/economy/industry/2026/11/16/20261116032004?wlog_tag3=naver",
+    "description": "대우건설 노동조합은 지난 9일 한수원이 협상 결렬 발표 전부터 특정 건설사로 시공사 교체를 계획했다는 의혹을 제기했다. 이에 한수원은 특정 건설사를 신규 시공사로 사전에 정한 사실이 없다고 반박했다. 청문회가...",
+    "published_at": "2026-11-16T05:05:00+09:00",
+    "cluster_id": "8949",
+    "publisher": "seoul.co.kr",
+    "title_clean": "체코 원전 시공사 교체 논란… ‘결렬 과정’ 청문회로 번지나",
+    "summary": "체코 원전 프로젝트 시공사 교체 논란으로 대우건설 노조와 한수원이 대립하고 있다. 협상 결렬 전 사전에 특정 건설사로의 교체가 계획됐는지 여부를 두고 의혹과 반박이 이어지고 있으며, 청문회로 번질 가능성이 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T05:09:29+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32227,21 +32243,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T15:00:29+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[아유경제_가로주택정비] 성북동 300-5 일대 가로주택정비, 시공자 탐색... - areyou.co.kr",
-    "link": "http://www.areyou.co.kr/news/articleView.html?idxno=96215",
-    "description": "일반경쟁입찰 방식으로 진행되는 이번 입찰에 참여를 원하는 업체는 「건설산업기본법」에 따른 토목공사업과 건축공사업 면허를 겸유하거나 토목건축공사업 면허를 보유한 업체 「건설산업기본법」에 따른...",
-    "published_at": "2026-11-10T14:46:00+09:00",
-    "cluster_id": "d950",
-    "publisher": "areyou.co.kr",
-    "title_clean": "[아유경제_가로주택정비] 성북동 300-5 일대 가로주택정비, 시공자 탐색...",
-    "summary": "서울 성북동 300-5 일대에서 가로주택정비사업을 추진하며 일반경쟁입찰 방식으로 시공자를 모집 중입니다. 토목공사업과 건축공사업 면허를 겸유하거나 토목건축공사업 면허를 보유한 업체가 입찰에 참여할 수 있습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-10T14:56:03+09:00",
-    "importance": 2
   }
 ]
