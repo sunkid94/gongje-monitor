@@ -4165,6 +4165,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'원팀 수출' 맞춰 전략 손보는 한수원…2040 경영계획 수립 착수 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005656",
+    "description": "최근 체코 두코바니 5·6호기 건설사업은 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상이 결렬되면서 현재 신규 시공사 선정을 준비 중이다. 한수원은 2027년 7월까지 새 시공사를 선정하고, 2029년 11월 착공 등...",
+    "published_at": "2026-11-15T17:24:00+09:00",
+    "cluster_id": "272a",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "'원팀 수출' 맞춰 전략 손보는 한수원…2040 경영계획 수립 착수",
+    "summary": "한수원이 2040 경영계획 수립을 착수하며 원전 수출 전략을 강화하고 있다. 체코 두코바니 원전 건설사업은 기존 시공사와의 계약이 결렬되어 2027년까지 새 시공사 선정을 진행 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-15T17:29:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20145,22 +20161,6 @@
     "title_clean": "[산청소식]신등면 사정마을회관 준공식 개최 등",
     "summary": "산청소방서가 삼성중공업 인재개발원을 방문하여 겨울철 화재 예방을 위한 현장지도를 실시했다. 화재 위험이 높아지는 시기에 화재취약대상에 대한 안전점검 활동을 추진한 것이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-09T18:00:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "국토부, 가덕도신공항 실시설계 착수···공사비 협상 계속 - koreastocknews.com",
-    "link": "http://www.koreastocknews.com/news/articleView.html?idxno=122173",
-    "description": "9일 국토교통부와 가덕도신공항건설공단에 따르면 양 기관은 부지조성공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의를 거쳐 실시설계에 착수했다. 앞서 대우건설 컨소시엄은 지난 9월 기본설계 적격 판정을...",
-    "published_at": "2026-11-09T17:52:00+09:00",
-    "cluster_id": "7205",
-    "publisher": "koreastocknews.com",
-    "title_clean": "국토부, 가덕도신공항 실시설계 착수···공사비 협상 계속",
-    "summary": "국토부와 가덕도신공항건설공단이 대우건설 컨소시엄과 협의하여 부지조성공사 실시설계를 착수했다. 공사비 협상은 계속 진행 중이며, 대우건설 컨소시엠은 기본설계 적격 판정을 받은 상태다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-09T18:00:56+09:00",
     "importance": 2
   },
