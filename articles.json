@@ -20165,6 +20165,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "전기공사 입찰·하도급 부정청탁 제재 추진…영업정지 대체 과징금도 손... - energydaily.co.kr",
+    "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=205107",
+    "description": "비교 대상으로 제시한 상한은 건설산업기본법 1억원, 정보통신공사업법 3000만원, 소방시설공사업법 2억원이다. 다만 업종 전체 매출과 과징금 상한만으로 적정 수준을 정하기는 어렵다. 위반으로 얻은 이익과 반복 여부...",
+    "published_at": "2026-11-15T18:52:00+09:00",
+    "cluster_id": "ab58",
+    "publisher": "energydaily.co.kr",
+    "title_clean": "전기공사 입찰·하도급 부정청탁 제재 추진…영업정지 대체 과징금도 손...",
+    "summary": "정부가 전기공사 입찰·하도급 부정청탁에 대한 제재 기준을 강화하고 있으며, 영업정지 대신 과징금 처벌도 검토 중이다. 건설산업기본법 등 유사 업종의 과징금 상한(3,000만원~2억원)을 참고하여 적정 수준을 결정할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T18:59:27+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32225,22 +32241,6 @@
     "title_clean": "대한건설협회, 미래 건설인에 첨단기술 체험 기회 제공",
     "summary": "대한건설협회가 전국 건설 관련 학과 대학생 30여 명을 대상으로 '제2차 미래 건설인 스마트건설' 프로그램을 개최했다. 강의실에서 경험하기 어려운 스마트건설 기술과 현장 운영 과정을 직접 체험할 수 있는 기회를 제공했다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-10T14:50:49+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "대우건설 국토교통부 공문 받고 가덕도신공항 실시설계 착수, 공사비 증액 확약은 아직 못 받아 - 허프포스트코리아",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hMnY2d3RYS3BfTy1mMk94SEhjRUtWOUwxLWk5RkhqeWFCSno0TklZaFRmTWdnMkVTdjEzczNBazRKVnQ5Y01idnhzRUJ0RWtsZ29aNktxWQ?oc=5",
-    "description": "가덕도신공항 부지조성공사가 공사비 문제를 매듭짓지 못한 채 실시설계부터 들어갔다. 정부가 전쟁에 따른 공사비 상승을 불가항력 사유로 인정하고, 관련 법 개정이 무산되더라도 물가 상승분을 반영할 대책을 마련하겠다는 입장을 전달하면서 대우건설 컨소시엄이 설계에 착수한 것이",
-    "published_at": "2026-11-10T13:59:06+09:00",
-    "cluster_id": "ebad",
-    "publisher": "허프포스트코리아",
-    "title_clean": "대우건설 국토교통부 공문 받고 가덕도신공항 실시설계 착수, 공사비 증액 확약은 아직 못 받아",
-    "summary": "가덕도신공항 부지조성공사가 공사비 증액 확약 없이 실시설계에 착수했다. 정부는 전쟁 등 불가항력 사유로 인한 공사비 상승을 인정하고 물가 상승분 반영 대책을 마련하겠다는 입장을 전달했으나, 구체적 합의는 아직 이루어지지 않았다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-10T14:50:49+09:00",
     "importance": 2
   }
