@@ -20165,6 +20165,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "고소작업대와 철골 용접 동선이 겹쳤다 — 안성 추락 사망이 현장 사업주에게 보내는 경고 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNWtSRF9VeVBpSjZWU0VsaHZRNjZwcnlBeFVQOFJ4blNjU0xqSlN4cTJPM0QxNEhyMF9icnVsTG1nSThtTFdGQnBsLWtOeFZMVGxV?oc=5",
+    "description": "철골 용접과 리프트 동선이 겹친 현장 2026년 11월 7일 오전 10시 22분, 경기 안성의 한 공장 증축 공사 현장에서 철골 위에서 용접 작업을 하던 근로자 1명이 고소작업대(가위형 리프트)에 충돌한 뒤 추락해 숨졌다. 사고 당시 작업자는 안전대 등 보호 장치를 착용하지 않은 상태였고, 이동 중이던 가위형 리프트가 작업자에게 직접 접근하는 상황을 사전에",
+    "published_at": "2026-11-15T19:14:55+09:00",
+    "cluster_id": "5791",
+    "publisher": "유스연합",
+    "title_clean": "고소작업대와 철골 용접 동선이 겹쳤다 — 안성 추락 사망이 현장 사업주에게 보내는 경고",
+    "summary": "경기 안성의 공장 증축 공사 현장에서 철골 용접 작업 중인 근로자가 고소작업대와 충돌해 추락 사망한 사고 발생. 작업자가 안전대 미착용 상태였고 동선 관리 부실이 원인으로 지적되며 건설 현장의 안전관리 강화 필요성 제기.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T19:29:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32227,21 +32243,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T14:50:49+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대한건설협회, 미래 건설인에 첨단기술 체험 기회 제공 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502748",
-    "description": "강의실에서 접하기 어려운 스마트건설 기술과 현장 운영 과정을 직접 확인할 수 있는 기회가 마련됐다. 대한건설협회는 지난 6일 전국 건설 관련 학과 대학생 등 30여 명을 대상으로 '제2차 미래 건설인 스마트건설...",
-    "published_at": "2026-11-10T14:46:00+09:00",
-    "cluster_id": "29ff",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "대한건설협회, 미래 건설인에 첨단기술 체험 기회 제공",
-    "summary": "대한건설협회가 전국 건설 관련 학과 대학생 30여 명을 대상으로 '제2차 미래 건설인 스마트건설' 프로그램을 개최했다. 강의실에서 경험하기 어려운 스마트건설 기술과 현장 운영 과정을 직접 체험할 수 있는 기회를 제공했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-10T14:50:49+09:00",
-    "importance": 2
   }
 ]
