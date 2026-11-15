@@ -4165,6 +4165,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[현장] \"예쁜지보다 안전부터\"…참사 딛고 입주 앞둔 화정 아이파크 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261115028000054?input=1195m",
+    "description": "조사 결과 콘크리트 지지대 임의 설치와 하부 동바리 조기 철거 등이 주요 원인으로 지목됐고, HDC현대산업개발은 지상 주거층을 철거해 다시 짓는 과정에서 단지 이름도 센테니얼 아이파크로 바꿨다. 형사재판에서는...",
+    "published_at": "2026-11-15T13:49:00+09:00",
+    "cluster_id": "dc1f",
+    "publisher": "yna.co.kr",
+    "title_clean": "[현장] \"예쁜지보다 안전부터\"…참사 딛고 입주 앞둔 화정 아이파크",
+    "summary": "화정 아이파크 붕괴 참사의 원인이 콘크리트 지지대 임의 설치와 하부 동바리 조기 철거로 확인되었다. HDC현대산업개발이 지상 주거층을 철거 후 재건설하며 단지명을 센테니얼 아이파크로 변경했고, 형사재판이 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T13:53:56+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20147,22 +20163,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-09T17:40:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "김정관 장관 \"체코 원전 무산은 안 돼\"...시공계약 결렬에도 사업 추진... - joongangenews.com",
-    "link": "https://www.joongangenews.com/news/articleView.html?idxno=562445",
-    "description": "한국수력원자력과 대우건설·두산에너빌리티 컨소시엄이 공사비 등을 놓고 합의에 이르지 못하면서 사업 차질 우려가 커지자 정부 차원의 대응 의지를 밝힌 것이다. 김 장관은 9일 국회 산업통상자원중소벤처기업위원회...",
-    "published_at": "2026-11-09T17:26:00+09:00",
-    "cluster_id": "5d92",
-    "publisher": "joongangenews.com",
-    "title_clean": "김정관 장관 \"체코 원전 무산은 안 돼\"...시공계약 결렬에도 사업 추진...",
-    "summary": "체코 원전 사업의 시공계약 결렬로 차질 우려가 커지자, 정부가 사업 추진 의지를 표명했다. 한국수력원자력과 대우건설·두산에너빌리티 컨소시엄이 공사비 합의 실패로 대립 중인 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-09T17:31:35+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
