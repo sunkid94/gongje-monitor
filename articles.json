@@ -4182,6 +4182,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[대우건설의 해법, 콘크리트는 어떻게 숲과 공존하는가①] 발상의 전환... - econovill.com",
+    "link": "https://www.econovill.com/news/articleView.html?idxno=755760",
+    "description": "이에 대우건설은 단순한 시공 구조물 공급자의 위치에 안주하지 않고, 친환경 가치를 최우선으로 두는 '지속가능 설루션 기업'으로의 대전환을 전격 선언했다. 업계에서는 대우건설이 친환경 전략을 경영의 최우선...",
+    "published_at": "2026-11-15T09:30:00+09:00",
+    "cluster_id": "c5c2",
+    "publisher": "econovill.com",
+    "title_clean": "[대우건설의 해법, 콘크리트는 어떻게 숲과 공존하는가①] 발상의 전환...",
+    "summary": "대우건설이 단순 시공업체에서 친환경 가치를 중심으로 하는 '지속가능 설루션 기업'으로의 경영 대전환을 선언했다. 건설업계에서 친환경 전략을 경영 최우선으로 삼는 사례로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-15T09:32:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20162,22 +20178,6 @@
     "title_clean": "두산, 3분기 영업익 4594억원…AI·계열사 성장에 실적 개선",
     "summary": "두산에너빌리티가 3분기 영업이익 2,612억 원으로 전년 동기 대비 90.6% 증가하며 실적을 크게 개선했다. AI와 계열사 성장에 힘입어 3분기 누적 수주는 9조 9,990억 원을 기록했다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-09T17:10:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "발전설비 직접 사들이는 빅테크···국내 업체 수주 기회 커질까 - sisajournal-e.com",
-    "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424897",
-    "description": "두산에너빌리티도 대규모 전력을 안정적으로 공급할 수 있는 380MW급 가스터빈을 잇달아 수주하며 현지 시장 공략에 나서고 있다. 다만 빅테크의 직접 조달 확대가 국내 업체들의 추가 수주로 이어질지는 지켜봐야 한다는...",
-    "published_at": "2026-11-09T17:02:00+09:00",
-    "cluster_id": "628e",
-    "publisher": "",
-    "title_clean": "발전설비 직접 사들이는 빅테크···국내 업체 수주 기회 커질까 - sisajournal-e.com",
-    "summary": "빅테크 기업들이 발전설비를 직접 구매하면서 두산에너빌리티 등 국내 업체들의 수주 기회가 증가하고 있다. 다만 이러한 호황이 실제 추가 수주로 이어질지는 불확실한 상황이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-09T17:10:59+09:00",
     "importance": 2
   },
