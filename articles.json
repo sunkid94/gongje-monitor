@@ -20182,6 +20182,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천해수청, 건설공사 안전점검 수행기관 모집 - 기호일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1id3VzWXZidVR2WjVEWWVOYko3UWVRM25DUms1eGFNeDZqR3hrSlpSYlEtcVRjWmhEaDVzZDNRUGNrSlhVdmY3cVRwSjJnNlFwY3NpS0dhSGZIcEtOcnBWX1FIMndsbndhdUlCZGMyNA?oc=5",
+    "description": "인천지방해양수산청은 해양수산분야 건설공사의 안전사고를 예방하고 체계적인 안전관리 체계를 구축하기 위해 건설공사 안전점검 수행기관을 공개 모집한다고 15일 알렸다.",
+    "published_at": "2026-11-15T11:36:19+09:00",
+    "cluster_id": "b8d8",
+    "publisher": "기호일보",
+    "title_clean": "인천해수청, 건설공사 안전점검 수행기관 모집",
+    "summary": "인천해수청이 해양수산분야 건설공사의 안전사고 예방을 위해 안전점검 수행기관을 공개 모집한다. 이는 체계적인 안전관리 체계 구축을 목표로 하는 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T11:43:02+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32228,21 +32244,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T12:50:44+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "겨울철 건설 안전 '내한 콘크리트' 혁신, GS건설의 품질 관리 전략 - 공감신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ncVdRSXJzS1htX2dQdmVPWXZKWFBjTEZaTzJCTTRjMjVLWUhDem9XNmFqdGM4NlNZRVp4aTJsZXlHeGcwVWdZSU9QQW9Ra0FOUE1MTXZRSERyRVhCWGQxZkpaTTY2ZUk?oc=5",
-    "description": "[공감신문] 이혜정 기자=GS건설은 겨울철 기온이 낮아짐에 따라 콘크리트 품질 관리를 강화하기 위해 레미콘 공장의 성능 검증을 진행하고 있다. 이는 내한 콘크리트의 품질 리스크를 사전에 차단하기 위한 조치로, 기준을 충족하지 못하는 공장은 납품이 제한될 예정이다.GS건설은 지난달부터",
-    "published_at": "2026-11-10T12:39:59+09:00",
-    "cluster_id": "76a4",
-    "publisher": "공감신문",
-    "title_clean": "겨울철 건설 안전 '내한 콘크리트' 혁신, GS건설의 품질 관리 전략",
-    "summary": "GS건설이 겨울철 콘크리트 품질 관리 강화를 위해 레미콘 공장의 성능 검증을 추진 중이다. 기준 미충족 공장은 납품을 제한하는 등 내한 콘크리트의 품질 리스크를 사전에 차단하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T12:50:44+09:00",
-    "importance": 2
   }
 ]
