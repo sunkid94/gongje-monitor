@@ -20185,6 +20185,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "LH·한국주택협회, 공공주택 공급 속도 높인다…민간 건설업계와 협력 ... - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=119880",
+    "description": "건설경기 침체에 따른 업계의 경영 부담을 완화하고 사업 참여를 확대하기 위한 지원책도 논의됐다. 장기간 이어진 부동산 경기 위축과 공사비 상승, 금융비용 증가 등이 민간 건설사의 신규 사업 참여를 제약하고 있는...",
+    "published_at": "2026-11-15T09:50:00+09:00",
+    "cluster_id": "6a5c",
+    "publisher": "businessplus.kr",
+    "title_clean": "LH·한국주택협회, 공공주택 공급 속도 높인다…민간 건설업계와 협력 ...",
+    "summary": "LH와 한국주택협회가 공공주택 공급을 확대하기 위해 민간 건설업계와 협력을 강화한다. 장기 경기 침체와 공사비·금융비용 상승으로 어려움을 겪는 건설사들을 지원하는 방안을 논의 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-15T09:57:57+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - etoday.co.kr",
     "link": "https://www.etoday.co.kr/news/view/2648223",
     "description": "건설경기 침체와 공사비 상승 등으로 민간의 사업 참여 여건이 악화한 가운데 공사비 현실화와 제도개선 등을 통해 공급 속도를 높인다는 방침이다. LH는 13일 서울 강남구 건설회관에서 한국주택협회와 주택공급 간담회를...",
@@ -32227,22 +32243,6 @@
     "summary": "한수원이 체코 원전 협상 종결 시점을 대우건설에 사전 공유했다고 주장하며 일방적 협상 결렬 의혹을 반박했다. 양측은 협상 진행 과정과 투명성을 두고 계속 대립 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-10T12:05:32+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "9월 건설수주 49% 증가에도 체감경기↓…건설고용 29개월째 감소 - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261110088900003?input=1195m",
-    "description": "반도체 시설 등 대형 사업에 수주 증가…주거용 건축기성 8.8%↓ 10월 건설경기지수 70.6…중소기업·지방 체감경기 부진 지난 9월 국내 건설수주가 반도체 생산시설 등 대형 민간 사업에 힘입어 작년 동월 대비 49...",
-    "published_at": "2026-11-10T11:47:00+09:00",
-    "cluster_id": "2da4",
-    "publisher": "yna.co.kr",
-    "title_clean": "9월 건설수주 49% 증가에도 체감경기↓…건설고용 29개월째 감소",
-    "summary": "9월 건설수주가 반도체 시설 등 대형 민간사업으로 49% 증가했으나, 주거용 건축기성은 8.8% 감소하고 건설고용이 29개월째 감소하는 등 체감경기는 부진 중입니다. 중소기업과 지방의 경기 부진이 심화되고 있는 상황입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T12:01:18+09:00",
     "importance": 4
   }
 ]
