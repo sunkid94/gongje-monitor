@@ -20185,6 +20185,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "LH, 공공주택 공급 확대 민간과 협력 강화…공사비 현실화 추진 - socialvalue.kr",
+    "link": "https://www.socialvalue.kr/news/view/1065573328191213",
+    "description": "▲13일 한국토지주택공사(LH)와 한국주택협회 관계자들이 서울 강남구 건설회관에서 열린 주택공급 간담회에서 기념촬영을 하고 있다./사진=LH 제공 이날 간담회에서는 건설경기 침체에 따른 업계 부담을 줄이고...",
+    "published_at": "2026-11-15T10:50:00+09:00",
+    "cluster_id": "35c6",
+    "publisher": "socialvalue.kr",
+    "title_clean": "LH, 공공주택 공급 확대 민간과 협력 강화…공사비 현실화 추진",
+    "summary": "LH가 공공주택 공급 확대를 위해 민간 건설사와의 협력을 강화하고 공사비 현실화를 추진하고 있다. 건설경기 침체로 인한 업계 부담 완화를 목표로 한국주택협회와 간담회를 개최했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-15T10:53:14+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "LH, 민간 건설업계와 협력 강화…공공주택 공급 속도 높인다 - gukjenews.com",
     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3752261",
     "description": "공급 물량을 늘리는 것뿐 아니라 여러 지원 방안을 함께 마련해달라는 요구로, 건설경기 침체로 무거워진 업계의 경영 부담을 덜어줄 방법이 논의 대상에 올랐다. 사업 참여 조건에 관한 건의도 이어졌다. 업계는 지방...",
@@ -32228,21 +32244,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T12:11:24+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시 - ekn.kr",
-    "link": "https://www.ekn.kr/web/view.php?key=20261110021437686",
-    "description": "2018년 고양에 문을 연 건설연 스마트건설지원센터 입주기업은 2020년 24개에서 2025년 50개로, 고용 인원은 153명에서 342명으로 늘었다. 매출액은 3억6000만원에서 398억원으로 뛰었다. 앞으로 고양시와 건설연이 함께 그려나갈...",
-    "published_at": "2026-11-10T12:02:00+09:00",
-    "cluster_id": "3e15",
-    "publisher": "ekn.kr",
-    "title_clean": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-    "summary": "고양시 스마트건설지원센터의 입주기업이 2020년 24개에서 2025년 50개로 증가했으며, 고용 인원과 매출액도 각각 2배 이상 성장했다. 건설연과 고양시가 협력하여 건설산업 생태계 조성 및 성장을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-10T12:11:24+09:00",
-    "importance": 2
   }
 ]
