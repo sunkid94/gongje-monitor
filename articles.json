@@ -4182,6 +4182,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[AI를 쓴 인간]② AI가 AI 연구를 두 배로… - newsclaim.co.kr",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082692",
+    "description": "한국토지주택공사(LH)는 대우건설 컨소시엄을 1공구 시공사로 정하고 10월 우선구역 착공 일정을 잡았다. METR은 보고서에서 앞으로 진전이 더 빨라질 수 있는 상당한 위험이 있다고 적었다.",
+    "published_at": "2026-11-15T11:50:00+09:00",
+    "cluster_id": "3f20",
+    "publisher": "newsclaim.co.kr",
+    "title_clean": "[AI를 쓴 인간]② AI가 AI 연구를 두 배로…",
+    "summary": "LH가 대우건설 컨소시엄을 1공구 시공사로 선정하고 10월 우선구역 착공을 예정했다. 다만 METR은 보고서에서 향후 진전이 더 빨라질 수 있는 상당한 위험 요소가 있다고 지적했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-15T11:58:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20166,19 +20182,19 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "협상 결렬된 체코 원전…산업장관 \"무산 안 되게 할 것\" - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000345197?division=NAVER",
-    "description": "앞서 한국수력원자력은 지난달 29일 대우건설·두산에너빌리티 컨소시엄과의 체코 두코바니 원전 건설사업의 시공계약 협상을 종료한다고 밝혔습니다. 양측은 공사비와 계약방식, 업무 범위 등 주요 조건을 놓고 이견을...",
-    "published_at": "2026-11-09T17:18:00+09:00",
-    "cluster_id": "e1f6",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "협상 결렬된 체코 원전…산업장관 \"무산 안 되게 할 것\"",
-    "summary": "한국수력원자력이 대우건설·두산에너빌리티 컨소시엄과의 체코 두코바니 원전 건설사업 시공계약 협상을 종료했다. 공사비와 계약방식, 업무 범위 등을 놓고 이견이 있었으며, 산업장관은 사업 무산을 막기 위해 노력할 것을 표명했다.",
+    "title": "[인터뷰] 장정민 옹진군수, 햇빛과 바람에서 섬의 미래를 찾다 - incheonnews.com",
+    "link": "http://www.incheonnews.com/news/articleView.html?idxno=443048",
+    "description": "장 군수는 건설경기 침체로 바닷모래 채취 관련 수입이 감소하면서 군 재정에도 어려움이 커지고 있다고 설명했다. 바닷모래 채취 수입은 건설경기와 채취 여건에 따라 변동하지만 섬 지역의 행정서비스를 유지하기 위한...",
+    "published_at": "2026-11-15T11:50:00+09:00",
+    "cluster_id": "e7e9",
+    "publisher": "incheonnews.com",
+    "title_clean": "[인터뷰] 장정민 옹진군수, 햇빛과 바람에서 섬의 미래를 찾다",
+    "summary": "옹진군수는 건설경기 침체로 바닷모래 채취 수입이 감소하면서 군 재정 어려움이 커지고 있다고 설명했다. 섬 지역의 행정서비스 유지를 위해 신재생에너지(햇빛, 바람) 사업으로 지역의 미래를 모색하고 있다.",
     "sentiment": "negative",
-    "collected_at": "2026-11-09T17:31:35+09:00",
+    "collected_at": "2026-11-15T11:58:05+09:00",
     "importance": 4
   },
   {
@@ -32228,21 +32244,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-10T12:55:29+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 호황에도 건설업계 고용 한파 지속 - 미디어시시비비",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YVktZeDZRSXlMOFRJTHd5ZGItS2RpVjVxWWVGR3YyMFNWSlEzWWNvSmZwc0pzc0xTRFlodU1TOWxyRUZwd1hkNzl4VjBYOHZtR3lwLVdGLTV6YktWRGhHV2JNU3RTVEhkYzlVem85a0VtZw?oc=5",
-    "description": "9월 건설수주, 대형 민간 사업 덕에 49% 급증주거용 건축 실적 감소, 고용 29개월 연속 하락공사비 상승, 소비자물가 상승률의 두 배 기록중소·지방 건설기업, 대금 회수와 자금조달 어려움",
-    "published_at": "2026-11-10T11:38:19+09:00",
-    "cluster_id": "1db2",
-    "publisher": "미디어시시비비",
-    "title_clean": "반도체 호황에도 건설업계 고용 한파 지속",
-    "summary": "9월 건설수주가 대형 민간 사업으로 49% 급증했으나, 주거용 건축 실적은 감소하고 고용은 29개월 연속 하락세를 기록했다. 공사비 상승으로 중소·지방 건설기업의 자금조달과 대금 회수 곤란이 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T12:50:44+09:00",
-    "importance": 4
   }
 ]
