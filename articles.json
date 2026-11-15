@@ -20165,6 +20165,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "‘창원산단 핵심’ 기계업 장기 침체… 수출 급감·경영난 이중고 - knnews.co.kr",
+    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1555111",
+    "description": "미국 트럼프 행정부의 관세정책으로 통상 불확실성이 커진 데다 자동차와 건설경기 둔화, 중국을 비롯한 글로벌 수요 위축이 겹친 영향으로 풀이된다. 창원산단 영진테크 박근종 대표는 “공작기계는 자동차 분야...",
+    "published_at": "2026-11-15T21:18:00+09:00",
+    "cluster_id": "d465",
+    "publisher": "knnews.co.kr",
+    "title_clean": "‘창원산단 핵심’ 기계업 장기 침체… 수출 급감·경영난 이중고",
+    "summary": "창원산단 기계업계가 미국 트럼프 관세정책, 자동차·건설경기 둔화, 글로벌 수요 위축으로 장기 침체에 빠졌다. 수출 급감과 경영난이 동시에 발생하면서 산업 전반이 어려움을 겪고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T21:24:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32224,22 +32240,6 @@
     "publisher": "sisaon.co.kr",
     "title_clean": "한수원, 체코 원전 '특정 시공사 내정설' 반박",
     "summary": "한수원이 체코 두코바니 원전 사업 시공사 협상 종료와 관련해 대우건설 노동조합의 '특정 시공사 사전 내정설' 주장에 반박했다. 한수원은 공정한 협상 절차를 진행했다고 설명했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T14:56:03+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "9월 건설수주 49% 급증했지만 일자리 감소는 29개월째 : 경제 - 재경일보",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50UlgyODFnaHdIVE5CcHo2VGpKanZDMm9POTZXUFJ6VFMxQ25xbTRRcDdoWVptTjdybHpSdGhfUEFSU2JHN1pybDB2QQ?oc=5",
-    "description": "지난 9월 국내 건설수주가 반도체 생산시설 등 대형 민간 사업에 힘입어 지난해 같은 달보다 49.3% 늘었다. 그러나 주거용 건축 실적과 건설업 취업자는 감소했고, 건설기업의 체감경기도 한 달 전보다 나빠졌다.",
-    "published_at": "2026-11-10T05:17:00+00:00",
-    "cluster_id": "7c95",
-    "publisher": "재경일보",
-    "title_clean": "9월 건설수주 49% 급증했지만 일자리 감소는 29개월째 : 경제",
-    "summary": "9월 건설수주가 대형 민간사업 중심으로 전년 대비 49.3% 증가했으나, 주거용 건축 실적 감소와 건설업 취업자 감소(29개월째)로 일자리 창출 효과는 제한적이다. 건설기업의 체감경기도 악화되어 산업 전반의 회복세가 미흡한 상황이다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-10T14:56:03+09:00",
     "importance": 2
