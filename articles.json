@@ -4165,6 +4165,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코 원전 프로젝트, 한국-체코 협력으로 순항할까? - gokorea.kr",
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=885684",
+    "description": "한국수력원자력은 대우건설과 두산에너빌리티로 구성된 컨소시엄과의 시공 계약 협상을 종료했지만, 사업 추진에 차질이 없도록 대안을 마련 중이다. 김 장관은 '팀코리아 체코 원전사업 추진현황 점검회의'와 '한수원...",
+    "published_at": "2026-11-15T19:04:00+09:00",
+    "cluster_id": "2877",
+    "publisher": "gokorea.kr",
+    "title_clean": "체코 원전 프로젝트, 한국-체코 협력으로 순항할까?",
+    "summary": "한국수력원자력이 대우건설과 두산에너빌리티 컨소시엄과의 체코 원전 프로젝트 시공 계약 협상을 종료했으나, 사업 추진에 차질이 생길 수 있어 대안을 마련 중이다. 정부 차원에서 '팀코리아' 체제로 프로젝트 진행을 점검하며 협력을 강화하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-15T19:09:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20145,22 +20161,6 @@
     "title_clean": "산청소방서, 삼성중공업 인개개발원 현장지도",
     "summary": "산청소방서가 겨울철 화재 예방을 위해 삼성중공업 인재개발원에 현장지도를 실시했다. 교육·연수시설의 소방안전관리 강화 및 화재 위험 점검이 진행되었다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-09T18:11:46+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "김정관 산업장관 “체코 원전 무산 안되게 반드시 완수하겠다” - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2645959",
-    "description": "앞서 한국수력원자력은 지난달 29일 대우건설·두산에너빌리티 컨소시엄과의 체코 두코바니 원전 건설사업의 시공계약 협상을 종료한다고 밝혔다. 양측은 공사비와 계약방식, 업무 범위 등 주요 조건을 놓고 이견을 좁히지...",
-    "published_at": "2026-11-09T18:06:00+09:00",
-    "cluster_id": "ee46",
-    "publisher": "etoday.co.kr",
-    "title_clean": "김정관 산업장관 “체코 원전 무산 안되게 반드시 완수하겠다”",
-    "summary": "김정관 산업장관이 한국수력원자력의 체코 두코바니 원전 건설사업 완수 의지를 표명했다. 대우건설·두산에너빌리티와의 협상이 난항을 겪고 있는 상황에서 정부 차원의 지원 의사를 드러낸 것으로 보인다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-09T18:11:46+09:00",
     "importance": 2
   },
