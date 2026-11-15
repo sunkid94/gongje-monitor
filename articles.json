@@ -20182,6 +20182,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "한파·폭설 대비 전국 건설현장 2,946곳 안전점검 - 메가충청뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGekNfQXNsdXBKYW1BZkxzWmdQemZlSnNiYzJSYkFiLTJxc0c2TWJfT0J1WlZxSnkzNkJ2UFZSaWNnd3I4LVltbmVJcmlXcVZkN1VGTmwzajZhekp2R01FTjlyMFN4emFNSkY4eQ?oc=5",
+    "description": "[메가충청뉴스] 국토교통부는 전국 건설현장의 겨울철 안전사고를 사전에 예방하고자 11월 16일부터 12월 24일까지 동절기 대비 건설현장 안전점검을 실시한다.이번",
+    "published_at": "2026-11-16T08:23:00+09:00",
+    "cluster_id": "b782",
+    "publisher": "메가충청뉴스",
+    "title_clean": "한파·폭설 대비 전국 건설현장 2,946곳 안전점검",
+    "summary": "국토교통부가 11월 16일부터 12월 24일까지 전국 2,946개 건설현장을 대상으로 동절기 한파·폭설 대비 안전점검을 실시한다. 겨울철 안전사고 사전 예방을 위한 정부의 규제·감시 강화 조치다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T08:39:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32228,21 +32244,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-10T16:31:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "이건산업, 국내 합판 생산중단 결정… 핵심사업 중심으로 사업구조 재편 - woodkorea.co.kr",
-    "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92463",
-    "description": "이번 결정은 건설경기 침체 장기화 및 수입산 합판의 저가 공세 확대로 국내 합판 제조업이 경쟁력을 잃게 된데 따른 경영 효율화 조치다. 국내 합판시장은 수입산 저가 제품과의 가격경쟁이 심화되면서 제조 기반이...",
-    "published_at": "2026-11-10T16:20:00+09:00",
-    "cluster_id": "63b6",
-    "publisher": "woodkorea.co.kr",
-    "title_clean": "이건산업, 국내 합판 생산중단 결정… 핵심사업 중심으로 사업구조 재편",
-    "summary": "이건산업이 건설경기 침체와 수입산 합판의 저가 공세로 인한 경쟁력 상실에 따라 국내 합판 생산을 중단하기로 결정했다. 이는 건설산업의 경기 부진과 제조업의 구조적 약화를 반영하는 사례다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T16:26:12+09:00",
-    "importance": 4
   }
 ]
