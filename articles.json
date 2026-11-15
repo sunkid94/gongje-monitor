@@ -4182,6 +4182,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[산업썰전] 조선업계의 위기는 3년 뒤 본격화된다 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504301",
+    "description": "HD한국조선해양과 한화오션, 삼성중공업 등 조선 3사는 올해 3분기에도 두 자릿수 영업이익률을 기록하며 호황을 누리고 있다. 그러나 앞으로의 실적을 결정할 신규 선박 수주 시장에서는 중국에 압도당하고 있다....",
+    "published_at": "2026-11-16T08:46:00+09:00",
+    "cluster_id": "4039",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "[산업썰전] 조선업계의 위기는 3년 뒤 본격화된다",
+    "summary": "조선 3사(HD현대조선해양, 한화오션, 삼성중공업)는 현재 높은 영업이익률로 호황을 누리고 있으나, 향후 실적을 좌우할 신규 선박 수주 시장에서 중국의 경쟁에 밀리고 있다. 조선업계의 본격적인 위기가 3년 뒤 도래할 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T08:49:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20166,20 +20182,20 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "산업장관 “체코 원전 무산 안되게 할 것…팀코리아와 반드시 만들겠다... - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10931224?ref=naver",
-    "description": "한국수력원자력은 2018년 두코바니 원전 수주를 위해 대우건설·두산에너빌리티 컨소시엄을 시공사로 선정하고, 팀코리아 공동협력협약을 체결했다. 2022년 본격 입찰에 뛰어들어 2024년 7월 우선협상대상자로 선정됐다....",
-    "published_at": "2026-11-09T21:53:00+09:00",
-    "cluster_id": "89f4",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "산업장관 “체코 원전 무산 안되게 할 것…팀코리아와 반드시 만들겠다...",
-    "summary": "산업장관이 체코 두코바니 원전 사업 성공을 강조하며 한국수력원자력과 대우건설·두산에너빌리티 컨소시엄의 팀코리아 프로젝트를 적극 추진하겠다고 밝혔다. 2024년 7월 우선협상대상자로 선정된 이 사업은 국내 건설·에너지업계의 주요 수주 프로젝트로 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T22:01:24+09:00",
-    "importance": 2
+    "title": "국토부, 전국 건설현장 2900여 곳 동절기 안전점검 - 충남일보",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UUmtLSXdwY0VnQXlOaWZWZExVb2VJWWtFMVhWNUZEOWhZRlpBV01lc3RYU0t5ZnY1NDRHN3V0YjV2bGJlNVNHeDRjSnlsOVBGVGxiUXZLcXhDajBmRTVQRmxtTzAwV1ZHbVVvZDZfRV83UFk?oc=5",
+    "description": "[충남일보 김현수 기자] 겨울철 한파와 폭설에 따른 건설현장 안전사고를 예방하기 위해 전국 2900여 개 건설현장을 대상으로 대대적인 안전점검이 실시된다.국토교통부(장관 홍지선)는 16일부터 다음 달 24일까지 지방국토관리청과 산하기관 등 12개 기관이 참여하는",
+    "published_at": "2026-11-16T08:37:17+09:00",
+    "cluster_id": "ac67",
+    "publisher": "충남일보",
+    "title_clean": "국토부, 전국 건설현장 2900여 곳 동절기 안전점검",
+    "summary": "국토교통부가 겨울철 안전사고 예방을 위해 전국 2900여 개 건설현장을 대상으로 동절기 안전점검을 실시한다. 12개 기관이 참여하여 16일부터 다음 달 24일까지 약 40일간 대대적인 점검을 진행할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T08:49:43+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
@@ -32228,21 +32244,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T16:31:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원 \"대우와 협상 일방 결렬 아냐…추가 협상 시한 줬다\" - news1.kr",
-    "link": "https://www.news1.kr/economy/trend/6349370",
-    "description": "한국수력원자력이 체코 두코바니 원전 시공사 협상을 일방적으로 결렬시켰다는 대우건설 노동조합의 주장에 대해 \"체코 측이 요구한 9월보다 협상 시한을 10월 말까지 늘렸다\"며 반박했다. 10일 한수원 설명자료에 따르면...",
-    "published_at": "2026-11-10T16:24:00+09:00",
-    "cluster_id": "7486",
-    "publisher": "news1.kr",
-    "title_clean": "한수원 \"대우와 협상 일방 결렬 아냐…추가 협상 시한 줬다\"",
-    "summary": "한수원이 대우건설 노조의 '협상 일방 결렬' 주장에 반박하며, 체코 측 요구 시한을 9월에서 10월 말까지 연장했다고 설명했다. 두코바니 원전 시공사 협상이 계속 진행 중임을 강조했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T16:31:54+09:00",
-    "importance": 2
   }
 ]
