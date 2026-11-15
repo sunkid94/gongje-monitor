@@ -20182,6 +20182,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“겨울철 안전사고 원천 차단” 국토부, 전국 건설현장 2,946곳 대대적 안... - dailyt.co.kr",
+    "link": "https://www.dailyt.co.kr/newsView/dlt202611160002",
+    "description": "국토교통부는 오늘(16일)부터 다음 달 24일까지 약 6주간 전국 2,946개 건설현장을 대상으로 ‘동절기 대비 건설현장 안전점검’을 실시한다고 밝혔다. 이번 점검에는 국토부를 비롯해 지방국토관리청, 산하기관 등 총 12개...",
+    "published_at": "2026-11-16T07:52:00+09:00",
+    "cluster_id": "312e",
+    "publisher": "dailyt.co.kr",
+    "title_clean": "“겨울철 안전사고 원천 차단” 국토부, 전국 건설현장 2,946곳 대대적 안...",
+    "summary": "국토교통부가 겨울철 건설현장 안전사고 예방을 위해 전국 2,946개 현장에 대한 대대적 안전점검을 6주간 실시한다. 점검을 통해 낙상, 동파 등 겨울철 사고 위험 요소를 사전에 차단할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T07:59:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32225,22 +32241,6 @@
     "publisher": "nspna.com",
     "title_clean": "오진택 경기도의원, 건설노동자 퇴직공제금 체불 쥐어짜기 근절…주요...",
     "summary": "경기도 관급공사에서 건설노동자 퇴직공제금 55억원이 미납되고 있는 상황을 경기도의원이 지적했다. 전자카드제 누락 등 계약 특수조건 개선을 요구하고 있으며, 도로계획 노선의 예산 반영을 촉구하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T16:00:52+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토안전관리원·농어촌공사, 영남권 취약현장 점검·기술지원 묶어 사고 예방 - NSP통신",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NcTZVc1F4QnF2WjVYT1ZqLVlXVUtjUGoyUllaby1DeWFrSDI4VHlWbHdQMG5xbGtUUG0tSkFvZmszVDY4SVFYTEFMemdsUjA4SHV5WkNaVk9ZSWhhdVJlVw?oc=5",
-    "description": "국토안전관리원과 한국농어촌공사가 영남권 고위험·취약 건설현장에서 합동점검과 전문가 기술자문, 가상현실(VR) 안전교육, 스마트 안전장비 지원을 연계한다. 현장에서 위험요인을 찾아내는 데 그치지 않고 기술지원과 교육까지 이어가면서 안전사고와 중대재해 예방에 나선다.",
-    "published_at": "2026-11-10T15:50:59+09:00",
-    "cluster_id": "b644",
-    "publisher": "NSP통신",
-    "title_clean": "국토안전관리원·농어촌공사, 영남권 취약현장 점검·기술지원 묶어 사고 예방",
-    "summary": "국토안전관리원과 한국농어촌공사가 영남권 고위험 건설현장에 대해 합동점검, 전문가 기술자문, VR 안전교육, 스마트 안전장비 지원을 연계하여 추진한다. 위험요인 발굴뿐만 아니라 기술지원과 교육을 통합 제공하여 건설 현장의 안전사고와 중대재해 예방을 강화한다.",
     "sentiment": "negative",
     "collected_at": "2026-11-10T16:00:52+09:00",
     "importance": 4
