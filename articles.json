@@ -20165,6 +20165,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대형 건설 현장 안전 불감증, 이대로 괜찮은가? - 경기매일",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XcUx5NW1wSjJlMFFjeGl0V3NCWXo5a0lMTGk1S3Y5YnplR3R2ZjdIY19iQ1BhX3BYSFk4aUNFaGRnbnBrMFR3bnRNSTR3aUMtdEFqLXhfUVJ5ZTBXWU9kN01nbExraUE?oc=5",
+    "description": "광주시 관내 대형 건설 현장 관계자들의 안전 불감증으로 시민들이 대형 사고 위험에 노출돼 있어 대책이 요구된다.지난 12일 광주시와 경찰, 시민들에 의하면 광주시",
+    "published_at": "2026-11-15T15:08:14+09:00",
+    "cluster_id": "62ce",
+    "publisher": "경기매일",
+    "title_clean": "대형 건설 현장 안전 불감증, 이대로 괜찮은가?",
+    "summary": "광주시 대형 건설 현장에서 안전 불감증으로 인한 대형 사고 위험이 증가하고 있으며, 시민 안전 대책이 필요한 상황이다. 업계의 안전 관리 부실이 규제 강화 및 대책 마련으로 이어질 가능성이 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T15:29:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32227,21 +32243,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T14:16:16+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "대한건설협회 대학생 스마트건설 현장견학…30여명 참여 : 기업·산업 - 재경일보",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxOEEtbGZIQ2hBVlVBSUU2ekkxVEFHcXdTU2w4YXlCVDI3cDNuWXNwX2w1VnlIa3BDbUtVM1pyM0NWcVlHTFpJQWE3bw?oc=5",
-    "description": "대한건설협회는 지난 6일 건설 관련 학과 대학생 30여 명을 대상으로 삼성물산과 한화 건설부문 현장을 둘러보는 스마트건설 현장견학을 진행했다. 참가자들은 첨단 기술이 적용된 건설 현장을 체험하고 현직자 멘토링을 통해 진로와 취업에 관한 조언을 들었다.",
-    "published_at": "2026-11-10T05:00:32+00:00",
-    "cluster_id": "b38c",
-    "publisher": "재경일보",
-    "title_clean": "대한건설협회 대학생 스마트건설 현장견학…30여명 참여 : 기업·산업",
-    "summary": "대한건설협회가 건설 관련 학과 대학생 30여 명을 대상으로 삼성물산, 한화 등 주요 건설사 현장견학을 실시했다. 참가자들은 스마트건설 기술을 체험하고 현직자 멘토링을 통해 진로 및 취업 정보를 얻었다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-10T14:16:16+09:00",
-    "importance": 2
   }
 ]
