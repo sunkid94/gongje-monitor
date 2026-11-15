@@ -4182,6 +4182,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데건설, '청담 르엘' 조경으로 대한민국 조경대상 수상 - ziksir.com",
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=153340",
+    "description": "롯데건설이 지난 13일 '2026 대한민국 조경대상'에서 청담 르엘 'Nature Drape 청담'으로 국가유산청장상을 수상했다. (왼쪽에서 네 번째) 이용석 롯데건설 건축공사부문장이 수상 후 기념촬영을 진행하고 있다....",
+    "published_at": "2026-11-15T10:34:00+09:00",
+    "cluster_id": "68e9",
+    "publisher": "ziksir.com",
+    "title_clean": "롯데건설, '청담 르엘' 조경으로 대한민국 조경대상 수상",
+    "summary": "롯데건설이 청담 르엘 프로젝트의 조경 설계로 2026 대한민국 조경대상에서 국가유산청장상을 수상했다. 건설사의 조경 부문 우수성을 인정받은 것으로, 건설사의 브랜드 가치 향상과 고급 주택 시장에서의 경쟁력 강화를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-15T10:38:10+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20166,20 +20182,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "두산, 3분기 영업익 4594억원…AI·계열사 성장에 실적 개선 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/article/2026110917024563714",
-    "description": "두산에너빌리티는 3분기 연결 기준 매출 4조 4,494억 원, 영업이익 2,612억 원을 기록했다. 전년 동기 대비 각각 14.7%, 90.6% 증가한 수치다. 올해 3분기 누적 수주는 9조 9990억 원으로 집계됐다. 주요 수주 프로젝트로는...",
-    "published_at": "2026-11-09T17:04:00+09:00",
-    "cluster_id": "4fae",
+    "title": "반도체발 역대급 경상흑자라지만…국내투자 부진도 한몫 - news.mtn.co.kr",
+    "link": "https://news.mtn.co.kr/article/2026111510220840936",
+    "description": "그러나 건설경기 침체로 국내투자가 줄고 저축과 투자 간 격차가 벌어진 점도 흑자를 키운 요인으로 꼽힌다. 수출로 벌어들인 소득이 국내 투자와 소비로 이어져야 한다는 분석이 나온다.15일 대외경제정책연구원(KIEP)...",
+    "published_at": "2026-11-15T10:32:00+09:00",
+    "cluster_id": "4fa4",
     "publisher": "news.mtn.co.kr",
-    "title_clean": "두산, 3분기 영업익 4594억원…AI·계열사 성장에 실적 개선",
-    "summary": "두산에너빌리티가 3분기 영업이익 2,612억 원으로 전년 동기 대비 90.6% 증가하며 실적을 크게 개선했다. AI와 계열사 성장에 힘입어 3분기 누적 수주는 9조 9,990억 원을 기록했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T17:10:59+09:00",
-    "importance": 2
+    "title_clean": "반도체발 역대급 경상흑자라지만…국내투자 부진도 한몫",
+    "summary": "반도체 수출 호조로 경상수지 흑자가 확대되고 있으나, 건설경기 침체로 인한 국내투자 부진이 이를 뒷받침하는 요인으로 작용하고 있다. 수출 소득이 국내 투자와 소비로 순환되지 않는 구조적 문제가 지적되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T10:38:10+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32228,21 +32244,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-10T12:05:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원 \"체코원전 협상 종결 시점, 대우건설에 사전 공유\" - news.einfomax.co.kr",
-    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443964",
-    "description": "대우건설 노동조합이 한수원의 일방적인 협상 결렬과 특정 건설사 내정 의혹 등을 제기한 데 대해 재차 반박한 것이다. 한수원은 10일 대우건설 노조의 기자회견에 대한 설명자료를 내고 \"협상 일정은 발주사와 정한...",
-    "published_at": "2026-11-10T11:58:00+09:00",
-    "cluster_id": "bb5d",
-    "publisher": "news.einfomax.co.kr",
-    "title_clean": "한수원 \"체코원전 협상 종결 시점, 대우건설에 사전 공유\"",
-    "summary": "한수원이 체코 원전 협상 종결 시점을 대우건설에 사전 공유했다고 주장하며 일방적 협상 결렬 의혹을 반박했다. 양측은 협상 진행 과정과 투명성을 두고 계속 대립 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T12:05:32+09:00",
-    "importance": 4
   }
 ]
