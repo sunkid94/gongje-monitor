@@ -20165,6 +20165,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구경북 통합신공항 조기 착공 해법 찾는다…국가 재정지원이 관건 - dkilbo.com",
+    "link": "https://www.dkilbo.com/news/articleView.html?idxno=560799",
+    "description": "포스코이앤씨와 현대건설 관계자들은 건설경기 침체와 금융기관의 프로젝트파이낸싱(PF) 한계 등을 고려할 때 현재 여건에서 SPC 구성이 사실상 어렵다는 진단을 내놨다. 대구시 역시 기부 대 양여 방식의 한계를 지적하며...",
+    "published_at": "2026-11-15T17:06:00+09:00",
+    "cluster_id": "c5bc",
+    "publisher": "dkilbo.com",
+    "title_clean": "대구경북 통합신공항 조기 착공 해법 찾는다…국가 재정지원이 관건",
+    "summary": "대구경북 통합신공항 사업 착공을 위해 건설사들이 국가 재정지원 방안을 모색 중입니다. 건설경기 침체와 PF 한계로 현재 SPC 구성이 어려운 상황에서 정부 지원이 관건으로 지목되었습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-15T17:09:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32226,22 +32242,6 @@
     "summary": "경기도 제조업 생산이 증가로 전환하고 수출이 179.7% 급증했다. 건축착공면적과 건설수주액도 증가세를 보이며 건설업계 전반적인 회복 신호를 나타냈다.",
     "sentiment": "positive",
     "collected_at": "2026-11-10T14:30:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "인천시 제물포시장 재개발 정비사업조합, 시공사 선정 재입찰…이달 21... - globalepic.co.kr",
-    "link": "https://www.globalepic.co.kr/view.php?ud=20261110140918482423fd0362e7_29",
-    "description": "참여 자격은 입찰공고일 현재 「건설산업기본법」 제2조 제7호에 따른 건설업자 또는 「주택법」 제7조에 따라 건설업자로 간주되는 등록사업자다. 입찰 참여 업체는 현장설명회에 참석해 조합이 배부하는 입찰지침서를...",
-    "published_at": "2026-11-10T14:20:00+09:00",
-    "cluster_id": "8baa",
-    "publisher": "globalepic.co.kr",
-    "title_clean": "인천시 제물포시장 재개발 정비사업조합, 시공사 선정 재입찰…이달 21...",
-    "summary": "인천시 제물포시장 재개발 정비사업조합이 시공사 선정을 위한 재입찰을 실시하며, 건설업자 자격을 갖춘 업체들이 참여 가능하다. 입찰은 이달 21일에 진행될 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-10T14:25:12+09:00",
     "importance": 2
   }
 ]
