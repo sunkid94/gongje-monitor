@@ -4182,6 +4182,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[더벨][K원전 경쟁력 점검] 1조 차이에 깨진 팀코리아…총액 확정 계약... - thebell.co.kr",
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611101528570040102314",
+    "description": "한수원은 지난달 29일 대우건설·두산에너빌리티 시공 컨소시엄과 진행해 온 두코바니 5·6호기 시공 계약 협상을 종료했다. 1000㎿급 APR1000 2기를 짓는 약 27조원 규모 사업이다. 한수원 측은 \"이견이 발생한 금액의 규모는...",
+    "published_at": "2026-11-16T08:22:00+09:00",
+    "cluster_id": "72be",
+    "publisher": "thebell.co.kr",
+    "title_clean": "[더벨][K원전 경쟁력 점검] 1조 차이에 깨진 팀코리아…총액 확정 계약...",
+    "summary": "한수원이 대우건설·두손에너빌리티 컨소시엄과 체코 두코바니 원전 5·6호기 시공 계약(약 27조원 규모) 협상을 종료했다. 계약금 이견으로 협상이 난항을 겪었으나 최종 합의에 도달했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-16T08:29:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20161,22 +20177,6 @@
     "publisher": "biz.heraldcorp.com",
     "title_clean": "산업장관 “체코 원전 무산 안되게 할 것…팀코리아와 반드시 만들겠다...",
     "summary": "산업장관이 체코 두코바니 원전 사업 성공을 강조하며 한국수력원자력과 대우건설·두산에너빌리티 컨소시엄의 팀코리아 프로젝트를 적극 추진하겠다고 밝혔다. 2024년 7월 우선협상대상자로 선정된 이 사업은 국내 건설·에너지업계의 주요 수주 프로젝트로 진행 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-09T22:01:24+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "가덕도신공항 부지조성공사 실시설계 착수…내년 상반기 착공 목표 - inews24.com",
-    "link": "http://www.inews24.com/view/2024230",
-    "description": "앞서 대우건설 컨소시엄은 지난 9월 부지조성공사 기본설계 적격 판정을 받았으나, 중동전쟁에 따른 물가상승과 공사비 현실화 문제로 우선시공분 가격협상 등 후속 절차가 일시 중단됐다. 이에 국토교통부와...",
-    "published_at": "2026-11-09T21:56:00+09:00",
-    "cluster_id": "8c95",
-    "publisher": "inews24.com",
-    "title_clean": "가덕도신공항 부지조성공사 실시설계 착수…내년 상반기 착공 목표",
-    "summary": "가덕도신공항 부지조성공사가 실시설계 단계에 진입하며 내년 상반기 착공을 목표로 추진 중입니다. 중동전쟁으로 인한 물가상승과 공사비 현실화 문제로 일시 중단되었던 후속 절차가 재개되고 있습니다.",
     "sentiment": "positive",
     "collected_at": "2026-11-09T22:01:24+09:00",
     "importance": 2
