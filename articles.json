@@ -4250,6 +4250,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "아직도 못 돌아온 한국인 9명… 현지 주민들 여전히 피난 생활 - kmib.co.kr",
+    "link": "https://www.kmib.co.kr/article/20261116502041",
+    "description": "두산에너빌리티는 매몰 지역을 중심으로 수습 작업을 진행 중이다. 사고 초기에는 50여명을 단계적으로 파견하고 헬기, 드론 등을 동원한 ‘비상대응체계’를 가동했지만 지금은 ‘현장운영체계’로 전환했다. 사고...",
+    "published_at": "2026-11-16T23:32:00+09:00",
+    "cluster_id": "7cd5",
+    "publisher": "kmib.co.kr",
+    "title_clean": "아직도 못 돌아온 한국인 9명… 현지 주민들 여전히 피난 생활",
+    "summary": "두산에너빌리티 사고로 한국인 9명이 여전히 실종된 상태이며, 현지 주민들도 피난 생활을 계속하고 있다. 회사는 비상대응체계에서 현장운영체계로 전환하여 수습 작업을 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T23:41:01+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20232,22 +20248,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-10T16:31:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한수원 \"체코원전 시공사 내정 없었다…91차례 협상 결렬\" - electimes.com",
-    "link": "https://www.electimes.com/news/articleView.html?idxno=374589",
-    "description": "한수원이 체코 두코바니 원전 시공사 사전 내정 의혹을 제기한 대우건설 노조의 주장에 정면 반박했다. 대우건설과 15개월간 91차례 협상에도 핵심 계약조건에서 합의에 이르지 못했을 뿐, 특정 건설사에 시공권을 넘기기...",
-    "published_at": "2026-11-10T16:18:00+09:00",
-    "cluster_id": "ea17",
-    "publisher": "electimes.com",
-    "title_clean": "한수원 \"체코원전 시공사 내정 없었다…91차례 협상 결렬\"",
-    "summary": "한수원이 체코 두코바니 원전 시공사 내정 의혹을 부인하며 대우건설과 15개월간 91차례 협상했으나 핵심 계약조건 합의 실패를 언급했다. 대우건설 노조가 제기한 부정 이슈로 인해 대형 해외 원전 프로젝트 수주 가능성이 불투명해지고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T16:26:12+09:00",
-    "importance": 4
   },
   {
     "keyword": "모듈러 건설",
