@@ -20250,6 +20250,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[가만한 당신] 이주농업노동자들의 '드래곤 레이디' - hankookilbo.com",
+    "link": "https://www.hankookilbo.com/news/article/A2026111415170004621?did=NA",
+    "description": "70년대 중동의 우리 건설노동자들은 현지에서 월급을 다 썼을까. 그리고 '도움'의 경중을 따지는 저 얄팍한 저울질과 별개로, 정치-사회학자들은 글로벌 경제의 저임금 노동 수입-외주화를 착취적 공생관계 또는...",
+    "published_at": "2026-11-17T04:31:00+09:00",
+    "cluster_id": "bf9f",
+    "publisher": "hankookilbo.com",
+    "title_clean": "[가만한 당신] 이주농업노동자들의 '드래곤 레이디'",
+    "summary": "이주농업노동자의 처우와 글로벌 경제의 저임금 노동 외주화 문제를 다룬 사회학적 분석 기사. 건설업계와 직접적인 관련성이 낮은 농업 부문의 노동 착취 구조에 대한 논의.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-17T04:35:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32229,22 +32245,6 @@
     "publisher": "데일리안",
     "title_clean": "내년부터 건설노동자 일한 이력도 대출심사에 반영…맞춤형 금융상품 출시",
     "summary": "정부가 내년부터 건설노동자와 플랫폼·프리랜서 등의 노동이력을 신용평가에 반영하는 대안신용평가 방안을 도입하고 맞춤형 금융상품을 출시할 계획이다. 소득이 불규칙한 노동자들의 금융 접근성을 높이기 위한 조치로, 고용노동부·금융위원회·금융감독원이 협력하여 추진하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T14:05:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 스타트업 10곳과 건설기술 혁신… 현장 사업화 속도 - Korea IT Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlNzVNcmxpeF91Z3dJdm9BM0dGVmJhVjh0VG1NdGVjblBTMGFPaVg4VXlPZ1gtS0J3U0REUEh0Q05NWl9aY1FUVG5aZUhJYXhnRnlUdmwwWEx2LVRXMW9kdFlGenp0cnNrd1NIYmZoeUE?oc=5",
-    "description": "롯데건설이 스타트업과의 기술 협력을 통해 건설현장의 디지털 전환과 생산성 향상에 나선다. 인공지능(AI)과 로봇, 친환경 소재 등 다양한 분야에서 발굴한 기술을 검증한 데 이어 실제 현장 적용과 사업화로 협력 범위를 넓힌다.롯데건설은 지난 10일 서울 강서구 마곡 르웨스트시티에서 ‘2026 롯데건설 오픈이노베이션 성과공유회’를 개최했다.이번 행사에는 스마트건설·AI·로봇·친환경 분야 스타트업 10곳이 참여했다. 롯데건설 기술연구원 및 관련 부서와 공동으로 진행한 기술검증(PoC) 결과를 발표하고, 기술별 개선 과제와 후속 사업화 방안을 논의했다.협업 기업 발굴은 외부 기관과의 오픈이노베이션 프로그램을 통해 이뤄졌다. 롯데건설은 올해 서울경제진흥원(SBA), 창업진흥원 등과 협력해 유망 스타트업을 선정했으며, 자체 발굴 기업을 포함해 총 10개사와 기술검증을 진행했다.참여 기업들은 자재운반 로봇, 건설장비 관제, 순찰 로봇, AI 기반 기록 및 측위, 로봇 관제 등 다양한 기술을 선보",
-    "published_at": "2026-11-11T13:58:41+09:00",
-    "cluster_id": "ac0f",
-    "publisher": "Korea IT Times",
-    "title_clean": "롯데건설, 스타트업 10곳과 건설기술 혁신… 현장 사업화 속도",
-    "summary": "롯데건설이 스타트업 10곳과 오픈이노베이션 협력을 통해 AI, 로봇, 친환경 소재 등의 건설기술을 검증하고 현장 사업화에 나선다. 자재운반 로봇, 건설장비 관제, AI 기반 기록 등 다양한 기술을 실제 프로젝트에 적용하여 건설현장의 디지털 전환과 생산성 향상을 추진하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-11T14:05:22+09:00",
     "importance": 2
