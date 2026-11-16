@@ -20253,6 +20253,22 @@
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
+    "title": "겨울철 건설현장 2,900여 곳 안전점검 실시 - 농어업경제귀농신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56bENhWEd6c2phQktFY3ZFTVI1b2ZfeVZIT3FfUUlXX0g1ck5nSkVaRTRVMHAwWGJ1Z2pnTjhwbWppRlNuaXFaMVZfaHdNckZBa2tXNEFqTXJ2Z0Y5dnBESUhxWVVTbHRXU0FB?oc=5",
+    "description": "국토교통부는 겨울철 건설현장 안전사고를 예방하기 위해 11월 16일부터 12월 24일까지 전국 건설현장을 대상으로 동절기 대비 안전점검을 실시한다고 밝혔다.이번 점검 대상은 기온 저하와 폭설, 강풍, 한파 등으로 안전사고 우려가 큰 전국 2,900여 개 건설현장이다. 점검에는 국토교통부와 5개 지방국토관리청, 한국도로공사, 한국토지주택공사, 국가철도공단, 인천국제공항공사, 한국공항공사, 국토안전관리원 등 12개 기관이 참여한다.주요 점검 사항은 외부 가설비계와 지지대, 울타리, 안전난간 등 임시시설물 관리 상태를 비롯해 한중콘크리트",
+    "published_at": "2026-11-16T22:01:13+09:00",
+    "cluster_id": "e43f",
+    "publisher": "농어업경제귀농신문",
+    "title_clean": "겨울철 건설현장 2,900여 곳 안전점검 실시",
+    "summary": "국토교통부가 겨울철 안전사고 예방을 위해 11월 16일부터 12월 24일까지 전국 2,900여 건설현장에 대한 동절기 안전점검을 실시한다. 12개 정부기관이 참여하여 가설시설물 관리 상태, 한중콘크리트 등 주요 사항을 점검할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T22:10:04+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
     "title": "국토부, 12월 24일까지 전국 건설현장 2,946곳 동절기 안전점검 - 프리진경제",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTjhuNHpjaVJGaHRaYWJuSjgtckgzRkgtSGM5YWV1NkJhYWo2QWI4TDFxcGx0TDM1V05udzF1UUZvVGg4anIxeVRzSEJ2UHhRYjhZUnZkU1VOM0FQcEg4OENiRHBpQlVBZGxLNQ?oc=5",
     "description": "국토교통부가 겨울철 안전사고 예방을 위해 16일부터 다음달 24일까지 전국 건설현장 2,946곳을 안전점검한다.16일 국토부에 따르면, 점검에는 국토부(기술안전정책관)와 5개 지방국토관리청, 한국도로공사·한국토지주택공사·국가철도공단·인천국제공항공사·한국공항공사·국토안전관리원 등 12개",
@@ -32232,21 +32248,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T13:44:41+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "부천시, 소규모 건축공사장 대상 ‘동절기 대비 안전점검’ 실시 - 경인매일",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11VXlKQUhOM2dnMTRVSVRSd25BQkE3clpXX2JFeTBIQXNaUThIMUpkeDRVdDZvbl85WEh6cGVxOU1hMWU5TUQzVGlMYVZ3VHBmYXM3bS1ZTGpXd3REcGNIMlVUSFBPMVhw?oc=5",
-    "description": "부천시가 관내 공사비 50억원 미만 소규모 건축공사장을 대상으로 ‘동절기 대비 안전점검’을 실시한다.오는 11월 16일부터 12월 4일까지 실시되는 이번 점검은",
-    "published_at": "2026-11-11T13:39:24+09:00",
-    "cluster_id": "38bf",
-    "publisher": "경인매일",
-    "title_clean": "부천시, 소규모 건축공사장 대상 ‘동절기 대비 안전점검’ 실시",
-    "summary": "부천시가 11월 16일부터 12월 4일까지 공사비 50억원 미만의 소규모 건축공사장을 대상으로 동절기 안전점검을 실시한다. 겨울철 악천악 조건에서의 건설현장 안전관리를 강화하는 조치다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T13:44:41+09:00",
-    "importance": 4
   }
 ]
