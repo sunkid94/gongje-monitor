@@ -20199,6 +20199,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "16일부터 내달 24일까지 전국 2946개 건설현장 안전 점검 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611160920394420157",
+    "description": "국토교통부는 전국 건설현장의 겨울철 안전사고를 예방하기 위해 16일부터 12월 24일까지 동절기 대비 건설현장 안전 점검을 실시한다고 밝혔다. 이번 점검의 대상은 겨울철 기온 저하로 안전사고 등이 우려되는 전국 2...",
+    "published_at": "2026-11-16T11:22:00+09:00",
+    "cluster_id": "3516",
+    "publisher": "대한경제",
+    "title_clean": "16일부터 내달 24일까지 전국 2946개 건설현장 안전 점검",
+    "summary": "국토교통부가 겨울철 건설현장 안전사고 예방을 위해 16일부터 12월 24일까지 전국 2946개 건설현장에 대한 안전 점검을 실시한다. 기온 저하로 인한 안전사고 우려에 따른 정부 차원의 점검 활동.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T11:30:04+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32229,21 +32245,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-11T00:08:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "전기는 흐르고, 노동자들 고통은 쌓였다 - gjdream.com",
-    "link": "http://www.gjdream.com/news/articleView.html?idxno=674237",
-    "description": "민주노총 전국건설노동조합 전기분과위원회와 광주전남전기지부는 10일 오후 2시 조선대병원 의성관 5층 김동국홀에서 '22,900볼트 위에서' 백서 발간 기념식을 열었다. 백서 부제는 '배전노동자 직업병과 건강권 쟁취를...",
-    "published_at": "2026-11-11T00:06:00+09:00",
-    "cluster_id": "ae69",
-    "publisher": "gjdream.com",
-    "title_clean": "전기는 흐르고, 노동자들 고통은 쌓였다",
-    "summary": "민주노총 전국건설노동조합 전기분과위원회가 배전노동자의 직업병과 건강권 문제를 다룬 백서를 발간했다. 고압선로에서 작업하는 전기분과 노동자들의 안전 및 보건 문제를 지적하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T00:08:56+09:00",
-    "importance": 4
   }
 ]
