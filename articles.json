@@ -4250,6 +4250,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[비즈투데이] 삼성중공업, LNG운반선 1척 3천424억 원 수주 - obsnews.co.kr",
+    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543943",
+    "description": "삼성중공업은 오세아니아 지역 선주로부터 LNG운반선 한 척을 3천424억 원에 수주했다고 공시했습니다. 삼성중공업의 올해 상선 부문 수주 실적은 47척, 83억 달러로 수주 목표 57억 달러의 146%를 달성했습니다....",
+    "published_at": "2026-11-16T20:20:00+09:00",
+    "cluster_id": "745a",
+    "publisher": "obsnews.co.kr",
+    "title_clean": "[비즈투데이] 삼성중공업, LNG운반선 1척 3천424억 원 수주",
+    "summary": "삼samsung중공업이 오세아니아 지역 선주로부터 LNG운반선 1척을 3,424억 원에 수주했습니다. 올해 상선 부문 수주 실적이 47척 83억 달러로 목표 대비 146%를 달성하며 호실적을 기록했습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-16T20:30:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20230,22 +20246,6 @@
     "title_clean": "포스코인터, 광양 제2 LNG터미널 준공…난방 에너지 전국민 40일분 용량",
     "summary": "포스코이앤씨가 광양 제2 LNG터미널 준공을 완료했으며, 포스코의 극저온용 고망간강이 저장탱크에 사용됐다. 이를 통해 포스코인터내셔널의 광양 LNG 터미널 저장용량이 총 133만kL로 확대되었다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-10T16:10:20+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한수원 \"체코 원전 협상 일방 중단 아냐\" - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oZFNjN1hEWGc4RHFXT0ZCRGd4OWxBM0xNS0xOQkdLWWk1QnNrUnUtamhSSGFTcEZxaXFqeGl1MzhGT3VfdWV0c1dIZUpCV1AybDR0WXB1WldaR2taa0xPclRDeGg?oc=5",
-    "description": "매일일보 = 김채은 기자 | 한국수력원자력(한수원)이 체코 두코바니 원전 시공사 협상을 일방적으로 결렬시켰다는 대우건설 노동조합의 주장에 반박했다. 협상 기한을",
-    "published_at": "2026-11-10T15:54:50+09:00",
-    "cluster_id": "3a99",
-    "publisher": "매일일보",
-    "title_clean": "한수원 \"체코 원전 협상 일방 중단 아냐\"",
-    "summary": "한수원이 체코 두코바니 원전 시공사 협상 일방 중단 의혹을 반박했다. 대우건설 노동조합의 주장에 대해 협상이 계속 진행 중임을 강조하고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-10T16:10:20+09:00",
     "importance": 2
   },
