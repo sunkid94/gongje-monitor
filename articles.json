@@ -20250,6 +20250,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "성남시, 대형 건축공사장 35곳 ‘핀셋 안전점검’ - 일간투데이",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5icXY2eng2SjQ2RGlxSm5TZm9seGN0Q0wtOHlfS3ZHQ2gxY3M1b0s1X1dXM1RSVXVXUGNxNE1XcDNIV2JhQml1a2w1ZDNwcFN2VWt4U0xBaElxZXNxNzY5V1F3a3NNOHB2cElJ?oc=5",
+    "description": "[일간투데이 이정미 기자] 성남시(시장 신상진)는 대형 건축공사장의 안전사고 예방을 위해 지역 내 민간 대형 건축공사장 35곳을 대상으로 오는 11월 20일까지 안전점검을 실시한다고 밝혔다.시는 지난달부터 7층 이상이거나 연면적 2000㎡를 초과하는 민간 대형 건축공사",
+    "published_at": "2026-11-17T07:46:10+09:00",
+    "cluster_id": "def5",
+    "publisher": "일간투데이",
+    "title_clean": "성남시, 대형 건축공사장 35곳 ‘핀셋 안전점검’",
+    "summary": "성남시가 지역 내 민간 대형 건축공사장 35곳을 대상으로 11월 20일까지 안전점검을 실시한다고 발표했다. 7층 이상이거나 연면적 2000㎡를 초과하는 공사장을 중점 대상으로 안전사고 예방에 나선다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-17T07:59:23+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32232,21 +32248,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T14:05:22+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "'건설노동자·플랫폼노동자 금융 문턱 낮춘다'…맞춤형 상품 개발 협력 - news.bbsi.co.kr",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117916",
-    "description": "건설노동자와 플랫폼노동자, 프리랜서 등 소득이 불규칙한 노동자들의 금융 이용 문턱이 낮아질 전망입니다. 고용노동부와 금융위원회, 금융감독원은 오늘 건설근로자공제회에서 은행연합회와 신용정보원, 노동단체 등...",
-    "published_at": "2026-11-11T14:00:00+09:00",
-    "cluster_id": "9fc7",
-    "publisher": "news.bbsi.co.kr",
-    "title_clean": "'건설노동자·플랫폼노동자 금융 문턱 낮춘다'…맞춤형 상품 개발 협력",
-    "summary": "정부가 건설노동자와 플랫폼노동자 등 소득이 불규칙한 노동자들의 금융 접근성 개선을 위해 은행, 신용정보기관, 노동단체와 협력하여 맞춤형 금융상품 개발을 추진한다. 건설근로자공제회 중심으로 금융 서비스 이용 문턱을 낮추는 정책을 시행할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T14:05:22+09:00",
-    "importance": 2
   }
 ]
