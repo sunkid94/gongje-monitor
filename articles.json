@@ -4250,6 +4250,22 @@
     "importance": 7
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "산청 시천면·삼성중공업, 인구 유입 협약 - 경남매일",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dUkyRjNyS2gxb0wtaGZJUEVrQlRQUTJrUzczRDI4QlhHMk1ySWc0Wm1RRmRaWFJsQTBWNXoxQ2tvaXh3V2hCOHNqQ1g2VThuM2w2eVpFOHF4eXhyQ0tmSVkxZGQ0TUpFenc?oc=5",
+    "description": "산청군 시천면은 16일 삼성중공업 인재개발원과 인구정책 활성화를 위한 업무협약(MOU)을 체결했다. 이번 협약으로 양 측은 지역민 우선 채용과 청년 일자리 창출 등에 협력하고 지역 문화·축제와 사회공헌 활동도 공동 추진할 계획이다. 시천면은 기업활동에 필요한 행정 절차를 신속히 지원하고 실무협의회를 구성해 협약 이행을 구체화할 방침이다.",
+    "published_at": "2026-11-16T21:00:01+09:00",
+    "cluster_id": "d190",
+    "publisher": "경남매일",
+    "title_clean": "산청 시천면·삼성중공업, 인구 유입 협약",
+    "summary": "산청군 시천면이 삼성중공업 인재개발원과 인구 유입을 위한 업무협약을 체결했다. 지역민 채용, 청년 일자리 창출, 지역 문화·축제 공동 추진 등을 협력하기로 합의했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-16T21:30:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20234,20 +20250,20 @@
     "importance": 4
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "대우건설, 가덕도신공항 실시설계 착수…2035년 개항 속도 낸다 - apnews.kr",
-    "link": "https://www.apnews.kr/news/articleView.html?idxno=3052997",
-    "description": "[사진 = 대우건설] 대우건설 컨소시엄이 가덕도신공항 부지조성공사의 실시설계에 착수하며 2035년 개항을 위한 사업 추진에 속도를 낸다. 정부가 공사비 상승분을 반영하기 위한 대책 마련을 약속하면서, 법 개정에 따른...",
-    "published_at": "2026-11-10T15:58:00+09:00",
-    "cluster_id": "9ea5",
-    "publisher": "apnews.kr",
-    "title_clean": "대우건설, 가덕도신공항 실시설계 착수…2035년 개항 속도 낸다",
-    "summary": "대우건설 컨소시엄이 가덕도신공airport 부지조성공사의 실시설계를 착수하며 2035년 개항을 향한 사업을 본격화하고 있다. 정부가 공사비 상승분에 대한 대책 마련을 약속하여 프로젝트 추진의 안정성이 강화되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-10T16:10:20+09:00",
-    "importance": 2
+    "title": "\"대구시·경북도 지방비 선투입 토지 보상부터\" - idaegu.co.kr",
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=565504",
+    "description": "반면 포스코이앤씨 정재훈 부장과 현대건설 조관희 팀장은 건설경기 악화와 PF 발행 한계 등을 들어 현 구조에서는 SPC 구성이 현실적으로 어렵다는 냉정한 진단을 내놓았다.",
+    "published_at": "2026-11-16T21:24:00+09:00",
+    "cluster_id": "0450",
+    "publisher": "idaegu.co.kr",
+    "title_clean": "\"대구시·경북도 지방비 선투입 토지 보상부터\"",
+    "summary": "대구시와 경북도가 지방비를 선투입하여 토지 보상을 추진하는 가운데, 포스코이앤씨와 현대건설 등 건설사들은 건설경기 악화와 PF 발행 한계로 현 구조에서의 SPC 구성이 현실적으로 어렵다고 진단했다. 건설업계가 프로젝트 파이낸싱 조달의 어려움을 호소하고 있는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T21:30:32+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설수주",
@@ -32232,21 +32248,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-11T13:25:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "윤준병·민주당, 종합·전문건설업 간 하도급 규정 불형평 해소 종합건설업체 동일 업종 하도급 서면 승낙 등 요건 강화 - 오토투데이",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wMG5pM3NDb1VtelNLRDB1ZUlLNml1d3I5WU5ZVmx4NXN1VkxtMVRWUktIS0ljNWYxLXZ3QUFqWEJvTWo5dzhCYUQxU1pzYllFa0M1aU40VW5DMXNJSnY0OVlwa01GRVoyZ256dXZIUQ?oc=5",
-    "description": "11일(수), 종합건설사업자와 전문건설사업자 간 불합리한 하도급 규제 형평성을 바로잡고, 건설경기 침체로 존폐 위기에 처한 영세·전문건설업체의 생존 기반을 보호하",
-    "published_at": "2026-11-11T13:15:18+09:00",
-    "cluster_id": "15fb",
-    "publisher": "오토투데이",
-    "title_clean": "윤준병·민주당, 종합·전문건설업 간 하도급 규정 불형평 해소 종합건설업체 동일 업종 하도급 서면 승낙 등 요건 강화",
-    "summary": "윤준병 의원과 민주당이 종합건설업체와 전문건설업체 간 하도급 규정의 불형평을 해소하기 위해 종합건설업체의 동일 업종 하도급 시 서면 승낙 등 요건을 강화하는 방안을 추진 중. 건설경기 침체로 어려움을 겪는 영세·전문건설업체의 생존 기반을 보호하려는 취지.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T13:25:02+09:00",
-    "importance": 2
   }
 ]
