@@ -20216,6 +20216,22 @@
     "importance": 4
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "국토부, 겨울철 건설현장 2964곳 안전점검 - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52768",
+    "description": "국토교통부는 겨울철 건설현장 안전사고 예방을 위해 16일부터 12월 24일까지 전국 2964개 현장을 대상으로 안전점검을 실시한다.이번 점검에는 한국도로공사와 한국토지주택공사(LH) 등 12개 기관이 참여한다.점검 대상은 사회간접자본(SOC) 현장 42%, 아파트 32%, 일반 건축물 26%로 구성됐다.국토부는 가설비계와 지지대 등 임시 시설물의 안전관리 상태와 한중 콘크리트 품질관리 실태를 집중 점검한다.특히 도심 지하 굴착과 대규모 건축·교량·터널 공사는 외부 전문가와 합동 점검하고, 사망사고 발생 현장과 해당 건설사의 다른 시",
+    "published_at": "2026-11-16T08:59:09+09:00",
+    "cluster_id": "321e",
+    "publisher": "기계설비신문",
+    "title_clean": "국토부, 겨울철 건설현장 2964곳 안전점검",
+    "summary": "국토교통부가 겨울철 건설현장 안전사고 예방을 위해 12개 기관과 함께 전국 2964개 현장에 대한 안전점검을 실시한다. 가설비계, 콘크리트 품질관리, 도심 지하 굴착 등을 집중 점검하며 사망사고 현장과 관련 건설사도 특별 점검할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T13:59:31+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32230,21 +32246,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T07:58:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[Invest]DL이앤씨, 인력감소와 수주부족에 '뒤숭숭'…내부서도 불만 폭발 - investchosun.com",
-    "link": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080161.html",
-    "description": "전체 임원 수도 47명에서 31명으로 감소했다.DL이앤씨는 \"건설경기 악화로 현장 수가 감소하면서 계약 연장이 이뤄지지 않은 계약직 인력이 자연 감소한 영향이 크다\"며 \"향후 신입사원 채용 등을 통해 인력을 충원할...",
-    "published_at": "2026-11-11T07:02:00+09:00",
-    "cluster_id": "0bb5",
-    "publisher": "investchosun.com",
-    "title_clean": "[Invest]DL이앤씨, 인력감소와 수주부족에 '뒤숭숭'…내부서도 불만 폭발",
-    "summary": "DL이앤씨가 건설경기 악화로 인한 수주 부족으로 임원 47명에서 31명으로 감소하는 등 대규모 인력 감축을 추진하고 있다. 계약직 인력의 자연 감소에도 불구하고 내부에서 불만이 폭발하는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T07:08:49+09:00",
-    "importance": 4
   }
 ]
