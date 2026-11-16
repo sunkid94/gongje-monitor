@@ -20182,6 +20182,22 @@
     "importance": 3
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "전진건설로봇, 3분기 영업이익 56억…전년比 13.1%↑ - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UTE45RjRwMktEb0xDVUZlY2JjTFNyMl9ybWJremY5S2U5eU1EWVhiUVhocXF6ejhBc3EzaF9VelJzdndTTjd6S3ZOeDl6U0ZWX3F2TFFkbnYwUTVfTEZPcNIBeEFVX3lxTE43Ny0xOWYtZ0V6WnNCdEFTRXE1ZUVFZ194U01ic2JHX3ppdmxLVXE1MWJQZVJjRUdrby1FTi1Rbmd3blZWQUZJQjhSOVlvQUtfOWl2UkZKX3VWakkyc0FNRngwd2NqTDV6Uy05UzZQU1hSNWEzVVhXTQ?oc=5",
+    "description": "[서울=뉴시스] 김경택 기자 = 전진건설로봇은 연결재무제표 기준 3분기 영업이익이 56억원을 기록해 전년 동기 대비 13.1% 증가했다고 16일 밝혔다.같은 기간 매출액은 355억원으로 21.0% 감소했다. 3분기 누적 기준으로는 매출액 1288억원, 영업이익 195억원을 기록했다.회사 측은 북미와 호주시장을 중심으로 건설기계 수요가 견조하게 이어지면서 실..",
+    "published_at": "2026-11-16T08:43:38+09:00",
+    "cluster_id": "1ada",
+    "publisher": "뉴시스",
+    "title_clean": "전진건설로봇, 3분기 영업이익 56억…전년比 13.1%↑",
+    "summary": "전진건설로봇이 3분기 영업이익 56억원으로 전년 동기 대비 13.1% 증가했으나, 매출액은 355억원으로 21.0% 감소했다. 북미와 호주 시장의 건설기계 수요 호조가 실적을 지탱하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-16T09:04:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32228,21 +32244,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-10T16:40:36+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김미연 의원, ‘사고 나면 조사, 사고 전엔 무관심’ 공공건축물 안전관리 질타 - 뉴스프리존",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0eVRJQllnaWFKc2lWZnBvQnRvSE5QUjZ3RFVnUVROaU05bTFzd0luamFOd1pVT0ZQX0xfcXZEYnB2alc3WWwwdkxoblNJYXdzQUFvMWo2WUN5Y08wb3ZHNHlMaUFhbkR1X1dBMzdsMXBnOVHSAXdBVV95cUxPRWFMQ1NGeWZoNWstYm5VWFpvWWlkbFVUR1JXUTRaSnZFa0YyMG9YRnIyLW9ucHhLZTZxWDNaNzZZb2VPY094eUJ1dmRvSENROWpvVzdSazRVb2JmdUhzUk5MM1ZhbXZHU1M2S0pNYXFEZ2dMNTJzWQ?oc=5",
-    "description": "전남광주통합특별시의회 김미연 의원(더불어민주당·순천4)이 광주대표도서관 붕괴 사고를 계기로 대형 공공건축물의 안전점검 사각지대와 소극적인 현장 안전관리 체계 개선을 촉구했다.김 의원은 지난 9일 안전건설위원회 소관 주택건축국 행정사무감사에서 광주대표도서관 건설현장 붕괴 사고 이전 지역",
-    "published_at": "2026-11-10T16:13:28+09:00",
-    "cluster_id": "5554",
-    "publisher": "뉴스프리존",
-    "title_clean": "김미연 의원, ‘사고 나면 조사, 사고 전엔 무관심’ 공공건축물 안전관리 질타",
-    "summary": "김미연 의원이 광주대표도서관 붕괴 사고를 지적하며 공공건축물의 안전점검 사각지대와 소극적 안전관리 체계 개선을 촉구했습니다. 사고 발생 후 조사에만 집중하고 사전 안전관리에는 무관심한 현황을 질타했습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-10T16:40:36+09:00",
-    "importance": 4
   }
 ]
