@@ -4250,6 +4250,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "6년째 멈춘 TK신공항 보상…국회서 \"방식 논쟁보다 주민 먼저\" - dailian.co.kr",
+    "link": "https://www.dailian.co.kr/news/view/1715771/?sc=Naver",
+    "description": "정재훈 포스코이앤씨 부장은 \"글로벌 원자재 가격 급등과 금융시장 불안정 등으로 민간 건설업체가 10조원, 20조원 이상 되는 초대형 인프라 사업에 신중할 수밖에 없다\"며 \"공사비가 부족할 경우 정부가 그 부족분을...",
+    "published_at": "2026-11-16T19:02:00+09:00",
+    "cluster_id": "8a1e",
+    "publisher": "dailian.co.kr",
+    "title_clean": "6년째 멈춘 TK신공항 보상…국회서 \"방식 논쟁보다 주민 먼저\"",
+    "summary": "TK신공항 사업의 보상 지연 문제와 관련해 국회에서 보상 방식 논쟁보다 주민 생활 안정을 우선해야 한다는 주장이 제기되었다. 포스코이앤씨 관계자는 글로벌 경제 불안정으로 민간 건설업체들이 초대형 인프라 사업 추진에 신중해지고 있으며, 공사비 부족 시 정부 지원이 필요하다고 언급했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T19:09:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20232,22 +20248,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-10T16:00:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한국동서발전, 현대ENG·포스코이앤씨와 '호남 LNG발전소' 건설 계약 - paxetv.com",
-    "link": "http://www.paxetv.com/news/articleView.html?idxno=286535",
-    "description": "포스코이앤씨, 한국동서발전, 현대엔지니어링 임원들이 지난 9일 계약 체결 후 단체사진을 촬영하고 있다. [사진=한국동서발전] 한국동서발전이 지난 9일 울산 본사에서 현대엔지니어링·포스코이앤씨 컨소시엄과 '호남...",
-    "published_at": "2026-11-10T15:50:00+09:00",
-    "cluster_id": "78b4",
-    "publisher": "paxetv.com",
-    "title_clean": "한국동서발전, 현대ENG·포스코이앤씨와 '호남 LNG발전소' 건설 계약",
-    "summary": "한국동서발전이 현대엔지니어링과 포스코이앤씨 컨소시엠과 호남 LNG발전소 건설 계약을 체결했다. 대규모 에너지 인프라 사업으로 건설업계의 수주 기회 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-10T16:00:52+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
