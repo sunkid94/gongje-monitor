@@ -20250,6 +20250,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "소방청, 전국 초고층 건축물 재난대응체계 집중 점검 - 한국건설신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HN2J1U081YVpYRTJ1aC1WOVYxd1VFV09leXBuMUFGWDI0cVh0LXpGSmFud1E0WUxzRUtkckRDWk9pLUUtelJDLXh0S2EyZDdyNmRENWotMEZtaVI2SWZBTGxnWndlNVNpdXY4?oc=5",
+    "description": "소방청(청장 최용철)이 초고층 건축물과 지하연계 복합건축물의 재난대응체계를 강화하기 위해 오는 12월 17일까지 전국 376개 단지, 512개 동을 대상으로",
+    "published_at": "2026-11-16T18:40:45+09:00",
+    "cluster_id": "91ab",
+    "publisher": "한국건설신문",
+    "title_clean": "소방청, 전국 초고층 건축물 재난대응체계 집중 점검",
+    "summary": "소방청이 초고층 및 지하연계 복합건축물 376개 단지 512개 동을 대상으로 12월 17일까지 재난대응체계 집중 점검을 실시한다. 이는 건축물의 안전 기준 강화를 의미하며, 건설업계에 추가 규제 및 비용 부담을 초래할 수 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T20:10:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32232,21 +32248,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-11T13:14:18+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "중기부, 대‧중소기업 간 대금지급 관행 개선을 위한 현장 의견 청취 - snmnews.com",
-    "link": "http://www.snmnews.com/news/articleView.html?idxno=577252",
-    "description": "이와 함께 최근 건설산업기본법 개정으로 건설업을 중심으로 강화된 '발주자 직접지급 제도'를 다른 하도급 거래 및 전체 수·위탁 거래로 확대하기 위한 방안도 검토했다. 이번 회의는 그간 이루어진 TF 전체회의와...",
-    "published_at": "2026-11-11T12:58:00+09:00",
-    "cluster_id": "e8b6",
-    "publisher": "snmnews.com",
-    "title_clean": "중기부, 대‧중소기업 간 대금지급 관행 개선을 위한 현장 의견 청취",
-    "summary": "중기부가 대·중소기업 간 대금지급 관행 개선을 위해 현장 의견을 수렴하고 있다. 건설산업기본법 개정으로 강화된 '발주자 직접지급 제도'를 다른 하도급 거래로 확대하는 방안을 검토 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T13:09:22+09:00",
-    "importance": 2
   }
 ]
