@@ -4250,6 +4250,22 @@
     "importance": 7
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "롯데 3세 신유열, 사장 승진… 그룹 핵심참모 8명 중 5명 교체 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006206",
+    "description": "반대로 롯데건설 재경외주본부장을 지낸 김원재 전무와 롯데정밀화학 ESG경영본부장 출신 김기순 전무는 지주사에 합류했다. 그룹 관리 경험을 갖춘 인력을 사업 현장에 투입하고 계열사 실무 경험을 지주사에 보강하는...",
+    "published_at": "2026-11-16T18:04:00+09:00",
+    "cluster_id": "e47f",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "롯데 3세 신유열, 사장 승진… 그룹 핵심참모 8명 중 5명 교체",
+    "summary": "롯데그룹이 신유열 3세를 롯데건설 사장으로 승진시키고 핵심 경영진 8명 중 5명을 교체했다. 지주사와 계열사 간 인력 교류를 통해 그룹 경영 시스템을 재편하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-16T18:10:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20234,19 +20250,19 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "모듈러 건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "포스코인터내셔널, 광양 제2 LNG터미널 준공…저장능력 133만㎘로 확대 - e-science.co.kr",
-    "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139408",
-    "description": "포스코가 개발한 극저온용 고망간강을 적용하고 포스코이앤씨가 시공을 맡았으며, 포스코인터내셔널은 터미널 운영을 담당한다. 소재 개발부터 설계·시공, 운영까지 그룹 계열사의 역량을 결합한 사업이라는...",
-    "published_at": "2026-11-10T15:40:00+09:00",
-    "cluster_id": "7596",
-    "publisher": "",
-    "title_clean": "포스코인터내셔널, 광양 제2 LNG터미널 준공…저장능력 133만㎘로 확대 - e-science.co.kr",
-    "summary": "포스코 그룹이 광양에 제2 LNG터미널을 준공하며 저장능력을 133만㎘로 확대했다. 포스코의 극저온용 고망간강 소재 개발부터 포스코이앤씨의 시공, 포스코인터내셔널의 운영까지 그룹 계열사의 역량을 통합한 대규모 인프라 프로젝트다.",
+    "title": "홍지선 국토장관, 세종 모듈러 공공임대 현장 찾아 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUC1TWHZhZGJia1JLTWZyRm12Wi15MlA4bFlRZWR5X0dvamhhRzZ6ZFlLSVZwN2JMVFhpWDJwcUFsVnMyeDdoSTdCdXR2SXVYUjdyR280eVRqNzVCVDZveWhrQ2Y?oc=5",
+    "description": "매일일보 = 김다니엘 기자 | 홍지선 국토교통부 장관이 16일 세종시 5-1 생활권의 모듈러 통합공공임대주택 건설현장을 찾아 공사 상황을 점검했다. 홍 장관은 사",
+    "published_at": "2026-11-16T17:50:53+09:00",
+    "cluster_id": "c7fd",
+    "publisher": "매일일보",
+    "title_clean": "홍지선 국토장관, 세종 모듈러 공공임대 현장 찾아",
+    "summary": "홍지선 국토교통부 장관이 세종시 모듈러 통합공공임대주택 건설현장을 방문해 공사 상황을 점검했다. 모듈러 공법을 활용한 공공임대주택 프로젝트로 건설업계의 신공법 수주 기회를 나타낸다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-10T15:50:36+09:00",
+    "collected_at": "2026-11-16T18:10:05+09:00",
     "importance": 2
   },
   {
@@ -32232,21 +32248,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-11T12:29:17+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한수원 \"대우건설에 추가 협상 기회 줬다…일방 결렬 아냐\" - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMGQtWloxWVhwY1RjdG94RTg5TzUwZ1pDN1V6WV9WZ0pRWE02WERuZHRobU1GYkx4YTJ1SDBtekpBU05tX1dYMlV4RTN0M0N5SDhNSzhYd2Z1UQ?oc=5",
-    "description": "한수원 \"대우건설에 추가 협상 기회 줬다…일방 결렬 아냐\", 대우건설 노조 주장 반박",
-    "published_at": "2026-11-10T15:11:21+09:00",
-    "cluster_id": "e3c2",
-    "publisher": "한국경제",
-    "title_clean": "한수원 \"대우건설에 추가 협상 기회 줬다…일방 결렬 아냐\"",
-    "summary": "한수원이 대우건설과의 협상 결렬 논란에 대해 추가 협상 기회를 제공했다며 일방적 결렬이 아니라고 반박했다. 양사 간 계약 분쟁이 계속되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T12:09:13+09:00",
-    "importance": 4
   }
 ]
