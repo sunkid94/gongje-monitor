@@ -20250,6 +20250,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "남양주시, 민간 전문가와 주차타워 등 공사 현장 3곳 안전·품질 점검 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMaWhBVDlqQXl3czBuQUh4R1lTd0cwUHIwcEYtRjVucG5aZEcwLWVZYWhBZVpkaHk5R1dVOXBSZ3Vrd2xEeWE4MW9qSHZINXpwbTF1Q3NBdWlnaFEtWmRnVQ?oc=5",
+    "description": "경기 남양주시(시장 최현덕)가 공공 건설현장의 안전사고를 예방하고 시공 품질을 높이기 위해 민간 전문가와 합.",
+    "published_at": "2026-11-16T22:52:09+09:00",
+    "cluster_id": "8e08",
+    "publisher": "아시아경제",
+    "title_clean": "남양주시, 민간 전문가와 주차타워 등 공사 현장 3곳 안전·품질 점검",
+    "summary": "남양주시가 민간 전문가와 함께 공공 건설현장 3곳에 대한 안전·품질 점검을 실시하고 있다. 공공 건설현장의 안전사고 예방과 시공 품질 향상을 목표로 하는 행정 조치이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-16T23:00:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32232,21 +32248,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T14:00:07+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "성과냐 세대교체냐…오세철 삼성물산 대표, 연임 변수는 - asiatoday.co.kr",
-    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261110010004111",
-    "description": "주택시장 침체와 건설경기 불확실성이 이어지면서 경영 실적과 수주 성과뿐 아니라 현장 안전관리, 미래 성장동력 확보 능력까지 CEO 재신임을 가를 핵심 변수로 떠올랐다. 임기만료를 앞둔 주요 건설사 CEO들의 올해...",
-    "published_at": "2026-11-11T13:48:00+09:00",
-    "cluster_id": "b8e6",
-    "publisher": "asiatoday.co.kr",
-    "title_clean": "성과냐 세대교체냐…오세철 삼성물산 대표, 연임 변수는",
-    "summary": "오세철 삼성물산 대표의 연임 여부가 주택시장 침체와 건설경기 불확실성 속에서 경영실적, 수주 성과, 안전관리, 미래 성장동력 확보 능력 등 다각적 기준으로 평가될 예정이다. 주요 건설사 CEO들의 올해 재신임이 중요한 시점을 맞고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T13:54:57+09:00",
-    "importance": 4
   }
 ]
