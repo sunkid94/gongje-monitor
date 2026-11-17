@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "공간은 유연하게, AI는 안전하게… GS건설 수주 11조 고삐 - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54ZnYyd2NQRGQzRlBZcktIMVdHTGNYNXRVUXM0b21hUlIxaWFJbHczcVVMZFZ0YjdWNzZ0YlNGNjR4ZWJ2S0VDOXB5OW9QVGJYTWxzazYwMGNIUQ?oc=5",
+    "description": "GS건설이 2년 만에 발표한 중장기 비전에서 '집이라는 한계를 뛰어 넘겠다'는 의미의 '비욘드 리빙'을 제시했다. 올해 정비사업 수주 목표액은 기존 8조원에서 11조원으로 상향했다.",
+    "published_at": "2026-11-17T10:00:00+09:00",
+    "cluster_id": "c95b",
+    "publisher": "파이낸셜뉴스",
+    "title_clean": "공간은 유연하게, AI는 안전하게… GS건설 수주 11조 고삐",
+    "summary": "GS건설이 '비욘드 리빙' 중장기 비전을 발표하며 올해 정비사업 수주 목표를 8조원에서 11조원으로 상향했다. 주거 공간의 유연성과 AI 안전성을 강조한 새로운 사업 방향을 제시했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-17T19:05:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32236,21 +32252,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-11T19:41:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 스타트업 10곳과 혁신기술 건설현장 적용 논의 - dt.co.kr",
-    "link": "https://www.dt.co.kr/article/12094688?ref=naver",
-    "description": "참여 기업들은 스마트건설과 인공지능(AI), 로봇, 친환경 분야의 기술을 선보였다. 롯데건설은 창업진흥원·서울경제진흥원과 진행한 오픈이노베이션 프로그램 등을 통해 9개 기업을 발굴했고, 자체적으로 찾은 1개...",
-    "published_at": "2026-11-11T19:32:00+09:00",
-    "cluster_id": "d090",
-    "publisher": "dt.co.kr",
-    "title_clean": "롯데건설, 스타트업 10곳과 혁신기술 건설현장 적용 논의",
-    "summary": "롯데건설이 스타트업 10곳과 함께 스마트건설, AI, 로봇, 친환경 등 혁신기술을 건설현장에 적용하는 방안을 논의했다. 오픈이노베이션 프로그램을 통해 기술 파트너를 발굴하고 협력을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T19:41:23+09:00",
-    "importance": 2
   }
 ]
