@@ -20270,6 +20270,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "[장수군] 겨울철 자연재난 대비 현장 안전점검 총력 - 투데이안",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZUIzNEVTMUw2MVBtcW9mRmpKT3JmTHA2WW04Z0FORU5LSzZlaWtGMldLVFAwdlgtOGVnejJXbnV3djlqcE4yc19zeVlhbFpCajRFOVBVVEhZVWVleUFXN05uN1hjWWdm?oc=5",
+    "description": "-제설전진기지·취약구간·고립예상지역 및 한파쉼터·건설현장 등 방문해 안전관리 실태 점검 -24시간 상황관리 체계 가동 및 제설자재 3,275톤 확보… “군민 안전한 겨울나기 총력”[투데이안] 장수군은 겨울철 다가오는 대설과 매서운 한파에 따른 군민 피해를 선제적으로 예방하기 위해 주요 재난 취약시설을 대상으로 현장 안전점검을 실시했다고 17일 밝혔다.이번 점검은 최근 기후변화로 인해 빈번해진 기습 폭설과 국지적 한파에 효과적으로 대응하고, 재난 취약시설의 잠재적 위험 요인을 사전에 철저히 파악해 군민의 생명과 재산을 보호하기 위해",
+    "published_at": "2026-11-17T11:17:07+09:00",
+    "cluster_id": "4ac8",
+    "publisher": "투데이안",
+    "title_clean": "[장수군] 겨울철 자연재난 대비 현장 안전점검 총력",
+    "summary": "장수군이 겨울철 자연재난 대비를 위해 제설전진기지, 건설현장 등 취약시설에 대한 안전점검을 실시했다. 24시간 상황관리 체계를 가동하고 제설자재 3,275톤을 확보해 대설과 한파에 대비하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-17T11:29:05+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "경기도 공공건설현장 17곳 점검했더니… 안전·품질 지적 373건 - 베타뉴스",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81U1h3cnp0TFlfQ1ZjbGVpdlAtNHFwSW02dlhHcjJkQ2VWNmo1S2FnVEQ1bFFXaVJtazFmbVdhc0JIMmszWFJ2aDYtUF9sZ0JYVDBOSS0xaGRNZEpuMThRTWk0ZFo?oc=5",
     "description": "경기도가 공공건설현장 17곳을 점검해 안전·품질 관리 미흡 사항 373건을 확인했다. 이 가운데 290건은 개선됐으며, 67건은 조치가 진행 중이다. 17",
@@ -32232,22 +32248,6 @@
     "summary": "한양사이버대 건축도시공학과는 AI 기술을 결합한 스마트 건설 인력 양성에 주력하고 있으며, 재학생 1000명을 돌파했다. 졸업생은 건설기술인 학력지수 20점 인정으로 경력 인정 혜택을 받는다.",
     "sentiment": "positive",
     "collected_at": "2026-11-11T15:41:37+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "㈜BS한양, 동반성장지수 8년 연속 '우수' - 국토일보",
-    "link": "http://www.ikld.kr/news/articleView.html?idxno=343950",
-    "description": "특히 건설경기 둔화로 중소 협력사의 자금 부담이 커진 상황을 감안해 유동성 지원에 무게를 뒀다. 이와 함께 ▲우수협력업체 포상 ▲기술개발 지원 ▲직무역량 향상 교육 등을 통해 협력사의 경쟁력 강화도 지원하고...",
-    "published_at": "2026-11-11T15:20:00+09:00",
-    "cluster_id": "0aae",
-    "publisher": "국토일보",
-    "title_clean": "㈜BS한양, 동반성장지수 8년 연속 '우수'",
-    "summary": "㈜BS한양이 동반성장지수에서 8년 연속 우수 등급을 받았다. 건설경기 둔화 속에서 협력사의 유동성 지원, 기술개발 지원, 교육 등을 통해 중소 협력사의 경쟁력 강화를 적극 지원했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T15:31:39+09:00",
     "importance": 2
   }
 ]
