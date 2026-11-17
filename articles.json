@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "공장에서 집 짓는 시대··· 모듈러 주택 2만호 공급 - 환경일보",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRWZnQTFSZGpQbDRxUlJBNFRUY202cVVuaS1FRExFME1HS01wb3pPYUs2Y21jdnhfT1hEZXpaV0FDaDUxOHFVVjVTTnBjMHFYMDJSR05BTG1rNjVsZ011WVNPelJWbGVJ?oc=5",
+    "description": "[환경일보] 홍지선 국토교통부 장관은 11월 16일(월) 세종 5-1 생활권에 위치한 모듈러 통합공공임대주택 건설현장을 방문해 사업 개요와 추진 현황을 보고받고 양중·설치 현장을 참관했다.이번 방문은 공장에서 정밀 제작된 모듈러 유닛이 실제 주거단지로 운반되어 조립·시공되는 ‘탈현장 건설(OSC, Off-Site Construction)’의 전 과정을 확인하고, 모듈러 산업 활성화를 위해 관계자들을 격려하고자 마련되었다.세종 5-1 생활권 L5블록에는 총 1327호의 통합공공임대주택이 들어선다. 국내 최대 규모인 450호가 모듈러",
+    "published_at": "2026-11-17T11:22:17+09:00",
+    "cluster_id": "74b2",
+    "publisher": "환경일보",
+    "title_clean": "공장에서 집 짓는 시대··· 모듈러 주택 2만호 공급",
+    "summary": "국토교통부가 세종 5-1 생활권에서 모듈러 주택 1327호(모듈러 450호) 건설을 추진 중이며, 공장 제작 후 현장 조립하는 탈현장 건설(OSC) 방식을 확대하고 있다. 정부는 모듈러 주택 2만호 공급 계획을 통해 건설산업의 혁신과 산업 활성화를 도모하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-17T23:36:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32235,22 +32251,6 @@
     "summary": "정부와 지자체가 지역업체의 수주 기회 확대를 위해 전문 기술인력 양성, 스마트건설 기술 도입, 정책금융 지원 등을 강화해야 한다는 주장. 대형 건설사와의 공동수행을 통해 지역업체의 시공 역량과 관리 노하우를 함께 키워야 한다는 입장.",
     "sentiment": "positive",
     "collected_at": "2026-11-12T04:31:52+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "GS·포스코 손잡고 AI 데이터센터 선점 나서 - chosun.com",
-    "link": "https://www.chosun.com/economy/industry-company/2026/11/12/HGENOTPO55BO7PDCEMN2NXLQBQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "description": "건설경기 침체와 중국발 공급과잉으로 어려움을 겪고 있는 포스코는 데이터센터와 전력 인프라 건설에 필요한 고부가가치 철강재가 새로운 돌파구로 떠오르고 있다.",
-    "published_at": "2026-11-12T00:34:00+09:00",
-    "cluster_id": "7ec6",
-    "publisher": "chosun.com",
-    "title_clean": "GS·포스코 손잡고 AI 데이터센터 선점 나서",
-    "summary": "포스코가 GS와 협력하여 AI 데이터센터 건설 시장에 진출하며 고부가가치 철강재 수요를 창출하고 있다. 건설경기 침체와 중국발 공급과잉으로 어려움을 겪던 포스코에게 데이터센터·전력 인프라 건설이 새로운 성장 기회가 되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-12T00:42:10+09:00",
     "importance": 2
   }
 ]
