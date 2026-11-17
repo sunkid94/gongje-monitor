@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "제주 건설업체 대기업 협력 수주 확대 - 제민일보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1paFNNWFNrVnRGMUpWVTBpdkJBTjM5YWg3Y1FMdllMMFF0UEdVS2hCNWpLcHNzenNWdGpXaklPdlkzTHhXM21LRkRHQWlsYk5kTGs1eW5pc1U2Si1wMUNnYktOemlzWUU?oc=5",
+    "description": "제주지역 건설업체들이 국내 건설대기업과의 협력을 통해 367억원 규모의 공사를 수주한 가운데 지역 건설업계의 새로운 사업 기회 확대를 위한 교류의 장이 마련됐다. 제주도는 대한전문건설협회 제주특별자치도회와 함께 지난 16일 제주시 아스타호텔에서 ‘2026년 제주건설업체-건설대기업 상생의 날’ 행사를 개최했다고 17일 밝혔다. 이번 행사에는 현대건설과 GS건설, DL이앤씨 등 국내 건설대기업 13개사와 도내 건설업체 17개사, 해외건설협회 등 관계기관 관계자 100여 명이 참석했다. ‘상생의 힘을 모아, 새로운 기회를 짓다’를 주제로",
+    "published_at": "2026-11-17T15:04:53+09:00",
+    "cluster_id": "9509",
+    "publisher": "제민일보",
+    "title_clean": "제주 건설업체 대기업 협력 수주 확대",
+    "summary": "제주지역 건설업체들이 국내 건설대기업 13개사와의 협력을 통해 367억원 규모의 공사를 수주했다. 제주도와 대한전문건설협회가 '상생의 날' 행사를 개최하여 지역 건설업체의 새로운 사업 기회 확대를 위한 교류의 장을 마련했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-17T22:25:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32236,21 +32252,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T23:46:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "영남권 건설현장 중대재해 예방 강화 - gnmaeil.com",
-    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=598515",
-    "description": "협약에 따라 양 기관은 △고위험·취약 건설현장 안전점검 △건설현장 안전관리 전문가 기술자문 및 컨설팅 △공사감독·현장대리인 VR활용 안전교육△KALIS형 스마트 안전장비 기술지원 및 운영체계 확산 등을 추진한다....",
-    "published_at": "2026-11-11T22:40:00+09:00",
-    "cluster_id": "7b63",
-    "publisher": "gnmaeil.com",
-    "title_clean": "영남권 건설현장 중대재해 예방 강화",
-    "summary": "영남권 건설현장의 중대재해 예방을 위해 관계 기관이 협약을 체결하고 안전점검, 전문가 컨설팅, VR 안전교육, 스마트 안전장비 등을 추진한다. 건설현장의 체계적인 안전관리 강화를 통해 산업재해를 줄이기 위한 정책이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T22:52:34+09:00",
-    "importance": 5
   }
 ]
