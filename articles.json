@@ -20335,6 +20335,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 건설업체 수주 길 넓힌다…대형건설사와 1대1 매칭 상담 - 경북일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PX24tbWloeHdwZHEwVVNldVJlUWUyVE9HWTlzS1dFRXAzc3VpWnBWVE0xNjhSaWY4ZUg3Sl9aZjAxSVJzb2xQZDZwcTFLVHhuLTlkYm96dTAtVmduSXljejBZN0pjbTdnbEpKWDUtYw?oc=5",
+    "description": "그동안 대형건설사와의 접촉 기회가 부족했던 지역업체에 직접적인 소통 창구를 제공, 업체가 보유하고 있는 우수한 기술력과 시공역량을 알릴 수 있는 자리가 마련됐다. 지난 8월 13일 개최된 제3차 비상경제대책회의 후속 조치인 셈이다.대구시는 17일 엑스코에서 국내 주요 대형건설사 17개",
+    "published_at": "2026-11-17T18:11:45+09:00",
+    "cluster_id": "b297",
+    "publisher": "경북일보",
+    "title_clean": "대구 건설업체 수주 길 넓힌다…대형건설사와 1대1 매칭 상담",
+    "summary": "대구시가 대형건설사 17개와 지역 건설업체의 1대1 매칭 상담을 개최하여 중소 건설업체의 수주 기회를 확대하고 있다. 그간 접촉 기회가 부족했던 지역업체가 기술력과 시공역량을 직접 알릴 수 있는 소통 창구를 마련했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-18T00:40:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32237,21 +32253,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-12T06:11:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "가구업계, 매출 3000억원에도 수익성 ‘빨간불’…프리미엄 시장서 돌파... - viva100.com",
-    "link": "https://www.viva100.com/article/20261110500895",
-    "description": "건설경기 침체와 소비 위축이 장기화하면서 국내 가구업계의 수익성 악화가 현실화하고 있다. 주요 업체들이 분기 매출 3000억원 안팎의 외형을 유지하고도 영업이익은 한 자릿수억원에 그치거나 적자를 기록하면서다....",
-    "published_at": "2026-11-12T06:02:00+09:00",
-    "cluster_id": "0c8f",
-    "publisher": "viva100.com",
-    "title_clean": "가구업계, 매출 3000억원에도 수익성 ‘빨간불’…프리미엄 시장서 돌파...",
-    "summary": "건설경기 침체와 소비 위축으로 국내 가구업계의 수익성이 악화되고 있다. 주요 업체들이 매출 3000억원대를 유지하면서도 영업이익은 한 자릿수에 그치거나 적자를 기록하는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-12T06:11:50+09:00",
-    "importance": 4
   }
 ]
