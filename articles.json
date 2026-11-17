@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "현대건설·DL이앤씨 등 17곳 대구 집결...지역업체 49곳 '수주 기회' - ppss.kr",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=321526",
+    "description": "대구시는 지역 건설경기 활성화를 위한 제도 개선과 금융지원 확대도 추진하고 있다. 앞서 300억원 이상 공공공사의 공구분할 제도화, 지역 건설업체 하도급률 상향, 건설업 금융지원 확대 등을 3대 중점 과제로 제시했다....",
+    "published_at": "2026-11-17T21:00:00+09:00",
+    "cluster_id": "147a",
+    "publisher": "ppss.kr",
+    "title_clean": "현대건설·DL이앤씨 등 17곳 대구 집결...지역업체 49곳 '수주 기회'",
+    "summary": "대구시가 현대건설·DL이앤씨 등 17개 대형 건설사를 유치하여 지역 건설업체 49곳에 수주 기회를 제공하고 있다. 공구분할 제도화, 하도급률 상향, 금융지원 확대 등을 통해 지역 건설경기 활성화를 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-17T22:40:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32235,22 +32251,6 @@
     "summary": "내년 설비투자 호조와 민간소비 회복, 적극적 재정운용으로 내수 회복이 예상된다. 건설경기 개선과 정부 일자리 사업 확대가 긍정 요인이나, 청년층 고용 부진과 산업별 편중 등 구조적 과제가 남아 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-12T00:06:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "위례과천선, 12월 제3자 제안공고 예정…정거장 유치 신경전 - 굿모닝경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rRFZRYUFZWk0wQlJaeWhjQWxxV1dwQWI1Z2J1NjNLckRsRnRRNjY2cmRROU1mUF9kNFZZaXVoNUpjWHNRcC1paUU4WWRoS0pWREZPLTY0QTV3YWRNbnc4VDFHUTZLeVREOG1mMw?oc=5",
-    "description": "대우건설 컨소시엄이 제안한 위례과천 광역철도 민간투자사업이 서울 우면지구를 경유하는 '대안1'이 최적안으로 선정된 가운데 일부 구간과 정거장 위치를 놓고 지역별",
-    "published_at": "2026-11-11T17:29:09+09:00",
-    "cluster_id": "91b3",
-    "publisher": "굿모닝경제",
-    "title_clean": "위례과천선, 12월 제3자 제안공고 예정…정거장 유치 신경전",
-    "summary": "대우건설 컨소시엄의 위례과천 광역철도 민간투자사업이 우면지구 경유하는 '대안1'으로 최적안 선정. 정거장 위치와 구간을 둘러싼 지역 간 협상이 진행 중이며, 12월 제3자 제안공고 예정.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T23:46:22+09:00",
     "importance": 2
   }
 ]
