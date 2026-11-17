@@ -20270,6 +20270,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "경기도 도민감리단, 공공현장 373건 지적 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Z2xBNlhEZWt4bEg4VDVVZGJoLXNMd0h6UUd1TXdRcVkxYjEteDMyN1h3SHZZQ2RaXzhQRzdIQVNIRWhoV01DeWFRNHZ0S2VXX3lLVWdITEl3OGExMlY3bkFBLWM2Rk5LemfSAW9BVV95cUxOclA5YTBrNkU5Um1WdEYwQTd6TzBXTlNEMEZSNTE2b3NNa3hhS283Z2NmclJjb0RPVGJJa1VrZ2l5UEVKWGpmOFV1R1pkVWZNbDltOU1kWmNOQUl4N0xYQUhPbWhsMEZ6WWRwWnZVaHc?oc=5",
+    "description": "경기도가 도민감리단을 통해 올해 공공건설현장을 점검한 결과 안전·품질 관리 관련 지적사항 373건을 확인하고 이 가운데 290건을 개선했다고 17일 밝혔다. 도민감리단은 지난 10월부터 11월4일까지 올해 점검 대상 22곳 가운데 미착공 등으로 점검이 어려운 5곳을 제외한 17곳을 대상으로 현장 점검을 진행했다.",
+    "published_at": "2026-11-17T14:13:56+09:00",
+    "cluster_id": "8bb4",
+    "publisher": "머니투데이",
+    "title_clean": "경기도 도민감리단, 공공현장 373건 지적 - 머니투데이",
+    "summary": "경기도 도민감리단이 공공건설현장 17곳을 점검하여 373건의 안전·품질 관리 지적사항을 발견했으며, 이 중 290건을 개선했다. 공공현장에 대한 감시 강화와 개선 조치가 진행 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-17T14:54:22+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "건정연, 내달 1일 내년 건설·주택 경기전망 세미나 개최 - 한국건설신문",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XaUZONXVTU21vRkFoSjh6WFhWRlR6U2k1T25CWEVGeU4tTW5KQWpOWHVhcHVvbllCaUl1NUtxeUJlZWJ0RlcwdGxDZ1MzY1Ffb0E2b21wQ0ZvaWJjTVBOMndwNmxYQWxRaHpR?oc=5",
     "description": "대한건설정책연구원(건정연)이 오는 12월 1일 서울 동작구 전문건설회관 2층 바이올렛홀에서",
@@ -32233,21 +32249,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-11T16:06:03+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 스타트업 10곳과 건설현장 혁신기술 검증 - delighti.co.kr",
-    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=124752",
-    "description": "이번 프로그램에는 스마트건설과 인공지능(AI), 로봇, 친환경 분야의 스타트업 10곳이 참여했다. 롯데건설은 창업진흥원·서울경제진흥원과 함께 진행한 오픈이노베이션 프로그램 등을 통해 9개 기업을 발굴했으며, 자체...",
-    "published_at": "2026-11-11T15:58:00+09:00",
-    "cluster_id": "596f",
-    "publisher": "delighti.co.kr",
-    "title_clean": "롯데건설, 스타트업 10곳과 건설현장 혁신기술 검증",
-    "summary": "롯데건설이 스마트건설, AI, 로봇, 친환경 분야의 스타트업 10곳과 협력하여 건설현장 혁신기술을 검증하는 오픈이노베이션 프로그램을 추진 중이다. 이를 통해 건설업계의 기술혁신과 디지털 전환을 가속화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T16:06:03+09:00",
-    "importance": 2
   }
 ]
