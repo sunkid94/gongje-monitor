@@ -4318,6 +4318,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "광주 센테니얼 아이파크, 재시공 후 사전점검 - koreareport.co.kr",
+    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54837",
+    "description": "IPARK현대산업개발이 전 동을 재시공한 광주 센테니얼 아이파크에서 지난 14~15일 입주자 사전점검을 진행했다. 입주예정자가 점검 과정에서 확인을 요청한 사항을 살펴보고 입주 전에 필요한 조치를 할 계획이다. 광주...",
+    "published_at": "2026-11-17T19:18:00+09:00",
+    "cluster_id": "aa16",
+    "publisher": "koreareport.co.kr",
+    "title_clean": "광주 센테니얼 아이파크, 재시공 후 사전점검",
+    "summary": "현대산업개발이 광주 센테니얼 아이파크 전 동 재시공을 완료하고 입주자 사전점검을 실시했다. 입주 전 필요한 조치를 진행할 계획이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-17T19:30:30+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20302,19 +20318,19 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "포스코이앤씨 고창 앞바다 해상풍력발전 11월 착공, 2029년 8월 준공 목... - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451804",
-    "description": "<포스코이앤씨> 포스코이앤씨가 전북 고창 앞바다에서 대규모 해상풍력 발전소 건립 공사를 시작한다. 포스코이앤씨는 76.2MW 규모의 고창 해상풍력 프로젝트 공사 계약을 맺고 11월 안에 착공에 들어간다고 12일 밝혔다....",
-    "published_at": "2026-11-12T10:52:00+09:00",
-    "cluster_id": "9fc4",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "포스코이앤씨 고창 앞바다 해상풍력발전 11월 착공, 2029년 8월 준공 목...",
-    "summary": "포스코이앤씨가 전북 고창 앞바다에 76.2MW 규모의 해상풍력발전소 건립을 추진하며 11월 착공, 2029년 8월 준공 예정이다. 대규모 해상풍력 프로젝트 수주로 건설기계설비 관련 수요 증가가 예상된다.",
+    "title": "하나증권 \"건설주 판 바뀐다…40조원 데이터센터 시장, GS건설에 기회 오... - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505197",
+    "description": "한국건설산업연구원은 2027년 건설수주가 전년 대비 4.1% 증가할 것으로 내다봤다. 공공 부문은 6.3%, 민간 부문은 3.1% 증가할 것으로 예상했다. 건축 분야에서는 주거 부문 수주 증가율이 0.4%에 그치는 반면 비주거 부문은...",
+    "published_at": "2026-11-17T19:18:00+09:00",
+    "cluster_id": "b3ed",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "하나증권 \"건설주 판 바뀐다…40조원 데이터센터 시장, GS건설에 기회 오...",
+    "summary": "2027년 건설수주가 전년 대비 4.1% 증가할 것으로 예상되며, 공공 부문(6.3%)이 민간 부문(3.1%)보다 가파른 성장을 보일 전망이다. 주거 부문은 부진한 반면 데이터센터 등 비주거 부문이 성장 동력으로 떠오르면서 건설업계 판도 변화가 예상된다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-12T11:03:53+09:00",
+    "collected_at": "2026-11-17T19:30:30+09:00",
     "importance": 2
   },
   {
@@ -32236,21 +32252,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T20:01:48+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "현대엔지니어링 '안성 교량 붕괴' 8개월 영업정지 - 4th.kr",
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2121654",
-    "description": "처분 근거는 건설산업기본법 제82조 제2항 제5호와 같은 법 시행령 별표6이다. 영업정지 대상 사업의 매출액은 5조5410억2852만원이다. 현대엔지니어링의 2025년 연결재무제표 기준 국내 토목·건축 도급공사 매출액이다....",
-    "published_at": "2026-11-11T19:28:00+09:00",
-    "cluster_id": "42cf",
-    "publisher": "4th.kr",
-    "title_clean": "현대엔지니어링 '안성 교량 붕괴' 8개월 영업정지",
-    "summary": "현대엔지니어링이 안성 교량 붕괴 사고로 8개월 영업정지 처분을 받았다. 국내 토목·건축 도급공사 5조5410억원 규모의 영업정지로 건설업계에 미치는 영향이 크다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T19:41:23+09:00",
-    "importance": 4
   }
 ]
