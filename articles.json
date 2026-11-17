@@ -20318,6 +20318,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "대구 건설업계 일감 가뭄 돌파구 찾는다…대기업과 직접 소통 창구 가동 - ksmnews.co.kr",
+    "link": "https://www.ksmnews.co.kr/news/view.php?idx=630035",
+    "description": "대구지역 전문건설업자들이 지역 건설경기를 회복시키기 위해 대형건설사와 직접적인 네트워크를 구축하며 수주 판로 개척에 나섰다. 대구시는 17일 엑스코에서 국내 굴지의 대형건설사 17곳과 지역 전문건설업체 49곳이...",
+    "published_at": "2026-11-17T21:00:00+09:00",
+    "cluster_id": "b65c",
+    "publisher": "ksmnews.co.kr",
+    "title_clean": "대구 건설업계 일감 가뭄 돌파구 찾는다…대기업과 직접 소통 창구 가동",
+    "summary": "대구 전문건설업체들이 일감 부족을 해결하기 위해 대형건설사 17곳과 직접 네트워크를 구축하는 수주 연결 행사를 개최했다. 지역 건설경기 회복을 위한 적극적인 판로 개척 움직임으로, 전문건설업체들의 수주 기회 확대가 기대된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-17T21:10:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32235,22 +32251,6 @@
     "summary": "SK에코플랜트가 동반성장위원회 평가에서 10년 연속 최우수 등급을 달성했다. 공정거래 기반 강화, 비즈파트너 경쟁력 제고, 기술협력 확대 등을 통해 상생협력을 실천하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-11T20:52:06+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국가철도공단, BIM · AI 활용 우수사례 공유로 철도건설 안전 혁신 - 건설이코노미뉴스",
-    "link": "https://www.cenews.kr/news/articleView.html?idxno=50676",
-    "description": "[건설이코노미뉴스] 국가철도공단은 11일 대전 본사에서 한국BIM학회와 공동으로 '철도 시공 BIM 경진대회 및 스마트 ‧ BIM ‧ AI 기술 포럼'을 개최했다고 밝혔다.이번 행사에는 공단과 건설사, 학계 관계자 등 100여 명이 참석했으며, 주요 식순으로 ▲철도 시공 BIM 경진대회 수상작 시상 ▲스마트 · BIM · AI 포럼 우수사례 발표 ▲현장 적용 확대를 위한 종합토론이 진행됐다.먼저, '철도 시공 BIM 경진대회'에는 총 20개 건설현장이 참여했으며, 서면 심사를 거쳐 BIM을 활용한 현장 업무 개선 성과가 우수한 3개",
-    "published_at": "2026-11-11T20:45:11+09:00",
-    "cluster_id": "fdce",
-    "publisher": "건설이코노미뉴스",
-    "title_clean": "국가철도공단, BIM · AI 활용 우수사례 공유로 철도건설 안전 혁신",
-    "summary": "국가철도공단이 한국BIM학회와 함께 철도 시공 BIM 경진대회 및 스마트·BIM·AI 기술 포럼을 개최했다. 20개 건설현장이 참여하여 BIM 활용 우수사례를 공유하고 현장 적용 확대를 논의했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-11T20:46:06+09:00",
     "importance": 2
   }
 ]
