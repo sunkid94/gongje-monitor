@@ -20321,6 +20321,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "경남, 내달 8일까지 공공 건설 현장 1899곳 안전점검 - ulsanpress.net",
+    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=586992",
+    "description": "경남도가 겨울철 건설현장 안전사고 예방을 위해 도내 공공건설공사 현장 1,899곳을 대상으로 동절기 안전점검에 나선다. 점검 기간은 18일부터 12월 8일까지 21일간으로, 총공사비 1억원 이상 공공건설공사 현장이...",
+    "published_at": "2026-11-17T21:42:00+09:00",
+    "cluster_id": "7978",
+    "publisher": "ulsanpress.net",
+    "title_clean": "경남, 내달 8일까지 공공 건설 현장 1899곳 안전점검",
+    "summary": "경남도가 겨울철 건설현장 안전사고 예방을 위해 도내 공공건설공사 1,899곳을 대상으로 12월 8일까지 동절기 안전점검을 실시한다. 총공사비 1억원 이상 현장을 중심으로 21일간 집중 점검을 진행할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-17T21:50:28+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "태영건설 고속도로 공사현장서 20대 노동자 사망…이달 들어 두 번째 인... - geconomy.co.kr",
     "link": "https://www.geconomy.co.kr/news/article.html?no=325766",
     "description": "◇ 이달에만 두 번째 사망사고…건설현장 안전관리 도마 태영건설 시공현장에서 노동자가 숨진 사고는 이달 들어 두 번째다. 앞서 지난 4일에는 서울 성동구 용답동 청년주택 건설현장에서 하청업체 소속 60대 노동자가...",
@@ -32236,21 +32252,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T22:52:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "다단계 하도급 원칙적 금지···영세 건설업체 보호 강화 - jtv.co.kr",
-    "link": "https://jtv.co.kr/news/article.php?id=72076",
-    "description": "더불어민주당 윤준병 의원이 건설업계의 다단계 하도급을 제한하고 영세·전문건설업체를 보호하기 위한 건설산업기본법 개정안을 대표 발의했습니다. 개정안은 동일 업종 간 하도급을 원칙적으로 금지하고 예외적으로...",
-    "published_at": "2026-11-11T21:30:00+09:00",
-    "cluster_id": "4a8c",
-    "publisher": "jtv.co.kr",
-    "title_clean": "다단계 하도급 원칙적 금지···영세 건설업체 보호 강화",
-    "summary": "더불어민주당 윤준병 의원이 건설산업기본법 개정안을 발의하여 동일 업종 간 다단계 하도급을 원칙적으로 금지하고 영세·전문건설업체를 보호하는 규제를 추진 중입니다. 이는 건설업계의 불공정한 하도급 관행을 개선하려는 정책입니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T21:42:15+09:00",
-    "importance": 4
   }
 ]
