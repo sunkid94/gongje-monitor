@@ -20335,6 +20335,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "공공건설현장 안전·품질 지적 373건 - 현대일보",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWdkdFUV81MjZpSUVmeG05STJyOEVGMEk2R0R4TmxtSExkbUhuTHlLLWRUTUxQcksyNEd1MG4xZlVCY0hpUDJvWmlqMXJtSXUtUXdRLTAyNDhUSWpHN1FfUGFZS2pMSGtjSzJ6czlR?oc=5",
+    "description": "경기도가 올해 도민감리단을 통해 공공건설현장 17곳을 점검한 결과, 안전·품질 관리와 관련한 지적사항 373건을 확인하고 이 가운데 290건을 개선했다고 17일 밝혔다.도민감리단은 올해 10월부터 11월 4일까지 올해 점검 대상 22곳 가운데 미착공 등으로 점검이 어려운 5곳을 제외한 17곳에 대한 점검을 진행했다.도민감리단은 공공건설공사의 품질과 안전을 높이기 위해 경기도가 2019년 도입한 제도다. 도로·철도·하천·건축 분야 외부 전문가 30명으로 구성돼 경기도와 소속기관이 발주한 공공건설현장을 점검하고 있다.주요 지적사항은 △",
+    "published_at": "2026-11-17T15:58:44+09:00",
+    "cluster_id": "c959",
+    "publisher": "현대일보",
+    "title_clean": "공공건설현장 안전·품질 지적 373건",
+    "summary": "경기도가 올해 공공건설현장 17곳을 도민감리단으로 점검한 결과 373건의 안전·품질 지적사항을 발견하고 290건을 개선했다. 도민감리단은 2019년 도입된 제도로 외부 전문가 30명이 경기도 발주 공공건설현장의 품질과 안전을 감시·점검하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-18T00:50:33+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32237,21 +32253,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-12T06:11:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "내년 임기만료 앞둔 건설사 CEO…수익성 증명에도 연임 변수 남아있다 - kukinews.com",
-    "link": "https://www.kukinews.com/article/view/kuk202611110200",
-    "description": "장기간 이어지고 있는 건설경기 불황에도 정비사업 수주 실적과 수익성 개선에 성공한 CEO들의 연임은 청신호가 켜졌다는 평가다. 다만 중대재해를 비롯한 안전관리 문제 발생은 향후 거취에 중요한 변수로 작용할...",
-    "published_at": "2026-11-12T06:02:00+09:00",
-    "cluster_id": "7e06",
-    "publisher": "kukinews.com",
-    "title_clean": "내년 임기만료 앞둔 건설사 CEO…수익성 증명에도 연임 변수 남아있다",
-    "summary": "건설경기 불황 속에서도 정비사업 수주와 수익성 개선을 이룬 CEO들의 연임이 긍정적으로 평가되고 있다. 다만 중대재해 등 안전관리 문제가 연임을 결정하는 중요한 변수로 작용할 것으로 예상된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-12T06:11:50+09:00",
-    "importance": 2
   }
 ]
