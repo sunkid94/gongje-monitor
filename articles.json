@@ -4318,6 +4318,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299",
+    "description": "애초 국민의힘 부산시당은 정부의 특별법 개정 방침을 두고 국회에 책임을 전가한다며 반발했지만, 시공사인 대우건설 컨소시엄의 실시설계 착수 결정과 국토교통부가 재정지원을 강제하는 법 개정을 수용한 점을 감안해...",
+    "published_at": "2026-11-17T19:45:00+09:00",
+    "cluster_id": "b330",
+    "publisher": "kookje.co.kr",
+    "title_clean": "국힘, 가덕 공사비 현실화 특별법 개정 동참",
+    "summary": "국민의힘이 가덕신공항 공사비 현실화를 위한 특별법 개정에 동참하기로 결정했다. 대우건설 컨소시엄의 실시설계 착수와 국토교통부의 재정지원 강제화 법안을 수용하면서 사업 추진이 탄력을 받을 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-17T19:50:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20299,22 +20315,6 @@
     "summary": "포스코이앤씨가 76.2MW 규모의 고창 해상풍력 프로젝트를 수주하며 약 2974억원 규모의 공사계약을 체결했다. 2029년 8월 준공을 목표로 이달 내 착공하여 신재생에너지 건설사업을 본격화한다.",
     "sentiment": "positive",
     "collected_at": "2026-11-12T11:13:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "GS건설, '비욘드 어디션' 첫 선...리모델링 시장 경쟁 가열 - choicenews.co.kr",
-    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=173132",
-    "description": "대우건설도 리모델링 사업 수주와 관련 기술 개발을 이어가고 있다. 지난 4월에는 수원 지역의 아파트 리모델링 사업을 수주했다. 앞서 구축 아파트의 층간소음 문제를 개선하기 위해 '스마트 3중 바닥구조'를 개발하고...",
-    "published_at": "2026-11-12T10:54:00+09:00",
-    "cluster_id": "e11a",
-    "publisher": "choicenews.co.kr",
-    "title_clean": "GS건설, '비욘드 어디션' 첫 선...리모델링 시장 경쟁 가열",
-    "summary": "GS건설이 '비욘드 어디션'으로 리모델링 시장에 진출하며 업계 경쟁이 심화되고 있다. 대우건설도 수원 아파트 리모델링 수주와 층간소음 개선 기술 개발 등으로 리모델링 시장 공략을 지속 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-12T11:03:53+09:00",
     "importance": 2
   },
   {
