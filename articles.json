@@ -20335,6 +20335,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“호남반도체 팹 착공시 건설현장 숙련공 싹 흡수할 것” - 광주드림",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vQ2tyVjk5OGpFWkF5RGhzZUhXbDVvZkVYVUN2OE5DR0NVd3VxekVZNm8wOXVBczMzQjZQdnJsLW40Y1Y3MVhYR0FYOGlXS1hUTmk5R1JoYzVDdFRsUzVQSDJFMk9iaWd3UkE?oc=5",
+    "description": "호남권 반도체 클러스터 건설을 앞두고 전남광주통합특별시가 지역 건설현장의 불법·다단계 하도급과 임금 중간착취를 차단하기 위한 노사정 공동 대응에 나섰다. 불법 하도급에 따른 공사비와 노동자 임금이 줄어드는 구조를 개선하고, 이를 상시 점검할 행정 전담조직을 신설하자는 제안이다. 특히 “팹 공사 착수 후 최소 6달 안에 아파트 공사 형틀 목공 인력은 팹 현장으로 순식간에 흡수될 것”이라는 우려가 제기되면서, 기존 현장의 인력을 지켜낼 근본 대책이 필요하다는 목소리도 나왔다. 전남광주노동포럼은 17일 광주시의회 5층 중회의실에서 ‘지속",
+    "published_at": "2026-11-18T00:10:00+09:00",
+    "cluster_id": "7f2a",
+    "publisher": "광주드림",
+    "title_clean": "“호남반도체 팹 착공시 건설현장 숙련공 싹 흡수할 것”",
+    "summary": "호남반도체 팹 착공을 앞두고 전남광주통합특별시가 건설현장의 불법 하도급과 임금 중간착취를 차단하기 위한 노사정 공동 대응을 추진 중이다. 팹 공사로 인해 기존 건설현장의 숙련공이 대량 유출될 우려가 제기되면서, 이를 방지하기 위한 근본 대책 마련이 필요한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-18T01:14:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32237,21 +32253,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-12T06:11:50+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "지방 건설사, 줄줄이 무너진다…폐업 건설사 17년 만에 최대 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261111_0003864203",
-    "description": "국토교통부 건설산업지식정보시스템에 따르면 올해 1~9월 폐업 신고한 건설사(종합·전문건설업 포함)는 변경·정정·철회 신고를 포함해 3274곳으로 집계됐다. 지난해 같은 기간 2569곳보다 27.4% 증가했다. 2009년 같은...",
-    "published_at": "2026-11-12T06:00:00+09:00",
-    "cluster_id": "9718",
-    "publisher": "newsis.com",
-    "title_clean": "지방 건설사, 줄줄이 무너진다…폐업 건설사 17년 만에 최대",
-    "summary": "올해 1~9월 건설사 폐업 신고가 3274곳으로 집계되어 지난해 같은 기간 대비 27.4% 증가했으며, 17년 만에 최대치를 기록했다. 지방 건설사들의 경영난이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-12T06:11:50+09:00",
-    "importance": 4
   }
 ]
