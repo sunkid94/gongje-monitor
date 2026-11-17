@@ -4321,6 +4321,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "대우건설, 신월시영 재건축에 '꽃' 모티브 특화설계 제안 - smarttimes.co.kr",
+    "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50656",
+    "description": "대우건설이 서울 양천구 신월시영아파트 재건축사업 수주를 위해 미국 건축 디자인그룹 JERDE(져디)와 협업한 특화설계를 내놨다. 꽃이 피어나는 모습을 단지 외관과 건물 배치에 반영해 차별화된 주거공간을...",
+    "published_at": "2026-11-17T19:58:00+09:00",
+    "cluster_id": "6a9a",
+    "publisher": "smarttimes.co.kr",
+    "title_clean": "대우건설, 신월시영 재건축에 '꽃' 모티브 특화설계 제안",
+    "summary": "대우건설이 미국 건축그룹 JERDE와 협업하여 서울 양천구 신월시영아파트 재건축사업 수주를 위한 특화설계를 제안했다. 꽃 모티브를 단지 외관과 건물 배치에 반영해 차별화된 주거공간을 구현하는 디자인이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-17T20:05:27+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참 - kookje.co.kr",
     "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299",
     "description": "애초 국민의힘 부산시당은 정부의 특별법 개정 방침을 두고 국회에 책임을 전가한다며 반발했지만, 시공사인 대우건설 컨소시엄의 실시설계 착수 결정과 국토교통부가 재정지원을 강제하는 법 개정을 수용한 점을 감안해...",
@@ -20302,20 +20318,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "포스코이앤씨, 고창 해상풍력발전 사업 착수 - ziksir.com",
-    "link": "https://www.ziksir.com/news/articleView.html?idxno=153023",
-    "description": "[포스코이앤씨]  포스코이앤씨는 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고 이달 내 착공한다고 12일 밝혔다. 총 공사비는 약 2974억원으로, 2029년 8월 준공과 상업 발전 개시를 목표로 한다....",
-    "published_at": "2026-11-12T10:58:00+09:00",
-    "cluster_id": "a5a8",
-    "publisher": "ziksir.com",
-    "title_clean": "포스코이앤씨, 고창 해상풍력발전 사업 착수",
-    "summary": "포스코이앤씨가 76.2MW 규모의 고창 해상풍력 프로젝트를 수주하며 약 2974억원 규모의 공사계약을 체결했다. 2029년 8월 준공을 목표로 이달 내 착공하여 신재생에너지 건설사업을 본격화한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-12T11:13:36+09:00",
-    "importance": 2
+    "title": "경기도 도민감리단, 안전-품질 지적사항 373건 확인 - CNB뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVTlhZaWJJQkd3ZkhoazlBUWtlbUZYVnk0dl9pb3lnV3VqOWgyY09JMWtVNXdDVVo1SVhIQ0NCd1pGS2NjanlSZWdFLXYwMHVHREo2VGNaMDF3NGhTZFNBS1hnUEx0WWF0dUxJ?oc=5",
+    "description": "경기도가 올해 도민감리단을 통해 공공건설현장 17곳을 점검한 결과, 안전·품질 관리와 관련한 지적사항 373건을 확인하고 이 가운데 290건을 개선했다.전체 지적",
+    "published_at": "2026-11-17T14:14:16+09:00",
+    "cluster_id": "2505",
+    "publisher": "CNB뉴스",
+    "title_clean": "경기도 도민감리단, 안전-품질 지적사항 373건 확인",
+    "summary": "경기도가 공공건설현장 17곳에 대한 도민감리단 점검을 통해 안전·품질 지적사항 373건을 적발했으며, 이 중 290건을 개선 조치했다. 지적사항의 대부분이 개선됨에 따라 공공건설 현장의 안전·품질 관리 강화가 이루어지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-17T20:05:27+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설경기",
@@ -32236,21 +32252,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-11T20:41:56+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[체코 원전 '시계제로'②] 한수원과 갈등에도 재협상 요청…대우건설의... - ntoday.co.kr",
-    "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130596",
-    "description": "대우건설 노동조합(전국건설기업노동조합 대우건설지부)도 전면에 나섰다. 협상 결렬 배경에 '템퍼링(사전 접촉)' 의혹을 제기하는 기자회견을 연데 이어 대통령에게 보내는 탄원서를 제출한 것으로 알려졌다. 노조 측은...",
-    "published_at": "2026-11-11T20:20:00+09:00",
-    "cluster_id": "c07a",
-    "publisher": "ntoday.co.kr",
-    "title_clean": "[체코 원전 '시계제로'②] 한수원과 갈등에도 재협상 요청…대우건설의...",
-    "summary": "체코 원전 사업 협상 결렬과 관련해 대우건설 노조가 '템퍼링' 의혹을 제기하며 기자회견과 대통령 탄원서를 제출했다. 한수원과의 갈등 속에서도 재협상을 요청하고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-11T20:31:33+09:00",
-    "importance": 4
   }
 ]
