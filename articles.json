@@ -20321,6 +20321,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "경기도 도민감리단, 공공건설현장 17곳 점검…373건 지적사항 확인 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MX2k2Sk1wcFU2Z2tRR3VlbTlaRWNlTWRKWU14ZExNektxSEFTVEIwQUhVZWpSRVNlV3U3MjJMQV9yQ1BFcFp6RHo1SXlhN0I3Wl9HMDBXN2JvRjQ2?oc=5",
+    "description": "[의정부=뉴스핌] 안성진 기자 = 경기도 도민감리단은 올해 점검 대상 22곳 가운데 미착공 등으로 점검이 어려운 5곳을 제외한 17곳을 대상으로 지난 10월부터 점검을 진행했다고 17일 밝혔다.경기도 도민감리단 공공건설현장 점검 모습. [사진=경기도]경기도가 도민감리단",
+    "published_at": "2026-11-17T10:00:00+09:00",
+    "cluster_id": "8f5c",
+    "publisher": "뉴스핌",
+    "title_clean": "경기도 도민감리단, 공공건설현장 17곳 점검…373건 지적사항 확인",
+    "summary": "경기도 도민감리단이 공공건설현장 17곳에 대해 점검을 실시하여 373건의 지적사항을 확인했다. 이는 도민감리단의 감시 및 감리 활동을 통한 공공건설의 품질 관리 강화를 보여주는 사실 보도이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-17T23:10:13+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "현대건설·DL이앤씨 등 17곳 대구 집결...지역업체 49곳 '수주 기회' - ppss.kr",
     "link": "https://www.ppss.kr/news/articleView.html?idxno=321526",
     "description": "대구시는 지역 건설경기 활성화를 위한 제도 개선과 금융지원 확대도 추진하고 있다. 앞서 300억원 이상 공공공사의 공구분할 제도화, 지역 건설업체 하도급률 상향, 건설업 금융지원 확대 등을 3대 중점 과제로 제시했다....",
@@ -32235,22 +32251,6 @@
     "summary": "포스코가 GS와 협력하여 AI 데이터센터 건설 시장에 진출하며 고부가가치 철강재 수요를 창출하고 있다. 건설경기 침체와 중국발 공급과잉으로 어려움을 겪던 포스코에게 데이터센터·전력 인프라 건설이 새로운 성장 기회가 되고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-12T00:42:10+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"설비투자 호조, 민간소비 회복, 적극 재정운용…내년 내수 회복\" - junggi.co.kr",
-    "link": "https://www.junggi.co.kr/news/articleView.html?idxno=38448",
-    "description": "고령층 취업 증가와 건설경기 개선, 정부 일자리 사업 확대가 고용을 뒷받침하겠지만, 청년층 고용 부진과 산업별 편중은 구조적 과제로 남아 있다고 진단했다. 김 실장은 반도체 호황이 경제 전반으로 확산되는 데...",
-    "published_at": "2026-11-12T00:00:00+09:00",
-    "cluster_id": "6118",
-    "publisher": "junggi.co.kr",
-    "title_clean": "\"설비투자 호조, 민간소비 회복, 적극 재정운용…내년 내수 회복\"",
-    "summary": "내년 설비투자 호조와 민간소비 회복, 적극적 재정운용으로 내수 회복이 예상된다. 건설경기 개선과 정부 일자리 사업 확대가 긍정 요인이나, 청년층 고용 부진과 산업별 편중 등 구조적 과제가 남아 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-12T00:06:32+09:00",
     "importance": 2
   }
 ]
