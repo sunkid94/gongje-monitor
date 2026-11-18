@@ -20471,6 +20471,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설사 12곳 사망사고 재발방지 점검…추락사 예방 집중 - 동행미디어 시대",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uaGtpb1cxVHRGeWkyenVFOVJwM3dSai00UXNfV3c2eDlJaGVuUTVuU1ZmeVdHQmxXMkNrcVk4TWswVXpLZHU1TE52RTFPNU9meDI5Vk9sR3pVcDh4RzRFdnJR?oc=5",
+    "description": "정부가 올해 사망사고가 발생한 대형건설사 12곳을 대상으로 재발방지대책을 점검한다. 최근 반복되는 추락사고를 중심으로 안전시설 관리와 기본수칙 준수 여부를 살피고 개선대책을 건설 현장에 적용할 계획이다. 국토교통부는 오는 19일 오후 서울에서 '건설 현장 사고 재발방지를 위한 안전관리 점검회의'를 개최한다고 18일 밝혔다. 대상은 시공능력평가 100위 이내 건설사 중 올해 사망사고가 발생한 12개사다.",
+    "published_at": "2026-11-18T12:33:37+09:00",
+    "cluster_id": "3e81",
+    "publisher": "동행미디어 시대",
+    "title_clean": "건설사 12곳 사망사고 재발방지 점검…추락사 예방 집중",
+    "summary": "정부가 올해 사망사고가 발생한 대형건설사 12곳을 대상으로 재발방지대책 점검회의를 개최한다. 추락사고 예방을 중심으로 안전시설 관리와 기본수칙 준수 여부를 점검하고 개선대책을 현장에 적용할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-18T12:45:14+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32242,22 +32258,6 @@
     "publisher": "newspim.com",
     "title_clean": "이열 부산시의원 \"부산도시공사 '게임융복합스페이스' 사업성 재검증해...",
     "summary": "부산시의원이 부산도시공사의 '게임융복합스페이스' 사업에 대해 사업성 재검증을 요구했습니다. 물가·건설경기 변화와 초기 임대수입 산정 방식의 적정성을 지적하며 2020년 수탁 이후 2023년 타당성 재검토의 필요성을 제기했습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-12T17:16:24+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"내년 전셋값 4.5%·집값 2% 상승…건설경기 회복 제한적\"(종합) - news1.kr",
-    "link": "https://www.news1.kr/realestate/general/6352299",
-    "description": "공공 부문만으로 건설경기 전반을 끌어올리기는 어렵다는 게 연구원의 진단이다. 이지혜 연구위원은 \"공공이 하방을 지지할 순 있어도 경기를 끌어올릴 순 없다\"며 \"민간 회복 없이는 경기 활성화에 한계가 있다....",
-    "published_at": "2026-11-12T17:02:00+09:00",
-    "cluster_id": "da2c",
-    "publisher": "news1.kr",
-    "title_clean": "\"내년 전셋값 4.5%·집값 2% 상승…건설경기 회복 제한적\"(종합)",
-    "summary": "내년 전셋값과 집값이 각각 4.5%, 2% 상승할 것으로 예상되나 공공 부문만으로는 건설경기를 끌어올리기 어렵다는 진단이다. 민간 부문의 회복 없이는 건설경기 활성화에 한계가 있는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-12T17:16:24+09:00",
     "importance": 4
