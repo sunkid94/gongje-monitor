@@ -20505,6 +20505,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 PF",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "건설사 PF 관행에 제동…한신공영, 금융 손자회사 보유로 제재 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181337140200631",
+    "description": "이번 제재는 건설업계의 통상적인 PF 자금조달 구조가 지주회사 규제와 정면으로 충돌할 수 있다는 점을 드러냈다. 건설사들은 사업장별로 SPC를 세워 PF 대출채권을 유동화하는 방식을 흔히 쓴다. 사업 목적의 일회성...",
+    "published_at": "2026-11-18T13:42:00+09:00",
+    "cluster_id": "aebb",
+    "publisher": "대한경제",
+    "title_clean": "건설사 PF 관행에 제동…한신공영, 금융 손자회사 보유로 제재",
+    "summary": "한신공영이 금융 손자회사 보유로 금융감독당국의 제재를 받으면서 건설사들의 통상적인 PF 자금조달 구조가 지주회사 규제와 충돌하는 문제가 드러났다. 건설업계의 SPC 유동화 방식 등 PF 관행이 규제 대상이 될 수 있음을 시사하며 업계 전반에 영향을 미칠 전망이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-18T13:49:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32244,22 +32260,6 @@
     "publisher": "popcornnews.net",
     "title_clean": "건설사 '동반성장지수' 성적표 릴레이...GS·SK에코, '최우수'·IPARK현산...",
     "summary": "건설사들이 협력사와의 상생경영을 인정받아 동반성장지수 평가에서 우수 성적을 거두었다. GS건설, SK에코 등이 최우수 등급을 받으며 지속가능한 성장 기조를 대외적으로 입증했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-12T18:16:16+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "코어트러스트, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’ 참가…스... - gosiweek.com",
-    "link": "https://www.gosiweek.com/article/1065603751106673",
-    "description": "기반 건설현장 안전관리 플랫폼 ‘SafeKeeper(세이프키퍼)’를 선보인다. 2000년 7월 설립된 코어트러스트는 26년 이상의 업력을 보유한 IT 소프트웨어 전문기업으로, 디지털 콘텐츠 보호(DRM)와 채널 모니터링 분야에서...",
-    "published_at": "2026-11-12T18:06:00+09:00",
-    "cluster_id": "fd57",
-    "publisher": "gosiweek.com",
-    "title_clean": "코어트러스트, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’ 참가…스...",
-    "summary": "IT 소프트웨어 전문기업 코어트러스트가 2026 스마트건설·안전·AI 엑스포에 참가하여 AI 기반 건설현장 안전관리 플랫폼 'SafeKeeper'를 선보인다. 26년 이상의 업력을 가진 DRM·채널 모니터링 전문기업이 건설안전 솔루션으로 사업 확대를 추진하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-12T18:16:16+09:00",
     "importance": 2
