@@ -4624,6 +4624,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "산업부, 체코 원전 세부 계획 주간 단위 점검…\"체계적 계획 이행, 사업... - econonews.co.kr",
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=447359",
+    "description": "한수원은 지난 10월 29일 대우건설·두산에너빌리티 컨소시엄과 공사비와 계약 방식 등에서 이견을 좁히지 못해 시공계약 협상을 종료했다. 새 시공사가 정해질 때까지 일부 업무에 자체 인력을 추가로 투입하고, 일정이...",
+    "published_at": "2026-11-18T18:40:00+09:00",
+    "cluster_id": "8ff1",
+    "publisher": "econonews.co.kr",
+    "title_clean": "산업부, 체코 원전 세부 계획 주간 단위 점검…\"체계적 계획 이행, 사업...",
+    "summary": "한수원이 체코 원전 사업에서 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상을 종료했으며, 새 시공사 선정까지 자체 인력으로 사업을 진행 중입니다. 산업부가 체계적 계획 이행을 위해 주간 단위 점검을 실시하고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-18T18:45:17+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20606,22 +20622,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-13T12:36:08+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "'LNG선 화물창 결함' 가스공사 2심서 배상액↑…\"2천600억 지급\" - yna.co.kr",
-    "link": "https://www.yna.co.kr/view/AKR20261113086900004?input=1195m",
-    "description": "\"SK해운에 2203억·삼성중공업에 480억 물어줘야\" 한국가스공사가 한국형 액화천연가스(LNG)선 화물창 결함으로 삼성중공업과 SK해운에 지급해야 할 배상액이 항소심에서 1심보다 약 800억원 늘어난 2천600억원대가 됐다....",
-    "published_at": "2026-11-13T12:02:00+09:00",
-    "cluster_id": "cd45",
-    "publisher": "yna.co.kr",
-    "title_clean": "'LNG선 화물창 결함' 가스공사 2심서 배상액↑…\"2천600억 지급\"",
-    "summary": "한국가스공사가 LNG선 화물창 결함으로 항소심에서 삼성중공업과 SK해운에 2,600억원대의 배상액을 지급하도록 판결받았다. 1심 대비 약 800억원 증액된 결과로, 건설·조선업계에 손실 및 배상 리스크가 확대되는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-13T12:23:08+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
