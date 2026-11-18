@@ -20658,6 +20658,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "전북도 \"새만금국제공항 사업 정상화 방안 강구…국토교통부와 대응 협의\" - 투데이 군산",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ZUpEYTY1akZwUnNJOTE3SnBSWW9PdTA3SGxndkgwbkFpZEFMRHduR3NhWlc3WHNDVGp3eEo3M0xiVTVaYTBNdHctZXZLYXdpQ3haVGpqMGZQZ2VUZmthcExvRVVpZnoyZXNUbjhfX08?oc=5",
+    "description": "전북특별자치도가 새만금국제공항 기본계획 취소소송 항소심에서 1심과 같은 판결이 나오자 국토교통부 등 관계 기관과 사업 정상화 방안 마련에 나서기로 했다.전북도는 18일 서울고등법원이 새만금국제공항 기본계획 취소소송 항소심에서 원고 승소 판결을 유지한 데 대해 법원의 판단을 존중한다면서도, 국토부와 판결 내용을 면밀히 분석해 향후 대응 방안을 마련하겠다고 밝혔다.전북도는 오랫동안 국제공항 건설을 염원해 온 도민들의 기대에 부응하지 못한 결과에 안타까움을 나타냈다.그러면서도 새만금국제공항이 국가균형발전과 새만금 개발을 뒷받침할 핵심 기",
+    "published_at": "2026-11-18T14:54:52+09:00",
+    "cluster_id": "a9f6",
+    "publisher": "투데이 군산",
+    "title_clean": "전북도 \"새만금국제공항 사업 정상화 방안 강구…국토교통부와 대응 협의\"",
+    "summary": "서울고등법원이 새만금국제공항 기본계획 취소소송 항소심에서 원고 승소 판결을 유지했으며, 전북도는 국토교통부와 함께 판결 내용을 분석하여 사업 정상화 방안을 마련하기로 했다. 사업 추진이 불투명해짐에 따라 관련 건설·설비 공사의 예정 수주에 차질이 생길 것으로 예상된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-19T03:24:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32255,22 +32271,6 @@
     "summary": "LH와 한국주택협회가 공공주택 공급을 확대하기 위해 민간 건설업계와 협력을 강화한다. 장기 경기 침체와 공사비·금융비용 상승으로 어려움을 겪는 건설사들을 지원하는 방안을 논의 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-15T09:57:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2648223",
-    "description": "건설경기 침체와 공사비 상승 등으로 민간의 사업 참여 여건이 악화한 가운데 공사비 현실화와 제도개선 등을 통해 공급 속도를 높인다는 방침이다. LH는 13일 서울 강남구 건설회관에서 한국주택협회와 주택공급 간담회를...",
-    "published_at": "2026-11-15T09:32:00+09:00",
-    "cluster_id": "68bd",
-    "publisher": "etoday.co.kr",
-    "title_clean": "LH·주택협회, 주택공급 확대 맞손…공사비 현실화 등 논의",
-    "summary": "LH와 한국주택협회가 건설경기 침체 속 주택공급 확대를 위해 협력하기로 합의했다. 공사비 현실화와 제도개선을 통해 민간 사업 참여 여건을 개선하고 공급 속도를 높인다는 방침이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-15T09:37:41+09:00",
     "importance": 2
   }
 ]
