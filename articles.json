@@ -20658,6 +20658,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "국토부, 건설현장 사망사고 재발 막는다… 안전관리 강화 총력 - 자유방송",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vdkZJUUZuUEllVWNJb3FJakdyQ19jWkR5b0szZ1ZTLWFrRV9KaDVSclVJMkFYWlpFOWRMWm5ieEtraXgwTWFCaUsybHNUUW1pVVIzY1A1MFVWREZMMXhoV0ppNi01dw?oc=5",
+    "description": "12개사를 대상으로 건설현장 사고 재발방지를 위한 안전관리 점검회의를 개최한다. 국토교통부(장관 홍지선)가 건설현장 사망사고를 예방하고 건설사의 안전관리를 강화하",
+    "published_at": "2026-11-19T02:55:00+09:00",
+    "cluster_id": "4ab9",
+    "publisher": "자유방송",
+    "title_clean": "국토부, 건설현장 사망사고 재발 막는다… 안전관리 강화 총력",
+    "summary": "국토교통부가 건설현장 사망사고 재발 방지를 위해 12개 건설사를 대상으로 안전관리 점검회의를 개최한다. 건설업계에 대한 안전관리 강화 조치로, 규제 강화에 해당한다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-19T04:24:50+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32256,21 +32272,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-15T10:38:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LH·한국주택협회, 공공주택 공급 속도 높인다…민간 건설업계와 협력 ... - businessplus.kr",
-    "link": "https://www.businessplus.kr/news/articleView.html?idxno=119880",
-    "description": "건설경기 침체에 따른 업계의 경영 부담을 완화하고 사업 참여를 확대하기 위한 지원책도 논의됐다. 장기간 이어진 부동산 경기 위축과 공사비 상승, 금융비용 증가 등이 민간 건설사의 신규 사업 참여를 제약하고 있는...",
-    "published_at": "2026-11-15T09:50:00+09:00",
-    "cluster_id": "6a5c",
-    "publisher": "businessplus.kr",
-    "title_clean": "LH·한국주택협회, 공공주택 공급 속도 높인다…민간 건설업계와 협력 ...",
-    "summary": "LH와 한국주택협회가 공공주택 공급을 확대하기 위해 민간 건설업계와 협력을 강화한다. 장기 경기 침체와 공사비·금융비용 상승으로 어려움을 겪는 건설사들을 지원하는 방안을 논의 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-15T09:57:57+09:00",
-    "importance": 2
   }
 ]
