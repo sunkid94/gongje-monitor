@@ -4658,6 +4658,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "신당8구역 공사비 52% 인상 추진, 조합원당 추정 분담금 3.5억 - sidae.com",
+    "link": "https://www.sidae.com/article/2026111813172963548",
+    "description": "건설 자재 가격도 올라서 포스코이앤씨 분기보고서에 따르면 레미콘 가격은 지난해 말 ㎥당 8만7500원에서 올 3분기 9만1300원으로 약 4.3% 올랐다. 같은 기간 철근 가격은 ㎏당 922원에서 1025원으로 11.2% 상승했다....",
+    "published_at": "2026-11-19T06:50:00+09:00",
+    "cluster_id": "0766",
+    "publisher": "sidae.com",
+    "title_clean": "신당8구역 공사비 52% 인상 추진, 조합원당 추정 분담금 3.5억",
+    "summary": "신당8구역 재개발 사업의 공사비가 52% 인상되면서 조합원당 분담금이 3.5억으로 추정된다. 레미콘과 철근 등 건설자재 가격이 지난해 대비 4~11% 상승하면서 건설사업 원가 부담이 증가하는 추세다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-19T06:54:55+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20640,22 +20656,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-13T13:41:03+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "국회, 한수원 '체코 원전' 시공사 교체 논란 청문회 연다…산자위원장 ... - namdonews.com",
-    "link": "https://www.namdonews.com/news/articleView.html?idxno=929170",
-    "description": "여야가 약 27조 원 규모의 체코 두코바니 원전 건설사업을 둘러싼 한국수력원자력(한수원)과 대우건설·두산에너빌리티 컨소시엄의 시공계약 협상 결렬 사태에 대해 국회 청문회를 열기로 합의했다. 한수원이 기존...",
-    "published_at": "2026-11-13T13:10:00+09:00",
-    "cluster_id": "8596",
-    "publisher": "namdonews.com",
-    "title_clean": "국회, 한수원 '체코 원전' 시공사 교체 논란 청문회 연다…산자위원장 ...",
-    "summary": "여야가 27조 원 규모의 체코 두코바니 원전 건설사업을 둘러싼 한수원과 대우건설·두산에너빌리티 컨소시엠의 시공계약 협상 결렬 사태에 대해 국회 청문회를 개최하기로 합의했다. 대형 국제 프로젝트의 시공사 교체 논란으로 건설업계의 신뢰도와 수주 사업 진행에 부정적 영향이 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-13T13:30:28+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설 노동",
