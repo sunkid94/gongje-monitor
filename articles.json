@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "경북 3분기 수출·건설수주 증가..소비·고용 부진 - andongmbc.co.kr",
+    "link": "http://andongmbc.co.kr/adboard/NewsView85821",
+    "description": "올해 3분기 경북지역의 수출과 건설수주는 증가했지만, 소비와 고용 지표는 악화된 것으로 나타났습니다. 동북지방데이터청에 따르면 경북의 수출은 지난해 같은 기간보다 15.6%, 건설수주는 53% 증가한 반면...",
+    "published_at": "2026-11-18T21:44:00+09:00",
+    "cluster_id": "e191",
+    "publisher": "andongmbc.co.kr",
+    "title_clean": "경북 3분기 수출·건설수주 증가..소비·고용 부진",
+    "summary": "경북지역 3분기 수출 15.6%, 건설수주 53% 증가로 건설업계에 긍정적이나, 소비와 고용 지표 악화로 경제 전반의 회복력이 불균형한 상태입니다. 단기적 건설수주 증가는 호재이지만 지속성 우려가 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-18T21:50:44+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32252,22 +32268,6 @@
     "publisher": "위메이크뉴스",
     "title_clean": "현대엔지니어링, 안전평가 최하위에 또 사망사고…영업정지엔 소송",
     "summary": "현대엔지니어링 건설 현장에서 반복적인 사망사고가 발생하고 있으며, 지난해 교량 붕괴로 4명 사망에 이어 최근 경남 양산 현장에서도 사망자가 발생했다. 안전평가 최하위 판정으로 영업정지 조치에 대해 소송까지 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-14T21:12:49+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "탈락한 연구진의 ‘영상 아카이브’ 아이디어, 선정기관 협상안에도 등장했다 - 주간경향",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zVTVLSUJyWWVUbFdobjV4dVhpX1RjQ196QjRSZzNBMWdieE9feEp5Qlhhc21jSG45ODVtN2g1X0dqc2VwbENaa0hsMzU1TkhDR3F4bnFELUFUcTFSZVE?oc=5",
-    "description": "건설근로자공제회가 1억3600만원 규모의 <건설노동자사(史)> 편찬 연구용역을 추진하면서 우선협상대상자 선정 이후 ‘연구 전문성 강화’를 이유로 연구진 변경을 협의한 사실이 드러났다. 입찰에서 탈락한 연구진이 심사의 공정성을 따지기 위해 정보공개를 청구했지만 공제회는 평가위원의 평가의견과 질의응답 기록 등을 보유하지 않은 정보라고 통지했다. 최종 기술...",
-    "published_at": "2026-11-14T21:03:00+09:00",
-    "cluster_id": "e070",
-    "publisher": "주간경향",
-    "title_clean": "탈락한 연구진의 ‘영상 아카이브’ 아이디어, 선정기관 협상안에도 등장했다",
-    "summary": "건설근로자공제회가 1억3600만원 규모의 편찬 연구용역에서 우선협상대상자 선정 후 연구진 변경을 협의한 사실이 드러났다. 탈락 연구진이 공정성 문제를 제기했으나 공제회는 관련 평가 기록을 보유하지 않았다고 통지했다.",
     "sentiment": "negative",
     "collected_at": "2026-11-14T21:12:49+09:00",
     "importance": 4
