@@ -4539,6 +4539,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대건설, 1.7조 철산주공13단지 단독 응찰…1차 입찰 유찰 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=354870",
+    "description": "앞서 지난달 26일 열린 현장설명회에는 현대건설과 롯데건설, 제일건설 등 3개사가 참석했다. 그러나 롯데건설과 제일건설은 이번 입찰에 참여하지 않았다. 현대건설은 단독으로 제안서를 제출하며 시공권 확보...",
+    "published_at": "2026-11-18T14:43:00+09:00",
+    "cluster_id": "d9b0",
+    "publisher": "greened.kr",
+    "title_clean": "현대건설, 1.7조 철산주공13단지 단독 응찰…1차 입찰 유찰",
+    "summary": "현대건설이 1.7조 규모 철산주공13단지 재개발 프로젝트에 단독으로 응찰했으나 1차 입찰이 유찰되었다. 롯데건설과 제일건설은 현장설명회에는 참석했으나 최종 입찰에는 불참하면서 경쟁 부족으로 인한 유찰 사태가 발생했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-18T14:49:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20523,20 +20539,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "20년 묶인 용산 한강로 개발, '모아주택'으로 돌파구 찾나 - newsquest.co.kr",
-    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=304925",
-    "description": "추진위원회 측은 GS건설과 대우건설, 포스코이앤씨 등 주요 건설사들이 사업 참여에 관심을 보이고 있다고 밝혔다. 다만 구체적인 수주 참여 여부나 시공사 선정이 확정된 단계는 아니다. 사업지는 한강과 노들섬을...",
-    "published_at": "2026-11-13T09:00:00+09:00",
-    "cluster_id": "fae6",
-    "publisher": "newsquest.co.kr",
-    "title_clean": "20년 묶인 용산 한강로 개발, '모아주택'으로 돌파구 찾나",
-    "summary": "용산 한강로 개발사업이 20년 만에 '모아주택' 방식으로 추진되면서 GS건설, 대우건설, 포스코이앤씨 등 주요 건설사들의 참여 관심을 끌고 있다. 다만 구체적인 수주 확정이나 시공사 선정은 아직 미정 단계이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-13T09:16:01+09:00",
-    "importance": 2
+    "title": "사망사고 발생 대형 건설사 12곳 한 자리에 … 재발 방지책 머리 맞댄다 - biz.newdaily.co.kr",
+    "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850161.html",
+    "description": "김명준 국토부 기술안전정책관은 \"건설현장 안전은 타협할 수 없는 최우선 가치\"라며 \"각 건설사가 마련한 재발방지대책이 단순 계획에 그치지 않고 실제 현장 작업자 한 명 한 명에게까지 철저히 이행될 수 있도록...",
+    "published_at": "2026-11-18T14:44:00+09:00",
+    "cluster_id": "4c38",
+    "publisher": "biz.newdaily.co.kr",
+    "title_clean": "사망사고 발생 대형 건설사 12곳 한 자리에 … 재발 방지책 머리 맞댄다",
+    "summary": "건설현장 사망사고 재발 방지를 위해 대형 건설사 12곳이 모여 대책을 논의했다. 국토부는 각 건설사의 재발방지대책이 현장 작업자에게 실질적으로 이행될 것을 강조했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-18T14:49:51+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설 신기술",
@@ -32249,21 +32265,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-13T04:55:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[사설] 내년 건설수주 4.1% 증가 전망, 회복 불씨 확산시켜야 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121556488670861",
-    "description": "건설경기 회복이 일부 첨단산업과 수도권에 집중되고 지방 주택시장은 침체에서 벗어나지 못하는 불균형이 우려된다. 정부는 공공사업의 예산을 적기에 집행하고, 전력·용수·산단 등 대형 인프라 사업이 차질 없이...",
-    "published_at": "2026-11-13T04:20:00+09:00",
-    "cluster_id": "6a1f",
-    "publisher": "대한경제",
-    "title_clean": "[사설] 내년 건설수주 4.1% 증가 전망, 회복 불씨 확산시켜야",
-    "summary": "내년 건설수주가 4.1% 증가할 것으로 전망되나, 회복이 첨단산업과 수도권에 집중되면서 지방 주택시장은 여전히 침체 상태다. 정부는 공공사업 예산 적기 집행과 대형 인프라 사업 차질 없는 추진으로 지역 균형 회복을 도와야 한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-13T04:35:38+09:00",
-    "importance": 2
   }
 ]
