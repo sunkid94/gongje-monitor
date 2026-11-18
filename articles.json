@@ -20641,6 +20641,38 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천항만공사, 국적 선사 간담회 개최 및 건설현장 재난대응훈련 실시 - cstimes.com",
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=728466",
+    "description": "이와 함께 인천항만공사는 이번 재난대응훈련 이외에도 △겨울철 대설·한파 대비 특별안전점검 △동절기 대비 건설현장 안전점검 △화재취약시설 예방점검 등을 다각도로 병행하며 빈틈없는 겨울철 건설현장 재해 예방...",
+    "published_at": "2026-11-18T23:54:00+09:00",
+    "cluster_id": "a97f",
+    "publisher": "cstimes.com",
+    "title_clean": "인천항만공사, 국적 선사 간담회 개최 및 건설현장 재난대응훈련 실시",
+    "summary": "인천항만공사가 국적 선사와 간담회를 개최하고 겨울철 건설현장 재난대응훈련을 실시했다. 대설·한파 대비 특별안전점검, 화재취약시설 예방점검 등 다각도의 안전조치를 통해 겨울철 건설현장 재해를 예방하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T00:00:01+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "전북자치도, 새만금국제공항 건립사업 정상화 방안 강구 - 미디어투데이",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aZkNzTlItLVlHQXNZQUJreGk1VEhKa2tSZUFtSlVoUjJVanFSdXFmcDE5S3VDd0RoX0RRVVVaUzZIZ3Fsa2F4YzhR?oc=5",
+    "description": "새만금국제공항 항소심 선고에 따른 브리핑 [미디어투데이=김광수 기자] 전북특별자치도는 18일 서울고등법원이 새만금국제공항 기본계획 취소소송 항",
+    "published_at": "2026-11-18T16:55:00+09:00",
+    "cluster_id": "b257",
+    "publisher": "미디어투데이",
+    "title_clean": "전북자치도, 새만금국제공항 건립사업 정상화 방안 강구",
+    "summary": "전북특별자치도가 서울고등법원의 새만금국제공항 기본계획 취소소송 항소심 선고에 대응하여 사업 정상화 방안을 강구하고 있습니다. 항소심 판결 결과에 따라 대형 건설사업의 진행 여부가 결정될 것으로 보입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T00:00:01+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32238,38 +32270,6 @@
     "summary": "건설업체 임직원이 배임, 횡령, 사인위조 등 다양한 혐의로 기소된 사건에서 손해액 산정 기준이 법적 쟁점이 됨. 판례를 통해 배임죄의 손해액 산정 시점과 기준을 분석하는 법률 해설 기사.",
     "sentiment": "negative",
     "collected_at": "2026-11-15T06:07:59+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "내년 건설업 반등 기대…공공주택·데이터센터가 이끈다 - news.mtn.co.kr",
-    "link": "https://news.mtn.co.kr/article/2026111419513657472",
-    "description": "서울 시내 신축 아파트 시공 현장에서 건설노동자들이 작업을 하고 있다. / 사진 = 뉴스1 제공내년 국내 건설업이 공공주택과 데이터센터를 중심으로 회복세를 보일 것이라는 전망이 나왔다. 정부의 공공주택 공급...",
-    "published_at": "2026-11-15T06:02:00+09:00",
-    "cluster_id": "ae8e",
-    "publisher": "news.mtn.co.kr",
-    "title_clean": "내년 건설업 반등 기대…공공주택·데이터센터가 이끈다",
-    "summary": "내년 국내 건설업이 공공주택과 데이터센터 사업을 중심으로 회복세를 보일 것으로 전망된다. 정부의 공공주택 공급 확대와 디지털 인프라 투자 확대가 건설업 성장을 견인할 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-15T06:07:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "5층 비계에서 떨어진 노동자, 사망…당신의 현장은 안전한가 - 유스연합",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycDZOZkoyTW5CSTNhMW01N0hwUXZGbGtNYkloNHZWYmVNZENsR3dBbXlMNUxBRlRKWWZ4N0pXT0xsMkl0RTZDbWVTTFpBcEhoT2NF?oc=5",
-    "description": "이스라엘 5층 사고가 드러낸 현장 안전 비용 2026년 11월 11일, 이스라엘 라마트 간(Ramat Gan)의 한 건설 현장에서 약 30세 중국인 노동자가 5층 비계(scaffold)에서 추락해 숨졌다. The Times of Israel 보도에 따르면 경찰은 이 노동자가 높은 곳에서 떨어진 뒤 병원으로 옮겨졌으나 끝내 사망했다고 밝혔다. 경찰은 현장에서",
-    "published_at": "2026-11-15T02:40:07+09:00",
-    "cluster_id": "49a9",
-    "publisher": "유스연합",
-    "title_clean": "5층 비계에서 떨어진 노동자, 사망…당신의 현장은 안전한가",
-    "summary": "이스라엘 건설현장에서 중국인 노동자가 5층 비계에서 추락해 사망한 사고가 발생했다. 기사는 현장 안전 관리의 중요성을 강조하며 건설업계의 안전 비용 문제를 제기하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-15T02:47:48+09:00",
     "importance": 4
   }
 ]
