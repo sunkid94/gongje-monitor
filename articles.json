@@ -4658,6 +4658,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "8곳 두고 목동 수주전 2라운드…롯데·포스코·현산 '사활' - newsis.com",
+    "link": "https://www.newsis.com/view/NISX20261118_0003873479",
+    "description": "8·12단지는 각각 대우건설과 GS건설을 시공사 우선협상대상자로 지정하고 후속절차를 밟고 있다. 4단지에서 현대건설이 시공사로 선정되는 경우 현대건설은 앞단지(1~7단지)와 뒷단지(8~14단지)에서 한 곳씩 깃발을 꽂게...",
+    "published_at": "2026-11-19T05:30:00+09:00",
+    "cluster_id": "52a0",
+    "publisher": "newsis.com",
+    "title_clean": "8곳 두고 목동 수주전 2라운드…롯데·포스코·현산 '사활'",
+    "summary": "목동 재개발 사업에서 8·12단지는 대우건설과 GS건설이 시공사 우선협상대상자로 지정되었으며, 4단지 현대건설 선정 여부에 따라 뒷단지 수주 경쟁이 결정될 예정이다. 롯데·포스코·현산 등 주요 건설사들이 대형 수주를 놓고 경쟁하는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T05:34:52+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20640,22 +20656,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-13T13:30:28+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[두산에너빌리의 2막③] 수주 10조 쌓았는데…체코서 드러난 성장의 변... - theviewers.co.kr",
-    "link": "https://theviewers.co.kr/View.aspx?No=4310651",
-    "description": "뷰어스 서효림 기­자 shr8212@viewers.co.kr 두산에너빌리티가 가스터빈과 원전을 중심으로 사업 전환의 성과를 실적으로 보여주기 시작했다. 인공지능(AI) 데이터센터 확산에 따른 전력 수요 증가와 원전 시장 회복이...",
-    "published_at": "2026-11-13T13:02:00+09:00",
-    "cluster_id": "544f",
-    "publisher": "theviewers.co.kr",
-    "title_clean": "[두산에너빌리의 2막③] 수주 10조 쌓았는데…체코서 드러난 성장의 변...",
-    "summary": "두산에너빌리티가 가스터빈과 원전 사업 중심으로 전환하며 수주 10조를 기록했다. AI 데이터센터 수요 증가와 원전 시장 회복에 따른 전력 수요 확대로 성장 기회를 맞고 있으나, 체코에서 성장의 한계가 드러나고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-13T13:16:55+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
