@@ -4488,6 +4488,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 이라크 알포 신항만 침매터널 공사 마무리…중동 최초 시공 ... - donga.com",
+    "link": "https://www.donga.com/news/Economy/article/all/20261118/135045828/1",
+    "description": "대우건설이 중동 지역 최초의 침매터널 건설공사를 마무리했다. 육상에서 제작한 대형 콘크리트 구조물 10개를 해저에 가라앉혀 연결하는 고난도 해양 토목공사를 수행한 것으로, 대우건설은 이번 사업에서 확보한...",
+    "published_at": "2026-11-18T13:08:00+09:00",
+    "cluster_id": "708d",
+    "publisher": "donga.com",
+    "title_clean": "대우건설, 이라크 알포 신항만 침매터널 공사 마무리…중동 최초 시공 ...",
+    "summary": "대우건설이 중동 지역 최초의 침매터널 공사를 성공적으로 완료했다. 해저에 콘크리트 구조물을 가라앉혀 연결하는 고난도 해양토목공사를 수행하며 기술력을 입증했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-18T13:14:34+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20472,19 +20488,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "향남 롯데캐슬 시그니처, 정당계약 진행…14일 당첨자 서류 접수 - nbntv.co.kr",
-    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027402",
-    "description": "| 내외경제TV=주현웅 기자 | 롯데건설이 시공하는 '화성 향남 롯데캐슬 시그니처'는 오는 23일부터 25일까지 사흘간 정당계약을 진행한다. 단지는 계약금 비율을 분양가의 5%로 책정했다. 전용면적 84㎡ 최고 분양가...",
-    "published_at": "2026-11-12T23:42:00+09:00",
-    "cluster_id": "ac52",
-    "publisher": "nbntv.co.kr",
-    "title_clean": "향남 롯데캐슬 시그니처, 정당계약 진행…14일 당첨자 서류 접수",
-    "summary": "롯데건설이 시공하는 화성 향남 롯데캐슬 시그니처가 23일부터 25일까지 정당계약을 진행한다. 계약금 비율은 분양가의 5%로 책정되었으며, 당첨자 서류 접수는 14일에 실시된다.",
+    "title": "인천항만공사, 하반기 건설현장 재난대응훈련 실시 - 경기도민일보 미디어",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80UWVpQUFFdmZwWFo4T00teEZIcl9YcXhodW9HUk9DU1VsNjdyOHdKYTFBOU9qOWpyTGRndEp1eUhCbm9vQVM0UkxiOFp6X29qMVg3bV9hUGpFMFotbTdaWVVDOVRob2JnTUE?oc=5",
+    "description": "[경기도민일보미디어 박은구 기자] 인천항만공사가 18일 인천신항 1-2단계 컨테이너부두 상부기능시설공사 현장에서 ‘2026년도 하반기 건설현장 재난대응훈련’을 실",
+    "published_at": "2026-11-18T12:52:11+09:00",
+    "cluster_id": "bb40",
+    "publisher": "경기도민일보 미디어",
+    "title_clean": "인천항만공사, 하반기 건설현장 재난대응훈련 실시",
+    "summary": "인천항만공사가 인천신항 컨테이너부두 공사 현장에서 하반기 건설현장 재난대응훈련을 실시했다. 건설현장의 안전관리 강화 및 재난 대응 능력 향상을 위한 정기 훈련으로 추진된 것으로 보인다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-12T23:58:10+09:00",
+    "collected_at": "2026-11-18T13:14:34+09:00",
     "importance": 2
   },
   {
@@ -32244,22 +32260,6 @@
     "title_clean": "[2027 건설ㆍ자재ㆍ부동산 경기전망 세미나] ② 내년 건설수주액 261.7조...",
     "summary": "대한경제와 한국건설산업연구원이 2027년 건설경기 전망 세미나를 개최했으며, 2027년 국내 건설수주액이 261.7조원으로 예상된다고 발표했다. 건설업계의 향후 경기 전망에 대한 기관의 공식 예측을 제시한 기사다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-12T17:56:17+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"내년 건설수주 251.7조·투자 270.4조\"…반도체·데이터센터 성장 견인 - inews24.com",
-    "link": "http://www.inews24.com/view/2025684",
-    "description": "내년 국내 건설수주와 건설투자가 동반 증가하며 건설경기가 완만한 회복세를 보일 것이란 전망이 나왔다. 반도체·데이터센터 등 첨단산업 시설과 공공사업 확대가 건설 경기 회복을 이끌 것으로 관측됐다....",
-    "published_at": "2026-11-12T17:38:00+09:00",
-    "cluster_id": "5b9c",
-    "publisher": "inews24.com",
-    "title_clean": "\"내년 건설수주 251.7조·투자 270.4조\"…반도체·데이터센터 성장 견인",
-    "summary": "내년 건설수주 251.7조, 건설투자 270.4조로 동반 증가하며 건설경기가 회복세를 보일 전망이다. 반도체, 데이터센터 등 첨단산업 시설과 공공사업 확대가 주요 성장 견인 요인으로 작용할 것으로 예상된다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-12T17:56:17+09:00",
     "importance": 2
   }
