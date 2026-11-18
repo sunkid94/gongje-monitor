@@ -20641,6 +20641,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천항만공사, 인천신항 건설현장 화재 대비 재난대응훈련 실시 - 여성종합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DblRXclpsWlVnTlVZcnVTd3YxY3c0U3F6NlVOU01mRWdUci10UFYxRHZqUHBsZmUyZllVMjMtV09RaUVSVWZDd0kzRUNQLU9NdXZ4azhOX2FfaTliblJybGcxZmJyTF95UFUxdGtvVQ?oc=5",
+    "description": "[여성종합뉴스/민일녀]인천항만공사(사장 박인서)는 18일 인천신항 1-2단계 컨테이너부두 상부기능시설공사..",
+    "published_at": "2026-11-18T11:26:16+09:00",
+    "cluster_id": "efd2",
+    "publisher": "여성종합뉴스",
+    "title_clean": "인천항만공사, 인천신항 건설현장 화재 대비 재난대응훈련 실시",
+    "summary": "인천항만공사가 인천신항 컨테이너부두 건설현장에서 화재 대비 재난대응훈련을 실시했다. 건설현장의 안전관리 강화 및 사전 대비 체계 구축을 위한 훈련이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-18T20:40:23+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32255,21 +32271,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-14T21:08:02+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "롯데건설, 3분기 누적 영업이익 2077억원…전년 대비 126% 증가 - 미디어인뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MejhYdG5KTGFjZVhHclhadVljOWpRMlN6cVQ2VjRQTTBtUmR6el9ZVlFPT1k3eTJsWmZZM1pfQXk1cGEwdmV3OXFHQTB6ZkxBeU04Qkd3RnB3WWJ2OUtwWVZMTE1FNDVFVnVxa3l3?oc=5",
-    "description": "(미디어인뉴스=박미라 기자) 롯데건설이 원가 관리와 수익성 중심 수주 전략에 힘입어 올해 3분기까지 누적 영업이익을 전년 동기 대비 두 배 이상 늘렸다. 프로젝트파이낸싱(PF) 우발채무와 부채비율도 낮아지면서 재무구조 개선 흐름을 보였다.13일 금융감독원 전자공시시스템에 따르면 롯데건설은 올해 3분기 연결 기준 매출 1조4761억원, 영업이익 349억원을 기록했다. 1~3분기 누적 영업이익은 2077억원으로 전년 동기보다 126% 증가했다.수익성 개선에는 공사 원가 절감이 영향을 미쳤다. 롯데건설은 수익성이 높은 사업을 선별해 수주",
-    "published_at": "2026-11-14T19:47:35+09:00",
-    "cluster_id": "0d9b",
-    "publisher": "미디어인뉴스",
-    "title_clean": "롯데건설, 3분기 누적 영업이익 2077억원…전년 대비 126% 증가",
-    "summary": "롯데건설이 원가 관리와 수익성 중심 수주 전략으로 올해 3분기 누적 영업이익을 2077억원으로 전년 대비 126% 증가시켰다. PF 우발채무와 부채비율 감소로 재무구조도 개선되는 추세를 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-14T19:52:51+09:00",
-    "importance": 2
   }
 ]
