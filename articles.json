@@ -20627,6 +20627,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "세종･충남도회, 최원철 공주시장과 간담회 개최 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327521",
+    "description": "대한전문건설협회 세종시·충남도회(회장 김종언)는 18일 공주시청을 방문해 최원철 시장과 간담회를 갖고 전문건설업계의 현안사항을 건의하며 지역건설경기 활성화를 위한 방안을 모색했다. 이날 간담회에는 김종언...",
+    "published_at": "2026-11-18T17:58:00+09:00",
+    "cluster_id": "581f",
+    "publisher": "대한전문건설신문",
+    "title_clean": "세종･충남도회, 최원철 공주시장과 간담회 개최",
+    "summary": "대한전문건설협회 세종시·충남도회가 최원철 공주시장과 간담회를 개최하여 전문건설업계의 현안사항을 건의했다. 지역건설경기 활성화를 위한 방안을 모색하는 업계 소통 활동이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-18T18:05:05+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "현대제철, 온실가스 배출 관련 부채 13배 급증…배출권 할당 축소 영향... - straightnews.co.kr",
     "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315690",
     "description": "철강업계가 글로벌 공급과잉과 국내 건설경기 부진 등으로 어려움을 겪는 가운데 배출권거래제 강화에 따른 추가적인 배출권 확보 부담도 커지는 모습이다. 철강업계 관계자는 \"배출권거래제 4기로 전환되면서...",
@@ -32253,22 +32269,6 @@
     "summary": "국토안전원이 건설현장 사망사고 감축을 위한 정책토론회를 개최한다. 그간의 성과를 점검하고 현장 안전관리 실효성 강화 대책을 논의할 예정이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-13T16:45:33+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"공사 물량 줄고 비용은 오르고\" 대전전문건설협회, 국회에 애로 전달 - cctoday.co.kr",
-    "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240254",
-    "description": "이날 간담회에서 협회 임원진은 건설경기 침체와 공사 물량 감소, 공사비·인건비 상승 등 업계의 경영 애로를 전달했다. 이어 지역 건설업체의 수주 기회를 넓히기 위한 제도 개선과 정책 지원 필요성을 논의했다....",
-    "published_at": "2026-11-13T16:16:00+09:00",
-    "cluster_id": "a3e3",
-    "publisher": "cctoday.co.kr",
-    "title_clean": "\"공사 물량 줄고 비용은 오르고\" 대전전문건설협회, 국회에 애로 전달",
-    "summary": "대전전문건설협회가 국회에 건설경기 침체로 인한 공사 물량 감소와 공사비·인건비 상승 등의 경영 애로를 전달했다. 지역 건설업체의 수주 기회 확대를 위한 제도 개선과 정책 지원 필요성을 논의했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-13T16:35:47+09:00",
     "importance": 4
   }
 ]
