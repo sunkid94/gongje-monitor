@@ -4471,6 +4471,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가야역 롯데캐슬 스카이엘, 21~22일 전세 선착순 계약 - finomy.com",
+    "link": "http://www.finomy.com/news/articleView.html?idxno=267084",
+    "description": "18일 롯데건설에 따르면 이번 전세 공급 물량은 전용면적 77㎡A와 84㎡A·B 타입 총 486가구다. 모두 입주 이력이 없는 준공 아파트로, 계약과 잔금 납부 등 입주 절차를 마치면 즉시 입주할 수 있다. 단지는 부산 부산진구...",
+    "published_at": "2026-11-18T12:36:00+09:00",
+    "cluster_id": "9067",
+    "publisher": "finomy.com",
+    "title_clean": "가야역 롯데캐슬 스카이엘, 21~22일 전세 선착순 계약",
+    "summary": "롯데건설이 부산 가야역 롯데캐슬 스카이엘의 전세 공급을 21~22일 선착순 계약으로 진행한다. 준공 아파트 486가구(77㎡, 84㎡ 타입)를 공급하며 계약 후 즉시 입주 가능하다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-18T12:39:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20455,20 +20471,20 @@
     "importance": 2
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "김정관 산업장관 \"체코 원전 차질 없도록 정부 관리 강화\"…시공사 교체... - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026111220030497143",
-    "description": "이번 회의는 지난달 29일 한수원과 대우건설·두산에너빌리티 컨소시엄 간 두코바니 원전 시공계약 협상이 최종 결렬된 이후 가동된 산업통상부 장·차관 주재 비상관리체제의 일환이다. 지난 2일 차관 주재로 열린...",
-    "published_at": "2026-11-12T20:03:00+09:00",
-    "cluster_id": "fb9e",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "김정관 산업장관 \"체코 원전 차질 없도록 정부 관리 강화\"…시공사 교체...",
-    "summary": "체코 두코바니 원전 프로젝트에서 한수원과 대우건설·두산에너빌리티 컨소시엄 간 시공계약 협상이 결렬된 후 산업통상부가 비상관리체제를 가동했다. 정부가 프로젝트 차질 방지를 위해 관리를 강화하겠다고 밝혔다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-12T20:17:20+09:00",
-    "importance": 4
+    "title": "서울시-국토부, '용적률 갈등' 봉합…도심복합사업 1.6만호 공급 속도 - 내외뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZnE3RklJS1A0Y1pjOFpqd0V2VFlXSWR2MnU1SkEyNjJnWFBFTUpBNGE0NlNEZ0g1dlc2cmo5UXNjR2k0T2VlVkxvQUdWaXRGM2kyTG5TSmJoTnRFUXpjTk1URVR5cHl6UGg5ONIBcEFVX3lxTE9GVUY3b2lMTUM1eXctTEJuVmVCV2NNZHZDdDdvcEJFYzdfQ2pWSnc1MUIyN0plYXRZcGFPay15NEpueFZWSDN0UWdLR2JXN1VCZHB0aXBEOFVBWklOcHNXQTF6QXByUmszSlh0SFJUQ1k?oc=5",
+    "description": "[내외뉴스통신] 신동익 기자용적률 완화 범위를 두고 갈등을 빚던 서울시와 국토교통부가 도심공공주택복합사업 재개를 위해 극적으로 타협했다. 서울시는 18일 국토부, 한국토지주택공사(LH) 등과 사전기획협의체를 개최해 불광근린공원, 수유12구역 등 8개 사업지의 사업계획 논의를 재개하기로 했으며, 이로써 1만 6000여 가구 규모의 주택 공급이 정상궤도에 오를 전망이다.이번 합의는 사업 지연의 핵심 쟁점이던 용적률 인센티브 문제에 대해 양측이 실무 협의에서 이견을 좁히면서 성사됐다. 당초 서울시는 과도한 밀도 상승에 따른 난개발을 우려",
+    "published_at": "2026-11-18T11:21:29+09:00",
+    "cluster_id": "393e",
+    "publisher": "내외뉴스통신",
+    "title_clean": "서울시-국토부, '용적률 갈등' 봉합…도심복합사업 1.6만호 공급 속도",
+    "summary": "서울시와 국토부가 용적률 갈등을 타협하여 도심공공주택복합사업을 재개하기로 합의했다. 불광근린공원, 수유12구역 등 8개 사업지에서 1만 6000여 가구 규모의 주택 공급이 정상화될 전망이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-18T12:39:33+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
@@ -32245,21 +32261,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-12T17:16:24+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "LH, 건설현장 임금체불 막는다…제도 개선 방안 논의 - viva100.com",
-    "link": "https://www.viva100.com/article/20261112501315",
-    "description": "건설노동자 10명 중 3명에 해당하는 29.5%가 최근 1년 이내 임금 지급 지연을 경험했다는 조사 결과도 제시했다. 손창기 LH 건설관리처 차장은 LH 건설현장의 체불 신고가 2020년 54건에서 지난해 5건으로 감소했다고 밝혔다....",
-    "published_at": "2026-11-12T16:58:00+09:00",
-    "cluster_id": "3472",
-    "publisher": "viva100.com",
-    "title_clean": "LH, 건설현장 임금체불 막는다…제도 개선 방안 논의",
-    "summary": "LH가 건설현장 임금체불 문제 해결을 위해 제도 개선 방안을 논의 중이다. 건설노동자 10명 중 3명이 임금 지급 지연을 경험했으나, LH 현장의 체불 신고는 2020년 54건에서 지난해 5건으로 대폭 감소했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-12T17:16:24+09:00",
-    "importance": 2
   }
 ]
