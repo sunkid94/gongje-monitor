@@ -4471,6 +4471,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "대우건설, 이라크 침매터널 완공…해양 토목 기술력 입증 - financialpost.co.kr",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301691",
+    "description": "대우건설은 이라크 알포(Al Faw) 신항만 개발사업의 핵심 공정인 침매터널 공사를 성공적으로 마무리하며 글로벌 해양 토목 기술력을 다시 한번 입증했다고 18일 밝혔다. 대우건설은 앞서 지난달 말, 이라크...",
+    "published_at": "2026-11-18T12:46:00+09:00",
+    "cluster_id": "ca08",
+    "publisher": "financialpost.co.kr",
+    "title_clean": "대우건설, 이라크 침매터널 완공…해양 토목 기술력 입증",
+    "summary": "대우건설이 이라크 알포 신항만 개발사업의 침매터널 공사를 완공하며 해양 토목 기술력을 입증했다. 이는 국내 건설사의 글로벌 대형 해양 토목 프로젝트 수행 능력을 보여주는 사례로, 향후 해외 수주 확대에 긍정적인 신호다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-18T12:54:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20453,22 +20469,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-12T20:46:50+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "포스코이앤씨, 고창에 ‘해상풍력’ 착공 - khan.co.kr",
-    "link": "https://www.khan.co.kr/article/202611122031025",
-    "description": "포스코이앤씨가 전북 고창군 앞바다에 76.2㎿(메가와트) 규모의 해상풍력발전소를 짓는다. 투입되는 총공사비는 약 2974억원이다. 포스코이앤씨는 ‘고창 해상풍력 프로젝트’ 공사 계약을 맺고 이달 착공한다고 12일...",
-    "published_at": "2026-11-12T20:31:00+09:00",
-    "cluster_id": "75e0",
-    "publisher": "khan.co.kr",
-    "title_clean": "포스코이앤씨, 고창에 ‘해상풍력’ 착공",
-    "summary": "포스코이앤씨가 전북 고창군 앞바다에 76.2㎿ 규모의 해상풍력발전소 건설을 수주하여 약 2,974억원 규모의 공사를 착공한다. 재생에너지 기반 인프라 건설 수주로 건설업계의 신규 시장 확대를 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-12T20:46:50+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
