@@ -20658,6 +20658,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“설계변경에 공사비 늘고, 도로 파손 58% 급증”… 충남 건설행정 도마 위 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9taktmTUJENm00bFBYbE5nUURHSGx0d3Z0RmhCa2N5YWpJMFEyY1RRY0NBVmFsV0l4N2dXTmhSdFdTSkVHRThmTnZBTmlsck43OHJnczBwUDI0NUMyb1lqMXlab00?oc=5",
+    "description": "매일일보 = 오정환 기자 | 충남도 건설행정이 잦은 설계변경에 따른 공사비 증가 우려와 도로 파손 급증, 노후 교량 안전관리 문제 등으로 도의회 행정사무감사에서",
+    "published_at": "2026-11-19T00:24:32+09:00",
+    "cluster_id": "9778",
+    "publisher": "매일일보",
+    "title_clean": "“설계변경에 공사비 늘고, 도로 파손 58% 급증”… 충남 건설행정 도마 위",
+    "summary": "충남도의 잦은 설계변경으로 인한 공사비 증가, 도로 파손 58% 급증, 노후 교량 안전관리 문제 등이 행정사무감사에서 지적되었다. 건설행정의 관리 부실이 도마 위에 올랐다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-19T00:40:28+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32255,22 +32271,6 @@
     "summary": "LH와 한국주택협회가 공공주택 신속공급을 위한 간담회를 개최했다. 건설경기 침체, 공사비 상승, 높은 금융비용 등 업계 어려움 해소와 사업 참여 확대를 위한 실질적 지원방안을 논의했다.",
     "sentiment": "positive",
     "collected_at": "2026-11-15T09:27:43+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "롯데건설 ‘체질개선’ 숫자로…원가율 88%까지 낮추고 PF 2.3조대로 - 스포츠서울",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRcGlzNjZNUVVNMDJUdGwtT2g0Rm5TVFRuX3RWaHhvcGh3U0ZuLWlXTm1HTUZHV2NFYi1fVUdCMm0zU2ppOXQ5amJhM2FEaklpOFhFZGxzdU4?oc=5",
-    "description": "[스포츠서울 | 배우근 기자] 최근 건설업계에 따르면 롯데건설의 올해 3분기 연결 기준 매출은 1조4761억원, 영업이익은 349억원이다. 전년 동기 대비 매출은 29.3%, 영업이익은 31.6% 감소했다. 반면 올해 1~3분기 누적 영업이익은 2077억원으로 전년 동기보다 126%",
-    "published_at": "2026-11-15T09:05:48+09:00",
-    "cluster_id": "b8fa",
-    "publisher": "스포츠서울",
-    "title_clean": "롯데건설 ‘체질개선’ 숫자로…원가율 88%까지 낮추고 PF 2.3조대로",
-    "summary": "롯데건설이 원가율을 88%까지 낮추고 PF를 2.3조대로 감축하는 등 체질 개선을 추진 중이다. 3분기 실적은 전년 동기 대비 감소했으나, 누적 영업이익은 전년 대비 126% 증가하며 구조적 개선 흐름을 보이고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-15T09:12:49+09:00",
     "importance": 2
   }
 ]
