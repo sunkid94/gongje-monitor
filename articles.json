@@ -4641,6 +4641,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC E&C",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "주요 공시(18일)-DB하이텍·한국금융지주·STX엔진 등 - kjdaily.com",
+    "link": "http://www.kjdaily.com/article.php?aid=1794997204692790276",
+    "description": "-SGC E&C=단기차입금 증가 결정, 타인에 대한 채무보증 결정. -캐리=횡령·배임 혐의 발생. -MSDI=[정정] 제3자배정 소액공모 유상증자 결정. -STX엔진=단일판매·공급계약 체결. -엔브이에이치코리아=[정정] 타인에 대한...",
+    "published_at": "2026-11-18T19:26:00+09:00",
+    "cluster_id": "2de2",
+    "publisher": "kjdaily.com",
+    "title_clean": "주요 공시(18일)-DB하이텍·한국금융지주·STX엔진 등",
+    "summary": "건설·기계설비 관련 상장사들의 주요 공시가 발표됐다. SGC E&C의 단기차입금 증가, STX엔진의 계약 체결 등 경영 활동이 보도됐으나, 캐리의 횡령·배임 혐의 등 부정 이슈도 함께 확인됐다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-18T19:30:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20623,22 +20639,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-13T12:36:08+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한수원 \"체코 원전사업, 내년 4월 허가신청\" 2029년 11월 착공 목표 - whitepaper.co.kr",
-    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268755",
-    "description": "한수원은 공사비, 계약방식, 업무 범위 등 주요 조건에서 이견을 좁히지 못하면서 지난달 29일 대우건설·두산에너빌리티 컨소시엄과 진행하던 시공계약 협상을 종료했다. 한수원은 신규 시공사를 내년 7월까지 선정할...",
-    "published_at": "2026-11-13T12:14:00+09:00",
-    "cluster_id": "e7ec",
-    "publisher": "whitepaper.co.kr",
-    "title_clean": "한수원 \"체코 원전사업, 내년 4월 허가신청\" 2029년 11월 착공 목표",
-    "summary": "한수원이 체코 원전사업의 신규 시공사를 내년 7월까지 선정하고 2029년 11월 착공을 목표로 추진 중이나, 대우건설·두산에너빌리티 컨소시엄과의 기존 시공계약 협상이 공사비 등 주요 조건의 이견으로 결렬됨.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-13T12:36:08+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설수주",
