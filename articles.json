@@ -21151,6 +21151,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "강원 노동현장 한파 대비 점검… 건설노동자 한랭질환 예방 강화 - 강원신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sa2NCbkpJc1JGODh0SlUyTzJUWDEwOWtlSlpIV3ZWMG1VV1RfWXQxdHVJS3o2eG16VlhieWREVzVvemxEdEc1ZVFzLUFyZDlLbFRKZVExeFlZMWdsd0lPWjhxdk9nNlB2?oc=5",
+    "description": "강원지역에 한파특보가 발효되면서 겨울철 옥외작업 노동자의 한랭질환 예방을 위한 현장 안전관리가 강화되고 있다. 고용노동부 강원지청이 건설현장을 직접 찾아 한파 대응 실태를 점검하고, 노동자 보호를 위한 선제적 예방조치 이행을 당부했다.고용노동부 강원지청은 19일, 양구군 소재 건설현장을 방문해 한파 대응 조치와 옥외작업 노동자의 한랭질환 예방 실태를 점검했다.이번 점검은 지난 18일 오후 9시부터, 양구·홍천·인제 등 강원 일부 산간지역에 한파주의보가 발효된 데 따른 것이다. 기온이 급격히 떨어지는 겨울철 건설현장에서는 저체온증과",
+    "published_at": "2026-11-19T19:02:25+09:00",
+    "cluster_id": "70ad",
+    "publisher": "강원신문",
+    "title_clean": "강원 노동현장 한파 대비 점검… 건설노동자 한랭질환 예방 강화",
+    "summary": "강원지역 한파특보 발효에 따라 고용노동부 강원지청이 건설현장의 한랭질환 예방 실태를 점검하고 있다. 겨울철 옥외작업 노동자 보호를 위한 선제적 안전관리 강화 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-19T19:06:34+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32285,21 +32301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-16T16:50:06+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "홍지선 \"건설현장 인력난 해법은 모듈러\"…공공주택 공급 확대 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2389462.htm",
-    "description": "세종 5-1생활권 450호 모듈러 건설…국내 최대 규모 2030년까지 공공주택 2만호 발주…특별법 제정 추진 이재명 정부가 건설현장의 인력 부족 문제를 해결하고 공사기간을 단축하기 위해 모듈러 주택 확대에 나선다....",
-    "published_at": "2026-11-16T16:44:00+09:00",
-    "cluster_id": "ebb7",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "홍지선 \"건설현장 인력난 해법은 모듈러\"…공공주택 공급 확대",
-    "summary": "이재명 정부가 건설현장 인력난 해결과 공사기간 단축을 위해 모듈러 주택 확대에 나선다. 세종 5-1생활권 450호 모듈러 건설을 시작하고 2030년까지 공공주택 2만호를 발주할 계획이며, 이를 지원하기 위한 특별법 제정을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T16:50:06+09:00",
-    "importance": 2
   }
 ]
