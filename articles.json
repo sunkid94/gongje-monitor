@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "부산시, 치유·녹색복지·독립영화로 도시 경쟁력 높인다 - industrynews.co.kr",
+    "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89904",
+    "description": "노후 복지시설 5곳 그린리모델링…탄소중립 실천 부산시는 대한기계설비건설협회 부산시회와 민관 협력으로 추진한 노후 노유자 시설 그린리모델링 시범사업을 완료했다고 19일 밝혔다. 시는 올해 부민교회어린이집...",
+    "published_at": "2026-11-19T23:46:00+09:00",
+    "cluster_id": "a18b",
+    "publisher": "industrynews.co.kr",
+    "title_clean": "부산시, 치유·녹색복지·독립영화로 도시 경쟁력 높인다",
+    "summary": "부산시가 웰니스 관광지 7곳 신규 지정, 노후 복지시설 5곳 그린리모델링, 제28회 부산독립영화제 개최 등을 추진하며 도시 경쟁력 강화에 나섰다. 대한기계설비건설협회 부산시회와 민관 협력으로 사회복지시설에 열회수형 환기장치를 설치하여 에너지 절감과 취약계층 환경 개선을 동시에 추진했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T23:50:59+09:00",
+    "event_label": "대한기계설비건설협회 노후 복지시설 그린리모델링 시범사업 완료",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -32286,21 +32303,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T17:09:57+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "인선이엔티, 3Q 영업익 90%↑...\"건설경기 침체에도 수익성 개선\" - mt.co.kr",
-    "link": "https://www.mt.co.kr/living/2026/11/16/2026111616504257946",
-    "description": "건설경기 장기 침체 영향으로 건설폐기물 매출은 전년 동기 대비 다소 감소하였으나 매립 부문은 전년 대비 5%, 폐자동차재활용 부문은 전년 대비 24% 매출 신장한 실적을 달성했다. 국내 경기침체가 장기화되면서...",
-    "published_at": "2026-11-16T16:58:00+09:00",
-    "cluster_id": "e564",
-    "publisher": "mt.co.kr",
-    "title_clean": "인선이엔티, 3Q 영업익 90%↑...\"건설경기 침체에도 수익성 개선\"",
-    "summary": "인선이엔티가 3Q 영업익 90% 증가로 수익성을 개선했으나, 건설경기 침체의 여파로 건설폐기물 매출은 감소했다. 매립과 폐자동차재활용 부문의 성장이 전체 실적 개선을 견인했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-16T17:05:40+09:00",
-    "importance": 3
   }
 ]
