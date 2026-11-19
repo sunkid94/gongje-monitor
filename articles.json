@@ -21168,6 +21168,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[KMEC 증권 레이더 ㉜] 내년은 데이터센터와 공공주택의 해 - 기계설비신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlVDZIcHJMTmtlUWNtX3pET2VpRHBGMUMtQ0ZGNHRPNl9hUkhkNUxyQmhBb21SV2JGWDFRN0JLZFVQRzVQcUFXVEdHZXg5Ml9lYWRQN3dNM3dKcGlicm5BLURDQ2k0dHptaUNURA?oc=5",
+    "description": "2027년 국내 건설시장은 AI 데이터센터와 공공주택이 새로운 성장동력으로 부상할 전망이다. 데이터센터 신규 건설과 정부의 공공주택 공급 확대가 건설사들의 수주",
+    "published_at": "2026-11-20T08:40:00+09:00",
+    "cluster_id": "8b16",
+    "publisher": "기계설비신문",
+    "title_clean": "[KMEC 증권 레이더 ㉜] 내년은 데이터센터와 공공주택의 해",
+    "summary": "2027년 국내 건설시장에서 AI 데이터센터와 공공주택이 새로운 성장동력으로 부상할 전망이다. 데이터센터 신규 건설과 정부의 공공주택 공급 확대가 건설사들의 수주 증가로 이어질 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T08:51:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32285,22 +32301,6 @@
     "summary": "홍지선 국토부 장관이 세종시 모듈러 공공임대주택 건설현장을 방문하여 사업 추진 상황을 점검했습니다. 모듈러 주택의 양중과 설치 과정을 확인하며 LH, 건설기술연구원, 철강협회 등 관계기관과 협력하고 있습니다.",
     "sentiment": "positive",
     "collected_at": "2026-11-16T17:55:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "신연순 의원, \"앰코 광주공장 증축에 지역 인력·업체 우선 참여를\" - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026111617350731098",
-    "description": "앰코코리아 광주공장 증축공사에 지역 건설노동자와 업체가 참여할 수 있도록 전남광주통합특별시가 협약 체결을 주도해야 한다는 제안이 나왔다. 신연순 전남광주통합특별시의원(진보당·비례)은 16일 제5회 제2차...",
-    "published_at": "2026-11-16T17:45:00+09:00",
-    "cluster_id": "fe5f",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "신연순 의원, \"앰코 광주공장 증축에 지역 인력·업체 우선 참여를\"",
-    "summary": "신연순 의원이 앰코코리아 광주공장 증축공사에 지역 건설노동자와 업체의 우선 참여를 촉구했다. 전남광주통합특별시가 관련 협약 체결을 주도하여 지역 건설산업 활성화를 도모해야 한다는 주장이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T17:50:00+09:00",
     "importance": 2
   }
 ]
