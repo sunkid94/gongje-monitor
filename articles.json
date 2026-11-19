@@ -21151,6 +21151,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "전북 지역건설산업 수주 기회 노린다 - jjn.co.kr",
+    "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1057814",
+    "description": "건설경기 침체가 이어지는 가운데, 전북특별자치도를 비롯한 공공기관과 민간단체, 건설 분야 전문가들이 지역 건설업체의 수주 기회를 늘리기 위한 방안을 논의하고자 한자리에 모였다. 전북자치도는 19일 도청...",
+    "published_at": "2026-11-19T19:32:00+09:00",
+    "cluster_id": "e43b",
+    "publisher": "jjn.co.kr",
+    "title_clean": "전북 지역건설산업 수주 기회 노린다",
+    "summary": "건설경기 침체 속에서 전북특별자치도와 공공기관, 민간단체, 전문가들이 지역 건설업체의 수주 기회 확대 방안을 논의하기 위해 모였다. 지역 건설산업 활성화를 위한 협력 체계를 구축하려는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T19:41:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32285,21 +32301,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:55:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "‘답보상태’ TK통합신공항, 조기 착공 해법…\"국가사업 전환 및 국가재... - kbmaeil.com",
-    "link": "https://www.kbmaeil.com/article/20261116500674",
-    "description": "정재훈 포스코이앤씨 부장과 조관희 현대건설 팀장은 건설경기와 기업 상황, 금융기관의 프로젝트파이낸싱(PF) 발행 한계 등 현 상황을 들어 SPC 구성의 어려움을 설명하고 ‘구미~영천 경부선 직선화’ 사업성 등에...",
-    "published_at": "2026-11-16T16:42:00+09:00",
-    "cluster_id": "325c",
-    "publisher": "kbmaeil.com",
-    "title_clean": "‘답보상태’ TK통합신공항, 조기 착공 해법…\"국가사업 전환 및 국가재...",
-    "summary": "TK통합신공항 프로젝트가 답보 상태에 있는 가운데, 건설사들이 건설경기 부진과 PF 발행 한계로 인한 SPC 구성의 어려움을 지적하며 국가사업 전환 등 조기 착공 해법을 제시하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T16:50:06+09:00",
-    "importance": 4
   }
 ]
