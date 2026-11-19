@@ -5168,6 +5168,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "인도 32억달러 대규모 선박 수주전…K-조선도 뛰어들 준비 - news.tf.co.kr",
+    "link": "https://news.tf.co.kr/read/economy/2391068.htm",
+    "description": "인도해운공사 최대 22척 발주…가스선 8척 중 6척 인도서 건조 HD현대 새 조선소 추진…삼성중공업은 현지 조선소와 협력 인도 정부가 조선업 육성에 속도를 내는 가운데 국영 인도해운공사(SCI)가 최대 32억달러 규모의...",
+    "published_at": "2026-11-20T00:01:00+09:00",
+    "cluster_id": "7299",
+    "publisher": "news.tf.co.kr",
+    "title_clean": "인도 32억달러 대규모 선박 수주전…K-조선도 뛰어들 준비",
+    "summary": "인도 정부가 조선업 육성을 추진하면서 국영 인도해운공사가 32억달러 규모의 대형 선박 발주를 계획 중입니다. HD현대와 삼성중공업 등 한국 조선사들이 현지 진출과 협력을 통해 수주 기회를 노리고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T00:11:17+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21150,22 +21166,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T09:40:01+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, LNG선 1척 추가 수주…상선 수주 목표 146% 달성 - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=01613766645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "삼성중공업이 올해 LNG운반선을 추가로 수주하며 연간 수주 목표의 9부 능선을 넘었다. 상선 부문에서는 이미 연간 목표를 50%가량 웃도는 실적을 올렸다. 삼성중공업은 오세아니아 지역 선주로부터 LNG운반선...",
-    "published_at": "2026-11-16T09:32:00+09:00",
-    "cluster_id": "1cf6",
-    "publisher": "edaily.co.kr",
-    "title_clean": "삼성중공업, LNG선 1척 추가 수주…상선 수주 목표 146% 달성",
-    "summary": "삼성중공업이 LNG운반선을 추가 수주하여 연간 상선 수주 목표를 146% 달성했다. 조선업계의 대형 수주 성공으로 업황이 개선되고 있음을 보여주는 긍정적 신호다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T09:40:01+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
