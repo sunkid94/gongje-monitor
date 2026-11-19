@@ -21168,6 +21168,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[대한민국 건설 리더십 해부] (9) 김동관 '뉴 한화' 재편 속 김우석號 건설부문 존재감 회복 숙제 - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqU3p6Ty1iaWtxekN2dG1oQVAxNWJSMjNrS3dWR1R0WlhGLXhhRFVTd0JQSzIwQmlvcW44MzR5Q3ZQV2M3MGlKLVViUEtCWGxXRUdkZXJsbjdMckZPTlRLNHNQdw?oc=5",
+    "description": "[더구루=홍성환 기자] 김동관 한화그룹 수석부회장이 방산·조선·에너지 등을 중심으로",
+    "published_at": "2026-11-20T00:00:07+09:00",
+    "cluster_id": "7d5a",
+    "publisher": "더구루",
+    "title_clean": "[대한민국 건설 리더십 해부] (9) 김동관 '뉴 한화' 재편 속 김우석號 건설부문 존재감 회복 숙제",
+    "summary": "김동관 한화그룹 수석부회장이 주도하는 '뉴 한화' 재편 과정에서 김우석 회장 체제의 건설부문이 존재감 회복이 필요한 상황. 방산, 조선, 에너지 등 타 사업군 중심의 그룹 전략 속에서 건설사업의 위상 재정의가 과제.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-20T04:45:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32285,22 +32301,6 @@
     "summary": "정부가 세종시에 국내 최대 규모의 모듈러주택 450가구 건설을 추진 중이며, 2030년까지 모듈러 공공주택 발주를 2만 가구로 확대할 계획이다. 이는 공사기간 단축과 건설산업의 기술 중심 전환을 목표로 하는 정책이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-16T17:30:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "재건축 어렵다면 리모델링이라도…대형 건설사 '대수선' 시장 공략 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2389490.htm",
-    "description": "건설업계 관계자는 \"리모델링 시장은 건설경기와 제도 변화에 따라 확대와 축소를 반복해 왔다\"며 \"최근에는 지방 재개발·재건축 물량 감소에 대응해 새로운 일감을 확보하고, 높은 분담금에 부담을 느끼는 단지에...",
-    "published_at": "2026-11-16T17:09:00+09:00",
-    "cluster_id": "6d94",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "재건축 어렵다면 리모델링이라도…대형 건설사 '대수선' 시장 공략",
-    "summary": "지방 재개발·재건축 물량 감소로 어려움을 겪는 건설사들이 리모델링 시장을 새로운 일감 확보 수단으로 주목하고 있다. 높은 재건축 분담금 부담으로 인해 리모델링 선택 단지가 증가하면서 대형 건설사들의 시장 공략이 활발해지는 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T17:15:08+09:00",
     "importance": 2
   }
 ]
