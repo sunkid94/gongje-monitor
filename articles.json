@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "대한적십자사 전북특별자치도지사, 건설공제조합과 함께 취약계층 주거환경 개선 - www.jbsisa.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NmRWa3dmcFl1V2ltYkdJUkUzQ0dhSjQ0LUZqMnRsbk5MUHBmYVBvOExYdHhXNlp3YnlZZTYtdGJIek55Y2E1MnUwRmZYSjRHN1E5YWxZNGtQT2JjTmYya0hoR1lNZEpOcUE?oc=5",
+    "description": "대한적십자사 전북특별자치도지사(회장 김홍식)는 건설공제조합의 후원으로 저소득 취약계층의 주거환경 개선을 위한 ‘희망드림하우스’ 사업을 추진했다고 18일 밝혔다.‘",
+    "published_at": "2026-11-19T10:44:22+09:00",
+    "cluster_id": "24c0",
+    "publisher": "www.jbsisa.co.kr",
+    "title_clean": "대한적십자사 전북특별자치도지사, 건설공제조합과 함께 취약계층 주거환경 개선",
+    "summary": "대한적십자사 전북지사가 건설공제조합의 후원으로 저소득 취약계층 주거환경 개선 사업 '희망드림하우스'를 추진했다. 건설공제조합의 사회공헌 활동 사례로 보도되었다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T07:41:07+09:00",
+    "event_label": "건설공제조합 취약계층 주거환경 개선 사업 추진",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -5149,6 +5166,22 @@
     "collected_at": "2026-10-21T12:02:12+09:00",
     "event_label": "전문건설공제조합 외국인주민 건설기술 교육지원 업무협약",
     "importance": 5
+  },
+  {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "가스안전공사, 'AI 기반 비파괴검사 판독시스템 구축' 협약 및 '성과관리... - cstimes.com",
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=728681",
+    "description": "조상현 한국가스안전공사 안전관리이사, 김봉준 두산에너빌리티(주) AX혁신총괄 전무 △ 'AI 기반 비파괴검사 판독시스템 구축' 협약 컨슈머타임스=안성렬 기자 | 한국가스안전공사가 19일 두산에너빌리티 본사에서...",
+    "published_at": "2026-11-20T07:30:00+09:00",
+    "cluster_id": "3f74",
+    "publisher": "cstimes.com",
+    "title_clean": "가스안전공사, 'AI 기반 비파괴검사 판독시스템 구축' 협약 및 '성과관리...",
+    "summary": "한국가스안전공사가 두산에너빌리티와 'AI 기반 비파괴검사 판독시스템 구축' 협약을 체결했다. 이는 가스 안전 검사의 정확성과 효율성을 높이는 기술 협력으로, 기계설비건설 업계의 안전 기준 고도화를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T07:41:07+09:00",
+    "importance": 2
   },
   {
     "keyword": "두산에너빌리티",
@@ -21135,22 +21168,6 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "삼성중공업, 3424억 규모 LNG선 1척 수주 - hansbiz.co.kr",
-    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883529",
-    "description": "삼성중공업이 건조한 LNG운반선./삼성중공업 | 서울=한스경제 임준혁 기자 | 삼성중공업은 오세아니아 지역 선주와 3424억원 규모의 액화천연가스(LNG) 운반선 1척 공사수주 계약을 체결했다고 16일 공시했다....",
-    "published_at": "2026-11-16T10:08:00+09:00",
-    "cluster_id": "1116",
-    "publisher": "hansbiz.co.kr",
-    "title_clean": "삼성중공업, 3424억 규모 LNG선 1척 수주",
-    "summary": "삼성중공업이 오세아니아 지역 선주로부터 3424억원 규모의 LNG운반선 1척 수주계약을 체결했다. 이는 조선업계의 수주 실적 증가로 긍정적인 신호를 보여주고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T10:15:05+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32284,22 +32301,6 @@
     "summary": "부영그룹이 전 임직원을 대상으로 안전보건경영시스템(KOSHA-MS) 교육을 실시하며 안전문화 정착에 나선다. 중대재해처벌법 대응 및 사업장별 맞춤형 교육을 통해 무재해 사업장 조성을 목표로 한다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-16T17:50:00+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "수도권도 지방도 \"우리 먼저\"…연말 철도망 계획 앞두고 '유치 총력전' - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4SmJGY2FobFlaemFLOUpCN1RxYzRoSWtmTk5MWkNoX3lkT3NnMTZpMVJuLXhvOGdnN0d2NFVBUDdHaVoySjBRaDdCM3RRNlVYUzJROEk4SXBaYmky?oc=5",
-    "description": "[서울=뉴스핌] 정영희 기자 = 철도 투자를 늘려달라는 전국의 요구가 연말 국가철도망 계획 수립을 앞두고 지역별 우선권 경쟁으로 이어지고 있다. 수도권의 출퇴근 불편과 비수도권의 열악한 접근성을 함께 푸는 것이 과제로 남았다. 정부는 기존 사업을 마무리하면서",
-    "published_at": "2026-11-16T17:37:00+09:00",
-    "cluster_id": "3fff",
-    "publisher": "뉴스핌",
-    "title_clean": "수도권도 지방도 \"우리 먼저\"…연말 철도망 계획 앞두고 '유치 총력전'",
-    "summary": "연말 국가철도망 계획 수립을 앞두고 수도권과 비수도권이 철도 투자 확대를 놓고 지역별 우선권 경쟁을 벌이고 있다. 정부는 기존 사업 마무리와 함께 수도권 출퇴근 불편과 비수도권 접근성 문제를 동시에 해결해야 하는 과제에 직면했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T17:45:12+09:00",
     "importance": 2
   }
 ]
