@@ -20964,6 +20964,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "넛지, '2026 스마트건설·안전·AI 엑스포' 참가…갱폼 안전기술 공개 - nbntv.co.kr",
+    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027670",
+    "description": "| 내외경제TV=주현웅 기자 | 갱폼 컨설팅 기업 넛지는 오는 25일부터 27일까지 열리는 '2026 스마트건설·안전·AI 엑스포'에 참가한다. 넛지는 대형 건설사에서 30여 년간 근무한 김종원 대표가 퇴직 후 설립한 기업이다. 김...",
+    "published_at": "2026-11-19T12:42:00+09:00",
+    "cluster_id": "2961",
+    "publisher": "nbntv.co.kr",
+    "title_clean": "넛지, '2026 스마트건설·안전·AI 엑스포' 참가…갱폼 안전기술 공개",
+    "summary": "갱폼 컨설팅 기업 넛지가 '2026 스마트건설·안전·AI 엑스포'에 참가하여 갱폼 안전기술을 공개한다. 대형 건설사 출신 김종원 대표가 설립한 기업으로, 건설 안전 기술 혁신을 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T12:49:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32274,21 +32290,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-16T07:09:29+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[더벨][시멘트업계 불황 돌파구는] 수요 회복 더딘데 탄소중립 부담 ‘... - thebell.co.kr",
-    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611120838392840107634",
-    "description": "건설경기 침체로 급감한 출하량이 향후 완만하게 증가하더라도 과거 수준에는 크게 못 미칠 것이라는 분석이다. 생산·판매량 감소로 수익성이 악화하는 와중에 탄소중립과 환경규제 대응을 위한 설비투자 부담까지...",
-    "published_at": "2026-11-16T07:02:00+09:00",
-    "cluster_id": "e1c4",
-    "publisher": "thebell.co.kr",
-    "title_clean": "[더벨][시멘트업계 불황 돌파구는] 수요 회복 더딘데 탄소중립 부담 ‘...",
-    "summary": "건설경기 침체로 시멘트 출하량이 급감했으며, 향후 회복이 완만해 과거 수준 회복이 어려울 것으로 예상된다. 생산·판매량 감소로 수익성이 악화하는 상황에서 탄소중립 및 환경규제 대응을 위한 추가 설비투자 부담까지 가중되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T07:09:29+09:00",
-    "importance": 4
   }
 ]
