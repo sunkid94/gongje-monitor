@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, 용인 성가원서 ‘사랑의 김장 나눔’ 봉사 - 중앙뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ibVdVVFpDdVVVVXAta1R1WFZFd3BfVW5fdDY0WmNxWWhZMzh1UWNsbDVkbnprMXBRQ1NBc1lsdDN1V1RtbGFqb3ZIWHlEU2tmZXhPendIclZHdHRzNTJGSFhsTU54Qk5pdkxyd9IBcEFVX3lxTE1mMTd0SUZrNWZyNjh4alZKdWo0RzBvOGpxU0RST0R6V0NtWW1yRVV6eENnaFE1aGJ1Tm54Sy1wb0ZwcGx5UWRtaTFGWFM5Z0dhbHBQZ3YzQnQ1SEg4QjRyOVE4YTRNYzZFOWt3MU10MXQ?oc=5",
+    "description": "[중앙뉴스= 이성중 기자] 건설공제조합(이사장 이석용, 이하 조합))은 지난 16일 경기도 용인시 소재 장애인 거주시설인 사회복지법인 성가원을 찾아 ‘사랑의 김장 나눔’ 봉사활동을 실시했다고 19일 빍혔다.1984년 설립된 성가원은 현재 성인 지적장애인 34명이 생활하고 있는 시설로, 동절기를 앞두고 김장 수급과 월동 준비에 지역사회의 손길이 절실한 곳이다. 조합 임직원으로 구성된 ‘사랑나누리봉사단’은 취약계층의 따뜻한 겨울나기를 돕고 상생의 가치를 실천하기 위해 2009년부터 17년째 성가원과의 인연을 이어오고 있다.이날 봉사단은",
+    "published_at": "2026-11-19T15:37:03+09:00",
+    "cluster_id": "c339",
+    "publisher": "중앙뉴스",
+    "title_clean": "건설공제조합, 용인 성가원서 ‘사랑의 김장 나눔’ 봉사",
+    "summary": "건설공제조합이 경기도 용인시 장애인 거주시설 성가원을 방문하여 '사랑의 김장 나눔' 봉사활동을 실시했다. 조합 임직원 봉사단은 2009년부터 17년째 성가원과의 인연을 이어오며 취약계층의 겨울나기를 돕고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T21:56:36+09:00",
+    "event_label": "건설공제조합 사랑의 김장 나눔 봉사활동",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -21151,6 +21168,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“한파 속 노동자 안전 지킨다”…제주 산재예방기관, 이동·건설 노동자 한랭질환 예방 캠페인 - 뉴스N제주",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YeVJNNks5RllUcE5KWHJQcnhYVmFUMUZIdGxHWDk5WXNaSmFlTDk3UVVxWmdOZkVrNXhtTi1TSHlmZzljNlVTNXBPT3BsT2RBV1JzUnNzb2h6bWtPcWxJQ3NTZ0NkRkY1YXB1RA?oc=5",
+    "description": "겨울철 한파에 직접 노출되는 이동·택배 노동자와 건설현장 노동자들의 건강과 안전을 지키기 위해 제주지역 산업재해 예방기관들이 합동 캠페인에 나섰다.특히 한파특보 발령 시 옥외작업을 최소화하고 작업시간을 조정하는 등 현장에서 실천할 수 있는 한랭질환 예방 수칙을 집중적으로 알렸다.광주지방고용노동청(청장 이도영) 제주산재예방감독팀과 한국산업안전보건공단 제주지역본부(본부장 한정민), 제주특별자치도 노사민정협의회 안전일터조성 분과협의회는 지난 18일 제주시 누웨마루거리 일대와 주요 건설현장에서 한랭질환 예방 합동 캠페인을 실시했다고 밝혔다",
+    "published_at": "2026-11-19T15:45:00+09:00",
+    "cluster_id": "f892",
+    "publisher": "뉴스N제주",
+    "title_clean": "“한파 속 노동자 안전 지킨다”…제주 산재예방기관, 이동·건설 노동자 한랭질환 예방 캠페인",
+    "summary": "제주지역 산업재해 예방기관들이 한파 속 이동·택배·건설노동자의 한랭질환 예방을 위해 합동 캠페인을 실시했다. 한파특보 발령 시 옥외작업 최소화와 작업시간 조정 등 현장 실천 수칙을 집중 홍보했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T21:56:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32269,37 +32302,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T17:05:40+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "홍지선 국토장관 “모듈러 주택 2030년까지 2만호 공급” - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92bFBQZHRhV1J3OHBfeS1kaUxJb1pFY3pIcGl0cVJ1eFhkS1BEellsWUVhUFdvZ3MwaUtnVmRZVVpoOTdjaEZQdk5Vc3Z1UXpSQXhzdDJpUQ?oc=5",
-    "description": "홍지선 국토교통부 장관은 16일 세종시 5-1 생활권의 모듈러 통합공공임대주택 건설현장을 찾아 모듈러 주택 발주물량이 내년부터 2030년까지 2만호로 확대되고 일반 공법",
-    "published_at": "2026-11-16T16:58:38+09:00",
-    "cluster_id": "fb7a",
-    "publisher": "헤럴드경제",
-    "title_clean": "홍지선 국토장관 “모듈러 주택 2030년까지 2만호 공급”",
-    "summary": "홍지선 국토장관이 세종시 모듈러 통합공공임대주택 건설현장을 방문하여 모듈러 주택 공급 확대 계획을 발표했다. 모듈러 주택 발주물량이 내년부터 2030년까지 2만호로 확대될 예정으로, 건설업계에 새로운 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T17:05:40+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[정종채 변호사의 하도급법 판례 이야기 84] 하도급법 등에서의 기업분... - mcnews.co.kr",
-    "link": "http://mcnews.co.kr/86922",
-    "description": "재결2017-057은 종합건설업자가 건설과 관련하여 설계위탁을 한 사안에서 ‘건설산업기본법상 종합공사 시공업을 등록한 건설업자로서 설계사법상의 설계행위를 할 수 있는 부서 및 건축사를 보유하고 있지 아니하고...",
-    "published_at": "2026-11-16T16:52:00+09:00",
-    "cluster_id": "4555",
-    "publisher": "mcnews.co.kr",
-    "title_clean": "[정종채 변호사의 하도급법 판례 이야기 84] 하도급법 등에서의 기업분...",
-    "summary": "종합건설업자가 설계사법상 설계행위를 수행할 수 있는 요건을 갖추지 못한 경우 하도급법 위반 여부를 판단한 판례 분석. 건설업체의 설계 용역 발주 시 법적 요건과 제한사항을 설명하는 법률 해설 기사.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-16T16:59:52+09:00",
-    "importance": 2
   }
 ]
