@@ -4981,6 +4981,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한화 건설부문, 하안주공5단지 수주...누적 정비사업 2.5조 돌파 - newspost.kr",
+    "link": "https://www.newspost.kr/news/articleView.html?idxno=227560",
+    "description": "압구정5구역 재건축(현대건설 컨소시엄·1397세대)과 신대방역세권 재개발(대우건설 컨소시엄·1586세대)을 수주했다. 석관1-1·1-2·1-7구역 가로주택정비사업도 확보해 1583세대 규모의 포레나 브랜드타운을 조성할...",
+    "published_at": "2026-11-19T12:58:00+09:00",
+    "cluster_id": "0b81",
+    "publisher": "newspost.kr",
+    "title_clean": "한화 건설부문, 하안주공5단지 수주...누적 정비사업 2.5조 돌파",
+    "summary": "한화 건설부문이 압구정5구역 재건축, 신대방역세권 재개발, 석관1-1·1-2·1-7구역 가로주택정비사업 등을 수주하며 누적 정비사업 규모를 2.5조 원대로 확대했다. 총 4,566세대 규모의 대형 프로젝트 수주로 건설 수주량을 크게 증가시켰다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T13:05:26+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20965,19 +20981,19 @@
     "importance": 2
   },
   {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "롯데건설, 내년 이촌 르엘 등 20여곳 준공…현금흐름 개선 추진 - greened.kr",
-    "link": "https://www.greened.kr/news/articleView.html?idxno=354604",
-    "description": "롯데건설 본사 사옥. 롯데건설 제공 롯데건설이 내년 이촌 르엘 등 20여개 사업장의 준공과 입주를 바탕으로 공사비 회수에 나선다. 원가율 하락으로 영업이익이 늘어난 가운데 공사미수금 회수를 통한 현금흐름...",
-    "published_at": "2026-11-13T16:44:00+09:00",
-    "cluster_id": "2204",
-    "publisher": "greened.kr",
-    "title_clean": "롯데건설, 내년 이촌 르엘 등 20여곳 준공…현금흐름 개선 추진",
-    "summary": "롯데건설이 내년 이촌 르엘 등 20여 개 사업장의 준공을 통해 공사비 회수와 현금흐름 개선에 나선다. 원가율 하락으로 영업이익 증가세를 보이며 공사미수금 회수를 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-13T16:54:58+09:00",
+    "title": "익산시, 겨울철 공동주택 건설현장 안전 살핀다 - 전북투데이",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SdWsyTWlDWjgzMkJDcHY2bGNpTVdhZml5TlhEdXlZTlY4QkUyZU8tQTl0UU9zTDJoNVJyMmtLbUlieFJtWk9zNUtJYnZLd0xwbXhhTGJsV0ZQTzdvaDRCYnZ5QW1HZw?oc=5",
+    "description": "익산시가 공동주택 건설현장의 위험요인을 지속적으로 살피며 안전사고 예방에 힘쓰고 있다.익산시는 공동주택 건설현장을 대상으로 동절기 안전점검을 실시해 한파와 결빙에 따른 시설물 손상 여부와 위험요인을 확인하는 등 현장 안전관리를 강화한다고 19일 밝혔다.이날 시는 주택도시보증공사(HUG), 구조 분야 민간 전문가와 함께 남중동의 한 공동주택 건설현장을 찾아 합동 안전점검을 실시했다. 해당 사업장은 2023년 공사가 중단된 이후 HUG가 관리하고 있는 현장이다.시는 그동안 해빙기와 우기, 동절기 등에 대비해 매년 안전점검을 실시하며 해",
+    "published_at": "2026-11-19T12:52:04+09:00",
+    "cluster_id": "f616",
+    "publisher": "전북투데이",
+    "title_clean": "익산시, 겨울철 공동주택 건설현장 안전 살핀다",
+    "summary": "익산시가 겨울철 공동주택 건설현장의 안전점검을 강화하고 있으며, HUG 및 민간 전문가와 함께 한파·결빙으로 인한 시설물 손상과 위험요인을 확인하고 있다. 시는 해빙기·우기·동절기 등 계절별 안전점검을 정기적으로 실시하여 사고 예방에 주력하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T13:05:26+09:00",
     "importance": 2
   },
   {
@@ -32275,21 +32291,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T08:04:18+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“겨울철 안전사고 원천 차단” 국토부, 전국 건설현장 2,946곳 대대적 안... - dailyt.co.kr",
-    "link": "https://www.dailyt.co.kr/newsView/dlt202611160002",
-    "description": "국토교통부는 오늘(16일)부터 다음 달 24일까지 약 6주간 전국 2,946개 건설현장을 대상으로 ‘동절기 대비 건설현장 안전점검’을 실시한다고 밝혔다. 이번 점검에는 국토부를 비롯해 지방국토관리청, 산하기관 등 총 12개...",
-    "published_at": "2026-11-16T07:52:00+09:00",
-    "cluster_id": "312e",
-    "publisher": "dailyt.co.kr",
-    "title_clean": "“겨울철 안전사고 원천 차단” 국토부, 전국 건설현장 2,946곳 대대적 안...",
-    "summary": "국토교통부가 겨울철 건설현장 안전사고 예방을 위해 전국 2,946개 현장에 대한 대대적 안전점검을 6주간 실시한다. 점검을 통해 낙상, 동파 등 겨울철 사고 위험 요소를 사전에 차단할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T07:59:06+09:00",
-    "importance": 4
   }
 ]
