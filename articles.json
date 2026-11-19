@@ -5015,23 +5015,6 @@
     "importance": 5
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "음성군외국인지원센터, 외국인 근로자 건설 역량 강화 위한 업무협약 체... - news.mbccb.co.kr",
-    "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261020&SEQUENCE=0115",
-    "description": "음성군외국인지원센터와 전문건설공제조합 기술교육원이 외국인 주민의 안정적인 지역사회 정착과 경제적 자립을 돕기 위한 업무협약을 맺었습니다. 이번 협약으로 양 기관은 외국인 근로자를 대상으로 한 건설현장...",
-    "published_at": "2026-10-20T14:52:00+09:00",
-    "cluster_id": "dbf8",
-    "publisher": "news.mbccb.co.kr",
-    "title_clean": "음성군외국인지원센터, 외국인 근로자 건설 역량 강화 위한 업무협약 체...",
-    "summary": "음성군외국인지원센터와 전문건설공제조합 기술교육원이 외국인 근로자의 건설 역량 강화를 위한 업무협약을 체결했다. 외국인 주민의 안정적 정착과 경제적 자립을 지원하는 교육 프로그램을 추진한다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-20T15:00:57+09:00",
-    "event_label": "전문건설공제조합 외국인 근로자 건설교육 업무협약 체결",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21032,6 +21015,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "원주시, 건설경기 침체 대응…지역 건설업체 지원 모색 - asiatoday.co.kr",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007416",
+    "description": "아시아투데이 김철수 기자 = 강원 원주시가 장기화되는 건설경기 침체 속에서 지역 건설업계의 숨통을 틔우고 지역경제 전반의 회복세를 이끌기 위한 현장 소통 행보에 나섰다.시는 18일 대한건설협회 강원특별자치도회...",
+    "published_at": "2026-11-19T14:58:00+09:00",
+    "cluster_id": "be1c",
+    "publisher": "asiatoday.co.kr",
+    "title_clean": "원주시, 건설경기 침체 대응…지역 건설업체 지원 모색",
+    "summary": "원주시가 장기화된 건설경기 침체에 대응하기 위해 지역 건설업체 지원 방안을 모색하고 있다. 대한건설협회 강원특별자치도회와의 현장 소통을 통해 건설업계의 경영 어려움을 해소하고 지역경제 회복을 추진 중이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T15:05:40+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "AI 안전관제 전문기업 진인프라, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’ 참가 - ABC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05SXpqUWh2Uy1QeGFkVC1BZHlpcG1odkdoc21tOVhSUEtjU0lEakVtMEIzQXNxLVBnWEFsZWFTd09PZHVKU3dsT1Q3Q1ItNFdYR0ZYaDRHQS1TWERXSHRZdjJIMNIBZ0FVX3lxTE1oX0FOaVRqY3JFRmR0Um5hb1FjdG5zaU8zVzhmSzhPTXduVVViZnZta2FPZEYwX0dKQlk1d2hfckVBYTJWZUZqR0NsR3JJaDhSbFczNkY2bmtUR3UtUTlyRmwtSTFCZDg?oc=5",
+    "description": "ABC뉴스=김수찬 기자 / 주요 공기업의 건설현장 보안 네트워크(VPN)를 운영해 온 ICT 전문기업 ㈜진인프라(대표이사 김성용)가 오는 25일부터 27일까지 킨텍스 제1전시장에서 개최되는 ‘2026 스마트건설·안전·AI 엑스포’에 참가해, 그동안 건설업이 어려워하던 네트워크, 통신, 보안 문제를 해결한 AI CCTV 안전관제 플랫폼 ‘JIN SAFETY(진세이프티)’를 선보인다고 밝혔다.진인프라는 36㎡ 규모의 부스에서 JIN SAFETY와 위치 확인 기능을 결합한 근로자 스마트밴드, 이동형 AI CCTV를 시연한다.JIN SAF",
+    "published_at": "2026-11-19T14:42:09+09:00",
+    "cluster_id": "eff1",
+    "publisher": "ABC뉴스",
+    "title_clean": "AI 안전관제 전문기업 진인프라, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’ 참가",
+    "summary": "AI 안전관제 전문기업 진인프라가 '2026 스마트건설·안전·AI 엑스포'에 참가하여 AI CCTV 안전관제 플랫폼 'JIN SAFETY'를 선보인다. 건설현장의 네트워크, 통신, 보안 문제 해결을 위한 솔루션과 근로자 스마트밴드, 이동형 AI CCTV 등을 시연할 예정이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T15:05:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32277,22 +32292,6 @@
     "summary": "롯데건설이 내실 경영과 체질 개선을 통해 3분기 누적 영업이익을 2,077억원으로 증대시켰다. 건설사의 수익성 개선 추세를 보여주는 긍정적 실적이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-16T10:50:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토부, 전국 건설현장 2천946곳 동절기 안전점검…한파·폭설 대비 - efnews.co.kr",
-    "link": "http://www.efnews.co.kr/news/articleView.html?idxno=133997",
-    "description": "국토부가 건설현장 안전사고 예방을 위해 전국 건설현장 2천946곳에 대해 동절기 안전점검에 나선다. (사진=픽사베이) 국토교통부가 한파와 폭설 등 겨울철 기상 악화에 따른 건설현장 안전사고를 예방하기 위해 전국...",
-    "published_at": "2026-11-16T10:36:00+09:00",
-    "cluster_id": "e80a",
-    "publisher": "efnews.co.kr",
-    "title_clean": "국토부, 전국 건설현장 2천946곳 동절기 안전점검…한파·폭설 대비",
-    "summary": "국토교통부가 한파와 폭설 등 겨울철 악천후에 대비하여 전국 건설현장 2,946곳에 대한 동절기 안전점검을 실시한다. 건설현장의 겨울철 안전사고 예방이 목적이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-16T10:39:43+09:00",
     "importance": 2
   }
 ]
