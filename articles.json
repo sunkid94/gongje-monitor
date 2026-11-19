@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "대한기계설비건설협회",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "부산시, 노후 사회복지시설 5곳에 '열회수형 환기장치' 설치 - fnnews.com",
+    "link": "https://www.fnnews.com/news/202611191019484778",
+    "description": "이는 시와 대한기계설비건설협회 부산시회가 함께하는 민·관 협력사업으로, 시가 구·군 추천과 현장조사로 최종 대상지를 선정하면 협회가 재능기부로 열회수형 환기장치를 무상으로 설치한다. 시는 지난해 노후 경로당...",
+    "published_at": "2026-11-19T10:34:00+09:00",
+    "cluster_id": "6940",
+    "publisher": "fnnews.com",
+    "title_clean": "부산시, 노후 사회복지시설 5곳에 '열회수형 환기장치' 설치",
+    "summary": "부산시와 대한기계설비건설협회 부산시회가 민·관 협력으로 노후 사회복지시설 5곳에 열회수형 환기장치를 무상 설치한다. 협회가 재능기부 형태로 시공을 담당하는 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T10:39:42+09:00",
+    "event_label": "대한기계설비건설협회 노후 사회복지시설 열회수형 환기장치 설치 사업",
+    "importance": 5
+  },
+  {
     "keyword": "건설공제조합",
     "category": "조합·협회",
     "is_company": true,
@@ -4843,6 +4860,38 @@
     "collected_at": "2026-10-20T11:10:58+09:00",
     "event_label": "건설공제조합 2026년 하반기 신입직원 채용 공고",
     "importance": 5
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "자녀 교육환경이 주거 선택 기준으로… '청라 아크원 푸르지오' 학세권... - etnews.com",
+    "link": "https://www.etnews.com/20261119000109",
+    "description": "㈜청라스마트시티가 시행하고 대우건설이 시공하는 '청라 아크원 푸르지오'는 지하 5층~지상 최고 49층, 6개 동, 총 1,855가구 규모로 조성된다. 아파트는 전용면적 84~103㎡ 868세대, 오피스텔은 전용면적 105~136㎡ 987실로...",
+    "published_at": "2026-11-19T10:33:00+09:00",
+    "cluster_id": "5e5b",
+    "publisher": "etnews.com",
+    "title_clean": "자녀 교육환경이 주거 선택 기준으로… '청라 아크원 푸르지오' 학세권...",
+    "summary": "청라스마트시티 개발사업으로 대우건설이 시공하는 '청라 아크원 푸르지오' 아파트 및 오피스텔 프로젝트가 추진 중이며, 총 1,855가구 규모로 조성된다. 자녀 교육환경을 주거 선택 기준으로 하는 소비자 수요에 대응한 학세권 중심 개발 전략을 추진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T10:39:42+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한화 건설부문, 하안주공 5단지에 '포레나' 단다 - wikileaks-kr.org",
+    "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194870",
+    "description": "압구정5구역 재건축(현대건설 컨소시엄, 1397세대), 신대방역세권 재개발(대우건설 컨소시엄, 1586세대) 등 서울 주요 사업지의 시공권을 확보한 데 이어, 석관1-1·1-2·1-7구역 가로주택정비사업을 잇따라 수주하며 석관동...",
+    "published_at": "2026-11-19T10:32:00+09:00",
+    "cluster_id": "ae82",
+    "publisher": "",
+    "title_clean": "한화 건설부문, 하안주공 5단지에 '포레나' 단다 - wikileaks-kr.org",
+    "summary": "한화 건설부문이 압구정5구역 재건축, 신대방역세권 재개발 등 서울 주요 사업지의 시공권을 확보하고 석관동 가로주택정비사업을 추가 수주하며 수주 실적을 늘리고 있다. 포레나 브랜드로 하안주공 5단지 프로젝트를 진행 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T10:39:42+09:00",
+    "importance": 2
   },
   {
     "keyword": "대우건설",
@@ -20813,38 +20862,6 @@
     "importance": 4
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "“특정 업체 밀어주기 의혹”… 국회, ‘체코 원전 시공사 교체 논란’... - segye.com",
-    "link": "https://www.segye.com/newsView/20261113510891?OutUrl=naver",
-    "description": "앞서 한수원은 지난달 29일 대우건설·두산에너빌리티 컨소시엄과 진행해 온 두코바니 5·6호기 시공계약 협상을 종료하고 신규 시공사 선정 절차에 착수한다고 밝혔다. 공사비와 위험 분담 등 주요 계약조건에 대한...",
-    "published_at": "2026-11-13T15:37:00+09:00",
-    "cluster_id": "30bf",
-    "publisher": "segye.com",
-    "title_clean": "“특정 업체 밀어주기 의혹”… 국회, ‘체코 원전 시공사 교체 논란’...",
-    "summary": "한수원이 체코 두코바니 원전 5·6호기 시공계약 협상을 대우건설·두산에너빌리티 컨소시엄과 종료하고 신규 시공사 선정 절차를 시작함에 따라 국회에서 특정 업체 밀어주기 의혹이 제기되고 있다. 공사비와 위험 분담 등 주요 계약조건을 둘러싼 논란이 이슈화되는 상황.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-13T15:56:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한국남부발전, 두산에너빌리티와 발전설비 디지털 정비체계 구축 - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587008566868",
-    "description": "한국남부발전이 두산에너빌리티와 국산 발전기 모니터링 시스템의 현장 실증에 착수하며 발전설비 디지털 정비체계 구축에 나선다. 한국남부발전(사장 김준동, 이하 남부발전)은 지난 12일 경남 창원 두산에너빌리티...",
-    "published_at": "2026-11-13T15:36:00+09:00",
-    "cluster_id": "271e",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "한국남부발전, 두산에너빌리티와 발전설비 디지털 정비체계 구축",
-    "summary": "한국남부발전이 두산에너빌리티와 협력하여 국산 발전기 모니터링 시스템의 현장 실증을 시작하고 발전설비 디지털 정비체계를 구축 중입니다. 이는 발전설비 유지보수 기술 고도화 및 국산 기술 개발을 통한 시장 경쟁력 강화를 의미합니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-13T15:56:14+09:00",
-    "importance": 2
-  },
-  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32267,21 +32284,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-15T18:59:27+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "머리 맞댄 LH·주택협회…민간 참여로 주택공급 속도↑ - shinailbo.co.kr",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083465",
-    "description": "또 건설경기 침체가 지속되는 상황에서 업계의 어려움을 해소하고 사업 참여 확대 및 활성화를 위한 실질적인 지원 방안도 요구했다. 장기간의 부동산 경기 침체와 공사비 상승, 높은 금융비용 등 어려운 업계 여건을...",
-    "published_at": "2026-11-15T18:44:00+09:00",
-    "cluster_id": "b869",
-    "publisher": "shinailbo.co.kr",
-    "title_clean": "머리 맞댄 LH·주택협회…민간 참여로 주택공급 속도↑",
-    "summary": "LH와 주택협회가 민간 참여를 통한 주택공급 활성화 방안을 논의했다. 건설경기 침체, 공사비 상승, 높은 금융비용 등 업계의 어려움 해소를 위한 실질적 지원 방안이 요구되고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-15T18:49:27+09:00",
-    "importance": 2
   }
 ]
