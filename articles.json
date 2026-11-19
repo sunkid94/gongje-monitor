@@ -5151,6 +5151,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "청주 194.59대 1 vs 대구·인천·천안 대거 미달…같은 시공사 단지도 평... - dailypop.kr",
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=104767",
+    "description": "대우건설이 시공한 서울 써밋 클라비온도 66.78대 1을 기록했지만, 천안 두정역 푸르지오 그랑피크는 0.13대 1로 집계됐다. 이미지=AI제작 인천·광명은 59㎡ 마감, 일부 84㎡는 대규모 미달 인천 시티오씨엘 9단지는...",
+    "published_at": "2026-11-19T18:00:00+09:00",
+    "cluster_id": "14f9",
+    "publisher": "dailypop.kr",
+    "title_clean": "청주 194.59대 1 vs 대구·인천·천안 대거 미달…같은 시공사 단지도 평...",
+    "summary": "전국 아파트 분양에서 지역 및 단지별로 극명한 수급 격차가 발생하고 있다. 청주는 194.59대 1의 높은 경쟁률을 보인 반면, 대구·인천·천안 등지에서는 1대 1 이하의 심각한 미달 현상이 나타나고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-19T18:05:32+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21133,22 +21149,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-16T06:29:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "서울역 뒷골목에 GS·대우가 눈독…서계동에 무슨 일 [르포] - realty.chosun.com",
-    "link": "https://realty.chosun.com/site/data/html_dir/2026/11/13/2026111301199.html",
-    "description": "인근 청파1구역 시공권을 확보한 대우건설도 강한 의지를 드러내고 있다. 지난해 9월 시공사로 선정된 데 이어 올해 8월 약 3556억원 규모의 공사도급계약을 체결했다. 청파동2가에 최고 25층, 7개 동, 646가구를 짓는...",
-    "published_at": "2026-11-16T06:02:00+09:00",
-    "cluster_id": "1531",
-    "publisher": "realty.chosun.com",
-    "title_clean": "서울역 뒷골목에 GS·대우가 눈독…서계동에 무슨 일 [르포]",
-    "summary": "서울역 인근 서계동 재개발 사업에서 대우건설이 청파1구역 시공권을 확보하고 3556억원 규모의 공사도급계약을 체결했다. 서울역 뒷골목 일대에서 GS, 대우 등 대형 건설사들이 개발 기회를 노리고 있는 상황이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T06:10:20+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
