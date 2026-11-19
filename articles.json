@@ -21151,6 +21151,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "모듈러주택은 공종별 시공의 종합···전문건설 참여 필수 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327543",
+    "description": "모듈러주택이 시범사업 단계를 지나 대량 공급 단계로 들어서고 있다. 공기 단축, 인력난 해소, 안전사고 감소 효과가 커 주택공급 정책의 유력한 수단이 됐다. 그러나 대량 공급 초기에 하자 및 품질 이슈가 반복되면 모듈러주택 전반에 대한 신뢰가 흔들릴 수 있다. 물량 확대만큼 품질보증이 중요한 이유다.1. 본격화된 모듈러주택 공급 확대정부는 최근 8·13 주택공급 대책 등에서 2027~2030년 공공 모듈러주택 발주목표를 2만호로 늘리고 초과공사비의 약 50%를 지원하기로 했다. 한국토지주택공사(LH)도 지난 11월 초 2030년까지",
+    "published_at": "2026-11-19T17:50:16+09:00",
+    "cluster_id": "28b4",
+    "publisher": "대한전문건설신문",
+    "title_clean": "모듈러주택은 공종별 시공의 종합···전문건설 참여 필수",
+    "summary": "정부가 2027~2030년 공공 모듈러주택 발주목표를 2만호로 확대하고 초과공사비를 지원하면서 모듈러주택 공급이 본격화되고 있다. 공기 단축과 안전사고 감소 등의 장점이 있으나, 대량 공급 초기 단계에서 하자 및 품질 이슈 관리와 전문건설 참여를 통한 품질보증이 중요하다는 지적이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T17:54:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32285,21 +32301,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-16T16:30:07+09:00",
     "importance": 5
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "롯데건설, 내실 경영 통했다…‘체질 개선’ 본궤도 - 한양경제",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHd1BGN05vNEluRFFFVFBKV0VSaUwzemRvLWRvY3dMXzQ5M3lDcWJMZTZyUVlIbDJ6MTFrNERWVDZ2eTI3Z1lETUswaVNIeUJrdGYwVUZQbV9yU2hHeV9pRDhGNERGbGthTklDemJld1ZsQQ?oc=5",
-    "description": "롯데건설이 원가율 안정화와 선별 수주 전략에 힘입어 안정적인 재무구조를 이어가고 있다.특히 프로젝트파이낸싱(PF) 우발채무를 1조원 가까이 감축해 재무 리스크를",
-    "published_at": "2026-11-16T15:54:56+09:00",
-    "cluster_id": "1b65",
-    "publisher": "한양경제",
-    "title_clean": "롯데건설, 내실 경영 통했다…‘체질 개선’ 본궤도",
-    "summary": "롯데건설이 원가율 안정화와 선별 수주 전략으로 재무구조를 개선하고 있으며, PF 우발채무를 대폭 감축해 재무 리스크를 낮추고 있다. 이는 건설업계의 체질 개선 사례로 긍정적 신호를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T16:30:07+09:00",
-    "importance": 2
   }
 ]
