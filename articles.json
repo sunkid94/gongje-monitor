@@ -21151,6 +21151,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "광양시, 건설업체 3곳 광양사랑상품권 5500만 원 구매 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506044",
+    "description": "박성현 시장은 \"건설경기 침체로 어려운 여건 속에서도 지역경제를 위해 뜻을 모아주신 세 기업 대표께 감사드린다\"며 \"기업의 자발적인 참여가 지역 소상공인과 골목상권에 실질적인 도움이 되길 바라며, 앞으로도...",
+    "published_at": "2026-11-19T20:56:00+09:00",
+    "cluster_id": "fe89",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "광양시, 건설업체 3곳 광양사랑상품권 5500만 원 구매",
+    "summary": "광양시에서 건설업체 3곳이 광양사랑상품권 5500만 원을 구매하여 지역경제 활성화에 동참했다. 건설경기 침체 속에서도 기업들의 자발적 참여로 소상공인과 골목상권 지원을 도모하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T21:01:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32285,21 +32301,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:59:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "건설업 침체로 시멘트 업계 '비상'···향후 3년 수요 '어두워' - todaykorea.co.kr",
-    "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408643",
-    "description": "국토교통부 건설산업지식정보시스템에 따르면 올해 1~10월 기준 건설사 누적 폐업 신고 건수는 3538건으로 17년 만에 최대치를 기록했다. 특히 업계에서는 이러한 건설경기 침체가 향후 설비투자까지 영향을 미칠...",
-    "published_at": "2026-11-16T16:50:00+09:00",
-    "cluster_id": "aaa6",
-    "publisher": "todaykorea.co.kr",
-    "title_clean": "건설업 침체로 시멘트 업계 '비상'···향후 3년 수요 '어두워'",
-    "summary": "올해 1~10월 건설사 폐업 신고가 3538건으로 17년 만에 최대치를 기록하며 건설경기가 심각하게 침체되고 있다. 건설 부진이 설비투자까지 악영향을 미치면서 향후 3년 시멘트 수요가 감소할 것으로 예상된다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T16:55:25+09:00",
-    "importance": 4
   }
 ]
