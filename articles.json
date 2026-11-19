@@ -1,5 +1,22 @@
 [
   {
+    "keyword": "건설공제조합",
+    "category": "조합·협회",
+    "is_company": true,
+    "title": "건설공제조합, 장애인 거주시설에 김장 800포기 나눔 - fnnews.com",
+    "link": "https://www.fnnews.com/news/202611191016354409",
+    "description": "건설공제조합이 성인 지적장애인 거주시설을 찾아 김장 800포기를 담그며 겨울나기를 지원했다. 조합은 지난 16일 경기 용인시 사회복지법인 성가원에서 임직원으로 구성된 사랑나누리봉사단이 '사랑의 김장 나눔...",
+    "published_at": "2026-11-19T10:25:00+09:00",
+    "cluster_id": "8ccd",
+    "publisher": "fnnews.com",
+    "title_clean": "건설공제조합, 장애인 거주시설에 김장 800포기 나눔",
+    "summary": "건설공제조합이 경기 용인시 성인 지적장애인 거주시설을 방문해 임직원 봉사단이 김장 800포기를 담그며 겨울나기를 지원했다. 사회공헌활동을 통해 지역사회에 기여하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-19T10:29:51+09:00",
+    "event_label": "건설공제조합 사랑의 김장 나눔 봉사활동",
+    "importance": 5
+  },
+  {
     "keyword": "대한기계설비건설협회",
     "category": "조합·협회",
     "is_company": true,
@@ -4826,6 +4843,22 @@
     "collected_at": "2026-10-20T11:10:58+09:00",
     "event_label": "건설공제조합 2026년 하반기 신입직원 채용 공고",
     "importance": 5
+  },
+  {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "허윤홍 GS건설 대표 \"성과보다 공정거래 최우선\"..건설업계 CP '강화' - choicenews.co.kr",
+    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=173330",
+    "description": "롯데건설은 2018년 CP 도입 이후 자율준수관리자와 컴플라이언스 사무국을 중심으로 현장 교육과 임직원 준법의식 제고 활동을 추진하고 있다. 매년 최고경영자를 포함한 전 임직원이 공정거래 자율준수 서약서를...",
+    "published_at": "2026-11-19T10:26:00+09:00",
+    "cluster_id": "fe58",
+    "publisher": "choicenews.co.kr",
+    "title_clean": "허윤홍 GS건설 대표 \"성과보다 공정거래 최우선\"..건설업계 CP '강화'",
+    "summary": "GS건설 대표가 공정거래 준수를 최우선으로 강조하며 건설업계의 컴플라이언스 강화를 주도하고 있다. 롯데건설 등 주요 건설사들이 자율준수관리자 체계 운영과 임직원 준법의식 제고 활동을 확대하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-19T10:29:51+09:00",
+    "importance": 4
   },
   {
     "keyword": "대우건설",
@@ -20812,19 +20845,19 @@
     "importance": 4
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "IPARK현대산업개발, 이촌 강변강서 재건축 출사표 - news.tf.co.kr",
-    "link": "https://news.tf.co.kr/read/economy/2388633.htm",
-    "description": "최고 39층, 209가구 조성…30일 입찰 마감 정비창 전면1구역 이어 용산 포트폴리오 확장 IPARK현대산업개발이 서울 용산구 이촌동 강변강서아파트 재건축 수주전에 출사표를 던졌다. 지난해 시공권을 확보한 용산정비창...",
-    "published_at": "2026-11-13T15:46:00+09:00",
-    "cluster_id": "6fde",
-    "publisher": "news.tf.co.kr",
-    "title_clean": "IPARK현대산업개발, 이촌 강변강서 재건축 출사표",
-    "summary": "IPARK현대산업개발이 서울 용산구 이촌동 강변강서아파트 재건축 사업에 참여하여 최고 39층, 209가구 규모의 프로젝트를 수주하기 위해 입찰에 나섰다. 용산정비창에 이어 용산 지역 포트폴리오를 확장하는 전략으로 평가된다.",
+    "title": "원주시, 대한건설협회 강원특별자치도회와 간담회 개최 - 원주신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLcC1CazZ4cU12bDNDZ0hCU0JvN25MakgwM1F5SDl6dHhJOEo2UEFjWWd0ajY2dW1QS05mQllubUlvWGE1b1VSXzBBak42Vmhuc2pJWm8tMWpaUDlIOFBvZkhXX3JpTUE?oc=5",
+    "description": "원주시는 지난 18일 시장 집무실에서 대한건설협회 강원특별자치도회(회장 최상순)와 지역 건설산업 활성화를 위한 간담회를 개최했다.이번 간담회는 최근 건설경기 침체로 어려움을 겪는 건설업계의 현장 애로사항을 청취하고, 지역업체 참여 제고 방안을 모색하기 위해 마련됐다.이날 참석자들은 공공기관의 발주 물량 확대와 지역 건설업체의 실질적인 수주 기회 보장을 위한 제도 개선을 건의했다.이에 시는 관련 법령과 사업 여건을 종합적으로 고려해 실효성 있는 지원 방안을 마련해 나가기로 했다.한편, 간담회 이후 대한건설협회 강원특별자치도회는 시민서",
+    "published_at": "2026-11-19T10:22:15+09:00",
+    "cluster_id": "b98b",
+    "publisher": "원주신문",
+    "title_clean": "원주시, 대한건설협회 강원특별자치도회와 간담회 개최",
+    "summary": "원주시가 대한건설협회 강원특별자치도회와 간담회를 개최하여 건설경기 침체로 어려움을 겪는 업계의 애로사항을 청취했다. 참석자들은 공공발주 물량 확대와 지역업체 수주 기회 보장을 위한 제도 개선을 건의했으며, 시는 실효성 있는 지원 방안을 마련하기로 했다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-13T15:56:14+09:00",
+    "collected_at": "2026-11-19T10:29:51+09:00",
     "importance": 2
   },
   {
@@ -32250,37 +32283,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-15T18:29:42+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "추경호는 대구 경제 살리기에 사활…정부·여당은 '45% 대구 민심' 잊었... - inews24.com",
-    "link": "http://www.inews24.com/view/2026269",
-    "description": "지역 건설경기 활성화와 주택시장 정상화, 중소기업 경영환경 개선, 소상공인 지원 등 현안에 대응하는 동시에 대구의 미래 먹거리를 발굴하는 중장기 전략도 병행하고 있다. 기존의 기계·섬유·자동차부품 중심...",
-    "published_at": "2026-11-15T17:34:00+09:00",
-    "cluster_id": "a6f0",
-    "publisher": "inews24.com",
-    "title_clean": "추경호는 대구 경제 살리기에 사활…정부·여당은 '45% 대구 민심' 잊었...",
-    "summary": "추경호 당선인이 대구 지역 경제 활성화를 위해 건설경기 활성화, 주택시장 정상화, 중소기업 지원 등의 현안 대응과 함께 기존 제조업(기계, 섬유, 자동차부품) 중심의 중장기 전략을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-15T17:39:19+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "롯데건설, 조경·초고층 시공·건축 디자인 잇단 수상…스타트업 협력 ... - webeconomy.co.kr",
-    "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2375887",
-    "description": "스타트업 10곳과 건설 신기술 검증…현장 적용 논의 롯데건설은 지난 10일 '2026 오픈이노베이션 성과공유회'를 열고 스타트업 10곳과 진행한 기술검증(PoC) 결과를 공유했다고 밝혔다. 참여 기업은 모빌에이트·클레빌...",
-    "published_at": "2026-11-15T17:34:00+09:00",
-    "cluster_id": "fb76",
-    "publisher": "webeconomy.co.kr",
-    "title_clean": "롯데건설, 조경·초고층 시공·건축 디자인 잇단 수상…스타트업 협력 ...",
-    "summary": "롯데건설이 스타트업 10곳과 협력하여 건설 신기술 검증(PoC)을 진행하고 성과를 공유했다. 조경·초고층 시공·건축 디자인 등에서 잇단 수상을 거두며 기술혁신과 혁신적 협력체계를 강화하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-15T17:39:19+09:00",
-    "importance": 3
   }
 ]
