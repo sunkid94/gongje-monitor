@@ -20981,6 +20981,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "이석준 우미글로벌 회장 시대 1년차…‘3기 신도시’로 우미건설 매출 ... - thevaluenews.co.kr",
+    "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203461",
+    "description": "우미건설은 2021년 스마트건설팀을 신설하고 착공 전 설계와 공정을 가상 환경에서 검증하는 ‘프리콘’ 방식을 도입했다. 지난해에는 건설 특화 생성형 인공지능(AI) ‘린GPT’를 공동 개발했고 설계 자동화와 3차원...",
+    "published_at": "2026-11-19T13:30:00+09:00",
+    "cluster_id": "3f04",
+    "publisher": "thevaluenews.co.kr",
+    "title_clean": "이석준 우미글로벌 회장 시대 1년차…‘3기 신도시’로 우미건설 매출 ...",
+    "summary": "우미건설이 이석준 회장 취임 1년차에 스마트건설팀 신설, 프리콘 방식 도입, 건설 특화 AI '린GPT' 개발 등 디지털 혁신을 추진하고 있다. 3기 신도시 수주를 통해 매출 성장을 목표로 하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-19T13:35:21+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32274,22 +32290,6 @@
     "summary": "국토교통부가 11월 16일부터 12월 24일까지 전국 2,946개 건설현장을 대상으로 동절기 한파·폭설 대비 안전점검을 실시한다. 겨울철 안전사고 사전 예방을 위한 정부의 규제·감시 강화 조치다.",
     "sentiment": "negative",
     "collected_at": "2026-11-16T08:39:14+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국토부, 겨울철 건설현장 2900곳 안전점검 - issuenbiz.com",
-    "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81607",
-    "description": "사진=연합뉴스  국토교통부가 겨울철 건설현장 안전사고 예방을 위해 전국 2900여개 현장을 집중 점검한다. 사망사고가 발생한 현장과 해당 건설사가 시공하는 다른 현장에는 특별점검을 실시하고, 안전·품질관리...",
-    "published_at": "2026-11-16T08:30:00+09:00",
-    "cluster_id": "e79c",
-    "publisher": "issuenbiz.com",
-    "title_clean": "국토부, 겨울철 건설현장 2900곳 안전점검",
-    "summary": "국토교통부가 겨울철 건설현장 안전사고 예방을 위해 전국 2900여개 현장에 대한 집중 점검을 실시한다. 사망사고 발생 현장과 해당 건설사의 다른 현장에는 특별점검을 진행하며, 안전·품질관리를 강화한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T08:34:21+09:00",
     "importance": 4
   }
 ]
