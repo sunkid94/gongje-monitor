@@ -21168,6 +21168,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대전도시공사, 소규모 민간 건축현장 안전·품질관리 지원 - 충청시사신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnLTdLTVBSd1NrUWhvWGNaSlRKSVEzZUtkY0paaXBnNGVXUTFoWWl3UHRiUFk4QW5PblpUWFNObjY2bUV2T1BjM3Yzbi1RbFRhWlN1ZERfeGZTSXYxV0FTYXJaNW5Kd2RiYmhZ?oc=5",
+    "description": "[충청시사신문/대전] 대전도시공사가 안전·품질관리 역량이 상대적으로 부족한 소규모 민간 건축현장을 대상으로 전문인력과 점검장비를 지원하는 등 지역 건설현장의 안전",
+    "published_at": "2026-11-20T22:57:58+09:00",
+    "cluster_id": "bf98",
+    "publisher": "충청시사신문",
+    "title_clean": "대전도시공사, 소규모 민간 건축현장 안전·품질관리 지원",
+    "summary": "대전도시공사가 소규모 민간 건축현장의 안전·품질관리를 지원하기 위해 전문인력과 점검장비를 제공한다. 역량이 부족한 현장을 대상으로 한 지역 건설현장 안전 강화 정책이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-21T01:01:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32285,22 +32301,6 @@
     "summary": "경상남도가 겨울철 건설현장 안전사고 예방을 위해 총공사비 1억원 이상인 도내 공공건설현장 1,899개소를 대상으로 동절기 안전점검을 실시한다. 기온 하락, 강설, 결빙 등으로 인한 안전사고를 사전에 예방하고 근로자 안전환경 확보가 목표다.",
     "sentiment": "negative",
     "collected_at": "2026-11-17T16:44:26+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "KCC건설, 김포 물류센터 PF 2300억원 조건부 채무보증 결정 - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FS2JnSXNRZTZVc3liblM0MHllU0J4SkRmWFdSclg3SU1HR2N4dm5IMXNHT1lZRXhQOXkyZ3hJZmZjaDVCQzBGT25WeEFOWGhhU2RWUlVGRjhnUHI0NWNLN0lzLU5hY09pbDM1SGJqWXJsQQ?oc=5",
-    "description": "코스닥 상장사 KCC건설은 켄달스퀘어감정부동산일반사모투자회사에 대해 2300억원 규모의 채무보증을 결정했다고 11월 17일 공시했다.이번 채무보증 금액은 2300억원으로, 2025년말 개별재무제표 기준 자기자본(5526억 1404만 570원)의 41.62%에 해당한다. 채권자는 메리츠화",
-    "published_at": "2026-11-17T16:20:11+09:00",
-    "cluster_id": "dcf3",
-    "publisher": "데이터투자",
-    "title_clean": "KCC건설, 김포 물류센터 PF 2300억원 조건부 채무보증 결정",
-    "summary": "KCC건설이 김포 물류센터 PF 사업을 위해 켄달스퀘어감정부동산일반사모투자회사에 2300억원 규모의 조건부 채무보증을 결정했다. 보증액이 자기자본의 41.62%로 상당한 수준이며, 채권자는 메리츠화재보험이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T16:37:59+09:00",
     "importance": 4
   }
 ]
