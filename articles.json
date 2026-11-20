@@ -21168,6 +21168,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'1조 원 예산 시대' 막 내린 부자 도시 광양, 예고된 재정 위기, 철강 불... - ngonews.kr",
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=243794",
+    "description": "글로벌 철강 공급 과잉과 중국산 저가 철강재 공세, 국내 건설경기 부진이 장기화하면서 시 세수의 핵심 축인 포스코 광양제철소의 법인지방소득세가 급감했다. 실제로 광양시가 시의회에 밝힌 포스코분...",
+    "published_at": "2026-11-21T03:58:00+09:00",
+    "cluster_id": "4c29",
+    "publisher": "ngonews.kr",
+    "title_clean": "'1조 원 예산 시대' 막 내린 부자 도시 광양, 예고된 재정 위기, 철강 불...",
+    "summary": "글로벌 철강 공급 과잉과 중국산 저가 철강재 공세, 국내 건설경기 부진으로 포스코 광양제철소의 법인지방소득세가 급감하면서 광양시의 주요 세수가 감소하고 있다. 건설경기 부진의 장기화는 철강 수요 감소로 이어져 건설기계설비 업계에도 부정적 영향을 미치고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-21T04:06:11+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32283,22 +32299,6 @@
     "publisher": "인사이트코리아",
     "title_clean": "[위기의 중동건설②] 사우디 ‘네옴’ 사태 교훈…“수주가 끝 아니다”",
     "summary": "사우디아라비아의 네옴 개발사업에서 국내외 건설사들이 수주한 공사계약이 연이어 해지되고 있다. 발주처의 개발계획 재편으로 인한 투자 우선순위 변화가 이미 체결된 계약까지 중도에 무산시키면서 건설사들의 사업 리스크가 대두되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T16:44:26+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경상남도, 겨울철 건설현장 안전사고 막는다…1,899곳 집중 점검 - 코리아이글뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95dU9TalV1c0k5T1hFOU9JYXZPeGhvOXV2dU1qU05ORk5oRm5aWXlOUkh2a3lvaVd2Q2M5WC1jeWFuQWI4azFTNTVGSTloWmZLQWRmeHR5VDdvR19kVEVWYlBEU094SGFfZ25VeVVhMzJYYTQ?oc=5",
-    "description": "경상남도가 겨울철 건설현장에서 발생할 수 있는 각종 안전사고를 예방하기 위해 도내 공공건설현장 1,899개소를 대상으로 동절기 안전점검에 나선다.경남도(도지사 박완수)는 오는 18일부터 12월 8일까지 총공사비 1억원 이상인 도내 공공건설 발주공사 현장을 대상으로 겨울철 안전관리 실태를 집중 점검한다고 밝혔다.이번 점검은 기온 하락과 강설, 결빙 등 겨울철 특유의 위험요인으로 발생할 수 있는 건설현장 안전사고를 사전에 예방하고, 현장 근로자들의 안전한 작업환경을 확보하기 위해 추진된다.점검 대상은 경남도 발주 공사현장 155개소와",
-    "published_at": "2026-11-17T16:20:41+09:00",
-    "cluster_id": "b710",
-    "publisher": "코리아이글뉴스",
-    "title_clean": "경상남도, 겨울철 건설현장 안전사고 막는다…1,899곳 집중 점검",
-    "summary": "경상남도가 겨울철 건설현장 안전사고 예방을 위해 총공사비 1억원 이상인 도내 공공건설현장 1,899개소를 대상으로 동절기 안전점검을 실시한다. 기온 하락, 강설, 결빙 등으로 인한 안전사고를 사전에 예방하고 근로자 안전환경 확보가 목표다.",
     "sentiment": "negative",
     "collected_at": "2026-11-17T16:44:26+09:00",
     "importance": 4
