@@ -5202,6 +5202,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "목동 1.2만 가구 재건축 심의 통과…내년 수주전 돌입 - ekn.kr",
+    "link": "https://www.ekn.kr/web/view.php?key=20261120026552756",
+    "description": "목동신시가지 최대 규모인 14단지에는 현대건설·대우건설·DL이앤씨·롯데건설·포스코이앤씨 등이 수주 참여를 검토 중인 것으로 알려졌다. 송윤주 기자 syj@ekn.kr 목동 5·12·14단지 총 1만1863가구 통합심의 조건부...",
+    "published_at": "2026-11-20T19:34:00+09:00",
+    "cluster_id": "39f6",
+    "publisher": "ekn.kr",
+    "title_clean": "목동 1.2만 가구 재건축 심의 통과…내년 수주전 돌입",
+    "summary": "목동 1·2·5·12·14단지 1만1863가구 재건축이 심의를 통과하면서 대규모 수주전이 예상된다. 현대건설, 대우건설, DL이앤씨, 롯데건설, 포스코이앤씨 등 주요 건설사들이 수주 참여를 검토 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T19:42:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21184,22 +21200,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:15:12+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "목동4단지, 현대건설 단독 응찰로 유찰…1.6조 공사비 유지해 재공고 - ekn.kr",
-    "link": "https://www.ekn.kr/web/view.php?key=20261116024000266",
-    "description": "8단지 조합은 오는 12월 12일 총회에서 우선협상대상자인 대우건설의 시공사 선정 여부를 결정할 예정이다. 1차 현장설명회에는 대우건설과 IPARK현대산업개발, DL이앤씨, GS건설 등 4곳이 참석했으나 본입찰에는...",
-    "published_at": "2026-11-16T16:08:00+09:00",
-    "cluster_id": "95a6",
-    "publisher": "ekn.kr",
-    "title_clean": "목동4단지, 현대건설 단독 응찰로 유찰…1.6조 공사비 유지해 재공고",
-    "summary": "목동4단지 재개발 현장이 현대건설 단독 응찰로 유찰되었으며, 1.6조 원의 공사비를 유지한 채 재공고될 예정이다. 8단지는 12월 12일 총회에서 우선협상대상자인 대우건설의 시공사 선정 여부를 결정할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T16:15:12+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
