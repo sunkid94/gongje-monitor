@@ -5168,6 +5168,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "'부르는 게 값' 동대문 이문뉴타운…입주권 웃돈만 13억 된 이유 - realty.chosun.com",
+    "link": "https://realty.chosun.com/site/data/html_dir/2026/11/20/2026112002361.html",
+    "description": "2022년 6월 현대건설·롯데건설 컨소시엄을 시공사로 선정했고, 2024년 4월 관리처분계획인가를 받았다. 최근 재정비촉진계획 변경으로 기존 3488가구에서 3505가구로 세대수가 늘었고, 임대주택은 710가구에서 609가구로...",
+    "published_at": "2026-11-21T06:02:00+09:00",
+    "cluster_id": "91ca",
+    "publisher": "realty.chosun.com",
+    "title_clean": "'부르는 게 값' 동대문 이문뉴타운…입주권 웃돈만 13억 된 이유",
+    "summary": "동대문 이문뉴타운은 현대건설·롯데건설 컨소시엠이 시공을 맡았으며, 2024년 4월 관리처분계획인가를 받았다. 최근 재정비촉진계획 변경으로 세대수가 3488가구에서 3505가구로 증가했고 임대주택은 감소했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-21T06:11:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21147,22 +21163,6 @@
     "publisher": "newsworker.co.kr",
     "title_clean": "[뉴스워커_대우건설] 여의도 한강변 49층 재건축 품었다…2,749억원 규모...",
     "summary": "대우건설이 여의도 화랑아파트 소규모재건축사업 시공사로 선정되어 공작아파트에 이은 두 번째 여의도 정비사업 수주를 확보했다. 2,749억원 규모의 49층 재건축사업으로, 향후 장미아파트 재건축사업 참여도 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T16:39:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "“1층 포함, 전 세대 한강뷰” 대우건설, 여의도 화랑 재건축 수주[부동... - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10938836?ref=naver",
-    "description": "대우건설은 지난 14일 여의도 화랑아파트 소규모재건축사업 정기총회에서 시공사로 선정됐다고 16일 밝혔다. 이 사업은 서울 영등포구 여의도동 40-4번지 일대에 지하 4층~지상 최고 49층 1개동 공동주택 268세대를...",
-    "published_at": "2026-11-16T16:33:00+09:00",
-    "cluster_id": "2c2d",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "“1층 포함, 전 세대 한강뷰” 대우건설, 여의도 화랑 재건축 수주[부동...",
-    "summary": "대우건설이 여의도 화랑아파트 소규모재건축사업 시공사로 선정되어 지하 4층~지상 49층 규모 268세대 프로젝트를 수주했다. 한강뷰를 갖춘 고급형 주상복합 재건축 사업으로 건설사의 수주 실적 증가에 기여할 것으로 예상된다.",
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:39:50+09:00",
     "importance": 2
