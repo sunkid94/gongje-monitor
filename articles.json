@@ -5202,23 +5202,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "서울에너지공사, 분산전력·열에너지·건물에너지 전환 방안 모색 - dailysmart.co.kr",
-    "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131338",
-    "description": "이광호 한국지열·수열에너지학회 교수와 홍희기 대한기계설비건설협회 교수, 삼성전자와 LG전자 관계자도 토론에 나설 예정이다. 참석자들은 재생열 보급 확대를 위한 제도 개선과 기술 활용 방안, 공공·민간 협력 과제...",
-    "published_at": "2026-10-21T18:48:00+09:00",
-    "cluster_id": "2720",
-    "publisher": "dailysmart.co.kr",
-    "title_clean": "서울에너지공사, 분산전력·열에너지·건물에너지 전환 방안 모색",
-    "summary": "서울에너지공사가 분산전력, 재생열, 건물에너지 전환 방안을 모색하는 토론회를 개최한다. 대한기계설비건설협회 교수와 삼성·LG 등 주요 기업 관계자들이 참석해 재생열 보급 확대를 위한 제도 개선과 공공·민간 협력 방안을 논의할 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-21T19:01:26+09:00",
-    "event_label": "대한기계설비건설협회 분산전력·재생열에너지 전환 토론회 참석",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21216,6 +21199,22 @@
     "summary": "대우건설이 여의도 화랑아파트 재건축사업 시공권을 수주하여 49층 규모의 한강변 고층 주거단지를 조성한다. 하이엔드 주거 브랜드를 적용한 프리미엄 프로젝트로 진행될 예정이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:15:12+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[기업실적] 현대엘리베이터 실적 ‘상승’…3분기 영업익 2.6% 증가한 15... - nspna.com",
+    "link": "https://www.nspna.com/news/?mode=view&newsid=837078",
+    "description": "유지관리 20만 대 기반…매출 1조 8429억 원 전국 20만 대에 달하는 유지관리 기반을 바탕으로 건설경기 침체와 신규 분양 물량 감소 속에서도 매출과 영업이익이 동반 증가하는 실적을 기록하며 현대엘리베이터...",
+    "published_at": "2026-11-20T18:58:00+09:00",
+    "cluster_id": "f5db",
+    "publisher": "nspna.com",
+    "title_clean": "[기업실적] 현대엘리베이터 실적 ‘상승’…3분기 영업익 2.6% 증가한 15...",
+    "summary": "현대엘리베이터가 3분기 영업익 2.6% 증가한 15억 원대의 실적을 기록했다. 20만 대 유지관리 기반을 바탕으로 건설경기 침체 속에서도 매출과 영업이익이 동반 증가하며 안정적 경영을 유지하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T19:07:14+09:00",
     "importance": 2
   },
   {
