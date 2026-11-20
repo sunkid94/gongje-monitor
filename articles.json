@@ -21168,6 +21168,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "‘尹정부 관저이전 특혜’ 의혹 김오진 전 차관, 1심 징역형 집유 - segye.com",
+    "link": "https://www.segye.com/newsView/20261120512271?OutUrl=naver",
+    "description": "이중 김 전 차관 등이 다른 건설업체 명의로 추가 계약을 체결하도록 한 건설산업기본법 위반 혐의는 유죄로 인정됐다. 재판부는 “김 전 차관과 황씨는 21그램이 실내 인테리어 공사 외 다른 공사는 하지 못해 나머지...",
+    "published_at": "2026-11-21T05:36:00+09:00",
+    "cluster_id": "14f4",
+    "publisher": "segye.com",
+    "title_clean": "‘尹정부 관저이전 특혜’ 의혹 김오진 전 차관, 1심 징역형 집유",
+    "summary": "윤석열 정부 관저이전 특혜 의혹 사건에서 김오진 전 차관이 1심에서 징역형의 집행유예를 선고받았다. 건설산업기본법 위반 혐의(다중 계약 체결 강요)로 유죄가 인정되어 건설업계의 부정행위 적발 사례가 된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-21T05:41:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32286,21 +32302,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-17T16:44:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[위기의 중동건설②] 사우디 ‘네옴’ 사태 교훈…“수주가 끝 아니다” - 인사이트코리아",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRERTdzVIWW5xSm5DdFIwU1RYVmRocUtEbzN4cGhFN0Z2ZnBISjdDbXVHT1JNek16cy1mV1lhQmthOW9fQmpDOUdmcDBUQ0Y0VnhkMERURWRhMWtTY3ZsZGNZaEFlQmFFVHZKM2xaeVE2ZWPSAXdBVV95cUxQbFp3TzBocUU1TEpUMXpMSEZMUkRWSGRBTDZQbGswSGc2WThLTmFPOXllZnBXQnMtQkRkLWVyaFNRYUE1NzR5bVBialdGbXhjcFZNWXdCYVJPQmdmUmtVLXYzZzFmcUZQbkE3b25rTTlJLVp4NnB0bw?oc=5",
-    "description": "[인사이트코리아 = 윤찬우 기자] 사우디아라비아의 초대형 개발사업 네옴에서 국내외 건설사들이 수주한 공사계약이 잇따라 해지됐다. 발주처의 개발계획 재편으로 이미 체결한 계약까지 중도 좌초되면서 국가의 투자 우선순위 변화가 건설사업에 미치는 영향이 드러났다.정부와 국부펀드(PIF)가 대",
-    "published_at": "2026-11-16T17:32:23+09:00",
-    "cluster_id": "fbce",
-    "publisher": "인사이트코리아",
-    "title_clean": "[위기의 중동건설②] 사우디 ‘네옴’ 사태 교훈…“수주가 끝 아니다”",
-    "summary": "사우디아라비아의 네옴 개발사업에서 국내외 건설사들이 수주한 공사계약이 연이어 해지되고 있다. 발주처의 개발계획 재편으로 인한 투자 우선순위 변화가 이미 체결된 계약까지 중도에 무산시키면서 건설사들의 사업 리스크가 대두되었다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T16:44:26+09:00",
-    "importance": 4
   }
 ]
