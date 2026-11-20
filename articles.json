@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "한화 건설부문, 하수처리시설 현대화사업 확대 - finomy.com",
+    "link": "http://www.finomy.com/news/articleView.html?idxno=267397",
+    "description": "한화 건설부문은 2025년과 2026년 국토교통부 건설업체 시공능력평가에서 하수종말처리장 분야 1위를 기록했다고 밝혔다. 2025년 해당 분야 기성액은 1313억원으로 전년 626억원보다 약 2.1배 증가했다. 한화 건설부문은...",
+    "published_at": "2026-11-20T12:46:00+09:00",
+    "cluster_id": "d053",
+    "publisher": "finomy.com",
+    "title_clean": "한화 건설부문, 하수처리시설 현대화사업 확대",
+    "summary": "한화 건설부문이 2025-2026년 국토교통부 건설업체 시공능력평가에서 하수종말처리장 분야 1위를 기록했다. 2025년 해당 분야 기성액이 1313억원으로 전년 대비 2.1배 증가하며 하수처리시설 현대화사업을 확대 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T13:01:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T10:04:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전시의회 산업건설위원회, 도시철도건설국·건설관리본부 행감 실시… “트램 안전·예산 절감 실효적 대안 마련해야” - www.mediatoday.asia",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzU3VmJLa2NSTlRuVGpRdjFCd2YwbE10akhZNmJBcFdHSHcxRnQwdEoyQ1NncWtBdGI1N25wdGlmbU10UnZZZDduanEwZHpvem5LZXFzZHFyUGJiYlNRV292SGE4Y1E4SmhLdEJkdE9ialgzbVV5clhIRG9nQ2s1dXp0M2VfbXI0MTV0dzJhWi10S2MzdnppamczNDBjVEpRWlBzNA?oc=5",
-    "description": "대전시의회 산업건설위원회 [미디어투데이=안상일 기자] 대전광역시의회 산업건설위원회는 제300회 제2차 정례회 의사일정에 따라 16일 회의를 열어 도",
-    "published_at": "2026-11-17T08:54:00+09:00",
-    "cluster_id": "fa5f",
-    "publisher": "www.mediatoday.asia",
-    "title_clean": "대전시의회 산업건설위원회, 도시철도건설국·건설관리본부 행감 실시… “트램 안전·예산 절감 실효적 대안 마련해야”",
-    "summary": "대전시의회 산업건설위원회가 도시철도건설국과 건설관리본부를 대상으로 행정감시를 실시했으며, 트램 사업의 안전성 확보와 예산 절감을 위한 실효적 대안 마련을 촉구했다. 도시철도 건설 사업의 안전과 비용 관리 개선이 주요 의제로 다루어졌다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-17T10:04:34+09:00",
-    "importance": 2
   }
 ]
