@@ -21273,6 +21273,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인 - 메가충청뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52OUdoN25rX1VzSFVKODluSkk3VHYwNWFiUDJZMVRWM09MTjRCNm1jbnoxQVl6U1JOb0dqeTVfbERKbldaYmFMZlhzbW15NlVfWk1ORF93MEJQZTFyR0VaeWltNDdqanFuZmk3WA?oc=5",
+    "description": "[메가충청뉴스] 김영훈 고용노동부 장관은 11월 20일 매주 ‘작은현장, 안전의날’로 운영하고 있는 서울서부지청의 현장점검에 참여해, 안전보건공단 서울광역본부와",
+    "published_at": "2026-11-20T12:35:47+09:00",
+    "cluster_id": "b3a4",
+    "publisher": "메가충청뉴스",
+    "title_clean": "서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
+    "summary": "고용노동부가 서울 서대문구 중·소 건설현장을 대상으로 안전점검을 실시하여 한파·추락 등 기본 안전조치를 집중 확인했다. 정부의 작은현장 안전관리 강화 정책으로 건설현장 안전규제가 더욱 강화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-20T13:11:22+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "울산항만공사, AI 기반 건설현장 안전관리 확대 - cnbnews.com",
     "link": "https://www.cnbnews.com/news/articleView.html?idxno=1024640",
     "description": "한편 AI 기반 감시와 위험성평가를 현장 안전점검과 교육까지 연계하면서 울산항 건설현장의 위험 요인을 사전에 확인하고 대응하는 안전관리 체계가 한층 구체화됐다.",
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T10:04:34+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "김주애 스키 '씽씽'…김정은 \"만점짜리\" 극찬한 北 관광지 보니 - imaeil.com",
-    "link": "https://www.imaeil.com/page/view/2026111708563630907",
-    "description": "이런 가운데 그 이면에서는 건설 노동자들이 극심한 추위와 물자 부족에 시달리고 있다는 증언도 나왔다. 북한 전문매체 데일리NK는 지난 1월 30일 양강도 소식통을 인용해 삼지연 관광지구 건설에 동원된 돌격대원들이...",
-    "published_at": "2026-11-17T10:01:00+09:00",
-    "cluster_id": "6303",
-    "publisher": "imaeil.com",
-    "title_clean": "김주애 스키 '씽씽'…김정은 \"만점짜리\" 극찬한 北 관광지 보니",
-    "summary": "북한의 삼지연 관광지구 건설 프로젝트에서 김정은이 김주애의 스키 실력을 극찬하며 시설을 선전하고 있다. 그러나 건설 현장에 동원된 노동자들은 극심한 추위와 물자 부족으로 고통받고 있는 것으로 보도되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-17T10:04:34+09:00",
-    "importance": 2
   }
 ]
