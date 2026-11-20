@@ -5168,23 +5168,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "서울시·서울에너지공사, ‘2026 서울 미래에너지 포럼’ 28일 개최 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610212239489510618",
-    "description": "토론에는 이소연 서울시 기후환경본부 녹색에너지과 과장, 최성우 서울에너지공사 신재생에너지본부 본부장, 유정민 서울연구원 박사, 이광호 한국지열?수열에너지 학회 교수, 홍희기 대한기계설비건설협회 교수를...",
-    "published_at": "2026-10-21T23:00:00+09:00",
-    "cluster_id": "c2bd",
-    "publisher": "대한경제",
-    "title_clean": "서울시·서울에너지공사, ‘2026 서울 미래에너지 포럼’ 28일 개최",
-    "summary": "서울시와 서울에너지공사가 2026 서울 미래에너지 포럼을 28일 개최한다. 신재생에너지, 지열·수열에너지 등을 주제로 대한기계설비건설협회 교수를 포함한 전문가들이 토론에 참여한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-21T23:11:42+09:00",
-    "event_label": "대한기계설비건설협회 2026 서울 미래에너지 포럼 참여",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21183,6 +21166,22 @@
     "sentiment": "negative",
     "collected_at": "2026-11-16T16:39:50+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "한국건설경영협회, 제19회 건설기술연구 우수사례 시상식 개최 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LSElCcFNCWl81YWpyWGRHdkxTWWFiRTF5ZzNWc2ExMTYtS3FHUnhEQUtmM2pPcmRPUjRTbmZSOHJ0QmNSeFBid0l6TVpQVmhvS2VfMVdfUQ?oc=5",
+    "description": "한국건설경영협회는 국내 대형 건설사들이 개발한 우수 건설기술을 공유하고 건설업계의 기술 경쟁력과 연구개발(R&D) 역량을 높이기 위해 20일 서울 중구 한국프레스센터",
+    "published_at": "2026-11-20T15:48:52+09:00",
+    "cluster_id": "1e5c",
+    "publisher": "헤럴드경제",
+    "title_clean": "한국건설경영협회, 제19회 건설기술연구 우수사례 시상식 개최",
+    "summary": "한국건설경영협회가 국내 대형 건설사들의 우수 건설기술을 공유하고 시상하는 제19회 건설기술연구 우수사례 시상식을 개최했다. 이는 건설업계의 기술 경쟁력과 R&D 역량 강화를 목적으로 한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-20T23:16:46+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
