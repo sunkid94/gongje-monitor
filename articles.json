@@ -21202,6 +21202,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "한솔홈데코, 생산체계 재편 - hansbiz.co.kr",
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885540",
+    "description": "건설경기 침체 등의 영향으로 매출액은 전년 동기 대비 3.8% 줄었으나 영업이익은 생산 효율화와 비용 절감에 힘입어 전년 동기 대비 약 2배 늘었다. 반면 비현금성 회계비용이 반영되면서 당기순손실 72억원을...",
+    "published_at": "2026-11-20T19:50:00+09:00",
+    "cluster_id": "ce97",
+    "publisher": "hansbiz.co.kr",
+    "title_clean": "한솔홈데코, 생산체계 재편",
+    "summary": "한솔홈데코가 건설경기 침체로 매출은 감소했으나 생산 효율화와 비용 절감을 통해 영업이익을 약 2배 증대시켰다. 생산체계 재편으로 수익성 개선을 이루었으나 비현금성 회계비용으로 인해 당기순손실을 기록했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-20T20:01:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32288,21 +32304,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T15:48:54+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대형건설사-대구지역 전문건설업체 한자리에… 수주 기회 넓힌다 - munhwa.com",
-    "link": "https://www.munhwa.com/article/11631986?ref=naver",
-    "description": "대구=박천학 기자 장기화하는 건설경기 침체와 신규 공사 물량 감소로 어려움을 겪는 대구지역 건설업체의 수주 기회 확대를 위한 행사가 열렸다. 대구시는 17일 엑스코에서 국내 주요 대형건설사 17개와 지역...",
-    "published_at": "2026-11-17T15:38:00+09:00",
-    "cluster_id": "b5fa",
-    "publisher": "munhwa.com",
-    "title_clean": "대형건설사-대구지역 전문건설업체 한자리에… 수주 기회 넓힌다",
-    "summary": "대구시가 국내 주요 대형건설사 17개와 지역 전문건설업체를 연결하는 수주 기회 확대 행사를 개최했다. 장기화된 건설경기 침체 속에서 지역 건설업체의 신규 공사 수주 기회를 넓히기 위한 취지의 행사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T15:44:00+09:00",
-    "importance": 2
   }
 ]
