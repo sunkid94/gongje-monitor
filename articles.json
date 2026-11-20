@@ -21273,6 +21273,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "현대엘리베이터 3분기 매출 1조 8429억·영업익 1589억…서비스 부문이 ... - public25.com",
+    "link": "https://www.public25.com/news/articleView.html?idxno=58742",
+    "description": "퍼블릭타임스=현대엘리베이터는 건설경기 침체와 신규 분양 감소에도 불구하고 3분기 연결 기준 매출 1조 8429억원, 영업이익 1589억 원을 기록했다고 밝혔다. 이와 관련, 현대엘리베이터는 신규 설치 중심의 양적...",
+    "published_at": "2026-11-20T12:32:00+09:00",
+    "cluster_id": "337d",
+    "publisher": "public25.com",
+    "title_clean": "현대엘리베이터 3분기 매출 1조 8429억·영업익 1589억…서비스 부문이 ...",
+    "summary": "현대엘리베이터가 건설경기 침체 속에서도 3분기 매출 1조 8429억원, 영업이익 1589억원을 기록했다. 신규 설치 중심에서 서비스 부문으로의 사업 다각화를 통해 실적을 유지하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-20T12:41:16+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "통영시, 건설협회 500만원 인재육성기금 기탁…지역 학생 지원 - 한국사회복지저널",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rcy1CSWRzLUNKS09OcUFJNU5tdHoyalZnT00wamFkNEVsa3ZxekZ3b2dDRDdlMUdLREx3VWtNLUZ0SmN4Wkx3alNHZGI5bzZ2dDdpUGxmblBrTjRnc19pdFZIdlNucGRuUEE0?oc=5",
     "description": "기탁 개요대한전문건설협회 경상남도회 통영시운영위원회(위원장 유용운)는 2026년 11월 19일 지역 인재육성을 위한 인재육성기금 500만 원을 기탁했습니다.위원회 역할 및 배경해당 위원회는 지역 건설 활성화를 위해 노력하고 있으며, 건설 경기 침체 속에서도 지역 사회 이웃을 돕는 데",
@@ -32292,21 +32308,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-17T10:04:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "성남시, 대형 공사장 안전점검 - 국민투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdkNmb3FLQW56aTlUb1ZfOS1vbTQ5S2lrUUNKUmdNVEVpckNoRVI0VEV5cEJCZFJReUg3d0VfMUdSQ21tUl82dENGVXg0WTZTd0t2amlXUjNERWdhSlhIazhkY0hZenlkcUE?oc=5",
-    "description": "성남시가 건설현장 안전사고를 선제적으로 차단하기 위해 관내 대규모 민간 공사 현장에 대한 집중 관리에 나섰다.시는 지난달부터 7층 이상이거나 연면적 2000㎡를 초과하는 민간 대형 건축공사장 가운데 사고 취약 현장 35곳을 선정해 오는 20일까지 안전점검을 추진 중이다.이번 점검은 시 건축안전관리과와 한국건설안전협회 소속 건설안전·건축시공·토목기술사 등 민간 전문가가 합동으로 참여해 전문성과 객관성을 높인 것이 특징이다.점검반은 건축 구조물의 변형 여부와 가시설 안전 상태, 굴착 및 흙막이 공법의 적정성, 공정별 안전계획 이행 실태",
-    "published_at": "2026-11-17T09:50:42+09:00",
-    "cluster_id": "2dfb",
-    "publisher": "국민투데이",
-    "title_clean": "성남시, 대형 공사장 안전점검",
-    "summary": "성남시가 건설현장 안전사고 예방을 위해 7층 이상 또는 연면적 2000㎡ 초과하는 대형 민간공사 35곳을 대상으로 집중 안전점검을 추진 중입니다. 시와 한국건설안전협회 소속 전문가들이 합동으로 구조물 변형, 가시설 안전, 굴착 공법 등을 점검하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T09:59:03+09:00",
-    "importance": 4
   }
 ]
