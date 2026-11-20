@@ -5168,6 +5168,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[마켓人] IT 접목해 주주운동 뒷받침하는 이상목 컨두잇 대표 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261120137900008?input=1195m",
+    "description": "그래서 성공사례로 처음 주주운동에 나서게 된 DB하이텍, 두산에너빌리티, 한화솔루션 등을 꼽는다. DB하이텍은 1차 물적분할 추진 때 주주들이 결집해 철회하는 결과를 끌어냈다. 사측이 나중에 다시 주총을 열어...",
+    "published_at": "2026-11-21T07:00:00+09:00",
+    "cluster_id": "230e",
+    "publisher": "yna.co.kr",
+    "title_clean": "[마켓人] IT 접목해 주주운동 뒷받침하는 이상목 컨두잇 대표",
+    "summary": "이상목 컨두잇 대표가 IT 기술을 활용해 주주운동을 지원하는 사업을 추진하고 있다. DB하이텍, 두산에너빌리티, 한화솔루션 등에서 물적분할 철회 등 주주운동 성공사례를 창출했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-21T07:11:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21150,22 +21166,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:50:06+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[뉴스워커_대우건설] 여의도 한강변 49층 재건축 품었다…2,749억원 규모... - newsworker.co.kr",
-    "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514297",
-    "description": "대우건설이 서울 여의도 화랑아파트 소규모재건축사업 시공사로 선정되며 여의도 정비사업 수주를 확대하고 있다. 공작아파트에 이은 두 번째 여의도 정비사업 수주로, 향후 장미아파트 재건축사업에도 참여할...",
-    "published_at": "2026-11-16T16:36:00+09:00",
-    "cluster_id": "c0c7",
-    "publisher": "newsworker.co.kr",
-    "title_clean": "[뉴스워커_대우건설] 여의도 한강변 49층 재건축 품었다…2,749억원 규모...",
-    "summary": "대우건설이 여의도 화랑아파트 소규모재건축사업 시공사로 선정되어 공작아파트에 이은 두 번째 여의도 정비사업 수주를 확보했다. 2,749억원 규모의 49층 재건축사업으로, 향후 장미아파트 재건축사업 참여도 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T16:39:50+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설경기",
