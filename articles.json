@@ -21083,6 +21083,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[에너지·환경·안전, 혁신의 시대를 열다] 전기산업진흥회, 'K-일렉트릭... - electimes.com",
+    "link": "https://www.electimes.com/news/articleView.html?idxno=374970",
+    "description": "반면 내수 침체와 건설경기 불황의 직격탄을 맞은 국내 중견·중소기업들은 어려운 시기를 보내며 산업 내 양극화 현상이 가속화되는 양상이다. 이 같은 전환기에 전기진흥회는 대기업의 성장이 중소·중견기업의...",
+    "published_at": "2026-11-21T17:04:00+09:00",
+    "cluster_id": "8f92",
+    "publisher": "electimes.com",
+    "title_clean": "[에너지·환경·안전, 혁신의 시대를 열다] 전기산업진흥회, 'K-일렉트릭...",
+    "summary": "전기산업진흥회가 'K-일렉트릭' 행사를 통해 에너지·환경·안전 분야 혁신을 추진하는 가운데, 국내 중견·중소기업들은 내수 침체와 건설경기 불황으로 어려움을 겪고 있다. 대기업과 중소·중견기업 간 양극화 심화라는 산업 현안에 대응하기 위해 진흥회가 나서고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-21T17:08:06+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32281,21 +32297,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T17:09:52+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "“겨울철 건설현장 안전, 얼기 전에 살핀다” 경남도, 공공건설현장 1,899개소 동절기 안전점검 실시 - 서프라이즈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MU0VINVVzQ25NYmN6dFJQUkJWQl8tQVJKeV80WlpRS0FKQmthRENiV0pwZDZkQ1NwRzFnandMWElvZ011cXo0U08xZzhVTHBaZUZtcEdMUnNOdmtRWkVOM01JUVpFNVZpMmJCNzlLYw?oc=5",
-    "description": "[서프라이즈뉴스] 경상남도는 겨울철을 앞두고 건설현장에서 발생할 수 있는 안전사고를 예방하기 위해 11월 18일부터 12월 8일까지 도내 공공건설공사 현장 1,899개소를 대상으로 동절기 안전점검을 실시한다고 밝혔다.점검 대상은 총공사비 1억원 이상 도내 공공건설 발주공사 현장으로 도 발주 155개소와 시군 발주 1,744개소다. 주요 건설현장에 대한 민관 합동점검과 발주부서 자체점검을 병행할 계획이다.주요 점검 사항은△동절기 공사계획 및 안전관리계획 수립 여부△비상용 제설자재 및 장비 확보 여부△콘크리트 타설·양생 등 동절기 시공",
-    "published_at": "2026-11-17T13:04:03+09:00",
-    "cluster_id": "c895",
-    "publisher": "서프라이즈뉴스",
-    "title_clean": "“겨울철 건설현장 안전, 얼기 전에 살핀다” 경남도, 공공건설현장 1,899개소 동절기 안전점검 실시",
-    "summary": "경상남도가 겨울철 건설현장 안전사고 예방을 위해 11월 18일부터 12월 8일까지 도내 공공건설현장 1,899개소에 대한 동절기 안전점검을 실시한다. 총공사비 1억원 이상 현장을 대상으로 콘크리트 타설·양생, 제설자재 확보 등 겨울철 시공 안전관리 여부를 중점 점검할 예정이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-17T17:09:52+09:00",
-    "importance": 2
   }
 ]
