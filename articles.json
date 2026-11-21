@@ -21134,6 +21134,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "중흥건설 과징금 180억 파장…PF 신용보강 기준 모호성에 업계 긴장 - newsway.co.kr",
+    "link": "https://www.newsway.co.kr/news/view?ud=2026111916021636360",
+    "description": "것이 타당하다\"며 \"이례적으로 형사고발까지 한 것은 과도하다\"고 말했다. 이어 \"건설경기가 침체되고 경제가 어려운 상황에서 건설업계를 비롯한 경제 전반에 혼란과 어려움이 초래되지 않을까 우려된다\"고 덧붙였다.",
+    "published_at": "2026-11-21T16:24:00+09:00",
+    "cluster_id": "73a4",
+    "publisher": "newsway.co.kr",
+    "title_clean": "중흥건설 과징금 180억 파장…PF 신용보강 기준 모호성에 업계 긴장",
+    "summary": "중흥건설의 180억 과징금 처분과 형사고발에 대해 건설업계가 PF 신용보강 기준의 모호성을 지적하며 우려를 표시했다. 건설경기 침체 상황에서 업계 전반에 혼란과 어려움이 야기될 수 있다는 입장이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-21T16:28:35+09:00",
+    "importance": 5
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32284,21 +32300,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-17T17:09:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경기도 도민감리단, 공공 건설현장 17곳 안전 점검 - 뉴스후플러스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11UW51ZE9oSnpEMC1UbERmUFNPLUJsNkc5WERfRmFpbHJnU2ZVRjlhY0dhREZxZFl2TjZNLXk5SWNBOEwzaURGR1g0YUtFQmwyWTE3VDFtUmdqVXRUYWFYRFBhYXhidU1oSnFSLWNR?oc=5",
-    "description": "경기도가 공공 건설현장의 안전 사각지대를 없애기 위해 팔을 걷어붙였다. 도는 민간 전문가로 구성된 '도민감리단'을 투입해 대대적인 안전 및 품질 점검을 벌인 결과, 총 370여 건의 지적 사항을 찾아내고 이 중 대다수를 신속하게 개선했다고 밝혔다.17일 경기도에 따르면, 도는 지난 3",
-    "published_at": "2026-11-17T16:39:00+09:00",
-    "cluster_id": "cbd0",
-    "publisher": "뉴스후플러스",
-    "title_clean": "경기도 도민감리단, 공공 건설현장 17곳 안전 점검",
-    "summary": "경기도가 민간 전문가로 구성된 도민감리단을 통해 공공 건설현장 17곳에 대한 안전·품질 점검을 실시했다. 총 370여 건의 지적 사항을 적발하고 대다수를 신속하게 개선했다고 발표했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T17:09:52+09:00",
-    "importance": 4
   }
 ]
