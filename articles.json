@@ -5151,21 +5151,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "서울에너지공사, 분산전력·열에너지 중심 미래 에너지 전략 모색 - e-platform.net",
-    "link": "http://www.e-platform.net/news/articleView.html?idxno=106327",
-    "description": "토론에는 이소연 서울시 기후환경본부 녹색에너지과 과장, 최성우 서울에너지공사 신재생에너지본부 본부장, 유정민 서울연구원 박사, 이광호 한국지열‧수열에너지 학회 교수, 홍희기 대한기계설비건설협회 교수를...",
-    "published_at": "2026-10-22T09:24:00+09:00",
-    "cluster_id": "5fe7",
-    "publisher": "",
-    "title_clean": "서울에너지공사, 분산전력·열에너지 중심 미래 에너지 전략 모색 - e-platform.net",
-    "summary": "서울에너지공사가 분산전력·열에너지 중심의 미래 에너지 전략을 모색하고 있으며, 서울시 기후환경본부, 서울연구원, 한국지열·수열에너지학회, 대한기계설비건설협회 등 관련 기관들이 함께 토론에 참여했다. 이는 서울의 신재생에너지 확대와 에너지 효율화를 추진하는 정책 방향을 반영한 것이다.",
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "통장·가점 없이 고른다… '아크메르 동탄' 22일(일) 첫 선착순 동·호 ... - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=344476",
+    "description": "■ 최고 49층 '아크메르 동탄', 22일 첫 선착순 동·호 지정 계약 아크메르 동탄은 KB부동산신탁이 시행하고 포스코이앤씨가 시공한다. 화성시 동탄구 반송동 95·99번지 일원에 지하 7층~지상 최고 49층, 7개 동, 총 1...",
+    "published_at": "2026-11-21T09:32:00+09:00",
+    "cluster_id": "6acd",
+    "publisher": "국토일보",
+    "title_clean": "통장·가점 없이 고른다… '아크메르 동탄' 22일(일) 첫 선착순 동·호 ...",
+    "summary": "KB부동산신탁 시행, 포스코이앤씨 시공의 '아크메르 동탄' 프로젝트가 22일 선착순 동·호 지정 계약을 시작한다. 화성시 동탄구에 지상 49층, 7개 동 규모의 대형 아파트 단지 공사가 진행 중이다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-22T09:31:09+09:00",
-    "event_label": "대한기계설비건설협회 서울에너지공사 미래 에너지 전략 토론 참여",
-    "importance": 5
+    "collected_at": "2026-11-21T09:41:07+09:00",
+    "importance": 2
   },
   {
     "keyword": "포스코이앤씨",
@@ -21150,22 +21149,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:50:06+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[산업 Pick] 대한전선·대우건설, 대형 프로젝트 수주와 재건축 시공사... - lcnews.co.kr",
-    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211472",
-    "description": "라이센스뉴스 = 박창배 기자 | 대한전선·대우건설이 국내외 대형 프로젝트를 잇달아 수주하며 수주 곳간을 채우고 있다. 대한전선은 싱가포르 전력청으로부터 약 2,718억원 규모의 400kV 초고압 전력망 구축 사업을...",
-    "published_at": "2026-11-16T16:38:00+09:00",
-    "cluster_id": "ee70",
-    "publisher": "lcnews.co.kr",
-    "title_clean": "[산업 Pick] 대한전선·대우건설, 대형 프로젝트 수주와 재건축 시공사...",
-    "summary": "대한전선이 싱가포르 전력청으로부터 약 2,718억원 규모의 400kV 초고압 전력망 구축 사업을 수주하고, 대우건설도 대형 프로젝트와 재건축 시공사를 확보하며 수주 실적을 늘리고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T16:50:06+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
