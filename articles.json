@@ -21018,6 +21018,22 @@
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
+    "title": "천안 공동주택 건설현장 민원 3년간 1523건 달해 - ccdailynews.com",
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2452613",
+    "description": "건설현장 안전 및 품질 관련 민원 32건, 미준공아파트 관련 민원 32건, 입주지연 및 지체보상금 관련 민원 32건 등이다. 2025년에는 추가 옵션 및 분양계약 관련 민원이 480건으로 전체 782건의 61.4%를 차지했다. 아파트...",
+    "published_at": "2026-11-22T08:54:00+09:00",
+    "cluster_id": "c793",
+    "publisher": "ccdailynews.com",
+    "title_clean": "천안 공동주택 건설현장 민원 3년간 1523건 달해",
+    "summary": "천안 공동주택 건설현장에서 3년간 1523건의 민원이 접수되었으며, 2025년에는 옵션 및 분양계약 관련 민원이 782건의 61.4%를 차지했다. 건설 안전, 미준공, 입주지연 등 다양한 불만이 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T08:57:51+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "지게차 사망사고 재발 방지 특별점검 추진 - 제주도민일보",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4TVZQRjc4U3lxWlY3WkVWRjFGSUU4UmgzN1l3UmlFdFhkNUlTNHNBZ3dqa3lJMEN0Tm1lLXc1U3dicExPMy03UVltaTRzdklhaW4zZS04cmE1Vi0tUEd1dkU5d0dsV2dWQ3h4ZGxuaw?oc=5",
     "description": "[제주도민일보 최병근 기자] 제주도가 올해 6월과 10월 발생한 지게차 사망사고의 재발을 막기 위해 안전수칙 홍보와 현장 교육, 특별점검 등 예방대책을 12월까지",
@@ -32277,21 +32293,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T17:30:22+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "민간 전기공사 발주자도 대금 지급보증...법 개정안 발의 - 에너지신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YbkNxZ0U0QlBPWmFqeDFvT1JWb2R6X3p6MXZ2ZUF2YTYwZXJ5WnItckZrWFhDS3h2Wl9yTTVVLVVkTHM2eVN3V25HSEFzbzNDWTNaLXhSaGJueGNRRWFrX3NPX2MwNHFIY0pQenlSaTc?oc=5",
-    "description": "[에너지신문] 민간 전기공사를 맡은 업체가 계약이행을 보증하면 발주자도 공사대금 지급을 보증하도록 하는 법안이 국회에 제출됐다. 발주자가 보증 의무를 이행하지 않으면 수급인은 공사를 중지하고, 이행을 요구한 기간이 지나도 조치가 없으면 계약을 해지할 수 있도록 했다. 공사가 진행되기",
-    "published_at": "2026-11-17T17:24:54+09:00",
-    "cluster_id": "00e8",
-    "publisher": "에너지신문",
-    "title_clean": "민간 전기공사 발주자도 대금 지급보증...법 개정안 발의",
-    "summary": "민간 전기공사에서 수급인의 계약이행 보증에 대응하여 발주자도 공사대금 지급을 보증하도록 하는 법안이 발의됐다. 발주자가 보증 의무를 불이행할 경우 수급인이 공사 중지 및 계약 해지 권리를 갖도록 한 것으로, 건설업체의 대금 미지급 위험을 감소시키는 내용이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T17:30:22+09:00",
-    "importance": 2
   }
 ]
