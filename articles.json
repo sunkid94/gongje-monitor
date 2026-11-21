@@ -21015,6 +21015,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "지게차 사망사고 재발 방지 특별점검 추진 - 제주도민일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4TVZQRjc4U3lxWlY3WkVWRjFGSUU4UmgzN1l3UmlFdFhkNUlTNHNBZ3dqa3lJMEN0Tm1lLXc1U3dicExPMy03UVltaTRzdklhaW4zZS04cmE1Vi0tUEd1dkU5d0dsV2dWQ3h4ZGxuaw?oc=5",
+    "description": "[제주도민일보 최병근 기자] 제주도가 올해 6월과 10월 발생한 지게차 사망사고의 재발을 막기 위해 안전수칙 홍보와 현장 교육, 특별점검 등 예방대책을 12월까지",
+    "published_at": "2026-11-22T08:00:00+09:00",
+    "cluster_id": "4833",
+    "publisher": "제주도민일보",
+    "title_clean": "지게차 사망사고 재발 방지 특별점검 추진",
+    "summary": "제주도가 올해 6월과 10월에 발생한 지게차 사망사고의 재발 방지를 위해 안전수칙 홍보, 현장 교육, 특별점검 등의 예방대책을 12월까지 추진한다. 건설 현장의 중장비 안전 강화로 규제 및 감시 체계가 강화되는 추세를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T08:27:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32276,22 +32292,6 @@
     "summary": "민간 전기공사에서 수급인의 계약이행 보증에 대응하여 발주자도 공사대금 지급을 보증하도록 하는 법안이 발의됐다. 발주자가 보증 의무를 불이행할 경우 수급인이 공사 중지 및 계약 해지 권리를 갖도록 한 것으로, 건설업체의 대금 미지급 위험을 감소시키는 내용이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-17T17:30:22+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "‘접점 없어 막힌 건설 하도급’…대구시가 판 깔았다 - kukinews.com",
-    "link": "https://www.kukinews.com/article/view/kuk202611170196",
-    "description": "쿠키뉴스=최재용 기자 | 장기화된 건설경기 한파와 신규 발주 물량 급감으로 고사 위기에 내몰린 지역 전문건설업계를 살리기 위해 대구시가 대형 원청사와 지역 하도급사를 직접 연결하는 실질적 수주 지원 사격에...",
-    "published_at": "2026-11-17T17:18:00+09:00",
-    "cluster_id": "1669",
-    "publisher": "kukinews.com",
-    "title_clean": "‘접점 없어 막힌 건설 하도급’…대구시가 판 깔았다",
-    "summary": "대구시가 장기화된 건설경기 침체로 어려움을 겪는 지역 전문건설업계를 지원하기 위해 대형 원청사와 지역 하도급사를 직접 연결하는 수주 중개 사업을 추진 중이다. 신규 발주 물량 급감으로 고사 위기에 처한 하도급사들의 실질적인 수주 기회 창출을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T17:25:19+09:00",
     "importance": 2
   }
 ]
