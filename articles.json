@@ -5083,6 +5083,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "포스코이앤씨 둘러싼 경영 리스크와 사업 현장의 빛과 그림자 - 블로그차트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByb2VEbGVMYnpMcTUtdmZMN0p6dFdoU0VadGJQd203R1FfRmk5SHpnT0pQMDNHTU5MNENVT2hFWXJLclotUHFvN3VXX0FSbS1Ba044?oc=5",
+    "description": "최근 안전사고와 해외 법인 파산 등 여러 이슈로 주목받는 포스코이앤씨의 현 상황을 다각도로 분석하고, 향후 전개될 시나리오를 살펴봅니다.",
+    "published_at": "2026-11-20T23:42:30+09:00",
+    "cluster_id": "b05e",
+    "publisher": "블로그차트",
+    "title_clean": "포스코이앤씨 둘러싼 경영 리스크와 사업 현장의 빛과 그림자",
+    "summary": "포스코이앤씨가 안전사고와 해외 법인 파산 등 복합적 경영 리스크에 직면하고 있으며, 이는 건설업계 전반의 신뢰도 저하와 규제 강화 우려로 이어지고 있습니다. 사업 현장의 구조적 문제점이 노출되면서 업계 전체에 부정적 영향을 미칠 것으로 예상됩니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-21T22:02:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21065,22 +21081,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T17:15:08+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "‘1.6조 대어’ 목동4단지 재건축, 시공사 1차 입찰 유찰… 현대건설 단독 응찰 - 하우징타임즈",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wVHFyX1U2bFkyTl9DV05VWG1RdmtXb1RLRkkzaTdvODkzanAydGxtTFp3bEJwaEptYzVIWnR6XzZCZ1Z1eEY2RDdBdUhrTHJ0M2VWbkJRX0N5UzlReE9rX29iLTJSVjhvbmdfTlZ6YW0?oc=5",
-    "description": "[하우징타임즈=김상규 전문기자]서울 양천구 목동 신시가지 재건축 시장의 핵심 사업지로 꼽히는 목동4단지아파트가 첫 시공사 선정 문턱에서 숨 고르기에 들어갔다. 당초 대형 건설사들의 치열한 수주전이 예상됐으나, 실제 입찰에서는 현대건설만 단독으로 참여하면서 경쟁 구도가 성립되지 않았다.",
-    "published_at": "2026-11-16T16:20:00+09:00",
-    "cluster_id": "4775",
-    "publisher": "하우징타임즈",
-    "title_clean": "‘1.6조 대어’ 목동4단지 재건축, 시공사 1차 입찰 유찰… 현대건설 단독 응찰",
-    "summary": "서울 양천구 목동4단지 재건축 사업의 첫 시공사 입찰에서 현대건설만 단독 응찰하며 입찰이 유찰됐다. 예상과 달리 대형 건설사들의 경쟁이 이루어지지 않아 시장의 약세를 드러냈다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T17:15:08+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
