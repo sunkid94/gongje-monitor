@@ -21134,6 +21134,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "내년 3.9% 성장에 코스피 1만까지?…반도체가 끌어올린 낙관론[주末머니... - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026111911284618801",
+    "description": "반도체 공장과 관련 시설 공사가 건설경기 회복을 돕는다는 설명이다. 반도체 호황으로 늘어난 소득은 소비에도 보탬이 될 것으로 봤다. 민간소비 증가율은 올해 1.8%에서 내년 2.4%로 높아질 전망이다. 국제유가가...",
+    "published_at": "2026-11-21T14:08:00+09:00",
+    "cluster_id": "15c3",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "내년 3.9% 성장에 코스피 1만까지?…반도체가 끌어올린 낙관론[주末머니...",
+    "summary": "반도체 공장 및 관련 시설 공사가 건설경기 회복을 견인하고 있으며, 반도체 호황으로 인한 소득 증가가 민간소비 확대로 이어질 전망이다. 이러한 긍정적 경제 신호가 내년 3.9% 성장과 코스피 1만 도달에 대한 낙관론을 주도하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-21T14:15:02+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32284,21 +32300,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T16:53:22+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH 신임 경영관리본부장에 윤우준 전 전북지사장 - public25.com",
-    "link": "https://www.public25.com/news/articleView.html?idxno=58592",
-    "description": "현행 조직체제로는 부사장 산하에 경영관리본부와 국토도시본부, 지역균형본부(신설), 스마트건설안전본부(신설) 등 6개 본부가 존재한다. 이 사장은 8월 기자간담회를 통해 \"경영 전반에서 주택공급 속도를 높이는 데...",
-    "published_at": "2026-11-17T16:48:00+09:00",
-    "cluster_id": "9be7",
-    "publisher": "public25.com",
-    "title_clean": "LH 신임 경영관리본부장에 윤우준 전 전북지사장",
-    "summary": "LH가 윤우준 전 전북지사장을 신임 경영관리본부장으로 임명했다. LH는 조직개편을 통해 6개 본부 체제를 운영 중이며, 사장은 주택공급 속도 증대를 경영 목표로 제시하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-17T16:53:22+09:00",
-    "importance": 2
   }
 ]
