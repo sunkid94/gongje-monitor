@@ -5134,6 +5134,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC E&C",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "중소형 건설주 줄줄이 하락… 웰크론한텍·신원종합개발은 선방 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506585",
+    "description": "이와 함께 건설·환경 분야 사업을 영위하는 SGC E&C 역시 강세를 나타내며 하락장 속에서 차별화된 흐름을 보였다. 금호건설을 비롯한 다수 종목은 약세를 나타냈다. 주택과 토목사업을 영위하는 삼일기업공사와 태영건설...",
+    "published_at": "2026-11-21T13:38:00+09:00",
+    "cluster_id": "eedb",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "중소형 건설주 줄줄이 하락… 웰크론한텍·신원종합개발은 선방",
+    "summary": "건설업계 전반적인 약세 속에서 웰크론한텍, 신원종합개발, SGC E&C 등 일부 중소형 건설주는 선방하고 있다. 금호건설, 삼일기업공사, 태영건설 등 다수 종목은 하락세를 보이고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-21T13:45:24+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -21116,22 +21132,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:55:25+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 서울 여의도 화랑아파트 재건축 수주… '써밋' 랜드마크 조성 - biztribune.co.kr",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=362594",
-    "description": "서울 여의도 화랑아파트 재건축 '써밋 더 한강' 투시도 | 대우건설 대우건설이 서울 여의도 화랑아파트 소규모재건축사업 시공권을 확보하며 여의도 정비사업 수주 실적을 추가했다. 앞서 공작아파트 재건축사업을...",
-    "published_at": "2026-11-16T16:48:00+09:00",
-    "cluster_id": "c22c",
-    "publisher": "biztribune.co.kr",
-    "title_clean": "대우건설, 서울 여의도 화랑아파트 재건축 수주… '써밋' 랜드마크 조성",
-    "summary": "대우건설이 서울 여의도 화랑아파트 소규모재건축사업 시공권을 수주하여 여의도 정비사업 수주 실적을 확대했다. '써밋 더 한강'이라는 랜드마크 프로젝트로 조성될 예정이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T16:55:25+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설 노동",
