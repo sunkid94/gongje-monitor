@@ -5134,6 +5134,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "정당계약 이후 잔여 물량 소진… '아크메르 동탄', 오는 22일 선착순 계... - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3053359",
+    "description": "KB부동산신탁이 시행하고 포스코이앤씨가 시공하는 이 단지는 경기도 화성시 동탄구 반송동 일원에 지하 7층~지상 최고 49층, 7개 동, 총 1,808가구 규모로 건립된다. 세부적으로는 95(M1-1-2블록) 3개 동 812가구(전용면적 84...",
+    "published_at": "2026-11-21T11:50:00+09:00",
+    "cluster_id": "3593",
+    "publisher": "apnews.kr",
+    "title_clean": "정당계약 이후 잔여 물량 소진… '아크메르 동탄', 오는 22일 선착순 계...",
+    "summary": "KB부동산신탁 시행, 포스코이앤씨 시공의 '아크메르 동탄' 단지가 정당계약 이후 잔여 물량을 22일 선착순으로 공급한다. 경기 화성 동탄에 1,808가구 규모로 건립되는 프로젝트이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-21T11:55:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21116,22 +21132,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T16:55:25+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "교회 뺀 장위10구역, 완공 후에도 '걱정' - sisajournal-e.com",
-    "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=425072",
-    "description": "시공사는 대우건설이다. 사랑제일교회 부지를 제외하는 방식으로 사업계획을 변경해 재개발을 추진하고 있다. 최근 장위10구역이 다시 주목받은 계기는 이재명 대통령의 '알박기' 문제 제기다. 이 대통령은 지난 4일...",
-    "published_at": "2026-11-16T16:46:00+09:00",
-    "cluster_id": "4851",
-    "publisher": "",
-    "title_clean": "교회 뺀 장위10구역, 완공 후에도 '걱정' - sisajournal-e.com",
-    "summary": "장위10구역 재개발이 사랑제일교회 부지를 제외하는 방식으로 추진되고 있으며, 이재명 대통령의 '알박기' 문제 제기로 논란이 재점화되었다. 시공사 대우건설의 사업 추진에 불확실성이 높아지는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T16:55:25+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설경기",
