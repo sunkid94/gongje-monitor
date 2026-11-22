@@ -21001,6 +21001,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "대한전문건설협회 경상남도회 통영시운영위원회 인재육성기금 500만원 ... - newsgn.com",
+    "link": "https://www.newsgn.com/news/articleView.html?idxno=587106",
+    "description": "대한전문건설협회 경상남도회 통영시운영위원회는 지역건설 활성화를 위해 힘쓰고 있으며, 건설경기 침체로 어려움을 겪고 있는 가운데서도 꾸준히 지역사회 이웃을 돕는 데 솔선수범하고 있다. 유용운 위원장은...",
+    "published_at": "2026-11-22T15:32:00+09:00",
+    "cluster_id": "ca83",
+    "publisher": "newsgn.com",
+    "title_clean": "대한전문건설협회 경상남도회 통영시운영위원회 인재육성기금 500만원 ...",
+    "summary": "대한전문건설협회 경상남도회 통영시운영위원회가 인재육성기금 500만원을 기탁하며 지역사회 지원 활동을 전개하고 있다. 건설경기 침체 속에서도 사회공헌에 솔선하는 업계의 모습을 보여주고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T15:37:47+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "제주 건설경기 침체 속 도로보상 예산 급감 논란 - jemin.com",
     "link": "https://www.jemin.com/news/articleView.html?idxno=848044",
     "description": "▲ 강정범 의원제주지역 건설경기 침체가 장기화하는 가운데 내년도 도시계획도로 토지보상 예산이 대폭 감소하면서 제주도의회에서 건설경기 활성화에 대한 제주도정의 의지가 부족하다는 지적이 제기됐다....",
@@ -32276,21 +32292,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-17T22:00:26+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "경남, 내달 8일까지 공공 건설 현장 1899곳 안전점검 - ulsanpress.net",
-    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=586992",
-    "description": "경남도가 겨울철 건설현장 안전사고 예방을 위해 도내 공공건설공사 현장 1,899곳을 대상으로 동절기 안전점검에 나선다. 점검 기간은 18일부터 12월 8일까지 21일간으로, 총공사비 1억원 이상 공공건설공사 현장이...",
-    "published_at": "2026-11-17T21:42:00+09:00",
-    "cluster_id": "7978",
-    "publisher": "ulsanpress.net",
-    "title_clean": "경남, 내달 8일까지 공공 건설 현장 1899곳 안전점검",
-    "summary": "경남도가 겨울철 건설현장 안전사고 예방을 위해 도내 공공건설공사 1,899곳을 대상으로 12월 8일까지 동절기 안전점검을 실시한다. 총공사비 1억원 이상 현장을 중심으로 21일간 집중 점검을 진행할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T21:50:28+09:00",
-    "importance": 4
   }
 ]
