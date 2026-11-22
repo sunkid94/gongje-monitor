@@ -20913,6 +20913,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[김한진의 마켓 나우] 규제는 수요를 죽이지 못한다 - joongang.co.kr",
+    "link": "https://www.joongang.co.kr/article/25480900",
+    "description": "게다가 지역 건설경기와 일자리, 세수에 대한 기여가 커서 주 정부도 ‘전면 금지’는 부담스럽다. 지난 2년간 각 주에서 발의된 관련 법안 가운데 실제 시행된 것은 극소수다. 또 내년에 가동될 미국 데이터센터의...",
+    "published_at": "2026-11-23T00:04:00+09:00",
+    "cluster_id": "de70",
+    "publisher": "joongang.co.kr",
+    "title_clean": "[김한진의 마켓 나우] 규제는 수요를 죽이지 못한다",
+    "summary": "규제 강화에도 불구하고 지역 경제 기여도와 일자리 창출 때문에 주 정부가 건설 관련 전면 금지를 꺼리고 있으며, 최근 2년간 발의된 법안 중 실제 시행된 것은 극소수다. 수요는 규제로 완전히 억제되지 않고 있음을 시사한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-23T00:13:15+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-18T05:09:53+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "장건 건설근로자공제회 이사장, 용인 반도체 클러스터 현장 격려 - newspim.com",
-    "link": "https://www.newspim.com/news/view/20261117001130",
-    "description": "공제회는 건설노동자 및 사업주가 참여하는 합동간담회를 열고 전자카드 사용과 퇴직공제제도 운영에 대한 현장 애로사항과 개선 의견도 듣는다. 간담회 참여자들은 공제회 복지사업에 대한 의견을 듣고, 건설노동자의...",
-    "published_at": "2026-11-18T05:00:00+09:00",
-    "cluster_id": "bad7",
-    "publisher": "newspim.com",
-    "title_clean": "장건 건설근로자공제회 이사장, 용인 반도체 클러스터 현장 격려",
-    "summary": "장건 건설근로자공제회 이사장이 용인 반도체 클러스터 건설 현장을 격려 방문했다. 공제회는 건설노동자와 사업주 간담회를 개최하여 전자카드 사용과 퇴직공제제도 운영 관련 현장 애로사항을 청취하고 개선 방안을 논의했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-18T05:09:53+09:00",
-    "importance": 3
   }
 ]
