@@ -20913,6 +20913,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "[창간 7주년] 발주 방식 개선·인허가 간소화·각종 기준 개정 등 제도 ... - 기계설비신문",
+    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52891",
+    "description": "■ 김성환 국토교통부 건설산업과장 ◇ 기계설비 건설·운영 과정서 고부가가치 창출 지원 김성환 국토교통부 건설산업과장은 국토교통부가 추진하는 건설 현장 피지컬 AI 적용 실증 사업(2030년까지 총사업비 6000억원...",
+    "published_at": "2026-11-23T05:36:00+09:00",
+    "cluster_id": "6f46",
+    "publisher": "기계설비신문",
+    "title_clean": "[창간 7주년] 발주 방식 개선·인허가 간소화·각종 기준 개정 등 제도 ...",
+    "summary": "국토교통부가 발주 방식 개선, 인허가 간소화, 기준 개정 등 제도 개선을 추진하고 있으며, 2030년까지 총사업비 6000억원 규모의 건설 현장 피지컬 AI 적용 실증 사업을 통해 기계설비 건설·운영 과정에서 고부가가치 창출을 지원하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-23T05:42:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-18T08:09:45+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "횡성군, 한국건설교통신기술협회·신기술진흥연구원과 손잡고 ‘첨단 신기술 관광인프라’ 구축 나선다 - 뉴스파이어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTLVZsTkU1dmwzU1ZBOFJqV1E3UzVnM0ZRc1A4NjZVMnVzWk9JOWk2NVpZeFRWWUdXOWNNR1VfWHlLV3JWM1JMaFd0WEc0Z1o2VngzRTZVVENGQ2czNFpSS01MR0lQSjFXNVNyMmM3VQ?oc=5",
-    "description": "[뉴스파이어] 횡성군은 오늘 안전하고 완성도 높은 관광지 개발을 위해 ‘한국건설교통신기술협회’, ‘신기술진흥연구원’과 업무협약을 체결했다고 밝혔다.한국건설교통신기",
-    "published_at": "2026-11-18T07:52:49+09:00",
-    "cluster_id": "bfed",
-    "publisher": "뉴스파이어",
-    "title_clean": "횡성군, 한국건설교통신기술협회·신기술진흥연구원과 손잡고 ‘첨단 신기술 관광인프라’ 구축 나선다",
-    "summary": "횡성군이 한국건설교통신기술협회, 신기술진흥연구원과 협약을 체결하여 첨단 신기술을 활용한 관광인프라 구축 사업을 추진한다. 안전하고 완성도 높은 관광지 개발을 위한 신기술 도입으로 건설 프로젝트 수주 기회 창출이 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-18T08:09:45+09:00",
-    "importance": 2
   }
 ]
