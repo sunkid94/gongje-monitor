@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "현대엘리베이터, 유지관리 사업 호조..3분기 누적 실적 증가 - news.mbccb.co.kr",
+    "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261122&SEQUENCE=0101",
+    "description": "건설경기 침체로 신규 승강기 설치 수요가 줄어든 가운데 현대엘리베이터가 유지관리 사업을 바탕으로 올해 3분기까지 실적을 소폭 늘렸습니다. 현대엘리베이터의 1~9월 연결 기준 매출은 1조 8,429억 원, 영업이익은...",
+    "published_at": "2026-11-22T12:20:00+09:00",
+    "cluster_id": "975e",
+    "publisher": "news.mbccb.co.kr",
+    "title_clean": "현대엘리베이터, 유지관리 사업 호조..3분기 누적 실적 증가",
+    "summary": "건설경기 침체로 신규 승강기 설치 수요가 감소하는 가운데 현대엘리베이터는 유지관리 사업 호조에 힘입어 3분기 누적 실적을 증가시켰다. 신규 수주 부진을 기존 설비의 유지관리 매출로 상쇄하며 사업 다각화 효과를 보이고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T12:22:49+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-17T18:00:34+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "“725억 벌고도 509억 적자”···태영건설, 이자 부담에 신음 - 시사저널e",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mRlphTnVTUjRDcExVSUZHWkZZZzg5ME1yTUxIeVZ5QW9aUm0yNmFOOW1QMHVEem01XzRHUlJJalFTUmpBY0NGNXJtNEZSR1BSUXA5N2FIWC1DTVFDTWxhZEtkQnRqci1YVGlWVW10azRhQdIBdkFVX3lxTE9rS3hZVjl6ZHROeXdrWE8zd284TENfeTBsT1ZqQTBzbzNScDdqd1ZVZWJXZVNkeF80VWZiWFJfOVdjOFBUNVZUMkRyUEpOZjRXZXBjakZtVnF0aHpGZmxrQjFkNy1rU3JMUFgtOHVVb182bE1RTlE?oc=5",
-    "description": "[시사저널e=길해성 기자] 태영건설이 영업이익을 늘리고도 막대한 금융비용과 각종 손실로 적자에서 벗어나지 못하고 있다.올해 3분기까지 금융비용만 1000억원을 넘",
-    "published_at": "2026-11-17T17:29:40+09:00",
-    "cluster_id": "a889",
-    "publisher": "시사저널e",
-    "title_clean": "“725억 벌고도 509억 적자”···태영건설, 이자 부담에 신음",
-    "summary": "태영건설이 영업이익은 증가했으나 1000억원을 초과하는 금융비용과 각종 손실로 인해 509억원의 적자를 기록했다. 건설업계의 고금리 환경에서 차입금 이자 부담이 경영 악화의 주요 요인으로 작용하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T18:00:34+09:00",
-    "importance": 4
   }
 ]
