@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대전도시공사, 소규모 건축현장 안전·품질 점검 지원 - 대전일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnbVc1X21nTUwxVTJab2RMNGxxTTB2bGRZaC1rQzh6VU9CVjczMGVxdHI2TzNxVWVKWElGRHB5dnFydG56NVkzeEZTV19fYmw1dnNNRG5OQTAtbkRKek1sWUNSVDJwM2YtOURWRWJKY9IBc0FVX3lxTFBrQUJsMURiZlA0MEVOblRKWjVMR2NqV3JOa1BhYVBYbHBaUEU2M3lYeWFGUnhHR0E1Qk10N1B6bkk2Y2hMTmpPWTdhWFo4N1E3REJPRVk5bUVwMEFudHVUMG5MR2ZEcHVNcG5QMzhtaHlDRzQ?oc=5",
+    "description": "대전도시공사는 소규모 민간 건축현장을 대상으로 전문인력과 점검 장비를 무상 지원하는",
+    "published_at": "2026-11-22T13:29:00+09:00",
+    "cluster_id": "1fcd",
+    "publisher": "대전일보",
+    "title_clean": "대전도시공사, 소규모 건축현장 안전·품질 점검 지원",
+    "summary": "대전도시공사가 소규모 민간 건축현장을 대상으로 전문인력과 점검 장비를 무상으로 지원하는 사업을 추진 중이다. 건축현장의 안전성과 품질 향상을 돕는 공공 지원 정책이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T14:07:46+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "summary": "GS건설이 '비욘드 리빙' 중장기 비전을 발표하며 올해 정비사업 수주 목표를 8조원에서 11조원으로 상향했다. 주거 공간의 유연성과 AI 안전성을 강조한 새로운 사업 방향을 제시했다.",
     "sentiment": "positive",
     "collected_at": "2026-11-17T19:05:36+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "리모델링 동의율, 75%에서 70%로 완화 확정…2027년 1월 허가 신청분부터 적용 - 데일리하우징",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lbTJoLUY2Q0R4MnhmeC0zNThiZ2RlVEp5TGhoYXd0WGtndVJaWkVJY1BuREVhUGxYN2I4aWZmUUZRTDRHRFZvZzFFd0k2VGRpeUhPYWlqZUNsTmRkbTlwYVlNYnpZWXRlcFhZTg?oc=5",
-    "description": "17일 국토교통부에 따르면 이날 국무회의에서 이런 내용을 담은 주택법 시행령 일부개정령안이 의결됐다.개정안에 따르면 주택단지 전체를 리모델링하는 경우 전체 구분소",
-    "published_at": "2026-11-17T14:02:14+09:00",
-    "cluster_id": "1a25",
-    "publisher": "데일리하우징",
-    "title_clean": "리모델링 동의율, 75%에서 70%로 완화 확정…2027년 1월 허가 신청분부터 적용",
-    "summary": "주택법 시행령 개정으로 주택단지 리모델링 동의율이 75%에서 70%로 완화되었다. 2027년 1월 허가 신청분부터 적용되어 리모델링 사업 추진이 용이해질 것으로 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T18:50:25+09:00",
     "importance": 2
   }
 ]
