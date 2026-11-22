@@ -4913,23 +4913,6 @@
     "importance": 7
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회 부산시회, '2026 기계설비 기술세미나' 성황리 개최 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52472",
-    "description": "대한기계설비건설협회 부산시회(회장 엄세현)가 23일 부산 연제구 소재 부산시청 대강당에서 '2026년 기계설비 기술세미나'<사진>를 성황리에 개최했다. 이번 세미나는 기계설비 산업의 최신 기술 동향을 공유하고 산업의...",
-    "published_at": "2026-10-23T18:06:00+09:00",
-    "cluster_id": "38d6",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비협회 부산시회, '2026 기계설비 기술세미나' 성황리 개최",
-    "summary": "대한기계설비건설협회 부산시회가 부산시청 대강당에서 '2026 기계설비 기술세미나'를 개최했다. 기계설비 산업의 최신 기술 동향을 공유하고 업계 발전을 위한 논의의 장을 마련했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-10-23T18:10:01+09:00",
-    "event_label": "대한기계설비건설협회 2026 기계설비 기술세미나 개최",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20928,6 +20911,22 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T21:50:40+09:00",
     "importance": 3
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "현대엘리베이터, 3분기 영업익 1천589억 - ccdn.co.kr",
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112660",
+    "description": "현대엘리베이터가 건설경기 침체와 신규 분양 물량 감소라는 악재 속에서도 전국 20만 대가 넘는 유지관리 기반과 디지털 혁신을 앞세워 실적 성장을 이뤘다. 현대엘리베이터는 올해 3분기 연결 기준 실적은 매출...",
+    "published_at": "2026-11-22T18:06:00+09:00",
+    "cluster_id": "41ff",
+    "publisher": "ccdn.co.kr",
+    "title_clean": "현대엘리베이터, 3분기 영업익 1천589억",
+    "summary": "현대엘리베이터가 건설경기 침체 속에서도 20만 대 이상의 유지관리 기반과 디지털 혁신을 통해 3분기 영업익 1천589억을 달성했다. 신규 수주 감소라는 업계 악재에도 불구하고 기존 사업 기반으로 실적 성장을 이뤘다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T18:12:51+09:00",
+    "importance": 2
   },
   {
     "keyword": "건설경기",
