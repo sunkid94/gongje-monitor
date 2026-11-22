@@ -4981,23 +4981,6 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회 경북·전북도회, 영·호남 친선 교류 간담회 개최 - 기계설비신문",
-    "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52465",
-    "description": "대한기계설비건설협회 경상북도회와 전북특별자치도회는 지난 20일과 21일 양일간 경상북도 구미시 소재 구미CC에서 '영·호남 기계설비인 친선 교류 간담회'<사진>를통해 화합의 장을 마련했다고 지난 21일 밝혔다. 이날...",
-    "published_at": "2026-10-23T15:38:00+09:00",
-    "cluster_id": "2791",
-    "publisher": "기계설비신문",
-    "title_clean": "기계설비협회 경북·전북도회, 영·호남 친선 교류 간담회 개최",
-    "summary": "대한기계설비건설협회 경상북도회와 전북특별자치도회가 구미CC에서 '영·호남 기계설비인 친선 교류 간담회'를 개최해 업계 화합의 장을 마련했다. 지역 간 교류를 통해 기계설비 업계의 결속을 다졌다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-23T15:53:06+09:00",
-    "event_label": "대한기계설비건설협회 영·호남 기계설비인 친선 교류 간담회 개최",
-    "importance": 5
-  },
-  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20998,6 +20981,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "'尹정부 관저 이전' 둘러싼 의혹들…김건희 '1심 첫 재판'·김대기 '1심 ... - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01771206645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "윤 정부 대통령실 관저 공사 특혜 의혹 사건으로, 이에 연루돼 직권남용 권리행사방해 및 건설산업기본법 위반 혐의를 받은 윤 의원이 함께 재판을 받는다. 특검팀에 따르면 김 여사와 윤 의원, 21그램 대표 김모 씨는...",
+    "published_at": "2026-11-22T16:21:00+09:00",
+    "cluster_id": "a911",
+    "publisher": "edaily.co.kr",
+    "title_clean": "'尹정부 관저 이전' 둘러싼 의혹들…김건희 '1심 첫 재판'·김대기 '1심 ...",
+    "summary": "윤석열 정부의 대통령실 관저 이전 공사 특혜 의혹 사건에서 김건희 여사와 윤의원, 건설업체 대표 등이 직권남용, 권리행사방해, 건설산업기본법 위반 혐의로 1심 재판에 출석했다. 관저 공사를 둘러싼 부정 이슈로 건설산업기본법 위반이 적시되며 업계 신뢰도 하락이 우려된다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T16:22:54+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'블로킹 14-7 압도' 현대건설, 드디어 홈 첫 승리... 흥국생명 4연패 수렁 [수원 현장리뷰] - 스타뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RjhudXRPbUQ3S2xQWl8zNGp0ZU9Ob1h6OE9jcmF4aHFzejlQY0lIWDZTN19uNVF6SWVBVWRHdDdCWU9WVHpXUTdTOC1ndjBhbFdCUi1iRVMtQmFWUzV3dDdYb19TeFhLUXVpUkNVb1V2ZjhKZHc?oc=5",
+    "description": "수원 현대건설이 인천 흥국생명을 상대로 홈에서 첫 승리를 따냈다. 현대건설은 22일 경기도 수원체육관에서 열린 인천 흥국생명과 2026-2027 HK흥국생명 V리그 여자부 홈경기에서 세트스코어 3-0(25-19, 25-17, 28-26)로 셧아웃 승리를 거뒀다. 개막 후 4연패를 달리던 현대건설은 2연승으로 기세를 탔고 흥국생명에 4연패(3승 3패)를 안기며 나란히 승점 6이 됐다. 세트득실률에서 밀려 6위에 머물렀지만 압도적인 경기력으로 연승을 거두며 기세를 높였다.",
+    "published_at": "2026-11-22T06:42:10+00:00",
+    "cluster_id": "cf29",
+    "publisher": "스타뉴스",
+    "title_clean": "'블로킹 14-7 압도' 현대건설, 드디어 홈 첫 승리... 흥국생명 4연패 수렁 [수원 현장리뷰]",
+    "summary": "이 기사는 건설업계와 무관한 여자 배구 경기 결과를 다루고 있습니다. 현대건설 배구팀이 홈경기에서 첫 승리를 거둔 스포츠 뉴스입니다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T16:22:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32275,22 +32290,6 @@
     "summary": "대구시가 현대건설·DL이앤씨 등 17개 대형 건설사를 유치하여 지역 건설업체 49곳에 수주 기회를 제공하고 있다. 공구분할 제도화, 하도급률 상향, 금융지원 확대 등을 통해 지역 건설경기 활성화를 추진 중이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-17T22:40:29+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "제주 건설업체 대기업 협력 수주 확대 - 제민일보",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1paFNNWFNrVnRGMUpWVTBpdkJBTjM5YWg3Y1FMdllMMFF0UEdVS2hCNWpLcHNzenNWdGpXaklPdlkzTHhXM21LRkRHQWlsYk5kTGs1eW5pc1U2Si1wMUNnYktOemlzWUU?oc=5",
-    "description": "제주지역 건설업체들이 국내 건설대기업과의 협력을 통해 367억원 규모의 공사를 수주한 가운데 지역 건설업계의 새로운 사업 기회 확대를 위한 교류의 장이 마련됐다. 제주도는 대한전문건설협회 제주특별자치도회와 함께 지난 16일 제주시 아스타호텔에서 ‘2026년 제주건설업체-건설대기업 상생의 날’ 행사를 개최했다고 17일 밝혔다. 이번 행사에는 현대건설과 GS건설, DL이앤씨 등 국내 건설대기업 13개사와 도내 건설업체 17개사, 해외건설협회 등 관계기관 관계자 100여 명이 참석했다. ‘상생의 힘을 모아, 새로운 기회를 짓다’를 주제로",
-    "published_at": "2026-11-17T15:04:53+09:00",
-    "cluster_id": "9509",
-    "publisher": "제민일보",
-    "title_clean": "제주 건설업체 대기업 협력 수주 확대",
-    "summary": "제주지역 건설업체들이 국내 건설대기업 13개사와의 협력을 통해 367억원 규모의 공사를 수주했다. 제주도와 대한전문건설협회가 '상생의 날' 행사를 개최하여 지역 건설업체의 새로운 사업 기회 확대를 위한 교류의 장을 마련했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T22:25:17+09:00",
     "importance": 2
   }
 ]
