@@ -4913,6 +4913,22 @@
     "importance": 7
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "창원 사파1구역 3000세대 통합재건축 본격화 - knnews.co.kr",
+    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1555607",
+    "description": "총회에는 한화건설, 현대산업개발, 아이에스동서 등 건설업체 관계자들이 참석해 관심을 보였다. 창원시 성산구 사파동 무궁화·삼익아파트 등 노후 아파트 단지 주변으로 고층 아파트가 들어서 있다./경남신문DB...",
+    "published_at": "2026-11-22T20:44:00+09:00",
+    "cluster_id": "f381",
+    "publisher": "knnews.co.kr",
+    "title_clean": "창원 사파1구역 3000세대 통합재건축 본격화",
+    "summary": "창원 사파1구역 3000세대 통합재건축 사업이 본격화되며 한화건설, 현대산업개발, 아이에스동서 등 주요 건설사들이 참여 의사를 보였다. 노후 아파트 단지의 대규모 재건축 프로젝트로 건설업계에 수주 기회가 발생하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T20:47:53+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20895,22 +20911,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-16T22:00:43+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "교회 뺀 장위10구역, 완공 후에도 ‘걱정’ - 시사저널e",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jbEhUejJaSWlPWGV0T1Z6a0xmelBjQU1VS0VUQXJzX2t3OW9yWkM4VE05bldZdjZxUk52TDVMYlBlTjRvaG1jaVdNaUg3T0NhVzlxRzgtSVFIeXZYN2o5eWVoeloxWHZNUURVeWw1NUZaZ9IBdkFVX3lxTE50WWNVREY4OXlreThxa1BBN3IyU00xcUJKWkRyNEdvdXVvcG9TSzVfYWZLRVI2Z252QVBFZjdYQldoSjdqQk9GcnRYN2ladTJYTmxGd0ZOMnRpR1ZONDVZcVJwaktfTk1SNEgtZ1dMc2hzaFBpTmc?oc=5",
-    "description": "[시사저널e=길해성 기자] 서울 장위10구역이 사랑제일교회를 제외하며 재개발 지연에서 벗어났지만 공사비 부담과 입주 후 주민 갈등이라는 새로운 과제를 안게 됐다.",
-    "published_at": "2026-11-16T16:46:10+09:00",
-    "cluster_id": "3562",
-    "publisher": "시사저널e",
-    "title_clean": "교회 뺀 장위10구역, 완공 후에도 ‘걱정’",
-    "summary": "서울 장위10구역이 사랑제일교회를 제외하고 재개발을 진행하여 지연에서 벗어났으나, 공사비 부담 증가와 입주 후 주민 갈등 우려라는 새로운 문제에 직면했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T22:00:43+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
