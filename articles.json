@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "바로건설기술, 무영건축과 건설신기술 공동연구 ‘맞손’ - 대한경제",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50WVY5R1ZpanVyVDVxZENsa1kxSkxKSTdoTXdKc3pEb1U2MnZQMGF5OVFvek1lc3M4dzZqLUhMcmo4UDlVREhoOHB5cVRhYzRKVmllS09QamlYRERvVTNtSjJ5STdhTXJYVHFYZk05V2RqaDA?oc=5",
+    "description": "[대한경제=박경남기자]신자재·신공법 개발 전문기업 바로건설기술(대표 서현주·김영춘)이 ㈜무영종합건축사사무소(대표 박건규)와 손잡고, 건설신기술 개발에 본격 나선다.바로건설기술과 무영종합건축사사무소가 최근",
+    "published_at": "2026-11-22T14:00:17+09:00",
+    "cluster_id": "9d8b",
+    "publisher": "대한경제",
+    "title_clean": "바로건설기술, 무영건축과 건설신기술 공동연구 ‘맞손’",
+    "summary": "바로건설기술이 무영종합건축사사무소와 건설신기술 개발을 위한 공동연구에 착수했다. 신자재·신공법 개발을 통해 건설업계의 기술 혁신을 추진하는 협력이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T14:42:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T21:30:37+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구 건설업계 일감 가뭄 돌파구 찾는다…대기업과 직접 소통 창구 가동 - ksmnews.co.kr",
-    "link": "https://www.ksmnews.co.kr/news/view.php?idx=630035",
-    "description": "대구지역 전문건설업자들이 지역 건설경기를 회복시키기 위해 대형건설사와 직접적인 네트워크를 구축하며 수주 판로 개척에 나섰다. 대구시는 17일 엑스코에서 국내 굴지의 대형건설사 17곳과 지역 전문건설업체 49곳이...",
-    "published_at": "2026-11-17T21:00:00+09:00",
-    "cluster_id": "b65c",
-    "publisher": "ksmnews.co.kr",
-    "title_clean": "대구 건설업계 일감 가뭄 돌파구 찾는다…대기업과 직접 소통 창구 가동",
-    "summary": "대구 전문건설업체들이 일감 부족을 해결하기 위해 대형건설사 17곳과 직접 네트워크를 구축하는 수주 연결 행사를 개최했다. 지역 건설경기 회복을 위한 적극적인 판로 개척 움직임으로, 전문건설업체들의 수주 기회 확대가 기대된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T21:10:09+09:00",
-    "importance": 2
   }
 ]
