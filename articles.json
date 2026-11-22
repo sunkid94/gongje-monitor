@@ -4930,6 +4930,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "금일 선착순 계약 첫날 맞은 '아크메르 동탄', 현장 발길 이어져 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3053401",
+    "description": "단지는 KB부동산신탁 시행, 포스코이앤씨 시공으로 화성시 동탄구 반송동 일원에 지하 7층~지상 최고 49층, 7개 동, 총 1808가구(M1-1-2블록 812가구·전용 84~188㎡, M1-2-2블록 996가구·전용 84~162㎡) 규모로 조성되며 2032년...",
+    "published_at": "2026-11-22T17:26:00+09:00",
+    "cluster_id": "4e29",
+    "publisher": "apnews.kr",
+    "title_clean": "금일 선착순 계약 첫날 맞은 '아크메르 동탄', 현장 발길 이어져",
+    "summary": "KB부동산신탁 시행, 포스코이앤씨 시공의 아크메르 동탄 프로젝트가 선착순 계약 첫날을 맞아 성공적인 수요를 보이고 있다. 1808가구 규모의 대형 주택사업으로 건설사에 수주 기회를 제공하는 긍정적 뉴스다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T17:27:48+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20914,20 +20930,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설 노동",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "대우건설, 여의도 화랑아파트 시공권 확보…49층 ‘써밋 더 한강’ 제안 - megaeconomy.co.kr",
-    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065613177742837",
-    "description": "대우건설이 서울 여의도 한강변에서 재건축사업 수주 실적을 추가했다. 공작아파트에 이어 화랑아파트 시공권까지 확보하면서 고급 주거단지 조성을 위한 사업 기반을 넓히고 있다. 대우건설은 지난 14일 열린 여의도...",
-    "published_at": "2026-11-16T20:48:00+09:00",
-    "cluster_id": "8463",
-    "publisher": "megaeconomy.co.kr",
-    "title_clean": "대우건설, 여의도 화랑아파트 시공권 확보…49층 ‘써밋 더 한강’ 제안",
-    "summary": "대우건설이 여의도 화랑아파트 재건축 시공권을 확보하며 한강변 고급 주거단지 사업을 확대하고 있다. 공작아파트에 이어 추가 수주로 건설사의 대형 재건축 프로젝트 수주 실적이 증가하는 추세를 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T20:55:10+09:00",
-    "importance": 2
+    "title": "일하며 쌓인 데이터, 누구의 것일까? - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41826",
+    "description": "정대중 한국노총 섬유·유통·건설노동조합연맹(이하 섬유·유통·건설노련) 기획정책본부 실장은 \"섬유 사업장 같은 경우 노동 집약적이다 보니 암묵지 사업이 본격화되면 타격이 클 것으로 보인다. 또 수행 과제로 선정된...",
+    "published_at": "2026-11-22T17:22:00+09:00",
+    "cluster_id": "b9d5",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "일하며 쌓인 데이터, 누구의 것일까?",
+    "summary": "노동 집약적인 섬유·유통·건설 사업장에서 근로자들이 업무 중 생성한 데이터의 소유권 문제가 대두되고 있다. 암묵지 사업이 확대될 경우 건설업계 등에 미칠 영향에 대한 우려가 제기되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T17:27:48+09:00",
+    "importance": 4
   },
   {
     "keyword": "국토교통부 건설",
