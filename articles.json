@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[포토]'흥국전 나서는' 현대건설 조던 - 스타뉴스",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByREJHdjhVQmR1bHJlZGdRakNBZWZ3R3QwX0JMc3hoNi1GdWxCSGZ3bVpMUW9zWElxUm5NaGNUZ2JpZVE2anV5ZnJrWDY1RDl6bUpiekhvS3ozOEpfNDd5ZXNDeDJER0FjNml5WFpCeFU1Ty1fbFE?oc=5",
+    "description": "현대건설 조던이 22일 수원체육관에서 열린 2026-27 V리그 여자부 흥국생명과 현대건설 경기를 앞두고 코트로 나서고 있다. 2026.11.22. 현대건설 조던이 22일 수원체육관에서 열린 2026-27 V리그 여자부 흥국생명과 현대건설 경기를 앞두고 코트로 나서고 있다. 2026.11.22.",
+    "published_at": "2026-11-22T05:49:35+00:00",
+    "cluster_id": "b94b",
+    "publisher": "스타뉴스",
+    "title_clean": "[포토]'흥국전 나서는' 현대건설 조던",
+    "summary": "현대건설 여자배구팀이 2026-27 V리그에서 흥국생명과의 경기를 위해 수원체육관 코트에 나섰다. 스포츠 소식으로 건설업계와 무관한 내용이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T14:52:52+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-17T21:30:37+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한파·결빙에 건설현장 안전 강화…경남도, 1,899곳 집중 점검 - 뉴스후플러스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00X1lsZXRTSkRwUWxyS3ZXNHJWcjN4a2dyUkxuTVVrRm5CS0RfY2t5YWVHMlp4TUx0OEFJX2stY1BHdExLZ2J6OWdVbzhMUHVNOVNMVnBlWXlBazNrdGNlVFhJVTByelI3eUtvbUZR?oc=5",
-    "description": "경상남도가 겨울철 건설현장의 안전사고를 예방하기 위해 도내 공공건설공사 현장 1,899곳을 대상으로 집중 점검에 나선다. 작업장 결빙과 건설장비 사고, 야외근로자의 한랭질환 등 계절적 위험요인을 사전에 확인하고 현장별 안전관리 실태를 살필 계획이다.경남도는 오는 18일부터 12월 8일",
-    "published_at": "2026-11-17T15:30:00+09:00",
-    "cluster_id": "4454",
-    "publisher": "뉴스후플러스",
-    "title_clean": "한파·결빙에 건설현장 안전 강화…경남도, 1,899곳 집중 점검",
-    "summary": "경상남도가 겨울철 건설현장 안전사고 예방을 위해 도내 공공건설공사 1,899곳을 대상으로 집중 점검을 실시한다. 결빙, 건설장비 사고, 한랭질환 등 계절적 위험요인을 사전 확인하여 현장 안전관리 실태를 점검할 예정이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T21:30:37+09:00",
-    "importance": 4
   }
 ]
