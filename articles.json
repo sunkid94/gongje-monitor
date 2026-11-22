@@ -20998,6 +20998,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "4조달러 中 건설시장 문턱 낮아지지만…韓 건설업계 '시큰둥' - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01603926645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "중국이 한국 기업의 건설 프로젝트 참여 제한을 없애기로 했지만 현지 건설경기 침체와 중국 업체들의 가격 경쟁력, 폐쇄적인 사업 관행 등이 걸림돌로 지목된다. 국내 주요 건설사들도 이번 협상에 따른 실질적인 사업...",
+    "published_at": "2026-11-22T13:32:00+09:00",
+    "cluster_id": "4034",
+    "publisher": "edaily.co.kr",
+    "title_clean": "4조달러 中 건설시장 문턱 낮아지지만…韓 건설업계 '시큰둥'",
+    "summary": "중국이 한국 건설사의 시장 진입 제한을 완화했으나, 현지 경기 침체와 중국 업체들의 가격 경쟁력, 폐쇄적 관행으로 인해 실질적 사업 확대는 제한적일 것으로 예상된다. 국내 건설업계는 협상 결과에 대해 미온적인 반응을 보이고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T13:37:52+09:00",
+    "importance": 3
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "한파에도 새벽 작업 그대로?…건설현장 불시점검·위반 시 과태료 - biz.sbs.co.kr",
+    "link": "https://biz.sbs.co.kr/article_hub/20000348022?division=NAVER",
+    "description": "특히 건설노동자, 환경미화 노동자 등 야외 작업이 많은 직군은 한파에 직접 노출되는 만큼 보호조치가 중요합니다. 이번 점검에서는 따뜻한 옷과 쉼터, 따뜻한 물 제공, 작업시간대 조정, 119 신고 등 '한파안전 5대...",
+    "published_at": "2026-11-22T13:35:00+09:00",
+    "cluster_id": "95bc",
+    "publisher": "biz.sbs.co.kr",
+    "title_clean": "한파에도 새벽 작업 그대로?…건설현장 불시점검·위반 시 과태료",
+    "summary": "정부가 한파 시즌에 건설현장과 야외작업장에 대한 불시점검을 강화하고 위반 시 과태료를 부과하겠다고 예고했다. 건설노동자의 안전을 위해 따뜻한 옷, 쉼터, 작업시간 조정 등 '한파안전 5대' 조치 준수를 의무화할 계획이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T13:37:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32260,37 +32292,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-17T18:10:54+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "황희 의원, ‘건설안전제도 혁신방안 정책토론회’ 개최… 현장 중심 안전관리 강화 논의 - 경기매일",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTcEV3ejFjb1JROEhKTVp3YW1xNVFkVzRKdDQ3MG1pUzllTVVhUnRNOE85OUpBXy1BZlR5bHJlZWdmYUt5SXc4LXY3MVh5NXh6VDFlUXJUaEhiVm9QSndHWm9SNmNYbm8?oc=5",
-    "description": "더불어민주당 황희 의원(서울 양천갑, 국회 국토교통위원회)이 주최하고 국토안전관리원(원장 박창근)이 주관한 「사망사고 감축의 현주소, 건설안전제도 혁신방안」 건설",
-    "published_at": "2026-11-17T17:54:42+09:00",
-    "cluster_id": "d2d6",
-    "publisher": "경기매일",
-    "title_clean": "황희 의원, ‘건설안전제도 혁신방안 정책토론회’ 개최… 현장 중심 안전관리 강화 논의",
-    "summary": "황희 의원이 주최하고 국토안전관리원이 주관하여 건설안전제도 혁신방안에 대한 정책토론회를 개최했다. 현장 중심의 안전관리 강화를 논의하여 건설업 사망사고 감축을 추진하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T18:10:54+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[르포] 강원도 태백 임대주택서 만난 李 대통령 큰형 부부 - monthly.chosun.com",
-    "link": "https://monthly.chosun.com/news/articleView.html?idxno=72002",
-    "description": "이 대통령은 2021년 12월 연설에서 \"큰형님은 탄광 광부를 하다 탄광이 문을 닫아서 건설노동을 하다 추락사고를 당해서 왼쪽 다리를 절단했다\"고 밝혔다. 또 \"이번에는 오른쪽 발목까지 절단했다고 며칠 전에 연락이 왔다...",
-    "published_at": "2026-11-17T17:54:00+09:00",
-    "cluster_id": "ef96",
-    "publisher": "monthly.chosun.com",
-    "title_clean": "[르포] 강원도 태백 임대주택서 만난 李 대통령 큰형 부부",
-    "summary": "이 대통령의 큰형이 탄광 폐광 후 건설노동을 하다 추락사고로 다리를 절단한 사연을 다룬 르포 기사. 건설업 현장의 안전사고 위험성을 부각하고 있습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T18:00:34+09:00",
-    "importance": 4
   }
 ]
