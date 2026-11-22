@@ -21015,6 +21015,22 @@
     "importance": 2
   },
   {
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "스스로 움직이는 건설로봇 현장 투입 기준 마련…국토부 인증체계 설계 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tVXNvbTVUU3FiRklXbHRhNzJkTmFTU24zTHFfSFlPQVFKdWloUUJ1eTc5Q1BoLUJVUXVOZXc1LTlvdTYxcjFYRnFxUmdLSE5IOFBKWTZSanRqbkk?oc=5",
+    "description": "실증 잇따르지만 공통 기준 없어…인지·판단·제어 성능과 안전성 평가 투입 후 사후관리·사람 개입 범위도 검토…중장기 로드맵 수립 정부가 스스로 판단해 움직이는 건설로봇의 현장 투입 기준 마련에 나선다. 건설사들의 로봇 실증은 잇따르고 있지만 성능과 안전성을 검증할 공통 기준이 없어서다.",
+    "published_at": "2026-11-22T07:03:00+09:00",
+    "cluster_id": "7ce8",
+    "publisher": "뉴스1",
+    "title_clean": "스스로 움직이는 건설로봇 현장 투입 기준 마련…국토부 인증체계 설계",
+    "summary": "국토부가 자율로봇의 현장 투입 기준을 마련하기 위해 인증체계 설계에 나선다. 건설사들의 로봇 실증은 증가하고 있으나 성능과 안전성을 검증할 공통 기준이 부재한 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T09:37:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32277,21 +32293,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T17:40:05+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "민간 전기공사 발주자도 대금 지급보증...법 개정안 발의 - energy-news.co.kr",
-    "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=229868",
-    "description": "건설산업기본법은 민간 건설공사에서 수급인이 계약이행을 보증하면 발주자도 공사대금 지급을 보증하거나 담보를 제공하도록 규정한다. 전기공사업법에 따른 전기공사는 건설산업기본법상 건설공사의 범위에서...",
-    "published_at": "2026-11-17T17:26:00+09:00",
-    "cluster_id": "2f60",
-    "publisher": "",
-    "title_clean": "민간 전기공사 발주자도 대금 지급보증...법 개정안 발의 - energy-news.co.kr",
-    "summary": "건설산업기본법의 발주자 대금 지급보증 규정이 전기공사에도 동등하게 적용되도록 하는 법 개정안이 발의되었다. 이는 전기공사업체의 계약이행보증에 대응하는 발주자의 책임을 명확히 하려는 조치다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T17:30:22+09:00",
-    "importance": 2
   }
 ]
