@@ -4998,6 +4998,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "체코 두코바니 원전 시공협약 종료…한수원, 새 시공사 찾는다 - 에너지안전신문",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IQjFxOXlFekhBeDU0bU1naUVxTEw2bjlST1RXb0ZfU2VrSnFPTF9lMERrOE8yN3BLdFRycE0xbU1EVGtoblRsN3NZMG9JaEt3VENwS0tkUnBaODlrcThYbERlZ0I?oc=5",
+    "description": "한국수력원자력이 체코 두코바니 신규 원전사업의 주설비공사를 놓고 대우건설·두산에너빌리티 컨소시엄과 맺었던 공동협력 협약을 11월 20일 종료했다. 시공계약 협상이",
+    "published_at": "2026-11-22T10:56:44+09:00",
+    "cluster_id": "2eec",
+    "publisher": "에너지안전신문",
+    "title_clean": "체코 두코바니 원전 시공협약 종료…한수원, 새 시공사 찾는다",
+    "summary": "한수원이 체코 두코바니 원전사업에서 대우건설·두산에너빌리티 컨소시엄과의 공동협력 협약을 11월 20일 종료했다. 시공계약 협상 진전이 없어 새로운 시공사를 찾는 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T11:07:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -20982,20 +20998,20 @@
     "importance": 2
   },
   {
-    "keyword": "포스코이앤씨",
-    "category": "종합건설사",
+    "keyword": "건설수주",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "포스코DX, 그룹사 일감 의존의 한계…자동화 수주 늘어도 이익은 뒷걸음 - popcornnews.net",
-    "link": "http://www.popcornnews.net/news/articleView.html?idxno=140238",
-    "description": "또 포스코이앤씨와 포스코인터내셔널, 포스코퓨처엠 등 다른 그룹 계열사와의 거래에서도 포스코DX 매출의 상당부분을 차지했다. 매출의 대부분이 포스코를 비롯한 그룹 계열사 등 특수관계자와의 거래에서 발생하는...",
-    "published_at": "2026-11-16T17:40:00+09:00",
-    "cluster_id": "e9d6",
-    "publisher": "popcornnews.net",
-    "title_clean": "포스코DX, 그룹사 일감 의존의 한계…자동화 수주 늘어도 이익은 뒷걸음",
-    "summary": "포스코DX가 자동화 수주는 증가하고 있으나 포스코 등 그룹사 일감에 지나치게 의존하면서 이익성이 악화되고 있는 상황이다. 그룹사 의존도 탈피가 경영 과제로 대두되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T17:45:12+09:00",
-    "importance": 4
+    "title": "[CEO&자본] 허윤홍 GS건설, 수주 11조 넘본다 - 자본시장뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JS2o5X2UzVDQzU3hUQ3Q5d3liOHEzaDZOMDRILVRfVV9YbkZsMlVna0dDcmFLWnNhbkhvcWROT0xibHVBalkyY2Rrd21XY19nMmZmOFJxc0ZoaFRSMVBjVUFNLUxwdjA?oc=5",
+    "description": "GS건설이 서울 양천구 목동의 대형 재건축 단지 시공사 선정 총회를 앞두고 창사 이래 최대 정비사업 수주 기록에 바짝 다가섰다. 우선협상대상자로 뽑힌 사업장을 모",
+    "published_at": "2026-11-22T11:00:00+09:00",
+    "cluster_id": "b975",
+    "publisher": "자본시장뉴스",
+    "title_clean": "[CEO&자본] 허윤홍 GS건설, 수주 11조 넘본다",
+    "summary": "GS건설이 서울 양천구 목동 대형 재건축 단지 시공사로 우선협상대상자로 선정되어 창사 이래 최대 규모의 정비사업 수주를 앞두고 있다. 이번 수주로 11조 원대의 수주 기록을 달성할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T11:07:51+09:00",
+    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
