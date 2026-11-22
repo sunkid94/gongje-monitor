@@ -20998,6 +20998,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"영하 날씨에도 얼지 않는다\"…한파 뚫는 '특수 콘크리트' - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01659686645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "삼표가 이처럼 생산 자동화에 공을 들이는 배경에는 건설경기 침체의 장기화가 있다. 레미콘 출하량은 코로나 19 이후에는 2021년 정점을 찍고 4년 넘게 감소 추세다. 김 공장장에 따르면 현재 화성공장은 총 16명의 인력이...",
+    "published_at": "2026-11-22T14:21:00+09:00",
+    "cluster_id": "e701",
+    "publisher": "edaily.co.kr",
+    "title_clean": "\"영하 날씨에도 얼지 않는다\"…한파 뚫는 '특수 콘크리트'",
+    "summary": "삼표가 건설경기 침체 대응으로 생산 자동화에 투자하고 있으며, 레미콘 출하량은 2021년 이후 4년 넘게 감소 추세를 보이고 있다. 한파에도 얼지 않는 특수 콘크리트 등 신제품 개발을 통해 시장 대응을 모색 중이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T14:22:53+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "내년도 제주시 도시건설 예산 936억 '뚝' - jejumaeil.net",
+    "link": "https://www.jejumaeil.net/news/articleView.html?idxno=406982",
+    "description": "\"도지사도 건설경기 부양에 대해 많은 메시지를 냈지만 예산을 보면 결국 말뿐인 것 아니냐\"고 비판했다. 사업이 진행 중인 노선 대신 신규 노선에 예산이 편성된 것을 두고도 의문이 제기됐다. 김덕홍 의원(무소속...",
+    "published_at": "2026-11-22T14:20:00+09:00",
+    "cluster_id": "f35a",
+    "publisher": "jejumaeil.net",
+    "title_clean": "내년도 제주시 도시건설 예산 936억 '뚝'",
+    "summary": "제주시의 내년도 도시건설 예산이 936억 원 감소했으며, 진행 중인 사업 대신 신규 사업에 예산이 편성되어 건설경기 부양 의지가 부족하다는 비판이 제기되었다. 도지사의 건설경기 부양 메시지가 예산에 반영되지 않은 것으로 평가되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T14:22:53+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32260,37 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T19:40:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "하나증권 \"건설주 판 바뀐다…40조원 데이터센터 시장, GS건설에 기회 오... - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505197",
-    "description": "한국건설산업연구원은 2027년 건설수주가 전년 대비 4.1% 증가할 것으로 내다봤다. 공공 부문은 6.3%, 민간 부문은 3.1% 증가할 것으로 예상했다. 건축 분야에서는 주거 부문 수주 증가율이 0.4%에 그치는 반면 비주거 부문은...",
-    "published_at": "2026-11-17T19:18:00+09:00",
-    "cluster_id": "b3ed",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "하나증권 \"건설주 판 바뀐다…40조원 데이터센터 시장, GS건설에 기회 오...",
-    "summary": "2027년 건설수주가 전년 대비 4.1% 증가할 것으로 예상되며, 공공 부문(6.3%)이 민간 부문(3.1%)보다 가파른 성장을 보일 전망이다. 주거 부문은 부진한 반면 데이터센터 등 비주거 부문이 성장 동력으로 떠오르면서 건설업계 판도 변화가 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T19:30:30+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "공간은 유연하게, AI는 안전하게… GS건설 수주 11조 고삐 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54ZnYyd2NQRGQzRlBZcktIMVdHTGNYNXRVUXM0b21hUlIxaWFJbHczcVVMZFZ0YjdWNzZ0YlNGNjR4ZWJ2S0VDOXB5OW9QVGJYTWxzazYwMGNIUQ?oc=5",
-    "description": "GS건설이 2년 만에 발표한 중장기 비전에서 '집이라는 한계를 뛰어 넘겠다'는 의미의 '비욘드 리빙'을 제시했다. 올해 정비사업 수주 목표액은 기존 8조원에서 11조원으로 상향했다.",
-    "published_at": "2026-11-17T10:00:00+09:00",
-    "cluster_id": "c95b",
-    "publisher": "파이낸셜뉴스",
-    "title_clean": "공간은 유연하게, AI는 안전하게… GS건설 수주 11조 고삐",
-    "summary": "GS건설이 '비욘드 리빙' 중장기 비전을 발표하며 올해 정비사업 수주 목표를 8조원에서 11조원으로 상향했다. 주거 공간의 유연성과 AI 안전성을 강조한 새로운 사업 방향을 제시했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T19:05:36+09:00",
-    "importance": 2
   }
 ]
