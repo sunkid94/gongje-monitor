@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "겨울철 한랭질환 재해 막는다…노동부, 한파 취약사업장 점검 - yna.co.kr",
+    "link": "https://www.yna.co.kr/view/AKR20261121021700530?input=1195m",
+    "description": "특히, 건설노동자, 환경미화 노동자 등 장시간 야외에서 일하는 직군은 한파의 영향을 직접적으로 받는 만큼 각별한 보호가 필요하다. 이번 집중점검에서는 따뜻한 옷, 따뜻한 쉼터, 따뜻한 물, 작업시간대 조정, 119 신고...",
+    "published_at": "2026-11-22T12:00:00+09:00",
+    "cluster_id": "e0d5",
+    "publisher": "yna.co.kr",
+    "title_clean": "겨울철 한랭질환 재해 막는다…노동부, 한파 취약사업장 점검",
+    "summary": "노동부가 겨울철 한랭질환 예방을 위해 건설노동자, 환경미화 노동자 등 야외작업 종사자를 대상으로 한파 취약사업장에 대한 집중점검을 실시한다. 따뜻한 의류, 쉼터, 음료 제공 및 작업시간 조정 등 안전보호 조치를 강화할 계획이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T12:07:43+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "summary": "태영건설이 영업이익은 증가했으나 1000억원을 초과하는 금융비용과 각종 손실로 인해 509억원의 적자를 기록했다. 건설업계의 고금리 환경에서 차입금 이자 부담이 경영 악화의 주요 요인으로 작용하고 있다.",
     "sentiment": "negative",
     "collected_at": "2026-11-17T18:00:34+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "강원도, '건산법 위반' 현대아산에 과태료 2건 부과 - goodkyung.com",
-    "link": "https://www.goodkyung.com/news/articleView.html?idxno=293560",
-    "description": "현대아산(대표 이백훈)이 건설산업기본법(건산법)을 위반해 과태료 처분 2건을 받은 것으로 확인됐다. 17일 강원특별자치도에 따르면 현대아산에 대해 건산법상 '하도급 통지의무 불이행'으로 과태료 2건을 처분했다....",
-    "published_at": "2026-11-17T17:40:00+09:00",
-    "cluster_id": "7d67",
-    "publisher": "goodkyung.com",
-    "title_clean": "강원도, '건산법 위반' 현대아산에 과태료 2건 부과",
-    "summary": "현대아산이 건설산업기본법 위반으로 강원도로부터 하도급 통지의무 불이행에 대한 과태료 2건을 처분받았다. 이는 건설업계의 법규 준수 의무 강화 및 규제 집행 사례를 보여주는 사건이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-17T17:50:57+09:00",
     "importance": 4
   }
 ]
