@@ -20913,6 +20913,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "캔자스시티 도심 데이터센터안 부결…루커스 시장은 신규 유예 지지 - tokenpost.kr",
+    "link": "https://www.tokenpost.kr/news/policy/442565",
+    "description": "광역 캔자스시티 건설노동협의회는 유예가 도제 교육 기회를 줄인다며 반대 입장을 밝혔다. 척 케이슬리(Chuck Caisley) 에버지(Evergy) 최고고객책임자는 일시 중단이 “최선의 수단은 아니다”라며, 개발업체와 학교 지원...",
+    "published_at": "2026-11-23T03:28:00+09:00",
+    "cluster_id": "b237",
+    "publisher": "tokenpost.kr",
+    "title_clean": "캔자스시티 도심 데이터센터안 부결…루커스 시장은 신규 유예 지지",
+    "summary": "캔자스시티 도심 데이터센터 프로젝트가 부결되었으나 루커스 시장이 신규 유예를 지지하면서 재추진 가능성이 열렸다. 건설노동협의회와 에너지사는 유예에 반대 의견을 제시하고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-23T03:37:50+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-18T08:09:45+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[안전과 미래] 건설안전전문기관과 현장 안전 - daejonilbo.com",
-    "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2314245",
-    "description": "건설경기 침체로 신규 착공이 감소하면서 재해예방기술지도 대상 현장도 줄고 있는 반면, 안전지도사의 재해예방기술지도 참여가 급속히 증가하면서 제한된 물량을 둘러싼 경쟁은 더욱 치열해지고 있는 실정이다. 문제는...",
-    "published_at": "2026-11-18T07:00:00+09:00",
-    "cluster_id": "9171",
-    "publisher": "daejonilbo.com",
-    "title_clean": "[안전과 미래] 건설안전전문기관과 현장 안전",
-    "summary": "건설경기 침체로 신규 착공이 감소하면서 재해예방기술지도 대상 현장이 줄어들고 있다. 동시에 안전지도사의 참여는 증가하면서 제한된 물량을 놓고 경쟁이 심화되고 있는 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-18T07:10:22+09:00",
-    "importance": 4
   }
 ]
