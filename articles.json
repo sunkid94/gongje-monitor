@@ -20930,6 +20930,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "'관저 이전 특혜' 김건희·윤한홍, 오늘 첫 정식 공판 - news1.kr",
+    "link": "https://www.news1.kr/society/court-prosecution/6362197",
+    "description": "윤 의원은 21그램 측에 다른 건설업체의 상호를 사용해 건설 공사를 수급·시공하게 하는 행위를 알선한 혐의(건설산업기본법 위반)도 받는다. 21그램은 김 여사가 운영한 코바나컨텐츠 주최 전시회를 후원하고 사무실...",
+    "published_at": "2026-11-23T07:24:00+09:00",
+    "cluster_id": "7038",
+    "publisher": "news1.kr",
+    "title_clean": "'관저 이전 특혜' 김건희·윤한홍, 오늘 첫 정식 공판",
+    "summary": "윤석열 대통령 부인 김건희와 윤한홍 의원이 관저 이전 특혜 의혹 관련 첫 정식 공판에 출석한다. 윤 의원은 건설산업기본법 위반 혐의로 다른 업체 상호를 사용한 공사 수급·시공 알선 행위가 적발되었다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-23T07:27:52+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32272,21 +32288,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-18T09:25:32+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대한제강 내년부터 신평공장 불 끈다…\"고정비 절감\" - snmnews.com",
-    "link": "http://www.snmnews.com/news/articleView.html?idxno=577557",
-    "description": "생산중단사유로는 건설경기 침체 장기화에 따른 가동률 하락과 원가부담 영향이란 설명이다. 실제 올 3분기까지 신평공장 압연라인 가동률은 평균 45%로 녹산공장(80%)과 평택공장(67%)과 비교해 현저히 낮은 수준에...",
-    "published_at": "2026-11-18T08:58:00+09:00",
-    "cluster_id": "4c8b",
-    "publisher": "snmnews.com",
-    "title_clean": "대한제강 내년부터 신평공장 불 끈다…\"고정비 절감\"",
-    "summary": "대한제강이 내년부터 신평공장 생산을 중단하기로 결정했다. 건설경기 침체로 가동률이 45% 수준으로 저조하고 원가 부담이 커졌기 때문이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-18T09:10:07+09:00",
-    "importance": 4
   }
 ]
