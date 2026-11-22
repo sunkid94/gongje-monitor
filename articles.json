@@ -4930,6 +4930,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "인천시, 김장으로 ' 사랑과 상생 ' …민관 협력 나눔 13년째 - ic.newdaily.co.kr",
+    "link": "https://ic.newdaily.co.kr/site/data/html/2026/11/23/2026112350006.html",
+    "description": "올해는 인천사회복지공동모금회와 이마트 인천권역, 신한은행 인천지역본부, 인천관광공사, 농협중앙회 인천본부, 포스코이앤씨, 포스코인터내셔널, 한국가스공사 인천지역본부, 인천교통공사 등이 후원에 참여했다....",
+    "published_at": "2026-11-23T06:20:00+09:00",
+    "cluster_id": "c452",
+    "publisher": "ic.newdaily.co.kr",
+    "title_clean": "인천시, 김장으로 ' 사랑과 상생 ' …민관 협력 나눔 13년째",
+    "summary": "인천시가 사회복지공동모금회, 이마트, 신한은행 등 9개 기관과 함께 13년째 김장 나눔 사업을 진행하고 있다. 민관 협력을 통한 사회 공헌 활동으로, 건설업계와 직접적인 관련성이 없는 사회복지 뉴스이다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-23T06:22:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20912,22 +20928,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-17T06:29:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "10대 건설사 정비사업 수주 '역대급'…연말 60조 넘본다 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261116_0003869460",
-    "description": "대우건설은 11개 사업장에서 5조3422억원을 확보해 2022년 최대 실적(5조2759억원)을 넘어섰다. 목동8단지 재건축(1조1119억원)에 더해 신월시영(1조2565억원)까지 더해지면 7조원을 훌쩍 넘어설 수 있다. 포스코이앤씨는...",
-    "published_at": "2026-11-17T06:00:00+09:00",
-    "cluster_id": "a962",
-    "publisher": "newsis.com",
-    "title_clean": "10대 건설사 정비사업 수주 '역대급'…연말 60조 넘본다",
-    "summary": "대우건설을 포함한 10대 건설사들이 정비사업(재건축·재개발) 수주에서 역대급 실적을 올리고 있으며, 연말까지 60조원대 수주 달성이 예상되고 있다. 대우건설은 이미 5조3000억원을 확보해 전년 최대 실적을 갱신했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-17T06:08:39+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
