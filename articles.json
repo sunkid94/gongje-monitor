@@ -4913,6 +4913,22 @@
     "importance": 7
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "청약 관심 이어졌다…아크메르 동탄 선착순 계약 현장에 방문객 발길 지... - ppss.kr",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=322275",
+    "description": "아크메르 동탄은 KB부동산신탁이 시행하고 포스코이앤씨가 시공한다. 화성시 동탄구 반송동 일원에 지하 7층~지상 최고 49층, 7개 동 규모로 조성될 예정이다. 두 블록에 걸쳐 총 1,808가구가 들어서며, 입주 예정 시기는...",
+    "published_at": "2026-11-22T23:42:00+09:00",
+    "cluster_id": "0f80",
+    "publisher": "ppss.kr",
+    "title_clean": "청약 관심 이어졌다…아크메르 동탄 선착순 계약 현장에 방문객 발길 지...",
+    "summary": "KB부동산신탁 시행, 포스코이앤씨 시공의 아크메르 동탄 프로젝트가 화성 동탄구에서 진행 중이다. 7개 동 규모의 1,808가구 대규모 주택단지로 청약 수요가 지속되고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T23:47:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20895,22 +20911,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-17T01:00:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "아직도 못 돌아온 한국인 9명… 현지 주민들 여전히 피난 생활 - kmib.co.kr",
-    "link": "https://www.kmib.co.kr/article/20261116502041",
-    "description": "두산에너빌리티는 매몰 지역을 중심으로 수습 작업을 진행 중이다. 사고 초기에는 50여명을 단계적으로 파견하고 헬기, 드론 등을 동원한 ‘비상대응체계’를 가동했지만 지금은 ‘현장운영체계’로 전환했다. 사고...",
-    "published_at": "2026-11-16T23:32:00+09:00",
-    "cluster_id": "7cd5",
-    "publisher": "kmib.co.kr",
-    "title_clean": "아직도 못 돌아온 한국인 9명… 현지 주민들 여전히 피난 생활",
-    "summary": "두산에너빌리티 사고로 한국인 9명이 여전히 실종된 상태이며, 현지 주민들도 피난 생활을 계속하고 있다. 회사는 비상대응체계에서 현장운영체계로 전환하여 수습 작업을 진행 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T23:41:01+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설수주",
