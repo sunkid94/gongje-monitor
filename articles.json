@@ -4913,6 +4913,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "수주잔고 꽉 채운 대우건설, 영업이익 1년새 3배 쑥 - fnnews.com",
+    "link": "https://www.fnnews.com/news/202611221819376292",
+    "description": "대우건설의 올해 3·4분기 영업이익이 지난해 같은 기간의 3배를 넘었다. 대우건설은 수익성 중심의 사업 운영으로 실적 개선세를 이어가고 있다. 서울 노량진과 자양동 등 수도권 주요 개발사업의 착공을 추진해 매출을...",
+    "published_at": "2026-11-22T18:20:00+09:00",
+    "cluster_id": "ed67",
+    "publisher": "fnnews.com",
+    "title_clean": "수주잔고 꽉 채운 대우건설, 영업이익 1년새 3배 쑥",
+    "summary": "대우건설이 수익성 중심의 사업 운영으로 올해 3·4분기 영업이익이 지난해 같은 기간 대비 3배 이상 증가했다. 수도권 주요 개발사업 착공 추진 등으로 수주잔고를 확충하며 실적 개선세를 지속하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T18:22:57+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20895,22 +20911,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-16T22:00:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 도시정비사업 역대 최대 실적 달성 - newsway.co.kr",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026111621372200352",
-    "description": "대우건설이 올해 도시정비사업 수주액 5조3000억원을 돌파하며 창사 이래 최대 실적을 달성했다. 16일 정비업계에 따르면 대우건설은 지난 14일 열린 서울 영등포구 여의도동 화랑아파트 소규모재건축사업...",
-    "published_at": "2026-11-16T21:40:00+09:00",
-    "cluster_id": "3ff5",
-    "publisher": "newsway.co.kr",
-    "title_clean": "대우건설, 도시정비사업 역대 최대 실적 달성",
-    "summary": "대우건설이 도시정비사업에서 수주액 5조3000억원을 달성하며 창사 이래 최대 실적을 기록했다. 여의도동 화랑아파트 소규모재건축사업 등을 수주하며 도시정비 시장에서 주도적 위치를 확보했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T21:50:40+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설경기",
