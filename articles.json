@@ -4998,6 +4998,22 @@
     "importance": 5
   },
   {
+    "keyword": "삼성중공업",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "삼성중공업, 인도 조선소 투자 검토…32억달러 선박 22척 수주전 주목 - 해사신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vd2F1VlRVQmVvb0hiNWo1QTNLUFBVaUdtVnZwNVZVNmRndmNRWG4tTG9OeGtYRGN3U1Z2UFp2RVphVmZMQVIwZDUtV2ZUYVc0WHpIeWp5VWhEWDJWT1hhSGF6UHUyUG5kSllv?oc=5",
+    "description": "삼성중공업이 인도 조선소와의 협력을 통한 현지 생산거점 확보를 검토하고 있다. 인도 정부가 조선산업 육성을 위해 대규모 선박 발주와 조선 클러스터 조성을 추진하는 가운데, 최대 32억달러 규모의 국영 해운공사 선박 22척 건조 사업이 한국 조선업계의 인도 진출 기회로 부상하고 있다.인도 경제지 민트(Mint)는 지난 18일 삼성중공업이 구자라트주 피파바브 조선소를 운영하는 스완 디펜스 앤드 헤비 인더스트리스(SDHI)와 협력을 확대하고, 공동 선박 건조를 위한 투자 협약으로 발전시키는 방안을 검토하고 있다고 보도했다. 국내 조선소의",
+    "published_at": "2026-11-22T10:49:00+09:00",
+    "cluster_id": "318b",
+    "publisher": "해사신문",
+    "title_clean": "삼성중공업, 인도 조선소 투자 검토…32억달러 선박 22척 수주전 주목",
+    "summary": "삼성중공업이 인도 조선소와의 협력을 통해 현지 생산거점 확보를 검토하고 있으며, 인도 국영 해운공사의 32억달러 규모 선박 22척 건조 사업이 한국 조선업계의 주요 수주 기회로 주목되고 있다. 인도 정부의 조선산업 육성 정책과 대규모 선박 발주 추진이 한국 조선업체의 해외 진출과 수주 확대를 견인하는 상황이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-22T10:57:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20980,22 +20996,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-16T17:45:12+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "롯데건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "롯데에 부는 '40대 여풍'…MD·마케팅 베테랑 대거 발탁 - www.ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNTdTOENSX01FVTdtWWJvV2oxaEd4OVo4TDdSNmp0bDR4WU85cHRvOFhWVlhHeEFQTGI5ZndXNmhGUjZ1MVBkdzlzNGtzWHBRV2ZlSV9jakd6N01qRVp1NDlDOFhRNDZi?oc=5",
-    "description": "롯데그룹이 16일 단행한 '2027년 정기 임원인사'를 통해 40대 여성 인재를 전면에 내세웠다. 상품기획(MD)과 마케팅, 영업, 방송 제작 등 현장에서 전문성",
-    "published_at": "2026-11-16T16:42:33+09:00",
-    "cluster_id": "b039",
-    "publisher": "www.ebn.co.kr",
-    "title_clean": "롯데에 부는 '40대 여풍'…MD·마케팅 베테랑 대거 발탁",
-    "summary": "롯데그룹이 2027년 정기 임원인사에서 40대 여성 인재를 대거 발탁하여 MD, 마케팅, 영업 등 현장 전문직에 배치했다. 이는 그룹의 인사 다양성 및 세대교체 전략을 보여주는 조직 개편이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-16T17:45:12+09:00",
-    "importance": 2
   },
   {
     "keyword": "국토교통부 건설",
