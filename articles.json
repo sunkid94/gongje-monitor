@@ -4930,6 +4930,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "잠실 43억원 아파트가 18억원대에?… 래미안아이파크 청약 조건·일정 보... - ggilbo.com",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1194016",
+    "description": "잠실 래미안아이파크는 서울 송파구 신천동 옛 잠실진주아파트를 재건축한 단지다. 삼성물산과 HDC현대산업개발이 시공했으며, 지하 4층~지상 최고 35층, 23개 동, 총 2678가구 규모로 조성됐다.",
+    "published_at": "2026-11-22T17:10:00+09:00",
+    "cluster_id": "b98d",
+    "publisher": "ggilbo.com",
+    "title_clean": "잠실 43억원 아파트가 18억원대에?… 래미안아이파크 청약 조건·일정 보...",
+    "summary": "잠실 래미안아이파크는 옛 잠실진주아파트를 재건축한 대규모 단지로, 삼성물산과 HDC현대산업개발이 시공했다. 지하 4층~지상 35층, 23개 동, 2678가구 규모로 조성되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T17:12:54+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20914,20 +20930,20 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "국토교통부 건설",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "[비즈투데이] 삼성중공업, LNG운반선 1척 3천424억 원 수주 - obsnews.co.kr",
-    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543943",
-    "description": "삼성중공업은 오세아니아 지역 선주로부터 LNG운반선 한 척을 3천424억 원에 수주했다고 공시했습니다. 삼성중공업의 올해 상선 부문 수주 실적은 47척, 83억 달러로 수주 목표 57억 달러의 146%를 달성했습니다....",
-    "published_at": "2026-11-16T20:20:00+09:00",
-    "cluster_id": "745a",
-    "publisher": "obsnews.co.kr",
-    "title_clean": "[비즈투데이] 삼성중공업, LNG운반선 1척 3천424억 원 수주",
-    "summary": "삼samsung중공업이 오세아니아 지역 선주로부터 LNG운반선 1척을 3,424억 원에 수주했습니다. 올해 상선 부문 수주 실적이 47척 83억 달러로 목표 대비 146%를 달성하며 호실적을 기록했습니다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-16T20:30:11+09:00",
-    "importance": 2
+    "title": "새만금 국제공항 건설 중단 국토부.정치권 책임론 부상 - 전북도민일보",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmk5ZExrY096Q3lPUUo4b3pnWTZxdm5yX0lQV0E1OTNYdENrNGVFaU1oaVF2TzhLVDloMkxja0o2WDNpc3NISnNJaV9FN1NqZEVKVnlsRFEzeUc4Y1JYV3dUU1BZLUR5NmVNS0ZPaG41Yk1XR3Q4WE9VLS1rS0hHcUZubldGMzQ?oc=5",
+    "description": "법원이 항소심에서도 새만금국제공항 개발사업 기본계획을 취소하라는 판결을 내리면서 국토교통부, 전북 정치권에 대한 책임론이 부상하고 있다.전북도와 정치권은 법원의 2심 판결 후 다각적으로 대책 마련에 나서고 있지만 뾰족한 해법을 찾기는 쉽지 않다는 것이 관계자들의 설명이다. 국토교통부가 법원의 새만금 국제공항 개발사업 중단 판결에 곧바로 대법원에 상고 뜻을 분명히 밝혔지만 쉽지 않다는 것이 중론이다.이런 상황속에 최근 전북 정치권은 국회 윤준병 의원실에서 법원 판결에 따른 후속 대책 마련을 위해 모임을 가졌다. 이 자리에서 국토교통부",
+    "published_at": "2026-11-22T17:10:00+09:00",
+    "cluster_id": "ad47",
+    "publisher": "전북도민일보",
+    "title_clean": "새만금 국제공항 건설 중단 국토부.정치권 책임론 부상",
+    "summary": "법원이 항소심에서 새만금 국제공항 개발사업 기본계획 취소 판결을 내리면서 국토부와 전북 정치권의 책임론이 제기되고 있다. 국토부는 대법원 상고를 예정하고 있으나 사업 진행이 불확실한 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T17:12:54+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
