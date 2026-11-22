@@ -20930,6 +20930,22 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "대우건설, 계약부터 설계까지 활용 확대…'AI 네이티브' 전환 가속 - news1.kr",
+    "link": "https://www.news1.kr/realestate/general/6361325",
+    "description": "대우건설(047040)이 이같은 인공지능(AI) 기반 기술과 디지털 전환(DX)을 앞세워 현장 중심의 스마트건설 기술 혁신을 추진하고 있다. AI를 단순 보조 도구가 아닌 계약·견적·설계·조달·안전관리 전반에 접목하는 'AI...",
+    "published_at": "2026-11-23T06:30:00+09:00",
+    "cluster_id": "550f",
+    "publisher": "news1.kr",
+    "title_clean": "대우건설, 계약부터 설계까지 활용 확대…'AI 네이티브' 전환 가속",
+    "summary": "대우건설이 AI를 계약·견적·설계·조달·안전관리 등 건설 전 과정에 통합하는 'AI 네이티브' 전환을 추진 중이다. 현장 중심의 스마트건설 기술 혁신을 통해 디지털 전환을 가속화하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-23T06:32:58+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32270,22 +32286,6 @@
     "title_clean": "하우빌드, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’ 참가",
     "summary": "하우빌드가 11월 25~27일 경기 고양시 킨텍스에서 개최되는 '2026 스마트건설·안전·AI 엑스포'에 참가한다. IT 기반의 스마트건설 기술 전시를 통해 건설 시장의 디지털 혁신을 선도할 계획이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-18T09:10:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "미래아이티, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가 - woodkorea.co.kr",
-    "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92622",
-    "description": "AI 전문 기업 미래아이티㈜가 오는 25일부터 27일까지 개최되는 '2026 스마트건설·안전·AI 엑스포'에 참가한다. 미래아이티㈜는 IoT·빅데이터·인공지능(AI) 기술을 바탕으로 산업안전과 재난안전 분야의 모니터링·예방...",
-    "published_at": "2026-11-18T09:00:00+09:00",
-    "cluster_id": "f386",
-    "publisher": "woodkorea.co.kr",
-    "title_clean": "미래아이티, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가",
-    "summary": "AI 전문 기업 미래아이티가 25-27일 개최되는 '2026 스마트건설·안전·AI 엑스포'에 참가하여 IoT, 빅데이터, AI 기술 기반의 산업안전 및 재난안전 모니터링·예방 솔루션을 선보인다. 스마트건설과 안전기술 발전을 통한 건설업계의 혁신을 추진하는 사례로 평가된다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-18T09:10:07+09:00",
     "importance": 2
   }
