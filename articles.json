@@ -20913,6 +20913,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "레미콘값 다시 올랐다…대형 건설사 공사비 상승 압력 - etoday.co.kr",
+    "link": "https://www.etoday.co.kr/news/view/2651135",
+    "description": "한 대형 건설사 관계자는 “레미콘은 시멘트뿐 아니라 여러 원재료와 운송 여건에 따라 가격이 결정되는 만큼 특정 자재의 가격이 안정됐다고 전체 단가가 내려가는 것은 아니다”라며 “올해는 건설경기 부진에도...",
+    "published_at": "2026-11-23T06:00:00+09:00",
+    "cluster_id": "0098",
+    "publisher": "etoday.co.kr",
+    "title_clean": "레미콘값 다시 올랐다…대형 건설사 공사비 상승 압력",
+    "summary": "레미콘 가격이 다시 상승하면서 대형 건설사들이 공사비 상승 압력을 받고 있다. 시멘트뿐 아니라 원재료와 운송 여건 등 여러 요인이 복합적으로 작용하면서 건설경기 부진 속에서도 단가 인하가 어려운 상황이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-23T06:02:56+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-18T08:40:09+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대구시, 대형건설사·지역 전문건설업체 상생협력 ‘매칭 교류회’ - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2649526",
-    "description": "교류회는 장기적인 건설경기 침체와 신규공사 물량 감소로 어려움을 겪고 있는 지역 건설업체의 수주 기회를 확대하고, 대형 건설사와의 상생협력 기반을 위해 마련됐다. 대구시는 8월 13일 제3차 비상경제대책회의를...",
-    "published_at": "2026-11-18T08:20:00+09:00",
-    "cluster_id": "c51b",
-    "publisher": "etoday.co.kr",
-    "title_clean": "대구시, 대형건설사·지역 전문건설업체 상생협력 ‘매칭 교류회’",
-    "summary": "대구시가 장기적인 건설경기 침체로 어려움을 겪는 지역 건설업체의 수주 기회 확대를 위해 대형건설사와의 상생협력 매칭 교류회를 개최한다. 신규공사 물량 감소 속에서 지역 전문건설업체의 경영 안정화를 도모하는 정책 추진.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-18T08:29:54+09:00",
-    "importance": 3
   }
 ]
