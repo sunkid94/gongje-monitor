@@ -20913,6 +20913,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[프리존 TV] 새솔역부터 버스·택시까지…오진택 의원, 교통 대책 촉구 - newsfreezone.co.kr",
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720676",
+    "description": "[김경훈 기자]건설노동자의 퇴직공제금 미납을 막을 관리체계와 지역 도로사업의 설계비 확보를 요구했습니다.  경기국제공항은 추진 실적과 사업의 실효성을 따져 물었고, 경기평택항만공사에는 반복되는 복무규정 위반...",
+    "published_at": "2026-11-22T18:46:00+09:00",
+    "cluster_id": "272b",
+    "publisher": "newsfreezone.co.kr",
+    "title_clean": "[프리존 TV] 새솔역부터 버스·택시까지…오진택 의원, 교통 대책 촉구",
+    "summary": "오진택 의원이 건설노동자 퇴직공제금 미납 방지를 위한 관리체계 강화와 지역 도로사업 설계비 확보를 촉구했습니다. 경기국제공항 사업 실효성 검토와 경기평택항만공사의 복무규정 위반 문제 등을 지적하며 관련 기관의 개선을 요구했습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-22T18:47:51+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-18T00:30:27+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "주택 전망 반등에도 신규사업 한파 여전 - kado.net",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2085488",
-    "description": "강원지역 전체 건설수주도 올해 3분기 전년 동기보다 45.5% 감소했다. 주택사업경기 전망이 반등했지만 민간의 자금난과 신규 공공주택 사업 공백이 이어지는 만큼 기대심리가 실제 착공과 공급 확대로 연결될지는...",
-    "published_at": "2026-11-18T00:08:00+09:00",
-    "cluster_id": "b25f",
-    "publisher": "kado.net",
-    "title_clean": "주택 전망 반등에도 신규사업 한파 여전",
-    "summary": "강원지역 건설수주가 3분기 전년 동기 대비 45.5% 감소하며 부진이 지속되고 있다. 주택사업 전망은 개선되었으나 민간 자금난과 공공주택 사업 공백으로 인해 실제 수주 증가로의 전환 가능성이 불투명한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-18T00:16:00+09:00",
-    "importance": 4
   }
 ]
