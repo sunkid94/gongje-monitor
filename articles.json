@@ -20913,6 +20913,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "강남구, 공사장 안전관리 촘촘히…관계자 400명 특별교육 - 서프라이즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SQ1Q4N3ZSRFhaX05tcmFrTTZTVHlOc1k1SjFuSHV2Nkp1NFJRUjNWNFhFTFVNejRQb0NteDRDRWVmQVF5WjNqdU81LV93VHV5T3E3alFyR0YzbVRsTGQwemRPZ0M1azhEY2E5azNB?oc=5",
+    "description": "[서프라이즈뉴스] 강남구가 11월 26일 강남구민회관 2층 대강당에서 관내 신축 건축공사장 관계자 약 400명을 대상으로 하반기 특별안전교육을 실시한다.실제 사고사례를 중심으로 현장 위험요인을 짚고 사고 예방을 위한 안전관리 역량을 높이는 데 초점을 맞춘다.강남구에는 현재 건축공사장 397곳이 있다.이 가운데 신축공사장은 238곳이다.연면적 1만㎡ 이상 또는 공사비 50억원 이상인 대형 공사장이 87곳, 중·소형 공사장이 151곳에 달한다.서울 자치구 가운데 건축공사장이 많은 지역 특성을 고려해 공사 단계별 안전교육과 현장관리를 강",
+    "published_at": "2026-11-23T05:37:50+09:00",
+    "cluster_id": "4492",
+    "publisher": "서프라이즈뉴스",
+    "title_clean": "강남구, 공사장 안전관리 촘촘히…관계자 400명 특별교육",
+    "summary": "강남구가 11월 26일 신축 건축공사장 관계자 400명을 대상으로 하반기 특별안전교육을 실시한다. 현재 강남구 내 건축공사장 397곳(신축 238곳) 중 대형 87곳, 중소형 151곳을 운영 중이며, 실제 사고사례 중심의 안전관리 역량 강화에 초점을 맞추고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-23T05:52:59+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32271,21 +32287,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-18T08:29:54+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"가정용 보일러 시장 한계\"…경동나비엔, 상업용 진출 통할까 - ezyeconomy.com",
-    "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241940",
-    "description": "17일 업계에 따르면 국내 보일러 시장은 주택 건설경기 둔화와 신규 주택 공급 위축 등으로 내수 성장에 한계를 보이고 있다. 특히 가정용 보일러는 주택 신축과 노후 설비 교체 수요에 영향을 받는 만큼 시장 규모를...",
-    "published_at": "2026-11-18T08:00:00+09:00",
-    "cluster_id": "1083",
-    "publisher": "ezyeconomy.com",
-    "title_clean": "\"가정용 보일러 시장 한계\"…경동나비엔, 상업용 진출 통할까",
-    "summary": "국내 가정용 보일러 시장이 주택건설 둔화와 신규 공급 위축으로 성장 한계를 맞이하고 있다. 경동나비엔이 이러한 내수 시장의 포화에 대응하기 위해 상업용 보일러 사업 진출을 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-18T08:09:45+09:00",
-    "importance": 4
   }
 ]
