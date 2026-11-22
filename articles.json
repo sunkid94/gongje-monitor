@@ -4998,6 +4998,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "박찬대 인천시장, 김장나눔 대축제 참여...취약계층 겨울나기 지원 - ajunews.com",
+    "link": "https://www.ajunews.com/view/20261122124653707",
+    "description": "또한 포스코이앤씨와 포스코인터내셔널, 한국가스공사 인천지역본부, 인천교통공사 등도 후원에 참여해 기업과 공공기관이 함께하는 민관 협력의 폭을 넓혔다. 인천시 공직자들도 급여우수리 모금을 통해 마련한...",
+    "published_at": "2026-11-22T13:24:00+09:00",
+    "cluster_id": "8251",
+    "publisher": "ajunews.com",
+    "title_clean": "박찬대 인천시장, 김장나눔 대축제 참여...취약계층 겨울나기 지원",
+    "summary": "박찬대 인천시장이 김장나눔 대축제에 참여하여 취약계층의 겨울나기를 지원했다. 포스코이앤씨, 한국가스공사 등 기업과 공공기관이 후원에 참여하며 민관 협력을 강화했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-22T13:27:42+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20980,22 +20996,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-16T18:10:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[아주부동산 PICK] 서울 집값 상승폭 석 달째 둔화… 강남·서초 하락세... - ajunews.com",
-    "link": "https://www.ajunews.com/view/20261116165110032",
-    "description": "지난 9월 현장설명회에는 현대건설과 포스코이앤씨, IPARK현대산업개발, 제일건설 등 4곳이 참석했지만 실제 입찰에는 현대건설만 참여했다. [아주초대석] 김석희 빌드하다 대표 \"집 지으면 10년 늙는다? 건축 분쟁부터...",
-    "published_at": "2026-11-16T17:50:00+09:00",
-    "cluster_id": "e66f",
-    "publisher": "ajunews.com",
-    "title_clean": "[아주부동산 PICK] 서울 집값 상승폭 석 달째 둔화… 강남·서초 하락세...",
-    "summary": "서울 집값 상승폭이 3개월째 둔화되고 강남·서초 지역이 하락세를 보이는 등 부동산 시장이 약세를 나타내고 있다. 건설사 입찰 참여도 저조해 수주 경기 위축 우려가 높아지고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-16T17:55:08+09:00",
-    "importance": 4
   },
   {
     "keyword": "건설현장 안전",
