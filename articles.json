@@ -20998,6 +20998,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "'산업기반 투자' 울산 건설경기 활로 주목 - ujeil.com",
+    "link": "http://www.ujeil.com/news/articleView.html?idxno=395732",
+    "description": "울산 건설경기가 주택시장 부진과 산업 인프라 투자 확대라는 엇갈린 흐름 속에서 새로운 전환점을 맞고 있다. 미분양 물량이 감소했지만 주택 재고 부담과 신규 공급 확대에 따른 수급 불균형 우려는 여전하다. 이...",
+    "published_at": "2026-11-23T20:42:00+09:00",
+    "cluster_id": "56bf",
+    "publisher": "ujeil.com",
+    "title_clean": "'산업기반 투자' 울산 건설경기 활로 주목",
+    "summary": "울산 건설경기가 주택시장 부진 속에서도 산업 인프라 투자 확대로 새로운 전환점을 맞고 있다. 미분양 물량 감소는 긍정적이나, 주택 재고 부담과 수급 불균형 우려는 지속되고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-23T20:51:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-19T14:00:23+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "라스트마일, '2026 스마트건설·안전·AI 엑스포' 참가 - gokorea.kr",
-    "link": "https://www.gokorea.kr/news/articleView.html?idxno=886398",
-    "description": "스마트폰 기반 실내 측위 및 인공지능 시설물 점검 스타트업 라스트마일(대표 김영진)이 오는 25일부터 27일까지 킨텍스 제1전시장에서 열리는 '2026 스마트건설·안전·AI 엑스포'에 참가한다 최근 중소벤처기업부의...",
-    "published_at": "2026-11-19T13:50:00+09:00",
-    "cluster_id": "1c1f",
-    "publisher": "gokorea.kr",
-    "title_clean": "라스트마일, '2026 스마트건설·안전·AI 엑스포' 참가",
-    "summary": "스마트폰 기반 실내 측위 및 AI 시설물 점검 스타트업 라스트마일이 '2026 스마트건설·안전·AI 엑스포'에 참가한다. 이는 건설산업의 디지털화·지능화 추진을 보여주는 사례로, 첨단기술 도입을 통한 안전성 강화 및 효율성 개선을 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-19T14:00:23+09:00",
-    "importance": 3
   }
 ]
