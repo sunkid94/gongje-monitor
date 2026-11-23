@@ -20998,6 +20998,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "쌍용건설, '2300억 규모' 부산 거제2구역 재건축 수주 - 뉴스웨이브",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oSUVnbTBKZDN3bGxOREpHT0ppZno0T0dNQkFrd2FQTHhvWDBLYnYtT1ZlQnBQODA5dzZld2MzanE5U0JMZS1GVzFhODBkbmc5VE1TVDBzUDFSSHpwUDRNVVJZZWw0SVBoVEE?oc=5",
+    "description": "뉴스웨이브 = 송채은 기자쌍용건설이 2300억원 규모 부산 거제2구역 재건축정비사업을 따냈다. 국내 도시정비사업 수주를 확대하는 모습이다. 23일 쌍용건설에 따르면 지난 19일 열린 부산 거제2구역 재건축정비사업 시공사 선정총회에서 시공사로 선정됐다.이번 사업은 부산 연제구 거제동 129-1번지 일대 약 2만250㎡ 부지에 지하 3층~지상 37층, 아파트 4개 동 총 587가구와 부대복리시설 등을 조성하는 사업이다. 총 공사비는 약 2381억원이다.쌍용건설은 올해 서울 노량진 은하맨션 가로주택정비사업(1328억원), 마포 창전동 가",
+    "published_at": "2026-11-23T10:21:02+09:00",
+    "cluster_id": "baf1",
+    "publisher": "뉴스웨이브",
+    "title_clean": "쌍용건설, '2300억 규모' 부산 거제2구역 재건축 수주",
+    "summary": "쌍용건설이 부산 거제2구역 재건축정비사업을 2,381억원 규모로 수주했다. 587가구 아파트와 부대복리시설을 조성하는 사업으로, 국내 도시정비사업 수주를 지속적으로 확대하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-23T22:31:13+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "summary": "DL이앤씨가 협력사 100곳을 선정하여 AI, 로봇, 모듈러 건설기술 개발에 기여한 기업에 대한 포상을 신설했다. 기술 중심의 협력체계 강화를 통해 건설업계의 혁신과 상생협력을 확대하는 사례를 보여주고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-19T14:09:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "광양시 건설업체 3곳, 지역화폐 5500만원 구매 - daily.hankooki.com",
-    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1426917",
-    "description": "박성현 광양시장은 \"건설경기 침체로 어려운 상황에서도 지역경제 활성화에 동참해 준 기업들에 감사드린다\"며 \"기업과 소상공인, 시민이 함께하는 소비 활성화를 통해 지역 상권에 실질적인 도움이 될 수 있도록...",
-    "published_at": "2026-11-19T14:00:00+09:00",
-    "cluster_id": "4cb2",
-    "publisher": "daily.hankooki.com",
-    "title_clean": "광양시 건설업체 3곳, 지역화폐 5500만원 구매",
-    "summary": "광양시의 건설업체 3곳이 지역화폐 5500만원을 구매하며 지역경제 활성화에 동참했다. 시장은 건설경기 침체 속에서도 지역 상권 활성화를 위해 노력하는 기업들에 감사를 표했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-19T14:04:56+09:00",
     "importance": 2
   }
 ]
