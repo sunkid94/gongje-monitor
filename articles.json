@@ -20998,6 +20998,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "이원택 전북도지사 “현장의 작은 빈틈, 도민 안전·신뢰 좌우”…항만·민생 현안 점검 - 코리아방송",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tcENBRkpoNTN3QVpSWWxzWjhqQ2pVSjQwRVFsdDc4eDM2SEd5Q3RiYU1MdzFaZkxnY29YVFZHQWJTbm5DdC1BbnVTQU9jaHFSRUJwLXo0VjVITmdZQ3RLVnhNVHZpXzA?oc=5",
+    "description": "[코리아방송 정청권 기자] 전북특별자치도는 23일 이원택 도지사 주재로 간부회의를 열고 군산항 활성화와 겨울철 현장 안전, 체감성장 과제 등 주요 도정 현안을 점",
+    "published_at": "2026-11-23T13:48:19+09:00",
+    "cluster_id": "2998",
+    "publisher": "코리아방송",
+    "title_clean": "이원택 전북도지사 “현장의 작은 빈틈, 도민 안전·신뢰 좌우”…항만·민생 현안 점검",
+    "summary": "전북특별자치도 이원택 도지사가 군산항 활성화, 겨울철 현장 안전, 체감성장 등 주요 도정 현안을 점검하기 위해 간부회의를 개최했다. 도지사는 현장의 작은 빈틈이 도민 안전과 신뢰를 좌우한다고 강조했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-23T22:26:08+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "publisher": "daily.hankooki.com",
     "title_clean": "광양시 건설업체 3곳, 지역화폐 5500만원 구매",
     "summary": "광양시의 건설업체 3곳이 지역화폐 5500만원을 구매하며 지역경제 활성화에 동참했다. 시장은 건설경기 침체 속에서도 지역 상권 활성화를 위해 노력하는 기업들에 감사를 표했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-19T14:04:56+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "익산시, 겨울철 공동주택 건설현장 안전 점검 - domin.co.kr",
-    "link": "http://www.domin.co.kr/news/articleView.html?idxno=1576169",
-    "description": "시는 주택도시보증공사(HUG), 구조 분야 민간 전문가와 함께 남중동의 한 공동주택 건설현장을 찾아 합동 안전점검을 실시했다. 해당 사업장은 2023년 공사가 중단된 이후 HUG가 관리하고 있는 현장이다. 시는 그동안...",
-    "published_at": "2026-11-19T14:00:00+09:00",
-    "cluster_id": "d9be",
-    "publisher": "domin.co.kr",
-    "title_clean": "익산시, 겨울철 공동주택 건설현장 안전 점검",
-    "summary": "익산시가 주택도시보증공사(HUG)와 민간 전문가와 함께 공동주택 건설현장에 대한 겨울철 안전점검을 실시했다. 2023년 공사가 중단된 현장을 관리 중이며, 시는 지속적인 안전관리를 추진하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-19T14:04:56+09:00",
     "importance": 2
