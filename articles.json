@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "[오늘의 경제뉴스] '팔수록 손해'...현대제철·대한제강 등 철강업계 생... - newsverse.kr",
+    "link": "https://www.newsverse.kr/news/articleView.html?idxno=12022",
+    "description": "하지만 건설경기 침체로 철근 수요가 급감하면서 공장을 덜 돌려도 공급과잉을 해소하기 어려운 상황이다. 가격을 낮춰 판매량을 늘리면 손실이 커지는 만큼, 줄어든 시장에 맞춘 생산체계 재편 압력도 높아질 것으로...",
+    "published_at": "2026-11-24T04:54:00+09:00",
+    "cluster_id": "d904",
+    "publisher": "newsverse.kr",
+    "title_clean": "[오늘의 경제뉴스] '팔수록 손해'...현대제철·대한제강 등 철강업계 생...",
+    "summary": "건설경기 침체로 철근 수요가 급감하면서 철강업계가 공급과잉 상황에 처했다. 가격 인하 판매는 손실 확대로 이어져 생산체계 재편 압력이 높아지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-24T05:01:36+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-19T14:09:57+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "DL이앤씨, 협력사 100곳 선정…AI·모듈러 기술개발까지 상생협력 확대 - e-science.co.kr",
-    "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140249",
-    "description": "기존의 우수 협력사 지원제도에 AI·로봇과 모듈러 건설기술 개발에 기여한 기업을 위한 포상을 신설하면서 기술 중심의 협력체계를 강화하는 모습이다. DL이앤씨는 지난 18일 서울 여의도 글래드호텔에서 '2026년 한숲...",
-    "published_at": "2026-11-19T14:06:00+09:00",
-    "cluster_id": "fee2",
-    "publisher": "",
-    "title_clean": "DL이앤씨, 협력사 100곳 선정…AI·모듈러 기술개발까지 상생협력 확대 - e-science.co.kr",
-    "summary": "DL이앤씨가 협력사 100곳을 선정하여 AI, 로봇, 모듈러 건설기술 개발에 기여한 기업에 대한 포상을 신설했다. 기술 중심의 협력체계 강화를 통해 건설업계의 혁신과 상생협력을 확대하는 사례를 보여주고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-19T14:09:57+09:00",
-    "importance": 2
   }
 ]
