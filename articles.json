@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "스마트건설·AI 엑스포, 건설 현장의 미래를 바꿀 첨단 기술 한자리에 - gokorea.kr",
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=886995",
+    "description": "국토교통부는 25일부터 27일까지 경기도 고양시 킨텍스에서 '2026 스마트건설·안전·AI 엑스포'를 개최한다. 이 행사는 인공지능과 로봇 기술이 건설 분야에 미치는 영향을 집중 조명하며, 올해로 7번째를 맞이한다. 이...",
+    "published_at": "2026-11-24T06:54:00+09:00",
+    "cluster_id": "de2f",
+    "publisher": "gokorea.kr",
+    "title_clean": "스마트건설·AI 엑스포, 건설 현장의 미래를 바꿀 첨단 기술 한자리에",
+    "summary": "국토교통부가 25~27일 경기도 고양시 킨텍스에서 '2026 스마트건설·안전·AI 엑스포'를 개최한다. 인공지능과 로봇 기술이 건설 분야에 미치는 영향을 조명하는 행사로 7번째를 맞이한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T07:02:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-19T14:40:51+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[위클리오늘] 양주시, 9만 7천 세대 택지개발 건의 - weeklytoday.com",
-    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=802622",
-    "description": "이와 함께 동절기 대형 건설현장 안전관리 강화에 나서고, 공정무역위원회를 새롭게 구성해 지역 내 공정무역 활성화 방안을 논의했다. ▌ 양주시, 국무조정실에 지역 현안 해결 위한 정부 지원 건의 양주시는 수도권...",
-    "published_at": "2026-11-19T14:32:00+09:00",
-    "cluster_id": "0a68",
-    "publisher": "weeklytoday.com",
-    "title_clean": "[위클리오늘] 양주시, 9만 7천 세대 택지개발 건의",
-    "summary": "양주시가 국무조정실에 9만 7천 세대 택지개발 건의를 추진 중이며, 동절기 건설현장 안전관리 강화와 공정무역위원회 구성을 함께 진행하고 있다. 대규모 택지개발 사업은 건설업계에 잠재적 수주 기회를 제공할 수 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-19T14:40:51+09:00",
-    "importance": 2
   }
 ]
