@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "'14명 사망' 안전공업 대표 등 12명·법인, 불구속 기소 - tjmbc.co.kr",
+    "link": "https://tjmbc.co.kr/NewsArticle/874969",
+    "description": "또 불법 증축 휴게실 등 건설산업기본법 위반 혐의를 받는 인테리어 업체 운영자도 함께 재판에 넘겨졌습니다. 공소청 관계자는 \"산업재해 피해자 유족에게 다각적인 지원 조치를 이행했다\"며 \"앞으로도 죄책에 상응하는...",
+    "published_at": "2026-11-23T20:45:00+09:00",
+    "cluster_id": "4dc2",
+    "publisher": "tjmbc.co.kr",
+    "title_clean": "'14명 사망' 안전공업 대표 등 12명·법인, 불구속 기소",
+    "summary": "안전공업 대표 등 12명과 법인이 14명 사망 사고와 건설산업기본법 위반 혐의로 불구속 기소됐습니다. 건설업계의 안전 관리 부실과 법규 위반이 적발되면서 규제 강화 압력이 높아질 것으로 예상됩니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-23T21:31:40+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설수주",
     "category": "시장·경기",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-19T14:04:56+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설경기 침체에 철강·비철금속 약세…판유리 가격은 30% 가까이 급등 - thepowernews.co.kr",
-    "link": "https://www.thepowernews.co.kr/view.php?ud=202611191347292036de3f0aa1be_7",
-    "description": "건설경기 침체로 철강과 비철금속 가격이 하락하면서 국내 건설자재 가격지수가 3개월 연속 떨어졌다. 반면 판유리 가격은 한 달 새 약 30% 상승했고, 인공지능(AI) 관련 부품 수요 증가로 고성능 그래픽카드...",
-    "published_at": "2026-11-19T13:50:00+09:00",
-    "cluster_id": "cd59",
-    "publisher": "thepowernews.co.kr",
-    "title_clean": "건설경기 침체에 철강·비철금속 약세…판유리 가격은 30% 가까이 급등",
-    "summary": "건설경기 침체로 철강과 비철금속 가격이 하락하고 건설자재 가격지수가 3개월 연속 하락했다. 다만 판유리는 한 달새 30% 상승하는 등 자재별 가격 편차가 심화되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-19T14:00:23+09:00",
-    "importance": 5
   }
 ]
