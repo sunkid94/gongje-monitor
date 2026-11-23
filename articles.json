@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "AI·로봇이 바꾸는 건설현장…'스마트건설 엑스포' 개막 - newstomato.com",
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1321575&inflow=N",
+    "description": "하정우 국가인공지능전략위원회 상근 부위원장은 기조연설을 통해 로봇과 피지컬 AI를 활용한 건설현장 안전 혁신과 생산성 향상 방안을 제시할 예정입니다. 스마트건설 챌린지 시상식에서는 안전관리·단지주택...",
+    "published_at": "2026-11-24T07:24:00+09:00",
+    "cluster_id": "44e2",
+    "publisher": "newstomato.com",
+    "title_clean": "AI·로봇이 바꾸는 건설현장…'스마트건설 엑스포' 개막",
+    "summary": "AI와 로봇 기술을 활용한 건설현장 혁신을 주제로 스마트건설 엑스포가 개최되며, 안전성 향상과 생산성 개선 방안이 논의된다. 정부 차원의 적극적 지원과 산업 혁신 사례 공유를 통해 건설업계의 디지털 전환을 촉진하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T07:31:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32276,21 +32292,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-19T14:50:22+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "LH 미분양 매입, 목표 18% 그쳐…지방 건설사 현금 '바닥' - newstomato.com",
-    "link": "http://www.newstomato.com/ReadNews.aspx?no=1321065&inflow=N",
-    "description": "LH 관계자는 \"미분양 매입은 중견사를 특정해 신청을 받는 게 아니라 건설경기 활성화와 건설사 도산 방지를 종합적으로 고려한 것\"이라고 말했습니다. 이어 \"공적 자금이 투입되는 만큼 심사를 안 할 수는 없다\"며...",
-    "published_at": "2026-11-19T14:28:00+09:00",
-    "cluster_id": "1aed",
-    "publisher": "newstomato.com",
-    "title_clean": "LH 미분양 매입, 목표 18% 그쳐…지방 건설사 현금 '바닥'",
-    "summary": "LH가 추진 중인 미분양 매입이 목표 18%에 그쳐 부진을 면치 못했다. 지방 중소건설사들의 현금 사정이 악화되고 있으며, LH는 공적 자금 투입으로 인한 엄격한 심사 기준을 유지하고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-19T14:40:51+09:00",
-    "importance": 4
   }
 ]
