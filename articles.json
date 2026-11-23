@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "‘오함마·나라시’, AI가 통역한다…건설현장서 외국인 노동자 지키는... - hani.co.kr",
+    "link": "https://www.hani.co.kr/arti/economy/it/1288761.html",
+    "description": "국내에서 일하는 외국인 건설 노동자는 22만명(2024년 기준)으로 전체 건설 노동자의 15%에 육박한다. 윤정호 하이로컬 대표는 23일 “통역이 아예 없던 (공사) 현장에 소통을 공급하게 된 것”이라며 “그동안 일부에게만...",
+    "published_at": "2026-11-24T05:02:00+09:00",
+    "cluster_id": "1c64",
+    "publisher": "hani.co.kr",
+    "title_clean": "‘오함마·나라시’, AI가 통역한다…건설현장서 외국인 노동자 지키는...",
+    "summary": "국내 건설현장에서 일하는 외국인 노동자(22만명, 전체의 15%)와의 소통을 위해 AI 통역 기술이 도입되고 있다. 그간 통역이 없던 현장에 소통 체계를 구축함으로써 외국인 노동자의 안전과 근로 환경 개선에 기여하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T05:11:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32273,22 +32289,6 @@
     "publisher": "newspim.com",
     "title_clean": "부전~마산 복선전철 낙동1터널 붕괴…부적정 공법·부실 시공이 원인",
     "summary": "부전~마산 복선전철 낙동1터널이 부적정 공법과 부실 시공으로 붕괴되었으며, 국토부가 시공사에 영업정지 등 직권 처분을 추진 중이다. 이는 건설업계에 규제 강화와 신뢰도 하락을 초래하는 악재다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-19T14:09:57+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "태영건설, 워크아웃 졸업 앞두고 '안전 암초'···공공수주마저 흔들리... - smartbizn.com",
-    "link": "https://www.smartbizn.com/news/articleView.html?idxno=159919",
-    "description": "이 현장에서는 2024년 1월 민주노총 전국건설노동조합이 임금체불 문제를 제기했다. 당시 일부 하도급업체가 태영건설로부터 현금 대신 어음을 지급받으면서 자금 확보에 어려움을 겪었고, 현장 노동자들의 11월분 임금...",
-    "published_at": "2026-11-19T14:06:00+09:00",
-    "cluster_id": "b7b4",
-    "publisher": "smartbizn.com",
-    "title_clean": "태영건설, 워크아웃 졸업 앞두고 '안전 암초'···공공수주마저 흔들리...",
-    "summary": "태영건설이 워크아웃 졸업을 앞두고 있으나 2024년 1월 임금체불 사태로 신용도가 훼손되면서 공공수주까지 불안정해지고 있다. 하도급업체의 어음 지급 문제로 현장 자금난이 심화되고 있는 상황이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-19T14:09:57+09:00",
     "importance": 4
