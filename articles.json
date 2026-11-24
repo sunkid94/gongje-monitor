@@ -21270,6 +21270,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "대전기상청-대전도시공사 기상정보 활용 건설 현장 안전관리 강화 - ggilbo.com",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1195295",
+    "description": "▲ 건설현장 날씨 안전모 서비스 플랫폼 메인화면 구성. 대전지방기상청 제공 대전지방기상청과 대전도시공사가 건설 현장 맞춤형 기상서비스 플랫폼을 도입해 시범운영에 들어갔다. 24일 대전기상청과 도시공사 등에...",
+    "published_at": "2026-11-24T19:04:00+09:00",
+    "cluster_id": "9648",
+    "publisher": "ggilbo.com",
+    "title_clean": "대전기상청-대전도시공사 기상정보 활용 건설 현장 안전관리 강화",
+    "summary": "대전지방기상청과 대전도시공사가 건설 현장 맞춤형 기상서비스 플랫폼을 도입해 시범운영을 시작했다. 이는 기상정보를 활용해 건설 현장의 안전관리를 강화하기 위한 협력이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T19:11:55+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH 청년주택건축대전 대상에 박정빈 팀…총 312팀 참가 - gukjenews.com",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3761935",
+    "description": "이상조 스마트건설안전본부장은 \"올해 공모전은 30주년을 맞아 청년주거에 대한 참신한 아이디어를 들을 수 있는 뜻깊은 자리였다\"며 \"이번 공모전에서 확인한 청년들의 목소리를 바탕으로 LH는 청년 주거 불안을...",
+    "published_at": "2026-11-24T19:02:00+09:00",
+    "cluster_id": "4e65",
+    "publisher": "gukjenews.com",
+    "title_clean": "LH 청년주택건축대전 대상에 박정빈 팀…총 312팀 참가",
+    "summary": "LH가 개최한 청년주택건축대전에서 박정빈 팀이 대상을 수상했으며, 총 312개 팀이 참가했다. LH는 공모전을 통해 수집한 청년들의 주거 아이디어를 바탕으로 청년 주거 문제 해결에 나설 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T19:11:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32276,37 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-22T13:57:47+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "현대엘리베이터 '20만 대 유지관리' 앞세워 불황 극복 - cctimes.kr",
-    "link": "http://www.cctimes.kr/news/articleView.html?idxno=938428",
-    "description": "현대엘리베이터가 건설경기 침체와 신규 분양 물량 감소 속에서도 전국 20만 대에 달하는 유지관리 기반을 바탕으로 유의미한 실적을 거뒀다. 신규 설치 중심의 양적 성장에서 벗어나 고부가가치 서비스와 디지털...",
-    "published_at": "2026-11-22T13:46:00+09:00",
-    "cluster_id": "d5d0",
-    "publisher": "cctimes.kr",
-    "title_clean": "현대엘리베이터 '20만 대 유지관리' 앞세워 불황 극복",
-    "summary": "현대엘리베이터가 건설경기 침체 속에서도 보유한 20만 대 유지관리 기반을 활용해 실적을 확보했다. 신규 설치 중심에서 벗어나 고부가가치 서비스와 디지털화로 사업 모델을 전환하며 불황을 극복하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-22T13:47:54+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "4조달러 中 건설시장 문턱 낮아지지만…韓 건설업계 '시큰둥' - edaily.co.kr",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=01603926645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "description": "중국이 한국 기업의 건설 프로젝트 참여 제한을 없애기로 했지만 현지 건설경기 침체와 중국 업체들의 가격 경쟁력, 폐쇄적인 사업 관행 등이 걸림돌로 지목된다. 국내 주요 건설사들도 이번 협상에 따른 실질적인 사업...",
-    "published_at": "2026-11-22T13:32:00+09:00",
-    "cluster_id": "4034",
-    "publisher": "edaily.co.kr",
-    "title_clean": "4조달러 中 건설시장 문턱 낮아지지만…韓 건설업계 '시큰둥'",
-    "summary": "중국이 한국 건설사의 시장 진입 제한을 완화했으나, 현지 경기 침체와 중국 업체들의 가격 경쟁력, 폐쇄적 관행으로 인해 실질적 사업 확대는 제한적일 것으로 예상된다. 국내 건설업계는 협상 결과에 대해 미온적인 반응을 보이고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-22T13:37:52+09:00",
-    "importance": 3
   }
 ]
