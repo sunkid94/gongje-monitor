@@ -5273,6 +5273,22 @@
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
+    "title": "가덕신공항 공사비 현실화 부산 여야의원 모두 나섰다 - kookje.co.kr",
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261125.22001007825",
+    "description": "앞서 국민의힘 부산시당은 지난 17일 국회에서 국토교통부·대우건설 컨소시엄과 2차 간담회를 갖고 특별법 개정에 동참하기로 했다. 정 의원은 “현장에서는 이미 실시설계가 진행 중이고, 부처 간 이견이 길어질수록...",
+    "published_at": "2026-11-24T19:54:00+09:00",
+    "cluster_id": "a25b",
+    "publisher": "kookje.co.kr",
+    "title_clean": "가덕신공항 공사비 현실화 부산 여야의원 모두 나섰다",
+    "summary": "부산 여야의원이 가덕신공항 공사비 현실화를 위해 특별법 개정에 동참하기로 합의했다. 현장 실시설계가 진행 중인 가운데 부처 간 의견 조율을 통해 사업 추진을 가속화하려는 움직임이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T20:01:28+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
     "title": "불황에 알짜만 수의계약…부산 정비사업 수주경쟁 실종 - kookje.co.kr",
     "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261125.22003007820",
     "description": "24일 지역 도시정비업계에 따르면 부산 정비사업의 핵심 입지 중 하나로 꼽히는 수영구 광안7구역 재개발 정비사업 조합이 최근 시공사 선정을 위한 2차 입찰을 마감한 결과 대우건설이 단독으로 참여한 것으로...",
@@ -21254,20 +21270,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "상업시설도 ‘목적형 특화’ 시대…업종 구성·소비 연계가 경쟁력 가른... - viva100.com",
-    "link": "https://www.viva100.com/article/20261119500467",
-    "description": "대우건설이 대전 둔산동에 시공하는 ‘그랑 르피에드’ 단지 내 상업시설도 지하 8층~지상 47층 건물의 지상 1~2층에 총 127실 규모로 층별 특화 공급을 준비하고 있다. 1층 식음료 중심 ‘F&B 존’은 전문 운영사가...",
-    "published_at": "2026-11-19T10:18:00+09:00",
-    "cluster_id": "accc",
-    "publisher": "viva100.com",
-    "title_clean": "상업시설도 ‘목적형 특화’ 시대…업종 구성·소비 연계가 경쟁력 가른...",
-    "summary": "대우건설의 대전 그랑 르피에드 프로젝트에서 상업시설을 층별 특화 공급 방식으로 운영하는 사례를 소개. 단순 임대 중심에서 벗어나 업종 구성과 소비 연계를 통해 차별화하는 상업시설 개발 트렌드를 보여줌.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-19T10:24:51+09:00",
-    "importance": 2
+    "title": "[이슈대담] 하청 노동자가 본 대불산단 작업 현장 - news.kbs.co.kr",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721353&ref=A",
+    "description": "건설업에도 이러한 물량팀이 존재를 했었지만 건설산업기본법의 규제를 받게 됐습니다. 그러나 조선소는 그러한 법 규제가 없어서 상시적으로 물량팀이 운영되고 있습니다. [앵커] 그 '물량팀'이라는 게 결국 다단계...",
+    "published_at": "2026-11-24T19:44:00+09:00",
+    "cluster_id": "bd32",
+    "publisher": "news.kbs.co.kr",
+    "title_clean": "[이슈대담] 하청 노동자가 본 대불산단 작업 현장",
+    "summary": "조선소 하청 노동자의 작업 현장을 다룬 기사로, 건설업과 달리 조선소에서는 법적 규제 없이 물량팀이 상시 운영되고 있는 문제점을 지적하고 있습니다. 이는 하청 노동자의 근무 환경과 처우 관련 부정적 이슈를 다루고 있습니다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-24T20:01:28+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-22T14:22:53+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전도시공사, 소규모 건축현장 안전·품질 점검 지원 - 대전일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnbVc1X21nTUwxVTJab2RMNGxxTTB2bGRZaC1rQzh6VU9CVjczMGVxdHI2TzNxVWVKWElGRHB5dnFydG56NVkzeEZTV19fYmw1dnNNRG5OQTAtbkRKek1sWUNSVDJwM2YtOURWRWJKY9IBc0FVX3lxTFBrQUJsMURiZlA0MEVOblRKWjVMR2NqV3JOa1BhYVBYbHBaUEU2M3lYeWFGUnhHR0E1Qk10N1B6bkk2Y2hMTmpPWTdhWFo4N1E3REJPRVk5bUVwMEFudHVUMG5MR2ZEcHVNcG5QMzhtaHlDRzQ?oc=5",
-    "description": "대전도시공사는 소규모 민간 건축현장을 대상으로 전문인력과 점검 장비를 무상 지원하는",
-    "published_at": "2026-11-22T13:29:00+09:00",
-    "cluster_id": "1fcd",
-    "publisher": "대전일보",
-    "title_clean": "대전도시공사, 소규모 건축현장 안전·품질 점검 지원",
-    "summary": "대전도시공사가 소규모 민간 건축현장을 대상으로 전문인력과 점검 장비를 무상으로 지원하는 사업을 추진 중이다. 건축현장의 안전성과 품질 향상을 돕는 공공 지원 정책이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-22T14:07:46+09:00",
-    "importance": 2
   }
 ]
