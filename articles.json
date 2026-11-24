@@ -5270,6 +5270,22 @@
     "importance": 7
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[산업 직썰] 공사 끝나도 돈 번다…건설사, 시공 넘어 운영사업 승부수 - ziksir.com",
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=154451",
+    "description": "대우건설은 데이터센터 운영 전문기업 KINX와 협력해 사업 기회를 발굴하고 있다. 양사는 지난 7월 업무협약을 맺고 대우건설의 개발·시공 역량과 KINX의 운영·네트워크 전문성을 결합해 하이퍼스케일 및 AI 데이터센터...",
+    "published_at": "2026-11-25T00:00:00+09:00",
+    "cluster_id": "e33e",
+    "publisher": "ziksir.com",
+    "title_clean": "[산업 직썰] 공사 끝나도 돈 번다…건설사, 시공 넘어 운영사업 승부수",
+    "summary": "대우건설이 KINX와 협력해 데이터센터 개발·운영 사업으로 확장하고 있다. 건설사들이 시공 완료 후 운영사업으로 수익화하는 사업 모델 전환을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T00:12:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21254,20 +21270,20 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
     "is_company": false,
-    "title": "상업시설, 규모·입지 따지는 시대 갔다…'업종 구성·소비 연계' 경쟁력... - econovill.com",
-    "link": "https://www.econovill.com/news/articleView.html?idxno=757795",
-    "description": "대우건설이 대전 둔산동 일원에서 시공하는 '그랑 르피에드'의 단지 내 상업시설은 층별 특화 전략을 적용해 공급을 준비하고 있다. 지하 8층~지상 47층 규모 건물의 지상 1~2층에 총 127실로 조성되며, 1층은 식음료 중심의...",
-    "published_at": "2026-11-19T10:28:00+09:00",
-    "cluster_id": "88d2",
-    "publisher": "econovill.com",
-    "title_clean": "상업시설, 규모·입지 따지는 시대 갔다…'업종 구성·소비 연계' 경쟁력...",
-    "summary": "대우건설이 대전 둔산동에서 시공하는 '그랑 르피에드'는 층별 특화 전략으로 상업시설을 조성하고 있으며, 규모와 입지 중심의 기존 평가 방식에서 업종 구성과 소비 연계 중심의 경쟁력으로 전환하고 있다. 이는 상업시설 개발 트렌드의 변화를 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-19T10:35:04+09:00",
-    "importance": 2
+    "title": "[어떻게 생각하시나요] 신안산선 중대재해 공사 중단 장기화… 협력업체... - newsclaim.co.kr",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084058",
+    "description": "취재진은 공사 중단 원인이 천재지변이 아닌 중대재해 발생과 행정기관의 작업중지 명령이라는 점을 들어 하도급법과 건설산업기본법에 따른 간접비 지급 여부도 질의했다. 이에 넥스트레인은 국토교통부...",
+    "published_at": "2026-11-25T00:00:00+09:00",
+    "cluster_id": "51ae",
+    "publisher": "newsclaim.co.kr",
+    "title_clean": "[어떻게 생각하시나요] 신안산선 중대재해 공사 중단 장기화… 협력업체...",
+    "summary": "신안산선 공사 중단이 장기화되면서 중대재해 발생과 행정기관의 작업중지 명령으로 인한 간접비 지급 문제가 쟁점이 되고 있다. 협력업체들이 하도급법과 건설산업기본법에 따른 비용 지급을 요구하며 갈등이 심화되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-25T00:12:38+09:00",
+    "importance": 4
   },
   {
     "keyword": "스마트건설",
@@ -32291,22 +32307,6 @@
     "summary": "현대건설 배구팀이 2026-27 V리그 여자부 경기에서 흥국생명을 상대로 경기에 나선다. 기업 스포츠 활동을 소개하는 포토 뉴스이다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-22T14:57:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[포토]'흥국전 나서는' 현대건설 조던 - 스타뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByREJHdjhVQmR1bHJlZGdRakNBZWZ3R3QwX0JMc3hoNi1GdWxCSGZ3bVpMUW9zWElxUm5NaGNUZ2JpZVE2anV5ZnJrWDY1RDl6bUpiekhvS3ozOEpfNDd5ZXNDeDJER0FjNml5WFpCeFU1Ty1fbFE?oc=5",
-    "description": "현대건설 조던이 22일 수원체육관에서 열린 2026-27 V리그 여자부 흥국생명과 현대건설 경기를 앞두고 코트로 나서고 있다. 2026.11.22. 현대건설 조던이 22일 수원체육관에서 열린 2026-27 V리그 여자부 흥국생명과 현대건설 경기를 앞두고 코트로 나서고 있다. 2026.11.22.",
-    "published_at": "2026-11-22T05:49:35+00:00",
-    "cluster_id": "b94b",
-    "publisher": "스타뉴스",
-    "title_clean": "[포토]'흥국전 나서는' 현대건설 조던",
-    "summary": "현대건설 여자배구팀이 2026-27 V리그에서 흥국생명과의 경기를 위해 수원체육관 코트에 나섰다. 스포츠 소식으로 건설업계와 무관한 내용이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-22T14:52:52+09:00",
     "importance": 2
   }
 ]
