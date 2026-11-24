@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH, 청년주택건축대전 30주년…올해는 '정서 회복 돕는 주거' 주목 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3053520",
+    "description": "지난 23일 경남 진주 LH 본사 사옥에서 열린 '제30회 LH 청년주택건축대전' 시상식에서 이상조 LH 스마트건설안전본부장과 수상자들이 기념촬영을 하고 있다. [사진 = LH] 한국토지주택공사(LH)가 30주년을 맞은...",
+    "published_at": "2026-11-25T03:20:00+09:00",
+    "cluster_id": "e9e5",
+    "publisher": "apnews.kr",
+    "title_clean": "LH, 청년주택건축대전 30주년…올해는 '정서 회복 돕는 주거' 주목",
+    "summary": "LH가 청년주택건축대전 30주년을 맞아 시상식을 개최했으며, 올해는 '정서 회복을 돕는 주거'를 주제로 선정했다. 이는 공공주택 건설 사업을 통한 건설시장 활성화 및 청년층 주거복지 증진을 위한 LH의 지속적인 노력을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T03:31:00+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32292,22 +32308,6 @@
     "summary": "시에라베이스가 한국중부발전과 함께 드론 기술을 활용해 발전소 굴뚝 점검 사업을 추진하고 있다. 기존에 사람이 직접 수행하던 고위험 점검 작업을 드론으로 대체하여 안전성을 높이고 효율성을 개선하는 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-11-23T03:08:11+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[인터뷰] 김송현 시에라베이스 대표 \"사람이 오르던 굴뚝, 이제 드론이... - irobotnews.com",
-    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49700",
-    "description": "시에라베이스는 국내 현장 실증 300회 이상, CES 2025 최고혁신상, 2025 일본 굿디자인 어워드, 건설신기술(제990호) 지정, 고용노동부 장관상 등으로 기술력과 산업안전 기여를 인정받아 왔다. 누적 투자 유치액은...",
-    "published_at": "2026-11-23T02:26:00+09:00",
-    "cluster_id": "5257",
-    "publisher": "irobotnews.com",
-    "title_clean": "[인터뷰] 김송현 시에라베이스 대표 \"사람이 오르던 굴뚝, 이제 드론이...",
-    "summary": "시에라베이스는 드론 기술로 건설현장의 굴뚝 등 고위험 작업을 자동화하고 있으며, CES 2025 최고혁신상 등 다수의 상을 수상해 기술력을 인정받았다. 건설신기술 지정 및 고용노동부 장관상 등을 통해 산업안전 기여도를 입증하고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-23T02:33:08+09:00",
     "importance": 2
   }
 ]
