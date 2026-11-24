@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "계룡건설, 세종 모듈러 주택으로 BIM 대상 - koreareport.co.kr",
+    "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=55112",
+    "description": "계룡건설 관계자는 \"앞으로 참여하게 될 후속 사업에도 기존 사업의 개선점과 축적된 노하우를 적극 반영해 모듈러 기술을 한 단계 발전시키고, 국내 모듈러 건설산업의 성장에 기여할 수 있도록 노력하겠다\"고...",
+    "published_at": "2026-11-24T23:04:00+09:00",
+    "cluster_id": "117a",
+    "publisher": "koreareport.co.kr",
+    "title_clean": "계룡건설, 세종 모듈러 주택으로 BIM 대상",
+    "summary": "계룡건설이 세종 모듈러 주택 프로젝트로 BIM 대상을 수상했다. 회사는 축적된 노하우를 바탕으로 모듈러 기술을 고도화하고 국내 모듈러 건설산업 성장에 기여할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T23:11:55+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-22T14:37:59+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설수주 24.6조 원으로 반등…고용·체감경기는 부진 - knpp.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5GS19RZ3VmYmJDekt3YjdLYU1hSS1NY0Z4VmRqanlickNHdTVpLXFYZndUT2huZ2dVcHo0QkF6cVZYNFE?oc=5",
-    "description": "[화담일보=이상헌기자] 국내 건설수주가 2026년 9월 큰 폭으로 증가했지만 건설업 고용과 기업 체감경기는 부진한 흐름을 이어갔다. 수주 실적과 달리 건설시장 내부에서는 부문별로 엇갈린 지표가 나타나고 있다. AI 생성 이미지 한국건설산업연구원이 11월 10일 발표한",
-    "published_at": "2026-11-22T14:30:59+09:00",
-    "cluster_id": "05b9",
-    "publisher": "knpp.co.kr",
-    "title_clean": "건설수주 24.6조 원으로 반등…고용·체감경기는 부진",
-    "summary": "2026년 9월 국내 건설수주가 24.6조 원으로 큰 폭으로 증가했으나, 건설업 고용과 기업 체감경기는 부진한 상태가 지속되고 있다. 수주 실적 개선에도 불구하고 부문별로 엇갈린 지표가 나타나며 건설시장 내부의 양극화가 심화되는 모습을 보이고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-22T14:37:59+09:00",
-    "importance": 2
   }
 ]
