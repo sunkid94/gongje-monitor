@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[뉴테크 포커스]오뚜기ㆍSB아치 신안산선 향남 연장운행 거더 낙점 - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231823570440265",
+    "description": "건설신기술 861호인 이 공법의 공식명칭은 고강도 비부착 강연선을 다발로 이용한 듀얼텐던시스템 적용 단부 절취형 전도방지 프리스트레스트콘크리트 I형 거더 공법이다. 오뚜기 거더는 거더 설치 시 넘어질 듯...",
+    "published_at": "2026-11-25T04:20:00+09:00",
+    "cluster_id": "bcb7",
+    "publisher": "대한경제",
+    "title_clean": "[뉴테크 포커스]오뚜기ㆍSB아치 신안산선 향남 연장운행 거더 낙점",
+    "summary": "오뚜기와 SB아치가 신안산선 향남 연장운행 프로젝트에서 건설신기술 861호인 듀얼텐던시스템 적용 프리스트레스트콘크리트 I형 거더 공법을 낙점했다. 이 공법은 거더 설치 시 안정성을 높이는 혁신 기술로, 건설업체의 기술력 입증과 프로젝트 수주 성과를 나타낸다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T04:26:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32292,22 +32308,6 @@
     "summary": "캔자스시티 도심 데이터센터 프로젝트가 부결되었으나 루커스 시장이 신규 유예를 지지하면서 재추진 가능성이 열렸다. 건설노동협의회와 에너지사는 유예에 반대 의견을 제시하고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-23T03:37:50+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[인터뷰] 김송현 시에라베이스 대표 “사람이 오르던 굴뚝, 이제 드론이 먼저 오른다” - 로봇신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NEM4WE1LR05YMlZSbXhOZm9ibTh4TWZFWFUtQ1RXdVB2dlJuN2FrT09weFh3aVo0aXZTOTc2emZhb0VSX2RCcVFfb3lqQjQtRnVUalo3THF4bjNaTkYwSFBaYThxNE51YUxsZA?oc=5",
-    "description": "교량과 터널을 점검하던 드론이 발전소 굴뚝에 오른다. 시에라베이스(대표 김송현)는 한국중부발전과 함께 꾸린 ‘다바드림’ 팀으로 최근 대구 엑스코에서 열린 ‘제21",
-    "published_at": "2026-11-23T02:24:21+09:00",
-    "cluster_id": "1e6a",
-    "publisher": "로봇신문",
-    "title_clean": "[인터뷰] 김송현 시에라베이스 대표 “사람이 오르던 굴뚝, 이제 드론이 먼저 오른다”",
-    "summary": "시에라베이스가 한국중부발전과 함께 드론 기술을 활용해 발전소 굴뚝 점검 사업을 추진하고 있다. 기존에 사람이 직접 수행하던 고위험 점검 작업을 드론으로 대체하여 안전성을 높이고 효율성을 개선하는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-23T03:08:11+09:00",
     "importance": 2
   }
 ]
