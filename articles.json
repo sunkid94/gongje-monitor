@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "젠슨황 컴백, 한국 경제 비상벨은 멈추지 않았다 [데스크칼럼] - newdaily.co.kr",
+    "link": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450355.html",
+    "description": "설상가상 한때 수주잭팟을 떠뜨리던 방산도 시들해지고 있고, 건설경기는 바닥을 뚫고 지하로 향하고 있다. 내수 활력도 눈에 띄게 떨어졌다. 반도체 산업에 종사하는 일부 임직원들은 천문학적 성과급에 환호성을...",
+    "published_at": "2026-11-24T20:40:00+09:00",
+    "cluster_id": "c44f",
+    "publisher": "newdaily.co.kr",
+    "title_clean": "젠슨황 컴백, 한국 경제 비상벨은 멈추지 않았다 [데스크칼럼]",
+    "summary": "젠슨황의 컴백에도 불구하고 한국 경제는 여전히 어려움을 겪고 있다. 방산 수주 부진, 건설경기 악화, 내수 활력 저하 등 경제 전반의 침체 신호가 계속되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-24T20:52:19+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32290,22 +32306,6 @@
     "title_clean": "대전도시공사, 소규모 건축현장 안전·품질 점검 무료 지원",
     "summary": "대전도시공사가 소규모 민간 건축현장을 대상으로 무료 안전·품질 점검 지원 사업을 추진한다. 전문인력과 점검장비를 지원하여 건설사고 예방과 시공 품질 향상을 목표로 한다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-22T14:32:58+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "소규모 건축현장 ‘찾아가는 안전·품질 점검’ 지원 - 금강일보",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rMElMOUtrbmRkVEFyVkQ0RmxfUkhsczk3ajBjTWxPV0NuS25hUnhlRjE5REJEYlBGSGZsSUxfeUsxOGJHbnpEUzlRNjNVRDVpSUV3RW94Um1PMllmdHFpamh0WUZDU29G?oc=5",
-    "description": "대전도시공사가 상대적으로 ‘찾아가는 안전·품질 점검 지원’ 대상 현장을 선착순 모집한다. 대상은 대전지역 총 공사금액 50억 원 미만의 민간 건축공사 현장으로 도시공사는 선정된 12~15개 현장에 대해 연 1회 무료 점검을 지원할 예정이다. 점검비는 전액 무료로 해당 현장의 발주자나 시공자(건설사업자), 현장대리인이 신청할 수 있다. 도시공사는 신청순서에 따라 사전답사와 점검항목 검토를 거쳐 지원 현장을 선정하고, 현장을 직접 방문해 점검한 뒤 결과를 안내할 계획이다.신청방법 등 자세한 내용은 도시공사 홈페이지(dcco.kr)에서",
-    "published_at": "2026-11-22T14:24:59+09:00",
-    "cluster_id": "ab5a",
-    "publisher": "금강일보",
-    "title_clean": "소규모 건축현장 ‘찾아가는 안전·품질 점검’ 지원",
-    "summary": "대전도시공사가 50억 원 미만의 소규모 민간 건축현장을 대상으로 무료 안전·품질 점검 지원 사업을 추진한다. 선착순 모집으로 12~15개 현장에 대해 연 1회 무료 점검을 제공할 예정이다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-22T14:32:58+09:00",
     "importance": 2
   }
