@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "과징금보다 무서운 ‘등록말소’…건설사 퇴출이 산재 해법인가 - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01246406645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "건설경기 침체로 수익성 확보조차 쉽지 않은 상황에서 거액의 과징금은 물론 사업을 계속할 자격까지 잃을 수 있다는 위기감이 건설업계에 퍼지고 있다. 지난달 27일 공포된 산업안전보건법 개정안은 사업주가 안전...",
+    "published_at": "2026-11-25T05:11:00+09:00",
+    "cluster_id": "1ce9",
+    "publisher": "edaily.co.kr",
+    "title_clean": "과징금보다 무서운 ‘등록말소’…건설사 퇴출이 산재 해법인가",
+    "summary": "산업안전보건법 개정으로 사업주의 안전 책임이 강화되고 등록말소 등 강한 처벌이 도입되면서 건설업계가 위기감을 느끼고 있다. 건설경기 침체 속에서 거액의 과징금과 사업 자격 박탈이라는 이중 위협으로 업계 전반에 부담이 가중되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-25T05:16:42+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 신기술",
     "category": "신기술",
     "is_company": false,
@@ -32292,22 +32308,6 @@
     "summary": "국토교통부가 발주 방식 개선, 인허가 간소화, 기준 개정 등 제도 개선을 추진하고 있으며, 2030년까지 총사업비 6000억원 규모의 건설 현장 피지컬 AI 적용 실증 사업을 통해 기계설비 건설·운영 과정에서 고부가가치 창출을 지원하고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-23T05:42:51+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "캔자스시티 도심 데이터센터안 부결…루커스 시장은 신규 유예 지지 - tokenpost.kr",
-    "link": "https://www.tokenpost.kr/news/policy/442565",
-    "description": "광역 캔자스시티 건설노동협의회는 유예가 도제 교육 기회를 줄인다며 반대 입장을 밝혔다. 척 케이슬리(Chuck Caisley) 에버지(Evergy) 최고고객책임자는 일시 중단이 “최선의 수단은 아니다”라며, 개발업체와 학교 지원...",
-    "published_at": "2026-11-23T03:28:00+09:00",
-    "cluster_id": "b237",
-    "publisher": "tokenpost.kr",
-    "title_clean": "캔자스시티 도심 데이터센터안 부결…루커스 시장은 신규 유예 지지",
-    "summary": "캔자스시티 도심 데이터센터 프로젝트가 부결되었으나 루커스 시장이 신규 유예를 지지하면서 재추진 가능성이 열렸다. 건설노동협의회와 에너지사는 유예에 반대 의견을 제시하고 있다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-23T03:37:50+09:00",
     "importance": 2
   }
 ]
