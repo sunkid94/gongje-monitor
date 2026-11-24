@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "울산항만공사, AI 기반 건설현장 안전관리 확대 - klnews.co.kr",
+    "link": "https://www.klnews.co.kr/news/articleView.html?idxno=323681",
+    "description": "△이동식 CCTV(사진제공=울산항만공사) 울산항만공사(UPA, 사장 변재영)는 건설현장의 위험 요인을 사전에 파악하고 산업재해를 예방하기 위해 인공지능(AI) 기반 안전관리 기술을 확대 도입한다고 지난 20일 밝혔다....",
+    "published_at": "2026-11-24T23:24:00+09:00",
+    "cluster_id": "0079",
+    "publisher": "klnews.co.kr",
+    "title_clean": "울산항만공사, AI 기반 건설현장 안전관리 확대",
+    "summary": "울산항만공사가 건설현장의 산업재해 예방을 위해 AI 기반 안전관리 기술을 확대 도입한다. 이동식 CCTV 등의 기술을 활용해 위험 요인을 사전에 파악하고자 한다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-24T23:32:05+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-22T14:42:51+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "겨울철 건설현장 2,946곳 안전점검…12개 기관 참여 - 유스연합",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rWmJaT2RlVVZQNmJUd2dKOUZjZ2ptUl9FYTZGUTM1WmNPMHJrUzM3R0VFTGR6dVJjdjhMZ0xmN1E5T3pUX2VjYjA5U3p3ZFFTcktn?oc=5",
-    "description": "[화담일보=이상헌기자] 국토교통부가 겨울철 한파와 폭설에 대비해 전국 건설현장 2,946곳을 대상으로 안전점검을 실시한다. 이번 점검에는 국토교통부와 지방국토관리청, 산하기관 등 12개 기관이 참여하며, 점검 기간은 11월 16일부터 12월 24일까지다. AI 생성 이미지 점검 대상 가운데 공사비 50억 원 미만 현장이 전체의 61%로 가장 큰 비중을 차",
-    "published_at": "2026-11-22T12:44:32+09:00",
-    "cluster_id": "3df9",
-    "publisher": "유스연합",
-    "title_clean": "겨울철 건설현장 2,946곳 안전점검…12개 기관 참여",
-    "summary": "국토교통부가 겨울철 한파와 폭설에 대비해 전국 건설현장 2,946곳을 대상으로 11월 16일부터 12월 24일까지 안전점검을 실시한다. 12개 기관이 참여하며, 공사비 50억 원 미만 소규모 현장이 전체의 61%를 차지한다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-22T14:37:59+09:00",
-    "importance": 4
   }
 ]
