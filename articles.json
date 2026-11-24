@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "김용진 GH 사장, 남양주왕숙 기업이전단지 찾아 강설·결빙 대비 실태 확... - cstimes.com",
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=729239",
+    "description": "현재 GH는 건설 현장의 위험도를 실시간으로 관제·평가하는 '스마트 안전관리시스템'을 가동하는 한편 현장별 안전 관리 수준을 등급화해 차등 관리하는 '건설현장 안전등급제'를 운영하며 체계적인 사고 예방 시스템을...",
+    "published_at": "2026-11-25T00:44:00+09:00",
+    "cluster_id": "2cd4",
+    "publisher": "cstimes.com",
+    "title_clean": "김용진 GH 사장, 남양주왕숙 기업이전단지 찾아 강설·결빙 대비 실태 확...",
+    "summary": "GH 사장이 남양주왕숙 기업이전단지를 방문해 겨울철 강설·결빙 대비 현황을 점검했다. GH는 스마트 안전관리시스템과 건설현장 안전등급제를 운영하며 체계적인 사고 예방에 나서고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T00:52:59+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-22T15:27:48+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[포토]'흥국전 나서는' 현대건설 조던 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NN1hmWnZUOXNYaldjdUptS1NMeWtuZk40bHBxSURwNUFHT3JBM0VaR0JpQjBxRDFDTHVDb0prOFVlZE1MREhsTGE2U1VKMVlZTDRyWFJEZDM1RF9RUDBwQ2h0b3Y5SHVqd2fSAW9BVV95cUxPY011OUpEelZ2SzE5cjNQLWMxS1d3R1Zrb19OTjhSMmE5UW92bkRiVXZyVTY0bzloSE1kTVVkME1BVlh1enFiUTFoNFdqUms0clBSOEtGTEFuanhRZElMeTVvdVJCeV9tWDMtdzd5S2M?oc=5",
-    "description": "현대건설 조던이 22일 수원체육관에서 열린 2026-27 V리그 여자부 흥국생명과 현대건설 경기를 앞두고 코트로 나서고 있다. 2026.11.22 현대건설 조던이 22일 수원체육관에서 열린 2026-27 V리그 여자부 흥국생명과 현대건설 경기를 앞두고 코트로 나서고 있다.",
-    "published_at": "2026-11-22T14:49:35+09:00",
-    "cluster_id": "2bb5",
-    "publisher": "머니투데이",
-    "title_clean": "[포토]'흥국전 나서는' 현대건설 조던 - 머니투데이",
-    "summary": "현대건설 배구팀이 2026-27 V리그 여자부 경기에서 흥국생명을 상대로 경기에 나선다. 기업 스포츠 활동을 소개하는 포토 뉴스이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-22T14:57:50+09:00",
-    "importance": 2
   }
 ]
