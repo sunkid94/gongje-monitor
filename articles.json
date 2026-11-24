@@ -21049,6 +21049,22 @@
     "importance": 3
   },
   {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대엔지니어링, 'BIM 어워즈 2026' 모듈러 부문 대상 - newsinside.kr",
+    "link": "https://www.newsinside.kr/news/articleView.html?idxno=5055442",
+    "description": "올해 처음 신설된 OSC 모듈러 부문은 공장에서 입체 모듈을 제작한 뒤 현장에서 조립하는 모듈러 건설 분야의 기술력을 평가한다. 현대엔지니어링은 'OSC 스마트 턴키의 첫걸음'을 주제로 설계부터 제작·시공...",
+    "published_at": "2026-11-24T13:08:00+09:00",
+    "cluster_id": "7827",
+    "publisher": "newsinside.kr",
+    "title_clean": "현대엔지니어링, 'BIM 어워즈 2026' 모듈러 부문 대상",
+    "summary": "현대엔지니어링이 'BIM 어워즈 2026' 모듈러 부문에서 대상을 수상했다. 올해 신설된 OSC 모듈러 부문은 공장 제작과 현장 조립 방식의 모듈러 건설 기술력을 평가하는 상이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T13:15:43+09:00",
+    "importance": 3
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32276,22 +32292,6 @@
     "publisher": "dailian.co.kr",
     "title_clean": "건설경기 침체에 체불임금 줄었지만…공사액 대비 체불 규모는 오히려 ...",
     "summary": "건설경기 침체로 체불임금 건수는 감소했으나, 공사액 대비 체불 규모는 오히려 증가하여 구조적 문제가 심화되고 있다. 공사대금 지급 지연과 건설업체 경영난이 임금체불의 근본 원인으로 지속되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-20T10:31:26+09:00",
-    "importance": 5
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "건설경기 침체에 체불임금 줄었지만…공사액 대비 체불 규모는 오히려 증가 - 데일리안",
-    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUVRZa0JPM2ZoWUF0aklWeHRrb25uUmZLNTlFb2EyeG1BMG5tU0txb0FMREtiTDhzei1UZDBpTDNZMzVHSHZnQXBvTnJOaXRPY2l0TkZUYmQyQkExeTdJb2oyVTU4dVBBZUFmaHIyYU9KSEU1VGtpNjIwT3FMcDFqR29CR2tlcmEzWVZoMjdlU1V6TWF2cG9fMjhmV0RwbjhYU1JWdW94TzFBQjVjaFhmeE80Q2p5Y3pWUkFfQzJQNl82MHF3ZTVKbG1fQ3ZnVE90QzVHVDh6ZWRsbnYtS25ZWFpjVUdYM0t6ajNGZFJUQ2dJOTFvRGJWeHBkRGJOOFNueEdYVENNM3BGTy1vN0FERXlwQWcwVlZ3Y2R2d3pNcV9mdHRYWFN4aFJfSEU5dw?oc=5",
-    "description": "지난해 건설업 임금체불액이 감소했지만 실제 공사 규모를 고려하면 체불 부담은 오히려 커진 것으로 나타났다. 건설경기 침체로 일감이 줄었지만, 공사대금 지급 지연과 건설업체 경영난 등 구조적인 임금체불 요인은 여전히 남아 있는 것으로 분석된다.20일 한국노동연구원 ‘임금정보브리프 2026년 제5호’에 실린 ‘건설업에서 임금구분지급제의 효과 및 과제’ 보고서에",
-    "published_at": "2026-11-20T10:25:00+09:00",
-    "cluster_id": "9d50",
-    "publisher": "데일리안",
-    "title_clean": "건설경기 침체에 체불임금 줄었지만…공사액 대비 체불 규모는 오히려 증가",
-    "summary": "건설업 임금체불액은 감소했으나 공사액 대비 체불 규모는 증가한 것으로 나타났다. 건설경기 침체로 일감이 줄었지만, 공사대금 지급 지연과 건설업체 경영난 등 구조적 문제는 여전히 존재한다.",
     "sentiment": "negative",
     "collected_at": "2026-11-20T10:31:26+09:00",
     "importance": 5
