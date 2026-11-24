@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "'2026 스마트건설·안전·AI 엑스포', 25일부터 사흘간 킨텍스에서 열려 - irobotnews.com",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49780",
+    "description": "국토교통부는 이달 25일부터 27일까지 사흘간 \"AI와 로봇이 여는 안전하고 The 스마트한 미래건설\"이라는 주제로 경기도 고양시 킨텍스 제1전시장에서 '스마트건설·안전·AI 엑스포'를 개최한다. 올해로 7회째를 맞는...",
+    "published_at": "2026-11-24T19:22:00+09:00",
+    "cluster_id": "174c",
+    "publisher": "irobotnews.com",
+    "title_clean": "'2026 스마트건설·안전·AI 엑스포', 25일부터 사흘간 킨텍스에서 열려",
+    "summary": "국토교통부가 25일부터 27일까지 킨텍스에서 '2026 스마트건설·안전·AI 엑스포'를 개최한다. AI와 로봇 기술을 활용한 스마트한 미래건설을 주제로 7회째 행사를 진행한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T19:32:19+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-22T14:07:46+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "코오롱글로벌 새 수장 정항기…신사업 육성·하늘채 경쟁력 회복 등 과... - asiatime.co.kr",
-    "link": "https://www.asiatime.co.kr/article/20261122500049",
-    "description": "건설경기 침체와 부동산 프로젝트파이낸싱(PF) 시장 불확실성이 이어지고 있다. 사업별 수익성 검증과 현금흐름 관리가 중요해진 상황이다. 신규 사업의 위험을 줄이고 기존 사업의 원가와 자금 운용 효율을 높여야...",
-    "published_at": "2026-11-22T13:56:00+09:00",
-    "cluster_id": "9cfb",
-    "publisher": "asiatime.co.kr",
-    "title_clean": "코오롱글로벌 새 수장 정항기…신사업 육성·하늘채 경쟁력 회복 등 과...",
-    "summary": "코오롱글로벌의 신임 수장이 건설경기 침체와 PF 시장 불확실성 속에서 신사업 육성과 기존 사업의 수익성 개선을 추진한다. 사업별 수익성 검증, 현금흐름 관리, 원가 효율화 등을 통해 경쟁력을 회복하려는 전략이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-22T13:57:47+09:00",
-    "importance": 4
   }
 ]
