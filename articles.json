@@ -5015,6 +5015,22 @@
     "importance": 7
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "한전기술 장중 6만3000원…신고리 설계계약 종료일 미정 - vegannews.co.kr",
+    "link": "https://www.vegannews.co.kr/news/article.html?no=410417",
+    "description": "두산에너빌리티와 맺은 2148억원 규모 용역 계약 한전기술(052690)이 신고리원자력발전소 5·6호기 원자로계통설계 용역의 계약 종료일을 미정으로 정정했다. 한국전력기술이 공개한 주식시황에 따르면 주가는 24일...",
+    "published_at": "2026-11-24T12:26:00+09:00",
+    "cluster_id": "483e",
+    "publisher": "vegannews.co.kr",
+    "title_clean": "한전기술 장중 6만3000원…신고리 설계계약 종료일 미정",
+    "summary": "한전기술이 두산에너빌리티와 체결한 2148억원 규모 신고리 5·6호기 원자로계통설계 용역의 계약 종료일을 미정으로 정정했다. 계약 조건 변경으로 인한 일정 불확실성이 발생했다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-24T12:33:36+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20997,22 +21013,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-18T18:35:33+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "두산퓨얼셀",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "한국거래소, 코스피200 등 3대 지수 종목 교체...정기변경 12월 적용 - pinpointnews.co.kr",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505579",
-    "description": "KOSPI 200 신규 편입 종목에는 두산퓨얼셀, 삼아알미늄, 한국쉘석유, PI첨단소재, 가온전선, 일진전기, 대덕전자, 효성, 서울보증보험, 현대지에프홀딩스, SK네트웍스가 포함됐다. 반면 지역난방공사, OCI, 대한유화...",
-    "published_at": "2026-11-18T18:30:00+09:00",
-    "cluster_id": "90a3",
-    "publisher": "pinpointnews.co.kr",
-    "title_clean": "한국거래소, 코스피200 등 3대 지수 종목 교체...정기변경 12월 적용",
-    "summary": "한국거래소가 KOSPI 200, KOSPI 100, KRX 300 등 3대 지수의 종목을 정기 변경하며 12월에 적용한다. 두산퓨얼셀, 효성, SK네트웍스 등 11개 신규 종목이 편입되고 지역난방공사, OCI, 대한유화 등이 제외된다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-18T18:35:33+09:00",
-    "importance": 2
   },
   {
     "keyword": "스마트건설",
