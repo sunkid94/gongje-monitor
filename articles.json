@@ -21287,6 +21287,38 @@
     "importance": 3
   },
   {
+    "keyword": "건설산업기본법",
+    "category": "정책·규제",
+    "is_company": false,
+    "title": "'4.3억원 일감 보호규정' 일몰 코앞…건설업계 '기준금액 조정' 기싸움 - view.asiae.co.kr",
+    "link": "https://view.asiae.co.kr/article/2026112401040175934",
+    "description": "25일 국토교통부와 건설업계에 따르면 4억3000만원 미만 전문공사에 종합사가 직접 따내는 원도급을 제한한 건설산업기본법 규정이 다음 달 31일 만료된다. 이 규정은 2021년 종합·전문공사 상호 입찰을 허용할 때 영세...",
+    "published_at": "2026-11-25T06:00:00+09:00",
+    "cluster_id": "cbf2",
+    "publisher": "view.asiae.co.kr",
+    "title_clean": "'4.3억원 일감 보호규정' 일몰 코앞…건설업계 '기준금액 조정' 기싸움",
+    "summary": "4억3000만원 미만 전문공사 일감을 보호하던 건설산업기본법 규정이 내달 31일 만료를 앞두고 있다. 기준금액 조정을 놓고 종합사와 전문공사 간 입장 차이가 발생하면서 업계 갈등이 고조되고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-25T06:06:32+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "11월 25일 (水) 경제 캘린더 - ytn.co.kr",
+    "link": "https://www.ytn.co.kr/_ln/0102_202611250556516513",
+    "description": "■ AI·로봇이 바꾸는 건설현장…스마트건설 엑스포 인공지능과 로봇 등 첨단기술을 활용한 건설현장의 안전관리 및 자동화 기술을 한자리에서 볼 수 있는 전시회가 열립니다. 국토부는 오늘부터 사흘 동안 경기...",
+    "published_at": "2026-11-25T05:56:00+09:00",
+    "cluster_id": "cd68",
+    "publisher": "ytn.co.kr",
+    "title_clean": "11월 25일 (水) 경제 캘린더",
+    "summary": "국토부가 스마트건설 엑스포를 개최하여 AI, 로봇 등 첨단기술을 활용한 건설현장의 안전관리 및 자동화 기술을 선보인다. 건설업계의 디지털 전환과 안전 강화를 위한 기술 혁신을 지원하는 행사다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T06:06:32+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32277,37 +32309,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-23T06:08:04+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "레미콘값 다시 올랐다…대형 건설사 공사비 상승 압력 - etoday.co.kr",
-    "link": "https://www.etoday.co.kr/news/view/2651135",
-    "description": "한 대형 건설사 관계자는 “레미콘은 시멘트뿐 아니라 여러 원재료와 운송 여건에 따라 가격이 결정되는 만큼 특정 자재의 가격이 안정됐다고 전체 단가가 내려가는 것은 아니다”라며 “올해는 건설경기 부진에도...",
-    "published_at": "2026-11-23T06:00:00+09:00",
-    "cluster_id": "0098",
-    "publisher": "etoday.co.kr",
-    "title_clean": "레미콘값 다시 올랐다…대형 건설사 공사비 상승 압력",
-    "summary": "레미콘 가격이 다시 상승하면서 대형 건설사들이 공사비 상승 압력을 받고 있다. 시멘트뿐 아니라 원재료와 운송 여건 등 여러 요인이 복합적으로 작용하면서 건설경기 부진 속에서도 단가 인하가 어려운 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-23T06:02:56+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "강남구, 공사장 안전관리 촘촘히…관계자 400명 특별교육 - 서프라이즈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SQ1Q4N3ZSRFhaX05tcmFrTTZTVHlOc1k1SjFuSHV2Nkp1NFJRUjNWNFhFTFVNejRQb0NteDRDRWVmQVF5WjNqdU81LV93VHV5T3E3alFyR0YzbVRsTGQwemRPZ0M1azhEY2E5azNB?oc=5",
-    "description": "[서프라이즈뉴스] 강남구가 11월 26일 강남구민회관 2층 대강당에서 관내 신축 건축공사장 관계자 약 400명을 대상으로 하반기 특별안전교육을 실시한다.실제 사고사례를 중심으로 현장 위험요인을 짚고 사고 예방을 위한 안전관리 역량을 높이는 데 초점을 맞춘다.강남구에는 현재 건축공사장 397곳이 있다.이 가운데 신축공사장은 238곳이다.연면적 1만㎡ 이상 또는 공사비 50억원 이상인 대형 공사장이 87곳, 중·소형 공사장이 151곳에 달한다.서울 자치구 가운데 건축공사장이 많은 지역 특성을 고려해 공사 단계별 안전교육과 현장관리를 강",
-    "published_at": "2026-11-23T05:37:50+09:00",
-    "cluster_id": "4492",
-    "publisher": "서프라이즈뉴스",
-    "title_clean": "강남구, 공사장 안전관리 촘촘히…관계자 400명 특별교육",
-    "summary": "강남구가 11월 26일 신축 건축공사장 관계자 400명을 대상으로 하반기 특별안전교육을 실시한다. 현재 강남구 내 건축공사장 397곳(신축 238곳) 중 대형 87곳, 중소형 151곳을 운영 중이며, 실제 사고사례 중심의 안전관리 역량 강화에 초점을 맞추고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-23T05:52:59+09:00",
-    "importance": 4
   }
 ]
