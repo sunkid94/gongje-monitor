@@ -21287,6 +21287,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "건설안전 학회 논문이 현장에 보내는 경고 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IQnlwRnBWc18wOTBvUGVHdTQ1dE1kdVV1LXZaTXdWaDlsVm5GREp1X2VPbExTdFZ3UGc1MWlJX1VTVFN5YnIxdXpISlZZazV4OXdB?oc=5",
+    "description": "접수 마감 뒤 남은 것은 연구 주제의 현장 의미다 한국건설안전학회가 2026년 12월 31일 발간 예정인 논문집의 게재 논문을 모집했다. iSAFETY 보도에 따르면 제출 마감은 2026년 11월 16일이었으며, 모집 분야는 건설 기술과 건설 안전, 건설 안전 관련 법령·제도·정책, 건설 관리 조직과 안전 문화, 안전 관리 및 증진 기술, 유해 오염 관리,",
+    "published_at": "2026-11-25T01:25:31+09:00",
+    "cluster_id": "fe23",
+    "publisher": "유스연합",
+    "title_clean": "건설안전 학회 논문이 현장에 보내는 경고",
+    "summary": "한국건설안전학회가 2026년 12월 31일 발간 예정인 논문집의 게재 논문을 모집했으며, 마감일은 2026년 11월 16일이다. 건설 기술, 안전 관리, 법령·제도·정책, 안전 문화 등 다양한 분야의 연구 논문을 받고 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-25T02:02:33+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32292,22 +32308,6 @@
     "summary": "철강업계가 건설경기 침체와 중국산 저가 제품 공세로 어려움을 겪으면서 AI 인재 확보와 생산공정 첨단화를 통해 원가 경쟁력을 강화하려는 전략을 추진 중이다. 이는 업황 부진을 극복하기 위한 구조 개선 움직임으로 평가된다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-23T00:08:12+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[봉수대]목동 12단지 재건축 ,‘쌍포' 쏴... GS건설 시공자 선정· 통합심의 ‘통과’ - 하우징타임즈",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MMmVZREpBLVUxVV9MbWlhSERlQml2V1dEbUhuSUt0VGZyOFpNV1o2eXVYVFlESmhiNTVLemk1d2diRWRVdEpGMDVkZ2NHUm1Dam5LMmtBTTFnWGxRa2lwcEdUUk1aNnUyQXUxSU9LTG0?oc=5",
-    "description": "[하우징타임즈=김상규 전문기자]목동12단지 재건축사업이 겹경사를 맞았다. GS건설을 시공자로 맞이했으며, 서울시 정비사업 통합심의를 조건부로 통과한 것이다.GS건설 수주... 조합원 압도적 지지로 선정돼3.3㎡당 예정 공사비 980만 원, 총공사비 약 1조8,000억 원! 조합은 22",
-    "published_at": "2026-11-22T16:50:00+09:00",
-    "cluster_id": "647b",
-    "publisher": "하우징타임즈",
-    "title_clean": "[봉수대]목동 12단지 재건축 ,‘쌍포' 쏴... GS건설 시공자 선정· 통합심의 ‘통과’",
-    "summary": "목동 12단지 재건축사업에서 GS건설이 시공자로 선정되고 서울시 정비사업 통합심의를 조건부 통과했다. 총공사비 약 1조8,000억 원 규모의 대형 프로젝트로, 건설사에게 대규모 수주 기회를 제공한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-22T22:12:53+09:00",
     "importance": 2
   }
 ]
