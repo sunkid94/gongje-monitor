@@ -5253,6 +5253,22 @@
     "importance": 6
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘적자 잭팟’ 국외 핵발전 사업, 이제 그만 - h21.hani.co.kr",
+    "link": "https://h21.hani.co.kr/arti/society/environment/60202.html",
+    "description": "이런 논란 속에 계약을 체결한 이후 1년 남짓 흐른 2026년 10월, 시공을 맡기로 했던 대우건설 컨소시엄과 한수원의 협상이 결렬됐다. 한수원이 수주한 두코바니 사업의 총사업비는 약 27조원 규모인데, 한수원과...",
+    "published_at": "2026-11-25T08:36:00+09:00",
+    "cluster_id": "8b19",
+    "publisher": "h21.hani.co.kr",
+    "title_clean": "‘적자 잭팟’ 국외 핵발전 사업, 이제 그만",
+    "summary": "한수원이 수주한 체코 두코바니 핵발전소 사업(27조원 규모)에서 시공사 대우건설 컨소시엄과의 협상이 결렬됐다. 국외 핵발전 사업의 적자 문제로 인한 사업 차질이 발생하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-25T08:46:41+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "삼성중공업",
     "category": "종합건설사",
     "is_company": false,
@@ -21237,19 +21253,19 @@
     "importance": 2
   },
   {
-    "keyword": "대우건설",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "대우건설, 중동 첫 ‘침매터널’ 준공...“가덕도신공항 안정적 시공 역량 입증” - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZ2dyTjFJUGFqa0MtMDFCTUhOdkZHdVdZdENSallqU0RZUEgtRVBUZWxwdnN1SVRCa2RRc2o1alRaYkxjLVRwNmc3WTFVaF9tM2pmMEZ3?oc=5",
-    "description": "대우건설은 이라크 알포 신항만 개발사업의 핵심 기반시설인 침매터널 현장이 지난 달 31일 발주처인 이라크 항만청으로부터 준공확인서(TOC)를 접수했다고 밝혔다. 19일",
-    "published_at": "2026-11-19T11:16:46+09:00",
-    "cluster_id": "6f84",
-    "publisher": "헤럴드경제",
-    "title_clean": "대우건설, 중동 첫 ‘침매터널’ 준공...“가덕도신공항 안정적 시공 역량 입증”",
-    "summary": "대우건설이 이라크 알포 신항만 개발사업의 침매터널을 중동 지역에서 처음으로 준공했다. 이는 가덕도신공항 등 국내 대형 프로젝트 시공 역량을 입증하는 성과로 평가된다.",
+    "title": "현대엔지니어링, 모듈러 건축 경쟁력 입증…BIM 대상 거머쥐어 - economytalk.kr",
+    "link": "http://www.economytalk.kr/news/articleView.html?idxno=425515",
+    "description": "BIM Awards는 (사)빌딩스마트협회와 오프사이트모듈러산업협회가 공동 주최하는 BIM·스마트건설 분야 시상식이다. 올해 처음 신설된 OSC Modular 부문은 공장에서 공간 단위의 입체 모듈을 사전 제작한 뒤 현장에서...",
+    "published_at": "2026-11-25T08:40:00+09:00",
+    "cluster_id": "49b7",
+    "publisher": "economytalk.kr",
+    "title_clean": "현대엔지니어링, 모듈러 건축 경쟁력 입증…BIM 대상 거머쥐어",
+    "summary": "현대엔지니어링이 BIM Awards의 신설 부문인 OSC Modular 부문에서 수상하며 모듈러 건축 기술 경쟁력을 입증했다. 모듈러 건축은 공장 선제작과 현장 조립으로 공기 단축과 품질 향상을 가능하게 하는 미래 건설 방식으로 주목받고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-19T11:25:34+09:00",
+    "collected_at": "2026-11-25T08:46:41+09:00",
     "importance": 2
   },
   {
@@ -32291,21 +32307,5 @@
     "sentiment": "positive",
     "collected_at": "2026-11-23T08:03:52+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "[창간 40주년 특집] “건설업계 양극화 갈수록 심화··· 독보적 시공기술·장비로 승부해야” - 대한전문건설신문",
-    "link": "https://www.koscaj.com/news/articleView.html?idxno=327554",
-    "description": "국토교통부 차관과 국회 국토교통위원회 위원을 지낸 김희국 전 의원은 우리 건설산업이 지난 40년간 양적으로 크게 성장했지만, 앞으로는 기업 간 격차가 더 빠르게 벌어질 것으로 내다봤다. 특히 전문건설업계가 제도적 보호에만 기대기보다 독자적인 기술과 장비, 시공능력을 갖춰야 한다고 강조했다. 생산체계 개편과 상호시장 개방에 대해서도 종합과 전문의 역할을 흐린 제도라고 지적했다. 본보 창간 40주년을 맞아 김 전 의원에게 전문건설의 지난 40년과 앞으로의 생존 전략을 들어봤다.- 지난 40년간 우리나라 건설산업에서 가장 크게 달라진 점",
-    "published_at": "2026-11-23T08:00:00+09:00",
-    "cluster_id": "19f0",
-    "publisher": "대한전문건설신문",
-    "title_clean": "[창간 40주년 특집] “건설업계 양극화 갈수록 심화··· 독보적 시공기술·장비로 승부해야”",
-    "summary": "김희국 전 의원은 건설산업의 40년 양적 성장을 평가하면서도 향후 기업 간 양극화 심화를 경고했다. 전문건설업계가 제도적 보호에 의존하기보다 독자적 기술·장비·시공능력으로 경쟁력을 확보해야 한다고 강조했다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-23T08:03:52+09:00",
-    "importance": 4
   }
 ]
