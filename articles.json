@@ -20998,6 +20998,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대엔지니어링, 국내 최대 모듈러 공동주택 기술로 ‘BIM Awards’ 2관왕 - seoultimes.news",
+    "link": "https://www.seoultimes.news/news/article.html?no=2000102610",
+    "description": "BIM Awards는 빌딩스마트협회와 오프사이트모듈러산업협회가 공동 주최하는 국내 BIM·스마트건설 분야 시상식이다. 건축물 정보를 3차원 디지털 모델로 통합 관리하는 BIM 기술을 설계·시공·엔지니어링·기술솔루션...",
+    "published_at": "2026-11-24T11:46:00+09:00",
+    "cluster_id": "b60a",
+    "publisher": "seoultimes.news",
+    "title_clean": "현대엔지니어링, 국내 최대 모듈러 공동주택 기술로 ‘BIM Awards’ 2관왕",
+    "summary": "현대엔지니어링이 BIM·스마트건설 분야 시상식인 'BIM Awards'에서 모듈러 공동주택 기술로 2관왕을 차지했다. 국내 최대 규모의 모듈러 공동주택 기술 인정으로 건설산업의 디지털화 및 혁신적 건설방식 도입을 선도하고 있음을 보여준다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T12:03:22+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32275,22 +32291,6 @@
     "summary": "정부가 2027~2030년 공공 모듈러주택 발주목표를 2만호로 확대하고 초과공사비를 지원하면서 모듈러주택 공급이 본격화되고 있다. 공기 단축과 안전사고 감소 등의 장점이 있으나, 대량 공급 초기 단계에서 하자 및 품질 이슈 관리와 전문건설 참여를 통한 품질보증이 중요하다는 지적이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-19T17:54:07+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설수주",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "광명 하안주공 재건축사업…한화 건설부문 1조에 수주 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxUkw2Y3NJZElvREN1MFE1X1JsMlI5UXNSaGlfektNb24zOHZJYlJOckZ6LWcxUFE4LUZoMHFrN3lzek9LWkhJbFU5aTliTVRBcTdacGJWSjc?oc=5",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxUkw2Y3NJZElvREN1MFE1X1JsMlI5UXNSaGlfektNb24zOHZJYlJOckZ6LWcxUFE4LUZoMHFrN3lzek9LWkhJbFU5aTliTVRBcTdacGJWSjc?oc=5\" target=\"_blank\">광명 하안주공 재건축사업…한화 건설부문 1조에 수주</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-    "published_at": "2026-11-19T17:33:44+09:00",
-    "cluster_id": "d32a",
-    "publisher": "매일경제",
-    "title_clean": "광명 하안주공 재건축사업…한화 건설부문 1조에 수주",
-    "summary": "한화 건설부문이 광명 하안주공 재건축사업을 약 1조 원대에 수주했다. 대규모 주공 재건축 프로젝트 수주로 건설사의 수주 실적이 증가했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-19T17:51:09+09:00",
     "importance": 2
   }
 ]
