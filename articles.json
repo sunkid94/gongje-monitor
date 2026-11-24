@@ -21273,6 +21273,22 @@
     "keyword": "모듈러 건설",
     "category": "신기술",
     "is_company": false,
+    "title": "계룡건설, '2026 BIM 어워즈' 모듈러 분야 대상 수상 - cctimes.kr",
+    "link": "http://www.cctimes.kr/news/articleView.html?idxno=938904",
+    "description": "계룡건설은 그동안 축적한 사업 경험에 BIM 기반 설계·시공 관리 역량을 결합해 모듈러 건설의 기술적 완성도를 높이고, 사업 규모와 적용 범위를 지속적으로 확대해 나갈 방침이다.",
+    "published_at": "2026-11-24T19:00:00+09:00",
+    "cluster_id": "d5fc",
+    "publisher": "cctimes.kr",
+    "title_clean": "계룡건설, '2026 BIM 어워즈' 모듈러 분야 대상 수상",
+    "summary": "계룡건설이 '2026 BIM 어워즈'에서 모듈러 분야 대상을 수상했다. BIM 기반 설계·시공 관리 역량과 사업 경험을 결합하여 모듈러 건설 기술을 고도화하고 사업 규모 확대를 추진할 계획이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-24T19:06:42+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "모듈러 건설",
+    "category": "신기술",
+    "is_company": false,
     "title": "현대엔지니어링, 'BIM Awards 2026' 대상…모듈러 건축 기술력 인정 - thepublic.kr",
     "link": "https://www.thepublic.kr/news/articleView.html?idxno=328307",
     "description": "올해 신설된 OSC Modular 부문은 공장에서 건축물의 주요 구성 요소를 사전 제작한 뒤 현장에서 조립하는 모듈러 건설 분야의 우수 사례를 선정한다. 현대엔지니어링은 현재 수행 중인 세종 5-1생활권 L5BL 공동주택 사업에...",
@@ -32292,21 +32308,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-22T13:37:52+09:00",
     "importance": 3
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "한파에도 새벽 작업 그대로?…건설현장 불시점검·위반 시 과태료 - biz.sbs.co.kr",
-    "link": "https://biz.sbs.co.kr/article_hub/20000348022?division=NAVER",
-    "description": "특히 건설노동자, 환경미화 노동자 등 야외 작업이 많은 직군은 한파에 직접 노출되는 만큼 보호조치가 중요합니다. 이번 점검에서는 따뜻한 옷과 쉼터, 따뜻한 물 제공, 작업시간대 조정, 119 신고 등 '한파안전 5대...",
-    "published_at": "2026-11-22T13:35:00+09:00",
-    "cluster_id": "95bc",
-    "publisher": "biz.sbs.co.kr",
-    "title_clean": "한파에도 새벽 작업 그대로?…건설현장 불시점검·위반 시 과태료",
-    "summary": "정부가 한파 시즌에 건설현장과 야외작업장에 대한 불시점검을 강화하고 위반 시 과태료를 부과하겠다고 예고했다. 건설노동자의 안전을 위해 따뜻한 옷, 쉼터, 작업시간 조정 등 '한파안전 5대' 조치 준수를 의무화할 계획이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-22T13:37:52+09:00",
-    "importance": 4
   }
 ]
