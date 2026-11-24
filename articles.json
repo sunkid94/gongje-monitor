@@ -21273,6 +21273,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "한파 취약사업장 집중 점검... 창원지청, 20여곳 현장 살펴 - gnmaeil.com",
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=599387",
+    "description": "급격한 기온 하강은 혈압 상승 등 건강에도 부담을 줄 수 있어 건설노동자와 환경미화 노동자 등에 대한 각별한 보호가 요구된다. 창원지청은 점검에서 법 위반 사항이 확인되면 과태료 부과와 개선 조치를 하고, 시정...",
+    "published_at": "2026-11-24T21:54:00+09:00",
+    "cluster_id": "b513",
+    "publisher": "gnmaeil.com",
+    "title_clean": "한파 취약사업장 집중 점검... 창원지청, 20여곳 현장 살펴",
+    "summary": "창원지청이 한파 취약사업장 20여곳을 집중 점검하여 건설노동자와 환경미화 노동자의 안전을 확보하려는 조치를 추진 중이다. 법 위반 시 과태료 부과 및 개선 조치를 실시할 예정이다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-24T22:02:34+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "[시사천국] 건강은 정말 개인의 문제인가…사는 곳이 만든 '건강수명' 격... - news.cpbc.co.kr",
     "link": "https://news.cpbc.co.kr/article/1177256?division=NAVER",
     "description": "근데 이런 게 그냥 술 많이 마시는 거라고도 볼 수 있지만 이 지역 같은 경우는 염전 일이나 이분은 이제 건설 노동자로 시작해서 지금 레미콘 운전하는 일을 하시는데 그 일이 고되다 보니까 음주에 대한 어떤 관용이...",
@@ -32291,22 +32307,6 @@
     "summary": "법무법인 화우가 12월 3일 중대재해, 불법하도급, 부실시공 관련 제재 대응 전략 세미나를 개최한다. 건설업계의 주요 리스크 이슈들에 대한 법적 대응 방안을 다룬다.",
     "sentiment": "negative",
     "collected_at": "2026-11-22T14:37:59+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 139, 철강 50… 넉 달 만에 제조업 경기 전망 기준선 밑으로 - financialpost.co.kr",
-    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=302363",
-    "description": "건산연이 조사한 10월 건설경기실사지수(CBSI)도 70.6으로 전월보다 2.6포인트 하락했다. 공사 대금 회수가 어려워지고 수주잔고 평가가 나빠진 영향이다. 철강 수출은 업황 전망과 반대로 움직였다. 산업통상부에...",
-    "published_at": "2026-11-22T14:30:00+09:00",
-    "cluster_id": "9880",
-    "publisher": "financialpost.co.kr",
-    "title_clean": "반도체 139, 철강 50… 넉 달 만에 제조업 경기 전망 기준선 밑으로",
-    "summary": "10월 제조업 경기전망이 기준선 아래로 하락했으며, 건설경기실사지수(CBSI)도 70.6으로 전월 대비 하락했다. 공사 대금 회수 어려움과 수주잔고 평가 악화가 주요 원인으로 지적되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-22T14:32:58+09:00",
     "importance": 4
   }
 ]
