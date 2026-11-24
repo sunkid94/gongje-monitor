@@ -21273,6 +21273,22 @@
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
+    "title": "건설기능공 양성·청년 유입 위한 교육 예산 \"턱없이 부족\" - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41899",
+    "description": "건설노동자들이 건설업 숙련 인력 양성을 위한 교육훈련 예산 확대를 국회에 촉구했다. 민주노총 건설산업연맹(위원장 이영철)이 24일 서울 영등포구 국회 앞에서 '2027년 건설노동자 교육훈련 예산 증액 촉구 기자회견...",
+    "published_at": "2026-11-24T22:41:00+09:00",
+    "cluster_id": "b099",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "건설기능공 양성·청년 유입 위한 교육 예산 \"턱없이 부족\"",
+    "summary": "민주노총 건설산업연맹이 국회 앞에서 2027년 건설노동자 교육훈련 예산 증액을 촉구했다. 건설업 숙련 인력 양성과 청년 유입을 위해 현 교육 예산이 부족하다는 입장을 표명했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-24T22:52:22+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
     "title": "한파 취약사업장 집중 점검... 창원지청, 20여곳 현장 살펴 - gnmaeil.com",
     "link": "http://www.gnmaeil.com/news/articleView.html?idxno=599387",
     "description": "급격한 기온 하강은 혈압 상승 등 건강에도 부담을 줄 수 있어 건설노동자와 환경미화 노동자 등에 대한 각별한 보호가 요구된다. 창원지청은 점검에서 법 위반 사항이 확인되면 과태료 부과와 개선 조치를 하고, 시정...",
@@ -32292,21 +32308,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-22T14:37:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "중대재해 건설",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "[로펌 브리핑] 화우, 내달 3일 ‘중대재해ㆍ불법하도급ㆍ부실시공 제재 대응’ 세미나 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04eTk1RURsSDVGNlpKa1E5R01TLVd6cThGRjdWRWJnaE5KMW9UalFLU2tOVS1aa3RmVmJrcThnelloWDZKX1pjVVk4Z1lreDc3b2c1LWl3eWhIaUFHWjdCMEFHT2ZVTE5MVkVEemw3eHgwTGM?oc=5",
-    "description": "[대한경제=이승윤 기자]법무법인 화우(대표변호사 이명수)는 오는 12월3일 오후 2시 서울 강남구 삼성동 아셈타워 34층 화우연수원에서 ‘중대재해ㆍ불법하도급ㆍ부실시공 제재 리스크 대응전략’을 주제로 세미나를 개최한다.세미나는 중대재해, 불법하도급, 부실시공에 대한 행정 ...",
-    "published_at": "2026-11-22T14:21:58+09:00",
-    "cluster_id": "0b63",
-    "publisher": "대한경제",
-    "title_clean": "[로펌 브리핑] 화우, 내달 3일 ‘중대재해ㆍ불법하도급ㆍ부실시공 제재 대응’ 세미나",
-    "summary": "법무법인 화우가 12월 3일 중대재해, 불법하도급, 부실시공 관련 제재 대응 전략 세미나를 개최한다. 건설업계의 주요 리스크 이슈들에 대한 법적 대응 방안을 다룬다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-22T14:37:59+09:00",
-    "importance": 4
   }
 ]
