@@ -21270,6 +21270,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[시사천국] 건강은 정말 개인의 문제인가…사는 곳이 만든 '건강수명' 격... - news.cpbc.co.kr",
+    "link": "https://news.cpbc.co.kr/article/1177256?division=NAVER",
+    "description": "근데 이런 게 그냥 술 많이 마시는 거라고도 볼 수 있지만 이 지역 같은 경우는 염전 일이나 이분은 이제 건설 노동자로 시작해서 지금 레미콘 운전하는 일을 하시는데 그 일이 고되다 보니까 음주에 대한 어떤 관용이...",
+    "published_at": "2026-11-24T20:56:00+09:00",
+    "cluster_id": "0453",
+    "publisher": "news.cpbc.co.kr",
+    "title_clean": "[시사천국] 건강은 정말 개인의 문제인가…사는 곳이 만든 '건강수명' 격...",
+    "summary": "건설 노동자의 열악한 근무 환경과 고된 일로 인한 음주 문제를 다루며, 건강 격차가 개인의 선택이 아닌 직업 환경과 사회 구조의 차이에서 비롯됨을 지적하고 있다. 건설업 종사자들의 건강수명 저하가 산업 구조적 문제와 연관되어 있음을 조명하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-24T21:01:43+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32292,21 +32308,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-22T14:32:58+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전도시공사, 소규모 건축현장 안전·품질 점검 무료 지원 - 충청매일",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10Q2FWSXlsUjIwaUZGcC1Ed2J3cEFUYkNjSjg5QnYyRDMtSE5TMzNaYjNjczFoZ2tMMTJ6c0dqRDFqTnRiVkU3Q0JtM0JOMmQ1MGlmT1Bvc3Q4ai1YXzN6dXBoS1V3TU5qMGc?oc=5",
-    "description": "대전도시공사가 안전·품질관리 여건이 상대적으로 취약한 소규모 민간 건축현장을 대상으로 ‘찾아가는 안전·품질 점검 지원’ 사업을 추진한다. 이번 사업은 안전·품질관리에 어려움을 겪는 소규모 건축현장에 공사가 보유한 전문인력과 점검장비를 지원해 건설사고를 예방하고 시공 품질을 높이기 위해",
-    "published_at": "2026-11-22T14:20:21+09:00",
-    "cluster_id": "bfcf",
-    "publisher": "충청매일",
-    "title_clean": "대전도시공사, 소규모 건축현장 안전·품질 점검 무료 지원",
-    "summary": "대전도시공사가 소규모 민간 건축현장을 대상으로 무료 안전·품질 점검 지원 사업을 추진한다. 전문인력과 점검장비를 지원하여 건설사고 예방과 시공 품질 향상을 목표로 한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-22T14:32:58+09:00",
-    "importance": 2
   }
 ]
