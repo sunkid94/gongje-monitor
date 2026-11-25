@@ -20947,6 +20947,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "공적주택 보고 받은 李대통령 “독일병정 전차 가듯…밀리지 말고 다 해... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10949512?ref=naver",
+    "description": "또 주택공급 확대가 건설경기 활성화와 일자리 창출, 내수 회복으로 이어질 수 있다는 점을 강조하면서 건설 수요 급증에 따른 인력 부족과 건설자재 수급 및 물가 관리 대책도 선제적으로 마련할 것을 주문했다....",
+    "published_at": "2026-11-25T23:18:00+09:00",
+    "cluster_id": "503a",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "공적주택 보고 받은 李대통령 “독일병정 전차 가듯…밀리지 말고 다 해...",
+    "summary": "이준석 대통령이 공적주택 확대 정책을 지시하며 건설경기 활성화와 일자리 창출을 강조했다. 주택공급 확대에 따른 건설 수요 증가에 대비해 인력 부족, 자재 수급, 물가 관리 대책을 선제적으로 마련할 것을 주문했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T23:31:56+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "대기업·벤처 손잡고 7년간 656억 투자 이끌었다…특구재단-SK에코플랜트... - cc.newdaily.co.kr",
+    "link": "https://cc.newdaily.co.kr/site/data/html/2026/11/25/2026112550385.html",
+    "description": "초기 친환경·스마트건설 분야에서 시작된 협력은 반도체를 거쳐 최근 급성장 중인 AI 데이터센터 분야로 확대됐다. 특히 두 기관은 SK그룹의 실제 산업 현장을 신기술 시험 무대로 내어주는 '사업화 연구개발(R&BD)' 과제...",
+    "published_at": "2026-11-25T23:24:00+09:00",
+    "cluster_id": "7bd5",
+    "publisher": "cc.newdaily.co.kr",
+    "title_clean": "대기업·벤처 손잡고 7년간 656억 투자 이끌었다…특구재단-SK에코플랜트...",
+    "summary": "특구재단과 SK에코플랜트가 7년간 656억 원을 투자하여 친환경·스마트건설에서 시작한 협력을 반도체, AI 데이터센터 등으로 확대했다. 사업화 R&D를 통해 대기업과 벤처가 협력하는 생태계를 구축하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T23:31:56+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32256,38 +32288,6 @@
     "summary": "한전KDN과 한국전력이 국제 품질분임조대회에서 금상을 수상하고 명예산업안전감독관을 위촉받았다. 이는 업무 혁신과 안전관리 강화를 통해 공공 에너지 인프라의 경쟁력을 높인 것으로 평가된다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-23T16:51:13+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'14명 사망' 안전공업 손주환 대표 등 12명·법인, 불구속 기소 - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261123_0003879761",
-    "description": "불법 증축 휴게실 등 건설산업기본법 위반 혐의를 받는 인테리어 업체 운영자도 함께 재판에 넘겨졌다. 손 대표 등 임직원 8명은 유해 및 위험 요인을 점검하는 등 안전보건 확보 의무와 근로자를 신속하게 대피시킬 안전...",
-    "published_at": "2026-11-23T16:36:00+09:00",
-    "cluster_id": "2425",
-    "publisher": "newsis.com",
-    "title_clean": "'14명 사망' 안전공업 손주환 대표 등 12명·법인, 불구속 기소",
-    "summary": "안전공업 손주환 대표 등 임직원 12명과 법인이 14명 사망 사고와 관련해 건설산업기본법 위반, 안전보건 의무 불이행 혐의로 불구속 기소됐다. 인테리어 업체의 불법 증축 휴게실 등도 함께 재판에 넘겨져 건설업계의 안전관리 부실 문제가 드러났다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-23T16:44:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대전 전문건설협회, 대전시의장과 '지역 건설산업 활성화 간담회' - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261123_0003879762",
-    "description": "조성칠 의장은 \"어려운 건설경기 속에서도 안전한 현장 조성을 위해 애써주시는 전문건설인 여러분께 감사드린다\"며 \"건의사항을 면밀히 검토하고 협의해 지역 전문건설업계에 실질적인 도움이 되도록 적극 협조하겠다\"고...",
-    "published_at": "2026-11-23T16:39:00+09:00",
-    "cluster_id": "9649",
-    "publisher": "newsis.com",
-    "title_clean": "대전 전문건설협회, 대전시의장과 '지역 건설산업 활성화 간담회'",
-    "summary": "대전 전문건설협회가 대전시의장과 간담회를 개최하여 건설산업 활성화에 대해 협의했다. 시의장은 안전한 현장 조성에 힘쓰는 전문건설인에 감사하며, 건의사항을 적극 검토해 업계에 실질적 지원을 하겠다는 의지를 표현했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-23T16:44:41+09:00",
     "importance": 2
   }
 ]
