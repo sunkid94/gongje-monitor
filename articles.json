@@ -20947,6 +20947,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[포토] 불 밝힌 P5, 교대하는 노동자들 - ajunews.com",
+    "link": "https://www.ajunews.com/view/20261125213552699",
+    "description": "아주경제=한준구 기자 jungu141298@ajunews.com 25일 오후 경기도 평택시 삼성전자 평택캠퍼스 P5 공사현장에서 건설 노동자들이 출퇴근하고 있다. 2026.11.25",
+    "published_at": "2026-11-25T21:42:00+09:00",
+    "cluster_id": "5fd6",
+    "publisher": "ajunews.com",
+    "title_clean": "[포토] 불 밝힌 P5, 교대하는 노동자들",
+    "summary": "삼성전자 평택캠퍼스 P5 공사현장에서 건설 노동자들이 교대로 출퇴근하고 있는 모습을 담은 포토 뉴스. 반도체 제조시설 건설 프로젝트가 진행 중임을 보여주는 현장 소식.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-25T21:55:57+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32272,22 +32288,6 @@
     "summary": "고용노동부가 안전보건 현황 공시제를 8월 1일부터 시행하며, 공공기관과 상시근로자 500명 이상 또는 연간 공사금액 1200억원 이상 건설사업주는 내년 4월 30일까지 안전보건 현황을 의무 공시해야 한다. 정부는 기업의 산재예방 노력을 유도하기 위해 투명성 강화를 추진 중이다.",
     "sentiment": "negative",
     "collected_at": "2026-11-23T16:44:41+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "고양시, 상하수도 건설현장 안전관리 회의 열고 위험요인 점검 - 한국사회복지저널",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wclVBVVZTRzNaenYzaWVDN2tjMjNtLUJfVE5Wd2FiZHkxMGVjRWtYU29ZY3M3X1Exd3Z2MnlUTGlzcUZZamN1dFhyNFl6bTg5RmRDVTg2ODJGTUpJQ010ODJjc1NvTWZDOVVV?oc=5",
-    "description": "고양특례시는 지난 20일 상하수도사업소에서 추진 중인 주요 건설공사의 안전사고 예방과 현장 안전관리 강화를 위해 건설현장 안전관리 회의를 열었습니다.어떤 내용이 논의됐나이번 회의는 최근 관내 건설현장에서 발생한 안전사고를 계기로 마련됐습니다.현장별 위험 요인을 점검하고 유사 사고 재발",
-    "published_at": "2026-11-23T16:29:49+09:00",
-    "cluster_id": "f643",
-    "publisher": "한국사회복지저널",
-    "title_clean": "고양시, 상하수도 건설현장 안전관리 회의 열고 위험요인 점검",
-    "summary": "고양특례시가 상하수도 건설현장의 안전사고 예방을 위해 안전관리 회의를 개최했습니다. 최근 발생한 안전사고를 계기로 현장별 위험요인을 점검하고 유사 사고 재발 방지를 논의했습니다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-23T16:41:10+09:00",
     "importance": 4
   }
 ]
