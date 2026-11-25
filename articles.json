@@ -4930,6 +4930,22 @@
     "importance": 5
   },
   {
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "현대엔지니어링, 용인·호남 발전플랜트 수주…2.3조 규모 - kfenews.co.kr",
+    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668795",
+    "description": "현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 맡고, 포스코이앤씨가 시공을 담당한다. 내년 6월 착공해 2030년 5월 준공할 예정이다. 반도체와 석유화학 등 대규모 국가 기간산업 단지가 본격...",
+    "published_at": "2026-11-25T19:04:00+09:00",
+    "cluster_id": "547e",
+    "publisher": "kfenews.co.kr",
+    "title_clean": "현대엔지니어링, 용인·호남 발전플랜트 수주…2.3조 규모",
+    "summary": "현대엔지니어링이 용인·호남 발전플랜트 2.3조 규모 프로젝트를 수주했으며, 포스코이앤씨와 컨소시엄을 구성해 내년 6월 착공 예정이다. 2030년 5월 준공을 목표로 대규모 국가 기간산업 단지 건설사업을 추진한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T19:15:30+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20914,19 +20930,19 @@
     "importance": 2
   },
   {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "“분당 1호 타이틀 잡아라”···목련·샛별 입찰 앞두고 대형사 각축전 - 시사저널e",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TEhzR19DRkNueEpNYUxzOG40UENUM0tGQWtLajh3TThmVDlheUwxY2dzV2lqX0RMdEdDM0I1bFJRcHkweFFGYVdZTVBOOGVvbDhRQk1SYmlLY2lwdHNBUzBUU0E4VXgyLUFaRjFjX2N5Z9IBdkFVX3lxTFBtRXB0UU1raHFKS3NSTkFHOUpCNjFPOFU5cHZ6LUdGT0tOTWVZT0k4VWg1YmpDaFNqSVZfT3V1UGFCdXZMUVVMbVVjQlVPbkRqb1ZSVVluUVA2dHVLejFpa1RjcXJqenlZdEUyTmpXQm1CZllkaFE?oc=5",
-    "description": "[시사저널e=길해성 기자] 분당신도시 재건축 첫 시공권을 놓고 대형 건설사들의 경쟁이 달아올랐다. 목련마을과 샛별마을이 연내 입찰공고를 추진하면서 GS건설과 대우",
-    "published_at": "2026-11-19T17:14:56+09:00",
-    "cluster_id": "4981",
-    "publisher": "시사저널e",
-    "title_clean": "“분당 1호 타이틀 잡아라”···목련·샛별 입찰 앞두고 대형사 각축전",
-    "summary": "분당신도시 재건축 첫 시공권을 놓고 목련마을과 샛별마을 입찰을 앞두고 GS건설, 대우 등 대형 건설사들이 본격적인 경쟁에 돌입했다. 분당 1호 타이틀을 차지하기 위한 업계의 수주 각축전이 가열되고 있다.",
+    "title": "부지 확보 44개월→15개월로… 공급 속도전, 이주·보상이 관건 - segye.com",
+    "link": "https://www.segye.com/newsView/20261125516121?OutUrl=naver",
+    "description": "5년간 천문학적인 발주 물량은 침체된 건설경기를 활성화하는 데도 도움이 될 전망이다. LH 분석에 따르면 향후 5년간 건설 분야에서 유발될 일자리는 총 78만4000명(연평균 15만7000명)으로 지난 5년(13만4000명)의 6배에...",
+    "published_at": "2026-11-25T19:02:00+09:00",
+    "cluster_id": "9a20",
+    "publisher": "segye.com",
+    "title_clean": "부지 확보 44개월→15개월로… 공급 속도전, 이주·보상이 관건",
+    "summary": "정부의 5년간 천문학적 건설 발주로 부지 확보 기간이 44개월에서 15개월로 단축되며 공급 속도가 가속화될 전망이다. 향후 5년간 건설 분야에서 78만4000명의 일자리가 창출되어 침체된 건설경기 활성화가 기대된다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-19T18:46:01+09:00",
+    "collected_at": "2026-11-25T19:15:30+09:00",
     "importance": 2
   },
   {
@@ -32272,21 +32288,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-23T16:11:12+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "전문건설협회 대전시회, 지역업체 수주 확대·하도급 지원 건의 - dtnews24.com",
-    "link": "http://www.dtnews24.com/news/articleView.html?idxno=817523",
-    "description": "조성칠 시의장은 \"어려운 건설경기 속에서도 안전한 현장 조성을 위해 애써주시는 전문건설인 여러분께 감사드린다\"며 \"건의사항을 면밀히 검토하고 협의해 지역 전문건설업계에 실질적인 도움이 되도록 적극 협조하겠다...",
-    "published_at": "2026-11-23T15:54:00+09:00",
-    "cluster_id": "ee88",
-    "publisher": "dtnews24.com",
-    "title_clean": "전문건설협회 대전시회, 지역업체 수주 확대·하도급 지원 건의",
-    "summary": "전문건설협회 대전시회가 지역업체 수주 확대 및 하도급 지원을 건의했으며, 조성칠 시의장이 건의사항을 검토해 실질적 지원을 약속했다. 어려운 건설경기 속에서 안전한 현장 조성을 위한 전문건설인들의 노고에 감사를 표했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-23T16:01:37+09:00",
-    "importance": 2
   }
 ]
