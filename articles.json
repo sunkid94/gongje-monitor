@@ -20947,6 +20947,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH, 스마트건설 엑스포서 'AI 순찰로봇·모듈러 홈' 선보인다 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3053566",
+    "description": "'2026 스마트건설·안전·AI EXPO'에 마련된 LH 체험형 전시관. [사진 = LH] 한국토지주택공사(LH)가 인공지능(AI)과 로봇 기술을 활용해 건설산업의 디지털 전환을 가속화한다. 건설 현장의 위험을 사전에 감지하고 관리하는...",
+    "published_at": "2026-11-25T21:34:00+09:00",
+    "cluster_id": "3aff",
+    "publisher": "apnews.kr",
+    "title_clean": "LH, 스마트건설 엑스포서 'AI 순찰로봇·모듈러 홈' 선보인다",
+    "summary": "LH가 2026 스마트건설·안전·AI EXPO에서 AI 순찰로봇과 모듈러 홈 등 첨단 기술을 선보이며 건설산업의 디지털 전환을 주도한다. 현장 위험 감지·관리 등 AI와 로봇 기술 활용으로 건설업의 혁신적 개선을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T21:45:37+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32273,21 +32289,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-23T16:41:10+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "삼성물산 건설부문 6년 만에 수장 교체…신임 사장에 최영재 부사장 - ekn.kr",
-    "link": "https://www.ekn.kr/web/view.php?key=20261123026513471",
-    "description": "최 사장에게는 길어지는 건설경기 침체를 돌파하고 수익성을 극대화해야 하는 중책이 주어졌다. 막대한 자본과 고난도 시공 역량이 투입되는 하이테크 부문은 외형 확장만큼이나 정교한 원가·공정 통제가 성패를...",
-    "published_at": "2026-11-23T16:26:00+09:00",
-    "cluster_id": "048c",
-    "publisher": "ekn.kr",
-    "title_clean": "삼성물산 건설부문 6년 만에 수장 교체…신임 사장에 최영재 부사장",
-    "summary": "삼성물산 건설부문이 6년 만에 수장을 교체하고 최영재 부사장을 신임 사장으로 임명했다. 신임 사장은 장기화된 건설경기 침체 극복과 수익성 극대화라는 과제를 맡게 되었다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-23T16:31:48+09:00",
-    "importance": 2
   }
 ]
