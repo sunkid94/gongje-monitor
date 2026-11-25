@@ -4930,6 +4930,22 @@
     "importance": 5
   },
   {
+    "keyword": "대우건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "‘가덕도신공항 공사비 조정 법안’ 여야 공동발의 - knnews.co.kr",
+    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1555952",
+    "description": "대우건설 컨소시엄은 지난 9월 22일 기본설계 적격 판정을 받았지만, 공사비 증액 규모와 반영 방식을 둘러싼 협의가 마무리되지 않아 본계약 체결에 어려움을 겪고 있다. 특히 중견 건설사인 BS한양까지 공식적으로...",
+    "published_at": "2026-11-25T20:32:00+09:00",
+    "cluster_id": "2da3",
+    "publisher": "knnews.co.kr",
+    "title_clean": "‘가덕도신공항 공사비 조정 법안’ 여야 공동발의",
+    "summary": "가덕도신공항 공사비 조정 법안이 여야 공동발의되었다. 대우건설 컨소시엠이 기본설계 적격 판정을 받았으나 공사비 증액 규모 협의 미완으로 본계약 체결이 지연되고 있는 상황.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-25T20:45:39+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -20912,22 +20928,6 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-19T18:55:59+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설 싱가포르 J109 계약 종료일 2028년으로 변경 - vegannews.co.kr",
-    "link": "https://www.vegannews.co.kr/news/article.html?no=407792",
-    "description": "대우건설(047040)이 싱가포르 도시철도 J109 공사의 계약 종료일을 2027년 2월 19일에서 2028년 9월 30일로 변경했다. 계약금액은 약 2939억원에서 약 3288억원으로 349억원 늘었다. 대우건설이 19일 금융감독원...",
-    "published_at": "2026-11-19T18:46:00+09:00",
-    "cluster_id": "fae9",
-    "publisher": "vegannews.co.kr",
-    "title_clean": "대우건설 싱가포르 J109 계약 종료일 2028년으로 변경",
-    "summary": "대우건설이 싱가포르 도시철도 J109 공사의 계약 종료일을 2028년 9월 30일로 연장하고 계약금액을 349억원 증액했다. 공기 연장과 계약금 증가로 프로젝트 수익성 개선이 예상된다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-19T18:51:13+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
