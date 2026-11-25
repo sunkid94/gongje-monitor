@@ -4930,6 +4930,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "창원 범한메카텍, 코스닥 상장 본격화 - knnews.co.kr",
+    "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1555947",
+    "description": "배열회수보일러(HRSG) 비압력부와 발전 플랜트 모듈 등의 공급 실적을 쌓았으며, 지난 9월에는 두산에너빌리티와 대형 가스터빈용 발전기 고정자 장기 공급계약을 체결하며 발전기 핵심 부품으로 사업 영역을 넓혔다....",
+    "published_at": "2026-11-25T20:26:00+09:00",
+    "cluster_id": "ba32",
+    "publisher": "knnews.co.kr",
+    "title_clean": "창원 범한메카텍, 코스닥 상장 본격화",
+    "summary": "창원 범한메카텍이 코스닥 상장을 본격화하며, HRSG 비압력부, 발전 플랜트 모듈 등 주요 제품의 공급 실적을 확대하고 있다. 두산에너빌리티와의 대형 가스터빈용 발전기 고정자 장기 공급계약 체결로 발전기 핵심 부품 사업 영역까지 확장했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-25T20:36:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20914,20 +20930,20 @@
     "importance": 3
   },
   {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
     "is_company": false,
-    "title": "두산에너빌리티 연구실 3곳, 과기정통부 안전관리 인증 - 에너지신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vRjBDVGRka1VWVS1jOWtZWGsteThJSDF1QlZ0YUVkSWdtNWhYZk1rN0xsUFBCcVEyUmlraEgtd2dOemJTcWNaVUVFbjFIVko0T0pNQ2xRTngwRWZwYTQ1YVZvQ0NHaGhGRXFCMjFfUkk?oc=5",
-    "description": "[에너지신문] 두산에너빌리티 기술혁신연구원 산하 크립 실험실, 물성 코팅 연구실, 리튬 회수 연구실이 과학기술정보통신부로부터 ‘안전관리 우수연구실’ 인증을 받았다.두산에너빌리티는 이들 연구실이 지난 7월 현장 심사를 거쳐 10월 신규 인증을 받았다고 19일 밝혔다.두산에너빌리티는 올해",
-    "published_at": "2026-11-19T18:42:06+09:00",
-    "cluster_id": "4e2d",
-    "publisher": "에너지신문",
-    "title_clean": "두산에너빌리티 연구실 3곳, 과기정통부 안전관리 인증",
-    "summary": "두산에너빌리티 기술혁신연구원 산하 3개 연구실(크립 실험실, 물성 코팅 연구실, 리튬 회수 연구실)이 과학기술정보통신부로부터 '안전관리 우수연구실' 인증을 받았다. 7월 현장 심사를 거쳐 10월 신규 인증을 획득했다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-19T18:51:13+09:00",
-    "importance": 2
+    "title": "공무원연금공단, 노사·외부 전문가와 안전보건경영방침 개정…종사자... - thefirstmedia.net",
+    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214730",
+    "description": "이와 함께 내년도 안전보건경영전략과 건설현장 안전관리 강화 방안, 재난안전 기본계획 이행 중간점검 결과 등을 논의했다. 참석자들은 종사자의 안전권익 보호와 기본·원칙을 강조하는 새 안전보건경영방침에...",
+    "published_at": "2026-11-25T20:20:00+09:00",
+    "cluster_id": "73c1",
+    "publisher": "thefirstmedia.net",
+    "title_clean": "공무원연금공단, 노사·외부 전문가와 안전보건경영방침 개정…종사자...",
+    "summary": "공무원연금공단이 노사 및 외부 전문가와 함께 안전보건경영방침을 개정하고 내년도 안전보건경영전략과 건설현장 안전관리 강화 방안을 논의했다. 종사자의 안전권익 보호를 중심으로 새로운 경영방침을 수립했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-25T20:36:07+09:00",
+    "importance": 4
   },
   {
     "keyword": "건설산업기본법",
@@ -32271,22 +32287,6 @@
     "summary": "복잡한 시스템의 실패 메커니즘을 다루는 기사로, 대규모 제조, 화학공정, 건설, 발전 및 교통 시스템의 고도화된 기술과 조직적 절차에서 발생하는 재해 사례를 분석합니다. 현대 산업 시스템의 구조적 위험성과 안전 관리의 필요성을 제시합니다.",
     "sentiment": "negative",
     "collected_at": "2026-11-23T16:26:29+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "\"대전 공공기관 이전, 역세권·연축지구 혁신도시 개발과 연계해야\" - inews24.com",
-    "link": "http://www.inews24.com/view/2029316",
-    "description": "이 위원장은 지난해 10월 한화 컨소시엄의 대전역세권 복합개발사업이 무산된 것과 관련해 \"민간사업자에게 1조원 이상의 사업비 부담을 지우는 구조였기 때문에 건설경기 악화 등으로 사업 추진에 부담이 있었을 것...",
-    "published_at": "2026-11-23T16:10:00+09:00",
-    "cluster_id": "c552",
-    "publisher": "inews24.com",
-    "title_clean": "\"대전 공공기관 이전, 역세권·연축지구 혁신도시 개발과 연계해야\"",
-    "summary": "대전역세권 복합개발사업 무산 원인을 분석하며, 민간사업자에 과도한 사업비 부담을 지운 구조적 문제를 지적. 공공기관 이전과 연계한 혁신도시 개발 필요성을 제시.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-23T16:15:58+09:00",
     "importance": 4
   }
 ]
