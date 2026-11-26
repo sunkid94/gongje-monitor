@@ -5117,6 +5117,22 @@
     "importance": 5
   },
   {
+    "keyword": "롯데건설",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "신유열의 바이오 승부수…8830억원 투자, 롯데지주 가치 높인다 - apnews.kr",
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3053629",
+    "description": "[사진 = 롯데바이오로직스] 국내에서는 그룹의 화학·정밀화학 사업에서 축적한 생산·품질관리 경험과 롯데건설 등의 설계·조달·시공(EPC) 역량을 활용해 인천 송도에 생산시설을 구축했다. 미국에서는 글로벌 제약사...",
+    "published_at": "2026-11-27T00:50:00+09:00",
+    "cluster_id": "89f3",
+    "publisher": "apnews.kr",
+    "title_clean": "신유열의 바이오 승부수…8830억원 투자, 롯데지주 가치 높인다",
+    "summary": "롯데지주가 신유열 회장 주도로 바이오로직스에 8830억원을 투자하여 인천 송도에 생산시설을 구축하고 있다. 롯데건설의 EPC 역량과 화학사업의 생산·품질관리 경험을 활용한 프로젝트로, 그룹의 바이오 사업 확대 전략을 추진 중이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T01:11:51+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "두산에너빌리티",
     "category": "종합건설사",
     "is_company": false,
@@ -21099,22 +21115,6 @@
     "sentiment": "negative",
     "collected_at": "2026-11-20T17:07:21+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "대우건설",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "대우건설, 하늘·숲·비 담은 푸르지오 조경 개발…경북도청 단지 첫 적... - smarttimes.co.kr",
-    "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50771",
-    "description": "대우건설이 하늘과 숲, 비를 주제로 한 푸르지오 조경 모델 3종을 개발했다. 경북도청 푸르지오 퍼스티온에 먼저 적용하고 향후 푸르지오 전 현장으로 확대할 계획이다. 대우건설은 '숲에서 쓴 수필'이라는 뜻을 담은...",
-    "published_at": "2026-11-20T17:00:00+09:00",
-    "cluster_id": "db1d",
-    "publisher": "smarttimes.co.kr",
-    "title_clean": "대우건설, 하늘·숲·비 담은 푸르지오 조경 개발…경북도청 단지 첫 적...",
-    "summary": "대우건설이 하늘, 숲, 비를 주제로 한 푸르지오 조경 모델 3종을 개발했다. 경북도청 푸르지오 퍼스티온에 먼저 적용한 후 전 현장으로 확대할 계획이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-20T17:07:21+09:00",
-    "importance": 2
   },
   {
     "keyword": "건설현장 안전",
