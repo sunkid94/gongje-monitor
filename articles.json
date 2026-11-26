@@ -21134,6 +21134,38 @@
     "importance": 4
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "KCC, 자율주행 도장로봇으로 스마트건설 시장 공략…현장 자동화 경쟁력... - megaeconomy.co.kr",
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065618167372657",
+    "description": "KCC가 자율주행 로봇 기술을 앞세워 스마트건설 시장에서 기술 경쟁력을 입증했다. KCC는 지난 25일 일산 킨텍스에서 열린 ‘2026 스마트건설 EXPO’ 시상식에서 자율주행 도장로봇 ‘스마트 캔버스(SMART CANVAS)’로...",
+    "published_at": "2026-11-26T22:06:00+09:00",
+    "cluster_id": "dda3",
+    "publisher": "megaeconomy.co.kr",
+    "title_clean": "KCC, 자율주행 도장로봇으로 스마트건설 시장 공략…현장 자동화 경쟁력...",
+    "summary": "KCC가 자율주행 도장로봇 '스마트 캔버스'로 2026 스마트건설 EXPO에서 수상하며 건설 현장 자동화 기술력을 입증했다. 이는 건설업계의 스마트화 및 자동화 추진에 따른 긍정적 신호로 평가된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-26T22:17:04+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "LH, 스마트건설 엑스포에서 AI·로봇 혁신 기술 공개 - newsbrite.net",
+    "link": "http://www.newsbrite.net/news/articleView.html?idxno=201746",
+    "description": "스마트건설 엑스포 LH 전시부스 사진 한국토지주택공사(LH)가 '2026 스마트건설·안전·AI 엑스포'에 공동주관기관으로 참여하며 AI와 로봇 기반의 스마트건설 기술을 선보인다. 국토교통부가 주최하고 LH 등 7개...",
+    "published_at": "2026-11-26T22:00:00+09:00",
+    "cluster_id": "98f1",
+    "publisher": "newsbrite.net",
+    "title_clean": "LH, 스마트건설 엑스포에서 AI·로봇 혁신 기술 공개",
+    "summary": "LH가 2026 스마트건설·안전·AI 엑스포에 공동주관기관으로 참여하여 AI와 로봇 기반의 스마트건설 혁신 기술을 선보인다. 건설업계의 디지털 혁신과 기술 고도화를 추진하는 국가 주도의 산업 진흥 사업이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-26T22:17:04+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32268,37 +32300,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-24T14:40:20+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "장세욱 동국제강 부회장 \"철강업 변하지 않으면 생존 못해...AI 시대 '패... - ajunews.com",
-    "link": "https://www.ajunews.com/view/20261124123105954",
-    "description": "중국산 저가 철강재 공세와 건설경기 침체로 수익성 회복이 쉽지 않은 상황에서 AI를 통한 혁신과 신사업 기회 발굴로 경쟁력을 높이겠다는 구상이다. 장 부회장은 24일 서울 중구 페럼타워에서 열린 '제20회 아름다운하루...",
-    "published_at": "2026-11-24T14:32:00+09:00",
-    "cluster_id": "3c38",
-    "publisher": "ajunews.com",
-    "title_clean": "장세욱 동국제강 부회장 \"철강업 변하지 않으면 생존 못해...AI 시대 '패...",
-    "summary": "동국제강 부회장이 중국산 저가 철강재 공세와 건설경기 침체 속에서 AI 기술 도입과 신사업 개발을 통해 경쟁력 강화 방침을 제시했다. 철강업이 혁신하지 않으면 생존이 어렵다는 위기의식 아래 산업 변화에 대응하겠다는 입장을 밝혔다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-24T14:40:20+09:00",
-    "importance": 4
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "HDC랩스, AI 영상분석 기반 산업현장 안전관리 사업 확대 - 데이터넷",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBETnpCSUNqTXg1ZzVMRWFBTjlqUXJUclhIWnVNbTJOc1Bnc0hYYUc2b0dydE50ZXNBTE1kakhUeThPNWl1dmVUMGYxOGFSMVROMlh0WTdzREV6X0FINGpocHg3M0VhX3dCcWVoVw?oc=5",
-    "description": "[데이터넷] HDC랩스(대표 이준형)가 AI 영상분석 기술을 활용한 산업현장 안전관리 사업을 강화한다. 최근 주요 제조기업의 안전관제 시스템 구축 사업을 연이어",
-    "published_at": "2026-11-24T14:28:09+09:00",
-    "cluster_id": "83eb",
-    "publisher": "데이터넷",
-    "title_clean": "HDC랩스, AI 영상분석 기반 산업현장 안전관리 사업 확대",
-    "summary": "HDC랩스가 AI 영상분석 기술을 활용한 산업현장 안전관리 사업을 확대하고 있으며, 주요 제조기업의 안전관제 시스템 구축 사업을 연이어 수주하고 있다. 이는 산업현장 안전 관리 시장 수요 증가와 AI 기술 활용 확대를 반영한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-24T14:40:20+09:00",
-    "importance": 2
   }
 ]
