@@ -5117,23 +5117,6 @@
     "importance": 5
   },
   {
-    "keyword": "엔지니어링공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "여주시, 나눔기업 8곳에 ESG 기업패…연말 기부 캠페인도 추진 - cnbnews.com",
-    "link": "https://www.cnbnews.com/news/articleView.html?idxno=1021141",
-    "description": "대상은 ㈜신세계사이먼 여주점, 그린피아기술㈜, 동보전기㈜, 삼덕산업개발㈜, 엔지니어링공제조합, 우호이앤씨㈜, 주식회사 동북권자원순환센터, 베스트주식회사 등 8곳이다. 이충우 여주시장은 \"기업과 지역사회가...",
-    "published_at": "2026-10-27T23:26:00+09:00",
-    "cluster_id": "2a3b",
-    "publisher": "cnbnews.com",
-    "title_clean": "여주시, 나눔기업 8곳에 ESG 기업패…연말 기부 캠페인도 추진",
-    "summary": "여주시가 지역사회 나눔에 기여하는 8개 기업에 ESG 기업패를 수여했다. 엔지니어링공제조합을 포함한 수상 기업들은 지역 발전과 사회 기여로 인정받았다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-10-27T23:48:36+09:00",
-    "event_label": "엔지니어링공제조합 ESG 기업패 수여",
-    "importance": 5
-  },
-  {
     "keyword": "롯데건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21132,6 +21115,22 @@
     "sentiment": "negative",
     "collected_at": "2026-11-20T16:51:49+09:00",
     "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "한국토지주택공사, 중소기업 40곳 특허기술 신도시에…규제혁신 장관상 - newstown.co.kr",
+    "link": "http://www.newstown.co.kr/news/articleView.html?idxno=723557",
+    "description": "강화하고 건설경기 활성화 및 주택공급 신속 확대를 위해 최선을 다할 것\"이라고 말했다. 한국토지주택공사의 이번 수상은 중소기업의 연구개발 성과를 공공 건설시장 진입과 판로 확보로 연결한 공로를 인정받았다는...",
+    "published_at": "2026-11-26T23:22:00+09:00",
+    "cluster_id": "cd73",
+    "publisher": "newstown.co.kr",
+    "title_clean": "한국토지주택공사, 중소기업 40곳 특허기술 신도시에…규제혁신 장관상",
+    "summary": "한국토지주직공사가 중소기업 40곳의 특허기술을 신도시 건설에 적용하여 규제혁신 장관상을 수상했다. 중소기업의 R&D 성과를 공공 건설시장으로 연결하고 판로를 확보해주는 성과를 인정받았다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T00:06:03+09:00",
+    "importance": 2
   },
   {
     "keyword": "스마트건설",
