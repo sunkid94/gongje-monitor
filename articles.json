@@ -21117,6 +21117,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "민주노총 전북 지도부 선출 - sjbnews.com",
+    "link": "https://sjbnews.com/news/news.php?number=893774",
+    "description": "전북본부 선거관리위원회에 따르면 지난 25일 개표 결과 단독 입후보한 이민경(전국교직원노동조합 전북지부) 본부장, 임영웅(전국건설노동조합 전북본부) 수석부본부장, 박인수(전국금속노동조합...",
+    "published_at": "2026-11-26T18:54:00+09:00",
+    "cluster_id": "83c3",
+    "publisher": "sjbnews.com",
+    "title_clean": "민주노총 전북 지도부 선출",
+    "summary": "민주노총 전북본부의 새로운 지도부가 25일 개표를 통해 선출되었다. 이민경 본부장을 비롯한 지도부는 단독 입후보로 결정되었다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-26T19:13:06+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[포토] 2026 스마트건설·안전·AI 엑스포 개막 - enewstoday.co.kr",
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2497601",
+    "description": "국토교통부가 '2026 스마트건설·안전·AI 엑스포'를 열고 방문객들을 맞이한다. 'AI와 로봇이 여는 안전하고 더 스마트한 미래건설'을 주제로 열리는 이번 행사는 258개 기업, 818개 부스가 참여해 운영, 스마트...",
+    "published_at": "2026-11-26T18:51:00+09:00",
+    "cluster_id": "f0db",
+    "publisher": "enewstoday.co.kr",
+    "title_clean": "[포토] 2026 스마트건설·안전·AI 엑스포 개막",
+    "summary": "국토교통부가 2026 스마트건설·안전·AI 엑스포를 개최하며, 258개 기업과 818개 부스가 참여해 AI와 로봇 기술을 활용한 미래건설 방향을 선보인다. 건설업계의 디지털 혁신과 안전 기술 발전을 위한 교류의 장으로 기여할 것으로 예상된다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-26T19:13:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32266,38 +32298,6 @@
     "summary": "현대엔지니어링이 'BIM Awards 2026'에서 모듈러 부문 대상을 수상하며 BIM 기반 모듈러 건축 기술력을 인정받았다. 국내 최대 규모 모듈러 공동주택 프로젝트에 적용한 통합관리체계로 스마트 건설 역량까지 함께 평가받은 것.",
     "sentiment": "positive",
     "collected_at": "2026-11-24T14:30:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "모듈러 건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대엔지니어링, ‘BIM 어워즈 2026’ 모듈러 부문 대상...“설계부터 공장·현장까지 연결” - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFFqb0VCNENGOXdIRzNPOTVpeUIxQ2M1RkdjTzA0VEhKNUNwYms3aWdHS1hOcEtmMENJQUt2YWpzdXFUaC11NUFTTVNQU04yV2lIT2hQejV4aDNrRzhNWXh6STctalUzMHZ0bFh5T3dmbnNJLWtRQ1BDRnlhT1ZkVkV2ZjZYdzl3?oc=5",
-    "description": "현대엔지니어링이 모듈러 주택의 설계와 공장 제작, 현장 시공을 디지털 정보로 연결해 공정과 품질을 관리하고 있다. 설계 단계에서 배관·배선 간섭을 미리 확인하고, 제작 물량과 설치 일정을 연계하는 방식이다. 세종 공동주택 사업에 적용한 이 통합관리체계는 올해 BIM 분야 시상식에서 대상",
-    "published_at": "2026-11-24T14:19:21+09:00",
-    "cluster_id": "e704",
-    "publisher": "글로벌이코노믹",
-    "title_clean": "현대엔지니어링, ‘BIM 어워즈 2026’ 모듈러 부문 대상...“설계부터 공장·현장까지 연결”",
-    "summary": "현대엔지니어링이 모듈러 주택에 BIM 기술을 적용해 설계·제작·시공 전 단계를 디지털로 연결하는 통합관리체계를 개발했다. 배관·배선 간섭 사전 확인 및 공정 최적화로 품질 관리를 강화하며, 이러한 혁신 기술이 BIM 어워즈 2026에서 모듈러 부문 대상을 수상했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-24T14:30:38+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "반도체 공장 짓는데 26만명 더 필요…국토부, 건설인력 양성 나선다 - biz.chosun.com",
-    "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/24/5UT7RVUWUJEJ3DY3W2KOCBSR2Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "description": "김 차관은 “민관합동 협의체를 통해 현장에서 필요한 지원방안과 구체적인 해결책을 마련하겠다”며 “건설인력 유입과 일자리 확대가 지역 건설경기 활성화로 이어지도록 노력하겠다”고 했다.",
-    "published_at": "2026-11-24T14:19:00+09:00",
-    "cluster_id": "453b",
-    "publisher": "biz.chosun.com",
-    "title_clean": "반도체 공장 짓는데 26만명 더 필요…국토부, 건설인력 양성 나선다",
-    "summary": "반도체 공장 건설에 필요한 26만명의 건설인력 양성을 위해 국토부가 민관합동 협의체를 구성하고 지원방안을 마련한다. 이를 통해 건설인력 유입 확대와 지역 건설경기 활성화를 추진할 계획이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-24T14:26:09+09:00",
     "importance": 2
   }
 ]
