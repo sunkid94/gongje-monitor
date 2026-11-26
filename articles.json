@@ -21100,6 +21100,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설수주",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"비주택 일감 급증\"…건설업계, 포트폴리오 다변화로 주택 부진 '돌파구... - youthdaily.co.kr",
+    "link": "https://www.youthdaily.co.kr/news/article.html?no=230360",
+    "description": "27일 한국건설산업연구원에 따르면 지난 9월 국내 건설수주는 24조6천억원으로 전년 동월 대비 49.3% 증가했다. 특히 민간 비주택 건축 수주는 9조2천억원으로 같은 기간 139.7% 급증했다. 비주택 수주 증가는 반도체...",
+    "published_at": "2026-11-27T08:02:00+09:00",
+    "cluster_id": "f7cf",
+    "publisher": "youthdaily.co.kr",
+    "title_clean": "\"비주택 일감 급증\"…건설업계, 포트폴리오 다변화로 주택 부진 '돌파구...",
+    "summary": "9월 국내 건설수주가 전년 동월 대비 49.3% 증가한 24조6천억원을 기록했으며, 특히 민간 비주택 건축 수주가 139.7% 급증한 9조2천억원에 달했다. 반도체 등 비주택 수요 증가로 주택 부진을 보완하는 포트폴리오 다변화가 이루어지고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T08:17:09+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "국토교통부 건설",
     "category": "정책·규제",
     "is_company": false,
@@ -32282,21 +32298,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-24T15:15:47+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "강남 집값 걱정하는 李대통령… 서민 주거불안은 뒷전 - newscj.com",
-    "link": "https://www.newscj.com/news/articleView.html?idxno=3451651",
-    "description": "집값 급락이 가계 자산 감소와 건설경기 위축으로 이어질 수 있다는 점에서 시장 안정은 필요하다. 그러나 고가 아파트 가격이나 건설업계의 사업 위험 관리에만 정책의 초점을 맞춰서는 안 된다. 한국부동산원의 10월...",
-    "published_at": "2026-11-24T15:02:00+09:00",
-    "cluster_id": "0304",
-    "publisher": "newscj.com",
-    "title_clean": "강남 집값 걱정하는 李대통령… 서민 주거불안은 뒷전",
-    "summary": "정부가 강남 고가 아파트 가격 안정과 건설업계 사업 위험 관리에만 정책을 집중하고 있다는 비판 기사이다. 집값 급락으로 인한 시장 안정의 필요성을 인정하면서도 서민 주거불안 문제는 소홀히 하고 있다는 지적이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-24T15:11:01+09:00",
-    "importance": 4
   }
 ]
