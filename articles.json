@@ -5100,6 +5100,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산에너빌리티",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[비즈+]한수원, 체코 두코바니 원전 사업 '속도전'…현지 사무소 개소 및... - businessplus.kr",
+    "link": "https://www.businessplus.kr/news/articleView.html?idxno=120597",
+    "description": "이번 출장에는 팀코리아 일원인 두산에너빌리티와 한국전력기술 경영진도 일부 일정에 동행했다. 최 부사장은 방문 이튿날인 25일 두코바니 사업 현장을 찾아 발주사인 '두코바니 제2원자력발전사(EDU II)' 경영진과 시공...",
+    "published_at": "2026-11-27T07:30:00+09:00",
+    "cluster_id": "9f9e",
+    "publisher": "businessplus.kr",
+    "title_clean": "[비즈+]한수원, 체코 두코바니 원전 사업 '속도전'…현지 사무소 개소 및...",
+    "summary": "한수원이 체코 두코바니 원전 사업을 추진하기 위해 현지 사무소를 개소하고 발주사와 협의를 진행 중이다. 두산에너빌리티, 한국전력기술 등 팀코리아 일원들과 함께 대형 해외 원전 프로젝트 수주를 위한 본격적인 사업 추진을 시작했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T07:46:27+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -21084,19 +21100,19 @@
     "importance": 4
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "건설경기",
+    "category": "시장·경기",
     "is_company": false,
-    "title": "수주호황 조선 빅3, 기술경쟁에 돈 쏟는다 - mk.co.kr",
-    "link": "https://www.mk.co.kr/article/12214817",
-    "description": "20일 HD한국조선해양과 한화오션, 삼성중공업의 3분기 보고서에 따르면 조선 3사의 올해 1~9월 연구개발비는 약 4376억원으로 지난해 같은 기간(2462억원)보다 77.8% 늘었다. 지난해 연간 합계(4012억원)를 이미 웃돈다. 이런...",
-    "published_at": "2026-11-20T17:31:00+09:00",
-    "cluster_id": "a118",
-    "publisher": "mk.co.kr",
-    "title_clean": "수주호황 조선 빅3, 기술경쟁에 돈 쏟는다",
-    "summary": "조선 빅3(HD한국조선해양, 한화오션, 삼성중공업)이 올해 1~9월 연구개발비를 약 4376억원으로 지난해 같은 기간 대비 77.8% 대폭 증액했다. 수주호황 속에서 기술경쟁력 강화에 투자를 가속화하고 있는 모습이다.",
+    "title": "반도체 성과급, 공장 짓는 데까지…건설도 아파트보다 반도체[부동산36... - biz.heraldcorp.com",
+    "link": "https://biz.heraldcorp.com/article/10951077?ref=naver",
+    "description": "주택 건설경기 침체로 일감이 줄어든 데다 반도체 건설현장에서는 연장·야간근무를 통해 상대적으로 높은 수입을 올릴 수 있기 때문이다. 정부가 향후 5년간 수도권 150만가구 착공과 대규모 반도체 산업단지 조성을...",
+    "published_at": "2026-11-27T07:32:00+09:00",
+    "cluster_id": "91f6",
+    "publisher": "biz.heraldcorp.com",
+    "title_clean": "반도체 성과급, 공장 짓는 데까지…건설도 아파트보다 반도체[부동산36...",
+    "summary": "주택 건설경기 침체로 건설업계 일감이 감소하는 가운데, 반도cecil 공장 건설에서는 연장·야간근무를 통해 상대적으로 높은 수입을 창출하고 있다. 정부의 수도권 150만가구 착공과 대규모 반도체 산업단지 조성 계획이 추진되고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-20T17:42:08+09:00",
+    "collected_at": "2026-11-27T07:46:27+09:00",
     "importance": 2
   },
   {
@@ -32282,21 +32298,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-24T15:11:01+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "'수요 부진·수입재 공세' 뚫을까…H형강 가격인상, 시장 안착 시험대 - news2day.co.kr",
-    "link": "https://www.news2day.co.kr/article/20261123500302",
-    "description": "[그림=ChatGPT] [뉴스투데이=이예주 기자] 국내 철강업계가 건설경기 침체에 따른 수요 부진 속에서도 H형강 판매가격 정상화에 나서면서 유통가격이 상승세로 돌아섰다. 현대제철이 지난 18일부터 새로운 판매가격을...",
-    "published_at": "2026-11-24T14:54:00+09:00",
-    "cluster_id": "3ad4",
-    "publisher": "news2day.co.kr",
-    "title_clean": "'수요 부진·수입재 공세' 뚫을까…H형강 가격인상, 시장 안착 시험대",
-    "summary": "국내 철강업계가 건설경기 침체 속에서도 H형강 판매가격 인상을 추진하며 유통가격이 상승세를 보이고 있다. 현대제철 등 주요 업체들의 가격 정상화 움직임이 수입재 경쟁과 수요 부진 속에서 시장에 안착할 수 있을지가 관건이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-24T15:01:04+09:00",
-    "importance": 2
   }
 ]
