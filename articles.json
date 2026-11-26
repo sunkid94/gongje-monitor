@@ -21100,6 +21100,22 @@
     "importance": 4
   },
   {
+    "keyword": "건설 신기술",
+    "category": "신기술",
+    "is_company": false,
+    "title": "스마트 건설기술 확산 지지부진…“법ㆍ제도 손봐야” - 대한경제",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611260953317160726",
+    "description": "스마트 건설기술의 법적 정의를 명확히 하고 기존 건설신기술 제도와 연계한 ‘스마트 건설기술 인증제(가칭)’를 도입하는 방안도 제시했다. 기업 지원 대상은 기존 기술개발기업 중심에서 실제 기술을 현장에 적용하는...",
+    "published_at": "2026-11-27T06:20:00+09:00",
+    "cluster_id": "1a97",
+    "publisher": "대한경제",
+    "title_clean": "스마트 건설기술 확산 지지부진…“법ㆍ제도 손봐야”",
+    "summary": "스마트 건설기술 확산이 부진한 상황에서 법적 정의 명확화와 '스마트 건설기술 인증제' 도입 등 제도 개선이 필요하다는 의견이 제시되었다. 기업 지원 방식도 기술개발 중심에서 현장 적용 중심으로 개선할 것을 촉구하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T06:36:29+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32280,22 +32296,6 @@
     "title_clean": "'수요 부진·수입재 공세' 뚫을까…H형강 가격인상, 시장 안착 시험대",
     "summary": "국내 철강업계가 건설경기 침체 속에서도 H형강 판매가격 인상을 추진하며 유통가격이 상승세를 보이고 있다. 현대제철 등 주요 업체들의 가격 정상화 움직임이 수입재 경쟁과 수요 부진 속에서 시장에 안착할 수 있을지가 관건이다.",
     "sentiment": "neutral",
-    "collected_at": "2026-11-24T15:01:04+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "현대엔지니어링, 'BIM Awards 2026' 모듈러 부문 초대 대상 - fnnews.com",
-    "link": "https://www.fnnews.com/news/202611241434440792",
-    "description": "BIM Awards는 (사)빌딩스마트협회와 오프사이트모듈러산업협회가 함께 여는 BIM·스마트건설 분야 시상식이다. 건축물 정보를 3차원 디지털 모델로 묶어 관리하는 BIM 기술을 확산하고 건설산업의 디지털 전환을...",
-    "published_at": "2026-11-24T14:56:00+09:00",
-    "cluster_id": "47e7",
-    "publisher": "fnnews.com",
-    "title_clean": "현대엔지니어링, 'BIM Awards 2026' 모듈러 부문 초대 대상",
-    "summary": "현대엔지니어링이 BIM Awards 2026 모듈러 부문에서 초대 대상을 수상했다. BIM·스마트건설 기술 확산과 건설산업의 디지털 전환을 추진하는 시상식에서의 수상으로 기업의 기술력과 혁신성을 인정받았다.",
-    "sentiment": "positive",
     "collected_at": "2026-11-24T15:01:04+09:00",
     "importance": 2
   }
