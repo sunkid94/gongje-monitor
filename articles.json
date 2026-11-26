@@ -5100,6 +5100,22 @@
     "importance": 5
   },
   {
+    "keyword": "현대산업개발",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "[인사이드 스토리]조용히 재개발시장 접수한 그 건설사들 - news.bizwatch.co.kr",
+    "link": "https://news.bizwatch.co.kr/article/real_estate/2026/11/26/0015",
+    "description": "이는 시평 순위가 훨씬 높은 DL이앤씨, 롯데건설, IPARK현대산업개발을 뛰어넘는 실적입니다. 현장은 15곳에 달하고요. 15개 현장 중 11곳이 서울과 의정부 등 수도권에 몰렸습니다. 두산건설이 파고든 영역은 공공이...",
+    "published_at": "2026-11-27T07:17:00+09:00",
+    "cluster_id": "d808",
+    "publisher": "news.bizwatch.co.kr",
+    "title_clean": "[인사이드 스토리]조용히 재개발시장 접수한 그 건설사들",
+    "summary": "두산건설이 시평 순위 상위 대형건설사들을 뛰어넘는 재개발 실적을 기록하며 15개 현장을 확보했습니다. 수도권 중심의 공공 재개발 사업에 집중하며 조용히 시장점유를 확대하고 있습니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T07:36:17+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -21081,22 +21097,6 @@
     "summary": "조선 빅3(HD한국조선해양, 한화오션, 삼성중공업)이 올해 1~9월 연구개발비를 약 4376억원으로 지난해 같은 기간 대비 77.8% 대폭 증액했다. 수주호황 속에서 기술경쟁력 강화에 투자를 가속화하고 있는 모습이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-20T17:42:08+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "[데이터 뉴스룸] 운송業 50곳 1년 새 고용 6000명대 증가…대표 항공사 ... - greened.kr",
-    "link": "https://www.greened.kr/news/articleView.html?idxno=355199",
-    "description": "삼성중공업과 한화오션도 최근 1년 새 직원 수가 500명 이상 증가했다. 삼성중공업은 1만 459명에서 1만 1155명으로 696명 많아졌고, 한화오션은 1만 518명에서 1만 1086명으로 568명 늘어난 것으로 파악됐다. 이외...",
-    "published_at": "2026-11-20T17:09:00+09:00",
-    "cluster_id": "dc47",
-    "publisher": "greened.kr",
-    "title_clean": "[데이터 뉴스룸] 운송業 50곳 1년 새 고용 6000명대 증가…대표 항공사 ...",
-    "summary": "운송업 50곳에서 1년간 6000명대 고용이 증가했으며, 삼성중공업과 한화오션 등 조선·해양플랜트 업체들도 각각 500명 이상 직원을 늘렸다. 이는 업계의 수주 호조와 사업 확대로 인한 긍정적 고용 추세를 보여주는 사례다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-20T17:27:27+09:00",
     "importance": 2
   },
   {
