@@ -20879,6 +20879,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "LH 내년 25조원 공공주택 발주…일감 늘지만 공사비 확보는 과제 - greened.kr",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=355815",
+    "description": "민간 건설투자가 위축된 상황에서 공공부문 발주 확대가 건설경기 회복과 건설사의 경영 여건 개선에 도움이 될 것이라는 평가다. 다만 발주 물량 증가가 건설사의 수익성 개선으로 직결될지는 미지수다. LH는 지난...",
+    "published_at": "2026-11-27T20:50:00+09:00",
+    "cluster_id": "aa37",
+    "publisher": "greened.kr",
+    "title_clean": "LH 내년 25조원 공공주택 발주…일감 늘지만 공사비 확보는 과제",
+    "summary": "LH가 내년 25조원 규모의 공공주택 발주로 민간 건설투자 위축 시 건설경기 회복을 주도할 것으로 예상된다. 다만 발주 물량 증가가 공사비 확보 미흡과 수익성 악화로 이어질 수 있다는 우려가 제기된다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-27T21:16:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설현장 안전",
     "category": "안전·노동",
     "is_company": false,
@@ -32268,22 +32284,6 @@
     "summary": "국토부가 스마트건설 엑스포를 개최하여 AI, 로봇 등 첨단기술을 활용한 건설현장의 안전관리 및 자동화 기술을 선보인다. 건설업계의 디지털 전환과 안전 강화를 위한 기술 혁신을 지원하는 행사다.",
     "sentiment": "positive",
     "collected_at": "2026-11-25T06:06:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[오늘의 주요일정]국토교통부(11월25일 수요일) - newsis.com",
-    "link": "https://www.newsis.com/view/NISX20261124_0003881722",
-    "description": "◇장관 ▲10:30 스마트건설·안전·AI EXPO(일산) ◇1차관 ▲통상일정 ◇2차관 ▲통상일정 ◇대도시권광역교통위원장 ▲14:00 신도시 교통대책 신속추진 TF(서울)",
-    "published_at": "2026-11-25T05:30:00+09:00",
-    "cluster_id": "23d5",
-    "publisher": "newsis.com",
-    "title_clean": "[오늘의 주요일정]국토교통부(11월25일 수요일)",
-    "summary": "국토교통부가 11월 25일 스마트건설·안전·AI EXPO를 개최하고 신도시 교통대책 추진 TF를 운영하는 등 건설 디지털화와 교통 인프라 정책을 추진한다. 스마트건설 기술 활성화와 대도시권 교통 개선에 중점을 두고 있다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T05:41:56+09:00",
     "importance": 2
   }
 ]
