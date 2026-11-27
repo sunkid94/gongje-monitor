@@ -20862,6 +20862,22 @@
     "importance": 3
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "인천시, 7호선 청라 연장 건설현장 재난대응 훈련 - pointdaily.co.kr",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327827",
+    "description": "참석자들은 건설현장 안전사고 예방과 현장 관리 방안을 논의했다. 장두홍 시 도시철도건설본부장은 \"도시철도 건설현장에서 재난이 발생했을 때 피해를 줄이려면 신속한 초기 대응과 현장·본부 간 긴밀한 협력이...",
+    "published_at": "2026-11-28T08:40:00+09:00",
+    "cluster_id": "6458",
+    "publisher": "pointdaily.co.kr",
+    "title_clean": "인천시, 7호선 청라 연장 건설현장 재난대응 훈련",
+    "summary": "인천시가 7호선 청라 연장 건설현장에서 재난대응 훈련을 실시했다. 건설현장 안전사고 예방과 현장 관리 방안을 논의하며 초기 대응과 현장·본부 간 협력 강화를 강조했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-28T08:55:30+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32268,21 +32284,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-25T06:41:43+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[2026 SCCI] (3) 정량평가 'AI 활용 현장' 지표 신설…정성평가에도 에이... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611240937579730302",
-    "description": "올해 달라진 점은 전문가 편향 완화…판단 지원에 AI 적용 올해 SCCI(스마트건설기업지수) 평가에는 AI(인공지능)를 처음으로 적용했다. 기업의 스마트건설 역량을 진단하는 과정에 AI가 전문가의 편향을 완화하고...",
-    "published_at": "2026-11-25T06:22:00+09:00",
-    "cluster_id": "49e0",
-    "publisher": "대한경제",
-    "title_clean": "[2026 SCCI] (3) 정량평가 'AI 활용 현장' 지표 신설…정성평가에도 에이...",
-    "summary": "2026년 SCCI(스마트건설기업지수) 평가에 AI를 처음 도입하여 전문가 편향을 완화하고 더욱 객관적인 판단을 지원한다. 정량평가에 'AI 활용 현장' 지표를 신설하고 정성평가에도 AI를 적용하여 평가 체계를 고도화했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T06:32:05+09:00",
-    "importance": 2
   }
 ]
