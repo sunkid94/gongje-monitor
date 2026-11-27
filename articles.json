@@ -20882,6 +20882,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "조합원도 일반분양도 아닌 '임의세대'...지주택 분쟁시 속수무책 - ikbc.co.kr",
+    "link": "https://www.ikbc.co.kr/article/view/kbc202611270086",
+    "description": "건설경기가 악화하면서 지역주택조합 관련 분쟁이 잇따르고 있습니다. 특히 정식 조합원도, 일반분양자도 아닌, 조합과 개별 계약한 이른바 '임의세대'는 법적 보호 장치에서 벗어나 있어 분쟁 시 피해가 더 클 수밖에...",
+    "published_at": "2026-11-27T21:17:00+09:00",
+    "cluster_id": "8bba",
+    "publisher": "ikbc.co.kr",
+    "title_clean": "조합원도 일반분양도 아닌 '임의세대'...지주택 분쟁시 속수무책",
+    "summary": "건설경기 악화에 따라 지역주택조합 분쟁이 증가하고 있으며, 정식 조합원도 일반분양자도 아닌 '임의세대'는 법적 보호를 받지 못해 피해가 가중되고 있다. 주택조합 관련 제도의 허점이 노출되면서 업계 신뢰도 하락 우려가 커지고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-27T21:42:38+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "LH 내년 25조원 공공주택 발주…일감 늘지만 공사비 확보는 과제 - greened.kr",
     "link": "https://www.greened.kr/news/articleView.html?idxno=355815",
     "description": "민간 건설투자가 위축된 상황에서 공공부문 발주 확대가 건설경기 회복과 건설사의 경영 여건 개선에 도움이 될 것이라는 평가다. 다만 발주 물량 증가가 건설사의 수익성 개선으로 직결될지는 미지수다. LH는 지난...",
@@ -32269,21 +32285,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-25T06:06:32+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "11월 25일 (水) 경제 캘린더 - ytn.co.kr",
-    "link": "https://www.ytn.co.kr/_ln/0102_202611250556516513",
-    "description": "■ AI·로봇이 바꾸는 건설현장…스마트건설 엑스포 인공지능과 로봇 등 첨단기술을 활용한 건설현장의 안전관리 및 자동화 기술을 한자리에서 볼 수 있는 전시회가 열립니다. 국토부는 오늘부터 사흘 동안 경기...",
-    "published_at": "2026-11-25T05:56:00+09:00",
-    "cluster_id": "cd68",
-    "publisher": "ytn.co.kr",
-    "title_clean": "11월 25일 (水) 경제 캘린더",
-    "summary": "국토부가 스마트건설 엑스포를 개최하여 AI, 로봇 등 첨단기술을 활용한 건설현장의 안전관리 및 자동화 기술을 선보인다. 건설업계의 디지털 전환과 안전 강화를 위한 기술 혁신을 지원하는 행사다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T06:06:32+09:00",
-    "importance": 2
   }
 ]
