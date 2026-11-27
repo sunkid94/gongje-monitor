@@ -21100,6 +21100,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "조달청, BIM 활용 확대방안 발표···조달체계 스마트건설기술 활성화 - 대한전문건설신문",
+    "link": "https://www.koscaj.com/news/articleView.html?idxno=327698",
+    "description": "조달청은 27일 국민대학교에서 열린 한국BIM학회(KIBIM) 주관 ‘KIBIM 2026 국제 심포지엄’에 참가해 BIM 활용 확대 방향을 설명했다.이날 조달청 신동헌 혁신행정담당관은 ‘스마트건설기술 활성화를 위한 공공공사 조달정책 방향’을 주제로 발표했다.BIM(Building Information Modeling)은 건축물을 3차원으로 구현한 모델에 자재, 공사비 등의 정보를 담아 설계·시공·유지관리 과정에서 활용하는 기술이다.신 과장은 “BIM은 드론, 사물인터넷(IoT), 건설로봇 등 다양한 스마트건설기술을 연결해 공공공사의",
+    "published_at": "2026-11-27T11:50:36+09:00",
+    "cluster_id": "f916",
+    "publisher": "대한전문건설신문",
+    "title_clean": "조달청, BIM 활용 확대방안 발표···조달체계 스마트건설기술 활성화",
+    "summary": "조달청이 BIM(건축정보모델링) 활용 확대 방안을 발표하고 공공공사 조달정책에 스마트건설기술 활성화 방향을 제시했다. BIM을 드론, IoT, 건설로봇 등 다양한 첨단기술과 연계하여 설계·시공·유지관리 과정의 효율성을 높이려는 정책 추진이다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T11:58:07+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설산업기본법",
     "category": "정책·규제",
     "is_company": false,
@@ -32279,22 +32295,6 @@
     "publisher": "더팩트",
     "title_clean": "GH, 겨울철 건설 현장 '안전사고 제로' 총력 - 보도자료 | 기사",
     "summary": "경기주택도시공사(GH)가 겨울철 건설 현장의 안전사고 예방을 위해 강설·결빙에 대비한 지반·배수 관리를 강화하고 있다. 경영진이 직접 현장을 점검하며 취약 구간을 집중 관리하는 등 건설 현장 안전을 최우선으로 추진 중이다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-24T17:01:59+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설현장 안전",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "대전도시공사, 맞춤형 기상서비스로 건설현장 안전사고 막는다 - 현대경제",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OZHBiNDI1OG5POG9YdGEyMHVkVk1TYlZwRmQ4TEFzYUJSanRlR1JZdU9KU0RyRk5ZUFoxUXV4cXZvajJ6UFJWSGt5NmFoYm1IeWNiMmNpeDBYU3lGaVRERmpIZ1l0UmFhcjZV?oc=5",
-    "description": "[현대경제=대전 이현순 기자] 대전도시공사(사장 이효식)는 대전지방기상청과 구축한 「건설현장 맞춤형 기상서비스」 플랫폼을 통해 건설현장의 안전관리 강화에 나서고 있다.해당 플랫폼은 지난 2026년 10월부터 시범운영을 시작했으며 양 기관은 대전도시공사의 건설현장 운영 경험과 대전지방기",
-    "published_at": "2026-11-24T16:41:55+09:00",
-    "cluster_id": "3f25",
-    "publisher": "현대경제",
-    "title_clean": "대전도시공사, 맞춤형 기상서비스로 건설현장 안전사고 막는다",
-    "summary": "대전도시공사가 대전지방기상청과 함께 건설현장 맞춤형 기상서비스 플랫폼을 구축하여 안전관리를 강화하고 있다. 2026년 10월부터 시범운영 중인 해당 서비스는 건설현장의 기상 정보 제공을 통해 안전사고 예방에 기여할 것으로 기대된다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-24T17:01:59+09:00",
     "importance": 2
