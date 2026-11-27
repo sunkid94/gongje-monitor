@@ -20879,6 +20879,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "현대건설, AI·BIM 융합 기술 경쟁력 인정…스마트건설 3개 분야 수상 - thedailypost.kr",
+    "link": "https://www.thedailypost.kr/news/articleView.html?idxno=117374",
+    "description": "|데일리포스트=송협 대표기자| \"AI 기반 자동화와 BIM, 디지털 플랫폼 등의 현장 적용을 확대해 안전과 품질을 최우선으로 하는 스마트건설 생태계 조성에 앞장서겠습니다\" (현대건설 관계자) 현대건설이 '2026...",
+    "published_at": "2026-11-27T21:50:00+09:00",
+    "cluster_id": "93c1",
+    "publisher": "thedailypost.kr",
+    "title_clean": "현대건설, AI·BIM 융합 기술 경쟁력 인정…스마트건설 3개 분야 수상",
+    "summary": "현대건설이 AI·BIM 융합 기술로 스마트건설 분야 3개 부문 수상을 통해 디지털 혁신 역량을 입증했다. 현장 자동화와 디지털 플랫폼 확대를 통해 건설업계의 안전·품질 개선과 스마트건설 생태계 조성을 주도하겠다는 의지를 표현했다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T22:17:20+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32269,21 +32285,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-25T06:32:05+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설산업기본법",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "'4.3억원 일감 보호규정' 일몰 코앞…건설업계 '기준금액 조정' 기싸움 - view.asiae.co.kr",
-    "link": "https://view.asiae.co.kr/article/2026112401040175934",
-    "description": "25일 국토교통부와 건설업계에 따르면 4억3000만원 미만 전문공사에 종합사가 직접 따내는 원도급을 제한한 건설산업기본법 규정이 다음 달 31일 만료된다. 이 규정은 2021년 종합·전문공사 상호 입찰을 허용할 때 영세...",
-    "published_at": "2026-11-25T06:00:00+09:00",
-    "cluster_id": "cbf2",
-    "publisher": "view.asiae.co.kr",
-    "title_clean": "'4.3억원 일감 보호규정' 일몰 코앞…건설업계 '기준금액 조정' 기싸움",
-    "summary": "4억3000만원 미만 전문공사 일감을 보호하던 건설산업기본법 규정이 내달 31일 만료를 앞두고 있다. 기준금액 조정을 놓고 종합사와 전문공사 간 입장 차이가 발생하면서 업계 갈등이 고조되고 있다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-25T06:06:32+09:00",
-    "importance": 4
   }
 ]
