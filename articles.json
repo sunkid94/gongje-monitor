@@ -20862,6 +20862,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "[위클립] 11월 4주 - laborplus.co.kr",
+    "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41934",
+    "description": "23일(월) □ 전택노련·민주택시노조, 국회·국토부에 개정 여객자동차법 관련 공개 질의서 발송 ▷ [관련기사] 택시 플랫폼 의무 규정한 법에 노조는 '보완 입법' 요구 □ 건설산업연맹 '2027년 건설노동자 교육훈련 예산...",
+    "published_at": "2026-11-28T01:41:00+09:00",
+    "cluster_id": "4b72",
+    "publisher": "laborplus.co.kr",
+    "title_clean": "[위클립] 11월 4주",
+    "summary": "11월 4주차 주요 뉴스로 택시노조가 개정 여객자동차법 관련 공개 질의서를 발송하고 보완 입법을 요구했으며, 건설산업연맹이 2027년 건설노동자 교육훈련 예산 관련 움직임을 보였다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-28T01:56:06+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32266,22 +32282,6 @@
     "title_clean": "[2026 SCCI] (2) 스마트건설 현장적용 81.5점…삼성·대우·롯데·호반·우...",
     "summary": "2026 스마트건설기업지수(SCCI)에서 현장적용이 81.5점으로 평가되었으며, 주요 건설사들의 스마트건설 도입이 활발함을 보여줌. 건설업계가 기술 혁신과 디지털 전환을 통해 경쟁력을 강화하는 긍정적 추세를 반영.",
     "sentiment": "positive",
-    "collected_at": "2026-11-25T06:32:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[2026 SCCI] (4) BIM에서 AIㆍ자동화ㆍ로봇으로 스마트건설 투자 중심축... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611240938561060303",
-    "description": "향후 5년간 집중투자 기술 조사 41％가 AI 기반 분석ㆍ예측ㆍ자동화 꼽아 BIMㆍ디지털 트윈은 37％→3％로 급감 [대한경제=장진우 기자]국내 주요 건설사들의 스마트건설 투자 중심축이 BIM(건설정보모델링)과 디지털...",
-    "published_at": "2026-11-25T06:22:00+09:00",
-    "cluster_id": "1312",
-    "publisher": "대한경제",
-    "title_clean": "[2026 SCCI] (4) BIM에서 AIㆍ자동화ㆍ로봇으로 스마트건설 투자 중심축...",
-    "summary": "국내 건설사들이 향후 5년간 스마트건설 투자를 AI·자동화·로봇으로 전환하고 있으며, AI 기반 기술 투자가 41%로 가장 많은 관심을 받고 있다. BIM·디지털 트윈 투자는 37%에서 3%로 급감하면서 건설업계의 기술 투자 패러다임이 빠르게 변화하고 있다.",
-    "sentiment": "neutral",
     "collected_at": "2026-11-25T06:32:05+09:00",
     "importance": 2
   }
