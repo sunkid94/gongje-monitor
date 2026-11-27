@@ -20879,6 +20879,38 @@
     "importance": 2
   },
   {
+    "keyword": "건설 노동",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "경기상상캠퍼스, 내년 3월 1일까지 플레이모빌 특별전 진행 - newstnt.com",
+    "link": "https://www.newstnt.com/news/articleView.html?idxno=730905",
+    "description": "◆ 대형 피겨·어린이 체험존 운영…온라인 예약·현장 발권 전시장 곳곳에는 높이 150cm의 초대형 플레이모빌을 비롯해 해적, 농부, 건설 노동자 등 다양한 캐릭터의 대형 피겨가 배치된다. 어린이들이 직접 장난감을...",
+    "published_at": "2026-11-27T19:24:00+09:00",
+    "cluster_id": "e610",
+    "publisher": "newstnt.com",
+    "title_clean": "경기상상캠퍼스, 내년 3월 1일까지 플레이모빌 특별전 진행",
+    "summary": "경기상상캐퍼스에서 내년 3월 1일까지 플레이모빌 특별전을 개최한다. 초대형 피겨, 어린이 체험존 등을 운영하며 온라인 예약과 현장 발권으로 관람 가능하다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-27T19:37:40+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[건설소식] 롯데건설·GS건설·현대건설 - sports.hankooki.com",
+    "link": "https://sports.hankooki.com/news/articleView.html?idxno=6944352",
+    "description": "'2026 스마트건설 챌린지' 단지·주택 분야에서 수상한 '큐포켓(Q-Pocket)' 활용 AI 이미지 ⓒ현대건설 현대건설이 인공지능(AI)과 건설정보모델링(BIM) 등 디지털 기술을 활용한 건설 현장 혁신 성과를 인정받았다. 단지·주택...",
+    "published_at": "2026-11-27T19:08:00+09:00",
+    "cluster_id": "cd2a",
+    "publisher": "sports.hankooki.com",
+    "title_clean": "[건설소식] 롯데건설·GS건설·현대건설",
+    "summary": "현대건설이 AI와 BIM 등 디지털 기술을 활용한 건설 현장 혁신으로 '2026 스마트건설 챌린지'에서 수상했다. 건설업계의 디지털 혁신과 기술 고도화 추세를 보여주는 사례로, 업계의 기술 경쟁력 강화를 의미한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-27T19:37:40+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32253,37 +32285,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-25T05:16:42+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[뉴테크 포커스]오뚜기ㆍSB아치 신안산선 향남 연장운행 거더 낙점 - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231823570440265",
-    "description": "건설신기술 861호인 이 공법의 공식명칭은 고강도 비부착 강연선을 다발로 이용한 듀얼텐던시스템 적용 단부 절취형 전도방지 프리스트레스트콘크리트 I형 거더 공법이다. 오뚜기 거더는 거더 설치 시 넘어질 듯...",
-    "published_at": "2026-11-25T04:20:00+09:00",
-    "cluster_id": "bcb7",
-    "publisher": "대한경제",
-    "title_clean": "[뉴테크 포커스]오뚜기ㆍSB아치 신안산선 향남 연장운행 거더 낙점",
-    "summary": "오뚜기와 SB아치가 신안산선 향남 연장운행 프로젝트에서 건설신기술 861호인 듀얼텐던시스템 적용 프리스트레스트콘크리트 I형 거더 공법을 낙점했다. 이 공법은 거더 설치 시 안정성을 높이는 혁신 기술로, 건설업체의 기술력 입증과 프로젝트 수주 성과를 나타낸다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T04:26:32+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "LH, 청년주택건축대전 30주년…올해는 '정서 회복 돕는 주거' 주목 - apnews.kr",
-    "link": "https://www.apnews.kr/news/articleView.html?idxno=3053520",
-    "description": "지난 23일 경남 진주 LH 본사 사옥에서 열린 '제30회 LH 청년주택건축대전' 시상식에서 이상조 LH 스마트건설안전본부장과 수상자들이 기념촬영을 하고 있다. [사진 = LH] 한국토지주택공사(LH)가 30주년을 맞은...",
-    "published_at": "2026-11-25T03:20:00+09:00",
-    "cluster_id": "e9e5",
-    "publisher": "apnews.kr",
-    "title_clean": "LH, 청년주택건축대전 30주년…올해는 '정서 회복 돕는 주거' 주목",
-    "summary": "LH가 청년주택건축대전 30주년을 맞아 시상식을 개최했으며, 올해는 '정서 회복을 돕는 주거'를 주제로 선정했다. 이는 공공주택 건설 사업을 통한 건설시장 활성화 및 청년층 주거복지 증진을 위한 LH의 지속적인 노력을 보여준다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T03:31:00+09:00",
-    "importance": 2
   }
 ]
