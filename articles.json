@@ -20862,6 +20862,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "\"부동산 무너져야 한국 산다, 일본식 불황 확신\"…직장인 섬뜩 경고 시... - news1.kr",
+    "link": "https://www.news1.kr/realestate/general/6368639",
+    "description": "A 씨는 \"지금 대한민국은 부동산이 잠재력을 다 갉아먹고 있다\"며 2000년대 초반만 해도 부동산 시장 활성화가 건설경기 회복으로 이어지면서 고용 창출과 경기 활성화 효과가 있었다고 설명했다. 그는 \"신도시에 사람들이...",
+    "published_at": "2026-11-28T05:30:00+09:00",
+    "cluster_id": "c225",
+    "publisher": "news1.kr",
+    "title_clean": "\"부동산 무너져야 한국 산다, 일본식 불황 확신\"…직장인 섬뜩 경고 시...",
+    "summary": "전문가가 한국의 부동산 시장이 경제의 잠재력을 저해하고 있으며, 과거와 달리 건설경기 회복이 경제 활성화로 이어지지 않는다고 지적했다. 일본식 장기 불황을 우려하며 부동산 시장 구조적 문제를 경고하고 있다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-28T05:45:54+09:00",
+    "importance": 4
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32265,22 +32281,6 @@
     "publisher": "대한경제",
     "title_clean": "대한건설협회, 글로벌 건설산업 혁신 현장에서 미래 경쟁력 모색",
     "summary": "대한건설협회가 한승구 회장과 시도회장단을 이끌고 중국 상하이 바우마국제건설기계박람회에 참석하여 글로벌 건설산업의 혁신 기술을 탐방했다. 스마트건설 기술과 첨단 안전관리 기술을 국내 건설현장에 적용하는 방안을 모색하여 미래 경쟁력을 강화하려는 움직임이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T06:32:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "스마트건설",
-    "category": "신기술",
-    "is_company": false,
-    "title": "[2026 SCCI] (2) 스마트건설 현장적용 81.5점…삼성·대우·롯데·호반·우... - 대한경제",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241150378350358",
-    "description": "‘2026 SCCI(Smart Construction Corporation Indexㆍ스마트건설기업지수)’는 올해의 흐름을 ‘TRACTION(트랙션)’으로 요약한다. 노면을 붙잡고 앞으로 나아가는 견인력을 뜻하는 TRACTION은 국내 건설사들이 그동안 쌓아...",
-    "published_at": "2026-11-25T06:22:00+09:00",
-    "cluster_id": "25a4",
-    "publisher": "대한경제",
-    "title_clean": "[2026 SCCI] (2) 스마트건설 현장적용 81.5점…삼성·대우·롯데·호반·우...",
-    "summary": "2026 스마트건설기업지수(SCCI)에서 현장적용이 81.5점으로 평가되었으며, 주요 건설사들의 스마트건설 도입이 활발함을 보여줌. 건설업계가 기술 혁신과 디지털 전환을 통해 경쟁력을 강화하는 긍정적 추세를 반영.",
     "sentiment": "positive",
     "collected_at": "2026-11-25T06:32:05+09:00",
     "importance": 2
