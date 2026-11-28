@@ -20573,6 +20573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설현장 안전",
+    "category": "안전·노동",
+    "is_company": false,
+    "title": "“‘건설’ 하면 막노동만 떠올랐죠”…청년들 삼삼오오 모인 이곳, 어디길래 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MU1UWWhPYk5ERjBlTXU2RVNkS3k0UXR6Tmt5Nk9ham1YY1ptMDYyLURYWE1Qc0k1RS1leFJIQmF1b3BzNk9ZU0JoSDM1ZFRid2pJTnlkR1U?oc=5",
+    "description": "2026 스마트건설·안전·AI 엑스포 가보니 전통방식 넘어 첨단기술 등 산업기술 체험",
+    "published_at": "2026-11-28T20:53:56+09:00",
+    "cluster_id": "1954",
+    "publisher": "매일경제",
+    "title_clean": "“‘건설’ 하면 막노동만 떠올랐죠”…청년들 삼삼오오 모인 이곳, 어디길래",
+    "summary": "2026 스마트건설·안전·AI 엑스포에서 청년들이 모여 첨단기술 기반의 건설산업 미래상을 체험하고 있다. 전통적 막노동 중심의 건설업 이미지를 벗고 AI, 스마트기술 등 산업기술로 무장한 첨단산업으로의 변화를 보여주고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-28T22:48:24+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32251,21 +32267,5 @@
     "sentiment": "negative",
     "collected_at": "2026-11-25T08:16:39+09:00",
     "importance": 4
-  },
-  {
-    "keyword": "건설 노동",
-    "category": "안전·노동",
-    "is_company": false,
-    "title": "국가 AI컴퓨팅센터 환경문제 우려…주민 의견 수렴 촉구 - mpmbc.co.kr",
-    "link": "https://mpmbc.co.kr/NewsArticle/1547218",
-    "description": "검토하고 공청회를 통해 주민들의 의견을 수렴할 것을 촉구했습니다. 강 의원은 또 현재 센터 건설 공정률이 3% 수준이라며 지역 건설업체와 건설노동자의 참여를 확대하고 관련 실적을 의회에 보고할 것을 요구했습니다.",
-    "published_at": "2026-11-25T08:08:00+09:00",
-    "cluster_id": "43b0",
-    "publisher": "mpmbc.co.kr",
-    "title_clean": "국가 AI컴퓨팅센터 환경문제 우려…주민 의견 수렴 촉구",
-    "summary": "국가 AI컴퓨팅센터 건설 과정에서 환경문제 우려로 공청회 개최를 촉구하는 의견이 제기되었습니다. 현재 공정률 3% 수준에서 지역 건설업체와 건설노동자의 참여 확대를 요구하고 있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-25T08:16:39+09:00",
-    "importance": 2
   }
 ]
