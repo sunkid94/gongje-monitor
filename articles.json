@@ -20828,6 +20828,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "[현장] 더 빠르게 더 안전하게…건설현장 파고드는 AI·로봇 - bizhankook.com",
+    "link": "https://bizhankook.com/articles/ai-robots-in-construction.html",
+    "description": "27일 경기 고양시 킨텍스에서 열린 '2026 스마트건설·안전·AI 엑스포'에서는 이런 건설업계 변화를 확인할 수 있었다. 국토교통부 주최로 지난 25일부터 사흘간 열린 이번 행사에는 258개 기업이 참가해 818개 부스를...",
+    "published_at": "2026-11-28T15:06:00+09:00",
+    "cluster_id": "4776",
+    "publisher": "bizhankook.com",
+    "title_clean": "[현장] 더 빠르게 더 안전하게…건설현장 파고드는 AI·로봇",
+    "summary": "국토교통부 주최로 열린 '2026 스마트건설·안전·AI 엑스포'에 258개 기업이 참가하며 건설현장에 AI와 로봇 기술이 확산되고 있다. 업계가 생산성 향상과 안전성 개선을 위해 디지털 혁신을 가속화하고 있는 현황을 보여주는 행사다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-28T15:10:38+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
@@ -32265,22 +32281,6 @@
     "summary": "김영훈 고용노동부 장관이 삼성물산, SK에코플랜트 등과 반도체팹 건설 메가프로젝트의 기능인력 양성·지원 방안을 논의했다. 정부가 대규모 건설사업 추진을 위해 건설인력 확보에 적극 나서고 있다.",
     "sentiment": "positive",
     "collected_at": "2026-11-25T07:41:57+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[Who Is ?] 이봉관 서희건설 회장 - businesspost.co.kr",
-    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452344",
-    "description": "건설경기 부진의 난관 속에도 사업을 본궤도에 올리고 시장신뢰를 회복해야 하는 과제를 안고 있다. ◆ 경영활동의 공과 이봉관 서희건설 회장 <서희건설> △40년 가까이 경영 일선서 활동, 2026년 퇴진 예상 빗나가...",
-    "published_at": "2026-11-25T07:00:00+09:00",
-    "cluster_id": "224e",
-    "publisher": "businesspost.co.kr",
-    "title_clean": "[Who Is ?] 이봉관 서희건설 회장",
-    "summary": "이봉관 서희건설 회장의 경영활동을 다룬 인물 기사로, 건설경기 부진 속에서 사업 정상화와 시장신뢰 회복의 과제를 언급하고 있습니다. 40년 가까운 경영 일선 활동과 향후 경영 세대교체 등을 보도하고 있습니다.",
-    "sentiment": "neutral",
-    "collected_at": "2026-11-25T07:12:02+09:00",
     "importance": 2
   }
 ]
