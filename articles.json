@@ -20573,6 +20573,22 @@
     "importance": 2
   },
   {
+    "keyword": "스마트건설",
+    "category": "신기술",
+    "is_company": false,
+    "title": "“‘건설’ 하면 막노동만 떠올랐죠”…청년들 삼삼오오 모인 이곳, 어... - mk.co.kr",
+    "link": "https://www.mk.co.kr/article/12220773",
+    "description": "2026 스마트건설·안전·AI 엑스포 가보니 전통방식 넘어 첨단기술 등 산업기술 체험 “건설업 하면 막연히 몸으로 부딪히는 거친 일부터 떠올렸는데, 드론이 현장을 스캔하고 로봇이 위험한 작업을 대신하는 모습을 보니...",
+    "published_at": "2026-11-28T20:55:00+09:00",
+    "cluster_id": "3e48",
+    "publisher": "mk.co.kr",
+    "title_clean": "“‘건설’ 하면 막노동만 떠올랐죠”…청년들 삼삼오오 모인 이곳, 어...",
+    "summary": "2026 스마트건설·안전·AI 엑스포에서 드론, 로봇 등 첨단기술을 활용한 건설산업의 혁신 사례가 전시되고 있다. 청년세대가 건설업의 현대화된 모습에 관심을 보이며 업계의 긍정적 이미지 개선과 인력 유입 기회를 제시하고 있다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-28T20:58:18+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "건설 노동",
     "category": "안전·노동",
     "is_company": false,
@@ -32251,21 +32267,5 @@
     "sentiment": "neutral",
     "collected_at": "2026-11-25T08:16:39+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "건설경기",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "대한승강기협회, 조재천 현대엘리베이터 대표 제4대 회장으로 재신임 - electimes.com",
-    "link": "https://www.electimes.com/news/articleView.html?idxno=375185",
-    "description": "조재천 회장은 \"다시 한번 협회장직을 믿고 맡겨주신 회원들께 진심으로 감사하다\"면서 \"건설경기 악화로 승강기 산업계가 이례적인 어려움을 겪고 있다. 승강기 산업의 재도약을 위해 필요한 정책적 기반이 마련될 수...",
-    "published_at": "2026-11-25T08:00:00+09:00",
-    "cluster_id": "bfb2",
-    "publisher": "electimes.com",
-    "title_clean": "대한승강기협회, 조재천 현대엘리베이터 대표 제4대 회장으로 재신임",
-    "summary": "조재천 현대엘리베이터 대표가 대한승강기협회 제4대 회장으로 재신임되었다. 건설경기 악화로 승강기 산업이 어려움을 겪고 있으며, 산업 재도약을 위한 정책적 기반 마련이 필요한 상황이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-11-25T08:11:49+09:00",
-    "importance": 4
   }
 ]
