@@ -20573,6 +20573,22 @@
     "importance": 2
   },
   {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "가드레일부터 태양광까지…다스코가 국가 인프라에 주목한 이유 - pinpointnews.co.kr",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509198",
+    "description": "건설 관련 사업 역시 국내 건설경기와 공공 인프라 투자 흐름의 영향을 받는다. 건설경기가 둔화하면 민간 프로젝트 발주가 줄어들 수 있지만, 도로와 교량 등 사회기반시설의 유지·보수 수요는 별도의 사업 기회를...",
+    "published_at": "2026-11-28T18:46:00+09:00",
+    "cluster_id": "8093",
+    "publisher": "pinpointnews.co.kr",
+    "title_clean": "가드레일부터 태양광까지…다스코가 국가 인프라에 주목한 이유",
+    "summary": "건설경기 둔화로 민간 프로젝트 발주가 감소하더라도 도로·교량 등 사회기반시설의 유지·보수 수요는 별도의 기회로 존재한다는 내용. 다스코가 가드레일, 태양광 등 국가 인프라 사업에 주목하는 전략을 보도.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-28T18:48:25+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "스마트건설",
     "category": "신기술",
     "is_company": false,
@@ -32250,22 +32266,6 @@
     "summary": "70년대생 리더십이 건설업계 사령탑에 진입하며 중대재해 예방, 스마트건설, AI 전환 등 구조적 과제 해결에 나서고 있다. 외환위기 세대의 위기 돌파 능력이 산업 생태계 개편의 시험대가 되고 있다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-25T07:51:42+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "국토교통부 건설",
-    "category": "정책·규제",
-    "is_company": false,
-    "title": "반도체 팹 건설에 26만명 더 필요한데 숙련공은 고령화…정부, 인력 양... - biz.heraldcorp.com",
-    "link": "https://biz.heraldcorp.com/article/10948147?ref=naver",
-    "description": "간담회에는 삼성물산과 SK에코플랜트 임원, 건설근로자공제회 및 건설 관련 협회 관계자, 국토교통부 건설정책국장 등이 참석했다. 이번 간담회는 서남권 등 반도체팹(Fab·생산시설) 건설을 앞두고 필요한...",
-    "published_at": "2026-11-25T07:31:00+09:00",
-    "cluster_id": "56df",
-    "publisher": "biz.heraldcorp.com",
-    "title_clean": "반도체 팹 건설에 26만명 더 필요한데 숙련공은 고령화…정부, 인력 양...",
-    "summary": "정부가 서남권 등 반도체팹 건설을 위해 필요한 26만명의 인력 부족 문제를 해결하기 위해 삼성물산, SK에코플랜트 등 건설사와 간담회를 개최했다. 숙련공의 고령화로 인한 인력 수급 문제를 논의하고 정부 차원의 인력 양성 방안을 추진 중이다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T07:41:57+09:00",
     "importance": 2
   }
 ]
