@@ -4828,6 +4828,22 @@
     "importance": 5
   },
   {
+    "keyword": "SGC이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "SGC이앤씨, 'PSK 용인캠퍼스' 신축 공사 수주…반도체 설비 시공 확대 - paxetv.com",
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=288150",
+    "description": "[사진=SGC이앤씨] SGC이앤씨가 글로벌 반도체 장비 기업 PSK의 경기도 용인캠퍼스 신축 공사에 시공사로 참여한다고 최근 밝혔습니다. 공사비는 1200억원으로 용인일반산업단지에 연면적 약 4만8000㎡ 부지에 지하 2층...",
+    "published_at": "2026-11-28T14:04:00+09:00",
+    "cluster_id": "e6d4",
+    "publisher": "paxetv.com",
+    "title_clean": "SGC이앤씨, 'PSK 용인캠퍼스' 신축 공사 수주…반도체 설비 시공 확대",
+    "summary": "SGC이앤씨가 반도체 장비 기업 PSK의 경기도 용인캠퍼스 신축 공사를 1200억원 규모로 수주했습니다. 반도체 산업의 성장에 따른 설비 시공 수요 증가로 건설업계에 긍정적인 신호를 제공합니다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-28T14:11:11+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "포스코이앤씨",
     "category": "종합건설사",
     "is_company": false,
@@ -20812,19 +20828,19 @@
     "importance": 2
   },
   {
-    "keyword": "삼성중공업",
-    "category": "종합건설사",
+    "keyword": "스마트건설",
+    "category": "신기술",
     "is_company": false,
-    "title": "삼성중공업, 이왕근 사장 내정…조선해양사업 이끈다 - it.chosun.com",
-    "link": "https://it.chosun.com/news/articleView.html?idxno=3000000001608",
-    "description": "삼성중공업이 이왕근 부사장을 신임 대표이사 사장으로 내정했다고 23일 밝혔다. 설계 분야에서 전문성을 쌓고 해양사업과 생산 현장을 두루 경험한 인물을 앞세워 조선해양사업 경쟁력을 높이고 미래 성장동력 확보에...",
-    "published_at": "2026-11-23T11:26:00+09:00",
-    "cluster_id": "c6d3",
-    "publisher": "it.chosun.com",
-    "title_clean": "삼성중공업, 이왕근 사장 내정…조선해양사업 이끈다",
-    "summary": "삼성중공업이 설계 및 해양사업 경험이 풍부한 이왕근 부사장을 신임 사장으로 내정했다. 조선해양사업의 경쟁력 강화와 미래 성장동력 확보를 목표로 한다.",
+    "title": "현대건설, '2026 스마트건설 챌린지' 3개 분야 수상…AI·BIM 현장 기술 ... - paxetv.com",
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=288154",
+    "description": "[사진=현대건설] 현대건설이 지난 25일 국토교통부 주최 '2026 스마트건설 챌린지'에서 단지·주택, BIM(건설정보모델링), 철도 등 3개 분야 혁신상을 수상했다고 최근 밝혔습니다. 현대건설은 2021년 첫 수상 이후 6년간...",
+    "published_at": "2026-11-28T14:04:00+09:00",
+    "cluster_id": "94d0",
+    "publisher": "paxetv.com",
+    "title_clean": "현대건설, '2026 스마트건설 챌린지' 3개 분야 수상…AI·BIM 현장 기술 ...",
+    "summary": "현대건설이 국토교통부 주최 '2026 스마트건설 챌린지'에서 단지·주택, BIM, 철도 등 3개 분야 혁신상을 수상했다. 2021년 첫 수상 이후 6년간 지속적으로 AI·BIM 등 현장 기술 혁신을 인정받고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-11-23T11:30:32+09:00",
+    "collected_at": "2026-11-28T14:11:11+09:00",
     "importance": 2
   },
   {
@@ -32265,22 +32281,6 @@
     "summary": "국토교통부 장관이 스마트건설·안전·AI EXPO에 참석하고, 대광위원장이 신도시 교통대책 신속추진 TF를 개최하는 등 정부의 건설산업 혁신과 인프라 개선 관련 일정들이 예정되어 있다. 농식품부의 국제농업개발기금 총재 면담 등 다양한 정부 부처 행사가 진행된다.",
     "sentiment": "neutral",
     "collected_at": "2026-11-25T07:12:02+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 PF",
-    "category": "시장·경기",
-    "is_company": false,
-    "title": "[인사이드 스토리]'월드타워 담보' 푼 롯데…'유동성 위기설' 끝? - news.bizwatch.co.kr",
-    "link": "https://news.bizwatch.co.kr/article/consumer/2026/11/24/0043",
-    "description": "롯데건설은 지난 8월 PF펀드 '프로젝트 샬롯'의 선순위 차입금 1조2000억원을 상환한 데 이어 최근 펀드 재구조화도 마쳤습니다. 같은 기간 롯데건설의 부채비율도 지난해 말 186.7%에서 3분기 166.3%로 20.4%포인트...",
-    "published_at": "2026-11-25T06:50:00+09:00",
-    "cluster_id": "90a4",
-    "publisher": "news.bizwatch.co.kr",
-    "title_clean": "[인사이드 스토리]'월드타워 담보' 푼 롯데…'유동성 위기설' 끝?",
-    "summary": "롯데건설이 월드타워 담보 해제를 통해 PF펀드 차입금 1조2000억원을 상환하고 펀드 재구조화를 완료했다. 부채비율도 186.7%에서 166.3%로 개선되어 유동성 위기설을 불식시켰다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T06:56:41+09:00",
     "importance": 2
   }
 ]
