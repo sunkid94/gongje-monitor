@@ -4573,6 +4573,22 @@
     "importance": 5
   },
   {
+    "keyword": "두산퓨얼셀",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "두산퓨얼셀, 480억원 규모 연료전지 장기유지보수 계약…지난해 매출액 대비 10.55% - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tcy1ZREY3aXR3NEd0OTgxNkM4aThRMkpGZkh3ZEJydURMLUVWQjA5bTlzN3B5NDdNNkh2aktDZ2U0alE2dTBhU2pwR3RqSlNxZHFmdzBoYVlEalJoNFBJWF9Mci16Wmt6?oc=5",
+    "description": "[CBC뉴스] 두산퓨얼셀이 내포그린에너지와 480억원 규모의 연료전지 시스템 장기유지보수계약(LTSA)을 체결했다고 27일 공시했다.계약금액은 480억원으로, 2025년 한국채택국제회계기준(K-IFRS) 연결재무제표 기준 최근 매출액인 4548억원의 10.55%에 해당한다. 계약금액은 부가가치세를 제외한 금액이다.이번 계약은 두산퓨얼셀이 주기기를 납품하는 연료전지 발전소에 대해 10년간 장기유지보수 용역을 제공하는 내용이다.판매·공급지역은 국내이며, 계약기간은 2026년 11월 26일부터 2036년 11월 30일까지다. 계약 종료일",
+    "published_at": "2026-11-27T09:58:31+09:00",
+    "cluster_id": "d0a0",
+    "publisher": "CBC뉴스",
+    "title_clean": "두산퓨얼셀, 480억원 규모 연료전지 장기유지보수 계약…지난해 매출액 대비 10.55%",
+    "summary": "두산퓨얼셀이 내포그린에너지와 480억원 규모의 연료전지 장기유지보수 계약을 체결했으며, 이는 지난해 매출액의 10.55%에 해당한다. 2026년 11월부터 10년간 국내 연료전지 발전소에 대한 유지보수 용역을 제공한다.",
+    "sentiment": "positive",
+    "collected_at": "2026-11-28T20:53:14+09:00",
+    "importance": 2
+  },
+  {
     "keyword": "대우건설",
     "category": "종합건설사",
     "is_company": false,
@@ -20552,22 +20568,6 @@
     "publisher": "news.einfomax.co.kr",
     "title_clean": "체코 원전 '팀 코리아' \"적기 준공 결의\"…성명서 발표",
     "summary": "한국수력원자력과 두산에너빌리티 등 '팀 코리아'가 체코 두코바니 원전 사업의 적기 준공을 강조하는 성명서를 발표했다. 이는 해외 대형 원전 프로젝트 수행 의지를 표현한 것으로, 국내 건설·기계설비 업계의 해외 수주 성과 창출을 의미한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-23T11:41:05+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "두산에너빌리티",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "체코 원전 우려에 팀코리아 \"예산·기한 내 반드시 짓는다\" - news1.kr",
-    "link": "https://www.news1.kr/economy/trend/6362710",
-    "description": "이번 성명은 주계약자인 한수원과 한국전력기술(052690), 한전원자력연료, 한전KPS, 두산에너빌리티(034020)가 팀코리아 이름으로 함께 발표했다. 팀코리아는 두코바니 5·6호기 사업을 \"양국의 미래 에너지 안보와 산업...",
-    "published_at": "2026-11-23T11:31:00+09:00",
-    "cluster_id": "64f1",
-    "publisher": "news1.kr",
-    "title_clean": "체코 원전 우려에 팀코리아 \"예산·기한 내 반드시 짓는다\"",
-    "summary": "팀코리아(한수원, 한국전력기술, 두산에너빌리티 등)가 체코 두코바니 원전 5·6호기 사업을 예산과 기한 내에 완성하겠다는 입장을 표명했다. 한국 건설·에너지 기업들의 국제 원전 사업 수주 이행 의지를 보여주는 사례다.",
     "sentiment": "positive",
     "collected_at": "2026-11-23T11:41:05+09:00",
     "importance": 2
