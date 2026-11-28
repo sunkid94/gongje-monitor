@@ -4845,21 +4845,20 @@
     "importance": 5
   },
   {
-    "keyword": "대한기계설비건설협회",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "기계설비협회, 물가協과 손잡고 적정 공사비 산정 기반 마련 - metroseoul.co.kr",
-    "link": "http://www.metroseoul.co.kr/article/20261029500037",
-    "description": "'기계설비 단가 시장조사·원가계산'등 협력키로 허용주 대한기계설비건설협회장(오른쪽)이 김수용 한국물가협회장과 MOU를 맺고 기념촬영을 하고 있다. /기계설비건설협회 대한기계설비건설협회가 한국물가협회와 손잡고...",
-    "published_at": "2026-10-29T08:48:00+09:00",
-    "cluster_id": "a5d5",
-    "publisher": "metroseoul.co.kr",
-    "title_clean": "기계설비협회, 물가協과 손잡고 적정 공사비 산정 기반 마련",
-    "summary": "대한기계설비건설협회가 한국물가협회와 MOU를 체결하여 기계설비 단가 시장조사 및 원가계산 협력을 추진한다. 이를 통해 건설공사의 적정 공사비 산정 기반을 마련하는 실질적 협력이 이루어진다.",
+    "keyword": "포스코이앤씨",
+    "category": "종합건설사",
+    "is_company": false,
+    "title": "개관 첫날부터 상담석 북적… 전용 84㎡ '더샵 퍼스트월드 서울' 오피스... - 국토일보",
+    "link": "http://www.ikld.kr/news/articleView.html?idxno=345059",
+    "description": "포스코이앤씨가 서울 중랑구 상봉동에 선보이는 '더샵 퍼스트월드 서울' 오피스텔이 지난 27일 견본주택을 열고 본격적인 분양 일정에 돌입했다. 개관 첫날부터 견본주택 현장에는 단지의 입지와 특화 설계, 전용...",
+    "published_at": "2026-11-28T08:52:00+09:00",
+    "cluster_id": "c186",
+    "publisher": "국토일보",
+    "title_clean": "개관 첫날부터 상담석 북적… 전용 84㎡ '더샵 퍼스트월드 서울' 오피스...",
+    "summary": "포스코이앤씨가 서울 중랑구에 공급하는 '더샵 퍼스트월드 서울' 오피스텔이 견본주택 개관 첫날부터 상담 수요가 증가하며 순조로운 분양 출발을 보이고 있다. 전용 84㎡ 규모의 특화된 설계와 입지 조건이 소비자 관심을 끌고 있다.",
     "sentiment": "positive",
-    "collected_at": "2026-10-29T09:03:43+09:00",
-    "event_label": "대한기계설비건설협회 한국물가협회와 MOU 체결",
-    "importance": 5
+    "collected_at": "2026-11-28T09:05:28+09:00",
+    "importance": 2
   },
   {
     "keyword": "삼성중공업",
@@ -20844,22 +20843,6 @@
     "sentiment": "positive",
     "collected_at": "2026-11-23T11:25:00+09:00",
     "importance": 2
-  },
-  {
-    "keyword": "현대산업개발",
-    "category": "종합건설사",
-    "is_company": false,
-    "title": "IPARK현대산업개발, 3763억 부산 수안1구역 재개발 수주 - bizwork.co.kr",
-    "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=421064",
-    "description": "IPARK현대산업개발이 부산 수안1구역 재개발과 광명 하안주공6·7단지 재건축을 수주하며 올해 도시정비사업 누적 수주액 4조원을 넘어섰다. IPARK현대산업개발은 지난 21일 부산 수안1구역 재개발 시공사 선정...",
-    "published_at": "2026-11-23T11:18:00+09:00",
-    "cluster_id": "6fca",
-    "publisher": "bizwork.co.kr",
-    "title_clean": "IPARK현대산업개발, 3763억 부산 수안1구역 재개발 수주",
-    "summary": "IPARK현대산업개발이 부산 수안1구역 재개발(3763억원) 등을 수주하며 올해 도시정비사업 누적 수주액 4조원을 돌파했다. 주요 건설사의 대규모 수주 성과로 건설업계의 수주 호황을 반영한다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-23T11:25:00+09:00",
-    "importance": 3
   },
   {
     "keyword": "건설현장 안전",
