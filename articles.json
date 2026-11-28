@@ -4590,23 +4590,6 @@
     "importance": 7
   },
   {
-    "keyword": "건설공제조합",
-    "category": "조합·협회",
-    "is_company": true,
-    "title": "건물 팔고 리츠화…공제회 ‘자산 다이어트’[시그널] - sedaily.com",
-    "link": "https://www.sedaily.com/article/20107669?ref=naver",
-    "description": "29일 투자은행(IB) 업계에 따르면 건설공제조합은 창원 건설회관을 매각 중이다. 경남 창원시 마산회원구에 위치한 회관은 지하 1층~지상 6층, 연면적 2648㎡(약 800평) 규모로 예상 매각가는 49억 원이다. 건설공제조합은...",
-    "published_at": "2026-10-29T17:27:00+09:00",
-    "cluster_id": "8fc7",
-    "publisher": "sedaily.com",
-    "title_clean": "건물 팔고 리츠화…공제회 ‘자산 다이어트’[시그널]",
-    "summary": "건설공제조합을 비롯한 주요 공제회들이 경기 불확실성 속에서 비핵심 자산을 매각·유동화하고 있다. 건설공제조합은 창원 건설회관 매각, 교직원공제회는 8개 회관을 리츠로 전환하는 등 자산 다이어트를 추진 중이다.",
-    "sentiment": "negative",
-    "collected_at": "2026-10-29T17:46:25+09:00",
-    "event_label": "건설공제조합 창원 건설회관 매각 및 비핵심 자산 유동화",
-    "importance": 7
-  },
-  {
     "keyword": "현대산업개발",
     "category": "종합건설사",
     "is_company": false,
@@ -20604,6 +20587,22 @@
     "summary": "한국수력원자력이 대우건설·두산에너빌리티 컨소시엄과 체코 두코바니 원전사업 시공분야 공동협력 협약을 종료하고 후속 시공사 선정 절차를 진행 중이다. 한국 건설사들의 대규모 해외 원전 프로젝트 수주로 건설업계의 신규 사업 기회가 확대되는 상황이다.",
     "sentiment": "positive",
     "collected_at": "2026-11-23T11:41:05+09:00",
+    "importance": 2
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
+    "title": "포스코, 5개월만에 노사 갈등 봉합…경영 정상화 속도(종합) - edaily.co.kr",
+    "link": "https://www.edaily.co.kr/News/Read?newsId=01735126645650312&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "description": "국내 건설경기 침체와 중국산 저가 철강재 유입으로 내수 시장이 위축된 가운데 미국과 유럽연합(EU)의 무역장벽 강화로 수출 여건도 녹록지 않은 상황이다. 저탄소 생산체제 전환에 따른 대규모 투자 부담까지 안고...",
+    "published_at": "2026-11-28T17:39:00+09:00",
+    "cluster_id": "4a55",
+    "publisher": "edaily.co.kr",
+    "title_clean": "포스코, 5개월만에 노사 갈등 봉합…경영 정상화 속도(종합)",
+    "summary": "포스코가 5개월 만에 노사 갈등을 해결하며 경영 정상화에 나서고 있다. 다만 국내 건설경기 침체, 중국산 저가 철강재 경쟁, 미국·EU 무역장벽 강화, 저탄소 전환 투자 부담 등 다중의 어려운 사업 환경에 직면해 있다.",
+    "sentiment": "neutral",
+    "collected_at": "2026-11-28T17:48:31+09:00",
     "importance": 2
   },
   {
