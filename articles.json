@@ -20831,6 +20831,22 @@
     "keyword": "건설경기",
     "category": "시장·경기",
     "is_company": false,
+    "title": "대구 기업 74.1% \"올해 실적 목표 미달\"… 86.7% 내년 '안정·긴축' 경영 - news.bbsi.co.kr",
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121582",
+    "description": "박윤경 대구상의 회장은 \"제조업 생산과 수출이 증가하고 있지만 건설경기 침체와 내수 부진으로 기업들의 체감경기는 여전히 어렵다\"며 \"AI 등 첨단산업 중심의 대전환기를 대구경제 재도약의 기회로 삼아 지역...",
+    "published_at": "2026-11-28T12:46:00+09:00",
+    "cluster_id": "7e2b",
+    "publisher": "news.bbsi.co.kr",
+    "title_clean": "대구 기업 74.1% \"올해 실적 목표 미달\"… 86.7% 내년 '안정·긴축' 경영",
+    "summary": "대구 기업 74.1%가 올해 실적 목표 미달을 예상하며, 86.7%가 내년 경영을 안정·긴축 기조로 전환할 계획이다. 제조업 생산·수출 증가에도 불구하고 건설경기 침체와 내수 부진으로 기업들의 체감경기가 여전히 어렵다고 평가했다.",
+    "sentiment": "negative",
+    "collected_at": "2026-11-28T12:52:25+09:00",
+    "importance": 4
+  },
+  {
+    "keyword": "건설경기",
+    "category": "시장·경기",
+    "is_company": false,
     "title": "[PPSS 기업인사이트] 실적 부진 책임은 직원 몫인가…DL이앤씨 심야 소집... - ppss.kr",
     "link": "https://www.ppss.kr/news/articleView.html?idxno=323560",
     "description": "건설경기 침체와 공사비 상승, 신규 사업 수주 경쟁 등 국내 건설업계가 처한 경영환경이 녹록지 않은 것은 사실이다. DL이앤씨의 실적 역시 외형 성장 측면에서는 부진한 모습을 보이고 있다. 회사가 지난달 30일 발표한...",
@@ -32265,22 +32281,6 @@
     "summary": "롯데건설이 월드타워 담보 해제를 통해 PF펀드 차입금 1조2000억원을 상환하고 펀드 재구조화를 완료했다. 부채비율도 186.7%에서 166.3%로 개선되어 유동성 위기설을 불식시켰다.",
     "sentiment": "positive",
     "collected_at": "2026-11-25T06:56:41+09:00",
-    "importance": 2
-  },
-  {
-    "keyword": "건설 신기술",
-    "category": "신기술",
-    "is_company": false,
-    "title": "한솔홈데코, DL이앤씨 '한숲 R&D 우수협력 파트너스' 선정 - the-stock.kr",
-    "link": "https://www.the-stock.kr/news/articleView.html?idxno=33902",
-    "description": "주요 결과물인 '욕실 건식벽체 방수 시스템'은 한솔홈데코의 기능성 벽면 마감재 '콜렉트월'과 DL이앤씨의 건축 설계·시공 공법을 결합한 기술로, 앞서 지난 5월 국토교통부로부터 건설신기술 인증을 받았다. 해당...",
-    "published_at": "2026-11-25T06:40:00+09:00",
-    "cluster_id": "2357",
-    "publisher": "",
-    "title_clean": "한솔홈데코, DL이앤씨 '한숲 R&D 우수협력 파트너스' 선정 - the-stock.kr",
-    "summary": "한솔홈데코가 DL이앤씨로부터 '한숲 R&D 우수협력 파트너스'로 선정되었다. 두 회사가 개발한 '욕실 건식벽체 방수 시스템'은 기능성 벽면 마감재와 건축 설계·시공 공법을 결합한 기술로, 지난 5월 국토교통부로부터 건설신기술 인증을 획득했다.",
-    "sentiment": "positive",
-    "collected_at": "2026-11-25T06:46:42+09:00",
     "importance": 2
   }
 ]
